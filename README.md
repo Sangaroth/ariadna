@@ -146,7 +146,7 @@ ariadna/
 ## Documentación
 
 - **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** — argumentación de diseño: por qué desacoplar MCP del LLM, por qué dos flujos, por qué la taxonomía importa más que la tecnología
-- **[docs/TAXONOMY_PROPOSAL.md](docs/TAXONOMY_PROPOSAL.md)** — propuesta abierta de schema, tags, entities, vocabulary.json controlado e ingesta multi-formato con [markitdown](https://github.com/microsoft/markitdown). Doc vivo, no cerrado
+- **[docs/TAXONOMY_PROPOSAL.md](docs/TAXONOMY_PROPOSAL.md)** — propuesta abierta del schema multi-fuente (papers PDF, vídeos URL, libros, podcasts, threads, ...), separación sources/chunks, autores como entidad canónica con ORCID/Wikidata, taxonomía de dominios académicos abiertos (OpenAlex/arXiv), e ingesta con [markitdown](https://github.com/microsoft/markitdown) + Crossref/arXiv API. Doc vivo, no cerrado
 - **[docs/PHASES.md](docs/PHASES.md)** — roadmap completo de las 5 fases (A→E) y criterios para saltar de una a otra
 - **[docs/SESSION_CONTEXT.md](docs/SESSION_CONTEXT.md)** — estado vivo del proyecto, decisiones tomadas, bugs conocidos, comandos útiles
 - **[docs/run_pipeline.md](docs/run_pipeline.md)** — pipeline técnico end-to-end (corpus → parser → embedding → Qdrant → MCP → LLM)
