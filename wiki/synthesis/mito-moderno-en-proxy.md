@@ -154,18 +154,16 @@ Y la alegoría epistémica:
 > "La conciencia permite hacer saltos fuera del sistema: cada vez que aprendes algo, todo el conjunto cambia. Aprender más del mundo es alejarse, salir una capa hacia arriba, exactamente como conocer una capa de Matrix. La vida son pequeños despertares sucesivos, por eso Matrix está ambientado en código informático."
 → [Matrix y el camino del héroe, 49:49](https://youtu.be/kF5KHE_fF7g?t=2989)
 
-## Conexiones cross-conceptos del piloto
+## Conexión con otros conceptos
 
-Esta página activa explícitamente el grafo de wikilinks emergente:
-
-- **[[fight-club-1999-film]]**: caso de mito moderno donde la **fuga depresiva** sustituye al viaje del héroe — ver pieza sobre escisión psíquica de Tyler en esa página
+- **[[fight-club-1999-film]]**: caso de mito moderno donde la **fuga depresiva** sustituye al viaje del héroe — Tyler como escisión psíquica
 - **[[shadow-archetype]]**: en Lovecraft el horror cósmico opera como sombra cultural colectiva (lo reprimido civilizatorio asomándose); en Fight Club como sombra individual (Tyler)
 - **[[hieros-gamos]]**: estructura presente en Matrix (Neo-Trinity), en Superman (Clark-Lois), y como meta-arco de muchos mitos modernos
 - **[[jung-carl-gustav]]**: marco teórico que articula esta lectura — la psicología analítica es el aparato que permite leer todas estas obras como recapitulaciones arquetípicas
+- **[[lovecraft-howard]]**: caso paradigmático de mitología propia consciente de sí
 
 ## Lagunas
-- **Lovecraft como autor con su propia página**: aunque está extensamente citado aquí, faltaría una página `[[lovecraft-howard]]` dedicada con su biografía, obras canónicas y posición en la mitología propia
-- **El mito en la ciencia ficción más allá de Matrix** (Alien, Prometeo, Blade Runner, Dune) — el canal los toca pero no aparecen suficientemente en este batch
-- **El mito en el videojuego** (Bloodborne sí aparece como herencia lovecraftiana, pero la dimensión específicamente lúdica del mito digital queda por sintetizar)
-- **La economía cultural del mito moderno** — cómo plataformas, franquicias y serialización degradan los mitos a `autotipo` (categoría del canal: prototipo vaciado de sentido moral). Esta laguna ya fue identificada en validación previa de Sprint 1
-- **Crítica al mito moderno** — el canal habla de la deriva hacia "mitología impropia" en mucha cultura pop pero estos chunks no la sistematizan
+- **El mito en la ciencia ficción más allá de Matrix** (Alien, Prometeo, Blade Runner, Dune) — el canal los toca pero no los sistematiza con la misma profundidad
+- **El mito en el videojuego** (Bloodborne aparece como herencia lovecraftiana, pero la dimensión específicamente lúdica del mito digital queda por desarrollar)
+- **La economía cultural del mito moderno** — cómo plataformas, franquicias y serialización degradan los mitos a `autotipo` (categoría del canal: prototipo vaciado de sentido moral)
+- **Crítica al mito moderno** — el canal habla de la deriva hacia "mitología impropia" en mucha cultura pop pero no la sistematiza

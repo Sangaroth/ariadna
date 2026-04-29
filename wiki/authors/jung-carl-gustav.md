@@ -133,6 +133,6 @@ Aspectos donde el canal extiende o matiza al junguiano clásico:
 
 ## Lagunas
 - **El propio Jung como autor**: el corpus actual NO ingiere sus obras (Tipos psicológicos, El hombre y sus símbolos, Aion, etc.). Cuando entre Fase D, los libros de Jung pasarán de ser "marco teórico de referencia" a ser **fuentes ingeridas con sus propios chunks** — esta página entonces tendrá `as_author_of_sources` poblada
-- **Discípulos y herederos junguianos** que el canal lee (Hillman, Edinger, von Franz, Joseph Campbell) — no aparecen en el top-15 de este batch. Probablemente merezcan páginas propias en sucesivas iteraciones
-- **La crítica freudiana al junguianismo** y la respuesta de Jung — no cubierto en estos chunks
-- **Aspectos clínicos** (proceso analítico, transferencia, individuación clínica) — el canal los menciona pero los chunks recuperados son más conceptuales que clínicos
+- **Discípulos y herederos junguianos** que el canal lee (Hillman, Edinger, von Franz, Joseph Campbell) — mencionados ocasionalmente pero sin tratamiento dedicado
+- **La crítica freudiana al junguianismo** y la respuesta de Jung — no desarrollado en el corpus
+- **Aspectos clínicos** (proceso analítico, transferencia, individuación clínica) — el canal los menciona pero el material disponible es más conceptual que clínico

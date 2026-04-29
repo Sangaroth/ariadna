@@ -147,7 +147,7 @@ El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al moni
 
 ## Lagunas
 - **Listado completo de los ~30 arquetipos principales**: el canal menciona la cifra pero no enumera el catálogo. Sería útil rastrear si existe esa lista canónica en algún vídeo monográfico
-- **Distinción "estructural / mitemas" vs "personales / encarnados en figuras"**: mencionada pero no desarrollada en este batch
+- **Distinción "estructural / mitemas" vs "personales / encarnados en figuras"**: mencionada pero no desarrollada en el corpus
 - **Origen biológico del inconsciente colectivo**: el canal lo trata como hecho cognitivo pero no explora la base evolutiva (¿cómo se hereda? ¿selección? ¿exaptación?)
 - **Críticas modernas al concepto**: el canal no recoge las objeciones contemporáneas (Pinker y otros) al inconsciente colectivo como ineficiente o cripto-lamarckiano
 - **Aplicación a culturas no-occidentales**: la lista de mitos primarios usa material principalmente mesopotámico-grecorromano-judeocristiano. ¿El canal articula material arquetípico amerindio, africano, australiano? Hay alguna mención (sueños australianos) pero pocos chunks

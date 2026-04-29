@@ -158,5 +158,5 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Círculo de Lovecraft** (Robert E. Howard, Clark Ashton Smith, August Derleth): mencionados ocasionalmente pero no desarrollados
 - **Distinción entre "mitos de Cthulhu" canon y expansiones posteriores** (Derleth, etc.): no aparece
 - **Comparación detallada con Poe**: el canal lo menciona como antecedente directo pero no profundiza
-- **Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos aparecen citados con timestamp claro en este batch — necesitaría discovery por título de cuento individual
-- **Lectura junguiana directa de Lovecraft**: el canal usa marco junguiano para casi todo pero no aparece un análisis explícito "Lovecraft según Jung" en estos chunks
+- **Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos quedan recogidos en esta página con timestamp explícito
+- **Lectura junguiana directa de Lovecraft**: el canal usa marco junguiano para casi todo pero no articula un análisis explícito "Lovecraft según Jung"

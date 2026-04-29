@@ -94,11 +94,9 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 - Desarrollado por [[jung-carl-gustav]] dentro de su psicología analítica
 - Complementario de [[anima-archetype]] en la pareja arquetípica masculino-femenino del inconsciente
 - Paso clave hacia la [[individuation]] — integrar la sombra es prerrequisito para la individuación
-- Manifestación cinematográfica explícita en [[fight-club-1999-film]] (no cubierta directamente en los chunks de este batch — ver Lagunas)
+- Manifestación cinematográfica canónica en [[fight-club-1999-film]] (Tyler Durden como prototipo arquetípico de la sombra)
 
 ## Lagunas
-Honesto reconocimiento de qué NO cubre este compilado:
 
-- **Fight Club no aparece en el top-15 de este batch** pese a ser el caso canónico del canal para la sombra. El discovery via Qdrant trajo Peter Pan y el síndrome de Wendy con más fuerza. Esto sugiere afinar el query lateral o esperar a que el extractor del cold path real reciba el `summary.md` completo de "Análisis arquetípico de el club de la lucha" como input
-- **Sombra colectiva** (de grupos sociales, naciones, generaciones) — el canal toca polarización en otros vídeos pero no se conecta explícitamente al arquetipo en este batch
-- **Distinción Jung clásico vs neo-junguianos** — la página podría profundizar en cómo el canal lee la sombra desde su propio modelo 3Q vs la formulación de Jung
+- **Sombra colectiva** (de grupos sociales, naciones, generaciones) — el canal toca polarización en otros vídeos pero no la conecta explícitamente al arquetipo
+- **Distinción Jung clásico vs neo-junguianos** — el canal lee la sombra desde su propio modelo 3Q sin contrastarla en detalle con la formulación junguiana original

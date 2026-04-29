@@ -141,5 +141,5 @@ Lectura antropológica del vínculo:
 ## Lagunas
 - **Hieros gamos en mitología clásica directa** (Zeus-Hera, sumerio Inanna-Dumuzi, egipcio Isis-Osiris): el canal lo aplica masivamente a obras audiovisuales modernas pero los chunks recuperados son escasos en raíces mitológicas explícitas
 - **Tradición esotérica occidental** (alquimia hermética, cábala) que articula el matrimonio sagrado en clave operativa: hay un chunk sobre alquimia poética pero no profundización
-- **El hieros gamos en Fight Club** (Jack-Marla como conjunción mal resuelta) — interesante hueco: la página de [[fight-club-1999-film]] sí lo apunta como "encuentro con la diosa", pero la conexión con la teoría general del hieros gamos no aparece en estos chunks
-- **Crítica feminista al concepto** (riesgo de esencializar masculino/femenino) — el canal toca el tema en otros vídeos pero no en estos chunks
+- **El hieros gamos en Fight Club** (Jack-Marla como conjunción mal resuelta) — la lectura de [[fight-club-1999-film]] como "encuentro con la diosa" no está conectada explícitamente con la teoría general del hieros gamos en el material analizado
+- **Crítica feminista al concepto** (riesgo de esencializar masculino/femenino) — el canal toca el tema en otros vídeos pero no lo articula contra el modelo polar
