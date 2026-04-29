@@ -22,12 +22,11 @@ domain:
   - interdisciplinary.cultural_studies
 domain_primary: arts.cinema
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[individuation]]"
-  - "[[consumismo-critica]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
+relations:
+  - {type: exemplifies,        to: shadow-archetype,    weight: canonical, note: "Tyler Durden como prototipo arquetípico de la sombra: lo reprimido del Jack consumista"}
+  - {type: manifestation_of,   to: consumismo-critica,  weight: canonical, note: "ilustra la tesis del consumismo como anestesia del vacío existencial"}
+  - {type: references,         to: individuation,       note: "el final apunta hacia la individuación: integración de la sombra (Tyler) y rescate de la capacidad de amar (Marla)"}
+  - {type: interpreted_by,     to: jung-carl-gustav,    note: "el canal aplica marco junguiano clásico: viaje del héroe + encuentro con la diosa"}
 
 # Una pieza de obra dedicada en el corpus + 5 chunks adicionales en otros vídeos
 sources_count: 6

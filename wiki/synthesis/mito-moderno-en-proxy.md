@@ -16,20 +16,18 @@ domain:
   - social.psychology.jungian
 domain_primary: interdisciplinary.cultural_studies
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[hieros-gamos]]"
-  - "[[mito-solar]]"
-  - "[[mito-lunar]]"
-  - "[[mito-polar]]"
-  - "[[individuation]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-  - "[[lovecraft-howard]]"
-related_works:
-  - "[[fight-club-1999-film]]"
-  - "[[matrix-1999-film]]"
-  - "[[man-of-steel-2013-film]]"
+relations:
+  - {type: synthesizes,    to: shadow-archetype,         note: "en Lovecraft sombra cultural colectiva, en Fight Club sombra individual"}
+  - {type: synthesizes,    to: hieros-gamos,             note: "estructura presente en Matrix (Neo-Trinity), Superman (Clark-Lois), meta-arco de muchos mitos modernos"}
+  - {type: synthesizes,    to: mito-solar,               note: "Cristo, Hércules, Apolo, Superman comparten estructura solar"}
+  - {type: synthesizes,    to: mito-lunar,               note: "complemento femenino del mito solar"}
+  - {type: synthesizes,    to: mito-polar,               note: "Matrix como mito polar tecnológico (arquitecto/oráculo); el polar como mito de transición real"}
+  - {type: synthesizes,    to: individuation,            note: "Matrix como camino a la gnosis y despertares sucesivos; el cambio alquímico como mecanismo"}
+  - {type: synthesizes,    to: lovecraft-howard,         note: "caso paradigmático de mitología propia consciente de sí — mitología negativa que invierte el sentido clásico"}
+  - {type: references,     to: jung-carl-gustav,         note: "marco teórico que articula la lectura como recapitulación arquetípica"}
+  - {type: cites,          to: fight-club-1999-film,     note: "caso de mito moderno donde la fuga depresiva sustituye al viaje del héroe"}
+  - {type: cites,          to: matrix-1999-film,         weight: canonical, note: "caso paradigmático del mito moderno serio: gnosis + mito polar tecnológico + alegoría epistémica de despertares"}
+  - {type: cites,          to: man-of-steel-2013-film,   note: "Superman como recorrido completo del Tarot (22 Arcanos) — mito solar contemporáneo"}
 
 # Síntesis cross-corpus de uno de los temas más recurrentes del canal
 sources_count: 10

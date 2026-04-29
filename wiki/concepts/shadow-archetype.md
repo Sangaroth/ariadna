@@ -14,14 +14,13 @@ domain:
   - humanities.philosophy
 domain_primary: social.psychology.jungian
 
-related_concepts:
-  - "[[anima-archetype]]"
-  - "[[individuation]]"
-  - "[[collective-unconscious]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-related_works:
-  - "[[fight-club-1999-film]]"
+relations:
+  - {type: developed_by,    to: jung-carl-gustav,        note: "dentro de la psicología analítica"}
+  - {type: contained_in,    to: collective-unconscious,  note: "uno de sus contenidos centrales"}
+  - {type: compared_with,   to: anima-archetype,         note: "complementario en la pareja arquetípica masculino-femenino del inconsciente"}
+  - {type: references,      to: individuation,           note: "integrar la sombra es prerrequisito para la individuación"}
+  - {type: exemplified_by,  to: fight-club-1999-film,    weight: canonical, note: "Tyler Durden como prototipo arquetípico de la sombra"}
+  - {type: exemplified_by,  to: peter-pan-1953-film,     note: "la sombra cosida con jabón como elemento separable y reintegrable"}
 
 sources_count: 8
 last_compiled: 2026-04-29

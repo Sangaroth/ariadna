@@ -18,15 +18,14 @@ domain:
   - arts.cinema
 domain_primary: humanities.religion
 
-related_concepts:
-  - "[[anima-archetype]]"
-  - "[[individuation]]"
-  - "[[mito-solar]]"
-  - "[[mito-lunar]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-related_works:
-  - "[[fight-club-1999-film]]"
+relations:
+  - {type: developed_by,    to: jung-carl-gustav,    note: "el canal hereda la lectura junguiana de la alquimia como tratado simbólico de la individuación"}
+  - {type: contained_in,    to: mito-polar,          note: "culminación interna del mito polar; el polar es la meta-estructura"}
+  - {type: synthesizes,     to: anima-archetype,     note: "es la unión sagrada de la pareja ánima/ánimus expresada como héroe-diosa"}
+  - {type: compared_with,   to: individuation,       note: "el hieros gamos es la culminación interna de la individuación"}
+  - {type: references,      to: mito-solar,          note: "lo masculino encarna el mito solar en el hieros gamos: viaje vital, enfrentamiento con lo desconocido"}
+  - {type: references,      to: mito-lunar,          note: "lo femenino encarna el mito lunar: gracia, espera, sostén"}
+  - {type: exemplified_by,  to: fight-club-1999-film, weight: tangential, note: "Jack-Marla como conjunción mal resuelta — caso truncado, hueco identificado en lagunas"}
 
 # El hieros gamos es uno de los conceptos más recurrentes del canal — usado en
 # análisis arquetípicos de prácticamente todas las obras tratadas

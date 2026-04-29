@@ -16,15 +16,13 @@ domain:
   - arts.cinema
 domain_primary: social.psychology.jungian
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[anima-archetype]]"
-  - "[[collective-unconscious]]"
-  - "[[hieros-gamos]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-related_works:
-  - "[[fight-club-1999-film]]"
+relations:
+  - {type: developed_by,    to: jung-carl-gustav,        note: "el canal añade el dispositivo del 'cambio alquímico' y el viaje del héroe como vehículo narrativo"}
+  - {type: process_of,      to: collective-unconscious,  note: "el yo individual entra en diálogo productivo con las estructuras transpersonales"}
+  - {type: synthesizes,     to: shadow-archetype,        note: "primero se integra la sombra (contenido reprimido)"}
+  - {type: synthesizes,     to: anima-archetype,         note: "después se reconoce la pareja contrasexual interior"}
+  - {type: compared_with,   to: hieros-gamos,            note: "la individuación culmina en el hieros gamos interior: unión de los opuestos arquetípicos en un solo self"}
+  - {type: exemplified_by,  to: fight-club-1999-film,    note: "el final apunta hacia la individuación: integración de la sombra (Tyler) y rescate de la capacidad de amar (Marla)"}
 
 sources_count: 13
 last_compiled: 2026-04-29

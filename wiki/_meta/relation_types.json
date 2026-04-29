@@ -1,22 +1,205 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "schema_version": "1.0.0",
-  "last_updated": "2026-04-29",
-  "description": "Set canónico de tipos de relación permitidos en wikilinks tipados de las páginas wiki. El extractor LLM solo puede usar estos tipos. Nuevos tipos propuestos van a relation_types_proposed.json hasta promoción manual.",
+  "last_updated": "2026-04-30",
+  "description": "Set canónico de tipos de relación permitidos en wikilinks tipados de las páginas wiki. Cada relación se declara en frontmatter.relations[]: {type, to, [citations], [note], [weight]}. La prosa del cuerpo es la fuente de verdad enciclopédica; relations[] es el índice del grafo derivado de esa prosa. El extractor LLM (Fase D) solo puede usar estos tipos. Tipos nuevos propuestos van a relation_types_proposed.json hasta promoción manual del propietario.",
+
   "types": {
-    "developed_by": "El concepto fue desarrollado/formulado por la entidad X (autor)",
-    "criticizes": "El autor o concepto X critica al concepto/autor Y",
-    "extends": "El concepto X extiende, refina o profundiza Y",
-    "contradicts": "X y Y se contradicen explícitamente",
-    "synthesizes": "X integra/sintetiza Y y Z",
-    "exemplifies": "X es ejemplo concreto del concepto/arquetipo Y",
-    "interprets": "El analista/canal X interpreta la obra Y",
-    "based_on": "La obra X está basada en la obra Y (adaptación, derivación)",
-    "cites": "El paper/obra X cita explícitamente a Y",
-    "references": "El concepto X refiere/menciona a Y sin desarrollarlo",
-    "compared_with": "X y Y se contrastan o ponen en relación sin que una derive de la otra",
-    "manifestation_of": "X es manifestación cultural concreta del arquetipo Y",
-    "domain_of": "X pertenece al dominio académico Y",
-    "see_also": "X y Y son temas relacionados sin relación tipificada"
-  }
+    "developed_by": {
+      "description": "X (concepto/obra) fue desarrollado/formulado por Y (autor)",
+      "from": ["concept", "synthesis"],
+      "to": ["author"],
+      "inverse": "developed"
+    },
+    "developed": {
+      "description": "X (autor) desarrolló/formuló el concepto Y",
+      "from": ["author"],
+      "to": ["concept", "synthesis"],
+      "inverse": "developed_by"
+    },
+    "criticizes": {
+      "description": "X critica al concepto/autor Y (objeción explícita, no mera divergencia)",
+      "from": ["author", "concept", "synthesis"],
+      "to": ["author", "concept"],
+      "inverse": "criticized_by"
+    },
+    "criticized_by": {
+      "description": "X es criticado por Y",
+      "from": ["author", "concept"],
+      "to": ["author", "concept", "synthesis"],
+      "inverse": "criticizes"
+    },
+    "extends": {
+      "description": "X extiende, refina o profundiza Y (continuidad, no oposición)",
+      "from": ["author", "concept", "synthesis"],
+      "to": ["concept", "synthesis"],
+      "inverse": "extended_by"
+    },
+    "extended_by": {
+      "description": "X es extendido/refinado por Y",
+      "from": ["concept", "synthesis"],
+      "to": ["author", "concept", "synthesis"],
+      "inverse": "extends"
+    },
+    "contradicts": {
+      "description": "X y Y se contradicen explícitamente — conflicto estructural",
+      "from": ["concept", "author", "synthesis"],
+      "to": ["concept", "author", "synthesis"],
+      "inverse": "contradicts"
+    },
+    "inverts": {
+      "description": "X invierte estructuralmente a Y sin contradecirlo (mecánica especular). Ej: el horror cósmico lovecraftiano invierte el animismo arquetípico — misma estructura proyectiva con polaridad invertida",
+      "from": ["author", "concept", "entity_work", "synthesis"],
+      "to": ["concept", "author"],
+      "inverse": "inverted_by"
+    },
+    "inverted_by": {
+      "description": "X tiene una inversión estructural en Y",
+      "from": ["concept", "author"],
+      "to": ["author", "concept", "entity_work", "synthesis"],
+      "inverse": "inverts"
+    },
+    "synthesizes": {
+      "description": "X integra/sintetiza Y y Z en una nueva articulación. Aplica a páginas tipo synthesis (síntesis cross-conceptos), authors (que articulan teorías) y también concepts-proceso que integran otros conceptos como contenido (ej. la individuación sintetiza shadow + anima en el self)",
+      "from": ["author", "synthesis", "concept"],
+      "to": ["concept", "author"],
+      "inverse": "synthesized_in"
+    },
+    "synthesized_in": {
+      "description": "X aparece sintetizado en Y",
+      "from": ["concept", "author"],
+      "to": ["author", "synthesis", "concept"],
+      "inverse": "synthesizes"
+    },
+    "exemplifies": {
+      "description": "X (obra/instancia) es ejemplo concreto del concepto/arquetipo Y",
+      "from": ["entity_work"],
+      "to": ["concept"],
+      "inverse": "exemplified_by"
+    },
+    "exemplified_by": {
+      "description": "X (concepto) tiene como ejemplo concreto a Y (obra)",
+      "from": ["concept"],
+      "to": ["entity_work"],
+      "inverse": "exemplifies"
+    },
+    "interprets": {
+      "description": "X (autor/canal) interpreta la obra Y desde un marco teórico",
+      "from": ["author"],
+      "to": ["entity_work", "concept"],
+      "inverse": "interpreted_by"
+    },
+    "interpreted_by": {
+      "description": "X (obra/concepto) es interpretado por Y (autor/canal)",
+      "from": ["entity_work", "concept"],
+      "to": ["author"],
+      "inverse": "interprets"
+    },
+    "based_on": {
+      "description": "X (obra) está basada en Y (obra) — adaptación, derivación, reescritura",
+      "from": ["entity_work"],
+      "to": ["entity_work"],
+      "inverse": "basis_of"
+    },
+    "basis_of": {
+      "description": "X (obra) sirve de base para Y (obra derivada)",
+      "from": ["entity_work"],
+      "to": ["entity_work"],
+      "inverse": "based_on"
+    },
+    "cites": {
+      "description": "X (paper/obra) cita explícitamente a Y (obra/concepto/autor)",
+      "from": ["entity_work", "author", "synthesis"],
+      "to": ["entity_work", "author", "concept"],
+      "inverse": "cited_by"
+    },
+    "cited_by": {
+      "description": "X es citado explícitamente por Y",
+      "from": ["entity_work", "author", "concept"],
+      "to": ["entity_work", "author", "synthesis"],
+      "inverse": "cites"
+    },
+    "references": {
+      "description": "X refiere/menciona a Y sin desarrollarlo (más débil que cites o exemplifies)",
+      "from": ["any"],
+      "to": ["any"],
+      "inverse": "referenced_by"
+    },
+    "referenced_by": {
+      "description": "X es referenciado por Y",
+      "from": ["any"],
+      "to": ["any"],
+      "inverse": "references"
+    },
+    "compared_with": {
+      "description": "X y Y se contrastan o ponen en relación sin que una derive de la otra (relación simétrica)",
+      "from": ["any"],
+      "to": ["any"],
+      "inverse": "compared_with"
+    },
+    "manifestation_of": {
+      "description": "X (obra/instancia) es manifestación cultural concreta del arquetipo/concepto Y. Más estructural que exemplifies — exemplifies es 'caso de'; manifestation_of es 'encarnación cultural de'",
+      "from": ["entity_work"],
+      "to": ["concept"],
+      "inverse": "manifested_in"
+    },
+    "manifested_in": {
+      "description": "X (concepto/arquetipo) tiene manifestación cultural concreta en Y. Útil para arquetipos cosmológicos manifestándose en mitos específicos",
+      "from": ["concept"],
+      "to": ["entity_work", "concept"],
+      "inverse": "manifestation_of"
+    },
+    "contains": {
+      "description": "X aloja/alberga/contiene a Y como contenido suyo (relación parte-todo). Ej: el inconsciente colectivo contiene la sombra como uno de sus contenidos centrales",
+      "from": ["concept", "synthesis"],
+      "to": ["concept", "author"],
+      "inverse": "contained_in"
+    },
+    "contained_in": {
+      "description": "X está contenido/alojado en Y. Ej: la sombra está contenida en el inconsciente colectivo",
+      "from": ["concept", "author"],
+      "to": ["concept", "synthesis"],
+      "inverse": "contains"
+    },
+    "process_of": {
+      "description": "X es el proceso/dinámica por el cual Y opera o se actualiza. Ej: la individuación es el proceso por el cual el yo individual entra en diálogo con el inconsciente colectivo",
+      "from": ["concept"],
+      "to": ["concept"],
+      "inverse": "has_process"
+    },
+    "has_process": {
+      "description": "X (estructura) tiene en Y su proceso/dinámica de actualización",
+      "from": ["concept"],
+      "to": ["concept"],
+      "inverse": "process_of"
+    },
+    "domain_of": {
+      "description": "X pertenece al dominio académico Y (taxonomía OpenAlex)",
+      "from": ["any"],
+      "to": ["concept"],
+      "inverse": null
+    },
+    "see_also": {
+      "description": "X y Y son temas relacionados sin relación tipificada. Reservado para relaciones donde ningún otro type captura mejor la conexión — usar conservadoramente",
+      "from": ["any"],
+      "to": ["any"],
+      "inverse": "see_also"
+    }
+  },
+
+  "fields_per_relation": {
+    "type": "obligatorio. Uno de los types listados arriba",
+    "to": "obligatorio. page_id del target. Debe resolver a una página existente o, en caso de wiki incompleta, a un page_id que aparezca en wikilinks rotos del corpus (será compilado en batches futuros)",
+    "citations": "opcional pero recomendado. Lista de chunk_ids del corpus que justifican la relación. Formato: 'youtube:VIDEOID#TIMESTAMP_SECONDS'",
+    "note": "opcional. Matización breve en castellano que captura nuance perdida en el type canónico. Ej: 'inversión del animismo arquetípico'. Util cuando el type es necesario pero insuficiente",
+    "weight": "opcional. canonical | strong | tangential. Calibra fuerza de la relación. canonical=caso prototípico (Fight Club ejemplifica la sombra); strong=aparece varias veces; tangential=mención puntual"
+  },
+
+  "policy_notes": [
+    "El cuerpo de la página (prosa con [[wikilinks]] contextuales) es la fuente de verdad enciclopédica. relations[] es el índice del grafo derivado de esa prosa.",
+    "El validador (scripts/validate_wiki_relations.py) verifica: (a) cada relations[].to existe como página o es candidato conocido, (b) cada type está en este JSON, (c) cada page_id que aparece como [[wikilink]] en el cuerpo aparece también en relations[] (sino, error de coherencia).",
+    "Los 'from'/'to' de cada type son guía orientativa, no restricción dura — algunas relaciones genuinas cruzan tipos. Si el extractor LLM propone un type para una combinación from/to no listada, el validador marca warning (no error).",
+    "Inversos: cuando A declara 'developed_by → B', no es obligatorio que B declare 'developed → A'. La derivación inversa la puede hacer el grafo en runtime. Pero declarar ambas mejora robustez ante drift.",
+    "Tipos nuevos: si el extractor LLM (futuro) propone un type que no está aquí, lo anota en relation_types_proposed.json para revisión humana. Solo se promueven a este archivo por commit explícito del propietario."
+  ]
 }

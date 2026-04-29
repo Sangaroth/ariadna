@@ -26,11 +26,10 @@ domain_primary: arts.literature
 
 affiliations: []
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[collective-unconscious]]"
-related_works:
-  - "[[fight-club-1999-film]]"
+relations:
+  - {type: inverts,         to: collective-unconscious, note: "horror cósmico como inversión del animismo arquetípico — misma estructura proyectiva con polaridad invertida"}
+  - {type: references,      to: shadow-archetype,       note: "sus cuentos exploran territorialmente la sombra cósmica de la civilización; lo reprimido civilizatorio asomándose"}
+  - {type: compared_with,   to: fight-club-1999-film,   note: "ambos son lecturas del vacío existencial: por consumismo (Fight Club) vs por indiferencia cósmica (Lovecraft)"}
 
 # Lovecraft aparece en el corpus como AUTOR cuyas obras se LEEN íntegramente en directos
 # (a diferencia de Jung que aparece como marco teórico). El corpus tiene material directo

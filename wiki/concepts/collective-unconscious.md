@@ -16,17 +16,16 @@ domain:
   - interdisciplinary.cultural_studies
 domain_primary: social.psychology.jungian
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[anima-archetype]]"
-  - "[[individuation]]"
-  - "[[hieros-gamos]]"
-  - "[[mito-solar]]"
-  - "[[mito-lunar]]"
-  - "[[mito-polar]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-  - "[[lovecraft-howard]]"
+relations:
+  - {type: developed_by,    to: jung-carl-gustav,    note: "el canal articula con Lévi-Strauss y añade la distinción 'sueño colectivo'"}
+  - {type: contains,        to: shadow-archetype,    note: "uno de sus contenidos centrales"}
+  - {type: contains,        to: anima-archetype,     note: "aloja la pareja ánima/ánimus como estructuras transpersonales"}
+  - {type: contains,        to: hieros-gamos,        note: "uno de los mitos primarios albergados aquí"}
+  - {type: has_process,     to: individuation,       note: "el yo individual entra en diálogo productivo con sus contenidos"}
+  - {type: manifested_in,   to: mito-solar,          note: "expresión cosmológica recurrente"}
+  - {type: manifested_in,   to: mito-lunar,          note: "expresión cosmológica recurrente"}
+  - {type: manifested_in,   to: mito-polar,          note: "expresión cosmológica recurrente"}
+  - {type: inverted_by,     to: lovecraft-howard,    note: "horror cósmico lovecraftiano como inversión del animismo arquetípico"}
 
 sources_count: 13
 last_compiled: 2026-04-29

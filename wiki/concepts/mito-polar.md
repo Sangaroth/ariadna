@@ -16,18 +16,15 @@ domain:
   - humanities.philosophy
 domain_primary: humanities.religion
 
-related_concepts:
-  - "[[hieros-gamos]]"
-  - "[[anima-archetype]]"
-  - "[[collective-unconscious]]"
-  - "[[individuation]]"
-  - "[[shadow-archetype]]"
-  - "[[mito-solar]]"
-  - "[[mito-lunar]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-related_works:
-  - "[[fight-club-1999-film]]"
+relations:
+  - {type: developed_by,    to: jung-carl-gustav,        note: "el canal extiende a Jung con la triada solar/lunar/polar y la tesis del polar como único mito transformador"}
+  - {type: contained_in,    to: collective-unconscious,  note: "uno de los mitos primarios"}
+  - {type: contains,        to: hieros-gamos,            note: "el hieros gamos es su culminación interna"}
+  - {type: compared_with,   to: anima-archetype,         note: "articula psicológicamente la polaridad ánima/ánimus a escala cosmogónica"}
+  - {type: compared_with,   to: individuation,           note: "su correlato individual es la individuación: integración interior de los polos"}
+  - {type: compared_with,   to: mito-solar,              note: "complementario; el solar es el viaje masculino cíclico en el sacrificio"}
+  - {type: compared_with,   to: mito-lunar,              note: "complementario; el lunar es la gracia femenina cíclica en la espera"}
+  - {type: exemplified_by,  to: fight-club-1999-film,    weight: tangential, note: "consumismo polar fallido"}
 
 sources_count: 13
 last_compiled: 2026-04-29

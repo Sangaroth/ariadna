@@ -74,7 +74,7 @@ Campos comunes a todas las páginas wiki:
 ---
 # Identidad
 page_id: shadow-archetype
-page_type: concept              # concept | entity | author | work | synthesis
+page_type: concept              # concept | entity_work | author | synthesis
 canonical_name: La sombra (arquetipo junguiano)
 aliases: [sombra, shadow, sombra junguiana, lo reprimido]
 
@@ -84,13 +84,14 @@ domain:
   - humanities.philosophy
 domain_primary: social.psychology.jungian
 
-# Relaciones explícitas (los wikilinks en el cuerpo también cuentan)
-related_concepts:
-  - [[anima-archetype]]
-  - [[individuation]]
-  - [[collective-unconscious]]
-related_authors:
-  - [[jung-carl-gustav]]
+# Relaciones tipadas (sustituyen a related_concepts/related_authors/related_works
+# que se eliminaron en migración 2026-04-30). Cada relación: {type, to, [citations],
+# [note], [weight]}. Set canónico de types en wiki/_meta/relation_types.json.
+relations:
+  - {type: developed_by,    to: jung-carl-gustav,        note: "dentro de la psicología analítica"}
+  - {type: contained_in,    to: collective-unconscious,  note: "uno de sus contenidos centrales"}
+  - {type: compared_with,   to: anima-archetype,         note: "complementario en la pareja arquetípica"}
+  - {type: exemplified_by,  to: fight-club-1999-film,    weight: canonical, note: "Tyler Durden como prototipo"}
 
 # Trazabilidad
 sources_count: 37                    # número de chunks raw que sustentan esta página
@@ -101,6 +102,8 @@ review_status: auto_generated        # auto_generated | human_reviewed | human_c
 last_human_edit: null                # timestamp de la última edición manual
 ---
 ```
+
+**Principio sobre el grafo:** la prosa del cuerpo (con `[[wikilinks]]` contextuales) es **fuente de verdad enciclopédica**. `relations[]` en frontmatter es **índice del grafo** derivado de esa prosa — permite consulta estructurada sin perder la fluidez del texto. El validador `scripts/validate_wiki_relations.py` verifica coherencia: cada `to:` resuelve a página existente o candidato conocido, cada `type:` está en `relation_types.json`, y cada `[[wikilink]]` del cuerpo aparece declarado en `relations[]`.
 
 Campos específicos por `page_type`:
 
@@ -288,31 +291,41 @@ Concretamente:
 
 ## 5. Set canónico de relation types
 
-Vive en `wiki/_meta/relation_types.json`. Inicialmente:
+Vive en `wiki/_meta/relation_types.json` (v2.0.0 desde 2026-04-30). Cada entry tiene `description`, `from`, `to`, `inverse`. Los `from`/`to` son guía orientativa (qué `page_type` suele aparecer como source/target) — el validador solo emite warning si una relación los viola.
 
-```json
-{
-  "version": "1.0.0",
-  "types": {
-    "developed_by": "El concepto fue desarrollado/formulado por la entidad X (autor)",
-    "criticizes": "El autor o concepto X critica al concepto/autor Y",
-    "extends": "El concepto X extiende, refina o profundiza Y",
-    "contradicts": "X y Y se contradicen explícitamente",
-    "synthesizes": "X integra/sintetiza Y y Z",
-    "exemplifies": "X es ejemplo concreto del concepto/arquetipo Y",
-    "interprets": "El analista/canal X interpreta la obra Y",
-    "based_on": "La obra X está basada en la obra Y",
-    "cites": "El paper/obra X cita a Y",
-    "references": "El concepto X refiere/menciona a Y sin desarrollarlo",
-    "compared_with": "X y Y se contrastan o ponen en relación",
-    "manifestation_of": "X es manifestación cultural concreta del arquetipo Y",
-    "domain_of": "X pertenece al dominio académico Y",
-    "see_also": "X y Y son temas relacionados sin relación tipificada"
-  }
-}
-```
+**Tipos canónicos vigentes:**
 
-**Política:** si el LLM propone un tipo nuevo que no encaja, lo anota en `_meta/relation_types_proposed.json` para revisión humana. Solo se promueve a `relation_types.json` por commit explícito del propietario.
+| Type | Inverso | Uso típico |
+|---|---|---|
+| `developed_by` | `developed` | Concepto/obra fue formulado por autor |
+| `criticizes` | `criticized_by` | Objeción explícita |
+| `extends` | `extended_by` | Continuidad/refinamiento |
+| `contradicts` | `contradicts` | Conflicto estructural simétrico |
+| `inverts` | `inverted_by` | Inversión especular sin contradicción (Lovecraft invierte el animismo arquetípico) |
+| `synthesizes` | `synthesized_in` | Integración de múltiples elementos en nueva articulación |
+| `exemplifies` | `exemplified_by` | Caso concreto de un arquetipo |
+| `manifestation_of` | `manifested_in` | Encarnación cultural de un arquetipo (más estructural que `exemplifies`) |
+| `interprets` | `interpreted_by` | Autor lee obra desde marco teórico |
+| `based_on` | `basis_of` | Adaptación/derivación |
+| `cites` | `cited_by` | Cita explícita |
+| `references` | `referenced_by` | Mención sin desarrollo |
+| `compared_with` | `compared_with` | Relación simétrica de contraste |
+| `contains` | `contained_in` | Parte-todo (el inconsciente colectivo contiene la sombra) |
+| `process_of` | `has_process` | X es proceso/dinámica de Y (la individuación es proceso del inconsciente colectivo) |
+| `domain_of` | — | Pertenencia a dominio académico |
+| `see_also` | `see_also` | Relación no tipificable — usar conservadoramente |
+
+**Campos de cada relación en el frontmatter:**
+
+- `type` (obligatorio): uno de los listados arriba
+- `to` (obligatorio): page_id del target. Puede ser página existente o wikilink roto (candidato a futuro batch — el validador lo reporta como warning, no error)
+- `citations` (opcional pero recomendado): lista de chunk_ids del corpus que justifican la relación. Formato `youtube:VIDEOID#TIMESTAMP_SECONDS`
+- `note` (opcional): matización breve en castellano que captura nuance que el type canónico no captura. Ej: `"inversión del animismo arquetípico"`
+- `weight` (opcional): `canonical` | `strong` | `tangential`. Calibra fuerza de la relación
+
+**Política para tipos nuevos:** si el extractor LLM (Fase D) propone un type que no está, lo anota en `_meta/relation_types_proposed.json` para revisión humana. Solo se promueve a `relation_types.json` por commit explícito del propietario. El JSON canónico tiene `policy_notes` con la regla completa.
+
+**Validación:** `python scripts/validate_wiki_relations.py` chequea coherencia. Errores (exit 1): type desconocido, `to` mal formado, falta de `relations[]` en página, presencia de campos legacy (`related_concepts/related_authors/related_works`). Warnings (no bloquean): wikilink roto, combinación from/to inesperada, `[[wikilink]]` del cuerpo no declarado en `relations[]` (drift de coherencia).
 
 ---
 

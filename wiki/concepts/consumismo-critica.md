@@ -17,14 +17,12 @@ domain:
   - social.psychology
 domain_primary: interdisciplinary.cultural_studies
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[individuation]]"
-  - "[[anima-archetype]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-related_works:
-  - "[[fight-club-1999-film]]"
+relations:
+  - {type: references,         to: jung-carl-gustav,     note: "la crítica del canal opera con vocabulario junguiano como marco teórico, no es desarrollo de Jung"}
+  - {type: references,         to: shadow-archetype,     note: "el consumismo opera como rechazo del contenido a integrar"}
+  - {type: references,         to: individuation,        note: "el sujeto consumista no atraviesa el viaje del héroe interior"}
+  - {type: references,         to: anima-archetype,      note: "en apps de citas el polo femenino interior queda colapsado en perfil-producto"}
+  - {type: manifested_in,      to: fight-club-1999-film, weight: canonical, note: "manifestación cinematográfica canónica de la tesis del consumismo como anestesia del vacío existencial"}
 
 sources_count: 12
 last_compiled: 2026-04-29

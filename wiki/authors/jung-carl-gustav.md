@@ -27,11 +27,11 @@ affiliations:
   - University of Zurich
   - Burghölzli (clinic)
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[anima-archetype]]"
-  - "[[individuation]]"
-  - "[[collective-unconscious]]"
+relations:
+  - {type: developed,    to: shadow-archetype,        note: "arquetipo central de la psicología analítica"}
+  - {type: developed,    to: anima-archetype,         note: "pareja contrasexual interior masculino/femenino"}
+  - {type: developed,    to: individuation,           note: "proceso de integración del inconsciente como meta clínica"}
+  - {type: developed,    to: collective-unconscious,  note: "estructuras cognitivas innatas universales (no mente colmena)"}
 
 # El canal NO usa Jung como autor de fuentes citadas (no leemos sus libros directamente);
 # Jung aparece como SUJETO de análisis y como marco teórico empleado.

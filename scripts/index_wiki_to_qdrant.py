@@ -63,6 +63,9 @@ WIKILINK_RE = re.compile(r"\[\[([a-z0-9][a-z0-9_-]*)(?:\|[^\]]+)?\]\]")
 H1_RE = re.compile(r"^# (.+)$", re.MULTILINE)
 H2_RE = re.compile(r"^## (.+)$", re.MULTILINE)
 QUOTE_LINE_RE = re.compile(r"^>", re.MULTILINE)
+RELATIONS_BLOCK_RE = re.compile(r"^relations:\s*\n((?:\s+-\s*[^\n]+\n)+)", re.MULTILINE)
+RELATION_LINE_RE = re.compile(r"^\s+-\s*\{(.+)\}\s*$")
+KV_RE = re.compile(r"(\w+)\s*:\s*([^,}]+?)(?=\s*,|\s*$)")
 
 
 @dataclass
@@ -73,9 +76,7 @@ class WikiPage:
     aliases: list[str] = field(default_factory=list)
     domain: list[str] = field(default_factory=list)
     domain_primary: str | None = None
-    related_concepts: list[str] = field(default_factory=list)
-    related_authors: list[str] = field(default_factory=list)
-    related_works: list[str] = field(default_factory=list)
+    relations: list[dict[str, Any]] = field(default_factory=list)
     file_path: str = ""
     body: str = ""
     first_section_text: str = ""
@@ -89,9 +90,10 @@ class WikiPage:
             parts.append(f"dominio: {self.domain_primary}")
         if self.first_section_text:
             parts.append(self.first_section_text)
-        related_all = self.related_concepts + self.related_authors + self.related_works
-        if related_all:
-            parts.append(f"conceptos relacionados: {', '.join(related_all)}")
+        if self.relations:
+            related_targets = sorted({r.get("to") for r in self.relations if r.get("to")})
+            if related_targets:
+                parts.append(f"conceptos relacionados: {', '.join(related_targets)}")
         return "\n\n".join(parts)
 
     def to_payload(self) -> dict[str, Any]:
@@ -104,9 +106,9 @@ class WikiPage:
             "aliases": self.aliases,
             "domain": self.domain,
             "domain_primary": self.domain_primary,
-            "related_concepts": self.related_concepts,
-            "related_authors": self.related_authors,
-            "related_works": self.related_works,
+            "relations": self.relations,
+            "relation_targets": sorted({r["to"] for r in self.relations if r.get("to")}),
+            "relation_types_present": sorted({r["type"] for r in self.relations if r.get("type")}),
             "file_path": self.file_path,
             "embedded_text": self.embed_text(),
             "body": self.body,
@@ -135,6 +137,24 @@ def _parse_yaml_list(fm_text: str, key: str) -> list[str]:
         else:
             items.append(v)
     return items
+
+
+def _parse_relations(fm_text: str) -> list[dict[str, Any]]:
+    """Parsea bloque relations: del frontmatter (sintaxis YAML flow per item)."""
+    block = RELATIONS_BLOCK_RE.search(fm_text)
+    if not block:
+        return []
+    rels: list[dict[str, Any]] = []
+    for line in block.group(1).splitlines():
+        m = RELATION_LINE_RE.match(line)
+        if not m:
+            continue
+        rel: dict[str, Any] = {}
+        for k, v in KV_RE.findall(m.group(1)):
+            rel[k.strip()] = v.strip().strip('"').strip("'")
+        if "type" in rel and "to" in rel:
+            rels.append(rel)
+    return rels
 
 
 def _parse_scalar(fm_text: str, key: str) -> str | None:
@@ -200,9 +220,7 @@ def parse_wiki_file(md_path: Path, repo_root: Path) -> WikiPage | None:
         aliases=_parse_yaml_list(fm_text, "aliases"),
         domain=_parse_yaml_list(fm_text, "domain"),
         domain_primary=_parse_scalar(fm_text, "domain_primary"),
-        related_concepts=_parse_yaml_list(fm_text, "related_concepts"),
-        related_authors=_parse_yaml_list(fm_text, "related_authors"),
-        related_works=_parse_yaml_list(fm_text, "related_works"),
+        relations=_parse_relations(fm_text),
         file_path=str(md_path.relative_to(repo_root)),
         body=body.strip(),
         first_section_text=_extract_first_section(body),

@@ -18,17 +18,15 @@ domain:
   - interdisciplinary.cultural_studies
 domain_primary: social.psychology.jungian
 
-related_concepts:
-  - "[[shadow-archetype]]"
-  - "[[individuation]]"
-  - "[[collective-unconscious]]"
-  - "[[hieros-gamos]]"
-  - "[[mito-lunar]]"
-  - "[[mito-solar]]"
-related_authors:
-  - "[[jung-carl-gustav]]"
-related_works:
-  - "[[peter-pan-1953-film]]"
+relations:
+  - {type: developed_by,    to: jung-carl-gustav,        note: "extendido por el canal: la polaridad como eje cognitivo, no esencialismo biológico"}
+  - {type: contained_in,    to: collective-unconscious,  note: "estructura psíquica innata transcultural"}
+  - {type: compared_with,   to: shadow-archetype,        note: "polo contrasexual; aparece tras integrar la sombra en el orden de individuación"}
+  - {type: references,      to: individuation,           note: "su integración es paso clave en la individuación"}
+  - {type: references,      to: hieros-gamos,            note: "el hieros gamos es la unión sagrada de la pareja ánima/ánimus"}
+  - {type: references,      to: mito-lunar,              note: "manifestación cosmológica del polo femenino"}
+  - {type: references,      to: mito-solar,              note: "manifestación cosmológica del polo masculino"}
+  - {type: exemplified_by,  to: peter-pan-1953-film,     weight: canonical, note: "padres Darling como ánima/ánimus alineados; Peter Pan como ánimus ideal"}
 
 sources_count: 12
 last_compiled: 2026-04-29
