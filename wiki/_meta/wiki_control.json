@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "schema_version": "1.0.0",
   "last_updated": "2026-04-29",
   "description": "Control file de la wiki estructurada. Trackea qué páginas existen, su estado en el pipeline (candidate → in_progress → draft → human_reviewed → published), qué chunks raw las sustentan, y cuándo se compilaron por última vez.",
@@ -182,8 +182,167 @@
       "verifiable_citations": 14,
       "lagunas_detected": 5,
       "notes": "Página synthesis es la de mayor conectividad (11 wikilinks) y mayor diversidad. Demuestra que el page_type synthesis escala bien. Top score 0.710 — el más alto del batch. Confirma viabilidad del modelo wiki-first para queries conceptuales amplias."
+    },
+    {
+      "page_id": "anima-archetype",
+      "file_path": "wiki/concepts/anima-archetype.md",
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "compiled_at": "2026-04-29T23:10:00",
+      "compiler": "claude-opus-4-7-batch-2",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "batch": "batch_2_2026_04_29",
+      "discovery_queries": ["anima junguiana arquetipo femenino interior", "animus masculino mujer proyeccion psique", "proyeccion enamoramiento idealizacion mujer ideal hombre ideal", "Beatrice musa Petrarca Laura femenino sagrado"],
+      "chunks_unique_recovered": 58,
+      "top_score": 0.5972,
+      "sources_used_count": 12,
+      "wikilinks_out_count": 8,
+      "wikilinks_out": ["shadow-archetype", "individuation", "collective-unconscious", "hieros-gamos", "mito-lunar", "mito-solar", "jung-carl-gustav", "peter-pan-1953-film"],
+      "verifiable_citations": 14,
+      "lagunas_detected": 4,
+      "notes": "Cubre ánima Y ánimus en una sola página porque el canal las trata como sistema de polaridad indivisible. Material muy rico (58 chunks). El concepto canal-específico 'ánima sola' (no en Jung clásico) merece exploración futura — posible hilo a un autor junguiano específico."
+    },
+    {
+      "page_id": "individuation",
+      "file_path": "wiki/concepts/individuation.md",
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "compiled_at": "2026-04-29T23:25:00",
+      "compiler": "claude-opus-4-7-batch-2",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "batch": "batch_2_2026_04_29",
+      "discovery_queries": ["individuacion proceso junguiano integracion psique", "self si-mismo plenitud realizacion personal Jung", "madurez psicologica integrar sombra anima", "heroe interior viaje transformacion psicologica"],
+      "chunks_unique_recovered": 55,
+      "top_score": 0.5938,
+      "sources_used_count": 13,
+      "wikilinks_out_count": 5,
+      "wikilinks_out": ["shadow-archetype", "anima-archetype", "collective-unconscious", "hieros-gamos", "jung-carl-gustav", "fight-club-1999-film"],
+      "verifiable_citations": 14,
+      "lagunas_detected": 5,
+      "notes": "El canal NO usa 'self' como término técnico explícito; articula la individuación a través del viaje del héroe + cambio alquímico. Página captura este desplazamiento conceptual: Jung clásico re-articulado en lenguaje del canal."
+    },
+    {
+      "page_id": "collective-unconscious",
+      "file_path": "wiki/concepts/collective-unconscious.md",
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "compiled_at": "2026-04-29T23:40:00",
+      "compiler": "claude-opus-4-7-batch-2",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "batch": "batch_2_2026_04_29",
+      "discovery_queries": ["inconsciente colectivo Jung estructuras innatas universales", "arquetipo universal cultura humana mito comun", "patrones psiquicos heredados estructuras profundas", "sueno colectivo mente colmena critica"],
+      "chunks_unique_recovered": 54,
+      "top_score": 0.7297,
+      "sources_used_count": 13,
+      "wikilinks_out_count": 9,
+      "wikilinks_out": ["shadow-archetype", "anima-archetype", "individuation", "hieros-gamos", "mito-solar", "mito-lunar", "mito-polar", "jung-carl-gustav", "lovecraft-howard"],
+      "verifiable_citations": 14,
+      "lagunas_detected": 6,
+      "notes": "TOP SCORE DEL CORPUS para una página wiki: 0.730 — confirma que es un concepto densamente trabajado. Captura la corrección del canal a la lectura 'mente colmena' + convergencia con Lévi-Strauss + distinción canal-específica 'inconsciente colectivo vs sueño colectivo'."
+    },
+    {
+      "page_id": "consumismo-critica",
+      "file_path": "wiki/concepts/consumismo-critica.md",
+      "page_type": "concept",
+      "domain_primary": "interdisciplinary.cultural_studies",
+      "compiled_at": "2026-04-29T23:55:00",
+      "compiler": "claude-opus-4-7-batch-2",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "batch": "batch_2_2026_04_29",
+      "discovery_queries": ["consumismo critica sociedad consumo capitalismo tardio", "vacio existencial dopamina marketing identidad", "apps citas Tinder mercantilizacion relaciones", "propaganda algoritmo plataforma cultura consumida"],
+      "chunks_unique_recovered": 56,
+      "top_score": 0.6022,
+      "sources_used_count": 12,
+      "wikilinks_out_count": 5,
+      "wikilinks_out": ["shadow-archetype", "individuation", "anima-archetype", "jung-carl-gustav", "fight-club-1999-film"],
+      "verifiable_citations": 14,
+      "lagunas_detected": 6,
+      "notes": "Página IMPORTANTE de aclarar: la crítica del canal NO es anti-capitalismo marxista sino crítica cultural-psicológica desde sustrato moral-tradicional. Captura explícitamente la posición del canal sobre 'capitalismo como categoría mitológica' y crítica simétrica a izquierda y consumismo. Cambio de dominio (interdisciplinary.cultural_studies) — segundo dominio fuera de psicología junguiana en el wiki."
+    },
+    {
+      "page_id": "lovecraft-howard",
+      "file_path": "wiki/authors/lovecraft-howard.md",
+      "page_type": "author",
+      "domain_primary": "arts.literature",
+      "compiled_at": "2026-04-30T00:10:00",
+      "compiler": "claude-opus-4-7-batch-2",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "batch": "batch_2_2026_04_29",
+      "discovery_queries": ["Lovecraft horror cosmico Cthulhu mitos", "ciencia ficcion terror sobrenatural ineffable", "naturaleza hostil universo indiferente humanidad", "Lovecraft autor literatura fantastica influencia"],
+      "chunks_unique_recovered": 49,
+      "top_score": 0.6107,
+      "sources_used_count": 13,
+      "wikilinks_out_count": 3,
+      "wikilinks_out": ["shadow-archetype", "collective-unconscious", "fight-club-1999-film"],
+      "verifiable_citations": 14,
+      "lagunas_detected": 7,
+      "notes": "Author distinto a Jung: el corpus SÍ ingiere a Lovecraft como fuente directa (lecturas íntegras de cuentos en directos), por lo que as_author_of_sources tiene valor (=6) además de as_subject_of_sources (=8). Tercer dominio nuevo en wiki: arts.literature. Confirma que la taxonomía OpenAlex aguanta el cambio de dominio académico vs literario."
     }
   ],
+
+  "batch_2_2026_04_29": {
+    "description": "Segundo batch de validación. 5 páginas elegidas a mano por demanda real del grafo emergente del piloto (cierra wikilinks rotos referenciados desde múltiples páginas piloto).",
+    "rationale": "EXCEPCIÓN consciente al criterio determinista (NEXT_SESSION.md documenta que a partir del batch siguiente debe existir scripts/rank_wiki_candidates.py). Justificación del usuario: 'tener mínimo que evaluar' — n=10 da más material para validar el ranking determinista cuando exista. A partir del batch 3, sin script, NO se compila.",
+    "completed_at": "2026-04-30T00:10:00",
+    "candidates": [
+      {"page_id": "anima-archetype", "page_type": "concept", "domain_primary": "social.psychology.jungian", "rationale": "Referenciado desde 3 páginas piloto"},
+      {"page_id": "individuation", "page_type": "concept", "domain_primary": "social.psychology.jungian", "rationale": "Referenciado desde 4 páginas piloto — máxima demanda"},
+      {"page_id": "collective-unconscious", "page_type": "concept", "domain_primary": "social.psychology.jungian", "rationale": "Referenciado desde 3 páginas piloto"},
+      {"page_id": "consumismo-critica", "page_type": "concept", "domain_primary": "interdisciplinary.cultural_studies", "rationale": "Demandado por fight-club. Abre dominio nuevo"},
+      {"page_id": "lovecraft-howard", "page_type": "author", "domain_primary": "arts.literature", "rationale": "Author canónico del corpus, lecturas íntegras en directos"}
+    ]
+  },
+
+  "batch_2_observations": {
+    "schema_validation": {
+      "result": "OK",
+      "notes": [
+        "5 páginas escritas con frontmatter consistente al batch 1, schema funciona repetidamente",
+        "page_type author (Lovecraft) confirma que la distinción as_author_of_sources / as_subject_of_sources tiene sentido empírico — Lovecraft tiene as_author=6 (cuentos leídos), Jung tiene as_author=0",
+        "Sección 'Lagunas detectadas' sigue siendo valiosa — cada página declara entre 4 y 7 lagunas honestas"
+      ]
+    },
+    "taxonomy_validation": {
+      "result": "OK",
+      "notes": [
+        "Tres dominios nuevos respecto al piloto: interdisciplinary.cultural_studies (consumismo), arts.literature (Lovecraft) ya estaban; nuevo: social.psychology subraíz para individuation/collective-unconscious",
+        "La concentración en social.psychology.jungian (3 de 5 páginas) era esperable — son las páginas más demandadas por el grafo piloto, que era jungiano-intensivo",
+        "Pendiente sigue: bootstrap formal de OpenAlex Topics y validación de IDs canónicos"
+      ]
+    },
+    "wikilinks_resolution": {
+      "result": "IMPROVED",
+      "notes": [
+        "Las 10 páginas (5 piloto + 5 batch 2) ya forman un grafo denso y autoconsistente",
+        "Wikilinks salientes a páginas YA existentes han subido sustancialmente (no más wikilinks rotos hacia anima/individuation/collective-unconscious/consumismo/lovecraft)",
+        "Wikilinks rotos restantes apuntan a obras: matrix-1999-film, man-of-steel-2013-film, peter-pan-1953-film, y a tríada mítica: mito-solar/lunar/polar",
+        "Total wikilinks salientes en el batch 2: 30 — comparable al batch 1 (también 30). Cobertura del grafo emergente está creciendo de forma compatible con el modelo"
+      ]
+    },
+    "discovery_quality": {
+      "result": "OK",
+      "notes": [
+        "Top scores del batch 2: 0.730 (collective-unconscious) > 0.611 (lovecraft) > 0.602 (consumismo) > 0.597 (anima) > 0.594 (individuation). Distribución más alta que el piloto",
+        "collective-unconscious con 0.730 es la página de mayor score wiki del corpus a fecha de hoy — un concepto rigurosamente cubierto por el canal",
+        "La media de chunks únicos recuperados por discovery es 54.4 (vs 21 en piloto) — la práctica de 4 queries laterales diversas escala bien",
+        "No detectado falso positivo ni alucinación en este batch (citas verificadas a youtu.be IDs reales del corpus)"
+      ]
+    },
+    "next_batch_recommendations": [
+      "matrix-1999-film (entity_work — referenciado desde mito-moderno y individuation)",
+      "man-of-steel-2013-film (entity_work — referenciado desde mito-moderno)",
+      "mito-solar / mito-lunar / mito-polar (tríada conceptual recurrente — referenciada desde 4 páginas)",
+      "peter-pan-1953-film (entity_work — referenciado desde anima-archetype + shadow-archetype piloto)",
+      "self-junguiano (concept — el canal lo usa pero como 'yo integrado'; merece página propia)",
+      "viaje-heroe (concept — monomito Campbell, referenciado en individuation)",
+      "REQUIERE scripts/rank_wiki_candidates.py antes de ejecutar batch 3 (compromiso explícito en NEXT_SESSION.md)"
+    ]
+  },
 
   "pilot_observations": {
     "schema_validation": {
