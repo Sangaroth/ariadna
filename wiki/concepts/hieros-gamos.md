@@ -1,0 +1,177 @@
+---
+page_id: hieros-gamos
+page_type: concept
+canonical_name: Hieros gamos (matrimonio sagrado)
+aliases:
+  - hieros gamos
+  - hierogamos
+  - matrimonio sagrado
+  - matrimonio divino
+  - unión sagrada
+  - mito polar
+  - conjunctio (alquímico)
+
+domain:
+  - humanities.religion
+  - humanities.classics
+  - social.psychology.jungian
+  - arts.cinema
+domain_primary: humanities.religion
+
+related_concepts:
+  - "[[anima-archetype]]"
+  - "[[individuation]]"
+  - "[[mito-solar]]"
+  - "[[mito-lunar]]"
+related_authors:
+  - "[[jung-carl-gustav]]"
+related_works:
+  - "[[fight-club-1999-film]]"
+
+# El hieros gamos es uno de los conceptos más recurrentes del canal — usado en
+# análisis arquetípicos de prácticamente todas las obras tratadas
+sources_count: 10
+last_compiled: 2026-04-29
+compiler: claude-opus-4-7-pilot-batch
+schema_version: 1.0.0
+review_status: auto_generated
+last_human_edit: null
+---
+
+# Hieros gamos (matrimonio sagrado)
+
+> Página piloto del primer batch. El hieros gamos es uno de los conceptos **más recurrentes y centrales** del aparato analítico del canal Proxy — aparece en prácticamente todos los análisis arquetípicos de obras como meta-estructura del viaje narrativo. Esta página recoge la definición que el canal articula y sus aplicaciones en obras concretas.
+
+## Definición canónica del canal
+
+El hieros gamos es la **unión sagrada de lo masculino y lo femenino** que cierra el arco arquetípico narrativo. Tiene una estructura interna precisa:
+
+> "El hieros gamos es la unión sagrada de lo femenino y lo masculino expresada como héroe-diosa, heroína-dios, hombre-mujer. Las caídas (catábasis) son errores, miedos, debilidades; las subidas (anábasis) son salidas de la oscuridad convertido en algo más. La gran anábasis final es la éxesis: pasar de la tierra a los cielos o de los infiernos directamente a los cielos en matrimonio divino."
+→ [Análisis arquetípico de Tarzán, 11:45](https://youtu.be/Tviv4PT0dv8?t=705)
+
+### Las tres partes del esquema
+
+| Parte | Significado |
+|---|---|
+| **Catábasis** | descenso, caída, prueba — errores, miedos, debilidades |
+| **Anábasis** | ascenso, salida de la oscuridad transformado |
+| **Éxesis** | gran anábasis final — pasar de la tierra (o los infiernos) a los cielos en matrimonio divino |
+
+## El mito polar como contexto del hieros gamos
+
+El canal articula el **mito polar** como meta-estructura donde encaja el hieros gamos:
+
+> "El mito del Dios es el mito solar-masculino; el mito de la diosa es el mito lunar-femenino. La conjunción de ambos se llama mito polar: lo masculino y lo femenino luchando por permanecer juntos contra el mal que intenta separarles. El mal puede ser exógeno (de otros) o endógeno (pecado interior), y actúa contra el amor, la armonía y la eutaxia cultural."
+→ [Nosferatu (2024), 07:57](https://youtu.be/yAIPr0HzQqE?t=477)
+
+> "Tras un génesis, lo masculino y lo femenino se separan y mediante sucesivos encuentros se realizan hasta juntarse en un hieros gamos o matrimonio sagrado. Lo masculino encarna el mito solar: el viaje vital, el enfrentamiento con lo desconocido y la madurez a través de la acción."
+→ [Lady Halcón, 25:23](https://youtu.be/xK8_MpMMXzc?t=1523)
+
+### Por qué el mito polar > mito solar y mito lunar por separado
+
+Posición teórica del canal:
+
+> "Solo el mito polar promete cambio real: ni el camino recto del héroe ni el bucle eterno de la diosa cambian nada por sí solos. La complementación permite romper ambos bucles y convertirlos en una salida ascendente hacia el uránico. El matrimonio divino libra a lo masculino y femenino de la limitación del sacrificio y de la esperanza respectivamente."
+→ [Ridley Scott, Pandora, Prometeo y el Mito Polar, 51:19](https://youtu.be/O4OkDuc3uPQ?t=3079)
+
+Es decir: hieros gamos no es decoración narrativa — es **la única estructura que permite transformación real** en el modelo del canal.
+
+## Manifestaciones en obras analizadas
+
+### Tarzán: el hieros gamos consumado por renuncia
+
+> "Jane comprende que pertenece donde la llaman sus instintos; no tiene sentido disfrazar lo que siente renunciando a estar con el hijo de dios. La separación no tiene sentido porque pueden ser reyes de ambos mundos, sea en un barco o donde sea. El símbolo de las manos se completa: ella renuncia al guante civilizado para conectar con lo que verdaderamente siente."
+→ [Tarzán, 1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
+
+Y desde el inicio de la película, el canal lee la canción como anunciación del hieros gamos final:
+
+> "Musicalmente representa que después de la ecatombe y la ruptura, vendrá la reconstrucción del hieros gamos y la Sagrada Familia. La Sagrada Familia es la tríada resultante del hieros gamos: lo masculino, lo femenino y el hijo."
+→ [Tarzán, 07:42](https://youtu.be/Tviv4PT0dv8?t=462)
+
+### Enredados: hieros gamos a distancia (sin unión física)
+
+> "El hieros gamos se consigue antes de la unión física: ocurre en la distancia, cuando ambos renuncian y mantienen la esperanza. Las cuatro partes del yo (diosa, niña, dios, niño) se integran en familia sagrada al reunirse en el castillo. La historia nunca fue la de ella (la diosa siempre estaba destinada a renacer); siempre fue la de él como rey destinado."
+→ [Enredados, 1:45:36](https://youtu.be/OT2DW4zoKsE?t=6336)
+
+### Cenicienta: la diosa acepta las tres partes del hombre
+
+> "Ella dice sí al yo (físico), a los instintos (el joven enamorado) y al super yo (el padre del príncipe). Aceptar las tres partes del hombre hace que ambos se unan en una sola forma de ser. Cenicienta deja atrás los sueños de infancia (los animales) porque ahora tiene el hierogamos."
+→ [Cenicienta, 1:29:17](https://youtu.be/iPqOn-ynSlE?t=5357)
+
+### Scott Pilgrim: viaje del héroe estructurado en torno al femenino
+
+> "Cada fase del viaje del héroe gira en torno a la relación de Scott con lo femenino. Cada encuentro con una mujer requiere aprender algo; sin aprendizaje no puede avanzar. La estructura es 7×3+1=22, correspondiente a los 22 Arcanos del tarot."
+→ [Scott Pilgrim, 27:56](https://youtu.be/X2c2a3mQBOs?t=1676)
+
+### La Sirenita: pareja unida vence monstruos
+
+> "Cuando ambos miran en la misma dirección y luchan juntos empiezan a vencer monstruos. Eric despojado de todo se sube a un barco fantasma (los errores de otros) y atraviesa a Úrsula con el bauprés. Ariel renuncia a Eric por amor: respetar la estructura de otra persona sabiendo que no estás preparado también es amor."
+→ [La Sirenita, 2:13:32](https://youtu.be/8l__TS3ATNY?t=8012)
+
+## Casos de hieros gamos truncado o invertido
+
+### Unicorn Wars: la mala conjunción
+
+El hieros gamos también funciona como **lente para detectar uniones disfuncionales**:
+
+> "Al beber la sangre del último unicornio, lo azul y lo rosa se juntan pero como alma negra y sangre roja: una conjunción venenosa. Lo femenino muerto se integra pasivamente en la abominación; lo masculino huye pero es devorado. El hombre surge como resultado final de la mala integración de lo femenino y lo masculino, admirado por los monos que representan el estadio previo."
+→ [Unicorn Wars, 1:48:46](https://youtu.be/fLfEbHPJNmU?t=6526)
+
+### Eyes Wide Shut: el asalto al matrimonio como institución
+
+> "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente. Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes."
+→ [Eyes Wide Shut, 30:52](https://youtu.be/olX_-KIziX0?t=1852)
+
+## Conexiones teóricas adyacentes
+
+### Alquimia y conjunctio
+
+El canal vincula el hieros gamos al **conjunctio alquímico** y a la representación poética de la psique:
+
+> "La alquimia poética equipara procesos externos a procesos internos: la fusión de metales es la síntesis psicológica. La gramática alquímica para fusión era la misma que para síntesis porque era la única forma que tenían de representar procesos psíquicos."
+→ [Orfeo y Eurídice, 1:17:21](https://youtu.be/1D0u-tK4v8c?t=4641)
+
+Esta conexión es importante: para [[jung-carl-gustav]] y la psicología analítica, la alquimia era precisamente un tratado simbólico de la individuación. El canal hereda esa lectura.
+
+### Sacralización del sexo
+
+Lectura antropológica del vínculo:
+
+> "La sacralización del sexo une a hombre y mujer por un vínculo inconsciente que no se puede deshacer. Los rituales orgásticos ofrecidos a la diosa tenían utilidad biológica: generar un vínculo intratribal imposible de otra forma."
+→ [Femenino (I), 34:28](https://youtu.be/VR3snBjNrsc?t=2068)
+
+## Lagunas detectadas en este batch
+
+- **Hieros gamos en mitología clásica directa** (Zeus-Hera, sumerio Inanna-Dumuzi, egipcio Isis-Osiris): el canal lo aplica masivamente a obras audiovisuales modernas pero los chunks recuperados son escasos en raíces mitológicas explícitas
+- **Tradición esotérica occidental** (alquimia hermética, cábala) que articula el matrimonio sagrado en clave operativa: hay un chunk sobre alquimia poética pero no profundización
+- **El hieros gamos en Fight Club** (Jack-Marla como conjunción mal resuelta) — interesante hueco: la página de [[fight-club-1999-film]] sí lo apunta como "encuentro con la diosa", pero la conexión con la teoría general del hieros gamos no aparece en estos chunks
+- **Crítica feminista al concepto** (riesgo de esencializar masculino/femenino) — el canal toca el tema en otros vídeos pero no en estos chunks
+
+## Identificación del proceso (auditable)
+
+| Métrica | Valor |
+|---|---|
+| Discovery queries | 3 (hieros gamos matrimonio sagrado / unión opuestos alquimia / mito unión sagrada masculino femenino) |
+| Chunks únicos recuperados | 17 |
+| Top-15 score range | 0.601 → 0.473 |
+| Sources distintas usadas | 10 (alta diversidad) |
+| Domain primario asignado | `humanities.religion` |
+| Wikilinks salientes | 6 (1 author + 1 work + 4 concepts) |
+| Citas raw verificables | 13 timestamps clicables |
+
+## Fuentes raw usadas (chunk_ids)
+
+- `youtube:Tviv4PT0dv8#705` — Tarzán, 11:45 (esquema canónico)
+- `youtube:Tviv4PT0dv8#462` — Tarzán, 07:42 (canción inaugural)
+- `youtube:Tviv4PT0dv8#6088` — Tarzán, 1:41:28 (consumación)
+- `youtube:xK8_MpMMXzc#1523` — Lady Halcón, 25:23 (mito polar)
+- `youtube:OT2DW4zoKsE#6336` — Enredados, 1:45:36
+- `youtube:yAIPr0HzQqE#477` — Nosferatu, 07:57
+- `youtube:fLfEbHPJNmU#6526` — Unicorn Wars, 1:48:46
+- `youtube:olX_-KIziX0#1852` — Eyes Wide Shut, 30:52
+- `youtube:X2c2a3mQBOs#1676` — Scott Pilgrim, 27:56
+- `youtube:O4OkDuc3uPQ#3079` — Mito Polar, 51:19
+- `youtube:1D0u-tK4v8c#4641` — Orfeo y Eurídice, 1:17:21 (alquimia)
+- `youtube:8l__TS3ATNY#8012` — La Sirenita, 2:13:32
+- `youtube:VR3snBjNrsc#2068` — Femenino (I), 34:28
+- `youtube:iPqOn-ynSlE#5357` — Cenicienta, 1:29:17

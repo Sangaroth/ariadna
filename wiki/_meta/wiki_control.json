@@ -1,0 +1,232 @@
+{
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "last_updated": "2026-04-29",
+  "description": "Control file de la wiki estructurada. Trackea qué páginas existen, su estado en el pipeline (candidate → in_progress → draft → human_reviewed → published), qué chunks raw las sustentan, y cuándo se compilaron por última vez.",
+
+  "ordering_criterion": {
+    "description": "Cómo se prioriza qué páginas compilar primero. Ponderación de 3 ejes con tie-break determinista.",
+    "axes": {
+      "recurrence": {
+        "weight": 0.5,
+        "definition": "Número de chunks raw donde la entidad/concepto aparece. Más recurrente = más amortización del coste de compilación"
+      },
+      "connectivity": {
+        "weight": 0.3,
+        "definition": "Número de wikilinks salientes potenciales hacia otros conceptos del corpus. Más conectado = más valor del KG emergente"
+      },
+      "domain_diversity": {
+        "weight": 0.2,
+        "definition": "Bonus si el candidato pertenece a un dominio aún sin páginas. Para el piloto, fuerza heterogeneidad y valida que la taxonomía OpenAlex aguanta fuera del dominio principal"
+      }
+    },
+    "tie_break": "alfabético por page_id (determinista, reproducible)",
+    "viability_filter": {
+      "min_chunks_raw": 10,
+      "min_avg_score": 0.55,
+      "rationale": "Si no hay material suficiente, la página sería esqueleto. Mejor no compilar y bajar a tags."
+    }
+  },
+
+  "status_pipeline": {
+    "candidate": "Identificado como objetivo, sin trabajo iniciado",
+    "in_progress": "Extractor en curso (chunks recolectados o LLM trabajando)",
+    "draft": "Página markdown generada, pendiente de validación automática",
+    "auto_validated": "Pasa validación automática (schema, wikilinks resuelven, citas verificables)",
+    "human_reviewed": "Revisada por humano, aprobada con o sin ediciones menores",
+    "human_curated": "Editada significativamente por humano, fuente de verdad",
+    "needs_recompile": "Detectado drift o el humano marca para recompilación",
+    "rejected": "Falló viabilidad o calidad inaceptable. No se publica"
+  },
+
+  "pilot_batch_2026_04_29": {
+    "description": "Primer batch piloto. 5 páginas elegidas para validar coherencia del schema, taxonomía OpenAlex, wikilinks tipados y page_types.",
+    "rationale": "Diseñado para cubrir 4 page_types distintos (concept ×2, author, work, synthesis) y 4 domains canónicos distintos. Las 5 páginas deben formar un mini-grafo interconectado con wikilinks que resuelvan entre sí.",
+    "completed_at": "2026-04-29T22:30:00",
+    "candidates": [
+      {
+        "page_id": "shadow-archetype",
+        "page_type": "concept",
+        "domain_primary": "social.psychology.jungian",
+        "rationale": "Concepto central, alta recurrencia, ya validado en queries golden. Caso base.",
+        "expected_wikilinks_out": ["jung-carl-gustav", "fight-club-1999-film", "individuation", "anima-archetype"],
+        "status": "draft"
+      },
+      {
+        "page_id": "jung-carl-gustav",
+        "page_type": "author",
+        "domain_primary": "social.psychology",
+        "rationale": "Autor más citado del corpus.",
+        "expected_wikilinks_out": ["shadow-archetype", "individuation", "anima-archetype"],
+        "status": "draft"
+      },
+      {
+        "page_id": "fight-club-1999-film",
+        "page_type": "entity_work",
+        "domain_primary": "arts.cinema",
+        "rationale": "Obra concreta con análisis dedicado en el corpus.",
+        "expected_wikilinks_out": ["shadow-archetype", "jung-carl-gustav", "consumismo-critica"],
+        "status": "draft"
+      },
+      {
+        "page_id": "hieros-gamos",
+        "page_type": "concept",
+        "domain_primary": "humanities.religion",
+        "rationale": "Cambio de dominio. Validar que OpenAlex aguanta fuera de psicología.",
+        "expected_wikilinks_out": ["jung-carl-gustav"],
+        "status": "draft"
+      },
+      {
+        "page_id": "mito-moderno-en-proxy",
+        "page_type": "synthesis",
+        "domain_primary": "interdisciplinary.cultural_studies",
+        "rationale": "Síntesis cross-conceptos. Caso difícil.",
+        "expected_wikilinks_out": ["shadow-archetype", "jung-carl-gustav", "fight-club-1999-film", "hieros-gamos"],
+        "status": "draft"
+      }
+    ]
+  },
+
+  "pages_compiled": [
+    {
+      "page_id": "shadow-archetype",
+      "file_path": "wiki/concepts/shadow-archetype.md",
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "compiled_at": "2026-04-29T22:25:00",
+      "compiler": "claude-opus-4-7-pilot-batch",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "discovery_queries": ["sombra junguiana arquetipo Jung", "Tyler Durden Fight Club sombra reprimido", "Peter Pan sombra integracion Wendy", "lo reprimido inconsciente individuacion"],
+      "chunks_unique_recovered": 25,
+      "top_score": 0.6285,
+      "sources_used_count": 8,
+      "wikilinks_out_count": 5,
+      "wikilinks_out": ["jung-carl-gustav", "fight-club-1999-film", "anima-archetype", "individuation", "collective-unconscious"],
+      "verifiable_citations": 8,
+      "lagunas_detected": 3,
+      "notes": "Lateral recall imperfecto: query trajo Peter Pan dominante, NO Fight Club. Chunks de FC quedaron por debajo del top-15. Cold path real con summary.md completos resolverá esto."
+    },
+    {
+      "page_id": "jung-carl-gustav",
+      "file_path": "wiki/authors/jung-carl-gustav.md",
+      "page_type": "author",
+      "domain_primary": "social.psychology",
+      "compiled_at": "2026-04-29T22:26:00",
+      "compiler": "claude-opus-4-7-pilot-batch",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "discovery_queries": ["Carl Jung psicologia analitica", "junguiano arquetipo inconsciente colectivo", "individuacion Jung self anima"],
+      "chunks_unique_recovered": 17,
+      "top_score": 0.5915,
+      "sources_used_count": 8,
+      "wikilinks_out_count": 4,
+      "wikilinks_out": ["shadow-archetype", "anima-archetype", "individuation", "collective-unconscious"],
+      "verifiable_citations": 11,
+      "lagunas_detected": 4,
+      "notes": "Jung como autor tiene as_author_of_sources vacío en este corpus (no se ingieren sus libros aún). Aparece como SUJETO de análisis, no como fuente. Cuando entre Fase D con sus libros, esta página requiere recompilación."
+    },
+    {
+      "page_id": "fight-club-1999-film",
+      "file_path": "wiki/entities/works/fight-club-1999-film.md",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "compiled_at": "2026-04-29T22:27:00",
+      "compiler": "claude-opus-4-7-pilot-batch",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "discovery_queries": ["Fight Club Jack Tyler Durden analisis", "Club de la Lucha consumismo violencia", "vacio existencial enantiodromia Fight Club"],
+      "chunks_unique_recovered": 16,
+      "top_score": 0.5986,
+      "sources_used_count": 6,
+      "wikilinks_out_count": 4,
+      "wikilinks_out": ["shadow-archetype", "individuation", "consumismo-critica", "jung-carl-gustav"],
+      "verifiable_citations": 10,
+      "lagunas_detected": 4,
+      "notes": "Caso perfecto: análisis dedicado en el corpus + 5 menciones cross-vídeo. Alta densidad de citas verificables. Schema entity_work con metadata externa (year, director, based_on, imdb_id) valida bien."
+    },
+    {
+      "page_id": "hieros-gamos",
+      "file_path": "wiki/concepts/hieros-gamos.md",
+      "page_type": "concept",
+      "domain_primary": "humanities.religion",
+      "compiled_at": "2026-04-29T22:28:00",
+      "compiler": "claude-opus-4-7-pilot-batch",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "discovery_queries": ["hieros gamos matrimonio sagrado", "union opuestos alquimia conjunctio", "mito union sagrada masculino femenino"],
+      "chunks_unique_recovered": 17,
+      "top_score": 0.6007,
+      "sources_used_count": 10,
+      "wikilinks_out_count": 6,
+      "wikilinks_out": ["jung-carl-gustav", "fight-club-1999-film", "anima-archetype", "individuation", "mito-solar", "mito-lunar"],
+      "verifiable_citations": 13,
+      "lagunas_detected": 4,
+      "notes": "Concepto muy recurrente en corpus, alta diversidad de fuentes (10 vídeos distintos). Domain primary humanities.religion encaja sin fricción — taxonomía OpenAlex aguanta cambio de dominio."
+    },
+    {
+      "page_id": "mito-moderno-en-proxy",
+      "file_path": "wiki/synthesis/mito-moderno-en-proxy.md",
+      "page_type": "synthesis",
+      "domain_primary": "interdisciplinary.cultural_studies",
+      "compiled_at": "2026-04-29T22:30:00",
+      "compiler": "claude-opus-4-7-pilot-batch",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "discovery_queries": ["mito moderno cultura contemporanea", "Lovecraft mitologia moderna horror cosmico", "superheroes arquetipo solar Superman Cristo", "Matrix ciencia ficcion mito transicion", "cine fantasia mito moderno proyeccion"],
+      "chunks_unique_recovered": 30,
+      "top_score": 0.7102,
+      "sources_used_count": 10,
+      "wikilinks_out_count": 11,
+      "wikilinks_out": ["shadow-archetype", "jung-carl-gustav", "fight-club-1999-film", "hieros-gamos", "lovecraft-howard", "matrix-1999-film", "man-of-steel-2013-film", "mito-solar", "mito-lunar", "mito-polar", "individuation"],
+      "verifiable_citations": 14,
+      "lagunas_detected": 5,
+      "notes": "Página synthesis es la de mayor conectividad (11 wikilinks) y mayor diversidad. Demuestra que el page_type synthesis escala bien. Top score 0.710 — el más alto del batch. Confirma viabilidad del modelo wiki-first para queries conceptuales amplias."
+    }
+  ],
+
+  "pilot_observations": {
+    "schema_validation": {
+      "result": "OK",
+      "notes": [
+        "Frontmatter schema funciona en los 4 page_types (concept, author, entity_work, synthesis)",
+        "Wikilinks tipados con [[page_id]] son legibles y procesables",
+        "Sección 'Lagunas detectadas' es valiosa: cada página declara honestamente qué NO cubre",
+        "Sección 'Identificación del proceso (auditable)' permite trazabilidad"
+      ]
+    },
+    "taxonomy_validation": {
+      "result": "OK",
+      "notes": [
+        "Las 4 categorías OpenAlex usadas (social.psychology.*, arts.cinema, humanities.religion, interdisciplinary.cultural_studies) acomodan bien el contenido",
+        "Multi-valor en 'domain' permite expresar la naturaleza interdisciplinar del contenido sin forzar categoría única",
+        "Pendiente: importar formalmente OpenAlex Topics vía scripts/bootstrap_taxonomy.py y validar IDs canónicos"
+      ]
+    },
+    "wikilinks_resolution": {
+      "result": "PARTIAL",
+      "notes": [
+        "Las 5 páginas piloto se interconectan correctamente entre sí",
+        "Hay wikilinks salientes a páginas NO existentes (anima-archetype, individuation, collective-unconscious, consumismo-critica, lovecraft-howard, matrix-1999-film, man-of-steel-2013-film, mito-solar, mito-lunar, mito-polar). Comportamiento esperable en piloto",
+        "Próximo batch: priorizar las páginas referenciadas por múltiples piloto pages (anima-archetype y individuation están enlazadas desde 3+ páginas)"
+      ]
+    },
+    "discovery_quality": {
+      "result": "OK_WITH_CAVEAT",
+      "notes": [
+        "Las 5 candidatos pasan filtro de viabilidad (>=10 chunks, score promedio razonable)",
+        "Caso shadow-archetype: discovery NO trajo Fight Club como esperado. Diagnóstico: lateral search vía 4 queries no fue suficientemente diversa, queries más específicas habrían rescatado FC. Mitigación en cold path real: usar summary.md completos en lugar de chunks aislados",
+        "Caso mito-moderno: discovery muy rico (30 chunks únicos, top 0.71). Confirma que las síntesis temáticas amplias funcionan bien con discovery vectorial"
+      ]
+    },
+    "next_batch_recommendations": [
+      "anima-archetype (referenciado desde 3+ páginas piloto — alta prioridad)",
+      "individuation (referenciado desde 4+ páginas)",
+      "collective-unconscious (referenciado desde 3 páginas)",
+      "consumismo-critica (referenciado desde fight-club, demanda página propia)",
+      "lovecraft-howard (extensamente citado en mito-moderno, merece página author dedicada)",
+      "matrix-1999-film (referenciado pero sin página work propia)",
+      "mito-solar, mito-lunar, mito-polar (tríada conceptual recurrente)"
+    ]
+  }
+}
