@@ -112,15 +112,19 @@ class CorpusStore:
         query_vector: np.ndarray,
         top_k: int = 10,
         filters: dict[str, Any] | None = None,
+        must_not_filters: dict[str, Any] | None = None,
     ) -> list[dict[str, Any]]:
         """Busqueda por similaridad vectorial con filtros opcionales por metadata.
 
-        filters: dict con claves permitidas (category, playlist, video_id).
-                 Matching exact por valor.
+        filters: dict con claves permitidas (category, playlist, video_id, source_type, ...).
+                 Matching exact por valor (must).
+        must_not_filters: dict con campos que NO deben matchear (must_not).
+                 Util para excluir wiki_page del search raw, por ejemplo.
         """
-        qdrant_filter: Filter | None = None
+        must_conditions: list[FieldCondition] = []
+        must_not_conditions: list[FieldCondition] = []
+
         if filters:
-            # Normaliza category para aceptar variantes sin acentos
             normalized = {
                 key: (normalize_category(value) if key == "category" else value)
                 for key, value in filters.items()
@@ -130,8 +134,19 @@ class CorpusStore:
                 FieldCondition(key=key, match=MatchValue(value=value))
                 for key, value in normalized.items()
             ]
-            if must_conditions:
-                qdrant_filter = Filter(must=must_conditions)
+        if must_not_filters:
+            must_not_conditions = [
+                FieldCondition(key=key, match=MatchValue(value=value))
+                for key, value in must_not_filters.items()
+                if value is not None
+            ]
+
+        qdrant_filter: Filter | None = None
+        if must_conditions or must_not_conditions:
+            qdrant_filter = Filter(
+                must=must_conditions or None,
+                must_not=must_not_conditions or None,
+            )
 
         results = self.client.query_points(
             collection_name=self.collection_name,
@@ -145,6 +160,36 @@ class CorpusStore:
             {"score": float(p.score), **(p.payload or {})}
             for p in results
         ]
+
+    def delete_by_filter(self, filters: dict[str, Any]) -> int:
+        """Borra todos los puntos que matcheen los filtros. Devuelve cuántos había.
+
+        Usado por el indexador del wiki para borrar los wiki_pages antiguos antes de
+        reinsertar (idempotencia de la indexación)."""
+        if not filters:
+            raise ValueError("delete_by_filter requiere al menos un filtro")
+        must = [
+            FieldCondition(key=key, match=MatchValue(value=value))
+            for key, value in filters.items()
+            if value is not None
+        ]
+        if not must:
+            return 0
+        qdrant_filter = Filter(must=must)
+        # Cuenta antes para el log
+        existing, _ = self.client.scroll(
+            collection_name=self.collection_name,
+            scroll_filter=qdrant_filter,
+            limit=10_000,
+            with_payload=False,
+        )
+        n_existing = len(existing)
+        if n_existing > 0:
+            self.client.delete(
+                collection_name=self.collection_name,
+                points_selector=qdrant_filter,
+            )
+        return n_existing
 
     def count(self) -> int:
         """Numero de puntos en la coleccion."""

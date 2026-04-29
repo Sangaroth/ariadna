@@ -15,10 +15,12 @@ from typing import Any
 
 from mcp.server.fastmcp import FastMCP
 
-from ariadna.config import DEFAULT_CORPUS_PATH, MCP_HOST, MCP_PORT
+from ariadna.config import DEFAULT_CORPUS_PATH, MCP_HOST, MCP_PORT, PROJECT_ROOT
 from ariadna.parsers import parse_summary_file
 from ariadna.search import Searcher
 from ariadna.storage import CorpusStore
+
+WIKI_DIR = PROJECT_ROOT / "wiki"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -65,31 +67,66 @@ mcp = FastMCP(
 @mcp.tool(
     name="search_corpus",
     description=(
-        "Busca en el corpus del canal Proxy (288 videos sobre mitologia, psicologia, "
-        "filosofia, analisis de obra, cultura y actualidad). Devuelve chunks tematicos "
-        "con timestamp, titulo de video, y URL clicable a YouTube. "
-        "Usa esta tool cuando el usuario pregunte por contenido del canal, "
-        "conceptos discutidos, citas de videos o referencias especificas. "
-        "Tambien cuando necesites profundizar en que ha dicho el canal sobre algo. "
+        "Busca en el corpus del canal Proxy (288 videos + wiki estructurada). "
+        "Devuelve DOS tipos de resultado en paralelo:\n"
+        "  - wiki_pages: paginas wiki sintetizadas por concepto/autor/obra. Si tienen "
+        "score alto (>=0.65) son sintesis pre-cocinadas que puedes adaptar.\n"
+        "  - raw_chunks: chunks tematicos del corpus con timestamp y URL clicable. "
+        "Son la fuente primaria, citables.\n"
+        "Tambien retrieval_metadata con mode_recommended (wiki_dominant / raw_only / "
+        "raw_with_warning / balanced) que orienta como usar los resultados.\n"
+        "Cita siempre los raw_chunks como fuente. Si hay wiki_page con score alto, "
+        "apoyate en su sintesis y usa los raw_chunks como verificacion. "
         "Permite filtrar por categoria ('analisis de obra', 'mitologia y religion', "
-        "'psicologia', 'filosofia y teoria', 'cultura y actualidad') o playlist."
+        "'psicologia', 'filosofia y teoria', 'cultura y actualidad') o playlist; "
+        "los filtros aplican solo a raw_chunks (la wiki tiene su propia taxonomia)."
     ),
 )
 def search_corpus(
     query: str,
     top_k: int = 5,
+    top_k_wiki: int = 2,
     category: str | None = None,
     playlist: str | None = None,
-) -> list[dict[str, Any]]:
-    """Busqueda semantica sobre chunks tematicos del corpus."""
+) -> dict[str, Any]:
+    """Búsqueda híbrida raw + wiki sobre el corpus."""
     searcher = get_searcher()
-    results = searcher.search(
+    return searcher.search_hybrid(
         query,
-        top_k=top_k,
+        top_k_raw=top_k,
+        top_k_wiki=top_k_wiki,
         category=category,
         playlist=playlist,
     )
-    return [r.to_compact_dict() for r in results]
+
+
+@mcp.tool(
+    name="get_wiki_page",
+    description=(
+        "Devuelve el contenido completo de una pagina wiki por su page_id "
+        "(ej. 'shadow-archetype', 'jung-carl-gustav', 'mito-polar'). "
+        "Usa esta tool cuando search_corpus devuelva un wiki_page con wikilinks "
+        "salientes ([[otro-page-id]]) y necesites profundizar en una pagina relacionada "
+        "para responder al usuario. Tambien para presentar al usuario el contenido "
+        "completo de una pagina wiki que mencionaste. Si el page_id no existe, "
+        "devuelve un error con sugerencia de buscar via search_corpus."
+    ),
+)
+def get_wiki_page(page_id: str) -> dict[str, Any]:
+    """Lee una página wiki por page_id desde el filesystem (wiki/)."""
+    candidates = list(WIKI_DIR.rglob(f"{page_id}.md"))
+    if not candidates:
+        return {
+            "error": f"No se encontró página wiki con page_id={page_id!r}",
+            "hint": "Usa search_corpus para descubrir page_ids existentes en wiki_pages",
+        }
+    md_path = candidates[0]
+    content = md_path.read_text(encoding="utf-8")
+    return {
+        "page_id": page_id,
+        "file_path": str(md_path.relative_to(PROJECT_ROOT)),
+        "content": content,
+    }
 
 
 @mcp.tool(

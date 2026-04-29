@@ -61,6 +61,11 @@ class SearchResult:
 class Searcher:
     """Encapsula embedder + store para busquedas."""
 
+    # Thresholds para mode_recommended del modo híbrido. Provisionales — tunear con uso real.
+    WIKI_DOMINANT_SCORE = 0.65
+    RAW_FALLBACK_THRESHOLD = 0.45
+    WIKI_THIN_THRESHOLD = 0.55
+
     def __init__(
         self,
         embedder: DenseEmbedder | None = None,
@@ -77,15 +82,115 @@ class Searcher:
         playlist: str | None = None,
         video_id: str | None = None,
     ) -> list[SearchResult]:
-        """Busqueda semantica con filtros opcionales."""
+        """Busqueda semantica solo sobre chunks raw (excluye wiki_pages).
+
+        Mantiene contrato anterior para compatibilidad con CLI ariadna-search.
+        """
         query_vec = self.embedder.embed_query(query)
         filters = {
             "category": category,
             "playlist": playlist,
             "video_id": video_id,
         }
-        raw = self.store.search(query_vec, top_k=top_k, filters=filters)
+        raw = self.store.search(
+            query_vec,
+            top_k=top_k,
+            filters=filters,
+            must_not_filters={"source_type": "wiki_page"},
+        )
         return [SearchResult.from_payload(r) for r in raw]
+
+    def search_hybrid(
+        self,
+        query: str,
+        top_k_raw: int = 5,
+        top_k_wiki: int = 2,
+        category: str | None = None,
+        playlist: str | None = None,
+    ) -> dict:
+        """Búsqueda híbrida raw + wiki en una sola query.
+
+        Devuelve estructura definida en docs/RESPONSE_FLOW.md §2.4: wiki_pages
+        + raw_chunks + retrieval_metadata. El LLM hot decide qué pesa más
+        según mode_recommended.
+        """
+        query_vec = self.embedder.embed_query(query)
+
+        raw_filters = {"category": category, "playlist": playlist}
+        raw_results = self.store.search(
+            query_vec,
+            top_k=top_k_raw,
+            filters=raw_filters,
+            must_not_filters={"source_type": "wiki_page"},
+        )
+
+        # La wiki no se filtra por category/playlist (tiene su propia taxonomía OpenAlex).
+        wiki_results = self.store.search(
+            query_vec,
+            top_k=top_k_wiki,
+            filters={"source_type": "wiki_page"},
+        )
+
+        # Marca in_wiki_sources en chunks raw (drift detection).
+        # Cada wiki_page tiene una lista implícita de fuentes en su body via "youtube:VID#SEC".
+        # Para el primer prototipo dejamos in_wiki_sources=null (TODO: extraer chunk_ids
+        # del cuerpo de la wiki en el indexador y emparejar aquí).
+        for r in raw_results:
+            r.setdefault("in_wiki_sources", None)
+
+        wiki_top = wiki_results[0]["score"] if wiki_results else None
+        raw_top = raw_results[0]["score"] if raw_results else None
+
+        if wiki_top is None and raw_top is None:
+            mode = "no_results"
+        elif wiki_top is None:
+            mode = "raw_only"
+        elif wiki_top >= self.WIKI_DOMINANT_SCORE and (raw_top is None or wiki_top > raw_top):
+            mode = "wiki_dominant"
+        elif wiki_top < self.WIKI_THIN_THRESHOLD:
+            mode = "raw_with_warning"
+        else:
+            mode = "balanced"
+
+        warning: str | None = None
+        if mode == "raw_with_warning":
+            warning = (
+                f"Wiki coverage thin (top score {wiki_top:.3f}). Considera el resultado wiki "
+                "como contexto débil; apóyate principalmente en los raw_chunks."
+            )
+
+        return {
+            "wiki_pages": [_wiki_payload_to_compact(w) for w in wiki_results],
+            "raw_chunks": [
+                SearchResult.from_payload(r).to_compact_dict() | {"in_wiki_sources": r.get("in_wiki_sources")}
+                for r in raw_results
+            ],
+            "retrieval_metadata": {
+                "wiki_top_score": round(wiki_top, 4) if wiki_top is not None else None,
+                "raw_top_score": round(raw_top, 4) if raw_top is not None else None,
+                "mode_recommended": mode,
+                "warning": warning,
+                "wiki_pages_count": len(wiki_results),
+                "raw_chunks_count": len(raw_results),
+            },
+        }
+
+
+def _wiki_payload_to_compact(payload: dict) -> dict:
+    """Versión compacta de un wiki_page para output MCP."""
+    return {
+        "score": round(float(payload["score"]), 4),
+        "page_id": payload.get("page_id"),
+        "page_type": payload.get("page_type"),
+        "canonical_name": payload.get("canonical_name"),
+        "domain_primary": payload.get("domain_primary"),
+        "aliases": payload.get("aliases", []),
+        "related_concepts": payload.get("related_concepts", []),
+        "related_authors": payload.get("related_authors", []),
+        "related_works": payload.get("related_works", []),
+        "file_path": payload.get("file_path"),
+        "body": payload.get("body"),
+    }
 
 
 def _format_result(r: SearchResult, index: int) -> str:
