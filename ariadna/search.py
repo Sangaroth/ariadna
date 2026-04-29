@@ -45,7 +45,14 @@ class SearchResult:
         )
 
     def to_compact_dict(self) -> dict[str, Any]:
-        """Version compacta para respuestas MCP."""
+        """Version compacta para respuestas MCP.
+
+        Incluye cite_markdown pre-renderizado: el LLM hot debe COPIARLO
+        literalmente al citar, en vez de construir su propia cita o usar
+        annotations internas (que el plugin Mattermost v2.0.0-rc6 renderiza
+        como tokens basura tipo 'citeturn0searchN').
+        """
+        cite_md = f"[{self.video_title} ({self.timestamp})]({self.youtube_url})"
         return {
             "score": round(self.score, 4),
             "video_title": self.video_title,
@@ -55,6 +62,7 @@ class SearchResult:
             "category": self.category,
             "playlist": self.playlist,
             "youtube_url": self.youtube_url,
+            "cite_markdown": cite_md,
         }
 
 
@@ -177,7 +185,13 @@ class Searcher:
 
 
 def _wiki_payload_to_compact(payload: dict) -> dict:
-    """Versión compacta de un wiki_page para output MCP."""
+    """Versión compacta de un wiki_page para output MCP.
+
+    Las wiki_pages NO llevan cite_markdown propio: el body ya contiene
+    las citas a YouTube como markdown ('→ [titulo, timestamp](url)').
+    El LLM hot debe COPIAR esas citas literalmente del body, NO regenerarlas
+    con annotations internas (que producen tokens basura citeturnN).
+    """
     return {
         "score": round(float(payload["score"]), 4),
         "page_id": payload.get("page_id"),
