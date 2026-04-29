@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-04-30 (tras migración a typed relations + cite_markdown fix)
+> **Última actualización:** 2026-04-30 (tras migración a typed relations + cite_markdown fix + purga meta-referencias del cuerpo wiki)
 
 ---
 
@@ -122,6 +122,59 @@ Las opciones están en la sección "Próximas opciones" de docs/NEXT_SESSION.md.
 3. **Crítica del usuario al ranking**: "priorizar por avg_score temático filtra temas centrales, no documenta corpus". 288 videos contienen mil temas, autores, obras. Un video monográfico sobre "reflejo de orientación" tiene mucho peso pero pocos chunks → nunca pasa el filtro.
 4. **Nuevo enfoque (LATENTE)**: cobertura combinada — universo de candidatos = entidades extraídas de cada summary.md + wikilinks rotos. Filtros declarativos (`topic_filters.json`) descartan bloques irrelevantes (actualidad política, etc.). Ranking pasa a priorizar orden, no filtrar. Detalle en `docs/CORPUS_COVERAGE_STRATEGY.md`.
 5. **Pivote a modo híbrido ANTES de escalar wiki**: para evaluar impacto de las 11 páginas en queries reales antes de invertir en alimentar más wiki. Implementado y validado end-to-end. Líneas A (híbrido) y B (cobertura) son ortogonales.
+
+---
+
+## Convenciones de escritura wiki
+
+> **Regla central:** las páginas wiki son **contenido enciclopédico sobre el corpus Proxy**, no diario del proceso de construcción. Cuerpo limpio, sin auto-referencias al sistema RAG ni al pipeline de compilación.
+
+### Vocabulario PROHIBIDO en el cuerpo de las páginas
+
+Estas frases ensucian la página y delatan el proceso de construcción al lector:
+
+- `"este batch"`, `"de este batch"`, `"en este batch"`, `"del batch"`
+- `"estos chunks"`, `"los chunks recuperados"`, `"top-15"`, `"top-N"`
+- `"discovery via Qdrant"`, `"cold path"`, `"extractor"`, `"summary.md completo"`
+- `"Sprint 1"`, `"Sprint 2"`, `"validación previa de Sprint N"`, `"sucesivas iteraciones"`
+- `"del piloto"`, `"compilada en batch X"`, `"en el primer batch piloto"`
+- `"wikilinks emergente"`, `"el grafo emergente activado"`
+- `"este compilado"`, `"este material recuperado"`
+- Blockquotes iniciales tipo `> Página piloto compilada via Qdrant...`
+- Secciones `## Identificación del proceso (auditable)` o `## Fuentes raw usadas (chunk_ids)` — la trazabilidad vive en frontmatter + `wiki_control.json`, no en el cuerpo
+
+### Cómo reformular lagunas correctamente
+
+Las lagunas deben hablar **del corpus**, no del proceso de extracción:
+
+❌ MAL: *"Fight Club no aparece en el top-15 de este batch pese a ser el caso canónico — el discovery via Qdrant trajo Peter Pan con más fuerza"*
+✅ BIEN: *"Fight Club como caso canónico de la sombra apenas se desarrolla en esta página, pese a ser referencia explícita del canal en otros vídeos"*
+
+❌ MAL: *"no aparece en estos chunks"*
+✅ BIEN: *"el canal lo menciona en otros vídeos pero no lo sistematiza"* / *"no se desarrolla en el material analizado"*
+
+❌ MAL: *"esta laguna ya fue identificada en validación previa de Sprint 1"*
+✅ BIEN: (eliminar la frase — el Sprint es metadata del proceso, no del contenido)
+
+### Qué SÍ va dónde
+
+| Tipo de info | Lugar correcto |
+|---|---|
+| `compiler`, `last_compiled`, `review_status`, `schema_version` | Frontmatter (no se renderiza como contenido) |
+| Métricas de compilación (chunks únicos, top_score, sources_used_count) | `wiki/_meta/wiki_control.json` |
+| Razones de descarte de bloques | `wiki/_meta/coverage_state.json:filtered_blocks_log[]` |
+| Estado del pipeline de cobertura | `wiki/_meta/coverage_state.json:pipeline_state` |
+| Lista de candidatos pendientes y ranking | `wiki/_meta/next_batch_ranking.json` |
+| Backlog de pendientes técnicos | esta sección "Backlog técnico" |
+| **Cuerpo de las páginas .md** | **Solo prosa enciclopédica + wikilinks contextuales + citas a YouTube. Nada más.** |
+
+### Verificación
+
+```bash
+grep -rnE "este batch|del batch|estos chunks|del piloto|Sprint [0-9]|discovery via Qdrant|wikilinks emergente|sucesivas iteraciones|cold path real" wiki/ | grep -v "_meta/\|README\|.obsidian"
+```
+
+Cero resultados ⇒ páginas limpias. Cualquier match es deuda técnica a reparar antes del siguiente commit.
 
 ---
 
