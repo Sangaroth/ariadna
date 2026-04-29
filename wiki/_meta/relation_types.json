@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "last_updated": "2026-04-29",
+  "description": "Set canónico de tipos de relación permitidos en wikilinks tipados de las páginas wiki. El extractor LLM solo puede usar estos tipos. Nuevos tipos propuestos van a relation_types_proposed.json hasta promoción manual.",
+  "types": {
+    "developed_by": "El concepto fue desarrollado/formulado por la entidad X (autor)",
+    "criticizes": "El autor o concepto X critica al concepto/autor Y",
+    "extends": "El concepto X extiende, refina o profundiza Y",
+    "contradicts": "X y Y se contradicen explícitamente",
+    "synthesizes": "X integra/sintetiza Y y Z",
+    "exemplifies": "X es ejemplo concreto del concepto/arquetipo Y",
+    "interprets": "El analista/canal X interpreta la obra Y",
+    "based_on": "La obra X está basada en la obra Y (adaptación, derivación)",
+    "cites": "El paper/obra X cita explícitamente a Y",
+    "references": "El concepto X refiere/menciona a Y sin desarrollarlo",
+    "compared_with": "X y Y se contrastan o ponen en relación sin que una derive de la otra",
+    "manifestation_of": "X es manifestación cultural concreta del arquetipo Y",
+    "domain_of": "X pertenece al dominio académico Y",
+    "see_also": "X y Y son temas relacionados sin relación tipificada"
+  }
+}

@@ -18,26 +18,25 @@ Asistente conversacional con acceso a un corpus de vídeos analíticos via **Mod
 
 **El corpus es el activo, MCP es el contrato, el LLM es reemplazable.** Detalle en [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
-## Tres capas de evolución
+## Capas de evolución
 
 ```
-LAYER 1 (hoy)  —  RAG dense BGE-M3 sobre chunks temáticos en Qdrant
-LAYER 2 (B)    —  Entity index + co-ocurrencia para cross-reference por entidad
-LAYER 3 (E)    —  LLM Wiki compilado en cold path para queries conceptuales
+LAYER 0  —  Raw chunks (Qdrant + BGE-M3): fuente de verdad indexada
+LAYER 1  —  Wiki estructurada en markdown (wiki/): páginas por entidad/concepto/autor/obra
+LAYER 2  —  Grafo emergente: el conjunto de wikilinks ES el grafo, sin BD aparte
 ```
 
-Cada capa se añade encima sin romper las anteriores. Roadmap completo en [docs/PHASES.md](docs/PHASES.md).
+Cada capa se añade encima sin romper las anteriores, y se accede vía el mismo cliente MCP. Roadmap completo en [docs/PHASES.md](docs/PHASES.md).
 
 ## Estado del proyecto
 
 | Fase | Estado |
 |---|---|
-| **A.1** — Layer 1 RAG dense + MCP server + integración Mattermost | ✅ Cerrada (2026-04-23) |
-| **A.2** — Sparse BM25, threshold, reranker, prompt lateral | Backlog |
-| **B** — Entity index | Pendiente |
+| **A.1** — Layer 0 RAG dense + MCP server + integración Mattermost | ✅ Cerrada (2026-04-23) |
+| **A.2** — Sparse BM25, threshold, reranker, **reclasificación con OpenAlex** | Backlog |
+| **B** — **Wiki estructurada con KG emergente** (fusión antiguas B+E) | Pendiente |
 | **C** — Despliegue producción (Hetzner, URL fija) | Pendiente |
-| **D** — Cold path con voluntarios | Pendiente |
-| **E** — LLM Wiki compilado | Pendiente |
+| **D** — Cold path con voluntarios + ingesta multi-formato | Pendiente |
 
 Estado vivo en [docs/SESSION_CONTEXT.md](docs/SESSION_CONTEXT.md).
 
@@ -146,11 +145,14 @@ ariadna/
 ## Documentación
 
 - **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** — argumentación de diseño: por qué desacoplar MCP del LLM, por qué dos flujos, por qué la taxonomía importa más que la tecnología
-- **[docs/TAXONOMY_PROPOSAL.md](docs/TAXONOMY_PROPOSAL.md)** — propuesta abierta del schema multi-fuente (papers PDF, vídeos URL, libros, podcasts, threads, ...), separación sources/chunks, autores como entidad canónica con ORCID/Wikidata, taxonomía de dominios académicos abiertos (OpenAlex/arXiv), e ingesta con [markitdown](https://github.com/microsoft/markitdown) + Crossref/arXiv API. Doc vivo, no cerrado
-- **[docs/PHASES.md](docs/PHASES.md)** — roadmap completo de las 5 fases (A→E) y criterios para saltar de una a otra
+- **[docs/TAXONOMY_PROPOSAL.md](docs/TAXONOMY_PROPOSAL.md)** — schema multi-fuente (papers PDF, vídeos URL, libros, podcasts, threads, ...), separación sources/chunks, autores con ORCID/Wikidata, taxonomía OpenAlex Topics como fuente de verdad, ingesta con [markitdown](https://github.com/microsoft/markitdown) + Crossref/arXiv. Doc vivo
+- **[docs/WIKI_GENERATION.md](docs/WIKI_GENERATION.md)** — pipeline completo de la wiki estructurada con KG emergente (Fase B): generador de páginas markdown con frontmatter, wikilinks tipados, validación automática, loop iterativo humano-en-el-bucle
+- **[docs/RESPONSE_FLOW.md](docs/RESPONSE_FLOW.md)** — flujo de respuesta MCP con 4 ejemplos estructurados completos. Demuestra cómo opera el modo híbrido (wiki + raw) en escenarios reales con datos JSON, costes y latencias concretas. Validación previa a la implementación de Fase B
+- **[docs/PHASES.md](docs/PHASES.md)** — roadmap por fases (A → A.2 → B → C → D), criterios para saltar de una a otra
 - **[docs/SESSION_CONTEXT.md](docs/SESSION_CONTEXT.md)** — estado vivo del proyecto, decisiones tomadas, bugs conocidos, comandos útiles
 - **[docs/run_pipeline.md](docs/run_pipeline.md)** — pipeline técnico end-to-end (corpus → parser → embedding → Qdrant → MCP → LLM)
 - **[docs/INTEGRACION_MATTERMOST.md](docs/INTEGRACION_MATTERMOST.md)** — guía paso a paso de integración con el cliente Mattermost
+- **[wiki/README.md](wiki/README.md)** — base de conocimiento navegable (vacía hasta el piloto de Fase B)
 
 ## Licencia
 

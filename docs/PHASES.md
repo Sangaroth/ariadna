@@ -28,37 +28,76 @@ Validación end-to-end completada con calidad notable en DM con Ariadna. Detalle
 - Scores BGE-M3 en queries relevantes: 0.55-0.67
 - Recall correcto en cross-reference, lateral search funcional, citas verificadas no alucinadas
 
-### Sprint 2 — mejoras incrementales sobre Layer 1 (PRÓXIMO, opcional)
+### Sprint 2 — mejoras incrementales sobre Layer 1 + bootstrap de Fase B
 
 A decidir según métricas observadas en uso real:
 
+- [ ] **Reclasificación de chunks con taxonomía OpenAlex** (drop del legacy `proxy_category`) — reemplazar las 5 categorías ad-hoc por dominios canónicos multi-valor desde [`data/vocabulary/domains.json`](../data/vocabulary/domains.json)
+- [ ] **Bootstrap de OpenAlex Topics** vía [`scripts/bootstrap_taxonomy.py`](../scripts/bootstrap_taxonomy.py) → curar a ~80-100 dominios relevantes
 - [ ] **Sparse retrieval BM25** (BGE-M3 lo soporta nativo) — ayuda con nombres propios raros, términos técnicos
 - [ ] **Threshold de score** en search_corpus — filtrar resultados <0.50 antes de devolver al LLM
 - [ ] **Reranking cross-encoder** sobre top-20 → top-5 — mejora precisión sin cambiar retrieval
 - [ ] **System prompt reforzado** con instrucción explícita de búsqueda lateral antes de declarar huecos en el corpus
 - [ ] **Fix bug citation rendering** del plugin v2.0.0-rc6 (esperar v2.0.0 stable o reportar)
 
-**Criterio de salto a Fase B:** si las queries de cross-reference complejas siguen perdiendo conexiones cross-vídeo aún con sparse + reranker, justifica entity index.
+**Criterio de salto a Fase B:** una vez la taxonomía esté importada y los chunks reclasificados, el extractor de wiki puede arrancar con bases sanas.
 
 ---
 
-## Fase B — Entity index (Layer 2)
+## Fase B — Wiki estructurada con KG emergente (Layers 2+3 fusionadas)
 
-**Objetivo:** búsqueda por entidad, no solo por similitud semántica. Mejorar cross-reference: "todas las menciones de Jung en el corpus", "co-ocurrencias entre arquetipo y consumismo".
+**Objetivo:** construir una base de conocimiento navegable en markdown — páginas por entidad, concepto, autor y obra — donde la estructura del grafo emerge naturalmente de los wikilinks. Reemplaza el plan original de "entity index SQLite" + "LLM Wiki" como dos fases separadas: **es una sola cosa que escala**.
+
+### Por qué wiki-first en lugar de KG-first
+
+- **Markdown es a la vez prosa correctable y datos estructurados** — el humano lo edita en VSCode/Obsidian, el LLM lo ingiere como contexto, el grafo se extrae de los wikilinks
+- **Los summaries de ProxySummaries ya son una primera síntesis** (vídeo crudo → bullets temáticos curados). Pasar de ahí a entidades + relaciones es **un paso, no dos**
+- **Sin vendor lock-in**: no Neo4j, no triplestore, no JSON-LD obligatorio. El día que haga falta KAG formal, parser de wikilinks → triples es trivial
+- **Visualización gratis** (Obsidian graph view, GitHub mermaid)
+- **Versionable en git** (audit trail completo, rollback granular)
 
 ### Componentes
 
-- Extracción de entidades por chunk (NER + curación manual)
-- `vocabulary.json` enriquecido: entidades canónicas + aliases
-- Tabla SQLite de co-ocurrencias `(entidad, chunk_id, weight)`
-- Nuevas tools MCP:
-  - `list_concept_occurrences(concept, include_aliases)` — todos los chunks que mencionan X
-  - `cross_reference(concept_a, concept_b)` — chunks donde aparecen ambos
-  - `get_related_concepts(concept, top_n)` — entidades co-ocurrentes con peso
+- **Cold path extractor** (Claude Max overnight) que lee chunks raw y produce JSON estructurado por concepto/entidad
+- **Generador de markdown** (script Python plantillado) que convierte JSON → `.md` con frontmatter + cuerpo + wikilinks
+- **Validación automática** antes de commitear a `wiki/`: schema, wikilinks resuelven, dominios válidos, citas verificables
+- **Indexación de wiki en Qdrant** como `source_type=wiki_page` junto a los chunks raw
+- **Nuevas tools MCP:**
+  - `get_wiki_page(page_id)` — devuelve la página completa con frontmatter + cuerpo
+  - `list_wiki_pages(page_type, domain, review_status)` — listado filtrado
+  - `find_relations(page_id_a, page_id_b)` — explora paths de wikilinks entre dos entidades
+  - `search_corpus` extendido para devolver chunks raw + wiki pages en paralelo (modo híbrido)
 
-### Por qué no en Fase A
+### Estructura del repo wiki
 
-Layer 2 requiere que el corpus esté **saneado y categorizado** (Fase A). Construir entity index sobre datos sucios = doble trabajo. Por eso A primero.
+```
+wiki/
+├── README.md
+├── _meta/
+│   ├── compilation_log.json
+│   ├── pending_review.json
+│   └── relation_types.json
+├── authors/
+├── entities/works/
+├── concepts/
+└── synthesis/
+```
+
+Detalle completo del pipeline: [WIKI_GENERATION.md](WIKI_GENERATION.md).
+
+### Estrategia incremental dentro de Fase B
+
+1. **Piloto** — generar 5 páginas (uno por categoría) y validar end-to-end calidad humano + máquina
+2. **Refinamiento de prompt** hasta que ≥3/5 pasen validación sin reescritura mayor
+3. **Escalado** a las 50-100 entidades/conceptos más recurrentes del corpus actual
+4. **Indexación híbrida** activa en hot path
+5. **Loop iterativo continuo**: nuevos chunks → recompilación selectiva → validación humana
+
+### Métrica de éxito
+
+- Para una query conceptual repetida (ej. "explícame la sombra junguiana"), la wiki page recupera el 80% de las afirmaciones que el LLM hot generaría desde chunks raw, con citas verificables al raw
+- Latencia total NO se degrada (mismo orden, <300ms con dos índices)
+- Coste de tokens por respuesta del LLM hot baja >30% (síntesis ya pre-cocinada)
 
 ---
 
@@ -122,46 +161,7 @@ Próxima query del usuario:
 
 ---
 
-## Fase E — LLM Wiki compilado (Layer 3)
-
-**Objetivo:** páginas concepto pre-sintetizadas que se sirven directamente cuando aplica, sin re-sintetizar en cada query.
-
-### Estructura
-
-```
-wiki/
-├── entities/
-│   ├── jung-carl.md           ← biografía + apariciones en el canal
-│   ├── lovecraft.md
-│   └── tyler-durden.md
-├── concepts/
-│   ├── la-sombra.md           ← síntesis cross-vídeo de la sombra junguiana
-│   ├── hieros-gamos.md
-│   └── arquetipo-solar.md
-└── synthesis/
-    ├── violencia-en-proxy.md  ← análisis temáticos largos
-    └── mito-moderno.md
-```
-
-### Cómo se generan
-
-- Cold path (Fase D) toma jobs de tipo "wiki_compile"
-- Worker overnight invoca `claude -p` con prompt: "construye página concepto sobre X usando solo chunks del corpus que voy a darte"
-- Resultado se versiona en Obsidian-friendly markdown con wikilinks
-- Tool MCP `get_concept_wiki(concept)` devuelve la página completa o RAG sobre las páginas
-
-### Hot path con wiki
-
-- Search se hace contra **dos índices**: chunks crudos (Layer 1) + wiki pages (Layer 3)
-- Para queries factuales/recuperativas → dominan chunks
-- Para queries conceptuales/cross-reference → dominan wiki pages (síntesis ya hecha)
-- LLM ve ambos: fuentes primarias citables + síntesis pre-cocinada
-
-### Cuándo justifica
-
-- Cuando se observa que las queries conceptuales repetidas malgastan tokens del LLM hot re-sintetizando lo mismo
-- Cuando hay >100 conceptos que merecen tratamiento sistemático
-- Cuando la base de usuarios crece y la economía de "cocinar una vez, servir mil" se vuelve relevante
+> **Nota:** la antigua "Fase E — LLM Wiki compilado" se ha **fusionado con Fase B** en una sola estrategia wiki-first / KG-emergente. Ya no es una fase separada al final del roadmap. Detalle en [WIKI_GENERATION.md](WIKI_GENERATION.md).
 
 ---
 

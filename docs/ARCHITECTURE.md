@@ -172,15 +172,17 @@ El sprint actual no es "subir el RAG al 90% de precisión". Es más estructural:
 
 ### Por eso, en este sprint:
 
-- **Categorías canónicas** definidas y validadas (5: análisis de obra, cultura y actualidad, filosofía y teoría, mitología y religión, psicología). Cualquier vídeo nuevo encaja en una de las 5 o se rechaza
-- **video_id de YouTube** como identificador estable. Nunca el slug del título
-- **Metadata schema** explícito por chunk (`video_id`, `video_title`, `timestamp`, `timestamp_seconds`, `theme`, `content`, `category`, `playlist`, `upload_date`, `duration`, `youtube_url`) — todos obligatorios
-- **Chunking semántico** por estructura de markdown, no por tokens fijos. Cada chunk es una unidad temática coherente con timestamp clicable
-- **Normalización de categoría** en la búsqueda (acepta variantes con/sin acentos)
+- **Taxonomía canónica importada de [OpenAlex Topics](https://docs.openalex.org/api-entities/topics)** — multi-valor, jerarquía hasta 3 niveles. Las 5 categorías originales (`análisis de obra`, etc.) eran placeholder de la data semilla y se descartan. Bootstrap vía [`scripts/bootstrap_taxonomy.py`](../scripts/bootstrap_taxonomy.py)
+- **Identificador canónico por tipo de fuente** (`youtube:dQw4w9WgXcQ`, `doi:10.1038/...`, `isbn:978...`). Nunca slug derivado del título
+- **Schema source / chunk separado** (ver [TAXONOMY_PROPOSAL.md §3](TAXONOMY_PROPOSAL.md#3-schema-propuesto--separación-chunk--source)) — sources tiene metadata específica por tipo, chunks tienen forma común para que el RAG los busque juntos
+- **Chunking semántico** por estructura de markdown, no por tokens fijos. Cada chunk es una unidad temática coherente con localizador clicable polimórfico (timestamp para vídeo, página para paper, etc.)
+- **Vocabulary controlado** desde el principio (autores con ORCID/Wikidata, conceptos canónicos, alias). Sin esto, el wiki/KG de Fase B duplica entidades
 
-Cuando llegue Fase B (entity index) o Fase E (LLM Wiki), encontrarán datos limpios sobre los que construir. Cualquier inversión en RAG hoy se beneficia inmediatamente; cualquier inversión en KAG mañana también.
+Cuando llegue Fase B (Wiki estructurada con KG emergente), encontrará datos limpios sobre los que construir. Cualquier inversión en RAG hoy se beneficia inmediatamente; cualquier inversión en KG mañana también.
 
-**Documento abierto:** la propuesta concreta de schema extendido (tags, entities, concepts, multi-categoría, vocabulary.json controlado, ingesta multi-formato) vive en [TAXONOMY_PROPOSAL.md](TAXONOMY_PROPOSAL.md) — se actualiza iterativamente, no se cierra.
+**Documentos abiertos vinculados:**
+- [TAXONOMY_PROPOSAL.md](TAXONOMY_PROPOSAL.md) — schema extendido, vocabulary, ingesta multi-formato
+- [WIKI_GENERATION.md](WIKI_GENERATION.md) — pipeline de generación de la wiki (Fase B)
 
 ---
 
@@ -189,14 +191,14 @@ Cuando llegue Fase B (entity index) o Fase E (LLM Wiki), encontrarán datos limp
 | Fase | Tecnología | Reutiliza | Aporta |
 |---|---|---|---|
 | **A** (hoy) | RAG dense BGE-M3 + Qdrant | corpus base | búsqueda semántica top-K |
-| **A.1** | + sparse BM25 (BGE-M3 ya soporta) | mismos chunks, mismo Qdrant | precisión en nombres propios raros |
-| **A.2** | + reranker cross-encoder | mismos resultados de retrieval | reordena top-20 → top-5 más preciso |
-| **B** | Entity index | mismo corpus + extracción NER | "todas las menciones de Jung", co-ocurrencia |
+| **A.2** | Sparse BM25 + threshold + reranker + reclasificación con OpenAlex | mismos chunks, mismo Qdrant | precisión en nombres propios + taxonomía canónica |
+| **B** | **Wiki estructurada con KG emergente** (fusión de las antiguas Layer 2 entity index + Layer 3 LLM Wiki) | summaries existentes + cold path | páginas markdown navegables, grafo emergente de wikilinks, hot path híbrido raw+wiki |
 | **C** | Despliegue Hetzner | mismo servidor, sin GPU | URL fija, multi-cliente, prod-ready |
-| **D** | Cold path con voluntarios | nuevo: cola SQLite + workers | fuente de chunks autogenerada |
-| **E** | LLM Wiki compilado | corpus + cold path | páginas concepto pre-sintetizadas |
+| **D** | Cold path con voluntarios + ingesta multi-formato (markitdown + Crossref/arXiv) | nuevo: cola SQLite + workers | corpus alimentado con papers, libros, web — no solo vídeos |
 
-**Cada fase es opcional.** Si Layer 1 ya da calidad suficiente, Layer 2 no se necesita. La arquitectura permite ir añadiendo capas sin desmontar las anteriores. Esto es consecuencia directa del decoupling MCP/LLM y de tener el corpus saneado: cada nueva tool MCP que añadamos (`cross_reference`, `get_concept_wiki`, `enqueue_deep_analysis`) es ortogonal a las existentes.
+**Cada fase es opcional y reordenable.** Si Layer 1 ya da calidad suficiente, B no se necesita. C (Hetzner) es ortogonal y puede hacerse en cualquier momento. La arquitectura permite ir añadiendo capas sin desmontar las anteriores.
+
+**Cambio relevante respecto al plan original:** las antiguas Fase B (entity index SQLite) y Fase E (LLM Wiki prosa) eran dos enfoques de lo mismo — estructurar conocimiento sintetizado a partir de los chunks. La fusión en una **Wiki markdown con KG emergente** evita duplicar trabajo: los wikilinks de las páginas markdown SON el grafo, sin necesidad de mantener una BD de grafos separada. Detalle en [WIKI_GENERATION.md](WIKI_GENERATION.md).
 
 ---
 

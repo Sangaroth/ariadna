@@ -227,20 +227,31 @@ Vocabulario controlado, tomado prestado de taxonomías abiertas como [arXiv cate
 
 Multi-valor: un chunk puede tener `["social.psychology", "humanities.philosophy"]`.
 
-### 4.2 Categorías propias de Proxy (categoría secundaria, retrocompatible)
+### 4.2 Las 5 categorías legacy se descartan
 
-Las 5 actuales se mantienen para los chunks que ya existen, pero como **etiqueta secundaria/curatorial**, no como única clasificación. Permite:
+Las 5 categorías originales (`análisis de obra`, `cultura y actualidad`, `filosofía y teoría`, `mitología y religión`, `psicología`) eran un **placeholder inicial sobre data de ejemplo** (los summaries del canal Proxy). **No se preservan** como retrocompatibilidad — se reemplazan limpiamente por la taxonomía OpenAlex en la próxima reindexación.
 
-- Filtrar "solo lo que ha curado Proxy en categoría X" (preserva el sentido editorial original)
-- Que papers nuevos no necesiten encajar a la fuerza en una de las 5
+Razón: el corpus de Fase A es data semilla, no compromiso. Mantener un campo legacy `proxy_category` en chunks futuros añadiría ruido permanente al schema sin ningún consumidor real.
 
 ### 4.3 Política de multi-categoría
 
-Decisión propuesta (abierta a debate):
-
 - `domain` es **list[str], multi-valor**, mínimo 1, máximo razonable 3-4
 - `domain_primary` es un **str** que apunta al dominio dominante (para UX que muestre "1 categoría principal")
-- `proxy_category` es **str opcional**, mantiene retrocompatibilidad con el corpus actual
+- Sin campo legacy — un chunk se reclasifica con OpenAlex o no es válido
+
+### 4.4 Profundidad y namespace
+
+- **Profundidad máxima 3 niveles**: `group.discipline.school` (ej. `social.psychology.jungian`). Más profundo introduce ramificación caótica que el LLM extractor no respeta consistentemente; para detalle fino usar `concepts[]` (entidad), no la taxonomía
+- **Namespace `proxy.contemporary.*`** para conceptos culturales contemporáneos sin entrada en OpenAlex (ej. `proxy.contemporary.wokismo`, `proxy.contemporary.cancelacion`). Claramente separado del académico, así un consumidor sabe distinguir "concepto académico canónico" de "etiqueta cultural curada"
+
+### 4.5 Bootstrap desde OpenAlex Topics
+
+OpenAlex publica gratis su taxonomía completa (~4500 topics jerarquizados, IDs estables, multilingüe) vía API. Es la **fuente de verdad** para `domain` en este proyecto.
+
+- Script: [`scripts/bootstrap_taxonomy.py`](../scripts/bootstrap_taxonomy.py) descarga `data/vocabulary/domains_full.json` con todos los topics
+- Curación manual: filtrar a las ~80-100 topics que aplican al corpus → `data/vocabulary/domains.json` (la lista activa)
+- Añadir manualmente los `proxy.contemporary.*` que el corpus requiera
+- Cuando lleguen papers en Fase D, llegan ya con `domain` de OpenAlex desde Crossref/arXiv → enriquecimiento automático sin trabajo extra
 
 ---
 
