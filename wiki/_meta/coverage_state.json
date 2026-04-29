@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "last_updated": "2026-04-29",
+  "summaries_root": "<PROXYSUMMARIES_ROOT>/data/playlists",
+
+  "_doc": "Estado vivo del pipeline de cobertura del corpus. Permite reanudar entre sesiones. Cada herramienta (inventory_summaries, extract_video_themes, rank_wiki_candidates) actualiza este archivo atómicamente. Schema completo en docs/CORPUS_COVERAGE_STRATEGY.md §4.",
+
+  "inventory": {
+    "total_videos_detected": 0,
+    "last_inventoried_at": null,
+    "videos": {}
+  },
+
+  "candidates": {
+    "total_proposed": 0,
+    "total_filtered_out": 0,
+    "total_compiled": 0,
+    "by_page_id": {}
+  },
+
+  "pipeline_state": {
+    "phase": "not_started",
+    "next_action": "Run scripts/inventory_summaries.py to populate inventory.videos[] from <PROXYSUMMARIES_ROOT>/data/playlists/",
+    "last_resumable_checkpoint": null,
+    "blocked_on": null
+  },
+
+  "filtered_blocks_log": [],
+
+  "phases_history": [
+    {
+      "phase": "not_started",
+      "entered_at": "2026-04-29T22:30:00",
+      "note": "Estado inicial tras documentar la estrategia de cobertura (CORPUS_COVERAGE_STRATEGY.md). Pendiente: implementar scripts/inventory_summaries.py."
+    }
+  ]
+}

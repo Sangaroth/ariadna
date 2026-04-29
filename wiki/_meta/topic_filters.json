@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "last_updated": "2026-04-29",
+  "description": "Filtros declarativos que descartan bloques temáticos antes de que entren al universo de candidatos del extractor. Editable a mano. Cada entrada lleva 'reason' y 'added_at' para audit trail. Ningún filtro automático por LLM (se equivocan silenciosamente).",
+
+  "include_domains": [
+    "social.psychology.*",
+    "social.sociology",
+    "humanities.*",
+    "arts.*",
+    "interdisciplinary.cultural_studies",
+    "interdisciplinary.semiotics"
+  ],
+
+  "exclude_patterns": [
+    {
+      "pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "scope": "block",
+      "added_at": "2026-04-29",
+      "added_by": "human"
+    },
+    {
+      "pattern": "(?i)\\b(impuestos hosteleros|factura de la luz|fiscalidad coyuntural)\\b",
+      "reason": "ya cubierto en consumismo-critica como caso ilustrativo; no merece página propia",
+      "scope": "block",
+      "added_at": "2026-04-29",
+      "added_by": "human"
+    },
+    {
+      "pattern": "(?i)\\b(directo casual|charla informal|saludos a chat|moderaci[oó]n del directo)\\b",
+      "reason": "metadata del stream, no contenido temático",
+      "scope": "block",
+      "added_at": "2026-04-29",
+      "added_by": "human"
+    },
+    {
+      "pattern": "(?i)\\b(promoci[oó]n|patrocinador|merchandising|lleva mi camiseta)\\b",
+      "reason": "contenido promocional, no enciclopédico",
+      "scope": "block",
+      "added_at": "2026-04-29",
+      "added_by": "human"
+    }
+  ],
+
+  "video_overrides": {},
+
+  "policy_notes": [
+    "scope='block' filtra solo bloques temáticos cuyo título o resumen matchea el patrón. El resto del video se procesa normalmente.",
+    "scope='entire_video' (en video_overrides) descarta el video completo. Reservado para casos donde el video entero es coyuntural o promocional.",
+    "Cuando el extractor detecta un bloque que matchea, NO lo silencia: lo registra en coverage_state.filtered_blocks_log con su razón. La auditabilidad es total.",
+    "Patrones case-insensitive por convención (prefijo (?i) explícito).",
+    "Si un patrón demasiado agresivo descarta material legítimo, el flujo de corrección es: identificar el descarte en filtered_blocks_log, refinar el regex, re-ejecutar extracción del video afectado.",
+    "Los include_domains aplican como whitelist: si el extractor estima un domain fuera de esta lista, el bloque queda en cuarentena (no descarte automático), requiere decisión humana en revisión de checkpoint."
+  ]
+}
