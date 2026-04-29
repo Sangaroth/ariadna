@@ -42,7 +42,6 @@ last_human_edit: null
 
 # El mito moderno según el canal Proxy
 
-> Página piloto del primer batch — el único `page_type: synthesis` del lote, sirve para validar si el modelo escala a páginas multi-concepto. Esta síntesis cruza los otros 4 conceptos del piloto y es por eso la más "ambiciosa" del batch.
 
 ## Tesis general del canal
 
@@ -166,41 +165,9 @@ Esta página activa explícitamente el grafo de wikilinks emergente:
 - **[[hieros-gamos]]**: estructura presente en Matrix (Neo-Trinity), en Superman (Clark-Lois), y como meta-arco de muchos mitos modernos
 - **[[jung-carl-gustav]]**: marco teórico que articula esta lectura — la psicología analítica es el aparato que permite leer todas estas obras como recapitulaciones arquetípicas
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **Lovecraft como autor con su propia página**: aunque está extensamente citado aquí, faltaría una página `[[lovecraft-howard]]` dedicada con su biografía, obras canónicas y posición en la mitología propia
 - **El mito en la ciencia ficción más allá de Matrix** (Alien, Prometeo, Blade Runner, Dune) — el canal los toca pero no aparecen suficientemente en este batch
 - **El mito en el videojuego** (Bloodborne sí aparece como herencia lovecraftiana, pero la dimensión específicamente lúdica del mito digital queda por sintetizar)
 - **La economía cultural del mito moderno** — cómo plataformas, franquicias y serialización degradan los mitos a `autotipo` (categoría del canal: prototipo vaciado de sentido moral). Esta laguna ya fue identificada en validación previa de Sprint 1
 - **Crítica al mito moderno** — el canal habla de la deriva hacia "mitología impropia" en mucha cultura pop pero estos chunks no la sistematizan
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 5 (mito moderno cultura / Lovecraft mitología moderna / superhéroes arquetipo solar / Matrix ciencia ficción mito / cine fantasía proyección) |
-| Chunks únicos recuperados | 30 (más alto del batch) |
-| Top-15 score range | 0.710 → 0.554 |
-| Sources distintas usadas | 10 |
-| Domain primario asignado | `interdisciplinary.cultural_studies` |
-| Wikilinks salientes | 11 (2 authors, 3 works, 6 concepts) |
-| Citas raw verificables | 14 timestamps clicables |
-| Es la página con MAYOR conectividad y MAYOR diversidad de fuentes del piloto | ✅ |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:4tAWgX7-yXk#617` — BUT WHY?, 10:17 (Matrix mito de transición)
-- `youtube:HgLlH8Ta2qk#62` — El Hombre de Acero, 01:02 (Cristo-Hércules-Apolo-Superman)
-- `youtube:HgLlH8Ta2qk#6565` — El Hombre de Acero, 1:49:25 (Tarot)
-- `youtube:9x8zTqpyZ5Q#184` — Sacrilegia/Bloodborne, 03:04 (horror cósmico)
-- `youtube:Dtp1_RLb7S0#1569` — Matrix Gnosticismo, 26:09 (5 mitos fundamentales)
-- `youtube:zr_ZKX60N54#3545` — De Platón a The Matrix, 59:05 (gnosis)
-- `youtube:PTgRsC-KwSs#833` — Directo Navidad, 13:53 (teofanía vs Lovecraft)
-- `youtube:PTgRsC-KwSs#2083` — Directo Navidad, 34:43 (mitos solares vs lunares)
-- `youtube:tkVwAclFrsI#216` — Matrix II y III, 03:36 (fe → amor)
-- `youtube:tkVwAclFrsI#3884` — Matrix II y III, 1:04:44 (3 versiones)
-- `youtube:Sszbs7CG0cQ#4989` — Mitología Alien Polar, 1:23:09 (Matrix mito polar mago)
-- `youtube:SwEqFdvBI9M#581` — Otoño de cuentos Lovecraft, 09:41 (mitología propia)
-- `youtube:SwEqFdvBI9M#3901` — Otoño Lovecraft, 1:05:01 (Necronomicón)
-- `youtube:IytpR6sGWXg#1355` — Biblioteca Babel II, 22:35 (Lovecraft imprescindible)
-- `youtube:kF5KHE_fF7g#2989` — Matrix camino del héroe, 49:49 (alegoría conciencia)

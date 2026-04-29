@@ -36,7 +36,6 @@ last_human_edit: null
 
 # Individuación (proceso junguiano)
 
-> Página compilada en el segundo batch. Discovery via 4 queries laterales (55 chunks únicos, top score 0.594). El concepto en el canal Proxy aparece menos como término técnico literal ("individuación") y más como **proceso de maduración psicológica** articulado a través del **viaje del héroe** y el **cambio alquímico** que provoca el contacto con material arquetípico.
 
 ## Definición
 
@@ -142,41 +141,9 @@ Refinamiento del canal sobre el camino: la individuación NO es solo descender a
 - En su versión culminante, equivale al [[hieros-gamos]] interior: la unión sagrada de los opuestos arquetípicos en un solo self
 - Desarrollado conceptualmente por [[jung-carl-gustav]]; el canal le añade el dispositivo del **cambio alquímico** y el énfasis en el viaje del héroe como vehículo narrativo
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **El "self" como término técnico** apenas aparece como tal. El canal articula la madurez/integridad pero no usa "self" en sentido junguiano estricto. Posible: el canal traduce el self por "yo integrado" / "interior afectivo propio"
 - **Proceso analítico clínico**: cómo se acompaña la individuación en terapia. El canal mantiene postura crítica con el psicoanálisis clínico (ver página de [[jung-carl-gustav]]) pero no detalla qué propondría como alternativa
 - **Etapas vitales**: Jung clásico distingue individuación de primera mitad de la vida (construcción del yo) y segunda mitad (integración del self). El corpus no marca esta distinción explícitamente
 - **Fracasos no cinematográficos**: el canal usa cine para mostrar el no-cumplimiento, pero no elabora qué patologías clínicas corresponderían a una individuación interrumpida
 - **Mito-Polar como caso límite**: hay material adyacente (Pandora/Prometeo, Diosa Blanca) sobre la integración cosmológica de los opuestos. Página propia futura
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 4 (individuación / self plenitud / madurez integrar sombra / héroe interior viaje) |
-| Chunks únicos recuperados | 55 |
-| Top-15 score range | 0.594 → 0.516 |
-| Sources distintas usadas | 13 |
-| Domain primario asignado | `social.psychology.jungian` |
-| Wikilinks salientes | 5 (1 author, 1 work, 3 concepts canon + hieros-gamos) |
-| Citas raw verificables | 14 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:6oOGKh2TRHE#1713` — Cuento contigo (resub), 28:33
-- `youtube:lk3DKsIagAE#4520` — Un Gólem llamado Prometeo, 1:15:20
-- `youtube:mG-05eFJsCQ#6940` — Psicología 101: Identidad y depresión, 1:55:40
-- `youtube:NYZEm8mcPiQ#3286` — Frozen, 54:46
-- `youtube:NYZEm8mcPiQ#3468` — Frozen, 57:48
-- `youtube:DwmV3c9-Xi0#3955` — Atrapado en el tiempo, 1:05:55
-- `youtube:9x8zTqpyZ5Q#1255` — Sacrilegia I (Bloodborne), 20:55
-- `youtube:Ot3Z1VYTUgY#5747` — El Sueño Eterno (Bella Durmiente), 1:35:47
-- `youtube:p8ZInoDuE50#302` — Elemental, 05:02
-- `youtube:p8ZInoDuE50#1484` — Elemental, 24:44
-- `youtube:tkVwAclFrsI#430` — Matrix II y III, 07:10
-- `youtube:yoWJWwYH_pE#4252` — El Gran Lebowski y el Tarot Invertido, 1:10:52
-- `youtube:TmQiM16HIpU#8327` — Inside Out 2, 2:18:47
-- `youtube:4JW8act2SdE#1285` — Taxonomía y filosofía del satanismo, 21:25
-- `youtube:Gx2740if0Ho#1313` — Gothika: De Profundis, 21:53
-- `youtube:L7oSZTTK8Gg#3973` — El síndrome de Wendy, 1:06:13

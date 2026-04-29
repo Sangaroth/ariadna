@@ -33,7 +33,6 @@ last_human_edit: null
 
 # La sombra (arquetipo junguiano)
 
-> Página piloto compilada como parte del primer batch de validación. Fuentes limitadas a discovery via Qdrant (top-15 chunks). En cold path real se enriquecerá con summaries completos de las fuentes.
 
 ## Definición
 
@@ -98,35 +97,9 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 - Paso clave hacia la [[individuation]] — integrar la sombra es prerrequisito para la individuación
 - Manifestación cinematográfica explícita en [[fight-club-1999-film]] (no cubierta directamente en los chunks de este batch — ver Lagunas)
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 Honesto reconocimiento de qué NO cubre este compilado:
 
 - **Fight Club no aparece en el top-15 de este batch** pese a ser el caso canónico del canal para la sombra. El discovery via Qdrant trajo Peter Pan y el síndrome de Wendy con más fuerza. Esto sugiere afinar el query lateral o esperar a que el extractor del cold path real reciba el `summary.md` completo de "Análisis arquetípico de el club de la lucha" como input
 - **Sombra colectiva** (de grupos sociales, naciones, generaciones) — el canal toca polarización en otros vídeos pero no se conecta explícitamente al arquetipo en este batch
 - **Distinción Jung clásico vs neo-junguianos** — la página podría profundizar en cómo el canal lee la sombra desde su propio modelo 3Q vs la formulación de Jung
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 4 (sombra junguiana / Tyler Durden Fight Club / Peter Pan / lo reprimido) |
-| Chunks únicos recuperados | 25 |
-| Top-15 score range | 0.628 → 0.518 |
-| Sources distintas usadas | 8 |
-| Domain primario asignado | `social.psychology.jungian` |
-| Wikilinks salientes | 5 (1 author, 1 work, 3 concepts) |
-| Citas raw verificables | 8 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:ClnayaScAjQ#3438` — Peter Pan, 57:18
-- `youtube:ClnayaScAjQ#3196` — Peter Pan, 53:16
-- `youtube:ClnayaScAjQ#2531` — Peter Pan, 42:11
-- `youtube:L7oSZTTK8Gg#3146` — El síndrome de Wendy, 52:26
-- `youtube:frbMVcThuRw#6899` — Psicoinfluencers, 1:54:59
-- `youtube:frbMVcThuRw#6621` — Psicoinfluencers, 1:50:21
-- `youtube:tt0hNPvCpjw#709` — Fantasía Realizada, 11:49
-- `youtube:svG7uT3Z8Rk#1525` — Effy y Proxy contra el mundo, 25:25
-- `youtube:TmQiM16HIpU#2673` — Inside Out 2, 44:33
-- `youtube:DNxx4qwb944#5912` — Mitología 101, 1:38:32

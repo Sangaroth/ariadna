@@ -40,7 +40,6 @@ last_human_edit: null
 
 # Fight Club (1999)
 
-> Página piloto del primer batch. La película tiene un análisis arquetípico dedicado en el canal Proxy ("Análisis arquetípico de el club de la lucha", ~10k chars de summary). El corpus la trata como caso paradigmático de varios temas centrales: depresión, vacío existencial, consumismo, escisión psíquica, viaje del héroe.
 
 ## Lectura del canal — tesis principales
 
@@ -114,34 +113,8 @@ El canal usa Fight Club como referencia recurrente fuera del análisis dedicado:
 - **El poder político y la herida narcisista**: en otro stream se conecta indirectamente la dinámica del Proyecto Mayhem con cómo "los gobiernos y corporaciones utilizan la ira, el despecho y la herida narcisista para encontrar un enemigo a conveniencia"
   → [Twitchversario de Proxy, 1:05:25](https://youtu.be/UBwUUOKf5UU?t=3925)
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **El libro original de Chuck Palahniuk (1996)** y su comparación con la adaptación de Fincher — no aparece en estos chunks. Sería natural una página `fight-club-novel` con `based_on` cruzado
 - **Cinematografía y dirección de Fincher**: el análisis del canal es psicológico/arquetípico, no cinematográfico. Aspectos formales (montaje, color, narración no fiable) no cubiertos
 - **Recepción y influencia cultural** de la película (manosfera, lecturas reaccionarias) — el canal toca el tema pero no en estos chunks
 - **El "Proyecto Mayhem" como metáfora política** y su conexión con totalitarismos del siglo XX — material adyacente en otros vídeos, no recuperado aquí
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 3 (Fight Club Jack Tyler / Club de la Lucha consumismo / vacío existencial enantiodromia) |
-| Chunks únicos recuperados | 16 |
-| Top-15 score range | 0.599 → 0.417 |
-| Sources distintas usadas | 6 (1 análisis dedicado + 5 menciones cross-vídeo) |
-| Domain primario asignado | `arts.cinema` |
-| Wikilinks salientes | 4 (1 author + 3 concepts) |
-| Citas raw verificables | 8 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:L4zXftKhU6M#45` — Análisis FC, 00:45 (intro: no es psicosis)
-- `youtube:L4zXftKhU6M#1021` — Análisis FC, 17:01 (viaje del héroe)
-- `youtube:L4zXftKhU6M#1385` — Análisis FC, 23:05 (consumismo anestesia)
-- `youtube:L4zXftKhU6M#3194` — Análisis FC, 53:14 (escisión tres niveles)
-- `youtube:L4zXftKhU6M#3376` — Análisis FC, 56:16 (Tyler como sombra)
-- `youtube:L4zXftKhU6M#4020` — Análisis FC, 1:07:00 (autoconservación)
-- `youtube:L4zXftKhU6M#4850` — Análisis FC, 1:20:50 (Marla diosa oscura)
-- `youtube:L4zXftKhU6M#6218` — Análisis FC, 1:43:38 (final integración)
-- `youtube:oHxXzr5WSbQ#3487` — Lunes basado terminal, 58:07 (fuga depresiva)
-- `youtube:UBwUUOKf5UU#3925` — Twitchversario de Proxy, 1:05:25 (poder y herida narcisista)

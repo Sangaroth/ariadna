@@ -50,7 +50,6 @@ last_human_edit: null
 
 # Carl Gustav Jung
 
-> Página piloto del primer batch de validación. Jung aparece en el corpus Proxy como **marco teórico estructurante** del canal, no como autor de fuentes citadas directamente (no se ingieren sus libros aún). La página recoge cómo el canal usa, refina y a veces critica el aparato junguiano.
 
 ## Perfil
 
@@ -132,35 +131,8 @@ Aspectos donde el canal extiende o matiza al junguiano clásico:
 
 3. **Tipología arquetipo / prototipo / estereotipo / autotipo** — extensión del canal sobre el concepto junguiano de arquetipo (no presente en Jung con esa terminología)
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **El propio Jung como autor**: el corpus actual NO ingiere sus obras (Tipos psicológicos, El hombre y sus símbolos, Aion, etc.). Cuando entre Fase D, los libros de Jung pasarán de ser "marco teórico de referencia" a ser **fuentes ingeridas con sus propios chunks** — esta página entonces tendrá `as_author_of_sources` poblada
 - **Discípulos y herederos junguianos** que el canal lee (Hillman, Edinger, von Franz, Joseph Campbell) — no aparecen en el top-15 de este batch. Probablemente merezcan páginas propias en sucesivas iteraciones
 - **La crítica freudiana al junguianismo** y la respuesta de Jung — no cubierto en estos chunks
 - **Aspectos clínicos** (proceso analítico, transferencia, individuación clínica) — el canal los menciona pero los chunks recuperados son más conceptuales que clínicos
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 3 (Carl Jung psicología analítica / junguiano arquetipo inconsciente / individuación Jung self ánima) |
-| Chunks únicos recuperados | 17 |
-| Top-15 score range | 0.592 → 0.491 |
-| Sources distintas usadas | 8 |
-| Domain primario asignado | `social.psychology` |
-| Wikilinks salientes | 4 (concepts) |
-| Citas raw verificables | 11 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:9wJQ9tm9Yuc#4224` — Psicología 101: Inconsciente, 1:10:24
-- `youtube:9wJQ9tm9Yuc#2480` — Psicología 101: Inconsciente, 41:20
-- `youtube:9wJQ9tm9Yuc#4823` — Psicología 101: Inconsciente, 1:20:23
-- `youtube:t8v5w3s0USA#5766` — Directo doble Parte 1, 1:36:06
-- `youtube:i72IYlpQWd0#1480` — La IA se sale de madre, 24:40
-- `youtube:IytpR6sGWXg#1172` — Biblioteca de Babel II, 19:32
-- `youtube:1D0u-tK4v8c#5972` — Orfeo y Eurídice, 1:39:32
-- `youtube:rRlks0e0oxU#443` — Análisis La Bruja, 07:23
-- `youtube:Tviv4PT0dv8#4878` — Tarzán, 1:21:18
-- `youtube:zLRhDHyq3gs#489` — Psicología Incel, 08:09
-- `youtube:ClnayaScAjQ#0` — Ánima y Ánimus Peter Pan, intro

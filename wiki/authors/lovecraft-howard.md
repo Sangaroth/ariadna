@@ -49,7 +49,6 @@ last_human_edit: null
 
 # H. P. Lovecraft
 
-> Página compilada en el segundo batch. Discovery via 4 queries laterales (49 chunks únicos, top score 0.611). **Diferencia con [[jung-carl-gustav]]**: Lovecraft NO entra al corpus solo como referencia teórica — el canal **lee sus cuentos en directo** y dedica vídeos monográficos a su obra. Por eso la página tiene tanto `as_author_of_sources` (cuentos leídos) como `as_subject_of_sources` (análisis del autor).
 
 ## Perfil
 
@@ -154,8 +153,7 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - En el plano cinematográfico, su influencia se cruza con [[fight-club-1999-film]] indirectamente: ambos son lecturas del **vacío existencial**, uno por consumismo, el otro por indiferencia cósmica
 - Bloodborne, Warhammer 40K, True Detective y Event Horizon son obras lovecraftianas que el canal trata en otros vídeos — candidatos a páginas `entity_work` propias
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **Biografía de Lovecraft**: el corpus apenas trata la vida del autor (racismo, depresión, pobreza, matrimonio fallido). Solo aparece su obra y filosofía
 - **Recepción crítica del racismo lovecraftiano**: tema mayor en la crítica contemporánea, ausente en los chunks recuperados
 - **Círculo de Lovecraft** (Robert E. Howard, Clark Ashton Smith, August Derleth): mencionados ocasionalmente pero no desarrollados
@@ -163,35 +161,3 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Comparación detallada con Poe**: el canal lo menciona como antecedente directo pero no profundiza
 - **Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos aparecen citados con timestamp claro en este batch — necesitaría discovery por título de cuento individual
 - **Lectura junguiana directa de Lovecraft**: el canal usa marco junguiano para casi todo pero no aparece un análisis explícito "Lovecraft según Jung" en estos chunks
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 4 (Lovecraft horror cósmico Cthulhu / ciencia ficción inefable / naturaleza hostil universo indiferente / Lovecraft autor literatura) |
-| Chunks únicos recuperados | 49 |
-| Top-15 score range | 0.611 → 0.521 |
-| Sources distintas usadas | 13 |
-| Domain primario asignado | `arts.literature` |
-| Wikilinks salientes | 3 (2 concepts, 1 work) |
-| Citas raw verificables | 14 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:IytpR6sGWXg#1355` — Biblioteca de Babel II, 22:35
-- `youtube:JzfcmEKWm1c#1578` — Terror: Lovecraft y lo incompleto, 26:18
-- `youtube:JzfcmEKWm1c#694` — Terror: Lovecraft y lo incompleto, 11:34
-- `youtube:JzfcmEKWm1c#3919` — Terror: Lovecraft y lo incompleto, 1:05:19
-- `youtube:JzfcmEKWm1c#4010` — Terror: Lovecraft y lo incompleto, 1:06:50
-- `youtube:SwEqFdvBI9M#581` — Otoño de cuentos. Lovecraft, 09:41
-- `youtube:SwEqFdvBI9M#3901` — Otoño de cuentos. Lovecraft, 1:05:01
-- `youtube:SwEqFdvBI9M#520` — Otoño de cuentos. Lovecraft, 08:40
-- `youtube:SwEqFdvBI9M#3099` — Otoño de cuentos. Lovecraft, 51:39
-- `youtube:9x8zTqpyZ5Q#184` — Sacrilegia I (Bloodborne), 03:04
-- `youtube:PTgRsC-KwSs#833` — Directo Navidad / Unicornio, 13:53
-- `youtube:cgO7JwvwOQg#163` — Event Horizon, 02:43
-- `youtube:_S6kQYk9O98#2877` — Aventuras Ignotas (lectura cuento), 47:57
-- `youtube:clUIlcqD0o0#3337` — Leyendo a Lovecraft, 55:37
-- `youtube:clUIlcqD0o0#1344` — Leyendo a Lovecraft, 22:24
-- `youtube:rjG3RbEYcL0#7045` — Hard problem soft problem, 1:57:25
-- `youtube:94OQnbWfe1E#2273` — El acabóse, 37:53

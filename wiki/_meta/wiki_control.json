@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "schema_version": "1.0.0",
   "last_updated": "2026-04-29",
   "description": "Control file de la wiki estructurada. Trackea qué páginas existen, su estado en el pipeline (candidate → in_progress → draft → human_reviewed → published), qué chunks raw las sustentan, y cuándo se compilaron por última vez.",
@@ -282,6 +282,27 @@
       "verifiable_citations": 14,
       "lagunas_detected": 7,
       "notes": "Author distinto a Jung: el corpus SÍ ingiere a Lovecraft como fuente directa (lecturas íntegras de cuentos en directos), por lo que as_author_of_sources tiene valor (=6) además de as_subject_of_sources (=8). Tercer dominio nuevo en wiki: arts.literature. Confirma que la taxonomía OpenAlex aguanta el cambio de dominio académico vs literario."
+    },
+    {
+      "page_id": "mito-polar",
+      "file_path": "wiki/concepts/mito-polar.md",
+      "page_type": "concept",
+      "domain_primary": "humanities.religion",
+      "compiled_at": "2026-04-29T22:30:00",
+      "compiler": "claude-opus-4-7-batch-3",
+      "schema_version": "1.0.0",
+      "review_status": "auto_generated",
+      "batch": "batch_3_2026_04_29",
+      "discovery_queries": ["mito polar dualidad opuestos masculino femenino", "Pandora Prometeo gnosticismo pareja arquetipica", "Nosferatu Drácula vampiro polaridad solar lunar", "diosa blanca Yavanna Manwë eje cosmologico"],
+      "chunks_unique_recovered": 58,
+      "top_score": 0.7311,
+      "sources_used_count": 13,
+      "wikilinks_out_count": 9,
+      "wikilinks_out": ["hieros-gamos", "anima-archetype", "collective-unconscious", "individuation", "shadow-archetype", "mito-solar", "mito-lunar", "jung-carl-gustav", "fight-club-1999-film"],
+      "verifiable_citations": 13,
+      "lagunas_detected": 6,
+      "ranking_score_at_selection": 0.85,
+      "notes": "Único candidato VIABLE estricto del ranking determinista (avg=0.557 ≥ 0.55, n=34 chunks). Top score real durante compilación: 0.731 — coincide con el ranking. Página clave del eje cosmológico del corpus: articula la triada solar/lunar/polar y posiciona al polar como 'tercer camino' transformador (los otros dos son cíclicos). Compilada en formato limpio (sin secciones meta-proceso) post-cleanup. Cuarto dominio en wiki: humanities.religion era ya cubierto por hieros-gamos pero esta página lo ancla."
     }
   ],
 
@@ -295,6 +316,35 @@
       {"page_id": "collective-unconscious", "page_type": "concept", "domain_primary": "social.psychology.jungian", "rationale": "Referenciado desde 3 páginas piloto"},
       {"page_id": "consumismo-critica", "page_type": "concept", "domain_primary": "interdisciplinary.cultural_studies", "rationale": "Demandado por fight-club. Abre dominio nuevo"},
       {"page_id": "lovecraft-howard", "page_type": "author", "domain_primary": "arts.literature", "rationale": "Author canónico del corpus, lecturas íntegras en directos"}
+    ]
+  },
+
+  "batch_3_2026_04_29": {
+    "description": "Tercer batch — primer batch SIN selección a mano. Conducido enteramente por scripts/rank_wiki_candidates.py.",
+    "rationale": "Aplicación del compromiso de NEXT_SESSION.md: a partir de aquí, la selección de candidatos es determinista (ranking automático) y reproducible. El script computa para cada wikilink roto: recurrence (chunks en corpus), connectivity (páginas que lo referencian), domain_diversity (bonus si abre dominio nuevo). Score = 0.5*rec + 0.3*conn + 0.2*bonus. Tie-break alfabético.",
+    "completed_at": "2026-04-29T22:30:00",
+    "ranking_input_file": "wiki/_meta/next_batch_ranking.json",
+    "candidates_evaluated": 6,
+    "candidates_viable": 1,
+    "viability_filter_applied": {
+      "min_chunks": 10,
+      "min_avg_score_top10": 0.55
+    },
+    "compiled": [
+      {"page_id": "mito-polar", "score": 0.85, "rationale": "Único candidato viable estricto"}
+    ],
+    "non_viable_at_this_batch": [
+      {"page_id": "mito-lunar", "score": 0.97, "reason": "avg=0.536 < 0.55 (falla por 0.014)", "note": "Mayor score absoluto del batch — candidato top en próximo batch si umbral o queries mejoran"},
+      {"page_id": "matrix-1999-film", "score": 0.72, "reason": "avg=0.500 < 0.55", "note": "30 chunks, conn=1. Recurrencia OK, retrieval por título débil — esperable en BGE-M3 con nombres propios"},
+      {"page_id": "peter-pan-1953-film", "score": 0.72, "reason": "avg=0.518 < 0.55", "note": "Mismo patrón que matrix"},
+      {"page_id": "mito-solar", "score": 0.62, "reason": "n_chunks=8 < 10", "note": "Curiosamente el complemento de mito-lunar tiene menos discovery — posible queries laterales sub-óptimas"},
+      {"page_id": "man-of-steel-2013-film", "score": 0.33, "reason": "n_chunks=4 < 10", "note": "Candidato débil; el corpus toca Superman pero no específicamente Man of Steel 2013"}
+    ],
+    "observations": [
+      "Compromiso cumplido: la selección NO se desvió del ranking determinista. El script identificó 1 viable; se compiló 1 página exactamente. Sin tweaks ad-hoc al umbral",
+      "Hallazgo: el threshold 0.55 es exigente con entity_work (películas) — los embeddings BGE-M3 tienen menor recall sobre títulos que sobre conceptos abstractos. Considerar threshold por page_type en futuras iteraciones del ranking",
+      "Hallazgo: solo 6 wikilinks rotos detectados (vs ~10 que esperábamos por el control file del batch 1+2). Diferencia: el control file registraba 'wikilinks_out' incluyendo menciones textuales, el script cuenta solo wikilinks formales [[X]]. La métrica del script es la correcta — el grafo es lo que está formalmente declarado",
+      "Próximo batch: re-ejecutar el ranking tras compilar mito-polar (su frontmatter introduce wikilinks a mito-solar y mito-lunar, sumando connectivity). Posible que mito-solar sí sea viable la próxima por mejora de queries laterales"
     ]
   },
 

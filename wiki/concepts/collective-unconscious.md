@@ -38,7 +38,6 @@ last_human_edit: null
 
 # Inconsciente colectivo
 
-> Página compilada en el segundo batch. Discovery via 4 queries laterales (54 chunks únicos, **top score 0.730** — el más alto del corpus para esta página, lo que confirma que es un concepto densamente trabajado por el canal). El canal Proxy mantiene el término junguiano pero **lo refina sustancialmente**: rechaza la lectura "mente colmena", lo articula con Lévi-Strauss y le añade su propia distinción inconsciente colectivo / sueño colectivo.
 
 ## Definición y precisión clave del canal
 
@@ -147,45 +146,10 @@ El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al moni
 - Conceptualizado por [[jung-carl-gustav]]; el canal lo articula con Lévi-Strauss y le añade la distinción "sueño colectivo"
 - Material aplicable a la lectura del horror cósmico de [[lovecraft-howard]] como inversión del animismo arquetípico
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **Listado completo de los ~30 arquetipos principales**: el canal menciona la cifra pero no enumera el catálogo. Sería útil rastrear si existe esa lista canónica en algún vídeo monográfico
 - **Distinción "estructural / mitemas" vs "personales / encarnados en figuras"**: mencionada pero no desarrollada en este batch
 - **Origen biológico del inconsciente colectivo**: el canal lo trata como hecho cognitivo pero no explora la base evolutiva (¿cómo se hereda? ¿selección? ¿exaptación?)
 - **Críticas modernas al concepto**: el canal no recoge las objeciones contemporáneas (Pinker y otros) al inconsciente colectivo como ineficiente o cripto-lamarckiano
 - **Aplicación a culturas no-occidentales**: la lista de mitos primarios usa material principalmente mesopotámico-grecorromano-judeocristiano. ¿El canal articula material arquetípico amerindio, africano, australiano? Hay alguna mención (sueños australianos) pero pocos chunks
 - **El "sueño colectivo" como término**: aparece pocas veces. Merece una página propia o expansión sustancial
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 4 (inconsciente colectivo Jung / arquetipo universal cultura / patrones psíquicos heredados / sueño colectivo crítica) |
-| Chunks únicos recuperados | 54 |
-| Top-15 score range | 0.730 → 0.548 |
-| Sources distintas usadas | 13 |
-| Domain primario asignado | `social.psychology.jungian` |
-| Wikilinks salientes | 9 (2 authors, 7 concepts) |
-| Citas raw verificables | 14 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:9wJQ9tm9Yuc#4224` — Psicología 101: Inconsciente, 1:10:24
-- `youtube:9wJQ9tm9Yuc#4823` — Psicología 101: Inconsciente, 1:20:23
-- `youtube:9wJQ9tm9Yuc#3256` — Psicología 101: Inconsciente, 54:16
-- `youtube:cbfhVqYDbdE#4146` — Psicología 101: Pollo demostró Jung, 1:09:06
-- `youtube:QSggWfjOkHk#1044` — Evangelion gnosticismo, 17:24
-- `youtube:VDOUrpcC4fU#152` — Mitología 101: Perséfone, 02:32
-- `youtube:yAIPr0HzQqE#174` — Nosferatu (Eggers), 02:54
-- `youtube:yAIPr0HzQqE#265` — Nosferatu (Eggers), 04:25
-- `youtube:t8v5w3s0USA#5766` — Directo doble I, 1:36:06
-- `youtube:Ot3Z1VYTUgY#42` — Bella Durmiente, 00:42
-- `youtube:zLRhDHyq3gs#3851` — Psicología Incel III, 1:04:11
-- `youtube:aPbgBnidoJI#762` — La Llegada, 12:42
-- `youtube:Dtp1_RLb7S0#1569` — Matrix, Gnosticismo, 26:09
-- `youtube:J45h7xet8gg#163` — Pecado original y Postmodernidad I, 02:43
-- `youtube:O4OkDuc3uPQ#587` — Pandora, Prometeo, Mito Polar, 09:47
-- `youtube:Uykl0PLRRlo#281` — Un Gólem llamado Prometeo, 04:41
-- `youtube:6oOGKh2TRHE#1561` — Cuento contigo (resub), 26:01
-- `youtube:Qui4WMSQ99k#3767` — ¿Por qué el amor?, 1:02:47
-- `youtube:yLd7j3fcR1w#2423` — Mitología 101: Héroes y antihéroes, 40:23

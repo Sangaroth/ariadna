@@ -40,7 +40,6 @@ last_human_edit: null
 
 # Ánima y Ánimus (arquetipos junguianos)
 
-> Página compilada en el segundo batch de validación. Discovery via Qdrant (4 queries laterales, 58 chunks únicos recuperados, top-15 usado). Cubre la pareja arquetípica completa porque el canal Proxy las trata habitualmente como un sistema de polaridad indivisible — separarlas en dos páginas violaría la lógica del corpus.
 
 ## Definición
 
@@ -137,43 +136,8 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 - Cosmológicamente conecta con el [[hieros-gamos]] (matrimonio sagrado): la unión de los opuestos arquetípicos
 - Manifestaciones modernas dialogan con el [[mito-lunar]] (gracia femenina, conservación del hogar) y el [[mito-solar]] (acción heroica, conquista)
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **Animus en sentido estricto subdesarrollado**: el corpus tiene mucho más material sobre ánima (femenino) que sobre ánimus (masculino interior de la mujer). Los chunks sobre "lo masculino" tratan masculinidad arquetípica en general, no el ánimus como arquetipo contrasexual de la mujer
 - **Recepción crítica feminista**: el canal articula una lectura tradicionalista de la polaridad. No hay material sobre las críticas feministas a Jung (Lauter, Rupprecht, Wehr) ni sobre re-lecturas no esencialistas
 - **Distinción Jung clásico vs canal**: la "ánima sola" es formulación recurrente del canal pero no aparece con ese nombre exacto en Jung. Sería útil rastrear si proviene de la tradición católica popular o de un junguiano específico
 - **Manifestaciones del ánimus en obras dirigidas a varones**: poco material. ¿Cómo lee el canal el ánimus en personajes masculinos cuya psique femenina interior es central?
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 4 (anima junguiana / animus masculino mujer / proyección idealización / Beatrice musa femenino sagrado) |
-| Chunks únicos recuperados | 58 |
-| Top-20 score range | 0.597 → 0.534 |
-| Sources distintas usadas | 12 |
-| Domain primario asignado | `social.psychology.jungian` |
-| Wikilinks salientes | 8 (1 author, 1 work, 6 concepts) |
-| Citas raw verificables | 14 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:ClnayaScAjQ#0` — Ánima y Ánimus (Peter Pan), intro
-- `youtube:ClnayaScAjQ#827` — Ánima y Ánimus (Peter Pan), 13:47
-- `youtube:ClnayaScAjQ#6694` — Ánima y Ánimus (Peter Pan), 1:51:34
-- `youtube:8l__TS3ATNY#5230` — La Sirenita, 1:27:10
-- `youtube:Gx2740if0Ho#3118` — Gothika: De Profundis, 51:58
-- `youtube:ECN5C9rsaZg#2404` — Directo casual, 40:04
-- `youtube:rLeMS4-XFrA#1804` — Polaris, 30:04
-- `youtube:rLeMS4-XFrA#3917` — Polaris, 1:05:17
-- `youtube:L7oSZTTK8Gg#1954` — El síndrome de Wendy, 32:34
-- `youtube:wIhH72UFUPY#1949` — Inside Proxy directo, 32:29
-- `youtube:wIhH72UFUPY#2256` — Inside Proxy directo, 37:36
-- `youtube:Qui4WMSQ99k#2277` — ¿Por qué el amor?, 37:57
-- `youtube:bDnPuA3aZSk#149` — El amor cortés y el amor romántico, 02:29
-- `youtube:NYZEm8mcPiQ#6161` — Frozen, 1:42:41
-- `youtube:x7A9nfoRfu0#6866` — Cerebros rosas y azules, 1:54:26
-- `youtube:O4OkDuc3uPQ#3708` — Pandora, Prometeo y el Mito Polar, 1:01:48
-- `youtube:llS9fqsNVvY#42` — En Busca de la Diosa Blanca, 00:42
-- `youtube:X2c2a3mQBOs#211` — Scott Pilgrim, 03:31
-- `youtube:X2c2a3mQBOs#331` — Scott Pilgrim, 05:31

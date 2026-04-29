@@ -40,7 +40,6 @@ last_human_edit: null
 
 # Hieros gamos (matrimonio sagrado)
 
-> Página piloto del primer batch. El hieros gamos es uno de los conceptos **más recurrentes y centrales** del aparato analítico del canal Proxy — aparece en prácticamente todos los análisis arquetípicos de obras como meta-estructura del viaje narrativo. Esta página recoge la definición que el canal articula y sus aplicaciones en obras concretas.
 
 ## Definición canónica del canal
 
@@ -140,38 +139,8 @@ Lectura antropológica del vínculo:
 > "La sacralización del sexo une a hombre y mujer por un vínculo inconsciente que no se puede deshacer. Los rituales orgásticos ofrecidos a la diosa tenían utilidad biológica: generar un vínculo intratribal imposible de otra forma."
 → [Femenino (I), 34:28](https://youtu.be/VR3snBjNrsc?t=2068)
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **Hieros gamos en mitología clásica directa** (Zeus-Hera, sumerio Inanna-Dumuzi, egipcio Isis-Osiris): el canal lo aplica masivamente a obras audiovisuales modernas pero los chunks recuperados son escasos en raíces mitológicas explícitas
 - **Tradición esotérica occidental** (alquimia hermética, cábala) que articula el matrimonio sagrado en clave operativa: hay un chunk sobre alquimia poética pero no profundización
 - **El hieros gamos en Fight Club** (Jack-Marla como conjunción mal resuelta) — interesante hueco: la página de [[fight-club-1999-film]] sí lo apunta como "encuentro con la diosa", pero la conexión con la teoría general del hieros gamos no aparece en estos chunks
 - **Crítica feminista al concepto** (riesgo de esencializar masculino/femenino) — el canal toca el tema en otros vídeos pero no en estos chunks
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 3 (hieros gamos matrimonio sagrado / unión opuestos alquimia / mito unión sagrada masculino femenino) |
-| Chunks únicos recuperados | 17 |
-| Top-15 score range | 0.601 → 0.473 |
-| Sources distintas usadas | 10 (alta diversidad) |
-| Domain primario asignado | `humanities.religion` |
-| Wikilinks salientes | 6 (1 author + 1 work + 4 concepts) |
-| Citas raw verificables | 13 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:Tviv4PT0dv8#705` — Tarzán, 11:45 (esquema canónico)
-- `youtube:Tviv4PT0dv8#462` — Tarzán, 07:42 (canción inaugural)
-- `youtube:Tviv4PT0dv8#6088` — Tarzán, 1:41:28 (consumación)
-- `youtube:xK8_MpMMXzc#1523` — Lady Halcón, 25:23 (mito polar)
-- `youtube:OT2DW4zoKsE#6336` — Enredados, 1:45:36
-- `youtube:yAIPr0HzQqE#477` — Nosferatu, 07:57
-- `youtube:fLfEbHPJNmU#6526` — Unicorn Wars, 1:48:46
-- `youtube:olX_-KIziX0#1852` — Eyes Wide Shut, 30:52
-- `youtube:X2c2a3mQBOs#1676` — Scott Pilgrim, 27:56
-- `youtube:O4OkDuc3uPQ#3079` — Mito Polar, 51:19
-- `youtube:1D0u-tK4v8c#4641` — Orfeo y Eurídice, 1:17:21 (alquimia)
-- `youtube:8l__TS3ATNY#8012` — La Sirenita, 2:13:32
-- `youtube:VR3snBjNrsc#2068` — Femenino (I), 34:28
-- `youtube:iPqOn-ynSlE#5357` — Cenicienta, 1:29:17

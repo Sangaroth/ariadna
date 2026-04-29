@@ -36,7 +36,6 @@ last_human_edit: null
 
 # Crítica al consumismo (lectura del canal Proxy)
 
-> Página compilada en el segundo batch. Discovery via 4 queries laterales (56 chunks únicos, top score 0.602). **Aclaración importante**: la crítica del canal Proxy al consumismo NO es anti-capitalismo marxista. Es una **crítica cultural-psicológica** con sustrato moral y tradicionalista. La página intenta reflejar esa posición específica sin homogeneizarla con la crítica de izquierdas estándar.
 
 ## Tesis del canal: el consumismo como anestesia del vacío existencial
 
@@ -130,43 +129,10 @@ La crítica al consumismo del canal se articula con su lectura junguiana:
 - **Mercantilización del [[anima-archetype]]**: en las apps de citas el polo femenino interior queda colapsado en perfil-producto
 - Manifestación cinematográfica canónica: [[fight-club-1999-film]]
 
-## Lagunas detectadas en este batch
-
+## Lagunas
 - **Crítica explícita a la izquierda y a la derecha simultáneamente**: hay material en otros vídeos pero los chunks recuperados están sesgados hacia la crítica a la izquierda. Falta el contrapeso a la derecha consumista
 - **Posibles soluciones colectivas** (no solo individuales): el canal mantiene postura individualista. ¿Articula alguna política cultural posible o solo crítica?
 - **Diferencia entre consumismo y consumo**: el canal critica el consumismo pero no precisa siempre la frontera. Consumir cultura genuina no es consumismo en sentido peyorativo — habría que rastrear si el canal define la frontera explícitamente
 - **Conexión con teoría del valor / capital**: el canal rechaza la "categoría mitológica" capitalismo pero no propone alternativa conceptual sistemática para hablar de la economía política
 - **Diálogo con autores clásicos** (Baudrillard, Adorno, Debord, Han): no aparecen en los chunks. ¿El canal los conoce y descarta o no los ha tratado?
 - **Aspecto positivo** ("qué consumir bien"): la página queda dominada por la crítica. Falta material sobre qué SÍ vale la pena consumir según el canal
-
-## Identificación del proceso (auditable)
-
-| Métrica | Valor |
-|---|---|
-| Discovery queries | 4 (consumismo crítica capitalismo / vacío existencial dopamina marketing / apps citas Tinder / propaganda algoritmo plataforma) |
-| Chunks únicos recuperados | 56 |
-| Top-15 score range | 0.602 → 0.510 |
-| Sources distintas usadas | 12 |
-| Domain primario asignado | `interdisciplinary.cultural_studies` |
-| Wikilinks salientes | 5 (1 author, 1 work, 3 concepts) |
-| Citas raw verificables | 14 timestamps clicables |
-
-## Fuentes raw usadas (chunk_ids)
-
-- `youtube:L4zXftKhU6M#1385` — Fight Club, 23:05
-- `youtube:9x8zTqpyZ5Q#1195` — Sacrilegia I (Bloodborne), 19:55
-- `youtube:DwmV3c9-Xi0#2806` — Atrapado en el tiempo, 46:46
-- `youtube:1ldYmBO4N4I#1507` — T5x09 El amor en realidad, 25:07
-- `youtube:1ldYmBO4N4I#3190` — T5x09 El amor en realidad, 53:10
-- `youtube:e3Aj775Rlw4#4520` — El Gólem de Cobre, 1:15:20
-- `youtube:qbCGrnynKe8#6626` — Materialismo Filosófico, 1:50:26
-- `youtube:i72IYlpQWd0#3123` — La IA se sale de madre, 52:03
-- `youtube:IP9f-1gSJ1c#3161` — Consultorio EXIT INSIDE, 52:41
-- `youtube:IP9f-1gSJ1c#3434` — Consultorio EXIT INSIDE, 57:14
-- `youtube:VZDrqiFs58k#302` — Proxy desmontar medios, 05:02
-- `youtube:UBwUUOKf5UU#3925` — Twitchversario de Proxy, 1:05:25
-- `youtube:4LBXNkVAUCU#5145` — Psiquiatría y antipsiquiatría, 1:25:45
-- `youtube:wxcSuqipA6s#110` — Diagrama de Proxy izquierdas/derechas, 01:50
-- `youtube:C0Io49giVY8#1641` — Ha vuelto a ocurrir, 27:21
-- `youtube:7O_f3spU184#802` — Puppetland capítulo cero, 13:22
-- `youtube:lFbK8-hU_E0#7396` — Póker de Señoros, 2:03:16
