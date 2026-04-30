@@ -44,7 +44,7 @@ last_human_edit: null
 
 El hieros gamos es la **unión sagrada de lo masculino y lo femenino** que cierra el arco arquetípico narrativo. Tiene una estructura interna precisa:
 
-> "El hieros gamos es la unión sagrada de lo femenino y lo masculino expresada como héroe-diosa, heroína-dios, hombre-mujer. Las caídas (catábasis) son errores, miedos, debilidades; las subidas (anábasis) son salidas de la oscuridad convertido en algo más. La gran anábasis final es la éxesis: pasar de la tierra a los cielos o de los infiernos directamente a los cielos en matrimonio divino."
+> "El hieros gamos es la unión sagrada de lo femenino y lo masculino expresada como héroe-diosa, heroína-dios, hombre-mujer. Las caídas (catábasis) son errores, miedos, debilidades; las subidas (anábasis) son salidas de la oscuridad convertido en algo más. La gran anábasis final es la égersis: pasar de la tierra a los cielos o de los infiernos directamente a los cielos en matrimonio divino."
 → [Análisis arquetípico de Tarzán, 11:45](https://youtu.be/Tviv4PT0dv8?t=705)
 
 ### Las tres partes del esquema
@@ -53,7 +53,7 @@ El hieros gamos es la **unión sagrada de lo masculino y lo femenino** que cierr
 |---|---|
 | **Catábasis** | descenso, caída, prueba — errores, miedos, debilidades |
 | **Anábasis** | ascenso, salida de la oscuridad transformado |
-| **Éxesis** | gran anábasis final — pasar de la tierra (o los infiernos) a los cielos en matrimonio divino |
+| **Égersis** | gran anábasis final — pasar de la tierra (o los infiernos) a los cielos en matrimonio divino |
 
 ## El mito polar como contexto del hieros gamos
 
