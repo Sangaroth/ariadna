@@ -38,7 +38,7 @@ Cada capa se añade encima sin romper las anteriores, y se accede vía el mismo 
 | **C** — Despliegue producción (Hetzner, URL fija) | Pendiente |
 | **D** — Cold path con voluntarios + ingesta multi-formato | Pendiente |
 
-Estado vivo en [docs/SESSION_CONTEXT.md](docs/SESSION_CONTEXT.md).
+Estado vivo en [docs/NEXT_SESSION.md](docs/NEXT_SESSION.md).
 
 ## Requisitos
 
@@ -134,7 +134,7 @@ ariadna/
 ├── docs/
 │   ├── ARCHITECTURE.md       — argumentación de diseño (decoupling, hot/cold)
 │   ├── PHASES.md             — roadmap por capas
-│   ├── SESSION_CONTEXT.md    — estado vivo, decisiones, quirks
+│   ├── NEXT_SESSION.md       — estado vivo, decisiones, próximos pasos
 │   ├── INTEGRACION_MATTERMOST.md — guía cliente
 │   ├── run_pipeline.md       — pipeline técnico paso a paso
 │   └── images/architecture.png   — infografía hot/cold
@@ -149,7 +149,7 @@ ariadna/
 - **[docs/WIKI_GENERATION.md](docs/WIKI_GENERATION.md)** — pipeline completo de la wiki estructurada con KG emergente (Fase B): generador de páginas markdown con frontmatter, wikilinks tipados, validación automática, loop iterativo humano-en-el-bucle
 - **[docs/RESPONSE_FLOW.md](docs/RESPONSE_FLOW.md)** — flujo de respuesta MCP con 4 ejemplos estructurados completos. Demuestra cómo opera el modo híbrido (wiki + raw) en escenarios reales con datos JSON, costes y latencias concretas. Validación previa a la implementación de Fase B
 - **[docs/PHASES.md](docs/PHASES.md)** — roadmap por fases (A → A.2 → B → C → D), criterios para saltar de una a otra
-- **[docs/SESSION_CONTEXT.md](docs/SESSION_CONTEXT.md)** — estado vivo del proyecto, decisiones tomadas, bugs conocidos, comandos útiles
+- **[docs/NEXT_SESSION.md](docs/NEXT_SESSION.md)** — estado vivo del proyecto, decisiones tomadas, bugs conocidos, comandos útiles
 - **[docs/run_pipeline.md](docs/run_pipeline.md)** — pipeline técnico end-to-end (corpus → parser → embedding → Qdrant → MCP → LLM)
 - **[docs/INTEGRACION_MATTERMOST.md](docs/INTEGRACION_MATTERMOST.md)** — guía paso a paso de integración con el cliente Mattermost
 - **[wiki/README.md](wiki/README.md)** — base de conocimiento navegable (vacía hasta el piloto de Fase B)

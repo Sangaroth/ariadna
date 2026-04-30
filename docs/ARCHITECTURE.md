@@ -213,5 +213,5 @@ Cuando llegue Fase B (Wiki estructurada con KG emergente), encontrará datos lim
 
 Para detalle de implementación ver:
 - [run_pipeline.md](run_pipeline.md) — pipeline técnico paso a paso
-- [SESSION_CONTEXT.md](SESSION_CONTEXT.md) — estado vivo del proyecto, decisiones, quirks
+- [NEXT_SESSION.md](NEXT_SESSION.md) — estado vivo del proyecto, decisiones, próximos pasos
 - [INTEGRACION_MATTERMOST.md](INTEGRACION_MATTERMOST.md) — guía de integración con el cliente

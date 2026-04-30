@@ -26,19 +26,17 @@ Estado al 2026-04-30 (final del día):
   queries reales
 
 ANTES DE HACER NADA, lee en este orden:
-1. docs/SESSION_CONTEXT.md — estado infra (Mattermost, ngrok, MCP server)
-2. docs/NEXT_SESSION.md — este archivo, resumen ejecutivo + próximos pasos
+1. docs/NEXT_SESSION.md — este archivo, resumen ejecutivo + próximos pasos
+2. docs/RESPONSE_FLOW.md §10 — schema autoritativo del MCP (vigente desde
+   2026-04-30); los §2.4/3.4/4.4 son ilustración narrativa, no contrato
 3. docs/CORPUS_COVERAGE_STRATEGY.md — el cambio de enfoque para escalar
    wiki (latente, infraestructura lista)
-4. docs/RESPONSE_FLOW.md — los 4 ejemplos del modo híbrido (validados con
-   datos reales en sesión del 2026-04-29 — ver "Validación end-to-end" abajo)
-5. wiki/_meta/wiki_control.json — registro de páginas compiladas
-6. wiki/_meta/coverage_state.json — estado del pipeline de cobertura
+4. wiki/_meta/wiki_control.json — registro de páginas compiladas
+5. wiki/_meta/coverage_state.json — estado del pipeline de cobertura
    (latente; pipeline_state.phase = "not_started")
 
 Verifica al inicio:
 - Si servidor MCP local sigue vivo (ss -tlnp | grep 8765)
-- Si la URL ngrok actual coincide con la registrada en SESSION_CONTEXT
 - Si la wiki está indexada en Qdrant (count debería ser ~6047 = 6036 raw + 11 wiki):
     curl -s -X POST http://127.0.0.1:8765/mcp \
       -H 'Content-Type: application/json' \
@@ -344,9 +342,9 @@ curl -s -X POST http://127.0.0.1:8765/mcp \
 
 1. **search_corpus rompe contrato anterior**: ahora devuelve `dict`, no `list`. El plugin Mattermost ve el cambio en el siguiente "Refresh Tools".
 2. **CLI `ariadna-search` excluye wiki por defecto** (compatibilidad). Si quieres wiki via CLI, hay que crear un nuevo entry point o usar curl directo.
-3. **Lock Qdrant embedded**: indexar wiki requiere parar el server (mismo lock que para `ariadna-index`). Documentado en SESSION_CONTEXT quirk 7.
+3. **Lock Qdrant embedded**: indexar wiki requiere parar el server. Sólo un proceso puede abrir `data/qdrant/` a la vez (ver `.lock`); pkill el server antes de `index_wiki_to_qdrant.py` o `build_index`. Si un crash deja el lock huérfano, `rm data/qdrant/.lock`.
 4. **Server arranca en 8080 sin --port**: config.py default es 8080; run_server.sh override a 8765. Si lanzas con `nohup python -m ariadna.mcp_server`, **siempre añade `--port 8765`**.
-5. **`in_wiki_sources` siempre `null`**: el campo está reservado en el schema (RESPONSE_FLOW.md §2.4) pero el indexador actual no extrae los chunk_ids del cuerpo de la wiki para emparejarlos. TODO de iteración futura — habilita drift detection automática.
+5. **`in_wiki_sources` ya no es null**: tras la sesión 2026-04-30 noche se popula desde `data/wiki.db:citations`. Lista de page_ids que citan ese chunk; vacía si ninguna. Ver RESPONSE_FLOW.md §10.
 
 ## Si encuentras algo confuso
 

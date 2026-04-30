@@ -2,9 +2,12 @@
 
 > Roadmap por capas. Cada fase añade valor independiente y se construye encima de la anterior sin romperla.
 
-## Estado actual: **Fase A Sprint 1 — CERRADA** (2026-04-23)
+## Estado actual: **Fase B en curso** (2026-04-30)
 
-Validación end-to-end completada con calidad notable en DM con Ariadna. Detalles en [SESSION_CONTEXT.md](SESSION_CONTEXT.md#validacion-calidad--resultados).
+- **Fase A Sprint 1**: cerrada 2026-04-23 (validación end-to-end en DM con Ariadna).
+- **Fase B**: piloto + escalado parcial — 11 wiki pages compiladas, modo híbrido vivo (3 lanes: raw semántica, wiki semántica focal, wiki indirecta vía citations), índice SQLite derivado en `data/wiki.db`. Pendiente: pipeline de cobertura sistemática (`extract_video_themes.py`, `inventory_summaries.py`) y escalado a las ~280 páginas mínimas estimadas.
+
+Estado vivo y próximos pasos en [NEXT_SESSION.md](NEXT_SESSION.md).
 
 ---
 
