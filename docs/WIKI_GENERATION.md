@@ -331,76 +331,99 @@ Vive en `wiki/_meta/relation_types.json` (v2.0.0 desde 2026-04-30). Cada entry t
 
 ## 6. Indexación de la wiki en Qdrant
 
-Tres modos posibles de embedding (decisión de Sprint):
+**Decidido (2026-04-30): Modo A focal — un vector por página.** El texto que se embebe es:
 
-### Modo A — un vector por página (simple)
-- Embed del título + `definition.text` + primera sección
-- Pro: 1 vector por página, simple
-- Con: páginas largas pierden recall sobre secciones específicas
+```
+canonical_name
+aliases: ...
+dominio: ...
+{primer párrafo de la primera sección H2}
+conceptos relacionados: ...
+```
 
-### Modo B — chunking de páginas como cualquier otro markdown
-- Mismo parser que para los summaries originales
-- Pro: granular, permite hits en una sección concreta
-- Con: pierde la "atomicidad" del concepto
+Razones (evolucionado del descarte de section vectors):
 
-### Modo C — jerárquico (recomendado para Sprint 2)
-- 1 vector "concept-level" del título + definition (alto peso para queries conceptuales)
-- N vectores por sección secundaria
-- Tag `embedding_role: concept | section` permite priorizar concept-level en hot path
+- Embedding del cuerpo entero produce vectores difusos (manifestaciones, lagunas y fuentes diluyen la identidad del concepto)
+- Embedding focal captura "qué es X" sin ruido. Un solo vector basta para validar el modo híbrido en queries reales antes de invertir en mayor granularidad
+- El "problema del sub-aspecto canónico sin match focal" (que motivaba section vectors) lo resuelve la **lane indirecta vía citations** — sin duplicar índice semántico. Ver §7 y [`ariadna/search.py`](../ariadna/search.py).
 
-Cada chunk del wiki en Qdrant lleva:
+Cada wiki_page en Qdrant lleva:
 
 ```json
 {
   "source_type": "wiki_page",
   "page_id": "shadow-archetype",
   "page_type": "concept",
-  "embedding_role": "concept",
-  "domain": ["social.psychology.jungian"],
+  "domain_primary": "social.psychology.jungian",
   "review_status": "human_reviewed",
-  "content": "..."
+  "relations": [{"type": "developed_by", "to": "jung-carl-gustav"}],
+  "relation_targets": ["jung-carl-gustav", "..."],
+  "relation_types_present": ["developed_by", "..."],
+  "body": "..."
 }
 ```
 
 Esto permite filtrar:
 - "solo wiki, solo conceptos" → `source_type=wiki_page AND page_type=concept`
 - "solo lo revisado por humano" → `review_status=human_reviewed`
-- "solo dominio X" → `domain CONTAINS "..."`
+- "solo dominio X" → `domain_primary == "..."`
 
 ---
 
 ## 7. Hot path híbrido (cómo se consume)
 
-`search_corpus` se extiende para devolver chunks de **dos índices** en paralelo:
+`search_corpus` ejecuta **tres lanes de retrieval** sobre la misma fuente de verdad y las funde en una respuesta única. Implementación: [`ariadna/search.py:Searcher.search_hybrid`](../ariadna/search.py).
 
 ```python
-def search_corpus(query, top_k=5, ...):
+def search_hybrid(query, top_k_raw=5, top_k_wiki=3, ...):
     q_vec = embedder.embed_query(query)
 
-    # Búsqueda en chunks raw (lo de siempre)
+    # Lane 1 — semántica raw (chunks por similitud focal)
     raw_results = qdrant.search(
-        q_vec, filter={"source_type": "raw_chunk"}, top_k=top_k
+        q_vec, must_not={"source_type": "wiki_page"}, top_k=top_k_raw
     )
 
-    # Búsqueda en wiki pages (concept-level prioritario)
+    # Lane 2 — semántica wiki (vector focal por página)
     wiki_results = qdrant.search(
-        q_vec, filter={"source_type": "wiki_page", "embedding_role": "concept"}, top_k=2
+        q_vec, must={"source_type": "wiki_page"}, top_k=top_k_wiki
+    )
+
+    # Lane 3 — indirecta vía citations
+    # Para cada raw_chunk con score >= 0.55, JOIN contra
+    # data/wiki.db:citations: si una wiki page lo cita literalmente,
+    # entra a wiki_pages[] aunque su focal NO haya hecho match.
+    # Lane category-blind por diseño (la wiki no respeta el filtro de categoría).
+    citation_hits = lookup_wiki_via_citations(raw_results)
+
+    wiki_pages = merge_wiki_lanes(
+        semantic=wiki_results,
+        citation_hits=citation_hits,  # match_via ∈ {semantic, citation, both}
     )
 
     return {
-        "raw_chunks": raw_results,
-        "wiki_pages": wiki_results,
+        "wiki_pages": wiki_pages,
+        "raw_chunks": raw_results,        # con in_wiki_sources poblado
+        "retrieval_metadata": {
+            "mode_recommended": "...",    # wiki_dominant, balanced, raw_with_warning, ...
+            "wiki_top_score": ...,
+            "raw_top_score": ...,
+            "wiki_via_citation_count": ...,
+        },
     }
 ```
 
-El LLM hot recibe ambos. Su prompt sabe distinguir:
-- `raw_chunks` → fuentes primarias, citables al usuario
-- `wiki_pages` → síntesis pre-cocinada que puede adaptar
+Schema autoritativo del output: [RESPONSE_FLOW.md §10](RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30).
 
-Ventaja sobre RAG puro:
-- Para query factual ("qué vídeos hablan de X"): dominan los chunks raw
-- Para query conceptual ("explícame X"): la wiki provee la tesis ya construida, el LLM solo adapta + cita
-- Si la wiki no tiene página para el tema: degrada elegantemente a RAG puro (chunks solo)
+El LLM hot recibe ambos. Su prompt sabe distinguir:
+- `raw_chunks` → fuentes primarias, citables vía `cite_markdown` literal
+- `wiki_pages[match_via=semantic|both]` → síntesis pre-cocinada que adapta + cita
+- `wiki_pages[match_via=citation]` → la página NO matched semánticamente pero cita los chunks que sí; útil cuando la query es sub-aspecto del concepto que el focal no captura
+
+Ventajas sobre RAG puro:
+- Para query factual ("qué vídeos hablan de X"): dominan los chunks raw (`mode_recommended: raw_only` o `raw_with_warning`)
+- Para query conceptual ("explícame X"): la wiki provee la tesis ya construida (`wiki_dominant` o `balanced`), el LLM solo adapta + cita
+- Para sub-aspectos canónicos sin match focal: la lane indirecta los rescata (`raw_with_wiki_via_citation`)
+- Si la wiki no tiene cobertura del tema: degrada elegantemente a RAG puro
 
 ---
 
@@ -466,14 +489,18 @@ Cada compilación es un commit. El log en `_meta/compilation_log.json` permite r
 
 ---
 
-## 11. Decisiones aún abiertas
+## 11. Decisiones
 
-Lista para discusión:
+### 11.1 Cerradas
 
-1. **Profundidad máxima de namespace OpenAlex**: 2 (`group.discipline`) o 3 (`group.discipline.school`)?
-2. **¿La wiki vive solo en `wiki/` markdown o también hay una colección Qdrant con embeddings desde el día 1?**
-3. **Política para detectar y fusionar entidades duplicadas** auto-generadas (ej. `jung-carl` y `jung-carl-gustav`)
-4. **Modelo LLM por defecto para el extractor**: Claude (calidad) vs Gemini (cuota gratis grande) vs ambos en A/B
-5. **¿Wikilinks en `synthesis/` (síntesis largas) deben apuntar a entidades atómicas o pueden referenciar otras síntesis?**
+- **Profundidad máxima de namespace OpenAlex** → 3 (`group.discipline.school`, ej. `social.psychology.jungian`). Más profundo introduce ramificación caótica. Detalle en [TAXONOMY_PROPOSAL.md §4.4](TAXONOMY_PROPOSAL.md#44-profundidad-y-namespace).
+- **¿Wiki en markdown o también en Qdrant?** → Ambas. Markdown en `wiki/` es la fuente de verdad; Qdrant tiene 1 vector focal por página (`source_type=wiki_page`); `data/wiki.db` es índice SQLite derivado. Reconstruibles desde el filesystem.
+- **Modo de embedding de la wiki** → Modo A focal (ver §6). Section vectors descartado en favor de la lane indirecta vía citations.
+- **Wikilinks en `synthesis/`** → pueden referenciar entidades atómicas y otras síntesis, sin restricción. La validación solo exige que el target resuelva o esté declarado como candidato.
 
-Doc vivo. Cada decisión cerrada baja a "Política implementada" cuando aplique.
+### 11.2 Abiertas
+
+- **Política para detectar y fusionar entidades duplicadas** auto-generadas (ej. `jung-carl` y `jung-carl-gustav`). Provisional: emparejar por similitud + revisión humana en checkpoint. Por implementar cuando se active el cold path masivo.
+- **Modelo LLM por defecto para el extractor**: Claude vía cuota Max (calidad) vs Gemini cuota gratis (volumen). A/B testing recomendado con primeros 10 videos del pipeline de cobertura sistemática.
+
+Doc vivo. Cada decisión cerrada se documenta como tal en lugar de tirarse.

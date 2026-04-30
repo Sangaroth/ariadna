@@ -15,12 +15,12 @@ Estado vivo y próximos pasos en [NEXT_SESSION.md](NEXT_SESSION.md).
 
 **Objetivo:** demostrar que el corpus se puede consultar semánticamente desde Mattermost via MCP, con cita de fuente y honestidad epistémica.
 
-### Sprint 1 — Layer 1 RAG dense (✅ CERRADO)
+### Sprint 1 — Layer 0 RAG dense (✅ CERRADO 2026-04-23)
 
 - [x] Parser de `summary.md` → chunks con metadata estructurada
 - [x] Embedder BGE-M3 local en GPU
 - [x] Qdrant embedded con 6036 chunks indexados
-- [x] Servidor MCP HTTP exponiendo 3 tools (`search_corpus`, `get_video_summary`, `list_videos`)
+- [x] Servidor MCP HTTP exponiendo 3 tools iniciales (`search_corpus`, `get_video_summary`, `list_videos`)
 - [x] Integración con Mattermost AI plugin v2.0.0-rc6 via ngrok
 - [x] Per-tool policy en Auto Run (DM) — sin Accept/Reject manual
 - [x] Validación de calidad con queries golden + control out-of-corpus
@@ -31,19 +31,17 @@ Estado vivo y próximos pasos en [NEXT_SESSION.md](NEXT_SESSION.md).
 - Scores BGE-M3 en queries relevantes: 0.55-0.67
 - Recall correcto en cross-reference, lateral search funcional, citas verificadas no alucinadas
 
-### Sprint 2 — mejoras incrementales sobre Layer 1 + bootstrap de Fase B
+### Sprint 2 — backlog de mejoras sobre Layer 0
 
-A decidir según métricas observadas en uso real:
+Cuando se ataque, decidir orden por métricas de uso real:
 
-- [ ] **Reclasificación de chunks con taxonomía OpenAlex** (drop del legacy `proxy_category`) — reemplazar las 5 categorías ad-hoc por dominios canónicos multi-valor desde [`data/vocabulary/domains.json`](../data/vocabulary/domains.json)
-- [ ] **Bootstrap de OpenAlex Topics** vía [`scripts/bootstrap_taxonomy.py`](../scripts/bootstrap_taxonomy.py) → curar a ~80-100 dominios relevantes
+- [ ] **Reclasificación de chunks con taxonomía OpenAlex** (drop del legacy `proxy_category`) — reemplazar las 5 categorías ad-hoc por dominios canónicos multi-valor. Bootstrap ya disponible en [`scripts/bootstrap_taxonomy.py`](../scripts/bootstrap_taxonomy.py); falta curar a ~80-100 dominios relevantes en `data/vocabulary/domains.json` y reindexar.
 - [ ] **Sparse retrieval BM25** (BGE-M3 lo soporta nativo) — ayuda con nombres propios raros, términos técnicos
 - [ ] **Threshold de score** en search_corpus — filtrar resultados <0.50 antes de devolver al LLM
 - [ ] **Reranking cross-encoder** sobre top-20 → top-5 — mejora precisión sin cambiar retrieval
-- [ ] **System prompt reforzado** con instrucción explícita de búsqueda lateral antes de declarar huecos en el corpus
 - [ ] **Fix bug citation rendering** del plugin v2.0.0-rc6 (esperar v2.0.0 stable o reportar)
 
-**Criterio de salto a Fase B:** una vez la taxonomía esté importada y los chunks reclasificados, el extractor de wiki puede arrancar con bases sanas.
+Sprint 2 NO bloquea Fase B: la wiki se está compilando sobre el corpus actual sin esperar a la migración de taxonomía.
 
 ---
 
@@ -63,13 +61,11 @@ A decidir según métricas observadas en uso real:
 
 - **Cold path extractor** (Claude Max overnight) que lee chunks raw y produce JSON estructurado por concepto/entidad
 - **Generador de markdown** (script Python plantillado) que convierte JSON → `.md` con frontmatter + cuerpo + wikilinks
-- **Validación automática** antes de commitear a `wiki/`: schema, wikilinks resuelven, dominios válidos, citas verificables
-- **Indexación de wiki en Qdrant** como `source_type=wiki_page` junto a los chunks raw
-- **Nuevas tools MCP:**
-  - `get_wiki_page(page_id)` — devuelve la página completa con frontmatter + cuerpo
-  - `list_wiki_pages(page_type, domain, review_status)` — listado filtrado
-  - `find_relations(page_id_a, page_id_b)` — explora paths de wikilinks entre dos entidades
-  - `search_corpus` extendido para devolver chunks raw + wiki pages en paralelo (modo híbrido)
+- **Validación automática** antes de commitear a `wiki/`: schema, wikilinks resuelven, types canónicos, citas verificables ([`scripts/validate_wiki_relations.py`](../scripts/validate_wiki_relations.py))
+- **Indexación de wiki en Qdrant** como `source_type=wiki_page` junto a los chunks raw — 1 vector focal por página ([`scripts/index_wiki_to_qdrant.py`](../scripts/index_wiki_to_qdrant.py))
+- **Índice SQLite derivado** del filesystem en `data/wiki.db` — pages, aliases, relations, body_wikilinks, citations. Habilita la lane indirecta del modo híbrido sin necesidad de un segundo índice semántico ([`scripts/build_wiki_db.py`](../scripts/build_wiki_db.py))
+- **Tool MCP `get_wiki_page(page_id)`** — devuelve la página completa con frontmatter + cuerpo
+- **`search_corpus` híbrido** — devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con tres lanes de retrieval (raw semántica, wiki semántica focal, wiki indirecta vía citations) y `match_via` por entrada wiki
 
 ### Estructura del repo wiki
 
@@ -77,9 +73,11 @@ A decidir según métricas observadas en uso real:
 wiki/
 ├── README.md
 ├── _meta/
-│   ├── compilation_log.json
-│   ├── pending_review.json
-│   └── relation_types.json
+│   ├── relation_types.json     ← set canónico de relation types
+│   ├── wiki_control.json       ← registro de páginas compiladas
+│   ├── coverage_state.json     ← estado del pipeline de cobertura sistemática (latente)
+│   ├── topic_filters.json      ← filtros declarativos pre-extracción
+│   └── next_batch_ranking.json ← ranking determinista del próximo batch
 ├── authors/
 ├── entities/works/
 ├── concepts/
@@ -90,11 +88,12 @@ Detalle completo del pipeline: [WIKI_GENERATION.md](WIKI_GENERATION.md).
 
 ### Estrategia incremental dentro de Fase B
 
-1. **Piloto** — generar 5 páginas (uno por categoría) y validar end-to-end calidad humano + máquina
-2. **Refinamiento de prompt** hasta que ≥3/5 pasen validación sin reescritura mayor
-3. **Escalado** a las 50-100 entidades/conceptos más recurrentes del corpus actual
-4. **Indexación híbrida** activa en hot path
-5. **Loop iterativo continuo**: nuevos chunks → recompilación selectiva → validación humana
+1. ✅ **Piloto** — 5 páginas generadas y validadas (batch 1, 2026-04).
+2. ✅ **Refinamiento de prompt + schema** — ≥3/5 del piloto pasaron validación; schema migrado a `relations[]` tipadas (2026-04-30).
+3. ✅ **Modo híbrido en hot path** — `search_corpus` devuelve wiki + raw + metadata; smoke test 8/8 verde.
+4. ✅ **Índice SQLite derivado + retrieval indirecto vía citations** (2026-04-30).
+5. 🟡 **Escalado** — 11 páginas compiladas; objetivo intermedio ~50 páginas hub. Siguiente palanca: pipeline de cobertura sistemática (ver [CORPUS_COVERAGE_STRATEGY.md](CORPUS_COVERAGE_STRATEGY.md)) que requiere `inventory_summaries.py` + `extract_video_themes.py` (pendientes).
+6. ⏸️ **Loop iterativo continuo** — recompilación selectiva, drift detection. Por activar.
 
 ### Métrica de éxito
 
