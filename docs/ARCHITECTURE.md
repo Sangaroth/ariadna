@@ -23,9 +23,9 @@ Pero el **corpus**, una vez sistematizado con buenos chunks, metadata consistent
 
 **Corolario práctico:** en el sprint actual, el esfuerzo más rentable no está en mejorar el RAG sino en asegurar que la fuente de datos esté **sistematizada y agnóstica**:
 
-- Taxonomía estable (5 categorías canónicas, no 27 ad-hoc)
+- Taxonomía estable basada en estándar abierto (OpenAlex Topics, multi-valor, hasta 3 niveles), no etiquetas ad-hoc del proyecto. Las 5 categorías de la data semilla (`análisis de obra`, etc.) son placeholder y se sustituyen en la próxima reindexación. Detalle en [TAXONOMY_PROPOSAL.md §4](TAXONOMY_PROPOSAL.md#4-categorías-canónicas-revisitadas-para-multi-fuente)
 - Léxico controlado (términos canónicos para conceptos repetidos)
-- Metadata consistente por chunk (timestamp, video_id, category, playlist obligatorios)
+- Metadata consistente por chunk (timestamp, video_id, domain, playlist obligatorios)
 - Estructura de markdown predecible que el parser pueda procesar sin casos especiales
 
 Una vez la fuente está saneada, **cualquier tecnología futura — RAG, KAG, LLM Wiki, grafo de conocimiento, búsqueda híbrida — se construye encima sin tocar el corpus**.
@@ -192,11 +192,11 @@ Cuando llegue Fase B (Wiki estructurada con KG emergente), encontrará datos lim
 
 | Fase | Tecnología | Reutiliza | Aporta |
 |---|---|---|---|
-| **A** (hoy) | RAG dense BGE-M3 + Qdrant | corpus base | búsqueda semántica top-K |
-| **A.2** | Sparse BM25 + threshold + reranker + reclasificación con OpenAlex | mismos chunks, mismo Qdrant | precisión en nombres propios + taxonomía canónica |
-| **B** | **Wiki estructurada con KG emergente** (fusión de las antiguas Layer 2 entity index + Layer 3 LLM Wiki) | summaries existentes + cold path | páginas markdown navegables, grafo emergente de wikilinks, hot path híbrido raw+wiki |
-| **C** | Despliegue Hetzner | mismo servidor, sin GPU | URL fija, multi-cliente, prod-ready |
-| **D** | Cold path con voluntarios + ingesta multi-formato (markitdown + Crossref/arXiv) | nuevo: cola SQLite + workers | corpus alimentado con papers, libros, web — no solo vídeos |
+| **A.1** ✅ cerrada | RAG dense BGE-M3 + Qdrant + MCP | corpus base | búsqueda semántica top-K |
+| **A.2** backlog | Sparse BM25 + threshold + reranker + reclasificación con OpenAlex | mismos chunks, mismo Qdrant | precisión en nombres propios + taxonomía canónica |
+| **B** 🟡 en curso | **Wiki estructurada con KG emergente** (fusión de las antiguas Layer 2 entity index + Layer 3 LLM Wiki) — 11 páginas, modo híbrido vivo, SQLite derivado | summaries existentes + cold path | páginas markdown navegables, grafo emergente tipado, hot path híbrido raw+wiki con lane indirecta vía citations |
+| **C** pendiente | Despliegue Hetzner | mismo servidor, sin GPU | URL fija, multi-cliente, prod-ready |
+| **D** pendiente | Cold path con voluntarios + ingesta multi-formato (markitdown + Crossref/arXiv) | nuevo: cola SQLite + workers | corpus alimentado con papers, libros, web — no solo vídeos |
 
 **Cada fase es opcional y reordenable.** Si Layer 1 ya da calidad suficiente, B no se necesita. C (Hetzner) es ortogonal y puede hacerse en cualquier momento. La arquitectura permite ir añadiendo capas sin desmontar las anteriores.
 
