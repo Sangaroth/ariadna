@@ -7,6 +7,10 @@ venv/
 .env.local
 data/qdrant/
 data/cache/
+data/wiki.db
+data/wiki.db-journal
+data/wiki.db-wal
+data/wiki.db-shm
 *.log
 .DS_Store
 .idea/
