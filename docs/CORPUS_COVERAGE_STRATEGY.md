@@ -1,5 +1,7 @@
 # Estrategia de cobertura del corpus — wiki orientada a documentación, no a compendio
 
+> ⚠️ **Estado: pipeline NO iniciado al 2026-04-30.** `wiki/_meta/coverage_state.json` está en `phase: not_started`. Los scripts `scripts/inventory_summaries.py` y `scripts/extract_video_themes.py` descritos abajo **no existen todavía** — son la especificación pendiente de implementar. Las 11 páginas wiki actuales se compilaron a mano (batches 1-3) **antes** de adoptar este enfoque. Hasta que el pipeline arranque, la wiki sigue creciendo a mano.
+
 > Documento que captura el cambio de enfoque tras el batch 3 (2026-04-29). La wiki deja de generarse por demanda del grafo emergente (wikilinks rotos rankeados por recurrencia) y pasa a generarse por **cobertura sistemática del corpus** combinada con priorización inteligente.
 
 ---

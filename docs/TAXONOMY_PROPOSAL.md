@@ -227,7 +227,9 @@ Vocabulario controlado, tomado prestado de taxonomías abiertas como [arXiv cate
 
 Multi-valor: un chunk puede tener `["social.psychology", "humanities.philosophy"]`.
 
-### 4.2 Las 5 categorías legacy se descartan
+### 4.2 Las 5 categorías legacy se descartan (propuesta — no ejecutada)
+
+> ⚠️ **Estado al 2026-04-30: NO ejecutado.** Los chunks raw en Qdrant siguen llevando las 5 categorías legacy. La sustitución requiere reindexar el corpus completo con la taxonomía OpenAlex curada en `data/vocabulary/domains.json` — ese fichero curado no existe aún. Ítem en backlog de Sprint 2 ([PHASES.md](PHASES.md#sprint-2--backlog-de-mejoras-sobre-layer-0)).
 
 Las 5 categorías originales (`análisis de obra`, `cultura y actualidad`, `filosofía y teoría`, `mitología y religión`, `psicología`) eran un **placeholder inicial sobre data de ejemplo** (los summaries del canal Proxy). **No se preservan** como retrocompatibilidad — se reemplazan limpiamente por la taxonomía OpenAlex en la próxima reindexación.
 
