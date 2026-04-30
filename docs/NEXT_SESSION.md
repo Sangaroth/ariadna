@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-04-30 (tras migración a typed relations + cite_markdown fix + purga meta-referencias del cuerpo wiki)
+> **Última actualización:** 2026-04-30 noche (re-indexación wiki + reader actualizado a `relations[]` + índice SQLite derivado `data/wiki.db` + **retrieval indirecto vía citations** operativo, category-blind como la lane semántica + smoke test 8/8 verde)
 
 ---
 
@@ -89,6 +89,17 @@ Las opciones están en la sección "Próximas opciones" de docs/NEXT_SESSION.md.
 ---
 
 ## Cambios de código
+
+### Sesión 2026-04-30 noche (cierre del bloqueante + smoke test + SQLite + retrieval indirecto)
+
+| Archivo | Cambio |
+|---|---|
+| `ariadna/search.py` | (1) `_wiki_payload_to_compact()` actualizado a esquema `relations[]` (cambio de contrato — campos legacy `related_concepts/authors/works` eliminados del output MCP). (2) **Retrieval indirecto vía citations**: `Searcher.__init__` abre `data/wiki.db` (read-only, fallback grácil si no existe). `_lookup_wiki_via_citations()` para chunks raw con `score >= 0.55`, JOIN contra tabla `citations` para encontrar wiki pages que los citan. `_fetch_wiki_pages_from_db()` construye dicts compactos shape-equivalentes a Qdrant para entradas que solo entraron vía citation. `_merge_wiki_lanes()` funde semántica + citation con flag `match_via: "semantic" \| "citation" \| "both"` y `matched_via_chunks[]` cuando aplica. Sustituye limpiamente la idea descartada de section vectors (cero índice semántico extra). (3) `in_wiki_sources` en raw_chunks ya no es null — se popula desde el mismo lookup. (4) **FIX category-blindness de la lane indirecta**: cuando el LLM/usuario pasa `category` o `playlist`, el filtro se aplica a raw_results visibles pero NO a la "semilla" del citation lookup. `search_hybrid` hace un raw search separado sin filtros para alimentar la lane indirecta. La wiki es category-blind por diseño (taxonomía OpenAlex propia) y debe seguir siéndolo cuando entra vía citations — antes el filtro silenciaba el mecanismo. Bug detectado en producción cuando Ariadna añadió `category="psicología"` a una query sobre psicoanálisis: el chunk citante (Orfeo y Eurídice, categoría "filosofía") quedó fuera, jung-carl-gustav no apareció. Cubierto por nuevo check `citation_survives_category` en smoke test |
+| `scripts/test_hybrid.py` | NUEVO + ampliado — smoke test end-to-end del MCP server vivo. 8 checks: tools/list, wiki_primary, raw_with_warning, balanced, **wiki_via_citation** (query "Tarzan se conoce a si mismo a traves de Jane" → jung-carl-gustav surface vía citation), **citation_survives_category** (query con category="psicología" sigue trayendo wiki vía citation aunque el chunk citante esté en otra categoría), **in_wiki_sources poblado**, get_wiki_page. Exit 1 si cualquier check falla |
+| `scripts/build_wiki_db.py` | NUEVO — índice SQLite derivado de `wiki/**/*.md` en `data/wiki.db`. Schema: `pages, aliases, relations, body_wikilinks, citations, relation_types_canonical`. Reconstruible (~1s para 11 páginas) — fuente de verdad sigue siendo el filesystem. Cero curación manual del DB. CLI: `--check` (sanity asserts) y `--query backlinks/broken/drift/citations/stats` |
+| `.gitignore` | añadidas `data/wiki.db*` |
+| Qdrant `data/qdrant/` | 11 wiki_pages re-insertados con esquema `relations[]`. Total colección: 6047 |
+| `data/wiki.db` (nuevo) | 11 páginas, 59 aliases, 71 relations, 51 body_wikilinks, 160 citations, 30 relation_types canónicos |
 
 ### Sesión 2026-04-30 (typed relations + cite_markdown fix)
 
@@ -184,16 +195,17 @@ Cero resultados ⇒ páginas limpias. Cualquier match es deuda técnica a repara
 
 ### Bloqueante / siguiente sesión
 
-- [ ] **Re-indexar wiki en Qdrant** — los payloads cambiaron tras la migración a `relations[]`. Sin re-indexar, el modo híbrido sigue devolviendo `related_concepts/authors/works` antiguos. Comando: `pkill -f ariadna.mcp_server && python scripts/index_wiki_to_qdrant.py && nohup python -m ariadna.mcp_server --port 8765 --warm > /tmp/ariadna.log 2>&1 &`
-- [ ] **Validar prompt de Ariadna actualizado en Mattermost** — pegar prompt nuevo (con instrucciones de `cite_markdown` literal), Refresh Tools, probar query "mito polar". Confirmar si los tokens `citeTitulo (mm:ss)` desaparecen y aparecen markdown links clicables
+- [x] **Re-indexar wiki en Qdrant** — hecho 2026-04-30 noche tras detectar que el reader `ariadna/search.py:_wiki_payload_to_compact()` devolvía `related_concepts: []` aunque el indexador escribía `relations[]`. Fix: reader actualizado a esquema nuevo (`relations`, `relation_targets`, `relation_types_present`) + 11 wiki_pages re-insertados (total Qdrant = 6047). Smoke test `scripts/test_hybrid.py` cubre regresión: 5/5 verde
+- [ ] **Validar prompt de Ariadna actualizado en Mattermost** — pegar prompt nuevo (con instrucciones de `cite_markdown` literal **y** uso de `relations[]` tipadas con `{type, to}` para navegación), Refresh Tools, probar query "mito polar". Confirmar si los tokens `citeTitulo (mm:ss)` desaparecen y aparecen markdown links clicables. **Cambio de contrato:** `wiki_pages[].related_concepts/authors/works` ya no existen — usar `relations[]` o `relation_targets[]`
 - [ ] **Si tokens persisten:** Plan B documentado — subir modelo de `gpt-5.4-mini` a `gpt-5.4` full en Mattermost (System Console → Agents → Ariadna → AI Service)
 
 ### Mejoras al modo híbrido (decidir tras observar uso real)
 
-- [ ] **Tunear threshold `WIKI_DOMINANT_SCORE` (actualmente 0.65)** — observado en sesión: `mito-polar` cae al filo (0.658). Si en uso real se ven `balanced` cuando deberían ser `wiki_dominant`, bajar a 0.60. Vive en `ariadna/search.py:Searcher.WIKI_DOMINANT_SCORE`
+- [ ] **Tunear threshold `WIKI_DOMINANT_SCORE` (actualmente 0.65)** — observado en sesión: tras re-indexación con relations[], `sombra junguiana` cae a 0.624 (antes 0.698) porque el embed_text incluye más targets. Si en uso real se ven `balanced` cuando deberían ser `wiki_dominant`, bajar a 0.60. Vive en `ariadna/search.py:Searcher.WIKI_DOMINANT_SCORE`
 - [ ] **`top_k_wiki` default = 1 en lugar de 2** — para queries focales, los wiki_pages 2 y 3 suelen ser ruido. Probar bajarlo en `mcp_server.py:search_corpus`
 - [ ] **Threshold mínimo de wiki_score para incluir** — si `wiki_score < 0.50`, no devolver esa página. Filtrar antes de pasar al LLM
-- [ ] **Pre-computar `in_wiki_sources` en raw_chunks** — actualmente `null`. Implementación: regex sobre body de cada wiki_page buscando `youtu\.be/<id>\?t=(\d+)`, guardar en payload `raw_chunks_referenced`. Habilita drift detection automática (top-raw NO en wiki = wiki stale) y evita duplicar citas en respuestas
+- [x] **`in_wiki_sources` en raw_chunks vía SQLite** — IMPLEMENTADO 2026-04-30. `Searcher` consulta `data/wiki.db:citations` por `(video_id, timestamp_seconds)` al servir cada raw_chunk. Validado en smoke test: query "sombra junguiana" → 3/5 chunks llevan `in_wiki_sources` poblado (Effy y Proxy, Peter Pan, etc.). Hizo además posible el siguiente, **mucho más potente**:
+- [x] **Retrieval indirecto vía citations** — IMPLEMENTADO 2026-04-30. Para chunks raw con score≥0.55, JOIN inverso contra citations: si una wiki page los cita, traerla a `wiki_pages[]` aunque su focal no haya hecho match semántico. Página entra con `match_via="citation"` y `matched_via_chunks[]` listando los chunks citantes. Si la página YA estaba en la lane semántica, se enriquece con `match_via="both"`. **Sustituye a la línea descartada de section vectors** — soluciona el problema "sub-aspecto canónico sin match focal" sin duplicar índice semántico. Validado: query "Tarzan se conoce a si mismo a traves de Jane" → focal de jung-carl-gustav score 0.41 (no entraría), pero el chunk de Análisis arquetípico de Tarzán cita jung → entra a 0.6518
 - [ ] **Plan C UX: quitar `youtube_url` del payload de raw_chunks** — dejar solo `cite_markdown`. Sin URL como string separado, el modelo no puede invocar el sistema de annotations del Responses API. Documentado pero no ejecutado todavía (esperar resultados del Plan B antes)
 
 ### Granularidad de la wiki indexada
@@ -294,7 +306,20 @@ python scripts/index_wiki_to_qdrant.py             # indexa
 # Re-ejecutar ranking (server debe estar VIVO; el script lee Qdrant via MCP HTTP)
 python scripts/rank_wiki_candidates.py
 
-# Test modo híbrido (server vivo)
+# Smoke test end-to-end (server vivo + wiki indexada). Exit 0 = todo verde.
+python scripts/test_hybrid.py
+python scripts/test_hybrid.py --json   # output máquina-legible
+
+# Índice SQLite derivado (no requiere server). Reconstruible en ~1s.
+python scripts/build_wiki_db.py                                # rebuild full
+python scripts/build_wiki_db.py --check                        # rebuild + asserts
+python scripts/build_wiki_db.py --no-rebuild --query stats     # ranking pages, types, videos
+python scripts/build_wiki_db.py --no-rebuild --query backlinks jung-carl-gustav
+python scripts/build_wiki_db.py --no-rebuild --query broken    # relations.to no compiladas (= candidatos a próximo batch)
+python scripts/build_wiki_db.py --no-rebuild --query drift     # mismatch body↔relations
+python scripts/build_wiki_db.py --no-rebuild --query citations svG7uT3Z8Rk
+
+# Test modo híbrido manual (server vivo)
 curl -s -X POST http://127.0.0.1:8765/mcp \
   -H "Content-Type: application/json" \
   -H "Accept: application/json, text/event-stream" \

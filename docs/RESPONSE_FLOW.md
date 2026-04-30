@@ -69,6 +69,9 @@ sangaroth: Explícame el arquetipo de la sombra según el canal Proxy
 
 ### 2.4 Respuesta MCP (modo híbrido)
 
+> ⚠️ **Schema desactualizado en este ejemplo.** El JSON de abajo refleja la _intención de diseño_ original de 2026-04-29 (campos `frontmatter`, `related_concepts/authors/works`, `raw_chunks_referenced`, `drift_detected`, `all_top_raw_in_wiki_sources`). El **schema real implementado** evolucionó en 2026-04-30: ver **§10 Schema autoritativo (vigente)** al final del documento. Los §2.4, §3.4, §4.4 y §4.7 se conservan por su valor narrativo de tipos de respuesta esperados, pero NO consultar como referencia de campos.
+
+
 ```json
 {
   "wiki_pages": [
@@ -675,3 +678,91 @@ Los 4 ejemplos muestran que el sistema:
 Si esta lógica se sostiene en producción, la implementación de Fase B está justificada. Si los datos de uso real revelan otros patrones, este documento se actualiza.
 
 Doc vivo. Próxima revisión: tras 1-2 meses de uso de Fase B.
+
+---
+
+## 10. Schema autoritativo (vigente desde 2026-04-30)
+
+Esta sección refleja el **schema real implementado** en `ariadna/search.py:Searcher.search_hybrid()`. Sustituye a los snippets ilustrativos de §2.4, §3.4, §4.4 y §4.7 a efectos de contrato MCP.
+
+### 10.1 Output completo
+
+```json
+{
+  "wiki_pages": [
+    {
+      "score": 0.6518,
+      "page_id": "jung-carl-gustav",
+      "page_type": "author",
+      "canonical_name": "Carl Gustav Jung",
+      "domain_primary": "social.psychology",
+      "aliases": ["Jung", "C.G. Jung", "Carl Jung", "junguiano (adj.)"],
+      "relations": [
+        {"type": "developed", "to": "shadow-archetype", "note": "arquetipo central de la psicología analítica"},
+        {"type": "developed", "to": "anima-archetype", "note": "pareja contrasexual interior"}
+      ],
+      "relation_targets": ["anima-archetype", "collective-unconscious", "individuation", "shadow-archetype"],
+      "relation_types_present": ["developed"],
+      "file_path": "wiki/authors/jung-carl-gustav.md",
+      "body": "# Carl Gustav Jung\n\n## Perfil\n\nCarl Gustav Jung (1875-1961)...",
+      "match_via": "citation",
+      "matched_via_chunks": [
+        {
+          "video_id": "Tviv4PT0dv8",
+          "timestamp_seconds": 4878,
+          "video_title": "Análisis arquetípico de Tarzán",
+          "chunk_score": 0.6518
+        }
+      ]
+    }
+  ],
+  "raw_chunks": [
+    {
+      "score": 0.6518,
+      "video_title": "Análisis arquetípico de Tarzán",
+      "timestamp": "1:21:18",
+      "theme": "Tarzán y el ánima como vehículo de individuación",
+      "content": "...",
+      "category": "analisis de obra",
+      "playlist": "...",
+      "youtube_url": "https://youtu.be/Tviv4PT0dv8?t=4878",
+      "cite_markdown": "[Análisis arquetípico de Tarzán (1:21:18)](https://youtu.be/Tviv4PT0dv8?t=4878)",
+      "in_wiki_sources": ["jung-carl-gustav"]
+    }
+  ],
+  "retrieval_metadata": {
+    "wiki_top_score": 0.4134,
+    "raw_top_score": 0.6518,
+    "mode_recommended": "raw_with_warning",
+    "warning": null,
+    "wiki_pages_count": 3,
+    "wiki_via_citation_count": 1,
+    "raw_chunks_count": 5
+  }
+}
+```
+
+### 10.2 Diferencias clave con los ejemplos antiguos
+
+| Antes (§2.4 etc.) | Ahora (vigente) |
+|---|---|
+| `frontmatter.related_concepts/authors/works: ["[[X]]", ...]` (3 buckets, strings con corchetes) | `relations: [{type, to, note?, weight?}]` + `relation_targets: [...]` + `relation_types_present: [...]` |
+| `raw_chunks_referenced: ["youtube:VID#SEC"]` en cada wiki page | NO existe — la dirección útil es la inversa: `raw_chunks[].in_wiki_sources` (qué wiki cita este chunk) |
+| `content` (cuerpo de la página) | `body` (mismo contenido, nombre cambiado para diferenciar de get_wiki_page que SÍ usa `content`) |
+| `frontmatter.canonical_name/aliases` anidados | Promovidos a top-level: `canonical_name`, `aliases`, `domain_primary`, `page_type`, `file_path` |
+| `retrieval_metadata.drift_detected`, `all_top_raw_in_wiki_sources` | NO existen como campos — la info equivalente sale de inspeccionar `raw_chunks[].in_wiki_sources` directamente |
+| `mode_recommended: wiki_dominant \| balanced \| raw_only \| no_results` | Mismos + `raw_with_warning` (wiki cobertura fina) + `raw_with_wiki_via_citation` (sin match semántico pero hay match indirecto vía citas) |
+| Wiki encontrada solo por similitud focal | Wiki puede entrar por: (a) similitud del vector focal, (b) **lookup indirecto vía citations** — cualquier chunk raw con score≥0.55 dispara JOIN contra `data/wiki.db:citations`. Cada wiki entry lleva `match_via: "semantic" \| "citation" \| "both"` |
+| `in_wiki_sources: true` (bool) en raw_chunks | `in_wiki_sources: ["page_id1", "page_id2", ...]` (lista de page_ids que citan ese chunk; lista vacía si ninguna cita) |
+
+### 10.3 Cómo usa el LLM esta info
+
+- **`match_via="semantic"`** → la página ganó por su propio mérito. Usar como respuesta canónica si `score` alto.
+- **`match_via="citation"`** → la página NO matched semánticamente, pero cita los chunks que sí matched. Útil cuando la query es sobre un sub-aspecto del concepto que el focal no captura. **Score deriva del chunk citante** — no comparable directamente con scores semánticos. Usar como contexto sintetizado complementario al chunk raw.
+- **`match_via="both"`** → match semántico + chunks citantes. Caso fuerte: la página es relevante Y hay material raw concreto que la respalda.
+- **`raw_chunks[].in_wiki_sources`** → para cada chunk raw, qué wiki pages lo sintetizan. Si está vacío, el material no tiene página wiki (cobertura pendiente). Si está poblado, el LLM puede llamar `get_wiki_page(page_id)` para contexto extendido si la query lo justifica.
+
+### 10.4 Implementación de referencia
+
+`ariadna/search.py:Searcher.search_hybrid()` y los helpers `_lookup_wiki_via_citations()`, `_fetch_wiki_pages_from_db()`, `_merge_wiki_lanes()`. Smoke test del schema: `scripts/test_hybrid.py` (7 checks, 5/5 + 2 nuevos sobre la lane indirecta).
+
