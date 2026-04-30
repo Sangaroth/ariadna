@@ -31,7 +31,7 @@ Cada vídeo está en una carpeta de ProxySummaries con dos ficheros:
   - Crítica al capitalismo tardío...
 ```
 
-**Total actual:** 288 vídeos, agrupados en 5 categorías canónicas (analisis de obra, cultura y actualidad, filosofía y teoría, mitología y religión, psicología).
+**Total actual:** 288 vídeos, agrupados en 5 categorías legacy (`analisis de obra`, `cultura y actualidad`, `filosofía y teoría`, `mitología y religión`, `psicología`). Pendiente de reclasificar con taxonomía OpenAlex — ver [TAXONOMY_PROPOSAL.md §4](TAXONOMY_PROPOSAL.md#4-categorías-canónicas-revisitadas-para-multi-fuente).
 
 ---
 
@@ -182,23 +182,39 @@ Coste aproximado:
 
 ### 5.3 Respuesta JSON → Mattermost → LLM
 
-MCP devuelve algo como:
+MCP devuelve un dict híbrido `{wiki_pages, raw_chunks, retrieval_metadata}`. Schema autoritativo en [RESPONSE_FLOW.md §10](RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30). Forma resumida:
 
 ```json
-[
-  {
-    "score": 0.612,
-    "video_title": "Mitos de unión sagrada",
-    "timestamp": "08:15",
-    "theme": "🜂 Hieros gamos y el matrimonio alquímico",
-    "content": "- Unión de opuestos como símbolo...\n- Paralelos en...",
-    "youtube_url": "https://youtu.be/abc123?t=495",
-    "category": "mitología y religión"
+{
+  "wiki_pages": [
+    {
+      "score": 0.6518,
+      "page_id": "hieros-gamos",
+      "canonical_name": "Hieros gamos (matrimonio sagrado)",
+      "match_via": "semantic",
+      "relations": [{"type": "developed_by", "to": "jung-carl-gustav"}],
+      "body": "..."
+    }
+  ],
+  "raw_chunks": [
+    {
+      "score": 0.612,
+      "video_title": "Mitos de unión sagrada",
+      "timestamp": "08:15",
+      "cite_markdown": "[Mitos de unión sagrada (08:15)](https://youtu.be/abc123?t=495)",
+      "in_wiki_sources": ["hieros-gamos"]
+    }
+  ],
+  "retrieval_metadata": {
+    "wiki_top_score": 0.6518,
+    "raw_top_score": 0.612,
+    "mode_recommended": "balanced",
+    "wiki_via_citation_count": 0
   }
-]
+}
 ```
 
-Mattermost mete ese JSON en el contexto del LLM (OpenAI gpt-5.4-mini vía `mattermost-matty-dev`), y el LLM **redacta la respuesta final** citando los vídeos con sus URLs.
+Mattermost mete ese dict en el contexto del LLM (OpenAI gpt-5.4-mini vía `mattermost-matty-dev`), y el LLM **redacta la respuesta final** citando los vídeos con `cite_markdown` literal y usando `wiki_pages[].body` como síntesis pre-cocinada.
 
 ---
 
@@ -211,7 +227,7 @@ Mattermost mete ese JSON en el contexto del LLM (OpenAI gpt-5.4-mini vía `matte
 | Embedder | sentence-transformers + BGE-M3 + CUDA | texto → vector 1024-d normalizado | [embeddings.py](../ariadna/embeddings.py) |
 | Vector DB | Qdrant embedded | guarda vectores + payload, busca por coseno | [storage.py](../ariadna/storage.py) |
 | Search | Python wrapper | junta embed + qdrant.search + dataclasses de resultado | [search.py](../ariadna/search.py) |
-| MCP server | FastMCP (`mcp` SDK) | expone 3 tools vía JSON-RPC/HTTP en `/mcp` | [mcp_server.py](../ariadna/mcp_server.py) |
+| MCP server | FastMCP (`mcp` SDK) | expone 4 tools vía JSON-RPC/HTTP en `/mcp` (`search_corpus`, `get_wiki_page`, `get_video_summary`, `list_videos`) | [mcp_server.py](../ariadna/mcp_server.py) |
 | Transport | streamable-http | protocolo MCP sobre HTTP con SSE opcional | FastMCP |
 | Exposición | ngrok | túnel `localhost:8765` → URL pública HTTPS | [scripts/run_tunnel.sh](../scripts/run_tunnel.sh) |
 | LLM (hot) | OpenAI gpt-5.4-mini | orquesta tool calls + redacta respuesta | Mattermost AI plugin |
@@ -224,7 +240,14 @@ Mattermost mete ese JSON en el contexto del LLM (OpenAI gpt-5.4-mini vía `matte
 - **Sparse/BM25:** BGE-M3 lo soporta, está pospuesto. Ayudaría con nombres propios raros (ej. "Enheduanna") que dense a veces embarra.
 - **Re-ranking:** en RAG serio se suele meter un cross-encoder sobre los top-20 para reordenar. Aquí cogemos directo el top-5 de Qdrant.
 - **Chunk overlap / padres-hijos:** chunking plano, sin jerarquía.
-- **Entity index (Layer 2):** buscar por "menciones de Jung" a nivel entidad, no solo semántica.
-- **Wiki compilado (Layer 3):** páginas concepto pre-sintetizadas.
+- **Reclasificación de chunks raw con OpenAlex:** los chunks aún llevan las 5 categorías legacy. Bootstrap de la taxonomía existe (`scripts/bootstrap_taxonomy.py`) pero la migración no se ha aplicado.
+- **Pipeline de cobertura sistemática del corpus:** documentado en CORPUS_COVERAGE_STRATEGY.md, scripts (`inventory_summaries.py`, `extract_video_themes.py`) pendientes de implementar. Sin esto, la wiki escala a mano.
 
-Esto es **Fase A Sprint 1**: lo mínimo útil. Si la calidad falla en las queries golden, la primera palanca es añadir sparse + reranker antes de ir a Layer 2/3.
+## 8. Lo que SÍ tenemos (además de Layer 0 RAG)
+
+- **Wiki estructurada en `wiki/`:** 11 páginas markdown (concepts/authors/works/synthesis) con frontmatter tipado y `relations[]` canónicas (set en `wiki/_meta/relation_types.json`).
+- **Wiki indexada en Qdrant:** 1 vector focal por página, `source_type=wiki_page` — buscable junto a los raw chunks.
+- **Índice SQLite derivado** (`data/wiki.db`): `pages`, `aliases`, `relations`, `body_wikilinks`, `citations`. Reconstruible (~1s) desde el filesystem; cero curación humana del DB.
+- **Modo híbrido en `search_corpus`:** 3 lanes (raw semántica, wiki semántica focal, wiki indirecta vía citations) con `match_via` por entrada. Detalle en [RESPONSE_FLOW.md §10](RESPONSE_FLOW.md).
+- **Validador del grafo:** `scripts/validate_wiki_relations.py` chequea types canónicos, wikilinks resueltos y coherencia body↔relations.
+- **Smoke test e2e:** `scripts/test_hybrid.py` (8 checks contra el server vivo).

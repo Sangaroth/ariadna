@@ -34,7 +34,7 @@ Cada capa se añade encima sin romper las anteriores, y se accede vía el mismo 
 |---|---|
 | **A.1** — Layer 0 RAG dense + MCP server + integración Mattermost | ✅ Cerrada (2026-04-23) |
 | **A.2** — Sparse BM25, threshold, reranker, **reclasificación con OpenAlex** | Backlog |
-| **B** — **Wiki estructurada con KG emergente** (fusión antiguas B+E) | Pendiente |
+| **B** — **Wiki estructurada con KG emergente** (fusión antiguas B+E) | 🟡 En curso — 11 páginas, modo híbrido vivo, SQLite derivado |
 | **C** — Despliegue producción (Hetzner, URL fija) | Pendiente |
 | **D** — Cold path con voluntarios + ingesta multi-formato | Pendiente |
 
@@ -106,9 +106,10 @@ curl -s -X POST http://127.0.0.1:8765/mcp \
   -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"search_corpus","arguments":{"query":"sombra junguiana","top_k":3}}}'
 ```
 
-## Tools MCP expuestas (Layer 1)
+## Tools MCP expuestas
 
-- **`search_corpus(query, top_k=5, category=None, playlist=None)`** — búsqueda semántica con filtros opcionales por categoría/playlist
+- **`search_corpus(query, top_k=5, category=None, playlist=None)`** — búsqueda híbrida: devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended`. Wiki entries llevan `match_via ∈ {semantic, citation, both}`. Schema autoritativo: [docs/RESPONSE_FLOW.md §10](docs/RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30)
+- **`get_wiki_page(page_id)`** — devuelve la página wiki completa (frontmatter + body) por `page_id`
 - **`get_video_summary(video_id)`** — chunks completos de un vídeo en orden cronológico
 - **`list_videos(category=None, playlist=None)`** — listado filtrado de vídeos del corpus
 

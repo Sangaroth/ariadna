@@ -38,12 +38,14 @@ Una vez la fuente está saneada, **cualquier tecnología futura — RAG, KAG, LL
 ┌──────────────────────────┐         ┌──────────────────────────┐
 │  CUALQUIER LLM           │  MCP    │  Ariadna MCP Server      │
 │  - GPT-5.4-mini  (hoy)   │ ◄────►  │  - search_corpus         │
-│  - Claude 4.7            │  HTTP   │  - get_video_summary     │
-│  - Gemini 2.5 Pro        │  JSON-  │  - list_videos           │
-│  - Llama local           │  RPC    │                          │
-│  - Modelo X de 2027      │         │  Implementación interna: │
-└──────────────────────────┘         │  RAG → KAG → Wiki        │
-                                      │  (libre de cambiar)      │
+│  - Claude 4.7            │  HTTP   │  - get_wiki_page         │
+│  - Gemini 2.5 Pro        │  JSON-  │  - get_video_summary     │
+│  - Llama local           │  RPC    │  - list_videos           │
+│  - Modelo X de 2027      │         │                          │
+└──────────────────────────┘         │  Implementación interna: │
+                                      │  RAG + wiki + KG         │
+                                      │  emergente (libre de     │
+                                      │  evolucionar)            │
                                       └──────────────────────────┘
 ```
 
@@ -51,7 +53,7 @@ Una vez la fuente está saneada, **cualquier tecnología futura — RAG, KAG, LL
 
 **El LLM es el componente más volátil del sistema.** Cambia precio, calidad y disponibilidad cada pocos meses. Acoplar el corpus a un LLM concreto sería atarse a su API, su tokenizer, su política de uso, y su precio.
 
-**MCP (Model Context Protocol) actúa como contrato estable.** El servidor expone 3 tools con esquema JSON definido. Cualquier LLM que hable MCP puede consumirlas. Cualquier reorganización interna del servidor (cambiar de Qdrant a Vespa, añadir reranking, meter caching) es transparente al cliente.
+**MCP (Model Context Protocol) actúa como contrato estable.** El servidor expone 4 tools con esquema JSON definido. Cualquier LLM que hable MCP puede consumirlas. Cualquier reorganización interna del servidor (cambiar de Qdrant a Vespa, añadir reranking, meter caching) es transparente al cliente.
 
 ### Beneficios concretos del desacople
 
