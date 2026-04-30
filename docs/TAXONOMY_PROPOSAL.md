@@ -259,7 +259,15 @@ OpenAlex publica gratis su taxonomía completa (~4500 topics jerarquizados, IDs 
 
 ## 5. Léxico controlado: vocabulary.json
 
-Hoy no existe. Propuesta de estructura unificada para entidades + conceptos + autores:
+> ⚠️ **Estado al 2026-04-30: parcialmente cubierto, vocabulary.json unificado diferido.**
+>
+> **Lo que existe**: alias canónicos por entidad en frontmatter de cada wiki page (`aliases:`) + tabla `aliases` en `data/wiki.db` (59 mappings sobre 11 pages). Resuelve `Jung` / `C.G. Jung` / `Carl Gustav Jung` / `junguiano (adj.)` → `jung-carl-gustav`, `sombra` / `shadow` / `lo reprimido` → `shadow-archetype`, etc. Queryable vía SQL o desde el Searcher.
+>
+> **Lo que NO existe**: el `vocabulary.json` unificado descrito abajo (ORCID, wikidata_id, `occurrence_count` sobre los 6036 chunks raw, entidades sin página wiki todavía).
+>
+> **Por qué se difiere**: hoy BGE-M3 dense maneja las variantes morfológicas implícitamente y la wiki ya da disambiguation canónica para sus 11 entidades. El vocabulary unificado pasa a ser obligatorio cuando aterrice (a) BM25 sparse en Sprint 2 — necesita alias literales para nombres propios — o (b) ingesta de papers en Fase D — DOI/ORCID como identidad canónica desde Crossref/OpenAlex.
+
+Propuesta de estructura unificada para entidades + conceptos + autores (todavía no implementada):
 
 ```json
 {
