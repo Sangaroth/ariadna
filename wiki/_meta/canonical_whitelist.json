@@ -1,0 +1,363 @@
+{
+  "version": "0.1.0",
+  "schema_version": "1.0.0",
+  "last_updated": "2026-05-02",
+  "review_status": "draft_v0_pending_human_review",
+  "description": "Whitelist de figuras y marcos canónicos cuya promoción a página wiki está habilitada en cuanto reciban tratamiento sustantivo (≥3 min de exposición) en CUALQUIER vídeo del corpus, sin necesidad de cumplir umbrales de recurrencia ni connectivity. Resuelve el caso 'foundational singleton' (autor citado pocas veces porque es load-bearing y se asume). Ver wiki/_meta/scope.md §4 y §6 para política completa.",
+  "policy_notes": [
+    "auto_promote: true → al detectarse mención sustantiva (≥3 min), el extractor emite la entidad como promote sin pasar por umbrales cuantitativos",
+    "auto_promote: false (whitelist 'soft') → la mención sustantiva sube prioridad a 'medium' pero requiere ≥1 criterio adicional del gate ANY-OF para promover",
+    "Solo se añaden entries por commit humano. El extractor puede SUGERIR adiciones marcando 'canonical_external_candidate: true' en el discard_log; quedan en cola para revisión",
+    "Los page_id_canonical son slugs propuestos. Cuando se compile la página, el page_id final puede divergir si el extractor encuentra mejor canonicalización; entonces se actualiza este archivo con commit explícito",
+    "Una figura ya con página en wiki/ NO necesita estar aquí, pero estarlo es informativo (señala que es figura load-bearing). Las dos páginas existentes (jung-carl-gustav, lovecraft-howard) están listadas como referencia"
+  ],
+
+  "authors": [
+    {
+      "page_id_canonical": "jung-carl-gustav",
+      "name": "Carl Gustav Jung",
+      "auto_promote": true,
+      "domain_primary": "social.psychology.jungian",
+      "reason": "Figura central de la psicología analítica, marco estructurante de la mayor parte del corpus. Página ya existe (referencia)",
+      "added_by": "bootstrap_v0",
+      "page_exists": true
+    },
+    {
+      "page_id_canonical": "lovecraft-howard",
+      "name": "Howard Phillips Lovecraft",
+      "auto_promote": true,
+      "domain_primary": "arts.literature",
+      "reason": "Caso paradigmático de mitología propia consciente. Sus cuentos se leen íntegros en directo (as_author_of_sources > 0). Página ya existe (referencia)",
+      "added_by": "bootstrap_v0",
+      "page_exists": true
+    },
+    {
+      "page_id_canonical": "freud-sigmund",
+      "name": "Sigmund Freud",
+      "auto_promote": true,
+      "domain_primary": "social.psychology.psychoanalytic",
+      "reason": "Genealogía obligada para Jung. Cualquier exposición sustantiva del marco psicoanalítico en el canal lo invoca",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "levi-strauss-claude",
+      "name": "Claude Lévi-Strauss",
+      "auto_promote": true,
+      "domain_primary": "interdisciplinary.cultural_studies",
+      "reason": "Estructuralismo como marco de análisis mítico. Mencionado en collective-unconscious como convergencia teórica",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "campbell-joseph",
+      "name": "Joseph Campbell",
+      "auto_promote": true,
+      "domain_primary": "humanities.religion",
+      "reason": "Monomito del viaje del héroe — referencia obligada para individuation y mito-moderno. Wikilinks pendientes desde individuation",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "eliade-mircea",
+      "name": "Mircea Eliade",
+      "auto_promote": true,
+      "domain_primary": "humanities.religion",
+      "reason": "Mitología comparada y fenomenología de lo sagrado — marco esperado en cualquier canal de mitología",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "tolkien-jrr",
+      "name": "John Ronald Reuel Tolkien",
+      "auto_promote": true,
+      "domain_primary": "arts.literature",
+      "reason": "Caso más sostenido del mito polar moderno según el canal. Multiple directos dedicados (Inside Proxy, Silmarillion, Tolkien y los dragones)",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "lacan-jacques",
+      "name": "Jacques Lacan",
+      "auto_promote": false,
+      "domain_primary": "social.psychology.psychoanalytic",
+      "reason": "Psicoanálisis postfreudiano — relevante si el canal lo invoca en análisis simbólico/lingüístico. Soft hasta confirmar tratamiento real",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "chomsky-noam",
+      "name": "Noam Chomsky",
+      "auto_promote": false,
+      "domain_primary": "interdisciplinary.semiotics",
+      "reason": "Lingüística generativa / estructuralismo lingüístico. Caso explícito de 'foundational singleton' que motivó añadir esta whitelist (mencionado por usuario 2026-05-02). Soft hasta confirmar marco aplicado",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "nietzsche-friedrich",
+      "name": "Friedrich Nietzsche",
+      "auto_promote": false,
+      "domain_primary": "humanities.philosophy",
+      "reason": "Crítica filosófico-cultural — esperable en consumismo-critica y discusiones de moralidad. Soft hasta confirmar tratamiento sustantivo",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "heidegger-martin",
+      "name": "Martin Heidegger",
+      "auto_promote": false,
+      "domain_primary": "humanities.philosophy",
+      "reason": "Fenomenología y crítica de la técnica — relevante si Matrix u otras obras se leen desde marco heideggeriano. Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "platon",
+      "name": "Platón",
+      "auto_promote": false,
+      "domain_primary": "humanities.philosophy",
+      "reason": "Caverna platónica como referencia obligada en lecturas gnósticas (Matrix, etc.). Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "plotino",
+      "name": "Plotino",
+      "auto_promote": false,
+      "domain_primary": "humanities.philosophy",
+      "reason": "Neoplatonismo y emanación — relevante si el canal aborda gnosticismo, mística cristiana o cábala. Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "von-franz-marie-louise",
+      "name": "Marie-Louise von Franz",
+      "auto_promote": false,
+      "domain_primary": "social.psychology.jungian",
+      "reason": "Junguiana de segunda generación — relevante en lecturas alquímicas del cambio interior. Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "hillman-james",
+      "name": "James Hillman",
+      "auto_promote": false,
+      "domain_primary": "social.psychology.jungian",
+      "reason": "Psicología arquetipal / re-visión de Jung — soft hasta confirmar mención",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "frazer-james-george",
+      "name": "James George Frazer",
+      "auto_promote": false,
+      "domain_primary": "humanities.religion",
+      "reason": "La rama dorada — antecesor de Eliade y Campbell en mitología comparada. Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "borges-jorge-luis",
+      "name": "Jorge Luis Borges",
+      "auto_promote": false,
+      "domain_primary": "arts.literature",
+      "reason": "Referencia literaria recurrente en discusiones de laberintos/biblioteca/cábala. Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    }
+  ],
+
+  "frameworks": [
+    {
+      "page_id_canonical": "estructuralismo",
+      "name": "Estructuralismo",
+      "auto_promote": false,
+      "domain_primary": "interdisciplinary.cultural_studies",
+      "reason": "Marco metodológico — promueve si se invoca como aplicado al análisis del canal",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "psicologia-analitica",
+      "name": "Psicología analítica",
+      "auto_promote": true,
+      "domain_primary": "social.psychology.jungian",
+      "reason": "Escuela junguiana como marco operativo del canal — load-bearing aunque rara vez se cite con ese nombre técnico",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "alquimia-simbolica",
+      "name": "Alquimia simbólica (lectura junguiana)",
+      "auto_promote": false,
+      "domain_primary": "social.psychology.jungian",
+      "reason": "El canal usa lenguaje alquímico para articular el cambio interior. Página candidata si se trata sustantivamente",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "gnosticismo",
+      "name": "Gnosticismo",
+      "auto_promote": true,
+      "domain_primary": "humanities.religion",
+      "reason": "Marco invocado en lecturas de Matrix, kabbalah, esoterismo cristiano. Recurrente en directos",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "kabbalah",
+      "name": "Cábala",
+      "auto_promote": false,
+      "domain_primary": "humanities.religion",
+      "reason": "Tradición esotérica judía — relevante en lecturas sobre Tarot, Matrix, simbolismo. Soft",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "tarot-arquetipico",
+      "name": "Tarot (lectura arquetípica)",
+      "auto_promote": false,
+      "domain_primary": "humanities.religion",
+      "reason": "El canal lo usa como mapa simbólico (ej. Man of Steel como recorrido por los 22 Arcanos). Soft",
+      "added_by": "bootstrap_v0"
+    }
+  ],
+
+  "channel_specific_concepts": [
+    {
+      "page_id_canonical": "mitologia-propia-impropia",
+      "name": "Mitología propia vs impropia",
+      "auto_promote": true,
+      "reason": "Distinción canal-específica clave (Lovecraft hace propia, democracia es impropia). Aparece en mito-moderno-en-proxy. Merece página propia",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "mito-solar",
+      "name": "Mito solar",
+      "auto_promote": true,
+      "reason": "Mito del dios masculino cíclico — pieza obligada de la triada solar/lunar/polar del canal. Wikilink roto referenciado desde 5+ páginas",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "mito-lunar",
+      "name": "Mito lunar",
+      "auto_promote": true,
+      "reason": "Mito de la diosa femenina cíclica — pieza obligada de la triada. Wikilink roto referenciado desde 5+ páginas",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "viaje-heroe",
+      "name": "Viaje del héroe (monomito)",
+      "auto_promote": true,
+      "reason": "Marco operativo del canal para articular individuación. Recurrente en muchos análisis de obra",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "anima-sola",
+      "name": "Ánima sola",
+      "auto_promote": false,
+      "reason": "Concepto canal-específico no en Jung clásico — ánima desconectada de su contraparte. Mencionado en notas de anima-archetype como hilo a explorar",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "autotipo",
+      "name": "Autotipo",
+      "auto_promote": false,
+      "reason": "Categoría canal-específica: prototipo vaciado de sentido moral (degradación de mito a franquicia). Soft hasta confirmar uso recurrente",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "horror-cosmico",
+      "name": "Horror cósmico",
+      "auto_promote": true,
+      "reason": "Categoría central en lecturas de Lovecraft. Inversión del mito clásico de teofanía. Recurrente",
+      "added_by": "bootstrap_v0"
+    },
+    {
+      "page_id_canonical": "capitalismo-categoria-mitologica",
+      "name": "Capitalismo como categoría mitológica",
+      "auto_promote": false,
+      "reason": "Lectura del canal: capitalismo como mito moderno, NO como sistema económico. Distinción frente a crítica marxista. Aparece en consumismo-critica",
+      "added_by": "bootstrap_v0"
+    }
+  ],
+
+  "works_canonical": [
+    {
+      "page_id_canonical": "fight-club-1999-film",
+      "name": "Fight Club (1999)",
+      "auto_promote": true,
+      "reason": "Caso canónico de la sombra junguiana en el corpus. Página ya existe (referencia)",
+      "added_by": "bootstrap_v0",
+      "page_exists": true
+    },
+    {
+      "page_id_canonical": "matrix-1999-film",
+      "name": "The Matrix (1999)",
+      "auto_promote": true,
+      "reason": "Caso paradigmático del mito moderno serio según el canal. Wikilink roto de mito-moderno-en-proxy. Análisis dedicado en multiple vídeos",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "el-silmarillion",
+      "name": "El Silmarillion",
+      "auto_promote": true,
+      "reason": "Análisis dedicado en vídeo monográfico. Caso central del mito polar cosmogónico tolkieniano",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "el-senor-de-los-anillos",
+      "name": "El Señor de los Anillos",
+      "auto_promote": true,
+      "reason": "Pendiente confirmar tratamiento en directos pero esperable como hub de análisis tolkieniano",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "alien-1979-film",
+      "name": "Alien (1979)",
+      "auto_promote": true,
+      "reason": "Mencionada como una de las grandes obras de transición histórica polar (junto a Matrix y Tolkien) en mito-polar",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "peter-pan-1953-film",
+      "name": "Peter Pan (1953)",
+      "auto_promote": false,
+      "reason": "Wikilink roto referenciado desde anima-archetype. Soft — verificar si tiene análisis dedicado o solo aparece como ejemplo",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "evangelion-anime",
+      "name": "Neon Genesis Evangelion",
+      "auto_promote": false,
+      "reason": "Mencionada en mito-polar como caso de psicoanálisis y gnosticismo. Soft hasta confirmar análisis sustantivo",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "bloodborne-game",
+      "name": "Bloodborne",
+      "auto_promote": false,
+      "reason": "Mencionada en mito-moderno como heredera del horror cósmico lovecraftiano. Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "nosferatu-2024-film",
+      "name": "Nosferatu (Eggers, 2024)",
+      "auto_promote": false,
+      "reason": "Citada en mito-polar. Soft hasta confirmar análisis dedicado",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    },
+    {
+      "page_id_canonical": "man-of-steel-2013-film",
+      "name": "Man of Steel (2013)",
+      "auto_promote": false,
+      "reason": "Wikilink roto referenciado desde mito-moderno-en-proxy. Solo 4 chunks en corpus — análisis posiblemente fragmentario. Soft",
+      "added_by": "bootstrap_v0",
+      "page_exists": false
+    }
+  ]
+}
