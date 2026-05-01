@@ -10,7 +10,9 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+from ariadna.config import RERANKER_PREFETCH_N
 from ariadna.embeddings import DenseEmbedder
+from ariadna.reranker import Reranker
 from ariadna.storage import CorpusStore
 
 log = logging.getLogger(__name__)
@@ -85,10 +87,12 @@ class Searcher:
         self,
         embedder: DenseEmbedder | None = None,
         store: CorpusStore | None = None,
+        reranker: Reranker | None = None,
         wiki_db_path: Path | None = None,
     ) -> None:
         self.embedder = embedder or DenseEmbedder()
         self.store = store or CorpusStore()
+        self.reranker = reranker or Reranker()
         self.wiki_db_path = wiki_db_path or WIKI_DB_PATH
         if not self.wiki_db_path.exists():
             log.warning(
@@ -112,8 +116,10 @@ class Searcher:
         playlist: str | None = None,
         video_id: str | None = None,
     ) -> list[SearchResult]:
-        """Busqueda semantica solo sobre chunks raw (excluye wiki_pages).
+        """Busqueda semantica sobre chunks raw con reranker cross-encoder.
 
+        Pipeline: dense top-N (N=RERANKER_PREFETCH_N, ~20) -> rerank -> top_k.
+        El rerank_score sustituye a 'score' en el output (es lo que ordena).
         Mantiene contrato anterior para compatibilidad con CLI ariadna-search.
         """
         query_vec = self.embedder.embed_query(query)
@@ -122,13 +128,18 @@ class Searcher:
             "playlist": playlist,
             "video_id": video_id,
         }
+        prefetch_k = max(RERANKER_PREFETCH_N, top_k)
         raw = self.store.search(
             query_vec,
-            top_k=top_k,
+            top_k=prefetch_k,
             filters=filters,
             must_not_filters={"source_type": "wiki_page"},
         )
-        return [SearchResult.from_payload(r) for r in raw]
+        reranked = self.reranker.rerank(query, raw, top_k=top_k)
+        for r in reranked:
+            r["dense_score"] = r["score"]
+            r["score"] = r.pop("rerank_score")
+        return [SearchResult.from_payload(r) for r in reranked]
 
     def search_hybrid(
         self,
@@ -161,14 +172,27 @@ class Searcher:
         query_vec = self.embedder.embed_query(query)
 
         raw_filters = {"category": category, "playlist": playlist}
-        raw_results = self.store.search(
+        # Prefetch ampliado para que el reranker tenga material que reordenar.
+        prefetch_k = max(RERANKER_PREFETCH_N, top_k_raw)
+        raw_results_dense = self.store.search(
             query_vec,
-            top_k=top_k_raw,
+            top_k=prefetch_k,
             filters=raw_filters,
             must_not_filters={"source_type": "wiki_page"},
         )
+        # Guardamos el top cosine ANTES de rerankear: lo usa mode_recommended para
+        # comparar con wiki_top (también cosine). El rerank_score no es comparable.
+        raw_top_cosine = raw_results_dense[0]["score"] if raw_results_dense else None
+
+        # Rerank cross-encoder: top-N dense -> top_k_raw final.
+        raw_results = self.reranker.rerank(query, raw_results_dense, top_k=top_k_raw)
+        for r in raw_results:
+            r["dense_score"] = r["score"]
+            r["score"] = r.pop("rerank_score")
 
         # La wiki no se filtra por category/playlist (tiene su propia taxonomía OpenAlex).
+        # No se rerankea: top_k_wiki=2 típicamente, body es página completa
+        # (max_length 512 truncaría), score semantics distintas (focal vector).
         wiki_results = self.store.search(
             query_vec,
             top_k=top_k_wiki,
@@ -206,7 +230,8 @@ class Searcher:
         )
 
         wiki_top_semantic = wiki_results[0]["score"] if wiki_results else None
-        raw_top = raw_results[0]["score"] if raw_results else None
+        # raw_top en cosine (NO rerank_score) para que sea comparable con wiki_top_semantic.
+        raw_top = raw_top_cosine
 
         # mode_recommended se calcula sobre la wiki SEMÁNTICA. La citation lane es
         # navegación enriquecida, no un canal de ranking — su score deriva del chunk
@@ -269,7 +294,11 @@ class Searcher:
         try:
             hits: dict[str, list[dict]] = {}
             for r in raw_results:
-                if r.get("score", 0.0) < self.CITATION_LOOKUP_MIN_SCORE:
+                # Usa cosine (dense_score si vino reranked, score si vino raw).
+                # El threshold 0.55 está calibrado a coseno; rerank_score tiene
+                # otra escala (sigmoid logits), no comparable.
+                dense_score = float(r.get("dense_score", r.get("score", 0.0)))
+                if dense_score < self.CITATION_LOOKUP_MIN_SCORE:
                     continue
                 video_id = r.get("video_id")
                 ts = r.get("timestamp_seconds")
@@ -286,7 +315,7 @@ class Searcher:
                     "video_id": video_id,
                     "timestamp_seconds": int(ts or 0),
                     "video_title": r.get("video_title"),
-                    "chunk_score": round(float(r["score"]), 4),
+                    "chunk_score": round(dense_score, 4),
                 }
                 for (page_id,) in rows:
                     hits.setdefault(page_id, []).append(chunk_summary)

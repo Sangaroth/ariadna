@@ -1,7 +1,9 @@
 """Wrapper de BGE-M3 para embeddings densos via sentence-transformers.
 
-Fase A Sprint 1a: solo dense. Sparse (BM25/SPLADE) se añadira en siguiente
-iteracion si la precision lo requiere.
+Solo dense. Sparse (BM25/SPLADE/BGE-M3 sparse) evaluado en pilot 2026-05-01
+y descartado: no aporta sobre dense puro en este corpus pre-distilled.
+La precision adicional la da el reranker cross-encoder (ariadna/reranker.py).
+Detalle en docs/RERANKER.md.
 """
 
 from __future__ import annotations

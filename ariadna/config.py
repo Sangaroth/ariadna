@@ -27,6 +27,11 @@ EMBED_BATCH_SIZE = int(os.getenv("ARIADNA_EMBED_BATCH", "32"))
 # Qdrant collection
 COLLECTION_NAME = os.getenv("ARIADNA_COLLECTION", "proxy_corpus")
 
+# Reranker (cross-encoder sobre top-N de dense)
+RERANKER_MODEL_NAME = os.getenv("ARIADNA_RERANKER_MODEL", "BAAI/bge-reranker-v2-m3")
+RERANKER_PREFETCH_N = int(os.getenv("ARIADNA_RERANKER_PREFETCH", "20"))
+RERANKER_MAX_LENGTH = int(os.getenv("ARIADNA_RERANKER_MAX_LENGTH", "512"))
+
 # Servidor MCP
 MCP_HOST = os.getenv("ARIADNA_MCP_HOST", "0.0.0.0")
 MCP_PORT = int(os.getenv("ARIADNA_MCP_PORT", "8080"))

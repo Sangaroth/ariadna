@@ -6,6 +6,7 @@ venv/
 .env
 .env.local
 data/qdrant/
+data/qdrant_eval/
 data/cache/
 data/wiki.db
 data/wiki.db-journal
