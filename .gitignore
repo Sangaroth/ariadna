@@ -21,3 +21,7 @@ data/wiki.db-shm
 .ruff_cache/
 dist/
 build/
+
+# Push-based extraction pipeline runs (per-run intermediates, audit trail vive local).
+# El estado canónico del wiki vive en wiki/*.md commiteado vía --auto-commit.
+wiki/_meta/extraction_runs/
