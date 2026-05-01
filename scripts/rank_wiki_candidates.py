@@ -112,7 +112,12 @@ def mcp_search(query: str, top_k: int = MCP_TOP_K) -> list[dict]:
     for line in raw.splitlines():
         if line.startswith("data: "):
             obj = json.loads(line[len("data: "):])
-            return obj.get("result", {}).get("structuredContent", {}).get("result", [])
+            structured = obj.get("result", {}).get("structuredContent", {})
+            # Contrato 2026-04-29+: dict {wiki_pages, raw_chunks, retrieval_metadata}.
+            # El ranking solo mide recurrencia en el corpus → raw_chunks.
+            if isinstance(structured, dict) and "raw_chunks" in structured:
+                return structured.get("raw_chunks", [])
+            return structured.get("result", []) if isinstance(structured, dict) else []
     return []
 
 

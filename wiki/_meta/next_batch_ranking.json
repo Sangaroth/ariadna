@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T21:10:05+00:00",
+  "generated_at": "2026-05-01T21:41:17+00:00",
   "weights": {
     "recurrence": 0.5,
     "connectivity": 0.3,
@@ -20,85 +20,39 @@
     "social.psychology",
     "social.psychology.jungian"
   ],
-  "candidates_count": 5,
+  "candidates_count": 2,
   "ranking": [
     {
       "page_id": "mito-lunar",
       "score": 1.0,
-      "recurrence_n_chunks": 32,
-      "recurrence_avg_top10": 0.5358,
-      "connectivity_in_count": 5,
+      "recurrence_n_chunks": 26,
+      "recurrence_avg_top10": 0.986,
+      "connectivity_in_count": 3,
       "referencing_pages": [
         "anima-archetype",
         "collective-unconscious",
-        "hieros-gamos",
-        "mito-moderno-en-proxy",
         "mito-polar"
       ],
       "dominant_category_in_corpus": "análisis de obra",
       "domain_diversity_bonus": 1.0,
-      "viable": false,
-      "viability_reason": "avg_score=0.536 < 0.55"
-    },
-    {
-      "page_id": "matrix-1999-film",
-      "score": 0.7288,
-      "recurrence_n_chunks": 30,
-      "recurrence_avg_top10": 0.4996,
-      "connectivity_in_count": 1,
-      "referencing_pages": [
-        "mito-moderno-en-proxy"
-      ],
-      "dominant_category_in_corpus": "análisis de obra",
-      "domain_diversity_bonus": 1.0,
-      "viable": false,
-      "viability_reason": "avg_score=0.500 < 0.55"
-    },
-    {
-      "page_id": "peter-pan-1953-film",
-      "score": 0.7288,
-      "recurrence_n_chunks": 30,
-      "recurrence_avg_top10": 0.518,
-      "connectivity_in_count": 1,
-      "referencing_pages": [
-        "anima-archetype"
-      ],
-      "dominant_category_in_corpus": "análisis de obra",
-      "domain_diversity_bonus": 1.0,
-      "viable": false,
-      "viability_reason": "avg_score=0.518 < 0.55"
+      "viable": true,
+      "viability_reason": null
     },
     {
       "page_id": "mito-solar",
-      "score": 0.625,
-      "recurrence_n_chunks": 8,
-      "recurrence_avg_top10": 0.4819,
-      "connectivity_in_count": 5,
+      "score": 0.8269,
+      "recurrence_n_chunks": 17,
+      "recurrence_avg_top10": 0.9787,
+      "connectivity_in_count": 3,
       "referencing_pages": [
         "anima-archetype",
         "collective-unconscious",
-        "hieros-gamos",
-        "mito-moderno-en-proxy",
         "mito-polar"
       ],
       "dominant_category_in_corpus": "análisis de obra",
       "domain_diversity_bonus": 1.0,
-      "viable": false,
-      "viability_reason": "n_chunks=8 < 10"
-    },
-    {
-      "page_id": "man-of-steel-2013-film",
-      "score": 0.3225,
-      "recurrence_n_chunks": 4,
-      "recurrence_avg_top10": 0.4457,
-      "connectivity_in_count": 1,
-      "referencing_pages": [
-        "mito-moderno-en-proxy"
-      ],
-      "dominant_category_in_corpus": "análisis de obra",
-      "domain_diversity_bonus": 1.0,
-      "viable": false,
-      "viability_reason": "n_chunks=4 < 10"
+      "viable": true,
+      "viability_reason": null
     }
   ]
 }
