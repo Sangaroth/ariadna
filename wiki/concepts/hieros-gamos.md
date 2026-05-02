@@ -117,18 +117,7 @@ El hieros gamos también funciona como **lente para detectar uniones disfunciona
 
 ### Eyes Wide Shut: el asalto al matrimonio como institución
 
-> "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente. Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes.
-
-
-### Drácula: el hierosgamos satánico
-
-Drácula articula el caso del hieros gamos invertido por sacrilegio. El caballero de la Sagrada Orden del Dragón, separado de su amada por el suicidio que la condena al infierno, se rebela contra Dios y bebe la sangre del sacrilegio — sangre arrebatada en lugar de ofrecida en sacramento — quedando condenado a alimentarse de sangre eternamente. La unión sagrada que cierra el polar exitoso se sustituye por una unión profana donde el matrimonio se sostiene en sangre robada.
-
-> "El hierosgamos satánico no se consuma; Mina mira hacia arriba y dice 'te veré en otra vida', trascendiendo lo físico."
-→ [Análisis arquetípico de Drácula, 2:53:51](https://youtu.be/JmCqIk6NDsM?t=10431)
-
-La redención no llega por consumación física: Mina decapita a Drácula y el canal lee este gesto como acabar con el [[anima-archetype|síndrome de Wendy]] — eliminar el amante ideal falso para reconocer al amante real (Jonathan). La doble interpretación canal-canónica del vídeo funde a Drácula y Jonathan como el mismo ser desdoblado: lo que se vence al decapitar al demonio es la proyección amorosa sobre la versión corrompida del propio amante.
-"
+> "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente. Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes."
 → [Eyes Wide Shut, 30:52](https://youtu.be/olX_-KIziX0?t=1852)
 
 ## Conexiones teóricas adyacentes

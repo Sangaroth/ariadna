@@ -75,22 +75,6 @@ El mito polar es uno de los **mitos primarios** del [[collective-unconscious]] j
 > "**La cosmogonía polar es un mito de creación basado en la división entre dos sexos.** El pecado original se interpreta como comer del fruto del árbol del conocimiento."
 → [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
 
-
-
-La serie continúa en Pecado original y Posmodernidad II, donde el canal aplica el marco a la inversión cultural contemporánea de los polos: la tentación de la serpiente se relee como mito fundacional del feminismo institucional, donde el Padre-Estado ocupa el lugar del Padre tirano y la rebelión de lo femenino contra él se vende como emancipación que en realidad consuma su propia animalización:
-
-> "La serpiente dice a la mujer que el Padre-Estado es un tirano que le ha prohibido acceder al poder. Le propone que sus instintos animales son en realidad poder y que comer del fruto de la rebelión le dará independencia."
-→ [Pecado original y Posmodernidad II, 06:40](https://youtu.be/4znlMcSR_1g?t=400)
-
-En la lectura del canal, la consumación de esta tentación produce una inversión simétrica del dipolo: la mujer renunció a ser mujer y se animalizó, el hombre renunció a ser hombre y se feminizó — el polo femenino al destruirse arrastra al masculino. La culminación es la regresión de la familia (estructura polar) a la manada (estructura grupal indiferenciada).
-
-> "La mujer renunció a ser mujer y se animalizó; el hombre renunció a ser hombre y se feminizó."
-→ [Pecado original y Posmodernidad II, 11:43](https://youtu.be/4znlMcSR_1g?t=703)
-
-> "La mujer renunció a ser familia para pasar a ser grupo, a ser manada ("hermana, esta es tu manada"). El hombre renunció a ser líder para pasar a ser aliado."
-→ [Pecado original y Posmodernidad II, 12:43](https://youtu.be/4znlMcSR_1g?t=763)
-
-
 > "Este mito es parte de la cosmogonía polar, que habla sobre la interacción de lo masculino y lo femenino. Los principales aspectos que interactúan son Zeus/Júpiter (padre tirano) y Ceres/Deméter (gran madre). Hay dos grandes formas de actuar como en casi todos los mitos: la masculina y la femenina."
 → [Mitología 101: Perséfone, 09:06](https://youtu.be/VDOUrpcC4fU?t=546)
 
@@ -105,41 +89,6 @@ Aclaración insistente del canal — la polaridad NO es esencialismo biológico:
 → [El Gólem de Cobre, 1:05:15](https://youtu.be/e3Aj775Rlw4?t=3915)
 
 Esta aclaración entronca con la página de [[anima-archetype]]: la polaridad es un eje cognitivo presente en toda psique, no un mapa de roles sexuales.
-
-### El test de la botella: lo que mide es la interpretación, no la rotación
-
-Una observación experimental que el canal recoge da soporte empírico a la lectura cognitiva del polar y, a la vez, la matiza. El test psicométrico clásico de rotación espacial — pedir dibujar cómo queda el líquido en una botella inclinada — produce un patrón de error replicado internacionalmente que el canal lee no como déficit femenino sino como sesgo de interpretación de la pregunta:
-
-> "Es imposible explicar el 40% de fallo femenino por cultura o socialización."
-→ [Sic transit gloria mundi (1:21:12)](https://youtu.be/vDv77eZnMo4?t=4872)
-
-> "El varón separa el objeto de sus dinámicas físicas y dibuja el líquido horizontal."
-→ [Sic transit gloria mundi (1:25:46)](https://youtu.be/vDv77eZnMo4?t=5146)
-
-> "La mente femenina, acostumbrada al contexto, interpreta que debe conservar la rotación del objeto anterior."
-→ [Sic transit gloria mundi (1:25:46)](https://youtu.be/vDv77eZnMo4?t=5146)
-
-> "La diferencia es si te piden rotar un objeto o rotar un objeto con dinámicas físicas: parece perogrullo, pero no lo es."
-→ [Sic transit gloria mundi (1:25:46)](https://youtu.be/vDv77eZnMo4?t=5146)
-
-La lectura del canal redirige el resultado: lo que la psicometría llama 'inteligencia espacial masculina' es en realidad la operación específica del polo masculino — separar el objeto de su contexto físico y aplicar la regla pura. El polo femenino, por su orientación contextual, no aísla el objeto de la rotación previa y conserva la dinámica implícita. Ambos modos son funcionales; el test discrimina los polos pero no los jerarquiza. La asimetría cognitiva 'semántico-procedural vs contextual' articulada arriba encuentra aquí su confirmación empírica más nítida.
-
-
-### El varón no es el sexo no emocional sino el sexo no emotivo
-
-Una distinción terminológica del canal refina la lectura cognitiva: el polo masculino no es deficitario en emoción sino en su expresión emotiva. La represión y canalización son funciones del módulo polar, no carencias.
-
-> "El varón no es el sexo no emocional sino el sexo no emotivo: tiene emociones iguales o más intensas pero su cerebro está preparado para la represión y canalización."
-→ [Se celebrarán juicios (1:13:06)](https://youtu.be/hCc-gsoLZj4?t=4386)
-
-> "La primera madurez masculina consiste en que el cerebro se acostumbre a sus propios impulsos sin ayuda externa."
-→ [Se celebrarán juicios (1:13:06)](https://youtu.be/hCc-gsoLZj4?t=4386)
-
-> "La naturaleza del hombre es cargar solo con sus problemas; solo en crisis reales se abre a otros varones."
-→ [Se celebrarán juicios (1:17:08)](https://youtu.be/hCc-gsoLZj4?t=4628)
-
-El canal articula el corolario experiencial de la asimetría: una mujer con cerebro femenino expuesta a experiencias masculinas no acabaría en depresión sino en ataque de pánico, porque la maquinaria de represión y canalización está diseñada como módulo del polo masculino, no como universal humano. La distinción explica por qué la feminización cultural del varón — descrita en otra parte del corpus como pérdida del rol de líder por el de aliado — produce desestructuración psíquica concreta y no solo cambio de roles: se le pide al cerebro masculino que opere por canales para los que no está preparado.
-
 
 ## Aplicaciones canónicas en el corpus
 
@@ -164,45 +113,6 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 > "El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve. La diosa blanca entrega una espada a lo masculino: **Yavanna concede a Manwë un juicio imposible sin lo femenino.**"
 → [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)
 
-
-
-El Génesis del Silmarillion hace concreta la articulación cosmogónica vía cuatro Valar cardinales repartidos por dos polos:
-
-> "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales). Tolkien construye su propio Génesis con un pecado masculino y un pecado femenino posteriores a la traición de Melkor."
-→ [Leyendo El Silmarillion: Tolkien y el mal primario, 12:02](https://youtu.be/gDRkrg8dVCo?t=722)
-
-La polaridad opera además en un plano cósmico solidario al telúrico:
-
-> "En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino. El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma."
-→ [Leyendo El Silmarillion: Tolkien y el mal primario, 13:32](https://youtu.be/gDRkrg8dVCo?t=812)
-
-Aulë y Yavanna en la superficie telúrica; Ulmo y Manwë en el plano cósmico. Cuatro Valar cardinales repartidos por dos polos: lo masculino (aire intelectual + tierra artesana) y lo femenino (agua espiritual + naturaleza salvaje). Cada elemento mítico aterriza en un Valar y cada Valar instancia un polo.
-
-### La tétrada elemental griega: el fuego ctónico de Melkor
-
-A la articulación polar de los cuatro Valar cardinales se superpone una segunda lectura del canal: el mapeo a los cuatro elementos griegos clásicos. Cada elemento mayor encuentra un Valar gobernante, y la asignación se cierra cuando Melkor reclama explícitamente el fuego como su dominio.
-
-> "Ulmo gobierna el agua (espíritu), Manwë el aire (intelecto), Aulë la tierra (cuerpo/trabajo)."
-→ [Seguimos con Tolkien (35:45)](https://youtu.be/OGah7BFoR3w?t=2145)
-
-> "Falta el cuarto elemento, el fuego, que Melkor elegirá como su dominio."
-→ [Seguimos con Tolkien (35:45)](https://youtu.be/OGah7BFoR3w?t=2145)
-
-> "Mientras la Tierra era joven y estaba en llamas, Melkor la codicia y la reclama como su reino."
-→ [Seguimos con Tolkien (49:52)](https://youtu.be/OGah7BFoR3w?t=2992)
-
-La tétrada cierra: agua (espíritu/inconsciente), aire (intelecto), tierra (cuerpo/trabajo), fuego (pasiones ctónicas). El canal articula además una distinción interna al cuarto elemento: existen dos formas del fuego, y Melkor las confunde estructuralmente.
-
-> "Ilúvatar envía la Llama Imperecedera al vacío: es el impulso creativo, el génesis físico, el Big Bang."
-→ [Seguimos con Tolkien (45:21)](https://youtu.be/OGah7BFoR3w?t=2721)
-
-> "Melkor confunde el fuego (los impulsos pasionales) con la Llama Imperecedera (la fuerza creadora divina)."
-→ [Seguimos con Tolkien (37:45)](https://youtu.be/OGah7BFoR3w?t=2265)
-
-La confusión es la raíz arquetípica del mal terciario en la lectura del canal: tomar la pasión ctónica por fuerza creadora invierte la jerarquía cosmogónica y sitúa la voluntad propia en el lugar del impulso divino. La tierra resiste mejor al fuego destructor que el espíritu (agua) por una asimetría estructural — "cuesta muy poco destruir (un Valar) pero cuatro Valar para construir" — que el canal lee como ley del mundo creado: la creación requiere muchos brazos, la destrucción uno solo.
-
-
-
 ### Matrix: el mito polar del mago
 
 > "**Matrix es también un mito polar que habla de la dicotomía naturaleza-tecnología.** El arquitecto es lo masculino y el oráculo es lo femenino; la gente dentro de Matrix es producto de ambos. La anomalía sistémica de Matrix refleja el fallo sistémico heredado del mito del gólem."
@@ -210,60 +120,7 @@ La confusión es la raíz arquetípica del mal terciario en la lectura del canal
 
 ### Adán y Eva: cosmogonía polar canónica de Occidente
 
-> "La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal.
-
-"
-→ [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
-
-La exposición monográfica del canal articula la lectura del mito en cuatro capas superpuestas — la misma narración funciona simultáneamente como filogenia (origen biológico de la especie), ontogenia (origen de la conciencia individual), genealogía cultural (acceso al conocimiento como ruptura con la naturaleza) y diagnóstico de la sobreintelectualización (el don del intelecto trae angustia que no existía en la inocencia).
-
-> "La especie se diferenció primero de los animales; el hombre los nombraba, mostrando superioridad intelectual. La creación de Eva representa el paso de machos y hembras a compañeros de vida con roles específicos."
-→ [Pecado original y Postmodernidad I, 06:45](https://youtu.be/J45h7xet8gg?t=405)
-
-> "Los creadores son los padres y el paraíso es el útero. Al principio somos una célula que al dividirse inicia la gestación, como la primera cosmogonía. El ser humano es expulsado prematuramente del útero a los nueve meses por el excesivo tamaño craneal."
-→ [Pecado original y Postmodernidad I, 10:46](https://youtu.be/J45h7xet8gg?t=646)
-
-> "Mayor volumen craneal permitió meta-representaciones (pensamientos sobre pensamientos) e idea del yo. Más intelecto implica depresión, enfermedad mental, narcisismo, sobre-pensamiento y angustia vital. La expulsión del paraíso simboliza que el don del intelecto trae una angustia que no existía en el estado de inocencia."
-→ [Pecado original y Postmodernidad I, 13:46](https://youtu.be/J45h7xet8gg?t=826)
-
-Dentro de esta cosmogonía los dos sexos no son polos cosmológicos intercambiables: tienen funciones distintas en la articulación de la caída. Eva, por proceder de la costilla de Adán, queda más cerca de la naturaleza primigenia y opera como puente entre lo humano ordenado y lo salvaje. Por eso es ella la que la serpiente tienta — el polo femenino conecta con el mal exógeno con el que el orden cohabita:
-
-> "La serpiente representa el mal exógeno primario con el que se cohabitaba en orden. Eva está más cercana a lo salvaje por provenir de una costilla de Adán, más cercana a la naturaleza primigenia."
-→ [Pecado original y Postmodernidad I, 19:49](https://youtu.be/J45h7xet8gg?t=1189)
-
-El pecado se descompone en dos por cada polo, en simetría rota:
-
-- **Pecados de Eva**: (1) **narcisismo** — querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder; (2) **cobardía de compartir** — pedir al amante que la acompañe para no ser la única rebelde
-- **Pecados de Adán**: (1) **idolatrar a Eva** — querer ser para la mujer en lugar de ser para Dios; (2) **narcisismo para agradarla** — dejarse seducir por la idea de gustarle más comiendo del fruto
-
-> "El pecado de Eva es querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder: narcisismo puro."
-→ [Pecado original y Postmodernidad I, 22:23](https://youtu.be/J45h7xet8gg?t=1343)
-
-> "Adán prefiere saltarse las normas divinas para agradar a Eva: querer ser para la mujer en vez de ser para Dios."
-→ [Pecado original y Postmodernidad I, 24:58](https://youtu.be/J45h7xet8gg?t=1498)
-
-La expulsión deja al mundo dividido en tres planos cuya articulación es la herencia política del polar caído: lo físico crudo y salvaje, el intelecto atrapado en la contradicción ser/deber-ser, y los instintos que rodean y acechan fuera del Edén:
-
-> "El mundo se divide en lo físico crudo y salvaje (desnudez, hambre, frío, miedo). El intelecto queda dominado por la contradicción entre el ser y el deber ser, obligados a construir moral con esfuerzo. El tercer plano son los instintos que los rodean y acechan fuera del Edén: la división tripartita de la cosmogonía polar."
-→ [Pecado original y Postmodernidad I, 32:32](https://youtu.be/J45h7xet8gg?t=1952)
-
-
-
-### Drácula: el polar invertido por sacrilegio
-
-Drácula encarna el caso del mito polar que el corpus había tematizado poco: la conjunción que falla irreversiblemente y disuelve a los amantes en su forma corrompida. La estructura de fondo es la de los **amantes trágicos** — la pareja perfecta separada por una fuerza cósmica que los empuja a la disolución en lugar de a la égersis.
-
-> "El mito universal detrás de Drácula es la estructura de los amantes trágicos."
-> "Los amantes trágicos se llaman así porque no pueden consumar su amor llevándolo a la felicidad eterna."
-→ [Análisis arquetípico de Drácula, 32:35](https://youtu.be/JmCqIk6NDsM?t=1955)
-
-La pieza polar se rompe por **sacrilegio**: el caballero rojo de la Sagrada Orden del Dragón, separado de su amada por el suicidio que la condena al infierno, se rebela contra Dios y bebe la sangre del sacrilegio. La conjunción legítima (sangre sacramentada) se sustituye por su inversión (sangre arrebatada). La culminación interna del polar — el [[hieros-gamos]] — se vuelve `hierosgamos satánico`: no libera, atrapa.
-
-> "Drácula simboliza simultáneamente un amante trágico, un sacrílego, un demonio y un caballero maldito."
-→ [Análisis arquetípico de Drácula, 56:53](https://youtu.be/JmCqIk6NDsM?t=3413)
-
-El polar invertido es estructuralmente recuperable: en la lectura preferida del canal, Drácula y Jonathan son el mismo ser desdoblado, y la decapitación final que ejecuta Mina equivale a renunciar al amante ideal corrompido para abrir la conjunción legítima con el amante real.
-"
+> "La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal."
 → [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
 
 ## Conexión con otros conceptos
@@ -277,7 +134,6 @@ El polar invertido es estructuralmente recuperable: en la lectura preferida del 
 
 ## Lagunas
 
-<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: el corpus se centra en el polar exitoso (conjunción). Apenas hay material sobre -->
 - **Mito polar negativo o fallido**: el corpus se centra en el polar exitoso (conjunción). Apenas hay material sobre cuando la separación es irreversible y el mito queda truncado en la disolución
 - **Tradiciones no-occidentales**: el material recuperado se basa en mitología grecorromana, judeocristiana y germánica (Tolkien). Ausentes: el polar dao (yin/yang) que el canal podría articular, el polar mesoamericano (Quetzalcóatl/Coatlicue), el polar hindú (Shiva/Shakti)
 - **Crítica al esencialismo binario**: el canal subraya que masculino/femenino son cognitivos, no biológicos, pero no recoge las objeciones contemporáneas al modelo dipolar (¿qué pasa con experiencias no-binarias del género? ¿el dipolo es psíquicamente universal o cultural?)

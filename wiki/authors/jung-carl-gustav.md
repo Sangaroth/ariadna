@@ -101,18 +101,6 @@ Postura crítica del canal hacia el uso clínico:
 
 Esta postura sitúa al canal en una **lectura instrumental** de Jung: el aparato sirve para entender, no para curar.
 
-
-
-### La operación simbólica como descubrimiento junguiano fundamental
-
-El canal reconoce a Jung un descubrimiento estructural sobre el modo de operar mismo de la cognición:
-
-> "Los símbolos no sirven para comprender en sentido estricto, sino para convertir lo inabarcable en algo sistemático y manejable. Jung fue el primero en entender que la mente siempre opera por relación simbólica: si puede elaborar un símbolo, lo hace. Quien busca signos los encuentra: esta es la frase de la magia por excelencia."
-→ [Matrix, Gnosticismo, Cábala y mitología comparada, 21:06](https://youtu.be/Dtp1_RLb7S0?t=1266)
-
-Esta lectura sitúa la psicología analítica como teoría sobre el funcionamiento mismo del aparato cognitivo: la mente no es un sistema que opera con símbolos cuando los necesita, sino un aparato cuya operación es siempre simbólica. La búsqueda de signos no es accesoria a la cognición sino su modo nativo, y por eso siempre los encuentra — la operación misma de buscar genera el símbolo que da sentido. Esta tesis converge con la lectura del [[collective-unconscious]] como composición de componentes representacionales innatos: si la cognición es simbólica de raíz, los arquetipos no son contenidos almacenados sino el modo operativo mismo de la psique al encontrarse con lo inabarcable.
-
-
 ## Aplicaciones del marco junguiano en análisis del canal
 
 El canal aplica recurrentemente el método gestáltico junguiano:

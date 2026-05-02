@@ -51,14 +51,6 @@ El canal usa Peter Pan como caso clínico de la sombra como elemento separable y
   → [Peter Pan, 57:18](https://youtu.be/ClnayaScAjQ?t=3438)
 
 - **La sombra de la madre perpendicular a Wendy dormida** evoca a Drácula de Bram Stoker; en los sueños no hay diferencia entre la persona y la sombra
-
-
-- **Drácula como sombra completamente liberada e independizada**: en el castillo de Drácula hay una sombra separada de su dueño — paralelo directo a Peter Pan. Pero Drácula extiende el caso: no es solo separable, es desintegrada y corrompida. Cuando la sombra del conde amenaza la cabeza de Jonathan, este empieza a perder la razón en un lugar arcano cuya arquitectura ya no responde a lo civilizatorio reconocible. La sombra se ha encarnado como personaje narrativo independiente al que se puede combatir
-  → [Análisis arquetípico de Drácula, 1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
-
-- **Drácula y Jonathan como la misma persona**: la lectura preferida del canal lee a ambos como el mismo ser desdoblado — uno completamente corrompido por la lujuria, el otro recuperado por la civilización y la santidad. Lo que Mina decapita es la versión sombra del propio Jonathan; lo que Jonathan vence es su propio demonio interior. La integración de la sombra opera vía narrativa de muerte simbólica del polo oscuro
-  → [Análisis arquetípico de Drácula, 3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
-
   → [Peter Pan, 42:11](https://youtu.be/ClnayaScAjQ?t=2531)
 
 - **Tríada psíquica de Wendy**: ella misma como [[anima-archetype]] desplazada; Peter Pan como ánimus desintegrado de su propia sombra (el eterno aventurero que no puede crecer); Campanilla como pulsiones pre-adolescentes

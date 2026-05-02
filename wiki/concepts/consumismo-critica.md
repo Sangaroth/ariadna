@@ -70,21 +70,6 @@ La conexión con la psicología arquetípica es directa: el consumismo opera com
 > "Desde que hay internet el 90% de las producciones son copias de una copia de una copia. El talento de un individuo llega a 100 personas gracias a internet, pero esas 100 consumen las toneladas de basura que lo eclipsan. Que un canal con talento sea pequeño no es injusto sino normal: la gente consume lo fácil."
 → [La IA se sale de madre, 52:03](https://youtu.be/i72IYlpQWd0?t=3123)
 
-
-
-### Tecnología ergonómica y deuda cognitiva
-
-Un cuarto mecanismo, específicamente vinculado al uso intensivo de tecnología:
-
-> "La tecnología como ergonomía: el entorno se adapta al individuo en vez de que el individuo luche contra el entorno."
-→ [Cuento contigo, 19:20](https://youtu.be/Eqoq3O9wVzA?t=1160)
-
-> "La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo."
-→ [Cuento contigo, 19:20](https://youtu.be/Eqoq3O9wVzA?t=1160)
-
-La tecnología "ergonómica" — la diseñada para reducir fricción adaptándose al usuario — opera como mecanismo consumista cuando sustituye el esfuerzo vital real por una facilidad que vacía la psique de objetivos por los que aplicarse. La **deuda cognitiva** nombra el coste acumulado de esa sustitución: cada renuncia al esfuerzo paga interés en degradación del ánimo y de la capacidad de medir las propias fuerzas.
-
-
 ## Manifestación canónica: las apps de citas
 
 El canal trata las apps de citas como **caso paradigmático de mercantilización afectiva**:
@@ -100,16 +85,6 @@ El canal trata las apps de citas como **caso paradigmático de mercantilización
 
 La lectura del canal: las apps no causan el problema sino que **amplifican y aceleran** una mercantilización afectiva ya presente. Las personas operan en formato catálogo porque el resto del entorno cultural ya las ha reducido a productos elegibles.
 
-### El intercambio consumista en pareja: del deleite a la correspondencia
-
-La lógica consumista no se limita a las apps — articula también la forma básica del intercambio en pareja contemporánea, donde lo que se busca del otro es deleite, no correspondencia:
-
-> "El intercambio en las parejas actuales es consumista: queremos consumir al otro, que el otro nos deleite. La fidelidad es correspondencia: actuar como si fuéramos uno, correr los riesgos del otro. Las mujeres están acostumbradas a ser compradas y no entienden la gratuidad cuando la reciben."
-→ [Psiquiatría, antipsiquiatría y teoría de la mente, 22:38](https://youtu.be/4LBXNkVAUCU?t=1358)
-
-La asimetría conceptual es operativa: **consumir** trata al otro como producto que satisface; **corresponder** asume el riesgo conjunto. La cultura consumista entrena al sujeto a esperar deleite y le desentrena de la gratuidad — por eso recibirla genera incomprensión, no gratitud. La fidelidad en este marco no es restricción moral sino efecto natural de operar como una unidad: correr los riesgos del otro presupone que sus pérdidas son las propias.
-
-
 ## Postura específica del canal: NO es anti-capitalismo marxista
 
 Una precisión importante para no confundir esta página con la crítica de izquierdas estándar:
@@ -124,19 +99,6 @@ Una precisión importante para no confundir esta página con la crítica de izqu
 → [Psiquiatría y antipsiquiatría, 1:25:45](https://youtu.be/4LBXNkVAUCU?t=5145)
 
 La crítica del canal al consumismo opera desde un eje **moral-cultural**, no económico-estructural: la sociedad de consumo es problemática porque corroe la individuación, deshace el sentido y vacía la identidad — no porque el modo de producción sea injusto. La solución que el canal apunta es psicológica e individual (madurar, integrar la sombra), no política colectiva.
-
-### Hiperespecialización funcional como reducción del yo
-
-Un mecanismo estructural complementario que el canal articula: la sobresimplificación de la función individual en sociedades hiperespecializadas reduce la libertad psíquica como precio invisible del confort material.
-
-> "La sobresimplificación de la función individual en el capitalismo reduce la libertad psíquica: menos funciones implican un yo más pequeño."
-→ [Rabia narcisista e iconotropías mitológicas (1:12:47)](https://youtu.be/4P5hxaG7i6c?t=4367)
-
-> "La hiperespecialización de sociedades avanzadas produce menos problemas materiales pero muchos más problemas psíquicos."
-→ [Rabia narcisista e iconotropías mitológicas (1:12:47)](https://youtu.be/4P5hxaG7i6c?t=4367)
-
-El mecanismo se enlaza directamente con la pérdida de [[individuation]]: el canal cierra el argumento afirmando que "la cultura occidental ha fallado tanto a lo femenino como a lo masculino" porque ha producido yos demasiado pequeños para sostener la integración de sus polaridades. Menos funciones disponibles para el yo equivale a menos espacio interior donde puedan dialogar [[shadow-archetype]] y [[anima-archetype]] — el confort material se paga en estrechamiento del repertorio psíquico.
-
 
 ## La política contemporánea como extensión del marketing
 
