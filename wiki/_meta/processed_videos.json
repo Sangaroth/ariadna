@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "schema_version": "1.0.0",
   "description": "Registro de vídeos del corpus ingeridos por el extractor. Mantenido por scripts/extract_incremental.py. Cada entry: {first_run: <run_id de la primera vez que se procesó>, last_run: <run_id más reciente>}.",
-  "last_updated": "2026-05-02T06:49:32+00:00",
+  "last_updated": "2026-05-02T07:12:17+00:00",
   "videos": {
     "SwEqFdvBI9M": {
       "first_run": "pilot_2026_05_03",
@@ -283,6 +283,10 @@
     "xdT-SCW89cw": {
       "first_run": "overnight_20260502_013005_b017",
       "last_run": "overnight_20260502_013005_b017"
+    },
+    "i_mVTgnbwHA": {
+      "first_run": "overnight_20260502_013005_b018",
+      "last_run": "overnight_20260502_013005_b018"
     }
   }
 }
