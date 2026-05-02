@@ -1,0 +1,64 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b022",
+  "items": [
+    {
+      "canonical_guess": "realismo-cognitivo",
+      "from_video": "7jT13kHNlBA",
+      "entity": {
+        "surface_form": "realismo cognitivo",
+        "canonical_guess": "realismo-cognitivo",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 50,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El realismo cognitivo es filosofía de la mente, no psicología clínica; hay que respetar ambos ámbitos,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El realismo cognitivo intenta ir más allá del psicoanálisis, pero toda teoría de la mente es psicoanalítica en tanto necesita ese andamiaje,"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Marco filosófico propio del canal explícitamente nombrado y aplicado de forma sostenida (~50 min de exposición). Cumple scope.md §2.1: monográfico (≥10 min sostenidos), framing-mark explícito ('El realismo cognitivo es filosofía de la mente'), assumed_prior (el canal lo invoca sin necesidad de presentarlo). Recurrencia ≥2 vídeos (también articulado en Noticias 100tíficas / VgdybZKruwk como 'el realismo cognitivo es no localista'). Es el aparato teórico desde el que el canal articula su modelo de mente, depresión, enfermedad mental y crítica al biologicismo clínico — load-bearing del corpus aunque no canon académico ajeno",
+        "quote_evidence": "El realismo cognitivo considera que \"adaptativo/no adaptativo\" es un término biologicista sin categoría filosófica válida,"
+      }
+    },
+    {
+      "canonical_guess": "realismo-cognitivo",
+      "from_video": "AJgvAsbd-UQ",
+      "entity": {
+        "surface_form": "realismo cognitivo (tres componentes: afectiva, imaginaria, gramatical)",
+        "canonical_guess": "realismo-cognitivo",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 30,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Las funciones afectivas son primarias, las imaginarias secundarias y las gramaticales terciarias, tanto ontogenética como filogenéticamente,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "En las coordenadas de este canal no existe \"género biológico\", existe sexo biológico y género gramatical,"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Refuerzo de promoción ya propuesta en vídeos VgdybZKruwk (no localismo cognitivo) y 7jT13kHNlBA (filosofía de la mente vs psicología clínica). Aquí se articula la triada estructural del marco: afectiva (primaria) / imaginaria (secundaria) / gramatical (terciaria), tanto ontogenética como filogenéticamente. Recurrencia ahora confirmada en ≥3 vídeos. Adicionalmente articula penetrabilidad cognitiva, taxonomía de afectos primarios (buscar/reproducirse/vínculos/terror/ira/juego), distinción sexo biológico/género gramatical, factor G/F como aplicaciones del marco. Es la pieza más sustantiva hasta ahora de la columna vertebral teórica del canal",
+        "quote_evidence": "Cuanto más simple es un organismo, más se desplaza hacia la componente puramente afectiva,"
+      }
+    }
+  ]
+}

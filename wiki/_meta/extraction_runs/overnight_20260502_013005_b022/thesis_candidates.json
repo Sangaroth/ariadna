@@ -1,0 +1,92 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b022",
+  "items": [
+    {
+      "from_video": "7jT13kHNlBA",
+      "from_video_title": "Por fin",
+      "thesis": {
+        "thesis_title_proposed": "El enfermo mental ante el otro: proyección femenina, vínculo imposible y aislamiento como estrategia",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La proyección femenina identifica enfermedad mental con desvalimiento y pánico de soledad,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Lo femenino confunde amor incondicional con desesperación incondicional por hacer que el otro esté bien,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Acompañar a una persona con enfermedad mental sin validar ni negar su realidad interna es \"dificilísimo\","
+          }
+        ],
+        "framework_internal_structure": [
+          "Premisa: el problema central de la enfermedad mental es que la gente pretende que el enfermo se comporte como si no la tuviera",
+          "Mecanismo proyectivo: la teoría de la mente proyecta el interior propio en el otro, asumiendo que sufre por motivos análogos a los propios",
+          "Variante femenina típica: identificar enfermedad mental con desvalimiento → respuesta de adopción y tratamiento como persona con necesidades especiales",
+          "Lo que el enfermo realmente quiere: NO tener necesidades especiales, no sentir lo que siente, vínculo simétrico como los demás",
+          "Distinción técnica: amor incondicional ≠ desesperación incondicional por que el otro esté bien",
+          "Definición operativa del incondicional real: aceptar la realidad interna del otro sin validarla como realidad externa",
+          "Correlato del enfermo: aislamiento estratégico para no dañar a los próximos con afecto patológico (ira, deseo, asco)"
+        ],
+        "minutes_sustained": 17,
+        "domain_guess": "social.psychology",
+        "related_existing_pages": [
+          "anima-archetype"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple ≥3 señales de scope.md §2.4.1: (1) registro pedagógico-expositivo sostenido ~17 min sobre marco relacional propio; (2) estructura interna articulada en piezas dependientes (mecanismo proyectivo → variante femenina → lo que el enfermo quiere → distinción amor/desesperación → aislamiento); (3) declared_thesis con la distinción técnica 'amor incondicional vs desesperación incondicional'. NO es exposición de concepto académico (no hay referencia a autor canon que articule esto así) sino articulación original del canal sobre la fenomenología relacional del enfermo mental. Posible vínculo con anima-archetype: 'lo femenino' aquí podría tratarse como manifestación clínica del polo ánima en proyección — pero esa articulación aún no es explícita y debe validarse antes de tipificar la relación. Candidato distinto al thesis_candidate del vídeo VgdybZKruwk (que cubría el modelo cognitivo de representación/trauma/conciencia); este complementa con la dimensión relacional. Si humano valida ambos, podrían fusionarse en una página synthesis 'realismo cognitivo aplicado' o quedar como dos páginas separadas (modelo de mente + clínica relacional)"
+      }
+    },
+    {
+      "from_video": "AJgvAsbd-UQ",
+      "from_video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+      "thesis": {
+        "thesis_title_proposed": "Diferencias cognitivas entre sexos según Proxy: gausianas, adaptación activa/pasiva y propuesta del factor F",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Existen diferencias en el rendimiento cognitivo entre hombres y mujeres porque las mujeres son más parecidas entre sí y los hombres presentan mayor dispersión en las gausianas,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "En el test de Raven y en ajedrez, el desempeño depende del factor G más variables acentuadas como concentración y percepción de imagen,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Se propone un \"factor F\" hipotético que representaría la inteligencia antes de aplicar las funciones inhibitorias y perceptuales,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Las mujeres pueden permitirse estar en el centro de la gausiana porque tienen menor presión evolutiva para ser extremadamente inteligentes,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Premisa anti-dualista: el cerebro es parte del cuerpo, no existe mente fantasma separada que juegue al ajedrez",
+          "Marco psicométrico aceptado: factor G de Carroll como tercer nivel de habilidades cognitivas; CI como mejor predictor indirecto",
+          "Hecho empírico de partida: gausianas asimétricas — más hombres en colas extremas (CI 130: 2x; CI >145: 15x; también más retraso); más mujeres en el centro",
+          "Mecanismo cognitivo 1 — concentración: cerebro masculino más preparado biológicamente para inhibir afectos; ventaja en atención sostenida",
+          "Mecanismo cognitivo 2 — percepción: hombres mejores en formas, mujeres mejores en colores; el test de Raven (blanco y negro) sesga a favor del hombre",
+          "Propuesta correctiva: factor F hipotético — el factor G descontando concentración y percepción de formas; la gausiana femenina podría no estar desplazada en F aunque sí en G aplicado a Raven",
+          "Diferenciación adaptativa funcional 1 — adaptación activa (masculina): resolver problemas construyendo o cambiando la realidad externa mediante actos",
+          "Diferenciación adaptativa funcional 2 — adaptación pasiva (femenina): resolver problemas encontrando algo bueno en lo que se tiene y adaptando la realidad interna",
+          "Consecuencia diferencial: los hombres se bloquean ante problemas afectivos; las mujeres lidian con situaciones internas mucho más complejas (correlato: 3-5 años más de esperanza de vida)",
+          "Patrón post-resolución masculino: 'nothing box' — vuelta a punto cero sin problemas",
+          "Patrón post-resolución femenino: búsqueda activa de problemas; identificación proyectiva con circunstancias ajenas",
+          "Lectura evolutiva final: las mujeres pueden permitirse el centro de la gausiana porque tienen menor presión evolutiva para extremos cognitivos; los hombres tienen 2-3x más probabilidad de fracaso vital, suicidio, adicciones, violencia",
+          "Aplicación al ajedrez: las categorías masculina/femenina existen porque el ajedrez como deporte mide capacidades en cuya distribución gausiana los sexos divergen — no es discriminación sino respeto al hecho psicométrico"
+        ],
+        "minutes_sustained": 60,
+        "domain_guess": "social.psychology",
+        "related_existing_pages": [
+          "anima-archetype"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple las 4 señales de scope.md §2.4.1: (1) DECLARED THESIS explícita ('Se propone un factor F hipotético...'); (2) registro pedagógico-expositivo SOSTENIDO ~60 min sobre marco propio aplicado; (3) ESTRUCTURA INTERNA muy articulada (premisa → datos → mecanismos → propuesta correctiva → diferenciación funcional → patrones de cierre → lectura evolutiva); (4) APPLIED FRAMEWORK marcado con propuesta original (factor F). Apoyado en pieza de la triada cognitiva afectiva/imaginaria/gramatical del marco realismo-cognitivo. Tesis distinta de las anteriores: el thesis_candidate del vídeo Por fin (7jT13kHNlBA) cubría enfermedad mental relacional; éste cubre diferencias cognitivas entre sexos. Posible conexión futura con anima-archetype (las dinámicas activa/pasiva podrían leerse como manifestación clínico-cognitiva de la polaridad ánima/ánimus, pero esa articulación no es explícita aquí — no etiquetar como relación tipificada todavía)"
+      }
+    }
+  ]
+}

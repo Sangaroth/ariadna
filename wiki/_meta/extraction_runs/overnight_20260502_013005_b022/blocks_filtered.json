@@ -1,0 +1,152 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b022",
+  "items": [
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "09:43",
+        "block_heading": "Pedro Sánchez no dimite y eso beneficia la destrucción del PSOE",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe",
+          "sánchez"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Comentario coyuntural sobre la salida o permanencia del presidente del gobierno español. Filtro político activado"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "10:43",
+        "block_heading": "Escenarios posibles tras la crisis del PSOE",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe",
+          "pp"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Análisis prospectivo de escenarios bipartidistas españoles (judicialización, moción de censura). Coyuntural"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "21:52",
+        "block_heading": "Crítica a los tibios y al conformismo ciudadano",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "pp"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Diatriba sobre conformismo ciudadano español con referencia a 'PP orbitando' al PSOE. Coyuntural"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "29:26",
+        "block_heading": "Anita Sarkeesian y la analogía con el PSOE: la empresa que odia a sus consumidores",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Aunque arranca con el caso Sarkeesian / industria del videojuego (potencialmente in-scope como cultural_studies), la analogía está construida explícitamente como argumento contra el PSOE como 'empresa que odia a sus consumidores'. La lectura cultural queda subordinada al ataque coyuntural y no se desarrolla autónomamente"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "34:32",
+        "block_heading": "España odia España: el paralelismo entre la industria del videojuego y el Estado",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Continuación del paralelismo del bloque anterior, ahora en clave 'PSOE state of mind' como agente que odia los valores y la historia de España. Coyuntural"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "45:28",
+        "block_heading": "Ayuso y el PP: oposición fingida sin acción real",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "ayuso",
+          "pp",
+          "sumar"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Crítica a la presidenta de la Comunidad de Madrid, al PP y a Sumar/Urtasun. Múltiples coincidencias del filtro político español"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "57:49",
+        "block_heading": "PP y PSOE: la connivencia bipartidista",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "pp",
+          "psoe",
+          "feijóo"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Análisis de connivencia entre los dos partidos mayoritarios españoles. Citas a Borja Semper y Feijóo. Coyuntural"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "59:49",
+        "block_heading": "Desmontaje de las cifras récord de empleo del PSOE",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Crítica económico-política a las estadísticas de empleo del gobierno español. Coyuntural"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "1:05:08",
+        "block_heading": "El PP y el gasto superfluo como síntoma del sistema",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "pp"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Crítica al gasto público del PP en políticas LGTBI y diversidad. Coyuntural ideológico-presupuestario"
+      }
+    },
+    {
+      "from_video": "Dv3caRUYzuc",
+      "block": {
+        "block_timestamp": "1:52:35",
+        "block_heading": "Por qué no habrá guerra civil: la pasividad como debilidad del sistema",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe"
+        ],
+        "filter_scope": "block",
+        "filter_added_at": "2026-04-29",
+        "rationale": "Cierre del stream con caracterización de la 'PSOE state of mind' como pasividad estructural. Coyuntural"
+      }
+    }
+  ]
+}
