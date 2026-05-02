@@ -78,24 +78,6 @@ Una de las dinámicas canónicas del mito lunar — la madre que rescata al hijo
 
 En la lectura del canal, esta catábasis maternal es **previa** al viaje del héroe del hijo: lo prepara dándole la posibilidad misma de existir.
 
-
-
-## El aspecto disolvente: Lilit y los lunáticos
-
-El análisis de Drácula (Coppola, 1992) introduce el polo oscuro del mito lunar que el corpus tenía declarado en lagunas: la luna como hechizo que disuelve la humanidad. Drácula y los lunáticos pertenecen al ciclo lunar invertido, donde lo cíclico-femenino opera como pérdida de razón en lugar de gracia.
-
-> "El lunático es aquel que pierde su humanidad hechizado por una luz que es ilusión, como el hombre lobo que abandona su humanidad con la luna llena"
-→ [Análisis arquetípico de Drácula, de Bram Stoker (1:46:00)](https://youtu.be/JmCqIk6NDsM?t=6360)
-
-> "Drácula camina por la pared a la luz de la luna: pertenece a los seres incomprensibles que cambian con el ciclo lunar"
-→ [Análisis arquetípico de Drácula, de Bram Stoker (1:46:00)](https://youtu.be/JmCqIk6NDsM?t=6360)
-
-[[lilit]] aparece como nombre arquetípico de la luna oscura: las novias de Drácula son un sincretismo de madre oscura, Lilit, súcubo y ninfa.
-
-> "Lucy muerta en pecado sale por la noche a cazar como Lilit que devora niños para mantenerse joven"
-→ [Análisis arquetípico de Drácula, de Bram Stoker (2:34:06)](https://youtu.be/JmCqIk6NDsM?t=9246)
-
-
 ## El instinto materno como vínculo, no como biología
 
 Distinción característica del canal:
@@ -116,7 +98,6 @@ Ver [[mito-polar]] §El mito polar como tercer camino.
 
 ## Lagunas
 - Catálogo sistemático de figuras lunares específicas (Selene, Isis, Hécate, María, Inanna, Coatlicue) — el canal usa la categoría sin enumerar tradiciones
-<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Lo lunar negativo o disolvente — el corpus articula el bucle como limitación per -->
 - Lo lunar negativo o disolvente — el corpus articula el bucle como limitación pero no profundiza en la luna oscura, la diosa terrible o el aspecto destructor (Kali, Hécate ctónica, Lilith)
 - Tratamiento del [[anima-sola]] (concepto canal-específico) como variante patológica del mito lunar — pendiente
 - Articulación con el ciclo menstrual y la temporalidad biológica — el canal subraya la naturaleza cognitiva del eje pero el sustrato corporal del mito lunar queda implícito

@@ -56,47 +56,6 @@ El canal articula explícitamente la convergencia entre Jung, Lévi-Strauss y la
 
 Esta convergencia desplaza el debate desde la metafísica neoplatónica (Jung mal leído) hacia la **psicología cognitiva estructural**: los arquetipos son hipótesis empíricas sobre la cognición, no entidades sobrenaturales.
 
-
-
-## Confirmación experimental: el efecto Buba-Kiki en pollos
-
-La hipótesis de las estructuras cognitivas innatas universales recibe en el canal una articulación con base experimental. Pollos de un día de edad reproducen sin entrenamiento la misma asociación sonido-forma que los humanos de cualquier cultura — la asignación canónica de "buba" a la figura redondeada y "kiki" a la puntiaguda.
-
-> "Pollos de solo un día asocian la figura redondeada con el sonido "buba" y la puntiaguda con "kiki""
-→ [Psicología 101: Cómo un Pollo demostró a Jung (29:41)](https://youtu.be/cbfhVqYDbdE?t=1781)
-
-> "Cuando se pregunta a personas de cualquier cultura cuál es Buba y cuál es Kiki, casi todos coinciden en la misma asignación"
-→ [Psicología 101: Cómo un Pollo demostró a Jung (31:41)](https://youtu.be/cbfhVqYDbdE?t=1901)
-
-> "La coincidencia es tan grande que se puede afirmar que no es aprendida"
-→ [Psicología 101: Cómo un Pollo demostró a Jung (31:41)](https://youtu.be/cbfhVqYDbdE?t=1901)
-
-El experimento controla por aprendizaje y por significado contextual. Los pollos no saben leer ni manejan el concepto de "voz" como categoría — solo oyen un sonido. La asociación se mantiene sin recompensa ni extinción.
-
-> "El estímulo es un sonido sin más significado que un pitido natural cualquiera"
-→ [Psicología 101: Cómo un Pollo demostró a Jung (38:57)](https://youtu.be/cbfhVqYDbdE?t=2337)
-
-> "La asociación se mantuvo constante sin mostrar efectos de aprendizaje ni de extinción"
-→ [Psicología 101: Cómo un Pollo demostró a Jung (36:56)](https://youtu.be/cbfhVqYDbdE?t=2216)
-
-## Implicación: homologías noéticas trans-especies
-
-Si humanos y pollos hacen la misma asociación innata, debe existir una estructura representacional común. El canal nombra esta clase de homología como **clases ancestrales** — homologías noéticas que trascienden especies, no solo homologías biológicas.
-
-> "Si humanos y pollos hacen la misma asociación innata, deben existir homologías biológicas evolutivas"
-→ [Psicología 101: Cómo un Pollo demostró a Jung (1:16:31)](https://youtu.be/cbfhVqYDbdE?t=4591)
-
-> "Debe haber homologías no solo biológicas sino también noéticas, y esa homología noética es arquetípica"
-→ [Psicología 101: Cómo un Pollo demostró a Jung (1:16:31)](https://youtu.be/cbfhVqYDbdE?t=4591)
-
-La nota decisiva: la asociación no es memoria adquirida sino estructura previa al objeto.
-
-> "Lo decisivo es que no es aprendida ni asociativa: la asociación existía ya antes de ver el objeto por primera vez"
-→ [Psicología 101: Cómo un Pollo demostró a Jung (1:23:56)](https://youtu.be/cbfhVqYDbdE?t=5036)
-
-Este es el sentido empírico-cognitivo que el canal da al inconsciente colectivo: estructuras representacionales innatas universales — incluso a escala interespecie — que organizan la cognición antes de la experiencia. La articulación más amplia del modelo (clases noéticas y compositivas, multimodalidad vs sinestesia, afectos vs emociones, notación de Proxy) está pendiente de revisión humana como tesis de autor — ver registro de candidatos de síntesis.
-
-
 ## Contenidos: los mitos primarios
 
 El inconsciente colectivo no contiene "imágenes" sueltas sino **estructuras mitológicas universales** identificables:
@@ -189,7 +148,6 @@ El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al moni
 ## Lagunas
 - **Listado completo de los ~30 arquetipos principales**: el canal menciona la cifra pero no enumera el catálogo. Sería útil rastrear si existe esa lista canónica en algún vídeo monográfico
 - **Distinción "estructural / mitemas" vs "personales / encarnados en figuras"**: mencionada pero no desarrollada en el corpus
-<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Origen biológico del inconsciente colectivo**: el canal lo trata como hecho co -->
 - **Origen biológico del inconsciente colectivo**: el canal lo trata como hecho cognitivo pero no explora la base evolutiva (¿cómo se hereda? ¿selección? ¿exaptación?)
 - **Críticas modernas al concepto**: el canal no recoge las objeciones contemporáneas (Pinker y otros) al inconsciente colectivo como ineficiente o cripto-lamarckiano
 - **Aplicación a culturas no-occidentales**: la lista de mitos primarios usa material principalmente mesopotámico-grecorromano-judeocristiano. ¿El canal articula material arquetípico amerindio, africano, australiano? Hay alguna mención (sueños australianos) pero pocos chunks
