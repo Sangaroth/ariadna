@@ -1,0 +1,1352 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b010",
+  "generated_at": "2026-05-02T04:38:41+00:00",
+  "entities": {
+    "gardner-howard": {
+      "canonical_name": "Howard Gardner (inteligencias múltiples)",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Gardner aparece para refutar puntualmente su teoría de inteligencias múltiples como pseudociencia postmoderna. Sin desarrollo del marco propio de Gardner, no figura en whitelist. Por debajo del bar §2.2.",
+          "quote_evidence": "Gardner tomó los dominios de medición de la escala Wechsler y los rebautizó como inteligencias separadas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "test-de-raven": {
+      "canonical_name": "test de matrices de Raven",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Instrumento psicométrico clínico. Fuera del alcance arquetípico-cultural del wiki (§1). Sin desarrollo conceptual en clave junguiana o cognitivista propia.",
+          "quote_evidence": "El test de matrices de Raven es el que más se aproxima a medir la inteligencia general abstracta,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "escalas-wechsler": {
+      "canonical_name": "escalas Wechsler (WISC/WAIS)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Instrumento psicométrico clínico estándar. Fuera del alcance arquetípico-cultural del wiki (§1).",
+          "quote_evidence": "Las escalas Wechsler (WISC/WAIS) miden inteligencia mediante batería de dominios: numérico, verbal, visoespacial,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mouliaa-elisa": {
+      "canonical_name": "Elisa Mouliaá",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "secondary",
+          "minutes": 15,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Figura pública española objeto de comentario coyuntural. El vídeo entero arranca como respuesta a su tweet sobre tener 118 de CI. Sin valor enciclopédico arquetípico — fuera de alcance §3 (anécdotas / actualidad coyuntural sobre figura pública).",
+          "quote_evidence": "Elisa Mouliaá responde a un usuario anónimo presumiendo de tener 118 de CI,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 15,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mensa": {
+      "canonical_name": "Mensa",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Asociación de personas con CI alto, mencionada coyunturalmente. Sin desarrollo conceptual.",
+          "quote_evidence": "Para entrar en Mensa se requiere aproximadamente percentil 95, por encima de 120,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "oliveira-javi": {
+      "canonical_name": "Javi Oliveira",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Figura pública usada como ejemplo ilustrativo de capacidad social. Comentario personal coyuntural, fuera de alcance §3.",
+          "quote_evidence": "Javi Oliveira posee una mente social privilegiada con capacidad de adaptación excepcional,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "planas": {
+      "canonical_name": "Planas",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Figura pública usada como ejemplo extremo de baja adaptación social. Comentario personal coyuntural, fuera de alcance §3.",
+          "quote_evidence": "Planas como ejemplo extremo opuesto: mínima capacidad de adaptación al entorno social,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "blancanieves-disney": {
+      "canonical_name": "Blancanieves (el cazador)",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Lectura arquetípica puntual del cazador de Blancanieves como figura del 'pecado de comparación' en el camino del héroe masculino. Material valioso pero único chunk; sin análisis dedicado de la película. Por debajo del bar §2.3 (≥30 min monográficos o cross-thematic en ≥4 vídeos). Flag para preservación: cuando se acumule corpus sobre Blancanieves o se bootstrappe la página mito-solar, este chunk es input directo para la sección 'pecado del cazador / compararse con otros hombres'.",
+          "quote_evidence": "El pecado del cazador de Blancanieves: compararse con otros hombres"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El sentido de la vida es la preparación para la muerte (tesis del canal)": {
+      "canonical_name": "El sentido de la vida es la preparación para la muerte (tesis del canal)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El sentido de la vida es prepararse para el momento de morir,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El camino del héroe masculino (tres pilares: hobby autónomo, dominio intelectual, trabajo)": {
+      "canonical_name": "El camino del héroe masculino (tres pilares: hobby autónomo, dominio intelectual, trabajo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Tres pilares: ser el mejor en un hobby autónomo, en un dominio intelectual y en el trabajo,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Distinción inteligencia general (representacional) vs CI (desempeño medible) — el TDAH como caso límite": {
+      "canonical_name": "Distinción inteligencia general (representacional) vs CI (desempeño medible) — el TDAH como caso límite",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El cociente intelectual es un predictor psicométrico del desempeño intelectual general, no una medida directa de inteligencia,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "psicópatas y CI alto / adaptación como predictor real de éxito": {
+      "canonical_name": "psicópatas y CI alto / adaptación como predictor real de éxito",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Las personas con más éxito social son las que mejor se adaptan al contexto, no las más inteligentes,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lovecraft (anuncio de próximo stream)": {
+      "canonical_name": "Lovecraft (anuncio de próximo stream)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El jueves habrá lectura de cuentos de Lovecraft con velas para ambientar el otoño,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La casa, el árbol y el laberinto (tercer libro de Proxy)": {
+      "canonical_name": "La casa, el árbol y el laberinto (tercer libro de Proxy)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Estas disciplinas conectan con el tercer libro de Proxy: La casa, el árbol y el laberinto,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anuncio de stream sobre filosofía de la mente (noética, epistemología, ontología)": {
+      "canonical_name": "Anuncio de stream sobre filosofía de la mente (noética, epistemología, ontología)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Mañana se hablará de filosofía: qué es la filosofía, noética, epistemología y ontología,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-lunar": {
+      "canonical_name": "mito lunar",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "central_thesis",
+          "minutes": 80,
+          "framing_marks_count": 5,
+          "decision": "promote_new",
+          "decision_reason": "mito-lunar figura en canonical_whitelist.json:channel_specific_concepts con auto_promote:true ('pieza obligada de la triada solar/lunar/polar; wikilink roto referenciado desde 5+ páginas'). Este vídeo es el primer tratamiento monográfico-canal del lunar como tal: define el mito lunar explícitamente como fenomenología de lo femenino, articula la triada de figuras neutrales (doncella/consorte/madre), articula las tres corrupciones simétricas (Wendy/ninfa/Medea) y desarrolla la matriz etiológica común (padre frágil, vinculación proyectiva). Cumple holgadamente §2.1: monográfico ≥10 min sostenidos, channel-canonical (en whitelist), connectivity ≥3 (5+ páginas con wikilink roto). Promoción inmediata en su forma bootstrap; el cuerpo va en pending_updates como create_page.",
+          "quote_evidence": "La fenomenología de lo femenino está codificada en el mito lunar,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 80,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tres-figuras-femeninas-neutrales": {
+      "canonical_name": "doncella, consorte, madre (tres figuras neutrales de lo femenino)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Las tres figuras neutrales son sub-componentes estructurales del mito lunar y se desarrollan dentro de esa página. No requieren páginas independientes: forman la taxonomía interna del lunar. Si en barridos futuros aparecen tratamientos monográficos dedicados a una sola figura (ej. la doncella en muchos vídeos como concepto autónomo), considerar promoción individual.",
+          "quote_evidence": "Las tres figuras neutrales de lo femenino: doncella, consorte y madre"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sindrome-de-wendy": {
+      "canonical_name": "Wendy (síndrome)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "central_thesis",
+          "minutes": 60,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Wendy aparece tratada extensamente pero su contenido se integra en (a) la nueva página mito-lunar como corrupción doncella→consorte y (b) anima-archetype donde ya hay material denso sobre síndrome de Wendy desde Peter Pan, Drácula y Scott Pilgrim. Crear página propia para 'síndrome de Wendy' duplicaría material. Si en futuro se acumula corpus específicamente clínico-aplicado sobre Wendy (no narrativo), valorar promoción.",
+          "quote_evidence": "Wendy surge cuando la princesa empieza a sentir la necesidad de ser deseada y amada,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 60,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ninfa-arquetipica": {
+      "canonical_name": "ninfa (corrupción de la consorte)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Ninfa ya tiene tratamiento sustantivo en anima-archetype (incluye 'ninfotipia como tipología caracterológica estable' desde Madres e Hijas y la mutación Wendy→ninfa desde Peter Pan). El nuevo material aquí (criterio diagnóstico ninfa vs Wendy, simetría con sátiro/Pan) se integra en la página mito-lunar bajo corrupciones de la consorte. No requiere página propia.",
+          "quote_evidence": "La ninfa se convierte a sí misma en objeto de deseo en lugar de ser mitad de un todo armónico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "medea-arquetipica": {
+      "canonical_name": "Medea (corrupción de la madre)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Medea como corrupción arquetípica de la madre se integra en mito-lunar como tercera corrupción del arco lunar. La afirmación canal-específica más fuerte ('no existe contraparte masculina genuina; núcleo genuinamente femenino') es valiosa pero queda capturada en la sección correspondiente de mito-lunar. Si en futuros vídeos aparece tratamiento monográfico (ej. análisis de obra centrada en Medea: La Tragedia de Eurípides, Madea moderna, etc.), promover.",
+          "quote_evidence": "Medea: la corrupción más terrible de lo femenino"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mgtow": {
+      "canonical_name": "MGTOW",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "MGTOW aparece como ilustración del varón con padre frágil dañado por experiencias con ninfas. Comentario coyuntural sin desarrollo arquetípico propio. Si en futuro hay análisis monográfico del fenómeno como categoría cultural, promover; ahora va integrado en mito-lunar como nota etiológica del polo masculino simétrico.",
+          "quote_evidence": "Los MGTOW son hombres muy dañados por experiencias con ninfas: buscan la madre que no tuvieron,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "friends-serie": {
+      "canonical_name": "Friends (serie)",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención puntual al final del directo: 'Friends contiene las cuatro formas de la feminidad y las tres formas de lo masculino'. Sin análisis sustantivo, ejemplo ilustrativo. Por debajo del bar §2.3 (sin ≥30 min monográficos ni connectivity ≥3 ni cross-thematic en ≥4 vídeos confirmado).",
+          "quote_evidence": "Friends contiene las cuatro formas de la feminidad y las tres formas de lo masculino,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "como-conoci-a-vuestra-madre": {
+      "canonical_name": "Cómo conocí a vuestra madre (serie)",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención puntual como contraejemplo (autotipia desprendida del contenido prototípico). Sin análisis sustantivo. Por debajo del bar §2.3.",
+          "quote_evidence": "Los personajes de Cómo conocí a vuestra madre son patológicamente infantiles y simplones,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "atenea": {
+      "canonical_name": "Atenea",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Atenea aparece nombrada como prototipo arquetípico de la doncella ('figura femenina independiente, excindida del padre'). Mención breve sin desarrollo sustantivo. Queda capturada como cita literal dentro de la sección Doncella en mito-lunar.",
+          "quote_evidence": "Atenea es prototipo de la doncella: figura femenina independiente, excindida del padre,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "síndrome de Munchausen por poder": {
+      "canonical_name": "síndrome de Munchausen por poder",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Incluye el síndrome de Munchausen por poder y usar a los niños contra el padre,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "campanilla (Tinkerbell)": {
+      "canonical_name": "campanilla (Tinkerbell)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Campanilla busca intensidad y deseo; Wendy busca un vínculo seguro,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "evento canónico masculino: ruptura con la madre": {
+      "canonical_name": "evento canónico masculino: ruptura con la madre",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El evento canónico de cualquier hombre es la ruptura con la madre,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "chomsky-noam": {
+      "canonical_name": "Chomsky",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Chomsky figura en canonical_whitelist como soft (auto_promote:false). El tratamiento aquí es sustantivo (el canal evalúa su tesis y propone refinamiento: 'pregramática universal'), pero solo se cumple un criterio del gate ANY-OF de §2.2 (whitelist canónica). Falta recurrencia ≥3 vídeos o ≥10 min monográficos. Acumular para batches futuros.",
+          "quote_evidence": "Chomsky: correcta la capacidad innata, pero habría que hablar de pregramática universal más que gramática universal,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "heidegger-martin": {
+      "canonical_name": "Heidegger",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Heidegger figura en canonical_whitelist como soft. Aquí solo aparece para refutar puntualmente su tesis 'solo hay mundo donde hay lenguaje'. No hay desarrollo del marco heideggeriano. Por debajo del umbral del gate ANY-OF para soft. Acumular.",
+          "quote_evidence": "\"Solo hay mundo donde hay lenguaje\" (Heidegger): confunde mundo representacional con mundo lingüístico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "sapir-whorf-relativismo-linguistico": {
+      "canonical_name": "Sapir-Whorf",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "central_thesis",
+          "minutes": 30,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Sapir-Whorf es el foil central del directo, pero el canal lo trata para refutarlo, no para articularlo como marco propio ni como referencia recurrente positiva. No figura en whitelist. Sin recurrencia confirmada en otros vídeos, no cumple criterios §2.1. La crítica al relativismo lingüístico forma parte de la tesis del canal sobre lenguaje y cabe mejor en esa página author_thesis si se promueve.",
+          "quote_evidence": "Sapir-Whorf (relativismo lingüístico): incorrecto, las diferencias lingüísticas reflejan experiencias, no las causan,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 30,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "programacion-neurolinguistica": {
+      "canonical_name": "PNL",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "PNL aparece como uno de los tres postulados a desmontar pero el tratamiento es de refutación puntual. Sin presencia en otros vídeos confirmada y sin marco aplicado, no cumple criterios §2.1. Pseudociencia descartada por el canal — no merece página propia.",
+          "quote_evidence": "La PNL pretende reprogramar el interior modificando el lenguaje, pero el lenguaje solo puede evocar lo que ya existe internamente,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "skinner-bf": {
+      "canonical_name": "Skinner",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Skinner aparece en el catálogo de teorías evaluadas (de las más erróneas a las más correctas) con tratamiento mínimo. No figura en whitelist. No cumple criterios §2.2.",
+          "quote_evidence": "Skinner (conductismo): confunde aprendizaje del idioma con aprendizaje del lenguaje,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "piaget-jean": {
+      "canonical_name": "Piaget",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Piaget en el catálogo de teorías con tratamiento mínimo y juicio ambivalente. No figura en whitelist. No cumple criterios §2.2.",
+          "quote_evidence": "Piaget: correcto que el lenguaje se desarrolla por fases pero tan genérico que no aporta nada sustantivo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "vygotsky-lev": {
+      "canonical_name": "Vygotsky",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Vygotsky en el catálogo de teorías evaluadas con tratamiento puntual. No figura en whitelist. No cumple criterios §2.2.",
+          "quote_evidence": "Vygotsky: correcto que el contexto social importa, pero reduce demasiado el lenguaje a pragmática,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "halliday-michael": {
+      "canonical_name": "Halliday",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Halliday aparece en el catálogo de teorías con tratamiento mínimo. No figura en whitelist. No cumple criterios §2.2.",
+          "quote_evidence": "Halliday: correcto que el lenguaje cumple función social, pero los primeros lenguajes transmitían representaciones afectivas urgentes,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "fodor-jerry": {
+      "canonical_name": "Modularismo de Fodor",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Fodor aparece en el catálogo de teorías como evaluación puntual del modularismo. No figura en whitelist. No cumple criterios §2.2.",
+          "quote_evidence": "Modularismo de Fodor: correcto que hay módulos especializados, pero las representaciones exceden con mucho el lenguaje y son globales,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "caso-genie": {
+      "canonical_name": "Genie",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "El caso de Genie aparece como ilustración del argumento 'representación sin lenguaje', no como tema desarrollado. Sin recurrencia en otros vídeos confirmada, no cumple criterios §2.1.",
+          "quote_evidence": "Representación sin lenguaje: el caso de Genie y las componentes innatas"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el ejemplo de \"mena\"": {
+      "canonical_name": "el ejemplo de \"mena\"",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El ejemplo de \"mena\": pasó de término de la izquierda a término asociado a la extrema derecha,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Dasein": {
+      "canonical_name": "Dasein",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los japoneses no tienen verbo ser pero comprenden perfectamente la filosofía del Dasein,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "afasia de Wernicke / afasia de Broca / TEL / disfasia / glosolalia": {
+      "canonical_name": "afasia de Wernicke / afasia de Broca / TEL / disfasia / glosolalia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Disfasia y afasia: las claves contra el relativismo lingüístico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "neuronas espejo": {
+      "canonical_name": "neuronas espejo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las neuronas espejo son un constructo teórico, no un conjunto neuronal real,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "woolf-cliff": {
+      "canonical_name": "Cliff Woolf",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Cliff Woolf es referencia técnica neurocientífica usada para sustentar la distinción nocicepción/dolor de la tesis del canal. No figura en whitelist. Su trabajo es referencia empírica puntual, no marco aplicado al corpus arquetípico de Ariadna. Por debajo del bar de §2.2 — fuera del alcance editorial §1 (neurociencia básica no entra en dominios whitelisted).",
+          "quote_evidence": "Cliff Woolf descubrió que al dañar la piel de ratas aparecía hiperalgesia no solo en la zona dañada sino en tejido sano circundante,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tononi-giulio": {
+      "canonical_name": "Tononi (Teoría de información integrada, IIT)",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Tononi aparece en una crítica puntual a la IIT en el contexto de filosofía de la mente. No figura en whitelist. Tratamiento breve y refutativo, no marco aplicado. Por debajo del bar §2.2.",
+          "quote_evidence": "La teoría de información integrada de Tononi explica la conciencia por la complejidad de la red, pero no resuelve el hard problem tanto como parece,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "teleosemantica": {
+      "canonical_name": "teleosemántica",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Teleosemántica funciona como marco filosófico aplicado por el canal sin ser objeto monográfico. Sin recurrencia confirmada en otros vídeos como tema dedicado, no cumple §2.1. Su contenido relevante queda absorbido en la tesis-marco del canal sobre representación (thesis_candidate).",
+          "quote_evidence": "Son las variaciones lo que genera representaciones, no la realidad estática,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "valencias-afectivas-siete": {
+      "canonical_name": "valencias afectivas (siete valencias del canal)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "central_thesis",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Concepto canal-específico altamente articulado (clasificación propia de las siete valencias afectivas con función teleosemántica), pero el desarrollo aquí es local a la tesis sobre dolor/sufrimiento y la enumeración completa de las siete valencias no aparece en este summary. Forma parte estructural de la thesis_candidate sobre representación afectiva. Si en barridos futuros aparece tratamiento monográfico (≥1 vídeo dedicado a enumerar y desarrollar las siete valencias), promover a página propia tipo concept con weight canonical en relations[] desde la página de la tesis.",
+          "quote_evidence": "No existen valencias positivas o negativas en sentido estricto; hay siete valencias afectivas cada una con función propia,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "modelo-biomedico-vs-biopsicosocial": {
+      "canonical_name": "modelo biomédico vs biopsicosocial",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Crítica del canal a ambos modelos en el contexto de la tesis sobre dolor. Sin recurrencia confirmada en otros vídeos, no cumple §2.1. El argumento queda absorbido en la thesis_candidate. Si aparece monográfico futuro sobre epistemología clínica, promover.",
+          "quote_evidence": "Modelo biomédico versus biopsicosocial: problemas de ambos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sublimacion": {
+      "canonical_name": "sublimación",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención puntual a la sublimación freudiana en una analogía con el sufrimiento. Sin desarrollo sostenido. Por debajo del bar §2.1.",
+          "quote_evidence": "La sublimación convierte un sufrimiento psíquico difuso sin objeto en uno con objeto, más explícito y manejable,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "magenta como representación no perceptiva": {
+      "canonical_name": "magenta como representación no perceptiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El magenta no tiene longitud de onda propia en el espectro visible: no se puede percibir porque no existe como estímulo físico,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "homúnculo somatosensorial": {
+      "canonical_name": "homúnculo somatosensorial",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El cuerpo prioriza sensibilidad en manos, boca y pies sobre zonas como la espalda, que tiene representación muy pequeña en el homúnculo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "wind-up / alodinia / hiperalgesia / sensibilización central": {
+      "canonical_name": "wind-up / alodinia / hiperalgesia / sensibilización central",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El wind-up es el fenómeno por el cual la neurona postsináptica responde cada vez más ante exactamente el mismo estímulo periférico repetido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trastornos somatoformes / somatic symptom disorder / bodily distress disorder": {
+      "canonical_name": "trastornos somatoformes / somatic symptom disorder / bodily distress disorder",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Los antiguos trastornos somatoformes han sido reclasificados como somatic symptom disorders en la clasificación de la OMS,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "gabapentina y pregabalina": {
+      "canonical_name": "gabapentina y pregabalina",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La gabapentina y pregabalina intentan reemplazar la función de neuronas gabaérgicas dañadas por citotoxicidad del glutamato,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "crisis del fentanilo en Estados Unidos": {
+      "canonical_name": "crisis del fentanilo en Estados Unidos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El modelo biomédico causó exceso de medicalización, intervencionismo y la crisis del fentanilo en Estados Unidos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b010",
+  "items": [
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "07:50",
+        "block_topic": "La obsesión progresista con el CI como síntoma de acomplejo",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Comentario coyuntural sobre 'el fenómeno progresista' / 'izquierda postmoderna'. Polémica ideológica actual sin valor enciclopédico arquetípico. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "09:21",
+        "block_topic": "Proyecto de grafo 3D para mapear redes de conciencia",
+        "pattern_matched": "scope_md_§3:meta_canal",
+        "scope": "block",
+        "reason": "Petición de colaboración técnica para herramienta del canal (renderizado 3D de grafos en Obsidian). Meta-canal sin contenido temático. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "14:54",
+        "block_topic": "Elisa Mouliaá y la falacia del CI como argumento de autoridad",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Polémica tuitera coyuntural sobre figura pública española (actriz). Comentario personal sin valor enciclopédico. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "21:34",
+        "block_topic": "Escala real del cociente intelectual: qué significan los números",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Divulgación psicométrica básica (qué significa CI 100, 130, 150). Material clínico-divulgativo sin componente arquetípico ni teórico-junguiano. Fuera de los dominios prioritarios del wiki §1."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "23:34",
+        "block_topic": "El CI como predictor psicométrico vs inteligencia general",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Posición del canal sobre psicometría — capturada en discarded[] como cross-validation del thesis_candidate sobre representación. El bloque mismo es psicometría técnica fuera del foco §1."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "24:35",
+        "block_topic": "El TDAH como distorsionador del CI",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Discusión clínica sobre TDAH y métricas de inteligencia. Fuera del foco arquetípico §1. Argumento epistemológico capturado en discarded[]."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "26:35",
+        "block_topic": "Cociente vs coeficiente intelectual: aclaración terminológica",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Aclaración lexicográfica puntual. Sin contenido conceptual."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "27:06",
+        "block_topic": "Los genios de 150-160 y problemas de personalidad",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Comentario divulgativo sobre correlatos psicopatológicos del CI muy alto. Fuera del foco §1."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "29:39",
+        "block_topic": "Las inteligencias múltiples de Gardner como pseudociencia",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Crítica refutativa de Gardner. Capturada en entities[] como discard. El bloque mismo es psicometría técnica fuera del foco §1."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "33:11",
+        "block_topic": "La inteligencia no te hace pensar mejor ni te hace más feliz",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Comentario divulgativo sobre la relación inteligencia-felicidad. Sin desarrollo arquetípico o cognitivista propio."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "34:12",
+        "block_topic": "La inteligencia como factor de desadaptación: la trampa de la curva normal",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Tesis del canal sobre desadaptación por desviación de la media — psicometría aplicada, fuera del foco arquetípico §1. Material capturado parcialmente en discarded."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "35:43",
+        "block_topic": "La capacidad de adaptación como verdadero predictor de éxito",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Material sobre adaptación y psicopatía capturado en discarded[]. Bloque mismo fuera del foco §1."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "38:45",
+        "block_topic": "Capacidad social vs inteligencia: el ejemplo de Javi Oliveira",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Ilustración del argumento mediante figuras públicas españolas (Javi Oliveira, Planas). Comentario personal coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "43:52",
+        "block_topic": "Por qué Elisa cree que 118 es un CI alto",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Vuelta al caso Elisa Mouliaá. Comentario personal coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "48:59",
+        "block_topic": "Test de matrices de Raven vs escalas Wechsler",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Comparación de instrumentos psicométricos clínicos. Fuera del foco arquetípico §1."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "52:31",
+        "block_topic": "El feminismo no ha resuelto el problema del trauma real en mujeres maltratadas",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Comentario ideológico-político sobre el feminismo institucional. Fuera de alcance §3 (política coyuntural / ideología contemporánea)."
+      }
+    },
+    {
+      "from_video": "6tfSc45kjyo",
+      "block": {
+        "timestamp_start": "1:01:44",
+        "block_topic": "La adaptación como factor determinante a largo plazo",
+        "pattern_matched": "scope_md_§1:fuera_de_dominios_whitelisted",
+        "scope": "block",
+        "reason": "Continuación del argumento sobre adaptación + psicopatía como espectro. Fuera del foco arquetípico §1."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "04:42",
+        "block_topic": "Testimonio directo desde la zona cero de la DANA en Valencia",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Crónica directa de evento meteorológico-político actual (DANA Valencia 2024). Cobertura de actualidad sin componente arquetípico ni teórico. Fuera del alcance editorial §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "07:13",
+        "block_topic": "Bloqueos policiales y conflicto de competencias en el acceso a Valencia",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Gestión administrativa de la emergencia DANA. Actualidad coyuntural sin extracto enciclopédico. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "09:44",
+        "block_topic": "Ausencia de operativos de limpieza y emergencia en la zona afectada",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Crítica operativa a la respuesta institucional a la DANA. Actualidad coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "15:47",
+        "block_topic": "Por qué protestar en Ferraz y no en el Congreso",
+        "pattern_matched": "(?i)\\b(psoe)\\b",
+        "scope": "block",
+        "reason": "Análisis táctico de protesta política contra el PSOE. Match directo con topic_filters.json:exclude_patterns[0]. Coyuntural."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "17:17",
+        "block_topic": "El sistema no necesita legitimidad: inutilidad del abstencionismo",
+        "pattern_matched": "(?i)\\b(psoe)\\b",
+        "scope": "block",
+        "reason": "Crítica al PSOE y al Tribunal Constitucional como brazos del poder ejecutivo actual. Match directo con topic_filters.json. Coyuntural."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "22:20",
+        "block_topic": "El peligro de unas cortes constituyentes sin proyecto claro",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Discusión sobre proceso constituyente español hipotético, mención a Gisbert (figura del entorno disidente actual). Coyuntural político. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "24:21",
+        "block_topic": "Propuesta de taller constitucional con juristas",
+        "pattern_matched": "scope_md_§3:meta_canal",
+        "scope": "block",
+        "reason": "Anuncio de proyecto editorial del canal (invitar constitucionalistas). Meta-canal sin contenido temático. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "28:23",
+        "block_topic": "La actuación del rey frente a la del gobierno en Paiporta",
+        "pattern_matched": "(?i)\\b(s[aá]nchez)\\b",
+        "scope": "block",
+        "reason": "Comentario de actualidad sobre la visita de Felipe VI, Sánchez y Mazón a Paiporta. Match directo con topic_filters.json. Coyuntural."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "29:53",
+        "block_topic": "Defensa de la monarquía como institución",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Posicionamiento político sobre forma de Estado actual. Coyuntural sin componente arquetípico. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "31:24",
+        "block_topic": "Sánchez canaliza las ayudas a Valencia a través de los presupuestos generales",
+        "pattern_matched": "(?i)\\b(s[aá]nchez)\\b",
+        "scope": "block",
+        "reason": "Análisis de táctica presupuestaria del gobierno actual. Match directo con topic_filters.json. Coyuntural."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "36:33",
+        "block_topic": "Moncloa montó la operación Broncano para desactivar a Pablo Motos",
+        "pattern_matched": "(?i)\\b(psoe)\\b",
+        "scope": "block",
+        "reason": "Polémica televisiva actual sobre RTVE y la nueva doctrina del PSOE. Match directo con topic_filters.json. Coyuntural."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "40:06",
+        "block_topic": "Decretazo para controlar RTVE",
+        "pattern_matched": "(?i)\\b(pp)\\b",
+        "scope": "block",
+        "reason": "Análisis legislativo coyuntural sobre RTVE con referencia a actuación del PP en 2012. Match directo con topic_filters.json. Coyuntural."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "42:07",
+        "block_topic": "Caso de la denunciante de Rejón: autodestrucción en directo",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Comentario sobre caso judicial mediático actual. Coyuntural sin componente arquetípico. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "48:10",
+        "block_topic": "El dogmatismo climático como arma política tras la DANA",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Polémica de tertulia sobre cambio climático, victoria de Trump y DANA. Coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "55:17",
+        "block_topic": "El Constitucional avala retroactivamente el confinamiento con estado de alarma",
+        "pattern_matched": "(?i)\\b(psoe)\\b",
+        "scope": "block",
+        "reason": "Análisis jurídico-político de sentencia del TC sobre estado de alarma. Match directo con topic_filters.json. Coyuntural."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:04:21",
+        "block_topic": "Mr. Jagger equipara a voluntarios de la DANA con nazis",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Polémica tuitera coyuntural sobre voluntariado en la DANA. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:07:24",
+        "block_topic": "La Confederación Hidrográfica del Júcar avisó de la crecida por email",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Crítica administrativa a la gestión técnica de la emergencia DANA. Coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:11:55",
+        "block_topic": "Propuestas de acción ciudadana: insumisión fiscal y protesta directa",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Estrategia política coyuntural con referencia a Pablo Iglesias. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:29:13",
+        "block_topic": "Las donaciones no anónimas como supuesta propaganda",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Polémica tuitera sobre donaciones a víctimas de la DANA. Coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:30:44",
+        "block_topic": "Caso de Hamburgo y el delirio de Lara sobre víctimas",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Polémica jurídica internacional puntual + comentario sobre figura mediática (Lara). Coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:37:25",
+        "block_topic": "Neo-puritanismo sexual: prácticas consensuadas como ilegítimas",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Polémica tuitera sobre autonomía sexual. Comentario coyuntural sin desarrollo conceptual sustantivo. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:41:26",
+        "block_topic": "Psicóloga de redes que no entiende la psicología masculina",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Crítica puntual a una figura mediática de redes. Sin desarrollo conceptual sobre psicología masculina/femenina como marco. Coyuntural. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:42:57",
+        "block_topic": "Debate UTBH vs Fonsi Loaiza: ocupación, vivienda y demagogia",
+        "pattern_matched": "scope_md_§3:política_española_coyuntural",
+        "scope": "block",
+        "reason": "Análisis de debate televisivo coyuntural sobre vivienda y ocupación. Sin componente arquetípico. Fuera de alcance §3."
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "timestamp_start": "1:59:10",
+        "block_topic": "Anuncio de próximos streams: cuentos de Lovecraft y filosofía de la mente",
+        "pattern_matched": "scope_md_§3:meta_canal",
+        "scope": "block",
+        "reason": "Programación de futuros directos. Meta-canal. Fuera de alcance §3. Las menciones puntuales (Lovecraft, libro propio, filosofía de la mente) van a discarded[] como passing_mention."
+      }
+    }
+  ]
+}
