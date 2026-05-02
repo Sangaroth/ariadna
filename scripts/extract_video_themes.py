@@ -710,8 +710,27 @@ def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dic
         errors.append(f"JSON parse failed: {e}")
         return None, errors
 
-    # Verificación de quote_evidence literal (regla dura #1)
-    summary = video.summary_text
+    # Verificación de quote_evidence literal (regla dura #1).
+    #
+    # Política 2026-05-02: el LLM ve dos fuentes legítimas en el user_message:
+    # (a) la cabecera de metadata (title, playlist, category, etc.) y
+    # (b) el cuerpo de ## summary.md.
+    # Ambas son válidas como `quote_evidence` literal. Solo rechazamos quotes
+    # que no aparezcan en NINGUNA de las dos (signal de paráfrasis o
+    # alucinación del LLM).
+    searchable = "\n".join(
+        [
+            video.summary_text,
+            video.video_id,
+            video.title,
+            video.playlist,
+            video.slug,
+            video.category,
+            str(video.duration_s),
+            video.upload_date,
+            video.url,
+        ]
+    )
 
     def check_literal(quote, where: str) -> None:
         # Defensa de tipos: aceptar str o list[str], coercer otros tipos
@@ -727,8 +746,8 @@ def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dic
             errors.append(f"quote_evidence tipo inesperado ({type(quote).__name__}) @ {where}")
             return
         for q in quotes:
-            if q not in summary:
-                errors.append(f"quote_evidence not literal in summary @ {where}: {q[:80]!r}")
+            if q not in searchable:
+                errors.append(f"quote_evidence not literal in summary OR metadata @ {where}: {q[:80]!r}")
 
     for ent in data.get("entities", []) or []:
         check_literal(ent.get("quote_evidence"), f"entities[{ent.get('canonical_guess','?')}]")
