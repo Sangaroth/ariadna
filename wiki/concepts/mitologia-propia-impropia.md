@@ -5,31 +5,34 @@ canonical_name: Mitología propia vs impropia
 aliases:
 - mitologia propia
 - mitologia impropia
-- mitología propia
-- mitología impropia
 - mito propio
 - mito impropio
-- mitologia propia vs impropia
+- mitología propia e impropia
 domain_primary: humanities.religion
 primary_domains:
 - humanities.religion
-- humanities.literature
 - interdisciplinary.cultural_studies
+- humanities.philosophy
 relations:
-- type: exemplified_by
+- type: developed
   to: lovecraft-howard
   weight: canonical
-  note: 'Lovecraft es el caso paradigmático de mitología propia: ficción de terror
-    construida sabiéndose mito'
+  note: 'Lovecraft es el caso paradigmático del canal para mitología propia: ficción
+    deliberada que se sabe mito'
 - type: compared_with
   to: mito-moderno-en-proxy
   weight: strong
-  note: 'la distinción propia/impropia organiza la lectura del canal sobre los mitos
-    modernos: cuáles se reconocen como mito y cuáles operan invisibles'
+  note: la distinción propia/impropia organiza la lectura del canal sobre qué mitos
+    modernos operan conscientemente como tales y cuáles no
+- type: exemplified_by
+  to: lovecraft-howard
+  note: Lovecraft inventa un género nuevo construyendo un mito que se reconoce a sí
+    mismo como invención
 - type: references
   to: consumismo-critica
-  note: la democracia y otras categorías políticas funcionan como mitologías impropias
-    en la crítica cultural del canal
+  weight: weak
+  note: el ejemplo de la democracia como mitología impropia se conecta con la crítica
+    del canal a constructos culturales que no se reconocen como míticos
 sources_count: 1
 schema_version: 1.0.0
 review_status: stub_in_session
@@ -40,58 +43,51 @@ status: stub_in_session
 
 ## Definición
 
-Distinción canal-específica que clasifica los mitos según el grado de auto-reconocimiento de su naturaleza mítica. Una mitología es **propia** cuando se construye sabiéndose ficción mitológica; es **impropia** cuando opera como mito sin reconocerse como tal — circulando con estatuto de realidad.
+Distinción canal-específica que organiza buena parte de la lectura del corpus sobre cómo opera el mito en la cultura. La **mitología propia** es ficción construida sabiéndose ficción: el autor (y, eventualmente, su lector) reconoce que está fabricando mito. La **mitología impropia** es el mito que no se reconoce a sí mismo como mito: opera como verdad asumida, no como construcción simbólica.
 
-> "Lovecraft hace mitología en sentido propio: mito construido sabiendo que es un mito,"
+> "Lovecraft hace mitología en sentido propio: mito construido sabiendo que es un mito"
 → [Otoño de cuentos. Lovecraft (09:41)](https://youtu.be/SwEqFdvBI9M?t=581)
 
-> "Mitología impropia es aquella que no se reconoce como mitología (ej. democracia),"
+> "Mitología impropia es aquella que no se reconoce como mitología (ej. democracia)"
 → [Otoño de cuentos. Lovecraft (09:41)](https://youtu.be/SwEqFdvBI9M?t=581)
 
-La distinción no es valorativa en abstracto — el canal no privilegia automáticamente la propia sobre la impropia — sino estructural: nombra qué tipo de operación simbólica está en juego en cada caso.
+La distinción no es de calidad ni de verdad: ambas son mitologías reales en su efecto cultural. Lo que cambia es el grado de **conciencia** sobre el carácter mítico del constructo.
 
-## Lovecraft como caso canónico de mitología propia
+## Lovecraft como caso paradigmático de mitología propia
 
-El tratamiento sostenido del corpus presenta a [[lovecraft-howard]] como el ejemplo paradigmático de mitología propia consciente: ficción deliberada que articula un cosmos mítico nuevo sin pretender pasar por revelación o por descripción de lo real.
+El canal sitúa a [[lovecraft-howard]] como ejemplo central de mito propio: un autor que articula deliberadamente un panteón, una cosmología y un libro sagrado ficticio (el Necronomicón) sin pretender que ninguna de esas piezas tenga existencia previa al texto.
 
-> "Lovecraft interesa psicológica, mitológica y filosóficamente,"
+> "Lovecraft interesa psicológica, mitológica y filosóficamente"
 → [Otoño de cuentos. Lovecraft (08:40)](https://youtu.be/SwEqFdvBI9M?t=520)
 
-> "Lovecraft inventó un género de terror nuevo que se extendió hasta nuestros días,"
+> "Lovecraft inventó un género de terror nuevo que se extendió hasta nuestros días"
 → [Otoño de cuentos. Lovecraft (09:41)](https://youtu.be/SwEqFdvBI9M?t=581)
 
-El Necronomicón funciona como pieza central de esa mitología propia — un libro inventado dentro de la ficción que organiza un cuerpo coherente de relatos:
-
-> "El Necronomicón es el libro que articula el centro de los relatos de terror de Lovecraft,"
-→ [Otoño de cuentos. Lovecraft (1:05:01)](https://youtu.be/SwEqFdvBI9M?t=3901)
+La fuerza del caso lovecraftiano está en que la conciencia del mito como construcción no le resta potencia simbólica: el Necronomicón funciona como eje articulador de toda una mitología precisamente porque está construido para eso, no a pesar de estarlo.
 
 ## Mitología impropia: el mito que no se sabe mito
 
-La categoría inversa describe construcciones simbólicas que operan míticamente sin presentarse como tales. El ejemplo señalado por el canal es la **democracia** como mitología impropia — no porque sea falsa o verdadera políticamente, sino porque circula con estatuto de hecho cuando opera como narrativa fundacional simbólica.
+El ejemplo del canal es la democracia: un dispositivo cultural que funciona como mito —ofrece narrativa fundacional, reparto de roles, liturgia, escatología— pero que rara vez es leído por sus participantes como construcción mítica. La mitología impropia es la que el lector contemporáneo habita sin reconocer.
 
-Esta categoría conecta con la lectura del canal sobre los [[mito-moderno-en-proxy|mitos modernos]] y sobre el [[consumismo-critica|consumismo como mito moderno impropio]]: relatos que estructuran la experiencia colectiva sin que el colectivo los reconozca como ficciones organizadoras.
+Esta lectura conecta con la crítica del canal a los constructos modernos que ocupan el lugar del mito sin reclamar para sí esa categoría, hilo que también atraviesa [[mito-moderno-en-proxy]] y [[consumismo-critica]].
 
-## Implicaciones para la lectura del corpus
+## Por qué importa la distinción
 
-La distinción opera como filtro analítico recurrente cuando el canal aborda obras de ficción y construcciones culturales. Frente a una obra, la pregunta no es solo qué arquetipos moviliza, sino si la obra **sabe** que está construyendo mito (propia) o si pretende otra cosa que de hecho funciona míticamente (impropia).
+La propia/impropia no es taxonomía neutral: es **diagnóstico cultural**. Permite preguntar de cualquier producción simbólica si su autor (y su público) saben que están haciendo mito o creen que están haciendo otra cosa (ciencia, política, entretenimiento, sentido común). El canal usa esta vara para distinguir mitos modernos vivos —los que operan con conciencia de su densidad simbólica— de mitos modernos opacos, que ejercen efecto mítico sin que nadie lo nombre como tal.
 
-En las noches de cuentos lovecraftianas, el canal subraya por qué el caso interesa específicamente:
+## La autorreferencialidad de los mitos propios
 
-> "Las noches de cuentos son monotemáticas: siempre se lee Lovecraft,"
-→ [Otoño de cuentos. Lovecraft (08:40)](https://youtu.be/SwEqFdvBI9M?t=520)
+En el análisis del Génesis tolkieniano el canal añade una dimensión cognitiva a la distinción: los mitos propios funcionan estructuralmente como las representaciones mentales mismas — son autorreferenciales. Donde el mito impropio se presenta como verdad ya dada, el mito propio refleja la operación de la mente que genera ideas. "Hágase la luz" tiene la misma estructura que la síntesis representacional: paso del silencio al sentido, de lo no-articulado a lo articulado.
 
-La lectura íntegra y reiterada del corpus lovecraftiano es práctica del canal precisamente porque encarna el caso límite de mitología propia consciente — ficción que se sabe ficción y que aun así genera un cosmos simbólico funcional.
+> "Las metáforas mitológicas de los mitos propios son autorreferenciales porque las representaciones mentales también lo son."
+→ [el Génesis en Tolkien (Parte 1), 35:38](https://youtu.be/s6teBboDDJ4?t=2138)
+
+Esto arroja luz sobre por qué los autores que construyen mitos propios — como [[lovecraft-howard]] y [[tolkien-jrr]] — pueden producir piezas con tanta potencia simbólica: están reproduciendo, en escala literaria, la dinámica básica de la cognición humana al generar sentido a partir del vacío representacional. La conexión enlaza esta página con el [[genesis-mitologico|Génesis arquetípico]] como concepto-bisagra entre mitología y representación mental.
 
 ## Lagunas
 
-- El corpus enuncia la distinción y nombra sus dos polos pero no desarrolla en este fragmento una tipología fina de mitologías impropias más allá del ejemplo de la democracia
-- Falta articulación explícita sobre los casos intermedios o ambiguos: obras que oscilan entre saber-se mito y pretender otra cosa
-- No se aborda aquí el papel del lector/espectador en activar una mitología como propia o impropia (¿depende del autor o de la recepción?)
-- Tradiciones míticas no occidentales (dao, mesoamericano, hindú) ausentes en el material recuperado para esta distinción
+- (sin lagunas declaradas todavía)
 
 ## Citations
 
-
 - video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft
-- **Otoño de cuentos. Lovecraft** — chunks: [9:41](https://youtu.be/SwEqFdvBI9M?t=581)
-
