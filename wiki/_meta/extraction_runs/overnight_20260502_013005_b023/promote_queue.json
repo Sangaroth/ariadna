@@ -1,0 +1,93 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b023",
+  "items": [
+    {
+      "canonical_guess": "autotipo",
+      "from_video": "kEgjSN3uKy4",
+      "entity": {
+        "surface_form": "autotipia",
+        "canonical_guess": "autotipo",
+        "page_type": "concept",
+        "domain_primary_guess": "interdisciplinary.semiotics",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 25,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Las cuatro partes de la emulación de la fantasía son estereotipia, prototipia, arquetipia y autotipia"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Una simulación es algo indistinguible del original; una emulación solo reviste la forma estética-imaginaria del original"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": true,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Whitelist channel_specific_concepts (auto_promote:false, soft). Cumple ahora ≥1 criterio ANY-OF del gate §2.1: tratamiento monográfico sostenido (≥10 min) y framing-mark como marco aplicado dentro de un sistema cuádruple articulado por el propio canal. Ya tiene presencia en wiki existente: la página mito-moderno-en-proxy recoge 'autotipia onomástica' (Harry Potter) y deja explícita la laguna del mecanismo de degradación cultural que esta tipología cubre. La nueva página debe articular: (a) la definición de autotipia dentro del sistema cuádruple emulación-fantasía (estereotipia/prototipia/arquetipia/autotipia), (b) la distinción simulación/emulación como marco previo, (c) los casos del corpus (Harry Potter onomástica) y los nuevos (TikToks meta-simulación, madres Reborn, masking).",
+        "quote_evidence": "Las cuatro partes de la emulación de la fantasía son estereotipia, prototipia, arquetipia y autotipia"
+      }
+    },
+    {
+      "canonical_guess": "polaris-libro",
+      "from_video": "rLeMS4-XFrA",
+      "entity": {
+        "surface_form": "Polaris",
+        "canonical_guess": "polaris-libro",
+        "page_type": "entity_work",
+        "domain_primary_guess": "social.psychology.jungian",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 80,
+        "framing_marks": [
+          {
+            "mark_type": "self_referenced_origin",
+            "quote_evidence": "El objetivo esencial del canal era tener una publicación propia sobre psicología arquetípica y filosofía"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "\"Reconstrucción arquetípica de lo masculino y femenino\""
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3 'caso canónico recurrente': el libro es la articulación canónica del concepto mito-polar y de la sistematización arquetípica del canal. Vídeo monográfico de 111 min dedicado a su presentación. Tres ediciones con maquetación íntegramente del autor (artefacto editorial estable). Polaris es el referente de origen del canal mismo: 'el primer objetivo del canal'.",
+        "quote_evidence": "Presentación de la nueva edición de Polaris"
+      }
+    },
+    {
+      "canonical_guess": "mito-lunar",
+      "from_video": "rLeMS4-XFrA",
+      "entity": {
+        "surface_form": "mito lunar",
+        "canonical_guess": "mito-lunar",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 25,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Las cuatro vidas del mito lunar son experiencias exclusivas de lo femenino, su privilegio arquetípico"
+          },
+          {
+            "mark_type": "foundational_invocation",
+            "quote_evidence": "Se presenta en aspectos trinitarios luminosos y oscuros, protagonista del mito lunar"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": true,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "canonical_whitelist channel_specific_concepts auto_promote:true. Tratamiento sustantivo (≥3 min) confirmado en este vídeo: cuatro vidas del lunar, mutabilidad femenina, triple diosa como protagonista del mito lunar. Es además wikilink roto referenciado desde 5+ páginas existentes (mito-polar, hieros-gamos, anima-archetype, mito-moderno-en-proxy, collective-unconscious).",
+        "quote_evidence": "Las cuatro vidas del mito lunar son experiencias exclusivas de lo femenino, su privilegio arquetípico"
+      }
+    }
+  ]
+}
