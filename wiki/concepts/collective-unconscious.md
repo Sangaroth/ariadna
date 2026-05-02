@@ -56,6 +56,26 @@ El canal articula explícitamente la convergencia entre Jung, Lévi-Strauss y la
 
 Esta convergencia desplaza el debate desde la metafísica neoplatónica (Jung mal leído) hacia la **psicología cognitiva estructural**: los arquetipos son hipótesis empíricas sobre la cognición, no entidades sobrenaturales.
 
+## Componentes representacionales innatas: la base cognitiva del arquetipo
+
+El canal articula con precisión cómo se estructura ese sustrato cognitivo: los arquetipos no son representaciones completas sino composiciones de **componentes representacionales innatos** que pueden inferirse aun en ausencia de lenguaje articulado.
+
+> "Las representaciones se dividen en componentes representacionales innatas. Se puede inferir qué categorías hay en la mente de alguien sin lenguaje conociendo sus componentes y su experiencia. Incluso cuando las categorías son solo afectivas, siguen siendo representaciones operativas."
+→ [El lenguaje no determina el pensamiento, 2:28:35](https://youtu.be/PWUUY7vVgUk?t=8315)
+
+De ahí la distinción operativa central del canal entre lo innato y lo aprendido en el aparato lingüístico-cognitivo:
+
+> "El cerebro evolucionó para hablar pero no para leer; lo innato es el lenguaje, lo aprendido es el idioma."
+→ [El lenguaje no determina el pensamiento, 1:02:52](https://youtu.be/PWUUY7vVgUk?t=3772)
+
+Esta arquitectura permite refutar el relativismo lingüístico fuerte (Sapir-Whorf) en su propio terreno empírico — el ejemplo canónico que el canal usa es el de los inuit y los supuestos tonos de blanco:
+
+> "Los inuit no perciben más tonos de blanco; tienen más palabras porque discriminan hechos relevantes para su supervivencia. La percepción y la cognición son idénticas; lo que cambia es la representación afectiva: la importancia cultural."
+→ [El lenguaje no determina el pensamiento, 1:10:28](https://youtu.be/PWUUY7vVgUk?t=4228)
+
+La diferencia entre culturas no es estructural sino afectiva: las representaciones son las mismas, lo que varía es la carga de importancia que la cultura asigna y que decide qué se segrega como entidad mental separada. Esto cierra el argumento contra la lectura metafísica del inconsciente colectivo: si los arquetipos son composiciones de componentes innatos modulados por afecto, no hace falta postular sustancia transpersonal alguna.
+
+
 ## Contenidos: los mitos primarios
 
 El inconsciente colectivo no contiene "imágenes" sueltas sino **estructuras mitológicas universales** identificables:
@@ -134,6 +154,23 @@ Estructura analítica del canal para desplegar el material arquetípico:
 → [¿Por qué el amor?, 1:02:47](https://youtu.be/Qui4WMSQ99k?t=3767)
 
 El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al monismo libidinal freudiano.
+
+## La naturaleza cognitiva de lo inconsciente: representaciones no experienciales
+
+El canal precisa el modo de operar de los contenidos inconscientes en términos cognitivos, no metafísicos:
+
+> "Confundir la representación con el pensamiento consciente vívido es un error común. Se pueden tener representaciones no experienciales: el inconsciente es exactamente eso. La metarrepresentación es la evocación voluntaria y atencional de un objeto mental, como concentrarse en algo. La representación va desde la metarrepresentación vivaz de alto nivel hasta cosas que ocurren sin que seamos conscientes, como la percepción de forma sobre fondo."
+→ [El papel de la psicología en la ciencia médica, 1:21:29](https://youtu.be/cbdLR0HTE3w?t=4889)
+
+La consecuencia para esta página es directa: los arquetipos del inconsciente colectivo no son imágenes ni símbolos almacenados en una capa profunda — son **representaciones no experienciales con función biológica propia**, composiciones de componentes innatos que operan sin que el yo las evoque atencionalmente. Cuando un arquetipo se hace consciente (en sueño, mito o análisis) lo que cambia no es su existencia sino su nivel: pasa de representación operante a metarrepresentación evocada.
+
+Esto encaja con el marco teleosemántico que el canal aplica al psiquismo en general:
+
+> "La mente no intenta poner en contacto al individuo con el exterior, sino con aquello del exterior que cambia. Son las variaciones lo que genera representaciones, no la realidad estática."
+→ [El papel de la psicología en la ciencia médica, 1:02:47](https://youtu.be/cbdLR0HTE3w?t=3767)
+
+Los contenidos del inconsciente colectivo son cognitivamente reales en el mismo sentido en que lo es la percepción de forma sobre fondo: estructuras innatas que segmentan el mundo afectivo-representacional sin requerir conciencia de su operar.
+
 
 ## Conexión con otros conceptos
 

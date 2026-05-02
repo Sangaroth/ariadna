@@ -1,0 +1,27 @@
+{
+  "applied_at": "2026-05-02T04:38:41+00:00",
+  "run_id": "overnight_20260502_013005_b010",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "collective-unconscious": {
+      "file_path": "wiki/concepts/collective-unconscious.md",
+      "updates_applied": 2,
+      "log": [
+        " [insert_after_passage] anchor='Esta convergencia desplaza el debate desde la meta' section=''",
+        "  + insert_after (1998 chars) tras anchor único",
+        " [insert_after_passage] anchor='El canal sigue a Jung en la **pluralidad de pulsio' section=''",
+        "  + insert_after (1850 chars) tras anchor único"
+      ]
+    }
+  }
+}
