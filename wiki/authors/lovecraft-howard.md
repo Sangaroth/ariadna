@@ -123,6 +123,17 @@ Lectura del canal sobre la arquitectura de la obra:
 - **"La extraña casa elevada entre la niebla"**: Thomas Olney sube al acantilado de Kingsport, encuentra al ermitaño barbudo, presencia la llegada de Neptuno y Nodens, y vuelve transformado — pierde toda inquietud y curiosidad y vive una vida monótona y resignada
   → [Aventuras Ignotas con Armesilla, 47:57](https://youtu.be/_S6kQYk9O98?t=2877)
 
+
+- **"En la cripta"**: George Birch, director de funeraria insensible y negligente, queda encerrado en una cripta y debe escalar usando los propios ataúdes para escapar; al pisar el de Asaf Sawyer (cuyos tobillos había cortado para que cupiera) algo le atrapa los pies. La venganza post mortem se impone — "ojo por ojo" — y Birch queda cojo de por vida con trauma psicológico permanente. El propio canal lo cita como ejemplo de los cuentos peor escritos del autor
+  → [Otoño de cuentos. Lovecraft, 25:49](https://youtu.be/SwEqFdvBI9M?t=1549)
+- **"El descendiente"**: Lord Northam, erudito londinense de linaje ancestral que rastrea su estirpe hasta un tribuno romano cuyo antepasado Gabinio accedió a una gruta donde gentes de una tierra hundida hacían ritos, busca toda su vida una puerta a dimensiones exteriores agotando religión, ocultismo y satanismo — termina aterrorizado, rechazando todo pensamiento profundo y huyendo de la realidad. Articula con el [[#El terror disforme y los límites del mito|terror disforme]] y conecta el linaje con el Necronomicón
+  → [Otoño de cuentos. Lovecraft, 52:44](https://youtu.be/SwEqFdvBI9M?t=3164)
+- **"Aire frío"**: el Dr. Muñoz, médico español que vive en frío constante (de 12 °C a 2 °C bajo cero), afirma que "la voluntad y la conciencia son más fuertes que la vida orgánica"; llevaba 18 años técnicamente muerto, conservado por refrigeración y voluntad. Al romperse la máquina el cuerpo colapsa y deja una nota confesando su estado. El deterioro progresivo (incienso egipcio, habitación que huele a sepulcro, crisis de epilepsia en un veterano de la Gran Guerra) ilustra la técnica lovecraftiana de lo monstruoso emergiendo en lo cotidiano
+  → [Otoño de cuentos. Lovecraft, 1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)
+- **"El modelo de Pickman"**: Richard Upton Pickman, el mayor pintor de Boston expulsado de los clubes por su arte morboso, distingue entre el arte fantástico superficial y el que capta "la anatomía real del terror"; teoriza que el North End conserva túneles, criptas y memorias de brujería auténtica (su antepasada fue ahorcada en Salem en 1692). En su sótano pinta criaturas caninas que se alimentan de humanos — los changelings crecen entre gules — con "objetividad científica". El giro final revela que Pickman pintaba **del natural**: las pinturas son fotografías retocadas, las criaturas son reales
+  → [Otoño de cuentos. Lovecraft, 1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)
+
+
 ## Influencia contemporánea identificada por el canal
 
 Lovecraft funciona en el corpus como **clave de lectura para obras posteriores**:
