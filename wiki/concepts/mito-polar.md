@@ -113,20 +113,6 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 > "El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve. La diosa blanca entrega una espada a lo masculino: **Yavanna concede a Manwë un juicio imposible sin lo femenino.**"
 → [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)
 
-
-Un análisis dedicado del Silmarillion explicita la cosmogonía polar tolkieniana en estructura cuádruple. El dipolo principal Aulë-Yavanna opera en el plano telúrico:
-
-> "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales)."
-→ [Leyendo El Silmarillion: Tolkien y el mal primario, 12:02](https://youtu.be/gDRkrg8dVCo?t=722)
-
-Y un segundo eje vertical lo completa con aire y agua:
-
-> "En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino. El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma. El agua es pasiva en tanto se adapta a la forma del recipiente, fluye sobre lo sólido y alberga la vida sin fabricarla."
-→ [Leyendo El Silmarillion, 13:32](https://youtu.be/gDRkrg8dVCo?t=812)
-
-La lectura del canal añade una asimetría estructural: el pleno intelecto consciente queda asignado solo al cuadrante masculino-telúrico (las criaturas de Aulë), mientras lo femenino-vegetal sostiene magia silvana pero alcanza como máximo a los pastores de árboles. Esa asimetría hace inevitable el sufrimiento de las criaturas de Yavanna ante las necesidades de los hijos de Aulë, y queda como motor narrativo de toda la cosmogonía. Análisis completo en [[el-silmarillion]] y en la página de autor [[tolkien-jrr]].
-
-
 ### Matrix: el mito polar del mago
 
 > "**Matrix es también un mito polar que habla de la dicotomía naturaleza-tecnología.** El arquitecto es lo masculino y el oráculo es lo femenino; la gente dentro de Matrix es producto de ambos. La anomalía sistémica de Matrix refleja el fallo sistémico heredado del mito del gólem."
@@ -136,20 +122,6 @@ La lectura del canal añade una asimetría estructural: el pleno intelecto consc
 
 > "La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal."
 → [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
-
-
-
-### Tarzán (Disney 1999): el polar como reconciliación de dos mundos
-
-Tarzán es lectura del polar entre el polo salvaje (la selva, la madre gorila, Kerchak) y el polo civilizado (el barco, los padres humanos, Clayton). Cada polo arrastra su propio mal interno y la reconciliación exige que ambos cedan:
-
-> "El padre tiene que morir para que el hijo comprenda que ha de ser el nuevo rey de ambos mundos. El sol recortado en la noche tras la lluvia simboliza al rey sol encabezando tanto el mundo solar como el lunar."
-→ [Tarzán, 1:40:28](https://youtu.be/Tviv4PT0dv8?t=6028)
-
-> "Las cuatro partes del mundo se reparten: la jungla es fuego (intensidad animal abandonada), el aire es lo que la diosa le enseñó a dominar, ella es agua y tierra. Dos mundos, una familia: lo salvaje y lo civilizado se disuelven porque dios y diosa están juntos; ya no hay dos mundos sino uno que pertenece a ambos."
-→ [Tarzán, 1:43:30](https://youtu.be/Tviv4PT0dv8?t=6210)
-
-El mal habita simétricamente en ambos polos — el leopardo en lo salvaje, Clayton en lo civilizado, ambos depredadores que matan por placer o por colección — y el cierre solo es posible mediante doble renuncia: Tarzán a la pertenencia exclusiva al polo salvaje, Jane al guante que cifra la barrera civilizatoria. La éxesis convierte el mundo en uno solo del que dios y diosa son reyes conjuntos. Análisis completo en [[tarzan-1999-film]].
 
 ## Conexión con otros conceptos
 

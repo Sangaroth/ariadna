@@ -86,29 +86,6 @@ Y desde el inicio de la película, el canal lee la canción como anunciación de
 > "Musicalmente representa que después de la ecatombe y la ruptura, vendrá la reconstrucción del hieros gamos y la Sagrada Familia. La Sagrada Familia es la tríada resultante del hieros gamos: lo masculino, lo femenino y el hijo."
 → [Tarzán, 07:42](https://youtu.be/Tviv4PT0dv8?t=462)
 
-
-A esa consumación final el canal le da estructura interna explícita. Los dones del polo femenino son tres y se distribuyen en los elementos no-ígneos:
-
-> "Las tres partes oscuras del porvenir (cielo, jungla, mar) corresponden a las tres partes del yo y a los tres dones de la diosa: gracia, esperanza y belleza como aire, tierra y agua. El único don del dios es el fuego; la diosa posee los tres dones restantes."
-→ [Tarzán, 20:22](https://youtu.be/Tviv4PT0dv8?t=1222)
-
-La asimetría (tres dones de la diosa, uno del dios) se cierra con el reparto cuádruple en la égersis: la jungla queda como fuego (la intensidad animal renunciada), el aire es lo que él aprendió a dominar, y ella retiene agua y tierra. Los cuatro elementos quedan repartidos sin que ninguno de los polos pierda lo suyo.
-
-El canal lee la progresión hacia el matrimonio sagrado a través del símbolo de las manos:
-
-> "Tarzán salva a Jane cogiéndola por los pies en lugar de por las manos, porque aún no distingue entre arriba y abajo, entre su parte inferior y superior. Los pies representan el encuentro en lo salvaje y el peligro; las manos representan el encuentro en la paz bajo la lluvia. Cuando sus manos se juntan, por primera vez las manos de Tarzán encajan en unas manos iguales a las suyas."
-→ [Tarzán, 1:09:42](https://youtu.be/Tviv4PT0dv8?t=4182)
-
-El cierre completa el símbolo: Jane se quita el guante para tocar la mano desnuda de Tarzán — la civilización renunciando a su barrera para que la unión sea entre iguales.
-
-Y añade una lectura sobre la coronación que precede la égersis: el dios solo accede al reinado sobre ambos mundos cuando muere el padre que lo retenía en el polo masculino puro:
-
-> "El padre tiene que morir para que el hijo comprenda que ha de ser el nuevo rey de ambos mundos. El sol recortado en la noche tras la lluvia simboliza al rey sol encabezando tanto el mundo solar como el lunar."
-→ [Tarzán, 1:40:28](https://youtu.be/Tviv4PT0dv8?t=6028)
-
-Tarzán solo puede reinar tras la caída tanto de Kerchak (padre salvaje) como de Clayton (padre civilizado, su sombra invertida): el polar exige que ambas figuras paternas cedan paso a la conjunción de los polos en el hijo.
-
-
 ### Enredados: hieros gamos a distancia (sin unión física)
 
 > "El hieros gamos se consigue antes de la unión física: ocurre en la distancia, cuando ambos renuncian y mantienen la esperanza. Las cuatro partes del yo (diosa, niña, dios, niño) se integran en familia sagrada al reunirse en el castillo. La historia nunca fue la de ella (la diosa siempre estaba destinada a renacer); siempre fue la de él como rey destinado."
