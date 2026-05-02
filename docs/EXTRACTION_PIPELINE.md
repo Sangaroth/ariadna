@@ -1,6 +1,6 @@
 # Pipeline push-based de extracción — Karpathy "LLM Wiki" en Ariadna
 
-> Estado al 2026-05-02. Este documento es la **fuente de verdad** sobre cómo se ingiere el corpus en la wiki, qué decide el extractor, cómo se aplica al filesystem, y cómo intervenir en cada punto del flujo.
+> ⚠️ **Estado al 2026-05-02 mediodía: REDISEÑO TRAS POSTMORTEM**. La versión inicial de este documento (mañana del 2026-05-02) describía un bucle `extract → apply diff → loop` que produjo golem en 100 vídeos procesados. El postmortem [`docs/POSTMORTEM_2026-05-02.md`](POSTMORTEM_2026-05-02.md) documenta el error de diseño: confundir "apply incremental" con "ingest Karpathy". El bucle correcto es **`extract → aggregate → COMPILE (rewrite coherente por página) → loop`**. Este documento refleja ya el rediseño.
 >
 > Doc autoritativo: cualquier referencia previa en `CORPUS_COVERAGE_STRATEGY.md`, `WIKI_GENERATION.md` o `NEXT_SESSION.md` que difiera de éste **queda superada por este**.
 
@@ -70,7 +70,7 @@ Adicionalmente, [`wiki/_meta/topic_filters.json`](../wiki/_meta/topic_filters.js
 
 ## 3. Pipeline end-to-end
 
-### 3.1 Diagrama del flujo
+### 3.1 Diagrama del flujo (CORREGIDO tras postmortem 2026-05-02)
 
 ```
 PER-SOURCE (1 vídeo):
@@ -80,12 +80,13 @@ PER-SOURCE (1 vídeo):
        ↓                 topic_filters + INDEX SLIM del wiki
        ↓ tool Read on-demand sobre file_path de páginas relevantes
        ↓
-  <video_id>.json — output JSON con:
-    - entities[]              decisión + justificación + cita literal
-    - pending_updates[]       updates propuestos a páginas existentes
-    - thesis_candidates[]     tesis articulada del autor (synthesis_subtype: author_thesis)
+  <video_id>.json — output JSON con decisions estructuradas:
+    - entities[]              detección + clasificación + cita literal
+    - pending_updates[]       sugerencias de cambios a páginas existentes
+                              (REFERENCIA para el compilador, NO se aplican
+                              literal — el compilador las fusiona coherente)
+    - thesis_candidates[]     tesis articulada del autor
     - discarded[]             entidades filtradas con razón
-    - blocks_filtered_by_topic_filters[]
     - extraction_metadata
 
 PER-RUN (N vídeos en sesión cacheada):
@@ -103,7 +104,15 @@ PER-RUN (N vídeos en sesión cacheada):
 PER-BATCH (5 vídeos en overnight_run.py):
   extract_batch → aggregate → git commit (decisiones)
        ↓
-  apply_pending_updates --apply --auto-commit
+  COMPILE_WIKI_PAGES (rewrite coherente por página afectada)
+       ↓
+       Para cada page_id afectado en este batch:
+         - Si existe ya en wiki: input = prior_text + decisions del batch
+                                         + summaries fuente
+         - Si es nueva: input = decisions + summaries fuente
+         - Output: .md REESCRITO coherente, no concatenación
+         - Validación: frontmatter YAML + sections obligatorias
+         - Write atómico a wiki/<type>/<page_id>.md
        ↓
   rebuild data/wiki.db (cheap, no lock)
        ↓
@@ -114,6 +123,17 @@ PER-BATCH (5 vídeos en overnight_run.py):
   next batch
 ```
 
+**Diferencia con el bucle anterior** (que producía golem):
+
+| Anterior (golem) | Actual (correcto) |
+|---|---|
+| `apply_pending_updates --apply` | `compile_wiki_pages --from-run` |
+| Inserta content_proposed tras anchor único en el .md | Rewrite coherente del .md fusionando seed + nuevo |
+| Página crece por concatenación | Página se reorganiza editorialmente |
+| 100 sources → 8 páginas con 57 fragmentos pegados | 100 sources → N páginas coherentes con material integrado |
+
+`apply_pending_updates.py` se conserva como **herramienta de correcciones humanas asistidas** — útil cuando el humano (o un agente futuro) propone una corrección puntual concreta y verificable. NO se invoca durante el ingest masivo.
+
 ### 3.2 Componentes y ficheros
 
 | Archivo | Propósito |
@@ -121,7 +141,8 @@ PER-BATCH (5 vídeos en overnight_run.py):
 | [`scripts/extract_video_themes.py`](../scripts/extract_video_themes.py) | Extractor. Itera vídeos, invoca claude -p en sesiones cacheadas. CLI: `--pilot`, `--video-id`, `--run-id`, `--aggregate`, `--dry-run`, `--discover` |
 | [`scripts/extract_incremental.py`](../scripts/extract_incremental.py) | Wrapper para detectar vídeos no procesados (vs `processed_videos.json`) y procesarlos. CLI: `--bootstrap`, `--dry-run`, `--limit` |
 | [`scripts/overnight_run.py`](../scripts/overnight_run.py) | Orquestador batch overnight. Lotes de 5 con extract+aggregate+apply+commit+rebuild. Auto-stop en errores críticos |
-| [`scripts/apply_pending_updates.py`](../scripts/apply_pending_updates.py) | Aplica `pending_updates.json` al wiki con seguridad por capas (4 ops diff-style + uniqueness anchor + backup + auto-commit) |
+| [`scripts/compile_wiki_pages.py`](../scripts/compile_wiki_pages.py) | **Operación primaria del ingest** — rewrite coherente página por página fusionando prior text + decisions + summaries fuente. Sustituye al bucle apply diff anterior |
+| [`scripts/apply_pending_updates.py`](../scripts/apply_pending_updates.py) | **Herramienta secundaria** — aplica updates puntuales al wiki con 4 ops diff-style + uniqueness anchor. Para correcciones humanas asistidas, NO para ingest masivo |
 | [`scripts/build_wiki_db.py`](../scripts/build_wiki_db.py) | Reconstruye índice SQLite `data/wiki.db` desde filesystem |
 | [`scripts/index_wiki_to_qdrant.py`](../scripts/index_wiki_to_qdrant.py) | Reindexa wiki en Qdrant (requiere parar MCP server) |
 | [`scripts/rank_wiki_candidates.py`](../scripts/rank_wiki_candidates.py) | Legacy del ranking pull-based (ya no es la palanca; útil para inventario) |
@@ -531,12 +552,17 @@ Si una entidad tiene `review_priority: high`, conviene:
 - Validación con normalización cosmética
 - Gitignore opción B (audit trail committed, intermedios gitignored)
 
-### 7.2 Pendiente de implementar (Sprint posterior)
+### 7.2 Implementado tras postmortem (2026-05-02 mediodía)
 
-- **`scripts/compile_wiki_pages.py`**: vacía `promote_queue.json` compilando páginas nuevas a partir de los summaries fuente acumulados. Sin esto, los candidatos a página nueva quedan en cola indefinidamente
+- ✅ `scripts/compile_wiki_pages.py` — **operación primaria del ingest**: rewrite coherente por página fusionando prior + decisions + summaries
+- ✅ `overnight_run.py` rediseñado: usa compile en vez de apply en el bucle ingest
+
+### 7.3 Pendiente para Sprint posterior
+
 - **Drilldown sobre transcripts**: para entidades sospechosas (review_priority high) o `thesis_candidates`, leer el transcript completo del vídeo (no solo summary) en busca de matices perdidos en la curaduría upstream
 - **Cross-run aggregator** (`scripts/cross_run_aggregate.py`): consolida discard_log de múltiples runs para detectar patrones cross-temporales (entidad descartada N veces → sugerir whitelist)
 - **Auditor de drift**: detecta cuando una página wiki contiene afirmaciones que el corpus actual ya no soporta (chunks citados que ya no existen, lagunas refutadas que nadie marcó)
+- **Lint cross-page**: post-compile, detecta contradicciones entre páginas, citas duplicadas, wikilinks rotos introducidos
 - **CI gate**: `validate_wiki_relations.py --strict` en pre-commit hook para impedir merges con campos legacy o types inválidos
 
 ### 7.3 Decisiones cerradas que NO se reabren

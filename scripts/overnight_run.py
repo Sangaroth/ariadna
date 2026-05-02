@@ -2,8 +2,14 @@
 """overnight_run.py — orquestador para barrido completo del corpus durante la noche.
 
 Procesa los vídeos pendientes (no en wiki/_meta/processed_videos.json) en
-LOTES de 5 vídeos. Cada lote: extract → aggregate → apply → commit →
-rebuild wiki.db → loop.
+LOTES. Cada lote: extract → aggregate → COMPILE (rewrite coherente página
+por página) → commit → rebuild wiki.db → loop.
+
+Nota arquitectónica (postmortem 2026-05-02): la operación primaria del
+ingest Karpathy es COMPILE, no apply diff incremental. El bucle anterior
+extract→apply→loop producía golem (concatenación de inserts crudos).
+El bucle correcto extract→compile→loop hace rewrite coherente por página
+tomando seed + nuevo material del batch como inputs unificados.
 
 Para si:
   - 2 lotes consecutivos sin ningún vídeo procesado con éxito (signal de
@@ -256,25 +262,28 @@ def housekeeping_commit(message_prefix: str) -> int:
     return len(paths_to_stage)
 
 
-def apply_batch(run_id: str) -> bool:
-    log(f"apply pending_updates: {run_id}")
+def compile_batch(run_id: str) -> bool:
+    """Operación PRIMARIA del ingest tras extract+aggregate (postmortem 2026-05-02):
+    rewrite coherente página por página tomando inputs del batch.
+
+    Sustituye a apply_pending_updates como pieza del ingest masivo.
+    apply_pending_updates queda relegado a herramienta de correcciones humanas
+    asistidas (no se invoca aquí).
+    """
+    log(f"compile pages from run: {run_id}")
     cmd = [
         sys.executable,
-        "scripts/apply_pending_updates.py",
+        "scripts/compile_wiki_pages.py",
         "--from-run",
         run_id,
-        "--apply",
         "--auto-commit",
-        "--continue-on-error",
-        "--no-validator",  # validador completo se corre al final del overnight
-        "--no-git-check",  # orchestrator gestiona git, apply confía
     ]
-    rc, out, err = run_subprocess(cmd, "apply", timeout=300)
+    rc, out, err = run_subprocess(cmd, "compile", timeout=1800)  # hasta 30min por batch
     if rc != 0:
         crit = detect_critical_in_output(out + err)
         if crit:
-            raise CriticalError(f"apply detectó patrón crítico: {crit}")
-        log(f"apply falló rc={rc}: {err[-300:]}", level="WARN")
+            raise CriticalError(f"compile detectó patrón crítico: {crit}")
+        log(f"compile falló rc={rc}: {err[-400:]}", level="WARN")
         return False
     return True
 
@@ -419,16 +428,17 @@ def run_overnight(args: argparse.Namespace) -> str:
             log("commit aggregator falló — paro para no romper history", level="ERROR")
             return "STOPPED_GIT_COMMIT_FAIL"
 
-        # 4. Apply pending_updates al wiki (si --apply, default true)
+        # 4. COMPILE páginas afectadas — operación primaria del ingest Karpathy
+        #    (rewrite coherente, no apply diff incremental — corrección postmortem 2026-05-02)
         if args.apply:
             try:
-                ok = apply_batch(run_id)
+                ok = compile_batch(run_id)
                 if ok:
                     total_apply_ok += 1
                 else:
                     total_apply_fail += 1
             except CriticalError as e:
-                log(f"CRITICAL during apply: {e}", level="ERROR")
+                log(f"CRITICAL during compile: {e}", level="ERROR")
                 return f"STOPPED_CRITICAL_{e}"
 
             # 5. Rebuild wiki.db
