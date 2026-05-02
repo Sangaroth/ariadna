@@ -1,0 +1,399 @@
+{
+  "video_id": "O-kzVFngjAQ",
+  "video_title": "Tolkien y los dragones",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "dragón (arquetipo)",
+      "canonical_guess": "dragon-arquetipo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 65,
+      "framing_marks": [
+        {
+          "mark_type": "explicit_definition",
+          "quote_evidence": "Un dragón es un avatar del caos: una forma de encarnación, una personificación fantástica del caos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Todo dragón en la literatura existe para ser vencido; ese es su único objeto arquetípico,"
+        },
+        {
+          "mark_type": "structural_articulation",
+          "quote_evidence": "El dragón encarna simultáneamente la prueba, el tesoro y el peligro superpuestos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 'Monográfico + Framing-mark + Channel-canonical': vídeo de 85min explícitamente programático ('qué es el concepto mitológico de dragón, qué arquetipo representa'). Articulación canal-específica completa: dragón = avatar del caos primigenio (mal increado), sempiterno no eterno, telúrico (no cetónico ni demoniaco), existe para ser vencido, sabiduría como antigüedad. Hub natural para futuras lecturas (Beowulf, Smaug, leviatán, Cthulhu, juegos con dragones). Diferenciación operativa frente a balrog/demonio/gobernante tirano/elemental/titán.",
+      "quote_evidence": "Un dragón es un avatar del caos: una forma de encarnación, una personificación fantástica del caos,"
+    },
+    {
+      "surface_form": "uránico / telúrico / cetónico (triada)",
+      "canonical_guess": "uranico-telurico-cetonico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "explicit_definition",
+          "quote_evidence": "Lo uránico es lo celestial/divino/aspiracional; lo telúrico es la superficie de la tierra; lo cetónico son las profundidades infernales,"
+        },
+        {
+          "mark_type": "cross_domain_analogy",
+          "quote_evidence": "En alquimia: uránico es mercurial, telúrico es salino, cetónico es sulfúrico (el azufre del infierno),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los dragones son principalmente telúricos (superficie terrestre); los demonios son cetónicos (profundidades),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 'Framing-mark + Channel-canonical': triada espacial-arquetípica con correspondencias alquímicas (mercurial/salino/sulfúrico) que el canal usa SISTEMÁTICAMENTE para distinguir dragón (telúrico) de balrog/demonio (cetónico) y de lo divino (uránico). Pieza load-bearing que articula la cosmología vertical implícita del canal y permite distinguir prototipos del mal en las obras analizadas. Recurrente esperable en futuras lecturas mitológicas (mar como caos cetónico, montaña como uránico, etc.).",
+      "quote_evidence": "Lo uránico es lo celestial/divino/aspiracional; lo telúrico es la superficie de la tierra; lo cetónico son las profundidades infernales,"
+    },
+    {
+      "surface_form": "J. R. R. Tolkien",
+      "canonical_guess": "tolkien-jrr",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página existente con laguna explícita sobre 'mal primario (Melkor / Morgoth / Sauron)' parcialmente cubierta por update previo (Melkor); este vídeo aporta el resto: Sauron, Saruman, Gollum, balrog, Smaug + cadena de corrupción + lectura como alegoría cristiana. También fill parcial de la laguna 'No hay material sobre El Señor de los Anillos'. Update sustantivo obligatorio.",
+      "quote_evidence": "La cadena de corrupción en Tolkien (Melkor corrompe a Sauron, Sauron a Saruman, Saruman a los orcos) refleja la estructura del mal engendrando mal,"
+    },
+    {
+      "surface_form": "Lucifer / Satanás (distinción aplicada)",
+      "canonical_guess": "lucifer-satanas-distincion",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación,"
+        },
+        {
+          "mark_type": "explicit_definition",
+          "quote_evidence": "Lucifer es el demonio primigenio: la primera criatura creada por Dios que se rebeló, encarna la vanidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Recurrencia parcial: aparece también en 'el Génesis en Tolkien (Parte 1)' con tratamiento similar pero sin aplicación a obra. Aquí se aplica como demonología de Tolkien (Sauron luciferino / Saruman satánico). Total ≥2 vídeos pero scope.md §2.1 pide ≥3 para promote por recurrencia. Material absorbido en update de tolkien-jrr (sección Demonología tolkieniana). Marcado como thesis_candidate con prioridad alta — si reaparece en un tercer vídeo procede promote inmediato.",
+      "quote_evidence": "Saruman es la figura satánica: un hereje que concluye lógicamente que hay que unirse al poder establecido, pone la sabiduría al servicio de la política y el relativismo,"
+    },
+    {
+      "surface_form": "caos primigenio (existencia increada)",
+      "canonical_guess": "caos-primigenio",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Concepto load-bearing aquí pero estructuralmente es la noción de la que el [[dragon-arquetipo]] es el avatar. Promover por separado generaría redundancia. Material absorbido en la futura página dragon-arquetipo y en update de tolkien-jrr (donde se contrasta mal increado vs mal creado).",
+      "quote_evidence": "El caos es el orden anterior, la existencia increada previa a Dios y a los héroes,"
+    },
+    {
+      "surface_form": "sempiterno vs eterno (distinción)",
+      "canonical_guess": "sempiterno-eterno",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Distinción técnica (eterno = sin principio ni fin; sempiterno = con principio sin fin) aplicada al dragón. Pieza táctica del argumento, sin tratamiento independiente. Material en futura página dragon-arquetipo.",
+      "quote_evidence": "Eterno es lo que no tiene principio ni fin; sempiterno es lo que tiene principio pero no fin,"
+    },
+    {
+      "surface_form": "balrog",
+      "canonical_guess": "balrog",
+      "page_type": "concept",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Figura tolkieniana usada para CONTRASTAR con el dragón (cetónico vs telúrico). Material en update de tolkien-jrr (sección Demonología tolkieniana) y en futura página uranico-telurico-cetonico como caso canónico de lo cetónico.",
+      "quote_evidence": "El balrog es genuinamente cetónico porque habita las profundidades del alma humana,"
+    },
+    {
+      "surface_form": "Sauron",
+      "canonical_guess": "sauron",
+      "page_type": "concept",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Figura tolkieniana, no concepto enciclopédico independiente. Material en update de tolkien-jrr.",
+      "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación,"
+    },
+    {
+      "surface_form": "Saruman",
+      "canonical_guess": "saruman",
+      "page_type": "concept",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Figura tolkieniana. Material en update de tolkien-jrr como caso satánico.",
+      "quote_evidence": "Saruman es la figura satánica: un hereje que concluye lógicamente que hay que unirse al poder establecido,"
+    },
+    {
+      "surface_form": "Smaug",
+      "canonical_guess": "smaug",
+      "page_type": "concept",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Caso ejemplar del arquetipo del dragón aplicado al universo tolkieniano. Material en update de tolkien-jrr y como ejemplo en futura página dragon-arquetipo.",
+      "quote_evidence": "Smaug custodia celosamente el tesoro acumulado por la avaricia de los enanos: es la manifestación caótica de las consecuencias que el demonio de la ambición despertó,"
+    },
+    {
+      "surface_form": "Hobbes (Leviatán)",
+      "canonical_guess": "hobbes-thomas",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mención puntual: Hobbes 'subvirtió el leviatán como símbolo del temor colectivo para hablar del Estado'. Sin tratamiento autoral.",
+      "quote_evidence": "Hobbes subvirtió el leviatán como símbolo del temor colectivo para hablar del Estado, convirtiéndolo en figura telúrica retórica,"
+    },
+    {
+      "surface_form": "leviatán",
+      "canonical_guess": "leviatan",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Caso particular de dragón acuático bíblico. Material absorbido en futura página dragon-arquetipo (sección sobre prototipos elementales).",
+      "quote_evidence": "Al dragón de las aguas se le llama leviatán en la mitología semítico-occidental,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "tolkien-jrr",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Conexión con otros temas del corpus",
+      "section_target": null,
+      "content_proposed": "## Demonología tolkieniana: figuras del mal en la creación\n\nEl canal aplica una distinción entre **Lucifer** y **Satanás** al mapa de figuras del mal en la obra completa de Tolkien. La distinción no es bíblica pura sino canal-articulada: Lucifer es el demonio primigenio (vanidad, primera criatura caída) y Satanás es la personificación del Anticristo (oposición a Cristo que puede aparentar buenas obras, hereje lógico que cree actuar correctamente).\n\n> \"Lucifer es el demonio primigenio: la primera criatura creada por Dios que se rebeló, encarna la vanidad. Satanás es la personificación del Anticristo: no encarna el mal sino la oposición a Cristo, puede hacer aparentes buenas obras contra la obra de Cristo.\"\n→ [Tolkien y los dragones, 1:02:46](https://youtu.be/O-kzVFngjAQ?t=3766)\n\n### Sauron como figura luciferina\n\n> \"Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación.\"\n→ [Tolkien y los dragones, 1:07:52](https://youtu.be/O-kzVFngjAQ?t=4072)\n\nSauron porta la lógica luciferina del mal: corrompido por una potencia mayor (Melkor), encarna la vanidad demoníaca primigenia DENTRO del orden creado. Su mal es directo, sin coartada moral.\n\n### Saruman como figura satánica\n\n> \"Saruman es la figura satánica: un hereje que concluye lógicamente que hay que unirse al poder establecido, pone la sabiduría al servicio de la política y el relativismo.\"\n→ [Tolkien y los dragones, 1:07:52](https://youtu.be/O-kzVFngjAQ?t=4072)\n\nSaruman, en cambio, es la lógica satánica: el hereje que cree actuar correctamente. Su mal aparenta buenas obras (orden, eficiencia, alineamiento con el poder establecido) pero se opone estructuralmente a Cristo / al bien — pone la sabiduría al servicio de la política y del relativismo.\n\n### Gollum: el alma corrompida\n\n> \"Gollum no es ni satánico ni luciferino: representa las consecuencias del mal en el alma humana, un alma corrompida y en pena.\"\n→ [Tolkien y los dragones, 1:07:52](https://youtu.be/O-kzVFngjAQ?t=4072)\n\nGollum no encarna ningún tipo de demonio: es lo que el mal HACE al alma humana cuando la posee — encarnación de la cuarta forma del mal anunciada en el Ainulindalë (el mal que posee y destruye, ver [[el-silmarillion]]).\n\n### Balrog: demonio cetónico de la ambición\n\nEl balrog se distingue del dragón por su tipología espacial-arquetípica (ver [[uranico-telurico-cetonico]]): el [[dragon-arquetipo|dragón]] es **telúrico** (avatar primigenio que se manifiesta sobre la superficie de la tierra desde el caos), mientras que el balrog es **cetónico** (demonio que habita las profundidades del alma humana y de la tierra).\n\n> \"Los enanos cavaron demasiado profundo buscando riqueza alquímica y despertaron al balrog: el demonio de la ambición. La ambición deriva en avaricia; el balrog es agente del pecado de la ambición, Smaug es agente del caos consecuente.\"\n→ [Tolkien y los dragones, 1:12:57](https://youtu.be/O-kzVFngjAQ?t=4377)\n\n### Smaug: dragón como avatar del caos consecuente\n\n> \"Smaug custodia celosamente el tesoro acumulado por la avaricia de los enanos: es la manifestación caótica de las consecuencias que el demonio de la ambición despertó.\"\n→ [Tolkien y los dragones, 1:12:57](https://youtu.be/O-kzVFngjAQ?t=4377)\n\nSmaug ejemplifica el [[dragon-arquetipo|arquetipo del dragón]]: avatar telúrico del caos primigenio que aparece como CONSECUENCIA del pecado humano (la ambición de los enanos). El balrog es la causa demoníaca; Smaug es el caos primigenio que el pecado convoca como respuesta del orden cósmico — el dragón existe para ser vencido, su presencia anuncia que la prueba debe afrontarse.\n\n### La cadena de corrupción y la fantasía como alegoría cristiana\n\n> \"La cadena de corrupción en Tolkien (Melkor corrompe a Sauron, Sauron a Saruman, Saruman a los orcos) refleja la estructura del mal engendrando mal.\"\n→ [Tolkien y los dragones, 1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)\n\nEl canal subraya que la fantasía tolkieniana funciona como alegoría cristiana, pero la estructura ha quedado oculta para el lector contemporáneo:\n\n> \"Nadie ve El Señor de los Anillos como alegoría del cristianismo porque nadie ve la fantasía como tal.\"\n→ [Tolkien y los dragones, 1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)\n\nLa lectura del canal recupera esa estructura: la cadena Melkor→Sauron→Saruman→orcos no es decoración narrativa sino la articulación cristiana del mal como estructura propagativa, donde cada eslabón corrompe al siguiente sin que ninguno sea creador del mal en sentido absoluto. El mal absoluto pertenece al caos primigenio (los dragones como avatares); todo lo demás es mal CREADO.\n\n",
+      "supersedes_laguna_text": "Falta el tratamiento del mal primario (Melkor / Morgoth / Sauron) que el título del vídeo anuncia pero que el fragmento recuperado no desarrolla",
+      "wikilinks_introduced": [
+        "dragon-arquetipo",
+        "uranico-telurico-cetonico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "timestamp_seconds": 3766,
+          "cite_markdown": "[Tolkien y los dragones, 1:02:46](https://youtu.be/O-kzVFngjAQ?t=3766)"
+        },
+        {
+          "video_id": "O-kzVFngjAQ",
+          "timestamp_seconds": 4072,
+          "cite_markdown": "[Tolkien y los dragones, 1:07:52](https://youtu.be/O-kzVFngjAQ?t=4072)"
+        },
+        {
+          "video_id": "O-kzVFngjAQ",
+          "timestamp_seconds": 4377,
+          "cite_markdown": "[Tolkien y los dragones, 1:12:57](https://youtu.be/O-kzVFngjAQ?t=4377)"
+        },
+        {
+          "video_id": "O-kzVFngjAQ",
+          "timestamp_seconds": 5107,
+          "cite_markdown": "[Tolkien y los dragones, 1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)"
+        }
+      ],
+      "rationale": "Cierra la laguna sobre Sauron explícitamente (supersedes) y rellena gran parte de la laguna sobre 'No hay material sobre El Señor de los Anillos' (no se cubre el viaje del héroe pero sí la demonología completa de la obra). Aporta el aparato Lucifer/Satanás aplicado como demonología, la triada cetónico/telúrico aplicada (balrog vs dragón), y la lectura de la cadena de corrupción como alegoría cristiana. Insert_before 'Conexión con otros temas del corpus' lo sitúa al final del cuerpo conceptual antes del bloque de relaciones.",
+      "editorial_intent": "fill_laguna"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Lucifer / Satanás (distinción aplicada a Tolkien)",
+      "reason_code": "below_recurrence_threshold",
+      "reason_detail": "Recurrencia ≥2 vídeos confirmada pero scope.md §2.1 requiere ≥3. Aplicación canal-articulada como framework de demonología (Sauron-Lucifer / Saruman-Satán / Gollum). Material absorbido en update de tolkien-jrr; flagged como thesis_candidate de alta prioridad para promote en próximo vídeo donde reaparezca.",
+      "quote_evidence": "Lucifer es el demonio primigenio: la primera criatura creada por Dios que se rebeló, encarna la vanidad,",
+      "review_priority": "high",
+      "review_priority_reason": "A un vídeo de promote por recurrencia. Editor humano puede decidir promover ya con base en framing-mark + aplicación sistemática a obra mayor (LOTR), bypassing umbral cuantitativo."
+    },
+    {
+      "surface_form": "caos primigenio (existencia increada)",
+      "reason_code": "absorbed_in_promoted_page",
+      "reason_detail": "Concepto del que el dragón es avatar. Estructuralmente subsumido en la futura página dragon-arquetipo. Promover por separado generaría redundancia.",
+      "quote_evidence": "El caos es el orden anterior, la existencia increada previa a Dios y a los héroes,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "sempiterno vs eterno",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción técnica aplicada al dragón. Pieza táctica del argumento. Material en futura página dragon-arquetipo.",
+      "quote_evidence": "Eterno es lo que no tiene principio ni fin; sempiterno es lo que tiene principio pero no fin,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "balrog",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Figura tolkieniana usada para contrastar con el dragón (cetónico vs telúrico). Material en update de tolkien-jrr y como caso canónico de lo cetónico en futura página uranico-telurico-cetonico.",
+      "quote_evidence": "El balrog es genuinamente cetónico porque habita las profundidades del alma humana,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Sauron",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Figura tolkieniana, no concepto enciclopédico independiente. Material en update de tolkien-jrr.",
+      "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Saruman",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Figura tolkieniana. Material en update de tolkien-jrr como caso satánico.",
+      "quote_evidence": "Saruman es la figura satánica: un hereje que concluye lógicamente que hay que unirse al poder establecido,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Smaug",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Caso ejemplar del dragón aplicado al universo tolkieniano. Material en update de tolkien-jrr y como ejemplo en futura página dragon-arquetipo.",
+      "quote_evidence": "Smaug custodia celosamente el tesoro acumulado por la avaricia de los enanos: es la manifestación caótica de las consecuencias que el demonio de la ambición despertó,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Gollum",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Figura tolkieniana usada como caso de la cuarta forma del mal (alma poseída). Material en update de tolkien-jrr.",
+      "quote_evidence": "Gollum no es ni satánico ni luciferino: representa las consecuencias del mal en el alma humana, un alma corrompida y en pena,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "leviatán",
+      "reason_code": "absorbed_in_promoted_page",
+      "reason_detail": "Caso particular de dragón acuático bíblico. Material absorbido en futura página dragon-arquetipo.",
+      "quote_evidence": "Al dragón de las aguas se le llama leviatán en la mitología semítico-occidental,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Hobbes",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención puntual sobre subversión retórica del leviatán como Estado. Sin tratamiento autoral.",
+      "quote_evidence": "Hobbes subvirtió el leviatán como símbolo del temor colectivo para hablar del Estado, convirtiéndolo en figura telúrica retórica,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "etimología griega de dragón ('vigilante/guardián')",
+      "reason_code": "passing_mention",
+      "reason_detail": "Apertura etimológica del análisis. El propio canal lo descarta como prototipo de uso, no arquetipo.",
+      "quote_evidence": "La etimología griega de dragón significa \"vigilante/guardián\", pero la etimología no define el arquetipo sino solo un prototipo de uso,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "serpiente del Edén / pecado original (interpretación)",
+      "reason_code": "absorbed_in_promoted_page",
+      "reason_detail": "Lectura canal-específica del pecado original (no es comer la manzana sino no asumir la culpa). Material esperado en futura página dragon-arquetipo o en una eventual página sobre interpretación de la Caída. Sin tratamiento monográfico aquí.",
+      "quote_evidence": "El pecado original no es comer la manzana ni obedecer a la serpiente, sino no reconocer ante Dios lo que hicieron y no asumir la culpa,",
+      "review_priority": "medium",
+      "review_priority_reason": "Lectura distintiva del canal sobre el pecado original. Si reaparece, candidato a página independiente (pecado-original-lectura-canal) o sección dedicada en una synthesis sobre teología cristiana en el corpus."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 12,
+    "promoted_new": 2,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0",
+    "video_editorial_note": "Vídeo monográfico altamente on-axis: arquetipo del dragón aplicado a Tolkien. Promueve dragon-arquetipo (concept central) y uranico-telurico-cetonico (triada espacial-arquetípica con correspondencias alquímicas). Update sustantivo a tolkien-jrr cerrando laguna sobre Sauron y rellenando parcialmente la laguna sobre LOTR. Thesis_candidate de alta prioridad: la distinción Lucifer/Satanás aparece ya en dos vídeos como demonología aplicada — un vídeo más y procede promote inmediato."
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "WARN promote_new[dragón (arquetipo)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[uránico / telúrico / cetónico (triada)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

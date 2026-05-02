@@ -1,0 +1,273 @@
+{
+  "video_id": "Tviv4PT0dv8",
+  "video_title": "Análisis arquetípico de Tarzán",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Tarzán (Disney, 1999)",
+      "canonical_guess": "Tarzán (Disney, 1999)",
+      "action": "promote_new",
+      "target_page_id": "tarzan-1999-film",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "domain_secondary": "humanities.religion",
+      "justification": "Análisis arquetípico monográfico de 108 minutos íntegramente dedicado a la película. Cumple criterio scope.md §2.3 'Análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'. Múltiples páginas existentes ya citan este vídeo (Tviv4PT0dv8 aparece tres veces solo en hieros-gamos.md como caso del 'hieros gamos consumado por renuncia') sin que Tarzán tenga página propia — la promoción cierra esa asimetría. La obra encarna canónicamente: hieros-gamos (estructura explícita catábasis/anábasis/égersis), mito-polar (cosmogonía Disney consumada), individuation (construcción de identidad como tema central declarado por el canal), anima-archetype (Jane como manifestación articulada de los dones de la diosa).",
+      "auto_promote_via_whitelist": false,
+      "scope_criterion_matched": "§2.3 análisis dedicado ≥30 min monográfico",
+      "quote_evidence_from_summary": [
+        "La estructura mitológica de la película es el hieros gamos, pero el tema particular es la identidad y la construcción del yo",
+        "La película es una metáfora sobre el crecimiento, el autoconocimiento y la búsqueda de la identidad gracias al hieros gamos",
+        "La diosa no viene a salvar al dios del sufrimiento físico sino del mal de no saber quién es: es una solución de identidad",
+        "Las cuatro partes del mundo se reparten: la jungla es fuego, el aire es lo que la diosa le enseñó a dominar, ella es agua y tierra",
+        "Cada vez que hay sol o luz amarilla/roja es dominio de Tarzán... Cada vez que hay azul o sombra es dominio de la diosa",
+        "Padre salvaje (kerchak) y padre civilizado (Clayton) comparten iniciales; madre salvaje y madre civilizada como espejos de la diosa"
+      ],
+      "proposed_relations": [
+        {
+          "type": "exemplifies",
+          "to": "hieros-gamos",
+          "weight": "canonical",
+          "note": "polar Disney consumado por renuncia mutua: ella renuncia al guante civilizado, él reconoce que pertenece a ambos mundos"
+        },
+        {
+          "type": "exemplifies",
+          "to": "mito-polar",
+          "weight": "canonical",
+          "note": "cosmogonía polar Disney: cromática solar/lunar permanente, dones cuádruples, dualidades paternas espejadas"
+        },
+        {
+          "type": "manifestation_of",
+          "to": "individuation",
+          "weight": "canonical",
+          "note": "tema central declarado: construcción de la identidad mediada por el encuentro con el complementario"
+        },
+        {
+          "type": "references",
+          "to": "anima-archetype",
+          "weight": "strong",
+          "note": "Jane manifiesta los tres dones de la diosa (gracia, esperanza, belleza); la madre gorila articula la segunda forma de lo femenino (salvaje vs civilizado)"
+        },
+        {
+          "type": "interpreted_by",
+          "to": "jung-carl-gustav",
+          "note": "lectura junguiana sostenida con apoyatura del viaje del héroe campbelliano"
+        }
+      ],
+      "proposed_section_outline": [
+        "Ficha y contexto Disney",
+        "Tema central: la identidad construida a través del hieros gamos",
+        "Estructura del hieros gamos: catábasis, anábasis, égersis",
+        "Cromática solar/lunar como sistema simbólico permanente",
+        "Las tres partes del yo: Tarzán (yo) / gorila (ello) / elefante (super-yo)",
+        "Las dualidades paternas: kerchak salvaje vs Clayton civilizado",
+        "Las dos formas de lo femenino: Jane civilizada vs madre gorila salvaje",
+        "El símbolo de las manos: pies como igualdad, manos como paz",
+        "Los dones de la diosa (gracia, esperanza, belleza) frente al don del dios (fuego)",
+        "Égersis final: reyes de ambos mundos",
+        "Tesis del canal: 'no se puede renunciar a lo que uno es'"
+      ],
+      "framing_marks": []
+    },
+    {
+      "surface_form": "mito polar (aplicado a Tarzán)",
+      "canonical_guess": "Mito polar (caso Tarzán)",
+      "action": "update_existing",
+      "target_page_id": "mito-polar",
+      "page_type": "concept",
+      "domain_primary": "humanities.religion",
+      "justification": "La página mito-polar.md tiene aplicaciones canónicas (Pandora-Prometeo, Tolkien, Matrix, Adán-Eva) pero NO incluye Tarzán, que es el caso Disney por excelencia y el más explícitamente articulado en clave polar (cromática solar/lunar permanente, dualidades paternas espejadas, dones cuádruples). Añadir Tarzán a la sección 'Aplicaciones canónicas en el corpus' enriquece la tipología.",
+      "quote_evidence_from_summary": [
+        "La estructura mitológica de la película es el hieros gamos, pero el tema particular es la identidad y la construcción del yo",
+        "Cada vez que hay sol o luz amarilla/roja es dominio de Tarzán, dominio del héroe, dominio masculino o peligro",
+        "Cada vez que hay azul o sombra es dominio de la diosa: paz, tranquilidad, maternidad, corazón",
+        "Las cuatro partes del mundo se reparten: la jungla es fuego, el aire es lo que la diosa le enseñó a dominar, ella es agua y tierra"
+      ],
+      "framing_marks": []
+    },
+    {
+      "surface_form": "ánima/ánimus (ontología canal: diosa permanece, dios cambia)",
+      "canonical_guess": "Ánima/ánimus — articulación ontológica",
+      "action": "update_existing",
+      "target_page_id": "anima-archetype",
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "justification": "El vídeo articula explícitamente una ontología masculino/femenino que matiza la página existente: 'La diosa representa el ser y el dios representa el hacer; lo femenino es lo eterno incambiable, lo masculino lo maleable'. La página actual cubre la polaridad como eje cognitivo y como pareja contrasexual, pero NO contiene esta formulación ser/hacer ni la tesis de permanencia/cambio. También aporta la articulación canal-específica de la maternidad como vínculo (no biología): 'parir es algo que la madre padece, ser madre es lo que la madre hace'. Ambas son piezas estructurales del marco ánima/ánimus tal como lo aplica el canal y merecen integrarse en la sección 'Lectura mítica y cosmológica'.",
+      "quote_evidence_from_summary": [
+        "La diosa representa el ser y el dios representa el hacer",
+        "la diosa empieza siendo diosa y termina siendo diosa, sin crecimiento ni muerte, solo permanencia",
+        "Lo femenino es lo eterno incambiable; lo masculino es lo maleable, modificable, trabajable",
+        "Solamente lo masculino cambia el mundo bajo sus manos; lo femenino permanece como la parte eterna tanto en hombres como en mujeres",
+        "El instinto de ser madre no es el instinto de parir; parir es algo que la madre padece, ser madre es lo que la madre hace",
+        "La fuerza está en el vínculo, no en la cuestión biológica; la naturaleza da la posibilidad de ser madre de un hijo que no es exactamente tuyo"
+      ],
+      "framing_marks": []
+    },
+    {
+      "surface_form": "individuación (caso Tarzán: identidad construida vía la diosa)",
+      "canonical_guess": "Individuación (Tarzán)",
+      "action": "update_existing",
+      "target_page_id": "individuation",
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "justification": "La página individuation.md tiene una sección de 'Casos donde la individuación se cumple' (Atrapado en el tiempo, Bella Durmiente, Bloodborne, Wendy) y una laguna parcialmente cubierta sobre 'Mito-Polar como caso límite' que ya tiene página. Tarzán es un caso explícito donde el canal articula que el tema central es la construcción de la identidad a través del encuentro con la diosa: 'la diosa no viene a salvar al dios del sufrimiento físico sino del mal de no saber quién es'. Añadir Tarzán como caso enriquece la sección y refuerza el vínculo individuation-polar señalado en lagunas.",
+      "quote_evidence_from_summary": [
+        "el tema particular es la identidad y la construcción del yo",
+        "La unión con el complementario permite conocer aquella parte que sin el otro jamás se habría podido descubrir",
+        "Tarzán reflexiona mirándose en el espejo del agua: mirarse y no reconocerse es la metáfora central de la crisis de identidad",
+        "La canción no dice 'enséñame el mundo' sino 'enséñame quién soy, quiero saber cuán extraño soy en este mundo'",
+        "Tarzán se conoce a sí mismo a través de la diosa: Jane le enseña a leer, a aprender; el conocimiento solar se despierta junto al sentimiento lunar",
+        "No se es héroe de verdad sin asumir la posibilidad de estar absolutamente solo; hay que construirse como si fuera a ser así para siempre",
+        "La identidad consiste en la necesidad de ser alguien que no sea nadie más, y paradójicamente se construye imitando a los demás"
+      ],
+      "framing_marks": []
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "mito-polar",
+      "operation_type": "insert_after_passage",
+      "anchor": "> \"La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal.\"\n→ [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)",
+      "new_content": "\n\n### Tarzán (Disney, 1999): el polar Disney consumado por renuncia mutua\n\nLectura sostenida del canal sobre la película Disney como cosmogonía polar moderna:\n\n> \"La estructura mitológica de la película es el hieros gamos, pero el tema particular es la identidad y la construcción del yo. La película es una metáfora sobre el crecimiento, el autoconocimiento y la búsqueda de la identidad gracias al hieros gamos.\"\n→ [Análisis arquetípico de Tarzán, 00:30](https://youtu.be/Tviv4PT0dv8?t=30)\n\nLa cromática del filme materializa el dipolo en cada plano:\n\n> \"Cada vez que hay sol o luz amarilla/roja es dominio de Tarzán, dominio del héroe, dominio masculino o peligro. Cada vez que hay azul o sombra es dominio de la diosa: paz, tranquilidad, maternidad, corazón.\"\n→ [Análisis arquetípico de Tarzán, 1:11:12](https://youtu.be/Tviv4PT0dv8?t=4272)\n\nLa estructura final del filme reparte los cuatro elementos cosmogónicos entre dios y diosa, disolviendo la dicotomía civilizado/salvaje:\n\n> \"La diosa acepta que pertenece tanto al mundo civilizado como al salvaje; por amor deja entrar al dios en su paraíso y convierte todo en un nuevo paraíso. Las cuatro partes del mundo se reparten: la jungla es fuego, el aire es lo que la diosa le enseñó a dominar, ella es agua y tierra. Dos mundos, una familia: lo salvaje y lo civilizado se disuelven porque dios y diosa están juntos; ya no hay dos mundos sino uno que pertenece a ambos.\"\n→ [Análisis arquetípico de Tarzán, 1:43:30](https://youtu.be/Tviv4PT0dv8?t=6210)\n\nTarzán suma a la tipología polar del corpus una variante específicamente Disney: la cosmogonía polar disuelta no por aniquilación del polo opuesto sino por **renuncia mutua a la pureza de cada mundo** — Jane abandona el guante civilizado, Tarzán acepta el lenguaje y la lectura. Ver [[tarzan-1999-film]] para el desarrollo completo.",
+      "justification": "Inserta Tarzán como nueva sección dentro de 'Aplicaciones canónicas en el corpus' tras la última subsección existente (Adán y Eva). El anchor multilínea es único en el archivo: la URL https://youtu.be/J45h7xet8gg?t=40 aparece dos veces, pero la oración completa con 'Se aborda desde la semiótica que maneja el canal' solo aparece en la segunda ocurrencia. La nueva sección incluye wikilink a la nueva página tarzan-1999-film propuesta.",
+      "supersedes_laguna": false,
+      "supersedes_laguna_note": "No cierra la laguna 'Tipología completa de los mitos polares' (no enumera el catálogo) ni la de 'Mito polar negativo o fallido' (Tarzán es polar exitoso). Suma un caso al inventario."
+    },
+    {
+      "target_page_id": "anima-archetype",
+      "operation_type": "insert_after_passage",
+      "anchor": "- **Pandora y Prometeo como lo personal**: Prometeo es la parte ancestral masculina (ambición de robar lo que no le pertenece, impulso de ser como Dios); Pandora es lo femenino personal (no sabe qué hay en la caja pero se deja llevar por la curiosidad). Mitos complementarios\n  → [Ridley Scott, Pandora, Prometeo y el Mito Polar, 1:01:48](https://youtu.be/O4OkDuc3uPQ?t=3708)",
+      "new_content": "\n\n- **La diosa permanece, el dios cambia (Tarzán)**: articulación ontológica explícita del canal. La diosa representa el **ser** y el dios representa el **hacer**; ella empieza siendo diosa y termina siendo diosa, sin crecimiento ni muerte, solo permanencia. Lo masculino, en cambio, es lo maleable, modificable, trabajable: solamente lo masculino cambia el mundo bajo sus manos. Lo femenino permanece como la parte eterna tanto en hombres como en mujeres. Esta lectura matiza la complementariedad de la página: la pareja ánima/ánimus no es solo dos polos cognitivos en simetría, sino una asimetría ontológica entre permanencia y transformación\n  → [Análisis arquetípico de Tarzán, 34:59](https://youtu.be/Tviv4PT0dv8?t=2099)\n\n- **La maternidad como vínculo, no como biología (Tarzán)**: el instinto de ser madre no es el instinto de parir — \"parir es algo que la madre padece, ser madre es lo que la madre hace\". La fuerza está en el vínculo. La naturaleza concede la posibilidad de ser madre de un hijo que no es exactamente tuyo: la máxima aspiración de la diosa es convertir a su hijo en dios, permanencia como esencia de lo femenino. La madre gorila Kala adopta a Tarzán y desciende a los infiernos para enfrentar al leopardo: catábasis-anábasis maternal que restaura el mundo del hijo\n  → [Análisis arquetípico de Tarzán, 33:28](https://youtu.be/Tviv4PT0dv8?t=2008)",
+      "justification": "Añade dos bullets a la sección 'Lectura mítica y cosmológica' tras el último entry existente (Pandora-Prometeo). El anchor (línea completa del bullet con su URL) es único en el archivo. Ambas adiciones son articulaciones ontológicas que la página actual no contiene: la dicotomía ser/hacer y la maternidad como vínculo desbiologizado.",
+      "supersedes_laguna": false,
+      "supersedes_laguna_note": "La laguna 'Animus en sentido estricto subdesarrollado' no se cierra; estos bullets articulan más bien la asimetría general dios/diosa. Mantener la laguna."
+    },
+    {
+      "target_page_id": "individuation",
+      "operation_type": "insert_after_passage",
+      "anchor": "> \"[En el síndrome de Wendy hay una solución junguiana específica] sobre cómo integrar la figura del eterno aventurero (Peter Pan) en lugar de quedarse esperándolo.\"\n→ [El síndrome de Wendy, 1:06:13](https://youtu.be/L7oSZTTK8Gg?t=3973)",
+      "new_content": "\n\n### Tarzán: la identidad construida a través del encuentro con la diosa\n\nLa película Disney articula la individuación como **construcción de identidad mediada por el complementario**:\n\n> \"La estructura mitológica de la película es el hieros gamos, pero el tema particular es la identidad y la construcción del yo. La unión con el complementario permite conocer aquella parte que sin el otro jamás se habría podido descubrir.\"\n→ [Análisis arquetípico de Tarzán, 00:30](https://youtu.be/Tviv4PT0dv8?t=30)\n\nLa crisis de identidad se condensa en el motivo del espejo:\n\n> \"Tarzán reflexiona mirándose en el espejo del agua: mirarse y no reconocerse es la metáfora central de la crisis de identidad.\"\n→ [Análisis arquetípico de Tarzán, 51:04](https://youtu.be/Tviv4PT0dv8?t=3064)\n\nEl canal subraya que la diosa no es rescatadora física sino agente de identidad:\n\n> \"La diosa no viene a salvar al dios del sufrimiento físico sino del mal de no saber quién es: es una solución de identidad. La canción no dice 'enséñame el mundo' sino 'enséñame quién soy, quiero saber cuán extraño soy en este mundo'. Tarzán se conoce a sí mismo a través de la diosa: Jane le enseña a leer, a aprender; el conocimiento solar se despierta junto al sentimiento lunar.\"\n→ [Análisis arquetípico de Tarzán, 1:21:18](https://youtu.be/Tviv4PT0dv8?t=4878)\n\nLa individuación se completa solo cuando el héroe acepta la posibilidad de la soledad absoluta:\n\n> \"No se es héroe de verdad sin asumir la posibilidad de estar absolutamente solo; hay que construirse como si fuera a ser así para siempre. El camino del héroe es renunciar al amparo de los padres, al útero materno, a la protección del estado y la familia, y salir adelante en soledad.\"\n→ [Análisis arquetípico de Tarzán, 1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)\n\nLa identidad, paradójicamente, se construye **imitando**: Tarzán imita perfectamente monos, pájaros, truenos y agua — capacidad que los monos no tienen — para descubrir qué es propio y qué no. La individuación se manifiesta como la chispa que distingue al héroe de su entorno aun cuando aprende imitándolo. Ver [[tarzan-1999-film]] para el desarrollo completo del caso.",
+      "justification": "Inserta nueva subsección 'Tarzán' dentro de 'Casos donde la individuación se cumple en el corpus' tras la última subsección existente (Wendy). El anchor (URL del Síndrome de Wendy) es único en el archivo. La adición usa wikilink a la nueva página tarzan-1999-film propuesta y articula la individuación como construcción de identidad mediada por la diosa — ángulo no presente en la página actual.",
+      "supersedes_laguna": false,
+      "supersedes_laguna_note": "La laguna 'Mito-Polar como caso límite' está parcialmente desactualizada (la página mito-polar ya existe), pero no la cierro desde aquí — corresponde a una revisión meta de lagunas de la página, no a este vídeo."
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "mito lunar",
+      "reason_code": "concept_referenced_not_developed_substantively",
+      "reason_detail": "En canonical_whitelist con auto_promote=true. El vídeo invoca 'la diosa lunar' y 'la noche azul como culmen lunar' pero como pieza aplicada, no como exposición conceptual. Misma lógica que mito-solar.",
+      "quote_evidence": "Jane logra en prácticamente nada lo que a Tarzán le costó años, porque es la diosa lunar y la selva le pertenece",
+      "review_priority": "high",
+      "review_priority_reason": "Whitelist canónica auto_promote=true + wikilinks rotos referenciados desde 5+ páginas. Esperar vídeo monográfico apropiado."
+    },
+    {
+      "surface_form": "tres partes del yo (Tarzán/gorila/elefante = yo/ello/super-yo)",
+      "reason_code": "applicative_psychoanalytic_reading_specific_to_obra",
+      "reason_detail": "Lectura freudiana específica de los tres protagonistas (yo/ello/super-yo) que el canal aplica como dispositivo narrativo a esta película. No constituye thesis_candidate (no es articulación de marco original) ni concepto promovible (es lectura puntual, no recurrente). Mejor capturado dentro de la futura página tarzan-1999-film como sección de análisis.",
+      "quote_evidence": "Tarzán representa el yo; la amiga gorila representa el ello (instintos, visceralidad); el elefante hipocondríaco representa el super yo (sobreintelectualización)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Sagrada Familia (concepto canal)",
+      "reason_code": "concept_subsumed_in_hieros_gamos",
+      "reason_detail": "El canal articula 'Sagrada Familia' como tríada resultante del hieros gamos (masculino + femenino + hijo). Aparece ya citado literalmente en hieros-gamos.md desde este mismo vídeo (07:42). No requiere promoción independiente; vive como sub-articulación dentro de hieros-gamos.",
+      "quote_evidence": "La Sagrada Familia es la tríada resultante del hieros gamos: lo masculino, lo femenino y el hijo",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en otros vídeos el concepto 'Sagrada Familia' se desarrolla autónomamente (no como sub-pieza del hieros gamos), considerar página propia. Por ahora, sub-concepto."
+    },
+    {
+      "surface_form": "destino manifiesto (canción que canta el destino)",
+      "reason_code": "narrative_device_not_concept",
+      "reason_detail": "Recurso narrativo del filme (la canción como voz del destino divino) interpretado por el canal. Es lectura específica de Tarzán, no concepto teórico. Pertenece a la futura página tarzan-1999-film.",
+      "quote_evidence": "Los protagonistas no cantan ni una sola vez; quien canta es el destino manifiesto, el creador de la metáfora, Dios a su creación",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "símbolo de las manos (pies vs manos)",
+      "reason_code": "specific_obra_symbology",
+      "reason_detail": "Sistema simbólico interno del filme (pies como igualdad evolutiva/peligro, manos como paz/encuentro) específico de Tarzán. Material para tarzan-1999-film, no concepto independiente.",
+      "quote_evidence": "Los pies representan el encuentro en lo salvaje y el peligro; las manos representan el encuentro en la paz bajo la lluvia",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Disney (estudio)",
+      "reason_code": "institution_out_of_scope_for_now",
+      "reason_detail": "Disney como institución productora aparece como contexto pero no es objeto de análisis sustantivo. scope.md §2.5 reserva 'institution' para futuro con review_priority high.",
+      "quote_evidence": "La primera película de Disney donde los protagonistas no cantan",
+      "review_priority": "high",
+      "review_priority_reason": "Disney es factor estructurante de buena parte del corpus arquetípico del canal (Sirenita, Cenicienta, Frozen, Enredados, Bella Durmiente, Tarzán, Bambi). Considerar página tipo 'institution' o 'corpus_subset' en revisión meta."
+    },
+    {
+      "surface_form": "personajes de la película (Tarzán, Jane, Kerchak, Clayton, Kala, Kerchak)",
+      "reason_code": "in_fiction_characters",
+      "reason_detail": "Personajes de la obra. No promovibles como entidades independientes; capturados como contenido analítico dentro de tarzan-1999-film.",
+      "quote_evidence": "Padre salvaje (kerchak) y padre civilizado (Clayton) comparten iniciales; madre salvaje y madre civilizada como espejos de la diosa",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Adán y Eva / pecado original",
+      "reason_code": "passing_reference_to_other_polar_case",
+      "reason_detail": "Referencia comparativa al mito polar canónico judeocristiano ('El árbol de la vida y el árbol del conocimiento del bien y del mal rompieron la armonía del paraíso'). Ya cubierto en mito-polar.md como caso. No requiere acción aquí.",
+      "quote_evidence": "El árbol de la vida y el árbol del conocimiento del bien y del mal rompieron la armonía del paraíso, igual que la familia construye su castillo junto al sol iniciando el camino del héroe",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "La Sirenita (Ariel) — referencia comparativa",
+      "reason_code": "comparative_mention_no_analysis_here",
+      "reason_detail": "Mención comparativa: las tres partes del yo de Tarzán funcionan 'igual que los compañeros de Ariel en La Sirenita'. La Sirenita ya está citada en hieros-gamos.md como caso propio; aquí solo es analogía estructural.",
+      "quote_evidence": "Las tres partes del yo (Tarzán, gorila, elefante) funcionan como monólogo interior, igual que los compañeros de Ariel en La Sirenita",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "viaje del héroe (Campbell, monomito)",
+      "reason_code": "concept_referenced_already_in_whitelist",
+      "reason_detail": "El video invoca 'el camino del héroe' como marco aplicado. Concepto en canonical_whitelist (viaje-heroe, auto_promote=true) — no se promueve desde aquí porque el tratamiento es aplicativo, no exposición monográfica del concepto. La página individuation.md ya cita extensamente el viaje del héroe en su sección dedicada.",
+      "quote_evidence": "El camino del héroe consiste en encontrar equilibrio entre la parte animal y la parte humana",
+      "review_priority": "high",
+      "review_priority_reason": "Whitelist canónica auto_promote=true. Wikilinks rotos pendientes. Promover en vídeo monográfico apropiado (hay material campbelliano disperso por el corpus que probablemente ya alcanza el umbral cuando se agregue)."
+    },
+    {
+      "surface_form": "mito del dios nacido de las aguas / Moisés / canasto",
+      "reason_code": "mythological_topos_referenced",
+      "reason_detail": "Tópico mítico clásico (dios/héroe encontrado en cesta sobre las aguas) invocado como subestructura. Sin desarrollo monográfico aquí. Posible material para futura página de 'tópicos del mito polar' o como sub-pieza de mito-polar.",
+      "quote_evidence": "El bebé es encontrado en una cesta sobre las aguas, repitiendo el mito del dios nacido de las aguas flotando sobre la nada",
+      "review_priority": "medium",
+      "review_priority_reason": "Tópico recurrente en el corpus (Moisés, Tarzán, Superman). Si el canal lo articula explícitamente como categoría en otro vídeo, considerar página propia."
+    },
+    {
+      "surface_form": "consumismo / civilización corrupta (Clayton)",
+      "reason_code": "tangential_to_existing_page",
+      "reason_detail": "Lectura crítica de la civilización a través de Clayton ('lo peor de lo civilizatorio: voluntad de engaño y voluntad de matar para coleccionar'). Tangencial a consumismo-critica.md pero específica de Tarzán y mejor capturada en la futura página de la película.",
+      "quote_evidence": "Clayton representa lo peor de lo civilizatorio y lo peor de lo animal: la voluntad de engaño y la voluntad de matar para coleccionar",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[mito solar] reason=concept_referenced_not_developed_substantively quote no literal",
+    "DROP discarded[tres dones de la diosa (gracia, esperanza, belleza) vs un don del dios (fuego)] reason=specific_obra_articulation_of_polar quote no literal"
+  ]
+}

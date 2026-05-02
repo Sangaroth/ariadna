@@ -120,6 +120,25 @@ El hieros gamos también funciona como **lente para detectar uniones disfunciona
 > "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente. Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes."
 → [Eyes Wide Shut, 30:52](https://youtu.be/olX_-KIziX0?t=1852)
 
+
+### Drácula (Coppola, 1992): hieros gamos satánico invertido
+
+El canal lee Drácula como caso paradigmático de **hieros gamos invertido** — el rito conserva su forma pero con polaridad demoníaca. El caballero de la Sagrada Orden del Dragón, al perder a su amada (cuyo suicidio la condena al infierno), se rebela contra Dios atravesando la cruz con la espada y bebiendo la sangre del sacrilegio (sangre arrebatada, no ofrecida en sacramento). Queda condenado a alimentarse de sangre eternamente: el caballero de Dios deviene demonio.
+
+> "Drácula simboliza simultáneamente un amante trágico, un sacrílego, un demonio y un caballero maldito."
+→ [Análisis arquetípico de Drácula, 56:53](https://youtu.be/JmCqIk6NDsM?t=3413)
+
+La estructura ritual del hieros gamos satánico aparece consumada cuando Mina y Drácula bailan entre velas:
+
+> "Los amantes bailan entre velas renunciando a su sentido originario de matrimonio santificado para ser amantes prohibidos."
+→ [Análisis arquetípico de Drácula, 2:21:00](https://youtu.be/JmCqIk6NDsM?t=8460)
+
+La redención final invierte la inversión: Mina renuncia al hieros gamos satánico al matar al vampiro con sus propias manos y trasciende lo físico ("te veré en otra vida"), recuperando la posibilidad de un matrimonio santo con Jonathan ya purificado.
+
+> "El hierosgamos satánico no se consuma; Mina mira hacia arriba y dice 'te veré en otra vida', trascendiendo lo físico."
+→ [Análisis arquetípico de Drácula, 2:53:51](https://youtu.be/JmCqIk6NDsM?t=10431)
+
+
 ## Conexiones teóricas adyacentes
 
 ### Alquimia y conjunctio

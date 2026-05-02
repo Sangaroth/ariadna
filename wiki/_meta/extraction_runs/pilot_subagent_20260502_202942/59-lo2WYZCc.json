@@ -1,0 +1,100 @@
+{
+  "video_id": "59-lo2WYZCc",
+  "video_title": "T5x11: El amor en realidad II",
+  "playlist": "el-amor-en-realidad",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_no_promote_new": "Vídeo en formato directo multivoz (Proxy + Conde + Senglar + Rafa) sobre dinámicas relacionales contemporáneas. Categoría 'cultura y actualidad', no análisis arquetípico. El registro es conversacional/anecdótico, no estructuralmente arquetípico. La mayor parte del material sustantivo o (a) son posiciones de invitados (no Proxy), (b) son anécdotas autobiográficas, (c) se solapa con material ya cubierto en consumismo-critica.md / anima-archetype.md / hieros-gamos.md a nivel teórico, sin aporte estructural nuevo, o (d) son referencias culturales coyunturales (apps de citas, Isla de las Tentaciones, Instagram). No hay candidatos suficientemente estructurados para promote_new ni para pending_updates limpios. Lo más cercano a thesis sustantiva ('antes del feminismo: nadie sabe ya qué es ser hombre o mujer') la articula Senglar, no Proxy — fuera del alcance de §2.4.1 (que reserva author_thesis para articulaciones del speaker del canal).",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "estadística divorcio Francia 90% (Conde)",
+      "reason_code": "unsourced_statistical_claim_guest",
+      "reason_detail": "Cifra concreta sin fuente verificable, articulada por invitado. No promovible como hecho enciclopédico.",
+      "quote_evidence": "En Francia el 90% de divorcios se daría cuando la mujer gana más que el hombre",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Tinder / Bumble (apps de citas)",
+      "reason_code": "platform_reference_no_treatment",
+      "reason_detail": "Referencias a plataformas comerciales como contexto de la discusión. No analizadas como objetos culturales con marco teórico propio.",
+      "quote_evidence": "Las apps de citas ofrecen aproximación sin riesgo de rechazo presencial",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "monaguillo viral (caso Twitter)",
+      "reason_code": "anecdotal_internet_reference",
+      "reason_detail": "Caso viral mencionado para ilustrar el doble estándar en sexualización. Anécdota cultural coyuntural.",
+      "quote_evidence": "Un chaval guapo vestido de monaguillo se viraliza con comentarios sexualizantes de mujeres",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "embarazo geriátrico / reloj biológico",
+      "reason_code": "biomedical_concept_invoked_in_dating_discussion",
+      "reason_detail": "Conceptos biomédicos invocados como contexto de la temporalidad reproductiva. Fuera del scope arquetípico del wiki (regla dura 9b — temas neurociencia/medicina clínica fuera de scope §1).",
+      "quote_evidence": "A partir de los 35 años se considera embarazo geriátrico con todo su impacto cultural",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "cobardes mueren mil veces (divisa, Conde)",
+      "reason_code": "rhetorical_motto_not_concept",
+      "reason_detail": "Cita rhetórica usada como divisa motivacional, no concepto arquetípico.",
+      "quote_evidence": "Conde propone como divisa la frase para impulsar la aproximación masculina",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "comunidad del canal / red de Coramelos",
+      "reason_code": "meta_channel_community",
+      "reason_detail": "Referencias a la comunidad y red social del canal (Discord/Coramelos). Meta-canal, scope §3.",
+      "quote_evidence": "Rafa cuenta que conoció a su prometida gracias a la red de la comunidad del canal",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Conde / Senglar / Rafa / Coramelos (invitados)",
+      "reason_code": "guests_not_extractable_as_authors",
+      "reason_detail": "Invitados al directo. No son figuras académicas/literarias en el sentido de scope.md §2.2 (authors). Su material conversacional no genera páginas propias en el wiki.",
+      "quote_evidence": "Cuatro visiones complementarias dejan aprendizajes incluso para el anfitrión",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 21,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[hipergamia (concepto manosphere)] reason=concept_invoked_discursively_not_developed quote no literal",
+    "DROP discarded[cortejo (ritual de aproximación)] reason=concept_discussed_not_theorized quote no literal",
+    "DROP discarded[polaridad masculino/femenino aplicada al cortejo (pasivo/activo)] reason=applicative_use_of_existing_polar_framework quote no literal",
+    "DROP discarded[pérdida de la esencia masculina y femenina (Senglar)] reason=guest_position_not_proxy_thesis quote no literal",
+    "DROP discarded[ranking asimétrico 0-10 vs 7-10 (Conde)] reason=guest_typology_manosphere_register quote no literal",
+    "DROP discarded[tipología macarra vs currante (Conde)] reason=guest_typology_dating_discourse quote no literal",
+    "DROP discarded[revolución feminista como torpedeo del cortejo (Conde)] reason=cultural_critical_position_of_guest quote no literal",
+    "DROP discarded[sin Dios no hay relación (Conde)] reason=guest_position_aligned_but_not_proxy_articulation quote no literal",
+    "DROP discarded[castidad bien entendida (Conde)] reason=religious_concept_invoked_discursively quote no literal",
+    "DROP discarded[trauma como desbloqueo de mapa (Senglar)] reason=guest_personal_articulation quote no literal",
+    "DROP discarded[Proxy en Bumble/Tinder (autobiográfico)] reason=host_personal_anecdote quote no literal",
+    "DROP discarded[Tinder como entrenamiento conversacional (Proxy)] reason=host_personal_anecdote quote no literal",
+    "DROP discarded[La Isla de las Tentaciones (programa TV)] reason=passing_cultural_reference quote no literal",
+    "DROP discarded[Instagram (filtros, influencers, narcisismo)] reason=platform_referenced_in_critique_no_dedicated_treatment quote no literal",
+    "DROP discarded[miedo masculino a denuncia / autodemolición (Conde-Senglar)] reason=discursive_dialogue_no_structural_articulation quote no literal"
+  ]
+}

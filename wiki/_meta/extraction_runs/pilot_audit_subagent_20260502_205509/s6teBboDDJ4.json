@@ -1,0 +1,478 @@
+{
+  "video_id": "s6teBboDDJ4",
+  "video_title": "el Génesis en Tolkien (Parte 1)",
+  "playlist": "_streams",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Génesis (como categoría mitológica)",
+      "canonical_guess": "genesis-mitologico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Todos los Génesis tienen la misma estructura: al principio no había nada, y de repente algo fue,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los Génesis son ejercicios de catarsis psicológica que recapitulan los procesos psicológicos fundamentales de los individuos,"
+        },
+        {
+          "mark_type": "cross_domain_analogy",
+          "quote_evidence": "La generación de una idea, la síntesis representacional, tiene la misma estructura que un Génesis: \"hágase la luz\","
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 'Monográfico + Framing-mark + Channel-canonical': el canal articula una definición estructural propia de qué es un Génesis (recapitulación metafórica de orígenes, catarsis psicológica, isomorfismo con la síntesis mental), aplicada cross-fuentes (bíblico, tolkieniano, cognitivo). Es uno de los cuatro mitos fundamentales que el canal identifica como armazón mítico de Tolkien y, por extensión, de la voluntad cultural. Pieza load-bearing del aparato del canal: hub natural para futuras lecturas cosmogónicas (Silmarillion, mesopotámicas, Hesíodo, etc.).",
+      "quote_evidence": "Los Génesis son ejercicios de catarsis psicológica que recapitulan los procesos psicológicos fundamentales de los individuos,"
+    },
+    {
+      "surface_form": "J. R. R. Tolkien",
+      "canonical_guess": "tolkien-jrr",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 70,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La mitopoyesis de Tolkien es una de las mejores recapitulaciones de las estructuras mitológicas que subyacen a la voluntad cultural,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página tolkien-jrr ya existe (auto_promote canónico). Vídeo monográfico de 81min sobre el Ainulindalë: aporta material que rellena dos lagunas declaradas explícitamente (mal primario / Melkor; dimensión católica como elemento de estructura). Update obligatorio.",
+      "quote_evidence": "Tolkien no contó nada nuevo sino la misma vieja historia de siempre de la forma más novedosa y original posible,"
+    },
+    {
+      "surface_form": "El Silmarillion / Ainulindalë",
+      "canonical_guess": "el-silmarillion",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 70,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El Ainulindalë son notas recopiladas por Christopher Tolkien, no una obra terminada por J.R.R. Tolkien,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página existente cubre solo Aulë/Yavanna (post-Ainulindalë). Este vídeo expone íntegramente el Ainulindalë (cosmogonía musical previa: Ilúvatar, Ainur, llama imperecedera, discordancia de Melkor, tres formas del mal, Visión, hijos de Ilúvatar). El Ainulindalë es prólogo cronológico de la obra y debe figurar como sección anterior a la lectura de los Valar terrestres. No promote_new: el Ainulindalë no es obra independiente (Christopher Tolkien lo compiló a partir de notas).",
+      "quote_evidence": "Los Ainur son emanaciones: individuaciones a partir del todo, pasos del infinito a la unidad, de lo abstracto a lo concreto,"
+    },
+    {
+      "surface_form": "Mitología propia (autorreferencialidad)",
+      "canonical_guess": "mitologia-propia-impropia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las metáforas mitológicas de los mitos propios son autorreferenciales porque las representaciones mentales también lo son,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página existente articula la distinción propia/impropia pero no incluye la dimensión cognitiva — los mitos propios como autorreferenciales por isomorfismo con las representaciones mentales. Update breve pero conceptualmente cargado.",
+      "quote_evidence": "Las metáforas mitológicas de los mitos propios son autorreferenciales porque las representaciones mentales también lo son,"
+    },
+    {
+      "surface_form": "Lucifer / Satanás (distinción y tres acepciones)",
+      "canonical_guess": "lucifer-satanas",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La figura de Lucifer como ángel rebelde fue desarrollada por San Agustín, Santo Tomás de Aquino, Dante y Milton, no proviene de la Biblia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Bloque sustantivo (~12min) con genealogía no bíblica de Lucifer y tres acepciones de Satanás (Job/desesperanza, Evangelios/oposición, Apocalipsis/Bestia). Pero es exégesis bíblica para preparar la lectura de Melkor, no marco aplicado independientemente por el canal. Sin recurrencia confirmada en otros vídeos. Mantener como contenido potencial de la página tolkien-jrr/el-silmarillion (figuras del mal); promover si reaparece con tratamiento independiente.",
+      "quote_evidence": "Satanás como anticristo es un competidor de Cristo que podría hacer el bien; Lucifer nunca podría,"
+    },
+    {
+      "surface_form": "Melkor",
+      "canonical_guess": "melkor",
+      "page_type": "concept",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 15,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Personaje de la mitología tolkieniana central a este análisis (15min de tratamiento psicológico — herida narcisista, ansiedad creativa, búsqueda de la llama). Pero es figura interna del Silmarillion, no concepto del canal con vida propia. Su material se canaliza como contenido de la página el-silmarillion en la sección nueva sobre Ainulindalë. Promover sería duplicar material ya cubierto en la obra parent.",
+      "quote_evidence": "La herida de Melkor es la ansiedad creativa de quien no encaja entre sus iguales y busca autodeterminarse,"
+    },
+    {
+      "surface_form": "Ilúvatar",
+      "canonical_guess": "iluvatar",
+      "page_type": "concept",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Figura cosmogónica tolkieniana (el Uno). Tratamiento sustantivo dentro del Ainulindalë pero sin vida conceptual fuera del Silmarillion. Material absorbido en update de el-silmarillion.",
+      "quote_evidence": "Para Ilúvatar no hay causa y consecuencia; desde el primer momento ya es consciente de toda la obra que se desarrollará,"
+    },
+    {
+      "surface_form": "Ainur",
+      "canonical_guess": "ainur",
+      "page_type": "concept",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Categoría tolkieniana (emanaciones de Ilúvatar). Tratamiento dentro del Silmarillion. Material en update de el-silmarillion.",
+      "quote_evidence": "Los Ainur son emanaciones: individuaciones a partir del todo, pasos del infinito a la unidad, de lo abstracto a lo concreto,"
+    },
+    {
+      "surface_form": "llama imperecedera",
+      "canonical_guess": "llama-imperecedera",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "cross_domain_analogy",
+          "quote_evidence": "Psicológicamente equivale al reflejo de orientación: la capacidad de convertir lo desconocido en representación útil,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Concepto tolkieniano con lectura psicologista del canal (capacidad creadora ex nihilo = reflejo de orientación). Tratamiento breve, dependiente de la cosmogonía del Silmarillion. Material en update de el-silmarillion.",
+      "quote_evidence": "La llama imperecedera es la capacidad creadora de Dios proyectada sobre los Ainur: la inspiración divina,"
+    },
+    {
+      "surface_form": "Tuatha Dé Danann",
+      "canonical_guess": "tuatha-de-danann",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mitología celta irlandesa citada como inspiración estética de Tolkien. Sin tratamiento propio del canal. Material en update de tolkien-jrr (sección sobre fuente estética céltica).",
+      "quote_evidence": "Los Tuatha Dé Danann son la inspiración estética principal de toda la obra de Tolkien,"
+    },
+    {
+      "surface_form": "Cristo / sacrificio (lectura del canal)",
+      "canonical_guess": "cristo-sacrificio-lectura",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cristo llevó sus enseñanzas hasta las últimas consecuencias de su propia muerte para ser el héroe solar que los discípulos necesitaban,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Bloque de 8min con lectura del canal sobre el sacrificio de Cristo como pacto mitológico (Cristo como héroe solar). Material on-axis pero introductorio al análisis tolkieniano (preparar la idea de mal primario y redención). Sin recurrencia confirmada con tratamiento independiente. Posible promote en el futuro si aparece en directos sobre cristología.",
+      "quote_evidence": "El sacrificio revela simultáneamente la falibilidad humana, la omnisciencia de Dios y la perfección de Cristo como héroe solar,"
+    },
+    {
+      "surface_form": "cábala / sefirot",
+      "canonical_guess": "cabala",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mención analógica única para iluminar la estructura de los temas musicales de los Ainur. canonical_whitelist incluye 'kabbalah' como soft (auto_promote:false); este vídeo no la trabaja como marco propio.",
+      "quote_evidence": "Cada Ainur recibe un tema como un campo matemático nuevo por explorar, un ámbito del ser comparable a las sefirot de la cábala,"
+    },
+    {
+      "surface_form": "Apocalipsis (como mito fundamental)",
+      "canonical_guess": "apocalipsis-mito",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Nombrado como uno de los cuatro mitos fundamentales de Tolkien y aparece en la acepción de Satanás como Bestia hijo del Dragón. Sin tratamiento monográfico propio. Si parte 2 del directo lo desarrolla, valorar promote entonces.",
+      "quote_evidence": "En el Apocalipsis, la Bestia es el hijo del Dragón: el mal cetónico materializado en un individuo para el final de los tiempos,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "el-silmarillion",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Génesis tolkieniano y polaridad cosmogónica",
+      "section_target": null,
+      "content_proposed": "## La música creadora: el Ainulindalë\n\nEl Silmarillion abre con el **Ainulindalë**, \"la música de los Ainur\": cosmogonía propia donde Ilúvatar (el Uno) emana primero a los Ainur — espíritus que el canal lee como individuaciones del infinito hacia la unidad — y les concede temas musicales para que canten la creación. La música funciona aquí como metáfora del transcurso creativo: tiene frases y tiempo, principio y final.\n\n> \"Los Ainur son emanaciones: individuaciones a partir del todo, pasos del infinito a la unidad, de lo abstracto a lo concreto. En la mitología oriental los Ainur equivalen a los devas; en el catolicismo, a los primeros arcángeles.\"\n→ [el Génesis en Tolkien (Parte 1), 37:39](https://youtu.be/s6teBboDDJ4?t=2259)\n\n> \"Cada Ainur recibe un tema como un campo matemático nuevo por explorar, un ámbito del ser comparable a las sefirot de la cábala.\"\n→ [el Génesis en Tolkien (Parte 1), 41:11](https://youtu.be/s6teBboDDJ4?t=2471)\n\nEl Ainulindalë es para el canal el caso más limpio del [[genesis-mitologico|Génesis arquetípico]]: paso del silencio a la armonía, de la nada al orden, isomorfo con la síntesis representacional misma.\n\n### La llama imperecedera y la inspiración divina\n\nIlúvatar conserva consigo la **llama imperecedera** — la capacidad creadora ex nihilo del increado — y la proyecta sobre los Ainur como inspiración divina. El canal articula su lectura psicologista: equivale al reflejo de orientación, la facultad cognitiva de convertir lo desconocido en representación útil.\n\n> \"La llama imperecedera es la capacidad creadora de Dios proyectada sobre los Ainur: la inspiración divina. Psicológicamente equivale al reflejo de orientación: la capacidad de convertir lo desconocido en representación útil.\"\n→ [el Génesis en Tolkien (Parte 1), 45:13](https://youtu.be/s6teBboDDJ4?t=2713)\n\n### Melkor: la herida narcisista y el origen psicológico de la discordancia\n\nLa armonía no se mantiene. Melkor — dotado de los mayores dones de poder y conocimiento — sale solo a los lugares vacíos buscando la llama imperecedera para tener potencia creadora autónoma equivalente a la de Ilúvatar. Nunca la encuentra (la creación de la nada solo pertenece al increado) y comienza a tener temas propios distintos de sus hermanos. El canal lee este movimiento como crisis de identidad: ansiedad creativa de quien no encaja entre sus iguales.\n\n> \"La herida de Melkor es la ansiedad creativa de quien no encaja entre sus iguales y busca autodeterminarse.\"\n→ [el Génesis en Tolkien (Parte 1), 54:18](https://youtu.be/s6teBboDDJ4?t=3258)\n\n> \"Melkor iba solo a los sitios vacíos buscando la llama imperecedera para tener potencia autónoma como Ilúvatar. Nunca encontró el fuego genuino porque la capacidad de creación de la nada solo pertenece al increado.\"\n→ [el Génesis en Tolkien (Parte 1), 57:49](https://youtu.be/s6teBboDDJ4?t=3469)\n\nLa discordancia se contagia entre Ainur — \"el mismo mecanismo que Eva retorciendo las palabras de Dios para que digan lo que ella quiere\" — desplegando lo que el canal articula como las **tres primeras formas del mal**: el mal salvaje y primigenio (discordancia pura), el mal exógeno que paraliza al contemplarlo, y el mal que corrompe desde dentro con intención y propósito. Una cuarta forma — el mal que posee y destruye, personificado en Melkor maduro y en Gollum — quedará reservada al Señor de los Anillos.\n\n> \"Existe una cuarta forma reservada al Señor de los Anillos: el mal que te posee y destruye, personificado en Melkor y en Gollum,\"\n→ [el Génesis en Tolkien (Parte 1), 1:01:55](https://youtu.be/s6teBboDDJ4?t=3715)\n\n### Ilúvatar de pie por tercera vez: el dolor divino y el límite del mal\n\nTras tres intervenciones para reconducir la música, Ilúvatar mismo se pone de pie con una emoción que el canal subraya como incomprensible — \"se había concedido la emoción que acompañaba a la discordancia\". A Melkor le cierra la herida narcisista con una sentencia quirúrgica: \"ningún tema puede tocarse que no tenga su fuente más profunda en él\". La obra del mal queda estructuralmente subordinada y el perdón posible consiste en convertir el mal exógeno en bien.\n\n> \"Melkor estaba ilusionado consigo mismo y Dios rompe esa ilusión: todo lo que hagas estará por debajo de algo. Incluso corrompidos por el mal, la obra de Dios permite la redención: el perdón es convertir el mal exógeno en bien.\"\n→ [el Génesis en Tolkien (Parte 1), 1:10:28](https://youtu.be/s6teBboDDJ4?t=4228)\n\n### De la música a la materia: la Visión y los hijos de Ilúvatar\n\nIlúvatar transforma entonces lo somático en material: lleva a los Ainur al vacío, les da vista donde antes solo había oído, y les muestra un mundo abovedado donde su música cobra forma. En el tercer tema aparecen los **hijos de Ilúvatar** — elfos y hombres — que ningún Ainur había concebido. La realidad se revela mayor que la suma aparente de sus partes.\n\n> \"Ilúvatar lleva a los Ainur al vacío y les da vista donde antes solo había oído: la forma nace de lo abstracto. Los Ainur son la cognición y los afectos; la visión es los sentidos, la capacidad de comunicarse con el mundo material.\"\n→ [el Génesis en Tolkien (Parte 1), 1:13:59](https://youtu.be/s6teBboDDJ4?t=4439)\n\n> \"Los hijos de Ilúvatar llegaron con el tercer tema y ningún Ainur había intervenido en su creación.\"\n→ [el Génesis en Tolkien (Parte 1), 1:16:01](https://youtu.be/s6teBboDDJ4?t=4561)\n\nEl canal subraya que el Ainulindalë no es obra terminada por J.R.R.: Christopher Tolkien lo compiló a partir de notas dispersas, lo que matiza cualquier lectura cerrada del texto.\n\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "genesis-mitologico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 2259,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 37:39](https://youtu.be/s6teBboDDJ4?t=2259)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 2471,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 41:11](https://youtu.be/s6teBboDDJ4?t=2471)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 2713,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 45:13](https://youtu.be/s6teBboDDJ4?t=2713)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 3258,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 54:18](https://youtu.be/s6teBboDDJ4?t=3258)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 3469,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 57:49](https://youtu.be/s6teBboDDJ4?t=3469)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 3715,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 1:01:55](https://youtu.be/s6teBboDDJ4?t=3715)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 4228,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 1:10:28](https://youtu.be/s6teBboDDJ4?t=4228)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 4439,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 1:13:59](https://youtu.be/s6teBboDDJ4?t=4439)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 4561,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 1:16:01](https://youtu.be/s6teBboDDJ4?t=4561)"
+        }
+      ],
+      "rationale": "La página existente cubre solo Aulë/Yavanna (creación post-Ainulindalë). Este vídeo expone íntegramente el Ainulindalë, capítulo prólogo del Silmarillion. La sección nueva debe ir CRONOLÓGICAMENTE antes de 'Génesis tolkieniano y polaridad cosmogónica' (que ya trata material posterior — los Valar terrestres). insert_before_passage anclando en la primera sección actual preserva el orden narrativo de la obra. Material genuinamente nuevo: Ilúvatar, Ainur como emanaciones, llama imperecedera, herida narcisista de Melkor, las tres formas del mal, dolor divino, paso de música a materia, hijos de Ilúvatar.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "tolkien-jrr",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Conexión con otros temas del corpus",
+      "section_target": null,
+      "content_proposed": "## La mitopoyesis tolkieniana: estructuras universales en forma novedosa\n\nEl canal lee a Tolkien como uno de los grandes recapituladores de las estructuras mitológicas occidentales. Su mérito no está en la novedad de los temas sino en la novedad de la forma:\n\n> \"La mitopoyesis de Tolkien es una de las mejores recapitulaciones de las estructuras mitológicas que subyacen a la voluntad cultural. Tolkien no contó nada nuevo sino la misma vieja historia de siempre de la forma más novedosa y original posible.\"\n→ [el Génesis en Tolkien (Parte 1), 04:46](https://youtu.be/s6teBboDDJ4?t=286)\n\nLos **cuatro mitos fundamentales** que el canal identifica en Tolkien son el [[genesis-mitologico|Génesis]], la transición, el [[mito-polar]] y el Apocalipsis — armazón que permite leer la obra entera como recorrido cosmogónico-escatológico.\n\n> \"Los mitos fundamentales en Tolkien son el Génesis, la transición, el mito polar y el Apocalipsis.\"\n→ [el Génesis en Tolkien (Parte 1), 04:46](https://youtu.be/s6teBboDDJ4?t=286)\n\n### Inspiración estética celta sobre estructura mítica católica\n\nEl canal subraya un dispositivo característico de Tolkien: tomar la fauna mitológica céltica irlandesa (especialmente los Tuatha Dé Danann) como inspiración estética y dotarla de un papel fantástico identificándola con la gran mitología del catolicismo.\n\n> \"Los Tuatha Dé Danann son la inspiración estética principal de toda la obra de Tolkien. Tolkien tomó mitos bárbaros y salvajes y les dotó de un papel fantástico identificándolos con la gran mitología del catolicismo.\"\n→ [el Génesis en Tolkien (Parte 1), 27:29](https://youtu.be/s6teBboDDJ4?t=1649)\n\nEste movimiento articula la dimensión católica que la lectura del canal venía señalando como \"elemento de estructura\": Tolkien no traduce la mitología bárbara al catolicismo, la **integra** en su mitopoyesis personal sin disolver la fuerza estética original ni la estructura teológica de fondo.\n\n### El mal primario: la herida narcisista de Melkor\n\nEl mal primario en Tolkien — Melkor / Morgoth en el Silmarillion — se origina como crisis de identidad en el Ainulindalë. Melkor, el mayor de los Ainur, busca la llama imperecedera para tener potencia creadora autónoma equivalente a la de Ilúvatar. No la encuentra (la creación ex nihilo solo pertenece al increado) y comienza a tener temas propios distintos de sus hermanos. El canal lee esto como ansiedad creativa de quien no encaja entre sus iguales:\n\n> \"La herida de Melkor es la ansiedad creativa de quien no encaja entre sus iguales y busca autodeterminarse.\"\n→ [el Génesis en Tolkien (Parte 1), 54:18](https://youtu.be/s6teBboDDJ4?t=3258)\n\nIlúvatar le cierra la herida narcisista con una sentencia decisiva: \"ningún tema puede tocarse que no tenga su fuente más profunda en él\". La obra del mal queda así estructuralmente subordinada y el perdón posible consiste en convertir el mal exógeno en bien. Para el desarrollo del Ainulindalë con las cuatro formas del mal articuladas por el canal, ver [[el-silmarillion]].\n\n",
+      "supersedes_laguna_text": "Falta el tratamiento del mal primario (Melkor / Morgoth / Sauron) que el título del vídeo anuncia pero que el fragmento recuperado no desarrolla",
+      "wikilinks_introduced": [
+        "genesis-mitologico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 286,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 04:46](https://youtu.be/s6teBboDDJ4?t=286)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 1649,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 27:29](https://youtu.be/s6teBboDDJ4?t=1649)"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 3258,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 54:18](https://youtu.be/s6teBboDDJ4?t=3258)"
+        }
+      ],
+      "rationale": "Rellena dos lagunas declaradas en la página: (a) 'Falta el tratamiento del mal primario (Melkor / Morgoth / Sauron)' — supersedes explícito; (b) 'La dimensión católica que el canal menciona como 'elemento de estructura' no se desarrolla' — fill parcial vía la explicitación del dispositivo Tuatha Dé Danann + estructura católica. Aporta también el armazón mitopoético de cuatro piezas (Génesis, transición, polar, Apocalipsis), pieza nueva para encuadrar futuros análisis tolkienianos. insert_before 'Conexión con otros temas del corpus' coloca esta sección como cierre temático antes del bloque de relaciones, posición editorial natural. Cubre la laguna sobre Sauron solo parcialmente (Sauron no aparece en este vídeo); por eso supersedes_laguna no se reemplaza por completo — el editor humano deberá decidir si la laguna queda cerrada con Melkor/Morgoth o si se reformula para mantener el hueco sobre Sauron.",
+      "editorial_intent": "fill_laguna"
+    },
+    {
+      "page_id": "mitologia-propia-impropia",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": null,
+      "content_proposed": "## La autorreferencialidad de los mitos propios\n\nEn el análisis del Génesis tolkieniano el canal añade una dimensión cognitiva a la distinción: los mitos propios funcionan estructuralmente como las representaciones mentales mismas — son autorreferenciales. Donde el mito impropio se presenta como verdad ya dada, el mito propio refleja la operación de la mente que genera ideas. \"Hágase la luz\" tiene la misma estructura que la síntesis representacional: paso del silencio al sentido, de lo no-articulado a lo articulado.\n\n> \"Las metáforas mitológicas de los mitos propios son autorreferenciales porque las representaciones mentales también lo son.\"\n→ [el Génesis en Tolkien (Parte 1), 35:38](https://youtu.be/s6teBboDDJ4?t=2138)\n\nEsto arroja luz sobre por qué los autores que construyen mitos propios — como [[lovecraft-howard]] y [[tolkien-jrr]] — pueden producir piezas con tanta potencia simbólica: están reproduciendo, en escala literaria, la dinámica básica de la cognición humana al generar sentido a partir del vacío representacional. La conexión enlaza esta página con el [[genesis-mitologico|Génesis arquetípico]] como concepto-bisagra entre mitología y representación mental.\n\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "genesis-mitologico",
+        "tolkien-jrr"
+      ],
+      "citations_added": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "timestamp_seconds": 2138,
+          "cite_markdown": "[el Génesis en Tolkien (Parte 1), 35:38](https://youtu.be/s6teBboDDJ4?t=2138)"
+        }
+      ],
+      "rationale": "Añade dimensión cognitiva no presente en la página — el isomorfismo mito-propio ↔ representación mental autorreferencial. Esta es una conexión que la página existente no articula y que conecta la propia/impropia con el aparato psicológico del canal (síntesis representacional). insert_before 'Lagunas' la sitúa como sección final de cuerpo, cerrando el argumento antes del bloque de huecos.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Lucifer / Satanás (genealogía y tres acepciones)",
+      "reason_code": "single_video_no_recurrence",
+      "reason_detail": "Bloque sustantivo (~12min) de exégesis bíblica preparatoria. Distinguir Lucifer (no bíblico, desarrollado por Agustín-Tomás-Dante-Milton) de Satanás (tres acepciones: Job, Evangelios, Apocalipsis). Tratamiento sólido pero al servicio del análisis de Melkor, sin recurrencia confirmada en otros vídeos.",
+      "quote_evidence": "Satanás como anticristo es un competidor de Cristo que podría hacer el bien; Lucifer nunca podría,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si reaparece como tratamiento independiente en futuros directos sobre demonología o hermenéutica bíblica, procede promote como concept (lucifer-satanas-distincion) en humanities.religion. Material on-axis suficientemente articulado para merecer revisión."
+    },
+    {
+      "surface_form": "Melkor",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Personaje del Silmarillion con tratamiento psicológico denso (15min: herida narcisista, ansiedad creativa, búsqueda de la llama). Pero está estructuralmente contenido dentro del Silmarillion como obra. Material absorbido en update de el-silmarillion.",
+      "quote_evidence": "La herida de Melkor es la ansiedad creativa de quien no encaja entre sus iguales y busca autodeterminarse,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Ilúvatar",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Figura cosmogónica tolkieniana (el Uno). Material en update de el-silmarillion.",
+      "quote_evidence": "Para Ilúvatar no hay causa y consecuencia; desde el primer momento ya es consciente de toda la obra que se desarrollará,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Ainur",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Categoría tolkieniana (emanaciones de Ilúvatar). Material absorbido en el-silmarillion.",
+      "quote_evidence": "Los Ainur son emanaciones: individuaciones a partir del todo, pasos del infinito a la unidad, de lo abstracto a lo concreto,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "llama imperecedera",
+      "reason_code": "internal_to_parent_work",
+      "reason_detail": "Concepto tolkieniano con lectura psicologista (= reflejo de orientación). Tratamiento breve y dependiente del Silmarillion.",
+      "quote_evidence": "La llama imperecedera es la capacidad creadora de Dios proyectada sobre los Ainur: la inspiración divina,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Tuatha Dé Danann",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mitología celta citada como inspiración estética de Tolkien. Sin tratamiento autónomo. Material en update de tolkien-jrr.",
+      "quote_evidence": "Los Tuatha Dé Danann son la inspiración estética principal de toda la obra de Tolkien,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Cristo / sacrificio (lectura del canal)",
+      "reason_code": "single_video_no_recurrence",
+      "reason_detail": "Bloque de 8min con lectura propia del sacrificio de Cristo como pacto mitológico (Cristo como héroe solar que se somete a las reglas creadas para la humanidad). On-axis (humanities.religion) y articulado, pero introductorio al análisis del mal primario en Tolkien.",
+      "quote_evidence": "El sacrificio revela simultáneamente la falibilidad humana, la omnisciencia de Dios y la perfección de Cristo como héroe solar,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el canal articula esta lectura cristológica en otros directos (sobre cristianismo, Pascua, Pasión), procede promote como concept (cristo-heroe-solar) en humanities.religion. La fórmula 'héroe solar' conecta con [[mito-polar]] y permitiría una página-bisagra entre cristología y aparato mitopoético."
+    },
+    {
+      "surface_form": "cábala / sefirot",
+      "reason_code": "passing_mention",
+      "reason_detail": "Analogía única para iluminar los temas musicales de los Ainur. canonical_whitelist:frameworks ya tiene kabbalah como soft (auto_promote:false).",
+      "quote_evidence": "Cada Ainur recibe un tema como un campo matemático nuevo por explorar, un ámbito del ser comparable a las sefirot de la cábala,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Apocalipsis (como mito fundamental)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Nombrado como pieza del armazón cuádruple de la mitopoyesis tolkieniana, sin desarrollo. Aparece también en la tercera acepción de Satanás (Bestia hijo del Dragón).",
+      "quote_evidence": "En el Apocalipsis, la Bestia es el hijo del Dragón: el mal cetónico materializado en un individuo para el final de los tiempos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si Parte 2 del directo desarrolla el Apocalipsis tolkieniano (Dagor Dagorath, batalla final), procede promote como concept (apocalipsis-mito-fundamental). Pieza esperable del aparato del canal."
+    },
+    {
+      "surface_form": "transición (como mito fundamental)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Nombrado como pieza intermedia del armazón cuádruple sin definición ni desarrollo en este vídeo.",
+      "quote_evidence": "Los mitos fundamentales en Tolkien son el Génesis, la transición, el mito polar y el Apocalipsis,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza programática del aparato del canal (tipologia mitica) sin contenido aquí. Esperar a que aparezca con definición sustantiva."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 13,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 3,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0",
+    "video_editorial_note": "Vídeo monográfico altamente on-axis: análisis arquetípico del Ainulindalë (Génesis tolkieniano). Promueve genesis-mitologico (concept canal-específico) y rellena lagunas declaradas en tolkien-jrr (mal primario / Melkor, dimensión católica) y enriquece el-silmarillion con sección entera previa a la lectura ya documentada (Aulë/Yavanna). Tres thesis_candidates de alta prioridad para revisión humana: tipología cuatripartita del mal, isomorfismo génesis-síntesis mental, y armazón cuádruple de la mitopoyesis tolkieniana."
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "WARN promote_new[Génesis (como categoría mitológica)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

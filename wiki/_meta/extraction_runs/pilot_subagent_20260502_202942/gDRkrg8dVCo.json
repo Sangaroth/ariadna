@@ -1,0 +1,269 @@
+{
+  "video_id": "gDRkrg8dVCo",
+  "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Tolkien",
+      "canonical_guess": "J. R. R. Tolkien",
+      "action": "promote_new",
+      "target_page_id": "tolkien-jrr",
+      "page_type": "author",
+      "domain_primary": "arts.literature",
+      "domain_secondary": "humanities.religion",
+      "justification": "Doble criterio de promoción cumplido: (a) canonical_whitelist:authors:tolkien-jrr con auto_promote=true; (b) as_author_of_sources > 0 — este vídeo es lectura/comentario íntegro de pasajes del Silmarillion ('Leyendo El Silmarillion: Tolkien y el mal primario'), cumpliendo el criterio scope.md §2.2 'Channel-ingested: el canal ha leído íntegros sus textos en directo'. Además: figura ya referenciada extensamente desde mito-polar.md como 'el caso más sostenido del mito polar moderno'. Las múltiples páginas que citan vídeos sobre Tolkien (Inside Proxy directo, Seguimos con Tolkien) se beneficiarán de tener página propia de autor.",
+      "auto_promote_via_whitelist": true,
+      "channel_canonical_match": "authors:tolkien-jrr",
+      "scope_criterion_matched": "§2.2 whitelist + as_author_of_sources>0",
+      "quote_evidence_from_summary": [
+        "Tolkien construye su propio Génesis con un pecado masculino y un pecado femenino posteriores a la traición de Melkor",
+        "No es una versión del Génesis bíblico sino una fantasía propia con elementos de estructura católica",
+        "Para Tolkien, influenciado por San Agustín y Tomás de Aquino, el mal es privación del bien, no sustancia propia",
+        "Tolkien insiste en que toda la obra es buena y algunas cosas se corrompen dentro de ella"
+      ],
+      "proposed_relations": [
+        {
+          "type": "references",
+          "to": "mitologia-propia-impropia",
+          "weight": "canonical",
+          "note": "caso paradigmático junto a Lovecraft de mitografía consciente: Tolkien construye su propio Génesis sabiéndolo ficción"
+        },
+        {
+          "type": "references",
+          "to": "mito-polar",
+          "weight": "canonical",
+          "note": "obra canónica del mito polar cosmogónico moderno; Aulë/Yavanna y Manwë/Yavanna como casos polares centrales"
+        },
+        {
+          "type": "interprets",
+          "to": "el-silmarillion",
+          "note": "autor de la obra"
+        }
+      ],
+      "proposed_section_outline": [
+        "Ficha biográfica básica (1892-1973, filólogo, católico)",
+        "Lugar en el corpus Proxy: el caso más sostenido del mito polar moderno",
+        "Mitología propia: el Génesis tolkieniano como ficción consciente con estructura católica",
+        "El Silmarillion como cosmogonía polar (Aulë/Yavanna, aire/agua, intelecto/espíritu)",
+        "El mal como privación del bien: Tolkien entre San Agustín y Tomás de Aquino",
+        "Influencia celta: civilizaciones que se encuentran en lugar de sucederse",
+        "Lecturas del canal sobre obras concretas (cross-refs)"
+      ],
+      "framing_marks": []
+    },
+    {
+      "surface_form": "El Silmarillion",
+      "canonical_guess": "El Silmarillion",
+      "action": "promote_new",
+      "target_page_id": "el-silmarillion",
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "domain_secondary": "humanities.religion",
+      "justification": "Triple criterio de promoción: (a) canonical_whitelist:works_canonical:el-silmarillion con auto_promote=true; (b) este vídeo es análisis monográfico de 70 min dedicado a la obra (cumple §2.3 'Análisis dedicado: ≥1 vídeo monográfico (≥30 min)'); (c) lectura íntegra de pasajes del Génesis tolkieniano en directo. La obra es referenciada desde mito-polar.md como 'caso más sostenido del mito polar moderno'.",
+      "auto_promote_via_whitelist": true,
+      "channel_canonical_match": "works_canonical:el-silmarillion",
+      "scope_criterion_matched": "§2.3 monográfico + whitelist + as_author_of_sources>0",
+      "quote_evidence_from_summary": [
+        "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales)",
+        "Ulmo (agua) y Manwë (aire) crean las nubes y la lluvia sobre la tierra",
+        "Manwë le dice a Yavanna que el intelecto pleno solo pertenecerá a las criaturas de Aulë",
+        "Como máximo, Yavanna tendrá pastores de árboles: la materia mágica más inteligente para defender la naturaleza",
+        "Melkor capturó elfos antes de la caída de Utumno, los puso en prisión y por las lentas artes de la crueldad los corrompió y esclavizó: así creó la raza de los Orcos por envidia y en mofa de los elfos",
+        "Melkor no podía crear nada con vida propia; solo podía corromper lo ya existente",
+        "Los primeros nacidos despiertan junto a la laguna de Cuiviénen iluminada por las estrellas",
+        "Los elfos se llaman a sí mismos Quendi ('los que hablan con voces'), distinguiéndose de los animales"
+      ],
+      "proposed_relations": [
+        {
+          "type": "developed_by",
+          "to": "tolkien-jrr",
+          "weight": "canonical",
+          "note": "obra del autor"
+        },
+        {
+          "type": "exemplifies",
+          "to": "mito-polar",
+          "weight": "canonical",
+          "note": "caso canónico moderno del mito polar cosmogónico: Aulë/Yavanna como dipolo artesano/naturaleza, Manwë/Yavanna como dipolo intelecto/magia"
+        },
+        {
+          "type": "exemplifies",
+          "to": "mitologia-propia-impropia",
+          "weight": "canonical",
+          "note": "Génesis ficcional construido sabiéndose ficción, con estructura católica heredada pero deliberadamente reinventada"
+        },
+        {
+          "type": "references",
+          "to": "collective-unconscious",
+          "weight": "strong",
+          "note": "el Génesis tolkieniano se lee como articulación arquetípica del inconsciente colectivo en clave moderna"
+        }
+      ],
+      "proposed_section_outline": [
+        "Ficha y contexto del Génesis tolkieniano",
+        "La estructura cosmogónica vertical: cielo (Manwë), agua (Ulmo), tierra polar (Aulë/Yavanna)",
+        "La polaridad Aulë/Yavanna: artesano masculino vs naturaleza femenina",
+        "El miedo de Yavanna y los pastores de árboles: el intelecto como atributo predominantemente masculino",
+        "Enanos y elfos: dos formas de habitar el bosque (consumir vs integrarse)",
+        "Varda y la corona de estrellas: la madre celestial y los primeros nacidos",
+        "El despertar de los Quendi en Cuiviénen y el don del verbo",
+        "Las separaciones de los elfos: Eldar, Avari y los miedos diferenciales",
+        "Melkor como entropía y como mal corrupto (privatio boni)",
+        "La creación de los Orcos: la corrupción como acto vil",
+        "El mal primario, secundario y terciario en el cuadro tolkieniano",
+        "Paralelo con la mitología celta: civilizaciones que se encuentran"
+      ],
+      "framing_marks": []
+    },
+    {
+      "surface_form": "mito polar (caso Tolkien — articulación cosmogónica)",
+      "canonical_guess": "Mito polar (Silmarillion)",
+      "action": "update_existing",
+      "target_page_id": "mito-polar",
+      "page_type": "concept",
+      "domain_primary": "humanities.religion",
+      "justification": "La sección 'Tolkien: el mito polar cosmogónico' de mito-polar.md tiene tres quotes (Ilúvatar, Valar masculinos/femeninos, Yavanna-Manwë) pero NO contiene la articulación estructural Aulë/Yavanna como dipolo artesano/naturaleza, ni la lectura aire/agua como intelecto/espíritu, ni la asimetría 'el intelecto pleno pertenece a las criaturas de Aulë' que matiza la simetría aparente del polar. Este vídeo provee material estructural primario que enriquece sustancialmente la sección.",
+      "quote_evidence_from_summary": [
+        "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales)",
+        "En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino",
+        "El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma",
+        "Por eso el bautismo se hace con agua: el agua representa el espíritu",
+        "Manwë le dice a Yavanna que el intelecto pleno solo pertenecerá a las criaturas de Aulë",
+        "Lo femenino mágico no está pensado para estar lleno de criaturas plenamente conscientes",
+        "Como máximo, Yavanna tendrá pastores de árboles: la materia mágica más inteligente para defender la naturaleza"
+      ],
+      "framing_marks": []
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "mito-polar",
+      "operation_type": "insert_after_passage",
+      "anchor": "> \"El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve. La diosa blanca entrega una espada a lo masculino: **Yavanna concede a Manwë un juicio imposible sin lo femenino.**\"\n→ [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)",
+      "new_content": "\n\nLa lectura del Génesis del Silmarillion en clave cosmogónica polar queda articulada con detalle estructural en otra sesión:\n\n> \"Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales). En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino. El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma. Por eso el bautismo se hace con agua: el agua representa el espíritu.\"\n→ [Leyendo El Silmarillion: Tolkien y el mal primario, 12:02](https://youtu.be/gDRkrg8dVCo?t=722)\n\nLa estructura cosmogónica resultante es **vertical y tripartita**: cielo (Manwë, aire-intelecto), agua (Ulmo, espíritu-inconsciente) y tierra polar dividida entre Aulë (lo masculino-artesano: piedra, civilizaciones que fabrican) y Yavanna (lo femenino-naturaleza: plantas, animales, lo salvaje). En esa tierra surgirá lo humano.\n\n> \"Ulmo (agua) y Manwë (aire) crean las nubes y la lluvia sobre la tierra. La tierra tiene una división polar: lo masculino-artesano (Aulë, civilizaciones que fabrican de la piedra) y lo femenino-naturaleza (Yavanna, lo salvaje, plantas y animales).\"\n→ [Leyendo El Silmarillion, 15:33](https://youtu.be/gDRkrg8dVCo?t=933)\n\nEl polar tolkieniano introduce una **asimetría cognitiva** que matiza la simetría aparente del modelo:\n\n> \"Manwë le dice a Yavanna que el intelecto pleno solo pertenecerá a las criaturas de Aulë (las montañas, la piedra). Lo femenino mágico no está pensado para estar lleno de criaturas plenamente conscientes. Como máximo, Yavanna tendrá pastores de árboles: la materia mágica más inteligente para defender la naturaleza.\"\n→ [Leyendo El Silmarillion, 21:05](https://youtu.be/gDRkrg8dVCo?t=1265)\n\nLa polaridad Aulë/Yavanna no es entonces dos polos en simetría perfecta sino **distribución asimétrica de capacidades**: lo masculino concentra el intelecto pleno (la piedra que se trabaja, los hijos como artesanos plenamente conscientes); lo femenino concentra la magia silvana y la potencia generadora, pero sin cognición plena salvo en sus formas excepcionales (los Ents como pastores de árboles, materia mágica con intelecto). Esta asimetría es load-bearing en la lectura del canal: explica por qué la civilización emerge en el lado masculino y la naturaleza-conservadora en el femenino sin que el polar deje de ser equilibrio. Ver [[el-silmarillion]] para el desarrollo completo del Génesis tolkieniano.",
+      "justification": "Inserta la articulación cosmogónica detallada Aulë/Yavanna y la asimetría intelecto/magia en la sección 'Tolkien: el mito polar cosmogónico'. El anchor multilínea (quote completa de Yavanna-Manwë + URL) es único en el archivo. La adición usa wikilink a la nueva página el-silmarillion propuesta y aporta material estructural primario no presente en la página actual.",
+      "supersedes_laguna": false,
+      "supersedes_laguna_note": "Refuerza el caso Tolkien sin cerrar las lagunas declaradas (tipología completa de polares, polar negativo, tradiciones no-occidentales, esencialismo binario). La asimetría cognitiva podría ser semilla para una futura laguna sobre 'distribución asimétrica de funciones en el polar' pero no la abro aquí."
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Aulë, Yavanna, Ulmo, Manwë, Varda, Oromë",
+      "reason_code": "in_fiction_characters_valar",
+      "reason_detail": "Los Valar (Balar) del Silmarillion. Personajes/dioses dentro de la mitología tolkieniana. Material para el-silmarillion en sus secciones cosmogónicas. La pareja Aulë/Yavanna y Yavanna/Manwë alimenta también la actualización de mito-polar.",
+      "quote_evidence": "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Eldar, Avari, Vanyar, Noldor, Teleri, Nandor, Falmari, Quendi",
+      "reason_code": "in_fiction_peoples",
+      "reason_detail": "Los pueblos élficos y sus subdivisiones según el Silmarillion. Material narrativo para la sección 'Las separaciones de los elfos' de el-silmarillion. La lectura del canal sobre 'separación por miedos diferenciales' es estructuralmente interesante pero específica de Tolkien.",
+      "quote_evidence": "Algunos elfos rechazaron el llamamiento de los Balar prefiriendo la luz de las estrellas: son los Avari (los renuentes)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Cuiviénen, Anduin, Montañas Nubladas, Utumno, Tierra Media",
+      "reason_code": "in_fiction_geography",
+      "reason_detail": "Lugares dentro del legendarium. Material para el-silmarillion.",
+      "quote_evidence": "Los primeros nacidos despiertan junto a la laguna de Cuiviénen iluminada por las estrellas",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Balrogs, Orcos, pastores de árboles (Ents), kelvar, olvar",
+      "reason_code": "in_fiction_creatures",
+      "reason_detail": "Razas/criaturas dentro del Silmarillion. La creación de los Orcos como caso del 'mal por corrupción' alimenta la sección de mal en el-silmarillion y el thesis_candidate sobre tipología del mal.",
+      "quote_evidence": "Los kelvar (animales) pueden volar o defenderse, pero los olvar (plantas) crecen lentos y no pueden protegerse",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "San Agustín de Hipona",
+      "reason_code": "passing_reference_theological_background",
+      "reason_detail": "Referencia teológica pasajera como influencia sobre Tolkien (privatio boni). Sin tratamiento sustantivo del pensamiento agustiniano por sí mismo. No promovible desde este vídeo. Está ausente del canonical_whitelist actual; podría ser candidato a adición soft si el canal lo retoma sustantivamente en otros vídeos.",
+      "quote_evidence": "Para Tolkien, influenciado por San Agustín y Tomás de Aquino, el mal es privación del bien, no sustancia propia",
+      "review_priority": "medium",
+      "review_priority_reason": "canonical_external_candidate=true: figura central de la teología occidental que el canal invoca como marco. Sugerir adición a canonical_whitelist como autor soft (auto_promote=false hasta confirmar tratamiento sostenido)."
+    },
+    {
+      "surface_form": "Tomás de Aquino",
+      "reason_code": "passing_reference_theological_background",
+      "reason_detail": "Misma situación que San Agustín — referencia genealógica en la teoría tolkieniana del mal. Sin tratamiento sustantivo aquí.",
+      "quote_evidence": "Para Tolkien, influenciado por San Agustín y Tomás de Aquino, el mal es privación del bien, no sustancia propia",
+      "review_priority": "medium",
+      "review_priority_reason": "canonical_external_candidate=true: figura central de la filosofía escolástica. Sugerir adición soft a canonical_whitelist."
+    },
+    {
+      "surface_form": "privatio boni (mal como privación del bien)",
+      "reason_code": "concept_invoked_not_developed_independently",
+      "reason_detail": "Tesis filosófico-teológica heredada (Agustín/Aquino) que el canal invoca para explicar la concepción tolkieniana del mal. No es articulación original del canal sino marco recibido aplicado a Tolkien. La parte de articulación propia del canal (tipología primario/secundario/terciario) sí va a thesis_candidates.",
+      "quote_evidence": "el mal es privación del bien, no sustancia propia",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en otros vídeos el canal desarrolla privatio boni como marco operativo propio, considerar página propia. Por ahora, sub-pieza dentro del thesis_candidate sobre tipología del mal."
+    },
+    {
+      "surface_form": "mitología celta (paralelo civilizatorio)",
+      "reason_code": "comparative_reference_no_dedicated_treatment",
+      "reason_detail": "Referencia comparativa a las leyendas celtas como paralelo del esquema tolkieniano de civilizaciones que se encuentran ('una más avanzada llega hasta una menos avanzada y le concede conocimiento'). Tratamiento breve, no monográfico. La 'corona boreal' como símbolo celta de la diosa blanca y el 'oeste' como tópico civilizatorio quedan como sub-elementos.",
+      "quote_evidence": "Toda la mitología celta se fundamenta en una primera etapa de supervivencia hasta la llegada de habitantes gloriosos del oeste que traen sabiduría",
+      "review_priority": "medium",
+      "review_priority_reason": "El canal podría tener material monográfico sobre mitología celta en otros vídeos. Si aparece, considerar página tipo synthesis o concept."
+    },
+    {
+      "surface_form": "Diosa blanca / Corona Boreal",
+      "reason_code": "passing_mention_of_symbology",
+      "reason_detail": "La 'Corona Boreal' como símbolo celta de la diosa blanca aparece como nota del canal sobre las doce estrellas de Varda. La 'Diosa Blanca' tiene página adyacente posible (Robert Graves) pero aquí solo se invoca de pasada.",
+      "quote_evidence": "Las doce estrellas corresponden a la corona de doce estrellas, que en teoría del autor es la Corona Boreal (símbolo celta de la diosa blanca)",
+      "review_priority": "medium",
+      "review_priority_reason": "La Diosa Blanca de Graves podría ser candidata a whitelist soft si el canal retoma el marco — flaggear para tracking."
+    },
+    {
+      "surface_form": "narrativas de creación mesopotámicas y judeocristianas",
+      "reason_code": "comparative_reference_no_treatment",
+      "reason_detail": "Mención comparativa para situar la lectura aire/agua como cosmogónica universal. Sin desarrollo monográfico aquí. Material que alimenta indirectamente collective-unconscious o mito-polar.",
+      "quote_evidence": "En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "bautismo (ritual cristiano)",
+      "reason_code": "passing_theological_reference",
+      "reason_detail": "Invocación tópica para reforzar la lectura agua=espíritu. Sin tratamiento como categoría sacramental autónoma.",
+      "quote_evidence": "Por eso el bautismo se hace con agua: el agua representa el espíritu",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Ilúvatar (Eru)",
+      "reason_code": "in_fiction_deity",
+      "reason_detail": "El 'creador' del legendarium tolkieniano. Personaje teológico de la obra. Material narrativo para el-silmarillion en su sección cosmogónica.",
+      "quote_evidence": "Manwë le revela que Ilúvatar ha previsto una magia especial en lo salvaje para que la naturaleza pueda defenderse",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 2,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Melkor / Morgoth] reason=in_fiction_character quote no literal",
+    "DROP discarded[mitología propia (caso Tolkien)] reason=already_promoted_previous_video quote no literal",
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

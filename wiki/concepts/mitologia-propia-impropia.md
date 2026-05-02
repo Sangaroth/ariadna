@@ -75,6 +75,15 @@ Esta lectura conecta con la crítica del canal a los constructos modernos que oc
 
 La propia/impropia no es taxonomía neutral: es **diagnóstico cultural**. Permite preguntar de cualquier producción simbólica si su autor (y su público) saben que están haciendo mito o creen que están haciendo otra cosa (ciencia, política, entretenimiento, sentido común). El canal usa esta vara para distinguir mitos modernos vivos —los que operan con conciencia de su densidad simbólica— de mitos modernos opacos, que ejercen efecto mítico sin que nadie lo nombre como tal.
 
+## La autorreferencialidad de los mitos propios
+
+En el análisis del Génesis tolkieniano el canal añade una dimensión cognitiva a la distinción: los mitos propios funcionan estructuralmente como las representaciones mentales mismas — son autorreferenciales. Donde el mito impropio se presenta como verdad ya dada, el mito propio refleja la operación de la mente que genera ideas. "Hágase la luz" tiene la misma estructura que la síntesis representacional: paso del silencio al sentido, de lo no-articulado a lo articulado.
+
+> "Las metáforas mitológicas de los mitos propios son autorreferenciales porque las representaciones mentales también lo son."
+→ [el Génesis en Tolkien (Parte 1), 35:38](https://youtu.be/s6teBboDDJ4?t=2138)
+
+Esto arroja luz sobre por qué los autores que construyen mitos propios — como [[lovecraft-howard]] y [[tolkien-jrr]] — pueden producir piezas con tanta potencia simbólica: están reproduciendo, en escala literaria, la dinámica básica de la cognición humana al generar sentido a partir del vacío representacional. La conexión enlaza esta página con el [[genesis-mitologico|Génesis arquetípico]] como concepto-bisagra entre mitología y representación mental.
+
 ## Lagunas
 
 - (sin lagunas declaradas todavía)

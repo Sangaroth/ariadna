@@ -1,0 +1,383 @@
+{
+  "video_id": "qbCGrnynKe8",
+  "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+  "playlist": "_sin_playlist",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "materialismo filosófico",
+      "canonical_guess": "materialismo-filosofico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "guest_framework_exposition",
+          "quote_evidence": "Se dedica a divulgar el materialismo filosófico en coordenadas de Gustavo Bueno,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Sistema filosófico expuesto por un INVITADO (Daniel Alarcón) en formato entrevista, no marco aplicado por el canal Proxy. El canal opera principalmente con marcos junguiano/mitológico (las 16 páginas existentes lo confirman) y aquí actúa como anfitrión de una exposición ajena, no como articulador. Sin evidencia de recurrencia en otros vídeos del corpus ni de aplicación como marco propio. Flag para revisión humana: si reaparece en ≥2 vídeos más con el canal aplicándolo (no solo hospedándolo), procede promover.",
+      "quote_evidence": "El materialismo filosófico exige una reelaboración terminológica que dificulta enormemente su acceso,"
+    },
+    {
+      "surface_form": "Gustavo Bueno",
+      "canonical_guess": "bueno-gustavo",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 40,
+      "framing_marks": [
+        {
+          "mark_type": "guest_referenced_authority",
+          "quote_evidence": "Gustavo Bueno define la filosofía como un saber trascendental de segundo grado que cubre los vacíos entre ciencias y técnicas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Filósofo español central de un sistema (materialismo filosófico) tratado solo dentro de esta entrevista. Cumple criterio scope.md §2.2 'substantive treatment ≥10min en ≥1 vídeo' pero: (a) la exposición es del invitado, no del canal; (b) sin evidencia de recurrencia en el corpus; (c) no aparece como marco aplicado por Proxy en sus análisis arquetípicos. Sugerencia de canonical_external_candidate: añadir a canonical_whitelist.json:authors como auto_promote:false (soft) en humanities.philosophy si futuras entrevistas/menciones lo confirman como referencia recurrente del canal.",
+      "quote_evidence": "Gustavo Bueno define materialismo negativamente como la negación de la existencia de seres vivientes incorpóreos,"
+    },
+    {
+      "surface_form": "Daniel Alarcón",
+      "canonical_guess": "alarcon-daniel",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Invitado del directo, no figura sobre la que el canal trabaje. La exposición biográfica (musicólogo, formación, llegada al materialismo filosófico) es metadata del formato entrevista, no contenido enciclopédico propio del wiki. No cumple ningún criterio de scope.md §2.2.",
+      "quote_evidence": "Daniel Alarcón es musicólogo de formación, toca violín, canta ópera y flauta de pico,"
+    },
+    {
+      "surface_form": "principio de symploké",
+      "canonical_guess": "symploke",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Principio platónico citado dentro de la exposición del invitado sobre cómo Bueno lo recoge. Sin tratamiento sostenido (≥10min) ni evidencia de recurrencia. Pieza táctica del marco materialista que se discute, no concepto aplicado por el canal.",
+      "quote_evidence": "Si todo estuviera conectado con todo, no podríamos conocer nada porque no podríamos desligar relaciones,"
+    },
+    {
+      "surface_form": "Red Pill",
+      "canonical_guess": "red-pill",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Tema que el INVITADO investiga (no el canal), tratado con lente sociológica/biológica del materialismo filosófico ('canalización de frustración', 'comprar un crecepelo'). Off-axis frente a la línea editorial del canal Proxy (lectura arquetípica/junguiana de la cultura). Sin evidencia de tratamiento por el canal en otros vídeos.",
+      "quote_evidence": "La Red Pill es la versión especular del feminismo: postula una sociedad ginocéntrica donde el varón está oprimido,"
+    },
+    {
+      "surface_form": "Hegel (panlogismo)",
+      "canonical_guess": "hegel-georg-wilhelm-friedrich",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mencionado dentro de la exposición del invitado para distinguir el panlogismo hegeliano del materialismo filosófico. No hay tratamiento sustantivo de Hegel mismo, ni recurrencia confirmada en el corpus, ni invocación como marco del canal. Posible canonical_external_candidate (humanities.philosophy) si reaparece en más vídeos.",
+      "quote_evidence": "Hegel es panlogista pero sin apelar a algo trascendente: el espíritu se desarrolla en la historia,"
+    },
+    {
+      "surface_form": "Aristóteles",
+      "canonical_guess": "aristoteles",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mencionado en el itinerario de lecturas del invitado (asignatura de estética conservatorio; cómo leerlo a la par de Santo Tomás y Bueno). Sin tratamiento como pensador analizado por el canal.",
+      "quote_evidence": "La metafísica de Aristóteles se entiende mejor desde Santo Tomás que leída directamente,"
+    },
+    {
+      "surface_form": "Santo Tomás",
+      "canonical_guess": "tomas-aquino",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Recomendación de lectura cruzada con Aristóteles y Bueno. Sin tratamiento sustantivo del pensamiento tomista por el canal.",
+      "quote_evidence": "Lo más productivo es alternar Santo Tomás, Aristóteles y Gustavo Bueno para asimilar críticamente y sistemáticamente,"
+    },
+    {
+      "surface_form": "Otto Weininger",
+      "canonical_guess": "weininger-otto",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mención puntual del invitado dentro de un bloque sobre misoginia histórica en filosofía. Sin tratamiento sustantivo.",
+      "quote_evidence": "Otto Weininger propone una teoría de sustancias masculina y femenina fluidas en cada individuo, precursora del género fluido,"
+    },
+    {
+      "surface_form": "Lyotard / Preciado (posmodernidad)",
+      "canonical_guess": "posmodernidad-critica-mf",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Crítica del invitado a la categoría 'posmodernidad' desde el materialismo filosófico. Marco ajeno al canal, sin recurrencia confirmada. Off-axis editorial.",
+      "quote_evidence": "La distinción de Lyotard entre grandes y pequeños relatos es errónea: el propio posmodernismo es un gran relato,"
+    },
+    {
+      "surface_form": "García Trevijano (democracia fundamentalista)",
+      "canonical_guess": "trevijano-antonio-garcia",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Referencia técnica del invitado en el bloque de teoría política. Off-axis del wiki (filosofía política técnica, no análisis arquetípico cultural).",
+      "quote_evidence": "García Trevijano usa una teoría fundamentalista basada en una idea pura de Montesquieu que no tiene referente empírico,"
+    },
+    {
+      "surface_form": "Carlos Madrid / Luis Santos del Barco (IA en filomat)",
+      "canonical_guess": "ia-materialismo-filosofico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Cierre de la entrevista con punteros bibliográficos internos a la fundación Bueno sobre IA. Sin desarrollo enciclopédico.",
+      "quote_evidence": "Carlos Madrid es quien más ha trabajado cerca del tema desde el materialismo filosófico, con artículos sobre física cuántica y matemáticas,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "materialismo filosófico",
+      "reason_code": "guest_framework_off_axis",
+      "reason_detail": "Sistema filosófico expuesto por invitado (Daniel Alarcón) en formato entrevista. El canal Proxy no opera con este marco en sus análisis (lente junguiana/mitológica domina las 16 páginas existentes). Sin recurrencia confirmada en el corpus.",
+      "quote_evidence": "El materialismo filosófico exige una reelaboración terminológica que dificulta enormemente su acceso,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si futuros vídeos muestran al canal APLICANDO el marco (no solo hospedando exposiciones), procede promover materialismo-filosofico como concept en humanities.philosophy. Hasta entonces, mantener fuera del wiki para no inflar con contenido no trabajado por el canal."
+    },
+    {
+      "surface_form": "Gustavo Bueno",
+      "reason_code": "guest_referenced_authority",
+      "reason_detail": "Filósofo español central del materialismo filosófico, autor del sistema expuesto en esta entrevista. Tratamiento sustantivo (>30min) pero del invitado, no del canal. No en canonical_whitelist.",
+      "quote_evidence": "Gustavo Bueno define materialismo negativamente como la negación de la existencia de seres vivientes incorpóreos,",
+      "review_priority": "medium",
+      "review_priority_reason": "CANDIDATO a canonical_whitelist.json:authors como auto_promote:false (soft) en humanities.philosophy. Es figura load-bearing en filosofía española contemporánea; si reaparece como referencia teórica en ≥2 vídeos más del canal, justifica añadirlo. Decisión humana explícita por commit, según política §6 de scope.md."
+    },
+    {
+      "surface_form": "Daniel Alarcón",
+      "reason_code": "interview_guest",
+      "reason_detail": "Invitado del directo. Su biografía (musicólogo, formación) es metadata del formato, no contenido enciclopédico.",
+      "quote_evidence": "Daniel Alarcón es musicólogo de formación, toca violín, canta ópera y flauta de pico,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "principio de symploké",
+      "reason_code": "passing_mention",
+      "reason_detail": "Principio platónico recogido por Bueno, citado tácticamente. Sin tratamiento sostenido ni recurrencia.",
+      "quote_evidence": "Si todo estuviera conectado con todo, no podríamos conocer nada porque no podríamos desligar relaciones,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Red Pill",
+      "reason_code": "off_axis_editorial",
+      "reason_detail": "Fenómeno cultural del que el invitado está investigando para una conferencia. El canal Proxy no lo trabaja desde su línea editorial (arquetípica/mitológica). Sin recurrencia.",
+      "quote_evidence": "La Red Pill es la versión especular del feminismo: postula una sociedad ginocéntrica donde el varón está oprimido,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Hegel",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención técnica para distinguir panlogismo hegeliano del materialismo filosófico. Sin tratamiento autoral del pensamiento hegeliano.",
+      "quote_evidence": "Hegel es panlogista pero sin apelar a algo trascendente: el espíritu se desarrolla en la historia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Hegel es figura canónica en humanities.philosophy y está implícito en discusiones de individuación, viaje del héroe (Phänomenologie), etc. Si aparece en futuros análisis del canal, valorar añadirlo a canonical_whitelist como soft."
+    },
+    {
+      "surface_form": "Aristóteles",
+      "reason_code": "passing_mention",
+      "reason_detail": "Itinerario de lecturas del invitado. Sin tratamiento sustantivo.",
+      "quote_evidence": "La metafísica de Aristóteles se entiende mejor desde Santo Tomás que leída directamente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Santo Tomás de Aquino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendación de lectura cruzada. Sin tratamiento del tomismo por el canal.",
+      "quote_evidence": "Lo más productivo es alternar Santo Tomás, Aristóteles y Gustavo Bueno para asimilar críticamente y sistemáticamente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Otto Weininger",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención dentro de un bloque sobre misoginia histórica en filosofía. Sin desarrollo.",
+      "quote_evidence": "Otto Weininger propone una teoría de sustancias masculina y femenina fluidas en cada individuo, precursora del género fluido,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Lyotard, Preciado",
+      "reason_code": "off_axis_editorial",
+      "reason_detail": "Crítica del invitado a la categoría 'posmodernidad' desde el materialismo filosófico. Marco no aplicado por el canal.",
+      "quote_evidence": "La distinción de Lyotard entre grandes y pequeños relatos es errónea: el propio posmodernismo es un gran relato,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "García Trevijano",
+      "reason_code": "off_axis_editorial",
+      "reason_detail": "Referencia técnica en bloque de teoría política. Off-axis del wiki.",
+      "quote_evidence": "García Trevijano usa una teoría fundamentalista basada en una idea pura de Montesquieu que no tiene referente empírico,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Juan Ramón Rallo (liberalismo, ciudad de los 15 minutos)",
+      "reason_code": "off_axis_editorial",
+      "reason_detail": "Comentarista económico mencionado en bloques de liberalismo y urbanismo. Sin tratamiento como pensador analizado.",
+      "quote_evidence": "El materialismo filosófico no es solidario con el liberalismo pero en el debate mundano Rallo no es el peor aliado,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "anarcocapitalismo",
+      "reason_code": "off_axis_editorial",
+      "reason_detail": "Discusión técnica de filosofía política, fuera de la lente arquetípica del canal.",
+      "quote_evidence": "Sociedades no estatales han existido históricamente, pero el modelo anarcocapitalista actual (policía, derecho y juzgados privatizados) tiene puntos contradictorios,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Cayetano (defensor de Eva)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota teológica histórica dentro del bloque de misoginia en filosofía.",
+      "quote_evidence": "Cayetano defiende a Eva argumentando que fue seducida por el demonio (el ser más inteligente), mientras Adán fue seducido por alguien no superior a él,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Carlos Madrid, Luis Santos del Barco, Javier Pérez Jara, Íñigo Ongay",
+      "reason_code": "internal_school_pointers",
+      "reason_detail": "Referencias internas a la escuela de Oviedo (filomat) sobre IA, filosofía de la mente, Russell. Sin tratamiento como autores analizados por el canal.",
+      "quote_evidence": "Javier Pérez Jara tiene un libro sobre Russell con capítulos sobre mente y materia que es el mejor punto de partida,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Bibliografía de biología de los sexos (Buss, Waal, Fisher, Hooven, Goldberg)",
+      "reason_code": "bibliography_list",
+      "reason_detail": "Lista de lecturas que el invitado está procesando para una conferencia. No es contenido enciclopédico del canal.",
+      "quote_evidence": "*La evolución del deseo* de David Buss como libro clásico fundamental,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "1:39:50",
+      "block_emoji": "👥",
+      "block_title": "El problema de la representación política: no hay pueblo homogéneo que representar",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_terms": [
+        "Vox",
+        "Podemos",
+        "PSOE"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+    },
+    {
+      "block_timestamp": "1:57:02",
+      "block_emoji": "🌍",
+      "block_title": "Prospectiva política: inmigración, islam y el ascenso de la nueva derecha",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_terms": [
+        "Vox",
+        "PSOE"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 12,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 16,
+    "blocks_filtered_count": 2
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0",
+    "video_editorial_note": "Vídeo de formato entrevista (invitado: Daniel Alarcón) sobre materialismo filosófico de Gustavo Bueno. Off-axis frente a la línea editorial dominante del canal (lente junguiana/mitológica). Output conservador: cero promociones, cero updates a páginas existentes; dos bloques políticos filtrados por topic_filters. Flag de revisión humana: Gustavo Bueno + materialismo filosófico como candidatos a canonical_whitelist soft si reaparecen en el corpus."
+  }
+}
