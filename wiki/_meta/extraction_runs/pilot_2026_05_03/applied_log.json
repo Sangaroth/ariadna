@@ -1,0 +1,35 @@
+{
+  "applied_at": "2026-05-02T00:18:33+00:00",
+  "run_id": "pilot_2026_05_03",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "lovecraft-howard": {
+      "file_path": "wiki/authors/lovecraft-howard.md",
+      "updates_applied": 2,
+      "log": [
+        " [insert_after_passage] anchor='→ [Aventuras Ignotas con Armesilla, 47:57](https:/' section=''",
+        "  + insert_after (2073 chars) tras anchor único",
+        " [mark_laguna_resolved] anchor='' section=''",
+        "  + marked laguna en línea 171: '**Cuentos individuales más allá de los citados**: el canal l'"
+      ]
+    },
+    "mito-polar": {
+      "file_path": "wiki/concepts/mito-polar.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='→ [Inside Proxy directo, 32:29](https://youtu.be/w' section=''",
+        "  + insert_after (1182 chars) tras anchor único"
+      ]
+    }
+  }
+}
