@@ -162,6 +162,10 @@ Y la alegoría epistémica:
 - **[[jung-carl-gustav]]**: marco teórico que articula esta lectura — la psicología analítica es el aparato que permite leer todas estas obras como recapitulaciones arquetípicas
 - **[[lovecraft-howard]]**: caso paradigmático de mitología propia consciente de sí
 
+
+- **[[harry-potter-saga]]**: caso paradigmático del mito moderno fallido — viaje de la víctima en vez de viaje del héroe, autotipia onomástica, refrito mitológico sin originalidad propia. La identificación opera desde el ello (validación de la injusticia sentida) y no desde el yo (anhelo de aventura real)
+
+
 ## Lagunas
 - **El mito en la ciencia ficción más allá de Matrix** (Alien, Prometeo, Blade Runner, Dune) — el canal los toca pero no los sistematiza con la misma profundidad
 - **El mito en el videojuego** (Bloodborne aparece como herencia lovecraftiana, pero la dimensión específicamente lúdica del mito digital queda por desarrollar)
