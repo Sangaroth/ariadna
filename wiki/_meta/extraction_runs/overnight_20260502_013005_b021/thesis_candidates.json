@@ -1,0 +1,114 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b021",
+  "items": [
+    {
+      "from_video": "1WEQmzUM41M",
+      "from_video_title": "Me amenazan por teléfono: Todos los datos del caso.",
+      "thesis": {
+        "thesis_title_proposed": "Identidad como clasificación externa vs ser interno: distinción psiquiátrica frente al colapso categorial del marco trans-iluminado",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "Si el género fuera identidad genuina, empezaría y acabaría en el yo interno sin necesidad de manifestación externa"
+          },
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "El género es una conducta que la cultura atribuye a cada sexo, no una propiedad del ser"
+          },
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "Lo que hoy llaman \"identidad de género\" es en realidad cómo quieren que los demás les clasifiquen, no lo que son"
+          },
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "La disforia genuina no es un conflicto neurótico de personalidad sino un problema de integridad psíquica sobre el propio cuerpo"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El movimiento trans confunde toda voluntad de ser diferente con disforia, metiendo neurosis de identidad en la categoría psiquiátrica"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "No se puede comprender al ser humano partiendo de lo social; eso solo muestra lo que hacen, no lo que son"
+          }
+        ],
+        "framework_internal_structure": [
+          "Identidad genuina: empieza y acaba en el yo interno, no requiere manifestación externa para existir",
+          "Conducta histriónica externa como signo diagnóstico de identidad insegura (no de identidad genuina)",
+          "Confabulación identitaria: tomar como verdad externa una representación interna (deseo de ser X confundido con ser X)",
+          "Distinción ser/hacer: lo social muestra lo que la gente hace, no lo que es",
+          "Género como conducta cultural atribuida al sexo, no propiedad ontológica del ser",
+          "Disforia genuina = problema psíquico de integridad sobre el cuerpo, persistente en el tiempo",
+          "Identidad neurótica = conflicto de personalidad, varía con el tiempo",
+          "Tesis crítica: el marco trans contemporáneo colapsa la distinción categorial entre disforia genuina (psiquiátrica) e identidad neurótica (psicodinámica)"
+        ],
+        "minutes_sustained": 18,
+        "domain_guess": "social.psychology",
+        "related_existing_pages": [
+          "collective-unconscious",
+          "anima-archetype"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple ≥3 señales de scope.md §2.4.1: (a) thesis_marker múltiple con afirmaciones declarativas propias del speaker; (b) internal_structure con triada explícita (disforia genuina ≠ identidad neurótica ≠ género conductual) que estructura el aparato; (c) pedagogic_register sostenido con verbos dominantes distinguir/clasificar/criticar. NO es exposición de un concepto académico ya establecido — es articulación canal-específica que combina precisión psiquiátrica clásica con crítica al marco trans contemporáneo. requires_human_validation crítico por sensibilidad política del territorio: la página debería existir como author_thesis claramente etiquetada, no compactarse en concept pages pretendidamente neutrales. Las concept pages disforia-genuina y genero-como-conducta-cultural promovidas en este vídeo serían piezas dentro del marco, no sustitutos de la tesis integrada"
+      }
+    },
+    {
+      "from_video": "JNafno3jgHY",
+      "from_video_title": "Magia y Trauma",
+      "thesis": {
+        "thesis_title_proposed": "Grimorio Laberinto: integración de magia, psicología clínica y mitología en el tratamiento del trauma",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "El Grimorio Laberinto es un compendio de conceptos mágicos donde no se distingue entre magia y psicología"
+          },
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "La magia no es cuestión de fe sino de querer: esa es la diferencia fundamental entre magia y religión"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Terror: amenaza a la integridad física (guerra, accidente, persecución)"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Todas las amenazas son en última instancia psíquicas porque el yo inconsciente no distingue entre físicas y psíquicas"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Es una experiencia afectiva extrema cuya componente emocional no sigue las reglas de desensibilización"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Desensibilizar equivale a ahuyentar al dragón; reelaborar equivale a regresar con la princesa recuperada"
+          }
+        ],
+        "framework_internal_structure": [
+          "Distinción magia/religión (querer vs fe) y mística/magia (experiencia vs procedimiento)",
+          "Definición clínica de trauma psíquico y mecanismo de impronta afectiva",
+          "TEPT simple vs complejo y fracaso de la desensibilización",
+          "Tres formas de amenaza traumática: terror (integridad física), pánico/pena (vínculos de apego), dolor físico",
+          "Mapeo mitológico: encuentro con el dragón, rapto de la doncella, pérdida de la gracia",
+          "Noche oscura del alma como estado postraumático estructural",
+          "Regresión episódica como descenso a la guarida del dragón (rescate de la princesa)",
+          "Mecanismo neurofisiológico del EMDR (anticorrelación simpático/parasimpático) como soporte clínico de la regresión",
+          "Conjuro Origen y dominio de las llaves alquímicas como variantes mágicas del mismo procedimiento",
+          "Crítica metodológica: confabulación en regresiones tempranas (70-90% de falsos recuerdos)"
+        ],
+        "minutes_sustained": 90,
+        "domain_guess": "social.psychology.jungian",
+        "related_existing_pages": [
+          "individuation",
+          "anima-archetype",
+          "shadow-archetype",
+          "collective-unconscious"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple ≥4 señales de scope.md §2.4.1: (a) thesis_marker con la presentación declarativa del Grimorio Laberinto como su propio marco compendio; (b) internal_structure con numeración explícita de 'tres formas de amenaza' y articulación causal trauma→noche oscura→regresión; (c) pedagogic_register sostenido durante ~90 min con verbos dominantes definir/distinguir/clasificar/proponer; (d) framework original que NO es exposición de un concepto académico ya establecido — es síntesis canal-específica que integra clínica del trauma + mitología del rescate + procedimiento mágico. El speaker no expone EMDR como técnica clínica conocida sino como caso particular de su marco mitológico. Requiere validación humana porque una thesis page sobre el Grimorio Laberinto sería página-eje del canal"
+      }
+    }
+  ]
+}
