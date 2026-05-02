@@ -123,6 +123,17 @@ Lectura del canal sobre la arquitectura de la obra:
 - **"La extraña casa elevada entre la niebla"**: Thomas Olney sube al acantilado de Kingsport, encuentra al ermitaño barbudo, presencia la llegada de Neptuno y Nodens, y vuelve transformado — pierde toda inquietud y curiosidad y vive una vida monótona y resignada
   → [Aventuras Ignotas con Armesilla, 47:57](https://youtu.be/_S6kQYk9O98?t=2877)
 
+
+- **"En la cripta"**: George Birch, director de funeraria insensible y negligente, queda encerrado en una cripta y debe escalar usando los propios ataúdes para escapar; al pisar el del vengativo Asaf Sawyer — cuyos tobillos había cortado para que cupiera en un ataúd demasiado pequeño — algo le atrapa. El doctor Davis interpreta la venganza post mortem como "ojo por ojo"; Birch queda cojo y traumatizado de por vida
+  → [Otoño de cuentos. Lovecraft, 25:49](https://youtu.be/SwEqFdvBI9M?t=1549)
+- **"El descendiente"**: Lord Northam, erudito de linaje ancestral que rastrea su estirpe hasta un tribuno romano cuyo antepasado Gabinio accedió a una gruta donde gentes de una tierra hundida hacían ritos. Northam busca toda su vida una puerta a dimensiones exteriores agotando religión, ocultismo y satanismo, y termina aterrorizado en Londres rechazando todo pensamiento profundo
+  → [Otoño de cuentos. Lovecraft, 52:44](https://youtu.be/SwEqFdvBI9M?t=3164)
+- **"Aire frío"**: el Dr. Muñoz, médico español brillante, vive en frío constante y afirma que la voluntad y la conciencia son más fuertes que la vida orgánica. Llevaba 18 años técnicamente muerto, conservado por frío y voluntad; al romperse la máquina refrigeradora el cuerpo colapsa, dejando una nota confesando su estado. Caso lovecraftiano de lo monstruoso instalado en lo cotidiano (incienso egipcio, especias exóticas, habitación con olor a sepulcro)
+  → [Otoño de cuentos. Lovecraft, 1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)
+- **"El modelo de Pickman"**: Richard Upton Pickman, mayor pintor de Boston expulsado de clubes por su arte morboso, distingue entre el arte fantástico superficial y el que capta la anatomía real del terror. Su antepasada fue ahorcada en Salem en 1692; en un sótano del North End pinta criaturas caninas (gules) que se alimentan de humanos y establecen un nexo evolutivo con los humanos vía changelings. El giro final: una fotografía revela que Pickman pintaba del natural — las bestias eran reales
+  → [Otoño de cuentos. Lovecraft, 1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)
+
+
 ## Influencia contemporánea identificada por el canal
 
 Lovecraft funciona en el corpus como **clave de lectura para obras posteriores**:
@@ -158,5 +169,6 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Círculo de Lovecraft** (Robert E. Howard, Clark Ashton Smith, August Derleth): mencionados ocasionalmente pero no desarrollados
 - **Distinción entre "mitos de Cthulhu" canon y expansiones posteriores** (Derleth, etc.): no aparece
 - **Comparación detallada con Poe**: el canal lo menciona como antecedente directo pero no profundiza
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Cuentos individuales más allá de los citados**: el canal lee muchos cuentos ín -->
 - **Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos quedan recogidos en esta página con timestamp explícito
 - **Lectura junguiana directa de Lovecraft**: el canal usa marco junguiano para casi todo pero no articula un análisis explícito "Lovecraft según Jung"

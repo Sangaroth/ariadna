@@ -113,6 +113,21 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 > "El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve. La diosa blanca entrega una espada a lo masculino: **Yavanna concede a Manwë un juicio imposible sin lo femenino.**"
 → [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)
 
+
+
+El Génesis del Silmarillion hace concreta la articulación cosmogónica vía cuatro Valar cardinales repartidos por dos polos:
+
+> "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales). Tolkien construye su propio Génesis con un pecado masculino y un pecado femenino posteriores a la traición de Melkor."
+→ [Leyendo El Silmarillion: Tolkien y el mal primario, 12:02](https://youtu.be/gDRkrg8dVCo?t=722)
+
+La polaridad opera además en un plano cósmico solidario al telúrico:
+
+> "En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino. El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma."
+→ [Leyendo El Silmarillion: Tolkien y el mal primario, 13:32](https://youtu.be/gDRkrg8dVCo?t=812)
+
+Aulë y Yavanna en la superficie telúrica; Ulmo y Manwë en el plano cósmico. Cuatro Valar cardinales repartidos por dos polos: lo masculino (aire intelectual + tierra artesana) y lo femenino (agua espiritual + naturaleza salvaje). Cada elemento mítico aterriza en un Valar y cada Valar instancia un polo.
+
+
 ### Matrix: el mito polar del mago
 
 > "**Matrix es también un mito polar que habla de la dicotomía naturaleza-tecnología.** El arquitecto es lo masculino y el oráculo es lo femenino; la gente dentro de Matrix es producto de ambos. La anomalía sistémica de Matrix refleja el fallo sistémico heredado del mito del gólem."
