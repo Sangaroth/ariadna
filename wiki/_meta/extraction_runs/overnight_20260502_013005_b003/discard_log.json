@@ -1,0 +1,1462 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b003",
+  "generated_at": "2026-05-02T02:18:45+00:00",
+  "entities": {
+    "tca-trastornos-conducta-alimentaria": {
+      "canonical_name": "trastornos de conducta alimentaria (TCA)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": "central_thesis",
+          "minutes": 20,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Categoría clínica descriptiva (DSM-style) tratada extensamente en este vídeo (~20 min). Sin embargo, el material es mayoritariamente expositivo-clínico (taxonomía DSM de los cuatro TCA principales + criterios diagnósticos), no análisis original del canal. La pieza VERDADERAMENTE original es el ciclo neurótico aplicado a TCAs y la taxonomía propia del yo — capturado vía thesis_candidate. Si se promoviera página TCA independiente, sería contenedora de los modelos originales del canal (ciclo + taxonomía) más que de la categoría clínica per se. Mejor decisión: dejar que el humano decida si la articulación canal-específica de los TCAs (cycle + ego taxonomy aplicados a la condición clínica) merece página propia tipo synthesis_subtype: author_thesis",
+          "quote_evidence": "Los TCA pueden verse como un problema de autoimagen convertido en dinámica obsesiva con la comida"
+        },
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": "central_thesis",
+          "minutes": 6,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Misma entidad ya identificada en Parte Final (-NF9nrWTVEA) de esta serie. Esta Parte I aporta el chasis definitorio (TCA como trastorno adquirido sobre estructura ansiosa/obsesiva, distinción frente a trastornos de personalidad, exigencia de que sea conducta ansiosa no psicótica) que Parte Final luego sintetiza con el ciclo neurótico y la taxonomía del yo. Decisión coherente con Parte Final: foldear en el thesis_candidate de la serie completa para que el humano cure el conjunto",
+          "quote_evidence": "Los TCA son de los trastornos más fáciles de adquirir (más adquiridos que innatos), aunque requieren una estructura ansiosa u obsesiva"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 26,
+      "review_priority": "high",
+      "review_priority_reason": "sustained discussion (26min across 2 videos) without promotion"
+    },
+    "vigorexia": {
+      "canonical_name": "vigorexia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Sub-categoría clínica (TCA por hipertrofia compulsiva). El canal hace una observación interesante — la vigorexia tiene la misma dinámica obsesiva que anorexia/bulimia pero está culturalmente legitimada como 'constructiva'. Esa lectura cultural-crítica sí podría ser pieza relevante (paralelismo con consumismo-critica: la legitimación de patologías porque el resultado parece deseable). Pero como concepto independiente requeriría tratamiento ≥3 vídeos. Por ahora se preserva en la articulación de TCAs vía thesis_candidate",
+          "quote_evidence": "Dinámica de ejercicio compulsivo con objeto de hipertrofia muscular creciente"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ciclo-neurotico-canal": {
+      "canonical_name": "ciclo neurótico (ansiedad-obsesión-culpa-depresión)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": "central_thesis",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Modelo articulado por el canal con cuatro fases enlazadas en espiral ascendente. ES contenido original — no es modelo DSM ni junguiano clásico. Cumple §2.1 monográfico técnicamente (~8 min sostenidos sobre el modelo y su aplicación a TCAs). Pero como pieza de un thesis_candidate más amplio (que integra ciclo + taxonomía del yo + TCAs), conviene capturarlo allí en lugar de proponer página independiente. El humano puede luego decidir si fragmentar el thesis en sub-páginas (ciclo-neurotico-canal, taxonomia-yo-canal) o mantenerlo como una synthesis cohesionada",
+          "quote_evidence": "El ciclo neurótico es: ansiedad → obsesión → culpa → depresión → ansiedad"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "taxonomia-yo-canal": {
+      "canonical_name": "taxonomía del yo (yo / self / ego / autoestima)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": "central_thesis",
+          "minutes": 5,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Taxonomía original del canal con definiciones canal-específicas que NO coinciden con junguiano clásico ni DSM: yo=totalidad, self=parte consciente, ego=lo que uno cree merecer, autoestima=lo que uno cree poder hacer. Tipología propia de neurosis del ego (ambivalente / distócico / herido). IMPORTANTE: contradice la nota actual de scope.md §5 que afirma 'El canal NO usa self como término técnico junguiano explícito' — este vídeo demuestra que SÍ lo usa, aunque con definición divergente del Self junguiano (self del canal = consciente, mientras Self junguiano = totalidad). El humano debe decidir: (a) actualizar scope.md §5 para reflejar el uso real, (b) crear página taxonomia-yo-canal documentando la divergencia, (c) actualizar collective-unconscious para integrar la taxonomía. Captado todo en thesis_candidate",
+          "quote_evidence": "El ego es la parte del yo que contiene lo que uno cree que merece"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "anorexia nerviosa (criterios diagnósticos)": {
+      "canonical_name": "anorexia nerviosa (criterios diagnósticos)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Restricción y reducción de la ingesta nutricional que conduce a pérdida significativa de peso",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trastorno por atracón (criterios diagnósticos)": {
+      "canonical_name": "trastorno por atracón (criterios diagnósticos)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Episodios recurrentes de ingesta excesiva seguidos de disgusto, depresión y culpabilidad",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trastorno evitativo/restrictivo de la ingesta": {
+      "canonical_name": "trastorno evitativo/restrictivo de la ingesta",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Falta de interés en la comida o evitación por propiedades sensoriales o miedo al atragantamiento",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "efecto sistema familiar TCA (hermanas, madres)": {
+      "canonical_name": "efecto sistema familiar TCA (hermanas, madres)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las hermanas de personas con TCA desarrollan tabúes, vergüenzas y síntomas paralelos por tercería",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "diferencias de género en TCA (cerebro femenino más vulnerable)": {
+      "canonical_name": "diferencias de género en TCA (cerebro femenino más vulnerable)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los hombres heterosexuales tienen mucho menos frecuencia de anorexia o bulimia",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trastorno histriónico de la personalidad (caso aplicado)": {
+      "canonical_name": "trastorno histriónico de la personalidad (caso aplicado)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El histriónico tiene un ego ambivalente: no sabe qué merece, oscila entre merecer y no merecer",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trastorno narcisista / herida narcisista": {
+      "canonical_name": "trastorno narcisista / herida narcisista",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "el trastorno narcisista tiene un ego distócico desmedido; la herida narcisista tiene un merecer ambivalente o herido",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "diátesis TCA (catálogo de rasgos predisponentes)": {
+      "canonical_name": "diátesis TCA (catálogo de rasgos predisponentes)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "-NF9nrWTVEA",
+          "video_title": "Proxy, Effy, los TCAs y el ego, parte final",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Falta de espontaneidad, demasiado autocontrol, dependencia afectiva, perfeccionismo y autocrítica exagerada",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "feminismo-critica-canal": {
+      "canonical_name": "feminismo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "central_thesis",
+          "minutes": 13,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Tratado a lo largo del vídeo (~13 min) pero como instancia/catalizador de una tesis más amplia (inversión masculino-femenino), no como concepto autónomo desarrollado. Falta verificación de recurrencia ≥3 vídeos para que merezca página propia tipo consumismo-critica. La sustancia analítica del vídeo se canaliza mejor vía thesis_candidate. Requiere revisión humana por sensibilidad ideológica del contenido (scope.md §2.1 criterio monográfico técnicamente cumplido pero la 'tesis central' del vídeo es la inversión, no el feminismo en sí)",
+          "quote_evidence": "Existe un feminismo pop o cultural con ideas difusas sobre la emancipación que transforma la sociedad"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 13,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "posmodernidad": {
+      "canonical_name": "posmodernidad",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Categoría en título y mencionada como par del feminismo (02:39) pero sin desarrollo conceptual propio en este vídeo. El canal la asume sin definirla. No alcanza umbral monográfico (§2.1) ni recurrencia verificada. Marcar para tracking si futuras partes de la serie 'Pecado original y Posmodernidad' la desarrollan",
+          "quote_evidence": "El feminismo y la posmodernidad buscan destruir todo valor de cohesión"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pecado-original": {
+      "canonical_name": "pecado original",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "central_thesis",
+          "minutes": 13,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Categoría central del vídeo (en título), aplicada como marco mítico-analítico al diagnóstico cultural. Ya referenciada en mito-polar.md vía Postmodernidad I como interpretación del fruto del árbol del conocimiento. El concepto opera dentro de una serie de vídeos del canal — la decisión natural es enriquecer mito-polar (vía pending_update) en lugar de página propia hasta que la serie complete y se vea si merece autonomía",
+          "quote_evidence": "La tentación de la serpiente como mito fundacional del feminismo"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": "central_thesis",
+          "minutes": 35,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Tema central del vídeo (35 min de exposición monográfica). Cumple §2.1 criterio monográfico. Sin embargo, la lectura del canal del pecado original ES funcionalmente la lectura cosmogónica polar de Adán y Eva — el material está estructuralmente integrado al mito polar. La decisión más ordenada es enriquecer mito-polar.md con esta exposición (pending_update) en lugar de crear página propia que duplicaría contenido. Si en futuras partes de la serie el canal trata el pecado original como categoría autónoma (más allá del mito Adán y Eva), reconsiderar promoción independiente",
+          "quote_evidence": "El pecado original se interpreta como comer del fruto del árbol del conocimiento"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 48,
+      "review_priority": "high",
+      "review_priority_reason": "sustained discussion (48min across 2 videos) without promotion"
+    },
+    "tentacion-serpiente": {
+      "canonical_name": "tentación de la serpiente",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "central_thesis",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Pieza mítica usada como marco analítico, sub-elemento del pecado original. Sin recurrencia ≥3 vídeos verificada como concepto independiente. Va dentro del thesis_candidate del vídeo. Si el canal la desarrolla aisladamente en otros vídeos podría revisarse",
+          "quote_evidence": "La serpiente dice a la mujer que el Padre-Estado es un tirano que le ha prohibido acceder al poder"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "crisis-valores-occidente": {
+      "canonical_name": "crisis de valores",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Definición operativa breve sin desarrollo monográfico. Funciona como premisa del argumento, no como concepto tematizado. Sin recurrencia verificada como page candidate",
+          "quote_evidence": "Crisis de valores como definición de la decadencia de Occidente"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sobreproteccion-generacional": {
+      "canonical_name": "sobreprotección generacional",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Diagnóstico psicológico-cultural pertinente pero menor en este vídeo. Posible pieza de un marco más amplio del canal sobre neurosis contemporánea. Requiere verificación cross-vídeo antes de promoción",
+          "quote_evidence": "La sobreprotección generacional como fábrica de neurosis"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "eros-masculino": {
+      "canonical_name": "Eros masculino",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Concepto pasajero usado como pieza del argumento de feminización masculina. Sin desarrollo propio. Posible material futuro para anima-archetype si se verifica tratamiento sustantivo en otros vídeos",
+          "quote_evidence": "En lugar de canalizar el Eros hacia el afecto y la ternura, se culpabiliza al hombre por su Eros"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "neurosis-contemporanea": {
+      "canonical_name": "neurosis",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Categoría psicológica central del argumento del vídeo pero asumida sin definición ni desarrollo enciclopédico. El canal opera con el término pero no lo articula como concepto monográfico aquí. Requeriría tratamiento sustantivo verificado en otro(s) vídeo(s) para promoción",
+          "quote_evidence": "La neurosis como centro de toda preocupación social"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pandemia": {
+      "canonical_name": "pandemia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Estado obtiene la excusa para tiranizar bajo herramientas de represión; la pandemia como ejemplo paradigmático",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "New Age": {
+      "canonical_name": "New Age",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "la revolución mística femenina del New Age y la Wicca como performance pseudo-religiosa que distrae",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Wicca": {
+      "canonical_name": "Wicca",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "la revolución mística femenina del New Age y la Wicca como performance pseudo-religiosa que distrae",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "generación X / generación Y": {
+      "canonical_name": "generación X / generación Y",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Desde la generación X hasta la generación Y se ha criado en sobreprotección",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Estado": {
+      "canonical_name": "Estado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4znlMcSR_1g",
+          "video_title": "Pecado original y Posmodernidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Estado obtiene la excusa para tiranizar bajo herramientas de represión",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sobreintelectualizacion": {
+      "canonical_name": "sobreintelectualización",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Categoría crítica articulada por el canal: el exceso de intelecto como raíz de angustia existencial, narcisismo, hiperconciencia. Sustantiva pero secundaria al hilo cosmogónico del vídeo. Sin recurrencia ≥3 vídeos verificada como concepto independiente. Posible candidata futura si emerge en otros vídeos del canal sobre tecnología, IA, transhumanismo (donde la crítica del 'querer ser como Dios' sería central). Por ahora se preserva en el contenido de mito-polar como lectura interna del mito",
+          "quote_evidence": "Dios prohíbe comer del árbol del conocimiento porque ese saber traerá desgracias: es una advertencia contra la sobreintelectualización"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-cosmogonico": {
+      "canonical_name": "mito cosmogónico",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Categoría general (mito cosmogónico como tipo) más que concepto específico del canal. Ya tematizada implícitamente en mito-polar (que es subtipo de cosmogonía). Crear página independiente sería redundante con mito-polar y demasiado genérica. La articulación específica del canal sobre 'la psique no acepta el vacío y elabora modelos' podría ser pieza interesante para collective-unconscious si emerge en otros vídeos",
+          "quote_evidence": "Un mito cosmogónico es un cuento porque el origen del todo no se puede concebir sino mediante la fantasía"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "filogenia / ontogenia (recapitulación)": {
+      "canonical_name": "filogenia / ontogenia (recapitulación)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Primera capa: la cosmogonía recapitula la filogenia",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "árbol de la vida / árbol del conocimiento": {
+      "canonical_name": "árbol de la vida / árbol del conocimiento",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El árbol de la vida en el centro del paraíso representa las normas naturales que originan todo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "la serpiente": {
+      "canonical_name": "la serpiente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La serpiente representa el mal exógeno primario con el que se cohabitaba en orden",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Eva (personaje mítico)": {
+      "canonical_name": "Eva (personaje mítico)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Eva está más cercana a lo salvaje por provenir de una costilla de Adán",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Adán (personaje mítico)": {
+      "canonical_name": "Adán (personaje mítico)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Adán prefiere saltarse las normas divinas para agradar a Eva",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito del Golem / Prometeo / Pandora": {
+      "canonical_name": "mito del Golem / Prometeo / Pandora",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es el mito del golem, Prometeo y Pandora: la relación entre intelecto y moral",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "expulsión del paraíso": {
+      "canonical_name": "expulsión del paraíso",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La expulsión del paraíso simboliza que el don del intelecto trae una angustia que no existía en el estado de inocencia",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "división tripartita (físico / intelecto / instintos)": {
+      "canonical_name": "división tripartita (físico / intelecto / instintos)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El mundo se divide en lo físico crudo y salvaje (desnudez, hambre, frío, miedo)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "narcisismo": {
+      "canonical_name": "narcisismo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "J45h7xet8gg",
+          "video_title": "Pecado original y Postmodernidad I",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El pecado de Eva es querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder: narcisismo puro",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "insumision-fiscal": {
+      "canonical_name": "insumisión fiscal",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": "central_thesis",
+          "minutes": 90,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Tema dominante del vídeo (~90 min) pero fuera del alcance editorial del wiki por scope.md §3 (fiscalidad/actualidad económica concreta como categoría coyuntural) y §1 (economía/política fiscal no está en include_domains). El formato es además panel multi-speaker (Miguel, Benja, En Campo) sin la voz analítica monológica del canal Proxy que estructura el wiki. La pieza de crítica estructural ya está integrada en consumismo-critica vía cita 2:03:16 (alegatos finales) — esa es la dosis adecuada de extracción para este vídeo. Crear página independiente sobre insumisión fiscal sería expansión del wiki hacia activismo libertario-económico, fuera del lente mitológico-arquetípico-cultural del canal",
+          "quote_evidence": "El insumiso fiscal no es un evasor: es un contribuyente que redirige recursos a proyectos autogestionados como bancos de alimentos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 90,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "agorismo-konkin": {
+      "canonical_name": "agorismo (Samuel Konkin)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Konkin es teórico anarcocapitalista (agorismo, contra-economía, tipología de mercados negro/blanco/rojo/rosa). Mencionado una sola vez con definición breve. No está en canonical_whitelist.json y su dominio (filosofía política libertaria/economía heterodoxa) no es load-bearing para los dominios en alcance del wiki (psicología arquetípica, mitología, crítica cultural). Por §2.2 no cumple criterios para promoción autor (no whitelist, no substantive treatment ≥10 min, no recurrent reference ≥3 vídeos, no channel-ingested). Marcable como canonical_external_candidate solo si emerge en otros vídeos como marco aplicado, no por esta única mención",
+          "quote_evidence": "Samuel Konkin formuló el agorismo como vía de resistencia al Estado a través de mercados negros (contra-economía)"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "contrato-social-critica": {
+      "canonical_name": "contrato social (crítica anarcocapitalista)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Crítica filosófica al contrato social como adoctrinamiento — pieza relevante en filosofía política. Sin embargo, en este vídeo opera como premisa polémica del argumento anarcocapitalista (el contrato social como mito que legitima el Estado), no como concepto desarrollado autónomamente. Para promoción independiente requeriría tratamiento monográfico desde el lente cultural/semiótico del canal Proxy, no desde el panel libertario. Posible candidata si emerge en otros vídeos donde el canal articule la crítica con vocabulario propio (mitología, semiótica)",
+          "quote_evidence": "El ser humano ha sido aleccionado con la idea del contrato social y el bien común definido por el político de turno"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "bien-comun-palabra-comodin": {
+      "canonical_name": "bien común como palabra comodín",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Crítica semiótica del 'bien común' como significante vacío instrumentalizado por el poder político. Es estructuralmente análoga al análisis del canal sobre 'capitalismo como categoría mitológica' ya documentado en consumismo-critica. Sin embargo, en este vídeo es observación de pasada (~2 min) dentro de la conversación fiscal, no desarrollo monográfico. No alcanza umbral para concepto independiente. Si el canal articula sistemáticamente esta crítica semiótica al lenguaje político en otros vídeos, podría agruparse como 'palabras comodín del discurso político' — categoría futura interesante pero no extraíble desde aquí",
+          "quote_evidence": "El \"bien común\" funciona como palabra comodín para introducir cualquier mandato estatal"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hacienda y arbitrariedad fiscal española": {
+      "canonical_name": "Hacienda y arbitrariedad fiscal española",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Hacienda cambia criterios retroactivamente: asesores fiscales recomiendan prácticas legales que al año siguiente se reinterpretan y se aplican con retroactividad",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Constitución española (arts. 31 y 33) y casos coyunturales": {
+      "canonical_name": "Constitución española (arts. 31 y 33) y casos coyunturales",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El artículo 31 de la Constitución española prohíbe expresamente el alcance confiscatorio de los impuestos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "criptomonedas / Bitcoin / blockchain como alternativa al fiat": {
+      "canonical_name": "criptomonedas / Bitcoin / blockchain como alternativa al fiat",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "En Campo ve viable la extensión de criptomonedas como moda pero no como medio seguro: la volatilidad de hasta 20% diario impide su uso cotidiano",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "oro como reserva de valor": {
+      "canonical_name": "oro como reserva de valor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El oro sigue siendo la alternativa más segura por su alto valor fundamental, intercambiabilidad y tradición histórica",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Venezuela como caso de colapso monetario": {
+      "canonical_name": "Venezuela como caso de colapso monetario",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Los venezolanos renunciaron al bolívar soberano y recurren al peso colombiano, al dólar, a criptomonedas e incluso al dinero de World of Warcraft",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ley de animales como seres sintientes": {
+      "canonical_name": "ley de animales como seres sintientes",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "La nueva ley sobre animales como seres sintientes abre la puerta a figuras absurdas: custodia compartida, pensión alimenticia para mascotas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "autonomía patrimonial / energética / huerto": {
+      "canonical_name": "autonomía patrimonial / energética / huerto",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Placas solares y batería externa eliminan la dependencia del suministro estatal y sus impuestos abusivos sobre la luz",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "antecedentes históricos de insumisión (EE.UU., Kazajistán, Líbano, Cataluña)": {
+      "canonical_name": "antecedentes históricos de insumisión (EE.UU., Kazajistán, Líbano, Cataluña)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "EE.UU. se independizó precisamente por una subida de impuestos, ejerciendo el derecho a la secesión",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "oligopolios estatales y medios de comunicación como lobbies": {
+      "canonical_name": "oligopolios estatales y medios de comunicación como lobbies",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lFbK8-hU_E0",
+          "video_title": "Póker de Señoros",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "No hay diferencia entre los fondos desviados a La Sexta y los rescates bancarios: ambos son igualmente ilegítimos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "impulsividad-compulsividad-obsesividad": {
+      "canonical_name": "distinción impulsividad / compulsividad / obsesividad",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Tres definiciones técnicas precisas articuladas por el canal como vocabulario operativo. En Parte Final se usan operativamente sin redefinirse (allí solo aparece compulsividad/obsesividad sin impulsividad). Pieza del vocabulario psicológico canal-específico — pertenece al thesis_candidate de la serie como pre-requisito conceptual. No autónoma como página: tiene sentido sólo dentro del marco que las usa para diagnosticar TCAs y otros trastornos. Si el canal articula sistemáticamente un 'glosario psicológico propio' en otros vídeos, podría integrarse en una página tipo vocabulario-psicologico-canal",
+          "quote_evidence": "Obsesividad: rasgo por el cual el pensamiento interno tiende a ser recurrente hasta el punto de la confabulación"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ansiedad-impulsiva-canal": {
+      "canonical_name": "ansiedad impulsiva (positiva/activa) vs no impulsiva",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Distinción técnica del canal entre dos modos de ansiedad — la 'positiva/activa' que genera necesidad de conducta (motor de TCAs) frente a la pasiva. Pieza del vocabulario psicológico que se integra en el thesis_candidate. Sub-elemento del modelo del ciclo neurótico (la ansiedad como primera fase es presumiblemente la impulsiva)",
+          "quote_evidence": "Los TCA están causados por ansiedad en sentido impulsivo: la ansiedad genera una necesidad de conducta (ansiedad positiva/activa)"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "atracon-peso-consecuencia": {
+      "canonical_name": "refutación: 'todos los TCA tienen preocupación por el peso'",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Corrección clínica precisa del canal: en el trastorno por atracón, la preocupación por el peso es CONSECUENCIA, no núcleo del trastorno. Conecta directamente con la afirmación de Parte Final ('El núcleo obsesivo en el trastorno por atracón es la culpa, no la imagen corporal'). Pieza del thesis_candidate como matiz diferenciador entre los cuatro TCA del catálogo",
+          "quote_evidence": "En el trastorno por atracón la preocupación por el peso es consecuencia del trastorno, no su núcleo neurótico"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "PIR/MIR como única vía a la filosofía de la psicología en España": {
+      "canonical_name": "PIR/MIR como única vía a la filosofía de la psicología en España",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "En la carrera de psicología la terminología se queda corta porque no hay filosofía de la psicología hasta el PIR o el MIR de psiquiatría",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pregunta de Efi sobre clasificación histriónico/narcisista/límite/antisocial": {
+      "canonical_name": "pregunta de Efi sobre clasificación histriónico/narcisista/límite/antisocial",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "si ego y autoestima son cosas distintas, cómo se reflejan en personalidades narcisista, histriónica, límite o antisocial",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "control hipotalámico de la ingesta y conexión orbitofrontal": {
+      "canonical_name": "control hipotalámico de la ingesta y conexión orbitofrontal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Comer como método para calmar la ansiedad se da incluso sin trastorno, por control hipotalámico y conexión con el córtex prefrontal orbitofrontal",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "diferencia anorexia nerviosa vs bulimia/atracón (perfiles)": {
+      "canonical_name": "diferencia anorexia nerviosa vs bulimia/atracón (perfiles)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qsOGN6rOWIE",
+          "video_title": "Proxy, Effy y los TCAs Primera Parte",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El perfil de anorexia nerviosa es bastante diferente al de bulimia y trastorno por atracón",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}
