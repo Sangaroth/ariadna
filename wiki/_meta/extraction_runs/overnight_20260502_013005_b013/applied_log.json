@@ -1,0 +1,25 @@
+{
+  "applied_at": "2026-05-02T05:31:13+00:00",
+  "run_id": "overnight_20260502_013005_b013",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "anima-archetype": {
+      "file_path": "wiki/concepts/anima-archetype.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='→ [Gothika: De Profundis, 51:58](https://youtu.be/' section=''",
+        "  + insert_after (648 chars) tras anchor único"
+      ]
+    }
+  }
+}

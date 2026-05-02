@@ -103,6 +103,13 @@ El canal usa con regularidad la figura del **ánima sola** — concepto que va m
 - **En Gothika**: el fantasma es la parte del yo pendiente de resolver, un pasado del que no se puede regresar. El ánima sola representa lo femenino repitiendo su sufrimiento hasta aprender. Miranda se despierta encerrada en su propio hospital: la diosa ha caído en la cárcel hipogea
   → [Gothika: De Profundis, 51:58](https://youtu.be/Gx2740if0Ho?t=3118)
 
+
+
+- **Las tres diosas y el tatuaje del ánima sola** (Gothika): Miranda, la fantasma Rachel Parsons y la doncella secuestrada en el sótano son el mismo arquetipo fracturado — "las tres diosas son la misma persona". El tatuaje del ánima sola en la piel de la doncella opera como signo que conecta a las tres mujeres; al reaparecer en el brazo del policía cómplice, identifica al verdadero dragón al que el ánima debe enfrentarse. "Not alone" inscrito en sangre cifra que a las tres les ocurrió lo mismo
+  → [Gothika: De Profundis, 1:14:35](https://youtu.be/Gx2740if0Ho?t=4475)
+  → [Gothika: De Profundis, 1:37:04](https://youtu.be/Gx2740if0Ho?t=5824)
+
+
 - **Por qué importa**: lo femenino corrompido es más terrible que lo masculino corrompido. Lo femenino resiste mejor el mal porque está diseñado para ello; si se corrompe, algo peor ha ocurrido. El arquetipo del ánima sola nombra al alma que sufre estancada en un pecado o agonía sin resolución
   → [Directo casual, 40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
 
