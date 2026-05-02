@@ -100,6 +100,16 @@ El canal trata las apps de citas como **caso paradigmático de mercantilización
 
 La lectura del canal: las apps no causan el problema sino que **amplifican y aceleran** una mercantilización afectiva ya presente. Las personas operan en formato catálogo porque el resto del entorno cultural ya las ha reducido a productos elegibles.
 
+### El intercambio consumista en pareja: del deleite a la correspondencia
+
+La lógica consumista no se limita a las apps — articula también la forma básica del intercambio en pareja contemporánea, donde lo que se busca del otro es deleite, no correspondencia:
+
+> "El intercambio en las parejas actuales es consumista: queremos consumir al otro, que el otro nos deleite. La fidelidad es correspondencia: actuar como si fuéramos uno, correr los riesgos del otro. Las mujeres están acostumbradas a ser compradas y no entienden la gratuidad cuando la reciben."
+→ [Psiquiatría, antipsiquiatría y teoría de la mente, 22:38](https://youtu.be/4LBXNkVAUCU?t=1358)
+
+La asimetría conceptual es operativa: **consumir** trata al otro como producto que satisface; **corresponder** asume el riesgo conjunto. La cultura consumista entrena al sujeto a esperar deleite y le desentrena de la gratuidad — por eso recibirla genera incomprensión, no gratitud. La fidelidad en este marco no es restricción moral sino efecto natural de operar como una unidad: correr los riesgos del otro presupone que sus pérdidas son las propias.
+
+
 ## Postura específica del canal: NO es anti-capitalismo marxista
 
 Una precisión importante para no confundir esta página con la crítica de izquierdas estándar:

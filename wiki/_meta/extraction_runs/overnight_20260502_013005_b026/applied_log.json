@@ -1,0 +1,25 @@
+{
+  "applied_at": "2026-05-02T10:07:00+00:00",
+  "run_id": "overnight_20260502_013005_b026",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "consumismo-critica": {
+      "file_path": "wiki/concepts/consumismo-critica.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='Las personas operan en formato catálogo porque el ' section='Manifestación canónica: las apps de citas'",
+        "  + insert_after (1106 chars) tras anchor único"
+      ]
+    }
+  }
+}
