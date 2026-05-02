@@ -199,6 +199,52 @@ def commit_aggregator_outputs(run_id: str) -> bool:
     return True
 
 
+def housekeeping_commit(message_prefix: str) -> int:
+    """Stage + commit cualquier archivo untracked/modified relevante.
+
+    Stagea: aggregator outputs de runs, applied_log.json, processed_videos.json,
+    cambios en wiki/*.md. Devuelve el número de archivos staged. Si no hay
+    nada que commitear, devuelve 0.
+
+    Política: el orchestrator gestiona git de forma autónoma. Esto desbloquea
+    el problema "dirty tree" sin tener que abortar runs largos.
+    """
+    proc = subprocess.run(
+        ["git", "status", "--porcelain"],
+        capture_output=True, text=True, cwd=REPO,
+    )
+    if proc.returncode != 0 or not proc.stdout.strip():
+        return 0
+    paths_to_stage: list[str] = []
+    for line in proc.stdout.splitlines():
+        # Formato: "XY path"
+        if len(line) < 4:
+            continue
+        path = line[3:].strip().strip('"')
+        # Solo nos interesan los archivos del pipeline; ignoramos cosas como
+        # cambios en código fuera del pipeline (que no debería haber)
+        if path.startswith("wiki/_meta/extraction_runs/"):
+            paths_to_stage.append(path)
+        elif path == "wiki/_meta/processed_videos.json":
+            paths_to_stage.append(path)
+        elif path.startswith("wiki/") and path.endswith(".md"):
+            paths_to_stage.append(path)
+    if not paths_to_stage:
+        return 0
+    rc, out, err = run_subprocess(["git", "add"] + paths_to_stage, "stage housekeeping")
+    if rc != 0:
+        log(f"git add housekeeping falló: {err}", level="WARN")
+        return 0
+    msg = f"chore(extractor): {message_prefix} ({len(paths_to_stage)} files)"
+    rc, out, err = run_subprocess(["git", "commit", "-m", msg], "commit housekeeping")
+    if rc != 0:
+        if "nothing to commit" in err.lower() or "nothing to commit" in out.lower():
+            return 0
+        log(f"git commit housekeeping falló: {err}", level="WARN")
+        return 0
+    return len(paths_to_stage)
+
+
 def apply_batch(run_id: str) -> bool:
     log(f"apply pending_updates: {run_id}")
     cmd = [
@@ -210,6 +256,7 @@ def apply_batch(run_id: str) -> bool:
         "--auto-commit",
         "--continue-on-error",
         "--no-validator",  # validador completo se corre al final del overnight
+        "--no-git-check",  # orchestrator gestiona git, apply confía
     ]
     rc, out, err = run_subprocess(cmd, "apply", timeout=300)
     if rc != 0:
@@ -293,12 +340,14 @@ def run_overnight(args: argparse.Namespace) -> str:
         log("nada que procesar — exit OK")
         return "EXHAUSTED_NOTHING_PENDING"
 
-    # Verificación inicial: git tree limpio
-    proc = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, cwd=REPO)
-    if proc.stdout.strip():
-        log(f"git tree no limpio al inicio:\n{proc.stdout}", level="WARN")
-        if not args.allow_dirty_start:
-            return "STOPPED_GIT_DIRTY"
+    # Housekeeping inicial: si hay untracked relevantes (aggregator outputs
+    # huérfanos de un run anterior, applied_log.json sin commitear,
+    # processed_videos.json modificado), los commitea bajo un mensaje
+    # claro antes de empezar. Política: el orchestrator GESTIONA git,
+    # no aborta por dirty.
+    cleanup_committed = housekeeping_commit("pre-overnight housekeeping")
+    if cleanup_committed:
+        log(f"housekeeping pre-run: {cleanup_committed} archivos commiteados")
 
     consecutive_empty = 0
     batch_idx = 0
@@ -382,6 +431,13 @@ def run_overnight(args: argparse.Namespace) -> str:
         added = update_state_from_run(state, run_id)
         save_processed(state)
         log(f"processed_videos.json +{added} (total: {len(state['videos'])})")
+
+        # 8. Housekeeping commit — recoge applied_log.json + processed_videos.json
+        #    + cualquier output del aggregator/apply que no haya sido commiteado
+        #    por el subscript. Mantiene el tree limpio entre lotes.
+        n_committed = housekeeping_commit(f"batch {batch_idx} ({run_id})")
+        if n_committed:
+            log(f"housekeeping batch {batch_idx}: +{n_committed} archivos")
 
         # Pausa entre batches (gentle con rate-limit)
         log(f"sleep {SLEEP_BETWEEN_BATCHES_S}s")

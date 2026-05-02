@@ -574,9 +574,12 @@ def main() -> None:
                 f"Páginas: {page_ids_str}\n"
                 f"Audit trail (gitignored): wiki/_meta/extraction_runs/{args.from_run}/applied_log.json\n"
             )
-            # Solo añadimos los archivos del wiki tocados. extraction_runs/ está
-            # gitignored — el audit trail vive local en el run dir y el backup.
+            # Añadimos los archivos del wiki tocados + applied_log.json
+            # (este último está re-incluido en .gitignore opción B como audit trail)
             paths_to_add = [str(p.relative_to(REPO)) for p in touched]
+            applied_log_path = run_dir / "applied_log.json"
+            if applied_log_path.exists():
+                paths_to_add.append(str(applied_log_path.relative_to(REPO)))
             subprocess.run(["git", "add"] + paths_to_add, cwd=REPO, check=False)
             commit = subprocess.run(["git", "commit", "-m", commit_msg], cwd=REPO, capture_output=True, text=True)
             if commit.returncode != 0:
