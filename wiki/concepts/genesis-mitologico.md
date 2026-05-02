@@ -131,6 +131,7 @@ La correspondencia con las sefirot cabalísticas indica que el canal lee el Gén
 
 
 
-- video_id: `s6teBboDDJ4` — el Génesis en Tolkien (Parte 1)
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
+- **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 

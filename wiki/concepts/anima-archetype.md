@@ -102,6 +102,14 @@ El canal usa con regularidad la figura del **ánima sola** — concepto que va m
   → [Análisis arquetípico de Drácula, 39:09](https://youtu.be/JmCqIk6NDsM?t=2349)
 
 
+
+- **Lucy / novia de Drácula como sincretismo de feminidad oscura**: el canal lee a la novia de Drácula como condensación de varios arquetipos del polo oscuro femenino — madre oscura, Lilit, súcubo y ninfa al mismo tiempo. Lucy muerta en pecado sale por la noche a cazar 'como Lilit que devora niños para mantenerse joven'; seduce a su prometido ("bésame, acaríciame, amado esposo mío") antes de ser detenida. Este sincretismo es ánima sola en su forma más activa: no solo sufrimiento estancado, sino feminidad corrompida que predica
+  → [Análisis arquetípico de Drácula, 2:34:06](https://youtu.be/JmCqIk6NDsM?t=9246)
+
+- **La mutación Wendy → ninfa como dinámica de la ánima en florecimiento**: el síndrome de Wendy (feminidad ingenua que crea héroes imaginarios) muta al síndrome de la ninfa cuando el cuerpo se desarrolla — la diosa interior pasa de Artemisa a Afrodita. La ninfa arquetípica es "un ser hipersexual perdido en el bosque que enamora a todos los que se la encuentran". Mecánica de transición de la ánima imaginativa pre-sexual a la ánima erótica plena — y de su corrupción posible hacia el súcubo si se desvía hacia lo puramente sexual
+  → [Análisis arquetípico de Drácula, 39:09](https://youtu.be/JmCqIk6NDsM?t=2349)
+
+
 ### Aplicación al enamoramiento contemporáneo
 
 El canal aplica recurrentemente ánima/ánimus a la fenomenología del enamoramiento como **proyección arquetípica** sobre una persona concreta:

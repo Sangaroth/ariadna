@@ -100,6 +100,50 @@ La representación arquetípica es así composición de estructuras cognitivas e
 Esta distinción sitúa el arquetipo en el nivel **afectivo** (clasificación de importancia) y no en el emocional (sensación corporal): el arquetipo organiza la atención antes de que cualquier emoción somática se active. La página de [[shadow-archetype]] y la de [[anima-archetype]] heredan esta precisión: cuando se habla de "experiencia arquetípica" lo que primero se activa es la clasificación de importancia, no el correlato somático.
 
 
+
+## El arquetipo como hecho psicobiológico: el efecto Buba-Kiki en pollos
+
+El canal aporta un caso empírico que extiende la lectura cognitiva del inconsciente colectivo al plano biológico comparado. El **efecto Buba-Kiki** — asociación universal entre el sonido "buba" y formas redondeadas, y entre "kiki" y formas puntiagudas, observada en humanos de cualquier cultura — se ha confirmado en **pollos de un solo día sin entrenamiento ni recompensa**:
+
+> "Se entrenó a 42 pollos de tres días a buscar comida tras una figura mezcla de Buba y Kiki, luego se les presentaron ambas figuras por separado con el sonido correspondiente. Los pollos se acercaban a la figura correcta según el sonido, incluso sin alimento escondido. Con pollos de un solo día y sin entrenamiento previo, el resultado fue el mismo."
+→ [Psicología 101: Cómo un Pollo demostró a Jung, 36:56](https://youtu.be/cbfhVqYDbdE?t=2216)
+
+> "Si humanos y pollos hacen la misma asociación innata, deben existir homologías biológicas evolutivas. La noesis es igual en ambas especies porque la asociación es idéntica. Debe haber homologías no solo biológicas sino también noéticas, y esa homología noética es arquetípica."
+→ [Psicología 101: Cómo un Pollo demostró a Jung, 1:16:31](https://youtu.be/cbfhVqYDbdE?t=4591)
+
+El experimento responde la pregunta sobre el origen biológico del inconsciente colectivo: las estructuras representacionales arquetípicas se heredan biológicamente y son lo bastante antiguas evolutivamente como para compartirse entre vertebrados muy distantes. El canal acuña un término propio para nombrar esta convergencia: las [[clases-ancestrales]] — homologías noéticas trascendentes a la especie.
+
+### La cadena causal del arquetipo: sonido → afecto → imagen
+
+A partir del Buba-Kiki, el canal articula la mecánica afectiva del arquetipo:
+
+> "El sonido tiene una componente arquetípica innata. La cadena causal es: sonido → afecto → imagen; la imagen, el afecto y las experiencias vinculadas existen de forma innata."
+→ [Psicología 101: Cómo un Pollo demostró a Jung, 1:04:47](https://youtu.be/cbfhVqYDbdE?t=3887)
+
+Lo decisivo es que esta asociación **no es memoria asociativa**: existía en la estructura representacional antes del primer encuentro con el objeto.
+
+> "No es solo inconsciente: puede ser inconsciente y consciente a la vez. Lo decisivo es que no es aprendida ni asociativa: la asociación existía ya antes de ver el objeto por primera vez. Son clases ancestrales, no memorias."
+→ [Psicología 101: Cómo un Pollo demostró a Jung, 1:23:56](https://youtu.be/cbfhVqYDbdE?t=4796)
+
+### Multimodalidad, no sinestesia
+
+Para articular cómo opera la representación arquetípica el canal distingue dos mecánicas neurológicas que el debate popular suele confundir:
+
+> "La sinestesia es percibir un sentido como si fuera otro (cruce de sentidos), mientras que la multimodalidad es activar diferentes partes del cerebro simultáneamente. El efecto Buba-Kiki no es sinestesia sino asociación multimodal."
+→ [Psicología 101: Cómo un Pollo demostró a Jung, 39:58](https://youtu.be/cbfhVqYDbdE?t=2398)
+
+La representación arquetípica es así composición de estructuras cognitivas evolutivamente independientes que se disparan simultáneamente — no fusión perceptiva alucinatoria, sino orquesta de modos cognitivos.
+
+### Afectos no son emociones
+
+Última distinción operativa que el canal añade en este vídeo y que precisa el lugar exacto del arquetipo en la economía psíquica:
+
+> "Las emociones se notan en el cuerpo; los afectos no necesariamente. Los afectos son clasificaciones de importancia, no sensaciones corporales. Las asociaciones sonido-forma no son emocionales sino afectivas."
+→ [Psicología 101: Cómo un Pollo demostró a Jung, 1:02:07](https://youtu.be/cbfhVqYDbdE?t=3727)
+
+Esta distinción sitúa el arquetipo en el nivel **afectivo** (clasificación de importancia) y no en el emocional (sensación corporal): el arquetipo organiza la atención antes de que cualquier emoción somática se active. La página de [[shadow-archetype]] y la de [[anima-archetype]] heredan esta precisión: cuando se habla de "experiencia arquetípica" lo que primero se activa es la clasificación de importancia, no el correlato somático.
+
+
 ## Contenidos: los mitos primarios
 
 El inconsciente colectivo no contiene "imágenes" sueltas sino **estructuras mitológicas universales** identificables:

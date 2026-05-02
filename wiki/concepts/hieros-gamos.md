@@ -139,6 +139,25 @@ La redención final invierte la inversión: Mina renuncia al hieros gamos satán
 → [Análisis arquetípico de Drácula, 2:53:51](https://youtu.be/JmCqIk6NDsM?t=10431)
 
 
+
+### Drácula (Coppola, 1992): hieros gamos satánico invertido
+
+El canal lee Drácula como caso paradigmático de **hieros gamos invertido** — el rito conserva su forma pero con polaridad demoníaca. El caballero de la Sagrada Orden del Dragón, al perder a su amada (cuyo suicidio la condena al infierno), se rebela contra Dios atravesando la cruz con la espada y bebiendo la sangre del sacrilegio (sangre arrebatada, no ofrecida en sacramento). Queda condenado a alimentarse de sangre eternamente: el caballero de Dios deviene demonio.
+
+> "Drácula simboliza simultáneamente un amante trágico, un sacrílego, un demonio y un caballero maldito."
+→ [Análisis arquetípico de Drácula, 56:53](https://youtu.be/JmCqIk6NDsM?t=3413)
+
+La estructura ritual del hieros gamos satánico aparece consumada cuando Mina y Drácula bailan entre velas:
+
+> "Los amantes bailan entre velas renunciando a su sentido originario de matrimonio santificado para ser amantes prohibidos."
+→ [Análisis arquetípico de Drácula, 2:21:00](https://youtu.be/JmCqIk6NDsM?t=8460)
+
+La redención final invierte la inversión: Mina renuncia al hieros gamos satánico al matar al vampiro con sus propias manos y trasciende lo físico ("te veré en otra vida"), recuperando la posibilidad de un matrimonio santo con Jonathan ya purificado.
+
+> "El hierosgamos satánico no se consuma; Mina mira hacia arriba y dice 'te veré en otra vida', trascendiendo lo físico."
+→ [Análisis arquetípico de Drácula, 2:53:51](https://youtu.be/JmCqIk6NDsM?t=10431)
+
+
 ## Conexiones teóricas adyacentes
 
 ### Alquimia y conjunctio
@@ -165,4 +184,7 @@ Lectura antropológica del vínculo:
 
 ## Citations
 
+
 - **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [7:42](https://youtu.be/Tviv4PT0dv8?t=462) · [11:45](https://youtu.be/Tviv4PT0dv8?t=705) · [16:18](https://youtu.be/Tviv4PT0dv8?t=978) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
+- **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
+

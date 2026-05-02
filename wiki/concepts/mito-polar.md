@@ -140,3 +140,7 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 - **Filogénesis del dipolo**: por qué la psique humana operaría preferentemente con dos polos y no con tres o más. El canal lo afirma como hecho ("no existe un tercer polo") pero no desarrolla la base evolutiva
 - **Tipología completa de los mitos polares**: el canal nombra Pandora-Prometeo, Adán-Eva, Yavanna-Manwë, Matrix Arquitecto-Oráculo, pero no enumera el catálogo completo. ¿Cuántos mitos polares distintos identifica el canal en total?
 - **Distinción entre mito polar y matriarcado/patriarcado**: el polar implica equilibrio; ¿qué relación tiene con sociedades históricas donde un polo domina al otro? El canal toca el tema en otros vídeos pero no lo articula sistemáticamente con el modelo polar
+
+## Citations
+
+- **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)

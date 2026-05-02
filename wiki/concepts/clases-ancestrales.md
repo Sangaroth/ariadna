@@ -126,4 +126,6 @@ Las representaciones, en consecuencia, se entienden como **vectores de propiedad
 
 ## Citations
 
-- video_id: `cbfhVqYDbdE` — Psicología 101: Cómo un Pollo demostró a Jung
+
+- **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:17:33](https://youtu.be/cbfhVqYDbdE?t=4653) · [1:23:56](https://youtu.be/cbfhVqYDbdE?t=5036)
+

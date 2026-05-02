@@ -134,6 +134,7 @@ Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura r
 ## Citations
 
 
-- video_id: `JmCqIk6NDsM` — Análisis arquetípico de Drácula, de Bram Stoker
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [3:31](https://youtu.be/3Jo2T73pOEs?t=211) · [8:41](https://youtu.be/3Jo2T73pOEs?t=521)
+- **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [32:35](https://youtu.be/JmCqIk6NDsM?t=1955) · [36:37](https://youtu.be/JmCqIk6NDsM?t=2197) · [3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
 

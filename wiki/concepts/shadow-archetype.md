@@ -61,6 +61,11 @@ El canal usa Peter Pan como caso clínico de la sombra como elemento separable y
   → [Análisis arquetípico de Drácula, 1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 
 
+
+- **Drácula como sombra liberada y autónoma** (caso paralelo al de Peter Pan): el canal lee a Drácula desde la misma estructura — una sombra separada de su dueño que cobra vida propia. Donde Peter Pan ha **perdido** su sombra al renunciar a toda responsabilidad, Drácula la ha **liberado** activamente. La sombra autónoma amenaza la cabeza de Jonathan en el castillo: el héroe está empezando a perder la razón en ese lugar desconocido
+  → [Análisis arquetípico de Drácula, 1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
+
+
 ### En psicología clínica: el inconsciente como hecho empírico
 
 El canal defiende la existencia del inconsciente contra divulgadores que la niegan:
@@ -105,3 +110,7 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 - **Sombra colectiva** (de grupos sociales, naciones, generaciones) — el canal toca polarización en otros vídeos pero no la conecta explícitamente al arquetipo
 - **Distinción Jung clásico vs neo-junguianos** — el canal lee la sombra desde su propio modelo 3Q sin contrastarla en detalle con la formulación junguiana original
+
+## Citations
+
+- **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029)
