@@ -56,6 +56,21 @@ El canal usa Peter Pan como caso clínico de la sombra como elemento separable y
 - **Tríada psíquica de Wendy**: ella misma como [[anima-archetype]] desplazada; Peter Pan como ánimus desintegrado de su propia sombra (el eterno aventurero que no puede crecer); Campanilla como pulsiones pre-adolescentes
   → [Peter Pan, 53:16](https://youtu.be/ClnayaScAjQ?t=3196)
 
+
+### Drácula como sombra liberada: el caso inverso de Peter Pan
+
+Si en Peter Pan la sombra se cose con jabón para reintegrar al sujeto, en Drácula (Coppola, 1992) el canal lee la situación inversa: la sombra ha sido separada del dueño como acto de corrupción terminal. Jonathan al entrar al castillo se convierte gradualmente en sombra de Drácula — un caso clínico del arquetipo en su modo más destructivo, donde el sujeto no integra su sombra sino que es absorbido por la sombra ajena.
+
+> "En el castillo hay una sombra separada de su dueño, como Peter Pan que perdió su sombra al renunciar a toda responsabilidad"
+→ [Análisis arquetípico de Drácula, de Bram Stoker (1:18:38)](https://youtu.be/JmCqIk6NDsM?t=4718)
+
+> "Drácula ha liberado su sombra y su mal: es un ser completamente desintegrado y corrompido"
+→ [Análisis arquetípico de Drácula, de Bram Stoker (1:18:38)](https://youtu.be/JmCqIk6NDsM?t=4718)
+
+> "La sombra amenaza la cabeza de Jonathan: en este lugar desconocido está empezando a perder la razón"
+→ [Análisis arquetípico de Drácula, de Bram Stoker (1:18:38)](https://youtu.be/JmCqIk6NDsM?t=4718)
+
+
 ### En psicología clínica: el inconsciente como hecho empírico
 
 El canal defiende la existencia del inconsciente contra divulgadores que la niegan:

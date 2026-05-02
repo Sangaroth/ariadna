@@ -115,6 +115,19 @@ El hieros gamos también funciona como **lente para detectar uniones disfunciona
 > "Al beber la sangre del último unicornio, lo azul y lo rosa se juntan pero como alma negra y sangre roja: una conjunción venenosa. Lo femenino muerto se integra pasivamente en la abominación; lo masculino huye pero es devorado. El hombre surge como resultado final de la mala integración de lo femenino y lo masculino, admirado por los monos que representan el estadio previo."
 → [Unicorn Wars, 1:48:46](https://youtu.be/fLfEbHPJNmU?t=6526)
 
+
+
+### Drácula (Coppola, 1992): el hierosgamos satánico inverso
+
+Drácula es leído como inversión radical del matrimonio sacralizado: los amantes renuncian a la santificación nupcial para sellar un pacto demoníaco. La unión existe pero está volcada hacia el infierno; Mina debe matar al amante ideal para que el hierosgamos satánico no se consume y la trascendencia uránica quede preservada.
+
+> "Los amantes bailan entre velas renunciando a su sentido originario de matrimonio santificado para ser amantes prohibidos"
+→ [Análisis arquetípico de Drácula, de Bram Stoker (2:21:00)](https://youtu.be/JmCqIk6NDsM?t=8460)
+
+> "El hierosgamos satánico no se consuma; Mina mira hacia arriba y dice "te veré en otra vida", trascendiendo lo físico"
+→ [Análisis arquetípico de Drácula, de Bram Stoker (2:53:51)](https://youtu.be/JmCqIk6NDsM?t=10431)
+
+
 ### Eyes Wide Shut: el asalto al matrimonio como institución
 
 > "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente. Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes."

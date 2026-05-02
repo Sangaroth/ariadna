@@ -131,6 +131,21 @@ Aspectos donde el canal extiende o matiza al junguiano clásico:
 
 3. **Tipología arquetipo / prototipo / estereotipo / autotipo** — extensión del canal sobre el concepto junguiano de arquetipo (no presente en Jung con esa terminología)
 
+
+
+## Confirmación experimental contemporánea
+
+El marco junguiano del arquetipo recibe en el canal una articulación con base experimental. Pollos de un día de edad reproducen sin entrenamiento la misma asociación sonido-forma que los humanos: el arquetipo deja de ser categoría literaria para volverse hipótesis psicobiológica falsable.
+
+> "El arquetipo no solo es una categoría antropológica de literatura y mitología: interesa en tanto psicobiología"
+→ [Psicología 101: Cómo un Pollo demostró a Jung (27:10)](https://youtu.be/cbfhVqYDbdE?t=1630)
+
+> "Pollos de solo un día asocian la figura redondeada con el sonido "buba" y la puntiaguda con "kiki""
+→ [Psicología 101: Cómo un Pollo demostró a Jung (29:41)](https://youtu.be/cbfhVqYDbdE?t=1781)
+
+Con esta evidencia el canal sitúa la triada Jung-Lévi-Strauss-Proxy como tres modelos coincidentes de un mismo hecho empírico: estructuras innatas que causan representaciones mentales. Ver [[collective-unconscious]] §Confirmación experimental: el efecto Buba-Kiki en pollos para el desarrollo dedicado del experimento.
+
+
 ## Lagunas
 - **El propio Jung como autor**: el corpus actual NO ingiere sus obras (Tipos psicológicos, El hombre y sus símbolos, Aion, etc.). Cuando entre Fase D, los libros de Jung pasarán de ser "marco teórico de referencia" a ser **fuentes ingeridas con sus propios chunks** — esta página entonces tendrá `as_author_of_sources` poblada
 - **Discípulos y herederos junguianos** que el canal lee (Hillman, Edinger, von Franz, Joseph Campbell) — mencionados ocasionalmente pero sin tratamiento dedicado

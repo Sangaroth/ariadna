@@ -93,6 +93,24 @@ Ver [[mito-polar]] §El mito polar como tercer camino para el desarrollo de esta
 
 El mito solar es la estructura mítica; el [[viaje-heroe]] es su desarrollo narrativo en clave de individuación masculina. Toda obra que articule un viaje del héroe puro (sin diosa integrada) opera dentro del mito solar puro y por tanto del bucle del sacrificio.
 
+
+
+## Cristo como héroe solar paradigmático
+
+El sacrificio de Cristo es leído por el canal como caso canónico del mito solar: Dios se encarna sometiéndose a las mismas reglas que creó (mortalidad, finitud, tentación) para llevar sus enseñanzas hasta las últimas consecuencias.
+
+> "Dios se encarnó en Cristo sometiéndose a las mismas reglas que había creado para la humanidad: mortalidad, finitud y tentación"
+→ [el Génesis en Tolkien (Parte 1) (07:48)](https://youtu.be/s6teBboDDJ4?t=468)
+
+> "Cristo llevó sus enseñanzas hasta las últimas consecuencias de su propia muerte para ser el héroe solar que los discípulos necesitaban"
+→ [el Génesis en Tolkien (Parte 1) (07:48)](https://youtu.be/s6teBboDDJ4?t=468)
+
+El sacrificio cumple la estructura solar — la madurez por la acción y el sacrificio cíclico — pero al mismo tiempo la trasciende: revela simultáneamente la falibilidad humana, la omnisciencia de Dios y la perfección del héroe:
+
+> "El sacrificio revela simultáneamente la falibilidad humana, la omnisciencia de Dios y la perfección de Cristo como héroe solar"
+→ [el Génesis en Tolkien (Parte 1) (07:48)](https://youtu.be/s6teBboDDJ4?t=468)
+
+
 ## Lagunas
 - Catálogo de figuras solares específicas en el corpus (Apolo, Helios, Mitra, Cristo solar, Ra) — el canal opera con la categoría sin sistematizarla por tradiciones
 - Distinción entre dios solar y figuras del rayo/relámpago (Zeus, Thor, Tor) — ¿son variantes del mito solar o dimensiones distintas?

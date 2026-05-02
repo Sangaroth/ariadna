@@ -94,6 +94,18 @@ El canal usa con regularidad la figura del **ánima sola** — concepto que va m
 - **Por qué importa**: lo femenino corrompido es más terrible que lo masculino corrompido. Lo femenino resiste mejor el mal porque está diseñado para ello; si se corrompe, algo peor ha ocurrido. El arquetipo del ánima sola nombra al alma que sufre estancada en un pecado o agonía sin resolución
   → [Directo casual, 40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
 
+
+
+### Lilit y la feminidad oscura activa
+
+Frente al ánima sola (alma femenina estancada en sufrimiento sin resolución), el canal invoca a [[lilit]] como nombre arquetípico de la feminidad oscura activa: madre oscura, súcubo, demonio devorador. En el análisis de Drácula (Coppola, 1992) las novias del vampiro son un sincretismo expreso de Lilit con otras figuras del polo demoníaco femenino.
+
+> "Es un sincretismo de toda la feminidad oscura: madre oscura, Lilit, súcubo y ninfa mezclados en el concepto de novia de Drácula"
+→ [Análisis arquetípico de Drácula, de Bram Stoker (2:34:06)](https://youtu.be/JmCqIk6NDsM?t=9246)
+
+La transición Wendy → ninfa que el canal usa para articular la sexualización adolescente es otra cara de esta ramificación arquetípica del polo femenino. Ver [[sindrome-de-wendy]].
+
+
 ### Aplicación al enamoramiento contemporáneo
 
 El canal aplica recurrentemente ánima/ánimus a la fenomenología del enamoramiento como **proyección arquetípica** sobre una persona concreta:
