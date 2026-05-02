@@ -125,6 +125,19 @@ Una precisión importante para no confundir esta página con la crítica de izqu
 
 La crítica del canal al consumismo opera desde un eje **moral-cultural**, no económico-estructural: la sociedad de consumo es problemática porque corroe la individuación, deshace el sentido y vacía la identidad — no porque el modo de producción sea injusto. La solución que el canal apunta es psicológica e individual (madurar, integrar la sombra), no política colectiva.
 
+### Hiperespecialización funcional como reducción del yo
+
+Un mecanismo estructural complementario que el canal articula: la sobresimplificación de la función individual en sociedades hiperespecializadas reduce la libertad psíquica como precio invisible del confort material.
+
+> "La sobresimplificación de la función individual en el capitalismo reduce la libertad psíquica: menos funciones implican un yo más pequeño."
+→ [Rabia narcisista e iconotropías mitológicas (1:12:47)](https://youtu.be/4P5hxaG7i6c?t=4367)
+
+> "La hiperespecialización de sociedades avanzadas produce menos problemas materiales pero muchos más problemas psíquicos."
+→ [Rabia narcisista e iconotropías mitológicas (1:12:47)](https://youtu.be/4P5hxaG7i6c?t=4367)
+
+El mecanismo se enlaza directamente con la pérdida de [[individuation]]: el canal cierra el argumento afirmando que "la cultura occidental ha fallado tanto a lo femenino como a lo masculino" porque ha producido yos demasiado pequeños para sostener la integración de sus polaridades. Menos funciones disponibles para el yo equivale a menos espacio interior donde puedan dialogar [[shadow-archetype]] y [[anima-archetype]] — el confort material se paga en estrechamiento del repertorio psíquico.
+
+
 ## La política contemporánea como extensión del marketing
 
 > "La frase 'lo personal es político' se ha convertido en un mecanismo para politizar todos los ámbitos de la vida personal. En un estado del bienestar hay pocos motivos reales para hacer política, así que los partidos crean problemas artificiales para captar votos. La política contemporánea funciona como marketing: genera ansiedad y necesidad."

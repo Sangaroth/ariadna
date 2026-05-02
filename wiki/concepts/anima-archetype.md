@@ -66,6 +66,33 @@ Esta lectura del canal **extiende** a Jung: no solo es un arquetipo contrasexual
 > "Lo masculino se define como la parte del yo que efectúa actos más allá de la zona de control. El cerebro mantiene permanentemente representaciones de control motor sobre los objetos, independientemente de la voluntad o planificación."
 → [En Busca de la Diosa Blanca, 00:42](https://youtu.be/llS9fqsNVvY?t=42)
 
+### Papel implícito femenino y prescindibilidad masculina: la asimetría narrativa-existencial del polar
+
+Una articulación que cierra el aparato polar añade un eje complementario al cognitivo: la asimetría narrativa-existencial entre los dos polos. Lo masculino opera por papeles explícitos (el héroe que sale al exterior y vuelve), lo femenino por papel implícito (el lugar del que se sale y al que se regresa).
+
+> "Si el papel masculino es el del héroe que sale al exterior para volver a casa, lo femenino es el lugar del que se va y al que se vuelve."
+→ [Stream Navidad 2025 (21:18)](https://youtu.be/hVfKOHEM_wU?t=1278)
+
+> "Lo femenino busca un papel explícito, pero los papeles explícitos son masculinos; lo femenino es un papel implícito."
+→ [Stream Navidad 2025 (21:18)](https://youtu.be/hVfKOHEM_wU?t=1278)
+
+> "No se puede luchar por la igualdad porque no somos iguales: la complementariedad es estructural."
+→ [Stream Navidad 2025 (21:18)](https://youtu.be/hVfKOHEM_wU?t=1278)
+
+La asimetría tiene un correlato existencial duro: el polo masculino acepta su propia destrucción como contrapartida de su función social-narrativa. La prescindibilidad masculina no es agravio cultural sino característica estructural del polo.
+
+> "El hombre puede ser puesto en situaciones ridículas y peligrosas a la vez porque el inconsciente colectivo acepta que se pueda prescindir de su integridad física."
+→ [Stream Navidad 2025 (18:16)](https://youtu.be/hVfKOHEM_wU?t=1096)
+
+> "No es que la cultura desprecie al hombre; es la mente masculina la que tiene preferencia por la autodestrucción en beneficio del grupo."
+→ [Stream Navidad 2025 (18:16)](https://youtu.be/hVfKOHEM_wU?t=1096)
+
+> "Un hombre que no sabe construir ni crear deja de tener función según la mecánica del mito del héroe solar."
+→ [Stream Navidad 2025 (18:16)](https://youtu.be/hVfKOHEM_wU?t=1096)
+
+La pieza enlaza con el aparato cognitivo expuesto: si lo masculino se define por efectuar actos más allá de la zona de control (concretar, separar el objeto), lo femenino se define por sostener el espacio donde esos actos ocurren y al que regresan. Cuando la posmodernidad absorbe lo femenino hacia papeles explícitos, vacía precisamente la función implícita que da sentido al ciclo — y la consecuencia inmediata es la crisis del polo masculino: sin lugar al que volver, el agredire del héroe pierde estructura. La crítica del canal a la igualdad simétrica no es nostalgia sino lectura del aparato polar: la complementariedad implícito/explícito es lo que el dipolo es, no un accidente cultural superable.
+
+
 ## Manifestaciones según el corpus Proxy
 
 ### En análisis de obra: Peter Pan como caso canónico
@@ -177,6 +204,19 @@ La otra cara del polar sano es su tipología de degradaciones. Las **corrupcione
 → [Presentación del Libro: Polaris, 1:26:13](https://youtu.be/rLeMS4-XFrA?t=5173)
 
 La articulación cierra el aparato: si el polo sano se manifiesta como gracia/belleza/esperanza (femenino) o como descenso individuado (masculino), su corrupción se manifiesta como tipología neurótica describible. Las figuras del íncubo, el súcubo, la ninfa y la madre oscura recogidas arriba son instancias concretas de esa tipología.
+
+### El fetiche femenino del hombre: tres arquetipos incompletos
+
+Una articulación complementaria del canal cierra la tipología por el otro lado del polar — el polo masculino tal como aparece deseado-pero-incompleto en la fantasía no integrada del polo opuesto. La clasificación es tripartita y cada figura se nombra con su don y su carencia:
+
+> "Tres arquetipos deseados: el tirano (da el mundo pero destruye), el adolescente vampírico (aventura pero ruina), el niño Peter Pan (cuidado pero estancamiento); ninguno es un hombre completo."
+→ [Se celebrarán juicios (1:08:03)](https://youtu.be/hCc-gsoLZj4?t=4083)
+
+> "Todas las mujeres quieren un hombre que sea padre protector cuando les conviene y niño sumiso cuando les conviene."
+→ [Se celebrarán juicios (1:08:03)](https://youtu.be/hCc-gsoLZj4?t=4083)
+
+La triada cierra simétricamente con las corrupciones del polo femenino articuladas arriba: si íncubo/súcubo/ninfa describen modos en que el polo femenino se corrompe, tirano/vampiro/Peter Pan describen modos en que el polo masculino aparece fragmentado en la fantasía no individuada de su contraparte. Ninguno de los tres equivale al varón completo — la integración del [[anima-archetype|ánimus]] femenino exige reconocer la parcialidad de cada figura en lugar de fijarse en una sola.
+
 
   → [Directo casual, 40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
 
