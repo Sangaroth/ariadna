@@ -1,0 +1,329 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b028",
+  "items": [
+    {
+      "canonical_guess": "transhumanismo-critica",
+      "from_video": "DytHSZw0_mo",
+      "entity": {
+        "surface_form": "transhumanismo",
+        "canonical_guess": "transhumanismo-critica",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 35,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El transhumanismo no pertenece a ningún corpus científico serio porque carece de sustrato experimental y de filosofía que lo sostenga"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El transhumanismo en sentido estricto es un plan de complementación humana artificial, una alquimia biónica"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "En sentido realista equivale a una eutanasia de la humanidad: no hay transformación de lo humano en máquina, solo disolución"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 monográfico + framing-mark: ~35 min sostenidos articulando una crítica filosófica del transhumanismo con tesis explícitas (no es ciencia, no es técnica, es un mito-cienciaficción), errores categoriales nombrados (sustancia/esencia), y diagnóstico final ('eutanasia de la humanidad'). Posición canal-específica con argumento ontológico aplicado",
+        "quote_evidence": "El transhumanismo pop es una moda intelectualista acrítica que confunde la ciencia ficción tecnológica con la técnica real"
+      }
+    },
+    {
+      "canonical_guess": "simulacion-vs-emulacion",
+      "from_video": "DytHSZw0_mo",
+      "entity": {
+        "surface_form": "simulación vs emulación",
+        "canonical_guess": "simulacion-vs-emulacion",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 12,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Simular es construir algo que externamente se parece a lo biológico; emular es reproducir la arquitectura de bajo nivel idénticamente"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La emulación es la creación artificial de algo cuyo comportamiento es idéntico a todo lo emulado, no solo a una parte"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 framing-mark: distinción técnica fundacional que el canal usa transversalmente para articular su crítica al transhumanismo y su programa Galatea. Caso paradigmático aplicado (mosca digital como emulación integral, no simulación). Pieza load-bearing del programa de ciencias cognitivas del canal",
+        "quote_evidence": "Para emular neuronas no basta con algoritmos: hay que aproximar la materia al objeto emulado"
+      }
+    },
+    {
+      "canonical_guess": "abominacion-quimera",
+      "from_video": "DytHSZw0_mo",
+      "entity": {
+        "surface_form": "abominación vs quimera",
+        "canonical_guess": "abominacion-quimera",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 8,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La abominación es el fracaso de la buena integración: un ser híbrido que no pertenece a ninguno de los mundos de los que proviene"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La quimera domina todos sus mundos, pero la abominación no puede satisfacer las necesidades de ninguna de sus naturalezas"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 framing-mark + channel-canonical: distinción mitológica canal-específica articulada como par estructural (quimera = integración exitosa de naturalezas vs abominación = integración fallida). Aplicada al transhumanismo como diagnóstico ontológico. Categoría arquetípica reutilizable en otros análisis (Frankenstein, ciborgs, híbridos en general)",
+        "quote_evidence": "Un ser de tecnología y carne tendría instintos de máquina interrumpidos por procesos biológicos e impulsos humanos saboteados por la parte máquina"
+      }
+    },
+    {
+      "canonical_guess": "cibericosis",
+      "from_video": "DytHSZw0_mo",
+      "entity": {
+        "surface_form": "cibericosis",
+        "canonical_guess": "cibericosis",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 4,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Forzar la mente a una realidad interna aumentada traerá enfermedades mentales aumentadas: cibericosis"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 channel-canonical: término acuñado por el canal para nombrar la categoría de psicopatología derivada de aumentación cognitiva forzada. Tratamiento breve pero con definición operativa y argumento clínico (irreversibilidad de brotes psicóticos × 10). Concepto canal-específico load-bearing de la crítica clínica al transhumanismo",
+        "quote_evidence": "Si hoy no se puede hacer que un cerebro desconectado de la realidad reconecte, menos se podrá lidiar con psicosis artificiales"
+      }
+    },
+    {
+      "canonical_guess": "trastorno-limite-personalidad",
+      "from_video": "EjAVFdSVtbU",
+      "entity": {
+        "surface_form": "trastorno límite de personalidad",
+        "canonical_guess": "trastorno-limite-personalidad",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 60,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El TLP se explica como falta de desarrollo de una función afectivo-cognitiva a una edad determinada"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Una idea plantada muy temprano crece como enredadera estrangulando la personalidad"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El sabotaje de vínculos es la profecía autocumplida más característica del TLP"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 monográfico: ~60 min sostenidos con articulación canal-específica del TLP que va más allá de la nosología psiquiátrica al uso. Estructura interna articulada: diátesis → núcleo 'no merezco amor' → identificación proyectiva → profecía autocumplida → crisis límite. Metáforas propias estabilizadas (enredadera y peonza, sed del vampiro, torre del tarot). Distinción ontológica explícita: 'no es enfermedad mental en sentido de desconexión con la realidad, sino particularidad que dificulta la adaptación'. Caso Noelia como vehículo paradigmático",
+        "quote_evidence": "El TLP se llama \"límite\" porque en ciertos momentos el paciente roza la ruptura con la realidad"
+      }
+    },
+    {
+      "canonical_guess": "diatesis-trastornos-personalidad",
+      "from_video": "EjAVFdSVtbU",
+      "entity": {
+        "surface_form": "diátesis del trastorno límite",
+        "canonical_guess": "diatesis-trastornos-personalidad",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 10,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Los trastornos de personalidad surgen de la combinación de particularidades psíquicas y un entorno específico"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El entorno debe coincidir en agresividad o trauma con la vulnerabilidad de la mente que lo habita"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Si los cimientos no se construyen en el momento preciso, ciertos pilares de la personalidad no se desarrollan nunca"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 framing-mark + assumed-prior: el canal remite a vídeo previo donde desarrolló el concepto ('Referencia a un vídeo previo sobre diátesis límite y la génesis de los trastornos de personalidad'). Funciona como marco transversal aplicado al TLP aquí y presumiblemente a otros trastornos en otros vídeos. Articulación canal-específica: diátesis = particularidades psíquicas × entorno específico, con ventana crítica de desarrollo. Pieza load-bearing del modelo psicológico del canal",
+        "quote_evidence": "Los trastornos de personalidad surgen de la combinación de particularidades psíquicas y un entorno específico"
+      }
+    },
+    {
+      "canonical_guess": "conciencia",
+      "from_video": "hqXmKZ77TEQ",
+      "entity": {
+        "surface_form": "conciencia",
+        "canonical_guess": "conciencia",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 60,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El directo abordará dos cuestiones que son la misma: la conciencia y las particularidades de la conciencia artificial en tanto LLM"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La conciencia es el mecanismo que produce experiencia subjetiva; la mínima unidad de pensamiento subjetivo se llama cualia"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 monográfico: el vídeo dedica ~60 min sostenidos a definir y articular la conciencia como tesis central, con definición operativa propia ('mecanismo que produce experiencia subjetiva') y discusión de epifenómenos (no es percepción somática, awareness, lucidez, metacognición ni memoria). Concepto load-bearing del marco del canal",
+        "quote_evidence": "La conciencia es un fenómeno inequívoco: sabemos que existe porque no somos zombis filosóficos (autómatas sin experiencia subjetiva)"
+      }
+    },
+    {
+      "canonical_guess": "cualia",
+      "from_video": "hqXmKZ77TEQ",
+      "entity": {
+        "surface_form": "cualia",
+        "canonical_guess": "cualia",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 15,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "la mínima unidad de pensamiento subjetivo se llama cualia"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El problema fuerte es metafísico: qué es objetivamente la experiencia subjetiva, qué es el cualia como fenómeno"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 monográfico + framing-mark: el canal define cualia como unidad mínima del pensamiento subjetivo y la usa como pieza foundational del realismo cognitivo. Concepto canónico de filosofía de la mente que el canal trabaja sustantivamente",
+        "quote_evidence": "La conciencia es el mecanismo que produce experiencia subjetiva; la mínima unidad de pensamiento subjetivo se llama cualia"
+      }
+    },
+    {
+      "canonical_guess": "inteligencia-eutaxia",
+      "from_video": "hqXmKZ77TEQ",
+      "entity": {
+        "surface_form": "inteligencia",
+        "canonical_guess": "inteligencia-eutaxia",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 25,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La inteligencia es la eutaxia (buen orden) de la función biológica: nacer, crecer, aprender, reproducirse, enseñar y morir con recursos limitados"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Requiere tres funciones cognitivas: adaptación/equilibrio, aprendizaje/anticipación, y comprensión (operar mentalmente independiente del entorno)"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 monográfico + channel-canonical: definición canal-específica ('eutaxia de la función biológica') con estructura interna articulada (3 funciones cognitivas, 3 componentes representacionales, 3 tipos de representaciones). Tesis explícita que rechaza la definición clásica ('resolver problemas') por autorreferente",
+        "quote_evidence": "La inteligencia es la eutaxia (buen orden) de la función biológica: nacer, crecer, aprender, reproducirse, enseñar y morir con recursos limitados"
+      }
+    },
+    {
+      "canonical_guess": "metarrepresentacion",
+      "from_video": "hqXmKZ77TEQ",
+      "entity": {
+        "surface_form": "metarrepresentaciones",
+        "canonical_guess": "metarrepresentacion",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 15,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La High Order Theory dice que redes jerárquicas de metarrepresentación (representaciones de representaciones) originan la subjetividad; es la preferida por Proxy"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El yo no es la conciencia sino parte de ella: es un conjunto de metarrepresentaciones (representaciones de representaciones)"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 framing-mark + assumed-prior: mecanismo foundational del realismo cognitivo. Articula HOT (preferida del canal), define el yo, y la inteligencia ('gran inteligencia termina generando un yo como consecuencia de la capacidad metarrepresentacional'). Pieza load-bearing transversal",
+        "quote_evidence": "redes jerárquicas de metarrepresentación (representaciones de representaciones) originan la subjetividad"
+      }
+    },
+    {
+      "canonical_guess": "yo-metarrepresentacional",
+      "from_video": "hqXmKZ77TEQ",
+      "entity": {
+        "surface_form": "yo",
+        "canonical_guess": "yo-metarrepresentacional",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 5,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El yo no es la conciencia sino parte de ella: es un conjunto de metarrepresentaciones (representaciones de representaciones)"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 channel-canonical: articulación canal-específica del yo distinta del yo junguiano clásico (yo consciente + yo inconsciente como referencia fenomenológica). Define ego como derivado ('valencia negativa' del yo comparando ser con deber ser). Hilo de conexión potencial con anima-archetype y individuation pero con marco propio",
+        "quote_evidence": "Existe un yo consciente y un yo inconsciente; el yo es la referencia fenomenológica de a quién le ocurren las cosas internas"
+      }
+    }
+  ]
+}
