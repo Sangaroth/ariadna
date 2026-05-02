@@ -133,6 +133,16 @@ Lectura del canal sobre la arquitectura de la obra:
   → [Otoño de cuentos. Lovecraft, 1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)
 
 
+- **"En la cripta"**: George Birch, director negligente de funeraria, queda atrapado en una cripta y, al pisar el ataúd de Asaf Sawyer cuyos tobillos había cortado por desidia para que el cadáver cupiera, algo le inmoviliza los tobillos. El doctor Davis interpreta la venganza post mortem ("ojo por ojo") tras reconocer la dentadura del muerto. Birch queda cojo de por vida y traumatizado. El propio canal lo califica como uno de los cuentos peor escritos de Lovecraft, ilustrativo de la evolución posterior del autor
+  → [Otoño de cuentos. Lovecraft, 25:49](https://youtu.be/SwEqFdvBI9M?t=1549)
+- **"El descendiente"**: Lord Northam, erudito londinense de linaje ancestral que se rastrea hasta el tribuno romano Gabinio, agota religión, ocultismo y satanismo buscando una puerta a dimensiones exteriores. El [[Necronomicón]] opera como cifra de su búsqueda y articula la genealogía de cultos paganos (la gruta de Gabinio donde gentes de una tierra hundida hacían ritos)
+  → [Otoño de cuentos. Lovecraft, 52:44](https://youtu.be/SwEqFdvBI9M?t=3164)
+- **"Aire frío"**: el Dr. Muñoz, médico español brillante refugiado en frío artificial, lleva dieciocho años técnicamente muerto sostenido por voluntad y refrigeración progresiva (de 12°C a 2°C bajo cero). Cuando se rompe la máquina, el cuerpo colapsa. El cuento articula la tesis del personaje: la voluntad y la conciencia son más fuertes que la vida orgánica
+  → [Otoño de cuentos. Lovecraft, 1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)
+- **"El modelo de Pickman"**: Richard Upton Pickman, pintor de Boston de linaje brujesco (su antepasada fue ahorcada en Salem en 1692), pinta criaturas caninas (gules) con objetividad científica desde un sótano del North End. El giro final muestra que sus cuadros se pintaban del natural: las bestias son reales y habitan los túneles bajo Boston. Pickman distingue programáticamente entre el arte fantástico superficial y el que **capta la anatomía real del terror**
+  → [Otoño de cuentos. Lovecraft, 1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)
+
+
 ## Influencia contemporánea identificada por el canal
 
 Lovecraft funciona en el corpus como **clave de lectura para obras posteriores**:
