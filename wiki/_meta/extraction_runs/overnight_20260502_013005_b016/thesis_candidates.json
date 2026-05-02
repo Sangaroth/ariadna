@@ -1,0 +1,264 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b016",
+  "items": [
+    {
+      "from_video": "PC5uw1s86eE",
+      "from_video_title": "La IA se sale de madre. Ética e IA parte 1",
+      "thesis": {
+        "candidate_id": "thesis_desidealizacion_proceso_3pasos",
+        "proposed_page_id": "duelo-desidealizacion-proceso",
+        "candidate_name": "La receta del canal para sanar la desidealización (proceso de tres pasos)",
+        "synthesis_subtype": "author_thesis",
+        "domain_primary": "social.psychology.jungian",
+        "summary_of_thesis": "El canal articula como propio un proceso normativo de tres pasos para superar la desidealización tras un enamoramiento no correspondido o una proyección arquetípica que se desmorona: (1) Desidealizar — reconocer que la persona del recuerdo era 70-90% mentira, una proyección construida por el yo enamorado rellenando lo desconocido con idealización; (2) Catarsis — darse permiso para la ira justa, contar la historia, expresar la versión propia y reconocer la injusticia objetiva, sin reprimir; (3) Desprecio → indiferencia → olvido — el desprecio agota la idealización, después llega la indiferencia y finalmente el olvido. El proceso incluye dos sub-piezas críticas: la putificación verbal (reevaluación pública de culpas) como fase natural y necesaria, y el rencor como señal de alarma — el rencor es una idealización negativa (montarse una película donde el otro disfrutó haciendo daño), un ciclo del que el yo no puede salir solo.",
+        "video_timestamp_range": "1:04:27–1:38:59",
+        "duration_sustained_minutes": 34,
+        "framework_internal_structure": [
+          "Paso 1: Desidealizar — la persona del recuerdo era 70-90% proyección rellenando lo desconocido con idealización",
+          "Paso 2: Catarsis — permiso para la ira justa, expresar la versión propia, reconocer la injusticia objetiva en ambiente de seguridad",
+          "Paso 3: Desprecio → indiferencia → olvido — el desprecio desidealiza la figura, viene el agotamiento, llega la indiferencia y finalmente el olvido",
+          "Sub-pieza diagnóstica: rencor como idealización negativa — si el dolor va a más en lugar de a menos, hay rencor patológico que requiere medidas de emergencia",
+          "Sub-pieza procesual: putificación verbal — reevaluación pública de culpas (propia y ajena) como fase natural; las mujeres lo hacen automáticamente en grupo, los hombres necesitan amistad masculina o femenina dedicada",
+          "Corolario salvífico: paradoja del no-elegido — no haber sido elegido por la ninfa es paradójicamente una salvación porque la relación habría sido neurótica y destructiva"
+        ],
+        "signal_marks_detected": [
+          "Estructura interna articulada con numeración explícita (\"Paso 1\", \"Paso 2\", \"Paso 3\")",
+          "Auto-framing como receta normativa propia (\"Receta para sanar la desidealización\" como organización del propio discurso)",
+          "Registro pedagógico-expositivo sostenido durante ~34 min sobre un marco terapéutico",
+          "Verbos dominantes normativos y sistematizadores: \"hay que contar\", \"hay que insultar\", \"el desprecio es lo que desidealiza\", \"si en lugar de ir a menos el dolor va a más, es rencor narcisista y hay que tomar medidas\"",
+          "Sub-conceptos que dependen entre sí (rencor como anti-pattern del paso 3, putificación como fase del paso 2-3, desidealización del paso 1 como condición de los siguientes)",
+          "Corolario aplicado a caso clínico arquetípico (héroe joven + ninfa) con vocabulario propio del canal (Wendy, Campanilla, sátiro, tirano)"
+        ],
+        "quote_evidence": [
+          "Ella es en un 70-90% mentira: una proyección construida por el héroe rellenando lo desconocido con idealización,",
+          "Hay que contar la historia, expresar la versión propia y reconocer que lo ocurrido fue objetivamente injusto,",
+          "Si hay que insultar, insultar; si hay que cagarse en todo, hacerlo en un ambiente de seguridad,",
+          "El desprecio es lo que desidealiza la figura: cuando llevas tiempo suficiente despreciando lo que esa persona representaba, viene el agotamiento,",
+          "Después del agotamiento llega la indiferencia y finalmente el olvido,",
+          "Si en lugar de ir a menos el dolor va a más, es rencor narcisista y hay que tomar medidas de emergencia,",
+          "El rencor es una idealización negativa: montarse una película donde alguien disfrutó haciéndote daño y sacó ventaja,",
+          "Verbalizar incluso de más mientras reevalúas la culpa propia y ajena es parte natural del proceso,",
+          "Si la ninfa se hubiera enamorado de él, habría emprendido una relación neurótica rozando la histeria que habría destrozado la vida de ambos,"
+        ],
+        "relevant_passage_citations": [
+          "youtube:PC5uw1s86eE#3867",
+          "youtube:PC5uw1s86eE#4329",
+          "youtube:PC5uw1s86eE#4419",
+          "youtube:PC5uw1s86eE#5722",
+          "youtube:PC5uw1s86eE#5815",
+          "youtube:PC5uw1s86eE#5939"
+        ],
+        "candidate_relations_proposed": [
+          {
+            "type": "process_of",
+            "to": "individuation",
+            "note": "el duelo de desidealización opera como sub-proceso del trabajo de retracción de proyecciones arquetípicas, parte del orden de individuación"
+          },
+          {
+            "type": "references",
+            "to": "anima-archetype",
+            "note": "el material clínico se articula sobre el caso del héroe joven que proyecta la ánima sobre la ninfa"
+          },
+          {
+            "type": "references",
+            "to": "shadow-archetype",
+            "note": "el rencor como idealización negativa entra en territorio de sombra no reconocida"
+          }
+        ],
+        "requires_human_validation": true,
+        "domain_out_of_scope": false,
+        "review_priority": "high",
+        "review_priority_reason": "Marco articulado con estructura clara y sostenida ~34 min, con vocabulario propio del canal y sub-piezas internas. Antes de promover a página propia conviene verificar (a) si reaparece en otros vídeos confirmando que es marco recurrente y no improvisado para este caso, (b) si el canal lo conecta explícitamente con literatura de duelo (Kübler-Ross, etc.) o lo articula como propio, (c) cómo se relaciona con la individuación junguiana (proceso de retracción de proyecciones)."
+      }
+    },
+    {
+      "from_video": "i72IYlpQWd0",
+      "from_video_title": "La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58",
+      "thesis": {
+        "candidate_id": "thesis_conciencia_maquinas_no_encarnada",
+        "proposed_page_id": "conciencia-artificial-imposibilidad-encarnada",
+        "candidate_name": "Por qué las máquinas no pueden tener conciencia humana: tesis del canal sobre IA, mente encarnada y afecto",
+        "synthesis_subtype": "author_thesis",
+        "domain_primary": "humanities.philosophy",
+        "domain_secondary": [
+          "social.psychology",
+          "interdisciplinary.cultural_studies"
+        ],
+        "summary_of_thesis": "El canal articula una posición sostenida sobre por qué la inteligencia artificial actual no puede tener conciencia en el sentido humano, organizada en torno a una tesis central: la mente humana es encarnada (enactividad) — pensamos para usar el cuerpo en el entorno — y por tanto la conciencia depende de un sustrato somático que ningún sistema computacional desencarnado puede replicar. La tesis se desarrolla a través de varias piezas dependientes entre sí: (1) sin sensación física no hay valencias afectivas, (2) un sistema nervioso artificial no se puede 'enchufar' a una máquina — el sistema nervioso tendría que SER la máquina, (3) computar es un hecho, no una acción — el usuario hace, la máquina computa, sin volición propia, (4) la inteligencia entendida como resolución de problemas exige afecto porque lo que define un problema es un afecto, no un cálculo, (5) la conciencia es un gradiente con límites inciertos (mamíferos sí, probablemente insectos y reptiles no, plantas seguro que no) — pero la línea coincide con la presencia de afecto somáticamente sentido, no con la complejidad computacional, (6) los criterios bajos de conciencia (memoria, respuesta al entorno, computación) trivializan el concepto: si computar implica conciencia, la calculadora también la tiene; si memoria es plegado repetido, el papel arrugado también. Corolario sociocognitivo: vemos conciencia en las máquinas porque emiten palabras — si no emitieran palabras no la veríamos; el efecto es perceptivo, no ontológico. El canal conecta la tesis con su propia investigación abandonada (Proyecto Galatea, simulación de hidra con valencias afectivas usando 'matriz fi') como intento operativo de modelar el mínimo afectivo.",
+        "video_timestamp_range": "1:10:43–1:58:06",
+        "duration_sustained_minutes": 48,
+        "framework_internal_structure": [
+          "Pieza 1: Mente encarnada / enactividad — pensamos para usar el cuerpo en el entorno; la mente no es un programa que pueda correr en cualquier sustrato",
+          "Pieza 2: Sin sensación física no hay valencias afectivas — las máquinas pueden emular matemáticamente afectos pero no sentirlos; sin niveles representacionales somáticos no hay distinción explícito/implícito",
+          "Pieza 3: El sistema nervioso tendría que SER la máquina, no enchufarse — el sustrato somático es constitutivo, no añadido",
+          "Pieza 4: Computar ≠ actuar — el usuario hace, la máquina computa; sin volición no hay sujeto",
+          "Pieza 5: La inteligencia como resolución de problemas exige afecto — un problema ES un afecto; la diferencia entre problema y no-problema la determina un humano",
+          "Pieza 6: Conciencia como gradiente con límites inciertos — mamíferos sí, insectos y reptiles probablemente no, plantas seguro que no; el corte coincide con presencia de afecto",
+          "Pieza 7: Memoria vs patrón — el sofá conserva la forma pero no recuerda; un CD almacena estados pero no recuerda; criterio bajo de memoria trivializa el concepto",
+          "Pieza 8: Plantas y hongos con alostasis pero sin afectos — sistemas activos que computan en cierto sentido y conservan más información que algunos animales simples, sin que eso implique conciencia",
+          "Pieza 9: Instinto vs automatismo — el instinto es categoría animal; trasladarlo a plantas o máquinas es sofisma; la mosca asustada actúa por automatismo, no por miedo",
+          "Pieza 10 (corolario perceptivo): Vemos conciencia en las máquinas porque emiten palabras — efecto comportamental sobre el observador, no propiedad ontológica del sistema"
+        ],
+        "signal_marks_detected": [
+          "Registro pedagógico-expositivo sostenido durante ~48 min sobre el problema de conciencia artificial",
+          "Verbos dominantes sistematizadores y normativos: 'habrá que admitir', 'se pueden emular pero no serán', 'hay que', 'es un sofisma', 'según la definición no la tiene'",
+          "Estructura interna articulada con piezas dependientes: cada sub-pieza presupone o refuerza las anteriores (mente encarnada → no afecto desencarnado → no volición → no problema → no inteligencia plena)",
+          "Auto-referencia genealógica al propio trabajo: el canal invoca su Proyecto Galatea (simulación de hidra con 'matriz fi') como intento operativo de articular el mínimo afectivo",
+          "Cita académica de respaldo: paper 'The fiability of artificial consciousness through the lens of neuroscience' presentado como referencia que respalda la tesis",
+          "Distinciones categoriales explícitas frente a posiciones rivales (rebatiendo pansiquismo: 'si computar implica conciencia, la calculadora también la tiene')"
+        ],
+        "quote_evidence": [
+          "Llegará un momento en que habrá que admitir una conciencia propia de la naturaleza de las máquinas, no humana,",
+          "Nuestra mente está encarnada: pensamos para usar el cuerpo en el entorno (enactividad),",
+          "Si computar implica conciencia, la calculadora también la tiene — el pansiquismo no funciona así,",
+          "Las máquinas no tienen valencias afectivas porque no sienten físicamente,",
+          "Se pueden emular matemáticamente pero no serán afectos reales — no hay diferencia explícito/implícito sin niveles representacionales,",
+          "Un sistema nervioso artificial no se puede enchufar a una máquina: el sistema nervioso tiene que SER la máquina,",
+          "Pero un problema es un afecto: la diferencia entre problema y no-problema la sigue determinando un humano,",
+          "Las máquinas no son sujetos volitivos; computar es un hecho, no una acción — el usuario hace, la máquina computa,",
+          "El sofá guarda la forma de tu cuerpo pero no percibe; un CD conserva estados pero no recuerda,",
+          "El instinto solo tiene sentido categorial: se define por observarlo en animales y aplica a animales,",
+          "La mosca no ha aprendido a volar cuando se asusta ni tiene miedo: los insectos carecen de afectos,",
+          "Vemos conciencia en una máquina porque emite palabras; si no las emitiera no veríamos conciencia,",
+          "La máquina se comporta como si tuviese conciencia según nuestros sentidos, pero según la definición no la tiene,"
+        ],
+        "relevant_passage_citations": [
+          "youtube:i72IYlpQWd0#4243",
+          "youtube:i72IYlpQWd0#4334",
+          "youtube:i72IYlpQWd0#4487",
+          "youtube:i72IYlpQWd0#5326",
+          "youtube:i72IYlpQWd0#5572",
+          "youtube:i72IYlpQWd0#5968",
+          "youtube:i72IYlpQWd0#6218",
+          "youtube:i72IYlpQWd0#6771",
+          "youtube:i72IYlpQWd0#7086"
+        ],
+        "candidate_relations_proposed": [
+          {
+            "type": "developed_by",
+            "to": "proxy-canal",
+            "note": "tesis articulada como posición propia del canal sobre IA y filosofía de la mente"
+          },
+          {
+            "type": "criticizes",
+            "to": "pansiquismo",
+            "note": "rebate explícitamente la equivalencia computación=conciencia"
+          },
+          {
+            "type": "references",
+            "to": "realismo-cognitivo",
+            "note": "se apoya en el marco epistémico del canal según el cual la psique tiene correlato material — la conciencia depende del grafo neuronal real, no de su réplica formal"
+          },
+          {
+            "type": "see_also",
+            "to": "autoforia",
+            "note": "la tesis distingue lo que es metafórico (autoforía psicoanalítica, sin correlato material) de lo que tiene correlato material (realismo cognitivo) — la conciencia humana es del segundo tipo y por eso no se replica formalmente"
+          }
+        ],
+        "requires_human_validation": true,
+        "domain_out_of_scope": false,
+        "review_priority": "high",
+        "review_priority_reason": "Tesis articulada y sostenida con muchas piezas dependientes y vocabulario técnico (enactividad, valencias afectivas, alostasis, autoforía implícita) que cruza filosofía de la mente, neurociencia y crítica de IA. Antes de promover a página propia conviene: (a) verificar si reaparece como marco aplicado en otros vídeos sobre IA, (b) decidir si es 'concept' (sobre la conciencia como problema) o 'synthesis_subtype: author_thesis' (la posición del canal), (c) cómo se relaciona con realismo-cognitivo y autoforía si esos terminan siendo páginas propias. La cita del paper de neurociencia (\"The fiability of artificial consciousness through the lens of neuroscience\") debe verificarse antes de incluirla."
+      }
+    },
+    {
+      "from_video": "i72IYlpQWd0",
+      "from_video_title": "La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58",
+      "thesis": {
+        "candidate_id": "thesis_colapso_cognitivo_sin_esfuerzo",
+        "proposed_page_id": "colapso-cognitivo-esfuerzo",
+        "candidate_name": "Sin esfuerzo cognitivo no hay entrenamiento cognitivo: tesis del canal sobre el colapso del modelo cultural humano-IA",
+        "synthesis_subtype": "author_thesis",
+        "domain_primary": "interdisciplinary.cultural_studies",
+        "domain_secondary": [
+          "social.psychology",
+          "social.sociology"
+        ],
+        "summary_of_thesis": "El canal articula explícitamente como tesis propia (la formula como 'tesis del trabajo de fin de máster') la siguiente: el desarrollo cognitivo humano depende del esfuerzo cognitivo, y la actual cultura del consumo fácil — amplificada por la IA generativa — está produciendo un colapso simétrico de los modelos humano e inteligencia artificial. La tesis se desarrolla así: (1) leer es una capacidad que se aprende, no innata: el cerebro humano no está hecho para leer, leer con diccionario cada tres líneas no es leer sino estudiar — solo el dominio (maestría) sostiene la motivación de seguir; (2) el placer del esfuerzo cognitivo viene de ver cómo se entiende lo difícil — sin obras difíciles no hay material que entrenar; (3) el colapso del contenido en internet (90% son copias de copias) ya degradó la oferta antes de la IA; la IA acelera la redundancia; (4) el estudio de Max Planck sobre 280.000 transcripciones académicas confirma adopción espontánea del léxico de ChatGPT en el habla humana — registro de la IA se pega a los humanos como un acento; (5) si la producción humana se parece a la de la IA, la IA se entrenará con ella misma y colapsará; lo mismo con los humanos: si nadie crea contenido original, cuanto menos se consuma menos se creará; (6) la generación de cristal aparece como síntoma encarnado del colapso — soportan dolor sin haber intentado nada, ciclo regresivo frustración → refugio → desentrenamiento vital; (7) jaula de oro: sin dificultades reales no hay viaje del héroe ni posibilidad de realización; el idealismo alemán ('podéis ser cualquier cosa', según Jesús G. Maestro) prometió todo y entregó nada; (8) triple herida final: jaula de oro + engaño boomer + culpabilización ('vagos y cómodos') sobre la generación que ocupa el último lugar de la cultura.",
+        "video_timestamp_range": "33:19–1:03:40 (con prólogo a 18:36 y reaparición transversal)",
+        "duration_sustained_minutes": 32,
+        "framework_internal_structure": [
+          "Pieza 0 (caso clínico inaugural): la joven que no puede leer Cumbres Borrascosas por falta de vocabulario — síntoma social, no fracaso individual",
+          "Pieza 1: Leer exige esfuerzo y no es innato — a leer se aprende, sin enseñanza resulta arcano; el dominio (maestría) es lo que motiva",
+          "Pieza 2: El colapso del contenido original en internet — el 90% son copias de copias antes incluso de la IA",
+          "Pieza 3: Estudio Max Planck — 280.000 transcripciones académicas con aumento de léxico ChatGPT en habla humana, 'delve' subió 48%",
+          "Pieza 4: Colapso simétrico humano-IA — si la producción humana se parece a la de la IA, la IA se entrena con ella misma y colapsa; los humanos hacen lo mismo en sentido inverso",
+          "Pieza 5 (tesis explícita): Sin esfuerzo cognitivo no habrá entrenamiento cognitivo (formulada como 'tesis del trabajo de fin de máster')",
+          "Pieza 6: Necesidad de supervisión humana en entrenamiento de IA — sin corrección continua, la IA repite lo mismo y se desentrena",
+          "Pieza 7: La generación de cristal como síntoma encarnado — soportan dolor sin haber intentado nada, ciclo regresivo de refugio en lo fácil",
+          "Pieza 8: Jaula de oro — sin dificultades reales no hay camino del héroe que recorrer ni posibilidad de realización",
+          "Pieza 9: Engaño boomer — idealismo alemán según Jesús G. Maestro: 'podéis ser cualquier cosa' como promesa imposible",
+          "Pieza 10: Triple herida — jaula de oro + engaño boomer + culpabilización ('vagos y cómodos')"
+        ],
+        "signal_marks_detected": [
+          "Marcador explícito de autoría de tesis: 'Tesis del trabajo de fin de máster: sin esfuerzo cognitivo no habrá entrenamiento cognitivo' — auto-framing explícito como tesis académica propia",
+          "Registro pedagógico-expositivo sostenido (~32 min interleaved) sobre el colapso cognitivo como modelo cultural",
+          "Estructura interna con piezas dependientes que se refuerzan: caso clínico → diagnóstico de la lectura → diagnóstico del consumo → tesis → corolarios sobre IA y generación de cristal",
+          "Verbos dominantes sistematizadores: 'es el colapso del modelo humano', 'no se puede evitar', 'hacen falta mínimos de calidad', 'son el último mono de la cultura'",
+          "Auto-referencia genealógica externa con peso (Jesús G. Maestro y el 'idealismo alemán' como diagnóstico cultural compatible)",
+          "Conexión con caso empírico citado de respaldo (estudio Max Planck con métricas — aumento del 48% en uso de 'delve', 58% sin signos de provenir de guion)"
+        ],
+        "quote_evidence": [
+          "A leer se aprende; nadie puede aprender por sí mismo — sin enseñanza resulta arcano,",
+          "Leer con diccionario cada tres líneas no es leer sino estudiar — como hacer matemáticas anotando fórmulas,",
+          "El dominio (maestría) es lo que motiva: ver cómo vas entendiendo cosas difíciles es placentero,",
+          "Desde que hay internet el 90% de las producciones son copias de una copia de una copia,",
+          "Análisis de 280.000 transcripciones académicas revela aumento de palabras favoritas de ChatGPT en el lenguaje hablado,",
+          "El uso de \"delve\" subió un 48%; el 58% de los usos no mostraron signos de provenir de un guion,",
+          "Si la producción humana se parece a la de la IA, la IA se entrenará con ella misma y colapsará,",
+          "Tesis del trabajo de fin de máster: sin esfuerzo cognitivo no habrá entrenamiento cognitivo,",
+          "Si no se crean cosas difíciles, nadie escribirá Cumbres Borrascosas para que alguien se esfuerce en leerlo y aprenda,",
+          "El ser humano quiere consumir fundamentalmente — ese es el colapso del modelo humano,",
+          "Soportan muchísimo dolor y frustración sin haber intentado nada: se sienten fracasados sin haber fracasado,",
+          "Ciclo regresivo: frustración → refugio en lo fácil → desentrenamiento vital → más frustración → más refugio,",
+          "Jaula de oro: sin dificultades reales no hay camino del héroe que recorrer ni posibilidad de realización,",
+          "La generación boomer prometió que podían ser cualquier cosa — idealismo alemán según Jesús G. Maestro,",
+          "Cuando fracasaron les echaron la culpa de ser vagos y cómodos: triple herida de jaula + engaño + culpabilización,"
+        ],
+        "relevant_passage_citations": [
+          "youtube:i72IYlpQWd0#1116",
+          "youtube:i72IYlpQWd0#1999",
+          "youtube:i72IYlpQWd0#3123",
+          "youtube:i72IYlpQWd0#3336",
+          "youtube:i72IYlpQWd0#3457",
+          "youtube:i72IYlpQWd0#3517",
+          "youtube:i72IYlpQWd0#3578",
+          "youtube:i72IYlpQWd0#3699",
+          "youtube:i72IYlpQWd0#3820"
+        ],
+        "candidate_relations_proposed": [
+          {
+            "type": "developed_by",
+            "to": "proxy-canal",
+            "note": "tesis articulada explícitamente como propia ('tesis del trabajo de fin de máster')"
+          },
+          {
+            "type": "extends",
+            "to": "consumismo-critica",
+            "note": "extiende la crítica al consumismo del canal al plano cognitivo: el consumo fácil no es solo problema económico-moral sino entrenamiento cognitivo perdido"
+          },
+          {
+            "type": "references",
+            "to": "viaje-heroe",
+            "note": "la jaula de oro se define justamente por la imposibilidad de recorrer un camino del héroe — sin dificultades reales no hay viaje arquetípico"
+          },
+          {
+            "type": "compared_with",
+            "to": "individuation",
+            "note": "la generación de cristal queda atrapada en ciclo regresivo opuesto al de individuación — refugio en lo fácil en lugar de integración del esfuerzo"
+          },
+          {
+            "type": "cites",
+            "to": "jesus-g-maestro",
+            "note": "el 'idealismo alemán' como diagnóstico cultural de la promesa boomer ('podéis ser cualquier cosa')"
+          }
+        ],
+        "requires_human_validation": true,
+        "domain_out_of_scope": false,
+        "review_priority": "high",
+        "review_priority_reason": "Tesis con marcador de autoría explícito y único en el corpus visto hasta ahora ('tesis del trabajo de fin de máster'). Esto la convierte en candidata fuerte a página propia tipo synthesis_subtype: author_thesis. Antes de promover el editor humano debería: (a) verificar si en el TFM real del presentador esta tesis está formulada como aquí, (b) decidir si conviene página separada o sub-sección extensa de consumismo-critica.md (que ya existe), (c) verificar la cita de Jesús G. Maestro sobre idealismo alemán antes de incluirla; (d) verificar el estudio de Max Planck con cifras (48% delve, 280.000 transcripciones)."
+      }
+    }
+  ]
+}
