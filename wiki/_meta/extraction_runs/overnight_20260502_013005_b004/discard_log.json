@@ -1,0 +1,1835 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b004",
+  "generated_at": "2026-05-02T02:33:00+00:00",
+  "entities": {
+    "tradwife-movimiento": {
+      "canonical_name": "Tradwife (movimiento)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Definición lexicográfica breve (~1 min en bloque 03:32) usada para contextualizar el caso coyuntural de Rorro, no como objeto de análisis cultural autónomo. Sin tratamiento sustantivo del fenómeno (genealogía, motores psicológicos, lectura arquetípica). No alcanza criterios §2.1. Flag: si el canal lo retoma con análisis arquetípico (relación con anima-archetype, mito polar femenino, etc.) en otros vídeos, candidato a página propia.",
+          "quote_evidence": "Tradwife es un movimiento de glorificación de la mujer tradicional tipo años 1930"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "fundeo-cancelacion": {
+      "canonical_name": "Fundeo / fundy (mecanismo de cancelación)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Terminología nombrada brevemente en bloque 06:34 sin desarrollo conceptual. Reseña del mecanismo de cancelación por etiquetado político, sin teorización propia ni recurrencia confirmada. No alcanza criterios §2.1.",
+          "quote_evidence": "El procedimiento se llama \"fundy\": asociar a alguien con etiquetas políticas para cancelarla"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "feministas-de-desarrollo-proxy": {
+      "canonical_name": "Feministas de desarrollo (diagnóstico psicológico de Proxy)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Categoría psicológica canal-específica articulada brevemente en bloque 05:33 (~1 min): mujeres que atacarían un modelo femenino tradicional desde la envidia por una feminidad propia destruida. Convergencia conceptual potencial con anima-archetype (dinámica de la 'ánima sola' / feminidad disfuncional ya listada como hilo a explorar en notas de la página existente) y con la lectura junguiana de proyección de la sombra. Demasiado breve y embebido en disputa coyuntural sobre Vox/Revuelta para promover ahora. Si recurre como marco aplicado en otros vídeos sin anclaje coyuntural, candidato a sección en anima-archetype o página autónoma.",
+          "quote_evidence": "Son \"feministas de desarrollo\": la envidia les lleva a atacar lo que no pueden ser"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Vox": {
+      "canonical_name": "Vox",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Al subir al tráiler descubrieron que Revuelta es una asociación financiada por Vox",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Revuelta (asociación)": {
+      "canonical_name": "Revuelta (asociación)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Rorro lleva tiempo ayudando en Arganda, base logística de Revuelta, en la ayuda a Valencia",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Rorro (Roro)": {
+      "canonical_name": "Rorro (Roro)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Rorro defiende que aceptó la ayuda porque nadie más se la ofreció y lo que importa es ayudar",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pablo (pareja de Rorro)": {
+      "canonical_name": "Pablo (pareja de Rorro)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Rorro y Pablo (su pareja) fueron a Revuelta a ayudar y aparecieron en tweets de la organización",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Valencia (DANA / catástrofe)": {
+      "canonical_name": "Valencia (DANA / catástrofe)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Ella y su grupo de amigos crearon \"Chefs Solidarios en el Campo de Levante\" para cocinar para los afectados",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Izquierda progresista (crítica genérica)": {
+      "canonical_name": "Izquierda progresista (crítica genérica)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Ningún influencer progresista se ha desplazado a ayudar a Valencia",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Diagnóstico psicológico de la envidia (mecanismo de ataque)": {
+      "canonical_name": "Diagnóstico psicológico de la envidia (mecanismo de ataque)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "0KMjKWxS_xQ",
+          "video_title": "Roro y Valencia contra el mundo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Proxy explica que quienes la atacan intentaron en su momento ser agradables y lindas y fueron humilladas por ello",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ultraderecha-definicion": {
+      "canonical_name": "Ultraderecha",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": "block_dedicated",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "El vídeo entero (8 min) gira sobre la definición de la categoría 'ultraderecha' en el discurso político español contemporáneo. Aunque el tratamiento es meta-conceptual (qué significa materialmente el término) más que adhesión partidaria, el marco es coyuntural: scope.md §3 lista 'Política española coyuntural' como out-of-scope. La discusión carece de tratamiento arquetípico/cultural autónomo separable del contexto político actual. Si el canal eleva esto a marco aplicado en otros vídeos sin anclaje coyuntural, reconsiderar.",
+          "quote_evidence": "Proxy pregunta qué significa materialmente \"ultraderecha\" fuera del estereotipo y pide un prototipo ideológico o discursivo concreto"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "moral-conservadora-sacralizacion": {
+      "canonical_name": "Moral conservadora (como sacralización de principios)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Definición conceptual crisp del canal (sacralización = principios no negociables) potencialmente interesante como página. Pero ~1 min en este vídeo y embebida en discusión coyuntural sobre ultraderecha. No alcanza criterios §2.1 sin recurrencia confirmada en otros vídeos. Flag para revisión: si reaparece como marco aplicado en >2 vídeos sin anclaje coyuntural, candidato a promoción.",
+          "quote_evidence": "Moral conservadora es aquella que cree en principios que han de ser sacralizados: no se pueden relativizar, flexibilizar, negociar ni franquear"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pensamiento-poetico": {
+      "canonical_name": "Pensamiento poético (como sustrato de la religiosidad)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Reframing canal-específico: la religiosidad estructural no sería religiosa sino poética/mitológica. Conceptualmente próximo a la tesis de mito-moderno-en-proxy (los valores trascendentales que articulan jerarquías son mitos, no religión). Brevísimo (~1 min) y derivado de discusión sobre ultraderecha, sin tratamiento autónomo. Flag para revisión humana: si el canal articula 'pensamiento poético' como categoría operativa en otros vídeos, candidato fuerte a concept o a enriquecer mito-moderno-en-proxy.",
+          "quote_evidence": "Lo que la gente llama religiosidad no es común a las religiones sino al pensamiento poético"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Péndulo generacional hacia la derecha": {
+      "canonical_name": "Péndulo generacional hacia la derecha",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Hay un giro pendular hacia la derecha que lleva fraguándose 10 años, con socialistas hartos del feminismo y del socialismo que no se atrevían a decirlo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Unión Europea": {
+      "canonical_name": "Unión Europea",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Las nuevas generaciones saldrán nacionalistas de la Unión Europea cuando aprendan lo que ha sido y lo que ha hecho",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Franquismo": {
+      "canonical_name": "Franquismo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Ser franquista hoy carece de sentido porque el franquismo requiere su contexto histórico; sin ese contexto eres otra cosa",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Líder único (figura política)": {
+      "canonical_name": "Líder único (figura política)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El franquismo, la monarquía y los sistemas presidencialistas comparten la figura de un líder único que unifica la nación",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Estatismo / nacionalismo / religiosidad (tríada estereotípica)": {
+      "canonical_name": "Estatismo / nacionalismo / religiosidad (tríada estereotípica)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Lac68XOLtL0",
+          "video_title": "Proxy y la definición de ultraderecha",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La representación mitológica más completa incluye estatismo, nacionalismo y religiosidad",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "capitalismo-categoria-mitologica": {
+      "canonical_name": "Capitalismo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "VZDrqiFs58k",
+          "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Material ya integrado en consumismo-critica.md (líneas 92-93) con cita literal a este mismo vídeo en timestamp 05:02. Mención breve (~1 min) en bloque coyuntural político. No procede update_existing porque la página ya recoge la cita; tampoco promote_new (depth=passing_mention en este vídeo, no alcanza criterios §2.1).",
+          "quote_evidence": "\"Capitalismo\" es una categoría casi mitológica: existen acciones mediando capital, no un ente monolítico"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "democracia-formal-material": {
+      "canonical_name": "Democracia formal vs. democracia material",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "VZDrqiFs58k",
+          "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Distinción filosófico-política con terminología de materialismo filosófico (uso de 'eutáxico', léxico Bueno) potencialmente interesante, pero aquí solo ~1 min embebido en argumento coyuntural sobre PSOE/Valencia. No alcanza ningún criterio §2.1: sin recurrencia confirmada en otros vídeos, sin tratamiento monográfico, sin assumed_prior reforzado. Flag para revisión humana — si reaparece en futuros summaries puede subir a candidato concept.",
+          "quote_evidence": "La democracia material real se sostiene por la fuerza y la fe en todas sus formas"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "PSOE": {
+      "canonical_name": "PSOE",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VZDrqiFs58k",
+          "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Al PSOE le sale a cuenta porque controla el poder y nadie preguntará a los ciudadanos sobre el nuevo estado",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pedro Sánchez": {
+      "canonical_name": "Pedro Sánchez",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VZDrqiFs58k",
+          "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Pedro Sánchez anuncia 400 millones de euros para ayudar a países pobres mientras Valencia sigue desatendida",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Wikipedia": {
+      "canonical_name": "Wikipedia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VZDrqiFs58k",
+          "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Comparación con la edición irresponsable en Wikipedia: no corregir sin saber del tema",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "feminismo posmoderno": {
+      "canonical_name": "feminismo posmoderno",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VZDrqiFs58k",
+          "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "se hace desde dentro, igual que se ha erosionado el feminismo posmoderno",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Efosi": {
+      "canonical_name": "Efosi",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "VZDrqiFs58k",
+          "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Las primeras oleadas de reacción ya llegan a medios como el de Efosi",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "simbolo-proceso-noetico-proxy": {
+      "canonical_name": "Símbolo (definición de Proxy)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": "block_dedicated",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Definición original del canal con tratamiento dedicado (~12 min agregando bloques 38:51, 42:04, 44:20, 48:25). Pero es la pieza central de un marco teórico mayor (teoría de la noesis y la representación) que el canal articula sistemáticamente en este vídeo (Parte 2 de una serie). NO procede como concept page autónomo: pertenece estructuralmente a la página author_thesis 'teoria-noesis-simbolo-proxy' que se propone como thesis_candidate. Si en futuras iteraciones de la wiki esa página se compila, la definición de símbolo será una sub-sección suya. Sólo procede concept page autónomo si el canal lo trata aislado del resto del andamiaje en otros vídeos.",
+          "quote_evidence": "Un símbolo es un proceso noético por el que una representación explícita con cierto nivel de complejidad evoca o refiere otra representación más compleja, más abstracta o más implícita"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "noesis-matriz-n-proxy": {
+      "canonical_name": "Noesis / matriz N",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": "block_dedicated",
+          "minutes": 8,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Concepto central del marco teórico cognitivo del canal: matriz N como estado mental en t en continua resíntesis. Sub-contenido natural de la futura página author_thesis 'teoria-noesis-simbolo-proxy'. No procede página autónoma — sin la matriz tridimensional de representaciones × componentes, la matriz N pierde sentido.",
+          "quote_evidence": "La memoria se evoca y concreta en una matriz compleja: la Noesis (N), el estado mental en un momento t"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "realismo-cognitivo-proxy": {
+      "canonical_name": "Realismo cognitivo (posición epistemológica de Proxy)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Posición epistemológica con la que el canal cierra el bucle filosofía-mente. Convergencia clara con materialismo-filosofico (sustrato físico-material como base ontológica) — ambos rechazan dualismo y reduccionismo computacionalista. Sub-contenido de 'teoria-noesis-simbolo-proxy'. Si se materializa la página author_thesis, este término merece sección 'posición epistemológica de fondo'. Brevísimo aquí (~2 min) — no procede página autónoma.",
+          "quote_evidence": "La cognición es una parte de la realidad con procesos derivados de un sustrato físico material entrópico"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ambiguacion-semantizacion-proxy": {
+      "canonical_name": "Ambiguación / semantización",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": "block_dedicated",
+          "minutes": 6,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Operación cognitiva original del canal sobre las ideas (manejar lo complejo mediante lo simple). Equivalente a la definición de símbolo desde otro ángulo. Pertenece estructuralmente a 'teoria-noesis-simbolo-proxy' como sección 'operaciones sobre ideas'. No procede página autónoma.",
+          "quote_evidence": "Operar con ideas se llama ambiguación: una de las formas más simples de modificación de ideas"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "12 bits por segundo (Meister / Zheng)": {
+      "canonical_name": "12 bits por segundo (Meister / Zheng)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La metarrepresentación opera a apenas 12 bits por segundo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "UAL (Unlimited Associative Learning)": {
+      "canonical_name": "UAL (Unlimited Associative Learning)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las relaciones entre submatrices y componentes del estado mental se describen como UAL (Unlimited Associative Learning)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Soft problem of consciousness": {
+      "canonical_name": "Soft problem of consciousness",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El soft problem de la conciencia pregunta qué queremos decir cuando decimos consciencia: la parte más explícita de la mente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pienso luego existo (cogito) — reinterpretación": {
+      "canonical_name": "Pienso luego existo (cogito) — reinterpretación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El proceso es: pienso, me doy cuenta de que pienso, me doy cuenta de que existo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Despersonalización (como exceso de metapensamiento)": {
+      "canonical_name": "Despersonalización (como exceso de metapensamiento)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Si se practica en exceso, se produce despersonalización: desligar el yo de la idea del yo",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Trauma (definición operativa del canal)": {
+      "canonical_name": "Trauma (definición operativa del canal)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El trauma no es \"actuar como si pasara ahora\", sino evocar continuamente una emoción",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Crítica a IA generativa como no-inteligencia": {
+      "canonical_name": "Crítica a IA generativa como no-inteligencia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Una IA generativa es un proceso estocástico donde píxeles se encienden por probabilidad según un prompt",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Reflejo de orientación / sensación de novedad": {
+      "canonical_name": "Reflejo de orientación / sensación de novedad",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El cerebro distingue afectivamente lo nuevo de lo no nuevo mediante el reflejo de orientación",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Sofisma estético": {
+      "canonical_name": "Sofisma estético",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "ez2e9NTvljg",
+          "video_title": "¿Qué es un símbolo? (Parte 2)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Todo sofisma en cuanto sesgo es siempre estético",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "bueno-gustavo": {
+      "canonical_name": "Gustavo Bueno",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "video_dedicated",
+          "minutes": 90,
+          "framing_marks_count": 4,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de 126 min dedicado íntegramente a exponer su sistema filosófico (criterio §2.2 'substantive treatment ≥10 min' ampliamente superado). El canal lo invoca como marco aplicado en otros vídeos (lectura política y crítica al consumismo ya tienen huella de Bueno: bloque 1:50:26 ya integrado en consumismo-critica.md). Figura load-bearing del canal hasta ahora invisible en la wiki — caso 'foundational singleton' que motivó §4 de scope.md.",
+          "quote_evidence": "Se dedica a divulgar el materialismo filosófico en coordenadas de Gustavo Bueno"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 90,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "materialismo-filosofico": {
+      "canonical_name": "Materialismo filosófico",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "video_dedicated",
+          "minutes": 100,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Sistema filosófico expuesto monográficamente durante todo el vídeo. Marco recurrente en el canal: la cita del bloque 1:50:26 ya está integrada en consumismo-critica.md y la terminología 'eutáxico' aparece en scope.md §5. Cumple criterio §2.1 'monográfico' (vídeo de 126 min dedica el grueso del tiempo) y 'framing-mark' (marco analítico aplicado). Sub-conceptos importantes que la página debe incorporar: symploké (block 24:12), materia ontológico-general (21:41, 1:26:42), saber trascendental de segundo grado (15:38), géneros de materialidad (21:41), democracia funcionalista vs fundamentalista (1:32:43-1:36:49), distinción concepto categorial / idea filosófica (18:40), panlogismo (1:26:42).",
+          "quote_evidence": "El materialismo filosófico exige una reelaboración terminológica que dificulta enormemente su acceso"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 100,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "red-pill-fenomeno": {
+      "canonical_name": "Red Pill",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "block_dedicated",
+          "minutes": 6,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Análisis culturalmente interesante (~6 min combinados entre bloques 11:07 y 38:18) con tesis crisp del invitado: Red Pill como espejo invertido del feminismo y como canalización afectiva análoga al crecepelo. Pero la exposición es de Daniel Alarcón, no del speaker Proxy, y solo aparece en este vídeo. No alcanza criterios §2.1 (sin recurrencia confirmada). Marco analítico potencialmente convergente con anima-archetype (mercantilización afectiva) y consumismo-critica (canalización de frustración). Flag para revisión humana: si Proxy retoma este análisis en vídeos propios, candidato fuerte.",
+          "quote_evidence": "La Red Pill es la versión especular del feminismo: postula una sociedad ginocéntrica donde el varón está oprimido"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "symploke-platon": {
+      "canonical_name": "Symploké de Platón",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Principio platónico fundacional del materialismo filosófico (gnoseología buenoiana) y aplicado críticamente al cliché 'todo está conectado' de la posmodernidad. Sub-contenido natural de la futura página materialismo-filosofico (debe quedar recogido allí en sección dedicada al símploké y a la crítica del aforismo orientalizante). No procede página propia: tratamiento ~2 min agregados, sin recurrencia en otros vídeos confirmada.",
+          "quote_evidence": "Si todo estuviera conectado con todo, no podríamos conocer nada porque no podríamos desligar relaciones"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "democracia-funcionalista-fundamentalista": {
+      "canonical_name": "Democracia funcionalista vs. democracia fundamentalista",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "block_dedicated",
+          "minutes": 7,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Distinción articulada (~7 min entre bloques 1:32:43, 1:36:49 y 1:39:50) que pertenece al sistema buenoiano de filosofía política. Sub-contenido natural de la página materialismo-filosofico (sección dedicada a filosofía política / crítica fundamentalista democrática a Trevijano). No procede página propia: aparece solo en este vídeo, sin tratamiento autónomo más allá de la exposición del sistema. Importante notar la convergencia con la observación canónica del canal en consumismo-critica.md: 'la política contemporánea funciona como marketing'.",
+          "quote_evidence": "La teoría funcionalista parte de sociedades que ya se dicen democráticas y busca qué tienen en común (procedimiento electoral)"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 7,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "posmodernidad-critica-canal": {
+      "canonical_name": "Crítica a la posmodernidad",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Crítica con tres tesis bien marcadas (Lyotard como autocontradicción, Preciado como ideología funcional al gran capital, posmodernidad como estética sin pensamiento) que converge con material existente en consumismo-critica.md sobre homogeneización cultural y marketing político. Sub-contenido natural de la futura página materialismo-filosofico (sección 'crítica filosófica a la posmodernidad') o, alternativamente, candidato a sección en consumismo-critica.md. ~4 min agregados solo en este vídeo. Flag para revisión: si recurre con tratamiento autónomo en otros vídeos, candidato a página propia.",
+          "quote_evidence": "La distinción de Lyotard entre grandes y pequeños relatos es errónea: el propio posmodernismo es un gran relato"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Daniel Alarcón": {
+      "canonical_name": "Daniel Alarcón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Daniel Alarcón es musicólogo de formación, toca violín, canta ópera y flauta de pico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Aristóteles": {
+      "canonical_name": "Aristóteles",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La metafísica de Aristóteles se entiende mejor desde Santo Tomás que leída directamente",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Platón": {
+      "canonical_name": "Platón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El principio de symploké de Platón: ni todo está conectado con todo ni nada con nada",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hegel": {
+      "canonical_name": "Hegel",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Hegel es panlogista pero sin apelar a algo trascendente: el espíritu se desarrolla en la historia",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Engels": {
+      "canonical_name": "Engels",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "asimila los saberes en su estado actual de desarrollo, a diferencia de Engels que filosofaba con la ciencia del siglo XIX",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Marxismo / clases sociales": {
+      "canonical_name": "Marxismo / clases sociales",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es ineludible tener una teoría de las clases sociales porque sigue habiendo empresarios y asalariados",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lyotard": {
+      "canonical_name": "Lyotard",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La distinción de Lyotard entre grandes y pequeños relatos es errónea: el propio posmodernismo es un gran relato",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Paul B. Preciado": {
+      "canonical_name": "Paul B. Preciado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La posmodernidad de Preciado (petrolesexoracial) es contradictoria: quienes promueven el antirracismo y anticapitalismo son los grandes capitales como Soros o Gates",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Otto Weininger": {
+      "canonical_name": "Otto Weininger",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Otto Weininger propone una teoría de sustancias masculina y femenina fluidas en cada individuo, precursora del género fluido",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cayetano (Tomás de Vio)": {
+      "canonical_name": "Cayetano (Tomás de Vio)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cayetano defiende a Eva argumentando que fue seducida por el demonio (el ser más inteligente), mientras Adán fue seducido por alguien no superior a él",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Juan Ramón Rallo": {
+      "canonical_name": "Juan Ramón Rallo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El materialismo filosófico no es solidario con el liberalismo pero en el debate mundano Rallo no es el peor aliado",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "García Trevijano": {
+      "canonical_name": "García Trevijano",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "García Trevijano usa una teoría fundamentalista basada en una idea pura de Montesquieu que no tiene referente empírico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Santo Tomás de Aquino": {
+      "canonical_name": "Santo Tomás de Aquino",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La metafísica de Aristóteles se entiende mejor desde Santo Tomás que leída directamente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Santiago Armesilla": {
+      "canonical_name": "Santiago Armesilla",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "\"Filomat\" fue popularizado por Santiago Armesilla por analogía con \"ismat\" (materialismo histórico) y \"diamat\" (materialismo dialéctico)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Javier Pérez Jara": {
+      "canonical_name": "Javier Pérez Jara",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Javier Pérez Jara tiene un libro sobre Russell con capítulos sobre mente y materia que es el mejor punto de partida",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Íñigo Ongay": {
+      "canonical_name": "Íñigo Ongay",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Íñigo Ongay tiene reseñas sobre Bunge y filosofía de la mente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Carlos Madrid": {
+      "canonical_name": "Carlos Madrid",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Carlos Madrid es quien más ha trabajado cerca del tema desde el materialismo filosófico, con artículos sobre física cuántica y matemáticas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Bertrand Russell": {
+      "canonical_name": "Bertrand Russell",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Javier Pérez Jara tiene un libro sobre Russell con capítulos sobre mente y materia que es el mejor punto de partida",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mario Bunge": {
+      "canonical_name": "Mario Bunge",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Íñigo Ongay tiene reseñas sobre Bunge y filosofía de la mente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hipergamia femenina": {
+      "canonical_name": "Hipergamia femenina",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La hipergamia femenina solo parece privilegio si se asume erróneamente que las mujeres buscan sexo como los hombres",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hikikomori / individuo flotante": {
+      "canonical_name": "Hikikomori / individuo flotante",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "En sociedades muy complejas institucionalmente, la abundancia de opciones genera un estado de despersonalización sin proyecto vital claro",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anarcocapitalismo": {
+      "canonical_name": "Anarcocapitalismo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Sociedades no estatales han existido históricamente, pero el modelo anarcocapitalista actual (policía, derecho y juzgados privatizados) tiene puntos contradictorios",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ciudad de los 15 minutos": {
+      "canonical_name": "Ciudad de los 15 minutos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El argumento conspiranoico de que \"nos quieren aborregados\" carece de fundamento: no hay esa Mano Negra",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Inmigración árabe / prospectiva política": {
+      "canonical_name": "Inmigración árabe / prospectiva política",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Si la inmigración árabe sigue aumentando con mayor natalidad que la cultura occidental, se generarán contradicciones inevitables",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Inteligencia artificial": {
+      "canonical_name": "Inteligencia artificial",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "No hay todavía un desarrollo profundo del tema de la IA como categoría dentro del sistema",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Filomat (terminología)": {
+      "canonical_name": "Filomat (terminología)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es una abreviatura de materialismo filosófico creada para encajarlo dentro del argot marxista",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Misoginia histórica en filosofía (sub-tema)": {
+      "canonical_name": "Misoginia histórica en filosofía (sub-tema)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El pensamiento misógino ha existido siempre en filosofía pero no es uniforme dentro de la tradición cristiana",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

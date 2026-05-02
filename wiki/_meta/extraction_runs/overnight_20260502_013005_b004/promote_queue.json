@@ -1,0 +1,113 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b004",
+  "items": [
+    {
+      "canonical_guess": "bueno-gustavo",
+      "from_video": "qbCGrnynKe8",
+      "entity": {
+        "surface_form": "Gustavo Bueno",
+        "canonical_guess": "bueno-gustavo",
+        "aliases_proposed": [
+          "Bueno",
+          "Gustavo Bueno Martínez"
+        ],
+        "page_type": "author",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "video_dedicated",
+        "minutes_estimate": 90,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Se dedica a divulgar el materialismo filosófico en coordenadas de Gustavo Bueno"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Gustavo Bueno define la filosofía como un saber trascendental de segundo grado que cubre los vacíos entre ciencias y técnicas"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Gustavo Bueno define materialismo negativamente como la negación de la existencia de seres vivientes incorpóreos"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Su grado de actualidad: asimila los saberes en su estado actual de desarrollo, a diferencia de Engels que filosofaba con la ciencia del siglo XIX"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "canonical_external_candidate": true,
+        "canonical_external_candidate_reason": "Bueno es el pilar disciplinar del materialismo filosófico — escuela filosófica española coherente cuyo léxico ya impregna el canal Proxy ('eutáxico' citado en scope.md §5, observación sobre marketing político citada en consumismo-critica.md líneas 65-66 desde este mismo vídeo). Cumple §6 'pilar disciplinar' y 'marco aplicado'. Recomiendo añadir a canonical_whitelist.json:authors con auto_promote=true, domain_primary='humanities.philosophy'",
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Vídeo monográfico de 126 min dedicado íntegramente a exponer su sistema filosófico (criterio §2.2 'substantive treatment ≥10 min' ampliamente superado). El canal lo invoca como marco aplicado en otros vídeos (lectura política y crítica al consumismo ya tienen huella de Bueno: bloque 1:50:26 ya integrado en consumismo-critica.md). Figura load-bearing del canal hasta ahora invisible en la wiki — caso 'foundational singleton' que motivó §4 de scope.md.",
+        "relations_proposed": [
+          {
+            "type": "developed",
+            "to": "materialismo-filosofico",
+            "note": "fundador y arquitecto del sistema"
+          }
+        ],
+        "quote_evidence": "Se dedica a divulgar el materialismo filosófico en coordenadas de Gustavo Bueno"
+      }
+    },
+    {
+      "canonical_guess": "materialismo-filosofico",
+      "from_video": "qbCGrnynKe8",
+      "entity": {
+        "surface_form": "Materialismo filosófico",
+        "canonical_guess": "materialismo-filosofico",
+        "aliases_proposed": [
+          "filomat",
+          "materialismo de Bueno",
+          "escuela de Oviedo"
+        ],
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "video_dedicated",
+        "minutes_estimate": 100,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El materialismo filosófico exige una reelaboración terminológica que dificulta enormemente su acceso"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Las ideas cardinales del sistema son: materia ontológico-general, mundo y ego trascendental, más los tres géneros de materialidad"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Su carácter envolvente: no solo rechaza otras teorías sino que las clasifica y toma partido dentro de esa clasificación, al modo hegeliano"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "canonical_external_candidate": true,
+        "canonical_external_candidate_reason": "Marco filosófico al que el canal recurre para articular crítica cultural-política. Recomiendo añadir a canonical_whitelist.json:frameworks con auto_promote=true, domain_primary='humanities.philosophy'",
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Sistema filosófico expuesto monográficamente durante todo el vídeo. Marco recurrente en el canal: la cita del bloque 1:50:26 ya está integrada en consumismo-critica.md y la terminología 'eutáxico' aparece en scope.md §5. Cumple criterio §2.1 'monográfico' (vídeo de 126 min dedica el grueso del tiempo) y 'framing-mark' (marco analítico aplicado). Sub-conceptos importantes que la página debe incorporar: symploké (block 24:12), materia ontológico-general (21:41, 1:26:42), saber trascendental de segundo grado (15:38), géneros de materialidad (21:41), democracia funcionalista vs fundamentalista (1:32:43-1:36:49), distinción concepto categorial / idea filosófica (18:40), panlogismo (1:26:42).",
+        "relations_proposed": [
+          {
+            "type": "developed_by",
+            "to": "bueno-gustavo",
+            "note": "sistema arquitecturado por Bueno"
+          },
+          {
+            "type": "references",
+            "to": "consumismo-critica",
+            "note": "el canal usa léxico MF (marketing político, política como provocación afectiva) en su crítica cultural — bloque 1:50:26 ya citado en consumismo-critica.md"
+          },
+          {
+            "type": "compared_with",
+            "to": "jung-carl-gustav",
+            "note": "ambos son marcos sistemáticos de los que el canal extrae instrumentos analíticos sin adhesión escolástica total"
+          }
+        ],
+        "quote_evidence": "El materialismo filosófico exige una reelaboración terminológica que dificulta enormemente su acceso"
+      }
+    }
+  ]
+}
