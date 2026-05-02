@@ -1,0 +1,413 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b018",
+  "generated_at": "2026-05-02T07:12:17+00:00",
+  "entities": {
+    "realismo-cognitivo": {
+      "canonical_name": "realismo cognitivo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "central_thesis",
+          "minutes": 15,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 framing-mark (applied_framework explícito 'busca funciones propias') + foundational_invocation (declarado como base del modelo en construcción del canal). Marco metodológico operativo del speaker, no concepto pasajero",
+          "quote_evidence": "El realismo cognitivo busca funciones propias, no funciones metafóricas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 15,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "memoria-semantica": {
+      "canonical_name": "memoria semántica",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "central_thesis",
+          "minutes": 35,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 monográfico (≥10 min sostenidos como tesis central; el speaker la define como objetivo explícito de la sesión y dedica el grueso del vídeo a articularla como composición representacional)",
+          "quote_evidence": "El objetivo de la sesión es comprender qué es el pensamiento semántico o la memoria semántica,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 35,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "millikan-ruth": {
+      "canonical_name": "Millikan",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.2: solo una mención foundational pero sin tratamiento sustantivo (≥10 min) ni recurrencia confirmada en otros vídeos. Caso 'foundational singleton' candidato a whitelist (figura load-bearing del marco realismo-cognitivo del canal) — flagear para revisión humana de inclusión en canonical_whitelist.json",
+          "quote_evidence": "El modelo en construcción se basa en el realismo cognitivo: Millikan, representacionalismo de Peterson,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "peterson-representacionalismo": {
+      "canonical_name": "representacionalismo de Peterson",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.2: única mención de pasada como referencia del marco. Identidad ambigua (no se especifica nombre completo de Peterson). Sin tratamiento sustantivo ni recurrencia. Sería candidato soft a whitelist si el canal vuelve a invocarlo",
+          "quote_evidence": "El modelo en construcción se basa en el realismo cognitivo: Millikan, representacionalismo de Peterson,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "potenciacion-a-largo-plazo": {
+      "canonical_name": "Potenciación a largo plazo (PLP)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.1: discutida sustantivamente pero como objeto de crítica/distinción ('PLP fundamenta la memoria pero no es la memoria'), no como marco aplicado del canal. Sin recurrencia confirmada en otros vídeos ni framing-mark de adopción. Concepto de neurociencia básica que el canal usa instrumentalmente",
+          "quote_evidence": "La PLP es la sensibilización o inhibición de grupos de conexiones neuronales que optimizan la transmisión,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "p300-potencial-evocado": {
+      "canonical_name": "P300",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.1: mención puntual como evidencia neurofisiológica que apoya un argumento, sin desarrollo conceptual propio ni recurrencia",
+          "quote_evidence": "La onda cerebral P300 es un potencial evocado que indica que el cerebro está procesando algo que ya ha existido,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "conductismo": {
+      "canonical_name": "conductismo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.1: aparece solo como contraste negativo del realismo cognitivo, no se desarrolla su contenido propio. Materia de página propia solo si se confirma análisis sustantivo en otros vídeos; el lugar editorial natural es como sección de 'oposiciones' dentro de realismo-cognitivo",
+          "quote_evidence": "El realismo cognitivo se opone frontalmente al conductismo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "memoria-episodica": {
+      "canonical_name": "memoria episódica",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.1: pieza secundaria del modelo cognitivo del canal (uno de los tres motores representacionales). Su lugar editorial natural es como sub-sección dentro de la tesis del speaker (framework_internal_structure), no página propia hasta confirmar tratamiento monográfico independiente",
+          "quote_evidence": "tres motores representacionales: procedimental, episódico y semántico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "memoria-procedimental": {
+      "canonical_name": "memoria procedimental",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.1: análogo a memoria episódica — pieza del marco del canal pero sin desarrollo monográfico propio aquí. Pertenece a framework_internal_structure de la tesis del speaker",
+          "quote_evidence": "tres motores representacionales: procedimental, episódico y semántico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "clase-unidad-representacional": {
+      "canonical_name": "clase como unidad mínima representacional",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.1: definición canal-específica clave pero introducida solo al cierre del vídeo, sin desarrollo sostenido. Pertenece a la tesis del speaker como concepto-pieza. Re-evaluar si recurre en futuros vídeos",
+          "quote_evidence": "La clase es la unidad mínima representacional, no confundir con cualia,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Proxy utiliza inteligencia artificial como asistente": {
+      "canonical_name": "Proxy utiliza inteligencia artificial como asistente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Proxy utiliza inteligencia artificial como asistente: selecciona artículos, revisa respuestas y monta los mapas funcionales,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Planea usar Claude en lugar de ChatGPT": {
+      "canonical_name": "Planea usar Claude en lugar de ChatGPT",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Planea usar Claude en lugar de ChatGPT porque lo considera mejor, aunque valora LM Studio por poder ejecutarse en local,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Llamada a la comunidad para recopilar artículos académicos": {
+      "canonical_name": "Llamada a la comunidad para recopilar artículos académicos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Pide a la audiencia subir al Discord revisiones sistemáticas, libros de texto o ensayos sobre función procedimental, semántica y episódica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "CA3-CA4 del hipocampo con la corteza perirrinal": {
+      "canonical_name": "CA3-CA4 del hipocampo con la corteza perirrinal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "las conexiones del CA3-CA4 del hipocampo con la corteza perirrinal filtran qué importa y qué no,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "terapia de reelaboración episódica": {
+      "canonical_name": "terapia de reelaboración episódica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Mediante terapia de reelaboración episódica se pueden eliminar traumas, lo cual funciona lejos de ser magufada,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cualia": {
+      "canonical_name": "cualia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La clase es la unidad mínima representacional, no confundir con cualia,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}
