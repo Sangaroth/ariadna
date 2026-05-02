@@ -1,0 +1,100 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b019",
+  "items": [
+    {
+      "from_video": "ZlO5o786u90",
+      "from_video_title": "Libertad, inteligencia, felicidad y crisis de pareja.",
+      "thesis": {
+        "thesis_title_proposed": "Inteligencia, afectos y felicidad: la teoría de Proxy sobre por qué el CI alto correlaciona con sufrimiento psíquico",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La felicidad tiene dos grandes componentes: autorrealización (hacer aquello para lo que estás diseñado) y vínculos personales"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El primer tipo es estructural-cognitivo: la misma arquitectura cerebral que da alta inteligencia puede traer exceso de imaginación, esquizofrenia o síndrome savant"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El segundo tipo es secundario-social: la inteligencia causa problemas de socialización que derivan en depresión"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "La inteligencia es un hipotético factor G de capacidad general de resolver problemas, pero los problemas son afectivos, no objetivos"
+          },
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "No existe una personalidad específica asociada al CI alto; lo que hay son altas probabilidades de que todo sea alto, incluidos los problemas"
+          }
+        ],
+        "framework_internal_structure": [
+          "Felicidad = autorrealización + vínculos personales",
+          "Éxito ≠ felicidad: bienestar material no correlaciona con felicidad",
+          "Inteligencia (factor G) opera sobre problemas que son afectivos, no objetivos",
+          "Tipo 1 problemas: estructural-cognitivos (hipofrontalidad → creatividad/esquizofrenia/TOC/savant)",
+          "Tipo 2 problemas: secundario-sociales (CI alto → soledad → depresión)",
+          "Personalidad e inteligencia están más vinculadas de lo que se creía (apertura facilita procesamiento)",
+          "Variabilidad masculina mayor en colas de la Gauss del CI",
+          "Los vínculos sanos sostenidos predicen baja demencia"
+        ],
+        "minutes_sustained": 43,
+        "domain_guess": "social.psychology",
+        "related_existing_pages": [
+          "individuation",
+          "consumismo-critica"
+        ],
+        "requires_human_validation": true,
+        "rationale": "scope.md §2.4.1: ≥4 señales matched (estructura interna numerada en dos componentes y dos tipos, registro pedagógico-expositivo sostenido ~43 min, thesis_marker explícito sobre la no-existencia de personalidad CI-alto, articulación del factor G con los afectos como marco propio). El speaker no expone un concepto académico estándar (la psicometría clásica) sino que articula su propia teoría sobre la relación inteligencia-felicidad mediante su modelo de afectos como sustrato de los problemas. La pieza es separable de cualquier obra analizada: es teoría del canal, no análisis de obra"
+      }
+    },
+    {
+      "from_video": "ZlO5o786u90",
+      "from_video_title": "Libertad, inteligencia, felicidad y crisis de pareja.",
+      "thesis": {
+        "thesis_title_proposed": "Representación enactiva vs computación: por qué los LLMs no piensan según Proxy",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "El pensamiento humano no es computable: no se puede explicar ni emular mediante una computación"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Un ordenador no distingue cualitativamente una palabra de una imagen; el cerebro humano tiene tres componentes representacionales cualitativamente diferentes"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Las máquinas no tienen conceptos: la asociación estadística de imágenes de caballos no equivale a saber qué es un caballo"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Las representaciones humanas son enactivas: orientadas a la acción y al exterior, incluso cuando no salen de la cabeza"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Llamar \"memoria\" o \"alucinación\" a procesos de máquinas y humanos con la misma palabra es una falacia semántica"
+          }
+        ],
+        "framework_internal_structure": [
+          "Decisión = ponderación afectiva entre preferencias (no computación determinista)",
+          "Libre albedrío = planificación anticipatoria sobre escenarios mentales",
+          "Pensamiento humano no es computable",
+          "Representación humana es enactiva (orientada a la acción)",
+          "El cerebro tiene tres componentes representacionales cualitativamente diferentes",
+          "Máquinas codifican (asociación estadística), no representan (perciben)",
+          "Alucinación LLM es estructural y prueba de determinismo computacional",
+          "Vectores LLM ≠ redes neuronales biológicas: parecido estructural sin equivalencia esencial",
+          "Falacia semántica: usar 'memoria' o 'alucinación' para humanos y máquinas indistintamente"
+        ],
+        "minutes_sustained": 35,
+        "domain_guess": "humanities.philosophy",
+        "related_existing_pages": [],
+        "requires_human_validation": true,
+        "rationale": "scope.md §2.4.1: ≥4 señales matched (thesis_marker explícito 'el pensamiento humano no es computable', estructura interna numerada en tres componentes representacionales y la cadena decisión→libre albedrío→representación→codificación→alucinación, registro pedagógico-expositivo sostenido ~35 min, applied_framework con la denuncia de falacia semántica como herramienta crítica del speaker). Es articulación original del canal sobre filosofía de la mente y crítica de la IA, no exposición de teoría académica establecida. Pieza separable como tesis cohesiva propia"
+      }
+    }
+  ]
+}
