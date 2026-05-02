@@ -1,0 +1,468 @@
+{
+  "version": "0.1.0",
+  "run_id": "audit_cita_only_20260502_213103",
+  "generated_at": "2026-05-02T19:41:32+00:00",
+  "entities": {
+    "harry-potter-saga": {
+      "canonical_name": "Harry Potter",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "central_thesis",
+          "minutes": 14,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de 16 min dedicado íntegramente al análisis crítico de la saga (cumple borderline scope.md §2.3 monográfico). La saga ejemplifica simultáneamente múltiples conceptos canon del wiki (síndrome de Wendy en versión masculina, autotipia, mitología impropia/refrito, falso don uranio) y articula un caso negativo paradigmático del mito moderno fallido. Connectivity esperada alta (referenciado desde sindrome-wendy y mito-moderno-en-proxy tras updates).",
+          "quote_evidence": "Harry Potter es el sobrante de un refrito mitológico con mejor intención estética que poética,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 14,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sindrome-wendy": {
+      "canonical_name": "síndrome de Wendy",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "central_thesis",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo aplica el síndrome a un caso masculino infantil (HP), articulando explícitamente la versión masculina (huida de casa, anhelo de destino especial más allá de la ventana). Esto refuta directamente la laguna 'Versión masculina' declarada en la página existente. Material genuinamente nuevo respecto al cuerpo leído.",
+          "quote_evidence": "Harry Potter como quintaesencia del síndrome de Wendy"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "camino-victima": {
+      "canonical_name": "camino de la víctima",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "central_thesis",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "Categoría canal-específica articulada explícitamente como oposición al viaje del héroe ('algo profundamente postmoderno'). Cumple framing-mark de scope.md §2.1: el speaker la propone como marco diagnóstico cultural y la aplica de forma sostenida a HP, telenovelas y 'Por 13 razones'. Conecta con identificación-ello/yo y síndrome de Wendy formando un nodo conceptual canal-propio.",
+          "quote_evidence": "Harry Potter no tiene camino del héroe sino camino de la víctima, algo profundamente postmoderno,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "autotipo": {
+      "canonical_name": "autotipia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "promote_new",
+          "decision_reason": "Whitelist soft (canonical_whitelist channel_specific_concepts.autotipo) + assumed-prior (el speaker usa 'autotipia pura' como categoría diagnóstica establecida sin presentarla) + framing-mark aplicado. Cumple scope.md §2.1 (assumed-prior + channel-canonical) más el gate adicional requerido por whitelist soft. Concepto load-bearing del canal para diagnosticar degradación arquetípica.",
+          "quote_evidence": "Los nombres en Harry Potter son autotipia pura: Voldemort, Granger, Lunatica, Lovegood, Wood — la personalidad está literalmente en el nombre,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "viaje-heroe": {
+      "canonical_name": "viaje del héroe / camino del héroe / monomito",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "central_thesis",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "canonical_whitelist channel_specific_concepts.viaje-heroe con auto_promote:true. Tratamiento sustantivo (≥3 min) en este vídeo como marco de contraste estructural: el speaker articula sus piezas (resistencia a la llamada, humildad genuina, don del más allá) usándolo como vara diagnóstica. Cumple scope.md §4 promoción automática.",
+          "quote_evidence": "Harry Potter tiene la forma externa del viaje del héroe pero no la motivación interna,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "freud-sigmund": {
+      "canonical_name": "ello / yo",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "canonical_whitelist authors.freud-sigmund con auto_promote:true. La distinción ello/yo es marco interpretativo central del vídeo (vertebra la tesis 'identificación con el ello vs con el yo'), foundational_invocation sostenida. Cumple scope.md §4 promoción automática por whitelist canónica con tratamiento sustantivo del aparato conceptual freudiano (aunque no exposición biográfica).",
+          "quote_evidence": "Los jóvenes no se identificaban con Harry Potter desde el yo sino desde el ello,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-moderno-en-proxy": {
+      "canonical_name": "mito moderno fallido / refrito mitológico",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Página existente con laguna declarada sobre 'Crítica al mito moderno' y 'autotipo como degradación'. Este vídeo aporta caso paradigmático negativo (HP) que enriquece la sección de Conexión con otros conceptos. Material genuinamente nuevo: no hay tratamiento de HP ni del 'mito moderno fallido' como categoría diagnóstica en el cuerpo leído.",
+          "quote_evidence": "Harry Potter es el sobrante de un refrito mitológico con mejor intención estética que poética,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Voldemort": {
+      "canonical_name": "Voldemort",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es una inversión luciferina arquetípica sin ningún tratamiento original,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "inversión luciferina": {
+      "canonical_name": "inversión luciferina",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Voldemort como inversión luciferina estereotípica",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pokémon": {
+      "canonical_name": "Pokémon",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Pokémon sí tiene arquetípica genuina; Harry Potter está disfrazado de épica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Por 13 razones": {
+      "canonical_name": "Por 13 razones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El enganche de \"Por 13 razones\" funciona igual: sentimentalismo como identificación con el ello, no con el yo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Peter Pan": {
+      "canonical_name": "Peter Pan",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Identificarse con Harry Potter es luchar contra el mal de los piratas de Peter Pan: inexistente en la vida real y por tanto fácil de vencer,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cenicienta": {
+      "canonical_name": "Cenicienta",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "quiero sentirme dramáticamente como Cenicienta para imaginarme víctima del sistema",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "telenovela / culebrón": {
+      "canonical_name": "telenovela / culebrón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El protagonista es una víctima rodeada de gente incomprensiblemente malísima, estructura idéntica a las telenovelas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sentimentalismo / sentimentalidad": {
+      "canonical_name": "sentimentalismo / sentimentalidad",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El sentimentalismo apela a sentimientos infantiles; las telenovelas son sentimentalistas, no sentimentales, porque no hay verdadero aprendizaje detrás,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hogwarts / Ministerio de Magia / sistema de magia": {
+      "canonical_name": "Hogwarts / Ministerio de Magia / sistema de magia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El sistema de magia es cero sistemático y cero planificado,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gollum": {
+      "canonical_name": "Gollum",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Voldemort, cuyo origen se resuelve con que es un niño herido tipo Gollum,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "don uranio / amor de la madre": {
+      "canonical_name": "don uranio / amor de la madre",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El don de Harry Potter es una cursilería: el amor de la madre, que no puede funcionar como don uranio,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

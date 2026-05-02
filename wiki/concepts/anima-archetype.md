@@ -147,3 +147,7 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 - **Recepción crítica feminista**: el canal articula una lectura tradicionalista de la polaridad. No hay material sobre las críticas feministas a Jung (Lauter, Rupprecht, Wehr) ni sobre re-lecturas no esencialistas
 - **Distinción Jung clásico vs canal**: la "ánima sola" es formulación recurrente del canal pero no aparece con ese nombre exacto en Jung. Sería útil rastrear si proviene de la tradición católica popular o de un junguiano específico
 - **Manifestaciones del ánimus en obras dirigidas a varones**: poco material. ¿Cómo lee el canal el ánimus en personajes masculinos cuya psique femenina interior es central?
+
+## Citations
+
+- **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)

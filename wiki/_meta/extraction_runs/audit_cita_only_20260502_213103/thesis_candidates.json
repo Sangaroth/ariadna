@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "run_id": "audit_cita_only_20260502_213103",
+  "items": [
+    {
+      "from_video": "3Jo2T73pOEs",
+      "from_video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+      "thesis": {
+        "thesis_title_proposed": "Crítica al mito moderno fallido: viaje de la víctima e identificación con el ello",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "Harry Potter no tiene camino del héroe sino camino de la víctima, algo profundamente postmoderno,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El yo se identifica con procesos internos reales; el ello se identifica con procesos imaginarios,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "El héroe mítico representa al yo y a la humanidad entera, no al individuo; su don proviene de más allá,"
+          }
+        ],
+        "framework_internal_structure": [
+          "viaje del héroe vs viaje de la víctima (postmoderno)",
+          "identificación con el yo vs identificación con el ello",
+          "sentimentalismo (apela al ello) vs sentimentalidad (aprendizaje real)",
+          "autotipia onomástica como degradación arquetípica",
+          "falso don uranio (amor materno como Fiat narrativo)",
+          "estructura externa del monomito sin motivación interna",
+          "drama vital vs drama fantástico (escape sin coste real)"
+        ],
+        "minutes_sustained": 14,
+        "domain_guess": "interdisciplinary.cultural_studies",
+        "related_existing_pages": [
+          "mito-moderno-en-proxy",
+          "sindrome-wendy",
+          "individuation",
+          "consumismo-critica"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple ≥2 señales de scope.md §2.4.1: thesis_marker explícito ('algo profundamente postmoderno' como diagnóstico cultural propio), internal_structure articulada en al menos siete piezas categoriales que dependen entre sí, pedagogic_register sostenido durante todo el vídeo (16 min) con verbos dominantes clasificar/distinguir/contraponer. La armazón teórica trasciende el caso HP y propone un marco diagnóstico aplicable a todo el mito moderno fallido (telenovelas, Por 13 razones, fantasías de escape pop). Requiere validación humana porque la decisión de promover como synthesis vs distribuir entre concept (camino-victima) + entity_work (harry-potter-saga) + updates a mito-moderno-en-proxy es editorial."
+      }
+    }
+  ]
+}

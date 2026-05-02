@@ -1,0 +1,69 @@
+{
+  "version": "0.1.0",
+  "run_id": "audit_cita_only_20260502_213103",
+  "items": [
+    {
+      "from_video": "3Jo2T73pOEs",
+      "from_video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+      "update": {
+        "page_id": "sindrome-wendy",
+        "update_type": "insert_after_passage",
+        "anchor_passage": "abortar el síndrome es condición previa para cualquier [[hieros-gamos]] real, ya que sin sujeto femenino constituido no hay unión sino captura mutua",
+        "section_target": null,
+        "content_proposed": "\n\n## La versión masculina del síndrome\n\nEl canal articula también la operación del síndrome en la psique masculina infantil, donde toma la forma del **anhelo de huida del hogar**: el niño se siente injustamente tratado, fantasea con que su verdadero destino aguarda más allá de la ventana, pero no se atreve a actuar la huida real porque no es disocial:\n\n> \"La huida de casa es un síndrome de Wendy: se anhela irse pero nadie se va realmente sin ser disocial,\"\n→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (08:41)](https://youtu.be/3Jo2T73pOEs?t=521)\n\n> \"Harry Potter vive rico pero injustamente tratado, exactamente como se siente la preadolescencia del primer mundo,\"\n→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (03:31)](https://youtu.be/3Jo2T73pOEs?t=211)\n\nLo decisivo es que la identificación no opera desde el yo (anhelo de aventura real, capacidad de iniciar el viaje) sino desde el ello (necesidad de validar la propia injusticia sentida) — de la misma forma que la Wendy femenina espera al héroe imaginario sin trabajar la integración del eterno aventurero como contenido propio. [[harry-potter-saga|Harry Potter]] funciona, en la lectura del canal, como quintaesencia narrativa de esta configuración masculina: el niño rico pero \"injustamente tratado\" para quien la solución narrativa no es la maduración interior sino la confirmación externa de su carácter especial.\n",
+        "supersedes_laguna_text": null,
+        "wikilinks_introduced": [
+          "harry-potter-saga"
+        ],
+        "citations_added": [
+          {
+            "video_id": "3Jo2T73pOEs",
+            "timestamp_seconds": 521,
+            "cite_markdown": "[Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (08:41)](https://youtu.be/3Jo2T73pOEs?t=521)"
+          },
+          {
+            "video_id": "3Jo2T73pOEs",
+            "timestamp_seconds": 211,
+            "cite_markdown": "[Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (03:31)](https://youtu.be/3Jo2T73pOEs?t=211)"
+          }
+        ],
+        "rationale": "El cuerpo actual articula el síndrome solo desde el polo femenino (Wendy → ninfa → vampiro). Este vídeo aporta la operación masculina infantil que la página declaraba ausente: huida de casa como síndrome equivalente, identificación desde el ello, niño que se siente especial-injustamente-tratado. Material totalmente nuevo respecto a la prosa leída — no es redundancia. La sección nueva va antes de Lagunas para preservar el flujo conceptual (definición → mutación → umbral mítico → integración → versión masculina → lagunas restantes).",
+        "editorial_intent": "extend"
+      }
+    },
+    {
+      "from_video": "3Jo2T73pOEs",
+      "from_video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+      "update": {
+        "page_id": "sindrome-wendy",
+        "update_type": "mark_laguna_resolved",
+        "anchor_passage": null,
+        "section_target": null,
+        "content_proposed": "Refutada por vídeo 3Jo2T73pOEs (Harry Potter): articula explícitamente la versión masculina infantil del síndrome como 'huida de casa' identificada desde el ello.",
+        "supersedes_laguna_text": "**Versión masculina**: el corpus articula con detalle el polo Wendy/ninfa pero no desarrolla con la misma precisión cómo opera el síndrome equivalente en la psique masculina",
+        "wikilinks_introduced": [],
+        "citations_added": [],
+        "rationale": "La laguna pregunta literalmente por la versión masculina del síndrome y por la posibilidad del 'síndrome de Peter Pan como reverso simétrico'. El vídeo de HP responde: la versión masculina opera como anhelo de huida del hogar con identificación desde el ello, exactamente la simetría que la laguna conjeturaba.",
+        "editorial_intent": "resolve_laguna"
+      }
+    },
+    {
+      "from_video": "3Jo2T73pOEs",
+      "from_video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+      "update": {
+        "page_id": "mito-moderno-en-proxy",
+        "update_type": "insert_after_passage",
+        "anchor_passage": "**[[lovecraft-howard]]**: caso paradigmático de mitología propia consciente de sí",
+        "section_target": null,
+        "content_proposed": "\n- **[[harry-potter-saga]]**: caso paradigmático del mito moderno fallido — viaje de la víctima en vez de viaje del héroe, autotipia onomástica, refrito mitológico sin originalidad propia. La identificación opera desde el ello (validación de la injusticia sentida) y no desde el yo (anhelo de aventura real)",
+        "supersedes_laguna_text": null,
+        "wikilinks_introduced": [
+          "harry-potter-saga"
+        ],
+        "citations_added": [],
+        "rationale": "La sección 'Conexión con otros conceptos' lista los casos canónicos del corpus que articulan el mito moderno (Fight Club, Lovecraft como propia, Matrix, Superman). Falta el caso negativo paradigmático: una obra que el canal lee como mito moderno FALLIDO. HP es exactamente eso. Bullet referencial — el desarrollo va en la página harry-potter-saga, no en esta. No marca lagunas como resueltas porque el material no sistematiza la crítica ni aborda economía cultural / franquicias.",
+        "editorial_intent": "enrich"
+      }
+    }
+  ]
+}

@@ -193,4 +193,7 @@ La lectura del canal recupera esa estructura: la cadena Melkor→Sauron→Saruma
 
 ## Citations
 
+
 - video_id: `gDRkrg8dVCo` — Leyendo El Silmarillion: Tolkien y el mal primario.
+- **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722) · [50:23](https://youtu.be/gDRkrg8dVCo?t=3023) · [1:05:15](https://youtu.be/gDRkrg8dVCo?t=3915)
+
