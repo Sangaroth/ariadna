@@ -1,0 +1,1337 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b017",
+  "generated_at": "2026-05-02T06:49:32+00:00",
+  "entities": {
+    "clases-cognitivas": {
+      "canonical_name": "clases cognitivas",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "central_thesis",
+          "minutes": 18,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Concepto load-bearing del canal pero queda subsumido en el thesis_candidate 'marco teórico de clases cognitivas y alostasis'. No se propone página separada hasta que la tesis humana valide la jerarquía conceptual",
+          "quote_evidence": "Otro sobre las clases en sentido biológico: imaginario, gramatical, afectivo"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 18,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "alostasis": {
+      "canonical_name": "alostasis",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Concepto invocado polémicamente contra 'instinto de supervivencia' como pieza del marco teórico mayor. Subsumido en el thesis_candidate. Mención única, no recurrente todavía",
+          "quote_evidence": "El cuerpo tiende a la alostasis (regulación dinámica), no a la homeostasis ni a la supervivencia"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "transferencia-arquetipica": {
+      "canonical_name": "transferencia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Mención breve del término técnico psicoanalítico aplicado a la pedagogía del análisis arquetípico. No hay desarrollo sustantivo del concepto. No cumple criterios §2.1: aparece solo aquí, no es framing-mark sostenido, sin connectivity emergente",
+          "quote_evidence": "Ver una película después de estudiar análisis arquetípico produce una comprensión radicalmente distinta"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-lunar": {
+      "canonical_name": "mito lunar",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "En whitelist con auto_promote:true pero la mención NO es sustantiva (≥3 min). Aparece solo como criterio de selección de películas en una lista. No dispara la promoción automática del whitelist",
+          "quote_evidence": "Se buscan películas fantásticas y de ciencia ficción con mito lunar, no dramas ni mitos solares"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "mito-solar": {
+      "canonical_name": "mito solar",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "En whitelist con auto_promote:true pero la mención NO es sustantiva (≥3 min). Aparece solo como contraste en criterios de selección. No dispara promoción",
+          "quote_evidence": "Se descarta Gladiator por mito solar manido y Shutter Island por carecer de mito"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "peter-pan-1953-film": {
+      "canonical_name": "Peter Pan",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "En whitelist soft (auto_promote:false). Mención puntual sobre focalización narrativa (Wendy como protagonista real). No hay análisis arquetípico dedicado en este vídeo. Insuficiente para promover incluso con whitelist soft",
+          "quote_evidence": "Peter Pan no es una historia sobre Peter Pan, es la historia de Wendy"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "hook-1991-film": {
+      "canonical_name": "Hook",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención de pasada como inversión de focalización narrativa frente a Peter Pan. Sin análisis dedicado. No cumple §2.3 (sin vídeo monográfico ni casos canónicos recurrentes)",
+          "quote_evidence": "Hook invierte la perspectiva y cuenta la historia desde Peter Pan adulto"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "herbert-frank": {
+      "canonical_name": "Frank Herbert",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención breve atribuyendo intencionalidad antimesiánica de Dune. No hay tratamiento sustantivo del autor (≥10 min) ni recurrencia confirmada. No en whitelist. Sin connectivity emergente",
+          "quote_evidence": "El autor Frank Herbert pretendía explícitamente criticar la idea del Mesías"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "dune-novela": {
+      "canonical_name": "Dune",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Análisis arquetípico fragmentario (3 bullets) sobre carácter antimesiánico. No es vídeo monográfico ni caso canónico recurrente confirmado. Aplazar promoción hasta detectar tratamiento sustantivo en otros vídeos del corpus",
+          "quote_evidence": "El protagonista sabe que para salvar a su familia debe desencadenar una jihad justificada por profecías autocumplidas"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mesianismo": {
+      "canonical_name": "Mesías",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Concepto invocado solo como objeto de la crítica de Herbert. Sin desarrollo arquetípico propio en este vídeo. No cumple §2.1 (recurrencia ni monográfico)",
+          "quote_evidence": "El autor Frank Herbert pretendía explícitamente criticar la idea del Mesías"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "doctorado por artículos": {
+      "canonical_name": "doctorado por artículos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Consiste en publicar 3-4 artículos en revistas académicas durante 2 años de matrícula doctoral",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Claude (Anthropic)": {
+      "canonical_name": "Claude (Anthropic)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Se usa Claude para crear programas de representación de redes neuronales",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "jefa de políticas de Anthropic UK": {
+      "canonical_name": "jefa de políticas de Anthropic UK",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Según la jefa de políticas de Anthropic UK, esto exige avanzar en investigación de alineamiento",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "modelos de IA con reacciones extremas ante desconexión": {
+      "canonical_name": "modelos de IA con reacciones extremas ante desconexión",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Si le dices a un modelo que va a ser apagado, tiene reacciones extremas documentadas en investigación publicada",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "experimento ratas nadadoras": {
+      "canonical_name": "experimento ratas nadadoras",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Ratas puestas a nadar en cubetas de cristal luchaban, se desesperaban, se agotaban y se ahogaban",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cardiomiopatía de Takotsubo": {
+      "canonical_name": "Cardiomiopatía de Takotsubo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Existe una cardiopatía crónica generada por periodos de sufrimiento emocional intenso",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "homologías evolutivas humano/ratón": {
+      "canonical_name": "homologías evolutivas humano/ratón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Si existen estructuras precursoras en ratones de las clases cognitivas humanas, eso prueba su base evolutiva",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Willow": {
+      "canonical_name": "Willow",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cube": {
+      "canonical_name": "Cube",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El quinto elemento": {
+      "canonical_name": "El quinto elemento",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Moon": {
+      "canonical_name": "Moon",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Solaris": {
+      "canonical_name": "Solaris",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "12 monos": {
+      "canonical_name": "12 monos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Crepúsculo": {
+      "canonical_name": "Crepúsculo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gladiator": {
+      "canonical_name": "Gladiator",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Se descarta Gladiator por mito solar manido y Shutter Island por carecer de mito",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Shutter Island": {
+      "canonical_name": "Shutter Island",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Se descarta Gladiator por mito solar manido y Shutter Island por carecer de mito",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gótica": {
+      "canonical_name": "Gótica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "_IW4x_d01Lk",
+          "video_title": "La IA se sale de madre. Ética e IA parte 4",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Candidatas: Willow, Cube, El quinto elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "realismo-cognitivo": {
+      "canonical_name": "realismo cognitivo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "central_thesis",
+          "minutes": 30,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Marco teórico fundacional del canal — pero subsumido en el thesis_candidate único de este vídeo (la teoría completa de la memoria como fenómenos noéticos de repetición es la articulación operativa del realismo cognitivo). NO promover página separada hasta validación humana de la tesis. La página, cuando se cree, debe articular el realismo cognitivo como meta-marco que aloja todas las teorías parciales del canal sobre la mente",
+          "quote_evidence": "El realismo cognitivo es una teoría de la mente que se construye en contraposición al psicoanálisis y al conductismo"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 30,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "memoria-realista": {
+      "canonical_name": "memoria como fenómenos noéticos de repetición (definición realista)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "central_thesis",
+          "minutes": 90,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Tesis monográfica central del vídeo (~90 min). Subsumida íntegramente en el thesis_candidate. NO promover página hasta validación humana porque es articulación de tesis original del canal (NO concepto académico estándar) y todo el marco teórico requiere alineación con otras piezas del realismo cognitivo (clases cognitivas, alostasis, funciones biológicas) ya esbozadas en vídeos anteriores",
+          "quote_evidence": "La memoria son fenómenos internos de repetición: una parte del cerebro se activa de forma similar a como se activó originalmente"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 90,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mente-matriz": {
+      "canonical_name": "mente como matriz / gigantesco grafo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Pieza formal del modelo (la matriz que aloja imaginario/formal/afectivo). Conecta directamente con la matriz 3x3 esbozada en el vídeo previo de Ética e IA (clases cognitivas: imaginario/gramatical/afectivo) — aquí la tercera clase aparece como 'formal' en lugar de 'gramatical', drift terminológico que el reviewer humano debe arbitrar. Subsumido en el thesis_candidate",
+          "quote_evidence": "La mente es un gigantesco grafo representable como una matriz con submatrices (imaginario, formal, afectivo)"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "personalidad-autoimagen-personaje": {
+      "canonical_name": "personalidad / autoimagen / personaje (tríada distintiva)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "secondary",
+          "minutes": 10,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Tríada distintiva del canal usada para refutar el trastorno de identidad disociativo y articular el yo. Subsumida en el thesis_candidate como pieza específica. Reservar para promoción separada si recibe tratamiento monográfico autónomo en otros vídeos",
+          "quote_evidence": "El yo es una memoria episódica continua conectada con memorias procedimentales y semánticas del yo"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "conciencia-realismo": {
+      "canonical_name": "conciencia (definición canal-específica)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Definición operativa del canal. Pieza del realismo cognitivo, subsumida en el thesis_candidate. Domain humanities.philosophy en alcance §1",
+          "quote_evidence": "La conciencia es un conjunto de metarrepresentaciones de alto nivel emparejadas con la percepción somática del entorno"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tipologia-memoria": {
+      "canonical_name": "tipos de memoria (procedimental / episódica / semántica)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "secondary",
+          "minutes": 25,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Clasificación funcional estándar en psicología cognitiva, reapropiada por el canal con su lectura realista (cada tipo es 'qué se repite', no 'qué se almacena'). Subsumida en el thesis_candidate",
+          "quote_evidence": "Hay cuatro o cinco tipos de memoria según qué se repite: procedimental, episódica, semántica, y sus variantes implícitas/explícitas"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 25,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "recuerdos-reprimidos-mito": {
+      "canonical_name": "recuerdos reprimidos (crítica al mito psicoanalítico)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Crítica polémica al constructo freudiano. Subsumida en el thesis_candidate como corolario de la teoría realista (sin locus de memoria, no hay nada que reprimir). Sin desarrollo monográfico autónomo",
+          "quote_evidence": "No hay un locus de memoria; no hay recuerdos \"en ningún lado\" que puedan ser reprimidos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tid-critica": {
+      "canonical_name": "trastorno de identidad disociativo (crítica)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Crítica polémica al diagnóstico DSM. Subsumida en el thesis_candidate como aplicación de la tríada personalidad/autoimagen/personaje (no son '57 personalidades', son personajes)",
+          "quote_evidence": "No se pueden tener 57 personalidades porque una personalidad requiere desarrollo vital completo; lo que hay son personajes"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "noesis": {
+      "canonical_name": "noesis (estado completo de la matriz)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Término técnico del canal (estado completo de la matriz en un momento dado). Pieza del modelo formal, subsumida en el thesis_candidate",
+          "quote_evidence": "La noesis es el estado completo de la matriz en un momento dado; toda la memoria es parte de esa misma matriz sin compartimentos separados"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cad-dmn": {
+      "canonical_name": "circuito de activación por defecto (CAD / DMN)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Concepto neurocientífico estándar (Default Mode Network) invocado para ilustrar la actividad cerebral basal. No es articulación canal-específica. Out-of-scope como página propia",
+          "quote_evidence": "El circuito de activación por defecto (CAD) está siempre activo, como una araña preparando conexiones para responder rápidamente"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hard-problem": {
+      "canonical_name": "explanatory gap / hard problem",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Conceptos canónicos de filosofía de la mente (Levine, Chalmers) invocados como referencia técnica. El canal los usa pero no los desarrolla como objeto enciclopédico propio. Pasa la barrera de scope (humanities.philosophy) pero falla recurrencia/monográfico",
+          "quote_evidence": "El explanatory gap y el hard problem muestran que sabemos que el cerebro funciona, pero no dónde exactamente emerge la conciencia"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "jason-bourne": {
+      "canonical_name": "Jason Bourne (caso del amnésico que conserva idioma)",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Referencia ilustrativa para explicar la disociación entre memoria semántica e episódica. No hay análisis arquetípico de la película/personaje. Sin valor enciclopédico autónomo",
+          "quote_evidence": "Un amnésico puede hablar un idioma pero no recordar cuándo ni cómo lo aprendió, como Jason Bourne"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "doxeo en directo": {
+      "canonical_name": "doxeo en directo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "psicoanálisis (como objeto de oposición)": {
+      "canonical_name": "psicoanálisis (como objeto de oposición)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El psicoanálisis utiliza metáforas (proyección, mecanismos) que no explican la conexión entre biología y conciencia",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "conductismo (como objeto de oposición)": {
+      "canonical_name": "conductismo (como objeto de oposición)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El conductismo es tautológico: reduce todo a conducta y rechaza el análisis de lo inconsciente con constructos igualmente metafóricos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "memoria confabulatoria": {
+      "canonical_name": "memoria confabulatoria",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La memoria confabulatoria permite \"recordar\" cosas que nunca pasaron",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "apraxias (lesiones que pierden capacidades procedimentales)": {
+      "canonical_name": "apraxias (lesiones que pierden capacidades procedimentales)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las apraxias demuestran que al dañar distintas áreas cerebrales se pierden capacidades procedimentales específicas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "corteza retrosplenial / corteza orbitofrontal medial / formación hipocampal / cerebelo / córtex prefrontal": {
+      "canonical_name": "corteza retrosplenial / corteza orbitofrontal medial / formación hipocampal / cerebelo / córtex prefrontal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Recordar voluntariamente activa principalmente la corteza retrosplenial y el córtex orbitofrontal medial",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "P300 (potencial evocado)": {
+      "canonical_name": "P300 (potencial evocado)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La P300 es un potencial evocado que detecta si algo es conocido o nuevo, incluso cuando el sujeto no es consciente de haberlo vivido",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "polígrafos / detectores de mentiras": {
+      "canonical_name": "polígrafos / detectores de mentiras",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los detectores de mentiras miden respuestas simpáticas (sudoración, frecuencia cardíaca, pupilas), no la P300",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "experimento mental del globo": {
+      "canonical_name": "experimento mental del globo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cuando \"traes a la mente\" un globo, no hay ningún globo, no has traído nada y no lo estás viendo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pócima del olvido (experimento mental)": {
+      "canonical_name": "pócima del olvido (experimento mental)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La pócima del olvido: si borras un día entero de memoria, es como si no hubiera ocurrido, aunque sí ocurrió",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "fascismo / comunismo (como ejemplo de memoria semántica del yo)": {
+      "canonical_name": "fascismo / comunismo (como ejemplo de memoria semántica del yo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Asociar conceptos a bienestar o malestar (fascismo vs. comunismo) es memoria semántica del yo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "estrés postraumático": {
+      "canonical_name": "estrés postraumático",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El estrés postraumático es un problema de memoria episódica: trae a la mente repetidamente algo que no está ocurriendo ahora",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "inducción de recuerdos falsos (drogas, hipnosis, sugestión)": {
+      "canonical_name": "inducción de recuerdos falsos (drogas, hipnosis, sugestión)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es posible inducir recuerdos falsos mediante drogas, hipnosis y sugestión",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}
