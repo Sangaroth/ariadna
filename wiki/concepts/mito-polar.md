@@ -123,6 +123,22 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 > "La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal."
 → [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
 
+
+### Tarzán: cosmogonía polar a escala familiar e identitaria
+
+La lectura Disney expande el repertorio de aplicaciones polares del canal hacia el plano del crecimiento personal:
+
+> "La estructura mitológica de la película es el hieros gamos, pero el tema particular es la identidad y la construcción del yo. La unión con el complementario permite conocer aquella parte que sin el otro jamás se habría podido descubrir."
+→ [Análisis arquetípico de Tarzán, 00:30](https://youtu.be/Tviv4PT0dv8?t=30)
+
+El sistema cromático y elemental del filme materializa el dipolo: el dios solar tiene un único don (fuego); la diosa lunar reparte los otros tres (aire, tierra, agua). La éxesis final no anula los polos sino que los compone:
+
+> "Las cuatro partes del mundo se reparten: la jungla es fuego (intensidad animal abandonada), el aire es lo que la diosa le enseñó a dominar, ella es agua y tierra. Dos mundos, una familia: lo salvaje y lo civilizado se disuelven porque dios y diosa están juntos; ya no hay dos mundos sino uno que pertenece a ambos."
+→ [Análisis arquetípico de Tarzán, 1:43:30](https://youtu.be/Tviv4PT0dv8?t=6210)
+
+[[tarzan-1999-film|El caso Tarzán]] amplía el corpus polar del canal hacia la **escala familiar e identitaria** — ni mitología cosmogónica (Tolkien) ni distopía civilizatoria (Matrix) sino arquetipo del crecimiento personal vía conjunción.
+
+
 ## Conexión con otros conceptos
 
 - Su culminación interna es el [[hieros-gamos]] (matrimonio sagrado de los opuestos)
