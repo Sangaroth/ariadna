@@ -1,0 +1,155 @@
+{
+  "video_id": "gB5NoYbdZWk",
+  "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [],
+  "_doc_pipeline": "Vídeo es clase 4x02 de la serie pedagógica del canal sobre neurociencia (límbico-cortical e hipocampo, 108 min). El cuerpo es exposición de anatomía/fisiología estándar (CA1-CA4, neurogénesis, vías dopaminérgicas, LTP) con framings canal-específicos puntuales embebidos: 'realismo cognitivo', hipocampo-como-estratega-de-la-amígdala, depresión-como-ausencia-de-motivación, creatividad-como-recombinación, meditación-como-inhibición-bottom-up. Per scope.md §1.2, neurociencia es dominio condicionado: solo IN cuando se aplica como marco. Aquí los framings canal aplican y refinan la tesis ya promovida en golem-de-cobre — la salida natural es enriquecer esa página con pending_updates, no crear synthesis nueva (es clase, no monográfico de tesis; sin marcador 'mi tesis'/'propongo'). No se genera thesis_candidate por esa misma razón.",
+  "pending_updates": [
+    {
+      "target_page_id": "golem-de-cobre",
+      "patch_op": "insert_after_passage",
+      "anchor": "**Hipocampo como índice dinámico**: opera como cajón de fichas (circuitos de reordenamiento) y no como almacén físico de los contenidos.",
+      "new_content": "- **Hipocampo como centralita telefónica de clavijas**: una clase del canal sobre el sistema limbicocortical refina la metáfora del cajón de fichas — el hipocampo opera como una centralita que conecta y desconecta partes del cerebro. La memoria no tiene locus específico: todo el cerebro la almacena, el hipocampo solo gestiona las conexiones. Su arquitectura interna (regiones CA1, CA2, CA3 y CA4 más giro dentado, subículo y corteza entorrinal) sostiene un algoritmo de compresión nocturno: las experiencias del día quedan en el hipocampo anterior y por la noche se codifican comprimidas en el posterior, filtrando lo importante con ayuda de la amígdala. Cuando el hipocampo o sus conexiones aferentes y eferentes se dañan, las personas no aprenden ni recuerdan — un ictus que presione esas conexiones basta para anular la memoria declarativa.\n- **Hipocampo como estratega de la amígdala**: el hipocampo enseña lentamente a la amígdala cómo reaccionar afectivamente; la amígdala ejecuta rápidamente lo que el hipocampo codificó. El TEPT es el caso patológico de ese aprendizaje: una asociación traumática (ruido fuerte = bomba = posición fetal) queda registrada por el hipocampo, pero la amígdala la ejecuta automáticamente sin volver a consultarlo — un bypass desde el córtex asociativo auditivo a la amígdala que evita el procesamiento hipocampal. La terapia EMDR (movimiento ocular) busca forzar al circuito a volver a pasar por el hipocampo mediante ejercicios somáticos que activan vías colinérgicas, separando el recuerdo de su carga amigdalina y redotándolo de otra significación.",
+      "citations": [
+        "youtube:gB5NoYbdZWk#1441",
+        "youtube:gB5NoYbdZWk#1908",
+        "youtube:gB5NoYbdZWk#2150",
+        "youtube:gB5NoYbdZWk#2452",
+        "youtube:gB5NoYbdZWk#2634",
+        "youtube:gB5NoYbdZWk#5615"
+      ],
+      "supersedes_laguna": null,
+      "quote_evidence": "El hipocampo es el estratega que enseña a la amígdala cómo reaccionar; la amígdala ejecuta rápidamente lo que el hipocampo codificó lentamente",
+      "rationale": "El nuevo vídeo despliega la arquitectura interna y el circuito hipocampo-amígdala que la página articulaba más comprimidamente como 'cajón de fichas'. Añade dos piezas nuevas: (a) el modelo hipocampo-como-estratega de la amígdala con TEPT/EMDR como caso clínico ilustrativo, (b) la consolidación día/noche entre hipocampo anterior y posterior como instanciación neuroanatómica del 'algoritmo de compresión'. No duplica contenido — extiende la metáfora hacia patología y arquitectura.",
+      "review_priority": "medium",
+      "review_priority_reason": "Update sustantivo que añade fuente nueva (sources_count 1→2) y supera el origen single-source de la página. Auditar que las atribuciones neuroanatómicas (CA regiones, conexiones aferentes/eferentes) no se presenten como tesis original del canal cuando son neurociencia canon — son piezas técnicas que el canal moviliza dentro de su modelo, no su contribución. EMDR como caso del modelo amígdala-hipocampo sí es framing canal-específico."
+    },
+    {
+      "target_page_id": "golem-de-cobre",
+      "patch_op": "insert_after_passage",
+      "anchor": "**Creatividad como recombinación de fragmentos, no creación ex nihilo**: paralelismo estructural con procesos psicóticos por desinhibición dopamínica — las dos operan sobre el mismo sustrato, distinguiéndose por el grado de inhibición.",
+      "new_content": "- **Las cinco vías dopaminérgicas y la fenomenología de la psicosis**: una clase del canal sobre el sistema limbicocortical despliega el mecanismo neuroquímico. La vía mesolímbica produce los síntomas positivos de la esquizofrenia (alucinaciones, delirios — lo que aparece); la mesocortical, los negativos (pérdida de motivación y capacidad ejecutiva — lo que desaparece); la nigroestriada, los extrapiramidales (temblores, problemas de equilibrio y deambulación); la tuberoinfundibular conecta con la adenohipófisis y bajo neurolépticos genera hiperprolactinemia. Las alucinaciones genuinas emergen cuando el córtex prefrontal dorsolateral no consigue inhibir los disparos espontáneos del sistema límbico — la red de activación por defecto, que es límbica y paralímbica y llena el córtex prefrontal de excitaciones automáticas cuando no se hace nada. La creatividad pura, por simetría, solo sería posible mediante drogas, por hiperexcitación de las vías dopaminérgicas — confirmando que no hay creatividad ex nihilo en el cerebro humano.\n- **Aceite en el motor, no flujo en una tubería**: la clase precisa una cláusula técnica de la crítica al modelo informático de la mente: los neurotransmisores no se desplazan por el cerebro, entran y salen de la misma célula como aceite en un motor. Una vía dopaminérgica es una carretera de neuronas que usan dopamina como neurotransmisor, no un flujo de dopamina circulante. El error categorial de las metáforas informáticas (memoria como almacén) tiene un análogo en la metáfora hidráulica del neurotransmisor (flujo bañando el cerebro), igualmente incorrecta.",
+      "citations": [
+        "youtube:gB5NoYbdZWk#3839",
+        "youtube:gB5NoYbdZWk#4144",
+        "youtube:gB5NoYbdZWk#4632",
+        "youtube:gB5NoYbdZWk#5769"
+      ],
+      "supersedes_laguna": "**El paralelo creatividad-psicosis por desinhibición dopamínica**: el speaker lo enuncia pero no desarrolla el mecanismo neuroquímico ni cita corrientes específicas (más allá del marco general de las ciencias cognitivas).",
+      "quote_evidence": "La única forma de creatividad pura sería mediante drogas, por hiperexcitación de las vías dopaminérgicas",
+      "rationale": "El vídeo nuevo despliega exactamente el mecanismo neuroquímico que la laguna declaraba ausente: las cinco vías dopaminérgicas con la fenomenología clínica que cada una produce, la red de activación por defecto como sustrato de la alucinación, y la simetría creatividad↔psicosis articulada por nivel de inhibición prefrontal. Además añade una pieza no anticipada: la aclaración de que los neurotransmisores no fluyen por el cerebro — extiende la crítica del modelo informático al modelo hidráulico, refinando la tesis nuclear de la página.",
+      "review_priority": "high",
+      "review_priority_reason": "Supersede directo de una laguna declarada de la página. Auditar especialmente: (a) la atribución 'una clase del canal' es exacta — el vídeo es 4x02 de serie pedagógica, no un monográfico tesis; revisar que la prosa no infle la originalidad de un material que es en gran parte psicofarmacología canon; (b) la frase 'el error categorial de las metáforas informáticas tiene un análogo en la metáfora hidráulica' es síntesis del extractor — el speaker no la articula explícitamente, sólo dice que los NT no se desplazan; revisar si esa síntesis es legítima o si reescribe."
+    }
+  ],
+  "thesis_candidates": [],
+  "_doc_thesis_candidates": "No se genera thesis_candidate. El vídeo es clase 4x02 de serie pedagógica (registro pedagógico-expositivo presente; estructura interna articulada presente) PERO falta el thesis_marker explícito ('mi tesis', 'propongo', 'el modelo que elaboro') que distinguiría una articulación original de la exposición curricular de neuroanatomía estándar. signal_marks_detected = [pedagogic_register, internal_structure] (2 señales) < 3 requeridas en gate auto-promoción §2.4.1. Las piezas canal-específicas (hipocampo-estratega, neuroeconomía-aprendizaje, depresión-como-ausencia-de-motivación, meditación-como-inhibición) caben mejor como enriquecimiento de golem-de-cobre vía pending_updates que como synthesis page propia, dado que ya hay synthesis del canal sobre cognición humana.",
+  "discarded": [
+    {
+      "surface_form": "Realismo cognitivo (etiqueta del canal para su epistemología)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El speaker etiqueta su posición epistemológica con esta expresión al matizar la clasificación de los cuatro tipos de memoria. Una sola aparición, sin desarrollo. No alcanza criterio de promoción a concept — sería candidato si reapareciera articulado en otros vídeos como marco metodológico declarado.",
+      "quote_evidence": "En el realismo cognitivo se considera que esta clasificación es útil pero no agota las funciones de la memoria",
+      "review_priority": "medium",
+      "review_priority_reason": "Etiqueta candidata a auto-denominación epistemológica del canal. Si reaparece en otros vídeos como marco aplicado ('en realismo cognitivo nosotros decimos…') sería thesis_candidate. Vigilar reaparición.",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Depresión como ausencia de motivación (no tristeza) — modelo serotoninérgico-prefrontal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tratamiento sostenido de ~5 min con framing canal-específico ('La depresión no es tristeza sino ausencia de motivación') y articulación neurobiológica del modelo (vías serotoninérgicas → priorización prefrontal de objetivos, autoimagen regulada por serotonina, hipomanía por exceso). No alcanza minutos sustained ni connectivity para promote a concept; tampoco encaja como entity_work. Si reaparece desarrollado podría ser thesis_candidate o página concept tipo 'modelo-depresion-canal'.",
+      "quote_evidence": "La depresión no es tristeza sino ausencia de motivación: las vías serotoninérgicas no consiguen que el córtex prefrontal priorice objetivos",
+      "review_priority": "medium",
+      "review_priority_reason": "Definición sustantiva canal-específica de psicopatología (paralela a 'consumismo no es crítica al capitalismo'). Vigilar reaparición — si el canal mantiene esta tesis ('depresión = motivacional, no afectiva') en más vídeos, merece concept o thesis_candidate.",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Neuroeconomía del aprendizaje (semántico vs episódico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Acuñación didáctica del canal sobre el rendimiento mnemonic del estudio textual frente al vivencial. Framing puntual ilustrativo, no concepto desarrollado. No alcanza criterios de promoción.",
+      "quote_evidence": "La neuroeconomía del aprendizaje: un estudiante de Medicina aprende 650 nombres en una fracción del tiempo que un jugador de Pokémon",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Meditación como control inhibitorio voluntario sobre procesos bottom-up",
+      "reason_code": "passing_mention",
+      "reason_detail": "El canal articula la meditación operacionalmente: 'el procedimiento por el que se intenta lograr el mayor control inhibitorio voluntario sobre los procesos espontáneos bottom-up'. Definición canal-específica clara pero exposición breve (~7 min). Potencial thesis_candidate si reaparece — encaja con la lane top-down/bottom-up ya promovida en golem-de-cobre. Por ahora passing_mention.",
+      "quote_evidence": "Meditar es el procedimiento por el que se intenta lograr el mayor control inhibitorio voluntario sobre los procesos espontáneos bottom-up",
+      "review_priority": "medium",
+      "review_priority_reason": "Definición operacional canal-específica de meditación que naturalmente conecta con la tesis del filtro top-down de golem-de-cobre. Si reaparece, evaluar si entra como sub-bullet de la página existente o si merece concept propio (atención/consciencia).",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "TEPT como bypass amígdala-córtex y EMDR como reconducción al hipocampo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "TEPT y EMDR son entidades clínicas estándar; el canal las moviliza como caso ilustrativo del modelo hipocampo-estratega-amígdala. Per scope.md §1.2, conceptos técnicos no son objetos enciclopédicos del wiki — son herramientas. Se enrichece golem-de-cobre vía pending_update_1 sin crear página autónoma.",
+      "quote_evidence": "La terapia de movimiento ocular (EMDR) busca que el bypass córtex-amígdala del TEPT vuelva a pasar por el hipocampo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Cinco vías dopaminérgicas y fenomenología de la esquizofrenia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Anatomía y farmacología estándar (mesolímbica, mesocortical, nigroestriada, tuberoinfundibular + síntomas positivos/negativos). El canal la moviliza como caso del paralelo creatividad-psicosis por desinhibición dopamínica. Per scope.md §1.2 no es página autónoma; ya canalizado al pending_update_2 que supersedes una laguna explícita.",
+      "quote_evidence": "La vía mesolímbica causa los síntomas positivos de la esquizofrenia (lo que aparece: alucinaciones, delirios)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Arquitectura interna del hipocampo (CA1-CA4, giro dentado, neurogénesis, LTP)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Neuroanatomía e histología canon (regiones CA1-4, células piramidales, células granulares, neurogénesis hipocampal, espinas dendríticas, potenciación a largo plazo). Per scope.md §1.2 estructura cerebral no es objeto enciclopédico del wiki. Movilizado por el canal como sustrato del modelo hipocampo-centralita; canalizado vía pending_update_1.",
+      "quote_evidence": "El hipocampo estricto comprende las regiones CA1, CA2, CA3 y CA4, formadas por células piramidales alternadas con células granulares",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Memoria procedimental, episódica y semántica como tipos diferenciados",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tipología canónica de memoria (Tulving y derivados). Ya cubierta explícitamente en golem-de-cobre como 'Módulos de memoria diferenciados'. No requiere update.",
+      "quote_evidence": "La memoria procedimental (implícita) codifica secuencias de acciones sin consciencia, como montar en bici o coger un vaso",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Imaginación como recombinación simultánea de fragmentos mnésicos",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Refrasea la tesis ya presente en golem-de-cobre ('Creatividad como recombinación de fragmentos, no creación ex nihilo'). El nuevo vídeo añade el mecanismo dopaminérgico que la página declaraba como laguna — eso ya lo absorbe pending_update_2. Esta entrada se descarta como duplicado.",
+      "quote_evidence": "La imaginación es una recreación simultánea de distintos momentos cerebrales para crear algo nuevo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Red de activación por defecto / sueño lúcido / alucinaciones conscientes vs inconscientes",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Conceptos de neurociencia cognitiva canon (default mode network, lucid dreaming) movilizados como casos del modelo top-down/bottom-up. No autonomía wiki. Una pieza menor —'la diferencia entre sueño lúcido y no lúcido es hipocampal'— es framing canal-específico breve, pero insuficiente para promoción.",
+      "quote_evidence": "La red de activación por defecto es límbica y paralímbica, y llena el córtex prefrontal de excitaciones automáticas cuando no hacemos nada",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

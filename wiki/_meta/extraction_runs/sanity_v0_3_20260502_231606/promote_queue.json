@@ -3,6 +3,138 @@
   "run_id": "sanity_v0_3_20260502_231606",
   "items": [
     {
+      "canonical_guess": "campbell-joseph",
+      "from_video": "IytpR6sGWXg",
+      "entity": {
+        "surface_form": "Joseph Campbell",
+        "canonical_guess": "campbell-joseph",
+        "page_type": "author",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 1.5,
+        "framing_marks": [
+          {
+            "mark_type": "foundational_invocation",
+            "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Para comprender arquetipos es mejor leer a Campbell que a Jung, porque Jung tiene una complejidad innecesaria para ese propósito,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": true,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §4 + canonical_whitelist auto_promote=true. El speaker articula la tesis central de Campbell (monomito como base de la relación mitología-psique), lo posiciona explícitamente por encima de Jung para la comprensión arquetípica, y lo cita en la síntesis final como uno de los cuatro autores fundamentales del canal en este dominio. Además, viaje-heroe.md ya declara relations developed_by→campbell-joseph (target hoy roto): la promoción cierra ese wikilink pendiente.",
+        "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,"
+      }
+    },
+    {
+      "canonical_guess": "eliade-mircea",
+      "from_video": "IytpR6sGWXg",
+      "entity": {
+        "surface_form": "Mircea Eliade",
+        "canonical_guess": "eliade-mircea",
+        "page_type": "author",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 1.0,
+        "framing_marks": [
+          {
+            "mark_type": "foundational_invocation",
+            "quote_evidence": "Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Las narrativas culturales no son solo una solución colectiva para la convivencia, sino una necesidad de la psique individual para el mantenimiento de la cordura,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Habla de la estructura arquetípica incluida en los mitos y la capacidad de la psique para la elaboración del mito,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": true,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §4 + canonical_whitelist auto_promote=true. El speaker no se limita a recomendar a Eliade bibliográficamente sino que articula su tesis específica (el impulso mítico como necesidad psíquica individual, no solo solución colectiva), lo posiciona como más accesible que Campbell, y lo cita en la síntesis final como uno de los cuatro autores fundamentales. Página esperada en cualquier corpus que trate mitología comparada.",
+        "quote_evidence": "Las narrativas culturales no son solo una solución colectiva para la convivencia, sino una necesidad de la psique individual para el mantenimiento de la cordura,"
+      }
+    },
+    {
+      "canonical_guess": "frazer-james-george",
+      "from_video": "IytpR6sGWXg",
+      "entity": {
+        "surface_form": "James George Frazer",
+        "canonical_guess": "frazer-james-george",
+        "page_type": "author",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 1.5,
+        "framing_marks": [
+          {
+            "mark_type": "foundational_invocation",
+            "quote_evidence": "es importantísimo para comprender cómo funciona el pensamiento poético,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Frazer postula una teoría sobre la relación entre magia, religión y el mito herculeo,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "En Frazer se ve cómo funciona intuitivamente la estructura arquetípica de la psique humana,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": true,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §4 — whitelist soft (frazer-james-george). El gate ANY-OF requiere ≥1 criterio adicional sobre la mera presencia en whitelist: aquí el speaker articula la tesis específica de Frazer (relación magia/religión/mito herculeo), declara su importancia foundational para el pensamiento poético del canal y le atribuye revelación intuitiva de la estructura arquetípica. Eso satisface 'foundational citation' del gate §2.2. Es el antecesor obligado de Campbell y Eliade en mitología comparada.",
+        "quote_evidence": "Frazer postula una teoría sobre la relación entre magia, religión y el mito herculeo,"
+      }
+    },
+    {
+      "canonical_guess": "tarot-arquetipico",
+      "from_video": "IytpR6sGWXg",
+      "entity": {
+        "surface_form": "tarot",
+        "canonical_guess": "tarot-arquetipico",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 2.0,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El tarot son plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Es importante estudiarlo como sistema de elaboración proyectiva y de significado universal, no como magia,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Los oráculos (tarot, I Ching) son herramientas de interpretación proyectiva donde la mente no puede evitar proyectar sobre los arquetipos,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": true,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §4 — whitelist soft (tarot-arquetipico). El gate ANY-OF se satisface con: (a) framing-mark explícito que define el tarot como plasmación visual de arquetipos no como magia, (b) articulación de mecanismo proyectivo (extiende la lectura a I Ching como categoría 'oráculos'), (c) un libro entero ('Jung y el tarot') recomendado expresamente para fijar la lectura junguiana del tarot. Suma exposición sostenida ~2 min con marco propio aplicado, no exposición técnica neutra.",
+        "quote_evidence": "El tarot son plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias,"
+      }
+    },
+    {
       "canonical_guess": "cuento-de-navidad-muppets-1992-film",
       "from_video": "s0MkondMt1o",
       "entity": {

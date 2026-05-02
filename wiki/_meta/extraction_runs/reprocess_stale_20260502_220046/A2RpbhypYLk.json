@@ -1,0 +1,277 @@
+{
+  "video_id": "A2RpbhypYLk",
+  "video_title": "Biblioteca de Babel I: Ciencia",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Vídeo es bibliografía recomendada del canal (Biblioteca de Babel I): catálogo de manuales de ciencia. Ningún libro/autor aquí cumple criterios §2.1-2.5 — no son objeto de análisis arquetípico ni el speaker articula tesis sobre ellos. Toda la lista va a recommended_reference por §3.4.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Steven Pinker — El instinto del lenguaje / La tabla rasa",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Pinker presentado como puerta de entrada divulgativa a la neuropsicología; el speaker no aplica su marco ni articula tesis sobre él. Recomendación bibliográfica de iniciación.",
+      "quote_evidence": "Steven Pinker como puerta de entrada a la neuropsicología",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual divulgativo de neuropsicología",
+        "book_title": "El instinto del lenguaje / La tabla rasa",
+        "authors": [
+          "Steven Pinker"
+        ],
+        "domain": "psicología cognitiva / neuropsicología divulgativa",
+        "why_recommended": "Puerta de entrada al enfoque neuropsicológico para estudiar la naturaleza humana; argumentación de claridad meridiana, divulgativos, sencillos de leer",
+        "timestamp_seconds": 124
+      }
+    },
+    {
+      "surface_form": "Richard Dawkins (sobre causalidad genética)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Dawkins recomendado por su tratamiento de la causalidad genética y la distinción determinación/causación; el speaker no expone su pensamiento sustantivamente, lo presenta como antídoto contra heurísticas intuitivas.",
+      "quote_evidence": "Richard Dawkins y el problema de la causalidad genética",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Recomendación divulgativa sobre genética conductual",
+        "book_title": "(obra no especificada de Richard Dawkins sobre causalidad genética)",
+        "authors": [
+          "Richard Dawkins"
+        ],
+        "domain": "biología evolutiva / genética conductual",
+        "why_recommended": "Mezcla el enfoque determinista de la genética con la distinción entre determinación y causación; corrige la heurística intuitiva con que confundimos conveniencia con causalidad",
+        "timestamp_seconds": 245
+      }
+    },
+    {
+      "surface_form": "Manuales de biología de 2º de bachillerato",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Recomendación pedagógica genérica como base imprescindible; no es libro singular sino categoría de material de iniciación.",
+      "quote_evidence": "Manuales de biología de bachillerato como base imprescindible",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Material introductorio recomendado",
+        "book_title": "Manuales de biología de 2º de bachillerato (cuanto más antiguos, mejor)",
+        "authors": [],
+        "domain": "biología general (nivel introductorio)",
+        "why_recommended": "Cortos, concisos, bien explicados y adaptados para quien no tiene base previa; mejor iniciación en conceptos básicos",
+        "timestamp_seconds": 397
+      }
+    },
+    {
+      "surface_form": "Bioquímica de Panamericana",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual técnico recomendado para estudio y consulta de bioquímica/genética/celular; no hay análisis aplicado.",
+      "quote_evidence": "Bioquímica de Panamericana como manual de consulta",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual técnico de consulta",
+        "book_title": "Bioquímica (editorial Panamericana)",
+        "authors": [],
+        "domain": "bioquímica / biología celular / genética",
+        "why_recommended": "Cubre cuestión química, genética y celular de forma muy completa; útil para síntesis de ATP, ciclos celulares, estructuras moleculares y nomenclatura",
+        "timestamp_seconds": 457
+      }
+    },
+    {
+      "surface_form": "Neuroanatomía clínica y neurociencia (Elsevier, Student Consult)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual técnico de neuroanatomía recomendado como pieza clave del estudio biológico; no se aplica como marco interpretativo.",
+      "quote_evidence": "Neuroanatomía clínica y neurociencia de Elsevier (Student Consult)",
+      "review_priority": "medium",
+      "review_priority_reason": "El speaker lo califica como 'absolutamente imprescindible' y 'uno de los mejores libros de la parte científica'; señala su peso en la base bibliográfica del canal",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual técnico imprescindible de neuroanatomía",
+        "book_title": "Neuroanatomía clínica y neurociencia (Student Consult, Elsevier)",
+        "authors": [],
+        "domain": "neuroanatomía / neurociencia",
+        "why_recommended": "Contiene toda la neuroanatomía y neurociencia encefálica con neurología funcional periférica; fotos reales, dibujos espectaculares, material web y autoevaluación; uno de los mejores libros de la parte científica, absolutamente imprescindible",
+        "timestamp_seconds": 548
+      }
+    },
+    {
+      "surface_form": "Psicobiología (Redolar, Panamericana)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual integrador recomendado por el canal; el speaker califica al autor como referencia española del campo, sin desarrollar su pensamiento como marco aplicado.",
+      "quote_evidence": "Psicobiología de Panamericana (Redolar) como alternativa integradora",
+      "review_priority": "medium",
+      "review_priority_reason": "Redolar declarado por el speaker como uno de los mejores autores de España en psicobiología — recurrente en bibliografía del canal (aparece dos veces en este vídeo: psicobiología y neurociencia cognitiva)",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual integrador recomendado",
+        "book_title": "Psicobiología (Panamericana)",
+        "authors": [
+          "Diego Redolar Ripoll"
+        ],
+        "domain": "psicobiología",
+        "why_recommended": "Contiene lo justo de bioquímica, psicología, neurociencia y genética en un solo volumen; buen resumen de los manuales anteriores; Redolar es uno de los mejores autores de España en psicobiología",
+        "timestamp_seconds": 639
+      }
+    },
+    {
+      "surface_form": "Neurociencia afectiva (Jaak Panksepp)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual técnico explícitamente listado en scope.md §3.4 como caso paradigmático de recommended_reference. El speaker lo presenta como mejor compendio del campo, sin aplicarlo como marco propio en este vídeo.",
+      "quote_evidence": "Neurociencia afectiva de Jaak Panksepp: la raíz biológica de la afectividad",
+      "review_priority": "medium",
+      "review_priority_reason": "Identificado por el speaker como 'mejor compendio existente de biología de la afectividad'; el enfoque evolutivo que articula es 'tremendamente importante' — base potencial del marco neurocientífico del canal",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual técnico de referencia en neurociencia afectiva",
+        "book_title": "Neurociencia afectiva",
+        "authors": [
+          "Jaak Panksepp"
+        ],
+        "domain": "neurociencia afectiva / biología de las emociones",
+        "why_recommended": "Mejor compendio existente de biología de la afectividad; en inglés, denso y técnico; centrado en el enfoque evolutivo, tremendamente importante",
+        "timestamp_seconds": 730
+      }
+    },
+    {
+      "surface_form": "Neurociencia cognitiva (Redolar, Panamericana)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual técnico declarado por el speaker como 'biblia de la parte biológica del canal' — fundamento bibliográfico del marco neurocientífico aplicado en otros vídeos. Va a la lane recommended_reference por §3.4 (no se promueve como página autónoma) pero con review_priority alto por su peso meta-pedagógico.",
+      "quote_evidence": "Neurociencia cognitiva de Redolar (Panamericana): la biblia de la parte biológica del canal",
+      "review_priority": "high",
+      "review_priority_reason": "Auto-declarado por el speaker como manual fundacional de su formación neurocientífica ('Es el manual con el que el autor empezó en neurociencias y lo que ha estudiado para el canal'). Señala la base empírica de toda la lane biológica del corpus — relevante para entender la genealogía intelectual del canal y referenciar desde golem-de-cobre y diagrama-de-proxy.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual fundacional de la lane biológica del canal",
+        "book_title": "Neurociencia cognitiva (Panamericana)",
+        "authors": [
+          "Diego Redolar Ripoll"
+        ],
+        "domain": "neurociencia cognitiva",
+        "why_recommended": "Psicobiología enfocada desde el punto de vista más neurológico; resume todos los libros anteriores incluyendo a Panksepp; el manual con el que el autor del canal empezó en neurociencias y lo que ha estudiado para el canal",
+        "timestamp_seconds": 820
+      }
+    },
+    {
+      "surface_form": "Manual de psiquiatría de Vallejo-Ruiloba",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual clínico recomendado para psicopatología y psiquiatría; el speaker lo presenta como prerrequisito para usar el DSM-5 con sentido.",
+      "quote_evidence": "Manual de psiquiatría de Vallejo-Ruiloba: medicina de la psique",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual clínico de psiquiatría",
+        "book_title": "Manual de psiquiatría (Vallejo-Ruiloba)",
+        "authors": [
+          "Julio Vallejo Ruiloba"
+        ],
+        "domain": "psiquiatría / psicopatología",
+        "why_recommended": "Introducción a psicopatología y psiquiatría; sirve para MIR y PIR; cubre neuropsicología, psicopatología, demencias y todo el espectro del pathos; necesario antes de poder usar el DSM-5 con sentido",
+        "timestamp_seconds": 881
+      }
+    },
+    {
+      "surface_form": "DSM-5",
+      "reason_code": "recommended_reference",
+      "reason_detail": "DSM-5 mencionado explícitamente en scope.md §3.4 como caso de recommended_reference. El speaker advierte que no sirve aislado sin marco psicopatológico previo — es referencia técnica, no objeto de análisis.",
+      "quote_evidence": "El DSM-5 solo contiene criterios diagnósticos que no sirven sin comprender qué son las patologías",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual diagnóstico de referencia",
+        "book_title": "DSM-5 (Manual diagnóstico y estadístico de los trastornos mentales)",
+        "authors": [
+          "American Psychiatric Association"
+        ],
+        "domain": "psiquiatría / nosología clínica",
+        "why_recommended": "Contiene criterios diagnósticos; mencionado como referencia que requiere marco psicopatológico previo (vía Vallejo-Ruiloba) para uso con sentido",
+        "timestamp_seconds": 881
+      }
+    },
+    {
+      "surface_form": "Pictures of the Mind (Ginsburg, Blanca y Auzqui)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Libro divulgativo recomendado, pero el speaker señala una afinidad metodológica explícita con la pedagogía del canal ('hablar de la conciencia mediante textos que te hacen experimentar el problema'). No promueve página entity_work porque no se aplica como marco analítico, pero el paralelismo metodológico es relevante.",
+      "quote_evidence": "Hace algo muy parecido a lo que hace el canal: hablar de la conciencia mediante textos que te hacen experimentar el problema",
+      "review_priority": "high",
+      "review_priority_reason": "El speaker articula afinidad metodológica explícita con la pedagogía del canal: 'La aproximación correcta al estudio de la conciencia es elegir las preguntas correctas, no buscar respuestas directas'. Esto declara una posición epistemológica del canal sobre el estudio de la conciencia que podría enriquecer una futura página de método o convertirse en thesis_candidate si reaparece desarrollada en otros vídeos.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Divulgación afín al método pedagógico del canal",
+        "book_title": "Pictures of the Mind",
+        "authors": [
+          "Ginsburg",
+          "Blanca",
+          "Auzqui"
+        ],
+        "domain": "filosofía de la mente / divulgación de la conciencia",
+        "why_recommended": "Mezcla cuento y divulgación sobre el imaginario y la conciencia con ilustraciones simbólicas; tremendamente didáctico, cada texto invita a experimentar el problema que expone; afinidad metodológica con el canal (experimentar la pregunta antes que buscar respuestas)",
+        "timestamp_seconds": 1004
+      }
+    },
+    {
+      "surface_form": "Hamilton — Lógica para matemáticos",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual técnico de lógica formal explícitamente listado en scope.md §3.4 como caso de recommended_reference. Manual avanzado, no aplicado como marco en este vídeo.",
+      "quote_evidence": "Hamilton: Lógica para matemáticos como biblia de la lógica formal",
+      "review_priority": "medium",
+      "review_priority_reason": "Calificado como 'biblia de la lógica formal' y 'libro para toda la vida'; abarca desde teoría de grupos hasta Gödel — base potencial de futuras tesis del canal sobre lógica y psique",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual técnico de lógica formal",
+        "book_title": "Lógica para matemáticos",
+        "authors": [
+          "A. G. Hamilton"
+        ],
+        "domain": "lógica formal / matemáticas",
+        "why_recommended": "Demostración formal de lo que es una estructura lógica mediante estructuras lógicas; abarca desde teoría de grupos hasta Gödel, todo demostrado paso a paso; altísimo nivel, libro para toda la vida",
+        "timestamp_seconds": 1155
+      }
+    },
+    {
+      "surface_form": "Lenguaje matemático, conjuntos y números (UNED)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual de teoría de grupos recomendado como entrada accesible. El speaker articula brevemente por qué la teoría de grupos importa al canal ('explica las funciones cognitivas más básicas: categorizaciones y relaciones') pero no la desarrolla — frase pendiente de tesis pero sin desarrollo en este vídeo.",
+      "quote_evidence": "Lenguaje matemático, conjuntos y números (UNED): teoría de grupos accesible",
+      "review_priority": "medium",
+      "review_priority_reason": "El speaker ancla la utilidad pedagógica del libro en una afirmación cognitiva del canal ('La teoría de grupos es clave porque explica las funciones cognitivas más básicas: categorizaciones y relaciones'). Si esa tesis reaparece desarrollada en otro vídeo, conecta con la lane cognitiva del canal (golem-de-cobre).",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Manual UNED de iniciación a teoría de grupos",
+        "book_title": "Lenguaje matemático, conjuntos y números",
+        "authors": [],
+        "domain": "matemáticas / teoría de grupos",
+        "why_recommended": "Manual de primer año UNED; explica toda la teoría de grupos y su relación con funciones y espacios; toca incluso topología y teoría de números; más sencillo que el Hamilton, empieza a nivel de bachillerato",
+        "timestamp_seconds": 1247
+      }
+    },
+    {
+      "surface_form": "Gödel, Escher, Bach (Hofstadter)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención bibliográfica con tesis embrionaria pero sin desarrollo — caso explícitamente listado en scope.md §3.4 como passing_mention con review_priority: medium. El speaker articula apuntes sustantivos ('estructuras formales son un lenguaje elaborado por la psique para explicarse a sí misma', 'el problema central es la recursividad y autorreferencia de la psique') pero sin desplegar marco propio.",
+      "quote_evidence": "Gödel, Escher, Bach de Hofstadter: la lógica intrínseca a la psique",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis embrionaria del canal sobre relación lógica formal / psique: 'Las estructuras formales son un lenguaje elaborado por la psique para explicarse a sí misma' y 'El problema central es la recursividad y autorreferencia de la psique'. Si esto reaparece desarrollado en vídeo monográfico, sería thesis_candidate (potencialmente conectado con golem-de-cobre).",
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

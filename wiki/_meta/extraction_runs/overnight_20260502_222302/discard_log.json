@@ -1,135 +1,617 @@
 {
   "version": "0.1.0",
-  "run_id": "sanity_v0_3_20260502_231606",
+  "run_id": "overnight_20260502_222302",
   "generated_at": "2026-05-02T21:56:41+00:00",
   "entities": {
-    "campbell-joseph": {
-      "canonical_name": "Joseph Campbell",
-      "page_type": "author",
+    "Biblioteca de Babel": {
+      "canonical_name": "Biblioteca de Babel",
+      "page_type": null,
       "occurrences": [
         {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": "secondary",
-          "minutes": 1.5,
-          "framing_marks_count": 3,
-          "decision": "promote_new",
-          "decision_reason": "scope.md §4 + canonical_whitelist auto_promote=true. El speaker articula la tesis central de Campbell (monomito como base de la relación mitología-psique), lo posiciona explícitamente por encima de Jung para la comprensión arquetípica, y lo cita en la síntesis final como uno de los cuatro autores fundamentales del canal en este dominio. Además, viaje-heroe.md ya declara relations developed_by→campbell-joseph (target hoy roto): la promoción cierra ese wikilink pendiente.",
-          "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,"
-        }
-      ],
-      "is_canonical_external": true,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "promote_new"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 1.5,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "eliade-mircea": {
-      "canonical_name": "Mircea Eliade",
-      "page_type": "author",
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": "secondary",
-          "minutes": 1.0,
-          "framing_marks_count": 3,
-          "decision": "promote_new",
-          "decision_reason": "scope.md §4 + canonical_whitelist auto_promote=true. El speaker no se limita a recomendar a Eliade bibliográficamente sino que articula su tesis específica (el impulso mítico como necesidad psíquica individual, no solo solución colectiva), lo posiciona como más accesible que Campbell, y lo cita en la síntesis final como uno de los cuatro autores fundamentales. Página esperada en cualquier corpus que trate mitología comparada.",
-          "quote_evidence": "Las narrativas culturales no son solo una solución colectiva para la convivencia, sino una necesidad de la psique individual para el mantenimiento de la cordura,"
-        }
-      ],
-      "is_canonical_external": true,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "promote_new"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 1.0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "frazer-james-george": {
-      "canonical_name": "James George Frazer",
-      "page_type": "author",
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": "secondary",
-          "minutes": 1.5,
-          "framing_marks_count": 3,
-          "decision": "promote_new",
-          "decision_reason": "scope.md §4 — whitelist soft (frazer-james-george). El gate ANY-OF requiere ≥1 criterio adicional sobre la mera presencia en whitelist: aquí el speaker articula la tesis específica de Frazer (relación magia/religión/mito herculeo), declara su importancia foundational para el pensamiento poético del canal y le atribuye revelación intuitiva de la estructura arquetípica. Eso satisface 'foundational citation' del gate §2.2. Es el antecesor obligado de Campbell y Eliade en mitología comparada.",
-          "quote_evidence": "Frazer postula una teoría sobre la relación entre magia, religión y el mito herculeo,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": true,
-      "decisions_seen": [
-        "promote_new"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 1.5,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "tarot-arquetipico": {
-      "canonical_name": "tarot",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": "secondary",
-          "minutes": 2.0,
-          "framing_marks_count": 3,
-          "decision": "promote_new",
-          "decision_reason": "scope.md §4 — whitelist soft (tarot-arquetipico). El gate ANY-OF se satisface con: (a) framing-mark explícito que define el tarot como plasmación visual de arquetipos no como magia, (b) articulación de mecanismo proyectivo (extiende la lectura a I Ching como categoría 'oráculos'), (c) un libro entero ('Jung y el tarot') recomendado expresamente para fijar la lectura junguiana del tarot. Suma exposición sostenida ~2 min con marco propio aplicado, no exposición técnica neutra.",
-          "quote_evidence": "El tarot son plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": true,
-      "decisions_seen": [
-        "promote_new"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 2.0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "lovecraft-howard": {
-      "canonical_name": "Lovecraft",
-      "page_type": "author",
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": "passing_mention",
-          "minutes": 1.0,
-          "framing_marks_count": 1,
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "Página lovecraft-howard.md ya existe y ya cita literalmente este vídeo (líneas 59-60 y 134, citation list línea 168) con la frase de Valdemar y la mención de Bloodborne como reelaboración. Sin material nuevo que añadir.",
-          "quote_evidence": "No es estrictamente semiótica pero es absolutamente imprescindible para introducirse en la naturaleza del imaginario humano,"
+          "decision_reason": "promo",
+          "quote_evidence": "Serie de vídeos en Patreon con libros organizados por áreas de conocimiento,",
+          "review_priority_hint": "low"
         }
       ],
-      "is_canonical_external": true,
+      "is_canonical_external": false,
       "is_in_whitelist_soft": false,
       "decisions_seen": [
         "discard"
       ],
       "occurrences_count": 1,
-      "total_minutes": 1.0,
-      "review_priority": "high",
-      "review_priority_reason": "canonical_external + at_least_one_discard"
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
     },
-    "Mapas de sentido (Peterson)": {
-      "canonical_name": "Mapas de sentido (Peterson)",
+    "Steven Pinker": {
+      "canonical_name": "Steven Pinker",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "*El instinto del lenguaje* como ejemplo del enfoque neuropsicológico para estudiar la naturaleza humana,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El instinto del lenguaje": {
+      "canonical_name": "El instinto del lenguaje",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "*El instinto del lenguaje* como ejemplo del enfoque neuropsicológico para estudiar la naturaleza humana,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La tabla rasa": {
+      "canonical_name": "La tabla rasa",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "*La tabla rasa* es esencial por la claridad meridiana de sus argumentos sobre la naturaleza humana,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Richard Dawkins": {
+      "canonical_name": "Richard Dawkins",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Dawkins mezcla el enfoque determinista de la genética con la distinción entre determinación y causación,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Manuales de biología de 2º de bachillerato": {
+      "canonical_name": "Manuales de biología de 2º de bachillerato",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Los manuales de biología de 2º de bachillerato (cuanto más antiguos, mejor) son la mejor iniciación en conceptos básicos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Bioquímica de Panamericana": {
+      "canonical_name": "Bioquímica de Panamericana",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Cubre cuestión química, genética y celular de forma muy completa,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Neuroanatomía clínica y neurociencia (Elsevier / Student Consult)": {
+      "canonical_name": "Neuroanatomía clínica y neurociencia (Elsevier / Student Consult)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Contiene toda la neuroanatomía y neurociencia encefálica con neurología funcional periférica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Psicobiología de Panamericana (Redolar)": {
+      "canonical_name": "Psicobiología de Panamericana (Redolar)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Contiene lo justo de bioquímica, psicología, neurociencia y genética en un solo volumen,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Diego Redolar": {
+      "canonical_name": "Diego Redolar",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Redolar es uno de los mejores autores de España en psicobiología,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Jaak Panksepp": {
+      "canonical_name": "Jaak Panksepp",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Mejor compendio existente de biología de la afectividad,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Neurociencia afectiva (Panksepp)": {
+      "canonical_name": "Neurociencia afectiva (Panksepp)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Mejor compendio existente de biología de la afectividad,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Neurociencia cognitiva (Redolar, Panamericana)": {
+      "canonical_name": "Neurociencia cognitiva (Redolar, Panamericana)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Es básicamente psicobiología enfocada desde el punto de vista más neurológico,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Manual de psiquiatría de Vallejo-Ruiloba": {
+      "canonical_name": "Manual de psiquiatría de Vallejo-Ruiloba",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Introducción a la psicopatología y psiquiatría, sirve tanto para MIR como para PIR,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "DSM-5": {
+      "canonical_name": "DSM-5",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El DSM-5 solo contiene criterios diagnósticos que no sirven sin comprender qué son las patologías,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pictures of the Mind (Ginsburg, Blanca y Auzqui)": {
+      "canonical_name": "Pictures of the Mind (Ginsburg, Blanca y Auzqui)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Libro que mezcla cuento y divulgación sobre el imaginario y la conciencia con ilustraciones simbólicas,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hamilton: Lógica para matemáticos": {
+      "canonical_name": "Hamilton: Lógica para matemáticos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Contiene la demostración formal de lo que es una estructura lógica mediante estructuras lógicas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lenguaje matemático, conjuntos y números (UNED)": {
+      "canonical_name": "Lenguaje matemático, conjuntos y números (UNED)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Manual de primer año de matemáticas que explica toda la teoría de grupos y su relación con funciones y espacios,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gödel, Escher, Bach (Hofstadter)": {
+      "canonical_name": "Gödel, Escher, Bach (Hofstadter)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Libro divulgativo (no manual) sobre las estructuras formales vinculadas a la psique,",
+          "review_priority_hint": "medium"
+        },
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Douglas Hofstadter": {
+      "canonical_name": "Douglas Hofstadter",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Gödel, Escher, Bach de Hofstadter: la lógica intrínseca a la psique",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Kurt Gödel": {
+      "canonical_name": "Kurt Gödel",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Abarca desde teoría de grupos hasta Gödel, todo demostrado paso a paso,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "campbell-joseph": {
+      "canonical_name": "campbell-joseph",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "promote_new",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "eliade-mircea": {
+      "canonical_name": "eliade-mircea",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "promote_new",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Biblioteca de Babel (serie)": {
+      "canonical_name": "Biblioteca de Babel (serie)",
       "page_type": null,
       "occurrences": [
         {
@@ -139,8 +621,34 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
-          "quote_evidence": "Peterson fue el primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica,",
+          "decision_reason": "promo",
+          "quote_evidence": "Los libros recomendados se dividen en semiótica estricta, simbolismo aplicable, y contenido mitológico que climatiza la mente al pensamiento poético,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pensamiento poético": {
+      "canonical_name": "pensamiento poético",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El pensamiento poético es la mejor forma de denominar la parte literaria de la semiótica,",
           "review_priority_hint": "high"
         }
       ],
@@ -154,8 +662,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Tratado de semiótica general (Umberto Eco)": {
-      "canonical_name": "Tratado de semiótica general (Umberto Eco)",
+    "Jordan Peterson": {
+      "canonical_name": "Jordan Peterson",
       "page_type": null,
       "occurrences": [
         {
@@ -165,7 +673,59 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "Peterson fue el primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mapas de sentido": {
+      "canonical_name": "Mapas de sentido",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Peterson fue el primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Umberto Eco": {
+      "canonical_name": "Umberto Eco",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
           "quote_evidence": "A diferencia de Peterson, Eco hace un tratado filosófico, no una síntesis cultural-psicológica,",
           "review_priority_hint": "medium"
         }
@@ -180,8 +740,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "El Héroe de las mil caras": {
-      "canonical_name": "El Héroe de las mil caras",
+    "Tratado de semiótica general": {
+      "canonical_name": "Tratado de semiótica general",
       "page_type": null,
       "occurrences": [
         {
@@ -191,34 +751,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
-          "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,",
-          "review_priority_hint": "medium"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Tú eres eso (Campbell)": {
-      "canonical_name": "Tú eres eso (Campbell)",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "recommended_reference",
-          "quote_evidence": "*Tú eres eso* y *El poder del mito* son especialmente útiles para comprender qué es verdaderamente un arquetipo,",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "A diferencia de Peterson, Eco hace un tratado filosófico, no una síntesis cultural-psicológica,",
           "review_priority_hint": "low"
         }
       ],
@@ -232,8 +766,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "El poder del mito (Campbell)": {
-      "canonical_name": "El poder del mito (Campbell)",
+    "Manly P. Hall": {
+      "canonical_name": "Manly P. Hall",
       "page_type": null,
       "occurrences": [
         {
@@ -243,33 +777,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
-          "quote_evidence": "*Tú eres eso* y *El poder del mito* son especialmente útiles para comprender qué es verdaderamente un arquetipo,",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Las enseñanzas secretas de todos los tiempos (Manly P. Hall)": {
-      "canonical_name": "Las enseñanzas secretas de todos los tiempos (Manly P. Hall)",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
           "quote_evidence": "Muestra la relación entre mito y religión,",
           "review_priority_hint": "low"
         }
@@ -284,8 +792,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "La rama dorada (Frazer)": {
-      "canonical_name": "La rama dorada (Frazer)",
+    "Las enseñanzas secretas de todos los tiempos": {
+      "canonical_name": "Las enseñanzas secretas de todos los tiempos",
       "page_type": null,
       "occurrences": [
         {
@@ -295,7 +803,59 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Son más de mil páginas pero sirve como libro de consulta,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "James George Frazer": {
+      "canonical_name": "James George Frazer",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "En Frazer se ve cómo funciona intuitivamente la estructura arquetípica de la psique humana,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La rama dorada": {
+      "canonical_name": "La rama dorada",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
           "quote_evidence": "Históricamente está rebatida, pero es importantísimo para comprender cómo funciona el pensamiento poético,",
           "review_priority_hint": "medium"
         }
@@ -310,8 +870,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "La Diosa Blanca (Robert Graves)": {
-      "canonical_name": "La Diosa Blanca (Robert Graves)",
+    "Robert Graves": {
+      "canonical_name": "Robert Graves",
       "page_type": null,
       "occurrences": [
         {
@@ -321,8 +881,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
-          "quote_evidence": "La Diosa Blanca es una estructura poético-mitológica con manifestaciones arquetípicas universales que sí existen más allá de la elaboración inventada de Graves,",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "Mientras Frazer se centra en lo masculino (mito herculeo), Graves se centra en lo femenino,",
           "review_priority_hint": "medium"
         }
       ],
@@ -336,8 +896,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "El mito de la diosa (Cashford y Baring)": {
-      "canonical_name": "El mito de la diosa (Cashford y Baring)",
+    "La Diosa Blanca": {
+      "canonical_name": "La Diosa Blanca",
       "page_type": null,
       "occurrences": [
         {
@@ -347,7 +907,59 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La Diosa Blanca es una estructura poético-mitológica con manifestaciones arquetípicas universales que sí existen más allá de la elaboración inventada de Graves,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Jules Cashford": {
+      "canonical_name": "Jules Cashford",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "Todo lo de Cashford merece la pena; es experta en arquetipos de lo femenino,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anne Baring": {
+      "canonical_name": "Anne Baring",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
           "quote_evidence": "Trata la historia de la prehistoria y la historia antigua sobre la transición de arquetipos femeninos a masculinos,",
           "review_priority_hint": "medium"
         }
@@ -362,8 +974,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "El paraíso perdido (Milton)": {
-      "canonical_name": "El paraíso perdido (Milton)",
+    "El mito de la diosa": {
+      "canonical_name": "El mito de la diosa",
       "page_type": null,
       "occurrences": [
         {
@@ -373,7 +985,59 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es lo que la antropología llama la transición mitológica del matriarcado al patriarcado,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "transición matriarcado-patriarcado": {
+      "canonical_name": "transición matriarcado-patriarcado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es lo que la antropología llama la transición mitológica del matriarcado al patriarcado,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "John Milton": {
+      "canonical_name": "John Milton",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
           "quote_evidence": "*El paraíso perdido* de Milton es imprescindible,",
           "review_priority_hint": "low"
         }
@@ -388,8 +1052,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "La Divina Comedia (Dante)": {
-      "canonical_name": "La Divina Comedia (Dante)",
+    "El paraíso perdido": {
+      "canonical_name": "El paraíso perdido",
       "page_type": null,
       "occurrences": [
         {
@@ -399,7 +1063,59 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "*El paraíso perdido* de Milton es imprescindible,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Dante Alighieri": {
+      "canonical_name": "Dante Alighieri",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La mitología de Dante es una elaboración propia con base cristiana, no mitología universal, pero hay que leerla igualmente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La Divina Comedia": {
+      "canonical_name": "La Divina Comedia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
           "quote_evidence": "La mitología de Dante es una elaboración propia con base cristiana, no mitología universal, pero hay que leerla igualmente,",
           "review_priority_hint": "low"
         }
@@ -425,9 +1141,9 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
           "quote_evidence": "Contiene todo el mito, imaginario y simbología existente de la luna, universal y antigua,",
-          "review_priority_hint": "medium"
+          "review_priority_hint": "high"
         }
       ],
       "is_canonical_external": false,
@@ -440,8 +1156,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Tarot (libro de la Biblioteca de Esoterismo)": {
-      "canonical_name": "Tarot (libro de la Biblioteca de Esoterismo)",
+    "tarot (sistema arquetípico)": {
+      "canonical_name": "tarot (sistema arquetípico)",
       "page_type": null,
       "occurrences": [
         {
@@ -451,8 +1167,60 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
-          "quote_evidence": "Recomendable para coleccionistas de libros de semiótica por su cuidada edición,",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "El tarot son plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "I Ching": {
+      "canonical_name": "I Ching",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los oráculos (tarot, I Ching) son herramientas de interpretación proyectiva donde la mente no puede evitar proyectar sobre los arquetipos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tarot (libro Biblioteca de Esoterismo)": {
+      "canonical_name": "Tarot (libro Biblioteca de Esoterismo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es básicamente imaginería, no un tratado teórico,",
           "review_priority_hint": "low"
         }
       ],
@@ -477,7 +1245,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
           "quote_evidence": "Para rastrear la historia antigua del origen de las civilizaciones hay que tener los textos de Qumrán,",
           "review_priority_hint": "low"
         }
@@ -492,8 +1260,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Literatura hermética (recopilaciones íntegras)": {
-      "canonical_name": "Literatura hermética (recopilaciones íntegras)",
+    "Literatura hermética": {
+      "canonical_name": "Literatura hermética",
       "page_type": null,
       "occurrences": [
         {
@@ -503,9 +1271,9 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
           "quote_evidence": "No comprar libros de hermética elaborados por autores modernos porque eso es esoterismo e interpretación libre, no semiótica,",
-          "review_priority_hint": "low"
+          "review_priority_hint": "medium"
         }
       ],
       "is_canonical_external": false,
@@ -529,9 +1297,9 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "passing_mention",
           "quote_evidence": "Es mejor leer a autores junguianos que leer directamente a Jung para empezar a comprenderlo,",
-          "review_priority_hint": "medium"
+          "review_priority_hint": "low"
         }
       ],
       "is_canonical_external": false,
@@ -544,8 +1312,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Alicia en el País de las Maravillas (Lewis Carroll)": {
-      "canonical_name": "Alicia en el País de las Maravillas (Lewis Carroll)",
+    "Lewis Carroll": {
+      "canonical_name": "Lewis Carroll",
       "page_type": null,
       "occurrences": [
         {
@@ -555,7 +1323,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
+          "decision_reason": "promotion_threshold_not_met",
           "quote_evidence": "Lewis Carroll era experto en lógica matemática formal y su obra no es fantasía arbitraria ni aleatoria,",
           "review_priority_hint": "medium"
         }
@@ -570,8 +1338,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "A través del espejo (Lewis Carroll)": {
-      "canonical_name": "A través del espejo (Lewis Carroll)",
+    "Alicia en el País de las Maravillas": {
+      "canonical_name": "Alicia en el País de las Maravillas",
       "page_type": null,
       "occurrences": [
         {
@@ -581,9 +1349,9 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "recommended_reference",
-          "quote_evidence": "Son dos libros: *Alicia en el País de las Maravillas* y *A través del espejo*; muy recomendable para aprender a bucear en las estructuras del inconsciente,",
-          "review_priority_hint": "low"
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+          "review_priority_hint": "medium"
         }
       ],
       "is_canonical_external": false,
@@ -596,8 +1364,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Narrativa completa de Lovecraft (edición Valdemar)": {
-      "canonical_name": "Narrativa completa de Lovecraft (edición Valdemar)",
+    "A través del espejo": {
+      "canonical_name": "A través del espejo",
       "page_type": null,
       "occurrences": [
         {
@@ -607,8 +1375,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "already_captured",
-          "quote_evidence": "Se recomienda la edición de narrativa completa de Valdemar,",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Son dos libros: *Alicia en el País de las Maravillas* y *A través del espejo*; muy recomendable para aprender a bucear en las estructuras del inconsciente,",
           "review_priority_hint": "low"
         }
       ],
@@ -635,58 +1403,6 @@
           "decision": "discard",
           "decision_reason": "already_captured",
           "quote_evidence": "Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft,",
-          "review_priority_hint": "medium"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "pensamiento poético": {
-      "canonical_name": "pensamiento poético",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "El pensamiento poético es la mejor forma de denominar la parte literaria de la semiótica,",
-          "review_priority_hint": "medium"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "semiótica": {
-      "canonical_name": "semiótica",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "established_concept_used_as_example",
-          "quote_evidence": "La semiótica estudia el significado; la poética es la disciplina que elabora o juega artísticamente con el significado,",
           "review_priority_hint": "low"
         }
       ],
@@ -700,8 +1416,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "poética": {
-      "canonical_name": "poética",
+    "Edición de narrativa completa de Valdemar (Lovecraft)": {
+      "canonical_name": "Edición de narrativa completa de Valdemar (Lovecraft)",
       "page_type": null,
       "occurrences": [
         {
@@ -711,8 +1427,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "established_concept_used_as_example",
-          "quote_evidence": "la poética es la disciplina que elabora o juega artísticamente con el significado,",
+          "decision_reason": "already_captured",
+          "quote_evidence": "Se recomienda la edición de narrativa completa de Valdemar,",
           "review_priority_hint": "low"
         }
       ],
@@ -726,8 +1442,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Gödel": {
-      "canonical_name": "Gödel",
+    "Edición de Atalanta (La Luna de Cashford)": {
+      "canonical_name": "Edición de Atalanta (La Luna de Cashford)",
       "page_type": null,
       "occurrences": [
         {
@@ -738,8 +1454,8 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "passing_mention",
-          "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
-          "review_priority_hint": "medium"
+          "quote_evidence": "Edición de Atalanta, cuidada y sólida,",
+          "review_priority_hint": "low"
         }
       ],
       "is_canonical_external": false,
@@ -752,8 +1468,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Hofstadter": {
-      "canonical_name": "Hofstadter",
+    "Síntesis final canon bibliográfico": {
+      "canonical_name": "Síntesis final canon bibliográfico",
       "page_type": null,
       "occurrences": [
         {
@@ -764,8 +1480,8 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "passing_mention",
-          "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
-          "review_priority_hint": "medium"
+          "quote_evidence": "Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson,",
+          "review_priority_hint": "low"
         }
       ],
       "is_canonical_external": false,
@@ -778,19 +1494,45 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Umberto Eco (como referencia teórica para leer a Carroll)": {
-      "canonical_name": "Umberto Eco (como referencia teórica para leer a Carroll)",
+    "ciencias cognitivas (disciplina)": {
+      "canonical_name": "ciencias cognitivas (disciplina)",
       "page_type": null,
       "occurrences": [
         {
-          "video_id": "IytpR6sGWXg",
-          "video_title": "Biblioteca de Babel II",
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
           "depth": null,
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Las ciencias cognitivas estudian los campos científico-técnicos que permiten entender cómo comprendemos y nos relacionamos con el mundo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tipología de IA (débil / fuerte / singular)": {
+      "canonical_name": "tipología de IA (débil / fuerte / singular)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_taxonomy",
+          "quote_evidence": "La IA débil son algoritmos específicos que mejoran en una sola tarea mediante autocorrección (ej. ChatGPT),",
           "review_priority_hint": "low"
         }
       ],
@@ -815,7 +1557,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
+          "decision_reason": "passing_mention",
           "quote_evidence": "La IA débil son algoritmos específicos que mejoran en una sola tarea mediante autocorrección (ej. ChatGPT),",
           "review_priority_hint": "low"
         }
@@ -856,8 +1598,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Máquina de Turing": {
-      "canonical_name": "Máquina de Turing",
+    "arquitectura de Von Neumann": {
+      "canonical_name": "arquitectura de Von Neumann",
       "page_type": null,
       "occurrences": [
         {
@@ -867,59 +1609,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "established_concept_used_as_example",
-          "quote_evidence": "La máquina de Turing es el algoritmo informático más sencillo: lee ceros y unos y reacciona según instrucciones,",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Paradigma de Turing": {
-      "canonical_name": "Paradigma de Turing",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Si nos importa solo el resultado, llamaremos IA a todo lo que desde fuera parezca inteligencia humana,",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Arquitectura de Von Neumann": {
-      "canonical_name": "Arquitectura de Von Neumann",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "established_concept_used_as_example",
+          "decision_reason": "out_of_scope_domain",
           "quote_evidence": "Un ordenador tiene periféricos (entrada/salida), unidad central de procesamiento (CPU) y memoria,",
           "review_priority_hint": "low"
         }
@@ -934,8 +1624,60 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Ilusión de Rubin": {
-      "canonical_name": "Ilusión de Rubin",
+    "máquina de Turing": {
+      "canonical_name": "máquina de Turing",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La máquina de Turing es el algoritmo informático más sencillo: lee ceros y unos y reacciona según instrucciones,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "test/paradigma de Turing": {
+      "canonical_name": "test/paradigma de Turing",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Si nos importa solo el resultado, llamaremos IA a todo lo que desde fuera parezca inteligencia humana,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ilusión de Rubin (forma/fondo)": {
+      "canonical_name": "ilusión de Rubin (forma/fondo)",
       "page_type": null,
       "occurrences": [
         {
@@ -960,8 +1702,86 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Hipocampo": {
-      "canonical_name": "Hipocampo",
+    "afantasía": {
+      "canonical_name": "afantasía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Un 1-2% de la población tiene afantasía: incapacidad de evocar imágenes mentales,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "voz interior (autovoz)": {
+      "canonical_name": "voz interior (autovoz)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Algunas personas oyen sus pensamientos como una voz interior (autovoz) y otras no,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "neurogénesis adulta limitada al hipocampo": {
+      "canonical_name": "neurogénesis adulta limitada al hipocampo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "A partir de los 20 años no crecen neuronas nuevas (salvo en el hipocampo); las mismas neuronas cambian de valor,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hipocampo como índice de memoria": {
+      "canonical_name": "hipocampo como índice de memoria",
       "page_type": null,
       "occurrences": [
         {
@@ -986,86 +1806,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Dopamina": {
-      "canonical_name": "Dopamina",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Los procesos alucinatorios y psicóticos ocurren por problemas de inhibición del neurotransmisor dopamina,",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Afantasía": {
-      "canonical_name": "Afantasía",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Un 1-2% de la población tiene afantasía: incapacidad de evocar imágenes mentales,",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Trauma": {
-      "canonical_name": "Trauma",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "El trauma es afectividad pura: la fijación de un estadio afectivo que no se ha procesado como representación,",
-          "review_priority_hint": "medium"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Memoria episódica/procedural/semántica/afectiva": {
-      "canonical_name": "Memoria episódica/procedural/semántica/afectiva",
+    "memoria episódica / procedural / semántica / afectiva": {
+      "canonical_name": "memoria episódica / procedural / semántica / afectiva",
       "page_type": null,
       "occurrences": [
         {
@@ -1090,8 +1832,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Tríada representacional (imaginaria, formal, afectiva)": {
-      "canonical_name": "Tríada representacional (imaginaria, formal, afectiva)",
+    "creatividad como impulsividad / desinhibición dopaminérgica": {
+      "canonical_name": "creatividad como impulsividad / desinhibición dopaminérgica",
       "page_type": null,
       "occurrences": [
         {
@@ -1102,7 +1844,33 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Todo pensamiento tiene tres componentes: imaginaria (forma, color, imagen), formal (lógica, gramática, sintaxis) y afectiva (emociones, significación),",
+          "quote_evidence": "Las personas que parecen muy creativas tienen una especie de caos mental: no pueden frenar la aparición de pensamientos,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trauma como afectividad fijada con confabulación": {
+      "canonical_name": "trauma como afectividad fijada con confabulación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "El trauma es afectividad pura: la fijación de un estadio afectivo que no se ha procesado como representación,",
           "review_priority_hint": "high"
         }
       ],
@@ -1116,8 +1884,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Prometeo": {
-      "canonical_name": "Prometeo",
+    "Prometeo y Pandora como mitos de advertencia tecnológica": {
+      "canonical_name": "Prometeo y Pandora como mitos de advertencia tecnológica",
       "page_type": null,
       "occurrences": [
         {
@@ -1127,7 +1895,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
+          "decision_reason": "already_captured_extends_existing",
           "quote_evidence": "Prometeo representa la ambición de crear un golem exactamente igual a nosotros, pero el mito dice que saldrá mal,",
           "review_priority_hint": "medium"
         }
@@ -1142,8 +1910,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Pandora": {
-      "canonical_name": "Pandora",
+    "masculino/femenino como formas cognitivas (semántico/procedural vs contextual)": {
+      "canonical_name": "masculino/femenino como formas cognitivas (semántico/procedural vs contextual)",
       "page_type": null,
       "occurrences": [
         {
@@ -1153,111 +1921,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Pandora representa el interior implícito, el alma: los dioses advirtieron \"no abráis la caja, no miréis dentro\",",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Mente como grafo tridimensional": {
-      "canonical_name": "Mente como grafo tridimensional",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "La mente es un gigantesco grafo con tres redes superpuestas: afectiva, gramatical e imaginaria,",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Creatividad como recombinación": {
-      "canonical_name": "Creatividad como recombinación",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "La creatividad no parece existir como tal: el cerebro no crea cosas nuevas, recombina fragmentos de experiencias vividas,",
-          "review_priority_hint": "medium"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Voz interior / autovoz": {
-      "canonical_name": "Voz interior / autovoz",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Algunas personas oyen sus pensamientos como una voz interior (autovoz) y otras no,",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Masculino/femenino como formas cognitivas": {
-      "canonical_name": "Masculino/femenino como formas cognitivas",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "e3Aj775Rlw4",
-          "video_title": "El Gólem de Cobre",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "already_captured_extends_existing",
+          "decision_reason": "already_captured",
           "quote_evidence": "Los mitos describen lo masculino y lo femenino en términos cognitivos: los hombres son semánticos y procedurales, las mujeres son contextuales,",
           "review_priority_hint": "low"
         }
@@ -1272,8 +1936,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Homogeneización cultural por tecnología": {
-      "canonical_name": "Homogeneización cultural por tecnología",
+    "homogeneización cultural / consumo / IA controlada por quien la construye": {
+      "canonical_name": "homogeneización cultural / consumo / IA controlada por quien la construye",
       "page_type": null,
       "occurrences": [
         {
@@ -1298,8 +1962,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "La obsesión por la igualdad como estrategia de control": {
-      "canonical_name": "La obsesión por la igualdad como estrategia de control",
+    "obsesión por la igualdad como complejo de homogeneización": {
+      "canonical_name": "obsesión por la igualdad como complejo de homogeneización",
       "page_type": null,
       "occurrences": [
         {
@@ -1309,7 +1973,7 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
+          "decision_reason": "passing_mention",
           "quote_evidence": "La obsesión por la igualdad viene de un complejo: se les dice a las mujeres que sean como hombres y a los hombres que dejen de serlo,",
           "review_priority_hint": "medium"
         }
@@ -1324,8 +1988,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Problemas culturales como problemas morales no científicos": {
-      "canonical_name": "Problemas culturales como problemas morales no científicos",
+    "creatividad como recombinación, no creación": {
+      "canonical_name": "creatividad como recombinación, no creación",
       "page_type": null,
       "occurrences": [
         {
@@ -1336,7 +2000,7 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Los problemas culturales actuales (IA, redes sociales, pornografía) son problemas morales, no científicos,",
+          "quote_evidence": "La creatividad no parece existir como tal: el cerebro no crea cosas nuevas, recombina fragmentos de experiencias vividas,",
           "review_priority_hint": "low"
         }
       ],
@@ -1350,44 +2014,20 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "cuento-de-navidad-muppets-1992-film": {
-      "canonical_name": "Cuento de Navidad (Muppets, Henson 1992)",
-      "page_type": "entity_work",
+    "tiempo como ilusión perceptiva / narrativa episódica": {
+      "canonical_name": "tiempo como ilusión perceptiva / narrativa episódica",
+      "page_type": null,
       "occurrences": [
         {
-          "video_id": "s0MkondMt1o",
-          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
-          "depth": "central_thesis",
-          "minutes": 119,
-          "framing_marks_count": 2,
-          "decision": "promote_new",
-          "decision_reason": "scope.md §2.3: vídeo monográfico de 119 min sobre la obra (≥30 min). Análisis arquetípico aplicado obra-por-obra (estructura cromática, metacuento, espíritus como purgatorios) y caso paradigmático sobre el cual el canal articula su distinción luterano/católico — la obra es el caso operativo del marco",
-          "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "promote_new"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 119,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "dickens-charles": {
-      "canonical_name": "Dickens",
-      "page_type": "author",
-      "occurrences": [
-        {
-          "video_id": "s0MkondMt1o",
-          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
-          "depth": "passing_mention",
-          "minutes": 2,
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "scope.md §2.2: aparece como recurso meta-narrativo (vendedor de manzanas que rompe la cuarta pared) y como autor del relato base, sin exposición sustantiva de su pensamiento ni ≥10 min dedicados. No figura en canonical_whitelist. Se mantiene como mención dentro del análisis de la obra",
-          "quote_evidence": "El vendedor de manzanas se llama a sí mismo Dickens para contarnos un cuento, creando un metacuento"
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El tiempo no es lineal físicamente, pero para nosotros es la diferencia entre un recuerdo y algo nuevo, una narrativa episódica,",
+          "review_priority_hint": "low"
         }
       ],
       "is_canonical_external": false,
@@ -1396,48 +2036,89 @@
         "discard"
       ],
       "occurrences_count": 1,
-      "total_minutes": 2,
+      "total_minutes": 0,
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "diagrama-de-proxy": {
-      "canonical_name": "diagrama de Proxy",
-      "page_type": "concept",
+    "problemas culturales como problemas morales, no científicos": {
+      "canonical_name": "problemas culturales como problemas morales, no científicos",
+      "page_type": null,
       "occurrences": [
         {
-          "video_id": "s0MkondMt1o",
-          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
-          "depth": "passing_mention",
-          "minutes": 1,
-          "framing_marks_count": 1,
-          "decision": "update_existing",
-          "decision_reason": "El speaker invoca su propio diagrama y declara que la distinción luterano/católico opera 'debajo' del marco. Es self-reference genealógica que el canal usa como puente entre dos thesis suyas; la página actual no documenta esta conexión",
-          "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
-        },
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": "central_thesis",
-          "minutes": 72,
-          "framing_marks_count": 2,
-          "decision": "captured_in_thesis_candidate",
-          "decision_reason": "Es la tesis central del vídeo (72 min monográfico). Se promueve vía thesis_candidate diagrama-de-proxy (synthesis_subtype: author_thesis) que cumple gate de auto-promoción §2.4.1. Aquí solo se referencia para evitar doble entrada.",
-          "quote_evidence": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?"
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los problemas culturales actuales (IA, redes sociales, pornografía) son problemas morales, no científicos,",
+          "review_priority_hint": "medium"
         }
       ],
       "is_canonical_external": false,
       "is_in_whitelist_soft": false,
       "decisions_seen": [
-        "captured_in_thesis_candidate",
-        "update_existing"
+        "discard"
       ],
-      "occurrences_count": 2,
-      "total_minutes": 73,
-      "review_priority": "high",
-      "review_priority_reason": "inconsistent decisions across occurrences"
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
     },
-    "Scrooge": {
-      "canonical_name": "Scrooge",
+    "El Gólem (mito) como categoría aplicada a la IA": {
+      "canonical_name": "El Gólem (mito) como categoría aplicada a la IA",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Prometeo representa la ambición de crear un golem exactamente igual a nosotros, pero el mito dice que saldrá mal,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cuento-de-navidad-dickens": {
+      "canonical_name": "cuento-de-navidad-dickens",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "promote_new",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Charles Dickens": {
+      "canonical_name": "Charles Dickens",
       "page_type": null,
       "occurrences": [
         {
@@ -1447,9 +2128,9 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "in_work_character",
-          "quote_evidence": "El egoísmo de Scrooge tiene muchísimas metáforas diferentes, lo cual es muy bonito en Dickens",
-          "review_priority_hint": "low"
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "El egoísmo de Scrooge tiene muchísimas metáforas diferentes, lo cual es muy bonito en Dickens,",
+          "review_priority_hint": "high"
         }
       ],
       "is_canonical_external": false,
@@ -1474,7 +2155,7 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "in_work_character",
-          "quote_evidence": "Bob Cratchit es la máxima expresión de dependencia hacia Scrooge pero carece de capacidad de resentimiento",
+          "quote_evidence": "Bob Cratchit es la máxima expresión de dependencia hacia Scrooge pero carece de capacidad de resentimiento,",
           "review_priority_hint": "low"
         }
       ],
@@ -1500,7 +2181,7 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "in_work_character",
-          "quote_evidence": "Tiny Tim representa personas con muchísimo dolor que son las más positivas del mundo",
+          "quote_evidence": "Tiny Tim representa personas con muchísimo dolor que son las más positivas del mundo,",
           "review_priority_hint": "low"
         }
       ],
@@ -1514,8 +2195,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Marley (los Marley)": {
-      "canonical_name": "Marley (los Marley)",
+    "Ebenezer Scrooge": {
+      "canonical_name": "Ebenezer Scrooge",
       "page_type": null,
       "occurrences": [
         {
@@ -1526,7 +2207,33 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "in_work_character",
-          "quote_evidence": "Los Marley son espíritus encadenados al más acá lamentándose por no haber sido buenas personas",
+          "quote_evidence": "Para Scrooge la Navidad no tiene significado, solo le fastidia porque interrumpe lo que él quiere hacer,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Jacob Marley": {
+      "canonical_name": "Jacob Marley",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Los Marley son espíritus encadenados al más acá lamentándose por no haber sido buenas personas,",
           "review_priority_hint": "low"
         }
       ],
@@ -1552,7 +2259,33 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "in_work_character",
-          "quote_evidence": "Recordar al primer amor es doloroso porque nunca sanaste la herida de lo que no funcionó",
+          "quote_evidence": "Recordar al primer amor es doloroso porque nunca sanaste la herida de lo que no funcionó,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "definición de 'buena persona' (canal)": {
+      "canonical_name": "definición de 'buena persona' (canal)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Una buena persona es aquella cuyo interior, al salir al exterior, es capaz de producir y sentir más simpatía que odio,",
           "review_priority_hint": "medium"
         }
       ],
@@ -1566,8 +2299,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Disney": {
-      "canonical_name": "Disney",
+    "primer desamor del varón como re-trauma del abandono materno": {
+      "canonical_name": "primer desamor del varón como re-trauma del abandono materno",
       "page_type": null,
       "occurrences": [
         {
@@ -1578,112 +2311,8 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "passing_mention",
-          "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "catolicismo benedictino": {
-      "canonical_name": "catolicismo benedictino",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "s0MkondMt1o",
-          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "El catolicismo benedictino sostiene que el disfrute te hace olvidar tu condición humana y tu misión espiritual",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "luteranismo / espíritu luterano": {
-      "canonical_name": "luteranismo / espíritu luterano",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "s0MkondMt1o",
-          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo: si te hace sentir bien, será bueno",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "catolicismo": {
-      "canonical_name": "catolicismo",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "s0MkondMt1o",
-          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_thesis_candidate",
-          "quote_evidence": "Para los católicos el bien y el mal no tienen que ver con lo que te hace sentir bien o mal, sino con las obras",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "mini purgatorios (los tres espíritus)": {
-      "canonical_name": "mini purgatorios (los tres espíritus)",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "s0MkondMt1o",
-          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "Cada enfrentamiento con tu propio dolor es un mini purgatorio donde comprendes el significado universal de tus malos actos",
-          "review_priority_hint": "low"
+          "quote_evidence": "El primer desamor del varón es un re-trauma del abandono de la madre, porque la ruptura del varón con la madre es mucho más intensa,",
+          "review_priority_hint": "high"
         }
       ],
       "is_canonical_external": false,
@@ -1707,8 +2336,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "La emotividad es el mecanismo por el cual todas tus emociones afloran y te desbordan como si te quitaran un tapón",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La emotividad es el mecanismo por el cual todas tus emociones afloran y te desbordan como si te quitaran un tapón,",
           "review_priority_hint": "low"
         }
       ],
@@ -1722,8 +2351,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "aparición / fantasma como recuerdo evocado": {
-      "canonical_name": "aparición / fantasma como recuerdo evocado",
+    "código cromático cálido/frío como metáfora de calor humano": {
+      "canonical_name": "código cromático cálido/frío como metáfora de calor humano",
       "page_type": null,
       "occurrences": [
         {
@@ -1733,8 +2362,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "Una aparición es un recuerdo evocado que se ve en el exterior; cuando aparece fuera es porque estaba pidiendo salir",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los integrados en la comunidad están rodeados de colores cálidos siempre; los solitarios de colores fríos,",
           "review_priority_hint": "low"
         }
       ],
@@ -1748,8 +2377,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "usura / avaricia": {
-      "canonical_name": "usura / avaricia",
+    "metacuento (Dickens narrador en la película)": {
+      "canonical_name": "metacuento (Dickens narrador en la película)",
       "page_type": null,
       "occurrences": [
         {
@@ -1759,8 +2388,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "La usura no se demoniza por el lucro sino por la crueldad de priorizar el beneficio propio olvidando la condición de los demás",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El cuento sirve para llegar de la forma más fácil posible al otro estableciendo comunicación íntima,",
           "review_priority_hint": "low"
         }
       ],
@@ -1774,8 +2403,34 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "código cromático cálido/frío": {
-      "canonical_name": "código cromático cálido/frío",
+    "diagrama de Proxy": {
+      "canonical_name": "diagrama de Proxy",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_framework_reference",
+          "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cuento de Navidad de los Teleñecos (1992) como adaptación específica": {
+      "canonical_name": "Cuento de Navidad de los Teleñecos (1992) como adaptación específica",
       "page_type": null,
       "occurrences": [
         {
@@ -1786,7 +2441,7 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "Los integrados en la comunidad están rodeados de colores cálidos siempre; los solitarios de colores fríos",
+          "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno,",
           "review_priority_hint": "low"
         }
       ],
@@ -1800,8 +2455,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "metacuento / cuarta pared": {
-      "canonical_name": "metacuento / cuarta pared",
+    "el sobrino de Scrooge (Fred)": {
+      "canonical_name": "el sobrino de Scrooge (Fred)",
       "page_type": null,
       "occurrences": [
         {
@@ -1811,8 +2466,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "El vendedor de manzanas se llama a sí mismo Dickens para contarnos un cuento, creando un metacuento",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "El amor familiar es inevitable porque el vínculo familiar es inevitable, y tiene importancia por encima de todos los demás vínculos,",
           "review_priority_hint": "low"
         }
       ],
@@ -1826,8 +2481,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "definición de buena persona": {
-      "canonical_name": "definición de buena persona",
+    "usura como acto de crueldad (no por lucro)": {
+      "canonical_name": "usura como acto de crueldad (no por lucro)",
       "page_type": null,
       "occurrences": [
         {
@@ -1837,9 +2492,9 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "Una buena persona es aquella cuyo interior, al salir al exterior, es capaz de producir y sentir más simpatía que odio",
-          "review_priority_hint": "low"
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La usura no se demoniza por el lucro sino por la crueldad de priorizar el beneficio propio olvidando la condición de los demás,",
+          "review_priority_hint": "medium"
         }
       ],
       "is_canonical_external": false,
@@ -1863,8 +2518,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "Scrooge aprende todo por contraste: comprende lo bueno que es el amor cuando le hacen ver lo que ha perdido",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Aprender por ausencia no es la única forma de aprender y es propio de ser demasiado ingenuo,",
           "review_priority_hint": "low"
         }
       ],
@@ -1878,8 +2533,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "dilema determinismo (sombras de lo que puede ser vs lo que será)": {
-      "canonical_name": "dilema determinismo (sombras de lo que puede ser vs lo que será)",
+    "casa (intimidad) vs calle/mercado (vida comunitaria)": {
+      "canonical_name": "casa (intimidad) vs calle/mercado (vida comunitaria)",
       "page_type": null,
       "occurrences": [
         {
@@ -1889,8 +2544,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "captured_in_promote_new",
-          "quote_evidence": "La muerte no le dice si el futuro es evitable o inevitable: la conversión tiene que salir de uno mismo para que valga",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las casas representan la intimidad y compartimientos individuales de cada familia,",
           "review_priority_hint": "low"
         }
       ],
@@ -1904,19 +2559,20 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "locus-de-autoridad": {
-      "canonical_name": "locus de control o locus de autoridad",
-      "page_type": "concept",
+    "nieve como manto embellecedor": {
+      "canonical_name": "nieve como manto embellecedor",
+      "page_type": null,
       "occurrences": [
         {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": "secondary",
-          "minutes": 4,
-          "framing_marks_count": 1,
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "Mecanismo cognitivo que el speaker articula como pieza interna del diagrama (eje vertical). No merece página autónoma — su contenido pertenece a la futura página diagrama-de-proxy donde es uno de los componentes operativos.",
-          "quote_evidence": "El locus de control o locus de autoridad determina si representas las amenazas como externas o internas"
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La nieve no es sol ni lluvia sino un embellecedor que cubre lo cotidiano con un significado positivo difuso,",
+          "review_priority_hint": "low"
         }
       ],
       "is_canonical_external": false,
@@ -1925,62 +2581,12 @@
         "discard"
       ],
       "occurrences_count": 1,
-      "total_minutes": 4,
+      "total_minutes": 0,
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "razonamiento-motivado": {
-      "canonical_name": "razonamiento motivado",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": "secondary",
-          "minutes": 3,
-          "framing_marks_count": 1,
-          "decision": "discard",
-          "decision_reason": "Concepto cognitivo estándar usado por el speaker como sustento empírico del eje horizontal del diagrama. Per scope.md §1.2: el speaker lo aplica a marco propio → IN como evidencia, NO como página autónoma (las pages son del canal, no de la disciplina).",
-          "quote_evidence": "Se identificaron circuitos de \"razonamiento motivado\": mecanismos cerebrales para producir justificaciones que alivien la culpa o disonancia"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 3,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "anarcocapitalismo": {
-      "canonical_name": "anarcocapitalistas / ancap",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": "secondary",
-          "minutes": 5,
-          "framing_marks_count": 1,
-          "decision": "discard",
-          "decision_reason": "Tradición política tratada en el vídeo solo para ubicarla en el diagrama (cuadrante abajo-derecha) y narrar su migración psicológica desde el relativismo. El contenido pertenece a la página diagrama-de-proxy como caso prototípico, no merece página autónoma sin tratamiento dedicado en otros vídeos.",
-          "quote_evidence": "Los ancap están abajo a la derecha: no soportan la jerarquía pero tampoco que se destruyan fundamentos como libertad y propiedad"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 5,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Diagrama de Nolan": {
-      "canonical_name": "Diagrama de Nolan",
+    "diagrama de Nolan": {
+      "canonical_name": "diagrama de Nolan",
       "page_type": null,
       "occurrences": [
         {
@@ -1990,8 +2596,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "established_concept_used_as_example",
-          "quote_evidence": "El diagrama de Nolan ubica a las personas en dos ejes: económico (izquierda-derecha) y autoritario-libertario,\n  - Los tests que determinan la posición son deficientes porque las preguntas contienen declaraciones morales implícitas",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El diagrama de Nolan ubica a las personas en dos ejes: económico (izquierda-derecha) y autoritario-libertario,",
           "review_priority_hint": "low"
         }
       ],
@@ -2016,8 +2622,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "established_concept_used_as_example",
-          "quote_evidence": "La técnica BOLD (Blood Oxygen Level Dependent) mide el consumo de oxígeno en zonas cerebrales para identificar qué neuronas están más activas",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La técnica BOLD (Blood Oxygen Level Dependent) mide el consumo de oxígeno en zonas cerebrales para identificar qué neuronas están más activas,",
           "review_priority_hint": "low"
         }
       ],
@@ -2031,8 +2637,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "amígdala / córtex cingulado anterior / estriado ventral / área tegmental ventral / corteza orbitofrontal": {
-      "canonical_name": "amígdala / córtex cingulado anterior / estriado ventral / área tegmental ventral / corteza orbitofrontal",
+    "razonamiento motivado": {
+      "canonical_name": "razonamiento motivado",
       "page_type": null,
       "occurrences": [
         {
@@ -2042,8 +2648,242 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "established_taxonomy",
-          "quote_evidence": "Los conservadores muestran alta reactividad en la amígdala (miedos, aversiones) y el estriado ventral (motivaciones positivas),\n  - Los liberales/progresistas activan más el córtex cingulado anterior, que identifica contradicciones morales",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Se identificaron circuitos de \"razonamiento motivado\": mecanismos cerebrales para producir justificaciones que alivien la culpa o disonancia,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "locus de autoridad / locus de control": {
+      "canonical_name": "locus de autoridad / locus de control",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "El locus de control o locus de autoridad determina si representas las amenazas como externas o internas,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "amígdala / córtex cingulado anterior / área tegmental ventral / corteza orbitofrontal": {
+      "canonical_name": "amígdala / córtex cingulado anterior / área tegmental ventral / corteza orbitofrontal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Correlatos cerebrales: hacia la derecha más amígdala, hacia la izquierda más córtex cingulado anterior, arriba mayor área tegmental ventral,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Adolf Hitler": {
+      "canonical_name": "Adolf Hitler",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El señor del \"bigote gracioso\" empezó con argumentos morales fuertes (derecha) pero terminó sometiendo toda moral a la norma del régimen (arriba izquierda),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mein Kampf": {
+      "canonical_name": "Mein Kampf",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Simone de Beauvoir": {
+      "canonical_name": "Simone de Beauvoir",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El Segundo Sexo": {
+      "canonical_name": "El Segundo Sexo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Juan Ramón Rallo": {
+      "canonical_name": "Juan Ramón Rallo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_figure",
+          "quote_evidence": "Juan Ramón Rallo: defiende fundamentos como vida, libertad y propiedad, pero como protección contra imposición externa — se ubica abajo a la derecha,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Miguelanxo Bastos": {
+      "canonical_name": "Miguelanxo Bastos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_figure",
+          "quote_evidence": "Miguelanxo Bastos se ubica a la derecha moderada: poco autoritario, cree en el derecho natural,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Roberto Baquero": {
+      "canonical_name": "Roberto Baquero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_figure",
+          "quote_evidence": "Roberto Baquero eleva lo totalitario si es necesario para proteger el estado, sin importar si el fundamento es natural o construido,",
           "review_priority_hint": "low"
         }
       ],
@@ -2069,7 +2909,7 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "passing_mention",
-          "quote_evidence": "Pablo Iglesias se ubica a la izquierda tendiendo al relativismo, desplazándose arriba o abajo según le conviene",
+          "quote_evidence": "Pablo Iglesias se ubica a la izquierda tendiendo al relativismo, desplazándose arriba o abajo según le conviene,",
           "review_priority_hint": "low"
         }
       ],
@@ -2083,8 +2923,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Juan Ramón Rallo": {
-      "canonical_name": "Juan Ramón Rallo",
+    "youtubers/streamers de habla hispana (La Gata de Schrödinger, Joan Planas, El Xokas, Gisbert, Experto en Igualdad, Abismo Filosófico, Éxito y Jota, H)": {
+      "canonical_name": "youtubers/streamers de habla hispana (La Gata de Schrödinger, Joan Planas, El Xokas, Gisbert, Experto en Igualdad, Abismo Filosófico, Éxito y Jota, H)",
       "page_type": null,
       "occurrences": [
         {
@@ -2094,8 +2934,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "Juan Ramón Rallo: defiende fundamentos como vida, libertad y propiedad, pero como protección contra imposición externa — se ubica abajo a la derecha",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Abismo Filosófico se ubica abajo a la izquierda, aunque su tendencia al constructo filosófico dificulta identificar sus intuiciones morales reales,",
           "review_priority_hint": "low"
         }
       ],
@@ -2109,8 +2949,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Miguelanxo Bastos": {
-      "canonical_name": "Miguelanxo Bastos",
+    "anarcocapitalistas (ancap)": {
+      "canonical_name": "anarcocapitalistas (ancap)",
       "page_type": null,
       "occurrences": [
         {
@@ -2120,8 +2960,8 @@
           "minutes": null,
           "framing_marks_count": 0,
           "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "Miguelanxo Bastos se ubica a la derecha moderada: poco autoritario, cree en el derecho natural, se autoidentifica cristiano y conservador",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "La mayoría de ancap estaban a la izquierda hasta que descubrieron que el relativismo implicaba renunciar a la propiedad,",
           "review_priority_hint": "low"
         }
       ],
@@ -2135,8 +2975,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Roberto Baquero": {
-      "canonical_name": "Roberto Baquero",
+    "alineamientos D&D (legal/caótico, bueno/maligno)": {
+      "canonical_name": "alineamientos D&D (legal/caótico, bueno/maligno)",
       "page_type": null,
       "occurrences": [
         {
@@ -2147,7 +2987,7 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "passing_mention",
-          "quote_evidence": "Roberto Baquero eleva lo totalitario si es necesario para proteger el estado, sin importar si el fundamento es natural o construido",
+          "quote_evidence": "El eje legal-caótico de los alineamientos de rol podría mapearse al eje de autoridad-jerarquía del diagrama,",
           "review_priority_hint": "low"
         }
       ],
@@ -2161,268 +3001,8 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "Abismo Filosófico": {
-      "canonical_name": "Abismo Filosófico",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "Abismo Filosófico se ubica abajo a la izquierda, aunque su tendencia al constructo filosófico dificulta identificar sus intuiciones morales reales",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Éxito y Jota": {
-      "canonical_name": "Éxito y Jota",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "Éxito y Jota se ubican en la parte inferior izquierda",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "H (youtuber)": {
-      "canonical_name": "H (youtuber)",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "H (youtuber) tiene locus externo de autoridad y se ubica abajo aunque cree estar más a la derecha",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "La Gata de Schrödinger": {
-      "canonical_name": "La Gata de Schrödinger",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "La Gata de Schrödinger está claramente abajo y a la izquierda, aunque ella se autodenomina de izquierda se ubica más extrema de lo que cree",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Joan Planas": {
-      "canonical_name": "Joan Planas",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "Joan Planas tiene locus externo de autoridad pero exige fundamentos, se ubica arriba a la izquierda",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "El Xokas": {
-      "canonical_name": "El Xokas",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "El Xokas se ubica cercano a la zona de Proxy, arriba a la derecha moderado, aunque a veces sorprende desplazándose",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Gisbert y Experto en Igualdad": {
-      "canonical_name": "Gisbert y Experto en Igualdad",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "Gisbert y Experto en Igualdad comparten zona: alergia visceral a la norma pero con exigencia de coherencia absoluta",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Hitler / Mein Kampf": {
-      "canonical_name": "Hitler / Mein Kampf",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "El señor del \"bigote gracioso\" empezó con argumentos morales fuertes (derecha) pero terminó sometiendo toda moral a la norma del régimen (arriba izquierda),\n  - \"La raza superior\" como constructo es estructuralmente equivalente a \"la revolución\" como constructo,\n  - El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares",
-          "review_priority_hint": "medium"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "Simone de Beauvoir / El Segundo Sexo": {
-      "canonical_name": "Simone de Beauvoir / El Segundo Sexo",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,\n  - Ambos libros son ejemplos magistrales de estructuras proyectivas patológicas si se psicoanalizan sus autores",
-          "review_priority_hint": "medium"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "alineamiento legal-caótico de Dungeons & Dragons": {
-      "canonical_name": "alineamiento legal-caótico de Dungeons & Dragons",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "wxcSuqipA6s",
-          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "discard",
-          "decision_reason": "passing_mention",
-          "quote_evidence": "El eje legal-caótico de los alineamientos de rol podría mapearse al eje de autoridad-jerarquía del diagrama,\n  - \"Caótico\" encajaría en el lado de rechazo a la jerarquía y \"legal\" en el lado de aceptación",
-          "review_priority_hint": "low"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "\"lo personal es político\" como estrategia de marketing político": {
-      "canonical_name": "\"lo personal es político\" como estrategia de marketing político",
+    "'Lo personal es político' como slogan": {
+      "canonical_name": "'Lo personal es político' como slogan",
       "page_type": null,
       "occurrences": [
         {
@@ -2433,7 +3013,59 @@
           "framing_marks_count": 0,
           "decision": "discard",
           "decision_reason": "already_captured",
-          "quote_evidence": "La frase \"lo personal es político\" se ha convertido en un mecanismo para politizar todos los ámbitos de la vida personal,\n  - En un estado del bienestar hay pocos motivos reales para hacer política, así que los partidos crean problemas artificiales para captar votos",
+          "quote_evidence": "La frase \"lo personal es político\" se ha convertido en un mecanismo para politizar todos los ámbitos de la vida personal,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "estado del bienestar / política como creación de problemas artificiales": {
+      "canonical_name": "estado del bienestar / política como creación de problemas artificiales",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "En un estado del bienestar hay pocos motivos reales para hacer política, así que los partidos crean problemas artificiales para captar votos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ejemplo de la bolsa de patatas (razonamiento motivado)": {
+      "canonical_name": "ejemplo de la bolsa de patatas (razonamiento motivado)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El ejemplo de la bolsa de patatas: \"mañana comeré menos\" es un razonamiento motivado para paliar la culpa, no una decisión real,",
           "review_priority_hint": "low"
         }
       ],

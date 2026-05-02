@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_audit_subagent_20260502_205509",
+  "items": [
+    {
+      "from_video": "qbCGrnynKe8",
+      "block": {
+        "block_timestamp": "1:39:50",
+        "block_emoji": "👥",
+        "block_title": "El problema de la representación política: no hay pueblo homogéneo que representar",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "Vox",
+          "Podemos",
+          "PSOE"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    },
+    {
+      "from_video": "qbCGrnynKe8",
+      "block": {
+        "block_timestamp": "1:57:02",
+        "block_emoji": "🌍",
+        "block_title": "Prospectiva política: inmigración, islam y el ascenso de la nueva derecha",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "Vox",
+          "PSOE"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    }
+  ]
+}

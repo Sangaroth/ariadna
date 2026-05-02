@@ -99,6 +99,7 @@ Esta lectura convierte al viaje del héroe en una **prueba de autenticidad arque
 
 
 
-- **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
+- **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 

@@ -1,0 +1,2895 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_audit_subagent_20260502_205509",
+  "generated_at": "2026-05-02T21:56:41+00:00",
+  "entities": {
+    "dracula-1992-film": {
+      "canonical_name": "Drácula",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "central_thesis",
+          "minutes": 180,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.3 'Análisis dedicado': vídeo monográfico de ≥3h sobre la obra (Coppola 1992). Caso canónico cross-thematic: hieros gamos satánico, sombra liberada, anima oscura (Lilit), íncubo/súcubo. Aplicación múltiple de marcos del canal a la misma obra.",
+          "quote_evidence": "El mito universal detrás de Drácula es la estructura de los amantes trágicos,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 180,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sindrome-wendy": {
+      "canonical_name": "síndrome de Wendy",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Recurrencia + Framing-mark + Channel-canonical': concepto canal-específico con vídeo dedicado (citado en anima-archetype.md desde 'El síndrome de Wendy, 32:34'), articulado aquí con estructura interna (Wendy→ninfa, Artemisa→Afrodita, mutación tras florecimiento sexual). Aparece en anima-archetype existente como wikilink implícito; merece página propia para no dispersar como contenido en otras páginas.",
+          "quote_evidence": "El síndrome de Wendy es la feminidad ingenua que crea héroes imaginarios y los convierte en amantes ideales,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "peter-pan-1953-film": {
+      "canonical_name": "Peter Pan",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Peter Pan está en canonical_whitelist con auto_promote:false. Aquí se usa solo como lente analítica para Drácula (sombra separada, síndrome de Wendy), no como sujeto de análisis. La promoción de su página debería detonarla un vídeo monográfico, no esta referencia transversal. Sí informa updates a shadow-archetype, hieros-gamos y anima-archetype.",
+          "quote_evidence": "como Peter Pan que perdió su sombra al renunciar a toda responsabilidad,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "lilit": {
+      "canonical_name": "Lilit",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Recurrencia insuficiente con un solo vídeo: no hay evidencia de aparición desarrollada en ≥3 vídeos ni de tratamiento monográfico ≥10min. El material se canaliza como enriquecimiento de anima-archetype (subsección 'ánima sola' / sincretismo de feminidad oscura) hasta que aparezca en más summaries.",
+          "quote_evidence": "Lucy muerta en pecado sale por la noche a cazar como Lilit que devora niños para mantenerse joven,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "amantes-tragicos": {
+      "canonical_name": "amantes trágicos",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Concepto estructural usado en este análisis pero sin evidencia de recurrencia en ≥3 vídeos del corpus. Se canaliza como contenido de la futura página dracula-1992-film y eventualmente hieros-gamos (forma truncada). Promover sin recurrencia confirmada generaría página fantasma.",
+          "quote_evidence": "Los amantes trágicos se llaman así porque no pueden consumar su amor llevándolo a la felicidad eterna,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "incubo-sucubo": {
+      "canonical_name": "íncubo y súcubo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Definidos pero sin tratamiento sustantivo (≥10min) ni recurrencia confirmada en ≥3 vídeos. Pieza táctica del análisis vampírico; no merece página independiente con la evidencia disponible.",
+          "quote_evidence": "El íncubo es el demonio que provoca deseo sexual en la doncella; el súcubo es el demonio femenino que succiona el alma del hombre,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "stoker-bram": {
+      "canonical_name": "Bram Stoker",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Autor de la novela fuente nombrado en el título; el análisis es de la película de Coppola, no de la novela. Una sola mención al contrastar finales ('En la novela Drácula muere'). No cumple ningún criterio scope.md §2.2 (no whitelist, sin substantive treatment, sin recurrencia confirmada).",
+          "quote_evidence": "En la novela Drácula muere; en la versión de Cópola queda herido y Mina salta a defenderlo con un fusil,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "coppola-francis-ford": {
+      "canonical_name": "Cópola",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Director del film analizado, mencionado dos veces como atribución estilística (armadura roja, cambio del final novela→film). Sin tratamiento sustantivo de su filmografía ni encuadre como autor; el análisis se centra en el film como mito, no en la mirada del director. No cumple §2.2.",
+          "quote_evidence": "Cópola lo reviste de una armadura que parece músculo rojo, enfatizando su naturaleza de caballero de sangre,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "orden-del-dragon": {
+      "canonical_name": "Sagrada Orden del Dragón",
+      "page_type": "entity_institution",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Referencia histórica contextual al backstory del personaje. Sin tratamiento como institución analizada por el canal ni recurrencia. Equivale a las menciones culturales contextuales descartadas en scope.md §2.3.",
+          "quote_evidence": "La Sagrada Orden del Dragón fue una orden oriental real de caballeros cristianos similar a la templaria,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "van-helsing": {
+      "canonical_name": "Van Helsing",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Personaje del film, no entidad enciclopédica del wiki. Su material (especialista en venéreas + sobrenatural) se integra como contenido de la futura dracula-1992-film, no como página propia.",
+          "quote_evidence": "Van Helsing es literalmente especialista en enfermedades venéreas y en lo sobrenatural,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "jung-carl-gustav": {
+      "canonical_name": "Jung",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Jung ya tiene página (jung-carl-gustav). Aquí solo aparece nominalmente en el header de un bloque temático; no hay material biográfico, conceptual ni interpretativo nuevo sobre Jung mismo. El material conceptual fluye hacia shadow-archetype. No procede update.",
+          "quote_evidence": "👤 La sombra separada: Peter Pan, Jung y la pérdida del dominio del yo"
+        },
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo es continuación explícita de la línea de extensión del canal sobre Jung (su título 'Cómo un Pollo demostró a Jung' lo hace explícito). La página ya tiene una sección 'Refinamientos del canal sobre Jung' con tres items; este vídeo añade un cuarto refinamiento sustantivo: arquetipo psicobiológico via clases ancestrales con confirmación empírica entre especies.",
+          "quote_evidence": "El arquetipo no solo es una categoría antropológica de literatura y mitología: interesa en tanto psicobiología,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard",
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 9,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "Bram Stoker": {
+      "canonical_name": "Bram Stoker",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "En la novela Drácula muere; en la versión de Cópola queda herido y Mina salta a defenderlo con un fusil,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cópola": {
+      "canonical_name": "Cópola",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cópola lo reviste de una armadura que parece músculo rojo, enfatizando su naturaleza de caballero de sangre,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Van Helsing": {
+      "canonical_name": "Van Helsing",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Van Helsing es literalmente especialista en enfermedades venéreas y en lo sobrenatural,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Sagrada Orden del Dragón": {
+      "canonical_name": "Sagrada Orden del Dragón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La Sagrada Orden del Dragón fue una orden oriental real de caballeros cristianos similar a la templaria,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lilit": {
+      "canonical_name": "Lilit",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lucy muerta en pecado sale por la noche a cazar como Lilit que devora niños para mantenerse joven,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "amantes trágicos": {
+      "canonical_name": "amantes trágicos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los amantes trágicos se llaman así porque no pueden consumar su amor llevándolo a la felicidad eterna,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "íncubo y súcubo": {
+      "canonical_name": "íncubo y súcubo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El íncubo es el demonio que provoca deseo sexual en la doncella; el súcubo es el demonio femenino que succiona el alma del hombre,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "rabia y sífilis (base biológica del mito vampírico)": {
+      "canonical_name": "rabia y sífilis (base biológica del mito vampírico)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La rabia provoca hipersensibilidad a la luz, hipersexualidad, fuerza, locura, querer morder, rechazo al ajo e insomnio,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "alquimista fallido (catacumbas de Londres)": {
+      "canonical_name": "alquimista fallido (catacumbas de Londres)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "JmCqIk6NDsM",
+          "video_title": "Análisis arquetípico de Drácula, de Bram Stoker",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Incluso en el núcleo más potente de la cristiandad hay catacumbas donde habita el alquimista fallido, primer adepto de Drácula en Occidente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "dragon-arquetipo": {
+      "canonical_name": "dragón (arquetipo)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "central_thesis",
+          "minutes": 65,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Monográfico + Framing-mark + Channel-canonical': vídeo de 85min explícitamente programático ('qué es el concepto mitológico de dragón, qué arquetipo representa'). Articulación canal-específica completa: dragón = avatar del caos primigenio (mal increado), sempiterno no eterno, telúrico (no cetónico ni demoniaco), existe para ser vencido, sabiduría como antigüedad. Hub natural para futuras lecturas (Beowulf, Smaug, leviatán, Cthulhu, juegos con dragones). Diferenciación operativa frente a balrog/demonio/gobernante tirano/elemental/titán.",
+          "quote_evidence": "Un dragón es un avatar del caos: una forma de encarnación, una personificación fantástica del caos,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 65,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "uranico-telurico-cetonico": {
+      "canonical_name": "uránico / telúrico / cetónico (triada)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Framing-mark + Channel-canonical': triada espacial-arquetípica con correspondencias alquímicas (mercurial/salino/sulfúrico) que el canal usa SISTEMÁTICAMENTE para distinguir dragón (telúrico) de balrog/demonio (cetónico) y de lo divino (uránico). Pieza load-bearing que articula la cosmología vertical implícita del canal y permite distinguir prototipos del mal en las obras analizadas. Recurrente esperable en futuras lecturas mitológicas (mar como caos cetónico, montaña como uránico, etc.).",
+          "quote_evidence": "Lo uránico es lo celestial/divino/aspiracional; lo telúrico es la superficie de la tierra; lo cetónico son las profundidades infernales,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tolkien-jrr": {
+      "canonical_name": "J. R. R. Tolkien",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "central_thesis",
+          "minutes": 30,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Página existente con laguna explícita sobre 'mal primario (Melkor / Morgoth / Sauron)' parcialmente cubierta por update previo (Melkor); este vídeo aporta el resto: Sauron, Saruman, Gollum, balrog, Smaug + cadena de corrupción + lectura como alegoría cristiana. También fill parcial de la laguna 'No hay material sobre El Señor de los Anillos'. Update sustantivo obligatorio.",
+          "quote_evidence": "La cadena de corrupción en Tolkien (Melkor corrompe a Sauron, Sauron a Saruman, Saruman a los orcos) refleja la estructura del mal engendrando mal,"
+        },
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "central_thesis",
+          "minutes": 70,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Página tolkien-jrr ya existe (auto_promote canónico). Vídeo monográfico de 81min sobre el Ainulindalë: aporta material que rellena dos lagunas declaradas explícitamente (mal primario / Melkor; dimensión católica como elemento de estructura). Update obligatorio.",
+          "quote_evidence": "Tolkien no contó nada nuevo sino la misma vieja historia de siempre de la forma más novedosa y original posible,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 100,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "lucifer-satanas-distincion": {
+      "canonical_name": "Lucifer / Satanás (distinción aplicada)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Recurrencia parcial: aparece también en 'el Génesis en Tolkien (Parte 1)' con tratamiento similar pero sin aplicación a obra. Aquí se aplica como demonología de Tolkien (Sauron luciferino / Saruman satánico). Total ≥2 vídeos pero scope.md §2.1 pide ≥3 para promote por recurrencia. Material absorbido en update de tolkien-jrr (sección Demonología tolkieniana). Marcado como thesis_candidate con prioridad alta — si reaparece en un tercer vídeo procede promote inmediato.",
+          "quote_evidence": "Saruman es la figura satánica: un hereje que concluye lógicamente que hay que unirse al poder establecido, pone la sabiduría al servicio de la política y el relativismo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "caos-primigenio": {
+      "canonical_name": "caos primigenio (existencia increada)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "secondary",
+          "minutes": 10,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Concepto load-bearing aquí pero estructuralmente es la noción de la que el [[dragon-arquetipo]] es el avatar. Promover por separado generaría redundancia. Material absorbido en la futura página dragon-arquetipo y en update de tolkien-jrr (donde se contrasta mal increado vs mal creado).",
+          "quote_evidence": "El caos es el orden anterior, la existencia increada previa a Dios y a los héroes,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sempiterno-eterno": {
+      "canonical_name": "sempiterno vs eterno (distinción)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Distinción técnica (eterno = sin principio ni fin; sempiterno = con principio sin fin) aplicada al dragón. Pieza táctica del argumento, sin tratamiento independiente. Material en futura página dragon-arquetipo.",
+          "quote_evidence": "Eterno es lo que no tiene principio ni fin; sempiterno es lo que tiene principio pero no fin,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "balrog": {
+      "canonical_name": "balrog",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Figura tolkieniana usada para CONTRASTAR con el dragón (cetónico vs telúrico). Material en update de tolkien-jrr (sección Demonología tolkieniana) y en futura página uranico-telurico-cetonico como caso canónico de lo cetónico.",
+          "quote_evidence": "El balrog es genuinamente cetónico porque habita las profundidades del alma humana,"
+        },
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "El balrog es genuinamente cetónico porque habita las profundidades del alma humana,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sauron": {
+      "canonical_name": "Sauron",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Figura tolkieniana, no concepto enciclopédico independiente. Material en update de tolkien-jrr.",
+          "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "saruman": {
+      "canonical_name": "Saruman",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Figura tolkieniana. Material en update de tolkien-jrr como caso satánico.",
+          "quote_evidence": "Saruman es la figura satánica: un hereje que concluye lógicamente que hay que unirse al poder establecido,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "smaug": {
+      "canonical_name": "Smaug",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Caso ejemplar del arquetipo del dragón aplicado al universo tolkieniano. Material en update de tolkien-jrr y como ejemplo en futura página dragon-arquetipo.",
+          "quote_evidence": "Smaug custodia celosamente el tesoro acumulado por la avaricia de los enanos: es la manifestación caótica de las consecuencias que el demonio de la ambición despertó,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hobbes-thomas": {
+      "canonical_name": "Hobbes (Leviatán)",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención puntual: Hobbes 'subvirtió el leviatán como símbolo del temor colectivo para hablar del Estado'. Sin tratamiento autoral.",
+          "quote_evidence": "Hobbes subvirtió el leviatán como símbolo del temor colectivo para hablar del Estado, convirtiéndolo en figura telúrica retórica,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "leviatan": {
+      "canonical_name": "leviatán",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Caso particular de dragón acuático bíblico. Material absorbido en futura página dragon-arquetipo (sección sobre prototipos elementales).",
+          "quote_evidence": "Al dragón de las aguas se le llama leviatán en la mitología semítico-occidental,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lucifer / Satanás (distinción aplicada a Tolkien)": {
+      "canonical_name": "Lucifer / Satanás (distinción aplicada a Tolkien)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "below_recurrence_threshold",
+          "quote_evidence": "Lucifer es el demonio primigenio: la primera criatura creada por Dios que se rebeló, encarna la vanidad,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "caos primigenio (existencia increada)": {
+      "canonical_name": "caos primigenio (existencia increada)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "absorbed_in_promoted_page",
+          "quote_evidence": "El caos es el orden anterior, la existencia increada previa a Dios y a los héroes,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sempiterno vs eterno": {
+      "canonical_name": "sempiterno vs eterno",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Eterno es lo que no tiene principio ni fin; sempiterno es lo que tiene principio pero no fin,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Sauron": {
+      "canonical_name": "Sauron",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Saruman": {
+      "canonical_name": "Saruman",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "Saruman es la figura satánica: un hereje que concluye lógicamente que hay que unirse al poder establecido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Smaug": {
+      "canonical_name": "Smaug",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "Smaug custodia celosamente el tesoro acumulado por la avaricia de los enanos: es la manifestación caótica de las consecuencias que el demonio de la ambición despertó,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gollum": {
+      "canonical_name": "Gollum",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "Gollum no es ni satánico ni luciferino: representa las consecuencias del mal en el alma humana, un alma corrompida y en pena,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "leviatán": {
+      "canonical_name": "leviatán",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "absorbed_in_promoted_page",
+          "quote_evidence": "Al dragón de las aguas se le llama leviatán en la mitología semítico-occidental,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hobbes": {
+      "canonical_name": "Hobbes",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Hobbes subvirtió el leviatán como símbolo del temor colectivo para hablar del Estado, convirtiéndolo en figura telúrica retórica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "etimología griega de dragón ('vigilante/guardián')": {
+      "canonical_name": "etimología griega de dragón ('vigilante/guardián')",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La etimología griega de dragón significa \"vigilante/guardián\", pero la etimología no define el arquetipo sino solo un prototipo de uso,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "serpiente del Edén / pecado original (interpretación)": {
+      "canonical_name": "serpiente del Edén / pecado original (interpretación)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "O-kzVFngjAQ",
+          "video_title": "Tolkien y los dragones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "absorbed_in_promoted_page",
+          "quote_evidence": "El pecado original no es comer la manzana ni obedecer a la serpiente, sino no reconocer ante Dios lo que hicieron y no asumir la culpa,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "clases-ancestrales": {
+      "canonical_name": "clases ancestrales",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "central_thesis",
+          "minutes": 15,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Framing-mark + Channel-canonical': acuñación explícita del canal ('El término propuesto es...'), articulada con apoyo empírico (Buba-Kiki en pollos) y posicionada como bisagra entre psicología junguiana, estructuralismo léviestrosiano y psicobiología comparada. Pieza load-bearing del aparato cognitivo del canal: rellena la laguna declarada en collective-unconscious sobre el origen biológico del inconsciente colectivo. Concepto que se prevé recurrente en futuros directos sobre arquetipos y biología.",
+          "quote_evidence": "El término propuesto es \"clases ancestrales\": homologías de clases que trascienden especies,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 15,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "collective-unconscious": {
+      "canonical_name": "Inconsciente colectivo (extensión psicobiológica)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "central_thesis",
+          "minutes": 70,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Página existente ya cita este vídeo en su sección 'Convergencia con Lévi-Strauss' (timestamp 1:09:06) pero no recoge el resto del aparato: Buba-Kiki en pollos, cadena sonido→afecto→imagen, multimodalidad vs sinestesia, distinción afectos/emociones, modelo de clases. Update obligatorio que además SUPERSEDES laguna declarada sobre origen biológico del inconsciente colectivo.",
+          "quote_evidence": "Si humanos y pollos hacen la misma asociación innata, deben existir homologías biológicas evolutivas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 70,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "levi-strauss-claude": {
+      "canonical_name": "Claude Lévi-Strauss",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "En canonical_whitelist con auto_promote:true. Aquí aparece como uno de los tres modelos convergentes (Jung-Lévi-Strauss-Proxy) en bloque corto (~2min). No alcanza el umbral de 'substantive mention ≥3min' que dispara la auto-promoción según scope.md §4. Material absorbido como cita en collective-unconscious (ya presente). Flag medium: si reaparece con tratamiento monográfico ≥3min, procede promote inmediato como page canonical.",
+          "quote_evidence": "Los tres modelos coinciden en que existen estructuras innatas que son causa de algunas representaciones mentales,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "lakoff-george": {
+      "canonical_name": "Lakoff (modelos)",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención analógica única ('como en los modelos de Lakoff') para iluminar la relación forma-propiedad. Sin tratamiento autoral. No en canonical_whitelist.",
+          "quote_evidence": "Como en los modelos de Lakoff, los objetos con forma son representaciones de sus propiedades psíquicas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "efecto-buba-kiki": {
+      "canonical_name": "efecto Buba-Kiki",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Fenómeno empírico clásico (asociación sonido-forma) que el canal usa como evidencia para su tesis psicobiológica. No es marco propio del canal sino instrumento empírico citado. Material absorbido en update de collective-unconscious. Promover sería duplicar contenido ya capturado en la página parent.",
+          "quote_evidence": "Cuando se pregunta a personas de cualquier cultura cuál es Buba y cuál es Kiki, casi todos coinciden en la misma asignación,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "multimodalidad-noetica": {
+      "canonical_name": "multimodalidad vs sinestesia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Distinción técnica del aparato cognitivo del canal. Material absorbido en update de collective-unconscious. Sin recurrencia confirmada con tratamiento monográfico independiente. Si reaparece como herramienta metodológica recurrente, promover en futuros barridos.",
+          "quote_evidence": "La sinestesia es percibir un sentido como si fuera otro (cruce de sentidos), mientras que la multimodalidad es activar diferentes partes del cerebro simultáneamente,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "afectos-emociones": {
+      "canonical_name": "afectos vs emociones",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Distinción canal-específica importante (afecto = clasificación de importancia / emoción = sensación corporal). On-axis pero sin tratamiento monográfico aquí (3min). Material absorbido en update de collective-unconscious. Candidato fuerte para promote en futuros vídeos si aparece desarrollado.",
+          "quote_evidence": "Las emociones se notan en el cuerpo; los afectos no necesariamente,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "clase-unidad-noetica": {
+      "canonical_name": "clase (unidad mínima de representación noética)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Pieza técnica del modelo cognitivo del canal (unidad mínima de representación). Articulada aquí pero como machinery del modelo más amplio. Promover ahora generaría página técnica sin contexto suficiente. Candidato fuerte para futuro 'modelo-cognitivo-en-proxy' (synthesis) cuando haya más material articulado en distintos vídeos. Material absorbido como cita corta en collective-unconscious.",
+          "quote_evidence": "Las clases son las mínimas unidades de representación noética,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "arquetipo-prototipo-estereotipo": {
+      "canonical_name": "arquetipo / prototipo / estereotipo (refinamiento)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Distinción ya capturada en shadow-archetype.md sección 'Lugar en la tipología arquetipo / prototipo / estereotipo / autotipo' citando Mitología 101 como source canónico. Aquí aparece refinada pero la página existente tiene la articulación con autotipo añadido. Promover sería duplicar. Si en revisión humana se decide promover una página independiente para esta tipología, este vídeo aporta cita complementaria.",
+          "quote_evidence": "Toda explicitud cultural de un arquetipo es siempre un prototipo; el arquetipo es lo que estaba antes,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lévi-Strauss": {
+      "canonical_name": "Lévi-Strauss",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "below_substantive_threshold",
+          "quote_evidence": "Los tres modelos coinciden en que existen estructuras innatas que son causa de algunas representaciones mentales,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lakoff": {
+      "canonical_name": "Lakoff",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Como en los modelos de Lakoff, los objetos con forma son representaciones de sus propiedades psíquicas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "efecto Buba-Kiki": {
+      "canonical_name": "efecto Buba-Kiki",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "absorbed_in_parent_update",
+          "quote_evidence": "Cuando se pregunta a personas de cualquier cultura cuál es Buba y cuál es Kiki, casi todos coinciden en la misma asignación,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "multimodalidad vs sinestesia": {
+      "canonical_name": "multimodalidad vs sinestesia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "absorbed_in_parent_update",
+          "quote_evidence": "La sinestesia es percibir un sentido como si fuera otro (cruce de sentidos), mientras que la multimodalidad es activar diferentes partes del cerebro simultáneamente,",
+          "review_priority_hint": null
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "afectos vs emociones": {
+      "canonical_name": "afectos vs emociones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "absorbed_in_parent_update",
+          "quote_evidence": "Los afectos son clasificaciones de importancia, no sensaciones corporales,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "clase (unidad mínima de representación noética)": {
+      "canonical_name": "clase (unidad mínima de representación noética)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "thesis_internal_machinery",
+          "quote_evidence": "Las clases son las mínimas unidades de representación noética,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "arquetipo / prototipo / estereotipo (refinamiento)": {
+      "canonical_name": "arquetipo / prototipo / estereotipo (refinamiento)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "duplicate_existing",
+          "quote_evidence": "Toda explicitud cultural de un arquetipo es siempre un prototipo; el arquetipo es lo que estaba antes,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "estructuralismo (mención técnica)": {
+      "canonical_name": "estructuralismo (mención técnica)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Un estructuralismo dice que la unidad mínima de importancia de un fenómeno son las relaciones entre cosas, no las cosas mismas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "experimento de @biotai (pollos de un día)": {
+      "canonical_name": "experimento de @biotai (pollos de un día)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El experimento procede de la cuenta @biotai (divulgación en psicobiología),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "arbitrariedad del lenguaje (cuestionada)": {
+      "canonical_name": "arbitrariedad del lenguaje (cuestionada)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbfhVqYDbdE",
+          "video_title": "Psicología 101: Cómo un Pollo demostró a Jung",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Si un sonido que nombra un objeto no tiene relación con el objeto, se supone arbitrario; Buba-Kiki demuestra que no lo es,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "materialismo-filosofico": {
+      "canonical_name": "materialismo filosófico",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "central_thesis",
+          "minutes": 60,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Sistema filosófico expuesto por un INVITADO (Daniel Alarcón) en formato entrevista, no marco aplicado por el canal Proxy. El canal opera principalmente con marcos junguiano/mitológico (las 16 páginas existentes lo confirman) y aquí actúa como anfitrión de una exposición ajena, no como articulador. Sin evidencia de recurrencia en otros vídeos del corpus ni de aplicación como marco propio. Flag para revisión humana: si reaparece en ≥2 vídeos más con el canal aplicándolo (no solo hospedándolo), procede promover.",
+          "quote_evidence": "El materialismo filosófico exige una reelaboración terminológica que dificulta enormemente su acceso,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 60,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "bueno-gustavo": {
+      "canonical_name": "Gustavo Bueno",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "central_thesis",
+          "minutes": 40,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Filósofo español central de un sistema (materialismo filosófico) tratado solo dentro de esta entrevista. Cumple criterio scope.md §2.2 'substantive treatment ≥10min en ≥1 vídeo' pero: (a) la exposición es del invitado, no del canal; (b) sin evidencia de recurrencia en el corpus; (c) no aparece como marco aplicado por Proxy en sus análisis arquetípicos. Sugerencia de canonical_external_candidate: añadir a canonical_whitelist.json:authors como auto_promote:false (soft) en humanities.philosophy si futuras entrevistas/menciones lo confirman como referencia recurrente del canal.",
+          "quote_evidence": "Gustavo Bueno define materialismo negativamente como la negación de la existencia de seres vivientes incorpóreos,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 40,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "alarcon-daniel": {
+      "canonical_name": "Daniel Alarcón",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Invitado del directo, no figura sobre la que el canal trabaje. La exposición biográfica (musicólogo, formación, llegada al materialismo filosófico) es metadata del formato entrevista, no contenido enciclopédico propio del wiki. No cumple ningún criterio de scope.md §2.2.",
+          "quote_evidence": "Daniel Alarcón es musicólogo de formación, toca violín, canta ópera y flauta de pico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "symploke": {
+      "canonical_name": "principio de symploké",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Principio platónico citado dentro de la exposición del invitado sobre cómo Bueno lo recoge. Sin tratamiento sostenido (≥10min) ni evidencia de recurrencia. Pieza táctica del marco materialista que se discute, no concepto aplicado por el canal.",
+          "quote_evidence": "Si todo estuviera conectado con todo, no podríamos conocer nada porque no podríamos desligar relaciones,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "red-pill": {
+      "canonical_name": "Red Pill",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Tema que el INVITADO investiga (no el canal), tratado con lente sociológica/biológica del materialismo filosófico ('canalización de frustración', 'comprar un crecepelo'). Off-axis frente a la línea editorial del canal Proxy (lectura arquetípica/junguiana de la cultura). Sin evidencia de tratamiento por el canal en otros vídeos.",
+          "quote_evidence": "La Red Pill es la versión especular del feminismo: postula una sociedad ginocéntrica donde el varón está oprimido,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hegel-georg-wilhelm-friedrich": {
+      "canonical_name": "Hegel (panlogismo)",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mencionado dentro de la exposición del invitado para distinguir el panlogismo hegeliano del materialismo filosófico. No hay tratamiento sustantivo de Hegel mismo, ni recurrencia confirmada en el corpus, ni invocación como marco del canal. Posible canonical_external_candidate (humanities.philosophy) si reaparece en más vídeos.",
+          "quote_evidence": "Hegel es panlogista pero sin apelar a algo trascendente: el espíritu se desarrolla en la historia,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "aristoteles": {
+      "canonical_name": "Aristóteles",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mencionado en el itinerario de lecturas del invitado (asignatura de estética conservatorio; cómo leerlo a la par de Santo Tomás y Bueno). Sin tratamiento como pensador analizado por el canal.",
+          "quote_evidence": "La metafísica de Aristóteles se entiende mejor desde Santo Tomás que leída directamente,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tomas-aquino": {
+      "canonical_name": "Santo Tomás",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Recomendación de lectura cruzada con Aristóteles y Bueno. Sin tratamiento sustantivo del pensamiento tomista por el canal.",
+          "quote_evidence": "Lo más productivo es alternar Santo Tomás, Aristóteles y Gustavo Bueno para asimilar críticamente y sistemáticamente,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "weininger-otto": {
+      "canonical_name": "Otto Weininger",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención puntual del invitado dentro de un bloque sobre misoginia histórica en filosofía. Sin tratamiento sustantivo.",
+          "quote_evidence": "Otto Weininger propone una teoría de sustancias masculina y femenina fluidas en cada individuo, precursora del género fluido,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "posmodernidad-critica-mf": {
+      "canonical_name": "Lyotard / Preciado (posmodernidad)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Crítica del invitado a la categoría 'posmodernidad' desde el materialismo filosófico. Marco ajeno al canal, sin recurrencia confirmada. Off-axis editorial.",
+          "quote_evidence": "La distinción de Lyotard entre grandes y pequeños relatos es errónea: el propio posmodernismo es un gran relato,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trevijano-antonio-garcia": {
+      "canonical_name": "García Trevijano (democracia fundamentalista)",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Referencia técnica del invitado en el bloque de teoría política. Off-axis del wiki (filosofía política técnica, no análisis arquetípico cultural).",
+          "quote_evidence": "García Trevijano usa una teoría fundamentalista basada en una idea pura de Montesquieu que no tiene referente empírico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ia-materialismo-filosofico": {
+      "canonical_name": "Carlos Madrid / Luis Santos del Barco (IA en filomat)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Cierre de la entrevista con punteros bibliográficos internos a la fundación Bueno sobre IA. Sin desarrollo enciclopédico.",
+          "quote_evidence": "Carlos Madrid es quien más ha trabajado cerca del tema desde el materialismo filosófico, con artículos sobre física cuántica y matemáticas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "materialismo filosófico": {
+      "canonical_name": "materialismo filosófico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "guest_framework_off_axis",
+          "quote_evidence": "El materialismo filosófico exige una reelaboración terminológica que dificulta enormemente su acceso,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gustavo Bueno": {
+      "canonical_name": "Gustavo Bueno",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "guest_referenced_authority",
+          "quote_evidence": "Gustavo Bueno define materialismo negativamente como la negación de la existencia de seres vivientes incorpóreos,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Daniel Alarcón": {
+      "canonical_name": "Daniel Alarcón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "interview_guest",
+          "quote_evidence": "Daniel Alarcón es musicólogo de formación, toca violín, canta ópera y flauta de pico,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "principio de symploké": {
+      "canonical_name": "principio de symploké",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Si todo estuviera conectado con todo, no podríamos conocer nada porque no podríamos desligar relaciones,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Red Pill": {
+      "canonical_name": "Red Pill",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "off_axis_editorial",
+          "quote_evidence": "La Red Pill es la versión especular del feminismo: postula una sociedad ginocéntrica donde el varón está oprimido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hegel": {
+      "canonical_name": "Hegel",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Hegel es panlogista pero sin apelar a algo trascendente: el espíritu se desarrolla en la historia,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Aristóteles": {
+      "canonical_name": "Aristóteles",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La metafísica de Aristóteles se entiende mejor desde Santo Tomás que leída directamente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Santo Tomás de Aquino": {
+      "canonical_name": "Santo Tomás de Aquino",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lo más productivo es alternar Santo Tomás, Aristóteles y Gustavo Bueno para asimilar críticamente y sistemáticamente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Otto Weininger": {
+      "canonical_name": "Otto Weininger",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Otto Weininger propone una teoría de sustancias masculina y femenina fluidas en cada individuo, precursora del género fluido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lyotard, Preciado": {
+      "canonical_name": "Lyotard, Preciado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "off_axis_editorial",
+          "quote_evidence": "La distinción de Lyotard entre grandes y pequeños relatos es errónea: el propio posmodernismo es un gran relato,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "García Trevijano": {
+      "canonical_name": "García Trevijano",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "off_axis_editorial",
+          "quote_evidence": "García Trevijano usa una teoría fundamentalista basada en una idea pura de Montesquieu que no tiene referente empírico,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Juan Ramón Rallo (liberalismo, ciudad de los 15 minutos)": {
+      "canonical_name": "Juan Ramón Rallo (liberalismo, ciudad de los 15 minutos)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "off_axis_editorial",
+          "quote_evidence": "El materialismo filosófico no es solidario con el liberalismo pero en el debate mundano Rallo no es el peor aliado,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "anarcocapitalismo": {
+      "canonical_name": "anarcocapitalismo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "off_axis_editorial",
+          "quote_evidence": "Sociedades no estatales han existido históricamente, pero el modelo anarcocapitalista actual (policía, derecho y juzgados privatizados) tiene puntos contradictorios,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cayetano (defensor de Eva)": {
+      "canonical_name": "Cayetano (defensor de Eva)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cayetano defiende a Eva argumentando que fue seducida por el demonio (el ser más inteligente), mientras Adán fue seducido por alguien no superior a él,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Carlos Madrid, Luis Santos del Barco, Javier Pérez Jara, Íñigo Ongay": {
+      "canonical_name": "Carlos Madrid, Luis Santos del Barco, Javier Pérez Jara, Íñigo Ongay",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_school_pointers",
+          "quote_evidence": "Javier Pérez Jara tiene un libro sobre Russell con capítulos sobre mente y materia que es el mejor punto de partida,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Bibliografía de biología de los sexos (Buss, Waal, Fisher, Hooven, Goldberg)": {
+      "canonical_name": "Bibliografía de biología de los sexos (Buss, Waal, Fisher, Hooven, Goldberg)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "qbCGrnynKe8",
+          "video_title": "¿Qué es el Materialismo Filosófico? con Daniel Alarcón.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "bibliography_list",
+          "quote_evidence": "*La evolución del deseo* de David Buss como libro clásico fundamental,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "genesis-mitologico": {
+      "canonical_name": "Génesis (como categoría mitológica)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "central_thesis",
+          "minutes": 25,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Monográfico + Framing-mark + Channel-canonical': el canal articula una definición estructural propia de qué es un Génesis (recapitulación metafórica de orígenes, catarsis psicológica, isomorfismo con la síntesis mental), aplicada cross-fuentes (bíblico, tolkieniano, cognitivo). Es uno de los cuatro mitos fundamentales que el canal identifica como armazón mítico de Tolkien y, por extensión, de la voluntad cultural. Pieza load-bearing del aparato del canal: hub natural para futuras lecturas cosmogónicas (Silmarillion, mesopotámicas, Hesíodo, etc.).",
+          "quote_evidence": "Los Génesis son ejercicios de catarsis psicológica que recapitulan los procesos psicológicos fundamentales de los individuos,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 25,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el-silmarillion": {
+      "canonical_name": "El Silmarillion / Ainulindalë",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "central_thesis",
+          "minutes": 70,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Página existente cubre solo Aulë/Yavanna (post-Ainulindalë). Este vídeo expone íntegramente el Ainulindalë (cosmogonía musical previa: Ilúvatar, Ainur, llama imperecedera, discordancia de Melkor, tres formas del mal, Visión, hijos de Ilúvatar). El Ainulindalë es prólogo cronológico de la obra y debe figurar como sección anterior a la lectura de los Valar terrestres. No promote_new: el Ainulindalë no es obra independiente (Christopher Tolkien lo compiló a partir de notas).",
+          "quote_evidence": "Los Ainur son emanaciones: individuaciones a partir del todo, pasos del infinito a la unidad, de lo abstracto a lo concreto,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 70,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mitologia-propia-impropia": {
+      "canonical_name": "Mitología propia (autorreferencialidad)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "La página existente articula la distinción propia/impropia pero no incluye la dimensión cognitiva — los mitos propios como autorreferenciales por isomorfismo con las representaciones mentales. Update breve pero conceptualmente cargado.",
+          "quote_evidence": "Las metáforas mitológicas de los mitos propios son autorreferenciales porque las representaciones mentales también lo son,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "lucifer-satanas": {
+      "canonical_name": "Lucifer / Satanás (distinción y tres acepciones)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Bloque sustantivo (~12min) con genealogía no bíblica de Lucifer y tres acepciones de Satanás (Job/desesperanza, Evangelios/oposición, Apocalipsis/Bestia). Pero es exégesis bíblica para preparar la lectura de Melkor, no marco aplicado independientemente por el canal. Sin recurrencia confirmada en otros vídeos. Mantener como contenido potencial de la página tolkien-jrr/el-silmarillion (figuras del mal); promover si reaparece con tratamiento independiente.",
+          "quote_evidence": "Satanás como anticristo es un competidor de Cristo que podría hacer el bien; Lucifer nunca podría,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "melkor": {
+      "canonical_name": "Melkor",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "secondary",
+          "minutes": 15,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Personaje de la mitología tolkieniana central a este análisis (15min de tratamiento psicológico — herida narcisista, ansiedad creativa, búsqueda de la llama). Pero es figura interna del Silmarillion, no concepto del canal con vida propia. Su material se canaliza como contenido de la página el-silmarillion en la sección nueva sobre Ainulindalë. Promover sería duplicar material ya cubierto en la obra parent.",
+          "quote_evidence": "La herida de Melkor es la ansiedad creativa de quien no encaja entre sus iguales y busca autodeterminarse,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 15,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "iluvatar": {
+      "canonical_name": "Ilúvatar",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Figura cosmogónica tolkieniana (el Uno). Tratamiento sustantivo dentro del Ainulindalë pero sin vida conceptual fuera del Silmarillion. Material absorbido en update de el-silmarillion.",
+          "quote_evidence": "Para Ilúvatar no hay causa y consecuencia; desde el primer momento ya es consciente de toda la obra que se desarrollará,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ainur": {
+      "canonical_name": "Ainur",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Categoría tolkieniana (emanaciones de Ilúvatar). Tratamiento dentro del Silmarillion. Material en update de el-silmarillion.",
+          "quote_evidence": "Los Ainur son emanaciones: individuaciones a partir del todo, pasos del infinito a la unidad, de lo abstracto a lo concreto,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "llama-imperecedera": {
+      "canonical_name": "llama imperecedera",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Concepto tolkieniano con lectura psicologista del canal (capacidad creadora ex nihilo = reflejo de orientación). Tratamiento breve, dependiente de la cosmogonía del Silmarillion. Material en update de el-silmarillion.",
+          "quote_evidence": "La llama imperecedera es la capacidad creadora de Dios proyectada sobre los Ainur: la inspiración divina,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tuatha-de-danann": {
+      "canonical_name": "Tuatha Dé Danann",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mitología celta irlandesa citada como inspiración estética de Tolkien. Sin tratamiento propio del canal. Material en update de tolkien-jrr (sección sobre fuente estética céltica).",
+          "quote_evidence": "Los Tuatha Dé Danann son la inspiración estética principal de toda la obra de Tolkien,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cristo-sacrificio-lectura": {
+      "canonical_name": "Cristo / sacrificio (lectura del canal)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Bloque de 8min con lectura del canal sobre el sacrificio de Cristo como pacto mitológico (Cristo como héroe solar). Material on-axis pero introductorio al análisis tolkieniano (preparar la idea de mal primario y redención). Sin recurrencia confirmada con tratamiento independiente. Posible promote en el futuro si aparece en directos sobre cristología.",
+          "quote_evidence": "El sacrificio revela simultáneamente la falibilidad humana, la omnisciencia de Dios y la perfección de Cristo como héroe solar,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cabala": {
+      "canonical_name": "cábala / sefirot",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención analógica única para iluminar la estructura de los temas musicales de los Ainur. canonical_whitelist incluye 'kabbalah' como soft (auto_promote:false); este vídeo no la trabaja como marco propio.",
+          "quote_evidence": "Cada Ainur recibe un tema como un campo matemático nuevo por explorar, un ámbito del ser comparable a las sefirot de la cábala,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "apocalipsis-mito": {
+      "canonical_name": "Apocalipsis (como mito fundamental)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Nombrado como uno de los cuatro mitos fundamentales de Tolkien y aparece en la acepción de Satanás como Bestia hijo del Dragón. Sin tratamiento monográfico propio. Si parte 2 del directo lo desarrolla, valorar promote entonces.",
+          "quote_evidence": "En el Apocalipsis, la Bestia es el hijo del Dragón: el mal cetónico materializado en un individuo para el final de los tiempos,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lucifer / Satanás (genealogía y tres acepciones)": {
+      "canonical_name": "Lucifer / Satanás (genealogía y tres acepciones)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "single_video_no_recurrence",
+          "quote_evidence": "Satanás como anticristo es un competidor de Cristo que podría hacer el bien; Lucifer nunca podría,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Melkor": {
+      "canonical_name": "Melkor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "La herida de Melkor es la ansiedad creativa de quien no encaja entre sus iguales y busca autodeterminarse,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ilúvatar": {
+      "canonical_name": "Ilúvatar",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "Para Ilúvatar no hay causa y consecuencia; desde el primer momento ya es consciente de toda la obra que se desarrollará,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ainur": {
+      "canonical_name": "Ainur",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "Los Ainur son emanaciones: individuaciones a partir del todo, pasos del infinito a la unidad, de lo abstracto a lo concreto,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "llama imperecedera": {
+      "canonical_name": "llama imperecedera",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "internal_to_parent_work",
+          "quote_evidence": "La llama imperecedera es la capacidad creadora de Dios proyectada sobre los Ainur: la inspiración divina,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tuatha Dé Danann": {
+      "canonical_name": "Tuatha Dé Danann",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los Tuatha Dé Danann son la inspiración estética principal de toda la obra de Tolkien,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cristo / sacrificio (lectura del canal)": {
+      "canonical_name": "Cristo / sacrificio (lectura del canal)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "single_video_no_recurrence",
+          "quote_evidence": "El sacrificio revela simultáneamente la falibilidad humana, la omnisciencia de Dios y la perfección de Cristo como héroe solar,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cábala / sefirot": {
+      "canonical_name": "cábala / sefirot",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cada Ainur recibe un tema como un campo matemático nuevo por explorar, un ámbito del ser comparable a las sefirot de la cábala,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Apocalipsis (como mito fundamental)": {
+      "canonical_name": "Apocalipsis (como mito fundamental)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "En el Apocalipsis, la Bestia es el hijo del Dragón: el mal cetónico materializado en un individuo para el final de los tiempos,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "transición (como mito fundamental)": {
+      "canonical_name": "transición (como mito fundamental)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s6teBboDDJ4",
+          "video_title": "el Génesis en Tolkien (Parte 1)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los mitos fundamentales en Tolkien son el Génesis, la transición, el mito polar y el Apocalipsis,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

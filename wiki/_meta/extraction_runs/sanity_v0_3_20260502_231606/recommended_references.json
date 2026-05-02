@@ -1,7 +1,315 @@
 {
   "version": "0.1.0",
   "run_id": "sanity_v0_3_20260502_231606",
-  "generated_at": "2026-05-02T21:33:29+00:00",
+  "generated_at": "2026-05-02T21:56:41+00:00",
   "_doc": "Manuales/libros que el speaker recomienda como referencia bibliográfica del canal (scope.md §3.4). Agrupados por book_title con todas las occurrences. Insumo para futura página índice wiki/bibliografia-recomendada.md (renderizado post-process — esta es la fuente de verdad estructurada).",
-  "books": {}
+  "books": {
+    "Mapas de sentido": {
+      "book_title": "Mapas de sentido",
+      "authors": [
+        "Jordan B. Peterson"
+      ],
+      "domain": "psicología clínica / mitología / semiótica",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Mapas de sentido (Peterson)",
+          "why_recommended": "tratado fundacional que articula la confluencia entre sentido del mito, afectividad/emociones y capacidad mental de representación; denso pero esencial",
+          "quote_evidence": "Peterson fue el primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica,",
+          "timestamp_seconds": 109
+        }
+      ]
+    },
+    "Tratado de semiótica general": {
+      "book_title": "Tratado de semiótica general",
+      "authors": [
+        "Umberto Eco"
+      ],
+      "domain": "semiótica / filosofía",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Tratado de semiótica general (Umberto Eco)",
+          "why_recommended": "tratado filosófico de semiótica, contrapunto a la síntesis cultural-psicológica de Peterson; incluso más denso",
+          "quote_evidence": "A diferencia de Peterson, Eco hace un tratado filosófico, no una síntesis cultural-psicológica,",
+          "timestamp_seconds": 230
+        }
+      ]
+    },
+    "El Héroe de las mil caras": {
+      "book_title": "El Héroe de las mil caras",
+      "authors": [
+        "Joseph Campbell"
+      ],
+      "domain": "mitología comparada / arquetipos",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "El Héroe de las mil caras",
+          "why_recommended": "base teórica de la relación entre mitología y psique; formulación canónica del monomito",
+          "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,",
+          "timestamp_seconds": 261
+        }
+      ]
+    },
+    "Tú eres eso": {
+      "book_title": "Tú eres eso",
+      "authors": [
+        "Joseph Campbell"
+      ],
+      "domain": "mitología comparada / arquetipos",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Tú eres eso (Campbell)",
+          "why_recommended": "especialmente útil para comprender qué es verdaderamente un arquetipo, vía menos densa que Jung",
+          "quote_evidence": "*Tú eres eso* y *El poder del mito* son especialmente útiles para comprender qué es verdaderamente un arquetipo,",
+          "timestamp_seconds": 261
+        }
+      ]
+    },
+    "El poder del mito": {
+      "book_title": "El poder del mito",
+      "authors": [
+        "Joseph Campbell"
+      ],
+      "domain": "mitología comparada / arquetipos",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "El poder del mito (Campbell)",
+          "why_recommended": "especialmente útil para comprender qué es verdaderamente un arquetipo, vía menos densa que Jung",
+          "quote_evidence": "*Tú eres eso* y *El poder del mito* son especialmente útiles para comprender qué es verdaderamente un arquetipo,",
+          "timestamp_seconds": 261
+        }
+      ]
+    },
+    "Las enseñanzas secretas de todos los tiempos": {
+      "book_title": "Las enseñanzas secretas de todos los tiempos",
+      "authors": [
+        "Manly P. Hall"
+      ],
+      "domain": "esoterismo / mitología comparada",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Las enseñanzas secretas de todos los tiempos (Manly P. Hall)",
+          "why_recommended": "libro de consulta sobre la relación entre mito y religión; primera edición 1928, más de mil páginas",
+          "quote_evidence": "Muestra la relación entre mito y religión,",
+          "timestamp_seconds": 411
+        }
+      ]
+    },
+    "La rama dorada": {
+      "book_title": "La rama dorada",
+      "authors": [
+        "James George Frazer"
+      ],
+      "domain": "antropología / mitología comparada",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "La rama dorada (Frazer)",
+          "why_recommended": "imprescindible para comprender cómo funciona el pensamiento poético y la estructura arquetípica intuitiva de la psique humana, aunque la tesis histórica esté rebatida",
+          "quote_evidence": "Históricamente está rebatida, pero es importantísimo para comprender cómo funciona el pensamiento poético,",
+          "timestamp_seconds": 472
+        }
+      ]
+    },
+    "La Diosa Blanca": {
+      "book_title": "La Diosa Blanca",
+      "authors": [
+        "Robert Graves"
+      ],
+      "domain": "mitología comparada / arquetipo femenino",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "La Diosa Blanca (Robert Graves)",
+          "why_recommended": "contrapunto femenino a Frazer; imprescindible para sumergirse en el pensamiento poético sobre lo femenino, aun con la tesis histórica desmentida",
+          "quote_evidence": "La Diosa Blanca es una estructura poético-mitológica con manifestaciones arquetípicas universales que sí existen más allá de la elaboración inventada de Graves,",
+          "timestamp_seconds": 563
+        }
+      ]
+    },
+    "El mito de la diosa": {
+      "book_title": "El mito de la diosa",
+      "authors": [
+        "Anne Baring",
+        "Jules Cashford"
+      ],
+      "domain": "mitología comparada / arquetipo femenino / antropología",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "El mito de la diosa (Cashford y Baring)",
+          "why_recommended": "referencia exhaustiva e ilustrada sobre la transición mitológica del matriarcado al patriarcado y la historia antigua de la diosa",
+          "quote_evidence": "Trata la historia de la prehistoria y la historia antigua sobre la transición de arquetipos femeninos a masculinos,",
+          "timestamp_seconds": 685
+        }
+      ]
+    },
+    "El paraíso perdido": {
+      "book_title": "El paraíso perdido",
+      "authors": [
+        "John Milton"
+      ],
+      "domain": "literatura / mitología cristiana",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "El paraíso perdido (Milton)",
+          "why_recommended": "lectura imprescindible dentro del corpus de elaboración mitológica con base cristiana",
+          "quote_evidence": "*El paraíso perdido* de Milton es imprescindible,",
+          "timestamp_seconds": 746
+        }
+      ]
+    },
+    "La Divina Comedia": {
+      "book_title": "La Divina Comedia",
+      "authors": [
+        "Dante Alighieri"
+      ],
+      "domain": "literatura / mitología cristiana",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "La Divina Comedia (Dante)",
+          "why_recommended": "lectura imprescindible aunque sea elaboración propia con base cristiana, no mitología universal; recomendable en adaptación en prosa",
+          "quote_evidence": "La mitología de Dante es una elaboración propia con base cristiana, no mitología universal, pero hay que leerla igualmente,",
+          "timestamp_seconds": 746
+        }
+      ]
+    },
+    "La Luna": {
+      "book_title": "La Luna",
+      "authors": [
+        "Jules Cashford"
+      ],
+      "domain": "mitología comparada / simbolismo / arquetipo lunar",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "La Luna (Cashford)",
+          "why_recommended": "tratado exhaustivo y bien editado (Atalanta) sobre todo el mito, imaginario y simbología universal de la luna; abarca arquetipo femenino y masculino lunar",
+          "quote_evidence": "Contiene todo el mito, imaginario y simbología existente de la luna, universal y antigua,",
+          "timestamp_seconds": 868
+        }
+      ]
+    },
+    "Tarot": {
+      "book_title": "Tarot",
+      "authors": [
+        "Biblioteca de Esoterismo (ed.)"
+      ],
+      "domain": "esoterismo / iconografía / tarot",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Tarot (libro de la Biblioteca de Esoterismo)",
+          "why_recommended": "imaginería visual del tarot con explicaciones básicas de simbología; cuidada edición de coleccionista",
+          "quote_evidence": "Recomendable para coleccionistas de libros de semiótica por su cuidada edición,",
+          "timestamp_seconds": 1021
+        }
+      ]
+    },
+    "Textos de Qumrán": {
+      "book_title": "Textos de Qumrán",
+      "authors": [
+        "(fuente primaria, varios editores)"
+      ],
+      "domain": "religión antigua / textos primarios",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Textos de Qumrán",
+          "why_recommended": "fuente primaria para rastrear la historia antigua del origen de las civilizaciones; libro de consulta para citas que aparecen en mitología",
+          "quote_evidence": "Para rastrear la historia antigua del origen de las civilizaciones hay que tener los textos de Qumrán,",
+          "timestamp_seconds": 1081
+        }
+      ]
+    },
+    "Textos herméticos (recopilaciones íntegras)": {
+      "book_title": "Textos herméticos (recopilaciones íntegras)",
+      "authors": [
+        "(fuentes primarias, varios editores)"
+      ],
+      "domain": "hermetismo / textos primarios",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Literatura hermética (recopilaciones íntegras)",
+          "why_recommended": "fuentes primarias para consulta cuando aparecen citas en la mitología; evitar elaboraciones modernas (esoterismo, no semiótica)",
+          "quote_evidence": "No comprar libros de hermética elaborados por autores modernos porque eso es esoterismo e interpretación libre, no semiótica,",
+          "timestamp_seconds": 1081
+        }
+      ]
+    },
+    "Jung y el tarot": {
+      "book_title": "Jung y el tarot",
+      "authors": [
+        "(autor junguiano, no especificado en el summary)"
+      ],
+      "domain": "psicología junguiana / tarot",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Jung y el tarot",
+          "why_recommended": "introducción a la comprensión junguiana de los arquetipos contenidos en el tarot, vía más accesible que leer a Jung directamente",
+          "quote_evidence": "Es mejor leer a autores junguianos que leer directamente a Jung para empezar a comprenderlo,",
+          "timestamp_seconds": 1172
+        }
+      ]
+    },
+    "Alicia en el País de las Maravillas": {
+      "book_title": "Alicia en el País de las Maravillas",
+      "authors": [
+        "Lewis Carroll"
+      ],
+      "domain": "literatura / lógica matemática / fantasía formal",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "Alicia en el País de las Maravillas (Lewis Carroll)",
+          "why_recommended": "fantasía elaborada como guiño a las matemáticas y la lógica, no arbitraria; útil para aprender a bucear en estructuras del inconsciente, especialmente tras leer a Gödel, Hofstadter y Eco",
+          "quote_evidence": "Lewis Carroll era experto en lógica matemática formal y su obra no es fantasía arbitraria ni aleatoria,",
+          "timestamp_seconds": 1234
+        }
+      ]
+    },
+    "A través del espejo": {
+      "book_title": "A través del espejo",
+      "authors": [
+        "Lewis Carroll"
+      ],
+      "domain": "literatura / lógica matemática / fantasía formal",
+      "occurrences": [
+        {
+          "video_id": "IytpR6sGWXg",
+          "video_title": "Biblioteca de Babel II",
+          "surface_form": "A través del espejo (Lewis Carroll)",
+          "why_recommended": "compañera de Alicia en la misma tesis lógico-formal; muy recomendable para aprender a bucear en las estructuras del inconsciente",
+          "quote_evidence": "Son dos libros: *Alicia en el País de las Maravillas* y *A través del espejo*; muy recomendable para aprender a bucear en las estructuras del inconsciente,",
+          "timestamp_seconds": 1234
+        }
+      ]
+    }
+  }
 }

@@ -1,0 +1,132 @@
+{
+  "video_id": "O-kzVFngjAQ",
+  "video_title": "Tolkien y los dragones",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "_doc_strategy": "Vídeo monográfico (85 min) sobre el arquetipo del dragón aplicado a Tolkien. Las páginas centrales (dragon-arquetipo, uranico-telurico-cetonico, tolkien-jrr) ya han absorbido la mayor parte del material en pasadas anteriores — sus citation lists incluyen casi todos los timestamps relevantes. Quedan dos lagunas declaradas en dragon-arquetipo cuyos chunks YA están citados pero cuyo contenido NO se integró al body: (1) 'Mecánica psicológica del vencer al dragón' resuelta por el chunk 39:08 ('vencer al dragón = matar al padre = reconciliarse con el padre'); (2) 'Relación con el demoníaco' resuelta por chunks 57:43 y 1:00:15 (dragones=fuerzas naturaleza vs demonios=fuerzas pecado, mal increado vs mal creado). El movimiento natural es completar dragon-arquetipo con dos secciones nuevas que cierren esas lagunas. Adicionalmente, tolkien-jrr.md tiene un HTML comment auto-flagged ('LAGUNA POSSIBLY RESOLVED... verificar y borrar') sobre la laguna del mal primario, que SÍ está resuelta por las secciones de demonología tolkieniana ya presentes en el body. Limpieza housekeeping. No genero thesis_candidate (vídeo monográfico de arquetipo, pero el material ya tiene página home consolidada en dragon-arquetipo).",
+  "entities": [],
+  "pending_updates": [
+    {
+      "target_page_id": "dragon-arquetipo",
+      "patch_op": "insert_after_passage",
+      "anchor": "El elemento estético (sea marino, de hielo, aéreo, solar) no muta el arquetipo: \"el tipo de elemento no cambia el arquetipo, solo el prototipo estético\". Por eso el leviatán semítico-occidental es el mismo dragón bajo otra superficie.",
+      "new_content": "\n## Dragón frente a demonio: dos categorías del mal\n\nLa distinción más operativa que el canal articula sobre el arquetipo separa al **dragón** del **demonio** como dos categorías arquetípicas distintas del mal — confusión coloquial que la lectura del canal disuelve genealógicamente:\n\n> \"Los dragones son fuerzas de la naturaleza; los demonios son fuerzas de pecado\"\n→ [Tolkien y los dragones, 57:43](https://youtu.be/O-kzVFngjAQ?t=3463)\n\n> \"Los dragones destruyen pero no encarnan el mal genuino; los demonios son encarnaciones del mal y del pecado humano\"\n→ [Tolkien y los dragones, 57:43](https://youtu.be/O-kzVFngjAQ?t=3463)\n\nLa diferencia es **genealógica**: el demonio pertenece al **mal creado**, posterior a la creación; el dragón es avatar del **mal increado**, anterior al gesto creador.\n\n> \"El dragón deviene del caos primigenio, de antes de la creación; el demonio es generado junto a nosotros, pertenece al mundo creado\"\n→ [Tolkien y los dragones, 1:00:15](https://youtu.be/O-kzVFngjAQ?t=3615)\n\n> \"El dragón no representa el pecado sino el terror absoluto a lo desconocido; el demonio representa el mal reconocible (guerra, barbarie, corrupción)\"\n→ [Tolkien y los dragones, 1:00:15](https://youtu.be/O-kzVFngjAQ?t=3615)\n\nLa triada [[uranico-telurico-cetonico]] subraya espacialmente la distinción: los dragones son **telúricos** (avatares del caos primigenio que se manifiestan sobre la superficie) mientras los demonios son **cetónicos** (habitan las profundidades del alma humana, donde el pecado anida). El balrog tolkieniano es el caso paradigmático del demonio cetónico; Smaug, el del dragón telúrico — la página de [[tolkien-jrr]] desarrolla el par balrog/Smaug como articulación causa-demoníaca / efecto-caótico, donde la ambición de los enanos (pecado humano) despierta primero al demonio que la encarna y después al dragón que la consuma.\n\nLa demonología tolkieniana del canal añade un nivel adicional con la distinción **Lucifer / Satanás** —dos figuras del mal demoníaco con lógicas distintas— que se articula íntegramente en [[tolkien-jrr]]: Lucifer como demonio primigenio de la vanidad (Sauron), Satanás como hereje lógico del Anticristo (Saruman), Gollum como alma corrompida resultante del paso del mal por la psique humana.",
+      "citations": [
+        "youtube:O-kzVFngjAQ#3463",
+        "youtube:O-kzVFngjAQ#3615",
+        "youtube:O-kzVFngjAQ#3766",
+        "youtube:O-kzVFngjAQ#4072",
+        "youtube:O-kzVFngjAQ#4377"
+      ],
+      "supersedes_laguna": "**Relación con el demoníaco**: el vídeo distingue dragón frente a elemental, titán y gigante, pero la diferenciación frente al balrog/demonio (anunciada como parte del programa) no aparece en el fragmento recuperado",
+      "quote_evidence": "Los dragones son fuerzas de la naturaleza; los demonios son fuerzas de pecado",
+      "rationale": "La página dragon-arquetipo cita los chunks 57:43 y 1:00:15 en su Citations list (líneas 159) pero su body no había integrado esa material en sección dedicada. La laguna 'Relación con el demoníaco' es explícita: 'la diferenciación frente al balrog/demonio... no aparece en el fragmento recuperado'. Este insert consolida la diferenciación dragón/demonio como sección autónoma y enlaza con uranico-telurico-cetonico (la distinción espacial) y tolkien-jrr (la demonología completa con Lucifer/Satanás aplicada a Sauron/Saruman/Gollum/balrog/Smaug — ya presente en esa página).",
+      "review_priority": "medium",
+      "review_priority_reason": "Cierre de laguna explícita en una página existente. Auditar: (a) que la sección no duplique contenido ya presente en uranico-telurico-cetonico (que cubre la distinción telúrico/cetónico — aquí se referencia con wikilink, no se duplica); (b) que las citas insertadas coincidan con substrings literales del summary; (c) la atribución 'mal increado vs mal creado' como articulación genealógica del canal — es framing canal-específico, verificar que no se atribuye como originalidad cuando es posición teológica clásica que el canal aplica."
+    },
+    {
+      "target_page_id": "dragon-arquetipo",
+      "patch_op": "insert_after_passage",
+      "anchor": "En esta clave, vencer al dragón equivale a colonizar simbólicamente un fragmento del caos — convertir lo increado en orden comprensible. El dragón es el límite móvil del yo, no un enemigo cualquiera.",
+      "new_content": "\n### Vencer al dragón como resolución con el padre\n\nEl canal articula además una equivalencia arquetípica que recoloca lo que significa derrotar al dragón. La victoria sobre la bestia primigenia, el regicidio mítico y la reconciliación con el padre son arquetípicamente la misma operación.\n\n> \"Vencer al dragón, matar al padre y reconciliarse con el padre son arquetípicamente lo mismo: resolver al padre\"\n→ [Tolkien y los dragones, 39:08](https://youtu.be/O-kzVFngjAQ?t=2348)\n\nLa equivalencia tiene una consecuencia teórica fuerte: el dragón **no se opone al héroe como otro monstruo**, sino que ocupa la posición arquetípica del padre — la potencia anterior cuya autoridad debe ser superada para que el héroe acceda a la suya propia. Esta lectura distingue al dragón del **gobernante tirano**, que tiene un arquetipo distinto:\n\n> \"El gobernante oscuro es un héroe truncado, no una bestia; tiene su propio arquetipo de oposición\"\n→ [Tolkien y los dragones, 39:08](https://youtu.be/O-kzVFngjAQ?t=2348)\n\n> \"El dragón tiene dominios pero no gobierno: el gobierno implica intenciones humanas, el dragón tiene intenciones de bestia desconocidas\"\n→ [Tolkien y los dragones, 39:08](https://youtu.be/O-kzVFngjAQ?t=2348)\n\nEl dragón no gobierna porque no tiene intenciones humanas: ocupa territorio sin razón que articular. Por eso su derrota no es revolución política sino **rito de paso interior** — quien vence al dragón se convierte en sucesor legítimo de la autoridad del caos, asumiendo la potencia del padre cosmogónico.\n\nLa estructura es comparable a la del Cristo cristiano que se reconcilia con el Padre como movimiento culminante del relato:\n\n> \"El Cristo reconciliándose con el Padre para avanzar en la renovación es la misma estructura arquetípica\"\n→ [Tolkien y los dragones, 43:13](https://youtu.be/O-kzVFngjAQ?t=2593)\n\nLa equivalencia conecta al arquetipo del dragón con el patrón general del [[viaje-heroe|viaje del héroe]] — donde el padre es etapa estructural — y con la dinámica de la [[individuation|individuación]], donde la integración del padre interior es condición del self maduro. Hay también historias en las que el dragón, una vez cumplida su función como prueba, se aparta a morir solo: \"hay historias donde los dragones, tras conceder su tesoro o secreto, se alejan a morir porque su función ha acabado\". El dragón no persiste por sí mismo; su sempiternidad se cancela cuando el héroe la integra.",
+      "citations": [
+        "youtube:O-kzVFngjAQ#2195",
+        "youtube:O-kzVFngjAQ#2348",
+        "youtube:O-kzVFngjAQ#2593"
+      ],
+      "supersedes_laguna": "**Mecánica psicológica del \"vencer al dragón\"**: el canal afirma que el dragón existe para ser vencido y que vencerlo extiende el yo, pero no detalla en este pasaje qué operación interior corresponde a esa victoria (¿integración? ¿represión exitosa? ¿transformación alquímica?)",
+      "quote_evidence": "Vencer al dragón, matar al padre y reconciliarse con el padre son arquetípicamente lo mismo: resolver al padre",
+      "rationale": "Cierra la laguna explícita 'Mecánica psicológica del vencer al dragón'. La operación interior que el canal articula es la **resolución con el padre**: vencer el dragón = matar al padre = reconciliarse con el padre, tres formas arquetípicas de la misma operación. Esto distingue además al dragón del 'gobernante tirano' (héroe truncado, otro arquetipo) y conecta con viaje-heroe e individuation. La sección se inserta como sub-sección (###) dentro de la sección existente 'El dragón existe para ser vencido' por afinidad temática.",
+      "review_priority": "medium",
+      "review_priority_reason": "Cierre de laguna mediante articulación interpretativa fuerte (vencer-dragón = resolver-padre). Auditar: (a) que la equivalencia se atribuya correctamente al canal y no se infle con interpretaciones del extractor — la cita 39:08 es literal del summary; (b) la conexión con Cristo-Padre y el chiste rabínico cita literalmente el summary (43:13) pero el extractor reescribió la conexión a viaje-heroe/individuation — verificar que esa conexión sea consistente con el modelo del canal; (c) revisar si la frase 'su sempiternidad se cancela cuando el héroe la integra' es síntesis del extractor o tiene base literal — es interpretación del extractor sobre la cita 36:35, marcar para revisión."
+    },
+    {
+      "target_page_id": "tolkien-jrr",
+      "patch_op": "replace_passage",
+      "anchor": "<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Falta el tratamiento del mal primario (Melkor / Morgoth / Sauron) que el título -->\n- Falta el tratamiento del mal primario (Melkor / Morgoth / Sauron) que el título del vídeo anuncia pero que el fragmento recuperado no desarrolla",
+      "new_content": "",
+      "citations": [],
+      "supersedes_laguna": "Falta el tratamiento del mal primario (Melkor / Morgoth / Sauron) que el título del vídeo anuncia pero que el fragmento recuperado no desarrolla",
+      "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación",
+      "rationale": "La página tolkien-jrr.md ya integra en su body la sección completa 'Demonología tolkieniana: figuras del mal en la creación' con: distinción Lucifer/Satanás (1:02:46), Sauron como Lucifer (1:07:52), Saruman como Satanás (1:07:52), Gollum como alma corrompida (1:07:52), Balrog cetónico de la ambición (1:12:57), Smaug como dragón telúrico consecuente (1:12:57), cadena de corrupción Melkor→Sauron→Saruman→orcos (1:25:07). La laguna que el HTML comment señala como 'POSSIBLY RESOLVED' está efectivamente resuelta por ese contenido. Esta operación elimina tanto el comment como el bullet.",
+      "review_priority": "low",
+      "review_priority_reason": "Limpieza housekeeping de laguna ya marcada por edición previa como possibly_resolved. Riesgo bajo. Verificar antes de aplicar que el body de tolkien-jrr.md sigue conteniendo la sección completa de demonología — si no, restaurar."
+    }
+  ],
+  "thesis_candidates": [],
+  "_doc_thesis_candidates": "No se genera thesis_candidate. El vídeo es monográfico-pedagógico sobre el arquetipo del dragón con marco interno articulado (programa de tres objetivos al inicio, distinciones operativas a lo largo). Cumple criterios pedagogic_register + internal_structure pero el contenido ya tiene página home consolidada (dragon-arquetipo) más enriquecimientos en uranico-telurico-cetonico y tolkien-jrr — todo el material está absorbido. Crear synthesis adicional duplicaría contenido. Las teses canal-específicas embebidas (mal increado vs mal creado, Lucifer vs Satanás como categorías arquetípicas, vencer-dragón = resolver-padre) son piezas de páginas existentes, no objetos enciclopédicos autónomos.",
+  "discarded": [
+    {
+      "surface_form": "Pecado original como no asumir la culpa (lectura canal de Génesis)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura no-convencional del Génesis bíblico: 'el pecado original no es comer la manzana ni obedecer a la serpiente, sino no reconocer ante Dios lo que hicieron y no asumir la culpa'. Articulación canal-específica con marca de marco aplicado. Conecta con la lectura del canal sobre la serpiente como portadora de posibilidad real, no embaucadora.",
+      "quote_evidence": "El pecado original no es comer la manzana ni obedecer a la serpiente, sino no reconocer ante Dios lo que hicieron y no asumir la culpa",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis breve pero clara sobre lectura del Génesis bíblico. Si reaparece en otros vídeos sobre teología cristiana o moral, candidata a sección de genesis-mitologico o concept propia. Vigilar reaparición.",
+      "enriches_concept": "genesis-mitologico"
+    },
+    {
+      "surface_form": "Hobbes y el Leviatán como Estado",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve de la subversión hobbesiana del leviatán bíblico para hablar del Estado. La página uranico-telurico-cetonico ya cubre el leviatán cetónico bíblico; la mención de Hobbes es paréntesis filosófico sin desarrollo. Per scope.md §3, el caso de Hobbes como filosofía política puede ser IN si se aplica como marco — aquí solo se cita peripheralmente.",
+      "quote_evidence": "Hobbes subvirtió el leviatán como símbolo del temor colectivo para hablar del Estado, convirtiéndolo en figura telúrica retórica",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "uranico-telurico-cetonico"
+    },
+    {
+      "surface_form": "Fantasía como alegoría del cristianismo / Dragones y Mazmorras como heredera de Tolkien",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis canal-específica sobre el género fantasía contemporáneo y su raíz tolkieniana. Ya canalizada en tolkien-jrr.md vía sección 'Cadena de corrupción y la fantasía como alegoría cristiana'. La mención a Dragones y Mazmorras como 'fantasía gótica por excelencia' es pieza menor sin desarrollo.",
+      "quote_evidence": "Nadie ve El Señor de los Anillos como alegoría del cristianismo porque nadie ve la fantasía como tal",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tolkien-jrr"
+    },
+    {
+      "surface_form": "Imposibilidad física del dragón volador / Quetzalcoatlus",
+      "reason_code": "passing_mention",
+      "reason_detail": "Disgresión paleontológica/aerodinámica al inicio del vídeo. Per scope.md §1, ciencia natural fuera de alcance editorial salvo aplicada como marco; aquí es ilustración técnica sin marco arquetípico. Útil para confirmar que el dragón es categoría arquetípica, no zoológica — pero el body de dragon-arquetipo ya hace la distinción más sólidamente vía la articulación 'avatar del caos'.",
+      "quote_evidence": "El quetzalcoatlus es lo más parecido que ha existido a un dragón volador real",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dragon-arquetipo"
+    },
+    {
+      "surface_form": "Chiste del rabino (estructura arquetípica de la reconciliación con el Padre)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota narrativa que el canal usa para ilustrar la equivalencia arquetípica vencer-dragón = resolver-padre = Cristo-reconciliándose-con-Padre. Pieza pedagógica del vídeo, no contenido enciclopédico autónomo. Canalizada al body de dragon-arquetipo vía el pending_update sobre 'vencer al dragón como resolución con el padre'.",
+      "quote_evidence": "El Cristo reconciliándose con el Padre para avanzar en la renovación es la misma estructura arquetípica",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dragon-arquetipo"
+    },
+    {
+      "surface_form": "Personajes tolkienianos (Sauron, Saruman, Gollum, balrog, Smaug, Melkor)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Personajes internos del legendarium tolkieniano. Per scope §2 no son objetos enciclopédicos autónomos — son figuras dentro de la lectura del canal sobre Tolkien. Ya canalizadas en tolkien-jrr.md (sección Demonología tolkieniana) y en el-silmarillion.md.",
+      "quote_evidence": "Sauron es la figura luciferina: corrompido por Melkor, encarna el mal primigenio dentro de la creación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tolkien-jrr"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 7,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Lucifer vs Satanás (distinción canal-específica del demoníaco)] reason=passing_mention quote no literal"
+  ]
+}

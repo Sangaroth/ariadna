@@ -1,0 +1,196 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_audit_subagent_20260502_205509",
+  "items": [
+    {
+      "canonical_guess": "dracula-1992-film",
+      "from_video": "JmCqIk6NDsM",
+      "entity": {
+        "surface_form": "Drácula",
+        "canonical_guess": "dracula-1992-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 180,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El canal analiza películas como mitos modernos extrayendo su sentido universal,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Drácula simboliza simultáneamente un amante trágico, un sacrílego, un demonio y un caballero maldito,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3 'Análisis dedicado': vídeo monográfico de ≥3h sobre la obra (Coppola 1992). Caso canónico cross-thematic: hieros gamos satánico, sombra liberada, anima oscura (Lilit), íncubo/súcubo. Aplicación múltiple de marcos del canal a la misma obra.",
+        "quote_evidence": "El mito universal detrás de Drácula es la estructura de los amantes trágicos,"
+      }
+    },
+    {
+      "canonical_guess": "sindrome-wendy",
+      "from_video": "JmCqIk6NDsM",
+      "entity": {
+        "surface_form": "síndrome de Wendy",
+        "canonical_guess": "sindrome-wendy",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology.jungian",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 8,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El síndrome de Wendy es la feminidad ingenua que crea héroes imaginarios y los convierte en amantes ideales,"
+          },
+          {
+            "mark_type": "self_referenced_origin",
+            "quote_evidence": "Drácula comienza donde termina el síndrome de Wendy,"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 'Recurrencia + Framing-mark + Channel-canonical': concepto canal-específico con vídeo dedicado (citado en anima-archetype.md desde 'El síndrome de Wendy, 32:34'), articulado aquí con estructura interna (Wendy→ninfa, Artemisa→Afrodita, mutación tras florecimiento sexual). Aparece en anima-archetype existente como wikilink implícito; merece página propia para no dispersar como contenido en otras páginas.",
+        "quote_evidence": "El síndrome de Wendy es la feminidad ingenua que crea héroes imaginarios y los convierte en amantes ideales,"
+      }
+    },
+    {
+      "canonical_guess": "dragon-arquetipo",
+      "from_video": "O-kzVFngjAQ",
+      "entity": {
+        "surface_form": "dragón (arquetipo)",
+        "canonical_guess": "dragon-arquetipo",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 65,
+        "framing_marks": [
+          {
+            "mark_type": "explicit_definition",
+            "quote_evidence": "Un dragón es un avatar del caos: una forma de encarnación, una personificación fantástica del caos,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Todo dragón en la literatura existe para ser vencido; ese es su único objeto arquetípico,"
+          },
+          {
+            "mark_type": "structural_articulation",
+            "quote_evidence": "El dragón encarna simultáneamente la prueba, el tesoro y el peligro superpuestos,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 'Monográfico + Framing-mark + Channel-canonical': vídeo de 85min explícitamente programático ('qué es el concepto mitológico de dragón, qué arquetipo representa'). Articulación canal-específica completa: dragón = avatar del caos primigenio (mal increado), sempiterno no eterno, telúrico (no cetónico ni demoniaco), existe para ser vencido, sabiduría como antigüedad. Hub natural para futuras lecturas (Beowulf, Smaug, leviatán, Cthulhu, juegos con dragones). Diferenciación operativa frente a balrog/demonio/gobernante tirano/elemental/titán.",
+        "quote_evidence": "Un dragón es un avatar del caos: una forma de encarnación, una personificación fantástica del caos,"
+      }
+    },
+    {
+      "canonical_guess": "uranico-telurico-cetonico",
+      "from_video": "O-kzVFngjAQ",
+      "entity": {
+        "surface_form": "uránico / telúrico / cetónico (triada)",
+        "canonical_guess": "uranico-telurico-cetonico",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 8,
+        "framing_marks": [
+          {
+            "mark_type": "explicit_definition",
+            "quote_evidence": "Lo uránico es lo celestial/divino/aspiracional; lo telúrico es la superficie de la tierra; lo cetónico son las profundidades infernales,"
+          },
+          {
+            "mark_type": "cross_domain_analogy",
+            "quote_evidence": "En alquimia: uránico es mercurial, telúrico es salino, cetónico es sulfúrico (el azufre del infierno),"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Los dragones son principalmente telúricos (superficie terrestre); los demonios son cetónicos (profundidades),"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 'Framing-mark + Channel-canonical': triada espacial-arquetípica con correspondencias alquímicas (mercurial/salino/sulfúrico) que el canal usa SISTEMÁTICAMENTE para distinguir dragón (telúrico) de balrog/demonio (cetónico) y de lo divino (uránico). Pieza load-bearing que articula la cosmología vertical implícita del canal y permite distinguir prototipos del mal en las obras analizadas. Recurrente esperable en futuras lecturas mitológicas (mar como caos cetónico, montaña como uránico, etc.).",
+        "quote_evidence": "Lo uránico es lo celestial/divino/aspiracional; lo telúrico es la superficie de la tierra; lo cetónico son las profundidades infernales,"
+      }
+    },
+    {
+      "canonical_guess": "clases-ancestrales",
+      "from_video": "cbfhVqYDbdE",
+      "entity": {
+        "surface_form": "clases ancestrales",
+        "canonical_guess": "clases-ancestrales",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 15,
+        "framing_marks": [
+          {
+            "mark_type": "explicit_coinage",
+            "quote_evidence": "El término propuesto es \"clases ancestrales\": homologías de clases que trascienden especies,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Son clases ancestrales, no memorias: el pollo \"solo oye pienso\" pero la estructura representacional opera igual,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Debe haber homologías no solo biológicas sino también noéticas, y esa homología noética es arquetípica,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 'Framing-mark + Channel-canonical': acuñación explícita del canal ('El término propuesto es...'), articulada con apoyo empírico (Buba-Kiki en pollos) y posicionada como bisagra entre psicología junguiana, estructuralismo léviestrosiano y psicobiología comparada. Pieza load-bearing del aparato cognitivo del canal: rellena la laguna declarada en collective-unconscious sobre el origen biológico del inconsciente colectivo. Concepto que se prevé recurrente en futuros directos sobre arquetipos y biología.",
+        "quote_evidence": "El término propuesto es \"clases ancestrales\": homologías de clases que trascienden especies,"
+      }
+    },
+    {
+      "canonical_guess": "genesis-mitologico",
+      "from_video": "s6teBboDDJ4",
+      "entity": {
+        "surface_form": "Génesis (como categoría mitológica)",
+        "canonical_guess": "genesis-mitologico",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 25,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Todos los Génesis tienen la misma estructura: al principio no había nada, y de repente algo fue,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Los Génesis son ejercicios de catarsis psicológica que recapitulan los procesos psicológicos fundamentales de los individuos,"
+          },
+          {
+            "mark_type": "cross_domain_analogy",
+            "quote_evidence": "La generación de una idea, la síntesis representacional, tiene la misma estructura que un Génesis: \"hágase la luz\","
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 'Monográfico + Framing-mark + Channel-canonical': el canal articula una definición estructural propia de qué es un Génesis (recapitulación metafórica de orígenes, catarsis psicológica, isomorfismo con la síntesis mental), aplicada cross-fuentes (bíblico, tolkieniano, cognitivo). Es uno de los cuatro mitos fundamentales que el canal identifica como armazón mítico de Tolkien y, por extensión, de la voluntad cultural. Pieza load-bearing del aparato del canal: hub natural para futuras lecturas cosmogónicas (Silmarillion, mesopotámicas, Hesíodo, etc.).",
+        "quote_evidence": "Los Génesis son ejercicios de catarsis psicológica que recapitulan los procesos psicológicos fundamentales de los individuos,"
+      }
+    }
+  ]
+}

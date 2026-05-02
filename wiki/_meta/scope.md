@@ -96,11 +96,16 @@ Promover si CUALQUIERA de:
 - **Caso canónico**: la obra es ejemplo central recurrente de un concepto promovido (ej. Fight Club → shadow-archetype)
 - **Connectivity**: ≥3 páginas existentes la wikilinkan
 - **Cross-thematic**: análisis fragmentario en ≥4 vídeos donde la obra ilustra distintos arquetipos
+- **Lectura íntegra en directo** (NUEVO v0.3): el speaker lee la obra completa o sustancialmente completa en sesión directo. La lectura íntegra ES contenido del corpus (transcripción del texto del autor en el video), no mera mención. La página entity_work se promueve con flag `read_in_session: true` en frontmatter, además de la promoción automática del autor por §2.2 (`as_author_of_sources > 0`).
+
+  Casos típicos: cuentos de Lovecraft leídos completos en directo ("La extraña casa elevada entre la niebla", "El descendiente", "Aire frío", "El modelo de Pickman"), capítulos de Borges, textos de Eliade. Cada cuento/texto leído íntegro = `entity_work` propio aunque el vídeo no sea "monográfico" del cuento — la lectura misma cumple criterio de "análisis dedicado" porque el speaker eligió ese texto como input al corpus.
+
+  **Reason_code para discarded[]**: NO usar `story_read_no_dedicated_analysis_page` (inventado por el LLM con scope viejo). Si el cuento se lee íntegro, va a promote_new como entity_work. Si solo se cita o resume sin lectura íntegra, va a `passing_mention`.
 
 NO promover (mantener en `mentions_index.md`):
 
 - Películas/libros mencionados de pasada como ejemplo único
-- Recomendaciones culturales sin análisis
+- Recomendaciones culturales sin análisis (van a `recommended_reference` per §3.4)
 - Referencias culturales contextuales sin desarrollo arquetípico
 
 ### 2.4 `synthesis` (análisis temático cross-conceptos largo)

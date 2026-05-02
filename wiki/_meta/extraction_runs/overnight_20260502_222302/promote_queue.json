@@ -1,0 +1,204 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_222302",
+  "items": [
+    {
+      "canonical_guess": "campbell-joseph",
+      "from_video": "IytpR6sGWXg",
+      "entity": {
+        "page_id": "campbell-joseph",
+        "page_type": "author",
+        "canonical_name": "Joseph Campbell",
+        "promotion_reason": "auto_promote_whitelist",
+        "promotion_detail": "Figura en canonical_whitelist.json:authors con auto_promote: true. Este vídeo aporta tratamiento sustantivo (~90s) con tres títulos citados (El héroe de las mil caras, Tú eres eso, El poder del mito), tesis explícita del canal sobre cómo leer a Campbell ('arquetipia más que mitología pura', 'mejor que Jung para comprender arquetipos') e inclusión en la síntesis final del canon bibliográfico ('Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson'). Además, ya existe wikilink roto activo desde viaje-heroe.md (relations[].developed_by → campbell-joseph).",
+        "frontmatter": {
+          "page_id": "campbell-joseph",
+          "page_type": "author",
+          "canonical_name": "Joseph Campbell",
+          "aliases": [
+            "Campbell",
+            "J. Campbell",
+            "Joseph Campbell"
+          ],
+          "given_names": "Joseph",
+          "family_name": "Campbell",
+          "birth_year": 1904,
+          "death_year": 1987,
+          "nationality": "estadounidense",
+          "wikidata_id": "Q190089",
+          "primary_domains": [
+            "humanities.religion",
+            "interdisciplinary.cultural_studies",
+            "humanities.literature"
+          ],
+          "domain_primary": "humanities.religion",
+          "affiliations": [
+            "Sarah Lawrence College"
+          ],
+          "relations": [
+            {
+              "type": "developed",
+              "to": "viaje-heroe",
+              "weight": "canonical",
+              "note": "formulación del monomito como estructura narrativa universal — marco operativo del canal"
+            },
+            {
+              "type": "compared_with",
+              "to": "jung-carl-gustav",
+              "note": "el canal lo prefiere como vía de acceso didáctica a los arquetipos frente a la densidad terminológica de Jung"
+            },
+            {
+              "type": "compared_with",
+              "to": "eliade-mircea",
+              "note": "Eliade es para el canal más conciso y sencillo que Campbell, ambos en la misma genealogía mitológico-arquetípica"
+            }
+          ],
+          "as_author_of_sources": 0,
+          "as_subject_of_sources": 1,
+          "sources_count": 1,
+          "schema_version": "1.0.0",
+          "review_status": "stub_in_session",
+          "status": "stub_in_session"
+        },
+        "body_markdown": "# Joseph Campbell\n\n## Perfil\n\nJoseph Campbell (1904–1987), mitógrafo estadounidense conocido por la formulación del [[viaje-heroe|monomito]] como estructura narrativa universal. En el corpus Proxy aparece como **referencia obligada para acceder a los arquetipos**: el canal lo coloca por encima de [[jung-carl-gustav|Jung]] como puerta de entrada didáctica al material arquetípico.\n\n## Cómo el canal lee a Campbell\n\n### Arquetipia más que mitología pura\n\nEl canal sitúa a Campbell no como mitólogo comparativo sino como teórico de la **arquetipia**:\n\n> \"Su obra es sobre arquetipia más que sobre mitología pura. Para comprender arquetipos es mejor leer a Campbell que a Jung, porque Jung tiene una complejidad innecesaria para ese propósito.\"\n→ [Biblioteca de Babel II, 04:21](https://youtu.be/IytpR6sGWXg?t=261)\n\nEsta lectura tiene una consecuencia operativa: Campbell sirve como **traducción accesible** del aparato junguiano. La recomendación entronca con la advertencia general del canal sobre la dificultad terminológica de Jung — entender cada palabra por separado pero no juntas (ver [[jung-carl-gustav]]).\n\n### Obras señaladas\n\n- **El héroe de las mil caras**: base de la articulación entre mitología y psique según el canal\n- **Tú eres eso** y **El poder del mito**: especialmente útiles para comprender qué es verdaderamente un arquetipo\n  → [Biblioteca de Babel II, 04:21](https://youtu.be/IytpR6sGWXg?t=261)\n\n## Posición en el canon del canal\n\nCampbell figura en la síntesis final del repertorio bibliográfico de semiótica del canal junto a [[eliade-mircea|Eliade]], Cashford y Peterson como uno de los **autores específicos fundamentales**:\n\n> \"Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson.\"\n→ [Biblioteca de Babel II, 23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n\n## Conexión con otros conceptos\n\n- Es el formulador del [[viaje-heroe|monomito]] que el canal asume como marco operativo en sus análisis de obras\n- El canal lo prefiere a [[jung-carl-gustav|Jung]] como acceso didáctico al concepto de arquetipo\n- Está en continuidad con [[eliade-mircea|Eliade]] dentro de la genealogía mitológico-arquetípica que el canal recomienda\n\n## Lagunas\n\n- **Biografía**: el material recuperado no incluye datos biográficos del autor más allá de su filiación disciplinar\n- **El monomito desglosado**: Campbell formula un esquema de fases (llamada, mentor, umbral, pruebas, apoteosis, regreso) que el canal usa pero no expone aquí en su articulación campbelliana original\n- **Relación Campbell–Jung histórica**: el canal afirma la preferencia didáctica por Campbell pero no aborda la deuda conceptual real (Campbell estudió a Jung, asistió a Eranos)\n- ***Las máscaras de Dios*** y otras obras tardías de Campbell no aparecen en el material recuperado\n\n## Citations\n\n- **Biblioteca de Babel II** — chunks: [04:21](https://youtu.be/IytpR6sGWXg?t=261) · [23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n",
+        "decision": "promote_new"
+      }
+    },
+    {
+      "canonical_guess": "eliade-mircea",
+      "from_video": "IytpR6sGWXg",
+      "entity": {
+        "page_id": "eliade-mircea",
+        "page_type": "author",
+        "canonical_name": "Mircea Eliade",
+        "promotion_reason": "auto_promote_whitelist",
+        "promotion_detail": "Figura en canonical_whitelist.json:authors con auto_promote: true. Este vídeo aporta tratamiento sustantivo (~60s) con tesis original atribuida ('el impulso mítico es individual y responde a una necesidad también individual, no solo grupal'), caracterización metodológica ('habla de la estructura arquetípica incluida en los mitos y la capacidad de la psique para la elaboración del mito') e inclusión en la síntesis final del canon bibliográfico en primer lugar de los autores específicos.",
+        "frontmatter": {
+          "page_id": "eliade-mircea",
+          "page_type": "author",
+          "canonical_name": "Mircea Eliade",
+          "aliases": [
+            "Eliade",
+            "M. Eliade",
+            "Mircea Eliade"
+          ],
+          "given_names": "Mircea",
+          "family_name": "Eliade",
+          "birth_year": 1907,
+          "death_year": 1986,
+          "nationality": "rumana",
+          "wikidata_id": "Q41523",
+          "primary_domains": [
+            "humanities.religion",
+            "interdisciplinary.cultural_studies",
+            "humanities.philosophy"
+          ],
+          "domain_primary": "humanities.religion",
+          "affiliations": [
+            "University of Chicago",
+            "École des Hautes Études"
+          ],
+          "relations": [
+            {
+              "type": "extends",
+              "to": "collective-unconscious",
+              "note": "tesis del mito como necesidad individual de la psique extiende la lectura junguiana hacia la dimensión existencial de la cordura"
+            },
+            {
+              "type": "compared_with",
+              "to": "campbell-joseph",
+              "note": "el canal lo presenta como más conciso y sencillo que Campbell"
+            },
+            {
+              "type": "references",
+              "to": "mito-moderno-en-proxy",
+              "note": "su tesis sobre el mito como necesidad individual sostiene la lectura del canal sobre el vacío mítico contemporáneo"
+            }
+          ],
+          "as_author_of_sources": 0,
+          "as_subject_of_sources": 1,
+          "sources_count": 1,
+          "schema_version": "1.0.0",
+          "review_status": "stub_in_session",
+          "status": "stub_in_session"
+        },
+        "body_markdown": "# Mircea Eliade\n\n## Perfil\n\nMircea Eliade (1907–1986), historiador rumano de las religiones y mitólogo comparativo. En el corpus Proxy aparece como **referencia central de la mitología comparada** que el canal recomienda como vía sencilla y concisa para entrar en el material arquetípico, frente a la densidad de [[campbell-joseph|Campbell]].\n\n## Cómo el canal lee a Eliade\n\n### El impulso mítico como necesidad psíquica individual\n\nEl canal atribuye a Eliade una tesis que matiza la lectura sociológica del mito (mito como mera solución colectiva para la convivencia):\n\n> \"Las narrativas culturales no son solo una solución colectiva para la convivencia, sino una necesidad de la psique individual para el mantenimiento de la cordura. El impulso mítico es individual y responde a una necesidad también individual, no solo grupal.\"\n→ [Biblioteca de Babel II, 05:51](https://youtu.be/IytpR6sGWXg?t=351)\n\nEsta tesis es operativa para el canal: si el mito responde a una necesidad psíquica individual, entonces la **degradación de la cultura mítica afecta la cordura individual**, no solo la cohesión grupal. Conecta con la línea editorial sobre [[mito-moderno-en-proxy|mito moderno]] y con la lectura del [[consumismo-critica|vacío contemporáneo]] como falta de mito propio.\n\n### Estructura arquetípica del mito\n\n> \"Habla de la estructura arquetípica incluida en los mitos y la capacidad de la psique para la elaboración del mito.\"\n→ [Biblioteca de Babel II, 05:51](https://youtu.be/IytpR6sGWXg?t=351)\n\nEliade entra en el corpus como **teórico de cómo la psique elabora mito**, no como recopilador externo de tradiciones. Esta lectura lo coloca en continuidad con la formulación junguiana del [[collective-unconscious|inconsciente colectivo]] como cantera de estructuras universales.\n\n## Posición en el canon del canal\n\n> \"Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson.\"\n→ [Biblioteca de Babel II, 23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n\nEliade figura en primer lugar de los autores específicos de semiótica/mitología recomendados por el canal, lo que sitúa su lectura como **prioritaria** dentro del repertorio.\n\n## Conexión con otros conceptos\n\n- Continúa la genealogía mitológico-arquetípica del canal junto a [[campbell-joseph|Campbell]] y [[jung-carl-gustav|Jung]]\n- Su tesis sobre el mito como necesidad individual extiende la lectura del [[collective-unconscious|inconsciente colectivo]] hacia la dimensión existencial de la cordura\n- Funciona como puerta accesible al material arquetípico antes de abordar autores más complejos\n\n## Lagunas\n\n- **Biografía**: el material recuperado no incluye datos biográficos del autor\n- **Obras concretas**: el canal recomienda leerlo pero no destaca títulos específicos en este material; obras como *Lo sagrado y lo profano* o *El mito del eterno retorno* no se citan aquí\n- **La distinción sagrado/profano**: vertebra toda la obra de Eliade pero no se desarrolla en el material recuperado\n- **Eliade y la fenomenología religiosa**: posición teórica de Eliade dentro de la fenomenología no abordada\n- **Aspectos biográficos polémicos** (vinculación juvenil con la Guardia de Hierro rumana) no aparecen en el corpus\n\n## Citations\n\n- **Biblioteca de Babel II** — chunks: [05:51](https://youtu.be/IytpR6sGWXg?t=351) · [23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n",
+        "decision": "promote_new"
+      }
+    },
+    {
+      "canonical_guess": "cuento-de-navidad-dickens",
+      "from_video": "s0MkondMt1o",
+      "entity": {
+        "page_id": "cuento-de-navidad-dickens",
+        "page_type": "entity_work",
+        "canonical_name": "Cuento de Navidad (A Christmas Carol)",
+        "promotion_reason": "monographic_analysis",
+        "promotion_detail": "Vídeo monográfico de 119 minutos dedicado al análisis de la obra (vía adaptación Muppets/Disney 1992). Cumple §2.3 'Análisis dedicado: ≥1 vídeo monográfico (≥30 min)' holgadamente. La obra opera como caso canónico de individuación tardía y como vehículo del contraste luterano/católico (este último articulado como tesis del canal — ver thesis_candidates).",
+        "frontmatter": {
+          "page_id": "cuento-de-navidad-dickens",
+          "page_type": "entity_work",
+          "canonical_name": "Cuento de Navidad (A Christmas Carol)",
+          "aliases": [
+            "Cuento de Navidad",
+            "A Christmas Carol",
+            "Christmas Carol",
+            "Los fantasmas de Scrooge",
+            "Cuento de Navidad de los teleñecos",
+            "The Muppet Christmas Carol"
+          ],
+          "work_type": "novella",
+          "original_title": "A Christmas Carol",
+          "author_canonical_id": "dickens-charles",
+          "publication_year": 1843,
+          "language_original": "inglés",
+          "primary_adaptation_analyzed": {
+            "title": "The Muppet Christmas Carol",
+            "year": 1992,
+            "director": "Brian Henson",
+            "studio": "Walt Disney Pictures / Jim Henson Productions"
+          },
+          "primary_domains": [
+            "arts.literature",
+            "arts.cinema",
+            "humanities.religion",
+            "interdisciplinary.cultural_studies"
+          ],
+          "domain_primary": "arts.literature",
+          "relations": [
+            {
+              "type": "exemplifies",
+              "to": "individuation",
+              "weight": "canonical",
+              "note": "transformación de Scrooge como caso paradigmático de individuación tardía mediante revisión retrospectiva de etapas vitales"
+            },
+            {
+              "type": "references",
+              "to": "shadow-archetype",
+              "note": "la amargura no integrada de Scrooge funciona como sombra que contamina el entorno y aísla al sujeto"
+            },
+            {
+              "type": "references",
+              "to": "consumismo-critica",
+              "weight": "tangential",
+              "note": "la avaricia de Scrooge anticipa la mercantilización afectiva — no dar pudiendo dar como acto de maldad cultural"
+            },
+            {
+              "type": "interpreted_by",
+              "to": "jung-carl-gustav",
+              "weight": "tangential",
+              "note": "el canal usa marco arquetípico junguiano para leer la transformación, aunque la lectura dominante en este vídeo es teológica (luterano/católico)"
+            }
+          ],
+          "as_subject_of_sources": 1,
+          "sources_count": 1,
+          "schema_version": "1.0.0",
+          "review_status": "stub_in_session",
+          "status": "stub_in_session"
+        },
+        "body_markdown": "# Cuento de Navidad (A Christmas Carol)\n\n## Ficha\n\n*A Christmas Carol* (1843), novella corta de Charles Dickens. El canal Proxy analiza la obra a través de la adaptación cinematográfica **Cuento de Navidad de los Teleñecos** (Brian Henson, 1992, Walt Disney Pictures / Jim Henson Productions) en un vídeo monográfico de 119 minutos. La elección de la versión Muppet permite al canal trabajar el material narrativo de Dickens con la **estética del cuento** explicitada por Disney (apertura con estrella fugaz sobre tejados nevados como certificación visual del invierno).\n\n## Lo que el canal analiza en la obra\n\nLa lectura del canal se organiza en torno a la transformación de Ebenezer Scrooge — de avaro aislado a hombre reincorporado a la vida comunitaria — entendida como **caso paradigmático de individuación tardía** que opera mediante un dispositivo simbólico explícito: las visitas de Marley y los tres espíritus de la Navidad pasada, presente y futura.\n\n### Aparición y recuerdo evocado\n\nLa primera intervención sobrenatural — la aparición de Marley en el llamador y luego en la habitación — el canal la lee como **mecánica universal del recuerdo no resuelto**:\n\n> \"Una aparición es un recuerdo evocado que se ve en el exterior; cuando aparece fuera es porque estaba pidiendo salir. Una parte de tu conciencia te está gritando un asunto pendiente que pasó sin ser resuelto y te lastra.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 50:06](https://youtu.be/s0MkondMt1o?t=3006)\n\nLas cadenas de los Marley funcionan como metáfora del peso de las malas obras:\n\n> \"Las cadenas representan lo que te sujeta a no poder ascender: hacia abajo es angustia terrenal, hacia arriba es ligereza espiritual. Los Marley son espíritus encadenados al más acá lamentándose por no haber sido buenas personas. La avaricia es un acto de maldad porque es no dar pudiendo dar, quitando bienestar a los demás.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 58:40](https://youtu.be/s0MkondMt1o?t=3520)\n\n### Los tres espíritus como mini-purgatorios\n\nLas visitas se leen como **dispositivo de epifanía estructurada en tiempos**:\n\n> \"Los tres espíritus son tres posibilidades de vivir una epifanía examinando pasado, presente y futuro. Cada enfrentamiento con tu propio dolor es un mini purgatorio donde comprendes el significado universal de tus malos actos.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:02:41](https://youtu.be/s0MkondMt1o?t=3761)\n\nCada espíritu lleva una forma con sentido arquetípico:\n\n- **El espíritu del pasado** es una niña flotante porque el pasado del yo es siempre la infancia, ligera y vaporosa porque la juventud se ha evaporado\n  → [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:06:43](https://youtu.be/s0MkondMt1o?t=4003)\n- **El espíritu del presente** es gordo y solo se ríe — el canal lo lee como estereotipo del hedonismo navideño\n  → [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:25:58](https://youtu.be/s0MkondMt1o?t=5158)\n- **El espíritu del futuro** no tiene rostro porque el futuro no se sabe, y como desconocido adopta la forma más terrible posible; **no habla porque la muerte es silencio**\n  → [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:36:34](https://youtu.be/s0MkondMt1o?t=5794)\n\n## Pecados de Scrooge ordenados por etapa vital\n\nUna pieza analítica que el canal articula con claridad — la transformación recompone la vida de Scrooge no como bloque, sino como **secuencia de fallos diferenciados por etapa**:\n\n> \"Pecado de niño: abandonar demasiado pronto a los demás y rendirse con las relaciones. Pecado de joven: ceñirse únicamente al trabajo sin ponerlo en contexto de la vida completa. Pecado de enamorado: no comprometerse, renunciar a felicidad en pos de seguridad económica. Pecado de adulto: encerrarse en el negocio y meterse cada vez más en sí mismo.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:52:18](https://youtu.be/s0MkondMt1o?t=6738)\n\nEsta segmentación conecta con el viaje de [[individuation|individuación]] como trabajo retrospectivo, no solo prospectivo: madurar exige revisar lo que cada etapa pidió y lo que el sujeto evitó.\n\n## Personajes clave en la lectura del canal\n\n### Bob Cratchit: bondad sin resentimiento\n\nBob Cratchit (en la película encarnado por Kermit) opera como **paradigma de bondad cuya integridad es no atribuir mala intención**:\n\n> \"Bob Cratchit es la máxima expresión de dependencia hacia Scrooge pero carece de capacidad de resentimiento. La única forma de no odiar a alguien es ver la humanidad que tiene y no atribuirle mala intención. Para Bob, Scrooge no es malo sino alguien ajeno a su vivencia que nunca ha conocido otra forma de ser.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 15:39](https://youtu.be/s0MkondMt1o?t=939)\n\n### Tiny Tim: bondad inherente cuya ausencia apaga\n\n> \"Tiny Tim representa personas con muchísimo dolor que son las más positivas del mundo. Cuando algo que no tiene ningún mal se apaga como una vela, todo alrededor se queda a oscuras. Tiny Tim está definido por la ausencia: la silla, la muleta, la bufanda y el gorro están pero él no.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:34:02](https://youtu.be/s0MkondMt1o?t=5642) · [1:41:40](https://youtu.be/s0MkondMt1o?t=6100)\n\n### Isabel y la herida del primer amor\n\nLa escena del primer amor (Isabel, recordada por el espíritu del pasado) ancla una observación del canal sobre la asimetría sexual del primer desamor:\n\n> \"Recordar al primer amor es doloroso porque nunca sanaste la herida de lo que no funcionó. En hombres es muchísimo más común que el primer amor duela como fracaso; las mujeres muestran mayor capacidad de resolución. El primer desamor del varón es un re-trauma del abandono de la madre, porque la ruptura del varón con la madre es mucho más intensa.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:16:22](https://youtu.be/s0MkondMt1o?t=4582)\n\n## El dilema del determinismo\n\nUn problema teórico que el canal saca de la escena del cementerio (el espíritu del futuro mostrando la tumba):\n\n> \"Si son cosas que pueden ser, la conversión pierde valor porque sabes que puedes cambiar el futuro. Si son cosas que serán, no merece la pena cambiar porque el futuro es negro de todos modos. La muerte no le habla porque la muerte es silencio. La muerte no da ningún motivo para que sea mejor ser bueno o malo: lo tienes que encontrar tú.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:36:34](https://youtu.be/s0MkondMt1o?t=5794) · [1:44:10](https://youtu.be/s0MkondMt1o?t=6250)\n\nEsta lectura del silencio del fantasma final como condición de posibilidad de la conversión auténtica — la transformación solo cuenta si nace del propio sujeto, no si la fuerza una sentencia externa — es uno de los ejes de la lectura.\n\n## La resolución como integración temporal\n\n> \"El ahora tendrá sentido si se hacen las obras comparando con el pasado, poniendo en valor lo bueno y aprendiendo de lo malo. Cuanto mejor estás tú, más fácil eres para el resto y más fácil les haces la vida. La misión de mejorar es tuya pero no puedes mortificarte: apóyate en quien te quiere y trabaja en soledad lo que nadie puede hacer por ti.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:46:41](https://youtu.be/s0MkondMt1o?t=6401)\n\n## Marco de lectura: contraste entre dos sensibilidades religiosas\n\nEl canal organiza la lectura de la obra mediante un contraste sostenido entre **sensibilidad luterana** y **sensibilidad católica** sobre el sentido de la Navidad, el disfrute, el matrimonio y la familia. La articulación sistemática de ese contraste como marco propio del canal está en revisión humana (ver `discard_log.json:thesis_candidates`); aquí se anota únicamente que la lectura del fenómeno navideño en este vídeo opera dentro de ese contraste comparativo.\n\n## Conexión con otros conceptos\n\n- Caso canónico de [[individuation|individuación]] tardía: el sujeto recompone su vida revisando etapas y rescatando capacidad afectiva\n- Conecta con [[shadow-archetype|la sombra]] no integrada: la amargura de Scrooge funciona como sombra que contamina el entorno y se le devuelve como soledad\n- Tangencialmente con [[consumismo-critica|crítica al consumismo]]: la formulación canal de la avaricia ('no dar pudiendo dar, quitando bienestar a los demás') anticipa la lectura del egoísmo material como acto de maldad cultural, no solo defecto privado\n\n## Lagunas\n\n- **Dickens autor**: el material recuperado no aborda la posición de Dickens en la literatura victoriana ni su crítica social en *Oliver Twist*, *Tiempos difíciles* u otras novelas\n- **Otras adaptaciones**: el canal analiza la versión Muppet (1992); no aparecen lecturas de adaptaciones canónicas anteriores (Reginald Owen 1938, Alastair Sim 1951) ni posteriores (Zemeckis 2009)\n- **Recepción victoriana de la novela**: contexto histórico de su publicación en 1843 como crítica al utilitarismo industrial inglés no se desarrolla\n- **El texto original frente a la adaptación**: el canal no marca explícitamente qué elementos son de Dickens y cuáles añadidos por la adaptación Muppet (Gonzo como narrador-Dickens es invención de la película, no del original)\n- **Otras obras navideñas de Dickens**: *Los libros de Navidad* (cinco novellas) no aparecen referenciados como ciclo coherente\n\n## Citations\n\n- **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [15:39](https://youtu.be/s0MkondMt1o?t=939) · [50:06](https://youtu.be/s0MkondMt1o?t=3006) · [58:40](https://youtu.be/s0MkondMt1o?t=3520) · [1:02:41](https://youtu.be/s0MkondMt1o?t=3761) · [1:06:43](https://youtu.be/s0MkondMt1o?t=4003) · [1:16:22](https://youtu.be/s0MkondMt1o?t=4582) · [1:25:58](https://youtu.be/s0MkondMt1o?t=5158) · [1:34:02](https://youtu.be/s0MkondMt1o?t=5642) · [1:36:34](https://youtu.be/s0MkondMt1o?t=5794) · [1:41:40](https://youtu.be/s0MkondMt1o?t=6100) · [1:44:10](https://youtu.be/s0MkondMt1o?t=6250) · [1:46:41](https://youtu.be/s0MkondMt1o?t=6401) · [1:52:18](https://youtu.be/s0MkondMt1o?t=6738)\n",
+        "decision": "promote_new"
+      }
+    }
+  ]
+}

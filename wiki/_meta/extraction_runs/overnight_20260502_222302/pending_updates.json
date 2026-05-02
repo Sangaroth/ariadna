@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_222302",
+  "items": [
+    {
+      "from_video": "s0MkondMt1o",
+      "from_video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+      "update": {
+        "target_page_id": "individuation",
+        "target_file_path": "wiki/concepts/individuation.md",
+        "update_type": "insert_after_passage",
+        "anchor_passage_literal": "> \"[En el síndrome de Wendy hay una solución junguiana específica] sobre cómo integrar la figura del eterno aventurero (Peter Pan) en lugar de quedarse esperándolo.\"\n→ [El síndrome de Wendy, 1:06:13](https://youtu.be/L7oSZTTK8Gg?t=3973)",
+        "anchor_uniqueness_check": "verified_unique_in_file",
+        "new_passage": "\n### Cuento de Navidad: la individuación tardía como revisión vital\n\nEl canal lee la transformación de Scrooge en *A Christmas Carol* como **caso paradigmático de individuación tardía** — el sujeto que llega al final de su vida sin haber integrado los contenidos del inconsciente y al que un dispositivo simbólico (los tres espíritus de pasado, presente y futuro) le permite revisar sus etapas vitales:\n\n> \"Los tres espíritus son tres posibilidades de vivir una epifanía examinando pasado, presente y futuro. Cada enfrentamiento con tu propio dolor es un mini purgatorio donde comprendes el significado universal de tus malos actos.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:02:41](https://youtu.be/s0MkondMt1o?t=3761)\n\nLa lectura segmenta los pecados de Scrooge por etapa vital — niñez (abandonar a los demás), juventud (ceñirse al trabajo), edad enamorada (no comprometerse), adultez (encerrarse) — y articula la resolución como integración retrospectiva del tiempo propio:\n\n> \"El ahora tendrá sentido si se hacen las obras comparando con el pasado, poniendo en valor lo bueno y aprendiendo de lo malo... La misión de mejorar es tuya pero no puedes mortificarte: apóyate en quien te quiere y trabaja en soledad lo que nadie puede hacer por ti.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos, 1:46:41](https://youtu.be/s0MkondMt1o?t=6401)\n\nEl silencio del espíritu del futuro es leído por el canal como **condición de posibilidad de la conversión auténtica**: la transformación solo cuenta si nace del propio sujeto, no si la fuerza una sentencia externa. Ver [[cuento-de-navidad-dickens]] para la articulación completa.\n",
+        "update_reason": "Añade caso de individuación tardía no presente en la página actual. La página tiene cuatro casos de cumplimiento (Atrapado en el tiempo, Bella Durmiente, Bloodborne, Wendy) — Cuento de Navidad aporta un quinto que tematiza específicamente la dimensión retrospectiva (revisar etapas vitales pasadas), ángulo no cubierto por los casos existentes. Toca tangencialmente la laguna declarada sobre 'etapas vitales' (Jung clásico distingue primera/segunda mitad de la vida) — NO la supersedes porque el dispositivo dickensiano segmenta en cuatro etapas distintas a la dicotomía junguiana, pero ofrece material adyacente.",
+        "supersedes_laguna": null,
+        "touches_laguna_partial": "Etapas vitales: Jung clásico distingue individuación de primera mitad de la vida (construcción del yo) y segunda mitad (integración del self). El corpus no marca esta distinción explícitamente",
+        "touches_laguna_partial_note": "El nuevo caso aporta un modelo del trabajo de individuación segmentado por etapas (niño/joven/enamorado/adulto) — distinto del esquema junguiano clásico (primera/segunda mitad), pero relacionado. La laguna no queda cerrada"
+      }
+    }
+  ]
+}
