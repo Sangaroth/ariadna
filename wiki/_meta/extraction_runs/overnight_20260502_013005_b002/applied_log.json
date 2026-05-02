@@ -1,0 +1,43 @@
+{
+  "applied_at": "2026-05-02T01:56:32+00:00",
+  "run_id": "overnight_20260502_013005_b002",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "anima-archetype": {
+      "file_path": "wiki/concepts/anima-archetype.md",
+      "updates_applied": 1,
+      "log": [
+        " [extend_passage] anchor='Es el polo donde el ánima ingenua se vuelve ánima ' section='En análisis de obra: Peter Pan como caso canónico'",
+        "  + extend_passage (747 chars) tras anchor único"
+      ]
+    },
+    "individuation": {
+      "file_path": "wiki/concepts/individuation.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='En Frozen la estructura del héroe se la saltan por' section=''",
+        "  + insert_after (2150 chars) tras anchor único"
+      ]
+    },
+    "mito-moderno-en-proxy": {
+      "file_path": "wiki/synthesis/mito-moderno-en-proxy.md",
+      "updates_applied": 2,
+      "log": [
+        " [insert_after_passage] anchor='La vida son pequeños despertares sucesivos, por es' section=''",
+        "  + insert_after (3096 chars) tras anchor único",
+        " [mark_laguna_resolved] anchor='' section=''",
+        "  + marked laguna en línea 204: 'Crítica al mito moderno** — el canal habla de la deriva haci'"
+      ]
+    }
+  }
+}

@@ -151,7 +151,43 @@ Particularmente rica esta lectura del canal sobre las versiones que el oráculo 
 
 Y la alegoría epistémica:
 
-> "La conciencia permite hacer saltos fuera del sistema: cada vez que aprendes algo, todo el conjunto cambia. Aprender más del mundo es alejarse, salir una capa hacia arriba, exactamente como conocer una capa de Matrix. La vida son pequeños despertares sucesivos, por eso Matrix está ambientado en código informático."
+> "La conciencia permite hacer saltos fuera del sistema: cada vez que aprendes algo, todo el conjunto cambia. Aprender más del mundo es alejarse, salir una capa hacia arriba, exactamente como conocer una capa de Matrix. La vida son pequeños despertares sucesivos, por eso Matrix está ambientado en código informático.
+
+## Pieza 6 — Harry Potter como caso negativo del mito moderno
+
+El canal articula el contraejemplo paradigmático de la tesis: cuando el mito moderno preserva la cáscara mítica vaciándola de estructura arquetípica, el resultado es lo que Proxy llama **escoria fántastica** — el sobrante no-metálico de un proceso de fundición mítica fallida.
+
+> "Harry Potter es el sobrante de un refrito mitológico con mejor intención estética que poética. La metáfora es intencionada y precisa: no es insulto gratuito sino categorización técnica."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (00:00)](https://youtu.be/3Jo2T73pOEs?t=0)
+
+### Sin originalidad mítica, solo composición
+
+> "No hay ningún elemento mitológico ni fantástico original; solo es original la composición. Todo está fragmentado de mitos preexistentes: varitas mágicas tomadas de múltiples tradiciones sin coherencia."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (06:02)](https://youtu.be/3Jo2T73pOEs?t=362)
+
+Esto sitúa a Harry Potter en el polo opuesto a Lovecraft: donde el horror cósmico construye una mitología propia consciente de sí, Harry Potter compone fragmentos sin saberse mito — **mitología impropia** por defecto, no por elección.
+
+### Autotipia onomástica
+
+> "Los nombres en Harry Potter son autotipia pura: Voldemort, Granger, Lunatica, Lovegood, Wood — la personalidad está literalmente en el nombre."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (12:13)](https://youtu.be/3Jo2T73pOEs?t=733)
+
+Ejemplo concreto del mecanismo de degradación cultural que la página recogía como laguna: el `autotipo` opera aquí en su forma más visible — el prototipo arquetípico vaciado en estereotipo cuyo significado ya está pre-impreso en el significante.
+
+### Voldemort como inversión luciferina genérica
+
+> "Es una inversión luciferina arquetípica sin ningún tratamiento original. La infancia de Voldemort revela motivaciones genéricas: odiaba su sangre muggle, sus capacidades lo volvieron orgulloso y con complejo de Dios."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (12:13)](https://youtu.be/3Jo2T73pOEs?t=733)
+
+Frente a la sombra cultural densa que Lovecraft articula, o a la sombra individual que Tyler Durden encarna, Voldemort es la inversión luciferina reducida a su forma más reciclada — lo que confirma la lectura de Harry Potter como serialización de mitemas sin trabajo simbólico propio.
+
+### Sistema de magia como Fiat narrativo
+
+> "El sistema de magia es cero sistemático y cero planificado. Es inexplicable por qué no usan magia para curar las gafas de Harry o crear dinero pero sí crean caramelos. La fantasía está hecha para ser plausible; Harry Potter es recreativo, no constructivo — Fiat tras Fiat narrativo sin coherencia interna."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (14:46)](https://youtu.be/3Jo2T73pOEs?t=886)
+
+El criterio de plausibilidad interna que el canal pide al mito moderno serio (Matrix, Lovecraft, Tolkien) — coherencia simbólica del sistema — está expresamente ausente.
+"
 → [Matrix y el camino del héroe, 49:49](https://youtu.be/kF5KHE_fF7g?t=2989)
 
 ## Conexión con otros conceptos
@@ -166,4 +202,5 @@ Y la alegoría epistémica:
 - **El mito en la ciencia ficción más allá de Matrix** (Alien, Prometeo, Blade Runner, Dune) — el canal los toca pero no los sistematiza con la misma profundidad
 - **El mito en el videojuego** (Bloodborne aparece como herencia lovecraftiana, pero la dimensión específicamente lúdica del mito digital queda por desarrollar)
 - **La economía cultural del mito moderno** — cómo plataformas, franquicias y serialización degradan los mitos a `autotipo` (categoría del canal: prototipo vaciado de sentido moral)
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Crítica al mito moderno** — el canal habla de la deriva hacia "mitología impropi -->
 - **Crítica al mito moderno** — el canal habla de la deriva hacia "mitología impropia" en mucha cultura pop pero no la sistematiza

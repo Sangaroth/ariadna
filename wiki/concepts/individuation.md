@@ -113,7 +113,32 @@ El canal usa con frecuencia el contraste — cuando el viaje del héroe NO se co
 
 ### Frozen: presupuestos parciales sobre el interior
 
-> "En Frozen la estructura del héroe se la saltan porque los presupuestos sobre el interior de las personas no son reales sino solo parciales. Frozen coge una pequeña parte del interior."
+> "En Frozen la estructura del héroe se la saltan porque los presupuestos sobre el interior de las personas no son reales sino solo parciales. Frozen coge una pequeña parte del interior.
+
+### Harry Potter: forma externa del monomito sin motivación interna
+
+El canal articula a Harry Potter como caso negativo del viaje del héroe — preserva la cáscara estructural pero la vacía del mecanismo psíquico que permite la individuación:
+
+> "Harry Potter tiene la forma externa del viaje del héroe pero no la motivación interna. Pokémon tiene más viaje del héroe que Harry Potter; Harry Potter está disfrazado de épica."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (13:44)](https://youtu.be/3Jo2T73pOEs?t=824)
+
+La resistencia a la llamada queda sustituida por una protesta adolescente vacía:
+
+> "En el monomito la resistencia a la aventura surge de no sentirse capaz, no comprender el camino o no sentirse digno. En Harry Potter la resistencia es que los tíos le riñan o no le dejen volver a casa."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (07:33)](https://youtu.be/3Jo2T73pOEs?t=453)
+
+Y el don que motoriza al héroe — el regalo de algo que viene de más allá del yo, lo uránico — queda desplazado por gratuidad y victimismo:
+
+> "El don de Harry Potter es una cursilería: el amor de la madre, que no puede funcionar como don uranio. El mayor don de Harry Potter es haber perdido a sus padres, una gratuidad injusta."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (02:30)](https://youtu.be/3Jo2T73pOEs?t=150)
+
+La identificación con el material arquetípico no opera desde el yo (que reconoce procesos internos reales) sino desde el ello, que se reconoce en una injusticia imaginaria:
+
+> "Los jóvenes no se identificaban con Harry Potter desde el yo sino desde el ello: no anhelaban vivir lo mismo sino que su propia injusticia sentida fuera tan grande como la suya para justificar su ansiedad e impotencia."
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (06:33)](https://youtu.be/3Jo2T73pOEs?t=393)
+
+Por eso el sacrificio final no funciona como **cambio alquímico** sino como cliché: la entrega a la muerte aparece como exigencia estructural inevitable de la trama, no como una transformación del yo que integra una sombra previamente reconocida.
+"
 → [Frozen, 57:48](https://youtu.be/NYZEm8mcPiQ?t=3468)
 
 ## Identidad, mapa interior y crisis
