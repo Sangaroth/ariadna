@@ -1,0 +1,134 @@
+{
+  "video_id": "VZDrqiFs58k",
+  "video_title": "Proxy te enseña a como desmontar medios públicos y el PSOE",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "capitalismo como categoría casi mitológica (no ente monolítico)",
+      "canonical_guess": "capitalismo-categoria-mitologica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "\"Capitalismo\" es una categoría casi mitológica: existen acciones mediando capital, no un ente monolítico,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Aparición ~1 min de un término canal-específico ya identificado en scope.md §5 ('Capitalismo como categoría mitológica — capitalismo leído como mito moderno, no como sistema económico'). El canal lo invoca aquí como aside reactivo a invitar a definir 'capital' sin elipsis filosóficas. Material insuficiente por sí solo para promover página propia (sin desarrollo sustantivo en este vídeo). Anotar como pieza recurrente para una eventual synthesis sobre 'crítica al capitalismo desde categoría mitológica' que el canal acumula a través del corpus. Si ≥3 vídeos lo articulan operativamente, considerar página propia o sección en [[mitologia-propia-impropia]] sobre el caso 'capitalismo como mito impropio'.",
+      "quote_evidence": "Pide que alguien explique el concepto de capital sin recurrir a elipsis filosóficas de 500 páginas, que son normalmente sofismas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Término ya catalogado en scope.md §5 como vocabulario canal-específico. Si recurre, candidato a página propia o subsección en mitologia-propia-impropia."
+    },
+    {
+      "surface_form": "democracia material como sostén por 'fuerza y fe' (frente a democracia formal-textual)",
+      "canonical_guess": "democracia-material-fuerza-fe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La democracia formal es un conjunto de textos programáticos que el pueblo acepta como normas a cumplir,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La democracia material real se sostiene por la fuerza y la fe en todas sus formas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza coherente con el thesis_candidate [[gisbertocracia]] (creado en este batch) que articula precisamente la crítica al racional-formalismo: 'el problema no es que no haya democracia formal sino que haya o no, el problema será la materialización'. Aquí el canal añade el sustento material concreto: fuerza y fe (no algoritmos formales) son lo que mantiene una democracia material real. Solo ~1 min en este vídeo y dentro de un contexto de politiqueo (los bloques colindantes están filtrados). Una vez la página gisbertocracia se asiente con la firma humana, este aporte podría incorporarse en un futuro pase como enriquecimiento. Por ahora discard sin pending_update para evitar distorsionar una página recién creada con material brevemente articulado en contexto politiqueo.",
+      "quote_evidence": "El derecho es una puesta en común de un deber ser eutáxico para el estado, que puede incluso no existir,",
+      "review_priority": "medium",
+      "review_priority_reason": "Conecta directamente con [[gisbertocracia]] §materialización-de-democracia. Vigilar otros vídeos donde se articule fuerza+fe como sustento material."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "censura mediática del artículo sobre maltrato a hombres (caso del medio rechazante)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso anecdótico del propio canal: un medio rechazó publicarle un artículo. Aside auto-referencial sobre la práctica editorial-mediática del canal, no análisis sustantivo del fenómeno de la censura ni del feminismo institucional (eso lo trata el thesis_candidate 'pecado-original-y-posmodernidad' ya emitido). Mención táctica con consejo práctico de respuesta. No genera página.",
+      "quote_evidence": "Un medio rechaza publicar un artículo que compara maltrato a hombres y mujeres alegando que \"no son lo mismo\",",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "notas de la comunidad en redes sociales / analogía con Wikipedia",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario sobre infraestructura de moderación-contenido en redes sociales (Twitter/X 'community notes'). Llamamiento meta-internet a no editar Wikipedia sin saber del tema. Comentario sobre meta-redes, no contenido temático arquetípico-mitológico-psicológico. Out-of-scope §3.3.",
+      "quote_evidence": "Las notas de la comunidad están siendo ocupadas por personas que no saben utilizar lenguaje informativo neutral,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Efosi (medio o figura mediática mencionada)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia única en el cierre del vídeo a 'medios como el de Efosi'. Identidad y contexto no claros (¿medio digital? ¿persona? ¿typo de Effy del panel TCAs? — improbable, los contextos son distintos). Sin desarrollo. No promueve página.",
+      "quote_evidence": "Las primeras oleadas de reacción ya llegan a medios como el de Efosi, donde rechazan equiparar violencia contra hombres y mujeres,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "feminismo posmoderno (referencia tangencial)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Mención tangencial al feminismo posmoderno como caso paralelo de 'erosión desde dentro' (analogía estratégica del bloque de cierre del vídeo). El tratamiento sustantivo del feminismo posmoderno como objeto del canal está en el thesis_candidate ya emitido 'pecado-original-y-posmodernidad' (Parte II). Captura instrumental aquí, sin material adicional sustantivo. NOTA: este bloque queda filtrado por topic_filters (matchea 'PSOE'); la mención al feminismo posmoderno se registra aparte para auditoría.",
+      "quote_evidence": "No es imposible acabar con el PSOE: se hace desde dentro, igual que se ha erosionado el feminismo posmoderno,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "03:01",
+      "block_title": "💶 Los 400 millones de España a países pobres frente a Valencia",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_phrases": [
+        "Pedro Sánchez",
+        "PSOE"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "filter_added_at": "2026-04-29",
+      "extractor_note": "Bloque íntegramente coyuntural: anuncio gubernamental de 400M€ a países pobres + crisis Valencia (DANA octubre 2024) + crítica a Pedro Sánchez por desatender lo nacional. Politiqueo §3.1 test 5/6 positivos. Filtrado limpio."
+    },
+    {
+      "block_timestamp": "06:03",
+      "block_title": "🔥 Estrategia para desmantelar el PSOE desde dentro",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_phrases": [
+        "PSOE"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "filter_added_at": "2026-04-29",
+      "extractor_note": "Bloque de estrategia partidista directa contra el PSOE ('provocar hasta que su propio vómito de rabia les ahogue'). Politiqueo §3.1 test 7 positivo (juicio moral + estrategia anti-partidista). Filtrado limpio. La analogía con 'erosión del feminismo posmoderno' contenida en el bloque queda registrada como discarded passing_mention para audit trail aunque el bloque se filtre."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 4,
+    "blocks_filtered_count": 2
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_assessment_note": "Vídeo dominantemente politiqueo (título incluye literal 'PSOE', 4 de 6 bloques son comentario partidista coyuntural). Dos bloques (03:01 y 06:03) filtrados por topic_filters. Dos asides estructurales (capitalismo como categoría mitológica, democracia material como fuerza+fe) capturados como entities discarded con review_priority medium para futura integración en páginas relacionadas. Sin pending_updates ni thesis_candidates: el material estructural es brevísimo y el contexto politiqueo del vídeo desaconseja extraer enriquecimientos a páginas filosóficas asentadas. Si en un futuro se procesan vídeos donde el canal articule 'capitalismo como mito impropio' o 'fuerza+fe como sustento material' con desarrollo sostenido, ese material recogerá retroactivamente el aporte breve de este vídeo."
+  }
+}

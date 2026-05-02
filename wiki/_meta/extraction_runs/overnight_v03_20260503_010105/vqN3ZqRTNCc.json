@@ -1,0 +1,153 @@
+{
+  "video_id": "vqN3ZqRTNCc",
+  "video_title": "Madres e Hijas",
+  "playlist": "_sin_playlist",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "ninfa típica / ninfotipia (caracter consolidado)",
+      "canonical_guess": "ninfotipia",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La personalidad más marcada de la madre es ninfa (ninfotípica),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Este patrón madre ninfa-hija ninfa es el caso más hardcore de ninfotipia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "La página existente [[sindrome-wendy]] ya documenta la mutación Wendy→ninfa (Artemisa→Afrodita) como parte central de su contenido. Este vídeo no introduce un concepto nuevo sino que (a) consolida la ninfa como caracter post-mutación con criterio diferencial frente a Wendy ('ya no cree en el romance'), (b) añade la dimensión transgeneracional madre-hija, y (c) aporta el mecanismo del cordón umbilical psíquico. Todo este material se integra naturalmente en sindrome-wendy mediante pending_update, evitando duplicación. Promover una página 'ninfotipia' separada requeriría más vídeos donde el concepto opere autónomo y no como mutación del Wendy.",
+      "quote_evidence": "La personalidad más marcada de la madre es ninfa (ninfotípica),"
+    },
+    {
+      "surface_form": "Mean Girls",
+      "canonical_guess": "mean-girls-2004-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "ejemplo_unico",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En Mean Girls hay una madre que encarna exactamente este perfil de madre ninfotípica,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Ejemplo cinematográfico ilustrativo único en el cierre del vídeo (≤1 min) usado para visualizar el perfil de madre ninfotípica. No hay análisis arquetípico dedicado de la película, ni recurrencia en otros vídeos del canal verificada en este momento, ni connectivity ≥3. Mención queda incorporada como referencia prosa en el pending_update a sindrome-wendy. Si el canal vuelve a la película en futuros directos como caso recurrente, revisar promoción.",
+      "quote_evidence": "En Mean Girls hay una madre que encarna exactamente este perfil de madre ninfotípica,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "sindrome-wendy",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/wiki/_meta/extraction_runs/overnight_v03_20260503_010105/shadow_wiki/concepts/sindrome-wendy.md",
+      "operation": "insert_after_passage",
+      "anchor_literal_unique": "una potencia que enamora indiscriminadamente porque no ha terminado de constituirse como persona.",
+      "new_content": "\n\n## La ninfa como caracter consolidado y su transmisión transgeneracional\n\nCuando la mutación a ninfa se estabiliza como caracter — no como crisis transitoria — el canal nombra el resultado **ninfotipia**. Lo diferencial del fenotipo consolidado es que la creencia romántica que sostenía al [[sindrome-wendy|Wendy]] ya ha desaparecido. La ninfa típica no espera al héroe imaginario: busca repetidamente parejas con tendencia patológica.\n\n> \"No es Wendy típica porque ya no cree en el romance,\"\n→ [Madres e Hijas (05:33)](https://youtu.be/vqN3ZqRTNCc?t=333)\n\n> \"Cede rápidamente ante varones con tendencia patológica,\"\n→ [Madres e Hijas (02:32)](https://youtu.be/vqN3ZqRTNCc?t=152)\n\nEl interés clínico del fenotipo aparece cuando se transmite **transgeneracionalmente** entre madre e hija. El canal sitúa la transmisión en una asimetría arquetípica de los vínculos parentales: el amor madre-hijo varón opera por ceguera biológica incondicional, mientras el amor madre-hija opera por **identificación**, y esa identificación puede colapsar el espacio donde la hija debería diferenciarse.\n\n> \"El amor madre-hijo varón es incondicional por necesidad biológica; el amor madre-hija funciona por identificación,\"\n→ [Madres e Hijas (06:04)](https://youtu.be/vqN3ZqRTNCc?t=364)\n\n> \"La madre tiene casi telepatía con la hija en todo lo que son iguales,\"\n→ [Madres e Hijas (06:04)](https://youtu.be/vqN3ZqRTNCc?t=364)\n\nCuando la madre joven y la hija adolescente se parecen demasiado, los límites se difuminan y la madre pasa a ser **una mejor amiga**. La hija no entra en rebeldía, no se diferencia: imita.\n\n> \"Cuando la hija adolescente y la madre joven se parecen mucho, la madre pasa a ser una mejor amiga,\"\n→ [Madres e Hijas (07:34)](https://youtu.be/vqN3ZqRTNCc?t=454)\n\n> \"Este patrón madre ninfa-hija ninfa es el caso más hardcore de ninfotipia,\"\n→ [Madres e Hijas (07:34)](https://youtu.be/vqN3ZqRTNCc?t=454)\n\nEl mecanismo psíquico es preciso: la psique de la hija no termina de separarse de la de la madre, lo que el canal nombra como un **cordón umbilical psíquico** que persiste más allá del biológico. Cuando la hija se acuesta con los hombres del catálogo materno —en el caso clínico, literalmente el exnovio de la madre que aún vive en casa— está actuando la posición de la madre, no la propia, **buscando la atención masculina genuina que nunca recibió** del padre patológico ausente.\n\n> \"Cuando la hija se acuesta con esos hombres está siendo su madre, buscando la misma atención,\"\n→ [Madres e Hijas (09:05)](https://youtu.be/vqN3ZqRTNCc?t=545)\n\n> \"Idealiza a los varones de la madre porque proyecta en ellos la figura paterna ausente,\"\n→ [Madres e Hijas (09:05)](https://youtu.be/vqN3ZqRTNCc?t=545)\n\nLa etiología del fenotipo ninfotípico transgeneracional se cierra con tres condiciones acumulativas: padre patológico que abandona, madre ninfotípica sin consciencia de su propio patrón, e identificación madre-hija no quebrada por rebeldía adolescente. La salida exige que la hija reconozca primero **que tiene un problema de afectividad** —condición previa a cualquier trabajo de diferenciación posterior—, mientras que la madre, ya consolidada en el patrón sin consciencia, queda fuera del alcance del trabajo psíquico (\"cero consciencia de su problema, de lo que ha hecho y de la circunstancia general\").\n\n> \"Para salir del patrón, la hija necesita saber que tiene un problema de afectividad,\"\n→ [Madres e Hijas (10:36)](https://youtu.be/vqN3ZqRTNCc?t=636)\n\nEl perfil tiene registro cinematográfico literal en *Mean Girls*: la madre entra al cuarto donde la hija se lía con un chico y le ofrece condones con naturalidad —la disolución del límite materno-filial que la ninfotipia transgeneracional describe encarnada en una escena.\n\n> \"En Mean Girls hay una madre que encarna exactamente este perfil de madre ninfotípica,\"\n→ [Madres e Hijas (11:36)](https://youtu.be/vqN3ZqRTNCc?t=696)\n",
+      "rationale": "La página sindrome-wendy ya tiene una sección 'La mutación a ninfa: de Artemisa a Afrodita' que documenta la transición Wendy→ninfa pero deja la ninfa solo como configuración de tránsito hacia el sacrilegio vampírico. Este vídeo aporta tres bloques de material complementario que extienden esa sección sin solaparse: (1) el criterio diferencial Wendy/ninfa por 'creencia en el romance' (perdida en la ninfa consolidada), (2) la dimensión transgeneracional madre→hija con mecanismo articulado (cordón umbilical psíquico, asimetría amor incondicional vs identificación, madre-amiga sin rebeldía), y (3) la etiología clínica con tres condiciones (padre patológico, madre ninfotípica inconsciente, identificación no quebrada). Anchor literal único al final del párrafo cierre de la sección existente. La inserción NO supersede ninguna laguna explícitamente: las lagunas vigentes piden casos no-trágicos, mecanismos de salida y versión masculina; este vídeo añade otra configuración trágica (transgeneracional) y solo apunta lateralmente al primer paso de la salida ('reconocer el problema'), insuficiente para cerrar la laguna de 'vías de salida'.",
+      "supersedes_laguna": null,
+      "citation_chunks": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "timestamp_seconds": 152,
+          "quote": "Cede rápidamente ante varones con tendencia patológica,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "timestamp_seconds": 333,
+          "quote": "No es Wendy típica porque ya no cree en el romance,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "timestamp_seconds": 364,
+          "quote": "El amor madre-hijo varón es incondicional por necesidad biológica; el amor madre-hija funciona por identificación,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "timestamp_seconds": 454,
+          "quote": "Este patrón madre ninfa-hija ninfa es el caso más hardcore de ninfotipia,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "timestamp_seconds": 545,
+          "quote": "Cuando la hija se acuesta con esos hombres está siendo su madre, buscando la misma atención,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "timestamp_seconds": 636,
+          "quote": "Para salir del patrón, la hija necesita saber que tiene un problema de afectividad,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "timestamp_seconds": 696,
+          "quote": "En Mean Girls hay una madre que encarna exactamente este perfil de madre ninfotípica,"
+        }
+      ],
+      "relation_changes": []
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "padre patológico ausente / dad issues",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Pieza etiológica del cuadro ninfotípico (causa estructural del patrón femenino consolidado). Queda incorporada como condición clínica en el pending_update a sindrome-wendy. No constituye concepto autónomo del canal con desarrollo independiente en este vídeo.",
+      "quote_evidence": "Caso paradigmático: madre soltera joven, padre patológico ausente, patrón de dad issues,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "cordón umbilical psíquico (madre-hija)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Metáfora-mecanismo articulada en este vídeo para nombrar la persistencia de la identificación madre-hija más allá del corte biológico. Se integra en el pending_update a sindrome-wendy como pieza explicativa de la transmisión transgeneracional. Promover como concepto autónomo prematuro: solo aparece en este vídeo y siempre referido al cuadro ninfotípico.",
+      "quote_evidence": "con la hija opera un cordón umbilical psíquico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en futuros vídeos el canal usa 'cordón umbilical psíquico' o equivalente para describir otros vínculos parentales más allá del caso ninfa, podría merecer página propia como mecanismo psíquico. Vigilar."
+    },
+    {
+      "surface_form": "madre-amiga (disolución de límites generacionales)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Configuración relacional descrita como sub-mecánica de la ninfotipia transgeneracional. Se incorpora en el pending_update como pieza clínica del cuadro. No constituye categoría autónoma del canal con desarrollo independiente.",
+      "quote_evidence": "Cuando la hija adolescente y la madre joven se parecen mucho, la madre pasa a ser una mejor amiga,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "caso clínico anónimo (madre y hija con exnovio compartido)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Caso clínico concreto presentado como ilustración. Las personas implicadas no son figuras del corpus encyclopédico; el material relevante es el patrón abstracto, no los individuos. La sustancia del caso queda incorporada al pending_update como ilustración del cuadro.",
+      "quote_evidence": "La hija termina liándose con el exnovio de la madre mientras este aún vive en casa de la madre,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 4,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

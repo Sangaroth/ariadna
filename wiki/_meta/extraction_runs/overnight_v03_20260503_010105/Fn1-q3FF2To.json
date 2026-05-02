@@ -1,0 +1,72 @@
+{
+  "video_id": "Fn1-q3FF2To",
+  "video_title": "Momento destacado de ¡Inside Proxy está emitiendo en directo! (52:40 - 57:40)",
+  "playlist": "_sin_playlist",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "compensar la neurosis (estrategia terapéutica)",
+      "canonical_guess": "compensacion-neurotica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Parte de la terapia es aprender a cambiar neurosis y parte es aprender a compensarlas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mención de ~2 min como apunte clínico-terapéutico tratado como commonplace ('Parte de la terapia es...'). No hay articulación sostenida ni desarrollo del mecanismo más allá de la metáfora 'tirar para otro lado para hacer fuerza en dirección contraria'. Por scope §2.1 no cumple monográfico (≥10 min sostenidos), recurrencia (1 vídeo) ni framing-mark fuerte. Material útil para vigilar: si en futuros vídeos el canal desarrolla 'compensación neurótica' como herramienta operativa propia distinguible de la fórmula junguiana clásica, revisitar promoción.",
+      "quote_evidence": "Compensar es \"tirar para otro lado para hacer fuerza en dirección contraria\" y que te centre,"
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "incapacidad vincular del presentador / stream como compensación personal",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Auto-diagnóstico personal aplicado como ejemplo del mecanismo de compensación: el propio canal/stream del presentador funcionaría como compensación a una incapacidad reconocida de vínculos sociales no digitales. Material biográfico-personal, no enciclopédico. Por scope §3.3 anécdota personal del presentador no genera página ni mention salvo que ilustre concepto promovido — y 'compensar la neurosis' no está promovido.",
+      "quote_evidence": "Encerrarte a estudiar, explicar y abrir un stream puede ser una forma válida de compensar,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "buceo como experiencia de temor primitivo / hipóxico / maternal",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Experiencia personal del presentador frente al buceo presentada en registro emocional-vivencial ('temor primitivo, inconsciente, maternal, grotesco, hipóxico... mola'). No se articula como marco arquetípico ni se desarrolla la cualidad 'maternal/grotesco/hipóxico' como categoría psicoanalítica aplicable. Continuación del registro vlog del vídeo s3B9GFHFDnQ (también discardado por personal_anecdote). Si el canal en otro vídeo eleva el descenso al fondo marino a categoría arquetípica (paralelo con descenso al inconsciente, oceanic feeling, etc.), revisitar.",
+      "quote_evidence": "Bucear por placer genera una sensación de \"temor primitivo, inconsciente, maternal, grotesco, hipóxico\",",
+      "review_priority": "medium",
+      "review_priority_reason": "El léxico ('primitivo, inconsciente, maternal, hipóxico') sí tiene resonancia psicoanalítica clara. Si recurre articulado, podría enriquecer collective-unconscious o una página sobre lo oceánico/uterino como arquetipo regresivo."
+    },
+    {
+      "surface_form": "primo del presentador (mantiene la calma bajo el agua igual)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Mención biográfica privada de familiar sin desarrollo arquetípico. Out-of-scope §3.3.",
+      "quote_evidence": "Mantiene la calma bajo el agua a diferencia de la superficie, igual que su primo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 3,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

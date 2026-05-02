@@ -1,0 +1,210 @@
+{
+  "video_id": "4znlMcSR_1g",
+  "video_title": "Pecado original y Posmodernidad II",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "feminismo institucional como síntoma de centralización estatal",
+      "canonical_guess": "feminismo-como-sintoma",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 13,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El problema no es el feminismo en sí, sino qué parte de la naturaleza humana o la cultura está siendo explotada por el feminismo institucional,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El feminismo y la posmodernidad buscan destruir todo valor de cohesión para conceder poder individual a las criaturas más destructivas,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza central del marco crítico-cultural articulado en este vídeo. Queda capturada en el thesis_candidate 'pecado-original-y-posmodernidad'. Una página propia 'feminismo-como-síntoma' aislada de la articulación más amplia (donde el feminismo es solo uno de varios síntomas: posmodernidad, sobreprotección generacional, pandemia, etc.) sería desproporcionada. La articulación es series-driven (Parte II) — esperar al cierre de la serie.",
+      "quote_evidence": "El feminismo toma el malestar de lo femenino consigo mismo y el desconocimiento de lo femenino sobre sí mismo,"
+    },
+    {
+      "surface_form": "distinción pacífico vs inofensivo (peor condición masculina)",
+      "canonical_guess": "pacifico-vs-inofensivo",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La diferencia entre pacífico (capaz de hacer daño pero elige no hacerlo) e inofensivo (incapaz de hacer daño) es crucial,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Distinción canal-específica enunciada como aside dentro del argumento mayor sobre la inversión masculino/femenino. ~1 min de exposición, sin desarrollo independiente. Tratamiento como assumed_prior ('es crucial') sugiere uso recurrente. Capturada en framework_internal_structure del thesis_candidate. Si recurre articulada en otros vídeos como categoría operativa propia (ej. en análisis de obra para clasificar personajes masculinos), revisitar.",
+      "quote_evidence": "Lo peor que puede ser un hombre es inofensivo: perder el agrediere es la desgracia del poder masculino,"
+    },
+    {
+      "surface_form": "lectura mítica del feminismo desde el Génesis (serpiente, manzana, padre-Estado)",
+      "canonical_guess": "feminismo-mito-genesis",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La serpiente dice a la mujer que el Padre-Estado es un tirano que le ha prohibido acceder al poder,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Le propone que sus instintos animales son en realidad poder y que comer del fruto de la rebelión le dará independencia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Aplicación analógica del mito del Génesis como marco diagnóstico del fenómeno feminista contemporáneo. No es el mito del Génesis como objeto de exposición (eso lo cubre [[genesis-mitologico]]) sino el mito como herramienta interpretativa aplicada al presente. Pieza central del thesis_candidate y queda capturada allí. La conexión potencial con [[genesis-mitologico]] se establecerá si la synthesis se promueve.",
+      "quote_evidence": "La serpiente dice a la mujer que el Padre-Estado es un tirano que le ha prohibido acceder al poder,"
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Pecado original y posmodernidad: feminismo institucional como herramienta de centralización estatal y la inversión masculino/femenino como decadencia cultural",
+      "proposed_page_id": "pecado-original-y-posmodernidad",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El problema no es el feminismo en sí, sino qué parte de la naturaleza humana o la cultura está siendo explotada por el feminismo institucional,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Los valores son conjuntos de máximos y mínimos culturales a los que un grupo civilizatorio aspira o no renuncia para encarrilar su desarrollo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La diferencia entre pacífico (capaz de hacer daño pero elige no hacerlo) e inofensivo (incapaz de hacer daño) es crucial,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "Pecado original y Posmodernidad II"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo femenino se destruyó a sí mismo y arrastró a lo masculino con él: \"la historia más vieja del mundo\","
+        }
+      ],
+      "framework_internal_structure": [
+        "Tesis-marco: el feminismo institucional como síntoma cultural (no como causa) — qué sustrato neurótico/cultural lo permite",
+        "Definición operativa de valores: conjuntos de máximos y mínimos culturales para encarrilar desarrollo grupal",
+        "Mecanismo de centralización: destruir cohesión cultural → individuos atomizados → dependencia del Estado → tiranía estatal con excusa legítima (la pandemia como caso paradigmático)",
+        "Neurosis colocada en el centro de la cultura: en lugar de dar aptitudes para el cambio personal, otorgar poder fáctico para que los demás compensen carencias propias",
+        "Etiología generacional: sobreprotección X→Y como fábrica de neurosis (retirar conflicto externo → conflicto interno irresoluble)",
+        "Lectura mítica del Génesis aplicada al feminismo: serpiente (institución) tienta a la mujer con la rebelión contra Padre-Estado y la promesa de poder por animalización",
+        "Catálogo de renuncias impuestas a lo femenino: maternidad, santidad, cuidados, fidelidad, vientre receptivo — sustituidos por trabajo asalariado, brujería pseudo-religiosa New Age/Wicca, soltería performativa",
+        "Seducción del varón ('come tú también de la manzana'): hombre se feminiza, mujer se animaliza — inversión simétrica",
+        "Distinción pacífico (puede dañar y elige no hacerlo) vs inofensivo (incapaz de dañar): inofensivo como peor condición masculina, pérdida del agrediere",
+        "Culpabilización del Eros masculino y feminización sexual de la masculinidad",
+        "La inversión final: la mujer renuncia a ser madre y se vuelve hembra con crías; el hombre renuncia a ser líder y se vuelve aliado; familia → manada (regresión evolutiva colectiva)"
+      ],
+      "minutes_sustained": 13,
+      "domain_guess": "humanities.philosophy.political",
+      "related_existing_pages": [
+        "mito-moderno-en-proxy",
+        "mitologia-propia-impropia",
+        "consumismo-critica",
+        "anima-archetype",
+        "diagrama-de-proxy",
+        "gisbertocracia",
+        "genesis-mitologico"
+      ],
+      "requires_human_validation": true,
+      "rationale": "FALLA gate de auto-promoción §2.4.1 por minutes_sustained (13 < 30): este vídeo es Parte II de una serie ('Pecado original y Posmodernidad II') por lo que la tesis se desarrolla acumulativamente entre varios vídeos; aisladamente no cumple el umbral de tiempo sostenido aunque sí cumple holgadamente los otros dos criterios (signal_marks=5 cubriendo todos los tipos canónicos, framework_internal_structure=11 piezas articuladas explícitamente con dependencias entre sí). Material claramente IN-scope por §3.1: articula mecanismos psicológico-sociológico-filosóficos (test 1), aplica marco teórico propio (lectura del Génesis como diagnóstico, distinción pacífico/inofensivo) (test 2), critica tradiciones intelectuales (feminismo institucional, posmodernidad) (test 3). NO es politiqueo: cero menciones a partidos/políticos contemporáneos por nombre, cero juicio sobre figura concreta, alcance estructural y antropológico. La synthesis natural cuando se promueva agrupará Partes I, II y III bajo un mismo título. Recomendación humana: localizar y procesar Pecado original y Posmodernidad I y III antes de promover la página, para que la articulación quede completa y la firma humana revise el conjunto, no un fragmento.",
+      "is_part_of_series": true,
+      "series_marker": "II"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "posmodernidad (como tradición intelectual a criticar)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "La posmodernidad aparece como uno de los dos polos críticos del título y como aliado estructural del feminismo en la destrucción de valores de cohesión. Tratamiento conjunto en el thesis_candidate. Una página propia 'posmodernidad' aislada sería excesiva: el canal la usa instrumentalmente como categoría diagnóstica, no como objeto de exposición filosófica autónoma en este vídeo.",
+      "quote_evidence": "El feminismo y la posmodernidad buscan destruir todo valor de cohesión para conceder poder individual a las criaturas más destructivas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en otros vídeos del canal se trata la posmodernidad como corriente filosófica con su propia genealogía (Lyotard, Derrida, Foucault), podría merecer página filosófica autónoma."
+    },
+    {
+      "surface_form": "Wicca / revolución mística femenina New Age",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención lateral como ejemplo de las salidas pseudo-religiosas que sustituyen la santidad rechazada ('No seas santa, sé bruja rebelde'). Sin desarrollo del fenómeno New Age/Wicca como objeto en sí. Captura ilustrativa dentro del catálogo de renuncias del thesis_candidate.",
+      "quote_evidence": "\"No seas santa, sé bruja rebelde\": la revolución mística femenina del New Age y la Wicca como performance pseudo-religiosa que distrae,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "pandemia (COVID-19) como excusa para tiranía estatal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Citada de paso como ejemplo paradigmático del mecanismo centralizador del Estado ('herramientas de represión'). NO es comentario coyuntural sobre medidas concretas ni juicio partidista sobre gobiernos específicos: es uso ilustrativo del mecanismo estructural. Se queda fuera del filtro de politiqueo §3.1 (test 5/6 negativos) pero no merece tratamiento autónomo. Captura instrumental.",
+      "quote_evidence": "El Estado obtiene la excusa para tiranizar bajo herramientas de represión; la pandemia como ejemplo paradigmático,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "generación X / generación Y (sobreprotección como fábrica de neurosis)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Pieza etiológica del cuadro generacional. Las generaciones se nombran como contexto temporal del fenómeno, no como objeto sociológico independiente. Capturada en framework_internal_structure del thesis_candidate.",
+      "quote_evidence": "Desde la generación X hasta la generación Y se ha criado en sobreprotección, impidiendo actuar por sí mismos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Eros masculino vs Eros femenino (culpabilización)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Uso del par psicoanalítico clásico Eros masculino/femenino como categoría descriptiva dentro del análisis de la inversión sexual cultural. No hay exposición sustantiva del concepto Eros en sí ni del marco psicoanalítico que lo sostiene. Capturado en thesis_candidate.",
+      "quote_evidence": "En lugar de canalizar el Eros hacia el afecto y la ternura, se culpabiliza al hombre por su Eros,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Padre-Estado como sustituto del Padre simbólico",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Figura usada en la lectura mítica del Génesis aplicada al feminismo (la serpiente acusa al Padre-Estado de tirano). Pieza interna del análisis, no concepto autónomo desarrollado. Capturada en el thesis_candidate.",
+      "quote_evidence": "La serpiente dice a la mujer que el Padre-Estado es un tirano que le ha prohibido acceder al poder,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "manada vs familia (regresión evolutiva colectiva)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Distinción canal-específica articulada como cierre del cuadro de inversión: la sustitución de la estructura familiar por la grupal-tribal como regresión evolutiva. Pieza del thesis_candidate. Si recurre articulada en otros vídeos como categoría sociológica del canal, podría merecer página propia.",
+      "quote_evidence": "La mujer renunció a ser familia para pasar a ser grupo, a ser manada (\"hermana, esta es tu manada\"),",
+      "review_priority": "medium",
+      "review_priority_reason": "El par familia/manada como regresión evolutiva es categoría conceptualmente densa y exportable. Si recurre, candidato a página propia."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 7,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "version": "0.1.0",
+  "run_id": "reprocess_stale_20260502_220046",
+  "generated_at": "2026-05-02T22:32:28+00:00",
+  "_doc": "Manuales/libros que el speaker recomienda como referencia bibliográfica del canal (scope.md §3.4). Agrupados por book_title con todas las occurrences. Insumo para futura página índice wiki/bibliografia-recomendada.md (renderizado post-process — esta es la fuente de verdad estructurada).",
+  "books": {
+    "El instinto del lenguaje / La tabla rasa": {
+      "book_title": "El instinto del lenguaje / La tabla rasa",
+      "authors": [
+        "Steven Pinker"
+      ],
+      "domain": "psicología cognitiva / neuropsicología divulgativa",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Steven Pinker — El instinto del lenguaje / La tabla rasa",
+          "why_recommended": "Puerta de entrada al enfoque neuropsicológico para estudiar la naturaleza humana; argumentación de claridad meridiana, divulgativos, sencillos de leer",
+          "quote_evidence": "Steven Pinker como puerta de entrada a la neuropsicología",
+          "timestamp_seconds": 124
+        }
+      ]
+    },
+    "(obra no especificada de Richard Dawkins sobre causalidad genética)": {
+      "book_title": "(obra no especificada de Richard Dawkins sobre causalidad genética)",
+      "authors": [
+        "Richard Dawkins"
+      ],
+      "domain": "biología evolutiva / genética conductual",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Richard Dawkins (sobre causalidad genética)",
+          "why_recommended": "Mezcla el enfoque determinista de la genética con la distinción entre determinación y causación; corrige la heurística intuitiva con que confundimos conveniencia con causalidad",
+          "quote_evidence": "Richard Dawkins y el problema de la causalidad genética",
+          "timestamp_seconds": 245
+        }
+      ]
+    },
+    "Manuales de biología de 2º de bachillerato (cuanto más antiguos, mejor)": {
+      "book_title": "Manuales de biología de 2º de bachillerato (cuanto más antiguos, mejor)",
+      "authors": [],
+      "domain": "biología general (nivel introductorio)",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Manuales de biología de 2º de bachillerato",
+          "why_recommended": "Cortos, concisos, bien explicados y adaptados para quien no tiene base previa; mejor iniciación en conceptos básicos",
+          "quote_evidence": "Manuales de biología de bachillerato como base imprescindible",
+          "timestamp_seconds": 397
+        }
+      ]
+    },
+    "Bioquímica (editorial Panamericana)": {
+      "book_title": "Bioquímica (editorial Panamericana)",
+      "authors": [],
+      "domain": "bioquímica / biología celular / genética",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Bioquímica de Panamericana",
+          "why_recommended": "Cubre cuestión química, genética y celular de forma muy completa; útil para síntesis de ATP, ciclos celulares, estructuras moleculares y nomenclatura",
+          "quote_evidence": "Bioquímica de Panamericana como manual de consulta",
+          "timestamp_seconds": 457
+        }
+      ]
+    },
+    "Neuroanatomía clínica y neurociencia (Student Consult, Elsevier)": {
+      "book_title": "Neuroanatomía clínica y neurociencia (Student Consult, Elsevier)",
+      "authors": [],
+      "domain": "neuroanatomía / neurociencia",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Neuroanatomía clínica y neurociencia (Elsevier, Student Consult)",
+          "why_recommended": "Contiene toda la neuroanatomía y neurociencia encefálica con neurología funcional periférica; fotos reales, dibujos espectaculares, material web y autoevaluación; uno de los mejores libros de la parte científica, absolutamente imprescindible",
+          "quote_evidence": "Neuroanatomía clínica y neurociencia de Elsevier (Student Consult)",
+          "timestamp_seconds": 548
+        }
+      ]
+    },
+    "Psicobiología (Panamericana)": {
+      "book_title": "Psicobiología (Panamericana)",
+      "authors": [
+        "Diego Redolar Ripoll"
+      ],
+      "domain": "psicobiología",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Psicobiología (Redolar, Panamericana)",
+          "why_recommended": "Contiene lo justo de bioquímica, psicología, neurociencia y genética en un solo volumen; buen resumen de los manuales anteriores; Redolar es uno de los mejores autores de España en psicobiología",
+          "quote_evidence": "Psicobiología de Panamericana (Redolar) como alternativa integradora",
+          "timestamp_seconds": 639
+        }
+      ]
+    },
+    "Neurociencia afectiva": {
+      "book_title": "Neurociencia afectiva",
+      "authors": [
+        "Jaak Panksepp"
+      ],
+      "domain": "neurociencia afectiva / biología de las emociones",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Neurociencia afectiva (Jaak Panksepp)",
+          "why_recommended": "Mejor compendio existente de biología de la afectividad; en inglés, denso y técnico; centrado en el enfoque evolutivo, tremendamente importante",
+          "quote_evidence": "Neurociencia afectiva de Jaak Panksepp: la raíz biológica de la afectividad",
+          "timestamp_seconds": 730
+        }
+      ]
+    },
+    "Neurociencia cognitiva (Panamericana)": {
+      "book_title": "Neurociencia cognitiva (Panamericana)",
+      "authors": [
+        "Diego Redolar Ripoll"
+      ],
+      "domain": "neurociencia cognitiva",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Neurociencia cognitiva (Redolar, Panamericana)",
+          "why_recommended": "Psicobiología enfocada desde el punto de vista más neurológico; resume todos los libros anteriores incluyendo a Panksepp; el manual con el que el autor del canal empezó en neurociencias y lo que ha estudiado para el canal",
+          "quote_evidence": "Neurociencia cognitiva de Redolar (Panamericana): la biblia de la parte biológica del canal",
+          "timestamp_seconds": 820
+        }
+      ]
+    },
+    "Manual de psiquiatría (Vallejo-Ruiloba)": {
+      "book_title": "Manual de psiquiatría (Vallejo-Ruiloba)",
+      "authors": [
+        "Julio Vallejo Ruiloba"
+      ],
+      "domain": "psiquiatría / psicopatología",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Manual de psiquiatría de Vallejo-Ruiloba",
+          "why_recommended": "Introducción a psicopatología y psiquiatría; sirve para MIR y PIR; cubre neuropsicología, psicopatología, demencias y todo el espectro del pathos; necesario antes de poder usar el DSM-5 con sentido",
+          "quote_evidence": "Manual de psiquiatría de Vallejo-Ruiloba: medicina de la psique",
+          "timestamp_seconds": 881
+        }
+      ]
+    },
+    "DSM-5 (Manual diagnóstico y estadístico de los trastornos mentales)": {
+      "book_title": "DSM-5 (Manual diagnóstico y estadístico de los trastornos mentales)",
+      "authors": [
+        "American Psychiatric Association"
+      ],
+      "domain": "psiquiatría / nosología clínica",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "DSM-5",
+          "why_recommended": "Contiene criterios diagnósticos; mencionado como referencia que requiere marco psicopatológico previo (vía Vallejo-Ruiloba) para uso con sentido",
+          "quote_evidence": "El DSM-5 solo contiene criterios diagnósticos que no sirven sin comprender qué son las patologías",
+          "timestamp_seconds": 881
+        }
+      ]
+    },
+    "Pictures of the Mind": {
+      "book_title": "Pictures of the Mind",
+      "authors": [
+        "Ginsburg",
+        "Blanca",
+        "Auzqui"
+      ],
+      "domain": "filosofía de la mente / divulgación de la conciencia",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Pictures of the Mind (Ginsburg, Blanca y Auzqui)",
+          "why_recommended": "Mezcla cuento y divulgación sobre el imaginario y la conciencia con ilustraciones simbólicas; tremendamente didáctico, cada texto invita a experimentar el problema que expone; afinidad metodológica con el canal (experimentar la pregunta antes que buscar respuestas)",
+          "quote_evidence": "Hace algo muy parecido a lo que hace el canal: hablar de la conciencia mediante textos que te hacen experimentar el problema",
+          "timestamp_seconds": 1004
+        }
+      ]
+    },
+    "Lógica para matemáticos": {
+      "book_title": "Lógica para matemáticos",
+      "authors": [
+        "A. G. Hamilton"
+      ],
+      "domain": "lógica formal / matemáticas",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Hamilton — Lógica para matemáticos",
+          "why_recommended": "Demostración formal de lo que es una estructura lógica mediante estructuras lógicas; abarca desde teoría de grupos hasta Gödel, todo demostrado paso a paso; altísimo nivel, libro para toda la vida",
+          "quote_evidence": "Hamilton: Lógica para matemáticos como biblia de la lógica formal",
+          "timestamp_seconds": 1155
+        }
+      ]
+    },
+    "Lenguaje matemático, conjuntos y números": {
+      "book_title": "Lenguaje matemático, conjuntos y números",
+      "authors": [],
+      "domain": "matemáticas / teoría de grupos",
+      "occurrences": [
+        {
+          "video_id": "A2RpbhypYLk",
+          "video_title": "Biblioteca de Babel I: Ciencia",
+          "surface_form": "Lenguaje matemático, conjuntos y números (UNED)",
+          "why_recommended": "Manual de primer año UNED; explica toda la teoría de grupos y su relación con funciones y espacios; toca incluso topología y teoría de números; más sencillo que el Hamilton, empieza a nivel de bachillerato",
+          "quote_evidence": "Lenguaje matemático, conjuntos y números (UNED): teoría de grupos accesible",
+          "timestamp_seconds": 1247
+        }
+      ]
+    }
+  }
+}

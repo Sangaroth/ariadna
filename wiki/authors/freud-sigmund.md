@@ -70,6 +70,23 @@ La misma vara freudiana se extiende a otros productos culturales que el canal cr
 
 El canal liga así el aparato freudiano con su crítica del sentimentalismo: lo sentimentalista apela al ello (afecto infantil sin elaboración), lo sentimental al yo (afecto integrado en aprendizaje real). Esta operación conecta con el [[camino-victima]], donde la identificación desde el ello sostiene la fantasía de injusticia estructural sin demanda transformadora.
 
+
+
+## Sublimación como aparato diagnóstico
+
+Más allá de la pareja ello/yo, el canal invoca también la **sublimación** freudiana como herramienta de lectura de la conducta pública. En el análisis del [[sindrome-xocas]], abre el diagnóstico con la operación:
+
+> "Todo lo que hace el Xocas es una manifestación de una necesidad, su conducta es una sublimación,"
+→ [El Xocas y la Personalidad (00:00)](https://youtu.be/i1zxa2uxnPs?t=1)
+
+La definición operativa que el canal usa precisa el mecanismo:
+
+> "La sublimación es la manifestación conductual externa aceptable para el yo de algo que internamente es inaceptable,"
+→ [El Xocas y la Personalidad (00:00)](https://youtu.be/i1zxa2uxnPs?t=1)
+
+La distinción frente a la desinhibición orgánica (Tourette) es deliberada: la sublimación no es fallo neurológico sino **economía psíquica** — el yo encuentra una forma públicamente tolerable para una pulsión introyectadamente intolerable. El BDSM ilustra el mecanismo en clave sexual: violencia consentida que canaliza odio hacia el propio sexo o el contrario sin convertir al sujeto en violento real. En la articulación del canal, sublimación queda emparentada con canalización y, en su versión más cruda, con catarsis.
+
+
 ## Posición frente a [[jung-carl-gustav]]
 
 El marco dominante del canal es junguiano (arquetipos, individuación, inconsciente colectivo), pero Freud no es desplazado: se mantiene como **genealogía obligada** y proveedor de distinciones tópicas que el canal usa cuando necesita diagnosticar la *cualidad* de una identificación, más allá de su contenido arquetípico. Donde Jung aporta el qué (qué arquetipo se está activando), Freud aporta el cómo (desde qué instancia psíquica se está consumiendo el material).

@@ -1,17 +1,17 @@
 {
   "version": "0.1.0",
-  "run_id": "pilot_subagent_20260502_202942",
+  "run_id": "reprocess_stale_20260502_220046",
   "generated_at": "2026-05-02T22:32:28+00:00",
   "stats": {
-    "videos_aggregated": 2,
-    "entities_total": 3,
-    "promoted_new": 0,
-    "promoted_updates": 1,
-    "discarded": 22,
+    "videos_aggregated": 5,
+    "entities_total": 4,
+    "promoted_new": 4,
+    "promoted_updates": 8,
+    "discarded": 43,
     "thesis_candidates": 0,
     "thesis_auto_promoted": 0,
     "thesis_pending_human_review": 0,
-    "recommended_references": 0,
+    "recommended_references": 13,
     "flagged_for_review_high": 0
   }
 }

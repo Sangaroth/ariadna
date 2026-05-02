@@ -1,0 +1,208 @@
+{
+  "video_id": "hY87a4srcoM",
+  "video_title": "Olaf y la jaula de oro",
+  "playlist": "_sin_playlist",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Frozen",
+      "canonical_guess": "frozen-2013-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Todos los personajes de Frozen pueden leerse como partes de una misma psique, igual que en Inside Out,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Elsa y Ana son la misma persona: Elsa es la herida y Ana es la parte no afectada que puede relacionarse con el mundo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Vídeo de 5 min — por debajo del umbral monográfico (≥30 min) §2.3, sin connectivity ≥3, sin recurrencia confirmada en otros vídeos del corpus. La densidad analítica es alta pero comprimida en un highlight. Material aprovechable para [[sindrome-wendy]] que ya cataloga *Drácula* y *Peter Pan* como casos canónicos: Frozen extiende el catálogo (Olaf como neurosis de añoranza, parte Wendy, dos polaridades masculinas del tipo). Capturado en pending_update sin promover página entity_work autónoma. Si futuras menciones recurrentes lo posicionan como caso central (≥3 wikilinks o monográfico ≥30 min), revisitar.",
+      "quote_evidence": "Todos los personajes de Frozen pueden leerse como partes de una misma psique, igual que en Inside Out,"
+    },
+    {
+      "surface_form": "síndrome de la jaula de oro",
+      "canonical_guess": "sindrome-jaula-de-oro",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada muestra de afecto de los padres transmitía preocupación, no amor genuino (síndrome de la jaula de oro),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Categoría canal-específica enunciada ~1 min, descrita operativamente ('cada muestra de afecto transmitía preocupación, no amor genuino'). No cumple monográfico ni recurrencia ≥3 vídeos verificada. Tratamiento como assumed_prior sugiere uso recurrente del término en el canal; flag para vigilancia. Por ahora insuficiente para promover. Capturada lateralmente en el pending_update a sindrome-wendy como configuración familiar etiológica de la formación reactiva evitativa.",
+      "quote_evidence": "Cada muestra de afecto de los padres transmitía preocupación, no amor genuino (síndrome de la jaula de oro),"
+    },
+    {
+      "surface_form": "Olaf como neurosis de añoranza / parte Wendy",
+      "canonical_guess": "neurosis-de-añoranza",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Olaf es la neurosis de añoranza de infancia: el país de Nunca Jamás,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza directamente conectada al cuadro de [[sindrome-wendy]] ya documentado: la 'parte Wendy' es nombre alternativo del polo del síndrome y la 'neurosis de añoranza' es funcionalmente equivalente a los polvos mágicos de Peter Pan ya catalogados en la página existente como signo ninfa. Material capturado íntegramente en el pending_update. No constituye concepto autónomo separado del síndrome de Wendy.",
+      "quote_evidence": "La parte que queda fuera del muro es la infancia, la \"parte Wendy\", que solo se enamora de niños perdidos,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "sindrome-wendy",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/wiki/_meta/extraction_runs/overnight_v03_20260503_010105/shadow_wiki/concepts/sindrome-wendy.md",
+      "operation": "insert_before_passage",
+      "anchor_literal_unique": "## Lagunas\n\n- **Genealogía clínica del término**",
+      "new_content": "## Frozen como caso del catálogo Wendy: el castillo de cristal y los dos extremos masculinos\n\nEl análisis arquetípico aplicado a *Frozen* sitúa la película como otro caso del catálogo Wendy/Peter Pan, leído mediante el método del **mapa intrapsíquico** (todos los personajes como partes de una misma psique, en la línea de *Inside Out*). La psique escindida —Elsa como la herida, Ana como la parte que puede relacionarse— reproduce las dos posiciones del síndrome ya documentadas en otros casos.\n\n> \"Elsa y Ana son la misma persona: Elsa es la herida y Ana es la parte no afectada que puede relacionarse con el mundo,\"\n→ [Olaf y la jaula de oro (00:00)](https://youtu.be/hY87a4srcoM?t=0)\n\nLa etiología familiar añade un nombre canal-específico a la configuración: el **síndrome de la jaula de oro** describe el cuadro infantil donde cada muestra de afecto parental transmite preocupación protectora en lugar de amor genuino. Su consecuencia adulta es la formación reactiva evitativa que el canal lee literalmente en el castillo de cristal de Elsa: imponente y frío por fuera, frágil y derretible al calor del amor por dentro — la coraza como falso self.\n\n> \"Cada muestra de afecto de los padres transmitía preocupación, no amor genuino (síndrome de la jaula de oro),\"\n→ [Olaf y la jaula de oro (01:00)](https://youtu.be/hY87a4srcoM?t=60)\n\n> \"Las barreras que Elsa genera de mayor representan el falso self,\"\n→ [Olaf y la jaula de oro (01:30)](https://youtu.be/hY87a4srcoM?t=90)\n\nDentro del cuadro, **Olaf nombra la pieza específica de la 'neurosis de añoranza'**: la magia de la infancia retenida como objeto interior. Es el equivalente funcional de los polvos mágicos de Peter Pan ya catalogados arriba como signo ninfa: el lugar del que no se quiere volver.\n\n> \"Olaf representa la nieve mágica de la infancia, el juego, la ingenuidad perdida,\"\n→ [Olaf y la jaula de oro (00:00)](https://youtu.be/hY87a4srcoM?t=0)\n\n> \"Nunca Jamás es el lugar del que no quieres volver: la infancia, el estar soñando,\"\n→ [Olaf y la jaula de oro (02:01)](https://youtu.be/hY87a4srcoM?t=121)\n\n> \"Olaf es la neurosis de añoranza de infancia: el país de Nunca Jamás,\"\n→ [Olaf y la jaula de oro (04:05)](https://youtu.be/hY87a4srcoM?t=245)\n\nLa lectura añade además un eje no desarrollado en los casos previos: **la elección de pareja del tipo Wendy oscila entre dos extremos masculinos opuestos**, ambos por insuficiencia respecto del eterno aventurero integrable. Por un lado el tirano que aparenta ser el héroe esperado y resulta no serlo (no necesita ser malvado de verdad: basta con que no tenga nada que ver con lo imaginado). Por otro el bobalicón / niño grande sin ambición — Kristoff como \"hombre a medio hacer\", emanado simétricamente con su reno como una sola figura inacabada (paralela al caballo y Flynn Rider en *Enredados*).\n\n> \"Ana/Elsa solo tiene dos opciones de hombre: el que engaña (el psicópata que aparenta ser otro) y el bobalicón,\"\n→ [Olaf y la jaula de oro (02:34)](https://youtu.be/hY87a4srcoM?t=154)\n\n> \"Kristoff es un hombre no valiente, no relevante, sin ambición: es un niño grande,\"\n→ [Olaf y la jaula de oro (03:34)](https://youtu.be/hY87a4srcoM?t=214)\n\n> \"La hija de la jaula de cristal solo sabe relacionarse con la negación de amor o con los restos de su infancia,\"\n→ [Olaf y la jaula de oro (03:34)](https://youtu.be/hY87a4srcoM?t=214)\n\nLa doble polaridad explica por qué la solución que la propia película ofrece —el \"amor propio\"— es inviable dentro del marco del canal: \"no existe el amor propio, existe la autoestima\". El falso self que Elsa construye no se disuelve por auto-afirmación; requiere la integración del eterno aventurero como contenido propio que el síndrome describe — trabajo que la película elude sustituyéndolo por una resolución conciliatoria entre las dos hermanas-piezas.\n\n> \"La película resuelve el conflicto con el 'amor propio', pero no existe el amor propio, existe la autoestima,\"\n→ [Olaf y la jaula de oro (01:30)](https://youtu.be/hY87a4srcoM?t=90)\n\n",
+      "rationale": "La página sindrome-wendy ya tiene catálogo de casos canónicos (*Drácula*, *Peter Pan*, *Harry Potter* como versión masculina) y, tras el update reciente del vídeo Madres e Hijas, una sección sobre la ninfa consolidada y su transmisión transgeneracional. Este vídeo extiende el catálogo cinematográfico con *Frozen* aportando piezas no presentes en la página: (a) el método del mapa intrapsíquico como herramienta de lectura (personajes como partes del mismo yo), (b) el síndrome de la jaula de oro como nombre canal-específico de la etiología familiar, (c) Olaf como pieza de la 'neurosis de añoranza' (paralelo funcional explícito a los polvos mágicos de Peter Pan ya documentados), (d) los dos extremos masculinos del tipo Wendy (tirano vs bobalicón/niño grande), eje no desarrollado en los casos previos, y (e) la crítica del 'amor propio' como falsa salida. Anchor seguro al inicio de la sección Lagunas usando los primeros bullets para garantizar unicidad. NO se promueve Frozen como entity_work (5 min < 30 min monográfico) ni se añaden relations[] hacia frozen-2013-film (no existe ni queda como candidato confirmado). Las menciones de *Inside Out* y *Enredados* quedan en prosa como referencias paralelas sin wikilink.",
+      "supersedes_laguna": null,
+      "citation_chunks": [
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 0,
+          "quote": "Elsa y Ana son la misma persona: Elsa es la herida y Ana es la parte no afectada que puede relacionarse con el mundo,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 0,
+          "quote": "Olaf representa la nieve mágica de la infancia, el juego, la ingenuidad perdida,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 60,
+          "quote": "Cada muestra de afecto de los padres transmitía preocupación, no amor genuino (síndrome de la jaula de oro),"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 90,
+          "quote": "Las barreras que Elsa genera de mayor representan el falso self,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 90,
+          "quote": "La película resuelve el conflicto con el 'amor propio', pero no existe el amor propio, existe la autoestima,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 121,
+          "quote": "Nunca Jamás es el lugar del que no quieres volver: la infancia, el estar soñando,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 154,
+          "quote": "Ana/Elsa solo tiene dos opciones de hombre: el que engaña (el psicópata que aparenta ser otro) y el bobalicón,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 214,
+          "quote": "Kristoff es un hombre no valiente, no relevante, sin ambición: es un niño grande,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 214,
+          "quote": "La hija de la jaula de cristal solo sabe relacionarse con la negación de amor o con los restos de su infancia,"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "timestamp_seconds": 245,
+          "quote": "Olaf es la neurosis de añoranza de infancia: el país de Nunca Jamás,"
+        }
+      ],
+      "relation_changes": []
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Inside Out (Pixar)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención paralela como ejemplo previo del método 'todos los personajes son partes del mismo yo'. Sin análisis dedicado en este vídeo, sin desarrollo arquetípico de la película misma. Una sola línea ilustrativa.",
+      "quote_evidence": "Todos los personajes de Frozen pueden leerse como partes de una misma psique, igual que en Inside Out,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Enredados (Disney) — caballo y Flynn Rider como una persona",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención lateral usada para ilustrar el método de personajes-emanaciones del mismo yo. Sin análisis dedicado a la película.",
+      "quote_evidence": "El protagonista masculino (Kristoff) y el reno son la misma persona, como el caballo y Flynn Rider en Enredados,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Peter Pan / país de Nunca Jamás",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Referencia ya catalogada en sindrome-wendy como signo ninfa (polvos mágicos). Aquí reaparece como ancla del concepto 'neurosis de añoranza' aplicado a Frozen. Capturada en pending_update sin abrir página propia (Peter Pan está además en canonical_whitelist con auto_promote:false, soft).",
+      "quote_evidence": "Nunca Jamás es el lugar del que no quieres volver: la infancia, el estar soñando,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "mito de la diosa: el hombre levantó grandes muros para proteger a la diosa del mal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cita mitológica usada como amplificación arquetípica del castillo de cristal. Sin desarrollo de la fuente, sin articulación como categoría propia. Insuficiente para promover.",
+      "quote_evidence": "El mito de la diosa: \"el hombre levantó grandes muros para proteger a la diosa del mal\",",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "falso self (Winnicott)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto psicoanalítico estándar (Winnicott) aplicado descriptivamente al castillo de cristal de Elsa. Uso instrumental, no exposición sustantiva del concepto winnicottiano ni del marco que lo sostiene. Página autónoma sería material académico fuera del registro arquetípico-cultural del wiki.",
+      "quote_evidence": "Las barreras que Elsa genera de mayor representan el falso self,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "método del mapa intrapsíquico (todos los personajes = partes del mismo yo)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Método de lectura aplicado por el canal en este vídeo y mencionado como recurrente ('igual que en Inside Out'). Es herramienta metodológica, no objeto enciclopédico autónomo todavía. Capturado lateralmente en el pending_update. Si en futuros vídeos se articula como marco metodológico explícito propio del canal con desarrollo sostenido, podría merecer synthesis page sobre 'método arquetípico de análisis cinematográfico del canal'.",
+      "quote_evidence": "Todos los personajes de Frozen pueden leerse como partes de una misma psique, igual que en Inside Out,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el canal usa este método explícitamente en múltiples análisis de obra (probable dado el registro arquetípico habitual), merecería una synthesis sobre el método mismo."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 7,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[crítica al concepto de 'amor propio' (vs autoestima)] reason=internal_framework_reference quote no literal"
+  ]
+}

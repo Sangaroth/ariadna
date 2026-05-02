@@ -1,0 +1,111 @@
+{
+  "video_id": "X4WVHD8hn50",
+  "video_title": "No matéis la fantasía",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "fantasía infantil como modo de ser / función desarrollativa del pensamiento mítico-fantástico",
+      "canonical_guess": "fantasia-infantil-modo-ser",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La visión mágica del mundo en los niños no es mecanismo de defensa, recurso ignorante ni manipulación de la realidad,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los niños no utilizan la fantasía para evitar el mundo sino para estar en él,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Vídeo de solo 3 min, por debajo del umbral monográfico (≥10 min sostenidos) §2.1. No verificada recurrencia en otros vídeos. Sin embargo el contenido conecta nítidamente con la dimensión cognitiva ya documentada en [[mitologia-propia-impropia]] (los mitos propios reproducen la dinámica representacional). Material capturado en pending_update a esa página como sección de praxis (cuento Reyes Magos como mito propio en directo) + función desarrollativa del pensamiento mítico en niños. Si recurre en otros vídeos como tesis cognitivo-desarrollativa autónoma, revisitar promoción.",
+      "quote_evidence": "Los niños no utilizan la fantasía para evitar el mundo sino para estar en él,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "mitologia-propia-impropia",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/wiki/_meta/extraction_runs/overnight_v03_20260503_010105/shadow_wiki/concepts/mitologia-propia-impropia.md",
+      "operation": "insert_before_passage",
+      "anchor_literal_unique": "## Lagunas\n\n- (sin lagunas declaradas todavía)",
+      "new_content": "## La praxis de mitologización propia: el cuento de los Reyes Magos como demostración\n\nLa distinción propia/impropia no se queda en taxonomía de obras ajenas; el canal la **practica** construyendo micro-mitos propios en directo. La articulación más nítida de esa praxis es la reescritura del cuento de los Reyes Magos como respuesta a los padres modernos que eliminan la magia \"para no engañar a sus hijos\":\n\n> \"Cada vez más padres eliminan de raíz la magia en Navidad diciendo no querer engañar a sus hijos,\"\n→ [No matéis la fantasía (00:07)](https://youtu.be/X4WVHD8hn50?t=7)\n\n> \"El nacimiento de un rey tan importante que tres magos-reyes ancianos usaron su magia para encontrarle y traerle tres regalos que significaran su triple importancia,\"\n→ [No matéis la fantasía (01:38)](https://youtu.be/X4WVHD8hn50?t=98)\n\n> \"Los pajes hicieron un pacto: correr la voz pidiendo a todos los padres del mundo que fueran pajes para cumplir el deseo de los magos,\"\n→ [No matéis la fantasía (02:38)](https://youtu.be/X4WVHD8hn50?t=158)\n\nEl cuento es mito propio en sentido estricto: se construye sabiéndose construcción, no reclama existencia histórica de los Reyes ni del pacto, y sin embargo cumple función estructural — articula simbólicamente lo que los padres hacen literalmente cada año (ser sirvientes secretos para que sus hijos vivan la importancia de ser niño, rey y mago). La operación es la misma que el canal atribuye a [[lovecraft-howard]] o [[tolkien-jrr]] a escala literaria: la conciencia del mito como construcción no le resta potencia simbólica, la habilita.\n\n## Función desarrollativa del pensamiento mítico-fantástico\n\nEl cuento de los Reyes opera además como ilustración de una tesis cognitiva sobre los niños: la visión mágica del mundo no es defensa, ignorancia ni manipulación, sino **modo de ser** propio de la conciencia infantil.\n\n> \"Los niños no son adultos ingenuos; tratarlos como tales es pura proyección,\"\n→ [No matéis la fantasía (00:37)](https://youtu.be/X4WVHD8hn50?t=37)\n\n> \"La visión mágica del mundo en los niños no es mecanismo de defensa, recurso ignorante ni manipulación de la realidad,\"\n→ [No matéis la fantasía (00:37)](https://youtu.be/X4WVHD8hn50?t=37)\n\n> \"Los niños no utilizan la fantasía para evitar el mundo sino para estar en él,\"\n→ [No matéis la fantasía (01:07)](https://youtu.be/X4WVHD8hn50?t=67)\n\n> \"Quitarles la fantasía les niega el mundo porque les impide elaborar significados,\"\n→ [No matéis la fantasía (01:07)](https://youtu.be/X4WVHD8hn50?t=67)\n\nEliminar la fantasía no protege al niño de la decepción: lo deja sin instrumento para **elaborar significados** que aún no puede articular conceptualmente. El argumento extiende la nota cognitiva ya señalada arriba —los mitos propios reproducen la dinámica representacional de la mente— al plano del desarrollo: si en el adulto el mito propio es la cognición consciente de sí misma jugando con sus formas, en el niño la fantasía es la cognición todavía no escindida del mito que genera. Matar la fantasía equivale, en esa lectura, a exigir un modo cognitivo que aún no está disponible. El canal añade un diagnóstico psicológico colateral sobre los padres anti-mágicos: \"probablemente proyectan un miedo terrible a ser la causa de una gran decepción\".\n\n",
+      "rationale": "La página existente articula la distinción propia/impropia con casos de obras ajenas (Lovecraft, Tolkien, democracia) y conecta los mitos propios con la dinámica representacional de la cognición. Este vídeo aporta dos bloques complementarios que extienden el alcance sin solaparse con secciones existentes: (1) la praxis del propio canal construyendo un micro-mito propio en directo (cuento Reyes Magos / pacto de los pajes) — caso operativo de mitologización propia que demuestra el concepto en acción, y (2) la dimensión desarrollativa: la conexión cognitivo/mito propio extendida a la psique infantil donde la fantasía no es defensa sino vehículo único para elaborar significados pre-conceptuales. Anchor seguro al header '## Lagunas' (única ocurrencia en el archivo). NOTA OPERATIVA: la página tiene actualmente un bug de duplicación (la sección '## La autorreferencialidad de los mitos propios' aparece dos veces idéntica, líneas 80-85 y 87-94); la inserción se sitúa después del segundo bloque duplicado, antes de Lagunas, sin tocar la duplicación (otro batch debería deduplicarla).",
+      "supersedes_laguna": null,
+      "citation_chunks": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "timestamp_seconds": 7,
+          "quote": "Cada vez más padres eliminan de raíz la magia en Navidad diciendo no querer engañar a sus hijos,"
+        },
+        {
+          "video_id": "X4WVHD8hn50",
+          "timestamp_seconds": 37,
+          "quote": "La visión mágica del mundo en los niños no es mecanismo de defensa, recurso ignorante ni manipulación de la realidad,"
+        },
+        {
+          "video_id": "X4WVHD8hn50",
+          "timestamp_seconds": 67,
+          "quote": "Los niños no utilizan la fantasía para evitar el mundo sino para estar en él,"
+        },
+        {
+          "video_id": "X4WVHD8hn50",
+          "timestamp_seconds": 67,
+          "quote": "Quitarles la fantasía les niega el mundo porque les impide elaborar significados,"
+        },
+        {
+          "video_id": "X4WVHD8hn50",
+          "timestamp_seconds": 98,
+          "quote": "El nacimiento de un rey tan importante que tres magos-reyes ancianos usaron su magia para encontrarle y traerle tres regalos que significaran su triple importancia,"
+        },
+        {
+          "video_id": "X4WVHD8hn50",
+          "timestamp_seconds": 158,
+          "quote": "Los pajes hicieron un pacto: correr la voz pidiendo a todos los padres del mundo que fueran pajes para cumplir el deseo de los magos,"
+        }
+      ],
+      "relation_changes": []
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "cuento de los Tres Reyes Magos (versión articulada por el canal)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Micro-mito construido por el canal en directo (no obra pre-existente externa, no adaptación de un texto fijado canónicamente). Funciona como demostración performativa de la mitologización propia y queda capturado en el pending_update a [[mitologia-propia-impropia]] como caso operativo. Una página entity_work autónoma sería desproporcionada para una articulación poética de ~1 min sin recurrencia verificada en otros vídeos.",
+      "quote_evidence": "El nacimiento de un rey tan importante que tres magos-reyes ancianos usaron su magia para encontrarle y traerle tres regalos que significaran su triple importancia,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "padres anti-mágicos (proyección de miedo a decepcionar)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Diagnóstico psicológico breve aplicado a la categoría de padres modernos que eliminan la magia navideña. Se incorpora como nota colateral en el pending_update; no es categoría autónoma del canal ni tiene desarrollo independiente como tipología propia.",
+      "quote_evidence": "Probablemente proyectan un miedo terrible a ser la causa de una gran decepción,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 2,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

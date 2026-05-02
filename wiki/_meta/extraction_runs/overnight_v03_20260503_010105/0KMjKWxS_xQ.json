@@ -1,0 +1,141 @@
+{
+  "video_id": "0KMjKWxS_xQ",
+  "video_title": "Roro y Valencia contra el mundo",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "feministas de desarrollo (diagnóstico canal-específico): envidia hacia la feminidad inocente preservada en otras",
+      "canonical_guess": "feministas-de-desarrollo",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Proxy explica que quienes la atacan intentaron en su momento ser agradables y lindas y fueron humilladas por ello,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Son \"feministas de desarrollo\": la envidia les lleva a atacar lo que no pueden ser,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Categoría diagnóstica canal-específica aplicada brevemente (~1 min) a un caso concreto: las atacantes serían mujeres que intentaron la 'feminidad inocente' y fueron humilladas, ahora atacan en otras lo que ellas quisieron ser. Conecta nítidamente con el thesis_candidate ya emitido 'pecado-original-y-posmodernidad' (II) y con el cuadro [[sindrome-wendy]] (la 'feminidad inocente' que es la Wendy clásica antes de la mutación destructiva). Material insuficiente por sí solo para promover (1 min, caso único, contexto politiqueo). Cuando se materialice la synthesis 'pecado-original-y-posmodernidad', integrar como pieza diagnóstica adicional: el mecanismo de envidia hacia la feminidad inocente preservada como motor del ataque entre mujeres.",
+      "quote_evidence": "Les destruyeron la feminidad inocente y ahora no soportan ver en otra lo que ellas quisieron ser,",
+      "review_priority": "medium",
+      "review_priority_reason": "Conecta con thesis_candidate pecado-original-y-posmodernidad y con sindrome-wendy. Vigilar recurrencia del término 'feministas de desarrollo' en otros vídeos."
+    },
+    {
+      "surface_form": "tradwife (movimiento de glorificación de la mujer tradicional 1930s)",
+      "canonical_guess": "tradwife-movimiento",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Tradwife es un movimiento de glorificación de la mujer tradicional tipo años 1930,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Definición descriptiva del movimiento tradwife como contexto para presentar el caso de Rorro. Sin desarrollo arquetípico, sin lectura mítica del fenómeno, sin tesis aplicada. Captura instrumental para situar la persona protagonista. Si en otros vídeos el canal eleva tradwife a categoría arquetípica (¿reactualización del mito de la diosa? ¿manifestación cultural de la 'feminidad inocente' que pecado-original-y-posmodernidad invoca?), revisitar.",
+      "quote_evidence": "Se puso de moda en redes por motivos estéticos, ideológicos o religiosos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Movimiento internet contemporáneo con potencial lectura arquetípica (mito de la diosa, feminidad propia/impropia). Vigilar."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Rorro / Pablo (figuras concretas defendidas en el vídeo)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Personas concretas (creadora de contenido y su pareja) cuyo caso individual es objeto del vídeo. No son figuras del canon editorial del wiki, son individuos contemporáneos en redes. Defensa biográfica-puntual, no análisis arquetípico. Out-of-scope §3.3 (personal_anecdote / partisan commentary). El elemento estructuralmente analítico (mecanismo de envidia 'feministas de desarrollo') queda capturado como entity arriba.",
+      "quote_evidence": "Rorro y Pablo (su pareja) fueron a Revuelta a ayudar y aparecieron en tweets de la organización,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Chefs Solidarios en el Campo de Levante (iniciativa logística DANA Valencia)",
+      "reason_code": "political_news",
+      "reason_detail": "Iniciativa puntual de respuesta a crisis humanitaria contemporánea (DANA Valencia, octubre-noviembre 2024). Caso coyuntural específico sin marco arquetípico aplicado. Out-of-scope §3.3.",
+      "quote_evidence": "Ella y su grupo de amigos crearon \"Chefs Solidarios en el Campo de Levante\" para cocinar para los afectados,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Revuelta (asociación juvenil financiada por Vox)",
+      "reason_code": "political_news",
+      "reason_detail": "Organización política partidista contemporánea española. Filtrada por topic_filters en los bloques que la nombran junto a Vox. Out-of-scope §3.3.",
+      "quote_evidence": "Al subir al tráiler descubrieron que Revuelta es una asociación financiada por Vox,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "mecanismo 'fundeo' / cancelación por etiquetado político",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario sobre dinámicas de redes sociales y cancelación digital. Mecanismo descriptivo de fenómeno internet contemporáneo, sin marco arquetípico aplicado más allá de la denominación coloquial. Out-of-scope: meta-internet/meta-canal.",
+      "quote_evidence": "El procedimiento se llama \"fundy\": asociar a alguien con etiquetas políticas para cancelarla,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "crítica a influencers progresistas por inacción ante DANA Valencia",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario partidista contemporáneo sobre conducta de figuras de redes sociales identificadas con la 'izquierda progresista'. Juicio moral sobre actores políticos contemporáneos. Out-of-scope §3.1 test 7. Bloque 02:30 filtrado por topic_filters por mencionar Vox literalmente; el comentario sobre influencers progresistas viaja con el bloque filtrado y se registra aquí para audit trail.",
+      "quote_evidence": "Ningún influencer progresista se ha desplazado a ayudar a Valencia,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "01:30",
+      "block_title": "🏛️ Descubrimiento de la vinculación con Vox y defensa de la ayuda apartidista",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_phrases": [
+        "Vox"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "filter_added_at": "2026-04-29",
+      "extractor_note": "Bloque sobre la vinculación organizativa Revuelta-Vox y la defensa apartidista de la ayuda humanitaria a Valencia. Politiqueo coyuntural §3.1 test 5. Filtrado limpio."
+    },
+    {
+      "block_timestamp": "02:30",
+      "block_title": "⚔️ Crítica a la izquierda progresista por inacción y ataques a los voluntarios",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_phrases": [
+        "Vox"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "filter_added_at": "2026-04-29",
+      "extractor_note": "Bloque de crítica partidista directa a 'la izquierda' por llamar nazi/neonazi a Revuelta (juventudes Vox) y por inacción humanitaria. Politiqueo §3.1 test 7. Filtrado limpio."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 5,
+    "blocks_filtered_count": 2
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_assessment_note": "Vídeo dominantemente politiqueo-cultural (defensa de figura concreta de redes alineada con organización Vox-financiada en contexto crisis DANA Valencia). Dos bloques filtrados por topic_filters (matches literales de 'Vox'). Resto discardado como personal_anecdote / political_news / meta_canal. Una pieza diagnóstica canal-específica salvable ('feministas de desarrollo' como mecanismo de envidia) capturada como entity con review_priority medium para integración futura en thesis_candidate pecado-original-y-posmodernidad o en sindrome-wendy. Sin pending_updates: el material estructural-arquetípico es brevísimo (~1 min) y el contexto politiqueo desaconseja extraerlo a páginas asentadas."
+  }
+}

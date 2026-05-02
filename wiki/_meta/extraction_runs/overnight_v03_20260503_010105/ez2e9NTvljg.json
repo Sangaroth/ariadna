@@ -1,0 +1,231 @@
+{
+  "video_id": "ez2e9NTvljg",
+  "video_title": "¿Qué es un símbolo? (Parte 2)",
+  "playlist": "_sin_playlist",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "Noesis (N) como matriz de estado mental en continua resíntesis + UAL (Unlimited Associative Learning)",
+      "canonical_guess": "noesis-matriz-mental",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La memoria se evoca y concreta en una matriz compleja: la Noesis (N), el estado mental en un momento t,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las relaciones entre submatrices y componentes del estado mental se describen como UAL (Unlimited Associative Learning),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza formal del modelo de mente articulado por el canal: la matriz N como notación operativa del estado mental + UAL como modelo asociativo. Capturada en framework del thesis_candidate. Solo cobra sentido dentro del marco cognitivo completo (representaciones × componentes, ideas, ambiguación, símbolo); página separada sería fragmento.",
+      "quote_evidence": "Jamás habrá dos N iguales, ni en una vida ni entre dos individuos en toda la historia de la humanidad,"
+    },
+    {
+      "surface_form": "matriz 3×3 de representaciones mentales (procedimental/episódica/semántica × afectivo/imaginario/gramatical)",
+      "canonical_guess": "matriz-representaciones-mentales",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las representaciones fundamentales son procedimentales, episódicas y semánticas (asociadas a tipos de memoria),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los componentes de esas representaciones son afectivos, imaginarios y gramaticales,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Andamio taxonómico del modelo cognitivo (tres tipos × tres componentes = matriz 3×3 de combinaciones representacionales). Pieza estructural del thesis_candidate. Captura íntegra allí; página separada sería ruina conceptual del marco unificado.",
+      "quote_evidence": "Se forma una matriz de combinaciones de estos seis elementos en diferentes grados de explicitud,"
+    },
+    {
+      "surface_form": "12 bits/segundo como límite de la metarrepresentación consciente + lenguaje como algoritmo de compresión",
+      "canonical_guess": "12-bits-metarrepresentacion",
+      "page_type": "concept",
+      "domain_primary_guess": "natural.neuroscience",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La metarrepresentación opera a apenas 12 bits por segundo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El lenguaje funciona como algoritmo de compresión, metáfora más correcta que \"el córtex prefrontal es la RAM\","
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza neurocientífica (límite de 12 bits) usada como dato empírico del modelo, articulada con la tesis cognitivamente distintiva ('lenguaje como algoritmo de compresión' es preferible a 'córtex prefrontal como RAM' — corrección a la metáfora computacional clásica). Captura en framework del thesis_candidate. Conexión potencial con [[golem-de-cobre]] (que critica la metáfora informática de la mente). El dato 12 bits per se es neurocientífico estándar; el USO interpretativo es canal-específico.",
+      "quote_evidence": "El pensamiento total es muy complejo y requiere todo el cerebro y el cuerpo, pero lo explícito consciente son solo 12 bits,"
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Teoría del símbolo y de la mente en Proxy: representaciones, noesis, ambiguación, símbolo y el límite computacional de la cognición humana",
+      "proposed_page_id": "teoria-del-simbolo-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La filosofía es la disciplina de clasificación de ideas, no el amor al pensar,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Una idea es todo lo que aparece noéticamente en el interior psíquico evocado por un término,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Un símbolo es un proceso noético por el que una representación explícita con cierto nivel de complejidad evoca o refiere otra representación más compleja, más abstracta o más implícita,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Las representaciones fundamentales son procedimentales, episódicas y semánticas (asociadas a tipos de memoria),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La memoria se evoca y concreta en una matriz compleja: la Noesis (N), el estado mental en un momento t,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "¿Qué es un símbolo? (Parte 2)"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las IAs actuales no son inteligencias en ningún sentido, ni débil ni fuerte ni pura,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Distinción operativa filosofía / poética: la filosofía tiene pretensión de completitud y coherencia con análisis de la realidad; cuando se hace poética se hace poética, no filosofía",
+        "Definición canal-específica de filosofía: disciplina de clasificación de ideas (NO 'amor al pensar' — etimología 'filo-sofía' como 'chorrada poética')",
+        "La filosofía solo se ocupa de representaciones explícitas; los procesos cognitivos inconscientes quedan fuera de su alcance",
+        "Realismo cognitivo: la cognición es parte de la realidad con procesos derivados de un sustrato físico material entrópico; cierre del bucle filosofía / teoría de la mente",
+        "Soft problem de la conciencia: pregunta por la parte más explícita de la mente",
+        "Tres tipos de representaciones mentales (asociadas a tipos de memoria): procedimentales, episódicas, semánticas",
+        "Tres componentes de las representaciones: afectivo, imaginario, gramatical — combinables en matriz 3×3 con grados variables de explicitud",
+        "Definición operativa de IDEA: noesis evocada con consciencia de su existencia (capacidad de distinguir entre 'madre' y 'no-madre')",
+        "Ambiguación como operación con ideas — la forma más simple de modificación de ideas (incluye casos como el cogito cartesiano: 'pienso, me doy cuenta de que pienso, me doy cuenta de que existo')",
+        "Despersonalización como riesgo de ambiguación excesiva (desligar el yo de la idea del yo)",
+        "Límite de 12 bits/segundo de la metarrepresentación consciente — dato neurocientífico interpretado como restricción operativa de la cognición explícita",
+        "Lenguaje como algoritmo de compresión del pensamiento — metáfora preferible a 'córtex prefrontal como RAM'",
+        "Matemáticas como caso extremo de pensamiento abstracto sin afecto ni imagen (funtor como casi irrepresentable)",
+        "Las ideas NO son computables porque contienen afectos; afectos y emociones no son contenibles en máquina",
+        "Noesis (N) como matriz de estado mental en momento t, en continua resíntesis — jamás dos N iguales en toda la historia humana",
+        "Reflejo de orientación: distinción afectiva nuevo/conocido como sustrato de la sensación de 'recuerdo' y 'familiaridad'",
+        "Trauma como evocación continua de una emoción (no como 'actuar como si pasara ahora')",
+        "UAL (Unlimited Associative Learning): las relaciones afectivas/imaginarias/gramaticales entre representaciones generan composiciones representacionales nuevas",
+        "Definición operativa de SÍMBOLO: proceso noético que evoca representación más compleja/abstracta/implícita desde representación más simple (típicamente gráfica o verbal)",
+        "Símbolo = ambiguación = semantización: representación semántica de una representación no-semántica",
+        "Tipos de ambiguación simbólica: imaginaria (gráfica), imaginario-formal (gráfica matemática), semántico-episódica, somática — no toda ambiguación es imaginaria",
+        "Generalización canal-específica: TODO término verbal es símbolo (la acepción clásica de símbolo pierde sentido porque todo lo percibido tiene significación)",
+        "IAs generativas NO son inteligencia: proceso estocástico (píxeles encendidos por probabilidad según prompt) que produce sentido por corrección hacia patrones interiorizados, no por razonamiento",
+        "Símil estructural entre resíntesis de N y prompt-a-IA: mecánica físico-material distinta (imanes vs proteínas) pero arquitectura asociativa análoga; la cantidad de información necesaria para evocar una mente humana es inconcebible"
+      ],
+      "minutes_sustained": 60,
+      "domain_guess": "interdisciplinary.cognitive_science",
+      "related_existing_pages": [
+        "golem-de-cobre",
+        "collective-unconscious",
+        "mitologia-propia-impropia",
+        "genesis-mitologico",
+        "diagrama-de-proxy"
+      ],
+      "requires_human_validation": false,
+      "rationale": "PASA gate de auto-promoción §2.4.1 holgadamente: (a) minutes_sustained=60 ≫ 30 (vídeo monográfico íntegramente sostenido sobre la tesis), (b) signal_marks=7 cubriendo todos los tipos canónicos (3 thesis_markers explícitos en definiciones operativas + pedagogic_register + internal_structure + genealogical_self_reference + applied_framework) ≫ 3, (c) framework_internal_structure=24 piezas articuladas con dependencias explícitas entre sí (matriz 3×3 → ideas → ambiguación → noesis → UAL → símbolo → IAs como contraste) ≫ 4. La articulación es teoría original del canal sobre símbolo, mente y representación — NO exposición de marco ajeno, NO análisis de obra, sino sistematización propia que define operativamente filosofía, idea, ambiguación, noesis y símbolo en términos canal-específicos. NOTA SERIE: este es 'Parte 2'; debería existir Parte 1 con material foundational (probablemente etymología, definición clásica de símbolo, contexto histórico semiótica, motivación del proyecto). Recomendación humana: localizar Parte 1 antes de finalizar la página para integrar el sustrato preliminar — la auto-promoción ahora con solo Parte 2 producirá una página sólida pero potencialmente sin entrada conceptual. CONEXIONES con páginas existentes: (a) [[golem-de-cobre]] cubre la crítica al modelo computacional de la mente con foco IA; este vídeo da el modelo positivo subyacente (qué ES la mente si NO es máquina) — la nueva synthesis se enlaza fuertemente con golem-de-cobre y posiblemente lo extiende; (b) [[mitologia-propia-impropia]] ya cita la dimensión cognitiva ('los mitos propios reproducen la dinámica representacional de la mente') — este vídeo da el modelo formal de esa 'dinámica representacional'; (c) [[genesis-mitologico]] apela al isomorfismo Génesis/síntesis mental — la matriz N y el UAL son las herramientas formales de ese isomorfismo; (d) [[collective-unconscious]] queda iluminado: lo inconsciente colectivo opera con representaciones procedimentales/episódicas no totalmente explícitas mientras la conciencia maneja apenas 12 bits explícitos. La synthesis es así nodo central del marco cognitivo del canal con múltiples wikilinks salientes.",
+      "is_part_of_series": true,
+      "series_marker": "Parte 2"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "soft problem de la conciencia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto académico estándar (Chalmers) invocado para enmarcar el problema de la conciencia explícita. Uso instrumental dentro del realismo cognitivo del canal. No requiere página propia: es referencia técnica académica.",
+      "quote_evidence": "El soft problem de la conciencia pregunta qué queremos decir cuando decimos consciencia: la parte más explícita de la mente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "cogito cartesiano ('pienso luego existo' como caso de metapensamiento)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Frase clásica de Descartes usada como caso ilustrativo de ambiguación (salto fuera del sistema → metarrepresentación → idea de existencia). Captura instrumental dentro del thesis_candidate como ejemplo del mecanismo. Descartes no figura como autor con tratamiento sustantivo en este vídeo.",
+      "quote_evidence": "El proceso es: pienso, me doy cuenta de que pienso, me doy cuenta de que existo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "despersonalización como ambiguación excesiva",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Cuadro clínico mencionado como riesgo del exceso de ambiguación reflexiva (desligar el yo de la idea del yo). Captura en framework del thesis_candidate como una de las consecuencias del mecanismo. No constituye objeto autónomo del wiki.",
+      "quote_evidence": "Si se practica en exceso, se produce despersonalización: desligar el yo de la idea del yo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "trauma como evocación continua de emoción (corrección a 'actuar como si pasara ahora')",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Definición canal-específica que corrige el cliché clínico-popular ('el trauma es revivir el evento'). Aside puntual dentro de la exposición del reflejo de orientación. Si recurre articulado en otros vídeos como definición operativa del trauma con desarrollo, podría merecer página propia. Captura en thesis_candidate.",
+      "quote_evidence": "El trauma no es \"actuar como si pasara ahora\", sino evocar continuamente una emoción,",
+      "review_priority": "medium",
+      "review_priority_reason": "Definición clínica corregida por el canal — vigilar recurrencia."
+    },
+    {
+      "surface_form": "matemáticas (funtor, conjunto, clase de equivalencia, derivada) como caso extremo de pensamiento abstracto",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Conceptos matemáticos invocados como casos ilustrativos del pensamiento abstracto sin afecto ni imagen (funtor casi irrepresentable, conjunto como abstracción de enumeración, clase de equivalencia como relación). Uso instrumental para demostrar el rango de la matriz 3×3. Conceptos académicos estándar, no objetos del wiki.",
+      "quote_evidence": "Los conceptos matemáticos son difíciles de pensar porque son abstractos: carecen de afecto e imagen,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "sofisma estético (todo sofisma es estético en la práctica)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Aside inicial del vídeo que conecta sofisma con sesgo estético. Pieza tangencial al desarrollo principal. Capturable en cualquier futura página sobre 'sofisma' / 'sesgo cognitivo' del canal si recurre articulado.",
+      "quote_evidence": "Todo sofisma en cuanto sesgo es siempre estético,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 7,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "auto_promote_passes_gate": true,
+    "auto_promote_note": "Esta tesis pasa los tres criterios del gate §2.4.1 con holgura. requires_human_validation: false. La firma humana puede revisar en post pero la auto-promoción está habilitada. Una sola observación operativa para el sub-agente que materialice la página: localizar y procesar Parte 1 (¿Qué es un símbolo? Parte 1) antes de cerrar la primera versión de la página, para integrar el sustrato preliminar (etymología, contexto semiótico, motivación) que la Parte 2 da por asumido."
+  },
+  "_validation_warnings": [
+    "DROP entity[simbolo-definicion-canal] decision=discard quote no literal: 'Todo simbolismo es ambiguación: utilizar representaciones simples para referir l'",
+    "DROP discarded[Pinker / Hofstadter (ausencia de referencia bibliográfica explícita en el vídeo)] reason=passing_mention quote no literal"
+  ]
+}

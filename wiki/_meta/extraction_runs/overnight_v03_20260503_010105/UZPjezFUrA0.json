@@ -1,0 +1,255 @@
+{
+  "video_id": "UZPjezFUrA0",
+  "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+  "playlist": "_sin_playlist",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "viaje del héroe en variante judío-desértica + héroe colectivo (pueblo)",
+      "canonical_guess": "viaje-judio-desertico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El viaje del héroe griego es el barco sobre el mar; en Moisés es a través del desierto,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El pueblo como héroe no desciende de la diosa sino que surge de lo ctónico, lo salvaje, lo prehistórico,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Variante culturalmente específica del monomito (judía-desértica vs griega-marítima) más variante de sujeto (héroe colectivo / pueblo vs héroe individual). Material capturado como sección nueva 'Variantes culturales' en el pending_update a [[viaje-heroe]]. NO genera página propia: es extensión natural del viaje del héroe documentado en wiki.",
+      "quote_evidence": "El desierto representa la dificultad primitiva: sobrevivir sin agricultura, técnica ni tecnología,"
+    },
+    {
+      "surface_form": "AT-Éxodo como mito civilizacional + distinción civilización/cultura + serpiente de cobre como advertencia permanente",
+      "canonical_guess": "at-exodo-mito-civilizacional",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los libros del Génesis al Éxodo son desarrollo mitológico: mezcla de realidad y ficción como todo mito religioso,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cultura son las soluciones colectivas a los problemas colectivos: acuerdos y construcciones formales,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La metáfora: hay que tener continuamente presente aquello capaz de destruir tu civilización,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Tres piezas conectadas (lectura del AT como mito civilizacional, distinción civilización/cultura, serpiente de cobre como mecanismo de presencia permanente del mal) que extienden el tratamiento bíblico de [[genesis-mitologico]] más allá del Adán/Eva ya documentado en update reciente. Capturadas como sección nueva en pending_update a esa página. NO genera página autónoma: son extensiones naturales del Génesis-categoría hacia el AT-Éxodo dentro del mismo marco.",
+      "quote_evidence": "El Antiguo Testamento hasta Jueces recoge los errores frecuentes por los que pasa una civilización,"
+    },
+    {
+      "surface_form": "Moisés como patriarca → Hierofante del Tarot",
+      "canonical_guess": "moises-patriarca-hierofante",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Moisés es el líder-patriarca que debe convertirse poco a poco en el Hierofante,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Moisés como figura del AT recibe lectura arquetípica (patriarca → Hierofante del Tarot) dentro del marco del viaje colectivo del pueblo. Pieza interpretativa capturada en el update a [[viaje-heroe]]. Promover página author propia 'moises' sería desproporcionado: la figura aparece como rol funcional dentro del relato Éxodo, no como objeto de exposición biográfico-genealógica. Tarot-arquetipico se referencia desde el update.",
+      "quote_evidence": "Moisés media entre Dios y el pueblo; Dios le va dando soluciones a cada crisis,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Lilit (mitología judía como ser demoníaco que el cristianismo no desarrolla)",
+      "canonical_guess": "lilit",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las serpientes son seres de lengua bífida que engañan y se esconden, asociadas a Lilit en la mitología judía,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Figura demoníaca femenina del judaísmo introducida brevemente para fundar el sentido de las serpientes y el origen ctónico del pueblo-héroe. Tratamiento de ~1 min sin desarrollo del mito de Lilit. Captura instrumental en updates. Si recurre articulada en otros vídeos como sub-categoría arquetípica de lo femenino-demónico (eventualmente conectable con [[anima-archetype]] como ánima oscura, contraparte de la diosa luminosa), revisitar.",
+      "quote_evidence": "El judaísmo desarrolló el mito de Lilit; el cristianismo no lo hizo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Lilit como categoría arquetípica femenino-demoníaca tiene potencial cross-temático (lectura del horror lovecraftiano, del Drácula como figura femenina-demónica, etc.). Vigilar."
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "viaje-heroe",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/wiki/_meta/extraction_runs/overnight_v03_20260503_010105/shadow_wiki/concepts/viaje-heroe.md",
+      "operation": "insert_before_passage",
+      "anchor_literal_unique": "## Lagunas\n\n- **Las fases campbellianas explícitas**",
+      "new_content": "## Variantes culturales del viaje: el desierto judío y el héroe colectivo\n\nEl monomito admite variantes según la tradición que lo articule. El canal distingue al menos dos ejes de variación: el **medio geográfico-arquetípico** del viaje y el **sujeto** del viaje (individual o colectivo).\n\n### El medio del viaje: barco griego vs desierto judío\n\n> \"El viaje del héroe griego es el barco sobre el mar; en Moisés es a través del desierto,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (03:02)](https://youtu.be/UZPjezFUrA0?t=182)\n\nLos dos medios encarnan la **dificultad primitiva** de manera distinta: el mar es lo desconocido fluido con la tormenta como prueba; el desierto es la carencia material radical (sin agricultura, técnica ni tecnología) y la prueba es la supervivencia sin recursos.\n\n> \"El desierto representa la dificultad primitiva: sobrevivir sin agricultura, técnica ni tecnología,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (03:02)](https://youtu.be/UZPjezFUrA0?t=182)\n\n### El héroe colectivo: el pueblo-héroe vs el individuo\n\nEl viaje judío del éxodo introduce una variante adicional: el sujeto del viaje no es un individuo sino **un pueblo**. La genealogía de ese pueblo-héroe es opuesta a la del héroe griego clásico:\n\n> \"El pueblo como héroe no desciende de la diosa sino que surge de lo ctónico, lo salvaje, lo prehistórico,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (04:03)](https://youtu.be/UZPjezFUrA0?t=243)\n\nMientras el héroe griego desciende de la diosa (linaje materno divino que confiere predestinación), el pueblo bíblico **emerge** de lo ctónico-demoníaco (gigantes dominando el mundo, mujeres apareándose con demonios de [[lilit]]) y debe **separarse** activamente de ese fondo prehistórico para poder existir como sujeto histórico. La salida de Egipto es ruptura con la tiranía-barbarie y comienzo de la independencia como condición previa al pueblo.\n\n### Moisés como patriarca-Hierofante: el héroe individual desplazado al rol de mediador\n\nEn el viaje colectivo el héroe individual se desplaza al rol de **mediador**. Moisés no protagoniza, articula: es el patriarca que media entre Dios y el pueblo, y en ese rol opera la transición del [[tarot-arquetipico|Tarot]] del Emperador al Hierofante — del poder fáctico al poder espiritual-pedagógico.\n\n> \"Moisés es el líder-patriarca que debe convertirse poco a poco en el Hierofante,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (04:33)](https://youtu.be/UZPjezFUrA0?t=273)\n\n> \"Moisés media entre Dios y el pueblo; Dios le va dando soluciones a cada crisis,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (04:33)](https://youtu.be/UZPjezFUrA0?t=273)\n\nEl patrón cíclico **Moisés-pueblo-queja-Dios-solución** que se repite hasta Jueces es así la estructura iterativa del viaje del pueblo-héroe: cada crisis recapitula la prueba sin avanzar mientras el pueblo no internalice la lección. La conexión con [[individuation]] sigue siendo válida — el pueblo individuándose como sujeto colectivo-histórico — pero el dispositivo opera a escala civilizacional, no biográfica. Para el desarrollo del mecanismo civilizacional concreto (serpiente de cobre, advertencia permanente del mal) ver [[genesis-mitologico]] §El AT-Éxodo como mito civilizacional.\n\n",
+      "rationale": "La página viaje-heroe trata el monomito como herramienta diagnóstica con foco en el caso individual fallido (Harry Potter forma sin motivación). Las lagunas declaradas piden 'genealogía del concepto fuera de Campbell' y 'versiones invertidas del viaje'. Este vídeo aporta una variante estructural genuina (NO inversión, NO fallo): el monomito articulado para sujetos colectivos en medio desértico con genealogía ctónica en lugar de divina, y con el héroe individual reposicionado como mediador (Moisés-Hierofante). Tres bloques articulados (medio del viaje, sujeto colectivo, héroe-mediador) que extienden la tipología sin solapar contenido existente. Anchor en '## Lagunas' + primer bullet de lagunas para garantizar unicidad; sección nueva queda entre 'Conexión con otros conceptos' y 'Lagunas'. Se introduce wikilink nuevo a [[lilit]] (no existe pero queda como candidato a futura página tras vigilar recurrencia). Cross-link a [[genesis-mitologico]] §El AT-Éxodo (sección nueva creada por update paralelo). Cross-link a [[tarot-arquetipico]] (existente). NO supersede laguna 'genealogía fuera de Campbell' (esto sería sobre Frazer/Eliade) pero acerca al objetivo: aporta una genealogía paralela (judía) del monomito.",
+      "supersedes_laguna": null,
+      "citation_chunks": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 182,
+          "quote": "El viaje del héroe griego es el barco sobre el mar; en Moisés es a través del desierto,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 182,
+          "quote": "El desierto representa la dificultad primitiva: sobrevivir sin agricultura, técnica ni tecnología,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 243,
+          "quote": "El pueblo como héroe no desciende de la diosa sino que surge de lo ctónico, lo salvaje, lo prehistórico,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 273,
+          "quote": "Moisés es el líder-patriarca que debe convertirse poco a poco en el Hierofante,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 273,
+          "quote": "Moisés media entre Dios y el pueblo; Dios le va dando soluciones a cada crisis,"
+        }
+      ],
+      "relation_changes": [
+        {
+          "action": "add",
+          "type": "compared_with",
+          "to": "genesis-mitologico",
+          "weight": "strong",
+          "note": "el viaje colectivo del pueblo-héroe en el AT-Éxodo es el correlato narrativo del Génesis-categoría operando a escala civilizacional"
+        }
+      ]
+    },
+    {
+      "target_page_id": "genesis-mitologico",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/wiki/_meta/extraction_runs/overnight_v03_20260503_010105/shadow_wiki/concepts/genesis-mitologico.md",
+      "operation": "insert_after_passage",
+      "anchor_literal_unique": "> \"El tercer plano son los instintos que los rodean y acechan fuera del Edén: la división tripartita de la cosmogonía polar,\"\n→ [Pecado original y Postmodernidad I (32:32)](https://youtu.be/J45h7xet8gg?t=1952)",
+      "new_content": "\n\n## El AT-Éxodo como mito civilizacional: del Génesis a Moisés\n\nMás allá del Génesis bíblico (Adán y Eva como cosmogonía polar), el canal extiende la lectura mitológica al resto del Antiguo Testamento desde Éxodo hasta Jueces. La tesis es que estos libros NO son historiografía sino **desarrollo mitológico de la expansión civilizatoria** — los pasos obligatorios para que un pueblo se constituya como cultura.\n\n> \"Los libros del Génesis al Éxodo son desarrollo mitológico: mezcla de realidad y ficción como todo mito religioso,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (01:00)](https://youtu.be/UZPjezFUrA0?t=60)\n\n> \"El Antiguo Testamento hasta Jueces recoge los errores frecuentes por los que pasa una civilización,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (01:00)](https://youtu.be/UZPjezFUrA0?t=60)\n\n### Civilización vs cultura: el sujeto del mito\n\nEl canal precisa una distinción operativa entre dos categorías que el AT articula simultáneamente:\n\n> \"Civilización es un conjunto de individuos que comparten un genoma como especie inteligente,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (02:32)](https://youtu.be/UZPjezFUrA0?t=152)\n\n> \"Cultura son las soluciones colectivas a los problemas colectivos: acuerdos y construcciones formales,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (02:32)](https://youtu.be/UZPjezFUrA0?t=152)\n\nEl AT mitologiza el paso de civilización (lo individual genético) a cultura (lo colectivo-formal). Por eso el sujeto del viaje en Éxodo es **el pueblo** — y la prueba es la constitución del lazo cultural mismo. La articulación narrativa de ese viaje colectivo (medio desértico, genealogía ctónica, Moisés como patriarca-Hierofante) está desarrollada en [[viaje-heroe]] §Variantes culturales del viaje.\n\n### La serpiente de cobre: el mal como advertencia permanente\n\nEl episodio numérico de las serpientes de fuego recibe del canal una lectura culturalmente operativa. Cuando el pueblo se queja durante los 40 años del desierto sin llegar a la tierra prometida, Dios envía serpientes — bestias del mundo prehistórico que quedó atrás (lo ctónico-demoníaco asociado a [[lilit]] en la mitología judía). Para curarse, Moisés debe poner una serpiente de cobre en un palo: quien la mire no será mordido.\n\n> \"Dios ordena a Moisés poner una serpiente de cobre en un palo de cobre; quien mire no será mordido,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (08:05)](https://youtu.be/UZPjezFUrA0?t=485)\n\n> \"La metáfora: hay que tener continuamente presente aquello capaz de destruir tu civilización,\"\n→ [Similitudes entre el Génesis en la Biblia, la mitología y el progresismo (08:05)](https://youtu.be/UZPjezFUrA0?t=485)\n\nLa metáfora cultural es operativa: la queja no soluciona nada; la solución es la **presencia constante del mal como advertencia**. Es la articulación más alta del mito civilizacional en el canon bíblico — representar iconográficamente el peligro permanente como condición misma de la supervivencia cultural. La serpiente que dio entrada al pecado en el [[#El Génesis bíblico|Génesis]] es la misma figura que, ahora ya internalizada y mostrada en el palo de cobre, sostiene la cohesión cultural una vez perdido el Edén.\n\n",
+      "rationale": "La página genesis-mitologico recibió en el batch reciente la sección 'El Génesis bíblico: Adán y Eva como cosmogonía polar'. Este vídeo continúa naturalmente esa exposición hacia el AT-Éxodo (Moisés, viaje del desierto, serpiente de cobre). La extensión es coherente: misma página, mismo Antiguo Testamento, articulación que el canal presenta explícitamente como continuación ('Los libros del Génesis al Éxodo son desarrollo mitológico'). Tres bloques nuevos: lectura del AT como mito civilizacional, distinción civilización/cultura, episodio de la serpiente de cobre como mecanismo cultural de advertencia permanente. Anchor a la última cita de la sección Adán/Eva (única) para colocar la nueva sección AT-Éxodo justo después y antes de '## Conexión con otros conceptos'. Cross-link a [[viaje-heroe]] §Variantes (sección creada en update paralelo) y a [[lilit]] (candidato futuro). NO supersede laguna existente: las lagunas piden Génesis no occidentales y Génesis fallidos/invertidos — este vídeo deepens el bíblico extendiéndolo al AT, no abre los huecos pendientes.",
+      "supersedes_laguna": null,
+      "citation_chunks": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 60,
+          "quote": "Los libros del Génesis al Éxodo son desarrollo mitológico: mezcla de realidad y ficción como todo mito religioso,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 60,
+          "quote": "El Antiguo Testamento hasta Jueces recoge los errores frecuentes por los que pasa una civilización,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 152,
+          "quote": "Civilización es un conjunto de individuos que comparten un genoma como especie inteligente,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 152,
+          "quote": "Cultura son las soluciones colectivas a los problemas colectivos: acuerdos y construcciones formales,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 485,
+          "quote": "Dios ordena a Moisés poner una serpiente de cobre en un palo de cobre; quien mire no será mordido,"
+        },
+        {
+          "video_id": "UZPjezFUrA0",
+          "timestamp_seconds": 485,
+          "quote": "La metáfora: hay que tener continuamente presente aquello capaz de destruir tu civilización,"
+        }
+      ],
+      "relation_changes": [
+        {
+          "action": "add",
+          "type": "compared_with",
+          "to": "viaje-heroe",
+          "weight": "strong",
+          "note": "el AT-Éxodo articula el viaje del pueblo-héroe colectivo: el Génesis-categoría operando a escala civilizacional con el monomito como dispositivo narrativo"
+        }
+      ]
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "decadencia liberprogre como repetición del mito bíblico de la queja / batalla cultural como serpiente de cobre",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Aplicación político-cultural contemporánea del mecanismo bíblico (la queja del pueblo en el desierto como antecedente arquetípico del progresismo decadente; la batalla cultural como serpiente de cobre actual). Material de registro político-mítico que pertenece al mismo arco que el thesis_candidate ya emitido [[pecado-original-y-posmodernidad]] (lectura mítica del Génesis aplicada al feminismo y la posmodernidad). NO se incorpora a los pending_updates a viaje-heroe / genesis-mitologico para evitar contaminar páginas mítico-arquetípicas con registro políticamente cargado. Cuando se promueva pecado-original-y-posmodernidad, integrar como pieza adicional: el patrón Moisés-pueblo-queja-Dios-solución como antecedente bíblico del diagnóstico contemporáneo del progresismo. NO matchea topic_filters (no nombres partidistas explícitos).",
+      "quote_evidence": "La decadencia liberprogre consiste en gente quejándose todo el rato a otros de que no le dan lo que merece,",
+      "review_priority": "medium",
+      "review_priority_reason": "Conecta directamente con thesis_candidate pecado-original-y-posmodernidad. Integrar al promover."
+    },
+    {
+      "surface_form": "tres elementos del mito (genealogía ctónica, gigantes dominando el mundo, mujeres con demonios de Lilit)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Catálogo del fondo prehistórico-demoníaco del que el pueblo bíblico debe separarse para constituirse como sujeto histórico. Pieza interpretativa absorbida en el update a viaje-heroe (genealogía ctónica del pueblo-héroe).",
+      "quote_evidence": "La salida de ese caos está representada por gigantes dominando el mundo y mujeres apareándose con demonios de Lilit,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "definición canal-específica del terror ('la serpiente no se ve, se siente; para cuando la sientes ya es tarde')",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Definición operativa del terror articulada brevemente como aside dentro del análisis de la serpiente. Pieza distintiva pero ~10 segundos sin desarrollo. Si recurre articulada en otros vídeos como categoría aplicada (¿lectura del horror lovecraftiano? ¿análisis de obras de género terror?), candidata a página propia.",
+      "quote_evidence": "La serpiente no se ve, se siente; para cuando la sientes ya es tarde — definición de terror,",
+      "review_priority": "medium",
+      "review_priority_reason": "Definición operativa del terror canal-específica. Vigilar recurrencia."
+    },
+    {
+      "surface_form": "Egipto como tiranía-barbarie de la que el pueblo se separa",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Egipto invocado como categoría arquetípica de la cohabitación con la tiranía/barbarie de la que el pueblo bíblico debe separarse. Pieza interpretativa absorbida en el update a viaje-heroe.",
+      "quote_evidence": "Israel sale de la cohabitación con Egipto (tiranía/barbarie) y debe arreglárselas solo: es la independencia,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 4,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

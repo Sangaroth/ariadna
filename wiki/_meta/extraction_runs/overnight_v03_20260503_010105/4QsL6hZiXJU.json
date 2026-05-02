@@ -1,0 +1,246 @@
+{
+  "video_id": "4QsL6hZiXJU",
+  "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Charo (categoría canal-específica: madre que destruye la función conservadora de la familia)",
+      "canonical_guess": "charo-categoria-canal",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las charos no son las hijas del fenómeno de rebeldía manipulada, sino las madres: han destruido los valores de Occidente al destruir la función conservadora de la familia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Categoría central del título de la serie ('What is a Charo?') con tesis distintiva: las charos son MADRES del fenómeno cultural, no hijas. Pieza nuclear del thesis_candidate emitido más abajo. NO se promueve página propia 'charo' aislada porque la tesis solo cobra sentido dentro del marco completo (apoptosis cultural + rebeldía manipulada + héroe vs rebelde + función familiar). La página unificada del thesis_candidate captura la categoría con su contexto teórico; promover 'charo' aparte sería fragmento.",
+      "quote_evidence": "Si se destruyen los referentes familiares, se crean individuos cada vez más vacíos, angustiados y potenciales \"rebeldes de juguete\" manipulables,"
+    },
+    {
+      "surface_form": "apoptosis cultural (concept canal-específico: explosión por exceso de actividad metabólica interna)",
+      "canonical_guess": "apoptosis-cultural",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Hay dos formas de muerte cultural: disolución (los individuos se segregan y la cultura se divide) o apoptosis (explosión por exceso de actividad metabólica interna),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Categoría canal-específica diagnóstica: importa la metáfora biológica (apoptosis = muerte celular programada por exceso) al análisis cultural. Distinción operativa con 'disolución' como las dos formas posibles de muerte de una cultura. Capturada en framework del thesis_candidate. Si en otros vídeos la categoría se aplica como diagnóstico recurrente a casos concretos (más allá de Occidente), candidata a página propia.",
+      "quote_evidence": "Occidente va hacia la apoptosis cultural: se está reventando la cultura desde dentro,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría diagnóstica fuerte con potencial cross-temático. Vigilar si recurre."
+    },
+    {
+      "surface_form": "cuatro fundamentales arquetípicos de la cultura católica (vida, libertad, amor, verdad + Dios)",
+      "canonical_guess": "fundamentales-arquetipicos-catolicismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La civilización occidental es católica, no judeocristiana: sus fundamentos inconscientes estructuran las creencias sobre lo importante,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los fundamentales arquetípicos culturales son vida, libertad, amor y verdad (más Dios, que se puede identificar con verdad al incluir verdades trascendentales),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Articulación canal-específica de los cuatro arquetipos fundacionales de la cultura occidental (vida, libertad, amor, verdad + Dios = verdad trascendental). Define qué hace que una cultura sea 'católica' en sentido estructural-inconsciente más allá de lo confesional. Capturado en framework del thesis_candidate. Conecta con [[diagrama-de-proxy]] §trascendentalidad (los valores que articulan la jerarquía deben apuntar más allá de lo material). Si recurre articulado en otros vídeos como mapa diagnóstico aplicado a obras o culturas concretas, candidato a página propia.",
+      "quote_evidence": "Una cultura se define por cómo rellena esos términos y enseña conductas coherentes con esas creencias; decae cuando se vuelve incoherente con sus propios fundamentos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Mapa de cuatro fundamentales con potencial cross-temático para diagnóstico cultural. Vigilar."
+    },
+    {
+      "surface_form": "héroe vs rebelde (binomio canal-específico: construir vs destruir; eutaxia familiar)",
+      "canonical_guess": "heroe-vs-rebelde",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo contrario al rebelde es el héroe, y la forma más heroica hoy es construir una vida: hacer un bebé es la forma más radical de creación,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Binomio operativo canal-específico (héroe construye / rebelde destruye) con corolario sobre la eutaxia familiar como fin biológico-cultural. Pieza nuclear del thesis_candidate. Conecta con [[viaje-heroe]] (héroe campbelliano) pero el binomio aquí es político-cultural, no narratológico. Captura unificada en el thesis_candidate. Si la dicotomía héroe/rebelde recurre articulada en otros vídeos como herramienta diagnóstica de figuras culturales contemporáneas, candidata a página propia.",
+      "quote_evidence": "El fin de la familia es la eutaxia: la permanencia a lo largo del tiempo para cumplir la función biológica de nacer, crecer, aprender, reproducirse y enseñar,",
+      "review_priority": "medium",
+      "review_priority_reason": "Binomio diagnóstico fuerte. Vigilar recurrencia."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "What is a Charo? La rebeldía manipulada como mecanismo de apoptosis cultural y la charo como madre del fenómeno",
+      "proposed_page_id": "what-is-a-charo",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las charos no son las hijas del fenómeno de rebeldía manipulada, sino las madres: han destruido los valores de Occidente al destruir la función conservadora de la familia,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Hay dos formas de muerte cultural: disolución (los individuos se segregan y la cultura se divide) o apoptosis (explosión por exceso de actividad metabólica interna),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El estereotipo de \"liberal\" no se puede definir porque su enunciación es en negativo: respetar es no agredir, libertad es no interferir,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La civilización occidental es católica, no judeocristiana: sus fundamentos inconscientes estructuran las creencias sobre lo importante,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los fundamentales arquetípicos culturales son vida, libertad, amor y verdad (más Dios, que se puede identificar con verdad al incluir verdades trascendentales),"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "What is a Charo? Primera parte: Los entresijos de la rebeldía"
+        }
+      ],
+      "framework_internal_structure": [
+        "Crítica epistémica al liberalismo: imposibilidad de definir en negativo (respetar=no agredir, libertad=no interferir) — el contenido positivo de las acciones requiere otra cosa",
+        "Vida, libertad y propiedad como términos indefinibles internamente para el liberalismo: la propiedad requiere Estado, la vida implica el debate de la concepción, la libertad es autorreferente",
+        "Toda ideología política es ideología moral: conjunto de ideas sobre cómo deberían ser los demás para sentirme seguro — parte del super-yo como constructo de ideales a alcanzar",
+        "Lo verdaderamente importante de una ideología NO es cómo quieres que se comporten los demás, sino qué tipo de acciones emprenderías ante vida, muerte, verdad y Dios",
+        "Crítica moral al liberalismo: arrogancia epistémica al presuponer que se sabe cuándo se daña y cuándo no",
+        "Civilización occidental como católica (no judeocristiana): los fundamentos inconscientes estructuran las creencias sobre lo importante",
+        "Cuatro fundamentales arquetípicos culturales: vida, libertad, amor, verdad — más Dios identificable con verdad al incluir verdades trascendentales",
+        "Una cultura se define por cómo rellena esos términos y enseña conductas coherentes con esas creencias; decae cuando se vuelve incoherente con sus propios fundamentos",
+        "Apoptosis cultural: dos formas de muerte cultural — disolución (segregación de individuos, división) vs apoptosis (explosión por exceso de actividad metabólica interna). Occidente va hacia la apoptosis",
+        "Crisis Boomer y desarraigo: el estado del bienestar hace que los nacidos no enfrenten los problemas de los antepasados → los principios fundacionales pierden sentido vital → desarraigo y rebeldía",
+        "Capital como instrumentalizador de la angustia: convence al rebelde de cómo ser rebelde (MTV, 80-90 como aparato de moldeado, fenómeno 'Psoe State of Mind' como caso ilustrativo)",
+        "Mecanismo psicológico nuclear: identificación + proyección como arma. El rebelde se identifica con la falta de causa que se le ofrece, y luego proyecta en otros las motivaciones que se le han implantado",
+        "Mutación operativa del rebelde manipulado: pasa de 'querer salir' de la cultura a 'querer destruirla' — vengador contra ancestros e instituciones propias",
+        "Las CHAROS son las MADRES del fenómeno, no las hijas — han destruido la función conservadora de la familia en una generación previa, dejando hijas sin referentes como condición previa al rebelde de juguete",
+        "Función conservadora de la familia: que cada miembro tenga una causa propia y se prepare para construir algo en el exterior",
+        "Sin referentes familiares → individuos cada vez más vacíos, angustiados y manipulables como rebeldes de juguete",
+        "Binomio diagnóstico: héroe vs rebelde — la persona con causa propia no compra cosas que no necesita porque construir te enfrenta al vacío; lo contrario al rebelde es el héroe",
+        "Heroísmo contemporáneo: construir una vida, con su forma más radical de creación que es hacer un bebé",
+        "Eutaxia familiar: el fin de la familia es la permanencia a lo largo del tiempo para cumplir la función biológica completa (nacer, crecer, aprender, reproducirse, enseñar)"
+      ],
+      "minutes_sustained": 30,
+      "domain_guess": "interdisciplinary.cultural_studies",
+      "related_existing_pages": [
+        "pecado-original-y-posmodernidad",
+        "diagrama-de-proxy",
+        "gisbertocracia",
+        "consumismo-critica",
+        "viaje-heroe",
+        "tecnofilia-y-educacion",
+        "mitologia-propia-impropia",
+        "collective-unconscious"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Cumple los TRES criterios del gate §2.4.1 técnicamente: minutes_sustained=30 (justo en el umbral, descontando los ~2 min iniciales de DANA Valencia que se filtran como politiqueo y los ~9 min totales de bloques filtrados/discarded — la exposición sostenida sobre la tesis es de unos 22-23 min efectivos), signal_marks=6 cubriendo todos los tipos canónicos (3 declared_thesis + applied_framework + pedagogic_register + internal_structure + genealogical_self_reference), framework_internal_structure=19 piezas articuladas. SIN EMBARGO requires_human_validation: true por dos razones: (a) es 'Primera parte' explícita de una serie 'What is a Charo?' — la firma humana necesita ver Parte 2 (y posibles partes posteriores) antes de decidir si la página unificada es por serie o si cada parte merece página propia; (b) la tesis se solapa significativamente con el thesis_candidate ya emitido [[pecado-original-y-posmodernidad]] (decadencia cultural, lectura mítica del feminismo/familia, mecanismo de la queja-rebelión) — la firma humana debe decidir si las dos series son thesis distintas o variantes de la misma articulación que merecen unificarse. CONEXIONES: (a) [[pecado-original-y-posmodernidad]] comparte el diagnóstico de decadencia cultural y la lectura del rol femenino destructor; (b) [[diagrama-de-proxy]] aporta el aparato moral-político de los dos ejes — la 'apoptosis cultural' es lo que ocurre cuando los valores transcendentales del cuadrante derecho se vacían; (c) [[gisbertocracia]] comparte la crítica al liberalismo formal-procedimental; (d) [[viaje-heroe]] complementa el binomio héroe/rebelde con el monomito clásico; (e) [[tecnofilia-y-educacion]] (recién emitido como thesis_candidate) comparte el registro 'preparar al niño para el mal en lugar de evitarlo' análogo a la función familiar conservadora articulada aquí; (f) [[consumismo-critica]] entronca con la lectura del capital como instrumentalizador de la angustia. NOTA: dos bloques filtrados por topic_filters (PP/PSOE matches incidentales) — el contenido sustantivo de esos bloques que no es politiqueo (mecanismo identificación+proyección, periodismo provocador como evidencia del absurdo) queda capturado lateralmente en framework_internal_structure.",
+      "is_part_of_series": true,
+      "series_marker": "Primera parte"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "DANA Valencia ayudas (introducción coyuntural)",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque 00:00 inicial sobre ayudas gubernamentales a la DANA valenciana — fiscalidad coyuntural (IVA del 21% sobre ayudas, ayudas no a tiempo parcial ni jubilados) + canalización vía organizaciones políticas juveniles (Frente Obrero, Revuelta como financiada por Vox). Comentario sobre legislación-ejecución concreta sin marco arquetípico aplicado. Out-of-scope §3.3 (fiscalidad coyuntural). NO matchea topic_filters literalmente (Frente Obrero/Revuelta no están en patterns) pero el espíritu del filtro aplica: comentario coyuntural sin valor enciclopédico.",
+      "quote_evidence": "Las ayudas del gobierno excluyen al 80% de agricultores y ganaderos por requisitos estrictos contra productores a tiempo parcial y jubilados,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Songo (periodismo provocador / 'Caiga quien caiga')",
+      "reason_code": "passing_mention",
+      "reason_detail": "Programa contemporáneo (Songo) y referencia histórica ('Caiga quien caiga') usados como ejemplo del periodismo absurdo que evidencia incoherencias culturales. La idea sustantiva (utilidad del periodismo provocador para revelar absurdos sociales) queda capturada en framework_internal_structure pieza 'lo verdaderamente importante de una ideología'. Bloque entero filtrado por topic_filters (PP match) — esta entry es para audit trail de la pieza no-politiquera del bloque.",
+      "quote_evidence": "La utilidad del periodismo sensacionalista tipo Songo es evidenciar el absurdo: preguntas legítimas que generan vergüenza ajena revelan incoherencias,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "MTV / cultura 80-90 como aparato de moldeado del rebelde",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Caso histórico-cultural usado como evidencia del mecanismo capital→rebelde manipulado. Pieza absorbida en framework del thesis_candidate (pieza 11: capital instrumentalizador). Las referencias temporales (años 80-90) son contextuales, no objeto autónomo.",
+      "quote_evidence": "El capital ha utilizado esa angustia vital para convencer al rebelde de cómo ser rebelde: la MTV, los 80-90 y el fenómeno \"Psoe State of Mind\",",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Frente Obrero / Revuelta (organizaciones juveniles politizadas)",
+      "reason_code": "political_news",
+      "reason_detail": "Organizaciones políticas juveniles contemporáneas españolas mencionadas como canales directos de donación. Out-of-scope §3.3.",
+      "quote_evidence": "Las asociaciones juveniles y partidos como Frente Obrero o Revuelta son canales directos de donación frente a las ONGs,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "13:05",
+      "block_title": "🎤 El periodismo provocador como evidencia del absurdo",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_phrases": [
+        "PP"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "filter_added_at": "2026-04-29",
+      "extractor_note": "Bloque mixto: tiene una pieza estructural (utilidad del periodismo absurdo para revelar incoherencias culturales) y referencias politiqueras directas (Caiga quien caiga metiéndose con PP en el poder, vergüenza al decir partido al que se vota). El match PP es genuino — bloque tematiza partidismo. La pieza estructural absorbe en framework_internal_structure del thesis_candidate; entrada en discarded para audit trail."
+    },
+    {
+      "block_timestamp": "26:13",
+      "block_title": "🧠 La Psoe State of Mind: identificación proyectiva como arma psicológica",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_phrases": [
+        "Psoe (en frase coined 'Psoe State of Mind')"
+      ],
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "filter_added_at": "2026-04-29",
+      "extractor_note": "MATCH INCIDENTAL: 'Psoe State of Mind' es frase coined por el canal (transposición del 'Empire State of Mind' de Jay-Z) usada como nombre metafórico del mecanismo psicológico identificación-proyección que el capital cultural opera. NO es comentario partidista directo sobre el PSOE — es categoría diagnóstica. La pieza sustantiva (mecanismo identificación + proyección como arma del capital, mutación del rebelde de 'salir' a 'destruir') ES contenido valioso del thesis_candidate y queda capturada en framework_internal_structure piezas 11-13. Filtrado literal por respeto al patrón pero recomendación de refinar regex para distinguir 'Psoe State of Mind' (frase coined) de comentario sobre el PSOE como partido."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 4,
+    "blocks_filtered_count": 2
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "filter_refinement_suggestion": "Considerar refinar el patrón PSOE en topic_filters.json para excluir frases coined del canal que CONTIENEN 'PSOE' como sufijo metafórico ('Psoe State of Mind' aquí). Posible regex con lookahead/lookbehind o lista de excepciones explícita. Este match es el segundo caso documentado de filtrado literal sobre frase coined (también el caso 'factura de la luz' incidental en Póker de Señoros)."
+  }
+}

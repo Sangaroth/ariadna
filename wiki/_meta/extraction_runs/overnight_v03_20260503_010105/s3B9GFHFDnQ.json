@@ -1,0 +1,58 @@
+{
+  "video_id": "s3B9GFHFDnQ",
+  "video_title": "Get ready with me for going deep down",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "vídeo-diario de buceo (formato 'get ready with me' equipamiento de buceo técnico)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Vídeo entero dedicado a presentar equipamiento de buceo técnico personal del presentador (cinturón de plomos, cuchillos, máscaras, focos, ordenador Cressi Leonardo, regulador Apex, etc.). Anuncio explícito de nueva fase del canal como vlog de hobby/profesión paralela ('El canal inicia una fase de vídeo-diario sobre actividades de buceo'). No hay análisis arquetípico, filosófico, psicológico, mitológico ni cultural; no se trabaja ningún concepto, autor u obra del alcance editorial del wiki (scope.md §1). Material íntegramente fuera de scope: gustos privados y especialización profesional del presentador (§3.3 personal_anecdote).",
+      "quote_evidence": "El canal inicia una fase de vídeo-diario sobre actividades de buceo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "metáfora 'bucear en la mente igual que en el mar'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Frase de intro pronunciada una sola vez como gancho retórico que enlaza la nueva fase de vlog con el contenido habitual del canal. NO se desarrolla como tesis ni como marco analítico aplicado: queda como one-liner sin elaboración. Si en futuros vídeos se articulase como modelo (ej. paralelo entre exploración subacuática e individuación), revisar entonces. Por ahora insuficiente para promover.",
+      "quote_evidence": "\"Bucearemos en la mente igual que bucearemos en el mar\",",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "padre del presentador (cuchillo heredado de pesca submarina)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Mención biográfica privada sin desarrollo arquetípico ni elevación a estructura simbólica. Anécdota familiar pura, fuera de scope §3.3.",
+      "quote_evidence": "Uno de los cuchillos perteneció a su padre y lo usaba para pesca submarina,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "podcast pendiente del canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario de cierre sobre la producción del canal ('debe un podcast pero aún no tiene tiempo'). Metadata del flujo del canal, no contenido temático.",
+      "quote_evidence": "Anuncia que debe un podcast pero aún no tiene tiempo para hacerlo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 4,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

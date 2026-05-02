@@ -1,0 +1,256 @@
+{
+  "video_id": "J45h7xet8gg",
+  "video_title": "Pecado original y Postmodernidad I",
+  "playlist": "_sin_playlist",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Adán y Eva (relato bíblico como cosmogonía polar canónica)",
+      "canonical_guess": "adan-y-eva-genesis-biblico",
+      "page_type": "entity_work",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La cosmogonía polar es un mito de creación basado en la división entre dos sexos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Al principio había un solo ser (Adán) que representa la humanidad, no lo masculino,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "El relato bíblico es objeto de exposición sostenida (35 min) pero NO como obra literaria/textual con autor identificable, sino como instancia canónica de las categorías mitológicas que el wiki ya documenta: [[genesis-mitologico]] (Génesis-categoría) y [[mito-polar]] (cosmogonía polar). Crear una página entity_work 'adan-y-eva' separada generaría duplicación con esas dos categorías. La exposición rica del vídeo se vierte en (a) sección nueva 'El Génesis bíblico' en genesis-mitologico (las cuatro capas, los dos árboles, la doble caída, la división postlapsaria) y (b) extensión de la subsección 'Adán y Eva' ya existente en mito-polar (la pieza específicamente polar de la diferenciación-de-unidad-andrógina).",
+      "quote_evidence": "La cosmogonía polar es un mito de creación basado en la división entre dos sexos,"
+    },
+    {
+      "surface_form": "lectura multinivel del Génesis (cuatro capas: filogenia / ontogenia / cultural / coste existencial del intelecto)",
+      "canonical_guess": "lectura-multinivel-genesis",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los mitos no quieren explicar solo lo material sino el todo: lo material, lo inmaterial y lo espiritual,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Método interpretativo articulado en este vídeo (cuatro capas explícitamente numeradas: filogenia, ontogenia, cultural, intelectual) aplicado al Génesis. Es la pieza metodológica más distintiva del vídeo. Capturada como sub-sección estructurada dentro del update a [[genesis-mitologico]]. Promover como concepto autónomo 'lectura-multinivel-mitos' sería prematuro: solo aparece aquí aplicada a un caso. Si recurre como herramienta general aplicada a otros mitos (Prometeo, Pandora, Cristo, etc.), revisitar promoción.",
+      "quote_evidence": "Mayor volumen craneal permitió meta-representaciones (pensamientos sobre pensamientos) e idea del yo,"
+    },
+    {
+      "surface_form": "los dos árboles del paraíso (vida vs conocimiento; advertencia contra sobreintelectualización)",
+      "canonical_guess": "dos-arboles-paraiso",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Querer saberlo todo lleva a querer controlarlo todo: hiperconciencia sin más libertad,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza interna del relato Génesis articulada en este vídeo (la prohibición divina como advertencia, no como arbitrariedad). Captura completa dentro del update a genesis-mitologico. No constituye objeto enciclopédico autónomo: es elemento del Génesis bíblico tal como el canal lo lee.",
+      "quote_evidence": "El árbol de la vida en el centro del paraíso representa las normas naturales que originan todo,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "genesis-mitologico",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/wiki/_meta/extraction_runs/overnight_v03_20260503_010105/shadow_wiki/concepts/genesis-mitologico.md",
+      "operation": "insert_before_passage",
+      "anchor_literal_unique": "## Conexión con otros conceptos\n\n- El Génesis es una de las **categorías mitológicas estructurales** del canal",
+      "new_content": "## El Génesis bíblico: Adán y Eva como cosmogonía polar\n\nEl relato bíblico de Adán y Eva funciona para el canal como caso paradigmático de Génesis cosmogónico-polar para Occidente — paralelo al Génesis tolkieniano ya tratado pero con una articulación interna distinta: el todo se divide primero en humanidad (Adán como humanidad, no como masculino), después en dos sexos complementarios, y por último en regiones del mundo (paraíso, cielo, infierno, tierra). La densidad del relato proviene de que admite **cuatro lecturas simultáneas no excluyentes**.\n\n> \"Al principio había un solo ser (Adán) que representa la humanidad, no lo masculino,\"\n→ [Pecado original y Postmodernidad I (03:43)](https://youtu.be/J45h7xet8gg?t=223)\n\n> \"En el origen lo instintivo, lo natural, lo sobrenatural y lo real formaban una misma sustancia,\"\n→ [Pecado original y Postmodernidad I (05:14)](https://youtu.be/J45h7xet8gg?t=314)\n\n### Las cuatro capas de lectura del Génesis\n\n**Primera capa — filogénesis** (origen biológico de la especie). La separación de Adán en hombre-mujer recapitula la diferenciación humana frente al mundo animal: el primer hombre nombra a los animales mostrando superioridad intelectual; la creación de Eva representa el paso de machos y hembras a compañeros de vida con roles específicos.\n\n> \"La especie se diferenció primero de los animales; el hombre los nombraba, mostrando superioridad intelectual,\"\n→ [Pecado original y Postmodernidad I (06:45)](https://youtu.be/J45h7xet8gg?t=405)\n\n> \"Lo femenino, más cercano a lo salvaje, es elevado a la misma categoría que lo masculino,\"\n→ [Pecado original y Postmodernidad I (09:16)](https://youtu.be/J45h7xet8gg?t=556)\n\n**Segunda capa — ontogénesis** (origen de la conciencia individual). Los creadores son los padres, el paraíso es el útero, la primera división celular del cigoto inicia la cosmogonía personal y la expulsión a los nueve meses por el excesivo tamaño craneal humano recapitula corporalmente la salida del Edén.\n\n> \"Los creadores son los padres y el paraíso es el útero,\"\n→ [Pecado original y Postmodernidad I (10:46)](https://youtu.be/J45h7xet8gg?t=646)\n\n> \"El ser humano es expulsado prematuramente del útero a los nueve meses por el excesivo tamaño craneal,\"\n→ [Pecado original y Postmodernidad I (10:46)](https://youtu.be/J45h7xet8gg?t=646)\n\n**Tercera capa — origen cultural**. El acceso al conocimiento como ruptura con la naturaleza: querer \"ser como Dios\" se actualiza en cada época con su propia expresión técnica (dominar células madre, contracepción, inteligencia artificial). Es la familia de mitos del gólem, Prometeo y Pandora — la relación entre intelecto y moral.\n\n> \"Es el mito del golem, Prometeo y Pandora: la relación entre intelecto y moral,\"\n→ [Pecado original y Postmodernidad I (12:46)](https://youtu.be/J45h7xet8gg?t=766)\n\n**Cuarta capa — coste existencial del intelecto**. Mayor volumen craneal habilitó meta-representaciones (pensamientos sobre pensamientos) e idea del yo. El precio: depresión, enfermedad mental, narcisismo, sobre-pensamiento, angustia vital — la expulsión simboliza que el don del intelecto trae una angustia que no existía en el estado de inocencia.\n\n> \"Más intelecto implica depresión, enfermedad mental, narcisismo, sobre-pensamiento y angustia vital,\"\n→ [Pecado original y Postmodernidad I (13:46)](https://youtu.be/J45h7xet8gg?t=826)\n\n### Los dos árboles: vida y conocimiento\n\nEl paraíso aloja dos árboles que articulan el sentido cosmológico del relato. El árbol de la vida en el centro representa las normas naturales que originan todo (las reglas estructurales de la existencia). El árbol del conocimiento las complementa con el pensamiento. La prohibición divina no es arbitraria: es advertencia contra la sobreintelectualización, contra utilizar el intelecto para rebuscar y manipular el árbol de la vida.\n\n> \"El árbol de la vida en el centro del paraíso representa las normas naturales que originan todo,\"\n→ [Pecado original y Postmodernidad I (15:47)](https://youtu.be/J45h7xet8gg?t=947)\n\n> \"Querer saberlo todo lleva a querer controlarlo todo: hiperconciencia sin más libertad,\"\n→ [Pecado original y Postmodernidad I (18:19)](https://youtu.be/J45h7xet8gg?t=1099)\n\n### La doble caída: dos pecados de Eva, dos pecados de Adán\n\nLa caída se articula en cuatro pecados simétricos. **Eva** comete primero un pecado de **narcisismo** (querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder, en su ingenuidad) y después uno de **cobardía** (compartir el fruto con Adán para no ser la única rebelde, pedirle al amante que la acompañe). **Adán** comete primero un pecado de **idolatría a Eva** (preferir saltarse las normas divinas para agradarla: ser para la mujer en vez de ser para Dios) y después de **narcisismo seductor** (dejarse llevar por la idea de gustarle más comiendo del fruto, dejarse fundir por la naturaleza para ser más por el camino fácil).\n\n> \"El pecado de Eva es querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder: narcisismo puro,\"\n→ [Pecado original y Postmodernidad I (22:23)](https://youtu.be/J45h7xet8gg?t=1343)\n\n> \"Eva no se queda con el conocimiento para ella sino que lo comparte para no ser la única rebelde,\"\n→ [Pecado original y Postmodernidad I (24:28)](https://youtu.be/J45h7xet8gg?t=1468)\n\n> \"Adán prefiere saltarse las normas divinas para agradar a Eva: querer ser para la mujer en vez de ser para Dios,\"\n→ [Pecado original y Postmodernidad I (24:58)](https://youtu.be/J45h7xet8gg?t=1498)\n\n> \"Adán se deja fundir por la naturaleza queriendo utilizarla para ser más por el camino fácil,\"\n→ [Pecado original y Postmodernidad I (24:58)](https://youtu.be/J45h7xet8gg?t=1498)\n\nLa serpiente en este esquema NO es mal absoluto sino **mal exógeno primario** con el que se cohabitaba en orden — figura del salvajismo previo y de lo instintivo no integrado, que opera como tentadora porque encuentra en Eva (más cercana a lo salvaje por la genealogía costilla-Adán) el conducto natural.\n\n> \"La serpiente representa el mal exógeno primario con el que se cohabitaba en orden,\"\n→ [Pecado original y Postmodernidad I (19:49)](https://youtu.be/J45h7xet8gg?t=1189)\n\n### La expulsión y la división tripartita postlapsaria\n\nTras la conciencia de pecado y las excusas que cristalizan la ruptura con Dios (Eva culpa a la serpiente, Adán culpa a Eva — en lugar de arrepentirse como niños, mienten y evaden), el mundo se divide en tres planos que correlatan con la triada arquetípica vertical [[uranico-telurico-cetonico]]: lo físico crudo y salvaje (desnudez, hambre, frío, miedo), el intelecto dominado por la contradicción ser/deber-ser (obligados a construir moral con esfuerzo) y los instintos que rodean y acechan fuera del Edén.\n\n> \"Esas excusas cristalizan la ruptura con Dios: en lugar de arrepentirse como niños, mienten y evaden,\"\n→ [Pecado original y Postmodernidad I (30:01)](https://youtu.be/J45h7xet8gg?t=1801)\n\n> \"El tercer plano son los instintos que los rodean y acechan fuera del Edén: la división tripartita de la cosmogonía polar,\"\n→ [Pecado original y Postmodernidad I (32:32)](https://youtu.be/J45h7xet8gg?t=1952)\n\n",
+      "rationale": "La página existente trata el Génesis como categoría general (definición, isomorfismo con síntesis mental, caso tolkieniano vía Música de los Ainur, música como vehículo) pero el relato bíblico canónico de Adán y Eva NO está expuesto. Este vídeo (35 min monográfico, mítico-arquetípico) llena exactamente ese hueco con cinco bloques articulados que no se solapan con el contenido existente: (1) las cuatro capas de lectura del Génesis (filogenia/ontogenia/cultural/intelectual), (2) los dos árboles (vida/conocimiento) y la prohibición como advertencia contra sobreintelectualización, (3) la doble caída con cuatro pecados simétricos (Eva: narcisismo+cobardía; Adán: idolatría+narcisismo seductor), (4) la lectura de la serpiente como mal exógeno primario (no mal absoluto), (5) la división tripartita postlapsaria con correlato a [[uranico-telurico-cetonico]]. Anchor en '## Conexión con otros conceptos' inicio + primer bullet para garantizar unicidad. NO supersedes lagunas existentes: las lagunas piden Génesis no occidentales y Génesis fallidos/invertidos — este vídeo deepens el bíblico (occidental) en su forma plena, no expande hacia esos huecos. NOTA: este vídeo es Parte I de una serie; su Parte II ya fue procesada y emitida como thesis_candidate ('pecado-original-y-posmodernidad'). Parte I aporta el sustrato mítico-arquetípico que Parte II aplica políticamente al feminismo y la posmodernidad. Material Parte I → existing pages (genesis-mitologico, mito-polar); material Parte II → thesis_candidate político-cultural pendiente de validación humana.",
+      "supersedes_laguna": null,
+      "citation_chunks": [
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 223,
+          "quote": "Al principio había un solo ser (Adán) que representa la humanidad, no lo masculino,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 314,
+          "quote": "En el origen lo instintivo, lo natural, lo sobrenatural y lo real formaban una misma sustancia,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 405,
+          "quote": "La especie se diferenció primero de los animales; el hombre los nombraba, mostrando superioridad intelectual,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 556,
+          "quote": "Lo femenino, más cercano a lo salvaje, es elevado a la misma categoría que lo masculino,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 646,
+          "quote": "Los creadores son los padres y el paraíso es el útero,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 766,
+          "quote": "Es el mito del golem, Prometeo y Pandora: la relación entre intelecto y moral,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 826,
+          "quote": "Más intelecto implica depresión, enfermedad mental, narcisismo, sobre-pensamiento y angustia vital,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 947,
+          "quote": "El árbol de la vida en el centro del paraíso representa las normas naturales que originan todo,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1099,
+          "quote": "Querer saberlo todo lleva a querer controlarlo todo: hiperconciencia sin más libertad,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1189,
+          "quote": "La serpiente representa el mal exógeno primario con el que se cohabitaba en orden,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1343,
+          "quote": "El pecado de Eva es querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder: narcisismo puro,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1468,
+          "quote": "Eva no se queda con el conocimiento para ella sino que lo comparte para no ser la única rebelde,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1498,
+          "quote": "Adán prefiere saltarse las normas divinas para agradar a Eva: querer ser para la mujer en vez de ser para Dios,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1498,
+          "quote": "Adán se deja fundir por la naturaleza queriendo utilizarla para ser más por el camino fácil,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1801,
+          "quote": "Esas excusas cristalizan la ruptura con Dios: en lugar de arrepentirse como niños, mienten y evaden,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1952,
+          "quote": "El tercer plano son los instintos que los rodean y acechan fuera del Edén: la división tripartita de la cosmogonía polar,"
+        }
+      ],
+      "relation_changes": []
+    },
+    {
+      "target_page_id": "mito-polar",
+      "target_file_path": "/home/dae/PycharmProjects/ariadna/wiki/_meta/extraction_runs/overnight_v03_20260503_010105/shadow_wiki/concepts/mito-polar.md",
+      "operation": "insert_after_passage",
+      "anchor_literal_unique": "### Adán y Eva: cosmogonía polar canónica de Occidente\n\n> \"La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal.\"\n→ [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)",
+      "new_content": "\n\nLa pieza específicamente polar del relato bíblico es que **lo masculino y lo femenino no son creados por separado**: Eva emerge de Adán (que representa la humanidad, no lo masculino), por lo que el dipolo se constituye por **diferenciación de una unidad andrógina previa** y no por encuentro de dos preexistentes. Esto distingue el caso bíblico del polar Pandora-Prometeo (creados separados) y lo acerca estructuralmente al Génesis tolkieniano de los Valar (\"lo masculino y lo femenino existen como esencias previas a la forma\").\n\n> \"Al principio había un solo ser (Adán) que representa la humanidad, no lo masculino,\"\n→ [Pecado original y Postmodernidad I (03:43)](https://youtu.be/J45h7xet8gg?t=223)\n\n> \"Se le creó una compañera como contrapunto y complemento para desarrollar identidad,\"\n→ [Pecado original y Postmodernidad I (03:43)](https://youtu.be/J45h7xet8gg?t=223)\n\nEl relato articula además el lugar específicamente femenino dentro de la polaridad: lo femenino es la genealogía primera (más cercana a lo salvaje, por provenir de la costilla de Adán que era humanidad-aún-indiferenciada) y por eso el conducto natural de la tentación de la serpiente — figura del mal exógeno primario con el que se cohabitaba en orden.\n\n> \"Lo femenino, más cercano a lo salvaje, es elevado a la misma categoría que lo masculino,\"\n→ [Pecado original y Postmodernidad I (09:16)](https://youtu.be/J45h7xet8gg?t=556)\n\n> \"Eva está más cercana a lo salvaje por provenir de una costilla de Adán, más cercana a la naturaleza primigenia,\"\n→ [Pecado original y Postmodernidad I (19:49)](https://youtu.be/J45h7xet8gg?t=1189)\n\nLa caída expulsa al dipolo del Edén unificado a un mundo dividido en tres planos (físico crudo / intelecto contradictorio / instintos exteriores) que el canal nombra como **\"división tripartita de la cosmogonía polar\"** — correlato cosmológico de la triada arquetípica [[uranico-telurico-cetonico]]. La articulación detallada del relato (las cuatro capas de lectura, los dos árboles, la doble caída en cuatro pecados simétricos) está en [[genesis-mitologico]] §El Génesis bíblico.\n\n> \"El tercer plano son los instintos que los rodean y acechan fuera del Edén: la división tripartita de la cosmogonía polar,\"\n→ [Pecado original y Postmodernidad I (32:32)](https://youtu.be/J45h7xet8gg?t=1952)\n",
+      "rationale": "La página mito-polar ya tiene una subsección 'Adán y Eva: cosmogonía polar canónica de Occidente' pero solo con un quote anclaje. Este vídeo (que ya está citado en la página por el barrido previo de un solo quote) entrega 35 min de articulación específicamente polar del caso bíblico. Inserción focalizada después del quote existente que añade lo distintivo del polar bíblico: (a) la diferenciación-de-unidad-andrógina-previa como mecánica polar específica (vs separación-de-preexistentes en Pandora-Prometeo), comparable estructuralmente al polar tolkieniano de los Valar ya documentado en la misma página; (b) el lugar específicamente femenino en la polaridad (genealogía primera, conducto de la serpiente como mal exógeno primario); (c) la división tripartita postlapsaria del dipolo con cross-link a [[uranico-telurico-cetonico]]. La articulación detallada del relato (cuatro capas, dos árboles, doble caída) se delega a genesis-mitologico para no duplicar.",
+      "supersedes_laguna": null,
+      "citation_chunks": [
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 223,
+          "quote": "Al principio había un solo ser (Adán) que representa la humanidad, no lo masculino,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 223,
+          "quote": "Se le creó una compañera como contrapunto y complemento para desarrollar identidad,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 556,
+          "quote": "Lo femenino, más cercano a lo salvaje, es elevado a la misma categoría que lo masculino,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1189,
+          "quote": "Eva está más cercana a lo salvaje por provenir de una costilla de Adán, más cercana a la naturaleza primigenia,"
+        },
+        {
+          "video_id": "J45h7xet8gg",
+          "timestamp_seconds": 1952,
+          "quote": "El tercer plano son los instintos que los rodean y acechan fuera del Edén: la división tripartita de la cosmogonía polar,"
+        }
+      ],
+      "relation_changes": []
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "mito del gólem / Prometeo / Pandora (familia de mitos del intelecto-vs-moral)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Familia de mitos invocada como contexto de la tercera capa de lectura ('Es el mito del golem, Prometeo y Pandora: la relación entre intelecto y moral'). Estas figuras ya están tratadas en el wiki dentro de [[mito-polar]] (Pandora-Prometeo) y [[golem-de-cobre]] (cognición humana vs IA). Captura instrumental como referencia tipológica dentro del update a genesis-mitologico.",
+      "quote_evidence": "Es el mito del golem, Prometeo y Pandora: la relación entre intelecto y moral,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "sobreintelectualización (concepto-piedra del relato Génesis)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Categoría diagnóstica que el canal lee en el mandato divino ('no comer del árbol' = no rebuscar con el intelecto en el árbol de la vida). Articulada en este vídeo dentro del análisis de los dos árboles. Capturada en el update a genesis-mitologico. Si recurre como diagnóstico aplicado a fenómenos contemporáneos en otros vídeos (era de la información, ansiedad, etc.), podría merecer página propia.",
+      "quote_evidence": "Querer saberlo todo lleva a querer controlarlo todo: hiperconciencia sin más libertad,",
+      "review_priority": "medium",
+      "review_priority_reason": "El término aparece como categoría operativa con potencial cross-temático. Vigilar si recurre."
+    },
+    {
+      "surface_form": "ejemplos contemporáneos del 'querer ser como Dios' (células madre, contracepción, IA)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lista breve de actualizaciones técnicas modernas del impulso prometeico, mencionadas como ilustración de la tercera capa. No hay análisis sustantivo de ninguno de los tres temas. Capturados como ilustración en el update.",
+      "quote_evidence": "Querer \"ser como Dios\" se manifiesta en dominar células madre, contracepción, inteligencia artificial,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "tamaño craneal humano y expulsión prematura del útero (correlato biológico de la salida del Edén)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Pieza biológico-evolutiva usada en la segunda capa de lectura (ontogenia). El canal lo conecta con el costo neurocognitivo del intelecto. Captura como pieza interna de la lectura multinivel del Génesis dentro del update.",
+      "quote_evidence": "El ser humano es expulsado prematuramente del útero a los nueve meses por el excesivo tamaño craneal,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 4,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "video_id": "RojGI6fQWhE",
+  "video_title": "Estructuras ideológicas:  Gisbertocracia o racional-formalismo.",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Rubén Gisbert",
+      "canonical_guess": "gisbert-ruben",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 120,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La crítica se dirigirá a la estructura filosófica que presenta, no a su competencia jurídica,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El formalismo de Gisbert es en sí mismo una ideología política porque propone un modelo político,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Figura contemporánea española objeto de crítica filosófica monográfica, no figura foundational del canal (no en whitelist, no genealogía con autores promovidos). Su marco intelectual queda capturado íntegramente dentro del thesis_candidate 'gisbertocracia' que documenta la articulación crítica del canal sobre racional-formalismo. Una página biográfica de Gisbert no aporta más que la síntesis de la crítica.",
+      "quote_evidence": "La \"Gisbertocracia\" abarca todo el constructo de ideas de Rubén Gisbert: democracia formal, abstención de voto, intención fiscal y periodo constituyente,"
+    },
+    {
+      "surface_form": "racional-formalismo",
+      "canonical_guess": "racional-formalismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 110,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Incluso aceptando todo el racional-formalismo de Gisbert, confiar en que los grupos de poder no harán con el pueblo lo que les dé la gana es ingenuo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Etiqueta que el canal adjudica al marco criticado (Gisbert). El contenido encyclopédico es la crítica articulada por el canal, capturada en el thesis_candidate 'gisbertocracia'. Una página propia para 'racional-formalismo' como categoría aislada duplicaría el material de la synthesis.",
+      "quote_evidence": "Estructuras ideológicas:  Gisbertocracia o racional-formalismo."
+    },
+    {
+      "surface_form": "estructura tripartita del hecho cognitivo (semántica, imagen, emoción)",
+      "canonical_guess": "cognicion-tripartita",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Esta estructura tripartita es fundamental para entender por qué \"democracia\" es problemático como concepto,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Todo hecho cognitivo tiene tres componentes: contenido semántico (símbolos con significado y reglas de inferencia), sistema imaginario-representativo (recreación mental de imágenes, olores, espacios) y contenido emocional/afectivo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza interna del marco que Proxy articula en este vídeo, presentada como herramienta para diagnosticar por qué 'democracia' es problemático. Queda capturada en framework_internal_structure del thesis_candidate. Una página propia es prematura sin verificar recurrencia en otros vídeos como marco operativo independiente.",
+      "quote_evidence": "Todo hecho cognitivo tiene tres componentes: contenido semántico (símbolos con significado y reglas de inferencia), sistema imaginario-representativo (recreación mental de imágenes, olores, espacios) y contenido emocional/afectivo,"
+    },
+    {
+      "surface_form": "desplazamiento de significado",
+      "canonical_guess": "desplazamiento-de-significado",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.semiotics",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "Ese proceso se llama desplazamiento de significado y ocurrirá repetidamente en el análisis,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Herramienta analítica que el canal anuncia como recurrente ('ocurrirá repetidamente en el análisis'). Captura interesante para futuro pero aquí solo se aplica al caso democracia. Pendiente verificar recurrencia cross-vídeos antes de promover. Por ahora queda en framework_internal_structure del thesis_candidate.",
+      "quote_evidence": "Cada precisión produce un desplazamiento de significado que desvirtúa el concepto original,"
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Gisbertocracia: crítica al racional-formalismo como ideología y articulación del marco propio sobre ideología, cognición tripartita y democracia como concepto irreductible",
+      "proposed_page_id": "gisbertocracia",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Definición de ideología usada: toda forma de pensamiento que funcione como un mito incompleto, una forma limitada de describir el mundo que incorpora un deber ser,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Todo hecho cognitivo tiene tres componentes: contenido semántico (símbolos con significado y reglas de inferencia), sistema imaginario-representativo (recreación mental de imágenes, olores, espacios) y contenido emocional/afectivo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Opción 1: discutir infinitamente lo que es democracia (bucle eterno demostrado en el vídeo),"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "Ese proceso se llama desplazamiento de significado y ocurrirá repetidamente en el análisis,"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El formalismo de Gisbert es en sí mismo una ideología política porque propone un modelo político,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Definición operativa de ideología como 'mito incompleto que incorpora un deber ser'",
+        "Estructura tripartita del hecho cognitivo (contenido semántico + sistema imaginario-representativo + contenido emocional/afectivo)",
+        "Análisis de las tres premisas del discurso de Gisbert (no hay democracia / queremos democracia / determinar concepto de democracia)",
+        "Mecanismo del desplazamiento de significado al precisar conceptos abstractos (democracia → gobierno del pueblo → mayoría → mayoría elige al gobierno)",
+        "Crítica del positivismo jurídico: hacer material lo que tiene naturaleza formal",
+        "Distinción idealismo / materialismo en la definición de democracia: el problema no es formalizar sino mentir sobre el cumplimiento material",
+        "Las tres únicas opciones ante el concepto de democracia (discutir infinitamente / dictar / dejar al pueblo elegir qué es)",
+        "Imposibilidad estructural de garantizar una transición democrática (vacío de poder = anarquía de facto)"
+      ],
+      "minutes_sustained": 110,
+      "domain_guess": "humanities.philosophy.political",
+      "related_existing_pages": [
+        "diagrama-de-proxy",
+        "golem-de-cobre",
+        "consumismo-critica"
+      ],
+      "requires_human_validation": false,
+      "rationale": "Cumple los tres criterios del gate de auto-promoción §2.4.1: (a) minutes_sustained ~110 >> 30, vídeo monográfico de 127 min sostenido sobre la tesis; (b) speaker_authorship_marks=5 cubriendo los cuatro tipos (thesis_marker, pedagogic_register, internal_structure, genealogical_self_reference) >> 3; (c) framework_internal_structure=8 piezas articuladas explícitamente con dependencias entre sí >> 4. El canal articula su propia teoría de la ideología, modelo de cognición tripartita y crítica al positivismo jurídico mientras desmonta el marco de Gisbert; no es exposición neutra de un marco ajeno sino articulación original. Vídeo foundational del registro filosófico-político del canal, paralelo en función al diagrama-de-proxy en cuanto a articulación de marco propio sobre orientación moral-política."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Pablo Iglesias",
+      "reason_code": "passing_mention",
+      "reason_detail": "Citado una sola vez como ilustración del fenómeno de tergiversación del lenguaje político por parte del poder ('es más bonito decir democracia que dictadura'). Caso ilustrativo del concepto de manipulación lingüística-política, no análisis biográfico ni posicional. Mención ≤10 segundos.",
+      "quote_evidence": "Pablo Iglesias lo dijo: es más bonito decir democracia que dictadura,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "David Santos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención puntual como ejemplo de receptor del discurso de Gisbert que aún así participa del sistema actual. Anécdota ilustrativa sin desarrollo, no figura recurrente del canal.",
+      "quote_evidence": "El ejemplo de David Santos: persona que ha escuchado todo el discurso de Gisbert y aún así participa del sistema actual,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Corea del Norte",
+      "reason_code": "passing_mention",
+      "reason_detail": "Reductio ad absurdum: ejemplo de que 'gobierno de la mayoría' es definición demasiado amplia. Mención ilustrativa sin análisis arquetípico ni político-cultural sostenido.",
+      "quote_evidence": "\"Gobierno de la mayoría\" es demasiado amplio: Corea del Norte también podría reclamar ser gobierno de la mayoría,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "fundadores del sistema representativo en EE.UU.",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento histórico de autoridad: los fundadores no llamaron 'democracia' al sistema representativo. Sin desarrollo histórico ni biográfico.",
+      "quote_evidence": "Lo que hay en España no se llama democracia: los fundadores del sistema representativo en EE.UU. no lo llamaron democracia,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "mónada electoral",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Concepto propio de Gisbert (no del canal) presentado dentro de la exposición de su marco. La crítica al concepto queda capturada en thesis_candidate 'gisbertocracia'. No merece página propia: el wiki documenta marcos del canal, no del autor criticado.",
+      "quote_evidence": "Gisbert propone la \"mónada electoral\" como unidad mínima de representación grupal con poder directo de limitar al poder,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "positivismo jurídico",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico estándar de filosofía del derecho usado por el canal como diagnóstico del error de Gisbert ('hacer material algo que tiene naturaleza formal'). El uso es analítico-instrumental, no exposición sustantiva del marco de positivismo jurídico ni promoción de página autónoma sobre la corriente. Queda capturado como pieza interna del thesis_candidate.",
+      "quote_evidence": "Hacer material algo que tiene naturaleza formal se llama positivismo jurídico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si recurre en otros vídeos del canal como herramienta analítica (canal de orientación filosófico-jurídica), podría merecer página propia en el futuro. Vigilar."
+    },
+    {
+      "surface_form": "idealismo vs materialismo",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Distinción filosófica clásica usada por el canal como herramienta de diagnóstico aplicada al concepto de democracia. Aparece como pieza dentro del marco articulado, no como exposición autónoma del par filosófico. Queda capturado en framework_internal_structure del thesis_candidate.",
+      "quote_evidence": "Decir que son las ideas las que deben regir el ser de las cosas es idealismo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "democracia formal (principio representativo y separación de poderes)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Definición que el canal atribuye a Gisbert para criticarla. La crítica articulada es contenido del thesis_candidate. La definición misma como concepto autónomo es marco de Gisbert, no del canal — no merece página propia.",
+      "quote_evidence": "Gisbert define la democracia formal con dos componentes: principio representativo y separación de poderes,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 8,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "version": "0.1.0",
+  "run_id": "reprocess_stale_20260502_220046",
+  "items": [
+    {
+      "canonical_guess": "En la cripta",
+      "from_video": "SwEqFdvBI9M",
+      "entity": {
+        "surface_form": "En la cripta",
+        "canonical_name": "En la cripta (Lovecraft, 1925)",
+        "page_id": "en-la-cripta-lovecraft",
+        "page_type": "entity_work",
+        "domain_primary": "arts.literature",
+        "decision": "promote_new",
+        "decision_reason": "Cuento leído íntegro en directo (25:49–51:39, ~26 min de lectura) — caso explícito de scope.md §2.3 NUEVO v0.3. La lectura íntegra cumple criterio de 'análisis dedicado' aunque el vídeo no sea monográfico del cuento. Lovecraft está en canonical_whitelist auto_promote.",
+        "read_in_session": true,
+        "quote_evidence": "George Birch, director de funeraria insensible y negligente, queda encerrado en una cripta",
+        "promote_new_payload": {
+          "frontmatter": {
+            "page_id": "en-la-cripta-lovecraft",
+            "page_type": "entity_work",
+            "canonical_name": "En la cripta (Lovecraft, 1925)",
+            "aliases": [
+              "En la cripta",
+              "In the Vault",
+              "In the Vault (Lovecraft)"
+            ],
+            "domain_primary": "arts.literature",
+            "primary_domains": [
+              "arts.literature",
+              "arts.literature.horror"
+            ],
+            "read_in_session": true,
+            "relations": [
+              {
+                "type": "developed_by",
+                "to": "lovecraft-howard",
+                "weight": "canonical",
+                "note": "cuento temprano de Lovecraft (1925) leído íntegramente en el directo Otoño de cuentos. Lovecraft"
+              },
+              {
+                "type": "exemplifies",
+                "to": "mitologia-propia-impropia",
+                "weight": "tangential",
+                "note": "pieza menor del lore lovecraftiano sin Cthulhu ni Necronomicón — venganza karmática gótica clásica, no horror cósmico"
+              },
+              {
+                "type": "see_also",
+                "to": "shadow-archetype",
+                "weight": "tangential",
+                "note": "la negligencia profesional de Birch retorna materializada como herida en su propio cuerpo — la sombra del oficio mal hecho"
+              }
+            ],
+            "sources_count": 1,
+            "schema_version": "1.0.0",
+            "review_status": "stub_in_session",
+            "status": "stub_in_session"
+          },
+          "body": "# En la cripta (Lovecraft, 1925)\n\n## Sinopsis\n\nGeorge Birch, director de funeraria insensible y negligente, construía ataúdes endebles y confundía cadáveres por desidia y tacañería. Atrapado en una cripta del cementerio durante un invierno cerrado, debe escapar por una rendija sobre la puerta escalando los nueve ataúdes que él mismo había acumulado. Al pisar uno de los ataúdes, algo le atrapa los tobillos.\n\n## El giro: venganza post mortem de Asaf Sawyer\n\nEl doctor Davis reconoce por la dentadura del cadáver que el ataúd no era el de Matt Fenner sino el de Asaf Sawyer, hombre conocido por su carácter vengativo. Birch había cortado los tobillos de Sawyer post mortem para que cupiera en un ataúd demasiado pequeño. Davis interpreta la herida como justicia talional ejecutada después de la muerte: \"ojo por ojo\". Birch queda cojo de por vida y con trauma psicológico permanente.\n\n> \"Birch había cortado los tobillos del cadáver de Sawyer para que cupiera en un ataúd demasiado pequeño\"\n→ [Otoño de cuentos. Lovecraft, 46:02](https://youtu.be/SwEqFdvBI9M?t=2762)\n\n## Lectura del canal\n\nEl canal sitúa \"En la cripta\" entre los **cuentos peor escritos** de [[lovecraft-howard|Lovecraft]], valioso no por sí mismo sino como referencia comparativa para apreciar la evolución estilística del autor cuando se leen las obras completas en orden.\n\n> \"En la cripta es de los cuentos peor escritos de Lovecraft. Lo valioso de leer las obras completas es comprobar la evolución del autor\"\n→ [Otoño de cuentos. Lovecraft, 51:39](https://youtu.be/SwEqFdvBI9M?t=3099)\n\nA diferencia de los cuentos del ciclo de Cthulhu, aquí no hay panteón ni Necronomicón ni indiferencia cósmica: la pieza opera con la maquinaria del horror gótico clásico — castigo karmático directo, justicia talional ejecutada por el muerto sobre quien lo profanó. Pertenece a la fase temprana en la que Lovecraft aún no había articulado el horror cósmico como inversión arquetípica.\n\n## Lagunas\n\n- El canal no desarrolla análisis arquetípico sostenido del cuento — la lectura íntegra funciona como input al corpus pero la interpretación es marginal frente a otros relatos lovecraftianos\n- Sin tematizar la dimensión moral del cuento (Birch como tacaño y negligente profesional) en términos del marco psicológico del canal\n\n## Citations\n\n- video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft (lectura íntegra desde 25:49 hasta 51:39)\n",
+          "citations": [
+            "youtube:SwEqFdvBI9M#1549",
+            "youtube:SwEqFdvBI9M#2762",
+            "youtube:SwEqFdvBI9M#3099"
+          ]
+        },
+        "framing_marks": []
+      }
+    },
+    {
+      "canonical_guess": "El descendiente",
+      "from_video": "SwEqFdvBI9M",
+      "entity": {
+        "surface_form": "El descendiente",
+        "canonical_name": "El descendiente (Lovecraft, c. 1926)",
+        "page_id": "el-descendiente-lovecraft",
+        "page_type": "entity_work",
+        "domain_primary": "arts.literature",
+        "decision": "promote_new",
+        "decision_reason": "Cuento leído íntegro en directo (52:44–~1:06:00, ~13 min). Caso explícito mencionado en scope.md §2.3 NUEVO v0.3 como ejemplo canónico de cuento que merece entity_work al ser leído íntegro.",
+        "read_in_session": true,
+        "quote_evidence": "Northam buscó toda su vida una puerta a dimensiones exteriores, agotando religión, ocultismo y satanismo",
+        "promote_new_payload": {
+          "frontmatter": {
+            "page_id": "el-descendiente-lovecraft",
+            "page_type": "entity_work",
+            "canonical_name": "El descendiente (Lovecraft, c. 1926)",
+            "aliases": [
+              "El descendiente",
+              "The Descendant"
+            ],
+            "domain_primary": "arts.literature",
+            "primary_domains": [
+              "arts.literature",
+              "arts.literature.horror"
+            ],
+            "read_in_session": true,
+            "relations": [
+              {
+                "type": "developed_by",
+                "to": "lovecraft-howard",
+                "weight": "canonical",
+                "note": "cuento de Lovecraft leído íntegramente en directo del canal — pieza articulada en torno al Necronomicón como llave de búsqueda"
+              },
+              {
+                "type": "exemplifies",
+                "to": "mitologia-propia-impropia",
+                "weight": "strong",
+                "note": "el Necronomicón aparece aquí como dispositivo central del mito propio lovecraftiano: libro inventado al que apunta toda la búsqueda interna del relato"
+              },
+              {
+                "type": "references",
+                "to": "collective-unconscious",
+                "weight": "tangential",
+                "note": "el linaje hasta el tribuno romano Gabinio y la gruta de la tierra hundida materializan la herencia ancestral como acceso a estructuras transhumanas"
+              }
+            ],
+            "sources_count": 1,
+            "schema_version": "1.0.0",
+            "review_status": "stub_in_session",
+            "status": "stub_in_session"
+          },
+          "body": "# El descendiente (Lovecraft, c. 1926)\n\n## Sinopsis\n\nUn hombre en Londres vive aterrorizado, rechaza todo pensamiento profundo y huye sistemáticamente de la realidad. Es Lord Northam, erudito de linaje ancestral cuya genealogía rastrea hasta un tribuno romano. Su antepasado Gabinio accedió en su día a una gruta donde gentes de una tierra hundida ejecutaban ritos. Northam buscó toda su vida una puerta a dimensiones exteriores, agotando sucesivamente la religión, el ocultismo y el satanismo.\n\n## El Necronomicón como articulador del lore\n\nEl canal lee este cuento como una de las piezas nucleares donde el Necronomicón funciona no como ornamento sino como eje articulador del horror lovecraftiano.\n\n> \"El Necronomicón es el libro que articula el centro de los relatos de terror de Lovecraft. Los relatos con más lore común son el Necronomicón, La llamada de Cthulhu y En las montañas de la locura\"\n→ [Otoño de cuentos. Lovecraft, 1:05:01](https://youtu.be/SwEqFdvBI9M?t=3901)\n\n\"El descendiente\" es el cuento que materializa esa función dramáticamente: Northam agota las tradiciones reales (religión, ocultismo, satanismo) hasta llegar al libro inventado por [[lovecraft-howard|Lovecraft]], que opera como destino último de la búsqueda. La estructura del relato ordena las tradiciones de la más institucional a la más subterránea para terminar en un dispositivo ficcional que las suplanta.\n\n## Conexión con la mitología propia\n\nEl cuento es ejemplo de [[mitologia-propia-impropia|mitología propia]] en sentido estricto: el Necronomicón no es referencia externa sino centro construido por el propio autor al que apunta toda la búsqueda interna del relato. La búsqueda no termina en una verdad heredada sino en un dispositivo ficcional que el autor sabe que es ficcional — y aún así funciona como llave del horror.\n\nEl miedo de Northam a pensar profundamente — \"rechaza todo pensamiento profundo y huye de la realidad\" — invierte la genealogía clásica del erudito: cuanto más sabe, más debe protegerse de seguir sabiendo. La técnica encaja con la fase madura de Lovecraft: el horror no se explica, se evita.\n\n## Lagunas\n\n- El canal lee el cuento dentro del directo monotemático sobre Lovecraft, sin sesión dedicada de exégesis\n- Sin desarrollar la geografía mítica de la \"tierra hundida\" ni el vector ancestral romano-mediterráneo del linaje\n- La página del Necronomicón como dispositivo cross-cuentos aún no existe en este wiki\n\n## Citations\n\n- video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft (lectura íntegra desde 52:44)\n",
+          "citations": [
+            "youtube:SwEqFdvBI9M#3164",
+            "youtube:SwEqFdvBI9M#3901"
+          ]
+        },
+        "framing_marks": []
+      }
+    },
+    {
+      "canonical_guess": "Aire frío",
+      "from_video": "SwEqFdvBI9M",
+      "entity": {
+        "surface_form": "Aire frío",
+        "canonical_name": "Aire frío (Lovecraft, 1928)",
+        "page_id": "aire-frio-lovecraft",
+        "page_type": "entity_work",
+        "domain_primary": "arts.literature",
+        "decision": "promote_new",
+        "decision_reason": "Cuento leído íntegro en directo (1:06:01–~1:37:00, ~31 min). Caso explícito mencionado en scope.md §2.3 NUEVO v0.3.",
+        "read_in_session": true,
+        "quote_evidence": "Muñoz afirma que la voluntad y la conciencia son más fuertes que la vida orgánica",
+        "promote_new_payload": {
+          "frontmatter": {
+            "page_id": "aire-frio-lovecraft",
+            "page_type": "entity_work",
+            "canonical_name": "Aire frío (Lovecraft, 1928)",
+            "aliases": [
+              "Aire frío",
+              "Cool Air"
+            ],
+            "domain_primary": "arts.literature",
+            "primary_domains": [
+              "arts.literature",
+              "arts.literature.horror"
+            ],
+            "read_in_session": true,
+            "relations": [
+              {
+                "type": "developed_by",
+                "to": "lovecraft-howard",
+                "weight": "canonical",
+                "note": "cuento de Lovecraft (1928) leído íntegramente en el directo Otoño de cuentos. Lovecraft"
+              },
+              {
+                "type": "exemplifies",
+                "to": "mitologia-propia-impropia",
+                "weight": "tangential",
+                "note": "caso lovecraftiano de horror oculto en lo cotidiano: el médico vecino que sostiene la vida con tecnología refrigeradora y voluntad"
+              },
+              {
+                "type": "see_also",
+                "to": "shadow-archetype",
+                "weight": "tangential",
+                "note": "el deterioro físico progresivo del Dr. Muñoz materializa lo cadavérico contenido bajo la apariencia social — caso de lo monstruoso-cotidiano"
+              }
+            ],
+            "sources_count": 1,
+            "schema_version": "1.0.0",
+            "review_status": "stub_in_session",
+            "status": "stub_in_session"
+          },
+          "body": "# Aire frío (Lovecraft, 1928)\n\n## Sinopsis\n\nEl narrador descubre al doctor Muñoz, médico español brillante refugiado en Nueva York, que vive en frío constante. Muñoz afirma que la voluntad y la conciencia son más fuertes que la vida orgánica. Su afición a especias exóticas e incienso egipcio satura la habitación con un olor sepulcral. La necesidad de frío se incrementa progresivamente: de 12°C hasta 2°C bajo cero. Su aspecto provoca una crisis de epilepsia en un reparador que había sobrevivido a la Gran Guerra. Muñoz escribe documentos destinados a médicos de las Indias Orientales y a un célebre médico francés dado por muerto.\n\n## El giro: dieciocho años técnicamente muerto\n\nAl romperse la máquina refrigeradora, el cuerpo colapsa y deja una nota confesando que llevaba dieciocho años técnicamente muerto, conservado por frío y voluntad. La voluntad humana sostuvo el organismo más allá de su muerte biológica.\n\n> \"Se revela que Muñoz llevaba 18 años técnicamente muerto, conservado por frío y voluntad\"\n→ [Otoño de cuentos. Lovecraft, 1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)\n\n## Lectura del canal\n\n\"Aire frío\" pertenece, en la lectura del canal, al modo lovecraftiano del **horror oculto en lo cotidiano**: no hay panteón cósmico ni Necronomicón, sino un vecino del piso de arriba cuyo aire frío resulta ser supervivencia técnica de un cuerpo cadavérico. La afirmación del Dr. Muñoz —que la voluntad y la conciencia son más fuertes que la vida orgánica— es la inversión silenciosa del orden natural: la mente que se obstina en seguir actuando después del fracaso del cuerpo.\n\nEl cuento dialoga con la fase madura del horror lovecraftiano donde el terror no requiere monstruosidad explícita: bastan los detalles cotidianos (incienso egipcio, especias, refrigeración, olor a sepulcro) para componer una atmósfera donde lo monstruoso ya está presente sin que el lector lo nombre. Es ejemplo de la técnica de la **narrativa incompleta** que [[lovecraft-howard|la página del autor]] articula como núcleo del oficio: lo importante no es lo que se cuenta sino lo que se omite hasta el último párrafo.\n\nLa progresión termométrica — de 12°C descendiendo a 2°C bajo cero — funciona como reloj de cuenta atrás del cuerpo: cada bajada exige más voluntad para mantener la coherencia orgánica. La crisis epiléptica del reparador —veterano que había sobrevivido a la Gran Guerra— calibra la magnitud de lo que el narrador no ve: un cuerpo cuya sola visión rompe a quien resistió las trincheras.\n\n## Lagunas\n\n- El canal no desarrolla análisis sostenido del cuento — la lectura íntegra funciona como input al corpus\n- Sin tematizar la afirmación de Muñoz sobre voluntad/vida orgánica desde el marco neuropsicológico que el canal mantiene en otros vídeos sobre cognición\n- El paralelo del cuento con tradiciones reales de animación post-mortem o criogenia ritual queda sin explorar\n\n## Citations\n\n- video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft (lectura íntegra desde 1:06:01)\n",
+          "citations": [
+            "youtube:SwEqFdvBI9M#3961",
+            "youtube:SwEqFdvBI9M#4752"
+          ]
+        },
+        "framing_marks": []
+      }
+    },
+    {
+      "canonical_guess": "El modelo de Pickman",
+      "from_video": "SwEqFdvBI9M",
+      "entity": {
+        "surface_form": "El modelo de Pickman",
+        "canonical_name": "El modelo de Pickman (Lovecraft, 1927)",
+        "page_id": "el-modelo-de-pickman-lovecraft",
+        "page_type": "entity_work",
+        "domain_primary": "arts.literature",
+        "decision": "promote_new",
+        "decision_reason": "Cuento leído íntegro en directo (1:37:44–~2:14:00, ~37 min — el más largo del directo). Caso explícito mencionado en scope.md §2.3 NUEVO v0.3.",
+        "read_in_session": true,
+        "quote_evidence": "Pickman distingue entre el arte fantástico superficial y el que capta la anatomía real del terror",
+        "promote_new_payload": {
+          "frontmatter": {
+            "page_id": "el-modelo-de-pickman-lovecraft",
+            "page_type": "entity_work",
+            "canonical_name": "El modelo de Pickman (Lovecraft, 1927)",
+            "aliases": [
+              "El modelo de Pickman",
+              "Pickman's Model"
+            ],
+            "domain_primary": "arts.literature",
+            "primary_domains": [
+              "arts.literature",
+              "arts.literature.horror"
+            ],
+            "read_in_session": true,
+            "relations": [
+              {
+                "type": "developed_by",
+                "to": "lovecraft-howard",
+                "weight": "canonical",
+                "note": "cuento de Lovecraft (1927) leído íntegramente en el directo Otoño de cuentos. Lovecraft"
+              },
+              {
+                "type": "exemplifies",
+                "to": "mitologia-propia-impropia",
+                "weight": "strong",
+                "note": "caso paradigmático del realismo del horror lovecraftiano: el arte que captura la anatomía real del terror, no estiliza ni distorsiona — Lovecraft inventa los gules sabiéndose autor del mito"
+              },
+              {
+                "type": "see_also",
+                "to": "shadow-archetype",
+                "weight": "tangential",
+                "note": "los gules del North End como sombra material de Boston bajo su superficie civilizada — túneles, criptas y memoria de brujería"
+              }
+            ],
+            "sources_count": 1,
+            "schema_version": "1.0.0",
+            "review_status": "stub_in_session",
+            "status": "stub_in_session"
+          },
+          "body": "# El modelo de Pickman (Lovecraft, 1927)\n\n## Sinopsis\n\nRichard Upton Pickman, considerado el mayor pintor de Boston, es expulsado sucesivamente de los clubes artísticos por su arte morboso. Pickman distingue entre el arte fantástico superficial y el que capta la anatomía real del terror, y compara su linaje con las brujas de Salem: su antepasada fue ahorcada en 1692. Pickman teoriza que el North End de Boston conserva túneles, criptas y memorias de brujería auténtica, y mantiene un estudio secreto en un sótano de esa zona.\n\n## El estudio secreto\n\nEn el sótano del North End, Pickman pinta criaturas caninas que se alimentan de humanos —los gules— y establece un nexo evolutivo entre ellas y los humanos: los changelings, niños humanos sustituidos al nacer, crecen entre gules. Un cuadro muestra a las bestias leyendo una guía de Boston señalando los cementerios de Holmes, Lowell y Longfellow. El arte de Pickman es realismo puro: no estiliza ni distorsiona, reproduce con objetividad científica.\n\n> \"El arte de Pickman es realismo puro: no estiliza ni distorsiona, reproduce con objetividad científica\"\n→ [Otoño de cuentos. Lovecraft, 1:54:11](https://youtu.be/SwEqFdvBI9M?t=6851)\n\n## El giro: la cámara y el modelo real\n\nPickman usa una cámara fotográfica supuestamente para fondos de escenarios. Ruidos en el pozo del sótano —supuestas \"ratas\"— provocan que dispare su revólver. El narrador se lleva un papel arrugado del estudio, que resulta ser no la fotografía de un escenario sino del modelo: la criatura era real. Pickman desaparece, regresando a la oscuridad que frecuentaba.\n\n> \"El papel arrugado que el narrador se lleva resulta no ser foto de un escenario sino del modelo: la criatura era real\"\n→ [Otoño de cuentos. Lovecraft, 2:06:17](https://youtu.be/SwEqFdvBI9M?t=7577)\n\n## Lectura del canal\n\nEl cuento articula una de las tesis lovecraftianas que el canal subraya en otros vídeos: el horror no se inventa, se descubre. La distinción que Pickman establece entre arte fantástico decorativo y arte que capta la anatomía real del terror es una declaración de poética: el horror cósmico no es estilización, es reportaje desde lo que la civilización urbana esconde bajo sus calles. La pertenencia de Pickman al linaje de las brujas de Salem ahorcadas en 1692 ancla la herencia: lo monstruoso no es ajeno a Boston, está enterrado en su geografía.\n\nEl North End de Boston, con sus túneles, criptas y memoria de brujería, es la materialización geográfica de la [[shadow-archetype|sombra]] civilizatoria: lo que la ciudad reprimió al definirse como ilustrada sigue debajo, accesible solo por sótanos. El nexo evolutivo entre gules y humanos —los changelings que crecen entre gules— sugiere una continuidad de especie inquietante donde los humanos no están separados taxonómicamente de lo monstruoso.\n\nEl cuento es ejemplo nuclear de [[mitologia-propia-impropia|mitología propia]]: [[lovecraft-howard|Lovecraft]] inventa los gules y su geografía bostoniana sabiendo que la inventa, y la potencia simbólica del relato no disminuye por ello. La fotografía final, dispositivo realista, sirve para reforzar la ilusión de que lo construido por el autor es lo que hay debajo de la realidad cotidiana — el mito propio funciona porque el autor maneja el dispositivo realista (cámara, fotografía, cuadros señalando cementerios reales) como prótesis de credibilidad para lo inventado.\n\n## Lagunas\n\n- El canal no articula análisis arquetípico sostenido del cuento más allá de la lectura íntegra\n- Sin tematizar la genealogía de los gules en el lore lovecraftiano cross-cuentos (aparecen también en otros relatos)\n- El paralelo entre el realismo pictórico de Pickman y la técnica narrativa de Lovecraft (descripción objetiva de lo monstruoso) queda sin desarrollar\n\n## Citations\n\n- video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft (lectura íntegra desde 1:37:44 hasta 2:14:51)\n",
+          "citations": [
+            "youtube:SwEqFdvBI9M#5864",
+            "youtube:SwEqFdvBI9M#6851",
+            "youtube:SwEqFdvBI9M#7577"
+          ]
+        },
+        "framing_marks": []
+      }
+    }
+  ]
+}

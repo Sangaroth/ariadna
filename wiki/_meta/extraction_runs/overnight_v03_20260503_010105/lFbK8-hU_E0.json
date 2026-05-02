@@ -1,0 +1,220 @@
+{
+  "video_id": "lFbK8-hU_E0",
+  "video_title": "Póker de Señoros",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "insumisión fiscal (como tradición intelectual y práctica)",
+      "canonical_guess": "insumision-fiscal",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 80,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El insumiso fiscal no es un evasor: es un contribuyente que redirige recursos a proyectos autogestionados como bancos de alimentos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El punto de convergencia ideológica es el anarquismo: la conciencia de que la cesión de poder al Estado como representante es un mito,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza central de un panel de invitados (Miguel, Benja, En Campo, citas a Yago Álvarez) — NO es articulación propia del speaker Proxy sino exposición de marco ajeno aunque editorialmente compatible. Por scope §2.4.1 el author_thesis exige articulación original del canal; aquí el canal funciona como anfitrión de la conversación libertaria/anarcocapitalista. Por scope §3.1 test 3 (crítica de tradición intelectual) el material es IN-scope, pero no encaja con páginas existentes (consumismo-critica es lectura cultural-psicológica desde sustrato moral-tradicional, NO anarcocapitalista; diagrama-de-proxy es marco cognitivo-moral propio del canal, no economía política). Una página propia sería curatorial (§2.4.2: 'NO se proponen automáticamente por el extractor'). FLAG para revisión humana: la serie 'Póker de Señoros' parece recurrente y representa una vertiente editorial del canal (intersección libertarismo-anarcocapitalismo-agorismo) que merecería synthesis curatorial cuando se procesen ≥3 episodios y un editor humano teja la lectura cross-source.",
+      "quote_evidence": "El insumiso fiscal no es un evasor: es un contribuyente que redirige recursos a proyectos autogestionados como bancos de alimentos,"
+    },
+    {
+      "surface_form": "agorismo / Samuel Konkin / contra-economía / cuatro tipos de mercado (negro/blanco/rojo/rosa)",
+      "canonical_guess": "agorismo-konkin",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Samuel Konkin formuló el agorismo como vía de resistencia al Estado a través de mercados negros (contra-economía),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Konkin y el agorismo introducidos por Miguel como tradición intelectual de referencia. Taxonomía de cuatro mercados (negro/blanco/rojo/rosa) es articulada pero ~5 min sin tratamiento sustantivo de la obra de Konkin. Konkin no está en canonical_whitelist; agorismo no está en wiki. Mención breve de marco ajeno expuesto por invitado, no por el canal. Si en futuros vídeos del canal Konkin/agorismo se invoca como referencia recurrente o se desarrolla el catálogo de mercados con análisis arquetípico (improbable: es categoría económico-política), revisitar.",
+      "quote_evidence": "Se distinguen cuatro tipos de mercado: negro (a espaldas del Estado), blanco (regulado), rojo (lesivo: trata, esclavitud) y rosa (inmoral pero permitido por el Estado, como guerras por petróleo),",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza taxonómica articulada (cuatro mercados) que podría ser cross-temática si recurre. Vigilar."
+    },
+    {
+      "surface_form": "Hayek (mención en cierre)",
+      "canonical_guess": "hayek-friedrich",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "passing",
+      "minutes_estimate": 0.2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "hosteleros hartos de la factura de la luz saben que está mal sin haber leído a Hayek,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Hayek mencionado como autoridad bibliográfica en el cierre, sin desarrollo de su pensamiento. Tratamiento como assumed_prior (el speaker espera que el oyente sepa quién es). Mención ≤10 segundos sin substantive_treatment ni framing-mark sostenido. NO está en canonical_whitelist actual; sería candidato razonable si recurre articulado en otros vídeos como referencia económica del canal. Flag canonical_external_candidate: true para revisión humana de adición a whitelist (escuela austriaca como genealogía libertaria-arquetípicamente coherente con el registro Póker de Señoros).",
+      "quote_evidence": "hosteleros hartos de la factura de la luz saben que está mal sin haber leído a Hayek,",
+      "review_priority": "medium",
+      "review_priority_reason": "Hayek es figura load-bearing de la tradición libertaria — si el canal lo invoca recurrentemente como marco aplicado, candidato a whitelist y a página propia."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Yago Álvarez / El Común",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cita atribuida a un economista contemporáneo no-canal usado para abrir el debate sobre insumisión. No es figura del canon editorial del canal, no genealogía recurrente. Capturada en la cita inicial pero sin desarrollo biográfico ni teórico.",
+      "quote_evidence": "La cita proviene del economista Yago Álvarez (El Común), no de un político de izquierdas como podría parecer por su tono libertario,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "modelo de Cournot (economía / generalización por Benja)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Modelo económico estándar utilizado por el invitado Benja para argumentar que las grandes empresas se benefician de impuestos y regulaciones que bloquean competidores. Uso técnico-instrumental, no exposición sustantiva del modelo Cournot ni de la teoría de oligopolio. Página académica fuera del registro arquetípico-cultural del wiki.",
+      "quote_evidence": "Benja demuestra con modelos económicos (generalización del modelo de Cournot) cómo las grandes empresas ganan cuota de mercado gracias a impuestos y regulaciones que bloquean a competidores,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Djokovic (tratamiento como terrorista por irracionalidad estatal)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso individual contemporáneo usado como ilustración puntual de irracionalidad de criterios estatales. Una sola línea ilustrativa, sin análisis del personaje ni del fenómeno deportivo-pandémico.",
+      "quote_evidence": "El caso Djokovic ilustra cómo un Estado aplica criterios irracionales tratando como terrorista a alguien sano,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Amancio Ortega (estigmatización del millonario que no paga 'lo justo')",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso individual contemporáneo español usado como caso paradigmático del estigma social al insumiso. Ilustración puntual, sin biografía ni análisis arquetípico del personaje.",
+      "quote_evidence": "Quien no se somete a la \"solidaridad\" (redistribución estatal) es estigmatizado como egoísta, caso paradigmático de Amancio Ortega,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Venezuela / Kazajstán / Líbano / India / Sudáfrica / Cataluña (casos históricos de insumisión)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Catálogo de precedentes históricos invocado como argumento empírico de viabilidad de la insumisión. Cada caso aparece en una línea ilustrativa, sin análisis sustantivo. Algunos son contemporáneos (Kazajstán 2022, Venezuela hiperinflación) y otros históricos (independencia EE.UU., Gandhi, Mandela). Se mantienen como referencias coyunturales no-arquetípicas. Cataluña como referencia política contemporánea queda fuera del scope §3.3.",
+      "quote_evidence": "EE.UU. se independizó precisamente por una subida de impuestos, ejerciendo el derecho a la secesión,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Andorra (mejores hospitales y servicios que España)",
+      "reason_code": "political_news",
+      "reason_detail": "Comparación coyuntural fiscal-económica España/Andorra usada como argumento empírico. Out-of-scope §3.3: fiscalidad coyuntural concreta sin marco teórico arquetípico aplicado.",
+      "quote_evidence": "Ver que Andorra tiene mejores hospitales y servicios que España acaba haciendo mella incluso en los más escépticos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "ley de animales como seres sintientes (custodia compartida de mascotas)",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre legislación contemporánea española concreta. Sin marco arquetípico aplicado, sin elevación a estructura. Out-of-scope §3.3.",
+      "quote_evidence": "La nueva ley sobre animales como seres sintientes abre la puerta a figuras absurdas: custodia compartida, pensión alimenticia para mascotas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "impuesto de sucesiones (aberración jurídica)",
+      "reason_code": "political_news",
+      "reason_detail": "Crítica fiscal coyuntural concreta. Aunque tiene argumento estructural (triple imposición, contradicción con derecho a propiedad), el tratamiento es como caso fiscal específico, no como pieza arquetípica. Out-of-scope §3.3 ('si hay crítica estructural va a consumismo-critica' — pero consumismo-critica es lectura cultural-moral, no fiscal-libertaria).",
+      "quote_evidence": "El impuesto de sucesiones contradice el derecho a la propiedad privada: el Estado secuestra tu propiedad y exige un rescate para recuperarla,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "criptomonedas / Bitcoin / blockchain / stablecoin / oro como reserva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Discusión técnica-económica sobre alternativas monetarias al sistema fiat (~25 min cumulativos del video). Tema técnico-financiero sin contenido arquetípico, mitológico ni psicológico. Out-of-scope del registro principal del wiki (humanities.religion / social.psychology / arts). Si en futuros vídeos el canal lee Bitcoin/blockchain como mito moderno (mitología propia/impropia, autotipo, etc.), revisitar.",
+      "quote_evidence": "En Campo ve viable la extensión de criptomonedas como moda pero no como medio seguro: la volatilidad de hasta 20% diario impide su uso cotidiano,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Lehman Brothers (analogía con emisión de deuda pública)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Analogía financiera puntual entre emisión de deuda pública y especulación de Lehman Brothers. Sin desarrollo del caso financiero histórico ni del marco macroeconómico. Una línea ilustrativa.",
+      "quote_evidence": "Es prácticamente idéntico a lo que hizo Lehman Brothers con valores sobre valores inflados,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Twitter como oligopolio mutualista con Estados",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención de plataforma tecnológica como ejemplo del binomio empresa-Estado. Sin análisis de la red social ni del fenómeno digital. Caso ilustrativo único.",
+      "quote_evidence": "Las redes sociales (Twitter) son ejemplo clarísimo de oligopolio que se beneficia de su relación mutualista con los Estados,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "La Sexta (medios como lobby)",
+      "reason_code": "political_news",
+      "reason_detail": "Mención de medio español específico como ejemplo de relación gobierno-medios. Caso coyuntural-político partidista (La Sexta tiene línea editorial identificable). Fuera de scope §3.3.",
+      "quote_evidence": "No hay diferencia entre los fondos desviados a La Sexta y los rescates bancarios: ambos son igualmente ilegítimos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Miguel / Benja / En Campo (invitados del panel)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Invitados del panel cuyas posiciones articulan el marco anarcocapitalista-libertario expuesto. No son figuras del canon editorial del canal con tratamiento autónomo (no son objeto de exposición biográfica), son interlocutores recurrentes en la serie 'Póker de Señoros'. Si una synthesis curatorial sobre la serie se compila, sus posiciones quedarían acreditadas allí. Páginas autor independientes no son apropiadas: son co-presentadores invitados, no autores que el canal exponga sustantivamente.",
+      "quote_evidence": "Miguel defiende que no es la única vía pero sí una muy factible, especialmente mediante un cierre patronal de autónomos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "contrato social (Hobbes/Rousseau como adoctrinamiento)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Crítica al contrato social como mito adoctrinador. Pieza filosófica nombrada sin desarrollo de los autores (Hobbes, Rousseau, Locke) ni del concepto académico. Captura instrumental dentro del argumento anarquista. Si recurre articulada como crítica filosófica sustantiva en otros vídeos, podría merecer página propia o enriquecer una synthesis político-filosófica.",
+      "quote_evidence": "El ser humano ha sido aleccionado con la idea del contrato social y el bien común definido por el político de turno,",
+      "review_priority": "medium",
+      "review_priority_reason": "Crítica al contrato social tiene tradición filosófica densa (anarquismo clásico, libertarismo). Si recurre articulada, página propia plausible."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "2:03:16",
+      "block_title": "🌅 Alegatos finales: optimismo ante el despertar ciudadano",
+      "matched_pattern": "(?i)\\b(impuestos hosteleros|factura de la luz|fiscalidad coyuntural)\\b",
+      "matched_phrase": "factura de la luz",
+      "filter_reason": "ya cubierto en consumismo-critica como caso ilustrativo; no merece página propia",
+      "filter_added_at": "2026-04-29",
+      "extractor_note": "Match literal en el bullet 'hosteleros hartos de la factura de la luz saben que está mal sin haber leído a Hayek'. El bloque es mixto: contiene la mención coyuntural (matchea filter) pero también la tesis 'no apelar al academicismo, ponerle nombre a lo que la gente ya señala' y la referencia a Hayek. Se filtra por respeto literal al patrón; el material no-coyuntural del bloque (Hayek, despertar ciudadano) queda capturado vía la entity 'Hayek' arriba. Si el filtro se considera demasiado agresivo aquí, refinar regex para distinguir mención incidental vs bloque dedicado a fiscalidad coyuntural."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

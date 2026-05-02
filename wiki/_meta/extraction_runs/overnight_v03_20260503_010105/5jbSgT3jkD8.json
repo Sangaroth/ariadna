@@ -1,0 +1,91 @@
+{
+  "video_id": "5jbSgT3jkD8",
+  "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "cristalización colectiva ('tan de cristal como los progres' en la batalla cultural)",
+      "canonical_guess": "cristalizacion-colectiva",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 0.5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Que la gente se molestara por reírse de estereotipos a partir de una cuenta sarcástica indica que en la batalla cultural todos estamos volviéndonos tan de cristal como los \"progres\","
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Observación canal-específica de ~30 segundos en un vídeo meta-canal reactivo a una polémica del propio canal. La idea de que el lado contrario de la batalla cultural también desarrolla 'piel de cristal' es interesante pero apenas enunciada como aside. Insuficiente para promover. Vigilar si recurre articulada en otros vídeos como diagnóstico cultural sostenido (la 'cristalización' como mecanismo simétrico de la cancelación), candidato entonces a página propia o pieza dentro de pecado-original-y-posmodernidad.",
+      "quote_evidence": "Pide dejar de lado la batalla de los egos para centrarse en la batalla cultural,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "polémica sobre directo previo 'las mujeres españolas son...'",
+      "reason_code": "meta_canal",
+      "reason_detail": "Vídeo íntegramente reactivo a una controversia del propio canal: explicación-disculpa por comentarios hechos en un directo previo sobre estereotipos de mujeres españolas. Comentario sobre el flujo del canal y su recepción en redes, sin contenido arquetípico-mitológico-psicológico. Out-of-scope §3.3 meta_canal.",
+      "quote_evidence": "Se recibieron protestas por un directo en el que se comentaron mensajes de seguidores de Yonkey Kong sobre cómo eran las mujeres españolas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Yonkey Kong (cuenta de Twitter sarcástica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cuenta de redes sociales contemporánea contextualizada brevemente como sarcástica y promotora de 'incelfobia' y crítica a la manosfera. No es figura del canon editorial del wiki, no genealogía recurrente, sin desarrollo arquetípico. Mención contextual.",
+      "quote_evidence": "La cuenta de Yonkey Kong es sarcástica: recoge partes estereotípicas de la realidad, las reduce y se ríe de ellas desde dentro,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "simetría 'niñatas' / 'machitos' como estereotipos coloquiales de género",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Comentario coloquial-conversacional sobre estereotipos coloquiales de quejas masculino-femenino. Registro casual sin marco arquetípico aplicado. Out-of-scope §3.3 (anécdota / charla informal).",
+      "quote_evidence": "Los hombres hacemos gilipolleces y las chavalas hacéis niñaterías: son estereotipos, una pequeña parte de la realidad a la que no nos podemos reducir,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "incelfobia / manosfera (categorías mencionadas)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Términos contemporáneos de la cultura digital de género nombrados de paso al describir el registro sarcástico de Yonkey Kong. Sin análisis sustantivo de los conceptos.",
+      "quote_evidence": "Esa misma cuenta es una de las mayores promotoras de conceptos como \"incelfobia\" y crítica a la manosfera, desde el sarcasmo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "pacto de paz en la batalla de los sexos (propuesta-cierre del vídeo)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Propuesta personal-editorial del speaker como cierre conciliador del vídeo de explicación. Aside posicional, no articulación de tesis sostenida sobre la batalla de los sexos. Out-of-scope §3.3.",
+      "quote_evidence": "Propone que habría que revisar si es necesario hacer pactos de paz, al menos en la batalla de los sexos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 5,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_assessment_note": "Vídeo íntegramente meta-canal: explicación-disculpa reactiva a una polémica del propio canal por comentarios sobre estereotipos de mujeres españolas hechos en un directo previo (no procesable como contenido arquetípico). 3 min totales, sin contenido mítico-psicológico-filosófico extraíble. Una sola observación tangencial salvable ('cristalización colectiva como simetría con los progres') capturada como entity discarded con review_priority low por escasez de articulación. Sin pending_updates, thesis_candidates ni filtros: el vídeo no matchea topic_filters literalmente y no aporta material para páginas existentes."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video_id": "7y2KblXreew",
+  "video_title": "Este es el camino",
+  "playlist": "_sin_playlist",
+  "category": "psicología",
+  "entities": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "los cuatro pilares de la construcción de masculinidad",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Vídeo de 1 minuto en formato shorts/clip que enumera cuatro pilares (hobby autónomo + deporte físico + relación social constante + culturización mental) sin desarrollo teórico, sin etiología, sin marco articulado, sin ejemplos. La estructura de cuatro piezas existe pero el speaker no la presenta con marcador de tesis ('mi tesis', 'el modelo que propongo'), no la genealoga ('como ya expliqué'), no la articula con piezas internas dependientes. scope.md §2.4.1 gate de auto-promote como author_thesis exige minutes_sustained ≥ 30 (aquí 1 min) — descarte por umbral cuantitativo claro. scope.md §2.1 promote como concept tampoco se cumple: recurrencia (1 vídeo), monográfico (1 min), framing-mark explícito ausente, assumed-prior ausente, connectivity ausente, no canal-canonical. Probable extracto/píldora condensada de contenido más largo en directos sobre desarrollo del varón.",
+      "quote_evidence": "Buscar un hobby que dependa únicamente de uno mismo y mejorar en él a espaldas de todo el mundo,",
+      "review_priority": "medium",
+      "review_priority_reason": "El esquema de cuatro pilares puede aparecer desarrollado en directos largos sobre construcción del yo, masculinidad o individuación masculina. Si en futuros vídeos del corpus el canal articula la misma cuatripartición con desarrollo teórico, este shorts pasaría a ser cita corroborativa de una page promovida desde el material largo. Anotar para re-evaluación cross-batch: buscar coincidencias con directos sobre 'el varón en construcción', 'cómo ser hombre', 'desarrollo personal masculino'.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "deporte de combate o baile (recomendación)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendación práctica concreta dentro del listado — sin marco teórico aplicado sobre por qué combate/baile específicamente (¿por la coordinación cuerpo-mente? ¿por la integración de polaridades? ¿por la confrontación con la sombra del cuerpo?). El canal probablemente articula esto en otros vídeos pero aquí solo lo enumera.",
+      "quote_evidence": "Hacer deporte físico, preferiblemente combate o baile, algo que implique el cuerpo y la coordinación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 2,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}
