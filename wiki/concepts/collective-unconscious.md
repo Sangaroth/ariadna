@@ -75,6 +75,32 @@ Esta arquitectura permite refutar el relativismo lingüístico fuerte (Sapir-Who
 
 La diferencia entre culturas no es estructural sino afectiva: las representaciones son las mismas, lo que varía es la carga de importancia que la cultura asigna y que decide qué se segrega como entidad mental separada. Esto cierra el argumento contra la lectura metafísica del inconsciente colectivo: si los arquetipos son composiciones de componentes innatos modulados por afecto, no hace falta postular sustancia transpersonal alguna.
 
+## Evidencia empírica: la asociación innata sonido-forma
+
+El canal articula la vindicación experimental del marco arquetípico vía el [[efecto-buba-kiki]] reproducido en pollos de un día sin entrenamiento ni recompensa:
+
+> "Pollos de solo un día asocian la figura redondeada con el sonido 'buba' y la puntiaguda con 'kiki'. Cuando se pregunta a personas de cualquier cultura cuál es Buba y cuál es Kiki, casi todos coinciden en la misma asignación. La coincidencia es tan grande que se puede afirmar que no es aprendida; no existe ningún mecanismo conocido que explique cómo podría aprenderse esta asociación."
+→ [Cómo un Pollo demostró a Jung, 31:41](https://youtu.be/cbfhVqYDbdE?t=1901)
+
+> "Se entrenó a 42 pollos de tres días a buscar comida tras una figura mezcla de Buba y Kiki, luego se les presentaron ambas figuras por separado con el sonido correspondiente. Los pollos se acercaban a la figura correcta según el sonido, incluso sin alimento escondido. La asociación se mantuvo constante sin mostrar efectos de aprendizaje ni de extinción. Con pollos de un solo día y sin entrenamiento previo, el resultado fue el mismo."
+→ [Cómo un Pollo demostró a Jung, 36:56](https://youtu.be/cbfhVqYDbdE?t=2216)
+
+La consecuencia teórica es estructural: si sonido y forma se asocian sin mediación cultural ni de experiencia, debe existir en el organismo una representación cuyas componentes sonora y visual están vinculadas innatamente. La cadena causal que el canal propone es:
+
+> "El sonido tiene una componente arquetípica innata. La cadena causal es: sonido → afecto → imagen; la imagen, el afecto y las experiencias vinculadas existen de forma innata. Si la asociación es biológica e innata, tiene que haber homologías evolutivas entre especies."
+→ [Cómo un Pollo demostró a Jung, 1:04:47](https://youtu.be/cbfhVqYDbdE?t=3887)
+
+De aquí emerge una refundación cognitiva del arquetipo como [[clases-ancestrales]] — homologías noéticas que trascienden especies, no solo culturas:
+
+> "El término propuesto es 'clases ancestrales': homologías de clases que trascienden especies. El ADN compartido entre especies (más del 70% con una banana) sugiere que los cerebros e inconscientes colectivos se parecen lo suficiente. La similitud basta para que Kiki sea puntiagudo y Buba sea curvo tanto en humanos como en pollos."
+→ [Cómo un Pollo demostró a Jung, 1:17:33](https://youtu.be/cbfhVqYDbdE?t=4653)
+
+> "No es solo inconsciente: puede ser inconsciente y consciente a la vez. Lo decisivo es que no es aprendida ni asociativa: la asociación existía ya antes de ver el objeto por primera vez. Son clases ancestrales, no memorias."
+→ [Cómo un Pollo demostró a Jung, 1:23:56](https://youtu.be/cbfhVqYDbdE?t=5036)
+
+Esta extensión inter-específica desplaza el alcance del inconsciente colectivo: no es solo una arquitectura cognitiva universal humana, sino la región humana de un sustrato representacional cuyas raíces se remontan a homologías evolutivas compartidas con vertebrados muy distantes. Las pulsiones primarias y los componentes representacionales innatos no son herencia cultural ni siquiera herencia específicamente humana — son reciclaje de capas profundas del aparato cognitivo vertebrado.
+
+
 
 ## Contenidos: los mitos primarios
 
@@ -119,7 +145,20 @@ Esta distinción es importante para el canal porque permite diferenciar lo verda
 > "Los arquetipos son estructuras cognitivas imaginarias de representación, universales e inconscientes. Las historias tienen más éxito cuanto más fácil es identificarse con sus estructuras arquetípicas. Los guionistas estudian estructuras narrativas como el monomito de Campbell, leen mitología, y además operan desde la intuición inconsciente."
 → [Análisis La Llegada, 12:42](https://youtu.be/aPbgBnidoJI?t=762)
 
-> "Un arquetipo es una manifestación de una parte de la psique humana, un aspecto de la personalidad universal. Si la humanidad fuera un solo gólem gigante, los mitos serían su personalidad: patrones de comportamiento colectivos. Los mitos narran conflictos inherentes al ser humano en forma de cuento, tragedia o narración épica."
+> "Un arquetipo es una manifestación de una parte de la psique humana, un aspecto de la personalidad universal. Si la humanidad fuera un solo gólem gigante, los mitos serían su personalidad: patrones de comportamiento colectivos. Los mitos narran conflictos inherentes al ser humano en forma de cuento, tragedia o narración épica.
+
+## Arquetipo, prototipo, estereotipo: distinción estructural
+
+El canal articula explícitamente la distinción entre tres categorías que el uso popular confunde:
+
+> "El arquetipo es una estructura primaria anterior al prototipo: la experiencia fundamental humana. El prototipo es toda manifestación explícita de un arquetipo (en papel, historia, imagen, imaginario colectivo). El estereotipo es la confusión habitual: la gente usa 'arquetipo' para referirse a prototipos o estereotipos. Toda explicitud cultural de un arquetipo es siempre un prototipo; el arquetipo es lo que estaba antes."
+→ [Cómo un Pollo demostró a Jung, 1:07:06](https://youtu.be/cbfhVqYDbdE?t=4026)
+
+La distinción es estructural-causal, no terminológica. El arquetipo es la matriz cognitiva preexistente — lo que hay antes de cualquier figura concreta. El prototipo es su instanciación cultural: las figuras de Hércules, Jesucristo o Superman son prototipos del arquetipo del héroe, no el arquetipo mismo. El estereotipo es la cristalización social que el canal crítica como confusión categorial: tomar la representación cultural empobrecida por la estructura noética profunda. La cultura de internet — que reproduce 'estereotipos clásicos' — opera con prototipos vaciados de la profundidad afectivo-representacional del arquetipo subyacente; por eso los tabús culturales solo desplazan los prototipos sin tocar la matriz arquetípica:
+
+> "Los estereotipos nunca se han ido ni se irán; lo único que se ha logrado es implantar un tabú sobre ellos. La cultura de internet reproduce estereotipos clásicos porque son herencia no biológica irrevocable. El péndulo cultural oscila pero no destruye las categorías subyacentes."
+→ [Cómo un Pollo demostró a Jung, 26:09](https://youtu.be/cbfhVqYDbdE?t=1569)
+"
 → [Mitología 101: Perséfone, 02:32](https://youtu.be/VDOUrpcC4fU?t=152)
 
 ## Las tres capas del mito
@@ -171,6 +210,19 @@ Esto encaja con el marco teleosemántico que el canal aplica al psiquismo en gen
 
 Los contenidos del inconsciente colectivo son cognitivamente reales en el mismo sentido en que lo es la percepción de forma sobre fondo: estructuras innatas que segmentan el mundo afectivo-representacional sin requerir conciencia de su operar.
 
+El canal aporta material clínico que opera como prueba empírica de la existencia operativa del inconsciente frente a posiciones que lo niegan o lo reducen a mera conducta automática:
+
+> "Las memorias episódicas latentes (traumas reprimidos que resurgen) demuestran la existencia del inconsciente. La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente. Una conducta automática no es inconsciente si eres consciente al realizarla — confundir consciencia con percepción es un error categorial."
+→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
+
+El caso paradigmático es el de una víctima de agresión que reconstruye progresivamente lo ocurrido:
+
+> "La información traumática estaba almacenada en algún lugar inaccesible a la conciencia: el inconsciente. Las asociaciones de segundo grado (coche → guerra → taller) no son simples automatismos conductuales."
+→ [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)
+
+Las cadenas asociativas que afloran tras la reconstrucción no son explicables como puro condicionamiento clásico: son contenido representacional que estuvo operando sin acceso atencional y que el yo recupera por aproximaciones sucesivas. El conductismo, al carecer de una categoría de representación no experiencial, no puede dar cuenta del fenómeno y se ve obligado a negarlo.
+
+
 
 ## Conexión con otros conceptos
 
@@ -185,6 +237,7 @@ Los contenidos del inconsciente colectivo son cognitivamente reales en el mismo 
 ## Lagunas
 - **Listado completo de los ~30 arquetipos principales**: el canal menciona la cifra pero no enumera el catálogo. Sería útil rastrear si existe esa lista canónica en algún vídeo monográfico
 - **Distinción "estructural / mitemas" vs "personales / encarnados en figuras"**: mencionada pero no desarrollada en el corpus
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Origen biológico del inconsciente colectivo**: el canal lo trata como hecho co -->
 - **Origen biológico del inconsciente colectivo**: el canal lo trata como hecho cognitivo pero no explora la base evolutiva (¿cómo se hereda? ¿selección? ¿exaptación?)
 - **Críticas modernas al concepto**: el canal no recoge las objeciones contemporáneas (Pinker y otros) al inconsciente colectivo como ineficiente o cripto-lamarckiano
 - **Aplicación a culturas no-occidentales**: la lista de mitos primarios usa material principalmente mesopotámico-grecorromano-judeocristiano. ¿El canal articula material arquetípico amerindio, africano, australiano? Hay alguna mención (sueños australianos) pero pocos chunks

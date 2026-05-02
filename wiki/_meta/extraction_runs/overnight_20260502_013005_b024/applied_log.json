@@ -1,0 +1,30 @@
+{
+  "applied_at": "2026-05-02T09:28:57+00:00",
+  "run_id": "overnight_20260502_013005_b024",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "collective-unconscious": {
+      "file_path": "wiki/concepts/collective-unconscious.md",
+      "updates_applied": 3,
+      "log": [
+        " [insert_after_passage] anchor='La diferencia entre culturas no es estructural sin' section=''",
+        "  + insert_after (3189 chars) tras anchor único",
+        "  + marked laguna en línea 213: '**Origen biológico del inconsciente colectivo**: el canal lo'",
+        " [insert_after_passage] anchor='Un arquetipo es una manifestación de una parte de ' section=''",
+        "  + insert_after (1767 chars) tras anchor único",
+        " [insert_after_passage] anchor='Los contenidos del inconsciente colectivo son cogn' section=''",
+        "  + insert_after (1370 chars) tras anchor único"
+      ]
+    }
+  }
+}
