@@ -238,6 +238,24 @@ def op_add_relation(text: str, update: dict) -> tuple[str, list[str]]:
     return text, [f"  ! add_relation aún no implementado en este script — manual edit del frontmatter"]
 
 
+def _coerce_str(value, field_name: str) -> tuple[str, list[str]]:
+    """LLM a veces emite list donde el schema pide string. Coerce defensivo:
+    list → primer elemento str. Otros tipos → str(). Devuelve (string, warnings)."""
+    warns: list[str] = []
+    if isinstance(value, str):
+        return value, warns
+    if isinstance(value, list):
+        for v in value:
+            if isinstance(v, str) and v:
+                warns.append(f"  ! {field_name} llegó como list — usando primer elemento")
+                return v, warns
+        return "", warns
+    if value is None:
+        return "", warns
+    warns.append(f"  ! {field_name} tipo inesperado ({type(value).__name__}); coerce a str")
+    return str(value), warns
+
+
 def op_unique_anchor(
     text: str,
     update: dict,
@@ -255,8 +273,10 @@ def op_unique_anchor(
       replace → reemplaza anchor por content
     """
     msgs: list[str] = []
-    anchor = update.get("anchor_passage", "") or ""
-    content = update.get("content_proposed", "") or ""
+    anchor, w1 = _coerce_str(update.get("anchor_passage"), "anchor_passage")
+    content, w2 = _coerce_str(update.get("content_proposed"), "content_proposed")
+    msgs.extend(w1)
+    msgs.extend(w2)
 
     if not anchor:
         msgs.append(f"  ! anchor_passage vacío; skip")

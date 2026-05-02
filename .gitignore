@@ -22,6 +22,24 @@ data/wiki.db-shm
 dist/
 build/
 
-# Push-based extraction pipeline runs (per-run intermediates, audit trail vive local).
-# El estado canónico del wiki vive en wiki/*.md commiteado vía --auto-commit.
-wiki/_meta/extraction_runs/
+# Push-based extraction pipeline (Karpathy LLM Wiki).
+#
+# Política 2026-05-02 (opción B):
+#   - Per-video JSONs (<video_id>.json) y snapshots de prompt → gitignored
+#     (intermedios voluminosos, derivables del corpus + scope.md histórico)
+#   - applied_backup/ → gitignored (pre-edit copies, redundantes con git history)
+#   - state.json → gitignored (control efímero de progreso)
+#   - Aggregator outputs (discard_log, pending_updates, promote_queue,
+#     thesis_candidates, blocks_filtered, aggregation_stats) → COMMITED
+#   - applied_log.json → COMMITED (audit trail de cada apply)
+wiki/_meta/extraction_runs/*
+!wiki/_meta/extraction_runs/*/
+wiki/_meta/extraction_runs/*/*
+!wiki/_meta/extraction_runs/*/discard_log.json
+!wiki/_meta/extraction_runs/*/pending_updates.json
+!wiki/_meta/extraction_runs/*/promote_queue.json
+!wiki/_meta/extraction_runs/*/thesis_candidates.json
+!wiki/_meta/extraction_runs/*/blocks_filtered.json
+!wiki/_meta/extraction_runs/*/aggregation_stats.json
+!wiki/_meta/extraction_runs/*/applied_log.json
+wiki/_meta/extraction_runs/*/applied_backup/

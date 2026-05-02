@@ -689,7 +689,13 @@ def invoke_claude(
 
 
 def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dict], list[str]]:
-    """Devuelve (parsed_dict, errors). errors vacío = OK."""
+    """Devuelve (parsed_dict, errors). errors vacío = OK.
+
+    Defensa de tipos: quote_evidence puede llegar como string (esperado por
+    schema) o como list (Opus a veces emite múltiples evidencias en lista
+    pese a que el schema pide string singular). En ambos casos validamos
+    cada elemento contra el summary literal.
+    """
     errors: list[str] = []
     text = raw.strip()
     # Tolerar code fences accidentales
@@ -707,19 +713,32 @@ def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dic
     # Verificación de quote_evidence literal (regla dura #1)
     summary = video.summary_text
 
-    def check_literal(quote: str, where: str) -> None:
-        if quote and quote not in summary:
-            errors.append(f"quote_evidence not literal in summary @ {where}: {quote[:80]!r}")
+    def check_literal(quote, where: str) -> None:
+        # Defensa de tipos: aceptar str o list[str], coercer otros tipos
+        if quote is None or quote == "":
+            return
+        if isinstance(quote, str):
+            quotes = [quote]
+        elif isinstance(quote, list):
+            quotes = [q for q in quote if isinstance(q, str) and q]
+            if not quotes:
+                return
+        else:
+            errors.append(f"quote_evidence tipo inesperado ({type(quote).__name__}) @ {where}")
+            return
+        for q in quotes:
+            if q not in summary:
+                errors.append(f"quote_evidence not literal in summary @ {where}: {q[:80]!r}")
 
     for ent in data.get("entities", []) or []:
-        check_literal(ent.get("quote_evidence", ""), f"entities[{ent.get('canonical_guess','?')}]")
+        check_literal(ent.get("quote_evidence"), f"entities[{ent.get('canonical_guess','?')}]")
         for fm in ent.get("framing_marks", []) or []:
-            check_literal(fm.get("quote_evidence", ""), f"entities.framing_marks")
+            check_literal(fm.get("quote_evidence"), f"entities.framing_marks")
     for d in data.get("discarded", []) or []:
-        check_literal(d.get("quote_evidence", ""), f"discarded[{d.get('surface_form','?')}]")
+        check_literal(d.get("quote_evidence"), f"discarded[{d.get('surface_form','?')}]")
     for t in data.get("thesis_candidates", []) or []:
         for sm in t.get("speaker_authorship_marks", []) or []:
-            check_literal(sm.get("quote_evidence", ""), f"thesis.speaker_authorship_marks")
+            check_literal(sm.get("quote_evidence"), f"thesis.speaker_authorship_marks")
 
     return data, errors
 
