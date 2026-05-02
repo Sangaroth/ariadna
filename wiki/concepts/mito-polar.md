@@ -113,6 +113,31 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 > "El pensamiento de Yavanna puesto en el corazón de Manwë crece hasta que Ilúvatar lo ve. La diosa blanca entrega una espada a lo masculino: **Yavanna concede a Manwë un juicio imposible sin lo femenino.**"
 → [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)
 
+
+La cosmogonía polar de [[tolkien-jrr|Tolkien]] se ancla en una pareja Valar previa al despertar de los elfos. El canal lee [[el-silmarillion|el legendarium]] como génesis polar propio, equivalente estructural —no derivativo— del Génesis bíblico:
+
+> "Tolkien construye su propio Génesis con un pecado masculino y un pecado femenino posteriores a la traición de Melkor"
+→ [Leyendo El Silmarillion: Tolkien y el mal primario (12:02)](https://youtu.be/gDRkrg8dVCo?t=722)
+
+> "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales)"
+→ [Leyendo El Silmarillion: Tolkien y el mal primario (12:02)](https://youtu.be/gDRkrg8dVCo?t=722)
+
+La polaridad se duplica en un eje vertical aire/agua que el canal extiende a la convergencia con cosmogonías mesopotámicas y judeocristianas:
+
+> "En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino"
+→ [Leyendo El Silmarillion: Tolkien y el mal primario (13:32)](https://youtu.be/gDRkrg8dVCo?t=812)
+
+El equilibrio polar arrastra una asimetría genuina: el intelecto pleno corresponde a las criaturas de Aulë, no a las de Yavanna. La concesión a lo femenino salvaje son los pastores de árboles —materia mágica que puede oponer al consumo masculino del bosque:
+
+> "Manwë le dice a Yavanna que el intelecto pleno solo pertenecerá a las criaturas de Aulë (las montañas, la piedra)"
+→ [Leyendo El Silmarillion: Tolkien y el mal primario (21:05)](https://youtu.be/gDRkrg8dVCo?t=1265)
+
+> "Como máximo, Yavanna tendrá pastores de árboles: la materia mágica más inteligente para defender la naturaleza"
+→ [Leyendo El Silmarillion: Tolkien y el mal primario (21:05)](https://youtu.be/gDRkrg8dVCo?t=1265)
+
+Esta lectura matiza la simetría aparente del polar: la conjunción Aulë-Yavanna no implica equivalencia funcional de los dos polos sino reparto de competencias cognitivas y vitales que solo se cierra en el reconocimiento mutuo (Aulë admite que sus hijos consumirán el bosque; Yavanna obtiene los pastores como contrapeso).
+
+
 ### Matrix: el mito polar del mago
 
 > "**Matrix es también un mito polar que habla de la dicotomía naturaleza-tecnología.** El arquitecto es lo masculino y el oráculo es lo femenino; la gente dentro de Matrix es producto de ambos. La anomalía sistémica de Matrix refleja el fallo sistémico heredado del mito del gólem."
