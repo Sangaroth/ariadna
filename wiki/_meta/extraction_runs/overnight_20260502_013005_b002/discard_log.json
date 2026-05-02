@@ -1,0 +1,1744 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b002",
+  "generated_at": "2026-05-02T01:56:32+00:00",
+  "entities": {
+    "harry-potter-saga": {
+      "canonical_name": "Harry Potter",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "central_thesis",
+          "minutes": 16,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "scope §2.3: análisis dedicado pero solo 16 min (umbral ≥30 min). Caso canónico recurrente: solo este vídeo en el corpus extraído hasta ahora. Falla todos los gate ANY-OF de §2.3. Material valioso vuelca a pending_updates de individuation.md y mito-moderno-en-proxy.md como caso ilustrativo de no-cumplimiento.",
+          "quote_evidence": "Harry Potter es el sobrante de un refrito mitológico con mejor intención estética que poética,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 16,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sindrome-de-wendy": {
+      "canonical_name": "síndrome de Wendy",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "central_thesis",
+          "minutes": 8,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope §2.1 — concepto canal-específico que organiza la totalidad del análisis aquí; assumed_prior (el speaker remite a un vídeo monográfico previo 'El síndrome de Wendy' ya referenciado en individuation.md, 1:06:13); framing-mark de marco aplicado. Recurrencia a través de al menos 2 vídeos (este + el monográfico en individuation.md). Sugiero canonical_external_candidate para añadir a whitelist como channel-specific-concept.",
+          "quote_evidence": "Harry Potter como quintaesencia del síndrome de Wendy"
+        },
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "Recurrencia ya promovida en barrido previo (Harry Potter 3Jo2T73pOEs + Madres e Hijas vqN3ZqRTNCc). Aquí 4ª evidencia cross-video, aplicado a Elsa/Ana como tipología de escisión psíquica con Wendy fuera del muro. Aggregator dedupará la propuesta; mantengo promote_new para fortalecer evidencia de canonicalidad.",
+          "quote_evidence": "La parte que queda fuera del muro es la infancia, la \"parte Wendy\", que solo se enamora de niños perdidos,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "promote_new",
+          "decision_reason": "Recurrencia confirmada: ya promovida desde el vídeo previo del barrido (3Jo2T73pOEs Harry Potter) y referenciada en individuation.md (vídeo monográfico 'El síndrome de Wendy', 1:06:13) y en anima-archetype.md (mutación a ninfa). Aquí aparece como contraste-frame ('no es Wendy típica') que confirma su rol como tipología caracterológica complementaria a la ninfotipia. El aggregador dedupará la propuesta; mantengo promote_new para preservar la evidencia de recurrencia cross-video.",
+          "quote_evidence": "No es Wendy típica porque ya no cree en el romance,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 3,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "viaje-heroe": {
+      "canonical_name": "viaje del héroe",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "central_thesis",
+          "minutes": 6,
+          "framing_marks_count": 4,
+          "decision": "promote_new",
+          "decision_reason": "canonical_whitelist.channel_specific_concepts['viaje-heroe'] con auto_promote:true. Tratamiento sustantivo aquí (≥6 min de articulación del monomito como criterio para evaluar HP). Página propia justificada porque el material desborda la subsección actual de individuation.md (el contraste viaje-vs-camino-de-la-víctima, la ausencia de la 'llamada' clásica, la motivación interna vs forma externa son del propio dispositivo, no del proceso de individuación).",
+          "quote_evidence": "Harry Potter tiene la forma externa del viaje del héroe pero no la motivación interna,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "autotipo": {
+      "canonical_name": "autotipia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Está en canonical_whitelist como 'autotipo' con auto_promote:false (soft). Aplicación puntual aquí (~1 min). No alcanza umbral de 'mención sustantiva ≥3 min' que requiere whitelist soft + criterio adicional. Acumular evidencia en próximos vídeos. La cita queda registrada en discard_log para que el humano calibre cuándo promover.",
+          "quote_evidence": "Los nombres en Harry Potter son autotipia pura: Voldemort, Granger, Lunatica, Lovegood, Wood — la personalidad está literalmente en el nombre,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "camino-de-la-victima": {
+      "canonical_name": "camino de la víctima",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Formulación nueva del canal en este vídeo, sin recurrencia confirmada en otros summaries. Falla criterio ≥3 vídeos de §2.1. La distinción se preserva como contenido enriquecedor de viaje-heroe (cuando se compile) y de individuation.md (sección no-cumplimiento). Si el humano la considera promovible como concepto propio del canal, candidata a promote_to_whitelist tras revisión.",
+          "quote_evidence": "Harry Potter no tiene camino del héroe sino camino de la víctima, algo profundamente postmoderno,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "don-uranio": {
+      "canonical_name": "don uranio",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Terminología canal-específica (uránico ya aparece en individuation.md sección 'Equilibrio uránico/ctónico'). Mención puntual aquí, no monográfica. Falla §2.1 (recurrencia/monográfico). Candidata a sub-sección dentro de individuation.md o página viaje-heroe futura, no a página propia.",
+          "quote_evidence": "El don de Harry Potter es una cursilería: el amor de la madre, que no puede funcionar como don uranio,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "identificacion-yo-ello": {
+      "canonical_name": "identificación con el ello",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "El canal usa la dicotomía yo/ello freudiana como herramienta analítica, sin desarrollar una teoría propia. Ningún criterio §2.1 disparado en sí mismo (recurrencia no confirmable desde un solo vídeo). El material va a individuation.md como matización del 'cambio alquímico' / identificación arquetípica.",
+          "quote_evidence": "Los jóvenes no se identificaban con Harry Potter desde el yo sino desde el ello,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "voldemort-personaje": {
+      "canonical_name": "Voldemort",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Personaje, no obra autónoma. No procede como entity_work propio. La cita ('inversión luciferina arquetípica') se preserva en update a mito-moderno-en-proxy.md como evidencia del análisis sobre HP.",
+          "quote_evidence": "La infancia de Voldemort revela motivaciones genéricas: odiaba su sangre muggle, sus capacidades lo volvieron orgulloso y con complejo de Dios,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pokemon-franchise": {
+      "canonical_name": "Pokémon",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención comparativa puntual ('Pokémon tiene más viaje del héroe que Harry Potter'). Sin análisis. §2.3 no se cumple. La cita queda en pending_update de individuation.md como ilustración del contraste.",
+          "quote_evidence": "Pokémon tiene más viaje del héroe que Harry Potter"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "13-reasons-why-show": {
+      "canonical_name": "Por 13 razones",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención comparativa única como ejemplo paralelo del 'sentimentalismo como identificación con el ello'. Sin análisis dedicado.",
+          "quote_evidence": "El enganche de \"Por 13 razones\" funciona igual: sentimentalismo como identificación con el ello, no con el yo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "peter-pan-1953-film": {
+      "canonical_name": "Peter Pan",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Está en canonical_whitelist como soft (auto_promote:false). Aquí solo aparece como referencia funcional al síndrome de Wendy. No alcanza umbral. La conexión Peter Pan ↔ síndrome de Wendy se preservará al compilar la página sindrome-de-wendy.",
+          "quote_evidence": "Identificarse con Harry Potter es luchar contra el mal de los piratas de Peter Pan: inexistente en la vida real y por tanto fácil de vencer,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "medium",
+      "review_priority_reason": "whitelist_soft entity discarded"
+    },
+    "cenicienta": {
+      "canonical_name": "Cenicienta",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Referencia ilustrativa única dentro del análisis del síndrome de Wendy. Sin desarrollo.",
+          "quote_evidence": "quiero sentirme dramáticamente como Cenicienta para imaginarme víctima del sistema"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "gollum-personaje": {
+      "canonical_name": "Gollum",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Referencia comparativa de una palabra ('tipo Gollum'). Sin contenido extractable.",
+          "quote_evidence": "Voldemort, cuyo origen se resuelve con que es un niño herido tipo Gollum,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Harry Potter": {
+      "canonical_name": "Harry Potter",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Harry Potter es el sobrante de un refrito mitológico con mejor intención estética que poética,",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "camino de la víctima": {
+      "canonical_name": "camino de la víctima",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Harry Potter no tiene camino del héroe sino camino de la víctima, algo profundamente postmoderno,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "don uranio": {
+      "canonical_name": "don uranio",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El don de Harry Potter es una cursilería: el amor de la madre, que no puede funcionar como don uranio,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "autotipia": {
+      "canonical_name": "autotipia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los nombres en Harry Potter son autotipia pura: Voldemort, Granger, Lunatica, Lovegood, Wood — la personalidad está literalmente en el nombre,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "identificación con el ello": {
+      "canonical_name": "identificación con el ello",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los jóvenes no se identificaban con Harry Potter desde el yo sino desde el ello,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Voldemort": {
+      "canonical_name": "Voldemort",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La infancia de Voldemort revela motivaciones genéricas: odiaba su sangre muggle, sus capacidades lo volvieron orgulloso y con complejo de Dios,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pokémon": {
+      "canonical_name": "Pokémon",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Pokémon tiene más viaje del héroe que Harry Potter",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Por 13 razones": {
+      "canonical_name": "Por 13 razones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El enganche de \"Por 13 razones\" funciona igual: sentimentalismo como identificación con el ello, no con el yo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Peter Pan": {
+      "canonical_name": "Peter Pan",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Identificarse con Harry Potter es luchar contra el mal de los piratas de Peter Pan: inexistente en la vida real y por tanto fácil de vencer,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cenicienta": {
+      "canonical_name": "Cenicienta",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "quiero sentirme dramáticamente como Cenicienta para imaginarme víctima del sistema",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gollum": {
+      "canonical_name": "Gollum",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Voldemort, cuyo origen se resuelve con que es un niño herido tipo Gollum,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sentimentalismo vs sentimental": {
+      "canonical_name": "sentimentalismo vs sentimental",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "3Jo2T73pOEs",
+          "video_title": "Harry Potter, el síndrome de Wendy y por qué es escoria fántastica",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El sentimentalismo apela a sentimientos infantiles; las telenovelas son sentimentalistas, no sentimentales, porque no hay verdadero aprendizaje detrás,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "compensacion-neurosis": {
+      "canonical_name": "compensar la neurosis",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Fn1-q3FF2To",
+          "video_title": "Momento destacado de ¡Inside Proxy está emitiendo en directo! (52:40 - 57:40)",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Concepto terapéutico genérico mencionado ~2 min en un highlight de directo. §2.1 falla todos los criterios: ningún vídeo monográfico, sin recurrencia confirmada en otros summaries, sin connectivity. Posible material para la laguna de individuation.md ('Proceso analítico clínico: cómo se acompaña la individuación en terapia') si recurre. De momento queda en discard_log para tracking.",
+          "quote_evidence": "Parte de la terapia es aprender a cambiar neurosis y parte es aprender a compensarlas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "temor-primitivo-buceo": {
+      "canonical_name": "buceo / temor primitivo inconsciente",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Fn1-q3FF2To",
+          "video_title": "Momento destacado de ¡Inside Proxy está emitiendo en directo! (52:40 - 57:40)",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope §3 — anécdota personal del presentador (gusto privado por el buceo, comparación con su primo). Aunque el speaker glosa la experiencia con vocabulario arquetípico ('temor primitivo, inconsciente, maternal, grotesco, hipóxico'), no la articula como concepto trabajado: es expresión emocional sobre una afición. Sin desarrollo enciclopédico extractable.",
+          "quote_evidence": "Bucear por placer genera una sensación de \"temor primitivo, inconsciente, maternal, grotesco, hipóxico\","
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "incapacidad-vincular": {
+      "canonical_name": "incapacidad vincular / vínculos no digitales",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Fn1-q3FF2To",
+          "video_title": "Momento destacado de ¡Inside Proxy está emitiendo en directo! (52:40 - 57:40)",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope §3 — autobiográfico del presentador (su propia neurosis vincular, justificación de su stream como compensación). No es articulación de concepto sino aplicación reflexiva al propio caso. Sin valor enciclopédico extractable.",
+          "quote_evidence": "El tema de las relaciones no digitales es lo que reconoce que no va a cambiar nunca,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "compensar la neurosis": {
+      "canonical_name": "compensar la neurosis",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Fn1-q3FF2To",
+          "video_title": "Momento destacado de ¡Inside Proxy está emitiendo en directo! (52:40 - 57:40)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Parte de la terapia es aprender a cambiar neurosis y parte es aprender a compensarlas,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "buceo / temor primitivo inconsciente": {
+      "canonical_name": "buceo / temor primitivo inconsciente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Fn1-q3FF2To",
+          "video_title": "Momento destacado de ¡Inside Proxy está emitiendo en directo! (52:40 - 57:40)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Bucear por placer genera una sensación de \"temor primitivo, inconsciente, maternal, grotesco, hipóxico\",",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "incapacidad vincular / vínculos no digitales": {
+      "canonical_name": "incapacidad vincular / vínculos no digitales",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Fn1-q3FF2To",
+          "video_title": "Momento destacado de ¡Inside Proxy está emitiendo en directo! (52:40 - 57:40)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Si tienes poca capacidad de encontrar vínculos sociales que te hagan bien, hay que buscar satisfacción en otras áreas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "fantasia-infantil": {
+      "canonical_name": "fantasía infantil como modo de ser",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": "central_thesis",
+          "minutes": 2,
+          "framing_marks_count": 3,
+          "decision": "discard",
+          "decision_reason": "Tesis articulada pero en vídeo corto (3 min) sin recurrencia confirmada. Falla §2.1: monográfico (≥10 min) NO; recurrencia (≥3 vídeos) sin confirmar; channel-canonical NO; connectivity NO. La idea (fantasía como modo cognitivo constitutivo, no como defensa ni manipulación) tiene afinidad teórica con anima-archetype.md (sección enamoramiento, 'fantasía complementaria a la realidad') e individuation.md (cambio alquímico vía identificación arquetípica), pero esos fits son tangenciales y aplicar pending_update aquí sería forzar contenido. Tracking en discard_log.",
+          "quote_evidence": "Los niños no utilizan la fantasía para evitar el mundo sino para estar en él,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "reyes-magos-relato": {
+      "canonical_name": "Reyes Magos (relato re-narrado)",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Re-narración poética del cuento de los Reyes Magos como cierre afectivo del vídeo. No es exposición de un concepto trabajado ni análisis estructural — es prosa curatorial de un único vídeo. §2.4.2 'curatorial' NO se autopropone (la regla explícita prohíbe sugerir páginas synthesis_subtype:curatorial automáticamente). Sin reabsorción a otra página existente.",
+          "quote_evidence": "El nacimiento de un rey tan importante que tres magos-reyes ancianos usaron su magia para encontrarle y traerle tres regalos que significaran su triple importancia,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "padres-como-pajes": {
+      "canonical_name": "padres como pajes (pacto de los pajes)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Sub-elemento del relato re-narrado, no concepto autónomo. Sin recurrencia.",
+          "quote_evidence": "Así año tras año todos los padres son pajes en secreto para recordar lo que hicieron los antiguos Reyes: ser sirvientes de Reyes para que algún día sus hijos lo sean también,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "proyeccion-parental-decepcion": {
+      "canonical_name": "proyección parental del miedo a decepcionar",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Aplicación puntual del concepto general de proyección. No concepto autónomo extractable.",
+          "quote_evidence": "Probablemente proyectan un miedo terrible a ser la causa de una gran decepción,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "fantasía infantil como modo de ser": {
+      "canonical_name": "fantasía infantil como modo de ser",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los niños no utilizan la fantasía para evitar el mundo sino para estar en él,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Reyes Magos (relato re-narrado)": {
+      "canonical_name": "Reyes Magos (relato re-narrado)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El nacimiento de un rey tan importante que tres magos-reyes ancianos usaron su magia para encontrarle y traerle tres regalos que significaran su triple importancia,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "padres como pajes (pacto de los pajes)": {
+      "canonical_name": "padres como pajes (pacto de los pajes)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Así año tras año todos los padres son pajes en secreto para recordar lo que hicieron los antiguos Reyes: ser sirvientes de Reyes para que algún día sus hijos lo sean también,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "proyección parental del miedo a decepcionar": {
+      "canonical_name": "proyección parental del miedo a decepcionar",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "X4WVHD8hn50",
+          "video_title": "No matéis la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Probablemente proyectan un miedo terrible a ser la causa de una gran decepción,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "frozen-2013-film": {
+      "canonical_name": "Frozen",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "central_thesis",
+          "minutes": 5,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope §2.3 — recurrencia cross-thematic confirmada en el corpus: individuation.md cita Frozen en al menos 3 timestamps (54:46, 57:48, 1:42:41) sugiriendo monográfico ≥1h45m upstream; anima-archetype.md también cita Frozen 1:42:41 (enamoramiento como error proyectado). Este vídeo (5 min) es recap/refuerzo que articula la lectura intrapsíquica completa (Elsa/Ana como escisión, Olaf como añoranza Wendy, Kristoff como animus a medio hacer). Cumple criterios 'análisis dedicado' (vía monográfico upstream) + 'connectivity ≥3 páginas wikilinkan' (individuation + anima + tras compilar también la futura sindrome-de-wendy y ninfotipia probablemente).",
+          "quote_evidence": "Todos los personajes de Frozen pueden leerse como partes de una misma psique, igual que en Inside Out,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sindrome-jaula-de-oro": {
+      "canonical_name": "síndrome de la jaula de oro / castillo de cristal",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Concepto canal-específico nombrado con patrón 'síndrome de X' que parralela síndrome de Wendy y ninfotipia (la tipología caracterológica del canal). Framing-mark detectado (el speaker lo invoca como término establecido sin definirlo desde cero) + assumed_prior. Articulación operativa con dos piezas: la causación parental (afecto que transmite preocupación) y la formación adulta (castillo de cristal como coraza evitativa). §2.1 cumple ANY-OF: framing-mark + assumed-prior + canal-específico siguiendo patrón 'síndrome de'. Sugiero canonical_external_candidate para añadir a whitelist channel-specific-concepts junto a sindrome-de-wendy y ninfotipia.",
+          "quote_evidence": "Cada muestra de afecto de los padres transmitía preocupación, no amor genuino (síndrome de la jaula de oro),"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "olaf-neurosis-anoranza": {
+      "canonical_name": "Olaf como neurosis de añoranza",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Lectura specifica de un personaje (Olaf=Peter Pan en el psiquismo de Elsa). No concepto autónomo extractable — es interpretación dentro de la lectura intrapsíquica de Frozen. Material reabsorbido en futura página frozen-2013-film y en cross-link con sindrome-de-wendy.",
+          "quote_evidence": "Olaf representa la nieve mágica de la infancia, el juego, la ingenuidad perdida,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "inside-out-2015-film": {
+      "canonical_name": "Inside Out",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Referencia comparativa única ('como en Inside Out'). individuation.md ya cita 'Inside Out 2, 2:18:47'. Sin tratamiento dedicado aquí. Acumular evidencia.",
+          "quote_evidence": "Todos los personajes de Frozen pueden leerse como partes de una misma psique, igual que en Inside Out,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tangled-2010-film": {
+      "canonical_name": "Enredados / Flynn Rider",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención comparativa única (la duplicación caballo/Flynn paralela al Kristoff/reno). Sin análisis dedicado.",
+          "quote_evidence": "El protagonista masculino (Kristoff) y el reno son la misma persona, como el caballo y Flynn Rider en Enredados,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "falso-self": {
+      "canonical_name": "falso self",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Concepto winnicottiano clásico aplicado de pasada. No desarrollado. Reabsorbido en futura página frozen.",
+          "quote_evidence": "Las barreras que Elsa genera de mayor representan el falso self,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hombre-a-medio-hacer": {
+      "canonical_name": "el hombre a medio hacer / Kristoff como niño grande",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Lectura específica del animus en Frozen (los dos extremos: tirano/niño perdido). Sin recurrencia cross-video que confirme tipología propia. Reabsorbido en futura página frozen y potencialmente en sub-sección de anima-archetype sobre animus inadecuado en obras dirigidas a mujeres si recurre.",
+          "quote_evidence": "Kristoff es un hombre no valiente, no relevante, sin ambición: es un niño grande,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-de-la-diosa": {
+      "canonical_name": "mito de la diosa (cita 'el hombre levantó muros')",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Cita arquetípica una sola vez como glosa del castillo de cristal. mito-lunar (en canonical_whitelist auto_promote:true) absorbería este material cuando se compile esa página. No procede entidad propia 'mito-de-la-diosa' — el canal dice 'mito de la diosa' = mito-lunar; ya están alineados terminológicamente en mito-moderno-en-proxy.md Pieza 1.",
+          "quote_evidence": "El mito de la diosa: \"el hombre levantó grandes muros para proteger a la diosa del mal\","
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "amor-propio-vs-autoestima": {
+      "canonical_name": "amor propio vs autoestima",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Distinción semántica del canal en una frase. Sin desarrollo. Tracking si recurre.",
+          "quote_evidence": "La película resuelve el conflicto con el \"amor propio\", pero no existe el amor propio, existe la autoestima,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Olaf como neurosis de añoranza": {
+      "canonical_name": "Olaf como neurosis de añoranza",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Olaf representa la nieve mágica de la infancia, el juego, la ingenuidad perdida,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Inside Out": {
+      "canonical_name": "Inside Out",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Todos los personajes de Frozen pueden leerse como partes de una misma psique, igual que en Inside Out,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Enredados / Flynn Rider": {
+      "canonical_name": "Enredados / Flynn Rider",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "como el caballo y Flynn Rider en Enredados,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "falso self": {
+      "canonical_name": "falso self",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las barreras que Elsa genera de mayor representan el falso self,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el hombre a medio hacer / Kristoff como niño grande": {
+      "canonical_name": "el hombre a medio hacer / Kristoff como niño grande",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Kristoff es un hombre no valiente, no relevante, sin ambición: es un niño grande,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito de la diosa (cita 'muros para proteger a la diosa')": {
+      "canonical_name": "mito de la diosa (cita 'muros para proteger a la diosa')",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El mito de la diosa: \"el hombre levantó grandes muros para proteger a la diosa del mal\",",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "amor propio vs autoestima": {
+      "canonical_name": "amor propio vs autoestima",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hY87a4srcoM",
+          "video_title": "Olaf y la jaula de oro",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La película resuelve el conflicto con el \"amor propio\", pero no existe el amor propio, existe la autoestima,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ninfotipia": {
+      "canonical_name": "ninfa / ninfotipia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "central_thesis",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "scope §2.1: tipología caracterológica canal-específica (concept §5 channel-specific). Tratamiento monográfico — el vídeo entero (12 min) es articulación clínica del tipo ninfa con sub-mecanismos (madre-amiga, cordón umbilical psíquico, dad issues, herencia caracterológica madre-hija). El término ya aparece como 'mutación del síndrome de Wendy a ninfa' en anima-archetype.md (sección Peter Pan), confirmando recurrencia ≥2 vídeos. Aquí cristaliza como tipo caracterológico estable (no solo mutación). Sugiero canonical_external_candidate para añadir a whitelist channel-specific-concepts junto a sindrome-de-wendy.",
+          "quote_evidence": "Este patrón madre ninfa-hija ninfa es el caso más hardcore de ninfotipia,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cordon-umbilical-psiquico": {
+      "canonical_name": "cordón umbilical psíquico (identificación madre-hija)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Imagen conceptual del canal articulada solo aquí. Un único vídeo, sin recurrencia confirmada. §2.1 falla. Reabsorbida como contenido nuclear dentro de la futura página ninfotipia (no merece página propia: es un mecanismo, no una tipología independiente).",
+          "quote_evidence": "La naturaleza ciega a la madre frente al amor por el varón; con la hija opera un cordón umbilical psíquico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "madre-amiga": {
+      "canonical_name": "madre-amiga",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Sub-dinámica de la ninfotipia (la madre ninfa que pierde frontera generacional). Sin recurrencia. Reabsorbida como contenido dentro de ninfotipia. No merece página propia.",
+          "quote_evidence": "Cuando la hija adolescente y la madre joven se parecen mucho, la madre pasa a ser una mejor amiga,"
+        },
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cuando la hija adolescente y la madre joven se parecen mucho, la madre pasa a ser una mejor amiga,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mean-girls-2004-film": {
+      "canonical_name": "Mean Girls",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Referencia ilustrativa única (~1 min) al final del vídeo como ejemplo cinematográfico de la madre ninfotípica. §2.3 falla todos los criterios. Si recurre como ejemplo en futuros vídeos podría entrar; ahora va a discard_log.",
+          "quote_evidence": "En Mean Girls hay una madre que encarna exactamente este perfil de madre ninfotípica,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "dad-issues": {
+      "canonical_name": "dad issues",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Cliché psicológico genérico, no concepto canal-específico ni académico canónico. Mención lateral.",
+          "quote_evidence": "patrón de dad issues,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "padre-patologico-ausente": {
+      "canonical_name": "padre patológico ausente",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Descriptor clínico contextual del caso, no concepto extractable.",
+          "quote_evidence": "Madre e hija se llevan 20 años; el padre era patológico y las abandonó hace mucho tiempo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "animus-projection-paternal": {
+      "canonical_name": "proyección animus paterna",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Mecanismo junguiano clásico aplicado al caso. No concepto autónomo. Material relevante para la laguna 'Animus en sentido estricto subdesarrollado' de anima-archetype.md, capturado en pending_update breve a esa página.",
+          "quote_evidence": "Idealiza a los varones de la madre porque proyecta en ellos la figura paterna ausente,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cordón umbilical psíquico": {
+      "canonical_name": "cordón umbilical psíquico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La naturaleza ciega a la madre frente al amor por el varón; con la hija opera un cordón umbilical psíquico,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mean Girls": {
+      "canonical_name": "Mean Girls",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "En Mean Girls hay una madre que encarna exactamente este perfil de madre ninfotípica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "dad issues": {
+      "canonical_name": "dad issues",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "patrón de dad issues,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "padre patológico ausente": {
+      "canonical_name": "padre patológico ausente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "el padre era patológico y las abandonó hace mucho tiempo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "proyección animus paterna": {
+      "canonical_name": "proyección animus paterna",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vqN3ZqRTNCc",
+          "video_title": "Madres e Hijas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Idealiza a los varones de la madre porque proyecta en ellos la figura paterna ausente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}
