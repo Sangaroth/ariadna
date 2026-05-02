@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b008",
+  "items": [
+    {
+      "canonical_guess": "borges-jorge-luis",
+      "from_video": "Eqoq3O9wVzA",
+      "entity": {
+        "surface_form": "Borges",
+        "canonical_guess": "borges-jorge-luis",
+        "page_type": "author",
+        "domain_primary_guess": "arts.literature",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 65,
+        "framing_marks": [
+          {
+            "mark_type": "self_referenced_origin",
+            "quote_evidence": "Lectura: \"Los dos reyes y los dos laberintos\" de Borges"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Lectura: \"El Aleph\" de Borges"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": true,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.2 'Channel-ingested': el canal lee íntegros 4 cuentos de Borges en directo (Los dos reyes y los dos laberintos, La espera, El hombre en el umbral, El Aleph) → as_author_of_sources > 0 → promoción automática, anula la condición soft del whitelist",
+        "quote_evidence": "Borges exige diccionario constante por su léxico denso"
+      }
+    }
+  ]
+}

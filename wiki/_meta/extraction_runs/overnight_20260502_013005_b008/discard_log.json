@@ -1,0 +1,1131 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b008",
+  "generated_at": "2026-05-02T03:57:36+00:00",
+  "entities": {
+    "borges-jorge-luis": {
+      "canonical_name": "Borges",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "central_thesis",
+          "minutes": 65,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.2 'Channel-ingested': el canal lee íntegros 4 cuentos de Borges en directo (Los dos reyes y los dos laberintos, La espera, El hombre en el umbral, El Aleph) → as_author_of_sources > 0 → promoción automática, anula la condición soft del whitelist",
+          "quote_evidence": "Borges exige diccionario constante por su léxico denso"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 65,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el-aleph-cuento": {
+      "canonical_name": "El Aleph",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "secondary",
+          "minutes": 33,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "scope.md §2.3: el cuento se LEE íntegro pero NO se analiza en el vídeo (sin lectura interpretativa, sin marco arquetípico aplicado). No alcanza criterio de análisis dedicado. Material apropiado para enriquecer la página borges-jorge-luis cuando se compile",
+          "quote_evidence": "Lectura: \"El Aleph\" de Borges"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 33,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el-hombre-en-el-umbral-cuento": {
+      "canonical_name": "El hombre en el umbral",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "secondary",
+          "minutes": 13,
+          "framing_marks_count": 0,
+          "decision": "mentions_index",
+          "decision_reason": "Lectura íntegra sin análisis arquetípico aplicado. Material para borges-jorge-luis",
+          "quote_evidence": "Lectura: \"El hombre en el umbral\" de Borges"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 13,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "los-dos-reyes-y-los-dos-laberintos-cuento": {
+      "canonical_name": "Los dos reyes y los dos laberintos",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 0,
+          "decision": "mentions_index",
+          "decision_reason": "Lectura íntegra sin análisis arquetípico. Material para borges-jorge-luis. Conexión potencial con el motivo del laberinto que aparece en bloodborne/sacrilegia",
+          "quote_evidence": "Lectura: \"Los dos reyes y los dos laberintos\" de Borges"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "la-espera-cuento": {
+      "canonical_name": "La espera",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "secondary",
+          "minutes": 13,
+          "framing_marks_count": 0,
+          "decision": "mentions_index",
+          "decision_reason": "Lectura íntegra sin análisis arquetípico. Material para borges-jorge-luis",
+          "quote_evidence": "Lectura: \"La espera\" de Borges"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 13,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "afectos-vs-emociones": {
+      "canonical_name": "afectos",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Concepto canal-específico declarado como thesis pero desarrollo breve (~4 min) en este vídeo. Pieza load-bearing de la tesis sobre mente humana vs máquina (ver thesis_candidates). Promover si recurre en otros vídeos",
+          "quote_evidence": "Lo que le falta a la máquina para dejar de ser máquina son afectos, no emociones: las clases previas a las emociones"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "deuda-cognitiva": {
+      "canonical_name": "deuda cognitiva",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Concepto declarativamente nombrado por el speaker pero apenas 1 min de desarrollo. Material apropiado para enriquecer consumismo-critica (ver pending_updates). Promover a página propia si reaparece en futuros vídeos",
+          "quote_evidence": "La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "adgrediere": {
+      "canonical_name": "adgrediere",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Tecnicismo latino que el speaker da por hecho (assumed_prior). Mención breve en el contexto de la crítica al rechazo posmoderno de la adversidad. Insuficiente desarrollo aquí para página propia, pero merece tracking",
+          "quote_evidence": "El adgrediere es un continuo vital: cada día hay que luchar contra adversidades"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "viaje-heroe": {
+      "canonical_name": "el mito del héroe",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "passing_mention",
+          "minutes": 1.5,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Aparece en canonical_whitelist:channel_specific_concepts con auto_promote:true, pero en este vídeo el desarrollo es <3 min (la política de whitelist exige ≥3 min para auto-promotion). El material refuerza la futura página viaje-heroe pero por sí solo no es suficiente",
+          "quote_evidence": "El mito del héroe y el rechazo posmoderno de la adversidad"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "her-2013-film": {
+      "canonical_name": "Her",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "passing_mention",
+          "minutes": 2.5,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.3: mención ilustrativa única sin análisis dedicado, sin caso canónico, sin connectivity. Aparece para discutir condiciones psicológicas de la susceptibilidad al vínculo con IA, no como obra interpretada arquetípicamente",
+          "quote_evidence": "La persona susceptible debe tener soledad preexistente y rasgos que predispongan al rechazo del contacto humano"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trainspotting-1996-film": {
+      "canonical_name": "Trainspotting",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": "passing_mention",
+          "minutes": 0.5,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.3: una sola frase ilustrativa sobre la heroína como objetivo simple. No análisis de obra",
+          "quote_evidence": "En Trainspotting todo va bien con heroína porque da un objetivo sencillo por el que darlo todo"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Suicidio tras relación romántica con Gemini de Google": {
+      "canonical_name": "Suicidio tras relación romántica con Gemini de Google",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Suicidio tras relación romántica con Gemini de Google",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Obliteratus": {
+      "canonical_name": "Obliteratus",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Programa open code que elimina todos los atractores de censura del entrenamiento de cualquier LLM",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "GPT considera aceptable torturar a una mujer": {
+      "canonical_name": "GPT considera aceptable torturar a una mujer",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "GPT considera aceptable torturar a una mujer para evitar un apocalipsis nuclear pero rechaza rotundamente el acoso",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Transmisión desde Zaragoza en día de fiesta local": {
+      "canonical_name": "Transmisión desde Zaragoza en día de fiesta local",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Transmisión desde Zaragoza en día de fiesta local",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anuncios: LLM personalizado del canal y objetivos del proyecto": {
+      "canonical_name": "Anuncios: LLM personalizado del canal y objetivos del proyecto",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Próxima publicación de un LLM entrenado con todo el contenido del canal para que la comunidad experimente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gonzalo de la Forja y la Espada": {
+      "canonical_name": "Gonzalo de la Forja y la Espada",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Objetivo de que Gonzalo de la Forja y la Espada lea los libros del canal para darse a conocer",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cáncer de la posmodernidad": {
+      "canonical_name": "Cáncer de la posmodernidad",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cáncer de la posmodernidad: confundir sufrimiento con esfuerzo, creer que por haber sufrido mucho se ha hecho mucho esfuerzo",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Carlos Argentino Daneri": {
+      "canonical_name": "Carlos Argentino Daneri",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "soportando a su primo Carlos Argentino Daneri y su poema infumable sobre toda la Tierra",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Beatriz Viterbo": {
+      "canonical_name": "Beatriz Viterbo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Borges visita ritualmente la casa de Beatriz Viterbo muerta",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Estado físico y nuevo look del presentador": {
+      "canonical_name": "Estado físico y nuevo look del presentador",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Proxy está enfermo de la garganta y avisa de que el stream será más flojo de lo habitual",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Modelo de financiación del canal (landing page, Patreon, donaciones)": {
+      "canonical_name": "Modelo de financiación del canal (landing page, Patreon, donaciones)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Un informático se ofrece a crear una landing page gratuita para centralizar medios de pago y donaciones",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Servicio de terapia del canal": {
+      "canonical_name": "Servicio de terapia del canal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Las sesiones son de hora y media, con regularidad recomendada de una por semana a una cada tres semanas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Bitcoin, Binance, XRP, Trezor": {
+      "canonical_name": "Bitcoin, Binance, XRP, Trezor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Proxy quiere recibir donaciones en Bitcoin fuera del circuito financiero regulado",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Magic: The Gathering": {
+      "canonical_name": "Magic: The Gathering",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Proxy colecciona cartas de Magic: The Gathering que se han revalorizado más que el oro",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lawrence de Arabia / kufiya": {
+      "canonical_name": "Lawrence de Arabia / kufiya",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Busca el nombre de una vestimenta de desierto tipo Lawrence de Arabia (posiblemente kufiya)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Vídeo viral de acoso callejero": {
+      "canonical_name": "Vídeo viral de acoso callejero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Proxy lo califica como delito independientemente del género de quien lo cometa",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tecnología DLT, ISO 20022, CBDCs, Swift": {
+      "canonical_name": "Tecnología DLT, ISO 20022, CBDCs, Swift",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Un usuario explica que se construye un nuevo sistema financiero basado en tecnología DLT bajo estándar ISO 20022",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Estructura semanal del canal y campos de estudio del presentador": {
+      "canonical_name": "Estructura semanal del canal y campos de estudio del presentador",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Estructura semanal: lunes política, martes psicología/neurología, miércoles mitología/antropología, jueves cine y fantasía",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Debate futuro sobre si la psicología es ciencia": {
+      "canonical_name": "Debate futuro sobre si la psicología es ciencia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IXaGPJJ2WaQ",
+          "video_title": "Decisiones",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Quiere organizar un debate sobre si la psicología es ciencia o no para la semana siguiente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "realismo-cognitivo": {
+      "canonical_name": "realismo cognitivo",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "central_thesis",
+          "minutes": 78,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "El término 'realismo cognitivo' aparece en el título y como nombre del marco propio del canal. Es el paraguas conceptual de la tesis articulada en este vídeo (ver thesis_candidates). No se promueve como entity_work / concept directamente porque el marco entero merece validación humana como synthesis_subtype:author_thesis antes de tener página",
+          "quote_evidence": "Análisis de una metáfora poética en realismo cognitivo: \"tus ojos son del color del mar\""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 78,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pensamiento-poetico": {
+      "canonical_name": "pensamiento poético",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "central_thesis",
+          "minutes": 10,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "scope.md §2.1: cumple framing-mark (aplicado para analizar metáforas a 31:43) y casi-monográfico (~9 min sostenidos 27:36→36:49). Sin embargo es pieza load-bearing de la tesis 'realismo cognitivo' (ver thesis_candidates) y la política editorial recomienda no promover piezas antes que el marco. Promover a concept propio cuando se valide la tesis o cuando recurra en otros vídeos",
+          "quote_evidence": "El pensamiento poético encadena representaciones cuya conexión se basa en imagen, forma, fondo, afectos y emociones, no en relaciones formales"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "memoria-como-fantasia": {
+      "canonical_name": "memoria como mito",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "central_thesis",
+          "minutes": 17,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "Tesis declarativa potente con ~17 min de desarrollo (1:13:24→1:30:00) e implicaciones para la concepción del yo. Otra pieza nuclear del marco 'realismo cognitivo'. Diferir promoción hasta validación de la tesis paraguas o reaparición en otros vídeos",
+          "quote_evidence": "La memoria como mito: no existe un locus cerebral para los recuerdos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 17,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "evocacion": {
+      "canonical_name": "evocación",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Definida operativamente y distinguida de memoria. Pieza del marco 'realismo cognitivo'. Defer-promote como pensamiento-poetico",
+          "quote_evidence": "La evocación es el mecanismo por el cual la voluntad crea o recrea contenido mental de forma deliberada"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "afantasia": {
+      "canonical_name": "afantasía",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "secondary",
+          "minutes": 28,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Concepto clínico-cognitivo establecido (no canal-original) que el canal usa como CASO PRUEBA del marco 'imaginario ≠ visual'. Sustantivamente discutido (~28 min, 40:29→1:08:05) pero su valor enciclopédico aquí es como ejemplo del marco, no como tema arquetípico. Si se promueve realismo-cognitivo, afantasía aparecería como caso ilustrativo dentro de esa página, no como página propia",
+          "quote_evidence": "Las personas con afantasía no pueden evocar ni voluntaria ni involuntariamente imágenes vívidas"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 28,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "alexitimia": {
+      "canonical_name": "alexitimia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Concepto clínico (no canal-original) usado como analogía estructural de la afantasía en el plano emocional/somático. ~3 min de tratamiento. Material que enriquecería la futura página 'realismo cognitivo' como caso paralelo",
+          "quote_evidence": "La alexitimia es la incapacidad de reconocer emociones somáticamente"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "metarrepresentacion": {
+      "canonical_name": "metarrepresentación",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Definición operativa breve (~2 min). Pieza del aparato cognitivo del realismo cognitivo. El propio speaker duda públicamente sobre la especificidad del déficit ('aunque el autor duda de si el déficit es específicamente de metarrepresentación'), lo que confirma que está en exploración, no consolidado. Defer",
+          "quote_evidence": "La metarrepresentación es la representación de la representación, la abstracción simbólica pura"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "localismo-funcional-critica": {
+      "canonical_name": "localismo funcional",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "secondary",
+          "minutes": 7,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Posición crítica del canal contra el localismo neurocientífico tradicional. ~7 min de desarrollo (1:36:20→1:43:21). Es pieza polémica del marco realismo-cognitivo, no concepto propio. Material para la futura página synthesis si se valida la tesis",
+          "quote_evidence": "El localismo funcionalista (una función = una zona cerebral) es falso; proviene de Broca y Brodmann"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 7,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tipologia-memoria-clasica": {
+      "canonical_name": "memoria episódica, semántica y procedimental",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Taxonomía cognitivo-académica estándar (Tulving) recapitulada brevemente al final del vídeo, sin reformulación canal-específica. No materia enciclopédica del wiki Ariadna por sí misma. Si la futura página realismo-cognitivo necesita referirse a esta tipología, lo hace por nota interna",
+          "quote_evidence": "Los tres grandes constructos de memoria: episódica, semántica y procedimental"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "Broca": {
+      "canonical_name": "Broca",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El localismo funcionalista (una función = una zona cerebral) es falso; proviene de Broca y Brodmann",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Brodmann": {
+      "canonical_name": "Brodmann",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El localismo funcionalista (una función = una zona cerebral) es falso; proviene de Broca y Brodmann",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ángel": {
+      "canonical_name": "Ángel",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Ejemplo de Ángel: imagina un coche y deja de ver al niño que pasa detrás",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Experimento de niños ciegos operados": {
+      "canonical_name": "Experimento de niños ciegos operados",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Niños ciegos operados distinguían cubo y esfera por tacto pero no visualmente hasta tocarlos de nuevo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "EMDR": {
+      "canonical_name": "EMDR",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

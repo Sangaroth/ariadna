@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b008",
+  "items": [
+    {
+      "from_video": "IXaGPJJ2WaQ",
+      "block": {
+        "block_timestamp": "33:07",
+        "block_title": "Lista de elementos para la landing page",
+        "matched_pattern": "(?i)\\b(promoci[oó]n|patrocinador|merchandising|lleva mi camiseta)\\b",
+        "matched_token": "Merchandising",
+        "scope": "block",
+        "reason": "Bloque sobre infraestructura promocional del canal (currículum, merchandising, código QR de donaciones, tazas pendientes de envío). El topic_filter de promoción captura el bullet 'Merchandising, código QR para donaciones y enlaces a entrevistas'. Bloque íntegramente dedicado a logística promocional, sin contenido temático"
+      }
+    }
+  ]
+}

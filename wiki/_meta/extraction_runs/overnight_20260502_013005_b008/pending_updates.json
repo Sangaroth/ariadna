@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b008",
+  "items": [
+    {
+      "from_video": "Eqoq3O9wVzA",
+      "from_video_title": "Cuento contigo",
+      "update": {
+        "page_id": "consumismo-critica",
+        "update_type": "insert_after_passage",
+        "anchor_passage": "Que un canal con talento sea pequeño no es injusto sino normal: la gente consume lo fácil.\"\n→ [La IA se sale de madre, 52:03](https://youtu.be/i72IYlpQWd0?t=3123)",
+        "section_target": null,
+        "content_proposed": "\n\n### Tecnología ergonómica y deuda cognitiva\n\nUn cuarto mecanismo, específicamente vinculado al uso intensivo de tecnología:\n\n> \"La tecnología como ergonomía: el entorno se adapta al individuo en vez de que el individuo luche contra el entorno.\"\n→ [Cuento contigo, 19:20](https://youtu.be/Eqoq3O9wVzA?t=1160)\n\n> \"La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo.\"\n→ [Cuento contigo, 19:20](https://youtu.be/Eqoq3O9wVzA?t=1160)\n\nLa tecnología \"ergonómica\" — la diseñada para reducir fricción adaptándose al usuario — opera como mecanismo consumista cuando sustituye el esfuerzo vital real por una facilidad que vacía la psique de objetivos por los que aplicarse. La **deuda cognitiva** nombra el coste acumulado de esa sustitución: cada renuncia al esfuerzo paga interés en degradación del ánimo y de la capacidad de medir las propias fuerzas.",
+        "supersedes_laguna_text": null,
+        "wikilinks_introduced": [],
+        "citations_added": [
+          {
+            "video_id": "Eqoq3O9wVzA",
+            "timestamp_seconds": 1160,
+            "cite_markdown": "[Cuento contigo, 19:20](https://youtu.be/Eqoq3O9wVzA?t=1160)"
+          }
+        ],
+        "rationale": "El summary aporta dos conceptos canal-declarados (tecnología como ergonomía, deuda cognitiva) que extienden la sección 'Mecanismos identificados por el canal' con un cuarto mecanismo no presente en la página actual. insert_after_passage es el update_type correcto: el material es una nueva subsección que se lee después del 'Colapso del contenido original' y antes de 'Manifestación canónica: las apps de citas', preservando el flujo expositivo. No es replace (no corrige), no es extend (no matiza una frase concreta), no es append_to_section (hay anchor unique disponible)",
+        "editorial_intent": "extend"
+      }
+    }
+  ]
+}
