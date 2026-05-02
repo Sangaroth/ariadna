@@ -170,13 +170,24 @@ def aggregate_batch(run_id: str) -> dict:
     return {}
 
 
+COMMITTABLE_AGG_FILES = {
+    "discard_log.json",
+    "pending_updates.json",
+    "promote_queue.json",
+    "thesis_candidates.json",
+    "blocks_filtered.json",
+    "aggregation_stats.json",
+    # state.json y applied_log.json se excluyen aquí:
+    # - state.json: gitignored (control efímero, no se commitea)
+    # - applied_log.json: se commitea junto al apply, no aquí
+}
+
+
 def commit_aggregator_outputs(run_id: str) -> bool:
     """git add + commit de los aggregator outputs (queue de revisión)."""
     run_dir = RUNS_DIR / run_id
     files_to_add: list[str] = []
-    for name in AGG_FILES:
-        if name == "applied_log.json":
-            continue  # se commitea con apply
+    for name in COMMITTABLE_AGG_FILES:
         f = run_dir / name
         if f.exists():
             files_to_add.append(str(f.relative_to(REPO)))
