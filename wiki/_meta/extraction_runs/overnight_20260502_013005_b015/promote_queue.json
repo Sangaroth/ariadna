@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b015",
+  "items": [
+    {
+      "canonical_guess": "el-silmarillion",
+      "from_video": "5vERIcm2EGk",
+      "entity": {
+        "surface_form": "el Silmarillion",
+        "canonical_guess": "el-silmarillion",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.literature",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 7,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Aulë es materia y artesanía (tierra); Melkor es fuego, energía, afectos e impulsos"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": true,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Figura en canonical_whitelist.works_canonical con auto_promote:true (scope.md §4). Recibe ~7 min de tratamiento sustantivo articulado (Aulë vs Melkor en el Ainulindalë, correspondencias elementales, genealogía Sauron→Melkor) — supera el umbral de 3 min para auto-promoción. Cumple además §2.3 'caso canónico' del mito polar cosmogónico tolkieniano",
+        "quote_evidence": "Aulë vs Melkor: por qué se comparan en el Silmarillion"
+      }
+    },
+    {
+      "canonical_guess": "peter-pan-arquetipo",
+      "from_video": "aaLhUV1rdE4",
+      "entity": {
+        "surface_form": "el arquetipo de Peter Pan",
+        "canonical_guess": "peter-pan-arquetipo",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "secondary",
+        "minutes_estimate": 23,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "el arquetipo de Peter Pan: hombres infantiles y demostrativos con el ámbito material adulto pero un interior descuidado, incapaces de entregarse a una causa que no sean ellos mismos"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Cumple §2.1 (ANY-OF) por dos vías: (a) Assumed-prior — el speaker invoca 'el arquetipo de Peter Pan' sin introducirlo, lo trata como load-bearing en su marco; (b) Monográfico borderline — ≈10 min sostenidos sobre Peter Pan como concepto + 5 min adicionales sobre Wendy como complementario, total 23 min sobre el eje Peter Pan-Wendy-maternidad. Tesis psicológica explícita ('la incapacidad de vincularse proviene de la madre tanto en hombres como en mujeres') diferenciada del 'constructivismo que atribuye los problemas masculinos a la herencia paterna'. La página propuesta incorporaría también el patrón Wendy (mujer que elige por objeto narcisista) como arquetipo complementario — ambos comparten conducta superficial pero divergen en motivación según el canal. Notas para el revisor: connectivity actual es 0 (ningún wikilink existente apunta directamente a peter-pan-arquetipo; anima-archetype.relations apunta al film peter-pan-1953-film, no al concepto, y mito-moderno-en-proxy menciona 'síndrome de Wendy' en la Pieza 6 de Harry Potter sin wikilink formal). Es promoción algo agresiva por aparecer en un único vídeo del corpus aquí procesado, defendible por load-bearing + extensión. Si quedan dudas, el revisor puede degradar a discard high-priority hasta verificar recurrencia en otros vídeos",
+        "quote_evidence": "el arquetipo de Peter Pan: hombres infantiles y demostrativos con el ámbito material adulto pero un interior descuidado, incapaces de entregarse a una causa que no sean ellos mismos"
+      }
+    }
+  ]
+}
