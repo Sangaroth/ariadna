@@ -1,0 +1,1471 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_2026_05_03",
+  "generated_at": "2026-05-02T00:16:20+00:00",
+  "entities": {
+    "mercado-citas-contemporaneo": {
+      "canonical_name": "mercado de citas contemporáneo (apps, hipergamia, cortejo roto)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": "central_thesis",
+          "minutes": 88,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §1 admite social.sociology 'cuando aborda crítica cultural, no actualidad coyuntural'. Este directo es tertulia multi-speaker (Proxy, Coramelos, Conde, Senglar, Rafa) sobre la 'crisis del mercado de citas': Tinder/Bumble, hipergamia, divorcios en Francia, Isla de las Tentaciones, gimnasio, leggings. Es comentario coyuntural-cultural sin desarrollo arquetípico sostenido — los términos arquetípicos que aparecen ('diosa', 'príncipe', 'mito') se usan en registro coloquial, no como articulación junguiana. scope.md §3 excluye explícitamente 'anécdotas personales del presentador' (Proxy reconoce usar Tinder como entrenamiento, comparte sus problemas vinculares) y 'recomendaciones culturales sin análisis'",
+          "quote_evidence": "Las dinámicas relacionales han cambiado porque la gente ya no se encuentra en persona,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 88,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "esencia-masculino-femenino": {
+      "canonical_name": "pérdida cultural de la esencia masculina y femenina",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": "secondary",
+          "minutes": 15,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Material tangencial a [[mito-polar]] pero NO promovible como concept propio. Senglar invoca brevemente la 'pérdida de coordenadas para la polaridad' como condición previa del colapso del cortejo. La articulación es polémica-coyuntural (frente a las 'revoluciones antropológicas posteriores'), no enciclopédica. mito-polar.md ya tiene la doctrina canon del canal sobre esto: 'lo masculino y femenino son estructuras cognitivas, no esencialismo biológico'. Aquí los speakers tertulianos se inclinan hacia el esencialismo, pero como opinión personal no como tesis arquetípica del canal — sería contradictorio actualizar mito-polar.md desde una tertulia donde Proxy es solo uno de varios speakers",
+          "quote_evidence": "Senglar sitúa el problema más atrás: la pérdida de la esencia masculina y femenina,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 15,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hipergamia": {
+      "canonical_name": "hipergamia",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Categoría sociológica invocada de paso (estadística de divorcios en Francia, 30 segundos sin desarrollo). No hay tratamiento arquetípico ni doctrinal. Out-of-scope per scope.md §1 (social.sociology coyuntural)",
+          "quote_evidence": "En Francia el 90% de divorcios se daría cuando la mujer gana más que el hombre,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "isla-de-las-tentaciones": {
+      "canonical_name": "Isla de las Tentaciones",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Programa de telerrealidad mencionado como 'espejismo' / 'salvajada' sin análisis arquetípico. scope.md §2.3 NO promover 'recomendaciones culturales sin análisis' / 'referencias culturales contextuales sin desarrollo arquetípico'",
+          "quote_evidence": "El programa expone parejas a 50 cachondos para validar su amor, lo cual es una salvajada,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "castidad": {
+      "canonical_name": "castidad (cristiana / civilizatoria)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Concepto moral mencionado por Conde como aclaración pragmática ('no implica esperas de doce años') más que como articulación filosófico-religiosa. Tratamiento coyuntural en el contexto de la conversación sobre cortejo, no exposición sustantiva del concepto cristiano",
+          "quote_evidence": "La castidad no implica esperas de doce años hasta el matrimonio,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tinder-anecdota": {
+      "canonical_name": "Tinder / Bumble como práctica de socialización (anécdota Proxy)",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Anécdota personal del presentador (Proxy admite usar Tinder como entrenamiento conversacional, reconoce estar 'desentrenado tras muchos problemas vinculares propios'). scope.md §3 excluye explícitamente 'Anécdotas personales del presentador' salvo que ilustren un concepto promovido — aquí no ilustra ningún concepto del wiki",
+          "quote_evidence": "Proxy admite usarlo como entrenamiento conversacional con chicas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trauma-desbloqueo-identidad": {
+      "canonical_name": "trauma como desbloqueo de mapa (Senglar)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Testimonio personal de Senglar (no de Proxy) sobre haber tocado fondo y reconstruirse. Anécdota biográfica de un invitado. Tangencialmente conectable a [[individuation]] pero el testimonio es de un tertuliano, no articulación del canal. scope.md §3 'anécdotas personales' aplicable aunque sea de invitado, no de Proxy. NO actualizar individuation.md desde testimonios de invitados sin firma del canal",
+          "quote_evidence": "Senglar relata haber tocado fondo y agradecer hoy ese trauma,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mercado de citas contemporáneo (eje del directo)": {
+      "canonical_name": "mercado de citas contemporáneo (eje del directo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Las dinámicas relacionales han cambiado porque la gente ya no se encuentra en persona,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pérdida de la esencia masculina y femenina": {
+      "canonical_name": "pérdida de la esencia masculina y femenina",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Senglar sitúa el problema más atrás: la pérdida de la esencia masculina y femenina,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hipergamia / 90% divorcios en Francia": {
+      "canonical_name": "hipergamia / 90% divorcios en Francia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "En Francia el 90% de divorcios se daría cuando la mujer gana más que el hombre,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Isla de las Tentaciones": {
+      "canonical_name": "Isla de las Tentaciones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El programa expone parejas a 50 cachondos para validar su amor, lo cual es una salvajada,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tinder / Bumble (anécdotas personales de Proxy)": {
+      "canonical_name": "Tinder / Bumble (anécdotas personales de Proxy)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Proxy admite usarlo como entrenamiento conversacional con chicas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "castidad (cortejo cristiano contemporáneo)": {
+      "canonical_name": "castidad (cortejo cristiano contemporáneo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La castidad no implica esperas de doce años hasta el matrimonio,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Dios como mecanismo de levantamiento / orden superior": {
+      "canonical_name": "Dios como mecanismo de levantamiento / orden superior",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Quitar a Dios fue la primera revolución que vació de sentido los vínculos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trauma como desbloqueo de identidad masculina (testimonio Senglar)": {
+      "canonical_name": "trauma como desbloqueo de identidad masculina (testimonio Senglar)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El derrumbe le permitió reconstruirse sobre cimientos masculinos sanos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "narcisismo del gimnasio / leggings transparentes / Instagram filtrado": {
+      "canonical_name": "narcisismo del gimnasio / leggings transparentes / Instagram filtrado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Mujeres con leggings transparentes se quejan de las miradas que ellas mismas convocan,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "revolución feminista como torpedeo del cortejo (Conde)": {
+      "canonical_name": "revolución feminista como torpedeo del cortejo (Conde)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "59-lo2WYZCc",
+          "video_title": "T5x11: El amor en realidad II",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Conde plantea 20 años de revolución dirigida a romper la interacción entre hombre y mujer,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "lovecraft-howard": {
+      "canonical_name": "Lovecraft",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "central_thesis",
+          "minutes": 142,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Página existe (lovecraft-howard); el vídeo es una noche de cuentos monotemática íntegra sobre Lovecraft con 4 cuentos leídos en directo y comentario crítico — material directamente enriquecedor",
+          "quote_evidence": "Las noches de cuentos son monotemáticas: siempre se lee Lovecraft,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 142,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mitologia-propia-impropia": {
+      "canonical_name": "mitología en sentido propio",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §4 + canonical_whitelist.json:channel_specific_concepts — 'mitologia-propia-impropia' figura con auto_promote:true y reason 'Distinción canal-específica clave (Lovecraft hace propia, democracia es impropia). Merece página propia'. La mención en este vídeo es la articulación conceptual explícita del canal",
+          "quote_evidence": "Lovecraft hace mitología en sentido propio: mito construido sabiendo que es un mito,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "necronomicon": {
+      "canonical_name": "Necronomicón",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Libro ficcional dentro del universo lovecraftiano (no es obra real promovible bajo scope.md §2.3). Ya está cubierto y citado dentro de lovecraft-howard.md como articulador del lore — no merece página propia, queda como referencia interna",
+          "quote_evidence": "El Necronomicón es el libro que articula el centro de los relatos de terror de Lovecraft,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "en-la-cripta-cuento": {
+      "canonical_name": "En la cripta",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "secondary",
+          "minutes": 25,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Cuento corto leído íntegro pero el propio canal lo califica como 'de los peor escritos de Lovecraft' — no es caso canónico ni recurrente. Va como bullet enriquecedor en sección 'Cuentos leídos íntegramente en el canal' de lovecraft-howard.md, no como página propia (scope.md §2.3 NO promover)",
+          "quote_evidence": "\"En la cripta\" es de los cuentos peor escritos de Lovecraft,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 25,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el-descendiente-cuento": {
+      "canonical_name": "El descendiente",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "secondary",
+          "minutes": 13,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Cuento corto leído íntegro, mención única en el corpus. Va como bullet en sección 'Cuentos leídos íntegramente en el canal' de lovecraft-howard.md, no merece página propia",
+          "quote_evidence": "Lectura: \"El descendiente\" — Lord Northam y el Necronomicón"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 13,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "aire-frio-cuento": {
+      "canonical_name": "Aire frío",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "secondary",
+          "minutes": 31,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Cuento corto leído íntegro, mención única. Va como bullet en 'Cuentos leídos íntegramente' de lovecraft-howard.md",
+          "quote_evidence": "Lectura: \"Aire frío\" — el doctor que desafía a la muerte con frío artificial"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 31,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el-modelo-de-pickman-cuento": {
+      "canonical_name": "El modelo de Pickman",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "secondary",
+          "minutes": 37,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Cuento corto leído íntegro con análisis interesante (realismo del terror, gules, North End, brujas Salem) pero mención única. Va como bullet enriquecedor en lovecraft-howard.md, no merece página propia",
+          "quote_evidence": "Lectura: \"El modelo de Pickman\" — el pintor que retrata el infierno real"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 37,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "la-llamada-de-cthulhu": {
+      "canonical_name": "La llamada de Cthulhu",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mencionada como uno de los relatos centrales del lore lovecraftiano pero sin análisis dedicado en este vídeo (se anuncia para Patreon por su extensión). Permanece referenciada desde lovecraft-howard.md sin página propia hasta confirmar análisis sustantivo",
+          "quote_evidence": "Los relatos con más lore común son el Necronomicón, La llamada de Cthulhu y En las montañas de la locura,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Necronomicón": {
+      "canonical_name": "Necronomicón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El Necronomicón es el libro que articula el centro de los relatos de terror de Lovecraft,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "En la cripta": {
+      "canonical_name": "En la cripta",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "\"En la cripta\" es de los cuentos peor escritos de Lovecraft,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El descendiente": {
+      "canonical_name": "El descendiente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lectura: \"El descendiente\" — Lord Northam y el Necronomicón",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Aire frío": {
+      "canonical_name": "Aire frío",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lectura: \"Aire frío\" — el doctor que desafía a la muerte con frío artificial",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El modelo de Pickman": {
+      "canonical_name": "El modelo de Pickman",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lectura: \"El modelo de Pickman\" — el pintor que retrata el infierno real",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La llamada de Cthulhu": {
+      "canonical_name": "La llamada de Cthulhu",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La llamada de Cthulhu (45 páginas) se reserva para Patreon por su extensión,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "En las montañas de la locura": {
+      "canonical_name": "En las montañas de la locura",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SwEqFdvBI9M",
+          "video_title": "Otoño de cuentos. Lovecraft",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los relatos con más lore común son el Necronomicón, La llamada de Cthulhu y En las montañas de la locura,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hipocampo": {
+      "canonical_name": "hipocampo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El hipocampo tiene forma de caballito de mar y aunque está en el centro del cerebro, es córtex cerebral tanto funcional como neurológicamente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sistema límbico": {
+      "canonical_name": "sistema límbico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El sistema límbico nuclear rodea los ganglios basales y se considera el \"cerebro mamífero\",",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "amígdala": {
+      "canonical_name": "amígdala",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La amígdala está situada justo encima de la cabeza del hipocampo y es responsable de todas las codificaciones afectivas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "estrés postraumático (TEPT)": {
+      "canonical_name": "estrés postraumático (TEPT)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El TEPT ocurre cuando el hipocampo codificó una asociación (ruido fuerte = bomba = posición fetal) que la amígdala ejecuta automáticamente sin volver a consultar al hipocampo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "EMDR (terapia de movimiento ocular)": {
+      "canonical_name": "EMDR (terapia de movimiento ocular)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La terapia de movimiento ocular (EMDR) busca que el bypass córtex-amígdala del TEPT vuelva a pasar por el hipocampo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "depresión": {
+      "canonical_name": "depresión",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La depresión no es tristeza sino ausencia de motivación: las vías serotoninérgicas no consiguen que el córtex prefrontal priorice objetivos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "esquizofrenia (vías dopaminérgicas)": {
+      "canonical_name": "esquizofrenia (vías dopaminérgicas)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La vía mesolímbica causa los síntomas positivos de la esquizofrenia (lo que aparece: alucinaciones, delirios),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "memoria episódica / semántica / procedimental": {
+      "canonical_name": "memoria episódica / semántica / procedimental",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La memoria episódica recrea lugares, eventos y tiempo como películas mentales de las que somos protagonistas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "meditación": {
+      "canonical_name": "meditación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Meditar es el procedimiento por el que se intenta lograr el mayor control inhibitorio voluntario sobre los procesos espontáneos bottom-up,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "red de activación por defecto": {
+      "canonical_name": "red de activación por defecto",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La red de activación por defecto es límbica y paralímbica, y llena el córtex prefrontal de excitaciones automáticas cuando no hacemos nada,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "vías dopaminérgicas": {
+      "canonical_name": "vías dopaminérgicas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Una vía dopaminérgica es una carretera de neuronas que usan dopamina como neurotransmisor, no un flujo de dopamina,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ramón y Cajal": {
+      "canonical_name": "Ramón y Cajal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las neuronas piramidales son las más famosas por los dibujos de Ramón y Cajal,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "imaginación y creatividad como recombinación mnésica": {
+      "canonical_name": "imaginación y creatividad como recombinación mnésica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La imaginación es una recreación simultánea de distintos momentos cerebrales para crear algo nuevo,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "realismo cognitivo": {
+      "canonical_name": "realismo cognitivo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "unverifiable",
+          "quote_evidence": "En el realismo cognitivo se considera que esta clasificación es útil pero no agota las funciones de la memoria,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "potenciación a largo plazo / espinas dendríticas": {
+      "canonical_name": "potenciación a largo plazo / espinas dendríticas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gB5NoYbdZWk",
+          "video_title": "4x02 Sistema limbicocortical. Hipocampo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Las dendritas de la capa más externa del córtex desarrollan espinas dendríticas (miniramificaciones) cuando se usan frecuentemente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tolkien-jrr": {
+      "canonical_name": "Tolkien",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": "central_thesis",
+          "minutes": 70,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "canonical_whitelist.json:authors tolkien-jrr auto_promote:true (reason: 'Caso más sostenido del mito polar moderno según el canal. Multiple directos dedicados — Inside Proxy, Silmarillion, Tolkien y los dragones'). Este vídeo es lectura íntegra en directo del Silmarillion (as_author_of_sources poblada cuando se compile) + análisis cosmogónico-teológico sustantivo. Promoción inmediata por whitelist + monografía",
+          "quote_evidence": "Tolkien construye su propio Génesis con un pecado masculino y un pecado femenino posteriores a la traición de Melkor,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 70,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "el-silmarillion": {
+      "canonical_name": "El Silmarillion",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": "central_thesis",
+          "minutes": 70,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "canonical_whitelist.json:works_canonical el-silmarillion auto_promote:true (reason: 'Análisis dedicado en vídeo monográfico. Caso central del mito polar cosmogónico tolkieniano'). Este vídeo es exactamente esa monografía: 70 min de lectura comentada del Génesis tolkieniano (Valaquenta + Quenta Silmarillion temprano). Promoción inmediata",
+          "quote_evidence": "La tierra tiene una división polar: lo masculino-artesano (Aulë, civilizaciones que fabrican de la piedra) y lo femenino-naturaleza (Yavanna, lo salvaje, plantas y animales),"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 70,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-polar": {
+      "canonical_name": "mito polar (cosmogonía polar Aulë-Yavanna)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": "central_thesis",
+          "minutes": 50,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Página existe con subsección Tolkien (3 cites de Inside Proxy + Seguimos con Tolkien) sobre lo masculino/femenino como esencias previas a la forma. Este vídeo aporta la articulación cosmogónica más concreta del corpus: el cuádruple Valar cardinal (Aulë–Yavanna en tierra/naturaleza, Ulmo–Manwë en agua/aire) como instanciación específica de la polaridad. Material lo bastante concreto y diferenciado para enriquecer la subsección Tolkien sin redundancia",
+          "quote_evidence": "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales),"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 50,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Aulë": {
+      "canonical_name": "Aulë",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Yavanna": {
+      "canonical_name": "Yavanna",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Yavanna representa la naturaleza (lo femenino, las plantas, los animales),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Melkor": {
+      "canonical_name": "Melkor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Melkor capturó elfos antes de la caída de Utumno, los puso en prisión y por las lentas artes de la crueldad los corrompió y esclavizó,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Varda (corona de estrellas)": {
+      "canonical_name": "Varda (corona de estrellas)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Varda abandona el consejo y plaga el cielo de estrellas para que los primeros nacidos contemplen la noche,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Eldar / Avari / Vanyar / Noldor / Teleri / Falmari / Nandor": {
+      "canonical_name": "Eldar / Avari / Vanyar / Noldor / Teleri / Falmari / Nandor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Algunos elfos rechazaron el llamamiento de los Balar prefiriendo la luz de las estrellas: son los Avari (los renuentes),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mitología celta (paralelo)": {
+      "canonical_name": "Mitología celta (paralelo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "En las leyendas celtas, las civilizaciones se narran como encuentros: una más avanzada llega hasta una menos avanzada y le concede conocimiento,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "San Agustín / Tomás de Aquino (mal como privación del bien)": {
+      "canonical_name": "San Agustín / Tomás de Aquino (mal como privación del bien)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "gDRkrg8dVCo",
+          "video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Para Tolkien, influenciado por San Agustín y Tomás de Aquino, el mal es privación del bien, no sustancia propia,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

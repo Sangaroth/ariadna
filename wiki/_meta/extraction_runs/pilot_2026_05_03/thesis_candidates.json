@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_2026_05_03",
+  "items": [
+    {
+      "from_video": "gDRkrg8dVCo",
+      "from_video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+      "thesis": {
+        "surface_form": "tipología del mal: primario absoluto / primario contemplado / secundario / terciario",
+        "page_id_canonical": "las-cuatro-formas-del-mal",
+        "synthesis_subtype": "author_thesis",
+        "domain_primary_guess": "humanities.philosophy",
+        "quote_evidence": [
+          "La ira y el miedo provocan una apariencia amenazadora; el pecado que corrompe por dentro también corrompe por fuera,",
+          "Cuando te corrompes pasas a ser parte del mal primario que se contempla (mal terciario),",
+          "Para quienes te conocen eres un mal secundario (que apena y duele); para quienes no, eres directamente mal primario,",
+          "Las cuatro formas del mal son transmitológicas: Tolkien insiste en que toda la obra es buena y algunas cosas se corrompen dentro de ella,",
+          "La única forma de mal primario absoluto (el caos, la ausencia de orden y propósito) no existe como entidad en el Silmarillion,",
+          "Para Tolkien, influenciado por San Agustín y Tomás de Aquino, el mal es privación del bien, no sustancia propia,"
+        ],
+        "signal_marks_detected": [
+          "declared_thesis: 'Las cuatro formas del mal son transmitológicas' — el speaker enuncia la tipología como aplicable más allá de Tolkien, declaración explícita de marco propio universalizable",
+          "framework_internal_structure: enumeración numerada de cuatro categorías diferenciadas (primario absoluto, primario contemplado, secundario, terciario) con definición operativa por cada una",
+          "pedagogical_register_sustained: registro expositivo-clasificatorio sostenido ~10 min (44:51-54:02), verbos dominantes definir / distinguir / clasificar — no análisis de obra sino construcción de marco teórico",
+          "auto_referential_genealogy: el speaker inscribe su tipología en el linaje San Agustín → Tomás de Aquino (mal como privación del bien), señal de marco teórico propio que se autoubica historiográficamente"
+        ],
+        "framework_internal_structure": [
+          "Mal primario absoluto: el caos, la ausencia de orden y propósito. No existe como entidad en el Silmarillion ni en mitologías articuladas (toda mitología presupone orden y propósito)",
+          "Mal primario contemplado: lo que se ve directamente como mal por quien no conoce su origen ni historia (los Orcos para quien los encuentra sin saber que fueron elfos corrompidos)",
+          "Mal secundario: lo que apena y duele a quien sabe que algo bueno se corrompió (los Orcos para los Balar y los elfos que conocen su origen)",
+          "Mal terciario: corrupción interior que se manifiesta exteriormente — quien se corrompe pasa a ser parte del mal primario que otros contemplan (la apariencia amenazadora producida por la ira y el miedo es mal terciario que para extraños se vuelve mal primario)"
+        ],
+        "requires_human_validation": true,
+        "rationale": "El título del vídeo es 'Tolkien y el mal primario'. El canal articula explícitamente una tipología cuádruple del mal como marco interpretativo aplicado a Tolkien pero declarado 'transmitológico' (universal). Cumple los marcadores de scope.md §2.4.1: declared_thesis, framework_internal_structure, registro pedagógico-expositivo sostenido, genealogía auto-inscrita. El marco se inscribe explícitamente en la genealogía agustino-tomista (mal como privación del bien) y se aplica a Tolkien como caso de prueba. NO se aplica al wiki sin validación humana — pasa a discard_log.json:thesis_candidates[] esperando confirmación de que es articulación original del canal y no exposición de teoría agustino-tomista clásica con vocabulario propio. Si se valida, candidato a página synthesis_subtype: author_thesis con domain humanities.philosophy"
+      }
+    }
+  ]
+}

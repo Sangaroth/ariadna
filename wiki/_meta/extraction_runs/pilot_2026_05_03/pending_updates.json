@@ -1,0 +1,86 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_2026_05_03",
+  "items": [
+    {
+      "from_video": "SwEqFdvBI9M",
+      "from_video_title": "Otoño de cuentos. Lovecraft",
+      "update": {
+        "page_id": "lovecraft-howard",
+        "update_type": "insert_after_passage",
+        "anchor_passage": "→ [Aventuras Ignotas con Armesilla, 47:57](https://youtu.be/_S6kQYk9O98?t=2877)",
+        "section_target": null,
+        "content_proposed": "\n- **\"En la cripta\"**: George Birch, director de funeraria insensible y negligente, queda encerrado en una cripta y debe escalar usando los propios ataúdes para escapar; al pisar el del vengativo Asaf Sawyer — cuyos tobillos había cortado para que cupiera en un ataúd demasiado pequeño — algo le atrapa. El doctor Davis interpreta la venganza post mortem como \"ojo por ojo\"; Birch queda cojo y traumatizado de por vida\n  → [Otoño de cuentos. Lovecraft, 25:49](https://youtu.be/SwEqFdvBI9M?t=1549)\n- **\"El descendiente\"**: Lord Northam, erudito de linaje ancestral que rastrea su estirpe hasta un tribuno romano cuyo antepasado Gabinio accedió a una gruta donde gentes de una tierra hundida hacían ritos. Northam busca toda su vida una puerta a dimensiones exteriores agotando religión, ocultismo y satanismo, y termina aterrorizado en Londres rechazando todo pensamiento profundo\n  → [Otoño de cuentos. Lovecraft, 52:44](https://youtu.be/SwEqFdvBI9M?t=3164)\n- **\"Aire frío\"**: el Dr. Muñoz, médico español brillante, vive en frío constante y afirma que la voluntad y la conciencia son más fuertes que la vida orgánica. Llevaba 18 años técnicamente muerto, conservado por frío y voluntad; al romperse la máquina refrigeradora el cuerpo colapsa, dejando una nota confesando su estado. Caso lovecraftiano de lo monstruoso instalado en lo cotidiano (incienso egipcio, especias exóticas, habitación con olor a sepulcro)\n  → [Otoño de cuentos. Lovecraft, 1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)\n- **\"El modelo de Pickman\"**: Richard Upton Pickman, mayor pintor de Boston expulsado de clubes por su arte morboso, distingue entre el arte fantástico superficial y el que capta la anatomía real del terror. Su antepasada fue ahorcada en Salem en 1692; en un sótano del North End pinta criaturas caninas (gules) que se alimentan de humanos y establecen un nexo evolutivo con los humanos vía changelings. El giro final: una fotografía revela que Pickman pintaba del natural — las bestias eran reales\n  → [Otoño de cuentos. Lovecraft, 1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)",
+        "supersedes_laguna_text": null,
+        "wikilinks_introduced": [],
+        "citations_added": [
+          {
+            "video_id": "SwEqFdvBI9M",
+            "timestamp_seconds": 1549,
+            "cite_markdown": "[Otoño de cuentos. Lovecraft, 25:49](https://youtu.be/SwEqFdvBI9M?t=1549)"
+          },
+          {
+            "video_id": "SwEqFdvBI9M",
+            "timestamp_seconds": 3164,
+            "cite_markdown": "[Otoño de cuentos. Lovecraft, 52:44](https://youtu.be/SwEqFdvBI9M?t=3164)"
+          },
+          {
+            "video_id": "SwEqFdvBI9M",
+            "timestamp_seconds": 3961,
+            "cite_markdown": "[Otoño de cuentos. Lovecraft, 1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)"
+          },
+          {
+            "video_id": "SwEqFdvBI9M",
+            "timestamp_seconds": 5864,
+            "cite_markdown": "[Otoño de cuentos. Lovecraft, 1:37:44](https://youtu.be/SwEqFdvBI9M?t=5864)"
+          }
+        ],
+        "rationale": "El vídeo lee íntegros 4 cuentos no recogidos hasta ahora en la sección 'Cuentos leídos íntegramente en el canal'. La inserción tras el bullet existente de 'La extraña casa elevada entre la niebla' mantiene el flujo cronológico/temático de la sección sin disrupción. insert_after_passage es el update_type correcto porque el anchor (línea de citación) es único, terminal de su bullet, y la nueva información es 'más casos del mismo tipo' que naturalmente continúan la enumeración",
+        "editorial_intent": "enrich"
+      }
+    },
+    {
+      "from_video": "SwEqFdvBI9M",
+      "from_video_title": "Otoño de cuentos. Lovecraft",
+      "update": {
+        "page_id": "lovecraft-howard",
+        "update_type": "mark_laguna_resolved",
+        "anchor_passage": null,
+        "section_target": null,
+        "content_proposed": "Resuelta parcialmente: el vídeo SwEqFdvBI9M aporta 4 cuentos íntegros con timestamp explícito ('En la cripta', 'El descendiente', 'Aire frío', 'El modelo de Pickman'), añadidos a la sección. La laguna deja de ser ciega aunque sigue habiendo cuentos del corpus sin recoger explícitamente",
+        "supersedes_laguna_text": "**Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos quedan recogidos en esta página con timestamp explícito",
+        "wikilinks_introduced": [],
+        "citations_added": [],
+        "rationale": "Esta laguna declara que el corpus contiene muchos cuentos leídos íntegros pero la página solo recogía uno con timestamp. El update insert_after_passage hermano de este pending_update añade 4 cuentos más — pasamos de 1 a 5 cuentos documentados con timestamp. La laguna queda materialmente refutada por el aporte y se marca para revisión humana (el revisor decide si reescribirla en términos más acotados o eliminarla)",
+        "editorial_intent": "resolve_laguna"
+      }
+    },
+    {
+      "from_video": "gDRkrg8dVCo",
+      "from_video_title": "Leyendo El Silmarillion: Tolkien y el mal primario.",
+      "update": {
+        "page_id": "mito-polar",
+        "update_type": "insert_after_passage",
+        "anchor_passage": "→ [Inside Proxy directo, 32:29](https://youtu.be/wIhH72UFUPY?t=1949)",
+        "section_target": null,
+        "content_proposed": "\n\nEl Génesis del Silmarillion hace concreta la articulación cosmogónica vía cuatro Valar cardinales repartidos por dos polos:\n\n> \"Aulë representa el artesano (lo masculino, la tierra, la piedra) y Yavanna representa la naturaleza (lo femenino, las plantas, los animales). Tolkien construye su propio Génesis con un pecado masculino y un pecado femenino posteriores a la traición de Melkor.\"\n→ [Leyendo El Silmarillion: Tolkien y el mal primario, 12:02](https://youtu.be/gDRkrg8dVCo?t=722)\n\nLa polaridad opera además en un plano cósmico solidario al telúrico:\n\n> \"En las narrativas de creación mesopotámicas y judeocristianas, Dios es aire/espíritu (masculino) y las aguas son lo femenino. El aire refiere al intelecto consciente y el agua al espíritu, al inconsciente y al alma.\"\n→ [Leyendo El Silmarillion: Tolkien y el mal primario, 13:32](https://youtu.be/gDRkrg8dVCo?t=812)\n\nAulë y Yavanna en la superficie telúrica; Ulmo y Manwë en el plano cósmico. Cuatro Valar cardinales repartidos por dos polos: lo masculino (aire intelectual + tierra artesana) y lo femenino (agua espiritual + naturaleza salvaje). Cada elemento mítico aterriza en un Valar y cada Valar instancia un polo.",
+        "supersedes_laguna_text": null,
+        "wikilinks_introduced": [],
+        "citations_added": [
+          {
+            "video_id": "gDRkrg8dVCo",
+            "timestamp_seconds": 722,
+            "cite_markdown": "[Leyendo El Silmarillion: Tolkien y el mal primario, 12:02](https://youtu.be/gDRkrg8dVCo?t=722)"
+          },
+          {
+            "video_id": "gDRkrg8dVCo",
+            "timestamp_seconds": 812,
+            "cite_markdown": "[Leyendo El Silmarillion: Tolkien y el mal primario, 13:32](https://youtu.be/gDRkrg8dVCo?t=812)"
+          }
+        ],
+        "rationale": "La subsección 'Tolkien: el mito polar cosmogónico' contiene 3 cites generales (Valar como esencias previas a la forma, masculino/femenino existen como esencias, Yavanna entrega espada a Manwë) pero le falta la articulación cuádruple-elemental que es la lectura más concreta del polar tolkieniano. Anchor único en archivo (cita 32:29 de Inside Proxy aparece una sola vez en mito-polar.md). La inserción cae naturalmente entre la subsección Tolkien y '### Matrix: el mito polar del mago'",
+        "editorial_intent": "enrich"
+      }
+    }
+  ]
+}
