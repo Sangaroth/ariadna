@@ -1,0 +1,553 @@
+{
+  "version": "0.1.0",
+  "run_id": "sanity_v0_3_20260502_231606",
+  "generated_at": "2026-05-02T21:22:58+00:00",
+  "entities": {
+    "ChatGPT": {
+      "canonical_name": "ChatGPT",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "La IA débil son algoritmos específicos que mejoran en una sola tarea mediante autocorrección (ej. ChatGPT),",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Google chatbot": {
+      "canonical_name": "Google chatbot",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Google tiene un chatbot que parece inteligencia pero ni siquiera es una IA débil,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Máquina de Turing": {
+      "canonical_name": "Máquina de Turing",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La máquina de Turing es el algoritmo informático más sencillo: lee ceros y unos y reacciona según instrucciones,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Paradigma de Turing": {
+      "canonical_name": "Paradigma de Turing",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Si nos importa solo el resultado, llamaremos IA a todo lo que desde fuera parezca inteligencia humana,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Arquitectura de Von Neumann": {
+      "canonical_name": "Arquitectura de Von Neumann",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Un ordenador tiene periféricos (entrada/salida), unidad central de procesamiento (CPU) y memoria,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ilusión de Rubin": {
+      "canonical_name": "Ilusión de Rubin",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Podemos seleccionar voluntariamente si vemos caras o una copa, pero no hay ni caras ni copa, solo líneas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hipocampo": {
+      "canonical_name": "Hipocampo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "El hipocampo no almacena recuerdos, funciona como un cajón de fichas de biblioteca: un índice que ordena y conecta,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Dopamina": {
+      "canonical_name": "Dopamina",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Los procesos alucinatorios y psicóticos ocurren por problemas de inhibición del neurotransmisor dopamina,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Afantasía": {
+      "canonical_name": "Afantasía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Un 1-2% de la población tiene afantasía: incapacidad de evocar imágenes mentales,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Trauma": {
+      "canonical_name": "Trauma",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "El trauma es afectividad pura: la fijación de un estadio afectivo que no se ha procesado como representación,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Memoria episódica/procedural/semántica/afectiva": {
+      "canonical_name": "Memoria episódica/procedural/semántica/afectiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "La memoria episódica (vivencias), procedural (cómo se hacen las cosas) y semántica (palabras, relaciones lógicas) son procesos distintos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tríada representacional (imaginaria, formal, afectiva)": {
+      "canonical_name": "Tríada representacional (imaginaria, formal, afectiva)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Todo pensamiento tiene tres componentes: imaginaria (forma, color, imagen), formal (lógica, gramática, sintaxis) y afectiva (emociones, significación),",
+          "review_priority_hint": "high"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Prometeo": {
+      "canonical_name": "Prometeo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Prometeo representa la ambición de crear un golem exactamente igual a nosotros, pero el mito dice que saldrá mal,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pandora": {
+      "canonical_name": "Pandora",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Pandora representa el interior implícito, el alma: los dioses advirtieron \"no abráis la caja, no miréis dentro\",",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mente como grafo tridimensional": {
+      "canonical_name": "Mente como grafo tridimensional",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "La mente es un gigantesco grafo con tres redes superpuestas: afectiva, gramatical e imaginaria,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Creatividad como recombinación": {
+      "canonical_name": "Creatividad como recombinación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "La creatividad no parece existir como tal: el cerebro no crea cosas nuevas, recombina fragmentos de experiencias vividas,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Voz interior / autovoz": {
+      "canonical_name": "Voz interior / autovoz",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Algunas personas oyen sus pensamientos como una voz interior (autovoz) y otras no,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Masculino/femenino como formas cognitivas": {
+      "canonical_name": "Masculino/femenino como formas cognitivas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "Los mitos describen lo masculino y lo femenino en términos cognitivos: los hombres son semánticos y procedurales, las mujeres son contextuales,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Homogeneización cultural por tecnología": {
+      "canonical_name": "Homogeneización cultural por tecnología",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "No seremos dominados por la IA sino por quien la construya, diseñe y venda,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La obsesión por la igualdad como estrategia de control": {
+      "canonical_name": "La obsesión por la igualdad como estrategia de control",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "La obsesión por la igualdad viene de un complejo: se les dice a las mujeres que sean como hombres y a los hombres que dejen de serlo,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Problemas culturales como problemas morales no científicos": {
+      "canonical_name": "Problemas culturales como problemas morales no científicos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "video_title": "El Gólem de Cobre",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Los problemas culturales actuales (IA, redes sociales, pornografía) son problemas morales, no científicos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

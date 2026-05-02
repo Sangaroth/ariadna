@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0",
+  "run_id": "sanity_v0_3_20260502_231606",
+  "items": [
+    {
+      "from_video": "e3Aj775Rlw4",
+      "from_video_title": "El Gólem de Cobre",
+      "update": {
+        "page_id": "anima-archetype",
+        "update_type": "append_to_section",
+        "section_target": "Citations",
+        "content_proposed": "- **El Gólem de Cobre** — chunks: [1:05:15](https://youtu.be/e3Aj775Rlw4?t=3915)",
+        "wikilinks_introduced": [],
+        "citations_added": [
+          {
+            "video_id": "e3Aj775Rlw4",
+            "timestamp_seconds": 3915,
+            "cite_markdown": "[El Gólem de Cobre (1:05:15)](https://youtu.be/e3Aj775Rlw4?t=3915)"
+          }
+        ],
+        "rationale": "cita-only — la sección 'Polaridad como eje, no como género biológico' de la página ya documenta la polaridad masculino/femenino como eje cognitivo (concreto/abstracto, explícito/implícito). El Gólem añade una traducción al vocabulario de módulos de memoria (semántico/procedural vs contextual) durante ~3 min — matiz menor en prosa, pero el timestamp es valioso para retrieval indirecto del bloque cognitivo donde el canal vuelve a articular la complementariedad arquetípica.",
+        "editorial_intent": "enrich"
+      }
+    }
+  ]
+}

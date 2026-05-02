@@ -1,0 +1,319 @@
+{
+  "video_id": "wxcSuqipA6s",
+  "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+  "playlist": "_sin_playlist",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Diagrama de Proxy",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 72,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Existen dos ejes de personalidad basados en la consideración de los fundamentos morales rígidos y la posición respecto a la jerarquía"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "captured_in_thesis_candidate",
+      "decision_reason": "Es la tesis central del vídeo (72 min monográfico). Se promueve vía thesis_candidate diagrama-de-proxy (synthesis_subtype: author_thesis) que cumple gate de auto-promoción §2.4.1. Aquí solo se referencia para evitar doble entrada.",
+      "quote_evidence": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?"
+    },
+    {
+      "surface_form": "locus de control o locus de autoridad",
+      "canonical_guess": "locus-de-autoridad",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El locus de control o locus de autoridad determina si representas las amenazas como externas o internas"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Mecanismo cognitivo que el speaker articula como pieza interna del diagrama (eje vertical). No merece página autónoma — su contenido pertenece a la futura página diagrama-de-proxy donde es uno de los componentes operativos.",
+      "quote_evidence": "El locus de control o locus de autoridad determina si representas las amenazas como externas o internas"
+    },
+    {
+      "surface_form": "razonamiento motivado",
+      "canonical_guess": "razonamiento-motivado",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Se identificaron circuitos de \"razonamiento motivado\": mecanismos cerebrales para producir justificaciones que alivien la culpa o disonancia"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Concepto cognitivo estándar usado por el speaker como sustento empírico del eje horizontal del diagrama. Per scope.md §1.2: el speaker lo aplica a marco propio → IN como evidencia, NO como página autónoma (las pages son del canal, no de la disciplina).",
+      "quote_evidence": "Se identificaron circuitos de \"razonamiento motivado\": mecanismos cerebrales para producir justificaciones que alivien la culpa o disonancia"
+    },
+    {
+      "surface_form": "anarcocapitalistas / ancap",
+      "canonical_guess": "anarcocapitalismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La mayoría de ancap estaban a la izquierda hasta que descubrieron que el relativismo implicaba renunciar a la propiedad"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Tradición política tratada en el vídeo solo para ubicarla en el diagrama (cuadrante abajo-derecha) y narrar su migración psicológica desde el relativismo. El contenido pertenece a la página diagrama-de-proxy como caso prototípico, no merece página autónoma sin tratamiento dedicado en otros vídeos.",
+      "quote_evidence": "Los ancap están abajo a la derecha: no soportan la jerarquía pero tampoco que se destruyan fundamentos como libertad y propiedad"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Diagrama de Proxy: dos ejes neuropsicológicos para clasificar la orientación moral-política",
+      "proposed_page_id": "diagrama-de-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Existen dos ejes de personalidad basados en la consideración de los fundamentos morales rígidos y la posición respecto a la jerarquía"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Eje vertical: aceptación de la autoridad jerárquica (arriba) versus rechazo de lo jerárquico (abajo),\n  - Eje horizontal: fundamentos rígidos de la moral (derecha) versus fundamentos relativistas (izquierda),\n  - Correlatos cerebrales: hacia la derecha más amígdala, hacia la izquierda más córtex cingulado anterior, arriba mayor área tegmental ventral"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Toda conducta proviene de una personalidad en consonancia con impulsos que tienen un correlato neuropsicológico"
+        }
+      ],
+      "framework_internal_structure": [
+        "Eje vertical: aceptación / rechazo de la jerarquía (locus de autoridad interno vs externo)",
+        "Eje horizontal: fundamentalismo moral vs relativismo (rigidez vs adaptación contextual de la norma)",
+        "Correlatos neuropsicológicos: amígdala (derecha), córtex cingulado anterior (izquierda), área tegmental ventral (arriba), corteza orbitofrontal (centro-arriba)",
+        "Razonamiento motivado y construcción moral como respuesta emocional con sustrato cerebral",
+        "Cuatro cuadrantes prototípicos con casos: arriba-derecha (católico conservador), abajo-derecha (Rallo, ancap), abajo-izquierda (hippies, anarquistas), arriba-izquierda (totalitarios)",
+        "Distinción autoritario / totalitario por presencia o ausencia de fundamento moral previo (Dios, derecho natural)",
+        "Aplicación operativa: ubicación de figuras públicas y youtubers como test del modelo"
+      ],
+      "minutes_sustained": 72,
+      "domain_guess": "social.psychology.cognitive",
+      "related_existing_pages": [
+        "consumismo-critica",
+        "collective-unconscious"
+      ],
+      "requires_human_validation": false,
+      "rationale": "Cumple los tres criterios del gate de auto-promoción §2.4.1: minutes_sustained=72 (>=30), speaker_authorship_marks=4 (>=3, incluye thesis_marker en el propio título 'Diagrama de Proxy', internal_structure explícita 'dos ejes', pedagogic_register sostenido en resumen final 51:18, e internal_structure adicional sobre correlato neuropsicológico de la conducta), framework_internal_structure=7 piezas articuladas (>=4). El vídeo es monográfico, marca foundational del canal: articula su propia clasificación moral-política con correlato neurocientífico aplicado. Es un objeto enciclopédico claro del canal que no encaja en ninguna page existente ni se reduce a 'concept' (es un marco propio sistémico)."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Diagrama de Nolan",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "El speaker invoca el diagrama de Nolan solo como contraste para presentar el suyo y criticar sus tests. No hay análisis sustantivo del diagrama de Nolan en sí mismo; es referencia comparativa.",
+      "quote_evidence": "El diagrama de Nolan ubica a las personas en dos ejes: económico (izquierda-derecha) y autoritario-libertario,\n  - Los tests que determinan la posición son deficientes porque las preguntas contienen declaraciones morales implícitas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "técnica BOLD (Blood Oxygen Level Dependent)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Técnica de neuroimagen estándar invocada como sustento empírico del modelo. Per scope.md §1.2: ningún concepto neurocientífico/cognitivo se promueve como página autónoma; las pages son del canal, no de la disciplina.",
+      "quote_evidence": "La técnica BOLD (Blood Oxygen Level Dependent) mide el consumo de oxígeno en zonas cerebrales para identificar qué neuronas están más activas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "amígdala / córtex cingulado anterior / estriado ventral / área tegmental ventral / corteza orbitofrontal",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Estructuras cerebrales invocadas como correlato empírico de los cuadrantes del diagrama. Per scope.md §1.2 última fila: 'Página autónoma sobre estructura cerebral... → NO'. Su contenido pertenece a la futura página diagrama-de-proxy como evidencia.",
+      "quote_evidence": "Los conservadores muestran alta reactividad en la amígdala (miedos, aversiones) y el estriado ventral (motivaciones positivas),\n  - Los liberales/progresistas activan más el córtex cingulado anterior, que identifica contradicciones morales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Pablo Iglesias",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo del cuadrante abajo-izquierda relativista del diagrama. Per scope.md §3.2 ejemplo explícito: 'Pablo Iglesias en cuadrante izquierda-relativismo del diagrama de Proxy → IN — passing_mention enriquece diagrama-de-proxy'. Como diagrama-de-proxy se crea en este mismo vídeo vía thesis_candidate, el caso entrará naturalmente en su construcción.",
+      "quote_evidence": "Pablo Iglesias se ubica a la izquierda tendiendo al relativismo, desplazándose arriba o abajo según le conviene",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Juan Ramón Rallo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo del cuadrante abajo-derecha (libertario propietarista). Pertenece al cuerpo de la futura página diagrama-de-proxy como caso prototípico, no a página autónoma.",
+      "quote_evidence": "Juan Ramón Rallo: defiende fundamentos como vida, libertad y propiedad, pero como protección contra imposición externa — se ubica abajo a la derecha",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Miguelanxo Bastos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo del cuadrante derecha moderada (cristiano-conservador con derecho natural). Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "Miguelanxo Bastos se ubica a la derecha moderada: poco autoritario, cree en el derecho natural, se autoidentifica cristiano y conservador",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Roberto Baquero",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo del cuadrante totalitario (eleva norma sobre fundamento). Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "Roberto Baquero eleva lo totalitario si es necesario para proteger el estado, sin importar si el fundamento es natural o construido",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Abismo Filosófico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Youtuber ubicado en el diagrama como caso. Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "Abismo Filosófico se ubica abajo a la izquierda, aunque su tendencia al constructo filosófico dificulta identificar sus intuiciones morales reales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Éxito y Jota",
+      "reason_code": "passing_mention",
+      "reason_detail": "Youtubers ubicados en el diagrama como caso. Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "Éxito y Jota se ubican en la parte inferior izquierda",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "H (youtuber)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Youtuber ubicado en el diagrama. Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "H (youtuber) tiene locus externo de autoridad y se ubica abajo aunque cree estar más a la derecha",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "La Gata de Schrödinger",
+      "reason_code": "passing_mention",
+      "reason_detail": "Youtuber ubicada en el diagrama. Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "La Gata de Schrödinger está claramente abajo y a la izquierda, aunque ella se autodenomina de izquierda se ubica más extrema de lo que cree",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Joan Planas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Youtuber ubicado en el diagrama. Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "Joan Planas tiene locus externo de autoridad pero exige fundamentos, se ubica arriba a la izquierda",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "El Xokas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Youtuber ubicado en el diagrama. Pertenece a diagrama-de-proxy.",
+      "quote_evidence": "El Xokas se ubica cercano a la zona de Proxy, arriba a la derecha moderado, aunque a veces sorprende desplazándose",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Gisbert y Experto en Igualdad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Youtubers ubicados en el diagrama. Pertenecen a diagrama-de-proxy.",
+      "quote_evidence": "Gisbert y Experto en Igualdad comparten zona: alergia visceral a la norma pero con exigencia de coherencia absoluta",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Hitler / Mein Kampf",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo de migración a totalitarismo en el diagrama y de proyección narcisista patológica. Per scope.md §3.2 ejemplo explícito: 'Hitler como caso de proyección narcisista patológica → IN — passing_mention enriquece concepto de proyección'. Como no existe página de proyección y la sombra-archetype es el contenedor más cercano, enriquece diagrama-de-proxy donde se desarrolla el caso (estructura migratoria del cuadrante).",
+      "quote_evidence": "El señor del \"bigote gracioso\" empezó con argumentos morales fuertes (derecha) pero terminó sometiendo toda moral a la norma del régimen (arriba izquierda),\n  - \"La raza superior\" como constructo es estructuralmente equivalente a \"la revolución\" como constructo,\n  - El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares",
+      "review_priority": "medium",
+      "review_priority_reason": "El paralelismo Hitler/Beauvoir como estructuras proyectivas patológicas equivalentes es una tesis psicológica fuerte del canal que podría merecer su propio desarrollo si recurre en otros vídeos. Vigilar futuras menciones para evaluar promoción a página de 'proyeccion-narcisista' o concepto similar.",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Simone de Beauvoir / El Segundo Sexo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo de proyección narcisista patológica paralela a Hitler. Per scope.md §3.2: análisis psicológico estructural → IN como passing_mention. Pertenece a la sección donde diagrama-de-proxy desarrolla el caso de migración totalitaria.",
+      "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,\n  - Ambos libros son ejemplos magistrales de estructuras proyectivas patológicas si se psicoanalizan sus autores",
+      "review_priority": "medium",
+      "review_priority_reason": "Lectura sostenida del feminismo de Beauvoir como estructura proyectiva — podría conectar con futuras pages sobre 'feminismo como mito impropio' (mencionado en scope.md §3.2 como caso IN).",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "alineamiento legal-caótico de Dungeons & Dragons",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comparación lúdica al final del vídeo entre el eje vertical del diagrama y el eje legal-caótico de D&D. Mención puntual sin desarrollo.",
+      "quote_evidence": "El eje legal-caótico de los alineamientos de rol podría mapearse al eje de autoridad-jerarquía del diagrama,\n  - \"Caótico\" encajaría en el lado de rechazo a la jerarquía y \"legal\" en el lado de aceptación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "\"lo personal es político\" como estrategia de marketing político",
+      "reason_code": "already_captured",
+      "reason_detail": "El bloque 01:50 del vídeo ya está citado literalmente en consumismo-critica.md línea 106 con timestamp idéntico (\"Diagrama de Proxy: izquierdas y derechas, 01:50\"). La prosa que despliega política como marketing y estado del bienestar generando problemas artificiales ya está integrada. No hay material nuevo que añadir; añadir otra cita del mismo bloque sería duplicado, no enriquecimiento de cobertura.",
+      "quote_evidence": "La frase \"lo personal es político\" se ha convertido en un mecanismo para politizar todos los ámbitos de la vida personal,\n  - En un estado del bienestar hay pocos motivos reales para hacer política, así que los partidos crean problemas artificiales para captar votos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 18,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T23:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

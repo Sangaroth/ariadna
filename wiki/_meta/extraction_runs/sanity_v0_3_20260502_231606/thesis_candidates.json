@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "run_id": "sanity_v0_3_20260502_231606",
+  "items": [
+    {
+      "from_video": "e3Aj775Rlw4",
+      "from_video_title": "El Gólem de Cobre",
+      "auto_promoted": true,
+      "thesis": {
+        "thesis_title_proposed": "Cognición humana vs IA: el modelo del canal sobre la mente como grafo no-máquina",
+        "proposed_page_id": "golem-de-cobre",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Describimos la mente humana con metáforas informáticas (memoria, interfaz, programas) y eso es un error,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Ni la IA es inteligencia ni la inteligencia humana funciona como creemos,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Todo pensamiento tiene tres componentes: imaginaria (forma, color, imagen), formal (lógica, gramática, sintaxis) y afectiva (emociones, significación),"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La cognición se divide en percepción, atención y memoria,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La memoria episódica (vivencias), procedural (cómo se hacen las cosas) y semántica (palabras, relaciones lógicas) son procesos distintos,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Las ciencias cognitivas estudian los campos científico-técnicos que permiten entender cómo comprendemos y nos relacionamos con el mundo,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "La metáfora es la herramienta central para divulgar sobre cognición,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Tres tipos de IA: débil (algoritmo monotarea), fuerte (algoritmo multicampo aún inexistente), singular (ciencia ficción de conciencia máquina autónoma)",
+          "Cognición articulada en tres procesos: percepción, atención, memoria",
+          "Atención como doble filtro bottom-up (10-20% de selección) y top-down (inhibición para reconstruir mentalmente)",
+          "Tríada representacional: componente imaginaria (forma/color/imagen), formal (lógica/gramática/sintaxis) y afectiva (emociones/significación)",
+          "Mente como grafo tridimensional con tres redes superpuestas (afectiva, gramatical, imaginaria) — cada pensamiento es matriz puntual de neuronas",
+          "Memoria como reconstrucción continua sin locus, no como almacén — cada evocación modifica el recuerdo",
+          "Hipocampo como índice dinámico (cajón de fichas) no como almacén — circuitos de reordenamiento, no lugares de almacenamiento",
+          "Módulos de memoria: episódica, procedural, semántica y afectiva como procesos distintos",
+          "Trauma como componente afectiva fijada con confabulación visual y formal",
+          "Creatividad como recombinación de fragmentos, no creación ex nihilo — paralelismo con procesos psicóticos por desinhibición dopamínica",
+          "Masculino y femenino como formas cognitivas complementarias (semántico-procedural vs contextual) presentes en ambos sexos en proporciones distintas",
+          "Tecnología como homogeneizador cultural — el control no es de la IA sino de quien la diseña y vende"
+        ],
+        "minutes_sustained": 75,
+        "domain_guess": "social.psychology.cognitive",
+        "related_existing_pages": [
+          "collective-unconscious",
+          "clases-ancestrales",
+          "anima-archetype",
+          "consumismo-critica"
+        ],
+        "requires_human_validation": false,
+        "rationale": "Cumple gate auto-promoción §2.4.1: minutes_sustained=75 (>=30, vídeo monográfico de 81 min sostenido sobre la tesis cognitiva) AND speaker_authorship_marks=7 (>=3, incluye declared_thesis + internal_structure múltiples + pedagogic_register sostenido) AND framework_internal_structure=12 piezas (>=4, sistema articulado con sub-conceptos que dependen entre sí). El canal articula su propio modelo cognitivo — no expone psicología cognitiva canon ni analiza una obra ajena. Pilar declarado del canal (psicología cognitiva + neurociencia, scope §1.2 dominio condicionado activado por marco aplicado propio). Mismo patrón que el ejemplo explícito en scope.md ('golem-de-cobre 81 min sobre cognición humana vs IA' como caso paradigmático del gate)."
+      }
+    }
+  ]
+}
