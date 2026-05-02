@@ -1,0 +1,677 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b026",
+  "generated_at": "2026-05-02T10:07:00+00:00",
+  "entities": {
+    "dualismo-mente-cuerpo": {
+      "canonical_name": "dualismo mente-cuerpo en psiquiatría",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "central_thesis",
+          "minutes": 30,
+          "framing_marks_count": 4,
+          "decision": "promote_new",
+          "decision_reason": "Tema filosófico central del bloque antipsiquiatría (~30 min sostenidos). Articula con precisión la doble distinción (sustancial vs formal/analítico) + el problema de la hipóstasis + la posición del canal (rechaza dualismo sustancial pero mantiene psique como categoría operativa). Cumple §2.1 'Monográfico' (≥10 min) y 'Framing-mark'. Página esperada en humanities.philosophy del wiki.",
+          "quote_evidence": "Dualismo sustancial: la mente es una sustancia y el cuerpo otra (el fantasma en la máquina) — rechazado de plano,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 30,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "psicosis": {
+      "canonical_name": "psicosis (vs trastorno de personalidad)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Distinción clínica precisa con framing canal-canónico (psicosis = problema cognitivo, no perceptivo + desconexión, no error de interpretación). ~8 min con definición operativa de ambos polos (psicosis y trastorno de personalidad como concepto contraste). Cumple §2.1 'Framing-mark' y 'Channel-canonical'. La distinción aparece también en otros vídeos del canal sobre psicopatología (esquizofrenia, etc.).",
+          "quote_evidence": "La psicosis no es un error en la interpretación de la realidad sino una desconexión de la realidad: lo que hay dentro de la cabeza del psicótico no existe,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tres-causas-sufrimiento-mental": {
+      "canonical_name": "tres causas del sufrimiento mental",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Tipología articulada (orgánica + exógena + psíquica) que el canal usa como respuesta integradora al debate dualismo/conductismo. ~5 min con definiciones precisas y consecuencia teórica: el componente psíquico implica algún grado de agencia. Cumple §2.1 'Framing-mark' (marco aplicado declarado) y 'Channel-canonical' (formulación de Marín Caballero adoptada y reformulada por el canal).",
+          "quote_evidence": "Causa orgánica: déficits en metabolitos neurobiológicos (la base biológica heredada),"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "realismo-cognitivo": {
+      "canonical_name": "realismo cognitivo (aplicado a psiquiatría)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "central_thesis",
+          "minutes": 25,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Reaparición sustantiva (~25 min) del marco como resolución al debate dualismo/conductismo y a la 'hipóstasis' progresista que separa psique de mundo material. Vídeo previo (BdVsvhTWWew, álgebra afectiva) ya lo articulaba como 'tesis central'. Aquí se aplica concretamente a la teoría de la mente en psiquiatría — al menos 2 vídeos confirmados con tratamiento sustantivo. Cumple §2.1 'Recurrencia' y 'Framing-mark'. Si ya hay propuesta abierta en pending_updates desde batch anterior, este chunk se integra/enriquece esa página.",
+          "quote_evidence": "El realismo cognitivo no necesita la dicotomía mente-cuerpo porque trabaja con la noesis como cuestión filosófica, no médica,"
+        },
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "Tercera aparición sustantiva del marco en los batches recientes (álgebra afectiva, dualismo mente-cuerpo, ahora qué es un símbolo). Aquí se articula como respuesta al bucle filosofía↔teoría-de-la-mente: 'la cognición es parte de la realidad con sustrato físico material y entrópico'. Cumple §2.1 'Recurrencia' (≥3 vídeos confirmados con tratamiento sustantivo) y 'Framing-mark'. Si ya hay propuesta abierta en pending_updates desde batches anteriores, este chunk se integra/enriquece. Aporte nuevo aquí: la formulación 'sustrato físico material y entrópico' precisa la dimensión termodinámica/entrópica del realismo, dimensión no presente en formulaciones anteriores.",
+          "quote_evidence": "Ese bucle se cierra con el realismo cognitivo: la cognición es parte de la realidad con sustrato físico material y entrópico,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 33,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "viaje-heroe": {
+      "canonical_name": "viaje del héroe / camino del héroe",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "viaje-heroe figura en canonical_whitelist.json:channel_specific_concepts con auto_promote: true, reason 'marco operativo del canal para articular individuación, recurrente en muchos análisis de obra'. Este vídeo aporta tratamiento sustantivo (~5 min, supera umbral de 3 min para auto-promoción): definición operativa de la apoteosis mitológica + función práctica del marco (qué hacer cuando falta motivación) + criterio de heroicidad (hacer aquello a lo que se está llamado). Promueve directamente sin pasar por umbrales cuantitativos según política de whitelist.",
+          "quote_evidence": "La apoteosis mitológica es el momento en que todas tus virtudes sirven exactamente para combatir el mal que tienes enfrente y solo te falta voluntad y valor,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "emdr-terapia": {
+      "canonical_name": "EMDR",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "Defensa breve (~4 min) del EMDR contra acusaciones de pseudocientificismo. Marco terapéutico ya conocido fuera del canal, no canal-coined. Sub-contenido natural de un eventual 'terapia y reelaboración episódica'. Mentions_index hasta confirmar tratamiento sustantivo en otro vídeo. Aparece también referenciado en anima-archetype (sección Magia y Trauma) como estructura analógica al rapto mítico — connectivity emergente.",
+          "quote_evidence": "Si el EMDR funciona pero no sabemos exactamente por qué, eso no significa que sea una tomadura de pelo ni que carezca de base científica,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mentalidad-casa-polaris": {
+      "canonical_name": "mentalidad casa de Polaris",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Referencia explícita a un concepto del libro Polaris del propio canal (pensamiento femenino como 'contextos' vs masculino como 'objetos'). Mención de pasada (~2 min). Probablemente desarrollado en el monográfico Polaris (referenciado en anima-archetype). Mentions_index hasta agregar más chunks que justifiquen página propia o update específico a anima-archetype.",
+          "quote_evidence": "Lo que una mujer quiere es inefable porque sus afectos son complejos de explicitar: piensan en contextos, no en objetos (mentalidad casa de Polaris),"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "marin-caballero-jose-luis": {
+      "canonical_name": "José Luis Marín Caballero",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Atribución única de una insight ('qué te ha pasado' vs 'qué te pasa') que el canal incorpora a su tipología tres-causas-sufrimiento-mental. Sin tratamiento sustantivo del autor. No cumple §2.2 (no hay ≥10 min sustantivo, no recurrente, no whitelist). Pasa a discard_log como passing_mention; reconsiderar si reaparece en otros vídeos.",
+          "quote_evidence": "El psiquiatra José Luis Marín Caballero propone que la pregunta no es \"qué te pasa\" sino \"qué te ha pasado\": tu ansiedad de hoy comenzó el día que tus padres se conocieron,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "crítica antipsiquiatría conductista (hombre de paja)": {
+      "canonical_name": "crítica antipsiquiatría conductista (hombre de paja)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Estos discursos antipsiquiátricos no desmontan un paradigma erróneo real sino que construyen un hombre de paja,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "crisis de pareja contemporánea (vacío neurótico vs complementación)": {
+      "canonical_name": "crisis de pareja contemporánea (vacío neurótico vs complementación)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las mujeres perciben que los hombres no les transmiten seguridad ni firmeza, pero confunden su vacío neurótico personal con la necesidad natural de complementación en pareja,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "feminidad vaciada / dominio arrebatado al varón": {
+      "canonical_name": "feminidad vaciada / dominio arrebatado al varón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Las mujeres se empeñan en ser algo que no son: creen que su destino es idéntico al de los hombres y que si no lo son es porque no les dejan,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "antidepresivos / ISRS y debate serotonérgico": {
+      "canonical_name": "antidepresivos / ISRS y debate serotonérgico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La depresión no es tristeza sino falta de motivación; la tristeza es una forma de ansiedad/angustia,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "doctora conductista invitada (anónima)": {
+      "canonical_name": "doctora conductista invitada (anónima)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Se presenta a una doctora conductista con un discurso rompedor sobre la psiquiatría y a un psiquiatra con posiciones similares pero más moderadas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "simbolo-realismo-cognitivo": {
+      "canonical_name": "símbolo (en realismo cognitivo)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "central_thesis",
+          "minutes": 20,
+          "framing_marks_count": 4,
+          "decision": "promote_new",
+          "decision_reason": "Tema central del vídeo y razón explícita del título ('¿Qué es un símbolo?'). Definición formal canal-canónica + tipología (gráfico imaginario, matemático imaginario-formal, somático = palabra) + tesis radical ('todo lo percibido es símbolo de algo al tener significación'). ~20 min sostenidos como punto de cierre de la cadena argumentativa. Cumple §2.1 'Monográfico' (≥10 min) y 'Framing-mark' (definición formal declarada). Página esperada en interdisciplinary.semiotics como hub de los wikilinks futuros desde análisis de obra.",
+          "quote_evidence": "Un símbolo es el evento noético por el que una representación simple (normalmente gráfica) refiere e induce otra representación más compleja, abstracta o implícita,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 20,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "parasito-mental": {
+      "canonical_name": "parásito mental / deproyección / gnosis mercurial",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "central_thesis",
+          "minutes": 35,
+          "framing_marks_count": 5,
+          "decision": "promote_new",
+          "decision_reason": "Articulación canal-canónica de un dispositivo terapéutico-conceptual original (~35 min) que integra: metáfora mágica del parásito mental, anatomía del bucle patológico obsesivo (autoperpetuante por identificación proyectiva), técnica de deproyección como contraplay, y procedimiento concreto (gnosis mercurial). Trabajo terapéutico real con Exit como contexto. Cumple §2.1 'Monográfico' (>>10 min), 'Framing-mark' (marco declarado y aplicado) y 'Channel-canonical' (terminología propia: parásito mental, deproyección, gnosis azul/mercurial del grimorio del canal). Pieza distintiva del aparato del canal que dialoga con realismo cognitivo (la representación ideal indestructible por sobresimplificación) y con la articulación viaje-astral del grimorio.",
+          "quote_evidence": "Propone la metáfora del \"parásito mental\": una entidad que introduce pensamientos intrusivos y se alimenta de las emociones que estos generan,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 35,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "noesis": {
+      "canonical_name": "noesis / matriz noética",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "central_thesis",
+          "minutes": 30,
+          "framing_marks_count": 5,
+          "decision": "promote_new",
+          "decision_reason": "Concepto-pivote del aparato del canal articulado aquí con su definición operativa más precisa (~30 min). La noesis aparece como término en múltiples vídeos previos (álgebra afectiva, viaje astral, dualismo mente-cuerpo) y aquí recibe tratamiento sistemático: matriz que se resintetiza, tres tipos de representación × tres componentes (3Q), límite del metapensamiento explícito (12 bits/seg), aprendizaje asociativo continuo (UAL), reflejo de orientación. Cumple §2.1 'Monográfico' (≥10 min), 'Recurrencia' (≥3 vídeos) y 'Channel-canonical'. Página esperada como hub central de la teoría de la mente del canal.",
+          "quote_evidence": "La noesis (estado mental N) es una gran matriz que se resintetiza continuamente y nunca se repite,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 30,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "filosofia-clasificacion-ideas": {
+      "canonical_name": "filosofía como disciplina de clasificación de ideas",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "secondary",
+          "minutes": 10,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Redefinición canal-canónica de qué ES la filosofía (~10 min), articulada con consecuencia operativa: la filosofía trabaja con ideas (= representaciones lo bastante explícitas para ambigüarse), distinta de psicología (representaciones implícitas) y de teoría de la mente (cognición en general). Cumple §2.1 'Monográfico' (≥10 min) y 'Channel-canonical' (etimología invertida 'filos y sofos' refutada, propuesta propia de redefinición). Página meta-filosófica que sirve de marco para ubicar otros conceptos del aparato (álgebra afectiva, símbolo, noesis).",
+          "quote_evidence": "La filosofía es la disciplina de clasificación de las ideas, y las definiciones son clasificaciones,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "doce-bits-metapensamiento": {
+      "canonical_name": "12 bits por segundo del metapensamiento",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 3,
+          "decision": "mentions_index",
+          "decision_reason": "Dato cuantitativo precisado (~6 min) con consecuencias importantes: limita metapensamiento explícito y refuta metáfora córtex-prefrontal=RAM. Pieza interna de noesis (donde se desarrolla). Mantener en mentions_index hasta confirmar tratamiento sustantivo en otro vídeo o connectivity ≥3. Si se compila noesis, este material se integra como sub-sección.",
+          "quote_evidence": "La metarrepresentación consciente opera a apenas 12 bits por segundo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "lenguaje-compresion": {
+      "canonical_name": "lenguaje como algoritmo de compresión",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "Tesis canal-coined breve (~4 min) sobre función del lenguaje como compresión-de-noesis, no como sustrato del pensamiento. Conecta con la tesis de collective-unconscious 'el lenguaje no determina el pensamiento'. Sub-contenido natural de noesis o de una eventual página sobre lenguaje. Mentions_index hasta connectivity ≥3.",
+          "quote_evidence": "El lenguaje funciona como algoritmo de compresión: transmite mucha información sin requerir proyección mental completa,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ual-aprendizaje-asociativo": {
+      "canonical_name": "UAL (Unlimited Associative Learning)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Concepto académico externo (Eva Jablonka & Simona Ginsburg, ~2019) invocado como marco para la resíntesis noética. ~3 min sin desarrollo monográfico. Sub-contenido de noesis. Pasa a discard_log con flag canonical_external_candidate=true (concepto externo bien establecido en filosofía de la mente que el canal usa repetidamente — verificar si Jablonka/Ginsburg merecen entrada en whitelist como autores).",
+          "quote_evidence": "UAL (Unlimited Associative Learning): creación continua de asociaciones afectivas, imaginarias o gramaticales entre representaciones,"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "ia-no-inteligencia-estocastica": {
+      "canonical_name": "IAs no son inteligencias (proceso estocástico)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 3,
+          "decision": "mentions_index",
+          "decision_reason": "Corolario anti-IA aplicado del aparato del canal (~5 min). Reaparece la tesis ya presente en álgebra afectiva ('máquinas no pueden tener inteligencia sin afectos'), aquí refinada con argumento estocástico ('dado de un trillón de caras'). Sub-contenido natural de noesis o de una página dedicada al debate IA/cognición. Mantener en mentions_index — si reaparece como tesis monográfica en otro vídeo, candidata a página propia 'critica-canal-a-IA' o similar.",
+          "quote_evidence": "Las IAs generativas no generan en sentido creativo: producen píxeles mediante procesos probabilísticos masivos,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "inicio del directo y prueba de sonido": {
+      "canonical_name": "inicio del directo y prueba de sonido",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "metadata_stream",
+          "quote_evidence": "Proxy ajusta el volumen del lofi de fondo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "despersonalización (riesgo de metarrepresentación excesiva)": {
+      "canonical_name": "despersonalización (riesgo de metarrepresentación excesiva)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Si se practica en exceso conduce a la despersonalización: desligar el yo de la idea del yo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "hard problem vs soft problem of consciousness": {
+      "canonical_name": "hard problem vs soft problem of consciousness",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La conciencia es la parte más explícita de la mente; distingue entre hard problem (qué es la conciencia) y soft problem (dónde está),",
+          "review_priority_hint": null
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Exit (psicólogo clínico colaborador)": {
+      "canonical_name": "Exit (psicólogo clínico colaborador)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Describe su trabajo terapéutico con Exit (psicólogo clínico) para tratar pensamientos intrusivos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ambigüación (operación mental)": {
+      "canonical_name": "ambigüación (operación mental)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "eQpPGGqodsU",
+          "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La ambigüación es operar con ideas: compararlas, distinguirlas, modificarlas,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}
