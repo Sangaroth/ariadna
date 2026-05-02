@@ -1,5 +1,9 @@
 # Generación de la Wiki estructurada — pipeline completo
 
+> ⚠️ **Banner de estado 2026-05-02**: la **§4 (Pipeline de generación)** de este documento describe el flujo cold-path original con LLM extractor + JSON intermedio + plantillado. Ese flujo ha sido **superado por el pipeline push-based Karpathy** documentado en [`docs/EXTRACTION_PIPELINE.md`](EXTRACTION_PIPELINE.md), que es la fuente de verdad operativa. El resto de secciones (anatomía de página, frontmatter, relations[], wikilinks, indexación en Qdrant, hot path híbrido) **siguen vigentes** sin modificación.
+>
+> Lee `EXTRACTION_PIPELINE.md` para el flujo de extracción. Lee este documento para anatomía de página + convenciones + indexación.
+
 > Cómo se construye, mantiene y consulta la wiki de conocimiento. La wiki vive en [`wiki/`](../wiki/) en este mismo repo, en markdown, versionada en git, navegable en Obsidian.
 
 ---

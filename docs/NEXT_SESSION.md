@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-04-30 noche (re-indexación wiki + reader actualizado a `relations[]` + índice SQLite derivado `data/wiki.db` + **retrieval indirecto vía citations** operativo, category-blind como la lane semántica + smoke test 8/8 verde)
+> **Última actualización:** 2026-05-02 (pipeline push-based Karpathy "LLM Wiki" implementado: scope.md + canonical_whitelist + extract_video_themes + apply_pending_updates + overnight_run + extract_incremental). Doc maestro operativo: [`docs/EXTRACTION_PIPELINE.md`](EXTRACTION_PIPELINE.md).
 
 ---
 
@@ -13,39 +13,47 @@ Soy el mismo usuario. Continuamos el proyecto Ariadna (servidor MCP de RAG sobre
 corpus YouTube del canal Proxy, integrado con Mattermost via plugin Agents
 v2.0.0-rc6 + ngrok).
 
-Estado al 2026-04-30 (final del día):
+Estado al 2026-05-02:
 - Fase A Sprint 1 CERRADA
-- Wiki estructurada: 11 páginas + grafo TIPADO (relations[] en frontmatter)
-- relation_types.json v2.0.0 con 28 types canónicos + inversos
-- Modo híbrido OPERATIVO en servidor: search_corpus devuelve wiki_pages +
-  raw_chunks + retrieval_metadata. Nueva tool get_wiki_page para cross-ref
-- cite_markdown pre-renderizado en raw_chunks (mitiga bug citeturn del
-  Responses API + plugin Mattermost; arregla parcial — pendiente test final)
-- Línea de cobertura sistemática del corpus diseñada y documentada,
-  pero LATENTE — pausamos hasta evaluar impacto del modo híbrido en
-  queries reales
+- Modo híbrido en MCP OPERATIVO (search_corpus + get_wiki_page + 4 tools)
+- Wiki estructurada: 11 páginas seed + grafo TIPADO (relations[]) + en
+  proceso de barrido sistemático push-based del corpus completo
+- PIPELINE PUSH-BASED KARPATHY IMPLEMENTADO (Sprint 3, 2026-05-02):
+  - 3ª capa: wiki/_meta/scope.md + canonical_whitelist.json
+  - Extractor: scripts/extract_video_themes.py con index slim + Read
+    on-demand sobre páginas wiki relevantes (no inyecta full bodies)
+  - Apply: scripts/apply_pending_updates.py con 4 ops diff-style +
+    anchor literal único + auto-commit
+  - Overnight: scripts/overnight_run.py orquesta lotes de 5 con
+    extract+aggregate+apply+commit+rebuild en loop, stop crítico
+  - Incremental: scripts/extract_incremental.py para vídeos nuevos
+- Validación de quote_evidence con normalización cosmética (markdown
+  italic, comillas curly, em-dash) — no rechaza por formato
 
 ANTES DE HACER NADA, lee en este orden:
 1. docs/NEXT_SESSION.md — este archivo, resumen ejecutivo + próximos pasos
-2. docs/RESPONSE_FLOW.md §10 — schema autoritativo del MCP (vigente desde
-   2026-04-30); los §2.4/3.4/4.4 son ilustración narrativa, no contrato
-3. docs/CORPUS_COVERAGE_STRATEGY.md — el cambio de enfoque para escalar
-   wiki (latente, infraestructura lista)
-4. wiki/_meta/wiki_control.json — registro de páginas compiladas
-5. wiki/_meta/coverage_state.json — estado del pipeline de cobertura
-   (latente; pipeline_state.phase = "not_started")
+2. docs/EXTRACTION_PIPELINE.md — pipeline push-based completo: filosofía,
+   componentes, flujos operativos (cómo añadir autor a whitelist,
+   quitar tema de excluidos, recuperar fails, etc.)
+3. docs/RESPONSE_FLOW.md §10 — schema autoritativo del MCP
+4. wiki/_meta/scope.md — alcance editorial (3ª capa Karpathy)
+5. wiki/_meta/canonical_whitelist.json — figuras canónicas con
+   auto_promote
+6. wiki/_meta/processed_videos.json — registro de vídeos ya ingeridos
 
 Verifica al inicio:
 - Si servidor MCP local sigue vivo (ss -tlnp | grep 8765)
-- Si la wiki está indexada en Qdrant (count debería ser ~6047 = 6036 raw + 11 wiki):
+- Si la wiki está indexada en Qdrant:
     curl -s -X POST http://127.0.0.1:8765/mcp \
       -H 'Content-Type: application/json' \
       -H 'Accept: application/json, text/event-stream' \
       -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"search_corpus","arguments":{"query":"sombra junguiana","top_k":2}}}' \
       | sed -n 's/^data: //p' | python3 -m json.tool | head -30
+- Si hay barrido overnight reciente:
+    cat wiki/_meta/extraction_runs/overnight_*/STATUS.txt | tail -5
+    git log --oneline | head -20
 
 Pregúntame qué línea quiero retomar antes de proponer trabajo nuevo.
-Las opciones están en la sección "Próximas opciones" de docs/NEXT_SESSION.md.
 ```
 
 ---
@@ -55,17 +63,21 @@ Las opciones están en la sección "Próximas opciones" de docs/NEXT_SESSION.md.
 | Componente | Estado | Notas |
 |---|---|---|
 | **Layer 0** RAG dense BGE-M3 + Qdrant | ✅ Producción | 6036 chunks raw |
-| **Layer 1** Wiki markdown | 🟢 11 páginas | 5 piloto + 5 batch 2 + 1 batch 3 (mito-polar) |
-| **Layer 1.5** Wiki vectorizada en Qdrant | ✅ Operativo | 11 wiki_pages, 1 vector focal por página, `source_type=wiki_page` |
-| **Layer 2** Grafo tipado (relations[]) | ✅ NUEVO 2026-04-30 | 71 relaciones tipadas; 0 errores validación; 14 wikilinks rotos como warnings |
-| **Modo híbrido en MCP** | ✅ Operativo | `search_corpus` → `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended` |
-| **Tool get_wiki_page** | ✅ Operativo | Lee `.md` desde filesystem por `page_id` |
-| **cite_markdown en raw_chunks** | 🟡 Parcial | Mitiga citeturn pero plugin sigue mostrando como `citeTitulo (mm:ss)` no clicable |
-| **Ranking determinista** | ✅ Operativo | `scripts/rank_wiki_candidates.py` |
-| **Validador del grafo** | ✅ NUEVO 2026-04-30 | `scripts/validate_wiki_relations.py` (errores + warnings) |
-| **Estrategia cobertura corpus** | 📋 Documentada | Línea B latente, ver §"Próximas opciones" |
+| **Layer 1** Wiki markdown | 🟢 11 páginas seed | 5 piloto + 5 batch 2 + 1 batch 3 (mito-polar). Crece via barrido push-based |
+| **Layer 1.5** Wiki vectorizada en Qdrant | ✅ Operativo | 1 vector focal por página, `source_type=wiki_page` |
+| **Layer 2** Grafo tipado (relations[]) | ✅ Operativo | relation_types.json v2.0.0 con 28 types canónicos + inversos |
+| **Modo híbrido en MCP** | ✅ Operativo | `search_corpus` con 3 lanes (raw semántica, wiki semántica focal, wiki indirecta vía citations) |
+| **Tools MCP** | ✅ 4 tools | search_corpus, get_wiki_page, get_video_summary, list_videos |
+| **3ª capa Karpathy** (scope + whitelist) | ✅ NUEVO 2026-05-02 | scope.md v0.2 + canonical_whitelist.json v0.1 |
+| **Extract pipeline push-based** | ✅ NUEVO 2026-05-02 | extract_video_themes.py con index slim + Read on-demand. Cache cross-call con `--resume` confirmado |
+| **Apply pipeline diff-style** | ✅ NUEVO 2026-05-02 | apply_pending_updates.py con 4 ops + anchor único + auto-commit |
+| **Overnight orchestrator** | ✅ NUEVO 2026-05-02 | overnight_run.py con stop crítico + housekeeping git autónomo |
+| **Incremental wrapper** | ✅ NUEVO 2026-05-02 | extract_incremental.py + processed_videos.json |
+| **Compile pipeline (promote_queue → páginas nuevas)** | ❌ NO implementado | `compile_wiki_pages.py` pendiente. Promote_queue acumula candidatos sin compilar |
+| **Validador del grafo** | ✅ Operativo | `scripts/validate_wiki_relations.py` |
+| **Cross-encoder reranker** | ✅ Operativo | `scripts/rank_wiki_candidates.py` actualizado al contrato hybrid de search_corpus |
 | **Fase C** despliegue Hetzner | ⏸️ Pendiente | Independiente |
-| **Fase D** cold path workers | ⏸️ Diseñado | Prerrequisito para escalar wiki >50 páginas |
+| **Fase D** cold path workers | ✅ Implementado parcialmente | overnight_run.py es la primera versión "cold path". markitdown para multi-formato pendiente |
 
 ---
 

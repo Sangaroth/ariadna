@@ -2,12 +2,12 @@
 
 > Roadmap por capas. Cada fase añade valor independiente y se construye encima de la anterior sin romperla.
 
-## Estado actual: **Fase B en curso** (2026-04-30)
+## Estado actual: **Fase B en barrido sistemático** (2026-05-02)
 
 - **Fase A Sprint 1**: cerrada 2026-04-23 (validación end-to-end en DM con Ariadna).
-- **Fase B**: piloto + escalado parcial — 11 wiki pages compiladas, modo híbrido vivo (3 lanes: raw semántica, wiki semántica focal, wiki indirecta vía citations), índice SQLite derivado en `data/wiki.db`. Pendiente: pipeline de cobertura sistemática (`extract_video_themes.py`, `inventory_summaries.py`) y escalado a las ~280 páginas mínimas estimadas.
+- **Fase B**: 11 wiki pages seed compiladas a mano, modo híbrido vivo (3 lanes: raw semántica, wiki semántica focal, wiki indirecta vía citations), índice SQLite derivado en `data/wiki.db`. **Pipeline push-based Karpathy IMPLEMENTADO 2026-05-02** (scope.md + canonical_whitelist + extract_video_themes + apply_pending_updates + overnight_run). En proceso de barrido sistemático del corpus de 296 vídeos. Pendiente: `compile_wiki_pages.py` para vaciar promote_queue.json a páginas nuevas.
 
-Estado vivo y próximos pasos en [NEXT_SESSION.md](NEXT_SESSION.md).
+Estado vivo y próximos pasos en [NEXT_SESSION.md](NEXT_SESSION.md). Pipeline operativo en [EXTRACTION_PIPELINE.md](EXTRACTION_PIPELINE.md).
 
 ---
 
@@ -92,8 +92,9 @@ Detalle completo del pipeline: [WIKI_GENERATION.md](WIKI_GENERATION.md).
 2. ✅ **Refinamiento de prompt + schema** — ≥3/5 del piloto pasaron validación; schema migrado a `relations[]` tipadas (2026-04-30).
 3. ✅ **Modo híbrido en hot path** — `search_corpus` devuelve wiki + raw + metadata; smoke test 8/8 verde.
 4. ✅ **Índice SQLite derivado + retrieval indirecto vía citations** (2026-04-30).
-5. 🟡 **Escalado** — 11 páginas compiladas; objetivo intermedio ~50 páginas hub. Siguiente palanca: pipeline de cobertura sistemática (ver [CORPUS_COVERAGE_STRATEGY.md](CORPUS_COVERAGE_STRATEGY.md)) que requiere `inventory_summaries.py` + `extract_video_themes.py` (pendientes).
-6. ⏸️ **Loop iterativo continuo** — recompilación selectiva, drift detection. Por activar.
+5. ✅ **Pipeline push-based Karpathy "LLM Wiki"** (2026-05-02) — scope.md + canonical_whitelist + extract pipeline con index slim + Read on-demand + apply diff-style + overnight orchestrator. Sustituye al pull-based del piloto. Detalle en [EXTRACTION_PIPELINE.md](EXTRACTION_PIPELINE.md).
+6. 🟡 **Barrido sistemático en curso** — 296 summaries del corpus se ingieren en lotes overnight. Cada source enriquece páginas existentes y propone candidatos a páginas nuevas. Promote_queue acumula hasta tener `compile_wiki_pages.py` (pendiente).
+7. ⏸️ **Loop iterativo continuo** — drift detection, cross-run aggregator, drilldown sobre transcripts para entidades sospechosas. Por activar.
 
 ### Métrica de éxito
 
@@ -125,6 +126,8 @@ Detalle completo del pipeline: [WIKI_GENERATION.md](WIKI_GENERATION.md).
 ---
 
 ## Fase D — Cold path con voluntarios
+
+> **Estado 2026-05-02**: **parcialmente implementado**. `scripts/overnight_run.py` es la primera versión "cold path" — orquesta lotes sobre la cuota Max del propietario durante la noche. La parte distribuida con voluntarios sigue pendiente, así como la ingesta multi-formato vía markitdown.
 
 **Objetivo:** producción asíncrona de nuevos chunks aprovechando recursos ociosos distribuidos.
 
