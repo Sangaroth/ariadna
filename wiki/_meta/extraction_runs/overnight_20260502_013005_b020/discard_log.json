@@ -1,0 +1,315 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b020",
+  "generated_at": "2026-05-02T08:03:51+00:00",
+  "entities": {
+    "jung-carl-gustav": {
+      "canonical_name": "Jung",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención puntual (~30s) en bloque defensivo frente a apropiación magufa (Emoto, Tesla, Ram Dass). El canal lo etiqueta como 'psiquiatra-místico' al pasar pero no expone material sustantivo sobre Jung. Página ya existe y este pasaje no aporta dimensión nueva. scope.md §2.2 requiere ≥10 min o tratamiento sustantivo para enriquecer.",
+          "quote_evidence": "Un hilo viral mezcla a un magufo (Masaru Emoto), un científico (Tesla), un psiquiatra-místico (Jung) y un gurú (Ram Dass) como si fueran equivalentes"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "el-senor-de-los-anillos": {
+      "canonical_name": "El Señor de los Anillos",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "La obra figura en canonical_whitelist con auto_promote:true, pero la mención aquí es meta — el canal critica la proyección política de un tercero (Fati Martín) sobre la obra, sin exponer su propia lectura arquetípica. Sin tratamiento sustantivo del Tolkien legendarium en este vídeo. scope.md §2.3 exige análisis dedicado o caso central recurrente.",
+          "quote_evidence": "Fati Martín atribuye mensajes antiimperialistas y de empoderamiento femenino a El Señor de los Anillos; Jackson negó explícitamente intención política"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "tolkien-jrr": {
+      "canonical_name": "Tolkien",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "En whitelist con auto_promote:true, pero la mención aquí es indirecta vía LOTR como objeto de proyección freudiana de un tercero. El canal no aplica aquí marco propio sobre Tolkien (mito polar cosmogónico). Sin tratamiento sustantivo. Esperar a vídeos monográficos como Inside Proxy / Silmarillion.",
+          "quote_evidence": "Fati Martín atribuye mensajes antiimperialistas y de empoderamiento femenino a El Señor de los Anillos; Jackson negó explícitamente intención política"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "freud-sigmund": {
+      "canonical_name": "Freud",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": "passing_mention",
+          "minutes": 0,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Mención adjetival aislada ('proyección freudiana pura') sin desarrollo del marco psicoanalítico. En whitelist con auto_promote:true pero la cita no cumple ≥3 min de exposición sustantiva (scope.md §2.2). Pendiente de vídeos donde el canal exponga genealogía Freud→Jung.",
+          "quote_evidence": "Martín argumenta que inconscientemente todo autor vuelca sus ideas políticas, lo cual es proyección freudiana pura"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "Papa Francisco": {
+      "canonical_name": "Papa Francisco",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "⛪ Muerte del Papa Francisco y el progresismo eclesiástico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Daniel Valero": {
+      "canonical_name": "Daniel Valero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "🏳️‍🌈 Desmontaje del discurso de Daniel Valero sobre sexo biológico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Black Lives Matter": {
+      "canonical_name": "Black Lives Matter",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Black Lives Matter tuvo que convertir una cuestión racial en étnica, luego cultural y luego política para encajar en el marco identitario",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tesla": {
+      "canonical_name": "Tesla",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Nadie dijo nunca que Tesla estuviera loco; todo el mundo sabía que era un genio, simplemente no entendían lo que hacía",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Masaru Emoto": {
+      "canonical_name": "Masaru Emoto",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Un hilo viral mezcla a un magufo (Masaru Emoto), un científico (Tesla), un psiquiatra-místico (Jung) y un gurú (Ram Dass) como si fueran equivalentes",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ram Dass": {
+      "canonical_name": "Ram Dass",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Un hilo viral mezcla a un magufo (Masaru Emoto), un científico (Tesla), un psiquiatra-místico (Jung) y un gurú (Ram Dass) como si fueran equivalentes",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Fati Martín": {
+      "canonical_name": "Fati Martín",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Fati Martín atribuye mensajes antiimperialistas y de empoderamiento femenino a El Señor de los Anillos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Peter Jackson": {
+      "canonical_name": "Peter Jackson",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xaFCTcXXI2o",
+          "video_title": "Lunes Asertivo, Sobre el Papa y la IA",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Jackson negó explícitamente intención política",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}
