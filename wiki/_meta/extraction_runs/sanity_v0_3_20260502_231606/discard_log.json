@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "run_id": "sanity_v0_3_20260502_231606",
-  "generated_at": "2026-05-02T21:27:24+00:00",
+  "generated_at": "2026-05-02T21:33:29+00:00",
   "entities": {
     "ChatGPT": {
       "canonical_name": "ChatGPT",
@@ -549,10 +549,70 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "cuento-de-navidad-muppets-1992-film": {
+      "canonical_name": "Cuento de Navidad (Muppets, Henson 1992)",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": "central_thesis",
+          "minutes": 119,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.3: vídeo monográfico de 119 min sobre la obra (≥30 min). Análisis arquetípico aplicado obra-por-obra (estructura cromática, metacuento, espíritus como purgatorios) y caso paradigmático sobre el cual el canal articula su distinción luterano/católico — la obra es el caso operativo del marco",
+          "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 119,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "dickens-charles": {
+      "canonical_name": "Dickens",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "scope.md §2.2: aparece como recurso meta-narrativo (vendedor de manzanas que rompe la cuarta pared) y como autor del relato base, sin exposición sustantiva de su pensamiento ni ≥10 min dedicados. No figura en canonical_whitelist. Se mantiene como mención dentro del análisis de la obra",
+          "quote_evidence": "El vendedor de manzanas se llama a sí mismo Dickens para contarnos un cuento, creando un metacuento"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "diagrama-de-proxy": {
-      "canonical_name": "Diagrama de Proxy",
+      "canonical_name": "diagrama de Proxy",
       "page_type": "concept",
       "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El speaker invoca su propio diagrama y declara que la distinción luterano/católico opera 'debajo' del marco. Es self-reference genealógica que el canal usa como puente entre dos thesis suyas; la página actual no documenta esta conexión",
+          "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
+        },
         {
           "video_id": "wxcSuqipA6s",
           "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
@@ -567,10 +627,479 @@
       "is_canonical_external": false,
       "is_in_whitelist_soft": false,
       "decisions_seen": [
-        "captured_in_thesis_candidate"
+        "captured_in_thesis_candidate",
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 73,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "Scrooge": {
+      "canonical_name": "Scrooge",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "El egoísmo de Scrooge tiene muchísimas metáforas diferentes, lo cual es muy bonito en Dickens",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
       ],
       "occurrences_count": 1,
-      "total_minutes": 72,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Bob Cratchit": {
+      "canonical_name": "Bob Cratchit",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Bob Cratchit es la máxima expresión de dependencia hacia Scrooge pero carece de capacidad de resentimiento",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tiny Tim": {
+      "canonical_name": "Tiny Tim",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Tiny Tim representa personas con muchísimo dolor que son las más positivas del mundo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Marley (los Marley)": {
+      "canonical_name": "Marley (los Marley)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Los Marley son espíritus encadenados al más acá lamentándose por no haber sido buenas personas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Isabel (primer amor de Scrooge)": {
+      "canonical_name": "Isabel (primer amor de Scrooge)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Recordar al primer amor es doloroso porque nunca sanaste la herida de lo que no funcionó",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Disney": {
+      "canonical_name": "Disney",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "catolicismo benedictino": {
+      "canonical_name": "catolicismo benedictino",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "El catolicismo benedictino sostiene que el disfrute te hace olvidar tu condición humana y tu misión espiritual",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "luteranismo / espíritu luterano": {
+      "canonical_name": "luteranismo / espíritu luterano",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo: si te hace sentir bien, será bueno",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "catolicismo": {
+      "canonical_name": "catolicismo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_thesis_candidate",
+          "quote_evidence": "Para los católicos el bien y el mal no tienen que ver con lo que te hace sentir bien o mal, sino con las obras",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mini purgatorios (los tres espíritus)": {
+      "canonical_name": "mini purgatorios (los tres espíritus)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Cada enfrentamiento con tu propio dolor es un mini purgatorio donde comprendes el significado universal de tus malos actos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "emotividad como mecanismo de desbordamiento": {
+      "canonical_name": "emotividad como mecanismo de desbordamiento",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "La emotividad es el mecanismo por el cual todas tus emociones afloran y te desbordan como si te quitaran un tapón",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "aparición / fantasma como recuerdo evocado": {
+      "canonical_name": "aparición / fantasma como recuerdo evocado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Una aparición es un recuerdo evocado que se ve en el exterior; cuando aparece fuera es porque estaba pidiendo salir",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "usura / avaricia": {
+      "canonical_name": "usura / avaricia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "La usura no se demoniza por el lucro sino por la crueldad de priorizar el beneficio propio olvidando la condición de los demás",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "código cromático cálido/frío": {
+      "canonical_name": "código cromático cálido/frío",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Los integrados en la comunidad están rodeados de colores cálidos siempre; los solitarios de colores fríos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "metacuento / cuarta pared": {
+      "canonical_name": "metacuento / cuarta pared",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "El vendedor de manzanas se llama a sí mismo Dickens para contarnos un cuento, creando un metacuento",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "definición de buena persona": {
+      "canonical_name": "definición de buena persona",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Una buena persona es aquella cuyo interior, al salir al exterior, es capaz de producir y sentir más simpatía que odio",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "aprendizaje por contraste / por ausencia": {
+      "canonical_name": "aprendizaje por contraste / por ausencia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "Scrooge aprende todo por contraste: comprende lo bueno que es el amor cuando le hacen ver lo que ha perdido",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "dilema determinismo (sombras de lo que puede ser vs lo que será)": {
+      "canonical_name": "dilema determinismo (sombras de lo que puede ser vs lo que será)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "s0MkondMt1o",
+          "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "captured_in_promote_new",
+          "quote_evidence": "La muerte no le dice si el futuro es evitable o inevitable: la conversión tiene que salir de uno mismo para que valga",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
       "review_priority": "low",
       "review_priority_reason": null
     },

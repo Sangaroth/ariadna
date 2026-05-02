@@ -21,6 +21,30 @@
         "rationale": "cita-only — la sección 'Polaridad como eje, no como género biológico' de la página ya documenta la polaridad masculino/femenino como eje cognitivo (concreto/abstracto, explícito/implícito). El Gólem añade una traducción al vocabulario de módulos de memoria (semántico/procedural vs contextual) durante ~3 min — matiz menor en prosa, pero el timestamp es valioso para retrieval indirecto del bloque cognitivo donde el canal vuelve a articular la complementariedad arquetípica.",
         "editorial_intent": "enrich"
       }
+    },
+    {
+      "from_video": "s0MkondMt1o",
+      "from_video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+      "update": {
+        "page_id": "diagrama-de-proxy",
+        "update_type": "insert_after_passage",
+        "anchor_passage": "- [[jung-carl-gustav]] — el diagrama funciona como **tipología propia** del canal: clasifica orientaciones psíquicas estables con correlato profundo, en paralelo funcional (no de contenido) a las tipologías junguianas clásicas.",
+        "section_target": null,
+        "content_proposed": "- [[marco-luterano-catolico]] — el canal ubica una distinción moral-religiosa **debajo** del diagrama: el luteranismo sitúa el centro del valor en la vivencia interior positiva (\"si te hace sentir bien, será bueno\"); el catolicismo, en las obras. La distinción opera como sustrato cosmovisivo de las posiciones que el diagrama clasifica y prefigura su extensión hacia un eje moral-religioso explícito.\n\n> \"La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos (29:49)](https://youtu.be/s0MkondMt1o?t=1789)",
+        "supersedes_laguna_text": null,
+        "wikilinks_introduced": [
+          "marco-luterano-catolico"
+        ],
+        "citations_added": [
+          {
+            "video_id": "s0MkondMt1o",
+            "timestamp_seconds": 1789,
+            "cite_markdown": "[Cuento de Navidad y el espíritu Luterano con teleñecos (29:49)](https://youtu.be/s0MkondMt1o?t=1789)"
+          }
+        ],
+        "rationale": "Material genuinamente nuevo: la página actual conecta con consumismo-critica, collective-unconscious y jung, pero NO documenta el sustrato moral-religioso luterano/católico que el speaker explícitamente sitúa 'debajo' del diagrama. Es self-reference genealógica donde el canal conecta dos thesis suyas — la añadidura preserva la trazabilidad del grafo y deja un wikilink hacia el thesis_candidate marco-luterano-catolico que queda en cola de validación humana",
+        "editorial_intent": "extend"
+      }
     }
   ]
 }

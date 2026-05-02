@@ -1,5 +1,35 @@
 {
   "version": "0.1.0",
   "run_id": "sanity_v0_3_20260502_231606",
-  "items": []
+  "items": [
+    {
+      "canonical_guess": "cuento-de-navidad-muppets-1992-film",
+      "from_video": "s0MkondMt1o",
+      "entity": {
+        "surface_form": "Cuento de Navidad (Muppets, Henson 1992)",
+        "canonical_guess": "cuento-de-navidad-muppets-1992-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 119,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo: si te hace sentir bien, será bueno"
+          },
+          {
+            "mark_type": "self_referenced_origin",
+            "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 119 min sobre la obra (≥30 min). Análisis arquetípico aplicado obra-por-obra (estructura cromática, metacuento, espíritus como purgatorios) y caso paradigmático sobre el cual el canal articula su distinción luterano/católico — la obra es el caso operativo del marco",
+        "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno"
+      }
+    }
+  ]
 }

@@ -67,6 +67,60 @@
       }
     },
     {
+      "from_video": "s0MkondMt1o",
+      "from_video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+      "auto_promoted": false,
+      "thesis": {
+        "thesis_title_proposed": "Marco luterano vs católico: dos cosmovisiones de la bondad, el disfrute y la celebración",
+        "proposed_page_id": "marco-luterano-catolico",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo: si te hace sentir bien, será bueno"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Para los católicos el bien y el mal no tienen que ver con lo que te hace sentir bien o mal, sino con las obras"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "El católico dice que con suficientes buenas obras terminarás sintiéndote permanentemente bien; el luterano prioriza la vivencia interior"
+          },
+          {
+            "mark_type": "genealogical_self_reference",
+            "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Para los luteranos el enamoramiento y los afectos físicos son el motor del amor en pareja"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El luteranismo es muchísimo más individualista que el catolicismo"
+          }
+        ],
+        "framework_internal_structure": [
+          "Centro del valor: vivencia interior positiva (luterano) vs obras y pacto (católico)",
+          "Disfrute: glorificación que enriquece el alma (luterano) vs distracción de la condición humana y misión espiritual (catolicismo benedictino)",
+          "Espíritu navideño: bienestar material santificado un día al año (luterano) vs Navidad llevada todos los días (católico)",
+          "Matrimonio: enamoramiento y afectos físicos como motor (luterano) vs obra matrimonial / pacto sagrado de compañeros de vida (católico)",
+          "Hedonismo socialmente aceptable: el fantasma de la Navidad presente como gordo-feliz que come y ríe (estereotipo protestante no-malo)",
+          "Estructura del grupo: individualismo luterano vs familismo católico (la familia como unidad mínima de vínculos inevitables)",
+          "Conexión genealógica con el diagrama de Proxy: la distinción opera 'debajo' del diagrama como sustrato cosmovisivo"
+        ],
+        "minutes_sustained": 28,
+        "domain_guess": "humanities.religion",
+        "related_existing_pages": [
+          "diagrama-de-proxy",
+          "consumismo-critica",
+          "individuation"
+        ],
+        "requires_human_validation": true,
+        "rationale": "scope.md §2.4.1: 6+ piezas internas explícitas y articuladas comparativamente, 6 marcas de autoría detectadas (internal_structure repetido + pedagogic_register sostenido + genealogical_self_reference al diagrama de Proxy), exposición sostenida ~28 min interleaved con análisis de obra (29:49–50:06 + 1:25:58–1:29:29 + 1:55:22–1:58:23). NO cumple gate de auto-promoción completo: minutes_sustained estimado <30 y falta thesis_marker explícito ('mi tesis'/'propongo' no aparecen literal en summary). Queda en cola para validación humana — la tesis es articulación moral-religiosa del canal con ramificación a varios pages existentes y conecta explícitamente con el diagrama de Proxy"
+      }
+    },
+    {
       "from_video": "wxcSuqipA6s",
       "from_video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
       "auto_promoted": true,

@@ -1,0 +1,585 @@
+{
+  "video_id": "IytpR6sGWXg",
+  "video_title": "Biblioteca de Babel II",
+  "playlist": "_sin_playlist",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "Joseph Campbell",
+      "canonical_guess": "campbell-joseph",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1.5,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Para comprender arquetipos es mejor leer a Campbell que a Jung, porque Jung tiene una complejidad innecesaria para ese propósito,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §4 + canonical_whitelist auto_promote=true. El speaker articula la tesis central de Campbell (monomito como base de la relación mitología-psique), lo posiciona explícitamente por encima de Jung para la comprensión arquetípica, y lo cita en la síntesis final como uno de los cuatro autores fundamentales del canal en este dominio. Además, viaje-heroe.md ya declara relations developed_by→campbell-joseph (target hoy roto): la promoción cierra ese wikilink pendiente.",
+      "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,"
+    },
+    {
+      "surface_form": "Mircea Eliade",
+      "canonical_guess": "eliade-mircea",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1.0,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las narrativas culturales no son solo una solución colectiva para la convivencia, sino una necesidad de la psique individual para el mantenimiento de la cordura,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Habla de la estructura arquetípica incluida en los mitos y la capacidad de la psique para la elaboración del mito,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §4 + canonical_whitelist auto_promote=true. El speaker no se limita a recomendar a Eliade bibliográficamente sino que articula su tesis específica (el impulso mítico como necesidad psíquica individual, no solo solución colectiva), lo posiciona como más accesible que Campbell, y lo cita en la síntesis final como uno de los cuatro autores fundamentales. Página esperada en cualquier corpus que trate mitología comparada.",
+      "quote_evidence": "Las narrativas culturales no son solo una solución colectiva para la convivencia, sino una necesidad de la psique individual para el mantenimiento de la cordura,"
+    },
+    {
+      "surface_form": "James George Frazer",
+      "canonical_guess": "frazer-james-george",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1.5,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "es importantísimo para comprender cómo funciona el pensamiento poético,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Frazer postula una teoría sobre la relación entre magia, religión y el mito herculeo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En Frazer se ve cómo funciona intuitivamente la estructura arquetípica de la psique humana,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §4 — whitelist soft (frazer-james-george). El gate ANY-OF requiere ≥1 criterio adicional sobre la mera presencia en whitelist: aquí el speaker articula la tesis específica de Frazer (relación magia/religión/mito herculeo), declara su importancia foundational para el pensamiento poético del canal y le atribuye revelación intuitiva de la estructura arquetípica. Eso satisface 'foundational citation' del gate §2.2. Es el antecesor obligado de Campbell y Eliade en mitología comparada.",
+      "quote_evidence": "Frazer postula una teoría sobre la relación entre magia, religión y el mito herculeo,"
+    },
+    {
+      "surface_form": "tarot",
+      "canonical_guess": "tarot-arquetipico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2.0,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El tarot son plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Es importante estudiarlo como sistema de elaboración proyectiva y de significado universal, no como magia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los oráculos (tarot, I Ching) son herramientas de interpretación proyectiva donde la mente no puede evitar proyectar sobre los arquetipos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §4 — whitelist soft (tarot-arquetipico). El gate ANY-OF se satisface con: (a) framing-mark explícito que define el tarot como plasmación visual de arquetipos no como magia, (b) articulación de mecanismo proyectivo (extiende la lectura a I Ching como categoría 'oráculos'), (c) un libro entero ('Jung y el tarot') recomendado expresamente para fijar la lectura junguiana del tarot. Suma exposición sostenida ~2 min con marco propio aplicado, no exposición técnica neutra.",
+      "quote_evidence": "El tarot son plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias,"
+    },
+    {
+      "surface_form": "Lovecraft",
+      "canonical_guess": "lovecraft-howard",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1.0,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "No es estrictamente semiótica pero es absolutamente imprescindible para introducirse en la naturaleza del imaginario humano,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "discard",
+      "decision_reason": "Página lovecraft-howard.md ya existe y ya cita literalmente este vídeo (líneas 59-60 y 134, citation list línea 168) con la frase de Valdemar y la mención de Bloodborne como reelaboración. Sin material nuevo que añadir.",
+      "quote_evidence": "No es estrictamente semiótica pero es absolutamente imprescindible para introducirse en la naturaleza del imaginario humano,"
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Mapas de sentido (Peterson)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual recomendado por el speaker como tratado fundacional de semiótica que junta psicología clínica con simbología y mitología. No análisis aplicado de la obra. Lane bibliográfica per scope.md §3.4. Peterson no en whitelist; mención foundational pero único vídeo. Marcar para revisión humana como candidato a whitelist.",
+      "quote_evidence": "Peterson fue el primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica,",
+      "review_priority": "high",
+      "review_priority_reason": "Peterson posicionado como foundational ('primer autor en juntar psicología clínica con simbología y mitología'), candidato a entrada en canonical_whitelist si aparece en otros vídeos.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Mapas de sentido",
+        "authors": [
+          "Jordan B. Peterson"
+        ],
+        "domain": "psicología clínica / mitología / semiótica",
+        "why_recommended": "tratado fundacional que articula la confluencia entre sentido del mito, afectividad/emociones y capacidad mental de representación; denso pero esencial",
+        "timestamp_seconds": 109
+      }
+    },
+    {
+      "surface_form": "Tratado de semiótica general (Umberto Eco)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual filosófico de semiótica recomendado para consulta avanzada, sin análisis aplicado. Per scope.md §3.4 lane bibliográfica.",
+      "quote_evidence": "A diferencia de Peterson, Eco hace un tratado filosófico, no una síntesis cultural-psicológica,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Tratado de semiótica general",
+        "authors": [
+          "Umberto Eco"
+        ],
+        "domain": "semiótica / filosofía",
+        "why_recommended": "tratado filosófico de semiótica, contrapunto a la síntesis cultural-psicológica de Peterson; incluso más denso",
+        "timestamp_seconds": 230
+      }
+    },
+    {
+      "surface_form": "El Héroe de las mil caras",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra base de Campbell, recomendada como referencia. La autoría se captura promoviendo a Campbell como entity. La obra en sí no recibe análisis aplicado en este vídeo, va a lane bibliográfica per scope.md §3.4.",
+      "quote_evidence": "Campbell escribió *El Héroe de las mil caras*, base de la relación entre mitología y psique,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "El Héroe de las mil caras",
+        "authors": [
+          "Joseph Campbell"
+        ],
+        "domain": "mitología comparada / arquetipos",
+        "why_recommended": "base teórica de la relación entre mitología y psique; formulación canónica del monomito",
+        "timestamp_seconds": 261
+      }
+    },
+    {
+      "surface_form": "Tú eres eso (Campbell)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra de Campbell recomendada como introducción más accesible al concepto de arquetipo. Per scope.md §3.4 lane bibliográfica.",
+      "quote_evidence": "*Tú eres eso* y *El poder del mito* son especialmente útiles para comprender qué es verdaderamente un arquetipo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Tú eres eso",
+        "authors": [
+          "Joseph Campbell"
+        ],
+        "domain": "mitología comparada / arquetipos",
+        "why_recommended": "especialmente útil para comprender qué es verdaderamente un arquetipo, vía menos densa que Jung",
+        "timestamp_seconds": 261
+      }
+    },
+    {
+      "surface_form": "El poder del mito (Campbell)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra de Campbell recomendada junto con 'Tú eres eso' para comprender el concepto de arquetipo. Lane bibliográfica.",
+      "quote_evidence": "*Tú eres eso* y *El poder del mito* son especialmente útiles para comprender qué es verdaderamente un arquetipo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "El poder del mito",
+        "authors": [
+          "Joseph Campbell"
+        ],
+        "domain": "mitología comparada / arquetipos",
+        "why_recommended": "especialmente útil para comprender qué es verdaderamente un arquetipo, vía menos densa que Jung",
+        "timestamp_seconds": 261
+      }
+    },
+    {
+      "surface_form": "Las enseñanzas secretas de todos los tiempos (Manly P. Hall)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual de consulta sobre relación mito-religión recomendado por el speaker. Sin análisis aplicado. Lane bibliográfica per scope.md §3.4.",
+      "quote_evidence": "Muestra la relación entre mito y religión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Las enseñanzas secretas de todos los tiempos",
+        "authors": [
+          "Manly P. Hall"
+        ],
+        "domain": "esoterismo / mitología comparada",
+        "why_recommended": "libro de consulta sobre la relación entre mito y religión; primera edición 1928, más de mil páginas",
+        "timestamp_seconds": 411
+      }
+    },
+    {
+      "surface_form": "La rama dorada (Frazer)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra base de Frazer (a quien sí promovemos como autor). El libro en sí va a lane bibliográfica para indexar la recomendación. Speaker advierte que la tesis está históricamente rebatida pero la considera imprescindible para entender el pensamiento poético.",
+      "quote_evidence": "Históricamente está rebatida, pero es importantísimo para comprender cómo funciona el pensamiento poético,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "La rama dorada",
+        "authors": [
+          "James George Frazer"
+        ],
+        "domain": "antropología / mitología comparada",
+        "why_recommended": "imprescindible para comprender cómo funciona el pensamiento poético y la estructura arquetípica intuitiva de la psique humana, aunque la tesis histórica esté rebatida",
+        "timestamp_seconds": 472
+      }
+    },
+    {
+      "surface_form": "La Diosa Blanca (Robert Graves)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra recomendada como contrapunto femenino a Frazer. Speaker subraya que la tesis específica de Graves está desmentida pero la estructura poético-mitológica que articula sí tiene manifestaciones arquetípicas universales. Sin análisis aplicado en este vídeo. Lane bibliográfica.",
+      "quote_evidence": "La Diosa Blanca es una estructura poético-mitológica con manifestaciones arquetípicas universales que sí existen más allá de la elaboración inventada de Graves,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "La Diosa Blanca",
+        "authors": [
+          "Robert Graves"
+        ],
+        "domain": "mitología comparada / arquetipo femenino",
+        "why_recommended": "contrapunto femenino a Frazer; imprescindible para sumergirse en el pensamiento poético sobre lo femenino, aun con la tesis histórica desmentida",
+        "timestamp_seconds": 563
+      }
+    },
+    {
+      "surface_form": "El mito de la diosa (Cashford y Baring)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual ilustrado sobre la transición matriarcado/patriarcado, recomendado como referencia exhaustiva sobre historia antigua de la diosa. Speaker califica a Cashford como 'experta en arquetipos de lo femenino'. Sin análisis aplicado a obra concreta. Lane bibliográfica.",
+      "quote_evidence": "Trata la historia de la prehistoria y la historia antigua sobre la transición de arquetipos femeninos a masculinos,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "El mito de la diosa",
+        "authors": [
+          "Anne Baring",
+          "Jules Cashford"
+        ],
+        "domain": "mitología comparada / arquetipo femenino / antropología",
+        "why_recommended": "referencia exhaustiva e ilustrada sobre la transición mitológica del matriarcado al patriarcado y la historia antigua de la diosa",
+        "timestamp_seconds": 685
+      }
+    },
+    {
+      "surface_form": "El paraíso perdido (Milton)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra literaria 'imprescindible' según speaker, sin análisis arquetípico aplicado en este vídeo. Lane bibliográfica per scope.md §3.4.",
+      "quote_evidence": "*El paraíso perdido* de Milton es imprescindible,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "El paraíso perdido",
+        "authors": [
+          "John Milton"
+        ],
+        "domain": "literatura / mitología cristiana",
+        "why_recommended": "lectura imprescindible dentro del corpus de elaboración mitológica con base cristiana",
+        "timestamp_seconds": 746
+      }
+    },
+    {
+      "surface_form": "La Divina Comedia (Dante)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra recomendada con la matización de buscar adaptación en prosa por dificultad del verso traducido. Speaker advierte que es elaboración propia con base cristiana, no mitología universal. Sin análisis aplicado. Lane bibliográfica.",
+      "quote_evidence": "La mitología de Dante es una elaboración propia con base cristiana, no mitología universal, pero hay que leerla igualmente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "La Divina Comedia",
+        "authors": [
+          "Dante Alighieri"
+        ],
+        "domain": "literatura / mitología cristiana",
+        "why_recommended": "lectura imprescindible aunque sea elaboración propia con base cristiana, no mitología universal; recomendable en adaptación en prosa",
+        "timestamp_seconds": 746
+      }
+    },
+    {
+      "surface_form": "La Luna (Cashford)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Tratado exhaustivo sobre el arquetipo lunar (femenino y masculino), recomendado como referencia visual y simbólica. Sin análisis aplicado. Lane bibliográfica.",
+      "quote_evidence": "Contiene todo el mito, imaginario y simbología existente de la luna, universal y antigua,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "La Luna",
+        "authors": [
+          "Jules Cashford"
+        ],
+        "domain": "mitología comparada / simbolismo / arquetipo lunar",
+        "why_recommended": "tratado exhaustivo y bien editado (Atalanta) sobre todo el mito, imaginario y simbología universal de la luna; abarca arquetipo femenino y masculino lunar",
+        "timestamp_seconds": 868
+      }
+    },
+    {
+      "surface_form": "Tarot (libro de la Biblioteca de Esoterismo)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Recopilación visual de imaginería del tarot, recomendado por edición cuidada. Sin tratado teórico aplicado. Lane bibliográfica.",
+      "quote_evidence": "Recomendable para coleccionistas de libros de semiótica por su cuidada edición,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico",
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Tarot",
+        "authors": [
+          "Biblioteca de Esoterismo (ed.)"
+        ],
+        "domain": "esoterismo / iconografía / tarot",
+        "why_recommended": "imaginería visual del tarot con explicaciones básicas de simbología; cuidada edición de coleccionista",
+        "timestamp_seconds": 1021
+      }
+    },
+    {
+      "surface_form": "Textos de Qumrán",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Fuentes primarias para rastrear la historia antigua del origen de las civilizaciones, recomendadas como obra de consulta no lineal. Lane bibliográfica per scope.md §3.4.",
+      "quote_evidence": "Para rastrear la historia antigua del origen de las civilizaciones hay que tener los textos de Qumrán,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Textos de Qumrán",
+        "authors": [
+          "(fuente primaria, varios editores)"
+        ],
+        "domain": "religión antigua / textos primarios",
+        "why_recommended": "fuente primaria para rastrear la historia antigua del origen de las civilizaciones; libro de consulta para citas que aparecen en mitología",
+        "timestamp_seconds": 1081
+      }
+    },
+    {
+      "surface_form": "Literatura hermética (recopilaciones íntegras)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Recopilaciones de textos herméticos íntegros recomendados como fuente primaria, con advertencia explícita contra interpretaciones esotéricas modernas. Lane bibliográfica.",
+      "quote_evidence": "No comprar libros de hermética elaborados por autores modernos porque eso es esoterismo e interpretación libre, no semiótica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Textos herméticos (recopilaciones íntegras)",
+        "authors": [
+          "(fuentes primarias, varios editores)"
+        ],
+        "domain": "hermetismo / textos primarios",
+        "why_recommended": "fuentes primarias para consulta cuando aparecen citas en la mitología; evitar elaboraciones modernas (esoterismo, no semiótica)",
+        "timestamp_seconds": 1081
+      }
+    },
+    {
+      "surface_form": "Jung y el tarot",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual recomendado para acceder a la comprensión junguiana del tarot, con preferencia explícita por leer 'a autores junguianos' antes que a Jung directamente. Lane bibliográfica.",
+      "quote_evidence": "Es mejor leer a autores junguianos que leer directamente a Jung para empezar a comprenderlo,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico",
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Jung y el tarot",
+        "authors": [
+          "(autor junguiano, no especificado en el summary)"
+        ],
+        "domain": "psicología junguiana / tarot",
+        "why_recommended": "introducción a la comprensión junguiana de los arquetipos contenidos en el tarot, vía más accesible que leer a Jung directamente",
+        "timestamp_seconds": 1172
+      }
+    },
+    {
+      "surface_form": "Alicia en el País de las Maravillas (Lewis Carroll)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Obra recomendada con tesis embrionaria del speaker (Carroll como experto en lógica matemática formal cuya obra cobra sentido tras leer Gödel/Hofstadter/Eco). No análisis arquetípico aplicado. Lane bibliográfica con review_priority medium por la tesis interpretativa apuntada.",
+      "quote_evidence": "Lewis Carroll era experto en lógica matemática formal y su obra no es fantasía arbitraria ni aleatoria,",
+      "review_priority": "medium",
+      "review_priority_reason": "Speaker articula tesis embrionaria sobre Carroll como guiño a las matemáticas y lógica, conectándolo con Gödel/Hofstadter/Eco; si reaparece en otros vídeos podría justificar entity_work y/o concept de 'estructura formal en fantasía literaria'.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "Alicia en el País de las Maravillas",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "domain": "literatura / lógica matemática / fantasía formal",
+        "why_recommended": "fantasía elaborada como guiño a las matemáticas y la lógica, no arbitraria; útil para aprender a bucear en estructuras del inconsciente, especialmente tras leer a Gödel, Hofstadter y Eco",
+        "timestamp_seconds": 1234
+      }
+    },
+    {
+      "surface_form": "A través del espejo (Lewis Carroll)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Compañera de 'Alicia en el País de las Maravillas', recomendada como par dentro de la misma tesis sobre Carroll lógico-formal. Lane bibliográfica.",
+      "quote_evidence": "Son dos libros: *Alicia en el País de las Maravillas* y *A través del espejo*; muy recomendable para aprender a bucear en las estructuras del inconsciente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "_doc": "Solo cuando reason_code='recommended_reference'. Datos para futura página índice de bibliografía recomendada.",
+        "book_title": "A través del espejo",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "domain": "literatura / lógica matemática / fantasía formal",
+        "why_recommended": "compañera de Alicia en la misma tesis lógico-formal; muy recomendable para aprender a bucear en las estructuras del inconsciente",
+        "timestamp_seconds": 1234
+      }
+    },
+    {
+      "surface_form": "Narrativa completa de Lovecraft (edición Valdemar)",
+      "reason_code": "already_captured",
+      "reason_detail": "La recomendación de la edición Valdemar para acceder a Lovecraft ya está literalmente recogida en lovecraft-howard.md (línea 59-60) con cita y deep-link a este mismo vídeo. No procede pending_update.",
+      "quote_evidence": "Se recomienda la edición de narrativa completa de Valdemar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lovecraft-howard"
+    },
+    {
+      "surface_form": "Bloodborne",
+      "reason_code": "already_captured",
+      "reason_detail": "La afirmación 'Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft' ya está recogida literal en lovecraft-howard.md (línea 134) como cita de este vídeo, dentro de la sección 'Influencia contemporánea identificada por el canal'. Bloodborne está además en whitelist soft (works_canonical) — sigue pendiente página propia, pero esta mención no aporta material adicional para promover.",
+      "quote_evidence": "Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft,",
+      "review_priority": "medium",
+      "review_priority_reason": "Bloodborne en whitelist soft sin página todavía; cada nueva mención suma señal de cara a futura promoción cuando aparezca un vídeo con análisis sustantivo dedicado.",
+      "enriches_concept": "lovecraft-howard"
+    },
+    {
+      "surface_form": "pensamiento poético",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto que el speaker introduce como 'la mejor forma de denominar la parte literaria de la semiótica' y usa como criterio evaluativo recurrente a lo largo del vídeo (Frazer, Graves, Manly P. Hall son recomendados precisamente por servir al pensamiento poético). Es articulación canal-específica con potencial de página propia, pero en este único vídeo no recibe definición sostenida ni estructura interna; queda como candidato concept pendiente de otros vídeos que lo desarrollen.",
+      "quote_evidence": "El pensamiento poético es la mejor forma de denominar la parte literaria de la semiótica,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría operativa del canal con potencial de page propia (concept proxy.contemporary). Reaparición en otros vídeos justificaría promoción.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "semiótica",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Disciplina académica usada como categoría organizadora de la bibliografía. El speaker no articula tesis propia sobre la semiótica como disciplina, solo la define operativamente para enmarcar las recomendaciones. No promueve página autónoma per scope.md §1.2 (concepto técnico estándar sin marco propio aplicado).",
+      "quote_evidence": "La semiótica estudia el significado; la poética es la disciplina que elabora o juega artísticamente con el significado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "poética",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Disciplina académica usada en contraste operativo con semiótica para definir 'pensamiento poético'. El concepto autónomo de poética no recibe tratamiento sustantivo aquí; lo que sí captura el canal es 'pensamiento poético' (capturado aparte como passing_mention candidato).",
+      "quote_evidence": "la poética es la disciplina que elabora o juega artísticamente con el significado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Gödel",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como prerequisito intelectual para apreciar plenamente a Carroll (junto con Hofstadter y Eco). Sin desarrollo. Per scope.md §3.4: 'Mención bibliográfica con tesis embrionaria pero sin desarrollo (Gödel-Escher-Bach, Hofstadter) → passing_mention con review_priority medium'.",
+      "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+      "review_priority": "medium",
+      "review_priority_reason": "Per scope.md §3.4 caso explícito de tesis embrionaria sin desarrollo; reaparición en futuros vídeos podría justificar lane bibliográfica de lógica/matemáticas formales como herramienta de lectura del canal.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Hofstadter",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como prerequisito intelectual para apreciar plenamente a Carroll. Per scope.md §3.4 caso explícito (Hofstadter, Gödel-Escher-Bach) → passing_mention review_priority medium.",
+      "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+      "review_priority": "medium",
+      "review_priority_reason": "Caso explícito en scope.md §3.4 como tesis embrionaria sin desarrollo; reaparición justificaría lane bibliográfica.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Umberto Eco (como referencia teórica para leer a Carroll)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Eco aparece dos veces: como autor de un tratado recomendado (capturado en recommended_reference) y como prerequisito intelectual para apreciar a Carroll (este registro). Esta segunda mención no agrega entidad nueva más allá del tratado ya indexado.",
+      "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 4,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 26,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T23:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Joseph Campbell] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Mircea Eliade] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[James George Frazer] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[tarot] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}
