@@ -175,6 +175,6 @@ El Silmarillion funciona en el canal como pieza central del análisis tolkienian
 ## Citations
 
 
-- video_id: `gDRkrg8dVCo` — Leyendo El Silmarillion: Tolkien y el mal primario.
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [50:23](https://youtu.be/gDRkrg8dVCo?t=3023)
 

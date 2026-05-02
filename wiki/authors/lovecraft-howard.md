@@ -160,3 +160,7 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Comparación detallada con Poe**: el canal lo menciona como antecedente directo pero no profundiza
 - **Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos quedan recogidos en esta página con timestamp explícito
 - **Lectura junguiana directa de Lovecraft**: el canal usa marco junguiano para casi todo pero no articula un análisis explícito "Lovecraft según Jung"
+
+## Citations
+
+- **Otoño de cuentos. Lovecraft** — chunks: [8:40](https://youtu.be/SwEqFdvBI9M?t=520) · [9:41](https://youtu.be/SwEqFdvBI9M?t=581) · [51:39](https://youtu.be/SwEqFdvBI9M?t=3099) · [1:05:01](https://youtu.be/SwEqFdvBI9M?t=3901) · [2:14:51](https://youtu.be/SwEqFdvBI9M?t=8091)
