@@ -115,4 +115,6 @@ Esta lectura conecta el camino de la víctima con el diagnóstico cultural más 
 
 ## Citations
 
-- video_id: `3Jo2T73pOEs` — Harry Potter, el síndrome de Wendy y por qué es escoria fántastica
+
+- **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90)
+

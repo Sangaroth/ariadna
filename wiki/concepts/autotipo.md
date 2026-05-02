@@ -87,4 +87,6 @@ De ahí la lectura del canal sobre el sacrificio final de Harry, que en la misma
 
 ## Citations
 
-- video_id: `3Jo2T73pOEs` — Harry Potter, el síndrome de Wendy y por qué es escoria fántastica
+
+- **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [12:13](https://youtu.be/3Jo2T73pOEs?t=733)
+

@@ -108,6 +108,21 @@ El canal articula también la operación del síndrome en la psique masculina in
 Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura real, capacidad de iniciar el viaje) sino desde el ello (necesidad de validar la propia injusticia sentida) — de la misma forma que la Wendy femenina espera al héroe imaginario sin trabajar la integración del eterno aventurero como contenido propio. [[harry-potter-saga|Harry Potter]] funciona, en la lectura del canal, como quintaesencia narrativa de esta configuración masculina: el niño rico pero "injustamente tratado" para quien la solución narrativa no es la maduración interior sino la confirmación externa de su carácter especial.
 
 
+
+
+## La versión masculina del síndrome
+
+El canal articula también la operación del síndrome en la psique masculina infantil, donde toma la forma del **anhelo de huida del hogar**: el niño se siente injustamente tratado, fantasea con que su verdadero destino aguarda más allá de la ventana, pero no se atreve a actuar la huida real porque no es disocial:
+
+> "La huida de casa es un síndrome de Wendy: se anhela irse pero nadie se va realmente sin ser disocial,"
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (08:41)](https://youtu.be/3Jo2T73pOEs?t=521)
+
+> "Harry Potter vive rico pero injustamente tratado, exactamente como se siente la preadolescencia del primer mundo,"
+→ [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (03:31)](https://youtu.be/3Jo2T73pOEs?t=211)
+
+Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura real, capacidad de iniciar el viaje) sino desde el ello (necesidad de validar la propia injusticia sentida) — de la misma forma que la Wendy femenina espera al héroe imaginario sin trabajar la integración del eterno aventurero como contenido propio. [[harry-potter-saga|Harry Potter]] funciona, en la lectura del canal, como quintaesencia narrativa de esta configuración masculina: el niño rico pero "injustamente tratado" para quien la solución narrativa no es la maduración interior sino la confirmación externa de su carácter especial.
+
+
 ## Lagunas
 
 - **Genealogía clínica del término**: el canal usa "síndrome de Wendy" como categoría arquetípica propia y no detalla su relación con usos psicológicos previos del término (Kiley y otros)
@@ -118,4 +133,7 @@ Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura r
 
 ## Citations
 
+
 - video_id: `JmCqIk6NDsM` — Análisis arquetípico de Drácula, de Bram Stoker
+- **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [3:31](https://youtu.be/3Jo2T73pOEs?t=211) · [8:41](https://youtu.be/3Jo2T73pOEs?t=521)
+
