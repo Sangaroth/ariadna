@@ -75,6 +75,22 @@ El mito polar es uno de los **mitos primarios** del [[collective-unconscious]] j
 > "**La cosmogonía polar es un mito de creación basado en la división entre dos sexos.** El pecado original se interpreta como comer del fruto del árbol del conocimiento."
 → [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
 
+
+
+La serie continúa en Pecado original y Posmodernidad II, donde el canal aplica el marco a la inversión cultural contemporánea de los polos: la tentación de la serpiente se relee como mito fundacional del feminismo institucional, donde el Padre-Estado ocupa el lugar del Padre tirano y la rebelión de lo femenino contra él se vende como emancipación que en realidad consuma su propia animalización:
+
+> "La serpiente dice a la mujer que el Padre-Estado es un tirano que le ha prohibido acceder al poder. Le propone que sus instintos animales son en realidad poder y que comer del fruto de la rebelión le dará independencia."
+→ [Pecado original y Posmodernidad II, 06:40](https://youtu.be/4znlMcSR_1g?t=400)
+
+En la lectura del canal, la consumación de esta tentación produce una inversión simétrica del dipolo: la mujer renunció a ser mujer y se animalizó, el hombre renunció a ser hombre y se feminizó — el polo femenino al destruirse arrastra al masculino. La culminación es la regresión de la familia (estructura polar) a la manada (estructura grupal indiferenciada).
+
+> "La mujer renunció a ser mujer y se animalizó; el hombre renunció a ser hombre y se feminizó."
+→ [Pecado original y Posmodernidad II, 11:43](https://youtu.be/4znlMcSR_1g?t=703)
+
+> "La mujer renunció a ser familia para pasar a ser grupo, a ser manada ("hermana, esta es tu manada"). El hombre renunció a ser líder para pasar a ser aliado."
+→ [Pecado original y Posmodernidad II, 12:43](https://youtu.be/4znlMcSR_1g?t=763)
+
+
 > "Este mito es parte de la cosmogonía polar, que habla sobre la interacción de lo masculino y lo femenino. Los principales aspectos que interactúan son Zeus/Júpiter (padre tirano) y Ceres/Deméter (gran madre). Hay dos grandes formas de actuar como en casi todos los mitos: la masculina y la femenina."
 → [Mitología 101: Perséfone, 09:06](https://youtu.be/VDOUrpcC4fU?t=546)
 
@@ -136,6 +152,42 @@ Aulë y Yavanna en la superficie telúrica; Ulmo y Manwë en el plano cósmico. 
 ### Adán y Eva: cosmogonía polar canónica de Occidente
 
 > "La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal.
+
+"
+→ [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
+
+La exposición monográfica del canal articula la lectura del mito en cuatro capas superpuestas — la misma narración funciona simultáneamente como filogenia (origen biológico de la especie), ontogenia (origen de la conciencia individual), genealogía cultural (acceso al conocimiento como ruptura con la naturaleza) y diagnóstico de la sobreintelectualización (el don del intelecto trae angustia que no existía en la inocencia).
+
+> "La especie se diferenció primero de los animales; el hombre los nombraba, mostrando superioridad intelectual. La creación de Eva representa el paso de machos y hembras a compañeros de vida con roles específicos."
+→ [Pecado original y Postmodernidad I, 06:45](https://youtu.be/J45h7xet8gg?t=405)
+
+> "Los creadores son los padres y el paraíso es el útero. Al principio somos una célula que al dividirse inicia la gestación, como la primera cosmogonía. El ser humano es expulsado prematuramente del útero a los nueve meses por el excesivo tamaño craneal."
+→ [Pecado original y Postmodernidad I, 10:46](https://youtu.be/J45h7xet8gg?t=646)
+
+> "Mayor volumen craneal permitió meta-representaciones (pensamientos sobre pensamientos) e idea del yo. Más intelecto implica depresión, enfermedad mental, narcisismo, sobre-pensamiento y angustia vital. La expulsión del paraíso simboliza que el don del intelecto trae una angustia que no existía en el estado de inocencia."
+→ [Pecado original y Postmodernidad I, 13:46](https://youtu.be/J45h7xet8gg?t=826)
+
+Dentro de esta cosmogonía los dos sexos no son polos cosmológicos intercambiables: tienen funciones distintas en la articulación de la caída. Eva, por proceder de la costilla de Adán, queda más cerca de la naturaleza primigenia y opera como puente entre lo humano ordenado y lo salvaje. Por eso es ella la que la serpiente tienta — el polo femenino conecta con el mal exógeno con el que el orden cohabita:
+
+> "La serpiente representa el mal exógeno primario con el que se cohabitaba en orden. Eva está más cercana a lo salvaje por provenir de una costilla de Adán, más cercana a la naturaleza primigenia."
+→ [Pecado original y Postmodernidad I, 19:49](https://youtu.be/J45h7xet8gg?t=1189)
+
+El pecado se descompone en dos por cada polo, en simetría rota:
+
+- **Pecados de Eva**: (1) **narcisismo** — querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder; (2) **cobardía de compartir** — pedir al amante que la acompañe para no ser la única rebelde
+- **Pecados de Adán**: (1) **idolatrar a Eva** — querer ser para la mujer en lugar de ser para Dios; (2) **narcisismo para agradarla** — dejarse seducir por la idea de gustarle más comiendo del fruto
+
+> "El pecado de Eva es querer extraer de la naturaleza conocimientos más allá de lo evidente para tener más poder: narcisismo puro."
+→ [Pecado original y Postmodernidad I, 22:23](https://youtu.be/J45h7xet8gg?t=1343)
+
+> "Adán prefiere saltarse las normas divinas para agradar a Eva: querer ser para la mujer en vez de ser para Dios."
+→ [Pecado original y Postmodernidad I, 24:58](https://youtu.be/J45h7xet8gg?t=1498)
+
+La expulsión deja al mundo dividido en tres planos cuya articulación es la herencia política del polar caído: lo físico crudo y salvaje, el intelecto atrapado en la contradicción ser/deber-ser, y los instintos que rodean y acechan fuera del Edén:
+
+> "El mundo se divide en lo físico crudo y salvaje (desnudez, hambre, frío, miedo). El intelecto queda dominado por la contradicción entre el ser y el deber ser, obligados a construir moral con esfuerzo. El tercer plano son los instintos que los rodean y acechan fuera del Edén: la división tripartita de la cosmogonía polar."
+→ [Pecado original y Postmodernidad I, 32:32](https://youtu.be/J45h7xet8gg?t=1952)
+
 
 
 ### Drácula: el polar invertido por sacrilegio
