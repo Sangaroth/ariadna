@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b013",
+  "items": [
+    {
+      "from_video": "Gx2740if0Ho",
+      "from_video_title": "Gothika: De Profundis",
+      "update": {
+        "page_id": "anima-archetype",
+        "update_type": "insert_after_passage",
+        "anchor_passage": "→ [Gothika: De Profundis, 51:58](https://youtu.be/Gx2740if0Ho?t=3118)",
+        "section_target": null,
+        "content_proposed": "\n\n- **Las tres diosas y el tatuaje del ánima sola** (Gothika): Miranda, la fantasma Rachel Parsons y la doncella secuestrada en el sótano son el mismo arquetipo fracturado — \"las tres diosas son la misma persona\". El tatuaje del ánima sola en la piel de la doncella opera como signo que conecta a las tres mujeres; al reaparecer en el brazo del policía cómplice, identifica al verdadero dragón al que el ánima debe enfrentarse. \"Not alone\" inscrito en sangre cifra que a las tres les ocurrió lo mismo\n  → [Gothika: De Profundis, 1:14:35](https://youtu.be/Gx2740if0Ho?t=4475)\n  → [Gothika: De Profundis, 1:37:04](https://youtu.be/Gx2740if0Ho?t=5824)",
+        "supersedes_laguna_text": null,
+        "wikilinks_introduced": [],
+        "citations_added": [
+          {
+            "video_id": "Gx2740if0Ho",
+            "timestamp_seconds": 4475,
+            "cite_markdown": "[Gothika: De Profundis, 1:14:35](https://youtu.be/Gx2740if0Ho?t=4475)"
+          },
+          {
+            "video_id": "Gx2740if0Ho",
+            "timestamp_seconds": 5824,
+            "cite_markdown": "[Gothika: De Profundis, 1:37:04](https://youtu.be/Gx2740if0Ho?t=5824)"
+          }
+        ],
+        "rationale": "La subsección 'El ánima sola' ya tiene cita Gothika 51:58 sobre la cárcel hipogea, pero no recoge la mecánica de fragmentación triple ni el dispositivo del tatuaje como signo. El nuevo bullet añade ambos elementos en el lugar editorialmente correcto (justo después del bullet Gothika existente, antes del bullet 'Por qué importa') sin romper la estructura de bullets ya consolidada. insert_after_passage es el tipo correcto: enriquece sin reemplazar material existente",
+        "editorial_intent": "enrich"
+      }
+    }
+  ]
+}
