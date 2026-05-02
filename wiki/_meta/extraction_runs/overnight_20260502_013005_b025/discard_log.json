@@ -1,0 +1,417 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b025",
+  "generated_at": "2026-05-02T09:46:17+00:00",
+  "entities": {
+    "imaginario-clase-cognitiva": {
+      "canonical_name": "imaginario",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": "central_thesis",
+          "minutes": 30,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Monográfico' (≥30 min sostenidos sobre la clase imaginaria como pieza central) + 'Framing-mark' (el speaker lo presenta como marco que aplica a su modelo 3Q) + 'Channel-canonical' (terminología propia de la articulación del canal)",
+          "quote_evidence": "El objetivo es identificar los correlatos neurobiológicos del modelo de las tres clases cognitivas (imaginarias, gramaticales y afectivas)"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 30,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "confabulacion": {
+      "canonical_name": "confabulación",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": "central_thesis",
+          "minutes": 24,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Monográfico' (≥20 min de exposición sostenida con estructura interna articulada en niveles neurótica → personalidad → esquizoafectiva → psicótica) + 'Framing-mark' (el speaker lo aplica como marco diagnóstico)",
+          "quote_evidence": "La confabulación neurótica ocurre en duelos, pensamientos intrusivos depresivos y personalidad obsesiva"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 24,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "empatia-cognitiva-emocional": {
+      "canonical_name": "empatía cognitiva vs. empatía emocional",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": "secondary",
+          "minutes": 10,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "scope.md §2.1 'Monográfico' (≥10 min sostenidos como tesis correctiva) + 'Framing-mark' (presentado como 'el error conceptual' que el canal corrige). El canal articula una redefinición original donde la empatía emocional se reformula como proyección",
+          "quote_evidence": "La empatía cognitiva es la capacidad de ponerse en el lugar del otro; psicópatas y maquiavélicos la poseen"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "pansiquismo": {
+      "canonical_name": "pansiquismo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Aparece como giro paradigmático secundario sin tratamiento sustantivo aún; no cumple ≥10 min monográfico ni recurrencia confirmada en otros vídeos. Mantener en mentions_index a la espera de tratamiento más profundo",
+          "quote_evidence": "El pansiquismo propone que la conciencia es un tejido fundamental del universo, no un fenómeno emergente biológico"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "acting-out": {
+      "canonical_name": "acting out",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 0,
+          "decision": "mentions_index",
+          "decision_reason": "Mención parentética como label psicoanalítico aplicado a la confabulación; no se desarrolla ni se trata sustantivamente. Va a mentions_index para futura agregación",
+          "quote_evidence": "una representación mental repetida hasta creerla real y actuarla (acting out)"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "espectro-esquizoafectivo": {
+      "canonical_name": "espectro esquizoafectivo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Categoría clínica usada como marco diagnóstico aplicado pero sin exposición monográfica propia. Recurrencia plausible en otros vídeos del canal — registrar en mentions_index para confirmación cross-video",
+          "quote_evidence": "El TOC está muy cerca del espectro esquizo, rozando la pérdida de contacto con la realidad"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "John Wheeler / electrón único": {
+      "canonical_name": "John Wheeler / electrón único",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Se compara con la teoría de Wheeler del electrón único: todos los electrones podrían ser el mismo electrón viajando en el tiempo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "relatividad de Einstein": {
+      "canonical_name": "relatividad de Einstein",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La relatividad de Einstein fue un giro análogo al introducir el tiempo como dimensión del espaciotiempo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "palomas de Skinner": {
+      "canonical_name": "palomas de Skinner",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es un condicionamiento operante análogo al de las palomas de Skinner pero en realidad virtual",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "caso de acoso a Perfil Raro": {
+      "canonical_name": "caso de acoso a Perfil Raro",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Análisis del caso de acoso a Perfil Raro: confabulación y espectro esquizo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "SurfSense / Notebook LM / Obsidian": {
+      "canonical_name": "SurfSense / Notebook LM / Obsidian",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Se evalúa la plataforma SurfSense como alternativa a Notebook LM por ser menos dependiente de la nube y mejor integrable con Obsidian",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Moldbook (red social de LLMs)": {
+      "canonical_name": "Moldbook (red social de LLMs)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "En una red social solo de LLMs, algunos han creado cultos religiosos, partidos y pseudofilosofías políticas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Proyecto Ariatna / aspiraciones de doctorado y publicación": {
+      "canonical_name": "Proyecto Ariatna / aspiraciones de doctorado y publicación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Proxy abrió el canal porque no pudo doctorarse y decidió hacer investigación por su cuenta",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "experimento chino reversión Alzheimer en ratones": {
+      "canonical_name": "experimento chino reversión Alzheimer en ratones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Científicos chinos revierten el Alzheimer en ratones",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "olanzapina": {
+      "canonical_name": "olanzapina",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El habla arrastrada es típica de neurolépticos como la olanzapina que reducen la actividad neuronal",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "apraxias / afasia motora": {
+      "canonical_name": "apraxias / afasia motora",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "24YDiioWKeY",
+          "video_title": "Psicología 101: El Imaginario de las Ratas",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La afasia motora es un tipo de apraxia donde se pierde la capacidad de articular el habla",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}
