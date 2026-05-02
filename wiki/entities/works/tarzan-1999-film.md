@@ -137,4 +137,6 @@ La estructura musical del tema de apertura espeja la estructura mítica:
 
 ## Citations
 
-- video_id: `Tviv4PT0dv8` — Análisis arquetípico de Tarzán
+
+- **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [45:31](https://youtu.be/Tviv4PT0dv8?t=2731) · [49:03](https://youtu.be/Tviv4PT0dv8?t=2943) · [51:04](https://youtu.be/Tviv4PT0dv8?t=3064) · [54:05](https://youtu.be/Tviv4PT0dv8?t=3245) · [1:00:37](https://youtu.be/Tviv4PT0dv8?t=3637) · [1:06:41](https://youtu.be/Tviv4PT0dv8?t=4001) · [1:09:42](https://youtu.be/Tviv4PT0dv8?t=4182) · [1:11:12](https://youtu.be/Tviv4PT0dv8?t=4272) · [1:17:45](https://youtu.be/Tviv4PT0dv8?t=4665) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:21:18](https://youtu.be/Tviv4PT0dv8?t=4878) · [1:25:51](https://youtu.be/Tviv4PT0dv8?t=5151) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605) · [1:35:57](https://youtu.be/Tviv4PT0dv8?t=5757) · [1:40:28](https://youtu.be/Tviv4PT0dv8?t=6028)
+
