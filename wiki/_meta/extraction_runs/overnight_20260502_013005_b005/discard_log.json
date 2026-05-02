@@ -1,0 +1,1239 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b005",
+  "generated_at": "2026-05-02T02:49:47+00:00",
+  "entities": {
+    "charo-canal": {
+      "canonical_name": "Charo (concepto del canal)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": "central_thesis",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "concepto canal-específico que da título a la serie ('What is a Charo? Primera parte' implica continuidad serial); aquí solo recibe ~2min de tratamiento dentro de un argumento más amplio. Registrar como candidato fuerte a página propia o como sub-concepto del marco synthesis pendiente (ver thesis_candidate). Forma parte de la tipología canal-específica más amplia (arquetipo / prototipo / estereotipo / autotipo) ya aludida en individuation.md",
+          "quote_evidence": "Si se destruyen los referentes familiares, se crean individuos cada vez más vacíos, angustiados y potenciales \"rebeldes de juguete\" manipulables"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "apoptosis-cultural": {
+      "canonical_name": "apoptosis cultural",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": "secondary",
+          "minutes": 1.5,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "concepto canal-específico con dicotomía interna articulada (disolución vs apoptosis); préstamo metafórico de la biología celular aplicado a sociología cultural. Tratamiento ~1.5min impide promoción individual ahora pero es pieza estructural del marco más amplio (ver thesis_candidate). Conecta con consumismo-critica.md como diagnóstico de decadencia",
+          "quote_evidence": "Una cultura descarrila cuando se vuelve incoherente respecto a sus propios fundamentos fundacionales"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "fundamentales-arquetipicos-cultura": {
+      "canonical_name": "fundamentales arquetípicos católicos (vida, libertad, amor, verdad)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "tipología canal-específica (4+1 fundamentales arquetípicos como matriz cultural occidental); también incluye la tesis historiográfica del canal de que 'la civilización occidental es católica, no judeocristiana'. Pieza estructural del thesis_candidate. Si se confirma recurrencia en otros vídeos sobre fundamentos culturales, candidata fuerte a concept page propia",
+          "quote_evidence": "La civilización occidental es católica, no judeocristiana: sus fundamentos inconscientes estructuran las creencias sobre lo importante"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "heroe-vs-rebelde": {
+      "canonical_name": "héroe vs rebelde (tipología moral)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "dicotomía moral canal-específica (construir vs destruir como ejes opuestos); pieza de cierre del thesis_candidate. Conecta con la lectura del canal sobre individuation.md (el héroe como camino de individuación) pero aquí en clave cultural-pedagógica, no junguiana. Vigilar para sub-sección de viaje-heroe (cuando se promueva) o para la futura página synthesis sobre Charo",
+          "quote_evidence": "Una persona con causa propia no compra cosas que no necesita porque no tiene tiempo ni ganas: construir algo con tus manos es dificilísimo y te enfrenta al vacío"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "crisis-boomer-desarraigo": {
+      "canonical_name": "crisis Boomer / desarraigo del estado del bienestar",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": "secondary",
+          "minutes": 1.5,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "concepto canal-específico que enlaza ausencia-de-sufrimiento con fabricación-de-rebeldía manipulable; pieza causal del thesis_candidate. Conecta con la sección 'Llamada a la consciencia del consumidor' de consumismo-critica.md (el sujeto consumista como rebelde sin causa)",
+          "quote_evidence": "Ese desarraigo genera rebeldía: el individuo quiere segregarse de su cultura porque las ideas viejas son soluciones a problemas colectivos que ya no tiene"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ideologia-politica-como-moral": {
+      "canonical_name": "ideología política como ideología moral",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "marco canal-específico que reduce ideología política a ideología moral (super-yo); usa vocabulario freudiano explícitamente (yo moral, super-yo) pero con articulación propia. Conecta con consumismo-critica.md (la política contemporánea como extensión del marketing) y con la postura crítica del canal sobre política. Vigilar para futura página propia o sección de un Freud-page (si se promueve siguiendo whitelist)",
+          "quote_evidence": "Lo interesante de la ideología no es cómo quieres que se comporten los demás, sino qué tipo de acciones emprenderías tú ante la vida, la muerte, la verdad y Dios"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "eutaxia": {
+      "canonical_name": "eutaxia (fin de la familia)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": "passing_mention",
+          "minutes": 0.5,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "término técnico (de Gustavo Bueno / materialismo filosófico) invocado de pasada como cierre conceptual del argumento sobre la familia; el canal asume el lector lo conoce. Si reaparece sustantivamente o si se promueve una página sobre la influencia de Bueno en el canal, candidato a concept page",
+          "quote_evidence": "El fin de la familia es la eutaxia: la permanencia a lo largo del tiempo para cumplir la función biológica de nacer, crecer, aprender, reproducirse y enseñar"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Songo (periodismo provocador)": {
+      "canonical_name": "Songo (periodismo provocador)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_meta_canal",
+          "quote_evidence": "La utilidad del periodismo sensacionalista tipo Songo es evidenciar el absurdo: preguntas legítimas que generan vergüenza ajena revelan incoherencias",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Caiga quien caiga": {
+      "canonical_name": "Caiga quien caiga",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_meta_canal",
+          "quote_evidence": "Se compara con \"Caiga quien caiga\", que funcionaba metiéndose con el PP en el poder pero se quedó sin programa cuando cambió el gobierno",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Frente Obrero / Revuelta": {
+      "canonical_name": "Frente Obrero / Revuelta",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_topic",
+          "quote_evidence": "Las asociaciones juveniles y partidos como Frente Obrero o Revuelta son canales directos de donación frente a las ONGs",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Dana valenciana / ayudas del gobierno": {
+      "canonical_name": "Dana valenciana / ayudas del gobierno",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_topic",
+          "quote_evidence": "Las ayudas del gobierno excluyen al 80% de agricultores y ganaderos por requisitos estrictos contra productores a tiempo parcial y jubilados",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "MTV / 80s-90s": {
+      "canonical_name": "MTV / 80s-90s",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El capital ha utilizado esa angustia vital para convencer al rebelde de cómo ser rebelde: la MTV, los 80-90 y el fenómeno \"Psoe State of Mind\"",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "identificación proyectiva": {
+      "canonical_name": "identificación proyectiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El mecanismo es identificación + proyección: te identificas con la falta de causa, y luego proyectas en otros las motivaciones que te han implantado",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "liberalismo (crítica del canal)": {
+      "canonical_name": "liberalismo (crítica del canal)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "4QsL6hZiXJU",
+          "video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El estereotipo de \"liberal\" no se puede definir porque su enunciación es en negativo: respetar es no agredir, libertad es no interferir",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Yonkey Kong (cuenta sarcástica)": {
+      "canonical_name": "Yonkey Kong (cuenta sarcástica)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5jbSgT3jkD8",
+          "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_meta_canal",
+          "quote_evidence": "La cuenta de Yonkey Kong es sarcástica: recoge partes estereotípicas de la realidad, las reduce y se ríe de ellas desde dentro",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "incelfobia": {
+      "canonical_name": "incelfobia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5jbSgT3jkD8",
+          "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Esa misma cuenta es una de las mayores promotoras de conceptos como \"incelfobia\" y crítica a la manosfera, desde el sarcasmo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "manosfera": {
+      "canonical_name": "manosfera",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5jbSgT3jkD8",
+          "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Esa misma cuenta es una de las mayores promotoras de conceptos como \"incelfobia\" y crítica a la manosfera, desde el sarcasmo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "niñatas / machitos (estereotipos de género)": {
+      "canonical_name": "niñatas / machitos (estereotipos de género)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5jbSgT3jkD8",
+          "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los hombres hacemos gilipolleces y las chavalas hacéis niñaterías: son estereotipos, una pequeña parte de la realidad a la que no nos podemos reducir",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cristalización colectiva (volverse 'de cristal')": {
+      "canonical_name": "cristalización colectiva (volverse 'de cristal')",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5jbSgT3jkD8",
+          "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "en la batalla cultural todos estamos volviéndonos tan de cristal como los \"progres\"",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "batalla cultural": {
+      "canonical_name": "batalla cultural",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5jbSgT3jkD8",
+          "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Pide dejar de lado la batalla de los egos para centrarse en la batalla cultural",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "batalla de los sexos / pacto de paz": {
+      "canonical_name": "batalla de los sexos / pacto de paz",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5jbSgT3jkD8",
+          "video_title": "Sobre el sucedido \"las mujeres españolas son...\"",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_meta_canal",
+          "quote_evidence": "Propone que habría que revisar si es necesario hacer pactos de paz, al menos en la batalla de los sexos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "viaje-heroe": {
+      "canonical_name": "viaje del héroe",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "promote_new",
+          "decision_reason": "canonical_whitelist channel_specific_concepts auto_promote:true; este vídeo aporta variante valiosa (héroe colectivo + travesía-desierto frente al héroe individual + travesía-mar) que enriquece la página candidata. Ya wikilinkado implícitamente desde individuation.md y mito-moderno-en-proxy.md como 'monomito / camino del héroe'. Promover concept page propia consolida el grafo y prepara para cubrir todas las variantes (héroe griego, Moisés, héroe colectivo)",
+          "quote_evidence": "El viaje del héroe griego es el barco sobre el mar; en Moisés es a través del desierto"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "antiguo-testamento-mito-civilizatorio": {
+      "canonical_name": "Antiguo Testamento como mito de la expansión civilizatoria",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": "central_thesis",
+          "minutes": 10,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "vídeo monográfico de 10min con tesis coherente (OT como secuencia mitológica de problemas civilizatorios + diagnóstico de la cultura contemporánea como repetición del mito), pero con un solo source verifiable; no alcanza criterios de §2.1 (recurrencia ≥3 vídeos no demostrada) ni de §2.4.1 author_thesis (registro sostenido ≥20min). Mantenerlo en cola — si reaparece como marco aplicado en futuros vídeos, promover como synthesis o concept",
+          "quote_evidence": "Son códigos legales y soluciones culturales primitivas: los pasos obligatorios para convertirse en cultura"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "civilizacion-vs-cultura": {
+      "canonical_name": "civilización vs cultura (distinción)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": "secondary",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "distinción canal-específica articulada con piezas internas (civilización=biológico/individual, cultura=soluciones colectivas formalizadas); brevedad del tratamiento (~1min) impide promoción ahora. Vigilar — concepto operativo del canal con potencial de aparecer recurrentemente en discusiones de decadencia cultural y progresismo",
+          "quote_evidence": "Cultura son las soluciones colectivas a los problemas colectivos: acuerdos y construcciones formales"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "moises": {
+      "canonical_name": "Moisés",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "figura mitológica tratada simbólicamente como patriarca-mediador; no es autor (no produce obra teórica que el canal cite ni es autor cuyas obras se ingieran). Funciona aquí como personaje arquetípico dentro de la narrativa OT. Si el canal sistematizara una tipología de patriarcas mitológicos podría merecer página concept; por ahora un solo vídeo no dispara §2.1",
+          "quote_evidence": "Moisés media entre Dios y el pueblo; Dios le va dando soluciones a cada crisis"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "lilit": {
+      "canonical_name": "Lilit",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "figura mitológica recurrente en mitología comparada (judaísmo, no cristianismo según el canal); aquí solo ~1min. El canal hace una distinción importante (judaísmo desarrolla el mito, cristianismo no) que merece registro pero no página propia con un único source. Vigilar para promoción si reaparece en otros vídeos sobre demonología comparada o ánima-arquetipo",
+          "quote_evidence": "Lilit no es cristiana pero el concepto existe porque está nombrada en la Biblia como ser demoníaco"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "decadencia-liberprogre": {
+      "canonical_name": "decadencia liberprogre",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": "secondary",
+          "minutes": 1.5,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "concepto canal-específico de crítica cultural articulado aquí como repetición arquetípica del mito bíblico (queja del pueblo en el desierto). Fuerte conexión temática con consumismo-critica.md (que ya recoge crítica al 'progresismo' y 'política como marketing'), pero el ángulo aquí es distinto (queja como dinámica cultural, no consumo como anestesia). Candidato a página propia o sub-sección de consumismo-critica si reaparece sustantivamente",
+          "quote_evidence": "El castigo es llenar la cultura de criaturas esquivas que lo empeoran todo"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tarot (Emperador / Hierofante)": {
+      "canonical_name": "Tarot (Emperador / Hierofante)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Moisés es el líder-patriarca que debe convertirse poco a poco en el Hierofante",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "palo de cobre con la serpiente": {
+      "canonical_name": "palo de cobre con la serpiente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Dios ordena a Moisés poner una serpiente de cobre en un palo de cobre; quien mire no será mordido",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "desierto (símbolo)": {
+      "canonical_name": "desierto (símbolo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El desierto representa la dificultad primitiva: sobrevivir sin agricultura, técnica ni tecnología",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "serpiente (símbolo del mal)": {
+      "canonical_name": "serpiente (símbolo del mal)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Dios envía serpientes: bestias de un mundo que quedó atrás, representan los peores instintos y la contemplación del abismo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Egipto": {
+      "canonical_name": "Egipto",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Israel sale de la cohabitación con Egipto (tiranía/barbarie) y debe arreglárselas solo: es la independencia",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "lo ctónico / lo salvaje / lo prehistórico": {
+      "canonical_name": "lo ctónico / lo salvaje / lo prehistórico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El pueblo como héroe no desciende de la diosa sino que surge de lo ctónico, lo salvaje, lo prehistórico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "gigantes / mujeres apareándose con demonios": {
+      "canonical_name": "gigantes / mujeres apareándose con demonios",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "UZPjezFUrA0",
+          "video_title": "Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La salida de ese caos está representada por gigantes dominando el mundo y mujeres apareándose con demonios de Lilit",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tecnofilia-critica": {
+      "canonical_name": "tecnofilia (crítica del canal)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": "central_thesis",
+          "minutes": 21,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "concepto canal-específico (tecnofilia como disposición ingenua hacia la tecnología) usado como marco crítico durante todo el vídeo (21min) pero solo verificable desde un único source. Conecta temáticamente con consumismo-critica.md (sección 'Homogeneización por plataformas') aunque el ángulo aquí es pedagógico-educativo, no de mercantilización. Vigilar para promoción si reaparece sustantivamente — concept page candidata o sub-sección de consumismo-critica",
+          "quote_evidence": "También existe un internet apocalíptico, mentiroso, juzgador, hostil y vengativo"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 21,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "one-laptop-per-child": {
+      "canonical_name": "One Laptop per Child",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": "secondary",
+          "minutes": 2.5,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "caso real concreto (proyecto Microsoft 2005-2014) usado por el canal como evidencia empírica del fracaso de la pedagogía digital ingenua. Tratamiento de ~2.5min con detalle suficiente para futura referencia. No alcanza criterios §2.3 (sin análisis dedicado ≥30min ni recurrencia ≥4 vídeos verificable). Mantener en cola — caso útil para futura página tecnofilia-critica o consumismo-critica/extensión",
+          "quote_evidence": "Los ordenadores se estropeaban y los programas educativos resultaron insuficientes"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tdah-critica-canal": {
+      "canonical_name": "TDAH como diagnóstico desplazado",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "crítica al desplazamiento del diagnóstico (del entorno al niño) — conecta con la postura del canal sobre psiquiatría ya recogida en consumismo-critica.md (constructivismo psiquiátrico) y aludida en jung-carl-gustav.md. Aquí solo ~1min como golpe lateral del argumento principal. Vigilar para promoción si el canal dedica vídeo monográfico a la crítica del DSM / diagnósticos infantilizadores",
+          "quote_evidence": "Le diagnostican TDA cuando el aula misma ha sido convertida en jungla"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Instagram": {
+      "canonical_name": "Instagram",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Instagram empuja a los adolescentes a comparar sus cuerpos con otros",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Twitter": {
+      "canonical_name": "Twitter",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Twitter facilita el odio y la humillación a distancia de forma ágil",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "World of Warcraft (WoW)": {
+      "canonical_name": "World of Warcraft (WoW)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Un compañero de Derecho no podía concentrarse sabiendo que el ordenador le esperaba",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Atari / Master System / Sega": {
+      "canonical_name": "Atari / Master System / Sega",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Hace 40 años el problema era pedir una tele en el cuarto y la Atari, Master System o Sega",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Microsoft": {
+      "canonical_name": "Microsoft",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Microsoft llevó decenas de miles de portátiles a escuelas africanas sin techo ni pizarra",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Prometeo (fuego de doble filo)": {
+      "canonical_name": "Prometeo (fuego de doble filo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La tecnología como fuego de Prometeo de doble filo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ultramarine (motosierra)": {
+      "canonical_name": "Ultramarine (motosierra)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Existe una tecnología que enriquece y complementa, como motosierra del Ultramarine",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Agamenón / porquero": {
+      "canonical_name": "Agamenón / porquero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El mal es el mismo lo diga Agamenón o su porquero",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "elefante en la habitación / charla en Zaragoza": {
+      "canonical_name": "elefante en la habitación / charla en Zaragoza",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_meta_canal",
+          "quote_evidence": "La charla a los padres se rotula como \"el elefante en la habitación\"",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "llaves de casa (analogía)": {
+      "canonical_name": "llaves de casa (analogía)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "No le damos las llaves a un niño porque no está preparado para la vida real",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Costin de Shell / Valladolid": {
+      "canonical_name": "Costin de Shell / Valladolid",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "vUuvki-pJec",
+          "video_title": "Tecnofilia y educación",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_meta_canal",
+          "quote_evidence": "Tras Valladolid y \"Costin de Shell\", Proxy renuncia a su carrera previa",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

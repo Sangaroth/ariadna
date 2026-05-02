@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b005",
+  "items": [
+    {
+      "from_video": "4QsL6hZiXJU",
+      "block": {
+        "block_title": "El periodismo provocador como evidencia del absurdo",
+        "block_timestamp": "13:05",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "scope_applied": "block",
+        "rationale_extra": "match correcto del filtro: el bloque referencia 'PP en el poder' como contexto del programa Caiga quien caiga; el contenido es coyuntural sobre periodismo y vergüenza electoral, no encaja con dominios del scope. Filter funciona como esperado"
+      }
+    },
+    {
+      "from_video": "4QsL6hZiXJU",
+      "block": {
+        "block_title": "La Psoe State of Mind: identificación proyectiva como arma psicológica",
+        "block_timestamp": "26:13",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "scope_applied": "block",
+        "rationale_extra": "FALSO POSITIVO probable del filtro. 'Psoe State of Mind' es término acuñado por el canal en analogía explícita con la canción 'Empire State of Mind' de Jay-Z para nombrar un mecanismo psicológico (identificación + proyección como arma cultural de fabricación de rebeldes). El bloque NO es comentario coyuntural sobre el partido PSOE — es exposición de un mecanismo psicológico canal-específico que es pieza 7 del thesis_candidate de este vídeo. Recomiendo refinar el regex de topic_filters.json con negative lookahead que excluya 'psoe state of mind' como excepción canal-específica, p.ej.: '(?i)\\b(...|psoe(?! state of mind)|...)\\b'. La materia psicológica del bloque queda registrada en thesis_candidates[] y en discarded[] (entry 'identificación proyectiva') para preservar la auditabilidad pese al filtro"
+      }
+    },
+    {
+      "from_video": "5jbSgT3jkD8",
+      "block": {
+        "block_title": "Contexto de la polémica: reacciones al directo sobre \"las mujeres españolas\"",
+        "block_timestamp": "00:00",
+        "matched_pattern": "(?i)\\b(directo casual|charla informal|saludos a chat|moderaci[oó]n del directo)\\b",
+        "scope_applied": "block",
+        "rationale_extra": "el bloque de apertura es respuesta a protestas recibidas por un directo previo — moderación/clarificación del directo, encaja con el patrón. El video entero (3min) gira sobre este sucedido; no se filtra entire_video porque el filtro topic_filters.json no tiene override para este vídeo, pero todos sus contenidos quedan registrados como discard meta-canal o passing_mention"
+      }
+    }
+  ]
+}

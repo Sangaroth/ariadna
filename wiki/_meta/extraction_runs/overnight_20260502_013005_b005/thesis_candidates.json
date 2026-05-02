@@ -1,0 +1,93 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b005",
+  "items": [
+    {
+      "from_video": "4QsL6hZiXJU",
+      "from_video_title": "What is a Charo? Primera parte: Los entresijos de la rebeldía",
+      "thesis": {
+        "candidate_label": "Apoptosis cultural y fabricación de rebeldes — Charo como matriz de la rebeldía manipulada (Primera parte)",
+        "canonical_guess": "charo-rebeldia-manipulada-canal",
+        "synthesis_subtype": "author_thesis",
+        "page_type": "synthesis",
+        "domain_primary_guess": "interdisciplinary.cultural_studies",
+        "minutes_estimate": 32,
+        "signal_marks_detected": [
+          "pedagogic_register_sustained_ge_20min",
+          "internal_structure_articulated",
+          "self_reference_genealogic_series"
+        ],
+        "framework_internal_structure": [
+          "Pieza 1 — Liberalismo no se puede definir en negativo: vida/libertad/propiedad requieren contenido positivo que el liberal evade",
+          "Pieza 2 — Toda ideología política es ideología moral (super-yo): no es 'cómo quieres que se comporten los demás' sino 'qué acciones emprenderías ante la vida, la muerte, la verdad y Dios'",
+          "Pieza 3 — Fundamentales arquetípicos católicos: vida, libertad, amor, verdad (+Dios=verdad trascendental) como matriz inconsciente de Occidente",
+          "Pieza 4 — Tesis historiográfica: la civilización occidental es católica, no judeocristiana",
+          "Pieza 5 — Dos muertes culturales: disolución (segregación) vs apoptosis (auto-destrucción metabólica). Occidente va a la apoptosis",
+          "Pieza 6 — Crisis Boomer: el estado del bienestar genera desarraigo (los herederos no enfrentan los problemas que justificaban la cultura recibida)",
+          "Pieza 7 — El capital captura el desarraigo: MTV, 80-90, el rebelde-sin-causa como mercancía. Mecanismo: identificación + proyección (el desarraigado pasa de querer 'salir' a querer 'destruir' su propia cultura)",
+          "Pieza 8 — Las charos como matriz, no como producto: madres que han desactivado la función conservadora de la familia y por tanto fabrican rebeldes-de-juguete manipulables",
+          "Pieza 9 — Tesis positiva (héroe vs rebelde): el opuesto del rebelde es el héroe; la forma más heroica hoy es 'construir una vida' (eutaxia familiar como fin biológico)"
+        ],
+        "quote_evidence": [
+          "La ideología política es una forma de ideología moral, un conjunto de ideas sobre cómo deberían ser los demás para sentirme seguro",
+          "Los fundamentales arquetípicos culturales son vida, libertad, amor y verdad",
+          "La civilización occidental es católica, no judeocristiana",
+          "Hay dos formas de muerte cultural: disolución (los individuos se segregan y la cultura se divide) o apoptosis (explosión por exceso de actividad metabólica interna)",
+          "Occidente va hacia la apoptosis cultural: se está reventando la cultura desde dentro",
+          "Ese desarraigo genera rebeldía: el individuo quiere segregarse de su cultura porque las ideas viejas son soluciones a problemas colectivos que ya no tiene",
+          "El rebelde deja de querer salir de la cultura y pasa a querer destruirla: se convierte en vengador contra sus propios ancestros e instituciones",
+          "Las charos no son las hijas del fenómeno de rebeldía manipulada, sino las madres",
+          "Lo contrario al rebelde es el héroe, y la forma más heroica hoy es construir una vida",
+          "El fin de la familia es la eutaxia: la permanencia a lo largo del tiempo"
+        ],
+        "thesis_markers_explicit": [
+          "El título 'What is a Charo? Primera parte' + 'Los entresijos de la rebeldía' funciona como anuncio de tesis serializada"
+        ],
+        "rationale": "Vídeo monográfico de 32min con registro pedagógico-expositivo sostenido sobre marco teórico canal-específico articulado en 9 piezas coordinadas (no análisis de obra ni exposición de concepto académico ya establecido). Auto-referencia genealógica explícita en el título ('Primera parte' implica acumulatividad). Las piezas 5 (apoptosis), 7 (mecanismo identificación proyectiva como arma cultural), 8 (Charo como matriz) y 9 (héroe vs rebelde) son articulaciones canal-específicas no reductibles a aplicar Jung, Freud, ni a recapitular consumismo-critica.md. La pieza 7 está parcialmente en bloque filtrado por regex (PSOE State of Mind = falso positivo del filtro, ver blocks_filtered_by_topic_filters[]). Pase a discard_log:thesis_candidates[] para revisión humana — el extracto NO se aplica al wiki sin firma. Crítico para revisor: este vídeo es 'Primera parte' de serie; conviene esperar a tener al menos las partes II+ antes de compilar la página synthesis para no fragmentar la tesis",
+        "requires_human_validation": true,
+        "review_priority": "high",
+        "review_priority_reason": "thesis_candidate fuerte (3+ señales fuertes) + canal-específico + anuncia continuidad serial. Marca la cabeza de una serie temática que merece página synthesis dedicada. Revisor decide si (a) esperar Parte II para compilar, (b) registrar página parcial con 'serial_in_progress: true', o (c) escribir desde ya pero con explícito marker pendiente"
+      }
+    },
+    {
+      "from_video": "vUuvki-pJec",
+      "from_video_title": "Tecnofilia y educación",
+      "thesis": {
+        "candidate_label": "Educar personas, no usuarios de pantalla — tesis pedagógica del canal sobre tecnofilia y crianza",
+        "canonical_guess": "pedagogia-canal-mal-interno",
+        "synthesis_subtype": "author_thesis",
+        "page_type": "synthesis",
+        "domain_primary_guess": "interdisciplinary.cultural_studies",
+        "minutes_estimate": 21,
+        "signal_marks_detected": [
+          "pedagogic_register_sustained_ge_20min",
+          "internal_structure_articulated",
+          "self_reference_biographic"
+        ],
+        "framework_internal_structure": [
+          "Pieza 1 — Promesa rota del internet: conectar/conocimiento/ciencia vs suicidios, soledad, enfermedades mentales",
+          "Pieza 2 — Niños y pantallas: exposición indiscriminada (sexo, violencia, comparación corporal, TCAs, manipulación)",
+          "Pieza 3 — Fracaso de la pedagogía digital: caso One Laptop per Child + colegios que sustituyen libros por tablets",
+          "Pieza 4 — El aula convertida en jungla y el TDAH como diagnóstico desplazado del sistema al niño",
+          "Pieza 5 — Tesis positiva: 'el cerebro preparado para usar la tecnología se forja detrás, no delante de la pantalla'",
+          "Pieza 6 — Tesis moral: el mal estuvo siempre dentro, no fuera; la tecnología solo amplifica lo que ya hay",
+          "Pieza 7 — Promesa parental: no librar al niño del mal, prepararlo para su contacto con él"
+        ],
+        "quote_evidence": [
+          "El cerebro preparado para usar la tecnología se forja detrás, no delante de la pantalla",
+          "La tarea es prepararlos para vivir consigo mismos, no para la realidad externa",
+          "El mal es el mismo lo diga Agamenón o su porquero",
+          "Internet ha multiplicado el mal y catalizado la estupidez",
+          "La tecnología potencia habilidades, talento y también defectos",
+          "A los niños no se les puede evitar el mal, solo prepararlos para su contacto con él",
+          "Antes le preocupaba la tecnología; hoy considera trivial lo que ocurre en la cabeza con ella"
+        ],
+        "thesis_markers_explicit": [],
+        "rationale": "Vídeo monográfico de 21min con registro pedagógico sostenido sobre marco articulado en 7 piezas coordinadas (no análisis de obra ni exposición de concepto académico ya establecido). Auto-referencia biográfica explícita (la decisión de Proxy de estudiar la mente en lugar de Derecho como fundamento de su mirada actual sobre la tecnología). Faltan marcadores explícitos tipo 'mi tesis' / 'propongo', pero el armado expositivo y la concatenación de las piezas 5-6-7 funciona como articulación de tesis original. La pieza moral (el mal está dentro, no fuera) y la pedagógica positiva (educar para vivir consigo mismo) son canal-específicas y no se reducen a aplicar Jung ni a recapitular consumismo-critica. Pase a discard_log:thesis_candidates[] para revisión humana — el extracto NO se aplica al wiki sin firma. Conecta lateralmente con consumismo-critica.md (homogeneización por plataformas) e individuation.md (madurez psicológica), pero como marco propio, no como sub-sección",
+        "requires_human_validation": true,
+        "review_priority": "high",
+        "review_priority_reason": "tesis pedagógico-moral coherente con potencial de página propia synthesis (subtype author_thesis); el humano debe decidir entre (a) crear pagina propia tecnofilia-pedagogia-canal, (b) extender consumismo-critica con sub-sección sobre tecnología y crianza, o (c) esperar a más sources para confirmar recurrencia"
+      }
+    }
+  ]
+}
