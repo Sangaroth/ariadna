@@ -76,6 +76,17 @@ Peter Pan es el material más denso del corpus para esta polaridad:
   → [Peter Pan, 13:47](https://youtu.be/ClnayaScAjQ?t=827)
 
 - **Wendy y la permanencia del ánimus ideal**: la madre reconoce desde el principio que las fantasías de su hija apuntan al ánimus masculino. Wendy crecerá diciendo "soy mayor" pero seguirá creyendo en Peter Pan: el único lugar donde no abandona la infancia es el ánimus
+
+
+- **La mutación del síndrome de Wendy a síndrome de la ninfa**: cuando el florecimiento sexual alcanza a la joven en plena imaginación del amante ideal, el síndrome de Wendy muta al síndrome de la ninfa. La diosa pasa de Artemisa a Afrodita mientras el cuerpo se desarrolla. La ninfa arquetípica es un ser hipersexual perdido en el bosque que enamora a todos los que se la encuentran — Peter Pan ya la representaba bajo la figura de los polvos mágicos (la pequeña sensual). Es el polo donde el ánima ingenua se vuelve ánima sexualizada antes de tener el yo para sostenerla
+  → [Análisis arquetípico de Drácula, 39:09](https://youtu.be/JmCqIk6NDsM?t=2349)
+
+- **Íncubo y súcubo como deriva demonológica del polo**: el íncubo es el demonio que provoca deseo sexual en la doncella; el súcubo es el demonio femenino que succiona el alma del hombre. La regla operativa que el canal articula: Afrodita debe evitar desviarse hacia la ninfa y el súcubo; el dios debe evitar convertirse en íncubo. La mordedura del súcubo o el íncubo convierte en vampiro para siempre — solo se libera perdiendo la cabeza o atravesando el corazón
+  → [Análisis arquetípico de Drácula, 1:40:24](https://youtu.be/JmCqIk6NDsM?t=6024)
+
+- **Lucy como Lilit, novia de Drácula**: Lucy muerta en pecado sale por la noche a cazar como Lilit que devora niños para mantenerse joven. Es un sincretismo de toda la feminidad oscura — madre oscura, Lilit, súcubo y ninfa mezclados en el concepto de novia de Drácula. Cuando seduce a su prometido con "bésame, acaríciame, amado esposo mío" muestra la versión cinematográfica del [[anima-archetype|ánima sola]] corrompida y reconvertida en cazadora
+  → [Análisis arquetípico de Drácula, 2:34:06](https://youtu.be/JmCqIk6NDsM?t=9246)
+
   → [Peter Pan, 1:51:34](https://youtu.be/ClnayaScAjQ?t=6694)
 
 - **Scott Pilgrim retoma el síndrome**: Wendy representa a la joven ingenua cuya potencia imaginativa es fuga de realidad; Peter Pan es la idealización del amante ideal que existe solo en su imaginación

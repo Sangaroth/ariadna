@@ -135,7 +135,24 @@ Aulë y Yavanna en la superficie telúrica; Ulmo y Manwë en el plano cósmico. 
 
 ### Adán y Eva: cosmogonía polar canónica de Occidente
 
-> "La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal."
+> "La cosmogonía polar es un mito de creación basado en la división entre dos sexos. El pecado original se interpreta como comer del fruto del árbol del conocimiento. Se aborda desde la semiótica que maneja el canal.
+
+
+### Drácula: el polar invertido por sacrilegio
+
+Drácula encarna el caso del mito polar que el corpus había tematizado poco: la conjunción que falla irreversiblemente y disuelve a los amantes en su forma corrompida. La estructura de fondo es la de los **amantes trágicos** — la pareja perfecta separada por una fuerza cósmica que los empuja a la disolución en lugar de a la égersis.
+
+> "El mito universal detrás de Drácula es la estructura de los amantes trágicos."
+> "Los amantes trágicos se llaman así porque no pueden consumar su amor llevándolo a la felicidad eterna."
+→ [Análisis arquetípico de Drácula, 32:35](https://youtu.be/JmCqIk6NDsM?t=1955)
+
+La pieza polar se rompe por **sacrilegio**: el caballero rojo de la Sagrada Orden del Dragón, separado de su amada por el suicidio que la condena al infierno, se rebela contra Dios y bebe la sangre del sacrilegio. La conjunción legítima (sangre sacramentada) se sustituye por su inversión (sangre arrebatada). La culminación interna del polar — el [[hieros-gamos]] — se vuelve `hierosgamos satánico`: no libera, atrapa.
+
+> "Drácula simboliza simultáneamente un amante trágico, un sacrílego, un demonio y un caballero maldito."
+→ [Análisis arquetípico de Drácula, 56:53](https://youtu.be/JmCqIk6NDsM?t=3413)
+
+El polar invertido es estructuralmente recuperable: en la lectura preferida del canal, Drácula y Jonathan son el mismo ser desdoblado, y la decapitación final que ejecuta Mina equivale a renunciar al amante ideal corrompido para abrir la conjunción legítima con el amante real.
+"
 → [Pecado original y Postmodernidad I, 00:40](https://youtu.be/J45h7xet8gg?t=40)
 
 ## Conexión con otros conceptos
@@ -149,6 +166,7 @@ Aulë y Yavanna en la superficie telúrica; Ulmo y Manwë en el plano cósmico. 
 
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: el corpus se centra en el polar exitoso (conjunción). Apenas hay material sobre -->
 - **Mito polar negativo o fallido**: el corpus se centra en el polar exitoso (conjunción). Apenas hay material sobre cuando la separación es irreversible y el mito queda truncado en la disolución
 - **Tradiciones no-occidentales**: el material recuperado se basa en mitología grecorromana, judeocristiana y germánica (Tolkien). Ausentes: el polar dao (yin/yang) que el canal podría articular, el polar mesoamericano (Quetzalcóatl/Coatlicue), el polar hindú (Shiva/Shakti)
 - **Crítica al esencialismo binario**: el canal subraya que masculino/femenino son cognitivos, no biológicos, pero no recoge las objeciones contemporáneas al modelo dipolar (¿qué pasa con experiencias no-binarias del género? ¿el dipolo es psíquicamente universal o cultural?)

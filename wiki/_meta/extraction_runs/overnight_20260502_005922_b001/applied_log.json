@@ -1,0 +1,51 @@
+{
+  "applied_at": "2026-05-02T01:27:44+00:00",
+  "run_id": "overnight_20260502_005922_b001",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "anima-archetype": {
+      "file_path": "wiki/concepts/anima-archetype.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='el único lugar donde no abandona la infancia es el' section=''",
+        "  + insert_after (1740 chars) tras anchor único"
+      ]
+    },
+    "hieros-gamos": {
+      "file_path": "wiki/concepts/hieros-gamos.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='Ambos personajes empiezan a tomar el papel de ser ' section=''",
+        "  + insert_after (1167 chars) tras anchor único"
+      ]
+    },
+    "mito-polar": {
+      "file_path": "wiki/concepts/mito-polar.md",
+      "updates_applied": 2,
+      "log": [
+        " [mark_laguna_resolved] anchor='' section=''",
+        "  + marked laguna en línea 151: 'el corpus se centra en el polar exitoso (conjunción). Apenas'",
+        " [insert_after_passage] anchor='Se aborda desde la semiótica que maneja el canal.' section=''",
+        "  + insert_after (1540 chars) tras anchor único"
+      ]
+    },
+    "shadow-archetype": {
+      "file_path": "wiki/concepts/shadow-archetype.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='evoca a Drácula de Bram Stoker; en los sueños no h' section=''",
+        "  + insert_after (1098 chars) tras anchor único"
+      ]
+    }
+  }
+}
