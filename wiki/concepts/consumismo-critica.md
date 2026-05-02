@@ -70,6 +70,21 @@ La conexión con la psicología arquetípica es directa: el consumismo opera com
 > "Desde que hay internet el 90% de las producciones son copias de una copia de una copia. El talento de un individuo llega a 100 personas gracias a internet, pero esas 100 consumen las toneladas de basura que lo eclipsan. Que un canal con talento sea pequeño no es injusto sino normal: la gente consume lo fácil."
 → [La IA se sale de madre, 52:03](https://youtu.be/i72IYlpQWd0?t=3123)
 
+
+
+### Tecnología ergonómica y deuda cognitiva
+
+Un cuarto mecanismo, específicamente vinculado al uso intensivo de tecnología:
+
+> "La tecnología como ergonomía: el entorno se adapta al individuo en vez de que el individuo luche contra el entorno."
+→ [Cuento contigo, 19:20](https://youtu.be/Eqoq3O9wVzA?t=1160)
+
+> "La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo."
+→ [Cuento contigo, 19:20](https://youtu.be/Eqoq3O9wVzA?t=1160)
+
+La tecnología "ergonómica" — la diseñada para reducir fricción adaptándose al usuario — opera como mecanismo consumista cuando sustituye el esfuerzo vital real por una facilidad que vacía la psique de objetivos por los que aplicarse. La **deuda cognitiva** nombra el coste acumulado de esa sustitución: cada renuncia al esfuerzo paga interés en degradación del ánimo y de la capacidad de medir las propias fuerzas.
+
+
 ## Manifestación canónica: las apps de citas
 
 El canal trata las apps de citas como **caso paradigmático de mercantilización afectiva**:
