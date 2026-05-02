@@ -162,7 +162,3 @@ Lectura antropológica del vínculo:
 - **Tradición esotérica occidental** (alquimia hermética, cábala) que articula el matrimonio sagrado en clave operativa: hay un chunk sobre alquimia poética pero no profundización
 - **El hieros gamos en Fight Club** (Jack-Marla como conjunción mal resuelta) — la lectura de [[fight-club-1999-film]] como "encuentro con la diosa" no está conectada explícitamente con la teoría general del hieros gamos en el material analizado
 - **Crítica feminista al concepto** (riesgo de esencializar masculino/femenino) — el canal toca el tema en otros vídeos pero no lo articula contra el modelo polar
-
-## Citations
-
-- **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [7:42](https://youtu.be/Tviv4PT0dv8?t=462) · [11:45](https://youtu.be/Tviv4PT0dv8?t=705) · [16:18](https://youtu.be/Tviv4PT0dv8?t=978) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
