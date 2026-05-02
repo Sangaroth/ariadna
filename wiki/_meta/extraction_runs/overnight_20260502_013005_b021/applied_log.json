@@ -1,0 +1,41 @@
+{
+  "applied_at": "2026-05-02T08:28:07+00:00",
+  "run_id": "overnight_20260502_013005_b021",
+  "types_filter": [
+    "add_citation",
+    "append_to_section",
+    "enrich_section",
+    "extend_passage",
+    "insert_after_passage",
+    "insert_before_passage",
+    "mark_laguna_resolved",
+    "new_lagunas_resolved",
+    "replace_passage"
+  ],
+  "pages": {
+    "anima-archetype": {
+      "file_path": "wiki/concepts/anima-archetype.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_before_passage] anchor='### El \"ánima sola\": una formulación específica de' section=''",
+        "  + insert_before (1530 chars) antes de anchor único"
+      ]
+    },
+    "individuation": {
+      "file_path": "wiki/concepts/individuation.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='Esta lectura **explica por qué importa el cine arq' section=''",
+        "  + insert_after (1425 chars) tras anchor único"
+      ]
+    },
+    "jung-carl-gustav": {
+      "file_path": "wiki/authors/jung-carl-gustav.md",
+      "updates_applied": 1,
+      "log": [
+        " [insert_after_passage] anchor='Esta postura sitúa al canal en una **lectura instr' section=''",
+        "  + insert_after (1296 chars) tras anchor único"
+      ]
+    }
+  }
+}

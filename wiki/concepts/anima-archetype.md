@@ -96,6 +96,20 @@ Peter Pan es el material más denso del corpus para esta polaridad:
 - **La idealización femenina del varón**: las niñas imaginan un héroe infantil — niño rebelde, ligeramente atormentado, inmortal, que entra por la ventana. Esta idealización contrapone al padre pero conserva similitudes con él. Estos hombres no existen: son superhéroes infantiles
   → [Scott Pilgrim, 05:31](https://youtu.be/X2c2a3mQBOs?t=331)
 
+### La doncella como forma joven de la diosa: la gracia y el rapto del dragón
+
+Una articulación recurrente del canal lee el rapto mítico de la doncella como pérdida estructural de la **gracia** — la capacidad femenina de comunicación con lo salvaje:
+
+> "En el mito el héroe se encuentra con el mal (dragón) que causa un daño superior a su capacidad de recuperación. El dragón rapta a la doncella que representa la gracia: la capacidad de comunicación con lo salvaje y de curación. La doncella es la forma joven de la diosa, aún sin fuerza para defenderse sola."
+→ [Magia y Trauma, 1:14:09](https://youtu.be/JNafno3jgHY?t=4449)
+
+La doncella raptada nombra una fase del femenino interior anterior a la potencia plena de la diosa: ánima ingenua, todavía indefensa, cuya pérdida produce la **noche oscura del alma** — el invierno permanente del psiquismo:
+
+> "Sin la doncella no puede volver la primavera: el héroe queda atrapado en invierno permanente. La diosa se comunica de forma natural con todas las criaturas: en el paraíso había armonía con lo salvaje. Perder la gracia es perder la capacidad de dialogar con la serpiente sin ser devorado."
+→ [Magia y Trauma, 1:20:17](https://youtu.be/JNafno3jgHY?t=4817)
+
+Esta lectura conecta la dinámica trauma → noche oscura del alma con el aparato arquetípico del ánima: el trauma psíquico opera estructuralmente como rapto del polo femenino interior, y la curación mítica (ahuyentar al dragón, regresar con la princesa) es la misma estructura que la regresión terapéutica de tipo EMDR.
+
 ### El "ánima sola": una formulación específica del canal
 
 El canal usa con regularidad la figura del **ánima sola** — concepto que va más allá del Jung clásico — como el alma femenina condenada a repetir su sufrimiento sin resolución:

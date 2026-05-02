@@ -80,6 +80,21 @@ Concepto recurrente del canal — la individuación opera vía identificación c
 
 Esta lectura **explica por qué importa el cine arquetípico**: no es entretenimiento — es vehículo de un proceso psicológico real que solo puede ocurrir si el material es genuinamente arquetípico.
 
+
+
+### El cambio alquímico aplicado al trauma: ahuyentar al dragón y rescatar a la princesa
+
+El canal extiende el mecanismo del cambio alquímico al tratamiento del trauma psíquico, articulando una equivalencia estructural entre la regresión terapéutica y el descenso heroico mítico:
+
+> "La única forma de acabar con la noche oscura es lanzarse contra el dragón para rescatar a la princesa. No basta con exponerse al mal: hay que descender a la guarida del dragón y confrontar el trauma desde dentro."
+→ [Magia y Trauma, 1:28:05](https://youtu.be/JNafno3jgHY?t=5285)
+
+> "Desensibilizar equivale a ahuyentar al dragón; reelaborar equivale a regresar con la princesa recuperada. El terror persiste porque la conciencia cerró la puerta del evento sin apagar la luz emocional. La confrontación terapéutica permite apagar esa luz y regresar a la realidad con la componente afectiva resuelta."
+→ [Magia y Trauma, 1:39:43](https://youtu.be/JNafno3jgHY?t=5983)
+
+El mecanismo neurofisiológico que subyace al EMDR (anticorrelación simpático/parasimpático) opera como soporte clínico de un proceso que el canal lee como **regresión episódica**: la misma estructura del descenso del héroe a la guarida, sólo que mediada por desensibilización propioceptiva en lugar de trance mágico. La individuación, en su aplicación clínica al trauma, no es solo integración de la sombra sino rescate del polo femenino raptado por el evento traumático.
+
+
 ## Casos donde la individuación se cumple en el corpus
 
 ### Atrapado en el tiempo: el héroe que se cultiva
