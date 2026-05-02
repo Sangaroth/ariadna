@@ -65,6 +65,51 @@
         "requires_human_validation": false,
         "rationale": "Cumple gate auto-promoción §2.4.1: minutes_sustained=75 (>=30, vídeo monográfico de 81 min sostenido sobre la tesis cognitiva) AND speaker_authorship_marks=7 (>=3, incluye declared_thesis + internal_structure múltiples + pedagogic_register sostenido) AND framework_internal_structure=12 piezas (>=4, sistema articulado con sub-conceptos que dependen entre sí). El canal articula su propio modelo cognitivo — no expone psicología cognitiva canon ni analiza una obra ajena. Pilar declarado del canal (psicología cognitiva + neurociencia, scope §1.2 dominio condicionado activado por marco aplicado propio). Mismo patrón que el ejemplo explícito en scope.md ('golem-de-cobre 81 min sobre cognición humana vs IA' como caso paradigmático del gate)."
       }
+    },
+    {
+      "from_video": "wxcSuqipA6s",
+      "from_video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+      "auto_promoted": true,
+      "thesis": {
+        "thesis_title_proposed": "Diagrama de Proxy: dos ejes neuropsicológicos para clasificar la orientación moral-política",
+        "proposed_page_id": "diagrama-de-proxy",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Existen dos ejes de personalidad basados en la consideración de los fundamentos morales rígidos y la posición respecto a la jerarquía"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Eje vertical: aceptación de la autoridad jerárquica (arriba) versus rechazo de lo jerárquico (abajo),\n  - Eje horizontal: fundamentos rígidos de la moral (derecha) versus fundamentos relativistas (izquierda),\n  - Correlatos cerebrales: hacia la derecha más amígdala, hacia la izquierda más córtex cingulado anterior, arriba mayor área tegmental ventral"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Toda conducta proviene de una personalidad en consonancia con impulsos que tienen un correlato neuropsicológico"
+          }
+        ],
+        "framework_internal_structure": [
+          "Eje vertical: aceptación / rechazo de la jerarquía (locus de autoridad interno vs externo)",
+          "Eje horizontal: fundamentalismo moral vs relativismo (rigidez vs adaptación contextual de la norma)",
+          "Correlatos neuropsicológicos: amígdala (derecha), córtex cingulado anterior (izquierda), área tegmental ventral (arriba), corteza orbitofrontal (centro-arriba)",
+          "Razonamiento motivado y construcción moral como respuesta emocional con sustrato cerebral",
+          "Cuatro cuadrantes prototípicos con casos: arriba-derecha (católico conservador), abajo-derecha (Rallo, ancap), abajo-izquierda (hippies, anarquistas), arriba-izquierda (totalitarios)",
+          "Distinción autoritario / totalitario por presencia o ausencia de fundamento moral previo (Dios, derecho natural)",
+          "Aplicación operativa: ubicación de figuras públicas y youtubers como test del modelo"
+        ],
+        "minutes_sustained": 72,
+        "domain_guess": "social.psychology.cognitive",
+        "related_existing_pages": [
+          "consumismo-critica",
+          "collective-unconscious"
+        ],
+        "requires_human_validation": false,
+        "rationale": "Cumple los tres criterios del gate de auto-promoción §2.4.1: minutes_sustained=72 (>=30), speaker_authorship_marks=4 (>=3, incluye thesis_marker en el propio título 'Diagrama de Proxy', internal_structure explícita 'dos ejes', pedagogic_register sostenido en resumen final 51:18, e internal_structure adicional sobre correlato neuropsicológico de la conducta), framework_internal_structure=7 piezas articuladas (>=4). El vídeo es monográfico, marca foundational del canal: articula su propia clasificación moral-política con correlato neurocientífico aplicado. Es un objeto enciclopédico claro del canal que no encaja en ninguna page existente ni se reduce a 'concept' (es un marco propio sistémico)."
+      }
     }
   ]
 }

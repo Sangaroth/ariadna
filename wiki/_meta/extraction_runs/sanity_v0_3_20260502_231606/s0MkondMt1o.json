@@ -1,0 +1,326 @@
+{
+  "video_id": "s0MkondMt1o",
+  "video_title": "Cuento de Navidad y el espíritu Luterano con teleñecos",
+  "playlist": "_sin_playlist",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Cuento de Navidad (Muppets, Henson 1992)",
+      "canonical_guess": "cuento-de-navidad-muppets-1992-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 119,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo: si te hace sentir bien, será bueno"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3: vídeo monográfico de 119 min sobre la obra (≥30 min). Análisis arquetípico aplicado obra-por-obra (estructura cromática, metacuento, espíritus como purgatorios) y caso paradigmático sobre el cual el canal articula su distinción luterano/católico — la obra es el caso operativo del marco",
+      "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno"
+    },
+    {
+      "surface_form": "Dickens",
+      "canonical_guess": "dickens-charles",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "scope.md §2.2: aparece como recurso meta-narrativo (vendedor de manzanas que rompe la cuarta pared) y como autor del relato base, sin exposición sustantiva de su pensamiento ni ≥10 min dedicados. No figura en canonical_whitelist. Se mantiene como mención dentro del análisis de la obra",
+      "quote_evidence": "El vendedor de manzanas se llama a sí mismo Dickens para contarnos un cuento, creando un metacuento"
+    },
+    {
+      "surface_form": "diagrama de Proxy",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El speaker invoca su propio diagrama y declara que la distinción luterano/católico opera 'debajo' del marco. Es self-reference genealógica que el canal usa como puente entre dos thesis suyas; la página actual no documenta esta conexión",
+      "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "- [[jung-carl-gustav]] — el diagrama funciona como **tipología propia** del canal: clasifica orientaciones psíquicas estables con correlato profundo, en paralelo funcional (no de contenido) a las tipologías junguianas clásicas.",
+      "section_target": null,
+      "content_proposed": "- [[marco-luterano-catolico]] — el canal ubica una distinción moral-religiosa **debajo** del diagrama: el luteranismo sitúa el centro del valor en la vivencia interior positiva (\"si te hace sentir bien, será bueno\"); el catolicismo, en las obras. La distinción opera como sustrato cosmovisivo de las posiciones que el diagrama clasifica y prefigura su extensión hacia un eje moral-religioso explícito.\n\n> \"La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo.\"\n→ [Cuento de Navidad y el espíritu Luterano con teleñecos (29:49)](https://youtu.be/s0MkondMt1o?t=1789)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "marco-luterano-catolico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "s0MkondMt1o",
+          "timestamp_seconds": 1789,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano con teleñecos (29:49)](https://youtu.be/s0MkondMt1o?t=1789)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página actual conecta con consumismo-critica, collective-unconscious y jung, pero NO documenta el sustrato moral-religioso luterano/católico que el speaker explícitamente sitúa 'debajo' del diagrama. Es self-reference genealógica donde el canal conecta dos thesis suyas — la añadidura preserva la trazabilidad del grafo y deja un wikilink hacia el thesis_candidate marco-luterano-catolico que queda en cola de validación humana",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Marco luterano vs católico: dos cosmovisiones de la bondad, el disfrute y la celebración",
+      "proposed_page_id": "marco-luterano-catolico",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo: si te hace sentir bien, será bueno"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Para los católicos el bien y el mal no tienen que ver con lo que te hace sentir bien o mal, sino con las obras"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El católico dice que con suficientes buenas obras terminarás sintiéndote permanentemente bien; el luterano prioriza la vivencia interior"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Para los luteranos el enamoramiento y los afectos físicos son el motor del amor en pareja"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El luteranismo es muchísimo más individualista que el catolicismo"
+        }
+      ],
+      "framework_internal_structure": [
+        "Centro del valor: vivencia interior positiva (luterano) vs obras y pacto (católico)",
+        "Disfrute: glorificación que enriquece el alma (luterano) vs distracción de la condición humana y misión espiritual (catolicismo benedictino)",
+        "Espíritu navideño: bienestar material santificado un día al año (luterano) vs Navidad llevada todos los días (católico)",
+        "Matrimonio: enamoramiento y afectos físicos como motor (luterano) vs obra matrimonial / pacto sagrado de compañeros de vida (católico)",
+        "Hedonismo socialmente aceptable: el fantasma de la Navidad presente como gordo-feliz que come y ríe (estereotipo protestante no-malo)",
+        "Estructura del grupo: individualismo luterano vs familismo católico (la familia como unidad mínima de vínculos inevitables)",
+        "Conexión genealógica con el diagrama de Proxy: la distinción opera 'debajo' del diagrama como sustrato cosmovisivo"
+      ],
+      "minutes_sustained": 28,
+      "domain_guess": "humanities.religion",
+      "related_existing_pages": [
+        "diagrama-de-proxy",
+        "consumismo-critica",
+        "individuation"
+      ],
+      "requires_human_validation": true,
+      "rationale": "scope.md §2.4.1: 6+ piezas internas explícitas y articuladas comparativamente, 6 marcas de autoría detectadas (internal_structure repetido + pedagogic_register sostenido + genealogical_self_reference al diagrama de Proxy), exposición sostenida ~28 min interleaved con análisis de obra (29:49–50:06 + 1:25:58–1:29:29 + 1:55:22–1:58:23). NO cumple gate de auto-promoción completo: minutes_sustained estimado <30 y falta thesis_marker explícito ('mi tesis'/'propongo' no aparecen literal en summary). Queda en cola para validación humana — la tesis es articulación moral-religiosa del canal con ramificación a varios pages existentes y conecta explícitamente con el diagrama de Proxy"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Scrooge",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista de la obra analizada; su trayectoria psicológica (pecados por etapa vital, aprendizaje por contraste, los tres espíritus como mini purgatorios) se documenta en el entity_work cuento-de-navidad-muppets-1992-film",
+      "quote_evidence": "El egoísmo de Scrooge tiene muchísimas metáforas diferentes, lo cual es muy bonito en Dickens",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Bob Cratchit",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje secundario de la obra; el análisis (bondad sin resentimiento, idea cristiana del trabajo como regalo) va en la página entity_work del film",
+      "quote_evidence": "Bob Cratchit es la máxima expresión de dependencia hacia Scrooge pero carece de capacidad de resentimiento",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Tiny Tim",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje del film; la lectura arquetípica (bondad inherente cuya ausencia apaga todo, definido por la silla vacía) va en el entity_work",
+      "quote_evidence": "Tiny Tim representa personas con muchísimo dolor que son las más positivas del mundo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Marley (los Marley)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Aparición en la obra analizada; la lectura (cadenas como peso de las malas obras, aparición como recuerdo evocado) va en el entity_work",
+      "quote_evidence": "Los Marley son espíritus encadenados al más acá lamentándose por no haber sido buenas personas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Isabel (primer amor de Scrooge)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje del film usado como bisagra para una observación psicológica sobre el primer desamor masculino. La observación (re-trauma del abandono materno) es estructural pero pasajera en el corpus de este vídeo",
+      "quote_evidence": "Recordar al primer amor es doloroso porque nunca sanaste la herida de lo que no funcionó",
+      "review_priority": "medium",
+      "review_priority_reason": "El bloque sobre 'el primer desamor del varón como re-trauma del abandono de la madre' es material psicológico estructural que podría enriquecer anima-archetype o sindrome-wendy en futuras pasadas. Queda flag para humano",
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "Disney",
+      "reason_code": "passing_mention",
+      "reason_detail": "Atribución de producción/distribución del film, no objeto de análisis. La empresa no se trata como entidad institucional en este vídeo",
+      "quote_evidence": "Disney abre con una estrella fugaz descendiendo hacia tejados nevados como certificación visual del invierno",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "catolicismo benedictino",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "El canal lo invoca como matiz dentro de la cosmovisión católica (el disfrute como olvido de la condición humana). Queda capturado en el thesis_candidate marco-luterano-catolico como pieza interna",
+      "quote_evidence": "El catolicismo benedictino sostiene que el disfrute te hace olvidar tu condición humana y tu misión espiritual",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "luteranismo / espíritu luterano",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Tradición religiosa invocada como uno de los dos polos del marco luterano-católico. No promueve página autónoma — su rol enciclopédico aquí es como pieza del thesis_candidate del canal",
+      "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo: si te hace sentir bien, será bueno",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "catolicismo",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Tradición religiosa invocada como contraparte del luteranismo en el marco moral del canal. Capturada en thesis_candidate marco-luterano-catolico",
+      "quote_evidence": "Para los católicos el bien y el mal no tienen que ver con lo que te hace sentir bien o mal, sino con las obras",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "mini purgatorios (los tres espíritus)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Sub-concepto del análisis del film: cada enfrentamiento con el propio dolor como mini purgatorio. Va dentro de la lectura arquetípica de la obra en el entity_work, no merece página propia",
+      "quote_evidence": "Cada enfrentamiento con tu propio dolor es un mini purgatorio donde comprendes el significado universal de tus malos actos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "emotividad como mecanismo de desbordamiento",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Observación psicológica acoplada al desenlace del film (la añoranza como emoción más común al desbordarse). Material breve, va dentro del entity_work como cita situada",
+      "quote_evidence": "La emotividad es el mecanismo por el cual todas tus emociones afloran y te desbordan como si te quitaran un tapón",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "aparición / fantasma como recuerdo evocado",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Lectura psicológica del recurso narrativo del film (la aparición como contenido inconsciente que pide ser explícito). Material que pertenece al análisis de obra; no es concepto canónico autónomo del canal",
+      "quote_evidence": "Una aparición es un recuerdo evocado que se ve en el exterior; cuando aparece fuera es porque estaba pidiendo salir",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "usura / avaricia",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Conceptos morales tratados brevemente como metáforas del egoísmo de Scrooge dentro del análisis del film. No tienen tratamiento conceptual autónomo en este vídeo",
+      "quote_evidence": "La usura no se demoniza por el lucro sino por la crueldad de priorizar el beneficio propio olvidando la condición de los demás",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "código cromático cálido/frío",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Lectura visual-arquetípica del film (calor humano = simpatía; frío = ausencia del otro). Pertenece al análisis estético de la obra, no a un concepto enciclopédico del canal",
+      "quote_evidence": "Los integrados en la comunidad están rodeados de colores cálidos siempre; los solitarios de colores fríos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "metacuento / cuarta pared",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Recurso narrativo del film (Dickens-vendedor que rompe la cuarta pared). Va en el entity_work como observación sobre la estructura formal de la obra",
+      "quote_evidence": "El vendedor de manzanas se llama a sí mismo Dickens para contarnos un cuento, creando un metacuento",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "definición de buena persona",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Definición operativa puntual ('producir y sentir más simpatía que aversión') usada en el análisis del film. No es concepto canónico autónomo del canal con tratamiento extendido",
+      "quote_evidence": "Una buena persona es aquella cuyo interior, al salir al exterior, es capaz de producir y sentir más simpatía que odio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "aprendizaje por contraste / por ausencia",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Mecanismo psicológico-pedagógico aplicado al recorrido de Scrooge (valorar las cosas por su ausencia es propio de la ingenuidad). Material breve, capturado en entity_work",
+      "quote_evidence": "Scrooge aprende todo por contraste: comprende lo bueno que es el amor cuando le hacen ver lo que ha perdido",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "dilema determinismo (sombras de lo que puede ser vs lo que será)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Lectura filosófica del fantasma del futuro en el film: el silencio de la muerte como condición para que la conversión salga del propio sujeto. Material puntual del análisis de obra",
+      "quote_evidence": "La muerte no le dice si el futuro es evitable o inevitable: la conversión tiene que salir de uno mismo para que valga",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 18,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T23:45:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Cuento de Navidad (Muppets, Henson 1992)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "run_id": "sanity_v0_3_20260502_231606",
-  "generated_at": "2026-05-02T21:22:58+00:00",
+  "generated_at": "2026-05-02T21:27:24+00:00",
   "entities": {
     "ChatGPT": {
       "canonical_name": "ChatGPT",
@@ -536,6 +536,574 @@
           "decision": "discard",
           "decision_reason": "captured_in_thesis_candidate",
           "quote_evidence": "Los problemas culturales actuales (IA, redes sociales, pornografía) son problemas morales, no científicos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "diagrama-de-proxy": {
+      "canonical_name": "Diagrama de Proxy",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": "central_thesis",
+          "minutes": 72,
+          "framing_marks_count": 2,
+          "decision": "captured_in_thesis_candidate",
+          "decision_reason": "Es la tesis central del vídeo (72 min monográfico). Se promueve vía thesis_candidate diagrama-de-proxy (synthesis_subtype: author_thesis) que cumple gate de auto-promoción §2.4.1. Aquí solo se referencia para evitar doble entrada.",
+          "quote_evidence": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "captured_in_thesis_candidate"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 72,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "locus-de-autoridad": {
+      "canonical_name": "locus de control o locus de autoridad",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Mecanismo cognitivo que el speaker articula como pieza interna del diagrama (eje vertical). No merece página autónoma — su contenido pertenece a la futura página diagrama-de-proxy donde es uno de los componentes operativos.",
+          "quote_evidence": "El locus de control o locus de autoridad determina si representas las amenazas como externas o internas"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "razonamiento-motivado": {
+      "canonical_name": "razonamiento motivado",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Concepto cognitivo estándar usado por el speaker como sustento empírico del eje horizontal del diagrama. Per scope.md §1.2: el speaker lo aplica a marco propio → IN como evidencia, NO como página autónoma (las pages son del canal, no de la disciplina).",
+          "quote_evidence": "Se identificaron circuitos de \"razonamiento motivado\": mecanismos cerebrales para producir justificaciones que alivien la culpa o disonancia"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "anarcocapitalismo": {
+      "canonical_name": "anarcocapitalistas / ancap",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "discard",
+          "decision_reason": "Tradición política tratada en el vídeo solo para ubicarla en el diagrama (cuadrante abajo-derecha) y narrar su migración psicológica desde el relativismo. El contenido pertenece a la página diagrama-de-proxy como caso prototípico, no merece página autónoma sin tratamiento dedicado en otros vídeos.",
+          "quote_evidence": "Los ancap están abajo a la derecha: no soportan la jerarquía pero tampoco que se destruyan fundamentos como libertad y propiedad"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Diagrama de Nolan": {
+      "canonical_name": "Diagrama de Nolan",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El diagrama de Nolan ubica a las personas en dos ejes: económico (izquierda-derecha) y autoritario-libertario,\n  - Los tests que determinan la posición son deficientes porque las preguntas contienen declaraciones morales implícitas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "técnica BOLD (Blood Oxygen Level Dependent)": {
+      "canonical_name": "técnica BOLD (Blood Oxygen Level Dependent)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La técnica BOLD (Blood Oxygen Level Dependent) mide el consumo de oxígeno en zonas cerebrales para identificar qué neuronas están más activas",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "amígdala / córtex cingulado anterior / estriado ventral / área tegmental ventral / corteza orbitofrontal": {
+      "canonical_name": "amígdala / córtex cingulado anterior / estriado ventral / área tegmental ventral / corteza orbitofrontal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_taxonomy",
+          "quote_evidence": "Los conservadores muestran alta reactividad en la amígdala (miedos, aversiones) y el estriado ventral (motivaciones positivas),\n  - Los liberales/progresistas activan más el córtex cingulado anterior, que identifica contradicciones morales",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pablo Iglesias": {
+      "canonical_name": "Pablo Iglesias",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Pablo Iglesias se ubica a la izquierda tendiendo al relativismo, desplazándose arriba o abajo según le conviene",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Juan Ramón Rallo": {
+      "canonical_name": "Juan Ramón Rallo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Juan Ramón Rallo: defiende fundamentos como vida, libertad y propiedad, pero como protección contra imposición externa — se ubica abajo a la derecha",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Miguelanxo Bastos": {
+      "canonical_name": "Miguelanxo Bastos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Miguelanxo Bastos se ubica a la derecha moderada: poco autoritario, cree en el derecho natural, se autoidentifica cristiano y conservador",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Roberto Baquero": {
+      "canonical_name": "Roberto Baquero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Roberto Baquero eleva lo totalitario si es necesario para proteger el estado, sin importar si el fundamento es natural o construido",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Abismo Filosófico": {
+      "canonical_name": "Abismo Filosófico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Abismo Filosófico se ubica abajo a la izquierda, aunque su tendencia al constructo filosófico dificulta identificar sus intuiciones morales reales",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Éxito y Jota": {
+      "canonical_name": "Éxito y Jota",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Éxito y Jota se ubican en la parte inferior izquierda",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "H (youtuber)": {
+      "canonical_name": "H (youtuber)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "H (youtuber) tiene locus externo de autoridad y se ubica abajo aunque cree estar más a la derecha",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La Gata de Schrödinger": {
+      "canonical_name": "La Gata de Schrödinger",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La Gata de Schrödinger está claramente abajo y a la izquierda, aunque ella se autodenomina de izquierda se ubica más extrema de lo que cree",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Joan Planas": {
+      "canonical_name": "Joan Planas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Joan Planas tiene locus externo de autoridad pero exige fundamentos, se ubica arriba a la izquierda",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El Xokas": {
+      "canonical_name": "El Xokas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Xokas se ubica cercano a la zona de Proxy, arriba a la derecha moderado, aunque a veces sorprende desplazándose",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Gisbert y Experto en Igualdad": {
+      "canonical_name": "Gisbert y Experto en Igualdad",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Gisbert y Experto en Igualdad comparten zona: alergia visceral a la norma pero con exigencia de coherencia absoluta",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Hitler / Mein Kampf": {
+      "canonical_name": "Hitler / Mein Kampf",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El señor del \"bigote gracioso\" empezó con argumentos morales fuertes (derecha) pero terminó sometiendo toda moral a la norma del régimen (arriba izquierda),\n  - \"La raza superior\" como constructo es estructuralmente equivalente a \"la revolución\" como constructo,\n  - El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Simone de Beauvoir / El Segundo Sexo": {
+      "canonical_name": "Simone de Beauvoir / El Segundo Sexo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,\n  - Ambos libros son ejemplos magistrales de estructuras proyectivas patológicas si se psicoanalizan sus autores",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "alineamiento legal-caótico de Dungeons & Dragons": {
+      "canonical_name": "alineamiento legal-caótico de Dungeons & Dragons",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El eje legal-caótico de los alineamientos de rol podría mapearse al eje de autoridad-jerarquía del diagrama,\n  - \"Caótico\" encajaría en el lado de rechazo a la jerarquía y \"legal\" en el lado de aceptación",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "\"lo personal es político\" como estrategia de marketing político": {
+      "canonical_name": "\"lo personal es político\" como estrategia de marketing político",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wxcSuqipA6s",
+          "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured",
+          "quote_evidence": "La frase \"lo personal es político\" se ha convertido en un mecanismo para politizar todos los ámbitos de la vida personal,\n  - En un estado del bienestar hay pocos motivos reales para hacer política, así que los partidos crean problemas artificiales para captar votos",
           "review_priority_hint": "low"
         }
       ],

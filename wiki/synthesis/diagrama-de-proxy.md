@@ -102,6 +102,12 @@ La segunda mitad de la tesis aplica el modelo: cada cuadrante corresponde a una 
 - [[collective-unconscious]] — la afirmación de que las respuestas morales son "inmediatamente reconocibles" como de izquierdas o de derechas por cualquier individuo apunta a una intuición transpersonal con sustrato biológico, adyacente a las estructuras universales que el canal trata bajo el inconsciente colectivo (aunque aquí el speaker la fundamenta en neurociencia, no en arquetipos).
 - [[jung-carl-gustav]] — el diagrama funciona como **tipología propia** del canal: clasifica orientaciones psíquicas estables con correlato profundo, en paralelo funcional (no de contenido) a las tipologías junguianas clásicas.
 
+- [[marco-luterano-catolico]] — el canal ubica una distinción moral-religiosa **debajo** del diagrama: el luteranismo sitúa el centro del valor en la vivencia interior positiva ("si te hace sentir bien, será bueno"); el catolicismo, en las obras. La distinción opera como sustrato cosmovisivo de las posiciones que el diagrama clasifica y prefigura su extensión hacia un eje moral-religioso explícito.
+
+> "La diferencia está debajo del diagrama de Proxy: lo importante es la vivencia, no la obra, para el protestantismo."
+→ [Cuento de Navidad y el espíritu Luterano con teleñecos (29:49)](https://youtu.be/s0MkondMt1o?t=1789)
+
+
 ## Lagunas
 
 - **Estudios BOLD: el speaker referencia investigaciones con autodeclarados liberales y conservadores en EE.UU. pero no nombra los papers concretos**. Queda pendiente una verificación bibliográfica del sustrato empírico que el modelo invoca; el canal recomienda manuales (Panksepp, Redolar) en otros vídeos pero aquí no traza la cadena de citas.
@@ -117,4 +123,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
+
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
+- **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
+
