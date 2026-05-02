@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260502_013005_b027",
+  "items": [
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp": "21:27",
+        "block_title": "Sánchez y Teresa Ribera: reírse del ciudadano en su cara",
+        "pattern_matched": "(?i)\\b(s[aá]nchez)\\b",
+        "reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    },
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp": "26:36",
+        "block_title": "El caso Lobato: cómo funciona la mafia del PSOE",
+        "pattern_matched": "(?i)\\b(psoe|ayuso)\\b",
+        "reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    },
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp": "33:40",
+        "block_title": "Del deseo de justicia al deseo de venganza ciudadana",
+        "pattern_matched": "(?i)\\b(psoe)\\b",
+        "reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    },
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp": "35:10",
+        "block_title": "El 15M como operación del PSOE y Podemos como enfants terribles",
+        "pattern_matched": "(?i)\\b(psoe|podemos)\\b",
+        "reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    }
+  ]
+}
