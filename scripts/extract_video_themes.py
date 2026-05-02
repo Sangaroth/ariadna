@@ -688,6 +688,45 @@ def invoke_claude(
 # ---------------------------------------------------------------------------
 
 
+_QUOTE_NORMALIZE_RE_BOLD = re.compile(r"\*\*(.+?)\*\*", re.DOTALL)
+_QUOTE_NORMALIZE_RE_ITALIC_AST = re.compile(r"\*(.+?)\*", re.DOTALL)
+_QUOTE_NORMALIZE_RE_BOLD_UND = re.compile(r"__(.+?)__", re.DOTALL)
+_QUOTE_NORMALIZE_RE_ITALIC_UND = re.compile(r"(?<!\w)_(.+?)_(?!\w)", re.DOTALL)
+_QUOTE_NORMALIZE_RE_CODE = re.compile(r"`(.+?)`", re.DOTALL)
+_QUOTE_NORMALIZE_RE_WS = re.compile(r"\s+")
+
+
+def _normalize_for_quote_match(text: str) -> str:
+    """Normaliza formato cosmético antes de comparar quote_evidence con el
+    summary. El LLM al "copiar" prosa elimina markdown italic/bold/code,
+    convierte comillas curly a straight, colapsa espacios. Eso es
+    comportamiento esperado y NO debe disparar falso positivo de alucinación.
+
+    Aplica la MISMA normalización a ambos lados del match (summary y quote).
+    No toca el contenido semántico — solo formato cosmético.
+    """
+    if not text:
+        return ""
+    # Markdown emphasis: **bold**, *italic*, __bold__, _italic_
+    text = _QUOTE_NORMALIZE_RE_BOLD.sub(r"\1", text)
+    text = _QUOTE_NORMALIZE_RE_BOLD_UND.sub(r"\1", text)
+    text = _QUOTE_NORMALIZE_RE_ITALIC_AST.sub(r"\1", text)
+    text = _QUOTE_NORMALIZE_RE_ITALIC_UND.sub(r"\1", text)
+    # Backticks de código inline
+    text = _QUOTE_NORMALIZE_RE_CODE.sub(r"\1", text)
+    # Comillas curly → straight (el LLM convierte espontáneamente)
+    text = (
+        text.replace("“", '"').replace("”", '"')
+        .replace("‘", "'").replace("’", "'")
+        .replace("«", '"').replace("»", '"')
+    )
+    # Em-dash / en-dash → hyphen (el LLM a veces los normaliza)
+    text = text.replace("—", "-").replace("–", "-")
+    # Whitespace: cualquier secuencia → un solo espacio
+    text = _QUOTE_NORMALIZE_RE_WS.sub(" ", text)
+    return text.strip()
+
+
 def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dict], list[str]]:
     """Devuelve (parsed_dict, errors). errors vacío = OK.
 
@@ -710,15 +749,26 @@ def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dic
         errors.append(f"JSON parse failed: {e}")
         return None, errors
 
-    # Verificación de quote_evidence literal (regla dura #1).
+    # Verificación de quote_evidence — comparación normalizada literal.
     #
-    # Política 2026-05-02: el LLM ve dos fuentes legítimas en el user_message:
-    # (a) la cabecera de metadata (title, playlist, category, etc.) y
-    # (b) el cuerpo de ## summary.md.
-    # Ambas son válidas como `quote_evidence` literal. Solo rechazamos quotes
-    # que no aparezcan en NINGUNA de las dos (signal de paráfrasis o
-    # alucinación del LLM).
-    searchable = "\n".join(
+    # Filosofía: el LLM al copiar prosa NORMALIZA inconscientemente formato
+    # cosmético (asteriscos markdown italic, comillas curly, espacios
+    # redundantes, backticks). Eso NO es alucinación, es comportamiento
+    # esperado del LLM. Mi validación tiene que aplicar la misma
+    # normalización a AMBOS lados del match para no dar falsos positivos.
+    #
+    # Lo que SÍ rechazamos (alucinación o paráfrasis genuina):
+    #   - Cita que no existe ni siquiera tras normalización en summary +
+    #     metadata (título, playlist, etc.)
+    #   - El LLM cambió palabras de contenido ("en" por "de", "es" por
+    #     "fue", añadió/quitó cláusulas) → fail genuino, vídeo a .failed.json
+    #
+    # Lo que NO rechazamos (cosmético):
+    #   - *La tabla rasa* (markdown italic) → La tabla rasa
+    #   - "comillas curly" → "comillas straight"
+    #   - múltiples   espacios → un espacio
+    #   - `backticks de código` → backticks de código
+    searchable_raw = "\n".join(
         [
             video.summary_text,
             video.video_id,
@@ -731,6 +781,7 @@ def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dic
             video.url,
         ]
     )
+    searchable = _normalize_for_quote_match(searchable_raw)
 
     def check_literal(quote, where: str) -> None:
         # Defensa de tipos: aceptar str o list[str], coercer otros tipos
@@ -746,8 +797,9 @@ def parse_and_validate_output(raw: str, video: VideoInput) -> tuple[Optional[dic
             errors.append(f"quote_evidence tipo inesperado ({type(quote).__name__}) @ {where}")
             return
         for q in quotes:
-            if q not in searchable:
-                errors.append(f"quote_evidence not literal in summary OR metadata @ {where}: {q[:80]!r}")
+            q_norm = _normalize_for_quote_match(q)
+            if q_norm and q_norm not in searchable:
+                errors.append(f"quote_evidence no encontrada en summary+metadata (incluso tras normalización) @ {where}: {q[:80]!r}")
 
     for ent in data.get("entities", []) or []:
         check_literal(ent.get("quote_evidence"), f"entities[{ent.get('canonical_guess','?')}]")
