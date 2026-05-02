@@ -1,0 +1,218 @@
+{
+  "video_id": "e3Aj775Rlw4",
+  "video_title": "El Gólem de Cobre",
+  "playlist": "_sin_playlist",
+  "category": "filosofía y teoría",
+  "_doc": "Vídeo de 81 min monográfico sobre cognición humana vs IA. Articula sistemáticamente el modelo cognitivo del canal — tríada representacional (imagen/gramática/afecto), mente como grafo tridimensional, memoria como reconstrucción no como almacén. Cumple criterios §2.4.1 author_thesis: registro pedagógico-expositivo sostenido (~1h sobre el marco), estructura interna articulada, AUTO-REFERENCIA YA RASTREABLE: shadow-archetype.md menciona 'modelo 3Q del canal' que probablemente refiere a esta misma tríada. → thesis_candidate prioridad alta. Sin promote_new (la tríada y el grafo son canal-originales y van a thesis_candidates). Sin pending_updates: las dos citas del vídeo que ya viven en wiki (consumismo-critica.md a 1:15:20 sobre homogeneización; mito-polar.md a 1:05:15 sobre masculino/femenino cognitivo) capturan el material no-thesis-dependiente. Material novedoso restante (memoria reconstructiva, tríada, trauma como afectividad fijada) depende del marco no validado.",
+  "promote_new": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "promote_to_whitelist_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "ciencias cognitivas (disciplina)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Definición de la disciplina ('campos científico-técnicos que permiten entender cómo comprendemos y nos relacionamos con el mundo'). Marco general del vídeo, integrado como contexto del thesis_candidate.",
+      "quote_evidence": "Las ciencias cognitivas estudian los campos científico-técnicos que permiten entender cómo comprendemos y nos relacionamos con el mundo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "tipología de IA (débil / fuerte / singular)",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Taxonomía estándar en la literatura de IA (narrow AI / artificial general intelligence / artificial superintelligence). El canal la expone correctamente y la usa como contraste pedagógico — pieza 10 del thesis_candidate, no objeto enciclopédico autónomo.",
+      "quote_evidence": "La IA débil son algoritmos específicos que mejoran en una sola tarea mediante autocorrección (ej. ChatGPT),",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "ChatGPT",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado solo como ejemplo de IA débil. Sin análisis del producto.",
+      "quote_evidence": "La IA débil son algoritmos específicos que mejoran en una sola tarea mediante autocorrección (ej. ChatGPT),",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Google chatbot",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención puntual: 'Google tiene un chatbot que parece inteligencia pero ni siquiera es una IA débil'. Ejemplo del paradigma de Turing, no objeto autónomo.",
+      "quote_evidence": "Google tiene un chatbot que parece inteligencia pero ni siquiera es una IA débil,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "arquitectura de Von Neumann",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Concepto técnico de arquitectura de computadoras (CPU + memoria + periféricos). Fuera de scope.md §1. Usado como contraste con la mente biológica dentro del thesis_candidate.",
+      "quote_evidence": "Un ordenador tiene periféricos (entrada/salida), unidad central de procesamiento (CPU) y memoria,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "máquina de Turing",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Concepto fundacional de teoría de la computación (Turing 1936). Fuera de scope.md §1. Mencionado como contraste, no como objeto autónomo.",
+      "quote_evidence": "La máquina de Turing es el algoritmo informático más sencillo: lee ceros y unos y reacciona según instrucciones,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "test/paradigma de Turing",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia conceptual al criterio de Turing ('Si nos importa solo el resultado, llamaremos IA a todo lo que desde fuera parezca inteligencia humana'). Captado dentro de la pieza 10 del thesis_candidate como crítica al criterio.",
+      "quote_evidence": "Si nos importa solo el resultado, llamaremos IA a todo lo que desde fuera parezca inteligencia humana,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "ilusión de Rubin (forma/fondo)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Ilusión perceptual clásica de la psicología de la Gestalt. Usada como ejemplo de top-down vs bottom-up dentro del thesis_candidate (pieza 6). No objeto autónomo.",
+      "quote_evidence": "Podemos seleccionar voluntariamente si vemos caras o una copa, pero no hay ni caras ni copa, solo líneas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "afantasía",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto de psicología cognitiva (Zeman 2015 — incapacidad de evocar imágenes mentales). Usada como ejemplo de variabilidad de la componente imaginaria de la tríada (pieza 2). No objeto autónomo.",
+      "quote_evidence": "Un 1-2% de la población tiene afantasía: incapacidad de evocar imágenes mentales,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "voz interior (autovoz)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Variación interindividual en la representación mental — algunas personas oyen sus pensamientos como voz, otras no. Ejemplo de variabilidad cognitiva dentro de la tríada. No autónomo.",
+      "quote_evidence": "Algunas personas oyen sus pensamientos como una voz interior (autovoz) y otras no,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "neurogénesis adulta limitada al hipocampo",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Hecho neurocientífico establecido. Mencionado como sustento del modelo (las mismas neuronas cambian de valor, no se añaden). Fuera de scope.md §1 como objeto autónomo.",
+      "quote_evidence": "A partir de los 20 años no crecen neuronas nuevas (salvo en el hipocampo); las mismas neuronas cambian de valor,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "hipocampo como índice de memoria",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza 4 del thesis_candidate — el hipocampo opera como cajón de fichas / índice, no como almacén. Tesis cognitiva establecida (Teyler & DiScenna 1986) que el canal integra en su modelo.",
+      "quote_evidence": "El hipocampo no almacena recuerdos, funciona como un cajón de fichas de biblioteca: un índice que ordena y conecta,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "memoria episódica / procedural / semántica / afectiva",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Tipología clásica (Tulving 1972 episódica/semántica; Squire procedural; canal añade 'afectiva' como cuarto módulo coherente con su tríada). Captada como sub-elemento del thesis_candidate.",
+      "quote_evidence": "La memoria episódica (vivencias), procedural (cómo se hacen las cosas) y semántica (palabras, relaciones lógicas) son procesos distintos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "creatividad como impulsividad / desinhibición dopaminérgica",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza 8 del thesis_candidate. Articulación canal sobre cómo entender la creatividad dentro del modelo cognitivo: no creación pura sino recombinación + impulsividad.",
+      "quote_evidence": "Las personas que parecen muy creativas tienen una especie de caos mental: no pueden frenar la aparición de pensamientos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si reaparece como tesis aplicada en análisis de obra (artistas como impulsivos / psicóticos creando), candidato a sub-concept dentro de la página synthesis"
+    },
+    {
+      "surface_form": "trauma como afectividad fijada con confabulación",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza 7 del thesis_candidate. Aplicación clínica del modelo cognitivo al trauma — la componente afectiva permanece intacta mientras la imaginaria/formal se reconstruyen confabuladas.",
+      "quote_evidence": "El trauma es afectividad pura: la fijación de un estadio afectivo que no se ha procesado como representación,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis sustantiva sobre psicopatología que conecta con shadow-archetype.md (PTSD, mecanismos de defensa, inconsciente). Si se valida el thesis_candidate cognitivo, esta sub-tesis puede enriquecer shadow-archetype.md y/o motivar página propia sobre trauma desde el modelo del canal"
+    },
+    {
+      "surface_form": "Prometeo y Pandora como mitos de advertencia tecnológica",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El aparato Prometeo/Pandora ya está en mito-polar.md como caso del mito polar personal. La nueva angular aquí (Prometeo como ambición de crear un golem que saldrá mal; Pandora como advertencia sobre 'no abrir la caja' aplicada a la conciencia/IA) extiende el aparato hacia el dominio tecnológico. Material no requiere update inmediato porque depende de una tesis no validada (la AI como golem moderno) — quedará integrado en la página synthesis cognitiva si se promueve.",
+      "quote_evidence": "Prometeo representa la ambición de crear un golem exactamente igual a nosotros, pero el mito dice que saldrá mal,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en otros vídeos el canal articula sostenidamente 'IA como golem moderno', candidato a página propia sobre la lectura mitológica de la tecnología contemporánea"
+    },
+    {
+      "surface_form": "masculino/femenino como formas cognitivas (semántico/procedural vs contextual)",
+      "reason_code": "already_captured",
+      "reason_detail": "Cita ya integrada en mito-polar.md líneas 88-89 con timestamp 1:05:15. La nueva formulación (semántico/procedural vs contextual) refina las articulaciones existentes en anima-archetype.md sobre polaridad cognitiva, pero el cite literal ya vive en wiki. NO se duplica en anima-archetype.md para evitar referencia redundante.",
+      "quote_evidence": "Los mitos describen lo masculino y lo femenino en términos cognitivos: los hombres son semánticos y procedurales, las mujeres son contextuales,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "homogeneización cultural / consumo / IA controlada por quien la construye",
+      "reason_code": "already_captured",
+      "reason_detail": "Cita ya integrada en consumismo-critica.md líneas 62-63 con timestamp 1:15:20 ('No seremos dominados por la IA sino por quien la construya...'). Material capturado.",
+      "quote_evidence": "No seremos dominados por la IA sino por quien la construya, diseñe y venda,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "obsesión por la igualdad como complejo de homogeneización",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal del mecanismo de homogeneización ('se les dice a las mujeres que sean como hombres y a los hombres que dejen de serlo'). Conecta con consumismo-critica.md (homogeneización como erosión de identidad) y con anima-archetype.md (polaridad como complementariedad necesaria). Material adyacente al thesis_candidate cognitivo (pieza 9) y a la línea editorial sobre consumismo.",
+      "quote_evidence": "La obsesión por la igualdad viene de un complejo: se les dice a las mujeres que sean como hombres y a los hombres que dejen de serlo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si reaparece sostenidamente como tesis cultural, candidato a sub-concept dentro de consumismo-critica o página propia sobre 'crítica a la homogeneización por igualitarismo'"
+    },
+    {
+      "surface_form": "creatividad como recombinación, no creación",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Tesis sub-articulada del modelo cognitivo: 'el cerebro no crea cosas nuevas, recombina fragmentos de experiencias vividas'. 'No se puede soñar con una cara que nunca se ha visto'. Captada en pieza 8.",
+      "quote_evidence": "La creatividad no parece existir como tal: el cerebro no crea cosas nuevas, recombina fragmentos de experiencias vividas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "tiempo como ilusión perceptiva / narrativa episódica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación filosófica puntual: 'el tiempo no es lineal físicamente, pero para nosotros es la diferencia entre un recuerdo y algo nuevo, una narrativa episódica'. Conecta con tesis de memoria reconstructiva pero no se desarrolla autónomamente.",
+      "quote_evidence": "El tiempo no es lineal físicamente, pero para nosotros es la diferencia entre un recuerdo y algo nuevo, una narrativa episódica,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "problemas culturales como problemas morales, no científicos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis canal en la apertura del vídeo: 'Los problemas culturales actuales (IA, redes sociales, pornografía) son problemas morales, no científicos'. Marco editorial recurrente del canal — alineado con consumismo-critica.md y con la postura del canal en otros vídeos sobre tecnología y moral.",
+      "quote_evidence": "Los problemas culturales actuales (IA, redes sociales, pornografía) son problemas morales, no científicos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Postura editorial recurrente. Si se acumula material sostenido sobre 'crítica moral de la tecnología contemporánea', candidato a sub-concept o sección dentro de consumismo-critica"
+    },
+    {
+      "surface_form": "El Gólem (mito) como categoría aplicada a la IA",
+      "reason_code": "passing_mention",
+      "reason_detail": "El título del vídeo lo presupone, pero el mito del Gólem específicamente apenas se desarrolla en el material recuperado más allá de la mención de Prometeo creando 'un golem'. La página mito-polar.md ya tiene una mención: 'La anomalía sistémica de Matrix refleja el fallo sistémico heredado del mito del gólem'. Material insuficiente para concept propio en este vídeo aislado.",
+      "quote_evidence": "Prometeo representa la ambición de crear un golem exactamente igual a nosotros, pero el mito dice que saldrá mal,",
+      "review_priority": "high",
+      "review_priority_reason": "El gólem aparece referenciado en al menos dos vídeos del corpus (este + 'Pandora, Prometeo, El Gólem y el Mito Polar' citado desde mito-polar.md). Si en otros vídeos se desarrolla el mito del Gólem como categoría arquetípica autónoma (no solo como ejemplo en mito-polar), candidato a concept page propio"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "promote_to_whitelist_candidates_count": 0,
+    "discarded_count": 23,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T22:23:02Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0",
+    "wiki_pages_read_for_verification": [],
+    "wiki_pages_read_for_verification_note": "Verificación cross-corpus se hizo mediante el índice slim del wiki proporcionado al inicio + lecturas previas en este lote (consumismo-critica.md y mito-polar.md ya leídas en extractos anteriores) que ya capturan los dos chunks no-thesis-dependientes de este vídeo (1:05:15 y 1:15:20). shadow-archetype.md también leída en lote previo — confirma referencia al 'modelo 3Q del canal' que respalda el thesis_candidate."
+  },
+  "entities": [],
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

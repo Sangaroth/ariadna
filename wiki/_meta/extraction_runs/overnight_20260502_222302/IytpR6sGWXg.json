@@ -1,0 +1,446 @@
+{
+  "video_id": "IytpR6sGWXg",
+  "video_title": "Biblioteca de Babel II",
+  "playlist": "_sin_playlist",
+  "category": "filosofía y teoría",
+  "_doc": "Vídeo bibliográfico segunda entrega: semiótica, simbolismo y mitología (esta vez SÍ en scope, a diferencia de Babel I). Dos promote_new vía whitelist canónica (Campbell y Eliade — auto_promote: true, tratamiento sustantivo verificado). NO pending_updates: las dos páginas existentes con material relevante (lovecraft-howard.md, jung-carl-gustav.md) ya integran las citas de este vídeo (verificado por Read). El resto son recomendaciones bibliográficas que no alcanzan umbrales §2 para promoción.",
+  "promote_new": [
+    {
+      "page_id": "campbell-joseph",
+      "page_type": "author",
+      "canonical_name": "Joseph Campbell",
+      "promotion_reason": "auto_promote_whitelist",
+      "promotion_detail": "Figura en canonical_whitelist.json:authors con auto_promote: true. Este vídeo aporta tratamiento sustantivo (~90s) con tres títulos citados (El héroe de las mil caras, Tú eres eso, El poder del mito), tesis explícita del canal sobre cómo leer a Campbell ('arquetipia más que mitología pura', 'mejor que Jung para comprender arquetipos') e inclusión en la síntesis final del canon bibliográfico ('Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson'). Además, ya existe wikilink roto activo desde viaje-heroe.md (relations[].developed_by → campbell-joseph).",
+      "frontmatter": {
+        "page_id": "campbell-joseph",
+        "page_type": "author",
+        "canonical_name": "Joseph Campbell",
+        "aliases": [
+          "Campbell",
+          "J. Campbell",
+          "Joseph Campbell"
+        ],
+        "given_names": "Joseph",
+        "family_name": "Campbell",
+        "birth_year": 1904,
+        "death_year": 1987,
+        "nationality": "estadounidense",
+        "wikidata_id": "Q190089",
+        "primary_domains": [
+          "humanities.religion",
+          "interdisciplinary.cultural_studies",
+          "humanities.literature"
+        ],
+        "domain_primary": "humanities.religion",
+        "affiliations": [
+          "Sarah Lawrence College"
+        ],
+        "relations": [
+          {
+            "type": "developed",
+            "to": "viaje-heroe",
+            "weight": "canonical",
+            "note": "formulación del monomito como estructura narrativa universal — marco operativo del canal"
+          },
+          {
+            "type": "compared_with",
+            "to": "jung-carl-gustav",
+            "note": "el canal lo prefiere como vía de acceso didáctica a los arquetipos frente a la densidad terminológica de Jung"
+          },
+          {
+            "type": "compared_with",
+            "to": "eliade-mircea",
+            "note": "Eliade es para el canal más conciso y sencillo que Campbell, ambos en la misma genealogía mitológico-arquetípica"
+          }
+        ],
+        "as_author_of_sources": 0,
+        "as_subject_of_sources": 1,
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body_markdown": "# Joseph Campbell\n\n## Perfil\n\nJoseph Campbell (1904–1987), mitógrafo estadounidense conocido por la formulación del [[viaje-heroe|monomito]] como estructura narrativa universal. En el corpus Proxy aparece como **referencia obligada para acceder a los arquetipos**: el canal lo coloca por encima de [[jung-carl-gustav|Jung]] como puerta de entrada didáctica al material arquetípico.\n\n## Cómo el canal lee a Campbell\n\n### Arquetipia más que mitología pura\n\nEl canal sitúa a Campbell no como mitólogo comparativo sino como teórico de la **arquetipia**:\n\n> \"Su obra es sobre arquetipia más que sobre mitología pura. Para comprender arquetipos es mejor leer a Campbell que a Jung, porque Jung tiene una complejidad innecesaria para ese propósito.\"\n→ [Biblioteca de Babel II, 04:21](https://youtu.be/IytpR6sGWXg?t=261)\n\nEsta lectura tiene una consecuencia operativa: Campbell sirve como **traducción accesible** del aparato junguiano. La recomendación entronca con la advertencia general del canal sobre la dificultad terminológica de Jung — entender cada palabra por separado pero no juntas (ver [[jung-carl-gustav]]).\n\n### Obras señaladas\n\n- **El héroe de las mil caras**: base de la articulación entre mitología y psique según el canal\n- **Tú eres eso** y **El poder del mito**: especialmente útiles para comprender qué es verdaderamente un arquetipo\n  → [Biblioteca de Babel II, 04:21](https://youtu.be/IytpR6sGWXg?t=261)\n\n## Posición en el canon del canal\n\nCampbell figura en la síntesis final del repertorio bibliográfico de semiótica del canal junto a [[eliade-mircea|Eliade]], Cashford y Peterson como uno de los **autores específicos fundamentales**:\n\n> \"Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson.\"\n→ [Biblioteca de Babel II, 23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n\n## Conexión con otros conceptos\n\n- Es el formulador del [[viaje-heroe|monomito]] que el canal asume como marco operativo en sus análisis de obras\n- El canal lo prefiere a [[jung-carl-gustav|Jung]] como acceso didáctico al concepto de arquetipo\n- Está en continuidad con [[eliade-mircea|Eliade]] dentro de la genealogía mitológico-arquetípica que el canal recomienda\n\n## Lagunas\n\n- **Biografía**: el material recuperado no incluye datos biográficos del autor más allá de su filiación disciplinar\n- **El monomito desglosado**: Campbell formula un esquema de fases (llamada, mentor, umbral, pruebas, apoteosis, regreso) que el canal usa pero no expone aquí en su articulación campbelliana original\n- **Relación Campbell–Jung histórica**: el canal afirma la preferencia didáctica por Campbell pero no aborda la deuda conceptual real (Campbell estudió a Jung, asistió a Eranos)\n- ***Las máscaras de Dios*** y otras obras tardías de Campbell no aparecen en el material recuperado\n\n## Citations\n\n- **Biblioteca de Babel II** — chunks: [04:21](https://youtu.be/IytpR6sGWXg?t=261) · [23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n"
+    },
+    {
+      "page_id": "eliade-mircea",
+      "page_type": "author",
+      "canonical_name": "Mircea Eliade",
+      "promotion_reason": "auto_promote_whitelist",
+      "promotion_detail": "Figura en canonical_whitelist.json:authors con auto_promote: true. Este vídeo aporta tratamiento sustantivo (~60s) con tesis original atribuida ('el impulso mítico es individual y responde a una necesidad también individual, no solo grupal'), caracterización metodológica ('habla de la estructura arquetípica incluida en los mitos y la capacidad de la psique para la elaboración del mito') e inclusión en la síntesis final del canon bibliográfico en primer lugar de los autores específicos.",
+      "frontmatter": {
+        "page_id": "eliade-mircea",
+        "page_type": "author",
+        "canonical_name": "Mircea Eliade",
+        "aliases": [
+          "Eliade",
+          "M. Eliade",
+          "Mircea Eliade"
+        ],
+        "given_names": "Mircea",
+        "family_name": "Eliade",
+        "birth_year": 1907,
+        "death_year": 1986,
+        "nationality": "rumana",
+        "wikidata_id": "Q41523",
+        "primary_domains": [
+          "humanities.religion",
+          "interdisciplinary.cultural_studies",
+          "humanities.philosophy"
+        ],
+        "domain_primary": "humanities.religion",
+        "affiliations": [
+          "University of Chicago",
+          "École des Hautes Études"
+        ],
+        "relations": [
+          {
+            "type": "extends",
+            "to": "collective-unconscious",
+            "note": "tesis del mito como necesidad individual de la psique extiende la lectura junguiana hacia la dimensión existencial de la cordura"
+          },
+          {
+            "type": "compared_with",
+            "to": "campbell-joseph",
+            "note": "el canal lo presenta como más conciso y sencillo que Campbell"
+          },
+          {
+            "type": "references",
+            "to": "mito-moderno-en-proxy",
+            "note": "su tesis sobre el mito como necesidad individual sostiene la lectura del canal sobre el vacío mítico contemporáneo"
+          }
+        ],
+        "as_author_of_sources": 0,
+        "as_subject_of_sources": 1,
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body_markdown": "# Mircea Eliade\n\n## Perfil\n\nMircea Eliade (1907–1986), historiador rumano de las religiones y mitólogo comparativo. En el corpus Proxy aparece como **referencia central de la mitología comparada** que el canal recomienda como vía sencilla y concisa para entrar en el material arquetípico, frente a la densidad de [[campbell-joseph|Campbell]].\n\n## Cómo el canal lee a Eliade\n\n### El impulso mítico como necesidad psíquica individual\n\nEl canal atribuye a Eliade una tesis que matiza la lectura sociológica del mito (mito como mera solución colectiva para la convivencia):\n\n> \"Las narrativas culturales no son solo una solución colectiva para la convivencia, sino una necesidad de la psique individual para el mantenimiento de la cordura. El impulso mítico es individual y responde a una necesidad también individual, no solo grupal.\"\n→ [Biblioteca de Babel II, 05:51](https://youtu.be/IytpR6sGWXg?t=351)\n\nEsta tesis es operativa para el canal: si el mito responde a una necesidad psíquica individual, entonces la **degradación de la cultura mítica afecta la cordura individual**, no solo la cohesión grupal. Conecta con la línea editorial sobre [[mito-moderno-en-proxy|mito moderno]] y con la lectura del [[consumismo-critica|vacío contemporáneo]] como falta de mito propio.\n\n### Estructura arquetípica del mito\n\n> \"Habla de la estructura arquetípica incluida en los mitos y la capacidad de la psique para la elaboración del mito.\"\n→ [Biblioteca de Babel II, 05:51](https://youtu.be/IytpR6sGWXg?t=351)\n\nEliade entra en el corpus como **teórico de cómo la psique elabora mito**, no como recopilador externo de tradiciones. Esta lectura lo coloca en continuidad con la formulación junguiana del [[collective-unconscious|inconsciente colectivo]] como cantera de estructuras universales.\n\n## Posición en el canon del canal\n\n> \"Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson.\"\n→ [Biblioteca de Babel II, 23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n\nEliade figura en primer lugar de los autores específicos de semiótica/mitología recomendados por el canal, lo que sitúa su lectura como **prioritaria** dentro del repertorio.\n\n## Conexión con otros conceptos\n\n- Continúa la genealogía mitológico-arquetípica del canal junto a [[campbell-joseph|Campbell]] y [[jung-carl-gustav|Jung]]\n- Su tesis sobre el mito como necesidad individual extiende la lectura del [[collective-unconscious|inconsciente colectivo]] hacia la dimensión existencial de la cordura\n- Funciona como puerta accesible al material arquetípico antes de abordar autores más complejos\n\n## Lagunas\n\n- **Biografía**: el material recuperado no incluye datos biográficos del autor\n- **Obras concretas**: el canal recomienda leerlo pero no destaca títulos específicos en este material; obras como *Lo sagrado y lo profano* o *El mito del eterno retorno* no se citan aquí\n- **La distinción sagrado/profano**: vertebra toda la obra de Eliade pero no se desarrolla en el material recuperado\n- **Eliade y la fenomenología religiosa**: posición teórica de Eliade dentro de la fenomenología no abordada\n- **Aspectos biográficos polémicos** (vinculación juvenil con la Guardia de Hierro rumana) no aparecen en el corpus\n\n## Citations\n\n- **Biblioteca de Babel II** — chunks: [05:51](https://youtu.be/IytpR6sGWXg?t=351) · [23:35](https://youtu.be/IytpR6sGWXg?t=1415)\n"
+    }
+  ],
+  "pending_updates": [],
+  "_doc_pending_updates": "Verificado por Read: lovecraft-howard.md ya integra el bloque 22:35 ('absolutamente imprescindible para introducirse en la naturaleza del imaginario humano' + 'Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft' + edición Valdemar) en líneas 59-60 y 133-134. jung-carl-gustav.md ya integra el bloque 19:32 ('Es mejor leer a autores junguianos que leer directamente a Jung') en líneas 92-93. NO se proponen updates duplicados. Considerada actualización a mito-polar.md (laguna sobre relación matriarcado-patriarcado) pero la mención de Cashford&Baring aquí es bibliográfica, no articulación del canal — no llena la laguna. Considerada actualización a viaje-heroe.md con títulos campbellianos pero el material es más relevante a la nueva página campbell-joseph que al concepto viaje-heroe.",
+  "thesis_candidates": [],
+  "promote_to_whitelist_candidates": [
+    {
+      "candidate_name": "Jules Cashford",
+      "type": "author",
+      "justification": "Mencionada dos veces en el mismo vídeo (12:26 'El mito de la diosa' coautoría con Anne Baring; 14:28 'La Luna' edición Atalanta) con caracterización canal: 'Todo lo de Cashford merece la pena; es experta en arquetipos de lo femenino'. Incluida en la síntesis final del canon bibliográfico ('Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson'). Cumple criterio §6 'pilar disciplinar' en arquetipos de lo femenino, dominio en scope. Considerar para auto_promote: false (soft) inicialmente.",
+      "quote_evidence": "Todo lo de Cashford merece la pena; es experta en arquetipos de lo femenino,",
+      "suggested_domain_primary": "humanities.religion"
+    },
+    {
+      "candidate_name": "Anne Baring",
+      "type": "author",
+      "justification": "Coautora con Cashford de 'El mito de la diosa' (12:26). Mismo dominio (arquetipos femeninos, mitología comparada). Co-aparición sostenida en el canon bibliográfico del canal. Considerar para auto_promote: false (soft).",
+      "quote_evidence": "Trata la historia de la prehistoria y la historia antigua sobre la transición de arquetipos femeninos a masculinos,",
+      "suggested_domain_primary": "humanities.religion"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Biblioteca de Babel (serie)",
+      "reason_code": "promo",
+      "reason_detail": "Segunda entrega de la serie de Patreon dedicada a recomendaciones bibliográficas. Metadata editorial del Patreon, no contenido sustantivo arquetípico — el vídeo es bibliografía comentada.",
+      "quote_evidence": "Los libros recomendados se dividen en semiótica estricta, simbolismo aplicable, y contenido mitológico que climatiza la mente al pensamiento poético,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "pensamiento poético",
+      "reason_code": "passing_mention",
+      "reason_detail": "Término del canal usado como denominación operativa: 'El pensamiento poético es la mejor forma de denominar la parte literaria de la semiótica'. Aparece como categorización organizativa del repertorio bibliográfico, sin elaboración teórica sustantiva. No alcanza umbrales §2.1 ni §2.4. Vocabulario canal-específico emergente — vigilar en futuros vídeos para posible promoción si se desarrolla.",
+      "quote_evidence": "El pensamiento poético es la mejor forma de denominar la parte literaria de la semiótica,",
+      "review_priority": "high",
+      "review_priority_reason": "Categoría organizativa propia del canal con potencial conceptual. Si en otros vídeos se articula la distinción semiótica/poética como tesis sustantiva (no solo nomenclatura), revisitar para promoción"
+    },
+    {
+      "surface_form": "Jordan Peterson",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "No figura en canonical_whitelist. Tratamiento ~2 min con caracterización sustantiva ('primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica') e inclusión en la síntesis final entre 'autores específicos fundamentales'. Single video, no marco-aplicado declarado, no recurrencia confirmada. Soft pendiente de aparecer en otros vídeos.",
+      "quote_evidence": "Peterson fue el primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica,",
+      "review_priority": "medium",
+      "review_priority_reason": "Mencionado en síntesis final como 'autor específico fundamental' del canon bibliográfico del canal. Si reaparece con marco aplicado o tratamiento sustantivo en otro vídeo, evaluar promoción y/o adición a whitelist soft"
+    },
+    {
+      "surface_form": "Mapas de sentido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra de Peterson recomendada como 'tratado fundacional de semiótica' del repertorio. Sin análisis arquetípico aplicado a su contenido — recomendación bibliográfica sustantiva pero no constituye análisis de obra (§2.3). Vincular a Peterson si se promueve.",
+      "quote_evidence": "Peterson fue el primer autor en juntar psicología clínica con simbología y mitología para elaborar un tratado de semiótica,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Umberto Eco",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Mencionado brevemente como autor de 'Tratado de semiótica general'. Domain (interdisciplinary.semiotics) en scope, pero el tratamiento es de ~30s sin tesis del canal sobre Eco más allá de 'tratado filosófico, no síntesis cultural-psicológica'. Single video. No alcanza criterios §2.2.",
+      "quote_evidence": "A diferencia de Peterson, Eco hace un tratado filosófico, no una síntesis cultural-psicológica,",
+      "review_priority": "medium",
+      "review_priority_reason": "Eco es figura central de la semiótica contemporánea (dominio en scope) y reaparece en este mismo vídeo como referencia para Lewis Carroll ('tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido'). Si aparece en futuros vídeos con tratamiento aplicado, considerar adición a whitelist y promoción"
+    },
+    {
+      "surface_form": "Tratado de semiótica general",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra de Eco mencionada brevemente. Recomendación bibliográfica sin análisis aplicado.",
+      "quote_evidence": "A diferencia de Peterson, Eco hace un tratado filosófico, no una síntesis cultural-psicológica,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Manly P. Hall",
+      "reason_code": "passing_mention",
+      "reason_detail": "Autor de 'Las enseñanzas secretas de todos los tiempos' (1928), recomendado como libro de consulta sobre relación mito-religión. Sin tratamiento sustantivo del autor mismo ni marco aplicado. No en whitelist.",
+      "quote_evidence": "Muestra la relación entre mito y religión,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Las enseñanzas secretas de todos los tiempos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Compendio enciclopédico esotérico de 1928. Recomendado como libro de consulta, sin análisis arquetípico aplicado.",
+      "quote_evidence": "Son más de mil páginas pero sirve como libro de consulta,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "James George Frazer",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Figura en canonical_whitelist con auto_promote: false (soft). Tratamiento ~90s con tesis atribuida ('relación entre magia, religión y mito herculeo') y caracterización metodológica ('cómo funciona intuitivamente la estructura arquetípica de la psique humana'). Política soft requiere ≥1 criterio adicional §2.2 (substantive ≥10min, recurrente ≥3 vídeos, foundational citation) que no se cumple en este vídeo aislado.",
+      "quote_evidence": "En Frazer se ve cómo funciona intuitivamente la estructura arquetípica de la psique humana,",
+      "review_priority": "high",
+      "review_priority_reason": "Whitelist soft + dominio central + caracterización metodológica explícita. Si reaparece en cualquier otro vídeo con tratamiento sustantivo, promoción inmediata"
+    },
+    {
+      "surface_form": "La rama dorada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra de Frazer recomendada como ejemplo de pensamiento poético. Mención bibliográfica con valoración del canal ('importantísimo para comprender cómo funciona el pensamiento poético', 'históricamente está rebatida' pero útil). Sin análisis aplicado de la obra.",
+      "quote_evidence": "Históricamente está rebatida, pero es importantísimo para comprender cómo funciona el pensamiento poético,",
+      "review_priority": "medium",
+      "review_priority_reason": "Vincular a Frazer si se promueve. Caso paradigmático para ilustrar la noción canal de 'pensamiento poético'"
+    },
+    {
+      "surface_form": "Robert Graves",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "No en whitelist. Tratamiento ~2 min con tesis específica ('relación entre religión, mitos europeos e indoeuropeos y la divinidad de lo femenino', complementario a Frazer). El canal matiza: 'Su tesis está desmentida históricamente, pero es imprescindible para sumergirse en el pensamiento poético'. Single video.",
+      "quote_evidence": "Mientras Frazer se centra en lo masculino (mito herculeo), Graves se centra en lo femenino,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tratamiento más sustantivo que mero passing_mention, con tesis y marco. Si aparece en otros vídeos con desarrollo del 'arquetipo lunar femenino' o como referencia aplicada, evaluar promoción"
+    },
+    {
+      "surface_form": "La Diosa Blanca",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra de Graves recomendada con matiz: 'estructura poético-mitológica con manifestaciones arquetípicas universales que sí existen más allá de la elaboración inventada de Graves'. Interesante distinción canal entre artificio del autor y sustrato arquetípico real, pero no constituye análisis dedicado de la obra.",
+      "quote_evidence": "La Diosa Blanca es una estructura poético-mitológica con manifestaciones arquetípicas universales que sí existen más allá de la elaboración inventada de Graves,",
+      "review_priority": "high",
+      "review_priority_reason": "Conecta con el canon arquetipo lunar/femenino pendiente (mito-lunar es página whitelist auto_promote: true que aún no existe). La distinción canal entre 'elaboración inventada' y 'manifestaciones arquetípicas universales' es operativa para entender cómo lee el corpus las síntesis modernas del arquetipo femenino"
+    },
+    {
+      "surface_form": "Jules Cashford",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "No en whitelist (sugerida adición arriba en promote_to_whitelist_candidates). Mencionada dos veces en el mismo vídeo (El mito de la diosa, La Luna) con elogio explícito: 'Todo lo de Cashford merece la pena; es experta en arquetipos de lo femenino'. Incluida en síntesis final del canon. Single video, no auto_promote — pendiente de adición a whitelist.",
+      "quote_evidence": "Todo lo de Cashford merece la pena; es experta en arquetipos de lo femenino,",
+      "review_priority": "high",
+      "review_priority_reason": "Candidata fuerte a whitelist por co-aparición en canon final + dos obras señaladas en mismo vídeo + dominio en scope"
+    },
+    {
+      "surface_form": "Anne Baring",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Coautora con Cashford de 'El mito de la diosa'. No en whitelist. Sugerida adición arriba.",
+      "quote_evidence": "Trata la historia de la prehistoria y la historia antigua sobre la transición de arquetipos femeninos a masculinos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Asociada a Cashford. Si Cashford entra en whitelist, evaluar Baring como co-canónica"
+    },
+    {
+      "surface_form": "El mito de la diosa",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra de Cashford y Baring recomendada con caracterización temática ('transición arquetipos femeninos a masculinos', 'transición mitológica del matriarcado al patriarcado'). Sin análisis dedicado por el canal, solo descripción del contenido del libro.",
+      "quote_evidence": "Es lo que la antropología llama la transición mitológica del matriarcado al patriarcado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Toca laguna declarada en mito-polar.md ('Distinción entre mito polar y matriarcado/patriarcado'). NO supersedes la laguna porque el canal aquí remite a fuente externa, no articula la cuestión. Vigilar si en otros vídeos el canal articula esta relación"
+    },
+    {
+      "surface_form": "transición matriarcado-patriarcado",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como tema del libro de Cashford y Baring, no como tesis articulada por el canal. El canal solo describe que el libro lo trata; no toma posición ni elabora.",
+      "quote_evidence": "Es lo que la antropología llama la transición mitológica del matriarcado al patriarcado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Conecta con laguna de mito-polar.md sobre matriarcado/patriarcado. Si en futuros vídeos el canal articula su lectura propia, candidato a actualización de mito-polar"
+    },
+    {
+      "surface_form": "John Milton",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendado solo por título ('El paraíso perdido es imprescindible'). Sin análisis del autor ni del contenido. No en whitelist.",
+      "quote_evidence": "*El paraíso perdido* de Milton es imprescindible,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "El paraíso perdido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra recomendada como imprescindible sin análisis arquetípico aplicado.",
+      "quote_evidence": "*El paraíso perdido* de Milton es imprescindible,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Dante Alighieri",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como autor de la Divina Comedia, recomendada con advertencia sobre traducción. Sin análisis del autor.",
+      "quote_evidence": "La mitología de Dante es una elaboración propia con base cristiana, no mitología universal, pero hay que leerla igualmente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "La Divina Comedia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra recomendada con caracterización breve ('elaboración propia con base cristiana, no mitología universal'). Sin análisis dedicado.",
+      "quote_evidence": "La mitología de Dante es una elaboración propia con base cristiana, no mitología universal, pero hay que leerla igualmente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "La Luna (Cashford)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra de Cashford recomendada como tratado del arquetipo lunar. El canal indica que abarca 'arquetipo femenino lunar y arquetipo masculino lunar' — nomenclatura coherente con la triada solar/lunar/polar del canal. Recomendación bibliográfica sin análisis aplicado.",
+      "quote_evidence": "Contiene todo el mito, imaginario y simbología existente de la luna, universal y antigua,",
+      "review_priority": "high",
+      "review_priority_reason": "Vincular a la futura página mito-lunar (whitelist auto_promote: true, aún no creada). La obra de Cashford sería referencia bibliográfica clave en esa página cuando se promueva"
+    },
+    {
+      "surface_form": "tarot (sistema arquetípico)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Figura en canonical_whitelist como tarot-arquetipico con auto_promote: false (soft). Tratamiento ~90s con tesis del canal: 'plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias', 'sistema de elaboración proyectiva y de significado universal, no como magia', 'herramientas de interpretación proyectiva donde la mente no puede evitar proyectar sobre los arquetipos'. Política soft requiere ≥1 criterio adicional §2.1 que no se cumple en este vídeo aislado (no ≥10 min, no recurrencia confirmada aquí).",
+      "quote_evidence": "El tarot son plasmaciones visuales de arquetipos, no prototipos sino representaciones imaginarias,",
+      "review_priority": "high",
+      "review_priority_reason": "Whitelist soft + tesis articulada + dominio central. El canal tiene vídeo dedicado (Lady Halcón: el mito Polar a través del Tarot — citado en mito-polar.md). Si reaparece con tratamiento sostenido, promoción"
+    },
+    {
+      "surface_form": "I Ching",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado solo como ejemplo de oráculo junto al tarot. Sin desarrollo propio.",
+      "quote_evidence": "Los oráculos (tarot, I Ching) son herramientas de interpretación proyectiva donde la mente no puede evitar proyectar sobre los arquetipos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Tarot (libro Biblioteca de Esoterismo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Libro recomendado como recurso visual de imaginería del tarot. Recomendación bibliográfica sin contenido teórico extractable.",
+      "quote_evidence": "Es básicamente imaginería, no un tratado teórico,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Textos de Qumrán",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendados como fuente primaria para 'rastrear la historia antigua del origen de las civilizaciones'. Mención sin análisis aplicado.",
+      "quote_evidence": "Para rastrear la historia antigua del origen de las civilizaciones hay que tener los textos de Qumrán,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Literatura hermética",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionada como conjunto de textos para consulta. El canal advierte: 'No comprar libros de hermética elaborados por autores modernos porque eso es esoterismo e interpretación libre, no semiótica' — distinción metodológica interesante (semiótica vs esoterismo) pero brevemente enunciada.",
+      "quote_evidence": "No comprar libros de hermética elaborados por autores modernos porque eso es esoterismo e interpretación libre, no semiótica,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción semiótica/esoterismo es operativa metodológicamente para el canal. Si reaparece desarrollada, podría enriquecer la nota sobre 'pensamiento poético' o el scope editorial"
+    },
+    {
+      "surface_form": "Jung y el tarot",
+      "reason_code": "passing_mention",
+      "reason_detail": "Libro recomendado para 'comprender la visión junguiana de los arquetipos contenidos en el tarot'. Sin análisis del libro mismo. Material relevante a Jung ya integrado en jung-carl-gustav.md (recomendación de leer junguianos antes que Jung directamente).",
+      "quote_evidence": "Es mejor leer a autores junguianos que leer directamente a Jung para empezar a comprenderlo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Lewis Carroll",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "No en whitelist. Tratamiento ~2 min con caracterización del autor ('experto en lógica matemática formal') y tesis de lectura del canal ('su obra no es fantasía arbitraria ni aleatoria... fantasía elaborada como guiño a las matemáticas y la lógica'). Single video, no marco-aplicado, no recurrencia.",
+      "quote_evidence": "Lewis Carroll era experto en lógica matemática formal y su obra no es fantasía arbitraria ni aleatoria,",
+      "review_priority": "medium",
+      "review_priority_reason": "Caracterización sustantiva con potencial conector (lógica formal / estructuras del inconsciente / Hofstadter). Si reaparece en vídeos sobre 'estructuras del inconsciente' o 'lógica psíquica', evaluar"
+    },
+    {
+      "surface_form": "Alicia en el País de las Maravillas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendada como obra para 'aprender a bucear en las estructuras del inconsciente'. Tesis lectiva del canal: 'Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido. Todo lo que contiene tiene sentido formal'. Sin análisis sostenido de la obra (es recomendación dentro de bibliografía).",
+      "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis canal sobre 'sentido formal' de Alicia es semilla de análisis. Si en otros vídeos se articula como caso de estructura formal/recursividad psíquica, candidato a entity_work"
+    },
+    {
+      "surface_form": "A través del espejo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Segunda obra de Carroll mencionada junto a Alicia. Sin tratamiento diferenciado.",
+      "quote_evidence": "Son dos libros: *Alicia en el País de las Maravillas* y *A través del espejo*; muy recomendable para aprender a bucear en las estructuras del inconsciente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Bloodborne",
+      "reason_code": "already_captured",
+      "reason_detail": "Mencionada brevemente como 'reelaboración de los mitos y la estructura de Lovecraft'. Esta cita ya está integrada en lovecraft-howard.md líneas 133-134 con timestamp Biblioteca de Babel II 22:35. No requiere acción adicional. En canonical_whitelist como soft (auto_promote: false).",
+      "quote_evidence": "Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Edición de narrativa completa de Valdemar (Lovecraft)",
+      "reason_code": "already_captured",
+      "reason_detail": "Recomendación editorial para Lovecraft, ya capturada en lovecraft-howard.md línea 60.",
+      "quote_evidence": "Se recomienda la edición de narrativa completa de Valdemar,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Edición de Atalanta (La Luna de Cashford)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención editorial sin valor enciclopédico independiente.",
+      "quote_evidence": "Edición de Atalanta, cuidada y sólida,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Gödel, Escher, Bach (Hofstadter)",
+      "reason_code": "already_captured",
+      "reason_detail": "Mencionado solo como prerrequisito para entender Alicia ('tras leer a Gödel, Hofstadter y Eco'). Ya tratado en discarded del vídeo previo Biblioteca de Babel I (A2RpbhypYLk) — la mención aquí es referencia retroactiva a la entrega anterior, no aporta material nuevo.",
+      "quote_evidence": "Tras leer a Gödel, Hofstadter y Eco, Alicia cobra muchísimo más sentido,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Síntesis final canon bibliográfico",
+      "reason_code": "passing_mention",
+      "reason_detail": "El canal cierra con síntesis: 'Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson. Es importante leer también a los creativos que han sido inspirados por los arquetipos'. Esta cita justifica la promoción de Campbell y Eliade y la sugerencia de adición de Cashford a whitelist; queda integrada en sus respectivas páginas/justificaciones.",
+      "quote_evidence": "Los autores específicos fundamentales son Eliade, Cashford, Campbell y Peterson,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "promoted_new": 2,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "promote_to_whitelist_candidates_count": 2,
+    "discarded_count": 34,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T22:23:02Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0",
+    "wiki_pages_read_for_verification": [
+      "authors/lovecraft-howard.md",
+      "authors/jung-carl-gustav.md",
+      "concepts/viaje-heroe.md",
+      "concepts/mito-polar.md"
+    ]
+  },
+  "entities": []
+}

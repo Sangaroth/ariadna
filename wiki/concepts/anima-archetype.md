@@ -161,3 +161,5 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 
+
+- **El Gólem de Cobre** — chunks: [1:05:15](https://youtu.be/e3Aj775Rlw4?t=3915)

@@ -1,0 +1,186 @@
+{
+  "video_id": "wxcSuqipA6s",
+  "video_title": "Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?",
+  "playlist": "_sin_playlist",
+  "category": "psicología",
+  "_doc": "Vídeo foundational del canal: articulación del 'Diagrama de Proxy' — marco propio para clasificar orientación moral-política según dos ejes (jerarquía / fundamentalismo moral) con correlato neuropsicológico. Cumple TODOS los criterios §2.4.1 author_thesis (auto-referencia explícita en el TÍTULO del vídeo, registro sostenido 72 min, estructura interna articulada con cuatro cuadrantes, ya referenciado en otros vídeos del canal). Per scope.md NO se aplica al wiki sin firma humana → thesis_candidate prioridad máxima. Sin promote_new (el único artefacto enciclopédico es la tesis misma). Sin pending_updates: consumismo-critica.md ya cita este vídeo a 01:50 para el marketing político, y no hay material en otras páginas existentes que pueda añadirse sin depender del marco diagrama. Cierra el loop con el discard de 'diagrama de Proxy' del vídeo previo (Cuento de Navidad): este es el vídeo fuente de aquella referencia.",
+  "promote_new": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "promote_to_whitelist_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "diagrama de Nolan",
+      "reason_code": "passing_mention",
+      "reason_detail": "Marco político-económico clásico (David Nolan, 1971) usado como precursor crítico al diagrama de Proxy. El canal lo critica metodológicamente ('los tests son deficientes porque las preguntas contienen declaraciones morales implícitas') sin desarrollarlo como objeto propio. No constituye análisis sustantivo del marco Nolan; es contraste para articular el propio.",
+      "quote_evidence": "El diagrama de Nolan ubica a las personas en dos ejes: económico (izquierda-derecha) y autoritario-libertario,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "técnica BOLD (Blood Oxygen Level Dependent)",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Técnica de neuroimagen funcional. Dominio (neurociencia) explícitamente fuera de scope.md §1. Mencionada como sustento empírico para los correlatos cerebrales del diagrama — su contenido específico se queda en thesis_candidate.",
+      "quote_evidence": "La técnica BOLD (Blood Oxygen Level Dependent) mide el consumo de oxígeno en zonas cerebrales para identificar qué neuronas están más activas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "razonamiento motivado",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Concepto operativo dentro del marco del diagrama (pieza 7 del framework_internal_structure). El término 'motivated reasoning' es psicología cognitiva establecida (Kunda 1990) reapropiada por el canal. Si el thesis_candidate del diagrama se valida, este concepto queda integrado en la página synthesis.",
+      "quote_evidence": "Se identificaron circuitos de \"razonamiento motivado\": mecanismos cerebrales para producir justificaciones que alivien la culpa o disonancia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en otros vídeos el canal usa 'razonamiento motivado' fuera del contexto político (por ejemplo en análisis de obra para describir defensas del personaje), candidato a concept con vida propia"
+    },
+    {
+      "surface_form": "locus de autoridad / locus de control",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Subdimensión del eje vertical del diagrama (pieza 8 del framework_internal_structure). Reapropiación del 'locus of control' de Rotter (1954). Quedará integrado en la página synthesis si el thesis_candidate se promueve.",
+      "quote_evidence": "El locus de control o locus de autoridad determina si representas las amenazas como externas o internas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Útil cross-corpus como herramienta diagnóstica genérica del canal. Si reaparece sostenidamente fuera del diagrama, considerar concept independiente"
+    },
+    {
+      "surface_form": "amígdala / córtex cingulado anterior / área tegmental ventral / corteza orbitofrontal",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Estructuras cerebrales mencionadas como correlatos de los ejes del diagrama. Neuroanatomía fuera de scope.md §1. El correlato neurobiológico postulado se queda en thesis_candidate — si se valida, las regiones se mencionan en la página synthesis sin ser objeto enciclopédico propio.",
+      "quote_evidence": "Correlatos cerebrales: hacia la derecha más amígdala, hacia la izquierda más córtex cingulado anterior, arriba mayor área tegmental ventral,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Adolf Hitler",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como caso ilustrativo del cuadrante arriba-izquierda (totalitario sin fundamento previo). El canal usa eufemismo 'el señor del bigote gracioso'. Comparación estructural con Beauvoir como ejemplos paralelos de proyección narcisista patológica. No tratamiento biográfico ni histórico — uso como caso del marco diagrama.",
+      "quote_evidence": "El señor del \"bigote gracioso\" empezó con argumentos morales fuertes (derecha) pero terminó sometiendo toda moral a la norma del régimen (arriba izquierda),",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Mein Kampf",
+      "reason_code": "passing_mention",
+      "reason_detail": "Citado como ejemplo magistral de estructura proyectiva narcisista patológica. Sin análisis textual de la obra — comparación estructural con El Segundo Sexo dentro del marco diagnóstico del diagrama.",
+      "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Simone de Beauvoir",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionada como autora de El Segundo Sexo en comparación estructural con Hitler. Sin tratamiento sustantivo de su pensamiento ni biografía. Domain (humanities.philosophy / interdisciplinary.cultural_studies) en scope, pero el uso aquí es diagnóstico-paralelo, no exposición de su filosofía. No en canonical_whitelist.",
+      "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,",
+      "review_priority": "high",
+      "review_priority_reason": "Figura central del feminismo filosófico del siglo XX — dominio en scope. La afirmación canal sobre 'estructura proyectiva narcisista patológica' es polémica y no debería ser la única huella de Beauvoir en la wiki. Si reaparece en otros vídeos con tratamiento más equilibrado o exposición de su pensamiento, evaluar página author"
+    },
+    {
+      "surface_form": "El Segundo Sexo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obra de Beauvoir mencionada solo en la comparación estructural con Mein Kampf. Sin análisis textual ni exposición de su tesis.",
+      "quote_evidence": "El Mein Kampf y El Segundo Sexo comparten estructuras de proyección narcisista patológica tremendamente similares,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si Beauvoir se promueve eventualmente, vincular como obra principal"
+    },
+    {
+      "surface_form": "Juan Ramón Rallo",
+      "reason_code": "out_of_scope_figure",
+      "reason_detail": "Economista español, mencionado solo como caso ilustrativo de ubicación en cuadrante abajo-derecha del diagrama. Economía no está en scope.md §1. Sin análisis del pensamiento de Rallo.",
+      "quote_evidence": "Juan Ramón Rallo: defiende fundamentos como vida, libertad y propiedad, pero como protección contra imposición externa — se ubica abajo a la derecha,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Miguelanxo Bastos",
+      "reason_code": "out_of_scope_figure",
+      "reason_detail": "Economista, mencionado solo como ejemplo de ubicación. Fuera de scope.",
+      "quote_evidence": "Miguelanxo Bastos se ubica a la derecha moderada: poco autoritario, cree en el derecho natural,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Roberto Baquero",
+      "reason_code": "out_of_scope_figure",
+      "reason_detail": "Mencionado como ejemplo del cuadrante totalitario. Sin análisis de su pensamiento.",
+      "quote_evidence": "Roberto Baquero eleva lo totalitario si es necesario para proteger el estado, sin importar si el fundamento es natural o construido,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Pablo Iglesias",
+      "reason_code": "passing_mention",
+      "reason_detail": "Político español (ex-líder de Podemos). Mencionado como caso ilustrativo de ubicación 'izquierda tendiendo al relativismo, desplazándose arriba o abajo según le conviene'. Uso es diagnóstico psico-político vía el diagrama, no comentario coyuntural sobre política contemporánea. NO matchea topic_filters.json (la regex no incluye 'Iglesias' como literal). Aún así, fuera de scope como figura política coyuntural.",
+      "quote_evidence": "Pablo Iglesias se ubica a la izquierda tendiendo al relativismo, desplazándose arriba o abajo según le conviene,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "youtubers/streamers de habla hispana (La Gata de Schrödinger, Joan Planas, El Xokas, Gisbert, Experto en Igualdad, Abismo Filosófico, Éxito y Jota, H)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Conjunto de youtubers/streamers contemporáneos al canal mencionados como ejercicio de ubicación de figuras públicas en el diagrama. Sin valor enciclopédico independiente — son ejemplos ilustrativos del marco. Las ubicaciones envejecen rápido (las personas pueden moverse en el diagrama). Se descartan colectivamente.",
+      "quote_evidence": "Abismo Filosófico se ubica abajo a la izquierda, aunque su tendencia al constructo filosófico dificulta identificar sus intuiciones morales reales,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "anarcocapitalistas (ancap)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Categoría política tratada como caso de cuadrante específico del diagrama (abajo-derecha). El canal articula una tesis genealógica interesante: 'la mayoría de ancap estaban a la izquierda hasta que descubrieron que el relativismo implicaba renunciar a la propiedad'. Esta tesis migratoria queda integrada en el thesis_candidate del diagrama (pieza 4: cuadrantes con sus ocupantes característicos).",
+      "quote_evidence": "La mayoría de ancap estaban a la izquierda hasta que descubrieron que el relativismo implicaba renunciar a la propiedad,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "alineamientos D&D (legal/caótico, bueno/maligno)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Sistema de alineamientos del juego de rol Dungeons & Dragons usado como mapeo parcial al diagrama de Proxy (pieza 11 del framework_internal_structure). Referencia pop-cultural diagnóstica, no objeto enciclopédico autónomo.",
+      "quote_evidence": "El eje legal-caótico de los alineamientos de rol podría mapearse al eje de autoridad-jerarquía del diagrama,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "'Lo personal es político' como slogan",
+      "reason_code": "already_captured",
+      "reason_detail": "Crítica del canal al uso contemporáneo del slogan ('mecanismo para politizar todos los ámbitos de la vida personal... la política contemporánea funciona como marketing'). Esta cita YA está integrada en consumismo-critica.md líneas 105-106 con timestamp Diagrama de Proxy 01:50. No requiere acción.",
+      "quote_evidence": "La frase \"lo personal es político\" se ha convertido en un mecanismo para politizar todos los ámbitos de la vida personal,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "estado del bienestar / política como creación de problemas artificiales",
+      "reason_code": "already_captured",
+      "reason_detail": "Tesis del canal sobre la política contemporánea como marketing — ya integrada en consumismo-critica.md desde este mismo vídeo.",
+      "quote_evidence": "En un estado del bienestar hay pocos motivos reales para hacer política, así que los partidos crean problemas artificiales para captar votos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "ejemplo de la bolsa de patatas (razonamiento motivado)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Ejemplo coloquial usado para ilustrar razonamiento motivado. Captado dentro de la pieza 7 del framework si la tesis se valida.",
+      "quote_evidence": "El ejemplo de la bolsa de patatas: \"mañana comeré menos\" es un razonamiento motivado para paliar la culpa, no una decisión real,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "promote_to_whitelist_candidates_count": 0,
+    "discarded_count": 19,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T22:23:02Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.2.0",
+    "whitelist_version": "0.1.0",
+    "wiki_pages_read_for_verification": [],
+    "wiki_pages_read_for_verification_note": "No se leyeron páginas existentes porque no hay pending_updates propuestos. La verificación del estado de consumismo-critica.md sobre el citar este vídeo se hizo en el extracto previo (Cuento de Navidad) y se mantiene válida."
+  },
+  "entities": [],
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

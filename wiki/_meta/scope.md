@@ -1,5 +1,5 @@
 ---
-version: 0.2.0
+version: 0.3.0
 schema_version: 1.0.0
 last_updated: 2026-05-02
 review_status: draft_v0_pending_human_review
@@ -14,23 +14,45 @@ purpose: |
 
 > **Misión**: documentar **lo que el canal Proxy trata sustantivamente**, no resumir lo que el canal repite. Una entidad/concepto/obra/autor merece página si el canal la **trabaja** (analiza, articula, aplica como marco), no si simplemente la nombra.
 
+> **Self-statement del canal** (referencia editorial): "Inside Proxy es un proyecto de divulgación creado desde España, centrado en la batalla cultural a través del **liberalismo, la filosofía, la psicología cognitiva, la mitología y la neurociencia**." Análisis arquetípico, mitos y obras también son parte del corpus tratado. El alcance editorial debe reflejar esos pilares declarados, no un subconjunto arquetípico-estricto.
+
 ---
 
 ## 1. Dominios académicos en alcance
 
-Whitelist de dominios OpenAlex (multi-valor permitido por página):
+Whitelist de dominios OpenAlex (multi-valor permitido por página). Algunos dominios son **incondicionales** (siempre in-scope) y otros **condicionados** (in-scope solo bajo condiciones operacionales que se definen abajo).
 
-- `social.psychology` y subraíces (especialmente `social.psychology.jungian`, `social.psychology.psychoanalytic`)
-- `social.sociology` (cuando aborda crítica cultural, no actualidad coyuntural)
-- `humanities.philosophy` (filosofía moral, fenomenología, estructuralismo, ontología)
-- `humanities.religion` (mitología comparada, simbolismo religioso, gnosticismo)
+### 1.1 Dominios incondicionales
+
+- `social.psychology` y subraíces (`.jungian`, `.psychoanalytic`)
+- `social.sociology` (cuando aborda crítica cultural estructural, no actualidad coyuntural)
+- `humanities.philosophy` (moral, fenomenología, estructuralismo, ontología, filosofía de la mente)
+- `humanities.philosophy.political` (liberalismo, conservadurismo, anarquismo, marxismo, tradicionalismo — como **tradiciones intelectuales**, NO como actualidad partidista; ver §3)
+- `humanities.religion` (mitología comparada, simbolismo religioso, gnosticismo, ética religiosa)
 - `humanities.literature` (análisis literario, crítica textual)
 - `arts.cinema` (películas analizadas como mitos modernos)
 - `arts.literature` (autores literarios — Lovecraft, Tolkien, Borges, etc.)
 - `interdisciplinary.cultural_studies`
 - `interdisciplinary.semiotics`
 
-**Política**: si el extractor estima un domain fuera de esta lista para una entidad candidata, NO descarte automático — flag `domain_out_of_scope: true` para revisión humana en el log.
+### 1.2 Dominios condicionados (in-scope solo si el canal los usa como marco aplicado)
+
+Estos dominios entran en wiki **solo cuando el speaker los articula como marco propio o sustento empírico de una tesis psicológico-arquetípica-cultural**. NO entran cuando aparecen como exposición técnica neutra sin marco interpretativo.
+
+- `social.psychology.cognitive` (psicología cognitiva — pilar declarado del canal)
+- `interdisciplinary.cognitive_science` (ciencia cognitiva integrada)
+- `natural.neuroscience` (neurociencia — pilar declarado del canal)
+
+**Criterio operacional para los condicionados**:
+
+| Aparición | Decisión |
+|---|---|
+| El speaker articula tesis propia que **aplica** un mecanismo (razonamiento motivado, locus de autoridad, tríada cognitiva, BOLD como sustento) | IN — integrar en `thesis_candidate` o como evidencia en page del canal |
+| El speaker explica un concepto técnico **estándar** sin aplicarlo a su marco | `passing_mention` o `established_concept_used_as_example` (NO promueve página autónoma) |
+| El concepto técnico aparece como **caso ilustrativo** de un concepto del canal ya promovido | `passing_mention` con `enriches_concept: <page_id>` (genera pending_update a esa page) |
+| Página autónoma sobre estructura cerebral, fármaco, escala clínica, técnica de neuroimagen | NO — los conceptos técnicos no son objetos enciclopédicos del wiki, son herramientas |
+
+**Política unificada para todos los dominios**: si el extractor estima un domain fuera de §1.1 ni §1.2 para una entidad candidata, NO descarte automático — flag `domain_out_of_scope: true` para revisión humana en el log.
 
 ---
 
@@ -101,7 +123,20 @@ Cada candidato `author_thesis` lleva en el extracto:
 - `quote_evidence[]`: citas literales del summary que justifican cada señal
 - `signal_marks_detected[]`: lista de qué señales matched
 - `framework_internal_structure`: array de sub-piezas si aplica (`["pieza 1", "pieza 2", ...]`)
-- `requires_human_validation: true` (siempre — pase auto a `discard_log:thesis_candidates[]` para revisión, NO se aplica al wiki sin firma humana)
+- `minutes_sustained`: minutos de exposición sostenida (estimación)
+- `requires_human_validation`: bool — `false` solo si cumple el **gate de auto-promoción** (abajo); `true` en cualquier otro caso
+
+#### Gate de auto-promoción (NUEVO en v0.3)
+
+Un thesis_candidate se promueve automáticamente a `synthesis` page (vía sub-agente, sin firma humana) si cumple **TODOS los criterios**:
+
+- `minutes_sustained >= 30` (vídeo monográfico o sección sostenida sobre la tesis)
+- `signal_marks_detected.length >= 3` (al menos tres señales: thesis_marker + internal_structure + (pedagogic_register o genealogical_self_reference))
+- `framework_internal_structure.length >= 4` (estructura articulada con piezas explícitas)
+
+**Por qué este gate**: vídeos foundational del canal (golem-de-cobre 81 min sobre cognición humana vs IA, diagrama-de-proxy 72 min sobre orientación moral-política, cuento-de-navidad 90 min sobre marco luterano/católico) cumplen los tres criterios y son **objeto enciclopédico claro**. Bloquearlos siempre detrás de firma humana significa que el wiki nunca documenta lo que el canal sí trabaja sustantivamente. La auditoría posterior es sobre las pages auto-promovidas (marcadas con `auto_promoted_synthesis: true` en frontmatter), no sobre cada candidato.
+
+**Si NO cumple el gate completo**: `requires_human_validation: true` → queda en `thesis_candidates.json` como hoy, esperando revisión humana antes de tocar wiki.
 
 **Distinción frente a `concept`**:
 
@@ -132,18 +167,67 @@ Reservado para futuro. Por ahora cualquier candidato `institution` queda en `rev
 
 ---
 
-## 3. Out-of-scope explícito
+## 3. Out-of-scope: politiqueo vs análisis político-ideológico
 
-Lo siguiente NO genera página, NO entra a `mentions_index`, se descarta directo (con log de descarte como cualquier otra entidad — auditable):
+> **Distinción central**: el canal NO es politiqueo de actualidad partidista, pero SÍ análisis político-ideológico con fundamentos psicológicos. La regla anterior ("política española → out") era demasiado gruesa y enterraba vídeos foundational como `diagrama-de-proxy`. Esta sección reemplaza esa regla por criterios operacionales.
 
-| Categoría | Ejemplos | Razón |
+### 3.1 Test discriminante (en orden, primer match decide)
+
+1. **¿El speaker articula un mecanismo psicológico/sociológico/filosófico subyacente a la posición política?** → IN
+2. **¿Aplica un marco teórico propio o ajeno (Jung, Lakoff, diagrama de Proxy, Nolan, locus de control) para caracterizar la posición/figura?** → IN
+3. **¿Critica una tradición intelectual (liberalismo, marxismo, conservadurismo, anarcocapitalismo, feminismo de género) como sistema de ideas?** → IN
+4. **¿La figura/obra se usa como caso ILUSTRATIVO de un concepto, sin biografía del personaje en sí?** → IN como `passing_mention` con `enriches_concept: <page_id>`
+5. **¿Es comentario directo sobre actualidad partidista (≤12 meses) sin marco teórico aplicado?** → OUT (`political_news`)
+6. **¿Es valoración de una ley/política específica como pieza de actualidad sin elevarla a estructura?** → OUT (`political_news`)
+7. **¿Es predicción electoral, juicio moral sobre persona-político, comentario sobre campaña?** → OUT (`partisan_commentary`)
+
+**Test de la cápsula del tiempo** (criterio de cierre): si retiras el nombre propio actual y la afirmación pierde valor, es politiqueo. Si sobrevive como tesis estructural, es análisis.
+
+### 3.2 Ejemplos discriminantes (referencia para el extractor)
+
+| Caso | Decisión | Razón |
 |---|---|---|
-| Política española coyuntural | PSOE, PP, Vox, Sánchez, Feijóo, Ayuso, elecciones, leyes específicas | Comentario contingente sin valor enciclopédico. Cubierto en `topic_filters.json` |
-| Fiscalidad / actualidad económica concreta | Impuestos hosteleros, factura luz, subidas de IVA | Coyuntural. Si hay crítica estructural, va a `consumismo-critica` |
-| Meta-canal | "Suscríbete", saludos, moderación del chat, comentarios sobre los directos | Metadata del stream, no contenido |
-| Promoción / patrocinio | Patrocinadores, merchandising, promociones | No enciclopédico |
-| Anécdotas personales del presentador | Familia, viajes, comidas, gustos privados | Salvo que ilustren un concepto promovido |
-| Recomendaciones culturales sin análisis | "Leed esto", "ved esta peli" sin desarrollo | Sin contenido extractable |
+| "Sánchez aprobó la ley de amnistía" | OUT (`political_news`) | Actualidad partidista sin marco |
+| "El liberalismo parte de la propiedad como derecho natural" | IN (`humanities.philosophy.political`) | Tradición intelectual |
+| "Pablo Iglesias en cuadrante izquierda-relativismo del diagrama de Proxy" | IN — `passing_mention` enriquece `diagrama-de-proxy` | Caso del marco propio |
+| "Pablo Iglesias dijo X esta semana" | OUT (`political_news`) | Politiqueo |
+| "Hitler como caso de proyección narcisista patológica" | IN — `passing_mention` enriquece concepto de proyección | Marco psicológico aplicado |
+| "Vox crece en encuestas" | OUT (`political_news`) | Coyuntural |
+| "El estado del bienestar genera dependencia psicológica" | IN — `author_thesis` o enriquece `consumismo-critica` | Mecanismo psicológico estructural |
+| "El conservadurismo como tradición occidental" | IN | Filosofía política |
+| "Ancap vienen del relativismo de izquierdas que descubrió la propiedad" | IN — tesis migratoria del canal | Análisis psico-genealógico |
+| "Ayuso vs Sánchez en debate" | OUT | Politiqueo puro |
+| "El feminismo contemporáneo como mito impropio" | IN | Marco mitológico aplicado |
+| "Beauvoir y Hitler como estructuras paralelas de proyección narcisista" | IN | Análisis psicológico estructural |
+
+### 3.3 Otras categorías out-of-scope (sin discusión)
+
+Las siguientes categorías NO generan página, NO entran a `mentions_index`, se descartan con log auditable:
+
+| Categoría | Ejemplos | reason_code |
+|---|---|---|
+| Fiscalidad / economía coyuntural concreta | Impuestos hosteleros, factura luz, subidas de IVA | `political_news` (si hay crítica estructural va a `consumismo-critica`) |
+| Meta-canal | "Suscríbete", saludos, moderación del chat, comentarios sobre los directos | `meta_canal` |
+| Promoción / patrocinio | Patrocinadores, merchandising, promociones | `promo` |
+| Anécdotas personales del presentador | Familia, viajes, comidas, gustos privados | `personal_anecdote` (salvo que ilustren un concepto promovido) |
+| Recomendaciones culturales sin análisis ni marco bibliográfico explícito del canal | "Leed esto" suelto sin contexto pedagógico | `passing_mention` |
+
+### 3.4 Recomendaciones bibliográficas (caso especial — NUEVO)
+
+Cuando el speaker recomienda un manual/libro como **base de estudio o referencia bibliográfica del canal** (incluso si el dominio del libro está fuera de §1), la mención NO es out_of_scope. Es parte del método pedagógico declarado del canal y debe capturarse como `recommended_reference` para una futura página índice de bibliografía.
+
+**Distinguir**:
+
+- Libro objeto de análisis arquetípico (Tolkien, Pinocho, Cuento de Navidad) → `promote_new` como `entity_work`
+- Manual de consulta recomendado sin análisis aplicado (Panksepp, Redolar, Hamilton, DSM-5) → `recommended_reference` (lane bibliográfica)
+- Mención bibliográfica con tesis embrionaria pero sin desarrollo (Gödel-Escher-Bach, Hofstadter) → `passing_mention` con `review_priority: medium`
+
+Campos requeridos en `recommended_reference`:
+- `book_title` (título normalizado)
+- `authors[]`
+- `domain` (biología, neurociencia, lógica, divulgación, psicología cognitiva, etc.)
+- `why_recommended` (rol pedagógico que el speaker le asigna)
+- `quote_evidence` + `timestamp` (para deep-link a chunk)
 
 ---
 
@@ -178,6 +262,8 @@ El canal Proxy mantiene un vocabulario propio que **no coincide siempre con la t
 | **Capitalismo como categoría mitológica** | Capitalismo leído como mito moderno, no como sistema económico | Análisis económico |
 | **Autotipo** | Categoría del canal: prototipo vaciado de sentido moral (degradación de mito a franquicia) | Autotipo en sentido genérico |
 | **Égersis** (NO éxesis) | Despertar/elevación en el mito lunar — terminología precisa del canal (corregida en hieros-gamos) | Éxegesis |
+| **Diagrama de Proxy** | Marco propio del canal para clasificar orientación moral-política según dos ejes (jerarquía / fundamentalismo moral) con correlato neuropsicológico | Cualquier diagrama político-económico (Nolan, etc.) |
+| **Mitología propia / impropia (re-articulación)** | El canal lo extiende a estructuras culturales contemporáneas (feminismo de género, consumismo, política como marketing) leídas como mitos impropios | Mito en sentido literario únicamente |
 
 El extractor NO debe "corregir" estos términos al canon académico. Si detecta uso del canal divergente del académico, lo registra como evidencia, no como error.
 

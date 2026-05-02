@@ -1,0 +1,292 @@
+{
+  "video_id": "e3Aj775Rlw4",
+  "video_title": "El Gólem de Cobre",
+  "playlist": "_sin_playlist",
+  "category": "filosofía y teoría",
+  "entities": [],
+  "pending_updates": [
+    {
+      "page_id": "anima-archetype",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El Gólem de Cobre** — chunks: [1:05:15](https://youtu.be/e3Aj775Rlw4?t=3915)",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "e3Aj775Rlw4",
+          "timestamp_seconds": 3915,
+          "cite_markdown": "[El Gólem de Cobre (1:05:15)](https://youtu.be/e3Aj775Rlw4?t=3915)"
+        }
+      ],
+      "rationale": "cita-only — la sección 'Polaridad como eje, no como género biológico' de la página ya documenta la polaridad masculino/femenino como eje cognitivo (concreto/abstracto, explícito/implícito). El Gólem añade una traducción al vocabulario de módulos de memoria (semántico/procedural vs contextual) durante ~3 min — matiz menor en prosa, pero el timestamp es valioso para retrieval indirecto del bloque cognitivo donde el canal vuelve a articular la complementariedad arquetípica.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Cognición humana vs IA: el modelo del canal sobre la mente como grafo no-máquina",
+      "proposed_page_id": "golem-de-cobre",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Describimos la mente humana con metáforas informáticas (memoria, interfaz, programas) y eso es un error,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Ni la IA es inteligencia ni la inteligencia humana funciona como creemos,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Todo pensamiento tiene tres componentes: imaginaria (forma, color, imagen), formal (lógica, gramática, sintaxis) y afectiva (emociones, significación),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La cognición se divide en percepción, atención y memoria,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La memoria episódica (vivencias), procedural (cómo se hacen las cosas) y semántica (palabras, relaciones lógicas) son procesos distintos,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Las ciencias cognitivas estudian los campos científico-técnicos que permiten entender cómo comprendemos y nos relacionamos con el mundo,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La metáfora es la herramienta central para divulgar sobre cognición,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Tres tipos de IA: débil (algoritmo monotarea), fuerte (algoritmo multicampo aún inexistente), singular (ciencia ficción de conciencia máquina autónoma)",
+        "Cognición articulada en tres procesos: percepción, atención, memoria",
+        "Atención como doble filtro bottom-up (10-20% de selección) y top-down (inhibición para reconstruir mentalmente)",
+        "Tríada representacional: componente imaginaria (forma/color/imagen), formal (lógica/gramática/sintaxis) y afectiva (emociones/significación)",
+        "Mente como grafo tridimensional con tres redes superpuestas (afectiva, gramatical, imaginaria) — cada pensamiento es matriz puntual de neuronas",
+        "Memoria como reconstrucción continua sin locus, no como almacén — cada evocación modifica el recuerdo",
+        "Hipocampo como índice dinámico (cajón de fichas) no como almacén — circuitos de reordenamiento, no lugares de almacenamiento",
+        "Módulos de memoria: episódica, procedural, semántica y afectiva como procesos distintos",
+        "Trauma como componente afectiva fijada con confabulación visual y formal",
+        "Creatividad como recombinación de fragmentos, no creación ex nihilo — paralelismo con procesos psicóticos por desinhibición dopamínica",
+        "Masculino y femenino como formas cognitivas complementarias (semántico-procedural vs contextual) presentes en ambos sexos en proporciones distintas",
+        "Tecnología como homogeneizador cultural — el control no es de la IA sino de quien la diseña y vende"
+      ],
+      "minutes_sustained": 75,
+      "domain_guess": "social.psychology.cognitive",
+      "related_existing_pages": [
+        "collective-unconscious",
+        "clases-ancestrales",
+        "anima-archetype",
+        "consumismo-critica"
+      ],
+      "requires_human_validation": false,
+      "rationale": "Cumple gate auto-promoción §2.4.1: minutes_sustained=75 (>=30, vídeo monográfico de 81 min sostenido sobre la tesis cognitiva) AND speaker_authorship_marks=7 (>=3, incluye declared_thesis + internal_structure múltiples + pedagogic_register sostenido) AND framework_internal_structure=12 piezas (>=4, sistema articulado con sub-conceptos que dependen entre sí). El canal articula su propio modelo cognitivo — no expone psicología cognitiva canon ni analiza una obra ajena. Pilar declarado del canal (psicología cognitiva + neurociencia, scope §1.2 dominio condicionado activado por marco aplicado propio). Mismo patrón que el ejemplo explícito en scope.md ('golem-de-cobre 81 min sobre cognición humana vs IA' como caso paradigmático del gate)."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "ChatGPT",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Mencionado como ejemplo de IA débil dentro de la tipología tres-tipos articulada por el canal. Pieza ilustrativa del thesis_candidate, no entidad autónoma",
+      "quote_evidence": "La IA débil son algoritmos específicos que mejoran en una sola tarea mediante autocorrección (ej. ChatGPT),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Google chatbot",
+      "reason_code": "passing_mention",
+      "reason_detail": "Producto comercial mencionado de pasada como contraejemplo (ni siquiera es IA débil). Sin marco aplicado",
+      "quote_evidence": "Google tiene un chatbot que parece inteligencia pero ni siquiera es una IA débil,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Máquina de Turing",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto fundacional de ciencia computacional usado como ilustración de cómo NO funciona la mente. El canal lo invoca como punto de contraste dentro de su tesis (paradigma de Turing como crítica), no lo desarrolla autónomamente. Captured_in_thesis_candidate",
+      "quote_evidence": "La máquina de Turing es el algoritmo informático más sencillo: lee ceros y unos y reacciona según instrucciones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Paradigma de Turing",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Crítica del canal al test de Turing como criterio operacional ('llamar inteligencia a lo que parece inteligencia') — pieza retórica del thesis_candidate, no entidad enciclopédica autónoma",
+      "quote_evidence": "Si nos importa solo el resultado, llamaremos IA a todo lo que desde fuera parezca inteligencia humana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Arquitectura de Von Neumann",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico estándar de arquitectura de computadores explicado como herramienta del thesis_candidate (lo que la mente NO es). Scope §1.2: técnica neutra sin marco propio — captured_in_thesis",
+      "quote_evidence": "Un ordenador tiene periféricos (entrada/salida), unidad central de procesamiento (CPU) y memoria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Ilusión de Rubin",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Ejemplo gestáltico canónico (caras/copa) usado para ilustrar la inhibición top-down y la creación de representaciones mentales. Pieza pedagógica del thesis_candidate",
+      "quote_evidence": "Podemos seleccionar voluntariamente si vemos caras o una copa, pero no hay ni caras ni copa, solo líneas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Hipocampo",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Estructura cerebral integrada en la tesis como índice dinámico (no almacén). Scope §1.2: concepto neurocientífico técnico — no promueve página autónoma; vive como pieza del thesis_candidate",
+      "quote_evidence": "El hipocampo no almacena recuerdos, funciona como un cajón de fichas de biblioteca: un índice que ordena y conecta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Dopamina",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Neurotransmisor invocado como sustrato de la inhibición fallida en procesos psicóticos. Pieza neurocientífica del thesis_candidate (creatividad como recombinación impulsiva)",
+      "quote_evidence": "Los procesos alucinatorios y psicóticos ocurren por problemas de inhibición del neurotransmisor dopamina,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Afantasía",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Variación de la representación mental (1-2% población sin imágenes mentales) integrada en la tesis sobre la tríada representacional. Concepto técnico de psicología cognitiva — no promueve página autónoma",
+      "quote_evidence": "Un 1-2% de la población tiene afantasía: incapacidad de evocar imágenes mentales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Trauma",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "El canal articula el trauma como pieza del modelo (afectividad pura fijada con confabulación). Forma parte estructural del thesis_candidate sobre módulos de memoria",
+      "quote_evidence": "El trauma es afectividad pura: la fijación de un estadio afectivo que no se ha procesado como representación,",
+      "review_priority": "medium",
+      "review_priority_reason": "El framing del trauma como confabulación con núcleo afectivo intacto puede ser pieza recurrente del marco psicológico del canal — vigilar en futuros vídeos para posible promoción a concept propio si se desarrolla en monográfico",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Memoria episódica/procedural/semántica/afectiva",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Tipología de módulos de memoria — pieza interna del framework articulado en el thesis_candidate. No promueve páginas autónomas (scope §1.2: técnica de psicología cognitiva integrada como evidencia del marco propio del canal)",
+      "quote_evidence": "La memoria episódica (vivencias), procedural (cómo se hacen las cosas) y semántica (palabras, relaciones lógicas) son procesos distintos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Tríada representacional (imaginaria, formal, afectiva)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza nuclear del marco articulado por el canal en este vídeo — vive dentro del thesis_candidate, no como concept independiente",
+      "quote_evidence": "Todo pensamiento tiene tres componentes: imaginaria (forma, color, imagen), formal (lógica, gramática, sintaxis) y afectiva (emociones, significación),",
+      "review_priority": "high",
+      "review_priority_reason": "Si el canal recupera esta tríada en otros vídeos como marco aplicado (no solo expuesto), podría promoverse como concept canal-específico autónomo. Vigilar recurrencia",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Prometeo",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Mito invocado a 39:23 como advertencia sobre la ambición de crear un golem (la IA singular). Framing distinto del Prometeo polar ya documentado en anima-archetype y mito-polar — aquí opera como pieza retórica del thesis_candidate sobre cognición vs IA, no como entidad autónoma a promover",
+      "quote_evidence": "Prometeo representa la ambición de crear un golem exactamente igual a nosotros, pero el mito dice que saldrá mal,",
+      "review_priority": "medium",
+      "review_priority_reason": "La lectura 'Prometeo como advertencia sobre crear conciencia' es ángulo nuevo respecto a la documentación existente (donde Prometeo es la mitad masculina del par polar). El sub-agente que construya golem-de-cobre debe wikilinkar a anima-archetype y considerar añadir este angle a la futura page si Prometeo aparece como tópico recurrente del canal",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Pandora",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Mito invocado a 39:23 como advertencia complementaria a Prometeo (no abrir la caja del alma/interior implícito). Mismo patrón retórico del thesis_candidate. Ya documentado en anima-archetype como contraparte femenina de Prometeo en el mito polar",
+      "quote_evidence": "Pandora representa el interior implícito, el alma: los dioses advirtieron \"no abráis la caja, no miréis dentro\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Mente como grafo tridimensional",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Modelo arquitectónico propio del canal — pieza fundamental del thesis_candidate. No fragmentar en concept autónoma",
+      "quote_evidence": "La mente es un gigantesco grafo con tres redes superpuestas: afectiva, gramatical e imaginaria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Creatividad como recombinación",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Tesis del canal sobre la creatividad como confabulación impulsiva, no creación ex nihilo. Pieza del thesis_candidate sobre arquitectura cognitiva. Tangencialmente relevante a clases-ancestrales (no se puede imaginar lo no-visto) pero captured ya en thesis",
+      "quote_evidence": "La creatividad no parece existir como tal: el cerebro no crea cosas nuevas, recombina fragmentos de experiencias vividas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis recurrente del canal en otros vídeos (analogía con dopamina, locos, psicosis) — vigilar si se promueve a concept canal-específico autónomo en monográfico",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Voz interior / autovoz",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Variación individual de la representación mental (algunas personas oyen sus pensamientos como voz, otras no). Pieza de la tipología cognitiva del thesis_candidate",
+      "quote_evidence": "Algunas personas oyen sus pensamientos como una voz interior (autovoz) y otras no,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Masculino/femenino como formas cognitivas",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La polaridad masculino/femenino como eje cognitivo presente en ambos sexos en proporciones distintas YA está documentada en anima-archetype (sección 'Polaridad como eje, no como género biológico'). El Gólem añade traducción al vocabulario de módulos de memoria (semántico/procedural vs contextual) — gestionado vía cita-only update a anima-archetype Citations",
+      "quote_evidence": "Los mitos describen lo masculino y lo femenino en términos cognitivos: los hombres son semánticos y procedurales, las mujeres son contextuales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "Homogeneización cultural por tecnología",
+      "reason_code": "already_captured",
+      "reason_detail": "La cita exacta 'No seremos dominados por la IA sino por quien la construya, diseñe y venda' a [1:15:20] YA está incorporada en consumismo-critica.md (sección 'Homogeneización por plataformas'). Material totalmente cubierto",
+      "quote_evidence": "No seremos dominados por la IA sino por quien la construya, diseñe y venda,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "La obsesión por la igualdad como estrategia de control",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Crítica del canal a la homogeneización de género como estrategia política/comercial — extiende la sección sobre masculino/femenino cognitivo. Pieza del thesis_candidate (cola política del marco cognitivo). Tangencialmente conecta con consumismo-critica pero el angle es la complementariedad ecológica de las diferencias, no el consumo",
+      "quote_evidence": "La obsesión por la igualdad viene de un complejo: se les dice a las mujeres que sean como hombres y a los hombres que dejen de serlo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el canal vuelve a articular este angle (homogeneización de género como mecanismo de control político-comercial) en otros vídeos podría sustentar concept o synthesis propia. Vigilar recurrencia",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Problemas culturales como problemas morales no científicos",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Tesis preliminar del canal (los conflictos con la IA/redes/pornografía son morales, no empíricos) — pieza encuadre del thesis_candidate",
+      "quote_evidence": "Los problemas culturales actuales (IA, redes sociales, pornografía) son problemas morales, no científicos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 21,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-02T23:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}
