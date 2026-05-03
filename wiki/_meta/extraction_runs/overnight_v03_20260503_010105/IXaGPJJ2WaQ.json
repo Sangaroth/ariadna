@@ -1,0 +1,127 @@
+{
+  "video_id": "IXaGPJJ2WaQ",
+  "video_title": "Decisiones",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "promote_new": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Estado físico, nuevo look y tormenta eléctrica",
+      "reason_code": "meta_canal",
+      "reason_detail": "Apertura del directo con metadata logística (enfermedad de garganta, corte de pelo, tormenta). Sin contenido temático.",
+      "quote_evidence": "Proxy está enfermo de la garganta y avisa de que el stream será más flojo de lo habitual",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Decisiones sobre financiación: landing page, donaciones, Patreon",
+      "reason_code": "meta_canal",
+      "reason_detail": "Decisiones operativas sobre el modelo de monetización del canal (eliminación de anuncios Twitch, donaciones directas, landing page centralizada, nuevo nivel Patreon). Logística interna del proyecto, sin valor enciclopédico.",
+      "quote_evidence": "Un informático se ofrece a crear una landing page gratuita para centralizar medios de pago y donaciones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Descripción del servicio de terapia ofrecido por el canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Descripción comercial del servicio terapéutico que Proxy ofrece (sesiones de hora y media, programa de escritura autónoma para traumas, perfiles típicos crisis de identidad / problemas de pareja). Información de servicio, no articulación enciclopédica del método clínico.",
+      "quote_evidence": "Las sesiones son de hora y media, con regularidad recomendada de una por semana a una cada tres semanas",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en otros vídeos el canal articula la metodología del programa de escritura autónoma con detalle teórico, podría justificar una página propia sobre 'método terapéutico de Proxy'. Aquí solo aparece como descripción de servicio.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Debate sobre pagos en criptomonedas (Bitcoin, XRP, Binance, Trezor)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Discusión personal del speaker sobre métodos de pago en cripto fuera del circuito regulado, recomendaciones de inversión y elección de wallet. Información operativa-personal, no contenido enciclopédico del corpus.",
+      "quote_evidence": "Proxy quiere recibir donaciones en Bitcoin fuera del circuito financiero regulado",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cartas Magic: The Gathering, lista de Amazon, vestimenta tipo Lawrence de Arabia",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Intercambio casual con el chat sobre coleccionismo personal, deseos de regalo y curiosidad léxica (kufiya). Sin valor enciclopédico.",
+      "quote_evidence": "Proxy colecciona cartas de Magic: The Gathering que se han revalorizado más que el oro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Vídeo viral de acoso callejero femenino y comentario sobre doble vara legal",
+      "reason_code": "political_news",
+      "reason_detail": "Reacción coyuntural a un vídeo viral con comentario sobre la asimetría legal según género del agresor. El argumento estructural (doble vara legal hombre/mujer) está adyacente a discusiones del canal sobre culpabilización del varón ya capturadas en otras páginas, pero aquí se queda a nivel anecdótico-coyuntural sin elevación a estructura.",
+      "quote_evidence": "Señala la doble vara: si el hombre reaccionara con violencia iría a la cárcel, pero ella no enfrentará consecuencias",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lista detallada de elementos para la landing page y logística de las tazas",
+      "reason_code": "meta_canal",
+      "reason_detail": "Detalles operativos sobre la web del canal y dificultades de envío de merchandising. Logística interna sin valor enciclopédico.",
+      "quote_evidence": "Las tazas prometidas están guardadas pero pendientes de envío por dificultades logísticas y económicas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Explicación de espectador sobre blockchain DLT, ISO 20022 y CBDCs",
+      "reason_code": "passing_mention",
+      "reason_detail": "Intervención técnica de un espectador sobre el sistema financiero futuro basado en tecnología DLT y tokenización de activos. Es contribución del chat, no articulación del speaker; tema fuera del alcance editorial del wiki (finanzas técnicas) per scope.md §3.3.",
+      "quote_evidence": "Un usuario explica que se construye un nuevo sistema financiero basado en tecnología DLT bajo estándar ISO 20022",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Próximos proyectos del canal y organización semanal por temas",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de la estructura semanal de contenido (lunes política, martes psicología, miércoles mitología, jueves cine) y campos de estudio del speaker. Programación interna, no contenido enciclopédico.",
+      "quote_evidence": "Estructura semanal: lunes política, martes psicología/neurología, miércoles mitología/antropología, jueves cine y fantasía",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anuncio de debate sobre si la psicología es ciencia",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio operativo de un debate futuro y búsqueda de invitados con postura contraria. La temática (estatuto epistemológico de la psicología) podría tener interés enciclopédico cuando el debate se realice y se procese su vídeo. Aquí solo es anuncio.",
+      "quote_evidence": "Quiere organizar un debate sobre si la psicología es ciencia o no para la semana siguiente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

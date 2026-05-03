@@ -87,6 +87,36 @@ La definición operativa que el canal usa precisa el mecanismo:
 La distinción frente a la desinhibición orgánica (Tourette) es deliberada: la sublimación no es fallo neurológico sino **economía psíquica** — el yo encuentra una forma públicamente tolerable para una pulsión introyectadamente intolerable. El BDSM ilustra el mecanismo en clave sexual: violencia consentida que canaliza odio hacia el propio sexo o el contrario sin convertir al sujeto en violento real. En la articulación del canal, sublimación queda emparentada con canalización y, en su versión más cruda, con catarsis.
 
 
+## La pulsión de muerte aplicada: el caso del pingüino y el adgrediere
+
+El canal incorpora la pulsión de muerte freudiana no como concepto abstracto sino como **maquinaria interior verificable** en patrones conductuales del varón culturalmente desorientado. La articulación parte de un caso concreto: el pingüino del documental de Werner Herzog que se separa de la colonia y avanza 70 km hacia las montañas, hacia muerte cierta, sin que ninguna intervención exterior (devolverlo a la colonia, alimentarlo) lo desvíe. El biólogo del documental aclara que volvería de inmediato a las montañas. Los hombres se identificaron masivamente con ese pingüino; las mujeres no.
+
+> "El pingüino contiene una metáfora arquetípica más potente que el nihilismo: la pulsión de muerte"
+→ [BUT WHY?, 31:04](https://youtu.be/4tAWgX7-yXk?t=1864)
+
+> "La pulsión de muerte postula una maquinaria interior que busca la autodestrucción"
+→ [BUT WHY?, 31:04](https://youtu.be/4tAWgX7-yXk?t=1864)
+
+> "Es la semilla de hábitos autodestructivos, adicciones, violencia e imprudencia"
+→ [BUT WHY?, 31:04](https://youtu.be/4tAWgX7-yXk?t=1864)
+
+El canal articula la pulsión de muerte freudiana como sustrato del concepto canal-específico [[adgrediere-masculino]]: el varón evolutivamente diseñado para 'ir hacia delante contra oposición' (raíz latina ad-grediere) es la forma adaptativa de la pulsión, dirigida hacia un objeto épico (oficio, hobby, mujer); cuando la cultura vacía de épica al varón, la pulsión emerge en sus formas patológicas — "un tobogán de autodestrucción como las adicciones en vez de escalar un camino" ([BUT WHY?, 55:40](https://youtu.be/4tAWgX7-yXk?t=3340)).
+
+## La intelectualización como mecanismo de defensa
+
+Dentro del mismo análisis, el canal precisa además el rol de la **intelectualización** como mecanismo de defensa que paraliza el adgrediere — parálisis racionalizada que se opone al desbordamiento pulsional:
+
+> "La intelectualización paraliza como un corredor que se detiene a cuestionar por qué corre"
+→ [BUT WHY?, 1:21:30](https://youtu.be/4tAWgX7-yXk?t=4890)
+
+> "Es un mecanismo de defensa contra el desbordamiento de las pasiones"
+→ [BUT WHY?, 1:21:30](https://youtu.be/4tAWgX7-yXk?t=4890)
+
+> "La decisión de que algo merece la pena morir no es intelectualización sino pasión pura"
+→ [BUT WHY?, 1:21:30](https://youtu.be/4tAWgX7-yXk?t=4890)
+
+La intelectualización, en la lectura del canal, ofrece un "falso dominio" que sustituye al dominio real (vertical: ser el mejor en una cosa) por dominio horizontal (picoteo de opciones que cuestionan). Es el aparato freudiano de defensa cuyo objeto preciso, en el marco del canal, es bloquear la actualización adgredieriana — y por tanto bloquear la pasión pura que sería la salida sana de la pulsión de muerte.
+
 ## Posición frente a [[jung-carl-gustav]]
 
 El marco dominante del canal es junguiano (arquetipos, individuación, inconsciente colectivo), pero Freud no es desplazado: se mantiene como **genealogía obligada** y proveedor de distinciones tópicas que el canal usa cuando necesita diagnosticar la *cualidad* de una identificación, más allá de su contenido arquetípico. Donde Jung aporta el qué (qué arquetipo se está activando), Freud aporta el cómo (desde qué instancia psíquica se está consumiendo el material).
@@ -94,6 +124,7 @@ El marco dominante del canal es junguiano (arquetipos, individuación, inconscie
 ## Lagunas
 
 - El canal no expone el aparato freudiano de forma sistemática (segunda tópica completa: ello / yo / superyó); solo invoca la pareja ello/yo cuando la necesita como herramienta
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Sin tratamiento de los conceptos freudianos centrales: represión, complejo de Ed -->
 - Sin tratamiento de los conceptos freudianos centrales: represión, complejo de Edipo, transferencia, pulsión de muerte
 - Sin discusión de la posición del canal ante el psicoanálisis clínico freudiano (la posición crítica está articulada respecto al psicoanálisis general en la página de Jung, pero no específicamente respecto a Freud)
 - Sin genealogía explícita Freud → Jung como ruptura teórica: el canal usa ambos sin tematizar la escisión histórica entre ellos

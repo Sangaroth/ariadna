@@ -1,0 +1,526 @@
+{
+  "video_id": "_0BM2jMsWdc",
+  "video_title": "Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill",
+  "playlist": "_streams",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Lilit como mito moderno fabricado por iconotropía: análisis filológico + alternativa arquetípica",
+      "canonical_guess": "lilit-mito",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 48,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No existe en ningún mito propio la historia de una primera esposa de Adán que se rebelara y fuera desterrada"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El Renacimiento y los siglos XVIII-XIX produjeron la corrección iconotrópica más salvaje: la demonología moderna, la magia moderna y el tarot esotérico se inventan en esos siglos"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Se invirtió el modelo mítico: lo que era malo pasó a ser heroico porque la modernidad necesitaba un mito rebelde con el que identificarse"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Aparece en los Cánticos del Sabio (Qumrán 510-511) como parte de una lista de demonios, lilits, búhos y chacales"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "En el árbol Huluppu aparece una \"joven Lilit\" que habita en el interior del árbol junto a una serpiente en las raíces y un pájaro en la copa"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis original del canal articulada en monográfico ~48 min sostenidos sobre Lilit como caso paradigmático de mito impropio fabricado modernamente. La argumentación tiene estructura multi-pieza: (1) filología comparada (no literatura mesopotámica genuina, Gilgamesh sin prototipia, Mar Muerto como fórmula genérica de exorcismo, Isaías como traducción ambigua, Alfabeto de Ben Sirá como única prototipia satírica del s. X); (2) tesis iconotrópica (Renacimiento + XVIII-XIX como períodos de fabricación moderna de demonología, tarot esotérico, magia moderna); (3) inversión moderna del modelo mítico (lo malo deviene heroico para satisfacer la necesidad moderna de un mito rebelde, paralelo a Milton/Lucifer); (4) alternativa teológica (Cristo como prototipo arquetípico de rebeldía genuina). Auto_promoted_synthesis: cumple gate de scope.md §2.4.1 (minutes_sustained=48 ≥ 30; signal_marks ≥ 3; framework_internal_structure ≥ 4 piezas).",
+      "quote_evidence": "No existe en ningún mito propio la historia de una primera esposa de Adán que se rebelara y fuera desterrada"
+    },
+    {
+      "surface_form": "Tipología arquetípica de lo femenino: tres aspectos (gracia/consorte/madre) + cinco corrupciones (Wendy/ninfa/lámia/Medea/bruja)",
+      "canonical_guess": "tipologia-femenina-arquetipica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 13,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La gracia (Atenea): diosas jóvenes no eróticas, princesas, aventureras, el aspecto no sexual de la mujer"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Lo más cercano a una versión maligna de lo femenino son las cinco formas de la bruja: Wendy, ninfa, lámia, Medea y bruja"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las virtudes de lo femenino no pertenecen a la mujer sino a la naturaleza misma y operan incluso en animación suspendida"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "El canal articula como categoría propia una tipología bidimensional de lo femenino arquetípico con: (a) tres aspectos fundamentales sanos (gracia/Atenea, consorte/Venus, madre/Hera); (b) cinco formas de corrupción correlativas (Wendy, ninfa, lámia/súcubo, Medea, bruja). La tipología refina y supera la mención previa de tres formas (ninfa/Wendy/bruja del libro Polaris) ampliándola a cinco. Asume marco previo (las virtudes femeninas como propiedad de la naturaleza, no de la mujer individual) y articula también las cuatro formas de encuentro con el mal (trauma, infección, posesión, contemplación del mal exógeno) que enmarcan las corrupciones. ~13 min sustained de articulación canal-canónica con estructura interna explícita.",
+      "quote_evidence": "Lo más cercano a una versión maligna de lo femenino son las cinco formas de la bruja: Wendy, ninfa, lámia, Medea y bruja"
+    }
+  ],
+  "promote_new": [
+    {
+      "page_id": "lilit-mito",
+      "canonical_name": "Lilit como mito moderno fabricado por iconotropía",
+      "aliases": [
+        "lilit",
+        "lilith",
+        "el mito de lilit",
+        "iconotropia moderna sobre lilit",
+        "lilit en proxy"
+      ],
+      "page_type": "synthesis",
+      "synthesis_subtype": "author_thesis",
+      "auto_promoted_synthesis": true,
+      "domain_primary": "humanities.religion",
+      "primary_domains": [
+        "humanities.religion",
+        "humanities.literature",
+        "interdisciplinary.cultural_studies",
+        "interdisciplinary.semiotics"
+      ],
+      "relations": [
+        {
+          "type": "manifestation_of",
+          "to": "mitologia-propia-impropia",
+          "weight": "canonical",
+          "note": "Lilit es para el canal el caso paradigmático contemporáneo de mito impropio fabricado modernamente: la imagen popular se ha construido por iconotropía a partir de fragmentos no relacionados, no desde una tradición mítica continua"
+        },
+        {
+          "type": "criticizes",
+          "to": "tarot-arquetipico",
+          "weight": "weak",
+          "note": "el tarot esotérico moderno (no el iconográfico-arquetípico) es para el canal otro producto de la misma corrección iconotrópica de los siglos XVIII-XIX que fabricó la demonología moderna y la imagen popular de Lilit"
+        },
+        {
+          "type": "compared_with",
+          "to": "tipologia-femenina-arquetipica",
+          "weight": "strong",
+          "note": "la corrupción genuina de lo femenino que la tradición mítica registra es la **lámia** (forma serpentina devoradora de niños) — no Lilit. El paraguas moderno 'Lilit' colapsa lámia, súcubo y diosas lunares mesopotámicas en una sola figura inventada"
+        },
+        {
+          "type": "compared_with",
+          "to": "anima-archetype",
+          "weight": "strong",
+          "note": "el canal distingue entre figuras del polo oscuro femenino genuinamente arquetípicas (lámia, súcubo, diosa oscura) y la fabricación moderna de Lilit como mito de rebeldía heroica — operación análoga a la de Milton sobre Lucifer"
+        },
+        {
+          "type": "references",
+          "to": "genesis-mitologico",
+          "weight": "strong",
+          "note": "la lectura del canal del Génesis (dos emanaciones: creación sexual-animal + individuación personal-complementaria) es la alternativa exegética que descarta la lectura de Eva como mujer subordinada y por tanto descarta la necesidad teológica de Lilit como 'primera esposa rebelde'"
+        },
+        {
+          "type": "see_also",
+          "to": "mito-polar",
+          "weight": "weak",
+          "note": "Inanna/Istar como diosas lunares mesopotámicas son objeto de la misma operación iconotrópica que confunde mito polar con mito de rebeldía moderna"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Tesis nuclear",
+          "body": "El canal sostiene que **Lilit no existe como mito propio**: no hay literatura mesopotámica ni premesopotámica que presente a una primera esposa de Adán rebelde y desterrada. La figura popular de Lilit como mito de rebeldía femenina contra el patriarcado divino es **producto de la iconotropía moderna** — fabricación de los siglos XVIII-XIX que invierte el modelo mítico para satisfacer la necesidad cultural moderna de un mito rebelde con el que identificarse. La operación es paralela a la que Milton hace con Lucifer en *El Paraíso perdido*: el adversario teológico se reescribe como héroe trágico.",
+          "supporting_quotes": [
+            {
+              "quote": "No existe en ningún mito propio la historia de una primera esposa de Adán que se rebelara y fuera desterrada",
+              "cite_markdown": "[Derecho internacional, Lilith... (57:24)](https://youtu.be/_0BM2jMsWdc?t=3444)"
+            },
+            {
+              "quote": "Se invirtió el modelo mítico: lo que era malo pasó a ser heroico porque la modernidad necesitaba un mito rebelde con el que identificarse",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:45:47)](https://youtu.be/_0BM2jMsWdc?t=6347)"
+            }
+          ]
+        },
+        {
+          "section": "Recorrido filológico: dónde aparece Lilit y dónde no",
+          "body": "El canal hace recorrido fuente por fuente para mostrar que ningún texto antiguo presenta a Lilit como personaje con historia y prototipia desarrolladas:\n\n**Mesopotamia (no hay literatura)**: lo que existe son leyendas populares sin desarrollo narrativo sobre lo peor imaginable en una mujer — madres devoradoras, mujeres que causan enfermedad, mujeres poseídas. No personaje ni prototipo.\n\n**Epopeya de Gilgamesh (árbol Huluppu)**: aparece una 'joven Lilit' que habita en el interior del árbol junto a una serpiente en las raíces y un pájaro en la copa. Gilgamesh abate la serpiente y Lilit huye al desierto. **Es toda la mención** — sin desarrollo de personaje ni prototipia. La diosa lunar genuina del ciclo es Inanna (proto-Istar), que sí cumple el arquetipo del mito lunar (fases de gracia, desarrollo sexual, esperanza/resurrección).\n\n**Manuscritos del Mar Muerto (Cánticos del Sabio, Qumrán 510-511)**: Lilit aparece en una **fórmula genérica de exorcismo**, parte de una lista de demonios, lilits, búhos y chacales. Son seres aullantes nocturnos, formas fantasmagóricas femeninas, aves de mal agüero — sin individuación.\n\n**Isaías 34:14**: el mismo versículo se traduce como 'monstruo nocturno', 'lamia', 'lechuza', 'fantasma que espanta de noche' o 'Lilit' según versión. Solo dos traducciones al castellano usan el nombre Lilit. El contexto siempre son seres nocturnos del desierto, no un personaje individualizado.\n\n**Alfabeto de Ben Sirá (s. X)**: la **única prototipia desarrollada** de Lilit. Es un libro **satírico** probablemente del siglo X escrito para entretener a un rey, no literatura canónica de ninguna religión. En tono cómico narra a Lilit negándose a acostarse con Adán y escapando del paraíso invocando el Tetragrámaton. Reduce a Yahvé al padre tirano, a Lilit a la doncella rebelde y a Adán al paleto que lo tiene todo hecho. **El único texto con narrativa de Lilit es una sátira tardía**, no fundación mítica.",
+          "supporting_quotes": [
+            {
+              "quote": "No existe literatura mesopotámica ni premesopotámica que presente a Lilit como un personaje con historia propia",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:15:42)](https://youtu.be/_0BM2jMsWdc?t=4542)"
+            },
+            {
+              "quote": "En el árbol Huluppu aparece una \"joven Lilit\" que habita en el interior del árbol junto a una serpiente en las raíces y un pájaro en la copa",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:17:43)](https://youtu.be/_0BM2jMsWdc?t=4663)"
+            },
+            {
+              "quote": "Gilgamesh abate la serpiente y Lilit huye al desierto: es toda la mención, sin desarrollo de personaje",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:17:43)](https://youtu.be/_0BM2jMsWdc?t=4663)"
+            },
+            {
+              "quote": "Inanna (proto-Istar) cumple el arquetipo del mito lunar: fases de gracia, desarrollo sexual y esperanza/resurrección",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:17:43)](https://youtu.be/_0BM2jMsWdc?t=4663)"
+            },
+            {
+              "quote": "Aparece en los Cánticos del Sabio (Qumrán 510-511) como parte de una lista de demonios, lilits, búhos y chacales",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:21:45)](https://youtu.be/_0BM2jMsWdc?t=4905)"
+            },
+            {
+              "quote": "Son fórmulas genéricas sin prototipia: seres aullantes nocturnos, formas fantasmagóricas femeninas, aves de mal agüero",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:21:45)](https://youtu.be/_0BM2jMsWdc?t=4905)"
+            },
+            {
+              "quote": "Se hacen femeninas probablemente por el tipo de sonido nocturno y porque la perversión de la gracia femenina es más terrible que la masculina",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:21:45)](https://youtu.be/_0BM2jMsWdc?t=4905)"
+            },
+            {
+              "quote": "Según la traducción bíblica, el mismo versículo dice \"monstruo nocturno\", \"lamia\", \"lechuza\", \"fantasma que espanta de noche\" o \"Lilit\"",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:26:49)](https://youtu.be/_0BM2jMsWdc?t=5209)"
+            },
+            {
+              "quote": "Solo dos traducciones al castellano usan el nombre Lilit; el contexto siempre son seres nocturnos del desierto",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:26:49)](https://youtu.be/_0BM2jMsWdc?t=5209)"
+            },
+            {
+              "quote": "Una lámia es un ser femenino con forma de serpiente que devora niños y hombres, no intrínsecamente hermosa",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:26:49)](https://youtu.be/_0BM2jMsWdc?t=5209)"
+            },
+            {
+              "quote": "Es un libro satírico probablemente del siglo X escrito para entretener a un rey, no literatura canónica de ninguna religión",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:41:13)](https://youtu.be/_0BM2jMsWdc?t=6073)"
+            },
+            {
+              "quote": "En tono cómico narra a Lilit negándose a acostarse con Adán y escapando del paraíso invocando el Tetragrámaton",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:41:13)](https://youtu.be/_0BM2jMsWdc?t=6073)"
+            },
+            {
+              "quote": "Reduce a Yahvé al padre tirano, a Lilit a la doncella rebelde y a Adán al paleto que lo tiene todo hecho",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:41:13)](https://youtu.be/_0BM2jMsWdc?t=6073)"
+            }
+          ]
+        },
+        {
+          "section": "Iconotropía moderna: la fabricación renacentista y decimonónica",
+          "body": "La pieza central de la tesis es histórico-crítica: el Renacimiento y los siglos XVIII-XIX produjeron **la corrección iconotrópica más salvaje** de la historia del mito occidental. La demonología moderna, la magia moderna y el tarot esotérico se inventan en esos siglos como reescrituras de fragmentos antiguos según necesidades contemporáneas. La operación sobre las diosas lunares mesopotámicas (Inanna, Istar) es la misma que Milton hizo con Lucifer en *El Paraíso perdido*: tomar la figura del adversario teológico y reescribirla como héroe trágico portador de un valor moral superior (autonomía, rebeldía, autoconciencia). Lilit es así co-construcción cultural moderna, no recuperación arqueológica.\n\nEl canal añade un test discriminante claro sobre quién es el genuino prototipo arquetípico de la rebeldía: **Cristo, no Lucifer ni Lilit**. La rebeldía cristiana es genuina porque rebela contra el poder establecido (el Templo, Roma) sin invocar la propia gloria como motivación; la rebeldía moderna que Lilit/Lucifer encarnan es la inversión narcisista del arquetipo — rebeldía como afirmación de uno mismo contra cualquier orden, sin causa redentora.",
+          "supporting_quotes": [
+            {
+              "quote": "El Renacimiento y los siglos XVIII-XIX produjeron la corrección iconotrópica más salvaje: la demonología moderna, la magia moderna y el tarot esotérico se inventan en esos siglos",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:45:47)](https://youtu.be/_0BM2jMsWdc?t=6347)"
+            },
+            {
+              "quote": "Se proyectó sobre las diosas lunares mesopotámicas (Inanna, Istar) la misma operación que Milton hizo con Lucifer en el Paraíso perdido",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:45:47)](https://youtu.be/_0BM2jMsWdc?t=6347)"
+            },
+            {
+              "quote": "Cristo es el mejor prototipo arquetípico de rebeldía genuina, no Lucifer ni Lilit",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:45:47)](https://youtu.be/_0BM2jMsWdc?t=6347)"
+            }
+          ]
+        },
+        {
+          "section": "Alternativa exegética: Adán y Eva sin sometimiento ni primera mujer fallida",
+          "body": "La lectura del canal del Génesis bloquea la necesidad teológica de Lilit: no hay primera mujer fallida porque Eva no es subordinada. La exégesis correcta distingue **dos emanaciones**: (1) la creación sexual-animal de la humanidad (lo común con el animal); (2) la individuación personal-complementaria (la conversión del sexo animal en compañía personal). Eva no es mujer sometida sino la **parte afectiva e instintiva del ser humano** que nos conecta con lo que hay a los pies del árbol. La segunda creación narra cómo Dios convierte el sexo animal en compañía personal para que el ser humano no se sienta solo. Sin sometimiento original no hay rebeldía original que requiera mitologizarse — la lectura sostiene que la 'primera mujer rebelde' es una proyección moderna sobre un texto que dice otra cosa.",
+          "supporting_quotes": [
+            {
+              "quote": "La exégesis correcta del Génesis distingue dos emanaciones: la creación sexual-animal de la humanidad y la individuación personal-complementaria",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:38:11)](https://youtu.be/_0BM2jMsWdc?t=5891)"
+            },
+            {
+              "quote": "Eva no es una mujer subordinada sino la parte afectiva e instintiva del ser humano que nos conecta con lo que hay a los pies del árbol",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:38:11)](https://youtu.be/_0BM2jMsWdc?t=5891)"
+            },
+            {
+              "quote": "La segunda creación narra cómo Dios convierte el sexo animal en compañía personal para que no nos sintamos solos",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:38:11)](https://youtu.be/_0BM2jMsWdc?t=5891)"
+            }
+          ]
+        },
+        {
+          "section": "Conexión con otros conceptos",
+          "body": "- Caso paradigmático contemporáneo de [[mitologia-propia-impropia|mito impropio]]: la imagen popular de Lilit es construcción moderna no reconocida como tal\n- Distinto de la auténtica corrupción de la consorte (Venus) en la [[tipologia-femenina-arquetipica|tipología femenina arquetípica]]: la genuina figura mítica devoradora es la **lámia** (serpiente que devora niños y hombres), no Lilit\n- Articulación complementaria a la del [[anima-archetype|ánima]]: la 'ánima sola' canon-canal sí tiene tradición arquetípica; la Lilit moderna es invención cultural distinta\n- Lectura coherente con [[genesis-mitologico]] como categoría: el Génesis articula dos emanaciones (animal + personal), no jerarquía hombre/mujer que requiriese reescritura compensatoria\n- La operación iconotrópica que fabrica a Lilit es la misma que produce el [[tarot-arquetipico|tarot esotérico moderno]] (a distinguir del tarot iconográfico arquetípico que el canal sí trabaja)\n- Las diosas lunares mesopotámicas (Inanna/Istar) sometidas a la misma operación iconotrópica son las que sostienen genuinamente la estructura del [[mito-polar]]"
+        },
+        {
+          "section": "Status auto-promoción",
+          "body": "Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minutes_sustained=48` ≥ 30, `signal_marks_detected=5` ≥ 3 cubriendo `declared_thesis` + `internal_structure` + `pedagogic_register` + `applied_framework` + `genealogical_self_reference`, `framework_internal_structure=4` piezas ≥ 4: filología comparada + tesis iconotrópica + alternativa exegética + test discriminante de la rebeldía genuina). Queda abierta a revisión humana — el campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría. La auditoría posterior debe verificar especialmente que la atribución de la tesis iconotrópica al canal no esté reproduciendo un argumento ya canónico de la historiografía mítica (Robert Graves usó 'iconotropía' en sentido similar) sin marcarlo como tradición previa."
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "_0BM2jMsWdc",
+          "video_title": "Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill",
+          "timestamps_seconds": [
+            3444,
+            4542,
+            4663,
+            4905,
+            5209,
+            5891,
+            6073,
+            6347
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "canonical_name": "Tipología arquetípica de lo femenino: tres aspectos y cinco corrupciones",
+      "aliases": [
+        "tres aspectos de lo femenino",
+        "cinco formas de la bruja",
+        "gracia consorte madre",
+        "Wendy ninfa lamia Medea bruja",
+        "Atenea Venus Hera"
+      ],
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "primary_domains": [
+        "social.psychology.jungian",
+        "humanities.religion",
+        "interdisciplinary.cultural_studies"
+      ],
+      "relations": [
+        {
+          "type": "extends",
+          "to": "anima-archetype",
+          "weight": "canonical",
+          "note": "tipología canal-específica que articula las formas estructurales del polo femenino arquetípico — extiende la página de ánima/ánimus con un mapa explícito de tres aspectos sanos y cinco corrupciones"
+        },
+        {
+          "type": "contains",
+          "to": "sindrome-wendy",
+          "weight": "canonical",
+          "note": "el síndrome de Wendy es la primera de las cinco formas de corrupción: la gracia (Atenea) que se vuelve ingenuidad, infancia eterna sin camino del héroe"
+        },
+        {
+          "type": "synthesizes",
+          "to": "jung-carl-gustav",
+          "weight": "strong",
+          "note": "sistematización canal-canónica que amplía y reordena los arquetipos junguianos clásicos del polo femenino con vocabulario mitológico (Atenea, Venus, Hera) y cinco formas distintas de patología (no la pareja shadow / anima clásica)"
+        },
+        {
+          "type": "compared_with",
+          "to": "lilit-mito",
+          "weight": "strong",
+          "note": "la genuina figura mítica de feminidad oscura es la **lámia** (cuarta forma de corrupción), no Lilit — el paraguas moderno 'Lilit' colapsa lámia, súcubo y otras figuras en una construcción iconotrópica"
+        },
+        {
+          "type": "process_of",
+          "to": "individuation",
+          "weight": "strong",
+          "note": "los tres aspectos sanos articulan el recorrido individuativo femenino (gracia → consorte → madre); las cinco corrupciones nombran las detenciones específicas en ese recorrido"
+        },
+        {
+          "type": "see_also",
+          "to": "adgrediere-masculino",
+          "weight": "tangential",
+          "note": "esta tipología es el contraparte estructural femenino del adgrediere masculino: ambas son sistematizaciones canal-canónicas de la psicología arquetípica polarizada"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Tesis nuclear",
+          "body": "El canal articula una tipología bidimensional de lo femenino arquetípico que opera como mapa estructural del polo femenino: **tres aspectos fundamentales sanos** (asociados a tres figuras mitológicas) que recorren el ciclo individuativo femenino, y **cinco formas de corrupción** que nombran las detenciones patológicas específicas. La premisa fuerte es que las virtudes femeninas no pertenecen a la mujer individual sino a la naturaleza misma — operan incluso en animación suspendida, como ilustra la Bella Durmiente."
+        },
+        {
+          "section": "Los tres aspectos fundamentales (Atenea / Venus / Hera)",
+          "body": "El recorrido sano de lo femenino atraviesa tres aspectos arquetípicos consecutivos:\n\n- **La gracia (Atenea)**: el aspecto no sexual de la mujer — diosas jóvenes no eróticas, princesas, aventureras. Es la fase pre-erótica de la psique femenina, marcada por curiosidad, agencia desplegada y vínculo con el saber sin entrar en el juego sexual.\n- **La consorte (Venus)**: ebullición sexual femenina — objeto de belleza y deseo, ninfas y seres que desbordan erotismo. Es la apertura del polo femenino al juego erótico recíproco, cuando el cuerpo madura y el deseo se vuelve operativo.\n- **La madre (Hera)**: plenitud de la creación, serenidad y *fulfillment* de la maternidad **tras haber atravesado todas las fases**. No es maternidad como rol social sino como culminación del recorrido individuativo: la mujer que ha sido niña-aventurera y consorte llega a la plenitud materna como integración, no como sustitución.",
+          "supporting_quotes": [
+            {
+              "quote": "La gracia (Atenea): diosas jóvenes no eróticas, princesas, aventureras, el aspecto no sexual de la mujer",
+              "cite_markdown": "[Derecho internacional, Lilith... (58:58)](https://youtu.be/_0BM2jMsWdc?t=3538)"
+            },
+            {
+              "quote": "La consorte (Venus): objeto de belleza y deseo, ebullición sexual femenina, ninfas y seres que desbordan erotismo",
+              "cite_markdown": "[Derecho internacional, Lilith... (58:58)](https://youtu.be/_0BM2jMsWdc?t=3538)"
+            },
+            {
+              "quote": "La madre (Hera): plenitud de la creación, serenidad y fulfillment de la maternidad tras haber atravesado todas las fases",
+              "cite_markdown": "[Derecho internacional, Lilith... (58:58)](https://youtu.be/_0BM2jMsWdc?t=3538)"
+            }
+          ]
+        },
+        {
+          "section": "Las virtudes pertenecen a la naturaleza, no a la mujer",
+          "body": "Una premisa decisiva del marco: las virtudes de lo femenino **no pertenecen a la mujer individual sino a la naturaleza misma** — operan incluso cuando la psique está en animación suspendida. La Bella Durmiente es el ejemplo paradigmático: a la princesa se le conceden los tres dones de la feminidad y, aunque el mal la pone en animación suspendida para impedirle recorrer su camino, los dones operan en ella mientras espera. Lo femenino arquetípico es estructura previa al sujeto que la encarna; el sujeto despliega o detiene su recorrido pero no inventa los aspectos.",
+          "supporting_quotes": [
+            {
+              "quote": "A la princesa se le conceden los tres dones de la feminidad, pero el mal la pone en animación suspendida para impedirle recorrer su camino",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:04:35)](https://youtu.be/_0BM2jMsWdc?t=3875)"
+            },
+            {
+              "quote": "Las virtudes de lo femenino no pertenecen a la mujer sino a la naturaleza misma y operan incluso en animación suspendida",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:04:35)](https://youtu.be/_0BM2jMsWdc?t=3875)"
+            }
+          ]
+        },
+        {
+          "section": "Cuatro formas de encuentro con el mal",
+          "body": "Antes de articular las corrupciones, el canal introduce las cuatro formas en que el mal entra en relación con lo femenino:\n\n1. **Trauma**: experiencia traumática externa que altera la psique sin que el mal sea internalizado.\n2. **Infección**: el mal interiorizado, que pasa a operar desde dentro como si fuera propio.\n3. **Posesión**: el mal toma control parcial o total del sujeto.\n4. **Contemplación del mal exógeno**: la psique mantiene una relación obsesiva con el mal sin ser ella misma maligna.\n\nLas cinco formas de corrupción específicas se sitúan en distintas combinaciones de estos cuatro modos.",
+          "supporting_quotes": [
+            {
+              "quote": "Cuatro formas de encuentro con el mal: trauma, infección (mal interiorizado), posesión y contemplación del mal exógeno",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:04:35)](https://youtu.be/_0BM2jMsWdc?t=3875)"
+            }
+          ]
+        },
+        {
+          "section": "Las cinco formas de corrupción de lo femenino",
+          "body": "Cada corrupción es el descarrilamiento específico de uno de los aspectos sanos:\n\n- **Wendy**: la **gracia se vuelve ingenuidad**, infancia eterna sin camino del héroe. Es la detención en Atenea sin transición a Venus. Conecta directamente con [[sindrome-wendy]].\n- **Ninfa**: la **sexualidad incipiente se convierte en juego de poder** en lugar de dinámica de amor. Es la corrupción del paso de Atenea a Venus: el cuerpo madura pero la psique convierte el erotismo en herramienta competitiva.\n- **Lámia / súcubo**: la **corrupción de Venus** que utiliza lo sexual para alimentarse. La lámia mítica es ser femenino con forma de serpiente que devora niños y hombres — no intrínsecamente hermosa. El súcubo es la versión más estilizada de la misma operación: la consorte que vampiriza al amante.\n- **Medea**: la **madre oscura** cuyo instinto maternal es sustituido por el mal. Es la corrupción de Hera: la maternidad se vuelve dispositivo de venganza o destrucción.\n- **Bruja**: ha **acumulado todas las experiencias malignas** y desea ser poseída por el mal. Es el estado terminal donde las cuatro formas anteriores convergen y el sujeto deja de oponer resistencia al mal — lo desea activamente.",
+          "supporting_quotes": [
+            {
+              "quote": "Lo más cercano a una versión maligna de lo femenino son las cinco formas de la bruja: Wendy, ninfa, lámia, Medea y bruja",
+              "cite_markdown": "[Derecho internacional, Lilith... (57:24)](https://youtu.be/_0BM2jMsWdc?t=3444)"
+            },
+            {
+              "quote": "Wendy: la gracia se vuelve ingenuidad, infancia eterna sin camino del héroe",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:08:37)](https://youtu.be/_0BM2jMsWdc?t=4117)"
+            },
+            {
+              "quote": "Ninfa: la sexualidad incipiente se convierte en juego de poder en lugar de dinámica de amor",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:08:37)](https://youtu.be/_0BM2jMsWdc?t=4117)"
+            },
+            {
+              "quote": "Lámia/súcubo: la corrupción de Venus que utiliza lo sexual para alimentarse",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:08:37)](https://youtu.be/_0BM2jMsWdc?t=4117)"
+            },
+            {
+              "quote": "Medea: la madre oscura cuyo instinto maternal es sustituido por el mal",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:08:37)](https://youtu.be/_0BM2jMsWdc?t=4117)"
+            },
+            {
+              "quote": "Bruja: ha acumulado todas las experiencias malignas y desea ser poseída por el mal",
+              "cite_markdown": "[Derecho internacional, Lilith... (1:08:37)](https://youtu.be/_0BM2jMsWdc?t=4117)"
+            }
+          ]
+        },
+        {
+          "section": "Continuidad y discrepancia con la tipología 'tres formas' de Polaris",
+          "body": "Esta tipología de cinco formas amplía y matiza la mención previa del canal a 'tres clases de degeneración femenina contemporánea' del libro Polaris (ninfa, Wendy y bruja). Las dos formas adicionales que aparecen aquí — **lámia/súcubo** y **Medea** — completan el mapa cubriendo las corrupciones específicas de Venus y Hera respectivamente. La progresión interna también queda articulada: Wendy y ninfa son corrupciones tempranas (de Atenea y de la transición Atenea→Venus); lámia y Medea son corrupciones medias (de Venus y de Hera); bruja es el estado terminal acumulativo. Pendiente verificar si la tipología de cinco formas se mantiene estable en otros vídeos del canal o si la formulación de tres del Polaris es deliberadamente sintética."
+        },
+        {
+          "section": "Conexión con otros conceptos",
+          "body": "- Articula con detalle estructural el polo femenino que [[anima-archetype]] presenta como arquetipo psíquico — esta página da el mapa de fases (sanas y patológicas) del recorrido femenino\n- Contiene a [[sindrome-wendy]] como primera de las cinco corrupciones (la gracia/Atenea pervertida en infancia eterna)\n- Funciona como contraparte estructural femenino del [[adgrediere-masculino]]: ambas son sistematizaciones canal-canónicas del recorrido arquetípico polarizado por sexo\n- Los tres aspectos sanos articulan etapas del proceso de [[individuation]] femenino; las cinco corrupciones nombran las detenciones específicas\n- Permite distinguir crítica filológicamente: la verdadera figura mítica de feminidad oscura genuina es la **lámia** (cuarta forma de corrupción), no [[lilit-mito|Lilit]] — Lilit es construcción iconotrópica moderna que colapsa lámia, súcubo y diosas lunares en una sola figura"
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "_0BM2jMsWdc",
+          "video_title": "Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill",
+          "timestamps_seconds": [
+            3444,
+            3538,
+            3875,
+            4117
+          ]
+        }
+      ]
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El derecho internacional no existe como derecho / fuerza y fe como motores",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Aproximadamente 15 minutos sobre la tesis del canal de que el derecho internacional es ficción ('solo varios estados adoptan normas coincidentes en su legislación nacional, no hay gobierno ni policía internacional') y que las relaciones humanas se rigen por fuerza y fe (la fe entendida como teoría de juegos psicológica). Materia tangencialmente relevante al diagrama-de-proxy y a consumismo-critica (estado del bienestar) pero el desarrollo aquí está politicamente cargado (crítica a Europa, defensa implícita a Trump). Flag medium para revisión: si reaparece sin la coyuntura podría justificar página propia 'fuerza-y-fe' o sección dedicada en diagrama-de-proxy.",
+      "quote_evidence": "El derecho internacional solo se llama así porque varios estados adoptan simultáneamente normas coincidentes en su legislación nacional",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis filosófica con sustantividad propia (~15 min, marco teoría de juegos + dialéctica de clases) que merece evaluación humana sobre si justifica página propia o enriquece diagrama-de-proxy.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Personalidad como base de la opción política (60-80% hereditaria)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve a la heredabilidad de la personalidad y al cociente intelectual. Argumento ya presente en diagrama-de-proxy ('biológicamente tasadas') sin desarrollo nuevo aquí.",
+      "quote_evidence": "La personalidad es entre un 60% y un 80% hereditaria según los estudios, igual que el cociente intelectual",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica al estado de bienestar como acomodación que impide comprender el poder",
+      "reason_code": "passing_mention",
+      "reason_detail": "Brief crítica al estado del bienestar consistente con la lectura de consumismo-critica (estado del bienestar como dispositivo cultural que desactiva la capacidad de ver). Sin material nuevo significativo respecto a la página.",
+      "quote_evidence": "El estado de bienestar genera una acomodación que impide comprender cómo funciona realmente el poder",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Sesgo ideológico en la investigación estadística (estudio 71 equipos sobre inmigración)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Caso metodológico (multi-analyst study sobre inmigración) usado como ilustración del problema de la flexibilidad estadística. Material epistemológico breve sin elevación a estructura propia.",
+      "quote_evidence": "71 equipos analizaron los mismos datos sobre inmigración y bienestar social: los favorables a la inmigración encontraron efecto positivo y los contrarios efecto negativo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Búfalo Bill / autoginefilia / travestismo no es transexualidad / sexualidad como sujeto vs como objeto",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "~18 min de articulación clínica del canal con: (a) crítica metodológica al estudio de 1988 citado por Musk; (b) distinción entre disforia / travestismo / autoginefilia como condiciones distintas; (c) Búfalo Bill como personaje compuesto no clínico real; (d) tesis sobre autoginefilia como déficit en la testosteronización; (e) la sexualidad femenina como 'sexualidad de sujeto' frente a la masculina como 'objetal' — distinción que enriquece anima-archetype. Material clínico importante pero mezclado con análisis de personaje ficticio y crítica metodológica. Flag medium para evaluar si futura recurrencia justifica página dedicada a la lectura del canal sobre transexualidad/parafilias.",
+      "quote_evidence": "Búfalo Bill presenta autoginefilia: excitación sexual por contemplarse o imaginarse con genitales femeninos",
+      "review_priority": "medium",
+      "review_priority_reason": "Material clínico-arquetípico de ~18 min con distinciones operativas (autoginefilia vs travestismo vs disforia) que podrían justificar página propia si reaparecen como marco recurrente del canal. La distinción sexualidad-sujeto vs sexualidad-objeto enriquece anima-archetype pero queda demasiado breve para update aquí.",
+      "enriches_concept": "anima-archetype",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Prototipia vs estereotipia (refinamiento de la tipología arquetipo/prototipo/estereotipo/autotipo)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "~5 min de refinamiento de la tipología que ya está articulada en la página [[autotipo]]: el prototipo tiene atributos imaginarios reconocibles por función; el estereotipo es prototipo vaciado de afectos/contexto; no hay relación directa estereotipo-arquetipo, el puente es el prototipo. Material consistente con la página existente; merece añadirse como cita pero no requiere actualización estructural.",
+      "quote_evidence": "El prototipo tiene atributos imaginarios reconocibles por su función (el fantasma da miedo, el hombre del saco se lleva niños)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autotipo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Adán y Eva: dos emanaciones, no sometimiento ni primera mujer fallida",
+      "reason_code": "passing_mention",
+      "reason_detail": "Material exegético breve sobre el Génesis ya integrado en el promote_new lilit-mito (donde funciona como alternativa exegética que bloquea la necesidad teológica de Lilit). Tangencialmente relacionado con [[genesis-mitologico]] pero el material aquí está al servicio del argumento sobre Lilit.",
+      "quote_evidence": "Eva no es una mujer subordinada sino la parte afectiva e instintiva del ser humano que nos conecta con lo que hay a los pies del árbol",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "genesis-mitologico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Iconotropía como mecanismo histórico de fabricación de mitos modernos",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "El término 'iconotropía' (que Robert Graves usó para nombrar la deliberada alteración de mitos antiguos) es invocado por el canal con sentido amplificado: la operación cultural moderna que fabrica demonología, magia y tarot esotérico desde el Renacimiento hasta el XIX. Capturado dentro del promote_new lilit-mito. Si aparece como categoría recurrente en otros vídeos podría justificar concept page propia.",
+      "quote_evidence": "El Renacimiento y los siglos XVIII-XIX produjeron la corrección iconotrópica más salvaje",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría operativa con poder explicativo amplio (más allá de Lilit) — si reaparece como marco recurrente justificaría página propia 'iconotropia-moderna' como mecanismo del mito impropio.",
+      "enriches_concept": "mitologia-propia-impropia",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 2,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Lilit como mito moderno fabricado por iconotropía: análisis filológico + alternativa arquetípica] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Tipología arquetípica de lo femenino: tres aspectos (gracia/consorte/madre) + cinco corrupciones (Wendy/ninfa/lámia/Medea/bruja)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

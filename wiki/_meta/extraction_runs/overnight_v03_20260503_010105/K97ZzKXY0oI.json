@@ -1,0 +1,290 @@
+{
+  "video_id": "K97ZzKXY0oI",
+  "video_title": "Conspiración",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Mito en sentido materialista / teoría de la conspiración como modelo mental",
+      "canonical_guess": "mito-materialista-conspiracion-cognitiva",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Mito en sentido materialista es todo aquello que no se puede certificar como cierto pero se asume como explicación de la realidad"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La teoría de la conspiración es una forma de elaborar mitos que prescinden de la cadena causa-consecuencia"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Articulación cognitivista del concepto mito que extiende la página mitologia-propia-impropia con una dimensión nueva (mito como mecanismo de simplificación cognitiva, no solo como categoría literaria/cultural). 8 min sostenidos, no llega a página propia pero sí enriquece sustantivamente la existente. La mitología impropia se ilumina como caso particular del mecanismo materialista (relato no certificable asumido como real).",
+      "quote_evidence": "Mito en sentido materialista es todo aquello que no se puede certificar como cierto pero se asume como explicación de la realidad"
+    },
+    {
+      "surface_form": "feminidad como estructura biológica arquetípica",
+      "canonical_guess": "anima-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La atracción por la feminidad dulce no es un estereotipo aprendido sino una estructura biológica arquetípica que existe en la cabeza de todos los humanos"
+        },
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "No nos convertimos en lo que hacemos sino que terminamos haciendo aquello que somos: el acto es consecuencia, no causa"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las mujeres no deben estar en primera línea de fuego: sus cuerpos e instintos están orientados a la protección de sus propios hijos, no a la protección de otros bajo fuego"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Aproximadamente 30 minutos sostenidos articulando feminidad arquetípica + sustento neurocientífico (Stanford) + casos contemporáneos (tiktoker, servicio secreto, crítica feminista). La página anima-archetype no tiene material sobre la base biológica empírica del eje masculino-femenino ni sobre la lectura del instinto de protección como rasgo arquetípico-femenino. Material genuinamente nuevo respecto al cuerpo leído.",
+      "quote_evidence": "La atracción por la feminidad dulce no es un estereotipo aprendido sino una estructura biológica arquetípica que existe en la cabeza de todos los humanos"
+    }
+  ],
+  "_doc_promote_new": "No promotions in this video — todo se canaliza a updates de páginas existentes.",
+  "pending_updates": [
+    {
+      "page_id": "mitologia-propia-impropia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "creen que están haciendo otra cosa (ciencia, política, entretenimiento, sentido común). El canal usa esta vara para distinguir mitos modernos vivos —los que operan con conciencia de su densidad simbólica— de mitos modernos opacos, que ejercen efecto mítico sin que nadie lo nombre como tal.",
+      "content_proposed": "\n## Definición materialista de mito y mecánica de la conspiración\n\nEl canal añade una articulación cognitivista al concepto: **mito en sentido materialista es todo aquello que no se puede certificar como cierto pero se asume como explicación de la realidad**. La distinción propia/impropia se vuelve así un caso particular de un mecanismo más general — la mente rellena huecos de información con representaciones coherentes, y cuando esas representaciones operan sin certificación pero se asumen como verdad, son mito en este sentido amplio.\n\n> \"La teoría de la conspiración es una forma de elaborar mitos que prescinden de la cadena causa-consecuencia\"\n→ [Conspiración (04:53)](https://youtu.be/K97ZzKXY0oI?t=293)\n\n> \"Mito en sentido materialista es todo aquello que no se puede certificar como cierto pero se asume como explicación de la realidad\"\n→ [Conspiración (12:26)](https://youtu.be/K97ZzKXY0oI?t=746)\n\nLa teoría de la conspiración es el caso clínico que el canal usa para iluminar la mecánica: la mente exige coherencia y completitud, y la conspiración las ofrece con menos elementos que la realidad. Lo decisivo es que la conspiración **no inventa**, **elimina** — recorta la complejidad real para producir un relato manejable. La operación no es aditiva sino sustractiva, lo cual explica su atractivo psicológico: simplifica el mundo a costa de la verdad.\n\n> \"La realidad siempre es más compleja que cualquier teoría de la conspiración; esta no inventa cosas, sino que elimina elementos\"\n→ [Conspiración (07:55)](https://youtu.be/K97ZzKXY0oI?t=475)\n\n> \"La elaboración de representaciones mentales coherentes es un proceso inconsciente y automático\"\n→ [Conspiración (07:55)](https://youtu.be/K97ZzKXY0oI?t=475)\n\nEsta lectura empalma con la distinción propia/impropia: la conspiración funciona como variante operacional del mito impropio (relato no certificable asumido como verdad), pero con una diferencia significativa — la conspiración cumple su función cognitiva precisamente porque su autor y su público no la reconocen como construcción simplificadora, sino como descubrimiento de la verdad oculta. Es mito impropio en estado puro, donde la pretensión de develar coincide con la operación de eliminar.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "K97ZzKXY0oI",
+          "timestamp_seconds": 293,
+          "cite_markdown": "[Conspiración (04:53)](https://youtu.be/K97ZzKXY0oI?t=293)"
+        },
+        {
+          "video_id": "K97ZzKXY0oI",
+          "timestamp_seconds": 746,
+          "cite_markdown": "[Conspiración (12:26)](https://youtu.be/K97ZzKXY0oI?t=746)"
+        },
+        {
+          "video_id": "K97ZzKXY0oI",
+          "timestamp_seconds": 475,
+          "cite_markdown": "[Conspiración (07:55)](https://youtu.be/K97ZzKXY0oI?t=475)"
+        }
+      ],
+      "rationale": "La página actual define propia/impropia como distinción literario-cultural (mito sabiéndose o no sabiéndose mito) y añade luego la dimensión autorreferencial cognitiva. Pero NO articula la definición operacional materialista del mito como cualquier representación no certificable asumida como real, ni traslada el marco a la teoría de la conspiración como caso clínico del mecanismo. Insertar después de 'Por qué importa la distinción' encadena la nueva sección con la lógica diagnóstica ya establecida: si la propia/impropia diagnostica el grado de conciencia, la materialista diagnostica el mecanismo cognitivo subyacente. insert_after_passage es el update_type correcto porque la nueva sección extiende sin disrumpir el flujo, y existe un anchor único limpio.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "anima-archetype",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El cerebro mantiene permanentemente representaciones de control motor sobre los objetos, independientemente de la voluntad o planificación.",
+      "content_proposed": "\n## Sustrato biológico y casos contemporáneos\n\nEl canal sostiene en directo extenso que la atracción por la feminidad dulce no es construcción cultural sino **estructura biológica arquetípica reconocible empíricamente**. La articulación tiene dos planos: una tesis fuerte sobre el orden de causalidad (el acto es consecuencia de la naturaleza, no a la inversa) y un sustento neurocientífico citado del estudio de Stanford sobre huellas cerebrales no solapadas entre sexos.\n\n> \"La atracción por la feminidad dulce no es un estereotipo aprendido sino una estructura biológica arquetípica que existe en la cabeza de todos los humanos\"\n→ [Conspiración (49:03)](https://youtu.be/K97ZzKXY0oI?t=2943)\n\n> \"No nos convertimos en lo que hacemos sino que terminamos haciendo aquello que somos: el acto es consecuencia, no causa\"\n→ [Conspiración (49:03)](https://youtu.be/K97ZzKXY0oI?t=2943)\n\nLa fórmula \"el acto es consecuencia, no causa\" condensa el orden ontológico del marco: el comportamiento manifestado revela la estructura previa del psiquismo, no la genera. Las chicas que rechazan la fundy baby voice no la rechazan por crítica racional al patriarcado sino por envidia ante un atractivo cuyo sustrato biológico no pueden reproducir.\n\n### Sustento neurocientífico citado\n\n> \"Investigadores usaron inteligencia artificial para examinar huellas dactilares de actividad cerebral en reposo de unos 1500 adultos jóvenes\"\n→ [Conspiración (1:05:40)](https://youtu.be/K97ZzKXY0oI?t=3940)\n\n> \"No encontraron solapamiento entre las huellas cerebrales femeninas y masculinas: no existe un continuo entre cerebros de hombres y mujeres\"\n→ [Conspiración (1:05:40)](https://youtu.be/K97ZzKXY0oI?t=3940)\n\nEl canal asume la metodología como criticable (la IA encuentra patrones según lo que se le pide buscar) pero subraya que las diferencias no solapadas existen aunque no se sepa exactamente cuáles son. La cita opera como sustento empírico para la afirmación arquetípica de que ánima/ánimus tienen base biológica medible y no son construcciones puramente representacionales.\n\n### Instinto femenino de protección como rasgo arquetípico\n\nLa lectura se extiende al instinto de protección, que el canal sitúa arquetípicamente orientado a la propia descendencia y no al combate por terceros. El argumento aparece a propósito del servicio secreto estadounidense feminizado por cuotas, donde las agentes femeninas buscan cobertura para sí mismas mientras los masculinos hacen barricada de cuerpo:\n\n> \"Las mujeres no deben estar en primera línea de fuego: sus cuerpos e instintos están orientados a la protección de sus propios hijos, no a la protección de otros bajo fuego\"\n→ [Conspiración (33:28)](https://youtu.be/K97ZzKXY0oI?t=2008)\n\n### Identificación proyectiva como defensa contra el arquetipo\n\nLa identificación proyectiva — haberse creado un enemigo y necesitar verlo donde no existe — opera, en la lectura del canal, como mecanismo de defensa de quien no puede asumir su propia exclusión del arquetipo. La indignación de la crítica feminista contemporánea ante la manifestación dulce de la feminidad denunciaría no la pantomima como pantomima, sino el hecho de que el atractivo funciona — invalidando empíricamente el discurso que la crítica defiende.\n\n> \"Lo que le indigna es que la realidad demuestra que a la gente le gusta este tipo de feminidad, lo cual invalida su discurso\"\n→ [Conspiración (45:32)](https://youtu.be/K97ZzKXY0oI?t=2732)\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "K97ZzKXY0oI",
+          "timestamp_seconds": 2943,
+          "cite_markdown": "[Conspiración (49:03)](https://youtu.be/K97ZzKXY0oI?t=2943)"
+        },
+        {
+          "video_id": "K97ZzKXY0oI",
+          "timestamp_seconds": 3940,
+          "cite_markdown": "[Conspiración (1:05:40)](https://youtu.be/K97ZzKXY0oI?t=3940)"
+        },
+        {
+          "video_id": "K97ZzKXY0oI",
+          "timestamp_seconds": 2008,
+          "cite_markdown": "[Conspiración (33:28)](https://youtu.be/K97ZzKXY0oI?t=2008)"
+        },
+        {
+          "video_id": "K97ZzKXY0oI",
+          "timestamp_seconds": 2732,
+          "cite_markdown": "[Conspiración (45:32)](https://youtu.be/K97ZzKXY0oI?t=2732)"
+        }
+      ],
+      "rationale": "La página tiene una sección 'Polaridad como eje, no como género biológico' que articula el eje arquetípico pero sin sustento neurocientífico explícito y sin aplicación a debates culturales contemporáneos. Material nuevo respecto al cuerpo leído: (a) la fórmula 'el acto es consecuencia, no causa' como articulación del orden ontológico del marco; (b) el estudio de Stanford como sustento empírico citado, ausente del corpus actual de la página; (c) la lectura del instinto femenino de protección como rasgo arquetípicamente orientado a la descendencia, ausente de la página; (d) la identificación proyectiva como mecanismo de defensa contra el arquetipo aplicado a la crítica feminista contemporánea. insert_after_passage tras el cierre de la sección 'Polaridad como eje' encadena el material como sustento empírico-aplicado de la tesis ya establecida.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Donald Trump / atentado en mitin",
+      "reason_code": "political_news",
+      "reason_detail": "Suceso coyuntural de actualidad partidista estadounidense (julio 2024). Sirve de pretexto para la discusión sobre conspiración como mecanismo cognitivo, pero la figura de Trump y el atentado mismo no son objeto de análisis arquetípico ni filosófico — son la actualidad que el speaker comenta. Test de cápsula del tiempo: si se retira el nombre, la afirmación pierde su anclaje en el suceso concreto.",
+      "quote_evidence": "El giro de cabeza de Trump le salvó la vida; de no hacerlo, podría haber desencadenado un conflicto civil grave en Estados Unidos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Aladín (interlocutor del directo) y la pregunta sobre secta gobernante vs incompetencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aladín es interlocutor del chat/directo cuya pregunta da pie al desarrollo de la mecánica de la conspiración. La figura misma no recibe tratamiento, solo su pregunta sirve de pivote retórico. No es objeto enciclopédico.",
+      "quote_evidence": "Aladín plantea el dilema: o estamos gobernados por una secta que disfruta del sufrimiento ajeno, o por personas con retraso mental",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "endofobia (herida narcisista del progresista)",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Concepto que el canal articula como mecanismo psicológico subyacente a la psicología progresista (cabreo contra uno mismo proyectado en los demás, explotado políticamente). Aproximadamente 6 min sostenidos pero presentado de pasada como término asumido sin desarrollo monográfico. No alcanza criterios de promoción autónoma; enriquece el cuadrante leftist-relativista del diagrama de Proxy con un mecanismo psicológico nombrado.",
+      "quote_evidence": "La endofobia es una herida narcisista: un cabreo contra ti mismo que proyectas en los demás, y la política la explota para enfrentar a la población",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el concepto reaparece como recurrente en otros vídeos del corpus podría justificar página propia; por ahora cita-only enriquece diagrama-de-proxy",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "identificación proyectiva (concepto kleiniano aplicado al feminismo de Yolanda Domínguez)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto psicoanalítico estándar (Melanie Klein) que el speaker aplica como herramienta interpretativa, no como objeto de análisis. La aplicación al caso Yolanda Domínguez está ya capturada en el update a anima-archetype como mecanismo de defensa contra el arquetipo, donde tiene su lugar editorial natural.",
+      "quote_evidence": "La identificación proyectiva consiste en haberte creado un enemigo y necesitar verlo donde ni siquiera existe",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pedro Bayín (figura del odio progresista orgulloso)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura politiqueo-mediática usada como ejemplo del progresista orgulloso de su vileza. No recibe análisis arquetípico ni psicológico estructurado más allá de la categorización polémica. Discarte como mention sin marco aplicado al individuo en sí.",
+      "quote_evidence": "Pedro Bayín representa al progresista orgulloso de su propia vileza porque nadie se atreve a decirle que no puede serlo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Yolanda Domínguez (artista/activista feminista)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo de identificación proyectiva en discurso feminista contemporáneo. Su rol y su crítica están capturados como ejemplo dentro del update a anima-archetype, donde funcionan como evidencia del mecanismo de defensa contra el arquetipo. La figura misma no merece página.",
+      "quote_evidence": "Yolanda exige \"análisis crítico\" sobre estereotipos, pero lo que realmente quiere es que repitan el dogma feminista que ella defiende",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Carmen Calvo (política española)",
+      "reason_code": "political_news",
+      "reason_detail": "Mención coyuntural como ejemplo de personaje pasivo-agresivo en política española contemporánea. Sin marco psicológico estructural aplicado más allá de la categorización polémica.",
+      "quote_evidence": "Carmen Calvo como otro ejemplo: vive exclusivamente para demostrar que nadie es lo suficientemente digno para que ella perdone la vida",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tiktoker fundy baby voice",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo del éxito popular de la manifestación dulce de la feminidad como performance. Capturado como evidencia dentro del update a anima-archetype. La figura concreta no merece página.",
+      "quote_evidence": "La tiktoker se hizo famosa por la \"fundy baby voice\": hablar como si tuviera 12 años mientras hace cosas de adulta para su novio Pablo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Aldar Ferrera (orientación hacia género vs sexo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura mediática usada como ejemplo del absurdo lógico de la doctrina de género. Sin desarrollo arquetípico de la figura misma; el speaker comenta su posición sin elevarla a estructura.",
+      "quote_evidence": "Ferrera afirma que la orientación sexual va hacia géneros, no hacia sexos, y que siempre se usó \"sexual\" queriendo decir \"género\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Víctor Cienfuegos (interlocutor sobre mujeres sumisas)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención puntual a postura de interlocutor sobre lo que la gente quiere en relaciones. No es objeto de análisis estructurado.",
+      "quote_evidence": "Víctor Cienfuegos dice que la gente quiere mujeres sumisas, pero en realidad la gente quiere personas agradables, no amargadas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Kimberly Cheatle / servicio secreto feminizado",
+      "reason_code": "political_news",
+      "reason_detail": "Suceso coyuntural sobre política de cuotas en agencia federal estadounidense. La figura de Cheatle no recibe análisis. El argumento estructural sobre instinto femenino de protección sí está capturado en el update a anima-archetype con el timestamp 33:28.",
+      "quote_evidence": "La directora del servicio secreto, Kimberly Cheatle, declaró que su misión ha sido diversificar la agencia contratando más mujeres",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Eurocopa 2024",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionada como uno de los tres eventos del fin de semana sin desarrollo arquetípico ni cultural. Solo aparece como elemento de contexto.",
+      "quote_evidence": "Tres eventos del fin de semana (Trump, la tiktoker en Broncano, la Eurocopa) hicieron colapsar la narrativa progresista simultáneamente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estudio de Stanford sobre diferencias cerebrales no solapadas",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Estudio neurocientífico citado como sustento empírico del marco arquetípico del canal. No constituye página enciclopédica autónoma — es evidencia citada dentro del marco propio. Ya está capturado en el update a anima-archetype como sustento neurocientífico citado de la polaridad arquetípica.",
+      "quote_evidence": "Investigadores usaron inteligencia artificial para examinar huellas dactilares de actividad cerebral en reposo de unos 1500 adultos jóvenes",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Predicción del paso del conflicto dialéctico al conflicto físico",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Predicción especulativa del speaker sobre la deriva del conflicto político-cultural contemporáneo. Sin marco psicológico-estructural articulado más allá de la observación coyuntural. No alcanza umbral enciclopédico.",
+      "quote_evidence": "Llegará un momento en que el arma dialéctica dejará de funcionar porque nadie se creerá el relato absurdo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "España y la culpabilización del hombre blanco heterosexual",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre actualidad política española contemporánea sobre la narrativa institucional respecto a hombres blancos heterosexuales. Sin marco psicológico-arquetípico desarrollado más allá de la denuncia coyuntural.",
+      "quote_evidence": "Las instituciones dicen que los hombres son violentos, lo cual implica que merecen ser reprimidos; eso es gravísimo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "video_id": "NrLnzcceSLY",
+  "video_title": "Anonimato y minoría de edad en redes sociales.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Diagrama de Proxy",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_exists": true,
+      "decision": "update_existing",
+      "domain": "social.psychology.cognitive",
+      "page_type": "synthesis",
+      "evidence_quote": "El eje izquierda-derecha corresponde a ideas trascendentales versus ideas no trascendentales,",
+      "timestamps": [
+        "48:12"
+      ],
+      "framing_marks": []
+    },
+    {
+      "surface_form": "el golem de cobre",
+      "canonical_guess": "golem-de-cobre",
+      "page_exists": true,
+      "decision": "update_existing",
+      "domain": "social.psychology.cognitive",
+      "page_type": "synthesis",
+      "evidence_quote": "Endiosar la tecnología es el golem de cobre: confundir la herramienta con la capacidad humana,",
+      "timestamps": [
+        "43:10"
+      ],
+      "framing_marks": []
+    },
+    {
+      "surface_form": "ventana al inconsciente de los chavales",
+      "canonical_guess": "consumismo-critica",
+      "page_exists": true,
+      "decision": "update_existing",
+      "domain": "interdisciplinary.cultural_studies",
+      "page_type": "concept",
+      "evidence_quote": "Colegios, gobiernos, empresas y multinacionales estaban encantados con tener una ventana al inconsciente de los chavales de 12 a 25 años,",
+      "timestamps": [
+        "31:35"
+      ],
+      "framing_marks": []
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "action": "insert_after_passage",
+      "anchor_passage": "Es marco aplicado, no taxonomía especulativa.",
+      "anchor_passage_unique_in_page": true,
+      "content_to_insert": "- **Reformulación de los ejes en clave moral-epistémica**: el horizontal puede leerse equivalente como **trascendental vs no trascendental** — los valores trascendentales son los que están por encima de uno mismo y no se relativizan; los no trascendentales son significantes flotantes que adoptan la última idea fuerza conveniente. El vertical, en clave de **locus de control del origen del mal** — locus interno (el mal está dentro de uno) vs externo (el mal está fuera, en la sociedad o en el otro). Misma estructura del modelo articulada desde el grano moral-epistémico en lugar del organizativo: la jerarquía aceptada/rechazada y el locus interno/externo del mal son la misma operación clasificatoria leída desde dos ángulos.",
+      "rationale": "La página actual articula los ejes como (vertical=jerarquía, horizontal=fundamentalismo moral). El speaker ofrece en este vídeo una formulación equivalente desde otro grano (vertical=locus de control del mal, horizontal=trascendental/no trascendental). Es el mismo marco visto desde otra cara, no un modelo distinto. Enriquece la página añadiendo una segunda articulación que el lector puede usar para identificar la clasificación cuando la postura no está formulada en términos de jerarquía/fundamento sino en términos de imputación del mal y rigidez de los valores.",
+      "quote_evidence": [
+        "El eje izquierda-derecha corresponde a ideas trascendentales versus ideas no trascendentales,",
+        "El eje vertical corresponde a locus de control interno (el mal está dentro) versus externo (el mal está fuera),",
+        "Los valores trascendentales son aquellos que están por encima de uno mismo y no se relativizan; los no trascendentales son significantes flotantes con la última idea fuerza conveniente,"
+      ],
+      "video_chunk_timestamps": [
+        "48:12"
+      ],
+      "review_priority": "high",
+      "supersedes_laguna": null
+    },
+    {
+      "page_id": "diagrama-de-proxy",
+      "action": "insert_after_passage",
+      "anchor_passage": "→ [Diagrama de Proxy (resumen del marco)](https://www.youtube.com/watch?v=wxcSuqipA6s)",
+      "anchor_passage_unique_in_page": true,
+      "content_to_insert": "\n> \"El eje izquierda-derecha corresponde a ideas trascendentales versus ideas no trascendentales,\"\n→ [Anonimato y minoría de edad en redes sociales (48:12)](https://youtu.be/NrLnzcceSLY?t=2892)\n\n> \"El eje vertical corresponde a locus de control interno (el mal está dentro) versus externo (el mal está fuera),\"\n→ [Anonimato y minoría de edad en redes sociales (48:12)](https://youtu.be/NrLnzcceSLY?t=2892)\n\n> \"Los valores trascendentales son aquellos que están por encima de uno mismo y no se relativizan; los no trascendentales son significantes flotantes con la última idea fuerza conveniente,\"\n→ [Anonimato y minoría de edad en redes sociales (48:12)](https://youtu.be/NrLnzcceSLY?t=2892)",
+      "rationale": "Citas literales que sustentan la nueva formulación añadida en el bullet anterior. Atestiguan que la reformulación trascendental/locus-de-control es del propio canal y no una glosa del compilador.",
+      "quote_evidence": [
+        "El eje izquierda-derecha corresponde a ideas trascendentales versus ideas no trascendentales,",
+        "El eje vertical corresponde a locus de control interno (el mal está dentro) versus externo (el mal está fuera),",
+        "Los valores trascendentales son aquellos que están por encima de uno mismo y no se relativizan; los no trascendentales son significantes flotantes con la última idea fuerza conveniente,"
+      ],
+      "video_chunk_timestamps": [
+        "48:12"
+      ],
+      "review_priority": "high",
+      "supersedes_laguna": null
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "action": "insert_after_passage",
+      "anchor_passage": "los problemas de la IA, las redes y la pornografía son morales antes que técnicos.",
+      "anchor_passage_unique_in_page": true,
+      "content_to_insert": "- **Aplicación a la tríada información / conocimiento / sabiduría**: el internet ha cambiado el ritmo de acceso a la información sin producir más conocimiento ni más sabiduría — nadie aprende hoy más de lo que antes se aprendía en bibliotecas, solo cambia la velocidad. Confundir la herramienta (datos disponibles) con la capacidad humana (procesarlos en juicio práctico) es exactamente la operación que el gólem de cobre nombra: endiosar el instrumento como si fuera el agente. La crítica del marco al hype de IA se extiende sin modificación al hype del propio internet como dispositivo de auto-aprendizaje colectivo.",
+      "rationale": "El speaker invoca la categoría 'gólem de cobre' literalmente y la aplica fuera del dominio original (cognición vs IA) hacia internet/información/conocimiento/sabiduría. La página actual articula el marco frente a la IA singular pero no muestra cómo el mismo error categorial opera frente a otros dispositivos técnicos (información digital). Esta extensión enriquece la sección Estructura del marco con un caso de aplicación cruzada que el canal articula explícitamente.",
+      "quote_evidence": [
+        "Endiosar la tecnología es el golem de cobre: confundir la herramienta con la capacidad humana,",
+        "Tenemos más información pero no más conocimiento y mucho menos más sabiduría,",
+        "Nadie usa internet para aprender más de lo que antes se aprendía en bibliotecas; solo ha cambiado el ritmo de acceso,"
+      ],
+      "video_chunk_timestamps": [
+        "43:10"
+      ],
+      "review_priority": "medium",
+      "supersedes_laguna": null
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "action": "insert_after_passage",
+      "anchor_passage": "→ [El Gólem de Cobre (02:31)](https://youtu.be/e3Aj775Rlw4?t=151)",
+      "anchor_passage_unique_in_page": true,
+      "content_to_insert": "\n\n### Aplicaciones del marco en otros vídeos\n\n> \"Endiosar la tecnología es el golem de cobre: confundir la herramienta con la capacidad humana,\"\n→ [Anonimato y minoría de edad en redes sociales (43:10)](https://youtu.be/NrLnzcceSLY?t=2590)\n\n> \"Tenemos más información pero no más conocimiento y mucho menos más sabiduría,\"\n→ [Anonimato y minoría de edad en redes sociales (43:10)](https://youtu.be/NrLnzcceSLY?t=2590)\n\n> \"Nadie usa internet para aprender más de lo que antes se aprendía en bibliotecas; solo ha cambiado el ritmo de acceso,\"\n→ [Anonimato y minoría de edad en redes sociales (43:10)](https://youtu.be/NrLnzcceSLY?t=2590)",
+      "rationale": "Sub-sección H3 añadida al final de Citas del vídeo (antes de Páginas conectadas) para alojar citas que vienen de vídeos distintos al monográfico originario, sin contaminar el bloque de citas del vídeo titular. Sostiene la extensión del marco a la tríada información/conocimiento/sabiduría introducida en Estructura del marco.",
+      "quote_evidence": [
+        "Endiosar la tecnología es el golem de cobre: confundir la herramienta con la capacidad humana,",
+        "Tenemos más información pero no más conocimiento y mucho menos más sabiduría,",
+        "Nadie usa internet para aprender más de lo que antes se aprendía en bibliotecas; solo ha cambiado el ritmo de acceso,"
+      ],
+      "video_chunk_timestamps": [
+        "43:10"
+      ],
+      "review_priority": "medium",
+      "supersedes_laguna": null
+    },
+    {
+      "page_id": "consumismo-critica",
+      "action": "insert_after_passage",
+      "anchor_passage": "menos circulación de ideas distintas.",
+      "anchor_passage_unique_in_page": true,
+      "content_to_insert": "\n→ [Materialismo Filosófico con Daniel Alarcón, 1:50:26](https://youtu.be/qbCGrnynKe8?t=6626)\n\n### El interés convergente: la ventana al inconsciente juvenil\n\nUna pieza específica de la crítica del canal explica por qué las redes sociales no se regularon antes pese al daño documentado en menores: la convergencia de interés entre instituciones públicas, corporaciones y centros educativos en mantener acceso al inconsciente de los jóvenes para penetración ideológica y comercial. La pre-regulación no es accidente sino convergencia de intereses entre actores que de otro modo se presentan como antagonistas. Las plataformas dominantes (Instagram, Twitter) están diseñadas para entretener — capturar tiempo y atención — no para divulgar información ni operar como herramientas productivas; el uso informativo de Twitter aparece como huida desde medios institucionales copados por propaganda gubernamental, no como propósito original del producto.\n\n> \"Colegios, gobiernos, empresas y multinacionales estaban encantados con tener una ventana al inconsciente de los chavales de 12 a 25 años,\"\n→ [Anonimato y minoría de edad en redes sociales (31:35)](https://youtu.be/NrLnzcceSLY?t=1895)\n\n> \"Instagram y Twitter están diseñados para entretenerse, no para divulgar información ni ser herramientas productivas,\"\n→ [Anonimato y minoría de edad en redes sociales (31:35)](https://youtu.be/NrLnzcceSLY?t=1895)",
+      "rationale": "El bloque de 31:35 articula una pieza ausente en la página actual: la convergencia entre estado, capital y educación en mantener acceso al inconsciente juvenil — explicación estructural del retraso regulatorio que la página no contiene. Encaja como nuevo H3 dentro de 'Mecanismos identificados por el canal', tras 'Homogeneización por plataformas' y antes de 'Colapso del contenido original'. El anchor 'menos circulación de ideas distintas.' es la última frase de citación de Homogeneización por plataformas; el insert restituye la línea →[Materialismo Filosófico] que está justo después en el original (preserva continuidad) y luego añade el nuevo H3.",
+      "quote_evidence": [
+        "Colegios, gobiernos, empresas y multinacionales estaban encantados con tener una ventana al inconsciente de los chavales de 12 a 25 años,",
+        "Instagram y Twitter están diseñados para entretenerse, no para divulgar información ni ser herramientas productivas,",
+        "Twitter solo se ha convertido en fuente informativa como huida de los medios de comunicación copados por propaganda gubernamental,"
+      ],
+      "video_chunk_timestamps": [
+        "31:35"
+      ],
+      "review_priority": "high",
+      "supersedes_laguna": "Crítica explícita a la izquierda y a la derecha simultáneamente: hay material en otros vídeos pero los chunks recuperados están sesgados hacia la crítica a la izquierda. Falta el contrapeso a la derecha consumista",
+      "supersedes_laguna_note": "Supersedimiento parcial: el bloque añadido articula la dimensión capital-corporativa de la crítica (interés del mercado en el inconsciente juvenil) que la página tenía sub-representada respecto a la dimensión progresista. La laguna no se cierra del todo — falta material sobre crítica al hedonismo de derechas — pero se mitiga el sesgo señalado."
+    }
+  ],
+  "promote_new": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Aparición televisiva sobre menores y redes sociales (estadística 44%)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El bloque tiene parte tactical-prohibitiva sobre menores en redes y parte estructural sobre quién establece criterio (los padres). La parte estructural se recupera en el bloque 29:34 sobre responsabilidad parental, que también es tactical. Sin marco psicológico-arquetípico aplicado más allá del que ya cubre consumismo-critica vía la lectura de las redes como dispositivo de captura de atención.",
+      "quote_evidence": "Sin el criterio del menor, ninguna prohibición servirá; los padres son los establecedores del autocriterio,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Imposibilidad técnica de prohibir redes sociales a menores",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento práctico-tactical sobre la indefinibilidad técnica de 'red social' (foros, Reddit, Burbuja). Sin marco psicológico-cultural propio. La pieza estructural relacionada (no se puede abolir el vicio) queda capturada en el thesis_candidate de catarsis cultural.",
+      "quote_evidence": "No se puede determinar qué es y qué no es una red social: foros, Reddit, Burbuja son redes sociales,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "La mentira como herramienta de comunicación humana ineliminable",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis estructural breve (~1.5 min) sobre la imposibilidad de eliminar el bulo/mentira de la comunicación humana, con corolario político ('un gobierno que necesita controlar lo que se dice no es gobierno, es máquina de propaganda'). Demasiado breve para concept o thesis_candidate; aplicación del principio antropológico-cultural que el thesis_candidate de catarsis-cultural ya recoge en su tesis general (vicios humanos no se abolen).",
+      "quote_evidence": "La mentira es una herramienta de comunicación humana; pretender eliminarla es absurdo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en el corpus aparecen más vídeos con tesis sobre la mentira como dimensión antropológica de la comunicación, podría enriquecer un futuro concept page sobre comunicación humana o el thesis_candidate de catarsis-cultural."
+    },
+    {
+      "surface_form": "Telegram, privacidad y la injerencia política disfrazada de protección",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario sobre actualidad de Telegram + buzón electoral. Crítica estructural breve (la asimetría entre protesta de injerencia digital y aceptación de propaganda partidaria), pero anclada en actualidad sin desarrollo arquetípico. No supera el test discriminante (§3.1) por carecer de marco psicológico-sociológico aplicado más allá de la observación.",
+      "quote_evidence": "Los mismos que se quejan de la \"injerencia\" de Telegram tienen el buzón lleno de propaganda electoral en papel,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Escalada prohibicionista: feminismo → cambio climático → control digital",
+      "reason_code": "passing_mention",
+      "reason_detail": "Patrón estructural breve ('como no funciona, se pide más de lo mismo'). Conecta con el thesis_candidate de catarsis-cultural y con la crítica al prohibicionismo de consumismo-critica, pero no merece página propia ni enriquece prosa con material sustantivo nuevo respecto a lo ya en consumismo-critica.",
+      "quote_evidence": "Prohibir cosas sin sentido es el principio del camino para llegar al modelo chino de control,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Responsabilidad parental como alternativa real",
+      "reason_code": "passing_mention",
+      "reason_detail": "Propuesta tactical concreta (seguros obligatorios, multas progresivas hasta pérdida de custodia, punitivismo dirigido a responsables reales). Sin marco psicológico-arquetípico aplicado. Lectura política coyuntural más que enciclopédica.",
+      "quote_evidence": "La pregunta clave es simple: ¿quién tiene la culpa de lo que hace un niño? El padre,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Identificación universal con DNI en redes (objetivo regulatorio real)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico de actualidad sobre el verdadero objetivo regulatorio. La doble ventaja (vigilancia + presión sobre plataformas) es lectura política coyuntural sin marco arquetípico. La amenaza a youtubers de 'especial relevancia' apunta a control informativo pero no se eleva a tesis estructural.",
+      "quote_evidence": "El objetivo real no es proteger a los menores, sino que todo el mundo tenga que identificarse con DNI en redes sociales,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Analogía con clasificaciones por edad del cine",
+      "reason_code": "passing_mention",
+      "reason_detail": "Propuesta práctica (redes para menores con filtros IA; redes para adultos). Sin contenido enciclopédico.",
+      "quote_evidence": "Igual que hay películas para todos los públicos y para mayores de 18, podría haber redes para menores y redes para adultos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Estado entreaburrido / soledad digital como abstinencia y FOMO",
+      "reason_code": "passing_mention",
+      "reason_detail": "Categoría canal-específica ('entreaburrido': entretenido pero aburrido, ni descansado ni estimulado) y reframe diagnóstico ('lo que presentan como soledad es síndrome de abstinencia y FOMO'). Bloque breve (~2-3 min). Por sí sola insuficiente para concept page; si aparece desarrollada en otros vídeos podría promoverse como concept canal-específico vinculable a consumismo-critica.",
+      "quote_evidence": "El espacio digital produce un estado propio: entretenido pero aburrido, ni descansado ni estimulado realmente,",
+      "review_priority": "medium",
+      "review_priority_reason": "Acuñación canal-específica ('entreaburrido') + reframe FOMO/abstinencia. Útil de retener para futuros barridos por si se consolida como concept."
+    },
+    {
+      "surface_form": "Delegación parental como problema real detrás de la regulación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis cultural breve (las familias no quieren enfrentar el problema, lo delegan). La metáfora 'el móvil es la calle de noche: no se trata de vigilar al niño en la calle, sino de no dejarle salir' es vívida pero puntual. No suficiente para concept ni thesis_candidate.",
+      "quote_evidence": "El móvil es la calle de noche: no se trata de vigilar al niño en la calle, sino de no dejarle salir,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "1984 / Orwell como endpoint del mito del buen salvaje",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como endpoint lógico en el bloque del buen salvaje (21:29). Sin análisis literario propio de 1984 — solo sirve de etiqueta para el destino totalitario. La cita queda recogida en el thesis_candidate de mito-buen-salvaje. No promueve entity_work autónomo.",
+      "quote_evidence": "Así se llega a 1984: desde la premisa de que nadie sabe lo que hace excepto quien gobierna,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Cainismo (fase terminal de envidia + baja autoestima)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Categoría canal-específica que nombra la fase terminal del mecanismo envidia + autoestima baja: pedir al estado que destruya al otro. Mencionada una sola vez en este vídeo, dentro del bloque mayor sobre envidia. Capturada como pieza interna del thesis_candidate envidia-mecanica-cura-junguiana.",
+      "quote_evidence": "La envidia junto a la baja autoestima lleva a pedir que el estado destruya al otro: es cainismo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Acuñación canal-específica ('cainismo' como categoría política derivada del relato bíblico). Vigilar en futuros barridos: si aparece desarrollada autónomamente podría merecer concept page."
+    },
+    {
+      "surface_form": "China como caso de aislamiento informativo (no abolición del vicio)",
+      "reason_code": "passing_mention",
+      "reason_detail": "China invocada como caso comparativo dentro del thesis_candidate de catarsis-cultural. Sin análisis cultural-arquetípico autónomo. La pieza ya queda recogida en el thesis_candidate.",
+      "quote_evidence": "Ni China ha conseguido eliminar completamente estas prácticas; su particularidad es el aislamiento informativo, no la abolición del vicio,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Japón como caso (represión cultural ↔ máximas perversiones)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Japón como caso comparativo dentro del thesis_candidate de catarsis-cultural. Sin análisis arquetípico-cultural autónomo del corpus japonés que justifique entity propio. Pieza recogida en el thesis_candidate.",
+      "quote_evidence": "Japón como ejemplo: la cultura más represiva del mundo es también la de las mayores perversiones, porque la catarsis reprimida busca salida,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Rallo / anarcocapitalismo (mención implícita)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El vídeo no menciona a Rallo explícitamente en el summary, solo aborda en abstracto la 'mentalidad progresista'. La página diagrama-de-proxy ya documenta el cuadrante anarcocapitalista con caso Rallo. No procede update.",
+      "quote_evidence": "La mentalidad progresista no tiene miedo de la derecha; tiene miedo de ser responsable ante alguien,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 6,
+    "thesis_candidates_count": 3,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

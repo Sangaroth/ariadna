@@ -85,6 +85,80 @@ El canal trata las apps de citas como **caso paradigmático de mercantilización
 
 La lectura del canal: las apps no causan el problema sino que **amplifican y aceleran** una mercantilización afectiva ya presente. Las personas operan en formato catálogo porque el resto del entorno cultural ya las ha reducido a productos elegibles.
 
+
+## Mecánica estructural del mercado afectivo digital
+
+Más allá de la descripción del catálogo, el canal articula la **mecánica estructural** del mercado afectivo digital identificando tres asimetrías inéditas y una consecuencia generacional.
+
+### Oferta abrumadora masculina y parálisis paradójica
+
+Lo que antes se resolvía eligiendo entre cinco mujeres del pueblo ahora implica decenas de miles de opciones — situación **psicológicamente inédita** en la historia humana. La oferta digital de mujeres hiper-disponibles visualmente no activa al varón promedio sino que lo paraliza: el cerebro masculino no está calibrado para procesar ese volumen, y el resultado es la inhibición del inicio.
+
+> "La oferta digital de mujeres hiper-disponibles visualmente genera una demanda masculina abrumadora que paraliza en lugar de activar"
+→ [Consultorio EXIT INSIDE (43:07)](https://youtu.be/IP9f-1gSJ1c?t=2587)
+
+> "Lo que antes se resolvía eligiendo entre cinco mujeres del pueblo ahora implica decenas de miles de opciones, lo cual es psicológicamente inédito"
+→ [Consultorio EXIT INSIDE (43:07)](https://youtu.be/IP9f-1gSJ1c?t=2587)
+
+### Miedo al reemplazo: la sensación masculina de 'es tu turno'
+
+Del lado masculino, la abundancia digital femenina produce una segunda asimetría: cuando una mujer dice que sí, el hombre no lo siente como elección definitiva sino como **turno temporal para demostrar valor**. La mujer tiene acceso a 10.000 millones de opciones potenciales en lugar de las dos o tres del entorno reducido, y la competencia se vuelve estructuralmente imposible. La angustia masculina no es de inadecuación abstracta sino de inminente reemplazo.
+
+> "Los hombres sienten que cuando una mujer dice que sí, no es una elección definitiva sino un turno temporal para demostrar valor"
+→ [Consultorio EXIT INSIDE (48:08)](https://youtu.be/IP9f-1gSJ1c?t=2888)
+
+> "La mujer tiene acceso a 10.000 millones de opciones mejores en lugar de dos o tres en un grupo reducido, lo que genera una competencia imposible"
+→ [Consultorio EXIT INSIDE (48:08)](https://youtu.be/IP9f-1gSJ1c?t=2888)
+
+### Amor líquido como consecuencia del trauma de abandono generacional
+
+La categoría 'relaciones líquidas' no nombra para el canal una variante moderna del amor sino su **negación funcional**: tendencia a la satisfacción inmediata sin compromiso, alimentada por la ansiedad de encontrar algo mejor en cuanto el algoritmo lo sugiere. La causa profunda no es individual sino generacional: millennials y post-millennials cargan un trauma de abandono colectivo que el canal califica de 'bastante hardcore'.
+
+> "Las relaciones líquidas no son amor sino tendencia a satisfacción inmediata sin compromiso, alimentada por la ansiedad de encontrar algo mejor"
+→ [Consultorio EXIT INSIDE (48:08)](https://youtu.be/IP9f-1gSJ1c?t=2888)
+
+> "Los millennials y post-millennials cargan un trauma de abandono generacional que es \"bastante hardcore\""
+→ [Consultorio EXIT INSIDE (50:41)](https://youtu.be/IP9f-1gSJ1c?t=3041)
+
+### Inversión del mercado: las mujeres descubren la soledad estructural
+
+La cuarta asimetría es temporal: el mercado se está invirtiendo. Los hombres están dejando de iniciar contacto mientras las mujeres empiezan a estar desesperadas sin entender la causa. Lo que las mujeres pensaban que querían — estar solas — era en realidad otra cosa: pasarla bien con amigas y tener un hombre disponible ocasionalmente. La diferencia entre las dos configuraciones se hace visible solo cuando la oferta masculina se retira.
+
+> "Los hombres están dejando de iniciar contacto mientras las mujeres empiezan a estar desesperadas sin entender la causa"
+→ [Consultorio EXIT INSIDE (1:00:15)](https://youtu.be/IP9f-1gSJ1c?t=3615)
+
+> "El Estado del bienestar no prepara para formar familia ni vínculos profundos sino solo para el siguiente paso inmediato"
+→ [Consultorio EXIT INSIDE (1:00:15)](https://youtu.be/IP9f-1gSJ1c?t=3615)
+
+### Love bombing como desesperación, no como estrategia
+
+La lectura popular del love bombing como 'red flag narcisista calculada' es para el canal **inversión causal**. El love bombing histriónico calculado es el más infrecuente de todos los tipos. La gran mayoría no es estrategia maquiavélica sino producto de la desesperación generacional: en cuanto empieza una relación, la persona cree que le salvará del abandono y vuelca toda la intensidad acumulada. Las mujeres borderline lo practican para disfrutarlo ellas mismas, no para enganchar al otro — quieren la intensidad máxima en el mínimo tiempo. Que el receptor se vea afectado por el love bombing revela ya un terreno previo (síndrome de ninfa, expectativa trampa) tanto como una operación del emisor.
+
+> "No es una estrategia calculada sino producto de la desesperación: en cuanto empieza una relación, la persona cree que le salvará del abandono"
+→ [Consultorio EXIT INSIDE (1:18:29)](https://youtu.be/IP9f-1gSJ1c?t=4709)
+
+> "Las mujeres borderline hacen love bombing para disfrutarlo ellas mismas, no para enganchar al otro: quieren la intensidad máxima en el mínimo tiempo"
+→ [Consultorio EXIT INSIDE (1:18:29)](https://youtu.be/IP9f-1gSJ1c?t=4709)
+
+### Vínculos parasociales y expectativa trampa
+
+El último mecanismo es la confusión entre cercanía digital y cercanía real. Tener a alguien al alcance de Twitter genera la sensación falsa de que ya existe vínculo de confianza. En la vida real nadie es tan espontáneo como en redes; la gente llega segura de que todo fluirá y el frenazo genera crisis de autoestima. El bucle de soledad alimenta el problema: cuanto más tiempo se está solo o en redes (que el canal trata como equivalentes), más elabora la cabeza el vínculo perfecto ideal e inalcanzable.
+
+> "Tener a alguien al alcance de Twitter genera la sensación falsa de que ya existe un vínculo de confianza"
+→ [Consultorio EXIT INSIDE (1:45:17)](https://youtu.be/IP9f-1gSJ1c?t=6317)
+
+> "Cuanto más tiempo estés solo o en redes (que es lo mismo), más elaborará tu cabeza el vínculo perfecto ideal e inalcanzable"
+→ [Consultorio EXIT INSIDE (1:45:17)](https://youtu.be/IP9f-1gSJ1c?t=6317)
+
+La expectativa trampa cierra el circuito: todos los vínculos que fracasan o decepcionan se han elaborado bajo una expectativa **profundamente ideal y desmesurada de la que nadie habla**. La sociedad del bienestar ha vendido que todos ya somos amigos eliminando la necesidad percibida de construir vínculos reales — y la propaganda cultural de que 'todos estamos unidos en democracia' fabrica la ilusión de que el vínculo ya está formado sin esfuerzo, dejando inermes a quienes después descubren su ausencia.
+
+> "Todos los vínculos que fracasan o decepcionan se han elaborado bajo una expectativa profundamente ideal y desmesurada de la que nadie habla"
+→ [Consultorio EXIT INSIDE (1:41:45)](https://youtu.be/IP9f-1gSJ1c?t=6105)
+
+> "En la sociedad del bienestar nos han vendido que todos ya somos amigos, eliminando la necesidad percibida de construir vínculos reales"
+→ [Consultorio EXIT INSIDE (1:41:45)](https://youtu.be/IP9f-1gSJ1c?t=6105)
+
+
 ## Postura específica del canal: NO es anti-capitalismo marxista
 
 Una precisión importante para no confundir esta página con la crítica de izquierdas estándar:

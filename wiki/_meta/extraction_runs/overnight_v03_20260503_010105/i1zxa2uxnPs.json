@@ -1,0 +1,274 @@
+{
+  "video_id": "i1zxa2uxnPs",
+  "video_title": "El Xocas y la Personalidad",
+  "playlist": "_sin_playlist",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "síndrome del Xocas",
+      "canonical_guess": "sindrome-xocas",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 21,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El núcleo del síndrome del Xocas: la meta utópica y la imposibilidad de detenerse"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El síndrome tiene que ver con la sensación de desconexión con el padre arquetípico"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página existente fue compilada con extracción parcial del mismo vídeo (chunks faltantes 01:32, 13:12, 16:45, 17:46, 18:46). El summary completo aporta material genuinamente nuevo: BDSM como analogía de sublimación, desconexión materna combinada con paterna, distinción trauma rechazo/abandono, concepto 'certeza del vínculo' como núcleo afectivo, propuesta terapéutica desarrollada (EMDR + reelaboración episódica + diario), y refuta ≥1 laguna declarada (tratamiento).",
+      "quote_evidence": "Ambos presentan una personalidad psicasténica específicamente obsesiva,"
+    }
+  ],
+  "_doc_promote_new": "Sin promote_new en este vídeo.",
+  "pending_updates": [
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Resuelta — el vídeo desarrolla la propuesta terapéutica (EMDR + terapia cognitivo-conductual + reelaboración episódica + diario reconstructivo específico) en chunks 18:46 y 20:17 que la extracción inicial del page no había recogido.",
+      "supersedes_laguna_text": "**Tratamiento**: el fragmento procesado menciona EMDR y reelaboración episódica como propuesta terapéutica pero no aparece desarrollado en este corpus — pendiente de futuros vídeos",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 1126,
+          "cite_markdown": "[El Xocas y la Personalidad (18:46)](https://youtu.be/i1zxa2uxnPs?t=1126)"
+        },
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 1217,
+          "cite_markdown": "[El Xocas y la Personalidad (20:17)](https://youtu.be/i1zxa2uxnPs?t=1217)"
+        }
+      ],
+      "rationale": "El cuerpo del page declara explícitamente esta laguna como 'no aparece desarrollado en este corpus', pero el chunk 18:46-20:17 del mismo vídeo (no recogido en la extracción original) sí desarrolla las tres herramientas y propone diario específico. La laguna queda obsoleta tras añadir la sección de Tratamiento.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La compulsión productivista funciona como blindaje contra ese descenso.",
+      "section_target": "",
+      "content_proposed": "\n\nLa carencia paterna no opera sola: el canal precisa que en el caso del Xocas la desconexión paterna se combina con una falta de atención materna paralela, y la herida que cristaliza tiene una firma específica que conviene distinguir:\n\n> \"La falta de conexión con el padre arquetípico suele combinarse con falta de atención de la madre arquetípica\"\n→ [El Xocas y la Personalidad (13:12)](https://youtu.be/i1zxa2uxnPs?t=792)\n\n> \"Se manifiesta un trauma potente de rechazo, distinto del trauma de abandono\"\n→ [El Xocas y la Personalidad (13:12)](https://youtu.be/i1zxa2uxnPs?t=792)\n\nLa distinción rechazo / abandono es operativa en la lectura del canal: el trauma de abandono organiza una espera (cristalizada en el [[sindrome-wendy]]); el trauma de rechazo organiza una demostración compulsiva del propio valor. Lo que en Wendy es paciencia idealizante, en el Xocas es velocidad productivista.\n\n## La certeza del vínculo y la respuesta al rechazo\n\nEl canal articula el núcleo afectivo del síndrome como un déficit muy específico que llama \"certeza del vínculo\":\n\n> \"El Xocas tiene el problema de la certeza: es incapaz de sentir certeza\"\n→ [El Xocas y la Personalidad (15:14)](https://youtu.be/i1zxa2uxnPs?t=914)\n\n> \"Quien da la certeza es el padre (seguridad en el hacer y el conseguir) y la madre (sentirse reconocido, merecer)\"\n→ [El Xocas y la Personalidad (15:14)](https://youtu.be/i1zxa2uxnPs?t=914)\n\n> \"No se trata de la certeza de ser amado sino de la certeza del vínculo de afecto\"\n→ [El Xocas y la Personalidad (16:45)](https://youtu.be/i1zxa2uxnPs?t=1005)\n\nLa distinción es importante: el sujeto puede saberse amado y aún así no poder sentir como cierto el vínculo afectivo. Esa imposibilidad se traduce en evitación sostenida —el primer amor \"marcó para mal\" y desde entonces el Xocas se relaciona con mujeres laboralmente o como amistad pero no sentimentalmente porque \"no le compensa el sufrimiento\"— y en una respuesta defensiva al menor signo de cuestionamiento del propio valor:\n\n> \"La respuesta 'me follo a tu madre' no es lo que quiere decir realmente, es la respuesta instintiva a 'tú crees que no valgo'\"\n→ [El Xocas y la Personalidad (17:46)](https://youtu.be/i1zxa2uxnPs?t=1066)\n\nEl insulto reactivo no es contenido sino síntoma: la incapacidad de sostener la duda sobre el propio valor. La carrera por ser \"el número uno en Twitch\" es la versión productiva de esa reacción; el insulto impulsivo es la misma reacción cuando el interlocutor se externaliza:\n\n> \"Se dedicó vitalmente a insultar impulsivamente a quienes remotamente le hacen sentir que no merece\"\n→ [El Xocas y la Personalidad (16:45)](https://youtu.be/i1zxa2uxnPs?t=1005)\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 792,
+          "cite_markdown": "[El Xocas y la Personalidad (13:12)](https://youtu.be/i1zxa2uxnPs?t=792)"
+        },
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 914,
+          "cite_markdown": "[El Xocas y la Personalidad (15:14)](https://youtu.be/i1zxa2uxnPs?t=914)"
+        },
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 1005,
+          "cite_markdown": "[El Xocas y la Personalidad (16:45)](https://youtu.be/i1zxa2uxnPs?t=1005)"
+        },
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 1066,
+          "cite_markdown": "[El Xocas y la Personalidad (17:46)](https://youtu.be/i1zxa2uxnPs?t=1066)"
+        }
+      ],
+      "rationale": "El page tiene una sección sobre desconexión paterna pero omite (a) la combinación con desconexión materna que el speaker explicita en 13:12, (b) la distinción crítica trauma de rechazo / trauma de abandono, y (c) el concepto canal-específico 'certeza del vínculo' articulado en 15:14-16:45 como núcleo afectivo del síndrome. La extensión inserta material nuevo y abre la nueva sección sobre certeza, que enlaza el déficit afectivo con la respuesta defensiva (insulto reactivo + carrera productivista).",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "canaliza algo que el sujeto no puede tramitar como vínculo.",
+      "section_target": "",
+      "content_proposed": "\n\nEl canal usa el BDSM como analogía pedagógica de la sublimación: el practicante no es violento sino que inhibe su propia violencia, y la actividad sexual consentida le permite realizar de forma socialmente aceptable lo que internamente sería inaceptable.\n\n> \"El BDSM canaliza problemas de odio hacia el propio sexo o el sexo contrario mediante violencia consentida\"\n→ [El Xocas y la Personalidad (01:32)](https://youtu.be/i1zxa2uxnPs?t=92)\n\n> \"La sublimación es casi lo mismo que canalización, a veces incluso catarsis\"\n→ [El Xocas y la Personalidad (01:32)](https://youtu.be/i1zxa2uxnPs?t=92)\n\nLa equivalencia operativa entre sublimación, canalización y catarsis precisa la lectura del caso Xocas: la carrera productivista no resuelve el material afectivo no tramitable, lo desplaza a un campo socialmente legible donde el sujeto puede actuarlo sin reconocerlo como propio.",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 92,
+          "cite_markdown": "[El Xocas y la Personalidad (01:32)](https://youtu.be/i1zxa2uxnPs?t=92)"
+        }
+      ],
+      "rationale": "El page define sublimación pero no incluye la analogía pedagógica del BDSM (chunk 01:32) que el speaker usa explícitamente para fijar el mecanismo, ni la equivalencia operativa sublimación≈canalización≈catarsis. Material nuevo, no redundante con el cuerpo existente.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Conexión con otros conceptos",
+      "section_target": "",
+      "content_proposed": "## Tratamiento y trayectoria\n\nEl canal esboza una propuesta terapéutica concreta para este patrón, articulada como combinación de tres herramientas:\n\n> \"El tratamiento genérico incluiría EMDR, terapia cognitivo-conductual y reelaboración episódica\"\n→ [El Xocas y la Personalidad (18:46)](https://youtu.be/i1zxa2uxnPs?t=1126)\n\n> \"La reelaboración episódica es el mejor tratamiento para un trauma tan nuclear y concentrado en una estructura\"\n→ [El Xocas y la Personalidad (20:17)](https://youtu.be/i1zxa2uxnPs?t=1217)\n\nLa pieza específica que propone es un diario reconstructivo, articulado en torno a una distinción operativa entender / recordar:\n\n> \"Diseñaría un tipo muy específico de diario para que reconstruya su historia, porque él cree que la entiende pero solo la recuerda\"\n→ [El Xocas y la Personalidad (18:46)](https://youtu.be/i1zxa2uxnPs?t=1126)\n\nEn la lógica del canal, el sujeto puede tener una narrativa explícita coherente sobre su propia historia y aun así no haber tramitado afectivamente los episodios que la sostienen. La reelaboración episódica busca convertir el recuerdo en comprensión integrada — operación equivalente, en clave terapéutica, a lo que la individuación realizaría sobre el material inconsciente.\n\nEl canal anota una particularidad clínica del caso real:\n\n> \"Ha perdonado más rápido de lo que ha sanado, caso muy extraño de este síndrome\"\n→ [El Xocas y la Personalidad (18:46)](https://youtu.be/i1zxa2uxnPs?t=1126)\n\nY reconoce mejoría observable desde que el sujeto entró en proceso terapéutico:\n\n> \"Desde que se rompió está muchísimo mejor, se lo ha currado mucho\"\n→ [El Xocas y la Personalidad (20:17)](https://youtu.be/i1zxa2uxnPs?t=1217)\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 1126,
+          "cite_markdown": "[El Xocas y la Personalidad (18:46)](https://youtu.be/i1zxa2uxnPs?t=1126)"
+        },
+        {
+          "video_id": "i1zxa2uxnPs",
+          "timestamp_seconds": 1217,
+          "cite_markdown": "[El Xocas y la Personalidad (20:17)](https://youtu.be/i1zxa2uxnPs?t=1217)"
+        }
+      ],
+      "rationale": "Sección nueva que cubre la propuesta terapéutica desarrollada en 18:46-20:17 (no recogida en la extracción original del page). Resuelve la laguna 'Tratamiento'. Va antes de '## Conexión con otros conceptos' porque cierra el arco analítico del síndrome (mecanismo→raíz→sublimación→tratamiento) antes de abrir las relaciones cross-page.",
+      "editorial_intent": "resolve_laguna"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Molly's Game",
+      "reason_code": "already_captured",
+      "reason_detail": "La película aparece como caso paralelo del síndrome (Molly como contraparte femenina del patrón obsesivo) pero ya está integrada en la sección Definición del page sindrome-xocas y en la laguna 'Contraparte femenina'. No hay análisis arquetípico dedicado de la película más allá del paralelismo.",
+      "quote_evidence": "El Xocas se compara con Molly, protagonista que dirige timbas de poker y presenta una personalidad de rasgos claramente obsesivos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Xocas (streamer)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Figura pública usada como caso paradigmático que da nombre al síndrome. No se analiza biográficamente ni se promueve a página de autor — el corpus la trata como cristalización del patrón, no como sujeto enciclopédico independiente. Toda la información sobre él vive en la página sindrome-xocas.",
+      "quote_evidence": "Todo lo que hace el Xocas es una manifestación de una necesidad, su conducta es una sublimación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "sublimación",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto psicoanalítico clásico (Freud) usado como marco operativo para explicar el síndrome. ~3 min de exposición, no constituye tesis propia del canal sino aplicación de concepto establecido. Se integra en el cuerpo de sindrome-xocas como mecanismo explicativo, no merece página autónoma.",
+      "quote_evidence": "La sublimación es la manifestación conductual externa aceptable para el yo de algo que internamente es inaceptable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "BDSM",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Usado como analogía pedagógica de la sublimación (1 chunk, ~1 min). No hay análisis arquetípico de la práctica en sí; es ilustración del mecanismo. La cita queda integrada en la sección Sublimación de sindrome-xocas vía pending_update.",
+      "quote_evidence": "El BDSM canaliza problemas de odio hacia el propio sexo o el sexo contrario mediante violencia consentida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "Tourette",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención de contraste único: 'no es desinhibición neurológica como un Tourette sino desinhibición psicológica'. No hay tratamiento del síndrome de Tourette como tal. Discard puro.",
+      "quote_evidence": "No es un problema de desinhibición neurológica (como un Tourette) sino de desinhibición psicológica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "EMDR",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Técnica psicoterapéutica estándar (Eye Movement Desensitization and Reprocessing) mencionada como pieza del tratamiento propuesto. Concepto técnico de psicología clínica fuera de §1 (las pages son del canal, no de la disciplina). Se integra como herramienta en la sección Tratamiento de sindrome-xocas.",
+      "quote_evidence": "El tratamiento genérico incluiría EMDR, terapia cognitivo-conductual y reelaboración episódica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "terapia cognitivo-conductual",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Marco terapéutico estándar mencionado dentro del paquete tratamiento. Sin desarrollo propio. Se integra en sección Tratamiento.",
+      "quote_evidence": "El tratamiento genérico incluiría EMDR, terapia cognitivo-conductual y reelaboración episódica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "reelaboración episódica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Técnica terapéutica clave del tratamiento propuesto, articulada con la distinción 'él cree que la entiende pero solo la recuerda' y la propuesta de diario reconstructivo. Significativa para el caso pero no constituye marco autónomo del canal — se integra en sección Tratamiento de sindrome-xocas. Si recurre en otros vídeos sobre psicología clínica del canal podría justificar concepto propio en el futuro.",
+      "quote_evidence": "La reelaboración episódica es el mejor tratamiento para un trauma tan nuclear y concentrado en una estructura,",
+      "review_priority": "medium",
+      "review_priority_reason": "concepto operativo del tratamiento — vigilar recurrencia en futuros vídeos de análisis psicológico",
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "padre arquetípico",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto junguiano usado como marco analítico, sin promoción autónoma. Ya capturado en la sección 'La raíz arquetípica: desconexión con el padre' del page sindrome-xocas. Si en el corpus llegase a haber tratamiento monográfico del padre arquetípico como tal, se reconsideraría.",
+      "quote_evidence": "El síndrome tiene que ver con la sensación de desconexión con el padre arquetípico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "madre arquetípica",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto junguiano paralelo al padre arquetípico, mencionado como factor concurrente en el caso Xocas. Se integra en la extensión de la sección de raíz arquetípica vía pending_update. Mismo razonamiento: no merece página propia hasta tratamiento monográfico.",
+      "quote_evidence": "La falta de conexión con el padre arquetípico suele combinarse con falta de atención de la madre arquetípica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "trauma de rechazo (vs trauma de abandono)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción clínico-arquetípica del canal articulada brevemente como diferencial diagnóstica del síndrome (rechazo organiza demostración compulsiva; abandono organiza espera, sindrome-wendy). Se integra en pending_update a sindrome-xocas como matización. Si recurriera en otros vídeos como par tipológico autónomo podría justificar concepto propio.",
+      "quote_evidence": "Se manifiesta un trauma potente de rechazo, distinto del trauma de abandono,",
+      "review_priority": "medium",
+      "review_priority_reason": "tipología diagnóstica embrionaria del canal — vigilar si reaparece como par estructural",
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "certeza del vínculo",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Concepto articulado en este vídeo como núcleo afectivo del síndrome ('Quien da la certeza es el padre y la madre'; 'no la certeza de ser amado sino la certeza del vínculo'). Por sí solo es ~3 min y aparece anclado al caso Xocas. Se integra como nueva sección dedicada en sindrome-xocas vía pending_update. Si reaparece en otros vídeos como categoría general aplicada a más síndromes/personajes, se promueve a concept propio.",
+      "quote_evidence": "No se trata de la certeza de ser amado sino de la certeza del vínculo de afecto,",
+      "review_priority": "medium",
+      "review_priority_reason": "concepto canal-específico embrionario — candidato a página propia si recurre como categoría transversal",
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "psicastenia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categoría clínica clásica (Janet) usada como marco taxonómico para situar el síndrome ('contiene obsesividad, ansiedad e impulsividad como dominios'). Ya capturada en la Definición del page. Concepto técnico de psicopatología fuera de §1, no merece página autónoma del wiki.",
+      "quote_evidence": "La psicastenia contiene obsesividad, ansiedad e impulsividad como dominios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "trastorno obsesivo-compulsivo (TOC)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mencionado como contraste clínico (TOC con rituales vs trastorno obsesivo de personalidad sin rituales). Concepto clínico estándar fuera de §1 — no merece página, ya integrado conceptualmente en la sección 'La estructura obsesiva' del page.",
+      "quote_evidence": "El trastorno obsesivo-compulsivo implica estructuras tan rígidas que ni siquiera se puede cambiar la conducta, generando rituales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T01:01:05Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -78,6 +78,37 @@ La tesis cognitiva del canal: el Génesis no es una metáfora arbitraria del ori
 
 Esto conecta el Génesis con la categoría de [[mitologia-propia-impropia]]: el mito propio se sabe mito y se sabe espejo de la mente que lo formula.
 
+## Génesis y metafísica: la hipóstasis como procedimiento común
+
+En el directo experimental de estudio (8 enero 2025), el canal articula una identificación operativa entre el procedimiento mitológico y el procedimiento metafísico: ambos parten de la misma operación cognitiva, hipostasiar — sustantificar una categoría mental como fundamento de la realidad.
+
+> "La metafísica supone hipostasiar o sustantificar algún elemento como fundamento de la realidad en general"
+→ [4x03 Directo experimental, 19:10](https://youtu.be/sVLpdolZZUE?t=1150)
+
+> "El proceso cognitivo de hipostasiar la realidad en ontología no difiere del que genera las emanaciones mitológicas"
+→ [4x03 Directo experimental, 1:01:34](https://youtu.be/sVLpdolZZUE?t=3694)
+
+> "Los mitos genésicos empiezan con una hipóstasis de la nada: 'En el principio era el Verbo'"
+→ [4x03 Directo experimental, 1:01:34](https://youtu.be/sVLpdolZZUE?t=3694)
+
+El canal recorre los ejemplos clásicos donde la operación metafísica es visible:
+
+> "Tales hipostasiaba el agua como elemento primordial: operaba metafísicamente"
+→ [4x03 Directo experimental, 1:03:37](https://youtu.be/sVLpdolZZUE?t=3817)
+
+> "Los pitagóricos postulaban las matemáticas como fundamento de la realidad"
+→ [4x03 Directo experimental, 1:03:37](https://youtu.be/sVLpdolZZUE?t=3817)
+
+> "Parménides: el ser es macizo, lleno, entero, incorruptible; el cambio es ilusorio porque negaría el ser"
+→ [4x03 Directo experimental, 1:03:37](https://youtu.be/sVLpdolZZUE?t=3817)
+
+La identificación se anuncia como descubrimiento del propio canal:
+
+> "Proxy descubre que el procedimiento mitológico recapitula la hipóstasis metafísica"
+→ [4x03 Directo experimental, 1:06:49](https://youtu.be/sVLpdolZZUE?t=4009)
+
+La consecuencia editorial es que el Génesis y el sistema metafísico no son procedimientos psíquicos distintos sino dos vestiduras del mismo gesto cognitivo: lo que en Tales es agua, en los pitagóricos número, en Parménides ser, en el Génesis bíblico Verbo, en el Silmarillion música de Ilúvatar. El argumento opera en sentido inverso al refuerzo del isomorfismo Génesis ↔ síntesis mental que la sección anterior establece: aquí no es la mente la que se reconoce en el mito, sino la metafísica la que se reconoce como mitología sin saberse tal — y el canal la lee desde el lado de la [[mitologia-propia-impropia|mitología impropia]] cuando la operación deja de reconocerse a sí misma. Este es el punto donde [[bueno-gustavo|Bueno]] y su [[materialismo-filosofico]] toman contacto crítico con el marco mitológico del canal: el sistema buenista distingue ontología (operación legítima sobre el ser) de metafísica (hipóstasis ilegítima de un elemento como fundamento), y esa distinción es la que el canal aplica al desactivar la metafísica como mito impropio.
+
 ## El Génesis tolkieniano: emanación desde Ilúvatar
 
 La Música de los Ainur en [[el-silmarillion]] funciona como caso paradigmático del Génesis para el canal: el todo (Ilúvatar) se diferencia en partes (los Ainur) por un movimiento de individuación cosmogónica.
@@ -133,7 +164,9 @@ La correspondencia con las sefirot cabalísticas indica que el canal lee el Gén
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
+- **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:38:11](https://youtu.be/_0BM2jMsWdc?t=5891)
 

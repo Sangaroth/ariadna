@@ -75,6 +75,28 @@ Esta lectura conecta con la crítica del canal a los constructos modernos que oc
 
 La propia/impropia no es taxonomía neutral: es **diagnóstico cultural**. Permite preguntar de cualquier producción simbólica si su autor (y su público) saben que están haciendo mito o creen que están haciendo otra cosa (ciencia, política, entretenimiento, sentido común). El canal usa esta vara para distinguir mitos modernos vivos —los que operan con conciencia de su densidad simbólica— de mitos modernos opacos, que ejercen efecto mítico sin que nadie lo nombre como tal.
 
+
+## Definición materialista de mito y mecánica de la conspiración
+
+El canal añade una articulación cognitivista al concepto: **mito en sentido materialista es todo aquello que no se puede certificar como cierto pero se asume como explicación de la realidad**. La distinción propia/impropia se vuelve así un caso particular de un mecanismo más general — la mente rellena huecos de información con representaciones coherentes, y cuando esas representaciones operan sin certificación pero se asumen como verdad, son mito en este sentido amplio.
+
+> "La teoría de la conspiración es una forma de elaborar mitos que prescinden de la cadena causa-consecuencia"
+→ [Conspiración (04:53)](https://youtu.be/K97ZzKXY0oI?t=293)
+
+> "Mito en sentido materialista es todo aquello que no se puede certificar como cierto pero se asume como explicación de la realidad"
+→ [Conspiración (12:26)](https://youtu.be/K97ZzKXY0oI?t=746)
+
+La teoría de la conspiración es el caso clínico que el canal usa para iluminar la mecánica: la mente exige coherencia y completitud, y la conspiración las ofrece con menos elementos que la realidad. Lo decisivo es que la conspiración **no inventa**, **elimina** — recorta la complejidad real para producir un relato manejable. La operación no es aditiva sino sustractiva, lo cual explica su atractivo psicológico: simplifica el mundo a costa de la verdad.
+
+> "La realidad siempre es más compleja que cualquier teoría de la conspiración; esta no inventa cosas, sino que elimina elementos"
+→ [Conspiración (07:55)](https://youtu.be/K97ZzKXY0oI?t=475)
+
+> "La elaboración de representaciones mentales coherentes es un proceso inconsciente y automático"
+→ [Conspiración (07:55)](https://youtu.be/K97ZzKXY0oI?t=475)
+
+Esta lectura empalma con la distinción propia/impropia: la conspiración funciona como variante operacional del mito impropio (relato no certificable asumido como verdad), pero con una diferencia significativa — la conspiración cumple su función cognitiva precisamente porque su autor y su público no la reconocen como construcción simplificadora, sino como descubrimiento de la verdad oculta. Es mito impropio en estado puro, donde la pretensión de develar coincide con la operación de eliminar.
+
+
 ## La autorreferencialidad de los mitos propios
 
 En el análisis del Génesis tolkieniano el canal añade una dimensión cognitiva a la distinción: los mitos propios funcionan estructuralmente como las representaciones mentales mismas — son autorreferenciales. Donde el mito impropio se presenta como verdad ya dada, el mito propio refleja la operación de la mente que genera ideas. "Hágase la luz" tiene la misma estructura que la síntesis representacional: paso del silencio al sentido, de lo no-articulado a lo articulado.
@@ -99,4 +121,9 @@ Esto arroja luz sobre por qué los autores que construyen mitos propios — como
 
 ## Citations
 
+
+
 - video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft
+- **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
+- **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444)
+

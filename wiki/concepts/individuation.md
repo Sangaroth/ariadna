@@ -145,3 +145,7 @@ Refinamiento del canal sobre el camino: la individuación NO es solo descender a
 - **Etapas vitales**: Jung clásico distingue individuación de primera mitad de la vida (construcción del yo) y segunda mitad (integración del self). El corpus no marca esta distinción explícitamente
 - **Fracasos no cinematográficos**: el canal usa cine para mostrar el no-cumplimiento, pero no elabora qué patologías clínicas corresponderían a una individuación interrumpida
 - **Mito-Polar como caso límite**: hay material adyacente (Pandora/Prometeo, Diosa Blanca) sobre la integración cosmológica de los opuestos. Página propia futura
+
+## Citations
+
+- **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:38:11](https://youtu.be/_0BM2jMsWdc?t=5891)

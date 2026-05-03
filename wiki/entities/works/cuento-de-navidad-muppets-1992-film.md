@@ -126,4 +126,7 @@ La cualidad universal del dinero (poder + necesidad) permite que la metáfora op
 
 ## Citations
 
+
 - video_id: `s0MkondMt1o` — Cuento de Navidad y el espíritu Luterano con teleñecos
+- **Autodidáctica** — chunks: [22:37](https://youtu.be/tgP5_AvAnD8?t=1357)
+

@@ -129,6 +129,121 @@ Sobre ese sustrato, el speaker propone una definición operativa de símbolo: **
 - [[genesis-mitologico]] — el isomorfismo Génesis/síntesis mental encuentra en la matriz N y el UAL sus herramientas formales: cómo se compone una representación nueva desde representaciones previas.
 - [[diagrama-de-proxy]] — clasifica orientación moral-política con correlato neuropsicológico; esta tesis aporta el modelo cognitivo subyacente sobre el que esos correlatos operan.
 
+## Articulaciones posteriores: oposición al psicoanálisis y mecanismo de la meditación
+
+En el directo experimental de 8 horas de estudio (8 enero 2025), el canal articula con más detalle el estatuto de [[realismo-cognitivo]] como cierre epistemológico del marco y añade dos piezas nuevas a la teoría:
+
+**Realismo cognitivo en oposición al psicoanálisis.** El canal precisa que su realismo cognitivo se construye explícitamente contra el procedimiento psicoanalítico de describir la psique mediante metáforas trasladadas de otros ámbitos:
+
+> "El realismo cognitivo se construye en oposición al psicoanálisis entendido como describir la psique con metáforas de otros ámbitos"
+→ [4x03 Directo experimental, 1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
+
+El ejemplo paradigmático es el almacén-recuperación con que se describe la memoria:
+
+> "'La memoria no existe' como proceso de almacenamiento y recuperación: es una metáfora insuficiente"
+→ [4x03 Directo experimental, 1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
+
+> "Lo que describimos no coincide suficientemente con la realidad de la función propia"
+→ [4x03 Directo experimental, 1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
+
+La exigencia es de adecuación funcional: la metáfora vale si captura la función propia del proceso descrito (en el sentido de Millikan, mencionado al final de la sesión); deja de valer cuando arrastra ontología ajena al fenómeno. Este criterio cierra el bucle filosofía / teoría de la mente que la página enunciaba como problema abierto.
+
+**Default Mode Network y Action Mode Network como anticorrelación.** El canal añade un mecanismo neurofisiológico al modelo: las dos redes corticales (la de actividad representacional espontánea y la de control atencional dirigido) operan en anticorrelación directa, y la meditación se entiende como inhibición de la primera:
+
+> "La Default Mode Network y la Action Mode Network están en anticorrelación directa"
+→ [4x03 Directo experimental, 5:12:05](https://youtu.be/sVLpdolZZUE?t=18725)
+
+> "Proxy postula que ahí está el mecanismo de la meditación: inhibir la mayor cantidad de actividad representacional posible"
+→ [4x03 Directo experimental, 5:12:05](https://youtu.be/sVLpdolZZUE?t=18725)
+
+> "En un trabajo de fin de máster postuló dos redes (atencional y perceptiva) en anticorrelación"
+→ [4x03 Directo experimental, 5:12:05](https://youtu.be/sVLpdolZZUE?t=18725)
+
+La pieza es genealógica: el speaker sitúa esta postulación en su trabajo de fin de máster, anterior al corpus del canal. La meditación queda así formulada en términos de la matriz noética del marco: reducción del caudal de re-evocación representacional para estabilizar la franja explícita acotada a 12 bits/s.
+
+**Diálogo con el materialismo filosófico de Bueno.** En la conferencia que ocupa la mitad central del directo, el canal expone sostenidamente el sistema de [[bueno-gustavo]] ([[materialismo-filosofico]]: tres géneros de materialidad M1/M2/M3, ego trascendental, mundo como pluralidad discontinua) y precisa la distancia entre ambos marcos: el realismo cognitivo no necesita ontología general (no se compromete con M1/M2/M3 ni con ego trascendental como bisagra), solo sistematicidad respecto a la mente humana.
+
+> "El realismo cognitivo como teoría de la mente solo requiere ser sistemático respecto a la mente humana"
+→ [4x03 Directo experimental, 19:10](https://youtu.be/sVLpdolZZUE?t=1150)
+
+El ahorro ontológico es deliberado: el canal trabaja en el campo humano y no necesita decidir sobre la realidad como tal, solo sobre las representaciones.
+
+
+## Refinamiento de la componente imaginaria: lo imaginario no es lo visual
+
+En el directo *De realismo cognitivo: Memoria, EMDR, y pensamiento poético* (04 sept 2024) el canal refina sustancialmente la componente imaginaria de la matriz noética con casos clínicos que revelan su estructura interna y la distinguen de la mera percepción visual.
+
+### Lo imaginario excede lo visual
+
+La primera precisión es que la componente imaginaria de la matriz N **no se reduce a la activación del córtex visual**. Incluye percepción de volumen, espacio, forma y fondo que se procesan en áreas distintas del cerebro. La componente imaginaria es una capacidad cognitiva más amplia que la imagen propiamente dicha.
+
+> "Lo imaginario no equivale a lo visual: incluye percepción de volumen, espacio, forma y fondo que no dependen de la activación del córtex visual"
+→ [De realismo cognitivo (40:29)](https://youtu.be/KNiph0qq93U?t=2429)
+
+### Afantasía como caso clínico de disociación
+
+La afantasía — incapacidad de evocar imágenes mentales vívidas voluntariamente, en gradiente — opera como demostración clínica de la disociación entre el córtex visual y las demás dimensiones del imaginario. Las personas con afantasía conservan forma, fondo, volumen y distancia: lo que pierden es la activación voluntaria del córtex visual con los ojos cerrados. La componente del lenguaje queda intacta — pueden describir y recordar símbolos sin verlos mentalmente. Los detalles que retienen son semánticos, no visuales.
+
+> "La afantasía es la incapacidad de evocar imágenes mentales vívidas de forma voluntaria, pero existe en un gradiente"
+→ [De realismo cognitivo (40:29)](https://youtu.be/KNiph0qq93U?t=2429)
+
+> "Las personas con afantasía comprenden forma, fondo, volumen y distancia; lo que no pueden es activar el córtex visual voluntariamente con los ojos cerrados"
+→ [De realismo cognitivo (40:29)](https://youtu.be/KNiph0qq93U?t=2429)
+
+> "Los detalles que retienen son semánticos, no visuales; saben dónde están las cosas pero no las \"ven\" como una película mental"
+→ [De realismo cognitivo (50:37)](https://youtu.be/KNiph0qq93U?t=3037)
+
+### Evocación voluntaria/involuntaria como mecanismo distinto de la memoria
+
+Una corolaria operativa: la **evocación** — mecanismo por el cual la voluntad crea o recrea contenido mental deliberadamente — no es lo mismo que la memoria. Se puede evocar un recuerdo pero también una fantasía. La evocación requiere concentración entendida como inhibición de la actividad mental espontánea para sostener un objeto mental seleccionado. Las personas con afantasía no pueden evocar ni voluntaria ni involuntariamente imágenes vívidas — la disociación opera en ambos sentidos.
+
+> "La evocación es el mecanismo por el cual la voluntad crea o recrea contenido mental de forma deliberada"
+→ [De realismo cognitivo (46:35)](https://youtu.be/KNiph0qq93U?t=2795)
+
+> "No confundir evocación con memoria: se puede evocar un recuerdo pero también una fantasía"
+→ [De realismo cognitivo (46:35)](https://youtu.be/KNiph0qq93U?t=2795)
+
+### Alexitimia como análoga de la afantasía en el dominio afectivo
+
+La misma estructura de disociación opera en la componente afectiva: la **alexitimia** es la incapacidad de reconocer emociones somáticamente. La persona alexitímica sabe qué es el amor o el miedo conceptualmente — puede nombrarlos, describirlos — pero no los siente como nudo en el estómago ni sudoración. Igual que la afantasía impide la activación somática visual, la alexitimia impide la activación somática emocional. La analogía estructural muestra que cada componente de la matriz N (imaginaria, afectiva) tiene una capa somática-encarnada y una capa simbólico-conceptual que pueden disociarse clínicamente.
+
+> "La alexitimia es la incapacidad de reconocer emociones somáticamente: saben qué es el amor o el miedo pero no lo sienten como nudo en el estómago ni sudoración"
+→ [De realismo cognitivo (1:02:25)](https://youtu.be/KNiph0qq93U?t=3745)
+
+> "Igual que la afantasía impide la activación somática visual, la alexitimia impide la activación somática emocional"
+→ [De realismo cognitivo (1:02:25)](https://youtu.be/KNiph0qq93U?t=3745)
+
+### Ceguera somática vs ceguera cortical: arquitectura modular del imaginario
+
+La distinción clínica entre **ceguera somática** (lesión en nervio óptico o retina) y **ceguera cortical** (lesión en el córtex que procesa imágenes) revela que el imaginario tiene arquitectura modular: la ceguera somática preserva la representación visual imaginaria — los pacientes pueden ver formas y colores mentalmente. Los ciegos de nacimiento conservan componente imaginaria (mapas mentales, ubicación espacial) aunque no puedan ver, porque color y forma están controlados por áreas cerebrales distintas.
+
+> "La ceguera somática (nervio óptico, retina) permite representación visual imaginaria: pueden ver formas y colores mentalmente"
+→ [De realismo cognitivo (1:08:05)](https://youtu.be/KNiph0qq93U?t=4085)
+
+> "Los ciegos de nacimiento tienen componente imaginaria (mapas mentales, ubicación espacial) aunque no puedan ver; el color y la forma están controlados por áreas cerebrales distintas"
+→ [De realismo cognitivo (1:08:05)](https://youtu.be/KNiph0qq93U?t=4085)
+
+El experimento histórico con niños ciegos operados — distinguían cubo y esfera por tacto pero no visualmente hasta volver a tocarlos — demuestra que la componente somática táctil es parte del imaginario pero **no lo agota**: la integración cross-modal requiere su propia maduración.
+
+> "Niños ciegos operados distinguían cubo y esfera por tacto pero no visualmente hasta tocarlos de nuevo"
+→ [De realismo cognitivo (1:12:23)](https://youtu.be/KNiph0qq93U?t=4343)
+
+> "Demuestra que la componente somática táctil es parte del imaginario pero no lo agota"
+→ [De realismo cognitivo (1:12:23)](https://youtu.be/KNiph0qq93U?t=4343)
+
+### Metarrepresentación: la imaginación de la imaginación
+
+Finalmente el canal añade un nivel cognitivo superior: la **metarrepresentación** — representación de la representación, abstracción simbólica pura. Las personas con afantasía no pueden metarrepresentar imaginariamente, aunque el speaker se cuestiona si el déficit es específicamente de metarrepresentación o de su sustrato sensorial. La pieza completa el espectro: matriz noética con componentes (imaginaria/afectiva/formal-gramatical), cada una en capas (somática/conceptual), y operaciones que pueden ascender a metarrepresentación cuando se opera sobre representaciones mismas.
+
+> "La metarrepresentación es la representación de la representación, la abstracción simbólica pura"
+→ [De realismo cognitivo (1:05:02)](https://youtu.be/KNiph0qq93U?t=3902)
+
+> "Las personas con afantasía no pueden metarrepresentar imaginariamente, aunque el autor duda de si el déficit es específicamente de metarrepresentación"
+→ [De realismo cognitivo (1:05:02)](https://youtu.be/KNiph0qq93U?t=3902)
+
+La estructura completa enlaza con [[pensamiento-poetico]] (modo de operación que privilegia las componentes imaginaria y afectiva sobre la formal) y con [[golem-de-cobre]] (donde la tríada original queda ahora más finamente articulada).
+
+
 ## Lagunas
 
 - **Parte 1 del monográfico no localizada en este barrido**: el vídeo se anuncia como "Parte 2". Probablemente la Parte 1 contiene el sustrato preliminar (definición clásica de símbolo, contexto histórico de la semiótica, motivación del proyecto, etimología tratada con detalle). La página debería integrarse con esa Parte 1 cuando el corpus la incluya — ahora mismo carece de la entrada conceptual previa.

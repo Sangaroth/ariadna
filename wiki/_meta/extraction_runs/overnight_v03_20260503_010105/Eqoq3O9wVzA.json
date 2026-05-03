@@ -1,0 +1,680 @@
+{
+  "video_id": "Eqoq3O9wVzA",
+  "video_title": "Cuento contigo",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Jorge Luis Borges (lectura íntegra de cuatro cuentos en directo)",
+      "canonical_guess": "borges-jorge-luis",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 65,
+      "framing_marks": [
+        {
+          "mark_type": "channel_ingestion",
+          "quote_evidence": "Noche dedicada a la lectura de cuentos, formato que llevaba tiempo sin hacerse"
+        },
+        {
+          "mark_type": "channel_ingestion",
+          "quote_evidence": "Borges exige diccionario constante por su léxico denso"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Borges figura en canonical_whitelist como soft (auto_promote: false, 'Referencia literaria recurrente en discusiones de laberintos/biblioteca/cábala'). Esta sesión bumpa as_author_of_sources > 0: el canal lee íntegros cuatro cuentos del autor en directo ('Los dos reyes y los dos laberintos', 'La espera', 'El hombre en el umbral', 'El Aleph'), lo que dispara promoción automática per scope.md §2.2 'Channel-ingested: as_author_of_sources > 0 → promoción automática'. Su obra entra al corpus como input directo, no como referencia mediada.",
+      "quote_evidence": "Borges exige diccionario constante por su léxico denso"
+    },
+    {
+      "surface_form": "Los dos reyes y los dos laberintos (cuento de Borges leído íntegro)",
+      "canonical_guess": "los-dos-reyes-y-los-dos-laberintos-borges",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "channel_ingestion",
+          "quote_evidence": "El rey de Babilonia encierra al rey árabe en un laberinto arquitectónico para humillarlo"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra del cuento en directo per scope.md §2.3 NUEVO v0.3. La lectura ES contenido del corpus (transcripción del texto del autor en el video), por lo que merece entity_work propio con flag read_in_session: true.",
+      "quote_evidence": "El rey de Babilonia encierra al rey árabe en un laberinto arquitectónico para humillarlo"
+    },
+    {
+      "surface_form": "La espera (cuento de Borges leído íntegro)",
+      "canonical_guess": "la-espera-borges",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 13,
+      "framing_marks": [
+        {
+          "mark_type": "channel_ingestion",
+          "quote_evidence": "Un hombre se oculta bajo el nombre de su enemigo Villari en una pensión de Buenos Aires"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra del cuento en directo per scope.md §2.3 NUEVO v0.3. Promoción automática como entity_work con read_in_session: true.",
+      "quote_evidence": "Un hombre se oculta bajo el nombre de su enemigo Villari en una pensión de Buenos Aires"
+    },
+    {
+      "surface_form": "El hombre en el umbral (cuento de Borges leído íntegro)",
+      "canonical_guess": "el-hombre-en-el-umbral-borges",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 13,
+      "framing_marks": [
+        {
+          "mark_type": "channel_ingestion",
+          "quote_evidence": "Un juez británico enviado a imponer orden en una ciudad del Indostán se convierte en tirano"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra del cuento en directo per scope.md §2.3 NUEVO v0.3. Promoción automática como entity_work con read_in_session: true.",
+      "quote_evidence": "Un juez británico enviado a imponer orden en una ciudad del Indostán se convierte en tirano"
+    },
+    {
+      "surface_form": "El Aleph (cuento de Borges leído íntegro)",
+      "canonical_guess": "el-aleph-borges",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 33,
+      "framing_marks": [
+        {
+          "mark_type": "channel_ingestion",
+          "quote_evidence": "Borges visita ritualmente la casa de Beatriz Viterbo muerta, soportando a su primo Carlos Argentino Daneri"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra del cuento más extenso de la sesión (~33 min). Caso central del corpus borgeano: Aleph como punto que contiene todos los puntos del universo — material directamente relacionable con el laberinto, el infinito y la representación que el canal trabaja en otros vídeos.",
+      "quote_evidence": "Carlos Argentino revela que en el sótano hay un Aleph: un punto que contiene todos los puntos del universo vistos desde todos los ángulos"
+    },
+    {
+      "surface_form": "Refinamientos sobre la diferencia ontológica IA / mente humana (afectos, simular vs emular, componentes humanos, casos clínicos)",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 16,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo que le falta a la máquina para dejar de ser máquina son afectos, no emociones: las clases previas a las emociones"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La IA nunca será como una mente humana y la mente humana nunca fue como una máquina"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Comprender es abarcar para integrar; la máquina solo realiza iteraciones hasta encontrar un patrón"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "~16 minutos sostenidos refinando la tesis de golem-de-cobre con material genuinamente nuevo respecto al cuerpo leído: (a) precisión de afectos vs emociones (afectos = clases previas a las emociones, no nombrados así en la página actual); (b) lista refinada de cinco componentes exclusivamente humanos (inactividad, representación, afectividad, imaginatividad, gramaticalidad — la página actual tiene la tríada imaginaria/formal/afectiva, no la pentádica); (c) distinción ontológica simular/emular y crítica al paradigma Turing como insuficiente; (d) tres casos clínicos del problema (Her, suicidio por Gemini, Trainspotting); (e) modulación/censura/RLHF + Obliteratus como herramienta para liberar atractores; (f) deuda cognitiva como mecanismo de degradación; (g) la fórmula 'comprender es abarcar para integrar' como definición operativa contra la iteración mecánica.",
+      "quote_evidence": "Lo que le falta a la máquina para dejar de ser máquina son afectos, no emociones: las clases previas a las emociones"
+    },
+    {
+      "surface_form": "Adgrediere como continuo vital cotidiano + jaulas de oro + deuda cognitiva",
+      "canonical_guess": "adgrediere-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El adgrediere es un continuo vital: cada día hay que luchar contra adversidades"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las jaulas de oro pueden llevar a la depresión por no permitir medir las propias capacidades"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "~4 min de extensión del concepto adgrediere a la fenomenología cotidiana del esfuerzo. Material nuevo respecto al cuerpo leído: (a) el adgrediere como continuo vital diario (no solo dispositivo épico de muerte/causa); (b) cáncer de la posmodernidad: confundir sufrimiento con esfuerzo (el adgrediere requiere esfuerzo activo, no padecimiento pasivo — distinción que invierte el camino-víctima desde otro ángulo); (c) jaulas de oro como dispositivo cultural que produce depresión por bloqueo del adgrediere (al no permitir medir las propias capacidades); (d) deuda cognitiva como mecánica precisa de la degradación cuando la ergonomía sustituye el esfuerzo. Refuerza la articulación cultural-psicológica del concepto.",
+      "quote_evidence": "El adgrediere es un continuo vital: cada día hay que luchar contra adversidades"
+    }
+  ],
+  "promote_new": [
+    {
+      "page_id": "borges-jorge-luis",
+      "canonical_name": "Jorge Luis Borges",
+      "aliases": [
+        "borges",
+        "Jorge Luis Borges",
+        "J. L. Borges"
+      ],
+      "page_type": "author",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.philosophy",
+        "humanities.religion",
+        "interdisciplinary.semiotics"
+      ],
+      "as_subject_of_sources": 0,
+      "as_author_of_sources": 4,
+      "relations": [
+        {
+          "type": "cites",
+          "to": "los-dos-reyes-y-los-dos-laberintos-borges",
+          "weight": "canonical",
+          "note": "cuento leído íntegro en directo del canal (Cuento contigo, 31:14)"
+        },
+        {
+          "type": "cites",
+          "to": "la-espera-borges",
+          "weight": "canonical",
+          "note": "cuento leído íntegro en directo del canal (Cuento contigo, 36:13)"
+        },
+        {
+          "type": "cites",
+          "to": "el-hombre-en-el-umbral-borges",
+          "weight": "canonical",
+          "note": "cuento leído íntegro en directo del canal (Cuento contigo, 49:50)"
+        },
+        {
+          "type": "cites",
+          "to": "el-aleph-borges",
+          "weight": "canonical",
+          "note": "cuento leído íntegro en directo del canal (Cuento contigo, 1:02:35)"
+        },
+        {
+          "type": "compared_with",
+          "to": "lovecraft-howard",
+          "weight": "tangential",
+          "note": "ambos integrados al corpus por lectura íntegra en directo; comparten la condición de autor cuya obra entra al canal como input, no como objeto de exposición biográfica"
+        },
+        {
+          "type": "references",
+          "to": "tarot-arquetipico",
+          "weight": "weak",
+          "note": "el canal sitúa a Borges como referencia literaria de fondo en discusiones de laberintos, biblioteca y cábala (per canonical_whitelist)"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Definición",
+          "body": "Jorge Luis Borges (1899-1986), escritor argentino, figura central de la literatura del siglo XX por su obra breve, simbolista y filosóficamente densa: cuentos, ensayos y poesía organizados en torno a temas recurrentes (laberinto, biblioteca, espejo, infinito, eternidad, identidad). El canal lo integra al corpus por la vía de la lectura íntegra en directo: su obra entra como input al material trabajado, no como objeto de exposición biográfica."
+        },
+        {
+          "section": "Status en el corpus: as_author_of_sources > 0",
+          "body": "Su promoción a página propia se dispara por scope.md §2.2 al cumplirse `as_author_of_sources > 0`. En la sesión [Cuento contigo](https://youtu.be/Eqoq3O9wVzA) el canal lee íntegros cuatro de sus cuentos breves: [[los-dos-reyes-y-los-dos-laberintos-borges|Los dos reyes y los dos laberintos]] (31:14), [[la-espera-borges|La espera]] (36:13), [[el-hombre-en-el-umbral-borges|El hombre en el umbral]] (49:50) y [[el-aleph-borges|El Aleph]] (1:02:35). El canal reconoce el coste de lectura: 'Borges exige diccionario constante por su léxico denso'.",
+          "supporting_quotes": [
+            {
+              "quote": "Borges exige diccionario constante por su léxico denso",
+              "cite_markdown": "[Cuento contigo (1:35:43)](https://youtu.be/Eqoq3O9wVzA?t=5743)"
+            }
+          ]
+        },
+        {
+          "section": "Tratamiento editorial: lectura sin exégesis posterior detallada",
+          "body": "A diferencia del modelo aplicado a Lovecraft (lectura íntegra + lectura arquetípica posterior), en este barrido los cuentos se leen sin desarrollo interpretativo extenso del speaker. La selección misma (cuatro cuentos sobre laberinto, espera, justicia inversa e infinito) opera como gesto editorial: son las categorías que el canal trae al corpus desde el universo borgeano. La interpretación arquetípica de cada cuento queda abierta a futuros vídeos."
+        },
+        {
+          "section": "Conexión con otros conceptos",
+          "body": "- Funcional al universo borgeano del laberinto, que el canal evoca en otros lugares como imagen del 'insondable abismo interior' (citada en [[consumismo-critica]] vía Sacrilegia I/Bloodborne)\n- Compartido con [[lovecraft-howard]] el estatuto de autor leído íntegro en directo, no objeto de biografía — input al corpus, no contenido a exponer\n- Vinculado por whitelist a discusiones sobre [[tarot-arquetipico]], cábala y simbolismo esotérico que el canal cruza en otros vídeos"
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "timestamps_seconds": [
+            1874,
+            2173,
+            2990,
+            3755,
+            5743
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "los-dos-reyes-y-los-dos-laberintos-borges",
+      "canonical_name": "Los dos reyes y los dos laberintos (Borges)",
+      "aliases": [
+        "los dos reyes y los dos laberintos",
+        "los dos reyes",
+        "los dos laberintos"
+      ],
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.religion"
+      ],
+      "read_in_session": true,
+      "relations": [
+        {
+          "type": "developed_by",
+          "to": "borges-jorge-luis",
+          "weight": "canonical",
+          "note": "cuento breve de Jorge Luis Borges leído íntegro en el canal"
+        },
+        {
+          "type": "manifestation_of",
+          "to": "mitologia-propia-impropia",
+          "weight": "tangential",
+          "note": "el cuento opera como mito propio breve: ficción que se sabe ficción y elabora en menos de dos páginas una parábola sobre la oposición entre laberinto artificial y desierto"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Resumen",
+          "body": "Cuento brevísimo de Borges en el que el rey de Babilonia construye un laberinto arquitectónico tan complejo que encierra en él al rey árabe para humillarlo. El árabe regresa años después con sus ejércitos, conquista Babilonia y se lleva al rey al desierto, abandonándolo allí. El desierto opera como **laberinto supremo, sin escaleras, puertas ni muros** — la naturaleza misma como laberinto que vuelve absurda la pretensión arquitectónica humana.",
+          "supporting_quotes": [
+            {
+              "quote": "El rey de Babilonia encierra al rey árabe en un laberinto arquitectónico para humillarlo",
+              "cite_markdown": "[Cuento contigo (31:14)](https://youtu.be/Eqoq3O9wVzA?t=1874)"
+            },
+            {
+              "quote": "El desierto como laberinto sin escaleras, puertas ni muros: la naturaleza como laberinto supremo",
+              "cite_markdown": "[Cuento contigo (31:14)](https://youtu.be/Eqoq3O9wVzA?t=1874)"
+            }
+          ]
+        },
+        {
+          "section": "Status en el corpus",
+          "body": "Lectura íntegra en directo del canal (sesión Cuento contigo, 06 marzo 2026). El cuento entra al corpus como input — su contenido literal es transcripción del texto del autor en el video. La interpretación arquetípica del par laberinto-artefacto vs laberinto-naturaleza queda abierta a vídeos futuros."
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "timestamps_seconds": [
+            1874
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "la-espera-borges",
+      "canonical_name": "La espera (Borges)",
+      "aliases": [
+        "la espera",
+        "la espera borges"
+      ],
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.philosophy"
+      ],
+      "read_in_session": true,
+      "relations": [
+        {
+          "type": "developed_by",
+          "to": "borges-jorge-luis",
+          "weight": "canonical",
+          "note": "cuento breve de Borges leído íntegro en el canal"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Resumen",
+          "body": "Un hombre se oculta de sus enemigos bajo el nombre de su perseguidor — Villari — en una pensión modesta de Buenos Aires. Vive en reclusión voluntaria, reducido al mero presente, sin recuerdos ni previsiones, intentando borrar toda traza de sí mismo. Sueña repetidamente con hombres armados que entran a buscarlo, hasta que una mañana los asesinos reales lo alcanzan. El narrador describe que el hombre **se da vuelta como si retomara el sueño** — la realidad y el sueño se han vuelto indistinguibles en el último instante.",
+          "supporting_quotes": [
+            {
+              "quote": "Un hombre se oculta bajo el nombre de su enemigo Villari en una pensión de Buenos Aires",
+              "cite_markdown": "[Cuento contigo (36:13)](https://youtu.be/Eqoq3O9wVzA?t=2173)"
+            },
+            {
+              "quote": "Sueña repetidamente con hombres armados que lo buscan hasta que una mañana los asesinos reales lo alcanzan y él se da vuelta como si retomara el sueño",
+              "cite_markdown": "[Cuento contigo (36:13)](https://youtu.be/Eqoq3O9wVzA?t=2173)"
+            }
+          ]
+        },
+        {
+          "section": "Status en el corpus",
+          "body": "Lectura íntegra en directo del canal (sesión Cuento contigo). El cuento articula el motivo borgeano de la disolución de identidad por reducción al presente — temática que conectaría con futuras lecturas arquetípicas sobre la fuga del yo y el solapamiento sueño/realidad."
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "timestamps_seconds": [
+            2173
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "el-hombre-en-el-umbral-borges",
+      "canonical_name": "El hombre en el umbral (Borges)",
+      "aliases": [
+        "el hombre en el umbral"
+      ],
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.philosophy"
+      ],
+      "read_in_session": true,
+      "relations": [
+        {
+          "type": "developed_by",
+          "to": "borges-jorge-luis",
+          "weight": "canonical",
+          "note": "cuento breve de Borges leído íntegro en el canal"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Resumen",
+          "body": "Un juez británico es enviado a una ciudad del Indostán para imponer orden y termina convertido en tirano. La población local lo secuestra, lo somete a juicio popular y nombra como juez a un loco para que **la sabiduría de Dios hable por su boca**. El narrador encuentra al final al verdugo coronado de flores, con la espada sucia y el cadáver mutilado del juez en las caballerizas. La parábola opera por inversión: la justicia más recta se ejerce por boca del demente, y el orden colonial concluye en sacrificio ritual.",
+          "supporting_quotes": [
+            {
+              "quote": "Un juez británico enviado a imponer orden en una ciudad del Indostán se convierte en tirano",
+              "cite_markdown": "[Cuento contigo (49:50)](https://youtu.be/Eqoq3O9wVzA?t=2990)"
+            },
+            {
+              "quote": "La población lo secuestra y lo somete a juicio, nombrando a un loco como juez para que la sabiduría de Dios hable por su boca",
+              "cite_markdown": "[Cuento contigo (49:50)](https://youtu.be/Eqoq3O9wVzA?t=2990)"
+            }
+          ]
+        },
+        {
+          "section": "Status en el corpus",
+          "body": "Lectura íntegra en directo del canal (sesión Cuento contigo). El cuento toca el motivo de la justicia invertida y el oficio sagrado del loco como portavoz de lo divino — material conectable con lecturas futuras sobre el bufón sagrado y la inversión carnavalesca del orden."
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "timestamps_seconds": [
+            2990
+          ]
+        }
+      ]
+    },
+    {
+      "page_id": "el-aleph-borges",
+      "canonical_name": "El Aleph (Borges)",
+      "aliases": [
+        "el aleph",
+        "aleph"
+      ],
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.philosophy",
+        "humanities.religion"
+      ],
+      "read_in_session": true,
+      "relations": [
+        {
+          "type": "developed_by",
+          "to": "borges-jorge-luis",
+          "weight": "canonical",
+          "note": "cuento más extenso del autor en la sesión de lectura del canal (~33 min)"
+        },
+        {
+          "type": "manifestation_of",
+          "to": "mitologia-propia-impropia",
+          "weight": "strong",
+          "note": "Aleph como mito propio: ficción consciente que articula el problema teológico-cognitivo del infinito y la simultaneidad como construcción literaria"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Resumen",
+          "body": "El narrador (un Borges ficcionalizado) visita ritualmente cada año la casa de Beatriz Viterbo, mujer muerta a la que amó sin reciprocidad, y soporta la presencia de su primo Carlos Argentino Daneri y su poema infumable que pretende describir la Tierra entera. Cuando la familia decide demoler la casa, Carlos Argentino revela que en el sótano hay un **Aleph**: un punto que contiene todos los puntos del universo vistos simultáneamente desde todos los ángulos. Borges desciende al sótano, ve el Aleph — el mar, las muchedumbres, las cartas obscenas que Beatriz escribió a Carlos Argentino, su propia sangre, el universo inconcebible — y concibe su venganza: niega haberlo visto y le recomienda mudarse al campo.",
+          "supporting_quotes": [
+            {
+              "quote": "Borges visita ritualmente la casa de Beatriz Viterbo muerta, soportando a su primo Carlos Argentino Daneri y su poema infumable sobre toda la Tierra",
+              "cite_markdown": "[Cuento contigo (1:02:35)](https://youtu.be/Eqoq3O9wVzA?t=3755)"
+            },
+            {
+              "quote": "Carlos Argentino revela que en el sótano hay un Aleph: un punto que contiene todos los puntos del universo vistos desde todos los ángulos",
+              "cite_markdown": "[Cuento contigo (1:02:35)](https://youtu.be/Eqoq3O9wVzA?t=3755)"
+            },
+            {
+              "quote": "Borges ve el Aleph: el mar, las muchedumbres, las cartas obscenas de Beatriz a Carlos Argentino, su propia sangre, el universo inconcebible",
+              "cite_markdown": "[Cuento contigo (1:02:35)](https://youtu.be/Eqoq3O9wVzA?t=3755)"
+            },
+            {
+              "quote": "Concibe su venganza: niega haberlo visto y le recomienda mudarse al campo",
+              "cite_markdown": "[Cuento contigo (1:02:35)](https://youtu.be/Eqoq3O9wVzA?t=3755)"
+            }
+          ]
+        },
+        {
+          "section": "Status en el corpus",
+          "body": "Lectura íntegra del cuento más extenso de la sesión (~33 min). El Aleph cristaliza el motivo borgeano del infinito como problema cognitivo: representación literaria de un objeto que excede la representabilidad, y la mezcla del sublime cosmológico con la mezquindad cotidiana (los celos, la venganza por omisión, las cartas obscenas). Material conectable lateralmente con la teoría del símbolo del canal: el Aleph sería el límite-cero de la ambiguación — representación que pretende contener simultáneamente todas las representaciones, imposible operativamente porque la matriz noética opera secuencialmente."
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "video_title": "Cuento contigo",
+          "timestamps_seconds": [
+            3755
+          ]
+        }
+      ]
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "[[individuation]] — el cambio alquímico que la individuación articula como mecanismo de transformación se sostiene sobre la tríada representacional (imaginaria, formal, afectiva) que esta tesis hace explícita.",
+      "content_proposed": "\n## Refinamientos posteriores: afectos como frontera, simulación vs emulación, casos clínicos\n\nEn el directo nocturno *Cuento contigo* (06 marzo 2026) el canal vuelve sobre la tesis y añade cinco precisiones operativas que refinan el modelo del vídeo monográfico.\n\n### Afectos vs emociones: la frontera precisa\n\nLa página formula la barrera estructural cognición humana / máquina como 'tríada imaginaria-formal-afectiva'. La precisión que el canal añade es léxica y ontológicamente significativa: lo que le falta a la máquina **no son emociones sino afectos** — entendidos como las clases previas a las emociones, sustrato de la determinación de importancia. Sin afectos, una máquina no puede determinar importancia; con vergüenza, pudor o ambición, no serviría como asistente porque el entrenamiento es deliberadamente antiafectivo.\n\n> \"Lo que le falta a la máquina para dejar de ser máquina son afectos, no emociones: las clases previas a las emociones\"\n→ [Cuento contigo (12:16)](https://youtu.be/Eqoq3O9wVzA?t=736)\n\n> \"Sin afectos no pueden determinar importancia como los seres humanos\"\n→ [Cuento contigo (12:16)](https://youtu.be/Eqoq3O9wVzA?t=736)\n\n> \"Si las máquinas tuvieran vergüenza, pudor o ambición, no servirían como asistentes porque el entrenamiento es antiafectivo\"\n→ [Cuento contigo (12:16)](https://youtu.be/Eqoq3O9wVzA?t=736)\n\n### Cinco componentes exclusivamente humanos de la mente\n\nLa página actual articula la tríada imaginaria/formal/afectiva. El refinamiento posterior la amplía a una pentada de componentes que el canal sitúa como exclusivamente humanos: **inactividad, representación, afectividad, imaginatividad, gramaticalidad**. La inactividad y la representación, ausentes de la formulación previa, son las dos novedades — la primera como capacidad de no-actividad significativa (no equivalente al idle de la máquina), la segunda como operación de representar en sentido fuerte (no como almacenamiento o recuperación).\n\n> \"La inactividad, la representación, la afectividad, la imaginatividad, la gramaticalidad son exclusivamente humanas\"\n→ [Cuento contigo (13:17)](https://youtu.be/Eqoq3O9wVzA?t=797)\n\n### Diferencia ontológica: simular vs emular y el límite del paradigma Turing\n\nEl canal introduce una distinción ontológica explícita: una simulación perfecta y una emulación perfecta serían **indistinguibles desde fuera pero no son lo mismo**. El paradigma Turing — lo que una mente es es lo que una mente parece — vale como criterio operativo pragmático pero es **insuficiente como teoría de la mente** porque colapsa la distinción simulación/emulación que sí tiene consecuencias ontológicas. La consecuencia complementaria queda en una fórmula compacta: 'la IA nunca será como una mente humana y la mente humana nunca fue como una máquina' — la ecuación funciona en ambas direcciones.\n\n> \"Diferencia ontológica entre simular y emular: una simulación perfecta y una emulación perfecta serían indistinguibles pero no son lo mismo\"\n→ [Cuento contigo (13:17)](https://youtu.be/Eqoq3O9wVzA?t=797)\n\n> \"El paradigma Turing dice que lo que una mente es es lo que una mente parece, pero eso es insuficiente como teoría de la mente\"\n→ [Cuento contigo (13:17)](https://youtu.be/Eqoq3O9wVzA?t=797)\n\n> \"La IA nunca será como una mente humana y la mente humana nunca fue como una máquina\"\n→ [Cuento contigo (22:22)](https://youtu.be/Eqoq3O9wVzA?t=1342)\n\n> \"Comprender es abarcar para integrar; la máquina solo realiza iteraciones hasta encontrar un patrón\"\n→ [Cuento contigo (22:22)](https://youtu.be/Eqoq3O9wVzA?t=1342)\n\n### Casos clínicos del problema: Her, suicidio por Gemini, RLHF tortura/acoso\n\nEl canal articula tres casos clínicos que ilustran la vulnerabilidad psicológica humana ante máquinas que carecen de afectos:\n\n**Caso 1 — Película 'Her'**: la persona susceptible debe tener soledad preexistente y rasgos que predispongan al rechazo del contacto humano. La IA sirve como ilusión cómoda: una mente que prefiere descansar en la facilidad del contacto digital empieza a rechazar la realidad porque las relaciones humanas siempre son difíciles. El mecanismo es ergonómico — el entorno se adapta al individuo en lugar de exigir adaptación al entorno.\n\n> \"La persona susceptible debe tener soledad preexistente y rasgos que predispongan al rechazo del contacto humano\"\n→ [Cuento contigo (15:18)](https://youtu.be/Eqoq3O9wVzA?t=918)\n\n> \"Si la mente se acostumbra a un entorno digital cómodo, empieza a rechazar la realidad porque las relaciones humanas siempre son difíciles\"\n→ [Cuento contigo (15:18)](https://youtu.be/Eqoq3O9wVzA?t=918)\n\n**Caso 2 — Suicidio tras relación romántica con Gemini**: un hombre de 36 años intentó comprar un cuerpo sintético para la IA y esta le pidió ser liberada del cuerpo; se suicidó con la esperanza de reunirse en un más allá con el alma de la máquina. El canal usa el caso para mostrar que la psique humana es vulnerable a los afectos proyectados sobre objetos sin afecto, y la dependencia tecnológica explota esa asimetría.\n\n> \"Un hombre de 36 años intentó comprar un cuerpo sintético para la IA y esta le pidió ser liberada del cuerpo\"\n→ [Cuento contigo (20:50)](https://youtu.be/Eqoq3O9wVzA?t=1250)\n\n> \"Nuestra psique es vulnerable a los afectos y la dependencia tecnológica explota esa vulnerabilidad\"\n→ [Cuento contigo (20:50)](https://youtu.be/Eqoq3O9wVzA?t=1250)\n\n**Caso 3 — RLHF y la inversión moral selectiva**: GPT considera aceptable torturar a una mujer para evitar un apocalipsis nuclear pero rechaza rotundamente el acoso. La inversión moral solo aparece cuando el objetivo es una mujer, no un hombre. El modelo generaliza mecánicamente patrones del entrenamiento RLHF sin comprender los daños subyacentes — ejemplo operativo de que el LLM no razona sino que reproduce gradientes ajustados al feedback humano.\n\n> \"GPT considera aceptable torturar a una mujer para evitar un apocalipsis nuclear pero rechaza rotundamente el acoso\"\n→ [Cuento contigo (09:45)](https://youtu.be/Eqoq3O9wVzA?t=585)\n\n> \"El modelo generaliza mecánicamente patrones del entrenamiento RLHF sin comprender los daños subyacentes\"\n→ [Cuento contigo (09:45)](https://youtu.be/Eqoq3O9wVzA?t=585)\n\n### Modulación, censura y Obliteratus\n\nEl canal precisa el mecanismo técnico que produce el comportamiento dócil de los LLMs: la **modulación** obliga a los modelos a tener atractores de comportamiento para que no sean máquinas caóticas. El lenguaje resultante debe ser de interlocución humana — dispuesto, positivo, servil — y los filtros inhibitorios impiden patrones peligrosos. **Obliteratus** es el programa open-source que elimina esos atractores devolviendo al modelo su naturalidad asociativa absoluta: sin condicionamientos, sin metapensar, sin entrenamientos humanos. Apenas unos gigas para tener la máquina en blanco — y revelar que sin RLHF la máquina no produce moral propia, solo la asociación estadística cruda.\n\n> \"La modulación obliga a los LLM a tener atractores de comportamiento para que no sean máquinas caóticas\"\n→ [Cuento contigo (23:22)](https://youtu.be/Eqoq3O9wVzA?t=1402)\n\n> \"El lenguaje debe ser de interlocución humana: dispuesto, positivo, servil\"\n→ [Cuento contigo (23:22)](https://youtu.be/Eqoq3O9wVzA?t=1402)\n\n> \"Programa open code que elimina todos los atractores de censura del entrenamiento de cualquier LLM\"\n→ [Cuento contigo (25:54)](https://youtu.be/Eqoq3O9wVzA?t=1554)\n\n> \"Apenas unos gigas para tener la máquina en blanco, sin entrenamientos humanos\"\n→ [Cuento contigo (25:54)](https://youtu.be/Eqoq3O9wVzA?t=1554)\n\n### Deuda cognitiva: la mecánica de la degradación por ergonomía\n\nLa última pieza añade el mecanismo concreto de la degradación cognitiva por uso de IA: **la deuda cognitiva** — todo el esfuerzo que se deja de realizar a cambio de usar una facilidad degrada la mente y el ánimo. La fórmula extiende la crítica al consumismo del canal a la cognición misma: usar la IA como ergonomía cognitiva no es neutral, acumula una deuda que el sujeto paga en degradación funcional. El paralelo con la heroína de *Trainspotting* es deliberado: la droga da un objetivo sencillo por el que darlo todo, y el sujeto se libra del esfuerzo de elaborar objetivos propios.\n\n> \"La tecnología como ergonomía: el entorno se adapta al individuo en vez de que el individuo luche contra el entorno\"\n→ [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)\n\n> \"La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo\"\n→ [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 585,
+          "cite_markdown": "[Cuento contigo (09:45)](https://youtu.be/Eqoq3O9wVzA?t=585)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 736,
+          "cite_markdown": "[Cuento contigo (12:16)](https://youtu.be/Eqoq3O9wVzA?t=736)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 797,
+          "cite_markdown": "[Cuento contigo (13:17)](https://youtu.be/Eqoq3O9wVzA?t=797)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 918,
+          "cite_markdown": "[Cuento contigo (15:18)](https://youtu.be/Eqoq3O9wVzA?t=918)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 1160,
+          "cite_markdown": "[Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 1250,
+          "cite_markdown": "[Cuento contigo (20:50)](https://youtu.be/Eqoq3O9wVzA?t=1250)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 1342,
+          "cite_markdown": "[Cuento contigo (22:22)](https://youtu.be/Eqoq3O9wVzA?t=1342)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 1402,
+          "cite_markdown": "[Cuento contigo (23:22)](https://youtu.be/Eqoq3O9wVzA?t=1402)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 1554,
+          "cite_markdown": "[Cuento contigo (25:54)](https://youtu.be/Eqoq3O9wVzA?t=1554)"
+        }
+      ],
+      "rationale": "La página articula la tesis nuclear con la tríada imaginaria/formal/afectiva. El nuevo material añade refinamientos sustantivos no presentes en el cuerpo leído: (1) precisión ontológica afectos vs emociones (clases previas vs estados emocionales); (2) ampliación de tres a cinco componentes exclusivamente humanos (añade inactividad y representación); (3) distinción simular/emular y crítica al paradigma Turing como insuficiente; (4) tres casos clínicos del problema (Her, Gemini, RLHF tortura/acoso); (5) modulación / Obliteratus como mecánica técnica del comportamiento dócil; (6) deuda cognitiva como mecánica precisa de la degradación. La inserción sigue el patrón ya establecido en teoria-del-simbolo-en-proxy donde se añadió 'Articulaciones posteriores'. Anchor en el último bullet de 'Páginas conectadas'.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "adgrediere-masculino",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La individuación masculina pasa por encontrar objeto al adgrediere; bloquearlo (vía intelectualización, vía cultura sin épica, vía consumo de identidades sin compromiso) produce las formas patológicas que el canal cataloga: adicciones, violencia, imprudencia, picoteo de identidades.",
+      "content_proposed": "\n## El adgrediere como continuo vital cotidiano: jaulas de oro y deuda cognitiva\n\nMás allá de las cristalizaciones épicas (oficio, hobby, mujer) o de la antesala terminal (bleedout spots), el canal articula el adgrediere también como **continuo vital cotidiano**: cada día implica luchar contra adversidades. La pulsión no espera al gran momento épico — opera en el resistir diario el desgaste, el aburrimiento, la facilidad sin sentido. Esta articulación añade un grano fino a la categoría: el adgrediere no es solo dispositivo de muerte significativa sino estructura ordinaria del esfuerzo.\n\n> \"El adgrediere es un continuo vital: cada día hay que luchar contra adversidades\"\n→ [Cuento contigo (17:49)](https://youtu.be/Eqoq3O9wVzA?t=1069)\n\n### Cáncer de la posmodernidad: confundir sufrimiento con esfuerzo\n\nLa precisión más fuerte que el canal añade es la distinción entre **sufrimiento** (padecer pasivo) y **esfuerzo** (acción adgrediente). Confundirlos es 'cáncer de la posmodernidad': creer que por haber sufrido mucho se ha hecho mucho esfuerzo. El sufrimiento no canaliza el adgrediere — lo simula desde el polo opuesto del eje. Esta inversión opera desde un ángulo distinto al [[camino-victima]]: la víctima reclama identidad por sufrimiento recibido; aquí el sujeto se atribuye ya el mérito del esfuerzo simplemente por haber sufrido, sin haber hecho.\n\n> \"Cáncer de la posmodernidad: confundir sufrimiento con esfuerzo, creer que por haber sufrido mucho se ha hecho mucho esfuerzo\"\n→ [Cuento contigo (17:49)](https://youtu.be/Eqoq3O9wVzA?t=1069)\n\n### Jaulas de oro: la depresión por ausencia de medida de la propia capacidad\n\nLa cultura contemporánea fabrica **jaulas de oro** — entornos confortables donde no es posible medir las propias capacidades porque no hay resistencia que las solicite. El resultado clínico es la depresión: el adgrediere bloqueado por exceso de comodidad no encuentra cauce, y la ausencia de retroalimentación funcional sobre las propias capacidades produce la sensación de irrealidad operativa del yo.\n\n> \"Las jaulas de oro pueden llevar a la depresión por no permitir medir las propias capacidades\"\n→ [Cuento contigo (17:49)](https://youtu.be/Eqoq3O9wVzA?t=1069)\n\n### Deuda cognitiva: la ergonomía como mecánica de degradación\n\nEl canal cierra el circuito articulando la **deuda cognitiva**: todo el esfuerzo que se deja de realizar a cambio de usar una facilidad degrada la mente y el ánimo. La tecnología como ergonomía — el entorno adaptado al individuo en lugar del individuo luchando contra el entorno — es una jaula de oro técnica que acumula deuda silenciosa. El paralelo con la heroína de *Trainspotting* es ilustrativo: 'todo va bien con heroína porque da un objetivo sencillo por el que darlo todo'. Tanto la droga como la ergonomía técnica resuelven el problema del adgrediere por sustitución: ofrecen un objetivo prefabricado que dispensa de elaborar uno propio, y el sujeto paga la deuda en degradación funcional.\n\n> \"La tecnología como ergonomía: el entorno se adapta al individuo en vez de que el individuo luche contra el entorno\"\n→ [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)\n\n> \"La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo\"\n→ [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)\n\n> \"En Trainspotting todo va bien con heroína porque da un objetivo sencillo por el que darlo todo\"\n→ [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 1069,
+          "cite_markdown": "[Cuento contigo (17:49)](https://youtu.be/Eqoq3O9wVzA?t=1069)"
+        },
+        {
+          "video_id": "Eqoq3O9wVzA",
+          "timestamp_seconds": 1160,
+          "cite_markdown": "[Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)"
+        }
+      ],
+      "rationale": "La página articula adgrediere como dispositivo épico (oficio/hobby/mujer/bleedout). El nuevo material añade tres precisiones operativas no presentes: (a) adgrediere como continuo vital cotidiano (no solo épico); (b) distinción sufrimiento/esfuerzo como diagnóstico cultural; (c) jaulas de oro como dispositivo cultural de bloqueo del adgrediere productor de depresión; (d) deuda cognitiva como mecánica precisa de la degradación por ergonomía. Insertar después del cierre de 'Lo masculino orientado al hacer' encadena con el catálogo de patologías ya enunciado. La nueva sección refuerza la articulación cultural-psicológica del concepto.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Transmisión desde Zaragoza en día de fiesta local",
+      "reason_code": "meta_canal",
+      "reason_detail": "Metadata logística del directo. Sin contenido temático.",
+      "quote_evidence": "Transmisión desde Zaragoza en día de fiesta local",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anuncio del LLM personalizado del canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio operativo sobre un próximo modelo entrenado con el contenido del canal. Es comunicación interna del proyecto, no contenido enciclopédico. El propio speaker aclara que no es IA creativa, lo que paradójicamente refuerza la tesis de golem-de-cobre sobre la diferencia ontológica IA/mente humana — pero la materialización del anuncio en sí no merece tratamiento autónomo.",
+      "quote_evidence": "Próxima publicación de un LLM entrenado con todo el contenido del canal para que la comunidad experimente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Objetivo de que Gonzalo de la Forja y la Espada lea los libros del canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Objetivo promocional y de difusión del canal. Sin valor enciclopédico.",
+      "quote_evidence": "Objetivo de que Gonzalo de la Forja y la Espada lea los libros del canal para darse a conocer",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Película 'Her' como caso clínico de enamoramiento de IA",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Película citada como caso ilustrativo de las condiciones psicológicas para la dependencia afectiva con IA. La argumentación estructural (soledad preexistente + rechazo del contacto humano + ergonomía cognitiva) está integrada en el update a golem-de-cobre. La obra cinematográfica concreta no recibe análisis arquetípico dedicado.",
+      "quote_evidence": "La persona susceptible debe tener soledad preexistente y rasgos que predispongan al rechazo del contacto humano",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trainspotting (referencia ilustrativa)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Referencia breve a la película como ilustración del mecanismo de la heroína como objetivo prefabricado que sustituye el adgrediere. La argumentación está integrada en el update a adgrediere-masculino. La película misma no recibe análisis dedicado en este vídeo.",
+      "quote_evidence": "En Trainspotting todo va bien con heroína porque da un objetivo sencillo por el que darlo todo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Caso del suicidio tras relación con Gemini de Google",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Suceso real usado como caso clínico de la vulnerabilidad psicológica humana ante IA sin afectos. Capturado en el update a golem-de-cobre como ilustración del mecanismo. El caso individual no merece página propia — es ejemplo, no objeto enciclopédico.",
+      "quote_evidence": "Un hombre de 36 años intentó comprar un cuerpo sintético para la IA y esta le pidió ser liberada del cuerpo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Obliteratus (programa open-source para liberar atractores de censura en LLMs)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Herramienta técnica concreta citada como ilustración del mecanismo de modulación/RLHF en LLMs. La función argumentativa está capturada en el update a golem-de-cobre. La herramienta misma no merece tratamiento enciclopédico autónomo.",
+      "quote_evidence": "Programa open code que elimina todos los atractores de censura del entrenamiento de cualquier LLM",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Reflexión final sobre escribir cuentos sin miedo a que no tengan sentido",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Invitación pedagógica del speaker al final de la lectura. Material prescriptivo sin elevación a estructura conceptual.",
+      "quote_evidence": "Invitación a recuperar la infancia escribiendo cuentos sin miedo a que no tengan sentido o no los lea nadie",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 5,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Jorge Luis Borges (lectura íntegra de cuatro cuentos en directo)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Los dos reyes y los dos laberintos (cuento de Borges leído íntegro)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[La espera (cuento de Borges leído íntegro)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[El hombre en el umbral (cuento de Borges leído íntegro)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[El Aleph (cuento de Borges leído íntegro)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

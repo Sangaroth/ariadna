@@ -81,6 +81,60 @@ El canal usa el monomito menos como descripción que como herramienta crítica. 
 
 Esta lectura convierte al viaje del héroe en una **prueba de autenticidad arquetípica**: si la identificación con el héroe no exige al espectador un coste interior análogo, la obra es ornamento, no vehículo de [[individuation|cambio alquímico]].
 
+
+## Las dos fases masculinas del monomito en la lectura del canal
+
+El canal articula una segmentación propia del viaje del héroe en clave masculina y madurativa, distinta de la enumeración campbelliana de etapas (llamada, umbral, vientre de la ballena, pruebas, apoteosis, regreso). El diagnóstico parte de una observación clínica: el hombre poco hombre tiene demasiada mente implícita — no ha volcado su interior en actos suficientes para conocerse desde fuera. La construcción del varón requiere recorrer dos fases consecutivas, cada una con su misterio propio.
+
+> "El hombre poco hombre tiene demasiada mente implícita: no ha volcado su interior en actos para conocerse"
+→ [Consultorio amoroso del doctor Proxy (1:26:23)](https://youtu.be/EIGfuITdT8k?t=5183)
+
+### Primera fase: salir del seno de la madre
+
+Es el camino del héroe individual: el varón se conoce a sí mismo mediante actos propios. El conocimiento procede de fuera hacia dentro — el sujeto descubre quién es contemplando en lo que ha hecho lo que antes era implícito en él. Es el plano del individuo enfrentando el mundo a solas.
+
+> "Primera fase (salir del seno de la madre): conocerse a sí mismo mediante actos propios, el camino del héroe individual"
+→ [Consultorio amoroso del doctor Proxy (1:26:23)](https://youtu.be/EIGfuITdT8k?t=5183)
+
+### Segunda fase: salir del seno del padre
+
+Es la fase colectiva: medirse con los demás, construir vínculos, afrontar el mal exógeno. El monomito del canal exige superar primero los misterios conocidos (seno materno) y después los desconocidos (más allá del padre). La incapacidad para hablarle a una mujer es síntoma directo del bloqueo en esta fase: revela que el sujeto no está dispuesto a sacrificarse frente a lo desconocido.
+
+> "Segunda fase (salir del seno del padre): medirse con los demás, construir vínculos, afrontar el mal exógeno"
+→ [Consultorio amoroso del doctor Proxy (1:26:23)](https://youtu.be/EIGfuITdT8k?t=5183)
+
+> "El mito del héroe exige superar primero los misterios conocidos (seno materno) y luego los desconocidos (más allá del padre)"
+→ [Consultorio amoroso del doctor Proxy (1:29:55)](https://youtu.be/EIGfuITdT8k?t=5395)
+
+> "Si un hombre no puede hablarle a una mujer es porque no está dispuesto a sacrificarse frente a lo desconocido"
+→ [Consultorio amoroso del doctor Proxy (1:29:55)](https://youtu.be/EIGfuITdT8k?t=5395)
+
+### Diagnóstico cultural: ausencia de ritos de paso masculinos
+
+La lectura cierra con un diagnóstico cultural: hoy no existe infraestructura ni ritos de paso masculinos que organicen estas dos fases. La mili era un rito de paso (con sus limitaciones culturales propias) que la sociedad ha desactivado sin ofrecer sustituto. El bloqueo en cualquiera de las dos fases queda así sin contención institucional.
+
+> "Hoy no hay infraestructura ni ritos de paso masculinos; la mili era uno pero culturalmente limitado"
+→ [Consultorio amoroso del doctor Proxy (1:26:23)](https://youtu.be/EIGfuITdT8k?t=5183)
+
+### Las cuatro prescripciones del canal
+
+Frente a esa ausencia el canal ofrece cuatro prescripciones reproducibles que, articuladas, recorren las dos fases:
+
+> "Cuatro prescripciones: deporte de contacto o baile, un hobby desafiante solo para ti, relaciones personales sin sobreimplicación, cultivar el intelecto en algo concreto"
+→ [Consultorio amoroso del doctor Proxy (1:29:55)](https://youtu.be/EIGfuITdT8k?t=5395)
+
+Las cuatro coordinan cuerpo (deporte de contacto o baile), proyecto propio (hobby desafiante solo para sí mismo), inserción social (vínculos sin sobreimplicación) e inteligencia aplicada (cultivar el intelecto al máximo en algo concreto). El canal advierte que al inicio del recorrido conviene **no aparentar ser lo que aún no se es** — el camino del héroe se construye desde el acto, no desde la fachada.
+
+### Recuperación con padre ausente
+
+El caso límite — el varón cuyo padre fue ausente — no impide la segunda fase pero la vuelve más difícil. La estructura terapéutica que el canal ofrece es identificar el seno (lo que cumplía la función paterna), abandonarlo y sustituirlo por las cuatro prescripciones canalizadas con disciplina.
+
+> "Es posible y muy difícil salir del seno del padre si fue ausente; hay que identificar el seno, abandonarlo y sustituirlo"
+→ [Consultorio amoroso del doctor Proxy (1:35:37)](https://youtu.be/EIGfuITdT8k?t=5737)
+
+La segmentación cae lateralmente sobre el [[adgrediere-masculino|adgrediere]]: la pulsión arquetípica de avanzar contra la oposición es el motor que mueve al varón por las dos fases, y los cuatro objetos prescritos son cristalizaciones canalizadas de esa pulsión en clave individuativa.
+
+
 ## Conexión con otros conceptos
 
 - Es el dispositivo narrativo de la [[individuation]]: la psique se identifica con el viaje y vive en seguridad simbólica un proceso de integración real
@@ -101,7 +155,13 @@ Esta lectura convierte al viaje del héroe en una **prueba de autenticidad arque
 
 
 
+
+
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
+- **Consultorio amoroso del doctor Proxy** — chunks: [1:26:23](https://youtu.be/EIGfuITdT8k?t=5183) · [1:35:37](https://youtu.be/EIGfuITdT8k?t=5737)
+- **Consultorio EXIT INSIDE** — chunks: [1:15:57](https://youtu.be/IP9f-1gSJ1c?t=4557) · [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
+- **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:08:37](https://youtu.be/_0BM2jMsWdc?t=4117)
 

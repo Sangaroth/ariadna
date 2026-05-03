@@ -1,0 +1,416 @@
+{
+  "video_id": "IP9f-1gSJ1c",
+  "video_title": "Consultorio EXIT INSIDE",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Mercánica del mercado afectivo digital (oferta abrumadora, miedo al reemplazo, inversión del mercado, amor líquido como trauma generacional)",
+      "canonical_guess": "consumismo-critica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las relaciones líquidas no son amor sino tendencia a satisfacción inmediata sin compromiso, alimentada por la ansiedad de encontrar algo mejor"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La oferta digital de mujeres hiper-disponibles visualmente genera una demanda masculina abrumadora que paraliza en lugar de activar"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los hombres están dejando de iniciar contacto mientras las mujeres empiezan a estar desesperadas sin entender la causa"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Aproximadamente 25 minutos sostenidos articulando la mecánica estructural del mercado afectivo digital. La página consumismo-critica ya tiene una sección 'Manifestación canónica: las apps de citas' con dos citas de este mismo vídeo (52:41, 57:14) extraídas en pase anterior — pero el material recuperado allí es descriptivo (catálogo, perfiles, monosílabos) y NO captura las tesis estructurales: (a) oferta abrumadora masculina como mecanismo psicológico inédito; (b) sensación masculina de 'es tu turno' frente a 10.000 millones de opciones; (c) inversión del mercado afectivo (mujeres ahora desesperadas); (d) amor líquido como consecuencia del trauma de abandono generacional; (e) Estado del bienestar como dispositivo que no prepara para vínculos profundos; (f) vínculos parasociales como falsa cercanía; (g) expectativas trampa elaboradas en soledad/redes; (h) love bombing como desesperación generacional, NO estrategia maquiavélica calculada. Material genuinamente nuevo respecto al cuerpo leído.",
+      "quote_evidence": "Lo que antes se resolvía eligiendo entre cinco mujeres del pueblo ahora implica decenas de miles de opciones, lo cual es psicológicamente inédito"
+    },
+    {
+      "surface_form": "Síndrome del niño masculino (hombre que no ha elaborado camino del héroe + carencia de figura paterna)",
+      "canonical_guess": "sindrome-del-nino-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El niño es el hombre que no ha elaborado un camino del héroe y tiene carencia de figura paterna fuerte"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Estos varones se juntan en grupos cuya función es la evitación de la realidad: juegan videojuegos, rol, se bajan al bar, hasta los 30 haciendo cosas de 16"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El hombre sano se adapta a cualquier ambiente (soledad, pareja, familia, grupo) sin necesitarlo ni depender de ello"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "El canal articula 'el síndrome del niño' como categoría clínica masculina con definición operativa, etiología (no camino del héroe + ausencia paterna), manifestación grupal (vínculos evitativos perpetuados de la infancia), distinción adaptativo/patológico (grupos infantiles naturales vs adultos patológicos), vía de salida (mejor solo que en grupo insatisfactorio) y estado terminal (hombre sano = adaptación sin dependencia). ~15 min sustained y referido como término asumido ('El niño es el hombre que...') = assumed-prior. Es el complemento masculino estructural del [[sindrome-wendy]] cuya página actual tiene sección 'Versión masculina del síndrome' centrada en la huida de Harry Potter — pero NO captura este patrón distinto (el hombre adulto encerrado en grupos infantiles perpetuados). Promoción justificada por assumed-prior + claridad estructural + simetría con la página feminina canon.",
+      "quote_evidence": "El niño es el hombre que no ha elaborado un camino del héroe y tiene carencia de figura paterna fuerte"
+    }
+  ],
+  "promote_new": [
+    {
+      "page_id": "sindrome-del-nino-masculino",
+      "canonical_name": "Síndrome del niño (configuración masculina del varón no desarrollado)",
+      "aliases": [
+        "sindrome del nino",
+        "el niño",
+        "hombre niño",
+        "varón no desarrollado",
+        "hombre que no ha elaborado el camino del héroe"
+      ],
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "primary_domains": [
+        "social.psychology.jungian",
+        "social.psychology",
+        "interdisciplinary.cultural_studies"
+      ],
+      "relations": [
+        {
+          "type": "inverts",
+          "to": "sindrome-wendy",
+          "weight": "canonical",
+          "note": "complemento masculino del síndrome de Wendy: donde la Wendy femenina queda atrapada esperando al héroe imaginario, el niño masculino queda atrapado en grupos evitativos perpetuados de la infancia sin llegar a iniciar el camino del héroe"
+        },
+        {
+          "type": "inverts",
+          "to": "viaje-heroe",
+          "weight": "canonical",
+          "note": "el síndrome del niño es la patología negativa del monomito masculino: el varón que no ha cruzado las dos fases (salir del seno materno y del seno paterno) y permanece en infancia funcional perpetua"
+        },
+        {
+          "type": "compared_with",
+          "to": "adgrediere-masculino",
+          "weight": "strong",
+          "note": "el adgrediere bloqueado por ausencia de objeto cristaliza en formas evitativas (videojuegos, rol, bar) en lugar de canalizarse en oficio, hobby desafiante propio o vínculo con mujer"
+        },
+        {
+          "type": "process_of",
+          "to": "individuation",
+          "weight": "strong",
+          "note": "el síndrome describe una detención en el proceso de individuación masculina: el varón no ha integrado material que requiere salir del grupo evitativo y enfrentar la soledad del recorrido propio"
+        },
+        {
+          "type": "references",
+          "to": "consumismo-critica",
+          "weight": "weak",
+          "note": "los grupos evitativos del niño se sostienen sobre dispositivos consumistas (videojuegos, redes, ocio horizontal) que el canal critica como estructura cultural"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Definición",
+          "body": "El **síndrome del niño** es la categoría que el canal usa para nombrar al varón adulto que no ha elaborado el camino del héroe ni cuenta con figura paterna fuerte de referencia. Es categoría arquetípica-clínica, no diagnóstico DSM: describe una configuración psíquica masculina caracterizada por la **detención en infancia funcional** prolongada hacia la adultez biológica.",
+          "supporting_quotes": [
+            {
+              "quote": "El niño es el hombre que no ha elaborado un camino del héroe y tiene carencia de figura paterna fuerte",
+              "cite_markdown": "[Consultorio EXIT INSIDE (1:47:48)](https://youtu.be/IP9f-1gSJ1c?t=6468)"
+            }
+          ]
+        },
+        {
+          "section": "Manifestación: grupos evitativos como infraestructura del bloqueo",
+          "body": "La manifestación social del síndrome es agrupativa: estos varones se juntan en grupos cuya **función latente es la evitación de la realidad**. Los códigos del grupo (juegos de rol, videojuegos, rituales de bar) son la coartada socializada de un patrón evitativo individual. La cifra emblemática: 'hasta los 30 haciendo cosas de 16'.",
+          "supporting_quotes": [
+            {
+              "quote": "Estos varones se juntan en grupos cuya función es la evitación de la realidad: juegan videojuegos, rol, se bajan al bar, hasta los 30 haciendo cosas de 16",
+              "cite_markdown": "[Consultorio EXIT INSIDE (1:47:48)](https://youtu.be/IP9f-1gSJ1c?t=6468)"
+            }
+          ]
+        },
+        {
+          "section": "Adaptativo en la infancia, patológico en la adultez",
+          "body": "El canal hace una distinción crucial: los grupos infantiles basados en carencias compartidas son naturales y adaptativos en un entorno antinatural como la escuela. Lo patológico no es haberlos formado sino llevarlos sin transformación a la adultez. Lo que en la niñez fue refugio funcional ('cojear de la misma pata') deviene en la madurez encierro mutuo donde lo único compartido es el deseo de escapar del mundo real.",
+          "supporting_quotes": [
+            {
+              "quote": "Los vínculos de infancia son viscerales y se hacen con gente que \"cojea de la misma pata\", lo cual es natural pero se vuelve patológico si se perpetúa en la adultez",
+              "cite_markdown": "[Consultorio EXIT INSIDE (1:47:48)](https://youtu.be/IP9f-1gSJ1c?t=6468)"
+            },
+            {
+              "quote": "Los grupos de amigos infantiles basados en carencias compartidas son naturales y adaptativos en un entorno antinatural como la escuela",
+              "cite_markdown": "[Consultorio EXIT INSIDE (1:55:24)](https://youtu.be/IP9f-1gSJ1c?t=6924)"
+            },
+            {
+              "quote": "Lo patológico es llevar esa mecánica a la adultez: huir del mundo real encerrándote con gente con quien no compartes más que querer escapar",
+              "cite_markdown": "[Consultorio EXIT INSIDE (1:55:24)](https://youtu.be/IP9f-1gSJ1c?t=6924)"
+            }
+          ]
+        },
+        {
+          "section": "Vía de salida: la soledad antes del grupo insatisfactorio",
+          "body": "La prescripción que el canal ofrece es contraintuitiva: el hombre crece mejor en soledad que en grupo. Mejor solo frente a la ansiedad — porque la ansiedad enfrentada produce el material individuativo — que con vínculos insatisfactorios que impiden el desarrollo precisamente porque mitigan el malestar sin elaborarlo. El síndrome del niño se cura abandonando el grupo, no encontrando otro mejor.",
+          "supporting_quotes": [
+            {
+              "quote": "El hombre crece en soledad mejor que en grupo; mejor solo frente a la ansiedad que con vínculos insatisfactorios que impiden el desarrollo",
+              "cite_markdown": "[Consultorio EXIT INSIDE (1:55:24)](https://youtu.be/IP9f-1gSJ1c?t=6924)"
+            }
+          ]
+        },
+        {
+          "section": "El estado terminal: el hombre sano como adaptación sin dependencia",
+          "body": "El opuesto curado del niño es **el hombre sano**, definido por una capacidad operativa: adaptarse a cualquier ambiente (soledad, pareja, familia, grupo) sin necesitarlo ni depender de él. La salud masculina es la libertad interior de saber que si todas esas configuraciones desaparecieran no pasaría nada esencial. La adaptación funcional no implica dependencia afectiva.",
+          "supporting_quotes": [
+            {
+              "quote": "El hombre sano se adapta a cualquier ambiente (soledad, pareja, familia, grupo) sin necesitarlo ni depender de ello",
+              "cite_markdown": "[Consultorio EXIT INSIDE (2:01:56)](https://youtu.be/IP9f-1gSJ1c?t=7316)"
+            },
+            {
+              "quote": "La salud masculina consiste en saber que si todas esas cosas desaparecieran no pasaría nada",
+              "cite_markdown": "[Consultorio EXIT INSIDE (2:01:56)](https://youtu.be/IP9f-1gSJ1c?t=7316)"
+            }
+          ]
+        },
+        {
+          "section": "Distinción frente a las degeneraciones masculinas adyacentes",
+          "body": "El canal distingue al niño de otras dos configuraciones masculinas patológicas que también fracasan en el vínculo: el **tirano** (hombre que compite pasivo-agresivamente con otros varones por dominio simbólico) y la **bestia** (hombre que solo se relaciona con otros para destruirlos físicamente). Los tres son fracasos del adgrediere — bloqueo en el niño, perversión competitiva en el tirano, perversión depredadora en la bestia.",
+          "supporting_quotes": [
+            {
+              "quote": "Los hombres tiranos compiten pasivo-agresivamente entre sí; las bestias no se juntan con otros hombres salvo para destruirlos físicamente",
+              "cite_markdown": "[Consultorio EXIT INSIDE (2:01:56)](https://youtu.be/IP9f-1gSJ1c?t=7316)"
+            }
+          ]
+        },
+        {
+          "section": "Conexión con otros conceptos",
+          "body": "- Es la inversión estructural masculina del [[sindrome-wendy]] que el canal articula como configuración temprana del [[anima-archetype]]\n- Su núcleo etiológico — no haber elaborado el camino del héroe — lo conecta directamente con [[viaje-heroe]] y con las dos fases masculinas (salir del seno materno y del paterno) que el canal articula\n- El bloqueo del [[adgrediere-masculino]] por ausencia de objeto cristaliza en las formas evitativas que el síndrome describe (videojuegos, rol, bar)\n- Forma parte del cuadro patológico que el canal contrapone al proceso de [[individuation]]: el niño es la psique que rehúye el material individuativo refugiándose en el grupo evitativo perpetuado"
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "video_title": "Consultorio EXIT INSIDE",
+          "timestamps_seconds": [
+            6468,
+            6924,
+            7316
+          ]
+        }
+      ]
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La lectura del canal: las apps no causan el problema sino que **amplifican y aceleran** una mercantilización afectiva ya presente. Las personas operan en formato catálogo porque el resto del entorno cultural ya las ha reducido a productos elegibles.",
+      "content_proposed": "\n## Mecánica estructural del mercado afectivo digital\n\nMás allá de la descripción del catálogo, el canal articula la **mecánica estructural** del mercado afectivo digital identificando tres asimetrías inéditas y una consecuencia generacional.\n\n### Oferta abrumadora masculina y parálisis paradójica\n\nLo que antes se resolvía eligiendo entre cinco mujeres del pueblo ahora implica decenas de miles de opciones — situación **psicológicamente inédita** en la historia humana. La oferta digital de mujeres hiper-disponibles visualmente no activa al varón promedio sino que lo paraliza: el cerebro masculino no está calibrado para procesar ese volumen, y el resultado es la inhibición del inicio.\n\n> \"La oferta digital de mujeres hiper-disponibles visualmente genera una demanda masculina abrumadora que paraliza en lugar de activar\"\n→ [Consultorio EXIT INSIDE (43:07)](https://youtu.be/IP9f-1gSJ1c?t=2587)\n\n> \"Lo que antes se resolvía eligiendo entre cinco mujeres del pueblo ahora implica decenas de miles de opciones, lo cual es psicológicamente inédito\"\n→ [Consultorio EXIT INSIDE (43:07)](https://youtu.be/IP9f-1gSJ1c?t=2587)\n\n### Miedo al reemplazo: la sensación masculina de 'es tu turno'\n\nDel lado masculino, la abundancia digital femenina produce una segunda asimetría: cuando una mujer dice que sí, el hombre no lo siente como elección definitiva sino como **turno temporal para demostrar valor**. La mujer tiene acceso a 10.000 millones de opciones potenciales en lugar de las dos o tres del entorno reducido, y la competencia se vuelve estructuralmente imposible. La angustia masculina no es de inadecuación abstracta sino de inminente reemplazo.\n\n> \"Los hombres sienten que cuando una mujer dice que sí, no es una elección definitiva sino un turno temporal para demostrar valor\"\n→ [Consultorio EXIT INSIDE (48:08)](https://youtu.be/IP9f-1gSJ1c?t=2888)\n\n> \"La mujer tiene acceso a 10.000 millones de opciones mejores en lugar de dos o tres en un grupo reducido, lo que genera una competencia imposible\"\n→ [Consultorio EXIT INSIDE (48:08)](https://youtu.be/IP9f-1gSJ1c?t=2888)\n\n### Amor líquido como consecuencia del trauma de abandono generacional\n\nLa categoría 'relaciones líquidas' no nombra para el canal una variante moderna del amor sino su **negación funcional**: tendencia a la satisfacción inmediata sin compromiso, alimentada por la ansiedad de encontrar algo mejor en cuanto el algoritmo lo sugiere. La causa profunda no es individual sino generacional: millennials y post-millennials cargan un trauma de abandono colectivo que el canal califica de 'bastante hardcore'.\n\n> \"Las relaciones líquidas no son amor sino tendencia a satisfacción inmediata sin compromiso, alimentada por la ansiedad de encontrar algo mejor\"\n→ [Consultorio EXIT INSIDE (48:08)](https://youtu.be/IP9f-1gSJ1c?t=2888)\n\n> \"Los millennials y post-millennials cargan un trauma de abandono generacional que es \\\"bastante hardcore\\\"\"\n→ [Consultorio EXIT INSIDE (50:41)](https://youtu.be/IP9f-1gSJ1c?t=3041)\n\n### Inversión del mercado: las mujeres descubren la soledad estructural\n\nLa cuarta asimetría es temporal: el mercado se está invirtiendo. Los hombres están dejando de iniciar contacto mientras las mujeres empiezan a estar desesperadas sin entender la causa. Lo que las mujeres pensaban que querían — estar solas — era en realidad otra cosa: pasarla bien con amigas y tener un hombre disponible ocasionalmente. La diferencia entre las dos configuraciones se hace visible solo cuando la oferta masculina se retira.\n\n> \"Los hombres están dejando de iniciar contacto mientras las mujeres empiezan a estar desesperadas sin entender la causa\"\n→ [Consultorio EXIT INSIDE (1:00:15)](https://youtu.be/IP9f-1gSJ1c?t=3615)\n\n> \"El Estado del bienestar no prepara para formar familia ni vínculos profundos sino solo para el siguiente paso inmediato\"\n→ [Consultorio EXIT INSIDE (1:00:15)](https://youtu.be/IP9f-1gSJ1c?t=3615)\n\n### Love bombing como desesperación, no como estrategia\n\nLa lectura popular del love bombing como 'red flag narcisista calculada' es para el canal **inversión causal**. El love bombing histriónico calculado es el más infrecuente de todos los tipos. La gran mayoría no es estrategia maquiavélica sino producto de la desesperación generacional: en cuanto empieza una relación, la persona cree que le salvará del abandono y vuelca toda la intensidad acumulada. Las mujeres borderline lo practican para disfrutarlo ellas mismas, no para enganchar al otro — quieren la intensidad máxima en el mínimo tiempo. Que el receptor se vea afectado por el love bombing revela ya un terreno previo (síndrome de ninfa, expectativa trampa) tanto como una operación del emisor.\n\n> \"No es una estrategia calculada sino producto de la desesperación: en cuanto empieza una relación, la persona cree que le salvará del abandono\"\n→ [Consultorio EXIT INSIDE (1:18:29)](https://youtu.be/IP9f-1gSJ1c?t=4709)\n\n> \"Las mujeres borderline hacen love bombing para disfrutarlo ellas mismas, no para enganchar al otro: quieren la intensidad máxima en el mínimo tiempo\"\n→ [Consultorio EXIT INSIDE (1:18:29)](https://youtu.be/IP9f-1gSJ1c?t=4709)\n\n### Vínculos parasociales y expectativa trampa\n\nEl último mecanismo es la confusión entre cercanía digital y cercanía real. Tener a alguien al alcance de Twitter genera la sensación falsa de que ya existe vínculo de confianza. En la vida real nadie es tan espontáneo como en redes; la gente llega segura de que todo fluirá y el frenazo genera crisis de autoestima. El bucle de soledad alimenta el problema: cuanto más tiempo se está solo o en redes (que el canal trata como equivalentes), más elabora la cabeza el vínculo perfecto ideal e inalcanzable.\n\n> \"Tener a alguien al alcance de Twitter genera la sensación falsa de que ya existe un vínculo de confianza\"\n→ [Consultorio EXIT INSIDE (1:45:17)](https://youtu.be/IP9f-1gSJ1c?t=6317)\n\n> \"Cuanto más tiempo estés solo o en redes (que es lo mismo), más elaborará tu cabeza el vínculo perfecto ideal e inalcanzable\"\n→ [Consultorio EXIT INSIDE (1:45:17)](https://youtu.be/IP9f-1gSJ1c?t=6317)\n\nLa expectativa trampa cierra el circuito: todos los vínculos que fracasan o decepcionan se han elaborado bajo una expectativa **profundamente ideal y desmesurada de la que nadie habla**. La sociedad del bienestar ha vendido que todos ya somos amigos eliminando la necesidad percibida de construir vínculos reales — y la propaganda cultural de que 'todos estamos unidos en democracia' fabrica la ilusión de que el vínculo ya está formado sin esfuerzo, dejando inermes a quienes después descubren su ausencia.\n\n> \"Todos los vínculos que fracasan o decepcionan se han elaborado bajo una expectativa profundamente ideal y desmesurada de la que nadie habla\"\n→ [Consultorio EXIT INSIDE (1:41:45)](https://youtu.be/IP9f-1gSJ1c?t=6105)\n\n> \"En la sociedad del bienestar nos han vendido que todos ya somos amigos, eliminando la necesidad percibida de construir vínculos reales\"\n→ [Consultorio EXIT INSIDE (1:41:45)](https://youtu.be/IP9f-1gSJ1c?t=6105)\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "timestamp_seconds": 2587,
+          "cite_markdown": "[Consultorio EXIT INSIDE (43:07)](https://youtu.be/IP9f-1gSJ1c?t=2587)"
+        },
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "timestamp_seconds": 2888,
+          "cite_markdown": "[Consultorio EXIT INSIDE (48:08)](https://youtu.be/IP9f-1gSJ1c?t=2888)"
+        },
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "timestamp_seconds": 3041,
+          "cite_markdown": "[Consultorio EXIT INSIDE (50:41)](https://youtu.be/IP9f-1gSJ1c?t=3041)"
+        },
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "timestamp_seconds": 3615,
+          "cite_markdown": "[Consultorio EXIT INSIDE (1:00:15)](https://youtu.be/IP9f-1gSJ1c?t=3615)"
+        },
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "timestamp_seconds": 4709,
+          "cite_markdown": "[Consultorio EXIT INSIDE (1:18:29)](https://youtu.be/IP9f-1gSJ1c?t=4709)"
+        },
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "timestamp_seconds": 6105,
+          "cite_markdown": "[Consultorio EXIT INSIDE (1:41:45)](https://youtu.be/IP9f-1gSJ1c?t=6105)"
+        },
+        {
+          "video_id": "IP9f-1gSJ1c",
+          "timestamp_seconds": 6317,
+          "cite_markdown": "[Consultorio EXIT INSIDE (1:45:17)](https://youtu.be/IP9f-1gSJ1c?t=6317)"
+        }
+      ],
+      "rationale": "La página actual tiene una sección 'Manifestación canónica: las apps de citas' con dos citas de este vídeo (52:41, 57:14) extraídas en pase previo. El material capturado allí es DESCRIPTIVO (catálogo, perfiles, monosílabos). La nueva sección añade la articulación ESTRUCTURAL del mercado afectivo digital con seis mecanismos distintos (oferta abrumadora, miedo al reemplazo, amor líquido como trauma generacional, inversión del mercado, love bombing como desesperación, vínculos parasociales / expectativa trampa). Insertar después del cierre de la sección apps-de-citas extiende la página de la descripción al diagnóstico estructural de la mercantilización afectiva. insert_after_passage es el tipo correcto.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Threads como red social de ninfas digitales (estado primitivo de Twitter)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Apertura del bloque sobre mercado afectivo digital. La observación sobre Threads/Instagram como dinámica vacía de perfil-producto está integrada implícitamente en el update a consumismo-critica como caso del catálogo. La plataforma misma no merece tratamiento autónomo.",
+      "quote_evidence": "Threads reproduce el estado primitivo de Twitter donde todos quieren \"hacerse amiguis\", revelando la superficialidad del vínculo digital",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tres formas del mal femenino contemporáneo (ninfa, Wendy, bruja) — libro Polaris",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve a la tipología canon del canal de tres degeneraciones femeninas (ninfa, Wendy, bruja) atribuida al libro Polaris del propio canal. Las tres figuras tienen tratamientos parciales en wiki (sindrome-wendy existe; ninfa aparece en anima-archetype como mutación de Wendy; bruja sin tratamiento). La mención aquí es demasiado breve para promoción individual de 'bruja' o de 'tipología-polaris-femenina' pero merece flag por canon-canal.",
+      "quote_evidence": "Las tres clases de degeneración femenina contemporánea corresponden a las del libro Polaris: ninfa, Wendy y bruja",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la tipología Polaris (ninfa/Wendy/bruja) reaparece en otros vídeos del corpus podría justificar una página synthesis 'tipologia-femenina-en-polaris' o página propia para 'bruja' como tercer término no cubierto. La cita enriquece anima-archetype donde la mutación Wendy→ninfa ya está articulada.",
+      "enriches_concept": "anima-archetype",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Inteligencia femenina maquiavélica (mujeres con inteligencia no utilizada)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación breve sobre la canalización maquiavélica de la inteligencia femenina no aplicada. Demasiado breve para articulación enciclopédica; podría conectarse con la 'bruja' del libro Polaris si esa tipología se desarrollara.",
+      "quote_evidence": "Hay mujeres inteligentes que nunca han necesitado usar su inteligencia y la han canalizado en ser \"maquiavélicas\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Paternidad: padre torpe pero presente vs madre soltera",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Consejo práctico del consultorio sobre paternidad y separación. Argumento sobre 'siempre mejor con padre que sin padre' es prescripción pragmática sin elevación a estructura arquetípica. No hay marco teórico aplicado más allá del sentido común parental.",
+      "quote_evidence": "Siempre es mejor con padre que sin padre, siempre que el hombre sea buena persona aunque parezca torpe o frágil",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Neurosis patética como obstáculo para la paternidad",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Consejo práctico al consultorio: el padre debe primero abandonar su lucha neurótica antes de poder serlo bien. La conexión 'aceptar camino del héroe' enriquece tangencialmente viaje-heroe pero el material es prescriptivo, no articulación enciclopédica nueva.",
+      "quote_evidence": "No serás buen padre hasta que no seas buena persona, lo cual significa liberarte de tu propia lucha neurótica",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Padre esquizotípico como maestro invaluable para hijo similar",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Consejo individual del consultorio sobre rasgo esquizotípico como ventaja paterna en transmisión. Sin marco enciclopédico generalizable.",
+      "quote_evidence": "Ser esquizotípico no impide ser buen padre: si el hijo hereda ese rasgo, tendrá un maestro invaluable",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Iluminadas de Instagram y la red flag del love bombing",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica a la pop psychology de redes que define love bombing como red flag narcisista. La argumentación estructural (que el love bombing es desesperación generacional, no estrategia) ya está capturada en el update a consumismo-critica. Las 'iluminadas de Instagram' como categoría no merece tratamiento autónomo.",
+      "quote_evidence": "Las \"iluminadas\" de Instagram definen el love bombing como estrategia narcisista masculina, pero si te afecta es porque tienes síndrome de ninfa",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Problemas de socialización divididos en dos (no encuentro vs no soy capaz) y autoconcepto como 90% de la autoestima",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Articulación del canal sobre la división de problemas de socialización entre proyección al exterior y problema de autoconcepto. Material clínico-divulgativo; ~10 min de exposición pero más cercano a aclaración pedagógica que a tesis original. Podría enriquecer una futura página sobre autoestima/autoconcepto si el canal la desarrolla.",
+      "quote_evidence": "Los problemas de socialización se dividen en dos: \"no encuentro a nadie que me guste\" (proyección al exterior) y \"no soy capaz de conectar\" (problema de autoconcepto)",
+      "review_priority": "medium",
+      "review_priority_reason": "Material conceptual clínico de ~10 min sobre autoestima cualitativa vs cuantitativa que podría justificar página propia si reaparece como recurrente del canal.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hacer amigos de adultos vs de niños / decepción inevitable / expectativas trampa",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Consejo práctico final del consultorio sobre amistad adulta y manejo de expectativas. La argumentación estructural sobre expectativas trampa está integrada en el update a consumismo-critica. Las prescripciones operativas (buscar contextos, ir solo, dejar surgir orgánicamente) son consejo aplicado sin contenido enciclopédico nuevo.",
+      "quote_evidence": "Hacer amigos de adultos no funciona igual que de niños: hay que buscar contextos donde quieras verte, ir solo, y dejar que surja orgánicamente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mujer que es cajera de supermercado en apps (dinámica de monosílabos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización descriptiva de la dinámica conversacional en apps. Ya está capturada en consumismo-critica desde la extracción anterior de este vídeo (cita 57:14).",
+      "quote_evidence": "Mujeres dan like pero responden con monosílabos desesperantes, generando una dinámica de cajera de supermercado",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El hombre debe fingir canalla o ser genuino sin respuesta (dilema masculino en apps)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación sobre el dilema masculino en apps. Material descriptivo ya integrado en la sección apps de citas de consumismo-critica desde extracción previa.",
+      "quote_evidence": "El hombre queda atrapado entre fingir ser canalla (lo que funciona pero es arriesgado) o ser genuino (lo que no genera respuesta)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El 2% de hombres que sabe que puede acceder físicamente a quien quiera",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación numérica sobre la asimetría del éxito masculino. Marginalmente integrable en el update; sin desarrollo estructural propio.",
+      "quote_evidence": "El hombre nunca se cree merecedor de la mujer salvo un 2% que sabe que puede acceder físicamente a quien quiera",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Diferencia entre love bombing masculino (romántico-histriónico) y femenino (sexual-invasivo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización fenomenológica de la diferencia operativa entre love bombing masculino y femenino. Material descriptivo integrado parcialmente en el update; sin desarrollo arquetípico autónomo.",
+      "quote_evidence": "El love bombing masculino es romántico, exagerado e histriónico; el femenino es más hábil, sexual y de invasión rápida del espacio vital",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las mujeres no saben lo que quieren (síndrome de Wendy aplicado al ligue)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Aplicación del síndrome de Wendy (página existente) al contexto del ligue digital. La articulación ('confunden lo que les ha gustado en el pasado con lo que les gusta') es consistente con anima-archetype y sindrome-wendy ya capturados; aquí se usa como herramienta interpretativa sin elevación nueva.",
+      "quote_evidence": "Las mujeres confunden lo que les ha gustado en el pasado con lo que les gusta, pero el mismo rasgo en otro hombre puede no funcionar",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Síndrome del niño masculino (hombre que no ha elaborado camino del héroe + carencia de figura paterna)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

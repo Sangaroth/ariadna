@@ -63,7 +63,45 @@ Una precisión recurrente del canal: ánima/ánimus **no se refieren a hombre/mu
 
 Esta lectura del canal **extiende** a Jung: no solo es un arquetipo contrasexual de cada individuo, sino una estructura polar que organiza la cognición misma (concreto/abstracto, explícito/implícito, acción/recepción).
 
-> "Lo masculino se define como la parte del yo que efectúa actos más allá de la zona de control. El cerebro mantiene permanentemente representaciones de control motor sobre los objetos, independientemente de la voluntad o planificación."
+> "Lo masculino se define como la parte del yo que efectúa actos más allá de la zona de control. El cerebro mantiene permanentemente representaciones de control motor sobre los objetos, independientemente de la voluntad o planificación.
+
+
+## Sustrato biológico y casos contemporáneos
+
+El canal sostiene en directo extenso que la atracción por la feminidad dulce no es construcción cultural sino **estructura biológica arquetípica reconocible empíricamente**. La articulación tiene dos planos: una tesis fuerte sobre el orden de causalidad (el acto es consecuencia de la naturaleza, no a la inversa) y un sustento neurocientífico citado del estudio de Stanford sobre huellas cerebrales no solapadas entre sexos.
+
+> "La atracción por la feminidad dulce no es un estereotipo aprendido sino una estructura biológica arquetípica que existe en la cabeza de todos los humanos"
+→ [Conspiración (49:03)](https://youtu.be/K97ZzKXY0oI?t=2943)
+
+> "No nos convertimos en lo que hacemos sino que terminamos haciendo aquello que somos: el acto es consecuencia, no causa"
+→ [Conspiración (49:03)](https://youtu.be/K97ZzKXY0oI?t=2943)
+
+La fórmula "el acto es consecuencia, no causa" condensa el orden ontológico del marco: el comportamiento manifestado revela la estructura previa del psiquismo, no la genera. Las chicas que rechazan la fundy baby voice no la rechazan por crítica racional al patriarcado sino por envidia ante un atractivo cuyo sustrato biológico no pueden reproducir.
+
+### Sustento neurocientífico citado
+
+> "Investigadores usaron inteligencia artificial para examinar huellas dactilares de actividad cerebral en reposo de unos 1500 adultos jóvenes"
+→ [Conspiración (1:05:40)](https://youtu.be/K97ZzKXY0oI?t=3940)
+
+> "No encontraron solapamiento entre las huellas cerebrales femeninas y masculinas: no existe un continuo entre cerebros de hombres y mujeres"
+→ [Conspiración (1:05:40)](https://youtu.be/K97ZzKXY0oI?t=3940)
+
+El canal asume la metodología como criticable (la IA encuentra patrones según lo que se le pide buscar) pero subraya que las diferencias no solapadas existen aunque no se sepa exactamente cuáles son. La cita opera como sustento empírico para la afirmación arquetípica de que ánima/ánimus tienen base biológica medible y no son construcciones puramente representacionales.
+
+### Instinto femenino de protección como rasgo arquetípico
+
+La lectura se extiende al instinto de protección, que el canal sitúa arquetípicamente orientado a la propia descendencia y no al combate por terceros. El argumento aparece a propósito del servicio secreto estadounidense feminizado por cuotas, donde las agentes femeninas buscan cobertura para sí mismas mientras los masculinos hacen barricada de cuerpo:
+
+> "Las mujeres no deben estar en primera línea de fuego: sus cuerpos e instintos están orientados a la protección de sus propios hijos, no a la protección de otros bajo fuego"
+→ [Conspiración (33:28)](https://youtu.be/K97ZzKXY0oI?t=2008)
+
+### Identificación proyectiva como defensa contra el arquetipo
+
+La identificación proyectiva — haberse creado un enemigo y necesitar verlo donde no existe — opera, en la lectura del canal, como mecanismo de defensa de quien no puede asumir su propia exclusión del arquetipo. La indignación de la crítica feminista contemporánea ante la manifestación dulce de la feminidad denunciaría no la pantomima como pantomima, sino el hecho de que el atractivo funciona — invalidando empíricamente el discurso que la crítica defiende.
+
+> "Lo que le indigna es que la realidad demuestra que a la gente le gusta este tipo de feminidad, lo cual invalida su discurso"
+→ [Conspiración (45:32)](https://youtu.be/K97ZzKXY0oI?t=2732)
+"
 → [En Busca de la Diosa Blanca, 00:42](https://youtu.be/llS9fqsNVvY?t=42)
 
 ## Manifestaciones según el corpus Proxy
@@ -127,6 +165,62 @@ El canal aplica recurrentemente ánima/ánimus a la fenomenología del enamorami
   → [Frozen, 1:42:41](https://youtu.be/NYZEm8mcPiQ?t=6161)
 
 - **"Las mujeres se enamoran de lo que oyen"**: para enamorar a una mujer cuéntale una historia y hazla soñar. Las mujeres necesitan una composición de lugar para idealizar una vida contigo. El síndrome de Wendy explica por qué cuando la imagen idealizada se desmorona, la mujer cambia de pareja
+
+
+### Mecánica operativa del cortejo: prueba y error masculina, identificación implícita femenina
+
+El canal articula la polaridad explícito/implícito en su forma operativa concreta del cortejo. La mente femenina opera mayoritariamente con representaciones implícitas en el terreno amoroso — sabe lo que le gusta solo cuando lo ve manifestado en acto, no antes. El hombre, por contrapartida, **actúa por prueba y error**: manifiesta cosas hasta que algo encaja con lo que ella reconoce inconscientemente como deseable. La asimetría no es accidental sino estructural y arquetípicamente codificada.
+
+> "Las representaciones explícitas son las que puedes verbalizar y transmitir; las implícitas operan sin que puedas nombrarlas"
+→ [Consultorio amoroso del doctor Proxy (1:20:19)](https://youtu.be/EIGfuITdT8k?t=4819)
+
+> "La mente femenina funciona mayoritariamente con representaciones implícitas en el terreno amoroso"
+→ [Consultorio amoroso del doctor Proxy (1:20:19)](https://youtu.be/EIGfuITdT8k?t=4819)
+
+> "El hombre actúa por prueba y error hasta manifestar en actos algo que la mujer identifica inconscientemente como lo que le gusta"
+→ [Consultorio amoroso del doctor Proxy (1:20:19)](https://youtu.be/EIGfuITdT8k?t=4819)
+
+> "La mujer no decide lo que le gusta hasta que lo ve; puede saber por experiencia, pero la mayoría de las veces se confunde"
+→ [Consultorio amoroso del doctor Proxy (1:20:19)](https://youtu.be/EIGfuITdT8k?t=4819)
+
+### Trauma como confusor del deseo femenino
+
+El mismo mecanismo implícito se vuelve patológico cuando hay trauma. El trauma profundo dispara una reacción automática que dice 'esto es conocido, quédate aquí' — y como la sensación de agradabilidad ante un hombre desvalido es casi idéntica a la del hombre amable, el reconocimiento implícito falla en distinguir cuál de los dos está delante. El trauma no añade información: bloquea la exploración misma del campo de posibilidades.
+
+> "Cuanto más profundo es el trauma, más rápida e intensa es la reacción automática que dice \"esto es conocido, quédate aquí\""
+→ [Consultorio amoroso del doctor Proxy (1:23:52)](https://youtu.be/EIGfuITdT8k?t=5032)
+
+> "Un hombre desvalido se confunde con un hombre amable porque la sensación de agradabilidad es casi idéntica"
+→ [Consultorio amoroso del doctor Proxy (1:23:52)](https://youtu.be/EIGfuITdT8k?t=5032)
+
+> "El trauma impide a la mujer explorar qué otras partes del hombre podrían gustarle o no"
+→ [Consultorio amoroso del doctor Proxy (1:23:52)](https://youtu.be/EIGfuITdT8k?t=5032)
+
+### Enamoramiento retroactivo y rito de la conquista
+
+La lógica implícita explica también la fenomenología subjetiva del enamoramiento femenino: las mujeres dicen que cuando se enamoran ya llevan tiempo enamoradas. La descripción no es post-racionalización sino registro fiel del mecanismo — el enamoramiento se elabora **retroactivamente** hasta el momento en que ella iba reconociendo los puntos que le gustaban de él, aunque sin nombrarlos. La conquista termina de ensamblarse cuando todas las señales inconscientes acumuladas encajan en una figura única.
+
+> "El enamoramiento se elabora retroactivamente hasta el momento en que ella descubría los puntos que le gustaban de él"
+→ [Consultorio amoroso del doctor Proxy (1:31:27)](https://youtu.be/EIGfuITdT8k?t=5487)
+
+> "Las mujeres dicen que cuando se enamoran ya llevan tiempo enamoradas; en realidad se enamoran cuando encajan todas las señales inconscientes acumuladas"
+→ [Consultorio amoroso del doctor Proxy (1:31:27)](https://youtu.be/EIGfuITdT8k?t=5487)
+
+> "La conquista del hombre hacia la mujer beneficia psicológicamente a ambos: estructura el origen narrativo de la relación"
+→ [Consultorio amoroso del doctor Proxy (1:31:27)](https://youtu.be/EIGfuITdT8k?t=5487)
+
+El rito de la conquista no es así caprichoso ni convencional: cumple función estructural al fijar el origen narrativo de la pareja. Sin él, el ensamblaje retroactivo no encuentra el momento donde anclar la historia.
+
+### Incapacidad de detectar la impostura masculina
+
+La cara oscura de la mecánica implícita es la **idealización**. Las mujeres pueden no detectar cuándo un hombre finge valentía, capacidad o seguridad — el reconocimiento implícito recoge el gesto exterior sin discriminar su autenticidad. El canal añade un matiz cultural: la mujer eslava, por instinto o cultura, tiende a identificar mejor la impostura masculina, mientras que la mujer española contemporánea está peor preparada. La idealización es, según la lectura del canal, el principal problema del fracaso de las relaciones actuales.
+
+> "Las mujeres españolas no están preparadas para detectar cuándo un hombre finge valentía, capacidad o seguridad"
+→ [Consultorio amoroso del doctor Proxy (1:33:27)](https://youtu.be/EIGfuITdT8k?t=5607)
+
+> "Este es el principal problema del fracaso de las relaciones actuales: la idealización de ellas hacia ellos"
+→ [Consultorio amoroso del doctor Proxy (1:33:27)](https://youtu.be/EIGfuITdT8k?t=5607)
+
   → [Cerebros rosas y azules, 1:54:26](https://youtu.be/x7A9nfoRfu0?t=6866)
 
 ### Lectura mítica y cosmológica

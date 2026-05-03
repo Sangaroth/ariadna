@@ -113,4 +113,7 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 ## Citations
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029)
+- **Conspiración** — chunks: [12:26](https://youtu.be/K97ZzKXY0oI?t=746)
+

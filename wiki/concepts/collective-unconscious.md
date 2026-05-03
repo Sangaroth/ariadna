@@ -241,3 +241,7 @@ El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al moni
 - **Críticas modernas al concepto**: el canal no recoge las objeciones contemporáneas (Pinker y otros) al inconsciente colectivo como ineficiente o cripto-lamarckiano
 - **Aplicación a culturas no-occidentales**: la lista de mitos primarios usa material principalmente mesopotámico-grecorromano-judeocristiano. ¿El canal articula material arquetípico amerindio, africano, australiano? Hay alguna mención (sueños australianos) pero pocos chunks
 - **El "sueño colectivo" como término**: aparece pocas veces. Merece una página propia o expansión sustancial
+
+## Citations
+
+- **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)

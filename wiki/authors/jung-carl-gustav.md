@@ -143,6 +143,28 @@ Aspectos donde el canal extiende o matiza al junguiano clásico:
    → [Psicología 101: Cómo un Pollo demostró a Jung, 1:16:31](https://youtu.be/cbfhVqYDbdE?t=4591)
 
 
+## Sincronicidad: el lince blanco como caso de identificación inmediata
+
+El canal usa esporádicamente el concepto junguiano de **sincronicidad** para nombrar fenómenos donde eventos aparentemente separados se presentan al sujeto como manifestaciones de un mismo fenómeno significativo. La definición operativa que el canal maneja:
+
+> "La sincronicidad (acuñada por Jung) es cuando eventos separados se presentan como manifestaciones del mismo fenómeno trascendental"
+→ [BUT WHY?, 12:48](https://youtu.be/4tAWgX7-yXk?t=768)
+
+> "Trascendencia aquí significa que los eventos son más que la suma de sus partes y esa significación proviene del yo"
+→ [BUT WHY?, 12:48](https://youtu.be/4tAWgX7-yXk?t=768)
+
+La precisión es importante para la lectura del canal: la trascendencia es atribución del yo, no propiedad metafísica del mundo — coherente con la corrección recurrente del canal sobre el inconsciente colectivo (no es "mente colmena" sino convergencia de estructuras psíquicas innatas).
+
+El caso paradigmático que el canal articula es el del **lince blanco** que apareció en España en fechas vinculadas a eventos sobre hispanidad y sentencias judiciales:
+
+> "El lince ibérico ya pertenecía simbólicamente a España como especie endémica. La codificación simbólica fue inmediata: ibérico-español, blanco-pureza"
+→ [BUT WHY?, 16:19](https://youtu.be/4tAWgX7-yXk?t=979)
+
+> "La comunidad hispanista de Twitter eligió al lince como numen del retorno de la hispanidad"
+→ [BUT WHY?, 16:19](https://youtu.be/4tAWgX7-yXk?t=979)
+
+El ejemplo ilustra la distinción operativa que el canal establece entre **identificación inmediata** (el material simbólico ya está disponible y la asociación se cierra sin contexto adicional) frente a otras formas de interpretación (proyección, asimilación, metáfora gratuita). La sincronicidad junguiana funciona así, en el marco del canal, como mecanismo de cierre simbólico — el yo reconoce un patrón ya alojado en su matriz y lo proyecta sobre la coincidencia temporal de eventos heterogéneos.
+
 ## Lagunas
 - **El propio Jung como autor**: el corpus actual NO ingiere sus obras (Tipos psicológicos, El hombre y sus símbolos, Aion, etc.). Cuando entre Fase D, los libros de Jung pasarán de ser "marco teórico de referencia" a ser **fuentes ingeridas con sus propios chunks** — esta página entonces tendrá `as_author_of_sources` poblada
 - **Discípulos y herederos junguianos** que el canal lee (Hillman, Edinger, von Franz, Joseph Campbell) — mencionados ocasionalmente pero sin tratamiento dedicado
@@ -154,7 +176,9 @@ Aspectos donde el canal extiende o matiza al junguiano clásico:
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 - **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:09:06](https://youtu.be/cbfhVqYDbdE?t=4146)
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
+- **BUT WHY?** — chunks: [12:48](https://youtu.be/4tAWgX7-yXk?t=768)
 

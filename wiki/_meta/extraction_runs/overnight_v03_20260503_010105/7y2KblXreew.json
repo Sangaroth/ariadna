@@ -1,0 +1,35 @@
+{
+  "video_id": "7y2KblXreew",
+  "video_title": "Este es el camino",
+  "playlist": "_sin_playlist",
+  "category": "psicología",
+  "entities": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "cuatro pilares de la construcción de masculinidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Vídeo de 60 segundos completo (no fragmento) que enumera cuatro recomendaciones prescriptivas (hobby propio, deporte físico, socializar, culturizarse) sin articular marco teórico arquetípico, psicológico o filosófico que lo sustente. No hay desarrollo de mecanismo, ni conexión explícita con conceptos del canal (individuación, anima/animus, padre arquetípico, viaje-héroe). El registro es self-help prescriptivo, no análisis. Aunque el speaker enumera 4 piezas explícitas (estructura interna formal), no cumple ningún otro signal_mark de tesis (sin marcador de autoría tipo 'mi tesis'/'propongo', sin registro pedagógico-expositivo sostenido, sin auto-referencia genealógica) y minutes_sustained=1 está dos órdenes de magnitud por debajo del gate de auto-promoción (≥30 min). Si la fórmula 'cuatro pilares de masculinidad' reaparece en vídeos posteriores con desarrollo teórico (anclaje arquetípico, conexión a viaje-héroe o anima/animus, articulación junguiana), podría reconsiderarse como concept canal-específico.",
+      "quote_evidence": "Los cuatro pilares de la construcción de masculinidad",
+      "review_priority": "medium",
+      "review_priority_reason": "fórmula prescriptiva con estructura formal articulada (4 piezas explícitas) — vigilar si recurre con anclaje teórico en otros vídeos del canal antes de descartar definitivamente",
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 1,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T01:01:05Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

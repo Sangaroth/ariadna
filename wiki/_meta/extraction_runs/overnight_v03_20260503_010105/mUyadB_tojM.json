@@ -1,0 +1,147 @@
+{
+  "video_id": "mUyadB_tojM",
+  "video_title": "All Proxies Eve",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Sin candidatos a promote_new en este vídeo. Es un directo casual de actualización personal del speaker (depresión, trabajo de soldador, curso de buceo, planes de canal, disfraces de Halloween de su pareja). Los dos únicos bloques con contenido potencialmente enciclopédico — el comentario generacional y el origen religioso de Halloween — son menciones breves no desarrolladas.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Estado personal y tratamiento de la depresión",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Actualización personal del speaker sobre su tratamiento por depresión y crisis vital. Sin marco psicológico aplicado, sin valor ilustrativo de concepto del canal.",
+      "quote_evidence": "Proxy sigue en tratamiento por depresión, aunque ya no está tan mal como en el pico de junio,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Experiencia laboral como soldador y montador",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota laboral sobre trabajo en Jumilla y Megasa. Sin marco interpretativo del canal aplicado.",
+      "quote_evidence": "Ha trabajado mes y medio como soldador y montador, incluidos trabajos en Jumilla (Murcia) de lunes a viernes alojado en hotel,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Hitler (comparación de tono comunicativo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Hitler aparece solo como referencia que un alumno hace al tono comunicativo de Proxy en una charla. NO es Proxy aplicando marco psicológico a Hitler (caso que sí sería IN per scope.md §3.2). Es comentario reportado sobre el speaker, no análisis. Falla test de cápsula del tiempo invertido: la afirmación es sobre la charla, no sobre Hitler.",
+      "quote_evidence": "Un alumno comparó su charla con un discurso de Hitler por el tono directo y los golpes en la mesa,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Título de soldadura de tubería",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Logro profesional personal sin contenido enciclopédico.",
+      "quote_evidence": "Ha obtenido un título de soldadura de tubería con un nueve de nota,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Curso de buceo técnico en Barcelona",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Planes formativos personales del speaker.",
+      "quote_evidence": "Con lo ahorrado del stream, del trabajo y royalties ha financiado el curso de media profundidad (hasta 60 m),",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Planes de futuro para el canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de planes editoriales del canal: vídeos cortos divulgativos, libro recopilatorio. Meta-canal explícito.",
+      "quote_evidence": "No puede dejar las redes ni el canal por todo el trabajo invertido: filosofía, recopilación, estudio,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "nueve estadios del aprendizaje",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "El speaker referencia un marco propio (nueve estadios del aprendizaje) publicado en su Patreon como base de una charla en facultad, pero NO lo desarrolla en este vídeo. Es señal de que existe una tesis articulada en otro material del canal (Patreon, conferencia presencial), pero esta mención por sí sola no aporta exposición. Candidato a futura thesis_candidate o concept page si aparece desarrollado en otro summary del corpus.",
+      "quote_evidence": "La charla en la facultad usó directamente una publicación del Patreon sobre los nueve estadios del aprendizaje sin necesidad de guion adicional,",
+      "review_priority": "medium",
+      "review_priority_reason": "Marco propio del canal nombrado pero no desarrollado aquí. Útil como pista para retrieval si aparece en otros vídeos."
+    },
+    {
+      "surface_form": "Diagnóstico generacional: jóvenes universitarios",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación cultural breve sobre las nuevas generaciones (mundo más pequeño, consumo de entretenimiento e ideología). Mecanismo psicológico embrionario presente — el speaker articula un argumento estructural sobre reducción del marco de referencia generacional — pero la exposición es de unos minutos y no se eleva a tesis sostenida ni se conecta explícitamente con consumismo-critica u otro marco del canal en este summary.",
+      "quote_evidence": "Las nuevas generaciones son más ingenuas porque su mundo es más pequeño: redes sociales e ideologías,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis embrionaria sobre reducción del horizonte cultural generacional. Si aparece desarrollada en otros vídeos podría enriquecer consumismo-critica."
+    },
+    {
+      "surface_form": "Desarrollo de un videojuego propio en Game Maker",
+      "reason_code": "meta_canal",
+      "reason_detail": "Proyecto personal del speaker, anuncio de financiación vía suscripciones. Sin contenido temático enciclopédico.",
+      "quote_evidence": "Está diseñando y dibujando un juego de ordenador en Game Maker,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Necesidad de un portátil para Black Friday",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Necesidad logística personal del speaker, sin valor enciclopédico.",
+      "quote_evidence": "Necesita un portátil de máximo 1000 € para el Black Friday que soporte Game Maker y sea resistente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Claudia disfrazada de enfermera de Silent Hill 2",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota doméstica sobre disfraz de Halloween de su pareja. Silent Hill 2 se menciona como objeto del disfraz y como remake que el speaker está jugando, sin lectura arquetípica aplicada.",
+      "quote_evidence": "Su pareja Claudia aparece disfrazada de enfermera de Silent Hill 2 con máscara hecha a mano con vendas de yeso,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Silent Hill 2 (remake)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado solo como videojuego que el speaker está jugando y como referencia visual del disfraz. Sin análisis arquetípico, sin lectura del horror cósmico u otro marco del canal aplicado en este vídeo.",
+      "quote_evidence": "Se está pasando el remake de Silent Hill 2,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Recuerdo del Gordi e Iris con la capa de vampiro",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota afectiva sobre las gatas del speaker.",
+      "quote_evidence": "Le ponen a la gata Iris la capa de vampiro que era del Gordi pero no le gusta,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Origen de Halloween y Todos los Santos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bloque breve (~5 min) sobre genealogía religiosa de la fiesta: All Saints' Eve católico vs Samhain pagano, Halloween como adaptación protestante de irlandeses católicos con cosecha otoñal, velas/luces como herencia de vigilias por los muertos, y diagnóstico final del Halloween moderno como 'esperpento moderno respecto a su origen' — eco débil del marco de degradación cultural (autotipo / consumismo-critica). Demasiado breve y sin desarrollo arquetípico para promover entidad propia o enriquecer prosa de páginas existentes con material genuinamente nuevo respecto a lo ya documentado sobre degradación de mitos.",
+      "quote_evidence": "La fiesta católica original es Todos los Santos (All Saints' Eve), no el Samhain,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en el corpus aparecen más vídeos tratando Halloween/Samhain/All Saints como caso de mitología propia/impropia o degradación, este timestamp sería útil como cita en mitologia-propia-impropia o autotipo."
+    },
+    {
+      "surface_form": "Halloween moderno como esperpento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico de degradación cultural ('esperpento moderno respecto a su origen') que ecoa el patrón de autotipo y de consumismo-critica, pero la mención es de cierre del bloque, sin elaboración. La página autotipo ya documenta el patrón de degradación con ejemplos canónicos; añadir solo este eco breve sería prosa redundante.",
+      "quote_evidence": "el Halloween actual como fiesta de disfraces es un esperpento moderno respecto a su origen,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

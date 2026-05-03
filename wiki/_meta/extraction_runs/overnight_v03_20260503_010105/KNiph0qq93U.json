@@ -1,0 +1,453 @@
+{
+  "video_id": "KNiph0qq93U",
+  "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético.",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Pensamiento poético: representaciones encadenadas por relaciones imaginarias y afectivas (no formales)",
+      "canonical_guess": "pensamiento-poetico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 13,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El pensamiento poético encadena representaciones cuya conexión se basa en imagen, forma, fondo, afectos y emociones, no en relaciones formales"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La lógica opera con relaciones formales; una falacia es una relación poética que pretende ser formal"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El pensamiento poético es correcto cuando somos conscientes de que la relación no es formal sino imaginaria o afectiva"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "El canal articula 'pensamiento poético' como categoría operativa propia con: (a) definición precisa (encadenamiento de representaciones por relaciones imaginarias/afectivas, no formales); (b) teoría de la falacia como pensamiento poético que pretende ser formal; (c) figura del 'sofisma estético'; (d) criterio de corrección (es legítimo cuando se sabe poético, falaz cuando se travista de formal); (e) ejemplos elaborados (metáfora del mar, metáforas bíblicas, mitos). ~13 min sostenidos. Es categoría conceptualmente distinta del símbolo (unidad de evocación) y del realismo cognitivo (stance epistemológica) — nombra un MODO de operación de la matriz noética.",
+      "quote_evidence": "El pensamiento poético encadena representaciones cuya conexión se basa en imagen, forma, fondo, afectos y emociones, no en relaciones formales"
+    },
+    {
+      "surface_form": "Componente imaginaria refinada: afantasía, alexitimia, ceguera somática/cortical, metarrepresentación",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 33,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo imaginario no equivale a lo visual: incluye percepción de volumen, espacio, forma y fondo que no dependen de la activación del córtex visual"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La metarrepresentación es la representación de la representación, la abstracción simbólica pura"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Igual que la afantasía impide la activación somática visual, la alexitimia impide la activación somática emocional"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "~33 min refinando la componente imaginaria de la matriz noética (que la página articula como una de las tres componentes pero sin desagregar). Material genuinamente nuevo: (a) lo imaginario NO equivale a lo visual — incluye volumen, espacio, forma, fondo procesados por áreas distintas del córtex visual; (b) afantasía como caso clínico de la disociación entre córtex visual y otras componentes imaginarias; (c) alexitimia como análoga en el dominio afectivo (frontera somática vs reconocimiento conceptual); (d) distinción ceguera somática/cortical y experimento Molyneux con niños ciegos operados; (e) evocación voluntaria/involuntaria como mecanismo distinto de memoria; (f) metarrepresentación como abstracción de la representación misma. La página gana precisión operativa sobre lo que la componente imaginaria recubre.",
+      "quote_evidence": "Lo imaginario no equivale a lo visual: incluye percepción de volumen, espacio, forma y fondo que no dependen de la activación del córtex visual"
+    },
+    {
+      "surface_form": "Refinamientos sobre la memoria: anti-localismo, impronta somática, trauma como hiperactivación afectiva",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 32,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No hay un lugar del cerebro donde estén guardados los recuerdos; la metáfora del \"cajón\" es pensamiento poético"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El localismo funcionalista (una función = una zona cerebral) es falso; proviene de Broca y Brodmann"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada vez que evocamos un recuerdo lo resintetizamos desde cero: se pierde información (olvido) y se añade información (confabulación)"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "~32 min refinando la teoría de la memoria que golem-de-cobre articula como 'memoria como reconstrucción continua, no almacén' + módulos episódica/procedural/semántica/afectiva. Material nuevo respecto al cuerpo leído: (a) crítica explícita y nominal al localismo funcional (Broca, Brodmann) como herencia falsa; (b) la fórmula 'la memoria es una fantasía conscientemente reconocida' como criterio de salud cognitiva; (c) impronta somática como mecanismo distinto y NO como tipo de memoria propio; (d) trauma como hiperactivación de redes afectivas (precisión sobre 'componente afectiva fijada' de la página actual) con el ejemplo perro-mordedura como caso clínico; (e) plasticidad cerebral (las funciones que se pierden se reubican). Refuerza la tesis nuclear de mente-no-máquina con piezas concretas.",
+      "quote_evidence": "El localismo funcionalista (una función = una zona cerebral) es falso; proviene de Broca y Brodmann"
+    }
+  ],
+  "promote_new": [
+    {
+      "page_id": "pensamiento-poetico",
+      "canonical_name": "Pensamiento poético (categoría operativa del canal)",
+      "aliases": [
+        "pensamiento poetico",
+        "razonamiento poetico",
+        "sofisma estetico",
+        "relaciones imaginarias y afectivas"
+      ],
+      "page_type": "concept",
+      "domain_primary": "humanities.philosophy",
+      "primary_domains": [
+        "humanities.philosophy",
+        "interdisciplinary.semiotics",
+        "social.psychology.cognitive",
+        "interdisciplinary.cognitive_science"
+      ],
+      "relations": [
+        {
+          "type": "extends",
+          "to": "teoria-del-simbolo-en-proxy",
+          "weight": "canonical",
+          "note": "el pensamiento poético es un modo de operación de la matriz noética: encadena representaciones por relaciones imaginarias/afectivas (no formales) — distinto de la operación lógica formal y complementario al símbolo como evocación"
+        },
+        {
+          "type": "contained_in",
+          "to": "realismo-cognitivo",
+          "weight": "strong",
+          "note": "el pensamiento poético se categoriza dentro del marco del realismo cognitivo del canal como un modo de razonamiento legítimo cuando se reconoce como tal, falaz cuando se travista de formal"
+        },
+        {
+          "type": "synthesizes",
+          "to": "mitologia-propia-impropia",
+          "weight": "strong",
+          "note": "los mitos operan por relaciones poéticas (imaginarias y afectivas); la página actual articula la distinción propia/impropia, esta categoría nombra el modo de operación cognitiva común a ambas"
+        },
+        {
+          "type": "compared_with",
+          "to": "golem-de-cobre",
+          "weight": "tangential",
+          "note": "el pensamiento poético opera sobre la tríada representacional imaginaria/formal/afectiva que golem-de-cobre articula, dando peso preferente a las componentes imaginaria y afectiva"
+        },
+        {
+          "type": "criticizes",
+          "to": "diagrama-de-proxy",
+          "weight": "weak",
+          "note": "la teoría de la falacia como pensamiento poético-pretendido-formal explica psicológicamente cómo opera el razonamiento motivado que el diagrama de Proxy postula sobre orientación moral-política"
+        },
+        {
+          "type": "exemplified_by",
+          "to": "anima-archetype",
+          "weight": "weak",
+          "note": "el ejemplo del mar como arquetipo (indefensión, armonía, tempestad según contexto emocional) ilustra cómo el pensamiento poético activa contenidos arquetípicos"
+        }
+      ],
+      "content_outline": [
+        {
+          "section": "Definición",
+          "body": "El **pensamiento poético** es la categoría operativa que el canal usa para nombrar un modo de razonamiento que encadena representaciones mentales mediante relaciones **imaginarias y afectivas**, no formales. Es uno de los modos legítimos de operación de la matriz noética — distinto del razonamiento lógico-formal — siempre que el sujeto sea consciente del tipo de relación que está estableciendo.",
+          "supporting_quotes": [
+            {
+              "quote": "El pensamiento poético encadena representaciones cuya conexión se basa en imagen, forma, fondo, afectos y emociones, no en relaciones formales",
+              "cite_markdown": "[De realismo cognitivo: Memoria, EMDR, y pensamiento poético (27:36)](https://youtu.be/KNiph0qq93U?t=1656)"
+            },
+            {
+              "quote": "Una metáfora es pensamiento poético porque relaciona cosas por lo que se parecen en forma o emoción",
+              "cite_markdown": "[De realismo cognitivo: Memoria, EMDR, y pensamiento poético (27:36)](https://youtu.be/KNiph0qq93U?t=1656)"
+            }
+          ]
+        },
+        {
+          "section": "Relación con la lógica formal: la teoría de la falacia",
+          "body": "La distinción es operativa: la lógica opera con relaciones formales (sintácticas, deductivas, gramaticales); el pensamiento poético opera con relaciones por semejanza imaginaria o resonancia afectiva. Ambos son modos legítimos de la mente. El problema aparece cuando una relación poética **se presenta a sí misma como formal**: eso es la falacia. El canal añade la figura del **sofisma estético** — razonamiento poético que sistemáticamente pretende ser relación formal y construye argumentación entera sobre esa pretensión.",
+          "supporting_quotes": [
+            {
+              "quote": "La lógica opera con relaciones formales; una falacia es una relación poética que pretende ser formal",
+              "cite_markdown": "[De realismo cognitivo (30:39)](https://youtu.be/KNiph0qq93U?t=1839)"
+            },
+            {
+              "quote": "El sofisma estético es una forma de razonamiento poético donde todo tiene pretensión de ser relación formal",
+              "cite_markdown": "[De realismo cognitivo (30:39)](https://youtu.be/KNiph0qq93U?t=1839)"
+            },
+            {
+              "quote": "El pensamiento poético es correcto cuando somos conscientes de que la relación no es formal sino imaginaria o afectiva",
+              "cite_markdown": "[De realismo cognitivo (30:39)](https://youtu.be/KNiph0qq93U?t=1839)"
+            }
+          ]
+        },
+        {
+          "section": "Ejemplo de falacia poética: 'lo que me da miedo es malo'",
+          "body": "El canal ofrece como caso paradigmático la generalización **'todas las cosas que me dan miedo son malas'**: asocia el afecto miedo con la representación arquetípica del mal sin base racional. La relación es genuinamente poética (afecto + arquetipo cultural) pero se presenta como conclusión formal sobre la realidad. La salud cognitiva consistiría en reconocer la naturaleza poética del enlace y no derivar de él juicios sobre la naturaleza moral de los objetos del miedo.",
+          "supporting_quotes": [
+            {
+              "quote": "\"Todas las cosas que me dan miedo son malas\" es un ejemplo de pensamiento poético falaz: asocia el afecto miedo con la representación arquetípica del mal sin base racional",
+              "cite_markdown": "[De realismo cognitivo (27:36)](https://youtu.be/KNiph0qq93U?t=1656)"
+            }
+          ]
+        },
+        {
+          "section": "Análisis canal-paradigmático: 'tus ojos son del color del mar'",
+          "body": "Para mostrar la mecánica completa del pensamiento poético, el canal disecciona la metáfora 'tus ojos son del color del mar': la única relación formal es el predicado 'X es del color de Y'. Todo lo demás opera por componentes imaginaria y afectiva — y precisamente por eso la metáfora no es decorativa sino cognitivamente productiva.\n\n- **Componente imaginaria**: activa la imagen de los ojos y la imagen del mar (olas, azul, espuma).\n- **Componente afectiva**: activa contenidos de romance — pánico a perder al amado, sexo afectivo, belleza.\n- **Componente arquetípica modulada por contexto**: el mar puede evocar indefensión (mar embravecido), armonía (agua cristalina) o tempestad, según el estado emocional del hablante.",
+          "supporting_quotes": [
+            {
+              "quote": "La componente imaginaria activa la imagen de los ojos y la imagen del mar (olas, azul, espuma)",
+              "cite_markdown": "[De realismo cognitivo (31:43)](https://youtu.be/KNiph0qq93U?t=1903)"
+            },
+            {
+              "quote": "La componente afectiva activa contenidos de romance: pánico a perder al amado, sexo afectivo, belleza",
+              "cite_markdown": "[De realismo cognitivo (31:43)](https://youtu.be/KNiph0qq93U?t=1903)"
+            },
+            {
+              "quote": "El mar como arquetipo puede evocar indefensión (mar embravecido), armonía (agua cristalina) o tempestad, según el contexto emocional del hablante",
+              "cite_markdown": "[De realismo cognitivo (31:43)](https://youtu.be/KNiph0qq93U?t=1903)"
+            },
+            {
+              "quote": "La única relación formal es \"X es del color de Y\"; cuando priman las componentes imaginarias y afectivas, es pensamiento poético",
+              "cite_markdown": "[De realismo cognitivo (31:43)](https://youtu.be/KNiph0qq93U?t=1903)"
+            }
+          ]
+        },
+        {
+          "section": "Mitos y metáforas religiosas como dominios canónicos del pensamiento poético",
+          "body": "Las metáforas bíblicas son fundamentalmente poéticas, y los mitos son poéticos además de fantásticos: operan por relaciones imaginarias y afectivas. Esta articulación enlaza pensamiento poético con la distinción [[mitologia-propia-impropia]]: el mito **propio** es pensamiento poético consciente de serlo (Lovecraft, Tolkien); el mito **impropio** es pensamiento poético que se ha colado como verdad formal en la cultura sin reconocer su origen poético (la democracia como mito impropio según el ejemplo del canal). La distinción adquiere así sustrato cognitivo: lo decisivo no es solo la conciencia sobre el carácter mítico del constructo, sino la conciencia sobre el modo de razonamiento que lo sostiene.",
+          "supporting_quotes": [
+            {
+              "quote": "Las metáforas bíblicas son fundamentalmente poéticas",
+              "cite_markdown": "[De realismo cognitivo (36:49)](https://youtu.be/KNiph0qq93U?t=2209)"
+            },
+            {
+              "quote": "Los mitos son poéticos además de fantásticos: operan por relaciones imaginarias y afectivas",
+              "cite_markdown": "[De realismo cognitivo (36:49)](https://youtu.be/KNiph0qq93U?t=2209)"
+            }
+          ]
+        },
+        {
+          "section": "Conexión con otros conceptos",
+          "body": "- Es un **modo de operación** de la matriz noética que [[teoria-del-simbolo-en-proxy]] articula: opera dando peso a las componentes imaginaria y afectiva sobre la formal-gramatical\n- Forma parte del marco general de [[realismo-cognitivo]] como categoría que distingue entre modos legítimos de razonamiento (poético, formal) y patológicos (poético-pretendido-formal = falacia/sofisma)\n- Da sustrato cognitivo a la distinción [[mitologia-propia-impropia]]: el mito propio es pensamiento poético consciente; el impropio, pensamiento poético inconsciente de serlo\n- Refina las componentes que [[golem-de-cobre]] articula: el pensamiento poético es la operación que conjuga preferentemente las componentes imaginaria y afectiva del grafo tridimensional\n- Da herramienta diagnóstica al [[diagrama-de-proxy]]: el razonamiento motivado opera vía pensamiento poético que se presenta como conclusión moral racional"
+        }
+      ],
+      "initial_citations": [
+        {
+          "video_id": "KNiph0qq93U",
+          "video_title": "De realismo cognitivo: Memoria, EMDR, y pensamiento poético",
+          "timestamps_seconds": [
+            1656,
+            1839,
+            1903,
+            2209
+          ]
+        }
+      ]
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El ahorro ontológico es deliberado: el canal trabaja en el campo humano y no necesita decidir sobre la realidad como tal, solo sobre las representaciones.",
+      "content_proposed": "\n## Refinamiento de la componente imaginaria: lo imaginario no es lo visual\n\nEn el directo *De realismo cognitivo: Memoria, EMDR, y pensamiento poético* (04 sept 2024) el canal refina sustancialmente la componente imaginaria de la matriz noética con casos clínicos que revelan su estructura interna y la distinguen de la mera percepción visual.\n\n### Lo imaginario excede lo visual\n\nLa primera precisión es que la componente imaginaria de la matriz N **no se reduce a la activación del córtex visual**. Incluye percepción de volumen, espacio, forma y fondo que se procesan en áreas distintas del cerebro. La componente imaginaria es una capacidad cognitiva más amplia que la imagen propiamente dicha.\n\n> \"Lo imaginario no equivale a lo visual: incluye percepción de volumen, espacio, forma y fondo que no dependen de la activación del córtex visual\"\n→ [De realismo cognitivo (40:29)](https://youtu.be/KNiph0qq93U?t=2429)\n\n### Afantasía como caso clínico de disociación\n\nLa afantasía — incapacidad de evocar imágenes mentales vívidas voluntariamente, en gradiente — opera como demostración clínica de la disociación entre el córtex visual y las demás dimensiones del imaginario. Las personas con afantasía conservan forma, fondo, volumen y distancia: lo que pierden es la activación voluntaria del córtex visual con los ojos cerrados. La componente del lenguaje queda intacta — pueden describir y recordar símbolos sin verlos mentalmente. Los detalles que retienen son semánticos, no visuales.\n\n> \"La afantasía es la incapacidad de evocar imágenes mentales vívidas de forma voluntaria, pero existe en un gradiente\"\n→ [De realismo cognitivo (40:29)](https://youtu.be/KNiph0qq93U?t=2429)\n\n> \"Las personas con afantasía comprenden forma, fondo, volumen y distancia; lo que no pueden es activar el córtex visual voluntariamente con los ojos cerrados\"\n→ [De realismo cognitivo (40:29)](https://youtu.be/KNiph0qq93U?t=2429)\n\n> \"Los detalles que retienen son semánticos, no visuales; saben dónde están las cosas pero no las \\\"ven\\\" como una película mental\"\n→ [De realismo cognitivo (50:37)](https://youtu.be/KNiph0qq93U?t=3037)\n\n### Evocación voluntaria/involuntaria como mecanismo distinto de la memoria\n\nUna corolaria operativa: la **evocación** — mecanismo por el cual la voluntad crea o recrea contenido mental deliberadamente — no es lo mismo que la memoria. Se puede evocar un recuerdo pero también una fantasía. La evocación requiere concentración entendida como inhibición de la actividad mental espontánea para sostener un objeto mental seleccionado. Las personas con afantasía no pueden evocar ni voluntaria ni involuntariamente imágenes vívidas — la disociación opera en ambos sentidos.\n\n> \"La evocación es el mecanismo por el cual la voluntad crea o recrea contenido mental de forma deliberada\"\n→ [De realismo cognitivo (46:35)](https://youtu.be/KNiph0qq93U?t=2795)\n\n> \"No confundir evocación con memoria: se puede evocar un recuerdo pero también una fantasía\"\n→ [De realismo cognitivo (46:35)](https://youtu.be/KNiph0qq93U?t=2795)\n\n### Alexitimia como análoga de la afantasía en el dominio afectivo\n\nLa misma estructura de disociación opera en la componente afectiva: la **alexitimia** es la incapacidad de reconocer emociones somáticamente. La persona alexitímica sabe qué es el amor o el miedo conceptualmente — puede nombrarlos, describirlos — pero no los siente como nudo en el estómago ni sudoración. Igual que la afantasía impide la activación somática visual, la alexitimia impide la activación somática emocional. La analogía estructural muestra que cada componente de la matriz N (imaginaria, afectiva) tiene una capa somática-encarnada y una capa simbólico-conceptual que pueden disociarse clínicamente.\n\n> \"La alexitimia es la incapacidad de reconocer emociones somáticamente: saben qué es el amor o el miedo pero no lo sienten como nudo en el estómago ni sudoración\"\n→ [De realismo cognitivo (1:02:25)](https://youtu.be/KNiph0qq93U?t=3745)\n\n> \"Igual que la afantasía impide la activación somática visual, la alexitimia impide la activación somática emocional\"\n→ [De realismo cognitivo (1:02:25)](https://youtu.be/KNiph0qq93U?t=3745)\n\n### Ceguera somática vs ceguera cortical: arquitectura modular del imaginario\n\nLa distinción clínica entre **ceguera somática** (lesión en nervio óptico o retina) y **ceguera cortical** (lesión en el córtex que procesa imágenes) revela que el imaginario tiene arquitectura modular: la ceguera somática preserva la representación visual imaginaria — los pacientes pueden ver formas y colores mentalmente. Los ciegos de nacimiento conservan componente imaginaria (mapas mentales, ubicación espacial) aunque no puedan ver, porque color y forma están controlados por áreas cerebrales distintas.\n\n> \"La ceguera somática (nervio óptico, retina) permite representación visual imaginaria: pueden ver formas y colores mentalmente\"\n→ [De realismo cognitivo (1:08:05)](https://youtu.be/KNiph0qq93U?t=4085)\n\n> \"Los ciegos de nacimiento tienen componente imaginaria (mapas mentales, ubicación espacial) aunque no puedan ver; el color y la forma están controlados por áreas cerebrales distintas\"\n→ [De realismo cognitivo (1:08:05)](https://youtu.be/KNiph0qq93U?t=4085)\n\nEl experimento histórico con niños ciegos operados — distinguían cubo y esfera por tacto pero no visualmente hasta volver a tocarlos — demuestra que la componente somática táctil es parte del imaginario pero **no lo agota**: la integración cross-modal requiere su propia maduración.\n\n> \"Niños ciegos operados distinguían cubo y esfera por tacto pero no visualmente hasta tocarlos de nuevo\"\n→ [De realismo cognitivo (1:12:23)](https://youtu.be/KNiph0qq93U?t=4343)\n\n> \"Demuestra que la componente somática táctil es parte del imaginario pero no lo agota\"\n→ [De realismo cognitivo (1:12:23)](https://youtu.be/KNiph0qq93U?t=4343)\n\n### Metarrepresentación: la imaginación de la imaginación\n\nFinalmente el canal añade un nivel cognitivo superior: la **metarrepresentación** — representación de la representación, abstracción simbólica pura. Las personas con afantasía no pueden metarrepresentar imaginariamente, aunque el speaker se cuestiona si el déficit es específicamente de metarrepresentación o de su sustrato sensorial. La pieza completa el espectro: matriz noética con componentes (imaginaria/afectiva/formal-gramatical), cada una en capas (somática/conceptual), y operaciones que pueden ascender a metarrepresentación cuando se opera sobre representaciones mismas.\n\n> \"La metarrepresentación es la representación de la representación, la abstracción simbólica pura\"\n→ [De realismo cognitivo (1:05:02)](https://youtu.be/KNiph0qq93U?t=3902)\n\n> \"Las personas con afantasía no pueden metarrepresentar imaginariamente, aunque el autor duda de si el déficit es específicamente de metarrepresentación\"\n→ [De realismo cognitivo (1:05:02)](https://youtu.be/KNiph0qq93U?t=3902)\n\nLa estructura completa enlaza con [[pensamiento-poetico]] (modo de operación que privilegia las componentes imaginaria y afectiva sobre la formal) y con [[golem-de-cobre]] (donde la tríada original queda ahora más finamente articulada).\n",
+      "wikilinks_introduced": [
+        "pensamiento-poetico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 2429,
+          "cite_markdown": "[De realismo cognitivo (40:29)](https://youtu.be/KNiph0qq93U?t=2429)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 2795,
+          "cite_markdown": "[De realismo cognitivo (46:35)](https://youtu.be/KNiph0qq93U?t=2795)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 3037,
+          "cite_markdown": "[De realismo cognitivo (50:37)](https://youtu.be/KNiph0qq93U?t=3037)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 3745,
+          "cite_markdown": "[De realismo cognitivo (1:02:25)](https://youtu.be/KNiph0qq93U?t=3745)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 3902,
+          "cite_markdown": "[De realismo cognitivo (1:05:02)](https://youtu.be/KNiph0qq93U?t=3902)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 4085,
+          "cite_markdown": "[De realismo cognitivo (1:08:05)](https://youtu.be/KNiph0qq93U?t=4085)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 4343,
+          "cite_markdown": "[De realismo cognitivo (1:12:23)](https://youtu.be/KNiph0qq93U?t=4343)"
+        }
+      ],
+      "rationale": "La página articula la matriz N con componentes imaginaria/formal/afectiva pero sin desagregar la estructura interna de la imaginaria. El nuevo material añade arquitectura clínica: lo imaginario excede lo visual, afantasía como disociación demostrativa, alexitimia como análoga afectiva, ceguera somática vs cortical como evidencia de modularidad, experimento Molyneux histórico, evocación voluntaria/involuntaria distinta de memoria, metarrepresentación como nivel cognitivo superior. Insertar después del cierre de 'Articulaciones posteriores' encadena con la pieza ya añadida sobre realismo cognitivo + DMN/AMN, manteniendo el patrón de refinamientos posteriores. Introduce wikilink a pensamiento-poetico (concepto promovido en este mismo vídeo) por conexión natural.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La deuda cognitiva: todo el esfuerzo que dejas de realizar a cambio de usar una facilidad degrada la mente y el ánimo",
+      "content_proposed": "\n## Refinamientos sobre la memoria: anti-localismo, impronta somática, trauma como hiperactivación\n\nEn el directo *De realismo cognitivo: Memoria, EMDR, y pensamiento poético* (04 sept 2024) el canal vuelve sobre la teoría de la memoria que esta página articula y añade cinco precisiones que refuerzan la tesis nuclear de mente-no-máquina.\n\n### La memoria como mito y como fantasía\n\nLa página afirma que la memoria 'no tiene locus'. La articulación posterior cualifica esa tesis con dos formulaciones más fuertes: la metáfora del cajón es **pensamiento poético** confundido con descripción técnica, y la memoria es operativamente **una fantasía** — el sujeto sano sabe que lo evocado no está pasando ahora sino que es una reconstrucción aproximada con pérdida y añadido.\n\n> \"No hay un lugar del cerebro donde estén guardados los recuerdos; la metáfora del \\\"cajón\\\" es pensamiento poético\"\n→ [De realismo cognitivo (1:16:33)](https://youtu.be/KNiph0qq93U?t=4593)\n\n> \"Cada vez que evocamos un recuerdo lo resintetizamos desde cero: se pierde información (olvido) y se añade información (confabulación)\"\n→ [De realismo cognitivo (1:22:34)](https://youtu.be/KNiph0qq93U?t=4954)\n\n> \"La memoria es una fantasía: sabemos que lo evocado no está pasando ahora sino que es una reconstrucción aproximada\"\n→ [De realismo cognitivo (1:22:34)](https://youtu.be/KNiph0qq93U?t=4954)\n\n> \"El recuerdo es una síntesis compactada y simplificada de la experiencia: imágenes seleccionadas, afectos seleccionados y relaciones gramaticales\"\n→ [De realismo cognitivo (1:22:34)](https://youtu.be/KNiph0qq93U?t=4954)\n\nEl criterio de salud cognitiva queda así explícito: tratar la memoria como almacén infalible es confusión categorial; el sano sabe que recuerda fantaseando con base, y por eso puede contrastar y revisar.\n\n### Crítica nominal al localismo funcional (Broca, Brodmann)\n\nLa segunda precisión es genealógica e ideológica: el **localismo funcionalista** (una función = una zona cerebral) es falso, y proviene históricamente de Broca y Brodmann como herencia heurística que la neurociencia contemporánea ha desbordado. Las funciones cerebrales muy específicas que se pierden por lesión suelen reubicarse en otra parte del cerebro — fenómeno de plasticidad que el modelo computacional del cerebro-como-máquina no acomoda. La experiencia modifica toda la red neuronal; no hay una red específica ni intacta dedicada a la memoria.\n\n> \"El localismo funcionalista (una función = una zona cerebral) es falso; proviene de Broca y Brodmann\"\n→ [De realismo cognitivo (1:36:20)](https://youtu.be/KNiph0qq93U?t=5780)\n\n> \"Las funciones cerebrales muy específicas que se pierden suelen reubicarse en otra parte del cerebro\"\n→ [De realismo cognitivo (1:36:20)](https://youtu.be/KNiph0qq93U?t=5780)\n\n> \"La experiencia modifica toda la red neuronal; no hay una red específica ni intacta dedicada a la memoria\"\n→ [De realismo cognitivo (1:16:33)](https://youtu.be/KNiph0qq93U?t=4593)\n\n### Trauma como hiperactivación de redes afectivas\n\nLa página actual articula el trauma como 'componente afectiva fijada'. La articulación posterior precisa el mecanismo: una experiencia traumática **hiperactiva** la red de afectos asociada al evento, de modo que cualquier estímulo que se parezca a lo vivido reactiva simultáneamente la red afectiva. El ejemplo del canal: si te mordió un perro, ver un perro activa las redes de 'perro' y de 'miedo' simultáneamente. La fijación no es solo en la red afectiva — es en la asociación cruzada entre red representacional y red afectiva, lo que vuelve compulsiva la coactivación.\n\n> \"Una experiencia traumática hiperActiva la red de afectos (miedo, pánico) asociada al evento\"\n→ [De realismo cognitivo (1:28:10)](https://youtu.be/KNiph0qq93U?t=5290)\n\n> \"Cuando algo se parece a lo vivido, se activa también la red del miedo: si te mordió un perro, ver un perro activa las redes de \\\"perro\\\" y de \\\"miedo\\\" simultáneamente\"\n→ [De realismo cognitivo (1:28:10)](https://youtu.be/KNiph0qq93U?t=5290)\n\n### Toda experiencia deja huella: el yo se modifica con cada vivencia\n\nLa modificación de la red por cada experiencia no es solo del trauma: **toda** experiencia pasa a ser huella en la red neuronal y nos define. Hay redes más desarrolladas para ciertos dominios (espacio conocido, formas reconocidas) pero ninguna función cognitiva principal tiene un locus único.\n\n> \"Toda experiencia pasa a ser una huella en la red neuronal y nos define\"\n→ [De realismo cognitivo (1:29:42)](https://youtu.be/KNiph0qq93U?t=5382)\n\n### Impronta somática: ni tipo de memoria propio ni almacén\n\nLa última precisión refina el catálogo de memorias que la página presenta (episódica/procedural/semántica/afectiva): la **memoria por repetición** — repetir mentalmente, visualmente o verbalmente para memorizar — **no es propiamente un tipo de memoria** sino un ejercicio de impronta somática que refuerza la red que reproduce esa experiencia. La distinción es importante: la repetición no acumula contenido en un almacén, sino que tonifica la red representacional involucrada.\n\n> \"Repetir mentalmente, visualmente o verbalmente para memorizar es una impronta somática: se refuerza la red que reproduce esa experiencia\"\n→ [De realismo cognitivo (1:43:21)](https://youtu.be/KNiph0qq93U?t=6201)\n\n> \"No es propiamente un tipo de memoria sino un ejercicio de repetición somática\"\n→ [De realismo cognitivo (1:43:21)](https://youtu.be/KNiph0qq93U?t=6201)\n\nLas piezas conjuntas — anti-localismo, plasticidad, trauma como hiperactivación cruzada, impronta somática como tono de red — refuerzan la tesis nuclear: la mente humana no es máquina porque su sustrato no es un sistema de almacenes con direcciones fijas, sino una red distribuida en continua resíntesis. La consecuencia para la confrontación IA/humano queda intacta: ninguna arquitectura de memoria computacional reproduce esta dinámica sin renunciar a sus propias garantías de fidelidad.\n",
+      "wikilinks_introduced": [
+        "pensamiento-poetico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 4593,
+          "cite_markdown": "[De realismo cognitivo (1:16:33)](https://youtu.be/KNiph0qq93U?t=4593)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 4954,
+          "cite_markdown": "[De realismo cognitivo (1:22:34)](https://youtu.be/KNiph0qq93U?t=4954)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 5290,
+          "cite_markdown": "[De realismo cognitivo (1:28:10)](https://youtu.be/KNiph0qq93U?t=5290)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 5382,
+          "cite_markdown": "[De realismo cognitivo (1:29:42)](https://youtu.be/KNiph0qq93U?t=5382)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 5780,
+          "cite_markdown": "[De realismo cognitivo (1:36:20)](https://youtu.be/KNiph0qq93U?t=5780)"
+        },
+        {
+          "video_id": "KNiph0qq93U",
+          "timestamp_seconds": 6201,
+          "cite_markdown": "[De realismo cognitivo (1:43:21)](https://youtu.be/KNiph0qq93U?t=6201)"
+        }
+      ],
+      "rationale": "La página articula la memoria como reconstrucción no-locus + módulos diferenciados (episódica/procedural/semántica/afectiva). Material genuinamente nuevo respecto al cuerpo leído: (a) crítica nominal a Broca/Brodmann como genealogía del localismo falso; (b) plasticidad (las funciones que se pierden se reubican); (c) la fórmula 'memoria es fantasía conscientemente reconocida' como criterio de salud cognitiva; (d) trauma precisado como hiperactivación cruzada entre red representacional y red afectiva con ejemplo perro-mordedura; (e) impronta somática categorizada como NO un tipo de memoria sino tonificación de red. Insertar después del cierre de la sección 'Refinamientos posteriores' (Cuento contigo) acumula refinamientos sin disrumpir la estructura. Introduce wikilink a pensamiento-poetico (la metáfora del cajón es 'pensamiento poético' confundido con descripción técnica) — conexión natural al concepto promovido en este mismo vídeo.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Afantasía (término clínico estándar)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Término clínico-cognitivo establecido (Zeman et al. 2015) usado por el canal como caso clínico para refinar la componente imaginaria de la matriz N. El uso ilustrativo está integrado en el update a teoria-del-simbolo-en-proxy. La afantasía como objeto enciclopédico autónomo no merece página propia — es herramienta dentro del marco del canal, no concepto canal-específico.",
+      "quote_evidence": "La afantasía es la incapacidad de evocar imágenes mentales vívidas de forma voluntaria, pero existe en un gradiente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Alexitimia (término clínico estándar)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Término clínico-psiquiátrico establecido (Sifneos 1973) que el canal usa como análoga estructural de la afantasía en el dominio afectivo. Aplicación ya integrada en update a teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "La alexitimia es la incapacidad de reconocer emociones somáticamente: saben qué es el amor o el miedo pero no lo sienten como nudo en el estómago ni sudoración",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Localismo funcional / Broca / Brodmann",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Genealogía neurocientífica histórica que el canal critica nominalmente. El argumento contra el localismo funcional está capturado en el update a golem-de-cobre como crítica al modelo computacional de la mente. Broca y Brodmann como figuras históricas no merecen página propia en este wiki — son referencia técnica, no objeto enciclopédico del canal.",
+      "quote_evidence": "El localismo funcionalista (una función = una zona cerebral) es falso; proviene de Broca y Brodmann",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Experimento de niños ciegos operados (problema de Molyneux)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Experimento histórico-cognitivo (variante moderna del problema clásico de Molyneux 1688) que el canal cita como evidencia de la modularidad del imaginario. La función argumentativa está capturada en el update a teoria-del-simbolo-en-proxy. El experimento mismo no merece tratamiento autónomo.",
+      "quote_evidence": "Niños ciegos operados distinguían cubo y esfera por tacto pero no visualmente hasta tocarlos de nuevo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ejemplo de Ángel: imaginar un coche y dejar de ver al niño",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota concreta del speaker (Ángel) usada para ilustrar el mecanismo de abstracción por concentración en evocación. Sin valor enciclopédico autónomo — la mecánica está implícita en el update a teoria-del-simbolo-en-proxy via 'evocación requiere concentración'.",
+      "quote_evidence": "Ejemplo de Ángel: imagina un coche y deja de ver al niño que pasa detrás porque su atención está seleccionando la evocación como contenido mental",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Afantasía y capacidades matemáticas / impulsividad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación empírica del speaker basada en su muestra personal sobre correlación afantasía/matemáticas. Hipótesis sin desarrollo sustantivo ni sustento más allá del comentario observacional.",
+      "quote_evidence": "Las personas con afantasía que conoce el autor son especialmente buenas en matemáticas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tres grandes constructos de memoria (episódica, semántica, procedimental)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Taxonomía estándar de la psicología cognitiva (Tulving) que ya está articulada en golem-de-cobre como módulos diferenciados. La definición operativa de cada tipo en este vídeo es consistente con el material ya capturado, no añade refinamiento sustancial.",
+      "quote_evidence": "Memoria procedimental: cómo se hace algo, procesos físicos del cuerpo o del mundo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "EMDR (mencionado en el título pero no desarrollado en el summary)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El título del vídeo menciona EMDR pero el summary no incluye sección dedicada. La temática del trauma como hiperactivación de redes afectivas es lo más cercano y queda capturada en el update a golem-de-cobre. No procede tratamiento de EMDR como objeto autónomo sin material expositivo en el corpus.",
+      "quote_evidence": "Una experiencia traumática hiperActiva la red de afectos (miedo, pánico) asociada al evento",
+      "review_priority": "medium",
+      "review_priority_reason": "El título promete EMDR — si en versiones futuras el corpus completo del vídeo (chunks no capturados en este summary) trae material sobre EMDR, justificaría revisar para enriquecer página de trauma o crear concept-page.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Definición clásica de memoria como sistema de almacén-recuperación",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Exposición de la definición clásica que el canal va a desmontar a continuación. Es preámbulo retórico, no contenido enciclopédico nuevo — la crítica posterior está capturada en el update a golem-de-cobre.",
+      "quote_evidence": "La memoria en sentido clásico es un lugar o sistema mental donde se guarda la experiencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 9,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Pensamiento poético: representaciones encadenadas por relaciones imaginarias y afectivas (no formales)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

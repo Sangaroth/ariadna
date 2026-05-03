@@ -1,0 +1,313 @@
+{
+  "video_id": "sVLpdolZZUE",
+  "video_title": "4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "Gustavo Bueno",
+      "canonical_guess": "bueno-gustavo",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "substantial_treatment",
+      "minutes_estimate": 145,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El materialismo de Gustavo Bueno no es fisicalismo ni reduccionismo: los tres géneros tienen igual prioridad ontológica,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Gustavo Bueno eligió \"materialismo\" por razón pragmática: su ámbito era escolástico y marxista,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Substantial_treatment claro: ~2.5 horas de exposición sostenida del sistema buenista (ego trascendental, tres géneros de materialidad M1/M2/M3, mundo como discontinuo, regresos/progresos, distinción frente a fisicalismo y kantianismo). Cumple §2.2 'substantive_treatment ≥10 min en ≥1 vídeo'. Bueno es figura canónica de la filosofía española del s.XX; aunque no está en canonical_whitelist actual, encaja con el criterio §6 de 'pilar disciplinar — figura central en humanities.philosophy cuya ausencia sería editorialmente extraña'. Se marca como canonical_external_candidate para añadir a whitelist en commit explícito posterior.",
+      "quote_evidence": "El materialismo de Gustavo Bueno no es fisicalismo ni reduccionismo: los tres géneros tienen igual prioridad ontológica,"
+    },
+    {
+      "surface_form": "realismo cognitivo",
+      "canonical_guess": "realismo-cognitivo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "applied_framework",
+      "minutes_estimate": 55,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El realismo cognitivo se construye en oposición al psicoanálisis entendido como describir la psique con metáforas de otros ámbitos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El objetivo principal es distinguir entre materialismo y realismo cognitivo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El realismo cognitivo como teoría de la mente solo requiere ser sistemático respecto a la mente humana,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Concepto canal-específico ya operativo en el corpus (mencionado como 'cierre del bucle' en teoria-del-simbolo-en-proxy y como sustento implícito de golem-de-cobre) que en este vídeo recibe articulación dedicada como stance epistemológica triplemente distinguida: (a) frente al idealismo (no basta representación, hay que explicar conexión con realidad), (b) frente al materialismo filosófico de Bueno (no requiere ontología general, solo sistematicidad respecto a la mente humana), (c) frente al psicoanálisis (rechaza la descripción de la psique mediante metáforas trasladadas de otros ámbitos). El speaker lo presenta como assumed_prior — no lo introduce sino que lo aplica como marco propio ya consolidado, lo que cumple §2.1 framing-mark assumed_prior. La página es necesaria como anclaje del concepto que ya wikilinkan implícitamente teoria-del-simbolo y golem-de-cobre.",
+      "quote_evidence": "El realismo cognitivo necesita explicar la conexión entre representación y realidad,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## Articulaciones posteriores: oposición al psicoanálisis y mecanismo de la meditación\n\nEn el directo experimental de 8 horas de estudio (8 enero 2025), el canal articula con más detalle el estatuto de [[realismo-cognitivo]] como cierre epistemológico del marco y añade dos piezas nuevas a la teoría:\n\n**Realismo cognitivo en oposición al psicoanálisis.** El canal precisa que su realismo cognitivo se construye explícitamente contra el procedimiento psicoanalítico de describir la psique mediante metáforas trasladadas de otros ámbitos:\n\n> \"El realismo cognitivo se construye en oposición al psicoanálisis entendido como describir la psique con metáforas de otros ámbitos\"\n→ [4x03 Directo experimental, 1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)\n\nEl ejemplo paradigmático es el almacén-recuperación con que se describe la memoria:\n\n> \"'La memoria no existe' como proceso de almacenamiento y recuperación: es una metáfora insuficiente\"\n→ [4x03 Directo experimental, 1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)\n\n> \"Lo que describimos no coincide suficientemente con la realidad de la función propia\"\n→ [4x03 Directo experimental, 1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)\n\nLa exigencia es de adecuación funcional: la metáfora vale si captura la función propia del proceso descrito (en el sentido de Millikan, mencionado al final de la sesión); deja de valer cuando arrastra ontología ajena al fenómeno. Este criterio cierra el bucle filosofía / teoría de la mente que la página enunciaba como problema abierto.\n\n**Default Mode Network y Action Mode Network como anticorrelación.** El canal añade un mecanismo neurofisiológico al modelo: las dos redes corticales (la de actividad representacional espontánea y la de control atencional dirigido) operan en anticorrelación directa, y la meditación se entiende como inhibición de la primera:\n\n> \"La Default Mode Network y la Action Mode Network están en anticorrelación directa\"\n→ [4x03 Directo experimental, 5:12:05](https://youtu.be/sVLpdolZZUE?t=18725)\n\n> \"Proxy postula que ahí está el mecanismo de la meditación: inhibir la mayor cantidad de actividad representacional posible\"\n→ [4x03 Directo experimental, 5:12:05](https://youtu.be/sVLpdolZZUE?t=18725)\n\n> \"En un trabajo de fin de máster postuló dos redes (atencional y perceptiva) en anticorrelación\"\n→ [4x03 Directo experimental, 5:12:05](https://youtu.be/sVLpdolZZUE?t=18725)\n\nLa pieza es genealógica: el speaker sitúa esta postulación en su trabajo de fin de máster, anterior al corpus del canal. La meditación queda así formulada en términos de la matriz noética del marco: reducción del caudal de re-evocación representacional para estabilizar la franja explícita acotada a 12 bits/s.\n\n**Diálogo con el materialismo filosófico de Bueno.** En la conferencia que ocupa la mitad central del directo, el canal expone sostenidamente el sistema de [[bueno-gustavo]] ([[materialismo-filosofico]]: tres géneros de materialidad M1/M2/M3, ego trascendental, mundo como pluralidad discontinua) y precisa la distancia entre ambos marcos: el realismo cognitivo no necesita ontología general (no se compromete con M1/M2/M3 ni con ego trascendental como bisagra), solo sistematicidad respecto a la mente humana.\n\n> \"El realismo cognitivo como teoría de la mente solo requiere ser sistemático respecto a la mente humana\"\n→ [4x03 Directo experimental, 19:10](https://youtu.be/sVLpdolZZUE?t=1150)\n\nEl ahorro ontológico es deliberado: el canal trabaja en el campo humano y no necesita decidir sobre la realidad como tal, solo sobre las representaciones.\n\n",
+      "wikilinks_introduced": [
+        "realismo-cognitivo",
+        "bueno-gustavo",
+        "materialismo-filosofico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "sVLpdolZZUE",
+          "timestamp_seconds": 1150,
+          "cite_markdown": "[4x03 Directo experimental, 19:10](https://youtu.be/sVLpdolZZUE?t=1150)"
+        },
+        {
+          "video_id": "sVLpdolZZUE",
+          "timestamp_seconds": 4428,
+          "cite_markdown": "[4x03 Directo experimental, 1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)"
+        },
+        {
+          "video_id": "sVLpdolZZUE",
+          "timestamp_seconds": 18725,
+          "cite_markdown": "[4x03 Directo experimental, 5:12:05](https://youtu.be/sVLpdolZZUE?t=18725)"
+        }
+      ],
+      "rationale": "El page enuncia el bucle filosofía/teoría-de-la-mente como problema abierto cerrado por 'realismo cognitivo' pero sin desarrollar cómo. Este vídeo explicita: (a) el criterio de oposición al psicoanálisis como descripción-metáfora — la función propia (Millikan) marca la frontera entre metáfora válida e inadecuada, (b) un mecanismo neurofisiológico (DMN/AMN anticorrelación) que ancla la meditación al modelo de matriz noética, (c) la distinción frente al materialismo filosófico de Bueno — distinto ahorro ontológico. Material genuinamente nuevo, abre las wikilinks a tres páginas que se promueven en este vídeo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "genesis-mitologico",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## El Génesis tolkieniano: emanación desde Ilúvatar",
+      "section_target": "",
+      "content_proposed": "## Génesis y metafísica: la hipóstasis como procedimiento común\n\nEn el directo experimental de estudio (8 enero 2025), el canal articula una identificación operativa entre el procedimiento mitológico y el procedimiento metafísico: ambos parten de la misma operación cognitiva, hipostasiar — sustantificar una categoría mental como fundamento de la realidad.\n\n> \"La metafísica supone hipostasiar o sustantificar algún elemento como fundamento de la realidad en general\"\n→ [4x03 Directo experimental, 19:10](https://youtu.be/sVLpdolZZUE?t=1150)\n\n> \"El proceso cognitivo de hipostasiar la realidad en ontología no difiere del que genera las emanaciones mitológicas\"\n→ [4x03 Directo experimental, 1:01:34](https://youtu.be/sVLpdolZZUE?t=3694)\n\n> \"Los mitos genésicos empiezan con una hipóstasis de la nada: 'En el principio era el Verbo'\"\n→ [4x03 Directo experimental, 1:01:34](https://youtu.be/sVLpdolZZUE?t=3694)\n\nEl canal recorre los ejemplos clásicos donde la operación metafísica es visible:\n\n> \"Tales hipostasiaba el agua como elemento primordial: operaba metafísicamente\"\n→ [4x03 Directo experimental, 1:03:37](https://youtu.be/sVLpdolZZUE?t=3817)\n\n> \"Los pitagóricos postulaban las matemáticas como fundamento de la realidad\"\n→ [4x03 Directo experimental, 1:03:37](https://youtu.be/sVLpdolZZUE?t=3817)\n\n> \"Parménides: el ser es macizo, lleno, entero, incorruptible; el cambio es ilusorio porque negaría el ser\"\n→ [4x03 Directo experimental, 1:03:37](https://youtu.be/sVLpdolZZUE?t=3817)\n\nLa identificación se anuncia como descubrimiento del propio canal:\n\n> \"Proxy descubre que el procedimiento mitológico recapitula la hipóstasis metafísica\"\n→ [4x03 Directo experimental, 1:06:49](https://youtu.be/sVLpdolZZUE?t=4009)\n\nLa consecuencia editorial es que el Génesis y el sistema metafísico no son procedimientos psíquicos distintos sino dos vestiduras del mismo gesto cognitivo: lo que en Tales es agua, en los pitagóricos número, en Parménides ser, en el Génesis bíblico Verbo, en el Silmarillion música de Ilúvatar. El argumento opera en sentido inverso al refuerzo del isomorfismo Génesis ↔ síntesis mental que la sección anterior establece: aquí no es la mente la que se reconoce en el mito, sino la metafísica la que se reconoce como mitología sin saberse tal — y el canal la lee desde el lado de la [[mitologia-propia-impropia|mitología impropia]] cuando la operación deja de reconocerse a sí misma. Este es el punto donde [[bueno-gustavo|Bueno]] y su [[materialismo-filosofico]] toman contacto crítico con el marco mitológico del canal: el sistema buenista distingue ontología (operación legítima sobre el ser) de metafísica (hipóstasis ilegítima de un elemento como fundamento), y esa distinción es la que el canal aplica al desactivar la metafísica como mito impropio.\n\n",
+      "wikilinks_introduced": [
+        "bueno-gustavo",
+        "materialismo-filosofico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "sVLpdolZZUE",
+          "timestamp_seconds": 1150,
+          "cite_markdown": "[4x03 Directo experimental, 19:10](https://youtu.be/sVLpdolZZUE?t=1150)"
+        },
+        {
+          "video_id": "sVLpdolZZUE",
+          "timestamp_seconds": 3694,
+          "cite_markdown": "[4x03 Directo experimental, 1:01:34](https://youtu.be/sVLpdolZZUE?t=3694)"
+        },
+        {
+          "video_id": "sVLpdolZZUE",
+          "timestamp_seconds": 3817,
+          "cite_markdown": "[4x03 Directo experimental, 1:03:37](https://youtu.be/sVLpdolZZUE?t=3817)"
+        },
+        {
+          "video_id": "sVLpdolZZUE",
+          "timestamp_seconds": 4009,
+          "cite_markdown": "[4x03 Directo experimental, 1:06:49](https://youtu.be/sVLpdolZZUE?t=4009)"
+        }
+      ],
+      "rationale": "La página articula el isomorfismo Génesis ↔ síntesis mental pero no contempla la otra cara del mismo gesto cognitivo: la metafísica clásica como mismo procedimiento (hipostasiar) sin reconocimiento de su autorreferencialidad. El vídeo aporta el descubrimiento explícito ('Proxy descubre que el procedimiento mitológico recapitula la hipóstasis metafísica') con ejemplos canónicos (Tales/agua, pitagóricos/número, Parménides/ser, Verbo) que cierran la simetría: los Génesis son metafísicas que se saben mito; las metafísicas son Génesis que no se saben mito. La articulación añade además el contacto entre el marco mitológico del canal y la distinción ontología/metafísica de Bueno, que es precisamente el operador editorial usado para desactivar la metafísica.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "ego trascendental",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Concepto central del materialismo filosófico de Bueno tratado durante ~2h en este vídeo (chunks 2:38:04, 2:48:55, 3:17:00, 4:50:42). Se subsume en la página promote_new materialismo-filosofico como pieza interna del sistema (junto a tres géneros de materialidad, regresos/progresos, estroma). Si futuros vídeos lo trataran como objeto monográfico independiente del sistema buenista, podría reconsiderarse para página propia.",
+      "quote_evidence": "El ego trascendental es necesario como bisagra entre el mundo (Mi) y la materia ontológico-general (M),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-filosofico"
+    },
+    {
+      "surface_form": "tres géneros de materialidad (M1, M2, M3)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Núcleo taxonómico del materialismo filosófico (M1 físico, M2 psíquico, M3 lógico). Pieza interna del sistema buenista, capturado en la página promote_new materialismo-filosofico.",
+      "quote_evidence": "M1 (físico), M2 (psíquico) y M3 (lógico) son inconmensurables pero internamente imbricados,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-filosofico"
+    },
+    {
+      "surface_form": "estroma (entidad como entretejimiento)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Categoría buenista mencionada brevemente como descripción de cada entidad del mundo (entretejimiento físico/psíquico/lógico). Subsumida en materialismo-filosofico.",
+      "quote_evidence": "Cada entidad del mundo es un \"estroma\": entretejimiento de lo físico, lo psíquico y lo lógico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-filosofico"
+    },
+    {
+      "surface_form": "regresos y progresos (dialéctica buenista)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Mecánica dialéctica del materialismo filosófico (regreso desde fenómenos hacia ideas/hipótesis; progreso de vuelta para reconstruir las posiciones). Subsumida en materialismo-filosofico como pieza metodológica del sistema.",
+      "quote_evidence": "Regresos: salida de la caverna, de fenómenos y creencias hacia ideas, hipótesis y componentes esenciales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-filosofico"
+    },
+    {
+      "surface_form": "Default Mode Network / Action Mode Network",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Mecanismo neurofisiológico postulado por el canal como sustrato de la meditación, con genealogía explícita (TFM del speaker). Capturado vía pending_update a teoria-del-simbolo-en-proxy en sección 'Articulaciones posteriores'. No merece página autónoma — es pieza del modelo cognitivo del canal, no concepto de neurociencia teórica que el canal articule originalmente más allá de esta atribución.",
+      "quote_evidence": "La Default Mode Network y la Action Mode Network están en anticorrelación directa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "trastorno histriónico de la personalidad (caso clínico R)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Exposición pedagógica de diagnóstico diferencial DSM (vs límite, antisocial, narcisista, TPOC) sobre caso clínico inventado de mujer de 52 años. ~16 min. Concepto técnico de psicopatología clínica fuera del alcance §1: el canal expone el diagnóstico estándar sin articular marco psicológico-arquetípico-cultural propio sobre el patrón histriónico. Per scope §1.2, esto es 'explica un concepto técnico estándar sin aplicarlo a su marco' → no promueve página autónoma. La paciente R es caso inventado (pedagogical_example), no figura real ni objeto enciclopédico.",
+      "quote_evidence": "Diferencial con límite: la paciente no tiene sentimientos de vacío ni alteración de identidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Atlántida en Doñana / Tartesos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis personal del canal articulada como hipótesis arqueológica ('Proxy defiende que la Atlántida estaba en Doñana, coincidiendo con el relato de Platón') con apoyo en hallazgos de Valencina de la Concepción y paralelismo con asentamientos fenicios en Creta. Tratamiento ~10 min, fuera de las disciplinas centrales del wiki (arqueología prehistórica). Sin marco psicológico-arquetípico aplicado más allá del paralelo fenicio-atlante. Single-video. Vigilar si reaparece como tesis articulada en vídeos sobre mitos peninsulares.",
+      "quote_evidence": "Proxy defiende que la Atlántida estaba en Doñana, coincidiendo con el relato de Platón (\"más allá de las columnas de Hércules\"),",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis personal del canal con marker 'Proxy defiende' — vigilar recurrencia en vídeos posteriores sobre mitología peninsular o lecturas de Platón",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Polaris (libro en escritura del canal)",
+      "reason_code": "promo",
+      "reason_detail": "Proyecto editorial propio del canal en estado de escritura, mencionado al hilo del estudio del mitraísmo y el zodíaco. Meta-canal, no contenido enciclopédico. Discard puro.",
+      "quote_evidence": "Proxy planea incorporar estos conocimientos a su libro Polaris,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "mitraísmo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Material leído del libro de estudio (sobre Metrodoro, arte de la memoria, signos del zodíaco). El canal lee/estudia, no articula marco propio sobre mitraísmo. ~5 min. Si en vídeos futuros del corpus se articula análisis arquetípico del culto a Mitras (theos ek petras como mito polar de nacimiento de la roca, paralelos con Cristo), podría reconsiderarse. Por ahora object_of_study.",
+      "quote_evidence": "Los primeros tiempos del mitraísmo son oscuros; se difunde por el Imperio Romano tras campañas en Oriente,",
+      "review_priority": "medium",
+      "review_priority_reason": "candidato a entity_work / concept arqueológico-religioso si se desarrolla con marco arquetípico en vídeo monográfico",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Metrodoro de Escepsis (arte de la memoria)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura histórica mencionada al hilo del libro de estudio: perfeccionó el arte mnemotécnico de Simónides usando el zodíaco como sistema de loci. ~3 min, no merece página de autor. Domain (mnemotécnica antigua) marginal al alcance editorial.",
+      "quote_evidence": "Metrodoro perfeccionó el arte de la memoria de Simónides usando signos del zodíaco como loci,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "mitos zodiacales (Piscis, Tauro, Europa-Minos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recorrido breve por simbología zodiacal (Piscis: Afrodita y Cupido huyendo de Tifón; Tauro: rapto de Europa por Zeus; vínculo con cretenses-minoicos). Material leído del libro estudiado. Sin articulación arquetípica propia del canal. ~5 min.",
+      "quote_evidence": "Piscis: Afrodita y Cupido huyendo de Tifón se atan las colas al convertirse en peces; símbolo de amor materno-filial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "problema de Gettier",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Problema epistemológico clásico (1963) usado como caso pedagógico para articular las exigencias del realismo cognitivo (no basta creencia + verdad + justificación; hace falta conexión verificable entre representación y realidad). Concepto técnico de epistemología analítica fuera de las páginas-objeto del wiki. La articulación sí enriquece la página realismo-cognitivo (cuando se compile) como motivo introductorio.",
+      "quote_evidence": "Newton cree que tiene una manzana, la tiene, y tiene razones para creerlo: tres condiciones del conocimiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Parménides / Tales / pitagóricos / Aristóteles",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Recorrido pedagógico clásico por la metafísica presocrática y aristotélica como ejemplo del procedimiento de hipostasiar (Tales/agua, pitagóricos/número, Parménides/ser, Aristóteles/acto-potencia). El canal no analiza estas figuras como autores sustantivos — las usa como ilustración del paralelismo metafísica/mitología. ~5 min cada una. Material capturado en la pending_update a genesis-mitologico.",
+      "quote_evidence": "Tales hipostasiaba el agua como elemento primordial: operaba metafísicamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "genesis-mitologico"
+    },
+    {
+      "surface_form": "función propia (Ruth Millikan)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto teleosemántico mencionado al final de la sesión (6:06:18) cuando el speaker intenta entender la definición de Millikan en inglés para avanzar en su escritura. Mención metodológica, sin desarrollo. Si recurre como pieza explícita del realismo cognitivo en vídeos futuros, podría justificar enriquecimiento. Por ahora discard.",
+      "quote_evidence": "Una función F es función directa de X si X existe porque su característica C sirve para hacer F,",
+      "review_priority": "medium",
+      "review_priority_reason": "el criterio de 'función propia' está siendo invocado como frontera entre metáfora válida e inadecuada en el realismo cognitivo — vigilar si se articula explícitamente",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Fortunata y Jacinta (Paloma Hernández) — manual de ontología",
+      "reason_code": "passing_mention",
+      "reason_detail": "Manual/libro de estudio sobre el que el speaker repasa ontología en el directo. Aparece §3.4 'recommended_reference': el canal lo declara como base de estudio puntual de la sesión. Sin desarrollo bibliográfico explícito ni rol pedagógico recurrente declarado en el corpus. Recoger como referencia con review_priority medium para incorporación a una eventual página índice de bibliografía del canal si reaparece en otros vídeos.",
+      "quote_evidence": "Va a repasar ontología con el libro de Fortunata y Jacinta (Paloma Hernández),",
+      "review_priority": "medium",
+      "review_priority_reason": "candidato a recommended_reference (manual de ontología usado como input pedagógico) — confirmar identidad bibliográfica y vigilar recurrencia",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "atención dividida (no es atención plena)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación cognitiva breve (5:42:01): la memoria procedimental automática no cuenta como atención dividida; la atención dividida implica esfuerzo de representación mental y siempre conlleva pérdida. Pieza compatible con el modelo cognitivo del canal pero sin desarrollo articulado en este vídeo. ~3 min.",
+      "quote_evidence": "Solo puedes concentrarte plenamente en una cosa a la vez; dividir siempre implica pérdida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Luna (interlocutora del directo)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Espectadora del directo cuyas intervenciones (¿es cognoscible la realidad? ¿qué hay del idealismo?) sirven al canal para articular la posición realista cognitiva. No es figura enciclopédica, es interlocutora circunstancial.",
+      "quote_evidence": "Luna plantea que solo accedemos a través de representaciones mentales y que la percepción siempre sesga,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Gustavo Bueno como candidato a canonical_whitelist",
+      "reason_code": "passing_mention",
+      "reason_detail": "MARCADO PARA REVISIÓN HUMANA — propuesta de adición a canonical_whitelist.json:authors. Bueno encaja con criterio §6 'pilar disciplinar de humanities.philosophy cuya ausencia sería editorialmente extraña' y con §6 'marco aplicado' (el canal expone su sistema durante 2.5h sostenidos en este vídeo y aplica regresos/progresos como método). Substantive_treatment >> 10 min cumplido. Recomendación: añadir entry con auto_promote: true, domain_primary: humanities.philosophy, reason: 'Filósofo español del s.XX, sistema (materialismo filosófico) trabajado monográficamente por el canal en sesiones de estudio. Distinción frente a fisicalismo y kantianismo articulada como bisagra del realismo cognitivo del canal'. Esta entrada queda en discard como flag canonical_external_candidate; la promoción ya se está haciendo vía entities[].promote_new.",
+      "quote_evidence": "El materialismo de Gustavo Bueno no es fisicalismo ni reduccionismo: los tres géneros tienen igual prioridad ontológica,",
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external_candidate — añadir a canonical_whitelist.json:authors con commit explícito del propietario; relevante para promociones automáticas en futuros vídeos donde Bueno aparezca brevemente",
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 3,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 18,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T01:01:05Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP entity[materialismo-filosofico] decision=promote_new quote no literal: 'El materialismo filosófico no es fisicalismo'"
+  ]
+}
