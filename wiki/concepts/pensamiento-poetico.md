@@ -121,10 +121,12 @@ Esto enlaza con la distinción canal-específica entre [[mitologia-propia-improp
 
 
 
+
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
+- **Biblioteca de Babel II** — chunks: [0:17](https://youtu.be/IytpR6sGWXg?t=17)
 

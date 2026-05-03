@@ -131,6 +131,23 @@ Los casos canónicos que el canal articula — Darth Vader, Anakin, Azulín en [
 
 
 
+## El antihéroe ordinario: la inversión por minimum effort
+
+El monomito admite una tercera vía de fracaso, distinta del escapismo de Harry Potter y del [[heroe-truncado|truncamiento activo]] del caballero negro: la del **antihéroe ordinario** que recorre la estructura del héroe sin saberlo, sin requisitos heroicos y sin garantía de gloria. El canal articula la categoría en el análisis monográfico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] como ejemplo paradigmático.
+
+> "El antihéroe no es \"contra-héroe\" sino aquel que no es modelo a seguir: recorre el camino del héroe sin saberlo y sin garantía de gloria,"
+→ [El Gran Lebowsky y el Tarot Invertido (02:16)](https://youtu.be/yoWJWwYH_pE?t=136)
+
+> "Un héroe puede ser simplemente el hombre que está en ese momento y en ese lugar, sin requisitos heroicos,"
+→ [El Gran Lebowsky y el Tarot Invertido (02:16)](https://youtu.be/yoWJWwYH_pE?t=136)
+
+La distinción frente a la [[uranico-telurico-cetonico|narrativa uránica]] es operativa: donde el héroe solar es esperado por el gran padre celestial para que sea digno de sus dones, el antihéroe carece de dones, particularidades o intención heroica — es un número normal arrastrado al periplo. La metáfora canal-específica es la **planta capitana**: la rueda del desierto que el viento lleva de Los Ángeles al mar, paso de lo ordinario a lo extraordinario sin proponérselo.
+
+La pieza completa el marco diagnóstico del monomito como vara crítica con tres figuras de inversión: el escapismo (Harry Potter, motivación interna ausente), el truncamiento (caballero negro, héroe que aprende contra el mundo), y el antihéroe (héroe sin saberlo). Los Coen aplican la estructura deliberadamente, marcando las tres fases de Campbell con sueños del protagonista y recorriendo los 22 Arcanos del [[tarot-arquetipico|tarot]] en su forma invertida.
+
+
+
+
 ## Las dos fases masculinas del monomito en la lectura del canal
 
 El canal articula una segmentación propia del viaje del héroe en clave masculina y madurativa, distinta de la enumeración campbelliana de etapas (llamada, umbral, vientre de la ballena, pruebas, apoteosis, regreso). El diagnóstico parte de una observación clínica: el hombre poco hombre tiene demasiada mente implícita — no ha volcado su interior en actos suficientes para conocerse desde fuera. La construcción del varón requiere recorrer dos fases consecutivas, cada una con su misterio propio.
@@ -228,11 +245,13 @@ La pieza importa para el marco de la página: el monomito como vara diagnóstica
 
 - **Las fases campbellianas explícitas** (llamada, rechazo, mentor, umbral, vientre de la ballena, pruebas, apoteosis, regreso con el elixir) no aparecen enumeradas en este fragmento; el corpus las articula dispersamente en otros vídeos
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Versiones invertidas del viaje -->
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: el canal las trabaja en lecturas de Matrix II/III y El Gran Lebowski pero no se -->
 - **Versiones invertidas del viaje** (camino destructivo, antihéroe) merecen tratamiento propio — el canal las trabaja en lecturas de Matrix II/III y El Gran Lebowski pero no se desarrollan aquí
 - **Genealogía del concepto fuera de Campbell**: el canal no aborda en este fragmento las raíces del monomito en Frazer, Eliade o la mitología comparada anterior
 - **Distinción entre monomito y viaje del héroe junguiano**: Campbell y Jung no son idénticos; el canal los fusiona operativamente sin marcar la costura teórica
 
 ## Citations
+
 
 
 
@@ -265,4 +284,5 @@ La pieza importa para el marco de la página: el monomito como vara diagnóstica
 - **Análisis arquetípico: Excalibur** — chunks: [0:33](https://youtu.be/daC37T5cbWs?t=33) · [7:38](https://youtu.be/daC37T5cbWs?t=458) · [1:31:59](https://youtu.be/daC37T5cbWs?t=5519)
 - **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [54:46](https://youtu.be/NYZEm8mcPiQ?t=3286) · [57:48](https://youtu.be/NYZEm8mcPiQ?t=3468) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [21:51](https://youtu.be/X2c2a3mQBOs?t=1311) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:39:25](https://youtu.be/X2c2a3mQBOs?t=5965)
+- **El Gran Lebowsky y el Tarot Invertido** — chunks: [2:16](https://youtu.be/yoWJWwYH_pE?t=136) · [1:10:52](https://youtu.be/yoWJWwYH_pE?t=4252)
 

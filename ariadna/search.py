@@ -82,6 +82,17 @@ class Searcher:
     # Score mínimo de un raw_chunk para activar el lookup indirecto wiki vía citations.
     # Chunks débiles no arrastran páginas wiki — evita falsos positivos.
     CITATION_LOOKUP_MIN_SCORE = 0.55
+    # Threshold más estricto para el fallback same-video (chunk no halló cita
+    # exacta en su timestamp, pero el vídeo entero cita la page en otros chunks).
+    # Más estricto porque pass-2 amplifica matches débiles → exigimos que el
+    # chunk en sí sea genuinamente relevante antes de heredar wikis del vídeo.
+    CITATION_LOOKUP_VIDEO_FALLBACK_MIN_SCORE = 0.60
+    # Penalty multiplicativo para video-only matches: el chunk no está citado
+    # exactamente; la asociación es por co-pertenencia al mismo vídeo. Score
+    # efectivo = chunk_score * MULTIPLIER. Calibrado a 0.3 para que un
+    # video-only match con chunk_score=0.7 (≈0.21) quede claramente por
+    # debajo de un exact match con chunk_score=0.6 (≈0.6) en el ranking.
+    CITATION_VIDEO_FALLBACK_SCORE_MULTIPLIER = 0.3
 
     def __init__(
         self,
@@ -267,7 +278,13 @@ class Searcher:
                 "warning": warning,
                 "wiki_pages_count": len(wiki_pages_compact),
                 "wiki_via_citation_count": sum(
+                    1 for w in wiki_pages_compact if w.get("match_via") in {"citation", "citation_video", "both"}
+                ),
+                "wiki_via_citation_exact_count": sum(
                     1 for w in wiki_pages_compact if w.get("match_via") in {"citation", "both"}
+                ),
+                "wiki_via_citation_video_only_count": sum(
+                    1 for w in wiki_pages_compact if w.get("match_via") == "citation_video"
                 ),
                 "raw_chunks_count": len(raw_results),
             },
@@ -282,9 +299,21 @@ class Searcher:
         """Para los raw_chunks con score >= CITATION_LOOKUP_MIN_SCORE, busca en
         data/wiki.db:citations qué wiki pages los citan.
 
-        Devuelve un dict {page_id: [chunk_summary, ...]} donde chunk_summary contiene
-        info mínima del chunk citante (video_id, timestamp_seconds, video_title,
-        chunk_score) — útil para que el LLM sepa por qué entró la página.
+        Dos passes:
+          1. **Exact match** (video_id, timestamp_seconds): el chunk está citado
+             literalmente en la wiki page. match_strength='exact'.
+          2. **Same-video fallback**: chunks que no hallaron exact match (con
+             score más estricto: CITATION_LOOKUP_VIDEO_FALLBACK_MIN_SCORE)
+             buscan páginas citadas POR EL MISMO VÍDEO (cualquier timestamp).
+             match_strength='video_only', score efectivo penalizado por
+             CITATION_VIDEO_FALLBACK_SCORE_MULTIPLIER (0.3 por defecto).
+             Razón: un vídeo de 2h sobre Tolkien que cita mito-polar en t=300
+             arrastra mito-polar para chunks vecinos (t=600, t=900) que el
+             extractor no citó explícitamente — recall mejorado con penalty.
+
+        Devuelve un dict {page_id: [chunk_summary, ...]} donde chunk_summary
+        contiene info del chunk disparador (video_id, timestamp_seconds,
+        video_title, chunk_score, match_strength, effective_score).
 
         Si wiki.db no existe, devuelve {}.
         """
@@ -293,10 +322,11 @@ class Searcher:
             return {}
         try:
             hits: dict[str, list[dict]] = {}
+            # Track chunks que no hallaron exact match para pass 2
+            chunks_for_fallback: list[dict] = []
+
+            # --- Pass 1: exact match (video_id, timestamp_seconds) ---
             for r in raw_results:
-                # Usa cosine (dense_score si vino reranked, score si vino raw).
-                # El threshold 0.55 está calibrado a coseno; rerank_score tiene
-                # otra escala (sigmoid logits), no comparable.
                 dense_score = float(r.get("dense_score", r.get("score", 0.0)))
                 if dense_score < self.CITATION_LOOKUP_MIN_SCORE:
                     continue
@@ -309,15 +339,63 @@ class Searcher:
                        WHERE video_id = ? AND timestamp_seconds = ?""",
                     (video_id, int(ts or 0)),
                 ).fetchall()
+                if rows:
+                    chunk_summary = {
+                        "video_id": video_id,
+                        "timestamp_seconds": int(ts or 0),
+                        "video_title": r.get("video_title"),
+                        "chunk_score": round(dense_score, 4),
+                        "match_strength": "exact",
+                        "effective_score": round(dense_score, 4),
+                    }
+                    for (page_id,) in rows:
+                        hits.setdefault(page_id, []).append(chunk_summary)
+                else:
+                    # No exact match → candidato para pass 2 si pasa threshold estricto
+                    if dense_score >= self.CITATION_LOOKUP_VIDEO_FALLBACK_MIN_SCORE:
+                        chunks_for_fallback.append({
+                            "video_id": video_id,
+                            "timestamp_seconds": int(ts or 0),
+                            "video_title": r.get("video_title"),
+                            "chunk_score": round(dense_score, 4),
+                        })
+
+            # --- Pass 2: same-video fallback ---
+            # Pages que ya entraron por exact match para este (video, *): no
+            # las contamos otra vez con video-only (sería ruido). Si una page
+            # tiene match exact para algún chunk del vídeo, el chunk vecino
+            # video-only no aporta info adicional a esa page.
+            videos_with_exact_match_per_page: dict[str, set[str]] = {}
+            for pid, chunks in hits.items():
+                videos_with_exact_match_per_page[pid] = {
+                    c["video_id"] for c in chunks if c.get("match_strength") == "exact"
+                }
+
+            for chunk in chunks_for_fallback:
+                video_id = chunk["video_id"]
+                rows = conn.execute(
+                    """SELECT DISTINCT page_id FROM citations WHERE video_id = ?""",
+                    (video_id,),
+                ).fetchall()
                 if not rows:
                     continue
+                effective = round(
+                    chunk["chunk_score"] * self.CITATION_VIDEO_FALLBACK_SCORE_MULTIPLIER, 4
+                )
                 chunk_summary = {
                     "video_id": video_id,
-                    "timestamp_seconds": int(ts or 0),
-                    "video_title": r.get("video_title"),
-                    "chunk_score": round(dense_score, 4),
+                    "timestamp_seconds": chunk["timestamp_seconds"],
+                    "video_title": chunk["video_title"],
+                    "chunk_score": chunk["chunk_score"],
+                    "match_strength": "video_only",
+                    "effective_score": effective,
                 }
                 for (page_id,) in rows:
+                    # Si la page ya tiene exact match para este vídeo, skip
+                    # (no añade info: el chunk video-only es huérfano dentro
+                    # del vídeo, pero la page ya está cubierta por otro chunk).
+                    if video_id in videos_with_exact_match_per_page.get(page_id, set()):
+                        continue
                     hits.setdefault(page_id, []).append(chunk_summary)
             return hits
         finally:
@@ -443,6 +521,8 @@ class Searcher:
             pid = w["page_id"]
             triggering = citation_hits.get(pid)
             if triggering:
+                # match_via 'both' aplica aunque las citas sean video-only:
+                # la page ya entró semánticamente, las citas son enrichment.
                 w["match_via"] = "both"
                 w["matched_via_chunks"] = triggering
             else:
@@ -460,9 +540,17 @@ class Searcher:
                 # Citation huérfana — el JOIN devolvió un page_id que no existe en pages.
                 # Posible si el DB está stale respecto a wiki/. Skip silencioso.
                 continue
-            score = max(c["chunk_score"] for c in chunks)
+            # Score = max(effective_score) para que video-only matches ranqueen
+            # por debajo de exact matches con scores comparables. Si la page
+            # solo tiene chunks video-only, su score se ve correctamente
+            # penalizado para no dominar el output sobre semánticas reales.
+            effective_scores = [c.get("effective_score", c["chunk_score"]) for c in chunks]
+            score = max(effective_scores)
             page_dict["score"] = round(float(score), 4)
-            page_dict["match_via"] = "citation"
+            # Distinguir entre citation con al menos un exact y solo-video-only:
+            # el LLM puede usar match_via para juzgar la fuerza de la conexión.
+            has_exact = any(c.get("match_strength") == "exact" for c in chunks)
+            page_dict["match_via"] = "citation" if has_exact else "citation_video"
             page_dict["matched_via_chunks"] = chunks
             sem_compact.append(page_dict)
 

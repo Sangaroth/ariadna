@@ -91,6 +91,23 @@ La secuencia completa que el canal articula: Loco (expulsión desde el sol) → 
 La lectura es operativa: el [[mito-solar|mito solar]] del héroe (Superman como recapitulación contemporánea de Cristo / Hércules / Apolo) se reconoce arcano-por-arcano en la película. La pieza importa porque cierra el sentido del tarot como **mapa fijo de la trayectoria heroica**, no como conjunto suelto de imágenes — los arcanos no son símbolos sueltos, son una secuencia ordenada que cualquier mito solar contemporáneo recapitula.
 
 
+
+## El Gran Lebowski como recorrido completo de los 22 Arcanos invertidos
+
+El análisis arquetípico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] articula la película como **contraparte estructural exacta** de [[man-of-steel-2013-film|Man of Steel]]: donde Superman recorre los 22 Arcanos en su forma directa (mito solar cumplido), El Nota recorre los mismos 22 Arcanos en su forma **invertida** (anti-héroe sin dones, sin intención, sin dirección).
+
+> "Todo es deliberado: las cartas del tarot invertidas, las tres fases de Campbell separadas por sueños,"
+→ [El Gran Lebowsky y el Tarot Invertido (1:10:52)](https://youtu.be/yoWJWwYH_pE?t=4252)
+
+La secuencia coordina cada arcano invertido con un momento del fracaso heroico: Loco invertido (apatía, "El Nota" como nombre vaciado), Mago invertido (incapacidad de iniciativa, repetición de frases ajenas), Sacerdotisa invertida (cero intuición), Emperatriz invertida (la mantenida y la felación por mil dólares), Emperador invertido (el super-yo desbocado de Walter), Hierofante invertido (cero autoridad), Amantes invertidos (planes que salen mal), Carro invertido (entrega fallida), Fuerza invertida (la artista feminista, la esposa autosecuestrada), Ermitaño invertido (falso ermitaño que no reflexiona), Rueda invertida (mala suerte), Justicia invertida (cascada de calamidades), Colgado invertido (victimización), Muerte invertida (orgasmo en lugar de dolor), Templanza invertida (Walter destruye el coche del vecino), Demonio invertido (Jackie Treehorn, librarse de la culpa), Torre invertida (sueño tras envenenamiento), Estrella invertida (la mujer pasa cantando sin verle), Luna invertida (revelación: el Gran Lebowski es pobre), Sol invertido (la estafa), Juicio invertido (anti-apoteosis, muerte de Donny), Mundo invertido (lecciones no aprendidas, ciclo cerrado por la fuerza).
+
+La pieza completa la lectura del tarot como **mapa fijo de la trayectoria heroica** introducida con Man of Steel: la secuencia opera tanto en su forma directa (héroe solar cumplido) como en su forma invertida (anti-héroe que recorre la misma estructura sin saberlo). Los hermanos Coen aplican deliberadamente la inversión arcano-por-arcano del monomito, marcando además las tres fases de Campbell con sueños del protagonista.
+
+> "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,"
+→ [El Gran Lebowsky y el Tarot Invertido (1:10:52)](https://youtu.be/yoWJWwYH_pE?t=4252)
+
+
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus d -->
@@ -112,6 +129,7 @@ La lectura es operativa: el [[mito-solar|mito solar]] del héroe (Superman como 
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -122,4 +140,5 @@ La lectura es operativa: el [[mito-solar|mito solar]] del héroe (Superman como 
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:47:24](https://youtu.be/HgLlH8Ta2qk?t=6444) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 - **Análisis arquetípico: Excalibur** — chunks: [7:38](https://youtu.be/daC37T5cbWs?t=458) · [30:24](https://youtu.be/daC37T5cbWs?t=1824) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [26:25](https://youtu.be/X2c2a3mQBOs?t=1585) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)
+- **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:10:52](https://youtu.be/yoWJWwYH_pE?t=4252)
 

@@ -102,11 +102,13 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
 - **Psicología 101: El perdón. Con @exitwithin** — chunks: [59:23](https://youtu.be/05MVbWwpiSs?t=3563)
+- **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
-- **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
 

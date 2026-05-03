@@ -141,11 +141,19 @@ def infer_page_type_from_path(path: Path) -> str:
 # ---------------------------------------------------------------------------
 
 
-def aggregate_page_inputs_from_runs(run_ids: Optional[list[str]] = None) -> dict[str, PageCompileInput]:
+def aggregate_page_inputs_from_runs(
+    run_ids: Optional[list[str]] = None,
+    only_affecting_video: Optional[str] = None,
+) -> dict[str, PageCompileInput]:
     """Agrega inputs por page_id a partir de runs de extract_video_themes.
 
     Si run_ids es None: lee TODOS los runs en wiki/_meta/extraction_runs/.
     Si run_ids es lista: solo esos.
+
+    Si only_affecting_video se da: filtra a páginas que ese video_id propone
+    (intersección con source_video_ids del page input). Útil para compile
+    incremental tras cada vídeo en el bucle Karpathy real (postmortem
+    2026-05-02).
 
     Para cada page_id:
       - Si existe ya en wiki: agrega como rewrite (is_new=False)
@@ -228,6 +236,13 @@ def aggregate_page_inputs_from_runs(run_ids: Optional[list[str]] = None) -> dict
                     inp.domain_primary = m.group(1)
         else:
             inp.is_new = True
+
+    # Filtro por vídeo: solo páginas que ese video_id afecta
+    if only_affecting_video:
+        by_page = {
+            pid: inp for pid, inp in by_page.items()
+            if only_affecting_video in inp.source_video_ids
+        }
 
     return by_page
 

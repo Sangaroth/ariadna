@@ -1,0 +1,315 @@
+{
+  "video_id": "yoWJWwYH_pE",
+  "video_title": "El Gran Lebowsky y el Tarot Invertido",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "El Gran Lebowski",
+      "canonical_guess": "el-gran-lebowski-1998-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 88,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Todo es deliberado: las cartas del tarot invertidas, las tres fases de Campbell separadas por sueños,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "No es una lectura forzada: la estructura arquetípica está construida intencionalmente en la película,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3: análisis dedicado en vídeo monográfico (88 min) y caso paradigmático de aplicación deliberada del tarot arquetípico invertido + estructura tripartita del monomito; el speaker afirma intencionalidad autoral de los Coen en el diseño arquetípico. Constituye, junto a Man of Steel, el segundo gran recorrido completo de los 22 Arcanos documentado en el corpus (forma invertida)",
+      "quote_evidence": "Todo es deliberado: las cartas del tarot invertidas, las tres fases de Campbell separadas por sueños,"
+    }
+  ],
+  "_doc_promote_new": "el-gran-lebowski-1998-film: el sub-agente focalizado debe construir entity_work con frontmatter rico y body con (a) lectura completa arcano-por-arcano invertido (los 22 detallados en el summary), (b) estructura tripartita Walter/Donny/Nota como super-yo/ello/yo, (c) las tres fases de Campbell marcadas por sueños, (d) lectura del Nota como antihéroe ordinario y su contraste con la narrativa uránica del padre celestial. Wikilinks principales: tarot-arquetipico (caso inverso de Man of Steel), viaje-heroe, uranico-telurico-cetonico, freud-sigmund (estructura tripartita), camino-victima (distinción), heroe-truncado (distinción).",
+  "pending_updates": [
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "los arcanos no son símbolos sueltos, son una secuencia ordenada que cualquier mito solar contemporáneo recapitula.",
+      "content_proposed": "\n\n## El Gran Lebowski como recorrido completo de los 22 Arcanos invertidos\n\nEl análisis arquetípico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] articula la película como **contraparte estructural exacta** de [[man-of-steel-2013-film|Man of Steel]]: donde Superman recorre los 22 Arcanos en su forma directa (mito solar cumplido), El Nota recorre los mismos 22 Arcanos en su forma **invertida** (anti-héroe sin dones, sin intención, sin dirección).\n\n> \"Todo es deliberado: las cartas del tarot invertidas, las tres fases de Campbell separadas por sueños,\"\n→ [El Gran Lebowsky y el Tarot Invertido (1:10:52)](https://youtu.be/yoWJWwYH_pE?t=4252)\n\nLa secuencia coordina cada arcano invertido con un momento del fracaso heroico: Loco invertido (apatía, \"El Nota\" como nombre vaciado), Mago invertido (incapacidad de iniciativa, repetición de frases ajenas), Sacerdotisa invertida (cero intuición), Emperatriz invertida (la mantenida y la felación por mil dólares), Emperador invertido (el super-yo desbocado de Walter), Hierofante invertido (cero autoridad), Amantes invertidos (planes que salen mal), Carro invertido (entrega fallida), Fuerza invertida (la artista feminista, la esposa autosecuestrada), Ermitaño invertido (falso ermitaño que no reflexiona), Rueda invertida (mala suerte), Justicia invertida (cascada de calamidades), Colgado invertido (victimización), Muerte invertida (orgasmo en lugar de dolor), Templanza invertida (Walter destruye el coche del vecino), Demonio invertido (Jackie Treehorn, librarse de la culpa), Torre invertida (sueño tras envenenamiento), Estrella invertida (la mujer pasa cantando sin verle), Luna invertida (revelación: el Gran Lebowski es pobre), Sol invertido (la estafa), Juicio invertido (anti-apoteosis, muerte de Donny), Mundo invertido (lecciones no aprendidas, ciclo cerrado por la fuerza).\n\nLa pieza completa la lectura del tarot como **mapa fijo de la trayectoria heroica** introducida con Man of Steel: la secuencia opera tanto en su forma directa (héroe solar cumplido) como en su forma invertida (anti-héroe que recorre la misma estructura sin saberlo). Los hermanos Coen aplican deliberadamente la inversión arcano-por-arcano del monomito, marcando además las tres fases de Campbell con sueños del protagonista.\n\n> \"Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,\"\n→ [El Gran Lebowsky y el Tarot Invertido (1:10:52)](https://youtu.be/yoWJWwYH_pE?t=4252)\n",
+      "wikilinks_introduced": [
+        "el-gran-lebowski-1998-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yoWJWwYH_pE",
+          "timestamp_seconds": 4252,
+          "cite_markdown": "[El Gran Lebowsky y el Tarot Invertido (1:10:52)](https://youtu.be/yoWJWwYH_pE?t=4252)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído: la página solo documenta Man of Steel como recorrido completo de los 22 Arcanos en forma directa. El Gran Lebowski es la contraparte estructural exacta en forma invertida — un segundo caso paradigmático cualitativamente distinto que cierra la articulación del tarot como mapa fijo (operativo tanto en forma directa como invertida). La página misma anticipa este caso en su laguna 'lecturas específicas de arcanos viven en otras páginas... como Matrix o El Gran Lebowski'.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "mark_laguna_resolved",
+      "supersedes_laguna_text": "lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus dedicadas a obras concretas como Matrix o El Gran Lebowski",
+      "content_proposed": "Resuelta por sección 'El Gran Lebowski como recorrido completo de los 22 Arcanos invertidos' añadida en este barrido + futura página entity_work el-gran-lebowski-1998-film (en cola de promote_new).",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La laguna anticipaba que las lecturas arcano-por-arcano vivirían en páginas dedicadas como El Gran Lebowski. Este vídeo provee precisamente esa lectura sistemática y la nueva sección la integra como contraparte de Man of Steel.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el monomito puede fracasar no solo por escapismo (Harry Potter, Peter Pan) sino por **truncamiento activo** — el héroe que aprende del mundo pero contra él.",
+      "content_proposed": "\n\n## El antihéroe ordinario: la inversión por minimum effort\n\nEl monomito admite una tercera vía de fracaso, distinta del escapismo de Harry Potter y del [[heroe-truncado|truncamiento activo]] del caballero negro: la del **antihéroe ordinario** que recorre la estructura del héroe sin saberlo, sin requisitos heroicos y sin garantía de gloria. El canal articula la categoría en el análisis monográfico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] como ejemplo paradigmático.\n\n> \"El antihéroe no es \\\"contra-héroe\\\" sino aquel que no es modelo a seguir: recorre el camino del héroe sin saberlo y sin garantía de gloria,\"\n→ [El Gran Lebowsky y el Tarot Invertido (02:16)](https://youtu.be/yoWJWwYH_pE?t=136)\n\n> \"Un héroe puede ser simplemente el hombre que está en ese momento y en ese lugar, sin requisitos heroicos,\"\n→ [El Gran Lebowsky y el Tarot Invertido (02:16)](https://youtu.be/yoWJWwYH_pE?t=136)\n\nLa distinción frente a la [[uranico-telurico-cetonico|narrativa uránica]] es operativa: donde el héroe solar es esperado por el gran padre celestial para que sea digno de sus dones, el antihéroe carece de dones, particularidades o intención heroica — es un número normal arrastrado al periplo. La metáfora canal-específica es la **planta capitana**: la rueda del desierto que el viento lleva de Los Ángeles al mar, paso de lo ordinario a lo extraordinario sin proponérselo.\n\nLa pieza completa el marco diagnóstico del monomito como vara crítica con tres figuras de inversión: el escapismo (Harry Potter, motivación interna ausente), el truncamiento (caballero negro, héroe que aprende contra el mundo), y el antihéroe (héroe sin saberlo). Los Coen aplican la estructura deliberadamente, marcando las tres fases de Campbell con sueños del protagonista y recorriendo los 22 Arcanos del [[tarot-arquetipico|tarot]] en su forma invertida.\n",
+      "wikilinks_introduced": [
+        "el-gran-lebowski-1998-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yoWJWwYH_pE",
+          "timestamp_seconds": 136,
+          "cite_markdown": "[El Gran Lebowsky y el Tarot Invertido (02:16)](https://youtu.be/yoWJWwYH_pE?t=136)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página documenta dos vías de fracaso del monomito (escapismo y truncamiento) pero no la tercera (antihéroe ordinario que recorre la estructura sin saberlo). El Gran Lebowski es el caso paradigmático de esa tercera vía y la propia página declara la laguna ('camino destructivo, antihéroe... no se desarrollan aquí'). El material refuta esa laguna y completa la triple tipología de inversiones.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "mark_laguna_resolved",
+      "supersedes_laguna_text": "el canal las trabaja en lecturas de Matrix II/III y El Gran Lebowski pero no se desarrollan aquí",
+      "content_proposed": "Resuelta para el caso El Gran Lebowski por nueva sección 'El antihéroe ordinario: la inversión por minimum effort' añadida en este barrido. Pendiente aún el desarrollo del caso Matrix II/III.",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La laguna nombraba explícitamente El Gran Lebowski como caso pendiente de desarrollar. La nueva sección lo articula. Matrix II/III queda fuera del alcance de este vídeo.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "heroe-truncado",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Los casos canónicos que el canal articula — Darth Vader, Anakin, Azulín en [[unicorn-wars-2022-film|Unicorn Wars]] — comparten origen estructural: una ira no canalizada vinculada a la fractura paterna o materna.",
+      "content_proposed": "\n\n## Frontera con el \"caballero oscuro\" y con el villano puro\n\nEl canal articula explícitamente — en la taxonomía heroica del análisis monográfico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] — la distinción frente a dos figuras adyacentes que comparten vocabulario o posición moral pero no estructura arquetípica: el **caballero oscuro** y el **villano puro ascendido desde antihéroe**.\n\nEl caballero oscuro tiene capacidades y código moral propio pero no sigue al rey ni a Dios; es héroe rebelde, no héroe truncado:\n\n> \"El caballero oscuro tiene capacidades y código moral propio pero no sigue al rey ni a Dios: Batman, Punisher, el vengador genuino,\"\n→ [El Gran Lebowsky y el Tarot Invertido (1:12:54)](https://youtu.be/yoWJWwYH_pE?t=4374)\n\nLa frontera con la figura villana queda fijada negativamente — el Joker, villano perfecto del corpus superheroico, NO es un héroe truncado:\n\n> \"El Joker es el villano perfecto porque es un antihéroe ascendido al mal, no un héroe truncado,\"\n→ [El Gran Lebowsky y el Tarot Invertido (1:12:54)](https://youtu.be/yoWJWwYH_pE?t=4374)\n\nLa precisión cierra la frontera del arquetipo: el héroe truncado requiere haber recibido la llamada heroica y haberla torcido por una herida fundacional vinculada al padre o la madre (Vader, Anakin, Azulín). El caballero oscuro (Batman, Punisher) sí completó el viaje pero rechaza la legitimación uránica — es héroe sin rey. El villano puro ascendido desde la posición de antihéroe (sin dones heroicos previos, como el Joker) opera por mecanismo distinto y pertenece a otra categoría taxonómica del canal.\n",
+      "wikilinks_introduced": [
+        "el-gran-lebowski-1998-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yoWJWwYH_pE",
+          "timestamp_seconds": 4374,
+          "cite_markdown": "[El Gran Lebowsky y el Tarot Invertido (1:12:54)](https://youtu.be/yoWJWwYH_pE?t=4374)"
+        }
+      ],
+      "rationale": "Material nuevo y necesario para precisar terminológicamente la página: el alias 'caballero negro' del héroe truncado (Vader, Azulín) corre riesgo de confusión con el 'caballero oscuro' (Batman, Punisher) que el canal usa en sentido distinto. El speaker explícitamente excluye al Joker del arquetipo héroe truncado. La página tiene además una laguna sobre 'Tipología interna' que esta clarificación parcialmente resuelve fijando la frontera del concepto.",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "uranico-telurico-cetonico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "describe **regiones del alma y del cosmos** que la psique reconoce como ejes verticales del sentido.",
+      "content_proposed": "\n\n## La narrativa uránica: el gran padre celestial que espera al héroe digno\n\nEl canal articula como expresión narrativa derivada de lo uránico la **narrativa uránica**: la estructura mítica del padre celestial que aguarda que el héroe sea digno de sus dones. Es la cara aspiracional-paterna de la región uránica, que opera como expectativa estructural sobre el [[viaje-heroe|héroe solar]].\n\n> \"La narrativa uránica es la del gran padre celestial que espera que el héroe sea digno de sus dones,\"\n→ [El Gran Lebowsky y el Tarot Invertido (03:46)](https://youtu.be/yoWJWwYH_pE?t=226)\n\nLa pieza importa porque permite leer simétricamente la inversión del antihéroe ordinario como inversión específicamente uránica: donde la narrativa uránica espera dignidad y dones, el antihéroe carece de ambos y recorre la estructura sin que el padre celestial lo reconozca. El análisis arquetípico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] desarrolla esta inversión deliberada como pieza estructural — el horizonte uránico sigue presente, simplemente vacío de cumplimiento.\n",
+      "wikilinks_introduced": [
+        "el-gran-lebowski-1998-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yoWJWwYH_pE",
+          "timestamp_seconds": 226,
+          "cite_markdown": "[El Gran Lebowsky y el Tarot Invertido (03:46)](https://youtu.be/yoWJWwYH_pE?t=226)"
+        }
+      ],
+      "rationale": "Material nuevo que enriquece parcialmente la laguna 'Uránico desarrollado: el material recuperado articula con detalle telúrico y cetónico... pero deja lo uránico apenas definido'. La 'narrativa uránica' es una expresión derivada de lo uránico que articula su dimensión narrativa-paterna-aspiracional. No resuelve la laguna por completo (faltan obras que encarnen lo uránico-mercurial puro) pero sí extiende sustantivamente la región menos desarrollada de la triada.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "camino-victima",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el camino-víctima no termina en transformación heroica frustrada, termina en consagración de la posición inicial.",
+      "content_proposed": "\n\n## Distinción frente al antihéroe ordinario\n\nEl canal articula explícitamente la frontera frente a una figura adyacente del fracaso heroico que comparte la posición pasiva pero opera por mecanismo distinto: el **antihéroe ordinario** (el Nota de [[el-gran-lebowski-1998-film|El Gran Lebowski]], Jack Sparrow, los detectives acabados del cine negro).\n\n> \"El antihéroe es el hombre ordinario sin virtudes ni gloria que se ve arrastrado al periplo: el Nota, Jack Sparrow, detectives acabados,\"\n→ [El Gran Lebowsky y el Tarot Invertido (1:12:54)](https://youtu.be/yoWJWwYH_pE?t=4374)\n\nLa diferencia estructural es nítida: el héroe-víctima es **especial desde el nacimiento** (Harry Potter, Elsa) y los acontecimientos son injusticias que padece; el antihéroe es **un número normal** (sin dones, particularidades ni intención heroica) que se ve arrastrado al periplo sin proponérselo. El primero parte de una elección gratuita pre-narrativa (cualidad por nacimiento); el segundo parte de una ausencia total de elección o cualidad. Donde el héroe-víctima fija la herida en pasividad doliente con conciencia de la propia singularidad, el antihéroe carece de toda conciencia de su rol arquetípico — es una planta capitana arrastrada por el viento.\n\nLa precisión salva al antihéroe trágico clásico de ser confundido con la figura postmoderna del héroe-víctima: ambos son zarandeados por fuerzas que los superan, pero solo uno se piensa especial.\n",
+      "wikilinks_introduced": [
+        "el-gran-lebowski-1998-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yoWJWwYH_pE",
+          "timestamp_seconds": 4374,
+          "cite_markdown": "[El Gran Lebowsky y el Tarot Invertido (1:12:54)](https://youtu.be/yoWJWwYH_pE?t=4374)"
+        }
+      ],
+      "rationale": "Material nuevo que resuelve la laguna explícita 'Distinción frente al antihéroe clásico: en qué se diferencia el héroe-víctima postmoderno del antihéroe trágico clásico que también es zarandeado por fuerzas que lo superan'. El video provee el criterio discriminante exacto vía la tipología que el speaker articula al final.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "camino-victima",
+      "update_type": "mark_laguna_resolved",
+      "supersedes_laguna_text": "en qué se diferencia el héroe-víctima postmoderno del antihéroe trágico clásico que también es zarandeado por fuerzas que lo superan",
+      "content_proposed": "Resuelta por nueva sección 'Distinción frente al antihéroe ordinario' añadida en este barrido.",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La laguna pedía exactamente la distinción que el speaker articula al final del análisis de El Gran Lebowski.",
+      "editorial_intent": "resolve_laguna"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Taxonomía heroica del canal: antihéroe, caballero oscuro, villano",
+      "proposed_page_id": "taxonomia-heroica-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El antihéroe no es \"contra-héroe\" sino aquel que no es modelo a seguir: recorre el camino del héroe sin saberlo y sin garantía de gloria,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El antihéroe es el hombre ordinario sin virtudes ni gloria que se ve arrastrado al periplo: el Nota, Jack Sparrow, detectives acabados,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El caballero oscuro tiene capacidades y código moral propio pero no sigue al rey ni a Dios: Batman, Punisher, el vengador genuino,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El Joker es el villano perfecto porque es un antihéroe ascendido al mal, no un héroe truncado,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El caballero oscuro es el perfecto héroe punk adolescente: héroe y rebelde al mismo tiempo,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Antihéroe ordinario (sin dones, sin intención, arrastrado al periplo): el Nota, Jack Sparrow, detectives acabados",
+        "Caballero oscuro (con capacidades y código moral propio, no sigue al rey ni a Dios): Batman, Punisher, el vengador genuino",
+        "Villano perfecto (antihéroe ascendido al mal): el Joker",
+        "Héroe truncado / caballero negro (recibió la llamada y la torció por herida parental): Vader, Anakin, Azulín — categoría distinta"
+      ],
+      "minutes_sustained": 12,
+      "domain_guess": "interdisciplinary.cultural_studies",
+      "related_existing_pages": [
+        "heroe-truncado",
+        "viaje-heroe",
+        "camino-victima",
+        "el-gran-lebowski-1998-film"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Múltiples señales de autoría (thesis_marker + 3 piezas de internal_structure + pedagogic_register), articulación con 4 piezas explícitas y boundary clarification (Joker NO es héroe truncado). PERO no cumple el gate de auto-promoción de §2.4.1: minutes_sustained ≈ 12 (umbral 30); la articulación se concentra en apertura (~7 min) y cierre (~5 min) del vídeo, no como sección monográfica sostenida. Queda en thesis_candidates esperando firma humana o ratificación en futuros vídeos donde el canal vuelva a articular la tipología."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Hermanos Coen",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionados como autores de la película analizada con énfasis en su intencionalidad arquetípica deliberada, pero sin tratamiento biográfico ni exposición de su pensamiento autoral más allá del caso Lebowski. La discusión es sobre la película, no sobre su filmografía o método.",
+      "quote_evidence": "Los Coen aplican la estructura de Joyce con Ulises: el héroe cotidiano a través de la narrativa heroica clásica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-gran-lebowski-1998-film"
+    },
+    {
+      "surface_form": "James Joyce / Ulises",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia estructural única: los Coen aplican 'la estructura de Joyce con Ulises'. Sin desarrollo de Joyce ni de Ulises como obras analizadas; pura referencia comparativa para situar el procedimiento.",
+      "quote_evidence": "Los Coen aplican la estructura de Joyce con Ulises: el héroe cotidiano a través de la narrativa heroica clásica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-gran-lebowski-1998-film"
+    },
+    {
+      "surface_form": "Antihéroe (concepto)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Concepto central del vídeo pero capturado dentro del thesis_candidate 'Taxonomía heroica del canal'. Una sola aparición sustantiva en el corpus por ahora; promotion_threshold no alcanzado para página propia hasta confirmación en otros vídeos.",
+      "quote_evidence": "El antihéroe no es \"contra-héroe\" sino aquel que no es modelo a seguir: recorre el camino del héroe sin saberlo y sin garantía de gloria,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si futuras emisiones del canal vuelven a articular el antihéroe como categoría operativa (≥3 vídeos), promover a concept page propia",
+      "enriches_concept": "viaje-heroe"
+    },
+    {
+      "surface_form": "Caballero oscuro (Batman, Punisher)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Categoría distinta del 'caballero negro' (héroe truncado). Capturada en thesis_candidate 'Taxonomía heroica' y referenciada en update a heroe-truncado para fijar frontera.",
+      "quote_evidence": "El caballero oscuro tiene capacidades y código moral propio pero no sigue al rey ni a Dios: Batman, Punisher, el vengador genuino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "heroe-truncado"
+    },
+    {
+      "surface_form": "Estructura tripartita Walter/Donny/Nota como super-yo/yo/ello",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Aplicación del aparato freudiano clásico (super-yo/yo/ello) a los tres protagonistas del film. Material de la página el-gran-lebowski-1998-film en construcción. Freud-sigmund ya tiene página y el aparato es canónico — no requiere actualización conceptual de la página de Freud.",
+      "quote_evidence": "El Nota es el yo central entre un super-yo desbocado y un ello inhibido: las tres entidades están completamente neuróticas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-gran-lebowski-1998-film"
+    },
+    {
+      "surface_form": "Walter / Donny / El Nota / Jackie Treehorn / Maude / Jesús (Turturro)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personajes de la obra El Gran Lebowski. Su tratamiento corresponde íntegramente a la página entity_work del film en cola de promote_new.",
+      "quote_evidence": "Walter es el super-yo histríonico: deber ser sin principios reales, exageración narcisista constante,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-gran-lebowski-1998-film"
+    },
+    {
+      "surface_form": "Jack Sparrow / Batman / Punisher / Joker (taxonomía)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Ejemplos ilustrativos de la taxonomía heroica final. No requieren páginas propias — se mencionan exclusivamente como casos de las tres categorías que el speaker articula.",
+      "quote_evidence": "El Joker es el villano perfecto porque es un antihéroe ascendido al mal, no un héroe truncado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Planta capitana (metáfora)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Metáfora introductoria del vídeo (la rueda del desierto que el viento arrastra). Imagen articulatoria del antihéroe ordinario, no concepto canónico recurrente. Va integrada en el cuerpo de la futura página el-gran-lebowski y queda referenciada en updates a viaje-heroe / camino-victima.",
+      "quote_evidence": "La planta rueda del desierto hasta Los Ángeles y termina en el mar: paso de lo ordinario a lo extraordinario sin proponérselo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-gran-lebowski-1998-film"
+    },
+    {
+      "surface_form": "Tres fases de Campbell: vientre de la ballena, iniciación, regreso",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Fases campbellianas estándar del monomito invocadas como aplicación del marco — no articulación nueva. Capturadas en update a viaje-heroe vía el caso Lebowski (los sueños como marcadores de transición entre fases).",
+      "quote_evidence": "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe"
+    },
+    {
+      "surface_form": "Lecturas individuales de los 22 arcanos en el film",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Cada arcano invertido recibe su propia interpretación dentro del análisis. La densidad detallada arcano-por-arcano corresponde a la página entity_work del Gran Lebowski en construcción; en tarot-arquetipico se recoge la meta-pattern (recorrido completo invertido) sin reproducir cada arcano.",
+      "quote_evidence": "El Loco boca arriba representa la ingenuidad ante el destino; el Loco invertido es apatía, despreocupación y ausencia total,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 9,
+    "thesis_candidates_count": 1,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[El Gran Lebowski] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

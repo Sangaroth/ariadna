@@ -278,8 +278,9 @@ def main() -> None:
         "candidates_count": len(candidates),
         "ranking": ranked,
     }
-    META.mkdir(parents=True, exist_ok=True)
-    out_path = META / "next_batch_ranking.json"
+    legacy_dir = META / "legacy"
+    legacy_dir.mkdir(parents=True, exist_ok=True)
+    out_path = legacy_dir / "next_batch_ranking.json"
     out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     print(f"\nWrote {out_path.relative_to(REPO)}", file=sys.stderr)

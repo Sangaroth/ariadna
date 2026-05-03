@@ -57,6 +57,18 @@ El canal articula una cosmología vertical de tres regiones arquetípicas que or
 
 La triada no describe geografía física: describe **regiones del alma y del cosmos** que la psique reconoce como ejes verticales del sentido.
 
+
+
+## La narrativa uránica: el gran padre celestial que espera al héroe digno
+
+El canal articula como expresión narrativa derivada de lo uránico la **narrativa uránica**: la estructura mítica del padre celestial que aguarda que el héroe sea digno de sus dones. Es la cara aspiracional-paterna de la región uránica, que opera como expectativa estructural sobre el [[viaje-heroe|héroe solar]].
+
+> "La narrativa uránica es la del gran padre celestial que espera que el héroe sea digno de sus dones,"
+→ [El Gran Lebowsky y el Tarot Invertido (03:46)](https://youtu.be/yoWJWwYH_pE?t=226)
+
+La pieza importa porque permite leer simétricamente la inversión del antihéroe ordinario como inversión específicamente uránica: donde la narrativa uránica espera dignidad y dones, el antihéroe carece de ambos y recorre la estructura sin que el padre celestial lo reconozca. El análisis arquetípico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] desarrolla esta inversión deliberada como pieza estructural — el horizonte uránico sigue presente, simplemente vacío de cumplimiento.
+
+
 ## Correspondencias alquímicas
 
 El canal superpone la triada espacial sobre la triada alquímica clásica, lo que convierte el esquema en un mapa simbólico operativo y no meramente descriptivo:

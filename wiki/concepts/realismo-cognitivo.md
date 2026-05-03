@@ -882,9 +882,9 @@ La aplicación sistemática de la crítica a casos clínicos concretos (TOC, dep
 
 
 
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
-- **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
 - **Del Papa y del Problema del Mal** — chunks: [42:25](https://youtu.be/0KkMrcmw8Fw?t=2545)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
@@ -897,4 +897,5 @@ La aplicación sistemática de la crítica a casos clínicos concretos (TOC, dep
 - **Psicología 101: Materialismo, pensamiento y Enric, de @AdictosalaFilosofía** — chunks: [29:23](https://youtu.be/cSj--O7RSPo?t=1763) · [48:06](https://youtu.be/cSj--O7RSPo?t=2886) · [1:52:28](https://youtu.be/cSj--O7RSPo?t=6748) · [2:06:28](https://youtu.be/cSj--O7RSPo?t=7588) · [2:12:32](https://youtu.be/cSj--O7RSPo?t=7952)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [13:52](https://youtu.be/-daRyQwnZy0?t=832) · [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
 - **Tremendo lunes** — chunks: [1:35:02](https://youtu.be/0YABTLJ-lFY?t=5702)
+- **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
 

@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-02 (pipeline push-based Karpathy "LLM Wiki" implementado: scope.md + canonical_whitelist + extract_video_themes + apply_pending_updates + overnight_run + extract_incremental). Doc maestro operativo: [`docs/EXTRACTION_PIPELINE.md`](EXTRACTION_PIPELINE.md).
+> **Última actualización:** 2026-05-03 (refactor pipeline v0.3: scope reformado + sub-agente synthesis auto-promote + lane recommended_reference + protocolo propagación + scan_mentions_ledger). Doc maestro del refactor: [`docs/PIPELINE_REFACTOR_2026_05_02.md`](PIPELINE_REFACTOR_2026_05_02.md). Doc base previo: [`docs/EXTRACTION_PIPELINE.md`](EXTRACTION_PIPELINE.md).
 
 ---
 
@@ -13,44 +13,77 @@ Soy el mismo usuario. Continuamos el proyecto Ariadna (servidor MCP de RAG sobre
 corpus YouTube del canal Proxy, integrado con Mattermost via plugin Agents
 v2.0.0-rc6 + ngrok).
 
-Estado al 2026-05-02:
+Estado al 2026-05-03 (post-overnight v0.3 parcial — 35% corpus procesado):
+
 - Fase A Sprint 1 CERRADA
 - Modo híbrido en MCP OPERATIVO (search_corpus + get_wiki_page + 4 tools)
-- Wiki estructurada: 11 páginas seed + grafo TIPADO (relations[]) + en
-  proceso de barrido sistemático push-based del corpus completo
-- PIPELINE PUSH-BASED KARPATHY IMPLEMENTADO (Sprint 3, 2026-05-02):
-  - 3ª capa: wiki/_meta/scope.md + canonical_whitelist.json
-  - Extractor: scripts/extract_video_themes.py con index slim + Read
-    on-demand sobre páginas wiki relevantes (no inyecta full bodies)
-  - Apply: scripts/apply_pending_updates.py con 4 ops diff-style +
-    anchor literal único + auto-commit
-  - Overnight: scripts/overnight_run.py orquesta lotes de 5 con
-    extract+aggregate+apply+commit+rebuild en loop, stop crítico
-  - Incremental: scripts/extract_incremental.py para vídeos nuevos
-- Validación de quote_evidence con normalización cosmética (markdown
-  italic, comillas curly, em-dash) — no rechaza por formato
+- PIPELINE v0.3 (refactor 2026-05-02 → 2026-05-03):
+  - scope.md v0.3: 5 pilares declarados del canal (liberalismo, filosofía,
+    psicología cognitiva, mitología, neurociencia) — §1 dividido en
+    incondicionales/condicionados, §3 reescrita con test discriminante
+    politiqueo vs análisis, §3.4 lane recommended_reference, §2.3 lectura
+    íntegra, §2.4.1 gate de auto-promoción de thesis
+  - Sub-agente in-loop (claude -p clean session) construye páginas:
+    - SUBAGENT_SYSTEM_PROMPT para concept/author/entity_work
+    - SUBAGENT_SYNTHESIS_SYSTEM_PROMPT para auto-promote de thesis fuertes
+  - Schema-tolerant: promote_new[] top-level + entities[decision=promote_new]
+  - Per-video JSONs commiteados (memoria operativa LLM, recuperable)
+  - Auto-citation determinista escaneando summary_text → timestamps en
+    bloque ## Citations compacto por (video, [t1, t2, ...])
+  - Auto-aggregate al cierre del run
+  - Incremental por defecto (skip already-extracted)
+  - Fallback chunk → video en retrieval indirecto (search.py dos-pasada)
+  - SESSION_MAX_VIDEOS=20 + SESSION_MAX_SECONDS=55min
+
+- WIKI ACTUAL (snapshot post-overnight parcial 2026-05-03):
+  - 104 pages totales (37 → 104 en este overnight)
+  - +28 concepts (heroe-truncado, kabbalah, pensamiento-poetico, etc.)
+  - +6 authors (bueno-gustavo, etc.), +20 entity_works (cuentos Lovecraft,
+    el-gran-lebowski, ediciones íntegras), +11 synthesis (gisbertocracia,
+    teoria-del-simbolo, golem-de-cobre, diagrama-de-proxy, varias
+    auto-promovidas vía gate §2.4.1)
+  - 103 de 296 vídeos extraídos = 35% corpus
+  - Para continuar:
+    python scripts/extract_video_themes.py --resume \\
+      overnight_v03_20260503_010105
+
+- PROTOCOLO DE PROPAGACIÓN (3 comandos, ver PIPELINE_REFACTOR §15):
+  - --rebuild-aggregates (gratis, propaga cambios de aggregator)
+  - --audit-stale-vs-scope (gratis, detecta JSONs inconsistentes con
+    scope actual con filtro v0.3-aware skip)
+  - --reprocess-stale --yes (LLM batch, re-extrae solo flagged)
+  - Filosofía: "process once, leverage forever" — JSONs commiteados son
+    la memoria del LLM, recuperable retroactivamente sin re-llamada
+
+- RECOVERY DE REFERENCIAS DÉBILES PREVIAS (PIPELINE_REFACTOR §16):
+  - scripts/scan_mentions_ledger.py: --page-id|--audit-all [--apply]
+  - Tras crear page nueva, escanea JSONs históricos buscando menciones
+    en discarded[] (passing_mention, out_of_scope_figure, etc.) y las
+    materializa como citations recuperables con timestamp del marker
+
+- LANES INDIRECTAS DE RETRIEVAL:
+  - data/wiki.db:citations con (page_id, video_id, timestamp_seconds)
+  - Pass 1: match exacto. Pass 2: same-video fallback con score multiplier
+    0.3 si chunk dense_score >=0.60 y no encontró exact match
+  - match_via expuesto al cliente: 'citation' (exact) | 'citation_video' (fallback)
 
 ANTES DE HACER NADA, lee en este orden:
 1. docs/NEXT_SESSION.md — este archivo, resumen ejecutivo + próximos pasos
-2. docs/EXTRACTION_PIPELINE.md — pipeline push-based completo: filosofía,
-   componentes, flujos operativos (cómo añadir autor a whitelist,
-   quitar tema de excluidos, recuperar fails, etc.)
-3. docs/RESPONSE_FLOW.md §10 — schema autoritativo del MCP
-4. wiki/_meta/scope.md — alcance editorial (3ª capa Karpathy)
-5. wiki/_meta/canonical_whitelist.json — figuras canónicas con
-   auto_promote
-6. wiki/_meta/processed_videos.json — registro de vídeos ya ingeridos
+2. docs/PIPELINE_REFACTOR_2026_05_02.md — refactor v0.3 completo (16 secciones)
+3. docs/EXTRACTION_PIPELINE.md — pipeline push-based base (pre-v0.3)
+4. docs/RESPONSE_FLOW.md §10 — schema autoritativo del MCP
+5. wiki/_meta/scope.md — alcance editorial v0.3 (3ª capa Karpathy)
+6. wiki/_meta/canonical_whitelist.json — figuras canónicas
 
 Verifica al inicio:
+- Estado del overnight en curso:
+    ls wiki/_meta/extraction_runs/overnight_v03_*/state.json 2>/dev/null
+- Wiki size:
+    find wiki -name "*.md" -not -path "*_meta*" -not -name README.md | wc -l
+- Citations table refrescada:
+    sqlite3 data/wiki.db "SELECT COUNT(*) FROM pages; SELECT COUNT(*) FROM citations;"
 - Si servidor MCP local sigue vivo (ss -tlnp | grep 8765)
-- Si la wiki está indexada en Qdrant:
-    curl -s -X POST http://127.0.0.1:8765/mcp \
-      -H 'Content-Type: application/json' \
-      -H 'Accept: application/json, text/event-stream' \
-      -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"search_corpus","arguments":{"query":"sombra junguiana","top_k":2}}}' \
-      | sed -n 's/^data: //p' | python3 -m json.tool | head -30
-- Si hay barrido overnight reciente:
-    cat wiki/_meta/extraction_runs/overnight_*/STATUS.txt | tail -5
+- Git history reciente:
     git log --oneline | head -20
 
 Pregúntame qué línea quiero retomar antes de proponer trabajo nuevo.

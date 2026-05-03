@@ -144,12 +144,27 @@ A diferencia del héroe que termina transformado por las pruebas, el héroe-víc
 El empoderamiento Disney es la formalización narrativa de la posición de víctima como destino: el problema no es el sujeto sino el mundo, y la salida no es el cambio interior sino la afirmación de la propia inocencia preexistente. La pieza completa el diagnóstico de la categoría — el camino-víctima no termina en transformación heroica frustrada, termina en consagración de la posición inicial.
 
 
+
+## Distinción frente al antihéroe ordinario
+
+El canal articula explícitamente la frontera frente a una figura adyacente del fracaso heroico que comparte la posición pasiva pero opera por mecanismo distinto: el **antihéroe ordinario** (el Nota de [[el-gran-lebowski-1998-film|El Gran Lebowski]], Jack Sparrow, los detectives acabados del cine negro).
+
+> "El antihéroe es el hombre ordinario sin virtudes ni gloria que se ve arrastrado al periplo: el Nota, Jack Sparrow, detectives acabados,"
+→ [El Gran Lebowsky y el Tarot Invertido (1:12:54)](https://youtu.be/yoWJWwYH_pE?t=4374)
+
+La diferencia estructural es nítida: el héroe-víctima es **especial desde el nacimiento** (Harry Potter, Elsa) y los acontecimientos son injusticias que padece; el antihéroe es **un número normal** (sin dones, particularidades ni intención heroica) que se ve arrastrado al periplo sin proponérselo. El primero parte de una elección gratuita pre-narrativa (cualidad por nacimiento); el segundo parte de una ausencia total de elección o cualidad. Donde el héroe-víctima fija la herida en pasividad doliente con conciencia de la propia singularidad, el antihéroe carece de toda conciencia de su rol arquetípico — es una planta capitana arrastrada por el viento.
+
+La precisión salva al antihéroe trágico clásico de ser confundido con la figura postmoderna del héroe-víctima: ambos son zarandeados por fuerzas que los superan, pero solo uno se piensa especial.
+
+
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Otros casos del corpus: el speaker menciona telenovelas y "Por 13 razones" como -->
 - **Otros casos del corpus**: el speaker menciona telenovelas y "Por 13 razones" como ejemplos pero el material recuperado no desarrolla esos análisis
 - **Genealogía histórica**: el canal lo califica de "profundamente postmoderno" pero no precisa cuándo emerge esta estructura ni qué predecesores literarios o psicológicos la habilitan
 - **Salida del camino de la víctima**: cómo se transita de víctima a héroe — qué intervención narrativa, terapéutica o cultural permitiría reconvertir esta posición
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: en qué se diferencia el héroe-víctima postmoderno del antihéroe trágico clásico -->
 - **Distinción frente al antihéroe clásico**: en qué se diferencia el héroe-víctima postmoderno del antihéroe trágico clásico que también es zarandeado por fuerzas que lo superan
 
 ## Citations

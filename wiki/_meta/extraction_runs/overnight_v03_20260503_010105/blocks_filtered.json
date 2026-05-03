@@ -1,0 +1,246 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_v03_20260503_010105",
+  "items": [
+    {
+      "from_video": "0KMjKWxS_xQ",
+      "block": {
+        "block_timestamp": "01:30",
+        "block_title": "🏛️ Descubrimiento de la vinculación con Vox y defensa de la ayuda apartidista",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_phrases": [
+          "Vox"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+        "filter_added_at": "2026-04-29",
+        "extractor_note": "Bloque sobre la vinculación organizativa Revuelta-Vox y la defensa apartidista de la ayuda humanitaria a Valencia. Politiqueo coyuntural §3.1 test 5. Filtrado limpio."
+      }
+    },
+    {
+      "from_video": "0KMjKWxS_xQ",
+      "block": {
+        "block_timestamp": "02:30",
+        "block_title": "⚔️ Crítica a la izquierda progresista por inacción y ataques a los voluntarios",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_phrases": [
+          "Vox"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+        "filter_added_at": "2026-04-29",
+        "extractor_note": "Bloque de crítica partidista directa a 'la izquierda' por llamar nazi/neonazi a Revuelta (juventudes Vox) y por inacción humanitaria. Politiqueo §3.1 test 7. Filtrado limpio."
+      }
+    },
+    {
+      "from_video": "0YABTLJ-lFY",
+      "block": {
+        "block_quote": "La única alianza internacional que sostiene a Sánchez es la árabe, por conveniencia mutua,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Bloque PSOE/Sánchez — politiqueo coyuntural sin marco teórico"
+      }
+    },
+    {
+      "from_video": "0YABTLJ-lFY",
+      "block": {
+        "block_quote": "Repulsa hacia la parafernalia política desplegada en la ceremonia, incluyendo parlamento a Pedro Sánchez,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Comentario sobre Sánchez en ceremonia — politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "1mJVJawefWc",
+      "block": {
+        "block_timestamp": "24:53",
+        "block_timestamp_seconds": 1493,
+        "block_title": "Vox como alternativa política fracasada en España",
+        "block_summary_text": "Vox cada vez lo hace peor como alternativa política y probablemente se ha acomodado. No son conservadores, ni liberales, ni liberal-conservadores: no son nada definido. Acabarán siendo un partido marginal haciendo la misma política de siempre.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_term": "vox",
+        "scope": "block",
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+        "added_at": "2026-04-29",
+        "scope_md_test_failed": "scope.md §3.1 test #5 — comentario directo sobre actualidad partidista (≤12 meses) sin marco teórico aplicado. El bloque es valoración de la trayectoria política de Vox como partido específico, sin elevar la lectura a estructura sociológica o filosófica"
+      }
+    },
+    {
+      "from_video": "4QsL6hZiXJU",
+      "block": {
+        "block_timestamp": "13:05",
+        "block_title": "🎤 El periodismo provocador como evidencia del absurdo",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_phrases": [
+          "PP"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+        "filter_added_at": "2026-04-29",
+        "extractor_note": "Bloque mixto: tiene una pieza estructural (utilidad del periodismo absurdo para revelar incoherencias culturales) y referencias politiqueras directas (Caiga quien caiga metiéndose con PP en el poder, vergüenza al decir partido al que se vota). El match PP es genuino — bloque tematiza partidismo. La pieza estructural absorbe en framework_internal_structure del thesis_candidate; entrada en discarded para audit trail."
+      }
+    },
+    {
+      "from_video": "4QsL6hZiXJU",
+      "block": {
+        "block_timestamp": "26:13",
+        "block_title": "🧠 La Psoe State of Mind: identificación proyectiva como arma psicológica",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_phrases": [
+          "Psoe (en frase coined 'Psoe State of Mind')"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+        "filter_added_at": "2026-04-29",
+        "extractor_note": "MATCH INCIDENTAL: 'Psoe State of Mind' es frase coined por el canal (transposición del 'Empire State of Mind' de Jay-Z) usada como nombre metafórico del mecanismo psicológico identificación-proyección que el capital cultural opera. NO es comentario partidista directo sobre el PSOE — es categoría diagnóstica. La pieza sustantiva (mecanismo identificación + proyección como arma del capital, mutación del rebelde de 'salir' a 'destruir') ES contenido valioso del thesis_candidate y queda capturada en framework_internal_structure piezas 11-13. Filtrado literal por respeto al patrón pero recomendación de refinar regex para distinguir 'Psoe State of Mind' (frase coined) de comentario sobre el PSOE como partido."
+      }
+    },
+    {
+      "from_video": "5eRSU7lRELI",
+      "block": {
+        "block_quote": "🎭 El acta de nacimiento de Sánchez y el gobierno como relato\n\n  - La diferencia entre el 20 y el 29 de febrero es probablemente un error de transcripción, no una conspiración,\n  - El sanchismo vive del relato victimista: cualquier cosa que les ocurra se reinterpreta en clave de persecución fascista,\n  - La adherencia electoral funciona igual que el wokismo: los votantes tragan con cualquier cosa porque votan por identidad, no por razón,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Match por 'Sánchez' (también 'sanchismo'). El bloque mezcla observación factual sobre el acta de nacimiento con tesis sobre el sanchismo como dispositivo de relato victimista y adherencia electoral por identidad. La pieza analítica final ('los votantes tragan con cualquier cosa porque votan por identidad, no por razón') sería capturable en consumismo-critica si se reformulara sin atribución partidista; queda para revisión humana."
+      }
+    },
+    {
+      "from_video": "7f-iHJpDMVQ",
+      "block": {
+        "block_quote": "El gobierno ha comprado acciones de Telefónica y colocado un presidente afín procedente de Indra",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Bloque coyuntural sobre Sánchez/Telefónica como vehículo de obstrucción judicial. Política contemporánea española sin elevación a estructura"
+      }
+    },
+    {
+      "from_video": "7f-iHJpDMVQ",
+      "block": {
+        "block_quote": "Han entrado en las casas de abogados del novio de Ayuso para robar material informático",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Comentario sobre actualidad partidista (caso Ayuso) sin marco teórico aplicado. Politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "7f-iHJpDMVQ",
+      "block": {
+        "block_quote": "Distingue entre el manipulador consciente (como Borroso, al que \"le paga el PSOE\") y el creyente sincero",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Mención de figura mediática asociada a partido político concreto en contexto de actualidad. Filtro coyuntural"
+      }
+    },
+    {
+      "from_video": "7quE-LPTPuE",
+      "block": {
+        "block_quote": "El problema no es un partido concreto sino un \"state of mind\" donde el vecino está dispuesto a perderlo todo con tal de ver hundirse al otro,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "El bloque sobre endofobia española deriva a comentarios sobre actualidad política — logged para auditoría aunque la pieza estructural sobre 'state of mind colectivo' se descarta como passing"
+      }
+    },
+    {
+      "from_video": "9sqhsHNBUjQ",
+      "block": {
+        "block_quote": "📺 Farmacia de Guardia como ingeniería social del PSOE\n\n  - Farmacia de Guardia fue el preludio de la bazofia postmoderna televisiva,\n  - La cadena Al Salir de Clase, Compañeros, Física o Química alimentó el imaginario colectivo con personajes adolescentes en situaciones adultas,\n  - La ingeniería social consiste en enseñar a los adultos que son víctimas y a los niños que pueden comportarse como adultos,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Match por 'PSOE'. El bloque mezcla análisis cultural estructural (mecanismo de adultificación/infantilización cruzada como ingeniería social) con atribución partidista directa. Topic filter activo dispara registro auditable; la decisión editorial (aprovechar el mecanismo cultural sin la atribución partidista para enriquecer consumismo-critica) queda para revisión humana."
+      }
+    },
+    {
+      "from_video": "MJDukHo33Tc",
+      "block": {
+        "block_quote": "Pedro Sánchez perdió las elecciones y gobierna sin mandato directo, lo que agrava la crisis de legitimidad ante aliados,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Sánchez + elecciones — politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "MJDukHo33Tc",
+      "block": {
+        "block_quote": "Feijóo es descrito como el personaje más lamentable de la política española, peor incluso que Bolaños,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Feijóo — politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "MJDukHo33Tc",
+      "block": {
+        "block_quote": "El doble rasero mediático español: escándalos del PP como los trajes de Camps amplificados frente a los del PSOE minimizados,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "PP + PSOE — politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "MJDukHo33Tc",
+      "block": {
+        "block_quote": "España lleva en proceso distáxico desde la creación del estado de autonomías por el PSOE,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Mención al PSOE pero subordinada a tesis estructural buenista (eutaxia/distaxia) — el bloque NO se filtra completo: la mención al PSOE es ilustrativa de la tesis filosófica, no politiqueo. Logged para auditoría pero el bloque entra al universo de candidatos vía update bueno-gustavo"
+      }
+    },
+    {
+      "from_video": "VZDrqiFs58k",
+      "block": {
+        "block_timestamp": "03:01",
+        "block_title": "💶 Los 400 millones de España a países pobres frente a Valencia",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_phrases": [
+          "Pedro Sánchez",
+          "PSOE"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+        "filter_added_at": "2026-04-29",
+        "extractor_note": "Bloque íntegramente coyuntural: anuncio gubernamental de 400M€ a países pobres + crisis Valencia (DANA octubre 2024) + crítica a Pedro Sánchez por desatender lo nacional. Politiqueo §3.1 test 5/6 positivos. Filtrado limpio."
+      }
+    },
+    {
+      "from_video": "VZDrqiFs58k",
+      "block": {
+        "block_timestamp": "06:03",
+        "block_title": "🔥 Estrategia para desmantelar el PSOE desde dentro",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_phrases": [
+          "PSOE"
+        ],
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+        "filter_added_at": "2026-04-29",
+        "extractor_note": "Bloque de estrategia partidista directa contra el PSOE ('provocar hasta que su propio vómito de rabia les ahogue'). Politiqueo §3.1 test 7 positivo (juicio moral + estrategia anti-partidista). Filtrado limpio. La analogía con 'erosión del feminismo posmoderno' contenida en el bloque queda registrada como discarded passing_mention para audit trail aunque el bloque se filtre."
+      }
+    },
+    {
+      "from_video": "lFbK8-hU_E0",
+      "block": {
+        "block_timestamp": "2:03:16",
+        "block_title": "🌅 Alegatos finales: optimismo ante el despertar ciudadano",
+        "matched_pattern": "(?i)\\b(impuestos hosteleros|factura de la luz|fiscalidad coyuntural)\\b",
+        "matched_phrase": "factura de la luz",
+        "filter_reason": "ya cubierto en consumismo-critica como caso ilustrativo; no merece página propia",
+        "filter_added_at": "2026-04-29",
+        "extractor_note": "Match literal en el bullet 'hosteleros hartos de la factura de la luz saben que está mal sin haber leído a Hayek'. El bloque es mixto: contiene la mención coyuntural (matchea filter) pero también la tesis 'no apelar al academicismo, ponerle nombre a lo que la gente ya señala' y la referencia a Hayek. Se filtra por respeto literal al patrón; el material no-coyuntural del bloque (Hayek, despertar ciudadano) queda capturado vía la entity 'Hayek' arriba. Si el filtro se considera demasiado agresivo aquí, refinar regex para distinguir mención incidental vs bloque dedicado a fiscalidad coyuntural."
+      }
+    },
+    {
+      "from_video": "sTnxDjo1v3o",
+      "block": {
+        "block_quote": "El presidente se querella contra el juez que lleva la causa de corrupción de su esposa,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Mención a Sánchez — politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "xPB5l6KsU2Q",
+      "block": {
+        "block_quote": "Sánchez no marcó en la agenda que el Rey asistiera al acto por los fallecidos de Valencia,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Mención a Sánchez — politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "xPB5l6KsU2Q",
+      "block": {
+        "block_quote": "Análisis de intención de voto por edades — el PP cae de un 30% a un 11% entre generaciones; el PSOE mantiene una franja estable del 20-30%",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "PP + PSOE + intención de voto — politiqueo electoral. La pieza estructural sobre PSOE State of Mind como superioridad moral heredada se acumula para integrar en thesis_candidate Charo"
+      }
+    },
+    {
+      "from_video": "xaFCTcXXI2o",
+      "block": {
+        "block_quote": "⛪ Muerte del Papa Francisco y el progresismo eclesiástico\n\n  - Twitter católico se divide entre hipercanonización instantánea y acusaciones de satanismo, ambas posturas igual de infantiles,\n  - Que Irene Montero y Pedro Sánchez elogien el pontificado es señal de que sirvió a intereses progresistas,\n  - El pontificado fue globalista en el sentido de apoyar élites pro-cambio climático, inmigración masiva y socialismo global,",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "Match por 'Pedro Sánchez'. El bloque mezcla análisis del progresismo eclesiástico con atribución partidista directa (Sánchez, Montero) y posicionamiento sobre cambio climático/inmigración que combina marco estructural con etiquetado político-coyuntural. Topic filter activo dispara registro auditable; la decisión editorial sobre si el material estructural sobre progresismo eclesiástico (sin atribución partidista) merece enriquecer alguna página queda para revisión humana."
+      }
+    }
+  ]
+}

@@ -29,9 +29,17 @@ build/
 #     (intermedios voluminosos, derivables del corpus + scope.md histórico)
 #   - applied_backup/ → gitignored (pre-edit copies, redundantes con git history)
 #   - state.json → gitignored (control efímero de progreso)
+#   - shadow_wiki/ → gitignored (copia de trabajo durante batch, se sincroniza
+#     a wiki/ al cierre y se descarta)
+#   - heavy_context.snapshot.txt / system_prompt.short.snapshot.txt → gitignored
+#     (debug snapshots, regenerables desde código)
 #   - Aggregator outputs (discard_log, pending_updates, promote_queue,
 #     thesis_candidates, blocks_filtered, aggregation_stats) → COMMITED
 #   - applied_log.json → COMMITED (audit trail de cada apply)
+#   - <video_id>.json (per-video extraction output) → COMMITED desde 2026-05-02:
+#     son la memoria operativa del LLM. Permiten reconstruir wiki desde cero,
+#     activar síntesis débiles meses después sin re-llamada al LLM, y re-aplicar
+#     lógica nueva sobre extracciones antiguas. ~15KB/vídeo, ~4MB total corpus.
 wiki/_meta/extraction_runs/*
 !wiki/_meta/extraction_runs/*/
 wiki/_meta/extraction_runs/*/*
@@ -42,4 +50,12 @@ wiki/_meta/extraction_runs/*/*
 !wiki/_meta/extraction_runs/*/blocks_filtered.json
 !wiki/_meta/extraction_runs/*/aggregation_stats.json
 !wiki/_meta/extraction_runs/*/applied_log.json
+# Per-video JSONs (memoria operativa del extractor)
+!wiki/_meta/extraction_runs/*/*.json
+# Pero state.json y otros control files SIGUEN gitignored:
+wiki/_meta/extraction_runs/*/state.json
+wiki/_meta/extraction_runs/*/heavy_context.snapshot.txt
+wiki/_meta/extraction_runs/*/system_prompt.short.snapshot.txt
+wiki/_meta/extraction_runs/*/heavy_context.session_*.snapshot.txt
 wiki/_meta/extraction_runs/*/applied_backup/
+wiki/_meta/extraction_runs/*/shadow_wiki/

@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_v03_20260503_010105",
+  "generated_at": "2026-05-03T09:54:54+00:00",
+  "_doc": "Manuales/libros que el speaker recomienda como referencia bibliográfica del canal (scope.md §3.4). Agrupados por book_title con todas las occurrences. Insumo para futura página índice wiki/bibliografia-recomendada.md (renderizado post-process — esta es la fuente de verdad estructurada).",
+  "books": {
+    "La diosa blanca (Robert Graves)": {
+      "book_title": "",
+      "authors": [],
+      "domain": "",
+      "occurrences": [
+        {
+          "video_id": "daC37T5cbWs",
+          "video_title": "Análisis arquetípico: Excalibur",
+          "surface_form": "La diosa blanca (Robert Graves)",
+          "why_recommended": "",
+          "quote_evidence": "La diosa blanca es lectura imprescindible para comprender el mito artúrico,",
+          "timestamp_seconds": null
+        }
+      ]
+    }
+  }
+}

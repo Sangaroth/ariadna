@@ -101,5 +101,9 @@ El síntoma distingue al héroe truncado del villano puro: hay todavía un sujet
 ## Citations
 
 
+
+
 - **Análisis arquetípico de Unicorn wars** — chunks: [3:36](https://youtu.be/fLfEbHPJNmU?t=216) · [6:09](https://youtu.be/fLfEbHPJNmU?t=369)
+- **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:12:54](https://youtu.be/yoWJWwYH_pE?t=4374)
+- **Matrix, Gnosticismo, Cábala y mitología comparada** — chunks: [5:30](https://youtu.be/Dtp1_RLb7S0?t=330)
 

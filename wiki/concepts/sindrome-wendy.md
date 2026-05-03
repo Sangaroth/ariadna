@@ -158,13 +158,14 @@ Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura r
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [3:31](https://youtu.be/3Jo2T73pOEs?t=211) · [8:41](https://youtu.be/3Jo2T73pOEs?t=521)
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [32:35](https://youtu.be/JmCqIk6NDsM?t=1955) · [36:37](https://youtu.be/JmCqIk6NDsM?t=2197) · [3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
-- **Consultorio EXIT INSIDE** — chunks: [46:38](https://youtu.be/IP9f-1gSJ1c?t=2798)
 - **Fenomenología Trans** — chunks: [13:05](https://youtu.be/grs5EqRZBnQ?t=785)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [58:09](https://youtu.be/sTnxDjo1v3o?t=3489)
 
 
 - **Análisis arquetípico Frozen** — chunks: [2:13:35](https://youtu.be/NYZEm8mcPiQ?t=8015)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [3:31](https://youtu.be/X2c2a3mQBOs?t=211) · [4:31](https://youtu.be/X2c2a3mQBOs?t=271) · [7:34](https://youtu.be/X2c2a3mQBOs?t=454)
+- **Consultorio EXIT INSIDE** — chunks: [46:38](https://youtu.be/IP9f-1gSJ1c?t=2798)
 
