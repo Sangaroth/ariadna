@@ -1,0 +1,90 @@
+{
+  "video_id": "dNHlsejSAFA",
+  "video_title": "T5x?? Directo de campaña.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_no_entities": "El vídeo es una sesión de 'campaña' de la temporada 5: actualizaciones de proyectos personales, anuncios meta-canal (editora, donaciones, calendario editorial, casting de formato), anécdotas personales (mudanza, buceo profesional, tendinitis, deliberación de vehículo, preferencias de lectura) y planificación operativa. No hay desarrollo sustantivo de ningún concepto, autor, obra o tesis del marco editorial que justifique promoción o enriquecimiento de páginas existentes. Cumple su función como pieza de comunicación con la audiencia y no como contenido enciclopédico.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Pablo Iglesias antes de Podemos",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota biográfica del speaker sobre amistad digital en Twitter en 2011 con Pablo Iglesias antes de la fundación de Podemos. Per scope §3.1 test discriminante: no hay mecanismo psicológico/sociológico/filosófico aplicado a la figura, no es caso ilustrativo de un concepto del canal, no es comentario sobre actualidad partidista. Es anécdota personal del presentador, descartable per §3.3. El propio speaker anuncia que habrá un vídeo 'Yo era amigo de' que sí podría ser sustantivo en su momento.",
+      "quote_evidence": "En 2011 mantuvo trato cercano por Twitter con Pablo Iglesias antes de Podemos,",
+      "review_priority": "low",
+      "review_priority_reason": "Si el vídeo 'Yo era amigo de' anunciado se materializa con análisis arquetípico/psicológico de la trayectoria de Iglesias, esa pieza sí podría enriquecer diagrama-de-proxy o consumismo-critica. Aquí solo se anuncia, sin desarrollo.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Casting para el directo \"El amor en realidad 2\"",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de casting y formato para futuro directo del canal (preguntas cruzadas hombre-mujer con experta en fertilidad). Pieza meta sobre la planificación de contenido, no contenido sustantivo. El formato 'El amor en realidad 2' podría producir material relevante para colusion-heroe-ninfa o tipologia-femenina-arquetipica cuando se grabe, pero el casting en sí no aporta material enciclopédico.",
+      "quote_evidence": "Necesita dos chicas más de entre 20 y 40 años solteras y hartas del mercado de citas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Dedalus",
+      "reason_code": "meta_canal",
+      "reason_detail": "Aparente nombre del proyecto de instituto/fundación de investigación libre anunciado previamente en T5 1x01 (ciencias cognitivas, IA). Aquí solo se nombra como proyecto en marcha pidiendo colaboración. Es etiqueta del proyecto organizativo personal del speaker, no objeto enciclopédico.",
+      "quote_evidence": "Pide ayuda para el casting femenino y para Dedalus (ciencias cognitivas, IA),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "videojuego top-down pixel art al estilo Cult of the Lamb",
+      "reason_code": "meta_canal",
+      "reason_detail": "Proyecto personal de desarrollo de videojuego propio del speaker. Comentarios técnicos sobre IA de programación (Cursor, Claude) y artistas pixel art (Jaime), sin contenido teórico sobre los temas del canal. Cult of the Lamb se cita como referente estético-mecánico, no como obra analizada arquetípicamente.",
+      "quote_evidence": "El juego es un top-down pixel art al estilo Cult of the Lamb,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Cult of the Lamb",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia estética para el videojuego propio del speaker. Sin análisis arquetípico ni tematización del juego como obra. No cumple criterios §2.3 para entity_work.",
+      "quote_evidence": "El juego es un top-down pixel art al estilo Cult of the Lamb,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "libro, grimorio y Polaris para Feria del Libro de Madrid",
+      "reason_code": "meta_canal",
+      "reason_detail": "Calendario editorial del canal: precios, fechas de lanzamiento, eventos (Sant Jordi descartado, San Isidro/Feria del Libro de Madrid como objetivo). Anuncio operativo, no contenido sustantivo sobre lo que los libros articulan. Cuando los libros se publiquen, su contenido sí podría merecer páginas propias.",
+      "quote_evidence": "El libro saldrá a unos 10 € junto con el grimorio (otros 10 €) y un Polaris,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "donaciones para la editora voluntaria",
+      "reason_code": "promo",
+      "reason_detail": "Petición de donaciones simbólicas (1-10 €) para la editora del canal con pacto de monetización 50/50. Contenido promocional/operativo del canal, no enciclopédico per scope §3.3.",
+      "quote_evidence": "Pide donaciones simbólicas (1-10 €) destinadas íntegramente a ella,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 7,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

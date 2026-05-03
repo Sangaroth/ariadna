@@ -302,6 +302,26 @@ La pieza articula el problema abierto que el monográfico sobre el símbolo (Par
 
 
 
+## Crítica al constructivismo lingüístico: el lenguaje no estructura el pensamiento
+
+En directo navideño el canal cierra explícitamente un flanco hasta entonces implícito en la tesis: la dialéctica con la hipótesis Sapir-Whorf y con el constructivismo lingüístico contemporáneo. La pieza refuerza el postulado preexistente — el lenguaje comprime el pensamiento, no lo constituye — pero por primera vez lo sitúa en confrontación directa con la tradición que afirma lo contrario, apoyándose en evidencia neurocientífica reciente.
+
+> "Un estudio reciente compartido por Pablo Malo aporta pruebas neurocientíficas de que el lenguaje es herramienta de comunicación, no estructura del pensamiento"
+→ [Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)
+
+> "El constructivismo lingüístico y el constructivismo cultural-cognitivo quedan cuestionados: no es el lenguaje el que crea el pensamiento complejo, es el pensamiento complejo el que se articula en lenguaje"
+→ [Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)
+
+La consecuencia operativa para la teoría del símbolo es que el lenguaje opera sobre la matriz noética **comprimiendo** representaciones que tienen vida propia anterior y mayor a su expresión verbal. El grueso del pensamiento queda implícito; la franja explícita-conscientizable está acotada por el límite ya postulado en el marco original.
+
+> "La mayor parte del pensamiento es implícito; las tareas metacognitivas conscientes se limitan a 12 bits por segundo"
+→ [Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)
+
+El argumento cierra el flanco con simetría: si el pensamiento cabe en lenguaje, el constructivismo tiene razón; si solo el caudal de 12 bits/s cabe en metarrepresentación lingüística mientras el grueso de la matriz noética opera implícito, el constructivismo confunde el algoritmo de compresión con el contenido comprimido. La tesis del canal queda así polemizada — no solo articulada — frente a una tradición concurrente.
+
+
+
+
 ## Lagunas
 
 - **Parte 1 del monográfico no localizada en este barrido**: el vídeo se anuncia como "Parte 2". Probablemente la Parte 1 contiene el sustrato preliminar (definición clásica de símbolo, contexto histórico de la semiótica, motivación del proyecto, etimología tratada con detalle). La página debería integrarse con esa Parte 1 cuando el corpus la incluya — ahora mismo carece de la entrada conceptual previa.

@@ -278,4 +278,7 @@ La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en po
 
 ## Citations
 
+
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
+- **Stream Navidad 2025** — chunks: [18:16](https://youtu.be/hVfKOHEM_wU?t=1096)
+

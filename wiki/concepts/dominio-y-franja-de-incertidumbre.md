@@ -58,6 +58,32 @@ El canal articula el par **dominio / franja de incertidumbre** como constructo p
 
 El dominio aporta la **certeza** (lo que el yo sabe hacer); la franja de incertidumbre aporta el **margen** que mantiene activa la voluntad. Sin franja, el sistema motivacional colapsa hacia la depresión; con franja desbordada, se desplaza hacia la ansiedad.
 
+
+
+## Dominio funcional vs control obsesivo, y polaridad arquetípica del dominio
+
+En sesión navideña el canal precisa el dominio en dos direcciones complementarias a la formulación posicional original: una reformulación funcional (qué busca el dominio) y una diferenciación clínica (qué NO es).
+
+> "Dominio es el conjunto de conductas dirigidas a que la relación del individuo con el entorno sea lo más predecible posible"
+→ [Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)
+
+La predictibilidad como objetivo precisa la formulación posicional ('posibilidades físicas que el yo tiene'): el dominio es el régimen de relación con el entorno, no un mapa territorial. La distinción frente al **control** es decisiva: ambos buscan reducir incertidumbre, pero operan en arquitecturas afectivas opuestas.
+
+> "Dominio no es lo mismo que control: el control es una dinámica obsesiva, el dominio no"
+→ [Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)
+
+El control es la patologización del dominio: cuando la franja de incertidumbre se vive como amenaza intolerable, el sujeto intenta cerrarla por verificación compulsiva. El dominio sano deja franja activa; el control la suprime.
+
+### Polaridad arquetípica del dominio: inhibición masculina vs contemplación femenina
+
+El canal añade una articulación gendered del dominio que conecta el par dominio/franja con el [[adgrediere-masculino]]: cada polo arquetípico instala el dominio en el entorno por una vía propia.
+
+> "En el varón el dominio implica inhibir actos explícitos; en lo femenino el dominio es contemplativo: dejarse atravesar por la emoción sin que el contexto se ponga en peligro"
+→ [Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)
+
+En la psique masculina el dominio opera como **inhibición top-down** sobre los impulsos motores que el entorno solicita: el cerebro masculino estaría preparado para poner objetos en movimiento y para ejercer dominio sobre el entorno inmediato, y el dominio sano consiste precisamente en sostener inhibida esa pulsión cuando el contexto no la pide. En la psique femenina el dominio opera como sostenimiento de presencia: dejarse atravesar por la emoción sin desestabilizar el contexto. La pieza extiende el par dominio/franja desde el plano motivacional-serotoninérgico al plano arquetípico, y permite leer fenómenos como el comportamiento de utilización (pulsión motora sobre objetos sin filtro inhibitorio) como la falla específica del dominio masculino.
+
+
 ## La felicidad como equilibrio, no como tamaño del dominio
 
 El punto contra-intuitivo del marco es que la felicidad no escala con el tamaño del dominio. Un dominio pequeño, bien posicionado respecto a su franja de incertidumbre, sostiene satisfacción; un dominio grande con franja mal calibrada produce malestar.
@@ -185,9 +211,11 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [33:19](https://youtu.be/i72IYlpQWd0?t=1999)
 - **Magia y Trauma** — chunks: [1:41:13](https://youtu.be/JNafno3jgHY?t=6073)
+- **Stream Navidad 2025** — chunks: [51:22](https://youtu.be/hVfKOHEM_wU?t=3082) · [1:01:09](https://youtu.be/hVfKOHEM_wU?t=3669)
 

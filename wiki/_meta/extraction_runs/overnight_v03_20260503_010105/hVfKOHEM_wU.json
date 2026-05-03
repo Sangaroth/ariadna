@@ -1,0 +1,247 @@
+{
+  "video_id": "hVfKOHEM_wU",
+  "video_title": "Stream Navidad 2025",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "el varón es *agrediere*",
+      "canonical_guess": "adgrediere-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los hombres no pueden salvarse a sí mismos porque el varón es *agrediere*: si no hay acción constructiva, el hombre pierde su función,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No es que la cultura desprecie al hombre; es la mente masculina la que tiene preferencia por la autodestrucción en beneficio del grupo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El speaker articula tres extensiones del adgrediere ausentes en la página: (a) prescindibilidad masculina como diseño aceptado por el inconsciente colectivo, (b) necesidad estructural de lo femenino para rescatar al varón bloqueado, (c) papel femenino implícito vs masculino explícito. Material genuinamente nuevo respecto al cuerpo leído.",
+      "quote_evidence": "Los hombres no pueden salvarse a sí mismos porque el varón es *agrediere*: si no hay acción constructiva, el hombre pierde su función,"
+    },
+    {
+      "surface_form": "el lenguaje es herramienta de comunicación, no estructura del pensamiento",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El constructivismo lingüístico y el constructivismo cultural-cognitivo quedan cuestionados: no es el lenguaje el que crea el pensamiento complejo, es el pensamiento complejo el que se articula en lenguaje,"
+        },
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "La mayor parte del pensamiento es implícito; las tareas metacognitivas conscientes se limitan a 12 bits por segundo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página tiene la pieza 'lenguaje como algoritmo de compresión' y el límite 12 bits/s, pero no engagea explícitamente con Sapir-Whorf ni con el constructivismo lingüístico. El speaker añade aquí la dialéctica anti-constructivista con respaldo de estudio neurocientífico (vía Pablo Malo). Pieza nueva que cierra flanco implícito de la tesis.",
+      "quote_evidence": "Un estudio reciente compartido por Pablo Malo aporta pruebas neurocientíficas de que el lenguaje es herramienta de comunicación, no estructura del pensamiento,"
+    },
+    {
+      "surface_form": "Dominio es el conjunto de conductas dirigidas a que la relación del individuo con el entorno sea lo más predecible posible",
+      "canonical_guess": "dominio-y-franja-de-incertidumbre",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Dominio es el conjunto de conductas dirigidas a que la relación del individuo con el entorno sea lo más predecible posible,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Dominio no es lo mismo que control: el control es una dinámica obsesiva, el dominio no,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página define dominio en términos posicionales ('posibilidades físicas que el yo tiene') sin la formulación funcional (predictibilidad), sin la distinción dominio/control y sin la polaridad arquetípica masculino-inhibitorio / femenino-contemplativo. El speaker articula las tres piezas en este vídeo y son genuinamente nuevas respecto al cuerpo leído.",
+      "quote_evidence": "Dominio es el conjunto de conductas dirigidas a que la relación del individuo con el entorno sea lo más predecible posible,"
+    }
+  ],
+  "_doc_promote_new": "Sin promote_new en este vídeo: el contenido nuevo enriquece tres páginas existentes. Las menciones técnico-cognitivas (comportamiento de utilización, bro test) son condicionadas por scope §1.2 — no se promueven como pages autónomas, enriquecen concepts del canal ya promovidos.",
+  "pending_updates": [
+    {
+      "page_id": "adgrediere-masculino",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "bloquearlo (vía intelectualización, vía cultura sin épica, vía consumo de identidades sin compromiso) produce las formas patológicas que el canal cataloga: adicciones, violencia, imprudencia, picoteo de identidades.",
+      "content_proposed": "\n\n## Prescindibilidad masculina y rescate por lo femenino\n\nEl canal articula una extensión clínico-cultural de la lectura: la psique masculina **acepta su propia prescindibilidad** como diseño evolutivo, no como imposición externa. El inconsciente colectivo asume que el cuerpo del varón puede sacrificarse, y de ahí que pueda ser puesto en situaciones ridículas y peligrosas a la vez sin disonancia simbólica.\n\n> \"El hombre puede ser puesto en situaciones ridículas y peligrosas a la vez porque el inconsciente colectivo acepta que se pueda prescindir de su integridad física\"\n→ [Stream Navidad 2025 (18:16)](https://youtu.be/hVfKOHEM_wU?t=1096)\n\n> \"No es que la cultura desprecie al hombre; es la mente masculina la que tiene preferencia por la autodestrucción en beneficio del grupo\"\n→ [Stream Navidad 2025 (18:16)](https://youtu.be/hVfKOHEM_wU?t=1096)\n\nLa consecuencia estructural es que el varón sin función constructiva pierde lugar arquetípico, y los hombres no pueden auto-rescatarse del bloqueo: el adgrediere requiere objeto, y el objeto que culturalmente lo cataliza pertenece al polo opuesto. La salida del estancamiento masculino exige que el polo femenino esté disponible como destino del retorno.\n\n> \"Solo lo femenino puede sacar a los hombres de donde están, pero la posmodernidad ha absorbido lo femenino hacia papeles explícitos que son masculinos\"\n→ [Stream Navidad 2025 (17:15)](https://youtu.be/hVfKOHEM_wU?t=1035)\n\n### Papel implícito femenino vs papel explícito masculino\n\nLa precisión cosmogónica que el canal añade es que la asimetría adgrediere/no-adgrediere se inscribe en una asimetría más amplia entre dos modos de ocupar lugar arquetípico:\n\n> \"Si el papel masculino es el del héroe que sale al exterior para volver a casa, lo femenino es el lugar del que se va y al que se vuelve\"\n→ [Stream Navidad 2025 (21:18)](https://youtu.be/hVfKOHEM_wU?t=1278)\n\n> \"Lo femenino busca un papel explícito, pero los papeles explícitos son masculinos; lo femenino es un papel implícito\"\n→ [Stream Navidad 2025 (21:18)](https://youtu.be/hVfKOHEM_wU?t=1278)\n\nEl adgrediere, leído desde esta dupla, es la forma masculina del papel explícito: avanzar hacia afuera contra resistencia. Cuando la cultura empuja al polo femenino a competir por papeles explícitos, no se compensa la simetría sino que se vacía el lugar de retorno: el varón conserva la pulsión adgrediente pero ya no hay casa simbólica a la que volver tras la salida épica. Las patologías del adgrediere bloqueado adquieren así sustrato cultural específico — no es solo retirada de causas épicas, es desaparición del polo implícito que las cierra.\n",
+      "wikilinks_introduced": [
+        "anima-archetype"
+      ],
+      "citations_added": [
+        {
+          "video_id": "hVfKOHEM_wU",
+          "timestamp_seconds": 1096,
+          "cite_markdown": "[Stream Navidad 2025 (18:16)](https://youtu.be/hVfKOHEM_wU?t=1096)"
+        },
+        {
+          "video_id": "hVfKOHEM_wU",
+          "timestamp_seconds": 1035,
+          "cite_markdown": "[Stream Navidad 2025 (17:15)](https://youtu.be/hVfKOHEM_wU?t=1035)"
+        },
+        {
+          "video_id": "hVfKOHEM_wU",
+          "timestamp_seconds": 1278,
+          "cite_markdown": "[Stream Navidad 2025 (21:18)](https://youtu.be/hVfKOHEM_wU?t=1278)"
+        }
+      ],
+      "rationale": "Extensión genuinamente nueva: prescindibilidad masculina como diseño aceptado por el inconsciente colectivo, función estructural de lo femenino como destino del retorno épico, y absorción posmoderna del polo implícito como sustrato cultural específico de la patología adgrediente. El cuerpo leído sólo articula bloqueos por retirada de causas (oficio/hobby/mujer agotados); aquí se añade la dimensión cosmogónica del lugar al que se vuelve, ausente. insert_after_passage es correcto porque la nueva sección extiende la sección 'Lo masculino orientado al hacer' sin sustituirla.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el matiz importa porque sitúa el marco como programa de investigación vivo, no como sistema cerrado.",
+      "content_proposed": "\n\n## Crítica al constructivismo lingüístico: el lenguaje no estructura el pensamiento\n\nEn directo navideño el canal cierra explícitamente un flanco hasta entonces implícito en la tesis: la dialéctica con la hipótesis Sapir-Whorf y con el constructivismo lingüístico contemporáneo. La pieza refuerza el postulado preexistente — el lenguaje comprime el pensamiento, no lo constituye — pero por primera vez lo sitúa en confrontación directa con la tradición que afirma lo contrario, apoyándose en evidencia neurocientífica reciente.\n\n> \"Un estudio reciente compartido por Pablo Malo aporta pruebas neurocientíficas de que el lenguaje es herramienta de comunicación, no estructura del pensamiento\"\n→ [Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)\n\n> \"El constructivismo lingüístico y el constructivismo cultural-cognitivo quedan cuestionados: no es el lenguaje el que crea el pensamiento complejo, es el pensamiento complejo el que se articula en lenguaje\"\n→ [Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)\n\nLa consecuencia operativa para la teoría del símbolo es que el lenguaje opera sobre la matriz noética **comprimiendo** representaciones que tienen vida propia anterior y mayor a su expresión verbal. El grueso del pensamiento queda implícito; la franja explícita-conscientizable está acotada por el límite ya postulado en el marco original.\n\n> \"La mayor parte del pensamiento es implícito; las tareas metacognitivas conscientes se limitan a 12 bits por segundo\"\n→ [Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)\n\nEl argumento cierra el flanco con simetría: si el pensamiento cabe en lenguaje, el constructivismo tiene razón; si solo el caudal de 12 bits/s cabe en metarrepresentación lingüística mientras el grueso de la matriz noética opera implícito, el constructivismo confunde el algoritmo de compresión con el contenido comprimido. La tesis del canal queda así polemizada — no solo articulada — frente a una tradición concurrente.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hVfKOHEM_wU",
+          "timestamp_seconds": 2351,
+          "cite_markdown": "[Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)"
+        }
+      ],
+      "rationale": "El cuerpo leído menciona el lenguaje como compresión y el límite 12 bits/s pero no engagea con Sapir-Whorf ni con el constructivismo lingüístico como adversario teórico. El nuevo material añade exactamente esa dialéctica con respaldo empírico (estudio compartido por Pablo Malo) y deja la tesis polemizada en lugar de meramente articulada. insert_after_passage tras la sección del cuervo es editorialmente correcto: las nuevas secciones de esta página añaden refinamientos posteriores y este sigue el patrón.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "dominio-y-franja-de-incertidumbre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Sin franja, el sistema motivacional colapsa hacia la depresión; con franja desbordada, se desplaza hacia la ansiedad.",
+      "content_proposed": "\n\n## Dominio funcional vs control obsesivo, y polaridad arquetípica del dominio\n\nEn sesión navideña el canal precisa el dominio en dos direcciones complementarias a la formulación posicional original: una reformulación funcional (qué busca el dominio) y una diferenciación clínica (qué NO es).\n\n> \"Dominio es el conjunto de conductas dirigidas a que la relación del individuo con el entorno sea lo más predecible posible\"\n→ [Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)\n\nLa predictibilidad como objetivo precisa la formulación posicional ('posibilidades físicas que el yo tiene'): el dominio es el régimen de relación con el entorno, no un mapa territorial. La distinción frente al **control** es decisiva: ambos buscan reducir incertidumbre, pero operan en arquitecturas afectivas opuestas.\n\n> \"Dominio no es lo mismo que control: el control es una dinámica obsesiva, el dominio no\"\n→ [Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)\n\nEl control es la patologización del dominio: cuando la franja de incertidumbre se vive como amenaza intolerable, el sujeto intenta cerrarla por verificación compulsiva. El dominio sano deja franja activa; el control la suprime.\n\n### Polaridad arquetípica del dominio: inhibición masculina vs contemplación femenina\n\nEl canal añade una articulación gendered del dominio que conecta el par dominio/franja con el [[adgrediere-masculino]]: cada polo arquetípico instala el dominio en el entorno por una vía propia.\n\n> \"En el varón el dominio implica inhibir actos explícitos; en lo femenino el dominio es contemplativo: dejarse atravesar por la emoción sin que el contexto se ponga en peligro\"\n→ [Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)\n\nEn la psique masculina el dominio opera como **inhibición top-down** sobre los impulsos motores que el entorno solicita: el cerebro masculino estaría preparado para poner objetos en movimiento y para ejercer dominio sobre el entorno inmediato, y el dominio sano consiste precisamente en sostener inhibida esa pulsión cuando el contexto no la pide. En la psique femenina el dominio opera como sostenimiento de presencia: dejarse atravesar por la emoción sin desestabilizar el contexto. La pieza extiende el par dominio/franja desde el plano motivacional-serotoninérgico al plano arquetípico, y permite leer fenómenos como el comportamiento de utilización (pulsión motora sobre objetos sin filtro inhibitorio) como la falla específica del dominio masculino.\n",
+      "wikilinks_introduced": [
+        "adgrediere-masculino"
+      ],
+      "citations_added": [
+        {
+          "video_id": "hVfKOHEM_wU",
+          "timestamp_seconds": 3669,
+          "cite_markdown": "[Stream Navidad 2025 (1:01:09)](https://youtu.be/hVfKOHEM_wU?t=3669)"
+        }
+      ],
+      "rationale": "La página actual define dominio posicionalmente y no contempla (a) la formulación funcional por predictibilidad, (b) la distinción dominio/control, ni (c) la polaridad arquetípica masculino-inhibitorio / femenino-contemplativo. Las tres son piezas nuevas que articula el speaker en este vídeo y que cierran un flanco abierto del marco (cómo se traduce dominio a sociedades humanas, listado en lagunas como pendiente). insert_after_passage tras la sección Definición es editorialmente correcto porque el nuevo material refina la propia definición.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Pablo Malo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención puntual como atribución de fuente del estudio neurocientífico que respalda la crítica a Sapir-Whorf. El speaker no articula a Pablo Malo como referencia bibliográfica del canal ni recomienda su obra como base de estudio — solo cita un estudio que él compartió. La cita real va integrada en el update a teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "Un estudio reciente compartido por Pablo Malo aporta pruebas neurocientíficas de que el lenguaje es herramienta de comunicación, no estructura del pensamiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Lucía Etxebarría",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aparece como ejemplo ilustrativo único de explicación sociologista del suicidio masculino, dentro de una crítica más amplia a la sociología como disciplina. No hay tratamiento sustantivo de su pensamiento ni se la articula como referencia recurrente. Per scope §3.1 test discriminante, la mención es uso ilustrativo de un argumento epistemológico, no politiqueo.",
+      "quote_evidence": "Lucía Etxebarría como ejemplo de explicar el suicidio masculino mediante sociología cuando ni la biología conductual ni la IA pueden predecirlo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Juan Sotivars",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención como referencia comparativa para describir el formato de interlocución que el speaker quiere adoptar para sus futuros directos. Contenido meta sobre planificación del canal, no sustantivo.",
+      "quote_evidence": "El nuevo formato será de interlocución con otra persona, similar al de Juan Sotivars, porque explicar conceptos a alguien es como mejor funciona,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "comportamiento de utilización",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto neuropsiquiátrico estándar (síndrome de desconexión frontotemporal) que el speaker invoca como evidencia del modelo top-down/bottom-up para explicar la pulsión motora masculina sobre objetos. Per scope §1.2 (dominios condicionados), concepto técnico aplicado como caso ilustrativo de un marco propio del canal — enriquece dominio-y-franja-de-incertidumbre y se referencia desde adgrediere-masculino, pero no se promueve como página autónoma porque ningún concepto neurocientífico estándar es objeto enciclopédico del wiki por sí mismo.",
+      "quote_evidence": "El comportamiento de utilización es un síndrome de desconexión frontotemporal donde el individuo no puede inhibir actos automáticos sobre objetos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el speaker recurre al concepto en otros vídeos, podría merecer una pequeña entrada como pieza neuropsicológica ilustrativa en el frontmatter de dominio. Por ahora la cita-only update via enriches_concept es suficiente.",
+      "enriches_concept": "dominio-y-franja-de-incertidumbre"
+    },
+    {
+      "surface_form": "bro test",
+      "reason_code": "passing_mention",
+      "reason_detail": "Término channel-específico introducido brevemente como nombre operativo para el test informal de comportamiento de utilización masculino. ~1 min de exposición, no recurrente en el corpus visible. No cumple criterios §2.1 de promoción a concept (recurrencia ni monográfico ni framing-mark sostenido). Caso ilustrativo del adgrediere — la pulsión a 'poner objetos en movimiento' es manifestación cotidiana del dominio masculino orientado al hacer.",
+      "quote_evidence": "El *bro test* consiste en comprobar si una persona utiliza impulsivamente los objetos que se le ponen delante según lo que el cerebro masculino pide hacer con ellos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "adgrediere-masculino"
+    },
+    {
+      "surface_form": "La sociología es descriptiva, no explicativa",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Tesis embrionaria del speaker (~5 min sostenidos) sobre la sociología como etología cultural sin capacidad explicativa. Tiene marcador de tesis ('La sociología sería una etología con cultura') pero no alcanza minutos sostenidos ni estructura interna articulada para promover como author_thesis. Si el canal vuelve sobre la idea en otro vídeo con más desarrollo, valdría revisar.",
+      "quote_evidence": "La sociología es descriptiva, no explicativa: confunde causas con consecuencias,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis genuinamente articulada del speaker que puede consolidar como concept o synthesis si recurre. La formulación 'sociología sería una etología con cultura' es candidata a quotearse cuando madure.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "La depresión es falta de motivación",
+      "reason_code": "already_captured",
+      "reason_detail": "El cuerpo de dominio-y-franja-de-incertidumbre ya contiene la formulación literal: 'La depresión es la ausencia de motivación: ninguna representación mental futura es prioridad suficiente para activar la voluntad'. La mención aquí es restatement, no aporta matiz nuevo. La pieza relacionada sobre comportamiento de utilización no inhibido por estado depresivo sí es matiz nuevo y queda capturada vía enriches_concept del comportamiento de utilización.",
+      "quote_evidence": "La depresión es falta de motivación, y la motivación es el conjunto de afectos que preparan para la acción,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dominio-y-franja-de-incertidumbre"
+    },
+    {
+      "surface_form": "Polaris",
+      "reason_code": "meta_canal",
+      "reason_detail": "Proyecto editorial del speaker (libro propio en proceso de reescritura). Mención como pendiente de trabajo, no como contenido sustantivo. No es entidad enciclopédica del corpus.",
+      "quote_evidence": "Polaris necesita reescritura porque está mal escrito, no se entiende, y requiere mejores ejemplos mitológicos y mejor desarrollo matemático y filosófico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "divulgación en psicología que dicen barbaridades",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Mención breve (~2 min) que repite la posición ya articulada y desarrollada en psicoinfluencers-en-proxy. La página existente cubre la crítica al conductismo divulgativo sin corrección filosófica. Sin matiz nuevo, prosa sería redundante. La cita-only update no aporta lane de retrieval relevante porque el speaker no nombra cuentas concretas.",
+      "quote_evidence": "Observa cuentas de divulgación en psicología que dicen barbaridades o divulgan bien pero sin corrección filosófica ni categorial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 9,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

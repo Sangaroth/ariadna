@@ -132,6 +132,73 @@ El dispositivo opera por composición: cada paso retórico parece plausible al r
 La categoría es generalizable: las fórmulas pseudo-aritméticas que pretenden derivar normas relacionales de operaciones numéricas (rangos de edad como funciones de la edad propia) son casos paradigmáticos de pendiente resbaladiza con ropaje matemático. La precisión cierra el catálogo retórico woke que la página articula: vaciamiento arquetípico (sustrato) + sofisma estético (mecanismo puntual) + pendiente resbaladiza (mecanismo estructural).
 
 
+
+## Refutación a 'no hay modelos masculinos': el referente revela, no instala
+
+En T5x04 *De Héroes y Hombres* (03-abr-2026) el canal aplica el aparato anti-constructivista a un caso paradigmático del feminismo postmoderno: la afirmación de Elena Valenciano de que los hombres carecen de modelos masculinos a los que mirar. El speaker la rechaza por confundir referente con receta y por presuponer constructivismo donde opera revelación.
+
+> "Elena Valenciano y el feminismo posmoderno afirman que los hombres carecen de modelos masculinos; Proxy lo considera una estupidez"
+→ [T5x04 De Héroes y Hombres (1:06:58)](https://youtu.be/OLphDg-DL-0?t=4018)
+
+> "Los referentes no sirven para copiarles sino para revelar lo que ya está dentro de uno: los gustos se revelan mediante práctica y ensayo-error"
+→ [T5x04 De Héroes y Hombres (1:06:58)](https://youtu.be/OLphDg-DL-0?t=4018)
+
+> "Los únicos modelos universales que existen son el héroe y la diosa, no construcciones sociales"
+→ [T5x04 De Héroes y Hombres (1:06:58)](https://youtu.be/OLphDg-DL-0?t=4018)
+
+La estructura del rechazo es triple: (a) **función del referente** — el referente revela contenidos preexistentes en la psique, no instala identidades nuevas; (b) **origen de los modelos** — los modelos universales operan a nivel arquetípico (héroe / diosa, ver [[mito-polar]]), no como invención cultural deliberada; (c) **consecuencia operativa** — pedir 'nuevos modelos masculinos construidos' es demanda interna al propio dispositivo constructivista cuyo fracaso se diagnostica.
+
+### Cuentos infantiles como materialización afectiva, no adoctrinamiento
+
+El argumento se extiende a un caso específico: los cuentos populares no son vehículos de adoctrinamiento patriarcal sino articulaciones afectivas de procesos lógicos que el niño ya intuye antes de la fábula.
+
+> "Los cuentos con moraleja no son adoctrinamiento político sino materializaciones afectivas de experiencias vitales que existen en los niños desde que tienen conciencia"
+→ [T5x04 De Héroes y Hombres (1:12:08)](https://youtu.be/OLphDg-DL-0?t=4328)
+
+> "Caperucita Roja no plasma patriarcado; la fábula simplemente pone palabras a procesos lógicos intuitivos"
+→ [T5x04 De Héroes y Hombres (1:12:08)](https://youtu.be/OLphDg-DL-0?t=4328)
+
+> "La visión constructivista empeora todo porque su única solución a la crisis que ha creado es más constructivismo en otro sentido"
+→ [T5x04 De Héroes y Hombres (1:12:08)](https://youtu.be/OLphDg-DL-0?t=4328)
+
+La precisión cierra el aparato anti-constructivista del canal con la fórmula recursiva: el constructivismo postmoderno produce un diagnóstico (carencia de modelos / patriarcado en cuentos) cuya solución solo se formula desde el mismo constructivismo (más construcción cultural deliberada), instalando un bucle donde la enfermedad alimenta su propia receta. El [[sofisma-estetico]] queda así complementado por el **sofisma constructivista**: la convicción de que la cultura es íntegramente fabricable a voluntad y que las dificultades culturales se resuelven necesariamente por más fabricación.
+
+
+
+
+## Emotivismo como motor meta-ético del woke
+
+En el directo piloto de la quinta temporada (31-mar-2026) el canal articula una pieza que cierra el aparato woke por su flanco meta-ético: el **emotivismo** como teoría moral subyacente que desplaza la deliberación normativa hacia el cálculo afectivo caso-por-caso. La precisión transforma el diagnóstico — el woke no es solo vaciamiento cultural-narrativo ni solo dispositivo retórico, es también un programa meta-ético que niega la legitimidad de la fundamentación filosófica estable.
+
+> "Las emociones no pueden decidir las reglas político-morales en una democracia"
+→ [T5 1x01: Piloto (59:13)](https://youtu.be/6oOAZotwPQk?t=3553)
+
+> "El movimiento woke ha destruido la izquierda, el estado y la decencia moral con argumentos emocionales"
+→ [T5 1x01: Piloto (59:13)](https://youtu.be/6oOAZotwPQk?t=3553)
+
+> "Ir caso a caso decidiendo éticamente según las circunstancias emocionales es anticivilizatorio y distópico"
+→ [T5 1x01: Piloto (59:13)](https://youtu.be/6oOAZotwPQk?t=3553)
+
+La consecuencia operativa para el marco: las tres piezas anteriores (vaciamiento arquetípico, [[sofisma-estetico]], pendiente resbaladiza) son síntomas; el emotivismo es la teoría moral que las articula entre sí. Sustituir reglas universales por evaluación afectiva en cada decisión destruye la posibilidad de norma compartida, y por eso el canal lo etiqueta como **anticivilizatorio** — no en sentido normativo-conservador sino en sentido estructural: ninguna civilización puede sostenerse sobre cálculo emocional caso-por-caso porque cada precedente reorganiza el campo deliberativo del siguiente.
+
+### Dos principios metodológicos correlativos
+
+El canal articula además dos principios meta-éticos que cierran el aparato anti-emotivista. El primero separa conclusión correcta de fundamento correcto:
+
+> "La conclusión correcta por motivo equivocado sigue siendo equivocada: crea pendientes resbaladizas"
+→ [T5 1x01: Piloto (52:39)](https://youtu.be/6oOAZotwPQk?t=3159)
+
+La conexión con la pendiente resbaladiza ya documentada es estructural: una conclusión moral aceptable obtenida por razones emotivistas instala el método emotivista como precedente, y el método emotivista permite después encadenar conclusiones inaceptables con la misma legitimidad procedimental. La pendiente no se desliza por la conclusión, se desliza por el fundamento que la sostuvo.
+
+El segundo principio impone pluralismo de fundamentaciones rigurosas frente a monismo emotivista:
+
+> "Dos posiciones contrarias pueden estar bien fundamentadas si ambas parten de coordenadas filosóficas rigurosas"
+→ [T5 1x01: Piloto (52:39)](https://youtu.be/6oOAZotwPQk?t=3159)
+
+La precisión es decisiva: el canal no defiende una posición moral única contra el woke, defiende el **género filosófico de la fundamentación** contra el género emotivista de la justificación afectiva. Dos sujetos rigurosos pueden discrepar sobre eutanasia, aborto u otras cuestiones límite y ambas posiciones ser legítimas si están construidas desde coordenadas filosóficas estables. Lo ilegítimo no es la conclusión opuesta, es la justificación caso-por-caso por afecto que, aunque coincida en la conclusión con una posición rigurosa, falsea el procedimiento moral mismo y hace inestable cualquier inferencia ulterior.
+
+
+
 ## Lagunas
 
 - **Genealogía intelectual**: el canal nombra la matriz "narrativa postmoderna" pero no desarrolla qué autores postmodernos (Foucault, Derrida, Butler) sustentan teóricamente el constructivismo cultural identificado como pieza nuclear
@@ -147,10 +214,12 @@ La categoría es generalizable: las fórmulas pseudo-aritméticas que pretenden 
 
 
 
+
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
 - **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
 - **Luto** — chunks: [38:05](https://youtu.be/5eRSU7lRELI?t=2285)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [53:01](https://youtu.be/1WEQmzUM41M?t=3181) · [1:02:18](https://youtu.be/1WEQmzUM41M?t=3738)
 - **Progresterona** — chunks: [59:12](https://youtu.be/7f-iHJpDMVQ?t=3552)
+- **T5 1x01: Piloto** — chunks: [59:13](https://youtu.be/6oOAZotwPQk?t=3553)
 
