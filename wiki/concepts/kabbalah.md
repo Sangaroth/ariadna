@@ -129,5 +129,7 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 ## Citations
 
 
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [1:08:32](https://youtu.be/Dtp1_RLb7S0?t=4112) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757)
 

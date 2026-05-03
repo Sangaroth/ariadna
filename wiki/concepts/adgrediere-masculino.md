@@ -266,6 +266,73 @@ La pieza precisa la complementariedad estructural: ningún polo opera puro. El c
 
 La precisión cosmogónica añade un anclaje biológico-genealógico al femenino: la herencia mitocondrial (transmitida exclusivamente por línea materna) opera como sustrato ininterrumpido del femenino inmanente primario. La asimetría psicobiológica que la página articulaba como ser/hacer encuentra aquí su correlato genético: el femenino tiene línea genealógica propia continua; el masculino se actualiza en cada generación vía cromosoma Y heredado del padre individual. La consecuencia teórica es que el femenino opera como **continuidad biológica de fondo** y el masculino como **discontinuidad selectiva** — una arquitectura asimétrica donde la pulsión adgrediente del varón es comprensible solo contra ese fondo femenino que la antecede y la sobrevive.
 
+
+
+## Los tres instintos masculinos canalizables: fuerza, Eros y dominio
+
+El monográfico *Análisis arquetípico Scott Pilgrim* (115 min) articula la triada de instintos arquetípicos masculinos que el adgrediere canaliza, y la operación de transformación que el héroe debe completar para cada uno:
+
+> "Los instintos masculinos fundamentales son fuerza, Eros y dominio,"
+→ [Análisis arquetípico Scott Pilgrim (15:38)](https://youtu.be/X2c2a3mQBOs?t=938)
+
+La pieza añade especificidad al adgrediere ya documentado (que opera como pulsión genérica a 'avanzar contra la oposición'): el adgrediere se cristaliza canónicamente en **tres modalidades de instinto** — fuerza (capacidad de imponerse físicamente), Eros (deseo sexual y energía vital), dominio (necesidad de jerarquía y territorio). La triada es operativa porque cada instinto tiene una forma cruda (que opera por sí sola en la psique no madura) y una forma transformada (resultado del aprendizaje del héroe en el recorrido por el femenino):
+
+> "Scott tiene tres exnovias que representan tres formas de feminidad y tres dones que debe transformar: fuerza en determinación, deseo en calma, y dominio en ternura,"
+→ [Análisis arquetípico Scott Pilgrim (1:44:00)](https://youtu.be/X2c2a3mQBOs?t=6240)
+
+La correspondencia operativa:
+
+| Instinto crudo | Forma transformada | Operación |
+|---|---|---|
+| Fuerza | Determinación | la energía bruta se canaliza en propósito sostenido |
+| Eros / deseo | Calma | el impulso reactivo se contiene en presencia |
+| Dominio | Ternura | la necesidad jerárquica se invierte en cuidado |
+
+La pieza es decisiva para el marco. El adgrediere no se canaliza simplemente buscando 'objeto épico' — se canaliza **transformando los tres instintos crudos en sus formas maduras** mediante el aprendizaje sucesivo del femenino (cada encuentro con una mujer revela una de las tres dimensiones a transformar). El recorrido completo del héroe masculino requiere las tres transformaciones; bloquear cualquiera produce un cuadro de adgrediere parcialmente desarrollado.
+
+## Superyo masculino y ello femenino: arquitectura psíquica de la asimetría
+
+El mismo monográfico articula la base psicobiológica de la asimetría adgrediere/no-adgrediere documentada en otras secciones:
+
+> "El ello corresponde a la parte biológica ancestral, siempre más femenina; el superyo es más cortical y masculino,"
+→ [Análisis arquetípico Scott Pilgrim (15:38)](https://youtu.be/X2c2a3mQBOs?t=938)
+
+> "La mujer inclinada al superyo tiende a la creación intelectiva y tecnológica; el hombre inclinado al ello es llevado por los instintos,"
+→ [Análisis arquetípico Scott Pilgrim (15:38)](https://youtu.be/X2c2a3mQBOs?t=938)
+
+La pieza precisa el sustrato freudiano del marco: el ello (parte biológica ancestral, pulsiones no elaboradas) tiene anclaje arquetípicamente femenino — el cuerpo, la continuidad biológica, los instintos preverbales; el superyo (córtex, normas internalizadas, proyecto) tiene anclaje arquetípicamente masculino — la mediación cortical, la regla, el plan. Toda psique mixta integra ambos polos, pero la asimetría estructural produce cuadros distintos cuando uno predomina sobre el otro: la mujer con superyo dominante deriva hacia la creación intelectiva (donde el adgrediere femenino se canaliza); el hombre con ello dominante queda capturado por los instintos crudos sin elaboración madura. La consecuencia para el cuadro adgrediere bloqueado: el bloqueo no es solo retirada de causas épicas (jaula de oro) ni solo eliminación del arquetipo ficcional masculino (Frozen) — es también **fallo de la operación cortical de transformación** de los tres instintos crudos en sus formas maduras. El videojuego funciona como cuento perfecto del superyo masculino precisamente porque ofrece arena segura para esa operación de transformación.
+
+> "El videojuego sustituye al cuento de hadas como ficción ideal para el abandono masculino de la infancia,"
+→ [Análisis arquetípico Scott Pilgrim (21:51)](https://youtu.be/X2c2a3mQBOs?t=1311)
+
+Ver [[scott-pilgrim-vs-the-world-2010-film]] para la lectura completa de cómo cada uno de los siete pecados capitales/exes opera como variante específica de los instintos sin transformar.
+
+
+
+
+## La castración cultural del arquetipo masculino: el caso Frozen
+
+El monográfico *Análisis arquetípico Frozen* (173 min) articula un caso operativo de la disolución cultural del adgrediere ya documentada: cuando el dispositivo narrativo no neutraliza la pulsión por exceso de comodidad ([[#El adgrediere como continuo vital cotidiano: jaulas de oro y deuda cognitiva|jaula de oro]]) ni por bloqueo del polo femenino ([[#Prescindibilidad masculina y rescate por lo femenino|absorción del femenino implícito]]), sino por **eliminación del arquetipo masculino mismo del repertorio narrativo**.
+
+> "Lo masculino en Frozen tiene un papel completamente irrelevante y no representa masculinidad, adultez ni infancia: solo ser un pringado,"
+→ [Análisis arquetípico Frozen (1:31:05)](https://youtu.be/NYZEm8mcPiQ?t=5465)
+
+> "Solo hay dos tipos de hombres en la película: el egócrata maquiavélico que siempre engaña y el pazguato; no existe masculinidad real,"
+→ [Análisis arquetípico Frozen (1:31:05)](https://youtu.be/NYZEm8mcPiQ?t=5465)
+
+La pieza precisa la tipología cultural reductora: el dispositivo Disney contemporáneo ofrece dos modalidades del varón — el **egócrata maquiavélico** (Hans, que conspira y engaña) y el **pazguato** (Kristof, sin dones, cuyo único atributo es hablar con un reno). Ninguna porta el adgrediere; ninguna ofrece sustrato para la identificación heroica masculina. La canción de los trolls cifra explícitamente la ausencia de don:
+
+> "El mensaje de la canción es que ella puede mejorarle con un poquito de amor y que a su lado él hace buena media,"
+→ [Análisis arquetípico Frozen (2:04:25)](https://youtu.be/NYZEm8mcPiQ?t=7465)
+
+> "No dice que la belleza está en el interior sino que este hombre no tiene nada y lo único bueno es que tú le quieras,"
+→ [Análisis arquetípico Frozen (2:04:25)](https://youtu.be/NYZEm8mcPiQ?t=7465)
+
+La consecuencia operativa para el cuadro adgrediere bloqueado: cuando la cultura no solo retira las causas épicas (vía consumismo) ni solo absorbe lo femenino implícito (vía demanda postmoderna de papeles explícitos para todas), sino que además **elimina el arquetipo masculino del imaginario disponible**, el bloqueo del adgrediere ya no admite ni siquiera el cauce sublimado vía identificación con el héroe ficcional. El varón joven que crece consumiendo este imaginario no encuentra modelo arquetípico al que asociar su propia pulsión — la única identificación cultural disponible es egócrata o pazguato.
+
+La pieza enlaza también con la página [[woke-narrativa-postmoderna-moral|woke]] (cuarta característica diagnóstica: 'no hay héroes que se enfrentan al mal sino víctimas por defecto'): la castración del varón ficcional es la cara complementaria de la consagración de la víctima como protagonista universal — no son operaciones distintas, son las dos vertientes del mismo dispositivo narrativo.
+
+
 "
 → [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)
 

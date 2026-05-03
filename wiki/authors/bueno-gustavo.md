@@ -252,6 +252,7 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 
 
 
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
@@ -264,4 +265,5 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [43:27](https://youtu.be/-daRyQwnZy0?t=2607)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [58:09](https://youtu.be/sTnxDjo1v3o?t=3489) · [1:29:25](https://youtu.be/sTnxDjo1v3o?t=5365)
 - **Vicky Proxy Barcelona** — chunks: [44:54](https://youtu.be/HPeKIuwm_Og?t=2694)
+- **Análisis arquetípico Frozen** — chunks: [1:59:22](https://youtu.be/NYZEm8mcPiQ?t=7162) · [2:04:25](https://youtu.be/NYZEm8mcPiQ?t=7465)
 

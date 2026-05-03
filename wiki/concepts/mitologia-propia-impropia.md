@@ -127,3 +127,5 @@ Esto arroja luz sobre por qué los autores que construyen mitos propios — como
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444)
 
+
+- **Análisis arquetípico La Bruja** — chunks: [13:30](https://youtu.be/rRlks0e0oxU?t=810) · [23:09](https://youtu.be/rRlks0e0oxU?t=1389) · [2:15:15](https://youtu.be/rRlks0e0oxU?t=8115)

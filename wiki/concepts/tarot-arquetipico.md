@@ -74,8 +74,26 @@ Como bibliografía para fijar la lectura del canal se recomienda explícitamente
 
 Esto sitúa la lectura del tarot dentro del marco interpretativo de [[jung-carl-gustav]] sin pasar por la obra primaria — el canal prefiere la mediación junguiana de segunda generación como puerta de entrada a esta materia. La consecuencia editorial es que cualquier desarrollo arcano-por-arcano que el canal proponga estará filtrado por esa tradición secundaria, no por una lectura directa de los textos jungianos sobre simbolismo.
 
+
+
+## Caso paradigmático: Man of Steel como recorrido completo de los 22 Arcanos
+
+El análisis arquetípico de [[man-of-steel-2013-film|Man of Steel]] articula la película como recapitulación completa de los 22 Arcanos Mayores del tarot — la traversal más exhaustiva documentada en el corpus. La lectura ejemplifica cómo el canal usa los arcanos: no como dispositivo adivinatorio sino como secuencia arquetípica fija que organiza la trayectoria del héroe solar.
+
+> "El Loco es arrojado al mundo desde el sol; el Mago representa el aprendizaje con los padres,"
+→ [Análisis arquetípico El Hombre de Acero (1:49:25)](https://youtu.be/HgLlH8Ta2qk?t=6565)
+
+> "La Sacerdotisa se revela doblemente: la madre sacándole del armario y Lana reconociéndole como especial,"
+→ [Análisis arquetípico El Hombre de Acero (1:49:25)](https://youtu.be/HgLlH8Ta2qk?t=6565)
+
+La secuencia completa que el canal articula: Loco (expulsión desde el sol) → Mago (aprendizaje con los padres) → Sacerdotisa (madre + Lana reconociéndole como especial) → Amantes (entrega y enamoramiento con Lois) → Carro (potencia contra Zod) → Fuerza (la doncella con el padre) → Rueda de la Fortuna (giro del destino) → Justicia (tribunal humano) → Colgado (sacrificio ante la humanidad) → Muerte (asume la muerte del padre) → Templanza (Batman perdonándole) → Torre (Juicio Final destruye su mundo) → Estrella y Luna (entrega a la oscuridad) → Sol (renacimiento).
+
+La lectura es operativa: el [[mito-solar|mito solar]] del héroe (Superman como recapitulación contemporánea de Cristo / Hércules / Apolo) se reconoce arcano-por-arcano en la película. La pieza importa porque cierra el sentido del tarot como **mapa fijo de la trayectoria heroica**, no como conjunto suelto de imágenes — los arcanos no son símbolos sueltos, son una secuencia ordenada que cualquier mito solar contemporáneo recapitula.
+
+
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus d -->
 - El canal nombra el tarot como sistema arquetípico pero no recorre arcanos concretos en este pasaje; lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus dedicadas a obras concretas como Matrix o El Gran Lebowski
 - No se desarrolla qué arquetipos junguianos concretos quedan codificados en cada arcano ni cómo se mapean a sombra / ánima / self
 - La distinción entre Arcanos Mayores y Menores no aparece tematizada
@@ -91,6 +109,9 @@ Esto sitúa la lectura del tarot dentro del marco interpretativo de [[jung-carl-
 
 
 
+
+
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -98,4 +119,7 @@ Esto sitúa la lectura del tarot dentro del marco interpretativo de [[jung-carl-
 - **Fenomenología Trans** — chunks: [38:02](https://youtu.be/grs5EqRZBnQ?t=2282)
 - **Psicoinfluencers** — chunks: [36:37](https://youtu.be/frbMVcThuRw?t=2197)
 - **What is a Charo?** — chunks: [2:36:43](https://youtu.be/qMfv4dX09Lg?t=9403)
+- **Análisis arquetípico El Hombre de Acero** — chunks: [1:47:24](https://youtu.be/HgLlH8Ta2qk?t=6444) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
+- **Análisis arquetípico: Excalibur** — chunks: [7:38](https://youtu.be/daC37T5cbWs?t=458) · [30:24](https://youtu.be/daC37T5cbWs?t=1824) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580)
+- **Análisis arquetípico Scott Pilgrim** — chunks: [26:25](https://youtu.be/X2c2a3mQBOs?t=1585) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)
 

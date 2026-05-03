@@ -1,0 +1,573 @@
+{
+  "video_id": "NYZEm8mcPiQ",
+  "video_title": "Análisis arquetípico Frozen",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Frozen (2013)",
+      "canonical_guess": "frozen-2013-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 173,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La película es puro adoctrinamiento posmoderno disfrazado de feminismo gubernamental,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Frozen no es un análisis simbólico al uso de Disney sino una comparación entre lo que cuenta la película y lo que debería contar una historia fantástica con mito heroico,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es una de las mejores representaciones veladas de la herida narcisista: una reina que no tiene reino, reina de sí misma y de nadie,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 'análisis dedicado': vídeo monográfico de 173 min sobre Frozen leído como caso paradigmático de camino-víctima/herida-narcisista en formato Disney. La película ya está mencionada en woke-narrativa-postmoderna-moral.md como caso límite ('progre con elementos arquetípicos invertidos'). El monográfico aporta el análisis sostenido de por qué opera como vehículo de identificación regresiva: protagonista doble como dos partes del yo, padres como represores invertidos, masculinidad destruida, sororal vs hieros gamos, ausencia de aprendizaje del héroe.",
+      "quote_evidence": "Disney consigue que toda persona con una idea de infancia en la que fue el centro incomprendido de un conflicto se identifique mágicamente con Elsa,"
+    },
+    {
+      "surface_form": "camino de la víctima (Frozen como segundo caso paradigmático)",
+      "canonical_guess": "camino-victima",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El héroe nunca nace bajo represión; quien nace bajo represión es la víctima, que es exactamente lo opuesto a un héroe,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El frío no es una virtud sino una maldición porque te obligan a reprimirla y nadie lo comprende: eso es lo que le pasa a las víctimas, no a los héroes,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página declara como laguna explícita 'Otros casos del corpus: el speaker menciona telenovelas y Por 13 razones como ejemplos pero el material recuperado no desarrolla esos análisis'. Frozen es ahora el segundo caso paradigmático (junto a Harry Potter) con tratamiento sostenido de 173 min. Material genuinamente nuevo: marca diagnóstica precisa (héroe nunca nace bajo represión, víctima sí), inversión del arquetipo paterno como mecanismo cultural, empoderamiento sin aprendizaje real.",
+      "quote_evidence": "El héroe nunca nace bajo represión; quien nace bajo represión es la víctima, que es exactamente lo opuesto a un héroe,"
+    },
+    {
+      "surface_form": "herida narcisista (Frozen como representación velada)",
+      "canonical_guess": "herida-narcisista-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Es una de las mejores representaciones veladas de la herida narcisista: una reina que no tiene reino, reina de sí misma y de nadie,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El empoderamiento consiste en no arreglar nada de lo que te ha llevado a ser como eres pero decidir que nada de aquello te importa,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico articula Frozen como una de las mejores representaciones veladas de la herida narcisista. Material nuevo: el empoderamiento como dispositivo narrativo del cuadro (no arreglar nada pero decidir que nada importa), el castillo de hielo como autotipo psíquico construido para 'no sentir nunca más', la maquinaria Disney que activa la identificación con la víctima incomprendida. Insert sustantivo.",
+      "quote_evidence": "Es una de las mejores representaciones veladas de la herida narcisista: una reina que no tiene reino, reina de sí misma y de nadie,"
+    },
+    {
+      "surface_form": "adgrediere masculino (Frozen como castración del arquetipo)",
+      "canonical_guess": "adgrediere-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo masculino en Frozen tiene un papel completamente irrelevante y no representa masculinidad, adultez ni infancia: solo ser un pringado,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Solo hay dos tipos de hombres en la película: el egócrata maquiavélico que siempre engaña y el pazguato; no existe masculinidad real,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material nuevo: la articulación del Disney contemporáneo como dispositivo cultural de castración del arquetipo masculino. Frozen ofrece dos modalidades reductoras de lo masculino (egócrata maquiavélico vs pazguato sin dones), ninguna heroica. Complementa la página existente sobre cómo 'la cultura vacía de épica al varón' con un caso operativo cinematográfico.",
+      "quote_evidence": "Lo masculino en Frozen tiene un papel completamente irrelevante y no representa masculinidad, adultez ni infancia: solo ser un pringado,"
+    },
+    {
+      "surface_form": "hieros gamos (contraste con amor sororal en Frozen)",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La grandeza del amor en el Hieros Gamos es la complementariedad de dos cosas que no se conocen y conociéndose llegan a ser uno,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película dice que el amor verdadero está en tus iguales como mujer y que cuanto más diferente a ti sea alguien más te engañará,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Frozen articula explícitamente el contraste entre el amor sororal (entre iguales del mismo género) y el hieros gamos (complementariedad polar). Material nuevo: caso de inversión del hieros gamos donde la conjunción polar se sustituye por bucle sororal — variante adicional al catálogo de casos truncados/invertidos ya documentado (Unicorn Wars, Eyes Wide Shut, Drácula).",
+      "quote_evidence": "La grandeza del amor en el Hieros Gamos es la complementariedad de dos cosas que no se conocen y conociéndose llegan a ser uno,"
+    },
+    {
+      "surface_form": "viaje del héroe (inocencia vs ingenuidad)",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En la inocencia el héroe hace todo lo que puede y pide ayuda con lo que no comprende; el ingenuo cree que lo sabe todo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El héroe tiene un pacto con el diablo (como Ariel con Úrsula); Ana simplemente es engañada como víctima sin responsabilidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material nuevo: la distinción inocencia vs ingenuidad como vara diagnóstica del viaje del héroe (la inocencia del héroe es activa y pide ayuda; la ingenuidad de la víctima es pasiva y no aprende). Pieza operativa que complementa 'el viaje como diagnóstico de obras fallidas' ya documentada. Insert breve.",
+      "quote_evidence": "En la inocencia el héroe hace todo lo que puede y pide ayuda con lo que no comprende; el ingenuo cree que lo sabe todo,"
+    },
+    {
+      "surface_form": "mitología propia/impropia (función de la fantasía como descripción del mundo interno)",
+      "canonical_guess": "mitologia-propia-impropia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La fantasía no está pensada para describir el mundo material sino el mundo mental,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los cuentos de hadas no dan consejos con metáforas sino que son en sí mismos una metáfora que permite reconocer estructuras internas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material nuevo: la articulación foundational del canal sobre qué hace la fantasía (describe mundo interno, no externo) + distinción fábulas/cuentos de hadas (consejos prácticos vs metáforas estructurales). Frozen como caso de mitología impropia que usa forma de cuento de hadas para hablar del mundo externo (proyecciones de injusticia infantil). Insert sustantivo en una página relativamente densa.",
+      "quote_evidence": "Frozen habla a la gente sobre lo que cree que le pasó en su infancia y ese sentimiento de injusticia, pero no tiene correspondencia con el mundo interior,"
+    },
+    {
+      "surface_form": "síndrome de Wendy (sororal love como variante)",
+      "canonical_guess": "sindrome-wendy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película dice que el amor verdadero está en tus iguales como mujer y que cuanto más diferente a ti sea alguien más te engañará,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — el mensaje 'amor verdadero en tus iguales' es variante femenina del síndrome de Wendy (refugio en la fantasía sororal frente a la maduración del encuentro con lo distinto). El desarrollo va a frozen-2013-film. Aquí solo timestamp para retrieval.",
+      "quote_evidence": "La película dice que el amor verdadero está en tus iguales como mujer y que cuanto más diferente a ti sea alguien más te engañará,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo.",
+  "pending_updates": [
+    {
+      "page_id": "camino-victima",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Refutada parcialmente por el monográfico de 173 min sobre Frozen, que aporta un segundo caso paradigmático del corpus (junto a Harry Potter) con análisis sostenido de la estructura camino-víctima en una obra de animación contemporánea.",
+      "supersedes_laguna_text": "Otros casos del corpus: el speaker menciona telenovelas y \"Por 13 razones\" como ejemplos pero el material recuperado no desarrolla esos análisis",
+      "wikilinks_introduced": [
+        "frozen-2013-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 1998,
+          "cite_markdown": "[Análisis arquetípico Frozen (33:18)](https://youtu.be/NYZEm8mcPiQ?t=1998)"
+        }
+      ],
+      "rationale": "La laguna pide casos adicionales documentados. Frozen aporta el segundo gran caso paradigmático con análisis monográfico sostenido — refuta la laguna en su componente 'casos no desarrollados'.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "camino-victima",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Diagnóstico cultural emparentado con [[consumismo-critica]]: estructura de telenovela y ficción juvenil masiva como producción industrial de la posición de víctima",
+      "section_target": "",
+      "content_proposed": "\n\n## Frozen como caso paradigmático en formato Disney\n\nEl monográfico *Análisis arquetípico Frozen* (173 min) articula la película como segundo caso paradigmático del camino-víctima — junto a [[harry-potter-saga|Harry Potter]] — y precisa los mecanismos por los cuales la inversión opera específicamente en formato animación familiar.\n\n### La marca diagnóstica precisa: nacer bajo represión\n\n> \"El héroe nunca nace bajo represión; quien nace bajo represión es la víctima, que es exactamente lo opuesto a un héroe,\"\n→ [Análisis arquetípico Frozen (1:11:25)](https://youtu.be/NYZEm8mcPiQ?t=4285)\n\n> \"El frío no es una virtud sino una maldición porque te obligan a reprimirla y nadie lo comprende: eso es lo que le pasa a las víctimas, no a los héroes,\"\n→ [Análisis arquetípico Frozen (1:14:27)](https://youtu.be/NYZEm8mcPiQ?t=4467)\n\nLa pieza añade una **vara diagnóstica precisa**: la represión como condición inicial del protagonista es marca de víctima, no de héroe. Donde el héroe sale al mundo desde la inocencia (con dones aún no probados) o desde la curiosidad ignorante, la víctima parte ya marcada por una maldición externa que el resto del mundo no comprende. Elsa porta este patrón en pureza: poder ilimitado desde el principio, sin merecimiento, vivido como maldición porque los demás (los padres represores) no lo aceptan.\n\n### Inversión del arquetipo paterno como mecanismo cultural\n\nEl monográfico identifica una operación específica que el camino-víctima requiere para sostenerse en el formato Disney: la inversión del arquetipo paterno. Los padres no son figuras transmisoras de virtud (como en el [[viaje-heroe]] tradicional) sino represores que destruyen la posibilidad heroica:\n\n> \"Disney destruye la estructura de los padres convirtiéndolos en ignorantes, asustados, censores e inútiles para la crianza,\"\n→ [Análisis arquetípico Frozen (1:11:25)](https://youtu.be/NYZEm8mcPiQ?t=4285)\n\nLa pieza es operativa: el camino-víctima no puede instaurarse si los padres operan como figuras paternas/maternas en sentido arquetípico (transmisión de virtud, contención, iniciación). Requiere su inversión previa — los padres como locus externo de injusticia que justifica la posición de víctima. La operación sirve a la activación de la [[herida-narcisista-en-proxy|herida narcisista]] del espectador: cualquier persona con memoria de infancia en la que se sintió incomprendido se identifica mágicamente con Elsa.\n\n### Empoderamiento sin aprendizaje: la salida pseudo-heroica\n\nA diferencia del héroe que termina transformado por las pruebas, el héroe-víctima Disney emerge sin haber aprendido nada — la transformación se sustituye por la decisión de no necesitar transformarse:\n\n> \"El empoderamiento consiste en no arreglar nada de lo que te ha llevado a ser como eres pero decidir que nada de aquello te importa,\"\n→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)\n\n> \"Ninguno de los dos héroes ha aprendido cómo ser mejor; el mensaje es que tienen que ser lo que siempre fueron y todo lo demás sobraba,\"\n→ [Análisis arquetípico Frozen (2:15:05)](https://youtu.be/NYZEm8mcPiQ?t=8105)\n\nEl empoderamiento Disney es la formalización narrativa de la posición de víctima como destino: el problema no es el sujeto sino el mundo, y la salida no es el cambio interior sino la afirmación de la propia inocencia preexistente. La pieza completa el diagnóstico de la categoría — el camino-víctima no termina en transformación heroica frustrada, termina en consagración de la posición inicial.",
+      "wikilinks_introduced": [
+        "frozen-2013-film",
+        "herida-narcisista-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 4285,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:11:25)](https://youtu.be/NYZEm8mcPiQ?t=4285)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 4467,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:14:27)](https://youtu.be/NYZEm8mcPiQ?t=4467)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 6617,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 8105,
+          "cite_markdown": "[Análisis arquetípico Frozen (2:15:05)](https://youtu.be/NYZEm8mcPiQ?t=8105)"
+        }
+      ],
+      "rationale": "Insert tras el cierre de 'Conexión con otros conceptos' (donde se articula el diagnóstico cultural) y antes de Lagunas. Frozen es el segundo gran caso paradigmático del corpus — aporta vara diagnóstica precisa (nacer bajo represión), mecanismo cultural específico (inversión del arquetipo paterno) y formalización narrativa de la salida pseudo-heroica (empoderamiento sin aprendizaje). Material genuinamente nuevo, no duplicado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "junto a la transferencia hacia el acosador y la colusión negativa de la víctima ya documentadas, queda una tercera modalidad: el blindaje intelectual de la posición propia como propiedad del yo.",
+      "section_target": "",
+      "content_proposed": "\n\n## Frozen como representación velada del cuadro: el empoderamiento como dispositivo narrativo\n\nEn el monográfico *Análisis arquetípico Frozen* (173 min) el canal articula la película como una de las representaciones culturales más logradas del cuadro completo de la herida narcisista en formato accesible al gran público:\n\n> \"Es una de las mejores representaciones veladas de la herida narcisista: una reina que no tiene reino, reina de sí misma y de nadie,\"\n→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)\n\nLa pieza diagnóstica precisa que el monográfico añade es la fórmula del **empoderamiento** como dispositivo narrativo del cuadro:\n\n> \"El empoderamiento consiste en no arreglar nada de lo que te ha llevado a ser como eres pero decidir que nada de aquello te importa,\"\n→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)\n\nLa fórmula completa la mecánica del cuadro ya documentada (rencor con intereses, deuda no saldable, transferencia, cabezonería, variante autoridad): el empoderamiento es la modalidad **terminal** que cierra el cuadro sin resolverlo. El sujeto no integra la sombra ni asume el duelo del daño originario — declara que nada de aquello le importa y construye, sobre esa declaración, un castillo aislado donde no tendrá que sentir nunca más:\n\n> \"Elsa construye otro yo de hielo que no va a sentir nunca más porque cuando siente la gente la culpabiliza,\"\n→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)\n\nLa estructura es exactamente la inversa de la individuación: en lugar de integrar la sombra rechazada por el entorno, el sujeto la **autotipifica** y se aísla con ella en un dominio donde nadie pueda culpabilizarla. La consecuencia diagnóstica completa la categoría — *reina que no tiene reino, reina de sí misma y de nadie* — el dominio se vuelve solipsista porque la operación de integración con el otro queda permanentemente cancelada.\n\nLa pieza importa también porque articula el **mecanismo de identificación masiva** que vehicula el cuadro narrativamente:\n\n> \"Disney consigue que toda persona con una idea de infancia en la que fue el centro incomprendido de un conflicto se identifique mágicamente con Elsa,\"\n→ [Análisis arquetípico Frozen (1:14:27)](https://youtu.be/NYZEm8mcPiQ?t=4467)\n\nLa identificación opera sobre el reservorio cultural-clínico de personas con la herida narcisista activa pero no clínicamente diagnosticada. La obra no produce el cuadro — lo activa donde estaba latente y le ofrece un dispositivo de auto-reconocimiento que sustituye la elaboración terapéutica por la consagración narrativa. La conexión con el [[camino-victima]] es estructural: el camino-víctima es la matriz narrativa donde la herida narcisista cuaja como destino del personaje, y obras como Frozen son la modalidad cultural masiva de su transmisión.",
+      "wikilinks_introduced": [
+        "frozen-2013-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 6617,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 4467,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:14:27)](https://youtu.be/NYZEm8mcPiQ?t=4467)"
+        }
+      ],
+      "rationale": "Insert tras la sección 'Cabezonería como cuadro tipológico' (que cataloga modalidades clínicas) y antes de Lagunas. Material nuevo: el empoderamiento como modalidad terminal del cuadro (cancelar la operación de integración con el otro), la fórmula 'reina que no tiene reino, reina de sí misma y de nadie' como diagnóstico operativo, el mecanismo de identificación masiva que vehicula el cuadro vía obra cultural.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "adgrediere-masculino",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el masculino se actualiza en cada generación vía cromosoma Y heredado del padre individual. La consecuencia teórica es que el femenino opera como **continuidad biológica de fondo** y el masculino como **discontinuidad selectiva** — una arquitectura asimétrica donde la pulsión adgrediente del varón es comprensible solo contra ese fondo femenino que la antecede y la sobrevive.",
+      "section_target": "",
+      "content_proposed": "\n\n## La castración cultural del arquetipo masculino: el caso Frozen\n\nEl monográfico *Análisis arquetípico Frozen* (173 min) articula un caso operativo de la disolución cultural del adgrediere ya documentada: cuando el dispositivo narrativo no neutraliza la pulsión por exceso de comodidad ([[#El adgrediere como continuo vital cotidiano: jaulas de oro y deuda cognitiva|jaula de oro]]) ni por bloqueo del polo femenino ([[#Prescindibilidad masculina y rescate por lo femenino|absorción del femenino implícito]]), sino por **eliminación del arquetipo masculino mismo del repertorio narrativo**.\n\n> \"Lo masculino en Frozen tiene un papel completamente irrelevante y no representa masculinidad, adultez ni infancia: solo ser un pringado,\"\n→ [Análisis arquetípico Frozen (1:31:05)](https://youtu.be/NYZEm8mcPiQ?t=5465)\n\n> \"Solo hay dos tipos de hombres en la película: el egócrata maquiavélico que siempre engaña y el pazguato; no existe masculinidad real,\"\n→ [Análisis arquetípico Frozen (1:31:05)](https://youtu.be/NYZEm8mcPiQ?t=5465)\n\nLa pieza precisa la tipología cultural reductora: el dispositivo Disney contemporáneo ofrece dos modalidades del varón — el **egócrata maquiavélico** (Hans, que conspira y engaña) y el **pazguato** (Kristof, sin dones, cuyo único atributo es hablar con un reno). Ninguna porta el adgrediere; ninguna ofrece sustrato para la identificación heroica masculina. La canción de los trolls cifra explícitamente la ausencia de don:\n\n> \"El mensaje de la canción es que ella puede mejorarle con un poquito de amor y que a su lado él hace buena media,\"\n→ [Análisis arquetípico Frozen (2:04:25)](https://youtu.be/NYZEm8mcPiQ?t=7465)\n\n> \"No dice que la belleza está en el interior sino que este hombre no tiene nada y lo único bueno es que tú le quieras,\"\n→ [Análisis arquetípico Frozen (2:04:25)](https://youtu.be/NYZEm8mcPiQ?t=7465)\n\nLa consecuencia operativa para el cuadro adgrediere bloqueado: cuando la cultura no solo retira las causas épicas (vía consumismo) ni solo absorbe lo femenino implícito (vía demanda postmoderna de papeles explícitos para todas), sino que además **elimina el arquetipo masculino del imaginario disponible**, el bloqueo del adgrediere ya no admite ni siquiera el cauce sublimado vía identificación con el héroe ficcional. El varón joven que crece consumiendo este imaginario no encuentra modelo arquetípico al que asociar su propia pulsión — la única identificación cultural disponible es egócrata o pazguato.\n\nLa pieza enlaza también con la página [[woke-narrativa-postmoderna-moral|woke]] (cuarta característica diagnóstica: 'no hay héroes que se enfrentan al mal sino víctimas por defecto'): la castración del varón ficcional es la cara complementaria de la consagración de la víctima como protagonista universal — no son operaciones distintas, son las dos vertientes del mismo dispositivo narrativo.",
+      "wikilinks_introduced": [
+        "frozen-2013-film",
+        "woke-narrativa-postmoderna-moral"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 5465,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:31:05)](https://youtu.be/NYZEm8mcPiQ?t=5465)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 7465,
+          "cite_markdown": "[Análisis arquetípico Frozen (2:04:25)](https://youtu.be/NYZEm8mcPiQ?t=7465)"
+        }
+      ],
+      "rationale": "Insert al final del cuerpo (tras la última sección sobre asimetría biológica) y antes de Lagunas. Aporta dimensión nueva: la castración cultural del arquetipo masculino en el imaginario ficcional contemporáneo como modalidad de bloqueo del adgrediere (distinta de jaula de oro y de absorción del femenino implícito). Caso operativo cinematográfico que extiende el catálogo de mecanismos de bloqueo ya documentados.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes.",
+      "section_target": "",
+      "content_proposed": "\n\n### Frozen: la sustitución del polar por bucle sororal\n\nEl monográfico *Análisis arquetípico Frozen* articula una variante adicional del hieros gamos truncado: el dispositivo narrativo que **sustituye la conjunción polar por un bucle sororal entre iguales del mismo género**. La pieza opera como caso límite porque no es solo conjunción mal resuelta (como Drácula) ni asalto al matrimonio (como Eyes Wide Shut) — es la negación de la posibilidad misma del hieros gamos como horizonte deseable.\n\n> \"La grandeza del amor en el Hieros Gamos es la complementariedad de dos cosas que no se conocen y conociéndose llegan a ser uno,\"\n→ [Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)\n\n> \"La película dice que el amor verdadero está en tus iguales como mujer y que cuanto más diferente a ti sea alguien más te engañará,\"\n→ [Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)\n\n> \"El único amor verdadero en la película es el de las dos hermanas porque todos los demás varones no valen,\"\n→ [Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)\n\nLa estructura invierte la operación arquetípica del hieros gamos. Donde la conjunción polar es **encuentro entre dos cosas que no se conocen y conociéndose llegan a ser uno** (la diferencia como condición de la integración), el bucle sororal es **refugio entre dos cosas que ya se conocen porque comparten estructura previa** (la igualdad como condición del consuelo). El primer movimiento es transformador (cambio cosmogónico); el segundo es conservador (homeostasis identitaria).\n\nLa pieza completa el catálogo de inversiones: junto a la conjunción venenosa (Unicorn Wars), el asalto al matrimonio (Eyes Wide Shut) y la inversión satánica (Drácula), Frozen aporta la **negación pre-emptiva del hieros gamos** — el dispositivo narrativo que evita siquiera plantear el encuentro polar reemplazándolo por consuelo entre iguales. Es la modalidad postmoderna de la inversión: no se invierte el rito (como en Drácula), se cancela su posibilidad y se ofrece sustituto sororal como 'verdadero amor'.",
+      "wikilinks_introduced": [
+        "frozen-2013-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 8015,
+          "cite_markdown": "[Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)"
+        }
+      ],
+      "rationale": "Insert tras Eyes Wide Shut y antes de las secciones de Drácula. Frozen como caso adicional de truncamiento: no conjunción venenosa (Unicorn Wars) ni inversión satánica (Drácula) sino sustitución pre-emptiva por bucle sororal. Material genuinamente nuevo y complementario al catálogo de casos truncados ya documentado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta lectura convierte al viaje del héroe en una **prueba de autenticidad arquetípica**: si la identificación con el héroe no exige al espectador un coste interior análogo, la obra es ornamento, no vehículo de [[individuation|cambio alquímico]].",
+      "section_target": "",
+      "content_proposed": "\n\n## Inocencia vs ingenuidad: vara diagnóstica del aprendizaje heroico\n\nEl monográfico *Análisis arquetípico Frozen* añade una distinción operativa al diagnóstico de obras fallidas: la diferencia entre **inocencia** (estado inicial del héroe genuino) e **ingenuidad** (estado pseudo-heroico que sustituye al héroe por la víctima):\n\n> \"En la inocencia el héroe hace todo lo que puede y pide ayuda con lo que no comprende; el ingenuo cree que lo sabe todo,\"\n→ [Análisis arquetípico Frozen (1:17:29)](https://youtu.be/NYZEm8mcPiQ?t=4649)\n\nLa precisión es diagnóstica: el héroe inocente sabe que no sabe — opera con humildad activa que pide ayuda, recibe orientación, integra el aprendizaje. El ingenuo no sabe que no sabe — opera con seguridad pasiva que se cree completa, no pide ayuda, no aprende del escarmiento. La distinción permite distinguir el monomito genuino (donde la inocencia inicial es condición del aprendizaje) del [[camino-victima|camino de la víctima]] (donde la ingenuidad se preserva intacta y el escarmiento solo confirma la propia inocencia preexistente).\n\nLa pieza completa la lectura del monomito como vara crítica: una obra falla no solo cuando carece de motivación interna (Harry Potter) ni cuando se trunca activamente (Vader, [[heroe-truncado|héroe truncado]]) sino también cuando **sustituye la inocencia por ingenuidad** — cuando el protagonista no aprende porque la obra no le ofrece la posibilidad estructural de aprender, solo la posibilidad de ser confirmado en lo que ya era.\n\n> \"El héroe debería ser diferente al final que al principio pero aquí todo estaba bien como estaba: eran los demás los que no les dejaban ser,\"\n→ [Análisis arquetípico Frozen (2:15:05)](https://youtu.be/NYZEm8mcPiQ?t=8105)\n\nLa fórmula 'todo estaba bien como estaba: eran los demás los que no les dejaban ser' cifra exactamente el dispositivo: el problema no es el sujeto sino el mundo, y la salida no es la transformación interior sino la afirmación de la propia inocencia preexistente. El monomito queda vaciado por sustitución — donde el héroe debería emerger transformado, el ingenuo emerge confirmado.",
+      "wikilinks_introduced": [
+        "frozen-2013-film",
+        "heroe-truncado"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 4649,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:17:29)](https://youtu.be/NYZEm8mcPiQ?t=4649)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 8105,
+          "cite_markdown": "[Análisis arquetípico Frozen (2:15:05)](https://youtu.be/NYZEm8mcPiQ?t=8105)"
+        }
+      ],
+      "rationale": "Insert tras 'El viaje como diagnóstico de obras fallidas' y antes de 'Las dos fases masculinas del monomito'. Aporta vara diagnóstica adicional al catálogo: junto a 'forma sin motivación' (Harry Potter) y 'truncamiento activo' (Vader/Anakin), Frozen aporta 'sustitución de inocencia por ingenuidad' como tercer modo de fracaso del monomito.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mitologia-propia-impropia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esto arroja luz sobre por qué los autores que construyen mitos propios — como [[lovecraft-howard]] y [[tolkien-jrr]] — pueden producir piezas con tanta potencia simbólica: están reproduciendo, en escala literaria, la dinámica básica de la cognición humana al generar sentido a partir del vacío representacional. La conexión enlaza esta página con el [[genesis-mitologico|Génesis arquetípico]] como concepto-bisagra entre mitología y representación mental.",
+      "section_target": "",
+      "content_proposed": "\n\n## La función pedagógica de la fantasía como descripción del mundo interno\n\nEl monográfico *Análisis arquetípico Frozen* añade una articulación complementaria a la distinción propia/impropia: la **función operativa** de la fantasía como vehículo de auto-reconocimiento de estructuras psíquicas, distinta de la función descriptiva (mundo material) que el mito impropio confunde con la suya.\n\n> \"La fantasía no está pensada para describir el mundo material sino el mundo mental,\"\n→ [Análisis arquetípico Frozen (37:30)](https://youtu.be/NYZEm8mcPiQ?t=2250)\n\n> \"Cuando hablamos del mundo en psicoanálisis y análisis arquetípico no hablamos del mundo externo material sino del mundo interno,\"\n→ [Análisis arquetípico Frozen (35:29)](https://youtu.be/NYZEm8mcPiQ?t=2129)\n\nLa pieza precisa la operación que distingue funcionalmente al mito propio: no es solo que el autor sepa que está construyendo mito (definición ya documentada), es que **el mito propio describe deliberadamente el mundo interno** — ofrece al lector estructuras simbólicas para que reconozca sus propios procesos psíquicos. Indiana Jones entrando en una pirámide no transmite información sobre arqueología sino sobre el miedo del lector ante lo desconocido interior. El mito impropio invierte esta orientación: usa forma de fantasía para hablar del mundo externo (proyecciones de injusticia, conflictos sociales, crítica institucional) y produce identificación regresiva en lugar de reconocimiento simbólico.\n\n### Distinción fábula vs cuento de hadas\n\nLa articulación añade además una distinción operativa entre dos modalidades de la narración no-realista, ambas legítimas pero con función distinta:\n\n> \"Las fábulas sí son metáforas educativas con consejos prácticos sobre la vida,\"\n→ [Análisis arquetípico Frozen (38:36)](https://youtu.be/NYZEm8mcPiQ?t=2316)\n\n> \"Los cuentos de hadas no dan consejos con metáforas sino que son en sí mismos una metáfora que permite reconocer estructuras internas,\"\n→ [Análisis arquetípico Frozen (38:36)](https://youtu.be/NYZEm8mcPiQ?t=2316)\n\nLa fábula opera por **metáfora aplicada**: una situación ficticia ilustra una norma de conducta práctica (la moraleja). El cuento de hadas opera por **metáfora estructural**: la totalidad del relato cifra una estructura interior que el lector reconoce sin necesidad de extraer enseñanza explícita. La pieza importa para la categoría: una obra puede ser cuento de hadas sano (estructura interior reconocible) o cuento de hadas impropio (forma de cuento de hadas con contenido proyectivo del mundo externo). Frozen ejemplifica el segundo:\n\n> \"Frozen habla a la gente sobre lo que cree que le pasó en su infancia y ese sentimiento de injusticia, pero no tiene correspondencia con el mundo interior,\"\n→ [Análisis arquetípico Frozen (1:24:03)](https://youtu.be/NYZEm8mcPiQ?t=5043)\n\n> \"Tus padres en tu interior serían tu superyó y tú no te reprimes a ti mismo sino que te pones medidas; los padres como represores es un constructo externo,\"\n→ [Análisis arquetípico Frozen (1:24:03)](https://youtu.be/NYZEm8mcPiQ?t=5043)\n\nLa pieza diagnóstica es operativa: el mito impropio cinematográfico no se reconoce como mito (cumple la definición clásica) **y además** invierte la dirección de la metáfora — ya no describe el mundo interno sino que proyecta el conflicto sentido como externo en forma de cuento de hadas. La doble torsión es lo que permite a obras como Frozen activar la [[herida-narcisista-en-proxy|herida narcisista]] del espectador: la forma de cuento de hadas autoriza la identificación arquetípica, pero el contenido vehicula proyecciones del mundo externo que normalizan la posición de víctima.",
+      "wikilinks_introduced": [
+        "frozen-2013-film",
+        "herida-narcisista-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 2250,
+          "cite_markdown": "[Análisis arquetípico Frozen (37:30)](https://youtu.be/NYZEm8mcPiQ?t=2250)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 2129,
+          "cite_markdown": "[Análisis arquetípico Frozen (35:29)](https://youtu.be/NYZEm8mcPiQ?t=2129)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 2316,
+          "cite_markdown": "[Análisis arquetípico Frozen (38:36)](https://youtu.be/NYZEm8mcPiQ?t=2316)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 5043,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:24:03)](https://youtu.be/NYZEm8mcPiQ?t=5043)"
+        }
+      ],
+      "rationale": "Insert tras 'La autorreferencialidad de los mitos propios' (que articula la dimensión cognitiva) y antes de Lagunas. Aporta dimensión funcional/pedagógica complementaria: la fantasía como descripción del mundo interno (mito propio) vs proyección del mundo externo en forma de cuento de hadas (mito impropio cinematográfico). Distinción fábula/cuento de hadas como pieza operativa adicional.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-wendy",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Frozen** — chunks: [2:13:35](https://youtu.be/NYZEm8mcPiQ?t=8015)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 8015,
+          "cite_markdown": "[Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)"
+        }
+      ],
+      "rationale": "Cita-only — el bucle sororal de Frozen como variante femenina de la fantasía Wendy (refugio en lo conocido frente a la maduración del encuentro con lo distinto). El desarrollo va a frozen-2013-film y a hieros-gamos.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [1:11:25](https://youtu.be/NYZEm8mcPiQ?t=4285) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 1998,
+          "cite_markdown": "[Análisis arquetípico Frozen (33:18)](https://youtu.be/NYZEm8mcPiQ?t=1998)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 4285,
+          "cite_markdown": "[Análisis arquetípico Frozen (1:11:25)](https://youtu.be/NYZEm8mcPiQ?t=4285)"
+        },
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 8407,
+          "cite_markdown": "[Análisis arquetípico Frozen (2:20:07)](https://youtu.be/NYZEm8mcPiQ?t=8407)"
+        }
+      ],
+      "rationale": "Cita-only — la página ya posiciona Frozen como caso límite ('progre con elementos arquetípicos invertidos, no woke'). El monográfico desarrolla el análisis sin contradecir esta categorización: Frozen sigue siendo progre con inversión arquetípica (no woke en sentido de vaciamiento total). Solo se añaden timestamps para retrieval indirecto.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "autotipo",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Frozen** — chunks: [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "NYZEm8mcPiQ",
+          "timestamp_seconds": 8407,
+          "cite_markdown": "[Análisis arquetípico Frozen (2:20:07)](https://youtu.be/NYZEm8mcPiQ?t=8407)"
+        }
+      ],
+      "rationale": "Cita-only — el diagnóstico 'Disney está acostumbrando a la población a ver películas sin contenido: solo forma' es manifestación cultural del autotipo (prototipo vaciado de sentido moral) ya documentado. Solo timestamp para retrieval.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Elsa, Ana, Kristof, Hans, Olaf",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Personajes del filme analizados como aspectos del yo o como tipologías reductoras del varón. Integrados en frozen-2013-film. No requieren páginas propias — son figuras del filme leídas dentro del marco arquetípico.",
+      "quote_evidence": "Por primera vez en Disney el protagonista es doble y hay que considerarlo como una unidad: dos elementos girando uno sobre otro representando una lucha interna,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "frozen-2013-film"
+    },
+    {
+      "surface_form": "Disney (institución)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado críticamente como productor cultural de obras vaciadas/invertidas. Sin análisis sustantivo de Disney como institución corporativa o histórica — solo como vehículo del dispositivo narrativo postmoderno. Posible futura síntesis sobre el rol cultural de Disney si reaparece sustantivamente.",
+      "quote_evidence": "Disney está acostumbrando a la población a ver películas sin contenido: solo forma,",
+      "review_priority": "medium",
+      "review_priority_reason": "Disney como caso institucional del vaciamiento arquetípico postmoderno podría merecer página propia (entity_work tipo institución) si el canal mantiene un análisis sostenido del estudio. Por ahora capturado vía obras concretas (Frozen, Tarzán)."
+    },
+    {
+      "surface_form": "La reina del hielo (Andersen)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cuento de Andersen mencionado como fuente original de Frozen, pero el speaker explicita que 'la estructura es similar pero el mensaje no se parece en nada al de Disney'. Sin análisis del cuento — solo referencia comparativa.",
+      "quote_evidence": "La película proviene del cuento de Andersen \"La reina del hielo\" cuya estructura es similar pero cuyo mensaje no se parece en nada al de Disney,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Pedagogía de la magia infantil (Reyes Magos como pajes)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El speaker articula una pedagogía precisa para explicar la verdad sobre los Reyes Magos sin destruir la vivencia mágica (narrar que los pajes decidieron continuar el ritual; los padres como pajes). Articulación sustantiva pero embedida en la introducción del análisis de Frozen — encaja mejor en frozen-2013-film como sección sobre la función de la magia infantil que como concepto autónomo.",
+      "quote_evidence": "La forma correcta es narrar que los Reyes Magos existieron hace miles de años y que los pajes decidieron que todas las familias siguieran llevando presentes para honrar aquel milagro,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pedagogía articulada con precisión operativa. Si reaparece en otros vídeos como marco propio sobre crianza/educación infantil, candidato a concepto o synthesis sobre la teoría del canal sobre desarrollo infantil."
+    },
+    {
+      "surface_form": "Inocencia vs ingenuidad",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Distinción operativa articulada en el análisis de Frozen como vara diagnóstica del aprendizaje heroico. Capturada en el insert a viaje-heroe. Concepto sub-articulado dentro del marco viaje del héroe, no autónomo.",
+      "quote_evidence": "En la inocencia el héroe hace todo lo que puede y pide ayuda con lo que no comprende; el ingenuo cree que lo sabe todo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe"
+    },
+    {
+      "surface_form": "Función de los mitos y la fantasía (descripción del mundo interno)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación foundational del canal sobre qué hace la fantasía y los mitos (vehiculan auto-reconocimiento de estructuras internas). Capturada en el insert a mitologia-propia-impropia como complemento funcional a la distinción propia/impropia.",
+      "quote_evidence": "La fantasía no está pensada para describir el mundo material sino el mundo mental,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación foundational sostenida del canal. Posible promote futuro como synthesis sobre 'teoría de la fantasía y los cuentos de hadas en Proxy' si reaparece transversalmente. Por ahora distribuida entre mitologia-propia-impropia y frozen-2013-film."
+    },
+    {
+      "surface_form": "Protagonista doble (innovación narrativa de Disney en Frozen)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Lectura específica de Disney: 'por primera vez en Disney el protagonista es doble' como articulación de dos partes del yo en conflicto. Integrada en frozen-2013-film. Lectura aplicada a la película, no concepto autónomo.",
+      "quote_evidence": "Por primera vez en Disney el protagonista es doble y hay que considerarlo como una unidad: dos elementos girando uno sobre otro representando una lucha interna,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "frozen-2013-film"
+    },
+    {
+      "surface_form": "Trolls (figuras del filme)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figuras secundarias de Frozen analizadas en función de la canción 'aprenderás a amarle porque no tiene nada' como vehículo del mensaje sobre la castración del varón. Captura en frozen-2013-film y en adgrediere-masculino update.",
+      "quote_evidence": "Los trolls cantan que Ana debería estar con Kristof en lugar del príncipe: solo tiene que mejorar un poco,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "frozen-2013-film"
+    },
+    {
+      "surface_form": "Padres de Elsa y Ana (figura paterna invertida)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La inversión del arquetipo paterno (de iniciador a represor) está integrada en el insert a camino-victima como mecanismo cultural específico de la modalidad Disney. No requiere página separada.",
+      "quote_evidence": "Disney destruye la estructura de los padres convirtiéndolos en ignorantes, asustados, censores e inútiles para la crianza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "camino-victima"
+    },
+    {
+      "surface_form": "Mago-duende como represor (cero sabiduría)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura del mago invertida en Frozen: en lugar de extraer sabiduría recomienda eliminar magia y recuerdos. Capturada en frozen-2013-film. Posible enriquecimiento futuro de una página sobre el arquetipo del sabio si se articula transversalmente.",
+      "quote_evidence": "El mago-duende en lugar de extraer algo sabio recomienda eliminar toda la magia y los recuerdos de Ana,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Adoctrinamiento posmoderno disfrazado de feminismo gubernamental",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Caracterización política-cultural articulada al inicio del análisis. Captura en frozen-2013-film. La posición del canal frente al feminismo postmoderno está distribuida transversalmente en woke-narrativa-postmoderna-moral, sesgo-gamma y otras páginas — no requiere nueva página.",
+      "quote_evidence": "La película es puro adoctrinamiento posmoderno disfrazado de feminismo gubernamental,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "frozen-2013-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 1,
+    "promoted_updates": 10,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T13:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Frozen (2013)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

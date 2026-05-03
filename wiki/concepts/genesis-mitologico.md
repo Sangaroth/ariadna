@@ -151,9 +151,28 @@ La correspondencia con las sefirot cabalísticas indica que el canal lee el Gén
 - Frente al [[mito-polar]] (estructura masculino/femenino como dipolo cosmogónico transformador), el Génesis describe el momento previo: la emanación desde la unidad antes de que se establezcan los polos.
 - Como mito que sabe lo que hace, el Génesis se inscribe del lado de la [[mitologia-propia-impropia|mitología propia]]: autorreferencial respecto a las representaciones mentales que lo elaboran.
 
+
+
+## Génesis disfuncional: los tres pecados originales en Unicorn Wars
+
+El análisis arquetípico de [[unicorn-wars-2022-film|Unicorn Wars]] articula los tres pecados originales del Génesis bíblico como armazón estructural de la película — un caso de **Génesis cuya catarsis se cumple en sentido destructivo**:
+
+> "Primer pecado: la mujer traiciona a Dios en el bosque con la serpiente (la madre engaña al padre),"
+→ [Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)
+
+> "Segundo pecado: el hombre echa la culpa a la mujer (azulín culpa a la madre de su dolor),"
+→ [Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)
+
+> "Tercer pecado: Caín y Abel (azulín mata a gordi con una piedra),"
+→ [Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)
+
+La triada opera como armazón completo: traición original → desplazamiento de culpa → fratricidio. Unicorn Wars la actualiza obra-por-obra, mostrando que el Génesis puede operar como categoría tanto de la conjunción exitosa (Tolkien) como de la disolución (la mala conjunción polar de Unicorn Wars que engendra al hombre como abominación). Es el caso complementario al Génesis tolkieniano: donde la Música de los Ainur articula la emanación armónica desde el Uno, los tres pecados articulan el Génesis del hombre como mala integración.
+
+
 ## Lagunas
 
 - **Génesis no occidentales**: el corpus desarrolla casos bíblico, tolkieniano y referencias célticas/cabalísticas; ausentes tratamientos sustantivos de cosmogonías mesopotámicas (Enuma Elish), védicas (Rigveda X.129), egipcias (Heliópolis/Hermópolis) o mesoamericanas (Popol Vuh).
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Génesis fallidos o invertidos -->
 - **Génesis fallidos o invertidos**: el canal aborda el Génesis en su forma plena (catarsis cumplida); no tematiza qué sería un Génesis disfuncional — un relato de origen que no produce catarsis psicológica o que la produce en sentido destructivo.
 - **Articulación con el horror cósmico**: queda abierta la relación entre Génesis (origen significativo) y la cosmogonía lovecraftiana (origen indiferente/hostil) como inversión estructural posible.
 - **Base evolutiva o cognitiva empírica**: el canal afirma el isomorfismo Génesis ↔ síntesis mental como tesis operativa; no desarrolla qué evidencia psicológica o neurocognitiva la sostendría más allá del argumento estructural.
@@ -171,4 +190,3 @@ La correspondencia con las sefirot cabalísticas indica que el canal lee el Gén
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:38:11](https://youtu.be/_0BM2jMsWdc?t=5891)
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [26:09](https://youtu.be/Dtp1_RLb7S0?t=1569)
-

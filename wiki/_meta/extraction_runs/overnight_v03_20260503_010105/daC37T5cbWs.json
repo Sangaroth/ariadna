@@ -1,0 +1,589 @@
+{
+  "video_id": "daC37T5cbWs",
+  "video_title": "Análisis arquetípico: Excalibur",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Excalibur (1981) — análisis monográfico completo",
+      "canonical_guess": "excalibur-1981-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 102,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Unifica el mito de la diosa blanca celta con la tesis de la rama dorada y la metaelaboración cristiana del monomito,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El mito junta la cuestión medieval, arcana, cristiana, la rama dorada y la diosa blanca en un último gran mito recopilatorio,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Vídeo monográfico de 102 min completamente nuevo que cubre el plot-by-plot íntegro: las tres lecciones de Merlín, Madame Mim, mesa redonda, Lancelot-Ginebra, Morgana y su hijo incestuoso, búsqueda del Grial, secreto del Grial (rey y tierra son uno), reconciliación, sacrificio final, polaridades del tarot. La página existente sourceaba solo del directo paralelo Excalibur+LOTR (K082yiudh-g) y declaraba como lagunas explícitas: (a) 'faltan tramos del filme: Grial, Percival, caída de Camelot' y (b) 'la figura de Morgana queda subordinada'. Ambas lagunas se refutan ampliamente.",
+      "quote_evidence": "El mito junta la cuestión medieval, arcana, cristiana, la rama dorada y la diosa blanca en un último gran mito recopilatorio,"
+    },
+    {
+      "surface_form": "secreto del Grial (tú y la tierra sois uno)",
+      "canonical_guess": "grial-arquetipo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El secreto del Grial es la integración: el rey y la tierra son lo mismo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La salvación solo llega mediante la entrega absoluta y el abandono del yo, exactamente como la entrega de Cristo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página actual articula el Grial como sacrificio voluntario del rey, pero NO cifra el secreto explícitamente como 'rey y tierra son uno' — la fórmula precisa que el speaker articula como núcleo de la búsqueda. Material genuinamente nuevo: la tesis de la integración rey-tierra como mecánica del Grial, complementaria al sacrificio.",
+      "quote_evidence": "El secreto del Grial es la integración: el rey y la tierra son lo mismo,"
+    },
+    {
+      "surface_form": "cuatro elementos arquetípicos / cuatro palos del tarot",
+      "canonical_guess": "cuatro-elementos-arquetipicos",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Dos grandes ejes: el dragón (fuego y tierra) y la dama del lago (intelecto y espíritu),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Excalibur es un don del espíritu que es el intelecto; el cáliz representa el espíritu fluido que se desborda,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Merlín porta espadas y bastos (intelecto y fuego); Morgana es la contraparte maligna con espíritu vinculado a la tierra,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página declara como laguna que 'el esquema solo aparece documentado en el directo de Excalibur/LOTR; queda por verificar si el canal mantiene esta cuaternidad como marco transversal en otros vídeos'. Este vídeo es un SEGUNDO directo (monográfico distinto sobre Excalibur) que reafirma la cuaternidad — resuelve la laguna parcialmente. Material nuevo: mapeo de personajes a palos del tarot (Arturo=espadas/intelecto, Lancelot=copas/espíritu, dragón=bastos/fuego, dama del lago=oros... no, la corresp es: Excalibur=espadas, cáliz=copas; Morgana=tierra/oros; Merlín=espadas+bastos).",
+      "quote_evidence": "Sacar la espada de la piedra significa separar los dos ejes del dragón y la dama del lago,"
+    },
+    {
+      "surface_form": "dragón arquetípico (Excalibur: dragón como tierra y fuego)",
+      "canonical_guess": "dragon-arquetipo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Merlín le enseña que el dragón es la fuerza de la naturaleza que está en todas las cosas: tierra y fuego,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — la página ya tiene tratamiento exhaustivo del dragón (avatar del caos, sempiterno no eterno, como concupiscencia bajo la tierra). El apunte 'dragón = fuerza de la naturaleza tierra y fuego que está en todas las cosas' es coherente con lo ya documentado, no aporta dimensión nueva.",
+      "quote_evidence": "Merlín le enseña que el dragón es la fuerza de la naturaleza que está en todas las cosas: tierra y fuego,"
+    },
+    {
+      "surface_form": "tarot arquetípico (Arturo como Loco; mapeo de personajes)",
+      "canonical_guess": "tarot-arquetipico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El valiente ingenuo es el Loco del tarot, feliz yendo hacia delante sin ver el abismo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El tarot es el monomito con simbología arcana precristiana o contemporánea al cristianismo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página recibió update reciente con Man of Steel como recorrido completo de los 22 Arcanos. Excalibur añade caso paralelo: Arturo como Loco al inicio + mapeo de polaridades de los cuatro palos a los personajes del mito artúrico. Cita-only — la lectura específica de cada arcano se desarrolla en excalibur-1981-film page.",
+      "quote_evidence": "El valiente ingenuo es el Loco del tarot, feliz yendo hacia delante sin ver el abismo,"
+    },
+    {
+      "surface_form": "ciclo del héroe (cada sacrificio hace más fácil el siguiente)",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El rey y la tierra son uno: la próxima vez será más fácil, el próximo sacrificio más eficaz,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Nos encadenaremos héroe tras héroe hasta la renovación de la nueva humanidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — el speaker articula brevemente la tesis del 'ciclo histórico de héroes encadenados' como cierre del análisis de Excalibur. Apunte interesante pero embedido en la lectura de la película; va al excalibur-1981-film. Solo cita aquí para retrieval indirecto.",
+      "quote_evidence": "Nos encadenaremos héroe tras héroe hasta la renovación de la nueva humanidad,"
+    },
+    {
+      "surface_form": "mito polar (rey y tierra son uno)",
+      "canonical_guess": "mito-polar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El secreto del Grial es la integración: el rey y la tierra son lo mismo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — la integración rey-tierra opera como caso del polar católico ya documentado en mito-polar.md (sección 'mito católico como sustitución de lo lunar'). No aporta dimensión teórica nueva; refuerza el caso Excalibur ya enumerado en aplicaciones canónicas.",
+      "quote_evidence": "El secreto del Grial es la integración: el rey y la tierra son lo mismo,"
+    },
+    {
+      "surface_form": "mito solar (sacrificio bajo el sol rojo de atardecer)",
+      "canonical_guess": "mito-solar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Arturo mata a Mordred bajo un sol rojo de atardecer clavándole Excalibur, pero a costa de su propio sacrificio,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — el sacrificio solar de Arturo bajo sol rojo de atardecer ejemplifica el ciclo solar masculino articulado en la nueva mito-solar (cenit / declive / muerte / renacimiento). No aporta marco teórico nuevo; añade caso operativo.",
+      "quote_evidence": "Arturo mata a Mordred bajo un sol rojo de atardecer clavándole Excalibur, pero a costa de su propio sacrificio,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo.",
+  "pending_updates": [
+    {
+      "page_id": "excalibur-1981-film",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Refutada por el directo monográfico 'Análisis arquetípico: Excalibur' (102 min) que cubre íntegramente Grial, Percival, caída de Camelot, Morgana y su hijo incestuoso, sacrificio final de Arturo. Material incorporado al cuerpo en sección nueva sobre la segunda mitad del filme.",
+      "supersedes_laguna_text": "faltan tramos del filme (Grial, Percival, caída de Camelot) cuyo tratamiento detallado no figura en el fragmento recuperado",
+      "wikilinks_introduced": [
+        "grial-arquetipo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 4457,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:14:17)](https://youtu.be/daC37T5cbWs?t=4457)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5095,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5428,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:30:28)](https://youtu.be/daC37T5cbWs?t=5428)"
+        }
+      ],
+      "rationale": "El directo monográfico nuevo cubre exactamente los tramos faltantes declarados en la laguna. La laguna se enmarca explícitamente como 'fragmento recuperado' insuficiente — el nuevo vídeo aporta el resto del filme.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "excalibur-1981-film",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Refutada por la articulación de Morgana como anticristo del mito artúrico: venganza cristalizada en el hijo incestuoso engendrado con Arturo, robo del conjuro de la creación a Merlín, batalla mágica final en el mundo de los sueños. Material incorporado al cuerpo.",
+      "supersedes_laguna_text": "La figura de Morgana / lo femenino oscuro de la película queda subordinada a la dualidad Merlín-Arturo en la lectura recuperada",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 4032,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:07:12)](https://youtu.be/daC37T5cbWs?t=4032)"
+        }
+      ],
+      "rationale": "El nuevo monográfico desarrolla a Morgana como antagonista central — anticristo, robo del conjuro de la creación, hijo Mordred como cristalización del resentimiento, batalla mágica final contra Merlín. La laguna queda refutada.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "excalibur-1981-film",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La guerra primordial entre elfos y hombres, en la lectura del canal, recapitula las primeras guerras entre conceptos de civilización ordenados y caóticos.",
+      "section_target": "",
+      "content_proposed": "\n\n## El monográfico sobre Excalibur: lectura plot-by-plot del filme\n\nUn segundo directo del canal — *Análisis arquetípico: Excalibur* — recorre el filme escena por escena, articulando el resto de la estructura simbólica que el directo paralelo (Excalibur+LOTR) había dejado fuera. La lectura confirma el armazón católico-arturiano y añade los tramos pendientes.\n\n### Las tres lecciones de Merlín a Arturo\n\nMerlín no instruye a Arturo con doctrinas sino con metamorfosis pedagógicas — tres transformaciones que cifran las tres operaciones cognitivas del rey por venir:\n\n> \"Primera lección (el pez): el mundo es dicotómico, existe entre lo ideal y lo profundo, siempre una mezcla de ambos,\"\n→ [Análisis arquetípico: Excalibur (27:20)](https://youtu.be/daC37T5cbWs?t=1640)\n\n> \"Segunda lección (la ardilla): las fuerzas naturales del amor y la atracción son más poderosas que la filosofía y solo se pueden aceptar e integrar,\"\n→ [Análisis arquetípico: Excalibur (27:20)](https://youtu.be/daC37T5cbWs?t=1640)\n\n> \"Tercera lección (el vuelo): la libertad, el arte y el movimiento, dejar que las ideas fluyan,\"\n→ [Análisis arquetípico: Excalibur (27:20)](https://youtu.be/daC37T5cbWs?t=1640)\n\nLa triada forma una propedéutica: dicotomía como condición del mundo (pez), aceptación de las fuerzas naturales que la filosofía no domina (ardilla), libertad expresiva que deja fluir las ideas (vuelo). El rey por venir necesita las tres operaciones antes de portar Excalibur.\n\n### Arturo como Loco del tarot al inicio del recorrido\n\n> \"El valiente ingenuo es el Loco del tarot, feliz yendo hacia delante sin ver el abismo,\"\n→ [Análisis arquetípico: Excalibur (30:24)](https://youtu.be/daC37T5cbWs?t=1824)\n\nArturo abre la secuencia del tarot artúrico desde el Loco — la posición arquetípica del que va al mundo sin conocer su pasado, su origen ni su futuro. La buena materia prima (haber nacido de dos partes con mucha fuerza, vía pacto de Merlín) lo cualifica para el recorrido completo de los 22 Arcanos. Ver [[tarot-arquetipico]] para el desarrollo del recorrido.\n\n### Madame Mim: la contraparte oscura femenina\n\n> \"Madame Mim es la contraparte oscura de Merlín: el mal absoluto que solo quiere ver arder el mundo,\"\n→ [Análisis arquetípico: Excalibur (45:02)](https://youtu.be/daC37T5cbWs?t=2702)\n\nLa figura — tomada de *Merlín el Encantador* (versión Disney basada en la misma novelización del mito) — opera como prefiguración pedagógica del peligro femenino oscuro: Arturo es expuesto al poder de seducción que ya hizo fracasar a su padre Uther, y solo sobrevive porque Merlín lo defiende en duelo de magia. La pieza inscribe en el aprendizaje de Arturo lo que más tarde reaparece como Morgana — el mismo arquetipo en versión histórica, no infantil.\n\n### La mesa redonda: yo unificado y caída por lujuria repetida\n\n> \"La tabla redonda sobre ella una habitación, un castillo y un reino: el yo completamente unificado,\"\n→ [Análisis arquetípico: Excalibur (58:07)](https://youtu.be/daC37T5cbWs?t=3487)\n\nLa mesa redonda cifra la integración completa: tabla como yo, habitación como conciencia, castillo como dominio, reino como territorio. Pero la integración no es estable — Lancelot y Ginebra se enamoran, repitiendo la lujuria que destruyó a Uther:\n\n> \"Lancelot y Ginebra se enamoran, repitiendo el pecado de lujuria que destruyó a Uther: el yo vuelve a ceder ante la pasión,\"\n→ [Análisis arquetípico: Excalibur (58:07)](https://youtu.be/daC37T5cbWs?t=3487)\n\nArturo clava Excalibur entre los amantes — abandona la virtud por ira, **enterrando el intelecto de nuevo en el dragón** (gesto inverso al gesto inaugural que sacó la espada de la tierra).\n\n### Morgana como anticristo: la venganza cristalizada\n\n> \"Morgana encierra a Merlín debilitado y roba el conjuro de la creación para engendrar un hijo incestuoso con Arturo,\"\n→ [Análisis arquetípico: Excalibur (1:07:12)](https://youtu.be/daC37T5cbWs?t=4032)\n\n> \"Ese engendro simboliza la cristalización de la ira y el resentimiento de Morgana contra su padre asesinado,\"\n→ [Análisis arquetípico: Excalibur (1:07:12)](https://youtu.be/daC37T5cbWs?t=4032)\n\nMordred — fruto del incesto trampa-engendrado por Morgana — cristaliza el resentimiento femenino contra el padre asesinado. La figura del hijo no es solo personaje: es la encarnación material del rencor convertido en agente. El reino se pudre desde dentro: deja de crecer comida, el interior se corrompe por el abandono de la virtud.\n\n### El Grial y su secreto: rey y tierra son uno\n\nLa búsqueda del Grial estructura la restauración del reino podrido. El secreto del Grial — articulado por Percival ante Arturo — cifra la mecánica de salvación:\n\n> \"El secreto del Grial es la integración: el rey y la tierra son lo mismo,\"\n→ [Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)\n\n> \"La salvación solo llega mediante la entrega absoluta y el abandono del yo, exactamente como la entrega de Cristo,\"\n→ [Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)\n\nVer [[grial-arquetipo]] para el desarrollo de esta tesis dentro del marco general del Grial como cifra del sacrificio trascendente.\n\n### Reconciliación, batalla mágica final y sacrificio del rey\n\nArturo pide perdón a Ginebra reconociendo que estuvo obsesionado con su propio dolor — el deber del héroe es renunciar a sí mismo. Su despertar reactiva a Merlín, quien engaña a Morgana para que genere niebla que dará ventaja a Arturo en la batalla contra Mordred. Morgana pierde sus poderes y su hijo la asesina al verla vieja — el mal se devora a sí mismo:\n\n> \"Morgana pierde sus poderes y su hijo la asesina al verla vieja: el mal se devora a sí mismo,\"\n→ [Análisis arquetípico: Excalibur (1:27:56)](https://youtu.be/daC37T5cbWs?t=5276)\n\nEl sacrificio final cierra el ciclo:\n\n> \"Arturo mata a Mordred bajo un sol rojo de atardecer clavándole Excalibur, pero a costa de su propio sacrificio,\"\n→ [Análisis arquetípico: Excalibur (1:30:28)](https://youtu.be/daC37T5cbWs?t=5428)\n\n> \"La dama del lago recoge la espada para guardarla hasta que surja un nuevo héroe digno de ese intelecto,\"\n→ [Análisis arquetípico: Excalibur (1:30:28)](https://youtu.be/daC37T5cbWs?t=5428)\n\nEl sol rojo de atardecer (cenit que declina) y la devolución de Excalibur a la dama del lago cierran la analogía con el [[mito-solar]]: el rey muere cumpliendo su misión y la espada vuelve al depósito hasta el próximo héroe digno.\n\n### Polaridades del tarot: dragón vs dama del lago\n\nEl directo cierra mapeando los personajes del mito artúrico sobre las polaridades de los cuatro palos del tarot:\n\n> \"Dos grandes ejes: el dragón (fuego y tierra) y la dama del lago (intelecto y espíritu),\"\n→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)\n\n> \"Excalibur es un don del espíritu que es el intelecto; el cáliz representa el espíritu fluido que se desborda,\"\n→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)\n\n> \"Merlín porta espadas y bastos (intelecto y fuego); Morgana es la contraparte maligna con espíritu vinculado a la tierra,\"\n→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)\n\nEl mapeo completo: Arturo (espadas/intelecto) complementado por Lancelot (copas/espíritu) y Ginebra (espadas/intelecto femenino); Merlín (espadas+bastos) y Morgana (oros/tierra+espíritu pervertido) como los polos arcano y maligno. Ver [[cuatro-elementos-arquetipicos]] para el marco general de la cuaternidad elemental aplicada al yo.\n\n### El ciclo del héroe: cada sacrificio hace más fácil el siguiente\n\nEl directo cierra con una tesis de cierre articulada por el speaker:\n\n> \"El rey y la tierra son uno: la próxima vez será más fácil, el próximo sacrificio más eficaz,\"\n→ [Análisis arquetípico: Excalibur (1:31:59)](https://youtu.be/daC37T5cbWs?t=5519)\n\n> \"Nos encadenaremos héroe tras héroe hasta la renovación de la nueva humanidad,\"\n→ [Análisis arquetípico: Excalibur (1:31:59)](https://youtu.be/daC37T5cbWs?t=5519)\n\nEl sacrificio del rey no es evento aislado sino pieza de una cadena — cada héroe que se entrega cumpliendo su misión hace más eficaz el sacrificio del siguiente, hasta la renovación final de la humanidad. La tesis enmarca *Excalibur* dentro de una historia heroica acumulativa, no episódica.",
+      "wikilinks_introduced": [
+        "grial-arquetipo",
+        "tarot-arquetipico",
+        "cuatro-elementos-arquetipicos",
+        "mito-solar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 1640,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (27:20)](https://youtu.be/daC37T5cbWs?t=1640)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 1824,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (30:24)](https://youtu.be/daC37T5cbWs?t=1824)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 2702,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (45:02)](https://youtu.be/daC37T5cbWs?t=2702)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 3487,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (58:07)](https://youtu.be/daC37T5cbWs?t=3487)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 4032,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:07:12)](https://youtu.be/daC37T5cbWs?t=4032)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5095,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5276,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:27:56)](https://youtu.be/daC37T5cbWs?t=5276)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5428,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:30:28)](https://youtu.be/daC37T5cbWs?t=5428)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5519,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:31:59)](https://youtu.be/daC37T5cbWs?t=5519)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5580,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)"
+        }
+      ],
+      "rationale": "Insert tras 'La tierra sin rey' y antes de Lagunas. Aporta la segunda mitad del filme que las lagunas declaraban faltante: tres lecciones de Merlín, Madame Mim, mesa redonda, caída por lujuria, Morgana como anticristo, búsqueda del Grial, sacrificio final, polaridades del tarot, ciclo del héroe. Material genuinamente nuevo — todas las citas son del directo monográfico, ninguna duplica el material existente del directo paralelo Excalibur+LOTR.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "grial-arquetipo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta lectura ubica al Grial como núcleo del [[mito-polar]] cristiano del canal: la entrega del rey reabre el ciclo de la tierra, restaura la flor sobre la podredumbre, y prolonga la liturgia (ver [[liturgia-como-rito]]) más allá de la muerte concreta del héroe.",
+      "section_target": "",
+      "content_proposed": "\n\n## El secreto del Grial: rey y tierra son uno\n\nEl directo monográfico *Análisis arquetípico: Excalibur* articula la fórmula precisa del secreto del Grial — la tesis que cifra el mecanismo entero:\n\n> \"El secreto del Grial es la integración: el rey y la tierra son lo mismo,\"\n→ [Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)\n\n> \"Arturo sufre por su propio pecado y dolor olvidando que su deber es la entrega, no la obsesión con su ego,\"\n→ [Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)\n\n> \"La salvación solo llega mediante la entrega absoluta y el abandono del yo, exactamente como la entrega de Cristo,\"\n→ [Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)\n\nLa pieza añade la **operación cognitiva precisa** que el sacrificio activa: la integración rey ↔ tierra. Mientras el rey vive enfrentado a su tierra (obsesionado con su propio pecado, su propio dolor, su propio ego), el reino se pudre. La integración solo se reconoce cuando el rey comprende que su yo y la tierra son la misma cosa — y entonces el sacrificio se vuelve operativo: entregarse no es perderse, es reconciliarse con lo que ya se era.\n\nLa fórmula complementa la tesis ya documentada del Grial como sacrificio trascendente: el sacrificio sin la integración previa es masoquismo; la integración sin el sacrificio es contemplación impotente. El secreto del Grial cifra el momento en que ambas se anudan en una sola operación.\n\nEl pecado precedente que la integración resuelve es el del rey que se cree separado de su reino — la **obsesión con el yo individual**. Por eso el corolario operativo es el perdón: Arturo pide perdón a Ginebra reconociendo que no había sabido ver su humanidad por estar obsesionado con lo que ella le hizo. El [[mito-polar|mito polar]] cristiano se cierra cuando el héroe deja de defender su yo y comprende que el reino no es propiedad sino extensión.",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5095,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5215,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:26:55)](https://youtu.be/daC37T5cbWs?t=5215)"
+        }
+      ],
+      "rationale": "Insert tras la sección 'Frodo y Arturo: dos figuraciones del Grial' (que ya enmarca el Grial dentro del mito polar) y antes de Lagunas. La página articula el Grial como sacrificio del rey pero NO formaliza el secreto explícito como 'rey y tierra son lo mismo' — fórmula precisa que el directo monográfico aporta. Material genuinamente nuevo y complementario al sacrificio.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "cuatro-elementos-arquetipicos",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Refutada parcialmente por un segundo directo (Análisis arquetípico: Excalibur) que reafirma la cuaternidad elemental con mapeo de personajes a los cuatro palos del tarot (espadas/intelecto, copas/espíritu, bastos/fuego, oros/tierra). El marco no es articulación local de un solo directo — aparece como herramienta operativa transversal del análisis arquetípico del canal.",
+      "supersedes_laguna_text": "El esquema solo aparece documentado en el directo de Excalibur/LOTR; queda por verificar si el canal mantiene esta cuaternidad como marco transversal en otros vídeos o si es articulación local de ese contexto católico-tolkieniano.",
+      "wikilinks_introduced": [
+        "tarot-arquetipico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5580,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)"
+        }
+      ],
+      "rationale": "La laguna pregunta si la cuaternidad aparece en otros vídeos. El directo monográfico Excalibur (vídeo distinto) la reafirma con mapeo explícito a los cuatro palos del tarot. Resuelve el componente 'solo en un directo' de la laguna.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "cuatro-elementos-arquetipicos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El directo lo presenta como mapa del yo dentro de la lectura católica de la obra de Tolkien y del ciclo artúrico de [[excalibur-1981-film]], no como teoría general expuesta autónomamente.",
+      "section_target": "",
+      "content_proposed": "\n\n## La cuaternidad como mapeo a los cuatro palos del tarot\n\nEl directo monográfico *Análisis arquetípico: Excalibur* añade un segundo mapeo de la cuaternidad — la correspondencia con los cuatro palos del [[tarot-arquetipico|tarot]]: espadas (intelecto/aire), copas (espíritu/agua), bastos (fuego/voluntad) y oros (tierra/material). El mapeo se aplica a las figuras del mito artúrico:\n\n> \"Dos grandes ejes: el dragón (fuego y tierra) y la dama del lago (intelecto y espíritu),\"\n→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)\n\n> \"Excalibur es un don del espíritu que es el intelecto; el cáliz representa el espíritu fluido que se desborda,\"\n→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)\n\n> \"Arturo complementado por Lancelot (virtud del espíritu/copas) y Ginebra (complemento del intelecto/espadas),\"\n→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)\n\n> \"Merlín porta espadas y bastos (intelecto y fuego); Morgana es la contraparte maligna con espíritu vinculado a la tierra,\"\n→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)\n\nEl mapeo confirma que la cuaternidad opera como **dispositivo de lectura transversal**, no como articulación local. Donde el directo Excalibur+LOTR mapeaba a personajes tolkienianos (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra), este directo mapea a figuras artúricas vía los palos del tarot. Las dos lecturas son la misma cuaternidad bajo dos vehículos iconográficos distintos — el bestiario tolkieniano y los arcanos del tarot.\n\nLa pieza importa también porque articula la **separación de los ejes** como operación cognitiva del héroe:\n\n> \"Sacar la espada de la piedra significa separar los dos ejes del dragón y la dama del lago,\"\n→ [Análisis arquetípico: Excalibur (1:37:02)](https://youtu.be/daC37T5cbWs?t=5822)\n\nEl gesto inaugural del rey (extraer Excalibur de la tierra) cifra la separación de los dos ejes — el dragón (fuego+tierra como pasiones materiales) y la dama del lago (intelecto+espíritu como dones inmateriales). El héroe debe primero distinguir los cuatro elementos para luego integrarlos en la armonía completa de los cuatro palos. La cuaternidad opera así no como mapa estático sino como **secuencia operativa**: separar para luego integrar.",
+      "wikilinks_introduced": [
+        "tarot-arquetipico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5580,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5822,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:37:02)](https://youtu.be/daC37T5cbWs?t=5822)"
+        }
+      ],
+      "rationale": "Insert tras la sección sobre encarnaciones tolkienianas y antes de Lagunas. Aporta el segundo vehículo iconográfico de la cuaternidad (los palos del tarot aplicados a figuras artúricas) y la lectura del gesto de extraer Excalibur como operación de separación de los dos ejes — material complementario y específico, no duplicado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "dragon-arquetipo",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico: Excalibur** — chunks: [48:03](https://youtu.be/daC37T5cbWs?t=2883) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 2883,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (48:03)](https://youtu.be/daC37T5cbWs?t=2883)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5580,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)"
+        }
+      ],
+      "rationale": "Cita-only — el dragón como 'fuerza de la naturaleza tierra y fuego' es coherente con el tratamiento ya documentado (concupiscencia bajo la tierra, avatar del caos). Solo se añaden timestamps adicionales para retrieval indirecto desde chunks raw del nuevo monográfico.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico: Excalibur** — chunks: [30:24](https://youtu.be/daC37T5cbWs?t=1824) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 1824,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (30:24)](https://youtu.be/daC37T5cbWs?t=1824)"
+        },
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5580,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)"
+        }
+      ],
+      "rationale": "Cita-only — Arturo como Loco del tarot y mapeo de personajes artúricos a los cuatro palos son lecturas específicas del filme que viven en excalibur-1981-film y cuatro-elementos-arquetipicos. Aquí solo timestamps para retrieval indirecto, en línea con la convención de la página (las lecturas arcano-por-arcano viven en páginas de obra concreta).",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico: Excalibur** — chunks: [1:31:59](https://youtu.be/daC37T5cbWs?t=5519)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5519,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:31:59)](https://youtu.be/daC37T5cbWs?t=5519)"
+        }
+      ],
+      "rationale": "Cita-only — la tesis del 'ciclo del héroe encadenado' aparece como cierre del monográfico de Excalibur. El desarrollo va a excalibur-1981-film. Aquí solo timestamp para retrieval.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "mito-polar",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico: Excalibur** — chunks: [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5095,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:24:55)](https://youtu.be/daC37T5cbWs?t=5095)"
+        }
+      ],
+      "rationale": "Cita-only — la integración rey-tierra refuerza el caso Excalibur ya documentado en la página (sección 'mito católico como sustitución de lo lunar'). No aporta dimensión teórica nueva.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "mito-solar",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico: Excalibur** — chunks: [1:30:28](https://youtu.be/daC37T5cbWs?t=5428)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "daC37T5cbWs",
+          "timestamp_seconds": 5428,
+          "cite_markdown": "[Análisis arquetípico: Excalibur (1:30:28)](https://youtu.be/daC37T5cbWs?t=5428)"
+        }
+      ],
+      "rationale": "Cita-only — el sacrificio de Arturo bajo sol rojo de atardecer ejemplifica el ciclo solar masculino (cenit/declive/muerte/renacimiento). Caso operativo que enriquece la nueva página mito-solar.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Merlín",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Figura central del filme analizada extensamente (custodio de la espada, vidente, maestro de Arturo, batalla mágica con Morgana). Integrada en el update masivo a excalibur-1981-film. No requiere página propia — es personaje del filme leído como aspecto del yo.",
+      "quote_evidence": "Merlín es un ser de los antiguos en contacto con la profundidad de la tierra y la magia antigua,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excalibur-1981-film"
+    },
+    {
+      "surface_form": "Arturo (rey Arturo)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Protagonista del filme. Articulado como figura arquetípica (Loco del tarot al inicio, virtud hecha persona, sacrificio del rey). Integrado en el update a excalibur-1981-film.",
+      "quote_evidence": "Arturo es vivaz y valiente pero completamente ingenuo: desconoce el mundo, su pasado, su origen y su futuro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excalibur-1981-film"
+    },
+    {
+      "surface_form": "Morgana",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulada como anticristo del mito artúrico, contraparte oscura femenina, venganza cristalizada en el hijo incestuoso. Integrada en el update a excalibur-1981-film. Posible figura de tipologia-femenina-arquetipica si reaparece sustantivamente.",
+      "quote_evidence": "Morgana encierra a Merlín debilitado y roba el conjuro de la creación para engendrar un hijo incestuoso con Arturo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Morgana como anticristo articulado y como figura femenina oscura podría enriquecer tipologia-femenina-arquetipica (similar a Lilit) si reaparece. Por ahora capturada en excalibur-1981-film."
+    },
+    {
+      "surface_form": "Lancelot, Ginebra, Mordred, Uther Pendragón, Percival",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Figuras del filme leídas como aspectos del yo (Lancelot como complemento espiritual, Ginebra como complemento del intelecto, Mordred como engendro del resentimiento, Uther como parte impetuosa precedente, Percival como vector de la búsqueda). Integradas en el update a excalibur-1981-film.",
+      "quote_evidence": "Arturo complementado por Lancelot (virtud del espíritu/copas) y Ginebra (complemento del intelecto/espadas),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excalibur-1981-film"
+    },
+    {
+      "surface_form": "Madame Mim",
+      "reason_code": "passing_mention",
+      "reason_detail": "Personaje de Merlín el Encantador (Disney 1963) mencionado como prefiguración pedagógica del peligro femenino oscuro. Captura en update a excalibur-1981-film. La película Disney en sí misma no se analiza monográficamente — solo se alude porque comparte la novelización del mito artúrico con Excalibur (1981).",
+      "quote_evidence": "Madame Mim es la contraparte oscura de Merlín: el mal absoluto que solo quiere ver arder el mundo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excalibur-1981-film"
+    },
+    {
+      "surface_form": "Tres lecciones de Merlín (pez, ardilla, vuelo)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación pedagógica específica del filme: dicotomía del mundo, fuerzas naturales que la filosofía no domina, libertad del arte. Integrada como sub-sección en el update a excalibur-1981-film. Sub-framework de aplicación local, no concepto autónomo del corpus.",
+      "quote_evidence": "Primera lección (el pez): el mundo es dicotómico, existe entre lo ideal y lo profundo, siempre una mezcla de ambos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excalibur-1981-film"
+    },
+    {
+      "surface_form": "La diosa blanca (Robert Graves)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "scope.md §3.4 — recomendación bibliográfica explícita del canal: 'La diosa blanca es lectura imprescindible para comprender el mito artúrico'. Bibliographic info: book_title='La diosa blanca', authors=['Robert Graves'], domain='humanities.religion / mitología comparada', why_recommended='base teórica para comprender el sustrato celta del mito artúrico'. Pendiente para futura página índice de bibliografía del canal.",
+      "quote_evidence": "La diosa blanca es lectura imprescindible para comprender el mito artúrico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Recomendación bibliográfica del canal — debe aparecer en futura página índice de bibliografía recomendada. Posible whitelist soft para Robert Graves si reaparece como autor referenciado."
+    },
+    {
+      "surface_form": "La rama dorada (Frazer)",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Mencionada como base teórica que el mito artúrico unifica. Frazer ya tiene página (frazer-james-george). Cita indirecta — no requiere update específico a la página de Frazer porque la mención es genérica.",
+      "quote_evidence": "Unifica el mito de la diosa blanca celta con la tesis de la rama dorada y la metaelaboración cristiana del monomito,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "frazer-james-george"
+    },
+    {
+      "surface_form": "Mito artúrico como último gran mito recopilatorio",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Tesis del speaker: el mito artúrico unifica la diosa blanca celta + rama dorada + monomito cristiano. Articulación operativa para el análisis del filme. La tesis está cubierta en el update a excalibur-1981-film. No merece página propia — es lectura del corpus mitológico aplicada a esta obra concreta.",
+      "quote_evidence": "El mito junta la cuestión medieval, arcana, cristiana, la rama dorada y la diosa blanca en un último gran mito recopilatorio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excalibur-1981-film"
+    },
+    {
+      "surface_form": "Análisis semiótico vs interpretación personal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción metodológica del speaker (interpretación personal = proyección; análisis semiótico = identificación con lo universal). Apunte sobre el método del canal. Sin desarrollo monográfico — es comentario meta-metodológico.",
+      "quote_evidence": "El análisis semiótico distingue la interpretación personal (proyección) de la identificación con lo universal,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación meta-metodológica del canal sobre cómo distingue análisis arquetípico de interpretación personal. Si reaparece sistemáticamente, candidato a synthesis sobre la metodología del canal."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 0,
+    "promoted_updates": 11,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T13:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -896,3 +896,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - video_id: `e3Aj775Rlw4` — El Gólem de Cobre
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [43:10](https://youtu.be/NrLnzcceSLY?t=2590)
 
+
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)

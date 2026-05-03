@@ -1,0 +1,433 @@
+{
+  "video_id": "rRlks0e0oxU",
+  "video_title": "Análisis arquetípico La Bruja",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "The Witch / La Bruja (Eggers, 2015)",
+      "canonical_guess": "the-witch-2015-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 182,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La trama literal es colonos enfrentándose al mal en lo salvaje, pero el contenido simbólico es la emancipación,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No es una película sobre religión ni fanatismo sino sobre la ignorancia y el miedo que se tapan con mecanismos de culpabilidad,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El final no es triste — la protagonista está completamente emancipada, aunque hacia lo salvaje en lugar de hacia lo divino,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 'análisis dedicado': vídeo monográfico de 182 min sobre The Witch (Eggers, 2015). Lectura simbólica densa que articula la película como historia de emancipación femenina polar (hacia lo salvaje vs hacia lo divino), introduce la categoría operativa del 'símbolo involuntario' como innovación metodológica, articula el chivo expiatorio (azazel) como mecanismo de proyección colectiva, distingue piedad/culpa, y lee la copa de plata como cáliz/grial femenino. Eggers ya está en el corpus vía Nosferatu (canonical whitelist soft). Caso central de cine arquetípico contemporáneo.",
+      "quote_evidence": "La película impactó directamente al inconsciente sin que el espectador pudiera racionalizar por qué,"
+    },
+    {
+      "surface_form": "shadow-archetype (chivo expiatorio y personificación del mal)",
+      "canonical_guess": "shadow-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El chivo expiatorio viene de la fiesta judía de la expiación donde se imponían las manos sobre la cabra que recibía todos los males,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La proyección o identificación proyectiva: cuando no reconoces el mal como parte tuya lo pones fuera y lo personificas en un objeto de odio,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material nuevo: la genealogía precisa del chivo expiatorio (azazel hebreo) como mecanismo histórico-litúrgico de proyección colectiva de la sombra, y su persistencia en las religiones protestantes vía la creación de figuras demoníacas (cabras, brujas). Complementa la sección 'sombra colectiva' ya documentada con el mecanismo institucional específico que la articula históricamente.",
+      "quote_evidence": "Es la personificación del mal idéntica a lo que hacen las religiones protestantes con demonios, cabras y brujas: creación de chivos expiatorios,"
+    },
+    {
+      "surface_form": "tipología femenina arquetípica (madre amargada y emancipación hacia bruja)",
+      "canonical_guess": "tipologia-femenina-arquetipica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 14,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La madre decía tener fe pero lo que tenía era rectitud, exigencia, rigidez y doctrina,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La emancipación se polariza: en lugar de convertirse en diosa adulta civilizada, la princesa pasa a ser bruja que asciende en la aquelarre nocturna,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material nuevo: dos casos operativos del corpus en una sola obra. (1) La madre amargada como variante del cuadro 'mujer que confunde piedad con culpa' — feminidad sin canalización del dolor que se vuelve odiosa; conecta con la figura de Medea/bruja como corrupciones del femenino. (2) La trayectoria de Thomasin como caso paradigmático de emancipación femenina polar fallida: en lugar de devenir diosa adulta civilizada, deviene bruja salvaje. La página articula 5 formas de corrupción (Wendy/ninfa/lámia/Medea/bruja) y The Witch ofrece la transición operativa de inocente a bruja por colapso de la civilización mediadora.",
+      "quote_evidence": "La protección cultural de la feminidad fabricó mujeres que no pueden canalizar ni expiar su culpa y terminan siendo odiosas con los demás,"
+    },
+    {
+      "surface_form": "Grial (cáliz femenino como símbolo involuntario)",
+      "canonical_guess": "grial-arquetipo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La copa de plata de la madre funciona como el cáliz o grial — símbolo del agua, el espíritu y la divinidad femenina (Virgen María),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material nuevo: la lectura del Grial como símbolo de la divinidad femenina (lectura mariana / agua / espíritu) y como símbolo involuntario en la película (la madre pierde su propio cáliz cuando culpabiliza a la bruja = pérdida de la espiritualidad femenina dentro de la civilización). La página actual articula el Grial como cifra del sacrificio voluntario del rey (lectura masculina-civilizatoria). Esta dimensión femenina-mariana es complementaria y no estaba documentada.",
+      "quote_evidence": "Que la madre pierda su propio cáliz — su divinidad dentro de la civilización — y le eche la culpa a la bruja es enormemente significativo,"
+    },
+    {
+      "surface_form": "hieros-gamos (emancipación polar fallida hacia lo salvaje)",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La emancipación se polariza: en lugar de convertirse en diosa adulta civilizada, la princesa pasa a ser bruja que asciende en la aquelarre nocturna,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — el caso The Witch articula otra modalidad de hieros gamos truncado: la psique femenina que, ante el colapso de la civilización mediadora (puritana fundamentalista en el filme), se emancipa hacia el polo salvaje en lugar de integrarse al polar civilizatorio. Variante adicional al catálogo de inversiones (Drácula, Unicorn Wars, Eyes Wide Shut, Frozen). El desarrollo va a the-witch-2015-film; aquí solo cita para retrieval.",
+      "quote_evidence": "La emancipación se polariza: en lugar de convertirse en diosa adulta civilizada, la princesa pasa a ser bruja que asciende en la aquelarre nocturna,"
+    },
+    {
+      "surface_form": "mitología propia/impropia (calvinismo y la doctrina de la sola fide)",
+      "canonical_guess": "mitologia-propia-impropia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La religión no crea la culpa; la culpa la sientes internamente y la religión es una respuesta a esa culpa interna,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La doctrina de la sola fide convierte la fe en obediencia ciega: no hay nada que el hombre pueda hacer para salvarse,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — la articulación 'la religión es respuesta a la culpa, no la crea' refina la lectura del canal sobre cómo opera la mitología institucional. El protestantismo calvinista como caso de mitología que se autopresenta como verdad doctrinal absoluta (mitología impropia institucionalizada). Captura principal va a the-witch-2015-film; aquí solo cita.",
+      "quote_evidence": "La religión empieza en el yo como inquietud individual que encuentra una respuesta colectiva,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo.",
+  "pending_updates": [
+    {
+      "page_id": "shadow-archetype",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza es operativa para el marco: la integración junguiana clásica de la sombra (reconocer la propia como prerrequisito de la individuación) opera en plano individual; este plano colectivo añade el componente institucional — qué entornos producen actualización masiva y cuáles la inhiben — y el componente epistémico — la sombra del otro puede ser estructuralmente invisible para quien comparte espacio con ella.",
+      "section_target": "",
+      "content_proposed": "\n\n## El chivo expiatorio: genealogía litúrgica de la proyección colectiva\n\nEn el monográfico *Análisis arquetípico La Bruja* (182 min) el canal articula el mecanismo histórico-litúrgico mediante el cual las religiones institucionalizan la proyección de la sombra colectiva: el **chivo expiatorio** (azazel hebreo) y su persistencia en la creación de figuras demoníacas.\n\n> \"El chivo expiatorio viene de la fiesta judía de la expiación donde se imponían las manos sobre la cabra que recibía todos los males,\"\n→ [Análisis arquetípico La Bruja (1:03:01)](https://youtu.be/rRlks0e0oxU?t=3781)\n\n> \"La representación demoníaca de Lucifer como cabra proviene del chivo negro (azazel) que recibía los pecados en esa celebración,\"\n→ [Análisis arquetípico La Bruja (1:03:01)](https://youtu.be/rRlks0e0oxU?t=3781)\n\nLa pieza añade al cuadro de la sombra colectiva el **mecanismo institucional preciso** que la opera: el rito litúrgico de transferir la sombra de la comunidad a un objeto/figura externo que puede ser sacrificado o expulsado. El gesto cumple función psíquica real (descarga colectiva de la sombra acumulada) sin requerir reconocimiento de la sombra como propia — la operación opera precisamente porque mantiene la fantasía de que el mal está fuera.\n\n> \"La proyección o identificación proyectiva: cuando no reconoces el mal como parte tuya lo pones fuera y lo personificas en un objeto de odio,\"\n→ [Análisis arquetípico La Bruja (1:36:57)](https://youtu.be/rRlks0e0oxU?t=5817)\n\nLa lectura aplica el mecanismo a la modalidad protestante específica: la creación cultural de la **figura de la bruja** como objeto litúrgico de descarga de la sombra colectiva puritana, idéntica en estructura al rito hebreo del azazel:\n\n> \"Es la personificación del mal idéntica a lo que hacen las religiones protestantes con demonios, cabras y brujas: creación de chivos expiatorios,\"\n→ [Análisis arquetípico La Bruja (1:49:02)](https://youtu.be/rRlks0e0oxU?t=6542)\n\nLa pieza importa para el marco porque cierra el flanco institucional de la sombra colectiva ya documentada (donde se articulaba 'qué entornos producen actualización masiva'): el chivo expiatorio es el dispositivo cultural específico que **canaliza institucionalmente la sombra colectiva** sin requerir su integración. Es el opuesto operativo de la integración junguiana — donde la individuación pide reconocer la sombra propia, el chivo expiatorio la externaliza ritualmente. Ambas son operaciones reales sobre la sombra; sólo una transforma al sujeto.",
+      "wikilinks_introduced": [
+        "the-witch-2015-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 3781,
+          "cite_markdown": "[Análisis arquetípico La Bruja (1:03:01)](https://youtu.be/rRlks0e0oxU?t=3781)"
+        },
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 5817,
+          "cite_markdown": "[Análisis arquetípico La Bruja (1:36:57)](https://youtu.be/rRlks0e0oxU?t=5817)"
+        },
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 6542,
+          "cite_markdown": "[Análisis arquetípico La Bruja (1:49:02)](https://youtu.be/rRlks0e0oxU?t=6542)"
+        }
+      ],
+      "rationale": "Insert tras el cierre de la sección sobre sombra colectiva (caso Pelicot + componente institucional/epistémico). Aporta el mecanismo litúrgico-institucional preciso (chivo expiatorio azazel) que la sombra colectiva usa para descargarse sin integrarse — pieza ausente y complementaria al marco general.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "grial-arquetipo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La fórmula 'rey y tierra son lo mismo' cifra exactamente el dispositivo: el problema no es el sujeto sino el mundo, y la salida no es el cambio interior sino la afirmación de la propia inocencia preexistente.",
+      "section_target": "",
+      "content_proposed": "\n\n## La dimensión femenino-mariana del Grial: el cáliz como divinidad inmanente\n\nEl monográfico *Análisis arquetípico La Bruja* añade al esquema una lectura complementaria del Grial: además de cifra del sacrificio voluntario del rey (lectura masculina-civilizatoria ya documentada), el Grial opera también como **símbolo de la divinidad femenina inmanente** en la cultura cristiana — el cáliz mariano que aloja el espíritu en la tierra.\n\n> \"La copa de plata de la madre funciona como el cáliz o grial — símbolo del agua, el espíritu y la divinidad femenina (Virgen María),\"\n→ [Análisis arquetípico La Bruja (2:04:12)](https://youtu.be/rRlks0e0oxU?t=7452)\n\n> \"Que la madre pierda su propio cáliz — su divinidad dentro de la civilización — y le eche la culpa a la bruja es enormemente significativo,\"\n→ [Análisis arquetípico La Bruja (2:04:12)](https://youtu.be/rRlks0e0oxU?t=7452)\n\nLa pieza enriquece el arquetipo con su flanco mariano-femenino. El Grial no es solo el receptáculo de la sangre del Cristo sacrificado (lectura del rey-héroe que se entrega) sino también el **vaso receptivo** que contiene lo divino-trascendente como presencia inmanente — la lectura de María como continente de Dios. La copa de plata en *La Bruja* opera como [[the-witch-2015-film|símbolo involuntario]]: cuando la madre culpabiliza a la bruja por la pérdida de la copa, está externalizando la pérdida de su propia divinidad femenina en lugar de reconocerla como propia.\n\nLa consecuencia para el arquetipo: el Grial admite las dos lecturas como complementarias, no como rivales. El rey se hace eterno entregando su sangre **al** Grial; la mujer se hace divina sosteniendo el Grial **como** continente — dos operaciones polares (entrega activa masculina / receptividad activa femenina) sobre el mismo objeto sagrado, ambas requeridas para el ciclo completo de la divinidad encarnada en la cultura.",
+      "wikilinks_introduced": [
+        "the-witch-2015-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 7452,
+          "cite_markdown": "[Análisis arquetípico La Bruja (2:04:12)](https://youtu.be/rRlks0e0oxU?t=7452)"
+        }
+      ],
+      "rationale": "Insert tras la sección 'El secreto del Grial: rey y tierra son uno' añadida en el batch de Excalibur. La página articula el Grial desde la lectura masculina-civilizatoria; el material de The Witch añade el flanco femenino-mariano (Grial como continente de divinidad inmanente, lectura del cáliz de plata como símbolo involuntario). Material genuinamente nuevo y complementario.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico La Bruja** — chunks: [1:27:50](https://youtu.be/rRlks0e0oxU?t=5270) · [1:55:35](https://youtu.be/rRlks0e0oxU?t=6935) · [2:24:30](https://youtu.be/rRlks0e0oxU?t=8670)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 5270,
+          "cite_markdown": "[Análisis arquetípico La Bruja (1:27:50)](https://youtu.be/rRlks0e0oxU?t=5270)"
+        },
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 6935,
+          "cite_markdown": "[Análisis arquetípico La Bruja (1:55:35)](https://youtu.be/rRlks0e0oxU?t=6935)"
+        },
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 8670,
+          "cite_markdown": "[Análisis arquetípico La Bruja (2:24:30)](https://youtu.be/rRlks0e0oxU?t=8670)"
+        }
+      ],
+      "rationale": "Cita-only — la página articula 5 formas de corrupción del femenino (Wendy/ninfa/lámia/Medea/bruja). The Witch ofrece dos casos operativos en una obra: la madre amargada (lectura como Medea-corrupta-por-doctrina) y Thomasin (transición operativa de inocente a bruja por colapso de la civilización mediadora). El desarrollo va a the-witch-2015-film. Aquí timestamps para retrieval.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico La Bruja** — chunks: [1:55:35](https://youtu.be/rRlks0e0oxU?t=6935) · [2:24:30](https://youtu.be/rRlks0e0oxU?t=8670)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 6935,
+          "cite_markdown": "[Análisis arquetípico La Bruja (1:55:35)](https://youtu.be/rRlks0e0oxU?t=6935)"
+        },
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 8670,
+          "cite_markdown": "[Análisis arquetípico La Bruja (2:24:30)](https://youtu.be/rRlks0e0oxU?t=8670)"
+        }
+      ],
+      "rationale": "Cita-only — la emancipación femenina hacia el polo salvaje (en lugar de integración al polar civilizatorio) es variante adicional al catálogo de hieros gamos truncados. El desarrollo va a the-witch-2015-film. Aquí timestamps para retrieval.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "mitologia-propia-impropia",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico La Bruja** — chunks: [13:30](https://youtu.be/rRlks0e0oxU?t=810) · [23:09](https://youtu.be/rRlks0e0oxU?t=1389) · [2:15:15](https://youtu.be/rRlks0e0oxU?t=8115)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 810,
+          "cite_markdown": "[Análisis arquetípico La Bruja (13:30)](https://youtu.be/rRlks0e0oxU?t=810)"
+        },
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 1389,
+          "cite_markdown": "[Análisis arquetípico La Bruja (23:09)](https://youtu.be/rRlks0e0oxU?t=1389)"
+        },
+        {
+          "video_id": "rRlks0e0oxU",
+          "timestamp_seconds": 8115,
+          "cite_markdown": "[Análisis arquetípico La Bruja (2:15:15)](https://youtu.be/rRlks0e0oxU?t=8115)"
+        }
+      ],
+      "rationale": "Cita-only — la articulación 'la religión es respuesta a la culpa interna, no la crea' refina la lectura del canal sobre cómo operan las mitologías institucionales. La sola fide calvinista como caso de mitología impropia que se autopresenta como verdad doctrinal absoluta. El desarrollo va a the-witch-2015-film.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Thomasin (protagonista)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Protagonista del filme. Su trayectoria de inocente piadosa a bruja salvaje es el caso operativo central de la lectura. Integrada en the-witch-2015-film.",
+      "quote_evidence": "La protagonista ha integrado la fe de forma sincera y es verdaderamente temerosa de Dios, lo contrario del padre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "the-witch-2015-film"
+    },
+    {
+      "surface_form": "Felipe el Negro (cabra negra)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Personificación del mal en el filme — cabra negra como objeto litúrgico del chivo expiatorio. Captura en the-witch-2015-film y en el insert a shadow-archetype.",
+      "quote_evidence": "Los niños han personificado el mal poniéndole nombre a la cabra negra,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "shadow-archetype"
+    },
+    {
+      "surface_form": "Robert Eggers (director)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Director de The Witch (y de Nosferatu 2024 ya en canonical_whitelist soft). Su análisis monográfico de The Witch va a the-witch-2015-film. Eggers como autor-cineasta podría merecer página propia (entity author/director) si reaparece sustantivamente como sujeto de análisis transversal — por ahora capturado vía obras concretas.",
+      "quote_evidence": "El director no quiso ser fiel a una doctrina sino que mezcló trozos de historias sobre colonos y su relación con la fe,",
+      "review_priority": "medium",
+      "review_priority_reason": "Eggers tiene 2 obras en el corpus (Nosferatu 2024 + The Witch). Si suma una tercera con análisis sustantivo, candidato a entity_author."
+    },
+    {
+      "surface_form": "Calvinismo / sola fide / culpa protestante",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "El speaker articula con precisión la doctrina de la sola fide como conversión de la fe en obediencia ciega y el calvinismo como rama centrada en la culpa. Posible synthesis futura sobre 'culpa cristiana en Proxy' o 'tradiciones cristianas en lectura del canal' si reaparece transversalmente. Por ahora capturado en the-witch-2015-film y en cita a mitologia-propia-impropia.",
+      "quote_evidence": "La doctrina de la sola fide convierte la fe en obediencia ciega: no hay nada que el hombre pueda hacer para salvarse,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación pedagógica precisa de la doctrina protestante de la culpa. Si reaparece sistemáticamente en otros vídeos como marco analítico, candidato a synthesis."
+    },
+    {
+      "surface_form": "Malleus Maleficarum",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tratado sobre brujería del siglo XV mencionado como fuente histórica de los ritos enteógenos (untar palos con sustancias alucinógenas como origen de 'montar en escoba'). Sin análisis sustantivo del tratado — solo como referencia para el contexto histórico de la figura de la bruja. Captura en the-witch-2015-film.",
+      "quote_evidence": "El tratado sobre brujería recopilaba ritos alejandrinos, paganos y leyenda popular, y tuvo bula papal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "the-witch-2015-film"
+    },
+    {
+      "surface_form": "Cuento de Caperucita Roja (paralelo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El motivo de 'mujer de capa roja en el bosque' que tienta al niño remite implícitamente a Caperucita. Sin desarrollo del cuento como obra. Captura en the-witch-2015-film.",
+      "quote_evidence": "el niño se pierde entre ramas espinosas hasta una cabaña con una mujer de capa roja,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Cantar de los Cantares",
+      "reason_code": "passing_mention",
+      "reason_detail": "Texto bíblico citado dentro del filme (el niño lo recita 'como poseído'). Sin análisis del texto en sí. Captura en the-witch-2015-film.",
+      "quote_evidence": "El niño recita el Cantar de los Cantares como poseído por una sexualidad pecaminosa: una voz femenina siniestra habla por él,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Conejo de Pascua / herencia pagana",
+      "reason_code": "passing_mention",
+      "reason_detail": "Símbolo del filme leído como herencia pagana de la proliferación instintiva primaveral. Captura en the-witch-2015-film como pieza simbólica del despertar sexual del niño.",
+      "quote_evidence": "El conejo de Pascua es herencia pagana que representa lo salvaje y la proliferación del instinto sexual en primavera,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "the-witch-2015-film"
+    },
+    {
+      "surface_form": "Símbolo involuntario (innovación metodológica)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El speaker introduce explícitamente la categoría operativa: incluir en el análisis símbolos que no pertenecen a la narrativa intencional del director sino que emergen del material por convención cultural compartida. Innovación metodológica clara pero embebida en el análisis del filme. Posible enriquecimiento futuro de una página sobre la metodología del análisis arquetípico del canal si reaparece como marco transversal. Por ahora captura en the-witch-2015-film.",
+      "quote_evidence": "Se introduce una novedad: incluir una analogía con un símbolo involuntario que no pertenece a la narrativa intencional del director,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría metodológica del canal (símbolo involuntario como pieza del análisis). Si reaparece sistemáticamente, candidato a enriquecer una synthesis sobre la metodología de análisis arquetípico del canal."
+    },
+    {
+      "surface_form": "Estructura freudiana vs jungiana del filme",
+      "reason_code": "passing_mention",
+      "reason_detail": "El speaker articula brevemente que The Witch tiene estructura más freudiana que jungiana (Freud trata problemas con el padre, Jung trata problemas con la Diosa). Distinción interesante pero apunte breve. Captura en the-witch-2015-film.",
+      "quote_evidence": "La estructura es más freudiana que jungiana: Freud trata problemas con el padre, Jung trata problemas con la Diosa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "the-witch-2015-film"
+    },
+    {
+      "surface_form": "Catolicismo vs protestantismo (relación con la culpa)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Contraste articulado: las ramas protestantes (especialmente calvinista) están más centradas en la culpa que la católica. Pieza pedagógica para comprender la película pero no concepto autónomo del corpus. Captura en the-witch-2015-film.",
+      "quote_evidence": "Las ramas protestantes, especialmente la calvinista, están más centradas en el concepto de culpa que la católica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "the-witch-2015-film"
+    },
+    {
+      "surface_form": "Pecado del padre / patriarca responsable",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación específica de la lectura de la película: el padre tiene derecho a defender convicciones hasta la muerte como individuo solo, no como patriarca responsable de su familia. Captura en the-witch-2015-film. Posible enriquecimiento futuro de una página sobre función paterna si reaparece.",
+      "quote_evidence": "El pecado no es defender convicciones sino defenderlas a pesar de la familia cuando se es patriarca responsable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "the-witch-2015-film"
+    },
+    {
+      "surface_form": "Bosque como lo desconocido / caos",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "El bosque como símbolo del límite del mundo conocido es categoría arquetípica clásica ya documentada en otras páginas (dragon-arquetipo). Aplicada como marco al filme. Captura en the-witch-2015-film.",
+      "quote_evidence": "El bosque es símbolo del límite del mundo no conocido; la granja-colonia es el yo y más allá está el caos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "the-witch-2015-film"
+    },
+    {
+      "surface_form": "Trastornos de personalidad por experiencias fuera de contexto en infancia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Apunte clínico-cultural breve sobre cómo personas con experiencias fuera de contexto en infancia terminan incapaces de vivir en un centro. Mecanismo de trastornos de personalidad. Captura en the-witch-2015-film. Posible enriquecimiento futuro de páginas sobre trauma o sobre desarrollo psíquico.",
+      "quote_evidence": "Psicológicamente, personas con experiencias fuera de contexto en la infancia terminan incapaces de vivir en un centro — mecanismo de trastornos de personalidad,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Religión como respuesta colectiva a inquietud individual",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Tesis articulada del canal: la religión empieza en el yo como inquietud individual que encuentra respuesta colectiva (códigos éticos para garantizar permanencia en comunidad). Articulación foundational pero embedida en la introducción del análisis del filme. Posible enriquecimiento futuro de liturgia-como-rito o de una synthesis sobre teoría de la religión en Proxy si reaparece transversalmente.",
+      "quote_evidence": "La religión empieza en el yo como inquietud individual que encuentra una respuesta colectiva,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis foundational sobre la naturaleza de la religión. Si reaparece sistemáticamente como marco propio, candidato a synthesis 'teoría de la religión en Proxy'."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 6,
+    "promoted_new": 1,
+    "promoted_updates": 5,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T14:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[The Witch / La Bruja (Eggers, 2015)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

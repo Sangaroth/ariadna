@@ -1,0 +1,477 @@
+{
+  "video_id": "HgLlH8Ta2qk",
+  "video_title": "Análisis arquetípico El Hombre de Acero",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Man of Steel / El Hombre de Acero",
+      "canonical_guess": "man-of-steel-2013-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 148,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Cristo, Hércules, Apolo y Superman comparten la misma estructura mítica solar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El mito solar de Superman codificado en los arcanos del tarot"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 'análisis dedicado': vídeo monográfico de 148 min sobre Man of Steel. Resuelve el wikilink roto referenciado desde mito-moderno-en-proxy.md (canonical_whitelist soft, ahora cumple criterio sustantivo). Recorre la película arcano-por-arcano del tarot, articula los tres padres arquetípicos (Jor-El, Zod, Jonathan Kent), el sacrificio paterno como salto de fe, Kryptón como Olimpo, Doomsday como gólem, Lois como diosa que afianza el dominio.",
+      "quote_evidence": "Los padres de Clark son creyentes y piadosos; el mito de Apolo es el mito del Cristo,"
+    },
+    {
+      "surface_form": "mito solar",
+      "canonical_guess": "mito-solar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Hércules es el héroe por excelencia del mito solar, pero Apolo es el arquetipo más genérico y abierto que engloba a todos los dioses solares,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cristo, Hércules, Apolo y Superman comparten la misma estructura mítica solar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El camino del héroe se trabaja desde que nacemos hasta que morimos, y la masculinidad arquetípica sigue el ciclo solar diario,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Superman tiene una primera muerte profética tras la cual renace con el siguiente sol, como el ciclo circadiano hormonal masculino,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §4 + canonical_whitelist.json: 'mito-solar' está en channel_specific_concepts con auto_promote=true ('pieza obligada de la triada solar/lunar/polar del canal. Wikilink roto referenciado desde 5+ páginas'). Este vídeo de 148 min ofrece el tratamiento más sustantivo de la categoría: Apolo como arquetipo solar más abierto, Hércules como prototipo, Cristo como cristalización monoteísta, Superman como recapitulación contemporánea, ciclo solar diario como masculinidad arquetípica, ciclo circadiano hormonal masculino como base biológica, muerte y renacimiento como pieza estructural del ciclo. Pieza fundacional pendiente del wiki.",
+      "quote_evidence": "Hércules es el héroe por excelencia del mito solar, pero Apolo es el arquetipo más genérico y abierto que engloba a todos los dioses solares,"
+    },
+    {
+      "surface_form": "mito moderno (Superman como recapitulación contemporánea)",
+      "canonical_guess": "mito-moderno-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cristo, Hércules, Apolo y Superman comparten la misma estructura mítica solar,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página ya cita este vídeo en Pieza 4 con dos chunks (01:02, 1:49:25). Hay material adicional del mismo vídeo no incorporado: Doomsday como gólem (1:24:04), Lex Luthor como herida narcisista contra autoridad (1:17:25), Batman perdón al descubrir Marta (1:36:17). Cita-only para enriquecer retrieval.",
+      "quote_evidence": "Cristo, Hércules, Apolo y Superman comparten la misma estructura mítica solar,"
+    },
+    {
+      "surface_form": "tarot arquetípico (recorrido completo de los 22 Arcanos)",
+      "canonical_guess": "tarot-arquetipico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El mito solar de Superman codificado en los arcanos del tarot"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página declara como laguna que las 'lecturas específicas de arcanos viven en otras páginas del corpus dedicadas a obras concretas como Matrix o El Gran Lebowski'. Man of Steel articula el recorrido COMPLETO por los 22 Arcanos Mayores — la lectura más sustantiva en el corpus. Material genuinamente nuevo: enumeración explícita de cada arcano mapeado a una escena.",
+      "quote_evidence": "El Loco es arrojado al mundo desde el sol; el Mago representa el aprendizaje con los padres,"
+    },
+    {
+      "surface_form": "hieros gamos (Superman y Lois)",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Superman reduce toda su fuerza a nada cuando está con Lois: la potencia de él y la fragilidad de ella se igualan en el amor,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El paralelismo con Hércules bajando al Hades es directo: hacerse mortal para salvar a la diosa,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página tiene casos de Tarzán, Cenicienta, Enredados, Sirenita, Drácula y Unicorn Wars pero NO el caso Superman-Lois aunque mito-moderno-en-proxy lo cita explícitamente en relations ('Superman (Clark-Lois)'). Material nuevo: la diosa como afianzamiento del dominio del héroe, la igualación de potencia masculina y fragilidad femenina en el amor, descenso al Hades para salvar a la diosa.",
+      "quote_evidence": "Jonathan Kent recuperó la fe en el mundo al conocer a la madre de Clark: la unión con la diosa afianza el dominio,"
+    },
+    {
+      "surface_form": "herida narcisista contra autoridad (Lex Luthor)",
+      "canonical_guess": "herida-narcisista-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lex Luthor encarna la herida narcisista con la autoridad: \"Dios se posiciona es intolerable que tengas tanto poder\","
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula origen paterno, transferencia hacia acosador, colusión, cabezonería como pieza de rasgo. Material nuevo: la modalidad orientada hacia figuras de autoridad/poder cuyo mero existir es vivido como afrenta narcisista. Lex Luthor como caso paradigmático de la variante 'autoridad'. Insert breve.",
+      "quote_evidence": "Lex Luthor encarna la herida narcisista con la autoridad: \"Dios se posiciona es intolerable que tengas tanto poder\","
+    },
+    {
+      "surface_form": "viaje del héroe (ciclo solar masculino)",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El camino del héroe se trabaja desde que nacemos hasta que morimos, y la masculinidad arquetípica sigue el ciclo solar diario,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — la página ya tiene 'Las dos fases masculinas del monomito' y la articulación cubre solar/lunar en otras páginas. Lo sustantivo del ciclo solar va a la nueva mito-solar. Solo añadir cita para retrieval indirecto.",
+      "quote_evidence": "El camino del héroe se trabaja desde que nacemos hasta que morimos, y la masculinidad arquetípica sigue el ciclo solar diario,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo.",
+  "pending_updates": [
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Resuelta para Man of Steel: el análisis arquetípico de El Hombre de Acero recorre la película mapeando explícitamente cada uno de los 22 Arcanos Mayores a una escena (Loco → expulsión, Mago → aprendizaje con padres, Sacerdotisa → revelación doble, ... Sol → renacimiento).",
+      "supersedes_laguna_text": "lecturas específicas de arcanos (Loco, etc.) viven en otras páginas del corpus dedicadas a obras concretas como Matrix o El Gran Lebowski",
+      "wikilinks_introduced": [
+        "man-of-steel-2013-film",
+        "mito-solar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 6565,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:49:25)](https://youtu.be/HgLlH8Ta2qk?t=6565)"
+        }
+      ],
+      "rationale": "La laguna apunta que las lecturas arcano-por-arcano viven en páginas de obra concreta. Man of Steel es la traversal más completa del corpus — incorporarla resuelve parcialmente la laguna mostrando el caso paradigmático.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esto sitúa la lectura del tarot dentro del marco interpretativo de [[jung-carl-gustav]] sin pasar por la obra primaria — el canal prefiere la mediación junguiana de segunda generación como puerta de entrada a esta materia. La consecuencia editorial es que cualquier desarrollo arcano-por-arcano que el canal proponga estará filtrado por esa tradición secundaria, no por una lectura directa de los textos jungianos sobre simbolismo.",
+      "section_target": "",
+      "content_proposed": "\n\n## Caso paradigmático: Man of Steel como recorrido completo de los 22 Arcanos\n\nEl análisis arquetípico de [[man-of-steel-2013-film|Man of Steel]] articula la película como recapitulación completa de los 22 Arcanos Mayores del tarot — la traversal más exhaustiva documentada en el corpus. La lectura ejemplifica cómo el canal usa los arcanos: no como dispositivo adivinatorio sino como secuencia arquetípica fija que organiza la trayectoria del héroe solar.\n\n> \"El Loco es arrojado al mundo desde el sol; el Mago representa el aprendizaje con los padres,\"\n→ [Análisis arquetípico El Hombre de Acero (1:49:25)](https://youtu.be/HgLlH8Ta2qk?t=6565)\n\n> \"La Sacerdotisa se revela doblemente: la madre sacándole del armario y Lana reconociéndole como especial,\"\n→ [Análisis arquetípico El Hombre de Acero (1:49:25)](https://youtu.be/HgLlH8Ta2qk?t=6565)\n\nLa secuencia completa que el canal articula: Loco (expulsión desde el sol) → Mago (aprendizaje con los padres) → Sacerdotisa (madre + Lana reconociéndole como especial) → Amantes (entrega y enamoramiento con Lois) → Carro (potencia contra Zod) → Fuerza (la doncella con el padre) → Rueda de la Fortuna (giro del destino) → Justicia (tribunal humano) → Colgado (sacrificio ante la humanidad) → Muerte (asume la muerte del padre) → Templanza (Batman perdonándole) → Torre (Juicio Final destruye su mundo) → Estrella y Luna (entrega a la oscuridad) → Sol (renacimiento).\n\nLa lectura es operativa: el [[mito-solar|mito solar]] del héroe (Superman como recapitulación contemporánea de Cristo / Hércules / Apolo) se reconoce arcano-por-arcano en la película. La pieza importa porque cierra el sentido del tarot como **mapa fijo de la trayectoria heroica**, no como conjunto suelto de imágenes — los arcanos no son símbolos sueltos, son una secuencia ordenada que cualquier mito solar contemporáneo recapitula.",
+      "wikilinks_introduced": [
+        "man-of-steel-2013-film",
+        "mito-solar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 6565,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:49:25)](https://youtu.be/HgLlH8Ta2qk?t=6565)"
+        }
+      ],
+      "rationale": "Insert tras el cierre de 'Lectura junguiana mediada' (donde se anticipa que cualquier desarrollo arcano-por-arcano viene de la tradición secundaria) y antes de Lagunas. Aporta el caso operativo más completo del corpus: los 22 Arcanos enumerados explícitamente en mapeo a una obra cinematográfica.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Eric despojado de todo se sube a un barco fantasma (los errores de otros) y atraviesa a Úrsula con el bauprés. Ariel renuncia a Eric por amor: respetar la estructura de otra persona sabiendo que no estás preparado también es amor.",
+      "section_target": "",
+      "content_proposed": "\n\n### Man of Steel: la diosa afianza el dominio del héroe\n\nEl análisis arquetípico de [[man-of-steel-2013-film|Man of Steel]] articula el caso Superman-Lois como hieros gamos donde la unión con la diosa **afianza el dominio del héroe** — no como apéndice romántico sino como pieza estructural de la potencia masculina solar.\n\n> \"Superman reduce toda su fuerza a nada cuando está con Lois: la potencia de él y la fragilidad de ella se igualan en el amor,\"\n→ [Análisis arquetípico El Hombre de Acero (1:29:43)](https://youtu.be/HgLlH8Ta2qk?t=5383)\n\n> \"Jonathan Kent recuperó la fe en el mundo al conocer a la madre de Clark: la unión con la diosa afianza el dominio,\"\n→ [Análisis arquetípico El Hombre de Acero (1:29:43)](https://youtu.be/HgLlH8Ta2qk?t=5383)\n\nLa pieza añade una dimensión operativa al esquema general: el dominio del héroe no se cierra solo con la prueba solar (la lucha contra el oponente) — necesita la conjunción con la diosa para estabilizarse. La igualación de potencia y fragilidad en el amor es la operación cosmogónica que reduce la fuerza del héroe a nada y, al hacerlo, completa el ciclo.\n\nEl descenso al Hades para salvar a Lois recapitula a Hércules:\n\n> \"El paralelismo con Hércules bajando al Hades es directo: hacerse mortal para salvar a la diosa,\"\n→ [Análisis arquetípico El Hombre de Acero (1:36:17)](https://youtu.be/HgLlH8Ta2qk?t=5777)\n\n> \"Tú eres mi mundo: el último don del dios es la comprensión del dominio compartido con la diosa,\"\n→ [Análisis arquetípico El Hombre de Acero (1:44:23)](https://youtu.be/HgLlH8Ta2qk?t=6263)\n\nLa secuencia confirma que el hieros gamos en clave [[mito-solar|mito solar]] tiene su culminación en el reconocimiento del dominio compartido — el héroe no es héroe pleno hasta que comprende que su potencia solo se cierra con la diosa, no contra ella ni a su pesar.",
+      "wikilinks_introduced": [
+        "man-of-steel-2013-film",
+        "mito-solar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 5383,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:29:43)](https://youtu.be/HgLlH8Ta2qk?t=5383)"
+        },
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 5777,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:36:17)](https://youtu.be/HgLlH8Ta2qk?t=5777)"
+        },
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 6263,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:44:23)](https://youtu.be/HgLlH8Ta2qk?t=6263)"
+        }
+      ],
+      "rationale": "Insert tras La Sirenita y antes de 'Casos de hieros gamos truncado o invertido'. La página tiene casos positivos (Tarzán, Cenicienta, Enredados, Sirenita) pero falta Superman-Lois, que mito-moderno-en-proxy.relations[] cita explícitamente. Material nuevo: la diosa como afianzamiento del dominio + descenso al Hades como pieza solar.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Si insiste en señalar fracaso, soledad o falta de formación, esos son sus puntos de fractura — proyectados sobre el otro precisamente porque no puede sostenerlos como propios.",
+      "section_target": "",
+      "content_proposed": "\n\n### La variante autoridad: cuando la herida se organiza contra el poder\n\nEl análisis arquetípico de [[man-of-steel-2013-film|Man of Steel]] articula una modalidad específica de la herida narcisista cuya organización afectiva no es la deuda paterna ni el acoso prolongado sobre una víctima concreta, sino el **resentimiento estructural contra cualquier figura de autoridad o poder superior**. Lex Luthor opera como caso paradigmático:\n\n> \"Lex Luthor encarna la herida narcisista con la autoridad: \\\"Dios se posiciona es intolerable que tengas tanto poder\\\",\"\n→ [Análisis arquetípico El Hombre de Acero (1:24:04)](https://youtu.be/HgLlH8Ta2qk?t=5044)\n\nLa pieza precisa una variante operativa: el cuadro permanece narcisista (rencor con intereses, deuda no saldable) pero su objeto no es la figura paterna ni la pareja transferenciada, sino la mera existencia del otro como entidad poderosa o legitimada. El simple hecho de que alguien tenga autoridad — moral, política, ontológica — es vivido como afrenta personal. La estructura clínica explica el perfil del antagonista cultural: no busca corregir a la autoridad ni reemplazarla, busca destruirla porque su mera existencia humilla al sujeto. Es la versión cosmopolítica del mecanismo ya documentado en plano íntimo (acoso prolongado) y cognitivo (cabezonería) — la deuda exigida ahora es la abolición del que está por encima.",
+      "wikilinks_introduced": [
+        "man-of-steel-2013-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 5044,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:24:04)](https://youtu.be/HgLlH8Ta2qk?t=5044)"
+        }
+      ],
+      "rationale": "Insert tras 'La proyección pura como mecánica del acosador' y antes de 'Cabezonería como cuadro tipológico'. La página articula origen paterno, acoso prolongado, colusión, cabezonería pero no la modalidad orientada a figuras de autoridad/poder en abstracto (no a un acosador concreto). Lex Luthor aporta esa variante: la herida se organiza contra el poder como tal.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mito-moderno-en-proxy",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico El Hombre de Acero** — chunks: [1:00:16](https://youtu.be/HgLlH8Ta2qk?t=3616) · [1:17:25](https://youtu.be/HgLlH8Ta2qk?t=4645) · [1:24:04](https://youtu.be/HgLlH8Ta2qk?t=5044) · [1:36:17](https://youtu.be/HgLlH8Ta2qk?t=5777)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 3616,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:00:16)](https://youtu.be/HgLlH8Ta2qk?t=3616)"
+        },
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 4645,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:17:25)](https://youtu.be/HgLlH8Ta2qk?t=4645)"
+        },
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 5044,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:24:04)](https://youtu.be/HgLlH8Ta2qk?t=5044)"
+        },
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 5777,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (1:36:17)](https://youtu.be/HgLlH8Ta2qk?t=5777)"
+        }
+      ],
+      "rationale": "La página ya cita este vídeo con 2 chunks (01:02 y 1:49:25) en Pieza 4. Los chunks adicionales (rechazo de la humanidad, Doomsday como gólem, descenso al Hades, pacto fáustico) tematizan la película desde otros ángulos del marco mito-moderno. Cita-only para mejorar retrieval indirecto.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico El Hombre de Acero** — chunks: [37:29](https://youtu.be/HgLlH8Ta2qk?t=2249) · [39:30](https://youtu.be/HgLlH8Ta2qk?t=2370) · [41:01](https://youtu.be/HgLlH8Ta2qk?t=2461)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 2249,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (37:29)](https://youtu.be/HgLlH8Ta2qk?t=2249)"
+        },
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 2370,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (39:30)](https://youtu.be/HgLlH8Ta2qk?t=2370)"
+        },
+        {
+          "video_id": "HgLlH8Ta2qk",
+          "timestamp_seconds": 2461,
+          "cite_markdown": "[Análisis arquetípico El Hombre de Acero (41:01)](https://youtu.be/HgLlH8Ta2qk?t=2461)"
+        }
+      ],
+      "rationale": "Cita-only — el material sustantivo del ciclo solar masculino (camino del héroe = ciclo solar diario, tres padres arquetípicos, sacrificio paterno, tenacidad como esencia del heroísmo) va a la nueva página mito-solar. Aquí solo añadimos timestamps para retrieval indirecto desde chunks raw.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Hércules",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Figura solar canónica articulada como prototipo del mito solar (Hércules como prototipo, Apolo como arquetipo más abierto). Integrado en la promoción de mito-solar como ejemplo paradigmático.",
+      "quote_evidence": "Hércules es el héroe por excelencia del mito solar, pero Apolo es el arquetipo más genérico y abierto que engloba a todos los dioses solares,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-solar"
+    },
+    {
+      "surface_form": "Apolo",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Arquetipo solar más abierto. Integrado en la promoción de mito-solar como categoría central de la página (decir Apolo equivale a decir héroe en sentido amplio).",
+      "quote_evidence": "Apolo es un símbolo arquetípico mucho menos prototípico que Hércules: decir \"Apolo\" equivale a decir \"héroe\" en sentido amplio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-solar"
+    },
+    {
+      "surface_form": "Cristo",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Cristo articulado como cristalización monoteísta del arquetipo solar. Integrado en mito-solar y ya tematizado en mito-moderno-en-proxy (Pieza 6: Apolo + humanidad = Hércules; Apolo + lado oscuro de la magia = Dioniso).",
+      "quote_evidence": "Los padres de Clark son creyentes y piadosos; el mito de Apolo es el mito del Cristo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-solar"
+    },
+    {
+      "surface_form": "Hades (mitología griega)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mencionado como caso paralelo de antagonista funcional no maligno (Hades como Zod). Sin desarrollo monográfico — referencia comparativa para articular el rol de Zod.",
+      "quote_evidence": "Hades nunca fue un dios maligno en mitología: cumplía el papel que nadie quería hacer,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Olimpo (Kryptón como)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Analogía simbólica para describir Kryptón. Articulado como 'mismo elemento simbólico' pero sin promoción de Olimpo como página propia — es categoría mitológica genérica usada como herramienta interpretativa.",
+      "quote_evidence": "Kryptón y el Olimpo son el mismo elemento simbólico: un yo superior perteneciente a un mundo anterior,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Doomsday / Juicio Final",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulado como caso de gólem (abominación entre kryptoniano y humano que se vuelve contra la humanidad). Integrado en el contenido futuro de man-of-steel-2013-film. La categoría 'gólem como abominación' la cubre el nuevo mal-sin-forma del batch anterior.",
+      "quote_evidence": "Juicio Final es un gólem: abominación entre kryptoniano y humano que se vuelve contra la humanidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mal-sin-forma"
+    },
+    {
+      "surface_form": "Lex Luthor",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Caso de la variante 'autoridad' de la herida narcisista. Integrado en el update a herida-narcisista-en-proxy.",
+      "quote_evidence": "Lex Luthor encarna la herida narcisista con la autoridad: \"Dios se posiciona es intolerable que tengas tanto poder\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "herida-narcisista-en-proxy"
+    },
+    {
+      "surface_form": "Wonder Woman (tercera forma de la diosa)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionada como 'tercera forma de la diosa' que ayuda a Superman contra Doomsday. Sin análisis monográfico de la figura — referencia funcional.",
+      "quote_evidence": "La tercera forma de la diosa (Wonder Woman) le ayuda a enfrentarse a Juicio Final,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Batman (Justicia pragmática)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como contraste con Superman (justicia pragmática vs justicia de bien superior) y como pieza del arco arcano de la Templanza. Sin análisis dedicado de Batman como figura — referencia narrativa al rol en Man of Steel.",
+      "quote_evidence": "Batman representa la justicia pragmática tomada por propia mano vs. Superman como justicia de bien superior,",
+      "review_priority": "medium",
+      "review_priority_reason": "Batman es figura susceptible de análisis arquetípico propio. Si reaparece sustantivamente en otros vídeos, candidato a entity_work."
+    },
+    {
+      "surface_form": "Eugenesia (kryptoniana)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulada brevemente como categoría que encarna Zod (eliminar individuos no válidos, diseñar seres funcionales para el estado). Aplicada al análisis del antagonista, no desarrollada como concepto autónomo.",
+      "quote_evidence": "Zod representa la eugenesia: eliminar individuos no válidos y diseñar seres funcionales para el estado,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Tres padres arquetípicos (Jor-El, Zod, Jonathan Kent)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación específica del análisis de la película (Jor-El = ideal de gesta sobre el bien, Zod = ideal sobre control, Jonathan Kent = padre humano). Categoría operativa dentro de man-of-steel-2013-film, no concepto autónomo del corpus.",
+      "quote_evidence": "Jor-El pone el ideal de la gesta sobre el bien, Zod el ideal sobre el control, y Jonathan Kent es el padre humano,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "man-of-steel-2013-film"
+    },
+    {
+      "surface_form": "Sacrificio (como acto de fe)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "El speaker articula extensamente el sacrificio como pieza estructural del heroísmo (sacrificio del padre, salto de fe, sacrificio por bien superior). En este vídeo opera como categoría central, pero la articulación es aplicada al análisis de la película. Posible enriquecimiento futuro de mito-solar o individuation si reaparece como concepto autónomo.",
+      "quote_evidence": "El sacrificio del padre es un acto de fe absoluta: la fe tiene la fuerza de crear la realidad interna que permite sacrificarse,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación sostenida y pedagógica. Si se confirma en otros vídeos como marco propio (no análisis aplicado), candidato a concepto."
+    },
+    {
+      "surface_form": "Nihilismo (como negación del sacrificio)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Definición articulada del canal: 'el nihilismo contemporáneo consiste en la negación del sacrificio por un bien superior'. Apunte sustantivo pero embedido en la lectura de Man of Steel; no constituye articulación monográfica.",
+      "quote_evidence": "El nihilismo contemporáneo consiste en la negación del sacrificio por un bien superior,",
+      "review_priority": "medium",
+      "review_priority_reason": "Definición canal-específica del nihilismo distinta del uso filosófico estándar. Si reaparece en otros vídeos podría merecer página propia o enriquecer crítica al woke / consumismo."
+    },
+    {
+      "surface_form": "Salto de fe",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "El concepto de 'salto de fe' ya está articulado en mito-moderno-en-proxy en el contexto de Matrix ('el camino a la gnosis es un salto de fe indistinguible de una caída hacia la muerte'). En Man of Steel se aplica al sacrificio paterno. No merece página propia — es término operativo del marco gnóstico/heroico.",
+      "quote_evidence": "Superman se entrega a la humanidad porque \"todo empieza con un salto de fe\",",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Función paterna vs función materna (cómo vs por qué)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación interesante ('La función paterna dice el cómo, la función materna dice el por qué') pero embedida en la lectura del padre adoptivo y la madre biológica de Clark. Sin desarrollo monográfico como categoría psicológica autónoma.",
+      "quote_evidence": "La función paterna dice el cómo (\"busca un nuevo sol\") y la función materna dice el por qué (\"crea un mundo mejor\"),",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción operativa entre función paterna y materna. Si reaparece sistemáticamente, candidato a enriquecer mito-polar / individuation."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 2,
+    "promoted_updates": 6,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T12:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Man of Steel / El Hombre de Acero] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[mito solar] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

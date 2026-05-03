@@ -1,0 +1,499 @@
+{
+  "video_id": "X2c2a3mQBOs",
+  "video_title": "Análisis arquetípico Scott Pilgrim",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Scott Pilgrim vs The World (Edgar Wright, 2010)",
+      "canonical_guess": "scott-pilgrim-vs-the-world-2010-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 115,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La película es la versión masculina de lo que Barbie representó para el imaginario femenino,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La estructura es 7×3+1=22, correspondiente a los 22 Arcanos del tarot,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los siete exnovios son las siete fases por las que atravesó Ramona y que Scott debe comprender de ella,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El videojuego sustituye al cuento de hadas como ficción ideal para el abandono masculino de la infancia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 'análisis dedicado': vídeo monográfico de 115 min sobre Scott Pilgrim leído como contraparte masculina de Barbie y como caso paradigmático del aprendizaje masculino del Hieros Gamos. La película recibe lectura plot-by-plot mapeando los 7 exnovios a los 7 pecados capitales, las 3 fases de color de Ramona (verde-codependiente / azul-enamorada / rosa-independiente), Scott como Loco del tarot, y la estructura 7×3+1=22 sobre los 22 Arcanos. Ya citada con un chunk en hieros-gamos.md. Caso central del corpus para articular el videojuego como cuento masculino contemporáneo y la transformación de los tres instintos (fuerza→determinación, deseo→calma, dominio→ternura).",
+      "quote_evidence": "Cada fase del viaje del héroe gira en torno a la relación de Scott con lo femenino,"
+    },
+    {
+      "surface_form": "síndrome de Wendy (Scott Pilgrim como caso masculino análogo)",
+      "canonical_guess": "sindrome-wendy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Wendy representa a la joven ingenua cuya potencia imaginativa constituye una fuga de la realidad,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Aladín es el arquetipo del niño perdido real: un huérfano que ha perdido a la madre,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material genuinamente nuevo: el speaker articula la asimetría operativa entre el síndrome de Wendy (femenino — joven ingenua que idealiza al amante eterno aventurero) y su análogo masculino (no especular, solo análogo) — Aladín como joven Dios huérfano que idealiza la Diosa Blanca. Los análogos ocurren en la misma etapa del desarrollo pero significan cosas distintas. Pieza operativa para distinguir formas masculinas y femeninas de la idealización inmadura.",
+      "quote_evidence": "Los análogos masculinos y femeninos no son especulares ni superponibles, solo análogos,"
+    },
+    {
+      "surface_form": "viaje del héroe (Scott Pilgrim como Loco)",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Scott es el peregrino, el viajero, el Loco del tarot que emprende la aventura de la vida,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La apoteosis del héroe es enfrentarse a sí mismo para saber si es suficiente para ella,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — el viaje del héroe estructurado a través del aprendizaje de lo femenino (cada fase = un encuentro con una mujer que requiere aprender algo) ya está documentado en la página vía sección 'dos fases masculinas del monomito'. Scott Pilgrim aporta caso operativo del videojuego como cuento perfecto para el superyo masculino. El desarrollo va a scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "El videojuego sustituye al cuento de hadas como ficción ideal para el abandono masculino de la infancia,"
+    },
+    {
+      "surface_form": "hieros gamos (Scott Pilgrim como caso paradigmático masculino)",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 80,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Cada fase del viaje del héroe gira en torno a la relación de Scott con lo femenino,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada encuentro con una mujer requiere aprender algo; sin aprendizaje no puede avanzar,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página ya cita Scott Pilgrim con un solo chunk (27:56). El monográfico aporta el desarrollo completo: estructura 7×3+1=22 sobre los 22 Arcanos del tarot, los 7 pecados/exes como debilidades masculinas que pesaron sobre Ramona, las 3 fases de color de Ramona (codependiente verde / enamorada azul / independiente rosa) que Scott debe comprender, espada del poder del amor insuficiente, poder del autorrespeto como clave final. Material genuinamente nuevo y abundante.",
+      "quote_evidence": "La estructura es 7×3+1=22, correspondiente a los 22 Arcanos del tarot,"
+    },
+    {
+      "surface_form": "adgrediere masculino (tres instintos transformados: fuerza/Eros/dominio → determinación/calma/ternura)",
+      "canonical_guess": "adgrediere-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los instintos masculinos fundamentales son fuerza, Eros y dominio,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Scott tiene tres exnovias que representan tres formas de feminidad y tres dones que debe transformar: fuerza en determinación, deseo en calma, y dominio en ternura,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El ello corresponde a la parte biológica ancestral, siempre más femenina; el superyo es más cortical y masculino,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material genuinamente nuevo y foundational: (1) la enumeración explícita de los tres instintos masculinos fundamentales — fuerza, Eros, dominio — como triada arquetípica del adgrediere; (2) la transformación operativa de cada uno en su forma madura (fuerza→determinación, deseo→calma, dominio→ternura) como obra del aprendizaje del héroe en su recorrido por el femenino; (3) la articulación superyo-masculino vs ello-femenino como fundamento psíquico de la asimetría de canalizaciones. Pieza importante para enriquecer la página con la triada de instintos canalizables.",
+      "quote_evidence": "Scott tiene tres exnovias que representan tres formas de feminidad y tres dones que debe transformar: fuerza en determinación, deseo en calma, y dominio en ternura,"
+    },
+    {
+      "surface_form": "anima archetype (Diosa Blanca como idealización masculina)",
+      "canonical_guess": "anima-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La Diosa Blanca es la idealización mediada por la imaginación del joven, no por la realidad,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada hombre tiene un prototipo resumido de la mujer de sus sueños que siempre responde al arquetipo de Diosa Blanca,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — la 'Diosa Blanca' (en sentido del libro de Robert Graves ya recomendado en otro vídeo) como idealización masculina arquetípica del femenino. Se distingue operativamente de la waifu (autoengaño postmoderno con personaje falso): la Diosa Blanca es persona real idealizada. Material que enriquece la lectura del ánima como prototipo del femenino interior. Solo timestamp para retrieval.",
+      "quote_evidence": "La Diosa Blanca es la idealización mediada por la imaginación del joven, no por la realidad,"
+    },
+    {
+      "surface_form": "tarot arquetípico (Scott Pilgrim como recorrido 7×3+1=22)",
+      "canonical_guess": "tarot-arquetipico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Scott es el peregrino, el viajero, el Loco del tarot que emprende la aventura de la vida,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El tres de espadas del tarot Rider-Waite representa el conflicto absoluto y el cruce de caminos interior,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — Scott Pilgrim se mapea sobre los 22 Arcanos vía la fórmula estructural 7 fases × 3 colores + 1 boss final = 22. El desarrollo va a scott-pilgrim-vs-the-world-2010-film (variante del recorrido del tarot ya documentada para Man of Steel, Excalibur, Lady Halcón). Aquí solo timestamps para retrieval.",
+      "quote_evidence": "La estructura es 7×3+1=22, correspondiente a los 22 Arcanos del tarot,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo.",
+  "pending_updates": [
+    {
+      "page_id": "adgrediere-masculino",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el masculino se actualiza en cada generación vía cromosoma Y heredado del padre individual. La consecuencia teórica es que el femenino opera como **continuidad biológica de fondo** y el masculino como **discontinuidad selectiva** — una arquitectura asimétrica donde la pulsión adgrediente del varón es comprensible solo contra ese fondo femenino que la antecede y la sobrevive.",
+      "section_target": "",
+      "content_proposed": "\n\n## Los tres instintos masculinos canalizables: fuerza, Eros y dominio\n\nEl monográfico *Análisis arquetípico Scott Pilgrim* (115 min) articula la triada de instintos arquetípicos masculinos que el adgrediere canaliza, y la operación de transformación que el héroe debe completar para cada uno:\n\n> \"Los instintos masculinos fundamentales son fuerza, Eros y dominio,\"\n→ [Análisis arquetípico Scott Pilgrim (15:38)](https://youtu.be/X2c2a3mQBOs?t=938)\n\nLa pieza añade especificidad al adgrediere ya documentado (que opera como pulsión genérica a 'avanzar contra la oposición'): el adgrediere se cristaliza canónicamente en **tres modalidades de instinto** — fuerza (capacidad de imponerse físicamente), Eros (deseo sexual y energía vital), dominio (necesidad de jerarquía y territorio). La triada es operativa porque cada instinto tiene una forma cruda (que opera por sí sola en la psique no madura) y una forma transformada (resultado del aprendizaje del héroe en el recorrido por el femenino):\n\n> \"Scott tiene tres exnovias que representan tres formas de feminidad y tres dones que debe transformar: fuerza en determinación, deseo en calma, y dominio en ternura,\"\n→ [Análisis arquetípico Scott Pilgrim (1:44:00)](https://youtu.be/X2c2a3mQBOs?t=6240)\n\nLa correspondencia operativa:\n\n| Instinto crudo | Forma transformada | Operación |\n|---|---|---|\n| Fuerza | Determinación | la energía bruta se canaliza en propósito sostenido |\n| Eros / deseo | Calma | el impulso reactivo se contiene en presencia |\n| Dominio | Ternura | la necesidad jerárquica se invierte en cuidado |\n\nLa pieza es decisiva para el marco. El adgrediere no se canaliza simplemente buscando 'objeto épico' — se canaliza **transformando los tres instintos crudos en sus formas maduras** mediante el aprendizaje sucesivo del femenino (cada encuentro con una mujer revela una de las tres dimensiones a transformar). El recorrido completo del héroe masculino requiere las tres transformaciones; bloquear cualquiera produce un cuadro de adgrediere parcialmente desarrollado.\n\n## Superyo masculino y ello femenino: arquitectura psíquica de la asimetría\n\nEl mismo monográfico articula la base psicobiológica de la asimetría adgrediere/no-adgrediere documentada en otras secciones:\n\n> \"El ello corresponde a la parte biológica ancestral, siempre más femenina; el superyo es más cortical y masculino,\"\n→ [Análisis arquetípico Scott Pilgrim (15:38)](https://youtu.be/X2c2a3mQBOs?t=938)\n\n> \"La mujer inclinada al superyo tiende a la creación intelectiva y tecnológica; el hombre inclinado al ello es llevado por los instintos,\"\n→ [Análisis arquetípico Scott Pilgrim (15:38)](https://youtu.be/X2c2a3mQBOs?t=938)\n\nLa pieza precisa el sustrato freudiano del marco: el ello (parte biológica ancestral, pulsiones no elaboradas) tiene anclaje arquetípicamente femenino — el cuerpo, la continuidad biológica, los instintos preverbales; el superyo (córtex, normas internalizadas, proyecto) tiene anclaje arquetípicamente masculino — la mediación cortical, la regla, el plan. Toda psique mixta integra ambos polos, pero la asimetría estructural produce cuadros distintos cuando uno predomina sobre el otro: la mujer con superyo dominante deriva hacia la creación intelectiva (donde el adgrediere femenino se canaliza); el hombre con ello dominante queda capturado por los instintos crudos sin elaboración madura. La consecuencia para el cuadro adgrediere bloqueado: el bloqueo no es solo retirada de causas épicas (jaula de oro) ni solo eliminación del arquetipo ficcional masculino (Frozen) — es también **fallo de la operación cortical de transformación** de los tres instintos crudos en sus formas maduras. El videojuego funciona como cuento perfecto del superyo masculino precisamente porque ofrece arena segura para esa operación de transformación.\n\n> \"El videojuego sustituye al cuento de hadas como ficción ideal para el abandono masculino de la infancia,\"\n→ [Análisis arquetípico Scott Pilgrim (21:51)](https://youtu.be/X2c2a3mQBOs?t=1311)\n\nVer [[scott-pilgrim-vs-the-world-2010-film]] para la lectura completa de cómo cada uno de los siete pecados capitales/exes opera como variante específica de los instintos sin transformar.",
+      "wikilinks_introduced": [
+        "scott-pilgrim-vs-the-world-2010-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 938,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (15:38)](https://youtu.be/X2c2a3mQBOs?t=938)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 1311,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (21:51)](https://youtu.be/X2c2a3mQBOs?t=1311)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 6240,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (1:44:00)](https://youtu.be/X2c2a3mQBOs?t=6240)"
+        }
+      ],
+      "rationale": "Insert al final del cuerpo y antes de Lagunas. Material foundational: (1) enumeración explícita de los tres instintos masculinos canalizables (fuerza/Eros/dominio) como pieza dura del adgrediere ya documentado vagamente como pulsión a 'avanzar contra la oposición'; (2) la operación de transformación crudo→maduro como objeto del recorrido del héroe; (3) el sustrato superyo-masculino/ello-femenino como base psicobiológica de la asimetría. Material genuinamente nuevo y complementario.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-wendy",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Scott Pilgrim** — chunks: [03:31](https://youtu.be/X2c2a3mQBOs?t=211) · [04:31](https://youtu.be/X2c2a3mQBOs?t=271) · [07:34](https://youtu.be/X2c2a3mQBOs?t=454)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 211,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (03:31)](https://youtu.be/X2c2a3mQBOs?t=211)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 271,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (04:31)](https://youtu.be/X2c2a3mQBOs?t=271)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 454,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (07:34)](https://youtu.be/X2c2a3mQBOs?t=454)"
+        }
+      ],
+      "rationale": "Cita-only — el monográfico articula la asimetría operativa entre el síndrome de Wendy (femenino) y su análogo masculino (Aladín como joven Dios huérfano que idealiza la Diosa Blanca). Los análogos no son especulares pero ocurren en la misma etapa del desarrollo. El desarrollo va a scott-pilgrim-vs-the-world-2010-film y a anima-archetype.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Scott Pilgrim** — chunks: [21:51](https://youtu.be/X2c2a3mQBOs?t=1311) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:39:25](https://youtu.be/X2c2a3mQBOs?t=5965)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 1311,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (21:51)](https://youtu.be/X2c2a3mQBOs?t=1311)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 1676,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (27:56)](https://youtu.be/X2c2a3mQBOs?t=1676)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 5965,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (1:39:25)](https://youtu.be/X2c2a3mQBOs?t=5965)"
+        }
+      ],
+      "rationale": "Cita-only — Scott Pilgrim como caso operativo del videojuego como cuento perfecto del superyo masculino + apoteosis del héroe (enfrentarse a sí mismo). El desarrollo va a scott-pilgrim-vs-the-world-2010-film y al insert sobre tres instintos en adgrediere-masculino.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Scott Pilgrim** — chunks: [38:29](https://youtu.be/X2c2a3mQBOs?t=2309) · [1:32:22](https://youtu.be/X2c2a3mQBOs?t=5542) · [1:36:24](https://youtu.be/X2c2a3mQBOs?t=5784) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 2309,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (38:29)](https://youtu.be/X2c2a3mQBOs?t=2309)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 5542,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (1:32:22)](https://youtu.be/X2c2a3mQBOs?t=5542)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 5784,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (1:36:24)](https://youtu.be/X2c2a3mQBOs?t=5784)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 6240,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (1:44:00)](https://youtu.be/X2c2a3mQBOs?t=6240)"
+        }
+      ],
+      "rationale": "Cita-only — la página ya cita Scott Pilgrim con un chunk (27:56). Se añaden 4 chunks adicionales: la visión inicial de la Diosa, la insuficiencia del 'poder del amor' frente al 'poder del autorrespeto', y la estructura 7×3+1=22. Material que enriquece el caso ya documentado.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "anima-archetype",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Scott Pilgrim** — chunks: [09:35](https://youtu.be/X2c2a3mQBOs?t=575) · [38:29](https://youtu.be/X2c2a3mQBOs?t=2309) · [43:03](https://youtu.be/X2c2a3mQBOs?t=2583)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 575,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (09:35)](https://youtu.be/X2c2a3mQBOs?t=575)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 2309,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (38:29)](https://youtu.be/X2c2a3mQBOs?t=2309)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 2583,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (43:03)](https://youtu.be/X2c2a3mQBOs?t=2583)"
+        }
+      ],
+      "rationale": "Cita-only — la articulación de la 'Diosa Blanca' (Robert Graves) como idealización masculina arquetípica del femenino, distinguida operativamente de la waifu (autoengaño postmoderno con personaje falso). El desarrollo va a scott-pilgrim-vs-the-world-2010-film.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico Scott Pilgrim** — chunks: [26:25](https://youtu.be/X2c2a3mQBOs?t=1585) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 1585,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (26:25)](https://youtu.be/X2c2a3mQBOs?t=1585)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 1676,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (27:56)](https://youtu.be/X2c2a3mQBOs?t=1676)"
+        },
+        {
+          "video_id": "X2c2a3mQBOs",
+          "timestamp_seconds": 6240,
+          "cite_markdown": "[Análisis arquetípico Scott Pilgrim (1:44:00)](https://youtu.be/X2c2a3mQBOs?t=6240)"
+        }
+      ],
+      "rationale": "Cita-only — Scott Pilgrim aporta cuarto recorrido completo del tarot en obra cinematográfica (junto a Man of Steel, Excalibur, Lady Halcón) con fórmula estructural específica 7 fases × 3 colores + 1 boss = 22 Arcanos. El desarrollo va a scott-pilgrim-vs-the-world-2010-film.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Scott Pilgrim (protagonista)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Protagonista del filme. Su trayectoria como Loco del tarot que aprende a transformar los tres instintos masculinos crudos en sus formas maduras es el caso operativo central. Integrada en scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "Scott es el peregrino, el viajero, el Loco del tarot que emprende la aventura de la vida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "scott-pilgrim-vs-the-world-2010-film"
+    },
+    {
+      "surface_form": "Ramona Flowers",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Personaje femenino central — Diosa Blanca proyectada por Scott. Tres fases de color (verde-codependiente / azul-enamorada / rosa-independiente). Captura en scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "Ramona tiene tres fases de color: verde (codependiente tóxica), azul (enamorada) y rosa (independiente),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "scott-pilgrim-vs-the-world-2010-film"
+    },
+    {
+      "surface_form": "Los siete exnovios malvados (siete pecados capitales)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Estructura central del filme: Matthew Patel (pereza), Lucas Lee (vanidad), Todd Ingram (envidia), Roxie Richter (lujuria), gemelos Katayanagi (ira+gula), Gideon Graves (avaricia). Mapeo de las siete debilidades masculinas que pesaron sobre Ramona. Captura en scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "Corresponden a los siete pecados capitales: las siete debilidades masculinas que pesaron sobre Ramona,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "scott-pilgrim-vs-the-world-2010-film"
+    },
+    {
+      "surface_form": "Barbie (2023, comparación con Scott Pilgrim)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionada como contraparte femenina de Scott Pilgrim ('Barbie trataba del síndrome de la princesa Disney y las stasis que intentan aterrizar en el mundo real'). Sin análisis de la película Barbie en este vídeo — el speaker remite a un análisis previo de Barbie en otro lugar del corpus. Posible promote_new futuro como entity_work si se localiza el monográfico de Barbie.",
+      "quote_evidence": "Barbie trataba del síndrome de la princesa Disney y las stasis que intentan aterrizar en el mundo real sin conseguirlo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Barbie tiene aparentemente un análisis monográfico en otro vídeo del corpus. Si se localiza ese vídeo, candidato a entity_work paralelo a Scott Pilgrim (contraparte femenina del marco)."
+    },
+    {
+      "surface_form": "Aladín (como contraparte masculina de Wendy)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como caso paradigmático del 'niño perdido huérfano que idealiza a la mujer en las nubes'. Articulación del arquetipo masculino análogo a Wendy. Sin análisis monográfico de la película Aladdin en este vídeo. Captura como apoyo en sindrome-wendy.",
+      "quote_evidence": "Aladín es el arquetipo del niño perdido real: un huérfano que ha perdido a la madre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-wendy"
+    },
+    {
+      "surface_form": "Diosa Blanca (Robert Graves)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Categoría arquetípica del libro homónimo de Graves (ya recomendado en otro vídeo del corpus como referencia bibliográfica). Articulada como idealización masculina del femenino, distinguida operativamente de la waifu. Captura en anima-archetype y scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "La Diosa Blanca es la idealización mediada por la imaginación del joven, no por la realidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "Genio (de Aladdin) como superyó masculino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del Genio como equivalente masculino de Campanilla en el sentido estructural: superyo masculino vs ello femenino. Pieza ilustrativa que apoya la articulación del eje superyo-ello. Captura en adgrediere-masculino update.",
+      "quote_evidence": "El Genio es el superyo masculino que mediante la imaginación fantástica impulsa las aventuras del héroe,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "adgrediere-masculino"
+    },
+    {
+      "surface_form": "Videojuego como cuento perfecto del superyo masculino",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Tesis del canal: el videojuego sustituye al cuento de hadas como ficción ideal para el abandono masculino de la infancia (permite ejercer mecánicas del héroe — fuerza, estrategia, precisión — en ambiente seguro). Captura en scott-pilgrim-vs-the-world-2010-film y en adgrediere-masculino update. Posible synthesis futura sobre 'videojuego como cuento masculino' si reaparece transversalmente.",
+      "quote_evidence": "El videojuego sustituye al cuento de hadas como ficción ideal para el abandono masculino de la infancia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis sobre el rol pedagógico del videojuego en la psique masculina contemporánea. Si reaparece sustantivamente, candidato a concepto o synthesis."
+    },
+    {
+      "surface_form": "Espada del poder del amor / poder del autorrespeto",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Distinción articulada del filme: el poder del amor (querer estar con alguien) es insuficiente y conlleva objetificación; el poder del autorrespeto es la clave final ('renunciar al amor por decir la verdad y respetarse'). Captura en scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "Scott descubre que merece la pena renunciar al amor por decir la verdad y respetarse a sí mismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "scott-pilgrim-vs-the-world-2010-film"
+    },
+    {
+      "surface_form": "Tres de espadas del Tarot Rider-Waite",
+      "reason_code": "passing_mention",
+      "reason_detail": "Carta específica del Rider-Waite (no del Marsella) usada como anclaje simbólico de la estructura 7×3 = 21 + 1 boss = 22 Arcanos. Sin desarrollo del Rider-Waite per se. Captura en tarot-arquetipico y scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "El tres de espadas del tarot Rider-Waite representa el conflicto absoluto y el cruce de caminos interior,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico"
+    },
+    {
+      "surface_form": "Construcción del yo masculino a través del grupo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación: 'el yo masculino se construye mediante el feedback de los más cercanos, en contraste y apoyo mutuo'; 'en los hombres toda crítica es en realidad un apoyo'. Pieza que apoya la articulación del adgrediere y del aprendizaje masculino. Captura en scott-pilgrim-vs-the-world-2010-film y en adgrediere-masculino.",
+      "quote_evidence": "El yo masculino se construye mediante el feedback de los más cercanos, en contraste y apoyo mutuo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "adgrediere-masculino"
+    },
+    {
+      "surface_form": "Knives (primera pareja de Scott)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Personaje secundario del filme — 'la primera pareja que lo respetó de verdad' que ayuda a Scott en la batalla final. Captura en scott-pilgrim-vs-the-world-2010-film.",
+      "quote_evidence": "Vence a Gideon siendo auténtico, con la ayuda de Knives, la primera pareja que lo respetó de verdad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "scott-pilgrim-vs-the-world-2010-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 1,
+    "promoted_updates": 6,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T15:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Scott Pilgrim vs The World (Edgar Wright, 2010)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

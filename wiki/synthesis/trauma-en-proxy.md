@@ -162,3 +162,5 @@ La consecuencia operativa para la teoría del trauma articulada en la página: l
 - **Magia y Trauma** — chunks: [29:53](https://youtu.be/JNafno3jgHY?t=1793) · [33:26](https://youtu.be/JNafno3jgHY?t=2006) · [1:28:05](https://youtu.be/JNafno3jgHY?t=5285) · [1:31:07](https://youtu.be/JNafno3jgHY?t=5467) · [1:37:10](https://youtu.be/JNafno3jgHY?t=5830) · [1:39:43](https://youtu.be/JNafno3jgHY?t=5983)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [1:13:56](https://youtu.be/1WEQmzUM41M?t=4436)
 
+
+- **Análisis arquetípico Inside Out** — chunks: [1:48:40](https://youtu.be/V-ixEcJuLzw?t=6520) · [2:27:04](https://youtu.be/V-ixEcJuLzw?t=8824)

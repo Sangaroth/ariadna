@@ -254,9 +254,15 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 
 
 
+
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 
 
 - **El Gólem de Cobre** — chunks: [1:05:15](https://youtu.be/e3Aj775Rlw4?t=3915)
 - **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:00:18](https://youtu.be/PC5uw1s86eE?t=3618)
+- **Análisis arquetípico de Unicorn wars** — chunks: [2:05](https://youtu.be/fLfEbHPJNmU?t=125)
+- **Análisis arquetípico Scott Pilgrim** — chunks: [9:35](https://youtu.be/X2c2a3mQBOs?t=575) · [34:58](https://youtu.be/X2c2a3mQBOs?t=2098) · [38:29](https://youtu.be/X2c2a3mQBOs?t=2309) · [43:03](https://youtu.be/X2c2a3mQBOs?t=2583)
 
+
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [1:04:41](https://youtu.be/lOpCXo1pi2M?t=3881) · [1:19:29](https://youtu.be/lOpCXo1pi2M?t=4769) · [1:58:57](https://youtu.be/lOpCXo1pi2M?t=7137)

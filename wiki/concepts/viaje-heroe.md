@@ -97,6 +97,40 @@ El canal usa el monomito menos como descripción que como herramienta crítica. 
 Esta lectura convierte al viaje del héroe en una **prueba de autenticidad arquetípica**: si la identificación con el héroe no exige al espectador un coste interior análogo, la obra es ornamento, no vehículo de [[individuation|cambio alquímico]].
 
 
+
+## Inocencia vs ingenuidad: vara diagnóstica del aprendizaje heroico
+
+El monográfico *Análisis arquetípico Frozen* añade una distinción operativa al diagnóstico de obras fallidas: la diferencia entre **inocencia** (estado inicial del héroe genuino) e **ingenuidad** (estado pseudo-heroico que sustituye al héroe por la víctima):
+
+> "En la inocencia el héroe hace todo lo que puede y pide ayuda con lo que no comprende; el ingenuo cree que lo sabe todo,"
+→ [Análisis arquetípico Frozen (1:17:29)](https://youtu.be/NYZEm8mcPiQ?t=4649)
+
+La precisión es diagnóstica: el héroe inocente sabe que no sabe — opera con humildad activa que pide ayuda, recibe orientación, integra el aprendizaje. El ingenuo no sabe que no sabe — opera con seguridad pasiva que se cree completa, no pide ayuda, no aprende del escarmiento. La distinción permite distinguir el monomito genuino (donde la inocencia inicial es condición del aprendizaje) del [[camino-victima|camino de la víctima]] (donde la ingenuidad se preserva intacta y el escarmiento solo confirma la propia inocencia preexistente).
+
+La pieza completa la lectura del monomito como vara crítica: una obra falla no solo cuando carece de motivación interna (Harry Potter) ni cuando se trunca activamente (Vader, [[heroe-truncado|héroe truncado]]) sino también cuando **sustituye la inocencia por ingenuidad** — cuando el protagonista no aprende porque la obra no le ofrece la posibilidad estructural de aprender, solo la posibilidad de ser confirmado en lo que ya era.
+
+> "El héroe debería ser diferente al final que al principio pero aquí todo estaba bien como estaba: eran los demás los que no les dejaban ser,"
+→ [Análisis arquetípico Frozen (2:15:05)](https://youtu.be/NYZEm8mcPiQ?t=8105)
+
+La fórmula 'todo estaba bien como estaba: eran los demás los que no les dejaban ser' cifra exactamente el dispositivo: el problema no es el sujeto sino el mundo, y la salida no es la transformación interior sino la afirmación de la propia inocencia preexistente. El monomito queda vaciado por sustitución — donde el héroe debería emerger transformado, el ingenuo emerge confirmado.
+
+
+
+
+## El héroe truncado: la inversión del monomito
+
+El canal articula como categoría operativa el [[heroe-truncado|héroe truncado]] — la figura del **caballero negro** que recorre la forma externa del monomito pero cuya transformación deriva hacia la destrucción en lugar de la integración.
+
+> "El héroe truncado es el mismo arquetipo que Darth Vader en Star Wars: el viaje del héroe que sale mal,"
+→ [Análisis arquetípico de Unicorn wars (06:09)](https://youtu.be/fLfEbHPJNmU?t=369)
+
+> "El origen del caballero negro es una ira no canalizada vinculada al padre o a la madre,"
+→ [Análisis arquetípico de Unicorn wars (06:09)](https://youtu.be/fLfEbHPJNmU?t=369)
+
+Los casos canónicos que el canal articula — Darth Vader, Anakin, Azulín en [[unicorn-wars-2022-film|Unicorn Wars]] — comparten origen estructural: una ira no canalizada vinculada a la fractura paterna o materna. La pieza completa el marco diagnóstico de esta página: el monomito puede fracasar no solo por escapismo (Harry Potter, Peter Pan) sino por **truncamiento activo** — el héroe que aprende del mundo pero contra él.
+
+
+
 ## Las dos fases masculinas del monomito en la lectura del canal
 
 El canal articula una segmentación propia del viaje del héroe en clave masculina y madurativa, distinta de la enumeración campbelliana de etapas (llamada, umbral, vientre de la ballena, pruebas, apoteosis, regreso). El diagnóstico parte de una observación clínica: el hombre poco hombre tiene demasiada mente implícita — no ha volcado su interior en actos suficientes para conocerse desde fuera. La construcción del varón requiere recorrer dos fases consecutivas, cada una con su misterio propio.
@@ -193,11 +227,17 @@ La pieza importa para el marco de la página: el monomito como vara diagnóstica
 ## Lagunas
 
 - **Las fases campbellianas explícitas** (llamada, rechazo, mentor, umbral, vientre de la ballena, pruebas, apoteosis, regreso con el elixir) no aparecen enumeradas en este fragmento; el corpus las articula dispersamente en otros vídeos
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Versiones invertidas del viaje -->
 - **Versiones invertidas del viaje** (camino destructivo, antihéroe) merecen tratamiento propio — el canal las trabaja en lecturas de Matrix II/III y El Gran Lebowski pero no se desarrollan aquí
 - **Genealogía del concepto fuera de Campbell**: el canal no aborda en este fragmento las raíces del monomito en Frazer, Eliade o la mitología comparada anterior
 - **Distinción entre monomito y viaje del héroe junguiano**: Campbell y Jung no son idénticos; el canal los fusiona operativamente sin marcar la costura teórica
 
 ## Citations
+
+
+
+
+
 
 
 
@@ -220,4 +260,9 @@ La pieza importa para el marco de la página: el monomito como vara diagnóstica
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [5:30](https://youtu.be/Dtp1_RLb7S0?t=330) · [1:38:03](https://youtu.be/Dtp1_RLb7S0?t=5883)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [1:11:49](https://youtu.be/sTnxDjo1v3o?t=4309)
 - **What is a Charo?** — chunks: [2:19:48](https://youtu.be/qMfv4dX09Lg?t=8388)
+- **Análisis arquetípico de Unicorn wars** — chunks: [6:09](https://youtu.be/fLfEbHPJNmU?t=369)
+- **Análisis arquetípico El Hombre de Acero** — chunks: [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [37:29](https://youtu.be/HgLlH8Ta2qk?t=2249) · [39:30](https://youtu.be/HgLlH8Ta2qk?t=2370) · [41:01](https://youtu.be/HgLlH8Ta2qk?t=2461)
+- **Análisis arquetípico: Excalibur** — chunks: [0:33](https://youtu.be/daC37T5cbWs?t=33) · [7:38](https://youtu.be/daC37T5cbWs?t=458) · [1:31:59](https://youtu.be/daC37T5cbWs?t=5519)
+- **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [54:46](https://youtu.be/NYZEm8mcPiQ?t=3286) · [57:48](https://youtu.be/NYZEm8mcPiQ?t=3468) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
+- **Análisis arquetípico Scott Pilgrim** — chunks: [21:51](https://youtu.be/X2c2a3mQBOs?t=1311) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:39:25](https://youtu.be/X2c2a3mQBOs?t=5965)
 

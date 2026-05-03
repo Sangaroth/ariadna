@@ -114,7 +114,32 @@ Y desde el inicio de la película, el canal lee la canción como anunciación de
 
 ### La Sirenita: pareja unida vence monstruos
 
-> "Cuando ambos miran en la misma dirección y luchan juntos empiezan a vencer monstruos. Eric despojado de todo se sube a un barco fantasma (los errores de otros) y atraviesa a Úrsula con el bauprés. Ariel renuncia a Eric por amor: respetar la estructura de otra persona sabiendo que no estás preparado también es amor."
+> "Cuando ambos miran en la misma dirección y luchan juntos empiezan a vencer monstruos. Eric despojado de todo se sube a un barco fantasma (los errores de otros) y atraviesa a Úrsula con el bauprés. Ariel renuncia a Eric por amor: respetar la estructura de otra persona sabiendo que no estás preparado también es amor.
+
+
+
+### Man of Steel: la diosa afianza el dominio del héroe
+
+El análisis arquetípico de [[man-of-steel-2013-film|Man of Steel]] articula el caso Superman-Lois como hieros gamos donde la unión con la diosa **afianza el dominio del héroe** — no como apéndice romántico sino como pieza estructural de la potencia masculina solar.
+
+> "Superman reduce toda su fuerza a nada cuando está con Lois: la potencia de él y la fragilidad de ella se igualan en el amor,"
+→ [Análisis arquetípico El Hombre de Acero (1:29:43)](https://youtu.be/HgLlH8Ta2qk?t=5383)
+
+> "Jonathan Kent recuperó la fe en el mundo al conocer a la madre de Clark: la unión con la diosa afianza el dominio,"
+→ [Análisis arquetípico El Hombre de Acero (1:29:43)](https://youtu.be/HgLlH8Ta2qk?t=5383)
+
+La pieza añade una dimensión operativa al esquema general: el dominio del héroe no se cierra solo con la prueba solar (la lucha contra el oponente) — necesita la conjunción con la diosa para estabilizarse. La igualación de potencia y fragilidad en el amor es la operación cosmogónica que reduce la fuerza del héroe a nada y, al hacerlo, completa el ciclo.
+
+El descenso al Hades para salvar a Lois recapitula a Hércules:
+
+> "El paralelismo con Hércules bajando al Hades es directo: hacerse mortal para salvar a la diosa,"
+→ [Análisis arquetípico El Hombre de Acero (1:36:17)](https://youtu.be/HgLlH8Ta2qk?t=5777)
+
+> "Tú eres mi mundo: el último don del dios es la comprensión del dominio compartido con la diosa,"
+→ [Análisis arquetípico El Hombre de Acero (1:44:23)](https://youtu.be/HgLlH8Ta2qk?t=6263)
+
+La secuencia confirma que el hieros gamos en clave [[mito-solar|mito solar]] tiene su culminación en el reconocimiento del dominio compartido — el héroe no es héroe pleno hasta que comprende que su potencia solo se cierra con la diosa, no contra ella ni a su pesar.
+"
 → [La Sirenita, 2:13:32](https://youtu.be/8l__TS3ATNY?t=8012)
 
 ## Casos de hieros gamos truncado o invertido
@@ -128,7 +153,27 @@ El hieros gamos también funciona como **lente para detectar uniones disfunciona
 
 ### Eyes Wide Shut: el asalto al matrimonio como institución
 
-> "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente. Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes."
+> "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente. Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes.
+
+
+
+### Frozen: la sustitución del polar por bucle sororal
+
+El monográfico *Análisis arquetípico Frozen* articula una variante adicional del hieros gamos truncado: el dispositivo narrativo que **sustituye la conjunción polar por un bucle sororal entre iguales del mismo género**. La pieza opera como caso límite porque no es solo conjunción mal resuelta (como Drácula) ni asalto al matrimonio (como Eyes Wide Shut) — es la negación de la posibilidad misma del hieros gamos como horizonte deseable.
+
+> "La grandeza del amor en el Hieros Gamos es la complementariedad de dos cosas que no se conocen y conociéndose llegan a ser uno,"
+→ [Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)
+
+> "La película dice que el amor verdadero está en tus iguales como mujer y que cuanto más diferente a ti sea alguien más te engañará,"
+→ [Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)
+
+> "El único amor verdadero en la película es el de las dos hermanas porque todos los demás varones no valen,"
+→ [Análisis arquetípico Frozen (2:13:35)](https://youtu.be/NYZEm8mcPiQ?t=8015)
+
+La estructura invierte la operación arquetípica del hieros gamos. Donde la conjunción polar es **encuentro entre dos cosas que no se conocen y conociéndose llegan a ser uno** (la diferencia como condición de la integración), el bucle sororal es **refugio entre dos cosas que ya se conocen porque comparten estructura previa** (la igualdad como condición del consuelo). El primer movimiento es transformador (cambio cosmogónico); el segundo es conservador (homeostasis identitaria).
+
+La pieza completa el catálogo de inversiones: junto a la conjunción venenosa (Unicorn Wars), el asalto al matrimonio (Eyes Wide Shut) y la inversión satánica (Drácula), Frozen aporta la **negación pre-emptiva del hieros gamos** — el dispositivo narrativo que evita siquiera plantear el encuentro polar reemplazándolo por consuelo entre iguales. Es la modalidad postmoderna de la inversión: no se invierte el rito (como en Drácula), se cancela su posibilidad y se ofrece sustituto sororal como 'verdadero amor'.
+"
 → [Eyes Wide Shut, 30:52](https://youtu.be/olX_-KIziX0?t=1852)
 
 
@@ -199,8 +244,17 @@ Lectura antropológica del vínculo:
 
 
 
+
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [7:42](https://youtu.be/Tviv4PT0dv8?t=462) · [11:45](https://youtu.be/Tviv4PT0dv8?t=705) · [16:18](https://youtu.be/Tviv4PT0dv8?t=978) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
 - **Último Stream del Año** — chunks: [23:39](https://youtu.be/SSa1pF9Bw6U?t=1419)
+- **Análisis arquetípico Frozen** — chunks: [2:13:35](https://youtu.be/NYZEm8mcPiQ?t=8015)
 
+
+- **Análisis arquetípico La Bruja** — chunks: [1:55:35](https://youtu.be/rRlks0e0oxU?t=6935) · [2:24:30](https://youtu.be/rRlks0e0oxU?t=8670)
+- **Análisis arquetípico Scott Pilgrim** — chunks: [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [38:29](https://youtu.be/X2c2a3mQBOs?t=2309) · [1:32:22](https://youtu.be/X2c2a3mQBOs?t=5542) · [1:36:24](https://youtu.be/X2c2a3mQBOs?t=5784) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)
+
+
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [2:22:03](https://youtu.be/lOpCXo1pi2M?t=8523) · [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)

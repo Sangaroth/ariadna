@@ -143,8 +143,24 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 - Forma triada con [[mito-solar]] y [[mito-lunar]] como las tres estructuras mitológicas primarias del eje sexual cosmológico
 - En el plano contemporáneo, su lectura más recurrente del canal pasa por [[fight-club-1999-film]] (consumismo polar fallido), Matrix (mito polar tecnológico) y Tolkien (mito polar cosmogónico)
 
+
+
+### El polar oscuro: Unicorn Wars como cosmogonía polar fallida
+
+El análisis arquetípico de [[unicorn-wars-2022-film|Unicorn Wars]] articula la versión inversa del polar transformador: una cosmogonía polar **en clave oscura** donde la conjunción de lo masculino y lo femenino no produce un tercer ascendente sino una abominación venenosa. Lo azul (masculino) y lo rosa (femenino) se juntan al beber la sangre del último unicornio, pero como alma negra y sangre roja — una mala integración que engendra al hombre como resultado venenoso. La película no afirma que el hombre sea el mal absoluto: afirma que existe una posibilidad estructural — la mala conjunción polar — que lo convierte en ello.
+
+> "Es una cosmogonía polar pero en su versión oscura: el nacimiento del cosmos a través de la destrucción del equilibrio,"
+→ [Análisis arquetípico de Unicorn wars (1:51:20)](https://youtu.be/fLfEbHPJNmU?t=6680)
+
+> "La historia prototípica del cosmos es la polaridad entre amor y odio inseparablemente vinculados,"
+→ [Análisis arquetípico de Unicorn wars (00:00)](https://youtu.be/fLfEbHPJNmU?t=0)
+
+La pieza completa el catálogo de polares del corpus añadiendo el caso paradigmático de **polar fallido**: donde Tolkien y Matrix articulan la conjunción transformadora, Unicorn Wars articula la conjunción venenosa.
+
+
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Mito polar negativo o fallido -->
 - **Mito polar negativo o fallido**: el corpus se centra en el polar exitoso (conjunción). Apenas hay material sobre cuando la separación es irreversible y el mito queda truncado en la disolución
 - **Tradiciones no-occidentales**: el material recuperado se basa en mitología grecorromana, judeocristiana y germánica (Tolkien). Ausentes: el polar dao (yin/yang) que el canal podría articular, el polar mesoamericano (Quetzalcóatl/Coatlicue), el polar hindú (Shiva/Shakti)
 - **Crítica al esencialismo binario**: el canal subraya que masculino/femenino son cognitivos, no biológicos, pero no recoge las objeciones contemporáneas al modelo dipolar (¿qué pasa con experiencias no-binarias del género? ¿el dipolo es psíquicamente universal o cultural?)
@@ -157,8 +173,15 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 
 
 
+
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
 - **Último Stream del Año** — chunks: [23:39](https://youtu.be/SSa1pF9Bw6U?t=1419)
+- **Análisis arquetípico de Unicorn wars** — chunks: [1:51:20](https://youtu.be/fLfEbHPJNmU?t=6680)
+
+
+- **Análisis arquetípico: Excalibur** — chunks: [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)
 

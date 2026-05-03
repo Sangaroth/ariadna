@@ -231,3 +231,7 @@ La pieza completa la articulación de la tipología con los cinco casos diferenc
 
 
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444)
+
+- **Análisis arquetípico La Bruja** — chunks: [1:27:50](https://youtu.be/rRlks0e0oxU?t=5270) · [1:55:35](https://youtu.be/rRlks0e0oxU?t=6935) · [2:24:30](https://youtu.be/rRlks0e0oxU?t=8670)
+
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757) · [1:24:01](https://youtu.be/lOpCXo1pi2M?t=5041) · [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)

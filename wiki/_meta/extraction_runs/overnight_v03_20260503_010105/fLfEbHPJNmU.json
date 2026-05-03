@@ -1,0 +1,497 @@
+{
+  "video_id": "fLfEbHPJNmU",
+  "video_title": "Análisis arquetípico de Unicorn wars",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Unicorn Wars",
+      "canonical_guess": "unicorn-wars-2022-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 111,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La película no dice que el hombre sea el mal absoluto sino que existe una posibilidad que lo convierte en ello,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es una cosmogonía polar pero en su versión oscura: el nacimiento del cosmos a través de la destrucción del equilibrio,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 'análisis dedicado': vídeo monográfico de 111 min sobre la película. Aplica los marcos del canal (mito polar oscuro, héroe truncado, herida narcisista, génesis disfuncional, tres pecados originales) en lectura sostenida. Caso canónico de cosmogonía polar fallida — refuta laguna explícita de mito-polar.",
+      "quote_evidence": "El corazoncito en la \"i\" de Unicorn Wars es un detalle simbólico importante,"
+    },
+    {
+      "surface_form": "héroe truncado / caballero negro",
+      "canonical_guess": "heroe-truncado",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El héroe truncado es el mismo arquetipo que Darth Vader en Star Wars: el viaje del héroe que sale mal,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El origen del caballero negro es una ira no canalizada vinculada al padre o a la madre,"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "el héroe se trunca como Anakin al no soportar el amor,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 framing-mark + assumed-prior: el speaker invoca 'héroe truncado' y 'caballero negro' como arquetipo ya constituido del que da casos canónicos (Vader, Anakin, Azulín). Marca de inversión estructural del viaje del héroe — completa la laguna explícita de viaje-heroe sobre 'versiones invertidas'. La página integraría los varios casos del corpus que aplican la categoría.",
+      "quote_evidence": "Azulín no es psicópata sino un héroe truncado con un trauma fundamental,"
+    },
+    {
+      "surface_form": "mal sin forma / mal con forma",
+      "canonical_guess": "mal-sin-forma",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El mal con forma queda en la memoria y podemos defendernos; el mal sin forma es irreconocible e impredecible,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Por eso tememos la oscuridad: representa males que no tienen forma,"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "El ídolo de los monos es comparable al gólem y a Alien: la conjunción de vida y muerte en una abominación,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 framing-mark: el canal articula la distinción mal sin forma vs mal con forma como categoría operativa con casos canónicos (gólem, Alien, ídolo de Unicorn Wars, dragón). El 'mal sin forma' como peor mal posible (irreconocible, impredecible, conjunción vida/muerte) es la categoría que articula transversalmente el horror cósmico, el dragón, la abominación gnóstica.",
+      "quote_evidence": "El mal sin forma como el peor mal posible"
+    },
+    {
+      "surface_form": "mito polar (cosmogonía polar oscura)",
+      "canonical_guess": "mito-polar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es una cosmogonía polar pero en su versión oscura: el nacimiento del cosmos a través de la destrucción del equilibrio,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Esa posibilidad es la mala conjunción de lo masculino y lo femenino,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo aporta el caso paradigmático de polar oscuro/fallido — exactamente la laguna explícita declarada en mito-polar.md ('Mito polar negativo o fallido: el corpus se centra en el polar exitoso'). Material genuinamente nuevo: la mala conjunción como génesis del hombre venenoso.",
+      "quote_evidence": "Es una cosmogonía polar pero en su versión oscura: el nacimiento del cosmos a través de la destrucción del equilibrio,"
+    },
+    {
+      "surface_form": "viaje del héroe (forma truncada)",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El soldado es un héroe obligado que se resiste a la llamada y debe encontrar su propio motivo para combatir,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo articula la inversión del monomito (héroe truncado / caballero negro) — exactamente la laguna explícita declarada ('Versiones invertidas del viaje merecen tratamiento propio'). Material nuevo: la categoría operativa, el origen en ira no canalizada vinculada al padre/madre, casos canónicos Vader-Anakin-Azulín.",
+      "quote_evidence": "El héroe truncado es el mismo arquetipo que Darth Vader en Star Wars: el viaje del héroe que sale mal,"
+    },
+    {
+      "surface_form": "Génesis (tres pecados originales)",
+      "canonical_guess": "genesis-mitologico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los tres pecados originales representados en la película"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Primer pecado: la mujer traiciona a Dios en el bosque con la serpiente (la madre engaña al padre),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo articula los tres pecados originales como armazón estructural aplicado a la película — Génesis disfuncional en sentido destructivo. Refuta la laguna explícita ('Génesis fallidos o invertidos: el canal no tematiza qué sería un Génesis disfuncional'). Material genuinamente nuevo: la triada articulada de pecados como lectura aplicada.",
+      "quote_evidence": "Primer pecado: la mujer traiciona a Dios en el bosque con la serpiente (la madre engaña al padre),"
+    },
+    {
+      "surface_form": "herida narcisista (caso Azulín)",
+      "canonical_guess": "herida-narcisista-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Azulín manifiesta una herida narcisista: necesidad compulsiva de admiración y respuesta con ira cuando se le niega,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only: la página ya tiene definición clínica completa, transferencia hacia acosador, cabezonería, origen paterno. El caso Azulín no aporta dimensión clínica nueva — es aplicación a obra. Solo timestamp adicional para retrieval indirecto.",
+      "quote_evidence": "Azulín manifiesta una herida narcisista: necesidad compulsiva de admiración y respuesta con ira cuando se le niega,"
+    },
+    {
+      "surface_form": "demiurgo (gnosticismo)",
+      "canonical_guess": "gnosticismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only: la página gnosticismo ya cubre demiurgo, eones, Sofía, hipóstasis. La nueva pieza ('demiurgo como estadio intermedio comparable al titán Prometeo' + 'mezcla de demiurgos y humanos creó abominaciones') es apunte interesante pero brevísimo. Solo timestamp para retrieval.",
+      "quote_evidence": "El demiurgo es un estadio intermedio entre Dios y hombre, como el titán Prometeo,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo.",
+  "pending_updates": [
+    {
+      "page_id": "mito-polar",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Refutada por el análisis arquetípico de Unicorn Wars (cosmogonía polar oscura: la mala conjunción de lo masculino y lo femenino como génesis del hombre venenoso).",
+      "supersedes_laguna_text": "Mito polar negativo o fallido",
+      "wikilinks_introduced": [
+        "unicorn-wars-2022-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 6680,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (1:51:20)](https://youtu.be/fLfEbHPJNmU?t=6680)"
+        }
+      ],
+      "rationale": "La laguna declara que falta material sobre 'cuando la separación es irreversible y el mito queda truncado en la disolución'. Unicorn Wars es exactamente eso: el polar termina en mala conjunción venenosa, no en hieros gamos.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "mito-polar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "En el plano contemporáneo, su lectura más recurrente del canal pasa por [[fight-club-1999-film]] (consumismo polar fallido), Matrix (mito polar tecnológico) y Tolkien (mito polar cosmogónico)",
+      "section_target": "",
+      "content_proposed": "\n\n### El polar oscuro: Unicorn Wars como cosmogonía polar fallida\n\nEl análisis arquetípico de [[unicorn-wars-2022-film|Unicorn Wars]] articula la versión inversa del polar transformador: una cosmogonía polar **en clave oscura** donde la conjunción de lo masculino y lo femenino no produce un tercer ascendente sino una abominación venenosa. Lo azul (masculino) y lo rosa (femenino) se juntan al beber la sangre del último unicornio, pero como alma negra y sangre roja — una mala integración que engendra al hombre como resultado venenoso. La película no afirma que el hombre sea el mal absoluto: afirma que existe una posibilidad estructural — la mala conjunción polar — que lo convierte en ello.\n\n> \"Es una cosmogonía polar pero en su versión oscura: el nacimiento del cosmos a través de la destrucción del equilibrio,\"\n→ [Análisis arquetípico de Unicorn wars (1:51:20)](https://youtu.be/fLfEbHPJNmU?t=6680)\n\n> \"La historia prototípica del cosmos es la polaridad entre amor y odio inseparablemente vinculados,\"\n→ [Análisis arquetípico de Unicorn wars (00:00)](https://youtu.be/fLfEbHPJNmU?t=0)\n\nLa pieza completa el catálogo de polares del corpus añadiendo el caso paradigmático de **polar fallido**: donde Tolkien y Matrix articulan la conjunción transformadora, Unicorn Wars articula la conjunción venenosa.",
+      "wikilinks_introduced": [
+        "unicorn-wars-2022-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 6680,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (1:51:20)](https://youtu.be/fLfEbHPJNmU?t=6680)"
+        },
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 0,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (00:00)](https://youtu.be/fLfEbHPJNmU?t=0)"
+        }
+      ],
+      "rationale": "Insert_after_passage tras el inventario actual de aplicaciones canónicas (Fight Club, Matrix, Tolkien). El polar oscuro es categoría estructural ausente del cuerpo: aporta el caso paradigmático del fallo cosmogónico, no documentado en ninguna otra parte de la página.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Refutada por la articulación del 'héroe truncado' / 'caballero negro' en el análisis arquetípico de Unicorn Wars (Vader, Anakin, Azulín como casos canónicos del viaje que sale mal).",
+      "supersedes_laguna_text": "Versiones invertidas del viaje",
+      "wikilinks_introduced": [
+        "heroe-truncado",
+        "unicorn-wars-2022-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 369,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (06:09)](https://youtu.be/fLfEbHPJNmU?t=369)"
+        }
+      ],
+      "rationale": "La laguna declara que las 'versiones invertidas del viaje (camino destructivo, antihéroe) merecen tratamiento propio'. La categoría 'héroe truncado' articulada aquí cubre justo eso. Quedará referenciada via wikilink a la nueva página heroe-truncado.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta lectura convierte al viaje del héroe en una **prueba de autenticidad arquetípica**: si la identificación con el héroe no exige al espectador un coste interior análogo, la obra es ornamento, no vehículo de [[individuation|cambio alquímico]].",
+      "section_target": "",
+      "content_proposed": "\n\n## El héroe truncado: la inversión del monomito\n\nEl canal articula como categoría operativa el [[heroe-truncado|héroe truncado]] — la figura del **caballero negro** que recorre la forma externa del monomito pero cuya transformación deriva hacia la destrucción en lugar de la integración.\n\n> \"El héroe truncado es el mismo arquetipo que Darth Vader en Star Wars: el viaje del héroe que sale mal,\"\n→ [Análisis arquetípico de Unicorn wars (06:09)](https://youtu.be/fLfEbHPJNmU?t=369)\n\n> \"El origen del caballero negro es una ira no canalizada vinculada al padre o a la madre,\"\n→ [Análisis arquetípico de Unicorn wars (06:09)](https://youtu.be/fLfEbHPJNmU?t=369)\n\nLos casos canónicos que el canal articula — Darth Vader, Anakin, Azulín en [[unicorn-wars-2022-film|Unicorn Wars]] — comparten origen estructural: una ira no canalizada vinculada a la fractura paterna o materna. La pieza completa el marco diagnóstico de esta página: el monomito puede fracasar no solo por escapismo (Harry Potter, Peter Pan) sino por **truncamiento activo** — el héroe que aprende del mundo pero contra él.",
+      "wikilinks_introduced": [
+        "heroe-truncado",
+        "unicorn-wars-2022-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 369,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (06:09)](https://youtu.be/fLfEbHPJNmU?t=369)"
+        }
+      ],
+      "rationale": "Insert tras la sección de 'viaje como diagnóstico de obras fallidas' donde se articula el monomito como vara crítica. El héroe truncado es la modalidad de fracaso activo (no escapista) — categoría ausente y complementaria al diagnóstico ya documentado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "genesis-mitologico",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Refutada por la lectura de Unicorn Wars como Génesis disfuncional (los tres pecados originales aplicados a la película, conjunción polar venenosa como cosmogonía destructiva).",
+      "supersedes_laguna_text": "Génesis fallidos o invertidos",
+      "wikilinks_introduced": [
+        "unicorn-wars-2022-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 5313,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)"
+        }
+      ],
+      "rationale": "La laguna declara que 'el canal no tematiza qué sería un Génesis disfuncional — un relato de origen que no produce catarsis psicológica o que la produce en sentido destructivo'. Unicorn Wars es exactamente eso: cosmogonía cuya catarsis es la destrucción del equilibrio polar.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "genesis-mitologico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Como mito que sabe lo que hace, el Génesis se inscribe del lado de la [[mitologia-propia-impropia|mitología propia]]: autorreferencial respecto a las representaciones mentales que lo elaboran.",
+      "section_target": "",
+      "content_proposed": "\n\n## Génesis disfuncional: los tres pecados originales en Unicorn Wars\n\nEl análisis arquetípico de [[unicorn-wars-2022-film|Unicorn Wars]] articula los tres pecados originales del Génesis bíblico como armazón estructural de la película — un caso de **Génesis cuya catarsis se cumple en sentido destructivo**:\n\n> \"Primer pecado: la mujer traiciona a Dios en el bosque con la serpiente (la madre engaña al padre),\"\n→ [Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)\n\n> \"Segundo pecado: el hombre echa la culpa a la mujer (azulín culpa a la madre de su dolor),\"\n→ [Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)\n\n> \"Tercer pecado: Caín y Abel (azulín mata a gordi con una piedra),\"\n→ [Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)\n\nLa triada opera como armazón completo: traición original → desplazamiento de culpa → fratricidio. Unicorn Wars la actualiza obra-por-obra, mostrando que el Génesis puede operar como categoría tanto de la conjunción exitosa (Tolkien) como de la disolución (la mala conjunción polar de Unicorn Wars que engendra al hombre como abominación). Es el caso complementario al Génesis tolkieniano: donde la Música de los Ainur articula la emanación armónica desde el Uno, los tres pecados articulan el Génesis del hombre como mala integración.",
+      "wikilinks_introduced": [
+        "unicorn-wars-2022-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 5313,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (1:28:33)](https://youtu.be/fLfEbHPJNmU?t=5313)"
+        }
+      ],
+      "rationale": "Insert tras el cierre de 'Conexión con otros conceptos' (donde la página articula el Génesis como mito propio autorreferencial) y antes de Lagunas. El material aporta la dimensión disfuncional del Génesis — categoría ausente en el cuerpo, complementaria al Génesis tolkieniano ya documentado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico de Unicorn wars** — chunks: [28:56](https://youtu.be/fLfEbHPJNmU?t=1736) · [33:28](https://youtu.be/fLfEbHPJNmU?t=2008)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 1736,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (28:56)](https://youtu.be/fLfEbHPJNmU?t=1736)"
+        },
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 2008,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (33:28)](https://youtu.be/fLfEbHPJNmU?t=2008)"
+        }
+      ],
+      "rationale": "Cita-only — prosa ya cubierta exhaustivamente (definición completa, transferencia, colusión, origen paterno, cabezonería). Caso Azulín no aporta dimensión clínica nueva pero el timestamp permite retrieval indirecto desde chunks raw del vídeo.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "gnosticismo",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis arquetípico de Unicorn wars** — chunks: [22:53](https://youtu.be/fLfEbHPJNmU?t=1373)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "fLfEbHPJNmU",
+          "timestamp_seconds": 1373,
+          "cite_markdown": "[Análisis arquetípico de Unicorn wars (22:53)](https://youtu.be/fLfEbHPJNmU?t=1373)"
+        }
+      ],
+      "rationale": "Cita-only — la página ya cubre extensamente demiurgo, eones, hipóstasis. El apunte 'demiurgo como estadio intermedio comparable a Prometeo' es brevísimo y aplicado a una película; no justifica prosa nueva.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Darth Vader / Star Wars",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Caso canónico del 'héroe truncado' citado para anclar el arquetipo. La promoción de heroe-truncado integra esta referencia como ejemplo paradigmático.",
+      "quote_evidence": "El héroe truncado es el mismo arquetipo que Darth Vader en Star Wars: el viaje del héroe que sale mal,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Anakin Skywalker",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Otro caso del héroe truncado por incapacidad de soportar el amor. Integrado en la promoción de heroe-truncado.",
+      "quote_evidence": "el héroe se trunca como Anakin al no soportar el amor,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "El corazón de las tinieblas / Apocalypse Now",
+      "reason_code": "passing_mention",
+      "reason_detail": "Citados como modelo estructural de la misión al interior salvaje. Sin análisis sostenido de las obras — solo referencia narrativa al esquema 'descenso al horror'.",
+      "quote_evidence": "La misión replica la estructura de El corazón de las tinieblas / Apocalypse Now: adentrarse en lo salvaje para encontrar el horror,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Caín y Abel",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Mito bíblico utilizado como pieza de la triada de tres pecados originales. Integrado en el update a genesis-mitologico (tercer pecado).",
+      "quote_evidence": "Tercer pecado: Caín y Abel (azulín mata a gordi con una piedra),",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Alien",
+      "reason_code": "passing_mention",
+      "reason_detail": "Citado como caso comparable de 'mal sin forma' / abominación por conjunción de vida y muerte. Está en canonical_whitelist (auto_promote: true para entity_work) pero esta mención específica no es análisis sustantivo — es referencia comparativa. La cita queda integrada en la promoción del concepto mal-sin-forma.",
+      "quote_evidence": "El ídolo de los monos es comparable al gólem y a Alien: la conjunción de vida y muerte en una abominación,",
+      "review_priority": "medium",
+      "review_priority_reason": "Alien es canonical_whitelist auto_promote y no tiene página todavía. Esta mención es passing pero el wiki acumula evidencia para futura promoción.",
+      "enriches_concept": "mal-sin-forma"
+    },
+    {
+      "surface_form": "Gólem",
+      "reason_code": "passing_mention",
+      "reason_detail": "Citado como caso comparable de la abominación (vida + muerte). El concepto del gólem ya tiene presencia transversal en el wiki vía golem-de-cobre (que es página de cognición/IA, no del gólem mítico). Aquí solo aparece como referencia comparativa.",
+      "quote_evidence": "El ídolo de los monos es comparable al gólem y a Alien: la conjunción de vida y muerte en una abominación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mal-sin-forma"
+    },
+    {
+      "surface_form": "Edén",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto mitológico genérico usado como categoría descriptiva del bosque de los unicornios. La definición ('lugar natural intocable donde no ha entrado la conciencia ni lo artificial') es operativa pero no articula tesis nueva — es caso de aplicación dentro del análisis arquetípico de la obra.",
+      "quote_evidence": "Un Edén es un lugar natural intocable donde no ha entrado la conciencia ni lo artificial,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Demiurgo / Prometeo",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Demiurgo ya cubierto en gnosticismo.md; Prometeo ya cubierto en mito-polar.md. La conexión 'demiurgo como Prometeo' es apunte breve que se captura como cita-only en gnosticismo.",
+      "quote_evidence": "El demiurgo es un estadio intermedio entre Dios y hombre, como el titán Prometeo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo"
+    },
+    {
+      "surface_form": "Patriarcado / matriarcado (osito vs unicornio)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La distinción opera dentro de la lectura polar (lo masculino patriarcal construye lo civilizatorio, lo femenino matriarcal sostiene lo natural). Queda integrada en el update a mito-polar y en el contenido futuro de unicorn-wars-2022-film. No merece página propia — es aplicación del marco polar.",
+      "quote_evidence": "Los ositos representan el patriarcado: la salida de lo salvaje hacia ciudades, jerarquías y religiones,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Fe perniciosa vs fe trascendente",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "El speaker articula una distinción interesante (la fe trascendente opera donde la razón no sirve; la perniciosa sustituye lo racionalizable). Pero es articulación contenida en este vídeo aplicado al análisis de la religión osito. Sin recurrencia confirmada en otros vídeos — posible promote futuro si reaparece.",
+      "quote_evidence": "La fe perniciosa sustituye lo racionalizable y aleja de lo real,",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción articulada con claridad pedagógica. Si se confirma en otros vídeos del corpus podría merecer página propia (concept tipo proxy.contemporary o synthesis)."
+    },
+    {
+      "surface_form": "Fundamentalismo religioso",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición breve ('reducción a los simplismos de la literalidad de la doctrina') aplicada al cuadro de la civilización osito. Sin desarrollo monográfico — captable en futura síntesis sobre religión y civilización.",
+      "quote_evidence": "El fundamentalismo es la reducción a los simplismos de la literalidad de la doctrina,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Religión civilizatoria (versión constructiva vs corrupta)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El speaker articula brevemente que 'la versión constructiva de las religiones elabora soluciones de cohesión; la corrupta canaliza odio'. Apunte de marco aplicado a la religión osito. No constituye articulación monográfica suficiente para página propia. Posible enriquecimiento futuro de liturgia-como-rito o consumismo-critica si reaparece.",
+      "quote_evidence": "La versión constructiva de las religiones elabora soluciones de cohesión; la corrupta canaliza odio,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Tres pecados originales",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación de los tres pecados originales queda integrada como sección nueva en genesis-mitologico (update_existing). No merece página propia — es lectura aplicada del Génesis al caso de Unicorn Wars, y su lugar editorial natural es la página del Génesis mitológico.",
+      "quote_evidence": "Los tres pecados originales representados en la película",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 3,
+    "promoted_updates": 8,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Unicorn Wars] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[héroe truncado / caballero negro] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[mal sin forma / mal con forma] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

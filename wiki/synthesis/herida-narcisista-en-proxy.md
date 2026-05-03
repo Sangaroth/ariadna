@@ -140,6 +140,18 @@ La pieza completa la mecánica de la transferencia ya documentada: el acosador n
 
 
 
+### La variante autoridad: cuando la herida se organiza contra el poder
+
+El análisis arquetípico de [[man-of-steel-2013-film|Man of Steel]] articula una modalidad específica de la herida narcisista cuya organización afectiva no es la deuda paterna ni el acoso prolongado sobre una víctima concreta, sino el **resentimiento estructural contra cualquier figura de autoridad o poder superior**. Lex Luthor opera como caso paradigmático:
+
+> "Lex Luthor encarna la herida narcisista con la autoridad: \"Dios se posiciona es intolerable que tengas tanto poder\","
+→ [Análisis arquetípico El Hombre de Acero (1:24:04)](https://youtu.be/HgLlH8Ta2qk?t=5044)
+
+La pieza precisa una variante operativa: el cuadro permanece narcisista (rencor con intereses, deuda no saldable) pero su objeto no es la figura paterna ni la pareja transferenciada, sino la mera existencia del otro como entidad poderosa o legitimada. El simple hecho de que alguien tenga autoridad — moral, política, ontológica — es vivido como afrenta personal. La estructura clínica explica el perfil del antagonista cultural: no busca corregir a la autoridad ni reemplazarla, busca destruirla porque su mera existencia humilla al sujeto. Es la versión cosmopolítica del mecanismo ya documentado en plano íntimo (acoso prolongado) y cognitivo (cabezonería) — la deuda exigida ahora es la abolición del que está por encima.
+
+
+
+
 ## Cabezonería como cuadro tipológico: tres componentes
 
 En un directo posterior el canal articula la cabezonería como cuadro psicológico estructurado por tres componentes simultáneos, donde la herida narcisista figura como una pieza junto al rasgo de personalidad y la dimensión obsesiva.
@@ -159,6 +171,35 @@ La pieza herida-narcisista del cuadro opera en plano cognitivo: la idea defendid
 → [Proxy T4, 4x01 "Piloto" (52:50)](https://youtu.be/ucOt-vQZ4Qw?t=3170)
 
 La cabezonería es persistencia rígida ligada al yo; la impulsividad es descarga afectiva sin objeto fijo. La pieza añade al cuadro clínico una manifestación cognitivo-rigidizadora del narcisismo herido — junto a la transferencia hacia el acosador y la colusión negativa de la víctima ya documentadas, queda una tercera modalidad: el blindaje intelectual de la posición propia como propiedad del yo.
+
+
+
+## Frozen como representación velada del cuadro: el empoderamiento como dispositivo narrativo
+
+En el monográfico *Análisis arquetípico Frozen* (173 min) el canal articula la película como una de las representaciones culturales más logradas del cuadro completo de la herida narcisista en formato accesible al gran público:
+
+> "Es una de las mejores representaciones veladas de la herida narcisista: una reina que no tiene reino, reina de sí misma y de nadie,"
+→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)
+
+La pieza diagnóstica precisa que el monográfico añade es la fórmula del **empoderamiento** como dispositivo narrativo del cuadro:
+
+> "El empoderamiento consiste en no arreglar nada de lo que te ha llevado a ser como eres pero decidir que nada de aquello te importa,"
+→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)
+
+La fórmula completa la mecánica del cuadro ya documentada (rencor con intereses, deuda no saldable, transferencia, cabezonería, variante autoridad): el empoderamiento es la modalidad **terminal** que cierra el cuadro sin resolverlo. El sujeto no integra la sombra ni asume el duelo del daño originario — declara que nada de aquello le importa y construye, sobre esa declaración, un castillo aislado donde no tendrá que sentir nunca más:
+
+> "Elsa construye otro yo de hielo que no va a sentir nunca más porque cuando siente la gente la culpabiliza,"
+→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)
+
+La estructura es exactamente la inversa de la individuación: en lugar de integrar la sombra rechazada por el entorno, el sujeto la **autotipifica** y se aísla con ella en un dominio donde nadie pueda culpabilizarla. La consecuencia diagnóstica completa la categoría — *reina que no tiene reino, reina de sí misma y de nadie* — el dominio se vuelve solipsista porque la operación de integración con el otro queda permanentemente cancelada.
+
+La pieza importa también porque articula el **mecanismo de identificación masiva** que vehicula el cuadro narrativamente:
+
+> "Disney consigue que toda persona con una idea de infancia en la que fue el centro incomprendido de un conflicto se identifique mágicamente con Elsa,"
+→ [Análisis arquetípico Frozen (1:14:27)](https://youtu.be/NYZEm8mcPiQ?t=4467)
+
+La identificación opera sobre el reservorio cultural-clínico de personas con la herida narcisista activa pero no clínicamente diagnosticada. La obra no produce el cuadro — lo activa donde estaba latente y le ofrece un dispositivo de auto-reconocimiento que sustituye la elaboración terapéutica por la consagración narrativa. La conexión con el [[camino-victima]] es estructural: el camino-víctima es la matriz narrativa donde la herida narcisista cuaja como destino del personaje, y obras como Frozen son la modalidad cultural masiva de su transmisión.
+
 
 
 
@@ -182,6 +223,9 @@ La cabezonería es persistencia rígida ligada al yo; la impulsividad es descarg
 
 
 
+
+
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
 - **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
@@ -193,4 +237,7 @@ La cabezonería es persistencia rígida ligada al yo; la impulsividad es descarg
 - **Twitchversario de Proxy** — chunks: [1:05:25](https://youtu.be/UBwUUOKf5UU?t=3925)
 - **Vacacioff: De la Sartén a Venezuela.** — chunks: [1:00:59](https://youtu.be/7quE-LPTPuE?t=3659)
 - **What is a Charo? (pt. 2)** — chunks: [41:03](https://youtu.be/xPB5l6KsU2Q?t=2463)
+- **Análisis arquetípico de Unicorn wars** — chunks: [28:56](https://youtu.be/fLfEbHPJNmU?t=1736) · [33:28](https://youtu.be/fLfEbHPJNmU?t=2008)
+- **Análisis arquetípico El Hombre de Acero** — chunks: [1:24:04](https://youtu.be/HgLlH8Ta2qk?t=5044)
+- **Análisis arquetípico Frozen** — chunks: [1:14:27](https://youtu.be/NYZEm8mcPiQ?t=4467) · [1:24:03](https://youtu.be/NYZEm8mcPiQ?t=5043) · [1:50:17](https://youtu.be/NYZEm8mcPiQ?t=6617) · [2:28:16](https://youtu.be/NYZEm8mcPiQ?t=8896)
 

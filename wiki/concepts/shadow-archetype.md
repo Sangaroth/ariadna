@@ -133,6 +133,31 @@ El caso Gisèle Pelicot — donde el marido drogó a su mujer durante casi 20 a�
 La pieza es operativa para el marco: la integración junguiana clásica de la sombra (reconocer la propia como prerrequisito de la individuación) opera en plano individual; este plano colectivo añade el componente institucional — qué entornos producen actualización masiva y cuáles la inhiben — y el componente epistémico — la sombra del otro puede ser estructuralmente invisible para quien comparte espacio con ella.
 
 
+
+## El chivo expiatorio: genealogía litúrgica de la proyección colectiva
+
+En el monográfico *Análisis arquetípico La Bruja* (182 min) el canal articula el mecanismo histórico-litúrgico mediante el cual las religiones institucionalizan la proyección de la sombra colectiva: el **chivo expiatorio** (azazel hebreo) y su persistencia en la creación de figuras demoníacas.
+
+> "El chivo expiatorio viene de la fiesta judía de la expiación donde se imponían las manos sobre la cabra que recibía todos los males,"
+→ [Análisis arquetípico La Bruja (1:03:01)](https://youtu.be/rRlks0e0oxU?t=3781)
+
+> "La representación demoníaca de Lucifer como cabra proviene del chivo negro (azazel) que recibía los pecados en esa celebración,"
+→ [Análisis arquetípico La Bruja (1:03:01)](https://youtu.be/rRlks0e0oxU?t=3781)
+
+La pieza añade al cuadro de la sombra colectiva el **mecanismo institucional preciso** que la opera: el rito litúrgico de transferir la sombra de la comunidad a un objeto/figura externo que puede ser sacrificado o expulsado. El gesto cumple función psíquica real (descarga colectiva de la sombra acumulada) sin requerir reconocimiento de la sombra como propia — la operación opera precisamente porque mantiene la fantasía de que el mal está fuera.
+
+> "La proyección o identificación proyectiva: cuando no reconoces el mal como parte tuya lo pones fuera y lo personificas en un objeto de odio,"
+→ [Análisis arquetípico La Bruja (1:36:57)](https://youtu.be/rRlks0e0oxU?t=5817)
+
+La lectura aplica el mecanismo a la modalidad protestante específica: la creación cultural de la **figura de la bruja** como objeto litúrgico de descarga de la sombra colectiva puritana, idéntica en estructura al rito hebreo del azazel:
+
+> "Es la personificación del mal idéntica a lo que hacen las religiones protestantes con demonios, cabras y brujas: creación de chivos expiatorios,"
+→ [Análisis arquetípico La Bruja (1:49:02)](https://youtu.be/rRlks0e0oxU?t=6542)
+
+La pieza importa para el marco porque cierra el flanco institucional de la sombra colectiva ya documentada (donde se articulaba 'qué entornos producen actualización masiva'): el chivo expiatorio es el dispositivo cultural específico que **canaliza institucionalmente la sombra colectiva** sin requerir su integración. Es el opuesto operativo de la integración junguiana — donde la individuación pide reconocer la sombra propia, el chivo expiatorio la externaliza ritualmente. Ambas son operaciones reales sobre la sombra; sólo una transforma al sujeto.
+
+
+
 ## Lugar en la tipología arquetipo / prototipo / estereotipo / autotipo
 
 El canal articula una tipología que sitúa la sombra en su nivel correcto:
@@ -163,7 +188,9 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029)
 - **Conspiración** — chunks: [12:26](https://youtu.be/K97ZzKXY0oI?t=746)
 - **What is a Charo?** — chunks: [1:54:36](https://youtu.be/qMfv4dX09Lg?t=6876)
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [1:51:23](https://youtu.be/lOpCXo1pi2M?t=6683)
 

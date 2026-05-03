@@ -214,6 +214,10 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
+
+
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -222,4 +226,8 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Stream Navidad 2025** — chunks: [51:22](https://youtu.be/hVfKOHEM_wU?t=3082) · [1:01:09](https://youtu.be/hVfKOHEM_wU?t=3669)
 - **Viernes terminal: Los sueños y Ariadna** — chunks: [1:33:15](https://youtu.be/H162q8kbtWI?t=5595)
 - **What is a Charo?** — chunks: [2:07:32](https://youtu.be/qMfv4dX09Lg?t=7652)
+- **Análisis arquetípico El Hombre de Acero** — chunks: [1:29:43](https://youtu.be/HgLlH8Ta2qk?t=5383) · [1:44:23](https://youtu.be/HgLlH8Ta2qk?t=6263)
+- **Análisis arquetípico: Excalibur** — chunks: [10:38](https://youtu.be/daC37T5cbWs?t=638)
+- **Análisis arquetípico Inside Out** — chunks: [26:45](https://youtu.be/V-ixEcJuLzw?t=1605)
+- **Análisis arquetípico Scott Pilgrim** — chunks: [15:38](https://youtu.be/X2c2a3mQBOs?t=938) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)
 

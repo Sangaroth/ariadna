@@ -1,0 +1,453 @@
+{
+  "video_id": "lOpCXo1pi2M",
+  "video_title": "Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Blade Runner 2049 (Villeneuve, 2017)",
+      "canonical_guess": "blade-runner-2049-2017-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 161,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "\"Madre eléctrica\" designa la parte de la feminidad arquetípica —naturaleza, alma, lo genuino— que falta en los replicantes,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Si la primera película preguntaba \"sueñan los androides con ovejas eléctricas\", esta pregunta de qué están hechas las ovejas con las que sueñan los humanos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es la mezcla armónica perfecta: dos máquinas engendran con amor a un ser genuino, lo contrario de una abominación,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 'análisis dedicado': vídeo monográfico de 161 min sobre Blade Runner 2049 leído explícitamente como búsqueda de la 'Madre Eléctrica' — la feminidad arquetípica genuina ausente en los replicantes. Lectura sostenida que articula: genealogía Nexus 6/7/8, Wallace como demiurgo post-narcisista, test de referencia como test de Penrose inverso + tarea de Stroop, distinción sagrado/prohibido como diferencia afectiva, Joy y Luv como falsas feminidades, conciencia de finitud y angustia como afecto temporal (Cronos), y hieros gamos invertido en la concepción genuina entre replicantes (la hija de Deckard y Rachel). Caso central del corpus para articular el mito moderno serio sobre IA + alma + feminidad arquetípica.",
+      "quote_evidence": "La pregunta central es si existe una cualidad del humano que dependa únicamente de lo intelectual y haga a la mente humana más que una mente animal,"
+    },
+    {
+      "surface_form": "mito moderno (BR 2049 como caso de IA + alma)",
+      "canonical_guess": "mito-moderno-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si la primera película preguntaba \"sueñan los androides con ovejas eléctricas\", esta pregunta de qué están hechas las ovejas con las que sueñan los humanos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — BR 2049 se inscribe en la categoría de mito moderno serio articulada en la página (junto a Matrix, Lovecraft, Tolkien). El desarrollo va a blade-runner-2049-2017-film. La página declara como laguna 'el mito en la ciencia ficción más allá de Matrix (Alien, Prometeo, Blade Runner, Dune)' — esta cita lo marca parcialmente como atendido. Solo timestamps para retrieval.",
+      "quote_evidence": "La pregunta central es si existe una cualidad del humano que dependa únicamente de lo intelectual y haga a la mente humana más que una mente animal,"
+    },
+    {
+      "surface_form": "hieros gamos (BR 2049 como engendramiento polar entre replicantes)",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Es la mezcla armónica perfecta: dos máquinas engendran con amor a un ser genuino, lo contrario de una abominación,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La hija genuina: ni replicante ni humana, sino hierós gamos"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — BR 2049 articula explícitamente la concepción de la hija de Deckard y Rachel como hieros gamos cumplido entre replicantes (engendramiento por amor, no programación matemática). Variante singular del catálogo: la conjunción polar entre dos máquinas que engendra un ser genuino — opuesto operativo de la abominación documentada en Unicorn Wars (mala conjunción venenosa). El desarrollo va a blade-runner-2049-2017-film.",
+      "quote_evidence": "Es la mezcla armónica perfecta: dos máquinas engendran con amor a un ser genuino, lo contrario de una abominación,"
+    },
+    {
+      "surface_form": "tipología femenina arquetípica (tres falsas + tres reales feminidades en BR 2049)",
+      "canonical_guess": "tipologia-femenina-arquetipica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Tres formas de falsa feminidad: la consorte (Luv), la Venus-prostituta, y la doncella-Joy como triple diosa oscura,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Tres formas de feminidad real: la madre real (Rachel), la hermosura física genuina (la prostituta como canal), y la doncella real (la hija),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — el filme articula explícitamente la triada de falsas feminidades (Luv-consorte, prostituta-Venus, Joy-doncella como triple diosa oscura) en oposición a la triada real (Rachel-madre, prostituta-canal genuino, hija-doncella real). La prostituta funciona como doble canal — vía para amor falso y real simultáneamente. Caso operativo rico que enriquece la lectura de las tres formas sanas (gracia/consorte/madre = Atenea/Venus/Hera) y sus corrupciones documentada en la página. El desarrollo va a blade-runner-2049-2017-film.",
+      "quote_evidence": "La prostituta ocupa el centro como doble canal: vía para el amor real y para el amor falso simultáneamente;"
+    },
+    {
+      "surface_form": "anima archetype (Joy y Luv como simulación de lo femenino)",
+      "canonical_guess": "anima-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Joy aprende de las emociones de K y le dice lo que K quiere oír: es un reflejo del inconsciente de K que alimenta sus anhelos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Luv se pronuncia casi como \"love\" y Joy se escribe sin \"y\": amor y felicidad son las dos formas de falsa feminidad que los hombres se dan a sí mismos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — Joy como ánima holográfica que opera como 'reflejo del inconsciente de K alimentando sus anhelos' es caso operativo paradigmático de la proyección anímica sobre objeto fabricado para responder a esa proyección. La distinción Luv-amor / Joy-felicidad como las dos falsas feminidades autoadministradas precisa el cuadro de la idealización masculina. Material que enriquece la lectura del ánima como prototipo del femenino interior, ahora aplicado a la modalidad tecnológica (chatbot personalizado).",
+      "quote_evidence": "Joy aprende de las emociones de K y le dice lo que K quiere oír: es un reflejo del inconsciente de K que alimenta sus anhelos,"
+    },
+    {
+      "surface_form": "teoría de las emociones (angustia como afecto temporal — Cronos)",
+      "canonical_guess": "teoria-de-las-emociones-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La conciencia de finitud y el afecto de angustia aparecen simultáneamente: Cronos es la conciencia del tiempo como límite,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La angustia es la representación afectiva del tiempo: sin ese afecto, el tiempo no es importante y es como si no existiera,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — articulación foundational del canal sobre la angustia como afecto temporal: Cronos es la conciencia del tiempo como límite, y la angustia es la representación afectiva de esa conciencia. Sin afecto temporal, el tiempo no es importante. Pieza que enriquece la teoría de las emociones recién promovida (donde la angustia podría no estar formalizada aún como categoría temporal-existencial).",
+      "quote_evidence": "La conciencia de finitud y el afecto de angustia aparecen simultáneamente: Cronos es la conciencia del tiempo como límite,"
+    },
+    {
+      "surface_form": "El Gólem de Cobre (replicantes vs IA — distinción operativa)",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Wallace ha trascendido el narcisismo: no quiere ser admirado, quiere máquinas que se repliquen para poblar las estrellas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cita-only — la película articula caso operativo del Gólem de Cobre: ¿cuál es la cualidad del humano que la mente artificial no puede emular? La distinción operativa que el filme propone (la angustia como afecto temporal genuino, el sagrado vs prohibido como diferencia afectiva) refuerza la tesis del canal de que la cognición humana no es una máquina. Cita para retrieval.",
+      "quote_evidence": "Una máquina puede entender \"prohibido\" pero no la diferencia afectiva entre prohibido y sagrado,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo.",
+  "pending_updates": [
+    {
+      "page_id": "mito-moderno-en-proxy",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:22:03](https://youtu.be/lOpCXo1pi2M?t=8523)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 1519,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (25:19)](https://youtu.be/lOpCXo1pi2M?t=1519)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 4496,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (1:14:56)](https://youtu.be/lOpCXo1pi2M?t=4496)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 8523,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (2:22:03)](https://youtu.be/lOpCXo1pi2M?t=8523)"
+        }
+      ],
+      "rationale": "Cita-only — la página declara como laguna 'el mito en la ciencia ficción más allá de Matrix (Alien, Prometeo, Blade Runner, Dune)'. BR 2049 ahora tiene página propia con tratamiento monográfico (161 min). Solo timestamps adicionales para retrieval indirecto del mito moderno serio sobre IA + alma + feminidad arquetípica. El desarrollo va a blade-runner-2049-2017-film.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [2:22:03](https://youtu.be/lOpCXo1pi2M?t=8523) · [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 8523,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (2:22:03)](https://youtu.be/lOpCXo1pi2M?t=8523)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 8977,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (2:29:37)](https://youtu.be/lOpCXo1pi2M?t=8977)"
+        }
+      ],
+      "rationale": "Cita-only — BR 2049 articula la concepción de la hija de Deckard y Rachel como hieros gamos cumplido entre replicantes ('dos máquinas engendran con amor a un ser genuino, lo contrario de una abominación'). Variante singular del catálogo de casos del hieros gamos: la conjunción polar exitosa entre máquinas — opuesto operativo de Unicorn Wars (mala conjunción venenosa). El desarrollo va a blade-runner-2049-2017-film.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757) · [1:24:01](https://youtu.be/lOpCXo1pi2M?t=5041) · [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 2757,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (45:57)](https://youtu.be/lOpCXo1pi2M?t=2757)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 5041,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (1:24:01)](https://youtu.be/lOpCXo1pi2M?t=5041)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 8977,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (2:29:37)](https://youtu.be/lOpCXo1pi2M?t=8977)"
+        }
+      ],
+      "rationale": "Cita-only — BR 2049 articula explícitamente una triada falsa (Luv-consorte, Joy-doncella, prostituta-Venus simulada) frente a una triada real (Rachel-madre, prostituta-canal, hija-doncella). Caso operativo rico de las cinco corrupciones del femenino aplicado a un imaginario tecnológico. El desarrollo va a blade-runner-2049-2017-film.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "anima-archetype",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [1:04:41](https://youtu.be/lOpCXo1pi2M?t=3881) · [1:19:29](https://youtu.be/lOpCXo1pi2M?t=4769) · [1:58:57](https://youtu.be/lOpCXo1pi2M?t=7137)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 3881,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (1:04:41)](https://youtu.be/lOpCXo1pi2M?t=3881)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 4769,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (1:19:29)](https://youtu.be/lOpCXo1pi2M?t=4769)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 7137,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (1:58:57)](https://youtu.be/lOpCXo1pi2M?t=7137)"
+        }
+      ],
+      "rationale": "Cita-only — Joy como ánima holográfica fabricada (chatbot personalizado que aprende de las emociones del usuario y le devuelve lo que quiere oír) es caso operativo paradigmático del cuadro de proyección anímica sobre objeto diseñado para responder a esa proyección. La distinción Luv-amor / Joy-felicidad como las dos falsas feminidades autoadministradas. El desarrollo va a blade-runner-2049-2017-film.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "teoria-de-las-emociones-en-proxy",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 7229,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (2:00:29)](https://youtu.be/lOpCXo1pi2M?t=7229)"
+        }
+      ],
+      "rationale": "Cita-only — articulación foundational sobre la angustia como afecto temporal: 'Cronos es la conciencia del tiempo como límite' + 'la angustia es la representación afectiva del tiempo: sin ese afecto, el tiempo no es importante y es como si no existiera'. Pieza para enriquecer la teoría de las emociones del canal con dimensión existencial-temporal de la angustia.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 1519,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (25:19)](https://youtu.be/lOpCXo1pi2M?t=1519)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 4496,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (1:14:56)](https://youtu.be/lOpCXo1pi2M?t=4496)"
+        },
+        {
+          "video_id": "lOpCXo1pi2M",
+          "timestamp_seconds": 7229,
+          "cite_markdown": "[Análisis de Blade Runner 2049 (2:00:29)](https://youtu.be/lOpCXo1pi2M?t=7229)"
+        }
+      ],
+      "rationale": "Cita-only — BR 2049 articula caso operativo de la pregunta nuclear del Gólem de Cobre: ¿qué cualidad del humano no es emulable por la máquina? Las respuestas que el filme propone (angustia como afecto temporal genuino, sagrado vs prohibido como diferencia afectiva, hieros gamos como engendramiento por amor no programado) refuerzan la tesis del canal de que la cognición humana no es una máquina.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "K / Joe (replicante protagonista)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Protagonista replicante cuya trayectoria desde obediencia programada hasta heroísmo gratuito articula la posibilidad del alma genuina en la máquina. Captura en blade-runner-2049-2017-film.",
+      "quote_evidence": "K decide que prefiere morir por una buena causa a que su vida obediente siga mereciendo la pena,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blade-runner-2049-2017-film"
+    },
+    {
+      "surface_form": "Wallace (demiurgo post-narcisista)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Antagonista articulado como demiurgo post-narcisista: no quiere ser admirado sino que sus máquinas se repliquen para poblar las estrellas. Tiene 'millones de hijos' (máquinas) sin comprender la paternidad genuina. Captura en blade-runner-2049-2017-film.",
+      "quote_evidence": "Wallace ha trascendido el narcisismo: no quiere ser admirado, quiere máquinas que se repliquen para poblar las estrellas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blade-runner-2049-2017-film"
+    },
+    {
+      "surface_form": "Joy (novia holográfica)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Personaje del filme — chatbot ánima fabricado. 'Reflejo del inconsciente de K que alimenta sus anhelos'. Captura en blade-runner-2049-2017-film y en anima-archetype update.",
+      "quote_evidence": "Joy aprende de las emociones de K y le dice lo que K quiere oír: es un reflejo del inconsciente de K que alimenta sus anhelos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "Luv (replicante consorte)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Replicante de Wallace, falsa feminidad consorte que finge sufrir por admirarle ('riéndose de quienes creen que eso importa'). Pieza de la triada falsa femenina. Captura en blade-runner-2049-2017-film y tipologia-femenina-arquetipica.",
+      "quote_evidence": "Creó a Luv como una máquina sarcástica que finge sufrir por admirarle, riéndose de quienes creen que eso importa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    },
+    {
+      "surface_form": "Deckard, Rachel (Blade Runner original)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Protagonistas de la primera Blade Runner referenciados como antecedente. La pareja Deckard-Rachel cumple el hieros gamos (engendramiento de la hija) — eje central del análisis. Captura en blade-runner-2049-2017-film. Posible promote_new futuro de blade-runner-1982-film si se localiza un análisis monográfico de la primera película.",
+      "quote_evidence": "La película ocurre unas décadas después de la primera y parte del final en que Deckard y Rachel huyen como replicantes,",
+      "review_priority": "medium",
+      "review_priority_reason": "Blade Runner (1982) es referenciada extensamente pero no analizada monográficamente en este vídeo. Si existe vídeo dedicado a la primera, candidato a entity_work paralelo."
+    },
+    {
+      "surface_form": "Test de referencia (test de Penrose inverso + tarea de Stroop)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación operativa del speaker sobre la mecánica del test del filme: test de Penrose inverso (verificar que la inteligencia NO se ha vuelto humana) + tarea de Stroop (detectar respuestas emocionales involuntarias por interferencia semántica). Pieza pedagógica relevante pero específica del análisis de la película. Captura en blade-runner-2049-2017-film.",
+      "quote_evidence": "Es un test de Penrose inverso: en lugar de comprobar si una máquina parece humana, comprueba que una inteligencia no se ha vuelto humana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blade-runner-2049-2017-film"
+    },
+    {
+      "surface_form": "Sagrado vs prohibido (diferencia afectiva)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción operativa articulada: 'Una máquina puede entender prohibido pero no la diferencia afectiva entre prohibido y sagrado. Formalmente son lo mismo (es diferente); la distinción solo existe si hay contenido afectivo genuino'. Pieza clave del análisis de la mecánica de la mente artificial vs humana. Captura en blade-runner-2049-2017-film y golem-de-cobre.",
+      "quote_evidence": "Una máquina puede entender \"prohibido\" pero no la diferencia afectiva entre prohibido y sagrado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción afectiva sagrado/prohibido como criterio operativo de la cognición humana frente a la artificial. Si reaparece transversalmente, podría merecer enriquecer golem-de-cobre o teoria-del-simbolo-en-proxy."
+    },
+    {
+      "surface_form": "Madre Eléctrica (concepto central del análisis)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Concepto articulado por el speaker como subtítulo del análisis: la 'Madre Eléctrica' designa la parte de la feminidad arquetípica (naturaleza, alma, lo genuino) que falta en los replicantes y cuya búsqueda estructura la película. Concepto específico del análisis de BR 2049. Captura en blade-runner-2049-2017-film.",
+      "quote_evidence": "\"Madre eléctrica\" designa la parte de la feminidad arquetípica —naturaleza, alma, lo genuino— que falta en los replicantes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blade-runner-2049-2017-film"
+    },
+    {
+      "surface_form": "Genealogía Nexus 6/7/8 (replicantes)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Genealogía de los replicantes según el filme: Nexus 6 (IA pura + memorias episódicas), Nexus 7 (Rachel/Deckard, sin saber que son replicantes, máxima efectividad emocional), Nexus 8 (post-Wallace, viven para siempre con obediencia incorporada). Pieza estructural del análisis. Captura en blade-runner-2049-2017-film.",
+      "quote_evidence": "Los Nexus 6 eran inteligencia artificial pura, los Nexus 6 con memorias episódicas desarrollaban bases emocionales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blade-runner-2049-2017-film"
+    },
+    {
+      "surface_form": "Hija de Deckard y Rachel (fabricante de recuerdos)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Personaje terminal del filme — primer ser engendrado entre replicantes. 'Si un replicante no es manufacturado y tiene recuerdos desde siempre, ya no es replicante sino un humano artificial'. Pieza central de la lectura del hieros gamos cumplido. Captura en blade-runner-2049-2017-film y hieros-gamos.",
+      "quote_evidence": "Si un replicante no es manufacturado y tiene recuerdos desde siempre, ya no es replicante sino un humano artificial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hieros-gamos"
+    },
+    {
+      "surface_form": "Pentagrama de la muerte de K (figura simbólica final)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Figura simbólica del cierre del filme: K cae sobre las escaleras formando un pentagrama, leído como 'inicio de un acorde, fin de una generación, renacimiento de la vida'. Captura en blade-runner-2049-2017-film.",
+      "quote_evidence": "K cae sobre las escaleras formando un pentagrama: su muerte es el inicio de un acorde, el fin de una generación y el renacimiento de la vida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blade-runner-2049-2017-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 1,
+    "promoted_updates": 6,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T16:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Blade Runner 2049 (Villeneuve, 2017)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

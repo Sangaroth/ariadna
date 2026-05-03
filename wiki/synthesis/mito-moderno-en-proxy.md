@@ -223,3 +223,9 @@ La tesis es estructural: el cristianismo cierra históricamente la producción d
 - **El mito en el videojuego** (Bloodborne aparece como herencia lovecraftiana, pero la dimensión específicamente lúdica del mito digital queda por desarrollar)
 - **La economía cultural del mito moderno** — cómo plataformas, franquicias y serialización degradan los mitos a `autotipo` (categoría del canal: prototipo vaciado de sentido moral)
 - **Crítica al mito moderno** — el canal habla de la deriva hacia "mitología impropia" en mucha cultura pop pero no la sistematiza
+
+## Citations
+
+- **Análisis arquetípico La Bruja** — chunks: [4:22](https://youtu.be/rRlks0e0oxU?t=262)
+
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:22:03](https://youtu.be/lOpCXo1pi2M?t=8523)

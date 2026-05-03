@@ -87,8 +87,37 @@ El mismo directo despliega una segunda cuaternidad —[[cuatro-formas-del-mal]] 
 
 El directo lo presenta como mapa del yo dentro de la lectura católica de la obra de Tolkien y del ciclo artúrico de [[excalibur-1981-film]], no como teoría general expuesta autónomamente.
 
+
+
+## La cuaternidad como mapeo a los cuatro palos del tarot
+
+El directo monográfico *Análisis arquetípico: Excalibur* añade un segundo mapeo de la cuaternidad — la correspondencia con los cuatro palos del [[tarot-arquetipico|tarot]]: espadas (intelecto/aire), copas (espíritu/agua), bastos (fuego/voluntad) y oros (tierra/material). El mapeo se aplica a las figuras del mito artúrico:
+
+> "Dos grandes ejes: el dragón (fuego y tierra) y la dama del lago (intelecto y espíritu),"
+→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)
+
+> "Excalibur es un don del espíritu que es el intelecto; el cáliz representa el espíritu fluido que se desborda,"
+→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)
+
+> "Arturo complementado por Lancelot (virtud del espíritu/copas) y Ginebra (complemento del intelecto/espadas),"
+→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)
+
+> "Merlín porta espadas y bastos (intelecto y fuego); Morgana es la contraparte maligna con espíritu vinculado a la tierra,"
+→ [Análisis arquetípico: Excalibur (1:33:00)](https://youtu.be/daC37T5cbWs?t=5580)
+
+El mapeo confirma que la cuaternidad opera como **dispositivo de lectura transversal**, no como articulación local. Donde el directo Excalibur+LOTR mapeaba a personajes tolkienianos (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra), este directo mapea a figuras artúricas vía los palos del tarot. Las dos lecturas son la misma cuaternidad bajo dos vehículos iconográficos distintos — el bestiario tolkieniano y los arcanos del tarot.
+
+La pieza importa también porque articula la **separación de los ejes** como operación cognitiva del héroe:
+
+> "Sacar la espada de la piedra significa separar los dos ejes del dragón y la dama del lago,"
+→ [Análisis arquetípico: Excalibur (1:37:02)](https://youtu.be/daC37T5cbWs?t=5822)
+
+El gesto inaugural del rey (extraer Excalibur de la tierra) cifra la separación de los dos ejes — el dragón (fuego+tierra como pasiones materiales) y la dama del lago (intelecto+espíritu como dones inmateriales). El héroe debe primero distinguir los cuatro elementos para luego integrarlos en la armonía completa de los cuatro palos. La cuaternidad opera así no como mapa estático sino como **secuencia operativa**: separar para luego integrar.
+
+
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: El esquema solo aparece documentado en el directo de Excalibur/LOTR; queda por v -->
 - El esquema solo aparece documentado en el directo de Excalibur/LOTR; queda por verificar si el canal mantiene esta cuaternidad como marco transversal en otros vídeos o si es articulación local de ese contexto católico-tolkieniano.
 - La relación explícita con la tipología junguiana clásica de funciones (pensamiento / sentimiento / intuición / sensación) no se formula en el corpus recuperado, aunque el paralelismo estructural es evidente.
 - La quintaesencia o éter —quinto elemento de la tradición alquímica— no aparece en este mapeo; queda abierto si el canal la integra en otro lugar como elemento de síntesis.
@@ -98,4 +127,3 @@ El directo lo presenta como mapa del yo dentro de la lectura católica de la obr
 
 
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [2:15:23](https://youtu.be/K082yiudh-g?t=8123)
-

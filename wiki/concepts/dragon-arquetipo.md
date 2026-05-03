@@ -171,9 +171,13 @@ Esto enmarca al dragón dentro de la articulación más amplia del [[genesis-mit
 
 
 
+
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [43:43](https://youtu.be/JmCqIk6NDsM?t=2623)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [20:26](https://youtu.be/s6teBboDDJ4?t=1226)
 - **Tolkien y los dragones** — chunks: [0:31](https://youtu.be/O-kzVFngjAQ?t=31) · [2:40](https://youtu.be/O-kzVFngjAQ?t=160) · [3:11](https://youtu.be/O-kzVFngjAQ?t=191) · [8:45](https://youtu.be/O-kzVFngjAQ?t=525) · [10:49](https://youtu.be/O-kzVFngjAQ?t=649) · [13:50](https://youtu.be/O-kzVFngjAQ?t=830) · [17:51](https://youtu.be/O-kzVFngjAQ?t=1071) · [20:23](https://youtu.be/O-kzVFngjAQ?t=1223) · [21:54](https://youtu.be/O-kzVFngjAQ?t=1314) · [27:58](https://youtu.be/O-kzVFngjAQ?t=1678) · [36:35](https://youtu.be/O-kzVFngjAQ?t=2195) · [39:08](https://youtu.be/O-kzVFngjAQ?t=2348) · [47:32](https://youtu.be/O-kzVFngjAQ?t=2852) · [52:36](https://youtu.be/O-kzVFngjAQ?t=3156) · [54:07](https://youtu.be/O-kzVFngjAQ?t=3247) · [57:43](https://youtu.be/O-kzVFngjAQ?t=3463) · [1:00:15](https://youtu.be/O-kzVFngjAQ?t=3615) · [1:16:29](https://youtu.be/O-kzVFngjAQ?t=4589) · [1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [47:32](https://youtu.be/K082yiudh-g?t=2852) · [1:48:26](https://youtu.be/K082yiudh-g?t=6506)
 - **Magia y Trauma** — chunks: [1:14:09](https://youtu.be/JNafno3jgHY?t=4449) · [1:28:05](https://youtu.be/JNafno3jgHY?t=5285) · [1:39:43](https://youtu.be/JNafno3jgHY?t=5983)
+- **Análisis arquetípico: Excalibur** — chunks: [17:41](https://youtu.be/daC37T5cbWs?t=1061) · [48:03](https://youtu.be/daC37T5cbWs?t=2883) · [1:03:09](https://youtu.be/daC37T5cbWs?t=3789) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580) · [1:37:02](https://youtu.be/daC37T5cbWs?t=5822)
+- **Análisis arquetípico Frozen** — chunks: [50:44](https://youtu.be/NYZEm8mcPiQ?t=3044)
 

@@ -203,7 +203,11 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 
 
 
+
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 - **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
+- **Análisis arquetípico La Bruja** — chunks: [51:26](https://youtu.be/rRlks0e0oxU?t=3086) · [59:28](https://youtu.be/rRlks0e0oxU?t=3568) · [1:17:07](https://youtu.be/rRlks0e0oxU?t=4627) · [1:41:29](https://youtu.be/rRlks0e0oxU?t=6089) · [1:52:33](https://youtu.be/rRlks0e0oxU?t=6753)
+- **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [2:10:39](https://youtu.be/lOpCXo1pi2M?t=7839)
 

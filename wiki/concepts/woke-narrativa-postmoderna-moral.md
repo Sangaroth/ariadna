@@ -367,3 +367,5 @@ El canal sitúa a Beauvoir en la cadena genealógica de la degeneración postmod
 - **T5 1x01: Piloto** — chunks: [59:13](https://youtu.be/6oOAZotwPQk?t=3553)
 - **Wokismo para Wokes.** — chunks: [18:20](https://youtu.be/Q83ieEVaF5I?t=1100) · [25:13](https://youtu.be/Q83ieEVaF5I?t=1513) · [30:15](https://youtu.be/Q83ieEVaF5I?t=1815) · [35:17](https://youtu.be/Q83ieEVaF5I?t=2117) · [40:22](https://youtu.be/Q83ieEVaF5I?t=2422) · [1:02:29](https://youtu.be/Q83ieEVaF5I?t=3749) · [1:19:16](https://youtu.be/Q83ieEVaF5I?t=4756) · [1:22:53](https://youtu.be/Q83ieEVaF5I?t=4973) · [1:25:25](https://youtu.be/Q83ieEVaF5I?t=5125) · [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215) · [1:28:26](https://youtu.be/Q83ieEVaF5I?t=5306) · [1:43:50](https://youtu.be/Q83ieEVaF5I?t=6230)
 
+
+- **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [1:11:25](https://youtu.be/NYZEm8mcPiQ?t=4285) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)

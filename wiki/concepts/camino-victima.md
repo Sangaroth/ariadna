@@ -106,8 +106,47 @@ Esta lectura conecta el camino de la víctima con el diagnóstico cultural más 
 - Caso paradigmático: [[harry-potter-saga]], que el canal usa como ejemplo nominador de la categoría
 - Diagnóstico cultural emparentado con [[consumismo-critica]]: estructura de telenovela y ficción juvenil masiva como producción industrial de la posición de víctima
 
+
+
+## Frozen como caso paradigmático en formato Disney
+
+El monográfico *Análisis arquetípico Frozen* (173 min) articula la película como segundo caso paradigmático del camino-víctima — junto a [[harry-potter-saga|Harry Potter]] — y precisa los mecanismos por los cuales la inversión opera específicamente en formato animación familiar.
+
+### La marca diagnóstica precisa: nacer bajo represión
+
+> "El héroe nunca nace bajo represión; quien nace bajo represión es la víctima, que es exactamente lo opuesto a un héroe,"
+→ [Análisis arquetípico Frozen (1:11:25)](https://youtu.be/NYZEm8mcPiQ?t=4285)
+
+> "El frío no es una virtud sino una maldición porque te obligan a reprimirla y nadie lo comprende: eso es lo que le pasa a las víctimas, no a los héroes,"
+→ [Análisis arquetípico Frozen (1:14:27)](https://youtu.be/NYZEm8mcPiQ?t=4467)
+
+La pieza añade una **vara diagnóstica precisa**: la represión como condición inicial del protagonista es marca de víctima, no de héroe. Donde el héroe sale al mundo desde la inocencia (con dones aún no probados) o desde la curiosidad ignorante, la víctima parte ya marcada por una maldición externa que el resto del mundo no comprende. Elsa porta este patrón en pureza: poder ilimitado desde el principio, sin merecimiento, vivido como maldición porque los demás (los padres represores) no lo aceptan.
+
+### Inversión del arquetipo paterno como mecanismo cultural
+
+El monográfico identifica una operación específica que el camino-víctima requiere para sostenerse en el formato Disney: la inversión del arquetipo paterno. Los padres no son figuras transmisoras de virtud (como en el [[viaje-heroe]] tradicional) sino represores que destruyen la posibilidad heroica:
+
+> "Disney destruye la estructura de los padres convirtiéndolos en ignorantes, asustados, censores e inútiles para la crianza,"
+→ [Análisis arquetípico Frozen (1:11:25)](https://youtu.be/NYZEm8mcPiQ?t=4285)
+
+La pieza es operativa: el camino-víctima no puede instaurarse si los padres operan como figuras paternas/maternas en sentido arquetípico (transmisión de virtud, contención, iniciación). Requiere su inversión previa — los padres como locus externo de injusticia que justifica la posición de víctima. La operación sirve a la activación de la [[herida-narcisista-en-proxy|herida narcisista]] del espectador: cualquier persona con memoria de infancia en la que se sintió incomprendido se identifica mágicamente con Elsa.
+
+### Empoderamiento sin aprendizaje: la salida pseudo-heroica
+
+A diferencia del héroe que termina transformado por las pruebas, el héroe-víctima Disney emerge sin haber aprendido nada — la transformación se sustituye por la decisión de no necesitar transformarse:
+
+> "El empoderamiento consiste en no arreglar nada de lo que te ha llevado a ser como eres pero decidir que nada de aquello te importa,"
+→ [Análisis arquetípico Frozen (1:50:17)](https://youtu.be/NYZEm8mcPiQ?t=6617)
+
+> "Ninguno de los dos héroes ha aprendido cómo ser mejor; el mensaje es que tienen que ser lo que siempre fueron y todo lo demás sobraba,"
+→ [Análisis arquetípico Frozen (2:15:05)](https://youtu.be/NYZEm8mcPiQ?t=8105)
+
+El empoderamiento Disney es la formalización narrativa de la posición de víctima como destino: el problema no es el sujeto sino el mundo, y la salida no es el cambio interior sino la afirmación de la propia inocencia preexistente. La pieza completa el diagnóstico de la categoría — el camino-víctima no termina en transformación heroica frustrada, termina en consagración de la posición inicial.
+
+
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Otros casos del corpus: el speaker menciona telenovelas y "Por 13 razones" como -->
 - **Otros casos del corpus**: el speaker menciona telenovelas y "Por 13 razones" como ejemplos pero el material recuperado no desarrolla esos análisis
 - **Genealogía histórica**: el canal lo califica de "profundamente postmoderno" pero no precisa cuándo emerge esta estructura ni qué predecesores literarios o psicológicos la habilitan
 - **Salida del camino de la víctima**: cómo se transita de víctima a héroe — qué intervención narrativa, terapéutica o cultural permitiría reconvertir esta posición
@@ -117,4 +156,3 @@ Esta lectura conecta el camino de la víctima con el diagnóstico cultural más 
 
 
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90)
-
