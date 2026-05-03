@@ -1,0 +1,258 @@
+{
+  "video_id": "UBwUUOKf5UU",
+  "video_title": "Twitchversario de Proxy",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "neurosis y trastornos de personalidad (definición técnica del canal)",
+      "canonical_guess": "neurosis-y-trastornos-personalidad-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La neurosis es una afección psíquica donde la percepción de la realidad causa conflicto con la realidad misma,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Diferencia entre enfermedad mental estricta (imposibilidad de contactar la realidad) y trastorno de personalidad (conflicto con la realidad sin perder contacto),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El constructo \"democracia\" funciona como una neurosis colectiva que no se corresponde con la realidad,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "thesis_candidate",
+      "decision_reason": "Bloque clínico-conceptual disperso en stream que articula la taxonomía psiquiátrica del canal: definición operativa de neurosis, distinción enfermedad mental / trastorno de personalidad / neurosis, neurosis colectivas (democracia), tres niveles de identificación con sufrimiento (poética / histriónica / psicótica), facticio vs iatrogénico. NO existe página dedicada a 'neurosis' en el wiki — yo-ego-autoestima cubre el aparato psíquico pero no esta taxonomía clínica. Marco como thesis_candidate con validación humana: la coherencia entre piezas es real pero están dispersas en un stream multitemático",
+      "quote_evidence": "Para ser neurosis debe pertenecer a la estructura de personalidad, no ser algo puntual,"
+    },
+    {
+      "surface_form": "excisión vs disociación / despersonalización (refinamiento clínico)",
+      "canonical_guess": "excision-disociacion-refinamiento",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La disociación separa procesos psíquicos que deberían ser un continuo de experiencia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "La página excision-psicologica declara como laguna explícita: 'No se desarrolla cómo se distingue operativamente una excisión sostenible de una disociación defensiva'. El video provee EXACTAMENTE esa distinción + introduce despersonalización como sub-tipo de disociación + articula la preferencia terminológica del canal por 'excisorio' sobre 'disociativo' aplicada al masking autista. Update con supersedes_laguna directo",
+      "quote_evidence": "Proxy prefiere \"excisorio\" sobre \"disociativo\" para describir el proceso revelado en el masking,"
+    },
+    {
+      "surface_form": "representación modular vs distribuida + falacia imaginaria 2+2=5",
+      "canonical_guess": "representacion-modular-distribuida",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 7,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las representaciones visuales integran ambos procesos simultáneamente,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El meme de 2+2=5 mediante composición gráfica de cifras es una falacia imaginaria,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento de la teoría del símbolo: distinción modular/distribuida en representaciones visuales (con pareidolia como caso paradigmático) + aplicación operativa de la distinción Q sub-i / Q sub-f al meme 2+2=5 como falacia imaginaria-formal. Va como update a teoria-del-simbolo-en-proxy",
+      "quote_evidence": "La pareidolia es consecuencia de este doble proceso: las formas inspiran al mismo tiempo de forma modular y distribuida,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay promote_new — el material foundational sobre neurosis va como thesis_candidate para que el humano decida si crear página propia o distribuir entre yo-ego-autoestima/herida-narcisista/consumismo-critica.",
+  "pending_updates": [
+    {
+      "page_id": "excision-psicologica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Se aplica como respuesta cuando el propio país deriva hacia un cuadrante del [[diagrama-de-proxy]] que uno rechaza, sin que ello obligue a renunciar al vínculo identitario.",
+      "content_proposed": "\n\n## La excisión como mecanismo psíquico: distinción frente a disociación y despersonalización\n\nEn el directo *Twitchversario de Proxy* (01 oct 2024) el canal articula explícitamente la distinción operativa entre excisión y disociación que esta página declaraba como laguna abierta, e introduce además la despersonalización como sub-tipo de disociación. La pieza es importante para la página: la 'excisión' como estrategia consciente sobre el vínculo identitario es solo una de las manifestaciones de un mecanismo psíquico más general — la **contemplación polarizada** — que opera tanto a nivel relacional (vínculo con país, familia) como a nivel intrapsíquico (relación con representaciones del propio yo o del entorno).\n\n### Excisión como contemplación polarizada\n\n> \"La excisión es contemplar algo de forma polarizada: solo amar u odiar devotamente, sin grises,\"\n→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)\n\nLa precisión amplía el alcance del término: la excisión no es solo la operación estratégica de retirar inversión libidinal de las metas del entorno, es la **forma estructural** que adopta cualquier polarización psíquica que renuncia al gradiente. La estrategia frente al país problemático opera como caso particular: amar el vínculo identitario y rechazar las metas del colectivo *sin grises intermedios*. La misma forma reaparece en otros registros — vínculos primarios donde se oscila entre devoción e ira, contemplación de figuras públicas, relación con la propia historia.\n\n### Disociación: distinción operativa\n\n> \"La disociación separa procesos psíquicos que deberían ser un continuo de experiencia,\"\n→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)\n\nLa distinción categorial entre excisión y disociación queda fijada: la excisión polariza la valencia (amor / odio sin grises) preservando la unidad del yo que contempla; la disociación fragmenta el continuo procesal mismo, separando piezas (representación / afecto, memoria / agencia, percepción / interpretación) que en el funcionamiento sano operan integradas. La excisión opera sobre el objeto contemplado; la disociación opera sobre el aparato contemplador. La diferencia no es de grado sino de plano.\n\n### Despersonalización como sub-tipo de disociación\n\n> \"La despersonalización es una disociación donde percibes tu entorno como si le pasara a otra persona,\"\n→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)\n\nLa pieza añade un caso clínico concreto: la despersonalización es la disociación específica donde se separa la experiencia (sigue ocurriendo) del *sí-mismo experienciador* (queda al margen, como observador externo). El sujeto sigue percibiendo el entorno pero el dato fenomenológico de 'esto me está pasando' queda separado. El cuadro contrasta con la excisión sana: en la excisión el sujeto sostiene la unidad del yo y polariza valencias; en la despersonalización el sujeto pierde el ancla del yo y observa la propia experiencia como ajena.\n\n### El masking autista: caso de uso del par excisorio/disociativo\n\n> \"Proxy prefiere \\\"excisorio\\\" sobre \\\"disociativo\\\" para describir el proceso revelado en el masking,\"\n→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)\n\nLa preferencia terminológica es operativa: el speaker analiza un testimonio de violencia obstétrica donde detecta signos compatibles con espectro autista leve (movimiento ocular, expresividad escindida, necesidad de texto preparado para comunicar lo inefable). El **masking** —traducir lo que se siente 'a humano' para hacerlo legible socialmente— produce un abismo entre expresión y contenido interno que tiene la *forma* de una disociación pero la *función* de una excisión: el sujeto polariza qué se muestra (versión legible para neurotípicos) frente a qué se preserva (experiencia interna que no encaja en categorías afectivas estándar) sin fragmentar la unidad del yo. La preferencia 'excisorio' sobre 'disociativo' captura esa diferencia funcional — el yo está intacto, lo que está separado son las dos caras del intercambio.\n\nLa pieza cierra parcialmente la laguna sobre el criterio diferencial entre excisión y disociación, y abre el alcance del término hacia procesos clínicos donde el canal mantiene la primacía analítica de la integridad del yo frente a las lecturas que reducen toda separación interna a fragmentación patológica.",
+      "section_target": null,
+      "supersedes_laguna_text": "No se desarrolla cómo se distingue operativamente una excisión sostenible de una *disociación* defensiva: ambas ponen distancia emocional, pero la disociación fragmenta el yo y la excisión preserva su integridad. El criterio diferencial queda implícito.",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "UBwUUOKf5UU",
+          "timestamp_seconds": 5288,
+          "cite_markdown": "[Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)"
+        }
+      ],
+      "rationale": "La página declara como laguna explícita la distinción operativa excisión/disociación. El vídeo provee literalmente esa distinción + introduce despersonalización como sub-tipo + amplía el alcance de 'excisión' como categoría psíquica general (no solo estrategia identitaria) + ofrece el caso clínico del masking autista como aplicación. supersedes_laguna directo. Insert_after_passage tras la sección 'Conexión con otros conceptos' es editorialmente correcto",
+      "editorial_intent": "supersede_laguna"
+    },
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El argumento cierra el flanco con simetría: si el pensamiento cabe en lenguaje, el constructivismo tiene razón; si solo el caudal de 12 bits/s cabe en metarrepresentación lingüística mientras el grueso de la matriz noética opera implícito, el constructivismo confunde el algoritmo de compresión con el contenido comprimido. La tesis del canal queda así polemizada — no solo articulada — frente a una tradición concurrente.",
+      "content_proposed": "\n\n## Refinamiento del componente imaginario: representación modular vs distribuida y la falacia imaginaria del meme 2+2=5\n\nEn el directo *Twitchversario de Proxy* (01 oct 2024) el canal precisa la mecánica interna de la componente imaginaria de la matriz N con dos piezas operativas: la doble vía por la que opera toda representación visual (modular y distribuida simultáneamente, con la pareidolia como caso paradigmático), y un caso operativo de cómo la confusión entre Q sub-i (imaginaria) y Q sub-f (formal) produce falacias categoriales — el meme 2+2=5.\n\n### Representación modular vs distribuida\n\nLa componente imaginaria opera por dos procesos complementarios que la página no había articulado por separado:\n\n> \"Representación modular: reconstruir algo a base de elementos ajenos ya montados (trocitos de otros algos),\"\n→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)\n\n> \"Representación distribuida: definir la forma desde algo difuso que se va concretando (niebla de ruido blanco que materializa la forma),\"\n→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)\n\n> \"Las representaciones visuales integran ambos procesos simultáneamente,\"\n→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)\n\nLa distinción es arquitectónica: la representación modular monta lo nuevo a partir de fragmentos ya representados (memoria de formas + composición), mientras la distribuida emerge de un sustrato difuso que se va concretando (niebla de ruido blanco que materializa). Toda imagen mental visual integra ambos vectores simultáneamente — no son procesos secuenciales ni alternativos.\n\n### La pareidolia como caso operativo del doble proceso\n\n> \"La pareidolia es consecuencia de este doble proceso: las formas inspiran al mismo tiempo de forma modular y distribuida,\"\n→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)\n\nLa pareidolia (ver caras en nubes, manchas, texturas) deja de ser anomalía perceptiva para convertirse en evidencia operativa de la doble vía: la nube ofrece simultáneamente fragmentos modulares (rasgos parciales que coinciden con módulos faciales almacenados) y un campo distribuido (mancha difusa que se concreta hacia la forma cara cuando la atención la integra). La pieza importa para la teoría del símbolo: el símbolo opera análogamente, evocando representaciones más complejas mediante la composición simultánea de elementos modulares (signos, fragmentos identificables) y campos distribuidos (atmósferas afectivas, contextos difusos). La pareidolia es el grado cero del símbolo — la forma mínima donde el doble proceso se hace fenomenológicamente accesible.\n\n### El meme 2+2=5 como falacia imaginaria\n\nLa segunda pieza es aplicación operativa de la distinción Q sub-i / Q sub-f al meme viral que pretende demostrar 2+2=5 mediante composición gráfica de cifras:\n\n> \"El meme de 2+2=5 mediante composición gráfica de cifras es una falacia imaginaria,\"\n→ [Twitchversario de Proxy (2:12:47)](https://youtu.be/UBwUUOKf5UU?t=7967)\n\n> \"Se están sumando formas (proceso imaginario) pero la suma es un proceso formal con elementos de categoría igual,\"\n→ [Twitchversario de Proxy (2:12:47)](https://youtu.be/UBwUUOKf5UU?t=7967)\n\nLa falacia opera por **confusión categorial entre dos componentes Q**: la suma como operación pertenece a Q sub-f (proceso formal sobre elementos del mismo género — números, no formas gráficas que aproximan números); el meme la presenta como Q sub-i (composición visual de trazos donde dos '2' superpuestos se ven como un '5'). La argumentación gráfica es legítima en su plano (sí, los píxeles encajan); la inferencia 2+2=5 es ilegítima porque transfiere una operación formal a la concatenación imaginaria sin que los elementos compartan categoría operatoria.\n\n> \"En teoría de grupos, 2+2=5 requeriría que el conjunto vacío fuera una operación unaria, lo cual no procede,\"\n→ [Twitchversario de Proxy (2:12:47)](https://youtu.be/UBwUUOKf5UU?t=7967)\n\nLa precisión formal cierra el caso: para que 2+2=5 fuera válido en teoría de grupos, el conjunto vacío tendría que comportarse como operación unaria — lo que viola el axioma de cierre. La falacia imaginaria no se refuta produciendo una mejor imagen; se refuta separando los planos operatorios. Variantes del mismo meme (cuadrados de Exit, grafos de Isu) operan con el mismo fundamento confuso: una operación de Q sub-f disfrazada de operación de Q sub-i.\n\nLa pieza es operativa para la teoría del símbolo del canal: muestra que la distinción de componentes Q no es solo descriptiva sino **discriminadora de validez** — permite identificar qué demostraciones aparentes son sofismas categoriales. El símbolo opera bien cuando ambas componentes coinciden en lo evocado; produce error cuando una se suplanta a la otra sin marca explícita.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "UBwUUOKf5UU",
+          "timestamp_seconds": 7169,
+          "cite_markdown": "[Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)"
+        },
+        {
+          "video_id": "UBwUUOKf5UU",
+          "timestamp_seconds": 7967,
+          "cite_markdown": "[Twitchversario de Proxy (2:12:47)](https://youtu.be/UBwUUOKf5UU?t=7967)"
+        }
+      ],
+      "rationale": "La página articula la tríada Q sub-f / sub-i / sub-a en abstracto y refina la componente imaginaria con afantasía, ceguera somática/cortical y metarrepresentación, pero NO documenta: (a) la distinción intra-imaginaria modular/distribuida, (b) la pareidolia como evidencia operativa del doble proceso, ni (c) el caso del meme 2+2=5 como aplicación operativa de la distinción Q sub-i / Q sub-f. Las tres piezas refinan operativamente la teoría sin solapamiento. Insert tras la sección 'Crítica al constructivismo lingüístico' es editorialmente correcto: cierra los refinamientos sucesivos del marco con un caso de aplicación operativa",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Tercer aniversario de Twitch y actualización personal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Aniversario del canal + anuncio del podcast (Peter Pan, Tolkien) + reflexión personal sobre cómo el canal le ha permitido pagarse estudios. Meta-canal puro sin contenido enciclopédico",
+      "quote_evidence": "Proxy celebra tres años en Twitch desde el 1 de octubre de 2021,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ataque de Irán a Israel con misiles balísticos",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario coyuntural sobre conflicto Israel-Irán (octubre 2024) sin marco arquetípico aplicado más allá de la sospecha sobre la cúpula de hierro como dispositivo de victimización geopolítica. Test cápsula del tiempo: retirando los nombres propios pierde valor",
+      "quote_evidence": "Irán lanzó entre 200 y 400 misiles balísticos contra territorio israelí,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El victimismo como estrategia política",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre victimismo identitario aplicado a feminismo, comunidades afroamericanas, gitanas. Conecta con camino-victima y herida-narcisista pero brevedad insuficiente para update sustantivo. La declaración 'arrogarse el sufrimiento de antepasados que no conociste como fundamento de reivindicación' es aforística",
+      "quote_evidence": "El mismo mecanismo opera en feminismo, comunidades afroamericanas y gitanas: \"el profe me tiene manía\" elevado a estrategia política,",
+      "review_priority": "high",
+      "review_priority_reason": "El victimismo identitario colectivo es exactamente la laguna declarada en herida-narcisista-en-proxy ('articulación con la dimensión sociopolítica del rencor narcisista colectivo, movimientos identitarios como herida narcisista grupal'). Si se acumula con material de otros vídeos podría justificar update o nueva synthesis",
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Impuestos, guerra y financiación del conflicto",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre industria armamentística y figura de Jake Sullivan. Coyuntural geopolítico sin marco aplicado",
+      "quote_evidence": "Toda ayuda que no va directamente a que no haya guerra sigue financiando la guerra,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Animatrix y la proyección trans en el corto El segundo renacimiento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo de proyección trans sobre obra cinematográfica + reiteración de la distinción disforia genuina vs conflictos de identidad leves. La distinción ya está extensamente documentada en fenomenologia-trans-en-proxy ('Disforia genuina vs problema de identidad'); el caso Animatrix es ilustrativo pero brevísimo",
+      "quote_evidence": "La disforia genuina es ontológicamente distinta de un complejo o problema de apreciación corporal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El poder político utiliza la herida narcisista como arma",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre instrumentalización política de la ira/herida narcisista + caracterización del Estado español como gobierno con monopolio de fuerza. Conecta con herida-narcisista y diagrama-de-proxy pero brevedad insuficiente",
+      "quote_evidence": "Los gobiernos y corporaciones utilizan la ira, el despecho y la herida narcisista para encontrar un enemigo a conveniencia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza recurrente del marco crítico del canal — vale acumular para futura tesis sobre instrumentalización política de mecanismos psíquicos",
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Análisis del testimonio de violencia obstétrica y autismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso clínico ilustrativo del masking autista — la pieza sustantiva (preferencia 'excisorio' sobre 'disociativo' en el masking) ya queda capturada en el pending_update a excision-psicologica. El caso obstétrico en sí mismo es coyuntural",
+      "quote_evidence": "En autismo las categorías afectivas de sufrimiento son diferentes a las neurotípicas; necesitan texto preparado para comunicar lo inefable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excision-psicologica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Zuckerberg y el blanqueo de imagen de Meta",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario coyuntural sobre estrategia de relaciones públicas de Meta + crítica a Instagram como vehículo de TCAs y depresión juvenil. La crítica al daño de las redes sociales sobre adolescentes está cubierta en otros vídeos del canal — aquí es passing",
+      "quote_evidence": "Sacaron Instagram a sabiendas de que era primera causa de aumento de TCAs y depresiones entre jóvenes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a la histeria femenina y al concepto de neurodivergencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tres piezas conceptuales breves: histeria femenina como constructo freudiano sin referente real + neurodivergente como término postmoderno sin contenido técnico + TEA como innato/congénito. Cada pieza es aforística sin desarrollo monográfico",
+      "quote_evidence": "\"Neurodivergente\" no significa nada técnicamente; es un término postmoderno para divergencias psiquiátricas estadísticas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Critica al término 'neurodivergente' es recurrente del canal — vale acumular si se desarrolla en monográfico",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Inteligencia artificial: crítica etimológica y definición de Turing",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La crítica a la analogía informática para procesos psicológicos + el test de Turing-Penrose como definición de IA están ya extensamente documentados en golem-de-cobre. La precisión etimológica ('algoritmos correlacionales' tampoco resuelve la confusión) es brevísima y no aporta prosa nueva sustantiva",
+      "quote_evidence": "Llamar \"algoritmos correlacionales\" a la IA no evita el problema: la misma crítica aplica a \"informática\" (no hay información, solo reconstrucción mental),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Documental sobre adicción a pantallas en adolescentes",
+      "reason_code": "passing_mention",
+      "reason_detail": "Datos coyunturales sobre uso del móvil + analogía 'un móvil requiere la misma responsabilidad que tener llaves de casa'. Conecta con consumismo-critica (degradación cultural) pero brevedad insuficiente para update",
+      "quote_evidence": "La media de uso a los 15 años es casi 7 horas diarias, equivalente a dos cursos y medio de instituto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T13:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

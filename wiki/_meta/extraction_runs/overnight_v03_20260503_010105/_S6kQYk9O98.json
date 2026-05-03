@@ -1,0 +1,179 @@
+{
+  "video_id": "_S6kQYk9O98",
+  "video_title": "Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "La extraña casa elevada entre la niebla (Lovecraft)",
+      "canonical_guess": "la-extrana-casa-elevada-entre-la-niebla-lovecraft",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "primary",
+      "minutes_estimate": 28,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lectura íntegra del cuento de H.P. Lovecraft ambientado en Kingsport,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cuento de H.P. Lovecraft leído ÍNTEGRO en directo. Cumple criterio scope.md §2.3 'Lectura íntegra en directo': la lectura completa ES contenido del corpus (transcripción del texto del autor en el video), promueve automáticamente como entity_work con read_in_session=true. El cuento aparece EXPLÍCITAMENTE listado en scope.md §2.3 entre los casos típicos de promoción automática ('cuentos de Lovecraft leídos completos en directo: La extraña casa elevada entre la niebla, El descendiente, Aire frío, El modelo de Pickman'). Lovecraft está además en canonical_whitelist como auto_promote=true vía as_author_of_sources>0. Hermana de las cuatro páginas Lovecraft ya existentes en wiki (aire-frio, el-descendiente, en-la-cripta, el-modelo-de-pickman)",
+      "quote_evidence": "Lectura íntegra del cuento de H.P. Lovecraft ambientado en Kingsport,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye usando la transcripción del directo donde se lee el cuento + datos editoriales del propio cuento + integración con la red lovecraftiana ya existente (lovecraft-howard, mitologia-propia-impropia, horror-cosmico, hermana de aire-frio-lovecraft / el-descendiente-lovecraft / en-la-cripta-lovecraft / el-modelo-de-pickman-lovecraft). El sub-agente debe incluir la autocrítica del speaker sobre la prosa de este cuento concreto ('terriblemente mal escrito para los estándares de Lovecraft', exceso de frases ilativas, elipsis interminables y repeticiones) — pieza editorialmente importante porque muestra que el canal NO es uncritically devoto de Lovecraft sino que evalúa cada cuento individualmente",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Presentación del stream de viernes y contexto de la emisión",
+      "reason_code": "meta_canal",
+      "reason_detail": "Presentación operativa del stream + comentario brevísimo sobre Black Friday consumismo. Meta-canal sin contenido temático",
+      "quote_evidence": "Stream extraordinario de viernes porque no hubo emisión miércoles ni jueves,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica del musical de El Rey León en Madrid",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica breve del musical (escenografía, música, baile) + observación interesante sobre Rey León como adaptación de Hamlet ('ser o no ser' = 'Hakuna Matata'). El paralelo Rey León/Hamlet es brillante pero brevísimo; el musical en sí es comentario coyuntural",
+      "quote_evidence": "El Rey León es una adaptación de Hamlet: \"ser o no ser\" equivale a \"Hakuna Matata\", aceptar o no aceptar el destino,",
+      "review_priority": "medium",
+      "review_priority_reason": "El paralelo Rey León/Hamlet como acting-out del 'aceptar o no aceptar el destino' merece acumularse — si el canal lo desarrolla en futuro vídeo monográfico podría justificar entity_work para Rey León y/o Hamlet con análisis arquetípico",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La locura ambigua en Hamlet y El Quijote",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis interesante sobre la locura del protagonista como 'acting out' que cumple función de catarsis (no patología sino estrategia de fuga al sinrazón en mundo de sufrimiento). Brevedad insuficiente para update individual; conecta con el marco psicoanalítico del acting out que el canal menciona en otros vídeos (Tremendo lunes sobre Nietzsche y eterno retorno)",
+      "quote_evidence": "No es locura sino un \"acting out\" que lleva al extremo una parte de la neurosis para cumplir una función de catarsis,",
+      "review_priority": "high",
+      "review_priority_reason": "El concepto 'acting out' como mecanismo psicoanalítico aplicado a Hamlet/Quijote/eterno retorno se está acumulando entre vídeos — si reaparece en un análisis monográfico de obra (Hamlet o Quijote como entity_work) merece página propia o major update a un concepto de mecanismos psicoanalíticos",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estreno del documental de Terracota El Gran Engaño",
+      "reason_code": "political_news",
+      "reason_detail": "Documental sobre Cataluña y declaración unilateral de independencia. Tema político coyuntural sin marco arquetípico aplicado del canal",
+      "quote_evidence": "Documental sobre Cataluña financiado totalmente de forma privada por particulares,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crónica social del evento: Marta Veronese, Duque e Inés (Miss España)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Crónica social del estreno: encuentros con figuras públicas. Logística personal sin contenido temático",
+      "quote_evidence": "Encuentro con Inocente Duque en la lista VIP del documental,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "De refrigerios etílicos con Santiago Armesilla",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota social + chiste sobre 'el diagrama de Proxon' como auto-referencia humorística al diagrama-de-proxy con 4 posiciones filosóficas en mesa de bar (realista / materialista realista / idealista libertaria / idealista conservadora). Coyuntural sin desarrollo arquetípico",
+      "quote_evidence": "Mesa de debate improvisada: Proxy (realista), Armesilla (materialista realista), Marta Veronese (idealista libertaria) y una chica católica (idealista conservadora),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El encuentro intelectual con Armesilla y la crisis de autopresentación",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reflexión personal sobre cómo presentarse profesionalmente ante figura académica establecida (Armesilla con 11 libros publicados). El detalle sobre que Armesilla entendió inmediatamente al oír 'semiótica' es interesante pero meta-personal sin desarrollo enciclopédico",
+      "quote_evidence": "Al decir \"semiótica\", Armesilla entendió inmediatamente el marco de trabajo de Proxy,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rigor intelectual ante filósofos: la diferencia entre producción psicológica y filosófica",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reflexión meta sobre el estado de madurez de la producción del propio canal (psicológica lista para divulgar / filosófica aún no). Meta-canal pertinente para el proyecto editorial pero no para el wiki temático",
+      "quote_evidence": "La producción psicológica de Proxy se puede divulgar pero la filosófica todavía no está lista,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El ambiente enrarecido del estreno y la presencia del CNI",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario coyuntural sobre presencia del CNI + cancelación de sala por Cinesa 48 horas antes del estreno. Anécdota geopolítica sin marco arquetípico aplicado",
+      "quote_evidence": "Cinesa canceló la sala 48 horas antes del estreno, obligando a buscar otra sala que pide no ser nombrada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El miedo real de la disidencia: introyección del temor político",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre 'introyección del miedo político' en disidentes (paralelo con 1984 de Orwell). Pieza interesante sobre psicología de la disidencia pero brevísima y enraizada en contexto coyuntural específico (estreno Terracota / política catalana)",
+      "quote_evidence": "Había introyección de miedo: como en 1984 cuando se encuentran el viejo y la chica,",
+      "review_priority": "medium",
+      "review_priority_reason": "La 'introyección del miedo político' como mecanismo psíquico colectivo en sociedades donde la opinión disidente se vuelve socialmente costosa es articulación canal-específica que merece acumulación. Conecta con consumismo-critica y diagrama-de-proxy si se desarrolla monográficamente",
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El sofisma estético y la poética vacía de ciertos divulgadores",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación breve de sofisma-estetico a divulgadores que construyen 'personaje filosófico' via collage de consignas + ejemplo concreto 'descolonización del yo' como poética progresista vacía. La página sofisma-estetico ya documenta extensivamente el mecanismo nuclear; aquí solo se añade un ejemplo específico que podría incluirse en futuro update si reaparece desarrollado",
+      "quote_evidence": "Es prácticamente poética: juntar palabras para que suenen progresistas (\"descolonización del yo\"),",
+      "review_priority": "medium",
+      "review_priority_reason": "El ejemplo 'descolonización del yo' como caso paradigmático de poética progresista vacía + la articulación del 'personaje filosófico construido por collage' son piezas operativas que valen acumular para futuro update a sofisma-estetico",
+      "enriches_concept": "sofisma-estetico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Autocrítica de la prosa de Lovecraft en este cuento",
+      "reason_code": "already_captured_in_promote_new",
+      "reason_detail": "Comentario evaluativo del speaker sobre la calidad literaria del cuento concreto ('terriblemente mal escrito para los estándares de Lovecraft', exceso de frases ilativas, elipsis interminables y repeticiones). Esta autocrítica forma parte editorialmente de la página entity_work la-extrana-casa-elevada-entre-la-niebla-lovecraft que se promueve — el sub-agente que la compile debe incluirla en la sección sobre la lectura del canal",
+      "quote_evidence": "Proxy considera que el cuento está terriblemente mal escrito para los estándares de Lovecraft,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-extrana-casa-elevada-entre-la-niebla-lovecraft",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Agenda de la semana siguiente y cierre",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncios sobre programación próxima de directos del canal. Meta sin contenido temático",
+      "quote_evidence": "Habrá streams normales lunes a jueves, con examen práctico importante el jueves,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T15:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

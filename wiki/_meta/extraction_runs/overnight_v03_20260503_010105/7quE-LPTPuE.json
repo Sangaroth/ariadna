@@ -1,0 +1,318 @@
+{
+  "video_id": "7quE-LPTPuE",
+  "video_title": "Vacacioff: De la Sartén a Venezuela.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Estrategia masculina vs femenina y crítica al MGTOW",
+      "canonical_guess": "estrategia-masculina-femenina-mgtow",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "primary",
+      "minutes_estimate": 17,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La estrategia masculina consiste en solucionar problemas solo, mediante catarsis (liberar ira) o sustitución (construir algo nuevo),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Lo masculino tiende a la supresión del yo para crear algo que perdure; lo femenino es el mantenimiento del producto biológico que eres,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Que te parezca ofensivo que algo en ti sea femenino es genuina misoginia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento operativo de la asimetría masculino/femenino que la página adgrediere-masculino articulaba como ser/hacer en plano abstracto: aporta (a) caracterización operativa de cada estrategia (masculina = catarsis o sustitución solo; femenina = agregación grupal con feedback confirmatorio), (b) diagnóstico del MGTOW como pseudo-masculino paradójico (todos siguen mismo camino en grupo de iguales), (c) misoginia real definida operativamente (ofenderse por lo femenino propio), (d) caso del soldado mostrando componente femenina (hermanamiento) en contexto máximamente masculino, (e) mitocondrias como femenino primario inmanente. Va como update sustancial a adgrediere-masculino",
+      "quote_evidence": "Lo femenino del MGTOW es segregarse en grupo de iguales para obtener feedback que confirme su visión y sentir seguridad frente a grupos exteriores,"
+    },
+    {
+      "surface_form": "Cristo, Apolo, Dioniso como héroes singulares y la última cena como banquete arquetípico",
+      "canonical_guess": "cristologia-arquetipica-banquete-supremos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "primary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cristo, Apolo y Dioniso cumplen un papel arquetípico similar como héroes singulares,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Apolo + humanidad = Hércules; Apolo + lado oscuro de la magia = Dioniso,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No hay mitología posterior en Occidente con mística real después del cristianismo; el New Age es refrito y fantasía,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Tres piezas que extienden mito-moderno-en-proxy: (a) Dioniso como Apolo+lado oscuro de la magia (genealogical mapping ausente en la página), (b) banquete supremos como categoría arquetípica unificada (última cena, Valhalla, banquete de dioses griegos), (c) tesis fuerte sobre que no hay mítica real post-cristiana en Occidente y el New Age es refrito. La página ya documenta Cristo/Hércules/Apolo/Superman como mitos solares pero NO el mapa Apolo→Hércules/Dioniso ni la categoría banquete arquetípico ni la tesis post-cristianismo",
+      "quote_evidence": "El banquete es un concepto arquetípico: representa el estar en el mundo de aquellos que son lo más de lo más,"
+    },
+    {
+      "surface_form": "Responsabilidad simbólica y subversión-restauración de símbolos",
+      "canonical_guess": "responsabilidad-simbolica-subversion-restauracion",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.semiotics",
+      "depth_in_video": "primary",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Hay que diferenciar entre representación simbólica, coincidencia estética y coincidencia arquetípica,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El pentagrama tiene tres contextos independientes: satanista moderno, bandera de Marruecos (mística islámica del número cinco), y pitagórico (símbolo matemático),"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Un símbolo subvertido puede restaurarse pero requiere un ejercicio cultural deliberado,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Marco operativo nuevo sobre responsabilidad simbólica de la performance + subversión y restauración de símbolos (cruz invertida, pentagrama, esvástica con sus contextos múltiples independientes) + diferenciación representación simbólica / coincidencia estética / coincidencia arquetípica. Va como update a arte-en-proxy: la página define qué es arte (trabajo+estética+símbolo+universalidad) pero NO documenta cómo se atribuye responsabilidad simbólica a una performance ni cómo se restauran símbolos subvertidos",
+      "quote_evidence": "Si una performance remite a algo reconocible, el autor es responsable de aclarar su intención,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay promote_new — todo el contenido sustantivo refuerza páginas existentes (adgrediere-masculino, mito-moderno-en-proxy, arte-en-proxy)",
+  "pending_updates": [
+    {
+      "page_id": "adgrediere-masculino",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La conexión operativa con el [[sesgo-gamma|sesgo gamma]] es directa: el dispositivo perceptivo que filtra al varón en clave de carga o agresión es el mismo que vuelve ilegible su sufrimiento como sufrimiento.",
+      "content_proposed": "\n\n## Estrategias masculina y femenina, MGTOW como pseudo-masculino y misoginia operativa\n\nEn el directo *Vacacioff: De la Sartén a Venezuela* (29 jul 2024) el canal articula la asimetría masculino/femenino en plano operativo-estratégico, no solo cognitivo. La pieza precisa cómo cada polo afronta problemas, diagnostica el fenómeno MGTOW como caso paradigmático de pseudo-masculino paradójico, y define operativamente la misoginia real frente a la mera incomodidad con lo femenino.\n\n### Las dos estrategias asimétricas\n\n> \"La estrategia masculina consiste en solucionar problemas solo, mediante catarsis (liberar ira) o sustitución (construir algo nuevo),\"\n→ [Vacacioff (47:18)](https://youtu.be/7quE-LPTPuE?t=2838)\n\n> \"Lo femenino del MGTOW es segregarse en grupo de iguales para obtener feedback que confirme su visión y sentir seguridad frente a grupos exteriores,\"\n→ [Vacacioff (44:16)](https://youtu.be/7quE-LPTPuE?t=2656)\n\nLa precisión operacional de la asimetría: la estrategia masculina opera en solitario por dos vías canónicas — **catarsis** (liberación de la carga afectiva acumulada) o **sustitución** (construcción de algo nuevo que reemplace lo perdido). La estrategia femenina opera en agregación grupal con feedback confirmatorio: el grupo de iguales como dispositivo de validación que asegura frente al exterior. La pieza no es prescriptiva sino estructural — toda psique mixta integra ambas vías; la articulación nombra qué corresponde a cada polo.\n\n### MGTOW como pseudo-masculino paradójico\n\n> \"El MGTOW intenta ser masculino pero cae en paradoja: todos siguen el mismo camino en grupo, quejándose como adolescentes,\"\n→ [Vacacioff (47:18)](https://youtu.be/7quE-LPTPuE?t=2838)\n\n> \"Si verdaderamente fuera estrategia masculina nadie se enteraría de que siguen su propio camino,\"\n→ [Vacacioff (47:18)](https://youtu.be/7quE-LPTPuE?t=2838)\n\nEl diagnóstico es contundente y autoirónico: el movimiento que se autodenomina 'going their own way' (siguiendo su propio camino, masculino-coded) opera estructuralmente como agregación grupal (femenino-coded) — todos siguen el mismo camino, todos se enteran de que lo siguen, todos buscan validación grupal de la posición. La paradoja no es accidente comunicacional: es índice de que la estrategia subyacente es femenina disfrazada de masculina. Un adgrediere genuino no necesita publicar su trayecto.\n\n### Misoginia real: ofenderse por lo femenino propio\n\n> \"Que te parezca ofensivo que algo en ti sea femenino es genuina misoginia,\"\n→ [Vacacioff (1:00:59)](https://youtu.be/7quE-LPTPuE?t=3659)\n\n> \"Que te duela es complejo, pero que te parezca ofensivo es misoginia sin otro nombre,\"\n→ [Vacacioff (1:00:59)](https://youtu.be/7quE-LPTPuE?t=3659)\n\nLa pieza define operativamente la misoginia con un criterio diferencial preciso: no es la incomodidad o el dolor frente a lo femenino propio (eso es complejo psíquico, no juicio moral), sino el **ofenderse** — tomarse como afrenta que haya algo femenino en uno. La consecuencia diagnóstica: el rencor MGTOW hacia lo femenino interno es misoginia 100% — cuadro que la página articula también como [[herida-narcisista-en-proxy|herida narcisista]] proyectada al género opuesto, donde el sujeto se siente legitimado porque se considera víctima.\n\n### Lo femenino dentro de lo más masculino: el soldado y los lazos de hermanamiento\n\n> \"El trabajo de soldado es eminentemente masculino: sacrificio absoluto y supresión del yo,\"\n→ [Vacacioff (52:20)](https://youtu.be/7quE-LPTPuE?t=3140)\n\n> \"Incluso en el contexto más masculino se revela la componente femenina: los lazos de hermanamiento entre compañeros,\"\n→ [Vacacioff (52:20)](https://youtu.be/7quE-LPTPuE?t=3140)\n\nLa pieza precisa la complementariedad estructural: ningún polo opera puro. El contexto canónico del adgrediere — el soldado que se sacrifica suprimiendo el yo por algo que perdure — contiene **siempre** la componente femenina del vínculo entre compañeros como condición de su operación. Sin lazos de hermanamiento (componente femenina) la estructura de sacrificio (componente masculina) colapsa al individualismo aislado, no al heroísmo colectivo. La consecuencia para el cuadro adgrediere bloqueado es directa: cuando la cultura disuelve los marcos de hermanamiento, la pulsión adgrediente queda sin sustrato relacional para canalizarse y deriva al bleedout solitario.\n\n### Mitocondrias y femenino primario inmanente\n\n> \"Existe una línea genética exclusivamente femenina (mitocondrias) que refleja un femenino inmanente primario,\"\n→ [Vacacioff (54:51)](https://youtu.be/7quE-LPTPuE?t=3291)\n\n> \"Los núcleos psicobiológicos más profundos son los más antiguos, salvajes y pre-civilizatorios,\"\n→ [Vacacioff (54:51)](https://youtu.be/7quE-LPTPuE?t=3291)\n\n> \"Lo que nos mantiene unidos es la parte mamífera; lo que permite el sacrificio es el córtex prefrontal,\"\n→ [Vacacioff (54:51)](https://youtu.be/7quE-LPTPuE?t=3291)\n\nLa precisión cosmogónica añade un anclaje biológico-genealógico al femenino: la herencia mitocondrial (transmitida exclusivamente por línea materna) opera como sustrato ininterrumpido del femenino inmanente primario. La asimetría psicobiológica que la página articulaba como ser/hacer encuentra aquí su correlato genético: el femenino tiene línea genealógica propia continua; el masculino se actualiza en cada generación vía cromosoma Y heredado del padre individual. La consecuencia teórica es que el femenino opera como **continuidad biológica de fondo** y el masculino como **discontinuidad selectiva** — una arquitectura asimétrica donde la pulsión adgrediente del varón es comprensible solo contra ese fondo femenino que la antecede y la sobrevive.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "herida-narcisista-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 2656,
+          "cite_markdown": "[Vacacioff (44:16)](https://youtu.be/7quE-LPTPuE?t=2656)"
+        },
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 2838,
+          "cite_markdown": "[Vacacioff (47:18)](https://youtu.be/7quE-LPTPuE?t=2838)"
+        },
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 3140,
+          "cite_markdown": "[Vacacioff (52:20)](https://youtu.be/7quE-LPTPuE?t=3140)"
+        },
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 3291,
+          "cite_markdown": "[Vacacioff (54:51)](https://youtu.be/7quE-LPTPuE?t=3291)"
+        },
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 3659,
+          "cite_markdown": "[Vacacioff (1:00:59)](https://youtu.be/7quE-LPTPuE?t=3659)"
+        }
+      ],
+      "rationale": "La página articula adgrediere y la dupla ser/hacer en plano abstracto-arquetípico. Este vídeo aporta cinco refinamientos operativos no presentes: (a) caracterización canónica de cada estrategia (masculina catarsis/sustitución solo; femenina agregación grupal feedback), (b) diagnóstico estructural del MGTOW como pseudo-masculino paradójico, (c) definición operativa de misoginia (ofenderse vs. doler), (d) caso del soldado mostrando complementariedad ineliminable de polos en el contexto adgrediente canónico, (e) anclaje genético-biológico del femenino inmanente vía mitocondrias. Insert tras la sección 'Depresión masculina invisible' es editorialmente correcto: cierra la articulación clínica con la articulación estratégica y biológica",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mito-moderno-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La conciencia permite hacer saltos fuera del sistema: cada vez que aprendes algo, todo el conjunto cambia. Aprender más del mundo es alejarse, salir una capa hacia arriba, exactamente como conocer una capa de Matrix. La vida son pequeños despertares sucesivos, por eso Matrix está ambientado en código informático.",
+      "content_proposed": "\n\n## Pieza 6 — Cristología arquetípica, banquete supremos y el cierre de la mítica occidental\n\nEn el directo *Vacacioff: De la Sartén a Venezuela* (29 jul 2024) el canal articula tres piezas que cierran el flanco cristológico del marco del mito moderno y diagnostican el estado de la mítica occidental contemporánea.\n\n### Mapa genealógico Apolo → Hércules / Dioniso\n\nLa página articulaba a Cristo, Apolo, Hércules y Superman como mitos solares con misma estructura. La precisión añadida descompone el campo apolíneo en dos derivaciones operativas:\n\n> \"Cristo, Apolo y Dioniso cumplen un papel arquetípico similar como héroes singulares,\"\n→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)\n\n> \"Apolo + humanidad = Hércules; Apolo + lado oscuro de la magia = Dioniso,\"\n→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)\n\nLa pieza es decisiva para la cristología arquetípica: Apolo es el arquetipo solar genérico (héroe en sentido amplio); cuando se le añade la dimensión humana de la prueba y el sufrimiento se obtiene Hércules (héroe del esfuerzo trágico); cuando se le añade el lado oscuro de la magia se obtiene Dioniso (héroe de la transgresión sagrada y el éxtasis). Cristo opera como cristalización monoteísta del mismo arquetipo singular — héroe que padece (componente Hércules) y que celebra el banquete sagrado del cuerpo y la sangre (componente Dioniso). La descomposición cierra una articulación que la página tenía implícita en la enumeración 'Cristo, Hércules, Apolo, Superman' sin distinguir las posiciones internas.\n\n### El banquete arquetípico: estructura del reino de los supremos\n\nLa segunda pieza articula una categoría que el corpus no había nombrado: el **banquete arquetípico** como estructura cosmogónica del 'estar en el mundo de los más altos'.\n\n> \"El banquete es un concepto arquetípico: representa el estar en el mundo de aquellos que son lo más de lo más,\"\n→ [Vacacioff (1:14:08)](https://youtu.be/7quE-LPTPuE?t=4448)\n\n> \"La disposición de la última cena de Da Vinci está pensada como una bacanal sublimada (no pagana, pero con esa estructura),\"\n→ [Vacacioff (1:14:08)](https://youtu.be/7quE-LPTPuE?t=4448)\n\n> \"Las bodas, mesas nórdicas del Valhalla y banquetes de dioses griegos comparten la misma estructura arquetípica,\"\n→ [Vacacioff (1:14:08)](https://youtu.be/7quE-LPTPuE?t=4448)\n\nLa categoría unifica un conjunto de escenas mitológicas heterogéneas en superficie pero estructuralmente equivalentes: la última cena cristiana, las bodas (cualquier boda), las mesas nórdicas del Valhalla, los banquetes de los dioses olímpicos. Todas comparten la **estructura del culmen civilizatorio**: el reunirse de los más altos en un evento donde el comer y beber no es alimentación sino comunión sublimada. La lectura de Da Vinci es precisa — la composición pictórica está pensada como bacanal sublimada (no pagana, pero replicando la estructura): comensales dispuestos en relación con un centro sagrado, gestualidad coordinada, jerarquía de lugares.\n\nLa consecuencia operativa para el análisis simbólico: cualquier representación contemporánea de una mesa con 13 figuras dispuestas frontalmente con un centro destacado **necesariamente remite** a la última cena, porque la última cena es ya el cifrado pictórico canónico del banquete arquetípico en Occidente. No hay forma plástica neutra de componer ese tipo de escena.\n\n### El cierre mítico de Occidente: post-cristianismo sin mística real\n\nLa tercera pieza es la tesis fuerte que diagnostica el estado de la mítica occidental contemporánea:\n\n> \"Es muy difícil que una representación de banquete no remita a la última cena porque es el culmen civilizatorio del reino de los dioses en la tierra,\"\n→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)\n\n> \"No hay mitología posterior en Occidente con mística real después del cristianismo; el New Age es refrito y fantasía,\"\n→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)\n\nLa tesis es estructural: el cristianismo cierra históricamente la producción de mitología propia con mística real en Occidente. Lo que aparece después — esoterismo decimonónico, New Age, espiritualidad sincrética contemporánea — opera como **refrito** (recombinación de fragmentos sin coherencia mítica original) o como **fantasía** (invención sin anclaje arquetípico vivo). La consecuencia para el marco del mito moderno articulado en esta página: las obras culturales contemporáneas que recapitulan estructuras arquetípicas auténticas (Matrix, Tolkien, Lovecraft en clave de mitología propia consciente) operan necesariamente desde el sustrato cristiano-clásico cerrado — no fundan nueva mística, recuperan o invierten la previa. La mitología impropia contemporánea (en términos de [[mitologia-propia-impropia]]) no es solo desconocimiento de su condición de mito, sino imposibilidad estructural de fundar mítica nueva en un horizonte civilizatorio cuyo último cierre productivo fue el evangélico.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 4448,
+          "cite_markdown": "[Vacacioff (1:14:08)](https://youtu.be/7quE-LPTPuE?t=4448)"
+        },
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 4786,
+          "cite_markdown": "[Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)"
+        }
+      ],
+      "rationale": "La página articula los mitos solares (Cristo/Apolo/Hércules/Superman) como recapitulación de la misma estructura arquetípica, pero NO contiene: (a) la descomposición Apolo+humanidad=Hércules / Apolo+lado oscuro magia=Dioniso (mapa genealógico interno del campo apolíneo), (b) la categoría 'banquete arquetípico' como cifra del culmen civilizatorio (última cena = bodas = Valhalla = banquete dioses griegos), (c) la tesis fuerte de cierre histórico de la productividad mítica occidental tras el cristianismo (New Age como refrito/fantasía). Las tres piezas refinan operativamente el marco. Insert como nueva 'Pieza 6' tras la sección Matrix es editorialmente correcto",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "arte-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El juego plástico privado y la masturbación intelectual caen, en términos del canal, del lado del [[sofisma-estetico]]",
+      "content_proposed": "\n\n## Responsabilidad simbólica de la performance y subversión-restauración de símbolos\n\nEn el directo *Vacacioff: De la Sartén a Venezuela* (29 jul 2024) el canal extiende la teoría del arte con un marco operativo sobre cómo se atribuye responsabilidad simbólica a una performance pública y cómo opera la subversión histórica de símbolos — pieza disparada por el debate sobre la inauguración de los Juegos Olímpicos de París 2024.\n\n### Tres modos de relación entre forma y referente: representación, coincidencia estética, coincidencia arquetípica\n\nLa primera distinción operativa de la lectura del símbolo:\n\n> \"Hay que diferenciar entre representación simbólica, coincidencia estética y coincidencia arquetípica,\"\n→ [Vacacioff (1:09:07)](https://youtu.be/7quE-LPTPuE?t=4147)\n\n> \"Algunos símbolos parecen satánicos pero son paganos; para que algo sea satánico necesita intención satánica,\"\n→ [Vacacioff (1:09:07)](https://youtu.be/7quE-LPTPuE?t=4147)\n\n> \"Lo gráfico en sí mismo no tiene poder; necesita contexto e intención para ser maligno,\"\n→ [Vacacioff (1:09:07)](https://youtu.be/7quE-LPTPuE?t=4147)\n\nLa tripartición distingue tres relaciones independientes entre la forma y su posible referente:\n\n- **Representación simbólica**: la forma evoca deliberadamente un símbolo previo cuyo significado convoca\n- **Coincidencia estética**: la forma comparte rasgos visuales con un símbolo conocido sin intención evocadora\n- **Coincidencia arquetípica**: la forma cae espontáneamente sobre una estructura arquetípica común que la mente humana reconoce como familiar (sin que el autor la haya buscado)\n\nLa consecuencia operativa: lo gráfico aislado no porta poder ni significado fijo — necesita el binomio **contexto + intención** para devenir simbólicamente operativo. La interpretación de una performance debe distinguir cuál de los tres modos opera, porque el régimen de responsabilidad cambia con cada uno.\n\n### Responsabilidad del autor frente a la referencia reconocible\n\n> \"Si una performance remite a algo reconocible, el autor es responsable de aclarar su intención,\"\n→ [Vacacioff (1:25:20)](https://youtu.be/7quE-LPTPuE?t=5120)\n\n> \"Poniéndose estricto: eso solo puede ser una última cena; poniéndose benevolente: son gilipuertas sin más referencia que parodias,\"\n→ [Vacacioff (1:25:20)](https://youtu.be/7quE-LPTPuE?t=5120)\n\n> \"No hay que escandalizarse diciendo que es satánico porque esa gente no tiene idea de lo que hace; habría que demostrar intención sacrílega,\"\n→ [Vacacioff (1:25:20)](https://youtu.be/7quE-LPTPuE?t=5120)\n\nLa pieza articula el principio operativo: cuando la forma es estructuralmente inseparable de una referencia reconocible (banquete con 13 figuras frontales y centro destacado = última cena, ver [[mito-moderno-en-proxy]] sobre el banquete arquetípico), el autor **carga con la responsabilidad** de explicitar si la evocación es deliberada o accidental. La benevolencia interpretativa máxima admite la incompetencia simbólica (parodia sin saber qué se parodia); la rigurosidad mínima exige intención demostrada para escalar al diagnóstico de sacrilegio. La operación retórica de declarar 'satánico' sin demostrar intención es ella misma sofisma — ataca el efecto sin probar la causa.\n\n### Subversión y restauración de símbolos: tres casos canónicos\n\nLa última pieza articula cómo opera la subversión histórica de símbolos y la posibilidad — costosa pero real — de su restauración cultural deliberada.\n\n> \"La cruz invertida fue usurpada de la cruz de San Pedro para rituales satánicos de misa negra medieval,\"\n→ [Vacacioff (1:27:20)](https://youtu.be/7quE-LPTPuE?t=5240)\n\nLa cruz invertida, símbolo cristiano antiguo (San Pedro pidió ser crucificado boca abajo por considerarse indigno de morir como Cristo), fue **usurpada** durante la misa negra medieval para invertir simbólicamente el sentido cristiano. La subversión opera por apropiación con inversión de sentido — la forma queda contaminada incluso para quienes conocen su origen sancristiano.\n\n> \"El pentagrama tiene tres contextos independientes: satanista moderno, bandera de Marruecos (mística islámica del número cinco), y pitagórico (símbolo matemático),\"\n→ [Vacacioff (1:27:20)](https://youtu.be/7quE-LPTPuE?t=5240)\n\nEl pentagrama opera distinto: tres contextos genealógicamente independientes coexisten simultáneamente en la cultura contemporánea. La mística islámica del cinco (presente en la bandera marroquí), la tradición pitagórica matemático-cosmológica y el satanismo decimonónico no derivan unos de otros — el lector debe identificar el contexto operativo para no transferir significado entre genealogías ajenas.\n\n> \"La esvástica tiene contextos oriental (cruces gamadas solares/lunares), nórdico-celta (rúnico) y nazi, todos independientes entre sí,\"\n→ [Vacacioff (1:27:20)](https://youtu.be/7quE-LPTPuE?t=5240)\n\nLa esvástica es el caso paradigmático de subversión exitosa devastadora: tres contextos previos completamente independientes (oriental dharmático con sus cruces gamadas solares/lunares, nórdico-celta rúnico, ornamental clásico) quedaron retroactivamente contaminados por la apropiación nazi del siglo XX. La subversión histórica del símbolo en una cultura contamina el símbolo para todas las demás culturas que lo compartían — no por error de los lectores sino porque la contaminación ya pertenece a la economía simbólica global.\n\n> \"Un símbolo subvertido puede restaurarse pero requiere un ejercicio cultural deliberado,\"\n→ [Vacacioff (1:27:20)](https://youtu.be/7quE-LPTPuE?t=5240)\n\nLa pieza cierra con la posibilidad real de la restauración: un símbolo subvertido **no queda fijado para siempre** en la versión subvertida. Pero la restauración no es espontánea ni accidental — requiere ejercicio cultural deliberado y sostenido (recuperación filológica, contextualización pedagógica, recolocación en uso ritual o estético no contaminado). El esfuerzo es comparable a desinstalar un autotipo cultural ya consolidado — la masa de inercia cultural opera contra cualquier intento aislado.\n\nLa pieza es operativa para la teoría del arte de la página: si el arte requiere símbolo universalmente reconocible, el productor debe responsabilizarse no solo de la composición técnica sino del **estado actual** de los símbolos que invoca. Trabajar con símbolos subvertidos sin marca explícita de restauración es importar la contaminación a la propia obra, aunque la intención del autor sea recuperar el sentido previo.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "mito-moderno-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 4147,
+          "cite_markdown": "[Vacacioff (1:09:07)](https://youtu.be/7quE-LPTPuE?t=4147)"
+        },
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 5120,
+          "cite_markdown": "[Vacacioff (1:25:20)](https://youtu.be/7quE-LPTPuE?t=5120)"
+        },
+        {
+          "video_id": "7quE-LPTPuE",
+          "timestamp_seconds": 5240,
+          "cite_markdown": "[Vacacioff (1:27:20)](https://youtu.be/7quE-LPTPuE?t=5240)"
+        }
+      ],
+      "rationale": "La página define arte por trabajo+estética+símbolo+universalidad pero NO documenta: (a) la tripartición representación simbólica / coincidencia estética / coincidencia arquetípica como modos operativos distintos, (b) el principio de responsabilidad simbólica del autor frente a referencias reconocibles, (c) la mecánica de subversión histórica de símbolos con tres casos canónicos (cruz invertida, pentagrama con 3 contextos, esvástica con 3 contextos), (d) la posibilidad de restauración mediante ejercicio cultural deliberado. Este marco operativo extiende la definición estática del arte hacia la dinámica simbólica diacrónica. Insert tras 'Conexión con otros conceptos' es editorialmente correcto",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Aclaración sobre rumores de tirar la caña en Twitter",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Aclaración personal sobre rumores en redes. Meta-canal sin valor enciclopédico",
+      "quote_evidence": "Las relaciones públicas en Twitter con ciertas personas tienen un contexto personal que los críticos desconocen,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Introyección de culpa y trauma de humillación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica breve (estrés postraumático complejo + introyección de culpa + trauma humillación) embebida en aclaración personal sobre rumores. La temática de introyección de culpa por sexo está mejor capturada en thesis_candidate del vídeo Tremendo martes — aquí es passing en contexto personal",
+      "quote_evidence": "La necesidad compulsiva de justificarse es estrés postraumático complejo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Vincula con yo-ego-autoestima-en-proxy y trauma-en-proxy si se desarrolla en otros vídeos sobre estrés postraumático complejo vs simple",
+      "enriches_concept": "trauma-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Venezuela: retención de opositores y defensa de dictaduras desde la izquierda",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario coyuntural sobre Edmundo González + Venezuela + estrategia de la izquierda. Politiqueo sin marco arquetípico aplicado más allá de la observación general sobre ventanas de Overton",
+      "quote_evidence": "Han retenido a Edmundo González Urrutia en Venezuela (retención internacional, no secuestro en sentido estricto),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La endofobia española como problema estructural",
+      "reason_code": "political_news",
+      "reason_detail": "Tesis breve sobre endofobia + táctica populista dictatorial. Conecta con diagrama-de-proxy pero sin desarrollo arquetípico que justifique update — el bloque deriva rápidamente a politiqueo coyuntural sobre el partido vs estructura",
+      "quote_evidence": "El problema no es un partido concreto sino un \"state of mind\" donde el vecino está dispuesto a perderlo todo con tal de ver hundirse al otro,",
+      "review_priority": "medium",
+      "review_priority_reason": "El término 'endofobia' es categoría canal-específica recurrente — acumular si reaparece desarrollada",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El caso Carab y la responsabilidad de los moderadores de espacios",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Crítica personal a interlocutor concreto (Carab) y al moderador del espacio (D'Agosta). Coyuntural sin elevación a marco. La pieza estructural sobre 'estrategia MGTOW agresiva como ex rencorosa que se considera víctima' va capturada en update a adgrediere-masculino",
+      "quote_evidence": "La estrategia MGTOW agresiva es de \"ex rencorosa\": creen estar legitimados porque se consideran víctimas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "adgrediere-masculino",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Vacaciones en Girona y dinámica familiar",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota familiar sobre vacaciones en Siurana con 22 familiares. Sin contenido temático",
+      "quote_evidence": "Vacacionó en Siurana (Girona) con 22 familiares en una casa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El Plan B: futuro del canal y planes personales",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio sobre escenarios futuros del canal y posible exilio. Meta-canal sin contenido temático",
+      "quote_evidence": "El Plan B se revelará en octubre coincidiendo con el 4º aniversario del canal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Elecciones en Venezuela: fraude, dictadura y definición formal",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario coyuntural sobre fraude electoral venezolano + definición de dictadura aplicada al caso. Coyuntural sin elevación arquetípica",
+      "quote_evidence": "Maduro dice haber ganado con 51,2%; es imposible encontrar un mensaje no sesgado sobre el tema,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Irene Montero, la izquierda tiránica y la ley de hierro de las oligarquías",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre figura política española (Irene Montero) + tesis sobre la izquierda actual. Aunque la 'ley de hierro de las oligarquías' (Michels) y el efecto cerebral del poder son piezas estructurales interesantes, están aquí inseridas en politiqueo coyuntural sin desarrollo monográfico que justifique update",
+      "quote_evidence": "La ley de hierro de las oligarquías: toda concentración de poder en una minoría tiende a concentrar más poder, nunca al contrario,",
+      "review_priority": "medium",
+      "review_priority_reason": "La 'ley de hierro' como referencia (Michels) y el dato neurohormonal sobre cambios cerebrales por poder son piezas que podrían enriquecer diagrama-de-proxy en futuro update",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La oposición venezolana como oposición diseñada para fracasar",
+      "reason_code": "political_news",
+      "reason_detail": "Análisis político coyuntural sobre la oposición venezolana. Sin marco arquetípico aplicado",
+      "quote_evidence": "Si alguien quisiera mantener la dictadura montaría lobis para fingir ser opositores eligiendo a los más inútiles posible,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "El problema no es un partido concreto sino un \"state of mind\" donde el vecino está dispuesto a perderlo todo con tal de ver hundirse al otro,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "El bloque sobre endofobia española deriva a comentarios sobre actualidad política — logged para auditoría aunque la pieza estructural sobre 'state of mind colectivo' se descarta como passing"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T14:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Viabilidad de las ideologías: comunismo, liberalismo y materialismo vs. idealismo] reason=passing_mention quote no literal"
+  ]
+}

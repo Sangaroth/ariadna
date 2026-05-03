@@ -168,8 +168,10 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [22:35](https://youtu.be/IytpR6sGWXg?t=1355)
 - **Otoño de cuentos. Lovecraft** — chunks: [8:40](https://youtu.be/SwEqFdvBI9M?t=520) · [9:41](https://youtu.be/SwEqFdvBI9M?t=581) · [51:39](https://youtu.be/SwEqFdvBI9M?t=3099) · [1:05:01](https://youtu.be/SwEqFdvBI9M?t=3901) · [2:14:51](https://youtu.be/SwEqFdvBI9M?t=8091)
 - **Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne** — chunks: [3:04](https://youtu.be/9x8zTqpyZ5Q?t=184) · [15:12](https://youtu.be/9x8zTqpyZ5Q?t=912)
 - **Proxy T4, 4x01: "Piloto"** — chunks: [26:30](https://youtu.be/ucOt-vQZ4Qw?t=1590) · [2:07:16](https://youtu.be/ucOt-vQZ4Qw?t=7636)
+- **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [47:57](https://youtu.be/_S6kQYk9O98?t=2877) · [1:15:22](https://youtu.be/_S6kQYk9O98?t=4522)
 

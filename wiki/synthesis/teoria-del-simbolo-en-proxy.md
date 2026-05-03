@@ -245,6 +245,26 @@ La estructura completa enlaza con [[pensamiento-poetico]] (modo de operación qu
 
 
 
+## Clase cognitiva como unidad mínima representacional y axioma de transitoriedad
+
+En el directo *Tremendo lunes* (03 mar 2026) el canal nombra explícitamente la unidad mínima sobre la que opera el marco — **clase cognitiva** — y enuncia su axioma fundacional. La pieza es terminológica y axiomática: la página articulaba la matriz noética con tres componentes (afectivo, imaginario, gramatical) sin nombrar la unidad subyacente. La sesión cierra ese flanco proponiendo *clase cognitiva* como sustituto operativo del concepto filosófico de **qualia**, con la diferencia decisiva de que la clase es objetiva, universal y medible — es decir, traducible a procedimiento neurocientífico, no atributo privado e inefable.
+
+> "Unidad mínima de representación mental que sustituye el concepto filosófico de qualia: objetiva, universal y medible,"
+→ [Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)
+
+> "Tres naturalezas fundamentales: clases afectivas (valencia emocional), imaginarias (estructura sensorial) y gramaticales (relaciones abstractas),"
+→ [Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)
+
+Las tres naturalezas mantienen la tripartición ya articulada en el marco — afectiva / imaginaria / gramatical — pero ahora cada una nombra un *tipo de clase* (no solo una *componente* dentro de una representación compuesta). El primer axioma queda enunciado como propiedad estructural:
+
+> "Primer axioma: toda clase tiene como función la transitoriedad; los componentes del pensamiento son gradientes en resíntesis continua,"
+→ [Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)
+
+La transitoriedad como función primaria refuerza la tesis nuclear de irrepetibilidad de la matriz noética que esta página articulaba: ningún estado mental es estable, los componentes son gradientes en resíntesis continua. La novedad axiomática es que la transitoriedad no es contingencia operativa sino *función definitoria* de la unidad — una clase que no caduca ya no es clase. La consecuencia para [[realismo-cognitivo]] es directa: el sustrato representacional es estructuralmente entrópico, lo que cierra la coherencia con el postulado de la cognición como parte de la realidad material entrópica.
+
+
+
+
 ## La inteligencia como recreación, no como representación: el problema del cuervo
 
 En la *Investigación en directo: Resolviendo (o no) el problema de la integración de la inteligencia* (10 sept 2024) Proxy trabaja en sesión abierta el sustrato del marco que esta página articula. La sesión introduce explícitamente la **notación Q-sub** que el canal usa internamente para los tres componentes de toda representación mental — Q sub-f (formal/gramatical), Q sub-i (imaginaria), Q sub-a (afectiva) — y aporta el caso operativo paradigmático que separa Q sub-f de la representación simbólica.
@@ -288,6 +308,69 @@ La consecuencia teórica que el speaker extrae es contraintuitiva: **la intelige
 
 En el cuervo, además, memoria episódica y procedimental están prácticamente fusionadas — no es que tenga las tres dimensiones representacionales separadas como el humano, sino que Q sub-f opera como módulo independiente sobre un sustrato representacional menos diferenciado.
 
+
+
+## Cuantitativo, tiempo y lenguaje: refinamientos sobre los componentes Q
+
+En el directo *Último Stream del Año* (31 dic 2025) el canal articula tres precisiones operativas sobre cómo se descomponen funciones cognitivas que la página presentaba en plano abstracto. Las tres comparten una misma operación analítica: identificar a qué componentes Q pertenece propiamente cada función, mostrando que muchas funciones aparentemente formales (cuantificar, percibir el tiempo, hablar) son en realidad composiciones donde participan componentes imaginarios, afectivos o procedimentales en grados específicos.
+
+### La conmensurabilidad cuantitativa como abstracción de operaciones imaginarias
+
+La primera precisión refuta la asignación intuitiva de la cuantificación a Q sub-f pura. Cuantificar requiere conmensurar, y la conmensuración tiene origen imaginario:
+
+> "Conmensurable significa poner lo medido en función de una medida; eso requiere comparar características evidentes entre objetos,"
+→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)
+
+> "La única forma de comparar características evidentes es mediante el imaginario: la mente ve objetos donde podría ver huecos en un fondo,"
+→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)
+
+> "La mente prefiere ver círculos (objetos) porque la estructura mental piensa en unidades manejables para compararlas entre sí,"
+→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)
+
+> "La conmensurabilidad es una abstracción de las operaciones con objetos, y estas operaciones tienen origen imaginario,"
+→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)
+
+La pieza precisa una pre-condición arquitectónica de Q sub-f: la operación formal de comparar magnitudes presupone la operación imaginaria previa de **discriminar objetos sobre fondo**. Sin la decisión perceptual de qué cuenta como unidad (forma sobre fondo, círculos en lugar de huecos), no hay nada que conmensurar. La cuantificación es así una abstracción de segundo orden — Q sub-f operando sobre el output de Q sub-i, no operación primaria. La consecuencia teórica es decisiva: una mente sin componente imaginaria robusta no puede cuantificar genuinamente, solo procesar tokens formalmente sin anclaje en discriminación perceptual. Es otra precisión que cierra el flanco contra la asimilación computacional de la cognición.
+
+### El tiempo como clase afectiva, no formal
+
+La segunda precisión asigna la temporalidad fenomenológica a Q sub-a (afectiva), no a Q sub-f como sugeriría la intuición de que el tiempo es una dimensión geométrico-cuantitativa:
+
+> "Lo nuevo y lo viejo son clases que no pueden ser imaginarias ni formales, tienen que ser afectivas,"
+→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)
+
+> "El tiempo fenomenológico se representa con imagen y afecto; la memoria es la sensación de que algo es nuevo o no,"
+→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)
+
+> "El hipocampo, que gestiona la memoria episódica, es el mismo órgano que nos orienta en el espacio (imaginario),"
+→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)
+
+> "El tiempo es imaginario más afecto: la dimensión temporal se construye añadiendo un afecto a una sucesión de elementos,"
+→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)
+
+La pieza articula la temporalidad como composición Q sub-i + Q sub-a: la sucesión de elementos es imaginaria (memoria episódica = orientación en el eje temporal análoga a orientación espacial) y la valencia nuevo/viejo que la convierte en *experiencia temporal* es afectiva. La evidencia neuroanatómica que el speaker invoca es el hipocampo: el mismo órgano que produce orientación espacial produce memoria episódica, lo que apoya la lectura del tiempo como dimensión imaginaria con sobrecapa afectiva. La consecuencia para la teoría del símbolo es importante: las representaciones temporales (recuerdos, anticipaciones, sentido de duración) jamás son puramente formales — siempre arrastran la valencia afectiva que las distingue como pertenecientes al pasado, al presente o al futuro fenomenológico.
+
+### El lenguaje como especialización somática de la memoria procedimental
+
+La tercera precisión sitúa al lenguaje no como módulo cognitivo independiente sino como especialización de la memoria procedimental — la más primitiva del catálogo:
+
+> "La memoria procedimental explica el mundo a través de cómo podríamos interactuar físicamente con objetos,"
+→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)
+
+> "El lenguaje es una especialización de la memoria procedimental donde los objetos son clases de equivalencia con un camino rápido semántico,"
+→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)
+
+> "La gramática básica (sujetos, objetos, verbos, adjetivos, adverbios) son procedimientos: a cosas les pasan cosas,"
+→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)
+
+> "El lenguaje nace de la necesidad de transmitir nuestra relación con otros y con las cosas; ergo es una especificación somática de una estructura procedimental,"
+→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)
+
+La pieza es genealógica y estructural: el lenguaje no se añade al aparato cognitivo como capa lingüística autónoma, sino que **deriva** de la memoria procedimental compactando los protocolos de interacción físico-corporal con objetos. La gramática misma — sujetos que ejecutan verbos sobre objetos, modificadores que precisan circunstancias — es la sintaxis abstracta de cómo se actúa sobre el mundo: 'a cosas les pasan cosas'. Los nombres operan como **clases de equivalencia con camino rápido semántico**, atajos representacionales para invocar el repertorio procedimental ligado a cada objeto sin recorrerlo entero.
+
+La consecuencia para el flanco anti-constructivista que la página ya articula es directa: el lenguaje no estructura el pensamiento porque deriva de la memoria procedimental, que es ontogenética y filogenéticamente anterior. La compresión lingüística de 12 bits/s opera sobre un sustrato procedimental que ya tenía estructura — la sintaxis del mundo (cosas que actúan sobre cosas) precede a la sintaxis de las palabras y la modela.
+
+
 ### Definición operativa de inteligencia: representar vs recrear
 
 La sesión cierra con una refinación de la definición de inteligencia que la página venía articulando: representar es el hecho neto, pero **recrear** introduce la componente temporal y neuroeconómica. Resolver un problema requiere operar con una concatenación de representaciones, no solo representar. La inteligencia es la capacidad de **recrear el mundo con fiabilidad y eficacia** — un nivel de complejidad operatoria superior a la mera representación.
@@ -299,6 +382,58 @@ La sesión cierra con una refinación de la definición de inteligencia que la p
 → [Investigación en directo (1:57:38)](https://youtu.be/DQ_EAobZykw?t=7058)
 
 La pieza articula el problema abierto que el monográfico sobre el símbolo (Parte 2) deja implícito y que la página enuncia en lagunas como 'articulación con el self / individuación': la relación entre las memorias (procedimental, episódica, semántica) y las componentes representacionales (formal, imaginaria, afectiva) que el marco postula. La sesión declara explícitamente esa relación como problema abierto que el canal está investigando en directo — el matiz importa porque sitúa el marco como programa de investigación vivo, no como sistema cerrado.
+
+
+
+## Evidencia clínica de los tres componentes Q y el tiempo como sucesión procedimental
+
+En el directo *Viernes terminal: Los sueños y Ariadna* (17 ene 2026) el canal articula explícitamente la matriz 3×3 que reorganiza los tres tipos de memoria (episódica / semántica / procedimental) cruzados con las tres dinámicas Q (imaginaria / formal / afectiva), y aporta dos piezas operativas que cierran flancos abiertos del marco: (a) tres patologías neuropsiquiátricas como evidencia de la independencia funcional de los componentes, (b) el tiempo como sucesión procedimental ordenada — sustrato cognitivo sobre el que se monta la articulación previa del tiempo como imaginario + afecto.
+
+### La matriz 3×3 explícita
+
+> "El modelo propone una matriz 3×3 de clases: tres sistemas representacionales (episódico, semántico, procedimental) cruzados con tres dinámicas (imaginario, formal, gramatical),"
+→ [Viernes terminal (1:02:39)](https://youtu.be/H162q8kbtWI?t=3759)
+
+La formulación explícita de la matriz cierra una articulación que la página dejaba como problema abierto: las dos tripartitudes — sistemas de memoria y componentes Q — no son redundantes ni jerárquicas, son **dimensiones ortogonales** que generan nueve celdas operativas de combinación. Cada celda puede analizarse independientemente y cada falla clínica puede mapearse a un eje específico.
+
+### Tres patologías como falsadores empíricos del modelo
+
+La potencia operativa de la matriz se demuestra cuando cada componente Q puede fallar aisladamente sin colapsar los otros — el aislamiento de la falla evidencia la independencia funcional:
+
+> "La afantasía (incapacidad de evocar imágenes mentales) demuestra que el sistema imaginario puede fallar aisladamente sin afectar inteligencia ni afectos,"
+→ [Viernes terminal (1:13:28)](https://youtu.be/H162q8kbtWI?t=4408)
+
+> "La psicopatía es un déficit en la representación afectiva: atenuación de emociones como terror, pánico o intimidad,"
+→ [Viernes terminal (1:13:28)](https://youtu.be/H162q8kbtWI?t=4408)
+
+> "La psicosis es un exceso de control de la función imaginaria bottom-up: el cerebro rellena la carencia de interpretación exterior con proyecciones propias,"
+→ [Viernes terminal (1:13:28)](https://youtu.be/H162q8kbtWI?t=4408)
+
+La terna clínica articula tres direcciones de falla en la matriz noética:
+
+- **Afantasía** = falla del componente Q sub-i (imaginario) en su modo de evocación voluntaria, con preservación de Q sub-f y Q sub-a — caso ya parcialmente documentado en la página, ahora reposicionado como uno de los tres casos coordinados.
+- **Psicopatía** = falla del componente Q sub-a (afectivo) — atenuación específica de las clases afectivas vinculadas a respuesta empática (terror, pánico, intimidad), preservando Q sub-i y Q sub-f. La pieza precisa que la psicopatía no es maldad estructural ni déficit cognitivo general, sino disociación funcional de la representación afectiva.
+- **Psicosis** = falla por **exceso bottom-up** del componente Q sub-i — el cerebro rellena la falta de input interpretativo coherente desde el exterior con proyecciones imaginarias propias que sustituyen la realidad consensuada. La psicosis no es falta de imaginario sino su saturación incontrolada por carencia de calibración top-down.
+
+La coordinación de las tres patologías opera como **falsador clínico del modelo**: si los tres componentes Q fueran reductibles a un sustrato único, las fallas serían correlacionadas; el hecho de que se disocien empíricamente (afántasicos sin psicopatía, psicópatas sin afantasía, psicóticos con cualquier configuración previa) es evidencia de la independencia ortogonal que el modelo postula.
+
+### El tiempo como sucesión procedimental ordenada
+
+La pieza complementa la articulación previa del tiempo (ver sección 'Cuantitativo, tiempo y lenguaje') que situaba el tiempo fenomenológico como Q sub-i + Q sub-a. Aquí el speaker añade el sustrato cognitivo subyacente: la sucesión misma sobre la que opera la valencia afectiva nuevo/viejo es **memoria procedimental** ejecutándose como cuello de botella secuencial.
+
+> "El tiempo surge de la memoria procedimental: sucesiones de representaciones ordenadas como un cuello de botella,"
+→ [Viernes terminal (1:19:00)](https://youtu.be/H162q8kbtWI?t=4740)
+
+> "Las instrucciones mentales exigen una secuencia de pequeñas representaciones una tras otra, lo que genera la sensación de antes y después,"
+→ [Viernes terminal (1:19:00)](https://youtu.be/H162q8kbtWI?t=4740)
+
+> "Los recuerdos episódicos se ordenan en una sucesión de más claro a menos claro, y ese orden produce la vivencia del tiempo,"
+→ [Viernes terminal (1:19:00)](https://youtu.be/H162q8kbtWI?t=4740)
+
+La precisión arquitectónica completa el cuadro temporal del marco: la **sucesión** es procedimental (la memoria procedimental opera por encadenamiento de instrucciones que solo pueden ejecutarse secuencialmente — cuello de botella estructural del aparato cognitivo), el **orden de los recuerdos episódicos** modula la sucesión (más claro / menos claro como gradiente que sustituye la información temporal-cronológica directa, no disponible para la psique), y la **valencia afectiva nuevo/viejo** (articulada en el directo previo) colorea fenomenológicamente cada elemento de la sucesión.
+
+La articulación 3-capas del tiempo cognitivo queda así: procedimental (sucesión) + imaginario-episódico (orden de claridad) + afectivo (valencia nuevo/viejo). Las tres capas operan simultáneamente; ninguna sola produce experiencia temporal. La consecuencia teórica para el flanco anti-computacional del marco es directa: una arquitectura computacional con timestamps explícitos NO produce experiencia temporal — produce datos cronológicos sin la composición Q sub-procedimental + sub-i + sub-a que la cognición humana requiere para sentir el tiempo.
+
 
 
 
@@ -318,6 +453,54 @@ La consecuencia operativa para la teoría del símbolo es que el lenguaje opera 
 → [Stream Navidad 2025 (39:11)](https://youtu.be/hVfKOHEM_wU?t=2351)
 
 El argumento cierra el flanco con simetría: si el pensamiento cabe en lenguaje, el constructivismo tiene razón; si solo el caudal de 12 bits/s cabe en metarrepresentación lingüística mientras el grueso de la matriz noética opera implícito, el constructivismo confunde el algoritmo de compresión con el contenido comprimido. La tesis del canal queda así polemizada — no solo articulada — frente a una tradición concurrente.
+
+
+
+## Refinamiento del componente imaginario: representación modular vs distribuida y la falacia imaginaria del meme 2+2=5
+
+En el directo *Twitchversario de Proxy* (01 oct 2024) el canal precisa la mecánica interna de la componente imaginaria de la matriz N con dos piezas operativas: la doble vía por la que opera toda representación visual (modular y distribuida simultáneamente, con la pareidolia como caso paradigmático), y un caso operativo de cómo la confusión entre Q sub-i (imaginaria) y Q sub-f (formal) produce falacias categoriales — el meme 2+2=5.
+
+### Representación modular vs distribuida
+
+La componente imaginaria opera por dos procesos complementarios que la página no había articulado por separado:
+
+> "Representación modular: reconstruir algo a base de elementos ajenos ya montados (trocitos de otros algos),"
+→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)
+
+> "Representación distribuida: definir la forma desde algo difuso que se va concretando (niebla de ruido blanco que materializa la forma),"
+→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)
+
+> "Las representaciones visuales integran ambos procesos simultáneamente,"
+→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)
+
+La distinción es arquitectónica: la representación modular monta lo nuevo a partir de fragmentos ya representados (memoria de formas + composición), mientras la distribuida emerge de un sustrato difuso que se va concretando (niebla de ruido blanco que materializa). Toda imagen mental visual integra ambos vectores simultáneamente — no son procesos secuenciales ni alternativos.
+
+### La pareidolia como caso operativo del doble proceso
+
+> "La pareidolia es consecuencia de este doble proceso: las formas inspiran al mismo tiempo de forma modular y distribuida,"
+→ [Twitchversario de Proxy (1:59:29)](https://youtu.be/UBwUUOKf5UU?t=7169)
+
+La pareidolia (ver caras en nubes, manchas, texturas) deja de ser anomalía perceptiva para convertirse en evidencia operativa de la doble vía: la nube ofrece simultáneamente fragmentos modulares (rasgos parciales que coinciden con módulos faciales almacenados) y un campo distribuido (mancha difusa que se concreta hacia la forma cara cuando la atención la integra). La pieza importa para la teoría del símbolo: el símbolo opera análogamente, evocando representaciones más complejas mediante la composición simultánea de elementos modulares (signos, fragmentos identificables) y campos distribuidos (atmósferas afectivas, contextos difusos). La pareidolia es el grado cero del símbolo — la forma mínima donde el doble proceso se hace fenomenológicamente accesible.
+
+### El meme 2+2=5 como falacia imaginaria
+
+La segunda pieza es aplicación operativa de la distinción Q sub-i / Q sub-f al meme viral que pretende demostrar 2+2=5 mediante composición gráfica de cifras:
+
+> "El meme de 2+2=5 mediante composición gráfica de cifras es una falacia imaginaria,"
+→ [Twitchversario de Proxy (2:12:47)](https://youtu.be/UBwUUOKf5UU?t=7967)
+
+> "Se están sumando formas (proceso imaginario) pero la suma es un proceso formal con elementos de categoría igual,"
+→ [Twitchversario de Proxy (2:12:47)](https://youtu.be/UBwUUOKf5UU?t=7967)
+
+La falacia opera por **confusión categorial entre dos componentes Q**: la suma como operación pertenece a Q sub-f (proceso formal sobre elementos del mismo género — números, no formas gráficas que aproximan números); el meme la presenta como Q sub-i (composición visual de trazos donde dos '2' superpuestos se ven como un '5'). La argumentación gráfica es legítima en su plano (sí, los píxeles encajan); la inferencia 2+2=5 es ilegítima porque transfiere una operación formal a la concatenación imaginaria sin que los elementos compartan categoría operatoria.
+
+> "En teoría de grupos, 2+2=5 requeriría que el conjunto vacío fuera una operación unaria, lo cual no procede,"
+→ [Twitchversario de Proxy (2:12:47)](https://youtu.be/UBwUUOKf5UU?t=7967)
+
+La precisión formal cierra el caso: para que 2+2=5 fuera válido en teoría de grupos, el conjunto vacío tendría que comportarse como operación unaria — lo que viola el axioma de cierre. La falacia imaginaria no se refuta produciendo una mejor imagen; se refuta separando los planos operatorios. Variantes del mismo meme (cuadrados de Exit, grafos de Isu) operan con el mismo fundamento confuso: una operación de Q sub-f disfrazada de operación de Q sub-i.
+
+La pieza es operativa para la teoría del símbolo del canal: muestra que la distinción de componentes Q no es solo descriptiva sino **discriminadora de validez** — permite identificar qué demostraciones aparentes son sofismas categoriales. El símbolo opera bien cuando ambas componentes coinciden en lo evocado; produce error cuando una se suplanta a la otra sin marca explícita.
+
 
 
 

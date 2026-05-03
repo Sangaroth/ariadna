@@ -106,7 +106,46 @@ El correlato mítico-arquetípico del amante masculino es el paladín — el mas
 
 La entrega tiene paralelo materno y filtro de madurez: el hombre que no ha alcanzado la edad psíquica adulta queda atrapado en el polo receptivo, sin poder entrar en el modo de entrega — caso del [[sindrome-wendy]] en su lectura inversa:
 
-> "La madre tiene el instinto de entrega con el hijo; el hombre lo tiene con la mujer; si el hombre es niño solo puede recibir (síndrome de Wendy)"
+> "La madre tiene el instinto de entrega con el hijo; el hombre lo tiene con la mujer; si el hombre es niño solo puede recibir (síndrome de Wendy)
+
+
+
+## Refinamiento del amor de entrega: pareja como quintaesencia y diagnóstico inverso
+
+En el directo *Tremendo martes* (04 mar 2026) el canal precisa dos piezas operativas sobre el amor de entrega que la página articulaba en plano arquetípico (paladín, sujeto/objeto, asimetría procedimental): qué define la pareja como vínculo voluntario máximo, y qué patrón relacional invierte el modo de entrega y lo vuelve patológico.
+
+### La pareja como vínculo biopsicosocial máximo
+
+> "La relación más intensa que se puede crear voluntariamente es la pareja: conocer al otro compartiendo vida, no ratitos,"
+→ [Tremendo martes (1:37:00)](https://youtu.be/MJDukHo33Tc?t=5820)
+
+> "El objetivo de la pareja no es suplir carencias afectivas sino conseguir que el otro sea la mejor persona posible a través de ti,"
+→ [Tremendo martes (1:37:00)](https://youtu.be/MJDukHo33Tc?t=5820)
+
+La precisión es teleológica: la página articulaba la entrega como 'el otro como sujeto de tu egoísmo, no como objeto'. Aquí el speaker añade el fin operativo concreto — que el otro devenga la mejor versión posible de sí **mediada por ti**. La pareja no es contención mutua de carencias (eso sería colusión negativa en términos de [[herida-narcisista-en-proxy]]) sino dispositivo de elevación recíproca cuya condición es la duración compartida (vida vs. ratitos). Conocer al otro requiere tiempo y exposición a la cotidianidad — el cortejo del amor cortés tiene su correlato post-vínculo en la convivencia sostenida que permite la entrega real.
+
+### Cáncer relacional: invertir el flujo de la entrega
+
+> "La entrega no es sometimiento ni codependencia: dar lo que necesitas que te den es cáncer relacional,"
+→ [Tremendo martes (1:37:00)](https://youtu.be/MJDukHo33Tc?t=5820)
+
+La pieza diagnóstica es operativa: el modo de entrega tiene una **inversión patológica precisa** que debe distinguirse del sometimiento o de la codependencia. Dar lo que uno mismo necesita recibir no es generosidad — es proyección de la carencia propia bajo apariencia de don. El sujeto da lo que necesitaría para sí, instalando en el otro la deuda de devolverlo. La fórmula 'cáncer relacional' nombra esa metástasis del vínculo: la entrega aparente metaboliza en exigencia oculta, y la relación se descompone porque el otro nunca puede devolver lo que el sujeto necesitaba originalmente — porque no era para el otro.
+
+### Renuncia ideológica al vínculo: el síndrome de las uvas verdes
+
+La pareja como modo viable se contrapone a su negación ideologizada — la articulación que el canal hace de la renuncia feminista posmoderna a las relaciones con hombres como operación alquímica:
+
+> "Dejar de tener relaciones con hombres por ideología no es filosofía ni activismo, es alquimia: transformar la carencia en virtud,"
+→ [Tremendo martes (1:26:40)](https://youtu.be/MJDukHo33Tc?t=5200)
+
+> "Es como quien no alcanza las uvas y dice que mantiene la línea: negación disfrazada de principio,"
+→ [Tremendo martes (1:26:40)](https://youtu.be/MJDukHo33Tc?t=5200)
+
+> "Si las relaciones con hombres dan problemas, la solución es cambiar la forma de relacionarse, no renunciar a las relaciones,"
+→ [Tremendo martes (1:26:40)](https://youtu.be/MJDukHo33Tc?t=5200)
+
+La pieza completa la doctrina del amor cortés desde el lado del fracaso: si el procedimiento (cortejo, asimetría, compromiso, entrega) se vuelve impracticable subjetivamente, la salida sana es revisar el modo de relacionarse, no clausurar la relación misma. La renuncia ideologizada — el feminismo posmoderno como caso paradigmático para el canal — opera el mecanismo alquímico clásico: tomar la carencia (no se accede al vínculo deseado) y elevarla a virtud (la libertad consiste en no quererlo). El movimiento es estructuralmente análogo al de las uvas verdes de la fábula: el deseo no satisfecho se reformula como rechazo virtuoso.
+"
 → [Fenomenología Trans (13:05)](https://youtu.be/grs5EqRZBnQ?t=785)
 
 ## Lagunas

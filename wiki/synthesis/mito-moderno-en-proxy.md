@@ -151,7 +151,55 @@ Particularmente rica esta lectura del canal sobre las versiones que el oráculo 
 
 Y la alegoría epistémica:
 
-> "La conciencia permite hacer saltos fuera del sistema: cada vez que aprendes algo, todo el conjunto cambia. Aprender más del mundo es alejarse, salir una capa hacia arriba, exactamente como conocer una capa de Matrix. La vida son pequeños despertares sucesivos, por eso Matrix está ambientado en código informático."
+> "La conciencia permite hacer saltos fuera del sistema: cada vez que aprendes algo, todo el conjunto cambia. Aprender más del mundo es alejarse, salir una capa hacia arriba, exactamente como conocer una capa de Matrix. La vida son pequeños despertares sucesivos, por eso Matrix está ambientado en código informático.
+
+
+
+## Pieza 6 — Cristología arquetípica, banquete supremos y el cierre de la mítica occidental
+
+En el directo *Vacacioff: De la Sartén a Venezuela* (29 jul 2024) el canal articula tres piezas que cierran el flanco cristológico del marco del mito moderno y diagnostican el estado de la mítica occidental contemporánea.
+
+### Mapa genealógico Apolo → Hércules / Dioniso
+
+La página articulaba a Cristo, Apolo, Hércules y Superman como mitos solares con misma estructura. La precisión añadida descompone el campo apolíneo en dos derivaciones operativas:
+
+> "Cristo, Apolo y Dioniso cumplen un papel arquetípico similar como héroes singulares,"
+→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)
+
+> "Apolo + humanidad = Hércules; Apolo + lado oscuro de la magia = Dioniso,"
+→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)
+
+La pieza es decisiva para la cristología arquetípica: Apolo es el arquetipo solar genérico (héroe en sentido amplio); cuando se le añade la dimensión humana de la prueba y el sufrimiento se obtiene Hércules (héroe del esfuerzo trágico); cuando se le añade el lado oscuro de la magia se obtiene Dioniso (héroe de la transgresión sagrada y el éxtasis). Cristo opera como cristalización monoteísta del mismo arquetipo singular — héroe que padece (componente Hércules) y que celebra el banquete sagrado del cuerpo y la sangre (componente Dioniso). La descomposición cierra una articulación que la página tenía implícita en la enumeración 'Cristo, Hércules, Apolo, Superman' sin distinguir las posiciones internas.
+
+### El banquete arquetípico: estructura del reino de los supremos
+
+La segunda pieza articula una categoría que el corpus no había nombrado: el **banquete arquetípico** como estructura cosmogónica del 'estar en el mundo de los más altos'.
+
+> "El banquete es un concepto arquetípico: representa el estar en el mundo de aquellos que son lo más de lo más,"
+→ [Vacacioff (1:14:08)](https://youtu.be/7quE-LPTPuE?t=4448)
+
+> "La disposición de la última cena de Da Vinci está pensada como una bacanal sublimada (no pagana, pero con esa estructura),"
+→ [Vacacioff (1:14:08)](https://youtu.be/7quE-LPTPuE?t=4448)
+
+> "Las bodas, mesas nórdicas del Valhalla y banquetes de dioses griegos comparten la misma estructura arquetípica,"
+→ [Vacacioff (1:14:08)](https://youtu.be/7quE-LPTPuE?t=4448)
+
+La categoría unifica un conjunto de escenas mitológicas heterogéneas en superficie pero estructuralmente equivalentes: la última cena cristiana, las bodas (cualquier boda), las mesas nórdicas del Valhalla, los banquetes de los dioses olímpicos. Todas comparten la **estructura del culmen civilizatorio**: el reunirse de los más altos en un evento donde el comer y beber no es alimentación sino comunión sublimada. La lectura de Da Vinci es precisa — la composición pictórica está pensada como bacanal sublimada (no pagana, pero replicando la estructura): comensales dispuestos en relación con un centro sagrado, gestualidad coordinada, jerarquía de lugares.
+
+La consecuencia operativa para el análisis simbólico: cualquier representación contemporánea de una mesa con 13 figuras dispuestas frontalmente con un centro destacado **necesariamente remite** a la última cena, porque la última cena es ya el cifrado pictórico canónico del banquete arquetípico en Occidente. No hay forma plástica neutra de componer ese tipo de escena.
+
+### El cierre mítico de Occidente: post-cristianismo sin mística real
+
+La tercera pieza es la tesis fuerte que diagnostica el estado de la mítica occidental contemporánea:
+
+> "Es muy difícil que una representación de banquete no remita a la última cena porque es el culmen civilizatorio del reino de los dioses en la tierra,"
+→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)
+
+> "No hay mitología posterior en Occidente con mística real después del cristianismo; el New Age es refrito y fantasía,"
+→ [Vacacioff (1:19:46)](https://youtu.be/7quE-LPTPuE?t=4786)
+
+La tesis es estructural: el cristianismo cierra históricamente la producción de mitología propia con mística real en Occidente. Lo que aparece después — esoterismo decimonónico, New Age, espiritualidad sincrética contemporánea — opera como **refrito** (recombinación de fragmentos sin coherencia mítica original) o como **fantasía** (invención sin anclaje arquetípico vivo). La consecuencia para el marco del mito moderno articulado en esta página: las obras culturales contemporáneas que recapitulan estructuras arquetípicas auténticas (Matrix, Tolkien, Lovecraft en clave de mitología propia consciente) operan necesariamente desde el sustrato cristiano-clásico cerrado — no fundan nueva mística, recuperan o invierten la previa. La mitología impropia contemporánea (en términos de [[mitologia-propia-impropia]]) no es solo desconocimiento de su condición de mito, sino imposibilidad estructural de fundar mítica nueva en un horizonte civilizatorio cuyo último cierre productivo fue el evangélico.
+"
 → [Matrix y el camino del héroe, 49:49](https://youtu.be/kF5KHE_fF7g?t=2989)
 
 ## Conexión con otros conceptos

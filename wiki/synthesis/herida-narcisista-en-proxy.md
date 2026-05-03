@@ -178,6 +178,10 @@ La cabezonería es persistencia rígida ligada al yo; la impulsividad es descarg
 
 
 
+
+
+
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
 - **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
@@ -185,4 +189,8 @@ La cabezonería es persistencia rígida ligada al yo; la impulsividad es descarg
 - **Psicoinfluencers** — chunks: [1:34:05](https://youtu.be/frbMVcThuRw?t=5645)
 - **Psicología 101: Ego, autoestima y TCAs** — chunks: [1:23:57](https://youtu.be/Sl4coB8bBs4?t=5037)
 - **Psicología 101: El perdón. Con @exitwithin** — chunks: [27:06](https://youtu.be/05MVbWwpiSs?t=1626)
+- **Tremendo martes** — chunks: [51:14](https://youtu.be/MJDukHo33Tc?t=3074)
+- **Twitchversario de Proxy** — chunks: [1:05:25](https://youtu.be/UBwUUOKf5UU?t=3925)
+- **Vacacioff: De la Sartén a Venezuela.** — chunks: [1:00:59](https://youtu.be/7quE-LPTPuE?t=3659)
+- **What is a Charo? (pt. 2)** — chunks: [41:03](https://youtu.be/xPB5l6KsU2Q?t=2463)
 

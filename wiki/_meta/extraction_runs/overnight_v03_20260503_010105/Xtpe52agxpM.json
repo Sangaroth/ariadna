@@ -1,0 +1,87 @@
+{
+  "video_id": "Xtpe52agxpM",
+  "video_title": "VISAGE",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay entities sustantivas — el stream es un let's play del juego de terror Visage por el 40º cumpleaños del speaker, con compañía de Claudia. Las reflexiones personales sobre el miedo son anecdóticas y no constituyen análisis arquetípico del juego ni del género",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Presentación del stream de cumpleaños jugando a Visage",
+      "reason_code": "meta_canal",
+      "reason_detail": "Stream de cumpleaños 40 del speaker jugando juego regalado por Disconexus, con compañía de Claudia. Meta-canal + presentación personal",
+      "quote_evidence": "Proxy celebra su 40 cumpleaños con un stream jugando un juego de terror regalado por Disconexus,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mecánica de la casa entre dos realidades temporales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Descripción de la mecánica del juego (casa actual vs casa pasada con disposición distinta del espacio). Lore del juego sin análisis arquetípico aplicado por el speaker — es comentario sobre el gameplay, no lectura simbólica del título",
+      "quote_evidence": "El juego transporta al jugador entre la casa actual y una versión pasada de la misma habitación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Historia de la mujer con trastorno mental",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lore narrativo del juego: esposa del protagonista con cuadro psiquiátrico ambiguo (síntomas de esquizofrenia, trastorno bipolar, demencia mezclados). Material narrativo del juego sin análisis clínico-arquetípico aplicado por el speaker. La pieza 'cinco números como llave de la casa interior' tiene potencial simbólico pero no se desarrolla",
+      "quote_evidence": "Ella afirma escuchar su propia voz susurrando una secuencia de cinco números por el baby monitor, describiéndola como \"la llave de su casa interior\",",
+      "review_priority": "medium",
+      "review_priority_reason": "Visage como obra de horror psicológico podría merecer entity_work si el canal lo retoma con análisis arquetípico desarrollado en otro vídeo. Conecta tangencialmente con el bloque sobre fantasmas/casas encantadas/colusiones del directo Viernes terminal (acumulado allí como passing_mention de alta prioridad)",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Reflexión sobre el miedo al susto como fenómeno psicológico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción breve entre miedo al contenido terrorífico y miedo a la reacción fisiológica del susto. Reflexión personal-clínica sin desarrollo monográfico",
+      "quote_evidence": "Proxy distingue entre miedo al contenido terrorífico y miedo a la reacción fisiológica del susto en sí,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Recapitulación del lore del juego",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recapitulación interna del gameplay y de la historia descubierta vía cintas y notas. Material narrativo del juego sin análisis arquetípico",
+      "quote_evidence": "El jugador recorre la casa en dos planos temporales descubriendo la historia a través de cintas y notas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Proxy sugiere que su sensibilidad al miedo podría tener origen traumático",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Especulación personal sobre origen psicológico de su propia sensibilidad al miedo + propuesta de exposición progresiva como acostumbramiento. Reflexión personal sin elevación a marco teórico",
+      "quote_evidence": "Especula que su reacción extrema al miedo podría estar vinculada a un susto grande en la infancia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 6,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T16:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -150,6 +150,39 @@ El caso límite — el varón cuyo padre fue ausente — no impide la segunda fa
 La segmentación cae lateralmente sobre el [[adgrediere-masculino|adgrediere]]: la pulsión arquetípica de avanzar contra la oposición es el motor que mueve al varón por las dos fases, y los cuatro objetos prescritos son cristalizaciones canalizadas de esa pulsión en clave individuativa.
 
 
+
+## Crítica al camino de la heroína: el viaje femenino es lunar o solar, no paralelo
+
+En el directo *Vacacioff: De la Sartén a Venezuela (parte II)* (30 jul 2024) el canal articula la posición sobre la pretensión contemporánea de construir un 'camino de la heroína' como monomito femenino paralelo al de Campbell. La tesis es polemista y precisa: tal camino paralelo no existe arquetípicamente, y la pretensión de construirlo es síntoma de mitología impropia.
+
+### Crítica al libro 'Ser mujer, un viaje heroico'
+
+> "El libro \"Ser mujer, un viaje heroico\" comete el error de crear un camino femenino paralelo al monomito de Campbell,"
+→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)
+
+> "El único viaje heroico femenino es el lunar o solar; las mujeres pueden tener ambos caminos,"
+→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)
+
+La lectura del canal es estructural: el monomito campbelliano no tiene contraparte femenina paralela porque las mujeres ya disponen de **ambos caminos arquetípicos disponibles** — el lunar (mito de la diosa cíclica, ver mito-lunar) y el solar (mito del dios masculino, accesible también a la psique femenina con orientación adgrediente integrada). La pretensión de construir un tercer camino específicamente femenino opera como duplicación no necesaria: cualquier viaje heroico que una mujer recorra cae bajo una de las dos plantillas ya existentes, no bajo una tercera de invención reciente.
+
+El criterio de demarcación arquetípica que sostiene la tesis es la asimetría operativa por testosterona:
+
+> "Los hombres no pueden seguir el camino de la diosa porque la testosterona bloquea la percepción del misterio femenino,"
+→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)
+
+La asimetría es estructural: la psique femenina puede integrar el mito solar (ejemplos canónicos en heroínas guerreras, científicas, exploradoras) sin perder acceso al mito lunar (maternidad, ciclo, presencia inmanente); la psique masculina queda bloqueada por la testosterona del acceso pleno al misterio femenino — puede contemplarlo, integrarlo parcialmente vía ánima, pero no recorrerlo como propio. La consecuencia: el camino del héroe (monomito) es operativamente masculino-coded pero accesible a ambos sexos; el camino de la diosa es operativamente femenino-coded y no plenamente accesible al varón.
+
+### La emancipación femenina como rebeldía dentro del mito lunar, no como nuevo monomito
+
+> "La emancipación femenina de la cultura no es un viaje del héroe sino una forma de rebeldía ya descrita en el mito lunar como la bruja,"
+→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)
+
+La tesis cierra el flanco crítico: cuando la cultura contemporánea presenta la emancipación femenina (rechazo de la maternidad, autonomía radical, ruptura con marcos tradicionales) como 'viaje del héroe femenino', está cometiendo error categorial. La estructura arquetípica de esa emancipación no es nueva — corresponde a la figura de la **bruja** dentro del mito lunar, articulada en la [[tipologia-femenina-arquetipica|tipología femenina arquetípica]] como figura terminal que rechaza lo civilizatorio. La emancipación radical contemporánea recapitula esa figura sin nombrarla, y el discurso del 'viaje heroico de la mujer' opera como ocultamiento de la genealogía mítica real: lo que se vende como camino heroico nuevo es figura corruptiva canónica con vocabulario de empoderamiento.
+
+La pieza importa para el marco de la página: el monomito como vara diagnóstica funciona también para detectar **construcciones míticas pseudo-paralelas** que reclaman estatus arquetípico sin haberlo. El libro 'Ser mujer, un viaje heroico' (Maureen Murdock-style) cae del lado de la mitología impropia no por ser sobre mujeres, sino por inventar una plantilla que el corpus arquetípico ya contiene articulada de otra forma — duplicación estructural que el canal lee como ornamento ideológico, no como aporte mitopoético genuino.
+
+
+
 ## Conexión con otros conceptos
 
 - Es el dispositivo narrativo de la [[individuation]]: la psique se identifica con el viaje y vive en seguridad simbólica un proceso de integración real
@@ -175,6 +208,8 @@ La segmentación cae lateralmente sobre el [[adgrediere-masculino|adgrediere]]: 
 
 
 
+
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
@@ -183,4 +218,6 @@ La segmentación cae lateralmente sobre el [[adgrediere-masculino|adgrediere]]: 
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:08:37](https://youtu.be/_0BM2jMsWdc?t=4117)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [1:03:40](https://youtu.be/i72IYlpQWd0?t=3820)
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [5:30](https://youtu.be/Dtp1_RLb7S0?t=330) · [1:38:03](https://youtu.be/Dtp1_RLb7S0?t=5883)
+- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [1:11:49](https://youtu.be/sTnxDjo1v3o?t=4309)
+- **What is a Charo?** — chunks: [2:19:48](https://youtu.be/qMfv4dX09Lg?t=8388)
 

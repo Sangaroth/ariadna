@@ -86,9 +86,47 @@ La excisión se relaciona con varias categorías ya tratadas en el corpus:
 - Funciona como condición previa a la [[individuation]]: liberar el yo de las metas heterónomas del entorno es paso necesario para que la madurez psicológica no consista en ser una copia de los valores del colectivo.
 - Se aplica como respuesta cuando el propio país deriva hacia un cuadrante del [[diagrama-de-proxy]] que uno rechaza, sin que ello obligue a renunciar al vínculo identitario.
 
+
+
+## La excisión como mecanismo psíquico: distinción frente a disociación y despersonalización
+
+En el directo *Twitchversario de Proxy* (01 oct 2024) el canal articula explícitamente la distinción operativa entre excisión y disociación que esta página declaraba como laguna abierta, e introduce además la despersonalización como sub-tipo de disociación. La pieza es importante para la página: la 'excisión' como estrategia consciente sobre el vínculo identitario es solo una de las manifestaciones de un mecanismo psíquico más general — la **contemplación polarizada** — que opera tanto a nivel relacional (vínculo con país, familia) como a nivel intrapsíquico (relación con representaciones del propio yo o del entorno).
+
+### Excisión como contemplación polarizada
+
+> "La excisión es contemplar algo de forma polarizada: solo amar u odiar devotamente, sin grises,"
+→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)
+
+La precisión amplía el alcance del término: la excisión no es solo la operación estratégica de retirar inversión libidinal de las metas del entorno, es la **forma estructural** que adopta cualquier polarización psíquica que renuncia al gradiente. La estrategia frente al país problemático opera como caso particular: amar el vínculo identitario y rechazar las metas del colectivo *sin grises intermedios*. La misma forma reaparece en otros registros — vínculos primarios donde se oscila entre devoción e ira, contemplación de figuras públicas, relación con la propia historia.
+
+### Disociación: distinción operativa
+
+> "La disociación separa procesos psíquicos que deberían ser un continuo de experiencia,"
+→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)
+
+La distinción categorial entre excisión y disociación queda fijada: la excisión polariza la valencia (amor / odio sin grises) preservando la unidad del yo que contempla; la disociación fragmenta el continuo procesal mismo, separando piezas (representación / afecto, memoria / agencia, percepción / interpretación) que en el funcionamiento sano operan integradas. La excisión opera sobre el objeto contemplado; la disociación opera sobre el aparato contemplador. La diferencia no es de grado sino de plano.
+
+### Despersonalización como sub-tipo de disociación
+
+> "La despersonalización es una disociación donde percibes tu entorno como si le pasara a otra persona,"
+→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)
+
+La pieza añade un caso clínico concreto: la despersonalización es la disociación específica donde se separa la experiencia (sigue ocurriendo) del *sí-mismo experienciador* (queda al margen, como observador externo). El sujeto sigue percibiendo el entorno pero el dato fenomenológico de 'esto me está pasando' queda separado. El cuadro contrasta con la excisión sana: en la excisión el sujeto sostiene la unidad del yo y polariza valencias; en la despersonalización el sujeto pierde el ancla del yo y observa la propia experiencia como ajena.
+
+### El masking autista: caso de uso del par excisorio/disociativo
+
+> "Proxy prefiere \"excisorio\" sobre \"disociativo\" para describir el proceso revelado en el masking,"
+→ [Twitchversario de Proxy (1:28:08)](https://youtu.be/UBwUUOKf5UU?t=5288)
+
+La preferencia terminológica es operativa: el speaker analiza un testimonio de violencia obstétrica donde detecta signos compatibles con espectro autista leve (movimiento ocular, expresividad escindida, necesidad de texto preparado para comunicar lo inefable). El **masking** —traducir lo que se siente 'a humano' para hacerlo legible socialmente— produce un abismo entre expresión y contenido interno que tiene la *forma* de una disociación pero la *función* de una excisión: el sujeto polariza qué se muestra (versión legible para neurotípicos) frente a qué se preserva (experiencia interna que no encaja en categorías afectivas estándar) sin fragmentar la unidad del yo. La preferencia 'excisorio' sobre 'disociativo' captura esa diferencia funcional — el yo está intacto, lo que está separado son las dos caras del intercambio.
+
+La pieza cierra parcialmente la laguna sobre el criterio diferencial entre excisión y disociación, y abre el alcance del término hacia procesos clínicos donde el canal mantiene la primacía analítica de la integridad del yo frente a las lecturas que reducen toda separación interna a fragmentación patológica.
+
+
 ## Lagunas
 
 - El canal nombra la categoría y la aplica a dos casos (país y familia) pero no explora si la excisión funciona igual en otros vínculos identitarios irrenunciables (lengua materna, generación, gremio profesional, comunidad religiosa de origen).
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: No se desarrolla cómo se distingue operativamente una excisión sostenible de una -->
 - No se desarrolla cómo se distingue operativamente una excisión sostenible de una *disociación* defensiva: ambas ponen distancia emocional, pero la disociación fragmenta el yo y la excisión preserva su integridad. El criterio diferencial queda implícito.
 - El canal apunta que es el modo en que se gestiona la relación con "unos padres problemáticos" pero no elabora la dimensión clínica: cómo se acompaña una excisión cuando el entorno no es un país abstracto sino vínculos primarios cargados afectivamente.
 - No se conecta explícitamente con la tradición psicoanalítica del *duelo* ni con la noción de elaboración: la excisión parece operar antes del duelo (no hay pérdida del objeto, hay redefinición del vínculo), pero la articulación queda pendiente.
@@ -98,7 +136,9 @@ La excisión se relaciona con varias categorías ya tratadas en el corpus:
 
 
 
+
 - **La Huida** — chunks: [54:03](https://youtu.be/x4peEvI8L5o?t=3243)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [26:11](https://youtu.be/i72IYlpQWd0?t=1571)
 - **Magia y Poética** — chunks: [10:51](https://youtu.be/9U6CwqPMI3c?t=651)
+- **Twitchversario de Proxy** — chunks: [1:28:08](https://youtu.be/UBwUUOKf5UU?t=5288)
 

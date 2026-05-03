@@ -90,10 +90,12 @@ Esto sitúa la lectura del tarot dentro del marco interpretativo de [[jung-carl-
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:45:47](https://youtu.be/_0BM2jMsWdc?t=6347)
 - **Fenomenología Trans** — chunks: [38:02](https://youtu.be/grs5EqRZBnQ?t=2282)
 - **Psicoinfluencers** — chunks: [36:37](https://youtu.be/frbMVcThuRw?t=2197)
+- **What is a Charo?** — chunks: [2:36:43](https://youtu.be/qMfv4dX09Lg?t=9403)
 

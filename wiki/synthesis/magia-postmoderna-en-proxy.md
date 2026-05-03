@@ -127,5 +127,7 @@ Esa distinción permite separar la **mecánica oracular** legítima (relajación
 ## Citations
 
 
+
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [39:56](https://youtu.be/9U6CwqPMI3c?t=2396)
+- **What is a Charo?** — chunks: [2:36:43](https://youtu.be/qMfv4dX09Lg?t=9403)
 

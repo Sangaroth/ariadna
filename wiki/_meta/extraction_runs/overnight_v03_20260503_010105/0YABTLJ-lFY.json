@@ -1,0 +1,325 @@
+{
+  "video_id": "0YABTLJ-lFY",
+  "video_title": "Tremendo lunes",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "clase cognitiva",
+      "canonical_guess": "clase-cognitiva",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Qué es una clase cognitiva según el realismo cognitivo de Proxy"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Primer axioma: toda clase tiene como función la transitoriedad; los componentes del pensamiento son gradientes en resíntesis continua,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "El término 'clase cognitiva' es la pieza explícita que sustituye qualia dentro del marco de teoria-del-simbolo-en-proxy y realismo-cognitivo; aporta nombre canónico al constructo + axioma de transitoriedad no presente en la página existente. Va como update a teoria-del-simbolo-en-proxy, no como página propia (es vocabulario interno del marco ya promovido)",
+      "quote_evidence": "Unidad mínima de representación mental que sustituye el concepto filosófico de qualia: objetiva, universal y medible,"
+    },
+    {
+      "surface_form": "Cortical Labs cultivó neuronas humanas en un chip",
+      "canonical_guess": "cortical-labs-neuronas-doom",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si la arquitectura es idéntica a un cerebro con sus mismas reglas de composición, la inteligencia resultante sería natural aunque construida artificialmente,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Caso operativo del eje simulación/emulación ya documentado en golem-de-cobre. El canal usa Cortical Labs y la barrera somática como refinamiento de la diferencia ontológica máquina/mente. Va como update a golem-de-cobre, no como página propia (técnica neutral usada como evidencia del marco)",
+      "quote_evidence": "Cortical Labs cultivó neuronas humanas en un chip y las hizo jugar Pong y luego Doom,"
+    },
+    {
+      "surface_form": "barrera somática y el embodiment",
+      "canonical_guess": "barrera-somatica-embodiment",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Del tracto hipotalámico hacia abajo todo es barrera somática: el cuerpo es exterior al cerebro pero influye en la mente,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Pieza complementaria a golem-de-cobre: el cerebro no es solo neuronas, las neuronas intestinales y la glía son parte del sustrato — refuerzo del marco mente-no-máquina. Integrar en la misma sección que el caso Cortical Labs",
+      "quote_evidence": "Las neuronas intestinales son comparables en cantidad a las del encéfalo; la flora intestinal influye en el estado anímico,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay promote_new — todo el contenido sustantivo refuerza páginas ya promovidas.",
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La estructura completa enlaza con [[pensamiento-poetico]] (modo de operación que privilegia las componentes imaginaria y afectiva sobre la formal) y con [[golem-de-cobre]] (donde la tríada original queda ahora más finamente articulada).",
+      "content_proposed": "\n\n## Clase cognitiva como unidad mínima representacional y axioma de transitoriedad\n\nEn el directo *Tremendo lunes* (03 mar 2026) el canal nombra explícitamente la unidad mínima sobre la que opera el marco — **clase cognitiva** — y enuncia su axioma fundacional. La pieza es terminológica y axiomática: la página articulaba la matriz noética con tres componentes (afectivo, imaginario, gramatical) sin nombrar la unidad subyacente. La sesión cierra ese flanco proponiendo *clase cognitiva* como sustituto operativo del concepto filosófico de **qualia**, con la diferencia decisiva de que la clase es objetiva, universal y medible — es decir, traducible a procedimiento neurocientífico, no atributo privado e inefable.\n\n> \"Unidad mínima de representación mental que sustituye el concepto filosófico de qualia: objetiva, universal y medible,\"\n→ [Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)\n\n> \"Tres naturalezas fundamentales: clases afectivas (valencia emocional), imaginarias (estructura sensorial) y gramaticales (relaciones abstractas),\"\n→ [Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)\n\nLas tres naturalezas mantienen la tripartición ya articulada en el marco — afectiva / imaginaria / gramatical — pero ahora cada una nombra un *tipo de clase* (no solo una *componente* dentro de una representación compuesta). El primer axioma queda enunciado como propiedad estructural:\n\n> \"Primer axioma: toda clase tiene como función la transitoriedad; los componentes del pensamiento son gradientes en resíntesis continua,\"\n→ [Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)\n\nLa transitoriedad como función primaria refuerza la tesis nuclear de irrepetibilidad de la matriz noética que esta página articulaba: ningún estado mental es estable, los componentes son gradientes en resíntesis continua. La novedad axiomática es que la transitoriedad no es contingencia operativa sino *función definitoria* de la unidad — una clase que no caduca ya no es clase. La consecuencia para [[realismo-cognitivo]] es directa: el sustrato representacional es estructuralmente entrópico, lo que cierra la coherencia con el postulado de la cognición como parte de la realidad material entrópica.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "realismo-cognitivo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "0YABTLJ-lFY",
+          "timestamp_seconds": 5702,
+          "cite_markdown": "[Tremendo lunes (1:35:02)](https://youtu.be/0YABTLJ-lFY?t=5702)"
+        }
+      ],
+      "rationale": "La página articula la tríada afectivo/imaginario/gramatical y la matriz noética pero NUNCA nombra la unidad mínima que las compone como 'clase cognitiva' ni enuncia el axioma de transitoriedad como propiedad definitoria. Ambos elementos son nuevos respecto al cuerpo leído: aportan terminología canónica del canal (clase cognitiva = sustituto operativo de qualia) y un axioma estructural que refuerza la coherencia con realismo-cognitivo. Insert_after_passage al cierre de la sección sobre afantasía/alexitimia es el lugar editorialmente correcto: cierra la articulación de los componentes con la unidad que los aloja",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La distinción ontológica no es solo descriptiva sino arquitectónicamente excluyente — una capa simulada en un sistema que pretendía emulación reduce el sistema completo a simulación.",
+      "content_proposed": "\n\n## Cortical Labs, niveles de arquitectura y barrera somática\n\nEn el directo *Tremendo lunes* (03 mar 2026) el canal añade un caso operativo y dos refinamientos arquitectónicos a la distinción simulación/emulación que la página ya documenta. La pieza resuelve un caso límite hasta ahora implícito: **¿qué pasa si el sustrato sí es biológico?**\n\n### El caso Cortical Labs: neuronas humanas jugando a Doom\n\nCortical Labs cultivó neuronas humanas sobre un chip y las hizo jugar primero a Pong y después a Doom. El caso fuerza la pregunta de si esa inteligencia es artificial o natural, y la respuesta del canal mantiene la distinción ontológica del marco:\n\n> \"Cortical Labs cultivó neuronas humanas en un chip y las hizo jugar Pong y luego Doom,\"\n→ [Tremendo lunes (1:47:43)](https://youtu.be/0YABTLJ-lFY?t=6463)\n\n> \"Si la arquitectura es idéntica a un cerebro con sus mismas reglas de composición, la inteligencia resultante sería natural aunque construida artificialmente,\"\n→ [Tremendo lunes (1:47:43)](https://youtu.be/0YABTLJ-lFY?t=6463)\n\n> \"Una máquina que emule la inteligencia humana sin base biológica siempre será simulación: hay una diferencia ontológica irreducible,\"\n→ [Tremendo lunes (1:47:43)](https://youtu.be/0YABTLJ-lFY?t=6463)\n\nLa precisión cierra un flanco que el paradigma Turing dejaba abierto: el criterio no es comportamental ni de origen (cultivado en laboratorio cuenta como artificial en sentido productivo), sino de **composición material**. Una arquitectura biológica auténtica produce inteligencia natural aunque su existencia sea producto de manipulación humana; una arquitectura computacional, por sofisticada que sea, opera en régimen de simulación.\n\n### Niveles de arquitectura: dónde reside la diferencia ontológica\n\nLa distinción simulación/emulación se vuelve arquitectónicamente operacional al precisar **a qué nivel** opera la diferencia:\n\n> \"Toda emulación, al descender niveles de arquitectura, revela un punto donde aparece la diferencia ontológica,\"\n→ [Tremendo lunes (1:57:06)](https://youtu.be/0YABTLJ-lFY?t=7026)\n\n> \"A nivel proteínas o atómico se distingue lo artificial de lo natural: la simulación depende del nivel estructural,\"\n→ [Tremendo lunes (1:57:06)](https://youtu.be/0YABTLJ-lFY?t=7026)\n\n> \"La única recreación perfecta de una neurona es una neurona natural; para replicar la mente se necesita el cerebro completo con glía y todo,\"\n→ [Tremendo lunes (1:57:06)](https://youtu.be/0YABTLJ-lFY?t=7026)\n\nLa frontera se localiza con precisión: a nivel macroscópico (comportamiento, output verbal) la simulación puede ser indistinguible de la emulación; a nivel proteico o atómico la distinción es ineludible. La consecuencia operativa para los proyectos de protomente es que cualquier emulación parcial —solo neuronas, sin glía; solo conexiones, sin químicos— heredará el régimen simulativo de su capa más reductora. La 'única recreación perfecta de una neurona es una neurona natural' es la formulación límite: la mente no es replicable por reducción.\n\n### El cerebro no son solo neuronas: la barrera somática y el embodiment\n\nLa pieza complementaria sitúa el cerebro como solo una parte del sustrato cognitivo, no su totalidad:\n\n> \"Las neuronas intestinales son comparables en cantidad a las del encéfalo; la flora intestinal influye en el estado anímico,\"\n→ [Tremendo lunes (1:55:04)](https://youtu.be/0YABTLJ-lFY?t=6904)\n\n> \"Del tracto hipotalámico hacia abajo todo es barrera somática: el cuerpo es exterior al cerebro pero influye en la mente,\"\n→ [Tremendo lunes (1:55:04)](https://youtu.be/0YABTLJ-lFY?t=6904)\n\n> \"La mayor parte de las neuronas cerebrales se dedican al cerebelo (mente procedimental inconsciente), no a la cognición consciente,\"\n→ [Tremendo lunes (1:55:04)](https://youtu.be/0YABTLJ-lFY?t=6904)\n\nLa pieza extiende el anti-localismo ya documentado: no solo no hay locus de la memoria, tampoco hay locus del 'cerebro pensante' separable del organismo entero. La cognición consciente es una franja minoritaria del aparato neural; la mayor parte de las neuronas opera procedimentalmente fuera de la conciencia, y una porción comparable opera enteramente fuera del encéfalo (sistema entérico). El embodiment no es metáfora ni añadido: es la condición material del régimen emulativo. Una arquitectura computacional sin cuerpo no puede emular —solo simular— porque le falta la mayor parte del sustrato del que la mente deriva.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "0YABTLJ-lFY",
+          "timestamp_seconds": 6463,
+          "cite_markdown": "[Tremendo lunes (1:47:43)](https://youtu.be/0YABTLJ-lFY?t=6463)"
+        },
+        {
+          "video_id": "0YABTLJ-lFY",
+          "timestamp_seconds": 6904,
+          "cite_markdown": "[Tremendo lunes (1:55:04)](https://youtu.be/0YABTLJ-lFY?t=6904)"
+        },
+        {
+          "video_id": "0YABTLJ-lFY",
+          "timestamp_seconds": 7026,
+          "cite_markdown": "[Tremendo lunes (1:57:06)](https://youtu.be/0YABTLJ-lFY?t=7026)"
+        }
+      ],
+      "rationale": "La página tiene una sección extensa sobre simulación/emulación pero NO documenta el caso Cortical Labs (neuronas biológicas en chip jugando Doom), ni la doctrina de 'niveles de arquitectura' como localización precisa de la diferencia ontológica, ni la barrera somática/embodiment como pieza estructural del marco. Los tres elementos son genuinamente nuevos respecto al cuerpo leído (verifiqué hasta línea 800): aportan caso operativo (Cortical Labs), refinamiento arquitectónico (niveles), y extensión del sustrato (embodiment). Insert_after_passage tras la 'Asimetría operativa simulación/emulación' es editorialmente correcto: cierra la sección con el caso límite biológico y la precisión arquitectónica del nivel donde opera la distinción",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "La encrucijada vital: mudanza a Barcelona sin red de seguridad",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal de un participante del directo (mudanza, contrato celador, alquiler) sin valor ilustrativo de concepto promovido",
+      "quote_evidence": "Necesita trasladarse a Barcelona para trabajar de buzo, único lugar con ofertas laborales en su campo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Luna roja y lo femenino oscurecido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación poética del marco mito polar a evento celeste actual (luna de sangre = masculino bloqueando femenino). Brevísimo, sin desarrollo. Mención ilustrativa del concepto ya promovido",
+      "quote_evidence": "La luna de sangre ocurre cuando la tierra se interpone entre el sol y la luna: lo masculino bloqueando lo femenino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-polar",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Conato de tercera guerra mundial y la neutralidad suicida de España",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre actualidad geopolítica (España, EE.UU., Marruecos, bases aéreas) sin marco teórico aplicado. Test de cápsula del tiempo: retirando los nombres propios actuales pierde valor",
+      "quote_evidence": "España se declara neutral, lo que equivale a quedar indefensa: a nadie le importa tu posicionamiento, solo tu fuerza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El PSOE como estructura parasitaria de poder",
+      "reason_code": "political_news",
+      "reason_detail": "Politiqueo coyuntural sobre PSOE/Sánchez/Macron sin elevar a estructura psicológica/sociológica. Matched topic_filter exclude_patterns sobre PSOE",
+      "quote_evidence": "La única alianza internacional que sostiene a Sánchez es la árabe, por conveniencia mutua,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Reunificación hispánica: punto político sin punto cultural",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario coyuntural sobre Hispanoamérica/China/socialismos sin marco arquetípico aplicado más allá de la metáfora 'herpes Zóster'. No alcanza umbral de tesis estructural",
+      "quote_evidence": "Hispanoamérica ha sido susceptible a distintos socialismos como un herpes Zóster enquistado que brota al bajar defensas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Catolicismo no es socialismo ni pusilanimidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Reinterpretación breve de 'poner la otra mejilla' como desafío al agresor + tesis sobre catolicismo de combate. Brevedad insuficiente para extender virtudes-cardinales-teologales o cuento-de-navidad-muppets-1992-film, que ya documentan el marco luterano/católico",
+      "quote_evidence": "El catolicismo es religión de combate y acción, no de paz pasiva: el católico implementa sus principios trabajando,",
+      "review_priority": "medium",
+      "review_priority_reason": "Posible enriquecimiento futuro de virtudes-cardinales-teologales si se confirma articulación más sostenida en otros vídeos",
+      "enriches_concept": "virtudes-cardinales-teologales",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El New Age como caballo de Troya que derrumbó Occidente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre importación superficial de estética oriental + individualismo progresista. No alcanza desarrollo monográfico; concepto adyacente a consumismo-critica pero sin formulación nueva sustantiva",
+      "quote_evidence": "Occidente cayó por la importación superficial de estética oriental sin comprender su fondo,",
+      "review_priority": "medium",
+      "review_priority_reason": "El motivo 'pérdida de identidad colectiva' es recurrente del canal — vale acumular para detectar tesis emergente sobre crisis civilizatoria occidental",
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Neurociencia confirma diferencias cerebrales entre sexos",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Exposición de hallazgos neurocientíficos estándar (hormonas, migración neuronal, campana Gauss masculina más alargada) — el marco aplicado del canal (sesgo gamma, masculino/femenino cognitivo) ya está articulado en sesgo-gamma y golem-de-cobre. La mención aquí es passing recap",
+      "quote_evidence": "La migración neuronal produce formas de pensar diferentes; la campana de Gauss masculina es más alargada en ambos extremos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sesgo-gamma",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Por qué no hay categoría mixta en ajedrez: la mente también es cuerpo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Continuación del bloque anterior — embodiment aplicado a diferencias cognitivas sexuales. La pieza embodiment va capturada en el update a golem-de-cobre con fuerza más estructural; aquí solo es ejemplo coyuntural",
+      "quote_evidence": "Las mismas hormonas y migración de tejidos que diferencian el cuerpo diferencian la mente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La IA no sustituye al ser humano: acelerador darwiniano",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El marco 'IA como acelerador darwiniano' es complementario a la 'deuda cognitiva' ya documentada en golem-de-cobre, pero la formulación aquí es brevísima (3 bullets). No aporta caso operativo nuevo ni estructura interna desarrollada que justifique update de prosa",
+      "quote_evidence": "Cuando una necesidad se cubre con una herramienta, el humano busca otras necesidades que satisfacer y se desarrolla,",
+      "review_priority": "medium",
+      "review_priority_reason": "El framing 'acelerador darwiniano bipolar' (mismo motor degrada o desarrolla según el sujeto) es complemento positivo a deuda cognitiva — vale acumular si reaparece más desarrollado",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "IA como arma de doble filo: democratización y vigilancia masiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Catálogo breve de aplicaciones IA (geolocalización, educación en casa) sin marco cognitivo aplicado. Anclado en actualidad técnica",
+      "quote_evidence": "Simultáneamente será el motor de vigilancia masiva: con un trocito de imagen ya geolocaliza tu ubicación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Acelerador darwiniano: quien sabe usarla prospera, quien no, se hunde",
+      "reason_code": "passing_mention",
+      "reason_detail": "Repetición del bullet anterior bajo otro título. El framing 'todo cambio opera en al menos dos direcciones' es máxima del canal pero brevísima aquí",
+      "quote_evidence": "Quien sabe qué hacer con el mundo usará la IA para grandes cosas; quien no, para hacerse más inútil,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "App de cruce de datos públicos: IA contra la corrupción en contratación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso operativo concreto (Gerard, BORME, contratos sector público) — interesante como aplicación pero no es marco teórico del canal ni tesis. El consejo de programación con IA ('estructurar en bloques, ser dueño del proceso') es práctico, no enciclopédico",
+      "quote_evidence": "Gerard cruzó 17 millones de actos del BORME con 8,7 millones de contratos del sector público,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Centros de datos son infraestructura militar, no cultural",
+      "reason_code": "political_news",
+      "reason_detail": "Tesis geopolítica breve sobre demanda militar de datacenters. Sin desarrollo arquetípico ni marco psicológico — comentario coyuntural sobre la economía de la IA",
+      "quote_evidence": "Los centros de datos que se construyen masivamente responden a demanda militar, no a demanda cultural,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Presentación del Laberinto: repositorio inteligente del canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "El Laberinto es la propia herramienta MCP/RAG construida sobre el corpus del canal por colaboradores (Sangarot, Silent, Isu, Black). Meta-canal puro — no es contenido enciclopédico del canal",
+      "quote_evidence": "Plataforma construida en SharkShark por Sangarot, Silent, Isu y Black con todas las transcripciones del canal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Demostración del Laberinto: definición de conceptos del canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Demo en directo del MCP probando que define correctamente 'autotipo' y diferencia psicópata/sociópata. Las definiciones que devuelve la IA son de conceptos ya promovidos (autotipo) — no aporta material nuevo del speaker",
+      "quote_evidence": "La IA del Laberinto define correctamente \"autotipo\" como degradación extrema de un arquetipo reducido a cáscara estética,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autotipo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Los Goya como símbolo del cine subvencionado parasitario",
+      "reason_code": "political_news",
+      "reason_detail": "Repulsa puntual a la ceremonia de los Goya con parlamento a Sánchez — politiqueo coyuntural. Matched topic_filter sobre Sánchez. La crítica al 'cine subvencionado' como caso de consumismo-critica está apenas esbozada",
+      "quote_evidence": "Industria cinematográfica española sostenida con dinero público obligatorio del contribuyente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "La única alianza internacional que sostiene a Sánchez es la árabe, por conveniencia mutua,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Bloque PSOE/Sánchez — politiqueo coyuntural sin marco teórico"
+    },
+    {
+      "block_quote": "Repulsa hacia la parafernalia política desplegada en la ceremonia, incluyendo parlamento a Pedro Sánchez,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Comentario sobre Sánchez en ceremonia — politiqueo coyuntural"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 17,
+    "blocks_filtered_count": 2
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

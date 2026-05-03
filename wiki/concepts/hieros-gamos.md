@@ -198,7 +198,9 @@ Lectura antropológica del vínculo:
 
 
 
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [7:42](https://youtu.be/Tviv4PT0dv8?t=462) · [11:45](https://youtu.be/Tviv4PT0dv8?t=705) · [16:18](https://youtu.be/Tviv4PT0dv8?t=978) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
+- **Último Stream del Año** — chunks: [23:39](https://youtu.be/SSa1pF9Bw6U?t=1419)
 

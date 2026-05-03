@@ -1,0 +1,301 @@
+{
+  "video_id": "SSa1pF9Bw6U",
+  "video_title": "Último Stream del Año",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "Cuantitativo como procedimental-imaginario, tiempo como clase afectiva, lenguaje como especialización procedimental",
+      "canonical_guess": "refinamiento-componentes-Q",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "primary",
+      "minutes_estimate": 20,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Conmensurable significa poner lo medido en función de una medida; eso requiere comparar características evidentes entre objetos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo nuevo y lo viejo son clases que no pueden ser imaginarias ni formales, tienen que ser afectivas,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El lenguaje es una especialización de la memoria procedimental donde los objetos son clases de equivalencia con un camino rápido semántico,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Tres refinamientos coherentes y sustanciales del marco de la matriz noética articulado en teoria-del-simbolo-en-proxy: (a) la conmensurabilidad cuantitativa como abstracción de operaciones imaginarias sobre objetos, (b) el tiempo como clase afectiva (no formal ni imaginaria) y la conexión hipocampo memoria episódica = orientación espacial, (c) el lenguaje como especialización somática de la memoria procedimental — gramática como procedimientos sobre objetos. ~20 min sostenidos pedagógicos. Va como update masivo a teoria-del-simbolo-en-proxy",
+      "quote_evidence": "El tiempo es imaginario más afecto: la dimensión temporal se construye añadiendo un afecto a una sucesión de elementos,"
+    },
+    {
+      "surface_form": "La conciencia no es electricidad: gradientes electroquímicos, cualitatividad y rechazo del pansiquismo biológico",
+      "canonical_guess": "conciencia-cualitativa",
+      "page_type": "concept",
+      "domain_primary_guess": "natural.neuroscience",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La conciencia es cualitativa, no solo cuantitativa: no hay un continuo de conciencia proporcional al tamaño cerebral,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento del sustrato neurofísico de la conciencia que la página golem-de-cobre articula como 'mente humana ≠ máquina' pero NO documenta a nivel de electrofisiología cerebral: (a) en el cerebro no hay corriente eléctrica sino gradientes electroquímicos parecidos al magnetismo, (b) la conciencia no se reduce a esos gradientes (rechazo del pansiquismo biológico), (c) la conciencia es cualitativa, no cuantitativa — los estados (vigilia/sueño) son cualitativamente distintos, no puntos en un dial. Cierra el flanco neurofísico del marco anti-computacional",
+      "quote_evidence": "En el cerebro no hay corriente eléctrica propiamente dicha sino gradientes electroquímicos y diferencias de potencial,"
+    },
+    {
+      "surface_form": "Conductismo como estafa filosófica autocircular axiomática",
+      "canonical_guess": "conductismo-autocircularidad",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Si todo es conducta, nada es conducta — el axioma conductista no puede ser sobre la mente si es su propio axioma,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Critica filosófica fundacional al conductismo (no solo divulgativo) que la página psicoinfluencers-en-proxy NO documenta: el conductismo como sistema autorreferente axiomático cuya pretensión de explicar la mente colapsa por autocircularidad — si la afirmación 'todo es conducta' es una conducta más, no puede tener estatus axiomático sobre la mente. Refuerza la critica ya articulada con un argumento estructural más profundo. Va como update a psicoinfluencers-en-proxy",
+      "quote_evidence": "Un sistema autorreferente y axiomático implica que o el axioma es falso o hay contradicciones irreparables,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay promote_new — el contenido sustantivo refuerza páginas existentes; 'filantropatía' es término coincado pero brevísimo, queda en discarded con review_priority alta para detectar recurrencia futura",
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "En el cuervo, además, memoria episódica y procedimental están prácticamente fusionadas — no es que tenga las tres dimensiones representacionales separadas como el humano, sino que Q sub-f opera como módulo independiente sobre un sustrato representacional menos diferenciado.",
+      "content_proposed": "\n\n## Cuantitativo, tiempo y lenguaje: refinamientos sobre los componentes Q\n\nEn el directo *Último Stream del Año* (31 dic 2025) el canal articula tres precisiones operativas sobre cómo se descomponen funciones cognitivas que la página presentaba en plano abstracto. Las tres comparten una misma operación analítica: identificar a qué componentes Q pertenece propiamente cada función, mostrando que muchas funciones aparentemente formales (cuantificar, percibir el tiempo, hablar) son en realidad composiciones donde participan componentes imaginarios, afectivos o procedimentales en grados específicos.\n\n### La conmensurabilidad cuantitativa como abstracción de operaciones imaginarias\n\nLa primera precisión refuta la asignación intuitiva de la cuantificación a Q sub-f pura. Cuantificar requiere conmensurar, y la conmensuración tiene origen imaginario:\n\n> \"Conmensurable significa poner lo medido en función de una medida; eso requiere comparar características evidentes entre objetos,\"\n→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)\n\n> \"La única forma de comparar características evidentes es mediante el imaginario: la mente ve objetos donde podría ver huecos en un fondo,\"\n→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)\n\n> \"La mente prefiere ver círculos (objetos) porque la estructura mental piensa en unidades manejables para compararlas entre sí,\"\n→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)\n\n> \"La conmensurabilidad es una abstracción de las operaciones con objetos, y estas operaciones tienen origen imaginario,\"\n→ [Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)\n\nLa pieza precisa una pre-condición arquitectónica de Q sub-f: la operación formal de comparar magnitudes presupone la operación imaginaria previa de **discriminar objetos sobre fondo**. Sin la decisión perceptual de qué cuenta como unidad (forma sobre fondo, círculos en lugar de huecos), no hay nada que conmensurar. La cuantificación es así una abstracción de segundo orden — Q sub-f operando sobre el output de Q sub-i, no operación primaria. La consecuencia teórica es decisiva: una mente sin componente imaginaria robusta no puede cuantificar genuinamente, solo procesar tokens formalmente sin anclaje en discriminación perceptual. Es otra precisión que cierra el flanco contra la asimilación computacional de la cognición.\n\n### El tiempo como clase afectiva, no formal\n\nLa segunda precisión asigna la temporalidad fenomenológica a Q sub-a (afectiva), no a Q sub-f como sugeriría la intuición de que el tiempo es una dimensión geométrico-cuantitativa:\n\n> \"Lo nuevo y lo viejo son clases que no pueden ser imaginarias ni formales, tienen que ser afectivas,\"\n→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)\n\n> \"El tiempo fenomenológico se representa con imagen y afecto; la memoria es la sensación de que algo es nuevo o no,\"\n→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)\n\n> \"El hipocampo, que gestiona la memoria episódica, es el mismo órgano que nos orienta en el espacio (imaginario),\"\n→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)\n\n> \"El tiempo es imaginario más afecto: la dimensión temporal se construye añadiendo un afecto a una sucesión de elementos,\"\n→ [Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)\n\nLa pieza articula la temporalidad como composición Q sub-i + Q sub-a: la sucesión de elementos es imaginaria (memoria episódica = orientación en el eje temporal análoga a orientación espacial) y la valencia nuevo/viejo que la convierte en *experiencia temporal* es afectiva. La evidencia neuroanatómica que el speaker invoca es el hipocampo: el mismo órgano que produce orientación espacial produce memoria episódica, lo que apoya la lectura del tiempo como dimensión imaginaria con sobrecapa afectiva. La consecuencia para la teoría del símbolo es importante: las representaciones temporales (recuerdos, anticipaciones, sentido de duración) jamás son puramente formales — siempre arrastran la valencia afectiva que las distingue como pertenecientes al pasado, al presente o al futuro fenomenológico.\n\n### El lenguaje como especialización somática de la memoria procedimental\n\nLa tercera precisión sitúa al lenguaje no como módulo cognitivo independiente sino como especialización de la memoria procedimental — la más primitiva del catálogo:\n\n> \"La memoria procedimental explica el mundo a través de cómo podríamos interactuar físicamente con objetos,\"\n→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)\n\n> \"El lenguaje es una especialización de la memoria procedimental donde los objetos son clases de equivalencia con un camino rápido semántico,\"\n→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)\n\n> \"La gramática básica (sujetos, objetos, verbos, adjetivos, adverbios) son procedimientos: a cosas les pasan cosas,\"\n→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)\n\n> \"El lenguaje nace de la necesidad de transmitir nuestra relación con otros y con las cosas; ergo es una especificación somática de una estructura procedimental,\"\n→ [Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)\n\nLa pieza es genealógica y estructural: el lenguaje no se añade al aparato cognitivo como capa lingüística autónoma, sino que **deriva** de la memoria procedimental compactando los protocolos de interacción físico-corporal con objetos. La gramática misma — sujetos que ejecutan verbos sobre objetos, modificadores que precisan circunstancias — es la sintaxis abstracta de cómo se actúa sobre el mundo: 'a cosas les pasan cosas'. Los nombres operan como **clases de equivalencia con camino rápido semántico**, atajos representacionales para invocar el repertorio procedimental ligado a cada objeto sin recorrerlo entero.\n\nLa consecuencia para el flanco anti-constructivista que la página ya articula es directa: el lenguaje no estructura el pensamiento porque deriva de la memoria procedimental, que es ontogenética y filogenéticamente anterior. La compresión lingüística de 12 bits/s opera sobre un sustrato procedimental que ya tenía estructura — la sintaxis del mundo (cosas que actúan sobre cosas) precede a la sintaxis de las palabras y la modela.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "SSa1pF9Bw6U",
+          "timestamp_seconds": 4581,
+          "cite_markdown": "[Último Stream del Año (1:16:21)](https://youtu.be/SSa1pF9Bw6U?t=4581)"
+        },
+        {
+          "video_id": "SSa1pF9Bw6U",
+          "timestamp_seconds": 5138,
+          "cite_markdown": "[Último Stream del Año (1:25:38)](https://youtu.be/SSa1pF9Bw6U?t=5138)"
+        },
+        {
+          "video_id": "SSa1pF9Bw6U",
+          "timestamp_seconds": 5381,
+          "cite_markdown": "[Último Stream del Año (1:29:41)](https://youtu.be/SSa1pF9Bw6U?t=5381)"
+        }
+      ],
+      "rationale": "La página articula la matriz Q (afectivo/imaginario/formal) y los tres tipos de memoria (procedimental/episódica/semántica) pero declaraba como problema abierto la relación entre ambas tripartitudes. Este vídeo aporta tres precisiones operativas sobre esa articulación: (a) la cuantificación es Q sub-f anclado en operación previa Q sub-i (discriminación objeto/fondo), (b) el tiempo es Q sub-i + Q sub-a (no Q sub-f), evidenciado neuroanatómicamente vía hipocampo (memoria episódica = orientación espacial), (c) el lenguaje es especialización somática de la memoria procedimental, no módulo independiente — gramática como sintaxis de procedimientos. Las tres piezas son genuinamente nuevas respecto al cuerpo leído",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La consecuencia operativa que el canal articula — el código abierto como respuesta sistémica porque \"lo que censura una no lo censura otra\" — sustituye la confianza en un modelo único bien alineado por la heterogeneidad de modelos como mecanismo de salud informacional.",
+      "content_proposed": "\n\n## Sustrato neurofísico de la conciencia: gradientes electroquímicos, cualitatividad y rechazo del pansiquismo biológico\n\nEn el directo *Último Stream del Año* (31 dic 2025) el canal cierra el flanco electrofisiológico de la tesis nuclear: la mente humana no es máquina ni siquiera al nivel del sustrato físico que la sostiene. La pieza precisa qué tipo de proceso físico es realmente el cerebral y por qué ningún reduccionismo electroquímico simple explica la conciencia.\n\n### El cerebro no opera con corriente eléctrica\n\nLa primera precisión es de física básica frecuentemente confundida en divulgación:\n\n> \"En el cerebro no hay corriente eléctrica propiamente dicha sino gradientes electroquímicos y diferencias de potencial,\"\n→ [Último Stream del Año (39:56)](https://youtu.be/SSa1pF9Bw6U?t=2396)\n\n> \"Los gradientes electroquímicos se parecen más al magnetismo que a la electricidad industrial,\"\n→ [Último Stream del Año (39:56)](https://youtu.be/SSa1pF9Bw6U?t=2396)\n\nLa metáfora 'corriente eléctrica' aplicada al cerebro arrastra ontología ajena al fenómeno: las neuronas operan por desplazamientos iónicos a través de membranas (gradientes de concentración + diferencias de potencial), no por flujo continuo de electrones. La analogía adecuada es el campo magnético — un fenómeno distribuido y polarizado — no el cable conductor. La precisión importa para el marco anti-computacional: la arquitectura física de la cognición humana no es ni siquiera del mismo tipo físico que la arquitectura de los transistores. La asimetría no es solo computacional sino fisicoquímica de base.\n\n### La conciencia no se reduce a los gradientes: rechazo del pansiquismo biológico\n\n> \"La conciencia tampoco es solo gradientes electroquímicos, porque eso llevaría a un pansiquismo biológico donde todo cerebro tendría conciencia,\"\n→ [Último Stream del Año (39:56)](https://youtu.be/SSa1pF9Bw6U?t=2396)\n\nEl argumento es de demarcación: si la conciencia fuera mera consecuencia de la presencia de gradientes electroquímicos, todo organismo con sistema nervioso (incluso el más rudimentario) tendría conciencia en grado proporcional a su masa neural. La consecuencia es absurda — un caracol no tiene conciencia humana, y la diferencia con un mamífero no es solo cuantitativa. El reduccionismo electroquímico colapsa al pansiquismo biológico, que el canal rechaza por las mismas razones que rechaza el pansiquismo metafísico (ver argumento expuesto en [[bueno-gustavo]] sobre la imposibilidad de demarcar átomos conscientes de no-conscientes).\n\n### La conciencia es cualitativa, no cuantitativa\n\n> \"La conciencia es cualitativa, no solo cuantitativa: no hay un continuo de conciencia proporcional al tamaño cerebral,\"\n→ [Último Stream del Año (39:56)](https://youtu.be/SSa1pF9Bw6U?t=2396)\n\nLa precisión cierra el flanco contra cualquier modelo donde la conciencia se entienda como dial cuantitativo (más neuronas → más conciencia). La conciencia opera por **estados cualitativamente distintos** que no se ordenan en un eje gradual. El argumento se demuestra con casos cotidianos:\n\n> \"No se puede decir que el sueño sea \\\"menos conciencia\\\" porque no se puede cuantificar esa diferencia,\"\n→ [Último Stream del Año (47:09)](https://youtu.be/SSa1pF9Bw6U?t=2829)\n\n> \"Si conciencia equivale a experiencia, seguimos sin poder definir qué es experiencia-conciencia,\"\n→ [Último Stream del Año (47:09)](https://youtu.be/SSa1pF9Bw6U?t=2829)\n\n> \"La conciencia no funciona como un dial cuantitativo sino como estados cualitativamente distintos,\"\n→ [Último Stream del Año (47:09)](https://youtu.be/SSa1pF9Bw6U?t=2829)\n\nEl sueño no es 'menos conciencia' que la vigilia — es **otra cosa**. Si fuera punto inferior en un dial cuantitativo, podríamos medir cuánta conciencia hay en cada momento; el experimento mental falla porque no hay unidad de medida ni magnitud comparable. Distintos estados (vigilia, sueño REM, sueño profundo, anestesia, coma, meditación) son configuraciones cualitativas distintas del mismo sustrato neural. La consecuencia para la confrontación IA/humano es directa: una IA con N parámetros no es 'menos consciente' que una IA con 10·N parámetros — la pregunta misma está mal planteada porque presupone una métrica cuantitativa de la conciencia que la fenomenología humana no soporta.\n\nLa pieza completa el cierre electrofisiológico del marco: la cognición humana no es máquina porque (a) su sustrato físico no es del tipo de los circuitos electrónicos sino de los campos electroquímicos polarizados, (b) ningún reduccionismo a ese sustrato explica la conciencia sin colapsar al pansiquismo biológico, y (c) la conciencia opera por diferencias cualitativas de estado, no por magnitudes cuantificables.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "bueno-gustavo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "SSa1pF9Bw6U",
+          "timestamp_seconds": 2396,
+          "cite_markdown": "[Último Stream del Año (39:56)](https://youtu.be/SSa1pF9Bw6U?t=2396)"
+        },
+        {
+          "video_id": "SSa1pF9Bw6U",
+          "timestamp_seconds": 2829,
+          "cite_markdown": "[Último Stream del Año (47:09)](https://youtu.be/SSa1pF9Bw6U?t=2829)"
+        }
+      ],
+      "rationale": "La página articula la asimetría cognición humana vs IA en plano arquitectónico (grafo tridimensional, memoria sin locus, anti-localismo) y filosófico (afectos como frontera, simulación vs emulación, niveles de arquitectura) pero NO documenta el plano electrofisiológico básico: qué tipo de proceso físico es realmente el cerebral y por qué ningún reduccionismo a ese sustrato basta. El vídeo aporta tres piezas nuevas: (a) gradientes electroquímicos parecidos al magnetismo, no corriente eléctrica, (b) rechazo explícito del pansiquismo biológico como consecuencia de reducir la conciencia a esos gradientes, (c) cualitatividad no-cuantificable de los estados de conciencia (sueño/vigilia como ejemplo). Insert tras la sección DeepSeek es editorialmente correcto: cierra el bloque sobre fundamentos del marco anti-computacional",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "psicoinfluencers-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La crítica no es solo metodológica: el speaker lee el caso como manifestación contemporánea del cuadro narcisista de la divulgadora salvífica que ofrece un atajo cognitivo —\"todo es conducta, todo es refuerzo\"— a cambio de adhesión a su autoridad. Conecta así con [[herida-narcisista-en-proxy]] y con la posición que el [[diagrama-de-proxy]] asignaría al fundamentalismo moral con jerarquía aplanada propio del influencer pseudoterapéutico.",
+      "content_proposed": "\n\n## El conductismo como sistema autorreferente axiomático: la crítica fundacional\n\nEn el directo *Último Stream del Año* (31 dic 2025) el canal añade a la crítica metodológica al conductismo divulgativo una objeción filosófica más profunda: el conductismo, leído no ya como práctica divulgativa imprecisa sino como **sistema teórico**, colapsa por autocircularidad axiomática. La pieza eleva la crítica del plano operativo (términos sin definir, dicotomías falsas, hombre de paja) al plano fundacional (incoherencia estructural del axioma conductista mismo).\n\n### Si todo es conducta, nada es conducta\n\n> \"Si todo es conducta, nada es conducta — el axioma conductista no puede ser sobre la mente si es su propio axioma,\"\n→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)\n\nEl argumento opera por reducción al absurdo del propio gesto fundacional: el conductismo postula que toda actividad mental es reductible a conducta. Pero el postulado mismo —la afirmación 'toda actividad mental es conducta'— es una operación mental. Si esa operación es conducta más, no tiene estatus axiomático sobre la mente (es una conducta entre otras, no fundamento); si tiene estatus axiomático, opera fuera del régimen que pretende universalizar (entonces hay algo no-conducta que produce el axioma, contradiciendo el postulado). La extensión universal del concepto colapsa su discriminación: cuando todo cae bajo una categoría, la categoría deja de informar.\n\n### Imposibilidad de auto-explicación desde dentro\n\n> \"El conductismo no puede explicarse a sí mismo saliendo de sus propias coordenadas, a diferencia de otros sistemas filosóficos conectados a la realidad,\"\n→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)\n\nLa precisión es comparativa: otros sistemas filosóficos (el realismo cognitivo del canal incluido) pueden articular sus axiomas por referencia a una realidad externa al sistema mismo (la mente humana, el sustrato físico, las clases noéticas). El conductismo carece de esa salida porque ha clausurado de antemano el régimen externo: si solo hay conducta, no hay anclaje fuera de la conducta para fundamentar la teoría sobre la conducta. La consecuencia es doble: (a) el sistema no puede revisarse críticamente desde su interior porque no tiene metanivel, y (b) toda objeción externa se reformula ad hoc como variante de conducta, blindando el sistema a la falsación.\n\n### La negación metafórica de la enfermedad mental como abuso categorial\n\n> \"La negación de la enfermedad mental como metáfora es un abuso de la negación metafórica: si eso es metáfora, todo lo que dice el conductismo también lo es,\"\n→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)\n\nLa pieza extiende la crítica al borrado nominal del diagnóstico que la página ya articulaba (TOC, depresión exógena reformuladas como queja vivencial). La operación retórica es reducir la categoría psiquiátrica a 'mera metáfora' que no nombra ningún referente real. El canal aplica el mismo criterio reflexivamente: si la enfermedad mental es metáfora, también lo son 'conducta', 'refuerzo', 'consecuencia' — términos del propio aparato conductista que tampoco tienen referente directo y unívoco. La negación metafórica selectiva es así arbitraria: usa el operador retórico contra las categorías rivales y lo blinda frente a las propias.\n\n### Diagnóstico estructural: o axioma falso o contradicciones\n\n> \"Un sistema autorreferente y axiomático implica que o el axioma es falso o hay contradicciones irreparables,\"\n→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)\n\nEl cierre es lógico-estructural y no admite tercera vía operativa: cualquier sistema cuyo axioma se aplique reflexivamente a sí mismo (autorreferente) y pretenda fundación última (axiomático) cae en una de dos posiciones — o el axioma es factualmente falso (y el sistema entero pierde base), o es verdadero pero genera contradicciones internas inelimnables (paradoja del barbero, etc.). La pieza no es ataque ad hoc al conductismo divulgativo sino **diagnóstico filosófico de su forma sistémica**: cualquier sistema con esa estructura tiene la misma vulnerabilidad. La consecuencia metodológica es restrictiva: el conductismo solo puede sostenerse pragmáticamente como herramienta operativa de modificación conductual en contextos acotados — no como teoría fundacional de la mente.\n\nLa pieza cierra una laguna implícita de la página: la crítica a la divulgación conductista quedaba en plano metodológico-operativo (qué hace mal el divulgador en concreto); este vídeo le añade el plano filosófico-estructural (por qué la forma misma del sistema no puede tener éxito como teoría de la mente, independientemente de quién lo divulgue y cómo).",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "SSa1pF9Bw6U",
+          "timestamp_seconds": 3535,
+          "cite_markdown": "[Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)"
+        }
+      ],
+      "rationale": "La página articula la crítica al conductismo divulgativo en plano metodológico (términos sin definir, dicotomías falsas, hombre de paja, sofisma estético, borrado del diagnóstico) pero NO documenta el plano filosófico-fundacional: la autocircularidad axiomática del conductismo como sistema teórico (si todo es conducta, nada es conducta), la imposibilidad de auto-explicación desde dentro del régimen, y la aplicación reflexiva del operador 'mera metáfora' contra el propio aparato conductista. El video aporta este nivel de crítica que eleva la objeción de la práctica divulgativa al sistema mismo. Insert tras la sección 'El divulgador-iluminado como figura cultural' es editorialmente correcto: cierra la crítica articulada con su nivel filosófico más profundo",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Proxy anuncia que se muda por una oferta laboral de especialización en hot tap",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anuncio personal de cambio laboral y de vivienda. Meta-canal sin contenido enciclopédico",
+      "quote_evidence": "Le han ofrecido un trabajo de especialización en hot tap y stop flow dentro del buceo profesional,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Frustración con la falta de interacción del chat en los directos",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reflexión sobre la dinámica de interacción con la audiencia. Meta del propio formato directo, sin contenido temático",
+      "quote_evidence": "Le resulta desagradable soltar un soliloquio de 10 minutos y que nadie diga nada al terminar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La paradoja de Kripke y la no computabilidad del pensamiento",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El argumento Kripke (si hay parte del pensamiento no material, materialismo incompleto) está ya extensamente documentado en bueno-gustavo ('Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke'). Aquí se reitera con leves variantes pero sin aporte sustancial nuevo respecto a la prosa existente",
+      "quote_evidence": "Si el pensamiento puede elaborar cosas que no existen en lo material, entonces el pensamiento es no material,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El explanatory gap y el hard problem de la conciencia",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El hard problem está documentado en bueno-gustavo ('Empíricamente no se puede afirmar que la conciencia sea físico-material; suponemos que lo es pero no sabemos cómo ni por qué'). La distinción aquí entre hard/soft problem añade vocabulario menor pero sin aporte sustantivo no presente",
+      "quote_evidence": "El hard problem es un problema filosófico: nos faltan términos para hablar de la conciencia sin contradicción,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción explícita hard problem / soft problem (filosófico vs psicológico-correlatos) podría merecer entry breve si se desarrolla — acumular",
+      "enriches_concept": "bueno-gustavo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La democracia como ejemplo de problema filosófico vs. idea poética",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre democracia como mito sofístico (el pueblo no se gobierna a sí mismo). Reaparece como tema recurrente del canal (también en 'Twitchversario': democracia como neurosis colectiva). Brevísima aquí",
+      "quote_evidence": "\"El pueblo gobernándose a sí mismo\" suena bien pero es un sofisma: el pueblo no es un sujeto unitario y nadie puede gobernarse a sí mismo,",
+      "review_priority": "high",
+      "review_priority_reason": "Democracia como mito impropio es tesis recurrente del canal — si reaparece desarrollada en otros vídeos podría justificar página propia o major update a mitologia-propia-impropia / consumismo-critica",
+      "enriches_concept": "mitologia-propia-impropia",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El concepto de cero en los cuervos y el problema de la conciencia animal",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El cuervo con concepto de cero / conjunto vacío está ya documentado en teoria-del-simbolo-en-proxy ('La inteligencia como recreación, no como representación: el problema del cuervo'). Aquí se reitera el caso con la pregunta abierta sobre qualia animal, sin aporte sustantivo nuevo",
+      "quote_evidence": "Los cuervos distinguen entre uno, dos, nada y además poseen concepto de cero, que es una idea de no-cosa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Caída bursátil de Beyond Meat y el concepto de filantropatía",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso bursátil + acuñación canal-específica del término 'filantropatía' (síndrome del filántropo que se hipostasia con la humanidad reduciendo la realidad a operación sujeto-objeto). Coining momentáneo sin desarrollo monográfico ni recurrencia confirmada — no cumple gate de promoción",
+      "quote_evidence": "Proxy acuña el término \"filantropatía\": síndrome por el que un filántropo se hipostasia con la humanidad y reduce la realidad a una operación sujeto-objeto,",
+      "review_priority": "high",
+      "review_priority_reason": "Término CANAL-COINED explícitamente ('Proxy acuña'). Si reaparece en futuros vídeos como marco aplicado, candidato fuerte a página propia y entrada en canonical_whitelist como channel-specific concept. Marcar como canonical_external_candidate para revisión humana — el speaker mismo etiqueta el coining",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La ideología como reducción de realidades complejas a objetos mentales manejables",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre dicotomización del pensamiento + ideología como reducción categorial + amplificación patológica en sujetos con poder ilimitado. Conecta con autoría de tesis previa sobre 'la ideología dice cómo quieres que se comporten los demás' (Tremendo martes). Brevedad insuficiente para update individual",
+      "quote_evidence": "La ideología reduce grandes realidades a categorías objetales separadas de sus circunstancias,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis recurrente sobre estructura de la ideología — acumular para futura síntesis",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La doctora Julia Shaw publica un libro sobre que la memoria no existe",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención breve a publicación externa que coincide con tesis del canal (la memoria no existe). Auto-validación canal-céntrica sin desarrollo bibliográfico explícito que justifique recommended_reference",
+      "quote_evidence": "Se ha escrito un libro que gira alrededor de la misma idea que Proxy defiende: la memoria no existe,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El eterno retorno confunde el mito con el acting out ritual",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura breve del eterno retorno nietzscheano como confusión mito/rito + acting out psicoanalítico. Brevedad insuficiente; conecta con liturgia-como-rito y mitologia-propia-impropia pero sin desarrollo",
+      "quote_evidence": "El eterno retorno de Nietzsche podría estar confundiendo el mito con el rito aparejado al mito,",
+      "review_priority": "medium",
+      "review_priority_reason": "Lectura crítica de Nietzsche desde la distinción mito/rito — acumular si reaparece como tesis desarrollada",
+      "enriches_concept": "liturgia-como-rito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a Garzón y la teoría monetaria moderna",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario coyuntural sobre figura política española (Garzón) y teoría monetaria moderna sin marco teórico aplicado del canal. Politiqueo + tema económico técnico sin elevación arquetípica",
+      "quote_evidence": "Garzón afirma que no se puede decir que no hay dinero para pensiones porque el dinero es ilimitado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La testosterona, la mentira y la dicotomía masculino-femenino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Hot take breve sobre estudio de testosterona + reformulación canal ('hombre = mujer testosteronizada de forma concreta', referencia a Polaris) + correlación wokismo / histriónico-borderline. Conecta con sesgo-gamma y diagrama-de-proxy pero brevedad insuficiente",
+      "quote_evidence": "Proxy interpreta: la mentira es una herramienta femenina, el contraste y la exposición es una herramienta masculina,",
+      "review_priority": "medium",
+      "review_priority_reason": "El framing 'mentira como herramienta femenina / contraste como herramienta masculina' es articulación canal-específica que podría enriquecer sesgo-gamma — acumular para tesis sobre asimetrías comunicacionales por sexo",
+      "enriches_concept": "sesgo-gamma",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Proxy reflexiona sobre cómo escribir su libro sobre la mente",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reflexión sobre proyecto editorial personal + petición de ayuda a la audiencia para condensar el sistema teórico. Meta-canal sin contenido temático",
+      "quote_evidence": "Considera que su sistema teórico es muy potente para explicar la mente humana a través de funciones propias,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T13:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

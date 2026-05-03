@@ -1,0 +1,199 @@
+{
+  "video_id": "H162q8kbtWI",
+  "video_title": "Viernes terminal: Los sueños y Ariadna",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Tres sistemas representacionales evidenciados clínicamente + tiempo como sucesión procedimental",
+      "canonical_guess": "tres-sistemas-representacionales-correlatos-clinicos",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "primary",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El modelo propone una matriz 3×3 de clases: tres sistemas representacionales (episódico, semántico, procedimental) cruzados con tres dinámicas (imaginario, formal, gramatical),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Se buscan estudios donde esas representaciones fallan (afantasía, psicopatía, psicosis) para identificar los correlatos neurobiológicos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El tiempo surge de la memoria procedimental: sucesiones de representaciones ordenadas como un cuello de botella,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Dos refinamientos al marco de la matriz noética articulado en teoria-del-simbolo-en-proxy: (a) tres patologías concretas (afantasía / psicopatía / psicosis) operativas como evidencia clínica de la independencia funcional de los tres componentes Q (imaginario / afectivo / gramatical-bottom-up) — la página tenía la matriz formal y un caso parcial (afantasía) pero NO las tres fallas simétricas como evidencia coordinada, (b) el tiempo como sucesión procedimental ordenada (sustrato cognitivo del tiempo fenomenológico) — complementa la articulación previa 'tiempo = imaginario + afecto' (Último Stream del Año) añadiendo la dimensión procedimental que da la sucesión misma sobre la que el afecto nuevo/viejo se aplica",
+      "quote_evidence": "La afantasía (incapacidad de evocar imágenes mentales) demuestra que el sistema imaginario puede fallar aisladamente sin afectar inteligencia ni afectos,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay promote_new — el material teórico refuerza teoria-del-simbolo-en-proxy; el bloque sobre fantasmas/casas encantadas/colusiones familiares queda como passing_mention de alta prioridad para futura síntesis; la presentación de Ariadna como proyecto es meta-canal/meta-proyecto (la propia herramienta dentro de la cual operamos)",
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza articula el problema abierto que el monográfico sobre el símbolo (Parte 2) deja implícito y que la página enuncia en lagunas como 'articulación con el self / individuación': la relación entre las memorias (procedimental, episódica, semántica) y las componentes representacionales (formal, imaginaria, afectiva) que el marco postula. La sesión declara explícitamente esa relación como problema abierto que el canal está investigando en directo — el matiz importa porque sitúa el marco como programa de investigación vivo, no como sistema cerrado.",
+      "content_proposed": "\n\n## Evidencia clínica de los tres componentes Q y el tiempo como sucesión procedimental\n\nEn el directo *Viernes terminal: Los sueños y Ariadna* (17 ene 2026) el canal articula explícitamente la matriz 3×3 que reorganiza los tres tipos de memoria (episódica / semántica / procedimental) cruzados con las tres dinámicas Q (imaginaria / formal / afectiva), y aporta dos piezas operativas que cierran flancos abiertos del marco: (a) tres patologías neuropsiquiátricas como evidencia de la independencia funcional de los componentes, (b) el tiempo como sucesión procedimental ordenada — sustrato cognitivo sobre el que se monta la articulación previa del tiempo como imaginario + afecto.\n\n### La matriz 3×3 explícita\n\n> \"El modelo propone una matriz 3×3 de clases: tres sistemas representacionales (episódico, semántico, procedimental) cruzados con tres dinámicas (imaginario, formal, gramatical),\"\n→ [Viernes terminal (1:02:39)](https://youtu.be/H162q8kbtWI?t=3759)\n\nLa formulación explícita de la matriz cierra una articulación que la página dejaba como problema abierto: las dos tripartitudes — sistemas de memoria y componentes Q — no son redundantes ni jerárquicas, son **dimensiones ortogonales** que generan nueve celdas operativas de combinación. Cada celda puede analizarse independientemente y cada falla clínica puede mapearse a un eje específico.\n\n### Tres patologías como falsadores empíricos del modelo\n\nLa potencia operativa de la matriz se demuestra cuando cada componente Q puede fallar aisladamente sin colapsar los otros — el aislamiento de la falla evidencia la independencia funcional:\n\n> \"La afantasía (incapacidad de evocar imágenes mentales) demuestra que el sistema imaginario puede fallar aisladamente sin afectar inteligencia ni afectos,\"\n→ [Viernes terminal (1:13:28)](https://youtu.be/H162q8kbtWI?t=4408)\n\n> \"La psicopatía es un déficit en la representación afectiva: atenuación de emociones como terror, pánico o intimidad,\"\n→ [Viernes terminal (1:13:28)](https://youtu.be/H162q8kbtWI?t=4408)\n\n> \"La psicosis es un exceso de control de la función imaginaria bottom-up: el cerebro rellena la carencia de interpretación exterior con proyecciones propias,\"\n→ [Viernes terminal (1:13:28)](https://youtu.be/H162q8kbtWI?t=4408)\n\nLa terna clínica articula tres direcciones de falla en la matriz noética:\n\n- **Afantasía** = falla del componente Q sub-i (imaginario) en su modo de evocación voluntaria, con preservación de Q sub-f y Q sub-a — caso ya parcialmente documentado en la página, ahora reposicionado como uno de los tres casos coordinados.\n- **Psicopatía** = falla del componente Q sub-a (afectivo) — atenuación específica de las clases afectivas vinculadas a respuesta empática (terror, pánico, intimidad), preservando Q sub-i y Q sub-f. La pieza precisa que la psicopatía no es maldad estructural ni déficit cognitivo general, sino disociación funcional de la representación afectiva.\n- **Psicosis** = falla por **exceso bottom-up** del componente Q sub-i — el cerebro rellena la falta de input interpretativo coherente desde el exterior con proyecciones imaginarias propias que sustituyen la realidad consensuada. La psicosis no es falta de imaginario sino su saturación incontrolada por carencia de calibración top-down.\n\nLa coordinación de las tres patologías opera como **falsador clínico del modelo**: si los tres componentes Q fueran reductibles a un sustrato único, las fallas serían correlacionadas; el hecho de que se disocien empíricamente (afántasicos sin psicopatía, psicópatas sin afantasía, psicóticos con cualquier configuración previa) es evidencia de la independencia ortogonal que el modelo postula.\n\n### El tiempo como sucesión procedimental ordenada\n\nLa pieza complementa la articulación previa del tiempo (ver sección 'Cuantitativo, tiempo y lenguaje') que situaba el tiempo fenomenológico como Q sub-i + Q sub-a. Aquí el speaker añade el sustrato cognitivo subyacente: la sucesión misma sobre la que opera la valencia afectiva nuevo/viejo es **memoria procedimental** ejecutándose como cuello de botella secuencial.\n\n> \"El tiempo surge de la memoria procedimental: sucesiones de representaciones ordenadas como un cuello de botella,\"\n→ [Viernes terminal (1:19:00)](https://youtu.be/H162q8kbtWI?t=4740)\n\n> \"Las instrucciones mentales exigen una secuencia de pequeñas representaciones una tras otra, lo que genera la sensación de antes y después,\"\n→ [Viernes terminal (1:19:00)](https://youtu.be/H162q8kbtWI?t=4740)\n\n> \"Los recuerdos episódicos se ordenan en una sucesión de más claro a menos claro, y ese orden produce la vivencia del tiempo,\"\n→ [Viernes terminal (1:19:00)](https://youtu.be/H162q8kbtWI?t=4740)\n\nLa precisión arquitectónica completa el cuadro temporal del marco: la **sucesión** es procedimental (la memoria procedimental opera por encadenamiento de instrucciones que solo pueden ejecutarse secuencialmente — cuello de botella estructural del aparato cognitivo), el **orden de los recuerdos episódicos** modula la sucesión (más claro / menos claro como gradiente que sustituye la información temporal-cronológica directa, no disponible para la psique), y la **valencia afectiva nuevo/viejo** (articulada en el directo previo) colorea fenomenológicamente cada elemento de la sucesión.\n\nLa articulación 3-capas del tiempo cognitivo queda así: procedimental (sucesión) + imaginario-episódico (orden de claridad) + afectivo (valencia nuevo/viejo). Las tres capas operan simultáneamente; ninguna sola produce experiencia temporal. La consecuencia teórica para el flanco anti-computacional del marco es directa: una arquitectura computacional con timestamps explícitos NO produce experiencia temporal — produce datos cronológicos sin la composición Q sub-procedimental + sub-i + sub-a que la cognición humana requiere para sentir el tiempo.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "H162q8kbtWI",
+          "timestamp_seconds": 3759,
+          "cite_markdown": "[Viernes terminal (1:02:39)](https://youtu.be/H162q8kbtWI?t=3759)"
+        },
+        {
+          "video_id": "H162q8kbtWI",
+          "timestamp_seconds": 4408,
+          "cite_markdown": "[Viernes terminal (1:13:28)](https://youtu.be/H162q8kbtWI?t=4408)"
+        },
+        {
+          "video_id": "H162q8kbtWI",
+          "timestamp_seconds": 4740,
+          "cite_markdown": "[Viernes terminal (1:19:00)](https://youtu.be/H162q8kbtWI?t=4740)"
+        }
+      ],
+      "rationale": "La página articula la matriz noética con sus tres componentes Q y declara como problema abierto la relación entre los tres sistemas de memoria y los tres componentes representacionales. El video aporta tres piezas que cierran ese flanco: (a) formulación explícita de la matriz 3×3 ortogonal, (b) tres patologías neuropsiquiátricas (afantasía / psicopatía / psicosis) como falsadores empíricos coordinados de la independencia funcional de los componentes Q, (c) el tiempo como sucesión procedimental ordenada — sustrato del tiempo fenomenológico que la página tenía documentado solo en sus capas imaginaria-episódica y afectiva (Último Stream del Año). Insert tras la sección 'La inteligencia como recreación' es editorialmente correcto: cierra el problema abierto sobre la articulación memorias/componentes Q",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Inicio del directo y saludos",
+      "reason_code": "meta_canal",
+      "reason_detail": "Saludo + comentario sobre interpretación errónea de película por identificación. Meta-canal sin contenido temático",
+      "quote_evidence": "Proxy saluda y comenta que es viernes sin deberes ni película asignada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Experiencia de sueño lúcido de un oyente",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reporte de oyente sobre experiencia personal con técnicas del directo anterior. Caso particular sin elevación a marco",
+      "quote_evidence": "Una persona practicó las técnicas del directo anterior y envió su diario de sueños,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Análisis del relato onírico del oyente",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Análisis específico del relato del oyente. Caso clínico individual sin elevación a marco general",
+      "quote_evidence": "Contó los dedos de la mano y llegó a 15 en una y 7 en otra, luego vio una puerta blanca en semiarco,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Problema del relato: ¿sueño lúcido o viaje astral?",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Discusión técnica del caso particular. Ambigüedad clínica sin marco teórico aplicado nuevo",
+      "quote_evidence": "Contar hasta 15 dedos sugiere que ya estaba dormido en ese punto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Técnicas instrumentales sobre sueño lúcido y meditación azul",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bloque técnico-instrumental largo sobre cómo practicar sueño lúcido (propiocepción, parálisis con ojos abiertos, metrónomo, reality checks, máquina Arduino, bailarina lunar, cámara aislamiento sensorial). Material práctico-pedagógico sin marco arquetípico/cognitivo aplicado al wiki — es manual de práctica meditativa",
+      "quote_evidence": "Tocarse dos dedos continuamente genera una propiocepción que mantiene parcialmente despierto el córtex prefrontal,",
+      "review_priority": "medium",
+      "review_priority_reason": "Las técnicas del 'grimorio' del canal (bailarina lunar, magia azul, magia verde) son vocabulario canal-específico recurrente — si reaparece en monográfico desarrollado podría merecer entry sobre la práctica meditativa del canal",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Significado metafórico de los fantasmas y las casas encantadas + colusiones familiares + Hill House",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bloque rico (~10 min) con marco simbólico articulado: casa encantada=yo, sótano=inconsciente, fantasma=culpa enterrada/secretos del sistema familiar; colusiones familiares como sistemas dinámicos que colapsan tras la muerte de un miembro; 'La maldición de Hill House' como ilustración. Bloque coherente pero sin home page perfecto en el wiki actual — la culpa la trabaja perdon-y-rencor como afecto, no como cifra simbólica de género literario; mito-moderno-en-proxy podría alojar el género casa encantada pero ya es muy extenso. Mejor acumular para futura síntesis",
+      "quote_evidence": "El fantasma es la culpa: culpa enterrada, pecados, cosas pendientes, palabras no dichas a tiempo,",
+      "review_priority": "high",
+      "review_priority_reason": "Marco simbólico articulado para el género horror-gótico psicológico (casa encantada como cifra del yo + fantasma como culpa familiar enterrada + colusiones familiares como sistema dinámico) — pieza de alta calidad editorial. Si el canal lo desarrolla en monográfico sobre Hill House u otra obra del género, merecería bien página propia 'fantasmas-y-casas-encantadas-arquetipo' bien major update a mito-moderno-en-proxy. Acumular como pieza de alta prioridad",
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Presentación de Ariadna: herramienta de mapeo cerebral con IA local",
+      "reason_code": "meta_canal",
+      "reason_detail": "Presentación del proyecto Ariadna del propio canal: arquitectura técnica (Neo4J + LM Studio + Qwen 2.5 14B + scripts Python + Obsidian) + objetivo (falsación del modelo de clases representacionales vía papers neurobiológicos). Es la presentación de la propia herramienta que estamos operando dentro — meta-proyecto interno. La pieza importante para el wiki es el modelo teórico que Ariadna busca falsar (matriz 3×3 + tres patologías como evidencia), capturada en el pending_update a teoria-del-simbolo-en-proxy",
+      "quote_evidence": "Ariadna combina Neo4J (grafos), LM Studio con el modelo Qwen 2.5 14B local, y un buscador de papers científicos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Base de datos con hipervínculos en Obsidian",
+      "reason_code": "meta_canal",
+      "reason_detail": "Detalle técnico sobre la implementación de Ariadna en Obsidian. Meta-proyecto",
+      "quote_evidence": "Obsidian permite visualizar las relaciones en grafos de puntos y líneas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Alucinaciones de la IA y criterios de plausibilidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre alucinaciones LLM: defecto sistémico, ocurre en interpretación no en extracción, redundancia entre 100 papers como filtro. Conecta con golem-de-cobre que ya documenta extensamente la crítica al estatuto cognitivo de los LLM. Aporte nuevo: distinción interpretación/extracción como criterio de plausibilidad — pero brevedad insuficiente para update individual",
+      "quote_evidence": "La alucinación ocurre cuando la IA tiene que interpretar o razonar, no cuando extrae datos concretos y repetitivos,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción interpretación-vs-extracción como criterio operativo del comportamiento alucinatorio del LLM es articulación canal-específica — vale acumular para futuro update a golem-de-cobre",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Bienestar, sufrimiento y la alostasis",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve: no hay correlación bienestar/trastornos; fenomenología del yo es el conflicto; desensibilización al bienestar produce depresión. Conecta con alostasis-y-apagon-organico (que articula la tesis del canal sobre el cuerpo no buscando sobrevivir como fin) y con herida-narcisista. Brevedad insuficiente para update individual",
+      "quote_evidence": "El ser humano se mueve por motivaciones respecto a lo que le falta, no lo que tiene: la fenomenología del yo es el conflicto,",
+      "review_priority": "medium",
+      "review_priority_reason": "La tesis 'fenomenología del yo es el conflicto + desensibilización al bienestar = depresión' es pieza recurrente del canal sobre el motor afectivo del comportamiento — vale acumular para futuro update a alostasis-y-apagon-organico",
+      "enriches_concept": "alostasis-y-apagon-organico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El dominio de la mente es el vacío",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre el budismo zen como religión del vaciamiento + propósito como motor de supervivencia. Aforística sin desarrollo. Conecta con adgrediere-masculino (propósito) y consumismo-critica (vaciamiento) pero brevedad insuficiente",
+      "quote_evidence": "La única forma de dominar la mente es vaciarla: no sentir, no pensar, no querer, acostumbrarse a renunciar,",
+      "review_priority": "medium",
+      "review_priority_reason": "La lectura del budismo zen como dispositivo del vaciamiento (vs el cristianismo del compromiso) es articulación canal-específica que merece acumular para futura tesis sobre comparativa de tradiciones espirituales",
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T16:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Racionalización y la falacia de los problemas objetivos] reason=passing_mention quote no literal"
+  ]
+}

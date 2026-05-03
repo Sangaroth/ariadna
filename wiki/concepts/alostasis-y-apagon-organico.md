@@ -166,6 +166,8 @@ La esperanza, en este modelo, no es estado psicológico subjetivo añadido al su
 
 
 
+
 - **La IA se sale de madre. Ética e IA parte 4** — chunks: [34:57](https://youtu.be/_IW4x_d01Lk?t=2097) · [54:10](https://youtu.be/_IW4x_d01Lk?t=3250) · [55:41](https://youtu.be/_IW4x_d01Lk?t=3341)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [16:24](https://youtu.be/-daRyQwnZy0?t=984) · [24:12](https://youtu.be/-daRyQwnZy0?t=1452) · [59:34](https://youtu.be/-daRyQwnZy0?t=3574)
+- **Viernes terminal: Los sueños y Ariadna** — chunks: [1:27:43](https://youtu.be/H162q8kbtWI?t=5263)
 

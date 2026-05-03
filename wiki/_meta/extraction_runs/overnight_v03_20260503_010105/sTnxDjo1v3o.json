@@ -1,0 +1,300 @@
+{
+  "video_id": "sTnxDjo1v3o",
+  "video_title": "Vacacioff: De la Sartén a Venezuela (parte II)",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Casos clínico-arquetípicos de las cinco corrupciones femeninas",
+      "canonical_guess": "tipologia-femenina-casos",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "primary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La madre oscura solo puede tener relación con hombres que adopte por su potencial maligno,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Este patrón está plasmado en Excalibur con Morgana creando su propio anticristo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Una bruja no es quien practica brujería sino quien rechaza lo civilizatorio buscando fuerzas demoníacas naturales,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Aplicación operativa de la tipología 3-5 a casos clínicos y narrativos concretos que la página tipologia-femenina-arquetipica declaraba como laguna explícita ('Casos cinematográficos para cada figura: solo La Bella Durmiente aparece como ejemplo elaborado'). El video aporta: madre oscura → Morgana en Excalibur + caso clínico David Pareja, súcubo → trampa de la mujer fatal, Wendy oscura → Peter Pan-sátiro vampírico (Crepúsculo), bruja real vs hécata (estética bruja sin sustrato), ninfa-esquizotípico (confunde distancia emocional con reto), hibristofilia (principio de bruja con villano). Cierra varias lagunas",
+      "quote_evidence": "El súcubo aprovecha su aspecto para que el hombre dé todo intentando satisfacer algo insaciable,"
+    },
+    {
+      "surface_form": "Crítica al camino de la heroína: solo existe lunar o solar, no femenino paralelo",
+      "canonical_guess": "critica-camino-heroina",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El único viaje heroico femenino es el lunar o solar; las mujeres pueden tener ambos caminos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Tesis crítica sobre el monomito que la página viaje-heroe NO documenta: rechazo del 'camino de la heroína' como construcción derivativa (libro 'Ser mujer, un viaje heroico'), articulación de que el viaje femenino canónico es el mito lunar o solar (las mujeres pueden ambos), asimetría operativa por testosterona (los hombres no pueden seguir el camino de la diosa), lectura de la emancipación feminista como rebeldía dentro del mito lunar (figura de la bruja), no como nuevo monomito",
+      "quote_evidence": "El libro \"Ser mujer, un viaje heroico\" comete el error de crear un camino femenino paralelo al monomito de Campbell,"
+    },
+    {
+      "surface_form": "Definición canal de deporte como integración mente-cuerpo + criterio de demarcación",
+      "canonical_guess": "deporte-integracion-mente-cuerpo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "primary",
+      "minutes_estimate": 27,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Deporte es toda actividad basada en superar las propias capacidades de integración mente-cuerpo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El yoga no es deporte sino actividad física porque no maximiza capacidades sino que las sustituye,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El curling, los bolos y el tiro al plato sí son deportes porque exigen precisión y capacidades físicas,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "thesis_candidate",
+      "decision_reason": "Bloque sostenido ~27 min (30:54-58:09) articulando una definición canal-canónica de deporte como integración mente-cuerpo, con criterio de demarcación operativo (deporte vs actividad física vs juego) y aplicación a casos disputados (gimnasia rítmica, ajedrez, yoga, spinning, curling). Cumple métricas del gate auto-promoción §2.4.1 pero NO existe página sobre deporte/cuerpo en el wiki — el humano debe decidir si crear synthesis page propia o si la temática queda fuera del alcance editorial central del canal (Jung, mitología, filosofía cognitiva)",
+      "quote_evidence": "No existen deportes puramente físicos ni puramente psíquicos,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay promote_new — todo el contenido sustantivo refuerza páginas existentes o entra como thesis_candidate (deporte como integración mente-cuerpo)",
+  "pending_updates": [
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La formulación de cinco corrupciones supera y refina una versión previa del canal de tres formas (ninfa / Wendy / bruja, mencionada en el libro Polaris). La ampliación incorpora dos figuras nuevas con peso propio: **lámia/súcubo** (que distingue dos formas de corrupción venusiana) y **Medea** (que cierra la tipología extendiendo la degradación al aspecto materno, antes ausente del eje corrupto).",
+      "content_proposed": "\n\n## Casos clínicos y narrativos de las cinco corrupciones\n\nEn el directo *Vacacioff: De la Sartén a Venezuela (parte II)* (30 jul 2024) el canal aplica operativamente la tipología a casos concretos — clínicos y cinematográficos — que cierran parcialmente la laguna sobre 'Casos cinematográficos para cada figura'. Las piezas operan también como criterios diferenciales para distinguir corrupciones reales de figuras que comparten estética sin compartir estructura.\n\n### Súcubo: la trampa de la mujer fatal y la confusión aspecto-personalidad\n\n> \"El súcubo aprovecha su aspecto para que el hombre dé todo intentando satisfacer algo insaciable,\"\n→ [Vacacioff parte II (1:10:46)](https://youtu.be/sTnxDjo1v3o?t=4246)\n\n> \"La trampa consiste en confundir el aspecto tierno con la personalidad real,\"\n→ [Vacacioff parte II (1:10:46)](https://youtu.be/sTnxDjo1v3o?t=4246)\n\nLa pieza operacionaliza la corrupción lámia/súcubo articulada en la tipología: el mecanismo psíquico es la **disociación entre aspecto y estructura**. El aspecto venusino — ternura, sensualidad, vulnerabilidad aparente — se ofrece como signo de personalidad disponible para el cuidado del varón, cuando opera como dispositivo extractivo cuya carencia interna es estructuralmente insaciable. El varón que cae es el que lee el aspecto como prueba de la personalidad y se vuelca en satisfacer una demanda que crece con cada satisfacción.\n\n### La madre oscura: caso clínico David Pareja y caso narrativo Morgana\n\nLa figura de Medea (madre oscura) recibe en este directo dos casos paradigmáticos — uno clínico contemporáneo y uno narrativo canónico — que aclaran su mecanismo operativo:\n\n> \"La madre oscura solo puede tener relación con hombres que adopte por su potencial maligno,\"\n→ [Vacacioff parte II (1:27:24)](https://youtu.be/sTnxDjo1v3o?t=5244)\n\n> \"Este patrón está plasmado en Excalibur con Morgana creando su propio anticristo,\"\n→ [Vacacioff parte II (1:27:24)](https://youtu.be/sTnxDjo1v3o?t=5244)\n\n> \"La Wendy puede adoptar a un Peter Pan que sea niño y sátiro simultáneamente como el vampiro de Crepúsculo,\"\n→ [Vacacioff parte II (1:27:24)](https://youtu.be/sTnxDjo1v3o?t=5244)\n\nLa precisión operativa de la madre oscura: no es una madre que ame mal a hijos buenos, es una madre cuyo único modo de vincularse es **adoptar al varón por su potencial maligno** — invertir el cuidado para producir una encarnación del mal a partir del material masculino disponible. [[el-silmarillion|Morgana]] en Excalibur es el caso narrativo canónico: gesta deliberadamente a Mordred como anticristo, cumpliendo en una sola figura tanto la corrupción venusiana (sexualidad instrumentalizada) como la maternal (instinto materno sustituido por el mal). El caso del Edward de Crepúsculo amplía el cuadro: la Wendy puede degenerar hacia madre oscura al adoptar un Peter Pan híbrido niño-sátiro (vampiro), donde la corrupción opera por **acumulación de polaridades incompatibles** en el objeto adoptado.\n\nEl correlato clínico contemporáneo articulado en el mismo directo:\n\n> \"Lo que describe no es una crisis de ansiedad sino una depresión por confirmación de su complejo de inferioridad,\"\n→ [Vacacioff parte II (1:21:29)](https://youtu.be/sTnxDjo1v3o?t=4889)\n\n> \"Su novia le dijo que dejó de parecerle atractivo al verlo llorar porque necesitaba hombres poderosos,\"\n→ [Vacacioff parte II (1:21:29)](https://youtu.be/sTnxDjo1v3o?t=4889)\n\nEl caso del cómico David Pareja ilustra el reverso del cuadro: el varón que ya entra en la relación con complejo de inferioridad neurótico recibe de la madre oscura la confirmación operativa que produce depresión clínica — no por el rechazo en sí, sino por la confirmación de que el aspecto vulnerable del varón es lo que activa el cese del deseo en la pareja. La pieza añade al marco de la página una articulación clínica: la herida narcisista con dimensión paterna se actualiza vía relación con figura tipológica madre oscura, y el cuadro depresivo resultante es **estructural**, no episódico.\n\n### Bruja real vs hécata: criterio diferencial de sustrato psicológico\n\n> \"Una bruja no es quien practica brujería sino quien rechaza lo civilizatorio buscando fuerzas demoníacas naturales,\"\n→ [Vacacioff parte II (1:39:39)](https://youtu.be/sTnxDjo1v3o?t=5979)\n\n> \"Las hécatas quieren ser brujas pero no lo son psicológicamente,\"\n→ [Vacacioff parte II (1:39:39)](https://youtu.be/sTnxDjo1v3o?t=5979)\n\n> \"A las brujas reales no les atraen los emos; los emos atraen a wendies y súcubos,\"\n→ [Vacacioff parte II (1:39:39)](https://youtu.be/sTnxDjo1v3o?t=5979)\n\nLa pieza precisa el criterio diferencial fundamental para la figura terminal de la tipología: la bruja real no es la que adopta la estética bruja (las hécatas — figuras que cultivan la apariencia, los símbolos y los rituales sin sustrato psicológico) sino la que **rechaza estructuralmente lo civilizatorio buscando contacto con fuerzas demoníacas naturales**. La distinción es operativa: la bruja real ya no encarna ningún aspecto sano (gracia, consorte, madre) ni busca encarnarlos; opera desde el polo terminal del eje corrupto. La hécata aspira al lugar de la bruja sin haber recorrido las cuatro corrupciones previas, lo que la sitúa en realidad como variante estética de Wendy o ninfa.\n\nEl criterio diagnóstico que el speaker añade — la atracción por los emos no es signo de bruja sino de Wendy/súcubo — opera como test indirecto: la bruja real no se vincula con figuras masculinas vulnerables-estéticas porque su economía afectiva opera por intensidad transgresora, no por proyección de cuidado.\n\n### Hibristofilia como principio de bruja\n\n> \"La hibristofilia es en parte un principio de bruja que se junta con el villano para que queme el mundo por ella,\"\n→ [Vacacioff parte II (1:29:25)](https://youtu.be/sTnxDjo1v3o?t=5365)\n\nLa pieza añade un mecanismo psíquico específico de la figura terminal: la atracción por criminales violentos no es solo desviación clínica documentada por la criminología, sino expresión del principio bruja en estado puro — la mujer se vincula con el villano para **que el mal se ejecute por interpósita persona**, instrumentalizando al varón maligno como ejecutor de una destructividad propia que la bruja prefiere no encarnar directamente.\n\n### Ninfa con esquizotípico: criterio diferencial de la corrupción venusiana inferior\n\n> \"Confunden la esquizotipia con exotismo y perciben la distancia emocional como reto,\"\n→ [Vacacioff parte II (1:40:39)](https://youtu.be/sTnxDjo1v3o?t=6039)\n\n> \"La incapacidad de proyección simpática se interpreta como conquista pendiente,\"\n→ [Vacacioff parte II (1:40:39)](https://youtu.be/sTnxDjo1v3o?t=6039)\n\nLa pieza precisa el mecanismo de elección de pareja característico de la ninfa (la corrupción venusiana de juego de poder en lugar de dinámica de amor): el rasgo esquizotípico del varón — distancia emocional, incapacidad de proyección simpática — se lee desde la economía afectiva ninfa como **reto de conquista pendiente**, no como diagnóstico clínico. La distancia se interpreta como exotismo, y la imposibilidad estructural de vínculo se convierte en motor del cortejo. La consecuencia operativa: la ninfa selecciona consistentemente parejas estructuralmente incapaces de devolver el afecto que la consorte buscaría — lo que cierra el cuadro de la corrupción como dinámica de poder en vez de amor.\n\nLa pieza completa la articulación de la tipología con los cinco casos diferenciales: el aparato deja de ser nomenclatura abstracta para volverse herramienta diagnóstica con criterios operativos de aplicación.",
+      "section_target": null,
+      "supersedes_laguna_text": "**Casos cinematográficos para cada figura**: solo La Bella Durmiente aparece como ejemplo elaborado (encuentro con el mal). Falta despliegue caso a caso de las cinco corrupciones — qué obras del corpus encarnan paradigmáticamente la ninfa, la lámia, la Medea",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "sTnxDjo1v3o",
+          "timestamp_seconds": 4246,
+          "cite_markdown": "[Vacacioff parte II (1:10:46)](https://youtu.be/sTnxDjo1v3o?t=4246)"
+        },
+        {
+          "video_id": "sTnxDjo1v3o",
+          "timestamp_seconds": 4889,
+          "cite_markdown": "[Vacacioff parte II (1:21:29)](https://youtu.be/sTnxDjo1v3o?t=4889)"
+        },
+        {
+          "video_id": "sTnxDjo1v3o",
+          "timestamp_seconds": 5244,
+          "cite_markdown": "[Vacacioff parte II (1:27:24)](https://youtu.be/sTnxDjo1v3o?t=5244)"
+        },
+        {
+          "video_id": "sTnxDjo1v3o",
+          "timestamp_seconds": 5365,
+          "cite_markdown": "[Vacacioff parte II (1:29:25)](https://youtu.be/sTnxDjo1v3o?t=5365)"
+        },
+        {
+          "video_id": "sTnxDjo1v3o",
+          "timestamp_seconds": 5979,
+          "cite_markdown": "[Vacacioff parte II (1:39:39)](https://youtu.be/sTnxDjo1v3o?t=5979)"
+        },
+        {
+          "video_id": "sTnxDjo1v3o",
+          "timestamp_seconds": 6039,
+          "cite_markdown": "[Vacacioff parte II (1:40:39)](https://youtu.be/sTnxDjo1v3o?t=6039)"
+        }
+      ],
+      "rationale": "La página declara explícitamente como laguna 'Casos cinematográficos para cada figura: solo La Bella Durmiente aparece como ejemplo elaborado'. El vídeo aporta cinco casos diferenciales operativos: (1) súcubo - mecánica disociación aspecto/personalidad, (2) madre oscura - caso narrativo Morgana en Excalibur + caso clínico David Pareja, (3) Wendy oscura adopta híbrido Peter Pan-sátiro (Crepúsculo), (4) bruja real vs hécata con criterio diferencial (rechazo civilizatorio vs estética), (5) ninfa con esquizotípico (distancia emocional como reto). Cierra parcialmente la laguna explícita. Insert tras 'Refinamiento de tres a cinco' es editorialmente correcto",
+      "editorial_intent": "supersede_laguna"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La segmentación cae lateralmente sobre el [[adgrediere-masculino|adgrediere]]: la pulsión arquetípica de avanzar contra la oposición es el motor que mueve al varón por las dos fases, y los cuatro objetos prescritos son cristalizaciones canalizadas de esa pulsión en clave individuativa.",
+      "content_proposed": "\n\n## Crítica al camino de la heroína: el viaje femenino es lunar o solar, no paralelo\n\nEn el directo *Vacacioff: De la Sartén a Venezuela (parte II)* (30 jul 2024) el canal articula la posición sobre la pretensión contemporánea de construir un 'camino de la heroína' como monomito femenino paralelo al de Campbell. La tesis es polemista y precisa: tal camino paralelo no existe arquetípicamente, y la pretensión de construirlo es síntoma de mitología impropia.\n\n### Crítica al libro 'Ser mujer, un viaje heroico'\n\n> \"El libro \\\"Ser mujer, un viaje heroico\\\" comete el error de crear un camino femenino paralelo al monomito de Campbell,\"\n→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)\n\n> \"El único viaje heroico femenino es el lunar o solar; las mujeres pueden tener ambos caminos,\"\n→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)\n\nLa lectura del canal es estructural: el monomito campbelliano no tiene contraparte femenina paralela porque las mujeres ya disponen de **ambos caminos arquetípicos disponibles** — el lunar (mito de la diosa cíclica, ver mito-lunar) y el solar (mito del dios masculino, accesible también a la psique femenina con orientación adgrediente integrada). La pretensión de construir un tercer camino específicamente femenino opera como duplicación no necesaria: cualquier viaje heroico que una mujer recorra cae bajo una de las dos plantillas ya existentes, no bajo una tercera de invención reciente.\n\nEl criterio de demarcación arquetípica que sostiene la tesis es la asimetría operativa por testosterona:\n\n> \"Los hombres no pueden seguir el camino de la diosa porque la testosterona bloquea la percepción del misterio femenino,\"\n→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)\n\nLa asimetría es estructural: la psique femenina puede integrar el mito solar (ejemplos canónicos en heroínas guerreras, científicas, exploradoras) sin perder acceso al mito lunar (maternidad, ciclo, presencia inmanente); la psique masculina queda bloqueada por la testosterona del acceso pleno al misterio femenino — puede contemplarlo, integrarlo parcialmente vía ánima, pero no recorrerlo como propio. La consecuencia: el camino del héroe (monomito) es operativamente masculino-coded pero accesible a ambos sexos; el camino de la diosa es operativamente femenino-coded y no plenamente accesible al varón.\n\n### La emancipación femenina como rebeldía dentro del mito lunar, no como nuevo monomito\n\n> \"La emancipación femenina de la cultura no es un viaje del héroe sino una forma de rebeldía ya descrita en el mito lunar como la bruja,\"\n→ [Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)\n\nLa tesis cierra el flanco crítico: cuando la cultura contemporánea presenta la emancipación femenina (rechazo de la maternidad, autonomía radical, ruptura con marcos tradicionales) como 'viaje del héroe femenino', está cometiendo error categorial. La estructura arquetípica de esa emancipación no es nueva — corresponde a la figura de la **bruja** dentro del mito lunar, articulada en la [[tipologia-femenina-arquetipica|tipología femenina arquetípica]] como figura terminal que rechaza lo civilizatorio. La emancipación radical contemporánea recapitula esa figura sin nombrarla, y el discurso del 'viaje heroico de la mujer' opera como ocultamiento de la genealogía mítica real: lo que se vende como camino heroico nuevo es figura corruptiva canónica con vocabulario de empoderamiento.\n\nLa pieza importa para el marco de la página: el monomito como vara diagnóstica funciona también para detectar **construcciones míticas pseudo-paralelas** que reclaman estatus arquetípico sin haberlo. El libro 'Ser mujer, un viaje heroico' (Maureen Murdock-style) cae del lado de la mitología impropia no por ser sobre mujeres, sino por inventar una plantilla que el corpus arquetípico ya contiene articulada de otra forma — duplicación estructural que el canal lee como ornamento ideológico, no como aporte mitopoético genuino.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "tipologia-femenina-arquetipica"
+      ],
+      "citations_added": [
+        {
+          "video_id": "sTnxDjo1v3o",
+          "timestamp_seconds": 4309,
+          "cite_markdown": "[Vacacioff parte II (1:11:49)](https://youtu.be/sTnxDjo1v3o?t=4309)"
+        }
+      ],
+      "rationale": "La página articula el monomito y su segmentación en clave masculina (dos fases: salir del seno de la madre / del padre) pero NO documenta la posición del canal frente a las construcciones contemporáneas de un 'camino de la heroína' paralelo (Maureen Murdock-style). El video aporta tesis polemista clara: el viaje femenino es lunar o solar, no paralelo; la asimetría operativa por testosterona explica la accesibilidad cruzada del solar pero no del lunar; la 'emancipación heroica femenina' contemporánea es figura de la bruja del mito lunar, no nuevo monomito. Insert tras la sección sobre las dos fases masculinas es editorialmente correcto",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Narrativas políticas y sofisma estético",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve del sofisma estético aplicado a narrativas políticas. Concepto ya documentado extensamente en sofisma-estetico — aquí es passing application sin desarrollo",
+      "quote_evidence": "El sofisma estético consiste en que todo lo que se parezca estéticamente se asume como relacionado imaginariamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sofisma-estetico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Expedición mercenaria a Venezuela: la fantasía de Proxia",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Propuesta humorística sobre formar un grupo de expendables y fundar una República paródica. Humor de directo sin contenido enciclopédico",
+      "quote_evidence": "Propuesta humorística de formar un grupo de expendables para cobrar la recompensa por Maduro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La caída de Maduro y la lógica de los estados que no se derrocan entre sí",
+      "reason_code": "political_news",
+      "reason_detail": "Análisis geopolítico coyuntural sobre Venezuela + observación general sobre lógica de protección mutua entre estados. Sin marco teórico arquetípico aplicado",
+      "quote_evidence": "Maduro no se irá sin sangre porque ningún estado quiere que se ponga de moda derrocar gobiernos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pedro Sánchez usa la Abogacía del Estado contra el juez que investiga a su mujer",
+      "reason_code": "political_news",
+      "reason_detail": "Politiqueo coyuntural sobre figura política española. Matched topic_filter sobre Sánchez",
+      "quote_evidence": "El presidente se querella contra el juez que lleva la causa de corrupción de su esposa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El carisma eleva la apariencia: cómo el afecto distorsiona la percepción de atractivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre cómo el afecto distorsiona percepción del atractivo + caso de mujeres con síndrome de Wendy extremo. Conecta con sindrome-wendy y anima-archetype pero brevedad insuficiente para update individual",
+      "quote_evidence": "En mujeres con síndrome de Wendy extremo creen que les gusta un hombre porque es bueno cuando en realidad les cae bien porque ya están enamoradas patológicamente,",
+      "review_priority": "medium",
+      "review_priority_reason": "El mecanismo 'carisma eleva apariencia' como tesis general del canal sobre distorsión perceptiva podría merecer entry en futuro update — acumular",
+      "enriches_concept": "sindrome-wendy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estudio holandés: mujeres lésbicas delinquen más, hombres homosexuales menos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario sobre estudio empírico + tesis 'la testosterona aumenta la eficacia delictiva pero no la malignidad que es igual en ambos sexos'. Conecta con sesgo-gamma y adgrediere-masculino. Brevedad insuficiente para update; el dato empírico podría enriquecer sesgo-gamma si se acumula",
+      "quote_evidence": "La testosterona aumenta la eficacia delictiva pero no la malignidad que es igual en ambos sexos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis 'malignidad simétrica por sexo, eficacia ejecutiva asimétrica por testosterona' es articulación operativa del canal — vale acumular para futuro update a sesgo-gamma",
+      "enriches_concept": "sesgo-gamma",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cómo eligen pareja los hombres: físico, ternura e inteligencia en ese orden perceptivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre asimetría perceptiva masculina en elección de pareja + dato 'tres grandes predictores: complementariedad personalidad + similitud IQ'. Conecta con amor-cortes y sindrome-wendy. Brevedad insuficiente",
+      "quote_evidence": "Los hombres perciben primero el físico porque son peores analizando personalidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Los hombres necesitan sentirse admirados como las mujeres necesitan sentirse deseadas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre asimetría narcisista por sexo en pareja + 'aspecto tierno femenino genera ilusión de admiración potencial'. Conecta con adgrediere-masculino y herida-narcisista. Brevedad insuficiente para update",
+      "quote_evidence": "En cuanto un hombre percibe que una mujer lo puede admirar se enamora muchísimo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación clave sobre la economía afectiva por sexo (admiración-vs-deseo como vectores narcisistas asimétricos) — vale acumular si reaparece desarrollada",
+      "enriches_concept": "adgrediere-masculino",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Base biológica de la diferencia: la testosterona bloquea la autopercepción",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre que todo humano es biológicamente femenino antes de testosterona + asimetría estratega/táctica. Pieza interesante pero superpuesta con material ya documentado en adgrediere-masculino, sesgo-gamma y golem-de-cobre",
+      "quote_evidence": "Todo ser humano es biológicamente femenino antes de la especificación por testosterona,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'estratega vs táctica' por sexo es categorización canal-específica que podría merecer update individual si reaparece desarrollada",
+      "enriches_concept": "adgrediere-masculino",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Por qué las personas buenas parecen más tontas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre economía psíquica de detección de amenazas. Aforística sin desarrollo monográfico",
+      "quote_evidence": "Identificamos bondad con incapacidad para hacer daño porque el cerebro prioriza detectar amenazas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El feminismo como infantilismo: lo que premia esta sociedad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre que la sociedad premia lo infantil + 'aliados queer como personajes más infantiles'. Conecta con sindrome-del-nino-masculino y consumismo-critica. Brevedad insuficiente, deriva a comentario polémico sin desarrollo arquetípico",
+      "quote_evidence": "Lo que la sociedad premia no es ser mujer sino ser infantil,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-del-nino-masculino",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Vulnerabilidad masculina: no es patetismo sino sensibilidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre tres significados de vulnerabilidad (estereotípico, prototípico, arquetípico) + crítica a la lectura feminista. Brevedad insuficiente para update; conecta con adgrediere-masculino sección 'Depresión masculina invisible' ya documentada",
+      "quote_evidence": "La vulnerabilidad tiene tres significados: estereotípico (fragilidad), prototípico (sensibilidad) y arquetípico,",
+      "review_priority": "medium",
+      "review_priority_reason": "La tripartición estereotípico/prototípico/arquetípico aplicada a vulnerabilidad es aplicación canal-específica de marco semiótico más amplio — vale acumular si reaparece como herramienta general",
+      "enriches_concept": "adgrediere-masculino",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "El presidente se querella contra el juez que lleva la causa de corrupción de su esposa,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Mención a Sánchez — politiqueo coyuntural"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 12,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T14:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "video_id": "MJDukHo33Tc",
+  "video_title": "Tremendo martes",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Eutaxia y distaxia",
+      "canonical_guess": "eutaxia-distaxia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Eutaxia es la buena permanencia, el seguir existiendo como civilización, a nivel individual, institucional y estatal,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Eutaxia/distaxia es vocabulario buenista que el canal aplica explícitamente al estado español. La página bueno-gustavo declara como laguna 'Filosofía política buenista: España como nación, crítica a las autonomías, teoría del Estado'. La pieza encaja exactamente como cierre parcial de esa laguna — va como update a bueno-gustavo, no como página propia (es vocabulario del marco buenista, no concepto autónomo del canal)",
+      "quote_evidence": "Distaxia es el conjunto de procedimientos que provocan la disolución y desaparición del ser,"
+    },
+    {
+      "surface_form": "La pareja como quintaesencia del ser biopsicosocial",
+      "canonical_guess": "pareja-quintaesencia",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El objetivo de la pareja no es suplir carencias afectivas sino conseguir que el otro sea la mejor persona posible a través de ti,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento operativo del 'amor de entrega' ya documentado en amor-cortes-y-monogamia-civilizatoria: añade definición teleológica (el otro como mejor versión de sí mediada por ti) + diagnóstico inverso ('cáncer relacional' = dar lo que necesitas que te den) + lectura de la renuncia ideológica feminista como alquimia (uvas verdes). Va como update a amor-cortes",
+      "quote_evidence": "La entrega no es sometimiento ni codependencia: dar lo que necesitas que te den es cáncer relacional,"
+    },
+    {
+      "surface_form": "Asimetría de la introyección de culpa por sexo / feminismo como neurosis del padre",
+      "canonical_guess": "asimetria-introyeccion-culpa-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "primary",
+      "minutes_estimate": 34,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Toda la izquierda tiene problemas con el padre arquetípico; toda la derecha tiene problemas con la madre,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los hombres integran soluciones autodestructivas: el pingüino que se va solo a morir,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El concepto de poder feminista nace de la herida narcisista: es poder arrancado al otro por una afrenta histórica, no poder individual,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "thesis_candidate",
+      "decision_reason": "Bloque sostenido ~34 min (1:44:58 → 2:18:37) articulando una tesis propia coherente sobre asimetría de introyección de culpa por sexo, con derivaciones operativas (feminismo neurosis padre / izquierda problema autoridad / chivo expiatorio femenino vs autodestrucción masculina / colectivo F vs individual M / mujer-30 emociones primera regañina). Cumple métricas del gate auto-promoción §2.4.1 pero NO auto-promuevo porque está embebido en stream, no en monográfico dedicado — el humano debe decidir si promover como nueva synthesis o distribuir entre yo-ego-autoestima-en-proxy, herida-narcisista-en-proxy, perdon-y-rencor-en-proxy y sesgo-gamma",
+      "quote_evidence": "Cuando un hombre no admite su culpa no es por ego: es porque tiene introyectado que si la admite nunca se le perdonará,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay promote_new — los temas sustantivos refuerzan páginas existentes o entran como thesis_candidate para revisión humana.",
+  "pending_updates": [
+    {
+      "page_id": "bueno-gustavo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Para esa teoría, articula un marco propio — el [[realismo-cognitivo]] como axiomática de clases — y un modelo formal-computacional que la operacionaliza ([[galatea-modelo-protomente]]).",
+      "content_proposed": "\n\n## Eutaxia y distaxia: la teoría buenista del estado aplicada a España\n\nEn el directo *Tremendo martes* (04 mar 2026) el canal aplica explícitamente el par buenista **eutaxia / distaxia** como diagnóstico operativo de la situación española. La pieza cubre parcialmente la laguna de filosofía política buenista que la página listaba: hasta aquí el aprovechamiento del aparato buenista era ontológico (M1/M2/M3, ego trascendental, hiperrealidad); ahora se incorpora la dimensión política del sistema con su vocabulario propio.\n\n### Definición operativa\n\n> \"Eutaxia es la buena permanencia, el seguir existiendo como civilización, a nivel individual, institucional y estatal,\"\n→ [Tremendo martes (39:34)](https://youtu.be/MJDukHo33Tc?t=2374)\n\n> \"Distaxia es el conjunto de procedimientos que provocan la disolución y desaparición del ser,\"\n→ [Tremendo martes (39:34)](https://youtu.be/MJDukHo33Tc?t=2374)\n\nEl par no es descriptivo de un estado momentáneo sino de una **direccionalidad procesual**: eutaxia es el conjunto de procedimientos (ontológicos, institucionales, culturales) que sostienen la permanencia del ser; distaxia es el conjunto inverso, los procedimientos que lo disuelven. La articulación opera en tres escalas anidadas — individual, institucional, estatal — porque las tres son sujetos buenistas en sentido pleno (entes con identidad operatoria).\n\n### Aplicación al estado español\n\n> \"España lleva en proceso distáxico desde la creación del estado de autonomías por el PSOE,\"\n→ [Tremendo martes (39:34)](https://youtu.be/MJDukHo33Tc?t=2374)\n\nLa lectura sitúa el estado de autonomías como mecanismo distáxico estructural: no como política coyuntural revisable sino como procedimiento que disuelve la unidad del ente España. La pieza importa para entender por qué el canal lee la fragmentación territorial y la neutralidad geopolítica como dos manifestaciones del mismo proceso — ambos son operaciones que reducen la conmensurabilidad del sujeto-Estado con el mundo, en el vocabulario buenista del ego trascendental como totalizador.\n\nEl aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada del canal frente al sistema buenista: se hereda el vocabulario operativo y la categorización política, pero la articulación con el [[realismo-cognitivo]] cierra la causalidad psíquica del fenómeno (ver pending_update herida-narcisista-en-proxy y thesis_candidate sobre asimetría de la introyección de culpa por sexo) — Bueno aporta la categoría del proceso, el canal aporta su mecanismo psíquico subyacente.",
+      "section_target": null,
+      "supersedes_laguna_text": "**Filosofía política buenista**: España como nación, crítica a las autonomías, teoría del Estado — material que el canal podría retomar pero que no aparece desarrollado en este directo",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "MJDukHo33Tc",
+          "timestamp_seconds": 2374,
+          "cite_markdown": "[Tremendo martes (39:34)](https://youtu.be/MJDukHo33Tc?t=2374)"
+        }
+      ],
+      "rationale": "El par eutaxia/distaxia es vocabulario buenista canónico que la página NO documentaba — la palabra 'eutaxia' aparecía solo en amor-cortes ('Europa monógama da estabilidad, sabiduría y eutaxia') sin definición. El video aporta definición operativa y aplicación al caso español de las autonomías, exactamente la laguna que la página declaraba ('Filosofía política buenista: España como nación, crítica a las autonomías, teoría del Estado'). Justifica supersedes_laguna parcial",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "amor-cortes-y-monogamia-civilizatoria",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La madre tiene el instinto de entrega con el hijo; el hombre lo tiene con la mujer; si el hombre es niño solo puede recibir (síndrome de Wendy)",
+      "content_proposed": "\n\n## Refinamiento del amor de entrega: pareja como quintaesencia y diagnóstico inverso\n\nEn el directo *Tremendo martes* (04 mar 2026) el canal precisa dos piezas operativas sobre el amor de entrega que la página articulaba en plano arquetípico (paladín, sujeto/objeto, asimetría procedimental): qué define la pareja como vínculo voluntario máximo, y qué patrón relacional invierte el modo de entrega y lo vuelve patológico.\n\n### La pareja como vínculo biopsicosocial máximo\n\n> \"La relación más intensa que se puede crear voluntariamente es la pareja: conocer al otro compartiendo vida, no ratitos,\"\n→ [Tremendo martes (1:37:00)](https://youtu.be/MJDukHo33Tc?t=5820)\n\n> \"El objetivo de la pareja no es suplir carencias afectivas sino conseguir que el otro sea la mejor persona posible a través de ti,\"\n→ [Tremendo martes (1:37:00)](https://youtu.be/MJDukHo33Tc?t=5820)\n\nLa precisión es teleológica: la página articulaba la entrega como 'el otro como sujeto de tu egoísmo, no como objeto'. Aquí el speaker añade el fin operativo concreto — que el otro devenga la mejor versión posible de sí **mediada por ti**. La pareja no es contención mutua de carencias (eso sería colusión negativa en términos de [[herida-narcisista-en-proxy]]) sino dispositivo de elevación recíproca cuya condición es la duración compartida (vida vs. ratitos). Conocer al otro requiere tiempo y exposición a la cotidianidad — el cortejo del amor cortés tiene su correlato post-vínculo en la convivencia sostenida que permite la entrega real.\n\n### Cáncer relacional: invertir el flujo de la entrega\n\n> \"La entrega no es sometimiento ni codependencia: dar lo que necesitas que te den es cáncer relacional,\"\n→ [Tremendo martes (1:37:00)](https://youtu.be/MJDukHo33Tc?t=5820)\n\nLa pieza diagnóstica es operativa: el modo de entrega tiene una **inversión patológica precisa** que debe distinguirse del sometimiento o de la codependencia. Dar lo que uno mismo necesita recibir no es generosidad — es proyección de la carencia propia bajo apariencia de don. El sujeto da lo que necesitaría para sí, instalando en el otro la deuda de devolverlo. La fórmula 'cáncer relacional' nombra esa metástasis del vínculo: la entrega aparente metaboliza en exigencia oculta, y la relación se descompone porque el otro nunca puede devolver lo que el sujeto necesitaba originalmente — porque no era para el otro.\n\n### Renuncia ideológica al vínculo: el síndrome de las uvas verdes\n\nLa pareja como modo viable se contrapone a su negación ideologizada — la articulación que el canal hace de la renuncia feminista posmoderna a las relaciones con hombres como operación alquímica:\n\n> \"Dejar de tener relaciones con hombres por ideología no es filosofía ni activismo, es alquimia: transformar la carencia en virtud,\"\n→ [Tremendo martes (1:26:40)](https://youtu.be/MJDukHo33Tc?t=5200)\n\n> \"Es como quien no alcanza las uvas y dice que mantiene la línea: negación disfrazada de principio,\"\n→ [Tremendo martes (1:26:40)](https://youtu.be/MJDukHo33Tc?t=5200)\n\n> \"Si las relaciones con hombres dan problemas, la solución es cambiar la forma de relacionarse, no renunciar a las relaciones,\"\n→ [Tremendo martes (1:26:40)](https://youtu.be/MJDukHo33Tc?t=5200)\n\nLa pieza completa la doctrina del amor cortés desde el lado del fracaso: si el procedimiento (cortejo, asimetría, compromiso, entrega) se vuelve impracticable subjetivamente, la salida sana es revisar el modo de relacionarse, no clausurar la relación misma. La renuncia ideologizada — el feminismo posmoderno como caso paradigmático para el canal — opera el mecanismo alquímico clásico: tomar la carencia (no se accede al vínculo deseado) y elevarla a virtud (la libertad consiste en no quererlo). El movimiento es estructuralmente análogo al de las uvas verdes de la fábula: el deseo no satisfecho se reformula como rechazo virtuoso.",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "herida-narcisista-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "MJDukHo33Tc",
+          "timestamp_seconds": 5200,
+          "cite_markdown": "[Tremendo martes (1:26:40)](https://youtu.be/MJDukHo33Tc?t=5200)"
+        },
+        {
+          "video_id": "MJDukHo33Tc",
+          "timestamp_seconds": 5820,
+          "cite_markdown": "[Tremendo martes (1:37:00)](https://youtu.be/MJDukHo33Tc?t=5820)"
+        }
+      ],
+      "rationale": "La página articula 'amor de entrega' (otro como sujeto, no objeto) y el mito del paladín, pero NO documenta: (a) la teleología explícita de la pareja como vínculo de elevación recíproca cuya meta es que el otro devenga su mejor versión a través de ti, (b) la inversión patológica precisa del modo de entrega ('cáncer relacional' = dar lo que necesitas que te den), ni (c) la lectura de la renuncia ideológica feminista a las relaciones como operación alquímica de uvas verdes. Las tres piezas refinan operativamente el cuerpo existente sin solapamiento. Insert tras la mención de Wendy es el lugar editorial correcto: cierra la dialéctica madurez/inmadurez con la dialéctica entrega/inversión patológica",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Trump rompe relaciones con España: la luna roja geopolítica",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre actualidad geopolítica (Trump, bases militares, 5% gasto defensa). El framing 'luna roja geopolítica' como metáfora arquetípica es brevísimo y subordinado a la narrativa coyuntural. Test cápsula del tiempo: retirar Trump y queda sin contenido",
+      "quote_evidence": "Trump anuncia que cortará todos los tratos con España por no ceder las bases militares y no cumplir el 5% de gasto en defensa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las palabras exactas de Trump y el doble rasero mediático español",
+      "reason_code": "political_news",
+      "reason_detail": "Politiqueo coyuntural (Trump, OTAN, PP/PSOE, trajes Camps). Matched topic_filter sobre PP, PSOE",
+      "quote_evidence": "El doble rasero mediático español: escándalos del PP como los trajes de Camps amplificados frente a los del PSOE minimizados,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Europa no puede ser independiente de Estados Unidos",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario geopolítico sobre soberanía energética europea, Marruecos, Ceuta-Melilla-Canarias. Sin marco teórico aplicado más allá del realismo geopolítico clásico",
+      "quote_evidence": "Europa carece de soberanía energética: depende del gas y petróleo de saudíes y Rusia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La neutralidad es imposible: ser neutral es ser nadie",
+      "reason_code": "political_news",
+      "reason_detail": "Tesis geopolítica breve sobre neutralidad. Aforística pero sin desarrollo arquetípico/psicológico que la eleve a estructura",
+      "quote_evidence": "Ser neutral significa que nadie te protege y te conviertes en vulnerable ante todos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Solo la fe y la fuerza rigen las relaciones internacionales",
+      "reason_code": "political_news",
+      "reason_detail": "Aforismo realista geopolítico. La mención del 11M y del islamismo político como amenaza es comentario coyuntural sin marco aplicado del canal",
+      "quote_evidence": "La moral no existe en relaciones internacionales: nunca ha impedido que una potencia haga lo que quiera,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El declive del feminismo juvenil y la tesis de Marina de la Torre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve a tesis de Marina de la Torre sobre instrumentalización del feminismo. La pieza más sustantiva ('poder feminista nace de herida narcisista') va capturada en el thesis_candidate sobre asimetría introyección culpa",
+      "quote_evidence": "El sentir feminista juvenil está en su nivel más bajo desde 2021,",
+      "review_priority": "medium",
+      "review_priority_reason": "Marina de la Torre podría merecer entry en mentions_index si reaparece como referencia recurrente del canal",
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Toda ideología que requiera un cambio cultural está destinada al fracaso",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre la imposibilidad de inducir cambios culturales. Conecta con consumismo-critica (cambio cultural espontáneo) pero sin desarrollo monográfico ni casos articulados que justifiquen update",
+      "quote_evidence": "Los cambios culturales son aconteceres espontáneos que se analizan a posteriori, no se pueden provocar,",
+      "review_priority": "medium",
+      "review_priority_reason": "Núcleo recurrente del canal sobre límites del idealismo político — vale acumular si se desarrolla en futuro vídeo monográfico",
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Los regímenes socialistas necesitan hermetismo para sobrevivir",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve aplicada a China. Anclada en la tesis previa sobre cambio cultural — sin desarrollo propio que justifique update",
+      "quote_evidence": "China está cerrada al mundo porque si se abriera, el capitalismo destruiría la adhesión al régimen,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El contrato social se basa en naturaleza compartida, no en ideología",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre fundamentos antropológicos del contrato social. Conecta con virtudes-cardinales-teologales y diagrama-de-proxy pero brevedad insuficiente para update",
+      "quote_evidence": "Los grupos humanos renuncian a la violencia en pos de la creencia: renuncian a la fuerza en pos de la fe,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis sobre 'apelar a partes de la naturaleza humana ya existentes' es eco recurrente — vale acumular",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Es más fácil inducir destrucción que equilibrio",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aforismo sobre asimetría revolución/equilibrio. Brevedad insuficiente para constituir tesis articulada con estructura interna",
+      "quote_evidence": "Las revoluciones se pueden inducir porque la destrucción está en la naturaleza humana, pero el equilibrio no tanto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las ideologías son extensiones de la personalidad y las heridas psíquicas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis muy interesante (la ideología dice cómo quieres que se comporten los demás; la religión cómo te quieres comportar tú) pero brevísima y embedded en flujo de stream — sin desarrollo monográfico ni estructura interna que la convierta en tesis_candidate independiente. Conecta con diagrama-de-proxy y herida-narcisista pero no aporta prosa nueva sustancial",
+      "quote_evidence": "La ideología dice cómo quieres que se comporten los demás; la religión dice cómo te quieres comportar tú,",
+      "review_priority": "high",
+      "review_priority_reason": "Distinción ideología/religión como aforismo del canal con potencia analítica considerable. Si reaparece desarrollada, merece página propia o major update a diagrama-de-proxy. Acumular para detección de tesis emergente",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Los diez mandamientos como fundamento de naturaleza frente al idealismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre por qué los diez mandamientos funcionan ('cuentan con la naturaleza humana') vs utopía de Tomás Moro. Conecta con virtudes-cardinales-teologales y liturgia-como-rito pero sin desarrollo que justifique update",
+      "quote_evidence": "Los diez mandamientos funcionan porque a todo el mundo le compensa cumplirlos: cuentan con la naturaleza humana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "virtudes-cardinales-teologales",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La anorexia como metáfora del idealismo: el cerebro cambia la realidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Analogía conceptual entre anorexia (cerebro distorsiona autoimagen) y cambio cultural ideológico (ideas distorsionan la realidad social). Brillante pero brevísima. La página trastornos-conducta-alimentaria-en-proxy trabaja la anorexia clínicamente, no como metáfora cultural — la analogía pertenecería a una página sobre 'idealismo cultural como dismorfia colectiva' que aún no existe",
+      "quote_evidence": "Las culturas comunistas necesitan escindirse de la realidad igual que el anoréxico se escinde de su imagen real,",
+      "review_priority": "medium",
+      "review_priority_reason": "Analogía potente como pieza de un futuro framework sobre disociación cultural-ideológica — acumular",
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El equilibrio como definición de buena persona",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aforismo del canal sobre equilibrio + 'no tienes derecho a morir si no vas a dejar algo mejor que toda tu potencia'. Conecta con individuation y adgrediere-masculino pero brevedad insuficiente para update",
+      "quote_evidence": "Lo que está mal no es dar la bofetada sino tener las ganas de devolverla: la ira interior que te vence,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "individuation",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La anorexia ideológica del feminismo posmoderno",
+      "reason_code": "already_captured_in_update",
+      "reason_detail": "El bloque continúa la lectura del feminismo posmoderno como evasión de la realidad. La pieza sustantiva (uvas verdes, intelectualizar carencias) ya queda capturada en el pending_update a amor-cortes-y-monogamia-civilizatoria",
+      "quote_evidence": "Convertir las relaciones sexoafectivas en cuestión político-ideológica es patológico, no ridículo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cuanto más corporativo el ambiente, más femeninas son las dinámicas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre dinámicas grupales por sexo en distintos entornos (oficina vs mina). Coda del bloque sobre asimetría sexual — el thesis_candidate captura la articulación principal, esta pieza es ilustrativa",
+      "quote_evidence": "Los entornos de oficina, marketing y trabajo intelectual son más femeninos: menos confrontación física, más dependencia del vínculo afectivo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "Pedro Sánchez perdió las elecciones y gobierna sin mandato directo, lo que agrava la crisis de legitimidad ante aliados,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Sánchez + elecciones — politiqueo coyuntural"
+    },
+    {
+      "block_quote": "Feijóo es descrito como el personaje más lamentable de la política española, peor incluso que Bolaños,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Feijóo — politiqueo coyuntural"
+    },
+    {
+      "block_quote": "El doble rasero mediático español: escándalos del PP como los trajes de Camps amplificados frente a los del PSOE minimizados,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "PP + PSOE — politiqueo coyuntural"
+    },
+    {
+      "block_quote": "España lleva en proceso distáxico desde la creación del estado de autonomías por el PSOE,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Mención al PSOE pero subordinada a tesis estructural buenista (eutaxia/distaxia) — el bloque NO se filtra completo: la mención al PSOE es ilustrativa de la tesis filosófica, no politiqueo. Logged para auditoría pero el bloque entra al universo de candidatos vía update bueno-gustavo"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 16,
+    "blocks_filtered_count": 4
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T12:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

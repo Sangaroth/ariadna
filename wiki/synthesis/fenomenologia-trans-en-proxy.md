@@ -262,6 +262,50 @@ El criterio operativo de demarcación es **temporal y estructural**: la disforia
 
 
 
+## Feminismo queer vs feminismo clásico: dos estrategias psicológicas en conflicto
+
+En el directo *What is a Charo? (pt. 2)* (11 dic 2024) el canal articula la diferencia psicológica entre las dos sub-estrategias que coexisten dentro del ecosistema feminista contemporáneo. La distinción es importante porque explica un fenómeno aparentemente contradictorio — el feminismo clásico (Carmen Calvo) etiqueta lo queer como 'neoconservador' y lo persigue activamente, no porque esté ideológicamente fuera del campo progresista, sino porque las dos estrategias **compiten por mecanismos psicológicos incompatibles**.
+
+### Feminismo queer: disolución de la categoría para eliminar el fracaso posible
+
+> "El feminismo queer quiere disolver la categoría \"hombre\" para que nadie pueda identificarse como masculino y así eliminar la posibilidad de fracasar frente a lo masculino,"
+→ [What is a Charo? pt.2 (43:34)](https://youtu.be/xPB5l6KsU2Q?t=2614)
+
+> "Se basa en la premisa constructivista de que somos moldes culturales sin sustancia interior, cuando en realidad la identificación parte de algo interno que encuentra expresión en formas culturales,"
+→ [What is a Charo? pt.2 (43:34)](https://youtu.be/xPB5l6KsU2Q?t=2614)
+
+> "Si desaparece la semiótica de lo masculino, creen que nunca más habrá relaciones tóxicas, enamoramientos destructivos ni sensación de inferioridad,"
+→ [What is a Charo? pt.2 (43:34)](https://youtu.be/xPB5l6KsU2Q?t=2614)
+
+La estrategia queer descansa sobre la premisa constructivista — somos moldes culturales sin sustancia interior — y deriva una solución radical: si la identidad de género es construcción cultural pura, basta con disolver la categoría 'hombre' para que **nadie pueda identificarse como masculino** y, por tanto, nadie pueda hacer sufrir desde esa posición. La operación psíquica subyacente es eliminar la **posibilidad estructural del fracaso** frente a lo masculino — sin categoría, no hay frente al cual medirse y perder. La pieza extiende la crítica anti-constructivista que la página ya articula: el constructivismo no es solo error filosófico sobre la identidad, es **dispositivo defensivo** que opera por supresión de la categoría que produce ansiedad.
+
+### Feminismo clásico: necesita el enemigo para tener contra quién vengarse
+
+> "El feminismo clásico necesita que existan hombres y mujeres como categorías fijas para tener un enemigo identificable,"
+→ [What is a Charo? pt.2 (50:06)](https://youtu.be/xPB5l6KsU2Q?t=3006)
+
+> "Carmen Calvo quiere revancha personal: necesita que el hombre exista para verlo humillado,"
+→ [What is a Charo? pt.2 (50:06)](https://youtu.be/xPB5l6KsU2Q?t=3006)
+
+> "Si lo queer elimina la categoría \"hombre\", Carmen Calvo pierde contra quién vengarse,"
+→ [What is a Charo? pt.2 (50:06)](https://youtu.be/xPB5l6KsU2Q?t=3006)
+
+La estrategia clásica opera con la lógica inversa: la categoría 'hombre' debe permanecer fija e identificable porque el motor afectivo del feminismo clásico es la **revancha personal** — necesita un sujeto al que humillar. El caso Carmen Calvo (síndrome de mujer maltratada convertido en identidad política desde el despecho) es paradigmático: el feminismo es para ella propiedad personal vinculada a su herida específica, no marco moral universal. Si lo queer disuelve la categoría hombre, la clásica pierde su objeto de retribución — de ahí que la clásica perciba a la queer como amenaza, no como aliada radicalizada.
+
+### Por qué la clásica etiqueta lo queer como 'neoconservador'
+
+> "En la mente de Calvo, lo masculino y lo conservador son sinónimos (estereotipo),"
+→ [What is a Charo? pt.2 (54:45)](https://youtu.be/xPB5l6KsU2Q?t=3285)
+
+La pieza cierra el conflicto operativo: en el mapa mental del feminismo clásico, las categorías 'hombre' y 'conservador' se solapan estructuralmente — son referentes intercambiables del adversario. Cuando lo queer aparece y disuelve la categoría hombre, la clásica lee el movimiento como **infiltración masculina** que reproduce el patriarcado bajo nuevo disfraz — Q+ como 'hombres modernos prolongando el patriarcado dentro del colectivo LGTBI'. La etiqueta 'neoconservador' aplicada a lo queer no es error analítico aleatorio: es la lectura coherente desde una matriz mental donde 'masculino' y 'conservador' son la misma cosa.
+
+### Consecuencia operativa: dos estrategias estructuralmente incompatibles
+
+La coexistencia de las dos estrategias es estructuralmente conflictiva porque operan sobre **mecanismos psíquicos opuestos**: la queer necesita disolver el adversario; la clásica necesita preservarlo. La unidad superficial del campo feminista postmoderno oculta una guerra interna por la categoría 'hombre' como recurso simbólico — la clásica la quiere viva como diana, la queer la quiere muerta como liberación. La pieza importa para el análisis del canal: las disputas entre Carmen Calvo e Irene Montero, entre TERFs y queer, no son matices internos sino **antagonismo estructural** entre dos modos psicológicos incompatibles de gestionar la relación con lo masculino.
+
+
+
+
 ## Lagunas
 
 - Los **tres núcleos trans** y los **fenómenos no-trans** que componen la taxonomía propia se anuncian en el título y en la decisión editorial pero no aparecen desplegados literalmente en el fragmento del summary recuperado; falta enriquecer la página con las citas exactas que enumeren y describan cada núcleo.
@@ -272,5 +316,7 @@ El criterio operativo de demarcación es **temporal y estructural**: la disforia
 ## Citations
 
 
+
 - **Fenomenología Trans** — chunks: [21:52](https://youtu.be/grs5EqRZBnQ?t=1312)
+- **Wokismo para Wokes.** — chunks: [40:22](https://youtu.be/Q83ieEVaF5I?t=2422)
 

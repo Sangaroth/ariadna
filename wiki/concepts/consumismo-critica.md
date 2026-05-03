@@ -305,3 +305,7 @@ La crítica al consumismo del canal se articula con su lectura junguiana:
 - **Conexión con teoría del valor / capital**: el canal rechaza la "categoría mitológica" capitalismo pero no propone alternativa conceptual sistemática para hablar de la economía política
 - **Diálogo con autores clásicos** (Baudrillard, Adorno, Debord, Han): no aparecen en los chunks. ¿El canal los conoce y descarta o no los ha tratado?
 - **Aspecto positivo** ("qué consumir bien"): la página queda dominada por la crítica. Falta material sobre qué SÍ vale la pena consumir según el canal
+
+## Citations
+
+- **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [7:53](https://youtu.be/_S6kQYk9O98?t=473)

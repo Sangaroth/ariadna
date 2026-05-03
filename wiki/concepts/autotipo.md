@@ -89,6 +89,10 @@ De ahí la lectura del canal sobre el sacrificio final de Harry, que en la misma
 
 
 
+
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [12:13](https://youtu.be/3Jo2T73pOEs?t=733)
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839)
+- **Tremendo lunes** — chunks: [1:14:48](https://youtu.be/0YABTLJ-lFY?t=4488)
+- **Wokismo para Wokes.** — chunks: [52:16](https://youtu.be/Q83ieEVaF5I?t=3136)
 

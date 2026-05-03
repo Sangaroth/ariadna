@@ -142,10 +142,87 @@ La formulación no contradice la tipología 3-5 sino que la operacionaliza para 
 
 La formulación de cinco corrupciones supera y refina una versión previa del canal de tres formas (ninfa / Wendy / bruja, mencionada en el libro Polaris). La ampliación incorpora dos figuras nuevas con peso propio: **lámia/súcubo** (que distingue dos formas de corrupción venusiana) y **Medea** (que cierra la tipología extendiendo la degradación al aspecto materno, antes ausente del eje corrupto).
 
+
+
+## Casos clínicos y narrativos de las cinco corrupciones
+
+En el directo *Vacacioff: De la Sartén a Venezuela (parte II)* (30 jul 2024) el canal aplica operativamente la tipología a casos concretos — clínicos y cinematográficos — que cierran parcialmente la laguna sobre 'Casos cinematográficos para cada figura'. Las piezas operan también como criterios diferenciales para distinguir corrupciones reales de figuras que comparten estética sin compartir estructura.
+
+### Súcubo: la trampa de la mujer fatal y la confusión aspecto-personalidad
+
+> "El súcubo aprovecha su aspecto para que el hombre dé todo intentando satisfacer algo insaciable,"
+→ [Vacacioff parte II (1:10:46)](https://youtu.be/sTnxDjo1v3o?t=4246)
+
+> "La trampa consiste en confundir el aspecto tierno con la personalidad real,"
+→ [Vacacioff parte II (1:10:46)](https://youtu.be/sTnxDjo1v3o?t=4246)
+
+La pieza operacionaliza la corrupción lámia/súcubo articulada en la tipología: el mecanismo psíquico es la **disociación entre aspecto y estructura**. El aspecto venusino — ternura, sensualidad, vulnerabilidad aparente — se ofrece como signo de personalidad disponible para el cuidado del varón, cuando opera como dispositivo extractivo cuya carencia interna es estructuralmente insaciable. El varón que cae es el que lee el aspecto como prueba de la personalidad y se vuelca en satisfacer una demanda que crece con cada satisfacción.
+
+### La madre oscura: caso clínico David Pareja y caso narrativo Morgana
+
+La figura de Medea (madre oscura) recibe en este directo dos casos paradigmáticos — uno clínico contemporáneo y uno narrativo canónico — que aclaran su mecanismo operativo:
+
+> "La madre oscura solo puede tener relación con hombres que adopte por su potencial maligno,"
+→ [Vacacioff parte II (1:27:24)](https://youtu.be/sTnxDjo1v3o?t=5244)
+
+> "Este patrón está plasmado en Excalibur con Morgana creando su propio anticristo,"
+→ [Vacacioff parte II (1:27:24)](https://youtu.be/sTnxDjo1v3o?t=5244)
+
+> "La Wendy puede adoptar a un Peter Pan que sea niño y sátiro simultáneamente como el vampiro de Crepúsculo,"
+→ [Vacacioff parte II (1:27:24)](https://youtu.be/sTnxDjo1v3o?t=5244)
+
+La precisión operativa de la madre oscura: no es una madre que ame mal a hijos buenos, es una madre cuyo único modo de vincularse es **adoptar al varón por su potencial maligno** — invertir el cuidado para producir una encarnación del mal a partir del material masculino disponible. [[el-silmarillion|Morgana]] en Excalibur es el caso narrativo canónico: gesta deliberadamente a Mordred como anticristo, cumpliendo en una sola figura tanto la corrupción venusiana (sexualidad instrumentalizada) como la maternal (instinto materno sustituido por el mal). El caso del Edward de Crepúsculo amplía el cuadro: la Wendy puede degenerar hacia madre oscura al adoptar un Peter Pan híbrido niño-sátiro (vampiro), donde la corrupción opera por **acumulación de polaridades incompatibles** en el objeto adoptado.
+
+El correlato clínico contemporáneo articulado en el mismo directo:
+
+> "Lo que describe no es una crisis de ansiedad sino una depresión por confirmación de su complejo de inferioridad,"
+→ [Vacacioff parte II (1:21:29)](https://youtu.be/sTnxDjo1v3o?t=4889)
+
+> "Su novia le dijo que dejó de parecerle atractivo al verlo llorar porque necesitaba hombres poderosos,"
+→ [Vacacioff parte II (1:21:29)](https://youtu.be/sTnxDjo1v3o?t=4889)
+
+El caso del cómico David Pareja ilustra el reverso del cuadro: el varón que ya entra en la relación con complejo de inferioridad neurótico recibe de la madre oscura la confirmación operativa que produce depresión clínica — no por el rechazo en sí, sino por la confirmación de que el aspecto vulnerable del varón es lo que activa el cese del deseo en la pareja. La pieza añade al marco de la página una articulación clínica: la herida narcisista con dimensión paterna se actualiza vía relación con figura tipológica madre oscura, y el cuadro depresivo resultante es **estructural**, no episódico.
+
+### Bruja real vs hécata: criterio diferencial de sustrato psicológico
+
+> "Una bruja no es quien practica brujería sino quien rechaza lo civilizatorio buscando fuerzas demoníacas naturales,"
+→ [Vacacioff parte II (1:39:39)](https://youtu.be/sTnxDjo1v3o?t=5979)
+
+> "Las hécatas quieren ser brujas pero no lo son psicológicamente,"
+→ [Vacacioff parte II (1:39:39)](https://youtu.be/sTnxDjo1v3o?t=5979)
+
+> "A las brujas reales no les atraen los emos; los emos atraen a wendies y súcubos,"
+→ [Vacacioff parte II (1:39:39)](https://youtu.be/sTnxDjo1v3o?t=5979)
+
+La pieza precisa el criterio diferencial fundamental para la figura terminal de la tipología: la bruja real no es la que adopta la estética bruja (las hécatas — figuras que cultivan la apariencia, los símbolos y los rituales sin sustrato psicológico) sino la que **rechaza estructuralmente lo civilizatorio buscando contacto con fuerzas demoníacas naturales**. La distinción es operativa: la bruja real ya no encarna ningún aspecto sano (gracia, consorte, madre) ni busca encarnarlos; opera desde el polo terminal del eje corrupto. La hécata aspira al lugar de la bruja sin haber recorrido las cuatro corrupciones previas, lo que la sitúa en realidad como variante estética de Wendy o ninfa.
+
+El criterio diagnóstico que el speaker añade — la atracción por los emos no es signo de bruja sino de Wendy/súcubo — opera como test indirecto: la bruja real no se vincula con figuras masculinas vulnerables-estéticas porque su economía afectiva opera por intensidad transgresora, no por proyección de cuidado.
+
+### Hibristofilia como principio de bruja
+
+> "La hibristofilia es en parte un principio de bruja que se junta con el villano para que queme el mundo por ella,"
+→ [Vacacioff parte II (1:29:25)](https://youtu.be/sTnxDjo1v3o?t=5365)
+
+La pieza añade un mecanismo psíquico específico de la figura terminal: la atracción por criminales violentos no es solo desviación clínica documentada por la criminología, sino expresión del principio bruja en estado puro — la mujer se vincula con el villano para **que el mal se ejecute por interpósita persona**, instrumentalizando al varón maligno como ejecutor de una destructividad propia que la bruja prefiere no encarnar directamente.
+
+### Ninfa con esquizotípico: criterio diferencial de la corrupción venusiana inferior
+
+> "Confunden la esquizotipia con exotismo y perciben la distancia emocional como reto,"
+→ [Vacacioff parte II (1:40:39)](https://youtu.be/sTnxDjo1v3o?t=6039)
+
+> "La incapacidad de proyección simpática se interpreta como conquista pendiente,"
+→ [Vacacioff parte II (1:40:39)](https://youtu.be/sTnxDjo1v3o?t=6039)
+
+La pieza precisa el mecanismo de elección de pareja característico de la ninfa (la corrupción venusiana de juego de poder en lugar de dinámica de amor): el rasgo esquizotípico del varón — distancia emocional, incapacidad de proyección simpática — se lee desde la economía afectiva ninfa como **reto de conquista pendiente**, no como diagnóstico clínico. La distancia se interpreta como exotismo, y la imposibilidad estructural de vínculo se convierte en motor del cortejo. La consecuencia operativa: la ninfa selecciona consistentemente parejas estructuralmente incapaces de devolver el afecto que la consorte buscaría — lo que cierra el cuadro de la corrupción como dinámica de poder en vez de amor.
+
+La pieza completa la articulación de la tipología con los cinco casos diferenciales: el aparato deja de ser nomenclatura abstracta para volverse herramienta diagnóstica con criterios operativos de aplicación.
+
+
 ## Lagunas
 
 - **Estatus de la tipología en el corpus académico**: el canal no declara explícitamente si la considera reformulación de Jung, derivación de Frazer/Eliade o construcción propia. Probablemente síntesis pero falta articulación genealógica
 - **Correspondencias masculinas**: el canal articula con frecuencia tipologías masculinas (síndrome del niño masculino, adgrediere, etc.) pero no hay aquí mapping explícito tres-aspectos-tres-corrupciones masculino que correspondería en simetría
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Casos cinematográficos para cada figura**: solo La Bella Durmiente aparece com -->
 - **Casos cinematográficos para cada figura**: solo La Bella Durmiente aparece como ejemplo elaborado (encuentro con el mal). Falta despliegue caso a caso de las cinco corrupciones — qué obras del corpus encarnan paradigmáticamente la ninfa, la lámia, la Medea
 - **Articulación con el mito polar**: la tipología vive en el polo femenino del [[mito-polar]] pero no se elabora cómo cada aspecto/corrupción dialoga con el masculino correspondiente en la unión hieros-gámica
 - **La cuarta vía de encuentro con el mal (contemplación)**: queda enumerada pero no desplegada — el canal describe trauma e infección con casos pero no qué obra paradigmática muestra la contemplación del mal exógeno como mecanismo
@@ -154,4 +231,3 @@ La formulación de cinco corrupciones supera y refina una versión previa del ca
 
 
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444)
-

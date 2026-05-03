@@ -152,6 +152,43 @@ La vulnerabilidad de un fenómeno a la sugestión no demuestra que el fenómeno 
 
 La crítica no es solo metodológica: el speaker lee el caso como manifestación contemporánea del cuadro narcisista de la divulgadora salvífica que ofrece un atajo cognitivo —"todo es conducta, todo es refuerzo"— a cambio de adhesión a su autoridad. Conecta así con [[herida-narcisista-en-proxy]] y con la posición que el [[diagrama-de-proxy]] asignaría al fundamentalismo moral con jerarquía aplanada propio del influencer pseudoterapéutico.
 
+
+
+## El conductismo como sistema autorreferente axiomático: la crítica fundacional
+
+En el directo *Último Stream del Año* (31 dic 2025) el canal añade a la crítica metodológica al conductismo divulgativo una objeción filosófica más profunda: el conductismo, leído no ya como práctica divulgativa imprecisa sino como **sistema teórico**, colapsa por autocircularidad axiomática. La pieza eleva la crítica del plano operativo (términos sin definir, dicotomías falsas, hombre de paja) al plano fundacional (incoherencia estructural del axioma conductista mismo).
+
+### Si todo es conducta, nada es conducta
+
+> "Si todo es conducta, nada es conducta — el axioma conductista no puede ser sobre la mente si es su propio axioma,"
+→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)
+
+El argumento opera por reducción al absurdo del propio gesto fundacional: el conductismo postula que toda actividad mental es reductible a conducta. Pero el postulado mismo —la afirmación 'toda actividad mental es conducta'— es una operación mental. Si esa operación es conducta más, no tiene estatus axiomático sobre la mente (es una conducta entre otras, no fundamento); si tiene estatus axiomático, opera fuera del régimen que pretende universalizar (entonces hay algo no-conducta que produce el axioma, contradiciendo el postulado). La extensión universal del concepto colapsa su discriminación: cuando todo cae bajo una categoría, la categoría deja de informar.
+
+### Imposibilidad de auto-explicación desde dentro
+
+> "El conductismo no puede explicarse a sí mismo saliendo de sus propias coordenadas, a diferencia de otros sistemas filosóficos conectados a la realidad,"
+→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)
+
+La precisión es comparativa: otros sistemas filosóficos (el realismo cognitivo del canal incluido) pueden articular sus axiomas por referencia a una realidad externa al sistema mismo (la mente humana, el sustrato físico, las clases noéticas). El conductismo carece de esa salida porque ha clausurado de antemano el régimen externo: si solo hay conducta, no hay anclaje fuera de la conducta para fundamentar la teoría sobre la conducta. La consecuencia es doble: (a) el sistema no puede revisarse críticamente desde su interior porque no tiene metanivel, y (b) toda objeción externa se reformula ad hoc como variante de conducta, blindando el sistema a la falsación.
+
+### La negación metafórica de la enfermedad mental como abuso categorial
+
+> "La negación de la enfermedad mental como metáfora es un abuso de la negación metafórica: si eso es metáfora, todo lo que dice el conductismo también lo es,"
+→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)
+
+La pieza extiende la crítica al borrado nominal del diagnóstico que la página ya articulaba (TOC, depresión exógena reformuladas como queja vivencial). La operación retórica es reducir la categoría psiquiátrica a 'mera metáfora' que no nombra ningún referente real. El canal aplica el mismo criterio reflexivamente: si la enfermedad mental es metáfora, también lo son 'conducta', 'refuerzo', 'consecuencia' — términos del propio aparato conductista que tampoco tienen referente directo y unívoco. La negación metafórica selectiva es así arbitraria: usa el operador retórico contra las categorías rivales y lo blinda frente a las propias.
+
+### Diagnóstico estructural: o axioma falso o contradicciones
+
+> "Un sistema autorreferente y axiomático implica que o el axioma es falso o hay contradicciones irreparables,"
+→ [Último Stream del Año (58:55)](https://youtu.be/SSa1pF9Bw6U?t=3535)
+
+El cierre es lógico-estructural y no admite tercera vía operativa: cualquier sistema cuyo axioma se aplique reflexivamente a sí mismo (autorreferente) y pretenda fundación última (axiomático) cae en una de dos posiciones — o el axioma es factualmente falso (y el sistema entero pierde base), o es verdadero pero genera contradicciones internas inelimnables (paradoja del barbero, etc.). La pieza no es ataque ad hoc al conductismo divulgativo sino **diagnóstico filosófico de su forma sistémica**: cualquier sistema con esa estructura tiene la misma vulnerabilidad. La consecuencia metodológica es restrictiva: el conductismo solo puede sostenerse pragmáticamente como herramienta operativa de modificación conductual en contextos acotados — no como teoría fundacional de la mente.
+
+La pieza cierra una laguna implícita de la página: la crítica a la divulgación conductista quedaba en plano metodológico-operativo (qué hace mal el divulgador en concreto); este vídeo le añade el plano filosófico-estructural (por qué la forma misma del sistema no puede tener éxito como teoría de la mente, independientemente de quién lo divulgue y cómo).
+
+
 ## Lagunas
 
 - Tratamiento detallado de la genealogía intelectual del conductismo (Watson, Skinner, ACT, terapias de tercera generación) — el canal critica la divulgación contemporánea, no el programa académico original

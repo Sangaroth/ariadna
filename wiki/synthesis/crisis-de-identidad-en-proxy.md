@@ -149,5 +149,7 @@ La fórmula clínica condensada — *meter la duda en la caja negra* — es la o
 ## Citations
 
 
+
 - **Psicología 101: Identidad y depresión.** — chunks: [1:55:40](https://youtu.be/mG-05eFJsCQ?t=6940) · [2:09:24](https://youtu.be/mG-05eFJsCQ?t=7764) · [2:20:01](https://youtu.be/mG-05eFJsCQ?t=8401) · [2:34:11](https://youtu.be/mG-05eFJsCQ?t=9251)
+- **Wokismo para Wokes.** — chunks: [1:02:29](https://youtu.be/Q83ieEVaF5I?t=3749)
 

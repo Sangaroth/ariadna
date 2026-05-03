@@ -136,5 +136,7 @@ Leído así, *Excalibur* no es una película monárquica sino una película sobr
 ## Citations
 
 
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [23:48](https://youtu.be/K082yiudh-g?t=1428) · [27:20](https://youtu.be/K082yiudh-g?t=1640) · [59:52](https://youtu.be/K082yiudh-g?t=3592) · [1:25:07](https://youtu.be/K082yiudh-g?t=5107)
+- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [1:27:24](https://youtu.be/sTnxDjo1v3o?t=5244)
 

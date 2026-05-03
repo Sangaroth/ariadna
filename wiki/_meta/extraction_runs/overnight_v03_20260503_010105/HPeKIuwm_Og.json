@@ -1,0 +1,217 @@
+{
+  "video_id": "HPeKIuwm_Og",
+  "video_title": "Vicky Proxy Barcelona",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página; un sub-agente posterior lo construye. En este vídeo no hay entities sustantivas — el stream entero documenta logística personal de mudanza a Barcelona (búsqueda de piso, ofertas laborales de buceo, estafas inmobiliarias) sin marco teórico arquetípico-cognitivo-mítico aplicado",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "La búsqueda de piso en Barcelona como pesadilla kafkiana",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Relato personal sobre mercado del alquiler en Barcelona. Descripción coyuntural sin elevación a estructura cultural-arquetípica que el corpus del canal pueda integrar",
+      "quote_evidence": "Los estudios de 18-20 m² cuestan entre 700 y 960 € en el centro de Barcelona,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anatomía de un zulo barcelonés: el piso-pasillo con cama elevada",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Descripción concreta de un piso visitado. Anécdota sin contenido temático",
+      "quote_evidence": "Un estudio donde la cocina es un pasillo de 2 metros con media pila rectangular,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Situación provisional: viviendo en casa de un contacto del canal",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota sobre alojamiento temporal facilitado por seguidor del canal. Logística personal",
+      "quote_evidence": "Un seguidor le presta temporalmente una casa que luego pondrá en alquiler a través de agencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El estudio ideal cerca del Arco de Triunfo por 760 €",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle concreto de un piso visitado. Sin contenido temático",
+      "quote_evidence": "Zona inmejorable, piso muy pequeño pero bien diseñado y semiático,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tres ofertas de trabajo en un solo día: la paradoja de la incertidumbre",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Relato personal sobre coincidencia de ofertas laborales. Logística profesional sin marco teórico",
+      "quote_evidence": "McFerson Servicios Subacuáticos le ofrece trabajo de buzo en Cádiz (10 meses temporal, luego fijo),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Primera inmersión profesional: el astillero y el yate gigantesco",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle profesional sobre primer trabajo en astillero. Logística laboral sin contenido enciclopédico",
+      "quote_evidence": "Trabajo de asistente técnico en un astillero: levantar un yate con estructura mecánica y cuñas de madera,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La estafa del personal shopper inmobiliario en la Barceloneta",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Caso particular de estafa inmobiliaria. La crítica al neologismo 'personal shopper' como vaciamiento del lenguaje para evadir regulación es brevísima y sin desarrollo arquetípico",
+      "quote_evidence": "El intermediario se autodenomina \"personal shopper\" en lugar de inmobiliaria para justificar el cobro al inquilino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El retorno de Balfegó: la empresa de los atunes vuelve a llamar",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota sobre relación con empresa empleadora. Coyuntural personal",
+      "quote_evidence": "La misma empresa que le hizo sacarse la libreta catalana y dos títulos marítimos para luego rechazarle,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rechazado por un test de Myers-Briggs para pastor de atunes",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota personal + crítica implícita al uso del MBTI como prueba única de selección. La crítica al MBTI como herramienta pseudocientífica conecta con psicoinfluencers (crítica a herramientas psicológicas sin sustento) pero brevedad insuficiente",
+      "quote_evidence": "Le pasan un test de 90 preguntas de personalidad (MBTI) como única prueba de selección,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en futuros vídeos el canal articula crítica desarrollada al MBTI o a tests psicométricos populares, vale acumular como pieza para enriquecer psicoinfluencers-en-proxy",
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lección de derecho contractual: la doctrina de la causa",
+      "reason_code": "passing_mention",
+      "reason_detail": "Explicación técnica del Código Civil español aplicada al caso particular del cobro al inquilino. Material jurídico-técnico fuera del alcance editorial del wiki (psicología jungiana, mitología, filosofía cognitiva, crítica cultural)",
+      "quote_evidence": "La causa es el motivo jurídico que justifica la existencia de un contrato entre dos partes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Plan de documental con cámara oculta contra los estafadores",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Plan personal de denuncia. Logística sin contenido enciclopédico",
+      "quote_evidence": "Ha grabado en audio la visita completa al segundo piso como prueba,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La fantasía de confrontación: firmar, grabar y denunciar",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Continuación del plan personal de denuncia. Logística sin contenido teórico",
+      "quote_evidence": "Plan: firmar todo excepto la hoja de honorarios, grabarlo y amenazar con denuncia y medios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Debate interno: ¿compensa el desgaste del enfrentamiento legal?",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reflexión personal sobre coste de denuncia. Coyuntural sin desarrollo arquetípico",
+      "quote_evidence": "Interlocutores del chat le advierten sobre riesgos de meterse en líos legales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mapa de seguridad de Barcelona: del Gótico al Raval a La Mina",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Recorrido por la geografía urbana de Barcelona desde la perspectiva de seguridad para el inquilino. Información práctica sin contenido enciclopédico",
+      "quote_evidence": "Por debajo de la diagonal no es tan peligroso como dicen si no eres mujer joven sola,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Transporte en Barcelona: la taxista consejera y el dilema del vehículo",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota sobre conocido (taxista) + decisión personal sobre vehículo. Logística sin contenido temático",
+      "quote_evidence": "La recomendación unánime es scooter 125cc, no coche, para moverse por Barcelona,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Terrassa como alternativa: más espacio pero lejos del trabajo",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Análisis personal de localización alternativa para vivienda. Logística sin contenido teórico",
+      "quote_evidence": "Por 900-1000 € se consiguen pisos mucho más grandes que en Barcelona centro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La lógica de Barcelona: ecosistema de trabajo de buzo",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Análisis personal del mercado laboral del buceo en Barcelona. Logística profesional",
+      "quote_evidence": "Barcelona garantiza trabajo de buzo por la densidad de llamadas puntuales y contactos del sector,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El coste emocional de la mudanza en la pareja",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota sobre el coste afectivo de la separación geográfica con la pareja. Logística personal",
+      "quote_evidence": "Claudia se queda sin su compañero y está \"bastante jodida\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Síntesis del dilema: el trabajo existe, el piso no",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Cierre del relato personal sobre dilema mudanza-trabajo-vivienda. Logística sin contenido enciclopédico",
+      "quote_evidence": "No busca trabajo en Barcelona, ya lo tiene; lo que no encuentra es vivienda asequible,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 19,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T15:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

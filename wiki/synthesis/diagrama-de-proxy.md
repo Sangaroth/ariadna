@@ -386,6 +386,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
+
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
 - **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [48:12](https://youtu.be/NrLnzcceSLY?t=2892)
@@ -393,4 +394,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:54:09](https://youtu.be/xaFCTcXXI2o?t=6849)
 - **Lunes sin política** — chunks: [35:57](https://youtu.be/r1SmCsNmLh0?t=2157)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [1:13:47](https://youtu.be/-daRyQwnZy0?t=4427)
+- **Wokismo para Wokes.** — chunks: [25:13](https://youtu.be/Q83ieEVaF5I?t=1513)
 

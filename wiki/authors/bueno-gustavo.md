@@ -202,15 +202,44 @@ La lectura del canal: lo que Bueno trata como tercer género de materialidad (M3
 
 La precisión cierra el flanco crítico que ya estaba abierto: el canal usa el aparato buenista como **infraestructura ontológica orientativa** (especialmente la distinción material/fisicalismo y la noción de symploké), pero rechaza tanto los términos poéticos (paso al límite, cierre categorial) como la suficiencia de la tripartición para una teoría de la mente. Para esa teoría, articula un marco propio — el [[realismo-cognitivo]] como axiomática de clases — y un modelo formal-computacional que la operacionaliza ([[galatea-modelo-protomente]]).
 
+
+
+## Eutaxia y distaxia: la teoría buenista del estado aplicada a España
+
+En el directo *Tremendo martes* (04 mar 2026) el canal aplica explícitamente el par buenista **eutaxia / distaxia** como diagnóstico operativo de la situación española. La pieza cubre parcialmente la laguna de filosofía política buenista que la página listaba: hasta aquí el aprovechamiento del aparato buenista era ontológico (M1/M2/M3, ego trascendental, hiperrealidad); ahora se incorpora la dimensión política del sistema con su vocabulario propio.
+
+### Definición operativa
+
+> "Eutaxia es la buena permanencia, el seguir existiendo como civilización, a nivel individual, institucional y estatal,"
+→ [Tremendo martes (39:34)](https://youtu.be/MJDukHo33Tc?t=2374)
+
+> "Distaxia es el conjunto de procedimientos que provocan la disolución y desaparición del ser,"
+→ [Tremendo martes (39:34)](https://youtu.be/MJDukHo33Tc?t=2374)
+
+El par no es descriptivo de un estado momentáneo sino de una **direccionalidad procesual**: eutaxia es el conjunto de procedimientos (ontológicos, institucionales, culturales) que sostienen la permanencia del ser; distaxia es el conjunto inverso, los procedimientos que lo disuelven. La articulación opera en tres escalas anidadas — individual, institucional, estatal — porque las tres son sujetos buenistas en sentido pleno (entes con identidad operatoria).
+
+### Aplicación al estado español
+
+> "España lleva en proceso distáxico desde la creación del estado de autonomías por el PSOE,"
+→ [Tremendo martes (39:34)](https://youtu.be/MJDukHo33Tc?t=2374)
+
+La lectura sitúa el estado de autonomías como mecanismo distáxico estructural: no como política coyuntural revisable sino como procedimiento que disuelve la unidad del ente España. La pieza importa para entender por qué el canal lee la fragmentación territorial y la neutralidad geopolítica como dos manifestaciones del mismo proceso — ambos son operaciones que reducen la conmensurabilidad del sujeto-Estado con el mundo, en el vocabulario buenista del ego trascendental como totalizador.
+
+El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada del canal frente al sistema buenista: se hereda el vocabulario operativo y la categorización política, pero la articulación con el [[realismo-cognitivo]] cierra la causalidad psíquica del fenómeno (ver pending_update herida-narcisista-en-proxy y thesis_candidate sobre asimetría de la introyección de culpa por sexo) — Bueno aporta la categoría del proceso, el canal aporta su mecanismo psíquico subyacente.
+
+
 ## Lagunas
 
 - **Teoría del cierre categorial**: la sesión cubre ego trascendental y géneros de materialidad pero no entra a fondo en la teoría del cierre categorial de las ciencias, pieza igualmente central del sistema buenista
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Filosofía política buenista**: España como nación, crítica a las autonomías, t -->
 - **Filosofía política buenista**: España como nación, crítica a las autonomías, teoría del Estado — material que el canal podría retomar pero que no aparece desarrollado en este directo
 - **Relación con el marxismo**: el speaker menciona que Bueno eligió "materialismo" por razón pragmática en ámbito escolástico y marxista, pero no desarrolla la posición buenista frente al marxismo clásico
 - **Aplicaciones a obras culturales**: a diferencia de otros marcos del canal (junguiano, mitológico), el aparato buenista todavía no se ve aplicado a análisis de obra concreta — queda como infraestructura teórica
 - **Bibliografía citada**: la sesión es de estudio sobre fuente directa pero el summary no nombra qué textos de Bueno se trabajan (¿*Ensayos materialistas*? ¿*El ego trascendental*?). Pendiente identificar fuentes primarias
 
 ## Citations
+
+
 
 
 
@@ -233,4 +262,6 @@ La precisión cierra el flanco crítico que ya estaba abierto: el canal usa el a
 - **Lunes 100 tífiko: Therians** — chunks: [1:12:08](https://youtu.be/aaIT2JDaL6c?t=4328)
 - **Proxy T4, 4x01: "Piloto"** — chunks: [26:30](https://youtu.be/ucOt-vQZ4Qw?t=1590)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [43:27](https://youtu.be/-daRyQwnZy0?t=2607)
+- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [58:09](https://youtu.be/sTnxDjo1v3o?t=3489) · [1:29:25](https://youtu.be/sTnxDjo1v3o?t=5365)
+- **Vicky Proxy Barcelona** — chunks: [44:54](https://youtu.be/HPeKIuwm_Og?t=2694)
 
