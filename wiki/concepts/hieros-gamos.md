@@ -74,6 +74,17 @@ Posición teórica del canal:
 
 Es decir: hieros gamos no es decoración narrativa — es **la única estructura que permite transformación real** en el modelo del canal.
 
+
+### Casarse como rey vs casarse como caballero: dos niveles de hieros gamos
+
+En la lectura del mito artúrico el canal introduce una distinción operativa sobre cómo se sacraliza la unión polar según el plano del agente:
+
+> "Casarse como rey es sacralización del complemento polar; casarse como caballero es complementación solo terrena, insuficientemente gloriosa"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (1:06:56)](https://youtu.be/K082yiudh-g?t=4016)
+
+La figura del rey (Arturo, Aragorn) accede al hieros gamos en su plano cosmogónico-civilizatorio: la unión polar deviene fundamento del orden colectivo. La figura del caballero, en cambio, accede solo al plano terreno de la complementación: una unión privada que no funda reino ni cierra ciclo cósmico. La tensión interna de los doce caballeros de Arturo ("también él") articula esa elección como la lucha por dedicar lo femenino a obra civilizatoria suprema o a vida privada.
+
+
 ## Manifestaciones en obras analizadas
 
 ### Tarzán: el hieros gamos consumado por renuncia
@@ -186,6 +197,8 @@ Lectura antropológica del vínculo:
 
 
 
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [7:42](https://youtu.be/Tviv4PT0dv8?t=462) · [11:45](https://youtu.be/Tviv4PT0dv8?t=705) · [16:18](https://youtu.be/Tviv4PT0dv8?t=978) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
+- **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
 

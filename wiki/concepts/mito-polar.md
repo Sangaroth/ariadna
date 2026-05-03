@@ -60,6 +60,17 @@ Esta tesis posiciona al mito polar como la **única estructura mitológica genui
 
 Por eso el canal lo trata como mito de **transición histórica**: las grandes obras del corpus que articulan cambio real (Matrix, Tolkien, Alien) son lecturas polares.
 
+
+### El mito católico como sustitución de lo lunar
+
+En la lectura comparada de Excalibur y El Señor de los Anillos, el canal añade un movimiento histórico-teológico al esquema solar/lunar/polar: el mito católico se construye estructuralmente como solución a las trampas de lo lunar.
+
+> "Los mitos solares son soluciones a los mitos lunares; el mito católico intenta sustituir lo lunar porque la magia promete poder sin control"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (29:22)](https://youtu.be/K082yiudh-g?t=1762)
+
+La magia opera como atajo lunar (poder concedido por la sabiduría inconsciente sin haber atravesado la prueba); el catolicismo civilizatorio sustituye ese atajo por la disciplina solar de las virtudes y la conjunción polar diferida (matrimonio sagrado, sacrificio, Grial). El sincretismo celta-cristiano que estructura el mito artúrico es para el canal el caso más limpio de esta operación: lo lunar pagano queda integrado pero subordinado al armazón solar-polar católico.
+
+
 ## Lugar dentro de la tipología de mitos primarios
 
 El mito polar es uno de los **mitos primarios** del [[collective-unconscious]] junto con sol, luna, héroe, diosa, mago, Génesis y Apocalipsis:
@@ -144,6 +155,8 @@ Tolkien es para el canal el caso más sostenido del mito polar moderno:
 ## Citations
 
 
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
+- **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
 

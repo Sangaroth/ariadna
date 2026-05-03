@@ -134,6 +134,74 @@ El ego trascendental funciona aquí como bisagra que asegura que el observador, 
 
 Esta articulación es la que el canal contrapone, en su propio marco, al [[realismo-cognitivo]]: el realismo cognitivo no necesita el ego trascendental institucional-histórico de Bueno (su escala es la mente humana, no la materia ontológica general); le basta con la función propia de las clases mentales y con la cibernética de segundo orden como diagnóstico operativo.
 
+## Crítica del canal a los términos poéticos del materialismo
+
+En el directo *Filosofía para dummies* (06-nov-2024) el canal articula una crítica específica al lenguaje del sistema buenista: aunque el materialismo filosófico se presenta como sistemática rigurosa de categorías, opera con vocabulario metafórico no totalmente reducible.
+
+> "Las categorías son las unidades mínimas de aproximación filosófica"
+→ [Filosofía para dummies (46:10)](https://youtu.be/JVEsIdv6emI?t=2770)
+
+> "La filosofía materialista consiste en sistematizar categorías: ordenarlas, relacionarlas, dividirlas en campos"
+→ [Filosofía para dummies (46:10)](https://youtu.be/JVEsIdv6emI?t=2770)
+
+> "Crítica al materialismo: está lleno de términos poéticos (paso al límite, cierre categorial) que son metafóricos"
+→ [Filosofía para dummies (46:10)](https://youtu.be/JVEsIdv6emI?t=2770)
+
+La observación es operativamente importante para distinguir el materialismo filosófico del [[realismo-cognitivo]] que el canal articula: el materialismo aspira a precisión categorial pero retiene metáforas (paso al límite, cierre categorial, symploké) cuya carga poética no se reduce sin perder la operatividad del sistema. El realismo cognitivo no necesita ese repertorio metafórico porque su escala es la mente humana — basta articular la operación de las clases noéticas sin postular cierres categoriales generales.
+
+La crítica no anula el aprovechamiento del aparato buenista (que el canal sigue usando como infraestructura ontológica para dialogar con tradiciones realistas y para anclar los tres géneros de materialidad), sino que precisa por qué el canal no se compromete totalmente con el sistema: la sistematicidad real exige despoetizar términos que en Bueno permanecen como bisagras metafóricas operativas pero conceptualmente opacas.
+
+## El argumento del canal contra la suficiencia del materialismo buenista
+
+En el directo *Galatea, Materialismo ontológico y realismo cognitivo* (11-jun-2025), Proxy precisa la frontera entre el aprovechamiento del aparato buenista y su crítica como sistema completo. La distinción es importante: el canal hereda de Bueno la estructura ontológica para dialogar con tradiciones realistas, pero rechaza que el materialismo sea suficiente como teoría de la mente.
+
+### Paradoja de Kripke: lo inmaterial dentro de lo material
+
+La primera pieza del argumento es la imposibilidad de reproducir físicamente las experiencias subjetivas:
+
+> "Existen experiencias internas (como la sensación del rojo o el terror) que no se pueden reproducir con objetos físicos"
+→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)
+
+> "Las abstracciones derivadas de experiencias no tienen manifestación física construible"
+→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)
+
+> "Si hay una parte del pensamiento que no es material, el materialismo queda incompleto"
+→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)
+
+La objeción no se dirige al fisicalismo crudo (Bueno mismo distingue su materialismo del fisicalismo) sino a la suficiencia de la tripartición M1/M2/M3 para acomodar el qualia. Si M2 (psíquico) es genuinamente material en el sentido buenista, debería ser construible o al menos describible mediante composición de elementos materiales — y el canal sostiene que esa construcción es imposible para la experiencia subjetiva en cuanto tal.
+
+### El hard problem como límite categorial
+
+La segunda pieza eleva el argumento a problema de fundación:
+
+> "Empíricamente no se puede afirmar que la conciencia sea físico-material; suponemos que lo es pero no sabemos cómo ni por qué (hard problem)"
+→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)
+
+> "Si la conciencia surge de los átomos, hay que explicar por qué algunos átomos la generan y otros no"
+→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)
+
+> "Decir que los átomos del cerebro producen experiencia subjetiva es presuponer lo que hay que demostrar"
+→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)
+
+El materialismo, al carecer de criterio de demarcación entre átomos conscientes y átomos no-conscientes, se ve forzado a una de dos salidas: (a) circularidad (asume que ciertos átomos generan conciencia porque están en cerebros), (b) pampsiquismo (atribuye conciencia a toda la materia). El canal rechaza ambas:
+
+> "El pampsiquismo surge como consecuencia lógica de atribuir conciencia a la materia sin criterio de demarcación"
+→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)
+
+### M3 reabsorbido en M2: la respuesta del realismo cognitivo a la tripartición
+
+La consecuencia operativa que el canal extrae del argumento es una corrección específica a la tripartición buenista:
+
+> "M3 (relaciones) queda absorbido en M2 (psique) porque toda relación es construcción mental; las matemáticas no están \"ahí fuera\""
+→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)
+
+> "Solo existen dos dimensiones: la realidad y el pensamiento como parte de la realidad"
+→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)
+
+La lectura del canal: lo que Bueno trata como tercer género de materialidad (M3 = relaciones, instituciones, lógica, matemáticas) es para el realismo cognitivo operación cognitiva sobre clases formales — vive dentro de M2, no constituye un plano ontológico independiente. La distinción no anula el aprovechamiento heurístico de M3 (sigue siendo útil para hablar de instituciones culturales como objetos sociales) pero deja de tener estatus ontológico autónomo.
+
+La precisión cierra el flanco crítico que ya estaba abierto: el canal usa el aparato buenista como **infraestructura ontológica orientativa** (especialmente la distinción material/fisicalismo y la noción de symploké), pero rechaza tanto los términos poéticos (paso al límite, cierre categorial) como la suficiencia de la tripartición para una teoría de la mente. Para esa teoría, articula un marco propio — el [[realismo-cognitivo]] como axiomática de clases — y un modelo formal-computacional que la operacionaliza ([[galatea-modelo-protomente]]).
+
 ## Lagunas
 
 - **Teoría del cierre categorial**: la sesión cubre ego trascendental y géneros de materialidad pero no entra a fondo en la teoría del cierre categorial de las ciencias, pieza igualmente central del sistema buenista
@@ -147,6 +215,14 @@ Esta articulación es la que el canal contrapone, en su propio marco, al [[reali
 
 
 
+
+
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
+- **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
+- **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
+- **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [42:09](https://youtu.be/JVEsIdv6emI?t=2529) · [46:10](https://youtu.be/JVEsIdv6emI?t=2770)
+- **Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke y Gustavo Bueno** — chunks: [51:52](https://youtu.be/TZTiSfm6syI?t=3112) · [1:09:49](https://youtu.be/TZTiSfm6syI?t=4189)
 

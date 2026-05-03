@@ -261,6 +261,36 @@ El canal subraya que la fantasía tolkieniana funciona como alegoría cristiana,
 
 La lectura del canal recupera esa estructura: la cadena Melkor→Sauron→Saruman→orcos no es decoración narrativa sino la articulación cristiana del mal como estructura propagativa, donde cada eslabón corrompe al siguiente sin que ninguno sea creador del mal en sentido absoluto. El mal absoluto pertenece al caos primigenio (los dragones como avatares); todo lo demás es mal CREADO.
 
+## Correspondencias católicas en El Señor de los Anillos
+
+En la lectura comparada con el mito artúrico, el canal articula un mapa sistemático de los pueblos de la Tierra Media con las categorías de la cristiandad:
+
+> "Aragorn representa a los patriarcas y la estirpe de reyes; los hobbits son los gentiles de los cuatro puntos cardinales"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (1:38:20)](https://youtu.be/K082yiudh-g?t=5900)
+
+> "Los elfos son los santos inmortales que dominaron las eras más feroces; los magos son el clero poseedor de sabiduría ancestral"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (1:38:20)](https://youtu.be/K082yiudh-g?t=5900)
+
+El mapeo permite leer los hobbits como pueblos llanos todavía inconscientes ("los gentiles" del cristianismo primitivo) que reciben el evangelio del rey y son enviados "a evangelizar en todas direcciones" cuando Pippin y Merry son nombrados caballeros — homología directa con la misión apostólica.
+
+### Los tres anillos élficos como las tres virtudes teologales
+
+La tipología católica de las virtudes recibe encarnación material en los tres anillos de los elfos:
+
+> "Los tres anillos élficos son las tres virtudes teologales: Narya es fe, Nenya es esperanza, Vilya es caridad"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (1:43:23)](https://youtu.be/K082yiudh-g?t=6203)
+
+La lectura completa el armazón teológico que el canal venía señalando como "elemento de estructura católica" en Tolkien: las virtudes que solo pueden ser concedidas por Dios quedan custodiadas por los santos inmortales antes de partir a los Puertos Grises.
+
+### Las cuatro formas del mal aplicadas a personajes de LOTR
+
+La tipología cuádruple del mal anunciada en el Ainulindalë (ver [[el-silmarillion]]) recibe en este vídeo su mapeo cerrado a personajes concretos:
+
+> "Las cuatro formas del mal: el exógeno (Sauron/Balrog), la concupiscencia interior (Grima/serpiente), la corrupción que pudre (orcos) y la posesión (Uruk-hai)"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (1:43:23)](https://youtu.be/K082yiudh-g?t=6203)
+
+El anillo opera específicamente en la segunda forma — la concupiscencia interior — articulada como pecado que permite hacer trampa y vuelve ruin a quien lo porta. La distinción es funcional para distinguir el mal de Sauron (exógeno, demoníaco) del mal del anillo (interior, voluntad pervertida) y del mal de Saruman (corruptor que cree actuar correctamente, ya documentado arriba como lógica satánica).
+
 ## Conexión con otros temas del corpus
 
 - Tolkien funciona como caso ejemplar del [[mito-polar]] cosmogónico — la dualidad Aulë/Yavanna es estructuralmente análoga a otras polaridades genésicas que el canal trabaja
@@ -269,6 +299,7 @@ La lectura del canal recupera esa estructura: la cadena Melkor→Sauron→Saruma
 
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: El corpus aquí recuperado solo cubre el Silmarillion en su sección genésica (Aul -->
 - El corpus aquí recuperado solo cubre el Silmarillion en su sección genésica (Aulë/Yavanna, los Valar terrestres). No hay material sobre El Señor de los Anillos ni sobre el viaje del héroe tolkieniano
 - No se aborda la biografía intelectual de Tolkien (filología, Inklings, relación con C. S. Lewis) ni su marco teórico explícito ("On Fairy-Stories", subcreación)
 - La dimensión católica que el canal menciona como "elemento de estructura" no se desarrolla — queda pendiente cómo Tolkien articula su catolicismo con la mitología propia
@@ -287,4 +318,3 @@ La lectura del canal recupera esa estructura: la cadena Melkor→Sauron→Saruma
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [27:29](https://youtu.be/s6teBboDDJ4?t=1649) · [1:16:01](https://youtu.be/s6teBboDDJ4?t=4561)
 - **Tolkien y los dragones** — chunks: [0:31](https://youtu.be/O-kzVFngjAQ?t=31) · [1:07:52](https://youtu.be/O-kzVFngjAQ?t=4072) · [1:12:57](https://youtu.be/O-kzVFngjAQ?t=4377) · [1:16:29](https://youtu.be/O-kzVFngjAQ?t=4589) · [1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)
 - **Autodidáctica** — chunks: [11:51](https://youtu.be/tgP5_AvAnD8?t=711)
-

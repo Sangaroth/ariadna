@@ -69,6 +69,21 @@ La lectura del canal es que [[harry-potter-saga|Harry Potter]] reproduce la silu
 > "El sacrificio de Harry entregándose a la muerte no es redención sino cliché puro: \"tengo que destruirme a mí mismo\" es estructuralmente inevitable, no heroico,"
 → [Harry Potter, el síndrome de Wendy y por qué es escoria fántastica (11:13)](https://youtu.be/3Jo2T73pOEs?t=673)
 
+## Cristo como respuesta católica al arquetipo del héroe
+
+El canal articula la genealogía del monomito en clave religiosa-occidental: cada cultura aplica una respuesta moral sobre la plantilla mítica del héroe, y el catolicismo elige a Cristo como figura específica a imitar.
+
+> "Los mitos definen estructuras fundamentales y las religiones aplican la moral sobre esa plantilla"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (19:15)](https://youtu.be/K082yiudh-g?t=1155)
+
+> "Cristo es la respuesta católica al arquetipo del héroe: la figura a imitar en Occidente"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (19:15)](https://youtu.be/K082yiudh-g?t=1155)
+
+> "Los valores de Occidente son el mito de Camelot y el mito de Cristo, versión occidental del Hércules antiguo"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (19:15)](https://youtu.be/K082yiudh-g?t=1155)
+
+La secuencia Hércules → Cristo → Arturo articula la línea pedagógica del héroe occidental: el monomito recibe en cada época su encarnación moral concreta. Esto matiza el uso del viaje del héroe como vara diagnóstica — la obra fallida no es la que se aparta de Campbell sino la que adopta la silueta sin asumir la imitatio del héroe correspondiente a su tradición. El sacrificio del Grial es para el canal la pieza específicamente católica que distingue al héroe cristiano del solar pagano: "la única forma de hacer eterno a un rey es que muera cumpliendo su misión".
+
 ## El viaje como diagnóstico de obras fallidas
 
 El canal usa el monomito menos como descripción que como herramienta crítica. Identificarse con un héroe de fantasía pura no produce trabajo psíquico real porque el mal contra el que combate es inexistente:

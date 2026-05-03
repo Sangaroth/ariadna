@@ -127,6 +127,17 @@ La tipología se presenta polémicamente como sustituto del mito de Lilit, al qu
 
 La frase "lo más cercano a una versión maligna de lo femenino son las cinco formas" implica que el canal lee [[lilit-mito]] como **mitología impropia** — construcción cultural reciente que se presenta como antigua — y propone esta tipología quintuple como su correspondiente **mitología propia**, articulada desde el corpus arquetípico junguiano más que desde la pseudo-tradición lilítica.
 
+## Articulación 3-3 en el contexto católico-artúrico
+
+En el análisis comparado de Excalibur y El Señor de los Anillos el canal desplaza la tipología 3-5 (Atenea/Venus/Hera + cinco corrupciones) hacia una articulación simétrica 3-3 propia del mito católico-medieval: triple forma luminosa frente a triple forma oscura, cada una correspondiendo arquetípicamente a su contraparte.
+
+> "Lo femenino tiene triple forma luminosa (doncella, consorte, reina) y triple forma oscura (Morgana niña, consorte, madre de la abominación)"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (1:38:20)](https://youtu.be/K082yiudh-g?t=5900)
+
+La terminología medieval **doncella / consorte / reina** corresponde estructuralmente a Atenea / Venus / Hera de la articulación greco-junguiana, pero el canal pierde aquí dos figuras del eje corrupto (lámia y bruja como categoría terminal) a cambio de simetría con el eje sano. La triple forma oscura artúrica concentra la degradación en la figura de Morgana atravesando las tres edades — paralela inversa al recorrido de la diosa luminosa — y culmina en "madre de la abominación" (Mordred), donde la corrupción venusiana y la mala maternidad se condensan en una sola encarnación.
+
+La formulación no contradice la tipología 3-5 sino que la operacionaliza para análisis de obra concreto: cuando el material narrativo es suficientemente maduro (Excalibur, ESdA), el eje corrupto se cristaliza en una sola figura recorriendo tres fases en lugar de cinco figuras paralelas.
+
 ## Refinamiento de tres a cinco
 
 La formulación de cinco corrupciones supera y refina una versión previa del canal de tres formas (ninfa / Wendy / bruja, mencionada en el libro Polaris). La ampliación incorpora dos figuras nuevas con peso propio: **lámia/súcubo** (que distingue dos formas de corrupción venusiana) y **Medea** (que cierra la tipología extendiendo la degradación al aspecto materno, antes ausente del eje corrupto).

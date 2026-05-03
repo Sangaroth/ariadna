@@ -108,6 +108,81 @@ La segunda mitad de la tesis aplica el modelo: cada cuadrante corresponde a una 
 → [Cuento de Navidad y el espíritu Luterano con teleñecos (29:49)](https://youtu.be/s0MkondMt1o?t=1789)
 
 
+## Refinamientos del modelo: obediencia, eje constrained/unconstrained, poblaciones por cuadrante
+
+Un directo posterior añade tres precisiones operativas al diagrama:
+
+### Obediencia política simétrica ante autoridades distintas
+
+La investigación reciente sobre obediencia política refrenda la tesis del diagrama de que la moral es respuesta afectiva con sustrato neurológico, no decisión racional autónoma:
+
+> "Investigaciones recientes sugieren que los liberales son tan obedientes como los conservadores, pero ante autoridades distintas"
+→ [Experimento 25 (1:10:20)](https://youtu.be/Bn-I6p-AyXc?t=4220)
+
+> "Esto refrenda el diagrama de Proxiveron: las orientaciones políticas son preeminencia de representaciones afectivas diferentes"
+→ [Experimento 25 (1:10:20)](https://youtu.be/Bn-I6p-AyXc?t=4220)
+
+La adherencia política depende de predisposiciones neuróticas y de qué fenómenos generan mayor adherencia afectiva en cada individuo — la diferencia izquierda/derecha no es de capacidad obediencial sino de hacia qué autoridad orienta el sustrato emocional.
+
+### Constrained / unconstrained como eje horizontal del diagrama
+
+Thomas Sowell distingue dos visiones de la naturaleza humana — constrained (imperfecta, ordenada por leyes y tradiciones) y unconstrained (potencial ilimitado, ingeniería social). El canal corrige la lectura habitual del eje:
+
+> "Proxy corrige: constrained/unconstrained es el eje este-oeste del diagrama Proxiveron, no el norte-sur como sugiere el artículo"
+→ [Experimento 25 (1:46:00)](https://youtu.be/Bn-I6p-AyXc?t=6360)
+
+La lectura constrained corresponde al fundamentalismo moral (derecha del diagrama: hay límites previos a la voluntad humana); la unconstrained al relativismo moral (izquierda: los fundamentos son construcciones revisables). El eje vertical jerarquía/anti-jerarquía queda intacto.
+
+### Poblaciones por cuadrante según rasgos de personalidad
+
+El canal observa concentraciones específicas de perfiles psicológicos en cuadrantes concretos:
+
+> "Hay sobrepoblación de perfiles esquizo abajo a la izquierda y autistas abajo a la derecha del diagrama"
+→ [Experimento 25 (1:18:14)](https://youtu.be/Bn-I6p-AyXc?t=4694)
+
+> "El ancap (tipo Elon Musk) correspondería al cuadrante liberal, mientras los esquizoides y esquizotípicos se sitúan abajo a la izquierda"
+→ [Experimento 25 (1:18:14)](https://youtu.be/Bn-I6p-AyXc?t=4694)
+
+La observación añade granularidad clínica al modelo: los rasgos esquizo (anti-jerarquía + relativismo) y autistas (anti-jerarquía + fundamentalismo lógico) tienen techo neuropsicológico que sesga su distribución por cuadrante. Las personas del espectro Asperger o esquizo tienen, además, problemas específicos de autoimagen que dificultan ubicarse en el diagrama mediante autoreporte.
+
+### Capitalistas simbólicos: patología y déficit como reescritura de la disidencia
+
+Del lado políticamente dominante, el canal identifica una mecánica complementaria:
+
+> "Los \"capitalistas simbólicos\" interpretan la desviación a sus preferencias como patología (racismo, xenofobia) o déficit (falta de educación, empatía)"
+→ [Experimento 25 (1:46:00)](https://youtu.be/Bn-I6p-AyXc?t=6360)
+
+Es el correlato operativo del razonamiento motivado en su forma social: la disidencia frente a las preferencias del cuadrante dominante no se trata como posición política legítima sino como déficit moral o cognitivo del disidente — racionalización post-hoc de la propia preeminencia afectiva, ahora generalizada a la regulación pública del discurso.
+
+### Justicia social como identificación proyectiva
+
+En el mismo eje analítico:
+
+> "La justicia social es una indignación por tercería: sentir como propia la injusticia que sufre otro mediante identificación proyectiva"
+→ [Experimento 25 (1:14:42)](https://youtu.be/Bn-I6p-AyXc?t=4482)
+
+> "El patriarcado funciona como enemigo perfecto para explicar un victimismo perfecto, también por identificación proyectiva"
+→ [Experimento 25 (1:14:42)](https://youtu.be/Bn-I6p-AyXc?t=4482)
+
+La misma mecánica neuropsicológica que el diagrama articula como base de la respuesta moral opera aquí en sentido proyectivo: la injusticia no se experimenta directamente sino vicariamente, lo que permite construir tanto victimismos por terceros como auto-percepciones de privilegio inmerecido.
+
+## Sátira bipartidista como caso aplicado: Don't Look Up y The Boys (T1-T3)
+
+El directo *Fantasía Cero* (13-sept-2024) usa dos productos audiovisuales recientes como caso aplicado del modelo: las obras genuinamente eficaces críticas de la cultura política contemporánea son aquellas que activan el reconocimiento desde **ambos cuadrantes verticales** del diagrama, no solo desde uno.
+
+> "Don't Look Up es una crítica al marketing político populista visible desde ambos lados del espectro"
+→ [Fantasía Cero (22:20)](https://youtu.be/1mJVJawefWc?t=1340)
+
+> "El Patriota en The Boys no representaba a Trump sino una crítica a la postmodernidad en general"
+→ [Fantasía Cero (22:20)](https://youtu.be/1mJVJawefWc?t=1340)
+
+> "Las tres primeras temporadas criticaban tanto a izquierda como a derecha; la cuarta abandona esa ambigüedad por clichés unilaterales"
+→ [Fantasía Cero (22:20)](https://youtu.be/1mJVJawefWc?t=1340)
+
+La lectura del canal pone en práctica el diagrama: la crítica eficaz a la cultura política contemporánea opera **a la misma altura del eje vertical** (anti-jerarquía o anti-fundamentalismo) cuando la diana es genuinamente la postmodernidad como sistema de ideas, no una facción coyuntural. Cuando la sátira degenera (el caso de The Boys T4) y se desliza al eje horizontal partidista (clichés unilaterales contra un cuadrante), pierde la fuerza crítica precisamente porque deja de operar sobre una posición compartible desde múltiples cuadrantes.
+
+El Patriota como crítica a la postmodernidad — no a Trump como persona-político — es la lectura compatible con el modelo: el personaje encarna el cuadrante arriba-izquierda (jerarquía absoluta + relativismo moral del marketing), no a un actor político concreto.
+
 ## Lagunas
 
 - **Estudios BOLD: el speaker referencia investigaciones con autodeclarados liberales y conservadores en EE.UU. pero no nombra los papers concretos**. Queda pendiente una verificación bibliográfica del sustrato empírico que el modelo invoca; el canal recomienda manuales (Panksepp, Redolar) en otros vídeos pero aquí no traza la cadena de citas.

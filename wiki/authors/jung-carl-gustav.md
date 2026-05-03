@@ -177,8 +177,10 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 - **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:09:06](https://youtu.be/cbfhVqYDbdE?t=4146)
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **BUT WHY?** — chunks: [12:48](https://youtu.be/4tAWgX7-yXk?t=768)
+- **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [30:28](https://youtu.be/JVEsIdv6emI?t=1828)
 

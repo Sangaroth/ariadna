@@ -1,0 +1,488 @@
+{
+  "video_id": "grs5EqRZBnQ",
+  "video_title": "Fenomenología Trans",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "amor cortés y monogamia civilizatoria",
+      "canonical_guess": "amor-cortes-y-monogamia-civilizatoria",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 21,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El amor romántico no es un estereotipo postmoderno sino un mito cuya máxima expresión antropológica es el amor cortés"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La monogamia no es una imposición sino un consejo civilizatorio que maximiza la complementación entre hombre y mujer"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El amor de entrega consiste en que el otro sea el sujeto de tu egoísmo, no el objeto: lo que quieres para ti se lo das al otro"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 framing-mark + monográfico: el primer bloque sostenido del directo (~21 min) articula el amor cortés como procedimiento canal-canónico de complementación polar, distinto del eje cosmogónico del hieros-gamos. Cuatro piezas internas: (a) amor cortés como procedimiento (hombre corteja, mujer observa y decide), (b) monogamia como consejo civilizatorio (no imposición — toda civilización monógama prospera porque todos los hombres reciben amor), (c) amor de entrega (el otro como sujeto del egoísmo, no objeto), (d) mito del paladín (masculino que se consume en pos de causa). El material no se subsume en hieros-gamos (que articula la unión polar cosmogónica) ni en anima-archetype (que articula la polaridad cognitiva interior); es la dimensión cultural-procedural de cómo humanos practican la complementación polar en la vida cotidiana",
+      "quote_evidence": "El amor cortés prescribe que el hombre elija una sola mujer, la corteje y se lo trabaje mientras ella observa sus actos y decide"
+    },
+    {
+      "surface_form": "fenomenología trans (taxonomía propia: tres núcleos + fenómenos no-trans)",
+      "canonical_guess": "fenomenologia-trans-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 80,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La transexualidad agrupa fenómenos médicos reales y sintagmas políticos posmodernos que no son la acepción psiquiátrica genuina"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Sentirse mujer es confuso para quien no ha experimentado disforia porque normalmente uno no siente lo que es, lo sabe"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis sustantiva del canal con taxonomía propia (3 núcleos + fenómenos no-trans). Se emite como thesis_candidate (subtype: author_thesis) en el campo correspondiente del schema. Esta entrada en entities[] documenta la decisión de promoción para auditabilidad — la construcción del stub procede vía thesis_candidates[]",
+      "quote_evidence": "Fenomenología trans es cómo se experimenta lo trans; no hace falta ser trans para comprenderlo, igual que no hace falta tener depresión para entender la depresión"
+    },
+    {
+      "surface_form": "disforia de género (Núcleo A)",
+      "canonical_guess": "disforia-de-genero",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La disforia de género es la sensación de que todo tu interior se comporta como el sexo opuesto pero tu cuerpo no corresponde"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el Núcleo A se desarrolla como pieza interna de la synthesis fenomenologia-trans-en-proxy. Promover página propia ahora fragmentaría la articulación coherente que el canal hace de los tres núcleos como sistema. Si el canal vuelve sobre disforia con análisis dedicado en otro vídeo (más allá de la lectura aquí), candidata a página propia",
+      "quote_evidence": "La disforia de género es la sensación de que todo tu interior se comporta como el sexo opuesto pero tu cuerpo no corresponde",
+      "review_priority": "medium",
+      "review_priority_reason": "concepto clínico nuclear del canal con potencial de reuso en otros análisis psicológicos (TCAs como dismorfia análoga, etc.). Si reaparece sustantivamente, candidata a página propia desacoplada de la synthesis",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "autoginefilia (Núcleo C)",
+      "canonical_guess": "autoginefilia",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La autoginefilia es una parafilia exclusiva de varones en la que la excitación sexual se activa al imaginarse con genitales femeninos"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el Núcleo C es pieza interna de la synthesis fenomenologia-trans. La distinción autoginefilia/disforia genuina es operativamente importante para el modelo del canal (la mayoría de hombres trans 'lesbianas' serían autoginefílicos, no disfóricos), pero se desarrolla coherentemente dentro de la synthesis. Promover página separada produciría fragmentación",
+      "quote_evidence": "La mayoría de hombres trans que dicen ser \"mujeres lesbianas\" suelen ser casos de autoginefilia, no de disforia genuina",
+      "review_priority": "medium",
+      "review_priority_reason": "tipología clínica controversiable (lectura blanchardiana extendida) — la página synthesis debe articular con cuidado las diferencias frente al canon académico contemporáneo",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "yo / self / autoimagen (tripartición operativa)",
+      "canonical_guess": "yo-self-autoimagen",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El yo se integra cuando lo exterior, lo interior y lo que refuerza el contexto coinciden; entonces se introyectan conceptos y crece el self"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Dentro del self está la autoimagen: quién soy yo en el mundo, qué valor le doy a eso y cómo me siento conmigo mismo; es una fantasía reconstruida, no la realidad"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tripartición operativa importante (yo > self > autoimagen) que sustenta toda la lectura de la disforia (autoimagen ≠ cuerpo). Se desarrolla brevemente (~4 min) como pieza preparatoria del análisis trans. Material se subsume en la synthesis fenomenologia-trans; podría además enriquecer realismo-cognitivo si reaparece como marco general en otros vídeos",
+      "quote_evidence": "El self es la parte del yo susceptible de meta-representación: la parte consciente que sabemos que existe",
+      "review_priority": "medium",
+      "review_priority_reason": "tripartición psicológica reutilizable; foundational para análisis de TCA, disforia, trastornos de personalidad. Candidata a página propia conectada con realismo-cognitivo si se desarrolla en otros vídeos",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "amor de entrega (otro como sujeto del egoísmo)",
+      "canonical_guess": "amor-de-entrega",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "articulación moral-psicológica importante (entrega = otro como sujeto del egoísmo, no objeto). Se desarrolla dentro del bloque amor cortés como pieza interna del marco. Subsumida en amor-cortes-y-monogamia-civilizatoria via promote_new",
+      "quote_evidence": "El amor de entrega consiste en que el otro sea el sujeto de tu egoísmo, no el objeto: lo que quieres para ti se lo das al otro",
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "mito del paladín (masculino que se consume en pos de causa)",
+      "canonical_guess": "mito-del-paladin",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "categoría arquetípica masculina articulada brevemente como complemento al amor de entrega. Conexión con adgrediere-masculino (pulsión arquetípica masculina de avanzar contra oposición) y viaje-heroe (sacrificio en pos de causa). Material subsumido en amor-cortes via promote_new; podría merecer página propia si el canal lo desarrolla en análisis de obra (Tolkien Aragorn, mitos artúricos, etc.)",
+      "quote_evidence": "El mito del paladín es masculino: se consume a sí mismo en pos de una causa que puede ser un reino, una iglesia o una mujer",
+      "review_priority": "medium",
+      "review_priority_reason": "arquetipo masculino canal-canónico con conexiones obvias a mito-catolico-en-proxy (Cristo como paladín último), mito-polar y adgrediere-masculino. Si reaparece con desarrollo, candidato a página propia",
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "transexualidad estricta (Núcleo B) y operación de cambio de sexo",
+      "canonical_guess": "transexualidad-estricta",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Núcleo B subordinado a la synthesis fenomenologia-trans. Pieza interna del modelo, no objeto enciclopédico autónomo. La observación clínica clave (alta incidencia de suicidio post-operación porque la disforia se refiere al ser, no al aspecto) se preserva en la synthesis",
+      "quote_evidence": "Hay alta incidencia de suicidio post-operación porque la disforia se refiere al ser, no al aspecto: muchos saben que su cuerpo es artificial y la disforia persiste",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "fenómenos no-trans que parecen trans (trastornos personalidad, autismo, homosexualidad mal integrada)",
+      "canonical_guess": "fenomenos-no-trans",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "diagnóstico diferencial articulado por el canal — pieza interna del modelo (qué cosas se confunden con transexualidad sin serlo). Subsumido en la synthesis fenomenologia-trans como sección crítica del diagnóstico clínico",
+      "quote_evidence": "Un 5% de personas con disforia de género tiene síntomas de trastorno de espectro autista",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "condicionamiento del deseo sexual (posibilidades y límites)",
+      "canonical_guess": "condicionamiento-deseo-sexual",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tesis breve sobre las terapias de reconversión y los límites del condicionamiento del deseo (se puede inhibir, no anular ni reconstruir). Se subsume en la synthesis fenomenologia-trans como sección final sobre tratamiento; conecta con realismo-cognitivo (la matriz noética se modifica pero no se reescribe). Material breve, no merece página propia",
+      "quote_evidence": "Se puede adquirir un fetiche por condicionamiento (vincular un objeto a lo sexual) pero modificar completamente el objeto de deseo natural es prácticamente imposible sin perder la cordura",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "diferencias cognitivas masculino/femenino (objeto vs contexto, energía vs reconstrucción)",
+      "canonical_guess": "diferencias-cognitivas-masc-fem",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 7,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el material sobre diferencias cognitivas (lo masculino piensa en objetos/objetivos, lo femenino en contextos; mujeres prefieren contexto para excitación, hombres prefieren objeto) ya está extensivamente documentado en anima-archetype (sección 'Mecánica operativa del cortejo: prueba y error masculina, identificación implícita femenina') y en golem-de-cobre. La presentación aquí es reformulación que se subsume en la synthesis fenomenologia-trans",
+      "quote_evidence": "Lo masculino piensa en objetos, objetivos y funciones de energía; lo femenino piensa en contextos y reconstruye pequeños todos",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "suicidio trans en la crisis vital de los 30-40",
+      "canonical_guess": "suicidio-trans-30-40",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "observación clínica embebida en la synthesis sobre cuándo se produce el pico de suicidio post-transición. Subordinado al análisis general; sin valor enciclopédico autónomo",
+      "quote_evidence": "La mayor incidencia de suicidio entre personas trans ocurre entre los 30 y los 40 porque coincide con las crisis vitales de esas décadas",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "cognición de fuera adentro y de dentro afuera",
+      "canonical_guess": "cognicion-fuera-dentro-dentro-fuera",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "articulación breve sobre la doble dirección cognitiva (fuera→dentro percepción somática, dentro→fuera reconstrucción comprensiva) ya capturada en realismo-cognitivo y golem-de-cobre como tesis nuclear de mente como red activa, no receptáculo pasivo. Sin material genuinamente nuevo aquí",
+      "quote_evidence": "La percepción es somática (receptores biológicos) y va de fuera adentro, pero la cognición también opera de dentro afuera: reconstruimos el mundo internamente para darle sentido",
+      "enriches_concept": "realismo-cognitivo"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Fenomenología trans en Proxy: tres núcleos clínicos (disforia, transexualidad estricta, autoginefilia) y diagnóstico diferencial",
+      "proposed_page_id": "fenomenologia-trans-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La transexualidad agrupa fenómenos médicos reales y sintagmas políticos posmodernos que no son la acepción psiquiátrica genuina"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Sentirse mujer es confuso para quien no ha experimentado disforia porque normalmente uno no siente lo que es, lo sabe"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La fenomenología es la disciplina filosófica que estudia aquello que se experimenta: el sujeto percibe el fenómeno y este le concede una experiencia"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La disforia de género es la sensación de que todo tu interior se comporta como el sexo opuesto pero tu cuerpo no corresponde"
+        }
+      ],
+      "framework_internal_structure": [
+        "Definición operativa de fenomenología aplicada al fenómeno trans (no hace falta haberlo vivido para comprenderlo)",
+        "Distinción entre acepciones médico-psiquiátricas reales y sintagmas políticos postmodernos",
+        "Tripartición operativa yo / self / autoimagen como sustrato cognitivo del análisis",
+        "Doble direccionalidad cognitiva (somática fuera→dentro y reconstructiva dentro→fuera)",
+        "Cadena causal sexo genético → neurológico → personalidad/yo",
+        "Diferencias cognitivas masculino/femenino (objeto/contexto, energía/reconstrucción)",
+        "Identidad como asimilación + comparación (procedimientos y preferencias)",
+        "Deseo sexual como función cognitiva diferenciada (separable de identidad sexual)",
+        "Núcleo A: disforia de género como constructo disfórico (autoimagen ≠ cuerpo, análoga a dismorfia TCA)",
+        "Núcleo B: transexualidad estricta y operación de cambio (alta incidencia de suicidio post-op porque la disforia se refiere al ser, no al aspecto)",
+        "Núcleo C: autoginefilia como parafilia exclusiva de varones (sin disforia subyacente)",
+        "Diagnóstico diferencial: fenómenos no-trans que parecen trans (trastornos personalidad, autismo con 5% comorbilidad, homosexualidad mal integrada, travestismo como parafilia separada)",
+        "Pico de suicidio en crisis 30-40 (coincidencia con crisis vital general)",
+        "Trauma como neurosis del yo más común; experiencia como descubrimiento progresivo (no feedback que modifica estructura genético-hormonal)",
+        "Condicionamiento del deseo sexual: límites operativos (se puede adquirir fetiche, inhibir deseo, pero no anular ni reconstruir el interior)"
+      ],
+      "minutes_sustained": 80,
+      "domain_guess": "social.psychology.cognitive",
+      "related_existing_pages": [
+        "realismo-cognitivo",
+        "anima-archetype",
+        "golem-de-cobre",
+        "sindrome-wendy",
+        "individuation",
+        "shadow-archetype"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Cumple criterios scope.md §2.4.1 con 4 señales (internal_structure, declared_thesis, pedagogic_register, applied_framework), minutes_sustained ≥30 (~80 min de los 103 totales sobre la fenomenología trans propiamente dicha), framework_internal_structure con 15 piezas ≥4. El gate técnicamente triggers auto-promote, PERO se mantiene requires_human_validation:true por dos motivos sustantivos: (a) topic sensibility — la articulación cruza territorio clínico/político/filosófico donde el framing tiene consecuencias reputacionales y editoriales para el wiki, (b) algunas piezas son contestables empíricamente (e.g., la lectura blanchardiana extendida sobre autoginefilia es debatida en la psiquiatría contemporánea). El humano debe auditar especialmente la presentación de la tipología de núcleos, las afirmaciones empíricas sobre comorbilidades y suicidio, y el tono frente al canon académico actual. La synthesis page resultante sería hub denso con relaciones a 6+ páginas existentes y absorbe los 3 núcleos + el diagnóstico diferencial + el marco preparatorio yo/self/autoimagen"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Núcleo A: disforia de género",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "pieza interna de la synthesis fenomenologia-trans-en-proxy. Promover página separada fragmentaría la articulación coherente de los tres núcleos como sistema",
+      "quote_evidence": "La disforia de género es la sensación de que todo tu interior se comporta como el sexo opuesto pero tu cuerpo no corresponde",
+      "review_priority": "medium",
+      "review_priority_reason": "concepto clínico nuclear con potencial de reuso (TCAs como dismorfia análoga). Si reaparece sustantivamente en otros vídeos, candidata a página propia desacoplada de la synthesis",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "Núcleo B: transexualidad estricta y operación de cambio",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "subordinado a la synthesis. La observación clínica clave (suicidio post-operación porque la disforia se refiere al ser) se preserva dentro de la synthesis",
+      "quote_evidence": "Hay alta incidencia de suicidio post-operación porque la disforia se refiere al ser, no al aspecto",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "Núcleo C: autoginefilia",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "pieza interna de la synthesis. La distinción autoginefilia/disforia es operativamente importante para el modelo del canal pero se desarrolla coherentemente dentro de la synthesis",
+      "quote_evidence": "La autoginefilia es una parafilia exclusiva de varones en la que la excitación sexual se activa al imaginarse con genitales femeninos",
+      "review_priority": "medium",
+      "review_priority_reason": "tipología clínica controversiable (lectura blanchardiana extendida); el humano debe auditar el framing frente al canon académico contemporáneo",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "yo / self / autoimagen (tripartición operativa)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "tripartición preparatoria del análisis trans. Subordinada a la synthesis. Podría ser candidata a página propia conectada con realismo-cognitivo si se desarrolla en otros vídeos como marco general",
+      "quote_evidence": "El self es la parte del yo susceptible de meta-representación: la parte consciente que sabemos que existe",
+      "review_priority": "medium",
+      "review_priority_reason": "tripartición psicológica reutilizable; foundational para análisis de TCA, disforia, trastornos de personalidad. Candidata a página propia si reaparece",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "amor de entrega (otro como sujeto del egoísmo)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "articulación moral-psicológica subsumida en amor-cortes-y-monogamia-civilizatoria como pieza interna del marco del amor cortés",
+      "quote_evidence": "El amor de entrega consiste en que el otro sea el sujeto de tu egoísmo, no el objeto: lo que quieres para ti se lo das al otro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "mito del paladín",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "categoría arquetípica masculina articulada como complemento al amor de entrega. Subsumida en amor-cortes via promote_new. Conexiones con adgrediere-masculino, mito-catolico-en-proxy y viaje-heroe",
+      "quote_evidence": "El mito del paladín es masculino: se consume a sí mismo en pos de una causa que puede ser un reino, una iglesia o una mujer",
+      "review_priority": "medium",
+      "review_priority_reason": "arquetipo masculino canal-canónico con conexiones obvias a mito-catolico, mito-polar y adgrediere. Si reaparece con desarrollo dedicado, candidato a página propia",
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "fenómenos no-trans que parecen trans (diagnóstico diferencial)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "pieza interna de la synthesis (sección crítica del diagnóstico clínico): trastornos de personalidad, comorbilidad autismo (5%), bisexualidad y homosexualidad mal integradas, travestismo como parafilia separada",
+      "quote_evidence": "Un 5% de personas con disforia de género tiene síntomas de trastorno de espectro autista",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "condicionamiento del deseo sexual (límites)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "tesis sobre las terapias de reconversión y los límites del condicionamiento (se puede inhibir, no anular ni reconstruir). Subsumida en la synthesis como sección final; conecta con realismo-cognitivo (la matriz noética se modifica pero no se reescribe)",
+      "quote_evidence": "Se puede inhibir cualquier deseo mediante control mental pero no se puede anular ni reconstruir el interior; a poco que se relaje el control, vuelve",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "diferencias cognitivas masculino/femenino",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "el material sobre cognición masculino (objetos/objetivos/energía) vs femenino (contextos/reconstrucción) ya está extensivamente documentado en anima-archetype (sección 'Mecánica operativa del cortejo') y en golem-de-cobre. Reformulación aquí, no aporte nuevo",
+      "quote_evidence": "Lo masculino piensa en objetos, objetivos y funciones de energía; lo femenino piensa en contextos y reconstruye pequeños todos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "cognición fuera→dentro y dentro→fuera",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "doble direccionalidad cognitiva ya capturada en realismo-cognitivo y golem-de-cobre como tesis de mente como red activa (no receptáculo pasivo). Sin material nuevo",
+      "quote_evidence": "La percepción es somática (receptores biológicos) y va de fuera adentro, pero la cognición también opera de dentro afuera",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "suicidio trans en crisis 30-40",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "observación clínica embebida en la synthesis sobre cuándo se produce el pico de suicidio post-transición",
+      "quote_evidence": "La mayor incidencia de suicidio entre personas trans ocurre entre los 30 y los 40 porque coincide con las crisis vitales de esas décadas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "trauma como neurosis del yo más común",
+      "reason_code": "passing_mention",
+      "reason_detail": "definición operativa breve del trauma (sufrimiento no resuelto por daño no superado). Ya tratado más extensivamente en golem-de-cobre (sección 'Trauma como hiperactivación de redes afectivas') y anima-archetype (trauma como confusor del deseo femenino)",
+      "quote_evidence": "El trauma es la neurosis del yo más común: un sufrimiento no resuelto por un daño que no se ha conseguido superar",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "monogamia vs poligamia como ventaja civilizatoria",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "tesis sobre que las civilizaciones monógamas prosperan porque todos los hombres reciben amor de una mujer (vs poligamia donde la mayoría queda desaprovechada). Subsumida en amor-cortes-y-monogamia-civilizatoria como pieza interna del marco civilizatorio",
+      "quote_evidence": "Las civilizaciones monógamas prosperan porque todos los hombres reciben amor de una mujer, frente a las polígamas donde la mayoría de varones quedan desaprovechados",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "complementación masc/fem como acceso a la mitad negada del mundo",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "articulación de la complementación polar como acceso epistemológico a una región del mundo inalcanzable individualmente. Subsumida en amor-cortes-y-monogamia-civilizatoria; conecta con hieros-gamos como dimensión cosmogónica análoga",
+      "quote_evidence": "Hay partes del mundo que un sexo jamás percibirá como el otro: formas de vivir, concebir y construir el mundo que son exclusivas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "bisexualidad como dos medias mitades contradictorias",
+      "reason_code": "passing_mention",
+      "reason_detail": "observación breve sobre la particularidad cognitiva de la bisexualidad (dos medias mitades del todo con partes masc/fem contradictorias). Subsumida en amor-cortes-y-monogamia-civilizatoria o en fenomenologia-trans-en-proxy si conecta con la sección sobre fenómenos no-trans (homosexualidad mal integrada)",
+      "quote_evidence": "La bisexualidad tiene particularidades propias porque genera dos medias mitades del todo con partes masculinas y femeninas contradictorias entre sí",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 13,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[amor cortés y monogamia civilizatoria] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[fenomenología trans (taxonomía propia: tres núcleos + fenómenos no-trans)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

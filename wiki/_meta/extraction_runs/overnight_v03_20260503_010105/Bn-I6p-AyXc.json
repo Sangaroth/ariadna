@@ -1,0 +1,538 @@
+{
+  "video_id": "Bn-I6p-AyXc",
+  "video_title": "Experimento 25",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Experimento del Universo 25",
+      "canonical_guess": "experimento-universo-25",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo que los enloqueció fue la reelaboración continua e involuntaria del dominio ante cada encuentro con otro ratón"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Calhoun lo llamó \"primera muerte\": una muerte social que precede a la muerte física"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 análisis dedicado: el experimento de John B. Calhoun (Universe 25, 1968-1973) es el objeto central del directo de 132 min, leído desde la lectura propia del canal sobre colapso conductual por reelaboración continua del dominio. Como objeto científico-cultural recurrente del corpus (referenciado también desde análisis de hikikomori, redes sociales, demografía) merece página entity_work propia",
+      "quote_evidence": "El experimento buscaba estudiar los efectos de la sobreabundancia en la conducta de mamíferos, no específicamente la sobrepoblación"
+    },
+    {
+      "surface_form": "el dominio (constructo psicológico) y la franja de incertidumbre",
+      "canonical_guess": "dominio-y-franja-de-incertidumbre",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El dominio es el conjunto de posibilidades físicas que el yo tiene en un medio donde sabe con certeza lo que puede hacer"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La felicidad depende de que exista una franja de incertidumbre equilibrada, ni demasiado grande (ansiedad) ni demasiado pequeña (depresión)"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Para no caer en depresión se necesita certeza de capacidad, experiencia acumulada y una franja de incertidumbre que funcione como motivación"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 channel-canonical + framing-mark + monográfico: el speaker articula como marco psicológico propio el par dominio/franja-de-incertidumbre con sustrato neurobiológico (redes serotoninérgicas), aplicado transversalmente a felicidad personal, adicción a tragaperras (caso de incertidumbre simulada), depresión clínica, jerarquías de mamíferos y al colapso del Universo 25. Ningún page existente lo articula como tal (diagrama-de-proxy aborda otro eje, realismo-cognitivo es epistemología, consumismo-critica trata vacío existencial pero no la mecánica dominio/incertidumbre)",
+      "quote_evidence": "El dominio es el conjunto de posibilidades físicas que el yo tiene en un medio donde sabe con certeza lo que puede hacer"
+    },
+    {
+      "surface_form": "hikikomori",
+      "canonical_guess": "hikikomori-fenomeno",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El hikikomori es una hiposocialización voluntaria patológica: rechazo a toda interacción social, reclusión y vida exclusivamente a través de internet"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La hiperpromesa cultural de socialización convierte los objetivos sociales en irreales, generando agotamiento y retirada"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 channel-canonical: el canal articula el hikikomori como categoría clínico-cultural específica (hiposocialización voluntaria patológica) y como caso paradigmático contemporáneo del 'drenaje conductual' análogo al colapso de los ratones del Universo 25. El análisis incluye correlato cultural (Ghost in the Shell, síndrome de ostracismo cibercerebral) y mecanismo causal (hiperpromesa de socialización). Categoría sustantiva del corpus que no aparece en ninguna página existente",
+      "quote_evidence": "El hikikomori es una hiposocialización voluntaria patológica: rechazo a toda interacción social, reclusión y vida exclusivamente a través de internet"
+    },
+    {
+      "surface_form": "John B. Calhoun",
+      "canonical_guess": "calhoun-john-b",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Calhoun aparece como diseñador del experimento que el canal interpreta, no como autor cuya obra el canal trabaje. El speaker subraya que Calhoun describió las conductas externas pero no acertó a explicarlas — lo que el canal valora es el experimento, no el marco teórico de Calhoun. Material se subsume en experimento-universo-25",
+      "quote_evidence": "Calhoun lo llamó \"primera muerte\": una muerte social que precede a la muerte física",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Thomas Sowell (visión constrained / unconstrained)",
+      "canonical_guess": "sowell-thomas",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Thomas Sowell distingue la visión constrained (naturaleza humana imperfecta, orden por leyes y tradiciones) y unconstrained (potencial ilimitado, ingeniería social)"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Sowell aparece como referencia teórica para corregir un eje del diagrama de Proxy (constrained/unconstrained = eje este-oeste, no norte-sur). El material se subsume en el pending_update a diagrama-de-proxy. No hay tratamiento sustantivo del pensamiento de Sowell que merezca página propia",
+      "quote_evidence": "Proxy corrige: constrained/unconstrained es el eje este-oeste del diagrama Proxiveron, no el norte-sur como sugiere el artículo",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Dani Elcon",
+      "canonical_guess": "elcon-dani",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 5,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Dani Elcon aparece como interlocutor que plantea la pregunta ('qué es una relación') desde el materialismo filosófico, lo que da pie a Proxy a desplegar su axiomática de relaciones desde el realismo cognitivo. La sustancia es la respuesta de Proxy, no el pensamiento de Elcon. Material se subsume en realismo-cognitivo via pending_update",
+      "quote_evidence": "Dani Elcon intenta definir qué es una relación desde el materialismo filosófico; Proxy busca lo mismo desde el realismo cognitivo",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Ghost in the Shell / síndrome de ostracismo cibercerebral",
+      "canonical_guess": "ghost-in-the-shell",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Ghost in the Shell aparece como referencia ilustrativa del 'autismo artificial' análogo al hikikomori, sin análisis dedicado de la obra. Solo un chunk. Material se subsume en hikikomori-fenomeno",
+      "quote_evidence": "Ghost in the Shell describe el \"síndrome de ostracismo cibercerebral\": un autismo artificial donde la mente se cierra a toda interacción",
+      "enriches_concept": "hikikomori-fenomeno"
+    },
+    {
+      "surface_form": "FOMO (atención parcial continuada)",
+      "canonical_guess": "fomo-atencion-parcial",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El FOMO es la sensación inconsciente permanente de estar perdiéndose algo que demanda atención constante"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el FOMO/atención parcial continuada se articula como mecanismo de saturación cognitiva concomitante con el hikikomori y el colapso del Universo 25 — no como objeto enciclopédico autónomo. Mejor enriquece consumismo-critica (mercantilización afectiva digital) y hikikomori-fenomeno (mecanismo causante de la retirada)",
+      "quote_evidence": "Tener un mundo de interacción social permanentemente al alcance del móvil consume enormes recursos mentales y afectivos",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "los \"beautiful ones\" (cultura Instagram)",
+      "canonical_guess": "beautiful-ones-instagram",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "los 'beautiful ones' del Universo 25 leídos como análogos de la cultura Instagram son una observación dentro del análisis del experimento, no concepto autónomo. Material se subsume en experimento-universo-25 como caso ilustrativo",
+      "quote_evidence": "Los \"beautiful ones\" se limitaban a acicalarse, comer y dormir: una conducta análoga a la cultura de Instagram",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "cuello de botella cognitivo (10 bits por segundo)",
+      "canonical_guess": "cuello-botella-cognitivo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 5,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "investigación referenciada (medusa, 10 bits/seg) sin que el canal articule marco propio sobre el hallazgo — opera como soporte empírico del argumento general sobre cognición consciente lenta. Material se subsume en realismo-cognitivo o golem-de-cobre como cita de soporte; no merece página propia",
+      "quote_evidence": "A pesar de procesar ingente información sensorial, la cognición voluntaria consciente es sorprendentemente lenta: unos 10 bits por segundo",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "capitalistas simbólicos",
+      "canonical_guess": "capitalistas-simbolicos",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "los 'capitalistas simbólicos' aparecen como categoría auxiliar para ilustrar cómo cierta clase profesional patologiza la desviación de sus preferencias políticas. Mención puntual sin desarrollo conceptual independiente. Subsumido en diagrama-de-proxy via pending_update",
+      "quote_evidence": "Los \"capitalistas simbólicos\" interpretan la desviación a sus preferencias como patología (racismo, xenofobia) o déficit (falta de educación, empatía)",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "justicia social como identificación proyectiva",
+      "canonical_guess": "justicia-social-identificacion-proyectiva",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La justicia social es una indignación por tercería: sentir como propia la injusticia que sufre otro mediante identificación proyectiva"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "la lectura de la justicia social como mecanismo de identificación proyectiva es articulación del canal pero aquí aparece como apoyo a la discusión del diagrama de Proxy (correlato político-afectivo). Material se subsume en diagrama-de-proxy via pending_update; promover página propia exigiría más desarrollo del que ofrece este chunk",
+      "quote_evidence": "La justicia social es una indignación por tercería: sentir como propia la injusticia que sufre otro mediante identificación proyectiva",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "axiomática de relaciones (isológicas vs sinalógicas)",
+      "canonical_guess": "axiomatica-relaciones",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las relaciones isológicas (esenciales, lógicas) corresponderían al ámbito formal abstracto, las sinalógicas (conexiones, interacciones) al ámbito afectivo o imaginario"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "la axiomática de relaciones es continuación natural de la 'axiomática de clases' ya documentada en realismo-cognitivo (sección homónima) — extiende el método del realismo cognitivo de clases a relaciones. Mejor enriquecer realismo-cognitivo con sección nueva que crear página independiente que duplicaría el marco",
+      "quote_evidence": "Causalidad, contigüidad y continuidad son aspectos procedimentales (memoria procedimental), mientras semejanza y clase son relaciones imaginarias formalizables",
+      "enriches_concept": "realismo-cognitivo"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## Refinamientos del modelo: obediencia, eje constrained/unconstrained, poblaciones por cuadrante\n\nUn directo posterior añade tres precisiones operativas al diagrama:\n\n### Obediencia política simétrica ante autoridades distintas\n\nLa investigación reciente sobre obediencia política refrenda la tesis del diagrama de que la moral es respuesta afectiva con sustrato neurológico, no decisión racional autónoma:\n\n> \"Investigaciones recientes sugieren que los liberales son tan obedientes como los conservadores, pero ante autoridades distintas\"\n→ [Experimento 25 (1:10:20)](https://youtu.be/Bn-I6p-AyXc?t=4220)\n\n> \"Esto refrenda el diagrama de Proxiveron: las orientaciones políticas son preeminencia de representaciones afectivas diferentes\"\n→ [Experimento 25 (1:10:20)](https://youtu.be/Bn-I6p-AyXc?t=4220)\n\nLa adherencia política depende de predisposiciones neuróticas y de qué fenómenos generan mayor adherencia afectiva en cada individuo — la diferencia izquierda/derecha no es de capacidad obediencial sino de hacia qué autoridad orienta el sustrato emocional.\n\n### Constrained / unconstrained como eje horizontal del diagrama\n\nThomas Sowell distingue dos visiones de la naturaleza humana — constrained (imperfecta, ordenada por leyes y tradiciones) y unconstrained (potencial ilimitado, ingeniería social). El canal corrige la lectura habitual del eje:\n\n> \"Proxy corrige: constrained/unconstrained es el eje este-oeste del diagrama Proxiveron, no el norte-sur como sugiere el artículo\"\n→ [Experimento 25 (1:46:00)](https://youtu.be/Bn-I6p-AyXc?t=6360)\n\nLa lectura constrained corresponde al fundamentalismo moral (derecha del diagrama: hay límites previos a la voluntad humana); la unconstrained al relativismo moral (izquierda: los fundamentos son construcciones revisables). El eje vertical jerarquía/anti-jerarquía queda intacto.\n\n### Poblaciones por cuadrante según rasgos de personalidad\n\nEl canal observa concentraciones específicas de perfiles psicológicos en cuadrantes concretos:\n\n> \"Hay sobrepoblación de perfiles esquizo abajo a la izquierda y autistas abajo a la derecha del diagrama\"\n→ [Experimento 25 (1:18:14)](https://youtu.be/Bn-I6p-AyXc?t=4694)\n\n> \"El ancap (tipo Elon Musk) correspondería al cuadrante liberal, mientras los esquizoides y esquizotípicos se sitúan abajo a la izquierda\"\n→ [Experimento 25 (1:18:14)](https://youtu.be/Bn-I6p-AyXc?t=4694)\n\nLa observación añade granularidad clínica al modelo: los rasgos esquizo (anti-jerarquía + relativismo) y autistas (anti-jerarquía + fundamentalismo lógico) tienen techo neuropsicológico que sesga su distribución por cuadrante. Las personas del espectro Asperger o esquizo tienen, además, problemas específicos de autoimagen que dificultan ubicarse en el diagrama mediante autoreporte.\n\n### Capitalistas simbólicos: patología y déficit como reescritura de la disidencia\n\nDel lado políticamente dominante, el canal identifica una mecánica complementaria:\n\n> \"Los \\\"capitalistas simbólicos\\\" interpretan la desviación a sus preferencias como patología (racismo, xenofobia) o déficit (falta de educación, empatía)\"\n→ [Experimento 25 (1:46:00)](https://youtu.be/Bn-I6p-AyXc?t=6360)\n\nEs el correlato operativo del razonamiento motivado en su forma social: la disidencia frente a las preferencias del cuadrante dominante no se trata como posición política legítima sino como déficit moral o cognitivo del disidente — racionalización post-hoc de la propia preeminencia afectiva, ahora generalizada a la regulación pública del discurso.\n\n### Justicia social como identificación proyectiva\n\nEn el mismo eje analítico:\n\n> \"La justicia social es una indignación por tercería: sentir como propia la injusticia que sufre otro mediante identificación proyectiva\"\n→ [Experimento 25 (1:14:42)](https://youtu.be/Bn-I6p-AyXc?t=4482)\n\n> \"El patriarcado funciona como enemigo perfecto para explicar un victimismo perfecto, también por identificación proyectiva\"\n→ [Experimento 25 (1:14:42)](https://youtu.be/Bn-I6p-AyXc?t=4482)\n\nLa misma mecánica neuropsicológica que el diagrama articula como base de la respuesta moral opera aquí en sentido proyectivo: la injusticia no se experimenta directamente sino vicariamente, lo que permite construir tanto victimismos por terceros como auto-percepciones de privilegio inmerecido.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "Bn-I6p-AyXc",
+          "timestamp_seconds": 4220,
+          "cite_markdown": "[Experimento 25 (1:10:20)](https://youtu.be/Bn-I6p-AyXc?t=4220)"
+        },
+        {
+          "video_id": "Bn-I6p-AyXc",
+          "timestamp_seconds": 6360,
+          "cite_markdown": "[Experimento 25 (1:46:00)](https://youtu.be/Bn-I6p-AyXc?t=6360)"
+        },
+        {
+          "video_id": "Bn-I6p-AyXc",
+          "timestamp_seconds": 4694,
+          "cite_markdown": "[Experimento 25 (1:18:14)](https://youtu.be/Bn-I6p-AyXc?t=4694)"
+        },
+        {
+          "video_id": "Bn-I6p-AyXc",
+          "timestamp_seconds": 4482,
+          "cite_markdown": "[Experimento 25 (1:14:42)](https://youtu.be/Bn-I6p-AyXc?t=4482)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo en cuatro vertientes que la página actual no contiene: (a) la simetría obediencial liberales/conservadores como confirmación predictiva del modelo, (b) la corrección sobre el eje constrained/unconstrained de Sowell (eje este-oeste, no norte-sur), (c) la distribución poblacional por rasgo psicológico clínico (esquizo abajo-izq, autista abajo-der), y (d) la mecánica de patologización capitalista-simbólica como caso del razonamiento motivado. Cubre parcialmente la laguna 'Plasticidad vs determinismo' al añadir granularidad clínica",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Confirmación empírica: el aprendizaje léxico en bebés y la primacía de la función sintáctica",
+      "section_target": "",
+      "content_proposed": "## Axiomática de relaciones: extensión del método a las relaciones noéticas\n\nEn diálogo con Dani Elcon, que aborda la misma pregunta desde el [[bueno-gustavo|materialismo filosófico]], el canal extiende su axiomática de clases a una **axiomática de relaciones**. La pieza completa el método del realismo cognitivo: si las clases son los átomos representacionales, las relaciones son las operaciones que los enlazan — y deben tipificarse según naturaleza imaginaria, formal o procedimental, paralela a los tres Q.\n\n> \"Dani Elcon intenta definir qué es una relación desde el materialismo filosófico; Proxy busca lo mismo desde el realismo cognitivo\"\n→ [Experimento 25 (1:26:27)](https://youtu.be/Bn-I6p-AyXc?t=5187)\n\n### Isológicas / sinalógicas como bipartición primaria\n\nLa primera distinción del canal recoge la terminología buenista (isológicas / sinalógicas) y la reasigna a los registros de la matriz noética:\n\n> \"Las relaciones isológicas (esenciales, lógicas) corresponderían al ámbito formal abstracto, las sinalógicas (conexiones, interacciones) al ámbito afectivo o imaginario\"\n→ [Experimento 25 (1:26:27)](https://youtu.be/Bn-I6p-AyXc?t=5187)\n\nLas isológicas son relaciones que la mente reconoce como necesariamente verdaderas dada su gramática (identidad, equivalencia, pertenencia a clase); las sinalógicas son relaciones contingentes que se constatan por interacción (dos cosas se atraen, se rozan, se siguen). La distinción no es ontológica sino del registro representacional en que se opera.\n\n### Tipología por componente noética\n\nDentro de las sinalógicas el canal subdivide según qué componente Q soporta la relación:\n\n> \"Causalidad, contigüidad y continuidad son aspectos procedimentales (memoria procedimental), mientras semejanza y clase son relaciones imaginarias formalizables\"\n→ [Experimento 25 (1:26:27)](https://youtu.be/Bn-I6p-AyXc?t=5187)\n\nLa tabla operativa que se desprende:\n\n| Tipo | Componente Q | Ejemplos |\n|---|---|---|\n| Isológica formal | gramatical | identidad, pertenencia a clase, equivalencia |\n| Sinalógica procedimental | afectivo-procedimental | causalidad, contigüidad, continuidad temporal |\n| Sinalógica imaginaria | imagen | semejanza, vecindad espacial, clase visual |\n\nLa pieza es operativamente importante: muestra que el realismo cognitivo no necesita una ontología buenista para distinguir tipos de relaciones — basta articular qué componente Q soporta cada relación, y la tipología emerge del propio método sin postular géneros de materialidad. Es la respuesta directa del marco al desafío que el materialismo filosófico le plantea: ¿puedes hablar de relaciones reales sin ego trascendental? Sí, vía la tripartición Q ya axiomatizada en clases.\n\n",
+      "wikilinks_introduced": [
+        "bueno-gustavo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "Bn-I6p-AyXc",
+          "timestamp_seconds": 5187,
+          "cite_markdown": "[Experimento 25 (1:26:27)](https://youtu.be/Bn-I6p-AyXc?t=5187)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página articula la 'axiomática de clases' como método del realismo cognitivo, pero NO contiene la extensión a 'axiomática de relaciones' ni la tipología isológicas/sinalógicas asignada a los registros Q. Es continuación natural del marco — completa la pieza que en la sección 'Axiomática de clases' quedaba implícita (clases como átomos pero ¿qué son las relaciones entre clases?)",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Postura específica del canal: NO es anti-capitalismo marxista",
+      "section_target": "",
+      "content_proposed": "## Atención parcial continuada y FOMO: el drenaje cognitivo de la sobreoferta social digital\n\nEn la lectura del experimento del Universo 25 como análogo del colapso conductual contemporáneo, el canal añade una mecánica específica de la sociedad digital que opera por debajo del consumismo afectivo de las apps de citas: la **atención parcial continuada** como estrés crónico de la mente que tiene un mundo de interacción social siempre al alcance.\n\n> \"Tener un mundo de interacción social permanentemente al alcance del móvil consume enormes recursos mentales y afectivos\"\n→ [Experimento 25 (51:54)](https://youtu.be/Bn-I6p-AyXc?t=3114)\n\n> \"El FOMO es la sensación inconsciente permanente de estar perdiéndose algo que demanda atención constante\"\n→ [Experimento 25 (51:54)](https://youtu.be/Bn-I6p-AyXc?t=3114)\n\n> \"La sobresaturación de interacciones sociales provoca conductas anómalas aunque no vayamos camino del colapso total\"\n→ [Experimento 25 (51:54)](https://youtu.be/Bn-I6p-AyXc?t=3114)\n\nEl FOMO no es ansiedad consciente sino un estrés de fondo permanente: la inferencia inconsciente de que algo importante está ocurriendo fuera del campo de atención actual. El cerebro no calibra ese estrés porque no tiene precedente filogenético — es un acoplamiento entre una arquitectura cognitiva calibrada para grupos pequeños y una infraestructura técnica que pone decenas de miles de interacciones potenciales al alcance de un gesto.\n\n### Hiperpromesa de socialización\n\nEl mecanismo cultural que el canal identifica detrás del agotamiento social contemporáneo:\n\n> \"La hiperpromesa cultural de socialización convierte los objetivos sociales en irreales, generando agotamiento y retirada\"\n→ [Experimento 25 (47:52)](https://youtu.be/Bn-I6p-AyXc?t=2872)\n\nLa cultura del bienestar promete una vida social plena, abundante y sin fricción como horizonte normalizado. La realidad — vínculos costosos, fracasos frecuentes, soledad estructural — entra en disonancia masiva con esa promesa, y la respuesta más adaptativa termina siendo la retirada (caso límite: hikikomori). La hiperpromesa funciona aquí como dispositivo consumista clásico: vende un horizonte fabricado, induce ansiedad por no alcanzarlo, y deja al sujeto exhausto y culpable cuando comprueba que el horizonte era irreal.\n\nLa pieza enlaza este capítulo de la crítica al consumismo con el análisis del [[experimento-universo-25|Universo 25]]: lo que en los ratones operó como reelaboración continua e involuntaria del dominio ante cada encuentro, en los humanos opera como atención parcial continuada ante el flujo permanente de interacciones digitales. La diferencia es que los humanos pueden 'meterse dentro de sí mismos' y elegir ostracismo temporal — el hikikomori es el caso clínico de ese mecanismo llevado al extremo.\n\n",
+      "wikilinks_introduced": [
+        "experimento-universo-25"
+      ],
+      "citations_added": [
+        {
+          "video_id": "Bn-I6p-AyXc",
+          "timestamp_seconds": 3114,
+          "cite_markdown": "[Experimento 25 (51:54)](https://youtu.be/Bn-I6p-AyXc?t=3114)"
+        },
+        {
+          "video_id": "Bn-I6p-AyXc",
+          "timestamp_seconds": 2872,
+          "cite_markdown": "[Experimento 25 (47:52)](https://youtu.be/Bn-I6p-AyXc?t=2872)"
+        }
+      ],
+      "rationale": "Material nuevo: la página existente cubre la mercantilización afectiva de las apps de citas con extenso material sobre asimetrías de oferta/demanda y mecánica del love bombing, pero NO contiene la mecánica cognitiva de saturación atencional (atención parcial continuada), ni el FOMO como estrés crónico de fondo, ni la 'hiperpromesa de socialización' como dispositivo cultural específico. Cubre parcialmente la laguna 'Posibles soluciones colectivas' al articular el mecanismo causal subyacente",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Colapso conductual por reelaboración continua del dominio: lectura propia del Universo 25 y sus análogos contemporáneos",
+      "proposed_page_id": "colapso-conductual-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo que los enloqueció fue la reelaboración continua e involuntaria del dominio ante cada encuentro con otro ratón"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Para no caer en depresión se necesita certeza de capacidad, experiencia acumulada y una franja de incertidumbre que funcione como motivación"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El dominio es el conjunto de posibilidades físicas que el yo tiene en un medio donde sabe con certeza lo que puede hacer"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los humanos pueden \"meternos dentro de nosotros mismos\" y elegir ostracismo temporal, pero los ratones no tienen ese dominio mental"
+        }
+      ],
+      "framework_internal_structure": [
+        "Dominio como constructo psicológico (redes serotoninérgicas, certeza de capacidad sobre el medio)",
+        "Franja de incertidumbre como condición de equilibrio neurobiológico (depresión por falta, ansiedad por exceso)",
+        "Felicidad independiente del tamaño del dominio (un omega puede ser feliz si su franja está bien posicionada)",
+        "Tragaperras como modelo del dominio engañoso (incertidumbre simulada bajo apariencia de control)",
+        "Mecanismo del colapso: ausencia de medidas materiales (escasez, territorio, distinción cercanos/lejanos) impide delimitar el dominio",
+        "Análogos humanos: hikikomori (hiposocialización voluntaria), beautiful ones / cultura Instagram, FOMO como estrés crónico",
+        "Disanalogía clave: humanos pueden ostracismo temporal voluntario; los ratones no tienen ese dominio mental"
+      ],
+      "minutes_sustained": 70,
+      "domain_guess": "social.psychology.cognitive",
+      "related_existing_pages": [
+        "consumismo-critica",
+        "realismo-cognitivo",
+        "diagrama-de-proxy",
+        "golem-de-cobre"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Cumple criterios scope.md §2.4.1 con 4 señales (declared_thesis, internal_structure, pedagogic_register, applied_framework), minutes_sustained ≥30 (~70 min de los 132 totales), framework ≥4 piezas (7 articuladas). Marco gate para auto-promoción. Sin embargo se mantiene requires_human_validation:true porque el contenido se solapa parcialmente con dos promote_new propuestos en este mismo extracto (experimento-universo-25 como entity_work y dominio-y-franja-de-incertidumbre como concept). El humano debe arbitrar la organización óptima: (a) construir la synthesis page como hub que integre experimento+marco+análogos, (b) dejarlo en los dos pages independientes, o (c) construir las tres pages con cross-links explícitos. Las tres opciones son legítimas según el grado de reuso esperado del marco en futuros vídeos sobre colapso social, depresión, soledad estructural"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "John B. Calhoun",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Calhoun aparece como diseñador del experimento, no como autor cuya obra teórica el canal trabaje. El speaker subraya que Calhoun describió las conductas externas pero no acertó a explicarlas. Material se subsume en experimento-universo-25",
+      "quote_evidence": "Calhoun lo llamó \"primera muerte\": una muerte social que precede a la muerte física",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Thomas Sowell",
+      "reason_code": "passing_mention",
+      "reason_detail": "Sowell aparece como referencia teórica para corregir un eje del diagrama de Proxy (constrained/unconstrained = eje este-oeste, no norte-sur). Material se subsume en el pending_update a diagrama-de-proxy",
+      "quote_evidence": "Thomas Sowell distingue la visión constrained (naturaleza humana imperfecta, orden por leyes y tradiciones) y unconstrained (potencial ilimitado, ingeniería social)",
+      "review_priority": "medium",
+      "review_priority_reason": "Sowell es figura recurrente potencial en filosofía política — si reaparece sustantivamente en otros vídeos podría merecer página propia (whitelist soft candidate). Por ahora discard sin promover a whitelist",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Dani Elcon",
+      "reason_code": "interlocutor_no_substantive_treatment",
+      "reason_detail": "interlocutor que plantea la pregunta sobre relaciones desde el materialismo filosófico, sin que el canal trate su pensamiento como objeto. La sustancia es la respuesta de Proxy desde el realismo cognitivo",
+      "quote_evidence": "Dani Elcon intenta definir qué es una relación desde el materialismo filosófico; Proxy busca lo mismo desde el realismo cognitivo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Ghost in the Shell",
+      "reason_code": "passing_mention",
+      "reason_detail": "obra referenciada como ilustración del 'autismo artificial' análogo al hikikomori, sin análisis dedicado. Material se subsume en hikikomori-fenomeno",
+      "quote_evidence": "Ghost in the Shell describe el \"síndrome de ostracismo cibercerebral\": un autismo artificial donde la mente se cierra a toda interacción",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno"
+    },
+    {
+      "surface_form": "FOMO / atención parcial continuada",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "se articula como mecanismo concomitante del hikikomori y del colapso del Universo 25, no como objeto enciclopédico autónomo. Capturado en pending_update a consumismo-critica",
+      "quote_evidence": "El FOMO es la sensación inconsciente permanente de estar perdiéndose algo que demanda atención constante",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "los \"beautiful ones\" / cultura Instagram",
+      "reason_code": "in_work_character",
+      "reason_detail": "observación dentro del análisis del experimento, no concepto autónomo. Subsumido en experimento-universo-25 como caso ilustrativo del comportamiento de los ratones que se acicalaban, comían y dormían",
+      "quote_evidence": "Los \"beautiful ones\" se limitaban a acicalarse, comer y dormir: una conducta análoga a la cultura de Instagram",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "cuello de botella cognitivo (10 bits/seg)",
+      "reason_code": "passing_mention",
+      "reason_detail": "investigación referenciada (medusa, 10 bits/seg) sin marco propio articulado. Opera como soporte empírico del argumento general; subsumido en realismo-cognitivo o golem-de-cobre como cita auxiliar",
+      "quote_evidence": "A pesar de procesar ingente información sensorial, la cognición voluntaria consciente es sorprendentemente lenta: unos 10 bits por segundo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "capitalistas simbólicos",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "categoría auxiliar para ilustrar la patologización de la disidencia política. Subsumida en diagrama-de-proxy via pending_update sin desarrollo conceptual independiente",
+      "quote_evidence": "Los \"capitalistas simbólicos\" interpretan la desviación a sus preferencias como patología (racismo, xenofobia) o déficit (falta de educación, empatía)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "justicia social como identificación proyectiva",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "lectura sustantiva pero apoyo a la discusión del diagrama. Subsumida en diagrama-de-proxy via pending_update; promover página propia exigiría más desarrollo del que ofrece este chunk",
+      "quote_evidence": "La justicia social es una indignación por tercería: sentir como propia la injusticia que sufre otro mediante identificación proyectiva",
+      "review_priority": "medium",
+      "review_priority_reason": "el mecanismo de identificación proyectiva es recurrente en el corpus (aparece también en anima-archetype como 'identificación proyectiva como defensa contra el arquetipo' y en lecturas culturales). Si el canal lo articula como mecanismo psicológico transversal en futuros vídeos, podría merecer página propia",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "axiomática de relaciones (isológicas/sinalógicas)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "extensión natural de la axiomática de clases ya documentada en realismo-cognitivo. Capturada en pending_update a esa página como sección nueva, evitando duplicar el marco",
+      "quote_evidence": "Las relaciones isológicas (esenciales, lógicas) corresponderían al ámbito formal abstracto, las sinalógicas (conexiones, interacciones) al ámbito afectivo o imaginario",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "redes serotoninérgicas / redes de apego",
+      "reason_code": "passing_mention",
+      "reason_detail": "neuropsicología invocada como sustrato del dominio (serotonina = satisfacción) y de la motivación (apego). Material técnico que sustenta el marco dominio-y-franja-de-incertidumbre sin merecer página propia per scope.md §1.2 (dominios condicionados solo si el speaker los articula como marco aplicado, lo cual aquí ocurre — pero como sustento del marco mayor, no como objeto enciclopédico independiente)",
+      "quote_evidence": "Las redes serotoninérgicas controlan la satisfacción y una parte importante de sentirse satisfecho es el establecimiento de un dominio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dominio-y-franja-de-incertidumbre"
+    },
+    {
+      "surface_form": "máquina tragaperras como modelo de dominio engañoso",
+      "reason_code": "passing_mention",
+      "reason_detail": "caso ilustrativo del marco dominio/franja-de-incertidumbre — la tragaperras simula incertidumbre decreciente que en realidad no lo es, capturando la franja de incertidumbre del jugador. Material se subsume en dominio-y-franja-de-incertidumbre",
+      "quote_evidence": "La tragaperras simula que la incertidumbre va siendo progresivamente menor cuando en realidad no lo es",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dominio-y-franja-de-incertidumbre"
+    },
+    {
+      "surface_form": "introducción filosófica sobre clases matemáticas vs filosóficas (autorreferencia, circularidad gramática)",
+      "reason_code": "passing_mention",
+      "reason_detail": "los ~7 minutos iniciales del directo abordan el problema de la autorreferencia en sistemas filosóficos totales y la incompletitud del pensamiento respecto a la realidad. Es preámbulo metafilosófico del directo, sin tesis propia desarrollada — el speaker pasa rápidamente al objeto principal (Universo 25). Material adyacente al realismo-cognitivo pero sin sustancia para promover ni enriquecer fiablemente desde este chunk",
+      "quote_evidence": "Todo sistema filosófico que aspire a totalizar el universo incurre en circularidad porque toda gramática es circular",
+      "review_priority": "medium",
+      "review_priority_reason": "la afirmación 'el pensamiento es mecánicamente perfecto pero incompleto respecto a la realidad porque es autónomo' es tesis fuerte del canal sobre la mente — podría merecer captura específica en realismo-cognitivo o teoria-del-simbolo-en-proxy si reaparece sustantivamente en otros vídeos",
+      "enriches_concept": "realismo-cognitivo"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 13,
+    "promoted_new": 3,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 1,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Experimento del Universo 25] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[el dominio (constructo psicológico) y la franja de incertidumbre] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[hikikomori] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

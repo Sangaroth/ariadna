@@ -1,0 +1,569 @@
+{
+  "video_id": "p-93qXOPrDk",
+  "video_title": "Experimento 25",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Experimento del Universo 25",
+      "canonical_guess": "experimento-universo-25",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Calhoun bautizó el fenómeno como \"drenaje conductual\" (behavioral sink): apatía total por falta de función social"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Sin escasez, sin territorio delimitable y sin forma de distinguir cercanos de lejanos, los ratones no podían establecer medidas materiales del dominio"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "página ya creada en este batch (entity_work, social.psychology) desde el directo paralelo Bn-I6p-AyXc del día anterior. Este vídeo del 15-ene-2025 es contenido prácticamente idéntico al del 14-ene-2025 — re-emisión o continuación del directo. Aporta material genuinamente nuevo en cuatro vertientes que merecen update: (a) el nombramiento explícito de Calhoun ('drenaje conductual / behavioral sink'), (b) las fases del colapso detalladas (que en la página figuran como laguna), (c) el paralelismo explícito con Instagram (vs incels), (d) la cita de Friedman sobre densidad humana sin efectos negativos significativos",
+      "quote_evidence": "Calhoun bautizó el fenómeno como \"drenaje conductual\" (behavioral sink): apatía total por falta de función social"
+    },
+    {
+      "surface_form": "dominio y franja de incertidumbre",
+      "canonical_guess": "dominio-y-franja-de-incertidumbre",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El ciclo motivacional: \"soy esto, puedo hacer esto, voy a intentar esto, qué bueno soy\" mantiene el ensayo-error constante con el entorno"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Identificar alfa con gran dominio material y omega con depresión es neolengua redpiliana sin sentido"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "página ya creada en este batch desde el directo paralelo del 14-ene. Este vídeo añade dos piezas operativas nuevas que merecen update: (a) la articulación explícita del ciclo motivacional en cuatro pasos ('soy esto / puedo hacer esto / voy a intentar esto / qué bueno soy'), (b) la crítica explícita a la lectura redpill alfa/omega como 'neolengua sin sentido'. Ambas refinan el marco sin contradecirlo",
+      "quote_evidence": "Un omega puede ser perfectamente feliz si su franja de incertidumbre está correctamente posicionada; hay gente feliz en un monasterio"
+    },
+    {
+      "surface_form": "hikikomori",
+      "canonical_guess": "hikikomori-fenomeno",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "No es exactamente depresión sino que las motivaciones sociales salen del rango de posibilidad: la socialización deja de ser motivación"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "página creada en este batch. Este vídeo añade una distinción operativa importante respecto a la depresión clínica que la página actual no contiene: el hikikomori NO es depresión (ausencia de motivación general) sino reordenamiento del rango motivacional (las motivaciones sociales salen del rango de lo posible). Refinamiento clínico sustantivo",
+      "quote_evidence": "No es exactamente depresión sino que las motivaciones sociales salen del rango de posibilidad: la socialización deja de ser motivación"
+    },
+    {
+      "surface_form": "retractación masiva de papers científicos / contaminación por IA",
+      "canonical_guess": "papers-retractados-contaminacion-ia",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "10.000 papers retractados en 2023 por mala conducta científica, cifra récord"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los diarios académicos están sobrepasados por imágenes, datos y textos generados por IA"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "material genuinamente nuevo pero conceptualmente fragmentario — sin marco propio articulado más allá de la observación. Se subsume mejor como enrichment a golem-de-cobre (tesis sobre IA y homogenización cultural / problemas morales antes que técnicos). No merece página propia con este nivel de desarrollo en el corpus actual",
+      "quote_evidence": "Desde la aparición de los LLM, se publicaron masivamente libros y narraciones escritas con inteligencia artificial",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "axiomática de relaciones (genealogía aristotélico-buenista, QsubF)",
+      "canonical_guess": "axiomatica-relaciones",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 22,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las relaciones isológicas corresponden al ámbito abstracto formal (QsubF): son únicamente relaciones"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "En la tradición escolástica las relaciones eran la cuarta categoría aristotélica, un ente accidental referido a otras sustancias"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el bloque sobre axiomática de relaciones ya está parcialmente capturado en realismo-cognitivo (sección añadida en el extracto del directo paralelo del 14-ene). Este vídeo añade dos refinamientos genuinos: (a) la genealogía Aristóteles → escolástica → materialismo filosófico, (b) la notación QsubF para el ámbito formal. Subsumido en pending_update a realismo-cognitivo — no merece página propia que duplicaría el marco",
+      "quote_evidence": "Las relaciones isológicas corresponden al ámbito abstracto formal (QsubF): son únicamente relaciones",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "estrés como atención parcial continuada no resuelta",
+      "canonical_guess": "estres-atencion-pendiente",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El estrés es tener pendiente una representación afectiva de ansiedad vinculada a algo no resuelto"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "definición operativa breve pero clara del estrés como atención pendiente no resuelta. El bloque es corto (~4 min) y se conecta naturalmente con el material de FOMO/atención parcial continuada ya añadido a consumismo-critica en el extracto del directo paralelo. Mejor capturarlo como passing_mention que enriquece consumismo-critica si reaparece en futuros vídeos; promover ahora sería página stub muy débil",
+      "quote_evidence": "Basta con identificar el estresor y dar el primer paso (llamada, email) para que el estrés se reduzca drásticamente, aunque no esté resuelto",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "diagrama de Proxiveron (obediencia liberales/conservadores, justicia social, Sowell)",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 35,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "discard",
+      "decision_reason": "todo el bloque sobre diagrama Proxiveron (obediencia simétrica liberales/conservadores, justicia social como identificación proyectiva, Sowell constrained/unconstrained como eje este-oeste) ya fue capturado integralmente en el pending_update a diagrama-de-proxy del extracto del directo paralelo del 14-ene. Este vídeo es duplicado material — no aporta material nuevo respecto a lo ya añadido",
+      "quote_evidence": "El eje constrained/unconstrained es realmente el eje este-oeste del diagrama de Proxiveron, no el norte-sur como sugiere el artículo citado",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "John B. Calhoun",
+      "canonical_guess": "calhoun-john-b",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Calhoun aparece como diseñador del experimento (descrito por su nombramiento del fenómeno, 'behavioral sink'/'drenaje conductual', y su categoría 'primera muerte'). Sin tratamiento de su pensamiento más allá de las observaciones experimentales. Material se subsume en experimento-universo-25 via pending_update",
+      "quote_evidence": "Calhoun bautizó el fenómeno como \"drenaje conductual\" (behavioral sink): apatía total por falta de función social",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Friedman (densidad humana sin efectos negativos)",
+      "canonical_guess": "friedman-densidad",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "cita empírica puntual que apoya la tesis de Proxy sobre interacciones forzadas (no densidad) como factor crítico. Sin tratamiento sustantivo del autor o su trabajo. Material se subsume en experimento-universo-25",
+      "quote_evidence": "Friedman no encontró efectos negativos significativos de la densidad per se en experimentos con humanos",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Instagram como drenaje conductual contemporáneo",
+      "canonical_guess": "instagram-drenaje-conductual",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el paralelo Instagram=drenaje conductual es pieza analítica nueva pero breve. Subsumido en experimento-universo-25 como caso ilustrativo del análogo humano contemporáneo. Resuelve parcialmente la laguna de la página sobre 'fenómenos humanos contemporáneos concretos'",
+      "quote_evidence": "El paralelismo no es con los incels sino con Instagram: toda una población sobresaturada compitiendo por hechos absurdos",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "empatía afectiva / simpatía afectiva / psicópatas",
+      "canonical_guess": "empatia-afectiva",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "fragmento conceptual breve sobre la distinción empatía/simpatía afectiva y su disfunción en psicópatas. Aparece en el contexto de la discusión sobre redes de apego pero sin desarrollo sustantivo. Material se subsume potencialmente en una futura página sobre psicopatía o se enriquece anima-archetype/individuation si reaparece. Promover ahora sería página stub muy débil",
+      "quote_evidence": "La empatía afectiva (mejor llamada simpatía afectiva) es reaccionar positivamente a emociones positivas ajenas; esto es lo que no funciona en los psicópatas",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "circuitería reproductiva (el otro como objeto a consumir)",
+      "canonical_guess": "circuiteria-reproductiva",
+      "page_type": "concept",
+      "domain_primary_guess": "natural.neuroscience",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "framing breve sobre los circuitos reproductivos como sistema separado del apego — interesante teoricamente pero sin desarrollo suficiente. Aparece como contexto neurocientífico para entender por qué los ratones del Universo 25 dejan de copular. Subsumido en experimento-universo-25 si se enriquece la sección sobre redes neuronales",
+      "quote_evidence": "En la reproducción sexual, el otro funciona como \"objeto a consumir\", análogo a cómo el olor de comida activa la búsqueda alimentaria",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Pueblerino Man (Twitter)",
+      "canonical_guess": "pueblerino-man",
+      "page_type": "author",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "atribución methodológica del origen de la discusión (cuenta de Twitter que citó el experimento). No es figura cuyo pensamiento el canal trabaje. Material puramente metainformativo del directo",
+      "quote_evidence": "El experimento del Universo 25 es completamente real, citado por Pueblerino Man en Twitter",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Ghost in the Shell / síndrome de ostracismo cibercerebral",
+      "canonical_guess": "ghost-in-the-shell",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "ya capturado en hikikomori-fenomeno (página creada en este batch desde el directo paralelo). Mención duplicada sin nuevo material",
+      "quote_evidence": "Ghost in the Shell describió el \"síndrome de ostracismo cibercerebral\": individuos que desarrollan un autismo artificial navegando por la red",
+      "enriches_concept": "hikikomori-fenomeno"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "experimento-universo-25",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Vídeo paralelo p-93qXOPrDk del 15-ene-2025 detalla las fases del colapso conductual ('beautiful ones', cesación reproductiva, canibalismo, infanticidio, luchas intrafamiliares) y articula el nombramiento explícito de Calhoun ('drenaje conductual / behavioral sink')",
+      "supersedes_laguna_text": "El directo describe el diseño del Universo 25 y el marco interpretativo del canal pero el fragmento recuperado no detalla las **fases del colapso conductual** (\"beautiful ones\", retraída sexual, agresividad, infanticidio) que Calhoun documentó",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El summary del 15-ene incluye explícitamente las fases que la laguna declaraba ausentes: 39:53 'Anomalías sexuales, canibalismo y \"los guapos\" como síntomas terminales', 28:42 'drenaje conductual', 44:49 'colapso final'",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "experimento-universo-25",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "section_target": "",
+      "content_proposed": "Vídeo paralelo p-93qXOPrDk del 15-ene-2025 articula explícitamente la proyección sobre fenómenos humanos contemporáneos: Instagram como drenaje conductual contemporáneo (42:37), hikikomori como análogo humano (47:52), la cita de Friedman (47:20) sobre densidad humana sin efectos negativos significativos que apoya la tesis de que lo crítico no es la densidad sino el número de interacciones forzadas",
+      "supersedes_laguna_text": "Falta articular explícitamente cómo el canal proyecta el experimento sobre fenómenos humanos contemporáneos concretos (hikikomori, demografía, redes sociales) más allá de la analogía transespecífica genérica",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El summary del 15-ene contiene exactamente los análogos humanos que la laguna pedía: Instagram, hikikomori, mecanismo causal (interacciones forzadas vs densidad)",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "experimento-universo-25",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## Drenaje conductual: el nombramiento de Calhoun\n\nEl directo paralelo del día siguiente (15-ene-2025) recupera explícitamente el término que Calhoun acuñó para el fenómeno observado:\n\n> \"Calhoun bautizó el fenómeno como \\\"drenaje conductual\\\" (behavioral sink): apatía total por falta de función social\"\n→ [Experimento 25 (28:42)](https://youtu.be/p-93qXOPrDk?t=1722)\n\nEl drenaje conductual no es solo apatía individual: es el resultado estructural de que muchos ratones dejen de tener un papel reconocible en la sociedad — no había roles para todos los individuos. La perfección artificial del medio elimina la diferenciación funcional que en condiciones naturales viene dada por la presión selectiva.\n\n## Fases del colapso: anomalías sexuales, canibalismo y \"los guapos\"\n\nEl colapso del Universo 25 atravesó fases conductuales discriminables que el canal recoge en orden:\n\n> \"Las hembras dejaron de reproducirse; los machos abandonaron los nidos y solo iban a la zona de alimento\"\n→ [Experimento 25 (39:53)](https://youtu.be/p-93qXOPrDk?t=2393)\n\n> \"Conductas sexuales frenéticas sin discriminación de sexo, seguidas de cesación total; luchas intrafamiliares y canibalismo\"\n→ [Experimento 25 (39:53)](https://youtu.be/p-93qXOPrDk?t=2393)\n\n> \"\\\"Los guapos\\\" (the beautiful ones): ratones cuya conducta se limitaba a acicalarse, comer y dormir, sin ninguna otra actividad\"\n→ [Experimento 25 (39:53)](https://youtu.be/p-93qXOPrDk?t=2393)\n\nLa secuencia tiene lectura clínica precisa: primero la disolución del rol reproductivo y la retirada masculina del nido, después la desinhibición sexual sin función (cópula sin discriminación de sexo) seguida de cesación total, y finalmente la cristalización de un subconjunto sin papel — los beautiful ones — que se limita a las funciones autoplásticas del cuidado, alimentación y descanso.\n\n## Análogos humanos contemporáneos: Instagram, hikikomori, Friedman\n\nEl canal proyecta el experimento sobre fenómenos humanos identificando dos análogos prototípicos y una cita empírica de soporte:\n\n### Instagram como drenaje conductual\n\n> \"El paralelismo no es con los incels sino con Instagram: toda una población sobresaturada compitiendo por hechos absurdos\"\n→ [Experimento 25 (42:37)](https://youtu.be/p-93qXOPrDk?t=2557)\n\nLa precisión es metodológica: el speaker descarta el paralelo más obvio (incels = sexualidad fallida) en favor de uno estructuralmente más fino (Instagram = sobresaturación de competición simbólica por dominios vacíos). Conductas sexuales anómalas, búsqueda frenética de territorios simbólicos nuevos y los 'beautiful ones' acicalándose para nadie tienen su análogo cultural exacto en la economía atencional de la red social.\n\n### Hikikomori como caso clínico\n\nEl [[hikikomori-fenomeno|hikikomori]] japonés funciona como manifestación clínica del mismo mecanismo: la retirada voluntaria total de toda interacción presencial cuando las motivaciones sociales salen del rango de lo posible. Ver la página del concepto para el desarrollo completo.\n\n### Friedman: lo crítico no es la densidad\n\nLa tesis del canal sobre el mecanismo causal recibe apoyo empírico:\n\n> \"Friedman no encontró efectos negativos significativos de la densidad per se en experimentos con humanos\"\n→ [Experimento 25 (47:20)](https://youtu.be/p-93qXOPrDk?t=2840)\n\n> \"El argumento clave: no es el número de individuos por área, sino cuántas veces cada individuo es sometido a una interacción social\"\n→ [Experimento 25 (47:20)](https://youtu.be/p-93qXOPrDk?t=2840)\n\nLa distinción es operativa: la densidad espacial humana puede ser muy alta sin daño (Tokio, Manhattan) si el sujeto puede regular el número de interacciones forzadas. El móvil rompe esa regulación al volver permanentemente accesible la interacción potencial — mecanismo análogo al de los ratones del Universo 25 donde cada encuentro obligaba a reevaluar el dominio.\n\n",
+      "wikilinks_introduced": [
+        "hikikomori-fenomeno"
+      ],
+      "citations_added": [
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 1722,
+          "cite_markdown": "[Experimento 25 (28:42)](https://youtu.be/p-93qXOPrDk?t=1722)"
+        },
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 2393,
+          "cite_markdown": "[Experimento 25 (39:53)](https://youtu.be/p-93qXOPrDk?t=2393)"
+        },
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 2557,
+          "cite_markdown": "[Experimento 25 (42:37)](https://youtu.be/p-93qXOPrDk?t=2557)"
+        },
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 2840,
+          "cite_markdown": "[Experimento 25 (47:20)](https://youtu.be/p-93qXOPrDk?t=2840)"
+        }
+      ],
+      "rationale": "Cubre las dos lagunas declaradas y añade material genuinamente nuevo: (a) nombramiento explícito 'drenaje conductual / behavioral sink' por Calhoun, (b) fases del colapso ordenadas (cesación reproductiva → desinhibición sin función → cesación total → beautiful ones), (c) análogo Instagram (descartando explícitamente el paralelo incels como menos preciso), (d) cita de Friedman como soporte empírico para la tesis de que lo crítico es el número de interacciones forzadas, no la densidad",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "dominio-y-franja-de-incertidumbre",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## La tragaperras: incertidumbre simulada como secuestro del sistema",
+      "section_target": "",
+      "content_proposed": "## El ciclo motivacional: cuatro pasos del ensayo-error\n\nEl directo paralelo (15-ene-2025) desglosa explícitamente el ciclo motivacional que articula el par dominio/franja en cuatro pasos cognitivos consecutivos:\n\n> \"El ciclo motivacional: \\\"soy esto, puedo hacer esto, voy a intentar esto, qué bueno soy\\\" mantiene el ensayo-error constante con el entorno\"\n→ [Experimento 25 (31:46)](https://youtu.be/p-93qXOPrDk?t=1906)\n\nLa secuencia tiene función diagnóstica precisa: cada paso roto produce una patología distinta:\n\n> \"Si la persona es demasiado impulsiva actúa sin planificar, si está deprimida no intenta lo suficiente, si tiene trastornos de personalidad sus objetivos no son realistas\"\n→ [Experimento 25 (31:46)](https://youtu.be/p-93qXOPrDk?t=1906)\n\n| Paso del ciclo | Contenido | Patología por fallo |\n|---|---|---|\n| Soy esto | identidad asentada del yo en su dominio | trastorno de identidad |\n| Puedo hacer esto | proyección realista de capacidad | trastorno de personalidad (objetivos irreales) |\n| Voy a intentar esto | activación de la voluntad | depresión (no se intenta lo suficiente) |\n| Qué bueno soy | refuerzo serotoninérgico tras el ensayo | impulsividad (refuerzo sin planificación) |\n\nEl ciclo es la mecánica concreta por la que el dominio y la franja de incertidumbre operan minuto a minuto: la franja se actualiza con cada ensayo, el dominio se confirma o se reajusta con cada resultado, y la red serotoninérgica modula la satisfacción según la calibración entre ambos.\n\n## Crítica a la lectura redpill: alfa, omega y la confusión categorial\n\nUn corolario polémico del marco es la disolución de la oposición alfa/omega tal como la usa el discurso redpill contemporáneo:\n\n> \"Identificar alfa con gran dominio material y omega con depresión es neolengua redpiliana sin sentido\"\n→ [Experimento 25 (35:21)](https://youtu.be/p-93qXOPrDk?t=2121)\n\n> \"Un omega puede ser perfectamente feliz si su franja de incertidumbre está correctamente posicionada; hay gente feliz en un monasterio\"\n→ [Experimento 25 (35:21)](https://youtu.be/p-93qXOPrDk?t=2121)\n\nLa confusión categorial que el canal denuncia: el discurso redpill liga la jerarquía social externa (alfa = arriba) con la satisfacción interna (alfa = feliz), cuando el marco dominio/franja muestra que la satisfacción depende de la calibración interna del par, no del tamaño absoluto del dominio. El monje feliz y el millonario deprimido son contraejemplos que el modelo predice y que la dicotomía redpill no puede acomodar.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 1906,
+          "cite_markdown": "[Experimento 25 (31:46)](https://youtu.be/p-93qXOPrDk?t=1906)"
+        },
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 2121,
+          "cite_markdown": "[Experimento 25 (35:21)](https://youtu.be/p-93qXOPrDk?t=2121)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página actual articula dominio/franja como par neurobiológico pero NO contiene (a) el ciclo motivacional explícito en cuatro pasos con sus patologías diagnósticas asociadas, ni (b) la crítica explícita a la lectura redpill alfa/omega como confusión categorial entre jerarquía externa y satisfacción interna. Ambas piezas refinan el marco con material operativo",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "hikikomori-fenomeno",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## Distinción operativa frente a la depresión clínica\n\nEl directo paralelo (15-ene-2025) precisa que el hikikomori NO es equivalente a una depresión: el cuadro depresivo es ausencia generalizada de motivación (ninguna representación futura activa la voluntad), mientras que el hikikomori conserva motivaciones operativas para actividades digitales y autocuidado básico. Lo que se ha colapsado es específicamente el rango de lo socialmente posible.\n\n> \"No es exactamente depresión sino que las motivaciones sociales salen del rango de posibilidad: la socialización deja de ser motivación\"\n→ [Experimento 25 (47:52)](https://youtu.be/p-93qXOPrDk?t=2872)\n\nLa precisión es operativamente importante para el diagnóstico: ante un sujeto recluido pero funcional en su nicho digital, la pregunta clínica no es '¿está deprimido?' sino '¿se le han salido del rango las motivaciones sociales?'. El tratamiento implícito difiere: la depresión clínica busca restablecer la motivación general (vía serotoninérgica, terapéutica, conductual); el hikikomori requiere reincorporar la socialización al rango de lo motivacionalmente posible — operación distinta y, según el canal, más difícil cuando la hiperpromesa cultural ha hecho irreales los objetivos sociales.\n\nLa pieza enlaza con el marco general del [[dominio-y-franja-de-incertidumbre]]: el hikikomori es caso donde la franja de incertidumbre socialmente accesible se ha aplanado completamente — no porque falte capacidad, sino porque las representaciones de éxito social han sido calibradas a un horizonte irreal por la sobrepromesa cultural.\n\n",
+      "wikilinks_introduced": [
+        "dominio-y-franja-de-incertidumbre"
+      ],
+      "citations_added": [
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 2872,
+          "cite_markdown": "[Experimento 25 (47:52)](https://youtu.be/p-93qXOPrDk?t=2872)"
+        }
+      ],
+      "rationale": "Material nuevo: la página actual articula el hikikomori como hiposocialización voluntaria patológica y lo conecta con FOMO/hiperpromesa, pero NO contiene la distinción operativa frente a la depresión clínica que este vídeo introduce. Refinamiento clínico-diagnóstico relevante que cubre parcialmente la laguna 'Frontera con el ostracismo saludable'",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Confirmación empírica: el aprendizaje léxico en bebés y la primacía de la función sintáctica",
+      "section_target": "",
+      "content_proposed": "## Genealogía aristotélico-buenista de la categoría 'relación' y la notación QsubF\n\nEl directo paralelo (15-ene-2025) sitúa la axiomática de relaciones del realismo cognitivo en su genealogía filosófica explícita y formaliza la notación de la componente formal:\n\n### De la cuarta categoría aristotélica al sistema buenista de relaciones\n\n> \"En la tradición escolástica las relaciones eran la cuarta categoría aristotélica, un ente accidental referido a otras sustancias\"\n→ [Experimento 25 (1:26:27)](https://youtu.be/p-93qXOPrDk?t=5187)\n\n> \"En el materialismo filosófico, ni sustancias ni accidentes son lógicamente independientes: los términos se constituyen trascendentalmente en su sistema de relaciones\"\n→ [Experimento 25 (1:26:27)](https://youtu.be/p-93qXOPrDk?t=5187)\n\nLa genealogía es importante para el marco: la relación pasa de ser **accidente referido a sustancia** (Aristóteles, escolástica) a ser **constituyente trascendental del término mismo** ([[bueno-gustavo|materialismo filosófico]]). El realismo cognitivo hereda este movimiento y lo desplaza a la mente: las clases noéticas no son sustancias atomicas a las que las relaciones se aplican externamente — están ya constituidas por sus relaciones isológicas y sinalógicas dentro de la matriz N.\n\n### La notación QsubF: formal puro como subdominio de los tres Q\n\nLas relaciones isológicas se formalizan como **QsubF** (Q sub-índice F = componente formal), término que el canal introduce para precisar el ámbito:\n\n> \"Las relaciones isológicas corresponden al ámbito abstracto formal (QsubF): son únicamente relaciones\"\n→ [Experimento 25 (1:31:31)](https://youtu.be/p-93qXOPrDk?t=5491)\n\nLa notación es operativa: identifica las relaciones isológicas como el subconjunto del componente Q-formal que opera sin contenido afectivo ni imaginario — relaciones puras (identidad, equivalencia, pertenencia a clase). Las sinalógicas, en cambio, viven en QsubA (afectivo-procedimental) o QsubI (imaginario), donde la relación porta contenido material.\n\nLa formalización cierra una pieza que en la sección anterior quedaba implícita: dentro del marco Q, no toda relación tiene la misma naturaleza ontológica — las relaciones puramente formales constituyen un subdominio operacionalmente distinto del de las relaciones que portan afectos o imágenes.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 5187,
+          "cite_markdown": "[Experimento 25 (1:26:27)](https://youtu.be/p-93qXOPrDk?t=5187)"
+        },
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 5491,
+          "cite_markdown": "[Experimento 25 (1:31:31)](https://youtu.be/p-93qXOPrDk?t=5491)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto a la sección 'Axiomática de relaciones' añadida desde el directo paralelo: (a) la genealogía Aristóteles → escolástica → materialismo filosófico que explicita el movimiento histórico del concepto de relación, (b) la notación QsubF que formaliza el ámbito formal puro como subdominio de los tres Q. Ambas piezas refinan operativamente el marco sin contradecirlo",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## La contaminación del corpus científico por IA generativa\n\nEn el directo del 15-ene-2025 el canal añade una observación empírica que extiende la tesis sobre IA y problemas morales al propio sistema de validación científica:\n\n> \"10.000 papers retractados en 2023 por mala conducta científica, cifra récord\"\n→ [Experimento 25 (1:07:40)](https://youtu.be/p-93qXOPrDk?t=4060)\n\n> \"Los diarios académicos están sobrepasados por imágenes, datos y textos generados por IA\"\n→ [Experimento 25 (1:07:40)](https://youtu.be/p-93qXOPrDk?t=4060)\n\n> \"Desde la aparición de los LLM, se publicaron masivamente libros y narraciones escritas con inteligencia artificial\"\n→ [Experimento 25 (1:07:40)](https://youtu.be/p-93qXOPrDk?t=4060)\n\nEl dato cierra el bucle de la tesis nuclear: si la IA es vehículo de homogeneización cultural y el control no reside en la máquina sino en quien la diseña, el caso del corpus académico muestra el mecanismo en acto sobre la institución que en principio debía servir como filtro de calidad. La revisión por pares — diseñada para una escala humana de producción — colapsa funcionalmente cuando el coste marginal de generar texto plausible cae a cero.\n\nEl paralelismo con la mecánica de [[consumismo-critica|colapso del contenido original]] es directo: la abundancia de copias indistinguibles eclipsa al contenido genuino no por inferioridad sino por volumen. Y el problema no es 'culpa de la IA' sino de la infraestructura institucional y comercial que la integra sin recalibrar sus filtros de validación — lo cual confirma que el problema es **moral y de logística cultural**, no técnico.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "p-93qXOPrDk",
+          "timestamp_seconds": 4060,
+          "cite_markdown": "[Experimento 25 (1:07:40)](https://youtu.be/p-93qXOPrDk?t=4060)"
+        }
+      ],
+      "rationale": "Material nuevo: la página articula la tesis sobre IA como homogeneizador cultural cuyo control reside en quien la diseña, pero NO contiene la observación específica sobre contaminación del corpus científico (10.000 retractaciones en 2023, papers/datos/imágenes generados por IA). Confirmación empírica oportuna de la tesis nuclear, conectable con la crítica al consumismo (colapso del contenido original)",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "John B. Calhoun",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Calhoun se subsume en experimento-universo-25 con su nombramiento explícito 'drenaje conductual'. No merece página de autor — el canal trabaja el experimento, no el aparato teórico de Calhoun",
+      "quote_evidence": "Calhoun bautizó el fenómeno como \"drenaje conductual\" (behavioral sink): apatía total por falta de función social",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Friedman (densidad humana sin efectos negativos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "cita empírica puntual subsumida en experimento-universo-25 via pending_update",
+      "quote_evidence": "Friedman no encontró efectos negativos significativos de la densidad per se en experimentos con humanos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Instagram como drenaje conductual",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "subsumido en experimento-universo-25 como caso ilustrativo del análogo humano contemporáneo. No merece página propia — es aplicación del marco del experimento, no concepto autónomo",
+      "quote_evidence": "El paralelismo no es con los incels sino con Instagram: toda una población sobresaturada compitiendo por hechos absurdos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "Pueblerino Man (Twitter)",
+      "reason_code": "passing_mention",
+      "reason_detail": "atribución methodológica del origen de la discusión (cuenta de Twitter que citó el experimento). No es figura cuyo pensamiento el canal trabaje",
+      "quote_evidence": "El experimento del Universo 25 es completamente real, citado por Pueblerino Man en Twitter",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Ghost in the Shell",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "ya documentado en hikikomori-fenomeno (página creada en este batch). Mención duplicada sin nuevo material",
+      "quote_evidence": "Ghost in the Shell describió el \"síndrome de ostracismo cibercerebral\": individuos que desarrollan un autismo artificial navegando por la red",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno"
+    },
+    {
+      "surface_form": "FOMO / atención parcial continuada",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "ya documentado en consumismo-critica (sección añadida desde directo paralelo del 14-ene) y referenciado en hikikomori-fenomeno. Mención duplicada",
+      "quote_evidence": "El FOMO es la consciencia inconsciente permanente de estar perdiéndose interacción social accesible desde el móvil",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "diagrama de Proxiveron (obediencia, justicia social, Sowell)",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "todo el bloque sobre Proxiveron, obediencia simétrica liberales/conservadores, justicia social como identificación proyectiva, Sowell constrained/unconstrained ya capturado integralmente en pending_update a diagrama-de-proxy del extracto del directo paralelo. Contenido duplicado",
+      "quote_evidence": "Los liberales (progresistas) son tan obedientes como los conservadores, pero ante autoridades diferentes",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "estrés como atención parcial continuada no resuelta",
+      "reason_code": "passing_mention",
+      "reason_detail": "definición operativa breve (~4 min) sin desarrollo suficiente para página propia. Conexión natural con material de FOMO ya añadido a consumismo-critica. Captura como passing_mention que enriquece consumismo-critica si reaparece sustantivamente en futuros vídeos",
+      "quote_evidence": "El estrés es tener pendiente una representación afectiva de ansiedad vinculada a algo no resuelto",
+      "review_priority": "medium",
+      "review_priority_reason": "definición clínico-operativa potencialmente reutilizable; si el canal la articula como marco propio en otros vídeos podría merecer página o subsección dedicada",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "empatía afectiva / simpatía afectiva / psicópatas",
+      "reason_code": "passing_mention",
+      "reason_detail": "fragmento conceptual breve sin desarrollo suficiente. Aparece en contexto de la discusión sobre redes de apego. No se subsume claramente en página existente; sin marco aplicado articulado",
+      "quote_evidence": "La empatía afectiva (mejor llamada simpatía afectiva) es reaccionar positivamente a emociones positivas ajenas; esto es lo que no funciona en los psicópatas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "circuitería reproductiva (el otro como objeto a consumir)",
+      "reason_code": "passing_mention",
+      "reason_detail": "framing breve sobre circuitos reproductivos como sistema separado del apego. Subsumido en experimento-universo-25 como contexto neurocientífico para entender el cese reproductivo de los ratones",
+      "quote_evidence": "En la reproducción sexual, el otro funciona como \"objeto a consumir\", análogo a cómo el olor de comida activa la búsqueda alimentaria",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "tragaperras como manipulación de la franja de incertidumbre",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "ya documentado en dominio-y-franja-de-incertidumbre con sección dedicada. Mención duplicada desde el directo paralelo",
+      "quote_evidence": "La tragaperras crea un dominio posible grande con incertidumbre alta y simula que esa incertidumbre decrece progresivamente, cuando no es cierto",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dominio-y-franja-de-incertidumbre"
+    },
+    {
+      "surface_form": "redes serotoninérgicas / redes de apego",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "neuropsicología invocada como sustrato del dominio y la motivación; ya documentada en dominio-y-franja-de-incertidumbre como sustrato del marco",
+      "quote_evidence": "Las redes serotoninérgicas controlan la satisfacción; una parte fundamental de sentirse satisfecho es el establecimiento de un dominio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dominio-y-franja-de-incertidumbre"
+    },
+    {
+      "surface_form": "los \"beautiful ones\" / cultura Instagram",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "ya documentado en experimento-universo-25 via pending_update. Mención duplicada del directo paralelo",
+      "quote_evidence": "\"Los guapos\" (the beautiful ones): ratones cuya conducta se limitaba a acicalarse, comer y dormir, sin ninguna otra actividad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "experimento-universo-25"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 16,
+    "promoted_new": 0,
+    "promoted_updates": 8,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP entity[clases-matematicas-vs-filosoficas] decision=discard quote no literal: 'Todo sistema filosófico que aspire a totalizar el universo incurre en circularid'",
+    "DROP discarded[introducción filosófica clases matemáticas vs filosóficas (autorreferencia)] reason=already_captured_in_existing_page quote no literal"
+  ]
+}

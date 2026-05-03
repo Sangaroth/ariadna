@@ -159,6 +159,83 @@ La expectativa trampa cierra el circuito: todos los vínculos que fracasan o dec
 → [Consultorio EXIT INSIDE (1:41:45)](https://youtu.be/IP9f-1gSJ1c?t=6105)
 
 
+## Atención parcial continuada y FOMO: el drenaje cognitivo de la sobreoferta social digital
+
+En la lectura del experimento del Universo 25 como análogo del colapso conductual contemporáneo, el canal añade una mecánica específica de la sociedad digital que opera por debajo del consumismo afectivo de las apps de citas: la **atención parcial continuada** como estrés crónico de la mente que tiene un mundo de interacción social siempre al alcance.
+
+> "Tener un mundo de interacción social permanentemente al alcance del móvil consume enormes recursos mentales y afectivos"
+→ [Experimento 25 (51:54)](https://youtu.be/Bn-I6p-AyXc?t=3114)
+
+> "El FOMO es la sensación inconsciente permanente de estar perdiéndose algo que demanda atención constante"
+→ [Experimento 25 (51:54)](https://youtu.be/Bn-I6p-AyXc?t=3114)
+
+> "La sobresaturación de interacciones sociales provoca conductas anómalas aunque no vayamos camino del colapso total"
+→ [Experimento 25 (51:54)](https://youtu.be/Bn-I6p-AyXc?t=3114)
+
+El FOMO no es ansiedad consciente sino un estrés de fondo permanente: la inferencia inconsciente de que algo importante está ocurriendo fuera del campo de atención actual. El cerebro no calibra ese estrés porque no tiene precedente filogenético — es un acoplamiento entre una arquitectura cognitiva calibrada para grupos pequeños y una infraestructura técnica que pone decenas de miles de interacciones potenciales al alcance de un gesto.
+
+### Hiperpromesa de socialización
+
+El mecanismo cultural que el canal identifica detrás del agotamiento social contemporáneo:
+
+> "La hiperpromesa cultural de socialización convierte los objetivos sociales en irreales, generando agotamiento y retirada"
+→ [Experimento 25 (47:52)](https://youtu.be/Bn-I6p-AyXc?t=2872)
+
+La cultura del bienestar promete una vida social plena, abundante y sin fricción como horizonte normalizado. La realidad — vínculos costosos, fracasos frecuentes, soledad estructural — entra en disonancia masiva con esa promesa, y la respuesta más adaptativa termina siendo la retirada (caso límite: hikikomori). La hiperpromesa funciona aquí como dispositivo consumista clásico: vende un horizonte fabricado, induce ansiedad por no alcanzarlo, y deja al sujeto exhausto y culpable cuando comprueba que el horizonte era irreal.
+
+La pieza enlaza este capítulo de la crítica al consumismo con el análisis del [[experimento-universo-25|Universo 25]]: lo que en los ratones operó como reelaboración continua e involuntaria del dominio ante cada encuentro, en los humanos opera como atención parcial continuada ante el flujo permanente de interacciones digitales. La diferencia es que los humanos pueden 'meterse dentro de sí mismos' y elegir ostracismo temporal — el hikikomori es el caso clínico de ese mecanismo llevado al extremo.
+
+## Wokismo en franquicias: la fantasía no se construye, se reconoce
+
+El directo *Fantasía Cero* (13-sept-2024) articula una pieza estructural sobre por qué el wokismo en producciones audiovisuales fracasa narrativamente: opera contra la naturaleza misma de la fantasía como mecanismo psicológico. La fantasía es un dispositivo de **reconocimiento arquetípico instintivo**, no un vehículo didáctico moldeable.
+
+> "La fantasía no se imita, se reconoce; no se puede construir fantasía para modificar conductas porque lo que queda mal no genera identificación"
+→ [Fantasía Cero (16:40)](https://youtu.be/1mJVJawefWc?t=1000)
+
+> "La fantasía es instintiva y todo lo contrario a inclusiva por diseño; forzarla rompe la coherencia interna"
+→ [Fantasía Cero (14:39)](https://youtu.be/1mJVJawefWc?t=879)
+
+La tesis tiene consecuencias precisas para la crítica al consumismo cultural contemporáneo: cuando una franquicia inserta personajes diseñados desde fuera (cuotas, briefs de consultora) para modular conductas del espectador, el resultado no funciona como fantasía sino como **producto consumible que se reconoce como tal**. La identificación arquetípica falla porque la pieza no resuena con estructuras psíquicas previas — fue construida desde el cálculo, no desde el reconocimiento.
+
+### Patrón cross-franquicia: The Boys T4, She-Hulk, Doctor Strange
+
+El canal documenta el patrón con casos concretos:
+
+> "La serie [The Boys T4] ha destruido toda estructura de personaje y motivación, cada decisión narrativa es un \"fiat\" (así porque sí)"
+→ [Fantasía Cero (04:30)](https://youtu.be/1mJVJawefWc?t=270)
+
+> "Un nuevo personaje femenino negro cuyo rasgo es solo ser \"la más inteligente del mundo\" está sobreactuado y carece de motivación coherente"
+→ [Fantasía Cero (04:30)](https://youtu.be/1mJVJawefWc?t=270)
+
+> "She-Hulk produce vergüenza ajena por su tono forzadamente moderno"
+→ [Fantasía Cero (09:06)](https://youtu.be/1mJVJawefWc?t=546)
+
+> "Se compara con el personaje de Puchi en Rasca y Pica de Los Simpson: un añadido innecesario diseñado para parecer moderno sin conseguirlo"
+→ [Fantasía Cero (09:06)](https://youtu.be/1mJVJawefWc?t=546)
+
+La metáfora de Puchi (autoreferencia de Los Simpson sobre cómo se inventan personajes para 'modernizar' una fórmula que funciona) es la que el canal usa para nombrar el mecanismo: añadir piezas para parecer relevante destruye precisamente lo que hacía funcionar la pieza original.
+
+### Mecanismo financiero hipotético: la consultora subvencionada
+
+El canal articula explícitamente como **teoría conspirativa** (no como diagnóstico cerrado) la hipótesis sobre la infraestructura comercial detrás del wokismo en franquicias:
+
+> "Las empresas como Sweet Baby Inc están subvencionadas para introducir inclusividad forzada que destruye la fantasía narrativa"
+→ [Fantasía Cero (14:39)](https://youtu.be/1mJVJawefWc?t=879)
+
+> "Posible estrategia financiera: comprar acciones antes de destruir una serie y venderlas en corto cuando la audiencia la abandone"
+→ [Fantasía Cero (14:39)](https://youtu.be/1mJVJawefWc?t=879)
+
+La hipótesis especulativa se subordina al diagnóstico estructural: independientemente de si existe o no la maquinación financiera, el efecto observable es la destrucción sistemática del valor narrativo de franquicias maduras y la reorientación del público hacia productos sustitutivos.
+
+### Polarización amplificada como subproducto cultural
+
+El mecanismo culmina en una externalidad política observable:
+
+> "Destruir series populares con wokismo sirve para exaltar a la extrema derecha y alimentar la confrontación política permanente"
+→ [Fantasía Cero (16:40)](https://youtu.be/1mJVJawefWc?t=1000)
+
+El wokismo en entertainment opera así como amplificador de polarización: el espectador cuya fantasía ha sido destruida desplaza su frustración cultural al campo político, donde encuentra etiquetas listas para esa frustración. La crítica del canal NO es a las posiciones políticas que el wokismo invoca sino al **mecanismo de fabricación de adversarios** que la operación cultural ejecuta como subproducto.
+
 ## Postura específica del canal: NO es anti-capitalismo marxista
 
 Una precisión importante para no confundir esta página con la crítica de izquierdas estándar:

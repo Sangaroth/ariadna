@@ -299,6 +299,47 @@ Las piezas conjuntas — anti-localismo, plasticidad, trauma como hiperactivaci�
 → [Cuento contigo (19:20)](https://youtu.be/Eqoq3O9wVzA?t=1160)
 
 
+## La contaminación del corpus científico por IA generativa
+
+En el directo del 15-ene-2025 el canal añade una observación empírica que extiende la tesis sobre IA y problemas morales al propio sistema de validación científica:
+
+> "10.000 papers retractados en 2023 por mala conducta científica, cifra récord"
+→ [Experimento 25 (1:07:40)](https://youtu.be/p-93qXOPrDk?t=4060)
+
+> "Los diarios académicos están sobrepasados por imágenes, datos y textos generados por IA"
+→ [Experimento 25 (1:07:40)](https://youtu.be/p-93qXOPrDk?t=4060)
+
+> "Desde la aparición de los LLM, se publicaron masivamente libros y narraciones escritas con inteligencia artificial"
+→ [Experimento 25 (1:07:40)](https://youtu.be/p-93qXOPrDk?t=4060)
+
+El dato cierra el bucle de la tesis nuclear: si la IA es vehículo de homogeneización cultural y el control no reside en la máquina sino en quien la diseña, el caso del corpus académico muestra el mecanismo en acto sobre la institución que en principio debía servir como filtro de calidad. La revisión por pares — diseñada para una escala humana de producción — colapsa funcionalmente cuando el coste marginal de generar texto plausible cae a cero.
+
+El paralelismo con la mecánica de [[consumismo-critica|colapso del contenido original]] es directo: la abundancia de copias indistinguibles eclipsa al contenido genuino no por inferioridad sino por volumen. Y el problema no es 'culpa de la IA' sino de la infraestructura institucional y comercial que la integra sin recalibrar sus filtros de validación — lo cual confirma que el problema es **moral y de logística cultural**, no técnico.
+
+## Predicción clínica para BCIs: la psicosis como consecuencia previsible
+
+En el directo *Fantasía Cero* (13-sept-2024) el canal añade una predicción clínica precisa que extiende la tesis nuclear de mente-no-máquina al horizonte de las interfaces cerebro-máquina (BCIs):
+
+> "La consecuencia nefasta más predecible de una interfaz cerebro-máquina sería la psicosis"
+→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)
+
+> "No existen prótesis sustitutivas del cerebro, solo prostéticos corticales de sobreestimulación"
+→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)
+
+> "Sustituir partes del cuerpo sin tocar el cerebro no afectaría la humanidad de la persona, aunque podría generar problemas"
+→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)
+
+> "El problema derivado de conectar cerebro a máquina sería psicótico, no neurótico"
+→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)
+
+### La distinción operativa psicótico / neurótico
+
+La precisión es clínicamente relevante: las patologías neuróticas operan dentro de un marco de realidad compartido (ansiedad, fobia, obsesión sobre objetos del mundo); las psicóticas implican **ruptura del marco mismo** — desconexión con la realidad. Si la mente humana se entiende como red distribuida en continua resíntesis (anti-localismo, plasticidad, redes representacionales sin almacén fijo) y no como sistema computacional con direcciones fijas, conectarla a una máquina que sí opera con direcciones fijas no produce un fallo de contenido (neurosis) sino un fallo de **estructura representacional** (psicosis): el cerebro no puede integrar coherentemente representaciones generadas por una arquitectura cuya gramática es ajena a la suya.
+
+La observación complementaria — no existen prótesis sustitutivas del cerebro, solo prostéticos corticales de sobreestimulación — refuerza la tesis: ninguna BCI actual o previsible reemplaza función cognitiva, todas operan amplificando o sustituyendo input sensorial. Cuanto mayor la integración técnica, mayor el riesgo de saturación que el cerebro no puede regular vía mecanismos endógenos.
+
+La predicción cierra coherentemente el marco IA/cognición de la página: si la IA singular sería paradójicamente lo más opuesto al cerebro humano (porque el cerebro es falible y la máquina no), la BCI sería el caso clínico de esa oposición forzada a coexistir en un único sustrato — y el resultado predicho es estructuralmente psicótico.
+
 ## Lagunas
 
 - **Sustento empírico de la tríada representacional**: el speaker articula imaginaria/formal/afectiva como categorías operativas pero no detalla qué evidencia neurocientífica concreta (estudios BOLD, dobles disociaciones, imagen funcional) sustentaría la tripartición frente a alternativas.

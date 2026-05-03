@@ -68,6 +68,78 @@ Esta acotación es crítica: el canal no necesita comprometerse con una ontolog�
 > "El objetivo principal es distinguir entre materialismo y realismo cognitivo,"
 → [4x03 Directo experimental. 8 horas de estudio (03:10)](https://youtu.be/sVLpdolZZUE?t=190)
 
+## Argumento anti-materialista (paradoja de Kripke + hard problem) y absorción de M3 en M2
+
+El directo *Galatea, Materialismo ontológico y realismo cognitivo* (11-jun-2025) refuerza el posicionamiento del marco frente al materialismo de Bueno con dos piezas técnicas adicionales que cierran el flanco anti-materialista del realismo cognitivo.
+
+### Paradoja de Kripke: experiencias internas no reproducibles físicamente
+
+> "Existen experiencias internas (como la sensación del rojo o el terror) que no se pueden reproducir con objetos físicos"
+→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)
+
+> "Se puede provocar terror en otro, pero no crear terror fuera de una mente; se puede representar el rojo, pero no la experiencia del rojo"
+→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)
+
+> "Hay una parte del pensamiento que escapa a lo físico-material, lo que plantea un problema para el materialismo"
+→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)
+
+La paradoja, articulada por el canal a partir del argumento de Kripke contra el fisicalismo, opera como sustento empírico de la posición no-materialista del marco: si el qualia (rojo, terror) no es construible mediante composición de objetos físicos, entonces la mente no es reducible a M1.
+
+### El hard problem como problema irresoluble para el materialismo
+
+> "Empíricamente no se puede afirmar que la conciencia sea físico-material; suponemos que lo es pero no sabemos cómo ni por qué (hard problem)"
+→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)
+
+> "Si la conciencia surge de los átomos, hay que explicar por qué algunos átomos la generan y otros no"
+→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)
+
+> "Decir que los átomos del cerebro producen experiencia subjetiva es presuponer lo que hay que demostrar"
+→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)
+
+> "El pampsiquismo surge como consecuencia lógica de atribuir conciencia a la materia sin criterio de demarcación"
+→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)
+
+La pieza es estructuralmente importante: el hard problem (Chalmers) no es solo dificultad técnica sino marca del límite categorial del materialismo. Sin criterio de demarcación que diga qué átomos generan conciencia y cuáles no, el materialismo deviene tautológico (asume lo que debería explicar) o pampsiquista (atribuye conciencia a toda la materia, lo que disuelve la categoría). El realismo cognitivo evita ambos riesgos al no reducir la mente a la materia y operar como axiomática de clases noéticas.
+
+Las tres teorías académicas dominantes sobre el hard problem (Global Workspace, Higher Order Theory, Información Integrada/IIT) se mencionan como propuestas empíricas del emergentismo, que el canal identifica como intento de salvar el explanatory gap sin eliminarlo:
+
+> "El emergentismo dice que la conciencia es un resultado mayor que la suma de sus partes, pero no explica el mecanismo"
+→ [Galatea (2:27:22)](https://youtu.be/TZTiSfm6syI?t=8842)
+
+### Tercer colapso del marco: M3 absorbido en M2
+
+Un corolario operativo añade un tercer colapso a los ya documentados (epistemología=gnoseología, hermenéutica=semiótica): en realismo cognitivo, M3 (relaciones, matemáticas) no es género independiente de materialidad sino constructo de M2 (psique).
+
+> "Solo existen dos dimensiones: la realidad y el pensamiento como parte de la realidad"
+→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)
+
+> "M3 (relaciones) queda absorbido en M2 (psique) porque toda relación es construcción mental; las matemáticas no están \"ahí fuera\""
+→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)
+
+La tesis es paralela a los otros colapsos del marco: si toda relación opera vía clases noéticas (axiomática de relaciones isológicas/sinalógicas), no hay género de materialidad relacional independiente — las matemáticas son operación cognitiva sobre clases formales (Q-sub-F), no entidades platónicas en un tercer plano de realidad. La consecuencia metodológica: el realismo cognitivo opera con dos planos (realidad y representación cocausados) sin necesidad de la tripartición buenista M1/M2/M3.
+
+### Conciencia como simulación representacional + motor SAL
+
+La tesis positiva que sustituye al materialismo en el marco:
+
+> "La conciencia es una simulación de la realidad diseñada para procesar el entorno y relacionarnos con él"
+→ [Galatea (1:30:22)](https://youtu.be/TZTiSfm6syI?t=5422)
+
+> "Todas las relaciones con la realidad están codificadas internamente como representaciones"
+→ [Galatea (1:30:22)](https://youtu.be/TZTiSfm6syI?t=5422)
+
+El motor concreto que articula esta simulación es el ciclo SAL (Unlimited Associative Learning):
+
+> "El motor del pensamiento es Unlimited Associative Learning (SAL): ciclo representación → síntesis → inhibición"
+→ [Galatea (1:35:25)](https://youtu.be/TZTiSfm6syI?t=5725)
+
+> "Solo 12 bits por segundo del pensamiento son conscientes; todo lo demás es inconsciente"
+→ [Galatea (1:35:25)](https://youtu.be/TZTiSfm6syI?t=5725)
+
+El ciclo SAL articula operativamente la primera axiomática del marco (toda clase es transitoria): cada representación se ensambla, se inhibe la anterior, se sintetiza la siguiente, sin almacén estable. La cifra de 12 bits conscientes (el resto del procesamiento es inconsciente) precisa el cuello de botella cognitivo ya documentado en otros vídeos del corpus.
+
+La articulación operativa completa de este motor — clases primarias, álgebra de operaciones, vectores en notación bracket — es el modelo Galatea (ver [[galatea-modelo-protomente]] cuando se promueva). El realismo cognitivo es el sustrato epistemológico; Galatea es su articulación formal-computacional.
+
 ## Ontología, fenomenología y gnoseología
 
 Dentro del realismo cognitivo el canal articula una arquitectura tripartita: la cosa (ontología), su aparición a la mente (fenomenología) y la teoría de cómo se conoce (gnoseología o epistemología). El conocer no es acceso directo a la cosa: es **traducción fenomenológica** mediada por la gramática mental.
@@ -117,6 +189,74 @@ Este movimiento es clave: el realismo cognitivo asume el límite sin convertirlo
 - Sostiene la lectura cognitiva de [[golem-de-cobre]]: la mente humana tiene gramática propia distinta de la replicación computacional, lo que solo es articulable desde un realismo no reduccionista.
 - Marca distancia con [[bueno-gustavo]] sin renunciar a la sistematicidad — el canal toma de Bueno la exigencia de rigor pero rechaza su ontología general.
 - Define una postura crítica hacia el psicoanálisis clásico ([[freud-sigmund]]) cuando este describe la psique mediante metáforas trasladadas desde otros ámbitos sin justificar la conexión con la realidad mental.
+
+## Posicionamiento en el mapa filosófico
+
+El directo *Filosofía para dummies* (06-nov-2024) sitúa al realismo cognitivo dentro de un mapa metafilosófico explícito de tres sistemas y precisa varias diferencias estructurales frente a sus alternativas.
+
+### Tres sistemas filosóficos: dónde se ubica el realismo cognitivo
+
+> "El materialismo filosófico (Gustavo Bueno) define la filosofía como sistema de categorías sobre la materia"
+→ [Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)
+
+> "El idealismo dice que el objeto de la filosofía son las ideas, porque solo podemos aproximarnos con ideas"
+→ [Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)
+
+> "El realismo dice que el objeto son los procesos (físico-materiales) y los fenómenos (internos), cocausados entre sí"
+→ [Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)
+
+La clave operativa de la posición realista es la **cocausación**: ni los procesos materiales ni los fenómenos internos son derivables unos de los otros — se constituyen mutuamente. Esto distingue al realismo cognitivo del materialismo (que privilegia la materia) y del idealismo (que privilegia las ideas).
+
+### Refutación del mito del paso del mitos al logos
+
+Una pieza foundational del marco es la negación de la narrativa progresista mitos→logos:
+
+> "El realismo cognitivo muestra que nunca hubo un abandono del mitos para pasar al logos"
+→ [Filosofía para dummies (13:05)](https://youtu.be/JVEsIdv6emI?t=785)
+
+> "El logos ha existido siempre; lo que cambió fue su objeto, no su naturaleza"
+→ [Filosofía para dummies (13:05)](https://youtu.be/JVEsIdv6emI?t=785)
+
+> "La democracia, la mente y el alma son ejemplos de mitos vigentes hoy"
+→ [Filosofía para dummies (13:05)](https://youtu.be/JVEsIdv6emI?t=785)
+
+La consecuencia para el marco: la filosofía no es derivada de la religión por evolución epistémica sino **modificación de la teosofía por desplazamiento del objeto**. Cuando el objeto deja de ser el teos y pasa a ser la materia (o el fenómeno), nace propiamente la filosofía — sin que la dimensión mítica se haya extinguido.
+
+### Platón como realista de las ideas, no idealista moderno
+
+El posicionamiento del realismo cognitivo se ancla en una corrección genealógica precisa sobre Platón:
+
+> "Platón afirmaba la existencia de una realidad objetiva (el mundo eidético), lo que lo hace estrictamente un realista de las ideas"
+→ [Filosofía para dummies (53:15)](https://youtu.be/JVEsIdv6emI?t=3195)
+
+> "Llamar idealista a Platón induce el error de equipararlo con los filósofos modernos"
+→ [Filosofía para dummies (53:15)](https://youtu.be/JVEsIdv6emI?t=3195)
+
+La precisión es estratégica: el realismo cognitivo no es heredero del idealismo trascendental moderno (Kant, Hegel) sino del realismo platónico desplazado al plano cognitivo — hay realidades a las que la mente accede, no construye libremente.
+
+### Coherencia y completitud como pretensiones operativas de la mente
+
+La propiedad estructural de la mente que el realismo cognitivo asume:
+
+> "La mente humana tiende a la coherencia (evitar incoherencias) y la completitud (entender la mayor cantidad de cosas posibles)"
+→ [Filosofía para dummies (35:33)](https://youtu.be/JVEsIdv6emI?t=2133)
+
+Las dos pretensiones son operacionales: la coherencia evita la disonancia interna entre representaciones; la completitud expande el dominio cubierto por el sistema representacional. Ambas operan dentro de los límites de la economía energética del cerebro y configuran el horizonte normativo de la cognición sana.
+
+### Colapsos en realismo cognitivo: epistemología = gnoseología; hermenéutica = semiótica
+
+Dos consecuencias específicas del marco que lo distinguen operativamente de los seis campos filosóficos clásicos:
+
+> "En el realismo cognitivista, epistemología y gnoseología no tienen sentido distintivo: toda epistemología es gnoseológica"
+→ [Filosofía para dummies (1:34:15)](https://youtu.be/JVEsIdv6emI?t=5655)
+
+> "En el realismo cognitivista la hermenéutica se reduce a semiótica (teoría de la significación)"
+→ [Filosofía para dummies (1:55:24)](https://youtu.be/JVEsIdv6emI?t=6924)
+
+> "No existe proceso hermenéutico en el realismo cognitivista porque todo contexto es noético"
+→ [Filosofía para dummies (1:55:24)](https://youtu.be/JVEsIdv6emI?t=6924)
+
+Los colapsos son consecuencia directa del marco: si la mente opera con clases noéticas que se modifican continuamente (axiomática de clases) y todo contexto interpretativo está él mismo hecho de noesis, entonces (a) no hay diferencia operativa entre 'cómo la cosa exterior se vuelve idea' (epistemología) y 'cómo opera el conocer' (gnoseología) — el primer proceso ya es el segundo, y (b) la interpretación contextual (hermenéutica) es solo un caso de operación significativa con signos (semiótica). El marco simplifica el armazón filosófico clásico al absorber distinciones que solo tienen sentido en arquitecturas duales sujeto/objeto.
 
 ## La axiomática de clases: el método del realismo cognitivo
 
@@ -280,6 +420,64 @@ La consecuencia última del marco es que la gnoseología no es descriptiva sino 
 La última cita cierra el bucle del marco: el sujeto operatorio elabora la realidad noética (M2 en términos buenistas, la matriz N en términos de [[teoria-del-simbolo-en-proxy]]); esa elaboración no agota la realidad física pero pone en contacto con regiones de ella previamente inaccesibles. Es la versión del realismo cognitivo de la hiperrealidad de Bueno: la realidad como proceso, no como totalidad acabada.
 
 
+## Axiomática de relaciones: extensión del método a las relaciones noéticas
+
+En diálogo con Dani Elcon, que aborda la misma pregunta desde el [[bueno-gustavo|materialismo filosófico]], el canal extiende su axiomática de clases a una **axiomática de relaciones**. La pieza completa el método del realismo cognitivo: si las clases son los átomos representacionales, las relaciones son las operaciones que los enlazan — y deben tipificarse según naturaleza imaginaria, formal o procedimental, paralela a los tres Q.
+
+> "Dani Elcon intenta definir qué es una relación desde el materialismo filosófico; Proxy busca lo mismo desde el realismo cognitivo"
+→ [Experimento 25 (1:26:27)](https://youtu.be/Bn-I6p-AyXc?t=5187)
+
+### Isológicas / sinalógicas como bipartición primaria
+
+La primera distinción del canal recoge la terminología buenista (isológicas / sinalógicas) y la reasigna a los registros de la matriz noética:
+
+> "Las relaciones isológicas (esenciales, lógicas) corresponderían al ámbito formal abstracto, las sinalógicas (conexiones, interacciones) al ámbito afectivo o imaginario"
+→ [Experimento 25 (1:26:27)](https://youtu.be/Bn-I6p-AyXc?t=5187)
+
+Las isológicas son relaciones que la mente reconoce como necesariamente verdaderas dada su gramática (identidad, equivalencia, pertenencia a clase); las sinalógicas son relaciones contingentes que se constatan por interacción (dos cosas se atraen, se rozan, se siguen). La distinción no es ontológica sino del registro representacional en que se opera.
+
+### Tipología por componente noética
+
+Dentro de las sinalógicas el canal subdivide según qué componente Q soporta la relación:
+
+> "Causalidad, contigüidad y continuidad son aspectos procedimentales (memoria procedimental), mientras semejanza y clase son relaciones imaginarias formalizables"
+→ [Experimento 25 (1:26:27)](https://youtu.be/Bn-I6p-AyXc?t=5187)
+
+La tabla operativa que se desprende:
+
+| Tipo | Componente Q | Ejemplos |
+|---|---|---|
+| Isológica formal | gramatical | identidad, pertenencia a clase, equivalencia |
+| Sinalógica procedimental | afectivo-procedimental | causalidad, contigüidad, continuidad temporal |
+| Sinalógica imaginaria | imagen | semejanza, vecindad espacial, clase visual |
+
+La pieza es operativamente importante: muestra que el realismo cognitivo no necesita una ontología buenista para distinguir tipos de relaciones — basta articular qué componente Q soporta cada relación, y la tipología emerge del propio método sin postular géneros de materialidad. Es la respuesta directa del marco al desafío que el materialismo filosófico le plantea: ¿puedes hablar de relaciones reales sin ego trascendental? Sí, vía la tripartición Q ya axiomatizada en clases.
+
+## Genealogía aristotélico-buenista de la categoría 'relación' y la notación QsubF
+
+El directo paralelo (15-ene-2025) sitúa la axiomática de relaciones del realismo cognitivo en su genealogía filosófica explícita y formaliza la notación de la componente formal:
+
+### De la cuarta categoría aristotélica al sistema buenista de relaciones
+
+> "En la tradición escolástica las relaciones eran la cuarta categoría aristotélica, un ente accidental referido a otras sustancias"
+→ [Experimento 25 (1:26:27)](https://youtu.be/p-93qXOPrDk?t=5187)
+
+> "En el materialismo filosófico, ni sustancias ni accidentes son lógicamente independientes: los términos se constituyen trascendentalmente en su sistema de relaciones"
+→ [Experimento 25 (1:26:27)](https://youtu.be/p-93qXOPrDk?t=5187)
+
+La genealogía es importante para el marco: la relación pasa de ser **accidente referido a sustancia** (Aristóteles, escolástica) a ser **constituyente trascendental del término mismo** ([[bueno-gustavo|materialismo filosófico]]). El realismo cognitivo hereda este movimiento y lo desplaza a la mente: las clases noéticas no son sustancias atomicas a las que las relaciones se aplican externamente — están ya constituidas por sus relaciones isológicas y sinalógicas dentro de la matriz N.
+
+### La notación QsubF: formal puro como subdominio de los tres Q
+
+Las relaciones isológicas se formalizan como **QsubF** (Q sub-índice F = componente formal), término que el canal introduce para precisar el ámbito:
+
+> "Las relaciones isológicas corresponden al ámbito abstracto formal (QsubF): son únicamente relaciones"
+→ [Experimento 25 (1:31:31)](https://youtu.be/p-93qXOPrDk?t=5491)
+
+La notación es operativa: identifica las relaciones isológicas como el subconjunto del componente Q-formal que opera sin contenido afectivo ni imaginario — relaciones puras (identidad, equivalencia, pertenencia a clase). Las sinalógicas, en cambio, viven en QsubA (afectivo-procedimental) o QsubI (imaginario), donde la relación porta contenido material.
+
+La formalización cierra una pieza que en la sección anterior quedaba implícita: dentro del marco Q, no toda relación tiene la misma naturaleza ontológica — las relaciones puramente formales constituyen un subdominio operacionalmente distinto del de las relaciones que portan afectos o imágenes.
+
 ## Confirmación empírica: el aprendizaje léxico en bebés y la primacía de la función sintáctica
 
 En el directo *Del Papa y del Problema del Mal* (24 abril 2025) el canal cita un estudio empírico como **confirmación predictiva** del realismo cognitivo: a los 15 meses los infantes deducen significados de palabras sin que el objeto referido sea visible. La predicción del marco se enuncia con precisión: las inferencias cerebrales operan con representaciones procedimentales que no dependen del imaginario visual.
@@ -360,9 +558,15 @@ En el mismo directo, el canal añade una posición frente al conductismo que cie
 
 
 
+
+
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
 - **Del Papa y del Problema del Mal** — chunks: [42:25](https://youtu.be/0KkMrcmw8Fw?t=2545)
+- **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
+- **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
+- **Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke y Gustavo Bueno** — chunks: [49:21](https://youtu.be/TZTiSfm6syI?t=2961) · [1:17:23](https://youtu.be/TZTiSfm6syI?t=4643)
 

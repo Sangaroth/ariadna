@@ -123,6 +123,20 @@ Esta función estructural lo conecta con la dinámica del héroe que extiende el
 
 En esta clave, vencer al dragón equivale a colonizar simbólicamente un fragmento del caos — convertir lo increado en orden comprensible. El dragón es el límite móvil del yo, no un enemigo cualquiera.
 
+
+## El dragón como concupiscencia y pasiones bajo la tierra
+
+La lectura del mito artúrico añade una dimensión psicológica precisa al arquetipo: el dragón no es solo caos primigenio externo sino la personificación del pecado interior — las pasiones que el yo no domina y que pueden someterlo desde abajo.
+
+> "Merlín instruye a Arturo sobre el dragón: todo lo que hay en el reino está en potencia dominado por las pasiones que habitan bajo la tierra"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (47:32)](https://youtu.be/K082yiudh-g?t=2852)
+
+> "Los dragones echan fuego porque son los monstruos que someten al hombre a la vileza de sus emociones"
+→ [Excalibur, El Señor de los Anillos, y el mito Católico. (47:32)](https://youtu.be/K082yiudh-g?t=2852)
+
+El fuego del dragón se lee así no como atributo decorativo sino como signo arquetípico preciso: lo que arde y consume desde lo telúrico es la concupiscencia. La sabiduría del mago (Merlín, Gandalf) opera entonces como lo que pone al héroe "en contacto controlado con su propio conocimiento del pecado en lugar de ser dominado por él" — vencer al dragón es disciplinar la propia vida interior, no solo colonizar caos exterior.
+
+
 ## Oscuridad increada y luz como conciencia
 
 El canal sitúa al dragón en el polo opuesto a la conciencia:
@@ -155,7 +169,9 @@ Esto enmarca al dragón dentro de la articulación más amplia del [[genesis-mit
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [43:43](https://youtu.be/JmCqIk6NDsM?t=2623)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [20:26](https://youtu.be/s6teBboDDJ4?t=1226)
 - **Tolkien y los dragones** — chunks: [0:31](https://youtu.be/O-kzVFngjAQ?t=31) · [2:40](https://youtu.be/O-kzVFngjAQ?t=160) · [3:11](https://youtu.be/O-kzVFngjAQ?t=191) · [8:45](https://youtu.be/O-kzVFngjAQ?t=525) · [10:49](https://youtu.be/O-kzVFngjAQ?t=649) · [13:50](https://youtu.be/O-kzVFngjAQ?t=830) · [17:51](https://youtu.be/O-kzVFngjAQ?t=1071) · [20:23](https://youtu.be/O-kzVFngjAQ?t=1223) · [21:54](https://youtu.be/O-kzVFngjAQ?t=1314) · [27:58](https://youtu.be/O-kzVFngjAQ?t=1678) · [36:35](https://youtu.be/O-kzVFngjAQ?t=2195) · [39:08](https://youtu.be/O-kzVFngjAQ?t=2348) · [47:32](https://youtu.be/O-kzVFngjAQ?t=2852) · [52:36](https://youtu.be/O-kzVFngjAQ?t=3156) · [54:07](https://youtu.be/O-kzVFngjAQ?t=3247) · [57:43](https://youtu.be/O-kzVFngjAQ?t=3463) · [1:00:15](https://youtu.be/O-kzVFngjAQ?t=3615) · [1:16:29](https://youtu.be/O-kzVFngjAQ?t=4589) · [1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)
+- **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [47:32](https://youtu.be/K082yiudh-g?t=2852) · [1:48:26](https://youtu.be/K082yiudh-g?t=6506)
 

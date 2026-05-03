@@ -129,5 +129,7 @@ La propaganda del vínculo prefabricado y los vínculos parasociales en redes re
 ## Citations
 
 
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
+- **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 

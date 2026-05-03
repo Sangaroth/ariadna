@@ -1,0 +1,521 @@
+{
+  "video_id": "JVEsIdv6emI",
+  "video_title": "Filosofía para dummies. Porqué se llama Teoría de la Mente",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "géneros literarios como activadores de afectos específicos",
+      "canonical_guess": "generos-literarios-y-afectos",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El terror activa el miedo, el drama activa el pánico, el porno activa el deseo"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El romance activa el cuidado y el vínculo (apego), la fantasía activa el juego y el mysterium fascinans"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La fantasía literaria es transcultural y evidentemente instintiva, no cultural"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 channel-canonical + framing-mark: el canal articula una clasificación operativa de géneros literarios por afecto activado (terror→miedo, drama→pánico, porno→deseo, romance→apego, fantasía→juego+mysterium fascinans). Es marco aplicado transversalmente al análisis de obra del canal — conecta con horror-cosmico (terror), fight-club (drama/pánico), Tarzán/Cenicienta (romance/apego), Lovecraft/Tolkien (fantasía). El framework es canal-canónico con la genealogía declarada (Jung como primer estudioso de la fantasía como tal, Freud con fallo epistémico). Brief en este vídeo (~5 min) pero operacionalmente importante para la economía analítica del canal",
+      "quote_evidence": "Jung fue el primero en estudiar la fantasía en tanto tal; Freud la tocaba pero tenía un fallo epistémico"
+    },
+    {
+      "surface_form": "Platón como realista de las ideas (no idealista moderno)",
+      "canonical_guess": "platon-realista-ideas",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Platón afirmaba la existencia de una realidad objetiva (el mundo eidético), lo que lo hace estrictamente un realista de las ideas"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Platón figura en canonical_whitelist soft (auto_promote: false). El bloque aquí es articulación corta (~4 min) sobre cómo categorizar a Platón filosóficamente — no análisis sustantivo del pensamiento platónico ni tratamiento monográfico. Material se subsume en realismo-cognitivo via pending_update (la posición 'Platón como realista de las ideas' ancla el realismo cognitivo en una genealogía no-idealista) y en la futura teoria-de-la-mente-en-proxy como pieza del mapa filosófico. Si el canal hace análisis dedicado de Platón en otro vídeo (caverna, diálogos, Timeo), candidato a página propia",
+      "quote_evidence": "Llamar idealista a Platón induce el error de equipararlo con los filósofos modernos",
+      "review_priority": "medium",
+      "review_priority_reason": "figura whitelist soft con caracterización propia del canal. Si reaparece en análisis dedicado, candidato a página de autor",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "el mito del paso del mitos al logos (refutación)",
+      "canonical_guess": "mito-paso-mitos-logos-refutado",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El realismo cognitivo muestra que nunca hubo un abandono del mitos para pasar al logos"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El logos ha existido siempre; lo que cambió fue su objeto, no su naturaleza"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tesis fundacional del canal sobre la falsedad de la narrativa progresista mitos→logos. Pieza foundational que sustenta múltiples análisis del corpus (mitologia-propia-impropia, mito-moderno-en-proxy, lectura católico-luterana). Brief aquí (~6 min) pero conceptualmente importante. Material se subsume en realismo-cognitivo via pending_update y enriquece mitologia-propia-impropia (la 'democracia, mente y alma como mitos vigentes hoy' refuerza el caso de mitología impropia). No merece página propia con este nivel de desarrollo — mejor pieza interna",
+      "quote_evidence": "La democracia, la mente y el alma son ejemplos de mitos vigentes hoy",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis foundational del canal con potencial de reuso en muchos análisis. Si recibe tratamiento monográfico en otro vídeo, candidata a concept page",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "mysterium fascinans (Rudolf Otto)",
+      "canonical_guess": "mysterium-fascinans",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "concepto académico estándar (Rudolf Otto, Das Heilige) que el canal usa como marco aplicado para clasificar la fantasía y la mística. Brief aquí (~3 min) y subsumido en géneros-literarios-y-afectos. Si el canal lo desarrolla con marco propio en análisis dedicado, candidato a página propia",
+      "quote_evidence": "El mysterium fascinans (Rudolf Otto) es la sensación de asombro ante lo nuevo y desconocido",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "generos-literarios-y-afectos"
+    },
+    {
+      "surface_form": "Rudolf Otto",
+      "canonical_guess": "otto-rudolf",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "mencionado solo como autor del mysterium fascinans, sin tratamiento sustantivo de su pensamiento. Material se subsume en géneros-literarios-y-afectos",
+      "quote_evidence": "El mysterium fascinans (Rudolf Otto)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "generos-literarios-y-afectos"
+    },
+    {
+      "surface_form": "tres sistemas filosóficos (materialismo / idealismo / realismo)",
+      "canonical_guess": "tres-sistemas-filosoficos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "taxonomía interna del mapa filosófico del canal — pieza estructural de la synthesis teoria-de-la-mente-en-proxy. Promover página propia fragmentaría el mapa coherente que el canal articula. Subsumida en thesis_candidate",
+      "quote_evidence": "El materialismo filosófico (Gustavo Bueno) define la filosofía como sistema de categorías sobre la materia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-mente-en-proxy"
+    },
+    {
+      "surface_form": "seis campos filosóficos relevantes a la teoría de la mente",
+      "canonical_guess": "seis-campos-filosoficos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 70,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el armazón de seis campos (ontología/gnoseología/fenomenología/epistemología/noesis/hermenéutica) ES la estructura central de la synthesis teoria-de-la-mente-en-proxy. Pieza interna del thesis_candidate, no objeto autónomo",
+      "quote_evidence": "Ontología, gnoseología, fenomenología, epistemología, noesis y hermenéutica",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-mente-en-proxy"
+    },
+    {
+      "surface_form": "idealismo trascendental vs no trascendental",
+      "canonical_guess": "idealismo-trascendental-no-trascendental",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "subdivisión interna del sistema idealista — pieza del mapa filosófico de la synthesis. Subsumida en teoria-de-la-mente-en-proxy",
+      "quote_evidence": "El idealismo trascendental postula que las ideas sobrepasan la materia y el pensamiento es perfecto",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-mente-en-proxy"
+    },
+    {
+      "surface_form": "ser humano como ser social: necesidad de comunicar (no solo recibir)",
+      "canonical_guess": "humano-social-comunicador",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El ser humano no es social solo porque necesite recibir afecto y seguridad; esa es una parte pequeña"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "refinamiento operativo sobre la sociabilidad humana (incluye la necesidad de SER actor de la atención y la comunicación, no solo receptor). Brief aquí, conecta con consumismo-critica (mecánica del mercado afectivo digital donde la oferta de receptores sin emisores se vuelve patológica) y con experimento-universo-25 (el drenaje conductual surge cuando no hay roles para todos). No merece página propia",
+      "quote_evidence": "El humano necesita ser actor de la atención y de la comunicación, no solo receptor",
+      "review_priority": "medium",
+      "review_priority_reason": "refinamiento sobre sociabilidad humana con potencial de conexión cross-página. Si reaparece desarrollado, podría merecer página o subsección",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "definición de mito (discurso que prescinde de causa-consecuencia)",
+      "canonical_guess": "definicion-mito",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "definición operativa del canal sobre qué es un mito. Subsumida en mitologia-propia-impropia y en la synthesis teoria-de-la-mente-en-proxy",
+      "quote_evidence": "Un mito es un discurso sobre un fenómeno que prescinde de la relación causa-consecuencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "crítica a los términos poéticos del materialismo filosófico",
+      "canonical_guess": "critica-terminos-poeticos-bueno",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "crítica al lenguaje del materialismo filosófico (paso al límite, cierre categorial como términos metafóricos). Material se subsume en bueno-gustavo via pending_update. Conecta con la posición del realismo cognitivo de no necesitar ontología totalizadora",
+      "quote_evidence": "Crítica al materialismo: está lleno de términos poéticos (paso al límite, cierre categorial) que son metafóricos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## La axiomática de clases: el método del realismo cognitivo",
+      "section_target": "",
+      "content_proposed": "## Posicionamiento en el mapa filosófico\n\nEl directo *Filosofía para dummies* (06-nov-2024) sitúa al realismo cognitivo dentro de un mapa metafilosófico explícito de tres sistemas y precisa varias diferencias estructurales frente a sus alternativas.\n\n### Tres sistemas filosóficos: dónde se ubica el realismo cognitivo\n\n> \"El materialismo filosófico (Gustavo Bueno) define la filosofía como sistema de categorías sobre la materia\"\n→ [Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)\n\n> \"El idealismo dice que el objeto de la filosofía son las ideas, porque solo podemos aproximarnos con ideas\"\n→ [Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)\n\n> \"El realismo dice que el objeto son los procesos (físico-materiales) y los fenómenos (internos), cocausados entre sí\"\n→ [Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)\n\nLa clave operativa de la posición realista es la **cocausación**: ni los procesos materiales ni los fenómenos internos son derivables unos de los otros — se constituyen mutuamente. Esto distingue al realismo cognitivo del materialismo (que privilegia la materia) y del idealismo (que privilegia las ideas).\n\n### Refutación del mito del paso del mitos al logos\n\nUna pieza foundational del marco es la negación de la narrativa progresista mitos→logos:\n\n> \"El realismo cognitivo muestra que nunca hubo un abandono del mitos para pasar al logos\"\n→ [Filosofía para dummies (13:05)](https://youtu.be/JVEsIdv6emI?t=785)\n\n> \"El logos ha existido siempre; lo que cambió fue su objeto, no su naturaleza\"\n→ [Filosofía para dummies (13:05)](https://youtu.be/JVEsIdv6emI?t=785)\n\n> \"La democracia, la mente y el alma son ejemplos de mitos vigentes hoy\"\n→ [Filosofía para dummies (13:05)](https://youtu.be/JVEsIdv6emI?t=785)\n\nLa consecuencia para el marco: la filosofía no es derivada de la religión por evolución epistémica sino **modificación de la teosofía por desplazamiento del objeto**. Cuando el objeto deja de ser el teos y pasa a ser la materia (o el fenómeno), nace propiamente la filosofía — sin que la dimensión mítica se haya extinguido.\n\n### Platón como realista de las ideas, no idealista moderno\n\nEl posicionamiento del realismo cognitivo se ancla en una corrección genealógica precisa sobre Platón:\n\n> \"Platón afirmaba la existencia de una realidad objetiva (el mundo eidético), lo que lo hace estrictamente un realista de las ideas\"\n→ [Filosofía para dummies (53:15)](https://youtu.be/JVEsIdv6emI?t=3195)\n\n> \"Llamar idealista a Platón induce el error de equipararlo con los filósofos modernos\"\n→ [Filosofía para dummies (53:15)](https://youtu.be/JVEsIdv6emI?t=3195)\n\nLa precisión es estratégica: el realismo cognitivo no es heredero del idealismo trascendental moderno (Kant, Hegel) sino del realismo platónico desplazado al plano cognitivo — hay realidades a las que la mente accede, no construye libremente.\n\n### Coherencia y completitud como pretensiones operativas de la mente\n\nLa propiedad estructural de la mente que el realismo cognitivo asume:\n\n> \"La mente humana tiende a la coherencia (evitar incoherencias) y la completitud (entender la mayor cantidad de cosas posibles)\"\n→ [Filosofía para dummies (35:33)](https://youtu.be/JVEsIdv6emI?t=2133)\n\nLas dos pretensiones son operacionales: la coherencia evita la disonancia interna entre representaciones; la completitud expande el dominio cubierto por el sistema representacional. Ambas operan dentro de los límites de la economía energética del cerebro y configuran el horizonte normativo de la cognición sana.\n\n### Colapsos en realismo cognitivo: epistemología = gnoseología; hermenéutica = semiótica\n\nDos consecuencias específicas del marco que lo distinguen operativamente de los seis campos filosóficos clásicos:\n\n> \"En el realismo cognitivista, epistemología y gnoseología no tienen sentido distintivo: toda epistemología es gnoseológica\"\n→ [Filosofía para dummies (1:34:15)](https://youtu.be/JVEsIdv6emI?t=5655)\n\n> \"En el realismo cognitivista la hermenéutica se reduce a semiótica (teoría de la significación)\"\n→ [Filosofía para dummies (1:55:24)](https://youtu.be/JVEsIdv6emI?t=6924)\n\n> \"No existe proceso hermenéutico en el realismo cognitivista porque todo contexto es noético\"\n→ [Filosofía para dummies (1:55:24)](https://youtu.be/JVEsIdv6emI?t=6924)\n\nLos colapsos son consecuencia directa del marco: si la mente opera con clases noéticas que se modifican continuamente (axiomática de clases) y todo contexto interpretativo está él mismo hecho de noesis, entonces (a) no hay diferencia operativa entre 'cómo la cosa exterior se vuelve idea' (epistemología) y 'cómo opera el conocer' (gnoseología) — el primer proceso ya es el segundo, y (b) la interpretación contextual (hermenéutica) es solo un caso de operación significativa con signos (semiótica). El marco simplifica el armazón filosófico clásico al absorber distinciones que solo tienen sentido en arquitecturas duales sujeto/objeto.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "JVEsIdv6emI",
+          "timestamp_seconds": 785,
+          "cite_markdown": "[Filosofía para dummies (13:05)](https://youtu.be/JVEsIdv6emI?t=785)"
+        },
+        {
+          "video_id": "JVEsIdv6emI",
+          "timestamp_seconds": 2133,
+          "cite_markdown": "[Filosofía para dummies (35:33)](https://youtu.be/JVEsIdv6emI?t=2133)"
+        },
+        {
+          "video_id": "JVEsIdv6emI",
+          "timestamp_seconds": 2529,
+          "cite_markdown": "[Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)"
+        },
+        {
+          "video_id": "JVEsIdv6emI",
+          "timestamp_seconds": 3195,
+          "cite_markdown": "[Filosofía para dummies (53:15)](https://youtu.be/JVEsIdv6emI?t=3195)"
+        },
+        {
+          "video_id": "JVEsIdv6emI",
+          "timestamp_seconds": 5655,
+          "cite_markdown": "[Filosofía para dummies (1:34:15)](https://youtu.be/JVEsIdv6emI?t=5655)"
+        },
+        {
+          "video_id": "JVEsIdv6emI",
+          "timestamp_seconds": 6924,
+          "cite_markdown": "[Filosofía para dummies (1:55:24)](https://youtu.be/JVEsIdv6emI?t=6924)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo en cinco vertientes: (a) posicionamiento explícito del realismo cognitivo en el mapa de tres sistemas filosóficos (materialismo/idealismo/realismo) — la página actual marca distancia con Bueno y Maturana pero no con el idealismo, (b) refutación del mito del paso mitos→logos como pieza foundational, (c) Platón como realista de las ideas (genealogía no idealista), (d) coherencia y completitud como pretensiones operativas, (e) los dos colapsos clave del marco (epistemología=gnoseología, hermenéutica=semiótica) que son consecuencias estructurales del modelo. Cubre parcialmente la laguna 'Falta tratamiento sustantivo de la relación con la filosofía de la mente anglosajona'",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "bueno-gustavo",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## Crítica del canal a los términos poéticos del materialismo\n\nEn el directo *Filosofía para dummies* (06-nov-2024) el canal articula una crítica específica al lenguaje del sistema buenista: aunque el materialismo filosófico se presenta como sistemática rigurosa de categorías, opera con vocabulario metafórico no totalmente reducible.\n\n> \"Las categorías son las unidades mínimas de aproximación filosófica\"\n→ [Filosofía para dummies (46:10)](https://youtu.be/JVEsIdv6emI?t=2770)\n\n> \"La filosofía materialista consiste en sistematizar categorías: ordenarlas, relacionarlas, dividirlas en campos\"\n→ [Filosofía para dummies (46:10)](https://youtu.be/JVEsIdv6emI?t=2770)\n\n> \"Crítica al materialismo: está lleno de términos poéticos (paso al límite, cierre categorial) que son metafóricos\"\n→ [Filosofía para dummies (46:10)](https://youtu.be/JVEsIdv6emI?t=2770)\n\nLa observación es operativamente importante para distinguir el materialismo filosófico del [[realismo-cognitivo]] que el canal articula: el materialismo aspira a precisión categorial pero retiene metáforas (paso al límite, cierre categorial, symploké) cuya carga poética no se reduce sin perder la operatividad del sistema. El realismo cognitivo no necesita ese repertorio metafórico porque su escala es la mente humana — basta articular la operación de las clases noéticas sin postular cierres categoriales generales.\n\nLa crítica no anula el aprovechamiento del aparato buenista (que el canal sigue usando como infraestructura ontológica para dialogar con tradiciones realistas y para anclar los tres géneros de materialidad), sino que precisa por qué el canal no se compromete totalmente con el sistema: la sistematicidad real exige despoetizar términos que en Bueno permanecen como bisagras metafóricas operativas pero conceptualmente opacas.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "JVEsIdv6emI",
+          "timestamp_seconds": 2770,
+          "cite_markdown": "[Filosofía para dummies (46:10)](https://youtu.be/JVEsIdv6emI?t=2770)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página actual articula la diferencia realismo-cognitivo / materialismo filosófico en términos de escala (mente humana vs ontología general), pero NO contiene la crítica específica al lenguaje metafórico del sistema buenista (paso al límite, cierre categorial). Refinamiento operativo de la posición del canal — no rechaza Bueno pero sí señala los términos poéticos como obstáculo a la pretendida precisión sistemática",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Teoría de la mente en Proxy: mapa metafilosófico (tres sistemas, seis campos, posicionamiento del realismo cognitivo)",
+      "proposed_page_id": "teoria-de-la-mente-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los seis campos filosóficos relevantes para la teoría de la mente"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El realismo cognitivo muestra que nunca hubo un abandono del mitos para pasar al logos"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El materialismo filosófico (Gustavo Bueno) define la filosofía como sistema de categorías sobre la materia"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "El directo nace de la parte del tercer libro de Proxy que está escribiendo sobre teoría de la mente"
+        }
+      ],
+      "framework_internal_structure": [
+        "Refutación del mito del paso del mitos al logos (el logos siempre existió, cambió el objeto)",
+        "La filosofía como modificación de la teosofía por desplazamiento de objeto (no derivación de la religión)",
+        "Definición de mito: discurso que prescinde de la relación causa-consecuencia",
+        "Tres sistemas filosóficos: materialismo (categorías sobre la materia), idealismo (objeto = ideas), realismo (objeto = procesos cocausados con fenómenos)",
+        "Idealismo trascendental (pensamiento perfecto sobrepasa materia) vs no trascendental (pensamiento imperfecto ante universo infinito)",
+        "Platón como realista de las ideas, no idealista moderno (realidad objetiva del mundo eidético)",
+        "Crítica del canal al materialismo de Bueno: términos poéticos (paso al límite, cierre categorial) como metáforas no reducibles",
+        "Seis campos filosóficos relevantes a la teoría de la mente: ontología, gnoseología, fenomenología, epistemología, noesis, hermenéutica",
+        "Ontología materialista: M1 (físico) / M2 (psíquico) / M3 (social) en symploké",
+        "Gnoseología: tres partes (exterior→interior, interior sobre sí mismo, adquisición del conocimiento)",
+        "Fenomenología: contenido de la experiencia interior; los idealismos son especialmente fenomenológicos aunque no lo reconozcan",
+        "Epistemología y gnoseología colapsadas en realismo cognitivo (toda epistemología es gnoseológica)",
+        "Noesis como 3Q (afectivo, imaginario, formal) — proceso continuo no interrumpido",
+        "Hermenéutica reducida a semiótica en realismo cognitivo (todo contexto es noético, no hay proceso hermenéutico genuino)",
+        "Coherencia y completitud como pretensiones operativas de la mente",
+        "Géneros literarios como activadores de afectos específicos (terror=miedo, drama=pánico, romance=apego, fantasía=mysterium fascinans)",
+        "Función biológica como horizonte normativo de la cognición (nacer/crecer/aprender/reproducirse/transmitir/morir)"
+      ],
+      "minutes_sustained": 130,
+      "domain_guess": "humanities.philosophy",
+      "related_existing_pages": [
+        "realismo-cognitivo",
+        "bueno-gustavo",
+        "golem-de-cobre",
+        "teoria-del-simbolo-en-proxy",
+        "mitologia-propia-impropia",
+        "collective-unconscious"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Cumple criterios scope.md §2.4.1 con 4 señales (internal_structure, declared_thesis, pedagogic_register, genealogical_self_reference — el speaker referencia su propio tercer libro como fuente del directo), minutes_sustained ≥30 (~130 min de los 138 totales), framework_internal_structure con 17 piezas. Gate técnicamente triggers auto-promote. Se mantiene requires_human_validation:true por arquitectura: la synthesis page propuesta solapa significativamente con realismo-cognitivo (que ya cubre el método y muchos colapsos del marco) y con bueno-gustavo (que cubre M1/M2/M3 y la distinción frente al canal). El humano debe arbitrar si (a) construir teoria-de-la-mente-en-proxy como hub metafilosófico distinto que organiza el mapa de tres sistemas + seis campos y la posición del canal, (b) absorber el material en realismo-cognitivo y dejar éste como hub, o (c) crear teoria-de-la-mente-en-proxy con scope estricto al mapa filosófico (taxonomías y posiciones) sin duplicar el método ya documentado en realismo-cognitivo. La opción (c) es la más coherente: el page sería el equivalente meta- a teoria-del-simbolo-en-proxy (cómo el canal sitúa su proyecto en el paisaje filosófico), distinto de realismo-cognitivo (cómo opera el método)"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Platón como realista de las ideas",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "figura whitelist soft sin tratamiento sustantivo aquí. Subsumida en realismo-cognitivo via pending_update como genealogía del marco",
+      "quote_evidence": "Platón afirmaba la existencia de una realidad objetiva (el mundo eidético), lo que lo hace estrictamente un realista de las ideas",
+      "review_priority": "medium",
+      "review_priority_reason": "figura whitelist soft con caracterización propia del canal; si el canal hace análisis dedicado de Platón en otro vídeo, candidato a página de autor",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "el mito del paso del mitos al logos (refutación)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "tesis foundational subsumida en realismo-cognitivo y, indirectamente, en mitologia-propia-impropia (la 'democracia, mente y alma como mitos vigentes' refuerza el caso de mitología impropia)",
+      "quote_evidence": "El logos ha existido siempre; lo que cambió fue su objeto, no su naturaleza",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis con potencial de página propia si recibe tratamiento monográfico",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "mysterium fascinans (Rudolf Otto)",
+      "reason_code": "passing_mention",
+      "reason_detail": "concepto académico estándar usado como marco aplicado para clasificar fantasía y mística. Subsumido en géneros-literarios-y-afectos via promote_new",
+      "quote_evidence": "El mysterium fascinans (Rudolf Otto) es la sensación de asombro ante lo nuevo y desconocido",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "generos-literarios-y-afectos"
+    },
+    {
+      "surface_form": "Rudolf Otto",
+      "reason_code": "passing_mention",
+      "reason_detail": "mencionado solo como autor del mysterium fascinans. Sin tratamiento sustantivo de su pensamiento",
+      "quote_evidence": "El mysterium fascinans (Rudolf Otto)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "generos-literarios-y-afectos"
+    },
+    {
+      "surface_form": "tres sistemas filosóficos (materialismo / idealismo / realismo)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "taxonomía interna del mapa filosófico — pieza estructural del thesis_candidate teoria-de-la-mente-en-proxy. Promover separadamente fragmentaría el mapa",
+      "quote_evidence": "El materialismo filosófico (Gustavo Bueno) define la filosofía como sistema de categorías sobre la materia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-mente-en-proxy"
+    },
+    {
+      "surface_form": "seis campos filosóficos (ontología/gnoseología/fenomenología/epistemología/noesis/hermenéutica)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "ES la estructura central de la synthesis teoria-de-la-mente-en-proxy. Pieza interna del thesis_candidate, no objeto autónomo",
+      "quote_evidence": "Ontología, gnoseología, fenomenología, epistemología, noesis y hermenéutica",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-mente-en-proxy"
+    },
+    {
+      "surface_form": "idealismo trascendental vs no trascendental",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "subdivisión interna del sistema idealista — pieza del mapa filosófico de la synthesis",
+      "quote_evidence": "El idealismo trascendental postula que las ideas sobrepasan la materia y el pensamiento es perfecto",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-mente-en-proxy"
+    },
+    {
+      "surface_form": "coherencia y completitud como pretensiones cognitivas",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "propiedad operativa del marco subsumida en realismo-cognitivo via pending_update",
+      "quote_evidence": "La mente humana tiende a la coherencia (evitar incoherencias) y la completitud (entender la mayor cantidad de cosas posibles)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "ser humano como ser social: necesidad de comunicar",
+      "reason_code": "passing_mention",
+      "reason_detail": "refinamiento sobre sociabilidad humana brief; conecta con experimento-universo-25 (drenaje conductual surge cuando no hay roles para todos = no hay para quién comunicar) y con consumismo-critica (mecánica del mercado afectivo digital). Sin desarrollo suficiente para página propia",
+      "quote_evidence": "El humano necesita ser actor de la atención y de la comunicación, no solo receptor",
+      "review_priority": "medium",
+      "review_priority_reason": "refinamiento foundational con potencial de conexión cross-página. Si reaparece desarrollado, podría merecer página o subsección",
+      "enriches_concept": "experimento-universo-25"
+    },
+    {
+      "surface_form": "definición de mito (discurso sin causa-consecuencia)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "definición operativa subsumida en mitologia-propia-impropia y en la synthesis teoria-de-la-mente-en-proxy",
+      "quote_evidence": "Un mito es un discurso sobre un fenómeno que prescinde de la relación causa-consecuencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "crítica a los términos poéticos del materialismo filosófico",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "crítica al lenguaje del sistema buenista subsumida en bueno-gustavo via pending_update",
+      "quote_evidence": "Crítica al materialismo: está lleno de términos poéticos (paso al límite, cierre categorial) que son metafóricos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "ontología materialista (M1/M2/M3 + symploké)",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "los tres géneros de materialidad y el concepto de symploké ya están extensivamente documentados en bueno-gustavo (sección 'Los tres géneros de materialidad y el mundo discontinuo'). Sin material genuinamente nuevo aquí",
+      "quote_evidence": "M1: materialidad física; M2: materialidad psíquica/subjetiva; M3: materialidad social (instituciones, cultura)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "noesis como 3Q (afectivo, imaginario, formal)",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "los tres Q ya documentados extensivamente en realismo-cognitivo (sección 'Los tres Q: imagen, forma, afecto'). Reformulación aquí, sin nuevo material",
+      "quote_evidence": "En el realismo cognitivista, la noesis son los qualia (afectivos, imaginarios y formales): el 3Q",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "función biológica completa (nacer/crecer/aprender/reproducirse/transmitir/morir)",
+      "reason_code": "passing_mention",
+      "reason_detail": "horizonte normativo de la cognición articulado brief, subsumido en realismo-cognitivo y en la synthesis teoria-de-la-mente-en-proxy. Sin desarrollo conceptual independiente",
+      "quote_evidence": "La función biológica: nacer, crecer, aprender, reproducirse, transmitir lo aprendido y morir",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "representación como mapa interno del mundo",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "tesis sobre la mente como mapa del mundo ya documentada en golem-de-cobre y realismo-cognitivo como tesis nuclear (mente como red, no almacén; tres componentes representacionales)",
+      "quote_evidence": "La mente construye un mapa del mundo para que te muevas en él; tú mismo eres un mapa del mundo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 13,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP entity[teoria-de-la-mente-en-proxy] decision=promote_new quote no literal: 'Los seis campos filosóficos relevantes para la teoría de la mente: ontología, gn'",
+    "DROP entity[coherencia-completitud-mente] decision=discard quote no literal: 'La mente humana tiende a la coherencia (evitar incoharencias) y la completitud ('",
+    "WARN promote_new[géneros literarios como activadores de afectos específicos] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

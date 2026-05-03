@@ -1,0 +1,561 @@
+{
+  "video_id": "TZTiSfm6syI",
+  "video_title": "Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke y Gustavo Bueno",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "paradoja de Kripke aplicada al materialismo",
+      "canonical_guess": "paradoja-kripke-anti-materialismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Existen experiencias internas (como la sensación del rojo o el terror) que no se pueden reproducir con objetos físicos"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Si hay una parte del pensamiento que no es material, el materialismo queda incompleto"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "argumento canal-articulado contra el materialismo via la imposibilidad de reproducir físicamente lo qualia. Subsumido en pending_update a bueno-gustavo (como crítica al materialismo) y a realismo-cognitivo (como sustento de la posición no-materialista del marco). Demasiado breve aquí para página propia",
+      "quote_evidence": "Se puede provocar terror en otro, pero no crear terror fuera de una mente; se puede representar el rojo, pero no la experiencia del rojo",
+      "review_priority": "medium",
+      "review_priority_reason": "argumento foundational potencialmente reusable; si recibe tratamiento monográfico podría merecer página propia",
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "hard problem de la conciencia y pampsiquismo",
+      "canonical_guess": "hard-problem-pampsiquismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Decir que los átomos del cerebro producen experiencia subjetiva es presuponer lo que hay que demostrar"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el hard problem como concepto académico estándar (Chalmers) es referenciado sin tratamiento monográfico. La articulación canal-específica es: el pampsiquismo emerge como consecuencia lógica del materialismo si se evita la circularidad. Subsumido en pending_updates a bueno-gustavo (como argumento anti-materialista) y a realismo-cognitivo (como sustento de la posición no-reduccionista). Conexión natural también con la futura galatea-modelo-protomente",
+      "quote_evidence": "Si la conciencia surge de los átomos, hay que explicar por qué algunos átomos la generan y otros no",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "M3 absorbido en M2 en realismo cognitivo",
+      "canonical_guess": "m3-absorbido-m2-realismo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "M3 (relaciones) queda absorbido en M2 (psique) porque toda relación es construcción mental; las matemáticas no están \"ahí fuera\""
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tesis específica del realismo cognitivo respecto a la tripartición buenista: M3 (relaciones, matemáticas) no es género independiente sino constructo de M2 (psique). Subsumida en pending_updates a realismo-cognitivo (como refinamiento del marco) y a bueno-gustavo (como crítica específica a la tripartición). No merece página propia con este nivel de desarrollo",
+      "quote_evidence": "Solo existen dos dimensiones: la realidad y el pensamiento como parte de la realidad",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis foundational del marco — colapso operativo M3→M2 paralelo a otros colapsos del realismo cognitivo (epistemología=gnoseología, hermenéutica=semiótica)",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "motor SAL (Unlimited Associative Learning)",
+      "canonical_guess": "motor-SAL-asociativo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El motor del pensamiento es Unlimited Associative Learning (SAL): ciclo representación → síntesis → inhibición"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "ciclo cognitivo nuclear de Galatea (representación → síntesis → inhibición). Pieza interna de la synthesis galatea-modelo-protomente que articula el motor del pensamiento como ensamblaje continuo. Subsumido en thesis_candidate",
+      "quote_evidence": "El motor del pensamiento es Unlimited Associative Learning (SAL): ciclo representación → síntesis → inhibición",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "operaciones del álgebra Galatea (composición, analogía, composición saturada)",
+      "canonical_guess": "operaciones-algebra-galatea",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "operaciones del álgebra — pieza interna del thesis_candidate galatea-modelo-protomente. Las operaciones tienen sentido dentro del modelo formal completo, no como concepto autónomo",
+      "quote_evidence": "La analogía sustrae lo afectivo y lo imaginario para extraer la estructura formal: así se generan las abstracciones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "conciencia como simulación representacional",
+      "canonical_guess": "conciencia-simulacion-representacional",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La conciencia es una simulación de la realidad diseñada para procesar el entorno y relacionarnos con él"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tesis del canal sobre la conciencia como simulación representacional. Subsumida en pending_update a realismo-cognitivo (como sustento del marco) y en galatea-modelo-protomente (Galatea ES la articulación operativa de esa tesis)",
+      "quote_evidence": "Todas las relaciones con la realidad están codificadas internamente como representaciones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "tres teorías del hard problem (Global Workspace, HOT, IIT)",
+      "canonical_guess": "teorias-hard-problem",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "referencia académica estándar a tres teorías de la conciencia (Global Workspace Theory, Higher Order Theory, Integrated Information Theory). Sin tratamiento sustantivo de cada una. Material se subsume en pending_update a realismo-cognitivo o bueno-gustavo como referencia bibliográfica al estado del arte sobre el hard problem",
+      "quote_evidence": "Las tres teorías más potentes sobre el hard problem son: Global Workspace, Higher Order Theory e Información Integrada (IIT)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Saul Kripke",
+      "canonical_guess": "kripke-saul",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Kripke aparece nombrado en el título del directo y en el bloque inicial vía 'paradoja de Kripke', pero no recibe tratamiento sustantivo de su pensamiento (lógica modal, semántica de mundos posibles, teoría causal de la referencia). El canal usa 'paradoja de Kripke' como vehículo del argumento anti-materialista. Sin material para página de autor",
+      "quote_evidence": "La paradoja de Kripke: lo inmaterial en el pensamiento",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "Ruth Garrett Millikan (función propia)",
+      "canonical_guess": "millikan-ruth",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Ninguna mecánica psíquica tiene función propia que no esté relacionada con el exterior (definición de función propia de Ruth Garrett Millikan)"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Millikan referenciada como autora del concepto teleosemántico 'función propia' que el canal usa como sustento de la enactividad. Ya referenciada en realismo-cognitivo (sección 'Primer axioma: toda clase tiene función propia de transitoriedad' menciona el sentido teleosemántico de Ruth Millikan). Sin material nuevo aquí para página de autor",
+      "quote_evidence": "Toda representación está diseñada para ser contrastada con la realidad exterior",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "filosofía como procedimiento autorreferente",
+      "canonical_guess": "filosofia-autorreferente",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La filosofía es el procedimiento de clasificación del pensamiento sobre la realidad, con mecánica autorreferente"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tesis breve sobre la naturaleza autorreferente de la filosofía (el sujeto pensante intenta abarcar toda la realidad incluyéndose). Subsumida en pending_update a realismo-cognitivo y conecta con la teoria-de-la-mente-en-proxy (proposed)",
+      "quote_evidence": "El pensamiento es recursivo: el sujeto pensante intenta abarcar toda la realidad incluyéndose a sí mismo pensando",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "teoremas de incompletitud aplicados a la mente",
+      "canonical_guess": "godel-mente-incompletitud",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "aplicación breve del teorema de Gödel a la mente: la mente que genera sistemas formales no puede ser simultáneamente coherente y completa. Material se subsume en realismo-cognitivo como sustento epistemológico de la posición del canal sobre los límites de la cognición. Conecta con la mention previa del 'pensamiento mecánicamente perfecto pero incompleto respecto a la realidad'",
+      "quote_evidence": "Todo sistema formal es o coherente o completo, pero no ambos a la vez (Gödel)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Ontología, fenomenología y gnoseología",
+      "section_target": "",
+      "content_proposed": "## Argumento anti-materialista (paradoja de Kripke + hard problem) y absorción de M3 en M2\n\nEl directo *Galatea, Materialismo ontológico y realismo cognitivo* (11-jun-2025) refuerza el posicionamiento del marco frente al materialismo de Bueno con dos piezas técnicas adicionales que cierran el flanco anti-materialista del realismo cognitivo.\n\n### Paradoja de Kripke: experiencias internas no reproducibles físicamente\n\n> \"Existen experiencias internas (como la sensación del rojo o el terror) que no se pueden reproducir con objetos físicos\"\n→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)\n\n> \"Se puede provocar terror en otro, pero no crear terror fuera de una mente; se puede representar el rojo, pero no la experiencia del rojo\"\n→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)\n\n> \"Hay una parte del pensamiento que escapa a lo físico-material, lo que plantea un problema para el materialismo\"\n→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)\n\nLa paradoja, articulada por el canal a partir del argumento de Kripke contra el fisicalismo, opera como sustento empírico de la posición no-materialista del marco: si el qualia (rojo, terror) no es construible mediante composición de objetos físicos, entonces la mente no es reducible a M1.\n\n### El hard problem como problema irresoluble para el materialismo\n\n> \"Empíricamente no se puede afirmar que la conciencia sea físico-material; suponemos que lo es pero no sabemos cómo ni por qué (hard problem)\"\n→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)\n\n> \"Si la conciencia surge de los átomos, hay que explicar por qué algunos átomos la generan y otros no\"\n→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)\n\n> \"Decir que los átomos del cerebro producen experiencia subjetiva es presuponer lo que hay que demostrar\"\n→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)\n\n> \"El pampsiquismo surge como consecuencia lógica de atribuir conciencia a la materia sin criterio de demarcación\"\n→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)\n\nLa pieza es estructuralmente importante: el hard problem (Chalmers) no es solo dificultad técnica sino marca del límite categorial del materialismo. Sin criterio de demarcación que diga qué átomos generan conciencia y cuáles no, el materialismo deviene tautológico (asume lo que debería explicar) o pampsiquista (atribuye conciencia a toda la materia, lo que disuelve la categoría). El realismo cognitivo evita ambos riesgos al no reducir la mente a la materia y operar como axiomática de clases noéticas.\n\nLas tres teorías académicas dominantes sobre el hard problem (Global Workspace, Higher Order Theory, Información Integrada/IIT) se mencionan como propuestas empíricas del emergentismo, que el canal identifica como intento de salvar el explanatory gap sin eliminarlo:\n\n> \"El emergentismo dice que la conciencia es un resultado mayor que la suma de sus partes, pero no explica el mecanismo\"\n→ [Galatea (2:27:22)](https://youtu.be/TZTiSfm6syI?t=8842)\n\n### Tercer colapso del marco: M3 absorbido en M2\n\nUn corolario operativo añade un tercer colapso a los ya documentados (epistemología=gnoseología, hermenéutica=semiótica): en realismo cognitivo, M3 (relaciones, matemáticas) no es género independiente de materialidad sino constructo de M2 (psique).\n\n> \"Solo existen dos dimensiones: la realidad y el pensamiento como parte de la realidad\"\n→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)\n\n> \"M3 (relaciones) queda absorbido en M2 (psique) porque toda relación es construcción mental; las matemáticas no están \\\"ahí fuera\\\"\"\n→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)\n\nLa tesis es paralela a los otros colapsos del marco: si toda relación opera vía clases noéticas (axiomática de relaciones isológicas/sinalógicas), no hay género de materialidad relacional independiente — las matemáticas son operación cognitiva sobre clases formales (Q-sub-F), no entidades platónicas en un tercer plano de realidad. La consecuencia metodológica: el realismo cognitivo opera con dos planos (realidad y representación cocausados) sin necesidad de la tripartición buenista M1/M2/M3.\n\n### Conciencia como simulación representacional + motor SAL\n\nLa tesis positiva que sustituye al materialismo en el marco:\n\n> \"La conciencia es una simulación de la realidad diseñada para procesar el entorno y relacionarnos con él\"\n→ [Galatea (1:30:22)](https://youtu.be/TZTiSfm6syI?t=5422)\n\n> \"Todas las relaciones con la realidad están codificadas internamente como representaciones\"\n→ [Galatea (1:30:22)](https://youtu.be/TZTiSfm6syI?t=5422)\n\nEl motor concreto que articula esta simulación es el ciclo SAL (Unlimited Associative Learning):\n\n> \"El motor del pensamiento es Unlimited Associative Learning (SAL): ciclo representación → síntesis → inhibición\"\n→ [Galatea (1:35:25)](https://youtu.be/TZTiSfm6syI?t=5725)\n\n> \"Solo 12 bits por segundo del pensamiento son conscientes; todo lo demás es inconsciente\"\n→ [Galatea (1:35:25)](https://youtu.be/TZTiSfm6syI?t=5725)\n\nEl ciclo SAL articula operativamente la primera axiomática del marco (toda clase es transitoria): cada representación se ensambla, se inhibe la anterior, se sintetiza la siguiente, sin almacén estable. La cifra de 12 bits conscientes (el resto del procesamiento es inconsciente) precisa el cuello de botella cognitivo ya documentado en otros vídeos del corpus.\n\nLa articulación operativa completa de este motor — clases primarias, álgebra de operaciones, vectores en notación bracket — es el modelo Galatea (ver [[galatea-modelo-protomente]] cuando se promueva). El realismo cognitivo es el sustrato epistemológico; Galatea es su articulación formal-computacional.\n\n",
+      "wikilinks_introduced": [
+        "galatea-modelo-protomente"
+      ],
+      "citations_added": [
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 2595,
+          "cite_markdown": "[Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 3881,
+          "cite_markdown": "[Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 4492,
+          "cite_markdown": "[Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 4643,
+          "cite_markdown": "[Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 5422,
+          "cite_markdown": "[Galatea (1:30:22)](https://youtu.be/TZTiSfm6syI?t=5422)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 5725,
+          "cite_markdown": "[Galatea (1:35:25)](https://youtu.be/TZTiSfm6syI?t=5725)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 8842,
+          "cite_markdown": "[Galatea (2:27:22)](https://youtu.be/TZTiSfm6syI?t=8842)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo en cinco vertientes que la página actual no contiene: (a) la paradoja de Kripke como argumento anti-materialista (qualia no reproducibles físicamente), (b) el hard problem como límite categorial del materialismo (con pampsiquismo como consecuencia lógica), (c) el tercer colapso del marco — M3 absorbido en M2 — paralelo a los ya documentados (epistemología=gnoseología, hermenéutica=semiótica), (d) la tesis positiva 'conciencia como simulación representacional', (e) el motor SAL (Unlimited Associative Learning) como ciclo operativo concreto, con la cifra de 12 bits conscientes. Cubre parcialmente la laguna 'Falta tratamiento sustantivo de la relación con la filosofía de la mente anglosajona' (Kripke, Chalmers, Global Workspace, IIT)",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "bueno-gustavo",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## El argumento del canal contra la suficiencia del materialismo buenista\n\nEn el directo *Galatea, Materialismo ontológico y realismo cognitivo* (11-jun-2025), Proxy precisa la frontera entre el aprovechamiento del aparato buenista y su crítica como sistema completo. La distinción es importante: el canal hereda de Bueno la estructura ontológica para dialogar con tradiciones realistas, pero rechaza que el materialismo sea suficiente como teoría de la mente.\n\n### Paradoja de Kripke: lo inmaterial dentro de lo material\n\nLa primera pieza del argumento es la imposibilidad de reproducir físicamente las experiencias subjetivas:\n\n> \"Existen experiencias internas (como la sensación del rojo o el terror) que no se pueden reproducir con objetos físicos\"\n→ [Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)\n\n> \"Las abstracciones derivadas de experiencias no tienen manifestación física construible\"\n→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)\n\n> \"Si hay una parte del pensamiento que no es material, el materialismo queda incompleto\"\n→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)\n\nLa objeción no se dirige al fisicalismo crudo (Bueno mismo distingue su materialismo del fisicalismo) sino a la suficiencia de la tripartición M1/M2/M3 para acomodar el qualia. Si M2 (psíquico) es genuinamente material en el sentido buenista, debería ser construible o al menos describible mediante composición de elementos materiales — y el canal sostiene que esa construcción es imposible para la experiencia subjetiva en cuanto tal.\n\n### El hard problem como límite categorial\n\nLa segunda pieza eleva el argumento a problema de fundación:\n\n> \"Empíricamente no se puede afirmar que la conciencia sea físico-material; suponemos que lo es pero no sabemos cómo ni por qué (hard problem)\"\n→ [Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)\n\n> \"Si la conciencia surge de los átomos, hay que explicar por qué algunos átomos la generan y otros no\"\n→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)\n\n> \"Decir que los átomos del cerebro producen experiencia subjetiva es presuponer lo que hay que demostrar\"\n→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)\n\nEl materialismo, al carecer de criterio de demarcación entre átomos conscientes y átomos no-conscientes, se ve forzado a una de dos salidas: (a) circularidad (asume que ciertos átomos generan conciencia porque están en cerebros), (b) pampsiquismo (atribuye conciencia a toda la materia). El canal rechaza ambas:\n\n> \"El pampsiquismo surge como consecuencia lógica de atribuir conciencia a la materia sin criterio de demarcación\"\n→ [Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)\n\n### M3 reabsorbido en M2: la respuesta del realismo cognitivo a la tripartición\n\nLa consecuencia operativa que el canal extrae del argumento es una corrección específica a la tripartición buenista:\n\n> \"M3 (relaciones) queda absorbido en M2 (psique) porque toda relación es construcción mental; las matemáticas no están \\\"ahí fuera\\\"\"\n→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)\n\n> \"Solo existen dos dimensiones: la realidad y el pensamiento como parte de la realidad\"\n→ [Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)\n\nLa lectura del canal: lo que Bueno trata como tercer género de materialidad (M3 = relaciones, instituciones, lógica, matemáticas) es para el realismo cognitivo operación cognitiva sobre clases formales — vive dentro de M2, no constituye un plano ontológico independiente. La distinción no anula el aprovechamiento heurístico de M3 (sigue siendo útil para hablar de instituciones culturales como objetos sociales) pero deja de tener estatus ontológico autónomo.\n\nLa precisión cierra el flanco crítico que ya estaba abierto: el canal usa el aparato buenista como **infraestructura ontológica orientativa** (especialmente la distinción material/fisicalismo y la noción de symploké), pero rechaza tanto los términos poéticos (paso al límite, cierre categorial) como la suficiencia de la tripartición para una teoría de la mente. Para esa teoría, articula un marco propio — el [[realismo-cognitivo]] como axiomática de clases — y un modelo formal-computacional que la operacionaliza ([[galatea-modelo-protomente]]).\n\n",
+      "wikilinks_introduced": [
+        "galatea-modelo-protomente"
+      ],
+      "citations_added": [
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 2595,
+          "cite_markdown": "[Galatea (43:15)](https://youtu.be/TZTiSfm6syI?t=2595)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 3881,
+          "cite_markdown": "[Galatea (1:04:41)](https://youtu.be/TZTiSfm6syI?t=3881)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 4492,
+          "cite_markdown": "[Galatea (1:14:52)](https://youtu.be/TZTiSfm6syI?t=4492)"
+        },
+        {
+          "video_id": "TZTiSfm6syI",
+          "timestamp_seconds": 4643,
+          "cite_markdown": "[Galatea (1:17:23)](https://youtu.be/TZTiSfm6syI?t=4643)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página actual articula la diferencia realismo-cognitivo / materialismo filosófico en términos de escala (mente humana vs ontología general) y critica el lenguaje metafórico de Bueno (paso al límite, cierre categorial), pero NO contiene (a) el argumento sustantivo anti-materialista vía Kripke + hard problem, (b) la consecuencia específica de absorción de M3 en M2 (matemáticas como construcción cognitiva, no plano ontológico independiente), ni (c) la cláusula de cierre que precisa el alcance del aprovechamiento buenista por el canal. Refinamiento operativo importante de la distancia frente al sistema",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Galatea: modelo formal-computacional de protomente con álgebra lambda y clases irreducibles",
+      "proposed_page_id": "galatea-modelo-protomente",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Galatea es un diagrama de flujo teórico de los mínimos representacionales y mecánicas representacionales mínimas"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los nodos principales son: síntesis, inhibición y representacional (pensamiento activo intencional), más memoria como reciclaje de representaciones"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Valencias afectivas: ira, pánico, juego, afecto, deseo, terror y buscar (la más enactiva)"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Clases imaginarias: simple/complejo, esquinas/ondas, claro/oscuro, grande/pequeño, pluralidad, espectro de color, espacio-distancia, forma-fondo y límite"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Las tuplas representacionales se expresan como vectores de estado en notación bracket con tipo (T) y contenido (φ)"
+        }
+      ],
+      "framework_internal_structure": [
+        "Galatea como pseudocódigo de protomente: diagrama de flujo de mínimos representacionales con los mismos elementos fundamentales que la mente humana, dispuesta como matriz gigante de nodos",
+        "Tres tipos de nodos: síntesis, inhibición, representacional (pensamiento activo intencional)",
+        "Memoria como reciclaje de representaciones (no almacén inmutable; toda matriz cerebral cambia continuamente, todo pensamiento es confabulado)",
+        "Motor SAL (Unlimited Associative Learning): ciclo representación → síntesis → inhibición",
+        "Tres componentes de toda representación: nodo procedimental/gramatical (formal), nodo imaginario, nodo afectivo",
+        "Tuplas representacionales como vectores de estado en notación bracket con tipo (T) y contenido (φ)",
+        "Operación composición: une dos tuplas en una misma representación (ej. imagen monstruo + afecto miedo)",
+        "Operación analogía: sustrae lo afectivo y lo imaginario para extraer la estructura formal (mecanismo de generación de abstracciones)",
+        "Operación composición saturada: requiere umbral energético para que haya transición representacional",
+        "Pesos energéticos numéricos entre 0 y 1; 12 bits por segundo del pensamiento son conscientes (resto inconsciente)",
+        "Trauma como composición saturada anómala por fallo del nodo inhibitorio",
+        "Siete valencias afectivas irreducibles: ira, pánico, juego, afecto, deseo, terror, buscar (la más enactiva)",
+        "Nueve clases imaginarias irreducibles: simple/complejo, esquinas/ondas, claro/oscuro, grande/pequeño, pluralidad, espectro color, espacio-distancia, forma-fondo, límite",
+        "Cuatro clases gramaticales irreducibles: procedimiento, yo, objeto, tiempo",
+        "Combinatoria de clases primarias genera conceptos compuestos: 'hacer', 'vida', 'buscar cómo hacer'",
+        "Enactividad como propiedad fundamental: toda representación es extracción codificada de la realidad o predicción sobre ella (función propia en sentido teleosemántico de Ruth Garrett Millikan)",
+        "Ejemplo aplicado 'rodear una roca': composición imaginaria (círculo + encierro parcial) + gramatical (procedimiento + yo + objeto-roca) + afectivo (buscar) → idea aparcada en memoria + acción paso a paso con 12 bits/seg",
+        "Galatea como posible emulación: si funcionara, sería red neuronal que emularía una mente (no LLM); simulación dentro de emulación. Por ahora modelo teórico — la biocomputación necesaria está muy lejos"
+      ],
+      "minutes_sustained": 100,
+      "domain_guess": "interdisciplinary.cognitive_science",
+      "related_existing_pages": [
+        "realismo-cognitivo",
+        "golem-de-cobre",
+        "teoria-del-simbolo-en-proxy",
+        "maturana-humberto",
+        "bueno-gustavo",
+        "teoria-de-la-mente-en-proxy"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Cumple holgadamente criterios scope.md §2.4.1 con 5 señales (declared_thesis, internal_structure múltiples, pedagogic_register), minutes_sustained ≥30 (~100 min de los 173 totales sobre Galatea propiamente), framework_internal_structure con 18 piezas técnicas. Gate técnicamente triggers auto-promote. Se mantiene requires_human_validation:true por dos motivos: (a) **complejidad técnica formal** — el modelo invoca notación bracket, álgebra lambda, vectores de estado con coeficientes numéricos, taxonomías enumeradas precisas (7+9+4 clases irreducibles); cualquier desviación en la transcripción puede falsear el modelo, y la auditoría humana garantiza fidelidad a la articulación de Proxy, (b) **producto técnico-teórico nuclear del corpus** — Galatea es la articulación formal-computacional más concreta del marco mente del canal, candidata a hub principal del eje cognitivo (junto con realismo-cognitivo, golem-de-cobre, teoria-del-simbolo-en-proxy). La arquitectura merece arbitraje humano sobre cómo ubicarla frente a las pages existentes y a la futura teoria-de-la-mente-en-proxy"
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "paradoja de Kripke aplicada al materialismo",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "argumento anti-materialista capturado en pending_updates a realismo-cognitivo y bueno-gustavo. Demasiado breve para página propia",
+      "quote_evidence": "Hay una parte del pensamiento que escapa a lo físico-material, lo que plantea un problema para el materialismo",
+      "review_priority": "medium",
+      "review_priority_reason": "argumento foundational potencialmente reusable; si recibe tratamiento monográfico podría merecer página propia",
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "hard problem y pampsiquismo",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "concepto académico estándar (Chalmers) referenciado sin tratamiento monográfico. Subsumido en pending_updates a bueno-gustavo y realismo-cognitivo",
+      "quote_evidence": "Decir que los átomos del cerebro producen experiencia subjetiva es presuponer lo que hay que demostrar",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "M3 absorbido en M2 en realismo cognitivo",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "tesis específica del realismo cognitivo respecto a la tripartición buenista. Subsumida en pending_updates a realismo-cognitivo y bueno-gustavo. Paralelo a los otros colapsos del marco (epistemología=gnoseología, hermenéutica=semiótica)",
+      "quote_evidence": "M3 (relaciones) queda absorbido en M2 (psique) porque toda relación es construcción mental",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis foundational del marco — colapso operativo importante de la tripartición buenista",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "motor SAL (Unlimited Associative Learning)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "ciclo cognitivo nuclear de Galatea. Pieza interna del thesis_candidate y referenciada en pending_update a realismo-cognitivo",
+      "quote_evidence": "El motor del pensamiento es Unlimited Associative Learning (SAL): ciclo representación → síntesis → inhibición",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "operaciones del álgebra Galatea (composición, analogía, composición saturada)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "operaciones del álgebra — pieza interna del thesis_candidate. No tienen sentido autónomo fuera del modelo formal",
+      "quote_evidence": "La analogía sustrae lo afectivo y lo imaginario para extraer la estructura formal: así se generan las abstracciones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "conciencia como simulación representacional",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "tesis del canal subsumida en pending_update a realismo-cognitivo y operacionalizada en galatea-modelo-protomente",
+      "quote_evidence": "La conciencia es una simulación de la realidad diseñada para procesar el entorno y relacionarnos con él",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Global Workspace, Higher Order Theory, IIT",
+      "reason_code": "passing_mention",
+      "reason_detail": "referencia académica estándar a tres teorías de la conciencia. Sin tratamiento sustantivo. Subsumido como referencia bibliográfica en pending_update a realismo-cognitivo",
+      "quote_evidence": "Las tres teorías más potentes sobre el hard problem son: Global Workspace, Higher Order Theory e Información Integrada (IIT)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Saul Kripke",
+      "reason_code": "passing_mention",
+      "reason_detail": "Kripke aparece nombrado vía 'paradoja de Kripke' como vehículo del argumento anti-materialista, sin tratamiento sustantivo de su pensamiento (lógica modal, semántica de mundos posibles)",
+      "quote_evidence": "La paradoja de Kripke: lo inmaterial en el pensamiento",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "filosofía como procedimiento autorreferente",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "tesis breve sobre la naturaleza autorreferente de la filosofía. Subsumida en realismo-cognitivo y conecta con teoria-de-la-mente-en-proxy (proposed)",
+      "quote_evidence": "El pensamiento es recursivo: el sujeto pensante intenta abarcar toda la realidad incluyéndose a sí mismo pensando",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "teoremas de incompletitud (Gödel) aplicados a la mente",
+      "reason_code": "passing_mention",
+      "reason_detail": "aplicación breve del teorema de Gödel al límite cognitivo. Subsumido en realismo-cognitivo como sustento epistemológico de los límites de la cognición",
+      "quote_evidence": "Todo sistema formal es o coherente o completo, pero no ambos a la vez (Gödel)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "tres componentes de toda representación (procedimental/imaginario/afectivo)",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "los tres Q ya documentados extensivamente en realismo-cognitivo (sección 'Los tres Q: imagen, forma, afecto') y en golem-de-cobre. Aquí se formalizan via álgebra Galatea — esa formalización es pieza del thesis_candidate",
+      "quote_evidence": "Toda representación se compone de un nodo procedimental/gramatical (formal), un nodo imaginario y un nodo afectivo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "memoria como resíntesis continua (no almacén)",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "tesis ya documentada extensivamente en golem-de-cobre (sección 'Refinamientos sobre la memoria') y en realismo-cognitivo. Aquí se reformula como pieza del modelo Galatea",
+      "quote_evidence": "La memoria como almacén inmutable no existe: toda la matriz cerebral cambia continuamente, todo pensamiento es confabulado",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "12 bits conscientes por segundo",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "cuello de botella cognitivo ya referenciado en otros vídeos del corpus (Experimento 25 mencionaba 10 bits/seg). Aquí se especifica como propiedad del motor SAL en Galatea. Subsumido en thesis_candidate y en pending_update a realismo-cognitivo",
+      "quote_evidence": "Solo 12 bits por segundo del pensamiento son conscientes; todo lo demás es inconsciente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "ontología de Bueno (M1/M2/M3 + universo vs mundo)",
+      "reason_code": "already_captured_in_existing_page",
+      "reason_detail": "los tres géneros de materialidad y la distinción universo/mundo ya documentados extensivamente en bueno-gustavo. Aquí se reactivan como contexto para el argumento anti-materialista del canal",
+      "quote_evidence": "El materialismo no es fisicalismo: no todo es M1, sino que M2 (psique) y M3 (relaciones) son géneros distintos de materialidad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "Galatea como posible emulación / red neuronal vs LLM",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "pieza final de la articulación de Galatea sobre su realización técnica futura (no LLM sino red neuronal emuladora; biocomputación lejana). Subsumida en thesis_candidate como pieza de cierre",
+      "quote_evidence": "Si Galatea funcionara, no sería un modelo de lenguaje sino un cerebro-programa: una red neuronal que emularía una mente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 14,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 17,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP entity[galatea-modelo-protomente] decision=promote_new quote no literal: 'Galatea es un diagrama de flujo teórico de los mínimos representacionales y mecá'",
+    "DROP entity[clases-irreducibles-galatea] decision=discard quote no literal: 'Sus combinaciones generan conceptos como \"hacer\", \"vida\" o \"buscar cómo hacer\"'",
+    "DROP discarded[clases irreducibles del álgebra Galatea] reason=captured_in_thesis_candidate quote no literal",
+    "DROP discarded[Ruth Garrett Millikan (función propia)] reason=already_captured_in_existing_page quote no literal"
+  ]
+}

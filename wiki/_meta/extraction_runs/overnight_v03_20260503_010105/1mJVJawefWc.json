@@ -1,0 +1,526 @@
+{
+  "video_id": "1mJVJawefWc",
+  "video_title": "Fantasía Cero",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "The Boys (cuarta temporada vs. T1-T3) y patrón de wokismo en franquicias",
+      "canonical_guess": "the-boys-degradacion",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las tres primeras temporadas criticaban tanto a izquierda como a derecha; la cuarta abandona esa ambigüedad por clichés unilaterales"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El Patriota en The Boys no representaba a Trump sino una crítica a la postmodernidad en general"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el material sobre The Boys (T4 vs T1-3, El Patriota como crítica a la postmodernidad) y los casos paralelos (She-Hulk, Doctor Strange) opera como evidencia del marco más general de wokismo destructor de fantasía. Subsumido en consumismo-critica via pending_update y en diagrama-de-proxy (sátira bipartidista). Promover una página entity_work para The Boys exigiría un análisis dedicado monográfico que este vídeo no proporciona — aquí la serie es caso ilustrativo, no objeto",
+      "quote_evidence": "Las tres primeras temporadas criticaban tanto a izquierda como a derecha; la cuarta abandona esa ambigüedad por clichés unilaterales",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Don't Look Up como sátira bipartidista",
+      "canonical_guess": "dont-look-up-2021-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Don't Look Up es una crítica al marketing político populista visible desde ambos lados del espectro"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "mención breve como caso paralelo a The Boys T1-3 (sátira bipartidista vs interpretación unilateral). Sin análisis monográfico. Subsumido en diagrama-de-proxy via pending_update como caso ilustrativo del eje fundamentalismo/relativismo aplicado a obra cultural",
+      "quote_evidence": "Don't Look Up es una crítica al marketing político populista visible desde ambos lados del espectro",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Sweet Baby Inc / consultoras de inclusividad subvencionadas",
+      "canonical_guess": "sweet-baby-inc",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las empresas como Sweet Baby Inc están subvencionadas para introducir inclusividad forzada que destruye la fantasía narrativa"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "el speaker explícitamente etiqueta este bloque como 'teoría conspirativa' y lo articula como hipótesis especulativa sobre el mecanismo financiero detrás del wokismo. Material de la lectura cultural-política del canal sobre wokismo, pero sin desarrollo conceptual independiente que lo separe de la crítica más amplia. Subsumido en consumismo-critica via pending_update",
+      "quote_evidence": "Posible estrategia financiera: comprar acciones antes de destruir una serie y venderlas en corto cuando la audiencia la abandone",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "fantasía como reconocimiento (no imitación)",
+      "canonical_guess": "fantasia-como-reconocimiento",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La fantasía no se imita, se reconoce; no se puede construir fantasía para modificar conductas porque lo que queda mal no genera identificación"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La fantasía es instintiva y todo lo contrario a inclusiva por diseño; forzarla rompe la coherencia interna"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tesis breve pero clara del canal: la fantasía opera por reconocimiento arquetípico (instintivo), no por imitación didáctica. Conexión natural con mitologia-propia-impropia (fantasía propia consciente vs mitología impropia que se presenta como otra cosa) y con la crítica al wokismo en consumismo-critica. Articulación demasiado breve aquí para página propia; mejor capturar como passing_mention que enriquece esas dos páginas si reaparece sustantivamente",
+      "quote_evidence": "La fantasía no se imita, se reconoce; no se puede construir fantasía para modificar conductas porque lo que queda mal no genera identificación",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis cultural-psicológica reutilizable que toca punto operativo del canal sobre cómo funciona la identificación arquetípica. Si se articula con desarrollo en otros vídeos (análisis de obra), candidata a página propia conectada con mitologia-propia-impropia y collective-unconscious",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "ciber-psicosis (interfaz cerebro-máquina)",
+      "canonical_guess": "ciber-psicosis",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La consecuencia nefasta más predecible de una interfaz cerebro-máquina sería la psicosis"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El problema derivado de conectar cerebro a máquina sería psicótico, no neurótico"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "tesis articulada del canal: la consecuencia previsible de las BCI es psicosis (no neurosis), porque no existen prótesis sustitutivas del cerebro sino solo prostéticos corticales de sobreestimulación. Conexión directa con golem-de-cobre (cognición humana vs máquina). Articulación breve (~5 min) — mejor enriquece golem-de-cobre que página propia de stub débil",
+      "quote_evidence": "No existen prótesis sustitutivas del cerebro, solo prostéticos corticales de sobreestimulación",
+      "review_priority": "medium",
+      "review_priority_reason": "predicción clínica precisa (psicótico, no neurótico) operativamente relevante para el marco IA/cognición. Si el canal vuelve sobre BCIs (Neuralink, etc.) en futuros vídeos podría merecer página propia",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "El Patriota (Homelander) como crítica a la postmodernidad",
+      "canonical_guess": "el-patriota-postmodernidad",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "lectura cultural específica del personaje como crítica a la postmodernidad (no como caricatura de Trump). Subsumida en diagrama-de-proxy via pending_update sobre sátira bipartidista. Material analítico sin sustancia para página propia",
+      "quote_evidence": "El Patriota en The Boys no representaba a Trump sino una crítica a la postmodernidad en general",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "polarización política deliberada vía entertainment",
+      "canonical_guess": "polarizacion-via-entertainment",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Destruir series populares con wokismo sirve para exaltar a la extrema derecha y alimentar la confrontación política permanente"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "lectura cultural-política sobre cómo el wokismo en franquicias opera como amplificador de polarización (mecanismo estructural, IN-scope per scope.md §3.1 test #1 — articula mecanismo sociológico subyacente a posición política, no actualidad partidista). Subsumido en consumismo-critica via pending_update. La mención específica al PSOE dentro del bloque es politiqueo aside que se subordina al análisis estructural",
+      "quote_evidence": "Destruir series populares con wokismo sirve para exaltar a la extrema derecha y alimentar la confrontación política permanente",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Warhammer 40K (culto Imperial como visión protestante del catolicismo)",
+      "canonical_guess": "warhammer-40k",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La religión del culto Imperial en Warhammer 40K refleja cómo los protestantes perciben el catolicismo"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "observación cultural breve (~3 min) sobre cómo Warhammer 40K refleja la percepción protestante del catolicismo. Sin análisis arquetípico dedicado de la obra ni desarrollo del marco protestantismo/catolicismo. Conecta tangencialmente con marco-luterano-catolico (referenciado en diagrama-de-proxy). Demasiado breve para promover; mejor passing_mention que podría enriquecer una futura página sobre protestantismo/catolicismo o un análisis dedicado de Warhammer",
+      "quote_evidence": "La religión del culto Imperial en Warhammer 40K refleja cómo los protestantes perciben el catolicismo",
+      "review_priority": "medium",
+      "review_priority_reason": "observación cultural-religiosa potencialmente reutilizable; si el canal trabaja Warhammer 40K en directo dedicado o desarrolla la lectura protestante/católica con obras concretas, candidata a entity_work o subsección",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "She-Hulk (Disney+) y Doctor Strange en el multiverso de la locura",
+      "canonical_guess": "she-hulk-doctor-strange-multiverso",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "obras citadas como casos paralelos de wokismo destructor de fantasía. Sin análisis dedicado. Subsumido en consumismo-critica como evidencia del patrón general",
+      "quote_evidence": "She-Hulk produce vergüenza ajena por su tono forzadamente moderno",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "diferencias de género en autismo / masking",
+      "canonical_guess": "autismo-genero-masking",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "apunte muy breve (~2 min) sobre manifestación diferencial del autismo por género (mujeres = masking, hombres = acción impulsiva). Sin desarrollo conceptual ni marco aplicado. Mención puntual sin valor enciclopédico",
+      "quote_evidence": "El autismo en mujeres se manifiesta más como masking y en hombres como acción impulsiva",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "confabulación (clasificación, neuropatología)",
+      "canonical_guess": "confabulacion",
+      "page_type": "concept",
+      "domain_primary_guess": "natural.neuroscience",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "mención puntual (anuncio de tema futuro) sin desarrollo en este vídeo. La confabulación está parcialmente capturada en golem-de-cobre como mecanismo de la memoria reconstructiva ('cada evocación modifica el recuerdo, se añade información (confabulación)'). Sin material nuevo aquí",
+      "quote_evidence": "Se menciona la confabulación como fenómeno con clasificación, neuropatología y mecanismos cognitivos propios",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Dead Space / Alien Isolation / Project Zero 2 (recomendaciones de videojuegos)",
+      "canonical_guess": "videojuegos-recomendados",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "recomendaciones culturales sin análisis arquetípico ni marco aplicado. Per scope.md §3.3 — recomendaciones culturales sin marco van a passing_mention. No corresponde a recommended_reference §3.4 (que se reserva para manuales bibliográficos del método pedagógico)",
+      "quote_evidence": "Project Zero 2: Crimson Butterfly es calificado como un juegazo irrepetible que merece un remake",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Vox como alternativa política fracasada en España",
+      "canonical_guess": "vox-alternativa-politica",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 7,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "FILTRADO por topic_filters.json — bloque coyuntural sobre Vox como partido específico, sin marco teórico estructural aplicado. Caso prototípico de scope.md §3.1 test #5 (comentario directo sobre actualidad partidista sin marco teórico). El bloque entero queda fuera de scope — registrado en blocks_filtered_by_topic_filters",
+      "quote_evidence": "Vox cada vez lo hace peor como alternativa política y probablemente se ha acomodado",
+      "enriches_concept": null
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Postura específica del canal: NO es anti-capitalismo marxista",
+      "section_target": "",
+      "content_proposed": "## Wokismo en franquicias: la fantasía no se construye, se reconoce\n\nEl directo *Fantasía Cero* (13-sept-2024) articula una pieza estructural sobre por qué el wokismo en producciones audiovisuales fracasa narrativamente: opera contra la naturaleza misma de la fantasía como mecanismo psicológico. La fantasía es un dispositivo de **reconocimiento arquetípico instintivo**, no un vehículo didáctico moldeable.\n\n> \"La fantasía no se imita, se reconoce; no se puede construir fantasía para modificar conductas porque lo que queda mal no genera identificación\"\n→ [Fantasía Cero (16:40)](https://youtu.be/1mJVJawefWc?t=1000)\n\n> \"La fantasía es instintiva y todo lo contrario a inclusiva por diseño; forzarla rompe la coherencia interna\"\n→ [Fantasía Cero (14:39)](https://youtu.be/1mJVJawefWc?t=879)\n\nLa tesis tiene consecuencias precisas para la crítica al consumismo cultural contemporáneo: cuando una franquicia inserta personajes diseñados desde fuera (cuotas, briefs de consultora) para modular conductas del espectador, el resultado no funciona como fantasía sino como **producto consumible que se reconoce como tal**. La identificación arquetípica falla porque la pieza no resuena con estructuras psíquicas previas — fue construida desde el cálculo, no desde el reconocimiento.\n\n### Patrón cross-franquicia: The Boys T4, She-Hulk, Doctor Strange\n\nEl canal documenta el patrón con casos concretos:\n\n> \"La serie [The Boys T4] ha destruido toda estructura de personaje y motivación, cada decisión narrativa es un \\\"fiat\\\" (así porque sí)\"\n→ [Fantasía Cero (04:30)](https://youtu.be/1mJVJawefWc?t=270)\n\n> \"Un nuevo personaje femenino negro cuyo rasgo es solo ser \\\"la más inteligente del mundo\\\" está sobreactuado y carece de motivación coherente\"\n→ [Fantasía Cero (04:30)](https://youtu.be/1mJVJawefWc?t=270)\n\n> \"She-Hulk produce vergüenza ajena por su tono forzadamente moderno\"\n→ [Fantasía Cero (09:06)](https://youtu.be/1mJVJawefWc?t=546)\n\n> \"Se compara con el personaje de Puchi en Rasca y Pica de Los Simpson: un añadido innecesario diseñado para parecer moderno sin conseguirlo\"\n→ [Fantasía Cero (09:06)](https://youtu.be/1mJVJawefWc?t=546)\n\nLa metáfora de Puchi (autoreferencia de Los Simpson sobre cómo se inventan personajes para 'modernizar' una fórmula que funciona) es la que el canal usa para nombrar el mecanismo: añadir piezas para parecer relevante destruye precisamente lo que hacía funcionar la pieza original.\n\n### Mecanismo financiero hipotético: la consultora subvencionada\n\nEl canal articula explícitamente como **teoría conspirativa** (no como diagnóstico cerrado) la hipótesis sobre la infraestructura comercial detrás del wokismo en franquicias:\n\n> \"Las empresas como Sweet Baby Inc están subvencionadas para introducir inclusividad forzada que destruye la fantasía narrativa\"\n→ [Fantasía Cero (14:39)](https://youtu.be/1mJVJawefWc?t=879)\n\n> \"Posible estrategia financiera: comprar acciones antes de destruir una serie y venderlas en corto cuando la audiencia la abandone\"\n→ [Fantasía Cero (14:39)](https://youtu.be/1mJVJawefWc?t=879)\n\nLa hipótesis especulativa se subordina al diagnóstico estructural: independientemente de si existe o no la maquinación financiera, el efecto observable es la destrucción sistemática del valor narrativo de franquicias maduras y la reorientación del público hacia productos sustitutivos.\n\n### Polarización amplificada como subproducto cultural\n\nEl mecanismo culmina en una externalidad política observable:\n\n> \"Destruir series populares con wokismo sirve para exaltar a la extrema derecha y alimentar la confrontación política permanente\"\n→ [Fantasía Cero (16:40)](https://youtu.be/1mJVJawefWc?t=1000)\n\nEl wokismo en entertainment opera así como amplificador de polarización: el espectador cuya fantasía ha sido destruida desplaza su frustración cultural al campo político, donde encuentra etiquetas listas para esa frustración. La crítica del canal NO es a las posiciones políticas que el wokismo invoca sino al **mecanismo de fabricación de adversarios** que la operación cultural ejecuta como subproducto.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1mJVJawefWc",
+          "timestamp_seconds": 270,
+          "cite_markdown": "[Fantasía Cero (04:30)](https://youtu.be/1mJVJawefWc?t=270)"
+        },
+        {
+          "video_id": "1mJVJawefWc",
+          "timestamp_seconds": 546,
+          "cite_markdown": "[Fantasía Cero (09:06)](https://youtu.be/1mJVJawefWc?t=546)"
+        },
+        {
+          "video_id": "1mJVJawefWc",
+          "timestamp_seconds": 879,
+          "cite_markdown": "[Fantasía Cero (14:39)](https://youtu.be/1mJVJawefWc?t=879)"
+        },
+        {
+          "video_id": "1mJVJawefWc",
+          "timestamp_seconds": 1000,
+          "cite_markdown": "[Fantasía Cero (16:40)](https://youtu.be/1mJVJawefWc?t=1000)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página actual cubre la mercantilización del consumismo en apps de citas y la atomización afectiva digital, pero NO contiene (a) el principio operativo 'la fantasía se reconoce, no se imita', (b) el patrón cross-franquicia del wokismo destructor de fantasía con casos concretos, (c) la hipótesis especulativa sobre consultoras de inclusividad subvencionadas, (d) la polarización política como subproducto cultural amplificado por el wokismo en entertainment. Conecta directamente con la sección existente 'Colapso del contenido original' extendiéndola con mecanismo cultural-político",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## Sátira bipartidista como caso aplicado: Don't Look Up y The Boys (T1-T3)\n\nEl directo *Fantasía Cero* (13-sept-2024) usa dos productos audiovisuales recientes como caso aplicado del modelo: las obras genuinamente eficaces críticas de la cultura política contemporánea son aquellas que activan el reconocimiento desde **ambos cuadrantes verticales** del diagrama, no solo desde uno.\n\n> \"Don't Look Up es una crítica al marketing político populista visible desde ambos lados del espectro\"\n→ [Fantasía Cero (22:20)](https://youtu.be/1mJVJawefWc?t=1340)\n\n> \"El Patriota en The Boys no representaba a Trump sino una crítica a la postmodernidad en general\"\n→ [Fantasía Cero (22:20)](https://youtu.be/1mJVJawefWc?t=1340)\n\n> \"Las tres primeras temporadas criticaban tanto a izquierda como a derecha; la cuarta abandona esa ambigüedad por clichés unilaterales\"\n→ [Fantasía Cero (22:20)](https://youtu.be/1mJVJawefWc?t=1340)\n\nLa lectura del canal pone en práctica el diagrama: la crítica eficaz a la cultura política contemporánea opera **a la misma altura del eje vertical** (anti-jerarquía o anti-fundamentalismo) cuando la diana es genuinamente la postmodernidad como sistema de ideas, no una facción coyuntural. Cuando la sátira degenera (el caso de The Boys T4) y se desliza al eje horizontal partidista (clichés unilaterales contra un cuadrante), pierde la fuerza crítica precisamente porque deja de operar sobre una posición compartible desde múltiples cuadrantes.\n\nEl Patriota como crítica a la postmodernidad — no a Trump como persona-político — es la lectura compatible con el modelo: el personaje encarna el cuadrante arriba-izquierda (jerarquía absoluta + relativismo moral del marketing), no a un actor político concreto.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1mJVJawefWc",
+          "timestamp_seconds": 1340,
+          "cite_markdown": "[Fantasía Cero (22:20)](https://youtu.be/1mJVJawefWc?t=1340)"
+        }
+      ],
+      "rationale": "Material nuevo: la página articula el diagrama como tipología de orientación moral-política con correlato neuropsicológico, pero NO contiene casos aplicados de obra cultural cuya sátira opere bipartidistamente activando reconocimiento desde múltiples cuadrantes. Don't Look Up + The Boys T1-3 son casos ilustrativos del modelo: la crítica eficaz a la postmodernidad opera sobre el eje horizontal completo, no sobre una facción coyuntural. La degradación de The Boys en T4 (clichés unilaterales) ilustra el caso negativo. Cubre parcialmente la laguna 'casos contemporáneos del cuadrante arriba-izquierda'",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "section_target": "",
+      "content_proposed": "## Predicción clínica para BCIs: la psicosis como consecuencia previsible\n\nEn el directo *Fantasía Cero* (13-sept-2024) el canal añade una predicción clínica precisa que extiende la tesis nuclear de mente-no-máquina al horizonte de las interfaces cerebro-máquina (BCIs):\n\n> \"La consecuencia nefasta más predecible de una interfaz cerebro-máquina sería la psicosis\"\n→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)\n\n> \"No existen prótesis sustitutivas del cerebro, solo prostéticos corticales de sobreestimulación\"\n→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)\n\n> \"Sustituir partes del cuerpo sin tocar el cerebro no afectaría la humanidad de la persona, aunque podría generar problemas\"\n→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)\n\n> \"El problema derivado de conectar cerebro a máquina sería psicótico, no neurótico\"\n→ [Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)\n\n### La distinción operativa psicótico / neurótico\n\nLa precisión es clínicamente relevante: las patologías neuróticas operan dentro de un marco de realidad compartido (ansiedad, fobia, obsesión sobre objetos del mundo); las psicóticas implican **ruptura del marco mismo** — desconexión con la realidad. Si la mente humana se entiende como red distribuida en continua resíntesis (anti-localismo, plasticidad, redes representacionales sin almacén fijo) y no como sistema computacional con direcciones fijas, conectarla a una máquina que sí opera con direcciones fijas no produce un fallo de contenido (neurosis) sino un fallo de **estructura representacional** (psicosis): el cerebro no puede integrar coherentemente representaciones generadas por una arquitectura cuya gramática es ajena a la suya.\n\nLa observación complementaria — no existen prótesis sustitutivas del cerebro, solo prostéticos corticales de sobreestimulación — refuerza la tesis: ninguna BCI actual o previsible reemplaza función cognitiva, todas operan amplificando o sustituyendo input sensorial. Cuanto mayor la integración técnica, mayor el riesgo de saturación que el cerebro no puede regular vía mecanismos endógenos.\n\nLa predicción cierra coherentemente el marco IA/cognición de la página: si la IA singular sería paradójicamente lo más opuesto al cerebro humano (porque el cerebro es falible y la máquina no), la BCI sería el caso clínico de esa oposición forzada a coexistir en un único sustrato — y el resultado predicho es estructuralmente psicótico.\n\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1mJVJawefWc",
+          "timestamp_seconds": 1913,
+          "cite_markdown": "[Fantasía Cero (31:53)](https://youtu.be/1mJVJawefWc?t=1913)"
+        }
+      ],
+      "rationale": "Material nuevo: la página articula la oposición cognitiva humano/máquina pero NO contiene la predicción clínica específica para BCIs. La distinción operativa psicótico/neurótico aplicada a interfaces cerebro-máquina es extensión coherente del marco — qué patología cabe esperar cuando se fuerza la coexistencia de las dos arquitecturas en un sustrato único. Cubre parcialmente la laguna 'IA fuerte como horizonte' al añadir predicción operacional para el caso paradigmático de hibridación humano-máquina",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "The Boys (cuarta temporada vs T1-T3)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "casos del wokismo destructor de fantasía y de la sátira bipartidista capturados en updates a consumismo-critica y diagrama-de-proxy. Sin análisis monográfico que justifique entity_work propio",
+      "quote_evidence": "Las tres primeras temporadas criticaban tanto a izquierda como a derecha; la cuarta abandona esa ambigüedad por clichés unilaterales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Don't Look Up (2021)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "mención breve como caso de sátira bipartidista. Subsumido en diagrama-de-proxy como caso aplicado del modelo. Si el canal hiciera análisis dedicado de la película en otro vídeo, sería candidata a entity_work",
+      "quote_evidence": "Don't Look Up es una crítica al marketing político populista visible desde ambos lados del espectro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Sweet Baby Inc / consultoras de inclusividad",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "etiquetada explícitamente por el speaker como 'teoría conspirativa'. Subsumida en consumismo-critica como hipótesis especulativa sobre el mecanismo financiero del wokismo en franquicias",
+      "quote_evidence": "Las empresas como Sweet Baby Inc están subvencionadas para introducir inclusividad forzada que destruye la fantasía narrativa",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "fantasía como reconocimiento (no imitación)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "tesis breve pero clara, capturada en consumismo-critica via pending_update como principio operativo del wokismo destructor. Articulación demasiado breve aquí (~4 min) para página propia. Conexión natural con mitologia-propia-impropia y collective-unconscious",
+      "quote_evidence": "La fantasía no se imita, se reconoce; no se puede construir fantasía para modificar conductas porque lo que queda mal no genera identificación",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis cultural-psicológica reutilizable y operativa para análisis de obra. Si se desarrolla en futuros vídeos como marco aplicado, candidata a página propia",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "ciber-psicosis (interfaz cerebro-máquina)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "predicción clínica articulada pero breve (~5 min). Capturada en golem-de-cobre como extensión de la tesis cognitiva al caso BCI. Si el canal desarrolla el tema (Neuralink, etc.) en otros vídeos, candidata a concept page propio",
+      "quote_evidence": "El problema derivado de conectar cerebro a máquina sería psicótico, no neurótico",
+      "review_priority": "medium",
+      "review_priority_reason": "predicción clínica precisa con potencial de reuso conceptual",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "El Patriota como crítica a la postmodernidad",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "lectura cultural específica capturada en diagrama-de-proxy via pending_update como caso ilustrativo del cuadrante arriba-izquierda",
+      "quote_evidence": "El Patriota en The Boys no representaba a Trump sino una crítica a la postmodernidad en general",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "polarización política deliberada vía entertainment",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "mecanismo cultural-político (IN-scope per scope.md §3.1 test #1) capturado en consumismo-critica como subproducto del wokismo destructor de fantasía. La mención al PSOE dentro del bloque es politiqueo aside subordinado al análisis estructural — no se promueve",
+      "quote_evidence": "Destruir series populares con wokismo sirve para exaltar a la extrema derecha y alimentar la confrontación política permanente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Warhammer 40K (culto Imperial como visión protestante del catolicismo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "observación cultural breve sin análisis arquetípico dedicado de la obra. No se subsume claramente en página existente; conecta tangencialmente con marco-luterano-catolico",
+      "quote_evidence": "La religión del culto Imperial en Warhammer 40K refleja cómo los protestantes perciben el catolicismo",
+      "review_priority": "medium",
+      "review_priority_reason": "observación reutilizable; si el canal hace análisis dedicado de Warhammer 40K o desarrolla la lectura protestante/católica con obras concretas, candidata a entity_work o subsección dedicada",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "She-Hulk / Doctor Strange en el multiverso de la locura",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "obras citadas como casos paralelos del patrón wokismo en franquicias. Subsumidas en consumismo-critica via pending_update como evidencia del patrón general",
+      "quote_evidence": "She-Hulk produce vergüenza ajena por su tono forzadamente moderno",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "diferencias de género en autismo / masking",
+      "reason_code": "passing_mention",
+      "reason_detail": "apunte muy breve sin desarrollo. Sin marco aplicado articulado. Sin valor enciclopédico autónomo",
+      "quote_evidence": "El autismo en mujeres se manifiesta más como masking y en hombres como acción impulsiva",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "confabulación (mención puntual)",
+      "reason_code": "passing_mention",
+      "reason_detail": "anuncio de tema futuro sin desarrollo. La confabulación está parcialmente capturada en golem-de-cobre como mecanismo de la memoria reconstructiva. Sin material nuevo aquí",
+      "quote_evidence": "Se menciona la confabulación como fenómeno con clasificación, neuropatología y mecanismos cognitivos propios",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Dead Space / Alien Isolation / Project Zero 2",
+      "reason_code": "passing_mention",
+      "reason_detail": "recomendaciones culturales sin análisis arquetípico ni marco aplicado per scope.md §3.3",
+      "quote_evidence": "Project Zero 2: Crimson Butterfly es calificado como un juegazo irrepetible que merece un remake",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "propuestas de contenido para la semana siguiente / sugerencias de Discord",
+      "reason_code": "meta_canal",
+      "reason_detail": "metadata del directo (organización del calendario de futuros vídeos, llamada al chat). Per scope.md §3.3 — meta-canal sin valor enciclopédico",
+      "quote_evidence": "Se compromete a hacer un análisis arquetípico de una película la semana siguiente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "problemas de arranque del PC / Crystal Disk",
+      "reason_code": "meta_canal",
+      "reason_detail": "diagnóstico técnico personal del setup del speaker — sin valor enciclopédico per scope.md §3.3",
+      "quote_evidence": "El PC tarda en arrancar: enciende pero no hace ruido de arranque y se queda colgado unos segundos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "debate sobre dos tarjetas gráficas",
+      "reason_code": "meta_canal",
+      "reason_detail": "discusión técnica sobre hardware personal del speaker — sin valor enciclopédico per scope.md §3.3",
+      "quote_evidence": "Dos GPUs estuvieron de moda pero hoy es una configuración nicho",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "comunidad de Warhammer con impresión 3D",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "iniciativa personal del speaker (logística de organizar una comunidad local de juego), sin contenido conceptual. Per scope.md §3.3",
+      "quote_evidence": "Propone crear una comunidad para jugar Warhammer con miniaturas impresas en 3D en lugar de comprar las oficiales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "24:53",
+      "block_timestamp_seconds": 1493,
+      "block_title": "Vox como alternativa política fracasada en España",
+      "block_summary_text": "Vox cada vez lo hace peor como alternativa política y probablemente se ha acomodado. No son conservadores, ni liberales, ni liberal-conservadores: no son nada definido. Acabarán siendo un partido marginal haciendo la misma política de siempre.",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_term": "vox",
+      "scope": "block",
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico",
+      "added_at": "2026-04-29",
+      "scope_md_test_failed": "scope.md §3.1 test #5 — comentario directo sobre actualidad partidista (≤12 meses) sin marco teórico aplicado. El bloque es valoración de la trayectoria política de Vox como partido específico, sin elevar la lectura a estructura sociológica o filosófica"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 13,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 16,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}
