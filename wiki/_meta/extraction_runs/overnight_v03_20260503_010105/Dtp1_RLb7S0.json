@@ -1,0 +1,249 @@
+{
+  "video_id": "Dtp1_RLb7S0",
+  "video_title": "Matrix, Gnosticismo, Cábala y mitología comparada",
+  "playlist": "_streams",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "gnosticismo",
+      "canonical_guess": "gnosticismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El gnosticismo es un fenómeno místico uránico con estructura platónica,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La gnosis es la capacidad de conocer de dentro afuera: por inspiración e iluminación interior, no por episteme,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Todas tienen gnosis (conocimiento de dentro afuera), elegidos que pueden acceder a ella y una cosmogonía jerárquica,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Una hipóstasis es tomar una característica de algo abstracto y convertirla en un objeto separado con entidad propia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "En whitelist con auto_promote=true. Tratamiento sustantivo masivo en este vídeo monográfico (~50 min de exposición sostenida): definición operativa (gnosis como conocimiento de dentro afuera, soteriología, místico uránico con estructura platónica), genealogía (neoplatonismo como semilla, cristianismo primitivo helenístico, judaísmo I-III, zoroastrismo), elementos comunes de todas las corrientes gnósticas (gnosis, elegidos, cosmogonía jerárquica por hipóstasis), estructura cosmológica (Padre, eones, Sofía, demiurgo, arcontes), tres tipos de seres, doctrina del Uno/Intelecto/Alma, epístrofe, dicotomía bien-mal y soteriología, distinción frente a 'iconotropía luciferiana postmoderna'. Promoción automática por whitelist + tratamiento sustantivo + ≥3 vídeos esperables en el corpus.",
+      "quote_evidence": "Es una soteriología: la salvación se alcanza mediante ese conocimiento gnóstico que permite comprender los grandes misterios,"
+    },
+    {
+      "surface_form": "Matrix (1999)",
+      "canonical_guess": "matrix-1999-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 75,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las Wachowski son judías postmodernas y cabalistas gnósticas,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La matriz es el árbol del conocimiento del bien y del mal, es el árbol de la vida de las sefirot,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El Oráculo es la Sabiduría (Jojmá): introdujo la duda permanente sobre la existencia en los humanos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "En whitelist con auto_promote=true. Vídeo monográfico que dedica ~75 min al análisis arquetípico-gnóstico de Matrix (cumple criterio §2.3 de análisis dedicado ≥30 min). Lectura específica del canal: Matrix como película gnóstica cabalista, los personajes como sefirot del árbol de la vida (Oráculo=Jojmá/Sabiduría, Arquitecto=Biná/Comprensión, Merovingio=Justicia, Maquinista=Fuerza, Creador de Llaves=Tiferet/Belleza), tres películas como fe-amor-esperanza, Neo como eón final, camino del mago vs camino del héroe, predeterminación gnóstica del despertar. Promoción automática por whitelist + análisis dedicado.",
+      "quote_evidence": "En Matrix, la matriz representa el mundo material donde las almas han caído, atrapadas en una red de información creada por un demiurgo,"
+    },
+    {
+      "surface_form": "cábala (Kabbalah)",
+      "canonical_guess": "kabbalah",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El árbol de las sefirot son 10 emanaciones de Dios: aspectos de lo divino que son al mismo tiempo ámbitos del universo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las klipot son el reverso oscuro de las sefirot: aspectos negativos o distorsionadores de lo divino,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "En whitelist soft (auto_promote=false). Cumple criterio adicional ANY-OF para promoción soft: tratamiento sustantivo (~12 min de exposición sostenida) + marco aplicado a la lectura de Matrix (las sefirot operan como mapa de los personajes, las klipot como su reverso oscuro) + connectivity esperable (gnosticismo, matrix-1999-film, magia-postmoderna-en-proxy lo wikilinkarán). Definición operativa: 10 emanaciones del Uno como red conectada que intercambia información, esotérica en sentido de claves para comprensión (no conocimiento prohibido), antepasados neoplatónicos siglos X-XII medieval, klipot como reverso oscuro. Conexión genealógica con gnosticismo (gnosticismo cabalista como combinación reunida en XVII-XIX vía teosofías).",
+      "quote_evidence": "La cábala es esotérica en el sentido de que requiere claves para ser comprendida, no en el sentido de conocimiento prohibido,"
+    },
+    {
+      "surface_form": "Mysterium Fascinans / animismo / origen de la divinización",
+      "canonical_guess": "mysterium-fascinans",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El Mysterium Fascinans (concepto de Rudolf Otto) es la fascinación por aquello que sabes que existe, es enorme, asombroso e incomprensible,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Concepto de Rudolf Otto (no en whitelist) que el canal articula como mecanismo psicológico del origen de la divinización: la mente busca rellenar lo incomprensible, antropomorfizar lo que muestra conducta. Material articulado pero corto (~8 min) y operativo más como pieza de la genealogía gnóstica/mítica que como concepto autónomo. La nueva página gnosticismo capturará la pieza vía wikilink. Si reaparece sostenido en otros directos, justificaría concept page propio.",
+      "quote_evidence": "Cuanto más conducta percibían, más divino y mistérico se volvía el fenómeno: antropomorfización como resultado de la teoría de la mente,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "mitología comparada como disciplina antropológica / errores comunes",
+      "reason_code": "meta_canal",
+      "reason_detail": "Introducción metodológica del canal sobre cómo se estudia la mitología comparada (de la raíz hacia la explicitud, no al revés) con ejemplos de errores comunes (Anakin como héroe truncado correcto, Lucifer como hijo pródigo incorrecto). Material útil para entender el método del canal pero más meta que enciclopédico. La pieza sobre Anakin/héroe truncado podría enriquecer viaje-heroe si reaparece sistematizada.",
+      "quote_evidence": "La mitología comparada se estudia desde la raíz del mito hacia su explicitud, no desde la última versión del mito,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la metodología del canal sobre mitología comparada (de raíz a explicitud) reaparece sostenida en otros directos, justificaría concept page sobre el método del canal.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "masonería como ritualismo / ismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre la masonería moderna como condensación ritualista de teosofías del XVIII-XIX, sin secretos anteriores genuinos. La definición de 'ismo' como voluntad deliberada de incidir en una pequeña parte de un todo es operativa pero corta. Conecta con magia-postmoderna-en-proxy y con la futura página de gnosticismo.",
+      "quote_evidence": "La simbología masónica es un refrito deliberado proveniente de la teosofía del XVIII y XIX,",
+      "review_priority": "medium",
+      "review_priority_reason": "La masonería como objeto del análisis del canal y la definición de 'ismo' podrían justificar concept page si reaparecen sostenidos en otros directos.",
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "teosofía como paso intermedio mística-magia / Blavatsky",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa del canal: teosofía como pseudofilosofía que sistematiza herramientas de comunicación con lo divino, paso intermedio entre la poética mística y la magia. Madame Blavatsky como paradigma del XVIII-XIX. Material breve (~3 min) que enriquecería magia-postmoderna-en-proxy. Capturable en la nueva página gnosticismo via wikilink.",
+      "quote_evidence": "La teosofía es el proceso pseudofilosófico que pretende sistematizar herramientas de comunicación con lo divino,",
+      "review_priority": "medium",
+      "review_priority_reason": "La pieza tipológica mística → teosofía → magia es operativa para el aparato del canal sobre lo esotérico. Si reaparece desarrollada, justificaría enriquecimiento explícito de magia-postmoderna-en-proxy con la sección sobre la genealogía teosófica.",
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "sofisma neognóstico / Blavatsky / New Age",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Crítica del canal a la teosofía de Blavatsky como pretensión de univocidad de todas las místicas, basada en la falacia 'si dos cosas se parecen es porque están relacionadas, aunque el parecido sea solo estético'. Pieza crítica que extiende sofisma-estetico al campo neognóstico. Capturable en la nueva página gnosticismo (sección 'sincretismo neognóstico moderno').",
+      "quote_evidence": "El sofisma neognóstico: si dos cosas se parecen es porque están relacionadas, aunque el parecido sea solo estético,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo"
+    },
+    {
+      "surface_form": "cinco mitos fundamentales / estructura arquetípica compartida",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Pieza canónica del canal: todos los mitos poéticos se reducen a cinco fundamentales (Génesis, Apocalipsis, mito del dios, mito de la diosa, mito del mago). Articulada brevemente aquí. Conecta con mito-moderno-en-proxy y con genesis-mitologico ya documentados. Si reaparece desarrollada como tipología sistemática, podría justificar concept page de los cinco mitos fundamentales.",
+      "quote_evidence": "Todos los mitos poéticos son recapitulación de la psique humana y se reducen a cinco mitos fundamentales: Génesis, Apocalipsis, mito del dios, mito de la diosa y mito del mago,",
+      "review_priority": "medium",
+      "review_priority_reason": "Los cinco mitos fundamentales como tipología propia del canal merecen concept page si reaparecen articulados sistemáticamente.",
+      "enriches_concept": "mito-moderno-en-proxy"
+    },
+    {
+      "surface_form": "camino del mago vs camino del héroe",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Distinción operativa del canal: el héroe empeña virtudes como armas y derrota el mal activamente; el mago tiene chispa interior y su viaje es pasivo de comprensión hacia el ascenso uránico. Articulación nueva del canal aplicada a Matrix (el elegido despierta por estructura, no por esfuerzo heroico). Capturable en la nueva página matrix-1999-film y referenciada desde gnosticismo. Si reaparece como tipología sostenida, justificaría concept page propio.",
+      "quote_evidence": "El héroe empeña sus virtudes como armas para derrotar al mal activamente,",
+      "review_priority": "medium",
+      "review_priority_reason": "Camino del mago vs camino del héroe es distinción operativa nueva del canal con potencial de concept page propio si reaparece desarrollada.",
+      "enriches_concept": "viaje-heroe"
+    },
+    {
+      "surface_form": "Platón y el mundo de las ideas / mito de la caverna",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Exposición breve de Platón como fundador de la teoría de las ideas. La whitelist tiene platon con auto_promote=false (soft). Aquí Platón aparece como semilla del gnosticismo más que como objeto de análisis dedicado. Material útil (corrección al aforismo postmoderno 'cambiando las ideas se cambia el mundo') pero corto.",
+      "quote_evidence": "Lo original de Platón es que apercibiéndote de tus propias ideas vas comprendiendo más matices del mundo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Platón en whitelist soft. Si reaparece tratado sustantivamente (≥10 min monográfico) en otros directos, justificará promote_new.",
+      "enriches_concept": "gnosticismo"
+    },
+    {
+      "surface_form": "neoplatonismo / inversión fundamental",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Genealogía del neoplatonismo como inversión de Platón (las ideas no solo existen, contienen la descripción del mundo) que origina cristianismo helenístico, judaísmo I-III, zoroastrismo y gnosticismo. Pieza interna de la promote_new sobre gnosticismo.",
+      "quote_evidence": "El fallo neoplatónico fundamental: si tenemos las ideas suficientes para comprender el universo, es porque el universo es así,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo"
+    },
+    {
+      "surface_form": "recommended_reference: Sefer Yetziráh, Zohar, Pistis Sofía, Piñero, Bazán",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bibliografía recomendada por el canal como base de estudio para gnosticismo y cábala: Sefer Yetziráh y Zohar (cábala), Pistis Sofía y evangelio secreto de Juan (gnosticismo), 'El círculo de la sabiduría' de Come de Liaño, 'Gnosis' de Antonio Piñero, 'Textos gnósticos' de Bazán (Biblioteca de Nag Hammadi). Material recommended_reference según scope §3.4 — bibliografía bibliográfica del canal sin análisis aplicado en este vídeo. Útil para futura página índice de bibliografía recomendada.",
+      "quote_evidence": "Cábala: Sefer Yetziráh y el Zohar,",
+      "review_priority": "medium",
+      "review_priority_reason": "Bibliografía bibliográfica del canal — debería capturarse en una futura página índice de recommended_reference. Antonio Piñero como autor académico podría merecer entrada en whitelist soft si reaparece como referencia recurrente.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "psicomagia / mente sobre la materia / magia moderna",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Definición del canal de la magia moderna como psicomagia (modifica tu intelecto y vivirás otra realidad) y principio de mente sobre la materia. Capturable en magia-postmoderna-en-proxy si se enriquece esa página, o en la nueva matrix-1999-film como pieza del aparato gnóstico aplicado.",
+      "quote_evidence": "La magia moderna es psicomagia: modifica tu intelecto y vivirás otra realidad, el principio de mente sobre la materia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "necesidad psicológica de fe y de magia / papel del ego en gnosticismo",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Cierre del directo: 'todo el mundo tiene necesidad de magia, la diferencia es qué tipo'; 'existe gente sin fe, pero no existe gente sin necesidad de fe'. El gnosticismo como sistema filosófico (no moral) que parte de que eres elegido — ego elevado en sentirse poderoso y especial. Capturable en la nueva página gnosticismo como cierre psicológico-crítico.",
+      "quote_evidence": "El gnosticismo no es un sistema moral sino filosófico: parte de que eres elegido y todo lo demás es comprensión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo"
+    },
+    {
+      "surface_form": "Anakin como paradigma del héroe truncado / Star Wars / precuelas Campbell",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve de Anakin como paradigma del héroe truncado y crítica a las precuelas de Star Wars como copia de Campbell sin sustancia. Material útil para viaje-heroe si reaparece desarrollado.",
+      "quote_evidence": "Decir que Anakin es un héroe truncado es correcto: es el paradigma perfecto del héroe truncado según la estructura del monomito,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 3,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[gnosticismo] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Matrix (1999)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[cábala (Kabbalah)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

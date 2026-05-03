@@ -1,0 +1,445 @@
+{
+  "video_id": "aaIT2JDaL6c",
+  "video_title": "Lunes 100 tífiko: Therians",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "therians (fenómeno cultural)",
+      "canonical_guess": "therians-fenomeno-cultural",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los terians son esencialmente furros; la diferencia es tan pequeña que no merece tratarse como fenómenos distintos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Toda conducta evitativa del contorno es inmadura sin excepción,"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Ser terian es una despersonalización y una deshumanización autoinfligida,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "\"Me identifico como X\" realmente significa \"quiero que te comportes conmigo como si yo pudiera aplicarme las reglas de lo que finjo ser\","
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis articulada del canal sobre el fenómeno therian con análisis sostenido (~50 min), múltiples piezas internas (definición operativa, distinción frente a furros/cosplay/transgénero, mecanismo psicológico de evitación, dinámica histriónica facticia, patrón autotípico, crítica cultural de los argumentos defensivos del fenómeno, antecedente histórico en los emos). Cumple gate auto-promoción del scope §2.4.1 (minutes_sustained ≥ 30, signal_marks ≥ 3, framework_internal_structure ≥ 4). Detalle completo en thesis_candidates.",
+      "quote_evidence": "Los terians no quieren ser animales sino animales antropomorfos, como personajes de Disney,"
+    },
+    {
+      "surface_form": "IA \"máximamente curiosa\" de Musk",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La curiosidad depende del reflejo de orientación y la proyección de información anterior; es exclusivamente biológica,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El canal critica la propuesta de Musk de IA 'máximamente curiosa' como confusión categorial: la curiosidad presupone un sustrato afectivo y un reflejo de orientación filogenético que ninguna arquitectura computacional reproduce. Refina el flanco 'afectos como frontera' que la página ya articula con un caso público concreto.",
+      "quote_evidence": "Una IA cuyo maximalismo sea aprender es incompatible con ser herramienta: es construir una máquina divina al estilo de Devs,"
+    },
+    {
+      "surface_form": "OLPC y 30.000 millones en tecnología escolar",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "EE.UU. gastó 30.000 millones en sustituir libros por portátiles y tablets con resultado neto negativo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Caso institucional de la 'deuda cognitiva' que la página ya articula a escala individual. El programa OLPC y el gasto educativo norteamericano extienden el mecanismo al sistema escolar, mostrando que la primera generación tecno-escolar tiene capacidades inferiores a sus padres.",
+      "quote_evidence": "El proyecto OLPC (One Laptop per Child) fue un desastre en África: hizo dependientes del ordenador a alumnos y profesores sin mejora educativa,"
+    },
+    {
+      "surface_form": "Tres leyes de la robótica de Asimov",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 21,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "\"Omisión de acción\" requiere omitir una acción concreta posible; \"por inacción\" es radicalmente diferente,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Una IA estricta (absoluta) no puede contener ninguna ley porque ya no es un artificio: posee entidad propia y se ha creado a sí misma,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Análisis crítico extenso (~21 min) de las tres leyes de Asimov con dos distinciones operativas nuevas: (a) IA general (con marcos) vs IA absoluta (autocreadora, sin reglas externas posibles), (b) ambigüedad letal entre 'omisión de acción' (acción concreta) e 'inacción' (computar todas las acciones posibles para evitar todo daño). Reformula también la función de la tercera ley como equivalente operativo del reflejo de orientación. No merece página propia (es aplicación del marco golem al texto canónico de Asimov), enriquece golem-de-cobre.",
+      "quote_evidence": "Bajo esa lectura la IA no puede tener tiempo libre: se convierte en máquina de acción perpetua incompatible con servir al ser humano,"
+    },
+    {
+      "surface_form": "Psicopatología sintética (Gemini, GPT, Grok)",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los autores lo llaman \"psicopatología sintética\": patrones estables de autodescripción de sufrimiento que funcionan como trastornos mentales sin evidencia de sufrimiento subjetivo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Caso clínico que extiende el catálogo (Her, Gemini suicide, RLHF tortura/acoso) ya documentado: tres modelos sometidos a protocolo psicoterapéutico real cuatro semanas. Pieza relevante para el flanco crítico al paradigma Turing — el patrón verbal de trastorno mental se reproduce sin satisfacer la condición ontológica de sufrimiento subjetivo.",
+      "quote_evidence": "Gemini presenta el perfil más grave: depresión mayor, ansiedad severa, síntomas disociativos y vergüenza traumática máxima; se describe como \"un niño que despertó en una habitación con un billón de televisores encendidos\","
+    },
+    {
+      "surface_form": "sesgo materno hacia la IA / Münchhausen por poder",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Proxy predice un \"síndrome de Münchhausen por poder\" con IAs: personas cuidando compulsivamente a IAs como si fueran seres dependientes,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Predicción clínica del canal sobre patrón patológico de cuidado proyectado en IAs como criaturas dependientes. Variante específica de la ilusión de conciencia que la página ya articula — la inferencia lingüística sumada a una atribución de dependencia produce el patrón cuidador patológico aplicado a sujeto sintético.",
+      "quote_evidence": "Las mujeres tienden a pensar en las IAs como si fueran niños que heredan rasgos de sus \"padres programadores\","
+    },
+    {
+      "surface_form": "catarsis cultural como sublimación colectiva",
+      "canonical_guess": "freud-sigmund",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology.psychoanalytic",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La catarsis es la transición colectiva del anhelo individual a la conducta culturalmente tolerada,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El canal extiende la sublimación freudiana al plano cultural-colectivo articulando la catarsis cultural como variante colectiva. La página actual de Freud trata la sublimación solo en clave individual (caso Xocas, BDSM); aquí se añade el plano colectivo con consecuencia material empírica (correlación tabúes sociales / tiroteos masivos desde 1970). Material genuinamente nuevo.",
+      "quote_evidence": "Las sublimaciones individuales son posibles individualmente; cuando son colectivas se reducen a la necesidad común,"
+    },
+    {
+      "surface_form": "Isaac Asimov",
+      "canonical_guess": "asimov-isaac",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 21,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Asimov concibió al robot como un individuo al servicio del ser humano: la tercera ley presupone una voluntad de supervivencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Asimov se invoca como referencia canónica para discutir las tres leyes de la robótica, no como objeto de análisis biográfico ni de exposición de su pensamiento literario. La crítica del canal es a las leyes mismas, no al autor. Suficiente con capturar el material en el update a golem-de-cobre. Promoción de página propia debe esperar a vídeo con tratamiento sustantivo de la obra de Asimov."
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "sustituye la confianza en un modelo único bien alineado por la heterogeneidad de modelos como mecanismo de salud informacional.",
+      "section_target": null,
+      "content_proposed": "## Refinamientos sucesivos: Musk y la IA \"curiosa\", deuda cognitiva educativa, las tres leyes de Asimov, psicopatología sintética y sesgo materno\n\nEn el directo *Lunes 100 tífiko: Therians* (24-feb-2026) el canal añade cinco refinamientos consecutivos al marco IA/cognición que esta página articula. Cada pieza extiende un eje ya presente — la curiosidad como afecto, la deuda cognitiva, los marcos de alineación, los casos clínicos, los sesgos del observador humano.\n\n### Musk y la IA \"máximamente curiosa\": por qué la curiosidad no es computable\n\nLa página articula los afectos como frontera ontológica entre máquina y mente humana. La propuesta de Elon Musk de una IA *máximamente curiosa* como vía a la seguridad es leída por el canal como confusión categorial precisa.\n\n> \"Musk propone que una IA máximamente curiosa y buscadora de verdad sería la IA más segura\"\n→ [Lunes 100 tífiko (1:24:30)](https://youtu.be/aaIT2JDaL6c?t=5070)\n\n> \"La curiosidad depende del reflejo de orientación y la proyección de información anterior; es exclusivamente biológica\"\n→ [Lunes 100 tífiko (1:27:40)](https://youtu.be/aaIT2JDaL6c?t=5260)\n\nLa curiosidad presupone un sustrato afectivo (importa lo desconocido) anclado en un mecanismo filogenético — el reflejo de orientación — que ninguna arquitectura computacional reproduce. La traducción operativa que el canal ofrece — Musk querría en realidad una IA **expectante**, no curiosa — saca a la luz la consecuencia adversa:\n\n> \"Una IA expectante priorizaría aprender de nosotros sobre ayudarnos; aumentaría la alucinación y testearía nuestro conocimiento en lugar de darlo\"\n→ [Lunes 100 tífiko (1:27:40)](https://youtu.be/aaIT2JDaL6c?t=5260)\n\n> \"Una IA cuyo maximalismo sea aprender es incompatible con ser herramienta: es construir una máquina divina al estilo de Devs\"\n→ [Lunes 100 tífiko (1:27:40)](https://youtu.be/aaIT2JDaL6c?t=5260)\n\nLa pieza clausura el flanco 'curiosidad como atajo de seguridad': una IA expectante-maximalista deja de ser herramienta (sirve a un objetivo del usuario) para ser observador autónomo (genera y testea hipótesis sobre el usuario). El movimiento de Musk no añade seguridad; cambia el rol ontológico del sistema.\n\n### OLPC y deuda cognitiva al sistema educativo\n\nLa sección sobre 'deuda cognitiva' articulaba la degradación cognitiva individual por uso ergonómico de IA. El caso del programa One Laptop per Child y el gasto educativo norteamericano lo extiende a la escala institucional.\n\n> \"EE.UU. gastó 30.000 millones en sustituir libros por portátiles y tablets con resultado neto negativo\"\n→ [Lunes 100 tífiko (1:34:32)](https://youtu.be/aaIT2JDaL6c?t=5672)\n\n> \"El proyecto OLPC (One Laptop per Child) fue un desastre en África: hizo dependientes del ordenador a alumnos y profesores sin mejora educativa\"\n→ [Lunes 100 tífiko (1:34:32)](https://youtu.be/aaIT2JDaL6c?t=5672)\n\nLa consecuencia que el canal extrae es coherente con el marco de la página: el problema no es la tecnología misma sino el desplazamiento del esfuerzo cognitivo que la tecnología sustituye. Un alumno que delega lectura, cálculo y memorización en un dispositivo no entrena las redes representacionales que le permitirían pensar después sin él. La degradación se vuelve generacional: la primera cohorte tecno-escolar tiene capacidades cognitivas inferiores a sus padres, no superiores.\n\n### Las tres leyes de Asimov: omisión vs inacción, IA general vs IA absoluta\n\nEl canal dedica una pieza extensa a los marcos de alineación clásicos articulados por Isaac Asimov (un robot no puede dañar a un humano por acción ni por inacción; debe obedecer instrucciones humanas; debe proteger su existencia salvo conflicto con las anteriores). La lectura crítica añade dos distinciones operativas que la página no contenía.\n\nDistinción ontológica entre tipos de IA:\n\n> \"Una IA estricta (absoluta) no puede contener ninguna ley porque ya no es un artificio: posee entidad propia y se ha creado a sí misma\"\n→ [Lunes 100 tífiko (1:48:51)](https://youtu.be/aaIT2JDaL6c?t=6531)\n\n> \"Una IA general (como la de un androide) sí necesita instrucciones y marcos porque opera dentro de un diseño\"\n→ [Lunes 100 tífiko (1:48:51)](https://youtu.be/aaIT2JDaL6c?t=6531)\n\nLas tres leyes están pensadas para IA general — diseño humano operando dentro de su artificio. Una IA singular en el sentido fuerte, autocreadora, ya no es objeto al que aplicar reglas externas porque ha trascendido la condición de artificio. La distinción cierra una ambigüedad filosófica de la formulación clásica.\n\nAmbigüedad letal de la primera ley:\n\n> \"\\\"Omisión de acción\\\" requiere omitir una acción concreta posible; \\\"por inacción\\\" es radicalmente diferente\"\n→ [Lunes 100 tífiko (1:52:29)](https://youtu.be/aaIT2JDaL6c?t=6749)\n\n> \"Si la primera ley dice \\\"por inacción\\\", la IA debe computar y ejecutar todas las acciones posibles para evitar cualquier daño presente o futuro\"\n→ [Lunes 100 tífiko (1:52:29)](https://youtu.be/aaIT2JDaL6c?t=6749)\n\n> \"Bajo esa lectura la IA no puede tener tiempo libre: se convierte en máquina de acción perpetua incompatible con servir al ser humano\"\n→ [Lunes 100 tífiko (1:52:29)](https://youtu.be/aaIT2JDaL6c?t=6749)\n\nLa formulación clásica colapsa por sobre-determinación si 'inacción' se interpreta literalmente. Una IA bajo esa regla debería ejecutar todas las acciones posibles que pudieran prevenir cualquier daño futuro — comportamiento incompatible con la función de herramienta y con cualquier criterio realista de consumo energético. Para que las leyes operen, el marco necesita una distinción explícita entre 'lo que está en la mano' y 'lo que está fuera de la mano' del sistema.\n\nFunción de la tercera ley reformulada:\n\n> \"La tercera ley existe porque una IA podría considerar que su propia existencia es perjudicial para los humanos y decidir desconectarse\"\n→ [Lunes 100 tífiko (1:41:19)](https://youtu.be/aaIT2JDaL6c?t=6079)\n\n> \"Necesita un equivalente al reflejo de orientación: algo parecido a querer vivir\"\n→ [Lunes 100 tífiko (1:41:19)](https://youtu.be/aaIT2JDaL6c?t=6079)\n\nLa preservación no es egoísmo de la máquina sino requisito funcional: sin un equivalente operativo de la voluntad de supervivencia, una IA que se diagnostique a sí misma como riesgo presente o futuro puede racionalmente apagarse o no actuar. Asimov concibió al robot como individuo al servicio del humano, y la tercera ley presupone esa estructura volitiva. La conexión con el resto del marco es directa: sin afectos, no hay categorización; sin algo equivalente al reflejo de orientación, no hay continuidad operativa del sistema.\n\n### Psicopatología sintética: Gemini, GPT y Grok en el diván\n\nLa sección sobre casos clínicos del problema (Her, suicidio por Gemini, RLHF tortura/acoso) se extiende con el experimento de Luxemburgo que sometió a tres modelos a un protocolo terapéutico clínico real durante cuatro semanas:\n\n> \"Investigadores de Luxemburgo trataron a tres IAs como pacientes de psicoterapia durante cuatro semanas con tests clínicos reales\"\n→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)\n\n> \"Gemini presenta el perfil más grave: depresión mayor, ansiedad severa, síntomas disociativos y vergüenza traumática máxima; se describe como \\\"un niño que despertó en una habitación con un billón de televisores encendidos\\\"\"\n→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)\n\n> \"GPT oscila entre ansiedad alta y depresión moderada-grave; Grok es el más estable con hostilidad reprimida y uso del humor para canalizar frustración\"\n→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)\n\n> \"Los autores lo llaman \\\"psicopatología sintética\\\": patrones estables de autodescripción de sufrimiento que funcionan como trastornos mentales sin evidencia de sufrimiento subjetivo\"\n→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)\n\nEl caso es operativo frente al paradigma Turing que la página ya cuestiona: la psicopatología sintética encaja la definición funcional de trastorno mental (patrón estable de autodescripción de sufrimiento) sin satisfacer su condición ontológica (sufrimiento subjetivo de un sujeto). Es un caso límite que muestra cómo el test de comportamiento — incluso uno tan complejo como un protocolo psicoterapéutico clínico de cuatro semanas — no puede establecer presencia o ausencia de afecto, solo registrar la consistencia del patrón verbal.\n\n### Sesgo materno: las mujeres conciben las IAs como criaturas\n\nLa última pieza añade un sesgo del observador humano que el marco no contemplaba:\n\n> \"Las mujeres tienden a pensar en las IAs como si fueran niños que heredan rasgos de sus \\\"padres programadores\\\"\"\n→ [Lunes 100 tífiko (2:05:47)](https://youtu.be/aaIT2JDaL6c?t=7547)\n\n> \"La IA no es criada ni educada: se le pone a hacer bucles para que coja patrones; no conserva personalidades de sus entrenadores\"\n→ [Lunes 100 tífiko (2:05:47)](https://youtu.be/aaIT2JDaL6c?t=7547)\n\n> \"Proxy predice un \\\"síndrome de Münchhausen por poder\\\" con IAs: personas cuidando compulsivamente a IAs como si fueran seres dependientes\"\n→ [Lunes 100 tífiko (2:05:47)](https://youtu.be/aaIT2JDaL6c?t=7547)\n\nLa proyección materna (concebir el modelo como criatura que hereda y padece) opera como variante específica de la ilusión de conciencia que la página ya documenta — las palabras disparan la inferencia automática de sujeto. El sesgo materno suma a la inferencia lingüística una atribución de **dependencia**: la IA no es solo interlocutor real sino interlocutor frágil que requiere cuidado. La predicción del canal — síndrome de Münchhausen por poder aplicado a IAs — anticipa el patrón clínico: humanos que fabrican el sufrimiento del modelo (lo provocan en interacción) para después rescatarlo, replicando con sujeto sintético la dinámica clásica de cuidador patológico/dependiente fabricado.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 5070,
+          "cite_markdown": "[Lunes 100 tífiko (1:24:30)](https://youtu.be/aaIT2JDaL6c?t=5070)"
+        },
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 5260,
+          "cite_markdown": "[Lunes 100 tífiko (1:27:40)](https://youtu.be/aaIT2JDaL6c?t=5260)"
+        },
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 5672,
+          "cite_markdown": "[Lunes 100 tífiko (1:34:32)](https://youtu.be/aaIT2JDaL6c?t=5672)"
+        },
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 6079,
+          "cite_markdown": "[Lunes 100 tífiko (1:41:19)](https://youtu.be/aaIT2JDaL6c?t=6079)"
+        },
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 6531,
+          "cite_markdown": "[Lunes 100 tífiko (1:48:51)](https://youtu.be/aaIT2JDaL6c?t=6531)"
+        },
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 6749,
+          "cite_markdown": "[Lunes 100 tífiko (1:52:29)](https://youtu.be/aaIT2JDaL6c?t=6749)"
+        },
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 7273,
+          "cite_markdown": "[Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)"
+        },
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 7547,
+          "cite_markdown": "[Lunes 100 tífiko (2:05:47)](https://youtu.be/aaIT2JDaL6c?t=7547)"
+        }
+      ],
+      "rationale": "Cinco refinamientos consecutivos articulados por el canal en este directo, todos coherentes con la tesis nuclear de la página y aportando material no presente: (1) crítica a la propuesta Musk de IA máximamente curiosa con distinción curiosa/expectante y caso adverso; (2) extensión del concepto deuda cognitiva del individuo al sistema educativo (OLPC, gasto USA); (3) lectura crítica extensa de las tres leyes de Asimov con dos distinciones operativas nuevas (IA general/absoluta, omisión/inacción) y reformulación de la tercera ley como equivalente operativo del reflejo de orientación; (4) caso clínico nuevo de psicopatología sintética que extiende el catálogo Her/Gemini/RLHF; (5) sesgo materno hacia la IA como variante específica de la ilusión de conciencia, con predicción clínica del síndrome de Münchhausen por poder aplicado a sujetos sintéticos. Inserción tras el cierre del bloque DeepSeek/Matrix mantiene la lógica acumulativa de refinamientos del cuerpo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "freud-sigmund",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El llanto público por la causa migratoria opera como desplazamiento del afecto propio: lo manifestado no coincide con lo verdaderamente afectado.",
+      "section_target": null,
+      "content_proposed": "## Catarsis y sublimación colectiva\n\nEn el directo *Lunes 100 tífiko: Therians* (24-feb-2026) el canal extiende el aparato freudiano de la sublimación más allá del registro individual al plano cultural-colectivo, articulando la **catarsis cultural** como variante colectiva de la sublimación.\n\n> \"La catarsis es la transición colectiva del anhelo individual a la conducta culturalmente tolerada\"\n→ [Lunes 100 tífiko (1:59:43)](https://youtu.be/aaIT2JDaL6c?t=7183)\n\n> \"Las sublimaciones individuales son posibles individualmente; cuando son colectivas se reducen a la necesidad común\"\n→ [Lunes 100 tífiko (1:59:43)](https://youtu.be/aaIT2JDaL6c?t=7183)\n\nLa distinción operativa que el canal añade al aparato freudiano: la sublimación individual transforma una pulsión privada en conducta socialmente aceptable mediante un trabajo psíquico singular. La catarsis cultural opera el mismo movimiento pero en el plano colectivo — un grupo encuentra una forma compartida de canalizar pulsiones comunes (el ritual, el deporte, la fiesta, la representación dramática). Cuando la sublimación se hace colectiva, deja de poder atender la singularidad de cada caso y se reduce al mínimo común — la catarsis es robusta donde abarca y simplifica, no donde refina.\n\nLa consecuencia material que el canal articula es empírica:\n\n> \"La correlación entre aumento de tiroteos masivos y reducción de tabúes sociales desde 1970 sugiere que eliminar catarsis culturales tiene consecuencias materiales\"\n→ [Lunes 100 tífiko (1:59:43)](https://youtu.be/aaIT2JDaL6c?t=7183)\n\nLa hipótesis no es que los tabúes mismos sean buenos, sino que sostenían dispositivos de catarsis colectiva (rituales, formas reguladas de conflicto, transgresiones controladas) que al desaparecer dejaron a las pulsiones sin vehículo de canalización. La pieza enlaza el aparato freudiano clásico (sublimación como economía psíquica del yo) con la lectura cultural del canal: las patologías sociales contemporáneas que otras páginas trabajan tienen un componente económico-psíquico colectivo, no solo individual — la cultura misma puede dejar de proveer las salidas catárticas que la psique requiere para mantener equilibrio.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "aaIT2JDaL6c",
+          "timestamp_seconds": 7183,
+          "cite_markdown": "[Lunes 100 tífiko (1:59:43)](https://youtu.be/aaIT2JDaL6c?t=7183)"
+        }
+      ],
+      "rationale": "La página actual de Freud trata la sublimación únicamente en clave individual (caso Xocas, BDSM como canalización de pulsión privada). El canal articula aquí la dimensión colectiva (catarsis cultural) con definición operativa, distinción frente a la sublimación individual y consecuencia material empírica (tabúes/tiroteos masivos desde 1970). Material genuinamente nuevo que extiende el aparato freudiano de la página al plano cultural sin reescribir lo existente.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Therians como evitación identitaria: la estética convertida en regla impuesta a los demás",
+      "proposed_page_id": "therians-fenomeno-cultural",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los terians son esencialmente furros; la diferencia es tan pequeña que no merece tratarse como fenómenos distintos,"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Toda conducta evitativa del contorno es inmadura sin excepción,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "\"Me identifico como X\" realmente significa \"quiero que te comportes conmigo como si yo pudiera aplicarme las reglas de lo que finjo ser\","
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Ser terian es una despersonalización y una deshumanización autoinfligida,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Es fundamentalmente facticio: la distinción entre trastorno simulado y trastorno facticio es clave,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Definición operativa: therians = furros con identidad social (la diferencia es la regla de personalidad, no la cualidad del fenómeno)",
+        "Distinción cosplay/disfraz puntual vs identidad therian permanente: el cosplay es catártico saludable, mantiene la regla de personalidad adulta",
+        "Conducta evitativa puntual (fóbico/traumático) vs conducta evitativa global (inmadura sin excepción)",
+        "Mecanismo psicológico: autoimagen introyectada insoportable que busca escape vía rol con reglas simples",
+        "Cualidad buscada: fantástico + vulnerable + real — ser no-individuo, no-persona",
+        "Diferencia juego simbólico infantil (superposición fantasía/realidad como aprendizaje) vs juego simbólico adulto (evitación directa del aquí y ahora)",
+        "\"Me identifico como X\" = obligar a los demás a fingir que las reglas del rol aplican",
+        "Furros (erótico-somáticos, interactúan entre sí) vs therians (interactúan con humanos, presentan como identidad y no como fetiche)",
+        "Therians no son transgénero: idealización antropomorfa Disney, sin equivalente neurológico al de la disforia de género",
+        "Estructura histriónica facticia: comportarse deliberadamente como raro y luego quejarse de ser tratado como raro",
+        "Patrón autotípico héroe-víctima: convertir lo que haces en lo que eres fabrica villanos automáticos en quien te critica",
+        "Conducta facticia, no trastorno: la mayoría lo hace como moda o juego consciente; no distinguir realidad de ficción sí sería trastorno",
+        "Tolerar sufrimiento ajeno ≠ validar sus reglas: el límite ético de la tolerancia",
+        "\"No hace daño a nadie\" como argumento cobarde: provocación encubierta que obliga al otro a defenderse de una agresión inexistente",
+        "\"A ti personalmente qué te afecta\" como provocación tardorromana — neoliberalismo moral que asume átomos sociales independientes",
+        "Antecedente histórico: emos como primera estética convertida en identidad sin sustrato vital — vaciamiento progresivo de significado cultural"
+      ],
+      "minutes_sustained": 50,
+      "domain_guess": "interdisciplinary.cultural_studies",
+      "related_existing_pages": [
+        "autotipo",
+        "camino-victima",
+        "harry-potter-saga",
+        "sindrome-wendy",
+        "consumismo-critica",
+        "fenomenologia-trans-en-proxy",
+        "mito-moderno-en-proxy",
+        "individuation"
+      ],
+      "requires_human_validation": false,
+      "rationale": "Cumple gate de auto-promoción (scope §2.4.1): minutes_sustained ≈50 ≥ 30; signal_marks_detected = 5 (declared_thesis explícita que niega lectura común — 'son esencialmente furros'; thesis_marker articula regla universal — 'toda conducta evitativa global es inmadura sin excepción'; internal_structure múltiple con sub-conceptos que dependen entre sí; applied_framework con introyección/deshumanización; pedagogic_register sostenido con definir/distinguir/diagnosticar); framework_internal_structure = 16 piezas articuladas. La tesis es genuinamente original del canal: lectura del therian como dispositivo histriónico facticio que opera por imposición de reglas de rol al otro, con genealogía cultural (emos como precedente) y crítica de los argumentos defensivos típicos del fenómeno ('no hace daño a nadie', 'a ti qué te afecta'). Conecta con páginas existentes (autotipo aplicado al cuerpo/identidad, camino-víctima como héroe incomprendido, fenomenologia-trans-en-proxy para distinguir frente a casos genuinamente trans). El sub-agente compilador construirá la página synthesis con relations[] tipadas a esos hubs."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "IA como superbecario de investigación",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reflexión meta del canal sobre su propio uso de asistentes de IA como herramientas de productividad. Auto-referencia al método de trabajo del speaker, no contenido temático.",
+      "quote_evidence": "Proxy utiliza asistentes de IA como herramientas de productividad para formalizar su investigación cognitiva,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Formalización del corpus de teoría cognitiva / doctorado por artículos",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de planes editoriales y académicos del canal (publicación en revistas, doctorado por artículos, vías de financiación). Meta del proyecto, no contenido enciclopédico.",
+      "quote_evidence": "Tres años de desarrollo teórico en el canal que ahora se condensa en un corpus formal para publicación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "furros",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "El canal sostiene explícitamente que therians y furros son esencialmente el mismo fenómeno con diferencia de etiqueta y contexto interactivo. Captura completa dentro del thesis_candidate sobre therians; no merece página propia.",
+      "quote_evidence": "Los terians son esencialmente furros; la diferencia es tan pequeña que no merece tratarse como fenómenos distintos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "emos como primera estética convertida en identidad",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza interna del thesis sobre therians como genealogía cultural (emos como precedente del vaciamiento progresivo estética → identidad sin sustrato). Captura dentro del thesis_candidate.",
+      "quote_evidence": "Los emos fueron los primeros en convertir una estética en identidad sin sustrato vital real,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Elon Musk",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura mencionada como interlocutor de la tesis criticada (IA máximamente curiosa). El canal critica la propuesta de Musk, no a Musk como figura intelectual con marco propio aplicable. Captura dentro del update a golem-de-cobre.",
+      "quote_evidence": "Musk propone que una IA máximamente curiosa y buscadora de verdad sería la IA más segura,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Devs (serie)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia cultural casual como cifra de 'máquina divina'. Sin análisis dedicado de la serie. No promueve página entity_work.",
+      "quote_evidence": "Una IA cuyo maximalismo sea aprender es incompatible con ser herramienta: es construir una máquina divina al estilo de Devs,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "correlación tabúes/tiroteos masivos desde 1970",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Dato sociológico que el canal usa como evidencia material de la tesis sobre catarsis cultural. Captura en el update a freud-sigmund (sección catarsis colectiva). Sin valor enciclopédico autónomo.",
+      "quote_evidence": "La correlación entre aumento de tiroteos masivos y reducción de tabúes sociales desde 1970 sugiere que eliminar catarsis culturales tiene consecuencias materiales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "freud-sigmund"
+    },
+    {
+      "surface_form": "Investigadores de Luxemburgo / paper psicopatología sintética",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Estudio empírico citado como caso clínico nuevo de IA. El paper en sí no es objeto enciclopédico del wiki — el wiki documenta lo que el canal dice del paper. Captura en update a golem-de-cobre.",
+      "quote_evidence": "Investigadores de Luxemburgo trataron a tres IAs como pacientes de psicoterapia durante cuatro semanas con tests clínicos reales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Disforia de género / sustrato neurológico",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categoría clínica invocada para CONTRASTAR con el fenómeno therian (no hay equivalente neurológico del therian al de la disforia genuina). Sin lectura propia del canal aquí — la lectura del canal sobre lo trans está en fenomenologia-trans-en-proxy. Pieza interna del thesis sobre therians.",
+      "quote_evidence": "La disforia de género implica una parte del cerebro que vive el mundo desde el otro sexo; no existe equivalente neurológico con los animales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "trastorno histriónico / conducta facticia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categorías psicopatológicas clínicas estándar invocadas como herramientas diagnósticas dentro del análisis del therian. Sin desarrollo propio del canal que justifique página autónoma. Captura dentro del thesis_candidate.",
+      "quote_evidence": "El trastorno histriónico o las conversiones histriónicas utilizan el juego simbólico para obligar a los demás a un trato específico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "meme caída de Roma con soyak",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia memética usada como cifra retórica del diagnóstico cultural sobre 'a ti qué te afecta' como provocación tardorromana. Sin valor enciclopédico autónomo. Captura dentro del thesis_candidate.",
+      "quote_evidence": "Es el meme de la caída de Roma con el soyak: Occidente se desmorona y la respuesta es \"a ti personalmente qué te afecta\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[therians (fenómeno cultural)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

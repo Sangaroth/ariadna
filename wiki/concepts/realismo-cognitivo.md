@@ -536,6 +536,35 @@ El ejemplo apócrifo del 'kangarú' (palabra que supuestamente significaba 'no t
 
 En el mismo directo, el canal añade una posición frente al conductismo que cierra la triangulación de adversarios del realismo cognitivo (psicoanálisis, materialismo filosófico cerrado, ahora conductismo). La objeción es de fondo lógico: el conductismo es **filosóficamente tautológico** porque define conducta apelando a su propio sistema o a coordenadas psicoanalíticas ajenas que importa sin justificar. Y precisa por qué la enfermedad mental no es construcción contingente: la esquizofrenia no es problema de adaptación al entorno sino desconexión con la realidad — categoría que solo el realismo cognitivo puede sostener (porque postula realidad cognoscible) y que el conductismo, al disolver la categoría de realidad mental, no puede usar coherentemente.
 
+## Caso operativo: cognición visual en aves
+
+En el directo *Lunes Asertivo* (22-abr-2025) el canal articula la cognición animal como caso aplicado del marco. Las aves operan con componentes representacionales mínimas que ilustran cómo la percepción precede y sostiene la metarrepresentación humana — una clase imaginaria sin metarrepresentación basta para inferir velocidad de aproximación de un depredador.
+
+> "Los pájaros usan objetos humanos en nidos no porque identifiquen lo humano, sino porque lo anómalo les produce un afecto negativo"
+→ [Lunes Asertivo (1:31:06)](https://youtu.be/xaFCTcXXI2o?t=5466)
+
+> "Un gavilán sin ojos es percibido como inofensivo; con ojos bajo el pico o un ojo en la frente resulta aterrador"
+→ [Lunes Asertivo (1:31:06)](https://youtu.be/xaFCTcXXI2o?t=5466)
+
+> "La disposición de los ojos activa patrones de detección de depredador sin que el ave entienda qué es un depredador"
+→ [Lunes Asertivo (1:31:06)](https://youtu.be/xaFCTcXXI2o?t=5466)
+
+La pieza confirma operativamente la axiomática del marco: la clase 'depredador' opera en el ave como detección de configuración geométrica anómala (ojos en posición frontal-baja, no en los lados como las presas) sin requerir representación semántica del concepto. La componente Q_imaginaria opera por sí sola, sin componente formal ni metarrepresentación.
+
+La simplificación dimensional refuerza la tesis:
+
+> "Los pájaros no perciben tamaño sino distancia; algo grande significa cerca y algo pequeño significa lejos"
+→ [Lunes Asertivo (1:38:51)](https://youtu.be/xaFCTcXXI2o?t=5931)
+
+> "Las aves solo necesitan una dimensión imaginaria frente a las tres dimensiones humanas (alto, ancho, profundo)"
+→ [Lunes Asertivo (1:38:51)](https://youtu.be/xaFCTcXXI2o?t=5931)
+
+> "Con una sola dimensión y su gradiente de cambio pueden inferir velocidad de aproximación del depredador"
+→ [Lunes Asertivo (1:38:51)](https://youtu.be/xaFCTcXXI2o?t=5931)
+
+La cognición aviar opera con un grado de libertad imaginaria (distancia escalar) frente a las tres dimensiones espaciales que articulan la representación humana del entorno. La simplificación dimensional es funcionalmente suficiente: el gradiente de cambio de la dimensión única basta para extraer velocidad de aproximación, único parámetro que el ave necesita para decidir huida. La pieza ilustra cómo el realismo cognitivo no requiere riqueza representacional uniforme entre especies — basta que cada matriz noética sea sistemática respecto a su propio dominio operativo.
+
+
 > "El conductismo es filosóficamente tautológico: define conducta apelando a su propio sistema o a coordenadas psicoanalíticas ajenas"
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
 
@@ -562,6 +591,7 @@ En el mismo directo, el canal añade una posición frente al conductismo que cie
 
 
 
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
@@ -571,4 +601,5 @@ En el mismo directo, el canal añade una posición frente al conductismo que cie
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
 - **Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke y Gustavo Bueno** — chunks: [49:21](https://youtu.be/TZTiSfm6syI?t=2961) · [1:17:23](https://youtu.be/TZTiSfm6syI?t=4643)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [29:42](https://youtu.be/i72IYlpQWd0?t=1782)
+- **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:38:51](https://youtu.be/xaFCTcXXI2o?t=5931)
 

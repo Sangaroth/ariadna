@@ -81,5 +81,9 @@ Inmediatamente después de Campbell, el canal introduce a Mircea Eliade marcando
 ## Citations
 
 
+
+
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [5:51](https://youtu.be/IytpR6sGWXg?t=351) · [23:35](https://youtu.be/IytpR6sGWXg?t=1415)
+- **Lunes sin política** — chunks: [45:02](https://youtu.be/r1SmCsNmLh0?t=2702)
+- **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [5:30](https://youtu.be/Dtp1_RLb7S0?t=330)
 

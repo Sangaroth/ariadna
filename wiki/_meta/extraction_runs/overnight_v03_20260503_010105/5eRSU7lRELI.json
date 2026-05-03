@@ -1,0 +1,303 @@
+{
+  "video_id": "5eRSU7lRELI",
+  "video_title": "Luto",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "diagrama Proxiversón: madre tirana / madre ausente como eje horizontal",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Eje horizontal: madre tirana (derecha, mundo exterior amenazante) vs. madre ausente (izquierda, ausencia de seguridad),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Arriba-izquierda: mínimos formales explícitos; arriba-derecha: valores difusos de seguridad afectiva con locus interno de autoridad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento operativo del diagrama: el eje horizontal (fundamentalismo moral vs relativismo) recibe una caracterización psicoanalítica nueva — madre tirana (derecha, mundo exterior amenazante) vs madre ausente (izquierda, ausencia de seguridad). Caracterización afectivo-relacional del cuadrante que la página actual no contiene, y articulación específica de arriba-izquierda (mínimos formales) vs arriba-derecha (valores difusos con locus interno).",
+      "quote_evidence": "Eje vertical: conformidad con jerarquía (arriba) vs. anarquía (abajo),"
+    },
+    {
+      "surface_form": "marketing implícito como vinculación de producto a pre-identidad",
+      "canonical_guess": "consumismo-critica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Desde los años 80 el marketing no convence de comprar, sino que vincula un producto a una idea que ya tenías,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los anuncios de perfume aglutinan gente por gustos estéticos: la estética del anuncio se convierte en una pre-identidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula 'marketing como venta de identidad' como mecanismo del consumismo. El material añade el mecanismo más fino: marketing implícito como vinculación a pre-identidades ya presentes. El caso paradigmático del anuncio de BMW '¿Te gusta conducir?' ilustra el mecanismo precisamente — la pregunta funciona porque para responderla la mente ya ha aceptado implícitamente toda la experiencia del anuncio. Refina la sección 'Marketing como venta de identidad' con un mecanismo más preciso.",
+      "quote_evidence": "El anuncio \"¿Te gusta conducir?\" funciona porque para responder, la mente ya ha aceptado implícitamente toda la experiencia del anuncio,"
+    },
+    {
+      "surface_form": "qué es arte: esfuerzo, técnica, símbolo, universalidad",
+      "canonical_guess": "arte-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 14,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El arte requiere trabajo, estética y símbolo; la interpretación libre no convierte cualquier cosa en arte,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Un símbolo que solo significa algo para ti es masturbación intelectual, no comunicación artística,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Van Gogh diseñó su técnica desde cero: genuina, irreplicable y consistente en toda su obra,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El arte debe ser reconocido por otros: si solo lo ves tú, es un juego plástico, no arte,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis articulada del canal sobre la naturaleza del arte: definición tripartita (trabajo + estética + símbolo), criterio de universalidad (reconocido por otros), distinción arte/juego plástico/espectáculo de asco, arte conceptual legítimo vs masturbación intelectual, casos canónicos (Van Gogh, Mozart) como ejemplares de lo genuino, el don como pasión y voluntad. Detalle en thesis_candidates con requires_human_validation=true (14 min < 30 del gate). El material conecta con autotipo (degradación simbólica) y mito-moderno-en-proxy.",
+      "quote_evidence": "El arte conceptual legítimo desarrolla un concepto y lo explica hasta que otros reconocen una nueva forma universal de representación,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la posición es heredable, y la desviación cultural es ella misma reactiva, no autónoma.",
+      "section_target": null,
+      "content_proposed": "## Eje horizontal como dipolo madre tirana / madre ausente\n\nEn el directo *Luto* (21-ene-2025) el canal añade una caracterización afectivo-relacional del eje horizontal del diagrama que la página articulaba como 'fundamentalismo moral vs relativismo'. La pieza ofrece el sustrato psicoanalítico bajo la categoría política.\n\n> \"Eje vertical: conformidad con jerarquía (arriba) vs. anarquía (abajo)\"\n→ [Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)\n\n> \"Eje horizontal: madre tirana (derecha, mundo exterior amenazante) vs. madre ausente (izquierda, ausencia de seguridad)\"\n→ [Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)\n\nLa caracterización añade el cifrado materno como matriz de la respuesta moral-política: el cuadrante derecho (fundamentalismo moral) se articula psicológicamente como respuesta a un mundo exterior vivido como amenazante (la 'madre tirana' como cifra del entorno que impone reglas hostiles), y el cuadrante izquierdo (relativismo) como respuesta a la 'madre ausente' (entorno que no provee la estructura básica de seguridad). La fundamentación moral rígida de la derecha sería defensa contra la amenaza percibida; la flexibilidad de la izquierda, búsqueda compensatoria de la estructura faltante.\n\n> \"Arriba-izquierda: mínimos formales explícitos; arriba-derecha: valores difusos de seguridad afectiva con locus interno de autoridad\"\n→ [Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)\n\nLa precisión refina la caracterización de los cuadrantes verticales superiores: arriba-izquierda opera con **mínimos formales explícitos** (la regla la fija el poder, la norma es el procedimiento articulado); arriba-derecha opera con **valores difusos de seguridad afectiva con locus interno de autoridad** (la norma se interioriza como sentimiento moral, no como procedimiento). La distinción resuena con la diferencia operativa autoritario/totalitario que la página ya documenta — el autoritario tiene fundamento moral previo (interno, difuso, afectivo), el totalitario carece de tal límite y la jerarquía deviene fuente única.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "5eRSU7lRELI",
+          "timestamp_seconds": 1616,
+          "cite_markdown": "[Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)"
+        }
+      ],
+      "rationale": "Refinamiento afectivo-relacional del eje horizontal del diagrama. La página actual articula el eje como 'fundamentalismo moral vs relativismo'; el material añade la cifra psicoanalítica (madre tirana/ausente) que opera bajo la categoría política. También añade caracterización específica de los cuadrantes superiores (arriba-izquierda con mínimos formales explícitos vs arriba-derecha con valores difusos de seguridad afectiva con locus interno) que refina la distinción autoritario/totalitario ya documentada.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La crítica del canal NO es a las posiciones políticas que el wokismo invoca sino al **mecanismo de fabricación de adversarios** que la operación cultural ejecuta como subproducto.",
+      "section_target": null,
+      "content_proposed": "## Marketing implícito: la pre-identidad como vehículo del producto\n\nEn el directo *Luto* (21-ene-2025) el canal añade un mecanismo más fino al análisis del marketing como venta de identidad: el marketing contemporáneo ya no convence al consumidor sino que se vincula a una pre-identidad ya presente.\n\n> \"Desde los años 80 el marketing no convence de comprar, sino que vincula un producto a una idea que ya tenías\"\n→ [Luto (34:03)](https://youtu.be/5eRSU7lRELI?t=2043)\n\nEl caso paradigmático que el canal articula es el anuncio de BMW '¿Te gusta conducir?':\n\n> \"El anuncio \\\"¿Te gusta conducir?\\\" funciona porque para responder, la mente ya ha aceptado implícitamente toda la experiencia del anuncio\"\n→ [Luto (34:03)](https://youtu.be/5eRSU7lRELI?t=2043)\n\nLa mecánica es decisiva: la pregunta no induce un afecto, presupone que el afecto ya existe en el receptor y vincula el producto a su afirmación. La adherencia opera por reconocimiento, no por persuasión. La consecuencia operativa: el marketing implícito es estructuralmente más eficaz que el marketing persuasivo clásico porque no exige consentimiento consciente — la pre-identidad ya estaba activa en el receptor antes del anuncio.\n\n> \"Los anuncios de perfume aglutinan gente por gustos estéticos: la estética del anuncio se convierte en una pre-identidad\"\n→ [Luto (34:03)](https://youtu.be/5eRSU7lRELI?t=2043)\n\nLa pieza completa el cuadro: la estética del anuncio fabrica la pre-identidad a la cual el producto se vincula. El consumidor recibe simultáneamente el producto y la pre-identidad que justifica su elección — la mercancía y la categoría identitaria desde la cual se elige son fabricadas en el mismo gesto. Es la versión refinada de la tesis nuclear de la página: el consumismo no opera por necesidad fabricada sino por identidad fabricada que después demanda el producto como confirmación de sí misma.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "5eRSU7lRELI",
+          "timestamp_seconds": 2043,
+          "cite_markdown": "[Luto (34:03)](https://youtu.be/5eRSU7lRELI?t=2043)"
+        }
+      ],
+      "rationale": "La página articula 'marketing como venta de identidad' como mecanismo central. El material añade un mecanismo más fino: marketing implícito como vinculación a pre-identidades ya presentes en el receptor — más eficaz estructuralmente que el marketing persuasivo porque opera sin consentimiento consciente. El caso del anuncio BMW '¿Te gusta conducir?' es ejemplar y la lógica de la pre-identidad fabricada por la estética del anuncio refina la tesis nuclear de la página.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Qué es arte: trabajo, símbolo y universalidad como criterios constitutivos",
+      "proposed_page_id": "arte-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El arte requiere trabajo, estética y símbolo; la interpretación libre no convierte cualquier cosa en arte,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Un símbolo que solo significa algo para ti es masturbación intelectual, no comunicación artística,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Van Gogh diseñó su técnica desde cero: genuina, irreplicable y consistente en toda su obra,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El arte debe ser reconocido por otros: si solo lo ves tú, es un juego plástico, no arte,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Definición tripartita: el arte requiere trabajo + estética + símbolo (la interpretación libre no convierte cualquier cosa en arte)",
+        "Criterio de universalidad: el arte debe ser reconocido por otros — si solo lo ves tú, es juego plástico, no arte",
+        "Distinción arte/no-arte: el arte constructivo aporta buenos sentimientos, comprensiones o verdades; el mero espectáculo de asco no es arte",
+        "El símbolo propio: cuanto más difícil es interpretarlo, peor funciona como arte",
+        "Arte conceptual legítimo: desarrolla un concepto y lo explica hasta que otros reconocen una nueva forma universal de representación",
+        "Arte conceptual ilegítimo: símbolo que solo significa algo para ti = masturbación intelectual, no comunicación artística",
+        "Lo genuino como valor: Van Gogh diseñó su técnica desde cero — genuina, irreplicable, consistente en toda la obra",
+        "El genio plasmado: el valor artístico incluye al genio en la obra, no solo la belleza del resultado",
+        "El don como pasión y voluntad: tener la fuerza para perseguir una habilidad renunciando a otras cosas es en sí mismo don natural",
+        "Coincidencia de capacidad y deseo: lo que se te da bien y lo que amas normalmente coinciden — explotar habilidad sin amarla es error psicológico"
+      ],
+      "minutes_sustained": 14,
+      "domain_guess": "interdisciplinary.cultural_studies",
+      "related_existing_pages": [
+        "autotipo",
+        "mito-moderno-en-proxy",
+        "mitologia-propia-impropia",
+        "pensamiento-poetico",
+        "generos-literarios-y-afectos"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Tesis articulada con cuatro señales (thesis_marker que niega lectura común — 'la interpretación libre no convierte cualquier cosa en arte'; declared_thesis explícito sobre masturbación intelectual; internal_structure múltiple con casos canónicos Van Gogh/Mozart; pedagogic_register sostenido con definir/distinguir/criticar). framework_internal_structure de 10 piezas. PERO minutes_sustained ≈14 min (44:45–58:27) NO alcanza el gate ≥30 → requires_human_validation=true. Conecta con páginas existentes: autotipo (degradación simbólica donde el nombre coincide con el rasgo — la inversa del símbolo genuino que el arte requiere), mitologia-propia-impropia (el arte como mito propio reconocible por otros), pensamiento-poetico (el modo de conexión simbólica que el arte ejecuta). Si reaparece tratado en otros directos con desarrollo, justificaría síntesis sólida; por ahora candidato robusto pero corto."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "duelo por la mascota Gordi / vínculo con animales",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Apertura del directo dedicada al duelo personal del speaker por la muerte de su mascota. Material biográfico afectivo, sin marco aplicado a páginas existentes. La reflexión sobre la dignidad procurada al cuerpo del animal por el afecto que uno siente es interesante pero corta.",
+      "quote_evidence": "Las relaciones con las mascotas son particulares: no equivalen a perder una persona, pero el apego puede ser muy profundo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "personalidad de animales / Blue Monday",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota sobre la estabilidad del temperamento animal y mención del Blue Monday como dato cultural. Sin desarrollo articulado.",
+      "quote_evidence": "Los animales cambian muy poco de personalidad; lo genuino de cada animal es estable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "alineación planetaria 2025",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario astronómico sobre evento celestial visible en enero-febrero 2025. Sin valor enciclopédico para el wiki temático.",
+      "quote_evidence": "Seis planetas visibles simultáneamente en enero; siete en febrero, evento que no se repetirá hasta 2492,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Trump, wokismo, autonomía nacional vs globalismo",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre la elección de Trump y la oscilación cultural anti-wokismo en fondos de inversión, Disney y periferia europea. Mezcla análisis estructural ('agregadores políticos como conceptos de marketing rellenables') con comentario coyuntural sobre actualidad partidista internacional. Sin marco psicológico-arquetípico aplicado sostenido que justifique enriquecer páginas existentes.",
+      "quote_evidence": "Lo relevante de Trump no es Trump mismo sino la oscilación hacia la autonomía de las naciones frente al globalismo,",
+      "review_priority": "medium",
+      "review_priority_reason": "La tesis sobre 'agregadores políticos rellenables como conceptos de marketing' podría enriquecer consumismo-critica o diagrama-de-proxy si reaparece sistematizada en otros directos. Por ahora coyuntural.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "adherencia psicológica a consignas políticas / superyó como filtro",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve del canal sobre cómo la gente acepta consignas que encajan con su superyó (representaciones sobre cómo debería ser el mundo). Conecta con diagrama-de-proxy (sustrato genético de las convicciones) pero el material es corto y no añade pieza nueva al modelo.",
+      "quote_evidence": "La adherencia a ideas políticas es función de la personalidad, no de la razón; desprenderse de esas estructuras cognitivas es extremadamente difícil,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "progresía y paradoja de la deconstrucción / locus externo de autoridad",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Crítica del canal a la progresía como dispositivo que ve estructuras en todos lados mientras pretende destruirlas. Locus externo de autoridad como mecanismo psicológico subyacente. Material ya cubierto en woke-narrativa-postmoderna-moral y consumismo-critica con desarrollo más sostenido.",
+      "quote_evidence": "La progresía está empeñada en destruir estructuras pero no hace más que ver estructuras en todos lados,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Trump como alivio cultural frente a la complejidad woke",
+      "reason_code": "political_news",
+      "reason_detail": "Lectura del canal sobre la vuelta a lo simple como alivio cultural frente a la imposición de complejidad artificial woke. Mezcla marco estructural con atribución partidista a Trump como figura. Material posiblemente útil para consumismo-critica/woke pero coyuntural.",
+      "quote_evidence": "La vuelta a lo simple y conocido no es ser reaccionario: es un alivio cultural frente a la imposición de complejidad artificial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Maduro, Venezuela, dictadura como marketing geopolítico",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario geopolítico sobre Venezuela como dictadura sostenida por intereses internacionales. Tesis interesante sobre los pueblos y los gobernantes ('los pueblos tienen los gobernantes que el mundo permite que tengan, no los que merecen') pero coyuntural en su mayor parte y sin marco psicológico-arquetípico aplicable a páginas existentes.",
+      "quote_evidence": "Los pueblos tienen los gobernantes que el mundo permite que tengan, no los que merecen,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "gestación subrogada / vida humana como producto con garantía",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica del canal a la mercantilización de la vida humana (empresa que ofrece reemplazar al bebé si muere) y a la deconstrucción del concepto de dignidad/persona. Material corto pero coherente con consumismo-critica. No suficiente para enriquecimiento sustantivo aquí.",
+      "quote_evidence": "El problema es la deconstrucción del concepto de dignidad y de persona,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la crítica a la mercantilización biológica reaparece sostenida en otros directos, podría enriquecer consumismo-critica con sección sobre deconstrucción de la persona como mercancía.",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "consecuencias psicológicas de la inmortalidad / vida prolongada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve del canal sobre cómo la vida prolongada artificialmente conduce a demencias por paso del tiempo (aburrimiento y ansiedad como formas de deterioro psicológico independientes de la degeneración neurológica). Material articulado pero corto sin sostén suficiente para concept page.",
+      "quote_evidence": "La vida prolongada artificialmente conduce a la demencia: formas de locura no degenerativas sino por paso del tiempo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la tesis sobre los efectos psicológicos de la inmortalidad/vida extendida reaparece sostenida en otros directos (especialmente en contexto bioético o de transhumanismo), justificaría concept page.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "adicción a TikTok y vídeos cortos: atrofia cerebral por hipoactividad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso clínico-neurocientífico que el canal cita con sustrato anatómico específico (atrofia de orbito-frontal, dorsolateral prefrontal, cingulado por hipoactividad). Material relevante para la deuda cognitiva ya documentada en golem-de-cobre, pero aquí se presenta como dato breve sin desarrollo articulado del mecanismo. Mejor capturar como passing y esperar tratamiento más sostenido en otros directos.",
+      "quote_evidence": "El uso compulsivo de vídeos cortos atrofia áreas del cerebro por hipoactividad: orbito-frontal, dorsolateral prefrontal, cingulado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si reaparece desarrollado con casos clínicos o estudios específicos, justificaría enriquecimiento de golem-de-cobre con sección sobre sustrato neuroanatómico de la deuda cognitiva.",
+      "enriches_concept": "golem-de-cobre"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "🎭 El acta de nacimiento de Sánchez y el gobierno como relato\n\n  - La diferencia entre el 20 y el 29 de febrero es probablemente un error de transcripción, no una conspiración,\n  - El sanchismo vive del relato victimista: cualquier cosa que les ocurra se reinterpreta en clave de persecución fascista,\n  - La adherencia electoral funciona igual que el wokismo: los votantes tragan con cualquier cosa porque votan por identidad, no por razón,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Match por 'Sánchez' (también 'sanchismo'). El bloque mezcla observación factual sobre el acta de nacimiento con tesis sobre el sanchismo como dispositivo de relato victimista y adherencia electoral por identidad. La pieza analítica final ('los votantes tragan con cualquier cosa porque votan por identidad, no por razón') sería capturable en consumismo-critica si se reformulara sin atribución partidista; queda para revisión humana."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 11,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[qué es arte: esfuerzo, técnica, símbolo, universalidad] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

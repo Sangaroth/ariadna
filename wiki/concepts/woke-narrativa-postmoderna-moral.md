@@ -114,6 +114,24 @@ Esta simetría preserva el valor analítico de la categoría: si "woke" se aplic
 - En el [[diagrama-de-proxy]], la articulación se cruza con el cuadrante libertario y con el eje del fundamentalismo moral — la categoría tiene correlato en la topología propia del canal
 - Es la modalidad cultural sistemática del [[autotipo]]: si autotipo es la degradación general del arquetipo a franquicia vacía, el woke es el dispositivo narrativo específico que la produce en la creación cultural contemporánea
 
+## La pendiente resbaladiza: encadenar sofismas como mecanismo retórico
+
+En el directo *Me amenazan por teléfono* (12-ago-2024) el canal articula un mecanismo retórico específico del aparato woke que la página no documentaba: la pendiente resbaladiza como operación que encadena sofismas sin relación causal hasta la conclusión deseada.
+
+> "El mecanismo consiste en sumar conceptos sin relación causal como si fueran consecuencias lógicas"
+→ [Me amenazan por teléfono (1:02:18)](https://youtu.be/1WEQmzUM41M?t=3738)
+
+> "Cualquier preferencia masculina puede convertirse en discriminación u opresión siguiendo este tobogán retórico"
+→ [Me amenazan por teléfono (1:02:18)](https://youtu.be/1WEQmzUM41M?t=3738)
+
+El dispositivo opera por composición: cada paso retórico parece plausible al receptor, pero la cadena entera no preserva la relación causal que sus eslabones simulan. La pieza es complementaria al [[sofisma-estetico]] que la página articula como mecanismo nuclear: el sofisma estético opera puntualmente al sustituir razonamiento formal por relación afectiva; la pendiente resbaladiza opera estructuralmente al encadenar varios sofismas estéticos como si fueran inferencias lógicas válidas. El efecto combinado es una construcción argumentativa donde cada paso es defensible aisladamente pero la conclusión no se sigue del punto de partida — el receptor que objete tiene que desarmar la cadena entera, no un solo eslabón, y esa asimetría de coste retórico es lo que vuelve operativa la pendiente.
+
+> "Las fórmulas de \"rango de edad aceptable\" son ejemplos de este pensamiento pseudológico aplicado a relaciones"
+→ [Me amenazan por teléfono (1:02:18)](https://youtu.be/1WEQmzUM41M?t=3738)
+
+La categoría es generalizable: las fórmulas pseudo-aritméticas que pretenden derivar normas relacionales de operaciones numéricas (rangos de edad como funciones de la edad propia) son casos paradigmáticos de pendiente resbaladiza con ropaje matemático. La precisión cierra el catálogo retórico woke que la página articula: vaciamiento arquetípico (sustrato) + sofisma estético (mecanismo puntual) + pendiente resbaladiza (mecanismo estructural).
+
+
 ## Lagunas
 
 - **Genealogía intelectual**: el canal nombra la matriz "narrativa postmoderna" pero no desarrolla qué autores postmodernos (Foucault, Derrida, Butler) sustentan teóricamente el constructivismo cultural identificado como pieza nuclear
@@ -124,5 +142,13 @@ Esta simetría preserva el valor analítico de la categoría: si "woke" se aplic
 ## Citations
 
 
+
+
+
+
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
+- **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
+- **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
+- **Luto** — chunks: [38:05](https://youtu.be/5eRSU7lRELI?t=2285)
+- **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [53:01](https://youtu.be/1WEQmzUM41M?t=3181) · [1:02:18](https://youtu.be/1WEQmzUM41M?t=3738)
 

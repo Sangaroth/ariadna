@@ -183,6 +183,80 @@ La lectura del canal pone en práctica el diagrama: la crítica eficaz a la cult
 
 El Patriota como crítica a la postmodernidad — no a Trump como persona-político — es la lectura compatible con el modelo: el personaje encarna el cuadrante arriba-izquierda (jerarquía absoluta + relativismo moral del marketing), no a un actor político concreto.
 
+## Sustrato genético, clases cognitivas y conflicto interno como reflejo del externo
+
+En el directo *Lunes Asertivo* (22-abr-2025) el canal añade tres precisiones operativas al diagrama: la base genética de las convicciones políticas confirmada empíricamente, el funcionamiento de las clases cognitivas como portadoras diferenciales de afecto, y la tesis del conflicto entre personas como reflejo del conflicto interno.
+
+### Estudios de gemelos: convicciones políticas con sustrato genético
+
+> "Estudios de gemelos confirman que convicciones políticas y forma de encajar la moral tienen sustrato genético vinculado a estructuras cerebrales"
+→ [Lunes Asertivo (1:50:29)](https://youtu.be/xaFCTcXXI2o?t=6629)
+
+> "Incluso las opiniones científicas se asocian con diferencias en rasgos cognitivos innatos de los investigadores"
+→ [Lunes Asertivo (1:50:29)](https://youtu.be/xaFCTcXXI2o?t=6629)
+
+> "Las mujeres son más woke por cuestión de carácter y personalidad innata, no por despertar de una opresión"
+→ [Lunes Asertivo (1:50:29)](https://youtu.be/xaFCTcXXI2o?t=6629)
+
+La pieza refuerza el sustrato del modelo con evidencia genético-conductual: si las convicciones políticas tienen heredabilidad medible, la atribución de la divergencia ideológica a 'falsa conciencia' (lectura marxista clásica) o a 'opresión interiorizada' (lectura del feminismo de tercera ola) pierde fundamento empírico. La distribución de orientaciones por género refleja distribución de rasgos de personalidad innatos, no construcción social — corolario coherente con el sustrato neuropsicológico del diagrama.
+
+### Las clases cognitivas portan afecto diferencial según personalidad
+
+> "La clase \"autoridad\" tiene componente afectiva diferente según personalidad: seguridad para conservadores, aversión para liberales"
+→ [Lunes Asertivo (1:54:09)](https://youtu.be/xaFCTcXXI2o?t=6849)
+
+La precisión refina el aparato del diagrama: lo que cambia entre cuadrantes no es el contenido representacional de las clases cognitivas (autoridad, jerarquía, norma) sino la **componente afectiva** que cada personalidad asocia a esas clases. La misma clase 'autoridad' es portadora de seguridad para una personalidad conservadora y de aversión para una liberal, sin que el contenido formal del concepto cambie. Es la versión cognitivamente articulada de los correlatos neuropsicológicos por dirección que la página ya documenta.
+
+### Conflicto interno como origen del conflicto entre personas
+
+> "El conflicto entre personas es reflejo del conflicto interno: la diferencia entre lo que quieres y lo que puedes"
+→ [Lunes Asertivo (1:54:09)](https://youtu.be/xaFCTcXXI2o?t=6849)
+
+> "Los cuatro cuadrantes ideológicos buscan a su manera la desaparición del conflicto, lo cual es imposible"
+→ [Lunes Asertivo (1:54:09)](https://youtu.be/xaFCTcXXI2o?t=6849)
+
+La tesis completa el modelo en su flanco antropológico: lo que el cuadrante busca colectivamente es la disolución del conflicto interno individual proyectada al espacio social. Cada orientación ideológica nombra una vía distinta hacia la desaparición del conflicto — abolición de la jerarquía (abajo), restauración del fundamento moral previo (derecha), refundación de la norma desde el poder (arriba-izquierda), liberación del individuo (abajo-derecha) — y todas son funcionalmente imposibles porque el conflicto opera en la asimetría estructural entre deseo y capacidad, no entre el sujeto y el orden social. La consecuencia operativa para el diagrama: ningún cuadrante puede cumplir su promesa, lo que explica la rotación pendular de la política contemporánea entre las cuatro posiciones sin estabilización.
+
+## Herencia genética y rebeldía como vector dirigido
+
+En el directo *Lunes sin política* (04-mar-2025) el canal extiende el sustrato genético del diagrama con una tesis sobre la dinámica de la rebeldía intergeneracional.
+
+> "La posición en el diagrama tiene mayor carga de factores hereditarios y genéticos que culturales"
+→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)
+
+> "Cuando la cultura determina tu posición, lo hace forzándote a oponerte a tu herencia biológica"
+→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)
+
+La precisión refina el modelo: la cultura no es agente neutral que distribuye posiciones por exposición, opera como fuerza que **fuerza la oposición a la herencia** cuando la posición resultante no coincide con la genética. La consecuencia operativa para la lectura del diagrama: cuando se observa cambio de posición entre generaciones, no hay que leerlo como decisión libre del sujeto sino como vector de oposición al origen.
+
+> "La rebeldía nunca es arbitraria: siempre es un vector de oposición al origen, no un camino libre"
+→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)
+
+> "Si hay cambio de cuadrante respecto a los padres, es una reacción directa de no querer pertenecer al origen"
+→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)
+
+La pieza tiene consecuencia operativa fuerte para la aplicación del modelo: la trayectoria política a lo largo de la vida no es exploración libre del espacio de cuadrantes sino dinámica acotada — herencia genética como atractor, rebeldía como repulsión hacia el cuadrante opuesto. La estabilización en un cuadrante distinto al de los padres no indica autonomía valorativa sino consolidación de la repulsión. La cláusula completa el sustrato genético del diagrama articulado en otras secciones: la posición es heredable, y la desviación cultural es ella misma reactiva, no autónoma.
+
+## Eje horizontal como dipolo madre tirana / madre ausente
+
+En el directo *Luto* (21-ene-2025) el canal añade una caracterización afectivo-relacional del eje horizontal del diagrama que la página articulaba como 'fundamentalismo moral vs relativismo'. La pieza ofrece el sustrato psicoanalítico bajo la categoría política.
+
+> "Eje vertical: conformidad con jerarquía (arriba) vs. anarquía (abajo)"
+→ [Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)
+
+> "Eje horizontal: madre tirana (derecha, mundo exterior amenazante) vs. madre ausente (izquierda, ausencia de seguridad)"
+→ [Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)
+
+La caracterización añade el cifrado materno como matriz de la respuesta moral-política: el cuadrante derecho (fundamentalismo moral) se articula psicológicamente como respuesta a un mundo exterior vivido como amenazante (la 'madre tirana' como cifra del entorno que impone reglas hostiles), y el cuadrante izquierdo (relativismo) como respuesta a la 'madre ausente' (entorno que no provee la estructura básica de seguridad). La fundamentación moral rígida de la derecha sería defensa contra la amenaza percibida; la flexibilidad de la izquierda, búsqueda compensatoria de la estructura faltante.
+
+> "Arriba-izquierda: mínimos formales explícitos; arriba-derecha: valores difusos de seguridad afectiva con locus interno de autoridad"
+→ [Luto (26:56)](https://youtu.be/5eRSU7lRELI?t=1616)
+
+La precisión refina la caracterización de los cuadrantes verticales superiores: arriba-izquierda opera con **mínimos formales explícitos** (la regla la fija el poder, la norma es el procedimiento articulado); arriba-derecha opera con **valores difusos de seguridad afectiva con locus interno de autoridad** (la norma se interioriza como sentimiento moral, no como procedimiento). La distinción resuena con la diferencia operativa autoritario/totalitario que la página ya documenta — el autoritario tiene fundamento moral previo (interno, difuso, afectivo), el totalitario carece de tal límite y la jerarquía deviene fuente única.
+
+
+
+
 ## Lagunas
 
 - **Estudios BOLD: el speaker referencia investigaciones con autodeclarados liberales y conservadores en EE.UU. pero no nombra los papers concretos**. Queda pendiente una verificación bibliográfica del sustrato empírico que el modelo invoca; el canal recomienda manuales (Panksepp, Redolar) en otros vídeos pero aquí no traza la cadena de citas.
@@ -201,8 +275,12 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
+
+
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
 - **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [48:12](https://youtu.be/NrLnzcceSLY?t=2892)
 - **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:36:55](https://youtu.be/PC5uw1s86eE?t=5815)
+- **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:54:09](https://youtu.be/xaFCTcXXI2o?t=6849)
+- **Lunes sin política** — chunks: [35:57](https://youtu.be/r1SmCsNmLh0?t=2157)
 

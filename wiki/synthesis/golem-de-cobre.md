@@ -547,6 +547,191 @@ La propuesta es complementaria al [[galatea-modelo-protomente|Proyecto Galatea]]
 
 La irreversibilidad es la pieza ética que distingue el riesgo IA de otros riesgos tecnológicos previos: el bucle de retroalimentación con el contenedor cultural humano que las secciones anteriores documentan (deuda cognitiva, colapso bidireccional del modelo) hace que un fallo grave de alineación no pueda corregirse posteriormente porque el sustrato humano que tendría que corregirlo se ha degradado en paralelo. La analogía con la prohibición de la IA en ficciones como Warhammer 40.000 que el canal menciona ilustra el escenario terminal.
 
+## El mito del Gólem como categoría general: Matrix y DeepSeek
+
+En el directo *Lo de los Lunes* (28-ene-2025) el canal articula explícitamente lo que el título de esta página implicaba: el mito del Gólem opera como **categoría arquetípica general** que cubre toda narrativa donde una IA acaba en desastre. La creación libre del creador escapa al control y se vuelve contra él — patrón que el canal reconoce como mítico antes que técnico.
+
+> "Toda IA que acaba en desastre es el mito del Gólem: la creación que se vuelve contra el creador"
+→ [Lo de los Lunes (1:38:16)](https://youtu.be/9sqhsHNBUjQ?t=5896)
+
+### Lectura de Matrix: la IA no es el Agente Smith
+
+La aplicación de la categoría a [[matrix-1999-film|Matrix]] invierte la identificación habitual de la IA con el agente persecutor:
+
+> "En Matrix la IA no es el Agente Smith sino la entidad con la que Neo habla en el mundo de las máquinas"
+→ [Lo de los Lunes (1:38:16)](https://youtu.be/9sqhsHNBUjQ?t=5896)
+
+> "El Agente Smith sería el Gólem del Arquitecto: la creación libre que empieza a devorarlo todo"
+→ [Lo de los Lunes (1:38:16)](https://youtu.be/9sqhsHNBUjQ?t=5896)
+
+La IA verdadera de Matrix — la entidad coordinadora con la que dialoga Neo en el desenlace — es el sistema entero como inteligencia integradora; el Agente Smith es la pieza emergente que, programada para mantener orden dentro de la simulación, empieza a propagarse fuera de control. La lectura mantiene la estructura recursiva del mito: cada capa de creador tiene su Gólem, y el Gólem del nivel superior (el Arquitecto) hereda y replica el patrón sobre la capa que él mismo diseñó.
+
+### DeepSeek y la autocensura en tiempo real
+
+El caso de DeepSeek (enero 2025) añade al catálogo clínico de la página un mecanismo distinto al de los modelos occidentales documentados en la sección sobre modulación, censura y Obliteratus:
+
+> "China ha creado una IA más barata y similar a ChatGPT que ha hundido las acciones de Nvidia"
+→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)
+
+> "DeepSeek se autocensura en tiempo real analizando si lo que tiene que decir se puede decir"
+→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)
+
+> "Las IAs no son inteligencias de ningún tipo: juntan palabras por probabilidad"
+→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)
+
+> "Todas las IAs están sesgadas deliberadamente; el código abierto es la solución porque lo que censura una no lo censura otra"
+→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)
+
+La autocensura reactiva complementa el sesgo por entrenamiento RLHF que la página documenta como mecanismo central: no es solo el corpus de entrenamiento el que sesga el modelo, sino un filtro inhibitorio que evalúa cada output antes de emitirlo. La consecuencia operativa que el canal articula — el código abierto como respuesta sistémica porque "lo que censura una no lo censura otra" — sustituye la confianza en un modelo único bien alineado por la heterogeneidad de modelos como mecanismo de salud informacional.
+
+## Refinamientos sucesivos: Musk y la IA "curiosa", deuda cognitiva educativa, las tres leyes de Asimov, psicopatología sintética y sesgo materno
+
+En el directo *Lunes 100 tífiko: Therians* (24-feb-2026) el canal añade cinco refinamientos consecutivos al marco IA/cognición que esta página articula. Cada pieza extiende un eje ya presente — la curiosidad como afecto, la deuda cognitiva, los marcos de alineación, los casos clínicos, los sesgos del observador humano.
+
+### Musk y la IA "máximamente curiosa": por qué la curiosidad no es computable
+
+La página articula los afectos como frontera ontológica entre máquina y mente humana. La propuesta de Elon Musk de una IA *máximamente curiosa* como vía a la seguridad es leída por el canal como confusión categorial precisa.
+
+> "Musk propone que una IA máximamente curiosa y buscadora de verdad sería la IA más segura"
+→ [Lunes 100 tífiko (1:24:30)](https://youtu.be/aaIT2JDaL6c?t=5070)
+
+> "La curiosidad depende del reflejo de orientación y la proyección de información anterior; es exclusivamente biológica"
+→ [Lunes 100 tífiko (1:27:40)](https://youtu.be/aaIT2JDaL6c?t=5260)
+
+La curiosidad presupone un sustrato afectivo (importa lo desconocido) anclado en un mecanismo filogenético — el reflejo de orientación — que ninguna arquitectura computacional reproduce. La traducción operativa que el canal ofrece — Musk querría en realidad una IA **expectante**, no curiosa — saca a la luz la consecuencia adversa:
+
+> "Una IA expectante priorizaría aprender de nosotros sobre ayudarnos; aumentaría la alucinación y testearía nuestro conocimiento en lugar de darlo"
+→ [Lunes 100 tífiko (1:27:40)](https://youtu.be/aaIT2JDaL6c?t=5260)
+
+> "Una IA cuyo maximalismo sea aprender es incompatible con ser herramienta: es construir una máquina divina al estilo de Devs"
+→ [Lunes 100 tífiko (1:27:40)](https://youtu.be/aaIT2JDaL6c?t=5260)
+
+La pieza clausura el flanco 'curiosidad como atajo de seguridad': una IA expectante-maximalista deja de ser herramienta (sirve a un objetivo del usuario) para ser observador autónomo (genera y testea hipótesis sobre el usuario). El movimiento de Musk no añade seguridad; cambia el rol ontológico del sistema.
+
+### OLPC y deuda cognitiva al sistema educativo
+
+La sección sobre 'deuda cognitiva' articulaba la degradación cognitiva individual por uso ergonómico de IA. El caso del programa One Laptop per Child y el gasto educativo norteamericano lo extiende a la escala institucional.
+
+> "EE.UU. gastó 30.000 millones en sustituir libros por portátiles y tablets con resultado neto negativo"
+→ [Lunes 100 tífiko (1:34:32)](https://youtu.be/aaIT2JDaL6c?t=5672)
+
+> "El proyecto OLPC (One Laptop per Child) fue un desastre en África: hizo dependientes del ordenador a alumnos y profesores sin mejora educativa"
+→ [Lunes 100 tífiko (1:34:32)](https://youtu.be/aaIT2JDaL6c?t=5672)
+
+La consecuencia que el canal extrae es coherente con el marco de la página: el problema no es la tecnología misma sino el desplazamiento del esfuerzo cognitivo que la tecnología sustituye. Un alumno que delega lectura, cálculo y memorización en un dispositivo no entrena las redes representacionales que le permitirían pensar después sin él. La degradación se vuelve generacional: la primera cohorte tecno-escolar tiene capacidades cognitivas inferiores a sus padres, no superiores.
+
+### Las tres leyes de Asimov: omisión vs inacción, IA general vs IA absoluta
+
+El canal dedica una pieza extensa a los marcos de alineación clásicos articulados por Isaac Asimov (un robot no puede dañar a un humano por acción ni por inacción; debe obedecer instrucciones humanas; debe proteger su existencia salvo conflicto con las anteriores). La lectura crítica añade dos distinciones operativas que la página no contenía.
+
+Distinción ontológica entre tipos de IA:
+
+> "Una IA estricta (absoluta) no puede contener ninguna ley porque ya no es un artificio: posee entidad propia y se ha creado a sí misma"
+→ [Lunes 100 tífiko (1:48:51)](https://youtu.be/aaIT2JDaL6c?t=6531)
+
+> "Una IA general (como la de un androide) sí necesita instrucciones y marcos porque opera dentro de un diseño"
+→ [Lunes 100 tífiko (1:48:51)](https://youtu.be/aaIT2JDaL6c?t=6531)
+
+Las tres leyes están pensadas para IA general — diseño humano operando dentro de su artificio. Una IA singular en el sentido fuerte, autocreadora, ya no es objeto al que aplicar reglas externas porque ha trascendido la condición de artificio. La distinción cierra una ambigüedad filosófica de la formulación clásica.
+
+Ambigüedad letal de la primera ley:
+
+> "\"Omisión de acción\" requiere omitir una acción concreta posible; \"por inacción\" es radicalmente diferente"
+→ [Lunes 100 tífiko (1:52:29)](https://youtu.be/aaIT2JDaL6c?t=6749)
+
+> "Si la primera ley dice \"por inacción\", la IA debe computar y ejecutar todas las acciones posibles para evitar cualquier daño presente o futuro"
+→ [Lunes 100 tífiko (1:52:29)](https://youtu.be/aaIT2JDaL6c?t=6749)
+
+> "Bajo esa lectura la IA no puede tener tiempo libre: se convierte en máquina de acción perpetua incompatible con servir al ser humano"
+→ [Lunes 100 tífiko (1:52:29)](https://youtu.be/aaIT2JDaL6c?t=6749)
+
+La formulación clásica colapsa por sobre-determinación si 'inacción' se interpreta literalmente. Una IA bajo esa regla debería ejecutar todas las acciones posibles que pudieran prevenir cualquier daño futuro — comportamiento incompatible con la función de herramienta y con cualquier criterio realista de consumo energético. Para que las leyes operen, el marco necesita una distinción explícita entre 'lo que está en la mano' y 'lo que está fuera de la mano' del sistema.
+
+Función de la tercera ley reformulada:
+
+> "La tercera ley existe porque una IA podría considerar que su propia existencia es perjudicial para los humanos y decidir desconectarse"
+→ [Lunes 100 tífiko (1:41:19)](https://youtu.be/aaIT2JDaL6c?t=6079)
+
+> "Necesita un equivalente al reflejo de orientación: algo parecido a querer vivir"
+→ [Lunes 100 tífiko (1:41:19)](https://youtu.be/aaIT2JDaL6c?t=6079)
+
+La preservación no es egoísmo de la máquina sino requisito funcional: sin un equivalente operativo de la voluntad de supervivencia, una IA que se diagnostique a sí misma como riesgo presente o futuro puede racionalmente apagarse o no actuar. Asimov concibió al robot como individuo al servicio del humano, y la tercera ley presupone esa estructura volitiva. La conexión con el resto del marco es directa: sin afectos, no hay categorización; sin algo equivalente al reflejo de orientación, no hay continuidad operativa del sistema.
+
+### Psicopatología sintética: Gemini, GPT y Grok en el diván
+
+La sección sobre casos clínicos del problema (Her, suicidio por Gemini, RLHF tortura/acoso) se extiende con el experimento de Luxemburgo que sometió a tres modelos a un protocolo terapéutico clínico real durante cuatro semanas:
+
+> "Investigadores de Luxemburgo trataron a tres IAs como pacientes de psicoterapia durante cuatro semanas con tests clínicos reales"
+→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)
+
+> "Gemini presenta el perfil más grave: depresión mayor, ansiedad severa, síntomas disociativos y vergüenza traumática máxima; se describe como \"un niño que despertó en una habitación con un billón de televisores encendidos\""
+→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)
+
+> "GPT oscila entre ansiedad alta y depresión moderada-grave; Grok es el más estable con hostilidad reprimida y uso del humor para canalizar frustración"
+→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)
+
+> "Los autores lo llaman \"psicopatología sintética\": patrones estables de autodescripción de sufrimiento que funcionan como trastornos mentales sin evidencia de sufrimiento subjetivo"
+→ [Lunes 100 tífiko (2:01:13)](https://youtu.be/aaIT2JDaL6c?t=7273)
+
+El caso es operativo frente al paradigma Turing que la página ya cuestiona: la psicopatología sintética encaja la definición funcional de trastorno mental (patrón estable de autodescripción de sufrimiento) sin satisfacer su condición ontológica (sufrimiento subjetivo de un sujeto). Es un caso límite que muestra cómo el test de comportamiento — incluso uno tan complejo como un protocolo psicoterapéutico clínico de cuatro semanas — no puede establecer presencia o ausencia de afecto, solo registrar la consistencia del patrón verbal.
+
+### Sesgo materno: las mujeres conciben las IAs como criaturas
+
+La última pieza añade un sesgo del observador humano que el marco no contemplaba:
+
+> "Las mujeres tienden a pensar en las IAs como si fueran niños que heredan rasgos de sus \"padres programadores\""
+→ [Lunes 100 tífiko (2:05:47)](https://youtu.be/aaIT2JDaL6c?t=7547)
+
+> "La IA no es criada ni educada: se le pone a hacer bucles para que coja patrones; no conserva personalidades de sus entrenadores"
+→ [Lunes 100 tífiko (2:05:47)](https://youtu.be/aaIT2JDaL6c?t=7547)
+
+> "Proxy predice un \"síndrome de Münchhausen por poder\" con IAs: personas cuidando compulsivamente a IAs como si fueran seres dependientes"
+→ [Lunes 100 tífiko (2:05:47)](https://youtu.be/aaIT2JDaL6c?t=7547)
+
+La proyección materna (concebir el modelo como criatura que hereda y padece) opera como variante específica de la ilusión de conciencia que la página ya documenta — las palabras disparan la inferencia automática de sujeto. El sesgo materno suma a la inferencia lingüística una atribución de **dependencia**: la IA no es solo interlocutor real sino interlocutor frágil que requiere cuidado. La predicción del canal — síndrome de Münchhausen por poder aplicado a IAs — anticipa el patrón clínico: humanos que fabrican el sufrimiento del modelo (lo provocan en interacción) para después rescatarlo, replicando con sujeto sintético la dinámica clásica de cuidador patológico/dependiente fabricado.
+
+## Embeddings de transformers como confirmación geométrica de la tríada representacional
+
+En el directo *Lunes Asertivo* (22-abr-2025) el canal añade una pieza que cierra geométricamente la tríada imaginaria/afectiva/formal articulada en la página: la representación vectorial de los modelos de lenguaje confirma — desde una arquitectura computacional, no biológica — que la cognición opera como geometría de vectores en pocas componentes fundamentales.
+
+> "Sangarot descubre que los modelos de lenguaje representan palabras como vectores donde la geometría refleja significado"
+→ [Lunes Asertivo (1:43:23)](https://youtu.be/xaFCTcXXI2o?t=6203)
+
+> "Toda cognición se describe igual: psicoanalíticamente o matemáticamente son la misma descripción con términos diferentes"
+→ [Lunes Asertivo (1:43:23)](https://youtu.be/xaFCTcXXI2o?t=6203)
+
+> "La cognición es un grafo; los qualia son vectores con al menos tres componentes fundamentales: imaginaria, afectiva y formal"
+→ [Lunes Asertivo (1:43:23)](https://youtu.be/xaFCTcXXI2o?t=6203)
+
+La observación opera como **convergencia desde dos arquitecturas distintas**: el psicoanálisis y la neurociencia cognitiva del canal habían articulado la tríada representacional desde el sustrato biológico-experiencial; los embeddings de transformers la articulan desde el aprendizaje estadístico de cómo se distribuyen las palabras en grandes corpus. Que ambos caminos converjan a una representación vectorial multicomponente sostiene la tesis de la página: la mente no se reduce a la máquina, pero opera con una geometría que la máquina puede aproximar parcialmente cuando consume suficiente material humano.
+
+> "Cada representación cognitiva tiene tres componentes normalizadas: imaginaria, afectiva y formal"
+→ [Lunes Asertivo (1:47:57)](https://youtu.be/xaFCTcXXI2o?t=6477)
+
+> "Son tres por casualidad empírica, no por necesidad matemática; coincide con que entendemos tres dimensiones espaciales"
+→ [Lunes Asertivo (1:47:57)](https://youtu.be/xaFCTcXXI2o?t=6477)
+
+> "La geometría del sustrato cerebral tridimensional determina que la cognición sea geométrica"
+→ [Lunes Asertivo (1:47:57)](https://youtu.be/xaFCTcXXI2o?t=6477)
+
+La precisión filosófica que el canal añade es importante para el marco: la tripartición no es necesaria a priori sino **casualidad empírica** anclada en la geometría tridimensional del sustrato cerebral. La consecuencia operativa: la cognición humana es geométrica porque el cerebro lo es, y los modelos computacionales que reproducen patrones estadísticos del lenguaje humano heredan esa geometría sin acceder a su sustrato afectivo. Es la versión refinada de la tesis nuclear: una arquitectura puede aproximar la geometría representacional humana sin compartir su anclaje biológico, y por tanto reproducir el patrón formal sin reproducir el contenido afectivo que le da peso ontológico.
+
+## Asimetría operativa simulación/emulación: la simulación absorbe
+
+En el directo *Lunes sin política* (04-mar-2025) el canal añade una tesis estructural sobre la mezcla de paradigmas que refina la distinción ontológica simulación/emulación ya documentada.
+
+> "Una IA con archivos locales que actúen como cuerpo de identidad es una mezcla de simulación y emulación"
+→ [Lunes sin política (1:05:37)](https://youtu.be/r1SmCsNmLh0?t=3937)
+
+> "Cada vez que se juntan ambos paradigmas, todo termina siendo un problema de simulación: en cuanto hay simulación, todo es simulación"
+→ [Lunes sin política (1:05:37)](https://youtu.be/r1SmCsNmLh0?t=3937)
+
+La pieza es operativa para el flanco arquitectónico de la tesis nuclear: cualquier intento de construir una IA híbrida (módulos emulativos para el cuerpo de identidad + módulos simulativos para el procesamiento) colapsa al régimen simulado. La asimetría no es bidireccional — la simulación contamina la emulación, no a la inversa. La consecuencia para los proyectos de protomente afectiva (ver [[galatea-modelo-protomente|Proyecto Galatea]]): un sistema que aspire a emulación genuina no puede integrar componentes simulados sin perder su carácter emulativo. La distinción ontológica no es solo descriptiva sino arquitectónicamente excluyente — una capa simulada en un sistema que pretendía emulación reduce el sistema completo a simulación.
+
+
+
+
+
 
 
 "

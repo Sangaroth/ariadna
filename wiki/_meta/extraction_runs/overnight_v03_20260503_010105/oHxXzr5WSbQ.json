@@ -1,0 +1,262 @@
+{
+  "video_id": "oHxXzr5WSbQ",
+  "video_title": "Lunes basado terminal",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "trastorno de identidad disociativo / personajes vs personalidades",
+      "canonical_guess": "tid-personaje-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 28,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Lo que muestra no es disociación sino actuación histriónica: son personajes, no personalidades,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El TID implica dos estructuras de personalidad completamente diferentes con memoria separada,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Diferentes personalidades genuinas nunca expondrían algo de igual forma porque la prosodia depende del carácter,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El TID auténtico no se parece a un trastorno de personalidad; son categorías completamente distintas,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis articulada del canal sobre la distinción clínica entre TID auténtico y personajes performativos a propósito de una influencer de TikTok que dice tener trastorno disociativo. Estructura interna múltiple: definición clínica de TID, criterio de prosodia/coordinación para distinguir personalidad disociada de personaje, mecánica de creación de personalidades disociadas (cada una surge cuando la anterior no aísla suficientemente el trauma), límites clínicos del concepto (>50 personalidades no es funcional), hipótesis sobre disociaciones secundarias como parches defensivos, lectura de Club de la Lucha como fuga depresiva (no como TID), Memento como mejor representación realista. Detalle completo en thesis_candidates con requires_human_validation=true (minutes_sustained ≈28 < 30 del gate auto-promoción).",
+      "quote_evidence": "Cuando la conducta es claramente un mecanismo de defensa consistente en proyectar imagen, eso es un personaje, no una identidad,"
+    },
+    {
+      "surface_form": "formaciones reactivas",
+      "canonical_guess": "freud-sigmund",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology.psychoanalytic",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Una formación reactiva es una costumbre de defensa neurótica integrada en la personalidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El canal articula una definición operativa de las formaciones reactivas freudianas como costumbres de defensa neuróticas integradas en la personalidad — partes diseñadas para confrontar ámbitos recurrentes de la existencia, inconscientes y automáticas. La página actual de Freud trata ello/yo, sublimación, pulsión de muerte, intelectualización, proyección/desplazamiento/condensación y catarsis colectiva, pero NO formación reactiva. Material genuinamente nuevo y pieza freudiana clásica que conecta con el thesis sobre disociación (las disociaciones secundarias se leen como formaciones reactivas profundas).",
+      "quote_evidence": "Todos tenemos formaciones reactivas: partes diseñadas para confrontar ámbitos específicos de la existencia,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "freud-sigmund",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la cultura misma puede dejar de proveer las salidas catárticas que la psique requiere para mantener equilibrio.",
+      "section_target": null,
+      "content_proposed": "## Formaciones reactivas: la defensa neurótica integrada\n\nEn el directo *Lunes basado terminal* (19-ago-2024) el canal articula una definición operativa de las **formaciones reactivas** freudianas a propósito del análisis de las disociaciones recurrentes en terapia.\n\n> \"Una formación reactiva es una costumbre de defensa neurótica integrada en la personalidad\"\n→ [Lunes basado terminal (1:00:08)](https://youtu.be/oHxXzr5WSbQ?t=3608)\n\n> \"Todos tenemos formaciones reactivas: partes diseñadas para confrontar ámbitos específicos de la existencia\"\n→ [Lunes basado terminal (1:00:08)](https://youtu.be/oHxXzr5WSbQ?t=3608)\n\n> \"Son inconscientes y funcionan como mecanismos automáticos de respuesta ante tipos recurrentes de situaciones\"\n→ [Lunes basado terminal (1:00:08)](https://youtu.be/oHxXzr5WSbQ?t=3608)\n\nLa precisión que el canal añade al concepto freudiano clásico es la **universalidad funcional**: la formación reactiva no es propiedad exclusiva de cuadros patológicos, sino constituyente normal de toda personalidad sana. Cada sujeto desarrolla un repertorio de mecanismos automáticos de respuesta calibrados para los ámbitos recurrentes de su existencia — el trabajo, el conflicto interpersonal, la frustración, el duelo. Lo que distingue la formación reactiva sana de la patológica no es la existencia del mecanismo sino su **rigidez**: cuando la respuesta automática deja de modularse contextualmente y se aplica indiscriminadamente, el dispositivo defensivo se vuelve neurosis estructural.\n\nEl concepto opera articuladamente con otras piezas del aparato freudiano de la página: la sublimación canaliza pulsión privada como conducta aceptable; la formación reactiva integra el mecanismo de canalización como hábito de personalidad. Lo que en la sublimación es trabajo psíquico singular se cristaliza con el tiempo en formación reactiva — patrón estable que la persona ya no piensa, ejecuta. La consecuencia clínica que el canal extrae en el contexto del análisis de las disociaciones secundarias en terapia: lo que aparece como personalidad nueva en pacientes con cuadros disociativos puede ser, en muchos casos, formación reactiva profunda movilizada por la confrontación terapéutica del trauma — no genuina escisión de personalidad sino dispositivo defensivo activado por el trabajo analítico.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "oHxXzr5WSbQ",
+          "timestamp_seconds": 3608,
+          "cite_markdown": "[Lunes basado terminal (1:00:08)](https://youtu.be/oHxXzr5WSbQ?t=3608)"
+        }
+      ],
+      "rationale": "La página actual de Freud cubre ello/yo, sublimación, pulsión de muerte, intelectualización, proyección/desplazamiento/condensación y catarsis colectiva, pero NO formación reactiva — uno de los mecanismos de defensa freudianos clásicos. El canal aporta definición operativa que precisa la universalidad funcional del concepto (no solo propiedad de cuadros patológicos sino constituyente normal) y conecta con el análisis del TID (las disociaciones secundarias en terapia como formaciones reactivas profundas). Material genuinamente nuevo que extiende el catálogo freudiano de la página.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Disociación clínica vs personajes performativos: TID, personalidad dramática y la confusión cultural",
+      "proposed_page_id": "tid-personaje-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Lo que muestra no es disociación sino actuación histriónica: son personajes, no personalidades,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Para que algo sea una personalidad disociada necesita recurrencia y consistencia, no solo ser un evento aislado,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El narcisista tiene la fantasía más introyectada; el histriónico es el trastorno de personalidad más fantástico que existe,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Evasión y disociación son procesos psicológicamente diferentes: evadir es rellenar con otras representaciones, disociar es desconectar totalmente,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Distinción evasión (rellenar con otras representaciones) vs disociación (desconectar totalmente)",
+        "Definición clínica del TID auténtico: dos estructuras de personalidad completamente diferentes con memoria separada",
+        "Mecánica de creación: cada nueva personalidad disociada surge cuando la anterior no aísla suficientemente el trauma",
+        "Criterio diagnóstico: la prosodia depende del carácter — diferentes personalidades genuinas nunca expondrían algo de igual forma",
+        "Personalidad dramática y trastornos inmaduros: narcisista (fantasía más introyectada) e histriónico (trastorno más fantástico)",
+        "Límites clínicos del concepto: >50 personalidades recurrentes no es funcional — son eventos disociativos, no personalidades",
+        "Hipótesis sobre disociaciones secundarias como parches defensivos sobre las originales",
+        "Disociaciones recurrentes en terapia como formaciones reactivas profundas, no nuevas personalidades genuinas",
+        "El Club de la Lucha como fuga depresiva (escisión por depresión), NO como TID",
+        "Memento como representación realista de lo que ocurriría con muchas personalidades recurrentes",
+        "Identidades visuales extremas como personajes performativos, no personalidades — necesidad de llamar la atención manifestada en lo eminentemente visual",
+        "Distinción clave: personalidad con conducta vs personaje performativo (mecanismo de defensa consistente en proyectar imagen)"
+      ],
+      "minutes_sustained": 28,
+      "domain_guess": "social.psychology",
+      "related_existing_pages": [
+        "freud-sigmund",
+        "autotipo",
+        "therians-fenomeno-cultural",
+        "fight-club-1999-film",
+        "camino-victima",
+        "sindrome-wendy"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Tesis articulada con cuatro señales (thesis_marker que niega lectura común — 'no es disociación sino actuación histriónica'; internal_structure múltiple con sub-conceptos articulados; applied_framework psicoanalítico-clínico; pedagogic_register sostenido); framework_internal_structure de 12 piezas. PERO minutes_sustained ≈28 (32:10–1:00:08 = 28 min) NO alcanza el gate ≥30 → requires_human_validation=true. El thesis conecta directamente con páginas existentes: freud-sigmund (formaciones reactivas como mecanismo subyacente), autotipo (personajes como degradación terminal del simbólico), therians-fenomeno-cultural (otro caso de personaje performativo presentado como identidad), fight-club-1999-film (lectura del canal: fuga depresiva, no TID — corrige interpretación común), camino-victima (héroe-víctima como personaje performativo). La página, si se promueve tras revisión humana, sería hub diagnóstico que articula los criterios clínicos del canal sobre la frontera personalidad/personaje."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Luna Azul y eventos lunares",
+      "reason_code": "passing_mention",
+      "reason_detail": "Apertura del directo con dato astronómico cotidiano (luna brillante del año, tipos de luna). Sin valor enciclopédico ni marco aplicado del canal.",
+      "quote_evidence": "Hoy hay un 99% de luna visible, una de las lunas más brillantes del año,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Significación mitológica de los números (0-10) y números lunares",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Numerología comparada con sistematización breve del canal (0=totalidad, 1=héroe, 2=gamos, 3=trinidad, 4=elementos, 5=dominios; lunares 7/9/12). Mezcla material canónico de la mitología comparada (Frazer, Eliade) con presentación operativa del speaker. Sin desarrollo sostenido (~3 min) ni articulación como tesis original — más bien recordatorio de simbolismo numérico estándar. Posible enriquecimiento futuro si reaparece sistematizado.",
+      "quote_evidence": "El 0 es totalidad, el 1 es principio y héroe, el 2 es gamos, el 3 es trinidad, el 4 son elementos, el 5 son dominios,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si en otros directos el canal articula el simbolismo numérico como sistema operativo aplicado al análisis de obra, podría justificar concept page sobre simbolismo numérico en Proxy. Por ahora es referencia bibliográfica suelta.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "cábala como sistema lingüístico para sobreinterpretación simbólica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica del canal a la cábala como sistema perfecto para encontrar símbolos en cualquier lugar (interpretación proyectiva). Whitelist tiene 'kabbalah' con auto_promote=false (soft). La mención es ~3 min, primer tratamiento sustantivo del corpus, pero sin cumplir criterio adicional ANY-OF para promoción soft (no es ≥10 min monográfico, no es ≥3 vídeos, no aparece como marco aplicado por el canal sino como objeto de crítica).",
+      "quote_evidence": "La cábala es el sistema lingüístico perfecto para quien quiere encontrar símbolos en cualquier lugar,",
+      "review_priority": "medium",
+      "review_priority_reason": "En whitelist soft. Si reaparece tratada como marco o como objeto de análisis sostenido (≥10 min) en otros directos, justificaría promoción.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "masonería e incompatibilidad con catolicismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento estructural del canal sobre la incompatibilidad lógica entre masonería (culto mistérico de arcanos cifrados) y catolicismo (que advierte contra acercarse a los arcanos). Material articulado pero corto (~5 min). Conectaría con análisis de gnosticismo/mistérica del canal si el speaker volviera al tema con más desarrollo.",
+      "quote_evidence": "No se puede ser católico coherente y creer en un gran arquitecto que oculta secretos cifrados del universo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la masonería como categoría reaparece en directos futuros con análisis sostenido, podría merecer concept page. Por ahora es argumento puntual.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "síndrome de Tourette como trastorno neurológico",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis del canal sobre la naturaleza del Tourette (neurológico, no psiquiátrico ni conductual; conducta de utilización multinivel; tics orales no lingüísticos; disparo por estrés). Material articulado pero breve (~7 min). Sin recurrencia confirmada en otros vídeos del corpus. Categoría clínica establecida con lectura del canal que no constituye marco original aplicable a otras páginas.",
+      "quote_evidence": "El Tourette es un trastorno neurológico de las mecánicas inhibitorias, no un trastorno conductual ni psicótico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "cultura woke como inversión de la normalidad (metáfora de la piscina)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Metáfora retórica del canal (la piscina meada donde el único limpio es el señalado). Sin desarrollo articulado ni mecanismo psicológico expuesto que merezca enriquecer páginas existentes (woke-narrativa-postmoderna-moral ya cubre el análisis sustantivo).",
+      "quote_evidence": "La imagen de la piscina meada donde el único que no está en los meados es el señalado representa la cultura woke,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Carvajal / Raúl Solís: testosterona vs adrenalina en el discurso woke",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica corta del canal a un comentario público de Raúl Solís sobre 'masculinidad frágil' con precisión fisiológica (la celebración deportiva libera adrenalina, no testosterona). Material útil clínicamente pero sin valor enciclopédico autónomo — no construye tesis ni enriquece sustantivamente páginas existentes.",
+      "quote_evidence": "Confundir testosterona con adrenalina es un error básico que se repite en el discurso woke sobre masculinidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Valentina Ortiz / pornografía: la adicción ya es el daño",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve del canal: si la pornografía genera adicción, la adicción ya constituye el daño en sí misma sin necesidad de demostrar otros mecanismos. Distinción contenido erótico vs pornográfico anunciada pero no desarrollada. Material puntual sin sostén suficiente para promote_new ni para enriquecer páginas existentes con desarrollo articulado.",
+      "quote_evidence": "Si la pornografía genera adicción, la adicción en sí misma ya es el daño: no se necesita otro mecanismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Teoría Monetaria Moderna / inflación como impuesto de los pobres",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica económica corta del canal a la propuesta de imprimir dinero ilimitado para pagar pensiones, con tesis breve sobre la inflación como impuesto regresivo. Material económico-político fuera del foco psicológico-arquetípico del wiki, sin marco aplicado del canal que lo eleve a categoría enciclopédica.",
+      "quote_evidence": "La inflación por emisión monetaria es el impuesto de los pobres: tu dinero vale menos cada vez,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "identidades visuales extremas como personajes",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza interna del thesis_candidate sobre TID/personajes: la necesidad de llamar la atención manifestada en estética extrema como caso del personaje performativo frente a la personalidad genuina. Captura completa dentro del thesis.",
+      "quote_evidence": "Es muy difícil que alguien con una estética tan llamativa no esté construyendo un personaje deliberado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "políticas verdes / pagar a granjeros por matar vacas",
+      "reason_code": "political_news",
+      "reason_detail": "Crítica del canal a políticas medioambientales específicas (subvención al sacrificio ganadero por reducción de metano, asimetría con India/China, soja artificial futura). Material político-coyuntural sin marco psicológico-arquetípico aplicado que justifique enriquecer páginas existentes. Acción específica, no estructura.",
+      "quote_evidence": "Gobiernos empiezan a pagar a granjeros para sacrificar ganado y reducir emisiones de metano,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "misoginia extrema como terrorismo: expansión semántica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica filosófica corta del canal a la expansión indefinida del concepto 'terrorismo' aplicada a 'misoginia extrema' (sin definir extrema). Mecanismo retórico de criminalización de la discrepancia. Material puntual sin sostén que justifique enriquecer páginas existentes con desarrollo articulado.",
+      "quote_evidence": "La expansión indefinida de estos conceptos convierte cualquier discrepancia en potencial delito,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[trastorno de identidad disociativo / personajes vs personalidades] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

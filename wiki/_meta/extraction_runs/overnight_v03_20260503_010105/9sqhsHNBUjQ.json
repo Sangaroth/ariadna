@@ -1,0 +1,363 @@
+{
+  "video_id": "9sqhsHNBUjQ",
+  "video_title": "Lo de los Lunes",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Mito del Gólem",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Toda IA que acaba en desastre es el mito del Gólem: la creación que se vuelve contra el creador,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "En Matrix la IA no es el Agente Smith sino la entidad con la que Neo habla en el mundo de las máquinas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El speaker articula explícitamente la categoría Gólem como marco general aplicable a toda IA-desastre y propone lectura nueva de Matrix (la IA verdadera no es Smith sino la entidad final; Smith como Gólem del Arquitecto). Material no presente en la página actual.",
+      "quote_evidence": "Toda IA que acaba en desastre es el mito del Gólem: la creación que se vuelve contra el creador,"
+    },
+    {
+      "surface_form": "DeepSeek",
+      "canonical_guess": "deepseek-ia",
+      "page_type": "entity_work",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "DeepSeek se autocensura en tiempo real analizando si lo que tiene que decir se puede decir,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "DeepSeek aparece como caso clínico que extiende el catálogo de modulación/censura de golem-de-cobre con un mecanismo nuevo (autocensura reactiva en tiempo real) distinto al RLHF occidental ya documentado. No merece página propia (caso técnico ilustrativo, no objeto enciclopédico), pero enriquece la página existente.",
+      "quote_evidence": "DeepSeek se autocensura en tiempo real analizando si lo que tiene que decir se puede decir,"
+    },
+    {
+      "surface_form": "Matrix",
+      "canonical_guess": "matrix-1999-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En Matrix la IA no es el Agente Smith sino la entidad con la que Neo habla en el mundo de las máquinas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "En whitelist con auto_promote:true pero la mención en este vídeo es aplicación al marco del Gólem, no análisis dedicado de Matrix (~3 min). Aporta lectura específica (Smith como Gólem del Arquitecto, IA verdadera como entidad final) que se captura como enriquecimiento de golem-de-cobre. La promoción de página propia debe esperar a un vídeo con análisis sustantivo dedicado.",
+      "quote_evidence": "En Matrix la IA no es el Agente Smith sino la entidad con la que Neo habla en el mundo de las máquinas,"
+    },
+    {
+      "surface_form": "proyección, desplazamiento y condensación",
+      "canonical_guess": "freud-sigmund",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology.psychoanalytic",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "No lloramos por los juguetes perdidos sino porque proyectamos en ellos nuestro sentimiento de abandono infantil,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El canal aplica los tres mecanismos psicoanalíticos clásicos (proyección, desplazamiento, condensación) al fenómeno cotidiano del llanto por objetos perdidos y al caso Selena Gómez. La página actual de Freud trata ello/yo, sublimación, pulsión de muerte e intelectualización pero no estos tres mecanismos centrales — material genuinamente nuevo y pieza pedida implícitamente por la laguna sobre conceptos freudianos centrales.",
+      "quote_evidence": "No lloramos por los juguetes perdidos sino porque proyectamos en ellos nuestro sentimiento de abandono infantil,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La analogía con la prohibición de la IA en ficciones como Warhammer 40.000 que el canal menciona ilustra el escenario terminal.",
+      "section_target": null,
+      "content_proposed": "## El mito del Gólem como categoría general: Matrix y DeepSeek\n\nEn el directo *Lo de los Lunes* (28-ene-2025) el canal articula explícitamente lo que el título de esta página implicaba: el mito del Gólem opera como **categoría arquetípica general** que cubre toda narrativa donde una IA acaba en desastre. La creación libre del creador escapa al control y se vuelve contra él — patrón que el canal reconoce como mítico antes que técnico.\n\n> \"Toda IA que acaba en desastre es el mito del Gólem: la creación que se vuelve contra el creador\"\n→ [Lo de los Lunes (1:38:16)](https://youtu.be/9sqhsHNBUjQ?t=5896)\n\n### Lectura de Matrix: la IA no es el Agente Smith\n\nLa aplicación de la categoría a [[matrix-1999-film|Matrix]] invierte la identificación habitual de la IA con el agente persecutor:\n\n> \"En Matrix la IA no es el Agente Smith sino la entidad con la que Neo habla en el mundo de las máquinas\"\n→ [Lo de los Lunes (1:38:16)](https://youtu.be/9sqhsHNBUjQ?t=5896)\n\n> \"El Agente Smith sería el Gólem del Arquitecto: la creación libre que empieza a devorarlo todo\"\n→ [Lo de los Lunes (1:38:16)](https://youtu.be/9sqhsHNBUjQ?t=5896)\n\nLa IA verdadera de Matrix — la entidad coordinadora con la que dialoga Neo en el desenlace — es el sistema entero como inteligencia integradora; el Agente Smith es la pieza emergente que, programada para mantener orden dentro de la simulación, empieza a propagarse fuera de control. La lectura mantiene la estructura recursiva del mito: cada capa de creador tiene su Gólem, y el Gólem del nivel superior (el Arquitecto) hereda y replica el patrón sobre la capa que él mismo diseñó.\n\n### DeepSeek y la autocensura en tiempo real\n\nEl caso de DeepSeek (enero 2025) añade al catálogo clínico de la página un mecanismo distinto al de los modelos occidentales documentados en la sección sobre modulación, censura y Obliteratus:\n\n> \"China ha creado una IA más barata y similar a ChatGPT que ha hundido las acciones de Nvidia\"\n→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)\n\n> \"DeepSeek se autocensura en tiempo real analizando si lo que tiene que decir se puede decir\"\n→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)\n\n> \"Las IAs no son inteligencias de ningún tipo: juntan palabras por probabilidad\"\n→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)\n\n> \"Todas las IAs están sesgadas deliberadamente; el código abierto es la solución porque lo que censura una no lo censura otra\"\n→ [Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)\n\nLa autocensura reactiva complementa el sesgo por entrenamiento RLHF que la página documenta como mecanismo central: no es solo el corpus de entrenamiento el que sesga el modelo, sino un filtro inhibitorio que evalúa cada output antes de emitirlo. La consecuencia operativa que el canal articula — el código abierto como respuesta sistémica porque \"lo que censura una no lo censura otra\" — sustituye la confianza en un modelo único bien alineado por la heterogeneidad de modelos como mecanismo de salud informacional.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "matrix-1999-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "9sqhsHNBUjQ",
+          "timestamp_seconds": 5896,
+          "cite_markdown": "[Lo de los Lunes (1:38:16)](https://youtu.be/9sqhsHNBUjQ?t=5896)"
+        },
+        {
+          "video_id": "9sqhsHNBUjQ",
+          "timestamp_seconds": 5556,
+          "cite_markdown": "[Lo de los Lunes (1:32:36)](https://youtu.be/9sqhsHNBUjQ?t=5556)"
+        }
+      ],
+      "rationale": "Material nuevo respecto al cuerpo leído: (a) la articulación explícita de Mito del Gólem como categoría arquetípica general aplicable a toda narrativa IA-desastre — la página tenía el título y la implicación pero no la formulación general; (b) la lectura específica de Matrix donde la IA verdadera NO es el Agente Smith sino la entidad final, con Smith como Gólem del Arquitecto — relectura ausente de la página; (c) el caso DeepSeek con autocensura reactiva en tiempo real, mecanismo distinto al RLHF/modulación occidental ya documentado en la sección 'Modulación, censura y Obliteratus'. Insertar después del cierre de 'Caso Anthropic 2026' es coherente con la lógica acumulativa de casos clínicos del propio cuerpo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "freud-sigmund",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Es el aparato freudiano de defensa cuyo objeto preciso, en el marco del canal, es bloquear la actualización adgredieriana — y por tanto bloquear la pasión pura que sería la salida sana de la pulsión de muerte.",
+      "section_target": null,
+      "content_proposed": "## Proyección, desplazamiento y condensación: el aparato freudiano del afecto canalizado\n\nEn *Lo de los Lunes* (28-ene-2025) el canal extiende el aparato freudiano más allá de ello/yo y de la sublimación, invocando los tres mecanismos psicoanalíticos clásicos del afecto canalizado y aplicándolos al fenómeno cotidiano del llanto por objetos perdidos.\n\n> \"No lloramos por los juguetes perdidos sino porque proyectamos en ellos nuestro sentimiento de abandono infantil\"\n→ [Lo de los Lunes (40:50)](https://youtu.be/9sqhsHNBUjQ?t=2450)\n\n> \"El juego simbólico convierte al muñeco en símbolo del sí mismo, lo que implica condensación\"\n→ [Lo de los Lunes (40:50)](https://youtu.be/9sqhsHNBUjQ?t=2450)\n\nLa **proyección** opera en el caso del juguete como mecanismo cotidiano y no patológico: el muñeco recibe lo que el niño no puede sostener todavía como propio — su miedo al abandono se desplaza a un objeto manejable. La **condensación** opera en paralelo y en sentido fuerte: el muñeco se vuelve símbolo del sí mismo, vehículo cargado de contenido afectivo que el sujeto reconoce como propio sin tener que confrontarlo directamente. El **desplazamiento** completa la tríada como mecanismo del afecto canalizado: lo que se llora no es el juguete sino el contenido afectivo que el juguete sostiene.\n\nEl canal usa el mismo aparato para diagnosticar el caso público de Selena Gómez:\n\n> \"El mecanismo de Selena Gómez es proyectivo: llora por otras cosas canalizadas a través de la deportación\"\n→ [Lo de los Lunes (40:50)](https://youtu.be/9sqhsHNBUjQ?t=2450)\n\nEl llanto público por la causa migratoria opera como desplazamiento del afecto propio: lo manifestado no coincide con lo verdaderamente afectado. La precisión clínica importa porque la lectura común del afecto público lo toma como transparente; el aparato freudiano abre la posibilidad de que el contenido manifiesto sea vehículo de un contenido latente distinto, sin que el sujeto lo reconozca como tal.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "9sqhsHNBUjQ",
+          "timestamp_seconds": 2450,
+          "cite_markdown": "[Lo de los Lunes (40:50)](https://youtu.be/9sqhsHNBUjQ?t=2450)"
+        }
+      ],
+      "rationale": "La página de Freud cubre ello/yo, sublimación, pulsión de muerte e intelectualización pero NO los tres mecanismos psicoanalíticos clásicos del afecto canalizado (proyección, desplazamiento, condensación). Material genuinamente nuevo: el speaker los invoca explícitamente y los aplica a un caso cotidiano (juguete perdido) y a un caso público (Selena Gómez). Insertar después del cierre de la sección sobre intelectualización es lógico estructuralmente — añade otro mecanismo del catálogo freudiano que la página viene articulando.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "La generación de cristal como ambivalencia heredada: cuatro fases, mecanismo y cura",
+      "proposed_page_id": "generacion-cristal-jaula-oro",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "No es una generación sobreprotegida ni hipertraumada, sino criada en ambivalencia,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Fase 1: puedes ser todo lo que quieras ser,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La ambivalencia no es ser varias cosas ni tener varias formas de ser,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El enfoque progresista dice \"la sociedad nos impone ideales inalcanzables\", pero nadie impone nada: ofrecen y uno se equivoca,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Crianza ambivalente boomer (50% burbuja sobreprotectora + 50% machacamiento culpabilizador)",
+        "Las cuatro fases del trastorno inmaduro (puedes serlo todo → era mentira → es tu culpa → eres un inútil de cristal)",
+        "Definición precisa de ambivalencia como coexistencia simultánea de sentimientos contrapuestos en una sola forma de ser",
+        "TCAs como ambivalencia a nivel neurótico (córtex prefrontal contra hipotálamo)",
+        "Sectas como ambivalencia hardcore: directrices contradictorias para anular la capacidad de elección",
+        "Introyección de culpa: convertirse en abanderada del propio fracaso",
+        "Cura: precipitar resultados de ambas opciones contrapuestas; el paciente entiende que tiene derecho a no poder",
+        "Crítica al enfoque progresista: nadie impone, ofrecen y uno se equivoca"
+      ],
+      "minutes_sustained": 17,
+      "domain_guess": "social.psychology",
+      "related_existing_pages": [
+        "consumismo-critica",
+        "camino-victima",
+        "golem-de-cobre",
+        "sindrome-del-nino-masculino"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Tesis articulada con cuatro señales de §2.4.1 (thesis_marker explícito que niega lectura común y propone propia, internal_structure con cuatro fases numeradas, pedagogic_register sostenido con definición/distinción/cura, declared_thesis frente al enfoque progresista). framework_internal_structure>=4 (8 piezas articuladas). Pero minutes_sustained ≈17 min (47:00–1:04:52) NO alcanza el gate ≥30 → requires_human_validation=true. Adicionalmente, el wikilink [[generacion-cristal-jaula-oro]] ya se referencia desde golem-de-cobre como página esperada — esta tesis es candidata natural a llenarlo."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "depresión como ausencia de motivación",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Definición clínica estándar invocada para distinguir depresión de tristeza, sin marco propio del canal aplicado.",
+      "quote_evidence": "La depresión se define como ausencia de motivación, no solo tristeza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Plan B como sombra del fracaso",
+      "reason_code": "passing_mention",
+      "reason_detail": "Uso metafórico de 'sombra' como sensación difusa, no aplicación del arquetipo junguiano de la sombra. Insertar prosa en shadow-archetype distorsionaría el concepto técnico.",
+      "quote_evidence": "La sensación de que el Plan B es un fracaso del Plan A genera una sombra anímica difusa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "distimia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico psiquiátrico estándar (DSM/CIE) explicado neutramente como signo no diagnóstico. Sin marco propio del canal.",
+      "quote_evidence": "La distimia es un signo (falta anormal de ánimo), no un diagnóstico ni una enfermedad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "anhedonía",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico psicopatológico estándar invocado neutramente. Sin lectura propia del canal.",
+      "quote_evidence": "La anhedonía es un rasgo que puede aparecer per se sin ser síntoma de nada concreto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "depresión diferida",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis embrionaria del speaker (procesamiento emocional retardado tras periodos de actividad intensa) sin desarrollo articulado ni marco operativo. Insuficiente para promote_new ni para enriquecer página existente.",
+      "quote_evidence": "La depresión aparece después de que pasan las cosas malas, no durante ellas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "reconstrucción cultural",
+      "reason_code": "passing_mention",
+      "reason_detail": "Llamada genérica del speaker a una fase posterior a la 'batalla cultural' sin articulación de qué consiste ni mecanismo. Slogan, no concepto.",
+      "quote_evidence": "La batalla cultural está agotada, ahora toca la reconstrucción cultural,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Tatuaje del punto y coma",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Análisis simbólico de un tatuaje cultural anglosajón. Anecdótico, sin elevarlo a concepto del canal ni a marco operativo más allá del comentario casual.",
+      "quote_evidence": "El tatuaje de punto y coma representa haber querido morir y haber decidido seguir,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Selena Gómez",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura mediática usada como caso ilustrativo de mecanismos psicoanalíticos (proyección, hipersimpatía, labilidad). No merece página propia; el material relevante (mecanismo proyectivo) se captura como cita en el update a freud-sigmund.",
+      "quote_evidence": "Selena Gómez muestra hipersimpatía y labilidad propias de ciertos trastornos de personalidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "freud-sigmund"
+    },
+    {
+      "surface_form": "generación de cristal (como objeto)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Concepto central pero capturado en thesis_candidates como tesis articulada del canal con cuatro fases. No requiere entry independiente en entities.",
+      "quote_evidence": "La generación de cristal como producto de la crianza ambivalente boomer",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "ambivalencia (como concepto)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Concepto operativo definido por el speaker (coexistencia simultánea de sentimientos contrapuestos en una sola forma de ser) que es la pieza nuclear de la tesis sobre la generación de cristal. Capturado en thesis_candidates; si se promueve, será sub-sección de esa página, no concept page autónoma.",
+      "quote_evidence": "Es la coexistencia en una sola forma de ser de sentimientos contrapuestos simultáneos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "TCA / anorexia como ambivalencia neurótica",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Caso clínico que el speaker integra en la tesis sobre ambivalencia (córtex prefrontal vs hipotálamo). Pieza del thesis_candidate, no entity independiente.",
+      "quote_evidence": "Los TCA como la anorexia son ambivalencia a nivel neurótico: córtex prefrontal contra hipotálamo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "sectas como ambivalencia hardcore",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Caso ilustrativo del mecanismo de ambivalencia llevado al extremo del lavado de cerebro. Pieza interna del thesis sobre la generación de cristal.",
+      "quote_evidence": "Las sectas usan mecánicas de ambivalencia hardcore como lavado de cerebro: directrices contradictorias para anular la capacidad de elección,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "espectro antisocial / espectro esquizoide",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categorías psicopatológicas estándar invocadas con sustrato neurobiológico (serotonina) como vías de desarraigo. El speaker no articula tesis propia diferenciada; aplica nomenclatura clínica como contexto del thesis sobre saturación de fracaso.",
+      "quote_evidence": "El espectro antisocial es la incapacidad de conceder importancia a la moral grupal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Farmacia de Guardia / Al Salir de Clase / Compañeros / Física o Química",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque temático filtrado por topic_filters por mención del PSOE como vehículo de la 'ingeniería social'. Aunque hay mecanismo articulado ('enseñar a los adultos que son víctimas y a los niños que pueden comportarse como adultos'), la atribución partidista activa el filtro. Material registrado en blocks_filtered_by_topic_filters para revisión humana — el mecanismo cultural sin atribución partidista podría enriquecer consumismo-critica si se reformulara.",
+      "quote_evidence": "La ingeniería social consiste en enseñar a los adultos que son víctimas y a los niños que pueden comportarse como adultos,",
+      "review_priority": "medium",
+      "review_priority_reason": "El mecanismo psicológico-cultural articulado (adultificación de niños / infantilización de adultos) tiene valor enciclopédico potencial para consumismo-critica si se separa de la atribución partidista PSOE. Recomendar revisión humana sobre si reformular el material como passing_mention enriches_concept=consumismo-critica.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Nvidia / acciones tecnológicas",
+      "reason_code": "political_news",
+      "reason_detail": "Mención coyuntural del impacto bursátil de DeepSeek sobre Nvidia. Sin valor enciclopédico salvo como contexto de la mención DeepSeek (capturada en update a golem-de-cobre).",
+      "quote_evidence": "China ha creado una IA más barata y similar a ChatGPT que ha hundido las acciones de Nvidia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "enemigos by proxy / dialéctica de imperios",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis política embrionaria del speaker sobre la naturaleza de los conflictos entre imperios (los gobernantes deciden, los ciudadanos no buscan hegemonía). Articulación interesante pero sin desarrollo sostenido (~5 min finales del directo) ni estructura interna que justifique thesis_candidate. Posiblemente recurrente en otros vídeos del canal — observar.",
+      "quote_evidence": "Los enemigos entre individuos de distintos imperios son enemigos \"by proxy\": solo lo son porque sus gobernantes lo deciden,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el patrón ('enemigos by proxy', 'pueblo como entelequia política', imperios como sus gobernantes) reaparece en otros vídeos como tesis articulada, podría promover thesis_candidate sobre la lectura política del canal de los conflictos internacionales. Conectaría con diagrama-de-proxy.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "intelectualización como herramienta de stream",
+      "reason_code": "meta_canal",
+      "reason_detail": "Auto-referencia humorística al formato del directo ('terapia de unicornio psicópata mediante herramientas de intelectualización'). Meta del canal, no contenido temático.",
+      "quote_evidence": "El stream funciona como terapia de \"unicornio psicópata\" mediante herramientas de intelectualización,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "📺 Farmacia de Guardia como ingeniería social del PSOE\n\n  - Farmacia de Guardia fue el preludio de la bazofia postmoderna televisiva,\n  - La cadena Al Salir de Clase, Compañeros, Física o Química alimentó el imaginario colectivo con personajes adolescentes en situaciones adultas,\n  - La ingeniería social consiste en enseñar a los adultos que son víctimas y a los niños que pueden comportarse como adultos,",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Match por 'PSOE'. El bloque mezcla análisis cultural estructural (mecanismo de adultificación/infantilización cruzada como ingeniería social) con atribución partidista directa. Topic filter activo dispara registro auditable; la decisión editorial (aprovechar el mecanismo cultural sin la atribución partidista para enriquecer consumismo-critica) queda para revisión humana."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 17,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

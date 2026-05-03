@@ -117,3 +117,7 @@ El canal usa Fight Club como referencia recurrente fuera del análisis dedicado:
 - **Cinematografía y dirección de Fincher**: el análisis del canal es psicológico/arquetípico, no cinematográfico. Aspectos formales (montaje, color, narración no fiable) no cubiertos
 - **Recepción y influencia cultural** de la película (manosfera, lecturas reaccionarias) — el canal toca el tema en directos pero no lo sistematiza
 - **El "Proyecto Mayhem" como metáfora política** y su conexión con totalitarismos del siglo XX — material adyacente en otros vídeos, no integrado al análisis arquetípico de la película
+
+## Citations
+
+- **Lunes basado terminal** — chunks: [58:07](https://youtu.be/oHxXzr5WSbQ?t=3487)

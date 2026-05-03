@@ -1,0 +1,187 @@
+{
+  "video_id": "9U6CwqPMI3c",
+  "video_title": "Magia y Poética",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "magia postmoderna como sofisma poético / chamán New Age",
+      "canonical_guess": "magia-postmoderna-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 67,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Toda magia son procedimientos porque son instrucciones con el objeto de conectar al practicante con lo sobrenatural,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El sofismo estético hace pasar por razonamiento formal algo que solo está relacionado estética o afectivamente,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "En psicología el objeto ritual se llama fetiche, en magia se llama tótem, en el \"espirituales\" se llama tecnología cuántica,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Locus de control es si crees que el origen de algo está dentro o fuera de ti,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis sostenida (~67 min) del canal sobre la magia postmoderna como sofisma estético-poético analizado caso por caso a partir de un vídeo de una maga New Age que vende 'tecnología cuántica'. Estructura interna muy articulada: definición de magia como procedimientos para conectar con lo sobrenatural, mecánica del sofisma poético (códigos numéricos vacíos, léxico tecnológico, análisis semiótico de preposiciones), distinción tipológica (confabulación/estafa/cinismo), comparación contrastiva con psicoanálisis (que NO requiere performance espacial), distinción pseudofilosofía (politiqués) vs pseudorreligión (magia), análisis del aparato totémico (fetiche/tótem/tecnología cuántica como nombres del mismo objeto ritual), mecánica oracular (relajación prefrontal y expresión libre), genealogía de la consciencia crística como reelaboración gnóstica del protestantismo. Cumple gate auto-promoción (scope §2.4.1): minutes_sustained=67 ≥ 30, signal_marks=5 ≥ 3, framework_internal_structure>=15 ≥ 4. Detalle completo en thesis_candidates con requires_human_validation=false.",
+      "quote_evidence": "La magia New Age utiliza un sofisma poético: estética aplicada al lenguaje para simular sistematicidad,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Magia postmoderna como sofisma poético: anatomía del chamán New Age y los tres niveles arquetípicos del aparato mágico",
+      "proposed_page_id": "magia-postmoderna-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Toda magia son procedimientos porque son instrucciones con el objeto de conectar al practicante con lo sobrenatural,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El sofismo estético hace pasar por razonamiento formal algo que solo está relacionado estética o afectivamente,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Nivel mitológico: la jerga, el sistema de palabras,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "En psicología el objeto ritual se llama fetiche, en magia se llama tótem, en el \"espirituales\" se llama tecnología cuántica,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Sofisma estético / sofisma poético como mecánica del discurso mágico — variante específica del sofisma estético aplicada al campo religioso-esotérico",
+        "Códigos numéricos (0.0, 1.1, 5.5 Gamma) como categorías vacías que simulan rigor científico-aritmético sin contenido semántico real",
+        "Léxico tecnológico ('tecnología cuántica', 'resonador cuántico') como sustitución del léxico mágico tradicional para reforzar apariencia de legitimidad",
+        "Análisis semiótico de preposiciones: 'actualizaría con 5.5 Gamma' (procedimental, herramienta) vs 'en 5.5' (genérico, poético)",
+        "Tipología del interior psíquico del mago postmoderno: confabulación / estafa / cinismo como tres modos",
+        "Idealismo New Age: ficción de unión invisible entre conciencia y realidad externa que postula poder de la mente sobre la materia",
+        "Conducta histriónica como sobrecompensación expresiva — distinción frente a histeria (manifestación somática desconectada del origen) y frente a la mentira (propia de trastornos de personalidad, no exclusiva del histrionismo)",
+        "Distinción pseudofilosofía (politiqués, sin componente sobrenatural) vs pseudorreligión (magia, con componente sobrenatural directo)",
+        "El psicoanálisis como posible referente inconsciente del discurso mágico: la mecánica oracular como expresión libre con bloqueo del 'sensor psíquico' prefrontal",
+        "Test proyectivos como contraste: el niño como máquina simbólica perfecta que se identifica con sus símbolos sin performance espacial sobrenatural",
+        "Diferencia ciencia/magia: ambas usan sintagmas, pero la científica refiere a causa-consecuencia empírica y la mágica prescinde",
+        "Alquimia como mezcla indistinguible de empirismo y fantasía — magia sistematizada",
+        "Locus de autoridad interno vs externo como variable estructural del receptor del discurso mágico",
+        "Aparato totémico: fetiche (psicología) → tótem (magia tradicional) → tecnología cuántica ('espirituales' New Age) — tres nombres del mismo objeto ritual con distinto grado de respetabilidad cultural",
+        "Mecánica oracular: relajación de la mente para recibir información por frecuencia — psicológicamente, expresión libre de asociaciones inconscientes con anulación del filtro prefrontal",
+        "Tres niveles arquetípicos del aparato mágico: nivel mitológico (jerga / sistema de palabras), procedimiento oracular (recepción de energías o mensajes), mecánica totémica (objetos con poder), procedimiento ritual (actos físicos performativos)",
+        "Sistema de Arcanos: comparación entre esquemas mágicos como paradigmas poéticos del mismo metasistema New Age",
+        "Genealogía de la 'consciencia crística': reelaboración gnóstica de formas de protestantismo"
+      ],
+      "minutes_sustained": 67,
+      "domain_guess": "humanities.religion",
+      "related_existing_pages": [
+        "sofisma-estetico",
+        "pensamiento-poetico",
+        "tarot-arquetipico",
+        "freud-sigmund",
+        "realismo-cognitivo",
+        "woke-narrativa-postmoderna-moral",
+        "autoforia",
+        "autotipo"
+      ],
+      "requires_human_validation": false,
+      "rationale": "Tesis articulada del canal con cinco señales (thesis_marker definicional sobre la magia como procedimientos; declared_thesis sobre el sofisma estético como mecánica nuclear; applied_framework con la distinción magia/psicoanálisis; internal_structure múltiple con los tres-cuatro niveles arquetípicos del aparato mágico; pedagogic_register sostenido). framework_internal_structure de 18 piezas. CUMPLE gate auto-promoción (scope §2.4.1): minutes_sustained=67 ≥ 30, signal_marks=5 ≥ 3, framework_internal_structure ≥ 4 (muy holgado). requires_human_validation=false → auto-promovido. Conexiones operativas: extiende sofisma-estetico al campo mágico-religioso (la página existente trata el sofisma como dispositivo cultural-político, aquí se articula como dispositivo pseudoreligioso); contrasta con freud-sigmund como referente inconsciente posible del discurso mágico; conecta con pensamiento-poetico (modo de encadenamiento por estética/afecto que la magia explota); con realismo-cognitivo en el flanco de la frontera empírico/prescindencia-causal. La página será hub diagnóstico del aparato mágico contemporáneo en el corpus."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "relación madre-hijo / excisión / formación de la neurosis",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Análisis psicológico breve sobre la diferenciación madre-hijo como excisión y la herencia neurótica genética y conductual. Material articulado pero introductorio al directo (~7 min) y sin desarrollo de tesis original que justifique concept page autónomo. Conecta con excision-psicologica y con anima-archetype del wiki existente, pero el material aquí es corto y no añade pieza nueva sustantiva.",
+      "quote_evidence": "El hijo varón se especifica separándose de la madre, y esa ruptura genera una búsqueda constante de recomposición del vínculo,",
+      "review_priority": "medium",
+      "review_priority_reason": "La metáfora de la 'plastilina de dos colores mezclados con trazas distinguibles' (50% madre + 50% padre) y la tesis sobre la diferenciación inversa hija-madre podrían enriquecer páginas existentes (excision-psicologica, anima-archetype) si reaparecen sostenidas en otros directos.",
+      "enriches_concept": "excision-psicologica"
+    },
+    {
+      "surface_form": "diferenciación madre-hija como proceso inverso al del hijo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza interna de la introducción psicológica al directo. Tesis breve sobre la diferenciación femenina como descubrimiento de lo que separa (frente a la masculina como ya separada). Material útil pero corto.",
+      "quote_evidence": "En el hijo la separación de la madre es explícita por la diferencia obvia; en la hija lo claro es lo que las une,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "intención narcisista en la creación / locus externo (los patronos)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reflexión personal del speaker sobre cómo su conflicto con la madre arquetípica produce una intención narcisista en sus obras y ansiedad por validación de los patronos. Material biográfico-meta del canal sobre su propio proceso creativo, no contenido enciclopédico aplicable.",
+      "quote_evidence": "Proxy sospecha que su conflicto con la madre arquetípica produce una intención narcisista en sus obras,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "locus de autoridad interno vs externo",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Definición operativa del locus de control / autoridad articulada en el directo como variable estructural del receptor del discurso mágico. Capturada dentro del thesis_candidate sobre magia postmoderna. La página excision-psicologica ya menciona 'locus de control' tangencialmente.",
+      "quote_evidence": "Locus de autoridad interno: ante un problema acudo a la razón y decido yo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "consciencia crística como reelaboración gnóstica del protestantismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención genealógica final del directo sobre el origen de la 'consciencia crística' como reelaboración gnóstica de formas protestantes. Pieza interna del thesis sobre magia. La whitelist tiene gnosticismo con auto_promote=true: si en otro directo el canal articula el gnosticismo sustantivamente (≥3 min discutido), justificaría promote_new. Aquí solo se nombra como genealogía.",
+      "quote_evidence": "La \"consciencia crística\" proviene de una reelaboración gnóstica de formas de protestantismo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Gnosticismo está en whitelist con auto_promote=true. Si otro directo del corpus articula el gnosticismo como objeto sustantivo (≥3 min), justificará promote_new entonces. Aquí es genealogía corta.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "test del árbol / test de la casa / niño como máquina simbólica",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Casos de tests proyectivos articulados como contraste entre identificación simbólica auténtica (niños) y performance mágica adulta. Pieza interna del thesis sobre magia.",
+      "quote_evidence": "Los niños son máquinas simbólicas perfectas que se identifican con sus símbolos; el embrión entre consciente e inconsciente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "alquimia como magia sistematizada / mezcla empírico-fantástica",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Caracterización breve de la alquimia como magia sistematizada (mezcla indistinguible de empirismo y fantasía, mecánica física y gramática). Capturado dentro del thesis sobre magia. La whitelist tiene alquimia-simbolica con auto_promote=false; si reaparece como objeto sostenido, justificaría concept page propio.",
+      "quote_evidence": "La magia sistematizada se llama alquimia: mezcla indistinguible de empirismo y fantasía, mecánica física y gramática,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la alquimia (en sentido empírico-histórico, no como metáfora junguiana del cambio interior que ya está documentada en individuation y otros) reaparece tratada sustantivamente, justificaría concept page propio.",
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 7,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP framing_mark @ entity[magia-postmoderna-en-proxy]: 'El psicoanálisis nunca requiere performance espacial ni acti'",
+    "DROP speaker_mark @ thesis[Magia postmoderna como sofisma poético: ]",
+    "WARN promote_new[magia postmoderna como sofisma poético / chamán New Age] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

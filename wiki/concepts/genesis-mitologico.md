@@ -165,8 +165,10 @@ La correspondencia con las sefirot cabalísticas indica que el canal lee el Gén
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:38:11](https://youtu.be/_0BM2jMsWdc?t=5891)
+- **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [26:09](https://youtu.be/Dtp1_RLb7S0?t=1569)
 

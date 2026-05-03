@@ -1,0 +1,294 @@
+{
+  "video_id": "1WEQmzUM41M",
+  "video_title": "Me amenazan por teléfono: Todos los datos del caso",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "disforia genuina vs problema de identidad",
+      "canonical_guess": "fenomenologia-trans-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La disforia genuina no es un conflicto neurótico de personalidad sino un problema de integridad psíquica sobre el propio cuerpo,"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Si el género fuera identidad genuina, empezaría y acabaría en el yo interno sin necesidad de manifestación externa,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Distinción psiquiátrica fundamental que la página actual no documenta: disforia genuina (problema de integridad psíquica sobre el cuerpo, no desaparece con el tiempo) vs problema de identidad (conflicto neurótico que sí desaparece). El canal articula además la confabulación como mecanismo del movimiento trans (tomar como verdad externa una representación interna). Material complementario al flanco lógico-biológico ya añadido a la página.",
+      "quote_evidence": "A diferencia de los problemas de identidad, la disforia genuina no desaparece con el tiempo,"
+    },
+    {
+      "surface_form": "distinción EMDR / gnosis verde / hipnosis",
+      "canonical_guess": "trauma-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 13,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La EMDR no es un trance ni un estado sugestivo: el paciente observa procesos internos sin bajar defensas,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La gnosis verde consiste en provocar un estado de hiperatención parasimpática ante la novedad y dificultad propioceptiva,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento operativo de la página recién creada trauma-en-proxy: distinción operacional entre tres técnicas que comparten registro pero operan distinto — EMDR (atención propioceptiva con observación de procesos internos sin bajar defensas), gnosis verde (hiperatención parasimpática ante novedad/dificultad propioceptiva), hipnosis (evocación intensa voluntaria donde la conciencia se concentra, no se altera). Material no presente en la página actual y pieza correctiva contra la confusión común que asimila las tres como variantes del mismo mecanismo.",
+      "quote_evidence": "La hipnosis es un estado de evocación intensa voluntaria donde la conciencia se concentra, no se altera,"
+    },
+    {
+      "surface_form": "herida de padre como origen del narcisismo / frontera con sociopatía / proyección pura",
+      "canonical_guess": "herida-narcisista-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "La falta de validación paterna como héroe genera que todo logro propio sea insuficiente y toda crítica sea humillación,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El acosador intenta hacer daño con las cosas que a él más le harían daño: fracaso, soledad, falta de formación,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la transferencia, colusión y compulsión de repetición pero tiene laguna explícita 'no traza el mapa con narcisismo patológico clínico'. El material aporta tres piezas que la cubren parcialmente: (a) frontera narcisismo patológico / sociopatía cuando se pierde capacidad de respetar límites — el sociópata se relaciona solo desde superioridad u odio, sin capacidad intermedia; (b) herida de padre como origen específico — falta de validación paterna como héroe que vuelve insuficiente todo logro propio; (c) proyección pura como mecánica del acosador — intenta hacer daño con lo que a él más le haría daño (fracaso, soledad, falta de formación).",
+      "quote_evidence": "Cuando se toca la fibra paterna en el conflicto, el narcisista colapsa completamente,"
+    },
+    {
+      "surface_form": "pendiente resbaladiza woke como sumar sofismas",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El mecanismo consiste en sumar conceptos sin relación causal como si fueran consecuencias lógicas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el sofisma estético como mecanismo nuclear del woke pero no documenta la pendiente resbaladiza como dispositivo retórico específico — encadenar sofismas sin relación causal hasta la conclusión deseada. Material que refina el catálogo de mecanismos retóricos del woke con un caso operativo concreto (cualquier preferencia masculina convertible en discriminación u opresión por tobogán retórico).",
+      "quote_evidence": "Cualquier preferencia masculina puede convertirse en discriminación u opresión siguiendo este tobogán retórico,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "fenomenologia-trans-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La autoridad psíquica del autorelato (núcleo de la fenomenología) no puede extenderse a la prescripción de la realidad cromosómica ni a la disolución de las categorías formales que sostienen prácticas comparativas estables.",
+      "section_target": null,
+      "content_proposed": "## Disforia genuina vs problema de identidad: la distinción psiquiátrica fundamental\n\nEn el directo *Me amenazan por teléfono* (12-ago-2024) el canal articula explícitamente la distinción categorial que la fenomenología trans necesita para no colapsar dos cuadros clínicos heterogéneos en una sola etiqueta política.\n\n> \"Si el género fuera identidad genuina, empezaría y acabaría en el yo interno sin necesidad de manifestación externa\"\n→ [Me amenazan por teléfono (1:57:59)](https://youtu.be/1WEQmzUM41M?t=7079)\n\n> \"La conducta histriónica de exagerar la identidad externamente revela inseguridad sobre su existencia interna\"\n→ [Me amenazan por teléfono (1:57:59)](https://youtu.be/1WEQmzUM41M?t=7079)\n\n> \"Lo que hoy llaman \\\"identidad de género\\\" es en realidad cómo quieren que los demás les clasifiquen, no lo que son\"\n→ [Me amenazan por teléfono (1:57:59)](https://youtu.be/1WEQmzUM41M?t=7079)\n\nLa pieza es decisiva: una identidad genuina opera intrapsíquicamente y se sabe tácitamente; cuando aparece como demanda performativa hacia el otro (cómo me clasifiques) es síntoma de que opera el dispositivo que la página articula como histriónico, no el cuadro psiquiátrico genuino.\n\n### El género como conducta cultural, no propiedad del ser\n\n> \"El género es una conducta que la cultura atribuye a cada sexo, no una propiedad del ser\"\n→ [Me amenazan por teléfono (2:02:37)](https://youtu.be/1WEQmzUM41M?t=7357)\n\n> \"No se puede comprender al ser humano partiendo de lo social; eso solo muestra lo que hacen, no lo que son\"\n→ [Me amenazan por teléfono (2:02:37)](https://youtu.be/1WEQmzUM41M?t=7357)\n\n> \"La confabulación es tomar como verdad externa una representación interna: creer que lo que deseas ser es lo que genuinamente eres\"\n→ [Me amenazan por teléfono (2:02:37)](https://youtu.be/1WEQmzUM41M?t=7357)\n\nLa confabulación —concepto clínico que el canal aplica también a otras lecturas— opera aquí como mecanismo nuclear del fenómeno identitario contemporáneo: la representación interna del deseo se proyecta como dato externo verificable. La consecuencia metodológica es restrictiva: el autorelato que la fenomenología trans toma como punto de partida puede ser confabulación cuando se exige al mundo que lo trate como prescripción ontológica.\n\n### Disforia genuina: criterio diferencial\n\nLa pieza más importante para la taxonomía de la página es la distinción psiquiátrica fundamental entre disforia genuina y problema de identidad:\n\n> \"La disforia genuina no es un conflicto neurótico de personalidad sino un problema de integridad psíquica sobre el propio cuerpo\"\n→ [Me amenazan por teléfono (2:10:13)](https://youtu.be/1WEQmzUM41M?t=7813)\n\n> \"A diferencia de los problemas de identidad, la disforia genuina no desaparece con el tiempo\"\n→ [Me amenazan por teléfono (2:10:13)](https://youtu.be/1WEQmzUM41M?t=7813)\n\n> \"El movimiento trans confunde toda voluntad de ser diferente con disforia, metiendo neurosis de identidad en la categoría psiquiátrica\"\n→ [Me amenazan por teléfono (2:10:13)](https://youtu.be/1WEQmzUM41M?t=7813)\n\nEl criterio operativo de demarcación es **temporal y estructural**: la disforia genuina afecta a la integridad psíquica del propio cuerpo (no a la identidad social) y persiste; el problema de identidad opera como conflicto neurótico que las fases vitales modulan o resuelven. La crítica del canal al movimiento trans es categorial: meter neurosis de identidad en la categoría psiquiátrica de la disforia produce dos errores simultáneos — invisibiliza el cuadro genuino al expandir indiscriminadamente la categoría, y prescribe intervenciones somáticas para problemas que pertenecen al registro neurótico de la identidad social. La fenomenología trans como disciplina, en la lectura del canal, exige sostener esta distinción para no colapsar dos objetos clínicos heterogéneos en un único sintagma político.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 7079,
+          "cite_markdown": "[Me amenazan por teléfono (1:57:59)](https://youtu.be/1WEQmzUM41M?t=7079)"
+        },
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 7357,
+          "cite_markdown": "[Me amenazan por teléfono (2:02:37)](https://youtu.be/1WEQmzUM41M?t=7357)"
+        },
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 7813,
+          "cite_markdown": "[Me amenazan por teléfono (2:10:13)](https://youtu.be/1WEQmzUM41M?t=7813)"
+        }
+      ],
+      "rationale": "La página articula la fenomenología trans desde el lado experiencial-cognitivo y desde el flanco lógico-biológico. El material añade el flanco psiquiátrico-categorial específico: distinción disforia genuina (integridad psíquica del cuerpo, persistente, no resoluble por mediación social) vs problema de identidad (conflicto neurótico, modulable, resoluble). Esta distinción es la pieza diagnóstica que articula los tres registros previos (experiencial + lógico-biológico + clínico). Material no presente en el cuerpo actual.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "trauma-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La crítica del canal a la PNL y a la psicología positiva (apuntada al final del vídeo) presupone esta arquitectura: solo opera lo que toca al dragón",
+      "section_target": null,
+      "content_proposed": "## EMDR, gnosis verde e hipnosis: tres técnicas distintas que comparten registro\n\nEn el directo *Me amenazan por teléfono* (12-ago-2024) el canal articula explícitamente la distinción operacional entre tres técnicas que comparten el registro de evocación intensa pero operan según mecanismos distintos. La pieza corrige la confusión común que asimila las tres como variantes del mismo procedimiento.\n\n### EMDR: observación sin bajar defensas\n\n> \"La EMDR no es un trance ni un estado sugestivo: el paciente observa procesos internos sin bajar defensas\"\n→ [Me amenazan por teléfono (1:13:56)](https://youtu.be/1WEQmzUM41M?t=4436)\n\nLa precisión refina la sección sobre EMDR ya documentada: aunque la técnica opera con anticorrelación simpático-parasimpático, el paciente **conserva sus defensas activas**. No es alteración del estado de conciencia — es atención dirigida sostenida.\n\n### Gnosis verde: hiperatención parasimpática ante la novedad\n\n> \"La gnosis verde consiste en provocar un estado de hiperatención parasimpática ante la novedad y dificultad propioceptiva\"\n→ [Me amenazan por teléfono (1:13:56)](https://youtu.be/1WEQmzUM41M?t=4436)\n\nDistinto registro técnico: en lugar de evocación traumática voluntaria, se busca induc el estado parasimpático elevado mediante exposición a estímulos novedosos y exigencia propioceptiva. Es procedimiento de regulación afectiva con sustrato distinto al EMDR — no opera sobre la impronta traumática específica sino sobre el tono general del sistema.\n\n### Hipnosis: evocación voluntaria donde el yo se concentra\n\n> \"La hipnosis es un estado de evocación intensa voluntaria donde la conciencia se concentra, no se altera\"\n→ [Me amenazan por teléfono (1:19:59)](https://youtu.be/1WEQmzUM41M?t=4799)\n\n> \"El paciente hipnotizado permanece en el yo, pero en un yo evocativo que recrea intensamente situaciones no presentes\"\n→ [Me amenazan por teléfono (1:19:59)](https://youtu.be/1WEQmzUM41M?t=4799)\n\n> \"No existe \\\"toma de control\\\" por el inconsciente: consciente e inconsciente están siempre activos simultáneamente\"\n→ [Me amenazan por teléfono (1:19:59)](https://youtu.be/1WEQmzUM41M?t=4799)\n\nLa precisión más importante para el marco: la imagen popular del hipnotizado como sujeto controlado por el inconsciente es falsa. Consciente e inconsciente operan simultáneamente; lo que la hipnosis hace es **concentrar el yo en un registro evocativo** donde los mecanismos de defensa se reducen y pueden aflorar contenidos normalmente reprimidos — pero el sujeto sigue siendo agente del proceso, no observador desplazado de su propia mente.\n\nLa consecuencia operativa para la teoría del trauma articulada en la página: las tres técnicas no son intercambiables. El EMDR opera sobre la impronta traumática específica con anticorrelación simpático-parasimpático; la gnosis verde regula el tono parasimpático general sin objeto específico; la hipnosis concentra el yo en evocación con reducción de defensas. Confundirlas en la práctica clínica produce iatrogenia — aplicar gnosis verde a un trauma estructural no rescatará a la doncella; aplicar EMDR a una ansiedad generalizada no encuentra dragón al que ahuyentar.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 4436,
+          "cite_markdown": "[Me amenazan por teléfono (1:13:56)](https://youtu.be/1WEQmzUM41M?t=4436)"
+        },
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 4799,
+          "cite_markdown": "[Me amenazan por teléfono (1:19:59)](https://youtu.be/1WEQmzUM41M?t=4799)"
+        }
+      ],
+      "rationale": "La página articula EMDR como pieza central pero NO documenta la distinción operacional con gnosis verde e hipnosis. Material refinador que precisa el espacio técnico-clínico del trauma: cuándo aplicar cada técnica y por qué no son intercambiables. La precisión sobre la hipnosis (consciente e inconsciente activos simultáneamente, no hay toma de control) es además correctiva contra la imagen popular y operativamente relevante para la articulación del aparato terapéutico que la página ya documenta.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el material que debería integrarse permanece proyectado sobre figuras de transferencia que pagan por una cuenta que no abrieron.",
+      "section_target": null,
+      "content_proposed": "## Origen paterno y frontera con la sociopatía\n\nEn el directo *Me amenazan por teléfono* (12-ago-2024) el canal añade dos piezas que la página listaba como laguna: el origen específico de la herida en la dimensión paterna y la frontera operativa con el cuadro sociopático.\n\n### La herida de padre como origen del narcisismo patológico\n\n> \"La falta de validación paterna como héroe genera que todo logro propio sea insuficiente y toda crítica sea humillación\"\n→ [Me amenazan por teléfono (42:37)](https://youtu.be/1WEQmzUM41M?t=2557)\n\n> \"El sujeto siente que los demás le desprecian y no reconocen su grandeza, lo cual alimenta el ciclo narcisista\"\n→ [Me amenazan por teléfono (42:37)](https://youtu.be/1WEQmzUM41M?t=2557)\n\n> \"Cuando se toca la fibra paterna en el conflicto, el narcisista colapsa completamente\"\n→ [Me amenazan por teléfono (42:37)](https://youtu.be/1WEQmzUM41M?t=2557)\n\nLa génesis específica precisa el cuadro: la falta de validación paterna deja al sujeto sin la operación arquetípica del padre que reconoce al hijo como héroe. Sin esa operación, **todo logro queda por debajo del listón inalcanzable** y toda crítica reactiva la humillación primaria. La pieza tiene consecuencia operativa: el punto de fragilidad clínica del cuadro es la dimensión paterna — tocarla precipita el colapso del aparato defensivo, no como exposición útil sino como dato diagnóstico.\n\n### La frontera con la sociopatía: pérdida del límite social\n\n> \"El narcisismo patológico puede estar a punto de convertirse en sociopatía cuando se pierde la capacidad de respetar cualquier límite social\"\n→ [Me amenazan por teléfono (06:37)](https://youtu.be/1WEQmzUM41M?t=397)\n\n> \"La herida narcisista leve es un conflicto universal, pero cuando se maximiza impide elaborar vínculos sanos\"\n→ [Me amenazan por teléfono (06:37)](https://youtu.be/1WEQmzUM41M?t=397)\n\n> \"El sociópata se relaciona solo desde la superioridad o el odio, sin capacidad intermedia\"\n→ [Me amenazan por teléfono (06:37)](https://youtu.be/1WEQmzUM41M?t=397)\n\nLa frontera operativa entre narcisismo patológico y sociopatía no es continuidad gradual sino transición de fase: el cuadro permanece narcisista mientras el sujeto conserve algún registro de límite social; deviene sociopático cuando ese registro se pierde y el repertorio relacional colapsa al binario superioridad/odio. La herida narcisista leve permanece como conflicto universal sin precipitar el cuadro completo; el factor diferencial es la **maximización** que impide elaborar vínculos sanos.\n\n### La proyección pura como mecánica del acosador\n\n> \"El acosador intenta hacer daño con las cosas que a él más le harían daño: fracaso, soledad, falta de formación\"\n→ [Me amenazan por teléfono (30:26)](https://youtu.be/1WEQmzUM41M?t=1826)\n\nLa pieza completa la mecánica de la transferencia ya documentada: el acosador no busca al azar lo que dañaría a la víctima — proyecta sobre ella **lo que más le dañaría a sí mismo**. Lo que aparece como ataque dirigido es autorretrato negativo del agresor proyectado. La consecuencia diagnóstica es operativa: las acusaciones del acosador prolongado son índice de su propia herida, no diagnóstico de la víctima. Si insiste en señalar fracaso, soledad o falta de formación, esos son sus puntos de fractura — proyectados sobre el otro precisamente porque no puede sostenerlos como propios.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 397,
+          "cite_markdown": "[Me amenazan por teléfono (06:37)](https://youtu.be/1WEQmzUM41M?t=397)"
+        },
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 1826,
+          "cite_markdown": "[Me amenazan por teléfono (30:26)](https://youtu.be/1WEQmzUM41M?t=1826)"
+        },
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 2557,
+          "cite_markdown": "[Me amenazan por teléfono (42:37)](https://youtu.be/1WEQmzUM41M?t=2557)"
+        }
+      ],
+      "rationale": "La página tiene laguna explícita: 'no traza el mapa con narcisismo patológico clínico' y 'sin desarrollo del caso reverso'. El material aporta tres piezas que cubren parcialmente la laguna: génesis paterna específica (validación paterna como héroe), frontera operativa con sociopatía (pérdida del límite social como criterio de transición de fase), y mecánica de la proyección pura (el acosador proyecta lo que a él le dañaría). Las tres piezas son complementarias al cuadro de transferencia y colusión ya documentado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el woke es el dispositivo narrativo específico que la produce en la creación cultural contemporánea",
+      "section_target": null,
+      "content_proposed": "## La pendiente resbaladiza: encadenar sofismas como mecanismo retórico\n\nEn el directo *Me amenazan por teléfono* (12-ago-2024) el canal articula un mecanismo retórico específico del aparato woke que la página no documentaba: la pendiente resbaladiza como operación que encadena sofismas sin relación causal hasta la conclusión deseada.\n\n> \"El mecanismo consiste en sumar conceptos sin relación causal como si fueran consecuencias lógicas\"\n→ [Me amenazan por teléfono (1:02:18)](https://youtu.be/1WEQmzUM41M?t=3738)\n\n> \"Cualquier preferencia masculina puede convertirse en discriminación u opresión siguiendo este tobogán retórico\"\n→ [Me amenazan por teléfono (1:02:18)](https://youtu.be/1WEQmzUM41M?t=3738)\n\nEl dispositivo opera por composición: cada paso retórico parece plausible al receptor, pero la cadena entera no preserva la relación causal que sus eslabones simulan. La pieza es complementaria al [[sofisma-estetico]] que la página articula como mecanismo nuclear: el sofisma estético opera puntualmente al sustituir razonamiento formal por relación afectiva; la pendiente resbaladiza opera estructuralmente al encadenar varios sofismas estéticos como si fueran inferencias lógicas válidas. El efecto combinado es una construcción argumentativa donde cada paso es defensible aisladamente pero la conclusión no se sigue del punto de partida — el receptor que objete tiene que desarmar la cadena entera, no un solo eslabón, y esa asimetría de coste retórico es lo que vuelve operativa la pendiente.\n\n> \"Las fórmulas de \\\"rango de edad aceptable\\\" son ejemplos de este pensamiento pseudológico aplicado a relaciones\"\n→ [Me amenazan por teléfono (1:02:18)](https://youtu.be/1WEQmzUM41M?t=3738)\n\nLa categoría es generalizable: las fórmulas pseudo-aritméticas que pretenden derivar normas relacionales de operaciones numéricas (rangos de edad como funciones de la edad propia) son casos paradigmáticos de pendiente resbaladiza con ropaje matemático. La precisión cierra el catálogo retórico woke que la página articula: vaciamiento arquetípico (sustrato) + sofisma estético (mecanismo puntual) + pendiente resbaladiza (mecanismo estructural).",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1WEQmzUM41M",
+          "timestamp_seconds": 3738,
+          "cite_markdown": "[Me amenazan por teléfono (1:02:18)](https://youtu.be/1WEQmzUM41M?t=3738)"
+        }
+      ],
+      "rationale": "La página articula el sofisma estético como mecanismo nuclear del woke pero no documenta la pendiente resbaladiza como dispositivo retórico específico estructural. Material que extiende el catálogo retórico con un mecanismo distinto (encadenamiento estructural de sofismas vs sofisma puntual). La distinción es operativa: contra el sofisma estético basta señalar la sustitución; contra la pendiente resbaladiza hay que desarmar toda la cadena, lo que explica la asimetría de coste retórico que vuelve eficaz al dispositivo.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Threads / red social / inmadurez comunicativa",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario sobre la mecánica de la red social Threads (importación automática de seguidores, dominio de perfiles visuales, reacciones desproporcionadas). Meta del canal sobre el ecosistema de redes, sin marco psicológico aplicado que justifique enriquecer páginas existentes.",
+      "quote_evidence": "Threads importa automáticamente los seguidores de Instagram y los hace seguirse mutuamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "el incidente del acosador / 50.000 interacciones / pantallazos / protocolo práctico",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Incidente personal del speaker (publicación viral en Threads que genera acoso telefónico) con detalles operativos (capturas no son revelación de secretos, protocolo de bloqueo y denuncia). Material biográfico-jurídico del caso particular. La parte clínica (proyección pura, frontera narcisismo/sociopatía) sí se captura como update a herida-narcisista-en-proxy.",
+      "quote_evidence": "Una publicación en respuesta a una cuenta de experiencias en apps de citas generó 50.000 interacciones en 48 horas desde una cuenta de 300 seguidores,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "herida-narcisista-en-proxy"
+    },
+    {
+      "surface_form": "síndrome de la iluminada / Abi",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo (creadora de contenido que critica diferencias de edad mientras tuvo relación de 7 años de diferencia siendo menor de edad). El 'síndrome de la iluminada' como categoría (juicios morales absolutos sin aplicarlos a la propia biografía) podría reaparecer y justificar concept page si se sostiene; aquí es solo aplicación al caso.",
+      "quote_evidence": "El síndrome consiste en emitir juicios morales absolutos sin aplicarlos a la propia biografía,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el 'síndrome de la iluminada' reaparece sostenido como categoría en otros directos, justificaría concept page sobre el patrón de moralina sin autocrítica.",
+      "enriches_concept": "sofisma-estetico"
+    },
+    {
+      "surface_form": "pedofilia, efebofilia y atracción por rangos de edad",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Distinciones clínicas estándar invocadas en respuesta al bloque sobre Abi: pedofilia (incapacidad de contenerse + ausencia de otros vínculos posibles), efebofilia (rasgo estético, no patología), atracción universal 18-25 (pico de simetría y salud). Material clínico estándar sin marco propio del canal que justifique concept page.",
+      "quote_evidence": "La pedofilia se caracteriza no por el gusto sino por la incapacidad de contenerse y la ausencia de otros vínculos posibles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "atracción femenina / hijo-amante-padre / carisma como borrachera",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre los tres roles que las mujeres necesitan inconscientemente del hombre (hijo, amante, padre) y el carisma percibido como borrachera que reduce la capacidad de decisión. Material útil clínicamente y articulado, pero corto (~8 min). Conecta con anima-archetype y consumismo-critica (apps de citas).",
+      "quote_evidence": "Las mujeres necesitan inconscientemente que el hombre cumpla tres roles simultáneos: hijo, amante y padre,",
+      "review_priority": "medium",
+      "review_priority_reason": "La triada hijo-amante-padre como demanda inconsciente femenina y la operación del carisma como reductor de la capacidad de decisión podrían enriquecer anima-archetype o colusion-heroe-ninfa si reaparecen sostenidas.",
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "hombres feos ligan / poder percibido vs seguridad real",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve sobre la indiferencia ante la propia fealdad como percibida-como-seguridad por el cerebro femenino. La testosterona produce caras muy atractivas o muy feas (no rasgos masculinos per se). Material articulado pero corto y sin desarrollo sostenido.",
+      "quote_evidence": "Los hombres feos que ligan lo hacen porque su indiferencia ante la fealdad se percibe como seguridad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Óscar Puente / chulería no creíble / Tribunal Supremo vs Constitucional",
+      "reason_code": "political_news",
+      "reason_detail": "Mención de figura política española (Óscar Puente — no en topic_filter actual) como caso de chulería no creíble. Bloque mezcla análisis sobre cómo las mujeres distinguen seguridad genuina de fingida con dato técnico-jurisdiccional sobre el Tribunal Supremo vs Constitucional. Material coyuntural sin marco aplicado sostenido.",
+      "quote_evidence": "Las mujeres distinguen entre hombres que fingen seguridad y los que genuinamente la poseen,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Anelindane / humorista provocador / victimización profesional",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo de creadora que se victimiza tras provocar. Maximizar la respuesta del otro como mecanismo del wokismo para evadir responsabilidad. Material operativo pero anecdótico — no merece página propia. Se podría capturar como ejemplo en woke-narrativa-postmoderna-moral si reaparece.",
+      "quote_evidence": "La necesidad de atención constante es el motor real, no la crítica cultural que proclama,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

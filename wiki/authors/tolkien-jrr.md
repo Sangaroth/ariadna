@@ -315,9 +315,11 @@ El anillo opera específicamente en la segunda forma — la concupiscencia inter
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722) · [50:23](https://youtu.be/gDRkrg8dVCo?t=3023) · [1:05:15](https://youtu.be/gDRkrg8dVCo?t=3915)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [27:29](https://youtu.be/s6teBboDDJ4?t=1649) · [1:16:01](https://youtu.be/s6teBboDDJ4?t=4561)
 - **Tolkien y los dragones** — chunks: [0:31](https://youtu.be/O-kzVFngjAQ?t=31) · [1:07:52](https://youtu.be/O-kzVFngjAQ?t=4072) · [1:12:57](https://youtu.be/O-kzVFngjAQ?t=4377) · [1:16:29](https://youtu.be/O-kzVFngjAQ?t=4589) · [1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)
 - **Autodidáctica** — chunks: [11:51](https://youtu.be/tgP5_AvAnD8?t=711)
 - **Irrespirables redes sociales.** — chunks: [22:03](https://youtu.be/aaLhUV1rdE4?t=1323)
+- **Lunes Acuático** — chunks: [15:28](https://youtu.be/5BvEX-L6I2I?t=928)
 

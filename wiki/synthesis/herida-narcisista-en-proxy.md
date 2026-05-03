@@ -101,6 +101,44 @@ De ahí la clausura clínica del cuadro: el rencor crece con intereses precisame
 
 La herida narcisista, así definida, es lo opuesto operativo de la [[individuation]]: el sujeto no asume el duelo del daño originario ni integra la sombra correspondiente, sino que las externaliza como deuda colectiva. Mientras el rencor crezca con intereses no puede haber cambio alquímico — el material que debería integrarse permanece proyectado sobre figuras de transferencia que pagan por una cuenta que no abrieron.
 
+## Origen paterno y frontera con la sociopatía
+
+En el directo *Me amenazan por teléfono* (12-ago-2024) el canal añade dos piezas que la página listaba como laguna: el origen específico de la herida en la dimensión paterna y la frontera operativa con el cuadro sociopático.
+
+### La herida de padre como origen del narcisismo patológico
+
+> "La falta de validación paterna como héroe genera que todo logro propio sea insuficiente y toda crítica sea humillación"
+→ [Me amenazan por teléfono (42:37)](https://youtu.be/1WEQmzUM41M?t=2557)
+
+> "El sujeto siente que los demás le desprecian y no reconocen su grandeza, lo cual alimenta el ciclo narcisista"
+→ [Me amenazan por teléfono (42:37)](https://youtu.be/1WEQmzUM41M?t=2557)
+
+> "Cuando se toca la fibra paterna en el conflicto, el narcisista colapsa completamente"
+→ [Me amenazan por teléfono (42:37)](https://youtu.be/1WEQmzUM41M?t=2557)
+
+La génesis específica precisa el cuadro: la falta de validación paterna deja al sujeto sin la operación arquetípica del padre que reconoce al hijo como héroe. Sin esa operación, **todo logro queda por debajo del listón inalcanzable** y toda crítica reactiva la humillación primaria. La pieza tiene consecuencia operativa: el punto de fragilidad clínica del cuadro es la dimensión paterna — tocarla precipita el colapso del aparato defensivo, no como exposición útil sino como dato diagnóstico.
+
+### La frontera con la sociopatía: pérdida del límite social
+
+> "El narcisismo patológico puede estar a punto de convertirse en sociopatía cuando se pierde la capacidad de respetar cualquier límite social"
+→ [Me amenazan por teléfono (06:37)](https://youtu.be/1WEQmzUM41M?t=397)
+
+> "La herida narcisista leve es un conflicto universal, pero cuando se maximiza impide elaborar vínculos sanos"
+→ [Me amenazan por teléfono (06:37)](https://youtu.be/1WEQmzUM41M?t=397)
+
+> "El sociópata se relaciona solo desde la superioridad o el odio, sin capacidad intermedia"
+→ [Me amenazan por teléfono (06:37)](https://youtu.be/1WEQmzUM41M?t=397)
+
+La frontera operativa entre narcisismo patológico y sociopatía no es continuidad gradual sino transición de fase: el cuadro permanece narcisista mientras el sujeto conserve algún registro de límite social; deviene sociopático cuando ese registro se pierde y el repertorio relacional colapsa al binario superioridad/odio. La herida narcisista leve permanece como conflicto universal sin precipitar el cuadro completo; el factor diferencial es la **maximización** que impide elaborar vínculos sanos.
+
+### La proyección pura como mecánica del acosador
+
+> "El acosador intenta hacer daño con las cosas que a él más le harían daño: fracaso, soledad, falta de formación"
+→ [Me amenazan por teléfono (30:26)](https://youtu.be/1WEQmzUM41M?t=1826)
+
+La pieza completa la mecánica de la transferencia ya documentada: el acosador no busca al azar lo que dañaría a la víctima — proyecta sobre ella **lo que más le dañaría a sí mismo**. Lo que aparece como ataque dirigido es autorretrato negativo del agresor proyectado. La consecuencia diagnóstica es operativa: las acusaciones del acosador prolongado son índice de su propia herida, no diagnóstico de la víctima. Si insiste en señalar fracaso, soledad o falta de formación, esos son sus puntos de fractura — proyectados sobre el otro precisamente porque no puede sostenerlos como propios.
+
+
 ## Lagunas
 
 - El canal articula la transferencia hacia el acosador prolongado y la colusión negativa de la víctima, pero no detalla la **salida clínica** del cuadro: cómo se interrumpe la compulsión de repetición sin que el sujeto se sienta abandonando una deuda legítima
@@ -111,5 +149,9 @@ La herida narcisista, así definida, es lo opuesto operativo de la [[individuati
 ## Citations
 
 
+
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
+- **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
+- **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
 

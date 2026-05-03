@@ -1,0 +1,243 @@
+{
+  "video_id": "5BvEX-L6I2I",
+  "video_title": "Lunes Acuático",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Plan B como buceador-soldador profesional",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Carrera profesional del speaker (formación de buceo-soldadura como vía de ingresos secundaria) y proceso de búsqueda de empleo en acuario fluvial de Zaragoza. Anécdota biográfica del autor del canal, sin valor enciclopédico para el wiki temático.",
+      "quote_evidence": "Ha finalizado la formación del Plan B como buceador-soldador,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Fin de los \"lunes basados\" / despolitización del canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Decisión editorial sobre el formato del canal: eliminar los lunes dedicados a comentario político por agotamiento del nicho. Meta del canal sobre su propia línea editorial, no contenido temático.",
+      "quote_evidence": "Propone eliminar los lunes dedicados a comentario político por agotamiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "titulación buceador-soldador y próximos cursos",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalles biográficos sobre las certificaciones obtenidas (3G, 30m) y planes formativos próximos (mezclas de gases, trajes, fotografía subacuática). Trayectoria profesional del speaker.",
+      "quote_evidence": "Ya es buceador-soldador titulado y homologado hasta 3G y 30 metros de profundidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "debate sobre segundo canal de YouTube para buceo",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reflexión sobre la estrategia de canales y el algoritmo de YouTube. Meta del proyecto del speaker, no contenido enciclopédico.",
+      "quote_evidence": "Mezclar contenidos temáticamente distintos perjudica al algoritmo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "recomendación del canal de Miriam Petricor",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendación cultural personal del speaker sobre otra creadora de contenido, sin análisis del trabajo de Petricor ni marco aplicado. No es recommended_reference bibliográfica del canal en el sentido de §3.4 del scope (no es base de estudio).",
+      "quote_evidence": "Es un canal que considera sano, entretenido y con una persona normal y simpática,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "planificación de contenidos de la semana (mito del Gólem, álgebra afectiva, Tolkien)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Avance de la programación semanal del canal con menciones a temas que se desarrollarán en directos posteriores. La mención al libro de Meyrink (Gustav Meyrink, 'Der Golem') aparece como anuncio de lectura futura en directo, no como análisis presente. Los vídeos posteriores que efectivamente cubran esos temas serán los que aporten material enciclopédico.",
+      "quote_evidence": "Miércoles: mitología 101 con el mito del Gólem y lectura del libro de Meyrink,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cuando se procese el directo posterior dedicado a la lectura íntegra de 'Der Golem' de Meyrink, esa sesión activará promote_new para Meyrink (author + entity_work) por el criterio §2.3 'lectura íntegra en directo' y §2.2 'as_author_of_sources > 0'. Útil tener el rastro de la planificación previa para verificar continuidad.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "vídeos de inmersiones recreativas (GoPro, corales)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Material visual del directo: grabaciones personales del speaker en sus inmersiones del curso. Sin contenido temático del wiki.",
+      "quote_evidence": "Muestra vídeos grabados con GoPro durante inmersiones del curso,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "protocolo de perderse buceando",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Procedimiento técnico de buceo (ascender a superficie y volver al barco). Domain natural.applied_diving / industrial fuera de §1.1 y §1.2. Sin marco psicológico/arquetípico aplicado por el speaker.",
+      "quote_evidence": "El protocolo es simplemente subir a la superficie y volver nadando al barco,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "síndrome del azul / sistema vestibular subacuático",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico del buceo (ansiedad por desorientación visual subacuática) y mención neutra al sistema vestibular del oído. Sin lectura propia del canal que aplique marco psicológico/cognitivo del wiki. Anécdota técnica.",
+      "quote_evidence": "Mirar hacia abajo y no ver nada produce ansiedad conocida como síndrome del azul,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "operaciones de buceo profesional en Guetaria",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Vídeo y descripción técnica de operaciones reales de buceo industrial en puerto. Domain industrial/técnico fuera del scope editorial del wiki.",
+      "quote_evidence": "Muestra 38 minutos de vídeo de operaciones reales en un puerto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "equipo de suministro de superficie vs autónomo",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Configuración técnica de equipos de buceo profesional (tenders, jefe de equipo, ayudante, buzo de seguridad). Contenido vocacional fuera de scope académico del wiki.",
+      "quote_evidence": "El suministro de superficie conecta al buzo por un umbilical con aire, comunicaciones y vídeo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "legislación del buceo profesional en España",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Marco legal del buceo profesional (titulaciones, marina mercante, jefatura de control de puerto). Contenido administrativo-profesional sin valor enciclopédico para el wiki temático.",
+      "quote_evidence": "No se pueden hacer trabajos de buceo sin título de buceo profesional (distinto del recreativo o técnico),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "plataforma flotante y mesa de operaciones subacuática",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Descripción técnica del setup industrial de la operación (rejilla, marco flotante, lastre, escaleras). Fuera de scope.",
+      "quote_evidence": "La mesa de metal está sobre una rejilla sujeta con cabos a un marco cuadrado flotante con escaleras,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "umbilical y casco Kirby Morgan",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Descripción técnica del equipamiento (líneas neumática/gas/comunicaciones/vídeo, casco vs mascarón). Fuera de scope.",
+      "quote_evidence": "El umbilical lleva línea neumática (amarillo), gas (azul), comunicaciones (rojo) y opcionalmente vídeo (naranja),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "soldadura y corte subacuático: aislamiento eléctrico",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Procedimiento técnico de soldadura subacuática con detalles de seguridad eléctrica (guantes nitrilo, traje estanco). Fuera de scope.",
+      "quote_evidence": "Para operaciones con arco eléctrico se usan guantes de nitrilo grueso como aislante sobre los de neopreno,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "lanza térmica: funcionamiento y potencia",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Descripción técnica del corte por lanza térmica (varillas comburentes, temperatura, autoconsumo). Fuera de scope académico.",
+      "quote_evidence": "Es un tubo de acero con varillas comburentes de cadmio, zinc y magnesio con oxígeno central,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "dificultad de la soldadura subacuática y visibilidad",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Detalles operativos de cómo se ejecuta la soldadura subacuática (postura, cebado del electrodo, gestión de burbujas). Fuera de scope.",
+      "quote_evidence": "Las burbujas y el humo suben hacia la máscara e impiden ver lo que se suelda,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "soldadura seca vs húmeda y campana hiperbárica",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Distinción técnica entre soldadura húmeda (en agua) y seca (campana hiperbárica precomprimida). Fuera de scope.",
+      "quote_evidence": "La soldadura subacuática seca se realiza dentro de una campana hiperbárica abierta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "efectos de la presión en el cuerpo humano",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Hechos físicos sobre presión hidrostática (1 atm cada 10m, velocidad de descenso). Datos técnicos estándar de la fisiología del buceo, sin marco propio del canal.",
+      "quote_evidence": "Cada 10 metros de profundidad equivale a una atmósfera adicional de presión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "narcosis por nitrógeno como peligro de profundidad",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Fenómeno fisiológico clínico estándar (narcosis por nitrógeno disuelto, récord de 332m). Mención técnica neutra sin lectura psicológica propia del canal aplicable a páginas existentes.",
+      "quote_evidence": "El nitrógeno disuelto en sangre a alta presión produce una borrachera que lleva a quitarse el casco,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "toxicidad del oxígeno y Trimix",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Fisiología de mezclas de gases para profundidad (hiperoxia, Nitrox, Trimix con helio). Conocimiento técnico estándar sin lectura propia del canal.",
+      "quote_evidence": "Por encima de 1.6 atmósferas de presión parcial de oxígeno se producen convulsiones (hiperoxia),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "demostración del equipo de buceo técnico personal",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Show & tell del equipo personal del speaker (jacket Mares XR, regulador Apex XTX 200, latiguillos, manómetro). Anécdota material sin valor temático.",
+      "quote_evidence": "Jacket Mares XR para buceo técnico con botella de doble grifería,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "cuchillos de buceo y equipamiento complementario",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Inventario de los cuchillos del speaker y consideraciones operativas (interferencia magnética entre brújula y ordenador). Fuera de scope.",
+      "quote_evidence": "Lleva tres cuchillos: uno fino con punta, uno con buen acero pero mal mango, y un cortacables sin punta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "panel de gases y configuración de umbilicales",
+      "reason_code": "domain_out_of_scope",
+      "reason_detail": "Descripción técnica del panel de distribución de gases y de las líneas del umbilical (neumática, gas, comunicaciones, vídeo/foco, oxicorte). Fuera de scope.",
+      "quote_evidence": "Las botellas se conectan al panel de gases que distribuye a los umbilicales de cada buzo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 24,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

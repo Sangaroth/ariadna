@@ -117,6 +117,64 @@ Dentro del mismo análisis, el canal precisa además el rol de la **intelectuali
 
 La intelectualización, en la lectura del canal, ofrece un "falso dominio" que sustituye al dominio real (vertical: ser el mejor en una cosa) por dominio horizontal (picoteo de opciones que cuestionan). Es el aparato freudiano de defensa cuyo objeto preciso, en el marco del canal, es bloquear la actualización adgredieriana — y por tanto bloquear la pasión pura que sería la salida sana de la pulsión de muerte.
 
+## Proyección, desplazamiento y condensación: el aparato freudiano del afecto canalizado
+
+En *Lo de los Lunes* (28-ene-2025) el canal extiende el aparato freudiano más allá de ello/yo y de la sublimación, invocando los tres mecanismos psicoanalíticos clásicos del afecto canalizado y aplicándolos al fenómeno cotidiano del llanto por objetos perdidos.
+
+> "No lloramos por los juguetes perdidos sino porque proyectamos en ellos nuestro sentimiento de abandono infantil"
+→ [Lo de los Lunes (40:50)](https://youtu.be/9sqhsHNBUjQ?t=2450)
+
+> "El juego simbólico convierte al muñeco en símbolo del sí mismo, lo que implica condensación"
+→ [Lo de los Lunes (40:50)](https://youtu.be/9sqhsHNBUjQ?t=2450)
+
+La **proyección** opera en el caso del juguete como mecanismo cotidiano y no patológico: el muñeco recibe lo que el niño no puede sostener todavía como propio — su miedo al abandono se desplaza a un objeto manejable. La **condensación** opera en paralelo y en sentido fuerte: el muñeco se vuelve símbolo del sí mismo, vehículo cargado de contenido afectivo que el sujeto reconoce como propio sin tener que confrontarlo directamente. El **desplazamiento** completa la tríada como mecanismo del afecto canalizado: lo que se llora no es el juguete sino el contenido afectivo que el juguete sostiene.
+
+El canal usa el mismo aparato para diagnosticar el caso público de Selena Gómez:
+
+> "El mecanismo de Selena Gómez es proyectivo: llora por otras cosas canalizadas a través de la deportación"
+→ [Lo de los Lunes (40:50)](https://youtu.be/9sqhsHNBUjQ?t=2450)
+
+El llanto público por la causa migratoria opera como desplazamiento del afecto propio: lo manifestado no coincide con lo verdaderamente afectado.
+
+## Catarsis y sublimación colectiva
+
+En el directo *Lunes 100 tífiko: Therians* (24-feb-2026) el canal extiende el aparato freudiano de la sublimación más allá del registro individual al plano cultural-colectivo, articulando la **catarsis cultural** como variante colectiva de la sublimación.
+
+> "La catarsis es la transición colectiva del anhelo individual a la conducta culturalmente tolerada"
+→ [Lunes 100 tífiko (1:59:43)](https://youtu.be/aaIT2JDaL6c?t=7183)
+
+> "Las sublimaciones individuales son posibles individualmente; cuando son colectivas se reducen a la necesidad común"
+→ [Lunes 100 tífiko (1:59:43)](https://youtu.be/aaIT2JDaL6c?t=7183)
+
+La distinción operativa que el canal añade al aparato freudiano: la sublimación individual transforma una pulsión privada en conducta socialmente aceptable mediante un trabajo psíquico singular. La catarsis cultural opera el mismo movimiento pero en el plano colectivo — un grupo encuentra una forma compartida de canalizar pulsiones comunes (el ritual, el deporte, la fiesta, la representación dramática). Cuando la sublimación se hace colectiva, deja de poder atender la singularidad de cada caso y se reduce al mínimo común — la catarsis es robusta donde abarca y simplifica, no donde refina.
+
+La consecuencia material que el canal articula es empírica:
+
+> "La correlación entre aumento de tiroteos masivos y reducción de tabúes sociales desde 1970 sugiere que eliminar catarsis culturales tiene consecuencias materiales"
+→ [Lunes 100 tífiko (1:59:43)](https://youtu.be/aaIT2JDaL6c?t=7183)
+
+La hipótesis no es que los tabúes mismos sean buenos, sino que sostenían dispositivos de catarsis colectiva (rituales, formas reguladas de conflicto, transgresiones controladas) que al desaparecer dejaron a las pulsiones sin vehículo de canalización. La pieza enlaza el aparato freudiano clásico (sublimación como economía psíquica del yo) con la lectura cultural del canal: las patologías sociales contemporáneas que otras páginas trabajan tienen un componente económico-psíquico colectivo, no solo individual — la cultura misma puede dejar de proveer las salidas catárticas que la psique requiere para mantener equilibrio.
+
+## Formaciones reactivas: la defensa neurótica integrada
+
+En el directo *Lunes basado terminal* (19-ago-2024) el canal articula una definición operativa de las **formaciones reactivas** freudianas a propósito del análisis de las disociaciones recurrentes en terapia.
+
+> "Una formación reactiva es una costumbre de defensa neurótica integrada en la personalidad"
+→ [Lunes basado terminal (1:00:08)](https://youtu.be/oHxXzr5WSbQ?t=3608)
+
+> "Todos tenemos formaciones reactivas: partes diseñadas para confrontar ámbitos específicos de la existencia"
+→ [Lunes basado terminal (1:00:08)](https://youtu.be/oHxXzr5WSbQ?t=3608)
+
+> "Son inconscientes y funcionan como mecanismos automáticos de respuesta ante tipos recurrentes de situaciones"
+→ [Lunes basado terminal (1:00:08)](https://youtu.be/oHxXzr5WSbQ?t=3608)
+
+La precisión que el canal añade al concepto freudiano clásico es la **universalidad funcional**: la formación reactiva no es propiedad exclusiva de cuadros patológicos, sino constituyente normal de toda personalidad sana. Cada sujeto desarrolla un repertorio de mecanismos automáticos de respuesta calibrados para los ámbitos recurrentes de su existencia — el trabajo, el conflicto interpersonal, la frustración, el duelo. Lo que distingue la formación reactiva sana de la patológica no es la existencia del mecanismo sino su **rigidez**: cuando la respuesta automática deja de modularse contextualmente y se aplica indiscriminadamente, el dispositivo defensivo se vuelve neurosis estructural.
+
+El concepto opera articuladamente con otras piezas del aparato freudiano de la página: la sublimación canaliza pulsión privada como conducta aceptable; la formación reactiva integra el mecanismo de canalización como hábito de personalidad. Lo que en la sublimación es trabajo psíquico singular se cristaliza con el tiempo en formación reactiva — patrón estable que la persona ya no piensa, ejecuta. La consecuencia clínica que el canal extrae en el contexto del análisis de las disociaciones secundarias en terapia: lo que aparece como personalidad nueva en pacientes con cuadros disociativos puede ser, en muchos casos, formación reactiva profunda movilizada por la confrontación terapéutica del trauma — no genuina escisión de personalidad sino dispositivo defensivo activado por el trabajo analítico.
+
+ La precisión clínica importa porque la lectura común del afecto público lo toma como transparente; el aparato freudiano abre la posibilidad de que el contenido manifiesto sea vehículo de un contenido latente distinto, sin que el sujeto lo reconozca como tal.
+
+
 ## Posición frente a [[jung-carl-gustav]]
 
 El marco dominante del canal es junguiano (arquetipos, individuación, inconsciente colectivo), pero Freud no es desplazado: se mantiene como **genealogía obligada** y proveedor de distinciones tópicas que el canal usa cuando necesita diagnosticar la *cualidad* de una identificación, más allá de su contenido arquetípico. Donde Jung aporta el qué (qué arquetipo se está activando), Freud aporta el cómo (desde qué instancia psíquica se está consumiendo el material).

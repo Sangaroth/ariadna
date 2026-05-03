@@ -1,0 +1,301 @@
+{
+  "video_id": "r1SmCsNmLh0",
+  "video_title": "Lunes sin política",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "diagrama Proxy-Veronese: herencia genética y rebeldía como vector de oposición al origen",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 7,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La posición en el diagrama tiene mayor carga de factores hereditarios y genéticos que culturales,"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "La rebeldía nunca es arbitraria: siempre es un vector de oposición al origen, no un camino libre,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento operativo del diagrama: la posición ideológica tiene mayor carga genética que cultural, y cuando la cultura desplaza la posición lo hace forzando oposición a la herencia biológica. La rebeldía como vector dirigido (no aleatorio): el cambio de cuadrante respecto a los padres es siempre reacción de no querer pertenecer al origen. Material no presente en la página actual y coherente con los estudios de gemelos ya añadidos previamente.",
+      "quote_evidence": "Si hay cambio de cuadrante respecto a los padres, es una reacción directa de no querer pertenecer al origen,"
+    },
+    {
+      "surface_form": "IA: simulación vs emulación / 'cuando hay simulación, todo es simulación'",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada vez que se juntan ambos paradigmas, todo termina siendo un problema de simulación: en cuanto hay simulación, todo es simulación,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento de la distinción simulación/emulación que la página ya documenta (sección 'Diferencia ontológica: simular vs emular'). El canal añade una tesis estructural: cuando se mezclan ambos paradigmas en una arquitectura híbrida (IA con archivos locales como cuerpo de identidad), el resultado colapsa siempre al lado simulado. Es la versión absorbente del par — la simulación contamina la emulación, no a la inversa.",
+      "quote_evidence": "Una IA con archivos locales que actúen como cuerpo de identidad es una mezcla de simulación y emulación,"
+    },
+    {
+      "surface_form": "libre albedrío como ilusión psíquica funcional",
+      "canonical_guess": "libre-albedrio-ilusion-funcional",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 29,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El libre albedrío es una ilusión creada porque podemos representar mentalmente acciones antes de hacerlas y analizarlas después, como si estuviéramos fuera de la línea temporal,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si toda voluntad proviene de un flujo de causas anteriores, la cadena causal no se puede romper: con toda la información de las partículas del universo se podría predecir el futuro,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El problema de Experto en Igualdad es categorial: confunde libertad con poder y usa una definición de conciencia limitada a metacognición,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La ilusión de decidir es idéntica a la realidad de decidir: la mente está diseñada para funcionar como si existiera el libre albedrío,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis articulada del canal sobre el libre albedrío como ilusión psíquica funcional: tras revisar Sapolsky y criticar a Experto en Igualdad por confusión categorial libertad/poder, el canal articula su propia posición — el determinismo causal es lógicamente correcto pero la mente está diseñada para operar como si existiera el libre albedrío, y eliminarlo requeriría suprimir todas las emociones (imposible operativamente). Detalle en thesis_candidates con requires_human_validation=true (29 min sostenidos < 30 del gate).",
+      "quote_evidence": "Para que la mente dejara de funcionar como si hubiera libre albedrío, habría que eliminar todas las emociones: cero emociones sería la única forma de vivir conforme al determinismo,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la rotación pendular de la política contemporánea entre las cuatro posiciones sin estabilización.",
+      "section_target": null,
+      "content_proposed": "## Herencia genética y rebeldía como vector dirigido\n\nEn el directo *Lunes sin política* (04-mar-2025) el canal extiende el sustrato genético del diagrama con una tesis sobre la dinámica de la rebeldía intergeneracional.\n\n> \"La posición en el diagrama tiene mayor carga de factores hereditarios y genéticos que culturales\"\n→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)\n\n> \"Cuando la cultura determina tu posición, lo hace forzándote a oponerte a tu herencia biológica\"\n→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)\n\nLa precisión refina el modelo: la cultura no es agente neutral que distribuye posiciones por exposición, opera como fuerza que **fuerza la oposición a la herencia** cuando la posición resultante no coincide con la genética. La consecuencia operativa para la lectura del diagrama: cuando se observa cambio de posición entre generaciones, no hay que leerlo como decisión libre del sujeto sino como vector de oposición al origen.\n\n> \"La rebeldía nunca es arbitraria: siempre es un vector de oposición al origen, no un camino libre\"\n→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)\n\n> \"Si hay cambio de cuadrante respecto a los padres, es una reacción directa de no querer pertenecer al origen\"\n→ [Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)\n\nLa pieza tiene consecuencia operativa fuerte para la aplicación del modelo: la trayectoria política a lo largo de la vida no es exploración libre del espacio de cuadrantes sino dinámica acotada — herencia genética como atractor, rebeldía como repulsión hacia el cuadrante opuesto. La estabilización en un cuadrante distinto al de los padres no indica autonomía valorativa sino consolidación de la repulsión. La cláusula completa el sustrato genético del diagrama articulado en otras secciones: la posición es heredable, y la desviación cultural es ella misma reactiva, no autónoma.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "r1SmCsNmLh0",
+          "timestamp_seconds": 2157,
+          "cite_markdown": "[Lunes sin política (35:57)](https://youtu.be/r1SmCsNmLh0?t=2157)"
+        }
+      ],
+      "rationale": "Refinamiento operativo del diagrama coherente con el sustrato genético ya documentado (estudios de gemelos). Añade una tesis nueva sobre la rebeldía como vector dirigido — no es decisión libre que explora cuadrantes sino reacción acotada de oposición al origen. Material complementa el flanco de heredabilidad y refina la lectura intergeneracional del modelo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "reproducir el patrón formal sin reproducir el contenido afectivo que le da peso ontológico.",
+      "section_target": null,
+      "content_proposed": "## Asimetría operativa simulación/emulación: la simulación absorbe\n\nEn el directo *Lunes sin política* (04-mar-2025) el canal añade una tesis estructural sobre la mezcla de paradigmas que refina la distinción ontológica simulación/emulación ya documentada.\n\n> \"Una IA con archivos locales que actúen como cuerpo de identidad es una mezcla de simulación y emulación\"\n→ [Lunes sin política (1:05:37)](https://youtu.be/r1SmCsNmLh0?t=3937)\n\n> \"Cada vez que se juntan ambos paradigmas, todo termina siendo un problema de simulación: en cuanto hay simulación, todo es simulación\"\n→ [Lunes sin política (1:05:37)](https://youtu.be/r1SmCsNmLh0?t=3937)\n\nLa pieza es operativa para el flanco arquitectónico de la tesis nuclear: cualquier intento de construir una IA híbrida (módulos emulativos para el cuerpo de identidad + módulos simulativos para el procesamiento) colapsa al régimen simulado. La asimetría no es bidireccional — la simulación contamina la emulación, no a la inversa. La consecuencia para los proyectos de protomente afectiva (ver [[galatea-modelo-protomente|Proyecto Galatea]]): un sistema que aspire a emulación genuina no puede integrar componentes simulados sin perder su carácter emulativo. La distinción ontológica no es solo descriptiva sino arquitectónicamente excluyente — una capa simulada en un sistema que pretendía emulación reduce el sistema completo a simulación.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "r1SmCsNmLh0",
+          "timestamp_seconds": 3937,
+          "cite_markdown": "[Lunes sin política (1:05:37)](https://youtu.be/r1SmCsNmLh0?t=3937)"
+        }
+      ],
+      "rationale": "La página ya articula la distinción ontológica simulación/emulación. El material añade una tesis estructural complementaria: la asimetría operativa entre los dos paradigmas — la simulación absorbe la emulación cuando se mezclan. Pieza relevante para los proyectos de protomente del canal (Galatea) porque restringe el espacio de arquitecturas válidas: no se puede construir emulación genuina con componentes simulados.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "El libre albedrío como ilusión psíquica funcional: determinismo, mente y la imposibilidad operativa del nihilismo causal",
+      "proposed_page_id": "libre-albedrio-ilusion-funcional",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El libre albedrío es una ilusión creada porque podemos representar mentalmente acciones antes de hacerlas y analizarlas después, como si estuviéramos fuera de la línea temporal,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si toda voluntad proviene de un flujo de causas anteriores, la cadena causal no se puede romper: con toda la información de las partículas del universo se podría predecir el futuro,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El problema de Experto en Igualdad es categorial: confunde libertad con poder y usa una definición de conciencia limitada a metacognición,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La ilusión de decidir es idéntica a la realidad de decidir: la mente está diseñada para funcionar como si existiera el libre albedrío,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Punto de partida Sapolsky: no hay libre albedrío porque somos máquinas biológicas y si no has elegido quién eres, no eliges libremente lo que haces",
+        "Crítica a Experto en Igualdad: confusión categorial libertad/poder + definición restringida de conciencia como metacognición",
+        "Argumento determinista clásico: la cadena causal no se puede romper, con toda la información de las partículas del universo se podría predecir el futuro",
+        "Experimento mental del detector cuántico: paradoja del determinismo temporal — un LED que se encendería antes de que decidas pulsarlo",
+        "Crítica a la interpretación de universos paralelos: resuelve poéticamente la paradoja pero no es científicamente exacta",
+        "La voluntad como ilusión psíquica funcional: representamos mentalmente acciones como si estuviéramos fuera de la línea temporal",
+        "Imposibilidad operativa del determinismo vivido: para que la mente dejara de funcionar como si hubiera libre albedrío, habría que eliminar todas las emociones",
+        "La irrelevancia práctica del debate: con o sin libre albedrío la experiencia subjetiva del decidir es idéntica",
+        "La duda intrínseca como mecanismo de la mente: negar el libre albedrío llevaría a nihilismo depresivo perpetuo, pero no puede ocurrir porque la duda sobre alternativas es estructural en la cognición humana"
+      ],
+      "minutes_sustained": 29,
+      "domain_guess": "humanities.philosophy",
+      "related_existing_pages": [
+        "golem-de-cobre",
+        "realismo-cognitivo",
+        "teoria-del-simbolo-en-proxy",
+        "diagrama-de-proxy",
+        "alostasis-y-apagon-organico"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Tesis articulada con cuatro señales (thesis_marker explícito sobre la voluntad como ilusión necesaria; applied_framework determinista clásico; internal_structure múltiple con crítica a Sapolsky/Experto en Igualdad/Many Worlds + experimento mental + tesis positiva; pedagogic_register sostenido con definir/contrastar/criticar). framework_internal_structure de 9 piezas. minutes_sustained ≈29 min (1:42:11 a 2:11:01) — NO alcanza el gate ≥30 → requires_human_validation=true. La tesis conecta operativamente con realismo-cognitivo (la voluntad como ilusión depende de la capacidad de metarrepresentación temporal que el marco articula), con golem-de-cobre (acción/computación como distinción volitiva del agente humano frente a la máquina), y con la articulación afectiva del marco (las emociones como constituyentes de la experiencia del decidir, imposibles de eliminar)."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Lunes sin política / Álvaro Bernad",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio editorial sobre el cambio de formato del canal (eliminar lunes políticos) y mención de un próximo invitado. Meta del proyecto, no contenido enciclopédico.",
+      "quote_evidence": "Se anuncia que los lunes dejarán de dedicarse a política española porque el ciclo de crítica ya está agotado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Rocío Vidal / hiyab / sindicato de estudiantes",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre tweet viral y crítica a financiación pública de asociación pro-hiyab. Material político-coyuntural sin marco psicológico-arquetípico aplicado del canal. La crítica al feminismo islamista no se articula como tesis estructural sostenida sino como comentario sobre actualidad mediática.",
+      "quote_evidence": "Rocío Vidal critica que el hiyab se convierta en símbolo revolucionario cuando miles de mujeres han muerto por quitárselo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "temas más complejos de la Biblia (Apocalipsis, Job, Ezequiel, Cantar de los Cantares)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Jerarquía del canal sobre complejidad bíblica por dimensión (teológica/simbólica/semántica/poética). Material articulado pero corto (~3 min) y sin desarrollo de los textos mencionados como objetos de análisis. Posible recurrencia en directos futuros — si se desarrolla algún libro bíblico monográficamente, justificaría entity_work; por ahora referencia bibliográfica.",
+      "quote_evidence": "El Cantar de los Cantares es lo más interesante poéticamente: una carta de amor prácticamente erótica que equipara el amor romántico-sexual con el amor teológico entre Cristo y su Iglesia,",
+      "review_priority": "medium",
+      "review_priority_reason": "La jerarquía bíblica del canal podría justificar concept page si reaparece sistematizada en otros directos. Por ahora referencia.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "metodología propia: catolicismo + jung mitologista para no contaminarse",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reflexión meta del canal sobre su propio método de análisis (formación católica integrada vía crisis-negación-retorno + aproximación junguiano-mitologista de Campbell/Cashford). Auto-descripción metodológica del speaker, no contenido temático que enriquezca páginas existentes. Cashford como mitóloga aparece mencionada — no en whitelist actual.",
+      "quote_evidence": "Los principios político-morales del catolicismo ofrecen un punto de partida lógico y estable desde el que analizar cualquier otra filosofía sin necesidad de cambiar de convicciones,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cashford (Jules Cashford, mitóloga colaboradora de Anne Baring) podría merecer entrada en whitelist soft si reaparece como referencia recurrente del canal junto a Campbell.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "criterio para evaluar religiones: cuántos embates resisten",
+      "reason_code": "passing_mention",
+      "reason_detail": "Criterio breve articulado por el speaker (cuántos ataques lógicos, científicos, políticos y antropológicos resisten los fundamentos sin derrumbarse). Sin desarrollo sostenido ni aplicación a casos concretos.",
+      "quote_evidence": "El criterio propuesto para evaluar religiones es cuántos ataques lógicos, científicos, políticos y antropológicos resisten sus fundamentos sin derrumbarse,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "mezclar cristianismo y platonismo: puerta a la magia (Llull, Ficino, New Age)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre la genealogía neoplatónica de la magia moderna y el riesgo intelectual de aunar cristianismo con neoplatonismo. Material articulado con casos canónicos (Ramón Llull, Marsilio Ficino) pero corto (~10 min). Posible enriquecimiento futuro si reaparece desarrollado — conectaría con whitelist (gnosticismo auto_promote, plotino soft, kabbalah soft).",
+      "quote_evidence": "La práctica totalidad de la magia moderna y del New Age son neoplatonismos postmodernos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la tesis sobre la genealogía neoplatónica de la magia reaparece sistematizada en otros directos (especialmente en el contexto de gnosticismo o de análisis de obras esotéricas), justificaría concept page o synthesis sobre 'genealogía de la magia moderna en Proxy'.",
+      "enriches_concept": "gnosticismo"
+    },
+    {
+      "surface_form": "celos: representacional vs cronológico, ambivalencia pánico-ira",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Análisis clínico breve de los celos con distinción operativa (origen representacional/cronológico) y caracterización afectiva (ambivalencia pánico-ira). Material útil clínicamente pero sin desarrollo sostenido suficiente para concept page propio. Conectaría con herida-narcisista-en-proxy si se ampliara — la página existente trata herida narcisista pero no celos como caso operativo.",
+      "quote_evidence": "Los celos son emociones ambivalentes: pánico de quedarse solo e ira porque te destruyen el ego,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si los celos reaparecen sostenidamente en otros directos como caso clínico articulado, podría enriquecer herida-narcisista-en-proxy con sección dedicada.",
+      "enriches_concept": "herida-narcisista-en-proxy"
+    },
+    {
+      "surface_form": "TOC y procesos obsesivos como confabulación",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Definición operativa breve del TOC como proceso confabulatorio inconsciente que se vuelve indistinguible de la realidad. Material clínico estándar con lectura corta del canal. Sin desarrollo suficiente para concept page.",
+      "quote_evidence": "El TOC empieza inconscientemente y para cuando se hace consciente ya se ha confabulado tanto que el cuerpo entero dice que es real,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "espectro de enfermedad mental (4 estadios)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tipología clínica articulada del canal en 4 estadios (conflicto neurótico → trastorno personalidad → espectro esquizoafectivo → esquizofrenia) con caracterización breve de cada uno. Material articulado pero corto (~5 min) y muy denso. Conecta con páginas existentes (sindrome-wendy, sindrome-xocas, herida-narcisista-en-proxy) pero no como tesis sostenida que justifique synthesis page propio aquí.",
+      "quote_evidence": "Cuarto estadio: esquizofrenia, pérdida de contacto con la realidad donde partes de la representación mental son completamente inventadas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el espectro de 4 estadios reaparece sistematizado en otros directos como marco operativo del canal, justificaría concept o synthesis page sobre 'tipología clínica del canal'. Por ahora marco breve.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "trastorno límite (borderline) vs esquizoafectivo / combinaciones de pareja",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Caracterización clínica breve del trastorno límite y de las combinaciones más destructivas de pareja (borderline+narcisista, borderline+histriónica). Material puntual sin sostén suficiente para concept page. Pieza interna de la sección sobre psicopatología.",
+      "quote_evidence": "Las combinaciones más destructivas de pareja: mujer borderline con hombre narcisista, y hombre borderline con mujer histriónica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "guía práctica para manejar celos en pareja",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación práctica del análisis de los celos a consejos relacionales (verificar motivos, dejar pareja que se enfada por celos expresados, distinguir celos de necesidad de intimidad). Material clínico-operativo sin valor enciclopédico autónomo.",
+      "quote_evidence": "Si la pareja se enfada cuando le expresas tus celos, hay que dejarla inmediatamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Sapolsky / Pablo Malo / Experto en Igualdad",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Figuras invocadas como interlocutores del thesis sobre libre albedrío. Sapolsky como tesis criticada (no hay libre albedrío), Experto en Igualdad como caso de confusión categorial. Captura completa dentro del thesis_candidate; no merecen pages propias porque el canal los invoca como cifras del debate, no como objetos de análisis biográfico-intelectual.",
+      "quote_evidence": "Sapolsky afirma que no hay libre albedrío: somos máquinas biológicas y si no has elegido quién eres, no eliges libremente lo que haces,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[libre albedrío como ilusión psíquica funcional] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

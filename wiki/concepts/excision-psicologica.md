@@ -97,6 +97,8 @@ La excisión se relaciona con varias categorías ya tratadas en el corpus:
 
 
 
+
 - **La Huida** — chunks: [54:03](https://youtu.be/x4peEvI8L5o?t=3243)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [26:11](https://youtu.be/i72IYlpQWd0?t=1571)
+- **Magia y Poética** — chunks: [10:51](https://youtu.be/9U6CwqPMI3c?t=651)
 

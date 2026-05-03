@@ -236,6 +236,26 @@ El mecanismo culmina en una externalidad política observable:
 
 El wokismo en entertainment opera así como amplificador de polarización: el espectador cuya fantasía ha sido destruida desplaza su frustración cultural al campo político, donde encuentra etiquetas listas para esa frustración. La crítica del canal NO es a las posiciones políticas que el wokismo invoca sino al **mecanismo de fabricación de adversarios** que la operación cultural ejecuta como subproducto.
 
+## Marketing implícito: la pre-identidad como vehículo del producto
+
+En el directo *Luto* (21-ene-2025) el canal añade un mecanismo más fino al análisis del marketing como venta de identidad: el marketing contemporáneo ya no convence al consumidor sino que se vincula a una pre-identidad ya presente.
+
+> "Desde los años 80 el marketing no convence de comprar, sino que vincula un producto a una idea que ya tenías"
+→ [Luto (34:03)](https://youtu.be/5eRSU7lRELI?t=2043)
+
+El caso paradigmático que el canal articula es el anuncio de BMW '¿Te gusta conducir?':
+
+> "El anuncio \"¿Te gusta conducir?\" funciona porque para responder, la mente ya ha aceptado implícitamente toda la experiencia del anuncio"
+→ [Luto (34:03)](https://youtu.be/5eRSU7lRELI?t=2043)
+
+La mecánica es decisiva: la pregunta no induce un afecto, presupone que el afecto ya existe en el receptor y vincula el producto a su afirmación. La adherencia opera por reconocimiento, no por persuasión. La consecuencia operativa: el marketing implícito es estructuralmente más eficaz que el marketing persuasivo clásico porque no exige consentimiento consciente — la pre-identidad ya estaba activa en el receptor antes del anuncio.
+
+> "Los anuncios de perfume aglutinan gente por gustos estéticos: la estética del anuncio se convierte en una pre-identidad"
+→ [Luto (34:03)](https://youtu.be/5eRSU7lRELI?t=2043)
+
+La pieza completa el cuadro: la estética del anuncio fabrica la pre-identidad a la cual el producto se vincula. El consumidor recibe simultáneamente el producto y la pre-identidad que justifica su elección — la mercancía y la categoría identitaria desde la cual se elige son fabricadas en el mismo gesto. Es la versión refinada de la tesis nuclear de la página: el consumismo no opera por necesidad fabricada sino por identidad fabricada que después demanda el producto como confirmación de sí misma.
+
+
 ## Postura específica del canal: NO es anti-capitalismo marxista
 
 Una precisión importante para no confundir esta página con la crítica de izquierdas estándar:
