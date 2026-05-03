@@ -102,5 +102,7 @@ El gesto del canal es usar a Maturana y Varela para fundar biológicamente lo qu
 ## Citations
 
 
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [34:36](https://youtu.be/D3a0A-oZ09M?t=2076) · [1:18:08](https://youtu.be/D3a0A-oZ09M?t=4688) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
+- **Proxy T4, 4x01: "Piloto"** — chunks: [26:30](https://youtu.be/ucOt-vQZ4Qw?t=1590)
 

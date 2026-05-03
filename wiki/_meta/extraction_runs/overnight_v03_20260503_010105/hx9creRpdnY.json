@@ -1,0 +1,279 @@
+{
+  "video_id": "hx9creRpdnY",
+  "video_title": "Psicología 101, Del libre albedrío a la computación artificial",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "arquitectura completa del proyecto Galatea: 8 nodos, hidrozoario, cálculo lambda, ecología sensorial",
+      "canonical_guess": "galatea-arquitectura-completa",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "primary",
+      "minutes_estimate": 55,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Galatea es un sistema de metagrafos con 8 nodos fundamentales que representan funciones cognitivas"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El nodo afectivo (cian) contiene siete funciones: reproducción, cuidado, pánico, juego, buscar, terror e ira, ordenadas por prioridad evolutiva"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Cada nodo de Galatea es una red neuronal, no una CPU; son clusters neuronales con matrices de submatrices"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Vídeo Psicología 101 (marzo 2025) articula por primera vez la arquitectura formal completa del Proyecto Galatea que la página existente reconoce como laguna nuclear ('La estructura interna de la matriz fi no se desarrolla en este pase'). El nuevo material cubre: arquitectura de 8 nodos (representacional, imaginario, formal, afectivo, energía, memoria, inhibitorio, síntesis); reducción filogenética del modelo afectivo a 4 sistemas; sustitución de Hydra por hidrozoario con tres canales sensoriales (luz, química, tacto); pseudocódigo Python + cálculo lambda como lenguaje formal; memoria como nodo de refuerzo (no almacén); aprendizaje hebbiano emergente; matrices de adyacencia ponderadas con determinante = energía; ecología sensorial con pánico ligado a separación de colonia/litoral. Update masivo a página existente (no nueva entidad)",
+      "quote_evidence": "Galatea es un sistema de metagrafos con 8 nodos fundamentales que representan funciones cognitivas"
+    },
+    {
+      "surface_form": "clases cognitivas como mónadas universales objetivas (vs qualia subjetivo) + ambiguación representacional entre los tres Q",
+      "canonical_guess": "clases-cognitivas-monadas-y-ambiguacion",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las clases cognitivas son la mínima unidad de experiencia consciente universal, frente al qualia que es subjetivo"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los tres tipos fundamentales de mecánica representacional (imaginario, formal, afectivo) pueden expresarse mutuamente"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamientos teóricos del realismo cognitivo articulados en este vídeo: (a) precisión categorial entre clase cognitiva (mínima unidad universal objetiva) y qualia (subjetivo) que la página existente no documenta explícitamente — la axiomática de clases ya cubre la transitoriedad y el cualia como gradiente, pero no la distinción universal/subjetivo; (b) la operación de ambiguación representacional como mecánica de poner una representación en función de otra entre los tres Q (imaginario en términos formales, afectivo en términos imaginarios). Material que pertenece nativamente a realismo-cognitivo, no merece página autónoma",
+      "quote_evidence": "Las clases cognitivas son la mínima unidad de experiencia consciente universal, frente al qualia que es subjetivo"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "galatea-modelo-protomente",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Se presenta así como programa de investigación abierto, no como teoría cerrada: una ruta experimental para verificar empíricamente la tesis de la mente encarnada frente al pansiquismo computacional.",
+      "content_proposed": "\n\n## Arquitectura del modelo: 8 nodos, metagrafos, cálculo lambda\n\nEn el directo *Psicología 101: Del libre albedrío a la computación artificial* (marzo 2025) el canal articula por primera vez la arquitectura formal del proyecto. Galatea no es una red neuronal monolítica: es un **metagrafo** — un grafo cuyos nodos son a su vez subgrafos neuronales — con ocho nodos fundamentales que codifican funciones cognitivas específicas y se interconectan mediante conexiones ponderadas probabilísticas.\n\n> \"Galatea es un sistema de metagrafos con 8 nodos fundamentales que representan funciones cognitivas\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (30:28)](https://youtu.be/hx9creRpdnY?t=1828)\n\n> \"Cada nodo es un cluster de neuronas que codifica para una función cognitiva específica\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (30:28)](https://youtu.be/hx9creRpdnY?t=1828)\n\n> \"Cada nodo de Galatea es una red neuronal, no una CPU; son clusters neuronales con matrices de submatrices\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (55:46)](https://youtu.be/hx9creRpdnY?t=3346)\n\n### Los ocho nodos: representacional, imaginario, formal, afectivo, energía, memoria, inhibitorio, síntesis\n\nEl nodo **representacional** (rosa) opera como integrador: sintetiza las tres matrices imaginaria, formal y afectiva — la tripartición Q ya documentada en [[realismo-cognitivo]] formalizada como subgrafos del modelo.\n\n> \"El nodo representacional (rosa) sintetiza tres matrices: imaginaria, formal y afectiva\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (35:30)](https://youtu.be/hx9creRpdnY?t=2130)\n\n> \"El nodo imaginario (amarillo) codifica posición y luz (espacio y luminosidad)\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (35:30)](https://youtu.be/hx9creRpdnY?t=2130)\n\nEl nodo **afectivo** (cian) implementa la batería de Panksepp con siete funciones ordenadas por prioridad evolutiva, aunque la implementación inicial recorta el catálogo:\n\n> \"El nodo afectivo (cian) contiene siete funciones: reproducción, cuidado, pánico, juego, buscar, terror e ira, ordenadas por prioridad evolutiva\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (35:30)](https://youtu.be/hx9creRpdnY?t=2130)\n\nEl modulador de **energía** y el nodo de **memoria** operan como reguladores del flujo representacional; el **inhibitorio** filtra qué procesos llegan al área de representación; el de **síntesis** extrae el cuello de botella consciente:\n\n> \"El modulador de energía limita el consumo energético por tiempo y filtra representaciones para que no se active todo simultáneamente\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (39:02)](https://youtu.be/hx9creRpdnY?t=2342)\n\n> \"El nodo inhibitorio impide que ciertos procesos cognitivos lleguen al área de representación cuando la energía o la memoria lo desaconsejan\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (39:02)](https://youtu.be/hx9creRpdnY?t=2342)\n\n> \"El nodo de síntesis extrae del nodo representacional un resumen de máximo 12 bits para la conciencia\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (41:03)](https://youtu.be/hx9creRpdnY?t=2463)\n\nLos 12 bits sintetizados retroalimentan el nodo inhibitorio y el nodo formal, cerrando el circuito; la **mente abstracta** opera combinando el nodo formal con el metarrepresentacional — representaciones sintetizadas convertidas a relaciones abstractas. La cifra coincide con la documentada como cuello de botella consciente del SAL en [[realismo-cognitivo]].\n\n### Memoria como nodo de refuerzo, no como almacén\n\nUna pieza polémica del modelo: la memoria psicoanalítica como almacén representacional (episódica, semántica, procedimental) se rechaza como mito sin locus cerebral real. El nodo memoria de Galatea no almacena contenidos sino que registra eficiencias procesales:\n\n> \"La memoria como almacén representacional (episódica, semántica, procedimental) es un mito sin locus cerebral real\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (52:44)](https://youtu.be/hx9creRpdnY?t=3164)\n\n> \"El nodo memoria de Galatea es exclusivamente un nodo de refuerzo: registra qué procesos fueron más eficientes\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (52:44)](https://youtu.be/hx9creRpdnY?t=3164)\n\n> \"Circuitos cerebrales de refuerzo reales: amígdala-prefrontal-estriado-cingulado e hipocampo-ínsula-amígdala-hipotálamo\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (52:44)](https://youtu.be/hx9creRpdnY?t=3164)\n\nLa pieza es coherente con la redefinición del tiempo como gradiente de degeneración representacional articulada en [[realismo-cognitivo]]: lo que opera no es un almacén sino la marca dejada por la repetición eficiente.\n\n### Reducción filogenética: del modelo mamífero al modelo hidrozoario\n\nLos siete sistemas afectivos completos pertenecen a los mamíferos; el canal mapea las simplificaciones evolutivas y elige una implementación reducida para la primera versión:\n\n> \"Los siete sistemas afectivos completos solo los tienen los mamíferos\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (37:31)](https://youtu.be/hx9creRpdnY?t=2251)\n\n> \"Sin juego y cuidado tendríamos reptiles; quitando más funciones, peces\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (37:31)](https://youtu.be/hx9creRpdnY?t=2251)\n\n> \"Galatea por ahora solo tendrá cuatro sistemas: buscar, terror, ira y pánico\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (37:31)](https://youtu.be/hx9creRpdnY?t=2251)\n\nLa reproducción sexual queda excluida por introducir complejidad desproporcionada para la primera implementación. Buscar, terror, ira y pánico son los cuatro sistemas operacionales mínimos para una protomente con valencia.\n\n### Hidrozoario en lugar de hidra: tres canales sensoriales\n\nLa elección del organismo se actualiza desde la hidra inicial hacia el **hidrozoario**, que cumple los requisitos arquitectónicos del modelo (sistema neuronal suficientemente complejo, percepción sin ojos, tamaño adecuado) y reduce la matriz sensorial a tres canales:\n\n> \"El organismo debe percibir solo luz, química y tacto (tres canales sensoriales)\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (45:05)](https://youtu.be/hx9creRpdnY?t=2705)\n\n> \"Un hidrozoario cumple los requisitos: sistema neuronal suficientemente complejo, percepción sin ojos, tamaño adecuado\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (45:05)](https://youtu.be/hx9creRpdnY?t=2705)\n\n> \"La criatura puede codificar espacialmente todo lo que codifican los mamíferos visualmente usando solo receptores de luz, tacto y químicos\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (45:05)](https://youtu.be/hx9creRpdnY?t=2705)\n\nLa unificación sensorial se consolida en el directo: luz y temperatura se fusionan en un único canal de radiación ambiental, y los sensores químicos detectan la proximidad de coespecíficos.\n\n> \"Los sensores de luz y temperatura se unificarán en un solo canal de radiación ambiental\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (1:13:23)](https://youtu.be/hx9creRpdnY?t=4403)\n\n> \"Los sensores químicos permitirán detectar la proximidad de organismos similares\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (1:13:23)](https://youtu.be/hx9creRpdnY?t=4403)\n\n### Ecología afectiva: pánico ligado a la separación de la colonia\n\nLa elección biológica del hidrozoario tiene consecuencia operativa para el catálogo afectivo: el pánico — uno de los cuatro sistemas implementados — se ancla en una contingencia ecológica concreta del organismo simulado:\n\n> \"Galatea tendrá pánico como emoción ligada a la separación de su colonia y de la roca litoral\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (1:13:23)](https://youtu.be/hx9creRpdnY?t=4403)\n\nLa implementación es coherente con la batería de Panksepp aplicada a un organismo colonial: el pánico opera como detección de aislamiento, no como respuesta abstracta a amenaza.\n\n### Pseudocódigo Python y cálculo lambda como lenguaje formal\n\nEl estado computacional al cierre del directo es de pre-implementación: pseudocódigo orientado a Python sin código ejecutable. La elección de notación formal recae en el cálculo lambda por su capacidad de manejar funciones sobre objetos sin definir clases — propiedad alineada con la axiomática de clases del realismo cognitivo, donde no hay sustancias atomicas previas a las relaciones:\n\n> \"Todo el modelo está en pseudocódigo orientado a Python; nada está en código ejecutable todavía\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (48:37)](https://youtu.be/hx9creRpdnY?t=2917)\n\n> \"Proxy considera el cálculo lambda como el candidato más útil para el pseudocódigo por manejar funciones sobre objetos sin definir clases\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (48:37)](https://youtu.be/hx9creRpdnY?t=2917)\n\n> \"El cálculo lambda es el candidato para describir el pseudocódigo porque opera con funciones sin definir clases\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (1:04:29)](https://youtu.be/hx9creRpdnY?t=3869)\n\n> \"Es lento computacionalmente pero adecuado porque no se busca emular una mente humana completa sino sus dinámicas de flujo\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (1:04:29)](https://youtu.be/hx9creRpdnY?t=3869)\n\n### Matrices de adyacencia ponderadas y aprendizaje hebbiano emergente\n\nLa propagación entre nodos opera por programación jerárquica con matrices de adyacencia ponderadas: activar un nodo desencadena cascadas en su subgrafo, y la probabilidad de propagación se modula por los pesos de la matriz. El nivel de energía del nodo queda formalmente codificado en el determinante:\n\n> \"La propagación entre matrices usa programación jerárquica: activar un nodo desencadena cascadas en su subgrafo\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (55:46)](https://youtu.be/hx9creRpdnY?t=3346)\n\n> \"La matriz de adyacencia ponderada define la probabilidad de que un nodo active otro; el determinante de la matriz representa el nivel de energía\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (55:46)](https://youtu.be/hx9creRpdnY?t=3346)\n\nLa arquitectura emerge sin nodo de error explícito: solo nodos de máximos de energía, memoria, corrección y síntesis. La regla hebbiana clásica (la repetición de la activación refuerza la conexión) opera como consecuencia derivada del sistema, no como mecanismo programado:\n\n> \"Se requiere una red híbrida de micrografos neuronales interconectados por conexiones ponderadas probabilísticas\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (1:00:26)](https://youtu.be/hx9creRpdnY?t=3626)\n\n> \"El aprendizaje hebbiano (cuantas más veces se repite la activación de un nodo, más probable su repetición) será consecuencia emergente del sistema\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (1:00:26)](https://youtu.be/hx9creRpdnY?t=3626)\n\nLa arquitectura cierra así el aparato del modelo: de la axiomática de clases del realismo cognitivo (sustrato epistemológico) al metagrafo computable (implementación), de la batería afectiva mamífera completa (referencia teórica) al subset operacional de cuatro sistemas (implementación inicial), de la hidra de los GCaMP (organismo planificado en la primera fase) al hidrozoario con tres canales sensoriales unificados (organismo definitivo).\n",
+      "section_target": null,
+      "supersedes_laguna_text": "La estructura interna de la **matriz fi** no se desarrolla en este pase: qué dimensiones afectivas codifica, cómo se relaciona formalmente con la matriz N de la teoría del símbolo, qué operaciones admite",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 1828,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (30:28)](https://youtu.be/hx9creRpdnY?t=1828)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 2130,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (35:30)](https://youtu.be/hx9creRpdnY?t=2130)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 2251,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (37:31)](https://youtu.be/hx9creRpdnY?t=2251)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 2342,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (39:02)](https://youtu.be/hx9creRpdnY?t=2342)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 2463,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (41:03)](https://youtu.be/hx9creRpdnY?t=2463)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 2705,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (45:05)](https://youtu.be/hx9creRpdnY?t=2705)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 2917,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (48:37)](https://youtu.be/hx9creRpdnY?t=2917)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 3164,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (52:44)](https://youtu.be/hx9creRpdnY?t=3164)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 3346,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (55:46)](https://youtu.be/hx9creRpdnY?t=3346)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 3626,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (1:00:26)](https://youtu.be/hx9creRpdnY?t=3626)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 3869,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (1:04:29)](https://youtu.be/hx9creRpdnY?t=3869)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 4403,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (1:13:23)](https://youtu.be/hx9creRpdnY?t=4403)"
+        }
+      ],
+      "rationale": "Update masivo a página existente. La página listaba como laguna nuclear: 'La estructura interna de la matriz fi no se desarrolla en este pase: qué dimensiones afectivas codifica, cómo se relaciona formalmente con la matriz N de la teoría del símbolo, qué operaciones admite'. Este vídeo monográfico (~55 min sobre Galatea) resuelve la laguna íntegra: arquitectura de 8 nodos articulada con función de cada uno, reducción filogenética del catálogo afectivo a 4 sistemas, sustitución de hidra por hidrozoario con justificación de los 3 canales sensoriales, elección de cálculo lambda como lenguaje formal, redefinición de la memoria como refuerzo (no almacén) con circuitos cerebrales identificados, matrices de adyacencia ponderadas con determinante = energía, aprendizaje hebbiano emergente, ecología afectiva del pánico ligado a la colonia. supersedes_laguna_text declarada para retirar la laguna ahora cubierta. insert_after_passage tras 'Estado del proyecto' antes de Lagunas: la nueva sección reemplaza el cierre puramente programático con la arquitectura efectivamente articulada",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Aplicado al cualia, significa que toda clase mental existe para ser sustituida — su razón de ser es ser efímera.",
+      "content_proposed": "\n\n## Mónadas universales objetivas vs qualia subjetivo y ambiguación entre los tres Q\n\nEn el directo *Psicología 101: Del libre albedrío a la computación artificial* (marzo 2025) el canal precisa dos refinamientos operativos del marco vinculados al programa de simulación de [[galatea-modelo-protomente]]: la distinción categorial entre clase cognitiva y qualia, y la mecánica de **ambiguación representacional** entre los tres Q.\n\n### Clase cognitiva como mónada universal objetiva\n\nLa clase cognitiva no se confunde con el qualia: la primera es la unidad mínima de experiencia consciente con estatus universal objetivo (forma/fondo, sujeto/objeto, terror); el segundo es el componente subjetivo asociado.\n\n> \"Las clases cognitivas son la mínima unidad de experiencia consciente universal, frente al qualia que es subjetivo\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (27:54)](https://youtu.be/hx9creRpdnY?t=1674)\n\n> \"Se buscará contrastar mónadas universales conocidas (universales culturales) con patrones de activación cerebral en experimentos de lenguaje\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (27:54)](https://youtu.be/hx9creRpdnY?t=1674)\n\nLa precisión cierra una posible confusión que la página articula sobre el cualia como gradiente: la transitoriedad se predica del qualia (componente subjetivo), no de la clase como mónada formal — la clase 'forma/fondo' es universal y permanente como categoría cognitiva, aunque cada actualización subjetiva sea un gradiente efímero. Es la diferencia entre el átomo representacional (universal) y su instanciación (subjetiva, transitoria). El programa empírico del canal — contrastar mónadas universales con patrones de neuroimagen — opera sobre esta distinción: si las clases son universales, deberían tener firma neural identificable a través de individuos.\n\n### Ambiguación representacional: poner una representación en función de otra\n\nLa segunda pieza es operativa: los tres Q (imagen, forma, afecto) no son compartimentos estancos sino registros que pueden expresarse mutuamente. La operación que el canal nombra **ambiguación** consiste en codificar una representación de un registro en términos de otro:\n\n> \"Ambigua es el proceso de poner una representación en función de otra: lo imaginario en términos formales, lo afectivo en términos imaginarios\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)\n\n> \"Ejemplo: \\\"estar feliz\\\" puede describirse como valencia positiva sin objeto (codificación formal de un afecto)\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)\n\n> \"Los tres tipos fundamentales de mecánica representacional (imaginario, formal, afectivo) pueden expresarse mutuamente\"\n→ [Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)\n\nLa ambiguación es la operación inversa a la especificación: 'estar feliz' (afecto) se transcribe como 'valencia positiva sin objeto' (codificación formal del afecto), conservando el contenido pero cambiando el registro Q de soporte. La pieza tiene consecuencia para la formalización de Galatea — el modelo necesita operadores que muevan contenido entre subgrafos Q, no solo dentro de cada uno. Y tiene consecuencia para [[teoria-del-simbolo-en-proxy]]: la matriz N opera con representaciones cuyos componentes se transvasan continuamente entre los tres registros, mecánica que la página articula como reorganización por ambiguación.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 1674,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (27:54)](https://youtu.be/hx9creRpdnY?t=1674)"
+        },
+        {
+          "video_id": "hx9creRpdnY",
+          "timestamp_seconds": 3009,
+          "cite_markdown": "[Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)"
+        }
+      ],
+      "rationale": "Material complementario a la axiomática de clases ya articulada. La página existente cubre la transitoriedad del cualia como gradiente y la tripartición Q (imagen, forma, afecto) como naturaleza axiomática de las clases, pero NO articula explícitamente: (a) la distinción categorial clase universal objetiva vs qualia subjetivo (necesaria para el programa empírico de buscar firmas neurales de mónadas universales en neuroimagen); (b) la operación de ambiguación representacional como mecánica de transvase de contenido entre los tres Q. insert_after_passage tras la sección 'Primer axioma: toda clase tiene función propia de transitoriedad' es la posición editorial natural: refina el cuadro de las clases inmediatamente después de su articulación axiomática y antes de la aplicación al caso 'clase tiempo'",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Pregunta no resuelta de Silent sobre libre albedrío",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención al chat sobre una pregunta del directo anterior que el speaker no entendió y queda diferida. Sin contenido temático",
+      "quote_evidence": "Proxy menciona una pregunta no resuelta de Silent sobre libre albedrío del directo anterior",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Patrones de fracaso relacional masculino: tres preguntas diagnósticas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza pedagógica clínica del speaker sobre cómo diagnosticar el patrón relacional masculino (tipo de chica que atrae, idea de relación, expectativa). Material que se integraría sustantivamente en consumismo-critica (mercado afectivo digital) o colusion-heroe-ninfa, pero la articulación aquí es brevísima (~3 min) y conviene esperar desarrollo más sustantivo antes de update",
+      "quote_evidence": "El problema no es que el amigo no quiera relaciones, sino que no quiere que le sigan saliendo mal",
+      "review_priority": "medium",
+      "review_priority_reason": "tema recurrente del canal — vigilar para enriquecer páginas relacionales si reaparece con desarrollo",
+      "enriches_concept": "colusion-heroe-ninfa",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Prototipos masculinos como objeto de selección femenina inconsciente (tirano, infantil, monstruo, sátiro)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tipología masculina arquetípica articulada brevemente como contraparte de la tipología femenina ya documentada (tipologia-femenina-arquetipica). El speaker enumera cuatro prototipos (tirano, infantil, monstruo, sátiro) como categorías de la imagen inconsciente femenina del varón. Pieza con potencial de concepto autónomo (paralelo simétrico de tipologia-femenina-arquetipica) si se desarrolla; aquí solo se enuncia como aplicación a la dinámica de conquista. Material que enriquecería anima-archetype en su flanco proyectivo",
+      "quote_evidence": "El enamoramiento femenino ocurre a nivel inconsciente mediante prototipos masculinos (tirano, infantil, monstruo, sátiro)",
+      "review_priority": "medium",
+      "review_priority_reason": "tipología masculina arquetípica con cuatro piezas — candidato a concepto autónomo si el canal la desarrolla con la profundidad de tipologia-femenina-arquetipica",
+      "enriches_concept": "anima-archetype",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Conquista como ilusión: encajar en expectativas inconscientes femeninas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación breve de la conquista como mecanismo de ajuste a un molde preexistente en la mente femenina (no creación de atracción donde no la hay). Pieza coherente con el aparato del canal sobre selección sexual femenina; encaja como sub-pieza de la dinámica relacional",
+      "quote_evidence": "Conquistar es dar lo máximo de ti para encajar en las expectativas inconscientes que ella ya tiene sobre cómo debe ser un hombre",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Conciencia máquina vs conciencia humana (sui generis con su propia ontología)",
+      "reason_code": "already_captured",
+      "reason_detail": "Tesis del canal sobre la imposibilidad de transferir el predicado 'conciencia' del organismo encarnado a la máquina computacional. Material sustantivamente cubierto en golem-de-cobre (las máquinas no tienen valencias afectivas), realismo-cognitivo (paradoja de Kripke + hard problem) y galatea-modelo-protomente (sistema nervioso debe SER la máquina). En este vídeo se reitera y se nombra la posibilidad teórica de una 'conciencia máquina sui generis' con ontología propia, pero sin desarrollo distinto",
+      "quote_evidence": "Las máquinas no tienen conciencia; si la tuvieran sería conciencia máquina, sui generis, con su propia ontología",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "LLMs bajo paradigma de Penrose: aspectual y estético, no inteligencia real",
+      "reason_code": "already_captured",
+      "reason_detail": "Aplicación del marco del canal a los LLMs contemporáneos: simulación aspectual/estética sin inteligencia real, consistente con la crítica articulada en golem-de-cobre y galatea-modelo-protomente. Brevedad y carácter reiterativo de la tesis ya documentada",
+      "quote_evidence": "Los LLMs son inteligencia simulada bajo el paradigma de Penrose: aspectual y estético, no inteligencia real",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Proyecto Este País Tube: análisis de neuroimagen con IA",
+      "reason_code": "passing_mention",
+      "reason_detail": "Proyecto adyacente a Galatea: Miguel entrena IA sobre estudios de neuroimagen mientras Proxy interpreta los datos y define qué patrones buscar. El objetivo declarado (que la IA identifique clases cognitivas) es coherente con el programa empírico del realismo cognitivo articulado en este mismo vídeo (mónadas universales vs qualia). Sub-pieza operacional del programa de investigación del canal; no merece página autónoma",
+      "quote_evidence": "El proyecto Este País Tube analiza estudios de neuroimagen sobre cómo el cerebro procesa patrones visuales y verbales",
+      "review_priority": "medium",
+      "review_priority_reason": "proyecto de investigación adyacente a Galatea — vigilar si se desarrolla como programa propio",
+      "enriches_concept": "galatea-modelo-protomente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mente abstracta: combinación de nodo formal + metarrepresentacional",
+      "reason_code": "passing_mention",
+      "reason_detail": "Operación arquitectónica del modelo Galatea: las representaciones sintetizadas (12 bits) se convierten a relaciones abstractas mediante la combinación de los nodos formal y metarrepresentacional. Material integrado en el update mayor a galatea-modelo-protomente como sub-pieza del nodo de síntesis",
+      "quote_evidence": "La mente abstracta funciona combinando el nodo formal con el nodo metarrepresentacional: representaciones sintetizadas convertidas a relaciones abstractas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Comparativa ChatGPT 4 vs Aria (IA de Opera) como herramientas de trabajo",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anécdota práctica sobre las herramientas usadas por el speaker para articular el modelo (ChatGPT preferido por precisión y coherencia matemática; Aria como sustituto cuando ChatGPT está en cooldown). Sin contenido temático",
+      "quote_evidence": "ChatGPT 4 es preferido para la descripción matemática del modelo por precisión y coherencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Distinción patrones patológicos vs patrones saludables (gustos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Precisión clínica del speaker sobre la diferencia entre identificar patrones para evitar lo patológico vs aceptar lo que simplemente refleja gustos. Pieza pedagógica breve sin desarrollo enciclopédico autónomo",
+      "quote_evidence": "Distingue entre patrones patológicos que conviene evitar y patrones saludables que simplemente reflejan gustos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

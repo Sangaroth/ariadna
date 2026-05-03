@@ -113,5 +113,7 @@ El movimiento final del canal es pragmático: con o sin libre albedrío, la feno
 ## Citations
 
 
+
 - **Lunes sin política** — chunks: [1:42:11](https://youtu.be/r1SmCsNmLh0?t=6131) · [2:00:50](https://youtu.be/r1SmCsNmLh0?t=7250) · [2:11:01](https://youtu.be/r1SmCsNmLh0?t=7861)
+- **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [7:30](https://youtu.be/hx9creRpdnY?t=450)
 

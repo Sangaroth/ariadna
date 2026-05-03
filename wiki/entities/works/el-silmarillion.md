@@ -221,6 +221,21 @@ La coexistencia de los pueblos del Silmarillion encarna así el conflicto inevit
 
 El Silmarillion funciona en el canal como pieza central del análisis tolkieniano: junto a obras tratadas en otros directos, articula la lectura de [[tolkien-jrr]] como uno de los casos más sostenidos del [[mito-polar]] moderno y como ejercicio consciente de [[mitologia-propia-impropia]] — Tolkien sabe que está construyendo mito.
 
+
+
+## Los cinco magos de colores y la transformación de Gandalf
+
+El canal articula que Tolkien establece en el Silmarillion (no en las adaptaciones cinematográficas del Señor de los Anillos) un orden de **cuatro magos de colores con uno blanco por encima**, esquema iconográfico que la cultura ludológica posterior recoge — Final Fantasy lo hereda como paleta de clases mágicas. La transformación de Gandalf de gris a blanco se lee como **ecesis**: santificación operada a través de la lucha contra el mal.
+
+> "El paso de Gandalf de gris a blanco representa una \"ecesis\": una santificación a través de la lucha contra el mal"
+→ [Progresterona (1:33:31)](https://youtu.be/7f-iHJpDMVQ?t=5611)
+
+> "No viene de las películas sino del Silmarillion: Tolkien puso cuatro grandes magos de colores más uno blanco por encima"
+→ [Progresterona (1:33:31)](https://youtu.be/7f-iHJpDMVQ?t=5611)
+
+La pieza añade una lectura específica del cambio de color como dispositivo simbólico — la elevación de la figura a un orden superior tras atravesar la confrontación con el mal — coherente con el marco que la página articula sobre las cuatro formas del mal y la subordinación estructural de la maldad en la cosmogonía tolkieniana. La pentada de colores opera además como base iconográfica para la aproximación tentativa que el canal hace a los cuadrantes del [[diagrama-de-proxy]].
+
+
 ## Lagunas
 
 - (sin lagunas declaradas todavía)
@@ -230,6 +245,8 @@ El Silmarillion funciona en el canal como pieza central del análisis tolkienian
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [50:23](https://youtu.be/gDRkrg8dVCo?t=3023)
 - **Irrespirables redes sociales.** — chunks: [22:03](https://youtu.be/aaLhUV1rdE4?t=1323)
+- **Progresterona** — chunks: [1:33:31](https://youtu.be/7f-iHJpDMVQ?t=5611)
 

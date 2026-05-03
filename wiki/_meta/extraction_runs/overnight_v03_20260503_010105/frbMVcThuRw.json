@@ -1,0 +1,346 @@
+{
+  "video_id": "frbMVcThuRw",
+  "video_title": "Psicoinfluencers",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "crítica articulada del canal a los psicoinfluencers y a la divulgación psicológica conductista",
+      "canonical_guess": "psicoinfluencers-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 130,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El conductismo prescinde deliberadamente de lo que no puede explicar para luego negar su existencia"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Un modelo incoherente tiene contradicciones internas insalvables"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El realismo cognitivo unifica filosofía analítica, teoría de la mente y psicología como una misma disciplina"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Los sistemas filosóficos deben cumplir las mismas reglas que los sistemas formales"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~160 min, casi todo dedicado a la tesis) en el que el speaker articula crítica sostenida y sistemática a la divulgación psicológica conductista en redes (caso Lidia Viñuela / Think Healthy Psicología) y, por extensión, a la antipsiquiatría difusa contemporánea. La tesis incluye estructura interna articulada con ≥6 piezas (criterios de validez teórica; crítica filosófica al conductismo en cinco sub-piezas; defensa del diagnóstico psiquiátrico vs negación de etiquetas; defensa empírica del inconsciente; crítica al locus externo y al síndrome de la iluminada como motor ideológico; ChatGPT como herramienta terapéutica vs LLMs no son inteligencias). Cumple gate de auto-promoción de scope.md §2.4.1: minutes_sustained ≥ 30 (>120), signal_marks_detected ≥ 3 (thesis_marker + internal_structure + pedagogic_register + applied_framework), framework_internal_structure ≥ 4 piezas (≥6). Synthesis_subtype: author_thesis con auto_promoted_synthesis: true. La tesis no encaja como concept porque integra varias piezas conceptuales en argumento articulado, ni se reduce a página existente: realismo-cognitivo aloja sustrato filosófico y critica genérica al conductismo como tautológico, pero no la aplicación clínica sostenida ni la dimensión sociopolítica de la divulgación; herida-narcisista-en-proxy aloja el cuadro clínico, no la crítica metodológica",
+      "quote_evidence": "El conductismo prescinde deliberadamente de lo que no puede explicar para luego negar su existencia"
+    },
+    {
+      "surface_form": "convergencia disciplinar: filosofía analítica + teoría de la mente + psicología como una misma disciplina",
+      "canonical_guess": "convergencia-disciplinar-realismo-cognitivo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El realismo cognitivo unifica filosofía analítica, teoría de la mente y psicología como una misma disciplina"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Tesis positiva del speaker sobre la unidad disciplinar que el realismo cognitivo postula: filosofía analítica como herramienta válida única para teoría de la mente, y los tres campos (analítica + teoría mente + psicología) como una misma disciplina con lenguaje formal único. Material genuinamente nuevo respecto al cuerpo leído de realismo-cognitivo: la página existente articula posicionamiento frente a otras corrientes filosóficas pero no la tesis de unidad disciplinar tripartita ni la implicación sobre el lenguaje formal compartido",
+      "quote_evidence": "Podría existir un lenguaje formal cuyos términos signifiquen lo mismo simultáneamente en los tres campos"
+    },
+    {
+      "surface_form": "extensión filosófica de la crítica al conductismo (sincategoremático, modelo degenerado, hombre de paja, falsa abolición de la norma)",
+      "canonical_guess": "critica-conductismo-extension",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "primary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los términos \"conducta\" y \"consecuencia\" carecen de definición precisa en la explicación conductista"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Afirmar que la conducta no se debe a fuerzas internas desconocidas es un hombre de paja: nadie lo formula así"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Extensión sustantiva de la sección 'Crítica al conductismo como tautológico' en realismo-cognitivo. Las nuevas piezas filosóficas (sincategoremático e incompleto, modelo degenerado por excepciones, hombre de paja contra fuerzas internas + falacia estética de la claridad, falsa abolición de la norma) complementan la pieza 'tautológico' ya documentada con argumentos lógicos adicionales aplicados sistemáticamente. Material núcleo-filosófico que pertenece a realismo-cognitivo; los casos clínicos concretos (TOC, depresión exógena, agorafobia, machismo) van a la página synthesis psicoinfluencers-en-proxy",
+      "quote_evidence": "El modelo termina necesitando tantas excepciones que la premisa original se deforma"
+    },
+    {
+      "surface_form": "defensa empírica del inconsciente (memorias episódicas latentes, trauma reprimido, indefensión aprendida)",
+      "canonical_guess": "defensa-empirica-inconsciente",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Speaker defiende existencia del inconsciente contra el negacionismo conductista de psicoinfluencers, aportando casos clínicos como evidencia (memorias episódicas latentes que resurgen, trauma reprimido reconstruido progresivamente, indefensión aprendida, confabulación traumática, tripofobia, asociaciones de segundo grado). Material complementa la página collective-unconscious por su lado clínico-empírico: la página existente apoya el inconsciente vía evidencia evolutivo-comparada (Buba-Kiki en pollos, clases ancestrales) pero no documenta la batería de casos clínicos que aquí se invocan como prueba operativa",
+      "quote_evidence": "Un caso real de estrés postraumático donde la víctima olvida la agresión y la reconstruye progresivamente"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esto distingue al realismo cognitivo del materialismo (que privilegia la materia) y del idealismo (que privilegia las ideas).",
+      "content_proposed": "\n\n### Convergencia disciplinar: filosofía analítica, teoría de la mente y psicología como una misma disciplina\n\nUna tesis positiva adicional del marco articulada en directo posterior: el realismo cognitivo no solo opera como stance epistemológica sino como **principio de unificación disciplinar**. Filosofía analítica, teoría de la mente y psicología no son disciplinas separadas sino registros distintos de un mismo objeto de estudio que el realismo cognitivo permite tratar con un único lenguaje formal.\n\n> \"Filosofía analítica es la única herramienta válida para desarrollar teoría de la mente\"\n→ [Psicoinfluencers (21:59)](https://youtu.be/frbMVcThuRw?t=1319)\n\n> \"El realismo cognitivo unifica filosofía analítica, teoría de la mente y psicología como una misma disciplina\"\n→ [Psicoinfluencers (21:59)](https://youtu.be/frbMVcThuRw?t=1319)\n\n> \"Podría existir un lenguaje formal cuyos términos signifiquen lo mismo simultáneamente en los tres campos\"\n→ [Psicoinfluencers (21:59)](https://youtu.be/frbMVcThuRw?t=1319)\n\nEl problema metodológico inherente que la tesis asume y no oculta es la **autorreferencia**: la psicología estudia la mente con la mente, condición que cualquier teoría unificada debe articular sin colapsar en circularidad ni en escepticismo. La pieza enlaza con los criterios de validez teórica que el speaker exige a todo modelo psicológico — coherencia (sin contradicciones internas) y completitud (cubrir todo lo que dice describir) — heredados del rigor lógico-formal aplicable a cualquier sistema filosófico.\n\n> \"Los sistemas filosóficos deben cumplir las mismas reglas que los sistemas formales\"\n→ [Psicoinfluencers (11:55)](https://youtu.be/frbMVcThuRw?t=715)\n\nLa convergencia tripartita es la consecuencia operativa del marco: si las clases noéticas son atómicas y la matriz N opera con axiomática unificada, no hay frontera disciplinar entre lo que estudia la filosofía de la mente analítica, lo que modeliza la teoría de la mente y lo que describe la psicología clínica — los tres campos cortan el mismo objeto desde ángulos distintos.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 1319,
+          "cite_markdown": "[Psicoinfluencers (21:59)](https://youtu.be/frbMVcThuRw?t=1319)"
+        },
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 715,
+          "cite_markdown": "[Psicoinfluencers (11:55)](https://youtu.be/frbMVcThuRw?t=715)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído. La página articula extensamente posicionamiento frente a materialismo, idealismo, enactivismo y desarrollo formal de la axiomática de clases, pero NO contiene la tesis de unidad disciplinar tripartita (filosofía analítica + teoría mente + psicología como única disciplina con lenguaje formal compartido) ni la articulación explícita de criterios de validez teórica heredados del rigor formal. insert_after_passage tras la subsección 'Tres sistemas filosóficos' es la posición editorial natural: encadena con el posicionamiento del marco antes de las piezas técnicas posteriores (Refutación mitos→logos, Platón realista, Coherencia/completitud)",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El concepto de enfermedad mental no necesita demostración: la esquizofrenia no es un problema de adaptación sino una desconexión con la realidad",
+      "content_proposed": "\n\n### Extensión filosófica de la crítica al conductismo: sincategoremático, modelo degenerado, hombre de paja, falsa norma\n\nUn directo monográfico (Psicoinfluencers, marzo 2025) extiende la crítica filosófica al conductismo con cuatro piezas adicionales que complementan el cargo de tautología ya documentado, articuladas como aplicación sistemática de los criterios de coherencia y completitud:\n\n**Modelo sincategoremático e incompleto** — los términos nucleares del aparato conductista quedan sin definición precisa, lo que vacía el modelo:\n\n> \"Los términos \\\"conducta\\\" y \\\"consecuencia\\\" carecen de definición precisa en la explicación conductista\"\n→ [Psicoinfluencers (43:41)](https://youtu.be/frbMVcThuRw?t=2621)\n\n> \"La dicotomía \\\"repito o no repito la conducta\\\" es empíricamente falsa: ninguna conducta se repite idénticamente\"\n→ [Psicoinfluencers (43:41)](https://youtu.be/frbMVcThuRw?t=2621)\n\n> \"El conductismo no distingue entre conducta externa observable y experiencia noética interna\"\n→ [Psicoinfluencers (43:41)](https://youtu.be/frbMVcThuRw?t=2621)\n\n**Modelo degenerado por excepciones** — partir de premisa simplista obliga a parchear con casuística que termina deformando la propia premisa, mecánica clásica de degeneración teórica que el conductismo exhibe en su tratamiento de la psicología cognitiva:\n\n> \"El modelo termina necesitando tantas excepciones que la premisa original se deforma\"\n→ [Psicoinfluencers (54:58)](https://youtu.be/frbMVcThuRw?t=3298)\n\n> \"El conductismo prescinde deliberadamente de lo que no puede explicar para luego negar su existencia\"\n→ [Psicoinfluencers (54:58)](https://youtu.be/frbMVcThuRw?t=3298)\n\n**Hombre de paja contra 'fuerzas internas' y falacia estética de la claridad** — la operación retórica del conductismo construye un adversario inexistente y se acredita epistémicamente por la simplicidad aparente del modelo, no por su rigor:\n\n> \"Afirmar que la conducta no se debe a fuerzas internas desconocidas es un hombre de paja: nadie lo formula así\"\n→ [Psicoinfluencers (1:05:11)](https://youtu.be/frbMVcThuRw?t=3911)\n\n> \"La simplificación se presenta como virtud epistémica (\\\"lógico y claro\\\"), lo cual es una falacia estética\"\n→ [Psicoinfluencers (1:05:11)](https://youtu.be/frbMVcThuRw?t=3911)\n\nLa falacia estética de la claridad emparenta el dispositivo retórico conductista con el [[sofisma-estetico]] documentado en otra parte del corpus: en ambos casos la forma estética del enunciado (claridad, simplicidad, congruencia visual) sustituye al contenido sustantivo.\n\n**Falsa abolición de la norma** — la pieza última cierra la incoherencia interna del modelo: si no hay norma externa con la que comparar, la propia disciplina pierde la base para diagnosticar lo que dice tratar:\n\n> \"Decir que no hay norma externa con la que compararse imposibilita el diagnóstico clínico\"\n→ [Psicoinfluencers (1:25:23)](https://youtu.be/frbMVcThuRw?t=5123)\n\n> \"Si la norma es individual y la ansiedad se explica por deseo, no se puede distinguir lo patológico de lo normal\"\n→ [Psicoinfluencers (1:25:23)](https://youtu.be/frbMVcThuRw?t=5123)\n\nLa aplicación sistemática de la crítica a casos clínicos concretos (TOC, depresión exógena, agorafobia, machismo aprendido) y su anclaje sociopolítico (locus externo de control, síndrome de la iluminada como motor ideológico de la divulgación) se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva — esta sección concentra solo el núcleo filosófico de la crítica, que cierra el cargo previo de tautología con tres mecánicas adicionales: sincategoremaía, degeneración por excepciones y abolición performativa de la norma.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "sofisma-estetico",
+        "psicoinfluencers-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 2621,
+          "cite_markdown": "[Psicoinfluencers (43:41)](https://youtu.be/frbMVcThuRw?t=2621)"
+        },
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 3298,
+          "cite_markdown": "[Psicoinfluencers (54:58)](https://youtu.be/frbMVcThuRw?t=3298)"
+        },
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 3911,
+          "cite_markdown": "[Psicoinfluencers (1:05:11)](https://youtu.be/frbMVcThuRw?t=3911)"
+        },
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 5123,
+          "cite_markdown": "[Psicoinfluencers (1:25:23)](https://youtu.be/frbMVcThuRw?t=5123)"
+        }
+      ],
+      "rationale": "Extensión sustantiva de la subsección 'Crítica al conductismo como tautológico' que ya existe en la página. La pieza original cubre el cargo de tautología; este update añade cuatro mecánicas filosóficas complementarias (sincategoremaía + degeneración por excepciones + hombre de paja con falacia estética + falsa abolición de la norma) que el speaker articula sistemáticamente en el directo monográfico de marzo 2025. Material núcleo-filosófico que pertenece nativamente a realismo-cognitivo; los casos clínicos aplicados (TOC, depresión exógena, agorafobia) y la dimensión ideológica (locus externo, síndrome iluminada) van a la nueva página synthesis psicoinfluencers-en-proxy. insert_after_passage tras la última cita de la subsección existente extiende editorialmente la crítica antes de la sección 'Lagunas'",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "collective-unconscious",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al monismo libidinal freudiano.",
+      "content_proposed": "\n\n## Defensa empírica del inconsciente: trauma reprimido y memorias episódicas latentes\n\nEn el directo *Psicoinfluencers* (marzo 2025) el canal articula una defensa empírica del inconsciente contra el negacionismo conductista difuso de la divulgación pop-psicológica, que tiende a equiparar el inconsciente al alma, al horóscopo o a la magia. La precisión clave es categorial: una conducta automática no es inconsciente si el sujeto es consciente al realizarla — confundir consciencia con percepción es el error nuclear de esa equiparación.\n\n> \"La divulgadora equipara el inconsciente al alma, el horóscopo o la magia\"\n→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)\n\n> \"Confunde consciencia con percepción: una conducta automática no es inconsciente si eres consciente al realizarla\"\n→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)\n\nLa batería positiva que el speaker invoca como prueba operativa del inconsciente cubre fenómenos clínicos cuya explicación requiere postular contenidos representacionales inaccesibles a la consciencia:\n\n> \"Las memorias episódicas latentes (traumas reprimidos que resurgen) demuestran la existencia del inconsciente\"\n→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)\n\n> \"La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente\"\n→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)\n\nEl caso paradigmático que el canal articula es un cuadro real de estrés postraumático donde la víctima olvida la agresión y la reconstruye progresivamente:\n\n> \"Un caso real de estrés postraumático donde la víctima olvida la agresión y la reconstruye progresivamente\"\n→ [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)\n\n> \"La información traumática estaba almacenada en algún lugar inaccesible a la conciencia: el inconsciente\"\n→ [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)\n\n> \"Las asociaciones de segundo grado (coche → guerra → taller) no son simples automatismos conductuales\"\n→ [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)\n\nLa pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en pollos, [[clases-ancestrales]]) un segundo registro de evidencia: si la primera prueba opera por convergencia evolutivo-comparada (estructuras innatas heredadas), esta opera por necesidad explicativa clínica (cuadros que el aparato consciente-percepción no cubre). El conjunto cierra el flanco anti-negacionista: el inconsciente no es metáfora ni anterior espiritualista, es categoría operativa exigida tanto por la psicología comparada como por la clínica del trauma. La crítica sistemática a la divulgación pop-psicológica que niega esta categoría se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "psicoinfluencers-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 6621,
+          "cite_markdown": "[Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)"
+        },
+        {
+          "video_id": "frbMVcThuRw",
+          "timestamp_seconds": 6899,
+          "cite_markdown": "[Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)"
+        }
+      ],
+      "rationale": "Material nuevo respecto al cuerpo leído. La página articula el inconsciente desde tres frentes (corrección al malentendido neoplatónico, convergencia con Lévi-Strauss, evidencia evolutivo-comparada vía Buba-Kiki) pero NO documenta el flanco clínico de la defensa: cuadros donde el inconsciente es categoría explicativa exigida (memorias episódicas latentes, trauma reprimido reconstruido, indefensión aprendida, confabulación traumática, tripofobia, asociaciones de segundo grado). El caso real de estrés postraumático aporta una mecánica observable (olvido de la agresión + reconstrucción progresiva) que opera como prueba clínica de almacenamiento inaccesible. insert_after_passage tras 'Comparación con Freud' es la posición editorial natural: el flanco freudiano del inconsciente se completa con la defensa contra el negacionismo conductista contemporáneo antes de 'Conexión con otros conceptos' y 'Lagunas'",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Lidia Viñuela / Think Healthy Psicología (caso de estudio)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cuenta de divulgación psicológica concreta usada como caso paradigmático del fenómeno 'psicoinfluencer' que el canal critica. La figura es objeto de la crítica, no figura teórica promovible. Su nombre quedará citado en la página synthesis psicoinfluencers-en-proxy como caso operativo, no merece página propia",
+      "quote_evidence": "Se introduce la cuenta Think Healthy Psicología (Lidia Viñuela) como caso de estudio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Efecto Forer y distinción invención / mentira",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico estándar de psicología social (Forer/Barnum effect) que el speaker invoca para precisar que ser susceptible de proyección no implica que lo descrito no exista. Pieza pedagógica con marco aplicado pero brevedad y carácter de concepto académico ya conocido — encaja en scope §1.2 'concepto técnico estándar usado como ejemplo'",
+      "quote_evidence": "Que algo sea susceptible de efecto Forer no significa que lo descrito no exista",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a la atribución exógena de la ansiedad juvenil (causa vs consecuencia)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza aplicada de la crítica al conductismo (cadena causal invertida: la ansiedad puede causar 'no llegar a todo' en vez de ser su consecuencia). Casos como TDAH como contraejemplo. Material que se integrará en la página synthesis psicoinfluencers-en-proxy como sub-pieza del cuadro 'aplicación a casos clínicos concretos'",
+      "quote_evidence": "No llegar a todo puede ser consecuencia de la ansiedad y no su causa",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "TOC como diagnóstico psiquiátrico con base neurobiológica vs 'etiqueta'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso aplicado de la defensa del diagnóstico psiquiátrico contra el constructivismo de la divulgación. Argumento neurobiológico (base dopaminérgica y noradrenérgica) y operativo (los pensamientos intrusivos son incompatibles con la ponderación racional). Material que se integrará en psicoinfluencers-en-proxy como sub-pieza del cuadro 'defensa del diagnóstico psiquiátrico'",
+      "quote_evidence": "El TOC es un diagnóstico psiquiátrico con base neurobiológica (dopaminérgica y noradrenérgica)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Depresión exógena como categoría clínica real vs reducción a agotamiento ambiental",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso aplicado de la defensa del modelo clínico contra el constructivismo. La fórmula 'demasiadas demandas y pocos reforzadores' trivializa la enfermedad mental y contradice la lógica farmacológica de prescribir cuando no se puede cambiar el exterior. Material que se integrará en psicoinfluencers-en-proxy",
+      "quote_evidence": "Existe la depresión exógena como categoría clínica real, no como simple agotamiento ambiental",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Abuso del término 'etiqueta' como herramienta antipsiquiátrica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento metodológico sobre el uso retórico de 'etiqueta' como descalificación implícita del diagnóstico. Pieza articulada del speaker como aplicación de su crítica a la divulgación; encaja como sub-pieza de la nueva synthesis psicoinfluencers-en-proxy",
+      "quote_evidence": "Llamar \"etiquetas\" a los diagnósticos no dice nada concreto pero aparenta una crítica profunda",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Locus externo de control + herida narcisista como motor del conductismo feminista (machismo aprendido)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza ideológico-clínica del speaker: la herida narcisista necesita que el machismo sea aprendido para señalar un culpable externo corregible; locus externo de autoridad como motor oculto. Plantea paradoja recursiva (¿quién enseñó el mal al primer tutor?). Material que se integrará en psicoinfluencers-en-proxy como sub-pieza del cuadro 'crítica ideológica'; toca también herida-narcisista-en-proxy en su flanco proyectivo",
+      "quote_evidence": "La herida narcisista necesita que el machismo sea aprendido para señalar un culpable externo corregible",
+      "review_priority": "medium",
+      "review_priority_reason": "vínculo herida-narcisista ↔ ideología constructivista — patrón recurrente del canal",
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Síndrome de la iluminada (situarse por encima del criticado como descondicionado)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Categoría canal-específica acuñada en este directo: el divulgador-crítico se sitúa fuera del condicionamiento que atribuye a los demás, posición epistémicamente insostenible. Neologismo articulado pero brevemente; encaja en psicoinfluencers-en-proxy como sub-pieza. Si reaparece en otros vídeos podría merecer concepto autónomo",
+      "quote_evidence": "El \"síndrome de la iluminada\" permite al crítico situarse por encima del criticado como descondicionado",
+      "review_priority": "medium",
+      "review_priority_reason": "neologismo del canal nombrado explícitamente — vigilar recurrencia para promoción autónoma",
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Agorafobia descrita como asociación aprendida (sobresimplificación)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso aplicado: la divulgadora describe agorafobia como encadenamiento supermercado-taquicardia-evitación; el speaker señala que es proceso obsesivo, no fóbico, y que la explicación ignora la neurobiología del pánico. Sub-pieza del cuadro 'aplicación a casos clínicos' en psicoinfluencers-en-proxy",
+      "quote_evidence": "La divulgadora describe la agorafobia como encadenamiento de asociaciones supermercado-taquicardia-evitación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ChatGPT como herramienta terapéutica auxiliar y peligros de la dependencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bloque sostenido (~20 min) sobre el uso de LLMs como apoyo terapéutico (validación sin juicio, detección de patrones, descripción externa) y sus límites (dependencia, pérdida de introspección autónoma, ausencia de capacidad confrontativa que tiene un terapeuta humano). Distinción operativa validar vs dar la razón. Material que se integrará en psicoinfluencers-en-proxy como sub-pieza del cuadro final",
+      "quote_evidence": "Chat GPT valida emociones sin juzgar, lo que permite expresar lo que da vergüenza decir a una persona",
+      "review_priority": "medium",
+      "review_priority_reason": "tema recurrente del canal (terapia + IA) que puede merecer concepto autónomo si se desarrolla",
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "LLMs no son inteligencias (caja negra del entrenamiento, conciencia indemostrable)",
+      "reason_code": "already_captured",
+      "reason_detail": "Tesis del canal sobre los LLMs como funciones probabilísticas no inteligentes. Material conceptualmente equivalente al ya documentado en golem-de-cobre y galatea-modelo-protomente (las máquinas no pueden tener afectos sin cuerpo). En este directo se reitera con énfasis sobre la caja negra del entrenamiento y la imposibilidad de definir conciencia máquina mientras la humana esté indefinida. Sub-pieza del cuadro final de psicoinfluencers-en-proxy; no requiere update independiente a golem-de-cobre porque la tesis ya está sustantivamente cubierta",
+      "quote_evidence": "Chat GPT no razona: funciona por probabilidades cuyo mecanismo interno no comprendemos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Validar emociones vs dar la razón (distinción terapéutica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción operativa del speaker: validar reconoce la emoción sin confirmar la interpretación; dar la razón confirma la visión del paciente con riesgo iatrogénico. Pieza pedagógica clínica que encaja en psicoinfluencers-en-proxy como sub-pieza del cuadro final sobre IA terapéutica",
+      "quote_evidence": "Validar reconoce la emoción sin confirmar la interpretación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tripofobia como caso clínico no explicable sin inconsciente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso citado entre los fenómenos cuya explicación requiere postular inconsciente (junto a indefensión aprendida y confabulación traumática). Concepto técnico estándar usado como ejemplo de la batería empírica que defiende el inconsciente",
+      "quote_evidence": "La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "collective-unconscious",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 1,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

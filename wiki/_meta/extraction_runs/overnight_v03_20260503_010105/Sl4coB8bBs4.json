@@ -1,0 +1,229 @@
+{
+  "video_id": "Sl4coB8bBs4",
+  "video_title": "Psicología 101: Ego, autoestima y TCAs",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Trastornos de la conducta alimentaria (TCAs): articulación clínica del canal",
+      "canonical_guess": "trastornos-conducta-alimentaria-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Los TCAs son de los trastornos más fácilmente adquiridos, no innatos, aunque requieren estructura ansiosa u obsesiva previa"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El ciclo es: ansiedad → obsesión → culpa → depresión → ansiedad, en espiral creciente"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Definición de neurosis: grave distorsión en la relación con la realidad que cause desadaptación o peligro"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo de Psicología 101 dedica ~50 min sostenidos a la articulación clínica de los TCAs según el marco del canal: definición operativa (conductas neuróticas con ansiedad positiva), distinciones nucleares (impulsividad / compulsividad / obsesividad), dos enfoques etiológicos (autoimagen vs culpa introyectada como núcleo neurótico), simbiosis familiares (hermanas, madres-hijas), diátesis, ciclo neurótico explícito (ansiedad → obsesión → culpa → depresión → ansiedad en espiral), y tipología completa de los subtipos (anorexia, bulimia, evitativo/restrictivo, atracón, vigorexia con su estatus liminal). Cumple criterio scope.md §2.1 'Monográfico ≥10 min sostenidos' (claramente: ~50 min) + 'Framing-mark' (marco analítico propio aplicado a casos: ciclo neurótico es pieza canal-específica, no exposición de DSM) + 'Channel-canonical'. No es exposición de DSM ni encaja en ninguna página existente",
+      "quote_evidence": "Los TCAs parten de una obsesión por autoimagen personal o corporal, de origen ansioso"
+    },
+    {
+      "surface_form": "Yo, ego, self y autoestima: taxonomía del canal y tres formas de neurosis del ego",
+      "canonical_guess": "yo-ego-autoestima-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El yo es el completo de la experiencia (consciente + inconsciente); el self es el yo consciente; el ego es la parte narcisista del yo que codifica \"lo que mereces\""
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Ego herido: herida narcisista, creer que se ha negado lo merecido"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La terminología psicoanalítica es filosofía de la psicología: nombres que ponemos a las cosas dentro de un sistema coherente"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis articulada por el canal con clasificación propia de los componentes del aparato psíquico (yo / self / ego / autoestima) distinta del canon junguiano clásico y del psicoanalítico estándar, más sub-tipología de las tres neurosis del ego (herido / distócico / ambivalente) con aplicación operativa a trastornos de personalidad concretos (narcisista = ego distócico desmedido; histriónico = ego ambivalente + autoestima confabulada). El speaker abre el bloque con marcador metodológico explícito sobre filosofía de la psicología y articula la taxonomía con rigor pedagógico-expositivo sostenido. Cumple criterio scope.md §2.4.1 como synthesis_subtype: author_thesis. NO cumple gate de auto-promoción (minutes_sustained ~25 < 30): requires_human_validation: true. La distinción crítica con herida-narcisista-en-proxy es de scope: aquella aloja el cuadro clínico de la herida; esta página aloja la taxonomía estructural completa del aparato psíquico del canal donde la herida es una de tres formas de neurosis del ego",
+      "quote_evidence": "El yo es el completo de la experiencia (consciente + inconsciente); el self es el yo consciente; el ego es la parte narcisista del yo que codifica \"lo que mereces\""
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Presentación del directo (Psicología 101) y participación de Efi",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio del tema y entrada de la patrona invitada con su pregunta. Sin contenido temático sustantivo más allá del marco que detona el bloque sobre ego/autoestima",
+      "quote_evidence": "Proxy anuncia el tema del día: trastornos de la conducta alimentaria y neurosis del yo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a la terminología psicológica difusa en redes sociales y formación reglada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza metateórica sobre el deterioro de los conceptos psicológicos en el vox populi y la ausencia de filosofía de la psicología en la carrera. Marco metodológico que se integra naturalmente en la página synthesis trastornos-conducta-alimentaria-en-proxy o en la nueva yo-ego-autoestima-en-proxy como apertura justificatoria del esfuerzo taxonómico",
+      "quote_evidence": "La terminología psicoanalítica es filosofía de la psicología: nombres que ponemos a las cosas dentro de un sistema coherente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Distinciones impulsividad / compulsividad / obsesividad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tres definiciones operativas que el speaker articula como herramientas diagnósticas para distinguir registros conductuales. Material que se integrará en trastornos-conducta-alimentaria-en-proxy como sub-pieza nuclear (distinciones requeridas para entender el ciclo neurótico)",
+      "quote_evidence": "Impulsividad: cuán fácil terminas desarrollando una conducta que no quieres hacer",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Simbiosis neuróticas familiares en TCAs (hermanas, madres-hijas)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza clínica del speaker sobre la difusión del cuadro al sistema familiar (vergüenza/culpa por tercería en hermanas, retroalimentación competitiva madre-hija). Material para integrar en trastornos-conducta-alimentaria-en-proxy",
+      "quote_evidence": "Las hermanas de personas con TCA desarrollan síntomas paralelos de vergüenza y culpa por tercería, sin pertenecer a su propia estructura de personalidad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Vigorexia como TCA liminal y debate culturismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Estatus liminal de la vigorexia (no estrictamente TCA porque el trastorno está en la dinámica de ejercicio compulsivo, no en la ingesta) y articulación de la falsa jerarquía cultural del esfuerzo (el culturismo disciplinado no está en escalón superior; cuando es compulsivo, es neurosis). Material para integrar en trastornos-conducta-alimentaria-en-proxy como sub-pieza",
+      "quote_evidence": "La vigorexia no es estrictamente un TCA porque el trastorno no está en la ingesta anómala sino en la dinámica de ejercicio compulsivo para hipertrofia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tipología clínica de TCAs: anorexia, bulimia, evitativo/restrictivo, atracón",
+      "reason_code": "passing_mention",
+      "reason_detail": "Catálogo clínico con criterios diagnósticos diferenciales (IMC, núcleo obsesivo, presencia/ausencia de dismorfia corporal, vómito como autoengaño vs hack deliberado, dato epidemiológico de que el atracón es el TCA más abundante y más igualado entre sexos). Material que constituye el cuerpo principal de trastornos-conducta-alimentaria-en-proxy",
+      "quote_evidence": "La única diferencia diagnóstica actual es el IMC: si es bajo, anorexia; si es normal o superior, bulimia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Diferencias cerebrales entre sexos en los TCAs",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza neurobiológica del speaker: cerebro femenino más vulnerable a anorexia/bulimia por razones no solo culturales; varones tienden a vigorexia o atracón. Sub-pieza del cuadro epidemiológico en trastornos-conducta-alimentaria-en-proxy",
+      "quote_evidence": "El cerebro femenino es mucho más vulnerable a anorexia y bulimia nerviosa; no es solo cuestión cultural",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Dismorfia corporal en anorexia como casi-psicótica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización clínica del speaker: la dismorfia anoréxica es 'lo más parecido a la psicosis sin serlo'. Sub-pieza del cuadro de la anorexia en trastornos-conducta-alimentaria-en-proxy",
+      "quote_evidence": "La dismorfia corporal de la anorexia es lo más parecido a la psicosis sin serlo: casi indistinguible de procesos alucinatorios",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trastorno narcisista como ego distócico desmedido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación de la taxonomía del ego al trastorno narcisista: el narcisista cree merecer mucho más de lo que tiene; ego y autoestima se retroalimentan en el cuadro. Material para integrar en yo-ego-autoestima-en-proxy como caso aplicado, con wikilink a herida-narcisista-en-proxy",
+      "quote_evidence": "El narcisista cree que merece muchísimo más de lo que verdaderamente tiene",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trastorno histriónico: ego ambivalente y autoestima confabulada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación de la taxonomía del ego al trastorno histriónico: ego ambivalente (oscila entre merecer/no merecer) compensado con autoestima confabulada (sobrestima vínculos y capacidades). Criterio diagnóstico clave: cree que vínculos son más intensos de lo real. Sub-pieza para yo-ego-autoestima-en-proxy",
+      "quote_evidence": "Criterio diagnóstico clave: cree que las relaciones y vínculos son más intensos de lo que son en realidad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trastorno evitativo de la personalidad sin núcleo egoico definido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza límite de la taxonomía: el evitativo rechaza el vínculo y por tanto no construye ego ni autoestima de forma definida (ambas dependen de la relación con otros). Material para integrar en yo-ego-autoestima-en-proxy como contraejemplo del marco",
+      "quote_evidence": "El ego y la autoestima no se construyen bien porque dependen de la relación con otros, que el evitativo rechaza",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Psicopatía vs trastorno antisocial de la personalidad: distinción operativa",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bloque sustantivo (~7 min) sobre la distinción psicopatía (síndrome psiquiátrico, rasgo cognitivo continuo) vs trastorno antisocial (trastorno de personalidad), con varias tesis canal-específicas: (a) existen psicópatas integrados no antisociales y trastornos antisociales sin síndrome psicopático; (b) el síndrome psicopático no se puede curar ni tratar, solo contener; (c) se puede adquirir conducta psicopática sustituyendo sistemáticamente la empatía por ira o desprecio durante suficiente tiempo. La pieza (c) conecta con la mención previa de 'magia negra como provocación de psicopatía' (vídeo Progresterona). Brevedad desaconseja promoción autónoma; vigilar si reaparece como tesis sostenida sobre psicopatología adquirida",
+      "quote_evidence": "Se puede adquirir conducta psicopática sustituyendo sistemáticamente la empatía por ira o desprecio durante suficiente tiempo",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis recurrente del canal sobre psicopatología adquirida — candidato a concepto autónomo si se desarrolla con monográfico",
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Manía vs obsesión vs compulsión (distinciones operativas)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tres definiciones operativas breves al cierre del directo: manía (euforia patológica con desinhibición), obsesión (pensamiento que no cesa), compulsión (repetición ineludible). Pieza pedagógica clínica sin desarrollo enciclopédico autónomo; encaja como apéndice taxonómico en trastornos-conducta-alimentaria-en-proxy o en yo-ego-autoestima-en-proxy",
+      "quote_evidence": "Manía: euforia patológica, falta de inhibición que puede saltarse límites sociales y personales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Diátesis de los TCAs (causas-consecuencias del cuadro)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Catálogo de rasgos predisposicionales y consecuenciales del cuadro: no aceptación, percepción baja de control, baja habilidad social, dependencia afectiva, perfeccionismo, autocrítica, baja autoestima, personalidad depresiva. El speaker articula que pertenecen al neuroticismo nuclear de la adolescencia y trastornos de personalidad inmaduros. Sub-pieza para trastornos-conducta-alimentaria-en-proxy",
+      "quote_evidence": "Todo este conjunto pertenece al neuroticismo nuclear de la adolescencia y los trastornos de personalidad inmaduros",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 2,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

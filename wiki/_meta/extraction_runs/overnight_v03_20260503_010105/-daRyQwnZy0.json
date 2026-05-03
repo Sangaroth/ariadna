@@ -1,0 +1,237 @@
+{
+  "video_id": "-daRyQwnZy0",
+  "video_title": "Psicología 101: Proyección, ideología y teoría de la mente",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "identificación y proyección como dinámicas + clave parental completa del diagrama (ejes padre/madre, ideas-fuerza, eutaxia/distaxia)",
+      "canonical_guess": "diagrama-proxy-clave-parental-y-proyeccion",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 22,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La preferencia política es una dinámica de identificación de ideas del deber ser, fantasías sobre cómo debería organizarse la sociedad"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Eje vertical (padre): locus interno de control (el mal está dentro, preferencia por jerarquía e igualdad) vs. locus externo (el mal está fuera, cada uno se protege a sí mismo)"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Bloque sustantivo (~22 min) que extiende diagrama-de-proxy con cuatro piezas no documentadas: (1) definiciones operativas separadas de identificación (preferencia interior por representar/atender unos elementos sobre otros) y proyección (atribuir estados internos al exterior); (2) preferencia política como dinámica de identificación con ideas-fuerza (democracia, dictadura, orden, anarquía como creaciones representacionales orientadas a satisfacer los afectos del individuo); (3) clave parental completa: eje vertical = padre (locus interno/externo de control, 'el mal está dentro/fuera'), refinamiento del eje vertical existente (jerarquía/anti-jerarquía); eje horizontal = madre con nueva precisión epistemológica (verdad en conciencia interior vs verdad en cosas externas); ausencia de padre → conducta antisocial; (4) eutaxia/distaxia (Bueno) como criterio de viabilidad de la personalidad replicada en sociedad: la antisocial es totalmente distáxica, la cordial es eutáxica. Material que pertenece nativamente a diagrama-de-proxy (extiende sus secciones existentes sobre eje horizontal madre tirana/ausente, justicia social como identificación proyectiva, sustrato genético, etc.)",
+      "quote_evidence": "Eje vertical (padre): locus interno de control (el mal está dentro, preferencia por jerarquía e igualdad) vs. locus externo (el mal está fuera, cada uno se protege a sí mismo)"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "lo que permite construir tanto victimismos por terceros como auto-percepciones de privilegio inmerecido.",
+      "content_proposed": "\n\n## Identificación y proyección como dinámicas básicas\n\nUn directo de Psicología 101 (enero 2026) articula con definiciones operativas separadas las dos dinámicas que la sección anterior asume y aplica al cuadro de justicia social. Identificación y proyección son procesos psíquicos distintos aunque se acoplen funcionalmente.\n\n> \"Identificación es el proceso por el que el interior prefiere representar y atender unos elementos del mundo sobre otros\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:02:35)](https://youtu.be/-daRyQwnZy0?t=3755)\n\n> \"Proyección es atribuir estados internos propios al exterior como si provinieran de la realidad externa\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:02:35)](https://youtu.be/-daRyQwnZy0?t=3755)\n\n> \"Una persona con TOC identifica importancias que una persona sin TOC no representa: la personalidad determina qué se percibe\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:02:35)](https://youtu.be/-daRyQwnZy0?t=3755)\n\nLa precisión refina el aparato del diagrama: la posición no determina solo la respuesta moral (lo ya documentado vía razonamiento motivado) sino también qué del mundo es seleccionado para representación consciente. Dos personas en cuadrantes opuestos no discrepan principalmente sobre los mismos hechos — discrepan sobre qué hechos cuentan como relevantes; la selección operada por identificación precede al juicio.\n\n### Preferencia política como identificación con ideas-fuerza\n\nLa aplicación al diagrama enuncia la mecánica nuclear de la posición ideológica:\n\n> \"La preferencia política es una dinámica de identificación de ideas del deber ser, fantasías sobre cómo debería organizarse la sociedad\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:06:08)](https://youtu.be/-daRyQwnZy0?t=3968)\n\n> \"Estas ideas fuerza (democracia, dictadura, orden, anarquía) son creaciones representacionales orientadas a satisfacer los afectos del individuo\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:06:08)](https://youtu.be/-daRyQwnZy0?t=3968)\n\n> \"Aunque el ambiente influye, la estructura genética siempre prevalece: sin los genes adecuados, una vivencia no marca igual\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:06:08)](https://youtu.be/-daRyQwnZy0?t=3968)\n\nLa cláusula refuerza el sustrato genético del diagrama articulado en otras secciones: las ideas-fuerza políticas no se eligen por argumento sino que se identifican como satisfactores de configuraciones afectivas previas; el ambiente puede activar o reprimir pero no inscribir contra la genética.\n\n## Clave parental completa: eje vertical como padre, eje horizontal como madre\n\nLa sección 'Eje horizontal como dipolo madre tirana / madre ausente' documenta la cifra materna del eje horizontal. Este directo cierra el cuadro al articular el eje vertical en clave del padre y precisa epistemológicamente el horizontal.\n\n> \"Eje vertical (padre): locus interno de control (el mal está dentro, preferencia por jerarquía e igualdad) vs. locus externo (el mal está fuera, cada uno se protege a sí mismo)\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:13:47)](https://youtu.be/-daRyQwnZy0?t=4427)\n\n> \"Eje horizontal (madre): la verdad depende de la conciencia interior (derecha, ideas morales simples y vivenciales) vs. la verdad está en las cosas externas (izquierda, sistemas filosóficos complejos)\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:13:47)](https://youtu.be/-daRyQwnZy0?t=4427)\n\nLa pieza completa el cifrado parental del modelo: el eje vertical opera como **clave del padre** (la posición frente a la jerarquía es la posición frente a la autoridad paterna interiorizada — locus interno = el padre habita dentro como ley moral interiorizada; locus externo = el padre está fuera como amenaza de la que protegerse). El eje horizontal — ya cifrado como madre — recibe aquí una precisión epistemológica: no es solo madre tirana/ausente como respuesta afectiva, es también dónde se sitúa la verdad — interior (vivencia) vs exterior (sistema). La derecha tiende a sistemas morales simples y vivenciales (la verdad se encuentra en la conciencia que el sujeto tiene); la izquierda a sistemas filosóficos complejos (la verdad se encuentra en las cosas, en estructuras que el sujeto debe descifrar).\n\nLa consecuencia clínica más importante de la cifra paterna del eje vertical:\n\n> \"La ausencia de padre aumenta exponencialmente la probabilidad de conducta antisocial: incapacidad de integrar normas de ningún tipo\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:13:47)](https://youtu.be/-daRyQwnZy0?t=4427)\n\nSin la operación arquetípica del padre que interioriza la norma como propia, ninguno de los dos polos del eje vertical se constituye establemente — el sujeto queda fuera del aparato (no puede integrar norma interiorizada ni respetar autoridad externa), lo que se manifiesta clínicamente como el cuadro antisocial documentado en herida-narcisista-en-proxy en su frontera con la sociopatía.\n\n## Eutaxia y distaxia: viabilidad de personalidades replicadas\n\nUna pieza adicional: el canal recoge el par eutaxia/distaxia de [[bueno-gustavo|Gustavo Bueno]] como criterio para evaluar la viabilidad de las posiciones del diagrama si se replicaran como personalidad social mayoritaria.\n\n> \"Si se replicara una personalidad en toda la sociedad, algunas llevarían a la autodestrucción (distaxia) y otras al mantenimiento (eutaxia)\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:20:51)](https://youtu.be/-daRyQwnZy0?t=4851)\n\n> \"La personalidad antisocial es completamente distáxica: gana el más fuerte, pero uno solo no puede sobrevivir\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:20:51)](https://youtu.be/-daRyQwnZy0?t=4851)\n\n> \"La personalidad cordial es eutáxica: permite la convivencia y permanencia del grupo\"\n→ [Psicología 101: Proyección, ideología y teoría de la mente (1:20:51)](https://youtu.be/-daRyQwnZy0?t=4851)\n\nLa pieza añade un criterio normativo al modelo descriptivo del diagrama: la posición no solo describe configuración afectiva-genética sino que admite evaluación funcional respecto a la viabilidad social de su universalización. La antisocial es estructuralmente distáxica (la posición misma destruye las condiciones de posibilidad de su sostenimiento si se generaliza); las posiciones que tematizan reciprocidad y cooperación son eutáxicas. La cláusula es coherente con la observación previa sobre el cuadro antisocial como caso límite de las patologías paterno-egoicas: no solo es clínicamente patológico, es estructuralmente inviable como matriz social.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "-daRyQwnZy0",
+          "timestamp_seconds": 3755,
+          "cite_markdown": "[Psicología 101: Proyección, ideología y teoría de la mente (1:02:35)](https://youtu.be/-daRyQwnZy0?t=3755)"
+        },
+        {
+          "video_id": "-daRyQwnZy0",
+          "timestamp_seconds": 3968,
+          "cite_markdown": "[Psicología 101: Proyección, ideología y teoría de la mente (1:06:08)](https://youtu.be/-daRyQwnZy0?t=3968)"
+        },
+        {
+          "video_id": "-daRyQwnZy0",
+          "timestamp_seconds": 4427,
+          "cite_markdown": "[Psicología 101: Proyección, ideología y teoría de la mente (1:13:47)](https://youtu.be/-daRyQwnZy0?t=4427)"
+        },
+        {
+          "video_id": "-daRyQwnZy0",
+          "timestamp_seconds": 4851,
+          "cite_markdown": "[Psicología 101: Proyección, ideología y teoría de la mente (1:20:51)](https://youtu.be/-daRyQwnZy0?t=4851)"
+        }
+      ],
+      "rationale": "Update sustantivo a página existente. Material genuinamente nuevo respecto al cuerpo leído: (a) definiciones operativas separadas de identificación y proyección que la sección 'Justicia social como identificación proyectiva' invoca pero no articula; (b) preferencia política como identificación con ideas-fuerza (concepto canal-articulado adicional); (c) cifra paterna del eje vertical (la página solo tenía la cifra materna del eje horizontal); (d) precisión epistemológica del eje horizontal (verdad interior vs exterior, complementaria a la cifra madre tirana/ausente); (e) ausencia de padre como factor estructural de antisocialidad; (f) eutaxia/distaxia como criterio de viabilidad de la posición replicada. insert_after_passage tras 'Justicia social como identificación proyectiva' es la posición editorial natural: extiende los dos conceptos invocados allí con sus definiciones operativas y con la cifra parental completa antes de la sección 'Sátira bipartidista'",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Metáfora del pensamiento como nube (aire, espadas, ideas)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Apertura pedagógica del directo: por qué los bocadillos de pensamiento tienen forma de nube (aire = intelecto en mitología; alquímicamente vapor de agua). Reflexión etimológico-poética sin desarrollo enciclopédico autónomo",
+      "quote_evidence": "Los bocadillos de pensamiento tienen forma de nube porque mitológicamente el aire se identifica con el intelecto",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Realismo cognitivo: definición (mundo real + interpretación, semiótica cognitiva)",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración pedagógica del marco de realismo-cognitivo ya documentado extensamente. Sin pieza nueva sustantiva",
+      "quote_evidence": "Todo lo que ocurre en el interior mental es un reflejo vinculado al exterior mediante una función de relación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Alostasis como mente en desequilibrio activo permanente; aburrimiento como ansiedad",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración del marco alostático. La pieza 'aburrimiento como señal de ansiedad que empuja a rellenar la falta de estímulos; nunca estamos en estado neutro' es un matiz pequeño que enriquece alostasis-y-apagon-organico pero brevedad desaconseja update independiente",
+      "quote_evidence": "El aburrimiento es una señal de ansiedad que nos empuja a rellenar la falta de estímulos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Noesis como matriz neuronal y tres clases noéticas (afectiva, imaginaria, gramatical)",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración pedagógica de la axiomática de clases ya articulada en realismo-cognitivo (los tres Q como naturalezas irreducibles de las clases mentales). Pedagogía Psicología 101 sin pieza nueva sustantiva",
+      "quote_evidence": "Todo estado mental se compone de tres tipos de representación: afectiva, imaginaria y gramatical",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Siete sistemas afectivos basales (Panksepp): miedo, pánico, cuidado, sexo, ira, juego, buscar",
+      "reason_code": "already_captured",
+      "reason_detail": "Catálogo afectivo de Panksepp ya documentado en galatea-modelo-protomente. La precisión 'buscar como estado afectivo por defecto + reflejo de orientación' es matiz menor",
+      "quote_evidence": "Buscar es el estado afectivo por defecto: la pulsión de seguir buscando cosas nuevas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Barreras somáticas y conversión afecto → emoción",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción afecto/emoción ya articulada en collective-unconscious ('los afectos son clasificaciones de importancia, no sensaciones corporales'). Reiteración pedagógica con énfasis en las barreras somáticas como traducción",
+      "quote_evidence": "Los afectos se convierten en emociones cuando se traducen somáticamente en sensaciones corporales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "collective-unconscious",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Imaginario: percepción del grafo vs reconstrucción de volumen + sueños como cascadas sin fase predictiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación pedagógica de la diferencia percibir/reconstruir y los sueños como imaginario sin ajuste predictivo. Material que enriquece teoria-del-simbolo-en-proxy o realismo-cognitivo en su sección sobre componente imaginaria",
+      "quote_evidence": "Las ilusiones ópticas demuestran que percibir líneas y reconstruir mentalmente un cubo son procesos distintos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Afectos sin emoción somática: la extrañeza ante lo incoherente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza ilustrativa: el error predictivo (frase gramaticalmente incorrecta) produce un afecto (extrañeza) sin traducción emocional corporal. Lo que coloquialmente llamamos 'instinto' son afectos en el modelo. Sub-pieza menor que enriquece la distinción afecto/emoción",
+      "quote_evidence": "Lo que coloquialmente llamamos instinto son afectos en este modelo teórico",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "collective-unconscious",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lo gramatical y geometría como gramática imaginaria; arte como imaginario afectivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación pedagógica de los registros Q-formal y de los compuestos (geometría = Q-formal sobre Q-imaginaria; arte = Q-imaginaria con Q-afectiva). Material que enriquece realismo-cognitivo en su sección sobre los tres Q y sobre ambiguación",
+      "quote_evidence": "La geometría es gramática imaginaria: una gramática de la imagen regida por clases gramaticales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ambiguación entre clases mentales (diagramas de Venn, relaciones simultáneamente Q-multiplicadas)",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración pedagógica de la operación de ambiguación ya articulada en realismo-cognitivo (sección 'Mónadas universales objetivas y ambiguación entre los tres Q'). Sin pieza nueva sustantiva",
+      "quote_evidence": "Ambiguación es el proceso de representar clases mentales de un tipo mediante clases de otro tipo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Grados de explicitud: consciente = lo fácil de explicitar; sonido como señal evolutiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción pedagógica consciente/inconsciente reformulada como gradación de explicitud (lenguaje como caso paradigmático del polo explícito). Más una breve nota filogenética del sonido como señal imaginaria primero, afectiva después. Material que enriquece teoria-del-simbolo-en-proxy",
+      "quote_evidence": "Consciente equivale a lo fácil de explicitar; inconsciente equivale a lo implícito que opera sin mentalización",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rechazo de la metáfora de memoria como almacén; memoria como resíntesis y patrones probables",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración de la tesis ya articulada en realismo-cognitivo (sección 'La clase tiempo: memoria como gradiente de degeneración' y 'El nodo de memoria no es almacén' en galatea-modelo-protomente). Sin pieza nueva sustantiva",
+      "quote_evidence": "El realismo cognitivo rechaza el concepto de memoria porque implica un almacén interno que no existe",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tres sistemas filogenéticos de memoria: procedimental, episódico, semántico",
+      "reason_code": "already_captured",
+      "reason_detail": "Tipología filogenética estándar (insectos/reptiles tienen procedimental; mamíferos añaden episódico; simios y humanos añaden semántico) ya documentada en realismo-cognitivo y teoria-del-simbolo-en-proxy",
+      "quote_evidence": "Sistema procedimental: representa cómo se hacen las cosas, lo tienen insectos y reptiles, es el más antiguo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Escala evolutiva de los sistemas afectivos (babosa → reptil → mamífero inferior/superior)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Catálogo evolutivo estándar reformulado pedagógicamente. Reitera la reducción filogenética articulada en galatea-modelo-protomente",
+      "quote_evidence": "Las babosas tienen tres valencias: normal, alerta y hambre, sin percepción de luz ni volumen",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Función propia teleosemántica de Ruth Millikan: clases mentales como representaciones del entorno para la alostasis",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración del marco teleosemántico ya articulado en realismo-cognitivo. La precisión 'función propia se define genéticamente; función impropia es cómo se aplica en el día a día' es matiz operativo menor",
+      "quote_evidence": "La función propia según Ruth Millikan es aquella que hace que la noesis represente el entorno para la alostasis activa",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

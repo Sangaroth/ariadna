@@ -1,0 +1,320 @@
+{
+  "video_id": "ucOt-vQZ4Qw",
+  "video_title": "Proxy T4, 4x01: \"Piloto\"",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "adherencia ideológica como mecanismo psicológico",
+      "canonical_guess": "adherencia-ideologica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 9,
+      "framing_marks": [
+        {
+          "mark_type": "framing_mark",
+          "quote_evidence": "La posición política es adherencia: nos agregamos a grupos cuya estructura dialéctica encaja con nuestra personalidad"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los insultos recibidos de seguidores de derechas son idénticos en estructura a los de progres ofendidos"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Speaker articula 'adherencia' como mecanismo subyacente a la ubicación en el diagrama-de-proxy: la posición no se elige por argumentación sino por encaje afectivo entre estructura del grupo y personalidad. Acompaña la observación empírica de simetría reactiva entre cuadrantes (insultos estructuralmente idénticos desde la disonancia cognitiva). Pieza que enriquece diagrama-de-proxy en su flanco motivacional, no merece concepto autónomo: opera como aclaración del 'cómo' del modelo ya existente",
+      "quote_evidence": "La posición política es adherencia: nos agregamos a grupos cuya estructura dialéctica encaja con nuestra personalidad"
+    },
+    {
+      "surface_form": "cabezonería como cuadro de tres componentes (baja apertura + obsesividad + ego/herida narcisista)",
+      "canonical_guess": "cabezoneria-tres-componentes",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "framing_mark",
+          "quote_evidence": "Baja apertura a la experiencia (openness to experience en Big Five) produce rigidez cognitiva"
+        },
+        {
+          "mark_type": "framing_mark",
+          "quote_evidence": "El ego y la herida narcisista impiden abandonar una idea vinculada al yo"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Speaker articula tipología propia con tres componentes (Big Five low openness + obsesividad + herida narcisista) más distinción operativa frente a impulsividad. La pieza herida-narcisista del cuadro es nueva angulación cognitiva (no relacional) del concepto ya documentado en herida-narcisista-en-proxy. Brevedad (4 min) y carácter de añadido a página existente desaconsejan promoción autónoma; si reaparece como tipología completa puede consolidarse",
+      "quote_evidence": "Baja apertura a la experiencia (openness to experience en Big Five) produce rigidez cognitiva"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La consecuencia operativa para el diagrama: ningún cuadrante puede cumplir su promesa, lo que explica la rotación pendular de la política contemporánea entre las cuatro posiciones sin estabilización.",
+      "content_proposed": "\n\n## Adherencia ideológica y simetría reactiva entre cuadrantes\n\nEn un directo posterior el canal añade el mecanismo psicológico subyacente a la ubicación en el diagrama: la posición política no se elige por argumentación sino por **adherencia** — el sujeto se agrega a grupos cuya estructura dialéctica encaja con su personalidad y le permite manifestar la neurosis o tramitar la catarsis.\n\n> \"La gente apoya ideas porque les facilitan la catarsis o la manifestación de su neurosis\"\n→ [Proxy T4, 4x01 \"Piloto\" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)\n\n> \"La posición política es adherencia: nos agregamos a grupos cuya estructura dialéctica encaja con nuestra personalidad\"\n→ [Proxy T4, 4x01 \"Piloto\" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)\n\nLa consecuencia operativa es la **simetría reactiva entre cuadrantes** que el canal observa empíricamente: cuando se activa la disonancia cognitiva, la respuesta agresiva carece de signo ideológico distintivo — los insultos recibidos desde un cuadrante son estructuralmente idénticos a los del cuadrante opuesto. La forma de la reacción depende del componente afectivo activado, no del contenido doctrinal.\n\n> \"Los insultos recibidos de seguidores de derechas son idénticos en estructura a los de progres ofendidos\"\n→ [Proxy T4, 4x01 \"Piloto\" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)\n\n> \"No hay diferencia funcional entre facha-francopantanos y progres cuando reaccionan desde la disonancia cognitiva\"\n→ [Proxy T4, 4x01 \"Piloto\" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)\n\nLa pieza completa el aparato del diagrama por su flanco motivacional: las dos asimetrías neuropsicológicas que clasifican posiciones (jerarquía/anti-jerarquía y fundamentalismo/relativismo) operan como atractor afectivo del que la persona cuelga su identidad ideológica; la disonancia cognitiva — cuando esa identidad se ve amenazada — produce respuestas defensivas estructuralmente uniformes a través del eje político, lo que confirma el sustrato compartido de la mecánica de razonamiento motivado ya documentada en otras secciones. La adherencia opera además como complemento al marketing implícito articulado en [[consumismo-critica]]: el cuadrante funciona como pre-identidad a la que la doctrina se vincula por reconocimiento, no por persuasión.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "consumismo-critica"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ucOt-vQZ4Qw",
+          "timestamp_seconds": 2595,
+          "cite_markdown": "[Proxy T4, 4x01 \"Piloto\" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído. La página documenta la obediencia simétrica ('liberales tan obedientes como conservadores ante autoridades distintas') pero NO articula el mecanismo motivacional subyacente como adherencia: nadie elige posición — se cuelga de un atractor afectivo. La simetría reactiva en disonancia (insultos estructuralmente idénticos entre cuadrantes opuestos) es observación nueva y refuerza el sustrato compartido de la respuesta moral. insert_after_passage tras 'Sustrato genético, clases cognitivas y conflicto interno' es la posición editorial natural: encadena con la rotación pendular y abre el flanco que la sección siguiente ('Herencia genética y rebeldía') desarrolla en clave heredada",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Si insiste en señalar fracaso, soledad o falta de formación, esos son sus puntos de fractura — proyectados sobre el otro precisamente porque no puede sostenerlos como propios.",
+      "content_proposed": "\n\n## Cabezonería como cuadro tipológico: tres componentes\n\nEn un directo posterior el canal articula la cabezonería como cuadro psicológico estructurado por tres componentes simultáneos, donde la herida narcisista figura como una pieza junto al rasgo de personalidad y la dimensión obsesiva.\n\n> \"Baja apertura a la experiencia (openness to experience en Big Five) produce rigidez cognitiva\"\n→ [Proxy T4, 4x01 \"Piloto\" (52:50)](https://youtu.be/ucOt-vQZ4Qw?t=3170)\n\n> \"La obsesividad genera representaciones mentales de las que la persona no puede librarse\"\n→ [Proxy T4, 4x01 \"Piloto\" (52:50)](https://youtu.be/ucOt-vQZ4Qw?t=3170)\n\n> \"El ego y la herida narcisista impiden abandonar una idea vinculada al yo\"\n→ [Proxy T4, 4x01 \"Piloto\" (52:50)](https://youtu.be/ucOt-vQZ4Qw?t=3170)\n\nLa pieza herida-narcisista del cuadro opera en plano cognitivo: la idea defendida queda anudada al yo y abandonarla equivale a una pérdida narcisista. Es la versión intelectual del mecanismo de deuda no saldable que la página articula en plano relacional — el rencor con intereses opera aquí no como demanda de reparación al otro sino como blindaje de la posición propia. La distinción frente a la impulsividad cierra el cuadro:\n\n> \"La impulsividad es diferente de la cabezonería: es pagar un calentón con el primero que pase\"\n→ [Proxy T4, 4x01 \"Piloto\" (52:50)](https://youtu.be/ucOt-vQZ4Qw?t=3170)\n\nLa cabezonería es persistencia rígida ligada al yo; la impulsividad es descarga afectiva sin objeto fijo. La pieza añade al cuadro clínico una manifestación cognitivo-rigidizadora del narcisismo herido — junto a la transferencia hacia el acosador y la colusión negativa de la víctima ya documentadas, queda una tercera modalidad: el blindaje intelectual de la posición propia como propiedad del yo.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "ucOt-vQZ4Qw",
+          "timestamp_seconds": 3170,
+          "cite_markdown": "[Proxy T4, 4x01 \"Piloto\" (52:50)](https://youtu.be/ucOt-vQZ4Qw?t=3170)"
+        }
+      ],
+      "rationale": "Material nuevo respecto al cuerpo leído. La página articula la herida narcisista en plano relacional (transferencia al acosador, colusión negativa, proyección pura) y como cuadro de origen paterno con frontera con sociopatía, pero NO documenta su manifestación cognitivo-rigidizadora como blindaje de posiciones intelectuales. El cuadro de tres componentes (baja apertura + obsesividad + ego/herida) es tipología propia del canal donde la herida figura como pieza explícita; añade modalidad cognitiva al repertorio relacional ya documentado. insert_after_passage tras 'La proyección pura como mecánica del acosador' (último subsection del bloque 'Origen paterno y frontera con la sociopatía') es la posición natural: extiende el catálogo de manifestaciones del cuadro antes de Lagunas",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Vuelta de vacaciones, planes T4, segundo canal, Plan B, libro nuevo, podcast Tolkien para patronos",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncios de agenda y planes editoriales del canal (visitas, libro ampliado, decisión de no abrir segundo canal, emisión desde otro lugar 3-20 feb). Sin contenido temático",
+      "quote_evidence": "Proxy anuncia el primer stream de 2025, día de Reyes, con voz de catarrado tras las fiestas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Agenda de contenidos: Nosferatu, psicología 101, maratones de estudio de 8h",
+      "reason_code": "meta_canal",
+      "reason_detail": "Plan editorial: psicología 101 sobre hipocampo, directos especiales de 8h estudiando en directo, temas previstos (Tolkien, Lovecraft, axiomática afectiva, ontología de objetos, Gödel, religiones). Anuncio de futuras producciones, no contenido sustantivo en este vídeo",
+      "quote_evidence": "Mañana psicología 101 sobre el hipocampo, meditación e integración sensorial y cognitiva",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lecturas pendientes: Gómez de Liaño, Fortunata y Jacinta, Bueno (metafísica presocrática), Maturana/Varela (El árbol del conocimiento)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Speaker enumera su pila de lectura propia. Cuatro libros nombrados como 'lecturas pendientes' sin desarrollo aplicado. 'El árbol del conocimiento' de Maturana/Varela toca página existente (maturana-humberto, donde la importación clave del marco autopoiético ya está articulada); 'metafísica presocrática' de Bueno toca bueno-gustavo. Las otras dos (Gómez de Liaño, Galdós) no tienen página y no merecen recommended_reference porque no están propuestas como referencia bibliográfica para la audiencia sino como reading list privada del speaker",
+      "quote_evidence": "Lecturas pendientes: El círculo de la sabiduría de Gómez de Liaño, Fortunata y Jacinta, metafísica presocrática de Gustavo Bueno, El árbol del conocimiento de Maturana y Varela",
+      "review_priority": "medium",
+      "review_priority_reason": "vigilar — cuando el speaker incorpore estas lecturas a su análisis explícito merecerán enriquecer respectivas páginas",
+      "enriches_concept": "maturana-humberto",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Polémica Twitter caso Charlene Downes (kebab humano)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota de actualidad twittera que sirve como detonante de la articulación posterior sobre cámaras de eco y adherencia ideológica. El caso en sí es leyenda urbana sin sustento judicial; sin valor enciclopédico autónomo",
+      "quote_evidence": "Un tuitero afirmó que un pakistaní confesó en juicio haber descuartizado a una niña para venderla como kebab, pero no hay fuente que lo confirme",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Polémica Lalachus / estampita Sagrado Corazón / querella Hazte Oír",
+      "reason_code": "political_news",
+      "reason_detail": "Caso coyuntural de actualidad mediática (Campanadas RTVE, querella por ofensa a sentimientos religiosos). El speaker opina sobre el caso pero no eleva la pieza a estructura propia más allá de las articulaciones genéricas (humor vs mofa, asimetría cultural) que ya están cubiertas en woke-narrativa-postmoderna-moral y sofisma-estetico",
+      "quote_evidence": "La Lalachus mostró una estampita con la cara de la vaquilla del Grand Prix en lugar de Jesús como homenaje a la televisión pública",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Distinción humor / mofa y asimetría legal cristianismo-LGTB",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación filosófica del speaker sobre la frontera del humor: 'el humor que necesita humillar para funcionar no es humor, es mofa'. Pieza interesante con marco aplicado a la asimetría legal del humor protegido. Sustantivamente próxima a sofisma-estetico (humillación como performance moral inversa) y a woke-narrativa-postmoderna-moral (descompensación cultural que protege identidades). Brevedad (~7 min) y carácter de aplicación a actualidad coyuntural desaconsejan promoción autónoma; si la distinción reaparece como categoría propia podría consolidarse",
+      "quote_evidence": "El humor que necesita humillar a alguien para funcionar no es humor, es mofa",
+      "review_priority": "medium",
+      "review_priority_reason": "distinción articulada con marco propio — vigilar recurrencia",
+      "enriches_concept": "sofisma-estetico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Católicos como diana cultural y asimetría con el islam (rebeldía contra el padre)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación del marco psicoanalítico (rebeldía contra el padre como mecanismo de la blasfemia cristiana, ausente frente al islam) a fenómeno cultural contemporáneo. Pieza con marco propio aplicado pero anclada en actualidad coyuntural (Mongolia, Mahoma); enriquece woke-narrativa-postmoderna-moral en su flanco asimetría protectora",
+      "quote_evidence": "Meterse con el cristianismo es \"rebeldía contra el padre\", meterse con el islam no es subversión sino otra cosa",
+      "review_priority": "medium",
+      "review_priority_reason": "marco psicoanalítico aplicado a fenómeno cultural recurrente — candidato a enriquecer woke o crear concepto sobre asimetría cultural",
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Radicalización simétrica neocon-progres y espiral del victimismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis cultural articulada: los conservadores adoptan herramientas progres ante incumplimiento sistemático del pacto cultural. Pieza coherente con el aparato del canal (simetría reactiva, ego victimista, dialéctica de fuerzas). Se cubre parcialmente vía la sección 'adherencia ideológica + simetría reactiva' que se añade a diagrama-de-proxy en este barrido",
+      "quote_evidence": "Los conservadores están empezando a usar las mismas herramientas que criticaban en los progres",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis cultural recurrente sobre dinámicas de polarización — candidato a concepto si reaparece con desarrollo estructural",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Positivación: convertir límites morales difusos en normas materiales concretas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Speaker introduce 'positivar' como concepto metodológico-jurídico aplicado al debate sobre la ofensa punible (caso aborto como referencia). Articulación breve pero con definición operativa. Concepto de inspiración Bueno-style; podría enriquecer bueno-gustavo o ser concepto autónomo si reaparece. Brevedad (~4 min) en este vídeo desaconseja promoción inmediata",
+      "quote_evidence": "Positivar es convertir límites morales difusos en normas materiales concretas, como ocurre con el aborto",
+      "review_priority": "medium",
+      "review_priority_reason": "neologismo metodológico del canal con potencial — vigilar recurrencia",
+      "enriches_concept": "bueno-gustavo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pacto cultural recíproco y dialéctica de fuerzas tras su ruptura",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis político-cultural articulada: los principios existen como pacto recíproco; cuando una parte incumple sistemáticamente la otra pierde la motivación; al final queda dialéctica de fuerzas pura. Marco propio del canal aplicado pero brevemente (~4 min). Si se desarrolla en otros vídeos como tesis sostenida puede merecer concepto",
+      "quote_evidence": "Los principios existen como pacto recíproco: yo cumplo esto a cambio de que tú lo cumplas también",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis estructural sobre desestabilización del pacto cultural — vigilar",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Posición liberal ante la polarización (Marta)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Marta articula posición liberal: no querer que gane el más fuerte de ningún bando, miedo a la radicalización simétrica. Marco político personal del coanfitriona, sin desarrollo enciclopédico autónomo",
+      "quote_evidence": "Marta se identifica como liberal que no quiere que gane el más fuerte de ningún bando",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pendientes resbaladizas: caso Gran Bretaña y libertad de expresión",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación del marco 'pendiente resbaladiza' (ya articulado en woke-narrativa-postmoderna-moral) a caso británico de jihad/población autóctona. Argumento coyuntural político con marco prestado, no añade tesis estructural nueva al aparato del canal",
+      "quote_evidence": "El \"prohibido prohibir\" solo dilata el momento en que un bando se impone totalmente sobre los demás",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a divulgación TDAH: diagramas Venn y síntomas no patognomónicos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica metodológica a divulgación psicopatológica popular. Speaker articula que los diagramas de Venn clínicos requieren ítems patognomónicos, no genéricos. Pieza metodológica con base clínica sólida pero sin promover concepto autónomo. Mecanismo análogo al sofisma estético en su flanco cientificista (invocar formas científicas sin sustancia)",
+      "quote_evidence": "Para que un diagrama de Venn clínico tenga sentido, los ítems deben ser patognomónicos o exclusivos de cada condición",
+      "review_priority": "medium",
+      "review_priority_reason": "crítica metodológica a divulgación pseudo-clínica — patrón recurrente del canal",
+      "enriches_concept": "sofisma-estetico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Síntoma patognomónico: metáfora del puchero y las fabes",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa con metáfora ilustrativa: síntoma patognomónico = sacar fabes del puchero (solo puede ser fabada). Pieza pedagógica del speaker con caso clínico (pseudoalucinaciones auditivas en esquizofrenia) y precisión metodológica (diagnóstico diferencial). Concepto técnico estándar de psicopatología (no neologismo del canal) usado como herramienta — encaja en scope §1.2 'concepto técnico estándar sin marco aplicado distintivo' = passing_mention",
+      "quote_evidence": "Un síntoma patognomónico es como sacar fabes del puchero: solo puede ser fabada",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Espectro autismo-esquizofrenia y filtros atencionales (top-down vs bottom-up)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis técnica articulada con tipología (autismo = fallo filtros top-down, esquizofrenia = fallo filtros bottom-up). Marco neuropsicológico aplicado del canal, brevemente desarrollado (~6 min). Scope §1.2: dominio condicionado (natural.neuroscience) IN si el speaker lo articula como marco propio — aquí lo hace, pero con extensión limitada. Candidato a concepto si reaparece con desarrollo sostenido",
+      "quote_evidence": "Existe una teoría que sitúa autismo y esquizofrenia como extremos opuestos de un mismo espectro",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis neuropsicológica aplicada — candidato a concepto autónomo si se desarrolla",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Notch anuncia sucesor espiritual de Minecraft",
+      "reason_code": "passing_mention",
+      "reason_detail": "Noticia de actualidad ludológica/tecnológica sin marco arquetípico aplicado",
+      "quote_evidence": "Notch anuncia un sucesor espiritual de Minecraft, sin poder usar el nombre por los derechos de Microsoft",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Dimisión de Trudeau como primer ministro de Canadá",
+      "reason_code": "political_news",
+      "reason_detail": "Actualidad política internacional sin elevación a marco estructural. Marta confiesa convencimiento inicial por imagen liberal, anécdota personal sin desarrollo enciclopédico",
+      "quote_evidence": "Trudeau dimite como primer ministro de Canadá tras meses con el parlamento paralizado",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Irene Montero acusa a Guardia Civil de racismo institucional (Reyes Magos pasamontañas)",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Comentario coyuntural sobre figura partidista concreta (ex-ministra Podemos). Anécdota viral sin marco teórico aplicado más allá del señalamiento del absurdo retórico — versión coyuntural del sofisma estético sin elevación estructural",
+      "quote_evidence": "Irene Montero lo calificó de racismo institucional por confundir pasamontañas con personas negras",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Maratones de estudio: formato 8h, lofi, leer Tolkien y Lovecraft (En las montañas de la locura)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de formato y agenda para directos especiales. La lectura íntegra prevista de 'En las montañas de la locura' de Lovecraft sí podrá generar entity_work cuando se ejecute (per scope §2.3 lectura íntegra en directo); aquí solo es anuncio futuro",
+      "quote_evidence": "Se leerá a Tolkien y Lovecraft (En las montañas de la locura completo)",
+      "review_priority": "medium",
+      "review_priority_reason": "vigilar — cuando se ejecute la lectura íntegra de En las montañas de la locura merecerá entity_work",
+      "enriches_concept": "lovecraft-howard",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Proyecto IA neuroimagen: visualización 3D de redes neuronales por tareas cognitivas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anuncio de proyecto de investigación adyacente a Galatea: hardware adquirido con fondos de patronos para entrenar redes neuronales sobre bases de datos de neuroimagen humana (lingüística, funciones ejecutivas, percepción de caras). Distinto de Galatea (simulación de hidra con afectos) en sustrato (humano vs hidra) y enfoque (visualización 3D de activaciones vs simulación encarnada de protomente), pero del mismo programa de investigación computacional del canal. Brevedad y carácter de anuncio en stream casual desaconsejan crear página o actualizar Galatea con contenido conceptualmente distinto",
+      "quote_evidence": "Se dispone de hardware (comprado con fondos de patronos) para entrenar redes neuronales con bases de datos de neuroimagen",
+      "review_priority": "medium",
+      "review_priority_reason": "proyecto de investigación adyacente a Galatea con sustrato distinto — vigilar si se desarrolla como programa propio o como rama de Galatea",
+      "enriches_concept": "galatea-modelo-protomente",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 21,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Entrevista en Slow Sound Podcast (planificada)] reason=meta_canal quote no literal"
+  ]
+}

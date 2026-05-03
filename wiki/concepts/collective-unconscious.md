@@ -223,6 +223,40 @@ Estructura analítica del canal para desplegar el material arquetípico:
 
 El canal sigue a Jung en la **pluralidad de pulsiones primarias** frente al monismo libidinal freudiano.
 
+
+
+## Defensa empírica del inconsciente: trauma reprimido y memorias episódicas latentes
+
+En el directo *Psicoinfluencers* (marzo 2025) el canal articula una defensa empírica del inconsciente contra el negacionismo conductista difuso de la divulgación pop-psicológica, que tiende a equiparar el inconsciente al alma, al horóscopo o a la magia. La precisión clave es categorial: una conducta automática no es inconsciente si el sujeto es consciente al realizarla — confundir consciencia con percepción es el error nuclear de esa equiparación.
+
+> "La divulgadora equipara el inconsciente al alma, el horóscopo o la magia"
+→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
+
+> "Confunde consciencia con percepción: una conducta automática no es inconsciente si eres consciente al realizarla"
+→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
+
+La batería positiva que el speaker invoca como prueba operativa del inconsciente cubre fenómenos clínicos cuya explicación requiere postular contenidos representacionales inaccesibles a la consciencia:
+
+> "Las memorias episódicas latentes (traumas reprimidos que resurgen) demuestran la existencia del inconsciente"
+→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
+
+> "La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente"
+→ [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
+
+El caso paradigmático que el canal articula es un cuadro real de estrés postraumático donde la víctima olvida la agresión y la reconstruye progresivamente:
+
+> "Un caso real de estrés postraumático donde la víctima olvida la agresión y la reconstruye progresivamente"
+→ [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)
+
+> "La información traumática estaba almacenada en algún lugar inaccesible a la conciencia: el inconsciente"
+→ [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)
+
+> "Las asociaciones de segundo grado (coche → guerra → taller) no son simples automatismos conductuales"
+→ [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)
+
+La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en pollos, [[clases-ancestrales]]) un segundo registro de evidencia: si la primera prueba opera por convergencia evolutivo-comparada (estructuras innatas heredadas), esta opera por necesidad explicativa clínica (cuadros que el aparato consciente-percepción no cubre). El conjunto cierra el flanco anti-negacionista: el inconsciente no es metáfora ni anterior espiritualista, es categoría operativa exigida tanto por la psicología comparada como por la clínica del trauma. La crítica sistemática a la divulgación pop-psicológica que niega esta categoría se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva.
+
+
 ## Conexión con otros conceptos
 
 - Contiene a la [[shadow-archetype]] como uno de sus contenidos centrales

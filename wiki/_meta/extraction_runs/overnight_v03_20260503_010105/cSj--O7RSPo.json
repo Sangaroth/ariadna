@@ -1,0 +1,225 @@
+{
+  "video_id": "cSj--O7RSPo",
+  "video_title": "Psicología 101: Materialismo, pensamiento y Enric, de @AdictosalaFilosofía",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "respuesta del realismo cognitivo a la paradoja de Kripke (suma vs kuma): la mente no computa, la noesis es relacional",
+      "canonical_guess": "kripke-respuesta-realismo-cognitivo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "primary",
+      "minutes_estimate": 130,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El realismo cognitivo postula que el pensamiento no es computable"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En la cabeza no ocurre ni suma ni kuma porque la mente no ejecuta funciones, realiza relaciones"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las clases mentales son teleosemánticas y enactivas: provienen de la realidad material porque evolutivamente encajan en ella"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El materialismo no es lo mismo que el fisicalismo: mucha gente confunde \"materia\" con \"cosas que tienen masa\" o son tangibles"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Vídeo monográfico (~130 min) en el que el canal extiende la sección 'Argumento anti-materialista (paradoja de Kripke + hard problem)' de realismo-cognitivo con piezas filosóficamente nucleares no documentadas en el cuerpo actual: (1) distinción operativa materialismo vs fisicalismo (la materia como sometido a las cuatro fuerzas fundamentales, no como mero cuerpo tangible newtoniano); (2) tesis fuerte 'la mente no computa' — la noesis es relacional, no funcional, y por eso ni suma ni kuma se ejecutan en la cabeza; (3) la kuma depende algebraicamente de la suma (objeción interna a Kripke); (4) la calculadora no suma, computa (toda computadora finita es necesariamente kuma); (5) la diferencia entre 1 y 0,9 periódico como caso de identidad matemática vs diferencia imaginaria; (6) el modus ponens como procedimiento experiencial recapitulado, no como regla formal innata; (7) las clases mentales como teleosemánticas y enactivas (Millikan refinada): provienen de la realidad material por encaje evolutivo, lo que conecta pensamiento con materia sin reduccionismo formal. Material que pertenece nativamente a realismo-cognitivo (extiende su sección anti-materialista existente y refina las piezas teleosemánticas ya mencionadas), no merece concepto autónomo: opera como articulación profunda del marco existente",
+      "quote_evidence": "En la cabeza no ocurre ni suma ni kuma porque la mente no ejecuta funciones, realiza relaciones"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El realismo cognitivo es el sustrato epistemológico; Galatea es su articulación formal-computacional.",
+      "content_proposed": "\n\n## Respuesta a Kripke desde el realismo cognitivo: la mente no computa\n\nUn directo monográfico (Psicología 101: Materialismo, pensamiento y Enric, junio 2025) extiende la respuesta del marco a la paradoja de Kripke a partir de la crítica de Enric (canal Adictos a la Filosofía) al materialismo desde el argumento de Ross. La articulación añade piezas filosóficas que la sección 'Argumento anti-materialista' deja implícitas.\n\n### Materialismo vs fisicalismo: la materia como sometido a las cuatro fuerzas\n\nLa pieza preliminar es una distinción operativa que el canal exige a cualquier discusión sobre el materialismo: el materialismo no se reduce al fisicalismo del sentido común (cuerpos con masa sometidos a leyes newtonianas).\n\n> \"El materialismo no es lo mismo que el fisicalismo: mucha gente confunde \\\"materia\\\" con \\\"cosas que tienen masa\\\" o son tangibles\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (06:29)](https://youtu.be/cSj--O7RSPo?t=389)\n\n> \"La definición más estricta de materialismo sería: materia es todo lo sometido a las fuerzas gravitatoria, electromagnética, nuclear fuerte y nuclear débil\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (23:46)](https://youtu.be/cSj--O7RSPo?t=1426)\n\n> \"A nivel cuántico la realidad no es un continuo, hay discontinuidades donde no transcurre tiempo ni hay espacio\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (23:46)](https://youtu.be/cSj--O7RSPo?t=1426)\n\nLa precisión es operativa: cualquier crítica a 'el materialismo' debe nombrar primero a qué materialismo se refiere. La indeterminación cuántica (no todo está sometido a las cuatro fuerzas) ya genera problemas internos al materialismo estricto sin necesidad de invocar la conciencia como límite.\n\n### La paradoja de Kripke: la mente no ejecuta funciones, realiza relaciones\n\nKripke propone una función alternativa, la 'kuma', que coincide con la suma para todos los valores menores a un umbral y luego siempre devuelve 5. Para los valores ya operados, suma y kuma producen resultados idénticos: ningún hecho material puede determinar cuál se está ejecutando. La conclusión de Kripke (y de Enric, siguiendo a Ross): si el pensamiento humano sí determina cuál de las dos funciones ejecuta, entonces el pensamiento no puede ser puramente material.\n\nLa respuesta del realismo cognitivo invierte el planteamiento: no es que el pensamiento sea no-material por determinar la función — es que **el pensamiento no ejecuta funciones en absoluto**.\n\n> \"En la cabeza no ocurre ni suma ni kuma porque la mente no ejecuta funciones, realiza relaciones\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (48:06)](https://youtu.be/cSj--O7RSPo?t=2886)\n\n> \"La función es una abstracción posterior al acto mental; cuando haces 3+5 haces una relación, no aplicas un axioma\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (48:06)](https://youtu.be/cSj--O7RSPo?t=2886)\n\n> \"El realismo cognitivo postula que el pensamiento no es computable\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (48:06)](https://youtu.be/cSj--O7RSPo?t=2886)\n\nLa precisión operativa: cuando el sujeto hace '3+5' en su cabeza no ejecuta un algoritmo, evoca una asociación memoría (sonora o imaginaria) y/o realiza una composición imaginaria. La cabeza no funcionaliza, asocia.\n\n> \"Cuando haces 3+5 en tu cabeza no ejecutas una función sino que repites una asociación, normalmente auditiva o imaginaria\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (1:05:07)](https://youtu.be/cSj--O7RSPo?t=3907)\n\n> \"La cabeza no realiza funciones sino composiciones imaginarias; en la cabeza todo es asociación\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (1:05:07)](https://youtu.be/cSj--O7RSPo?t=3907)\n\n### La calculadora siempre kuma y la trampa interna del experimento\n\nUn corolario operativo: toda calculadora física tiene memoria finita y por tanto un resultado máximo, lo que la convierte estructuralmente en una kuma. La calculadora no realiza funciones matemáticas en sentido fuerte — computa, y la computación es siempre una simulación finita de la función.\n\n> \"Toda calculadora tiene un límite de memoria y por tanto un resultado máximo, así que técnicamente siempre kuma\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (42:01)](https://youtu.be/cSj--O7RSPo?t=2521)\n\n> \"Las calculadoras no hacen funciones matemáticas, hacen computaciones, que son simulaciones de funciones\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (42:01)](https://youtu.be/cSj--O7RSPo?t=2521)\n\nUna trampa interna del experimento de Kripke: matemáticamente la kuma es composición de la suma más un axioma adicional, no una función primitiva independiente.\n\n> \"Matemáticamente la kuma es una composición de la suma más un axioma adicional; no puede existir sin definir primero la suma\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (1:14:45)](https://youtu.be/cSj--O7RSPo?t=4485)\n\nLa asimetría debilita el experimento: las dos funciones no son intercambiables ni independientes, lo que erosiona la indeterminación que el argumento necesita.\n\n### Identidad matemática vs diferencia imaginaria: 1 y 0,9 periódico\n\nEl ejemplo paradigmático de la asimetría entre formal e imaginario: matemáticamente 1 y 0,9 periódico son idénticos (su resta es cero), pero psicológicamente son objetos diferentes — se llega a ellos por procedimientos distintos y pertenecen a conjuntos numéricos diferentes (enteros vs reales).\n\n> \"Matemáticamente 1 y 0,9 periódico son idénticos (su resta es cero), pero psicológicamente son cosas diferentes\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (52:10)](https://youtu.be/cSj--O7RSPo?t=3130)\n\n> \"La diferencia es imaginaria, no formal: en la mente uno evoca una unidad completa y el otro una serie infinita\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (52:10)](https://youtu.be/cSj--O7RSPo?t=3130)\n\nLa pieza confirma operativamente la axiomática Q: la componente imaginaria del pensamiento (Q-imaginaria) opera con objetos cuya identidad mental no coincide con su identidad formal — el grafo escrito no pertenece a ningún conjunto, es solo en la mente donde un número pertenece a una clase.\n\n### Modus ponens como procedimiento experiencial recapitulado\n\nUna pieza estructural sobre la genealogía cognitiva del razonamiento lógico: el modus ponens no es regla formal innata sino recapitulación experiencial de procedimientos causales conocidos.\n\n> \"El modus ponens funciona porque recapitula un procedimiento causal conocido por experiencia física\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (1:58:17)](https://youtu.be/cSj--O7RSPo?t=7097)\n\n> \"\\\"Si A entonces B\\\" es una inferencia lógica solo a posteriori; apriorísticamente es causa-consecuencia experimental\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (1:58:17)](https://youtu.be/cSj--O7RSPo?t=7097)\n\n> \"El córtex prefrontal permite ambiguar la relación mecánica causa-consecuencia hacia una relación entre objetos cualesquiera\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (1:58:17)](https://youtu.be/cSj--O7RSPo?t=7097)\n\nEl operador formal 'si A entonces B' es la versión ambiguada (ver sección 'Mónadas universales y ambiguación entre los tres Q') de la relación procedimental causa-consecuencia que el organismo aprende corporalmente. Lo que en la lógica formal es regla a priori es en la cognición un fósil experiencial generalizado por el córtex prefrontal.\n\n### Clases teleosemánticas y enactivas: noesis desde la materia sin formalismo\n\nLa pieza positiva del marco frente a Kripke/Enric/Ross: el pensamiento proviene de la materia y se relaciona con ella, pero no por correspondencia formal sino por **encaje teleosemántico-enactivo** de las clases noéticas con la realidad material que las ha seleccionado.\n\n> \"Las clases mentales son teleosemánticas y enactivas: provienen de la realidad material porque evolutivamente encajan en ella\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (2:02:22)](https://youtu.be/cSj--O7RSPo?t=7342)\n\n> \"Toda representación mental se puede reducir a clases finitas conformadas por nuestra existencia en una realidad que nos ha definido\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (2:02:22)](https://youtu.be/cSj--O7RSPo?t=7342)\n\n> \"El pensamiento puede identificarse con cosas materiales a través de estas clases, pero no por el argumento del vídeo\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (2:02:22)](https://youtu.be/cSj--O7RSPo?t=7342)\n\nLa pieza cierra la respuesta: el argumento de Ross/Kripke/Enric demuestra (correctamente) que el pensamiento no posee estructura formal determinada — pero esto no refuta el materialismo, **confirma el realismo cognitivo**. La estructura formal es construcción posterior; la noesis opera con clases relacionales que provienen del cuerpo en su entorno y se actualizan por bucles predictivos. La 'irresolución' que el público percibe al final del directo es precisamente eso: el problema no se resuelve dentro del marco materialista clásico, se disuelve al cambiar al marco realista cognitivo donde la categoría 'función ejecutada en la cabeza' simplemente no opera.\n\n> \"En las coordenadas del realismo cognitivo la paradoja no existe: no se ha refutado el materialismo sino que se ha evitado el problema al cambiar de marco\"\n→ [Psicología 101: Materialismo, pensamiento y Enric (2:06:28)](https://youtu.be/cSj--O7RSPo?t=7588)\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 389,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (06:29)](https://youtu.be/cSj--O7RSPo?t=389)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 1426,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (23:46)](https://youtu.be/cSj--O7RSPo?t=1426)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 2521,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (42:01)](https://youtu.be/cSj--O7RSPo?t=2521)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 2886,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (48:06)](https://youtu.be/cSj--O7RSPo?t=2886)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 3130,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (52:10)](https://youtu.be/cSj--O7RSPo?t=3130)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 3907,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (1:05:07)](https://youtu.be/cSj--O7RSPo?t=3907)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 4485,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (1:14:45)](https://youtu.be/cSj--O7RSPo?t=4485)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 7097,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (1:58:17)](https://youtu.be/cSj--O7RSPo?t=7097)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 7342,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (2:02:22)](https://youtu.be/cSj--O7RSPo?t=7342)"
+        },
+        {
+          "video_id": "cSj--O7RSPo",
+          "timestamp_seconds": 7588,
+          "cite_markdown": "[Psicología 101: Materialismo, pensamiento y Enric (2:06:28)](https://youtu.be/cSj--O7RSPo?t=7588)"
+        }
+      ],
+      "rationale": "Update sustantivo a página existente. La sección 'Argumento anti-materialista (paradoja de Kripke + hard problem)' aborda la paradoja de Kripke vía qualia y hard problem (Chalmers), pero NO documenta: (a) la distinción operativa materialismo vs fisicalismo; (b) la respuesta directa al experimento mental de Kripke desde la tesis 'la mente no computa'; (c) la trampa interna del experimento (kuma depende algebraicamente de la suma); (d) el ejemplo 1/0,9 periódico como caso de identidad formal vs diferencia imaginaria; (e) el modus ponens como procedimiento experiencial recapitulado; (f) las clases teleosemánticas-enactivas como respuesta positiva al argumento de Ross. Material genuinamente nuevo y central al marco. insert_after_passage tras la subsección 'Conciencia como simulación representacional + motor SAL' es la posición editorial natural: extiende el bloque anti-materialista con la respuesta articulada al adversario nombrado (Enric / Adictos a la Filosofía) antes de las secciones siguientes sobre arquitectura tripartita ontología/fenomenología/gnoseología",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El argumento del vídeo de Enric: la mente como límite del materialismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recapitulación del argumento del interlocutor (Enric, canal Adictos a la Filosofía, siguiendo a Ross/Kripke): si el materialismo no puede explicar la conciencia, sería sistema filosófico incompleto. El canal lo recoge para responder, no para asumirlo. Material que se integra como contexto en la nueva sección de respuesta a Kripke en realismo-cognitivo",
+      "quote_evidence": "El vídeo plantea que un hecho de la conciencia no es explicable desde la materia, lo cual invalidaría el materialismo como sistema completo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Componente imaginaria del pensamiento: objetos, unidades, abstracciones",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del speaker sobre cómo la unidad '1' responde a una ontología de objetos (botella) mientras '0,9 periódico botellas' es ficción imaginaria; las intuiciones sobre objetos varían según naturaleza numérica atribuida; el grafo escrito no pertenece a ningún conjunto — solo en la mente. Material que se integra en la sub-sección sobre identidad matemática vs diferencia imaginaria del update a realismo-cognitivo",
+      "quote_evidence": "Las intuiciones sobre los objetos son diferentes según la naturaleza numérica que se les atribuya",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "A priori y a posteriori: la suma y la kuma como paradigmas externos al acto mental",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza articulada del speaker: en la mente no ocurre suma ni kuma durante la operación; la clasificación ocurre antes (expectativa) o después (justificación). La mente funciona mediante predicciones — a priori ya sabes si vas a sumar o kumar. Sub-pieza de la respuesta a Kripke integrada en el update a realismo-cognitivo",
+      "quote_evidence": "La calculadora computa y el resultado se clasifica mentalmente, pero la computación no es el pensamiento",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a la solución de Enric: 'soy yo quien suma con la calculadora'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Refutación específica del speaker a la solución de Enric (la persona suma usando la calculadora como herramienta): el sujeto no suma, aprieta botones; la calculadora no es herramienta de sumar sino que computa; el sujeto clasifica el resultado pero no puede obligar a la calculadora a ejecutar una función. Material que se integra como pieza dialéctica en la nueva sección de realismo-cognitivo",
+      "quote_evidence": "Enric concluye que es la persona quien suma usando la calculadora como herramienta, pero Proxy objeta: tú no sumas, aprietas botones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Experimento mental del alienígena: indeterminación entre suma y kuma en seres pensantes",
+      "reason_code": "passing_mention",
+      "reason_detail": "Sub-experimento de Kripke (un alienígena cuya operación estándar fuera la kuma vería la misma calculadora y pensaría que kuma) y respuesta del canal: suma y kuma son ideas diferentes con procesos mentales diferentes; ningún cerebro repite jamás el mismo estado neuronal. Material que se integra como pieza ilustrativa en la nueva sección de realismo-cognitivo",
+      "quote_evidence": "El vídeo argumenta que ningún hecho material puede determinar qué función se ejecuta, ni en máquinas ni en cerebros",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Argumento de Ross contra el materialismo y la estructura formal del pensamiento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recapitulación del argumento de James F. Ross (nada puramente material posee estructura formal determinada; el pensamiento sí; luego el pensamiento no es material) y refutación del canal (el pensamiento tampoco posee estructura formal determinada — '3+5 no es relación formal sino imaginaria y asociativa'). Material integrado en la nueva sección como apertura de la respuesta positiva (clases teleosemánticas)",
+      "quote_evidence": "El argumento concluye que nada puramente material posee estructura formal determinada, pero el pensamiento sí, luego el pensamiento no es material",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La noesis como relación simple: el pensamiento no está 'por encima' de la materia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza nuclear del speaker: cuando haces 3+5 en tu cabeza, haces una relación idéntica a decir 'botella azul' — atribución de propiedad. Operar con abstracciones no significa hacer gramática ni matemáticas; las matemáticas son construcción inferencial, no estructura interna de la mente. Material integrado como tesis nuclear de la nueva sección en realismo-cognitivo",
+      "quote_evidence": "El verbo \"ser\" psicológicamente es una atribución imaginaria, no gramática; operar con abstracciones no significa hacer gramática ni matemáticas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cierto idealismo platónico en Kripke: tomar la parte explícita como el todo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico filosófico del speaker sobre Kripke: ha convertido las matemáticas en una gigantesca idea única, lo que es idealismo platónico encubierto; las matemáticas no son idea monolítica sino construcción inferencial. Sub-pieza de la respuesta a Kripke integrada en el update a realismo-cognitivo",
+      "quote_evidence": "Kripke es parcialmente idealista platónico: ha convertido las matemáticas en una gigantesca idea única",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Sensación de irresolución: esquivar el problema vs resolverlo",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario meta del speaker sobre la respuesta del público: la sensación de final abierto se debe a que el canal mostró que en sus coordenadas el problema no se plantea, no a que dejara la cuestión sin resolver. Comentario sobre la dinámica del directo y la tendencia obsesiva a buscar resoluciones blanco/negro. Sin contenido enciclopédico autónomo",
+      "quote_evidence": "La tendencia a la obsesividad necesita resoluciones; la incompletitud genera ansiedad cuando no hay blanco o negro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Realismo cognitivo unifica el hard problem y el soft problem como un mismo fenómeno",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración de tesis ya documentada en realismo-cognitivo (la conciencia como simulación representacional con motor SAL absorbe el explanatory gap). En este vídeo se reformula como unificación hard/soft problem describible con los mismos términos. Sin pieza nueva sustantiva más allá de la formulación",
+      "quote_evidence": "El realismo cognitivo unifica el hard problem y el soft problem de la conciencia como un mismo fenómeno describible con los mismos términos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

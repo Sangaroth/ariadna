@@ -1,0 +1,290 @@
+{
+  "video_id": "jWxfmiiUuG4",
+  "video_title": "Psicología 101; El cerebro por dentro",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "el yo (self) como construcción metarrepresentativa con sustrato anatómico fronto-parietal",
+      "canonical_guess": "self-metarrepresentativo-anatomia",
+      "page_type": "concept",
+      "domain_primary_guess": "natural.neuroscience",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El self requiere metarrepresentación: sin control prefrontal sobre las ideas del córtex parietal, no hay yo consciente"
+        },
+        {
+          "mark_type": "framing_mark",
+          "quote_evidence": "El yo (self) es genuinamente humano; los animales apenas tienen self y los simios tienen uno comparable al de un bebé"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Speaker articula el sustrato neuroanatómico de la distinción yo/self que la página yo-ego-autoestima-en-proxy aloja como pieza fundacional. El self requiere integración prefrontal-parietal (metarrepresentación + sentido propioceptivo de sí mismo); la referencia fenomenológica inconsciente opera sin prefrontal pero no constituye self. Material que ancla la taxonomía estructural en infraestructura anatómica concreta — pertenece nativamente a la página existente, no merece concepto autónomo (es grounding anatómico, no nuevo objeto teórico)",
+      "quote_evidence": "El self requiere metarrepresentación: sin control prefrontal sobre las ideas del córtex parietal, no hay yo consciente"
+    },
+    {
+      "surface_form": "dos tipos de novedad: predictiva (sorpresiva) y absoluta",
+      "canonical_guess": "dos-tipos-novedad",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Son dos categorías de novedad diferentes que implican circuitos cerebrales distintos"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La novedad sorpresiva es cuando la predicción falla (disonancia entre lo esperado y lo ocurrido)"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Distinción canal-específica entre dos modalidades de novedad con sustrato neural distinto: la sorpresiva (predicción falla dentro de mapa ya disponible) y la absoluta (no hay material previo desde el que predecir). Refina la articulación que realismo-cognitivo ya documenta sobre 'buscar es la certeza de aproximación a lo no conocido' y 'aprender no es ver y copiar sino comprobar si la predicción coincide'. Pieza breve (~4 min) que pertenece a realismo-cognitivo como precisión operativa del aparato del aprendizaje predictivo, no merece concepto autónomo",
+      "quote_evidence": "La novedad absoluta es encontrarse con algo completamente desconocido que no se puede predecir porque nunca se ha experimentado"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "yo-ego-autoestima-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "no son categorías diagnósticas oficiales; son ejes que el canal usa para releer trastornos del DSM (narcisista, histriónico) desde una mecánica común.",
+      "content_proposed": "\n\n## Sustrato neuroanatómico del self: integración fronto-parietal\n\nEn el directo *Psicología 101: El cerebro por dentro* (mayo 2025) el canal ancla la distinción yo/self en infraestructura anatómica concreta. El yo consciente (self) no es propiedad universal del psiquismo: requiere integración entre córtex prefrontal (control inhibitorio y metacognitivo) y córtex parietal (sentido propioceptivo de sí mismo). La referencia fenomenológica inconsciente puede operar sin prefrontal complejo, pero no constituye self.\n\n> \"El yo (self) es genuinamente humano; los animales apenas tienen self y los simios tienen uno comparable al de un bebé\"\n→ [Psicología 101: El cerebro por dentro (1:54:53)](https://youtu.be/jWxfmiiUuG4?t=6893)\n\n> \"El self requiere metarrepresentación: sin control prefrontal sobre las ideas del córtex parietal, no hay yo consciente\"\n→ [Psicología 101: El cerebro por dentro (1:54:53)](https://youtu.be/jWxfmiiUuG4?t=6893)\n\n> \"La referencia fenomenológica inconsciente (punto de referencia propioceptivo) existe sin córtex prefrontal, pero no constituye un self propiamente dicho\"\n→ [Psicología 101: El cerebro por dentro (1:54:53)](https://youtu.be/jWxfmiiUuG4?t=6893)\n\nLa precisión anatómica se completa con la atribución funcional del lóbulo parietal a la metacognición del yo y la localización del sentido de sí mismo en la conexión frontoparietal derecha:\n\n> \"El lóbulo parietal está encargado de la metacognición del yo; la conexión frontoparietal derecha alberga el sentido de nosotros mismos\"\n→ [Psicología 101: El cerebro por dentro (1:24:21)](https://youtu.be/jWxfmiiUuG4?t=5061)\n\nLa consecuencia operativa para la taxonomía es nítida: la distinción yo / self no es solo conceptual, también es anatómica. La referencia propioceptiva-fenomenológica que sostiene el organismo (presente en animales con córtex parietal pero sin prefrontal complejo) corresponde al polo inconsciente del yo en el vocabulario de esta página, y solo deviene self consciente cuando la metarrepresentación prefrontal opera sobre ella. La pieza acota además la vulnerabilidad del cuadro: daños frontales pueden disolver el self consciente sin afectar la referencia fenomenológica que sigue operando como organismo, lo que ilumina la frontera operativa entre estados disociativos (ego distócico, descrito arriba) y conservación somática del cuerpo. Y precisa parcialmente la laguna sobre el estatus del inconsciente dentro del yo: la referencia propioceptiva preconsciente es uno de los contenidos del polo inconsciente del yo, distinta de los arquetipos transpersonales del [[collective-unconscious]].\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "jWxfmiiUuG4",
+          "timestamp_seconds": 6893,
+          "cite_markdown": "[Psicología 101: El cerebro por dentro (1:54:53)](https://youtu.be/jWxfmiiUuG4?t=6893)"
+        },
+        {
+          "video_id": "jWxfmiiUuG4",
+          "timestamp_seconds": 5061,
+          "cite_markdown": "[Psicología 101: El cerebro por dentro (1:24:21)](https://youtu.be/jWxfmiiUuG4?t=5061)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído. La página articula la distinción yo / self exclusivamente en plano conceptual (yo = consciente + inconsciente; self = yo consciente) sin grounding anatómico. Este vídeo añade: (a) el self como propiedad genuinamente humana que requiere integración prefrontal-parietal; (b) la referencia propioceptiva como infraestructura preconsciente que opera sin self; (c) localización funcional del sentido de sí mismo en la conexión frontoparietal derecha. La pieza ancla la taxonomía en neuroanatomía verificable y precisa la categoría 'inconsciente del yo' que la página listaba como laguna parcial. insert_after_passage tras 'Divergencias frente al canon' antes de Lagunas es la posición editorial natural: cierra el cuadro conceptual con su correlato anatómico antes de las cuestiones abiertas",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El cierre del marco se vuelve nítido: representación y realidad están conectadas por bucles predictivos, no por correspondencia especular.",
+      "content_proposed": "\n\n### Dos tipos de novedad: predictiva sorpresiva y absoluta\n\nUn directo posterior (Psicología 101: El cerebro por dentro, mayo 2025) precisa la mecánica del aprendizaje predictivo distinguiendo dos modalidades de novedad con sustrato neural distinto:\n\n> \"La novedad sorpresiva es cuando la predicción falla (disonancia entre lo esperado y lo ocurrido)\"\n→ [Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)\n\n> \"La novedad absoluta es encontrarse con algo completamente desconocido que no se puede predecir porque nunca se ha experimentado\"\n→ [Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)\n\n> \"Son dos categorías de novedad diferentes que implican circuitos cerebrales distintos\"\n→ [Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)\n\nLa distinción cierra una pieza que la sección 'La clase tiempo' dejaba implícita: el reflejo de orientación que sostiene la búsqueda no es un mecanismo unitario. La novedad predictiva opera dentro de un mapa representacional ya disponible (la sorpresa es sobre lo conocido — falla la predicción de una clase ya formada), mientras que la novedad absoluta requiere construcción de mapa nuevo (no hay predicción posible porque no hay material previo del que partir). La consecuencia operativa para la axiomática de clases: las clases mentales soportan dos modos de actualización cualitativamente distintos — refinamiento por contraste con predicción interna (clase ya formada que se ajusta) y formación inaugural (clase nueva que se constituye al operar sobre material sin precedente). El sustrato neural disociado de ambos modos es coherente con la articulación del aprendizaje integrativo multisensorial y el engrosamiento del hipocampo en función de la demanda de mapas espaciales nuevos (caso paradigmático de los taxistas de Londres) — la neurogénesis hipocampal opera precisamente cuando hay novedad absoluta que exige cartografiar, no cuando hay solo refinamiento de mapas existentes.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "jWxfmiiUuG4",
+          "timestamp_seconds": 7135,
+          "cite_markdown": "[Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)"
+        }
+      ],
+      "rationale": "Material complementario a la sección 'Confirmación empírica: el aprendizaje léxico en bebés y la primacía de la función sintáctica' que ya articula el aprendizaje como contrastación predictiva. La nueva pieza distingue dos modalidades de novedad con sustrato neural distinto (sorpresiva por falla de predicción vs absoluta por ausencia de mapa previo) — distinción que la página no documentaba y que tiene consecuencia operativa para la axiomática de clases (dos modos de actualización: refinamiento vs formación inaugural). insert_after_passage tras 'Aprender no es copiar' es la posición editorial natural: extiende el aparato del aprendizaje predictivo con la subcategorización inmediatamente después de su tesis fundacional",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Datos cuantitativos del cerebro: 100.000 millones de neuronas, poda neuronal, 100-500 billones de conexiones",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Cifras estándar de neurociencia divulgativa expuestas pedagógicamente. Sin marco teórico canal-específico aplicado más allá del enmarcamiento general (la complejidad como argumento implícito a favor de la imposibilidad de simulación computacional, ya documentada en golem-de-cobre y galatea-modelo-protomente)",
+      "quote_evidence": "El cerebro contiene aproximadamente 100.000 millones de neuronas, con estimaciones que llegan a 400.000 millones al nacer",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Complejidad informacional cerebral como argumento contra la simulación computacional",
+      "reason_code": "already_captured",
+      "reason_detail": "Reiteración del argumento ya documentado en golem-de-cobre y galatea-modelo-protomente: la potencia computacional actual no basta para capturar la complejidad neural. En este vídeo se reitera con énfasis cuantitativo (clase de complejidad sin nombre)",
+      "quote_evidence": "No hay potencia computacional suficiente para capturar, almacenar y simular un modelo tan complejo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Distribución neuronal cerebelo vs encéfalo y proporción glía/neuronas",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Datos estándar de neuroanatomía sin marco interpretativo distintivo. Pieza pedagógica de Psicología 101",
+      "quote_evidence": "El 50% de las neuronas está en el encéfalo (sin cerebelo) y la otra mitad en el cerebelo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anatomía y tipología de neuronas: soma, dendritas, axón, multipolares, piramidales, Purkinje, Chandelier, Martinotti",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Catálogo neuroanatómico estándar (terminología clásica de Cajal). Exposición pedagógica sin marco canal-específico aplicado",
+      "quote_evidence": "Neuronas multipolares, unipolares, bipolares, células de Chandelier, de Martinotti y piramidales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Capas del córtex cerebral y circuitos excitatorios/inhibitorios",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Anatomía cortical estándar (seis capas, células piramidales con axones descendentes, interneuronas inhibitorias, circuitos de feedback). Pieza pedagógica sin marco canal-específico",
+      "quote_evidence": "La materia gris del córtex se divide en hasta seis capas con diferentes densidades y especializaciones neuronales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Neurotransmisores principales: glutamato (excitatorio), GABA y aspartato (inhibitorios)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Conocimiento estándar de neuroquímica. Sin marco interpretativo distintivo",
+      "quote_evidence": "El glutamato es uno de los principales neurotransmisores excitatorios del sistema nervioso central",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mecanismo de despolarización y potencial de acción",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Fisiología neuronal clásica (polarización en reposo, umbral de excitación, bombas de sodio, propagación en cadena por el axón). Pedagogía estándar sin marco interpretativo del canal",
+      "quote_evidence": "Las neuronas en reposo están polarizadas negativamente (más iones negativos que positivos, principalmente cloro)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Oligodendrocitos, vaina de mielina, conducción saltatoria, enfermedades desmielinizantes",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Glía y mielina como contenido neurofisiológico estándar. La metáfora de los portales y la mención de Parkinson son pedagógicas sin contenido canal-específico",
+      "quote_evidence": "Los oligodendrocitos son células de glía que envuelven trozos de los axones neuronales formando una vaina de mielina",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Astrocitos: regulación de neurotransmisores y modulación de la plasticidad",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Actualización divulgativa sobre el rol activo de los astrocitos (más allá del soporte estructural). Conocimiento neurocientífico estándar reciente, expuesto pedagógicamente",
+      "quote_evidence": "Inicialmente se creía que los astrocitos solo sujetaban a las neuronas, pero ahora se sabe que regulan neurotransmisores y recaptación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hipocampo como única zona de neurogénesis adulta + ejemplo taxistas Londres",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Neurociencia estándar (neurogénesis hipocampal, estudio clásico de los taxistas). El canal lo invoca como sustento empírico del aprendizaje integrativo y de la novedad absoluta — material que se integra como contexto en el update sobre 'dos tipos de novedad' que se hace a realismo-cognitivo en este barrido",
+      "quote_evidence": "Los taxistas de Londres muestran un hipocampo notablemente más grueso por la necesidad de memorizar complejos mapas de calles",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Aprendizaje integrativo multisensorial vs lectura de libros (multimodal mejor que unimodal)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación pedagógica del marco predictivo del canal: el aprendizaje integrativo depende de la integración multisensorial en el hipocampo. Material que conecta con realismo-cognitivo (aprendizaje predictivo) — se cubre tangencialmente en el update sobre dos tipos de novedad",
+      "quote_evidence": "Aprendemos más con experiencias multisensoriales (como una obra de teatro) que leyendo un libro, porque el hipocampo integra contexto espacial y entorno",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Meninges (piamadre, aracnoides, duramadre)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Anatomía craneoencefálica estándar sin marco interpretativo del canal",
+      "quote_evidence": "Las meninges son tres capas (piamadre, aracnoides, duramadre) que protegen al cerebro manteniéndolo flotando sin contacto directo con el cráneo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lóbulos cerebrales y sus funciones (frontal/prefrontal, parietal, temporal, occipital)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mapeo funcional clásico de los lóbulos cerebrales. La articulación 'lóbulo frontal como memoria RAM gigante' es metáfora pedagógica del speaker; la atribución del sentido de sí mismo a la conexión frontoparietal derecha sí se integra en el update a yo-ego-autoestima-en-proxy",
+      "quote_evidence": "El lóbulo frontal es el más grande, responsable de psicomotricidad fina, metacognición y funciona como una gigantesca memoria RAM",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ínsula y giro cingulado: sustrato anatómico de la inhibición social y de la psicopatía",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza neurobiológica del speaker: la desconexión del giro cingulado temporal-frontal es uno de los circuitos disfuncionales en la psicopatía, impidiendo la inhibición ante el sufrimiento ajeno. Material que aporta el sustrato anatómico a la articulación de psicopatía/sociopatía documentada en herida-narcisista-en-proxy y en yo-ego-autoestima-en-proxy. Brevedad desaconseja update independiente; vigilar si el canal desarrolla el cuadro neurológico de la psicopatía con monográfico",
+      "quote_evidence": "La desconexión del giro cingulado temporal-frontal es uno de los circuitos que no funciona bien en la psicopatía, impidiendo la inhibición ante el sufrimiento ajeno",
+      "review_priority": "medium",
+      "review_priority_reason": "sustrato anatómico de un cuadro recurrente en el corpus — vigilar si se consolida en monográfico futuro",
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lóbulo occipital, córtex visuales V1-V6 y desarrollo filogenético del cerebro (ganglios basales hacia fuera)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Anatomía funcional del córtex visual y filogenia del SNC como contenido pedagógico estándar. La mención del cerebro reptiliano (atacar-huir vía ganglios basales y córtex visual sin inhibición) conecta marginalmente con la reducción filogenética articulada en galatea-modelo-protomente; brevedad desaconseja update independiente",
+      "quote_evidence": "Los reptiles tienen córtex visual pero casi nula capacidad de inhibición; fundamentalmente operan con atacar-huir usando ganglios basales y córtex visual",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Áreas de Brodmann como mapeo funcional del cerebro",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Cartografía clásica de Brodmann como contenido neuroanatómico estándar. Sin marco interpretativo distintivo del canal",
+      "quote_evidence": "Brodmann dividió el cerebro estudiando daños por accidentes y guerra, identificando unidades mínimas funcionales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Neuroplasticidad y reorganización funcional tras daño cerebral",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto neurocientífico estándar (neuroplasticidad). El caso ilustrativo de personas con medio cerebro y visión tridimensional integrada es divulgativo, sin marco canal-específico aplicado",
+      "quote_evidence": "El cerebro tiene gran capacidad para recolocar funciones de un lado a otro tras un daño (neuroplasticidad)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 17,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

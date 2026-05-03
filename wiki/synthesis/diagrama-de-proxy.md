@@ -166,6 +166,73 @@ En el mismo eje analítico:
 
 La misma mecánica neuropsicológica que el diagrama articula como base de la respuesta moral opera aquí en sentido proyectivo: la injusticia no se experimenta directamente sino vicariamente, lo que permite construir tanto victimismos por terceros como auto-percepciones de privilegio inmerecido.
 
+
+
+## Identificación y proyección como dinámicas básicas
+
+Un directo de Psicología 101 (enero 2026) articula con definiciones operativas separadas las dos dinámicas que la sección anterior asume y aplica al cuadro de justicia social. Identificación y proyección son procesos psíquicos distintos aunque se acoplen funcionalmente.
+
+> "Identificación es el proceso por el que el interior prefiere representar y atender unos elementos del mundo sobre otros"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:02:35)](https://youtu.be/-daRyQwnZy0?t=3755)
+
+> "Proyección es atribuir estados internos propios al exterior como si provinieran de la realidad externa"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:02:35)](https://youtu.be/-daRyQwnZy0?t=3755)
+
+> "Una persona con TOC identifica importancias que una persona sin TOC no representa: la personalidad determina qué se percibe"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:02:35)](https://youtu.be/-daRyQwnZy0?t=3755)
+
+La precisión refina el aparato del diagrama: la posición no determina solo la respuesta moral (lo ya documentado vía razonamiento motivado) sino también qué del mundo es seleccionado para representación consciente. Dos personas en cuadrantes opuestos no discrepan principalmente sobre los mismos hechos — discrepan sobre qué hechos cuentan como relevantes; la selección operada por identificación precede al juicio.
+
+### Preferencia política como identificación con ideas-fuerza
+
+La aplicación al diagrama enuncia la mecánica nuclear de la posición ideológica:
+
+> "La preferencia política es una dinámica de identificación de ideas del deber ser, fantasías sobre cómo debería organizarse la sociedad"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:06:08)](https://youtu.be/-daRyQwnZy0?t=3968)
+
+> "Estas ideas fuerza (democracia, dictadura, orden, anarquía) son creaciones representacionales orientadas a satisfacer los afectos del individuo"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:06:08)](https://youtu.be/-daRyQwnZy0?t=3968)
+
+> "Aunque el ambiente influye, la estructura genética siempre prevalece: sin los genes adecuados, una vivencia no marca igual"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:06:08)](https://youtu.be/-daRyQwnZy0?t=3968)
+
+La cláusula refuerza el sustrato genético del diagrama articulado en otras secciones: las ideas-fuerza políticas no se eligen por argumento sino que se identifican como satisfactores de configuraciones afectivas previas; el ambiente puede activar o reprimir pero no inscribir contra la genética.
+
+## Clave parental completa: eje vertical como padre, eje horizontal como madre
+
+La sección 'Eje horizontal como dipolo madre tirana / madre ausente' documenta la cifra materna del eje horizontal. Este directo cierra el cuadro al articular el eje vertical en clave del padre y precisa epistemológicamente el horizontal.
+
+> "Eje vertical (padre): locus interno de control (el mal está dentro, preferencia por jerarquía e igualdad) vs. locus externo (el mal está fuera, cada uno se protege a sí mismo)"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:13:47)](https://youtu.be/-daRyQwnZy0?t=4427)
+
+> "Eje horizontal (madre): la verdad depende de la conciencia interior (derecha, ideas morales simples y vivenciales) vs. la verdad está en las cosas externas (izquierda, sistemas filosóficos complejos)"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:13:47)](https://youtu.be/-daRyQwnZy0?t=4427)
+
+La pieza completa el cifrado parental del modelo: el eje vertical opera como **clave del padre** (la posición frente a la jerarquía es la posición frente a la autoridad paterna interiorizada — locus interno = el padre habita dentro como ley moral interiorizada; locus externo = el padre está fuera como amenaza de la que protegerse). El eje horizontal — ya cifrado como madre — recibe aquí una precisión epistemológica: no es solo madre tirana/ausente como respuesta afectiva, es también dónde se sitúa la verdad — interior (vivencia) vs exterior (sistema). La derecha tiende a sistemas morales simples y vivenciales (la verdad se encuentra en la conciencia que el sujeto tiene); la izquierda a sistemas filosóficos complejos (la verdad se encuentra en las cosas, en estructuras que el sujeto debe descifrar).
+
+La consecuencia clínica más importante de la cifra paterna del eje vertical:
+
+> "La ausencia de padre aumenta exponencialmente la probabilidad de conducta antisocial: incapacidad de integrar normas de ningún tipo"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:13:47)](https://youtu.be/-daRyQwnZy0?t=4427)
+
+Sin la operación arquetípica del padre que interioriza la norma como propia, ninguno de los dos polos del eje vertical se constituye establemente — el sujeto queda fuera del aparato (no puede integrar norma interiorizada ni respetar autoridad externa), lo que se manifiesta clínicamente como el cuadro antisocial documentado en herida-narcisista-en-proxy en su frontera con la sociopatía.
+
+## Eutaxia y distaxia: viabilidad de personalidades replicadas
+
+Una pieza adicional: el canal recoge el par eutaxia/distaxia de [[bueno-gustavo|Gustavo Bueno]] como criterio para evaluar la viabilidad de las posiciones del diagrama si se replicaran como personalidad social mayoritaria.
+
+> "Si se replicara una personalidad en toda la sociedad, algunas llevarían a la autodestrucción (distaxia) y otras al mantenimiento (eutaxia)"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:20:51)](https://youtu.be/-daRyQwnZy0?t=4851)
+
+> "La personalidad antisocial es completamente distáxica: gana el más fuerte, pero uno solo no puede sobrevivir"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:20:51)](https://youtu.be/-daRyQwnZy0?t=4851)
+
+> "La personalidad cordial es eutáxica: permite la convivencia y permanencia del grupo"
+→ [Psicología 101: Proyección, ideología y teoría de la mente (1:20:51)](https://youtu.be/-daRyQwnZy0?t=4851)
+
+La pieza añade un criterio normativo al modelo descriptivo del diagrama: la posición no solo describe configuración afectiva-genética sino que admite evaluación funcional respecto a la viabilidad social de su universalización. La antisocial es estructuralmente distáxica (la posición misma destruye las condiciones de posibilidad de su sostenimiento si se generaliza); las posiciones que tematizan reciprocidad y cooperación son eutáxicas. La cláusula es coherente con la observación previa sobre el cuadro antisocial como caso límite de las patologías paterno-egoicas: no solo es clínicamente patológico, es estructuralmente inviable como matriz social.
+
+
 ## Sátira bipartidista como caso aplicado: Don't Look Up y The Boys (T1-T3)
 
 El directo *Fantasía Cero* (13-sept-2024) usa dos productos audiovisuales recientes como caso aplicado del modelo: las obras genuinamente eficaces críticas de la cultura política contemporánea son aquellas que activan el reconocimiento desde **ambos cuadrantes verticales** del diagrama, no solo desde uno.
@@ -217,6 +284,29 @@ La precisión refina el aparato del diagrama: lo que cambia entre cuadrantes no 
 
 La tesis completa el modelo en su flanco antropológico: lo que el cuadrante busca colectivamente es la disolución del conflicto interno individual proyectada al espacio social. Cada orientación ideológica nombra una vía distinta hacia la desaparición del conflicto — abolición de la jerarquía (abajo), restauración del fundamento moral previo (derecha), refundación de la norma desde el poder (arriba-izquierda), liberación del individuo (abajo-derecha) — y todas son funcionalmente imposibles porque el conflicto opera en la asimetría estructural entre deseo y capacidad, no entre el sujeto y el orden social. La consecuencia operativa para el diagrama: ningún cuadrante puede cumplir su promesa, lo que explica la rotación pendular de la política contemporánea entre las cuatro posiciones sin estabilización.
 
+
+
+## Adherencia ideológica y simetría reactiva entre cuadrantes
+
+En un directo posterior el canal añade el mecanismo psicológico subyacente a la ubicación en el diagrama: la posición política no se elige por argumentación sino por **adherencia** — el sujeto se agrega a grupos cuya estructura dialéctica encaja con su personalidad y le permite manifestar la neurosis o tramitar la catarsis.
+
+> "La gente apoya ideas porque les facilitan la catarsis o la manifestación de su neurosis"
+→ [Proxy T4, 4x01 "Piloto" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)
+
+> "La posición política es adherencia: nos agregamos a grupos cuya estructura dialéctica encaja con nuestra personalidad"
+→ [Proxy T4, 4x01 "Piloto" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)
+
+La consecuencia operativa es la **simetría reactiva entre cuadrantes** que el canal observa empíricamente: cuando se activa la disonancia cognitiva, la respuesta agresiva carece de signo ideológico distintivo — los insultos recibidos desde un cuadrante son estructuralmente idénticos a los del cuadrante opuesto. La forma de la reacción depende del componente afectivo activado, no del contenido doctrinal.
+
+> "Los insultos recibidos de seguidores de derechas son idénticos en estructura a los de progres ofendidos"
+→ [Proxy T4, 4x01 "Piloto" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)
+
+> "No hay diferencia funcional entre facha-francopantanos y progres cuando reaccionan desde la disonancia cognitiva"
+→ [Proxy T4, 4x01 "Piloto" (43:15)](https://youtu.be/ucOt-vQZ4Qw?t=2595)
+
+La pieza completa el aparato del diagrama por su flanco motivacional: las dos asimetrías neuropsicológicas que clasifican posiciones (jerarquía/anti-jerarquía y fundamentalismo/relativismo) operan como atractor afectivo del que la persona cuelga su identidad ideológica; la disonancia cognitiva — cuando esa identidad se ve amenazada — produce respuestas defensivas estructuralmente uniformes a través del eje político, lo que confirma el sustrato compartido de la mecánica de razonamiento motivado ya documentada en otras secciones. La adherencia opera además como complemento al marketing implícito articulado en [[consumismo-critica]]: el cuadrante funciona como pre-identidad a la que la doctrina se vincula por reconocimiento, no por persuasión.
+
+
 ## Herencia genética y rebeldía como vector dirigido
 
 En el directo *Lunes sin política* (04-mar-2025) el canal extiende el sustrato genético del diagrama con una tesis sobre la dinámica de la rebeldía intergeneracional.
@@ -256,6 +346,24 @@ La precisión refina la caracterización de los cuadrantes verticales superiores
 
 
 
+## Magos de Tolkien como aproximación tentativa a los cuadrantes
+
+En un directo posterior el canal advierte primero un límite operativo del modelo: no es asignable un único arquetipo a cada cuadrante de forma directa — los cuadrantes son configuraciones afectivo-noéticas, no figuras míticas. Como ejercicio aproximativo se propone leer la topología del diagrama a través de los **cinco magos** del imaginario tolkieniano (cuatro de color más uno blanco por encima), heredados también por Final Fantasy:
+
+> "No se puede asignar directamente un arquetipo a cada cuadrante del diagrama"
+→ [Progresterona (1:26:42)](https://youtu.be/7f-iHJpDMVQ?t=5202)
+
+> "Propone usar las figuras de magos de Tolkien (y Final Fantasy): mago rojo, blanco, azul, negro y verde"
+→ [Progresterona (1:26:42)](https://youtu.be/7f-iHJpDMVQ?t=5202)
+
+> "Arriba izquierda serían guerreros/soldados, abajo derecha mago rojo, arriba derecha mago negro, abajo izquierda mago azul/verde"
+→ [Progresterona (1:26:42)](https://youtu.be/7f-iHJpDMVQ?t=5202)
+
+La asignación queda explícitamente abierta: arriba-izquierda al guerrero/soldado disciplinado al servicio del orden sin fundamento moral previo; arriba-derecha al mago negro como cifra del poder ejercido desde un cuerpo de doctrina cerrado; abajo-derecha al mago rojo (combatiente y conjurador a la vez en la herencia ludológica, autonomía técnica con principios firmes); abajo-izquierda a los magos azul/verde, vinculados a saberes contextuales y a la integración con la naturaleza. La pieza funciona como ejercicio heurístico aplicado a una taxonomía mítica externa, no como mapping cerrado, y enlaza la lectura del diagrama con el corpus tolkieniano del canal — la pentada de colores es material de [[el-silmarillion]] (no de las adaptaciones cinematográficas).
+
+
+
+
 
 ## Lagunas
 
@@ -277,10 +385,12 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
+
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
 - **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [48:12](https://youtu.be/NrLnzcceSLY?t=2892)
 - **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:36:55](https://youtu.be/PC5uw1s86eE?t=5815)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:54:09](https://youtu.be/xaFCTcXXI2o?t=6849)
 - **Lunes sin política** — chunks: [35:57](https://youtu.be/r1SmCsNmLh0?t=2157)
+- **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [1:13:47](https://youtu.be/-daRyQwnZy0?t=4427)
 

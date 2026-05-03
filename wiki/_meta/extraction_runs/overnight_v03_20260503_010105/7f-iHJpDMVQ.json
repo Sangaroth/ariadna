@@ -1,0 +1,247 @@
+{
+  "video_id": "7f-iHJpDMVQ",
+  "video_title": "Progresterona",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "magos de Tolkien (mago rojo, blanco, azul, negro y verde)",
+      "canonical_guess": "magos-de-tolkien",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 7,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Propone usar las figuras de magos de Tolkien (y Final Fantasy): mago rojo, blanco, azul, negro y verde"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Speaker propone explícitamente la pentada de magos como esquema iconográfico tentativo para los cuadrantes del diagrama-de-proxy, anclando además en el-silmarillion como fuente. Aplicación a dos páginas existentes; no merece página autónoma: el speaker advierte que no es asignación cerrada y la pentada por sí misma es taxonomía mítica externa, no concepto del canal",
+      "quote_evidence": "Propone usar las figuras de magos de Tolkien (y Final Fantasy): mago rojo, blanco, azul, negro y verde"
+    },
+    {
+      "surface_form": "ecesis (Gandalf de gris a blanco)",
+      "canonical_guess": "ecesis-santificacion",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El paso de Gandalf de gris a blanco representa una \"ecesis\": una santificación a través de la lucha contra el mal"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Speaker articula 'ecesis' como categoría simbólica para nombrar el cambio de color de Gandalf. Es un término que el canal introduce con comillas (señal de neologismo o cita tácita) en este vídeo único; sustantivamente el contenido se integra en la página de el-silmarillion. No promueve página autónoma con un solo uso; si reaparece en futuros vídeos puede consolidarse como concepto canal-específico (paralelo a égersis registrada en scope.md §5)",
+      "quote_evidence": "El paso de Gandalf de gris a blanco representa una \"ecesis\": una santificación a través de la lucha contra el mal"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el autoritario tiene fundamento moral previo (interno, difuso, afectivo), el totalitario carece de tal límite y la jerarquía deviene fuente única.",
+      "content_proposed": "\n\n## Magos de Tolkien como aproximación tentativa a los cuadrantes\n\nEn un directo posterior el canal advierte primero un límite operativo del modelo: no es asignable un único arquetipo a cada cuadrante de forma directa — los cuadrantes son configuraciones afectivo-noéticas, no figuras míticas. Como ejercicio aproximativo se propone leer la topología del diagrama a través de los **cinco magos** del imaginario tolkieniano (cuatro de color más uno blanco por encima), heredados también por Final Fantasy:\n\n> \"No se puede asignar directamente un arquetipo a cada cuadrante del diagrama\"\n→ [Progresterona (1:26:42)](https://youtu.be/7f-iHJpDMVQ?t=5202)\n\n> \"Propone usar las figuras de magos de Tolkien (y Final Fantasy): mago rojo, blanco, azul, negro y verde\"\n→ [Progresterona (1:26:42)](https://youtu.be/7f-iHJpDMVQ?t=5202)\n\n> \"Arriba izquierda serían guerreros/soldados, abajo derecha mago rojo, arriba derecha mago negro, abajo izquierda mago azul/verde\"\n→ [Progresterona (1:26:42)](https://youtu.be/7f-iHJpDMVQ?t=5202)\n\nLa asignación queda explícitamente abierta: arriba-izquierda al guerrero/soldado disciplinado al servicio del orden sin fundamento moral previo; arriba-derecha al mago negro como cifra del poder ejercido desde un cuerpo de doctrina cerrado; abajo-derecha al mago rojo (combatiente y conjurador a la vez en la herencia ludológica, autonomía técnica con principios firmes); abajo-izquierda a los magos azul/verde, vinculados a saberes contextuales y a la integración con la naturaleza. La pieza funciona como ejercicio heurístico aplicado a una taxonomía mítica externa, no como mapping cerrado, y enlaza la lectura del diagrama con el corpus tolkieniano del canal — la pentada de colores es material de [[el-silmarillion]] (no de las adaptaciones cinematográficas).\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "el-silmarillion"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7f-iHJpDMVQ",
+          "timestamp_seconds": 5202,
+          "cite_markdown": "[Progresterona (1:26:42)](https://youtu.be/7f-iHJpDMVQ?t=5202)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído: la página articula los cuadrantes vía neuropsicología (BOLD/amígdala), genética (gemelos), dipolo madre tirana/ausente, sátira cinematográfica (Don't Look Up, The Boys) y rasgos clínicos (esquizo/autista) — pero no documenta ningún intento de mapping a una taxonomía mítica explícita. La aproximación con magos de Tolkien añade una capa simbólico-iconográfica al modelo, enlazando además con el-silmarillion (página existente, ahora referenciada). insert_after_passage es el update_type correcto: la pieza es un refinamiento adicional al modelo, paralelo a las secciones 'Sátira bipartidista', 'Sustrato genético', 'Eje horizontal como dipolo madre tirana', etc., y debe leerse después del último refinamiento existente y antes de Lagunas",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "el-silmarillion",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "como uno de los casos más sostenidos del [[mito-polar]] moderno y como ejercicio consciente de [[mitologia-propia-impropia]] — Tolkien sabe que está construyendo mito.",
+      "content_proposed": "\n\n## Los cinco magos de colores y la transformación de Gandalf\n\nEl canal articula que Tolkien establece en el Silmarillion (no en las adaptaciones cinematográficas del Señor de los Anillos) un orden de **cuatro magos de colores con uno blanco por encima**, esquema iconográfico que la cultura ludológica posterior recoge — Final Fantasy lo hereda como paleta de clases mágicas. La transformación de Gandalf de gris a blanco se lee como **ecesis**: santificación operada a través de la lucha contra el mal.\n\n> \"El paso de Gandalf de gris a blanco representa una \\\"ecesis\\\": una santificación a través de la lucha contra el mal\"\n→ [Progresterona (1:33:31)](https://youtu.be/7f-iHJpDMVQ?t=5611)\n\n> \"No viene de las películas sino del Silmarillion: Tolkien puso cuatro grandes magos de colores más uno blanco por encima\"\n→ [Progresterona (1:33:31)](https://youtu.be/7f-iHJpDMVQ?t=5611)\n\nLa pieza añade una lectura específica del cambio de color como dispositivo simbólico — la elevación de la figura a un orden superior tras atravesar la confrontación con el mal — coherente con el marco que la página articula sobre las cuatro formas del mal y la subordinación estructural de la maldad en la cosmogonía tolkieniana. La pentada de colores opera además como base iconográfica para la aproximación tentativa que el canal hace a los cuadrantes del [[diagrama-de-proxy]].\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "diagrama-de-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7f-iHJpDMVQ",
+          "timestamp_seconds": 5611,
+          "cite_markdown": "[Progresterona (1:33:31)](https://youtu.be/7f-iHJpDMVQ?t=5611)"
+        }
+      ],
+      "rationale": "Material nuevo respecto al cuerpo leído: la página articula la cosmogonía del Ainulindalë, la herida de Melkor, las tres/cuatro formas del mal y la polaridad masculino-femenino Aulë/Yavanna, pero no documenta ni la pentada de magos de colores (atribuida explícitamente al Silmarillion por el speaker, no a las películas) ni la lectura de Gandalf gris→blanco como ecesis. Aporta además anclaje simbólico-iconográfico que conecta con la sección nueva de diagrama-de-proxy. insert_after_passage tras la sección de cierre 'Lugar de la obra en el corpus del canal' y antes de Lagunas es la posición editorial correcta",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Plan B / examen de fisiología y física",
+      "reason_code": "meta_canal",
+      "reason_detail": "Logística personal del streamer (alojamiento, hardware, exámenes universitarios) sin valor enciclopédico",
+      "quote_evidence": "Proxy anuncia que no necesitará Starlink para emitir desde el Plan B porque el alojamiento tiene internet",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "imbecilidad confabulada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Neologismo del speaker articulado en una sola intervención breve. La mecánica que nombra ('creerte lo que quieres creer para sonar más convincente') es razonamiento motivado ya documentado en diagrama-de-proxy. Si reaparece en futuros vídeos puede promoverse a concepto autónomo",
+      "quote_evidence": "La línea entre creer genuinamente que algo es nazi y usar esa acusación como arma retórica es la \"imbecilidad confabulada\": creerte lo que quieres creer para sonar más convincente",
+      "review_priority": "medium",
+      "review_priority_reason": "neologismo nombrado por el speaker — vigilar recurrencia para promoción futura",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "eutaxia / autotaxia (Bueno) como heurísticos izquierda/derecha",
+      "reason_code": "passing_mention",
+      "reason_detail": "Speaker invoca los términos de Gustavo Bueno como heurístico distintivo del par izquierda/derecha, pero la articulación es brevísima (dos frases). bueno-gustavo y diagrama-de-proxy ya documentan la diferenciación; aquí solo se asoma una nomenclatura adicional sin desarrollo",
+      "quote_evidence": "Ser de izquierdas sería priorizar la eutaxia (buen orden) del pueblo como heurístico primario",
+      "review_priority": "medium",
+      "review_priority_reason": "vínculo Bueno → diagrama-de-proxy a explorar si reaparece con desarrollo",
+      "enriches_concept": "bueno-gustavo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "superyó inconsciente como configuración endogrupal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Speaker ofrece definición canal-específica del superyó ('cómo tendrían que ser los demás por dentro para que yo me sintiera tranquilo') y lo conecta con homogeneización endogrupal y eliminación de ansiedad. Articulación sustantiva pero contenida en pocos minutos y sin estructura interna que la promueva a concepto autónomo. La mecánica encaja en la crítica del canal al consumo emocional de pertenencia",
+      "quote_evidence": "El superyó inconsciente se define como \"cómo tendrían que ser los demás por dentro para que yo me sintiera tranquilo\"",
+      "review_priority": "medium",
+      "review_priority_reason": "definición operativa propia del canal — vigilar si articula tipología o estructura recurrente en otros vídeos",
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La Ola (película) y la presión de la estética uniforme",
+      "reason_code": "passing_mention",
+      "reason_detail": "La película se invoca como contraejemplo crítico de su propia tesis (exagera el poder agregador de la estética uniforme). No hay análisis arquetípico dedicado ni la obra es lectura central; aparece para articular el argumento sobre endogrupos. No merece página autónoma",
+      "quote_evidence": "La película exagera el poder agregador de la estética uniforme como si fuera irresistible",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trump como síntoma del hartazgo popular y proyección estética del progresismo",
+      "reason_code": "already_captured",
+      "reason_detail": "El bloque (~30 min intermitentes) aplica marcos ya promovidos del canal —proyección estética, sofisma estético, woke como narrativa postmoderna— a la coyuntura de la investidura de Trump. La proyección estética del progresismo, la asociación Hitler-fascismo como puramente sonora/visual y la batalla cultural asimétrica están sustantivamente cubiertas en sofisma-estetico, woke-narrativa-postmoderna-moral y diagrama-de-proxy. Adición de prosa nueva sería redundante. Caso típico de 'cita-only candidate' para retrieval, pero el material está fragmentado en stream y no concentra una articulación cerrada en un timestamp único",
+      "quote_evidence": "La proyección progresista no es solo psicológica sino específicamente estética: proyectan formas vacías de contenido",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sofisma-estetico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "órdenes ejecutivas de Trump (enumeración)",
+      "reason_code": "political_news",
+      "reason_detail": "Enumeración de medidas de la nueva administración (pena de muerte, retirada de Acuerdo de París, retirada de OMS, congelación contrataciones, abolición wokismo, dos sexos, presencialidad). El comentario es descriptivo de actualidad partidista (≤12 meses), no eleva las medidas a estructura ni aplica marco teórico propio del canal. Pasa el test de la cápsula del tiempo: retirando 'Trump' la afirmación pierde valor enciclopédico",
+      "quote_evidence": "Pena de muerte para asesinatos de agentes de la ley y delitos capitales de extranjeros ilegales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "magia negra como inducción de psicopatía",
+      "reason_code": "passing_mention",
+      "reason_detail": "Speaker afirma que la psicopatía se puede provocar y nombra 'magia negra' como una vía (entrenarse para eliminar vergüenza y escrúpulos). Mención brevísima (1-2 frases), sin desarrollo del mecanismo ni articulación con magia-postmoderna-en-proxy",
+      "quote_evidence": "Menciona la \"magia negra\" como una de las formas de provocar psicopatía: entrenarse para eliminar vergüenza y escrúpulos",
+      "review_priority": "medium",
+      "review_priority_reason": "afirmación fuerte (psicopatía inducible deliberadamente) que merece seguimiento si el canal la desarrolla",
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Notas de la comunidad como experimento sociológico fallido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación crítica sobre el dispositivo Community Notes de Twitter/X. No invoca marco teórico estructural ni promueve concepto autónomo; es comentario meta-tecnológico sobre dinámicas de plataforma",
+      "quote_evidence": "La mayoría de notas son de gente intentando parecer inteligente sin aportar nada",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "mitos sobre colesterol y ritmos circadianos",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Comentario de divulgación sobre mitos de salud (colesterol-huevos, ritmos circadianos como sobreestimados). Conceptos de fisiología neutra sin aplicación a marco psicológico/arquetípico del canal. Scope §1.2: dominio condicionado solo IN si el speaker lo articula como sustento de tesis propia — aquí no",
+      "quote_evidence": "El colesterol no sube por consumir colesterol sino por sedentarismo y mala calidad de vida",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "masturbación compulsiva como conducta autodestructiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación clínica breve: el criterio para distinguir patología es el carácter compulsivo (lenitivo anímico), no la frecuencia. No articula tipología sostenida ni promueve concepto autónomo; encaja como caso ilustrativo del patrón general de conductas compulsivas",
+      "quote_evidence": "No es la masturbación en sí sino su carácter compulsivo lo que afecta al estado de ánimo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Alex El Capo / Borroso como creyente vs manipulador",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Mención de figuras públicas concretas como casos de creencia sincera vs manipulación pagada. Sin marco teórico aplicado más allá de la dicotomía declarativa; predicción/juicio sobre persona-mediática actual",
+      "quote_evidence": "Distingue entre el manipulador consciente (como Borroso, al que \"le paga el PSOE\") y el creyente sincero",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "El gobierno ha comprado acciones de Telefónica y colocado un presidente afín procedente de Indra",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Bloque coyuntural sobre Sánchez/Telefónica como vehículo de obstrucción judicial. Política contemporánea española sin elevación a estructura"
+    },
+    {
+      "block_quote": "Han entrado en las casas de abogados del novio de Ayuso para robar material informático",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Comentario sobre actualidad partidista (caso Ayuso) sin marco teórico aplicado. Politiqueo coyuntural"
+    },
+    {
+      "block_quote": "Distingue entre el manipulador consciente (como Borroso, al que \"le paga el PSOE\") y el creyente sincero",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "Mención de figura mediática asociada a partido político concreto en contexto de actualidad. Filtro coyuntural"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 3
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

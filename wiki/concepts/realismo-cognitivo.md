@@ -140,6 +140,113 @@ El ciclo SAL articula operativamente la primera axiomática del marco (toda clas
 
 La articulación operativa completa de este motor — clases primarias, álgebra de operaciones, vectores en notación bracket — es el modelo Galatea (ver [[galatea-modelo-protomente]] cuando se promueva). El realismo cognitivo es el sustrato epistemológico; Galatea es su articulación formal-computacional.
 
+
+
+## Respuesta a Kripke desde el realismo cognitivo: la mente no computa
+
+Un directo monográfico (Psicología 101: Materialismo, pensamiento y Enric, junio 2025) extiende la respuesta del marco a la paradoja de Kripke a partir de la crítica de Enric (canal Adictos a la Filosofía) al materialismo desde el argumento de Ross. La articulación añade piezas filosóficas que la sección 'Argumento anti-materialista' deja implícitas.
+
+### Materialismo vs fisicalismo: la materia como sometido a las cuatro fuerzas
+
+La pieza preliminar es una distinción operativa que el canal exige a cualquier discusión sobre el materialismo: el materialismo no se reduce al fisicalismo del sentido común (cuerpos con masa sometidos a leyes newtonianas).
+
+> "El materialismo no es lo mismo que el fisicalismo: mucha gente confunde \"materia\" con \"cosas que tienen masa\" o son tangibles"
+→ [Psicología 101: Materialismo, pensamiento y Enric (06:29)](https://youtu.be/cSj--O7RSPo?t=389)
+
+> "La definición más estricta de materialismo sería: materia es todo lo sometido a las fuerzas gravitatoria, electromagnética, nuclear fuerte y nuclear débil"
+→ [Psicología 101: Materialismo, pensamiento y Enric (23:46)](https://youtu.be/cSj--O7RSPo?t=1426)
+
+> "A nivel cuántico la realidad no es un continuo, hay discontinuidades donde no transcurre tiempo ni hay espacio"
+→ [Psicología 101: Materialismo, pensamiento y Enric (23:46)](https://youtu.be/cSj--O7RSPo?t=1426)
+
+La precisión es operativa: cualquier crítica a 'el materialismo' debe nombrar primero a qué materialismo se refiere. La indeterminación cuántica (no todo está sometido a las cuatro fuerzas) ya genera problemas internos al materialismo estricto sin necesidad de invocar la conciencia como límite.
+
+### La paradoja de Kripke: la mente no ejecuta funciones, realiza relaciones
+
+Kripke propone una función alternativa, la 'kuma', que coincide con la suma para todos los valores menores a un umbral y luego siempre devuelve 5. Para los valores ya operados, suma y kuma producen resultados idénticos: ningún hecho material puede determinar cuál se está ejecutando. La conclusión de Kripke (y de Enric, siguiendo a Ross): si el pensamiento humano sí determina cuál de las dos funciones ejecuta, entonces el pensamiento no puede ser puramente material.
+
+La respuesta del realismo cognitivo invierte el planteamiento: no es que el pensamiento sea no-material por determinar la función — es que **el pensamiento no ejecuta funciones en absoluto**.
+
+> "En la cabeza no ocurre ni suma ni kuma porque la mente no ejecuta funciones, realiza relaciones"
+→ [Psicología 101: Materialismo, pensamiento y Enric (48:06)](https://youtu.be/cSj--O7RSPo?t=2886)
+
+> "La función es una abstracción posterior al acto mental; cuando haces 3+5 haces una relación, no aplicas un axioma"
+→ [Psicología 101: Materialismo, pensamiento y Enric (48:06)](https://youtu.be/cSj--O7RSPo?t=2886)
+
+> "El realismo cognitivo postula que el pensamiento no es computable"
+→ [Psicología 101: Materialismo, pensamiento y Enric (48:06)](https://youtu.be/cSj--O7RSPo?t=2886)
+
+La precisión operativa: cuando el sujeto hace '3+5' en su cabeza no ejecuta un algoritmo, evoca una asociación memoría (sonora o imaginaria) y/o realiza una composición imaginaria. La cabeza no funcionaliza, asocia.
+
+> "Cuando haces 3+5 en tu cabeza no ejecutas una función sino que repites una asociación, normalmente auditiva o imaginaria"
+→ [Psicología 101: Materialismo, pensamiento y Enric (1:05:07)](https://youtu.be/cSj--O7RSPo?t=3907)
+
+> "La cabeza no realiza funciones sino composiciones imaginarias; en la cabeza todo es asociación"
+→ [Psicología 101: Materialismo, pensamiento y Enric (1:05:07)](https://youtu.be/cSj--O7RSPo?t=3907)
+
+### La calculadora siempre kuma y la trampa interna del experimento
+
+Un corolario operativo: toda calculadora física tiene memoria finita y por tanto un resultado máximo, lo que la convierte estructuralmente en una kuma. La calculadora no realiza funciones matemáticas en sentido fuerte — computa, y la computación es siempre una simulación finita de la función.
+
+> "Toda calculadora tiene un límite de memoria y por tanto un resultado máximo, así que técnicamente siempre kuma"
+→ [Psicología 101: Materialismo, pensamiento y Enric (42:01)](https://youtu.be/cSj--O7RSPo?t=2521)
+
+> "Las calculadoras no hacen funciones matemáticas, hacen computaciones, que son simulaciones de funciones"
+→ [Psicología 101: Materialismo, pensamiento y Enric (42:01)](https://youtu.be/cSj--O7RSPo?t=2521)
+
+Una trampa interna del experimento de Kripke: matemáticamente la kuma es composición de la suma más un axioma adicional, no una función primitiva independiente.
+
+> "Matemáticamente la kuma es una composición de la suma más un axioma adicional; no puede existir sin definir primero la suma"
+→ [Psicología 101: Materialismo, pensamiento y Enric (1:14:45)](https://youtu.be/cSj--O7RSPo?t=4485)
+
+La asimetría debilita el experimento: las dos funciones no son intercambiables ni independientes, lo que erosiona la indeterminación que el argumento necesita.
+
+### Identidad matemática vs diferencia imaginaria: 1 y 0,9 periódico
+
+El ejemplo paradigmático de la asimetría entre formal e imaginario: matemáticamente 1 y 0,9 periódico son idénticos (su resta es cero), pero psicológicamente son objetos diferentes — se llega a ellos por procedimientos distintos y pertenecen a conjuntos numéricos diferentes (enteros vs reales).
+
+> "Matemáticamente 1 y 0,9 periódico son idénticos (su resta es cero), pero psicológicamente son cosas diferentes"
+→ [Psicología 101: Materialismo, pensamiento y Enric (52:10)](https://youtu.be/cSj--O7RSPo?t=3130)
+
+> "La diferencia es imaginaria, no formal: en la mente uno evoca una unidad completa y el otro una serie infinita"
+→ [Psicología 101: Materialismo, pensamiento y Enric (52:10)](https://youtu.be/cSj--O7RSPo?t=3130)
+
+La pieza confirma operativamente la axiomática Q: la componente imaginaria del pensamiento (Q-imaginaria) opera con objetos cuya identidad mental no coincide con su identidad formal — el grafo escrito no pertenece a ningún conjunto, es solo en la mente donde un número pertenece a una clase.
+
+### Modus ponens como procedimiento experiencial recapitulado
+
+Una pieza estructural sobre la genealogía cognitiva del razonamiento lógico: el modus ponens no es regla formal innata sino recapitulación experiencial de procedimientos causales conocidos.
+
+> "El modus ponens funciona porque recapitula un procedimiento causal conocido por experiencia física"
+→ [Psicología 101: Materialismo, pensamiento y Enric (1:58:17)](https://youtu.be/cSj--O7RSPo?t=7097)
+
+> "\"Si A entonces B\" es una inferencia lógica solo a posteriori; apriorísticamente es causa-consecuencia experimental"
+→ [Psicología 101: Materialismo, pensamiento y Enric (1:58:17)](https://youtu.be/cSj--O7RSPo?t=7097)
+
+> "El córtex prefrontal permite ambiguar la relación mecánica causa-consecuencia hacia una relación entre objetos cualesquiera"
+→ [Psicología 101: Materialismo, pensamiento y Enric (1:58:17)](https://youtu.be/cSj--O7RSPo?t=7097)
+
+El operador formal 'si A entonces B' es la versión ambiguada (ver sección 'Mónadas universales y ambiguación entre los tres Q') de la relación procedimental causa-consecuencia que el organismo aprende corporalmente. Lo que en la lógica formal es regla a priori es en la cognición un fósil experiencial generalizado por el córtex prefrontal.
+
+### Clases teleosemánticas y enactivas: noesis desde la materia sin formalismo
+
+La pieza positiva del marco frente a Kripke/Enric/Ross: el pensamiento proviene de la materia y se relaciona con ella, pero no por correspondencia formal sino por **encaje teleosemántico-enactivo** de las clases noéticas con la realidad material que las ha seleccionado.
+
+> "Las clases mentales son teleosemánticas y enactivas: provienen de la realidad material porque evolutivamente encajan en ella"
+→ [Psicología 101: Materialismo, pensamiento y Enric (2:02:22)](https://youtu.be/cSj--O7RSPo?t=7342)
+
+> "Toda representación mental se puede reducir a clases finitas conformadas por nuestra existencia en una realidad que nos ha definido"
+→ [Psicología 101: Materialismo, pensamiento y Enric (2:02:22)](https://youtu.be/cSj--O7RSPo?t=7342)
+
+> "El pensamiento puede identificarse con cosas materiales a través de estas clases, pero no por el argumento del vídeo"
+→ [Psicología 101: Materialismo, pensamiento y Enric (2:02:22)](https://youtu.be/cSj--O7RSPo?t=7342)
+
+La pieza cierra la respuesta: el argumento de Ross/Kripke/Enric demuestra (correctamente) que el pensamiento no posee estructura formal determinada — pero esto no refuta el materialismo, **confirma el realismo cognitivo**. La estructura formal es construcción posterior; la noesis opera con clases relacionales que provienen del cuerpo en su entorno y se actualizan por bucles predictivos. La 'irresolución' que el público percibe al final del directo es precisamente eso: el problema no se resuelve dentro del marco materialista clásico, se disuelve al cambiar al marco realista cognitivo donde la categoría 'función ejecutada en la cabeza' simplemente no opera.
+
+> "En las coordenadas del realismo cognitivo la paradoja no existe: no se ha refutado el materialismo sino que se ha evitado el problema al cambiar de marco"
+→ [Psicología 101: Materialismo, pensamiento y Enric (2:06:28)](https://youtu.be/cSj--O7RSPo?t=7588)
+
+
 ## Ontología, fenomenología y gnoseología
 
 Dentro del realismo cognitivo el canal articula una arquitectura tripartita: la cosa (ontología), su aparición a la mente (fenomenología) y la teoría de cómo se conoce (gnoseología o epistemología). El conocer no es acceso directo a la cosa: es **traducción fenomenológica** mediada por la gramática mental.
@@ -206,6 +313,29 @@ El directo *Filosofía para dummies* (06-nov-2024) sitúa al realismo cognitivo 
 → [Filosofía para dummies (42:09)](https://youtu.be/JVEsIdv6emI?t=2529)
 
 La clave operativa de la posición realista es la **cocausación**: ni los procesos materiales ni los fenómenos internos son derivables unos de los otros — se constituyen mutuamente. Esto distingue al realismo cognitivo del materialismo (que privilegia la materia) y del idealismo (que privilegia las ideas).
+
+
+
+### Convergencia disciplinar: filosofía analítica, teoría de la mente y psicología como una misma disciplina
+
+Una tesis positiva adicional del marco articulada en directo posterior: el realismo cognitivo no solo opera como stance epistemológica sino como **principio de unificación disciplinar**. Filosofía analítica, teoría de la mente y psicología no son disciplinas separadas sino registros distintos de un mismo objeto de estudio que el realismo cognitivo permite tratar con un único lenguaje formal.
+
+> "Filosofía analítica es la única herramienta válida para desarrollar teoría de la mente"
+→ [Psicoinfluencers (21:59)](https://youtu.be/frbMVcThuRw?t=1319)
+
+> "El realismo cognitivo unifica filosofía analítica, teoría de la mente y psicología como una misma disciplina"
+→ [Psicoinfluencers (21:59)](https://youtu.be/frbMVcThuRw?t=1319)
+
+> "Podría existir un lenguaje formal cuyos términos signifiquen lo mismo simultáneamente en los tres campos"
+→ [Psicoinfluencers (21:59)](https://youtu.be/frbMVcThuRw?t=1319)
+
+El problema metodológico inherente que la tesis asume y no oculta es la **autorreferencia**: la psicología estudia la mente con la mente, condición que cualquier teoría unificada debe articular sin colapsar en circularidad ni en escepticismo. La pieza enlaza con los criterios de validez teórica que el speaker exige a todo modelo psicológico — coherencia (sin contradicciones internas) y completitud (cubrir todo lo que dice describir) — heredados del rigor lógico-formal aplicable a cualquier sistema filosófico.
+
+> "Los sistemas filosóficos deben cumplir las mismas reglas que los sistemas formales"
+→ [Psicoinfluencers (11:55)](https://youtu.be/frbMVcThuRw?t=715)
+
+La convergencia tripartita es la consecuencia operativa del marco: si las clases noéticas son atómicas y la matriz N opera con axiomática unificada, no hay frontera disciplinar entre lo que estudia la filosofía de la mente analítica, lo que modeliza la teoría de la mente y lo que describe la psicología clínica — los tres campos cortan el mismo objeto desde ángulos distintos.
+
 
 ### Refutación del mito del paso del mitos al logos
 
@@ -307,6 +437,40 @@ La pieza fundacional de la axiomática es que **toda clase es transitoria** — 
 → [4x04 Directo experimental, 1:23:45](https://youtu.be/D3a0A-oZ09M?t=5025)
 
 El término "función propia" se usa en el sentido teleosemántico de Ruth Millikan que el canal trabaja paralelamente: la función propia de un mecanismo es aquella por la que existe (y por la que es seleccionado), no cualquier efecto que produzca. Aplicado al cualia, significa que toda clase mental existe para ser sustituida — su razón de ser es ser efímera.
+
+
+
+## Mónadas universales objetivas vs qualia subjetivo y ambiguación entre los tres Q
+
+En el directo *Psicología 101: Del libre albedrío a la computación artificial* (marzo 2025) el canal precisa dos refinamientos operativos del marco vinculados al programa de simulación de [[galatea-modelo-protomente]]: la distinción categorial entre clase cognitiva y qualia, y la mecánica de **ambiguación representacional** entre los tres Q.
+
+### Clase cognitiva como mónada universal objetiva
+
+La clase cognitiva no se confunde con el qualia: la primera es la unidad mínima de experiencia consciente con estatus universal objetivo (forma/fondo, sujeto/objeto, terror); el segundo es el componente subjetivo asociado.
+
+> "Las clases cognitivas son la mínima unidad de experiencia consciente universal, frente al qualia que es subjetivo"
+→ [Psicología 101: Del libre albedrío a la computación artificial (27:54)](https://youtu.be/hx9creRpdnY?t=1674)
+
+> "Se buscará contrastar mónadas universales conocidas (universales culturales) con patrones de activación cerebral en experimentos de lenguaje"
+→ [Psicología 101: Del libre albedrío a la computación artificial (27:54)](https://youtu.be/hx9creRpdnY?t=1674)
+
+La precisión cierra una posible confusión que la página articula sobre el cualia como gradiente: la transitoriedad se predica del qualia (componente subjetivo), no de la clase como mónada formal — la clase 'forma/fondo' es universal y permanente como categoría cognitiva, aunque cada actualización subjetiva sea un gradiente efímero. Es la diferencia entre el átomo representacional (universal) y su instanciación (subjetiva, transitoria). El programa empírico del canal — contrastar mónadas universales con patrones de neuroimagen — opera sobre esta distinción: si las clases son universales, deberían tener firma neural identificable a través de individuos.
+
+### Ambiguación representacional: poner una representación en función de otra
+
+La segunda pieza es operativa: los tres Q (imagen, forma, afecto) no son compartimentos estancos sino registros que pueden expresarse mutuamente. La operación que el canal nombra **ambiguación** consiste en codificar una representación de un registro en términos de otro:
+
+> "Ambigua es el proceso de poner una representación en función de otra: lo imaginario en términos formales, lo afectivo en términos imaginarios"
+→ [Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)
+
+> "Ejemplo: \"estar feliz\" puede describirse como valencia positiva sin objeto (codificación formal de un afecto)"
+→ [Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)
+
+> "Los tres tipos fundamentales de mecánica representacional (imaginario, formal, afectivo) pueden expresarse mutuamente"
+→ [Psicología 101: Del libre albedrío a la computación artificial (50:09)](https://youtu.be/hx9creRpdnY?t=3009)
+
+La ambiguación es la operación inversa a la especificación: 'estar feliz' (afecto) se transcribe como 'valencia positiva sin objeto' (codificación formal del afecto), conservando el contenido pero cambiando el registro Q de soporte. La pieza tiene consecuencia para la formalización de Galatea — el modelo necesita operadores que muevan contenido entre subgrafos Q, no solo dentro de cada uno. Y tiene consecuencia para [[teoria-del-simbolo-en-proxy]]: la matriz N opera con representaciones cuyos componentes se transvasan continuamente entre los tres registros, mecánica que la página articula como reorganización por ambiguación.
+
 
 ## La clase tiempo: memoria como gradiente de degeneración
 
@@ -492,6 +656,24 @@ En el directo *Del Papa y del Problema del Mal* (24 abril 2025) el canal cita un
 
 La reformulación que el canal añade es operativa: el aprendizaje **no es ver y copiar** sino comprobar si la propia predicción coincide con la realidad. La mente no es receptáculo pasivo que registra patrones — es generador activo de hipótesis cuya retroalimentación constituye el aprendizaje. El cierre del marco se vuelve nítido: representación y realidad están conectadas por bucles predictivos, no por correspondencia especular.
 
+
+
+### Dos tipos de novedad: predictiva sorpresiva y absoluta
+
+Un directo posterior (Psicología 101: El cerebro por dentro, mayo 2025) precisa la mecánica del aprendizaje predictivo distinguiendo dos modalidades de novedad con sustrato neural distinto:
+
+> "La novedad sorpresiva es cuando la predicción falla (disonancia entre lo esperado y lo ocurrido)"
+→ [Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)
+
+> "La novedad absoluta es encontrarse con algo completamente desconocido que no se puede predecir porque nunca se ha experimentado"
+→ [Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)
+
+> "Son dos categorías de novedad diferentes que implican circuitos cerebrales distintos"
+→ [Psicología 101: El cerebro por dentro (1:58:55)](https://youtu.be/jWxfmiiUuG4?t=7135)
+
+La distinción cierra una pieza que la sección 'La clase tiempo' dejaba implícita: el reflejo de orientación que sostiene la búsqueda no es un mecanismo unitario. La novedad predictiva opera dentro de un mapa representacional ya disponible (la sorpresa es sobre lo conocido — falla la predicción de una clase ya formada), mientras que la novedad absoluta requiere construcción de mapa nuevo (no hay predicción posible porque no hay material previo del que partir). La consecuencia operativa para la axiomática de clases: las clases mentales soportan dos modos de actualización cualitativamente distintos — refinamiento por contraste con predicción interna (clase ya formada que se ajusta) y formación inaugural (clase nueva que se constituye al operar sobre material sin precedente). El sustrato neural disociado de ambos modos es coherente con la articulación del aprendizaje integrativo multisensorial y el engrosamiento del hipocampo en función de la demanda de mapas espaciales nuevos (caso paradigmático de los taxistas de Londres) — la neurogénesis hipocampal opera precisamente cuando hay novedad absoluta que exige cartografiar, no cuando hay solo refinamiento de mapas existentes.
+
+
 > "El aprendizaje no es ver y copiar sino comprobar si tu predicción coincide con la realidad"
 → [Del Papa y del Problema del Mal (42:25)](https://youtu.be/0KkMrcmw8Fw?t=2545)
 
@@ -565,10 +747,113 @@ La simplificación dimensional refuerza la tesis:
 La cognición aviar opera con un grado de libertad imaginaria (distancia escalar) frente a las tres dimensiones espaciales que articulan la representación humana del entorno. La simplificación dimensional es funcionalmente suficiente: el gradiente de cambio de la dimensión única basta para extraer velocidad de aproximación, único parámetro que el ave necesita para decidir huida. La pieza ilustra cómo el realismo cognitivo no requiere riqueza representacional uniforme entre especies — basta que cada matriz noética sea sistemática respecto a su propio dominio operativo.
 
 
+
+## Imaginario hipocampal voluntariamente proyectable: experimento de ratas en realidad virtual
+
+Un directo posterior (Psicología 101: El Imaginario de las Ratas, febrero 2026) articula un caso experimental que confirma y refina la axiomática del marco. Investigadores conectan un dispositivo al hipocampo de una rata que navega un entorno virtual sobre una bola esférica; mediante deep learning decodifican los patrones de actividad hipocampal y los traducen a código gráfico representable en pantalla.
+
+> "Se conecta un aparato al hipocampo de una rata mientras navega un entorno virtual sobre una bola esférica"
+→ [Psicología 101: El Imaginario de las Ratas (38:44)](https://youtu.be/24YDiioWKeY?t=2324)
+
+> "El hipocampo codifica tanto la representación espacial en tiempo real como la memoria a largo plazo del espacio"
+→ [Psicología 101: El Imaginario de las Ratas (38:44)](https://youtu.be/24YDiioWKeY?t=2324)
+
+> "Mediante deep learning se decodifican los patrones hipocampales y se trasladan a código representable en pantalla"
+→ [Psicología 101: El Imaginario de las Ratas (38:44)](https://youtu.be/24YDiioWKeY?t=2324)
+
+### Las tres fases: del condicionamiento operante a la imaginación voluntaria
+
+La primera fase es condicionamiento operante clásico en realidad virtual — la rata aprende a buscar agua como recompensa moviéndose por el entorno tridimensional, análogo a las palomas de Skinner pero en VR. La superposición de la posición real del ratón con la decodificación hipocampal calibra la lectura.
+
+> "La rata se mueve en un entorno virtual tridimensional buscando agua como recompensa condicionada"
+→ [Psicología 101: El Imaginario de las Ratas (49:21)](https://youtu.be/24YDiioWKeY?t=2961)
+
+Las fases segunda y tercera son las decisivas: se inmoviliza al animal, que solo puede avanzar en el juego **proyectando mentalmente** hacia dónde quiere ir. La decodificación muestra que el hipocampo se dispone como si el evento estuviera ocurriendo:
+
+> "Se inmoviliza a la rata y solo puede avanzar en el juego proyectando mentalmente a dónde quiere ir"
+→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)
+
+> "El hipocampo muestra no lo que la rata ve sino lo que quiere ver: proyección imaginaria voluntaria"
+→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)
+
+> "Las ratas aprenden a mover objetos virtuales solo con el pensamiento y a mantener atención sostenida sobre ellos"
+→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)
+
+> "La decodificación confirma que la proyección imaginaria consiste en que el hipocampo se dispone como si el evento estuviera ocurriendo"
+→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)
+
+### Implicación para el modelo 3Q: el imaginario no es exclusivo humano; lo distintivo es la ambiguación
+
+La consecuencia para el realismo cognitivo es doble. Primero: la componente Q-imaginaria opera fuera de la cognición humana — las ratas tienen imaginario y pueden excindirlo de la actividad real para manejarlo mentalmente. La cognición animal no es solo procedimental.
+
+> "Las ratas tienen imaginario: pueden excindirlo de la actividad real y manejarlo mentalmente"
+→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)
+
+Segundo: la frontera entre cognición humana y animal no se traza en la posesión del imaginario sino en su ambiguabilidad. Lo que el ser humano hace y la rata no — al menos no en grado equivalente — es operar un sistema cognitivo en función de otro: la metáfora como caso paradigmático de ambiguación.
+
+> "La diferencia entre rata y humano podría no ser el imaginario en sí sino la explicitud y capacidad de ambiguación"
+→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)
+
+> "Lo que diferencia al humano es la capacidad de usar un sistema cognitivo en función de otro (metáfora como ambiguación)"
+→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)
+
+> "El imaginario no es un mapa automático reflejo sino proyectable, lo que lo hace potencialmente ambiguable con otras clases"
+→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)
+
+La pieza refina la sección 'Mónadas universales objetivas y ambiguación entre los tres Q': el imaginario es proyectable (no reflejo automático) en todo organismo con hipocampo capaz de codificar mapas espaciales, lo que lo vuelve estructuralmente ambiguable. La capacidad humana específica es la **explicitud** del operador de ambiguación — el ser humano no solo experimenta clases en función de otras (también la rata lo hace al proyectar imaginariamente su trayectoria) sino que puede tematizar, nombrar y operar deliberadamente esa puesta-en-función. La ambiguación humana es metarrepresentacional; la ambiguación animal opera sin metarrepresentación. La gradación coincide con la documentada en la sección sobre cognición visual en aves: los grados de libertad representacional varían entre especies, pero la mecánica básica (clases que se ambiguan entre sí) es continua.
+
+
+
 > "El conductismo es filosóficamente tautológico: define conducta apelando a su propio sistema o a coordenadas psicoanalíticas ajenas"
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
 
-> "El concepto de enfermedad mental no necesita demostración: la esquizofrenia no es un problema de adaptación sino una desconexión con la realidad"
+> "El concepto de enfermedad mental no necesita demostración: la esquizofrenia no es un problema de adaptación sino una desconexión con la realidad
+
+
+
+### Extensión filosófica de la crítica al conductismo: sincategoremático, modelo degenerado, hombre de paja, falsa norma
+
+Un directo monográfico (Psicoinfluencers, marzo 2025) extiende la crítica filosófica al conductismo con cuatro piezas adicionales que complementan el cargo de tautología ya documentado, articuladas como aplicación sistemática de los criterios de coherencia y completitud:
+
+**Modelo sincategoremático e incompleto** — los términos nucleares del aparato conductista quedan sin definición precisa, lo que vacía el modelo:
+
+> "Los términos \"conducta\" y \"consecuencia\" carecen de definición precisa en la explicación conductista"
+→ [Psicoinfluencers (43:41)](https://youtu.be/frbMVcThuRw?t=2621)
+
+> "La dicotomía \"repito o no repito la conducta\" es empíricamente falsa: ninguna conducta se repite idénticamente"
+→ [Psicoinfluencers (43:41)](https://youtu.be/frbMVcThuRw?t=2621)
+
+> "El conductismo no distingue entre conducta externa observable y experiencia noética interna"
+→ [Psicoinfluencers (43:41)](https://youtu.be/frbMVcThuRw?t=2621)
+
+**Modelo degenerado por excepciones** — partir de premisa simplista obliga a parchear con casuística que termina deformando la propia premisa, mecánica clásica de degeneración teórica que el conductismo exhibe en su tratamiento de la psicología cognitiva:
+
+> "El modelo termina necesitando tantas excepciones que la premisa original se deforma"
+→ [Psicoinfluencers (54:58)](https://youtu.be/frbMVcThuRw?t=3298)
+
+> "El conductismo prescinde deliberadamente de lo que no puede explicar para luego negar su existencia"
+→ [Psicoinfluencers (54:58)](https://youtu.be/frbMVcThuRw?t=3298)
+
+**Hombre de paja contra 'fuerzas internas' y falacia estética de la claridad** — la operación retórica del conductismo construye un adversario inexistente y se acredita epistémicamente por la simplicidad aparente del modelo, no por su rigor:
+
+> "Afirmar que la conducta no se debe a fuerzas internas desconocidas es un hombre de paja: nadie lo formula así"
+→ [Psicoinfluencers (1:05:11)](https://youtu.be/frbMVcThuRw?t=3911)
+
+> "La simplificación se presenta como virtud epistémica (\"lógico y claro\"), lo cual es una falacia estética"
+→ [Psicoinfluencers (1:05:11)](https://youtu.be/frbMVcThuRw?t=3911)
+
+La falacia estética de la claridad emparenta el dispositivo retórico conductista con el [[sofisma-estetico]] documentado en otra parte del corpus: en ambos casos la forma estética del enunciado (claridad, simplicidad, congruencia visual) sustituye al contenido sustantivo.
+
+**Falsa abolición de la norma** — la pieza última cierra la incoherencia interna del modelo: si no hay norma externa con la que comparar, la propia disciplina pierde la base para diagnosticar lo que dice tratar:
+
+> "Decir que no hay norma externa con la que compararse imposibilita el diagnóstico clínico"
+→ [Psicoinfluencers (1:25:23)](https://youtu.be/frbMVcThuRw?t=5123)
+
+> "Si la norma es individual y la ansiedad se explica por deseo, no se puede distinguir lo patológico de lo normal"
+→ [Psicoinfluencers (1:25:23)](https://youtu.be/frbMVcThuRw?t=5123)
+
+La aplicación sistemática de la crítica a casos clínicos concretos (TOC, depresión exógena, agorafobia, machismo aprendido) y su anclaje sociopolítico (locus externo de control, síndrome de la iluminada como motor ideológico de la divulgación) se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva — esta sección concentra solo el núcleo filosófico de la crítica, que cierra el cargo previo de tautología con tres mecánicas adicionales: sincategoremaía, degeneración por excepciones y abolición performativa de la norma.
+"
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
 
 
@@ -592,6 +877,10 @@ La cognición aviar opera con un grado de libertad imaginaria (distancia escalar
 
 
 
+
+
+
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
@@ -602,4 +891,8 @@ La cognición aviar opera con un grado de libertad imaginaria (distancia escalar
 - **Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke y Gustavo Bueno** — chunks: [49:21](https://youtu.be/TZTiSfm6syI?t=2961) · [1:17:23](https://youtu.be/TZTiSfm6syI?t=4643)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [29:42](https://youtu.be/i72IYlpQWd0?t=1782)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:38:51](https://youtu.be/xaFCTcXXI2o?t=5931)
+- **Psicoinfluencers** — chunks: [21:59](https://youtu.be/frbMVcThuRw?t=1319)
+- **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [19:49](https://youtu.be/hx9creRpdnY?t=1189)
+- **Psicología 101: Materialismo, pensamiento y Enric, de @AdictosalaFilosofía** — chunks: [29:23](https://youtu.be/cSj--O7RSPo?t=1763) · [48:06](https://youtu.be/cSj--O7RSPo?t=2886) · [1:52:28](https://youtu.be/cSj--O7RSPo?t=6748) · [2:06:28](https://youtu.be/cSj--O7RSPo?t=7588) · [2:12:32](https://youtu.be/cSj--O7RSPo?t=7952)
+- **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [13:52](https://youtu.be/-daRyQwnZy0?t=832) · [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
 

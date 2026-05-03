@@ -1,0 +1,201 @@
+{
+  "video_id": "24YDiioWKeY",
+  "video_title": "Psicología 101: El Imaginario de las Ratas",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "experimento de realidad virtual con ratas: imaginario hipocampal voluntariamente proyectable e implicaciones para el modelo 3Q",
+      "canonical_guess": "experimento-ratas-imaginario-3q",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "primary",
+      "minutes_estimate": 26,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El hipocampo muestra no lo que la rata ve sino lo que quiere ver: proyección imaginaria voluntaria"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las ratas tienen imaginario: pueden excindirlo de la actividad real y manejarlo mentalmente"
+        },
+        {
+          "mark_type": "framing_mark",
+          "quote_evidence": "La diferencia entre rata y humano podría no ser el imaginario en sí sino la explicitud y capacidad de ambiguación"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Pieza con doble valor para realismo-cognitivo: (a) confirmación empírica de que el imaginario opera en clases inferiores (rata) — la cognición animal no es solo procedimental sino que aloja proyección imaginaria voluntaria detectable con decodificación hipocampal por deep learning; (b) refinamiento crítico de la distinción humano/animal que la página ya documenta — lo distintivamente humano no es tener imaginario sino la capacidad de ambiguación (usar un sistema cognitivo en función de otro, metáfora como caso paradigmático). Material que extiende la sección 'Caso operativo: cognición visual en aves' con un caso experimental más sofisticado y refina la sección 'Mónadas universales y ambiguación' añadida en este mismo barrido. No merece concepto autónomo porque opera como confirmación/refinamiento del marco existente",
+      "quote_evidence": "El imaginario no es un mapa automático reflejo sino proyectable, lo que lo hace potencialmente ambiguable con otras clases"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "basta que cada matriz noética sea sistemática respecto a su propio dominio operativo.",
+      "content_proposed": "\n\n## Imaginario hipocampal voluntariamente proyectable: experimento de ratas en realidad virtual\n\nUn directo posterior (Psicología 101: El Imaginario de las Ratas, febrero 2026) articula un caso experimental que confirma y refina la axiomática del marco. Investigadores conectan un dispositivo al hipocampo de una rata que navega un entorno virtual sobre una bola esférica; mediante deep learning decodifican los patrones de actividad hipocampal y los traducen a código gráfico representable en pantalla.\n\n> \"Se conecta un aparato al hipocampo de una rata mientras navega un entorno virtual sobre una bola esférica\"\n→ [Psicología 101: El Imaginario de las Ratas (38:44)](https://youtu.be/24YDiioWKeY?t=2324)\n\n> \"El hipocampo codifica tanto la representación espacial en tiempo real como la memoria a largo plazo del espacio\"\n→ [Psicología 101: El Imaginario de las Ratas (38:44)](https://youtu.be/24YDiioWKeY?t=2324)\n\n> \"Mediante deep learning se decodifican los patrones hipocampales y se trasladan a código representable en pantalla\"\n→ [Psicología 101: El Imaginario de las Ratas (38:44)](https://youtu.be/24YDiioWKeY?t=2324)\n\n### Las tres fases: del condicionamiento operante a la imaginación voluntaria\n\nLa primera fase es condicionamiento operante clásico en realidad virtual — la rata aprende a buscar agua como recompensa moviéndose por el entorno tridimensional, análogo a las palomas de Skinner pero en VR. La superposición de la posición real del ratón con la decodificación hipocampal calibra la lectura.\n\n> \"La rata se mueve en un entorno virtual tridimensional buscando agua como recompensa condicionada\"\n→ [Psicología 101: El Imaginario de las Ratas (49:21)](https://youtu.be/24YDiioWKeY?t=2961)\n\nLas fases segunda y tercera son las decisivas: se inmoviliza al animal, que solo puede avanzar en el juego **proyectando mentalmente** hacia dónde quiere ir. La decodificación muestra que el hipocampo se dispone como si el evento estuviera ocurriendo:\n\n> \"Se inmoviliza a la rata y solo puede avanzar en el juego proyectando mentalmente a dónde quiere ir\"\n→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)\n\n> \"El hipocampo muestra no lo que la rata ve sino lo que quiere ver: proyección imaginaria voluntaria\"\n→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)\n\n> \"Las ratas aprenden a mover objetos virtuales solo con el pensamiento y a mantener atención sostenida sobre ellos\"\n→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)\n\n> \"La decodificación confirma que la proyección imaginaria consiste en que el hipocampo se dispone como si el evento estuviera ocurriendo\"\n→ [Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)\n\n### Implicación para el modelo 3Q: el imaginario no es exclusivo humano; lo distintivo es la ambiguación\n\nLa consecuencia para el realismo cognitivo es doble. Primero: la componente Q-imaginaria opera fuera de la cognición humana — las ratas tienen imaginario y pueden excindirlo de la actividad real para manejarlo mentalmente. La cognición animal no es solo procedimental.\n\n> \"Las ratas tienen imaginario: pueden excindirlo de la actividad real y manejarlo mentalmente\"\n→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)\n\nSegundo: la frontera entre cognición humana y animal no se traza en la posesión del imaginario sino en su ambiguabilidad. Lo que el ser humano hace y la rata no — al menos no en grado equivalente — es operar un sistema cognitivo en función de otro: la metáfora como caso paradigmático de ambiguación.\n\n> \"La diferencia entre rata y humano podría no ser el imaginario en sí sino la explicitud y capacidad de ambiguación\"\n→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)\n\n> \"Lo que diferencia al humano es la capacidad de usar un sistema cognitivo en función de otro (metáfora como ambiguación)\"\n→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)\n\n> \"El imaginario no es un mapa automático reflejo sino proyectable, lo que lo hace potencialmente ambiguable con otras clases\"\n→ [Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)\n\nLa pieza refina la sección 'Mónadas universales objetivas y ambiguación entre los tres Q': el imaginario es proyectable (no reflejo automático) en todo organismo con hipocampo capaz de codificar mapas espaciales, lo que lo vuelve estructuralmente ambiguable. La capacidad humana específica es la **explicitud** del operador de ambiguación — el ser humano no solo experimenta clases en función de otras (también la rata lo hace al proyectar imaginariamente su trayectoria) sino que puede tematizar, nombrar y operar deliberadamente esa puesta-en-función. La ambiguación humana es metarrepresentacional; la ambiguación animal opera sin metarrepresentación. La gradación coincide con la documentada en la sección sobre cognición visual en aves: los grados de libertad representacional varían entre especies, pero la mecánica básica (clases que se ambiguan entre sí) es continua.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "24YDiioWKeY",
+          "timestamp_seconds": 2324,
+          "cite_markdown": "[Psicología 101: El Imaginario de las Ratas (38:44)](https://youtu.be/24YDiioWKeY?t=2324)"
+        },
+        {
+          "video_id": "24YDiioWKeY",
+          "timestamp_seconds": 2961,
+          "cite_markdown": "[Psicología 101: El Imaginario de las Ratas (49:21)](https://youtu.be/24YDiioWKeY?t=2961)"
+        },
+        {
+          "video_id": "24YDiioWKeY",
+          "timestamp_seconds": 3146,
+          "cite_markdown": "[Psicología 101: El Imaginario de las Ratas (52:26)](https://youtu.be/24YDiioWKeY?t=3146)"
+        },
+        {
+          "video_id": "24YDiioWKeY",
+          "timestamp_seconds": 3882,
+          "cite_markdown": "[Psicología 101: El Imaginario de las Ratas (1:04:42)](https://youtu.be/24YDiioWKeY?t=3882)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído. La sección 'Caso operativo: cognición visual en aves' aborda cognición animal con un caso (gavilanes, dimensión imaginaria escalar) pero la cognición articulada allí es perceptual-detectora, no proyectiva-imaginaria; la sección 'Mónadas universales objetivas y ambiguación' añadida en este barrido articula la mecánica de ambiguación entre Q's pero no la fundamenta empíricamente ni acota su distintivo humano. El experimento de ratas aporta: (a) confirmación experimental decodificada de que el imaginario opera fuera de la cognición humana; (b) precisión sobre la frontera humano/animal — no es la posesión del imaginario sino la explicitud metarrepresentacional de la ambiguación. insert_after_passage tras 'Caso operativo: cognición visual en aves' es la posición editorial natural: extiende el catálogo de cognición animal con un caso experimental más sofisticado y enlaza con la sección de ambiguación añadida arriba",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Proyecto Ariatna: bases neurobiológicas del modelo 3Q",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio del programa de investigación del canal: usar LLMs para sistematizar búsqueda de artículos científicos que justifiquen el modelo 3Q antes de publicar en revista científica. Pieza meta sobre la infraestructura de investigación (no es Galatea, que es la simulación de organismo; Ariatna es el aparato RAG/MCP del canal). Si el proyecto Ariatna se desarrolla como programa enciclopédico autónomo podrá merecer página propia, pero aquí solo es anuncio metodológico",
+      "quote_evidence": "El objetivo es identificar los correlatos neurobiológicos del modelo de las tres clases cognitivas (imaginarias, gramaticales y afectivas)",
+      "review_priority": "medium",
+      "review_priority_reason": "proyecto de investigación del canal con potencial para página propia si se desarrolla — vigilar",
+      "enriches_concept": "galatea-modelo-protomente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Objetivo de publicar en revista científica antes del libro de divulgación",
+      "reason_code": "meta_canal",
+      "reason_detail": "Estrategia editorial del canal (publicación arbitrada como autoridad antes del libro). Sin contenido temático",
+      "quote_evidence": "El canal aspira a publicar uno o dos artículos en revistas científicas antes de escribir el libro de divulgación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pansiquismo y giros copernicanos (Wheeler, electrón único, relatividad como inversión de paradigmas)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Reflexión filosófica especulativa sobre el pansiquismo como posible giro copernicano análogo a la relatividad o a la teoría del electrón único de Wheeler. Material que la página realismo-cognitivo ya cubre ampliamente en la sección 'Argumento anti-materialista (paradoja de Kripke + hard problem)' donde el pansiquismo aparece como consecuencia lógica del materialismo sin criterio de demarcación. Esta nueva mención no añade tesis estructural distinta — es comentario adyacente a una noticia (el científico chino que revierte Alzheimer)",
+      "quote_evidence": "El pansiquismo propone que la conciencia es un tejido fundamental del universo, no un fenómeno emergente biológico",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Reversión de Alzheimer en ratones: regeneración hipocampal y placas amiloideas",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Noticia de neurociencia comentada con marco general (cerebro de ratón filogenéticamente próximo, regeneración hipocampal, placas amiloideas como impedimento). Sin marco interpretativo distintivo del canal más allá de la observación general sobre la persistencia de las rutas neuronales",
+      "quote_evidence": "La reversión de la memoria es posible porque el hipocampo regenera neuronas a partir de neuronas madre",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rutas de memoria prediseñadas y plasticidad relativa a las funciones",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación breve del speaker: la plasticidad no es absoluta sino dirigida por la arquitectura prediseñada. Pieza coherente con la lectura del canal sobre clases ancestrales y axiomática de clases (no toda configuración representacional es posible). Brevedad y ausencia de desarrollo sostenido desaconsejan update independiente",
+      "quote_evidence": "La plasticidad no es absoluta sino relativa a las funciones que la exigen: las neuronas se disponen para conectar partes específicas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Alzheimer como demencia global y tipos de memoria afectada (motora vs hipocampal)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Catálogo neurológico estándar (memoria córtico-talámica vs hipocampal, apraxias incluyendo afasia motora). Pedagogía clásica sin marco canal-específico aplicado. La metáfora 'córtex como CPUs simultáneas y prefrontal como RAM' es divulgativa, ya documentada en la página sobre el cerebro por dentro",
+      "quote_evidence": "El Alzheimer destruye tanto recuerdos formados como la capacidad de formar nuevos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Aplicación de la interfaz cerebro-máquina a humanos: bypass para ciegos vía córtex visual",
+      "reason_code": "passing_mention",
+      "reason_detail": "Extrapolación divulgativa del experimento de ratas a aplicaciones humanas (decodificación de córtex visual para personas ciegas). Comentario adyacente sin marco teórico distintivo",
+      "quote_evidence": "La misma tecnología puede aplicarse a humanos con el córtex visual, incluyendo bypass para personas ciegas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Moldbook: LLMs creando cultos religiosos, partidos y pseudofilosofías en redes sociales artificiales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario sobre experimento social con red de LLMs. La tesis subyacente (las IAs no son creativas en sentido fuerte: repiten patrones humanos) está sustantivamente cubierta en golem-de-cobre y en psicoinfluencers-en-proxy. El caso Moldbook es ilustración curiosa pero brevísima sin desarrollo enciclopédico",
+      "quote_evidence": "Las IAs no son creativas en sentido fuerte: repiten patrones humanos extraídos de internet",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Caso clínico Perfil Raro: análisis del acosador con espectro esquizoafectivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis clínico aplicado a un caso real de acoso (pensamiento circular con buffer corto, habla arrastrada típica de neurolépticos como olanzapina, conducta confabulatoria con acting out, espectro esquizoafectivo). Material sustantivo (~14 min) pero anclado a un caso público concreto. El núcleo conceptual (confabulación, pensamiento circular) se cubre tangencialmente en el bloque siguiente sobre niveles de confabulación",
+      "quote_evidence": "Se trata de conducta confabulatoria: una representación mental repetida hasta creerla real y actuarla (acting out)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Niveles de confabulación: de la neurosis al delirio psicótico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tipología canal-articulada de cuatro niveles de confabulación según gravedad (neurótica en duelos/depresión/personalidad obsesiva → trastornos de personalidad → esquizoafectiva → psicótica = delirio). Pieza con estructura interna pero brevedad (~10 min) desaconseja promoción autónoma. Si reaparece como tipología sostenida en monográfico futuro merecerá concepto. La precisión sobre TOC cerca del espectro esquizo es valiosa para vigilancia",
+      "quote_evidence": "La confabulación psicótica es el delirio: cuando la representación mental se vuelve indistinguible de la realidad",
+      "review_priority": "medium",
+      "review_priority_reason": "tipología articulada con cuatro niveles — candidato a concepto autónomo si se desarrolla en monográfico",
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Empatía cognitiva vs empatía emocional como proyección: distinción canal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica con implicación operativa importante: la empatía cognitiva (ponerse en el lugar del otro) es compatible con psicopatía y maquiavelismo; la 'empatía emocional' es estrictamente proyección (atribuir al otro lo que tú sentirías). La afirmación complementaria (las mujeres no son más empáticas sino que proyectan más; la gente confunde sistemáticamente empatía con compasión) cierra una crítica metodológica a divulgación pop-psicológica que encaja sustantivamente en psicoinfluencers-en-proxy. Brevedad (~5 min) desaconseja promoción autónoma; si el canal desarrolla la distinción con monográfico merecerá concepto",
+      "quote_evidence": "La llamada empatía emocional es en realidad proyección: atribuir al otro lo que tú sentirías en su lugar",
+      "review_priority": "medium",
+      "review_priority_reason": "distinción canal-específica con corrección directa de divulgación popular — candidato a enriquecer psicoinfluencers o a concepto autónomo",
+      "enriches_concept": "psicoinfluencers-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

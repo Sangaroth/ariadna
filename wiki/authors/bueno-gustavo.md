@@ -221,6 +221,8 @@ La precisión cierra el flanco crítico que ya estaba abierto: el canal usa el a
 
 
 
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
@@ -229,4 +231,6 @@ La precisión cierra el flanco crítico que ya estaba abierto: el canal usa el a
 - **Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke y Gustavo Bueno** — chunks: [51:52](https://youtu.be/TZTiSfm6syI?t=3112) · [1:09:49](https://youtu.be/TZTiSfm6syI?t=4189)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [28:12](https://youtu.be/i72IYlpQWd0?t=1692)
 - **Lunes 100 tífiko: Therians** — chunks: [1:12:08](https://youtu.be/aaIT2JDaL6c?t=4328)
+- **Proxy T4, 4x01: "Piloto"** — chunks: [26:30](https://youtu.be/ucOt-vQZ4Qw?t=1590)
+- **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [43:27](https://youtu.be/-daRyQwnZy0?t=2607)
 

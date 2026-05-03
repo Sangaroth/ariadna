@@ -1,0 +1,194 @@
+{
+  "video_id": "mG-05eFJsCQ",
+  "video_title": "Psicología 101: Identidad y depresión.",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Crisis de identidad y depresión recurrente: tesis articulada del canal con caso clínico aplicado (con Exit)",
+      "canonical_guess": "crisis-de-identidad-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 150,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Una crisis de identidad ocurre cuando algo que teníamos por seguro en ese mapa se cuestiona inconscientemente"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Todos tenemos un mapa de identidad: nuestro lugar en la familia, amigos, profesión y sociedad"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El primer paso terapéutico es recopilar contexto antes de sacar conclusiones"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las crisis de identidad se fraguan en la adolescencia"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de Psicología 101 (~165 min entero dedicado a la articulación de la tesis con caso clínico aplicado, con Exit como psicólogo clínico interlocutor). El canal articula una teoría completa de la crisis de identidad como diagnóstico operativo: (1) mapa de identidad como estructura preconsciente (lugar en familia, amigos, profesión, sociedad); (2) crisis = cuestionamiento inconsciente de un punto fijo del mapa; (3) tests de personalidad junguianos como tests de identidad (no de personalidad); (4) pistas diagnósticas convergentes (surge sin causa, persiste entre episodios, contradicción nuclear 'ya superé/sigue pasándome'); (5) trampa solo conductual: depresiones adolescentes 'superadas' sin trabajo cognitivo dejan identidad como castillo de naipes; (6) adolescencia como fragua de la identidad; (7) eventos canónicos que activan la crisis (primera ruptura, cambio de ciudad, pérdida de empleo); (8) desidia como mecanismo de defensa secundario (distinto de apatía: reactiva y consciente, cubre emoción primaria intensa); (9) insight como capacidad de distinguir lo interno como interno; (10) metodología terapéutica (validar sin mentir, espejo del psicólogo, meter la duda en la caja negra). Cumple gate de auto-promoción de scope.md §2.4.1 (minutes ≥ 30, signal_marks ≥ 3, framework_internal_structure ≥ 4). synthesis_subtype: author_thesis con auto_promoted_synthesis: true. No encaja en yo-ego-autoestima-en-proxy (esa página aloja la taxonomía estructural del aparato psíquico; esta página aloja la dinámica de cuestionamiento del mapa identitario y su clínica)",
+      "quote_evidence": "Una crisis de identidad ocurre cuando algo que teníamos por seguro en ese mapa se cuestiona inconscientemente"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Caso clínico del paciente (joven con mini-depresiones recurrentes y disparador relacional)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso clínico real que opera como ilustración aplicada de la tesis sobre crisis de identidad. Material que se integra como sección 'caso aplicado' en la página synthesis crisis-de-identidad-en-proxy",
+      "quote_evidence": "Un joven reporta episodios depresivos de uno o dos días que aparecen sin causa aparente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mapa de identidad como concepto base",
+      "reason_code": "passing_mention",
+      "reason_detail": "Estructura preconsciente que articula nuestro lugar en familia, amigos, profesión y sociedad. Concepto canal-articulado clave para entender la crisis de identidad. Sub-pieza nuclear de crisis-de-identidad-en-proxy. Si reaparece como concepto autónomo en monográfico futuro merecerá página propia",
+      "quote_evidence": "Todos tenemos un mapa de identidad: nuestro lugar en la familia, amigos, profesión y sociedad",
+      "review_priority": "medium",
+      "review_priority_reason": "concepto base de la articulación de la identidad — vigilar para promoción autónoma si reaparece sostenido",
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Desidia como mecanismo de defensa (distinta de apatía)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica entre desidia (emoción reactiva y consciente que tapa una emoción primaria intensa: ansiedad, ira, tristeza profunda) y apatía (simple falta de motivación). El cuerpo se apaga preventivamente ante un disparador anticipado. Sub-pieza clínicamente operativa de crisis-de-identidad-en-proxy. Si reaparece como tipología en monográfico futuro merecerá concepto autónomo",
+      "quote_evidence": "La desidia es una emoción reactiva y consciente, distinta de la apatía que es simplemente falta de motivación",
+      "review_priority": "medium",
+      "review_priority_reason": "distinción canal-específica con valor clínico independiente — vigilar recurrencia para promoción autónoma",
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Insight como concepto operativo (distinguir lo interno como interno)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto técnico estándar de psicología clínica con énfasis del canal en su función de discernimiento (separar la propia proyección del caso externo). Sub-pieza de crisis-de-identidad-en-proxy",
+      "quote_evidence": "Insight es la habilidad de distinguir cuándo algo que percibes pertenece a tu interior",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trampa de la solución solo conductual (la guinda del caso)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico estructural fuerte del canal: las depresiones adolescentes que se 'superan' cambiando hábitos/entorno/circunstancias dejan la identidad sin trabajo cognitivo, basada en logros externos frágiles como castillo de naipes que se derrumba cuando algo exterior falla. Sub-pieza nuclear de crisis-de-identidad-en-proxy. Conecta con la crítica articulada en psicoinfluencers-en-proxy al conductismo simplista que reduce la psique a refuerzos sin trabajo cognitivo",
+      "quote_evidence": "Las depresiones adolescentes suelen \"superarse\" solo conductualmente: cambiando hábitos, entorno o circunstancias",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis estructural fuerte sobre la insuficiencia del cambio conductual sin trabajo cognitivo — pieza recurrente del canal",
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Adolescencia como fragua de la identidad y eventos canónicos activadores",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación evolutiva: la identidad se forma en la adolescencia y los problemas identitarios se arrastran desde ahí; eventos canónicos posteriores (primera ruptura, cambio de ciudad, pérdida de empleo) activan crisis latentes; las emociones funcionan como filtros de realidad que en momentos de bajón descubren partes antes invisibles. Sub-pieza de crisis-de-identidad-en-proxy",
+      "quote_evidence": "La identidad se forma en la adolescencia, por eso los problemas identitarios suelen arrastrarse desde ahí",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tests de personalidad junguianos como tests de identidad (precisión metodológica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Corrección categorial del canal: lo que se vende como tests de personalidad (MBTI y similares) son en realidad tests de identidad — miden el lugar en el mapa, no el rasgo de personalidad. Sub-pieza de crisis-de-identidad-en-proxy",
+      "quote_evidence": "Los tests de personalidad junguianos son en realidad tests de identidad, no de personalidad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Validar sin mentir: metodología terapéutica del canal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza terapéutica articulada: validar no es dar la razón sino aceptar que el paciente externaliza su malestar como puede; el terapeuta traduce el problema y ofrece forma más funcional. Conecta con la distinción 'validar vs dar la razón' documentada brevemente en psicoinfluencers-en-proxy. Sub-pieza de crisis-de-identidad-en-proxy",
+      "quote_evidence": "Validar no es dar la razón sino aceptar que el paciente externaliza su malestar como puede",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Procesos internos no explícitos: presunciones y asunciones ocultas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica del canal: gran parte del conflicto neurótico opera en presunciones que el paciente no verbaliza; expectativas implícitas como 'esto no debería pasarme' generan el malestar real; el trabajo terapéutico consiste en poner palabras. Sub-pieza terapéutica de crisis-de-identidad-en-proxy",
+      "quote_evidence": "Gran parte del conflicto neurótico opera en presunciones que el paciente no verbaliza",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hipnosis clínica como herramienta legítima (aporte de Exit)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Paréntesis del directo a cargo de Exit (psicólogo clínico): la hipnosis debe ser realizada por profesional cualificado; eficaz para cambiar conductas automáticas mediante sugestión (fobias, deshabituación, hábitos) pero no sustituye trabajo cognitivo profundo ni cambia creencias. Sub-pieza marginal del directo (~10 min) que se integra en crisis-de-identidad-en-proxy como herramienta clínica adyacente al marco",
+      "quote_evidence": "Funciona para cambiar conductas automáticas mediante sugestión, no para cambiar creencias cognitivas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Descarte de depresión estacional y bioquímica de transiciones otoño-invierno",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Procedimiento clínico estándar de exclusión diagnóstica + comentario sobre bioquímica de transiciones estacionales. Pieza pedagógica sin marco interpretativo distintivo del canal",
+      "quote_evidence": "Las transiciones otoño-invierno y primavera son bioquímicamente complicadas para muchas personas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rumiación como concepto técnico estándar",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto clínico estándar (dar vueltas en la cabeza sin llegar a conclusiones). El canal lo invoca operacionalmente sin desarrollo articulado",
+      "quote_evidence": "Le da muchas vueltas en la cabeza a por qué está así, sin llegar a conclusiones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Propiocepción y nocicepción como vías para conectar con la sensación corporal del afecto",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pregunta clínica de Exit: dónde lo siente corporalmente (garganta = pena, pecho = nostalgia, estómago = angustia). Pieza pedagógica que conecta con la distinción afectos/emociones articulada en collective-unconscious. Sub-pieza terapéutica menor",
+      "quote_evidence": "Exit pregunta dónde lo siente corporalmente: garganta (pena), pecho (nostalgia), estómago (angustia)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

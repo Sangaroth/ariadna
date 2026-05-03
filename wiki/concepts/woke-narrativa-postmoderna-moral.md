@@ -146,9 +146,11 @@ La categoría es generalizable: las fórmulas pseudo-aritméticas que pretenden 
 
 
 
+
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
 - **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
 - **Luto** — chunks: [38:05](https://youtu.be/5eRSU7lRELI?t=2285)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [53:01](https://youtu.be/1WEQmzUM41M?t=3181) · [1:02:18](https://youtu.be/1WEQmzUM41M?t=3738)
+- **Progresterona** — chunks: [59:12](https://youtu.be/7f-iHJpDMVQ?t=3552)
 

@@ -1,0 +1,167 @@
+{
+  "video_id": "Fx9_s11xeFs",
+  "video_title": "¡Proxy está emitiendo en directo!",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Búsqueda de piso en Barcelona y logística de la mudanza",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Bloque dominante del directo (entrevistas para pisos, candidato ideal sin techo, piso de 700€ vs habitación-cápsula, quinto sin ascensor, barrio que huele a porro, distribución del espacio). Logística personal del streamer sin valor enciclopédico ni marco teórico aplicado",
+      "quote_evidence": "Ha tenido una entrevista para un piso y le han dicho que les gustó como candidato",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Migración Yastel → Yoigo y router 5G",
+      "reason_code": "meta_canal",
+      "reason_detail": "Infraestructura técnica del streamer (cobertura de datos, plan de migración de operador, router 5G como respaldo). Sin contenido temático",
+      "quote_evidence": "Yastel compartía cobertura de datos con otras compañías pequeñas causando problemas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Starlink para emitir desde zonas remotas de buceo",
+      "reason_code": "meta_canal",
+      "reason_detail": "Logística de conectividad para sitios sin cobertura 5G. La mención de Elon Musk es contextual al producto, no entrada al diagrama-de-proxy ni análisis de figura",
+      "quote_evidence": "Para sitios remotos de buceo necesitaría el Starlink de Elon Musk",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Logística del equipo de buceo (trastero, terraza para secar)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Hobby personal del streamer y solución logística. Sin valor enciclopédico",
+      "quote_evidence": "El equipo pesado de buceo (traje seco, herramientas) pesa demasiado para cinco pisos sin ascensor",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estrategia del air fryer en espacio reducido",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Comentario doméstico sobre cocinar sin humos en una habitación pequeña",
+      "quote_evidence": "La habitación-cápsula no tiene ventilación suficiente para freír con aceite",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Revisión médica cancelada y cita reagendada",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Agenda personal del streamer. Sin contenido temático",
+      "quote_evidence": "Le han cancelado la revisión médica y ha conseguido cita en otro centro para mañana",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ducha sin agua caliente y constipado",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota cotidiana sobre el gimnasio, el jabón olvidado y la ducha fría",
+      "quote_evidence": "Se duchó con agua muy fría en casa y se constipó",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Maquetación del libro por Claudia y necesidad de estabilidad",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario sobre el proceso editorial del libro propio del canal. Información meta sin contenido temático nuevo. Si en el futuro el libro se publica y se discute como obra del canal podría merecer entrada propia",
+      "quote_evidence": "Claudia está trabajando en la maquetación del libro",
+      "review_priority": "medium",
+      "review_priority_reason": "el libro propio del canal puede llegar a ser objeto enciclopédico cuando se publique — vigilar",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Entrevista en Slow Sound Podcast (probable temática: psicología arquetípica y fantasía)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de aparición externa del speaker; el contenido del podcast no se desarrolla aquí (solo se anticipa la temática como conjetura). Sin material sustantivo del corpus",
+      "quote_evidence": "Le entrevistan en Slow Sound Podcast en Barcelona",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Fracaso técnico del directo: filtro de chat oculto, 27 espectadores",
+      "reason_code": "directo casual",
+      "reason_detail": "Metadata del propio stream (no podía leer el chat, descubrimiento de filtro de mensajes). Comentario sobre el directo en curso, no contenido temático",
+      "quote_evidence": "Marca 27 espectadores pero no puede leer el chat del móvil",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Metáfora de la isla desierta y las señales de humo (chat unidireccional)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Imagen poética puntual sobre la asimetría comunicacional del streamer y su audiencia (los emotes como única señal de presencia). No invoca marco teórico estructural; es flourish retórico ad hoc dentro del comentario meta-stream",
+      "quote_evidence": "Compara los corazones del chat con un hilillo de humo al otro lado de una isla desierta",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Llaves olvidadas dentro de casa y cerrajero",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota cotidiana del speaker (cerrojo fácil, juegos de llaves en Zaragoza). Sin contenido temático",
+      "quote_evidence": "Se dejó las llaves dentro de casa por salir tantas veces a ver pisos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Recuerdo del primer trabajo en Madrid (siestas detrás del biombo, autónomos)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota biográfica del speaker sobre falso autónomo y siestas en la oficina. Sin elevación a marco crítico estructural sobre laboralidad ni conexión con conceptos del canal",
+      "quote_evidence": "En su primer trabajo les obligaban a contratarse como autónomos por 800€ menos la cuota",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Plan para mañana (piso, médico, router 5G)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Agenda del streamer para el día siguiente. Sin contenido temático",
+      "quote_evidence": "Entrevista de piso a las 2, revisión médica a las 3:30",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -103,8 +103,149 @@ Galatea fue suspendido en su momento por barreras técnicas y de recursos, pero 
 
 Se presenta así como programa de investigación abierto, no como teoría cerrada: una ruta experimental para verificar empíricamente la tesis de la mente encarnada frente al pansiquismo computacional.
 
+
+
+## Arquitectura del modelo: 8 nodos, metagrafos, cálculo lambda
+
+En el directo *Psicología 101: Del libre albedrío a la computación artificial* (marzo 2025) el canal articula por primera vez la arquitectura formal del proyecto. Galatea no es una red neuronal monolítica: es un **metagrafo** — un grafo cuyos nodos son a su vez subgrafos neuronales — con ocho nodos fundamentales que codifican funciones cognitivas específicas y se interconectan mediante conexiones ponderadas probabilísticas.
+
+> "Galatea es un sistema de metagrafos con 8 nodos fundamentales que representan funciones cognitivas"
+→ [Psicología 101: Del libre albedrío a la computación artificial (30:28)](https://youtu.be/hx9creRpdnY?t=1828)
+
+> "Cada nodo es un cluster de neuronas que codifica para una función cognitiva específica"
+→ [Psicología 101: Del libre albedrío a la computación artificial (30:28)](https://youtu.be/hx9creRpdnY?t=1828)
+
+> "Cada nodo de Galatea es una red neuronal, no una CPU; son clusters neuronales con matrices de submatrices"
+→ [Psicología 101: Del libre albedrío a la computación artificial (55:46)](https://youtu.be/hx9creRpdnY?t=3346)
+
+### Los ocho nodos: representacional, imaginario, formal, afectivo, energía, memoria, inhibitorio, síntesis
+
+El nodo **representacional** (rosa) opera como integrador: sintetiza las tres matrices imaginaria, formal y afectiva — la tripartición Q ya documentada en [[realismo-cognitivo]] formalizada como subgrafos del modelo.
+
+> "El nodo representacional (rosa) sintetiza tres matrices: imaginaria, formal y afectiva"
+→ [Psicología 101: Del libre albedrío a la computación artificial (35:30)](https://youtu.be/hx9creRpdnY?t=2130)
+
+> "El nodo imaginario (amarillo) codifica posición y luz (espacio y luminosidad)"
+→ [Psicología 101: Del libre albedrío a la computación artificial (35:30)](https://youtu.be/hx9creRpdnY?t=2130)
+
+El nodo **afectivo** (cian) implementa la batería de Panksepp con siete funciones ordenadas por prioridad evolutiva, aunque la implementación inicial recorta el catálogo:
+
+> "El nodo afectivo (cian) contiene siete funciones: reproducción, cuidado, pánico, juego, buscar, terror e ira, ordenadas por prioridad evolutiva"
+→ [Psicología 101: Del libre albedrío a la computación artificial (35:30)](https://youtu.be/hx9creRpdnY?t=2130)
+
+El modulador de **energía** y el nodo de **memoria** operan como reguladores del flujo representacional; el **inhibitorio** filtra qué procesos llegan al área de representación; el de **síntesis** extrae el cuello de botella consciente:
+
+> "El modulador de energía limita el consumo energético por tiempo y filtra representaciones para que no se active todo simultáneamente"
+→ [Psicología 101: Del libre albedrío a la computación artificial (39:02)](https://youtu.be/hx9creRpdnY?t=2342)
+
+> "El nodo inhibitorio impide que ciertos procesos cognitivos lleguen al área de representación cuando la energía o la memoria lo desaconsejan"
+→ [Psicología 101: Del libre albedrío a la computación artificial (39:02)](https://youtu.be/hx9creRpdnY?t=2342)
+
+> "El nodo de síntesis extrae del nodo representacional un resumen de máximo 12 bits para la conciencia"
+→ [Psicología 101: Del libre albedrío a la computación artificial (41:03)](https://youtu.be/hx9creRpdnY?t=2463)
+
+Los 12 bits sintetizados retroalimentan el nodo inhibitorio y el nodo formal, cerrando el circuito; la **mente abstracta** opera combinando el nodo formal con el metarrepresentacional — representaciones sintetizadas convertidas a relaciones abstractas. La cifra coincide con la documentada como cuello de botella consciente del SAL en [[realismo-cognitivo]].
+
+### Memoria como nodo de refuerzo, no como almacén
+
+Una pieza polémica del modelo: la memoria psicoanalítica como almacén representacional (episódica, semántica, procedimental) se rechaza como mito sin locus cerebral real. El nodo memoria de Galatea no almacena contenidos sino que registra eficiencias procesales:
+
+> "La memoria como almacén representacional (episódica, semántica, procedimental) es un mito sin locus cerebral real"
+→ [Psicología 101: Del libre albedrío a la computación artificial (52:44)](https://youtu.be/hx9creRpdnY?t=3164)
+
+> "El nodo memoria de Galatea es exclusivamente un nodo de refuerzo: registra qué procesos fueron más eficientes"
+→ [Psicología 101: Del libre albedrío a la computación artificial (52:44)](https://youtu.be/hx9creRpdnY?t=3164)
+
+> "Circuitos cerebrales de refuerzo reales: amígdala-prefrontal-estriado-cingulado e hipocampo-ínsula-amígdala-hipotálamo"
+→ [Psicología 101: Del libre albedrío a la computación artificial (52:44)](https://youtu.be/hx9creRpdnY?t=3164)
+
+La pieza es coherente con la redefinición del tiempo como gradiente de degeneración representacional articulada en [[realismo-cognitivo]]: lo que opera no es un almacén sino la marca dejada por la repetición eficiente.
+
+### Reducción filogenética: del modelo mamífero al modelo hidrozoario
+
+Los siete sistemas afectivos completos pertenecen a los mamíferos; el canal mapea las simplificaciones evolutivas y elige una implementación reducida para la primera versión:
+
+> "Los siete sistemas afectivos completos solo los tienen los mamíferos"
+→ [Psicología 101: Del libre albedrío a la computación artificial (37:31)](https://youtu.be/hx9creRpdnY?t=2251)
+
+> "Sin juego y cuidado tendríamos reptiles; quitando más funciones, peces"
+→ [Psicología 101: Del libre albedrío a la computación artificial (37:31)](https://youtu.be/hx9creRpdnY?t=2251)
+
+> "Galatea por ahora solo tendrá cuatro sistemas: buscar, terror, ira y pánico"
+→ [Psicología 101: Del libre albedrío a la computación artificial (37:31)](https://youtu.be/hx9creRpdnY?t=2251)
+
+La reproducción sexual queda excluida por introducir complejidad desproporcionada para la primera implementación. Buscar, terror, ira y pánico son los cuatro sistemas operacionales mínimos para una protomente con valencia.
+
+### Hidrozoario en lugar de hidra: tres canales sensoriales
+
+La elección del organismo se actualiza desde la hidra inicial hacia el **hidrozoario**, que cumple los requisitos arquitectónicos del modelo (sistema neuronal suficientemente complejo, percepción sin ojos, tamaño adecuado) y reduce la matriz sensorial a tres canales:
+
+> "El organismo debe percibir solo luz, química y tacto (tres canales sensoriales)"
+→ [Psicología 101: Del libre albedrío a la computación artificial (45:05)](https://youtu.be/hx9creRpdnY?t=2705)
+
+> "Un hidrozoario cumple los requisitos: sistema neuronal suficientemente complejo, percepción sin ojos, tamaño adecuado"
+→ [Psicología 101: Del libre albedrío a la computación artificial (45:05)](https://youtu.be/hx9creRpdnY?t=2705)
+
+> "La criatura puede codificar espacialmente todo lo que codifican los mamíferos visualmente usando solo receptores de luz, tacto y químicos"
+→ [Psicología 101: Del libre albedrío a la computación artificial (45:05)](https://youtu.be/hx9creRpdnY?t=2705)
+
+La unificación sensorial se consolida en el directo: luz y temperatura se fusionan en un único canal de radiación ambiental, y los sensores químicos detectan la proximidad de coespecíficos.
+
+> "Los sensores de luz y temperatura se unificarán en un solo canal de radiación ambiental"
+→ [Psicología 101: Del libre albedrío a la computación artificial (1:13:23)](https://youtu.be/hx9creRpdnY?t=4403)
+
+> "Los sensores químicos permitirán detectar la proximidad de organismos similares"
+→ [Psicología 101: Del libre albedrío a la computación artificial (1:13:23)](https://youtu.be/hx9creRpdnY?t=4403)
+
+### Ecología afectiva: pánico ligado a la separación de la colonia
+
+La elección biológica del hidrozoario tiene consecuencia operativa para el catálogo afectivo: el pánico — uno de los cuatro sistemas implementados — se ancla en una contingencia ecológica concreta del organismo simulado:
+
+> "Galatea tendrá pánico como emoción ligada a la separación de su colonia y de la roca litoral"
+→ [Psicología 101: Del libre albedrío a la computación artificial (1:13:23)](https://youtu.be/hx9creRpdnY?t=4403)
+
+La implementación es coherente con la batería de Panksepp aplicada a un organismo colonial: el pánico opera como detección de aislamiento, no como respuesta abstracta a amenaza.
+
+### Pseudocódigo Python y cálculo lambda como lenguaje formal
+
+El estado computacional al cierre del directo es de pre-implementación: pseudocódigo orientado a Python sin código ejecutable. La elección de notación formal recae en el cálculo lambda por su capacidad de manejar funciones sobre objetos sin definir clases — propiedad alineada con la axiomática de clases del realismo cognitivo, donde no hay sustancias atomicas previas a las relaciones:
+
+> "Todo el modelo está en pseudocódigo orientado a Python; nada está en código ejecutable todavía"
+→ [Psicología 101: Del libre albedrío a la computación artificial (48:37)](https://youtu.be/hx9creRpdnY?t=2917)
+
+> "Proxy considera el cálculo lambda como el candidato más útil para el pseudocódigo por manejar funciones sobre objetos sin definir clases"
+→ [Psicología 101: Del libre albedrío a la computación artificial (48:37)](https://youtu.be/hx9creRpdnY?t=2917)
+
+> "El cálculo lambda es el candidato para describir el pseudocódigo porque opera con funciones sin definir clases"
+→ [Psicología 101: Del libre albedrío a la computación artificial (1:04:29)](https://youtu.be/hx9creRpdnY?t=3869)
+
+> "Es lento computacionalmente pero adecuado porque no se busca emular una mente humana completa sino sus dinámicas de flujo"
+→ [Psicología 101: Del libre albedrío a la computación artificial (1:04:29)](https://youtu.be/hx9creRpdnY?t=3869)
+
+### Matrices de adyacencia ponderadas y aprendizaje hebbiano emergente
+
+La propagación entre nodos opera por programación jerárquica con matrices de adyacencia ponderadas: activar un nodo desencadena cascadas en su subgrafo, y la probabilidad de propagación se modula por los pesos de la matriz. El nivel de energía del nodo queda formalmente codificado en el determinante:
+
+> "La propagación entre matrices usa programación jerárquica: activar un nodo desencadena cascadas en su subgrafo"
+→ [Psicología 101: Del libre albedrío a la computación artificial (55:46)](https://youtu.be/hx9creRpdnY?t=3346)
+
+> "La matriz de adyacencia ponderada define la probabilidad de que un nodo active otro; el determinante de la matriz representa el nivel de energía"
+→ [Psicología 101: Del libre albedrío a la computación artificial (55:46)](https://youtu.be/hx9creRpdnY?t=3346)
+
+La arquitectura emerge sin nodo de error explícito: solo nodos de máximos de energía, memoria, corrección y síntesis. La regla hebbiana clásica (la repetición de la activación refuerza la conexión) opera como consecuencia derivada del sistema, no como mecanismo programado:
+
+> "Se requiere una red híbrida de micrografos neuronales interconectados por conexiones ponderadas probabilísticas"
+→ [Psicología 101: Del libre albedrío a la computación artificial (1:00:26)](https://youtu.be/hx9creRpdnY?t=3626)
+
+> "El aprendizaje hebbiano (cuantas más veces se repite la activación de un nodo, más probable su repetición) será consecuencia emergente del sistema"
+→ [Psicología 101: Del libre albedrío a la computación artificial (1:00:26)](https://youtu.be/hx9creRpdnY?t=3626)
+
+La arquitectura cierra así el aparato del modelo: de la axiomática de clases del realismo cognitivo (sustrato epistemológico) al metagrafo computable (implementación), de la batería afectiva mamífera completa (referencia teórica) al subset operacional de cuatro sistemas (implementación inicial), de la hidra de los GCaMP (organismo planificado en la primera fase) al hidrozoario con tres canales sensoriales unificados (organismo definitivo).
+
+
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: La estructura interna de la **matriz fi** no se desarrolla en este pase: qué dim -->
 - La estructura interna de la **matriz fi** no se desarrolla en este pase: qué dimensiones afectivas codifica, cómo se relaciona formalmente con la matriz N de la teoría del símbolo, qué operaciones admite
 - No hay especificación pública del **estado de los resultados** que se obtuvieron antes del abandono — qué se llegó a simular, qué falló técnicamente, qué quedó como hipótesis no testada
 - Falta articulación con la literatura técnica sobre **conectómica de Hydra vulgaris** y sobre indicadores de calcio bioluminiscentes (GCaMP) que la neurociencia experimental usa hoy
@@ -113,5 +254,7 @@ Se presenta así como programa de investigación abierto, no como teoría cerrad
 ## Citations
 
 
+
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [1:14:47](https://youtu.be/i72IYlpQWd0?t=4487) · [1:22:43](https://youtu.be/i72IYlpQWd0?t=4963)
+- **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [19:49](https://youtu.be/hx9creRpdnY?t=1189) · [30:28](https://youtu.be/hx9creRpdnY?t=1828) · [35:30](https://youtu.be/hx9creRpdnY?t=2130) · [37:31](https://youtu.be/hx9creRpdnY?t=2251) · [45:05](https://youtu.be/hx9creRpdnY?t=2705) · [52:44](https://youtu.be/hx9creRpdnY?t=3164) · [55:46](https://youtu.be/hx9creRpdnY?t=3346) · [1:04:29](https://youtu.be/hx9creRpdnY?t=3869) · [1:13:23](https://youtu.be/hx9creRpdnY?t=4403)
 

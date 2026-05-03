@@ -97,6 +97,10 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
+- **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
+- **Psicología 101: El perdón. Con @exitwithin** — chunks: [59:23](https://youtu.be/05MVbWwpiSs?t=3563)
 

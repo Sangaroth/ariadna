@@ -1,0 +1,184 @@
+{
+  "video_id": "05MVbWwpiSs",
+  "video_title": "Psicología 101: El perdón. Con @exitwithin",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "El perdón y el rencor: tesis articulada del canal con Exit como interlocutor",
+      "canonical_guess": "perdon-y-rencor-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 120,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El rencor viene del orgullo: creer que merecías algo que te fue arrebatado"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El rencor es una canalización de la ira que pretende ilustrar cuánto daño te han hecho"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El perdón es el proceso por el que se convierte el rencor en paz o se elimina el rencor"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La diferencia no es de personalidad sino de locus de culpa: interno versus externo"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de Psicología 101 (~125 min sostenidos) en el que Proxy articula con Exit (interlocutor) una tesis estructurada sobre el perdón y el rencor con ≥7 piezas internas: (1) definición operativa del perdón como proceso interno + alternativa de Exit como 'eliminar de lista de amenazas'; (2) taxonomía discriminante rencor / envidia / ira / odio con criterios distintivos; (3) tesis fuerte 'todo rencor es narcisista' con mecanismo (introyección de expectativa al ego); (4) función biológica del rencor como puente defensivo tras traición; (5) rencor como intento de restablecer orden social; (6) debate dicotómico vs gradual y distinción perdón / cambio de expectativas; (7) memoria como mecanismo que sostiene el rencor; (8) técnica de Exit (perdón racional separado de emoción); (9) insight clave locus de culpa interno/externo como variable que define la vivencia del rencor; (10) origen infantil del rencor patológico; (11) doble bucle neurótico rencor-sobre-rencor; (12) ira como alquimia terapéutica contra depresión; (13) perdonar demasiado como camino a depresión. Cumple gate de auto-promoción de scope.md §2.4.1 (minutes ≥ 30, signal_marks ≥ 3, framework_internal_structure ≥ 4). Synthesis_subtype: author_thesis con auto_promoted_synthesis: true. La distinción crítica con herida-narcisista-en-proxy es de scope: aquella aloja el cuadro clínico de la herida y sus dinámicas relacionales (transferencia, colusión negativa, acosador prolongado, frontera con sociopatía); esta página aloja la mecánica del rencor como afecto + el proceso del perdón con la taxonomía discriminante con envidia/ira/odio que la página de la herida no documenta",
+      "quote_evidence": "El perdón es el proceso por el que se convierte el rencor en paz o se elimina el rencor"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Taxonomía discriminante rencor / envidia / ira / odio",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza nuclear de la tesis articulada en el vídeo: cuatro categorías afectivas con criterios distintivos (envidia destructiva por estatus; rencor por despojo de lo introyectado como merecido; odio como expectativa de eliminación; ira como afecto de base canalizado por el rencor). Material que se integra como sección central de la página synthesis perdon-y-rencor-en-proxy",
+      "quote_evidence": "El rencor es ira por haber sido despojado de algo que habías introyectado como merecido",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tesis 'todo rencor es narcisista'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis fuerte del canal con mecanismo: el rencor requiere haber introyectado la expectativa al ego como algo merecido; la destrucción de esa expectativa provoca herida narcisista; el rencor busca reposición simétrica (que el otro sufra lo mismo). Material que se integra como tesis nuclear en perdon-y-rencor-en-proxy y conecta con herida-narcisista-en-proxy",
+      "quote_evidence": "No todo narcisismo es rencor, pero todo rencor es narcisista",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Función biológica del rencor como puente defensivo tras traición",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación funcional del rencor como mecanismo de cambio de expectativas: opera como puente que avisa de no confiar en las expectativas previas tras una traición inesperada. Cuanto más rencor, peor te han salido las cosas. Sub-pieza de perdon-y-rencor-en-proxy",
+      "quote_evidence": "El rencor actúa de puente entre un cambio de expectativas tras una traición inesperada",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rencor como intento de restablecer el orden social",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación sociológica del rencor: señala que alguien se ha saltado las reglas del sistema de convivencia; busca restablecer honestidad y reciprocidad; se acaba cuando el orden se restablece (admisión de culpa o reconocimiento de sistema roto). Sub-pieza de perdon-y-rencor-en-proxy",
+      "quote_evidence": "El rencor dice que alguien se ha saltado las reglas del sistema de convivencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Debate dicotómico vs gradual del perdón (Exit vs Proxy) y distinción perdón / cambio de expectativas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza dialéctica: Exit defiende perdón dicotómico (pacto social demostrativo), Proxy defiende perdón gradual (proceso de reducción del sufrimiento), síntesis emergente: el perdón y el cambio de expectativas son dos procesos separables (puedes cambiar expectativas sin perdonar y viceversa). Sub-pieza nuclear de perdon-y-rencor-en-proxy que articula la divergencia metodológica con el guest",
+      "quote_evidence": "Lo que Proxy llama perdón gradual es en realidad un cambio progresivo de expectativas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Insight: dos vivencias opuestas del rencor según locus de culpa interno/externo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza de insight clave del directo (~5 min): el rencor produce indefensión cuando el locus de culpa es interno ('mereces ese dolor', mapa social no sirve, sobrecompensación) vs autonomía confirmada cuando es externo ('el malo es el otro'). La diferencia no es de personalidad sino de locus. Encaja como sub-pieza nuclear de perdon-y-rencor-en-proxy y enlaza estructuralmente con diagrama-de-proxy (locus de autoridad)",
+      "quote_evidence": "La diferencia no es de personalidad sino de locus de culpa: interno versus externo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Origen infantil del rencor patológico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Etiología evolutiva del cuadro: cuando de niño no te permiten reafirmarte ('tú cállate, tú tienes que pedir perdón'), creces aprendiendo que mereces respeto solo siendo más grande y dando más miedo. La culpa introyectada en la infancia genera el bucle obsesivo del rencor sobre rencor. Sub-pieza de perdon-y-rencor-en-proxy",
+      "quote_evidence": "De niño no te permitieron reafirmarte: \"tú cállate, tú tienes que pedir perdón\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Doble bucle neurótico: rencor sobre el rencor",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mecánica clínica del cuadro patológico: rencor por la ofensa + rencor por no poder resolver el rencor (frustración por sentir que no tienes derecho a reposición). Introyectar que mereces reposición ayuda a romper el bucle. Sub-pieza de perdon-y-rencor-en-proxy",
+      "quote_evidence": "Es un proceso de culpa: rencor por la ofensa más rencor por no poder resolver el rencor",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ira como alquimia terapéutica contra la depresión",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis clínica del speaker: transformar tristeza/depresión en ira es síntoma positivo en terapia porque la ira es resolutiva (busca soluciones, requiere transacciones, reactiva la capacidad de actuar). La depresión es falta de motivación; la ira la rompe. Sub-pieza de perdon-y-rencor-en-proxy con valor clínico independiente — vigilar si reaparece en monográfico sobre depresión",
+      "quote_evidence": "Transformar la depresión o tristeza en ira es un síntoma positivo en terapia",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis clínica reutilizable sobre el manejo terapéutico de la depresión — candidato a concepto autónomo si reaparece sostenida",
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Perdonar demasiado como camino a la depresión",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis cierre del directo: perdonar compulsivamente significa abandonar constantemente los marcos sociales; cada agravio obliga a reelaborar el mapa social hasta que ninguna regla vale; hacerse una bolita más pequeña para que te dejen en paz conduce a depresión. Conclusión clínica fuerte que invierte la doctrina popular de la bondad del perdón. Sub-pieza de perdon-y-rencor-en-proxy",
+      "quote_evidence": "Perdonar compulsivamente puede significar abandonar constantemente tus marcos sociales",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "'Perdono pero no olvido' como frase vacía / virtue signaling",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica del speaker a la fórmula popular: nadie olvida nada (la memoria no funciona así); la frase suele significar 'no exijo reposición material pero te odiaré internamente'. Conecta con la crítica general a la divulgación popular psicológica documentada en psicoinfluencers-en-proxy. Sub-pieza de perdon-y-rencor-en-proxy",
+      "quote_evidence": "Nadie olvida nunca nada; la frase es virtue signaling que no significa nada real",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Caracterización 'Ruth' como personificación del pensamiento batiburrillo afectivo-racional-grupal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Personificación pedagógica del speaker (Ruth como representación de un patrón cognitivo, no figura real): mezcla afecto, razón y mirada del grupo en un batiburrillo que añade capa de estancamiento ('qué tipo de persona soy si no perdono'). Sub-pieza menor de perdon-y-rencor-en-proxy",
+      "quote_evidence": "Ruth representa el pensamiento que mezcla lo afectivo, racional y la mirada del grupo en un batiburrillo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdon-y-rencor-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}
