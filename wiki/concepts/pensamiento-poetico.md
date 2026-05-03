@@ -116,5 +116,7 @@ Esto enlaza con la distinción canal-específica entre [[mitologia-propia-improp
 ## Citations
 
 
+
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
+- **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 

@@ -173,10 +173,12 @@ La segmentación cae lateralmente sobre el [[adgrediere-masculino|adgrediere]]: 
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
 - **Consultorio amoroso del doctor Proxy** — chunks: [1:26:23](https://youtu.be/EIGfuITdT8k?t=5183) · [1:35:37](https://youtu.be/EIGfuITdT8k?t=5737)
 - **Consultorio EXIT INSIDE** — chunks: [1:15:57](https://youtu.be/IP9f-1gSJ1c?t=4557) · [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:08:37](https://youtu.be/_0BM2jMsWdc?t=4117)
+- **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [1:03:40](https://youtu.be/i72IYlpQWd0?t=3820)
 

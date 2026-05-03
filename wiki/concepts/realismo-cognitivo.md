@@ -561,6 +561,7 @@ En el mismo directo, el canal añade una posición frente al conductismo que cie
 
 
 
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
@@ -569,4 +570,5 @@ En el mismo directo, el canal añade una posición frente al conductismo que cie
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
 - **Galatea, Materialismo ontológico y realismo cognitivo: La paradoja de Kripke y Gustavo Bueno** — chunks: [49:21](https://youtu.be/TZTiSfm6syI?t=2961) · [1:17:23](https://youtu.be/TZTiSfm6syI?t=4643)
+- **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [29:42](https://youtu.be/i72IYlpQWd0?t=1782)
 

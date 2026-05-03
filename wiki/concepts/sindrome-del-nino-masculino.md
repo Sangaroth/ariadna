@@ -119,6 +119,78 @@ La propaganda del vínculo prefabricado y los vínculos parasociales en redes re
 - Funciona como cuadro de [[individuation]] interrumpida en su primer tramo masculino — sin separación del grupo regresivo y sin integración de la figura paterna.
 - Conecta con la crítica del canal a la [[consumismo-critica|sociedad del bienestar]] como contexto que vende vínculo ya hecho.
 
+
+
+## Etiología materna de la incapacidad de vinculación: precisión frente a la pseudopsicología feminoide
+
+En el directo *Irrespirables redes sociales* (24 sept 2024), al analizar el hilo de Killer Queen sobre un padre que muestra ilusión genuina por la paternidad pero no se adapta a la realidad del bebé, el canal precisa la etiología del cuadro distinguiendo dos clases de problemas masculinos según el progenitor implicado:
+
+> "La incapacidad para vincularse proviene de la relación con la madre, no con el padre; el constructivismo que atribuye los problemas masculinos a la herencia paterna es erróneo"
+→ [Irrespirables redes sociales (50:39)](https://youtu.be/aaLhUV1rdE4?t=3039)
+
+> "La pseudopsicología feminoide atribuye los problemas del varón infantil al padre ausente, pero la incapacidad de vincularse proviene de la madre tanto en hombres como en mujeres"
+→ [Irrespirables redes sociales (1:00:18)](https://youtu.be/aaLhUV1rdE4?t=3618)
+
+La distinción es operativa para el cuadro:
+
+- **Origen materno** → infantilismo (síndrome del niño): el varón es demostrativo con el ámbito material adulto pero el interior queda descuidado, incapaz de entregarse a una causa que no sea él mismo. La incapacidad de vinculación tiene aquí su raíz.
+- **Origen paterno** → rechazo a las relaciones: los problemas con el padre que impiden vínculos se dan con padres muy ausentes o muy tiranos, y producen rechazo a las relaciones, no infantilismo.
+
+> "Los problemas con el padre que impiden vínculos se dan con padres muy ausentes o muy tiranos, y producen rechazo a las relaciones, no infantilismo"
+→ [Irrespirables redes sociales (1:00:18)](https://youtu.be/aaLhUV1rdE4?t=3618)
+
+La precisión refina la articulación nuclear de la página: la etiología doble (ausencia de iniciación heroica + carencia de figura paterna fuerte) opera en planos distintos. La carencia paterna marca la falta de iniciación al [[viaje-heroe]] y al mundo adulto estructurado; la carencia materna marca la falta de capacidad de vinculación afectiva. El cuadro 'niño' implica la primera (ausencia de iniciación) pero su rasgo definitorio — la incapacidad de entregarse, de vincularse — viene del lado materno.
+
+### Caso operativo: el padre que idealiza pero no se adapta
+
+El perfil descrito por Killer Queen — un hombre que mostraba ilusión genuina por ser padre pero no se adapta a la realidad del bebé — el canal lo lee como caso operativo del síndrome del niño con etiología materna:
+
+> "El perfil encaja con el arquetipo de Peter Pan: hombres infantiles y demostrativos con el ámbito material adulto pero un interior descuidado, incapaces de entregarse a una causa que no sean ellos mismos"
+→ [Irrespirables redes sociales (50:39)](https://youtu.be/aaLhUV1rdE4?t=3039)
+
+> "Si idealiza y además no se adapta a la realidad tras el nacimiento, es un idealista que no puede madurar: la idealización no ha cuajado en cambio de conducta"
+→ [Irrespirables redes sociales (50:39)](https://youtu.be/aaLhUV1rdE4?t=3039)
+
+La idealización como conducta sin capacidad de adaptación a la realidad — la imagen de la paternidad sin la entrega que la encarne — es manifestación operativa del cuadro: el yo no puede sostener una causa que no sea él mismo, y por tanto la llegada del hijo no produce la maduración que la situación exige.
+
+### Maternidad en solitario: el lado complementario del cuadro
+
+El canal aplica la misma matriz al fenómeno de la madre soltera por elección, distinguiendo el discurso del 'empoderamiento' del sustrato psicológico real:
+
+> "La madre soltera por elección a menudo parte de inmadurez, no de empoderamiento"
+→ [Irrespirables redes sociales (1:08:23)](https://youtu.be/aaLhUV1rdE4?t=4103)
+
+> "Los hogares sin padre tienen altas probabilidades de generar individuos antisociales porque el niño no consigue un vínculo firme ni con la madre ni con la estructura del padre arquetípico"
+→ [Irrespirables redes sociales (1:08:23)](https://youtu.be/aaLhUV1rdE4?t=4103)
+
+El cierre del bucle: el niño que crece sin padre y con madre infantil queda doblemente expuesto — sin la estructura del padre arquetípico (que sostiene la iniciación al mundo adulto) y sin el vínculo materno firme (que sostiene la capacidad de vincularse). La generación adulta de varones infantiles termina produciendo, vía maternidad en solitario, la siguiente generación con el cuadro intensificado.
+
+
+
+## Componentes de la autoconfianza: la matriz materno/paterno explicitada
+
+En el directo *La Huida* (23 ene 2025), al hilo del autoanálisis sobre el propio camino intelectual, el canal articula la estructura general de la autoconfianza con la misma matriz materno/paterno que opera en la etiología del cuadro descrita en la sección anterior:
+
+> "La madre es la confianza en el trabajo con las propias emociones, cómo uno se trata a sí mismo"
+→ [La Huida (1:23:45)](https://youtu.be/x4peEvI8L5o?t=5025)
+
+> "El padre es cómo uno se relaciona con lo ajeno, lo extraño y lo externo"
+→ [La Huida (1:23:45)](https://youtu.be/x4peEvI8L5o?t=5025)
+
+> "La autoconfianza es la certeza introyectada de que las propias intenciones llegarán a buen puerto"
+→ [La Huida (1:23:45)](https://youtu.be/x4peEvI8L5o?t=5025)
+
+La tesis explicita el mecanismo psicológico subyacente a la división de roles materno/paterno: la autoconfianza opera como **certeza introyectada** (no como afirmación discursiva ni como autoestima retórica) y tiene dos componentes funcionales que provienen de progenitores distintos:
+
+- **Componente materna**: trato hacia uno mismo, vínculo con las propias emociones. Sostiene la confianza en la viabilidad emocional de la propia intención.
+- **Componente paterna**: relación con lo ajeno, extraño y externo. Sostiene la confianza en la propia capacidad de atravesar el mundo no-familiar.
+
+La articulación da soporte estructural a la división documentada en la sección anterior: el déficit materno produce incapacidad de vincularse — el síndrome del niño en sentido estricto, con su rasgo definitorio del varón demostrativo en el ámbito material adulto pero con interior descuidado, incapaz de entregarse a una causa que no sea él mismo. El déficit paterno produce rechazo a las relaciones (en lugar de infantilismo). Las dos componentes son ortogonales — un varón puede tener una sin la otra, lo que explica por qué el cuadro del 'niño' aparece típicamente compatible con cierto desempeño en el mundo profesional (componente paterna funcional) mientras colapsa en lo afectivo (componente materna deficitaria).
+
+La precisión tiene consecuencia operativa: la autoconfianza no se construye discursivamente — opera como certeza introyectada que requiere una historia específica de relación con cada progenitor (o con sus sustitutos arquetípicos en la individuación posterior). El [[viaje-heroe|viaje del héroe]] es la operación arquetípica de constituir tardíamente la componente paterna (atravesar el mundo no-familiar y volver con dones); las elaboraciones afectivas más profundas (relación de pareja madura, paternidad real, vínculos con la propia sombra) operan sobre la componente materna.
+
+
+
 ## Lagunas
 
 - **Figura paterna fuerte**: el cuadro se define en parte por su carencia, pero el corpus en este fragmento no desarrolla qué cuenta como 'fuerte' ni cómo opera la integración paterna en la individuación masculina.
@@ -130,6 +202,8 @@ La propaganda del vínculo prefabricado y los vínculos parasociales en redes re
 
 
 
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
+- **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
 

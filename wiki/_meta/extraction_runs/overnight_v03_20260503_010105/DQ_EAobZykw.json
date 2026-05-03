@@ -1,0 +1,296 @@
+{
+  "video_id": "DQ_EAobZykw",
+  "video_title": "Investigación en directo: Resolviendo (o no) el problema de la integración de la inteligencia.",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Q sub-f (formal/gramatical): relaciones abstractas como mayor-menor, dentro-fuera, antes-después",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Q sub-f (formal/gramatical): relaciones abstractas como mayor-menor, dentro-fuera, antes-después,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las tres componentes de toda representación mental: formal, imaginaria y afectiva"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La notación Q sub-f/i/a y su articulación como tres componentes de toda representación mental coincide con la 'tríada imaginaria/formal/afectiva' que la página teoria-del-simbolo-en-proxy ya articula y con el QsubF/QsubA/QsubI formalizado en realismo-cognitivo. El video aporta material NUEVO (caso del cuervo, distinción abstracto/simbólico, intelligencia como recreación) que enriquece teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "Q sub-f (formal/gramatical): relaciones abstractas como mayor-menor, dentro-fuera, antes-después,"
+    },
+    {
+      "surface_form": "memoria operativa, memoria de trabajo, memoria declarativa, memoria no declarativa, priming",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Memoria operativa: saber qué estás haciendo y en qué contexto estás en los presentes 5 minutos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Taxonomía de la memoria: el mito del almacén de datos"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La taxonomía de memoria (operativa/trabajo/declarativa-episódica/declarativa-semántica/no declarativa-procedimental/priming) refina granularmente la enumeración 'episódica/procedural/semántica/afectiva' que golem-de-cobre presenta. El video aporta sub-distinciones nuevas: memoria operativa vs memoria de trabajo, semántica como mapa de proximidades NO lingüístico, priming como mecanismo del trauma.",
+      "quote_evidence": "Memoria operativa: saber qué estás haciendo y en qué contexto estás en los presentes 5 minutos,"
+    },
+    {
+      "surface_form": "Inteligencia como capacidad de recrear el mundo con fiabilidad y eficacia",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Inteligencia como capacidad de recrear el mundo con fiabilidad y eficacia"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Recrear es un nivel de complejidad operatoria superior a la mera representación,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Definición operativa de inteligencia que refina el marco cognitivo de teoria-del-simbolo-en-proxy: representar es el hecho neto, recrear introduce componente temporal y neuroeconómica. Va integrada en el update del cuervo a esa misma página.",
+      "quote_evidence": "Inteligencia como capacidad de recrear el mundo con fiabilidad y eficacia"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La estructura completa enlaza con [[pensamiento-poetico]] (modo de operación que privilegia las componentes imaginaria y afectiva sobre la formal) y con [[golem-de-cobre]] (donde la tríada original queda ahora más finamente articulada).",
+      "section_target": null,
+      "content_proposed": "\n\n## La inteligencia como recreación, no como representación: el problema del cuervo\n\nEn la *Investigación en directo: Resolviendo (o no) el problema de la integración de la inteligencia* (10 sept 2024) Proxy trabaja en sesión abierta el sustrato del marco que esta página articula. La sesión introduce explícitamente la **notación Q-sub** que el canal usa internamente para los tres componentes de toda representación mental — Q sub-f (formal/gramatical), Q sub-i (imaginaria), Q sub-a (afectiva) — y aporta el caso operativo paradigmático que separa Q sub-f de la representación simbólica.\n\n### El cuervo y la Q sub-f sin representación simbólica\n\nUn cuervo común resuelve un problema de cubos anidados por tamaño (estructuralmente equivalente a las Torres de Hanoi: ordenar elementos encajados con el menor número de movimientos) a cambio de una recompensa. Lo asombroso no es la ordenación misma — un algoritmo lo hace trivialmente — sino que el cuervo **detecta cuándo la secuencia es incorrecta y deshace pasos para corregirla** sin proceder por ensayo y error. La representación que sostiene esa corrección dirigida no es procedural (poner y sacar cubos), no es episódica (comprender el tamaño), sino una tercera cosa: **comprender el orden** como relación formal abstracta.\n\n> \"El cuervo tiene un heurístico intuitivo que le indica que si el último cubo no cabe, debe rehacer parte del proceso\"\n→ [Investigación en directo (30:16)](https://youtu.be/DQ_EAobZykw?t=1816)\n\n> \"Lo que hace no depende de la forma, ni de la imagen, ni del afecto: es una componente gramatical/formal pura\"\n→ [Investigación en directo (40:22)](https://youtu.be/DQ_EAobZykw?t=2422)\n\nEl cuervo demuestra Q sub-f operando sin representación simbólica: la operación es independiente del color, de la imagen y del afecto. Resuelve por tamaño aunque todos los cubos sean del mismo color. La distinción que el canal articula es decisiva — **la representación abstracta** (componente formal pura) **no equivale a la representación simbólica**, y esta última es la que asigna significado semántico arbitrario a un objeto (el corazón como amor, la señal de prohibido). Sin representación simbólica no hay campo semántico ni lingüística. El cuervo tiene Q sub-f sin semántica.\n\n> \"El cuervo tiene una componente Q sub-f pura funcional, pero carece de representación simbólica\"\n→ [Investigación en directo (48:11)](https://youtu.be/DQ_EAobZykw?t=2891)\n\nLa pieza complementaria: el cuervo tiene también **concepto de cero y de conjunto vacío** — distingue cuatro puntos como más que tres y menos que cinco, opera con la ausencia como si fuera un elemento contable. La capacidad cuantitativa formal está ahí; la asignación semántica arbitraria, no.\n\n### Mínimo de tres elementos para el orden\n\nLa sesión deriva de aquí un principio operativo: **para pensar en orden cognitivamente se necesitan mínimo tres elementos** — el objeto, el objeto de referencia y el contexto que determina el orden. La mente nunca representa un objeto aislado; siempre hay forma sobre fondo. El cuervo mantiene en cuenta tres elementos simultáneamente (cubo actual, mayor/menor de la secuencia, el siguiente) — replicación operativa del mínimo cognitivo del orden.\n\n> \"Para pensar en orden cognitivamente se necesitan mínimo tres elementos: el objeto, el objeto de referencia y el contexto que determina el orden\"\n→ [Investigación en directo (33:17)](https://youtu.be/DQ_EAobZykw?t=1997)\n\n> \"En la mente siempre hay una forma sobre un fondo — la representación mental nunca es de un objeto aislado\"\n→ [Investigación en directo (33:17)](https://youtu.be/DQ_EAobZykw?t=1997)\n\n### Q sub-f sin metarrepresentación: la paradoja de la inteligencia\n\nLa consecuencia teórica que el speaker extrae es contraintuitiva: **la inteligencia humana se basa en metarrepresentaciones, pero la del cuervo no las necesita**. Q sub-f y la inteligencia están menos relacionadas de lo que parece — la capacidad de resolver problemas formales no define la inteligencia. Un animal puede operar formalmente sin ser inteligente en el sentido humano. La pregunta abierta del marco queda formulada explícitamente: si Q sub-f en humanos se usa metarrepresentativamente pero en cuervos no, ¿qué significa **tener conciencia de Q sub-f**? Ser más consciente correlaciona con ser más inteligente, pero Q sub-f no requiere metarrepresentación.\n\n> \"La inteligencia humana se basa en metarrepresentaciones, pero la del cuervo no las necesita\"\n→ [Investigación en directo (1:38:12)](https://youtu.be/DQ_EAobZykw?t=5892)\n\n> \"Un animal puede resolver problemas formales sin ser inteligente en el sentido humano del término\"\n→ [Investigación en directo (1:38:12)](https://youtu.be/DQ_EAobZykw?t=5892)\n\nEn el cuervo, además, memoria episódica y procedimental están prácticamente fusionadas — no es que tenga las tres dimensiones representacionales separadas como el humano, sino que Q sub-f opera como módulo independiente sobre un sustrato representacional menos diferenciado.\n\n### Definición operativa de inteligencia: representar vs recrear\n\nLa sesión cierra con una refinación de la definición de inteligencia que la página venía articulando: representar es el hecho neto, pero **recrear** introduce la componente temporal y neuroeconómica. Resolver un problema requiere operar con una concatenación de representaciones, no solo representar. La inteligencia es la capacidad de **recrear el mundo con fiabilidad y eficacia** — un nivel de complejidad operatoria superior a la mera representación.\n\n> \"Recrear es un nivel de complejidad operatoria superior a la mera representación\"\n→ [Investigación en directo (1:57:38)](https://youtu.be/DQ_EAobZykw?t=7058)\n\n> \"Resolver un problema requiere operar con una concatenación de representaciones, no solo representar\"\n→ [Investigación en directo (1:57:38)](https://youtu.be/DQ_EAobZykw?t=7058)\n\nLa pieza articula el problema abierto que el monográfico sobre el símbolo (Parte 2) deja implícito y que la página enuncia en lagunas como 'articulación con el self / individuación': la relación entre las memorias (procedimental, episódica, semántica) y las componentes representacionales (formal, imaginaria, afectiva) que el marco postula. La sesión declara explícitamente esa relación como problema abierto que el canal está investigando en directo — el matiz importa porque sitúa el marco como programa de investigación vivo, no como sistema cerrado.\n",
+      "wikilinks_introduced": [
+        "pensamiento-poetico",
+        "golem-de-cobre"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 1816,
+          "cite_markdown": "[Investigación en directo (30:16)](https://youtu.be/DQ_EAobZykw?t=1816)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 2422,
+          "cite_markdown": "[Investigación en directo (40:22)](https://youtu.be/DQ_EAobZykw?t=2422)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 2891,
+          "cite_markdown": "[Investigación en directo (48:11)](https://youtu.be/DQ_EAobZykw?t=2891)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 1997,
+          "cite_markdown": "[Investigación en directo (33:17)](https://youtu.be/DQ_EAobZykw?t=1997)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 5892,
+          "cite_markdown": "[Investigación en directo (1:38:12)](https://youtu.be/DQ_EAobZykw?t=5892)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 7058,
+          "cite_markdown": "[Investigación en directo (1:57:38)](https://youtu.be/DQ_EAobZykw?t=7058)"
+        }
+      ],
+      "rationale": "Material genuinamente NUEVO no presente en la página: (a) el caso del cuervo como demostración paradigmática de Q sub-f operando sin representación simbólica — la página no tiene casos animales de Q sub-f; (b) la distinción operativa abstracto/simbólico — la página define IDEA y SÍMBOLO pero no articula que un organismo pueda tener Q sub-f sin asignación semántica arbitraria; (c) el principio operativo del mínimo de tres elementos para el orden — totalmente ausente; (d) la paradoja Q sub-f vs metarrepresentación — la página menciona metarrepresentación en lagunas refinadas pero no la articula como problema teórico de la inteligencia; (e) la definición de inteligencia como recreación (vs representación) — refina la tesis nuclear con componente temporal-neuroeconómica explícita.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "ninguna arquitectura de memoria computacional reproduce esta dinámica sin renunciar a sus propias garantías de fidelidad.",
+      "section_target": null,
+      "content_proposed": "\n\n## Refinamiento de la taxonomía de memoria: operativa, de trabajo, declarativa, no declarativa, priming\n\nEn la *Investigación en directo: Resolviendo (o no) el problema de la integración de la inteligencia* (10 sept 2024) el canal articula una taxonomía más granular de la memoria que refina la enumeración 'episódica / procedural / semántica / afectiva' que esta página presenta. La sesión también reformula la definición operativa de memoria desde el ángulo positivo, no solo desde la crítica al mito del almacén.\n\n### Memoria como función de repetición consciente, no como locus\n\nLa redefinición positiva precisa lo que la tesis nuclear afirma negativamente:\n\n> \"La memoria no es un locus donde se almacenan datos para ser recuperados — esa descripción es un mito\"\n→ [Investigación en directo (1:07:01)](https://youtu.be/DQ_EAobZykw?t=4021)\n\n> \"La memoria es la función cognitiva por la cual podemos repetir algo mentalmente y saber que estamos repitiendo\"\n→ [Investigación en directo (1:07:01)](https://youtu.be/DQ_EAobZykw?t=4021)\n\nLa memoria procedimental implícita (como andar) confirma la redefinición: no se 'recupera' nada, está integrada en la representación de movimiento — operar es ya la memoria, no su consulta.\n\n### Memoria a corto plazo: operativa vs de trabajo\n\nLo que el marco general llama 'memoria a corto plazo' se desdobla en dos funciones distintas:\n\n- **Memoria operativa**: saber qué estás haciendo y en qué contexto estás en los presentes 5 minutos.\n- **Memoria de trabajo**: decidir voluntariamente qué representaciones mantener activas inhibiendo todas las demás.\n\nLa precisión que el speaker añade es central para la teoría de la inteligencia del canal: la memoria de trabajo es **un altísimo porcentaje de la inteligencia** — las personas impulsivas rinden peor en tests no por falta de capacidad sino por falta de concentración (capacidad de inhibir distractores).\n\n> \"Memoria operativa: saber qué estás haciendo y en qué contexto estás en los presentes 5 minutos\"\n→ [Investigación en directo (1:09:33)](https://youtu.be/DQ_EAobZykw?t=4173)\n\n> \"Memoria de trabajo: decidir voluntariamente qué representaciones mantener activas inhibiendo todas las demás\"\n→ [Investigación en directo (1:09:33)](https://youtu.be/DQ_EAobZykw?t=4173)\n\n> \"La memoria de trabajo es un altísimo porcentaje de la inteligencia — personas impulsivas rinden peor en tests no por falta de capacidad sino de concentración\"\n→ [Investigación en directo (1:09:33)](https://youtu.be/DQ_EAobZykw?t=4173)\n\nLa pieza enlaza con el filtro top-down que la tesis nuclear ya articula: lo que aquí se llama 'memoria de trabajo' es la operación específica de mantener activa una representación inhibiendo las espontáneas — el mismo mecanismo cortical que sostiene la atención dirigida en la tríada percepción/atención/memoria.\n\n### Memoria declarativa: la semántica no es la lingüística\n\nLa precisión sobre la memoria semántica refina el catálogo de la página de un modo importante para la teoría del símbolo del canal:\n\n> \"La semántica no es la memoria lingüística — la lingüística es una manifestación de la semántica con componentes formales propias\"\n→ [Investigación en directo (1:16:10)](https://youtu.be/DQ_EAobZykw?t=4570)\n\n> \"La memoria semántica es cuán próximas están unas representaciones de otras en un mapa mental de conceptos vinculados\"\n→ [Investigación en directo (1:16:10)](https://youtu.be/DQ_EAobZykw?t=4570)\n\nLas relaciones semánticas pueden ser imaginarias, afectivas o gramaticales — no necesariamente lingüísticas. El ejemplo del canal: 'Proxy' y 'petulante' están vinculadas por un afecto de ira en el mapa mental de un detractor, no por relación lingüística formal. La consecuencia para la tesis nuclear: la red semántica del grafo tridimensional no es un sub-módulo lingüístico, es la topología de proximidades entre representaciones que puede operar en cualquier componente Q.\n\n### Memoria no declarativa: procedimientos, automatismos y priming\n\nLa rama no declarativa incluye memoria procedimental (filogenéticamente la más primitiva en grandes mamíferos), automatismos y **priming** — vincular una sensación o reacción inmediata a otro hecho.\n\nLa precisión clave: el priming refina la articulación del trauma que la página presenta como 'componente afectiva fijada':\n\n> \"El priming es vincular una sensación o reacción inmediata a otro hecho — el trastorno de estrés postraumático es un priming incorrecto\"\n→ [Investigación en directo (1:22:54)](https://youtu.be/DQ_EAobZykw?t=4974)\n\nEl trastorno de estrés postraumático queda redescrito como **priming incorrecto**: una asociación afectiva mal calibrada que activa redes inadecuadas ante estímulos parecidos al evento. El mecanismo dialoga con la articulación posterior del trauma como 'hiperactivación de redes afectivas': el priming es el sustrato de aprendizaje sobre el que la hiperactivación opera, lo que une las dos descripciones en un mecanismo único — asociación afectiva primaria (priming) que se vuelve patológica cuando la calibración es inadecuada o el evento la satura.\n\nUn corolario importante: **todas las memorias procedimentales se pueden convertir en representaciones episódicas explícitas**. La frontera procedimental/episódica no es ontológica sino de explicitud — coherente con el modelo de la matriz noética con componentes en grados variables de explicitud que [[teoria-del-simbolo-en-proxy]] articula.\n\n### Las tres memorias y las tres componentes Q: el problema de la integración\n\nLa sesión declara explícitamente como problema abierto la relación entre las memorias (procedimental, episódica, semántica) y las componentes representacionales (formal, imaginaria, afectiva) — las dos articulaciones tripartitas del marco no son redundantes sino dimensiones distintas del mismo grafo. En el caso animal del cuervo (ver [[teoria-del-simbolo-en-proxy]]: 'La inteligencia como recreación, no como representación: el problema del cuervo'), poner y sacar cubos (procedimental), comprender el tamaño (episódico) y comprender el orden (Q sub-f formal) son tres cosas completamente diferentes que pueden disociarse.\n\n> \"Poner y sacar cubos (procedimental), comprender el tamaño (episódico) y comprender el orden (Q sub-f) son tres cosas completamente diferentes\"\n→ [Investigación en directo (1:27:01)](https://youtu.be/DQ_EAobZykw?t=5221)\n\nLa pieza cierra el bucle de la tesis nuclear desde el ángulo de la integración: la 'memoria' no es módulo monolítico ni almacén, sino un conjunto de funciones cognitivas heterogéneas (operativa, de trabajo, declarativa episódica/semántica, no declarativa procedimental/automatismos/priming) cuya integración define la cognición sana — y cuya disociación parcial en otras especies revela qué piezas son separables y cuáles solo aparecen integradas en el humano vía metarrepresentación.\n",
+      "wikilinks_introduced": [
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 4021,
+          "cite_markdown": "[Investigación en directo (1:07:01)](https://youtu.be/DQ_EAobZykw?t=4021)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 4173,
+          "cite_markdown": "[Investigación en directo (1:09:33)](https://youtu.be/DQ_EAobZykw?t=4173)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 4570,
+          "cite_markdown": "[Investigación en directo (1:16:10)](https://youtu.be/DQ_EAobZykw?t=4570)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 4974,
+          "cite_markdown": "[Investigación en directo (1:22:54)](https://youtu.be/DQ_EAobZykw?t=4974)"
+        },
+        {
+          "video_id": "DQ_EAobZykw",
+          "timestamp_seconds": 5221,
+          "cite_markdown": "[Investigación en directo (1:27:01)](https://youtu.be/DQ_EAobZykw?t=5221)"
+        }
+      ],
+      "rationale": "Material genuinamente NUEVO no presente en la página: (a) la distinción operativa memoria operativa vs memoria de trabajo — la página solo lista 'episódica/procedural/semántica/afectiva' sin desglosar el corto plazo; (b) la tesis 'memoria de trabajo = altísimo porcentaje de la inteligencia' como puente entre el modelo de memoria y la teoría de la inteligencia/concentración — no estaba; (c) la precisión 'la semántica NO es lingüística' con definición de semántica como mapa de proximidades en cualquier componente Q — la página dice 'semántica = palabras, relaciones lógicas' sin esta corrección importante; (d) priming como concepto y 'TEPT = priming incorrecto' — la página articula trauma como 'componente afectiva fijada' / 'hiperactivación' pero no usa priming como mecanismo de aprendizaje subyacente; (e) la disociabilidad procedimental/episódico/Q sub-f en el cuervo como caso ilustrativo del problema de integración. Todo el material refina y extiende la sección de memoria sin duplicar lo ya articulado.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Stream experimental donde Proxy trabaja en vivo en su investigación sobre ciencias cognitivas",
+      "reason_code": "meta_canal",
+      "reason_detail": "Marco del directo experimental como formato — no es contenido enciclopédico sino metadata del stream.",
+      "quote_evidence": "Stream experimental donde Proxy trabaja en vivo en su investigación sobre ciencias cognitivas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Solicita voluntarios para corregir el segundo libro",
+      "reason_code": "meta_canal",
+      "reason_detail": "Solicitud logística del canal a la audiencia — no contenido enciclopédico.",
+      "quote_evidence": "Solicita voluntarios para corregir el segundo libro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "El corpus que desarrolla no tiene relación con los libros que publica este mes",
+      "reason_code": "meta_canal",
+      "reason_detail": "Auto-referencia al canal y su producción editorial.",
+      "quote_evidence": "El corpus que desarrolla no tiene relación con los libros que publica este mes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "El cuervo común que resuelve el problema de las muñecas rusas",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "El cuervo no es entity_work del corpus (es organismo de ciencia comparada, no obra cultural). Funciona como CASO ILUSTRATIVO paradigmático que se captura íntegramente en el pending_update a teoria-del-simbolo-en-proxy ('La inteligencia como recreación, no como representación: el problema del cuervo'). No merece página propia: el wiki documenta los conceptos del canal, no los casos animales que ilustran cada concepto.",
+      "quote_evidence": "Un cuervo común resuelve un problema de cubos anidados por tamaño a cambio de un premio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Torres de Hanoi",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado solo como analogía estructural del problema del cuervo (ordenar elementos encajados con menor número de movimientos). No es objeto de análisis del canal.",
+      "quote_evidence": "El problema es equivalente a las Torres de Hanoi: ordenar elementos encajados usando el menor número de movimientos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Las gaviotas y la diferencia entre planificación física y razonamiento abstracto",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comparación zoológica para contrastar con el cuervo — las gaviotas planean procedimientos físicos pero no Q sub-f. Caso ilustrativo dentro del argumento sobre la singularidad cognitiva del cuervo, no concepto independiente.",
+      "quote_evidence": "Las gaviotas solo planean procedimientos de aproximación física — equivalente a pescar, no a razonamiento abstracto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Las abejas no tienen lenguaje matemático aunque lo parezca (principio antrópico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Las abejas y su 'lenguaje' aparecen como caso del principio antrópico (explicitar formalmente lo que hace un organismo simple resulta complejísimo para nosotros). Argumento ilustrativo, no concepto independiente. Pero el principio antrópico cognitivo aplicado a comportamiento animal es interesante — mantengo prioridad media por si recurre.",
+      "quote_evidence": "Las abejas tienen neuronas que codifican tiempo y dirección, lo que les permite trazar mapas y comunicar posiciones,",
+      "review_priority": "medium",
+      "review_priority_reason": "El 'principio antrópico cognitivo' aplicado a comportamiento animal es una articulación interesante que podría recurrir; vigilarlo por si se vuelve marco aplicado.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Trastorno de estrés postraumático",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como ejemplo del 'priming incorrecto' dentro de la articulación de la memoria no declarativa. El concepto se captura íntegramente en el update a golem-de-cobre como caso operativo del priming, no merece página clínica propia.",
+      "quote_evidence": "el trastorno de estrés postraumático es un priming incorrecto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "El cuervo tiene concepto de cero y conjunto vacío",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Pieza del caso del cuervo capturada en el pending_update a teoria-del-simbolo-en-proxy como complemento de Q sub-f sin representación simbólica.",
+      "quote_evidence": "Tienen concepto de conjunto vacío: pueden operar con la ausencia como si fuera un elemento contable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Diferencia entre resolución computacional y resolución cognitiva",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La crítica a la metáfora informática de la mente y la distinción computación/cognición ya están plenamente articuladas en golem-de-cobre (tesis nuclear: 'la mente humana NO es una máquina') y en teoria-del-simbolo-en-proxy (sección IAs generativas no son inteligencia). El video re-articula la misma tesis sin matiz nuevo en este punto.",
+      "quote_evidence": "La mente humana traduce problemas a pseudocódigo máquina para programar ordenadores, pero la mente no funciona así internamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Las tres componentes de toda representación mental: formal, imaginaria y afectiva",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La tríada imaginaria/formal/afectiva ya está articulada en teoria-del-simbolo-en-proxy, golem-de-cobre y formalizada en realismo-cognitivo como QsubF/QsubA/QsubI. La notación Q-sub aparece aquí explicitada, pero realismo-cognitivo ya la documenta. El material genuinamente nuevo de este video (caso del cuervo, intelligencia como recreación) sí va al pending_update.",
+      "quote_evidence": "Q sub-f (formal/gramatical): relaciones abstractas como mayor-menor, dentro-fuera, antes-después,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Reflejo de orientación / familiaridad",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El reflejo de orientación como sustrato afectivo de la familiaridad ya está articulado en teoria-del-simbolo-en-proxy ('Reflejo de orientación: distinción afectiva nuevo/conocido como sustrato de la sensación de \"recuerdo\" y \"familiaridad\"').",
+      "quote_evidence": "Memoria operativa: saber qué estás haciendo y en qué contexto estás en los presentes 5 minutos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

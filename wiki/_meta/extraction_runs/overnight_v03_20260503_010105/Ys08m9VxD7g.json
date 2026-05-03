@@ -1,0 +1,208 @@
+{
+  "video_id": "Ys08m9VxD7g",
+  "video_title": "Irán, Grok, los bikinis y las matemáticas,",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "Proxy se define como materialista antiformalista: los sistemas formales son construcción humana, pertenecen a la realidad pero no pueden abarcarla",
+      "canonical_guess": "materialismo-antiformalista",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Proxy se define como materialista antiformalista: los sistemas formales son construcción humana, pertenecen a la realidad pero no pueden abarcarla,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El pensamiento es formalizable pero no computable; los sistemas formales provienen del pensamiento pero no pueden describirlo completamente,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La formalización no es una representación ni una descripción sino una traducción a lenguaje formal con sus propias limitaciones gramaticales,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Proxy propone dedicar próximos streams a explicar qué es un sistema formal y qué es un teorema de forma didáctica,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Posición filosófica auto-declarada del canal con marca explícita ('Proxy se define como materialista antiformalista'), articulada con definición negativa (vs materialismo formalista), definición positiva (sistemas formales como construcción humana), múltiples distinciones técnicas internas (formalizable vs computable; sistema formal cerrado vs abierto; formalización vs codificación vs descripción vs representación; arbitrario vs aleatorio), caso empírico sostenido (enumerador axiomático Gorard/Wolfram con descubrimiento de matemáticas alienígenas estériles sin contexto cultural humano), tesis correlata fuerte ('las matemáticas son fundamentalmente humanas'), y propuesta pedagógica de continuación ('dedicar próximos streams a explicar qué es un sistema formal'). Cumple §2.1 framing-mark explícito + monográfico ≥10 min sostenidos. Categoría posicional paralela a realismo-cognitivo (también auto-declarada) y a bueno-gustavo (materialismo filosófico) — el canal explícitamente la articula como tercera vía respecto a esos marcos. Domain primario humanities.philosophy con co-domains interdisciplinary.cognitive_science (vincula con golem-de-cobre/teoria-del-simbolo-en-proxy en la tesis 'pensamiento formalizable pero no computable').",
+      "quote_evidence": "Proxy se define como materialista antiformalista: los sistemas formales son construcción humana, pertenecen a la realidad pero no pueden abarcarla,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "En Irán está ocurriendo una revolución real con milicias armadas atacando centros del régimen islámico",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre actualidad política internacional coyuntural sin marco psicológico-arquetípico-cultural aplicado. Per scope §3.1 test 5/6: comentario directo sobre actualidad sin elevación a estructura. La queja sobre el silencio mediático tiene un atisbo de crítica estructural ('no conviene a Europa mostrar pueblo derrocando gobierno') pero está embebida en marco coyuntural sin desarrollo teórico.",
+      "quote_evidence": "En Irán está ocurriendo una revolución real con milicias armadas atacando centros del régimen islámico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "El tratado del Mercosur perjudicará a los agricultores del sur de Europa",
+      "reason_code": "political_news",
+      "reason_detail": "Política económica coyuntural sin marco aplicado. Per scope §3.3: fiscalidad/economía coyuntural concreta queda fuera salvo crítica estructural articulada (que aquí no existe).",
+      "quote_evidence": "El tratado del Mercosur perjudicará a los agricultores del sur de Europa al no poder competir con precios de importación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "La jihad internacional y el quintacolumnismo",
+      "reason_code": "political_news",
+      "reason_detail": "Predicción geopolítica coyuntural sin marco psicológico-cultural aplicado. Pasa el test discriminante §3.1 hacia OUT: comentario sobre actualidad sin elevación a estructura.",
+      "quote_evidence": "Cuando el Islam radical pierda fuerza en Medio Oriente, la jihad continuará a través de células ya instaladas en Europa y Estados Unidos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "La ONU ha dejado de funcionar como organismo efectivo y es un sumidero de recursos",
+      "reason_code": "political_news",
+      "reason_detail": "Valoración institucional coyuntural sin marco teórico aplicado.",
+      "quote_evidence": "La ONU ha dejado de funcionar como organismo efectivo y es un sumidero de recursos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Si él fuera China, habría sido quien inyectó el virus woke en Europa y Estados Unidos como cáncer de destrucción civilizatoria",
+      "reason_code": "political_news",
+      "reason_detail": "Especulación geopolítica coyuntural conspirativa sin marco psicológico/sociológico estructural aplicado. La metáfora 'virus woke como arma' no se desarrolla como tesis del canal sobre dinámicas culturales — es comentario rápido sobre actualidad. Si recurriera con desarrollo (mecanismo de contagio cultural, base psicológica del wokismo como mito impropio, etc.) podría reconsiderarse.",
+      "quote_evidence": "Si él fuera China, habría sido quien inyectó el virus woke en Europa y Estados Unidos como cáncer de destrucción civilizatoria,",
+      "review_priority": "medium",
+      "review_priority_reason": "La crítica al wokismo como fenómeno cultural-psicológico podría merecer página propia si recurre con marco articulado (similar a consumismo-critica). Vigilar futuras articulaciones donde se trate como mito impropio o categoría psico-cultural.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Llamar 'agresión sexual' a que una IA genere una imagen con bikini a partir de una foto pública es propio de inmaduros e infantiles",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis jurídico técnico (teoría del delito: acción típica/antijurídica/culpable/punible; derecho al honor; deep fakes; responsabilidad del publicador vs plataforma) aplicado a un caso de actualidad. El marco es derecho penal español, fuera de §1 (no es psicología, filosofía, sociología cultural). La aplicación es sólida pero coyuntural — no constituye tesis del canal sobre derecho digital. El observador podría merecer página si recurre articulación de marco propio sobre responsabilidad jurídica de plataformas IA.",
+      "quote_evidence": "Llamar \"agresión sexual\" a que una IA genere una imagen con bikini a partir de una foto pública es propio de inmaduros e infantiles,",
+      "review_priority": "medium",
+      "review_priority_reason": "El análisis jurídico es técnicamente denso (teoría del delito, deep fakes, responsabilidad de plataformas vs usuarios) y el speaker invoca formación en derecho. Si recurre articulación de marco jurídico propio sobre derechos digitales / responsabilidad IA, podría promoverse como page synthesis 'marco-juridico-derechos-digitales-en-proxy' o concept paralelo.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "La izquierda que históricamente defendía la libertad sexual está paradójicamente pidiendo prohibir este tipo de contenido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación crítica sobre tradición intelectual (§3.1 test 3 IN), pero como observación puntual dentro del análisis del caso Grok, no como desarrollo teórico de la genealogía/contradicciones del feminismo contemporáneo. Si recurre con articulación sostenida (cómo el progresismo sexual contemporáneo invierte el del 68), podría enriquecer una page sobre crítica al feminismo de género como mito impropio.",
+      "quote_evidence": "La izquierda que históricamente defendía la libertad sexual está paradójicamente pidiendo prohibir este tipo de contenido,",
+      "review_priority": "medium",
+      "review_priority_reason": "Apunta a una crítica psico-genealógica (similar a la lectura del canal sobre los ancap como ex-relativistas) que podría desarrollarse en futuras articulaciones. Vigilar.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Llevamos aproximadamente 10 años dando micrófono a gente que no tiene idea de lo que dice",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario crítico sobre el ecosistema mediático sin desarrollo de marco. Recurrente en el canal (similar al diagnóstico de degradación del discurso público) pero no constituye tesis articulada en este vídeo.",
+      "quote_evidence": "Llevamos aproximadamente 10 años dando micrófono a gente que no tiene idea de lo que dice,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Hinton sostiene que las matemáticas son un sistema cerrado donde la IA puede generar sus propios datos de entrenamiento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Geoffrey Hinton aparece como figura cuya tesis específica el speaker critica para construir su propio antiformalismo. Tratamiento de ~5 min, no alcanza umbrales §2.2 (sustancial ≥10 min, recurrente ≥3 vídeos, channel-ingested, foundational citation). No está en canonical_whitelist.json. La tesis criticada se captura íntegramente como caso ilustrativo en el promote_new de materialismo-antiformalista.",
+      "quote_evidence": "Hinton sostiene que las matemáticas son un sistema cerrado donde la IA puede generar sus propios datos de entrenamiento, como en el ajedrez o el Go,",
+      "review_priority": "medium",
+      "review_priority_reason": "Hinton (Premio Nobel 2024, padre del deep learning) es figura load-bearing en discusiones del canal sobre IA. Si recurre con tratamiento sustantivo, podría merecer entry en canonical_whitelist como soft-promote.",
+      "enriches_concept": "materialismo-antiformalista"
+    },
+    {
+      "surface_form": "Jonathan Gorard creó junto a Stephen Wolfram un programa que genera axiomas mediante combinaciones arbitrarias de símbolos y prueba teoremas a partir de ellos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Gorard y Wolfram aparecen como autores de un programa de investigación (demostrador automático + enumerador de sistemas axiomáticos) que el canal usa como CASO EMPÍRICO central para su tesis antiformalista. No son figuras de tratamiento sustantivo per §2.2 (no se expone su pensamiento general, solo su experimento concreto). El demostrador no es entity_work del corpus (per §2.3: película/libro/juego/álbum/serie); es proyecto de investigación científica usado como evidencia. Captura íntegra del caso en el promote_new de materialismo-antiformalista.",
+      "quote_evidence": "Jonathan Gorard creó junto a Stephen Wolfram un programa que genera axiomas mediante combinaciones arbitrarias de símbolos y prueba teoremas a partir de ellos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-antiformalista"
+    },
+    {
+      "surface_form": "El enumerador de sistemas axiomáticos redescubrió la teoría de conjuntos alrededor del axioma 30.000, la lógica booleana en el 50.000, la topología en el 200.000 y la teoría de grupos en el 800.000",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Pieza concreta del caso Gorard/Wolfram que el sub-agente debe integrar en el body de materialismo-antiformalista como evidencia empírica nuclear. La aparición de 'matemáticas alienígenas estériles' más allá de los sistemas humanos es la pieza experimental que sostiene la tesis 'las matemáticas son fundamentalmente humanas'.",
+      "quote_evidence": "El enumerador de sistemas axiomáticos redescubrió la teoría de conjuntos alrededor del axioma 30.000, la lógica booleana en el 50.000, la topología en el 200.000 y la teoría de grupos en el 800.000,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-antiformalista"
+    },
+    {
+      "surface_form": "Los teoremas de incompletitud son uno de los límites conocidos de la formalidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención puntual de los teoremas de Gödel como límite conocido de la formalización, sin desarrollo. No constituye tratamiento substantive de Gödel ni de los teoremas. Captura como referencia auxiliar en el body de materialismo-antiformalista.",
+      "quote_evidence": "Los teoremas de incompletitud son uno de los límites conocidos de la formalidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-antiformalista"
+    },
+    {
+      "surface_form": "Diferencia entre arbitrario y aleatorio",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Distinción técnica auxiliar dentro del marco antiformalista (arbitrario = no importa el criterio; aleatorio = no se puede predecir; aleatoriedad no existe en la naturaleza, es concepto teórico). Pieza del marco que el sub-agente integra en materialismo-antiformalista, no concept independiente.",
+      "quote_evidence": "Arbitrario significa que no importa el criterio de selección: dado cualquier número, da igual cuál sea,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-antiformalista"
+    },
+    {
+      "surface_form": "Sistemas formales abiertos y cerrados",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Distinción técnica que el speaker articula como pieza del antiformalismo (sistema cerrado = operaciones empiezan y terminan dentro del propio sistema; las matemáticas como conjunto cerrado es debatible). Pieza del marco, no concept independiente.",
+      "quote_evidence": "Un sistema cerrado es aquel cuyas operaciones empiezan y terminan dentro del propio sistema: el resultado siempre pertenece al sistema,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-antiformalista"
+    },
+    {
+      "surface_form": "La formalización no es una representación ni una descripción sino una traducción a lenguaje formal con sus propias limitaciones gramaticales",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Definición operativa nuclear de formalización dentro del antiformalismo. El sub-agente la integra en el body de materialismo-antiformalista como pieza definicional principal junto con la distinción formalizable vs computable.",
+      "quote_evidence": "La formalización no es una representación ni una descripción sino una traducción a lenguaje formal con sus propias limitaciones gramaticales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "materialismo-antiformalista"
+    },
+    {
+      "surface_form": "Reconoce que este contenido es antiviews pero le gustaría intentarlo",
+      "reason_code": "meta_canal",
+      "reason_detail": "Auto-referencia del canal a su política editorial / formato de stream. No contenido enciclopédico.",
+      "quote_evidence": "Reconoce que este contenido es antiviews pero le gustaría intentarlo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 16,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Proxy se define como materialista antiformalista: los sistemas formales son construcción humana, pertenecen a la realidad pero no pueden abarcarla] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

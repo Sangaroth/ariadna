@@ -95,6 +95,25 @@ El síndrome de Wendy no es síntoma clínico aislado: es un nombre canal-espec�
 
 
 
+## Distinción Wendy / Ninfa por motivación: criterio psicológico complementario al arquetípico
+
+En el directo *Irrespirables redes sociales* (24 sept 2024), al analizar el caso de la mujer del hilo de Killer Queen que se juntó con su marido como 'objeto narcisista' (para ver si con ella él desarrollaba sentimientos), el canal precisa la frontera entre Wendy y Ninfa con un criterio operativo nuevo:
+
+> "Wendy y Ninfa se parecen mucho en conducta pero difieren en motivación; esa distinción es psicológica, no arquetípico-mitológica"
+→ [Irrespirables redes sociales (1:04:51)](https://youtu.be/aaLhUV1rdE4?t=3891)
+
+> "La mujer del hilo probablemente se juntó con su marido por objeto narcisista: para ver si con ella él desarrollaba sentimientos, lo cual es un patrón super Wendy"
+→ [Irrespirables redes sociales (1:04:51)](https://youtu.be/aaLhUV1rdE4?t=3891)
+
+La precisión refina el marco: Wendy y Ninfa pueden manifestar **conductas externamente equivalentes** (atracción por figuras prototípicas, fabricación interior del amante, proyección sobre objetos sin contraparte real), pero la diferencia está en la **motivación subyacente** y opera en el plano psicológico (etiología, función del vínculo para el yo) más que en el plano arquetípico-mitológico (la figura imaginaria que el sujeto encarna).
+
+El caso del 'objeto narcisista' es paradigmático del polo Wendy: la mujer se vincula con el hombre indisponible no por atracción a la indisponibilidad en sí (motivación que correspondería al polo Ninfa, captura indiscriminada del deseo del otro) sino por la confirmación narcisista de ser ella la excepción que produciría el cambio en él. La motivación es prueba del propio valor, no captura del otro. La conducta externa puede ser indistinguible — relación con hombre incapaz de vincularse — pero el sustrato psicológico es Wendy, no Ninfa.
+
+La distinción matiza la articulación de la mutación Artemisa→Afrodita que la página presenta como mecánica nuclear: la mutación opera arquetípicamente como tránsito del eje femenino, pero dentro del polo Wendy persisten configuraciones psicológicas distintas (Wendy de espera idealizada vs Wendy de objeto narcisista) que requieren lectura clínica complementaria al diagnóstico arquetípico. Misma figura mítica, motivaciones intrapsíquicas distinguibles.
+
+
+
+
 ## La versión masculina del síndrome
 
 El canal articula también la operación del síndrome en la psique masculina infantil, donde toma la forma del **anhelo de huida del hogar**: el niño se siente injustamente tratado, fantasea con que su verdadero destino aguarda más allá de la ventana, pero no se atreve a actuar la huida real porque no es disocial:

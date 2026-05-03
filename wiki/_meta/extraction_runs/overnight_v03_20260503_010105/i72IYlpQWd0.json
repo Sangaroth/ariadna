@@ -1,0 +1,350 @@
+{
+  "video_id": "i72IYlpQWd0",
+  "video_title": "La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "El psicoanálisis es metafórico porque intenta una autoforía: algo que se refiere a sí mismo desde sí mismo",
+      "canonical_guess": "autoforia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "substantive",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El psicoanálisis es metafórico porque intenta una autoforía: algo que se refiere a sí mismo desde sí mismo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El espacio noseológico es una matriz 3×3×3 que describe las formas del conocer, pero ese cubo no existe en ningún sitio,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Sublimar, encapsular, excisión del yo son pseudometáforas para procesos psíquicos que no tienen estructura física,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Categoría metodológico-epistemológica canal-específica con definición operativa explícita ('algo que se refiere a sí mismo desde sí mismo' / 'crear un objeto para darle forma a lo intangible'). Marca de autoría explícita y aplicación a casos paradigmáticos: (a) el psicoanálisis como autoforía generalizada (sublimar/encapsular/excisión del yo como pseudometáforas para procesos psíquicos sin estructura física); (b) el espacio noseológico de [[bueno-gustavo|Gustavo Bueno]] como matriz 3×3×3 que no existe en ningún sitio — autoforía filosófica que el canal califica de 'demasiado metafórica para ser filosofía de la mente en sentido estricto'. Distinguida operativamente del [[realismo-cognitivo]] (donde la matriz tiene correlato material en el grafo neuronal). Pieza nuclear del marco metodológico del canal — sustenta la crítica al psicoanálisis y al materialismo filosófico que ya aparece en realismo-cognitivo y en otros lugares del corpus.",
+      "quote_evidence": "El psicoanálisis es metafórico porque intenta una autoforía: algo que se refiere a sí mismo desde sí mismo,"
+    },
+    {
+      "surface_form": "Proyecto Galatea: simular una hidra con todas las variables afectivas posibles usando redes neuronales",
+      "canonical_guess": "galatea-modelo-protomente",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "substantive",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Objetivo: simular una hidra con todas las variables afectivas posibles usando redes neuronales,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Se creó un marco teórico (la matriz fi) pero hubo que abandonar el proyecto por limitaciones técnicas y recursos,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La hidra tiene un sistema nervioso sencillo pero completo: casi todo el organismo son neuronas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Page_id ya referenciado como 'cuando se promueva' en [[realismo-cognitivo]] ('La articulación operativa completa de este motor — clases primarias, álgebra de operaciones, vectores en notación bracket — es el modelo Galatea'). Aquí el speaker articula sustantivamente el proyecto: (a) objetivo concreto — simular una hidra con todas las variables afectivas posibles usando redes neuronales; (b) marco teórico propio — la matriz fi; (c) método experimental — neuronas bioluminiscentes via ingeniería genética para visualizar activación; (d) elección biológica justificada — la hidra como organismo de sistema nervioso sencillo pero completo (casi todo el organismo son neuronas); (e) historia del proyecto — abandonado por limitaciones técnicas y de recursos, posible retomar con Claude Code. Synthesis subtype author_thesis: marco teórico-experimental propio articulado como programa de investigación. Domain primario interdisciplinary.cognitive_science con co-domains natural.neuroscience (hidra, bioluminiscencia) y social.psychology.cognitive (matriz fi como modelo de protomente). Sub-agente debe poner relations bidireccionales con realismo-cognitivo (sustrato epistemológico), golem-de-cobre (modelo cognitivo positivo), teoria-del-simbolo-en-proxy (matriz N).",
+      "quote_evidence": "Objetivo: simular una hidra con todas las variables afectivas posibles usando redes neuronales,"
+    },
+    {
+      "surface_form": "Si la producción humana se parece a la de la IA, la IA se entrenará con ella misma y colapsará",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Si la producción humana se parece a la de la IA, la IA se entrenará con ella misma y colapsará,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Vemos conciencia en una máquina porque emite palabras; si no las emitiera no veríamos conciencia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Cinco precisiones nuevas que extienden el marco IA/cognición de la página: (a) colapso del modelo BIDIRECCIONAL — la deuda cognitiva ya documentada se completa con el lado IA del bucle (IA se entrena con producción humana cada vez más parecida a la IA); (b) tesis del TFM del speaker 'sin esfuerzo cognitivo no hay entrenamiento cognitivo' como mecanismo del colapso cultural; (c) evidencia empírica — estudio Max Planck con 280.000 transcripciones académicas mostrando aumento del 48% en el uso de 'delve' por contagio mimético del registro IA; (d) criterio de memoria vs patrón conservado — el sofá guarda forma pero no percibe, el papel se pliega pero no recuerda, la categorización es lo que distingue memoria de huella mecánica; (e) inteligencia = volición + afecto — los LLM resuelven problemas pero un problema es un afecto que solo un sujeto encarnado define; (f) mecanismo perceptivo de la ilusión de conciencia — vemos conciencia porque la máquina emite palabras, no por su computación interna. Captura íntegra en pending_update.",
+      "quote_evidence": "Si la producción humana se parece a la de la IA, la IA se entrenará con ella misma y colapsará,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "cuya disociación parcial en otras especies revela qué piezas son separables y cuáles solo aparecen integradas en el humano vía metarrepresentación.",
+      "section_target": null,
+      "content_proposed": "\n\n## Colapso del modelo bidireccional y precisiones sobre la pseudo-conciencia de las máquinas\n\nEn el directo *La IA se sale de madre. Ética e IA parte 2* (17 feb 2026) el canal extiende la tesis nuclear con cinco precisiones operativas que refinan el marco IA/cognición articulado en esta página.\n\n### El colapso del modelo es bidireccional: IA y humanos en redundancia mutua\n\nLa sección sobre 'deuda cognitiva' articulaba la degradación humana por uso ergonómico de IA. La precisión que el canal añade aquí es que el colapso opera en ambas direcciones simultáneamente: la IA se entrena con producción humana, y esa producción humana se va pareciendo cada vez más a la propia producción IA — el sistema entra en redundancia mutua.\n\n> \"Si la producción humana se parece a la de la IA, la IA se entrenará con ella misma y colapsará\"\n→ [La IA se sale de madre, Parte 2 (57:37)](https://youtu.be/i72IYlpQWd0?t=3457)\n\n> \"Lo mismo pasa con los humanos: si nadie crea contenido original, cuanto menos se consuma menos se creará\"\n→ [La IA se sale de madre, Parte 2 (57:37)](https://youtu.be/i72IYlpQWd0?t=3457)\n\nLa tesis del trabajo de fin de máster del speaker articula el mecanismo concreto:\n\n> \"Sin esfuerzo cognitivo no habrá entrenamiento cognitivo\"\n→ [La IA se sale de madre, Parte 2 (58:37)](https://youtu.be/i72IYlpQWd0?t=3517)\n\n> \"Si no se crean cosas difíciles, nadie escribirá Cumbres Borrascosas para que alguien se esfuerce en leerlo y aprenda\"\n→ [La IA se sale de madre, Parte 2 (58:37)](https://youtu.be/i72IYlpQWd0?t=3517)\n\nLa consecuencia para la cognición humana es el cierre del bucle: si la deuda cognitiva degrada la mente individual y el colapso del modelo degrada la producción cultural, las nuevas generaciones se forman sin material exigente que entrene su matriz noética — el contenedor cultural mismo se desentrena. La pieza enlaza con la articulación del cuadro generacional documentada en [[generacion-cristal-jaula-oro]].\n\n### Evidencia empírica: estudio Max Planck sobre adopción de léxico ChatGPT\n\nLa tesis del colapso bidireccional tiene un primer apoyo empírico medible en el cambio del léxico hablado humano:\n\n> \"Análisis de 280.000 transcripciones académicas revela aumento de palabras favoritas de ChatGPT en el lenguaje hablado\"\n→ [La IA se sale de madre, Parte 2 (55:36)](https://youtu.be/i72IYlpQWd0?t=3336)\n\n> \"El uso de 'delve' subió un 48%; el 58% de los usos no mostraron signos de provenir de un guion\"\n→ [La IA se sale de madre, Parte 2 (55:36)](https://youtu.be/i72IYlpQWd0?t=3336)\n\n> \"Es como cuando vas a un sitio con otro acento y se te pega — adopción espontánea del registro de la IA\"\n→ [La IA se sale de madre, Parte 2 (55:36)](https://youtu.be/i72IYlpQWd0?t=3336)\n\nLa pieza es importante para el marco: la adopción NO se produce por copia consciente sino por contagio mimético del registro — el mismo mecanismo que en el contacto con otro acento. El humano que lee/oye contenido IA repetidamente lo internaliza como pauta del propio habla. Es la deuda cognitiva en su forma léxico-estilística, medible vía corpus académico.\n\n### Memoria vs patrón conservado: el criterio de la categorización\n\nLa sección de refinamientos sobre la memoria precisaba la 'memoria por repetición' como impronta somática. Aquí el canal añade el criterio inverso — qué NO cuenta como memoria — articulando la frontera entre memoria y mera conservación de patrón:\n\n> \"El sofá guarda la forma de tu cuerpo pero no percibe; un CD conserva estados pero no recuerda\"\n→ [La IA se sale de madre, Parte 2 (1:39:28)](https://youtu.be/i72IYlpQWd0?t=5968)\n\n> \"Un papel arrugado repetidamente tiende a plegarse igual: si eso es memoria, prácticamente todo tiene memoria\"\n→ [La IA se sale de madre, Parte 2 (1:39:28)](https://youtu.be/i72IYlpQWd0?t=5968)\n\n> \"Los árboles responden diferente a distintos organismos pero no crean categorías — no distinguen hormiga de lluvia\"\n→ [La IA se sale de madre, Parte 2 (1:39:28)](https://youtu.be/i72IYlpQWd0?t=5968)\n\nEl criterio operativo: lo que distingue la memoria de la mera conservación es la **categorización**. Sin distinguir hormiga de lluvia (sin clases noéticas en el sentido del [[realismo-cognitivo]]), no hay memoria sino huella mecánica. El sofá tiene huella mecánica; el cerebro tiene memoria porque categoriza lo que percibe. La consecuencia para el marco IA/cognición: ningún sistema computacional tiene memoria en el sentido fuerte si no produce categorías noéticas con función afectiva — almacena patrones conservados, no recuerdos.\n\n### Inteligencia como resolución de problemas exige volición y afecto\n\nLa página articula la barrera estructural máquina/humano vía afectos. Aquí se precisa cómo opera esa barrera en la definición misma de inteligencia:\n\n> \"Si inteligencia es capacidad de resolver problemas, los LLM son inteligentes — resuelven mediante anticipación predictiva\"\n→ [La IA se sale de madre, Parte 2 (1:28:46)](https://youtu.be/i72IYlpQWd0?t=5326)\n\n> \"Pero un problema es un afecto: la diferencia entre problema y no-problema la sigue determinando un humano\"\n→ [La IA se sale de madre, Parte 2 (1:28:46)](https://youtu.be/i72IYlpQWd0?t=5326)\n\n> \"Las máquinas no son sujetos volitivos; computar es un hecho, no una acción — el usuario hace, la máquina computa\"\n→ [La IA se sale de madre, Parte 2 (1:28:46)](https://youtu.be/i72IYlpQWd0?t=5326)\n\nLa precisión cierra el flanco operativo: la definición funcional 'inteligencia = resolver problemas' técnicamente cubre los LLM, pero **un problema es un afecto** — la categorización de un estado del mundo como problemático presupone valencia afectiva (importa, urge, duele, se rechaza), que solo un sujeto encarnado tiene. La distinción acción/computación es el correlato volitivo: el usuario hace (acto volitivo afectado), la máquina computa (proceso sin sujeto). La frontera no es de capacidad procesual sino de constitución ontológica del agente.\n\n### Por qué vemos conciencia en las máquinas: el efecto de las palabras\n\nLa precisión clínica final explica el mecanismo perceptivo de la ilusión de conciencia máquina:\n\n> \"Vemos conciencia en una máquina porque emite palabras; si no las emitiera no veríamos conciencia\"\n→ [La IA se sale de madre, Parte 2 (1:58:06)](https://youtu.be/i72IYlpQWd0?t=7086)\n\n> \"La máquina se comporta como si tuviese conciencia según nuestros sentidos, pero según la definición no la tiene\"\n→ [La IA se sale de madre, Parte 2 (1:58:06)](https://youtu.be/i72IYlpQWd0?t=7086)\n\nLa pieza completa la crítica al paradigma Turing que la página ya articulaba (simulación perfecta y emulación perfecta serían indistinguibles desde fuera pero no son lo mismo): el mecanismo perceptivo concreto que produce la ilusión es el **lenguaje**. Las palabras activan en el receptor humano la inferencia automática de sujeto interlocutor con contenidos mentales — inferencia ineliminable porque está cableada en el aparato de comprensión lingüística. Una máquina sin output verbal jamás dispararía la inferencia de conciencia, por sofisticada que fuera su computación interna. La consecuencia: el problema epistemológico de detectar conciencia artificial no es solo de criterio técnico sino de **inhibir un automatismo cognitivo humano** que la propia evolución del lenguaje instaló para reconocer interlocutores reales.\n\nEl paper de referencia que el speaker cita en este punto — *The fiability of artificial consciousness through the lens of neuroscience* — articula formalmente esta tesis desde la neurociencia.\n",
+      "wikilinks_introduced": [
+        "generacion-cristal-jaula-oro",
+        "realismo-cognitivo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "i72IYlpQWd0",
+          "timestamp_seconds": 3457,
+          "cite_markdown": "[La IA se sale de madre, Parte 2 (57:37)](https://youtu.be/i72IYlpQWd0?t=3457)"
+        },
+        {
+          "video_id": "i72IYlpQWd0",
+          "timestamp_seconds": 3517,
+          "cite_markdown": "[La IA se sale de madre, Parte 2 (58:37)](https://youtu.be/i72IYlpQWd0?t=3517)"
+        },
+        {
+          "video_id": "i72IYlpQWd0",
+          "timestamp_seconds": 3336,
+          "cite_markdown": "[La IA se sale de madre, Parte 2 (55:36)](https://youtu.be/i72IYlpQWd0?t=3336)"
+        },
+        {
+          "video_id": "i72IYlpQWd0",
+          "timestamp_seconds": 5968,
+          "cite_markdown": "[La IA se sale de madre, Parte 2 (1:39:28)](https://youtu.be/i72IYlpQWd0?t=5968)"
+        },
+        {
+          "video_id": "i72IYlpQWd0",
+          "timestamp_seconds": 5326,
+          "cite_markdown": "[La IA se sale de madre, Parte 2 (1:28:46)](https://youtu.be/i72IYlpQWd0?t=5326)"
+        },
+        {
+          "video_id": "i72IYlpQWd0",
+          "timestamp_seconds": 7086,
+          "cite_markdown": "[La IA se sale de madre, Parte 2 (1:58:06)](https://youtu.be/i72IYlpQWd0?t=7086)"
+        }
+      ],
+      "rationale": "Cinco precisiones nuevas que extienden el marco existente sin duplicar: (a) bidireccionalidad del colapso (la deuda cognitiva ya estaba pero solo en dirección humano→degradación; aquí se cierra el bucle con la IA→retroalimentación); (b) tesis del TFM del speaker sobre esfuerzo/entrenamiento cognitivo; (c) evidencia empírica Max Planck que la página no tenía; (d) criterio operativo memoria vs patrón vía categorización — refina la articulación previa sobre 'memoria como reconstrucción' añadiendo qué NO cuenta como memoria; (e) precisión sobre inteligencia=volición+afecto que refina la barrera afectiva; (f) mecanismo perceptivo de la ilusión de conciencia vía lenguaje que completa la crítica al paradigma Turing ya articulada.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Una joven graba su frustración al no poder leer Cumbres Borrascosas por falta de vocabulario",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo abre el bloque sobre lectura como esfuerzo cognitivo y se cita como ejemplo de 'sin material difícil no hay entrenamiento cognitivo'. Captura íntegra en el body de generacion-cristal-jaula-oro y golem-de-cobre.",
+      "quote_evidence": "Una joven graba su frustración al no poder leer Cumbres Borrascosas por falta de vocabulario, no por falta de inteligencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "generacion-cristal-jaula-oro"
+    },
+    {
+      "surface_form": "Jung es difícil no porque sea complejo, sino porque usa términos comunes con acepciones técnicas distintas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación metodológica sobre la lectura técnica (la trampa semántica de los marcos analíticos: 'persona' en Jung no es individuo sino parte construida del yo). Pieza marginal sin desarrollo de marco propio.",
+      "quote_evidence": "Jung es difícil no porque sea complejo, sino porque usa términos comunes con acepciones técnicas distintas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "jung-carl-gustav"
+    },
+    {
+      "surface_form": "El espacio noseológico es una matriz 3×3×3 que describe las formas del conocer, pero ese cubo no existe en ningún sitio",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Caso paradigmático de autoforía aplicada a la noseología de [[bueno-gustavo]]. Captura íntegra en el body de autoforia como ejemplo nuclear de la categoría.",
+      "quote_evidence": "El espacio noseológico es una matriz 3×3×3 que describe las formas del conocer, pero ese cubo no existe en ningún sitio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autoforia"
+    },
+    {
+      "surface_form": "A leer se aprende leyendo, no escribiendo; la lectura es lo necesario para desarrollar el lenguaje",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis pedagógica sobre la lectura como práctica de UAL conectada con la articulación educativa ya añadida a teoria-del-simbolo-en-proxy. La distinción 'leer con diccionario cada tres líneas no es leer sino estudiar' es pieza interesante. Captura como complemento.",
+      "quote_evidence": "A leer y a escribir se aprende leyendo, no escribiendo; la lectura es lo necesario para desarrollar el lenguaje,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Reescritura humorística de la escena de Éowyn con vocabulario actual: bro, red flag, cringe, funar",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza humorística ilustrativa de la distancia entre lenguaje literario y habla contemporánea. Sin función conceptual.",
+      "quote_evidence": "Reescritura humorística de la escena de Éowyn con vocabulario actual: \"bro\", \"red flag\", \"cringe\", \"funar\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Amazon se llenó de libros escritos con IA, especialmente literatura erótica fácil de generar",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación sobre la industria editorial. Conecta con la sección 'contaminación del corpus científico por IA generativa' de golem-de-cobre como caso paralelo, pero sin desarrollo monográfico aquí.",
+      "quote_evidence": "Amazon se llenó de libros escritos con IA, especialmente literatura erótica fácil de generar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "El arte manual se convirtió en artesanía con el arte digital; ahora el arte digital se convertirá en artesanía por la IA",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis sobre la obsolescencia de profesiones por IA. La velocidad del cambio (revolución industrial en 100 años vs IA en 10) es pieza interesante. Conecta con consumismo-critica (homogeneización por plataformas).",
+      "quote_evidence": "El arte manual se convirtió en artesanía con el arte digital; ahora el arte digital se convertirá en artesanía por la IA,",
+      "review_priority": "medium",
+      "review_priority_reason": "La tesis 'velocidad del cambio tecnológico como verdadero problema (no la IA en sí)' podría merecer concept page si recurre con desarrollo. Distingue cuestión técnica de cuestión moral/social, en línea con la crítica de golem-de-cobre.",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Desde que hay internet el 90% de las producciones son copias de una copia de una copia",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El 'colapso del contenido original' ya está documentado en consumismo-critica con cita literal de este mismo vídeo. Sin material nuevo aquí.",
+      "quote_evidence": "Desde que hay internet el 90% de las producciones son copias de una copia de una copia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Análisis de 280.000 transcripciones académicas revela aumento de palabras favoritas de ChatGPT",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Estudio Max Planck capturado íntegramente en el pending_update a golem-de-cobre como evidencia empírica del colapso del modelo bidireccional.",
+      "quote_evidence": "Análisis de 280.000 transcripciones académicas revela aumento de palabras favoritas de ChatGPT en el lenguaje hablado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Debería haber gente corrigiendo la IA continuamente para que sea más variable en léxico y formas de expresión",
+      "reason_code": "passing_mention",
+      "reason_detail": "Propuesta operativa sobre el entrenamiento de IA. Pieza menor sin desarrollo de marco.",
+      "quote_evidence": "Debería haber gente corrigiendo la IA continuamente para que sea más variable en léxico y formas de expresión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Llegará un momento en que habrá que admitir una conciencia propia de la naturaleza de las máquinas, no humana",
+      "reason_code": "passing_mention",
+      "reason_detail": "Apertura especulativa sobre conciencia máquina propia (no humana). Conecta con la tesis enactivista que ya está articulada en realismo-cognitivo (la mente está encarnada). El argumento del pansiquismo ('si computar implica conciencia, la calculadora también') refina la crítica anti-pansiquista de realismo-cognitivo.",
+      "quote_evidence": "Si computar implica conciencia, la calculadora también la tiene — el pansiquismo no funciona así,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Las máquinas no tienen valencias afectivas porque no sienten físicamente",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La barrera afectiva máquina/humano ya está plenamente articulada en golem-de-cobre ('Lo que le falta a la máquina son afectos, no emociones'). Pieza redundante.",
+      "quote_evidence": "Las máquinas no tienen valencias afectivas porque no sienten físicamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Un sistema nervioso artificial no se puede enchufar a una máquina: el sistema nervioso tiene que SER la máquina",
+      "reason_code": "passing_mention",
+      "reason_detail": "Precisión sobre la imposibilidad arquitectónica de añadir afectividad a una máquina por adición de hardware. Pieza interesante que refina la barrera ontológica máquina/humano. Conecta con galatea-modelo-protomente (donde el speaker intenta justamente eso: hacer que un sistema simulado SEA neurona).",
+      "quote_evidence": "Un sistema nervioso artificial no se puede enchufar a una máquina: el sistema nervioso tiene que SER la máquina,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Minero saca oro → del oro se hace un chip → del chip un ordenador → en el ordenador se juega al Minecraft",
+      "reason_code": "passing_mention",
+      "reason_detail": "Metáfora ilustrativa del colapso civilizatorio (cadena productiva degradada hasta el ocio recursivo). Pieza retórica sin desarrollo conceptual.",
+      "quote_evidence": "Minero saca oro → del oro se hace un chip → del chip un ordenador → en el ordenador se juega al Minecraft,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Dentro de Minecraft se han construido procesadores funcionales que ejecutan código",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota técnica sobre simulación recursiva. Pieza marginal.",
+      "quote_evidence": "Dentro de Minecraft se han construido procesadores funcionales que ejecutan código,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Yashamunk argumenta que Claude generó un paper potencialmente publicable sobre dominación epistémica en menos de 2 horas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso reciente sobre IA en producción académica. Conecta con la sección 'contaminación del corpus científico' de golem-de-cobre como evidencia adicional. La tesis derivada — 'las humanidades deben redefinirse: no por producir papers eruditos sino por responder preguntas sobre sentido e identidad' — es pieza interesante pero sin desarrollo monográfico aquí.",
+      "quote_evidence": "Yashamunk argumenta que Claude generó un paper potencialmente publicable sobre dominación epistémica en menos de 2 horas,",
+      "review_priority": "medium",
+      "review_priority_reason": "La redefinición propuesta de las humanidades ('responder preguntas sobre sentido e identidad') es pieza filosófica importante que podría merecer concept o synthesis si recurre con desarrollo.",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "No sabemos qué es la conciencia — es un fenómeno subjetivo pero ¿qué significa tener subjetividad?",
+      "reason_code": "passing_mention",
+      "reason_detail": "Hard problem de la conciencia ya articulado en realismo-cognitivo (sección sobre Kripke + Chalmers). El gradiente subjetividad (mamíferos sí, insectos no, plantas no) es precisión interesante pero sin desarrollo monográfico aquí.",
+      "quote_evidence": "Los mamíferos tienen fenomenología; los insectos y reptiles probablemente no; las plantas seguro que no,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Una partícula se predice a sí misma y esa predicción afecta a su probabilidad de existencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza de física cuántica (teorema de Bell) mencionada como ejemplo de límite de la intuición humana. Sin marco aplicado al corpus del canal.",
+      "quote_evidence": "Una partícula se predice a sí misma y esa predicción afecta a su probabilidad de existencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Los hongos crean enormes mallas subterráneas de intercambio de información que en cierto sentido computan",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis sobre alostasis y computación distribuida en redes fúngicas y plantas. Conecta con clases-ancestrales (homologías noéticas trans-especies). Pieza interesante pero sin desarrollo monográfico aquí.",
+      "quote_evidence": "Los hongos crean enormes mallas subterráneas de intercambio de información que en cierto sentido computan,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'plantas/hongos como sistemas activos con alostasis pero sin categorización' refina la frontera de qué cuenta como cognición en el marco del canal. Si recurre podría enriquecer clases-ancestrales o merecer concept propio sobre 'gradiente de cognición en lo viviente'.",
+      "enriches_concept": "clases-ancestrales"
+    },
+    {
+      "surface_form": "El instinto solo tiene sentido categorial: se define por observarlo en animales y aplica a animales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción categorial instinto/automatismo articulada como crítica al sofisma de trasladar semántica del instinto a plantas. La tesis 'los insectos carecen de afectos' refina el gradiente de subjetividad. Pieza interesante para clases-ancestrales si recurre.",
+      "quote_evidence": "Trasladar la semántica del instinto animal a las plantas es un sofisma,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción técnica instinto/automatismo + 'insectos sin afectos' es pieza importante de la teoría del canal sobre niveles de cognición. Vigilar.",
+      "enriches_concept": "clases-ancestrales"
+    },
+    {
+      "surface_form": "Paper de referencia: The fiability of artificial consciousness through the lens of neuroscience",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Referencia bibliográfica capturada en el pending_update a golem-de-cobre como sustento académico de la tesis sobre la pseudo-conciencia de las máquinas. No es 'recommended_reference' en el sentido del scope §3.4 (no es manual de estudio sino paper específico sobre el tema concreto).",
+      "quote_evidence": "Paper de referencia: \"The fiability of artificial consciousness through the lens of neuroscience\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 3,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 21,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP entity[generacion-cristal-jaula-oro] decision=promote_new quote no literal: 'Triple herida de jaula + engaño + culpabilización,'",
+    "DROP framing_mark @ entity[golem-de-cobre]: 'Sin esfuerzo cognitivo no habrá entrenamiento cognitivo,'"
+  ]
+}

@@ -183,7 +183,9 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
+- **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [33:19](https://youtu.be/i72IYlpQWd0?t=1999)
 

@@ -1,0 +1,221 @@
+{
+  "video_id": "PC5uw1s86eE",
+  "video_title": "La IA se sale de madre. Ética e IA parte 1",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "El héroe joven conoce a la ninfa: anatomía de la trampa + Receta para sanar la desidealización (3 pasos)",
+      "canonical_guess": "colusion-heroe-ninfa",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 80,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Receta para sanar la desidealización: paso 1 - Desidealizar"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Paso 2 - La catarsis: darse permiso para la ira justa"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Paso 3 - Del desprecio a la indiferencia y el olvido"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las colusiones de ninfa son destructivas: ninfa-sátiro o Wendy-tirano son las peores combinaciones posibles,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Hay que contar la historia, expresar la versión propia y reconocer que lo ocurrido fue objetivamente injusto,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Thesis articulada del canal que cumple gate de auto-promoción §2.4.1 para synthesis subtype author_thesis. Sustained ~80 min de exposición sostenida (≥30 ✓). Signal marks múltiples (≥3 ✓): (a) declared_thesis con receta numerada explícita en tres pasos (Desidealizar → Catarsis → Desprecio/indiferencia/olvido); (b) internal_structure articulada con sub-piezas que dependen entre sí (anatomía de la trampa, intimidad fingida, diferencias cognitivas masculino/femenino, colusiones destructivas tipificadas como ninfa-sátiro y Wendy-tirano, idealización negativa como mecanismo del rencor narcisista, putificación como fase del duelo, red flags); (c) applied_framework aplicado a un caso operativo paradigmático (héroe joven que cae en la trampa de la ninfa); (d) pedagogic_register sostenido (instrucciones explícitas: 'hay que contar la historia', 'si hay que insultar, insultar', 'tomar medidas de emergencia si el dolor va a más'). Framework internal_structure (≥4 ✓): pasos 1/2/3 + anatomía + colusiones tipificadas + diferencias cognitivas + rencor + putificación + red flags = 8+ piezas. Material genuinamente nuevo no cubierto por sindrome-wendy (que documenta la mutación Artemisa→Afrodita pero no la dinámica relacional con el héroe joven), tipologia-femenina-arquetipica (que enumera las cinco corrupciones pero no la receta terapéutica), ni anima-archetype. Subtype author_thesis claramente: NO es análisis de obra ni exposición de concepto académico, es articulación de teoría psico-arquetípica clínica original con método terapéutico. Sub-agente debe marcar auto_promoted_synthesis: true en frontmatter y poner relations bidireccionales con sindrome-wendy, tipologia-femenina-arquetipica, anima-archetype, adgrediere-masculino, individuation, golem-de-cobre (por la pieza sobre confabulación femenina que conecta con la teoría de memoria como reconstrucción).",
+      "quote_evidence": "Las colusiones de ninfa son destructivas: ninfa-sátiro o Wendy-tirano son las peores combinaciones posibles,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El plan es mudarse a Barcelona con un trabajo fijo en un hospital para después trabajar como buzo y preparar un doctorado",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Plan personal/profesional del speaker. Sin función ilustrativa de un concepto.",
+      "quote_evidence": "El plan es mudarse a Barcelona con un trabajo fijo en un hospital para después trabajar como buzo y preparar un doctorado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Lleva 10 años luchando por su salud mental sin poder hacer nada sólido profesionalmente",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Estado biográfico personal del speaker.",
+      "quote_evidence": "Lleva 10 años luchando por su salud mental sin poder hacer nada sólido profesionalmente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Sangarot, Silent e Isu están creando un repositorio transcribiendo los vídeos del canal con ayuda de IA",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de proyecto comunitario sobre el corpus del canal. Metadata del propio canal.",
+      "quote_evidence": "Sangarot, Silent e Isu están creando un repositorio transcribiendo los vídeos del canal con ayuda de IA,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Planean extraer análisis arquetípicos del repositorio para montar libros, empezando por uno dirigido a padres sobre cómo hablar de Disney con sus hijos",
+      "reason_code": "meta_canal",
+      "reason_detail": "Plan editorial del canal/comunidad. Metadata.",
+      "quote_evidence": "Planean extraer análisis arquetípicos del repositorio para montar libros, empezando por uno dirigido a padres sobre cómo hablar de Disney con sus hijos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Ha terminado definitivamente el texto del nuevo libro y ya está en manos de los correctores",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio sobre publicación editorial del speaker. Metadata.",
+      "quote_evidence": "Ha terminado definitivamente el texto del nuevo libro y ya está en manos de los correctores,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Se publicarán tres ediciones: el libro nuevo solo, el libro nuevo más el Grimorio revisado en un tomo, y el Grimorio revisado en tapa dura premium",
+      "reason_code": "meta_canal",
+      "reason_detail": "Plan editorial. Metadata.",
+      "quote_evidence": "Se publicarán tres ediciones: el libro nuevo solo, el libro nuevo más el Grimorio revisado en un tomo, y el Grimorio revisado en tapa dura premium,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Si el héroe tiene aunque sea un dedal de síndrome de caballero blanco proveniente de carencia de afecto parental, está perdido",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Pieza del cuadro héroe-ninfa que el sub-agente integra en el body de colusion-heroe-ninfa como factor de vulnerabilidad del héroe. El 'síndrome de caballero blanco' aparece como mención breve sin desarrollo monográfico — si recurriera con análisis sostenido podría merecer concept page propio.",
+      "quote_evidence": "Si el héroe tiene aunque sea un dedal de síndrome de caballero blanco proveniente de carencia de afecto parental, está perdido,",
+      "review_priority": "medium",
+      "review_priority_reason": "El 'síndrome del caballero blanco' como categoría clínica masculina (varón con tendencia a rescatar mujeres por carencia de afecto parental) podría merecer concept page propio si recurre con desarrollo. Es complementario estructural de sindrome-del-nino-masculino y del cuadro héroe-ninfa.",
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "Las mujeres piensan hacia atrás y reelaboran episódicamente: la mujer de ahora cree que le habría gustado algo con el yo de entonces",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Pieza sobre diferencias cognitivas masculino/femenino en el procesamiento del enamoramiento. Capturada en el body de colusion-heroe-ninfa. Conecta con golem-de-cobre (memoria como reconstrucción/confabulación) — el sub-agente debe poner cross-link.",
+      "quote_evidence": "Las mujeres piensan hacia atrás y reelaboran episódicamente: la mujer de ahora cree que le habría gustado algo con el yo de entonces,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "Esto roza la confabulación: reconstruyen la memoria adaptándola al yo presente",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Mecanismo cognitivo aplicado al procesamiento femenino del enamoramiento. Pieza para colusion-heroe-ninfa con cross-link a golem-de-cobre.",
+      "quote_evidence": "Esto roza la confabulación: reconstruyen la memoria adaptándola al yo presente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "El rencor es una idealización negativa: montarse una película donde alguien disfrutó haciéndote daño y sacó ventaja",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Definición operativa del rencor como idealización negativa — mecanismo simétrico inverso a la idealización inicial del héroe. Pieza nuclear del bloque sobre el peligro del rencor en la receta de sanación. Captura en colusion-heroe-ninfa.",
+      "quote_evidence": "El rencor es una idealización negativa: montarse una película donde alguien disfrutó haciéndote daño y sacó ventaja,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "El espectro liberal del diagrama de Proxy normalmente no tiene rencor, pero cuando lo tiene es muy patológico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación puntual sobre tipos psicológicos del diagrama-de-proxy en relación con la propensión al rencor. Pieza menor que podría enriquecer diagrama-de-proxy si recurre con sistematización (mapeo cuadrante↔patología).",
+      "quote_evidence": "El espectro liberal del diagrama de Proxy normalmente no tiene rencor, pero cuando lo tiene es muy patológico,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'cuadrante del diagrama de Proxy ↔ patología característica' (también vista en otros vídeos: Dad/Mom Issues por cuadrante) es pista de tesis psicológico-política sistémica del canal. Vigilar.",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "La putificación como fase necesaria del duelo",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Categoría canal-específica de fase del duelo (verbalizar incluso de más mientras se reevalúa la culpa propia y ajena). Pieza nuclear del marco terapéutico, capturada en colusion-heroe-ninfa.",
+      "quote_evidence": "Las mujeres lo hacen casi automáticamente y se retroalimentan en grupo; los hombres necesitan hacerlo entre ellos o con una amiga,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "Red flags para identificar parejas problemáticas (mimética, negocia con condiciones a priori, prontos malos al inicio)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Las tres red flags articuladas se capturan en el body de colusion-heroe-ninfa como pieza diagnóstica preventiva del cuadro.",
+      "quote_evidence": "Si una mujer es mimética y parece hacer solo las cosas que a ti te gustan, red flag,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "Anuncia que quedan temas pendientes sobre la psicología de la IA y cosas de Twitter para toda la semana",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de programación. El título del vídeo prometía contenido sobre ética de la IA pero el bloque sustantivo del directo fue otro tema (héroe-ninfa); el contenido IA queda diferido. Metadata.",
+      "quote_evidence": "Anuncia que quedan temas pendientes sobre la psicología de la IA y cosas de Twitter para toda la semana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "La sustitución de la persona por IA está más cerca de lo que pensamos porque nos hemos vuelto gente que no sabe tener vínculos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis embrionaria sobre IA-como-sustituto-vincular conectada con la incapacidad de vinculación que el bloque héroe-ninfa documenta. Pieza puntual de cierre del directo, sin desarrollo aquí. Conecta con golem-de-cobre (caso 'Her' como soledad preexistente que la IA ergonómicamente cubre).",
+      "quote_evidence": "La sustitución de la persona por IA está más cerca de lo que pensamos porque nos hemos vuelto gente que no sabe tener vínculos,",
+      "review_priority": "medium",
+      "review_priority_reason": "La tesis 'incapacidad de vinculación → IA como sustituto' es articulación importante que conecta el cuadro héroe-ninfa con el marco IA/cognición de golem-de-cobre. Vigilar próximos vídeos sobre ética IA donde se anuncia desarrollo.",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "A partir de los 30 las ninfas descubren que todos sus vínculos han sido o de Wendy o de Campanilla, nunca reales",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Pieza diagnóstica sobre la trayectoria vital de la ninfa (descubrimiento tardío de la incapacidad vincular). Captura en colusion-heroe-ninfa como sustrato del fenómeno 'cambio de entorno y amigos nuevos' que abre el cuadro.",
+      "quote_evidence": "A partir de los 30 las ninfas descubren que todos sus vínculos han sido o de Wendy o de Campanilla, nunca reales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "Crear espacios de intimidad usando el atractivo sexual no es inmoral en sí, lo inmoral es no hacerse responsable de lo que esa búsqueda causa en el otro",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Tesis ética/psicológica sobre la responsabilidad en la generación de intimidad. Pieza nuclear del marco. Captura en colusion-heroe-ninfa.",
+      "quote_evidence": "Crear espacios de intimidad usando el atractivo sexual no es inmoral en sí, lo inmoral es no hacerse responsable de lo que esa búsqueda causa en el otro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "colusion-heroe-ninfa"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 17,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[El héroe joven conoce a la ninfa: anatomía de la trampa + Receta para sanar la desidealización (3 pasos)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

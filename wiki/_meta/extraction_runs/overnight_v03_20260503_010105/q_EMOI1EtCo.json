@@ -1,0 +1,331 @@
+{
+  "video_id": "q_EMOI1EtCo",
+  "video_title": "La Batalla Espiritual",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "El mal está en todos nosotros; si no fuera así no podríamos reconocerlo",
+      "canonical_guess": "shadow-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El mal está en todos nosotros; si no fuera así no podríamos reconocerlo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La verdadera naturaleza de la relación con el mal se revela cuando no hay consecuencias: en qué se convierte una persona cuando sabe que nunca pagará,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La tentación de participar incluye presión social, amenazas a la carrera, y la normalización progresiva dentro de ciertos entornos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Material genuinamente nuevo que extiende el arquetipo de la sombra al plano colectivo/cultural y resuelve parcialmente la laguna explícita de shadow-archetype ('Sombra colectiva (de grupos sociales, naciones, generaciones) — el canal toca polarización en otros vídeos pero no la conecta explícitamente al arquetipo'). El video aporta: (a) tesis del mal como continuo en todos los humanos como base del reconocimiento; (b) criterio operativo de 'no consecuencias' como revelador de la sombra individual contenida; (c) precisión metodológica 'comprender no es justificar'; (d) mecanismo socio-cultural de la tentación (presión social, amenazas profesionales, normalización progresiva); (e) caso Gisèle Pelicot como analogía operativa del mal oculto en proximidad. Capturado íntegramente como nueva sección 'La sombra colectiva' en pending_update.",
+      "quote_evidence": "El mal está en todos nosotros; si no fuera así no podríamos reconocerlo,"
+    },
+    {
+      "surface_form": "La educación debería definirse como una experiencia continua de establecer relaciones mentales mediante esfuerzo",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "substantive",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La educación debería definirse como una experiencia continua de establecer relaciones mentales mediante esfuerzo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El razonamiento por el que la mente elabora una sintaxis es literalmente el mismo por el que comprende un teorema: razonamiento abstracto,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Extensión nueva del marco cognitivo del canal al plano educativo: educación como práctica de UAL dirigido (establecer relaciones mentales mediante esfuerzo), identidad estructural sintaxis=teorema en la componente Q sub-f, crítica a los compartimentos estancos del currículo. El caso paradigmático del latín como vía de acceso a la sintaxis del castellano explicita la transferencia formal cross-dominio. La página teoria-del-simbolo-en-proxy articula la matriz N y el UAL pero no su aplicación pedagógica — refinamiento operativo del marco.",
+      "quote_evidence": "La educación debería definirse como una experiencia continua de establecer relaciones mentales mediante esfuerzo,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "shadow-archetype",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta tesis tiene implicación clínica directa: lo \"reprimido\" no es solo lo bloqueado por censura moral; es también lo que se construye como narración alternativa cuando la verdad se vuelve insoportable.",
+      "section_target": null,
+      "content_proposed": "\n\n## La sombra colectiva: continuo del bien y el mal, criterio de las consecuencias\n\nEn el directo *La Batalla Espiritual* (21 oct 2024), tras analizar varios casos de abuso institucionalizado en la industria del entretenimiento (Diddy, Epstein, Mottola), el canal articula la tesis nuclear sobre la naturaleza del mal que extiende la sombra del plano individual al plano colectivo y cultural — la dimensión que esta página enunciaba como laguna pendiente.\n\n### El mal como continuo en todos\n\n> \"El mal está en todos nosotros; si no fuera así no podríamos reconocerlo\"\n→ [La Batalla Espiritual (1:50:16)](https://youtu.be/q_EMOI1EtCo?t=6616)\n\nLa afirmación opera como axioma del marco: el reconocimiento del mal en otros presupone su presencia en el reconocedor — variante moral del principio que la psicología analítica articula como integración de la sombra. La continuidad bien/mal no es relativismo (no significa que todos sean igualmente malos) sino la negación operativa del límite ontológico entre 'gente buena' y 'gente mala' que el canal critica en otros lugares como base del [[sofisma-estetico|sofisma estético]] y del marco [[woke-narrativa-postmoderna-moral|woke]] (en este último, el mal se exterioriza por completo: 'no existe gente mala entre los propios, solo en los otros').\n\n### El criterio de las consecuencias\n\n> \"La verdadera naturaleza de la relación con el mal se revela cuando no hay consecuencias: en qué se convierte una persona cuando sabe que nunca pagará\"\n→ [La Batalla Espiritual (1:50:16)](https://youtu.be/q_EMOI1EtCo?t=6616)\n\nEl criterio operativo es decisivo: la sombra individual queda contenida por el sistema de consecuencias (legales, sociales, reputacionales) en que opera la persona. Cuando ese sistema desaparece — por poder excepcional, impunidad institucional, blindaje gremial — la sombra se actualiza en conducta. Las redes de poder donde el sistema de consecuencias se ha desactivado producen actualizaciones masivas de la sombra colectiva, no porque sus miembros sean ontológicamente peores sino porque el contenedor del que toda psique depende ha caído.\n\n### Comprender no es justificar\n\n> \"Comprender al criminal no es justificarlo; la comprensión es la base de la criminología y la prevención\"\n→ [La Batalla Espiritual (1:50:16)](https://youtu.be/q_EMOI1EtCo?t=6616)\n\nLa precisión metodológica cierra el flanco moral del marco: el análisis arquetípico-criminológico de la sombra (incluyendo los casos límite donde se actualiza sin freno) no es complicidad ni relativismo. Es la operación inversa de la mentalidad woke según la lectura del canal — que sí lee toda comprensión como justificación y, por tanto, blinda la sombra contra cualquier examen.\n\n### La tentación como mecanismo socio-cultural\n\n> \"La tentación de participar incluye presión social, amenazas a la carrera, y la normalización progresiva dentro de ciertos entornos\"\n→ [La Batalla Espiritual (1:50:16)](https://youtu.be/q_EMOI1EtCo?t=6616)\n\nEl mecanismo de la tentación queda redescrito como vector socio-cultural: presión del grupo, amenaza profesional, normalización gradual dentro de un círculo cerrado. La sombra colectiva opera vía esos vectores, no vía conversión individual al mal — lo que explica que una persona pueda vivir décadas dentro de un entorno donde estas dinámicas operan sin reconocerlas.\n\n### Analogía del mal oculto: el caso Pelicot\n\nEl caso Gisèle Pelicot — donde el marido drogó a su mujer durante casi 20 años e invitó a hombres por internet a violarla mientras estaba inconsciente — es citado como analogía extrema del mal oculto en proximidad:\n\n> \"Su marido la drogó durante casi 20 años e invitó a hombres por internet a violarla mientras estaba inconsciente\"\n→ [La Batalla Espiritual (1:46:14)](https://youtu.be/q_EMOI1EtCo?t=6374)\n\n> \"puedes vivir décadas junto a un monstruo sin saberlo, y por tanto no se puede asumir culpabilidad solo por proximidad\"\n→ [La Batalla Espiritual (1:46:14)](https://youtu.be/q_EMOI1EtCo?t=6374)\n\nLa pieza es operativa para el marco: la integración junguiana clásica de la sombra (reconocer la propia como prerrequisito de la individuación) opera en plano individual; este plano colectivo añade el componente institucional — qué entornos producen actualización masiva y cuáles la inhiben — y el componente epistémico — la sombra del otro puede ser estructuralmente invisible para quien comparte espacio con ella.\n",
+      "wikilinks_introduced": [
+        "sofisma-estetico",
+        "woke-narrativa-postmoderna-moral"
+      ],
+      "citations_added": [
+        {
+          "video_id": "q_EMOI1EtCo",
+          "timestamp_seconds": 6616,
+          "cite_markdown": "[La Batalla Espiritual (1:50:16)](https://youtu.be/q_EMOI1EtCo?t=6616)"
+        },
+        {
+          "video_id": "q_EMOI1EtCo",
+          "timestamp_seconds": 6374,
+          "cite_markdown": "[La Batalla Espiritual (1:46:14)](https://youtu.be/q_EMOI1EtCo?t=6374)"
+        }
+      ],
+      "rationale": "Resuelve parcialmente la laguna explícita de la página ('Sombra colectiva — el canal toca polarización en otros vídeos pero no la conecta explícitamente al arquetipo'). Material nuevo: (a) tesis del mal como continuo en todos como base del reconocimiento, (b) criterio operativo de 'no consecuencias' como revelador, (c) precisión 'comprender no es justificar' contra la mentalidad woke, (d) mecanismo socio-cultural de la tentación, (e) Pelicot como analogía del mal oculto. Wikilinks bidireccionales con sofisma-estetico y woke-narrativa-postmoderna-moral (creados en este batch) consolidan la red conceptual del canal sobre el plano moral-cultural.",
+      "editorial_intent": "extend",
+      "supersedes_laguna": "**Sombra colectiva** (de grupos sociales, naciones, generaciones) — el canal toca polarización en otros vídeos pero no la conecta explícitamente al arquetipo"
+    },
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la sesión declara explícitamente esa relación como problema abierto que el canal está investigando en directo — el matiz importa porque sitúa el marco como programa de investigación vivo, no como sistema cerrado.",
+      "section_target": null,
+      "content_proposed": "\n\n## La educación como práctica de establecer relaciones mentales\n\nEn el directo *La Batalla Espiritual* (21 oct 2024), al hilo de un debate sobre si las faltas de ortografía deben restar puntos en exámenes de matemáticas, el canal extiende el marco cognitivo de la matriz noética al plano educativo articulando una definición operativa propia:\n\n> \"La educación debería definirse como una experiencia continua de establecer relaciones mentales mediante esfuerzo\"\n→ [La Batalla Espiritual (2:05:25)](https://youtu.be/q_EMOI1EtCo?t=7525)\n\nLa definición es coherente con la mecánica de la matriz N: educar es producir asociaciones representacionales nuevas (UAL aplicado al plano pedagógico), no transferir contenidos de un almacén al alumno. El esfuerzo es el componente neuroeconómico que la sesión sobre el cuervo introdujo como núcleo del recrear: la educación es recreación dirigida del mundo en la matriz noética del alumno.\n\n### Identidad estructural de razonamientos: sintaxis y teorema operan en la misma Q sub-f\n\nLa pieza decisiva del argumento es la identidad estructural de razonamientos que el alumnado y la pedagogía suelen tratar como dominios separados:\n\n> \"El razonamiento por el que la mente elabora una sintaxis es literalmente el mismo por el que comprende un teorema: razonamiento abstracto\"\n→ [La Batalla Espiritual (2:05:25)](https://youtu.be/q_EMOI1EtCo?t=7525)\n\nLa identificación es operativa para el marco: la sintaxis y el teorema son ambos productos de la **componente Q sub-f** (formal/gramatical) operando sobre material distinto. Que el alumno bilingüe sepa conjugar verbos en inglés con '-ing' pero no sepa qué es un verbo en castellano ilustra el problema — la operación formal está disponible sin etiqueta semántica explícita; la pedagogía falla al no nombrar la operación común.\n\n> \"El ejemplo del niño bilingüe que sabe conjugar verbos en inglés con \\\"-ing\\\" pero no sabe qué es un verbo en castellano ilustra el absurdo de separar dominios relacionados\"\n→ [La Batalla Espiritual (1:56:52)](https://youtu.be/q_EMOI1EtCo?t=7012)\n\n### Conexiones interdisciplinares y la crítica a los compartimentos estancos\n\nEl corolario pedagógico es la crítica a la organización del currículo en compartimentos estancos: si la operación formal es compartida, separar los dominios en evaluación impide ver la transferencia y produce alumnos que dominan operaciones en un dominio sin reconocerlas en otro.\n\n> \"Si la lengua es más fundamental que otras asignaturas, o se enseña mal o los dominios están mal planteados como compartimentos estancos\"\n→ [La Batalla Espiritual (1:56:52)](https://youtu.be/q_EMOI1EtCo?t=7012)\n\n> \"El latín sirvió para comprender la sintaxis del castellano tras 6 años fallidos, demostrando que las conexiones interdisciplinares son clave\"\n→ [La Batalla Espiritual (2:05:25)](https://youtu.be/q_EMOI1EtCo?t=7525)\n\nEl caso del latín como vía de acceso a la sintaxis del castellano es paradigmático del marco: la operación formal subyacente (declinación, función sintáctica, gobierno gramatical) se hace explícita en latín porque el sistema casual la marca morfológicamente, y una vez explicitada es transferible al castellano donde operaba implícita. La pedagogía exitosa es la que produce esa explicitación cruzada, no la que multiplica unidades didácticas estancas.\n\nLa pieza completa la articulación del marco hacia el plano educativo: la matriz N se cultiva mediante prácticas que producen UAL dirigido (relaciones nuevas entre representaciones), y la pedagogía es la disciplina aplicada de esas prácticas. La educación se vuelve, en esta lectura, la operación inversa del [[sofisma-estetico|sofisma estético]] — donde el sofisma sustituye la conducta por el enunciado, la educación produce conducta cognitiva real (conexiones efectivas) por esfuerzo sostenido.\n",
+      "wikilinks_introduced": [
+        "sofisma-estetico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "q_EMOI1EtCo",
+          "timestamp_seconds": 7525,
+          "cite_markdown": "[La Batalla Espiritual (2:05:25)](https://youtu.be/q_EMOI1EtCo?t=7525)"
+        },
+        {
+          "video_id": "q_EMOI1EtCo",
+          "timestamp_seconds": 7012,
+          "cite_markdown": "[La Batalla Espiritual (1:56:52)](https://youtu.be/q_EMOI1EtCo?t=7012)"
+        }
+      ],
+      "rationale": "Material nuevo que extiende el marco al plano pedagógico: definición operativa de educación como UAL dirigido; identidad estructural sintaxis=teorema vía Q sub-f; crítica a compartimentos estancos; caso del latín como explicitación cruzada. La página articula la matriz N y el UAL pero no su aplicación al aprendizaje. Wikilink a sofisma-estetico (creado en este batch) cierra el contraste: educación produce conducta cognitiva real, sofisma la sustituye por el enunciado.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El gato sufrió pancreatitis y peritonitis, ha perdido 2 kg",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Estado de salud de la mascota del speaker. Anécdota personal sin valor enciclopédico ni función ilustrativa de un concepto.",
+      "quote_evidence": "El gato sufrió pancreatitis y peritonitis, ha perdido 2 kg (equivalente a 10 kg en humano) y se sospecha una enfermedad intestinal crónica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Las donaciones espontáneas de la comunidad han cubierto medicinas y consultas veterinarias",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reconocimiento a la comunidad / metadata del canal.",
+      "quote_evidence": "Las donaciones espontáneas de la comunidad han cubierto medicinas y consultas veterinarias,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Freya tenía un acosador hardcore con probable narcisismo patológico y proyección constante",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso individual de acoso a creadora de contenido. La mención de 'narcisismo patológico y proyección constante' invoca conceptos psicológicos pero como diagnóstico ad hoc, sin desarrollo de marco. No constituye tesis ni concept independiente.",
+      "quote_evidence": "Freya tenía un acosador hardcore con probable narcisismo patológico y proyección constante,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Una exnovia (Cassie Ventura) le denunció en 2023 por maltrato hardcore",
+      "reason_code": "political_news",
+      "reason_detail": "Reportaje sobre actualidad criminal coyuntural (Caso P. Diddy). Per scope §3.1 test 5: comentario sobre actualidad sin elevación a estructura. El bloque entero sobre Diddy/Cassie/acusaciones formales (~10 min) opera como reportaje del caso, no como análisis arquetípico-cultural sostenido.",
+      "quote_evidence": "Una exnovia (Cassie Ventura) le denunció en 2023 por maltrato hardcore, existe vídeo de cámaras de seguridad pegándola en un hotel,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Diddy fundó el sello Bad Boy Records y prácticamente todo lo que tocaba se convertía en oro como productor",
+      "reason_code": "political_news",
+      "reason_detail": "Historia de la industria musical / especulación criminal sobre asesinatos de Tupac y Notorious. Reportaje coyuntural sin marco aplicado.",
+      "quote_evidence": "Diddy fundó el sello Bad Boy Records y prácticamente todo lo que tocaba se convertía en oro como productor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "El mecanismo de control era similar al de Epstein: drogar, grabar y luego chantajear con los vídeos",
+      "reason_code": "passing_mention",
+      "reason_detail": "El speaker articula un PATRÓN estructural compartido entre Diddy, Epstein y Mottola (drogar/grabar/chantajear como mecanismo de control institucional). Per §3.1 test 1 (mecanismo socio-cultural aplicado), técnicamente IN. Pero el desarrollo es fragmentario dentro del bloque coyuntural sobre el caso Diddy, no sostenido como tesis del canal sobre 'estructura del abuso institucionalizado en industrias de poder'. Captura indirecta en shadow-archetype como ilustración del 'criterio de no consecuencias'. Si recurre con desarrollo monográfico podría merecer concept propio.",
+      "quote_evidence": "El mecanismo de control era similar al de Epstein: drogar, grabar y luego chantajear con los vídeos,",
+      "review_priority": "medium",
+      "review_priority_reason": "El patrón estructural drogar/grabar/chantajear como mecanismo de control institucional cross-industria (Diddy, Epstein, Mottola, posiblemente más casos) es candidato a concept page si recurre articulación monográfica. Vigilar.",
+      "enriches_concept": "shadow-archetype"
+    },
+    {
+      "surface_form": "Las White Parties eran eventos de alto perfil donde asistían Leonardo DiCaprio, Ashton Kutcher, Trump, Michael Jackson",
+      "reason_code": "political_news",
+      "reason_detail": "Anécdota de la red social de Diddy. Reportaje coyuntural.",
+      "quote_evidence": "Las White Parties eran eventos de alto perfil donde asistían Leonardo DiCaprio, Ashton Kutcher, Trump, Michael Jackson — no eras nadie si no estabas invitado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Jay-Z era colega de Diddy desde los 90, iban juntos a todas partes como sus segundos",
+      "reason_code": "political_news",
+      "reason_detail": "Especulación sobre complicidad de Beyoncé/Jay-Z. Material coyuntural.",
+      "quote_evidence": "Jay-Z era colega de Diddy desde los 90, iban juntos a todas partes como sus \"segundos\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Hay vídeos de artistas como Adele agradeciéndole a Beyoncé premios que ella misma había ganado",
+      "reason_code": "political_news",
+      "reason_detail": "Interpretación especulativa de gestos en galas. Material coyuntural.",
+      "quote_evidence": "Hay vídeos de artistas como Adele agradeciéndole a Beyoncé premios que ella misma había ganado, con expresiones que parecen miedo más que nervios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Aaliyah fue la cantante top que abrió camino al R&B antes de Beyoncé; R. Kelly se casó con ella cuando tenía 15 años",
+      "reason_code": "political_news",
+      "reason_detail": "Caso individual de la industria musical. Reportaje coyuntural.",
+      "quote_evidence": "Aaliyah fue la cantante top que abrió camino al R&B antes de Beyoncé; R. Kelly se casó con ella cuando tenía 15 años falsificando documentos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Britney Spears como posible víctima de Diddy",
+      "reason_code": "political_news",
+      "reason_detail": "Caso individual. Reportaje coyuntural.",
+      "quote_evidence": "Las primeras veces que pillaron a Britney en escándalos salía de fiestas de Diddy; ella siempre dijo que le pusieron algo en la bebida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Jackson estaba enfrentado a Sony Music y su jefe Tommy Mottola",
+      "reason_code": "political_news",
+      "reason_detail": "Especulación criminal sobre la muerte de Michael Jackson y Sony/Mottola. Reportaje coyuntural. La reinterpretación de Jackson como protector vs abusador es una inversión del relato pero no constituye tesis sostenida del canal en este vídeo.",
+      "quote_evidence": "Jackson estaba enfrentado a Sony Music y su jefe Tommy Mottola; se acusa a Mottola de los mismos abusos que a Diddy y de haber sido su mentor en métodos mafiosos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Un testimonio describe que en el chemsex se usan drogas tan fuertes que las víctimas puntúan 9 en la escala de Glasgow",
+      "reason_code": "passing_mention",
+      "reason_detail": "Descripción del fenómeno chemsex como paralelo del mecanismo Diddy. Pieza descriptiva sin marco propio del canal articulado. Si recurre con análisis arquetípico/cultural sostenido podría merecer concept.",
+      "quote_evidence": "Un testimonio describe que en el chemsex se usan drogas tan fuertes que las víctimas puntúan 9 en la escala de Glasgow (cerca del coma),",
+      "review_priority": "medium",
+      "review_priority_reason": "El chemsex como fenómeno cultural-clínico contemporáneo podría merecer concept page si recurre con marco aplicado del canal (lectura arquetípica de la disolución del cuerpo bajo anestesia, etc.).",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Física o Química como normalización cultural del abuso",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica puntual a la serie española como caso de normalización mediática. Pieza ilustrativa que podría enriquecer woke-narrativa-postmoderna-moral o consumismo-critica si recurre con análisis arquetípico/de obra.",
+      "quote_evidence": "Se señala que fue la primera serie española para público joven donde un adulto se enrollaba con un menor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Kim Porter: la primera mujer de Diddy",
+      "reason_code": "political_news",
+      "reason_detail": "Caso individual. Reportaje coyuntural sobre el bloque Diddy.",
+      "quote_evidence": "Murió en 2018 supuestamente de neumonía; su padre siempre ha dicho que Diddy se la cargó directa o indirectamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Justin Bieber como víctima del sistema",
+      "reason_code": "political_news",
+      "reason_detail": "Reportaje sobre la trayectoria de Bieber dentro del sistema Diddy/Usher. Coyuntural. La interpretación del videoclip 'Yummy' como denuncia es lectura puntual sin desarrollo arquetípico sostenido.",
+      "quote_evidence": "Usher, que vivió con Diddy desde los 13 años bajo custodia legal, produjo el primer single de Bieber (\"Baby\"),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Jaden Smith habría confirmado que su padre lo llevó a fiestas de Diddy",
+      "reason_code": "political_news",
+      "reason_detail": "Caso individual. Coyuntural. La advertencia técnica sobre 'confabulación episódica en testimonios bajo psicotrópicos' es pieza interesante de psicología clínica que conecta con golem-de-cobre (memoria como reconstrucción) pero queda como acotación sin desarrollo.",
+      "quote_evidence": "Jaden Smith habría confirmado que su padre lo llevó a fiestas de Diddy y que después de algunas no podía moverse,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Su marido la drogó durante casi 20 años e invitó a hombres por internet a violarla mientras estaba inconsciente",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "El caso Gisèle Pelicot se captura íntegramente en el pending_update a shadow-archetype como analogía operativa del mal oculto en proximidad. No constituye entity_work del corpus (es caso real coyuntural, no obra cultural), no merece página propia.",
+      "quote_evidence": "Su marido la drogó durante casi 20 años e invitó a hombres por internet a violarla mientras estaba inconsciente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "shadow-archetype"
+    },
+    {
+      "surface_form": "Se argumenta que es ilógico evaluar competencia lingüística en asignaturas de otros dominios, especialmente en primaria",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "El debate ortografía/matemáticas y el caso del niño bilingüe se capturan en el pending_update a teoria-del-simbolo-en-proxy como ilustración de la identidad estructural sintaxis=teorema vía Q sub-f.",
+      "quote_evidence": "Se argumenta que es ilógico evaluar competencia lingüística en asignaturas de otros dominios, especialmente en primaria donde el alumno está aprendiendo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Se critica que los únicos que proponen métodos alternativos terminan siendo pedagogías cuestionables, y que la memorización sigue siendo necesaria para ciertas bases",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario puntual sobre el panorama pedagógico contemporáneo. Pieza menor del bloque educativo sin desarrollo de marco propio sobre métodos pedagógicos.",
+      "quote_evidence": "Se critica que los únicos que proponen métodos alternativos terminan siendo pedagogías cuestionables, y que la memorización sigue siendo necesaria para ciertas bases,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Se rumorea que el FBI habría mostrado a Ben Affleck vídeos de J.Lo durante su época con Diddy",
+      "reason_code": "political_news",
+      "reason_detail": "Especulación de actualidad sobre vidas privadas de famosos. Coyuntural.",
+      "quote_evidence": "Se rumorea que el FBI habría mostrado a Ben Affleck vídeos de J.Lo durante su época con Diddy, lo que podría estar relacionado con su divorcio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "La rapera Jaguar Wright acusó directamente a Beyoncé y Jay-Z",
+      "reason_code": "political_news",
+      "reason_detail": "Acusación coyuntural en programa mediático. Reportaje.",
+      "quote_evidence": "La rapera Jaguar Wright acusó directamente a Beyoncé y Jay-Z de ser señuelos y encargarse de la captación de menores; ellos pidieron retirar el fragmento del programa pero no demandaron a la rapera,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 22,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

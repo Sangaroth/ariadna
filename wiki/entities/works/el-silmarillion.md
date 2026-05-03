@@ -229,5 +229,7 @@ El Silmarillion funciona en el canal como pieza central del análisis tolkienian
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [50:23](https://youtu.be/gDRkrg8dVCo?t=3023)
+- **Irrespirables redes sociales.** — chunks: [22:03](https://youtu.be/aaLhUV1rdE4?t=1323)
 

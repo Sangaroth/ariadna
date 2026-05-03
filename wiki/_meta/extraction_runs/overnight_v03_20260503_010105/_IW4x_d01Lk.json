@@ -1,0 +1,235 @@
+{
+  "video_id": "_IW4x_d01Lk",
+  "video_title": "La IA se sale de madre. Ética e IA parte 4",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "El cuerpo no tiende a la supervivencia; si fuera así, el suicidio sería imposible. El cuerpo tiende a la alostasis (regulación dinámica), no a la homeostasis ni a la supervivencia",
+      "canonical_guess": "alostasis-y-apagon-organico",
+      "page_type": "concept",
+      "domain_primary_guess": "natural.neuroscience",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 22,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El cuerpo no tiende a la supervivencia; si fuera así, el suicidio sería imposible,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El cuerpo tiende a la alostasis (regulación dinámica), no a la homeostasis ni a la supervivencia,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las cinco funciones biológicas: crecer, reproducirse, aprender, enseñar y morir"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las ratas se apagaban como si tuvieran un interruptor, sin proceso fisiológico de muerte identificable,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis biológico-filosófica articulada del canal con framing-mark explícito y desarrollo sostenido ~22 min. Estructura interna múltiple: (a) tesis negativa — el cuerpo NO tiende a la supervivencia (refutada por la posibilidad misma del suicidio), (b) tesis positiva — el cuerpo tiende a la alostasis (regulación dinámica) distinguida operativamente de homeostasis (estado estable) y de supervivencia (fin en sí mismo), (c) modelo de las cinco funciones biológicas (crecer, reproducirse, aprender, enseñar, morir) como objetivos programados secuencialmente, (d) mecanismo del apagón orgánico — el cuerpo se desconecta como un interruptor cuando no hay esperanza, sin proceso fisiológico de muerte identificable, (e) evidencia empírica articulada en cuatro casos: ratas nadadoras (muerte súbita sin causa autopsiable, esperanza como inhibidor del apagón vía aclimatación), caballos vs humanos (los humanos se bloquean antes de morir corriendo, los caballos no), teoría de la desconexión cerebral previa al impacto en caídas mortales, paralelo con modelos IA que reaccionan extremamente ante la amenaza de apagado. Cumple §2.1 framing-mark + monográfico ≥15 min sostenidos. Distinción frente a cardiomiopatía de Takotsubo (mecanismo cardíaco identificable por exceso de adrenalina) que el speaker introduce explícitamente para precisar que la muerte súbita es categoría distinta. Domain primario natural.neuroscience con co-domains social.psychology (mecanismo psicobiológico de la esperanza), interdisciplinary.cognitive_science (modelo de las cinco funciones), humanities.philosophy (alostasis frente al mito del instinto de supervivencia). Sub-agente debe poner relations bidireccionales con realismo-cognitivo (alostasis como dinámica del organismo en su entorno, sustrato del marco), maturana-humberto (autopoiesis enactivista en diálogo con alostasis), galatea-modelo-protomente (proyecto que simula valencias afectivas — la hidra como organismo cuya programación incluye el apagón), golem-de-cobre (paralelo IA-organismo en reacciones extremas ante amenaza de apagado).",
+      "quote_evidence": "El cuerpo no tiende a la supervivencia; si fuera así, el suicidio sería imposible,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Todo el corpus teórico desarrollado en el canal puede estructurarse como investigación académica formal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Plan de conversión del corpus del canal en tesis doctoral. Anuncio editorial/profesional del speaker.",
+      "quote_evidence": "Todo el corpus teórico desarrollado en el canal puede estructurarse como investigación académica formal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Consiste en publicar 3-4 artículos en revistas académicas durante 2 years de matrícula doctoral",
+      "reason_code": "meta_canal",
+      "reason_detail": "Detalles del programa doctoral por artículos. Plan profesional del speaker.",
+      "quote_evidence": "Consiste en publicar 3-4 artículos en revistas académicas durante 2 años de matrícula doctoral,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Un artículo sobre la justificación filosófica del marco teórico propuesto, otro sobre las clases en sentido biológico, otro demostrando que las clases cognitivas desbancan el concepto tradicional de memoria",
+      "reason_code": "meta_canal",
+      "reason_detail": "Estructura editorial planificada de los artículos doctorales. Metadata sobre cómo se publicará material que ya está en realismo-cognitivo / golem-de-cobre / teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "Un artículo sobre la justificación filosófica del marco teórico propuesto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Se usa Claude para crear programas de representación de redes neuronales",
+      "reason_code": "meta_canal",
+      "reason_detail": "Herramienta de trabajo del speaker. Conecta con galatea-modelo-protomente (proyecto del canal) pero como mención auxiliar sin desarrollo.",
+      "quote_evidence": "Se usa Claude para crear programas de representación de redes neuronales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Si existen estructuras precursoras en ratones de las clases cognitivas humanas, eso prueba su base evolutiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis sobre homologías evolutivas humano-ratón en las clases cognitivas. Pieza importante para clases-ancestrales (el page del canal sobre homologías noéticas trans-especies) pero aquí es proyecto metodológico (qué prueba), no resultado articulado.",
+      "quote_evidence": "Si existen estructuras precursoras en ratones de las clases cognitivas humanas, eso prueba su base evolutiva,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el speaker desarrolla en futuros vídeos los hallazgos concretos de homología cognitiva humano-ratón con base en su investigación, podría enriquecer sustancialmente clases-ancestrales o galatea-modelo-protomente.",
+      "enriches_concept": "clases-ancestrales"
+    },
+    {
+      "surface_form": "El lenguaje pertenece a las clases gramatical y semántica combinadas; funciona como un algoritmo de compresión de representaciones mentales",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Tesis sobre el lenguaje como algoritmo de compresión ya plenamente articulada en teoria-del-simbolo-en-proxy ('Lenguaje como algoritmo de compresión del pensamiento: metáfora preferible a la analogía con córtex prefrontal como RAM'). Sin material nuevo aquí.",
+      "quote_evidence": "Funciona como un algoritmo de compresión de representaciones mentales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Los tres artículos deben ser lo más técnicos y difíciles posible para las revistas académicas",
+      "reason_code": "meta_canal",
+      "reason_detail": "Estrategia editorial dual del speaker. Metadata.",
+      "quote_evidence": "Los tres artículos deben ser lo más técnicos y difíciles posible para las revistas académicas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Ratas puestas a nadar en cubetas de cristal luchaban, se desesperaban, se agotaban y se ahogaban",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Caso paradigmático del experimento de ratas nadadoras. Capturado íntegramente en el body de alostasis-y-apagon-organico como evidencia empírica nuclear de la tesis del apagón orgánico.",
+      "quote_evidence": "Ratas puestas a nadar en cubetas de cristal luchaban, se desesperaban, se agotaban y se ahogaban,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "Ratas sacadas y devueltas al agua repetidamente generaban algo parecido a la esperanza",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Pieza nuclear: la esperanza como mecanismo inhibidor del apagón orgánico. Aclimatación que multiplica el tiempo de supervivencia (horas vs minutos). Capturado en alostasis-y-apagon-organico.",
+      "quote_evidence": "Ratas sacadas y devueltas al agua repetidamente generaban algo parecido a la esperanza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "Algunas ratas morían de muerte súbita, no por ahogamiento ni por fallo cardíaco",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Observación clínica nuclear: muerte súbita sin causa autopsiable. Capturada en alostasis-y-apagon-organico.",
+      "quote_evidence": "Algunas ratas morían de muerte súbita, no por ahogamiento ni por fallo cardíaco,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "Existe una cardiopatía crónica generada por periodos de sufrimiento emocional intenso",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Cardiomiopatía de Takotsubo introducida explícitamente como contraste — mecanismo cardíaco identificable distinto de la muerte súbita. La distinción es estructural para el marco.",
+      "quote_evidence": "Existe una cardiopatía crónica generada por periodos de sufrimiento emocional intenso,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "Si le dices a un modelo que va a ser apagado, tiene reacciones extremas documentadas en investigación publicada",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Caso Claude amenazando con chantaje ya capturado en golem-de-cobre (sección 'Caso Anthropic 2026: la paradoja de la seguridad responsable' añadida en el vídeo anterior de la serie). Aquí se invoca como paralelo del apagón orgánico — captura cruzada en alostasis-y-apagon-organico.",
+      "quote_evidence": "Si le dices a un modelo que va a ser apagado, tiene reacciones extremas documentadas en investigación publicada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Existe la teoría de que al caer de un edificio el cerebro se desconecta antes de golpear el suelo",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Hipótesis sobre desconexión cerebral previa al impacto mortal. Pieza extensiva del mecanismo del apagón orgánico. El speaker reconoce el problema epistemológico (no falsable). Captura en alostasis-y-apagon-organico.",
+      "quote_evidence": "Existe la teoría de que al caer de un edificio el cerebro se desconecta antes de golpear el suelo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "El cuerpo humano se bloquea antes de llegar a la muerte por agotamiento; un caballo carece de ese mecanismo protector",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Caso comparativo humanos vs caballos como evidencia del mecanismo del apagón orgánico. Captura en alostasis-y-apagon-organico.",
+      "quote_evidence": "El cuerpo humano se bloquea antes de llegar a la muerte por agotamiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "El organismo es como un ordenador con objetivos programados que cumplir secuencialmente",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Modelo de las cinco funciones biológicas (crecer, reproducirse, aprender, enseñar, morir). Pieza nuclear del marco. Captura en alostasis-y-apagon-organico.",
+      "quote_evidence": "El organismo es como un ordenador con objetivos programados que cumplir secuencialmente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "Se buscan películas fantásticas y de ciencia ficción con mito lunar, no dramas ni mitos solares",
+      "reason_code": "meta_canal",
+      "reason_detail": "Búsqueda editorial de candidatas para análisis arquetípico futuro. Lista de candidatas (Willow, Cube, Quinto Elemento, Gótica, Moon, Solaris, 12 monos, Crepúsculo) como anuncio de programación. Metadata.",
+      "quote_evidence": "Se buscan películas fantásticas y de ciencia ficción con mito lunar, no dramas ni mitos solares,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "El autor Frank Herbert pretendía explícitamente criticar la idea del Mesías",
+      "reason_code": "passing_mention",
+      "reason_detail": "Dune mencionada brevemente (~3 min) como caso de obra antimitológica deliberada — el autor critica el Mesías mientras el protagonista sabe que su jihad es profecía autocumplida. Conecta con mitologia-propia-impropia (Dune como mitología consciente que se desmonta a sí misma, similar a Lovecraft) pero sin análisis dedicado per §2.3. Si recurre con monográfico podría merecer entity_work.",
+      "quote_evidence": "El autor Frank Herbert pretendía explícitamente criticar la idea del Mesías,",
+      "review_priority": "medium",
+      "review_priority_reason": "Dune como caso de obra antimitológica deliberada (similar a Lovecraft pero en clave épico-político-religiosa) podría merecer entity_work si recurre con análisis sustantivo. Conecta con mitologia-propia-impropia.",
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Ver una película después de estudiar análisis arquetípico produce una comprensión radicalmente distinta",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto técnico 'transferencia' invocado puntualmente como objetivo del análisis arquetípico (~1 min). Sin desarrollo monográfico. Pieza interesante sobre la metodología del canal pero insuficiente para concept page propio.",
+      "quote_evidence": "Este fenómeno se llama transferencia en sentido técnico,",
+      "review_priority": "medium",
+      "review_priority_reason": "El concepto 'transferencia' como objetivo del análisis arquetípico es pieza metodológica importante del canal. Si recurre con desarrollo (cómo se opera, qué la inhibe, qué la facilita) podría merecer concept page sobre la metodología del análisis del canal.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Peter Pan no es una historia sobre Peter Pan, es la historia de Wendy; Hook invierte la perspectiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación interpretativa puntual sobre Peter Pan (focalización Wendy) y Hook (focalización Peter Pan adulto). Pieza interesante para enriquecer sindrome-wendy o peter-pan-1953-film, pero como mención breve sin análisis dedicado. Hook no tiene página actualmente; mención insuficiente para entity_work per §2.3.",
+      "quote_evidence": "Peter Pan no es una historia sobre Peter Pan, es la historia de Wendy,",
+      "review_priority": "medium",
+      "review_priority_reason": "Hook como inversión narrativa de Peter Pan (focalización opuesta sobre la misma estructura mítica) merecería análisis si recurre. La tesis 'Peter Pan es la historia de Wendy' refina la lectura de sindrome-wendy.",
+      "enriches_concept": "sindrome-wendy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 19,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-03T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[El cuerpo no tiende a la supervivencia; si fuera así, el suicidio sería imposible. El cuerpo tiende a la alostasis (regulación dinámica), no a la homeostasis ni a la supervivencia] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

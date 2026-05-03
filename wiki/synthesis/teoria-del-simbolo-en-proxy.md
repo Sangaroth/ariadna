@@ -244,6 +244,64 @@ Finalmente el canal añade un nivel cognitivo superior: la **metarrepresentació
 La estructura completa enlaza con [[pensamiento-poetico]] (modo de operación que privilegia las componentes imaginaria y afectiva sobre la formal) y con [[golem-de-cobre]] (donde la tríada original queda ahora más finamente articulada).
 
 
+
+## La inteligencia como recreación, no como representación: el problema del cuervo
+
+En la *Investigación en directo: Resolviendo (o no) el problema de la integración de la inteligencia* (10 sept 2024) Proxy trabaja en sesión abierta el sustrato del marco que esta página articula. La sesión introduce explícitamente la **notación Q-sub** que el canal usa internamente para los tres componentes de toda representación mental — Q sub-f (formal/gramatical), Q sub-i (imaginaria), Q sub-a (afectiva) — y aporta el caso operativo paradigmático que separa Q sub-f de la representación simbólica.
+
+### El cuervo y la Q sub-f sin representación simbólica
+
+Un cuervo común resuelve un problema de cubos anidados por tamaño (estructuralmente equivalente a las Torres de Hanoi: ordenar elementos encajados con el menor número de movimientos) a cambio de una recompensa. Lo asombroso no es la ordenación misma — un algoritmo lo hace trivialmente — sino que el cuervo **detecta cuándo la secuencia es incorrecta y deshace pasos para corregirla** sin proceder por ensayo y error. La representación que sostiene esa corrección dirigida no es procedural (poner y sacar cubos), no es episódica (comprender el tamaño), sino una tercera cosa: **comprender el orden** como relación formal abstracta.
+
+> "El cuervo tiene un heurístico intuitivo que le indica que si el último cubo no cabe, debe rehacer parte del proceso"
+→ [Investigación en directo (30:16)](https://youtu.be/DQ_EAobZykw?t=1816)
+
+> "Lo que hace no depende de la forma, ni de la imagen, ni del afecto: es una componente gramatical/formal pura"
+→ [Investigación en directo (40:22)](https://youtu.be/DQ_EAobZykw?t=2422)
+
+El cuervo demuestra Q sub-f operando sin representación simbólica: la operación es independiente del color, de la imagen y del afecto. Resuelve por tamaño aunque todos los cubos sean del mismo color. La distinción que el canal articula es decisiva — **la representación abstracta** (componente formal pura) **no equivale a la representación simbólica**, y esta última es la que asigna significado semántico arbitrario a un objeto (el corazón como amor, la señal de prohibido). Sin representación simbólica no hay campo semántico ni lingüística. El cuervo tiene Q sub-f sin semántica.
+
+> "El cuervo tiene una componente Q sub-f pura funcional, pero carece de representación simbólica"
+→ [Investigación en directo (48:11)](https://youtu.be/DQ_EAobZykw?t=2891)
+
+La pieza complementaria: el cuervo tiene también **concepto de cero y de conjunto vacío** — distingue cuatro puntos como más que tres y menos que cinco, opera con la ausencia como si fuera un elemento contable. La capacidad cuantitativa formal está ahí; la asignación semántica arbitraria, no.
+
+### Mínimo de tres elementos para el orden
+
+La sesión deriva de aquí un principio operativo: **para pensar en orden cognitivamente se necesitan mínimo tres elementos** — el objeto, el objeto de referencia y el contexto que determina el orden. La mente nunca representa un objeto aislado; siempre hay forma sobre fondo. El cuervo mantiene en cuenta tres elementos simultáneamente (cubo actual, mayor/menor de la secuencia, el siguiente) — replicación operativa del mínimo cognitivo del orden.
+
+> "Para pensar en orden cognitivamente se necesitan mínimo tres elementos: el objeto, el objeto de referencia y el contexto que determina el orden"
+→ [Investigación en directo (33:17)](https://youtu.be/DQ_EAobZykw?t=1997)
+
+> "En la mente siempre hay una forma sobre un fondo — la representación mental nunca es de un objeto aislado"
+→ [Investigación en directo (33:17)](https://youtu.be/DQ_EAobZykw?t=1997)
+
+### Q sub-f sin metarrepresentación: la paradoja de la inteligencia
+
+La consecuencia teórica que el speaker extrae es contraintuitiva: **la inteligencia humana se basa en metarrepresentaciones, pero la del cuervo no las necesita**. Q sub-f y la inteligencia están menos relacionadas de lo que parece — la capacidad de resolver problemas formales no define la inteligencia. Un animal puede operar formalmente sin ser inteligente en el sentido humano. La pregunta abierta del marco queda formulada explícitamente: si Q sub-f en humanos se usa metarrepresentativamente pero en cuervos no, ¿qué significa **tener conciencia de Q sub-f**? Ser más consciente correlaciona con ser más inteligente, pero Q sub-f no requiere metarrepresentación.
+
+> "La inteligencia humana se basa en metarrepresentaciones, pero la del cuervo no las necesita"
+→ [Investigación en directo (1:38:12)](https://youtu.be/DQ_EAobZykw?t=5892)
+
+> "Un animal puede resolver problemas formales sin ser inteligente en el sentido humano del término"
+→ [Investigación en directo (1:38:12)](https://youtu.be/DQ_EAobZykw?t=5892)
+
+En el cuervo, además, memoria episódica y procedimental están prácticamente fusionadas — no es que tenga las tres dimensiones representacionales separadas como el humano, sino que Q sub-f opera como módulo independiente sobre un sustrato representacional menos diferenciado.
+
+### Definición operativa de inteligencia: representar vs recrear
+
+La sesión cierra con una refinación de la definición de inteligencia que la página venía articulando: representar es el hecho neto, pero **recrear** introduce la componente temporal y neuroeconómica. Resolver un problema requiere operar con una concatenación de representaciones, no solo representar. La inteligencia es la capacidad de **recrear el mundo con fiabilidad y eficacia** — un nivel de complejidad operatoria superior a la mera representación.
+
+> "Recrear es un nivel de complejidad operatoria superior a la mera representación"
+→ [Investigación en directo (1:57:38)](https://youtu.be/DQ_EAobZykw?t=7058)
+
+> "Resolver un problema requiere operar con una concatenación de representaciones, no solo representar"
+→ [Investigación en directo (1:57:38)](https://youtu.be/DQ_EAobZykw?t=7058)
+
+La pieza articula el problema abierto que el monográfico sobre el símbolo (Parte 2) deja implícito y que la página enuncia en lagunas como 'articulación con el self / individuación': la relación entre las memorias (procedimental, episódica, semántica) y las componentes representacionales (formal, imaginaria, afectiva) que el marco postula. La sesión declara explícitamente esa relación como problema abierto que el canal está investigando en directo — el matiz importa porque sitúa el marco como programa de investigación vivo, no como sistema cerrado.
+
+
+
 ## Lagunas
 
 - **Parte 1 del monográfico no localizada en este barrido**: el vídeo se anuncia como "Parte 2". Probablemente la Parte 1 contiene el sustrato preliminar (definición clásica de símbolo, contexto histórico de la semiótica, motivación del proyecto, etimología tratada con detalle). La página debería integrarse con esa Parte 1 cuando el corpus la incluya — ahora mismo carece de la entrada conceptual previa.
