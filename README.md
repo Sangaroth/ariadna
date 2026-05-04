@@ -18,23 +18,24 @@ Asistente conversacional con acceso a un corpus de vídeos analíticos via **Mod
 
 **El corpus es el activo, MCP es el contrato, el LLM es reemplazable.** Detalle en [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
-## Capas de evolución
+## Capas de evolución (Karpathy "LLM Wiki")
 
 ```
 LAYER 0  —  Raw chunks (Qdrant + BGE-M3): fuente de verdad indexada
 LAYER 1  —  Wiki estructurada en markdown (wiki/): páginas por entidad/concepto/autor/obra
 LAYER 2  —  Grafo emergente: el conjunto de wikilinks ES el grafo, sin BD aparte
+LAYER 3  —  Scope.md: contrato editorial entre corpus crudo y wiki (qué entra y por qué)
 ```
 
-Cada capa se añade encima sin romper las anteriores, y se accede vía el mismo cliente MCP. Roadmap completo en [docs/PHASES.md](docs/PHASES.md).
+Cada capa se añade encima sin romper las anteriores, y se accede vía el mismo cliente MCP. El extractor LLM (sub-agente in-loop con scope.md como guía) construye y mantiene la wiki sin firma humana en el camino feliz. Roadmap completo en [docs/PHASES.md](docs/PHASES.md). Refactor reciente del pipeline en [docs/PIPELINE_REFACTOR_2026_05_02.md](docs/PIPELINE_REFACTOR_2026_05_02.md).
 
 ## Estado del proyecto
 
 | Fase | Estado |
 |---|---|
 | **A.1** — Layer 0 RAG dense + MCP server + integración Mattermost | ✅ Cerrada (2026-04-23) |
-| **A.2** — Sparse BM25, threshold, reranker, **reclasificación con OpenAlex** | Backlog |
-| **B** — **Wiki estructurada con KG emergente** (fusión antiguas B+E) | 🟡 En curso — 11 páginas, modo híbrido vivo, SQLite derivado |
+| **A.2** — Sparse BM25, threshold, reranker cross-encoder, retrieval indirecto vía citations | ✅ Reranker activo. RRF dense+sparse probado y descartado (no aporta sobre BGE-M3 dense-solo). |
+| **B** — **Wiki estructurada con KG emergente** + pipeline push-based Karpathy | 🟢 Operativo — **104 páginas** (45 conceptos, 10 autores, 28 obras, 21 syntheses), 5 pilares editoriales (liberalismo, filosofía, psicología cognitiva, mitología, neurociencia), 35% del corpus procesado |
 | **C** — Despliegue producción (Hetzner, URL fija) | Pendiente |
 | **D** — Cold path con voluntarios + ingesta multi-formato | Pendiente |
 
@@ -50,7 +51,7 @@ Estado vivo en [docs/NEXT_SESSION.md](docs/NEXT_SESSION.md).
 ## Instalación
 
 ```bash
-git clone https://github.com/sangaroth-ux/ariadna.git
+git clone https://github.com/Sangaroth/ariadna.git
 cd ariadna
 uv venv
 source .venv/bin/activate
@@ -108,7 +109,7 @@ curl -s -X POST http://127.0.0.1:8765/mcp \
 
 ## Tools MCP expuestas
 
-- **`search_corpus(query, top_k=5, category=None, playlist=None)`** — búsqueda híbrida: devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended`. Wiki entries llevan `match_via ∈ {semantic, citation, both}`. Schema autoritativo: [docs/RESPONSE_FLOW.md §10](docs/RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30)
+- **`search_corpus(query, top_k=5, category=None, playlist=None)`** — búsqueda híbrida con reranker cross-encoder + retrieval indirecto vía wiki citations (dos pasadas: exact `(video_id, ts)` + same-video fallback con score multiplier). Devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended`. Wiki entries llevan `match_via ∈ {semantic, citation, citation_video, both}`. Schema autoritativo: [docs/RESPONSE_FLOW.md §10](docs/RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30)
 - **`get_wiki_page(page_id)`** — devuelve la página wiki completa (frontmatter + body) por `page_id`
 - **`get_video_summary(video_id)`** — chunks completos de un vídeo en orden cronológico
 - **`list_videos(category=None, playlist=None)`** — listado filtrado de vídeos del corpus
@@ -120,27 +121,44 @@ ariadna/
 ├── pyproject.toml
 ├── README.md
 ├── LICENSE
-├── ariadna/                  — código fuente (~935 líneas)
-│   ├── config.py             — paths, modelo, Qdrant settings
-│   ├── parsers.py            — markdown → Chunk dataclass
-│   ├── embeddings.py         — wrapper BGE-M3
-│   ├── storage.py            — wrapper Qdrant
-│   ├── search.py             — Searcher + CLI
-│   ├── build_index.py        — CLI de indexado
-│   └── mcp_server.py         — FastMCP server
+├── ariadna/                          — código fuente
+│   ├── config.py                     — paths, modelo, Qdrant settings
+│   ├── parsers.py                    — markdown → Chunk dataclass
+│   ├── embeddings.py                 — wrapper BGE-M3
+│   ├── storage.py                    — wrapper Qdrant
+│   ├── reranker.py                   — cross-encoder rerank
+│   ├── search.py                     — Searcher con retrieval indirecto + 2-pass citations
+│   ├── build_index.py                — CLI de indexado
+│   └── mcp_server.py                 — FastMCP server
 ├── scripts/
-│   ├── run_server.sh         — arranca MCP server
-│   ├── run_tunnel.sh         — expone via ngrok
-│   └── test_mcp_call.sh      — test directo via curl
+│   ├── extract_video_themes.py       — extractor LLM con sub-agente in-loop (Karpathy)
+│   ├── apply_pending_updates.py      — aplica diff-style ops con anchor literal único
+│   ├── compile_wiki_pages.py         — sync shadow_wiki → wiki real
+│   ├── build_wiki_db.py              — genera data/wiki.db (citations table)
+│   ├── scan_mentions_ledger.py       — recovery de referencias débiles previas
+│   ├── run_server.sh                 — arranca MCP server
+│   └── run_tunnel.sh                 — expone via ngrok
+├── wiki/                             — base de conocimiento (104 pages)
+│   ├── concepts/                     — 45 conceptos arquetípicos / cognitivos / etc.
+│   ├── authors/                      — 10 autores canónicos
+│   ├── entities/works/               — 28 obras (libros, películas, juegos)
+│   ├── synthesis/                    — 21 páginas de síntesis (cross-cuts del canal)
+│   └── _meta/
+│       ├── scope.md                  — contrato editorial v0.3 (3ª capa Karpathy)
+│       ├── canonical_whitelist.json  — figuras canónicas con auto_promote
+│       ├── relation_types.json       — tipos de relations[] permitidos
+│       └── extraction_runs/          — JSONs commiteados (memoria operativa LLM)
 ├── docs/
-│   ├── ARCHITECTURE.md       — argumentación de diseño (decoupling, hot/cold)
-│   ├── PHASES.md             — roadmap por capas
-│   ├── NEXT_SESSION.md       — estado vivo, decisiones, próximos pasos
-│   ├── INTEGRACION_MATTERMOST.md — guía cliente
-│   ├── run_pipeline.md       — pipeline técnico paso a paso
-│   └── images/architecture.png   — infografía hot/cold
+│   ├── PIPELINE_REFACTOR_2026_05_02.md — refactor v0.3 completo (16 secciones)
+│   ├── ARCHITECTURE.md               — argumentación de diseño
+│   ├── EXTRACTION_PIPELINE.md        — pipeline push-based base
+│   ├── PHASES.md                     — roadmap por capas
+│   ├── NEXT_SESSION.md               — estado vivo del proyecto
+│   ├── INTEGRACION_MATTERMOST.md     — guía cliente
+│   └── RESPONSE_FLOW.md              — schema autoritativo MCP
 ├── tests/
-└── data/qdrant/              — vector DB persistente (gitignored)
+├── data/qdrant/                      — vector DB persistente (gitignored)
+└── data/wiki.db                      — SQLite citations table (gitignored, regenerable)
 ```
 
 ## Documentación
@@ -153,7 +171,9 @@ ariadna/
 - **[docs/NEXT_SESSION.md](docs/NEXT_SESSION.md)** — estado vivo del proyecto, decisiones tomadas, bugs conocidos, comandos útiles
 - **[docs/run_pipeline.md](docs/run_pipeline.md)** — pipeline técnico end-to-end (corpus → parser → embedding → Qdrant → MCP → LLM)
 - **[docs/INTEGRACION_MATTERMOST.md](docs/INTEGRACION_MATTERMOST.md)** — guía paso a paso de integración con el cliente Mattermost
-- **[wiki/README.md](wiki/README.md)** — base de conocimiento navegable (vacía hasta el piloto de Fase B)
+- **[docs/PIPELINE_REFACTOR_2026_05_02.md](docs/PIPELINE_REFACTOR_2026_05_02.md)** — refactor v0.3 del pipeline de extracción: sub-agente in-loop, scope reformado (5 pilares), schema-tolerant, auto-promote thesis, lane recommended_reference, protocolo de propagación con 3 comandos
+- **[docs/EXTRACTION_PIPELINE.md](docs/EXTRACTION_PIPELINE.md)** — pipeline push-based base (pre-v0.3)
+- **[wiki/README.md](wiki/README.md)** — base de conocimiento navegable (104 pages)
 
 ## Licencia
 
