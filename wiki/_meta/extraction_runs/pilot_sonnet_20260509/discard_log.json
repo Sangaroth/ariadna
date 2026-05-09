@@ -1,8 +1,412 @@
 {
   "version": "0.1.0",
   "run_id": "pilot_sonnet_20260509",
-  "generated_at": "2026-05-09T00:29:46+00:00",
+  "generated_at": "2026-05-09T01:36:37+00:00",
   "entities": {
+    "epistemologia-de-la-psicologia-en-proxy": {
+      "canonical_name": "epistemología de la psicología / ¿es ciencia la psicología?",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "video_title": "¿Es ciencia la psicología?",
+          "depth": "primary",
+          "minutes": 110,
+          "framing_marks_count": 8,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de 128 min con ≈110 min sostenidos articulando una epistemología propia de la psicología. Cumple el gate de auto-promoción de scope.md §2.4.1: minutes_sustained ≈110 (≥30); signal_marks_detected = 5 (thesis_marker múltiple, pedagogic_register, internal_structure articulada, applied_framework — diagrama-de-proxy aplicado a la crítica conservadora — y genealogical_self_reference — la hipótesis del mundo justo como mito del cuadrante arriba-derecha del marco propio); framework_internal_structure con 22 piezas explícitas (≥4). Es articulación foundational del canal en filosofía de la ciencia aplicada a su propia disciplina: corrección categorial (psicología es ciencia natural, no social), refutación sistemática de tres argumentos antagonistas (incluyendo la crítica woke desde la derecha), y articulación operativa del método científico como formalización del proceso cognitivo — pieza coherente con realismo-cognitivo y materialismo-antiformalista. No hay página existente sobre esta cuestión epistemológica fundacional. Auto-promote a synthesis (author_thesis)",
+          "quote_evidence": "Corrección: la psicología clínica es la aplicación a la salud; la psicología como tal es una ciencia natural"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 110,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "diagrama-de-proxy": {
+      "canonical_name": "hipótesis del mundo justo / cuadrante arriba-derecha",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "video_title": "¿Es ciencia la psicología?",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El monográfico aplica operativamente el diagrama de Proxy a la pregunta de qué es el bien para cada cuadrante: (31:27, 34:01) arriba-derecha (externo-moral-divino, equiparación sufrir=quejarse, hipótesis del mundo justo, locus interno de culpa proyectado, padres distantes-autoritarios como etiología); abajo-izquierda (naturaleza animal-salvaje); liberales y comunistas (todo es construido, no comparten identificación con la naturaleza). Refuerza el aparato del page con casos psicológicos específicos por cuadrante. Cita-only para retrieval indirecto",
+          "quote_evidence": "La hipótesis del mundo justo es un mito propio del cuadrante arriba-derecha"
+        },
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "La articulación de la psicopatía como espectro adaptativo (no caso clínico binario) y su correlación con CI alto + ventaja adaptativa por ausencia de reactividad afectiva enriquece el aparato neuropsicológico de diagrama-de-proxy. La distribución del espectro psicopático en posiciones de éxito vital es observación estructural complementaria a la clasificación moral-política del diagrama. Cita-only para retrieval indirecto",
+          "quote_evidence": "La psicopatía como espectro: no todos los psicópatas son maquiavélicos, muchos simplemente se adaptan bien"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 11,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "realismo-cognitivo": {
+      "canonical_name": "método científico como formalización del proceso cognitivo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "video_title": "¿Es ciencia la psicología?",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El bloque (1:00:17) cierra el bucle entre realismo-cognitivo y filosofía de la ciencia: el método científico no se impone desde fuera a la cognición, emerge de ella como su forma operativa más explícita y autocrítica. Refuerza la stance representacionalista del page con articulación metodológica complementaria. Cita-only para retrieval indirecto",
+          "quote_evidence": "El método científico es un intento de formalización del proceso cognitivo: observación, modelización, contraste, falsación, análisis formal"
+        },
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 15,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo extiende realismo-cognitivo en tres frentes: (a) la formulación teleosemántica explícita ('la mente percibe variaciones, no realidad estática') refuerza la stance representacionalista del page contra construcciones idealistas; (b) la crítica frontal a la TII de Tononi como propuesta que no resuelve el hard problem aporta posicionamiento polémico explícito; (c) el caso del magenta como representación no perceptiva ofrece evidencia concreta de que el cerebro construye representaciones sin correlato físico directo, refinando la articulación percepción/representación. La nueva teoria-del-dolor-en-proxy desarrolla estas piezas en su contexto clínico; aquí cita-only para conectar el marco epistemológico con la nueva articulación",
+          "quote_evidence": "La mente no intenta poner en contacto al individuo con el exterior, sino con aquello del exterior que cambia"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 20,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "woke-narrativa-postmoderna-moral": {
+      "canonical_name": "psicología como vehículo woke (crítica conservadora y postmoderna)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "video_title": "¿Es ciencia la psicología?",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El monográfico identifica la convergencia involuntaria entre la crítica woke a la psicología y la crítica conservadora-libertaria: ambas atribuyen al campo entero la mala praxis profesional concreta. La psicología clínica desviada (exacerbación del narcisismo, desplazamiento de responsabilidad) + ropaje psicológico de movimientos New Age + ideologización política son operaciones que el page articula como mecanismos típicos de la postmodernidad moral. Cita-only para retrieval indirecto",
+          "quote_evidence": "El movimiento New Age se ha revestido de psicología y se ha terminado confundiendo ambas cosas"
+        },
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Gardner como caso paradigmático del mecanismo postmoderno: tomar dominios psicométricos existentes (Wechsler) y rebautizarlos como inteligencias separadas para preservar autoestima del sujeto. Caso ilustrativo del aplanamiento moral-cognitivo postmoderno articulado en woke-narrativa-postmoderna-moral. Adicionalmente (07:50) el acomplejo progresista con el CI ilustra la oscilación postmoderna: rechazar la medición + exhibirla cuando conviene. Cita-only para retrieval indirecto",
+          "quote_evidence": "La teoría de inteligencias múltiples no tiene ningún sentido filosófico ni científico"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "video_title": "El acabóse",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "discard",
+          "decision_reason": "Pieza relevante sobre la fenomenología contemporánea del rebelde-sin-riesgo y el desplazamiento generacional depresión→ira en activismo de extrema. Capturada operativamente en psicologia-del-activista-en-proxy (nuevo). NO propongo update separado a woke-narrativa-postmoderna-moral sin haber leído la página completa en esta sesión — riesgo de duplicar prosa.",
+          "quote_evidence": "Los ocupas actuales tienen cero riesgo real y se creen rebeldes al sistema,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard",
+        "update_existing"
+      ],
+      "occurrences_count": 3,
+      "total_minutes": 13,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "materialismo-antiformalista": {
+      "canonical_name": "psicología como ciencia natural / materialismo aplicado",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "video_title": "¿Es ciencia la psicología?",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El monográfico aplica la stance materialista antiformalista a dos casos: (52:10) la psicología no estudia la psique como esencia platónica inabarcable sino la conducta humana modelizable desde sustrato bioquímico y formalización conceptual; (1:02:17) las matemáticas como hecho psíquico no platónico — paralelo simétrico que cierra el bucle materialista. Cita-only para retrieval indirecto",
+          "quote_evidence": "La psicología no estudia la psique sino la conducta humana externa e interna, y su modelización es posible desde lo bioquímico y desde lo formal"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 6,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Caso Irene Montero como ejemplo de desnaturalización política de la psicología": {
+      "canonical_name": "Caso Irene Montero como ejemplo de desnaturalización política de la psicología",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "video_title": "¿Es ciencia la psicología?",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El caso de Irene Montero y la progresía como ejemplo de lo que ocurre cuando se desnaturaliza la psicología",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "inteligencia-y-adaptacion-en-proxy": {
+      "canonical_name": "cociente intelectual / inteligencia / adaptación",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "primary",
+          "minutes": 55,
+          "framing_marks_count": 7,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de 84 min con ≈55 min sostenidos articulando una teoría propia de la relación inteligencia/adaptación que cumple el gate de auto-promoción de scope.md §2.4.1: minutes_sustained ≈55 (≥30), signal_marks_detected = 5 (thesis_marker múltiple, pedagogic_register, internal_structure, applied_framework), framework_internal_structure con 14 piezas explícitas (≥4). El núcleo es articulación foundational del canal: (a) corrección categorial (CI ≠ inteligencia general, factor G no medible directamente, Gardner como pseudociencia postmoderna); (b) tesis propia sobre la curva normal como trampa de desadaptación para los extremos; (c) tesis propia sobre la adaptación (no la inteligencia) como predictor real de éxito a largo plazo; (d) la psicopatía como espectro adaptativo por ausencia de reactividad afectiva. El gap del wiki es claro: no hay página existente sobre el constructo CI/inteligencia ni sobre la adaptación como variable estructural en la psicología del canal. Auto-promote a synthesis (author_thesis)",
+          "quote_evidence": "El cociente intelectual es un predictor psicométrico del desempeño intelectual general, no una medida directa de inteligencia"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 55,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "adgrediere-masculino": {
+      "canonical_name": "tres pilares del héroe masculino / pecado del cazador",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "secondary",
+          "minutes": 10,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El monográfico cierra con dos piezas que articulan operativamente el adgrediere maduro masculino: (1:07:48) tres pilares — ser el mejor en hobby autónomo, dominio intelectual y trabajo + ejercicio físico de coordinación + relaciones sociales amplias sin implicación profunda; (1:12:21) pecado del cazador de Blancanieves: compararse con otros hombres como obstáculo principal del camino, amplificado por redes sociales que muestran solo el percentil 99,9. Ambas piezas son aplicación del adgrediere al varón concreto. Cita-only para que el page audit humano integre las piezas como nueva sección si procede",
+          "quote_evidence": "Tres pilares: ser el mejor en un hobby autónomo, en un dominio intelectual y en el trabajo"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo articula la vinculación masculina como intercambio (compensación mutua) y el modo padre como construcción del otro (hacer de él un hombre o un héroe), oponiéndolas a la vinculación proyectiva femenina. Encaja con el adgrediere maduro: avanzar contra la oposición incluye construir la firmeza del otro como pieza del propio movimiento. Cita-only conecta el page con la articulación complementaria del monográfico",
+          "quote_evidence": "Vincularse como padre es querer construir algo en el otro: hacer de él un hombre o un héroe"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 15,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "viaje-heroe": {
+      "canonical_name": "camino del héroe masculino",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 7,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El monográfico aplica el viaje-heroe al varón contemporáneo concreto con tres pilares operativos y la trampa de la comparación amplificada por redes sociales. Es caso operativo del monomito aplicado a la maduración masculina actual. Cita-only para retrieval indirecto",
+          "quote_evidence": "Compararse con otros hombres es el principal obstáculo en el camino del héroe masculino"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 7,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "trauma-en-proxy": {
+      "canonical_name": "trauma real en mujeres maltratadas",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Bloque (52:31) sobre el problema clínico real del trauma en mujeres maltratadas: terror y disociación bloquean la denuncia, no vergüenza ni falta de empoderamiento. La incapacidad de objetivar y comprender la dimensión de lo vivido es el obstáculo clínico. Articula explícitamente la crítica al feminismo de empoderamiento como respuesta inadecuada al trauma psíquico — refuerza la articulación de trauma-en-proxy. Cita-only para retrieval indirecto",
+          "quote_evidence": "Las mujeres con trauma real no denuncian por terror y disociación, no por vergüenza"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "autoforia": {
+      "canonical_name": "caso Elisa Mouliaá / autoforia del CI",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El caso Elisa Mouliaá presumiendo de 118 ilustra el mecanismo autofórico: el discurso sobre la propia inteligencia opera como prueba autorreferencial sin contraste con la distribución real. La conducta crea su propia autoridad en la enunciación misma. Caso ilustrativo limpio del concepto autoforia. Cita-only para retrieval indirecto",
+          "quote_evidence": "Es signo de poca inteligencia tener la necesidad de demostrar tu CI a desconocidos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "shadow-archetype": {
+      "canonical_name": "la inteligencia usada contra sí mismo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "La observación (33:11) de que las personas más inteligentes usan su inteligencia contra sí mismas — rumiación, auto-crítica neurótica, racionalización del propio sufrimiento — es caso aplicado de la sombra junguiana: el don no integrado se vuelve contra el yo. Cita-only para retrieval indirecto",
+          "quote_evidence": "Las personas más inteligentes también usan su inteligencia contra sí mismas, generando más infelicidad"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Proyecto de grafo 3D para mapear redes de conciencia": {
+      "canonical_name": "Proyecto de grafo 3D para mapear redes de conciencia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Intención de crear un mapa tridimensional de nodos para estudiar el fenómeno de la conciencia",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El sentido de la vida es la preparación para la muerte": {
+      "canonical_name": "El sentido de la vida es la preparación para la muerte",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "video_title": "Elisa y su CI",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El sentido de la vida es prepararse para el momento de morir",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "magia-postmoderna-en-proxy": {
       "canonical_name": "Magia vs religión: distinción operativa, falacia de muertes históricas, traducción bíblica",
       "page_type": "synthesis",
@@ -389,31 +793,6 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "woke-narrativa-postmoderna-moral": {
-      "canonical_name": "Ocupas y Frente Obrero: rebeldes sin riesgo real, ira en lugar de depresión",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "94OQnbWfe1E",
-          "video_title": "El acabóse",
-          "depth": "secondary",
-          "minutes": 4,
-          "framing_marks_count": 2,
-          "decision": "discard",
-          "decision_reason": "Pieza relevante sobre la fenomenología contemporánea del rebelde-sin-riesgo y el desplazamiento generacional depresión→ira en activismo de extrema. Capturada operativamente en psicologia-del-activista-en-proxy (nuevo). NO propongo update separado a woke-narrativa-postmoderna-moral sin haber leído la página completa en esta sesión — riesgo de duplicar prosa.",
-          "quote_evidence": "Los ocupas actuales tienen cero riesgo real y se creen rebeldes al sistema,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "discard"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 4,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
     "Audio del delegado de gobierno (testimonio personal Proxy en 15M)": {
       "canonical_name": "Audio del delegado de gobierno (testimonio personal Proxy en 15M)",
       "page_type": null,
@@ -700,6 +1079,680 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "gisbertocracia": {
+      "canonical_name": "Gisbert nunca articula un proyecto constituyente concreto",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Bloque 22:20-24:21 extiende la crítica gisbertocracia con dos ángulos: (a) Gisbert no aterriza el formalismo en proyecto constituyente concreto — refuerza la crítica articulada en el page; (b) primer movimiento del canal hacia propuesta procedimental positiva (taller con juristas, constitución garantista con bloques de derechos y garantías, contactar a Bernad y Bastos) — toca lateralmente la laguna 'Alternativa positiva' del page sin resolverla del todo (sigue siendo procedimental, no sustantiva). Cita-only update por scope.md §3.1 (crítica de tradición intelectual + marco propio aplicado) y por la regla de redundancia: la prosa ya cubre el mecanismo crítico nuclear, los timestamps añaden cobertura de retrieval indirecto",
+          "quote_evidence": "Gisbert nunca articula un proyecto constituyente concreto: solo habla de soberanía sin definir mecanismos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sofisma-estetico": {
+      "canonical_name": "sofisma estético",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": "passing_mention",
+          "minutes": 2,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Concepto invocado como marco aplicado en dos bloques distintos: (1:29:13) feminismo de consigna sin acción concreta como propaganda vacía — encaja con la lógica nuclear 'palabra sustituye conducta'; (1:37:25) neo-puritanismo proyecta culpa sobre prácticas privadas consensuadas — el speaker etiqueta directamente como sofisma estético. La prosa de sofisma-estetico ya cubre exhaustivamente el mecanismo (tras Read del cuerpo completo): añadir prosa sería redundante. Cita-only update para retrieval indirecto vía SQLite citations index",
+          "quote_evidence": "El sofisma estético proyecta culpa sobre prácticas privadas consensuadas entre adultos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Testimonio directo desde la zona cero de la DANA en Valencia": {
+      "canonical_name": "Testimonio directo desde la zona cero de la DANA en Valencia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "J describe la autovía hacia Valencia con carriles serpenteantes entre montañas de barro y coches abandonados",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Bloqueos policiales y conflicto de competencias en el acceso a Valencia": {
+      "canonical_name": "Bloqueos policiales y conflicto de competencias en el acceso a Valencia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "La policía no deja entrar por autopista a la zona afectada pero sí se puede acceder por carreteras secundarias",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ausencia de operativos de limpieza y emergencia en la zona afectada": {
+      "canonical_name": "Ausencia de operativos de limpieza y emergencia en la zona afectada",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "J no vio a nadie trabajando a las 8-9 de la tarde del jueves: policías y UME estaban parados charlando",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Por qué protestar en Ferraz y no en el Congreso": {
+      "canonical_name": "Por qué protestar en Ferraz y no en el Congreso",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Protestar frente al Congreso diluye la protesta porque es un edificio vacío que no representa a nadie concreto",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El sistema no necesita legitimidad: inutilidad del abstencionismo": {
+      "canonical_name": "El sistema no necesita legitimidad: inutilidad del abstencionismo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "No votar no deslegitima el sistema porque el sistema no depende de legitimación popular para funcionar",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El peligro de unas cortes constituyentes sin proyecto claro": {
+      "canonical_name": "El peligro de unas cortes constituyentes sin proyecto claro",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "Si la tensión escala hasta cortes constituyentes, la nueva constitución la redactaría el PPSOE y sería peor que la actual",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Propuesta de taller constitucional con juristas": {
+      "canonical_name": "Propuesta de taller constitucional con juristas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "Los divulgadores deberían proponer un esquema de constitución garantista con bloques de derechos y garantías",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La actuación del rey frente a la del gobierno en Paiporta": {
+      "canonical_name": "La actuación del rey frente a la del gobierno en Paiporta",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "El rey mostró temple, gallardía y valor al exponerse sin escolta real entre la multitud enfurecida",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Defensa de la monarquía como institución": {
+      "canonical_name": "Defensa de la monarquía como institución",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "La monarquía española no cuesta apenas dinero y es un órgano representativo compuesto por personas razonables",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Sánchez canaliza las ayudas a Valencia a través de los presupuestos generales": {
+      "canonical_name": "Sánchez canaliza las ayudas a Valencia a través de los presupuestos generales",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Sánchez incluye las ayudas en los presupuestos generales del Estado",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Moncloa montó la operación Broncano para desactivar a Pablo Motos": {
+      "canonical_name": "Moncloa montó la operación Broncano para desactivar a Pablo Motos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Un consejero de RTVE confirma que Zapatero, Óscar López, Félix Bolaños y otros orquestaron el fichaje de Broncano",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Decretazo para controlar RTVE": {
+      "canonical_name": "Decretazo para controlar RTVE",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El Consejo de Administración pasa de 11 a 15 miembros con sueldos de 100.000€ anuales y se reduce el peso conservador",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Caso de la denunciante de Rejón: autodestrucción en directo": {
+      "canonical_name": "Caso de la denunciante de Rejón: autodestrucción en directo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "La denunciante acusa públicamente a Rejón de violación múltiple contradiciendo su propio testimonio anterior",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El dogmatismo climático como arma política tras la DANA": {
+      "canonical_name": "El dogmatismo climático como arma política tras la DANA",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Un tertuliano conecta la DANA con el cambio climático y dice que la solución ciudadana es \"votar bien\"",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El Constitucional avala retroactivamente el confinamiento con estado de alarma": {
+      "canonical_name": "El Constitucional avala retroactivamente el confinamiento con estado de alarma",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El Tribunal Constitucional rectifica su propia doctrina y establece que el confinamiento no suspendió derechos sino que los limitó",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mr. Jagger equipara a voluntarios de la DANA con nazis": {
+      "canonical_name": "Mr. Jagger equipara a voluntarios de la DANA con nazis",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "Publica tweets comparando a los voluntarios con \"asociación de maltratadores de viejas\" y \"pateadores de gatos\"",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La Confederación Hidrográfica del Júcar avisó de la crecida por email": {
+      "canonical_name": "La Confederación Hidrográfica del Júcar avisó de la crecida por email",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Detectaron una crecida de 0 a 2000 m³/s en una rambla y su única acción fue mandar un correo electrónico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Propuestas de acción ciudadana: insumisión fiscal y protesta directa": {
+      "canonical_name": "Propuestas de acción ciudadana: insumisión fiscal y protesta directa",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "La insumisión fiscal requiere coordinación masiva simultánea o no funciona",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Las donaciones no anónimas como supuesta propaganda": {
+      "canonical_name": "Las donaciones no anónimas como supuesta propaganda",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "Acusar de propaganda a quien dona públicamente es proyección pura de quien solo hace propaganda verbal",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Caso de Hamburgo y el delirio de Lara sobre víctimas": {
+      "canonical_name": "Caso de Hamburgo y el delirio de Lara sobre víctimas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Lara afirma que no apoyar inmediatamente a quien se declara víctima implica un riesgo alto de defender a un violador",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Neo-puritanismo sexual: prácticas consensuadas como ilegítimas": {
+      "canonical_name": "Neo-puritanismo sexual: prácticas consensuadas como ilegítimas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "Una tuitera declara que simular violación o juegos de rol con menores ficticias no son \"legítimos\" aunque sean consensuados",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Psicóloga de redes que no entiende la psicología masculina": {
+      "canonical_name": "Psicóloga de redes que no entiende la psicología masculina",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Representa el patrón de psicología pop que prescribe emocionalidad femenina como estándar universal",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Debate UTBH vs Fonsi Loaiza: ocupación, vivienda y demagogia": {
+      "canonical_name": "Debate UTBH vs Fonsi Loaiza: ocupación, vivienda y demagogia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Fonsi desvía cualquier pregunta sobre ocupación hacia Florentino Pérez, Securitas Direct y el franquismo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anuncio de próximos streams: cuentos de Lovecraft y filosofía de la mente": {
+      "canonical_name": "Anuncio de próximos streams: cuentos de Lovecraft y filosofía de la mente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "El jueves habrá lectura de cuentos de Lovecraft con velas para ambientar el otoño",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "perdon-y-rencor-en-proxy": {
       "canonical_name": "Anatomía del rencor: definición operativa, función informativa, perdonar≠permitir, crítica feminista postmoderna del rencor",
       "page_type": "synthesis",
@@ -798,6 +1851,16 @@
           "decision": "update_existing",
           "decision_reason": "Página teoria-del-simbolo-en-proxy ya tiene sección 'Crítica al constructivismo lingüístico' (Stream Navidad 2025) que ENUNCIA la tesis pero no documenta argumentos concretos. ESTA aparición aporta cuatro piezas nuevas: (a) crítica de la hipóstasis previa (lenguaje vs pensamiento solo se separan en lenguaje explícito externo), (b) contraejemplo positivo del pensamiento prelingüístico con caso concreto (niños operan con 'conjunto'/'clase' sin las palabras), (c) los dos casos paradigmáticos clásicamente invocados a favor de Sapir-Whorf (Oceanía, esquimales) reinterpretados con causalidad invertida, (d) diagnóstico psicológico (locus externo de control) que conecta con diagrama-de-proxy. Material genuinamente nuevo.",
           "quote_evidence": "El lenguaje solo es diferente del pensamiento cuando se trata de lenguaje explícito externo; internamente, lenguaje y pensamiento no son separables,"
+        },
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo aplica el aparato de teoria-del-simbolo (matriz noética, representación / metarrepresentación, inconsciente como representación no experiencial) al fenómeno del dolor. Bloques 1:08:52, 1:21:29, 1:26:04 y 2:01:28 (magenta como representación no perceptiva) extienden con casos clínico-perceptivos el aparato ya articulado allí. La prosa de teoria-del-simbolo-en-proxy es muy extensa y ya cubre la presentación/representación/metarrepresentación con el aparato Q-sub completo; el matiz nuevo (presentarse vs representarse aplicado al dolor) es contenido de la nueva página teoria-del-dolor-en-proxy y se cubre allí. Aquí basta cita-only para retrieval indirecto",
+          "quote_evidence": "Presentarse implica una sensación que viene dada sin proceso activo de construcción; representarse implica elaboración cognitiva"
         }
       ],
       "is_canonical_external": false,
@@ -805,8 +1868,8 @@
       "decisions_seen": [
         "update_existing"
       ],
-      "occurrences_count": 2,
-      "total_minutes": 20,
+      "occurrences_count": 3,
+      "total_minutes": 32,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -1235,6 +2298,16 @@
           "decision": "update_existing",
           "decision_reason": "Página actual tiene Harry Potter como caso canónico. Vídeo añade dos nuevas aplicaciones del concepto que la laguna 'aplicación fuera de Harry Potter' pide explícitamente: (1) la mitología New Age (Lilit moderna, Hermes Trismegisto, satanismo) como autotipia masiva — fantasía sin arquetipia real, (2) mecanismo psicogenético: el afecto infantil elevado a historia arquetípica produce autotipia. Refuta parcialmente esa laguna.",
           "quote_evidence": "La mitología New Age es frecuentemente autotipia, fantasía ausente de arquetipia real,"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo invoca explícitamente 'autotipia' como categoría del canal: HIMYM como prototipo desprendido de su contenido original (personajes patológicamente infantiles y simplones), opuesto a Friends que sí contiene las cuatro formas de feminidad y tres de masculinidad. Caso ilustrativo limpio del concepto autotipo como prototipo vaciado. Cita-only para retrieval indirecto",
+          "quote_evidence": "La autotipia de Cómo conocí a vuestra madre se ha desprendido del contenido prototípico original"
         }
       ],
       "is_canonical_external": false,
@@ -1242,8 +2315,8 @@
       "decisions_seen": [
         "update_existing"
       ],
-      "occurrences_count": 1,
-      "total_minutes": 6,
+      "occurrences_count": 2,
+      "total_minutes": 9,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -1670,6 +2743,168 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "sindrome-wendy": {
+      "canonical_name": "síndrome de Wendy",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "primary",
+          "minutes": 95,
+          "framing_marks_count": 6,
+          "decision": "update_existing",
+          "decision_reason": "Vídeo monográfico de 129 min sobre Wendy con ≈95 min sostenidos articulando refinamientos sustantivos al marco de sindrome-wendy: (a) lugar arquetípico preciso (transición doncella→consorte, no genéricamente 'antes de la maduración'); (b) Peter Pan como sátiro y la colusión Wendy-Peter Pan como dinámica relacional distinta de la colusión héroe-ninfa; (c) Campanilla como polo ninfa proyectado; (d) pánico como afecto rector (conecta Wendy con la batería de siete sistemas afectivos de Galatea/Panksepp); (e) salida operativa del síndrome (aprender a pedir, integrar la sombra, reconocer los tres dones: ternura/esperanza/gracia); (f) vinculación proyectiva (femenina) vs vinculación de intercambio (masculina) como asimetría estructural; (g) padre frágil heredado y miedo al fracaso simétrico al sindrome-del-nino-masculino. La prosa actual cubre la mutación Artemisa→Afrodita y el umbral vampírico; el monográfico resuelve la laguna 'Vías de salida' con mecanismos concretos (aprender a pedir + integración junguiana de los tres dones) y añade la articulación afectiva (pánico) que la página no tenía. Justifica prose update con nuevas secciones, no solo cite-only",
+          "quote_evidence": "Wendy surge cuando la princesa empieza a sentir la necesidad de ser deseada y amada"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 95,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tipologia-femenina-arquetipica": {
+      "canonical_name": "tres figuras neutrales / Medea como núcleo genuinamente femenino / Friends cuatro formas",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo aplica operativamente la tipología tres-aspectos / cinco-corrupciones: (38:06) doncella/consorte/madre con Atenea como prototipo de doncella; (40:43) corrupciones como versión arquetípica dañada; (1:54:51) Medea como núcleo genuinamente femenino sin contraparte masculina genuina (refinamiento sobre la lectura del page que la sitúa solo como 'corrupción de la madre'); (2:00:03) Friends como caso operativo que contiene las cuatro formas de la feminidad. La prosa de tipologia-femenina-arquetipica ya cubre exhaustivamente la tipología y sus casos diferenciales en otro directo previo (Vacacioff parte II). Aquí basta cita-only para retrieval indirecto",
+          "quote_evidence": "Medea utiliza a los hijos como vehículo de su neurosis"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "colusion-heroe-ninfa": {
+      "canonical_name": "Peter Pan como sátiro / ninfas que fingen Wendy",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo extiende el marco de colusion-heroe-ninfa con dos piezas complementarias: (a) Peter Pan como sátiro = equivalente masculino de la ninfa, articulando que la colusión Wendy-Peter Pan es UN TIPO DE colusión sátiro-Wendy (variante de la dinámica nombrada como Wendy-tirano en el page, pero con Peter Pan-niño-eterno en lugar de tirano-adulto); (b) criterio diferencial fino: ninfas que fingen Wendy (dan amor pero se indignan si no hay deseo inflamado) — refina la 'distinción Wendy/Ninfa por motivación' del page y aporta test operativo de detección. La prosa central queda en el page actual; aquí cita-only",
+          "quote_evidence": "Peter Pan tiene nombre de sátiro: Pan era un sátiro, equivalente masculino de la ninfa"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 8,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "sindrome-del-nino-masculino": {
+      "canonical_name": "padre frágil / búsqueda de madres oscuras / MGTOW",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 10,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo articula la simetría con sindrome-del-nino-masculino: el evento canónico masculino (ruptura con la madre — 1:00:36), la etiología paterno-frágil que produce búsqueda de madres oscuras (1:15:22), MGTOW como caso clínico extremo de varones dañados por ninfas que buscan la madre que no tuvieron, y el rol del varón frente a Wendy (enfrentar el mal solo, asumir posibilidad de fracaso sin amor incondicional al otro lado — 1:21:29). Cita-only conecta el page con el monográfico de Wendy desde el polo masculino simétrico",
+          "quote_evidence": "Los MGTOW son hombres muy dañados por experiencias con ninfas: buscan la madre que no tuvieron"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-lunar": {
+      "canonical_name": "mito lunar / cinco mitos fundamentales",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo invoca el mito lunar como contenedor de la fenomenología de lo femenino aplicada al análisis de Wendy. Aporta también una articulación VARIANTE relevante: 'cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago'. La page actual articula SEIS mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis) según el libro Del origen del mal; el monográfico lista CINCO con Héroe en lugar de solar/polar. Variante no contradice la cosmología del libro (el mito del Héroe podría ser otra capa abstrativa, p.ej. el monomito como pieza psico-arquetípica vs los seis cosmológicos), pero merece flag para audit humano. Cita-only con rationale que señale la divergencia",
+          "quote_evidence": "Es uno de cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "promote_new",
+          "decision_reason": "Mito lunar está en canonical_whitelist con auto_promote: true (channel_specific_concepts y referenciado desde múltiples páginas como wikilink roto). Este vídeo aporta la secuencia completa del mito lunar en cinco fases (despertar-creación-caída-luna roja-exorcismo) — la articulación más explícita en el corpus. Cumple el criterio de promoción automática por whitelist + tratamiento sustantivo (≥3 min de exposición). Crear stub mínimo con la secuencia y la composición polar.",
+          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "promote_new",
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 10,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "Los hijos detienen la madurez individual": {
+      "canonical_name": "Los hijos detienen la madurez individual",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los hijos obligan a madurar en cierta forma pero detienen el trabajo de uno consigo mismo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "alien-saga": {
       "canonical_name": "Alien (saga) / Alien Earth / Prometheus / Alien Covenant",
       "page_type": "entity_work",
@@ -1760,6 +2995,16 @@
           "quote_evidence": "El mismo mensaje en estados emocionales diferentes significa cosas diferentes; ChatGPT no puede gestionar esa diferencia,"
         },
         {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El bloque articula explícitamente la categoría 'humano-golem' como tipo de relación arquetípica que la saga Alien cataloga en sus distintas entregas. El transhumanismo (humano convertido en sintético) cierra ese catálogo como caso terminal. Refuerza el aparato del page golem-de-cobre (cognición humana vs máquina) con un caso narrativo paradigmático: la corrupción del humano hacia el polo golem como última operación posible en la economía de la saga. Cita-only para retrieval indirecto",
+          "quote_evidence": "La serie explora la conversión del humano en sintético, el transhumanismo"
+        },
+        {
           "video_id": "t8v5w3s0USA",
           "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
           "depth": "secondary",
@@ -1775,8 +3020,8 @@
       "decisions_seen": [
         "update_existing"
       ],
-      "occurrences_count": 2,
-      "total_minutes": 13,
+      "occurrences_count": 3,
+      "total_minutes": 16,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -2530,10 +3775,251 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "galatea-modelo-protomente": {
-      "canonical_name": "Galatea: lenguaje ejecutable, embeddings universales, hipótesis platónica",
+    "alien-1979-film": {
+      "canonical_name": "transhumanismo como última relación humano-golem",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": "passing_mention",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El bloque (39:40) reacciona al tráiler de Alien Earth y articula que la serie cierra el catálogo de relaciones humano-golem en la saga Alien con el transhumanismo como última variante todavía no representada — leído como forma de corrupción arquetípica. Refuerza el aparato del page alien-1979-film (la saga como caso paradigmático de transición polar) con una articulación estructural sobre el catálogo de relaciones humano-máquina que la franquicia recorre. Cita-only para retrieval indirecto",
+          "quote_evidence": "Era la última relación posible entre humano y golem que faltaba por representar en la saga"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Proxy y la crisis creativa con su libro sobre magia": {
+      "canonical_name": "Proxy y la crisis creativa con su libro sobre magia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Releer el primer volcado del libro le produce una bajona por la mala calidad de la escritura",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Conflicto entre Elon Musk y Trump por el gasto público": {
+      "canonical_name": "Conflicto entre Elon Musk y Trump por el gasto público",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Trump aprobó una partida de gasto enorme pese a la deuda pública creciente de EE.UU.",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Rivers, devaluación del título universitario": {
+      "canonical_name": "Rivers, devaluación del título universitario",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El fenómeno de aprobar memorizando sin comprender devalúa el concepto de titulación universitaria",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "La universidad y su falta de defensa del prestigio académico": {
+      "canonical_name": "La universidad y su falta de defensa del prestigio académico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "Rivers representa una futura \"Charo\" o presentadora de televisión española",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Películas fuera de la lista de análisis arquetípico en YouTube": {
+      "canonical_name": "Películas fuera de la lista de análisis arquetípico en YouTube",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Todos los análisis hechos en directo dual (Twitch) no están en la lista de análisis arquetípico de YouTube",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Descubrimiento de que el análisis del Rey León se ha perdido": {
+      "canonical_name": "Descubrimiento de que el análisis del Rey León se ha perdido",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "El análisis del Rey León no aparece en YouTube ni en los archivos del canal",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "teoria-del-dolor-en-proxy": {
+      "canonical_name": "dolor",
       "page_type": "synthesis",
       "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "primary",
+          "minutes": 115,
+          "framing_marks_count": 7,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de 156 min con ≈115 min sostenidos articulando una teoría propia del dolor. Cumple el gate de auto-promoción de scope.md §2.4.1: minutes_sustained ≈115 (≥30), signal_marks_detected = 5 (thesis_marker múltiple, pedagogic_register, internal_structure, applied_framework, genealogical_self_reference), framework_internal_structure con 19 piezas explícitas (≥4). Es articulación foundational del marco propio (teleosemántica del dolor, distinción presentación/representación aplicada al dolor, siete valencias afectivas, fallo evolutivo del sistema noceptivo) coherente con realismo-cognitivo, teoria-del-simbolo-en-proxy y galatea-modelo-protomente. No hay página existente que cubra el dolor como objeto enciclopédico — gap claro del wiki que el vídeo cierra. Auto-promote a synthesis (author_thesis) con auto_promoted_synthesis: true en frontmatter para auditoría posterior",
+          "quote_evidence": "Los libros de fisiología están plagados del término \"vías del dolor\", que es un error sincategórico: las vías son de la nocicepción, no del dolor"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 115,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "teoria-de-las-emociones-en-proxy": {
+      "canonical_name": "siete valencias afectivas",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "La página actual articula CINCO emociones básicas (con valencia adaptativa, no agradabilidad). Este vídeo articula SIETE valencias afectivas (catálogo Panksepp) negando explícitamente la división positivo/negativo y ligándolas a clase como unidad de representación teleosemántica. El matiz es relevante: amplía el aparato de cinco básicas a siete valencias y refuerza la distinción valencia adaptativa/agradabilidad, pero NO contradice el marco anterior. La articulación más detallada está en la nueva teoria-del-dolor-en-proxy y en galatea-modelo-protomente (que ya nombra Panksepp). Aquí basta cita-only para que la página actual quede conectada a la articulación expandida vía retrieval",
+          "quote_evidence": "No existen valencias positivas o negativas en sentido estricto; hay siete valencias afectivas cada una con función propia"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "galatea-modelo-protomente": {
+      "canonical_name": "siete valencias afectivas / Panksepp",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Galatea ya articula la batería Panksepp de siete sistemas afectivos. Este vídeo aplica la misma batería como las 'siete valencias' del marco del dolor, cerrando el bucle entre el modelo computacional (Galatea) y el aparato clínico-fenomenológico (teoria-del-dolor). Adicionalmente, el priming como aprendizaje elemental con función biológica conecta con el nodo memoria de refuerzo de Galatea (registra eficiencias procesales, no almacena). La articulación expandida está en teoria-del-dolor-en-proxy; aquí cita-only para conectar el marco computacional con la articulación clínica vía retrieval",
+          "quote_evidence": "No existen valencias positivas o negativas en sentido estricto; hay siete valencias afectivas cada una con función propia"
+        },
         {
           "video_id": "t8v5w3s0USA",
           "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
@@ -2550,8 +4036,60 @@
       "decisions_seen": [
         "update_existing"
       ],
+      "occurrences_count": 2,
+      "total_minutes": 54,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cliff Woolf": {
+      "canonical_name": "Cliff Woolf",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cliff Woolf descubrió que al dañar la piel de ratas aparecía hiperalgesia no solo en la zona dañada sino en tejido sano circundante",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
       "occurrences_count": 1,
-      "total_minutes": 50,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tononi (teoría de información integrada)": {
+      "canonical_name": "Tononi (teoría de información integrada)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La teoría de información integrada de Tononi explica la conciencia por la complejidad de la red, pero no resuelve el hard problem tanto como parece",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -2574,31 +4112,6 @@
       "is_in_whitelist_soft": false,
       "decisions_seen": [
         "update_existing"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 4,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "mito-lunar": {
-      "canonical_name": "Mito lunar: secuencia despertar-creación-caída-luna roja-exorcismo",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "t8v5w3s0USA",
-          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
-          "depth": "secondary",
-          "minutes": 4,
-          "framing_marks_count": 1,
-          "decision": "promote_new",
-          "decision_reason": "Mito lunar está en canonical_whitelist con auto_promote: true (channel_specific_concepts y referenciado desde múltiples páginas como wikilink roto). Este vídeo aporta la secuencia completa del mito lunar en cinco fases (despertar-creación-caída-luna roja-exorcismo) — la articulación más explícita en el corpus. Cumple el criterio de promoción automática por whitelist + tratamiento sustantivo (≥3 min de exposición). Crear stub mínimo con la secuencia y la composición polar.",
-          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": true,
-      "decisions_seen": [
-        "promote_new"
       ],
       "occurrences_count": 1,
       "total_minutes": 4,

@@ -1,0 +1,153 @@
+{
+  "video_id": "u-VoqpR7sNI",
+  "video_title": "He visto a Paloma",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Encuentro con Paloma Errando en los Cinglados de Zaragoza",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Apertura del directo: el speaker relata su asistencia a una conferencia de Paloma Errando, decisión de no revelar su canal a la ponente, formato del evento. Anécdota biográfica del speaker sin componente arquetípico-cultural.",
+      "quote_evidence": "Proxy asiste con Claudia y Pato a una conferencia de Paloma Errando en Zaragoza",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Formato Cinglados y su declive en Zaragoza",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario sobre formato del evento al que asistió el speaker (autodenominación 'movida del pensamiento libre', dificultad para encontrar ponentes polémicos, caída de asistencia, mención de ponentes anteriores incluyendo el padre del speaker). Información operativa sobre un foro local sin valor enciclopédico.",
+      "quote_evidence": "Los cinglados se autodenominan \"la movida del pensamiento libre\" y buscan debate con intervenciones del público",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Manifestación en Moncloa y tweet del PSOE",
+      "reason_code": "political_news",
+      "reason_detail": "Reporte sobre evento político coyuntural (manifestación frente a Moncloa, tweet del PSOE burlándose de la asistencia, denuncia de manipulación fotográfica por Pepe de Terra). Bloque matchea hard filter (PSOE) — registrado también en blocks_filtered_by_topic_filters. Sin marco teórico aplicado: actualidad partidista pura.",
+      "quote_evidence": "El PSOE publica un tweet burlándose de la baja asistencia a la manifestación frente a Moncloa",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Infoblogger / crítica al bipartidismo PP-PSOE",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre intervención de tuitero específico (Infoblogger) sobre estrategia de movilización política. Acusación de pacto PP-PSOE para desactivar manifestaciones. Bloque matchea hard filter (PSOE, PP). Sin marco estructural aplicado más allá de la queja coyuntural.",
+      "quote_evidence": "Acusa al PP de pactar con el PSOE la postergación de las movilizaciones para desactivarlas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Audios cloacas PSOE / juez Viezma",
+      "reason_code": "political_news",
+      "reason_detail": "Reporte de actualidad judicial-política coyuntural: filtración de audio sobre presuntas maniobras del PSOE para apartar a una juez del caso del hermano de Sánchez, comentario sobre rol del fiscal general. Bloque matchea hard filter (PSOE, Sánchez). Actualidad partidista pura.",
+      "quote_evidence": "Libertad Digital publica un audio que destapa una conspiración del PSOE para apartar a la juez Viezma del caso del hermano de Pedro Sánchez",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Abascal en Moncloa / crítica al sistema de contrapesos",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre demanda de Abascal a Feijóo de romper pactos con el PSOE. La afirmación 'el sistema político español solo depende de la buena voluntad de los gobernantes para no caer en corrupción absoluta' tendría componente estructural pero está atada al juicio sobre actores concretos (Abascal, Feijóo, PP, Vox) y opera como queja coyuntural, no como tesis política-filosófica desarrollada. Bloque matchea hard filter (PSOE, PP, Vox).",
+      "quote_evidence": "Considera que tanto PP como Vox son oposiciones insuficientes ante la situación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Declaración de Más Madrid sobre rutas migratorias",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Reacción incrédula del speaker ante una declaración pública específica de portavoz de partido tras incidente migratorio reciente. Sin desarrollo teórico ni articulación arquetípica del fenómeno migratorio (que sí está cubierto en thesis_candidate tipologia-inmigracion-en-proxy desde otro vídeo). Solo comentario reactivo sobre coyuntura.",
+      "quote_evidence": "Una portavoz de Más Madrid afirma que \"las rutas migratorias no están hechas para las mujeres\" tras el fallecimiento de personas en la isla de Hierro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Propuestas de contenido para la semana siguiente",
+      "reason_code": "meta_canal",
+      "reason_detail": "Cierre del directo con anuncio de programación: descarte de 'Hijos de los hombres' como película demasiado poco simbólica, propuesta de 'Lady Halcón' para análisis, retomar Evangelion, volver a trastornos de personalidad o mito solar y lunar. Meta-canal: las obras se mencionan como candidatas a análisis futuro, no se analizan aquí. Cualquier material arquetípico saldrá de los directos efectivamente dedicados.",
+      "quote_evidence": "Proxy recomienda \"Lady Halcón\" como película de fantasía para analizar",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "10:59",
+      "block_title": "La manifestación en Moncloa y el tweet del PSOE",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_tokens": [
+        "PSOE"
+      ],
+      "filter_scope": "block",
+      "audit_reason": "Bloque sobre actualidad política española (manifestación, tweet partidista, denuncia de manipulación fotográfica). Matchea regex por mención literal del PSOE. Sin marco teórico aplicado."
+    },
+    {
+      "block_timestamp": "15:13",
+      "block_title": "Infoblogger y la crítica al bipartidismo PP-PSOE",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_tokens": [
+        "PSOE",
+        "PP",
+        "Sánchez"
+      ],
+      "filter_scope": "block",
+      "audit_reason": "Bloque sobre estrategia de movilización política contemporánea. Matchea regex por menciones literales de PSOE, PP y Sánchez. Comentario coyuntural sin marco estructural aplicado."
+    },
+    {
+      "block_timestamp": "19:48",
+      "block_title": "Los audios de las cloacas del PSOE y el caso de la juez Viezma",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_tokens": [
+        "PSOE",
+        "Sánchez"
+      ],
+      "filter_scope": "block",
+      "audit_reason": "Reporte sobre filtración judicial-política reciente. Matchea regex por PSOE y Sánchez. Actualidad partidista pura sin tesis estructural."
+    },
+    {
+      "block_timestamp": "20:48",
+      "block_title": "Abascal en Moncloa y la crítica al sistema de contrapesos",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_tokens": [
+        "PSOE",
+        "PP",
+        "Vox"
+      ],
+      "filter_scope": "block",
+      "audit_reason": "Bloque sobre demandas políticas entre líderes de partidos contemporáneos. Matchea regex por PSOE, PP y Vox. Aunque incluye una formulación con potencial estructural ('el sistema político español solo depende de la buena voluntad de los gobernantes'), está atada a juicios sobre actores partidistas concretos."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 4,
+    "yield_note": "Vídeo de rendimiento enciclopédico nulo: ~75% es actualidad política partidista española coyuntural (manifestación Moncloa, tweet PSOE, audios cloacas, juez Viezma, Abascal-Feijóo, Más Madrid) con cuatro bloques que matchean directamente el hard filter de topic_filters.json; el 25% restante es meta-canal (anécdota personal sobre asistencia a evento local + propuestas de programación futura del canal). Cero entidades, cero updates, cero thesis_candidates. Vídeo claramente fuera del alcance editorial del wiki — análisis de obra y articulaciones arquetípicas se concentran en otros directos del corpus."
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

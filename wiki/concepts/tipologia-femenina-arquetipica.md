@@ -76,6 +76,29 @@ La polaridad sana de lo femenino se despliega en tres figuras-arquetipo, cada un
 
 La secuencia gracia → consorte → madre describe un recorrido vital arquetípico, no tres categorías estancas: la madre lo es **tras haber atravesado todas las fases**, lo que articula la tipología como dinámica de individuación femenina.
 
+
+## Articulación complementaria: gracia, belleza y esperanza como dones
+
+Una articulación complementaria del polo sano femenino aparece en el análisis de [[gothika-2003-film|Gothika]]: junto a la tripartición gracia/consorte/madre como **roles arquetípicos**, el canal nombra una tripartición de **dones** que la diosa porta como naturaleza:
+
+> "Los tres dones de lo femenino: gracia, belleza y esperanza"
+→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)
+
+> "La gracia es la capacidad natural de conectar y comprender sin hablar"
+→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)
+
+> "La belleza es ser depositaria de la hermosura y embellecer todo lo que rodea a lo femenino"
+→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)
+
+> "La esperanza completa la trinidad que define la naturaleza arquetípica de la diosa"
+→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)
+
+Las dos triparticiones operan en planos distintos sin contradecirse: gracia/consorte/madre describe **fases vitales** del recorrido femenino (juventud no erótica → erotismo → maternidad plena), mientras gracia/belleza/esperanza describe **dones permanentes** que la naturaleza otorga a lo femenino arquetípico independientemente de la fase. La gracia aparece en ambas listas como su pieza más estable — capacidad de conectar y comprender sin discurso — lo que la sitúa como núcleo del polo sano. La aplicación operativa en Gothika fija el criterio diagnóstico: Miranda ha sustituido la gracia por la racionalidad, lo que la convierte en *diosa desequilibrada* que cuida con espada en lugar de don.
+
+> "Ha sustituido la gracia femenina por la racionalidad como herramienta principal para cuidar"
+→ [Gothika: De Profundis (18:05)](https://youtu.be/Gx2740if0Ho?t=1085)
+
+
 ## Las virtudes pertenecen a la naturaleza, no a la mujer
 
 Un presupuesto canal-canónico marco esta tipología: los tres dones de lo femenino no son propiedad personal de la mujer concreta sino de la naturaleza misma, y operan incluso en estado pasivo:

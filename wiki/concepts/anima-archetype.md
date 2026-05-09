@@ -258,6 +258,7 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 
 
@@ -270,4 +271,5 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [1:04:41](https://youtu.be/lOpCXo1pi2M?t=3881) · [1:19:29](https://youtu.be/lOpCXo1pi2M?t=4769) · [1:58:57](https://youtu.be/lOpCXo1pi2M?t=7137)
 - **Directo casual** — chunks: [40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
 - **El síndrome de Wendy** — chunks: [32:34](https://youtu.be/L7oSZTTK8Gg?t=1954)
+- **Gothika: De Profundis** — chunks: [51:58](https://youtu.be/Gx2740if0Ho?t=3118) · [1:14:35](https://youtu.be/Gx2740if0Ho?t=4475) · [1:37:04](https://youtu.be/Gx2740if0Ho?t=5824)
 

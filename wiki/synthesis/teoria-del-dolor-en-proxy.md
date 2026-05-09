@@ -132,3 +132,5 @@ El priming hiperalgésico es el nivel mínimo donde biología del daño y psicol
 ## Citations
 
 - video_id: `cbdLR0HTE3w` — El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.
+
+- **Haciendo la bolbición** — chunks: [27:07](https://youtu.be/vM1-wWpB1PU?t=1627)

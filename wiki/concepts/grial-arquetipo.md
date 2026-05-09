@@ -124,3 +124,5 @@ El pecado precedente que la integración resuelve es el del rey que se cree sepa
 - **Análisis arquetípico: Excalibur** — chunks: [54:05](https://youtu.be/daC37T5cbWs?t=3245) · [1:14:17](https://youtu.be/daC37T5cbWs?t=4457) · [1:18:20](https://youtu.be/daC37T5cbWs?t=4700) · [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)
 - **Análisis arquetípico La Bruja** — chunks: [2:04:12](https://youtu.be/rRlks0e0oxU?t=7452)
 
+
+- **Haciendo la bolbición** — chunks: [40:16](https://youtu.be/vM1-wWpB1PU?t=2416)

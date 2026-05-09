@@ -1,0 +1,186 @@
+{
+  "video_id": "vM1-wWpB1PU",
+  "video_title": "Haciendo la bolbición",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-dolor-en-proxy",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Haciendo la bolbición** — chunks: [27:07](https://youtu.be/vM1-wWpB1PU?t=1627)",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "vM1-wWpB1PU",
+          "timestamp_seconds": 1627,
+          "cite_markdown": "[Haciendo la bolbición (27:07)](https://youtu.be/vM1-wWpB1PU?t=1627)"
+        }
+      ],
+      "rationale": "cita-only — el bloque 27:07 articula brevemente cuatro tesis sobre el sufrimiento ('dolor por pérdida no requiere haber amado: todos lo tienen por el mero hecho de nacer'; 'el sufrimiento no es una cruz sino la motivación misma'; 'sin sufrimiento no hay búsqueda de no-sufrimiento'; 'el autotormento como mecánica innata independiente de lo trascendental o moral'). Articulación pertinente a teoria-del-dolor-en-proxy pero exposición demasiado breve (~4 min) e incrustada en bloque emocional-personal para mover prosa de la página. Cita añadida para retrieval indirecto: si reaparece sustantivamente en otro vídeo, merecerá insert prosa entonces.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "grial-arquetipo",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Haciendo la bolbición** — chunks: [40:16](https://youtu.be/vM1-wWpB1PU?t=2416)",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "vM1-wWpB1PU",
+          "timestamp_seconds": 2416,
+          "cite_markdown": "[Haciendo la bolbición (40:16)](https://youtu.be/vM1-wWpB1PU?t=2416)"
+        }
+      ],
+      "rationale": "cita-only — el bloque 40:16 lee el Jueves Santo / sacrificio cristológico como cumplimiento estructural del sacrificio voluntario que la página grial-arquetipo cifra ('alguien tenía que demostrar que se puede pasar por lo peor y aún así ir al cielo'; 'Cristo era Dios pero era humano, y como humano no quería que le pasara eso pero lo aceptó'). Articulación breve dentro de un bloque mayoritariamente personal, sin desarrollo sostenido suficiente para mover prosa. Cita añadida para retrieval indirecto.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Récord de sentadilla / curso seguridad marítima",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Apertura personal del directo: vuelta del curso, récord en gimnasio, cambio de peinado. Anécdotas biográficas del speaker sin componente arquetípico-cultural. Scope.md §3.3 'Anécdotas personales del presentador (familia, viajes, gustos privados)'.",
+      "quote_evidence": "Ha batido su récord de sentadilla con 60 kg tras tres semanas de gimnasio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Descubrimiento del weightlifting / evolución física",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reporte personal sobre rutina de gimnasio (press banca, sentadilla, peso muerto), motivación derivada de la evolución física. Sin marco psicológico-arquetípico aplicado.",
+      "quote_evidence": "Lleva tres semanas de gimnasio alternando pesas/máquinas y natación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ejercicio como mecanismo para apagar el pensamiento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Reporte fenomenológico del speaker: el levantamiento de cargas apaga el procesamiento intelectual y deja emerger contenido afectivo no contenido por mecanismos de defensa. La articulación ('agotamiento corporal → pérdida de defensas → emoción que desborda → llanto sin catarsis posterior') tiene componente psicológico estructural pero está expuesta como auto-observación clínica, no como tesis general. Demasiado breve para enriquecer prosa de teoria-de-las-emociones-en-proxy.",
+      "quote_evidence": "Levantar hierros le apaga la parte del cerebro que piensa",
+      "review_priority": "medium",
+      "review_priority_reason": "Si reaparece como tesis general (mecánica corporal de las defensas afectivas) en otros vídeos, merece insert en teoria-de-las-emociones-en-proxy o en una página propia sobre disociación afectivo-cognitiva.",
+      "enriches_concept": "teoria-de-las-emociones-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Duelo acumulado / 'el Gordi' / Exit",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reporte del estado emocional del speaker: muerte de su gato, pesadillas recurrentes, profesionales acompañando el proceso (incluida Exit como colaboradora del canal), conflictos interpersonales. Material biográfico íntimo sin componente teórico aplicado.",
+      "quote_evidence": "Desde la muerte de su gato \"el Gordi\" no ha parado y se le han acumulado duelos sin sanar",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Angustia por el plan B / situación laboral",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reporte sobre situación profesional del speaker: cursos para certificación marítima, espera de llamada de empresa, finalización del libro Polaris sin sensación de logro porque el contenido ya circulaba en directos. Información operativa del proyecto Proxy mezclada con biografía.",
+      "quote_evidence": "La mayor angustia actual es que no le llamen del trabajo tras terminar el curso",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El sufrimiento como motivación intrínseca a la vida",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación breve (~4 min) de cuatro tesis sobre el sufrimiento: dolor por pérdida no requiere haber amado (universal por nacimiento), ansiedad por separación como reflejo de orientación de dinámicas de afecto, sufrimiento como motivación misma (sin sufrimiento no hay búsqueda de no-sufrimiento), autotormento como mecánica innata independiente de lo moral-trascendental. Material genuinamente filosófico-psicológico pero exposición incrustada en bloque personal-confesional, sin desarrollo sistemático. Cita añadida a teoria-del-dolor-en-proxy para retrieval; el insert prosa requiere acumulación cross-vídeo.",
+      "quote_evidence": "El sufrimiento no es una cruz que llevar sino la motivación misma: sin sufrimiento no hay búsqueda de no-sufrimiento",
+      "review_priority": "medium",
+      "review_priority_reason": "La tesis 'sufrimiento como motivación intrínseca' es load-bearing del marco moral-psicológico del canal y conecta directamente con teoria-del-dolor-en-proxy y trauma-en-proxy. Si se articula sustantivamente en otro vídeo, merece insert prosa con sección propia.",
+      "enriches_concept": "teoria-del-dolor-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pacto Conferencia Episcopal / Valle de los Caídos",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre actualidad política española reciente (pacto del gobierno con la Conferencia Episcopal sobre el Valle de los Caídos, sospechas sobre intenciones del PSOE). Bloque matchea hard filter de topic_filters.json (literal 'PSOE') — registrado también en blocks_filtered_by_topic_filters. Sin marco teórico aplicado más allá de la duda interpretativa personal del speaker.",
+      "quote_evidence": "Sospecha que el gobierno destruirá todo igualmente para montar un \"museo del regodeo izquierdista\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Curso seguridad marítima: simulaciones de incendio",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reporte detallado de la experiencia personal del speaker en el curso de seguridad: tipos de extintor (ABC polvo polivalente, CO2), manejo de mangueras de alta presión, rol como jefe de bomberos, observación sobre quienes responden al caos vs quienes se paralizan. Anécdota biográfica sin componente arquetípico aplicado.",
+      "quote_evidence": "El curso incluyó simulaciones con fuego real proveniente de gas natural en plataformas controladas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Prácticas de abandono de buque / supervivencia en el agua",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reporte técnico-experiencial: trajes de inmersión, posición estrella, posición Kitkat, natación en gusano. Contenido divulgativo-utilitario sobre técnicas de supervivencia, sin marco arquetípico ni psicológico estructural.",
+      "quote_evidence": "Los trajes de inmersión protegen contra hipotermia hasta una hora en aguas cercanas a 0 grados",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Simulación de rescate en edificio con incendio",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Continuación del reporte experiencial del curso: ejercicio de rescate con humo de propilenglicol, máscaras con respirador, observación final ('los instintos se disparan incluso sabiendo que es totalmente seguro'). El último punto tendría matiz psicológico interesante (disociación cognitivo-afectiva ante simulación) pero está incrustado en anécdota sin marco aplicado.",
+      "quote_evidence": "Los instintos se disparan incluso sabiendo que es totalmente seguro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Agradecimiento a patronos / Livensa Living",
+      "reason_code": "meta_canal",
+      "reason_detail": "Cierre del directo con agradecimiento a los patronos del canal por financiar el curso, mención de la residencia donde se alojó, anuncio de programación post-Semana Santa (lectura de cuentos, análisis de películas). Meta-canal sin contenido temático.",
+      "quote_evidence": "El curso fue pagado íntegramente por los patronos del canal",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "31:39",
+      "block_title": "Confusión sobre el Valle de los Caídos y el pacto con la Conferencia Episcopal",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_tokens": [
+        "PSOE"
+      ],
+      "filter_scope": "block",
+      "audit_reason": "Bloque matchea regex de actualidad política española al nombrar literalmente al PSOE en la frase 'si los obispos fueron engañados o si son ingenuamente crédulos ante el PSOE'. Comentario sobre actualidad política religioso-institucional reciente (pacto Conferencia Episcopal-gobierno sobre Valle de los Caídos) sin marco teórico aplicado. Registrado en filtered_blocks_log conforme al policy_notes de topic_filters.json."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 1,
+    "yield_note": "Vídeo de bajo rendimiento enciclopédico: ~75% es directo personal-confesional (estado emocional del speaker, gimnasio, duelo, situación laboral) + ~20% reporte experiencial del curso de seguridad marítima + cierre meta-canal. Los dos bloques con tesis estructural (27:07 sufrimiento como motivación intrínseca, 40:16 sacrificio cristológico) son articulaciones breves de ~3-4 min cada una, demasiado incrustadas en contexto biográfico-confesional para mover prosa de wiki. Citas añadidas a teoria-del-dolor-en-proxy y grial-arquetipo para retrieval indirecto; reaparición sustantiva en otros vídeos justificará insert prosa entonces."
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Jueves Santo y el sacrificio de Cristo] reason=passing_mention quote no literal"
+  ]
+}

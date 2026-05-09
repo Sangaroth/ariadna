@@ -1,0 +1,315 @@
+{
+  "video_id": "Gx2740if0Ho",
+  "video_title": "Gothika: De Profundis",
+  "playlist": "_streams",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Gothika",
+      "canonical_guess": "gothika-2003-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 114,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El ánima sola: el arquetipo femenino condenado al purgatorio"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El ciclo lunar: descenso a los infiernos, rescate y ascenso a los cielos"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El manicomio como espejo invertido de Miranda"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 — análisis dedicado de 114 min monográficos sobre la obra; caso central recurrente del ánima sola (ya citada en anima-archetype.md como referencia a este video) y del ciclo lunar de descenso/rescate de la diosa. Película opera como hub donde convergen ánima sola + mito lunar + tipología femenina + uránico-telúrico-cetónico + dragón como concupiscencia.",
+      "quote_evidence": "Miranda desciende a lo más profundo de los infiernos para encontrar a la doncella sufriente"
+    }
+  ],
+  "_doc_promote_new": "gothika-2003-film: entity_work, análisis monográfico 114 min. Sub-agente: construir página con ejes 'ánima sola en Gothika', 'ciclo lunar de la diosa caída', 'Miranda como diosa desequilibrada (espada/gracia)', 'el dragón como cómplice del marido', 'la película como vivencia subjetiva: doble plano realidad/delirio'. Wikilinks obligados: anima-archetype, mito-lunar, tipologia-femenina-arquetipica, uranico-telurico-cetonico, dragon-arquetipo, tarot-arquetipico, viaje-heroe (cita inversa: la diosa no derrota al dragón, lo atraviesa).",
+  "pending_updates": [
+    {
+      "page_id": "mito-lunar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta inversión estructural refleja la distinción entre el principio masculino cíclico (dios solar, uránico-celeste) y el principio femenino cíclico (diosa lunar, ctónica-profunda).",
+      "content_proposed": "## Mecánica operativa del ciclo: descenso, rescate y ascenso\n\nEl análisis de [[gothika-2003-film|Gothika]] articula el contenido operativo del ciclo lunar más allá de su nomenclatura: la diosa **desciende cada noche a los infiernos a rescatar a su hijo dios y asciende para volver a empezar**.\n\n> \"La diosa desciende cada noche a rescatar a su hijo dios y asciende para volver a empezar\"\n→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)\n\n> \"El hijo dios es arrancado del seno materno y se desliza por el río del espíritu por ser demasiado joven\"\n→ [Gothika: De Profundis (26:28)](https://youtu.be/Gx2740if0Ho?t=1588)\n\nLa pieza precisa un mecanismo psíquico específico de la pasividad lunar: el poder de la diosa **no es derrotar al dragón** — esa es la economía solar — sino atravesarlo sin que la experiencia la destruya. Lo femenino *vive la experiencia sin que la experiencia le cambie para mal*, contraparte exacta del recorrido solar de caída-camino-muerte-apoteosis donde el héroe sí es transformado por la prueba.\n\n> \"El poder de la diosa no es derrotar al dragón sino que le atraviese sin quedar destruida\"\n→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)\n\n> \"Lo femenino es pasivo: vive la experiencia sin que la experiencia le cambie para mal\"\n→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)\n\nLa articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.\n",
+      "wikilinks_introduced": [
+        "gothika-2003-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 2792,
+          "cite_markdown": "[Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)"
+        },
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 1588,
+          "cite_markdown": "[Gothika: De Profundis (26:28)](https://youtu.be/Gx2740if0Ho?t=1588)"
+        }
+      ],
+      "rationale": "La página declara como laguna 'Desarrollo de cada fase: este stub documenta los nombres pero no el contenido mítico de cada una'. Este vídeo articula explícitamente el contenido operativo del ciclo (descenso/rescate del hijo dios/ascenso) y la mecánica de la pasividad lunar (atravesar sin ser destruida) como contraparte estructural del solar. Material genuinamente nuevo respecto al cuerpo leído: la página actual solo enumera fases, no describe la economía afectiva del ciclo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "uranico-telurico-cetonico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "frente a cuándo solo invoca telúrico amenazante (lo terrestre hostil).",
+      "content_proposed": "\n## El equilibrio telúrico como criterio de salud psíquica\n\nEl análisis de [[gothika-2003-film|Gothika]] articula explícitamente el equilibrio entre las tres regiones como **criterio diagnóstico**: la salud psíquica requiere que el yo permanezca integrado entre lo uránico y lo ctónico, con lo telúrico como zona media donde ambos polos se conjugan.\n\n> \"Las internas están desbalanceadas hacia la intuición: los monstruos ctónicos se apoderaron de su psique\"\n→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)\n\n> \"Miranda está desbalanceada hacia el intelecto: demasiada frialdad uránica la desconecta de la naturaleza\"\n→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)\n\n> \"El equilibrio telúrico entre lo uránico-celestial y lo ctónico-profundo es necesario para ambas partes\"\n→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)\n\nLa articulación confirma que la triada opera no solo como mapa cosmológico descriptivo sino como **eje de integración psíquica**: el desequilibrio hacia cualquier polo produce patología. La psiquiatra hiperracional pierde contacto con la naturaleza; la paciente intuitiva pierde contacto con la realidad. La codificación cromática del film fija el esquema: el rojo señala el mal ctónico (\"insinuaciones del mal, fuego, alerta y sufrimiento\"), el amarillo marca el límite donde debería haber conjugación telúrica, el gris viste a quienes han perdido identidad dentro del polo no integrado.\n\n> \"El amarillo marca el límite entre lo uránico y lo ctónico donde debería haber conjugación\"\n→ [Gothika: De Profundis (25:26)](https://youtu.be/Gx2740if0Ho?t=1526)\n",
+      "wikilinks_introduced": [
+        "gothika-2003-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 1313,
+          "cite_markdown": "[Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)"
+        },
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 1526,
+          "cite_markdown": "[Gothika: De Profundis (25:26)](https://youtu.be/Gx2740if0Ho?t=1526)"
+        }
+      ],
+      "rationale": "La página declara como laguna 'Equilibrio entre las tres regiones: queda implícito que la salud psíquica integra las tres pero el corpus aún no articula explícitamente el equilibrio de la triada'. Este vídeo articula la triada operativamente como criterio diagnóstico — Miranda hiperuránica vs internas hiperctónicas, equilibrio telúrico como integración. Además fija una codificación cromática (rojo/amarillo/gris) explícitamente correlativa a las regiones, ausente en la página actual. Material no presente en el cuerpo leído.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "uranico-telurico-cetonico",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "supersedes_laguna_text": "Equilibrio entre las tres regiones**: queda implícito que la salud psíquica integra las tres pero el corpus aún no articula explícitamente el equilibrio de la triada",
+      "content_proposed": "Resuelta parcialmente por sección 'El equilibrio telúrico como criterio de salud psíquica' añadida desde Gothika: De Profundis. El canal articula la triada como eje de integración psíquica con desequilibrios diagnosticables (hiperuránico / hiperctónico) y zona telúrica como conjugación.",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El insert acompañante aporta justamente lo que la laguna declaraba como ausente: articulación explícita del equilibrio entre las tres regiones, no solo del par uránico/ctónico.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "lo que articula la tipología como dinámica de individuación femenina.",
+      "content_proposed": "\n## Articulación complementaria: gracia, belleza y esperanza como dones\n\nUna articulación complementaria del polo sano femenino aparece en el análisis de [[gothika-2003-film|Gothika]]: junto a la tripartición gracia/consorte/madre como **roles arquetípicos**, el canal nombra una tripartición de **dones** que la diosa porta como naturaleza:\n\n> \"Los tres dones de lo femenino: gracia, belleza y esperanza\"\n→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)\n\n> \"La gracia es la capacidad natural de conectar y comprender sin hablar\"\n→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)\n\n> \"La belleza es ser depositaria de la hermosura y embellecer todo lo que rodea a lo femenino\"\n→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)\n\n> \"La esperanza completa la trinidad que define la naturaleza arquetípica de la diosa\"\n→ [Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)\n\nLas dos triparticiones operan en planos distintos sin contradecirse: gracia/consorte/madre describe **fases vitales** del recorrido femenino (juventud no erótica → erotismo → maternidad plena), mientras gracia/belleza/esperanza describe **dones permanentes** que la naturaleza otorga a lo femenino arquetípico independientemente de la fase. La gracia aparece en ambas listas como su pieza más estable — capacidad de conectar y comprender sin discurso — lo que la sitúa como núcleo del polo sano. La aplicación operativa en Gothika fija el criterio diagnóstico: Miranda ha sustituido la gracia por la racionalidad, lo que la convierte en *diosa desequilibrada* que cuida con espada en lugar de don.\n\n> \"Ha sustituido la gracia femenina por la racionalidad como herramienta principal para cuidar\"\n→ [Gothika: De Profundis (18:05)](https://youtu.be/Gx2740if0Ho?t=1085)\n",
+      "wikilinks_introduced": [
+        "gothika-2003-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 1025,
+          "cite_markdown": "[Gothika: De Profundis (17:05)](https://youtu.be/Gx2740if0Ho?t=1025)"
+        },
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 1085,
+          "cite_markdown": "[Gothika: De Profundis (18:05)](https://youtu.be/Gx2740if0Ho?t=1085)"
+        }
+      ],
+      "rationale": "La página articula la tripartición gracia/consorte/madre como roles vitales. El vídeo añade una tripartición distinta y complementaria — gracia/belleza/esperanza como dones permanentes de la naturaleza femenina — que NO está presente en la página actual ni se deriva de la tripartición de roles. El cruce operativo (Miranda como diosa que ha perdido la gracia-don sustituyéndola por racionalidad/espada) es nuevo material diagnóstico para la tipología.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Gothika: De Profundis** — chunks: [28:28](https://youtu.be/Gx2740if0Ho?t=1708) · [37:13](https://youtu.be/Gx2740if0Ho?t=2233) · [54:29](https://youtu.be/Gx2740if0Ho?t=3269)",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 1708,
+          "cite_markdown": "[Gothika: De Profundis (28:28)](https://youtu.be/Gx2740if0Ho?t=1708)"
+        },
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 2233,
+          "cite_markdown": "[Gothika: De Profundis (37:13)](https://youtu.be/Gx2740if0Ho?t=2233)"
+        },
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 3269,
+          "cite_markdown": "[Gothika: De Profundis (54:29)](https://youtu.be/Gx2740if0Ho?t=3269)"
+        }
+      ],
+      "rationale": "cita-only — la página ya tiene Man of Steel y El Gran Lebowski como recorridos completos de los 22 Arcanos; añadir Gothika como prosa sería redundante. Pero el vídeo aplica operativamente al menos cinco arcanas distintas (Emperador, Hierofante, Loco, Fuerza, Luna) a personajes y momentos del film: timestamps añadidos para retrieval indirecto vía SQLite. Editorial_intent: enriquecer cobertura de citas sin tocar prosa.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "dragon-arquetipo",
+      "update_type": "append_to_section",
+      "anchor_passage": "",
+      "section_target": "Citations",
+      "content_proposed": "- **Gothika: De Profundis** — chunks: [25:57](https://youtu.be/Gx2740if0Ho?t=1557) · [1:25:56](https://youtu.be/Gx2740if0Ho?t=5156) · [1:37:04](https://youtu.be/Gx2740if0Ho?t=5824)",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 1557,
+          "cite_markdown": "[Gothika: De Profundis (25:57)](https://youtu.be/Gx2740if0Ho?t=1557)"
+        },
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 5156,
+          "cite_markdown": "[Gothika: De Profundis (1:25:56)](https://youtu.be/Gx2740if0Ho?t=5156)"
+        },
+        {
+          "video_id": "Gx2740if0Ho",
+          "timestamp_seconds": 5824,
+          "cite_markdown": "[Gothika: De Profundis (1:37:04)](https://youtu.be/Gx2740if0Ho?t=5824)"
+        }
+      ],
+      "rationale": "cita-only — la página ya cubre el dragón como avatar del caos, como concupiscencia (Excalibur) y como adversario que existe para ser vencido. La aplicación en Gothika (el marido/policía como verdadero dragón, la espada del intelecto que no atraviesa al fantasma, el ánima sola que engaña al dragón con la tubería de gas) es otra instancia ilustrativa pero no aporta matiz arquetípico nuevo. Citas añadidas para retrieval indirecto.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "ánima sola",
+      "reason_code": "already_captured",
+      "reason_detail": "El concepto 'ánima sola' aparece tematizado en este vídeo pero la página anima-archetype.md ya tiene un bullet específico sobre 'En Gothika' con cita literal a este video_id (51:58 / t=3118) en su sección 'El \"ánima sola\": una formulación específica del canal'. La promoción de anima-sola como concept page autónoma queda como decisión editorial pendiente del propietario (whitelist soft auto_promote:false): este vídeo refuerza el caso pero no inicia decisión. Re-añadir prosa sería duplicado.",
+      "quote_evidence": "El ánima sola: el arquetipo femenino condenado al purgatorio",
+      "review_priority": "medium",
+      "review_priority_reason": "El uso operativo sostenido del 'ánima sola' como marco articulador de Gothika podría justificar reabrir la cuestión de promover anima-sola como concept page autónoma (whitelist soft → activa). Acumulando casos en discard_log queda registrado para el revisor.",
+      "enriches_concept": "anima-archetype",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "fuente de Galadriel",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención ilustrativa única del 'espejo femenino' como función arquetípica de la diosa. No hay análisis dedicado de Galadriel en este vídeo; aparece solo como ejemplo cinematográfico ya tratado en otras páginas del canal (el-senor-de-los-anillos).",
+      "quote_evidence": "La fuente de Galadriel como ejemplo del espejo femenino: la diosa ayuda a las criaturas a verse a sí mismas a través de ella",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anima-archetype",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mulholland Drive",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa final como otra película donde la psique rota construye su propia realidad. Sin análisis sustantivo en este vídeo. Se cita junto a 'El día de la marmota' como casos del marco interpretativo 'toda película puede ser delirio del protagonista'.",
+      "quote_evidence": "Como en El día de la marmota o Mulholland Drive: el individuo lucha con las herramientas de su propia psique",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-moderno-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El día de la marmota",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa única, agrupada con Mulholland Drive como ejemplo del marco 'la película como vivencia subjetiva del protagonista'. Sin análisis sustantivo.",
+      "quote_evidence": "Como en El día de la marmota o Mulholland Drive: el individuo lucha con las herramientas de su propia psique",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-moderno-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Halle Berry",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota sobre la actriz necesitando terapia tras el rodaje. Sin valor arquetípico ni psicológico estructural — solo apoyo testimonial al punto sobre la intensidad de la vivencia psicótica simulada.",
+      "quote_evidence": "Halle Berry supuestamente necesitó terapia tras el rodaje por miedo a perder la razón de verdad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Miranda Grey",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista de Gothika. Su análisis arquetípico vive en la página entity_work gothika-2003-film, no como entidad propia.",
+      "quote_evidence": "Miranda como diosa desequilibrada: exceso de espada, ausencia de gracia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rachel Parsons",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje fantasma de Gothika. Su lectura arquetípica como una de las tres diosas vive en la página entity_work gothika-2003-film.",
+      "quote_evidence": "Rachel Parsons resulta ser la hija muerta del director psiquiátrico: falleció hace cuatro años",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pete",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje secundario de Gothika (joven aprendiz / loco del tarot). Su lectura como Loco-héroe vive en la página entity_work gothika-2003-film.",
+      "quote_evidence": "El loco se convierte en héroe: Pete investiga la verdad en silencio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "cuadro esquizoafectivo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto clínico estándar (DSM) que el speaker usa pedagógicamente para distinguir psicosis de trastorno mental no psicótico en contexto del análisis de Gothika. No se promueve como página autónoma — los conceptos técnicos clínicos no son objeto enciclopédico del wiki (scope.md §1.2). El speaker no articula tesis propia sobre el cuadro, lo expone como aparato neutro.",
+      "quote_evidence": "Lo esquizoafectivo es la primera puerta a la locura: síntomas psicóticos acompañando un cuadro afectivo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "psicosis",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto clínico estándar usado como aparato. El speaker hace una distinción operativa (psicosis anula vs trastorno mental distorsiona) que sí es pedagógicamente articulada, pero opera como herramienta para leer Gothika, no como tesis propia. El material va a la página gothika-2003-film como contenido del análisis, no a una página autónoma de psicosis.",
+      "quote_evidence": "La psicosis impide al yo conectar con la realidad mediante delirios o alucinaciones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "confabulación",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto neurocognitivo estándar (mecanismo de fabricación de recuerdos coherentes). El speaker lo usa como herramienta interpretativa de Gothika ('la mente prefiere coherencia a verdad') sin articular tesis propia. Material va a la página de Gothika.",
+      "quote_evidence": "La confabulación: la mente prefiere coherencia a verdad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "TID / disociación",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El vídeo menciona la disociación como hipótesis interpretativa final ('Miranda siempre reprimió recuerdos de haber sido también víctima de Duck y la disociación la exime'). La página tid-personaje-en-proxy ya cubre la articulación del canal sobre TID; este uso aplicado a Gothika es ilustrativo pero no aporta matiz nuevo a la teoría — va al cuerpo de la página gothika-2003-film como una de las tres lecturas posibles del final.",
+      "quote_evidence": "Miranda siempre reprimió recuerdos de haber sido también víctima de Duck y la disociación la exime",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tid-personaje-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 6,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Gothika] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

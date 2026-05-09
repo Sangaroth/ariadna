@@ -340,6 +340,29 @@ El canal sitúa a Beauvoir en la cadena genealógica de la degeneración postmod
 
 
 
+## El wokismo como herramienta política: élites, victimismo y movilización de masas
+
+El canal extiende el aparato más allá del diagnóstico cultural-narrativo y meta-ético: el wokismo opera también como **herramienta política instalada deliberadamente** por élites supranacionales, donde el victimismo funciona como infraestructura de movilización de bases.
+
+> "Las élites supranacionales introdujeron el wokismo, financiaron los movimientos y compraron a los políticos que vieron que esos movimientos daban votos y dinero"
+→ [Ha vuelto a ocurrir (1:27:15)](https://youtu.be/C0Io49giVY8?t=5235)
+
+> "El victimismo funcionó como herramienta de marketing, movilización de bases y reafirmación grupal a escala masiva"
+→ [Ha vuelto a ocurrir (1:27:15)](https://youtu.be/C0Io49giVY8?t=5235)
+
+> "El wokismo ha sido como una peste cultural deliberadamente introducida"
+→ [Ha vuelto a ocurrir (1:27:15)](https://youtu.be/C0Io49giVY8?t=5235)
+
+La pieza añade un eslabón genealógico-instrumental: el dispositivo retórico-político del victimismo es **isomorfo en movimientos plurales** que comparten estructura — el canal lo nombra explícitamente como el mismo mecanismo en independentismo catalán, separatismo vasco y movimiento woke contemporáneo:
+
+> "El mismo mecanismo que usaron el independentismo catalán, el separatismo vasco y el movimiento woke"
+→ [Ha vuelto a ocurrir (1:14:51)](https://youtu.be/C0Io49giVY8?t=4491)
+
+La precisión cierra una dimensión que el aparato anterior tematizaba solo como diagnóstico cultural-narrativo. Si el [[camino-victima|camino de la víctima]] articula la posición de víctima como matriz narrativa de la psique regresiva, y si las cuatro características diagnósticas articulan su síntoma cultural, esta sección fija su función como **infraestructura de movilización política**: la posición de víctima como combustible de cohesión grupal explotable por actores con interés convergente. La operación es deliberada y financiada, no emergencia espontánea — el woke entra al sistema cultural por inyección, sale por movilización electoral. La isomorfía con independentismos territoriales precisa además que el dispositivo no es ideológicamente woke en sustancia: es la mecánica del victimismo identitario aplicable a cualquier sustrato.
+
+
+
+
 
 ## Lagunas
 
@@ -349,6 +372,7 @@ El canal sitúa a Beauvoir en la cadena genealógica de la degeneración postmod
 - **Frontera con la fábula**: el canal afirma que la fábula no requiere contenido arquetípico explícito pero "termina volcándolo naturalmente". El criterio que distingue una fábula sana de una obra woke con apariencia de fábula no se desarrolla operativamente
 
 ## Citations
+
 
 
 
@@ -373,4 +397,5 @@ El canal sitúa a Beauvoir en la cadena genealógica de la degeneración postmod
 
 - **Elisa y su CI** — chunks: [07:50](https://youtu.be/6tfSc45kjyo?t=470) · [29:39](https://youtu.be/6tfSc45kjyo?t=1779)
 - **¿Es ciencia la psicología?** — chunks: [21:23](https://youtu.be/1cF9VayHtRI?t=1283) · [28:24](https://youtu.be/1cF9VayHtRI?t=1704) · [37:32](https://youtu.be/1cF9VayHtRI?t=2252)
+- **Ha vuelto a ocurrir.** — chunks: [1:14:51](https://youtu.be/C0Io49giVY8?t=4491)
 

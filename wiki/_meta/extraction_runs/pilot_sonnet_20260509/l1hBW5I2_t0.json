@@ -1,0 +1,158 @@
+{
+  "video_id": "l1hBW5I2_t0",
+  "video_title": "Ha vuelto a ocurrir. Otra vez.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Descarrilamiento de Rodalíes en Gélida (R4)",
+      "reason_code": "political_news",
+      "reason_detail": "Reporte de noticia sobre incidente ferroviario coyuntural en Cataluña (caída de muro sobre vía, número de heridos, dispositivo de emergencia). Sin marco teórico aplicado: pasa el test de la cápsula del tiempo de scope.md §3.1 — si retiras los nombres geográficos y la cifra de heridos, no queda tesis estructural.",
+      "quote_evidence": "Un tren de la R4 dirección Manresa descarrila entre Gélida y Martorell por la caída de un muro sobre la vía",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Kit de supervivencia para viajar en tren",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Recomendaciones prácticas-instrumentales del speaker (botiquín, linterna Fénix, barritas, power bank) en respuesta a los accidentes. Contenido divulgativo-utilitario sin valor enciclopédico ni componente arquetípico-cultural en alcance del wiki (scope.md §3.3).",
+      "quote_evidence": "Botiquín compacto tipo cero con betadine, vendas, gasas, pinzas y analgésicos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Accidente del AVE / Koldo García",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre causa específica del accidente AVE (vía renovada con material usado, vinculación de la empresa contratada con figura ligada a la trama de corrupción del PSOE). Actualidad partidista coyuntural; pasa el test de la cápsula del tiempo. La afirmación técnica sobre soldaduras es divulgativa neutra sin marco arquetípico aplicado.",
+      "quote_evidence": "La empresa contratada para la renovación estaría vinculada a Koldo García",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Proyecto de merchandising con Spread Shop",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio de proyecto comercial del canal: camisetas, tazas, gorras, bolsas, pósters con ilustraciones del libro Polaris y del grimorio. Contenido promocional explícito (scope.md §3.3 categoría 'Promoción / patrocinio'). No genera material enciclopédico aunque referencie obras propias del canal (Polaris, grimorio).",
+      "quote_evidence": "Propuesta de camisetas, tazas, gorras, bolsas de tela y pósters con ilustraciones del libro Polaris",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Brainstorming de productos con la audiencia",
+      "reason_code": "promo",
+      "reason_detail": "Continuación del bloque promocional anterior: brainstorming en directo sobre diseños específicos (22 símbolos alquimia, chibis, '222 con patos', 'Proxy disociando'). Co-creación comercial entre canal y audiencia, sin valor enciclopédico.",
+      "quote_evidence": "Propuesta de colección de tazas con los 22 símbolos de alquimia del grimorio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tercer descarrilamiento RG1 (Tordera-Maçanet)",
+      "reason_code": "political_news",
+      "reason_detail": "Reporte secuencial del tercer incidente ferroviario coyuntural de la noche. Mismo régimen que los dos anteriores: cifra de afectados + dispositivo de rescate, sin marco teórico aplicado.",
+      "quote_evidence": "Un tren de la RG1 se sale de la vía entre Tordera y Maçanet-Massanes por impacto con una roca",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a Sánchez y Bonilla en comparecencia",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Comentario directo sobre actitud y expresión facial de presidente del gobierno y ministro en comparecencia tras los accidentes. Actualidad partidista coyuntural sin marco teórico. Bloque matchea hard filter de topic_filters.json (regex sobre 'sánchez') — registrado también en blocks_filtered_by_topic_filters para audit.",
+      "quote_evidence": "Asco por la actitud de Sánchez en la comparecencia, con cara de \"me estáis jodiendo otra vez\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La izquierda se ha autohumillado tanto que rectificar evidenciaría su incompetencia",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Tesis política coyuntural sobre rigidez retórica de 'la izquierda' como bloque. Sin distinción ideológico-tradicional ni marco psicológico-arquetípico estructural; comentario táctico sobre coyuntura comunicativa. Pasa el test §3.1 #5 (comentario sobre actualidad partidista sin marco teórico aplicado).",
+      "quote_evidence": "La izquierda se ha autohumillado tanto que rectificar una sola vez evidenciaría su incompetencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pedir no politizar es en sí mismo un acto de politización",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Observación retórica puntual sobre uso pragmático del lenguaje en debate político tras tragedia. Sin desarrollo ni marco teórico (no es lectura sociológica del fenómeno meta-comunicativo), solo formulación incidental.",
+      "quote_evidence": "Denuncia de que pedir no politizar es en sí mismo un acto de politización",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tarot sintético con glifos del grimorio (proyecto)",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio de proyecto comercial-creativo: diseñar una baraja completa de tarot con los símbolos alquímicos del grimorio, complemento del oráculo previo. Bloque mayoritariamente promocional; el contenido conceptual sobre tarot ya está cubierto en tarot-arquetipico.md (Marsella, Rider-Waite, Man of Steel, El Gran Lebowski). El proyecto del canal no aporta articulación arquetípica nueva.",
+      "quote_evidence": "Propuesta de tarot sintético con muñecos de palo y símbolos alquímicos del grimorio",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hombre palo con espada como instrumento del camino telúrico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Glosa breve durante el brainstorming del tarot del grimorio: el speaker explica un símbolo concreto ('el hombre palo con espada / cruceta') como representación del 'instrumento del camino telúrico' y del 'intelecto que transforma el mundo en herramientas'. Articulación incidental dentro de un bloque promo, sin desarrollo sostenido. La página uranico-telurico-cetonico ya articula la triada operativa; el matiz 'instrumento como capacidad transformadora con intelecto' es interesante pero insuficientemente desarrollado en este vídeo para enriquecer la prosa. Registrado para acumulación de evidencia.",
+      "quote_evidence": "El hombre palo con espada (cruceta) versus palo representa el instrumento del camino telúrico",
+      "review_priority": "medium",
+      "review_priority_reason": "El binomio 'camino telúrico / instrumento como capacidad transformadora del intelecto' añadiría una dimensión nueva a uranico-telurico-cetonico (lo telúrico no solo como zona media de equilibrio sino como sede del instrumento humanizador). Si reaparece sustantivamente en otro vídeo, merece insert prosa.",
+      "enriches_concept": "uranico-telurico-cetonico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Laboratorios en directo (Ariadna, máquina de sueños)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de futuros directos del canal sobre proyectos técnicos del corpus extendido (montaje de circuitos cognitivos, máquina de sueños). Meta-canal: información sobre el calendario y los proyectos del proyecto Proxy/Ariadna, no contenido temático arquetípico. Cuando esos directos ocurran y articulen tesis, se procesarán entonces.",
+      "quote_evidence": "Laboratorio con Ariadna sobre montaje de circuitos cognitivos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp": "1:06:45",
+      "block_title": "Crítica a la comparecencia política tras los accidentes",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_tokens": [
+        "Sánchez"
+      ],
+      "filter_scope": "block",
+      "audit_reason": "Bloque matchea regex de actualidad política española al nombrar literalmente a Sánchez en la frase 'Asco por la actitud de Sánchez en la comparecencia, con cara de \"me estáis jodiendo otra vez\"'. Comentario táctico sobre actitud comunicativa de figura política contemporánea sin marco teórico aplicado. Registrado en filtered_blocks_log conforme al policy_notes de topic_filters.json (no se silencia, se audita)."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 1,
+    "yield_note": "Vídeo de bajo rendimiento enciclopédico: ~80% del contenido es actualidad ferroviaria coyuntural (4 bloques sobre tres descarrilamientos en Cataluña + accidente AVE) y proyectos comerciales del canal (3 bloques sobre merchandising Spread Shop, tarot del grimorio, futuros laboratorios). Solo aparece un fragmento arquetípico potencialmente productivo (el 'instrumento del camino telúrico' en 1:10:21) pero insuficientemente desarrollado para mover prosa de wiki. Sin entidades promovidas ni updates sustantivos; el vídeo entero opera más como bisagra logística-emocional del canal que como contenido temático."
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

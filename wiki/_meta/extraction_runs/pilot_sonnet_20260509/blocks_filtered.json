@@ -3,6 +3,54 @@
   "run_id": "pilot_sonnet_20260509",
   "items": [
     {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "block_quote": "El PSOE no está sometido al principio de legalidad real porque el Tribunal Constitucional es su última instancia y lo controla",
+        "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+        "reason": "Mención directa a partido PSOE en discusión coyuntural sobre control institucional"
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "block_quote": "Si la tensión escala hasta cortes constituyentes, la nueva constitución la redactaría el PPSOE y sería peor que la actual",
+        "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+        "reason": "Mención a 'PPSOE' (PP+PSOE) — actualidad partidista. Aunque el bloque también está capturado por gisbertocracia pending_update por el ángulo Gisbert"
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "block_quote": "Sánchez incluye las ayudas en los presupuestos generales del Estado",
+        "matched_pattern": "(?i)\\b(...|s[aá]nchez|...)\\b",
+        "reason": "Mención directa a Pedro Sánchez (figura política partidista) en contexto coyuntural"
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "block_quote": "Un consejero de RTVE confirma que Zapatero, Óscar López, Félix Bolaños y otros orquestaron el fichaje de Broncano",
+        "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+        "reason": "Bloque sobre estrategia mediática del PSOE — politiqueo coyuntural"
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "block_quote": "El Consejo de Administración pasa de 11 a 15 miembros con sueldos de 100.000€ anuales y se reduce el peso conservador",
+        "matched_pattern": "(?i)\\b(...|pp\\b|psoe|...)\\b",
+        "reason": "Bloque sobre reforma RTVE PP/PSOE — politiqueo institucional"
+      }
+    },
+    {
+      "from_video": "DNHgjIgU_-c",
+      "block": {
+        "block_quote": "Un solo magistrado del PSOE cambió la mayoría que antes declaró ilegal el estado de alarma",
+        "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+        "reason": "Análisis de doctrina TC en contexto partidista PSOE"
+      }
+    },
+    {
       "from_video": "t8v5w3s0USA",
       "block": {
         "block_title": "El audio filtrado de Pedro Sánchez con Santos Cerdán y Leire",

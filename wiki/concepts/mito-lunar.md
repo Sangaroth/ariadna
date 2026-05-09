@@ -77,6 +77,27 @@ El mito solar y el lunar forman un dipolo simétrico con secuencias de sentido i
 
 Donde el [[mito-solar]] comienza por la caída y termina en la apoteosis, el mito lunar comienza por el despertar (*égersis*) y termina en el exorcismo. Esta inversión estructural refleja la distinción entre el principio masculino cíclico (dios solar, uránico-celeste) y el principio femenino cíclico (diosa lunar, ctónica-profunda).
 
+## Mecánica operativa del ciclo: descenso, rescate y ascenso
+
+El análisis de [[gothika-2003-film|Gothika]] articula el contenido operativo del ciclo lunar más allá de su nomenclatura: la diosa **desciende cada noche a los infiernos a rescatar a su hijo dios y asciende para volver a empezar**.
+
+> "La diosa desciende cada noche a rescatar a su hijo dios y asciende para volver a empezar"
+→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)
+
+> "El hijo dios es arrancado del seno materno y se desliza por el río del espíritu por ser demasiado joven"
+→ [Gothika: De Profundis (26:28)](https://youtu.be/Gx2740if0Ho?t=1588)
+
+La pieza precisa un mecanismo psíquico específico de la pasividad lunar: el poder de la diosa **no es derrotar al dragón** — esa es la economía solar — sino atravesarlo sin que la experiencia la destruya. Lo femenino *vive la experiencia sin que la experiencia le cambie para mal*, contraparte exacta del recorrido solar de caída-camino-muerte-apoteosis donde el héroe sí es transformado por la prueba.
+
+> "El poder de la diosa no es derrotar al dragón sino que le atraviese sin quedar destruida"
+→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)
+
+> "Lo femenino es pasivo: vive la experiencia sin que la experiencia le cambie para mal"
+→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)
+
+La articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.
+
+
 ## Posición cosmológica: el eje ctónico
 
 El mito lunar pertenece al registro **ctónico** del sistema de tres niveles que el canal articula:

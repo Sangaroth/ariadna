@@ -166,3 +166,5 @@ El canal lee la muerte voluntaria del padre adoptivo como enseñanza arquetípic
 ## Citations
 
 - video_id: `HgLlH8Ta2qk` — Análisis arquetípico El Hombre de Acero
+
+- **Ha vuelto a ocurrir.** — chunks: [48:40](https://youtu.be/C0Io49giVY8?t=2920)

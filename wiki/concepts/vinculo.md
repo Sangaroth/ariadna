@@ -120,6 +120,8 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
 - **El Hate Bombing de la izquierda.** — chunks: [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767) · [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979)
 - **El síndrome de Wendy** — chunks: [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
+- **Ha vuelto a ocurrir.** — chunks: [1:34:59](https://youtu.be/C0Io49giVY8?t=5699)
 

@@ -126,10 +126,31 @@ La triada se aplica también a elementos naturales leídos simbólicamente. El m
 
 La lectura permite identificar cuándo una obra invoca cetónico genuino (las profundidades del corazón humano, el inconsciente como abismo) frente a cuándo solo invoca telúrico amenazante (lo terrestre hostil).
 
+
+## El equilibrio telúrico como criterio de salud psíquica
+
+El análisis de [[gothika-2003-film|Gothika]] articula explícitamente el equilibrio entre las tres regiones como **criterio diagnóstico**: la salud psíquica requiere que el yo permanezca integrado entre lo uránico y lo ctónico, con lo telúrico como zona media donde ambos polos se conjugan.
+
+> "Las internas están desbalanceadas hacia la intuición: los monstruos ctónicos se apoderaron de su psique"
+→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)
+
+> "Miranda está desbalanceada hacia el intelecto: demasiada frialdad uránica la desconecta de la naturaleza"
+→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)
+
+> "El equilibrio telúrico entre lo uránico-celestial y lo ctónico-profundo es necesario para ambas partes"
+→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)
+
+La articulación confirma que la triada opera no solo como mapa cosmológico descriptivo sino como **eje de integración psíquica**: el desequilibrio hacia cualquier polo produce patología. La psiquiatra hiperracional pierde contacto con la naturaleza; la paciente intuitiva pierde contacto con la realidad. La codificación cromática del film fija el esquema: el rojo señala el mal ctónico ("insinuaciones del mal, fuego, alerta y sufrimiento"), el amarillo marca el límite donde debería haber conjugación telúrica, el gris viste a quienes han perdido identidad dentro del polo no integrado.
+
+> "El amarillo marca el límite entre lo uránico y lo ctónico donde debería haber conjugación"
+→ [Gothika: De Profundis (25:26)](https://youtu.be/Gx2740if0Ho?t=1526)
+
+
 ## Lagunas
 
 - **Uránico desarrollado**: el material recuperado articula con detalle telúrico y cetónico (porque el vídeo trata dragones y demonios) pero deja lo uránico apenas definido. Falta tratamiento sustantivo de qué obras encarnan lo uránico-mercurial puro
 - **Tradiciones no occidentales**: la triada se enuncia desde marco grecolatino-cristiano-alquímico. Sin contraste con cosmologías verticales orientales (monte Meru hindú, axis mundi siberiano) que el canal podría tener pero no aparece aquí
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Equilibrio entre las tres regiones**: queda implícito que la salud psíquica inte -->
 - **Equilibrio entre las tres regiones**: queda implícito que la salud psíquica integra las tres pero el corpus aún no articula explícitamente el equilibrio de la triada (a diferencia del par uránico/ctónico que sí aparece tematizado en otras lecturas del canal)
 
 ## Citations
