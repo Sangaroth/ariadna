@@ -1,0 +1,456 @@
+{
+  "video_id": "L7oSZTTK8Gg",
+  "video_title": "El síndrome de Wendy",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "síndrome de Wendy",
+      "canonical_guess": "sindrome-wendy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "primary",
+      "minutes_estimate": 95,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Wendy surge cuando la princesa empieza a sentir la necesidad de ser deseada y amada"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Peter Pan tiene nombre de sátiro: Pan era un sátiro, equivalente masculino de la ninfa"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El afecto que interviene en la conexión Wendy-niño perdido es el pánico: búsqueda del vínculo incondicional"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Hay que aprender a pedir en lugar de tratar al otro de gratis como quieres que te trate"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La parte femenina se vincula proyectivamente: trato al otro como quiero ser tratada"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La parte masculina se vincula mediante intercambio: compensación mutua"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Vídeo monográfico de 129 min sobre Wendy con ≈95 min sostenidos articulando refinamientos sustantivos al marco de sindrome-wendy: (a) lugar arquetípico preciso (transición doncella→consorte, no genéricamente 'antes de la maduración'); (b) Peter Pan como sátiro y la colusión Wendy-Peter Pan como dinámica relacional distinta de la colusión héroe-ninfa; (c) Campanilla como polo ninfa proyectado; (d) pánico como afecto rector (conecta Wendy con la batería de siete sistemas afectivos de Galatea/Panksepp); (e) salida operativa del síndrome (aprender a pedir, integrar la sombra, reconocer los tres dones: ternura/esperanza/gracia); (f) vinculación proyectiva (femenina) vs vinculación de intercambio (masculina) como asimetría estructural; (g) padre frágil heredado y miedo al fracaso simétrico al sindrome-del-nino-masculino. La prosa actual cubre la mutación Artemisa→Afrodita y el umbral vampírico; el monográfico resuelve la laguna 'Vías de salida' con mecanismos concretos (aprender a pedir + integración junguiana de los tres dones) y añade la articulación afectiva (pánico) que la página no tenía. Justifica prose update con nuevas secciones, no solo cite-only",
+      "quote_evidence": "Wendy surge cuando la princesa empieza a sentir la necesidad de ser deseada y amada"
+    },
+    {
+      "surface_form": "tres figuras neutrales / Medea como núcleo genuinamente femenino / Friends cuatro formas",
+      "canonical_guess": "tipologia-femenina-arquetipica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La doncella encarna el don de la gracia: desenvolverse en el mundo con naturalidad"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Medea utiliza a los hijos como vehículo de su neurosis"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Friends contiene las cuatro formas de la feminidad y las tres formas de lo masculino"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo aplica operativamente la tipología tres-aspectos / cinco-corrupciones: (38:06) doncella/consorte/madre con Atenea como prototipo de doncella; (40:43) corrupciones como versión arquetípica dañada; (1:54:51) Medea como núcleo genuinamente femenino sin contraparte masculina genuina (refinamiento sobre la lectura del page que la sitúa solo como 'corrupción de la madre'); (2:00:03) Friends como caso operativo que contiene las cuatro formas de la feminidad. La prosa de tipologia-femenina-arquetipica ya cubre exhaustivamente la tipología y sus casos diferenciales en otro directo previo (Vacacioff parte II). Aquí basta cita-only para retrieval indirecto",
+      "quote_evidence": "Medea utiliza a los hijos como vehículo de su neurosis"
+    },
+    {
+      "surface_form": "Peter Pan como sátiro / ninfas que fingen Wendy",
+      "canonical_guess": "colusion-heroe-ninfa",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Peter Pan tiene nombre de sátiro: Pan era un sátiro, equivalente masculino de la ninfa"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Muchas ninfas fingen ser Wendy: dan amor y dedicación pero se indignan si no recibes deseo inflamado"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo extiende el marco de colusion-heroe-ninfa con dos piezas complementarias: (a) Peter Pan como sátiro = equivalente masculino de la ninfa, articulando que la colusión Wendy-Peter Pan es UN TIPO DE colusión sátiro-Wendy (variante de la dinámica nombrada como Wendy-tirano en el page, pero con Peter Pan-niño-eterno en lugar de tirano-adulto); (b) criterio diferencial fino: ninfas que fingen Wendy (dan amor pero se indignan si no hay deseo inflamado) — refina la 'distinción Wendy/Ninfa por motivación' del page y aporta test operativo de detección. La prosa central queda en el page actual; aquí cita-only",
+      "quote_evidence": "Peter Pan tiene nombre de sátiro: Pan era un sátiro, equivalente masculino de la ninfa"
+    },
+    {
+      "surface_form": "padre frágil / búsqueda de madres oscuras / MGTOW",
+      "canonical_guess": "sindrome-del-nino-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La relación del varón con un padre frágil provoca miedo al fracaso y a no ser considerado hombre"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los MGTOW son hombres muy dañados por experiencias con ninfas: buscan la madre que no tuvieron"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El evento canónico de cualquier hombre es la ruptura con la madre"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo articula la simetría con sindrome-del-nino-masculino: el evento canónico masculino (ruptura con la madre — 1:00:36), la etiología paterno-frágil que produce búsqueda de madres oscuras (1:15:22), MGTOW como caso clínico extremo de varones dañados por ninfas que buscan la madre que no tuvieron, y el rol del varón frente a Wendy (enfrentar el mal solo, asumir posibilidad de fracaso sin amor incondicional al otro lado — 1:21:29). Cita-only conecta el page con el monográfico de Wendy desde el polo masculino simétrico",
+      "quote_evidence": "Los MGTOW son hombres muy dañados por experiencias con ninfas: buscan la madre que no tuvieron"
+    },
+    {
+      "surface_form": "vinculación de intercambio (masculina) / vincularse como padre",
+      "canonical_guess": "adgrediere-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La parte masculina se vincula mediante intercambio: compensación mutua"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Vincularse como padre es querer construir algo en el otro: hacer de él un hombre o un héroe"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo articula la vinculación masculina como intercambio (compensación mutua) y el modo padre como construcción del otro (hacer de él un hombre o un héroe), oponiéndolas a la vinculación proyectiva femenina. Encaja con el adgrediere maduro: avanzar contra la oposición incluye construir la firmeza del otro como pieza del propio movimiento. Cita-only conecta el page con la articulación complementaria del monográfico",
+      "quote_evidence": "Vincularse como padre es querer construir algo en el otro: hacer de él un hombre o un héroe"
+    },
+    {
+      "surface_form": "mito lunar / cinco mitos fundamentales",
+      "canonical_guess": "mito-lunar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La fenomenología de lo femenino está codificada en el mito lunar"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es uno de cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo invoca el mito lunar como contenedor de la fenomenología de lo femenino aplicada al análisis de Wendy. Aporta también una articulación VARIANTE relevante: 'cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago'. La page actual articula SEIS mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis) según el libro Del origen del mal; el monográfico lista CINCO con Héroe en lugar de solar/polar. Variante no contradice la cosmología del libro (el mito del Héroe podría ser otra capa abstrativa, p.ej. el monomito como pieza psico-arquetípica vs los seis cosmológicos), pero merece flag para audit humano. Cita-only con rationale que señale la divergencia",
+      "quote_evidence": "Es uno de cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago"
+    },
+    {
+      "surface_form": "autotipia de Cómo conocí a vuestra madre",
+      "canonical_guess": "autotipo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La autotipia de Cómo conocí a vuestra madre se ha desprendido del contenido prototípico original"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo invoca explícitamente 'autotipia' como categoría del canal: HIMYM como prototipo desprendido de su contenido original (personajes patológicamente infantiles y simplones), opuesto a Friends que sí contiene las cuatro formas de feminidad y tres de masculinidad. Caso ilustrativo limpio del concepto autotipo como prototipo vaciado. Cita-only para retrieval indirecto",
+      "quote_evidence": "La autotipia de Cómo conocí a vuestra madre se ha desprendido del contenido prototípico original"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "sindrome-wendy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "En la lógica del canal, abortar el síndrome es condición previa para cualquier [[hieros-gamos]] real, ya que sin sujeto femenino constituido no hay unión sino captura mutua",
+      "supersedes_laguna_text": "**Vías de salida**: el canal nombra la integración del eterno aventurero como solución pero no expone aquí los mecanismos concretos por los que esa integración ocurre psíquicamente",
+      "wikilinks_introduced": [
+        "colusion-heroe-ninfa",
+        "galatea-modelo-protomente",
+        "shadow-archetype",
+        "sindrome-del-nino-masculino"
+      ],
+      "citations_added": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 2717,
+          "cite_markdown": "[El síndrome de Wendy (45:17)](https://youtu.be/L7oSZTTK8Gg?t=2717)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3022,
+          "cite_markdown": "[El síndrome de Wendy (50:22)](https://youtu.be/L7oSZTTK8Gg?t=3022)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3146,
+          "cite_markdown": "[El síndrome de Wendy (52:26)](https://youtu.be/L7oSZTTK8Gg?t=3146)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3269,
+          "cite_markdown": "[El síndrome de Wendy (54:29)](https://youtu.be/L7oSZTTK8Gg?t=3269)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3330,
+          "cite_markdown": "[El síndrome de Wendy (55:30)](https://youtu.be/L7oSZTTK8Gg?t=3330)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3422,
+          "cite_markdown": "[El síndrome de Wendy (57:02)](https://youtu.be/L7oSZTTK8Gg?t=3422)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3726,
+          "cite_markdown": "[El síndrome de Wendy (1:02:06)](https://youtu.be/L7oSZTTK8Gg?t=3726)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3973,
+          "cite_markdown": "[El síndrome de Wendy (1:06:13)](https://youtu.be/L7oSZTTK8Gg?t=3973)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 4428,
+          "cite_markdown": "[El síndrome de Wendy (1:13:48)](https://youtu.be/L7oSZTTK8Gg?t=4428)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 6231,
+          "cite_markdown": "[El síndrome de Wendy (1:43:51)](https://youtu.be/L7oSZTTK8Gg?t=6231)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 6354,
+          "cite_markdown": "[El síndrome de Wendy (1:45:54)](https://youtu.be/L7oSZTTK8Gg?t=6354)"
+        }
+      ],
+      "content_proposed": "\n\n## Wendy en transición doncella→consorte: la articulación monográfica\n\nEl monográfico del directo *El síndrome de Wendy* (30 ene 2026) refina el lugar arquetípico de Wendy con varias precisiones operativas. La primera es topológica: Wendy NO emerge antes de la maduración sino exactamente en la transición de la primera figura femenina (doncella, gracia natural, Atenea) a la segunda (consorte, mitad armónica, Venus). El sustrato es la concupiscencia que la transición naturalmente activa; la corrupción es la instrumentación de la gracia para captar contacto en lugar del despliegue de la consorte por encuentro real.\n\n> \"Wendy surge cuando la princesa empieza a sentir la necesidad de ser deseada y amada\"\n→ [El síndrome de Wendy (45:17)](https://youtu.be/L7oSZTTK8Gg?t=2717)\n\n> \"La concupiscencia lleva a usar la gracia natural para recibir contacto y establecer vínculos\"\n→ [El síndrome de Wendy (45:17)](https://youtu.be/L7oSZTTK8Gg?t=2717)\n\n> \"Sin correcta relación con el padre arquetípico, Wendy busca fuera una firmeza que desconoce\"\n→ [El síndrome de Wendy (45:17)](https://youtu.be/L7oSZTTK8Gg?t=2717)\n\nLa precisión: Wendy es la corrupción de la transición doncella→consorte cuando esta transición ocurre sin un padre arquetípico firme que dé al yo femenino la firmeza interior con la que reconocería al varón apropiado. La gracia natural — el don de desenvolverse en el mundo con naturalidad — se instrumentaliza para captar contacto y vínculo, pero el yo femenino aún no está constituido como sujeto deseante. El resultado es un vínculo que es proyección, no encuentro.\n\n## Peter Pan como sátiro: la colusión Wendy-niño perdido\n\nEl refinamiento más decisivo del monográfico es el reconocimiento de Peter Pan como **sátiro** — el equivalente masculino de la ninfa. Wendy y Peter Pan son dos seres a medio hacer cuyo encuentro produce una colusión estructural específica, distinta de la [[colusion-heroe-ninfa|colusión héroe-ninfa]] articulada en otros directos.\n\n> \"Wendy no puede identificar al hombre que le conviene porque carece de referentes masculinos firmes\"\n→ [El síndrome de Wendy (50:22)](https://youtu.be/L7oSZTTK8Gg?t=3022)\n\n> \"Peter Pan tiene nombre de sátiro: Pan era un sátiro, equivalente masculino de la ninfa\"\n→ [El síndrome de Wendy (50:22)](https://youtu.be/L7oSZTTK8Gg?t=3022)\n\n> \"Ambos son suficientemente niños para no saber quiénes son pero suficientemente mayores para tener impulsos\"\n→ [El síndrome de Wendy (50:22)](https://youtu.be/L7oSZTTK8Gg?t=3022)\n\nLa colusión opera por proyección bidireccional. Wendy juega a ser madre porque quiere ser tratada así; Peter Pan acepta el papel porque no tiene madre real y proyecta en Wendy el cuidado materno faltante.\n\n> \"Wendy trata a los demás como niños porque quiere ser tratada así: proyección\"\n→ [El síndrome de Wendy (52:26)](https://youtu.be/L7oSZTTK8Gg?t=3146)\n\n> \"Es la madre y el padre que ella nunca tuvo con los niños perdidos\"\n→ [El síndrome de Wendy (52:26)](https://youtu.be/L7oSZTTK8Gg?t=3146)\n\n> \"Wendy proyecta en Peter Pan la imagen de su padre descarriado y angustiado\"\n→ [El síndrome de Wendy (54:29)](https://youtu.be/L7oSZTTK8Gg?t=3269)\n\nCampanilla — la pequeña sensual de los polvos mágicos que ya aparecía en la articulación del análisis de Drácula — completa el cuadro como el polo ninfa que Wendy proyecta hacia fuera de sí en lugar de integrar:\n\n> \"Campanilla busca intensidad y deseo; Wendy busca un vínculo seguro\"\n→ [El síndrome de Wendy (55:30)](https://youtu.be/L7oSZTTK8Gg?t=3330)\n\n> \"Es mejor vincularse como Wendy que como ninfa, aunque la mayoría de Wendys tienen una parte ninfa\"\n→ [El síndrome de Wendy (55:30)](https://youtu.be/L7oSZTTK8Gg?t=3330)\n\nLa codependencia Wendy-Peter Pan es la dinámica relacional terminal: cada uno bloquea la maduración del otro. Si Wendy es madre permanente, Peter Pan no tiene motivo para dejar de ser niño; si Peter Pan no crece, Wendy no puede pasar a ser consorte.\n\n> \"Wendy no deja crecer a Peter Pan: si tiene madre permanente, ¿para qué dejar de ser niño?\"\n→ [El síndrome de Wendy (57:02)](https://youtu.be/L7oSZTTK8Gg?t=3422)\n\n> \"Lo que verdaderamente quiere Wendy es que Peter Pan deje de jugar y se convierta en varón\"\n→ [El síndrome de Wendy (57:02)](https://youtu.be/L7oSZTTK8Gg?t=3422)\n\n## Vinculación proyectiva (femenina) vs vinculación de intercambio (masculina)\n\nLa pieza estructural complementaria distingue dos modos de vincularse asimétricos por sexo, y nombra un tercer modo (el padre):\n\n> \"La parte femenina se vincula proyectivamente: trato al otro como quiero ser tratada\"\n→ [El síndrome de Wendy (1:02:06)](https://youtu.be/L7oSZTTK8Gg?t=3726)\n\n> \"La parte masculina se vincula mediante intercambio: compensación mutua\"\n→ [El síndrome de Wendy (1:02:06)](https://youtu.be/L7oSZTTK8Gg?t=3726)\n\n> \"Vincularse como padre es querer construir algo en el otro: hacer de él un hombre o un héroe\"\n→ [El síndrome de Wendy (1:02:06)](https://youtu.be/L7oSZTTK8Gg?t=3726)\n\nWendy es la cristalización patológica del modo proyectivo cuando opera sin sujeto femenino constituido: la mujer trata al varón como ella querría ser tratada (con cuidado maternal y vínculo seguro), pero el varón necesita el modo masculino de intercambio para reconocer firmeza, no proyección. El desencaje estructural es la fuente del bloqueo.\n\n## Pánico como afecto rector\n\nEl monográfico añade una pieza afectiva que conecta la teoría con la batería de [[galatea-modelo-protomente|siete sistemas afectivos]] del marco propio del canal:\n\n> \"El afecto que interviene en la conexión Wendy-niño perdido es el pánico: búsqueda del vínculo incondicional\"\n→ [El síndrome de Wendy (1:43:51)](https://youtu.be/L7oSZTTK8Gg?t=6231)\n\n> \"El anhelo de retorno a la madre es la fuerza motriz de la codependencia\"\n→ [El síndrome de Wendy (1:43:51)](https://youtu.be/L7oSZTTK8Gg?t=6231)\n\nEl pánico — uno de los siete sistemas afectivos articulados (reproducción, cuidado, pánico, juego, buscar, terror, ira) — opera aquí en su forma evolutiva primitiva: separación de la colonia, anhelo del vínculo incondicional con la figura cuidadora. La codependencia Wendy-Peter Pan no es proyección psicológica vaga sino activación específica del sistema pánico en ambos polos del vínculo.\n\n## La integración: aprender a pedir y los tres dones\n\nLa salida del síndrome — laguna que la articulación previa de la página enunciaba sin desarrollar — recibe en el monográfico una formulación operativa explícita siguiendo la lógica junguiana clásica de integración de la [[shadow-archetype|sombra]]:\n\n> \"Wendy puede dejar de ser Wendy aceptando que es Wendy e integrando la sombra\"\n→ [El síndrome de Wendy (1:06:13)](https://youtu.be/L7oSZTTK8Gg?t=3973)\n\n> \"Lo bueno de Wendy es la capacidad de dar amor, la ternura, la esperanza y la gracia\"\n→ [El síndrome de Wendy (1:06:13)](https://youtu.be/L7oSZTTK8Gg?t=3973)\n\n> \"Hay que aprender a pedir en lugar de tratar al otro de gratis como quieres que te trate\"\n→ [El síndrome de Wendy (1:06:13)](https://youtu.be/L7oSZTTK8Gg?t=3973)\n\nLa integración tiene tres movimientos: aceptar como propia una configuración que se rechazaba; reconocer sus aspectos valiosos (capacidad de dar amor, ternura, esperanza, gracia); convertir el modo proyectivo automatizado en intercambio explícito. **Pedir** es el operador clave — el modo masculino que la Wendy debe aprender para no quedar atrapada en la proyección.\n\nLa simetría con la maduración masculina cierra el cuadro:\n\n> \"Las Wendy deben aceptar que son motivo y trofeo: el varón necesita una causa para madurar\"\n→ [El síndrome de Wendy (1:13:48)](https://youtu.be/L7oSZTTK8Gg?t=4428)\n\nEl reconocimiento del propio rol — ser causa para que el varón madure — es contraparte simétrica al varón que tiene que enfrentarse al mal solo asumiendo que puede fracasar sin amor incondicional al otro lado. Ambos polos requieren constituir un sujeto: él, capaz de fracasar sin red afectiva incondicional; ella, capaz de pedir explícitamente lo que el modo proyectivo solicitaba en silencio.\n\n## Padre frágil heredado y miedo al fracaso\n\nLa etiología paterna del síndrome se articula con mayor precisión: Wendy hereda del padre frágil un miedo al fracaso que ella misma proyecta sobre el varón.\n\n> \"El padre de Wendy no era firme: siempre preocupado, lejos, librando batallas fuera de casa\"\n→ [El síndrome de Wendy (54:29)](https://youtu.be/L7oSZTTK8Gg?t=3269)\n\n> \"Wendy no se atreve a exigirle madurez al varón porque vio a su padre fracasado\"\n→ [El síndrome de Wendy (1:13:48)](https://youtu.be/L7oSZTTK8Gg?t=4428)\n\n> \"No se sienten merecedoras de pedir debido a la relación con el padre\"\n→ [El síndrome de Wendy (1:13:48)](https://youtu.be/L7oSZTTK8Gg?t=4428)\n\nLa simetría con la psique masculina dañada por padre frágil — articulada en [[sindrome-del-nino-masculino]] — es directa: el varón con padre frágil busca madres oscuras (incluyendo casos extremos como hombres muy dañados por experiencias con ninfas que buscan la madre que no tuvieron); la mujer con padre frágil queda atrapada en el modo Wendy, incapaz de exigir madurez al varón porque el referente paterno la entrenó en el rol de cuidadora del varón débil.\n\n## Distinción operativa Wendy/ninfa por respuesta al deseo del otro\n\nCriterio diferencial fino que el monográfico añade y que precisa la distinción ya articulada en este page:\n\n> \"La ninfa se caracteriza por la necesidad de ser deseada: lo que les pierde es que las elijan\"\n→ [El síndrome de Wendy (1:45:54)](https://youtu.be/L7oSZTTK8Gg?t=6354)\n\n> \"Wendy se manifiesta cuando lo que enamora al otro es la ternura que inspiras\"\n→ [El síndrome de Wendy (1:45:54)](https://youtu.be/L7oSZTTK8Gg?t=6354)\n\n> \"Muchas ninfas fingen ser Wendy: dan amor y dedicación pero se indignan si no recibes deseo inflamado\"\n→ [El síndrome de Wendy (1:45:54)](https://youtu.be/L7oSZTTK8Gg?t=6354)\n\nEl test operativo es la **respuesta ante la falta de deseo intenso**: la Wendy auténtica produce vínculo desde la ternura sin exigir intensidad sexual explosiva; la ninfa que se disfraza de Wendy se indigna si el deseo del varón no se inflama. El criterio permite distinguir motivaciones psíquicas que producen conductas externamente similares (cuidado, dedicación) pero estructuralmente distintas.\n",
+      "rationale": "Update sustantivo de prosa con cinco secciones nuevas que cierran lagunas y añaden material no presente en la página: (1) Wendy en transición doncella→consorte (precisa el lugar arquetípico); (2) Peter Pan como sátiro (refinamiento estructural decisivo); (3) Vinculación proyectiva vs intercambio (asimetría de modos de vinculación); (4) Pánico como afecto rector (conecta con batería Panksepp/Galatea); (5) Integración: aprender a pedir y tres dones (cierra la laguna 'Vías de salida'); más una sección sobre padre frágil heredado y un criterio diferencial fino Wendy/ninfa. Inserto después de la sección 'Conexión con el problema de la integración' (anchor único). Marca como resuelta la laguna 'Vías de salida' vía supersedes_laguna_text. Introduce wikilinks tipados nuevos a colusion-heroe-ninfa, galatea-modelo-protomente, shadow-archetype y sindrome-del-nino-masculino que el grafo aún no tenía",
+      "editorial_intent": "fill_gap"
+    },
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El síndrome de Wendy** — chunks: [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286) · [40:43](https://youtu.be/L7oSZTTK8Gg?t=2443) · [1:54:51](https://youtu.be/L7oSZTTK8Gg?t=6891) · [2:00:03](https://youtu.be/L7oSZTTK8Gg?t=7203)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 2286,
+          "cite_markdown": "[El síndrome de Wendy (38:06)](https://youtu.be/L7oSZTTK8Gg?t=2286)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 2443,
+          "cite_markdown": "[El síndrome de Wendy (40:43)](https://youtu.be/L7oSZTTK8Gg?t=2443)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 6891,
+          "cite_markdown": "[El síndrome de Wendy (1:54:51)](https://youtu.be/L7oSZTTK8Gg?t=6891)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 7203,
+          "cite_markdown": "[El síndrome de Wendy (2:00:03)](https://youtu.be/L7oSZTTK8Gg?t=7203)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico aplica operativamente la tipología tres-aspectos / cinco-corrupciones: (38:06) doncella/consorte/madre con Atenea como prototipo; (40:43) corrupción como versión arquetípica dañada por el mal (exógeno, tentación interna o pacto); (1:54:51) Medea como núcleo genuinamente femenino sin contraparte masculina genuina (incluye Munchausen por poder); (2:00:03) Friends como caso operativo que contiene las cuatro formas de la feminidad y las tres formas de lo masculino — refuerza el page con caso narrativo cinematográfico explícito. La prosa ya cubre exhaustivamente la tipología; cita-only para retrieval indirecto",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "colusion-heroe-ninfa",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El síndrome de Wendy** — chunks: [50:22](https://youtu.be/L7oSZTTK8Gg?t=3022) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:11:13](https://youtu.be/L7oSZTTK8Gg?t=4273) · [1:45:54](https://youtu.be/L7oSZTTK8Gg?t=6354)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3022,
+          "cite_markdown": "[El síndrome de Wendy (50:22)](https://youtu.be/L7oSZTTK8Gg?t=3022)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3330,
+          "cite_markdown": "[El síndrome de Wendy (55:30)](https://youtu.be/L7oSZTTK8Gg?t=3330)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 4273,
+          "cite_markdown": "[El síndrome de Wendy (1:11:13)](https://youtu.be/L7oSZTTK8Gg?t=4273)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 6354,
+          "cite_markdown": "[El síndrome de Wendy (1:45:54)](https://youtu.be/L7oSZTTK8Gg?t=6354)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico de Wendy extiende el marco de colusión con: (50:22) Peter Pan como sátiro (equivalente masculino de la ninfa) articulando la colusión Wendy-Peter Pan como variante de la dinámica Wendy-tirano del page con sátiro-niño-eterno en lugar de tirano-adulto; (55:30) Campanilla como polo ninfa proyectado fuera del yo (las dos figuras de la feminidad alterada coexisten en la misma psique); (1:11:13) acompañar el sufrimiento es distinto de quitarlo cantando nanas — refina el modo proyectivo dañino; (1:45:54) test operativo de detección 'ninfas que fingen Wendy' (se indignan si no hay deseo inflamado) — refuerza el criterio motivacional del page. Cita-only para retrieval indirecto",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "sindrome-del-nino-masculino",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El síndrome de Wendy** — chunks: [1:00:36](https://youtu.be/L7oSZTTK8Gg?t=3636) · [1:15:22](https://youtu.be/L7oSZTTK8Gg?t=4522) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3636,
+          "cite_markdown": "[El síndrome de Wendy (1:00:36)](https://youtu.be/L7oSZTTK8Gg?t=3636)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 4522,
+          "cite_markdown": "[El síndrome de Wendy (1:15:22)](https://youtu.be/L7oSZTTK8Gg?t=4522)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 4889,
+          "cite_markdown": "[El síndrome de Wendy (1:21:29)](https://youtu.be/L7oSZTTK8Gg?t=4889)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico articula la simetría masculina al síndrome de Wendy con tres piezas: (1:00:36) la ruptura con la madre como evento canónico de cualquier hombre, con consecuencias diferentes según ocurra demasiado pronto, demasiado tarde o en el punto medio (junto al padre); (1:15:22) padre frágil → miedo al fracaso → búsqueda de madres oscuras, con MGTOW como caso extremo de varones dañados por experiencias con ninfas que buscan la madre que no tuvieron; (1:21:29) el rol del varón frente a Wendy: enfrentarse al mal solo asumiendo posibilidad de fracaso sin amor incondicional al otro lado. Las tres piezas refuerzan el aparato del page sin contradecir su prosa central; cita-only para retrieval indirecto",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "adgrediere-masculino",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El síndrome de Wendy** — chunks: [1:02:06](https://youtu.be/L7oSZTTK8Gg?t=3726) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 3726,
+          "cite_markdown": "[El síndrome de Wendy (1:02:06)](https://youtu.be/L7oSZTTK8Gg?t=3726)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 4889,
+          "cite_markdown": "[El síndrome de Wendy (1:21:29)](https://youtu.be/L7oSZTTK8Gg?t=4889)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico articula el adgrediere masculino en su modo relacional: (1:02:06) la vinculación masculina como intercambio (compensación mutua) frente a la proyectiva femenina, y el modo padre como construcción del otro ('hacer de él un hombre o un héroe'); (1:21:29) Peter Pan-héroe que tiene que enfrentarse al mal solo asumiendo posibilidad de fracaso sin amor incondicional al otro lado, modo del adgrediere maduro. Cita-only para retrieval indirecto",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "mito-lunar",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 2105,
+          "cite_markdown": "[El síndrome de Wendy (35:05)](https://youtu.be/L7oSZTTK8Gg?t=2105)"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 2286,
+          "cite_markdown": "[El síndrome de Wendy (38:06)](https://youtu.be/L7oSZTTK8Gg?t=2286)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico aplica el mito lunar como contenedor de la fenomenología de lo femenino que estructura el análisis de Wendy. AVISO PARA AUDIT HUMANO: el speaker articula una variante de la cosmología canon: 'Es uno de cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago'. La page actual articula SEIS mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis) según el libro Del origen del mal. La variante de cinco lista 'Héroe' en lugar de solar/polar — posiblemente capa abstrativa distinta (el monomito como pieza psico-arquetípica vs los seis cosmológicos). No hay contradicción si se leen como capas distintas pero merece flag editorial. Cita-only para retrieval; integración prosa pendiente de revisión humana",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "autotipo",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El síndrome de Wendy** — chunks: [2:00:03](https://youtu.be/L7oSZTTK8Gg?t=7203)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "timestamp_seconds": 7203,
+          "cite_markdown": "[El síndrome de Wendy (2:00:03)](https://youtu.be/L7oSZTTK8Gg?t=7203)"
+        }
+      ],
+      "rationale": "cita-only — el speaker invoca explícitamente 'autotipia' como categoría del canal aplicada a Cómo conocí a vuestra madre: prototipo desprendido de su contenido original (personajes patológicamente infantiles y simplones), opuesto a Friends que sí contiene las cuatro formas de feminidad y tres de masculinidad. Caso ilustrativo limpio del mecanismo de autotipo (prototipo vaciado de sentido moral)",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Los hijos detienen la madurez individual",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación clínica breve sobre la parentalidad como interrupción del trabajo individual de individuación: el instinto orienta toda la energía hacia el hijo, el sujeto pasa a ser dos personas, el desarrollo individual se detiene. Caso ilustrativo del proceso de individuación cuando se interrumpe por instinto reproductivo. No merece página propia (mención breve dentro del bloque sobre Medea/Munchausen) y enriquece individuation como caso aplicado",
+      "quote_evidence": "Los hijos obligan a madurar en cierta forma pero detienen el trabajo de uno consigo mismo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "individuation"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 0,
+    "promoted_updates": 7,
+    "thesis_candidates_count": 0,
+    "discarded_count": 1,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T13:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

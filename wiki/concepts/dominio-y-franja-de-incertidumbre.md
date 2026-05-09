@@ -218,6 +218,9 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
+
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -230,4 +233,7 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Análisis arquetípico: Excalibur** — chunks: [10:38](https://youtu.be/daC37T5cbWs?t=638)
 - **Análisis arquetípico Inside Out** — chunks: [26:45](https://youtu.be/V-ixEcJuLzw?t=1605)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [15:38](https://youtu.be/X2c2a3mQBOs?t=938) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)
+- **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [1:48:18](https://youtu.be/cbdLR0HTE3w?t=6498)
+- **Elisa y su CI** — chunks: [1:07:48](https://youtu.be/6tfSc45kjyo?t=4068)
+- **¿Es ciencia la psicología?** — chunks: [18:20](https://youtu.be/1cF9VayHtRI?t=1100)
 

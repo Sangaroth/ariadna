@@ -104,6 +104,8 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 ## Citations
 
 
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
+- **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)
 

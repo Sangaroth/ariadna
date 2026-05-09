@@ -938,3 +938,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)
+
+- **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)

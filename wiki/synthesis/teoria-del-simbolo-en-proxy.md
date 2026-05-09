@@ -555,3 +555,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minut
 ## Citations
 
 - video_id: `ez2e9NTvljg` — ¿Qué es un símbolo? (Parte 2)
+
+- **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [1:08:52](https://youtu.be/cbdLR0HTE3w?t=4132) · [1:21:29](https://youtu.be/cbdLR0HTE3w?t=4889) · [1:26:04](https://youtu.be/cbdLR0HTE3w?t=5164) · [2:01:28](https://youtu.be/cbdLR0HTE3w?t=7288)

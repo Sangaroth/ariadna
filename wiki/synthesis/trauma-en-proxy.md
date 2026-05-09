@@ -164,3 +164,5 @@ La consecuencia operativa para la teoría del trauma articulada en la página: l
 
 
 - **Análisis arquetípico Inside Out** — chunks: [1:48:40](https://youtu.be/V-ixEcJuLzw?t=6520) · [2:27:04](https://youtu.be/V-ixEcJuLzw?t=8824)
+
+- **Elisa y su CI** — chunks: [52:31](https://youtu.be/6tfSc45kjyo?t=3151)

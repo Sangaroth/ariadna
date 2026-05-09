@@ -213,3 +213,5 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [2:10:39](https://youtu.be/lOpCXo1pi2M?t=7839)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:04:18](https://youtu.be/yoWJWwYH_pE?t=3858)
 
+
+- **El síndrome de Wendy** — chunks: [1:00:36](https://youtu.be/L7oSZTTK8Gg?t=3636) · [1:15:22](https://youtu.be/L7oSZTTK8Gg?t=4522) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)

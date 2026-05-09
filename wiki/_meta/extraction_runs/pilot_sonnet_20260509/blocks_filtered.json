@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_sonnet_20260509",
+  "items": [
+    {
+      "from_video": "t8v5w3s0USA",
+      "block": {
+        "block_title": "El audio filtrado de Pedro Sánchez con Santos Cerdán y Leire",
+        "timestamp_seconds": 547,
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_term": "Sánchez",
+        "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    }
+  ]
+}

@@ -235,3 +235,5 @@ La pieza completa la articulación de la tipología con los cinco casos diferenc
 - **Análisis arquetípico La Bruja** — chunks: [1:27:50](https://youtu.be/rRlks0e0oxU?t=5270) · [1:55:35](https://youtu.be/rRlks0e0oxU?t=6935) · [2:24:30](https://youtu.be/rRlks0e0oxU?t=8670)
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757) · [1:24:01](https://youtu.be/lOpCXo1pi2M?t=5041) · [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)
+
+- **El síndrome de Wendy** — chunks: [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286) · [40:43](https://youtu.be/L7oSZTTK8Gg?t=2443) · [1:54:51](https://youtu.be/L7oSZTTK8Gg?t=6891) · [2:00:03](https://youtu.be/L7oSZTTK8Gg?t=7203)

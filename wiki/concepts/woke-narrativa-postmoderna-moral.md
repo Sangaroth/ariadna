@@ -358,6 +358,7 @@ El canal sitúa a Beauvoir en la cadena genealógica de la degeneración postmod
 
 
 
+
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
 - **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
@@ -369,3 +370,7 @@ El canal sitúa a Beauvoir en la cadena genealógica de la degeneración postmod
 
 
 - **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [1:11:25](https://youtu.be/NYZEm8mcPiQ?t=4285) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
+
+- **Elisa y su CI** — chunks: [07:50](https://youtu.be/6tfSc45kjyo?t=470) · [29:39](https://youtu.be/6tfSc45kjyo?t=1779)
+- **¿Es ciencia la psicología?** — chunks: [21:23](https://youtu.be/1cF9VayHtRI?t=1283) · [28:24](https://youtu.be/1cF9VayHtRI?t=1704) · [37:32](https://youtu.be/1cF9VayHtRI?t=2252)
+

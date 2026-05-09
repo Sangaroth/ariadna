@@ -161,3 +161,5 @@ El canal trata la posición como proyecto abierto, no como tesis cerrada: anunci
 
 - **Irán, Grok, los bikinis y las matemáticas,** — chunks: [1:11:31](https://youtu.be/Ys08m9VxD7g?t=4291)
 
+
+- **¿Es ciencia la psicología?** — chunks: [52:10](https://youtu.be/1cF9VayHtRI?t=3130) · [1:02:17](https://youtu.be/1cF9VayHtRI?t=3737)

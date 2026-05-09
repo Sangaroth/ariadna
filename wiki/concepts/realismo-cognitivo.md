@@ -899,3 +899,7 @@ La aplicación sistemática de la crítica a casos clínicos concretos (TOC, dep
 - **Tremendo lunes** — chunks: [1:35:02](https://youtu.be/0YABTLJ-lFY?t=5702)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
 
+
+- **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:02:47](https://youtu.be/cbdLR0HTE3w?t=3767) · [2:01:28](https://youtu.be/cbdLR0HTE3w?t=7288) · [2:08:04](https://youtu.be/cbdLR0HTE3w?t=7684)
+
+- **¿Es ciencia la psicología?** — chunks: [1:00:17](https://youtu.be/1cF9VayHtRI?t=3617) · [1:04:50](https://youtu.be/1cF9VayHtRI?t=3890) · [1:08:22](https://youtu.be/1cF9VayHtRI?t=4102)

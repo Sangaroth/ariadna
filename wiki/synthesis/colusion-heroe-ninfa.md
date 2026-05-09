@@ -180,3 +180,5 @@ La putificación verbal — exagerar al hablar mientras se reevalúa quién hizo
 ## Citations
 
 - video_id: `PC5uw1s86eE` — La IA se sale de madre. Ética e IA parte 1
+
+- **El síndrome de Wendy** — chunks: [50:22](https://youtu.be/L7oSZTTK8Gg?t=3022) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:11:13](https://youtu.be/L7oSZTTK8Gg?t=4273) · [1:45:54](https://youtu.be/L7oSZTTK8Gg?t=6354)

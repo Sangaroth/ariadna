@@ -397,3 +397,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **Wokismo para Wokes.** — chunks: [25:13](https://youtu.be/Q83ieEVaF5I?t=1513)
 - **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:36:55](https://youtu.be/PC5uw1s86eE?t=5815)
 
+
+- **Elisa y su CI** — chunks: [35:43](https://youtu.be/6tfSc45kjyo?t=2143) · [1:01:44](https://youtu.be/6tfSc45kjyo?t=3704)
+
+- **¿Es ciencia la psicología?** — chunks: [31:27](https://youtu.be/1cF9VayHtRI?t=1887) · [34:01](https://youtu.be/1cF9VayHtRI?t=2041)

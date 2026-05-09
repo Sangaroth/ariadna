@@ -353,3 +353,7 @@ La pieza enlaza también con la página [[woke-narrativa-postmoderna-moral|woke]
 - **BUT WHY?** — chunks: [32:36](https://youtu.be/4tAWgX7-yXk?t=1956) · [40:23](https://youtu.be/4tAWgX7-yXk?t=2423) · [1:21:30](https://youtu.be/4tAWgX7-yXk?t=4890)
 - **Cuento contigo** — chunks: [17:49](https://youtu.be/Eqoq3O9wVzA?t=1069)
 
+
+- **El síndrome de Wendy** — chunks: [1:02:06](https://youtu.be/L7oSZTTK8Gg?t=3726) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)
+
+- **Elisa y su CI** — chunks: [1:07:48](https://youtu.be/6tfSc45kjyo?t=4068) · [1:12:21](https://youtu.be/6tfSc45kjyo?t=4341)

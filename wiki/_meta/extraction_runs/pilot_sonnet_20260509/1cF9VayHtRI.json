@@ -1,0 +1,385 @@
+{
+  "video_id": "1cF9VayHtRI",
+  "video_title": "¿Es ciencia la psicología?",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "epistemología de la psicología / ¿es ciencia la psicología?",
+      "canonical_guess": "epistemologia-de-la-psicologia-en-proxy",
+      "page_type": "synthesis",
+      "synthesis_subtype": "author_thesis",
+      "domain_primary_guess": "humanities.philosophy",
+      "primary_domains_guess": [
+        "humanities.philosophy",
+        "social.psychology",
+        "interdisciplinary.cognitive_science"
+      ],
+      "depth_in_video": "primary",
+      "minutes_estimate": 110,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "La psicología no estudia la psique sino la conducta humana externa e interna, y su modelización es posible desde lo bioquímico y desde lo formal"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Corrección: la psicología clínica es la aplicación a la salud; la psicología como tal es una ciencia natural"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El método científico es un intento de formalización del proceso cognitivo: observación, modelización, contraste, falsación, análisis formal"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Las matemáticas son un hecho psíquico, no algo que exista en un mundo platónico externo"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La epistemología es la parte de la filosofía que estudia cómo se accede al conocimiento"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Argumento 1: la psicología no cumple los requisitos para ser ciencia"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El peor defecto del cuadrante arriba-derecha es creer que quien se queja es porque quiere o se lo busca"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "La hipótesis del mundo justo es un mito propio del cuadrante arriba-derecha"
+        }
+      ],
+      "minutes_sustained": 110,
+      "framework_internal_structure": [
+        "Distinción operativa: epistemología (acceso al conocimiento) vs gnoseología (representación) vs noología (hecho de representar)",
+        "Tres tipos de ciencia: ciencias sociales (políticas), ciencias puras/exactas (matemáticas), ciencias naturales (empíricas)",
+        "Confusión psicología / sociología: la sociología tiene pretensión psicológica pero se queda en lo político",
+        "Tres argumentos contra la psicología como ciencia: no cumple requisitos / es vehículo woke / es estafa",
+        "Requisitos del método científico: paradigma, hipótesis, falsación, replicabilidad, interdisciplinariedad, método independiente sometido a criterio externo",
+        "Dos fundamentalismos científicos: empírico (laboratorio + lupa) y académico (paper + journal)",
+        "Refutación 1: la psicología no estudia la psique como esencia platónica sino la conducta humana externa e interna, modelizable desde lo bioquímico y lo formal",
+        "Falsa dicotomía objetivo/subjetivo: ambos están mezclados; lo objetivo emerge sumando perspectivas subjetivas",
+        "El método científico como formalización del proceso cognitivo: observación, modelización, contraste, falsación",
+        "Matemáticas como hecho psíquico (no platónico): mismo problema de autorreferencia que la psicología",
+        "El miedo como objeto bioquímico medible (conductividad piel, frecuencia cardíaca) — la subjetividad no es lo medido",
+        "Explanatory Gap y Hard Problem: irresolubles pero no invalidantes",
+        "Autorreferencia método-objeto: el ser humano es metacognitivo y recursivo",
+        "Refutación 2 (woke): la psicología clínica mal aplicada exacerba narcisismo, pero la disciplina misma es resistente",
+        "Hipótesis del mundo justo como mito del cuadrante arriba-derecha: equiparación sufrir = quejarse",
+        "El bien arriba-derecha (externo-moral-divino) vs abajo-izquierda (naturaleza animal-salvaje); liberales-comunistas (construido)",
+        "Refutación 3: la psicología no es estafa, tiene aparato empírico medible",
+        "Corrección: la psicología es ciencia NATURAL, no social — estudia el comportamiento de un ser vivo",
+        "Ciencias sociales (sociología, periodismo, política, gestión pública, comunicación) como pseudociencias naturales con método vago",
+        "Disciplinas como áreas secantes que comparten objetos con aproximaciones diferentes — no taxonomía por conjuntos y subconjuntos",
+        "Si la psicología no fuera ciencia: pierde protección epistémica frente a corrupción ideológica",
+        "Economía como ciencia formal pero con teorías-ocurrencia ideologizadas; subdominio potencial de sociología/psicología"
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de 128 min con ≈110 min sostenidos articulando una epistemología propia de la psicología. Cumple el gate de auto-promoción de scope.md §2.4.1: minutes_sustained ≈110 (≥30); signal_marks_detected = 5 (thesis_marker múltiple, pedagogic_register, internal_structure articulada, applied_framework — diagrama-de-proxy aplicado a la crítica conservadora — y genealogical_self_reference — la hipótesis del mundo justo como mito del cuadrante arriba-derecha del marco propio); framework_internal_structure con 22 piezas explícitas (≥4). Es articulación foundational del canal en filosofía de la ciencia aplicada a su propia disciplina: corrección categorial (psicología es ciencia natural, no social), refutación sistemática de tres argumentos antagonistas (incluyendo la crítica woke desde la derecha), y articulación operativa del método científico como formalización del proceso cognitivo — pieza coherente con realismo-cognitivo y materialismo-antiformalista. No hay página existente sobre esta cuestión epistemológica fundacional. Auto-promote a synthesis (author_thesis)",
+      "quote_evidence": "Corrección: la psicología clínica es la aplicación a la salud; la psicología como tal es una ciencia natural",
+      "promote_new_payload": {
+        "page_id_proposed": "epistemologia-de-la-psicologia-en-proxy",
+        "canonical_name_proposed": "Epistemología de la psicología en Proxy",
+        "page_type": "synthesis",
+        "synthesis_subtype": "author_thesis",
+        "auto_promote": true,
+        "auto_promoted_synthesis": true,
+        "domain_primary": "humanities.philosophy",
+        "primary_domains": [
+          "humanities.philosophy",
+          "social.psychology",
+          "interdisciplinary.cognitive_science"
+        ],
+        "aliases_proposed": [
+          "psicologia como ciencia",
+          "es ciencia la psicologia",
+          "epistemologia de la psicologia",
+          "psicologia como ciencia natural",
+          "filosofia de la ciencia psicologica",
+          "metodo cientifico en psicologia",
+          "criticas a la psicologia como ciencia",
+          "argumentos contra la psicologia"
+        ],
+        "frontmatter_extras": {
+          "review_status": "stub_in_session",
+          "status": "stub_in_session",
+          "schema_version": "1.0.0",
+          "sources_count": 1
+        },
+        "relations_proposed": [
+          {
+            "type": "extends",
+            "to": "realismo-cognitivo",
+            "weight": "canonical",
+            "note": "el método científico como formalización del proceso cognitivo es aplicación directa del realismo cognitivo: la cognición funciona por observación, modelización, contraste, falsación; quien estudia la cognición reproduce el método científico desde su propia mente"
+          },
+          {
+            "type": "extends",
+            "to": "materialismo-antiformalista",
+            "weight": "strong",
+            "note": "la negación de la psique como esencia platónica inabarcable y la modelización desde lo bioquímico y formal es coherente con la stance materialista antiformalista del canal: hay sustrato material que sostiene los procesos psíquicos, y la formalización es legítima si captura la función propia"
+          },
+          {
+            "type": "compared_with",
+            "to": "diagrama-de-proxy",
+            "weight": "strong",
+            "note": "el aparato del diagrama (cuadrantes con correlato neuropsicológico) opera como marco analítico aplicado a la crítica conservadora: la hipótesis del mundo justo y la equiparación sufrir=quejarse son mitos del cuadrante arriba-derecha; abajo-izquierda equipara el bien con la naturaleza animal-salvaje; liberales-comunistas con lo construido"
+          },
+          {
+            "type": "criticizes",
+            "to": "woke-narrativa-postmoderna-moral",
+            "weight": "strong",
+            "note": "el marco identifica dos críticas convergentes a la psicología: la postmoderna que la usa como vehículo ideológico, y la conservadora-libertaria que la rechaza como pseudociencia woke. Ambas aplanan diferencias categoriales y atacan la disciplina por la mala praxis profesional concreta, no por su estructura epistemológica"
+          },
+          {
+            "type": "extends",
+            "to": "teoria-del-simbolo-en-proxy",
+            "weight": "tangential",
+            "note": "la articulación de las matemáticas como hecho psíquico (no platónico) y el problema de autorreferencia método-objeto conectan con la teoría del símbolo (matemáticas como caso extremo de Q-sub-f, irrepetibilidad de la matriz N)"
+          },
+          {
+            "type": "compared_with",
+            "to": "autoforia",
+            "weight": "weak",
+            "note": "el problema de autorreferencia método-objeto en psicología (estudiar la psique con la propia psique) es estructuralmente afín al mecanismo autofórico, aunque el marco lo resuelve apelando a la metacognitividad recursiva del ser humano"
+          },
+          {
+            "type": "compared_with",
+            "to": "teoria-del-dolor-en-proxy",
+            "weight": "tangential",
+            "note": "el caso del miedo como objeto bioquímico medible (conductividad de la piel, frecuencia cardíaca) es paralelo metodológico al del dolor: lo subjetivo no es lo medido, pero el sustrato bioquímico sí lo es"
+          }
+        ],
+        "page_body_proposed": "# Epistemología de la psicología en Proxy\n\n## Tesis nuclear\n\nProxy articula en este monográfico la posición epistemológica del canal sobre su propia disciplina: la psicología SÍ es ciencia, pero ciencia **natural**, no social. La crítica popular que la rechaza como pseudociencia confunde tres planos: (a) la mala praxis profesional concreta, (b) la confusión cultural psicología/sociología/New Age, (c) la dificultad estructural del objeto (autorreferencia, hard problem, explanatory gap). El marco refuta sistemáticamente los tres argumentos antagonistas — la psicología no cumpliría los requisitos del método científico, sería vehículo de ideología woke, sería estafa equivalente al tarot — mostrando que cada uno opera bajo confusiones categoriales corregibles. La pieza estructural más decisiva es la corrección taxonómica: la psicología clínica es aplicación a la salud; la disciplina como tal estudia el comportamiento de un ser vivo y pertenece a las ciencias naturales junto con la biología, no a las ciencias sociales como sociología o periodismo.\n\nEl marco se cierra con una tesis sobre la función protectora de la categorización: si la psicología deja de considerarse ciencia, pierde la protección epistémica que la hace resistente a la corrupción ideológica — la mala praxis (Irene Montero como caso citado, la progresía como vehículo) deja de ser desviación profesional y se convierte en redefinición de la disciplina.\n\n## Distinciones operativas: epistemología, gnoseología, noología\n\nEl marco abre con tres distinciones canónicas que el canal usa operativamente:\n\n> \"La epistemología es la parte de la filosofía que estudia cómo se accede al conocimiento\"\n→ [¿Es ciencia la psicología? (18:20)](https://youtu.be/1cF9VayHtRI?t=1100)\n\n> \"No confundir con la gnoseología (representación) ni con la noología (el hecho mismo de representar)\"\n→ [¿Es ciencia la psicología? (18:20)](https://youtu.be/1cF9VayHtRI?t=1100)\n\n> \"Lo que es o no ciencia pertenece al dominio de la epistemología\"\n→ [¿Es ciencia la psicología? (18:20)](https://youtu.be/1cF9VayHtRI?t=1100)\n\nLa tripartición es operativa: la pregunta '¿es ciencia la psicología?' es epistemológica (cómo se accede al conocimiento sobre la psique). No se responde describiendo cómo se representa la psique (gnoseología) ni cómo opera el hecho mismo de representar (noología). El error frecuente es contestar la pregunta epistemológica con argumentos noéticos sobre la inaccesibilidad de la mente subjetiva — confusión categorial que el marco corrige de entrada.\n\n## Tres tipos de ciencia y la confusión psicología/sociología\n\nLa primera taxonomía operativa distingue tres tipos de ciencia con criterio de demarcación distinto:\n\n> \"Se distinguen tres tipos de ciencia: ciencias sociales (políticas), ciencias puras/exactas (matemáticas como método) y ciencias naturales (empíricas)\"\n→ [¿Es ciencia la psicología? (19:21)](https://youtu.be/1cF9VayHtRI?t=1161)\n\n> \"La mayor parte de la gente confunde psicología con sociología, que tiene pretensión psicológica pero se queda en lo político\"\n→ [¿Es ciencia la psicología? (19:21)](https://youtu.be/1cF9VayHtRI?t=1161)\n\nLa confusión cultural opera bidireccionalmente: la sociología invade el espacio de la psicología (intenta describir psicología desde lo poblacional), y la psicología es leída como sociología (se le exige cumplir criterios de ciencia social). Ambos errores aplanan la diferencia categorial. Los tres tipos exigen métodos distintos — el formal de las matemáticas, el empírico de las ciencias naturales, el político-institucional de las sociales — y aplicar el criterio de demarcación de uno a otro produce categoría errónea.\n\n## Tres argumentos contra la psicología como ciencia\n\nEl marco taxoniza las objeciones para refutarlas sistemáticamente:\n\n> \"Argumento 1: la psicología no cumple los requisitos para ser ciencia\"\n→ [¿Es ciencia la psicología? (37:32)](https://youtu.be/1cF9VayHtRI?t=2252)\n\n> \"Argumento 2: la psicología es una ciencia social y un vehículo para corromper con ideología woke\"\n→ [¿Es ciencia la psicología? (37:32)](https://youtu.be/1cF9VayHtRI?t=2252)\n\n> \"Argumento 3: la psicología es una estafa inútil equivalente al tarot o ir al cura\"\n→ [¿Es ciencia la psicología? (37:32)](https://youtu.be/1cF9VayHtRI?t=2252)\n\nEl resto del monográfico responde a cada argumento por separado.\n\n## Los requisitos del método científico\n\nLa refutación del Argumento 1 empieza precisando qué exige realmente el método científico:\n\n> \"Debe disponer de un método de investigación independiente de la propia disciplina y sometible a criterio externo\"\n→ [¿Es ciencia la psicología? (44:36)](https://youtu.be/1cF9VayHtRI?t=2676)\n\n> \"Paradigma, hipótesis y falsación: donde no puede haber falsación hay convenios y consenso\"\n→ [¿Es ciencia la psicología? (44:36)](https://youtu.be/1cF9VayHtRI?t=2676)\n\n> \"Debe permitir desarrollar teorías falsables, y debe haber interdisciplinariedad y replicabilidad\"\n→ [¿Es ciencia la psicología? (44:36)](https://youtu.be/1cF9VayHtRI?t=2676)\n\n> \"El conocimiento científico está hetero-determinado por la comunidad que se dedica a contrastarlo constantemente\"\n→ [¿Es ciencia la psicología? (44:36)](https://youtu.be/1cF9VayHtRI?t=2676)\n\nLa pieza importante: la ciencia no se autocertifica — es la comunidad que la contrasta la que produce el estatuto científico. El criterio es **hetero-determinación**, no autoridad interna.\n\n### Los dos fundamentalismos científicos\n\nEl marco distingue dos formas degeneradas del cientificismo:\n\n> \"Fundamentalismo empírico: solo es ciencia si un tío en un laboratorio lo mira con lupa y rayos láser\"\n→ [¿Es ciencia la psicología? (49:38)](https://youtu.be/1cF9VayHtRI?t=2978)\n\n> \"Fundamentalismo académico: solo es ciencia si hay un paper presentado en un journal\"\n→ [¿Es ciencia la psicología? (49:38)](https://youtu.be/1cF9VayHtRI?t=2978)\n\n> \"La gente suele tomar como criterio de autoridad aquello que le da más miedo o le resulta más ajeno\"\n→ [¿Es ciencia la psicología? (49:38)](https://youtu.be/1cF9VayHtRI?t=2978)\n\n> \"El cientificismo a menudo responde a un perfil psicológico que busca seguridad y razón por introyecto\"\n→ [¿Es ciencia la psicología? (49:38)](https://youtu.be/1cF9VayHtRI?t=2978)\n\nLa pieza es psicológica además de epistemológica: el cientificismo extremo es síntoma de búsqueda de autoridad externa por inseguridad interna, no aplicación rigurosa del método. El criterio epistemológico real es hetero-determinación comunitaria, no fetichismo del laboratorio o del journal.\n\n## El objeto real de la psicología: conducta, no psique platónica\n\nLa refutación del Argumento 1 articula el objeto verdadero de la disciplina:\n\n> \"La gente cree que el objeto de la psicología es la psique como esencia platónica inabarcable empíricamente\"\n→ [¿Es ciencia la psicología? (52:10)](https://youtu.be/1cF9VayHtRI?t=3130)\n\n> \"Consideran que la psicología es una mitología sobre el interior del individuo: todas sus palabras suenan a mito cuando son filosofía aplicada a categorías\"\n→ [¿Es ciencia la psicología? (52:10)](https://youtu.be/1cF9VayHtRI?t=3130)\n\n> \"La psicología no estudia la psique sino la conducta humana externa e interna, y su modelización es posible desde lo bioquímico y desde lo formal\"\n→ [¿Es ciencia la psicología? (52:10)](https://youtu.be/1cF9VayHtRI?t=3130)\n\nLa precisión es decisiva: el lenguaje categorial-filosófico de la psicología (yo, ego, sombra, ánima, deseo) suena a mitología solo cuando se confunde con su objeto. El objeto real es el comportamiento del ser humano externo (conducta observable) e interno (procesos cognitivos, afectivos, somáticos), modelizable desde el sustrato bioquímico (neurociencia) y desde la formalización conceptual (categorización psicológica).\n\n## La falsa dicotomía objetivo/subjetivo\n\nLa pieza filosófica que articula el procedimiento científico aplicado a lo psíquico:\n\n> \"La gente dice que la psicología se basa en lo subjetivo y sobre lo subjetivo no se puede hacer ciencia\"\n→ [¿Es ciencia la psicología? (57:15)](https://youtu.be/1cF9VayHtRI?t=3435)\n\n> \"Objetivo y subjetivo están completamente mezclados: no son dos caras de una moneda, forman parte de un todo\"\n→ [¿Es ciencia la psicología? (57:15)](https://youtu.be/1cF9VayHtRI?t=3435)\n\n> \"La manera de llegar a un saber objetivo es sumar todas las perspectivas subjetivas y extraer lo común por comparación y eliminación\"\n→ [¿Es ciencia la psicología? (57:15)](https://youtu.be/1cF9VayHtRI?t=3435)\n\nLa pieza es metodológica: la objetividad no es ausencia de subjetividad, es **convergencia de subjetividades** filtrada por comparación y eliminación. La psicología procede así igual que cualquier otra ciencia que tenga sujetos como objeto (medicina, antropología): suma reportes subjetivos, identifica invariantes cross-individuales, formaliza la estructura común.\n\n## El método científico como formalización del proceso cognitivo\n\nLa pieza más estructural del marco invierte la relación cognición-ciencia:\n\n> \"El método científico es un intento de formalización del proceso cognitivo: observación, modelización, contraste, falsación, análisis formal\"\n→ [¿Es ciencia la psicología? (1:00:17)](https://youtu.be/1cF9VayHtRI?t=3617)\n\n> \"La cognición funciona exactamente así: todos son modelos que predices y contrastas\"\n→ [¿Es ciencia la psicología? (1:00:17)](https://youtu.be/1cF9VayHtRI?t=3617)\n\n> \"Si uno estudia cómo funciona la cognición le va a salir un método científico hecho por su propia mente\"\n→ [¿Es ciencia la psicología? (1:00:17)](https://youtu.be/1cF9VayHtRI?t=3617)\n\nLa tesis cierra el bucle entre [[realismo-cognitivo]] y filosofía de la ciencia: el método científico no se impone desde fuera a la cognición; **emerge de** la cognición misma como su forma operativa más explícita y autocrítica. Estudiar la psicología con método científico no es aplicar un instrumento ajeno al objeto — es desplegar el procedimiento que la cognición ya usa internamente.\n\n## Matemáticas como hecho psíquico y autorreferencia\n\nLa pieza filosófica complementaria desplaza también el platonismo matemático:\n\n> \"Las matemáticas son un hecho psíquico, no algo que exista en un mundo platónico externo\"\n→ [¿Es ciencia la psicología? (1:02:17)](https://youtu.be/1cF9VayHtRI?t=3737)\n\n> \"Las matemáticas son un lenguaje inventado para comunicar ciertas realidades y tienen el mismo problema de autorreferencia que la psicología\"\n→ [¿Es ciencia la psicología? (1:02:17)](https://youtu.be/1cF9VayHtRI?t=3737)\n\n> \"En matemáticas el problema de autorreferencia está demostrado como irresoluble (Gödel); en psicología es más una cuestión de que faltan palabras\"\n→ [¿Es ciencia la psicología? (1:02:17)](https://youtu.be/1cF9VayHtRI?t=3737)\n\nLa simetría argumental: si las matemáticas — disciplina considerada paradigmáticamente científica — son hecho psíquico con problema de autorreferencia (los teoremas de incompletitud de Gödel), el problema de autorreferencia no descalifica disciplinas. La psicología tiene una versión menos formal del mismo problema (faltan palabras para articular plenamente lo que la psique hace consigo misma) pero no es categorialmente distinta.\n\n## El miedo como objeto bioquímico medible\n\nEl caso operativo que ilustra la modelización empírica:\n\n> \"El miedo no es subjetivo ni relativo: es un hecho bioquímico perfectamente medible\"\n→ [¿Es ciencia la psicología? (1:04:50)](https://youtu.be/1cF9VayHtRI?t=3890)\n\n> \"Se puede medir con conductividad de la piel, frecuencia cardíaca, pruebas químicas — antes de que existieran escáneres cerebrales\"\n→ [¿Es ciencia la psicología? (1:04:50)](https://youtu.be/1cF9VayHtRI?t=3890)\n\n> \"Lo que no es medible es la experiencia subjetiva, pero la psicología no intenta medir eso: estudia en qué consiste el miedo, cuándo ocurre, cómo ocurre, por qué es idéntico en todos los seres humanos\"\n→ [¿Es ciencia la psicología? (1:04:50)](https://youtu.be/1cF9VayHtRI?t=3890)\n\nLa pieza paralela a la articulación de [[teoria-del-dolor-en-proxy]]: lo subjetivo no es lo medido — el sustrato bioquímico sí lo es. La invariancia cross-individual del miedo (universalidad evolutiva) lo convierte en objeto científico legítimo aunque la experiencia interna del miedo no sea accesible empíricamente.\n\n## Explanatory Gap y Hard Problem: irresolubles pero no invalidantes\n\nEl marco reconoce los límites filosóficos clásicos sin que descalifiquen la disciplina:\n\n> \"El desfase entre los hechos biomateriales del cerebro y la experiencia subjetiva es el explanatory gap\"\n→ [¿Es ciencia la psicología? (1:07:21)](https://youtu.be/1cF9VayHtRI?t=4041)\n\n> \"La dificultad de la psicología para ser entendida reside en que la comunicación va a la cola de la percepción\"\n→ [¿Es ciencia la psicología? (1:07:21)](https://youtu.be/1cF9VayHtRI?t=4041)\n\n> \"El hard problem de la conciencia es probablemente irresoluble, pero eso no invalida la psicología como ciencia\"\n→ [¿Es ciencia la psicología? (1:07:21)](https://youtu.be/1cF9VayHtRI?t=4041)\n\nLa pieza es lógicamente decisiva: que un problema sea irresoluble no invalida la disciplina que lo estudia — la astronomía no se descalifica por no resolver el origen último del universo; la física no por no unificar relatividad y mecánica cuántica. El hard problem y el explanatory gap son límites permanentes, no fallos disciplinares.\n\n## La autorreferencia: método y objeto son lo mismo\n\nLa objeción más sutil contra la psicología es el problema de la autorreferencia:\n\n> \"Para estudiar la psique necesitas la propia psique, lo que causa un problema de autorreferencia\"\n→ [¿Es ciencia la psicología? (1:08:22)](https://youtu.be/1cF9VayHtRI?t=4102)\n\n> \"Pero el ser humano es metacognitivo y recursivo: puede pensar sobre sí mismo desde sí mismo y aun así sacar conclusiones válidas\"\n→ [¿Es ciencia la psicología? (1:08:22)](https://youtu.be/1cF9VayHtRI?t=4102)\n\n> \"A pesar de esa autorreferencia podemos estudiar biología o matemáticas, que tienen el mismo problema\"\n→ [¿Es ciencia la psicología? (1:08:22)](https://youtu.be/1cF9VayHtRI?t=4102)\n\nLa solución del marco apela a la **metacognitividad recursiva**: el ser humano puede levantar planos sobre sus propios procesos sin caer en bucle vicioso. El cogito cartesiano (pensarse pensándose) ya articulado en [[teoria-del-simbolo-en-proxy]] como ambiguación es el caso paradigmático.\n\n## La crítica woke: dos lados convergentes\n\nLa refutación del Argumento 2 articula que la crítica conservadora-libertaria a la psicología converge involuntariamente con la postmoderna:\n\n> \"Gente de derecha, sobre todo latina, sostiene que la psicología es pseudociencia porque se usa para colar ideología postmoderna\"\n→ [¿Es ciencia la psicología? (28:24)](https://youtu.be/1cF9VayHtRI?t=1704)\n\n> \"La intuición sobre los psicólogos es que exacerban el narcisismo del paciente y desplazan la responsabilidad a factores externos\"\n→ [¿Es ciencia la psicología? (28:24)](https://youtu.be/1cF9VayHtRI?t=1704)\n\n> \"El movimiento New Age se ha revestido de psicología y se ha terminado confundiendo ambas cosas\"\n→ [¿Es ciencia la psicología? (28:24)](https://youtu.be/1cF9VayHtRI?t=1704)\n\nEl mecanismo de confusión es triple: (a) mala praxis profesional concreta que efectivamente exacerba el narcisismo del paciente; (b) ropaje psicológico de movimientos New Age sin sustento empírico; (c) atribución del problema a la disciplina entera en lugar de a sus aplicaciones desviadas. La crítica conservadora termina haciendo trabajo de la postmoderna: ambas aplanan la diferencia entre disciplina y mala praxis para descalificar la primera.\n\n## La hipótesis del mundo justo: mito del cuadrante arriba-derecha\n\nLa pieza estructural que aplica el [[diagrama-de-proxy]] a la propia crítica conservadora:\n\n> \"El peor defecto del cuadrante arriba-derecha es creer que quien se queja es porque quiere o se lo busca\"\n→ [¿Es ciencia la psicología? (31:27)](https://youtu.be/1cF9VayHtRI?t=1887)\n\n> \"Mentes desarrolladas en entornos con padres distantes y autoritarios que castigan las emociones terminan equiparando sufrir con quejarse\"\n→ [¿Es ciencia la psicología? (31:27)](https://youtu.be/1cF9VayHtRI?t=1887)\n\n> \"Si todo está bien, será culpa de él, porque yo estoy bien — locus interno de culpa proyectado\"\n→ [¿Es ciencia la psicología? (31:27)](https://youtu.be/1cF9VayHtRI?t=1887)\n\n> \"La hipótesis del mundo justo es un mito propio del cuadrante arriba-derecha\"\n→ [¿Es ciencia la psicología? (34:01)](https://youtu.be/1cF9VayHtRI?t=2041)\n\n> \"El taoísmo también sostiene que el mundo está bien como está, pero la diferencia es que cada uno tiene su aventura y debe trabajar sobre sí mismo\"\n→ [¿Es ciencia la psicología? (34:01)](https://youtu.be/1cF9VayHtRI?t=2041)\n\n> \"Arriba-derecha concibe el bien como algo externo-moral-divino y lo equipara con sus propias emociones negadas; abajo-izquierda lo identifica con una naturaleza animal-salvaje\"\n→ [¿Es ciencia la psicología? (34:01)](https://youtu.be/1cF9VayHtRI?t=2041)\n\n> \"Los liberales y comunistas no comparten esa identificación con la naturaleza: creen que todo es construido\"\n→ [¿Es ciencia la psicología? (34:01)](https://youtu.be/1cF9VayHtRI?t=2041)\n\nLa pieza articula la cuádruple aplicación del diagrama a la pregunta de qué es el bien: arriba-derecha (externo, moral, divino, equivalente a las emociones negadas del sujeto), abajo-izquierda (naturaleza animal-salvaje), liberales y comunistas (todo es construido — convergen en el rechazo a la naturaleza como referente). La crítica conservadora a la psicología deriva de la primera posición: si el sufrimiento del paciente fuera real, el mundo no sería justo; como el mundo debe ser justo (axioma del cuadrante), el sufrimiento debe ser fabricado por el paciente — la psicología que lo legitima es entonces vehículo de victimismo.\n\n## La psicología como ciencia natural, no social\n\nLa corrección categorial decisiva del marco:\n\n> \"Las ciencias sociales se organizan y se llaman ciencias simplemente por institucionalización\"\n→ [¿Es ciencia la psicología? (1:11:24)](https://youtu.be/1cF9VayHtRI?t=4284)\n\n> \"Periodismo, sociología, comunicación, política y gestión pública están en esa categoría pero la psicología no debería estarlo\"\n→ [¿Es ciencia la psicología? (1:11:24)](https://youtu.be/1cF9VayHtRI?t=4284)\n\n> \"La psicología es una ciencia de la salud y ciencia natural: estudia el comportamiento de un ser vivo\"\n→ [¿Es ciencia la psicología? (1:11:24)](https://youtu.be/1cF9VayHtRI?t=4284)\n\n> \"Corrección: la psicología clínica es la aplicación a la salud; la psicología como tal es una ciencia natural\"\n→ [¿Es ciencia la psicología? (1:14:55)](https://youtu.be/1cF9VayHtRI?t=4495)\n\n> \"Las ciencias sociales son pseudociencias naturales que usan el método científico de forma vaga\"\n→ [¿Es ciencia la psicología? (1:14:55)](https://youtu.be/1cF9VayHtRI?t=4495)\n\n> \"La sociología ve la tele, ve tweets, dice 'parece que la gente se decanta por esto' y lo junta con marketing\"\n→ [¿Es ciencia la psicología? (1:14:55)](https://youtu.be/1cF9VayHtRI?t=4495)\n\nLa pieza es taxonómicamente decisiva: la psicología no pertenece a la categoría 'ciencias sociales' — comparte con la biología el estudio del comportamiento de un ser vivo. Lo que se llama 'ciencias sociales' es agrupación institucional de disciplinas con método científico vago (o ausente, en el caso del periodismo o gestión pública). La psicología clínica es aplicación práctica de la disciplina natural a la salud — análoga a cómo la medicina aplica la biología.\n\n## Disciplinas como áreas secantes, no conjuntos\n\nLa observación complementaria sobre la organización de las ciencias:\n\n> \"No se puede hacer una taxonomía de ciencias por conjuntos y subconjuntos porque filosóficamente no encaja\"\n→ [¿Es ciencia la psicología? (1:17:26)](https://youtu.be/1cF9VayHtRI?t=4646)\n\n> \"Las disciplinas se solapan e intersecan: biología, antropología, paleontología comparten objetos pero con aproximaciones diferentes\"\n→ [¿Es ciencia la psicología? (1:17:26)](https://youtu.be/1cF9VayHtRI?t=4646)\n\n> \"El mismo hecho físico-material puede aportar conocimiento a tres disciplinas diferentes según el campo al que se aplique\"\n→ [¿Es ciencia la psicología? (1:17:26)](https://youtu.be/1cF9VayHtRI?t=4646)\n\nLa pieza es metodológica: las disciplinas son **áreas secantes** definidas por el ángulo de aproximación a objetos compartidos, no compartimentos estancos jerarquizados. La psicología puede tomar objetos de la biología, la sociología puede tomar objetos de la psicología, sin que haya inclusión jerárquica.\n\n## Si la psicología no fuera ciencia: la protección epistémica\n\nEl cierre teleológico del marco articula por qué la pregunta importa:\n\n> \"Si se deja de considerar ciencia es cuando se abre la puerta a que políticos e ideólogos metan mano\"\n→ [¿Es ciencia la psicología? (1:49:23)](https://youtu.be/1cF9VayHtRI?t=6563)\n\n> \"El caso de Irene Montero y la progresía como ejemplo de lo que ocurre cuando se desnaturaliza la psicología\"\n→ [¿Es ciencia la psicología? (1:49:23)](https://youtu.be/1cF9VayHtRI?t=6563)\n\n> \"No dejaría de ser útil ni interesante, pero sí dejaría de tener la protección epistémica que la hace resistente a la corrupción\"\n→ [¿Es ciencia la psicología? (1:49:23)](https://youtu.be/1cF9VayHtRI?t=6563)\n\nLa pieza es política además de epistemológica: la categoría 'ciencia' funciona como **escudo contra la captura ideológica**. Si la disciplina se considera arte, opinión o construcción social, sus contenidos son negociables políticamente. Si se considera ciencia natural, sus afirmaciones requieren contraste empírico — los políticos pueden ignorarlos, pero no redefinir el campo.\n\n## La economía y otras ciencias sociales\n\nEl caso límite que el marco discute al final:\n\n> \"La economía formalmente cumple los requisitos de ciencia: replicabilidad, falsabilidad, modelización\"\n→ [¿Es ciencia la psicología? (1:52:24)](https://youtu.be/1cF9VayHtRI?t=6744)\n\n> \"Sin embargo las teorías económicas parecen ocurrencias de autor con seguidores ideológicos más que ciencia\"\n→ [¿Es ciencia la psicología? (1:52:24)](https://youtu.be/1cF9VayHtRI?t=6744)\n\n> \"La economía podría ser un subdominio de la sociología, y la sociología un subdominio de la psicología\"\n→ [¿Es ciencia la psicología? (1:52:24)](https://youtu.be/1cF9VayHtRI?t=6744)\n\n> \"Lo que estudia la economía como ciencia (el valor, el riesgo, la justicia) ya lo contiene la psicología\"\n→ [¿Es ciencia la psicología? (1:52:24)](https://youtu.be/1cF9VayHtRI?t=6744)\n\nLa hipótesis de subdominación (economía ⊂ sociología ⊂ psicología) modula la rigidez taxonómica anterior: las disciplinas son áreas secantes, pero hay vectores de mayor abstracción donde una disciplina contiene los objetos de otras. La psicología contendría los referentes psicológicos (valor, riesgo, justicia) que la economía formaliza secundariamente.\n\n## Páginas conectadas\n\n- [[realismo-cognitivo]] — el método científico como formalización del proceso cognitivo es aplicación directa: la cognición funciona por observación, modelización, contraste, falsación; estudiar la cognición reproduce el método científico desde la propia mente.\n- [[materialismo-antiformalista]] — la negación de la psique como esencia platónica y la modelización desde lo bioquímico y formal es coherente con la stance materialista del canal.\n- [[diagrama-de-proxy]] — el aparato del diagrama opera como marco analítico aplicado a la crítica conservadora: la hipótesis del mundo justo y la equiparación sufrir=quejarse son mitos del cuadrante arriba-derecha.\n- [[woke-narrativa-postmoderna-moral]] — el marco identifica la convergencia involuntaria entre la crítica woke a la psicología (vehículo ideológico) y la conservadora (vehículo de victimismo); ambas aplanan diferencias categoriales.\n- [[teoria-del-simbolo-en-proxy]] — la articulación de las matemáticas como hecho psíquico y el problema de autorreferencia método-objeto conectan con el aparato cognitivo de la teoría del símbolo.\n- [[teoria-del-dolor-en-proxy]] — el caso del miedo como objeto bioquímico medible es paralelo metodológico al del dolor: lo subjetivo no es lo medido, pero el sustrato bioquímico sí lo es.\n\n## Lagunas\n\n- **Genealogía filosófica de los argumentos**: el marco articula los tres argumentos contra la psicología sin remitirlos explícitamente a tradiciones (Popper sobre falsabilidad, Kuhn sobre paradigmas, Lakatos sobre programas de investigación, Feyerabend contra el método). La distancia exacta con esas tradiciones queda implícita.\n- **Articulación con Bueno**: la corrección de la psicología como ciencia natural y no social podría dialogar con la teoría de los géneros de materialidad de Gustavo Bueno (M1/M2/M3), que el canal articula en otro corpus. Conexión no explícita aquí.\n- **Estatus epistémico de la clínica**: el marco distingue psicología (ciencia natural) de psicología clínica (aplicación), pero no desarrolla los criterios epistémicos de la clínica como praxis (qué la distingue de la mera intuición clínica, cómo se valida la intervención).\n- **Crítica feyerabendiana**: el marco asume hetero-determinación comunitaria como criterio de cientificidad sin discutir la objeción de que las comunidades pueden estar capturadas ideológicamente — exactamente el problema que el cierre político del marco identifica.\n- **Ciencias formales y autorreferencia**: el paralelo Gödel/psicología es sugerente pero queda como analogía. La estructura formal de la incompletitud y su relación con el problema de la psicología requeriría desarrollo técnico que el vídeo no aborda.\n- **Ejemplos de mala praxis vs disciplina**: el marco distingue mala praxis profesional de disciplina pero no taxoniza los tipos de mala praxis (intuicionismo, New Age, ideologización política, exacerbación del narcisismo) ni cómo se diagnostican operativamente.\n\n## Status auto-promoción\n\nEsta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1: minutes_sustained ≈110 (≥30), signal_marks_detected = 5 (thesis_marker múltiple cubriendo correcciones explícitas: 'la psicología no estudia la psique sino la conducta', 'la psicología es ciencia natural no social', 'el método científico es formalización de la cognición', 'las matemáticas son hecho psíquico no platónico'; pedagogic_register sostenido con definiciones, taxonomías y refutaciones; internal_structure articulada con 22 piezas explícitas; applied_framework — diagrama-de-proxy aplicado a la hipótesis del mundo justo; genealogical_self_reference — el cuadrante arriba-derecha como mito propio del marco), framework_internal_structure ≥4. Queda abierta a revisión humana — el campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría.\n\n## Citations\n\n- **¿Es ciencia la psicología?** — chunks: [18:20](https://youtu.be/1cF9VayHtRI?t=1100) · [19:21](https://youtu.be/1cF9VayHtRI?t=1161) · [21:23](https://youtu.be/1cF9VayHtRI?t=1283) · [28:24](https://youtu.be/1cF9VayHtRI?t=1704) · [31:27](https://youtu.be/1cF9VayHtRI?t=1887) · [34:01](https://youtu.be/1cF9VayHtRI?t=2041) · [37:32](https://youtu.be/1cF9VayHtRI?t=2252) · [44:36](https://youtu.be/1cF9VayHtRI?t=2676) · [49:38](https://youtu.be/1cF9VayHtRI?t=2978) · [52:10](https://youtu.be/1cF9VayHtRI?t=3130) · [57:15](https://youtu.be/1cF9VayHtRI?t=3435) · [1:00:17](https://youtu.be/1cF9VayHtRI?t=3617) · [1:02:17](https://youtu.be/1cF9VayHtRI?t=3737) · [1:04:50](https://youtu.be/1cF9VayHtRI?t=3890) · [1:07:21](https://youtu.be/1cF9VayHtRI?t=4041) · [1:08:22](https://youtu.be/1cF9VayHtRI?t=4102) · [1:11:24](https://youtu.be/1cF9VayHtRI?t=4284) · [1:14:55](https://youtu.be/1cF9VayHtRI?t=4495) · [1:17:26](https://youtu.be/1cF9VayHtRI?t=4646) · [1:49:23](https://youtu.be/1cF9VayHtRI?t=6563) · [1:52:24](https://youtu.be/1cF9VayHtRI?t=6744)\n"
+      }
+    },
+    {
+      "surface_form": "hipótesis del mundo justo / cuadrante arriba-derecha",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La hipótesis del mundo justo es un mito propio del cuadrante arriba-derecha"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Arriba-derecha concibe el bien como algo externo-moral-divino y lo equipara con sus propias emociones negadas; abajo-izquierda lo identifica con una naturaleza animal-salvaje"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico aplica operativamente el diagrama de Proxy a la pregunta de qué es el bien para cada cuadrante: (31:27, 34:01) arriba-derecha (externo-moral-divino, equiparación sufrir=quejarse, hipótesis del mundo justo, locus interno de culpa proyectado, padres distantes-autoritarios como etiología); abajo-izquierda (naturaleza animal-salvaje); liberales y comunistas (todo es construido, no comparten identificación con la naturaleza). Refuerza el aparato del page con casos psicológicos específicos por cuadrante. Cita-only para retrieval indirecto",
+      "quote_evidence": "La hipótesis del mundo justo es un mito propio del cuadrante arriba-derecha"
+    },
+    {
+      "surface_form": "método científico como formalización del proceso cognitivo",
+      "canonical_guess": "realismo-cognitivo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El método científico es un intento de formalización del proceso cognitivo: observación, modelización, contraste, falsación, análisis formal"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si uno estudia cómo funciona la cognición le va a salir un método científico hecho por su propia mente"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El bloque (1:00:17) cierra el bucle entre realismo-cognitivo y filosofía de la ciencia: el método científico no se impone desde fuera a la cognición, emerge de ella como su forma operativa más explícita y autocrítica. Refuerza la stance representacionalista del page con articulación metodológica complementaria. Cita-only para retrieval indirecto",
+      "quote_evidence": "El método científico es un intento de formalización del proceso cognitivo: observación, modelización, contraste, falsación, análisis formal"
+    },
+    {
+      "surface_form": "psicología como vehículo woke (crítica conservadora y postmoderna)",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Gente de derecha, sobre todo latina, sostiene que la psicología es pseudociencia porque se usa para colar ideología postmoderna"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El movimiento New Age se ha revestido de psicología y se ha terminado confundiendo ambas cosas"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico identifica la convergencia involuntaria entre la crítica woke a la psicología y la crítica conservadora-libertaria: ambas atribuyen al campo entero la mala praxis profesional concreta. La psicología clínica desviada (exacerbación del narcisismo, desplazamiento de responsabilidad) + ropaje psicológico de movimientos New Age + ideologización política son operaciones que el page articula como mecanismos típicos de la postmodernidad moral. Cita-only para retrieval indirecto",
+      "quote_evidence": "El movimiento New Age se ha revestido de psicología y se ha terminado confundiendo ambas cosas"
+    },
+    {
+      "surface_form": "psicología como ciencia natural / materialismo aplicado",
+      "canonical_guess": "materialismo-antiformalista",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La psicología no estudia la psique sino la conducta humana externa e interna, y su modelización es posible desde lo bioquímico y desde lo formal"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las matemáticas son un hecho psíquico, no algo que exista en un mundo platónico externo"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico aplica la stance materialista antiformalista a dos casos: (52:10) la psicología no estudia la psique como esencia platónica inabarcable sino la conducta humana modelizable desde sustrato bioquímico y formalización conceptual; (1:02:17) las matemáticas como hecho psíquico no platónico — paralelo simétrico que cierra el bucle materialista. Cita-only para retrieval indirecto",
+      "quote_evidence": "La psicología no estudia la psique sino la conducta humana externa e interna, y su modelización es posible desde lo bioquímico y desde lo formal"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **¿Es ciencia la psicología?** — chunks: [31:27](https://youtu.be/1cF9VayHtRI?t=1887) · [34:01](https://youtu.be/1cF9VayHtRI?t=2041)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 1887,
+          "cite_markdown": "[¿Es ciencia la psicología? (31:27)](https://youtu.be/1cF9VayHtRI?t=1887)"
+        },
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 2041,
+          "cite_markdown": "[¿Es ciencia la psicología? (34:01)](https://youtu.be/1cF9VayHtRI?t=2041)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico aplica operativamente el diagrama a la pregunta de qué es el bien según cada cuadrante: (31:27) arriba-derecha equipara sufrir con quejarse — etiología en padres distantes-autoritarios que castigan emociones, locus interno de culpa proyectado; (34:01) caracterización del bien por cuadrante: arriba-derecha (externo-moral-divino, hipótesis del mundo justo, equiparado con emociones negadas), abajo-izquierda (naturaleza animal-salvaje), liberales-comunistas (todo construido). Aporta articulación psicológica concreta para cada cuadrante",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **¿Es ciencia la psicología?** — chunks: [1:00:17](https://youtu.be/1cF9VayHtRI?t=3617) · [1:04:50](https://youtu.be/1cF9VayHtRI?t=3890) · [1:08:22](https://youtu.be/1cF9VayHtRI?t=4102)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 3617,
+          "cite_markdown": "[¿Es ciencia la psicología? (1:00:17)](https://youtu.be/1cF9VayHtRI?t=3617)"
+        },
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 3890,
+          "cite_markdown": "[¿Es ciencia la psicología? (1:04:50)](https://youtu.be/1cF9VayHtRI?t=3890)"
+        },
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 4102,
+          "cite_markdown": "[¿Es ciencia la psicología? (1:08:22)](https://youtu.be/1cF9VayHtRI?t=4102)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico extiende realismo-cognitivo en tres frentes: (1:00:17) método científico como formalización del proceso cognitivo (observación, modelización, contraste, falsación) — la cognición funciona exactamente así, estudiarla reproduce el método; (1:04:50) miedo como objeto bioquímico medible (conductividad piel, frecuencia cardíaca) — caso paralelo al dolor en su distinción objetivo/subjetivo; (1:08:22) autorreferencia método-objeto resuelta por metacognitividad recursiva. Cita-only para retrieval indirecto",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **¿Es ciencia la psicología?** — chunks: [21:23](https://youtu.be/1cF9VayHtRI?t=1283) · [28:24](https://youtu.be/1cF9VayHtRI?t=1704)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 1283,
+          "cite_markdown": "[¿Es ciencia la psicología? (21:23)](https://youtu.be/1cF9VayHtRI?t=1283)"
+        },
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 1704,
+          "cite_markdown": "[¿Es ciencia la psicología? (28:24)](https://youtu.be/1cF9VayHtRI?t=1704)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico identifica dos críticas convergentes a la psicología: (21:23) la mala praxis profesional como origen del desprestigio (intuicionismo cultural); (28:24) la crítica conservadora-libertaria que la considera pseudociencia woke por exacerbar narcisismo del paciente y desplazar responsabilidad + el ropaje psicológico de movimientos New Age que terminan confundiéndose con la disciplina. Ambas operaciones aplanan diferencias categoriales entre disciplina y praxis desviada — mecanismo paradigmático del aplanamiento postmoderno",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "materialismo-antiformalista",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **¿Es ciencia la psicología?** — chunks: [52:10](https://youtu.be/1cF9VayHtRI?t=3130) · [1:02:17](https://youtu.be/1cF9VayHtRI?t=3737)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 3130,
+          "cite_markdown": "[¿Es ciencia la psicología? (52:10)](https://youtu.be/1cF9VayHtRI?t=3130)"
+        },
+        {
+          "video_id": "1cF9VayHtRI",
+          "timestamp_seconds": 3737,
+          "cite_markdown": "[¿Es ciencia la psicología? (1:02:17)](https://youtu.be/1cF9VayHtRI?t=3737)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico aplica la stance materialista antiformalista a dos casos: (52:10) la psicología no estudia la psique como esencia platónica inabarcable sino la conducta humana modelizable desde sustrato bioquímico y formalización conceptual; (1:02:17) las matemáticas como hecho psíquico no platónico, con problema de autorreferencia análogo al de la psicología (Gödel como caso extremo formalmente demostrado). Paralelo simétrico que refuerza el rechazo del platonismo en ambas direcciones",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Caso Irene Montero como ejemplo de desnaturalización política de la psicología",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve a Irene Montero (1:49:23) como caso ilustrativo de lo que ocurre cuando los políticos ideólogos meten mano en la psicología. La mención roza politiqueo coyuntural pero está integrada en una tesis estructural sobre la función protectora de la categoría 'ciencia' frente a la captura ideológica — la pieza queda capturada en el cierre teleológico del nuevo synthesis epistemologia-de-la-psicologia-en-proxy. No merece tratamiento separado",
+      "quote_evidence": "El caso de Irene Montero y la progresía como ejemplo de lo que ocurre cuando se desnaturaliza la psicología",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 1,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 1,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T14:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

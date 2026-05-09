@@ -1,0 +1,341 @@
+{
+  "video_id": "DNHgjIgU_-c",
+  "video_title": "El país del fin del Mundo II. DANA.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Gisbert nunca articula un proyecto constituyente concreto",
+      "canonical_guess": "gisbertocracia",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Gisbert nunca articula un proyecto constituyente concreto: solo habla de soberanía sin definir mecanismos"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Bloque 22:20-24:21 extiende la crítica gisbertocracia con dos ángulos: (a) Gisbert no aterriza el formalismo en proyecto constituyente concreto — refuerza la crítica articulada en el page; (b) primer movimiento del canal hacia propuesta procedimental positiva (taller con juristas, constitución garantista con bloques de derechos y garantías, contactar a Bernad y Bastos) — toca lateralmente la laguna 'Alternativa positiva' del page sin resolverla del todo (sigue siendo procedimental, no sustantiva). Cita-only update por scope.md §3.1 (crítica de tradición intelectual + marco propio aplicado) y por la regla de redundancia: la prosa ya cubre el mecanismo crítico nuclear, los timestamps añaden cobertura de retrieval indirecto",
+      "quote_evidence": "Gisbert nunca articula un proyecto constituyente concreto: solo habla de soberanía sin definir mecanismos"
+    },
+    {
+      "surface_form": "sofisma estético",
+      "canonical_guess": "sofisma-estetico",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El sofisma estético proyecta culpa sobre prácticas privadas consensuadas entre adultos"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Concepto invocado como marco aplicado en dos bloques distintos: (1:29:13) feminismo de consigna sin acción concreta como propaganda vacía — encaja con la lógica nuclear 'palabra sustituye conducta'; (1:37:25) neo-puritanismo proyecta culpa sobre prácticas privadas consensuadas — el speaker etiqueta directamente como sofisma estético. La prosa de sofisma-estetico ya cubre exhaustivamente el mecanismo (tras Read del cuerpo completo): añadir prosa sería redundante. Cita-only update para retrieval indirecto vía SQLite citations index",
+      "quote_evidence": "El sofisma estético proyecta culpa sobre prácticas privadas consensuadas entre adultos"
+    }
+  ],
+  "_doc_promote_new": "Sin candidatos a promote_new. Vídeo de actualidad coyuntural con densidad arquetípica/teórica baja. Las dos entidades emitidas son update_existing cita-only.",
+  "pending_updates": [
+    {
+      "page_id": "gisbertocracia",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El país del fin del Mundo II. DANA.** — chunks: [22:20](https://youtu.be/DNHgjIgU_-c?t=1340) · [24:21](https://youtu.be/DNHgjIgU_-c?t=1461)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "timestamp_seconds": 1340,
+          "cite_markdown": "[El país del fin del Mundo II. DANA. (22:20)](https://youtu.be/DNHgjIgU_-c?t=1340)"
+        },
+        {
+          "video_id": "DNHgjIgU_-c",
+          "timestamp_seconds": 1461,
+          "cite_markdown": "[El país del fin del Mundo II. DANA. (24:21)](https://youtu.be/DNHgjIgU_-c?t=1461)"
+        }
+      ],
+      "rationale": "cita-only — el bloque 22:20-24:21 (a) refuerza la crítica nuclear del page con un ángulo nuevo (Gisbert no aterriza su formalismo en proyecto constituyente) y (b) muestra el primer movimiento del canal hacia propuesta procedimental positiva (taller con juristas, bloques garantistas) que toca lateralmente la laguna 'Alternativa positiva'. La prosa central del page ya cubre exhaustivamente la crítica al racional-formalismo; añadimos timestamps al índice de citations para retrieval indirecto. Append_to_section sobre Citations es el update_type correcto: no requiere anchor único y el formato es consistente con el resto del array",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "sofisma-estetico",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **El país del fin del Mundo II. DANA.** — chunks: [1:29:13](https://youtu.be/DNHgjIgU_-c?t=5353) · [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "DNHgjIgU_-c",
+          "timestamp_seconds": 5353,
+          "cite_markdown": "[El país del fin del Mundo II. DANA. (1:29:13)](https://youtu.be/DNHgjIgU_-c?t=5353)"
+        },
+        {
+          "video_id": "DNHgjIgU_-c",
+          "timestamp_seconds": 5845,
+          "cite_markdown": "[El país del fin del Mundo II. DANA. (1:37:25)](https://youtu.be/DNHgjIgU_-c?t=5845)"
+        }
+      ],
+      "rationale": "cita-only — sofisma estético invocado en dos bloques: (1:29:13) feminismo de consigna como propaganda vacía vs donación visible — caso ilustrativo del mecanismo 'enunciado moral sustituye conducta'; (1:37:25) neo-puritanismo proyecta culpa sobre prácticas consensuadas — extensión del mecanismo al ámbito sexual. La prosa del page (caso del adolescente, racismo estético, postmodernidad moral) ya cubre el mecanismo nuclear; nuevos timestamps no aportan matiz prosa pero sí cobertura de retrieval indirecto al SQLite index",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Testimonio directo desde la zona cero de la DANA en Valencia",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Descripción presencial de la zona afectada (autovía, Masanasa, Alfafar, Casa Roja) sin marco teórico aplicado. Es testimonio coyuntural, no análisis arquetípico ni psicológico estructural",
+      "quote_evidence": "J describe la autovía hacia Valencia con carriles serpenteantes entre montañas de barro y coches abandonados",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Bloqueos policiales y conflicto de competencias en el acceso a Valencia",
+      "reason_code": "political_news",
+      "reason_detail": "Actualidad coyuntural de gestión administrativa de la emergencia. No hay marco teórico aplicado; test de la cápsula del tiempo: retiras 'Valencia/DANA' y la afirmación se desvanece",
+      "quote_evidence": "La policía no deja entrar por autopista a la zona afectada pero sí se puede acceder por carreteras secundarias",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Ausencia de operativos de limpieza y emergencia en la zona afectada",
+      "reason_code": "political_news",
+      "reason_detail": "Crítica coyuntural de la respuesta del Estado a la emergencia. Sin marco psicológico/sociológico/filosófico estructural",
+      "quote_evidence": "J no vio a nadie trabajando a las 8-9 de la tarde del jueves: policías y UME estaban parados charlando",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Por qué protestar en Ferraz y no en el Congreso",
+      "reason_code": "political_news",
+      "reason_detail": "Discusión táctica sobre estrategia de protesta dirigida a partido político concreto (PSOE/Ferraz). Cápsula del tiempo: retirar PSOE/Ferraz y la afirmación pierde valor — no sobrevive como tesis estructural sobre legitimidad de protesta. Politiqueo táctico",
+      "quote_evidence": "Protestar frente al Congreso diluye la protesta porque es un edificio vacío que no representa a nadie concreto",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "El sistema no necesita legitimidad: inutilidad del abstencionismo",
+      "reason_code": "political_news",
+      "reason_detail": "Tesis breve sobre legitimidad popular del sistema embebida en argumentación partidista (PSOE controla Tribunal Constitucional). El núcleo estructural ('sistema no depende de legitimación popular') es muy breve y no se desarrolla; la mayor parte del bloque es politiqueo coyuntural",
+      "quote_evidence": "No votar no deslegitima el sistema porque el sistema no depende de legitimación popular para funcionar",
+      "review_priority": "medium",
+      "review_priority_reason": "El núcleo estructural ('sistema no depende de legitimación popular para funcionar') tiene potencial de tesis política pero queda subdesarrollado en este vídeo. Si reaparece sostenido en otros, podría merecer página propia"
+    },
+    {
+      "surface_form": "El peligro de unas cortes constituyentes sin proyecto claro",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Capturado en pending_update a gisbertocracia (extiende la crítica con el ángulo 'Gisbert no aterriza en proyecto constituyente concreto')",
+      "quote_evidence": "Si la tensión escala hasta cortes constituyentes, la nueva constitución la redactaría el PPSOE y sería peor que la actual",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Propuesta de taller constitucional con juristas",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Capturado en pending_update a gisbertocracia (toca lateralmente la laguna 'Alternativa positiva' con propuesta procedimental: taller con juristas + bloques garantistas)",
+      "quote_evidence": "Los divulgadores deberían proponer un esquema de constitución garantista con bloques de derechos y garantías",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "La actuación del rey frente a la del gobierno en Paiporta",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Juicio moral comparativo sobre figuras políticas concretas (rey vs Sánchez vs Mazón) en un evento coyuntural. Cápsula del tiempo: retirar nombres propios y la afirmación se desvanece",
+      "quote_evidence": "El rey mostró temple, gallardía y valor al exponerse sin escolta real entre la multitud enfurecida",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Defensa de la monarquía como institución",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Apología institucional con argumento económico-coyuntural (coste de la monarquía). Roza filosofía política pero queda como apología partidista sin marco estructural articulado",
+      "quote_evidence": "La monarquía española no cuesta apenas dinero y es un órgano representativo compuesto por personas razonables",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Sánchez canaliza las ayudas a Valencia a través de los presupuestos generales",
+      "reason_code": "political_news",
+      "reason_detail": "Crítica táctica al uso instrumental del decreto presupuestario por figura política concreta. Politiqueo coyuntural sin marco teórico aplicado",
+      "quote_evidence": "Sánchez incluye las ayudas en los presupuestos generales del Estado",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Moncloa montó la operación Broncano para desactivar a Pablo Motos",
+      "reason_code": "political_news",
+      "reason_detail": "Maniobra mediático-política coyuntural. La tesis adyacente 'la ideología se insufla desde el entretenimiento' es muy breve y descriptiva (atribuida al PSOE como estrategia), no marco propio articulado del canal",
+      "quote_evidence": "Un consejero de RTVE confirma que Zapatero, Óscar López, Félix Bolaños y otros orquestaron el fichaje de Broncano",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Decretazo para controlar RTVE",
+      "reason_code": "political_news",
+      "reason_detail": "Análisis de reforma legislativa coyuntural sobre composición del Consejo de Administración de RTVE. Sin marco psicológico/filosófico aplicado",
+      "quote_evidence": "El Consejo de Administración pasa de 11 a 15 miembros con sueldos de 100.000€ anuales y se reduce el peso conservador",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Caso de la denunciante de Rejón: autodestrucción en directo",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Análisis de caso particular contra figura política concreta. Toca tangencialmente la lógica del camino-víctima (autodeclaración) pero no la articula explícitamente, y la mayor parte del bloque es comentario sobre actuación pública individual",
+      "quote_evidence": "La denunciante acusa públicamente a Rejón de violación múltiple contradiciendo su propio testimonio anterior",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "El dogmatismo climático como arma política tras la DANA",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica al non sequitur DANA-cambio climático-votar-Trump como cadena argumentativa sin conexión lógica. Mecanismo retórico encaja con la lógica del woke (asociación moral por encima de criterio sustantivo) — caso ilustrativo del concepto ya promovido",
+      "quote_evidence": "Un tertuliano conecta la DANA con el cambio climático y dice que la solución ciudadana es \"votar bien\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "El Constitucional avala retroactivamente el confinamiento con estado de alarma",
+      "reason_code": "political_news",
+      "reason_detail": "Análisis técnico-jurídico de cambio de doctrina del TC en caso coyuntural (confinamiento covid). Politiqueo institucional sin marco filosófico-político estructural articulado",
+      "quote_evidence": "El Tribunal Constitucional rectifica su propia doctrina y establece que el confinamiento no suspendió derechos sino que los limitó",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Mr. Jagger equipara a voluntarios de la DANA con nazis",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "Comentario sobre figura individual de redes sociales y su mecanismo retórico de deslegitimación. El mecanismo descrito ('etiquetar como fascista para evitar agradecer ayuda') no se eleva a tesis estructural ni se vincula explícitamente a un concepto del canal",
+      "quote_evidence": "Publica tweets comparando a los voluntarios con \"asociación de maltratadores de viejas\" y \"pateadores de gatos\"",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "La Confederación Hidrográfica del Júcar avisó de la crecida por email",
+      "reason_code": "political_news",
+      "reason_detail": "Anécdota administrativa sobre fallo de comunicación de emergencia. Sin marco teórico aplicado",
+      "quote_evidence": "Detectaron una crecida de 0 a 2000 m³/s en una rambla y su única acción fue mandar un correo electrónico",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Propuestas de acción ciudadana: insumisión fiscal y protesta directa",
+      "reason_code": "political_news",
+      "reason_detail": "Discusión táctica sobre formas de protesta ciudadana ante la situación coyuntural. Mención breve a Pablo Iglesias como caso de hipocresía retroactiva (no como caso ilustrativo de un concepto promovido). Politiqueo de actualidad",
+      "quote_evidence": "La insumisión fiscal requiere coordinación masiva simultánea o no funciona",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Las donaciones no anónimas como supuesta propaganda",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Capturado en pending_update a sofisma-estetico (caso ilustrativo del mecanismo 'consigna sin acción concreta' = propaganda vacía verbal vs acción demostrada)",
+      "quote_evidence": "Acusar de propaganda a quien dona públicamente es proyección pura de quien solo hace propaganda verbal",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Caso de Hamburgo y el delirio de Lara sobre víctimas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis de caso jurídico alemán + posición de Lara sobre autodeclaración de víctima. La lógica 'autodeclaración como prueba suficiente' es invocación canónica de camino-victima — caso ilustrativo del concepto ya promovido",
+      "quote_evidence": "Lara afirma que no apoyar inmediatamente a quien se declara víctima implica un riesgo alto de defender a un violador",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "camino-victima"
+    },
+    {
+      "surface_form": "Neo-puritanismo sexual: prácticas consensuadas como ilegítimas",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Capturado en pending_update a sofisma-estetico (proyección de culpa sobre prácticas privadas consensuadas — extensión del mecanismo al ámbito sexual)",
+      "quote_evidence": "Una tuitera declara que simular violación o juegos de rol con menores ficticias no son \"legítimos\" aunque sean consensuados",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Psicóloga de redes que no entiende la psicología masculina",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica a divulgadora de redes que prescribe emocionalidad femenina como estándar universal sin contemplar tareas madurativas femeninas. Encaja con la crítica del canal a psicoinfluencers (psicología pop como prescripción ideológica) — caso ilustrativo del concepto ya promovido",
+      "quote_evidence": "Representa el patrón de psicología pop que prescribe emocionalidad femenina como estándar universal",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy"
+    },
+    {
+      "surface_form": "Debate UTBH vs Fonsi Loaiza: ocupación, vivienda y demagogia",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre debate público entre figuras de redes sobre tema de vivienda. La distinción 'derecho de acceso vs derecho de provisión' es estructural pero queda muy breve dentro de comentario partidista. No se eleva a marco articulado",
+      "quote_evidence": "Fonsi desvía cualquier pregunta sobre ocupación hacia Florentino Pérez, Securitas Direct y el franquismo",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Anuncio de próximos streams: cuentos de Lovecraft y filosofía de la mente",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de próximos directos del canal. Metadata del stream, no contenido temático. La mención al tercer libro de Proxy 'La casa, el árbol y el laberinto' queda como referencia bibliográfica del propio canal sin desarrollo",
+      "quote_evidence": "El jueves habrá lectura de cuentos de Lovecraft con velas para ambientar el otoño",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "El PSOE no está sometido al principio de legalidad real porque el Tribunal Constitucional es su última instancia y lo controla",
+      "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+      "reason": "Mención directa a partido PSOE en discusión coyuntural sobre control institucional"
+    },
+    {
+      "block_quote": "Si la tensión escala hasta cortes constituyentes, la nueva constitución la redactaría el PPSOE y sería peor que la actual",
+      "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+      "reason": "Mención a 'PPSOE' (PP+PSOE) — actualidad partidista. Aunque el bloque también está capturado por gisbertocracia pending_update por el ángulo Gisbert"
+    },
+    {
+      "block_quote": "Sánchez incluye las ayudas en los presupuestos generales del Estado",
+      "matched_pattern": "(?i)\\b(...|s[aá]nchez|...)\\b",
+      "reason": "Mención directa a Pedro Sánchez (figura política partidista) en contexto coyuntural"
+    },
+    {
+      "block_quote": "Un consejero de RTVE confirma que Zapatero, Óscar López, Félix Bolaños y otros orquestaron el fichaje de Broncano",
+      "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+      "reason": "Bloque sobre estrategia mediática del PSOE — politiqueo coyuntural"
+    },
+    {
+      "block_quote": "El Consejo de Administración pasa de 11 a 15 miembros con sueldos de 100.000€ anuales y se reduce el peso conservador",
+      "matched_pattern": "(?i)\\b(...|pp\\b|psoe|...)\\b",
+      "reason": "Bloque sobre reforma RTVE PP/PSOE — politiqueo institucional"
+    },
+    {
+      "block_quote": "Un solo magistrado del PSOE cambió la mayoría que antes declaró ilegal el estado de alarma",
+      "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
+      "reason": "Análisis de doctrina TC en contexto partidista PSOE"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 24,
+    "blocks_filtered_count": 6
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

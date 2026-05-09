@@ -1,0 +1,482 @@
+{
+  "video_id": "6tfSc45kjyo",
+  "video_title": "Elisa y su CI",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "cociente intelectual / inteligencia / adaptación",
+      "canonical_guess": "inteligencia-y-adaptacion-en-proxy",
+      "page_type": "synthesis",
+      "synthesis_subtype": "author_thesis",
+      "domain_primary_guess": "social.psychology",
+      "primary_domains_guess": [
+        "social.psychology",
+        "social.psychology.cognitive",
+        "interdisciplinary.cultural_studies"
+      ],
+      "depth_in_video": "primary",
+      "minutes_estimate": 55,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El cociente intelectual es un predictor psicométrico del desempeño intelectual general, no una medida directa de inteligencia"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "La teoría de inteligencias múltiples no tiene ningún sentido filosófico ni científico"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "La cultura está diseñada para un CI de entre 100 y 110"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "A largo plazo, el factor decisivo no es la inteligencia ni los atributos físicos sino la capacidad de adaptación"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Genio empieza en 130 de CI, 140 es claramente genio, 120 es simplemente persona muy inteligente"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El test de matrices de Raven es el que más se aproxima a medir la inteligencia general abstracta"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los psicópatas puntúan alto en CI porque carecen de respuestas afectivas que frenen el intelecto puro"
+        }
+      ],
+      "minutes_sustained": 55,
+      "framework_internal_structure": [
+        "CI vs inteligencia general (factor G): el CI es predictor psicométrico, no medida directa",
+        "Escala real: 100 media, 120 muy inteligente, 130 genio, 140 claramente genio, 150-160 desadaptados, 85 retraso, percentil 95 Mensa",
+        "TDAH como distorsionador: el test penaliza problemas de concentración aunque la inteligencia general sea alta",
+        "Distinción terminológica cociente / coeficiente",
+        "Crítica a Gardner / inteligencias múltiples como pseudociencia postmoderna",
+        "Tests: Raven (más cerca de inteligencia general abstracta) vs Wechsler (batería de dominios)",
+        "Distinción visoespacial vs espacial real (orientación, navegación)",
+        "La cultura está diseñada para CI 100-110: la curva normal define la adaptación",
+        "Inteligencia como factor de desadaptación: ambos extremos sufren desencaje cultural",
+        "La inteligencia no produce felicidad: la sombra usa el intelecto contra sí mismo",
+        "La adaptación como verdadero predictor de éxito a largo plazo",
+        "Psicópatas alta CI: ausencia de reactividad afectiva → adaptación instrumental",
+        "Capacidad social vs inteligencia: maleabilidad y lectura del entorno como dominio independiente",
+        "El acomplejo progresista con el CI: rechazo público + exhibición privada"
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de 84 min con ≈55 min sostenidos articulando una teoría propia de la relación inteligencia/adaptación que cumple el gate de auto-promoción de scope.md §2.4.1: minutes_sustained ≈55 (≥30), signal_marks_detected = 5 (thesis_marker múltiple, pedagogic_register, internal_structure, applied_framework), framework_internal_structure con 14 piezas explícitas (≥4). El núcleo es articulación foundational del canal: (a) corrección categorial (CI ≠ inteligencia general, factor G no medible directamente, Gardner como pseudociencia postmoderna); (b) tesis propia sobre la curva normal como trampa de desadaptación para los extremos; (c) tesis propia sobre la adaptación (no la inteligencia) como predictor real de éxito a largo plazo; (d) la psicopatía como espectro adaptativo por ausencia de reactividad afectiva. El gap del wiki es claro: no hay página existente sobre el constructo CI/inteligencia ni sobre la adaptación como variable estructural en la psicología del canal. Auto-promote a synthesis (author_thesis)",
+      "quote_evidence": "El cociente intelectual es un predictor psicométrico del desempeño intelectual general, no una medida directa de inteligencia",
+      "promote_new_payload": {
+        "page_id_proposed": "inteligencia-y-adaptacion-en-proxy",
+        "canonical_name_proposed": "Inteligencia y adaptación en Proxy",
+        "page_type": "synthesis",
+        "synthesis_subtype": "author_thesis",
+        "auto_promote": true,
+        "auto_promoted_synthesis": true,
+        "domain_primary": "social.psychology",
+        "primary_domains": [
+          "social.psychology",
+          "social.psychology.cognitive",
+          "interdisciplinary.cultural_studies"
+        ],
+        "aliases_proposed": [
+          "teoria del CI",
+          "teoria del cociente intelectual",
+          "cociente intelectual proxy",
+          "inteligencia segun proxy",
+          "adaptacion como predictor",
+          "trampa de la curva normal",
+          "curva normal y desadaptacion",
+          "critica a Gardner",
+          "inteligencias multiples como pseudociencia"
+        ],
+        "frontmatter_extras": {
+          "review_status": "stub_in_session",
+          "status": "stub_in_session",
+          "schema_version": "1.0.0",
+          "sources_count": 1
+        },
+        "relations_proposed": [
+          {
+            "type": "extends",
+            "to": "realismo-cognitivo",
+            "weight": "strong",
+            "note": "el factor G como sustrato real al que el CI se aproxima por medición psicométrica encaja con la stance realista cognitiva: hay realidad cognoscible (inteligencia general) y representación de ella (CI) conectadas con error medible"
+          },
+          {
+            "type": "criticizes",
+            "to": "woke-narrativa-postmoderna-moral",
+            "weight": "strong",
+            "note": "Gardner y las inteligencias múltiples como caso paradigmático de pseudociencia postmoderna: rebautizado de los dominios Wechsler como inteligencias separadas para que todo el mundo se sienta inteligente en al menos una cosa"
+          },
+          {
+            "type": "compared_with",
+            "to": "diagrama-de-proxy",
+            "weight": "strong",
+            "note": "la psicopatía como espectro adaptativo y la asimetría inteligencia/adaptación complementan la clasificación moral-política del diagrama con un eje neuropsicológico de regulación afectiva"
+          },
+          {
+            "type": "extends",
+            "to": "adgrediere-masculino",
+            "weight": "tangential",
+            "note": "el cierre del monográfico articula el camino del héroe masculino (tres pilares + pecado del cazador) como aplicación operativa de la tesis adaptativa al varón concreto — la pieza vive en adgrediere-masculino"
+          },
+          {
+            "type": "compared_with",
+            "to": "shadow-archetype",
+            "weight": "weak",
+            "note": "la observación de que las personas más inteligentes usan su inteligencia contra sí mismas conecta con la sombra junguiana: el don no integrado se vuelve contra el yo"
+          },
+          {
+            "type": "exemplified_by",
+            "to": "autoforia",
+            "weight": "tangential",
+            "note": "el caso Elisa Mouliaá presumiendo de 118 ilustra el mecanismo autofórico: el discurso sobre la propia inteligencia opera como prueba autorreferencial sin contraste con la distribución real"
+          }
+        ],
+        "page_body_proposed": "# Inteligencia y adaptación en Proxy\n\n## Tesis nuclear\n\nProxy articula en este monográfico una teoría operativa de la relación inteligencia/adaptación que combina corrección categorial del constructo CI con tesis propia sobre el predictor real de éxito vital. El núcleo: el cociente intelectual NO es la inteligencia general sino un predictor psicométrico del desempeño intelectual; la inteligencia general (factor G) no es medible directamente; las inteligencias múltiples de Gardner son pseudociencia postmoderna que rebautiza los dominios Wechsler para que todos se sientan inteligentes en algo; la cultura está diseñada para CI 100-110 y los extremos (tanto bajos como altos) sufren desadaptación estructural. La conclusión positiva del marco invierte el sentido común: el factor decisivo a largo plazo no es la inteligencia ni los atributos físicos sino la capacidad de adaptación, y por eso los psicópatas — que carecen de respuestas afectivas que frenen el intelecto puro — pueden puntuar alto en CI Y al mismo tiempo adaptarse mejor al entorno por ausencia de reactividad emocional y resistencia al trauma.\n\n## CI como predictor psicométrico, no medida directa de inteligencia\n\nLa primera precisión del marco es categorial. El CI no mide la inteligencia general — la mide indirectamente a través del desempeño en tareas estandarizadas, y por eso queda contaminado por factores ajenos a la inteligencia propiamente dicha:\n\n> \"El cociente intelectual es un predictor psicométrico del desempeño intelectual general, no una medida directa de inteligencia\"\n→ [Elisa y su CI (23:34)](https://youtu.be/6tfSc45kjyo?t=1414)\n\n> \"La inteligencia general (factor G) todavía no se puede medir directamente\"\n→ [Elisa y su CI (23:34)](https://youtu.be/6tfSc45kjyo?t=1414)\n\n> \"El CI está influido por años de estudio, capacidad de concentración, resiliencia y otros factores de personalidad\"\n→ [Elisa y su CI (23:34)](https://youtu.be/6tfSc45kjyo?t=1414)\n\nLa pieza es metodológicamente importante: el CI es la mejor aproximación operativa actual al factor G de Spearman, pero la equivalencia es estadística (correlación alta), no ontológica. Tratarlo como medida directa colapsa lo medido con el instrumento de medida — error categorial análogo al que el canal critica en otros dominios (vías del dolor, memoria como almacén).\n\n### TDAH como distorsionador estructural\n\nEl caso clínico que ilustra la distorsión es el TDAH genuino:\n\n> \"Una persona con TDAH genuino puntuará bajo en tests de CI sin ser menos inteligente\"\n→ [Elisa y su CI (24:35)](https://youtu.be/6tfSc45kjyo?t=1475)\n\n> \"El problema es la incapacidad de utilizar la inteligencia general con toda su efectividad\"\n→ [Elisa y su CI (24:35)](https://youtu.be/6tfSc45kjyo?t=1475)\n\n> \"La única forma de medir el CI es mediante tests de desempeño, lo que penaliza problemas de concentración\"\n→ [Elisa y su CI (24:35)](https://youtu.be/6tfSc45kjyo?t=1475)\n\nEl TDAH demuestra empíricamente la distinción factor G / desempeño medible: la inteligencia general puede estar intacta mientras el desempeño en test queda penalizado por incapacidad de concentración sostenida. El CI bajo en TDAH no es signo de menor inteligencia — es signo de que el instrumento de medida cobra peaje a quien no puede usarlo.\n\n## Escala real del cociente intelectual\n\nLa pedagogía operativa que el marco enuncia distribuye los rangos según la curva normal:\n\n> \"Genio empieza en 130 de CI, 140 es claramente genio, 120 es simplemente persona muy inteligente\"\n→ [Elisa y su CI (21:34)](https://youtu.be/6tfSc45kjyo?t=1294)\n\n> \"Por debajo de 85 se considera retraso mental, por debajo de 100 ya hay carencias\"\n→ [Elisa y su CI (21:34)](https://youtu.be/6tfSc45kjyo?t=1294)\n\n> \"Para entrar en Mensa se requiere aproximadamente percentil 95, por encima de 120\"\n→ [Elisa y su CI (21:34)](https://youtu.be/6tfSc45kjyo?t=1294)\n\n> \"La media humana global es 100, la media con educación superior ya supera los 110\"\n→ [Elisa y su CI (14:54)](https://youtu.be/6tfSc45kjyo?t=894)\n\nLa pieza es operativa para corregir el sesgo de ignorancia estadística: 118 — el dato que el caso Elisa Mouliaá esgrime como argumento de autoridad — no es CI alto en absoluto. Cualquier persona con estudios universitarios puntúa entre 110 y 120; 118 está dentro del rango esperado para esa población.\n\n### Distinción terminológica cociente / coeficiente\n\nPequeña aclaración lingüística que el marco enuncia explícitamente:\n\n> \"Tanto 'cociente' como 'coeficiente' son correctos para referirse al CI\"\n→ [Elisa y su CI (26:35)](https://youtu.be/6tfSc45kjyo?t=1595)\n\n> \"No es la misma palabra pero el CI es simultáneamente un cociente y un coeficiente\"\n→ [Elisa y su CI (26:35)](https://youtu.be/6tfSc45kjyo?t=1595)\n\n## Crítica a las inteligencias múltiples de Gardner\n\nEl ataque categorial central del monográfico se dirige a la teoría de las inteligencias múltiples como pseudociencia postmoderna:\n\n> \"La teoría de inteligencias múltiples no tiene ningún sentido filosófico ni científico\"\n→ [Elisa y su CI (29:39)](https://youtu.be/6tfSc45kjyo?t=1779)\n\n> \"Gardner tomó los dominios de medición de la escala Wechsler y los rebautizó como inteligencias separadas\"\n→ [Elisa y su CI (29:39)](https://youtu.be/6tfSc45kjyo?t=1779)\n\n> \"Su éxito se debe a que permite a todo el mundo sentirse inteligente en al menos una cosa\"\n→ [Elisa y su CI (29:39)](https://youtu.be/6tfSc45kjyo?t=1779)\n\nEl mecanismo de la pseudociencia, según el canal, es doble: (a) toma categorías psicométricas existentes (los dominios de Wechsler: numérico, verbal, visoespacial, etc.) y los re-etiqueta como entidades ontológicas separadas (\"inteligencias\"); (b) explota el atractivo cultural postmoderno de la equiparación afectiva (todos somos inteligentes en algo) sin sustento empírico. El movimiento pertenece al mismo género que la crítica del canal a [[woke-narrativa-postmoderna-moral|otras formas postmodernas de relativización]]: aplanar diferencias reales para preservar la autoestima del sujeto, a costa de la operatividad descriptiva del concepto.\n\n## Tests: Raven (general abstracta) vs Wechsler (dominios)\n\nLa pieza metodológica complementaria distingue dos familias de tests por lo que efectivamente miden:\n\n> \"El test de matrices de Raven es el que más se aproxima a medir la inteligencia general abstracta\"\n→ [Elisa y su CI (48:59)](https://youtu.be/6tfSc45kjyo?t=2939)\n\n> \"Las escalas Wechsler (WISC/WAIS) miden inteligencia mediante batería de dominios: numérico, verbal, visoespacial\"\n→ [Elisa y su CI (48:59)](https://youtu.be/6tfSc45kjyo?t=2939)\n\n> \"Inteligencia visoespacial no es lo mismo que espacial: la espacial requeriría pruebas de orientación y navegación real\"\n→ [Elisa y su CI (48:59)](https://youtu.be/6tfSc45kjyo?t=2939)\n\nLa precisión visoespacial / espacial es operativa: lo que las escalas Wechsler llaman \"visoespacial\" mide la manipulación mental de figuras presentadas visualmente — no mide la capacidad real de orientarse y navegar en espacio físico. La inteligencia espacial genuina (cazadores, marineros, conductores expertos) requeriría tests de orientación y navegación que actualmente no se aplican estandarizadamente.\n\n## La trampa de la curva normal: la inteligencia como factor de desadaptación\n\nLa primera tesis original del marco invierte la asociación popular CI alto = mejor vida:\n\n> \"La cultura está diseñada para un CI de entre 100 y 110\"\n→ [Elisa y su CI (34:12)](https://youtu.be/6tfSc45kjyo?t=2052)\n\n> \"Tanto por encima como por debajo de la media, la adaptación al entorno se dificulta\"\n→ [Elisa y su CI (34:12)](https://youtu.be/6tfSc45kjyo?t=2052)\n\n> \"La inteligencia es un indicador de cuánto te vas a adaptar según tu proximidad a la media\"\n→ [Elisa y su CI (34:12)](https://youtu.be/6tfSc45kjyo?t=2052)\n\nEl argumento es estructural: la cultura — instituciones, lenguaje, ritmos productivos, normas sociales — se calibra estadísticamente al rango medio porque ese es el público mayoritario al que sirve. Quien queda lejos de la media en cualquier dirección encuentra el entorno mal ajustado a su modo cognitivo. El CI bajo produce desadaptación por incapacidad de seguir el ritmo cognitivo cultural; el CI muy alto produce desadaptación por desproporción inversa — el sujeto experimenta el entorno como demasiado lento, demasiado simple, mal ajustado a sus capacidades.\n\nEl caso paradigmático son los genios:\n\n> \"Los genios de 150-160 suelen ser matemáticos y físicos con más problemas mentales que la media\"\n→ [Elisa y su CI (27:06)](https://youtu.be/6tfSc45kjyo?t=1626)\n\n> \"El CI alto va frecuentemente aparejado a problemas de adaptación y de personalidad\"\n→ [Elisa y su CI (27:06)](https://youtu.be/6tfSc45kjyo?t=1626)\n\n> \"Muy poca gente con CI de 150-160 llega sana a desarrollar todo su potencial cognitivo\"\n→ [Elisa y su CI (27:06)](https://youtu.be/6tfSc45kjyo?t=1626)\n\n### La inteligencia no produce felicidad\n\nUn corolario psicológico del marco articula la sombra del intelectualismo:\n\n> \"Más inteligencia no equivale a mayor capacidad de pensar correctamente\"\n→ [Elisa y su CI (33:11)](https://youtu.be/6tfSc45kjyo?t=1991)\n\n> \"La inteligencia permite desarrollar estrategias y resolver problemas abstractos\"\n→ [Elisa y su CI (33:11)](https://youtu.be/6tfSc45kjyo?t=1991)\n\n> \"Las personas más inteligentes también usan su inteligencia contra sí mismas, generando más infelicidad\"\n→ [Elisa y su CI (33:11)](https://youtu.be/6tfSc45kjyo?t=1991)\n\nLa pieza conecta con [[shadow-archetype]] como caso aplicado: el don no integrado se vuelve contra el yo. La inteligencia abstracta sin maduración afectiva produce sujetos hábiles para construir argumentos contra sí mismos — la rumiación obsesiva, la auto-crítica neurótica, la racionalización del propio sufrimiento son operaciones que requieren capacidad cognitiva alta para funcionar como tortura sostenida.\n\n## La adaptación como verdadero predictor de éxito\n\nLa segunda tesis original es la que da nombre al marco:\n\n> \"Las personas con más éxito social son las que mejor se adaptan al contexto, no las más inteligentes\"\n→ [Elisa y su CI (35:43)](https://youtu.be/6tfSc45kjyo?t=2143)\n\n> \"A largo plazo, el factor decisivo no es la inteligencia ni los atributos físicos sino la capacidad de adaptación\"\n→ [Elisa y su CI (1:01:44)](https://youtu.be/6tfSc45kjyo?t=3704)\n\n> \"Hay gente muy inteligente con incapacidad absoluta de adaptación y gente mediocre con mucho éxito\"\n→ [Elisa y su CI (1:01:44)](https://youtu.be/6tfSc45kjyo?t=3704)\n\nEl argumento operativo: la adaptación es una capacidad psicológica distinta de la inteligencia general. Implica maleabilidad, lectura del entorno, regulación afectiva, ajuste contextual. Puede correlacionar con inteligencia (entender el entorno requiere algo de capacidad cognitiva) pero no se reduce a ella. La asimetría es la clave de la tesis: alta inteligencia con baja adaptación produce sujeto desadaptado y socialmente fracasado; inteligencia media con alta adaptación produce sujeto con éxito social y vital sostenido.\n\n### Capacidad social como dominio independiente\n\nLa pieza ilustrativa son dos casos contrastados:\n\n> \"Javi Oliveira posee una mente social privilegiada con capacidad de adaptación excepcional\"\n→ [Elisa y su CI (38:45)](https://youtu.be/6tfSc45kjyo?t=2325)\n\n> \"La capacidad social no requiere alta inteligencia sino maleabilidad y lectura del entorno\"\n→ [Elisa y su CI (38:45)](https://youtu.be/6tfSc45kjyo?t=2325)\n\nLa capacidad social (leer estados emocionales, ajustar registro, anticipar reacciones) es módulo cognitivo cuasi-independiente que no se mide en escalas Wechsler ni Raven y que puede operar a niveles altos con CI medio. Es el dominio donde la adaptación se manifiesta operativamente.\n\n## Psicopatía como espectro: la adaptación por ausencia de reactividad afectiva\n\nLa pieza más estructural del marco aplica la tesis adaptativa al caso límite:\n\n> \"Los psicópatas puntúan alto en CI porque carecen de respuestas afectivas que frenen el intelecto puro\"\n→ [Elisa y su CI (35:43)](https://youtu.be/6tfSc45kjyo?t=2143)\n\n> \"La psicopatía permite mejor adaptación al entorno por ausencia de reactividad emocional y resistencia al trauma\"\n→ [Elisa y su CI (35:43)](https://youtu.be/6tfSc45kjyo?t=2143)\n\n> \"La psicopatía como espectro: no todos los psicópatas son maquiavélicos, muchos simplemente se adaptan bien\"\n→ [Elisa y su CI (1:01:44)](https://youtu.be/6tfSc45kjyo?t=3704)\n\nLa articulación es operativa: la psicopatía no es solo el caso clínico extremo (Hare PCL-R alto, conducta criminal). Es un **espectro** — atenuación de respuestas afectivas en grado variable — y los grados intermedios producen ventaja adaptativa instrumental: el sujeto sin reactividad emocional no se bloquea ante decisiones difíciles, no carga con culpa que impida acciones costosas, no se traumatiza ante eventos que paralizarían a otro. El CI puro opera sin freno afectivo, lo que se traduce simultáneamente en mejor desempeño en tests (no hay ansiedad de evaluación) y mejor adaptación social estratégica (no hay vacilación moral).\n\nLa tesis cierra el bucle del marco: si la adaptación es el predictor real de éxito y la psicopatía mejora la adaptación, entonces el espectro psicopático se distribuye sistemáticamente en posiciones de éxito vital — observación empírica que el canal articula como consecuencia estructural, no como denuncia moral.\n\n## El acomplejo progresista con el CI: el caso Elisa Mouliaá\n\nEl marco contextual del vídeo es el caso Elisa Mouliaá: actriz que respondió a un crítico anónimo presumiendo de tener 118 de CI. El canal lee el caso como manifestación de un patrón cultural más amplio:\n\n> \"El fenómeno progresista es fundamentalmente un fenómeno de acomplejo\"\n→ [Elisa y su CI (07:50)](https://youtu.be/6tfSc45kjyo?t=470)\n\n> \"Los progres critican el CI como constructo fascista salvo cuando les toca presumir de pertenecer a Mensa\"\n→ [Elisa y su CI (07:50)](https://youtu.be/6tfSc45kjyo?t=470)\n\n> \"La izquierda postmoderna oscila entre rechazar la medición de inteligencia y exhibirla cuando les conviene\"\n→ [Elisa y su CI (07:50)](https://youtu.be/6tfSc45kjyo?t=470)\n\nEl caso particular ilustra el sesgo de ignorancia estadística:\n\n> \"Elisa interpreta 'por encima de la media' como 'muy por encima' sin comprender la distribución real\"\n→ [Elisa y su CI (43:52)](https://youtu.be/6tfSc45kjyo?t=2632)\n\n> \"Ser listilla y sacar ventaja circunstancial no equivale a ser inteligente\"\n→ [Elisa y su CI (43:52)](https://youtu.be/6tfSc45kjyo?t=2632)\n\n> \"Es signo de poca inteligencia tener la necesidad de demostrar tu CI a desconocidos\"\n→ [Elisa y su CI (43:52)](https://youtu.be/6tfSc45kjyo?t=2632)\n\nLa estructura de la conducta ilustra el mecanismo autofórico (ver [[autoforia]]): el discurso sobre la propia inteligencia opera como prueba autorreferencial sin contraste con la distribución real. El sujeto fabrica su autoridad en la enunciación misma — un cociente sin contraste estadístico se presenta como dato impresionante porque el oyente carece de marco para evaluarlo.\n\n## Páginas conectadas\n\n- [[realismo-cognitivo]] — el factor G como sustrato real al que el CI se aproxima por medición psicométrica encaja con la stance realista cognitiva: hay realidad cognoscible y representación de ella conectadas con error medible.\n- [[woke-narrativa-postmoderna-moral]] — Gardner y las inteligencias múltiples como caso paradigmático de pseudociencia postmoderna: aplanar diferencias para preservar la autoestima del sujeto, a costa de la operatividad descriptiva del concepto.\n- [[diagrama-de-proxy]] — la psicopatía como espectro adaptativo y la asimetría inteligencia/adaptación complementan la clasificación moral-política con un eje neuropsicológico de regulación afectiva.\n- [[adgrediere-masculino]] — el cierre del monográfico articula el camino del héroe masculino (tres pilares + pecado del cazador) como aplicación operativa de la tesis adaptativa al varón concreto.\n- [[shadow-archetype]] — la observación de que las personas más inteligentes usan su inteligencia contra sí mismas conecta con la sombra junguiana: el don no integrado se vuelve contra el yo.\n- [[autoforia]] — el caso Elisa Mouliaá ilustra el mecanismo autofórico en el discurso sobre la propia inteligencia.\n\n## Lagunas\n\n- **Articulación con la batería Panksepp**: la psicopatía como atenuación de respuestas afectivas no se mapea explícitamente al catálogo de siete sistemas afectivos (terror, pánico, ira, etc.) que el canal articula en [[galatea-modelo-protomente]] y [[teoria-del-dolor-en-proxy]]; queda implícito qué sistemas se atenúan y cuáles se preservan.\n- **Adaptación como concepto técnico**: el marco usa 'adaptación' operativamente sin distinguir adaptación social (ajuste a normas culturales), adaptación evolutiva (fitness reproductivo) y adaptación clínica (regulación afectiva). La trinaria queda implícita.\n- **Sustento empírico de la curva 100-110**: el canal afirma que la cultura está diseñada para CI 100-110 sin desarrollar la fuente empírica. Posible enlace a investigación sobre comprensión lectora media, complejidad cognitiva del lenguaje cotidiano, etc.\n- **Tradición teórica de Gardner**: la crítica articula el mecanismo (rebautizado de dominios Wechsler) sin enlazar con el debate académico interno (defensores y detractores en psicología cognitiva, evidencia neurocientífica reciente).\n- **Casos de adaptación femenina**: los ejemplos del marco (Javi Oliveira, Planas, los matemáticos genios desadaptados) son masculinos. Queda implícito si la asimetría inteligencia/adaptación opera simétricamente en el polo femenino o requiere articulación específica (posiblemente vía [[tipologia-femenina-arquetipica]]).\n- **Espectro psicopático y diagrama de Proxy**: el espectro adaptativo de la psicopatía no se sitúa explícitamente en los cuadrantes del diagrama del canal — queda como observación lateral.\n\n## Status auto-promoción\n\nEsta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1: minutes_sustained ≈55 (≥30), signal_marks_detected = 5 cubriendo thesis_marker múltiple ('CI no es medida directa de inteligencia', 'Gardner es pseudociencia', 'cultura diseñada para CI 100-110', 'adaptación es el factor decisivo'), pedagogic_register sostenido (escala, distinciones, taxonomía de tests), internal_structure articulada con 14 piezas explícitas, applied_framework (psicopatía como espectro adaptativo aplicado al caso límite), framework_internal_structure ≥4. Queda abierta a revisión humana — el campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría.\n\n## Citations\n\n- **Elisa y su CI** — chunks: [07:50](https://youtu.be/6tfSc45kjyo?t=470) · [14:54](https://youtu.be/6tfSc45kjyo?t=894) · [21:34](https://youtu.be/6tfSc45kjyo?t=1294) · [23:34](https://youtu.be/6tfSc45kjyo?t=1414) · [24:35](https://youtu.be/6tfSc45kjyo?t=1475) · [26:35](https://youtu.be/6tfSc45kjyo?t=1595) · [27:06](https://youtu.be/6tfSc45kjyo?t=1626) · [29:39](https://youtu.be/6tfSc45kjyo?t=1779) · [33:11](https://youtu.be/6tfSc45kjyo?t=1991) · [34:12](https://youtu.be/6tfSc45kjyo?t=2052) · [35:43](https://youtu.be/6tfSc45kjyo?t=2143) · [38:45](https://youtu.be/6tfSc45kjyo?t=2325) · [43:52](https://youtu.be/6tfSc45kjyo?t=2632) · [48:59](https://youtu.be/6tfSc45kjyo?t=2939) · [1:01:44](https://youtu.be/6tfSc45kjyo?t=3704)\n"
+      }
+    },
+    {
+      "surface_form": "tres pilares del héroe masculino / pecado del cazador",
+      "canonical_guess": "adgrediere-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Tres pilares: ser el mejor en un hobby autónomo, en un dominio intelectual y en el trabajo"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Compararse con otros hombres es el principal obstáculo en el camino del héroe masculino"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico cierra con dos piezas que articulan operativamente el adgrediere maduro masculino: (1:07:48) tres pilares — ser el mejor en hobby autónomo, dominio intelectual y trabajo + ejercicio físico de coordinación + relaciones sociales amplias sin implicación profunda; (1:12:21) pecado del cazador de Blancanieves: compararse con otros hombres como obstáculo principal del camino, amplificado por redes sociales que muestran solo el percentil 99,9. Ambas piezas son aplicación del adgrediere al varón concreto. Cita-only para que el page audit humano integre las piezas como nueva sección si procede",
+      "quote_evidence": "Tres pilares: ser el mejor en un hobby autónomo, en un dominio intelectual y en el trabajo"
+    },
+    {
+      "surface_form": "camino del héroe masculino",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 7,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Compararse con otros hombres es el principal obstáculo en el camino del héroe masculino"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico aplica el viaje-heroe al varón contemporáneo concreto con tres pilares operativos y la trampa de la comparación amplificada por redes sociales. Es caso operativo del monomito aplicado a la maduración masculina actual. Cita-only para retrieval indirecto",
+      "quote_evidence": "Compararse con otros hombres es el principal obstáculo en el camino del héroe masculino"
+    },
+    {
+      "surface_form": "Gardner y las inteligencias múltiples como pseudociencia postmoderna",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La teoría de inteligencias múltiples no tiene ningún sentido filosófico ni científico"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Su éxito se debe a que permite a todo el mundo sentirse inteligente en al menos una cosa"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Gardner como caso paradigmático del mecanismo postmoderno: tomar dominios psicométricos existentes (Wechsler) y rebautizarlos como inteligencias separadas para preservar autoestima del sujeto. Caso ilustrativo del aplanamiento moral-cognitivo postmoderno articulado en woke-narrativa-postmoderna-moral. Adicionalmente (07:50) el acomplejo progresista con el CI ilustra la oscilación postmoderna: rechazar la medición + exhibirla cuando conviene. Cita-only para retrieval indirecto",
+      "quote_evidence": "La teoría de inteligencias múltiples no tiene ningún sentido filosófico ni científico"
+    },
+    {
+      "surface_form": "trauma real en mujeres maltratadas",
+      "canonical_guess": "trauma-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las mujeres con trauma real no denuncian por terror y disociación, no por vergüenza"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Bloque (52:31) sobre el problema clínico real del trauma en mujeres maltratadas: terror y disociación bloquean la denuncia, no vergüenza ni falta de empoderamiento. La incapacidad de objetivar y comprender la dimensión de lo vivido es el obstáculo clínico. Articula explícitamente la crítica al feminismo de empoderamiento como respuesta inadecuada al trauma psíquico — refuerza la articulación de trauma-en-proxy. Cita-only para retrieval indirecto",
+      "quote_evidence": "Las mujeres con trauma real no denuncian por terror y disociación, no por vergüenza"
+    },
+    {
+      "surface_form": "caso Elisa Mouliaá / autoforia del CI",
+      "canonical_guess": "autoforia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es signo de poca inteligencia tener la necesidad de demostrar tu CI a desconocidos"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El caso Elisa Mouliaá presumiendo de 118 ilustra el mecanismo autofórico: el discurso sobre la propia inteligencia opera como prueba autorreferencial sin contraste con la distribución real. La conducta crea su propia autoridad en la enunciación misma. Caso ilustrativo limpio del concepto autoforia. Cita-only para retrieval indirecto",
+      "quote_evidence": "Es signo de poca inteligencia tener la necesidad de demostrar tu CI a desconocidos"
+    },
+    {
+      "surface_form": "psicopatía como espectro adaptativo",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La psicopatía como espectro: no todos los psicópatas son maquiavélicos, muchos simplemente se adaptan bien"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La articulación de la psicopatía como espectro adaptativo (no caso clínico binario) y su correlación con CI alto + ventaja adaptativa por ausencia de reactividad afectiva enriquece el aparato neuropsicológico de diagrama-de-proxy. La distribución del espectro psicopático en posiciones de éxito vital es observación estructural complementaria a la clasificación moral-política del diagrama. Cita-only para retrieval indirecto",
+      "quote_evidence": "La psicopatía como espectro: no todos los psicópatas son maquiavélicos, muchos simplemente se adaptan bien"
+    },
+    {
+      "surface_form": "la inteligencia usada contra sí mismo",
+      "canonical_guess": "shadow-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las personas más inteligentes también usan su inteligencia contra sí mismas, generando más infelicidad"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La observación (33:11) de que las personas más inteligentes usan su inteligencia contra sí mismas — rumiación, auto-crítica neurótica, racionalización del propio sufrimiento — es caso aplicado de la sombra junguiana: el don no integrado se vuelve contra el yo. Cita-only para retrieval indirecto",
+      "quote_evidence": "Las personas más inteligentes también usan su inteligencia contra sí mismas, generando más infelicidad"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "adgrediere-masculino",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **Elisa y su CI** — chunks: [1:07:48](https://youtu.be/6tfSc45kjyo?t=4068) · [1:12:21](https://youtu.be/6tfSc45kjyo?t=4341)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 4068,
+          "cite_markdown": "[Elisa y su CI (1:07:48)](https://youtu.be/6tfSc45kjyo?t=4068)"
+        },
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 4341,
+          "cite_markdown": "[Elisa y su CI (1:12:21)](https://youtu.be/6tfSc45kjyo?t=4341)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico cierra con la articulación operativa del adgrediere maduro masculino: (1:07:48) tres pilares (hobby autónomo + dominio intelectual + trabajo + ejercicio físico de coordinación + relaciones sociales sin implicación emocional profunda); (1:12:21) pecado del cazador de Blancanieves (compararse con otros hombres como obstáculo principal del camino, amplificado por redes sociales que muestran solo percentil 99,9). Pendiente posible integración prosa por audit humano si las dos piezas merecen sección propia en el page",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **Elisa y su CI** — chunks: [1:07:48](https://youtu.be/6tfSc45kjyo?t=4068) · [1:12:21](https://youtu.be/6tfSc45kjyo?t=4341)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 4068,
+          "cite_markdown": "[Elisa y su CI (1:07:48)](https://youtu.be/6tfSc45kjyo?t=4068)"
+        },
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 4341,
+          "cite_markdown": "[Elisa y su CI (1:12:21)](https://youtu.be/6tfSc45kjyo?t=4341)"
+        }
+      ],
+      "rationale": "cita-only — el monográfico aplica el viaje-heroe al varón contemporáneo concreto con tres pilares operativos del camino (hobby autónomo, dominio intelectual, trabajo) y la trampa estructural de la comparación amplificada por redes sociales (mostrar solo el percentil 99,9 de personas exitosas). Caso operativo del monomito aplicado a la maduración masculina contemporánea",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **Elisa y su CI** — chunks: [07:50](https://youtu.be/6tfSc45kjyo?t=470) · [29:39](https://youtu.be/6tfSc45kjyo?t=1779)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 470,
+          "cite_markdown": "[Elisa y su CI (07:50)](https://youtu.be/6tfSc45kjyo?t=470)"
+        },
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 1779,
+          "cite_markdown": "[Elisa y su CI (29:39)](https://youtu.be/6tfSc45kjyo?t=1779)"
+        }
+      ],
+      "rationale": "cita-only — dos piezas refuerzan la articulación del page: (07:50) acomplejo progresista con el CI como caso paradigmático de la oscilación postmoderna (rechazar la medición como constructo fascista + exhibirla cuando les conviene presumir de Mensa); (29:39) Gardner y las inteligencias múltiples como pseudociencia postmoderna (rebautizado de los dominios Wechsler como inteligencias separadas para que todo el mundo se sienta inteligente en al menos una cosa). Ambas piezas operan el mecanismo articulado en woke: aplanar diferencias reales para preservar autoestima del sujeto",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "trauma-en-proxy",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **Elisa y su CI** — chunks: [52:31](https://youtu.be/6tfSc45kjyo?t=3151)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 3151,
+          "cite_markdown": "[Elisa y su CI (52:31)](https://youtu.be/6tfSc45kjyo?t=3151)"
+        }
+      ],
+      "rationale": "cita-only — el bloque articula explícitamente el problema clínico del trauma real en mujeres maltratadas: la denuncia se bloquea por terror y disociación, no por vergüenza; el empoderamiento feminista envalentona pero no aborda el mecanismo psíquico; la incapacidad de objetivar y comprender la dimensión de lo vivido es el obstáculo clínico real. Refuerza la articulación de trauma-en-proxy con caso clínico-cultural específico",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "autoforia",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **Elisa y su CI** — chunks: [14:54](https://youtu.be/6tfSc45kjyo?t=894) · [43:52](https://youtu.be/6tfSc45kjyo?t=2632)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 894,
+          "cite_markdown": "[Elisa y su CI (14:54)](https://youtu.be/6tfSc45kjyo?t=894)"
+        },
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 2632,
+          "cite_markdown": "[Elisa y su CI (43:52)](https://youtu.be/6tfSc45kjyo?t=2632)"
+        }
+      ],
+      "rationale": "cita-only — el caso Elisa Mouliaá presumiendo de 118 de CI ilustra el mecanismo autofórico: el discurso sobre la propia inteligencia opera como prueba autorreferencial sin contraste con la distribución real (118 está dentro del rango esperado para población universitaria, no es CI alto). La conducta crea su propia autoridad en la enunciación misma — caso ilustrativo limpio del concepto. Es signo de poca inteligencia tener la necesidad de demostrar el CI a desconocidos: el sujeto fabrica el contraste que le falta",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **Elisa y su CI** — chunks: [35:43](https://youtu.be/6tfSc45kjyo?t=2143) · [1:01:44](https://youtu.be/6tfSc45kjyo?t=3704)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 2143,
+          "cite_markdown": "[Elisa y su CI (35:43)](https://youtu.be/6tfSc45kjyo?t=2143)"
+        },
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 3704,
+          "cite_markdown": "[Elisa y su CI (1:01:44)](https://youtu.be/6tfSc45kjyo?t=3704)"
+        }
+      ],
+      "rationale": "cita-only — la articulación de la psicopatía como espectro adaptativo (no caso clínico binario) y su correlación con CI alto + ventaja adaptativa por ausencia de reactividad afectiva enriquece el aparato neuropsicológico del diagrama. La distribución del espectro psicopático en posiciones de éxito vital es observación estructural complementaria a la clasificación moral-política del diagrama: añade un eje de regulación afectiva al cuadrante",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "shadow-archetype",
+      "update_type": "append_to_section",
+      "section_target": "Citations",
+      "content_proposed": "- **Elisa y su CI** — chunks: [33:11](https://youtu.be/6tfSc45kjyo?t=1991)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "6tfSc45kjyo",
+          "timestamp_seconds": 1991,
+          "cite_markdown": "[Elisa y su CI (33:11)](https://youtu.be/6tfSc45kjyo?t=1991)"
+        }
+      ],
+      "rationale": "cita-only — la observación de que las personas más inteligentes usan su inteligencia contra sí mismas (rumiación, auto-crítica neurótica, racionalización del propio sufrimiento) es caso aplicado del mecanismo de la sombra: el don no integrado se vuelve contra el yo. La inteligencia abstracta sin maduración afectiva produce sujetos hábiles para construir argumentos contra sí mismos como tortura sostenida",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Proyecto de grafo 3D para mapear redes de conciencia",
+      "reason_code": "meta_canal",
+      "reason_detail": "Aside de 90 segundos sobre proyecto técnico personal del speaker (busca colaborador para implementar grafo 3D en Python sobre Obsidian). No es contenido temático sino logística de proyectos del canal. No merece página propia ni cita en wiki",
+      "quote_evidence": "Intención de crear un mapa tridimensional de nodos para estudiar el fenómeno de la conciencia",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "El sentido de la vida es la preparación para la muerte",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación filosófica breve (1:03:45) sobre teleología vital: el sentido de la vida como preparación para morir, función vital como secuencia 'crecer, aprender, enseñar, reproducirse, morir'. Pieza relevante pero corta (~3 min). Capturada en el cierre teleológico del nuevo synthesis inteligencia-y-adaptacion-en-proxy y enriquece individuation como caso aplicado del proceso vital articulado por el canal",
+      "quote_evidence": "El sentido de la vida es prepararse para el momento de morir",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "individuation"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 1,
+    "promoted_updates": 7,
+    "thesis_candidates_count": 0,
+    "discarded_count": 2,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T13:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

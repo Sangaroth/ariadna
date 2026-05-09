@@ -115,3 +115,5 @@ El concepto funciona como herramienta crítica del canal frente a sistemas teór
 
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [26:11](https://youtu.be/i72IYlpQWd0?t=1571) · [28:12](https://youtu.be/i72IYlpQWd0?t=1692)
 
+
+- **Elisa y su CI** — chunks: [14:54](https://youtu.be/6tfSc45kjyo?t=894) · [43:52](https://youtu.be/6tfSc45kjyo?t=2632)

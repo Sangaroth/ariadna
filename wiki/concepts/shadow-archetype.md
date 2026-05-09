@@ -190,9 +190,13 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029)
 - **Conspiración** — chunks: [12:26](https://youtu.be/K97ZzKXY0oI?t=746)
 - **What is a Charo?** — chunks: [1:54:36](https://youtu.be/qMfv4dX09Lg?t=6876)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [1:51:23](https://youtu.be/lOpCXo1pi2M?t=6683)
 - **Directo casual** — chunks: [26:51](https://youtu.be/ECN5C9rsaZg?t=1611)
+- **El síndrome de Wendy** — chunks: [1:06:13](https://youtu.be/L7oSZTTK8Gg?t=3973)
 
+
+- **Elisa y su CI** — chunks: [33:11](https://youtu.be/6tfSc45kjyo?t=1991)

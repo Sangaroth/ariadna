@@ -1,0 +1,274 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_sonnet_20260509",
+  "items": [
+    {
+      "canonical_guess": "psicologia-del-activista-en-proxy",
+      "from_video": "94OQnbWfe1E",
+      "entity": {
+        "surface_form": "Psicología del activista político: 15M, captación tipo secta, perfil disocial",
+        "canonical_guess": "psicologia-del-activista-en-proxy",
+        "page_type": "synthesis",
+        "domain_primary_guess": "social.psychology",
+        "minutes_estimate": 30,
+        "depth_in_video": "central_thesis",
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La política busca el control y el dinero, no la religión; esa es literalmente la definición de política,"
+          },
+          {
+            "mark_type": "genealogical_self_reference",
+            "quote_evidence": "El delegado de gobierno (vía su gabinete) confirmó a Proxy que el PSOE estaba encantado con la agitación,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Reclutan dos perfiles: gente muy idealista/ingenua y gente aburrida — especialmente hijos de ricos enfadados con el padre arquetípico,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El PSOE (vía juventudes socialistas o CNT) hace creer a jóvenes que valen como persona, como hacen las sectas,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Bloque sostenido ~30 min (1:24:47-1:54:39) con análisis psicológico-político estructural articulado en siete piezas: (1) instrumentalización estratégica del PSOE sobre el 15M, (2) mecánica de propaganda y reclutamiento marketing-guerrilla vía Twitter, (3) técnica de captación universitaria UGT/CNT sobre dos perfiles (idealista ingenuo + hijo de ricos con herida paterna), (4) perfil disocial del activista (alergia al sometimiento, complejo rebelde, síndrome del activista), (5) técnica de elevación tipo secta (ideas inmaduras tratadas como categoría que no les corresponde), (6) presencia documentada del CNI en acampadas, (7) caso Corpus (PSOE pidiendo aguantar acampada para boicotear procesión). Testimonio personal directo del speaker (estuvo en el 15M, habló con el gabinete del delegado). Pasa el gate de auto-promoción §2.4.1 (minutes ≥30, signals ≥3, structure ≥4). NO existe página que capture esta articulación. IN-scope per scope.md §3.1 criterio 1, 2 y 3 (mecanismo psicológico-sociológico aplicado, marco teórico propio, crítica a tradición intelectual).",
+        "quote_evidence": "Las juventudes del Frente Obrero muestran un perfil marcadamente disocial: rabia contenida canalizada a través de la política,"
+      }
+    },
+    {
+      "canonical_guess": "vinculo",
+      "from_video": "DTP3syEtxP4",
+      "entity": {
+        "surface_form": "Vínculo vs relación objetal (definición canal-específica)",
+        "canonical_guess": "vinculo",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology",
+        "minutes_estimate": 7,
+        "depth_in_video": "secondary",
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Un vínculo es una representación con carácter de reciprocidad donde lo que el otro es para mí modifica lo que yo soy para él,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Las relaciones objetales son unidireccionales: en la agresión el objeto debe ser destruido, en el sexo debe ser consumido,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Cuanto más individuado es un ser, más susceptible es de formar parte de un vínculo,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Concepto canal-específico con definición operativa precisa: 'vínculo = representación con carácter de reciprocidad donde lo que el otro es para mí modifica lo que yo soy para él'. Distinción explícita frente a relación objetal (unidireccional, donde el objeto debe ser destruido en agresión o consumido en sexo). Tesis derivada importante: 'cuanto más individuado un ser, más susceptible de formar parte de un vínculo' — conecta vínculo con [[individuation]] como prerrequisito psíquico. ~7 min sostenidos con definición operativa, distinción categorial, y aplicación a sexo/agresión/sueños género. No hay página existente que articule esta categoría que es nuclear para amor-cortes, hieros-gamos y anima-archetype.",
+        "quote_evidence": "Un vínculo es una representación con carácter de reciprocidad donde lo que el otro es para mí modifica lo que yo soy para él,"
+      }
+    },
+    {
+      "canonical_guess": "intimidad-y-confesion-en-proxy",
+      "from_video": "DTP3syEtxP4",
+      "entity": {
+        "surface_form": "La confesión del propio mal como máximo acto de intimidad (entrega de cuerpo vs entrega de alma)",
+        "canonical_guess": "intimidad-y-confesion-en-proxy",
+        "page_type": "synthesis",
+        "domain_primary_guess": "social.psychology",
+        "minutes_estimate": 13,
+        "depth_in_video": "central_thesis",
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El mayor acto de intimidad es poder confesar lo peor de uno mismo a otra persona sin vergüenza,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La entrega del cuerpo es el sacrificio (mayor acto de entrega es morir),"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El Sacramento de la confesión es teológicamente un acto de intimidad con Dios mediado por el sacerdocio,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Bloque ~13 min sostenidos articulando una tesis canal-específica sobre la jerarquía de la intimidad con cinco piezas estructuradas: (1) sexo NO es el mayor acto de intimidad (sexo+intimidad es construcción cultural-moral, no biológica), (2) confesión del mal propio = máximo acto de intimidad, (3) intimidad = acceso al lugar más reservado del otro, (4) entrega de cuerpo (sacrificio, morir) vs entrega de alma (confesión total), (5) Sacramento de la confesión como caso teológico paradigmático, más casos límite (psicópatas no pueden intimar; esquizoides sustituyen intimidad por profundidad intelectual; alexitimia no equivale a psicopatía). Tesis con marcadores claros (declared_thesis, internal_structure, applied_framework + caso teológico). Promueve como synthesis (no auto-promoted: minutes_sustained < 30) — review_status: stub_in_session, pendiente revisión humana.",
+        "quote_evidence": "El mayor acto de intimidad es poder confesar lo peor de uno mismo a otra persona sin vergüenza,"
+      }
+    },
+    {
+      "canonical_guess": "alien-saga",
+      "from_video": "NjtK76xzV18",
+      "entity": {
+        "surface_form": "Alien (saga) / Alien Earth / Prometheus / Alien Covenant",
+        "canonical_guess": "alien-saga",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 17,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "En Alien existe una triangulación entre la madre oscura (Weyland-Yutani), la diosa (Ripley) y el golem (el androide),"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Cada película presenta una nueva generación de droides como reelaboración del golem, y el golem siempre se vuelve contra su creador,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La diosa (lo femenino eterno a través de Ripley) es la única que permanece haciendo equilibrios entre ambas líneas genealógicas,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": true,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3 (cross-thematic ≥4 vídeos donde la obra ilustra distintos arquetipos) + canonical_whitelist (alien-1979-film auto_promote:true). 17 min de análisis mitológico-arquetípico saga-level: triangulación madre oscura/diosa/golem como cifra arquetípica, genealogía generacional del mal cruzando humanos/aliens, droides como reelaboraciones del golem, suicidio del arquitecto en Prometheus como inversión soteriológica. La canonicalización 'alien-saga' se propone más amplia que 'alien-1979-film' (whitelist) porque el tratamiento es saga-level — sub-agente decide slug final.",
+        "quote_evidence": "El alien es una mezcla oscura entre la humanidad y el golem: qué pasaría si mezclas al héroe con el golem y el mal se lleva la mayor parte,"
+      }
+    },
+    {
+      "canonical_guess": "teoria-del-lenguaje-en-proxy",
+      "from_video": "PWUUY7vVgUk",
+      "entity": {
+        "surface_form": "Teoría del lenguaje del canal: el lenguaje NO determina el pensamiento (psicolingüística representacionalista)",
+        "canonical_guess": "teoria-del-lenguaje-en-proxy",
+        "page_type": "synthesis",
+        "domain_primary_guess": "interdisciplinary.cognitive_science",
+        "minutes_estimate": 145,
+        "depth_in_video": "central_thesis",
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Proxy sostiene que esto no es así dado el estado actual del conocimiento,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Lenguaje simbólico: código que emplea símbolos externos para expresar ideas complejas,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "El lenguaje es al menos seis veces más complejo que la mera producción representacional y el habla,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Las categorías gramaticales son independientes de las categorías representacionales: \"víctima\" femenino no genera representación femenina,"
+          },
+          {
+            "mark_type": "genealogical_self_reference",
+            "quote_evidence": "El enfoque del canal es representacionalista, realista y cognitivista,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Vídeo monográfico de ~145 min sostenidos articulando la tesis nuclear del canal sobre lenguaje y pensamiento, con marco pedagógico tipo Psicología 101 y estructura interna de ≥20 piezas coordinadas: tesis nuclear (lenguaje no determina pensamiento), cuatro acepciones de lenguaje, distinción neurolingüística/psicolingüística con autoposicionamiento (representacionalista, realista, cognitivista), división neurológica funcional/articulatoria, mapa completo de trastornos (TEL/apragmatismo/disartria/dislalia/disglosia/disfasia/afasia/glosolalia/taquifemia/disfemias/disgrafía/dislexia), tipología completa de afasias fluentes y no fluentes, las cuatro fases cognitivas, las cuatro áreas corticales, epistemología de la lectura, mito de los esquimales, idiomas sin verbo 'ser', tres postulados a desmontar (Heidegger/PNL/determinismo), triple problema 'qué es lenguaje, qué es pensamiento, qué es determinar', concordancia prelingüística, recorrido completo por teorías (Sapir-Whorf, Skinner, Piaget, Vygotsky, Chomsky, Halliday, Fodor/Modularismo), caso Genie. Pasa el gate de auto-promoción §2.4.1 cómodamente (minutes >>30, signals ≥4, structure >>4 piezas dependientes). Es la pieza foundational del marco lingüístico del canal — paralela a teoria-del-simbolo-en-proxy (símbolo) y teoria-de-las-emociones-en-proxy (emociones), cierra el flanco lingüístico que aquellas dejaban implícito.",
+        "quote_evidence": "El lenguaje es un algoritmo de compresión: agrupa representaciones complejas en palabras,"
+      }
+    },
+    {
+      "canonical_guess": "mito-lunar",
+      "from_video": "t8v5w3s0USA",
+      "entity": {
+        "surface_form": "Mito lunar: secuencia despertar-creación-caída-luna roja-exorcismo",
+        "canonical_guess": "mito-lunar",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "minutes_estimate": 4,
+        "depth_in_video": "secondary",
+        "framing_marks": [
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": true,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Mito lunar está en canonical_whitelist con auto_promote: true (channel_specific_concepts y referenciado desde múltiples páginas como wikilink roto). Este vídeo aporta la secuencia completa del mito lunar en cinco fases (despertar-creación-caída-luna roja-exorcismo) — la articulación más explícita en el corpus. Cumple el criterio de promoción automática por whitelist + tratamiento sustantivo (≥3 min de exposición). Crear stub mínimo con la secuencia y la composición polar.",
+        "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+      }
+    },
+    {
+      "canonical_guess": "perdida-inocencia",
+      "from_video": "t8v5w3s0USA",
+      "entity": {
+        "surface_form": "Pérdida de la inocencia: estado, no categoría ética",
+        "canonical_guess": "perdida-inocencia",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.philosophy",
+        "minutes_estimate": 12,
+        "depth_in_video": "central_thesis",
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La inocencia no es una categoría ética sino un estado que abarca múltiples sentidos,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La inocencia debe perderse cuando cuerpo, mente o alma están preparados para las consecuencias,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La corrupción es un tipo específico de pérdida de inocencia donde el mal entra en el sujeto,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Bloque de ~12 min sostenidos articulando una distinción canal-específica entre inocencia (estado), ingenuidad (déficit de información, su pérdida es siempre positiva), corrupción (forma específica de pérdida donde el mal entra en el sujeto) y un criterio de preparación (cuerpo, mente o alma preparados para las consecuencias). Cumple criterio de monográfico mínimo (≥10 min) sobre concepto con framing-mark explícito y estructura interna articulada. No hay página existente que capture esta distinción operativa. Promover como stub para que vídeos futuros la enriquezcan; review_status: stub_in_session, pendiente revisión humana.",
+        "quote_evidence": "La inocencia no es una categoría ética sino un estado que abarca múltiples sentidos,"
+      }
+    },
+    {
+      "canonical_guess": "del-origen-del-mal-libro",
+      "from_video": "t8v5w3s0USA",
+      "entity": {
+        "surface_form": "Del origen del mal (libro propio del canal)",
+        "canonical_guess": "del-origen-del-mal-libro",
+        "page_type": "entity_work",
+        "domain_primary_guess": "humanities.philosophy",
+        "minutes_estimate": 25,
+        "depth_in_video": "central_thesis",
+        "framing_marks": [
+          {
+            "mark_type": "self_referenced_origin",
+            "quote_evidence": "El libro tiene casi todos los capítulos escritos excepto uno entero y dos medios capítulos,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Libro en proceso de escritura del canal Proxy, mencionado como obra propia con estructura editorial concreta: 6 mitos primarios canónicos (solar, lunar, polar, mago, apocalipsis, génesis), esquema cosmológico tripartito (uránico/ctónico/telúrico), portada con el mago del tarot y la lemniscata, casi todos los capítulos escritos. Es artefacto editorial primario del canal — no obra analizada sino obra autoría — que múltiples páginas existentes deberían poder wikilinkar como locus textual de las tesis del canal. Promover como entity_work stub con read_in_session: false (no se lee en directo, solo se describe). Caso especial: el libro funciona como meta-índice del corpus arquetípico-cognitivo del canal.",
+        "quote_evidence": "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+      }
+    }
+  ]
+}

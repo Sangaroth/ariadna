@@ -124,6 +124,7 @@ La consecuencia editorial es que la cadena `arquetipo → prototipo → estereot
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [12:13](https://youtu.be/3Jo2T73pOEs?t=733)
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839)
 - **Tremendo lunes** — chunks: [1:14:48](https://youtu.be/0YABTLJ-lFY?t=4488)
@@ -132,4 +133,5 @@ La consecuencia editorial es que la cadena `arquetipo → prototipo → estereot
 
 - **Análisis arquetípico Frozen** — chunks: [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
 - **Directo casual** — chunks: [19:12](https://youtu.be/ECN5C9rsaZg?t=1152) · [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
+- **El síndrome de Wendy** — chunks: [2:00:03](https://youtu.be/L7oSZTTK8Gg?t=7203)
 

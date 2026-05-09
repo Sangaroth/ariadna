@@ -125,3 +125,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 - **Estructuras ideológicas:  Gisbertocracia o racional-formalismo.** — chunks: [0:59](https://youtu.be/RojGI6fQWhE?t=59) · [1:03:26](https://youtu.be/RojGI6fQWhE?t=3806)
 
+
+- **El país del fin del Mundo II. DANA.** — chunks: [22:20](https://youtu.be/DNHgjIgU_-c?t=1340) · [24:21](https://youtu.be/DNHgjIgU_-c?t=1461)
