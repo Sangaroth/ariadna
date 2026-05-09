@@ -407,6 +407,39 @@
       }
     },
     {
+      "canonical_guess": "gothika-2003-film",
+      "from_video": "Gx2740if0Ho",
+      "entity": {
+        "surface_form": "Gothika",
+        "canonical_guess": "gothika-2003-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 114,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El ánima sola: el arquetipo femenino condenado al purgatorio"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El ciclo lunar: descenso a los infiernos, rescate y ascenso a los cielos"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El manicomio como espejo invertido de Miranda"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3 — análisis dedicado de 114 min monográficos sobre la obra; caso central recurrente del ánima sola (ya citada en anima-archetype.md como referencia a este video) y del ciclo lunar de descenso/rescate de la diosa. Película opera como hub donde convergen ánima sola + mito lunar + tipología femenina + uránico-telúrico-cetónico + dragón como concupiscencia.",
+        "quote_evidence": "Miranda desciende a lo más profundo de los infiernos para encontrar a la doncella sufriente"
+      }
+    },
+    {
       "canonical_guess": "alien-saga",
       "from_video": "NjtK76xzV18",
       "entity": {

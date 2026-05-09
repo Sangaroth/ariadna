@@ -88,7 +88,7 @@ DEFAULT_CORPUS = Path(
 SESSION_MAX_VIDEOS = 20
 SESSION_MAX_SECONDS = 55 * 60  # margen sobre 20 vids × ~165s = ~55min para evitar cortes mid-vid
 SESSION_MAX_TOKENS = 500_000
-PER_CALL_TIMEOUT_S = 600
+PER_CALL_TIMEOUT_S = 1200
 
 # Vídeos seleccionados a mano para el piloto. Cubrir: monográfico Tolkien,
 # monográfico Lovecraft, vídeo con tesis articulada del canal, mixto,
@@ -113,7 +113,12 @@ PILOT_2_VIDEO_SLUGS = [
     "que-es-el-materialismo-filosofico-con-daniel-alarcon",         # foundational singleton + canonical raros
 ]
 
-CLAUDE_MODEL = "claude-opus-4-7"
+# Modelos diferenciados por rol. Main extraction y synthesis son judgment-heavy
+# (scope discrimination §3, gate §2.4.1, articulación de tesis original); el
+# stub sub-agente de concept/author/entity_work es schema-driven y Sonnet basta.
+CLAUDE_MODEL_MAIN = "claude-opus-4-7"
+CLAUDE_MODEL_STUB_SUBAGENT = "claude-sonnet-4-6"
+CLAUDE_MODEL_SYNTHESIS_SUBAGENT = "claude-opus-4-7"
 
 
 # ---------------------------------------------------------------------------
@@ -1181,6 +1186,7 @@ def invoke_subagent_for_stub(
                 user_msg=user_msg,
                 system_prompt_appended=SUBAGENT_SYSTEM_PROMPT,
                 resume_session_id=None,
+                model=CLAUDE_MODEL_STUB_SUBAGENT,
             )
             json_text = _extract_json_object(output_text)
             if not json_text:
@@ -1400,6 +1406,7 @@ def invoke_subagent_for_thesis_synthesis(
                 user_msg=user_msg,
                 system_prompt_appended=SUBAGENT_SYNTHESIS_SYSTEM_PROMPT,
                 resume_session_id=None,
+                model=CLAUDE_MODEL_SYNTHESIS_SUBAGENT,
             )
             json_text = _extract_json_object(output_text)
             if not json_text:
@@ -2297,6 +2304,7 @@ def invoke_claude(
     user_msg: str,
     system_prompt_appended: Optional[str],
     resume_session_id: Optional[str],
+    model: str = CLAUDE_MODEL_MAIN,
 ) -> tuple[str, dict]:
     """Invoca `claude -p` con user_msg vía stdin y devuelve (output_text, metadata).
 
@@ -2311,7 +2319,7 @@ def invoke_claude(
     cached_tokens > 0 a partir del segundo vídeo de la sesión.
     """
     # `claude -p` SIN argumento posicional lee el prompt de stdin.
-    cmd: list[str] = ["claude", "-p", "--model", CLAUDE_MODEL]
+    cmd: list[str] = ["claude", "-p", "--model", model]
     cmd += ["--output-format", "stream-json", "--verbose"]
     # Read y Grep habilitados para que el extractor pueda drillar en páginas
     # del wiki (Karpathy index pattern). Resto de tools restringidos.
@@ -2953,7 +2961,7 @@ def _collect_processed_video_ids_global() -> set[str]:
     return processed
 
 
-def run(run_id: str, videos: list[VideoInput], pilot: bool = False, reprocess_all: bool = False) -> None:
+def run(run_id: str, videos: list[VideoInput], pilot: bool = False, reprocess_all: bool = False, limit: Optional[int] = None) -> None:
     run_dir = RUNS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
 
@@ -2995,6 +3003,10 @@ def run(run_id: str, videos: list[VideoInput], pilot: bool = False, reprocess_al
         )
         state.save(run_dir)
         print(f"Starting run {run_id}: {len(videos)} videos", file=sys.stderr)
+
+    if limit is not None and limit > 0 and len(videos) > limit:
+        print(f"Limit: capando a {limit} vídeos pendientes (de {len(videos)})", file=sys.stderr)
+        videos = videos[:limit]
 
     if not videos:
         print("No pending videos. Run aggregator with --aggregate.", file=sys.stderr)
@@ -3897,9 +3909,6 @@ def main() -> None:
     else:
         videos = all_videos
 
-    if args.limit:
-        videos = videos[: args.limit]
-
     if not videos:
         sys.exit("No videos selected.")
 
@@ -3917,7 +3926,7 @@ def main() -> None:
         return
 
     run_id = args.resume or args.run_id or f"run_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}"
-    run(run_id, videos, pilot=args.pilot or args.pilot_2, reprocess_all=args.reprocess_all)
+    run(run_id, videos, pilot=args.pilot or args.pilot_2, reprocess_all=args.reprocess_all, limit=args.limit)
 
 
 if __name__ == "__main__":

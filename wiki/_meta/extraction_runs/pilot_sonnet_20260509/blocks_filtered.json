@@ -3,6 +3,21 @@
   "run_id": "pilot_sonnet_20260509",
   "items": [
     {
+      "from_video": "C0Io49giVY8",
+      "block": {
+        "block_timestamp": "18:30",
+        "block_title": "El estado de partidos ha fagocitado el Estado que pertenece al ciudadano",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_tokens": [
+          "PSOE",
+          "PP",
+          "Podemos"
+        ],
+        "filter_scope": "block",
+        "audit_reason": "Bloque matchea regex de actualidad política española al nombrar literalmente PSOE, PP y Podemos en la frase 'El PSOE, el PP y Podemos han vendido el Estado a trozos'. Aunque la articulación tiene componente estructural ('el Estado pertenece a la nación según la Constitución; cualquier partido en el poder fagocita el Estado'), la crítica está atada a actores partidistas españoles concretos y se solapa con material ya cubierto por consumismo-critica (vaciamiento estructural) y diagrama-de-proxy (clasificación moral-política). Registrado en filtered_blocks_log con su razón conforme al policy_notes de topic_filters.json (no se silencia, se audita)."
+      }
+    },
+    {
       "from_video": "DNHgjIgU_-c",
       "block": {
         "block_quote": "El PSOE no está sometido al principio de legalidad real porque el Tribunal Constitucional es su última instancia y lo controla",
@@ -51,6 +66,19 @@
       }
     },
     {
+      "from_video": "l1hBW5I2_t0",
+      "block": {
+        "block_timestamp": "1:06:45",
+        "block_title": "Crítica a la comparecencia política tras los accidentes",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_tokens": [
+          "Sánchez"
+        ],
+        "filter_scope": "block",
+        "audit_reason": "Bloque matchea regex de actualidad política española al nombrar literalmente a Sánchez en la frase 'Asco por la actitud de Sánchez en la comparecencia, con cara de \"me estáis jodiendo otra vez\"'. Comentario táctico sobre actitud comunicativa de figura política contemporánea sin marco teórico aplicado. Registrado en filtered_blocks_log conforme al policy_notes de topic_filters.json (no se silencia, se audita)."
+      }
+    },
+    {
       "from_video": "t8v5w3s0USA",
       "block": {
         "block_title": "El audio filtrado de Pedro Sánchez con Santos Cerdán y Leire",
@@ -58,6 +86,76 @@
         "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
         "matched_term": "Sánchez",
         "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+      }
+    },
+    {
+      "from_video": "u-VoqpR7sNI",
+      "block": {
+        "block_timestamp": "10:59",
+        "block_title": "La manifestación en Moncloa y el tweet del PSOE",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_tokens": [
+          "PSOE"
+        ],
+        "filter_scope": "block",
+        "audit_reason": "Bloque sobre actualidad política española (manifestación, tweet partidista, denuncia de manipulación fotográfica). Matchea regex por mención literal del PSOE. Sin marco teórico aplicado."
+      }
+    },
+    {
+      "from_video": "u-VoqpR7sNI",
+      "block": {
+        "block_timestamp": "15:13",
+        "block_title": "Infoblogger y la crítica al bipartidismo PP-PSOE",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_tokens": [
+          "PSOE",
+          "PP",
+          "Sánchez"
+        ],
+        "filter_scope": "block",
+        "audit_reason": "Bloque sobre estrategia de movilización política contemporánea. Matchea regex por menciones literales de PSOE, PP y Sánchez. Comentario coyuntural sin marco estructural aplicado."
+      }
+    },
+    {
+      "from_video": "u-VoqpR7sNI",
+      "block": {
+        "block_timestamp": "19:48",
+        "block_title": "Los audios de las cloacas del PSOE y el caso de la juez Viezma",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_tokens": [
+          "PSOE",
+          "Sánchez"
+        ],
+        "filter_scope": "block",
+        "audit_reason": "Reporte sobre filtración judicial-política reciente. Matchea regex por PSOE y Sánchez. Actualidad partidista pura sin tesis estructural."
+      }
+    },
+    {
+      "from_video": "u-VoqpR7sNI",
+      "block": {
+        "block_timestamp": "20:48",
+        "block_title": "Abascal en Moncloa y la crítica al sistema de contrapesos",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_tokens": [
+          "PSOE",
+          "PP",
+          "Vox"
+        ],
+        "filter_scope": "block",
+        "audit_reason": "Bloque sobre demandas políticas entre líderes de partidos contemporáneos. Matchea regex por PSOE, PP y Vox. Aunque incluye una formulación con potencial estructural ('el sistema político español solo depende de la buena voluntad de los gobernantes'), está atada a juicios sobre actores partidistas concretos."
+      }
+    },
+    {
+      "from_video": "vM1-wWpB1PU",
+      "block": {
+        "block_timestamp": "31:39",
+        "block_title": "Confusión sobre el Valle de los Caídos y el pacto con la Conferencia Episcopal",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_tokens": [
+          "PSOE"
+        ],
+        "filter_scope": "block",
+        "audit_reason": "Bloque matchea regex de actualidad política española al nombrar literalmente al PSOE en la frase 'si los obispos fueron engañados o si son ingenuamente crédulos ante el PSOE'. Comentario sobre actualidad política religioso-institucional reciente (pacto Conferencia Episcopal-gobierno sobre Valle de los Caídos) sin marco teórico aplicado. Registrado en filtered_blocks_log conforme al policy_notes de topic_filters.json."
       }
     }
   ]

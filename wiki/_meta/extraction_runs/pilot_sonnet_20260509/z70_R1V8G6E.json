@@ -1,0 +1,216 @@
+{
+  "video_id": "z70_R1V8G6E",
+  "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Vídeo íntegramente meta-canal y autobiográfico. El speaker anuncia un giro vital (formación como soldador y buzo profesional como segunda fuente de ingresos para liberar al canal de presión económica) y dedica el resto del directo a explicar tecnicalidades de buceo profesional, soldadura subacuática, fisiología de la descompresión, equipo Kirby Morgan, sistema LARS, etc. Ningún contenido entra en los 5 pilares del canal (liberalismo, filosofía, psicología cognitiva, mitología, neurociencia). El único bloque que toca psicología (34:48) es introspección personal sobre por qué necesita el cambio, sin articular marco psicológico aplicable. No hay entidades canon, ni autores, ni obras analizadas, ni conceptos del canal articulados.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Plan B / soldador homologado 3G / buzo profesional",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio personal del giro vital del speaker (formación como soldador y buzo profesional). Es comunicación con la audiencia sobre el proyecto del canal y la economía personal del presentador, no contenido enciclopédico.",
+      "quote_evidence": "Proxy saluda desde un nuevo setup portátil y pregunta quién sabe en qué consiste el Plan B,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Conexión personal con el mar y el País Vasco / Zarauz / Getaria",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota biográfica sobre el lugar donde el speaker conoció el mar de niño. No ilustra ningún concepto promovido del canal ni se eleva a marco arquetípico.",
+      "quote_evidence": "Proxy está en Zarauz/Getaria, País Vasco, el mismo lugar donde de pequeño conoció el mar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Objetivos vitales: libros, canal y nueva profesión",
+      "reason_code": "meta_canal",
+      "reason_detail": "Roadmap personal del proyecto del canal: terminar libros pendientes (magia, Polaris, teoría de la mente), buscar colaborador, segunda fuente de ingresos. Es planificación de proyecto, no contenido del corpus. Las menciones a los libros 'el de magia', 'Polaris' y 'teoría de la mente' son referencias internas a obras propias en preparación, no análisis sustantivo de su contenido.",
+      "quote_evidence": "Quiere terminar tres libros: el de magia, reelaborar Polaris y el de teoría de la mente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "soldador homologado 3G / homologaciones 4G, 5G y 6G",
+      "reason_code": "meta_canal",
+      "reason_detail": "Detalle profesional sobre titulación de soldadura del speaker. Out-of-scope: ni el oficio ni la técnica son objeto del canal.",
+      "quote_evidence": "Se ha sacado un módulo de homologación de soldadura 3G en tres meses yendo de lunes a jueves,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "curso intensivo de buzo profesional / buzo de rescate / soldadura subacuática",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Formación profesional personal del speaker como buzo profesional para usarla como segunda fuente de ingresos. No es exposición de un marco del canal.",
+      "quote_evidence": "Está haciendo un intensivo de buzo profesional (no recreativo ni técnico) en una escuela de Getaria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "setup portátil de streaming / GoPro / Twitch / YouTube / Starlink",
+      "reason_code": "meta_canal",
+      "reason_detail": "Detalles técnicos del directo (cámaras, plataformas, conectividad). Metadata del stream, no contenido temático.",
+      "quote_evidence": "Emite con una GoPro en Twitch y el móvil en YouTube, sin PC,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "tablas de descompresión de la Marina de EE.UU.",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Exposición técnica neutra sobre fisiología de la descompresión y génesis histórica de las tablas militares. No se aplica a ningún marco del canal (ni psicológico, ni arquetípico, ni filosófico). Dominio fuera de alcance editorial.",
+      "quote_evidence": "Las tablas de descompresión actuales fueron desarrolladas por la Marina de Estados Unidos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "física de la descompresión / nitrógeno disuelto / burbujas / embolias",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Explicación de fisiología y física de la descompresión. Tecnicismo profesional del oficio de buceo, sin lectura psicológica/arquetípica/filosófica del canal aplicada.",
+      "quote_evidence": "A profundidad los gases se disuelven en sangre por la presión y las burbujas son microscópicas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "ambiciones profesionales / 100 metros / reflote",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Aspiraciones profesionales personales del speaker en el oficio de buceo. No ilustra concepto del canal.",
+      "quote_evidence": "Quiere bajar al menos una vez a 100 metros de profundidad y grabarlo en vídeo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "escala salarial del buceo profesional",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Datos económicos del oficio de buzo (sueldos por puerto, plataforma petrolífera, fosas sépticas). Información laboral del oficio sin marco aplicado.",
+      "quote_evidence": "Trabajo de puerto a 10 metros puede ser unos 2000 euros al mes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "diferencias entre buceo recreativo, técnico y profesional",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Explicación técnica de modalidades del buceo. Tecnicismo profesional sin marco del canal aplicado.",
+      "quote_evidence": "El buceo profesional se hace prácticamente a ciegas, al tacto y sin compañero,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "soldadura subacuática técnica / electrodo revestido / rutilo / básico",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Detalle técnico del procedimiento de soldadura subacuática (electrodos, comunicaciones por cable). Tecnología del oficio, sin elevación a marco del canal.",
+      "quote_evidence": "Se usa electrodo revestido (rutilo y básico) con una capa impermeable adicional,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "campana seca vs cámara hiperbárica / heliox",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Tecnología del buceo profesional (campana de gases inertes, presión, oxígeno). Sin lectura del canal aplicada.",
+      "quote_evidence": "En una cámara hiperbárica no se puede soldar porque la concentración de oxígeno haría explotar todo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Motivación psicológica: por qué necesita este cambio",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Introspección autobiográfica del speaker sobre por qué necesita una segunda fuente de ingresos: la presión de cumplimiento del canal le bloquea creativamente. Es testimonio personal sobre el proyecto del canal, no articulación de marco psicológico transferible. No invoca ningún concepto del canal (ni herida narcisista, ni síndrome del Xocas, ni crisis de identidad articulados como tesis aplicada).",
+      "quote_evidence": "El canal le genera una presión de cumplimiento que le bloquea creativamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "riesgo eléctrico en soldadura subacuática / arco en agua salada",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Explicación física de por qué no hay electrocución en soldadura subacuática. Tecnicismo del oficio.",
+      "quote_evidence": "No hay riesgo de electrocución porque el arco eléctrico en agua salada se limita a distancias muy cortas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "casco Kirby Morgan / umbilical / comunicaciones",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Equipamiento técnico del buceo profesional. Sin lectura del canal.",
+      "quote_evidence": "La mayoría de trabajos profesionales usan casco de escafandra completo (Kirby Morgan), no gafas y regulador,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "medicina hiperbárica en España / cámara hiperbárica",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Estado de la medicina hiperbárica española como problema infraestructural del oficio. Crítica sectorial sin elevación a marco del canal.",
+      "quote_evidence": "Hay poquísimos médicos especializados en medicina hiperbárica y casi ninguno tiene cámara propia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "experiencia de bucear con cero visibilidad / penetración del rojo y verde",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Anécdota técnica sobre la práctica del buceo y física óptica subacuática. Sin marco del canal.",
+      "quote_evidence": "Hoy estaban a 3 metros de profundidad y no se veía a 40 cm por el fango removido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Sistema LARS / compresión en barco / saturación",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Tecnología de buceo de saturación a gran profundidad. La frase 'lo más parecido a un viaje a otra dimensión' es metáfora ornamental, no tesis arquetípica articulada.",
+      "quote_evidence": "En trabajos a gran profundidad se usa un sistema de cámara hiperbárica doble en el barco,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "apnea / mortalidad por licencia / cadáver del tío",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Datos sectoriales sobre mortalidad en apnea más anécdota familiar (el tío encontró un cadáver buceando en Zarauz). Sin marco psicológico/arquetípico aplicado al hallazgo.",
+      "quote_evidence": "La apnea (estática, dinámica, pesca submarina) es el deporte con mayor ratio de fallecidos por licencias concedidas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "tiempos de descompresión / paradas de seguridad / venas no explotan",
+      "reason_code": "out_of_scope_domain",
+      "reason_detail": "Tabla técnica de tiempos de buceo y aclaración fisiológica sobre presión. Tecnicismo del oficio.",
+      "quote_evidence": "A 30 metros se pueden estar máximo 5 minutos sin paradas de descompresión adicionales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 21,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

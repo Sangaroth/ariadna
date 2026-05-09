@@ -60,7 +60,6 @@ from extract_video_themes import (  # noqa: E402
     WHITELIST_PATH,
     RELATION_TYPES_PATH,
     TOPIC_FILTERS_PATH,
-    CLAUDE_MODEL,
     PER_CALL_TIMEOUT_S,
     VideoInput,
     build_wiki_index,
