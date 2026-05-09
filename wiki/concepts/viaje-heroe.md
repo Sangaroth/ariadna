@@ -84,6 +84,35 @@ El canal articula la genealogía del monomito en clave religiosa-occidental: cad
 
 La secuencia Hércules → Cristo → Arturo articula la línea pedagógica del héroe occidental: el monomito recibe en cada época su encarnación moral concreta. Esto matiza el uso del viaje del héroe como vara diagnóstica — la obra fallida no es la que se aparta de Campbell sino la que adopta la silueta sin asumir la imitatio del héroe correspondiente a su tradición. El sacrificio del Grial es para el canal la pieza específicamente católica que distingue al héroe cristiano del solar pagano: "la única forma de hacer eterno a un rey es que muera cumpliendo su misión".
 
+
+## Tipología comparativa de respuestas religiosas al monomito
+
+El directo *La luna, La Virgen y la Diosa Blanca* extiende la genealogía Hércules→Cristo→Arturo con una tipología de cómo distintas tradiciones religiosas responden al mito del héroe — la plantilla arquetípica común que cada tradición cristaliza en una imitatio específica. La distinción es estructural-operativa, no teológica:
+
+> "Los evangelios son la mejor combinación de respuestas sobre lo que significa ser hombre y ser mujer, sin recurrir a estereotipos"
+→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)
+
+> "El Islam es sumisión a las exigencias de un hombre (Mahoma), mientras el catolicismo es acompañamiento e imitación de Cristo, no sumisión"
+→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)
+
+> "El budismo zen responde al mito del héroe con \"no hay camino\" (no intervención), lo opuesto al catolicismo donde el héroe da la vida por los demás"
+→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)
+
+Las tres respuestas se distribuyen en posiciones operativas distintas frente al monomito. El **catolicismo** propone imitación activa con apoteosis sacrificial: el héroe da la vida por los demás y la elevación pasa por la muerte voluntaria. El **Islam** opera como sumisión a la voluntad articulada por la figura fundadora: el héroe ya no recorre el viaje sino que se alinea con un modelo de obediencia. El **budismo zen** retira la pregunta misma: no hay camino, no hay viaje — el sujeto se desidentifica del recorrido en lugar de atravesarlo. La tipología refina la lectura del monomito como vara diagnóstica: una tradición no falla por carecer de héroe sino por ofrecer un dispositivo estructural distinto al sacrificio integrador (sumisión sustituye imitación; no-camino sustituye viaje).
+
+### El héroe católico: el mártir que da la vida por el prójimo
+
+La pieza específica del héroe católico es el martirio voluntario por el prójimo, articulado como apoteosis del recorrido individuativo:
+
+> "La respuesta católica al mito del héroe es que el mayor acto posible es dar la vida para que los demás conserven la suya"
+→ [La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)
+
+> "Los santos mártires son los héroes del catolicismo: murieron por ser católicos o intentando vivir según su fe"
+→ [La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)
+
+La fórmula precisa la respuesta a la pregunta cosmogónica que el monomito plantea — *¿por qué merece la pena vivir?* — desde el catolicismo: por hacer la vida de los demás mejor, hasta el límite de entregar la propia. Los mártires no son figuras heroicas excepcionales sino encarnaciones operativas del recorrido que la imitatio Christi propone a cualquier sujeto católico — el [[grial-arquetipo|sacrificio del Grial]] como acceso individual al cierre del ciclo. La pieza completa la genealogía Hércules → Cristo → Arturo documentada arriba: cada eslabón articula una versión culturalmente específica del héroe occidental, y el catolicismo añade el componente martirial que distingue su imitatio de las versiones puramente solares (Hércules) o puramente regias (Arturo sin pasión sacrificial).
+
+
 ## El viaje como diagnóstico de obras fallidas
 
 El canal usa el monomito menos como descripción que como herramienta crítica. Identificarse con un héroe de fantasía pura no produce trabajo psíquico real porque el mal contra el que combate es inexistente:

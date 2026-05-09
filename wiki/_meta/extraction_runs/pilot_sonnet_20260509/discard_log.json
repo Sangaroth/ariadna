@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "run_id": "pilot_sonnet_20260509",
-  "generated_at": "2026-05-09T01:58:25+00:00",
+  "generated_at": "2026-05-09T12:58:32+00:00",
   "entities": {
     "epistemologia-de-la-psicologia-en-proxy": {
       "canonical_name": "epistemología de la psicología / ¿es ciencia la psicología?",
@@ -1443,6 +1443,143 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "funcion-biologica-y-suicidio-en-proxy": {
+      "canonical_name": "El concepto 'adaptativo' es inservible en realismo cognitivo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DMebwwTBT-M",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "promote_new_via_thesis_candidate",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "DMebwwTBT-M",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "promote_new_via_thesis_candidate",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "DMebwwTBT-M",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "promote_new_via_thesis_candidate",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "DMebwwTBT-M",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "promote_new_via_thesis_candidate",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new_via_thesis_candidate"
+      ],
+      "occurrences_count": 4,
+      "total_minutes": 0,
+      "review_priority": "high",
+      "review_priority_reason": "recurrent (4 occurrences) without promotion"
+    },
+    "teoria-del-simbolo-en-proxy": {
+      "canonical_name": "Verdad/certeza como componente afectiva de toda representación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DMebwwTBT-M",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "passing_mention",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "DTP3syEtxP4",
+          "video_title": "El Hate Bombing de la izquierda.",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "La página articula extensamente la matriz noética (componentes Q imaginaria/formal/afectiva), tres tipos de memoria (procedimental/episódica/semántica), y operaciones de ambiguación. Le falta articular la mecánica inversa: la disociación como descomposición de la matriz. Este vídeo aporta: (a) definición operativa 'disociación = descomposición de las representaciones mentales', (b) caso del orden temporal como relación de prelación que se desestabiliza con análisis introspectivo excesivo, (c) consecuencia clínica no patológica (lagunas de memoria episódica por exceso de descomposición analítica). Pieza coherente con el aparato existente — la disociación opera como límite operativo del trabajo de ambiguación cuando se aplica a la propia matriz.",
+          "quote_evidence": "La disociación es una descomposición de las representaciones mentales,"
+        },
+        {
+          "video_id": "NjtK76xzV18",
+          "video_title": "Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento",
+          "depth": "central_thesis",
+          "minutes": 15,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Página teoria-del-simbolo-en-proxy ya tiene sección 'Crítica al constructivismo lingüístico' (Stream Navidad 2025) que ENUNCIA la tesis pero no documenta argumentos concretos. ESTA aparición aporta cuatro piezas nuevas: (a) crítica de la hipóstasis previa (lenguaje vs pensamiento solo se separan en lenguaje explícito externo), (b) contraejemplo positivo del pensamiento prelingüístico con caso concreto (niños operan con 'conjunto'/'clase' sin las palabras), (c) los dos casos paradigmáticos clásicamente invocados a favor de Sapir-Whorf (Oceanía, esquimales) reinterpretados con causalidad invertida, (d) diagnóstico psicológico (locus externo de control) que conecta con diagrama-de-proxy. Material genuinamente nuevo.",
+          "quote_evidence": "El lenguaje solo es diferente del pensamiento cuando se trata de lenguaje explícito externo; internamente, lenguaje y pensamiento no son separables,"
+        },
+        {
+          "video_id": "cbdLR0HTE3w",
+          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo aplica el aparato de teoria-del-simbolo (matriz noética, representación / metarrepresentación, inconsciente como representación no experiencial) al fenómeno del dolor. Bloques 1:08:52, 1:21:29, 1:26:04 y 2:01:28 (magenta como representación no perceptiva) extienden con casos clínico-perceptivos el aparato ya articulado allí. La prosa de teoria-del-simbolo-en-proxy es muy extensa y ya cubre la presentación/representación/metarrepresentación con el aparato Q-sub completo; el matiz nuevo (presentarse vs representarse aplicado al dolor) es contenido de la nueva página teoria-del-dolor-en-proxy y se cubre allí. Aquí basta cita-only para retrieval indirecto",
+          "quote_evidence": "Presentarse implica una sensación que viene dada sin proceso activo de construcción; representarse implica elaboración cognitiva"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "passing_mention",
+        "update_existing"
+      ],
+      "occurrences_count": 4,
+      "total_minutes": 32,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "Construcción de un cajón de madera a 9 metros de profundidad / buceo profesional": {
+      "canonical_name": "Construcción de un cajón de madera a 9 metros de profundidad / buceo profesional",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DMebwwTBT-M",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Ejercicio de operaciones con suministro de superficie: construir un cajón de madera submarina con un serrucho oxidado e inservible, clavos y una maceta,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "gisbertocracia": {
       "canonical_name": "Gisbert nunca articula un proyecto constituyente concreto",
       "page_type": "synthesis",
@@ -2192,51 +2329,6 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "teoria-del-simbolo-en-proxy": {
-      "canonical_name": "Disociación como descomposición de representaciones mentales",
-      "page_type": "synthesis",
-      "occurrences": [
-        {
-          "video_id": "DTP3syEtxP4",
-          "video_title": "El Hate Bombing de la izquierda.",
-          "depth": "secondary",
-          "minutes": 5,
-          "framing_marks_count": 2,
-          "decision": "update_existing",
-          "decision_reason": "La página articula extensamente la matriz noética (componentes Q imaginaria/formal/afectiva), tres tipos de memoria (procedimental/episódica/semántica), y operaciones de ambiguación. Le falta articular la mecánica inversa: la disociación como descomposición de la matriz. Este vídeo aporta: (a) definición operativa 'disociación = descomposición de las representaciones mentales', (b) caso del orden temporal como relación de prelación que se desestabiliza con análisis introspectivo excesivo, (c) consecuencia clínica no patológica (lagunas de memoria episódica por exceso de descomposición analítica). Pieza coherente con el aparato existente — la disociación opera como límite operativo del trabajo de ambiguación cuando se aplica a la propia matriz.",
-          "quote_evidence": "La disociación es una descomposición de las representaciones mentales,"
-        },
-        {
-          "video_id": "NjtK76xzV18",
-          "video_title": "Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento",
-          "depth": "central_thesis",
-          "minutes": 15,
-          "framing_marks_count": 3,
-          "decision": "update_existing",
-          "decision_reason": "Página teoria-del-simbolo-en-proxy ya tiene sección 'Crítica al constructivismo lingüístico' (Stream Navidad 2025) que ENUNCIA la tesis pero no documenta argumentos concretos. ESTA aparición aporta cuatro piezas nuevas: (a) crítica de la hipóstasis previa (lenguaje vs pensamiento solo se separan en lenguaje explícito externo), (b) contraejemplo positivo del pensamiento prelingüístico con caso concreto (niños operan con 'conjunto'/'clase' sin las palabras), (c) los dos casos paradigmáticos clásicamente invocados a favor de Sapir-Whorf (Oceanía, esquimales) reinterpretados con causalidad invertida, (d) diagnóstico psicológico (locus externo de control) que conecta con diagrama-de-proxy. Material genuinamente nuevo.",
-          "quote_evidence": "El lenguaje solo es diferente del pensamiento cuando se trata de lenguaje explícito externo; internamente, lenguaje y pensamiento no son separables,"
-        },
-        {
-          "video_id": "cbdLR0HTE3w",
-          "video_title": "El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.",
-          "depth": "secondary",
-          "minutes": 12,
-          "framing_marks_count": 3,
-          "decision": "update_existing",
-          "decision_reason": "El vídeo aplica el aparato de teoria-del-simbolo (matriz noética, representación / metarrepresentación, inconsciente como representación no experiencial) al fenómeno del dolor. Bloques 1:08:52, 1:21:29, 1:26:04 y 2:01:28 (magenta como representación no perceptiva) extienden con casos clínico-perceptivos el aparato ya articulado allí. La prosa de teoria-del-simbolo-en-proxy es muy extensa y ya cubre la presentación/representación/metarrepresentación con el aparato Q-sub completo; el matiz nuevo (presentarse vs representarse aplicado al dolor) es contenido de la nueva página teoria-del-dolor-en-proxy y se cubre allí. Aquí basta cita-only para retrieval indirecto",
-          "quote_evidence": "Presentarse implica una sensación que viene dada sin proceso activo de construcción; representarse implica elaboración cognitiva"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "update_existing"
-      ],
-      "occurrences_count": 3,
-      "total_minutes": 32,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
     "decepcion-vs-depresion": {
       "canonical_name": "Decepción vs depresión: distinción clínica",
       "page_type": "concept",
@@ -2637,17 +2729,39 @@
           "decision": "update_existing",
           "decision_reason": "La página tiene amplia cobertura de la triada solar/lunar/polar pero no incluye la operación específica que el speaker articula aquí: el mapping consciente=solar / inconsciente=lunar como aplicación del modelo polar al aparato psíquico individual, y el principio derivado 'lo que nos ocurre sin que lo hagamos activamente pertenece a lo femenino'. Es desplazamiento operativo del modelo cosmogónico al psicológico individual no presente en la prosa actual.",
           "quote_evidence": "Lo que nos ocurre sin que lo hagamos activamente pertenece a lo femenino,"
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing_already_done",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
         }
       ],
       "is_canonical_external": false,
       "is_in_whitelist_soft": false,
       "decisions_seen": [
+        "enrich_existing",
+        "enrich_existing_already_done",
         "update_existing"
       ],
-      "occurrences_count": 1,
+      "occurrences_count": 3,
       "total_minutes": 4,
-      "review_priority": "low",
-      "review_priority_reason": null
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
     },
     "autotipo": {
       "canonical_name": "autotipia",
@@ -3443,6 +3557,71 @@
       "total_minutes": 0,
       "review_priority": "low",
       "review_priority_reason": null
+    },
+    "crisis-de-identidad-en-proxy": {
+      "canonical_name": "núcleo neurótico ambivalente generacional",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "IUMYn7Iier8",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "IUMYn7Iier8",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "IUMYn7Iier8",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "IUMYn7Iier8",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "IUMYn7Iier8",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "enrich_existing"
+      ],
+      "occurrences_count": 5,
+      "total_minutes": 0,
+      "review_priority": "high",
+      "review_priority_reason": "recurrent (5 occurrences) without promotion"
     },
     "sindrome-wendy": {
       "canonical_name": "síndrome de Wendy",
@@ -5106,6 +5285,138 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "el-silmarillion": {
+      "canonical_name": "Balrogs",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing_already_done",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "enrich_existing",
+        "enrich_existing_already_done"
+      ],
+      "occurrences_count": 9,
+      "total_minutes": 0,
+      "review_priority": "high",
+      "review_priority_reason": "recurrent (9 occurrences) without promotion"
+    },
+    "Polaris (referencia bibliográfica del canal en preparación)": {
+      "canonical_name": "Polaris (referencia bibliográfica del canal en preparación)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Lo primero que sus ojos vieron fueron las estrellas del cielo, como en Polaris,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "mito-solar": {
       "canonical_name": "Mito solar: secuencia caída-camino-muerte-apoteosis",
       "page_type": "concept",
@@ -5919,6 +6230,603 @@
           "decision": "discard",
           "decision_reason": "meta_canal",
           "quote_evidence": "El curso fue pagado íntegramente por los patronos del canal",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "battle-of-the-trees-celtic": {
+      "canonical_name": "La Batalla de los Árboles (mito celta)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "passing_mention",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "passing_mention"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Polaris (libro propio del canal en preparación)": {
+      "canonical_name": "Polaris (libro propio del canal en preparación)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Lo primero que vieron sus ojos fueron las estrellas del cielo, como en Polaris,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Plan B / soldador homologado 3G / buzo profesional": {
+      "canonical_name": "Plan B / soldador homologado 3G / buzo profesional",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Proxy saluda desde un nuevo setup portátil y pregunta quién sabe en qué consiste el Plan B,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Conexión personal con el mar y el País Vasco / Zarauz / Getaria": {
+      "canonical_name": "Conexión personal con el mar y el País Vasco / Zarauz / Getaria",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Proxy está en Zarauz/Getaria, País Vasco, el mismo lugar donde de pequeño conoció el mar,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Objetivos vitales: libros, canal y nueva profesión": {
+      "canonical_name": "Objetivos vitales: libros, canal y nueva profesión",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Quiere terminar tres libros: el de magia, reelaborar Polaris y el de teoría de la mente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "soldador homologado 3G / homologaciones 4G, 5G y 6G": {
+      "canonical_name": "soldador homologado 3G / homologaciones 4G, 5G y 6G",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Se ha sacado un módulo de homologación de soldadura 3G en tres meses yendo de lunes a jueves,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "curso intensivo de buzo profesional / buzo de rescate / soldadura subacuática": {
+      "canonical_name": "curso intensivo de buzo profesional / buzo de rescate / soldadura subacuática",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Está haciendo un intensivo de buzo profesional (no recreativo ni técnico) en una escuela de Getaria,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "setup portátil de streaming / GoPro / Twitch / YouTube / Starlink": {
+      "canonical_name": "setup portátil de streaming / GoPro / Twitch / YouTube / Starlink",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Emite con una GoPro en Twitch y el móvil en YouTube, sin PC,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tablas de descompresión de la Marina de EE.UU.": {
+      "canonical_name": "tablas de descompresión de la Marina de EE.UU.",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Las tablas de descompresión actuales fueron desarrolladas por la Marina de Estados Unidos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "física de la descompresión / nitrógeno disuelto / burbujas / embolias": {
+      "canonical_name": "física de la descompresión / nitrógeno disuelto / burbujas / embolias",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "A profundidad los gases se disuelven en sangre por la presión y las burbujas son microscópicas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "ambiciones profesionales / 100 metros / reflote": {
+      "canonical_name": "ambiciones profesionales / 100 metros / reflote",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Quiere bajar al menos una vez a 100 metros de profundidad y grabarlo en vídeo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "escala salarial del buceo profesional": {
+      "canonical_name": "escala salarial del buceo profesional",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Trabajo de puerto a 10 metros puede ser unos 2000 euros al mes,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "diferencias entre buceo recreativo, técnico y profesional": {
+      "canonical_name": "diferencias entre buceo recreativo, técnico y profesional",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "El buceo profesional se hace prácticamente a ciegas, al tacto y sin compañero,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "soldadura subacuática técnica / electrodo revestido / rutilo / básico": {
+      "canonical_name": "soldadura subacuática técnica / electrodo revestido / rutilo / básico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Se usa electrodo revestido (rutilo y básico) con una capa impermeable adicional,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "campana seca vs cámara hiperbárica / heliox": {
+      "canonical_name": "campana seca vs cámara hiperbárica / heliox",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "En una cámara hiperbárica no se puede soldar porque la concentración de oxígeno haría explotar todo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Motivación psicológica: por qué necesita este cambio": {
+      "canonical_name": "Motivación psicológica: por qué necesita este cambio",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "El canal le genera una presión de cumplimiento que le bloquea creativamente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "riesgo eléctrico en soldadura subacuática / arco en agua salada": {
+      "canonical_name": "riesgo eléctrico en soldadura subacuática / arco en agua salada",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "No hay riesgo de electrocución porque el arco eléctrico en agua salada se limita a distancias muy cortas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "casco Kirby Morgan / umbilical / comunicaciones": {
+      "canonical_name": "casco Kirby Morgan / umbilical / comunicaciones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "La mayoría de trabajos profesionales usan casco de escafandra completo (Kirby Morgan), no gafas y regulador,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "medicina hiperbárica en España / cámara hiperbárica": {
+      "canonical_name": "medicina hiperbárica en España / cámara hiperbárica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Hay poquísimos médicos especializados en medicina hiperbárica y casi ninguno tiene cámara propia,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "experiencia de bucear con cero visibilidad / penetración del rojo y verde": {
+      "canonical_name": "experiencia de bucear con cero visibilidad / penetración del rojo y verde",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "Hoy estaban a 3 metros de profundidad y no se veía a 40 cm por el fango removido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Sistema LARS / compresión en barco / saturación": {
+      "canonical_name": "Sistema LARS / compresión en barco / saturación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "En trabajos a gran profundidad se usa un sistema de cámara hiperbárica doble en el barco,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "apnea / mortalidad por licencia / cadáver del tío": {
+      "canonical_name": "apnea / mortalidad por licencia / cadáver del tío",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "La apnea (estática, dinámica, pesca submarina) es el deporte con mayor ratio de fallecidos por licencias concedidas,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tiempos de descompresión / paradas de seguridad / venas no explotan": {
+      "canonical_name": "tiempos de descompresión / paradas de seguridad / venas no explotan",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "z70_R1V8G6E",
+          "video_title": "¡Inside Proxy está emitiendo desde el plan B!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "out_of_scope_domain",
+          "quote_evidence": "A 30 metros se pueden estar máximo 5 minutos sin paradas de descompresión adicionales,",
           "review_priority_hint": "low"
         }
       ],

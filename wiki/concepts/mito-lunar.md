@@ -98,6 +98,22 @@ La pieza precisa un mecanismo psíquico específico de la pasividad lunar: el po
 La articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.
 
 
+## Cumplimiento católico del ciclo: la Asunción de María
+
+El directo monográfico *La luna, La Virgen y la Diosa Blanca* articula la conexión específica entre la fase final del mito lunar y la figura católica de la Virgen María. La pieza estructural es la Asunción — el dogma según el cual María no murió, sino que fue elevada en cuerpo a los cielos.
+
+> "El dogma católico afirma que María no murió sino que ascendió a los cielos, cumpliendo el último requisito de la diosa blanca"
+→ [La luna, La Virgen y la Diosa Blanca (1:01:28)](https://youtu.be/C5q89bw1G9E?t=3688)
+
+> "En ninguno de los evangelios canónicos se menciona la muerte de María; los discípulos nunca encontraron su cuerpo"
+→ [La luna, La Virgen y la Diosa Blanca (1:01:28)](https://youtu.be/C5q89bw1G9E?t=3688)
+
+La Asunción cierra operativamente el ciclo lunar. La diosa que desciende cada noche a rescatar a su hijo dios — mecánica articulada arriba con [[gothika-2003-film|Gothika]] — culmina su trayectoria en una elevación corporal que no pasa por la muerte. La fórmula lunar canónica (atravesar el dragón sin que la experiencia destruya al sujeto) recibe en la Asunción su forma teológica plena: la diosa atraviesa la historia entera (incluyendo la Pasión presenciada al pie de la cruz junto a [[virgen-maria|Magdalena y María de Cleofas]] como triple diosa luminosa) sin que la travesía la destruya, y al final del recorrido es asumida en cuerpo por el orden uránico.
+
+La pieza distingue además la respuesta católica frente a otras tradiciones cristianas: solo católicos y ortodoxos sostienen que el arquetipo lunar de la [[diosa-blanca|diosa blanca]] tiene cabida en el monoteísmo cristiano vía la figura mariana. Para la articulación de la diosa blanca como arquetipo de tres virtudes y de María como respuesta católica específica al arquetipo, ver [[diosa-blanca]] y [[virgen-maria]].
+
+
+
 ## Posición cosmológica: el eje ctónico
 
 El mito lunar pertenece al registro **ctónico** del sistema de tres niveles que el canal articula:
@@ -126,7 +142,9 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 
 
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)
+- **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 

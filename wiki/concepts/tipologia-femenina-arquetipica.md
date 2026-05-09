@@ -141,6 +141,27 @@ A cada aspecto sano le corresponde una o más formas de degradación. La articul
 
 La correspondencia con los tres aspectos sanos no es uno-a-uno: Wendy degrada la gracia (Atenea); ninfa y lámia/súcubo son dos formas distintas de corrupción de la consorte (Venus) — la primera por sustituir amor por poder, la segunda por instrumentalización vampírica del erotismo; Medea corrompe a la madre (Hera); la bruja es figura terminal que **ha acumulado todas las experiencias malignas**, no degradación de un solo aspecto sino síntesis de las cuatro anteriores.
 
+
+## Tres formas específicas del mal materno
+
+El directo *La luna, La Virgen y la Diosa Blanca* refina la corrupción Medea (la madre oscura) articulando una tipología interna de tres mecanismos clínicamente distintos por los que el mal entra en el polo materno. La distinción opera dentro del aspecto Hera del eje sano y permite diagnóstico diferencial caso a caso.
+
+> "Primera forma de mal: la neurosis materna (como el síndrome de Munchausen por poder), donde la madre absorbe al hijo para nutrirse ella en lugar de nutrirlo"
+→ [La luna, La Virgen y la Diosa Blanca (30:52)](https://youtu.be/C5q89bw1G9E?t=1852)
+
+> "Segunda forma: la locura psicótica, donde el hijo se convierte en objeto del delirio materno"
+→ [La luna, La Virgen y la Diosa Blanca (30:52)](https://youtu.be/C5q89bw1G9E?t=1852)
+
+> "Tercera forma (la más terrible): una mujer vaciada de capacidad de amar que utiliza a un hijo como instrumento de juego sin neurosis ni psicosis que lo expliquen"
+→ [La luna, La Virgen y la Diosa Blanca (30:52)](https://youtu.be/C5q89bw1G9E?t=1852)
+
+La **neurosis materna** es la forma documentada por la psiquiatría clásica (Munchausen por poder, parentificación inversa, simbiosis devoradora): la madre opera con conflicto interno reconocible — no es psicótica pero su economía afectiva está rota e invierte la dirección del cuidado, absorbiendo al hijo para nutrirse ella en lugar de nutrirlo. La **psicosis materna** es categoría más extrema: el hijo se convierte en pieza de un delirio (perseguidor, mesiánico, expiatorio) sin que el sujeto distinga ya material psíquico interno de realidad externa. La **tercera forma** es la más perturbadora porque resiste al diagnóstico: ni neurosis ni psicosis, sino vaciamiento estructural de la capacidad misma de amar — la mujer instrumentaliza al hijo como pieza de juego sin que ningún cuadro clínico explique la conducta.
+
+El correlato cultural contemporáneo de la tercera forma — su versión en estado puro sin hijo real implicado — es el fenómeno TikTok de los muñecos Reborn: subcultura de mujeres que fingen ser madres con muñecos hiperrealistas sabiéndolos no reales (parafilia, distinta de la psicosis donde no se distinguiría realidad de ficción), distinta también del uso psiquiátrico legítimo de muñecos en duelo perinatal acotado. La práctica de prescribir muñecos Reborn a madres en duelo como herramienta 'sanadora' es señalada por el canal como yatrogénica del propio duelo.
+
+Las tres formas operan dentro del aspecto Medea de la tipología 3-5 sin sustituirla: Medea sigue siendo el nombre arquetípico de la madre oscura como categoría, y las tres formas son los mecanismos distintos por los que la corrupción del polo materno se actualiza clínicamente.
+
+
 ## Articulación frente a Lilit
 
 La tipología se presenta polémicamente como sustituto del mito de Lilit, al que el canal niega cualquier raíz mitológica genuina:

@@ -166,5 +166,7 @@ La lectura recoloca cada obra: Fight Club queda dentro del campo de la escisión
 ## Citations
 
 
+
 - **Lunes basado terminal** — chunks: [32:10](https://youtu.be/oHxXzr5WSbQ?t=1930) · [36:13](https://youtu.be/oHxXzr5WSbQ?t=2173)
+- **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [1:30:56](https://youtu.be/xdT-SCW89cw?t=5456)
 

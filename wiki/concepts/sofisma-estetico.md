@@ -82,6 +82,22 @@ La formulación más contundente del canal compacta el mecanismo en una serie de
 
 El patrón es siempre el mismo: el acto sustantivo (revolución, antirracismo) se sustituye por su estética (performance, racismo estético — agrupar y juzgar a las personas por sus categorías raciales con intención "buena"). El sofisma no es solo error individual: es un dispositivo cultural que se transmite y se inocula.
 
+
+## Sofisma estético terminológico: la jerga inventada que suena técnica
+
+El directo *La Mala Ciencia* extiende el sofisma estético al plano del vocabulario especializado. La operación rebasa la falacia de la claridad (palabras simples que aparentan profundidad) y opera ahora por **inflación terminológica**: palabras inventadas que pasan por jerga técnica:
+
+> "Candelios usa \"estructura funcional\" como sofisma estético para aparentar profundidad técnica"
+→ [La Mala Ciencia (1:09:44)](https://youtu.be/hD6YeyjukGA?t=4184)
+
+'Estructura funcional del cerebro' no es un término técnico de la neurobiología sino una construcción retórica que suena como tal. La diferencia operativa frente al sofisma estético clásico (palabras de valor sin sustento en la conducta) es que aquí la palabra falsa se posiciona en un dominio donde el lector medio NO puede verificar la legitimidad del término — el divulgador explota el déficit asimétrico de competencia técnica entre quien habla y quien escucha. La fórmula del canal cierra la equivalencia estructural:
+
+> "El canal de Candelios tiene tanta ciencia como \"los canales de tetas\": es sofisma estético que suena a ciencia pero no lo es"
+→ [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)
+
+La crítica articulada en [[psicoinfluencers-en-proxy]] integra este caso como variante neurocultural-constructivista del mismo dispositivo: el sofisma estético opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con vocabulario que aparenta especialización sin tenerla, encaja en la tipología sea cual sea su signo. La pieza añade así una segunda dimensión al concepto: además del sofisma sobre VALORES (palabras morales sin conducta), hay sofisma sobre PRECISIÓN (palabras técnicas sin referente disciplinar real).
+
+
 ## Articulación con el woke como narrativa postmoderna
 
 En el mismo bloque de directo el canal define woke como "narrativa postmoderna aplicada al ámbito moral en la creación cultural". El sofisma estético es el **mecanismo individual** que el woke generaliza al plano cultural: el woke es el sistema, el sofisma es la operación elemental que lo hace funcionar persona a persona. De ahí la analogía del daltonismo que el canal aplica al woke — quien opera bajo sofisma estético no puede demostrarse a sí mismo que lo hace, porque el criterio para detectarlo (la conducta vs. el enunciado) ha sido neutralizado de antemano.
@@ -105,6 +121,7 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
@@ -113,4 +130,5 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:29:13](https://youtu.be/DNHgjIgU_-c?t=5353) · [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
+- **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
 

@@ -68,6 +68,25 @@ La cuaternidad no es plana. El canal introduce una asimetría interna entre los 
 
 La muerte funciona como umbral: la renuncia a lo material (fuego/tierra) abre el paso a la dimensión inmaterial (aire/agua), donde reside el espíritu. El esquema cuatripartito pasa así de mapa estático a vector de transformación.
 
+
+## Tierra y fuego como régimen de multiplicación de posibilidades
+
+La asimetría material/inmaterial recibe en otro directo del canal una articulación adicional sobre el Silmarillion: tierra y fuego no son simplemente "lo material", sino los elementos de **máxima potencialidad creativa**. La tierra (materia) ofrece variabilidad infinita; el fuego es potencia pura que se quedó en energía que consume.
+
+> "La tierra (materia) ofrece posibilidades infinitas: texturas, colores, formas, pesos, tamaños"
+→ [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)
+
+> "El fuego es potencia pura que nunca se consumó porque se quedó en energía que consume"
+→ [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)
+
+El aire (intelecto) y el agua (espíritu), en cambio, son invariantes: no se transforman a sí mismos, transforman lo que tocan. La cuaternidad ya no se ordena solo en material/inmaterial sino que distingue dos **regímenes operativos** — el de la multiplicación de posibilidades (tierra+fuego) y el de la invariancia transformadora (aire+agua):
+
+> "El intelecto (aire) y el espíritu (agua) no varían; la materia y la energía sí multiplican posibilidades"
+→ [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)
+
+La precisión es operativa para la lectura tolkieniana del canal sobre [[el-silmarillion]]: explica por qué Aulë (tierra) y Melkor (fuego) se equiparan en posibilidades creativas mientras Manwë (aire) y Ulmo (agua) operan a otro nivel, y por qué muchos Maiar de Aulë acabaron sirviendo a Melkor — la afinidad estructural entre los dos elementos del régimen de multiplicación lo arrastra.
+
+
 ## El espíritu como presencia sobrenatural en lo terrenal
 
 El elemento agua recibe un estatuto especial dentro del esquema: es vehículo de lo sobrenatural cuando atraviesa el orden terrenal. El canal lo formula como teofanía descendente:

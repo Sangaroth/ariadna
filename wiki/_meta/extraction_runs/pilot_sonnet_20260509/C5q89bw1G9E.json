@@ -1,0 +1,311 @@
+{
+  "video_id": "C5q89bw1G9E",
+  "video_title": "La luna, La Virgen y la Diosa Blanca",
+  "playlist": "_streams",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Diosa blanca",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "primary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La diosa blanca no es un prototipo de mujer ideal ni consorte ideal, sino un arquetipo sin forma que reúne todas las virtudes luminosas de lo femenino"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las tres grandes virtudes de la diosa blanca son gracia, belleza y esperanza"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada virtud corresponde a una forma de lo femenino: la virgen (gracia), la consorte/ninfa (belleza) y la madre (esperanza)"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico explícito (título: 'La luna, La Virgen y la Diosa Blanca', 77 min). El canal articula la diosa blanca como arquetipo sin forma con estructura interna tripartita (gracia-belleza-esperanza ↔ virgen-consorte-madre), y la usa como armazón vertebral para conectar el mito lunar con la respuesta católica de la Virgen María. Es marco operativo del directo, no mera mención. Cumple §2.1 monográfico (≥10 min sostenidos en el marco) + framing-mark (definición declarativa con estructura interna) + connectivity emergente (organiza en este vídeo mito-lunar, virgen-maria, tipologia-femenina-arquetipica). Vacío editorial: el corpus tiene mito-lunar y tipologia-femenina-arquetipica pero el arquetipo trascendental que ambas instancian no tiene página. Promoción habilita resolver wikilinks rotos previsibles desde mito-lunar y tipologia-femenina-arquetipica.",
+      "quote_evidence": "La diosa blanca no es un prototipo de mujer ideal ni consorte ideal, sino un arquetipo sin forma que reúne todas las virtudes luminosas de lo femenino"
+    },
+    {
+      "surface_form": "Virgen María",
+      "canonical_guess": "virgen-maria",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "primary",
+      "minutes_estimate": 24,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Católicos y ortodoxos son los únicos cristianos que creen que el arquetipo de la diosa blanca tiene cabida en el cristianismo a través de la Virgen María"
+        },
+        {
+          "mark_type": "structural_distinction",
+          "quote_evidence": "los católicos consideran que la diosa blanca no es una diosa sino una mujer real con la gracia intacta"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La Virgen representa la gracia, Magdalena la belleza (la consorte pecadora redimida), y María de Cleofas la esperanza (la multimadre)"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tratamiento monográfico sostenido (~24 min) de María como respuesta católica específica al arquetipo diosa blanca. Estructura interna articulada: distinción 'mujer real con gracia intacta vs diosa', tres Marías al pie de la cruz como triple diosa luminosa (Virgen=gracia / Magdalena=belleza-redimida / Cleofas=esperanza-multimadre), Asunción como cumplimiento del ciclo, dogma de corredención en discusión, necesidad teológica del nacimiento de mujer real ('si hubiera nacido de otro modo habría sido un golem o una trampa'). Cumple §2.1 monográfico + framing-mark + assumed-prior. La página es nudo necesario del grafo: mito-lunar lo necesita para articular su instanciación católica, diosa-blanca lo necesita como caso instanciado, viaje-heroe lo enlaza vía héroe-mártir-Cristo. Sin página propia el material quedaría fragmentado entre tres pages.",
+      "quote_evidence": "Católicos y ortodoxos son los únicos cristianos que creen que el arquetipo de la diosa blanca tiene cabida en el cristianismo a través de la Virgen María"
+    },
+    {
+      "surface_form": "mito lunar (Asunción de María como cumplimiento)",
+      "canonical_guess": "mito-lunar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El dogma católico afirma que María no murió sino que ascendió a los cielos, cumpliendo el último requisito de la diosa blanca"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cuerpo actual de mito-lunar articula la secuencia despertar-creación-caída-luna-roja-exorcismo y la mecánica de descenso/rescate del hijo dios via Gothika, pero NO documenta el cumplimiento católico del ciclo en la figura de María. La Asunción cierra operativamente el ciclo (elevación corporal sin pasar por muerte) — encaja exactamente en la fórmula lunar 'atravesar el dragón sin ser destruida' que la página ya articula. Material genuinamente nuevo, no redundante con el contenido de Gothika ni con la sección de mito-polar.",
+      "quote_evidence": "El dogma católico afirma que María no murió sino que ascendió a los cielos, cumpliendo el último requisito de la diosa blanca"
+    },
+    {
+      "surface_form": "tipología femenina arquetípica (tres formas del mal materno)",
+      "canonical_guess": "tipologia-femenina-arquetipica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La feminidad tiene tres aspectos luminosos y tres oscuros que se repiten en todas las culturas: la inocencia, la ninfa y la madre, cada una con su reverso"
+        },
+        {
+          "mark_type": "clinical_distinction",
+          "quote_evidence": "Tercera forma (la más terrible): una mujer vaciada de capacidad de amar que utiliza a un hijo como instrumento de juego sin neurosis ni psicosis que lo expliquen"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cuerpo actual articula 5 corrupciones (Wendy/ninfa/lámia/Medea/bruja) y describe Medea como 'la madre oscura cuyo instinto maternal es sustituido por el mal' con caso narrativo Morgana. Pero NO desarrolla la tipología INTERNA de la corrupción Medea: tres mecanismos clínicamente distintos (neurosis materna tipo Munchausen / psicosis materna / vaciamiento total de la capacidad de amar). El refinamiento es operativo y permite diagnóstico diferencial — encaja dentro del slot Medea sin contradecir las cinco corrupciones. Es exactamente el tipo de granularidad clínica que la página ya admite en otras secciones (lámia con casos diferenciales, ninfa con esquizotípicos).",
+      "quote_evidence": "Primera forma de mal: la neurosis materna (como el síndrome de Munchausen por poder), donde la madre absorbe al hijo para nutrirse ella en lugar de nutrirlo"
+    },
+    {
+      "surface_form": "viaje del héroe (respuestas religiosas comparativas)",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 9,
+      "framing_marks": [
+        {
+          "mark_type": "comparative_typology",
+          "quote_evidence": "El Islam es sumisión a las exigencias de un hombre (Mahoma), mientras el catolicismo es acompañamiento e imitación de Cristo, no sumisión"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La respuesta católica al mito del héroe es que el mayor acto posible es dar la vida para que los demás conserven la suya"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cuerpo actual ya articula 'Cristo como respuesta católica al arquetipo del héroe' con la línea Hércules→Cristo→Arturo, pero NO articula la TIPOLOGÍA COMPARATIVA con otras tradiciones (Islam, budismo zen) ni la pieza específica del héroe-mártir como apoteosis sacrificial por el prójimo. Las tres respuestas religiosas (catolicismo=imitación / Islam=sumisión / budismo zen=no-camino) constituyen un eje diagnóstico estructural que refina la lectura de la página como vara crítica: no se trata solo de obras fallidas dentro de una tradición, sino de tradiciones operando estructuralmente distinto sobre la misma plantilla mítica.",
+      "quote_evidence": "El Islam es sumisión a las exigencias de un hombre (Mahoma), mientras el catolicismo es acompañamiento e imitación de Cristo, no sumisión"
+    },
+    {
+      "surface_form": "mito del mago",
+      "canonical_guess": "mito-del-mago",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "structural_listing",
+          "quote_evidence": "Los cinco grandes mitemas son: Génesis, Apocalipsis, mito solar/del héroe, mito lunar/de la diosa, y mito del mago"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Listado como uno de los cinco grandes mitemas del sistema cosmológico del canal (junto a Génesis, Apocalipsis, mito solar y mito lunar) pero sin desarrollo en este vídeo. Mito-lunar lo nombra también en la secuencia de los seis mitos primarios. Falta tratamiento sustantivo: no se describe estructura interna, secuencia, ejemplos canónicos, o conexiones con figuras concretas (¿Merlín? ¿Gandalf? ¿Próspero? ¿el mago de la cábala?). Insuficiente para promote_new (§2.1 ningún criterio cumplido). mentions_index registra la pieza para que cuando otro directo desarrolle el mitema (probable, dado que el canal articula los cinco) se pueda promover sobre material acumulado.",
+      "quote_evidence": "Los cinco grandes mitemas son: Génesis, Apocalipsis, mito solar/del héroe, mito lunar/de la diosa, y mito del mago"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "mito-lunar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.",
+      "content_proposed": "\n## Cumplimiento católico del ciclo: la Asunción de María\n\nEl directo monográfico *La luna, La Virgen y la Diosa Blanca* articula la conexión específica entre la fase final del mito lunar y la figura católica de la Virgen María. La pieza estructural es la Asunción — el dogma según el cual María no murió, sino que fue elevada en cuerpo a los cielos.\n\n> \"El dogma católico afirma que María no murió sino que ascendió a los cielos, cumpliendo el último requisito de la diosa blanca\"\n→ [La luna, La Virgen y la Diosa Blanca (1:01:28)](https://youtu.be/C5q89bw1G9E?t=3688)\n\n> \"En ninguno de los evangelios canónicos se menciona la muerte de María; los discípulos nunca encontraron su cuerpo\"\n→ [La luna, La Virgen y la Diosa Blanca (1:01:28)](https://youtu.be/C5q89bw1G9E?t=3688)\n\nLa Asunción cierra operativamente el ciclo lunar. La diosa que desciende cada noche a rescatar a su hijo dios — mecánica articulada arriba con [[gothika-2003-film|Gothika]] — culmina su trayectoria en una elevación corporal que no pasa por la muerte. La fórmula lunar canónica (atravesar el dragón sin que la experiencia destruya al sujeto) recibe en la Asunción su forma teológica plena: la diosa atraviesa la historia entera (incluyendo la Pasión presenciada al pie de la cruz junto a [[virgen-maria|Magdalena y María de Cleofas]] como triple diosa luminosa) sin que la travesía la destruya, y al final del recorrido es asumida en cuerpo por el orden uránico.\n\nLa pieza distingue además la respuesta católica frente a otras tradiciones cristianas: solo católicos y ortodoxos sostienen que el arquetipo lunar de la [[diosa-blanca|diosa blanca]] tiene cabida en el monoteísmo cristiano vía la figura mariana. Para la articulación de la diosa blanca como arquetipo de tres virtudes y de María como respuesta católica específica al arquetipo, ver [[diosa-blanca]] y [[virgen-maria]].\n",
+      "wikilinks_introduced": [
+        "diosa-blanca",
+        "virgen-maria"
+      ],
+      "citations_added": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "timestamp_seconds": 3688,
+          "cite_markdown": "[La luna, La Virgen y la Diosa Blanca (1:01:28)](https://youtu.be/C5q89bw1G9E?t=3688)"
+        }
+      ],
+      "rationale": "Material verificadamente nuevo respecto al cuerpo leído: la página tiene secciones sobre secuencia canónica, mecánica del rescate del hijo dios via Gothika, eje ctónico y relación con mito polar — pero NO documenta la instanciación católica del ciclo. La Asunción ofrece exactamente el cierre operativo de la fórmula 'atravesar sin ser destruida' que la página articula como signatura del poder lunar. Encaja como sección de cierre que conecta el ciclo mítico abstracto con su figura cristiana concreta. Wikilinks a diosa-blanca y virgen-maria (ambas promote_new en este mismo barrido) consolidan el grafo lunar-diosa-Virgen.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La correspondencia con los tres aspectos sanos no es uno-a-uno: Wendy degrada la gracia (Atenea); ninfa y lámia/súcubo son dos formas distintas de corrupción de la consorte (Venus) — la primera por sustituir amor por poder, la segunda por instrumentalización vampírica del erotismo; Medea corrompe a la madre (Hera); la bruja es figura terminal que **ha acumulado todas las experiencias malignas**, no degradación de un solo aspecto sino síntesis de las cuatro anteriores.",
+      "content_proposed": "\n## Tres formas específicas del mal materno\n\nEl directo *La luna, La Virgen y la Diosa Blanca* refina la corrupción Medea (la madre oscura) articulando una tipología interna de tres mecanismos clínicamente distintos por los que el mal entra en el polo materno. La distinción opera dentro del aspecto Hera del eje sano y permite diagnóstico diferencial caso a caso.\n\n> \"Primera forma de mal: la neurosis materna (como el síndrome de Munchausen por poder), donde la madre absorbe al hijo para nutrirse ella en lugar de nutrirlo\"\n→ [La luna, La Virgen y la Diosa Blanca (30:52)](https://youtu.be/C5q89bw1G9E?t=1852)\n\n> \"Segunda forma: la locura psicótica, donde el hijo se convierte en objeto del delirio materno\"\n→ [La luna, La Virgen y la Diosa Blanca (30:52)](https://youtu.be/C5q89bw1G9E?t=1852)\n\n> \"Tercera forma (la más terrible): una mujer vaciada de capacidad de amar que utiliza a un hijo como instrumento de juego sin neurosis ni psicosis que lo expliquen\"\n→ [La luna, La Virgen y la Diosa Blanca (30:52)](https://youtu.be/C5q89bw1G9E?t=1852)\n\nLa **neurosis materna** es la forma documentada por la psiquiatría clásica (Munchausen por poder, parentificación inversa, simbiosis devoradora): la madre opera con conflicto interno reconocible — no es psicótica pero su economía afectiva está rota e invierte la dirección del cuidado, absorbiendo al hijo para nutrirse ella en lugar de nutrirlo. La **psicosis materna** es categoría más extrema: el hijo se convierte en pieza de un delirio (perseguidor, mesiánico, expiatorio) sin que el sujeto distinga ya material psíquico interno de realidad externa. La **tercera forma** es la más perturbadora porque resiste al diagnóstico: ni neurosis ni psicosis, sino vaciamiento estructural de la capacidad misma de amar — la mujer instrumentaliza al hijo como pieza de juego sin que ningún cuadro clínico explique la conducta.\n\nEl correlato cultural contemporáneo de la tercera forma — su versión en estado puro sin hijo real implicado — es el fenómeno TikTok de los muñecos Reborn: subcultura de mujeres que fingen ser madres con muñecos hiperrealistas sabiéndolos no reales (parafilia, distinta de la psicosis donde no se distinguiría realidad de ficción), distinta también del uso psiquiátrico legítimo de muñecos en duelo perinatal acotado. La práctica de prescribir muñecos Reborn a madres en duelo como herramienta 'sanadora' es señalada por el canal como yatrogénica del propio duelo.\n\nLas tres formas operan dentro del aspecto Medea de la tipología 3-5 sin sustituirla: Medea sigue siendo el nombre arquetípico de la madre oscura como categoría, y las tres formas son los mecanismos distintos por los que la corrupción del polo materno se actualiza clínicamente.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "timestamp_seconds": 1852,
+          "cite_markdown": "[La luna, La Virgen y la Diosa Blanca (30:52)](https://youtu.be/C5q89bw1G9E?t=1852)"
+        }
+      ],
+      "rationale": "El cuerpo leído articula 5 corrupciones (Wendy/ninfa/lámia/Medea/bruja) y documenta Medea con caso Morgana (Excalibur) y caso clínico David Pareja, pero el mecanismo INTERNO de la corrupción Medea no está tipologizado. El refinamiento aporta tres mecanismos diferenciales (neurosis / psicosis / vaciamiento total) clínicamente operativos. La sección integra además el caso cultural contemporáneo de los muñecos Reborn como ilustración de la tercera forma — sin generar página propia para el fenómeno, que sería prematuro con un solo vídeo. Coherente con el patrón existente de la página (lámia con casos, ninfa con esquizotípicos): añade granularidad clínica sin tocar la arquitectura 3-5 ya consolidada.",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La secuencia Hércules → Cristo → Arturo articula la línea pedagógica del héroe occidental: el monomito recibe en cada época su encarnación moral concreta. Esto matiza el uso del viaje del héroe como vara diagnóstica — la obra fallida no es la que se aparta de Campbell sino la que adopta la silueta sin asumir la imitatio del héroe correspondiente a su tradición. El sacrificio del Grial es para el canal la pieza específicamente católica que distingue al héroe cristiano del solar pagano: \"la única forma de hacer eterno a un rey es que muera cumpliendo su misión\".",
+      "content_proposed": "\n## Tipología comparativa de respuestas religiosas al monomito\n\nEl directo *La luna, La Virgen y la Diosa Blanca* extiende la genealogía Hércules→Cristo→Arturo con una tipología de cómo distintas tradiciones religiosas responden al mito del héroe — la plantilla arquetípica común que cada tradición cristaliza en una imitatio específica. La distinción es estructural-operativa, no teológica:\n\n> \"Los evangelios son la mejor combinación de respuestas sobre lo que significa ser hombre y ser mujer, sin recurrir a estereotipos\"\n→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)\n\n> \"El Islam es sumisión a las exigencias de un hombre (Mahoma), mientras el catolicismo es acompañamiento e imitación de Cristo, no sumisión\"\n→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)\n\n> \"El budismo zen responde al mito del héroe con \\\"no hay camino\\\" (no intervención), lo opuesto al catolicismo donde el héroe da la vida por los demás\"\n→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)\n\nLas tres respuestas se distribuyen en posiciones operativas distintas frente al monomito. El **catolicismo** propone imitación activa con apoteosis sacrificial: el héroe da la vida por los demás y la elevación pasa por la muerte voluntaria. El **Islam** opera como sumisión a la voluntad articulada por la figura fundadora: el héroe ya no recorre el viaje sino que se alinea con un modelo de obediencia. El **budismo zen** retira la pregunta misma: no hay camino, no hay viaje — el sujeto se desidentifica del recorrido en lugar de atravesarlo. La tipología refina la lectura del monomito como vara diagnóstica: una tradición no falla por carecer de héroe sino por ofrecer un dispositivo estructural distinto al sacrificio integrador (sumisión sustituye imitación; no-camino sustituye viaje).\n\n### El héroe católico: el mártir que da la vida por el prójimo\n\nLa pieza específica del héroe católico es el martirio voluntario por el prójimo, articulado como apoteosis del recorrido individuativo:\n\n> \"La respuesta católica al mito del héroe es que el mayor acto posible es dar la vida para que los demás conserven la suya\"\n→ [La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)\n\n> \"Los santos mártires son los héroes del catolicismo: murieron por ser católicos o intentando vivir según su fe\"\n→ [La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)\n\nLa fórmula precisa la respuesta a la pregunta cosmogónica que el monomito plantea — *¿por qué merece la pena vivir?* — desde el catolicismo: por hacer la vida de los demás mejor, hasta el límite de entregar la propia. Los mártires no son figuras heroicas excepcionales sino encarnaciones operativas del recorrido que la imitatio Christi propone a cualquier sujeto católico — el [[grial-arquetipo|sacrificio del Grial]] como acceso individual al cierre del ciclo. La pieza completa la genealogía Hércules → Cristo → Arturo documentada arriba: cada eslabón articula una versión culturalmente específica del héroe occidental, y el catolicismo añade el componente martirial que distingue su imitatio de las versiones puramente solares (Hércules) o puramente regias (Arturo sin pasión sacrificial).\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "timestamp_seconds": 3997,
+          "cite_markdown": "[La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)"
+        },
+        {
+          "video_id": "C5q89bw1G9E",
+          "timestamp_seconds": 4469,
+          "cite_markdown": "[La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)"
+        }
+      ],
+      "rationale": "El cuerpo leído ya articula 'Cristo como respuesta católica al arquetipo del héroe' con la línea Hércules→Cristo→Arturo y el sacrificio del Grial — el update NO redunda con eso. Lo nuevo es: (a) tipología comparativa explícita entre catolicismo, Islam y budismo zen como tres dispositivos estructurales distintos sobre la misma plantilla mítica (sumisión / imitación / no-camino); (b) articulación específica del héroe-mártir como apoteosis sacrificial-comunitaria, no presente en la sección de Cristo de la página actual. Refuerza la función diagnóstica del monomito al añadir un eje inter-tradiciones que complementa los ejes intra-tradición ya documentados (forma externa vs motivación interna, héroe truncado, antihéroe).",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Muñecos Reborn / parafilia maternal en TikTok",
+      "reason_code": "passing_mention",
+      "reason_detail": "Fenómeno cultural contemporáneo articulado como gateway al análisis estructural del mal materno. El canal lo distingue de la psicosis (parafilia es juego sabiendo) y critica el uso yatrogénico en madres en duelo perinatal. ~5 min de tratamiento. La pieza analítica fuerte es la tipología 3-formas-del-mal-materno que sigue inmediatamente en el directo, no el fenómeno Reborn en sí. Captado como ilustración de la 'tercera forma' (vaciamiento total) en el pending_update a tipologia-femenina-arquetipica. No merece página propia con un solo vídeo de tratamiento; si futuros directos vuelven al fenómeno podría promocionarse como 'munecos-reborn-fenomeno-cultural' tipo therians-fenomeno-cultural.",
+      "quote_evidence": "Existe una subcultura en TikTok de mujeres que fingen ser madres con muñecos hiperrealistas llamados \"Reborn\"",
+      "review_priority": "medium",
+      "review_priority_reason": "fenómeno cultural relevante en clave de mal materno; merece registro para acumulación de corpus si reaparece",
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    },
+    {
+      "surface_form": "Muñecos de duelo perinatal como herramienta psiquiátrica",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mención de práctica clínica psiquiátrica establecida (uso acotado de muñecos en duelo perinatal). El canal la nombra solo para distinguir el uso legítimo del uso yatrogénico promocionado en TikTok. No hay marco propio del canal aplicado, no es objeto enciclopédico autónomo.",
+      "quote_evidence": "Los muñecos de duelo perinatal son una herramienta psiquiátrica legítima para madres que han perdido bebés durante el parto",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Fracaso civilizatorio respecto a lo femenino",
+      "reason_code": "framing_comment",
+      "reason_detail": "Frase puente que el canal usa para transicionar del fenómeno Reborn a la articulación estructural del mal materno. No es entidad analítica autónoma sino enmarque retórico breve (~30 seg). El contenido sustantivo (3 formas del mal materno) está capturado en el update a tipologia-femenina-arquetipica.",
+      "quote_evidence": "La existencia masiva de esta subcultura indica un fallo cultural profundo respecto a lo femenino",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Síndrome de Munchausen por poder",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Cuadro psiquiátrico clínicamente documentado mencionado como ejemplo de la primera forma de mal materno (neurosis). Per scope.md §1.2, técnica/categoría psicológica estándar usada como ilustración del marco del canal no genera página autónoma. La cita se conserva en el update a tipologia-femenina-arquetipica como instanciación de la primera forma.",
+      "quote_evidence": "la neurosis materna (como el síndrome de Munchausen por poder)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "María Magdalena (consorte pecadora redimida)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Figura del relato cristiano. Su tratamiento se integra en virgen-maria (promote_new) como una de las tres Marías al pie de la cruz mapeada al aspecto venusiano-belleza de la diosa blanca. No requiere página autónoma con el material de este vídeo.",
+      "quote_evidence": "Magdalena la belleza (la consorte pecadora redimida)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "María de Cleofas (la multimadre)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Figura del relato cristiano. Su tratamiento se integra en virgen-maria (promote_new) como una de las tres Marías al pie de la cruz mapeada al aspecto Hera-esperanza-madre de la diosa blanca.",
+      "quote_evidence": "María de Cleofas la esperanza (la multimadre)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Dogma de María corredentora",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Pieza teológica menor mencionada como dogma 'actualmente en discusión'. Se integra en virgen-maria (promote_new) como sub-aspecto del estatuto teológico de María, sin necesidad de página autónoma sobre el dogma específico.",
+      "quote_evidence": "María es corredentora con Cristo, dogma actualmente en discusión",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Asunción de María (dogma)",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Dogma católico capturado en el update a mito-lunar como cierre operativo del ciclo lunar y en virgen-maria (promote_new) como pieza teológica central. No requiere página autónoma — es contenido instrumental para articular la conexión mito-lunar/virgen-maria.",
+      "quote_evidence": "El dogma católico afirma que María no murió sino que ascendió a los cielos",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Comparación budismo zen / Islam como respuestas religiosas (entidades religión)",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "El Islam y el budismo zen aparecen aquí solo como puntos de la tipología comparativa de respuestas religiosas al mito del héroe, sin tratamiento sustantivo propio en el corpus. Su articulación se integra en el update a viaje-heroe. No hay material para promover páginas autónomas sobre cada tradición religiosa con un solo vídeo de mención.",
+      "quote_evidence": "El budismo zen responde al mito del héroe con \"no hay camino\" (no intervención)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 6,
+    "promoted_new": 2,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 1,
+    "discarded_count": 9,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

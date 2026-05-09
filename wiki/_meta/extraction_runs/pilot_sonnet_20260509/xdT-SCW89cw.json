@@ -1,0 +1,165 @@
+{
+  "video_id": "xdT-SCW89cw",
+  "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "teoría de la memoria en Proxy (memoria como fenómeno noético de repetición de submatrices)",
+      "canonical_guess": "teoria-de-la-memoria-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "primary",
+      "minutes_estimate": 132,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El stream se dedicará a hablar de la memoria como constructo desde la perspectiva del realismo cognitivo"
+        },
+        {
+          "mark_type": "corrective_thesis",
+          "quote_evidence": "Definir la memoria como \"lugar de almacenamiento\" es una metáfora imaginaria; no hay lugar ni almacenamiento real"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Hay cuatro o cinco tipos de memoria según qué se repite: procedimental, episódica, semántica, y sus variantes implícitas/explícitas"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La mente es un gigantesco grafo representable como una matriz con submatrices (imaginario, formal, afectivo)"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "El realismo cognitivo es una teoría de la mente que se construye en contraposición al psicoanálisis y al conductismo"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La filosofía deshace ideas mitológicas para sustituirlas por otras más ajustadas a la realidad"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de 132 min dedicado íntegramente a articular una teoría propia de la memoria del canal, con estructura pedagógica explícita ('La filosofía deshace ideas mitológicas') y posicionamiento genealógico explícito (continuación del realismo cognitivo y del marco matricial de teoria-del-simbolo-en-proxy, oposición a psicoanálisis y conductismo). CUMPLE el gate de auto-promoción §2.4.1: (a) minutes_sustained=132 ≥ 30; (b) signal_marks_detected=6 ≥ 3 (thesis_marker, corrective_thesis, internal_structure, applied_framework, genealogical_self_reference, pedagogic_register); (c) framework_internal_structure ≥ 4 piezas explícitas: definición negativa (memoria NO es almacén), definición positiva (fenómenos noéticos de repetición de submatrices similares), tipología (procedimental/episódica/semántica/sensorial-corto-largo), localización neuroanatómica (corteza retrosplenial / orbitofrontal / hipocampo), mente como matriz con submatrices imaginario-formal-afectivo, persistencia en la repetición como criterio de demarcación, refutación de recuerdos reprimidos. Marcar auto_promoted_synthesis=true en frontmatter. Página resuelve laguna estructural del wiki: no hay locus enciclopédico de la teoría memorial del canal a pesar de ser pieza recurrente en yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy y golem-de-cobre. Sub-agente debe construir cuerpo con secciones por tipo de memoria, secciones por mecanismo (matriz, persistencia, P300, CAD), wikilinks a realismo-cognitivo, teoria-del-simbolo-en-proxy, golem-de-cobre, yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy.",
+      "quote_evidence": "La memoria son fenómenos internos de repetición: una parte del cerebro se activa de forma similar a como se activó originalmente"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Realismo cognitivo (re-articulación como marco)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El vídeo abre invocando el realismo cognitivo como marco genealógico de la teoría memorial — pero no añade material nuevo al concepto en sí (la oposición a psicoanálisis y conductismo, la distinción realidad/materia ya están documentadas en realismo-cognitivo y materialismo-antiformalista). El uso aquí es instrumental: sirve de cimiento para la teoría memorial. La conexión queda articulada como wikilink desde la nueva página teoria-de-la-memoria-en-proxy.",
+      "quote_evidence": "El realismo cognitivo distingue entre realidad (más amplia) y materia (solo lo físico), sin postular sustancias no materiales",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Mente como matriz / grafo con submatrices imaginario-formal-afectivo",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La articulación de la mente como matriz noética con submatrices ya está documentada en teoria-del-simbolo-en-proxy. La pieza reaparece aquí como sustrato de la teoría memorial (memoria = submatrices que mantienen similitud con estados anteriores) — extensión natural pero el concepto matricial en sí no se refina. Cubierto por wikilink desde teoria-de-la-memoria-en-proxy a teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "La mente es un gigantesco grafo representable como una matriz con submatrices (imaginario, formal, afectivo)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Conciencia como metarrepresentaciones / explanatory gap / hard problem",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Definición operativa de conciencia ofrecida como prolegómeno a la teoría memorial. Pieza sustancial pero subordinada al objeto del directo (memoria) — encaja como sección introductoria de teoria-de-la-memoria-en-proxy. Si futuros directos articulan la conciencia como tema autónomo merecería página propia ('teoria-de-la-conciencia-en-proxy'); con un solo tratamiento dentro de un directo memorial no.",
+      "quote_evidence": "La conciencia es un conjunto de metarrepresentaciones de alto nivel emparejadas con la percepción somática del entorno",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza del marco cognitivo del canal que podría merecer página autónoma con corpus acumulado; registrar para futuro."
+    },
+    {
+      "surface_form": "Crítica a la mente como ordenador / codificación neuronal mutable",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La crítica a la metáfora informática de la mente está documentada extensamente en golem-de-cobre. La pieza específica de este directo (las neuronas no se quedan fijas como celdas, el sustrato es completamente mutable) refuerza pero no añade nivel teórico nuevo al planteamiento de golem-de-cobre. Se preserva en teoria-de-la-memoria-en-proxy como argumento contra la metáfora del almacén, con wikilink a golem-de-cobre.",
+      "quote_evidence": "Las neuronas no se quedan fijas como celdas de un ordenador; están cambiando constantemente",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Localización neuroanatómica del recuerdo (corteza retrosplenial, córtex orbitofrontal, hipocampo)",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Tesis estructural-clave de la teoría memorial: las zonas activadas al recordar voluntariamente NO son donde los recuerdos están almacenados, porque son las zonas de PRODUCCIÓN del recuerdo. La pieza es central a la nueva página teoria-de-la-memoria-en-proxy y se preserva ahí como argumento contra la metáfora del almacén.",
+      "quote_evidence": "Recordar voluntariamente activa principalmente la corteza retrosplenial y el córtex orbitofrontal medial",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "TID / personalidad vs personaje (reafirmación)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La distinción 'no se pueden tener 57 personalidades, lo que hay son personajes' está articulada en tid-personaje-en-proxy. La reaparición aquí es contextual (ejemplo del marco memorial: el yo es memoria episódica continua, los personajes son herramientas de habitación de la realidad) sin refinamiento del concepto TID. Cubierto por wikilink desde teoria-de-la-memoria-en-proxy.",
+      "quote_evidence": "No se pueden tener 57 personalidades porque una personalidad requiere desarrollo vital completo; lo que hay son personajes",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Personalidad / autoimagen / personaje (taxonomía)",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Distinción tripartita entre personalidad (rasgos estadísticos hereditarios), autoimagen (idea consciente/inconsciente de uno mismo) y personaje (cómo se elige mostrar al mundo). Refinamiento operativo respecto al material articulado en yo-ego-autoestima-en-proxy. Encaja naturalmente como sección dentro de teoria-de-la-memoria-en-proxy (el yo como memoria episódica continua + personalidad como memoria procedimental + autoimagen como semántica). Wikilink a yo-ego-autoestima-en-proxy preserva la conexión sin requerir update separado a esa página.",
+      "quote_evidence": "La personalidad es un conjunto de rasgos estadísticos hereditarios e inmodificables de conducta, percepción y representación",
+      "review_priority": "medium",
+      "review_priority_reason": "Si yo-ego-autoestima-en-proxy resulta tener huecos en la articulación de autoimagen/personaje frente al material aquí, considerar update lateral en futuro barrido."
+    },
+    {
+      "surface_form": "Mecanismos de defensa como memoria procedimental del yo",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Articulación clínica novedosa que mapea los mecanismos de defensa (tomarse las cosas a lo personal, excisión de personalidad) sobre la tipología memorial: defensas neuróticas como procedimientos automáticos, asociación afectiva fascismo/comunismo como memoria semántica del yo. Pieza valiosa que pertenece al cuerpo de teoria-de-la-memoria-en-proxy como sección 'memoria y mecanismos psíquicos del yo'. Cross-links a excision-psicologica y herida-narcisista-en-proxy preservan la conexión.",
+      "quote_evidence": "Tomarse las cosas a lo personal es un mecanismo de defensa neurótico: un procedimiento automático que evoca emociones como si la amenaza fuera al yo",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Crítica a recuerdos reprimidos como mito psicoanalítico",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Refutación específica del concepto psicoanalítico de represión memorial: no hay locus de memoria, no hay recuerdos en ningún lado que puedan ser reprimidos — solo memorias implícitas que pueden saltar. Pieza central de la teoría memorial (consecuencia directa del modelo matricial sin compartimentos). Pertenece al cuerpo de teoria-de-la-memoria-en-proxy.",
+      "quote_evidence": "No existen recuerdos reprimidos como una fuerza que contiene un recuerdo que lucha por salir",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Apraxias / amnesia disociativa Jason Bourne / caso clínico de disociación procedimental-episódica",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Casos clínicos usados como evidencia empírica de la disociación entre tipos de memoria (apraxias = pérdida procedimental específica; amnésico que conserva idioma = pérdida episódica con preservación procedimental). Pertenecen al cuerpo de teoria-de-la-memoria-en-proxy como evidencia clínica de la tipología.",
+      "quote_evidence": "Un amnésico puede hablar un idioma pero no recordar cuándo ni cómo lo aprendió, como Jason Bourne",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "P300 y circuito de activación por defecto (CAD) / detección de mentiras",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico estándar de neurofisiología (potencial evocado P300, circuito de activación por defecto / Default Mode Network) invocado para articular criterios operativos: cómo detectar conocimiento previo (P300 detecta si algo es conocido aunque el sujeto no lo recuerde conscientemente) y cómo funcionan los detectores de mentiras (respuestas simpáticas, no P300). Per scope.md §1.2, técnica neurofisiológica estándar usada como herramienta de la tesis del canal — encaja como sección instrumental dentro de teoria-de-la-memoria-en-proxy, no como página autónoma.",
+      "quote_evidence": "La P300 es un potencial evocado que detecta si algo es conocido o nuevo, incluso cuando el sujeto no es consciente de haberlo vivido",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Doxxing del speaker (referencia del título)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "El título del directo menciona '(Y me doxean!!)' pero el summary no contiene segmentos sobre el incidente — probablemente quedó fuera del corpus de chunks indexado o se trató al margen del análisis temático. Si apareciera material concreto sobre el incidente, sería personal_anecdote / meta_canal sin valor enciclopédico salvo que articule un marco propio (no parece ser el caso).",
+      "quote_evidence": "La memoria NO EXISTE. (Y me doxean!!)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

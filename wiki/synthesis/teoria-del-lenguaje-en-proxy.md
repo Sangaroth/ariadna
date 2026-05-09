@@ -174,6 +174,47 @@ El vídeo recorre el espacio teórico completo y ubica al canal en él:
 
 El autoposicionamiento explícito del canal —representacionalista, realista, cognitivista— lo sitúa en la línea Fodor-Chomsky antes que en el funcionalismo social de Halliday.
 
+
+## Crítica aplicada al constructivismo neurocultural divulgativo
+
+El directo *La Mala Ciencia* aplica el marco representacionalista de esta página a una versión contemporánea del determinismo lingüístico-cultural: la tesis de que 'la cultura moldea el cerebro y los genes' promovida por divulgadoras antropológicas en redes sociales (caso paradigmático: Candelios Fang). La crítica del canal opera al mismo nivel metodológico que con la PNL, extendiendo ahora el marco al constructivismo cerebral/cultural.
+
+### Constructivismo duro y *La llegada* como caso paradigmático cinematográfico
+
+> "El constructivismo duro sostiene que la experiencia cambia la cognición en sentido profundo, lo cual no está demostrado transculturalmente"
+→ [La Mala Ciencia (46:28)](https://youtu.be/hD6YeyjukGA?t=2788)
+
+> "La película \"La llegada\" ilustra el constructivismo puro: aprender un idioma circular cambiaría la percepción del tiempo"
+→ [La Mala Ciencia (46:28)](https://youtu.be/hD6YeyjukGA?t=2788)
+
+> "Las estructuras cerebrales fundamentales (miedo, afectos básicos) son idénticas en todas las culturas; solo la parte plástica dependiente del ejercicio varía ligeramente"
+→ [La Mala Ciencia (46:28)](https://youtu.be/hD6YeyjukGA?t=2788)
+
+*La llegada* es para el canal la fantasía cinematográfica del Sapir-Whorf radical: aprender un idioma cuya gramática carezca de tiempo lineal reconfiguraría la cognición temporal del sujeto. La pieza completa la crítica al determinismo lingüístico de la página articulando su parentesco con el constructivismo neurocultural — son la misma tesis bajo dos vocabularios distintos, y ambas chocan con la evidencia de invariancia transcultural de las estructuras cerebrales fundamentales.
+
+### Cuánto moldea de hecho la cultura el cerebro: poco
+
+> "Lo que más moldea el cerebro es el trauma, el enamoramiento y tener un bebé, no la cultura en sentido amplio"
+→ [La Mala Ciencia (40:52)](https://youtu.be/hD6YeyjukGA?t=2452)
+
+> "Cuesta enormemente detectar cambios culturales en el cerebro porque son reversibles: 6 meses en otra cultura y el cerebro vuelve a cambiar"
+→ [La Mala Ciencia (40:52)](https://youtu.be/hD6YeyjukGA?t=2452)
+
+> "Decir que la cultura moldea el cerebro es una tautología equivalente a decir que la experiencia causa experiencia"
+→ [La Mala Ciencia (40:52)](https://youtu.be/hD6YeyjukGA?t=2452)
+
+La precisión del canal cierra la objeción al constructivismo en tres movimientos: (a) los grandes moldeadores cerebrales documentados son **eventos vitales individuales** (trauma, enamoramiento, maternidad), no marcos culturales abstractos; (b) los efectos atribuibles a inmersión cultural son **reversibles en plazos cortos**, lo que descarta que sean reorganización profunda; (c) la afirmación 'la cultura moldea el cerebro' es lógicamente vacua porque toda experiencia es cultural en algún sentido — el enunciado se vuelve tautológico.
+
+### Cultura como herencia no biológica: la definición ausente
+
+> "Cultura es la herencia no biológica, definición fundamental en antropología que Candelios omite"
+→ [La Mala Ciencia (44:57)](https://youtu.be/hD6YeyjukGA?t=2697)
+
+La objeción metodológica es que el divulgador constructivista usa 'cultura' sin definirla, lo que permite atribuirle cualquier efecto cerebral observable. La definición antropológica clásica — herencia no biológica, distinción que se conoce desde el siglo XVIII — opera como demarcación necesaria: si la cultura es lo no biológico, la afirmación 'la cultura modifica los genes' pierde sentido porque traspasa la definición operativa misma del término.
+
+La pieza completa la lectura que la página ya articula con la PNL: el determinismo lingüístico y el determinismo cultural son la misma operación retórica con vocabularios distintos, ambas invalidadas por el mismo triple problema (definir lenguaje/cultura, definir pensamiento, definir determinar) y por la misma evidencia de invariancia representacional transcultural. La crítica detallada de las referencias falseadas que el divulgador constructivista emplea — y la articulación del fenómeno como caso del modelo divulgativo psicoinfluencer — queda en [[psicoinfluencers-en-proxy]].
+
+
 ## Mapa clínico: trastornos del lenguaje como argumento de disociación
 
 El vídeo usa la neuropsicología clínica como argumento estructural: si el lenguaje fuera el pensamiento, las patologías del lenguaje serían idénticas a las del pensamiento. No lo son.

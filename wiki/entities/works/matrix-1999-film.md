@@ -116,8 +116,10 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 
 
 
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:38:03](https://youtu.be/Dtp1_RLb7S0?t=5883) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [55:46](https://youtu.be/hx9creRpdnY?t=3346)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
 - **Twitchversario de Proxy** — chunks: [1:01:19](https://youtu.be/UBwUUOKf5UU?t=3679)
+- **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [1:50:18](https://youtu.be/xdT-SCW89cw?t=6618)
 

@@ -92,6 +92,27 @@ El mito solar tiene como pieza estructural el destino: el héroe está concebido
 
 El canal cierra la articulación con la tesis fuerte: el [[viaje-heroe]] es la forma narrativa de la masculinidad arquetípica, y esa masculinidad opera según el ciclo solar diario.
 
+
+## La esvástica como vehículo iconográfico del ciclo solar
+
+El canal añade en directo una precisión sobre el principal vehículo gráfico del mito solar en las tradiciones euroasiáticas: la cruz gamada o esvástica. La lectura corriente que distingue la esvástica horaria (signo nazi) de la antihoraria (emblema pacifista) es, según el canal, errónea — ambas son la misma cruz gamada solar y la asignación moral diferenciada es secundaria respecto a la función simbólica común.
+
+> "Es falso que la esvástica horaria y la antihoraria signifiquen cosas distintas: ambas son cruces gamadas solares"
+→ [¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)
+
+En Oriente — donde el símbolo precede milenios al uso nazi del siglo XX — la cruz gamada nunca operó como signo político ni como emblema pacifista: figuraba el transcurso del tiempo y el ciclo solar como una rueda en movimiento. La iconografía codifica visualmente la misma estructura que la página articula como masculinidad arquetípica: el sol-héroe que recorre cíclicamente el cielo, ahora condensado en un grafismo geométrico en lugar de una figura antropomórfica.
+
+> "En Oriente jamás fue un símbolo nazi ni de paz: representa el transcurso del tiempo, el ciclo solar como una rueda"
+→ [¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)
+
+Las variantes gráficas locales (orientación a derecha o izquierda) son adaptaciones culturales sin carga simbólica diferenciada — no encarnan polaridades opuestas dentro del mito solar sino que son la misma rueda dibujada con la mano del lugar.
+
+> "Las diferenciaciones entre derecha e izquierda son variaciones culturales locales sin importancia simbólica fundamental"
+→ [¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)
+
+La precisión opera como contrapeso a la apropiación contemporánea del símbolo: la lectura nazi del siglo XX es el caso atípico, no el régimen original. La esvástica solar pertenece al mismo dispositivo arquetípico que las figuras de Apolo, Hércules o Cristo — distintas cristalizaciones culturales (antropomórfica, geométrica) del mismo ciclo astronómico.
+
+
 > "El camino del héroe se trabaja desde que nacemos hasta que morimos, y la masculinidad arquetípica sigue el ciclo solar diario,"
 → [Análisis arquetípico El Hombre de Acero (06:11)](https://youtu.be/HgLlH8Ta2qk?t=371)
 
@@ -153,6 +174,8 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 
 
 
+
+
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 
 
@@ -160,4 +183,6 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **He visto a Paloma** — chunks: [35:49](https://youtu.be/u-VoqpR7sNI?t=2149)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [1:08:49](https://youtu.be/DMebwwTBT-M?t=4129) · [1:17:19](https://youtu.be/DMebwwTBT-M?t=4639)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [38:41](https://youtu.be/krkUPzqTqTA?t=2321)
+- **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
 

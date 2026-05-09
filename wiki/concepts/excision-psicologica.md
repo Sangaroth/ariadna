@@ -139,10 +139,12 @@ La pieza cierra parcialmente la laguna sobre el criterio diferencial entre excis
 
 
 
+
 - **La Huida** — chunks: [54:03](https://youtu.be/x4peEvI8L5o?t=3243)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [26:11](https://youtu.be/i72IYlpQWd0?t=1571)
 - **Magia y Poética** — chunks: [10:51](https://youtu.be/9U6CwqPMI3c?t=651)
 - **Twitchversario de Proxy** — chunks: [1:28:08](https://youtu.be/UBwUUOKf5UU?t=5288)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [12:16](https://youtu.be/wIhH72UFUPY?t=736)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [13:17](https://youtu.be/lw7XI2lQntM?t=797)
+- **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [1:34:01](https://youtu.be/xdT-SCW89cw?t=5641)
 

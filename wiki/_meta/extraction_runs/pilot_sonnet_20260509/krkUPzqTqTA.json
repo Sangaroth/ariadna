@@ -1,0 +1,215 @@
+{
+  "video_id": "krkUPzqTqTA",
+  "video_title": "¡Inside Proxy está emitiendo en directo!",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "esvástica / cruz gamada como símbolo solar",
+      "canonical_guess": "mito-solar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 1.5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "ambas son cruces gamadas solares"
+        },
+        {
+          "mark_type": "corrective_thesis",
+          "quote_evidence": "Es falso que la esvástica horaria y la antihoraria signifiquen cosas distintas"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cuerpo de mito-solar articula la estructura del ciclo solar (caída-camino-muerte-apoteosis) y sus encarnaciones antropomórficas (Apolo, Hércules, Cristo, Superman) pero NO documenta el principal vehículo iconográfico-gráfico del mito en las tradiciones euroasiáticas: la cruz gamada / esvástica. El directo aporta una precisión correctiva (la diferencia horaria/antihoraria es variación cultural local, no polaridad simbólica) y enraíza el símbolo en su origen oriental como rueda solar pre-nazi. Material genuinamente nuevo, refuerza la lectura del mito como arquetipo cosmológico universal.",
+      "quote_evidence": "ambas son cruces gamadas solares"
+    },
+    {
+      "surface_form": "liberalismo (semántica EE.UU. vs Europa, ausencia de concepto del mal)",
+      "canonical_guess": "liberalismo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "critique_of_tradition",
+          "quote_evidence": "El liberalismo carece de una definición operativa del mal"
+        },
+        {
+          "mark_type": "comparative_distinction",
+          "quote_evidence": "En EE.UU. \"liberal\" equivale a progresista; en Europa significa tolerar todo lo que no cause daño"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "La pieza articula crítica filosófica genuina a una tradición intelectual declarada en alcance (§1.1 humanities.philosophy.political; pilar declarado del canal según self-statement de scope.md). Tres tesis: distinción semántica EE.UU./Europa, ausencia de concepto operativo del mal, reducción liberal/conservador a 'cambiar vs no cambiar'. Insuficiente para promote_new (~4 min, no monográfico, sin estructura interna articulada como sistema, sin signal_marks de tesis-de-autor): no cumple §2.1 ni gate de auto-promoción §2.4.1. Pero merece registro en mentions_index para que la página futura, cuando se acumule material en otros directos, pueda recuperar esta cita como pieza temprana del marco crítico.",
+      "quote_evidence": "El liberalismo carece de una definición operativa del mal: tiene intuición del mal pero no concepto desarrollado"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "mito-solar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El canal cierra la articulación con la tesis fuerte: el [[viaje-heroe]] es la forma narrativa de la masculinidad arquetípica, y esa masculinidad opera según el ciclo solar diario.",
+      "content_proposed": "\n## La esvástica como vehículo iconográfico del ciclo solar\n\nEl canal añade en directo una precisión sobre el principal vehículo gráfico del mito solar en las tradiciones euroasiáticas: la cruz gamada o esvástica. La lectura corriente que distingue la esvástica horaria (signo nazi) de la antihoraria (emblema pacifista) es, según el canal, errónea — ambas son la misma cruz gamada solar y la asignación moral diferenciada es secundaria respecto a la función simbólica común.\n\n> \"Es falso que la esvástica horaria y la antihoraria signifiquen cosas distintas: ambas son cruces gamadas solares\"\n→ [¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)\n\nEn Oriente — donde el símbolo precede milenios al uso nazi del siglo XX — la cruz gamada nunca operó como signo político ni como emblema pacifista: figuraba el transcurso del tiempo y el ciclo solar como una rueda en movimiento. La iconografía codifica visualmente la misma estructura que la página articula como masculinidad arquetípica: el sol-héroe que recorre cíclicamente el cielo, ahora condensado en un grafismo geométrico en lugar de una figura antropomórfica.\n\n> \"En Oriente jamás fue un símbolo nazi ni de paz: representa el transcurso del tiempo, el ciclo solar como una rueda\"\n→ [¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)\n\nLas variantes gráficas locales (orientación a derecha o izquierda) son adaptaciones culturales sin carga simbólica diferenciada — no encarnan polaridades opuestas dentro del mito solar sino que son la misma rueda dibujada con la mano del lugar.\n\n> \"Las diferenciaciones entre derecha e izquierda son variaciones culturales locales sin importancia simbólica fundamental\"\n→ [¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)\n\nLa precisión opera como contrapeso a la apropiación contemporánea del símbolo: la lectura nazi del siglo XX es el caso atípico, no el régimen original. La esvástica solar pertenece al mismo dispositivo arquetípico que las figuras de Apolo, Hércules o Cristo — distintas cristalizaciones culturales (antropomórfica, geométrica) del mismo ciclo astronómico.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "timestamp_seconds": 2321,
+          "cite_markdown": "[¡Inside Proxy está emitiendo en directo! (38:41)](https://youtu.be/krkUPzqTqTA?t=2321)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo verificado contra el cuerpo leído: la página articula encarnaciones antropomórficas del mito solar (Apolo arquetipo, Hércules prototipo, Cristo, Superman) y la secuencia canónica caída-camino-muerte-apoteosis del libro Del origen del mal, pero NO trata la dimensión iconográfico-geométrica del mito. La cruz gamada como vehículo gráfico del ciclo solar amplía el inventario de cristalizaciones culturales del arquetipo y refuta una lectura corriente (horaria vs antihoraria como signos opuestos). Coherente con la sección 'Apolo como arquetipo abierto' que ya distingue niveles de prototipia dentro del mito solar.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Pesadillas durante inmersiones profundas / sueños vívidos",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal sobre sueños vívidos durante el curso de buceo. El speaker conecta brevemente con 'cosas personales que está procesando', lo que es framing psicoanalítico pop sin articulación de marco aplicado del canal (no se nombra inconsciente, sombra, individuación, integración). Demasiado breve y autobiográfico para enriquecer concepto alguno.",
+      "quote_evidence": "Los sueños vívidos no son solo por la presión y el oxígeno: están vinculados a cosas personales que está procesando",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Paisaje lovecraftiano de la inmersión",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Uso del adjetivo 'lovecraftiano' como descripción colorida del paisaje submarino (estructuras rocosas, neblina verde, formas orgánicas). Pura adjetivación coloquial sin análisis arquetípico ni aplicación del marco horror cósmico — no enriquece la página de Lovecraft.",
+      "quote_evidence": "Estructuras rocosas nunca vistas, corales blancos planos y agua verde con poca visibilidad a 18-23 metros de profundidad",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Procedimiento de emergencia / perderse bajo el agua",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota técnica de buceo sin marco aplicado del canal.",
+      "quote_evidence": "Procedimiento correcto: moverse en círculo buscando al grupo, y si no aparecen, ascender lentamente a superficie",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Pruebas físicas del curso de buceo profesional / apnea / 400m",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle de exigencias físicas del curso. Sin contenido enciclopédico del canal.",
+      "quote_evidence": "Apnea de 25 metros en piscina y aguante de un minuto sin respirar como mínimo",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Estrategia de neopreno por capas",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Tecnicalidad de buceo. Sin marco aplicado.",
+      "quote_evidence": "Lleva un traje de 2 mm debajo de uno de 5 mm; la capa de agua intermedia casi estanca aporta aislamiento extra",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Curso de media profundidad / crítica al elitismo militar de la escuela alternativa",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Logística profesional del speaker. La crítica al 'elitismo militar innecesario' es un comentario opinativo puntual, no marco articulado del canal — no es análisis psico-arquetípico de la cultura militar.",
+      "quote_evidence": "El enfoque militarista no aporta nada al aprendizaje real del buceo: lo esencial es cabeza fría, dominio del equipo y planificación",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Negocio en medicina hiperbárica / oxigenoterapia clínica",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Plan empresarial personal. El nicho de medicina hiperbárica como oportunidad de mercado, sin marco aplicado del canal.",
+      "quote_evidence": "Hay enorme demanda mundial de medicina hiperbárica para buceo y prácticamente cero oferta",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Planes profesionales en Mallorca / instructor",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Logística profesional. Sin contenido enciclopédico.",
+      "quote_evidence": "Le han ofrecido trabajar de buzo en el puerto de Mallorca con el título actual",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Soldadura subacuática / jaula de Faraday / física del calambre",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Tecnicalidad profesional de soldadura submarina con discusión física puntual (electrolito infinito, Faraday). Sin marco aplicado del canal.",
+      "quote_evidence": "Mañana toca soldar bajo el agua por primera vez: placas planas de acero de unos 15 mm con electrodos gruesos",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Control de descompresión en el ascenso",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Procedimiento técnico. Sin contenido enciclopédico.",
+      "quote_evidence": "Velocidad máxima de descenso recomendada: 22 metros por minuto",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Pánico bajo el agua / fobias / afinidad con el medio",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota sobre el pánico de un compañero. La referencia a fobias (arañas, serpientes) y la tesis 'hay personas hechas para el agua' es comentario psicológico-pop sin articulación de marco del canal — no se nombra arquetipo, no hay genealogía teórica, no es exposición de teoría propia.",
+      "quote_evidence": "El agua acojona a quien acojona: es como las fobias a arañas o serpientes, no se puede racionalizar fácilmente",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Frío al ponerse el traje mojado",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle vivencial del curso.",
+      "quote_evidence": "Después de comer hay que volver al agua y los trajes han estado colgados a 13 grados, mojados y helados",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Renovación de amistades / desconexión digital de Twitter",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Reflexión personal sobre vínculos y salud mental, sin marco aplicado del canal. La conexión con vínculo (concepto-canal documentado) sería forzada — aquí el speaker habla en clave biográfica directa, no expone teoría.",
+      "quote_evidence": "Lleva tres o cuatro años con vínculos (especialmente de Twitch) que no estaban bien y necesita reelaborarlos",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Lista de equipo pendiente: traje seco Beuchat / escarpines",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Lista de compras técnicas.",
+      "quote_evidence": "Prioridad máxima: traje seco Beuchat con cierre frontal, recomendado por un compañero del curso",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Condicionamiento aversivo del sabor (tequila, vermut, grasas marinas)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico estándar de psicología del aprendizaje (aversión gustativa condicionada — Garcia, 1955) mencionado en clave coloquial. El speaker no lo articula como marco propio ni lo aplica a una tesis psicológico-cultural del canal — es comentario casual al final del directo. Per scope.md §1.2, técnica psicológica explicada sin marco interpretativo del canal no genera página autónoma.",
+      "quote_evidence": "Una mala experiencia con un alimento puede arruinar permanentemente ese sabor por condicionamiento",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

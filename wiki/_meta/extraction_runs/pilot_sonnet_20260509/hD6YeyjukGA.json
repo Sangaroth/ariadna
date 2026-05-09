@@ -1,0 +1,291 @@
+{
+  "video_id": "hD6YeyjukGA",
+  "video_title": "La Mala Ciencia",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "psicoinfluencers (eje constructivista neurocultural)",
+      "canonical_guess": "psicoinfluencers-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 80,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "fingir un perfil de divulgación científica mientras se mienten las referencias es una falta de respeto a quienes se esfuerzan en ser rigurosos"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Proxy plantea que Candelios o no entiende lo que lee, o manipula deliberadamente por likes, o copia referencias de Google sin leer los artículos"
+        },
+        {
+          "mark_type": "comparative_typology",
+          "quote_evidence": "Los MGTOW elaboran un locus externo biológico: \"estamos determinados por la biología\""
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Vídeo monográfico (~104 min) que aplica el marco psicoinfluencer del canal a un caso paradigmático nuevo: divulgación constructivista neurocultural (Candelios Fang / Tu antropóloga de confianza). El cuerpo actual de psicoinfluencers-en-proxy está articulado sobre el eje conductismo divulgativo (Lidia Viñuela) — es una extensión natural y necesaria al eje IDEOLÓGICAMENTE OPUESTO pero ESTRUCTURALMENTE IDÉNTICO de divulgación maniquea. Material genuinamente nuevo: patrón de referencias falseadas (libros militantes citados como papers), inflación terminológica ('estructura funcional del cerebro'), tipología disjunta del divulgador descuidado (incomprensión / manipulación / copia sin lectura), tesis MGTOW-feminismo-constructivista como espejos maniqueos del locus externo, proyecto editorial de corrección sistemática. La extensión consolida la página como crítica TRANSVERSAL al modelo divulgativo, no a una sola corriente.",
+      "quote_evidence": "El canal de Candelios tiene tanta ciencia como \"los canales de tetas\": es sofisma estético que suena a ciencia pero no lo es"
+    },
+    {
+      "surface_form": "sofisma estético (jerga inventada que suena técnica)",
+      "canonical_guess": "sofisma-estetico",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Candelios usa \"estructura funcional\" como sofisma estético para aparentar profundidad técnica"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cuerpo actual articula el sofisma estético en clave de palabras de valor (revolución/performance, antirracismo/racismo estético) y de la falacia de la claridad. El directo añade una variante específica: el sofisma TERMINOLÓGICO — palabras inventadas que pasan por jerga técnica especializada. El mecanismo es operativamente distinto (explota déficit asimétrico de competencia técnica entre divulgador y audiencia, no operaba en los casos políticos-morales documentados) pero estructuralmente análogo. Refuerza la lectura del concepto como dispositivo transversal a trincheras ideológicas.",
+      "quote_evidence": "Candelios usa \"estructura funcional\" como sofisma estético para aparentar profundidad técnica"
+    },
+    {
+      "surface_form": "teoría del lenguaje (constructivismo neurocultural)",
+      "canonical_guess": "teoria-del-lenguaje-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El constructivismo duro sostiene que la experiencia cambia la cognición en sentido profundo, lo cual no está demostrado transculturalmente"
+        },
+        {
+          "mark_type": "case_study",
+          "quote_evidence": "La película \"La llegada\" ilustra el constructivismo puro: aprender un idioma circular cambiaría la percepción del tiempo"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cuerpo actual articula el determinismo lingüístico (Sapir-Whorf radical, PNL, Heidegger) como casos del constructivismo lingüístico que el canal rechaza. El directo extiende el marco al CONSTRUCTIVISMO NEUROCULTURAL — la tesis 'la cultura moldea el cerebro y los genes' — que es la misma operación retórica con vocabulario distinto. Material genuinamente nuevo: La llegada como caso cinematográfico del Sapir-Whorf radical (no estaba en la página), cuantificación del moldeo cerebral real (trauma/enamoramiento/maternidad >> cultura ambiental, reversibilidad en 6 meses), definición antropológica de cultura como herencia no biológica como demarcación operativa ausente en el divulgador constructivista. Encaja como sección de cierre que conecta el determinismo lingüístico con su variante neurocultural contemporánea.",
+      "quote_evidence": "Decir que la cultura moldea el cerebro es una tautología equivalente a decir que la experiencia causa experiencia"
+    },
+    {
+      "surface_form": "Candelios Fang / Tu antropóloga de confianza",
+      "canonical_guess": "candelios-fang",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 70,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Influencer concreta de Instagram (~300k seguidores) usada en el directo como caso paradigmático de divulgación constructivista pseudocientífica. Per scope.md §3.3 las personas concretas no generan página propia salvo tratamiento sustantivo de su pensamiento como cuerpo teórico — Candelios no es figura intelectual cuyo pensamiento merezca página, es caso clínico-cultural de un patrón. Su tratamiento se integra como caso ilustrativo en psicoinfluencers-en-proxy (paralelo a Lidia Viñuela / Think Healthy). Si futuras ediciones del proyecto editorial 'corrección sistemática' anunciado por el canal acumulan suficiente material sobre su discurso, podría reconsiderarse — pero con un solo vídeo es prematuro y violaría la regla anti-personalización de páginas wiki.",
+      "quote_evidence": "Proxy hizo un reel respondiendo a Candelios Fang (300.000 seguidores en Instagram) sobre diferencias cerebrales entre hombres y mujeres"
+    },
+    {
+      "surface_form": "MGTOW (movimiento Men Going Their Own Way)",
+      "canonical_guess": "mgtow-movimiento",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Movimiento sociocultural articulado en el directo como una mitad de la tipología espejo locus-externo-biológico vs locus-externo-cultural. La mención es estructural (no solo nominal) — el canal lo usa para una tesis comparativa. Pero ~3 min de tratamiento, sin estructura interna desplegada (etiología, casos, genealogía, autores referentes). Insuficiente para promote_new (§2.1 ningún criterio cumplido). El contenido analítico se preserva en el update a psicoinfluencers-en-proxy (sección sobre espejos maniqueos del locus externo). mentions_index registra para futuro: si el canal articula MGTOW como caso clínico-cultural en otros directos, la página sería viable.",
+      "quote_evidence": "Los MGTOW elaboran un locus externo biológico: \"estamos determinados por la biología\""
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "psicoinfluencers-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza cierra una laguna implícita de la página: la crítica a la divulgación conductista quedaba en plano metodológico-operativo (qué hace mal el divulgador en concreto); este vídeo le añade el plano filosófico-estructural (por qué la forma misma del sistema no puede tener éxito como teoría de la mente, independientemente de quién lo divulgue y cómo).",
+      "content_proposed": "\n## Caso paralelo: la divulgación pseudocientífica constructivista (Candelios Fang)\n\nEl directo monográfico *La Mala Ciencia* (~104 min) extiende el marco de esta página al **eje constructivista** de la divulgación pseudocientífica — una axis estructuralmente paralela a la del conductismo divulgativo (Lidia Viñuela / Think Healthy) pero ideológicamente opuesta. El caso es Candelios Fang ('Tu antropóloga de confianza', ~300 000 seguidores en Instagram), antropóloga divulgadora cuya tesis recurrente es que la cultura 'moldea el cerebro y los genes' en sentido fuerte. La crítica del canal opera en el mismo nivel metodológico que con el conductismo divulgativo, ahora aplicada al constructivismo neurocultural.\n\n### El patrón canónico: referencias falseadas\n\n> \"De las tres referencias que Candelios citaba, dos eran libros divulgativos con \\\"neurosexismo\\\" en el título y un artículo que no respaldaba sus afirmaciones\"\n→ [La Mala Ciencia (29:38)](https://youtu.be/hD6YeyjukGA?t=1778)\n\n> \"Los libros referenciados son obras maniqueas no respetadas por la academia que acuñaron el término \\\"neurosexismo\\\" para atacar la biología evolutiva\"\n→ [La Mala Ciencia (29:38)](https://youtu.be/hD6YeyjukGA?t=1778)\n\nEl mecanismo retórico recurre a la **autoridad bibliográfica simulada**: el divulgador exhibe referencias que parecen papers especializados pero son libros de divulgación militante. Los lectores que exigen al canal 'más rigor científico' no han leído las propias referencias del divulgador — la sospecha epistemológica opera asimétricamente, dirigida solo contra las posiciones que contradicen la militancia ideológica del lector.\n\n### Las tres hipótesis del divulgador descuidado\n\n> \"Proxy plantea que Candelios o no entiende lo que lee, o manipula deliberadamente por likes, o copia referencias de Google sin leer los artículos\"\n→ [La Mala Ciencia (1:08:13)](https://youtu.be/hD6YeyjukGA?t=4093)\n\nEl canal articula la tipología disjunta del divulgador descuidado: incompetencia de lectura, manipulación deliberada o copia de referencias sin verificación (probable búsqueda por abstract en Google). En los tres casos la consecuencia es la misma — citas que no respaldan lo afirmado, conexiones inventadas entre datos genéticos y tesis culturales (caso del gen SRGAP2 articulado como 'el gen de la cultura' cuando el artículo niega explícitamente vinculación con inteligencia), ejemplos descontextualizados (hambruna prenatal presentada como 'epigenética cultural' cuando la hambruna no es fenómeno cultural sino natural).\n\n### Sofisma estético terminológico\n\n> \"Candelios usa \\\"estructura funcional\\\" como sofisma estético para aparentar profundidad técnica\"\n→ [La Mala Ciencia (1:09:44)](https://youtu.be/hD6YeyjukGA?t=4184)\n\n> \"El canal de Candelios tiene tanta ciencia como \\\"los canales de tetas\\\": es sofisma estético que suena a ciencia pero no lo es\"\n→ [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)\n\nLa operación opera por inflación terminológica: 'estructura funcional del cerebro' no es un término técnico de la neurobiología sino una construcción que **suena** técnica. El procedimiento es estructuralmente idéntico al [[sofisma-estetico]] que la página ya documentaba en el caso de la falacia de la claridad — pero aquí el sofisma actúa al nivel del vocabulario más que al nivel de la presentación argumental: palabras inventadas que pasan por jerga especializada explotando el déficit asimétrico de competencia técnica entre quien habla y quien escucha.\n\n### MGTOW y feminismo constructivista como espejos maniqueos del locus externo\n\nLa crítica del canal sitúa al constructivismo neurocultural feminista no como aberración aislada sino como una de dos manifestaciones simétricas de un dispositivo psicológico común — la externalización de la responsabilidad por la propia conducta:\n\n> \"Los MGTOW elaboran un locus externo biológico: \\\"estamos determinados por la biología\\\"\"\n→ [La Mala Ciencia (1:00:08)](https://youtu.be/hD6YeyjukGA?t=3608)\n\n> \"Las constructivistas elaboran un locus externo cultural: \\\"estamos determinados por la cultura\\\"\"\n→ [La Mala Ciencia (1:00:08)](https://youtu.be/hD6YeyjukGA?t=3608)\n\n> \"los MGTOW culpan a la biología (mamá/ex) y las constructivistas culpan al Estado/estructura de poder\"\n→ [La Mala Ciencia (1:00:08)](https://youtu.be/hD6YeyjukGA?t=3608)\n\nLa pieza articula la simetría operativa entre dos posiciones aparentemente opuestas. Ambos movimientos comparten la misma mecánica psicológica de externalización: ni la conducta propia ni la responsabilidad personal forman parte del modelo explicativo — todo está determinado por una estructura externa (biológica para los MGTOW, cultural para las constructivistas). La consecuencia política y clínica es paralela: imposibilidad de cambio individual, victimización estructural, comunidad de afinidad por compartir locus externo. La pieza conecta lateralmente con el [[diagrama-de-proxy]]: ambos movimientos ocupan posiciones extremas en el cuadrante de jerarquía aplanada con fundamentalismo moral, distinguidos solo por qué causa exógena se invoca como determinación.\n\n### El proyecto de corrección sistemática\n\n> \"Proxy anuncia que cada vez que Candelios publique una mentira semejante hará un vídeo de respuesta enlazado en los comentarios del vídeo original\"\n→ [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)\n\n> \"fingir un perfil de divulgación científica mientras se mienten las referencias es una falta de respeto a quienes se esfuerzan en ser rigurosos\"\n→ [La Mala Ciencia (1:08:13)](https://youtu.be/hD6YeyjukGA?t=4093)\n\nEl cierre articula una posición editorial del canal: la crítica al psicoinfluencer no es solo análisis ocasional de un caso emblemático, sino compromiso de respuesta sistemática frente a publicaciones específicas que manipulen referencias científicas. La estrategia editorial — vídeo-respuesta enlazado desde los comentarios del vídeo original — implementa operativamente la corrección a escala de algoritmo de redes sociales, no solo a escala de público propio del canal.\n\n### Convergencia con la crítica al conductismo divulgativo\n\nAunque el divulgador concreto cambia (Viñuela / conductismo / antipsiquiatría difusa → Candelios / constructivismo / neurosexismo) y la posición ideológica se invierte, la **estructura del fallo divulgativo es la misma**: simplificación que se vende como claridad, términos sin definir que aparentan precisión, referencias bibliográficas usadas como signo de autoridad sin verificación de su contenido, hombre de paja contra las posiciones rivales. La crítica del canal a los psicoinfluencers no es por tanto crítica a una corriente psicológica concreta sino a un **modelo de divulgación** que opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con aparato científico falsificado, encaja en la tipología sea cual sea su signo político.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 1778,
+          "cite_markdown": "[La Mala Ciencia (29:38)](https://youtu.be/hD6YeyjukGA?t=1778)"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 3608,
+          "cite_markdown": "[La Mala Ciencia (1:00:08)](https://youtu.be/hD6YeyjukGA?t=3608)"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 4093,
+          "cite_markdown": "[La Mala Ciencia (1:08:13)](https://youtu.be/hD6YeyjukGA?t=4093)"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 4184,
+          "cite_markdown": "[La Mala Ciencia (1:09:44)](https://youtu.be/hD6YeyjukGA?t=4184)"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 5596,
+          "cite_markdown": "[La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)"
+        }
+      ],
+      "rationale": "El cuerpo leído articula la crítica del canal exclusivamente sobre el eje conductista divulgativo (Lidia Viñuela). El update añade el eje IDEOLÓGICAMENTE OPUESTO (constructivismo neurocultural feminista, Candelios Fang) demostrando que la crítica del canal opera transversalmente a trincheras ideológicas. Material genuinamente nuevo: patrón de referencias falseadas como mecanismo recurrente, tipología disjunta del divulgador descuidado, sofisma estético TERMINOLÓGICO (variante nueva del concepto), tesis MGTOW-constructivista como espejos maniqueos del locus externo, proyecto editorial sistemático. La extensión consolida la página de crítica-a-una-corriente a crítica-a-un-modelo-divulgativo. NO redunda con las secciones existentes sobre conductismo: el caso Candelios opera en plano y registro distintos.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sofisma-estetico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El patrón es siempre el mismo: el acto sustantivo (revolución, antirracismo) se sustituye por su estética (performance, racismo estético — agrupar y juzgar a las personas por sus categorías raciales con intención \"buena\"). El sofisma no es solo error individual: es un dispositivo cultural que se transmite y se inocula.",
+      "content_proposed": "\n## Sofisma estético terminológico: la jerga inventada que suena técnica\n\nEl directo *La Mala Ciencia* extiende el sofisma estético al plano del vocabulario especializado. La operación rebasa la falacia de la claridad (palabras simples que aparentan profundidad) y opera ahora por **inflación terminológica**: palabras inventadas que pasan por jerga técnica:\n\n> \"Candelios usa \\\"estructura funcional\\\" como sofisma estético para aparentar profundidad técnica\"\n→ [La Mala Ciencia (1:09:44)](https://youtu.be/hD6YeyjukGA?t=4184)\n\n'Estructura funcional del cerebro' no es un término técnico de la neurobiología sino una construcción retórica que suena como tal. La diferencia operativa frente al sofisma estético clásico (palabras de valor sin sustento en la conducta) es que aquí la palabra falsa se posiciona en un dominio donde el lector medio NO puede verificar la legitimidad del término — el divulgador explota el déficit asimétrico de competencia técnica entre quien habla y quien escucha. La fórmula del canal cierra la equivalencia estructural:\n\n> \"El canal de Candelios tiene tanta ciencia como \\\"los canales de tetas\\\": es sofisma estético que suena a ciencia pero no lo es\"\n→ [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)\n\nLa crítica articulada en [[psicoinfluencers-en-proxy]] integra este caso como variante neurocultural-constructivista del mismo dispositivo: el sofisma estético opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con vocabulario que aparenta especialización sin tenerla, encaja en la tipología sea cual sea su signo. La pieza añade así una segunda dimensión al concepto: además del sofisma sobre VALORES (palabras morales sin conducta), hay sofisma sobre PRECISIÓN (palabras técnicas sin referente disciplinar real).\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 4184,
+          "cite_markdown": "[La Mala Ciencia (1:09:44)](https://youtu.be/hD6YeyjukGA?t=4184)"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 5596,
+          "cite_markdown": "[La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)"
+        }
+      ],
+      "rationale": "El cuerpo actual articula el sofisma sobre valores morales (revolución/performance, antirracismo/racismo estético) y la falacia de la claridad. NO documenta la variante terminológica-técnica: palabras inventadas que pasan por jerga especializada explotando el déficit asimétrico de competencia. El concepto gana una segunda dimensión genuina, no redundante. Refuerza la lectura del sofisma como dispositivo transversal a trincheras ideológicas (la página actual lo localiza en polo postmoderno-progresista; el caso Candelios CONFIRMA esa localización pero amplía el alcance a la divulgación pseudo-científica).",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "teoria-del-lenguaje-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El autoposicionamiento explícito del canal —representacionalista, realista, cognitivista— lo sitúa en la línea Fodor-Chomsky antes que en el funcionalismo social de Halliday.",
+      "content_proposed": "\n## Crítica aplicada al constructivismo neurocultural divulgativo\n\nEl directo *La Mala Ciencia* aplica el marco representacionalista de esta página a una versión contemporánea del determinismo lingüístico-cultural: la tesis de que 'la cultura moldea el cerebro y los genes' promovida por divulgadoras antropológicas en redes sociales (caso paradigmático: Candelios Fang). La crítica del canal opera al mismo nivel metodológico que con la PNL, extendiendo ahora el marco al constructivismo cerebral/cultural.\n\n### Constructivismo duro y *La llegada* como caso paradigmático cinematográfico\n\n> \"El constructivismo duro sostiene que la experiencia cambia la cognición en sentido profundo, lo cual no está demostrado transculturalmente\"\n→ [La Mala Ciencia (46:28)](https://youtu.be/hD6YeyjukGA?t=2788)\n\n> \"La película \\\"La llegada\\\" ilustra el constructivismo puro: aprender un idioma circular cambiaría la percepción del tiempo\"\n→ [La Mala Ciencia (46:28)](https://youtu.be/hD6YeyjukGA?t=2788)\n\n> \"Las estructuras cerebrales fundamentales (miedo, afectos básicos) son idénticas en todas las culturas; solo la parte plástica dependiente del ejercicio varía ligeramente\"\n→ [La Mala Ciencia (46:28)](https://youtu.be/hD6YeyjukGA?t=2788)\n\n*La llegada* es para el canal la fantasía cinematográfica del Sapir-Whorf radical: aprender un idioma cuya gramática carezca de tiempo lineal reconfiguraría la cognición temporal del sujeto. La pieza completa la crítica al determinismo lingüístico de la página articulando su parentesco con el constructivismo neurocultural — son la misma tesis bajo dos vocabularios distintos, y ambas chocan con la evidencia de invariancia transcultural de las estructuras cerebrales fundamentales.\n\n### Cuánto moldea de hecho la cultura el cerebro: poco\n\n> \"Lo que más moldea el cerebro es el trauma, el enamoramiento y tener un bebé, no la cultura en sentido amplio\"\n→ [La Mala Ciencia (40:52)](https://youtu.be/hD6YeyjukGA?t=2452)\n\n> \"Cuesta enormemente detectar cambios culturales en el cerebro porque son reversibles: 6 meses en otra cultura y el cerebro vuelve a cambiar\"\n→ [La Mala Ciencia (40:52)](https://youtu.be/hD6YeyjukGA?t=2452)\n\n> \"Decir que la cultura moldea el cerebro es una tautología equivalente a decir que la experiencia causa experiencia\"\n→ [La Mala Ciencia (40:52)](https://youtu.be/hD6YeyjukGA?t=2452)\n\nLa precisión del canal cierra la objeción al constructivismo en tres movimientos: (a) los grandes moldeadores cerebrales documentados son **eventos vitales individuales** (trauma, enamoramiento, maternidad), no marcos culturales abstractos; (b) los efectos atribuibles a inmersión cultural son **reversibles en plazos cortos**, lo que descarta que sean reorganización profunda; (c) la afirmación 'la cultura moldea el cerebro' es lógicamente vacua porque toda experiencia es cultural en algún sentido — el enunciado se vuelve tautológico.\n\n### Cultura como herencia no biológica: la definición ausente\n\n> \"Cultura es la herencia no biológica, definición fundamental en antropología que Candelios omite\"\n→ [La Mala Ciencia (44:57)](https://youtu.be/hD6YeyjukGA?t=2697)\n\nLa objeción metodológica es que el divulgador constructivista usa 'cultura' sin definirla, lo que permite atribuirle cualquier efecto cerebral observable. La definición antropológica clásica — herencia no biológica, distinción que se conoce desde el siglo XVIII — opera como demarcación necesaria: si la cultura es lo no biológico, la afirmación 'la cultura modifica los genes' pierde sentido porque traspasa la definición operativa misma del término.\n\nLa pieza completa la lectura que la página ya articula con la PNL: el determinismo lingüístico y el determinismo cultural son la misma operación retórica con vocabularios distintos, ambas invalidadas por el mismo triple problema (definir lenguaje/cultura, definir pensamiento, definir determinar) y por la misma evidencia de invariancia representacional transcultural. La crítica detallada de las referencias falseadas que el divulgador constructivista emplea — y la articulación del fenómeno como caso del modelo divulgativo psicoinfluencer — queda en [[psicoinfluencers-en-proxy]].\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 2452,
+          "cite_markdown": "[La Mala Ciencia (40:52)](https://youtu.be/hD6YeyjukGA?t=2452)"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 2697,
+          "cite_markdown": "[La Mala Ciencia (44:57)](https://youtu.be/hD6YeyjukGA?t=2697)"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "timestamp_seconds": 2788,
+          "cite_markdown": "[La Mala Ciencia (46:28)](https://youtu.be/hD6YeyjukGA?t=2788)"
+        }
+      ],
+      "rationale": "El cuerpo leído articula el determinismo lingüístico (Sapir-Whorf radical, PNL, Heidegger) como casos del constructivismo lingüístico que el canal rechaza. El update extiende al CONSTRUCTIVISMO NEUROCULTURAL — la misma operación retórica con vocabulario distinto. Material verificadamente nuevo: La llegada como caso cinematográfico (no estaba en la página), cuantificación operativa del moldeo cerebral real (trauma/enamoramiento/maternidad >> cultura ambiental, reversibilidad en 6 meses), definición antropológica de cultura como demarcación operativa. NO redunda con la sección existente sobre Sapir-Whorf radical: opera en plano cinematográfico-divulgativo y aporta cuantificación empírica. Coherente con el patrón de la página de extender la crítica representacionalista a casos contemporáneos de constructivismo (PNL, lenguaje inclusivo, ahora neurocultural).",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Reel viral / dispute en Instagram contra Candelios",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota concreta sobre la disputa puntual en redes (54 comentarios exigiendo referencias, 300 seguidores ganados, 5000 visualizaciones) que originó el directo. Información de campaña editorial concreta sin valor enciclopédico. La pieza analítica derivada (proyecto de corrección sistemática) se preserva en el update a psicoinfluencers-en-proxy.",
+      "quote_evidence": "Proxy hizo un reel respondiendo a Candelios Fang (300.000 seguidores en Instagram) sobre diferencias cerebrales entre hombres y mujeres",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Análisis paper-por-paper de las referencias de Candelios (Culture Sensitive Neural Substrates, Cultura neurobiología y comportamiento, gen SRGAP2, hambruna prenatal, Cómo la cultura perfiló el cerebro humano)",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Refutación paper-por-paper de las cinco referencias bibliográficas usadas por el divulgador. Cada análisis es contenido instrumental dentro de la crítica psicoinfluencer general — el patrón estructural (referencias falseadas que no respaldan lo afirmado) está capturado en el update a psicoinfluencers-en-proxy. Los papers concretos no son entidades enciclopédicas autónomas del wiki — son material de la disputa.",
+      "quote_evidence": "El propio artículo reconoce que no puede vincular directamente la cultura a los hechos cerebrales observados",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Genética conductual / leyes de la genética conductual",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Marco técnico estándar de psicología cuantitativa (Plomin, Turkheimer y sus tres leyes) invocado como autoridad estructural contra la tesis constructivista. Per scope.md §1.2, concepto técnico estándar usado como referencia sin articulación de marco aplicado del canal no genera página autónoma. La función analítica (carga genética como factor primero) se preserva citando el principio dentro del update a teoria-del-lenguaje-en-proxy si pertinente.",
+      "quote_evidence": "Las leyes de la genética conductual establecen que la carga genética es lo primero que cuenta, después todo lo demás",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Crianza esquizogénica en tribus amazónicas/africanas",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Caso etnográfico usado como contraejemplo al constructivismo cultural: tribus cuyo sistema de crianza maltrata sistemáticamente produce traumas esquizogénicos, no 'cerebros moldeados culturalmente'. Pieza analítica fuerte pero localizada como argumento contra el constructivismo del cerebro — su valor enciclopédico está como ejemplo dentro de teoria-del-lenguaje-en-proxy o realismo-cognitivo, no como página propia. ~3 min de tratamiento. Si el canal vuelve al fenómeno con casos concretos podría considerarse un futuro 'crianza-y-trauma-en-proxy'.",
+      "quote_evidence": "Existen tribus amazónicas y africanas cuyo sistema de crianza maltrata sistemáticamente a los niños y les niega vínculos individuales",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Epigenética / fosforilación de bases del ADN",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mecanismo biológico estándar invocado para refutar la tesis del divulgador (epigenética NO demuestra que la cultura modifique los genes; el entorno epigenético es todo lo no celular, no específicamente la cultura). Per scope.md §1.2, técnica científica estándar sin marco aplicado del canal — no genera página autónoma. Se conserva como pieza argumentativa dentro de la refutación, capturada en psicoinfluencers-en-proxy.",
+      "quote_evidence": "El entorno epigenético es todo lo no celular, no específicamente la cultura",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Tracto frontotemporal / áreas prefrontales / empatía",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Detalle neuroanatómico usado para refutar la afirmación pseudocientífica de que las áreas prefrontales se asocian específicamente con la empatía. Sin marco aplicado del canal — es corrección técnica puntual.",
+      "quote_evidence": "Las áreas prefrontales no están específicamente asociadas con la empatía; lo que existe es un tracto frontotemporal específico",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Distinción profesional/ciudadano en la batalla cultural",
+      "reason_code": "framing_comment",
+      "reason_detail": "Marco introductorio sobre la posición personal del speaker (preocupado por la batalla cultural como ciudadano, no como profesional dedicado a ella). Encuadre retórico de apertura, sin tesis articulada.",
+      "quote_evidence": "Distingue entre dedicarse a la batalla cultural como profesión y preocuparse por ella como ciudadano",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Imposibilidad de ver pensamiento por neuroimagen",
+      "reason_code": "in_work_subtopic",
+      "reason_detail": "Tesis epistemológica fuerte sobre los límites de la neuroimagen ('No se puede comprobar que dos personas piensan distinto mirando su cerebro'). Pieza analítica relevante para realismo-cognitivo / golem-de-cobre, pero capturada implícitamente en el update a teoria-del-lenguaje-en-proxy y psicoinfluencers-en-proxy donde se argumenta contra la tesis 'culturas distintas perciben el mundo distinto' como afirmación poética, no neurocientífica. No requiere update separado a realismo-cognitivo dado que la pieza ya queda anclada por contexto en los dos updates principales.",
+      "quote_evidence": "No se puede comprobar que dos personas \"piensan distinto\" mirando su cerebro en neuroimagen",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Neuroplasticidad (clarificación contra usos populares)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mención puntual señalando que la neuroplasticidad no es lo que la mayoría de no neurobiólogos cree. Sin desarrollo del concepto ni articulación de marco propio del canal.",
+      "quote_evidence": "La neuroplasticidad no es lo que la mayoría de no neurobiólogos cree que es",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 9,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

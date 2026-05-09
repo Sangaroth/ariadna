@@ -189,6 +189,68 @@ El cierre es lógico-estructural y no admite tercera vía operativa: cualquier s
 La pieza cierra una laguna implícita de la página: la crítica a la divulgación conductista quedaba en plano metodológico-operativo (qué hace mal el divulgador en concreto); este vídeo le añade el plano filosófico-estructural (por qué la forma misma del sistema no puede tener éxito como teoría de la mente, independientemente de quién lo divulgue y cómo).
 
 
+## Caso paralelo: la divulgación pseudocientífica constructivista (Candelios Fang)
+
+El directo monográfico *La Mala Ciencia* (~104 min) extiende el marco de esta página al **eje constructivista** de la divulgación pseudocientífica — una axis estructuralmente paralela a la del conductismo divulgativo (Lidia Viñuela / Think Healthy) pero ideológicamente opuesta. El caso es Candelios Fang ('Tu antropóloga de confianza', ~300 000 seguidores en Instagram), antropóloga divulgadora cuya tesis recurrente es que la cultura 'moldea el cerebro y los genes' en sentido fuerte. La crítica del canal opera en el mismo nivel metodológico que con el conductismo divulgativo, ahora aplicada al constructivismo neurocultural.
+
+### El patrón canónico: referencias falseadas
+
+> "De las tres referencias que Candelios citaba, dos eran libros divulgativos con \"neurosexismo\" en el título y un artículo que no respaldaba sus afirmaciones"
+→ [La Mala Ciencia (29:38)](https://youtu.be/hD6YeyjukGA?t=1778)
+
+> "Los libros referenciados son obras maniqueas no respetadas por la academia que acuñaron el término \"neurosexismo\" para atacar la biología evolutiva"
+→ [La Mala Ciencia (29:38)](https://youtu.be/hD6YeyjukGA?t=1778)
+
+El mecanismo retórico recurre a la **autoridad bibliográfica simulada**: el divulgador exhibe referencias que parecen papers especializados pero son libros de divulgación militante. Los lectores que exigen al canal 'más rigor científico' no han leído las propias referencias del divulgador — la sospecha epistemológica opera asimétricamente, dirigida solo contra las posiciones que contradicen la militancia ideológica del lector.
+
+### Las tres hipótesis del divulgador descuidado
+
+> "Proxy plantea que Candelios o no entiende lo que lee, o manipula deliberadamente por likes, o copia referencias de Google sin leer los artículos"
+→ [La Mala Ciencia (1:08:13)](https://youtu.be/hD6YeyjukGA?t=4093)
+
+El canal articula la tipología disjunta del divulgador descuidado: incompetencia de lectura, manipulación deliberada o copia de referencias sin verificación (probable búsqueda por abstract en Google). En los tres casos la consecuencia es la misma — citas que no respaldan lo afirmado, conexiones inventadas entre datos genéticos y tesis culturales (caso del gen SRGAP2 articulado como 'el gen de la cultura' cuando el artículo niega explícitamente vinculación con inteligencia), ejemplos descontextualizados (hambruna prenatal presentada como 'epigenética cultural' cuando la hambruna no es fenómeno cultural sino natural).
+
+### Sofisma estético terminológico
+
+> "Candelios usa \"estructura funcional\" como sofisma estético para aparentar profundidad técnica"
+→ [La Mala Ciencia (1:09:44)](https://youtu.be/hD6YeyjukGA?t=4184)
+
+> "El canal de Candelios tiene tanta ciencia como \"los canales de tetas\": es sofisma estético que suena a ciencia pero no lo es"
+→ [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)
+
+La operación opera por inflación terminológica: 'estructura funcional del cerebro' no es un término técnico de la neurobiología sino una construcción que **suena** técnica. El procedimiento es estructuralmente idéntico al [[sofisma-estetico]] que la página ya documentaba en el caso de la falacia de la claridad — pero aquí el sofisma actúa al nivel del vocabulario más que al nivel de la presentación argumental: palabras inventadas que pasan por jerga especializada explotando el déficit asimétrico de competencia técnica entre quien habla y quien escucha.
+
+### MGTOW y feminismo constructivista como espejos maniqueos del locus externo
+
+La crítica del canal sitúa al constructivismo neurocultural feminista no como aberración aislada sino como una de dos manifestaciones simétricas de un dispositivo psicológico común — la externalización de la responsabilidad por la propia conducta:
+
+> "Los MGTOW elaboran un locus externo biológico: \"estamos determinados por la biología\""
+→ [La Mala Ciencia (1:00:08)](https://youtu.be/hD6YeyjukGA?t=3608)
+
+> "Las constructivistas elaboran un locus externo cultural: \"estamos determinados por la cultura\""
+→ [La Mala Ciencia (1:00:08)](https://youtu.be/hD6YeyjukGA?t=3608)
+
+> "los MGTOW culpan a la biología (mamá/ex) y las constructivistas culpan al Estado/estructura de poder"
+→ [La Mala Ciencia (1:00:08)](https://youtu.be/hD6YeyjukGA?t=3608)
+
+La pieza articula la simetría operativa entre dos posiciones aparentemente opuestas. Ambos movimientos comparten la misma mecánica psicológica de externalización: ni la conducta propia ni la responsabilidad personal forman parte del modelo explicativo — todo está determinado por una estructura externa (biológica para los MGTOW, cultural para las constructivistas). La consecuencia política y clínica es paralela: imposibilidad de cambio individual, victimización estructural, comunidad de afinidad por compartir locus externo. La pieza conecta lateralmente con el [[diagrama-de-proxy]]: ambos movimientos ocupan posiciones extremas en el cuadrante de jerarquía aplanada con fundamentalismo moral, distinguidos solo por qué causa exógena se invoca como determinación.
+
+### El proyecto de corrección sistemática
+
+> "Proxy anuncia que cada vez que Candelios publique una mentira semejante hará un vídeo de respuesta enlazado en los comentarios del vídeo original"
+→ [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)
+
+> "fingir un perfil de divulgación científica mientras se mienten las referencias es una falta de respeto a quienes se esfuerzan en ser rigurosos"
+→ [La Mala Ciencia (1:08:13)](https://youtu.be/hD6YeyjukGA?t=4093)
+
+El cierre articula una posición editorial del canal: la crítica al psicoinfluencer no es solo análisis ocasional de un caso emblemático, sino compromiso de respuesta sistemática frente a publicaciones específicas que manipulen referencias científicas. La estrategia editorial — vídeo-respuesta enlazado desde los comentarios del vídeo original — implementa operativamente la corrección a escala de algoritmo de redes sociales, no solo a escala de público propio del canal.
+
+### Convergencia con la crítica al conductismo divulgativo
+
+Aunque el divulgador concreto cambia (Viñuela / conductismo / antipsiquiatría difusa → Candelios / constructivismo / neurosexismo) y la posición ideológica se invierte, la **estructura del fallo divulgativo es la misma**: simplificación que se vende como claridad, términos sin definir que aparentan precisión, referencias bibliográficas usadas como signo de autoridad sin verificación de su contenido, hombre de paja contra las posiciones rivales. La crítica del canal a los psicoinfluencers no es por tanto crítica a una corriente psicológica concreta sino a un **modelo de divulgación** que opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con aparato científico falsificado, encaja en la tipología sea cual sea su signo político.
+
+
+
 ## Lagunas
 
 - Tratamiento detallado de la genealogía intelectual del conductismo (Watson, Skinner, ACT, terapias de tercera generación) — el canal critica la divulgación contemporánea, no el programa académico original

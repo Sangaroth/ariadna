@@ -1,0 +1,246 @@
+{
+  "video_id": "5vERIcm2EGk",
+  "video_title": "¡Inside Proxy está emitiendo en directo!",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Silmarillion",
+      "canonical_guess": "el-silmarillion",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Aulë vs Melkor: por qué se comparan en el Silmarillion"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "La comparación viene del propio Ainulindalë: ambos se equiparaban en posibilidades"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El directo añade una pieza estructural ausente del cuerpo actual: paridad explícita Aulë-Melkor en posibilidades creativas, con asignación elemental fina (Aulë=tierra/materia, Melkor=fuego/energía) y mecanismo que explica la migración de Maiar de Aulë (Sauron) a Melkor por afinidad de potencialidades. Refina además la lectura del Melkor-en-la-Música: no carencia sino atención desplazada.",
+      "quote_evidence": "Aulë vs Melkor: por qué se comparan en el Silmarillion"
+    },
+    {
+      "surface_form": "los cuatro elementos (tierra/fuego/aire/agua)",
+      "canonical_guess": "cuatro-elementos-arquetipicos",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Tierra y fuego como elementos de máxima potencialidad creativa"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El intelecto (aire) y el espíritu (agua) no varían; la materia y la energía sí multiplican posibilidades"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cuerpo actual articula la asimetría material/inmaterial pero NO articula la subdistinción operativa que el directo aporta: tierra y fuego son régimen de multiplicación de posibilidades; aire y agua son régimen de invariancia transformadora. Es matiz nuevo que refuerza la lectura del esquema como retículo dinámico.",
+      "quote_evidence": "Tierra y fuego como elementos de máxima potencialidad creativa"
+    },
+    {
+      "surface_form": "Tolkien (vía Silmarillion / Aulë / Melkor)",
+      "canonical_guess": "tolkien-jrr",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "discard",
+      "decision_reason": "El material tolkieniano de este directo se ancla naturalmente en el-silmarillion (paridad Aulë-Melkor, mecanismo Maiar-de-Aulë → Sauron). Replicar la pieza en tolkien-jrr generaría redundancia con el contenido demonológico ya extenso de esa página.",
+      "quote_evidence": "Aulë vs Melkor: por qué se comparan en el Silmarillion"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "el-silmarillion",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La cosmogonía tolkieniana ordena así un eje vertical (cielo-tierra) y un eje polar horizontal (masculino-artesano / femenino-natural) cuyas tensiones generarán toda la historia posterior de la Tierra Media.",
+      "content_proposed": "\n## Paridad Aulë-Melkor: tierra y fuego como elementos de máxima potencialidad\n\nEl canal añade una clave que el Ainulindalë mismo aporta y que la lectura cosmogónica anterior dejaba implícita: Aulë y Melkor **se equiparaban en posibilidades creativas** desde el origen. Aulë encarna la materia y la artesanía (tierra); Melkor encarna el fuego, la energía, los afectos y los impulsos. Los otros dos Valar primordiales son elementos simples — Ulmo es agua-espíritu (no se transforma, transforma otras cosas) y Manwë es aire-intelecto.\n\n> \"ambos se equiparaban en posibilidades\"\n→ [¡Inside Proxy está emitiendo en directo! (32:36)](https://youtu.be/5vERIcm2EGk?t=1956)\n\n> \"Aulë es materia y artesanía (tierra); Melkor es fuego, energía, afectos e impulsos\"\n→ [¡Inside Proxy está emitiendo en directo! (32:36)](https://youtu.be/5vERIcm2EGk?t=1956)\n\nLa asimetría entre los cuatro no es estética sino estructural: tierra y fuego son los elementos de **máxima potencialidad creativa** — la materia ofrece variabilidad infinita (texturas, formas, pesos, colores) y el fuego es potencia pura que nunca se consumó porque se quedó en energía que consume. El intelecto (aire) y el espíritu (agua), por contra, no varían: son invariantes que transforman lo que tocan sin multiplicarse a sí mismos.\n\n> \"El intelecto (aire) y el espíritu (agua) no varían; la materia y la energía sí multiplican posibilidades\"\n→ [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)\n\nEsta paridad explica un movimiento del legendarium que la lectura corriente atribuye a corrupción genérica: muchos Maiar de Aulë acabaron sirviendo a Melkor — Sauron entre ellos — precisamente por la afinidad de potencialidades entre los dos órdenes elementales. La traición no es accidente psicológico aislado sino consecuencia estructural de que la materia-artesanía y el fuego-energía operan ambos en el régimen de la multiplicación de posibilidades.\n\n> \"Muchos Maiar de Aulë (como Sauron) acabaron sirviendo a Melkor precisamente por la afinidad de potencialidades\"\n→ [¡Inside Proxy está emitiendo en directo! (35:38)](https://youtu.be/5vERIcm2EGk?t=2138)\n\nEl canal corrige también una lectura errónea sobre la posición de Melkor durante la Música: no es que carezca de poder creativo, es que está ocupado en lo suyo. Su disonancia no nace de incapacidad sino de atención desplazada, lo que lo sitúa estructuralmente al mismo nivel que Aulë aunque se oriente al margen del coro de los Ainur.\n\n> \"Melkor no carece de poder creativo; simplemente está ocupado en lo suyo durante la Música\"\n→ [¡Inside Proxy está emitiendo en directo! (35:38)](https://youtu.be/5vERIcm2EGk?t=2138)\n",
+      "wikilinks_introduced": [
+        "cuatro-elementos-arquetipicos"
+      ],
+      "citations_added": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "timestamp_seconds": 1956,
+          "cite_markdown": "[¡Inside Proxy está emitiendo en directo! (32:36)](https://youtu.be/5vERIcm2EGk?t=1956)"
+        },
+        {
+          "video_id": "5vERIcm2EGk",
+          "timestamp_seconds": 2047,
+          "cite_markdown": "[¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)"
+        },
+        {
+          "video_id": "5vERIcm2EGk",
+          "timestamp_seconds": 2138,
+          "cite_markdown": "[¡Inside Proxy está emitiendo en directo! (35:38)](https://youtu.be/5vERIcm2EGk?t=2138)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído: (a) la página articula la polaridad Aulë/Yavanna y la mapea al eje cielo-tierra, pero NO articula la paridad Aulë-Melkor en posibilidades creativas; (b) la sección de Melkor existente lee su movimiento como herida narcisista buscando la llama imperecedera, pero NO documenta la asignación elemental fina (Melkor=fuego/energía/afectos/impulsos) ni la jerarquía operativa (tierra+fuego como régimen de multiplicación, aire+agua como invariantes); (c) el mecanismo Maiar-de-Aulë→Melkor por afinidad estructural NO está en la página y refuta una lectura corriente. El update extiende el armazón cosmogónico ya presente.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "cuatro-elementos-arquetipicos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La muerte funciona como umbral: la renuncia a lo material (fuego/tierra) abre el paso a la dimensión inmaterial (aire/agua), donde reside el espíritu. El esquema cuatripartito pasa así de mapa estático a vector de transformación.",
+      "content_proposed": "\n## Tierra y fuego como régimen de multiplicación de posibilidades\n\nLa asimetría material/inmaterial recibe en otro directo del canal una articulación adicional sobre el Silmarillion: tierra y fuego no son simplemente \"lo material\", sino los elementos de **máxima potencialidad creativa**. La tierra (materia) ofrece variabilidad infinita; el fuego es potencia pura que se quedó en energía que consume.\n\n> \"La tierra (materia) ofrece posibilidades infinitas: texturas, colores, formas, pesos, tamaños\"\n→ [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)\n\n> \"El fuego es potencia pura que nunca se consumó porque se quedó en energía que consume\"\n→ [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)\n\nEl aire (intelecto) y el agua (espíritu), en cambio, son invariantes: no se transforman a sí mismos, transforman lo que tocan. La cuaternidad ya no se ordena solo en material/inmaterial sino que distingue dos **regímenes operativos** — el de la multiplicación de posibilidades (tierra+fuego) y el de la invariancia transformadora (aire+agua):\n\n> \"El intelecto (aire) y el espíritu (agua) no varían; la materia y la energía sí multiplican posibilidades\"\n→ [¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)\n\nLa precisión es operativa para la lectura tolkieniana del canal sobre [[el-silmarillion]]: explica por qué Aulë (tierra) y Melkor (fuego) se equiparan en posibilidades creativas mientras Manwë (aire) y Ulmo (agua) operan a otro nivel, y por qué muchos Maiar de Aulë acabaron sirviendo a Melkor — la afinidad estructural entre los dos elementos del régimen de multiplicación lo arrastra.\n",
+      "wikilinks_introduced": [
+        "el-silmarillion"
+      ],
+      "citations_added": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "timestamp_seconds": 2047,
+          "cite_markdown": "[¡Inside Proxy está emitiendo en directo! (34:07)](https://youtu.be/5vERIcm2EGk?t=2047)"
+        }
+      ],
+      "rationale": "El cuerpo leído articula la dualidad material/inmaterial (fuego+tierra vs aire+agua) y la presenta como vector de transformación, pero NO subdivide los dos polos materiales según régimen operativo. La distinción entre 'multiplicación de posibilidades' (matter/energy) e 'invariancia transformadora' (intellect/spirit) es matiz nuevo, no presente en las dos secciones existentes ('Lo material y lo no-material', 'El espíritu como presencia sobrenatural'). Refuerza el esquema como retículo dinámico al añadir un eje cualitativo dentro de cada polo material.",
+      "editorial_intent": "refine"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Celebración / brindis con el chat / cumpleaños",
+      "reason_code": "meta_canal",
+      "reason_detail": "Apertura del directo: brindis ritual, juego de adivinanzas con el chat, anuncio del cumpleaños propio (15 de mayo). Sin contenido temático.",
+      "quote_evidence": "Proxy propone un brindis y reta al chat a adivinar el motivo",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Equipo de buceo técnico / impresión 3D / Unicornio",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal sobre equipamiento de buceo. No hay marco arquetípico ni psicológico aplicado — es proyecto profesional del speaker fuera del corpus enciclopédico del canal.",
+      "quote_evidence": "Necesita traje semiseco, traje seco, calcetines de neopreno (no escarpines)",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Escuela de buceo técnico + medicina hiperbárica (modelo de negocio)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Plan empresarial personal del speaker. Sin marco interpretativo del canal aplicado.",
+      "quote_evidence": "Cada vez tiene más claro el modelo de negocio: escuela de buceo técnico más cámara hiperbárica",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Curso de segundo grado de buceo / trabajo en Mallorca / primera soldadura subacuática",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anuncios sobre formación profesional, oferta laboral y logro técnico personal. Sin contenido enciclopédico del canal.",
+      "quote_evidence": "Confirmado curso de segundo grado de buceo en octubre",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Inmersión técnica planificada / tipos de máscara / casco de escafandra / soldadura a ciegas",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Bloque sostenido (~12 min) sobre tecnicalidades de buceo profesional: organización de la operación, equipamiento, problemas con el mascarón, características del casco y experiencia de soldadura subacuática. Sin marco aplicado del canal.",
+      "quote_evidence": "Dos buzos operativos en el agua (soldadura subacuática), dos buzos de emergencia en autónomo",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Inventario de equipo pendiente / cursos de montaje lateral y buceo en cuevas",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Lista de compras técnicas y planes formativos personales. Sin marco enciclopédico del canal.",
+      "quote_evidence": "Llaves inglesas de medidas específicas, una segunda primera etapa de buceo técnico",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Teoría descompresiva / cálculos con mezclas de gases / examen del BOE",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Contenido técnico de un curso profesional. No es exposición de un marco propio del canal sobre fisiología hiperbárica — es preparación de examen.",
+      "quote_evidence": "Han estudiado descompresión a diferentes profundidades con mezclas de gases",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Aulë (Vala)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje del Silmarillion. Su tratamiento se integra en el update de el-silmarillion (paridad Aulë-Melkor, asignación elemental tierra/artesanía).",
+      "quote_evidence": "Aulë es materia y artesanía (tierra); Melkor es fuego, energía, afectos e impulsos",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Melkor / Morgoth",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje del Silmarillion. Su tratamiento se integra en el update de el-silmarillion (paridad con Aulë, fuego/energía, no-carencia durante la Música, mecanismo de atracción de Maiar de Aulë).",
+      "quote_evidence": "Melkor no carece de poder creativo; simplemente está ocupado en lo suyo durante la Música",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Sauron (Maia de Aulë)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje del Silmarillion / LOTR. La nueva información estructural (Sauron sirvió a Melkor por afinidad de potencialidades elementales) queda capturada en el update de el-silmarillion. Su perfil demonológico ya está documentado en tolkien-jrr.",
+      "quote_evidence": "Muchos Maiar de Aulë (como Sauron) acabaron sirviendo a Melkor precisamente por la afinidad de potencialidades",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Depresión / crisis de los 40 / aislamiento voluntario",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Estado anímico personal del speaker. No se articula desde un marco psicológico del canal (no se nombra individuación, sombra, herida narcisista) sino como confesión privada al chat.",
+      "quote_evidence": "Confirma que sigue con depresión aunque se va suavizando",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Sueño recurrente del hombre con cuchillo / autoreconocimiento de proyección onírica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota personal pero con autoaplicación explícita de marco junguiano: el speaker reconoce que su inconsciente diseña al agresor del sueño y por tanto algo de él tiene que estar en esa figura. Es aplicación clínica del arquetipo de la sombra a material onírico propio. La pieza es breve y autobiográfica — no merece prosa nueva, pero la cita aporta cobertura de retrieval para shadow-archetype como herramienta de auto-análisis.",
+      "quote_evidence": "Reconoce que algo de él tiene que haber en ese personaje onírico porque lo ha diseñado su inconsciente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "shadow-archetype"
+    },
+    {
+      "surface_form": "Episodio de la publicidad de Marta en Twitter",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Referencia coyuntural a un incidente personal/familiar reciente sin marco psicológico ni cultural articulado. Se menciona solo como coincidencia temporal con el inicio de la depresión.",
+      "quote_evidence": "La depresión coincide temporalmente con el episodio de la publicidad de Marta en Twitter",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}
