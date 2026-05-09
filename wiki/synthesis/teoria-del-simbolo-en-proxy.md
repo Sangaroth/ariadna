@@ -499,6 +499,39 @@ La falacia opera por **confusión categorial entre dos componentes Q**: la suma 
 
 La precisión formal cierra el caso: para que 2+2=5 fuera válido en teoría de grupos, el conjunto vacío tendría que comportarse como operación unaria — lo que viola el axioma de cierre. La falacia imaginaria no se refuta produciendo una mejor imagen; se refuta separando los planos operatorios. Variantes del mismo meme (cuadrados de Exit, grafos de Isu) operan con el mismo fundamento confuso: una operación de Q sub-f disfrazada de operación de Q sub-i.
 
+
+
+## Disociación como descomposición de la matriz N (mecánica inversa de la ambiguación)
+
+En el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la mecánica inversa al aparato de ambiguación que la página despliega: la **disociación como descomposición** de las representaciones mentales. Si la matriz noética opera por composición continua (ambiguación, UAL, resíntesis), la disociación es su límite operativo cuando el trabajo analítico introspectivo opera sobre la propia matriz.
+
+> "La disociación es una descomposición de las representaciones mentales,"
+→ [El Hate Bombing de la izquierda (42:22)](https://youtu.be/DTP3syEtxP4?t=2542)
+
+La precisión categorial es estructural: la disociación no es deficit ni ausencia, es operación inversa con la misma materia. Donde la composición noética genera estados mentales coherentes a partir de componentes Q (afectiva + imaginaria + formal), la descomposición disociativa los separa exhibiendo los componentes individualmente sin la integración que los hacía operativos como representación unificada.
+
+### El orden temporal como prelación entre representaciones
+
+La pieza añade una articulación específica sobre cómo el orden temporal opera dentro de la matriz N:
+
+> "El orden en que suceden los eventos forma parte de su representación episódica,"
+→ [El Hate Bombing de la izquierda (40:51)](https://youtu.be/DTP3syEtxP4?t=2451)
+
+> "El orden temporal entre representaciones es una relación de prelación que se desestabiliza al analizar demasiado la estructura del pensamiento,"
+→ [El Hate Bombing de la izquierda (40:51)](https://youtu.be/DTP3syEtxP4?t=2451)
+
+La precisión refina la articulación previa del tiempo en el marco (sección 'Cuantitativo, tiempo y lenguaje' que situaba el tiempo fenomenológico como Q sub-i + Q sub-a + procedimental). La pieza nueva nombra el operador específico: **prelación** — relación de antes/después que opera como pegamento estructural de la representación episódica. La memoria episódica no es solo conjunto de elementos sino conjunto **ordenado**, y ese orden es propiedad relacional intrínseca, no metadato externo.
+
+La consecuencia operativa es importante: el trabajo introspectivo intenso de descomposición analítica del pensamiento (caso paradigmático: redactar monográficamente las propias categorías cognitivas) puede desestabilizar las relaciones de prelación entre representaciones episódicas como **efecto secundario operativo**, no como patología clínica. El sujeto experimenta entonces lagunas de memoria episódica (conversaciones enteras olvidadas), confusión temporal (eventos cuyo orden se ha disuelto), fragmentación de secuencias narrativas. La pieza añade una nota clínica importante:
+
+> "La fragmentación de la memoria no implica gravedad clínica sino exceso de análisis introspectivo,"
+→ [El Hate Bombing de la izquierda (42:22)](https://youtu.be/DTP3syEtxP4?t=2542)
+
+La precisión opera como criterio diagnóstico: la disociación operativa por exceso analítico es reversible (deja de operar cuando cesa el trabajo de descomposición) y selectiva (afecta primariamente la memoria episódica, no las componentes Q individuales). Se distingue de cuadros disociativos clínicos genuinos (TID, despersonalización persistente, amnesia disociativa) que la página de [[tid-personaje-en-proxy]] articula con criterios distintos.
+
+La pieza completa el aparato: la matriz noética admite operaciones de composición (ambiguación productiva) y de descomposición (disociación operativa), y ambas operan sobre la misma materia con el mismo aparato de componentes Q. La diferencia es direccional, no ontológica.
+
+
 La pieza es operativa para la teoría del símbolo del canal: muestra que la distinción de componentes Q no es solo descriptiva sino **discriminadora de validez** — permite identificar qué demostraciones aparentes son sofismas categoriales. El símbolo opera bien cuando ambas componentes coinciden en lo evocado; produce error cuando una se suplanta a la otra sin marca explícita.
 
 

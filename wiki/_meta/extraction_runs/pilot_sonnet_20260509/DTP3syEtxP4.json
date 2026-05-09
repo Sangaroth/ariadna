@@ -1,0 +1,707 @@
+{
+  "video_id": "DTP3syEtxP4",
+  "video_title": "El Hate Bombing de la izquierda.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Anatomía del rencor: definición operativa, función informativa, perdonar≠permitir, crítica feminista postmoderna del rencor",
+      "canonical_guess": "perdon-y-rencor-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 15,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El rencor es odio narcisista sostenido en el tiempo contra quien causó un daño que se percibe como inmerecido,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La información del rencor no es \"odia a esa persona\" sino \"tienes algo sin resolver, repara el daño\","
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Perdonar es encontrar la forma de que aquello deje de doler; puede transformarse en pena en lugar de rencor,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página tiene cuatro lagunas explícitas que este vídeo resuelve parcialmente: (a) 'distinción precisa rencor/envidia/ira/odio se anuncia pero requiere material literal' — el vídeo articula 'rencor = odio narcisista sostenido contra daño percibido como inmerecido', distinguiéndolo del odio puntual; (b) 'rutas concretas para resolver el rencor' (frase truncada en la página) — el vídeo articula 'recuperar la posición mental perdida dándote a ti mismo la composición mental donde aquello deje de doler'; (c) implícito en otras lagunas: la función informativa del rencor ('tienes algo sin resolver, repara el daño') y la mecánica de transformación del rencor en pena. Aporta también material nuevo no en la página: crítica directa a Venus on Crack y psicología feminista del rencor-como-protección, distinción 'perdonar no es permitir', tesis del empoderamiento postmoderno como inversión categorial (la emoción debe dictar lo de dentro, no lo de fuera), tesis de la moral prerreligiosa (la moral sabía que el rencor destruye antes que la religión).",
+      "quote_evidence": "El rencor es odio narcisista sostenido en el tiempo contra quien causó un daño que se percibe como inmerecido,"
+    },
+    {
+      "surface_form": "Vínculo vs relación objetal (definición canal-específica)",
+      "canonical_guess": "vinculo",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 7,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Un vínculo es una representación con carácter de reciprocidad donde lo que el otro es para mí modifica lo que yo soy para él,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las relaciones objetales son unidireccionales: en la agresión el objeto debe ser destruido, en el sexo debe ser consumido,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cuanto más individuado es un ser, más susceptible es de formar parte de un vínculo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Concepto canal-específico con definición operativa precisa: 'vínculo = representación con carácter de reciprocidad donde lo que el otro es para mí modifica lo que yo soy para él'. Distinción explícita frente a relación objetal (unidireccional, donde el objeto debe ser destruido en agresión o consumido en sexo). Tesis derivada importante: 'cuanto más individuado un ser, más susceptible de formar parte de un vínculo' — conecta vínculo con [[individuation]] como prerrequisito psíquico. ~7 min sostenidos con definición operativa, distinción categorial, y aplicación a sexo/agresión/sueños género. No hay página existente que articule esta categoría que es nuclear para amor-cortes, hieros-gamos y anima-archetype.",
+      "quote_evidence": "Un vínculo es una representación con carácter de reciprocidad donde lo que el otro es para mí modifica lo que yo soy para él,"
+    },
+    {
+      "surface_form": "La confesión del propio mal como máximo acto de intimidad (entrega de cuerpo vs entrega de alma)",
+      "canonical_guess": "intimidad-y-confesion-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 13,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El mayor acto de intimidad es poder confesar lo peor de uno mismo a otra persona sin vergüenza,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La entrega del cuerpo es el sacrificio (mayor acto de entrega es morir),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El Sacramento de la confesión es teológicamente un acto de intimidad con Dios mediado por el sacerdocio,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Bloque ~13 min sostenidos articulando una tesis canal-específica sobre la jerarquía de la intimidad con cinco piezas estructuradas: (1) sexo NO es el mayor acto de intimidad (sexo+intimidad es construcción cultural-moral, no biológica), (2) confesión del mal propio = máximo acto de intimidad, (3) intimidad = acceso al lugar más reservado del otro, (4) entrega de cuerpo (sacrificio, morir) vs entrega de alma (confesión total), (5) Sacramento de la confesión como caso teológico paradigmático, más casos límite (psicópatas no pueden intimar; esquizoides sustituyen intimidad por profundidad intelectual; alexitimia no equivale a psicopatía). Tesis con marcadores claros (declared_thesis, internal_structure, applied_framework + caso teológico). Promueve como synthesis (no auto-promoted: minutes_sustained < 30) — review_status: stub_in_session, pendiente revisión humana.",
+      "quote_evidence": "El mayor acto de intimidad es poder confesar lo peor de uno mismo a otra persona sin vergüenza,"
+    },
+    {
+      "surface_form": "Tests de personalidad como oráculos de pacotilla",
+      "canonical_guess": "magia-postmoderna-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los tests tipo \"qué fruta eres\" o \"qué personaje se parece a ti\" son funcionalmente oráculos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Aplicación operativa del concepto oráculo a un caso cotidiano que la página actual no cubre: tests de personalidad pop ('qué fruta eres', 'qué personaje se parece a ti') como funcionalmente oráculos. La frase 'hay dos clases de personas' también opera como oráculo simplificador. Pieza pequeña pero relevante porque amplía el alcance del concepto oráculo del canal a fenómenos de cultura digital cotidianos. Mención explícita al 'grimorio del canal' donde el concepto está desarrollado.",
+      "quote_evidence": "Los tests tipo \"qué fruta eres\" o \"qué personaje se parece a ti\" son funcionalmente oráculos,"
+    },
+    {
+      "surface_form": "Disociación como descomposición de representaciones mentales",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "minutes_estimate": 5,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La disociación es una descomposición de las representaciones mentales,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El orden temporal entre representaciones es una relación de prelación que se desestabiliza al analizar demasiado la estructura del pensamiento,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula extensamente la matriz noética (componentes Q imaginaria/formal/afectiva), tres tipos de memoria (procedimental/episódica/semántica), y operaciones de ambiguación. Le falta articular la mecánica inversa: la disociación como descomposición de la matriz. Este vídeo aporta: (a) definición operativa 'disociación = descomposición de las representaciones mentales', (b) caso del orden temporal como relación de prelación que se desestabiliza con análisis introspectivo excesivo, (c) consecuencia clínica no patológica (lagunas de memoria episódica por exceso de descomposición analítica). Pieza coherente con el aparato existente — la disociación opera como límite operativo del trabajo de ambiguación cuando se aplica a la propia matriz.",
+      "quote_evidence": "La disociación es una descomposición de las representaciones mentales,"
+    },
+    {
+      "surface_form": "Crítica a Studio Ghibli: déficit de mito (Nausicaä vs Ponyo vs Porco Rosso)",
+      "canonical_guess": null,
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "minutes_estimate": 6,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Toda historia coherente contiene un viaje del héroe, un mito polar o un mito lunar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Ponyo carece de misterium fascinans: presenta lo extraordinario sin que sea metáfora de nada,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Bloque ~6 min con análisis arquetípico de Ghibli y películas concretas (Nausicaä rescata por influencias mitológicas reales tipo Moebius, Ponyo carece de misterium fascinans, Porco Rosso funciona sin gran argumento por no presentar elementos extraordinarios). Material valioso pero fragmentario por película y único en este vídeo. Para promover entity_work de Studio Ghibli o películas individuales se requiere tratamiento más sustantivo (≥10 min monográfico o ≥3 vídeos). Mantener como discarded con flag para futuras menciones; capturar el criterio operativo 'toda historia coherente contiene viaje del héroe / mito polar / mito lunar' como pieza para enriquecer collective-unconscious cuando se procese con lectura completa.",
+      "quote_evidence": "Las películas de Ghibli tienden a ser demasiado zen con metraje sobrante,",
+      "review_priority": "medium",
+      "review_priority_reason": "El criterio 'toda historia coherente contiene uno de los tres mitos primarios narrativos' es articulación operativa nueva — pendiente enrichment a collective-unconscious y a las páginas mito-solar/polar/lunar",
+      "enriches_concept": "collective-unconscious"
+    },
+    {
+      "surface_form": "Decepción vs depresión: distinción clínica",
+      "canonical_guess": "decepcion-vs-depresion",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 5,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Decepción es pasar de una emoción alta a una más baja y seguir adelante,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Depresión es una carencia permanente de esperanza donde nada motiva; no confundir con decepción,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Distinción clínica precisa entre dos estados afectivos con criterio operativo claro y datos empíricos invocados (gráficas de búsquedas sobre hacer amigos para soledad como predictor de depresión). ~5 min sostenidos. Bordeline para promote_new (no llega a ≥10 min monográfico ni a ≥3 vídeos en el corpus actual). Material relevante para futura página o para enriquecer teoria-de-las-emociones-en-proxy cuando se procese con lectura completa. Hold como passing/enrichment.",
+      "quote_evidence": "La soledad no elegida genera depresión, no decepción; las gráficas de búsquedas sobre hacer amigos lo confirman,",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción clínica candidata a promoción si se reincide en otros vídeos; o a enrichment de teoria-de-las-emociones-en-proxy",
+      "enriches_concept": "teoria-de-las-emociones-en-proxy"
+    },
+    {
+      "surface_form": "Paradigma del elefante (tecnología en aulas)",
+      "canonical_guess": "paradigma-del-elefante",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El paradigma del elefante: meter tecnología (tablets) en las aulas es como meter un elefante; genera entusiasmo pero no mejora el aprendizaje,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El aprendizaje real no depende del entusiasmo; si dependiera, el trauma no existiría porque se olvidaría,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Concepto canal-específico con metáfora-guía clara ('paradigma del elefante': tecnología en aulas = elefante en aula, novedad llamativa que genera entusiasmo pero no aprendizaje). Tesis derivada importante: el aprendizaje no depende del entusiasmo (argumento del trauma como contraejemplo: si dependiera del entusiasmo, lo traumático se olvidaría). Conecta directamente con la tesis de deuda cognitiva educativa articulada en golem-de-cobre (sección sobre OLPC, gasto educativo norteamericano en sustituir libros por tablets). ~4 min de tratamiento. Hold como passing porque el material es mejor capturado como enrichment a golem-de-cobre — no ha sido leído en sesión, no propongo update.",
+      "quote_evidence": "El paradigma del elefante: meter tecnología (tablets) en las aulas es como meter un elefante; genera entusiasmo pero no mejora el aprendizaje,",
+      "review_priority": "medium",
+      "review_priority_reason": "Metáfora-guía canal-específica que enriquece la sección sobre deuda cognitiva educativa en golem-de-cobre; pendiente enrichment humano",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Raza vs etnia + crítica al estudio Harvard sobre diferencias cerebrales",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "minutes_estimate": 6,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Etnia es una cuestión cultural y raza es una cuestión biológica; no son intercambiables,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Proxy denuncia que están llamando a diferencias biológicas con terminología sociológica, afirmando que \"la biología es racista\","
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Análisis crítico al constructivismo postmoderno aplicado al caso del estudio Harvard (diferencias cerebrales entre razas reinterpretadas como evidencia de racismo estructural). Marco analítico claro (constructivismo como sustitución ideológica de términos), conecta con woke-narrativa-postmoderna-moral. IN-scope per scope.md §3.1 criterio 3 (crítica a tradición intelectual constructivista). NO propongo update directo a woke porque la página no está leída en esta sesión. Hold como discarded con enrichment hint.",
+      "quote_evidence": "Usar \"etnia\" cuando se habla de biología es una sustitución ideológica del término,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material relevante para enriquecer woke-narrativa-postmoderna-moral con caso del constructivismo aplicado al sustrato biológico — pendiente revisión con lectura completa de woke",
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Pugna geopolítica naciones vs supranacionalismo",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": "humanities.philosophy.political",
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La confrontación real es entre conservar las naciones y destruirlas en favor de alianzas supranacionales,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Se impone la lógica de que uno no \"es\" sino que \"se identifica con\", lo cual es constructivismo puro canalizable hacia enemigos designados,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Análisis político-filosófico estructural con marco aplicado (constructivismo como herramienta canalizable hacia enemigos designados). IN-scope per scope.md §3.1 (mecanismo psicológico-sociológico aplicado). Adjunto al bloque sobre raza vs etnia. Material relevante para enriquecer woke-narrativa-postmoderna-moral o diagrama-de-proxy. Hold como discarded con enrichment hint — sin lectura completa de páginas relacionadas.",
+      "quote_evidence": "No conviene reconocer razas porque las razas implican naciones y las naciones implican estados soberanos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza estructural sobre constructivismo geopolítico que conecta woke con análisis político-filosófico; pendiente enrichment",
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Identificación de Jack el Destripador por ADN",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Noticia histórico-criminológica (identificación por ADN tras 136 años de Aaron Kosminski como Jack el Destripador, contexto familiar judío ruso, hermano en logia masónica). Comentario de actualidad sin marco analítico aplicado al canal — no es análisis arquetípico ni psicológico estructural. Discard como noticia.",
+      "quote_evidence": "Aaron Kosminski, uno de los sospechosos originales, es identificado como Jack el Destripador mediante ADN tras 136 años,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Crítica a la huelga de alquileres y vulnerabilidad del pequeño casero",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 8,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "No pagar el alquiler es usurpación (ilícito penal) y promoverlo es inducción al delito con posible concurso de delitos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Comentario sobre actualidad económico-jurídica española (sindicato de inquilinas, huelga de alquileres, marco penal de la usurpación, riesgos del pequeño casero, anécdota personal del speaker como casero). Match parcial con topic_filters.json patrón de fiscalidad/economía coyuntural concreta. Análisis tiene marco jurídico (concurso de delitos, usurpación) pero el grueso es comentario coyuntural y anécdota personal del speaker. Discard como político-económico coyuntural per scope.md §3.3.",
+      "quote_evidence": "El sindicato de inquilinas promueve dejar de pagar el alquiler si siguen subiendo los precios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Lagunas de memoria de Proxy por exceso de análisis introspectivo",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 2,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Anécdota personal del speaker sobre experimentar lagunas de memoria episódica y confusión temporal mientras trabaja intensivamente en la descomposición analítica del pensamiento para el nuevo libro. Personal anecdote per §3.3. La pieza teórica derivada (disociación = descomposición de representaciones mentales) sí se captura en el update a teoria-del-simbolo-en-proxy. La anécdota personal en sí queda discarded.",
+      "quote_evidence": "Proxy relata episodios de lagunas de memoria: conversaciones enteras olvidadas y confusión temporal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Anuncio de análisis arquetípico de Mi Vecino Totoro con Marta Veronese",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 1,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Meta-canal: anuncio de directo programado. Sin contenido temático sustantivo.",
+      "quote_evidence": "Anuncio de análisis arquetípico de Mi Vecino Totoro con Marta Veronese el miércoles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "promote_new_pages": [
+    {
+      "page_id": "vinculo",
+      "frontmatter": {
+        "page_id": "vinculo",
+        "page_type": "concept",
+        "canonical_name": "Vínculo (definición canal-específica)",
+        "aliases": [
+          "vinculo",
+          "vinculo afectivo",
+          "relacion bivectiva",
+          "vinculo vs relacion objetal",
+          "relacion objetal"
+        ],
+        "domain_primary": "social.psychology",
+        "primary_domains": [
+          "social.psychology",
+          "humanities.philosophy"
+        ],
+        "relations": [
+          {
+            "type": "compared_with",
+            "to": "individuation",
+            "weight": "canonical",
+            "note": "tesis derivada explícita: cuanto más individuado un ser, más susceptible de formar parte de un vínculo — la individuación opera como prerrequisito psíquico del vínculo genuino"
+          },
+          {
+            "type": "extends",
+            "to": "amor-cortes-y-monogamia-civilizatoria",
+            "weight": "strong",
+            "note": "el amor cortés como caso paradigmático del vínculo civilizatorio; sin la categoría vínculo el aparato del amor cortés queda en el plano objetal"
+          },
+          {
+            "type": "compared_with",
+            "to": "hieros-gamos",
+            "weight": "strong",
+            "note": "el hieros gamos como vínculo cosmogónico arquetípico — bivectividad llevada al plano mítico"
+          },
+          {
+            "type": "compared_with",
+            "to": "anima-archetype",
+            "note": "la articulación ánima/ánimus opera sobre representaciones bivectivas; sin reciprocidad la proyección anímica colapsa al objeto"
+          },
+          {
+            "type": "see_also",
+            "to": "intimidad-y-confesion-en-proxy",
+            "note": "la intimidad genuina opera dentro de un vínculo bivectivo; el sexo como relación objetal puede ocurrir sin intimidad"
+          }
+        ],
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body": "# Vínculo (definición canal-específica)\n\n## Definición operativa\n\nEl canal articula 'vínculo' como categoría psicológica precisa con definición operativa por bivectividad — propiedad que distingue el vínculo de toda relación objetal (donde el objeto es destino de afecto pero no fuente):\n\n> \"Un vínculo es una representación con carácter de reciprocidad donde lo que el otro es para mí modifica lo que yo soy para él,\"\n→ [El Hate Bombing de la izquierda (1:02:47)](https://youtu.be/DTP3syEtxP4?t=3767)\n\nLa precisión es estructural: un vínculo no es relación afectiva intensa sin más. Lo que lo define es la **bivectividad** — la representación que cada uno tiene del otro modifica activamente lo que cada uno es para el otro. Sin ese movimiento bidireccional no hay vínculo, hay solo afecto unilateralmente proyectado sobre un objeto.\n\n## Distinción frente a la relación objetal\n\nLa contraparte categorial articulada por el canal es la **relación objetal**: estructura unidireccional donde el sujeto opera sobre un objeto que no opera de vuelta sobre el sujeto. El sexo y la agresión son los casos paradigmáticos:\n\n> \"Las relaciones objetales son unidireccionales: en la agresión el objeto debe ser destruido, en el sexo debe ser consumido,\"\n→ [El Hate Bombing de la izquierda (59:44)](https://youtu.be/DTP3syEtxP4?t=3584)\n\n> \"El sexo y la agresión despiertan deseo e ira pero operan independientemente de los vínculos afectivos,\"\n→ [El Hate Bombing de la izquierda (1:02:47)](https://youtu.be/DTP3syEtxP4?t=3767)\n\nLa pieza importa porque corta una confusión común: el hecho de que el sexo y la agresión sean afectivamente intensos no los convierte en vínculos. La intensidad afectiva es una variable; la bivectividad es otra distinta. La gestión moral-cultural del sexo y la violencia opera precisamente para impedir que sus modos objetales (consumo, destrucción) escapen a la bivectividad de los vínculos en los que se inscriben.\n\nLa terminología precisa que el canal propone, frente al uso popular de 'interacciones sociales' como categoría amplia, es nombrar 'vínculo' a lo bivectivo y reservar 'relación objetal' para lo unidireccional:\n\n> \"\\\"Interacciones sociales\\\" se traduce mejor como \\\"vínculos\\\" porque el sexo y la agresión no son vínculos sino relaciones objetales,\"\n→ [El Hate Bombing de la izquierda (59:44)](https://youtu.be/DTP3syEtxP4?t=3584)\n\n## Caso operativo: las diferencias de género en los sueños\n\nLa distinción se aplica a un dato empírico que el canal reinterpreta:\n\n> \"Los hombres sueñan más con objetos y mecanismos, las mujeres con interacciones sociales (excluyendo sexo y agresión),\"\n→ [El Hate Bombing de la izquierda (59:44)](https://youtu.be/DTP3syEtxP4?t=3584)\n\nLa lectura habitual articula esto como diferencia entre 'pensar en cosas' y 'pensar en personas'. La precisión del canal es más fina: las mujeres sueñan con vínculos (relaciones bivectivas), no con personas-como-objetos. La exclusión del sexo y la agresión en el dato empírico es la marca de que las 'interacciones sociales' relevantes son bivectivas, no objetales — refuerza la categoría operativa propuesta.\n\n## Tesis derivada: la individuación como prerrequisito del vínculo\n\nUna pieza teóricamente decisiva conecta vínculo con [[individuation]]:\n\n> \"Cuanto más individuado es un ser, más susceptible es de formar parte de un vínculo,\"\n→ [El Hate Bombing de la izquierda (1:02:47)](https://youtu.be/DTP3syEtxP4?t=3767)\n\nLa pieza es estructural: la bivectividad requiere dos sujetos suficientemente diferenciados como para que la representación que uno tiene del otro pueda modificar lo que ese otro es. Un sujeto poco individuado no puede ofrecer al otro una representación lo suficientemente articulada como para entrar en bivectividad — solo puede entrar en relaciones objetales (consumo, destrucción, dependencia). La consecuencia clínica es directa: la incapacidad para el vínculo no es déficit afectivo sino déficit de individuación — falta de yo lo bastante separado del entorno como para entrar en reciprocidad genuina.\n\nLa pieza completa el aparato cuando se cruza con [[intimidad-y-confesion-en-proxy]]: la intimidad genuina (acceso al lugar más reservado del otro) requiere vínculo previo, y el vínculo requiere individuación. Sin individuación no hay vínculo, sin vínculo no hay intimidad — solo relación objetal con afecto inflado.\n\n## Conexión con otros conceptos\n\n- La [[individuation]] como prerrequisito psíquico del vínculo bivectivo.\n- El [[amor-cortes-y-monogamia-civilizatoria]] como caso civilizatorio paradigmático de vínculo institucionalizado, frente al cual el sexo libre opera como relación objetal sin civilizar.\n- El [[hieros-gamos]] como vínculo cosmogónico arquetípico — la bivectividad llevada al plano mítico de los polos cósmicos.\n- La articulación [[anima-archetype|ánima/ánimus]] requiere bivectividad para no colapsar al objeto: cuando la proyección anímica opera sobre un objeto unilateralmente, la relación es objetal por mucha intensidad afectiva que tenga.\n- La [[intimidad-y-confesion-en-proxy|intimidad]] como acto que opera dentro del vínculo bivectivo y nunca dentro de la relación objetal.\n\n## Lagunas\n\n- **Tipología interna del vínculo**: el canal articula la categoría general pero no enumera tipos de vínculo (vínculo de pareja, vínculo filial, vínculo de amistad, vínculo terapéutico) — pendiente material que articule subcategorías con sus mecánicas específicas.\n- **Asimetría parcial**: la definición exige bivectividad pero no clarifica qué grado de asimetría es compatible con vínculo (¿el vínculo padre-hijo es bivectivo a pesar de la asimetría estructural de poder y dependencia?). Pendiente articular umbrales operativos.\n- **Patología del vínculo**: pendiente articular qué constituye un vínculo enfermo (codependencia, fusión simbiótica, vínculo traumático) frente a la mera relación objetal disfrazada de vínculo.\n- **Vínculo y trauma**: la conexión con [[trauma-en-proxy]] queda implícita — pendiente articular cómo el trauma altera la capacidad bivectiva (¿el priming traumático produce relaciones objetales con apariencia de vínculo?).\n- **Vínculos institucionales y vínculos cosmogónicos**: el canal sitúa el amor cortés como vínculo civilizatorio y el hieros gamos como vínculo cosmogónico, pero falta articular cómo se relacionan los vínculos individuales con estas estructuras macroscópicas.\n\n## Citations\n\n- **El Hate Bombing de la izquierda** — chunks: [59:44](https://youtu.be/DTP3syEtxP4?t=3584) · [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767)\n",
+      "rationale_for_promotion": "Concepto canal-específico con definición operativa precisa por bivectividad, distinción categorial frente a relación objetal con casos paradigmáticos (sexo, agresión), aplicación a dato empírico (sueños de género), y tesis derivada sobre individuación como prerrequisito. ~7 min sostenidos. Es categoría hub: amor-cortes, hieros-gamos, anima-archetype y la nueva intimidad-y-confesion-en-proxy todas la presuponen sin que esté articulada en wiki. Promoción cierra wikilinks rotos potenciales y opera como nodo conector del clúster de páginas sobre relaciones afectivas."
+    },
+    {
+      "page_id": "intimidad-y-confesion-en-proxy",
+      "frontmatter": {
+        "page_id": "intimidad-y-confesion-en-proxy",
+        "page_type": "synthesis",
+        "synthesis_subtype": "author_thesis",
+        "canonical_name": "La confesión del propio mal como máximo acto de intimidad (lectura del canal)",
+        "aliases": [
+          "intimidad y confesion en proxy",
+          "mayor acto de intimidad",
+          "confesion del propio mal",
+          "entrega del cuerpo y del alma",
+          "sexo no es intimidad"
+        ],
+        "domain_primary": "social.psychology",
+        "primary_domains": [
+          "social.psychology",
+          "humanities.religion",
+          "humanities.philosophy"
+        ],
+        "relations": [
+          {
+            "type": "extends",
+            "to": "vinculo",
+            "weight": "canonical",
+            "note": "la intimidad opera dentro del vínculo bivectivo; sin vínculo previo solo hay relación objetal con apariencia de cercanía"
+          },
+          {
+            "type": "compared_with",
+            "to": "shadow-archetype",
+            "weight": "strong",
+            "note": "la confesión del propio mal es el acto operativo de aceptar la sombra ante un otro; conecta integración intrapsíquica con vínculo intersubjetivo"
+          },
+          {
+            "type": "compared_with",
+            "to": "amor-cortes-y-monogamia-civilizatoria",
+            "note": "la civilización moral del sexo (de relación objetal a acto intimo) opera por la misma lógica que articula el amor cortés como vínculo civilizado"
+          },
+          {
+            "type": "references",
+            "to": "liturgia-como-rito",
+            "note": "el Sacramento católico de la confesión como caso paradigmático teológico de intimidad estructurada por liturgia"
+          },
+          {
+            "type": "see_also",
+            "to": "camino-victima",
+            "note": "la confesión traicionada produce daño irreparable, pero la responsabilidad recae sobre quien confió en quien no debía — corte explícito al posicionamiento víctima ante la traición"
+          },
+          {
+            "type": "compared_with",
+            "to": "hieros-gamos",
+            "note": "la entrega del cuerpo (sacrificio) y del alma (confesión total) opera como articulación intersubjetiva del cierre arquetípico que el hieros gamos articula a escala cosmogónica"
+          }
+        ],
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body": "# La confesión del propio mal como máximo acto de intimidad (lectura del canal)\n\n## Tesis nuclear\n\nEl canal articula una tesis canal-específica sobre la jerarquía de la intimidad que rompe la equivalencia popular sexo = intimidad máxima. La intimidad no se mide por la cercanía corporal ni por la entrega afectiva genérica, sino por el acceso del otro al lugar más reservado de uno — y ese lugar contiene preferentemente el mal propio:\n\n> \"El mayor acto de intimidad es poder confesar lo peor de uno mismo a otra persona sin vergüenza,\"\n→ [El Hate Bombing de la izquierda (1:09:56)](https://youtu.be/DTP3syEtxP4?t=4196)\n\n> \"La intimidad es el acto por el que una persona accede al lugar más reservado del otro,\"\n→ [El Hate Bombing de la izquierda (1:09:56)](https://youtu.be/DTP3syEtxP4?t=4196)\n\nLa precisión categorial es estructural: la intimidad opera como acceso, no como cercanía. El otro entra al lugar más reservado del sujeto y permanece sin destruir lo que ve. La condición es la posibilidad de mostrar lo peor sin vergüenza — porque solo lo que se oculta por vergüenza es genuinamente reservado, lo que ya se muestra públicamente no es lugar reservado.\n\n## El sexo no es el mayor acto de intimidad\n\nLa tesis se construye explícitamente contra la equivalencia cultural sexo = intimidad máxima:\n\n> \"El sexo en sí no es un acto de intimidad afectiva sino de deseo y consumo; la intimidad se le imprime culturalmente,\"\n→ [El Hate Bombing de la izquierda (1:06:19)](https://youtu.be/DTP3syEtxP4?t=3979)\n\n> \"Los animales tienen sexo sin intimidad; la civilización y la moral convierten el sexo en acto personal,\"\n→ [El Hate Bombing de la izquierda (1:06:19)](https://youtu.be/DTP3syEtxP4?t=3979)\n\n> \"El sexo puede tanto fortalecer como destruir un vínculo, especialmente en hombres,\"\n→ [El Hate Bombing de la izquierda (1:06:19)](https://youtu.be/DTP3syEtxP4?t=3979)\n\nEl argumento es categorial: el sexo es estructuralmente [[vinculo|relación objetal]] (consumo, deseo dirigido sobre el otro como objeto), no vínculo bivectivo. La intimidad que el sexo civilizado puede contener es **impresa culturalmente** sobre la mecánica objetal subyacente — la moral y la civilización transforman el acto biológico de consumo en acto personal con valencia bivectiva. Sin esa imprenta cultural-moral previa, el sexo opera como cualquier acto objetal de consumo y no produce intimidad alguna. La asimetría apuntada (especialmente en hombres) reconoce que la imprenta cultural opera con mayor fragilidad en quienes biológicamente están más cerca del modo consumo puro.\n\n## Entrega del cuerpo y entrega del alma\n\nLa pieza articula dos modos distintos de la entrega máxima al otro, asociados al cuerpo y al alma:\n\n> \"La entrega del cuerpo es el sacrificio (mayor acto de entrega es morir),\"\n→ [El Hate Bombing de la izquierda (1:11:28)](https://youtu.be/DTP3syEtxP4?t=4288)\n\n> \"La entrega del alma es la confesión total: \\\"todo lo que soy, te lo cuento, haz con ello lo que quieras\\\",\"\n→ [El Hate Bombing de la izquierda (1:11:28)](https://youtu.be/DTP3syEtxP4?t=4288)\n\nLa tipología cierra el aparato: las dos formas máximas de entrega son cualitativamente distintas. La entrega del cuerpo culmina en el sacrificio (morir por el otro como límite extremo); la entrega del alma culmina en la confesión total (mostrar todo lo que uno es y entregarse a la disposición del otro sobre ese material). Las dos entregas no se sustituyen — el sacrificio físico no equivale a la confesión total ni la confesión exime del sacrificio en su contexto. Pero la tesis del canal jerarquiza implícitamente: el sacrificio físico opera sobre el cuerpo (objeto), mientras la confesión opera sobre el alma (sujeto), y solo la segunda constituye intimidad en sentido estricto.\n\n## El Sacramento de la confesión como caso teológico\n\nEl canal cierra la tesis con su caso paradigmático teológico:\n\n> \"El Sacramento de la confesión es teológicamente un acto de intimidad con Dios mediado por el sacerdocio,\"\n→ [El Hate Bombing de la izquierda (1:11:28)](https://youtu.be/DTP3syEtxP4?t=4288)\n\nLa pieza articula la confesión católica no como mecanismo institucional de control sino como **estructura litúrgica de la intimidad máxima**. El penitente entrega al otro (Dios mediado por el sacerdote) todo lo que ha hecho mal con disposición de aceptar lo que el otro disponga sobre ese material. La estructura sacramental opera como vehículo institucional de la operación máxima — el rito provee la garantía de no traición (secreto de confesión) y el marco simbólico que permite el acto sin colapso narcisista.\n\nLa pieza conecta con [[liturgia-como-rito]] como caso operativo: la liturgia no es vehículo de enseñanza ni instrumento de captación sino procedimiento mismo del rito — y aquí el rito es la articulación intersubjetiva de la intimidad máxima estructurada institucionalmente.\n\n## Riesgo y responsabilidad: la traición de la confesión\n\nLa última pieza del aparato articula la cara oscura de la confesión y traza una distribución de responsabilidad explícita:\n\n> \"Si esa confesión es traicionada, el daño es irreparable, pero la responsabilidad es de quien confió en quien no debía,\"\n→ [El Hate Bombing de la izquierda (1:09:56)](https://youtu.be/DTP3syEtxP4?t=4196)\n\nLa precisión opera como corte explícito al posicionamiento de víctima ante la traición: el daño es real e irreparable (la información del lugar reservado del confesante queda en posesión de quien la traiciona, y la operación no admite vuelta atrás), pero la responsabilidad del daño recae sobre quien confió en quien no debía. La tesis no exonera al traicionador (que sigue siendo agente del daño) sino que rechaza la inversión de la responsabilidad sobre el confesante: confesar el lugar más reservado a alguien sin verificar previamente su capacidad de sostener la confesión es elección del confesante. La pieza conecta con [[camino-victima]] como corte explícito al uso de la confesión traicionada para sostener identidad de víctima.\n\n## Casos límite: psicópatas y esquizoides\n\nEl bloque cierra con dos casos clínicos que iluminan la mecánica de la intimidad por contraste:\n\n> \"Los psicópatas tienen emociones pero por cosas fuera de lo común; no son fríos ni carentes de afecto,\"\n→ [El Hate Bombing de la izquierda (1:24:05)](https://youtu.be/DTP3syEtxP4?t=5045)\n\n> \"No les funciona la socialización para inhibir instintos; no pueden imprimir importancia a conceptos como la dignidad,\"\n→ [El Hate Bombing de la izquierda (1:24:05)](https://youtu.be/DTP3syEtxP4?t=5045)\n\n> \"No confundir psicopatía con alexitimia: los esquizoides sustituyen la intimidad por profundidad intelectual,\"\n→ [El Hate Bombing de la izquierda (1:24:05)](https://youtu.be/DTP3syEtxP4?t=5045)\n\nLa tipología clínica fija dos modos distintos de imposibilidad para la intimidad. El psicópata no carece de afecto — tiene emociones, pero por cosas fuera de lo común. Lo que le falta es la capacidad de imprimir importancia a categorías abstractas (dignidad, vínculo, intimidad) porque la socialización no le funciona como inhibidor de instintos. La intimidad le es estructuralmente inaccesible no por frialdad sino por incapacidad de cargar afectivamente las categorías que la sostienen. El esquizoide opera por mecanismo distinto: sustituye la intimidad por profundidad intelectual — entra en relaciones de gran densidad cognitiva que reemplazan funcionalmente la operación íntima sin serla. La distinción es clínicamente importante: alexitimia (incapacidad de reconocer emociones somáticamente) NO equivale a psicopatía, y la profundidad intelectual del esquizoide NO equivale a intimidad bivectiva.\n\n## Conexión con otros conceptos\n\n- La [[vinculo|categoría vínculo]] como prerrequisito: la intimidad opera dentro del vínculo bivectivo, nunca en la relación objetal pura.\n- La [[shadow-archetype]] como contenido típico de la confesión: lo peor de uno mismo es habitualmente lo no integrado de la sombra; confesarlo a otro opera como aceptación intersubjetiva de la sombra.\n- El [[amor-cortes-y-monogamia-civilizatoria]] articula la civilización moral del sexo desde relación objetal hacia acto íntimo — proceso paralelo al que esta página articula sobre la imprenta cultural sobre el sexo.\n- El [[hieros-gamos]] opera como articulación cosmogónica del cierre arquetípico que la entrega del cuerpo + alma articula a escala intersubjetiva.\n- La [[liturgia-como-rito]] como vehículo institucional de la intimidad máxima — el Sacramento de la confesión como caso paradigmático.\n- El [[camino-victima]] como corte explícito frente a la traición de la confesión: el daño es real, la responsabilidad del confesante de haber confiado mal es explícita.\n\n## Lagunas\n\n- **Confesión sin vínculo**: el aparato articula la confesión dentro del vínculo bivectivo. Pendiente articular el caso de la confesión a un extraño (terapia, sacerdote desconocido, anónimo en internet) — ¿es intimidad o es modo distinto, y qué garantías sustituyen al vínculo previo?\n- **Confesión y narcisismo**: la confesión opera contra el narcisismo (mostrar lo peor sin defensa) pero también puede operar narcisísticamente (confesión performática, exposición pública del propio drama). Pendiente articular el criterio operativo que distingue confesión genuina de confesión narcisista.\n- **Mecánica del olvido tras la traición**: la página afirma daño irreparable, pero qué operativa psíquica propone el canal para seguir viviendo con esa información destruida (¿hay perdón posible al traicionador? ¿hay reconstrucción del lugar reservado?) queda implícita.\n- **Intimidad fuera del campo afectivo-personal**: el aparato cubre intimidad intersubjetiva y con Dios. Pendiente articular si existe intimidad consigo mismo (auto-confesión, integración) y qué relación tiene con la intimidad intersubjetiva.\n- **Caso clínico complementario al psicópata y esquizoide**: pendiente articular qué pasa con personalidades narcisistas (que confiesan compulsivamente para validación) y dependientes (que confiesan en exceso por fusión).\n\n## Citations\n\n- **El Hate Bombing de la izquierda** — chunks: [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979) · [1:09:56](https://youtu.be/DTP3syEtxP4?t=4196) · [1:11:28](https://youtu.be/DTP3syEtxP4?t=4288) · [1:24:05](https://youtu.be/DTP3syEtxP4?t=5045)\n",
+      "rationale_for_promotion": "Bloque ~13 min sostenidos articulando una tesis canal-específica sobre la intimidad con cinco piezas estructuradas: definición operativa (acceso al lugar más reservado), tesis sexo no es intimidad por sí mismo (objetal vs vincular), entrega del cuerpo vs entrega del alma (sacrificio vs confesión), Sacramento de la confesión como caso teológico paradigmático, y casos clínicos límite (psicópatas, esquizoides). No pasa el gate completo de auto-promoción (minutes_sustained < 30) pero promueve como synthesis stub_in_session sin auto_promoted_synthesis flag. Páginas existentes (vinculo nueva, amor-cortes, hieros-gamos, liturgia, shadow-archetype, camino-victima) la presuponen sin tenerla articulada en wiki. Pieza de hub para el clúster de páginas sobre relaciones afectivas y rituales de entrega."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "perdon-y-rencor-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el rencor sostenido sin tramitación se cristaliza como identidad de víctima.",
+      "content_proposed": "\n\n## Anatomía del rencor: definición operativa precisa\n\nEn el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la definición operativa del rencor que la página enunciaba como taxonomía pendiente de material literal. La fórmula cierra una de las lagunas declaradas (distinción precisa rencor/odio/ira):\n\n> \"El rencor es odio narcisista sostenido en el tiempo contra quien causó un daño que se percibe como inmerecido,\"\n→ [El Hate Bombing de la izquierda (1:43:12)](https://youtu.be/DTP3syEtxP4?t=6192)\n\nLa definición articula tres componentes operativos que distinguen el rencor del odio puntual: (a) **odio narcisista** — la nota especificadora frente al odio sin más, anclado en la herida del yo herido (la página ya articulaba 'todo rencor es narcisista'; aquí la pieza queda categóricamente fijada como definición), (b) **sostenido en el tiempo** — la duración como propiedad estructural, no contingente; el odio puntual no es rencor aunque pueda devenir en él, (c) **contra quien causó un daño percibido como inmerecido** — la inmerecidez es el contenido representacional preciso que sostiene el odio, no la cuantía objetiva del daño. Quien percibe el daño como merecido (autoatribución de culpa, comprensión del castigo) no desarrolla rencor aunque sufra el mismo daño material.\n\n## Función informativa: 'tienes algo sin resolver, repara el daño'\n\nLa segunda pieza nuclear que el directo añade refina la lectura adaptativa del rencor (la página articulaba el rencor como puente defensivo tras traición). El refinamiento corrige una lectura común sobre qué información transmite el afecto:\n\n> \"La información del rencor no es \\\"odia a esa persona\\\" sino \\\"tienes algo sin resolver, repara el daño\\\",\"\n→ [El Hate Bombing de la izquierda (1:43:12)](https://youtu.be/DTP3syEtxP4?t=6192)\n\nLa precisión es operativa para la clínica: si se interpreta el rencor como instrucción de odiar al ofensor, el sujeto queda atrapado en el bucle (odiar más cuando el rencor crece, perpetuar el odio porque el rencor no cede). Si se interpreta correctamente como señal de daño no reparado en el yo, el sujeto se orienta hacia la operación correcta — reparar lo dañado en sí mismo, no actuar sobre el ofensor. La consecuencia coincide con el resto del aparato: el perdón opera sobre el deber que se le imponía al otro (página existente), y la reparación opera sobre lo dañado en uno mismo (esta pieza).\n\n## Caminos para resolver el rencor: recuperar la posición mental perdida\n\nLa pieza que la página declaraba como laguna ('Trabajar con tu propia...' truncada) queda articulada explícitamente:\n\n> \"La solución es recuperar la posición mental perdida dándote a ti mismo la composición mental donde aquello deje de doler,\"\n→ [El Hate Bombing de la izquierda (1:43:12)](https://youtu.be/DTP3syEtxP4?t=6192)\n\n> \"Perdonar es encontrar la forma de que aquello deje de doler; puede transformarse en pena en lugar de rencor,\"\n→ [El Hate Bombing de la izquierda (1:35:32)](https://youtu.be/DTP3syEtxP4?t=5732)\n\nLa solución operativa que el canal propone tiene dos movimientos articulados: (1) **identificar la posición mental perdida** — qué representación de uno mismo o del mundo quedó dañada por el evento, no qué dolor sigue presente, (2) **dársela a uno mismo** — reconstruir esa composición mental por vías propias, no esperando que el ofensor la restituya. La transformación operativa del rencor en **pena** (no su simple eliminación) es la pieza fenomenológica del éxito: la pena reconoce el daño sin retener el odio narcisista — la herida persiste como historia integrada, no como cuenta abierta contra otro.\n\n## Crítica al discurso del rencor como herramienta legítima\n\nUna pieza nueva no presente en la página articula la crítica del canal a la psicología pop feminista que defiende el rencor como mecanismo legítimo de autocuidado:\n\n> \"Venus on Crack y psicólogas feministas afirman que el rencor \\\"protege y pone límites\\\"; Proxy lo califica de gilipollez,\"\n→ [El Hate Bombing de la izquierda (1:29:15)](https://youtu.be/DTP3syEtxP4?t=5355)\n\n> \"La religión no dicta el perdón, lo sugiere; la moral prerreligiosa ya sabía que el rencor destruye,\"\n→ [El Hate Bombing de la izquierda (1:29:15)](https://youtu.be/DTP3syEtxP4?t=5355)\n\n> \"La herida narcisista es el ABC de la psiquiatría del sufrimiento narcisista y el perdón es exactamente lo opuesto al ego,\"\n→ [El Hate Bombing de la izquierda (1:29:15)](https://youtu.be/DTP3syEtxP4?t=5355)\n\nLa crítica corta una falacia común en la psicología popular feminista contemporánea: la equivalencia rencor = autocuidado / autodefensa. El argumento del canal opera con tres movimientos. Primero: la moral prerreligiosa (anterior al cristianismo) ya identificaba al rencor como autodestructivo — la prescripción del perdón no es invención religiosa sino reconocimiento moral de larga data. Segundo: la psiquiatría clásica de la herida narcisista articula con precisión que el rencor es síntoma narcisista, y el perdón opera precisamente como lo opuesto a la dinámica del ego herido. Tercero: la defensa del rencor como protección invierte categorialmente la dirección del afecto — protege la inflamación narcisista, no al sujeto.\n\n## Perdonar no es permitir: distinción categorial\n\nLa pieza complementaria corta otra confusión derivada del discurso anti-perdón:\n\n> \"Perdonar no es aguantarse la humillación ni permitir que el otro se salga con la suya,\"\n→ [El Hate Bombing de la izquierda (1:35:32)](https://youtu.be/DTP3syEtxP4?t=5732)\n\n> \"El empoderamiento posmoderno hace que la emoción dicte lo que ocurre fuera de uno, cuando debería dictar lo de dentro,\"\n→ [El Hate Bombing de la izquierda (1:35:32)](https://youtu.be/DTP3syEtxP4?t=5732)\n\nLa distinción operativa es categorial: perdonar (operación interna de desmontar el rencor) es independiente de permitir (operación externa de tolerar el comportamiento del ofensor). Ambas operaciones son ortogonales — se puede perdonar y simultáneamente cortar la relación, denunciar el delito, exigir reparación; o se puede aguantar la humillación sin perdonar (codependencia). La crítica al **empoderamiento postmoderno** articula la inversión categorial que el discurso pop feminista opera: pretende que la emoción dicte lo que ocurre fuera de uno (el rencor justifica el acto retaliatorio externo), cuando estructuralmente la emoción debería dictar lo que ocurre dentro (la operación interna de tramitación). La inversión convierte la emoción en justificación de la acción externa, lo que es la mecánica precisa del [[woke-narrativa-postmoderna-moral|sofisma estético postmoderno]] aplicada al campo afectivo.",
+      "supersedes_laguna_text": "El cierre exacto de la frase \"Trabajar con tu propia...\" queda truncado en el fragmento recuperado; falta documentar las dos rutas concretas que el canal propone para resolver el rencor",
+      "wikilinks_introduced": [
+        "woke-narrativa-postmoderna-moral"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DTP3syEtxP4",
+          "timestamp_seconds": 5355,
+          "cite_markdown": "[El Hate Bombing de la izquierda (1:29:15)](https://youtu.be/DTP3syEtxP4?t=5355)"
+        },
+        {
+          "video_id": "DTP3syEtxP4",
+          "timestamp_seconds": 5732,
+          "cite_markdown": "[El Hate Bombing de la izquierda (1:35:32)](https://youtu.be/DTP3syEtxP4?t=5732)"
+        },
+        {
+          "video_id": "DTP3syEtxP4",
+          "timestamp_seconds": 6192,
+          "cite_markdown": "[El Hate Bombing de la izquierda (1:43:12)](https://youtu.be/DTP3syEtxP4?t=6192)"
+        }
+      ],
+      "rationale": "La página tiene cuatro lagunas explícitas. Este vídeo aporta material que resuelve dos directamente: (a) definición precisa del rencor como 'odio narcisista sostenido contra daño percibido como inmerecido' que cierra la laguna sobre taxonomía discriminante rencor/odio/ira, (b) cierre de la frase truncada 'Trabajar con tu propia...' explicitando la solución operativa ('recuperar la posición mental perdida dándote a ti mismo la composición mental donde aquello deje de doler'). Aporta material nuevo que la página no tenía: función informativa del rencor ('tienes algo sin resolver, repara el daño', no 'odia'), crítica directa al discurso del rencor como autocuidado feminista (Venus on Crack, psicólogas feministas), distinción categorial perdonar≠permitir, crítica al empoderamiento postmoderno como inversión categorial (la emoción debe dictar lo de dentro, no lo de fuera). Anchor unique: última frase del paragraph antes de Lagunas. Marco la laguna sobre la frase truncada como resolved.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "perdon-y-rencor-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Refutada por el insert sobre soluciones operativas para resolver el rencor. La frase truncada 'Trabajar con tu propia...' se completa con la articulación 'recuperar la posición mental perdida dándote a ti mismo la composición mental donde aquello deje de doler' + 'perdonar es encontrar la forma de que aquello deje de doler; puede transformarse en pena en lugar de rencor'.",
+      "supersedes_laguna_text": "El cierre exacto de la frase \"Trabajar con tu propia...\" queda truncado en el fragmento recuperado; falta documentar las dos rutas concretas que el canal propone para resolver el rencor",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El insert resuelve explícitamente la laguna que pedía las rutas operativas para resolver el rencor.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "perdon-y-rencor-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Refutada parcialmente por el insert con la definición operativa precisa del rencor como 'odio narcisista sostenido en el tiempo contra quien causó un daño que se percibe como inmerecido' — distingue el rencor del odio puntual (duración + componente narcisista + nota de inmerecidez). La distinción rencor/envidia y rencor/ira aún requiere material adicional.",
+      "supersedes_laguna_text": "La distinción precisa entre rencor, envidia, ira y odio se anuncia como taxonomía discriminante pero requiere recuperar fragmentos donde el canal la articula explícitamente",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "Refutada parcialmente — la distinción rencor/odio queda explícita; rencor/envidia y rencor/ira aún pendientes.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "magia-postmoderna-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "ningún texto sagrado contemporáneo opera con el lenguaje interno del original, por dedicado que sea su trabajo filológico.",
+      "content_proposed": "\n\n## Tests de personalidad pop como oráculos de pacotilla\n\nEn el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal aplica el concepto operativo de oráculo a fenómenos cotidianos de cultura digital, ampliando el alcance del aparato más allá del tarot, el I Ching y la astrología:\n\n> \"Los tests tipo \\\"qué fruta eres\\\" o \\\"qué personaje se parece a ti\\\" son funcionalmente oráculos,\"\n→ [El Hate Bombing de la izquierda (14:25)](https://youtu.be/DTP3syEtxP4?t=865)\n\n> \"La frase \\\"hay dos clases de personas\\\" también opera como un oráculo simplificador,\"\n→ [El Hate Bombing de la izquierda (14:25)](https://youtu.be/DTP3syEtxP4?t=865)\n\n> \"El concepto de oráculo está desarrollado en el grimorio del canal,\"\n→ [El Hate Bombing de la izquierda (14:25)](https://youtu.be/DTP3syEtxP4?t=865)\n\nLa pieza importa por dos razones operativas. Primera: aplica la categoría oráculo a su forma terminalmente degradada — los tests de personalidad pop ('qué fruta eres', '¿qué personaje de Friends eres?') operan estructuralmente como oráculos (interpretación de elementos aparentemente aleatorios buscando patrón identitario) sin pretensión metafísica explícita. La función oracular sobrevive precisamente porque la psique no puede evitar proyectar sobre material arquetípico, aunque el dispositivo se presente como entretenimiento trivial. Segunda: la frase 'hay dos clases de personas' opera como oráculo simplificador — propone una clasificación binaria sobre la que el receptor proyecta su autoclasificación, replicando la mecánica de los oráculos de doble vía sin la complejidad iconográfica del tarot. La consecuencia editorial: el aparato magia-postmoderna no se aplica solo a las prácticas esotéricas explícitas (Wicca, Thelema, magia del caos) sino también a su forma cultural-popular completamente vaciada de doctrina, donde la mecánica oracular sigue operando porque opera al nivel del sujeto que se proyecta, no del marco que la sostiene.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "DTP3syEtxP4",
+          "timestamp_seconds": 865,
+          "cite_markdown": "[El Hate Bombing de la izquierda (14:25)](https://youtu.be/DTP3syEtxP4?t=865)"
+        }
+      ],
+      "rationale": "Pequeña pero relevante extensión: aplica el concepto oráculo del canal a fenómenos cotidianos de cultura pop digital (tests 'qué fruta eres', frase 'hay dos clases de personas'). Amplía el alcance de la categoría más allá del tarot/I Ching/astrología hacia formas terminalmente degradadas donde la mecánica oracular opera sin marco doctrinal explícito. Mención explícita al 'grimorio del canal' como locus textual del concepto. Inserción al final del bloque de magia vs religión añadido en batch anterior.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Variantes del mismo meme (cuadrados de Exit, grafos de Isu) operan con el mismo fundamento confuso: una operación de Q sub-f disfrazada de operación de Q sub-i.",
+      "content_proposed": "\n\n## Disociación como descomposición de la matriz N (mecánica inversa de la ambiguación)\n\nEn el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la mecánica inversa al aparato de ambiguación que la página despliega: la **disociación como descomposición** de las representaciones mentales. Si la matriz noética opera por composición continua (ambiguación, UAL, resíntesis), la disociación es su límite operativo cuando el trabajo analítico introspectivo opera sobre la propia matriz.\n\n> \"La disociación es una descomposición de las representaciones mentales,\"\n→ [El Hate Bombing de la izquierda (42:22)](https://youtu.be/DTP3syEtxP4?t=2542)\n\nLa precisión categorial es estructural: la disociación no es deficit ni ausencia, es operación inversa con la misma materia. Donde la composición noética genera estados mentales coherentes a partir de componentes Q (afectiva + imaginaria + formal), la descomposición disociativa los separa exhibiendo los componentes individualmente sin la integración que los hacía operativos como representación unificada.\n\n### El orden temporal como prelación entre representaciones\n\nLa pieza añade una articulación específica sobre cómo el orden temporal opera dentro de la matriz N:\n\n> \"El orden en que suceden los eventos forma parte de su representación episódica,\"\n→ [El Hate Bombing de la izquierda (40:51)](https://youtu.be/DTP3syEtxP4?t=2451)\n\n> \"El orden temporal entre representaciones es una relación de prelación que se desestabiliza al analizar demasiado la estructura del pensamiento,\"\n→ [El Hate Bombing de la izquierda (40:51)](https://youtu.be/DTP3syEtxP4?t=2451)\n\nLa precisión refina la articulación previa del tiempo en el marco (sección 'Cuantitativo, tiempo y lenguaje' que situaba el tiempo fenomenológico como Q sub-i + Q sub-a + procedimental). La pieza nueva nombra el operador específico: **prelación** — relación de antes/después que opera como pegamento estructural de la representación episódica. La memoria episódica no es solo conjunto de elementos sino conjunto **ordenado**, y ese orden es propiedad relacional intrínseca, no metadato externo.\n\nLa consecuencia operativa es importante: el trabajo introspectivo intenso de descomposición analítica del pensamiento (caso paradigmático: redactar monográficamente las propias categorías cognitivas) puede desestabilizar las relaciones de prelación entre representaciones episódicas como **efecto secundario operativo**, no como patología clínica. El sujeto experimenta entonces lagunas de memoria episódica (conversaciones enteras olvidadas), confusión temporal (eventos cuyo orden se ha disuelto), fragmentación de secuencias narrativas. La pieza añade una nota clínica importante:\n\n> \"La fragmentación de la memoria no implica gravedad clínica sino exceso de análisis introspectivo,\"\n→ [El Hate Bombing de la izquierda (42:22)](https://youtu.be/DTP3syEtxP4?t=2542)\n\nLa precisión opera como criterio diagnóstico: la disociación operativa por exceso analítico es reversible (deja de operar cuando cesa el trabajo de descomposición) y selectiva (afecta primariamente la memoria episódica, no las componentes Q individuales). Se distingue de cuadros disociativos clínicos genuinos (TID, despersonalización persistente, amnesia disociativa) que la página de [[tid-personaje-en-proxy]] articula con criterios distintos.\n\nLa pieza completa el aparato: la matriz noética admite operaciones de composición (ambiguación productiva) y de descomposición (disociación operativa), y ambas operan sobre la misma materia con el mismo aparato de componentes Q. La diferencia es direccional, no ontológica.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "tid-personaje-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DTP3syEtxP4",
+          "timestamp_seconds": 2451,
+          "cite_markdown": "[El Hate Bombing de la izquierda (40:51)](https://youtu.be/DTP3syEtxP4?t=2451)"
+        },
+        {
+          "video_id": "DTP3syEtxP4",
+          "timestamp_seconds": 2542,
+          "cite_markdown": "[El Hate Bombing de la izquierda (42:22)](https://youtu.be/DTP3syEtxP4?t=2542)"
+        }
+      ],
+      "rationale": "La página articula extensamente las operaciones de composición de la matriz N (ambiguación, UAL, resíntesis) pero no la mecánica inversa: la disociación como descomposición. Este vídeo aporta tres piezas operativas: (1) definición categorial 'disociación = descomposición de las representaciones mentales' como operación inversa simétrica a la ambiguación, (2) articulación del operador prelación como propiedad relacional intrínseca de la representación episódica que la disociación afecta primariamente, (3) criterio diagnóstico que distingue disociación operativa por exceso analítico (reversible) de cuadros clínicos disociativos genuinos. Inserción al final del bloque sobre componentes imaginario/formal modular (la última pieza grande añadida al refinamiento del componente imaginario), antes de Lagunas. Pieza coherente con el aparato existente que cierra el flanco operativo inverso.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Crítica a Studio Ghibli (Nausicaä, Ponyo, Porco Rosso, Mi Vecino Totoro)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Análisis arquetípico fragmentario por película (Nausicaä rescata por mitología real, Ponyo carece de misterium fascinans, Porco Rosso funciona sin extraordinario). Pieza valiosa pero por película individual no llega al umbral para entity_work. Anuncio de directo con Marta Veronese sobre Mi Vecino Totoro pendiente. Material relevante para enriquecer collective-unconscious (criterio operativo 'toda historia coherente contiene viaje del héroe / mito polar / mito lunar') cuando se procese con lectura completa.",
+      "quote_evidence": "Ponyo carece de misterium fascinans: presenta lo extraordinario sin que sea metáfora de nada,",
+      "review_priority": "medium",
+      "review_priority_reason": "El criterio narrativo 'toda historia coherente contiene uno de los tres mitos primarios narrativos' es articulación operativa nueva — pendiente enrichment a collective-unconscious",
+      "enriches_concept": "collective-unconscious"
+    },
+    {
+      "surface_form": "Decepción vs depresión (distinción clínica)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Distinción clínica precisa con criterio operativo claro y datos empíricos invocados. ~5 min sostenidos — bordeline para promote_new (no llega a ≥10 min monográfico ni a ≥3 vídeos en el corpus actual). Material relevante para futura página o enrichment a teoria-de-las-emociones-en-proxy.",
+      "quote_evidence": "Depresión es una carencia permanente de esperanza donde nada motiva; no confundir con decepción,",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción clínica candidata a promoción si se reincide en otros vídeos; o a enrichment de teoria-de-las-emociones-en-proxy",
+      "enriches_concept": "teoria-de-las-emociones-en-proxy"
+    },
+    {
+      "surface_form": "Paradigma del elefante (tecnología en aulas)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Concepto canal-específico con metáfora-guía clara y tesis derivada (el aprendizaje no depende del entusiasmo, contraejemplo del trauma). ~4 min de tratamiento. Conecta directamente con la tesis de deuda cognitiva educativa articulada en golem-de-cobre. Hold como passing — el material es mejor capturado como enrichment a golem-de-cobre cuando esa página se procese con lectura completa.",
+      "quote_evidence": "El paradigma del elefante: meter tecnología (tablets) en las aulas es como meter un elefante; genera entusiasmo pero no mejora el aprendizaje,",
+      "review_priority": "medium",
+      "review_priority_reason": "Metáfora-guía canal-específica que enriquece la sección sobre deuda cognitiva educativa en golem-de-cobre",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Raza vs etnia + crítica al estudio Harvard sobre diferencias cerebrales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis crítico al constructivismo postmoderno aplicado al caso del estudio Harvard. IN-scope per scope.md §3.1 criterio 3 (crítica a tradición intelectual constructivista). NO propongo update directo a woke porque la página no está leída en esta sesión.",
+      "quote_evidence": "Proxy denuncia que están llamando a diferencias biológicas con terminología sociológica, afirmando que \"la biología es racista\",",
+      "review_priority": "medium",
+      "review_priority_reason": "Material relevante para enriquecer woke-narrativa-postmoderna-moral con caso del constructivismo aplicado al sustrato biológico",
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Pugna geopolítica naciones vs supranacionalismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis político-filosófico estructural con marco aplicado (constructivismo como herramienta canalizable hacia enemigos designados). IN-scope per scope.md §3.1. Adjunto al bloque sobre raza vs etnia. Material relevante para enriquecer woke-narrativa-postmoderna-moral.",
+      "quote_evidence": "Se impone la lógica de que uno no \"es\" sino que \"se identifica con\", lo cual es constructivismo puro canalizable hacia enemigos designados,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza estructural sobre constructivismo geopolítico que conecta woke con análisis político-filosófico",
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Identificación de Jack el Destripador por ADN",
+      "reason_code": "passing_mention",
+      "reason_detail": "Noticia histórico-criminológica sin marco analítico aplicado al canal. No es análisis arquetípico ni psicológico estructural. Discard como noticia.",
+      "quote_evidence": "Aaron Kosminski, uno de los sospechosos originales, es identificado como Jack el Destripador mediante ADN tras 136 años,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Crítica a la huelga de alquileres y vulnerabilidad del pequeño casero",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre actualidad económico-jurídica española (sindicato de inquilinas, huelga de alquileres, riesgos del pequeño casero, anécdota personal del speaker). Match con scope.md §3.3 (fiscalidad/economía coyuntural concreta). Marco jurídico breve (concurso de delitos, usurpación) pero el grueso es comentario coyuntural y anécdota personal.",
+      "quote_evidence": "El sindicato de inquilinas promueve dejar de pagar el alquiler si siguen subiendo los precios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Lagunas de memoria personales del speaker",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal del speaker sobre experimentar lagunas de memoria episódica mientras trabaja en la descomposición analítica para el nuevo libro. La pieza teórica derivada (disociación = descomposición de representaciones) sí se captura en el update a teoria-del-simbolo-en-proxy. La anécdota personal en sí queda discarded.",
+      "quote_evidence": "Proxy relata episodios de lagunas de memoria: conversaciones enteras olvidadas y confusión temporal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Anuncio análisis Mi Vecino Totoro con Marta Veronese",
+      "reason_code": "meta_canal",
+      "reason_detail": "Meta-canal: anuncio de directo programado. Sin contenido temático sustantivo.",
+      "quote_evidence": "Anuncio de análisis arquetípico de Mi Vecino Totoro con Marta Veronese el miércoles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Introducción a Tolkien en formato podcast (patronos)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Meta-canal: anuncio de contenido para patronos. Sin contenido temático sustantivo en este vídeo.",
+      "quote_evidence": "Introducción a Tolkien en formato podcast reservado inicialmente para patronos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Misterium fascinans aplicado a Ghibli",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "El misterium fascinans ya está mencionado en collective-unconscious. La aplicación al caso Ghibli (Ponyo carece de misterium, Nausicaä lo tiene por influencias mitológicas reales) es uso operativo del concepto sin desarrollo teórico nuevo. Capturado como pieza en el discarded sobre crítica a Ghibli.",
+      "quote_evidence": "El misterium fascinans es la necesidad inconsciente de que lo extraordinario represente algo más allá de lo evidente,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'misterium fascinans = necesidad inconsciente de que lo extraordinario represente algo más' es definición operativa precisa que podría enriquecer collective-unconscious",
+      "enriches_concept": "collective-unconscious"
+    },
+    {
+      "surface_form": "Tesis 'toda historia coherente contiene viaje del héroe, mito polar o mito lunar'",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Aplicación operativa de los mitos primarios canónicos del canal como criterio narratológico de coherencia. Pieza valiosa para enriquecer mito-polar / mito-solar / mito-lunar / viaje-heroe con la tesis del criterio narrativo. Capturada en el discarded sobre crítica a Ghibli como contexto.",
+      "quote_evidence": "Toda historia coherente contiene un viaje del héroe, un mito polar o un mito lunar,",
+      "review_priority": "medium",
+      "review_priority_reason": "Criterio narratológico operativo del canal — pendiente enrichment a las páginas de mitos primarios",
+      "enriches_concept": "mito-polar"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 15,
+    "promoted_new": 2,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_processing_notes": "Vídeo de 151 min con tres ejes principales: (1) bloque rencor/perdón con anatomía operativa precisa y crítica al discurso feminista del rencor (~15 min, MAJOR update a perdon-y-rencor-en-proxy resolviendo dos lagunas explícitas), (2) bloque vínculo/intimidad/confesión (~20 min, dos promotes — concept vinculo y synthesis intimidad-y-confesion-en-proxy), (3) crítica cultural/política (raza/etnia, naciones/supranacionalismo, paradigma del elefante, Studio Ghibli) — capturados como discarded con enrichment hints pendientes de revisión humana. Múltiples piezas valiosas (decepción/depresión, paradigma elefante, Ghibli, raza/etnia, Harvard, supranacionalismo) se descartan como passing porque las páginas relacionadas no se han leído en esta sesión y propongo updates a ciegas con riesgo de duplicar prosa. Vídeo es de octubre 2024 — el bloque sobre alquileres es coyuntural y queda fuera per §3.3."
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Vínculo vs relación objetal (definición canal-específica)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[La confesión del propio mal como máximo acto de intimidad (entrega de cuerpo vs entrega de alma)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

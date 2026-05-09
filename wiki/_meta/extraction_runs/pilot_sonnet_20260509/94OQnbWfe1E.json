@@ -1,0 +1,571 @@
+{
+  "video_id": "94OQnbWfe1E",
+  "video_title": "El acabóse",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Magia vs religión: distinción operativa, falacia de muertes históricas, traducción bíblica",
+      "canonical_guess": "magia-postmoderna-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 17,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La magia busca poder explícito; la religión es una respuesta implícita a una pregunta que no sabes cuál es,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La religión exige sometimiento del individuo a lo trascendente; la magia exige el sometimiento de lo exterior al interior del individuo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Creer en lo sobrenatural no implica creer que lo sobrenatural pueda ser aprendido, que es la pretensión de la magia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página actual cubre el aparato técnico de la magia postmoderna (sofisma poético, taxonomía Wicca/Thelema/satanismo, oráculo, locus externo) pero NO articula la distinción estructural magia vs religión que es la pieza fundacional del marco. Este vídeo aporta: (a) definición operativa por dirección de sometimiento (magia: exterior→interior; religión: individuo→trascendente), (b) magia como búsqueda de poder explícito vs religión como respuesta implícita a pregunta desconocida, (c) tesis sobre instituciones religiosas (no son mágicas por buscar poder institucional — la distinción opera a nivel de la vivencia individual), (d) corolario sobre el límite del conocimiento mágico (creer en lo sobrenatural no implica que pueda aprenderse), (e) falacia de atribuir las muertes históricas a la religión, (f) imposibilidad estructural de la traducción perfecta (cadenas Vulgata/hebreo/griego), (g) política como búsqueda de control y dinero distinta de religión. Bloque sostenido ~17 min con dialéctica magia/religión como columna vertebral.",
+      "quote_evidence": "La magia busca poder explícito; la religión es una respuesta implícita a una pregunta que no sabes cuál es,"
+    },
+    {
+      "surface_form": "Psicología del activista político: 15M, captación tipo secta, perfil disocial",
+      "canonical_guess": "psicologia-del-activista-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 30,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La política busca el control y el dinero, no la religión; esa es literalmente la definición de política,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "El delegado de gobierno (vía su gabinete) confirmó a Proxy que el PSOE estaba encantado con la agitación,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Reclutan dos perfiles: gente muy idealista/ingenua y gente aburrida — especialmente hijos de ricos enfadados con el padre arquetípico,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El PSOE (vía juventudes socialistas o CNT) hace creer a jóvenes que valen como persona, como hacen las sectas,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Bloque sostenido ~30 min (1:24:47-1:54:39) con análisis psicológico-político estructural articulado en siete piezas: (1) instrumentalización estratégica del PSOE sobre el 15M, (2) mecánica de propaganda y reclutamiento marketing-guerrilla vía Twitter, (3) técnica de captación universitaria UGT/CNT sobre dos perfiles (idealista ingenuo + hijo de ricos con herida paterna), (4) perfil disocial del activista (alergia al sometimiento, complejo rebelde, síndrome del activista), (5) técnica de elevación tipo secta (ideas inmaduras tratadas como categoría que no les corresponde), (6) presencia documentada del CNI en acampadas, (7) caso Corpus (PSOE pidiendo aguantar acampada para boicotear procesión). Testimonio personal directo del speaker (estuvo en el 15M, habló con el gabinete del delegado). Pasa el gate de auto-promoción §2.4.1 (minutes ≥30, signals ≥3, structure ≥4). NO existe página que capture esta articulación. IN-scope per scope.md §3.1 criterio 1, 2 y 3 (mecanismo psicológico-sociológico aplicado, marco teórico propio, crítica a tradición intelectual).",
+      "quote_evidence": "Las juventudes del Frente Obrero muestran un perfil marcadamente disocial: rabia contenida canalizada a través de la política,"
+    },
+    {
+      "surface_form": "Proyectos literarios pendientes (libro magia, novela, videojuego, La casa el árbol y el laberinto, recopilación mitos+Disney)",
+      "canonical_guess": "del-origen-del-mal-libro",
+      "page_type": "entity_work",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 1,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "Lista: libro sobre la magia, una novela, un videojuego sobre el mismo tema, \"La casa, el árbol y el laberinto\" (teoría cognitiva), y recopilación de mitos y Disney,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página de Del origen del mal documenta el libro principal del canal pero presenta el proyecto editorial como singular. Este vídeo (oct 2024) revela que Del origen del mal es uno de cinco proyectos literarios pendientes: libro sobre la magia, novela, videojuego sobre el mismo tema (magia presumiblemente), 'La casa, el árbol y el laberinto' (teoría cognitiva), y recopilación de mitos y Disney. Información meta-editorial relevante para situar Del origen del mal en el portafolio editorial completo del canal — y para abrir flagging de futuros wikilinks rotos a esos otros proyectos cuando se desarrollen monográficamente.",
+      "quote_evidence": "Lista: libro sobre la magia, una novela, un videojuego sobre el mismo tema, \"La casa, el árbol y el laberinto\" (teoría cognitiva), y recopilación de mitos y Disney,"
+    },
+    {
+      "surface_form": "Audio del delegado de gobierno (testimonio personal Proxy en 15M)",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 2,
+      "depth_in_video": "secondary",
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Testimonio personal del speaker sobre conversaciones con el gabinete del delegado de gobierno durante el 15M (~2011). NO es politiqueo de actualidad partidista (>12 años de antigüedad, marco analítico aplicado). Capturado en el promote_new psicologia-del-activista-en-proxy como evidencia genealógica del análisis.",
+      "quote_evidence": "El jefe de gabinete del delegado de gobierno pidió a Proxy que la acampada aguantara una o dos semanas más para impedir la procesión del Corpus,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicologia-del-activista-en-proxy"
+    },
+    {
+      "surface_form": "Salida de los infiernos: escindirse contra la propia mente",
+      "canonical_guess": "excision-psicologica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Una mente potente que te putea requiere escindirte y luchar contra tu propia mente con inteligencia, no con esperanza ni buena voluntad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "discard",
+      "decision_reason": "Pieza interesante sobre extensión intra-psíquica de la excisión (luchar contra la propia mente, no solo contra entornos identitarios externos como articula la página existente). Sin haber leído el cuerpo completo de excision-psicologica en esta sesión, NO propongo update — riesgo de duplicar prosa o desafinar. Capturar como enrichment_candidate para revisión humana o futuro batch que tenga la página leída.",
+      "quote_evidence": "Una mente potente que te putea requiere escindirte y luchar contra tu propia mente con inteligencia, no con esperanza ni buena voluntad,",
+      "review_priority": "medium",
+      "review_priority_reason": "Extensión intra-psíquica del concepto excisión que la página actual no parece cubrir según índice; merece revisión humana para enriquecer",
+      "enriches_concept": "excision-psicologica"
+    },
+    {
+      "surface_form": "Ocupas y Frente Obrero: rebeldes sin riesgo real, ira en lugar de depresión",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los ocupas actuales tienen cero riesgo real y se creen rebeldes al sistema,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los jóvenes actuales del Frente Obrero canalizan su amargura con ira en vez de depresión, lo cual es más peligroso,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "discard",
+      "decision_reason": "Pieza relevante sobre la fenomenología contemporánea del rebelde-sin-riesgo y el desplazamiento generacional depresión→ira en activismo de extrema. Capturada operativamente en psicologia-del-activista-en-proxy (nuevo). NO propongo update separado a woke-narrativa-postmoderna-moral sin haber leído la página completa en esta sesión — riesgo de duplicar prosa.",
+      "quote_evidence": "Los ocupas actuales tienen cero riesgo real y se creen rebeldes al sistema,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material que conecta woke postmoderno con perfil disocial activista; pendiente enriquecimiento humano cruzando ambas páginas",
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Falacia de atribuir muertes históricas a la religión",
+      "canonical_guess": null,
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las guerras religiosas son históricamente menores que las guerras políticas,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Demonizar una causa porque alguien la usa para hacer el mal es infantil y simplista: la gente mata porque quiere y lo justifica a posteriori,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Argumento retórico-histórico contra la falacia de demonizar la religión por sus supuestas atrocidades históricas. Capturado como pieza dentro del update a magia-postmoderna-en-proxy (donde refuerza la distinción religión/política). No merece página propia — es argumento operativo, no concepto enciclopédico.",
+      "quote_evidence": "La primera causa de muerte en la historia es la muerte natural, seguida de enfermedad y catástrofes naturales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "Imposibilidad de la traducción perfecta (Biblias)",
+      "canonical_guess": null,
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.semiotics",
+      "minutes_estimate": 3,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La traducción perfecta es imposible: se traduce el lenguaje externo pero no el lenguaje interno ni las representaciones,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza breve sobre imposibilidad estructural de la traducción perfecta (lenguaje externo traducible, lenguaje interno y representaciones no) y cadenas históricas de traducción bíblica. Conecta directamente con la tesis del lenguaje como algoritmo de compresión articulada en teoria-del-simbolo-en-proxy. Capturada en update a magia-postmoderna-en-proxy como pieza adyacente al bloque religión. No promueve concepto propio — es aplicación operativa de la teoría del símbolo del canal al caso bíblico.",
+      "quote_evidence": "La traducción perfecta es imposible: se traduce el lenguaje externo pero no el lenguaje interno ni las representaciones,",
+      "review_priority": "medium",
+      "review_priority_reason": "Aplicación interesante de teoria-del-simbolo-en-proxy al caso bíblico — pendiente revisión humana para decidir si enriquece esa página",
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Adherencia y censura de discursos",
+      "canonical_guess": null,
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 1,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La civilización consiste en lidiar con los irracionales, no en callarse para no ofenderlos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza retórica sobre el fenómeno de la adherencia (ideas atraen mentes que las usan para justificarse) y crítica a la censura preventiva. Mencionada brevemente como argumento adyacente al bloque magia/religión. No constituye concepto enciclopédico propio — argumento operativo. Capturado en update a magia-postmoderna-en-proxy como pieza del aparato anti-falacia.",
+      "quote_evidence": "La civilización consiste en lidiar con los irracionales, no en callarse para no ofenderlos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "Inteligencia y salida de los infiernos",
+      "canonical_guess": null,
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo que va con la inteligencia es la capacidad de cambiar tu propia circunstancia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "De los infiernos no se sale con compasión; con compasión entras más,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Bloque ~4 min sobre inteligencia entendida como capacidad de cambiar la propia circunstancia, escisión intra-psíquica, y crítica a la salida-por-compasión. Material relevante para excision-psicologica e individuation pero NO promueve página propia — son aplicaciones operativas de conceptos ya canonizados. Pendiente integrar como enrichment cuando se procesen esas páginas con lectura completa.",
+      "quote_evidence": "Una mente potente que te putea requiere escindirte y luchar contra tu propia mente con inteligencia, no con esperanza ni buena voluntad,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material valioso para excision-psicologica e individuation; pendiente enrichment humano",
+      "enriches_concept": "excision-psicologica"
+    },
+    {
+      "surface_form": "Estado actual de la Iglesia Católica (renovación vs modernización)",
+      "canonical_guess": null,
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 2,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La religión católica se está desmantelando y necesitaría un movimiento de renovación, no de modernización,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Diagnóstico breve sobre el estado de la Iglesia Católica con la distinción operativa renovación/modernización (renovar = reactivar la sustancia; modernizar = adaptarse al ruido externo). Capturado en update a magia-postmoderna-en-proxy como pieza del bloque religión. No merece página propia con solo este tratamiento.",
+      "quote_evidence": "La religión católica se está desmantelando y necesitaría un movimiento de renovación, no de modernización,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el canal desarrolla la dialéctica renovación/modernización en otro vídeo, podría merecer página propia",
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "CNI y policía secreta en acampadas 15M",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 2,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Testimonio sobre presencia documentada del CNI en acampadas. Capturado en promote_new psicologia-del-activista-en-proxy como pieza del análisis del 15M. No constituye entidad enciclopédica autónoma.",
+      "quote_evidence": "En todas las acampadas había al menos una tienda de policía secreta, generalmente una pareja hombre-mujer vestidos de hippies,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicologia-del-activista-en-proxy"
+    }
+  ],
+  "promote_new_pages": [
+    {
+      "page_id": "psicologia-del-activista-en-proxy",
+      "frontmatter": {
+        "page_id": "psicologia-del-activista-en-proxy",
+        "page_type": "synthesis",
+        "synthesis_subtype": "author_thesis",
+        "auto_promoted_synthesis": true,
+        "canonical_name": "Psicología del activista político y captación tipo secta (lectura del canal)",
+        "aliases": [
+          "psicologia activista",
+          "perfil disocial activista",
+          "sindrome del activista",
+          "captacion politica secta",
+          "15M psicologia",
+          "elevacion del idealista"
+        ],
+        "domain_primary": "social.psychology",
+        "primary_domains": [
+          "social.psychology",
+          "interdisciplinary.cultural_studies",
+          "humanities.philosophy.political"
+        ],
+        "relations": [
+          {
+            "type": "extends",
+            "to": "herida-narcisista-en-proxy",
+            "weight": "strong",
+            "note": "el perfil del hijo de ricos enfadado con el padre arquetípico canaliza herida narcisista hacia activismo político"
+          },
+          {
+            "type": "compared_with",
+            "to": "camino-victima",
+            "note": "el rebelde sin riesgo del activismo contemporáneo opera como camino víctima en clave grupal"
+          },
+          {
+            "type": "compared_with",
+            "to": "woke-narrativa-postmoderna-moral",
+            "note": "intersección con woke en el activismo contemporáneo; aquí se articula el perfil psicológico subyacente"
+          },
+          {
+            "type": "extends",
+            "to": "magia-postmoderna-en-proxy",
+            "weight": "strong",
+            "note": "la captación tipo secta replica la mecánica de elevación que la magia postmoderna usa: significantes sin contenido elevados a categoría operativa"
+          },
+          {
+            "type": "compared_with",
+            "to": "autotipo",
+            "note": "ideas inmaduras elevadas a categoría que no les corresponde es operación autotípica aplicada a personas en lugar de a personajes"
+          },
+          {
+            "type": "see_also",
+            "to": "diagrama-de-proxy",
+            "note": "los perfiles disociales tienden a ubicarse en cuadrantes específicos del diagrama; conexión pendiente de articular"
+          }
+        ],
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body": "# Psicología del activista político y captación tipo secta (lectura del canal)\n\n## Tesis nuclear\n\nEl canal articula en directo extenso una lectura psicológico-política del activismo de izquierda contemporáneo (con el 15M como caso paradigmático del que el speaker fue testigo directo) que combina cuatro piezas: (1) instrumentalización estratégica del movimiento por partidos institucionales, (2) mecánica de propaganda viral y reclutamiento profesional, (3) perfil de personalidad disocial del activista (alergia al sometimiento, complejo de rebelde, síndrome del activista), (4) técnica de captación tipo secta consistente en elevar ideas inmaduras de jóvenes a categoría que no les corresponde. La distinción operativa con la que se abre el bloque queda enunciada categóricamente:\n\n> \"La política busca el control y el dinero, no la religión; esa es literalmente la definición de política,\"\n→ [El acabóse (40:28)](https://youtu.be/94OQnbWfe1E?t=2428)\n\nLa pieza fija el marco: el activismo político no es vehículo de ideales sino dispositivo de poder cuyo combustible psicológico es una estructura de personalidad específica disponible para captación instrumental.\n\n## El 15M como caso testimonial: la instrumentalización del PSOE\n\nEl bloque opera con material de testimonio personal del speaker, que estuvo presente en las acampadas y mantuvo contacto con el gabinete del delegado de gobierno. La tesis sobre el 15M corta el relato canónico de movimiento popular espontáneo:\n\n> \"El PSOE sabía que todas las rebeliones civiles le benefician y toleró deliberadamente el 15M,\"\n→ [El acabóse (1:24:47)](https://youtu.be/94OQnbWfe1E?t=5087)\n\n> \"El delegado de gobierno (vía su gabinete) confirmó a Proxy que el PSOE estaba encantado con la agitación,\"\n→ [El acabóse (1:24:47)](https://youtu.be/94OQnbWfe1E?t=5087)\n\n> \"El 15M protestaba contra \\\"los partidos\\\" genéricamente, nunca contra el PSOE específicamente, lo cual le convenía,\"\n→ [El acabóse (1:24:47)](https://youtu.be/94OQnbWfe1E?t=5087)\n\nLa pieza estructural es que la protesta supuestamente antisistémica respetaba un espacio en blanco donde el sistema dominante estaba: el discurso era genéricamente anti-partidos sin nombrar al partido en el gobierno. La consecuencia política conocida — Podemos como heredero del 15M — opera como confirmación del éxito instrumental:\n\n> \"De la acampada surgió Podemos, aunque mucha gente de Podemos nunca estuvo realmente en el 15M,\"\n→ [El acabóse (1:24:47)](https://youtu.be/94OQnbWfe1E?t=5087)\n\n## Propaganda y catálisis: marketing de guerrilla profesional\n\nEl primer mecanismo articulado es la profesionalidad de quienes iniciaron la viralización:\n\n> \"Los primeros en actuar fueron activistas profesionales del marketing de guerrilla urbana que viralizaron vía Twitter,\"\n→ [El acabóse (1:25:48)](https://youtu.be/94OQnbWfe1E?t=5148)\n\n> \"Spanish Revolution fue obra de twitteros de izquierdas cercanos a UGT o CNT,\"\n→ [El acabóse (1:25:48)](https://youtu.be/94OQnbWfe1E?t=5148)\n\n> \"Aprovecharon la Primavera Árabe como catalizador para su propia causa doméstica,\"\n→ [El acabóse (1:25:48)](https://youtu.be/94OQnbWfe1E?t=5148)\n\nLa pieza desmonta la narrativa de espontaneidad: el movimiento tuvo iniciadores con experiencia profesional en marketing político-sindical (UGT/CNT) que aprovecharon un catalizador externo (Primavera Árabe) para activar su propia agenda. La viralización por Twitter no fue emergencia sino operación.\n\n## El reclutamiento universitario: dos perfiles complementarios\n\nLa segunda mecánica articula el pescaje sistemático en entornos juveniles:\n\n> \"UGT y CNT pescan en universidades, clubs de estudiantes y asociaciones estudiantiles,\"\n→ [El acabóse (1:26:48)](https://youtu.be/94OQnbWfe1E?t=5208)\n\n> \"Reclutan dos perfiles: gente muy idealista/ingenua y gente aburrida — especialmente hijos de ricos enfadados con el padre arquetípico,\"\n→ [El acabóse (1:26:48)](https://youtu.be/94OQnbWfe1E?t=5208)\n\nLa tipología bipartita es psicológicamente precisa: el idealista ingenuo aporta combustible moral (cree en la causa); el hijo de ricos enfadado con su padre aporta combustible afectivo (canaliza una herida personal en oposición a la autoridad arquetípica). El segundo perfil conecta directamente con [[herida-narcisista-en-proxy]]: el daño contra el padre se vuelve identidad política sin pasar por integración. Las juventudes del Frente Obrero contemporáneas muestran la versión consolidada del segundo perfil:\n\n> \"Las juventudes del Frente Obrero muestran un perfil marcadamente disocial: rabia contenida canalizada a través de la política,\"\n→ [El acabóse (1:26:48)](https://youtu.be/94OQnbWfe1E?t=5208)\n\n## El perfil disocial: alergia al sometimiento, complejo de rebelde\n\nLa tercera pieza es clínica: la personalidad disocial como sustrato del activismo radical.\n\n> \"Gente con alergia al sometimiento y las normas que solo convive segregada en grupos identitarios,\"\n→ [El acabóse (1:28:49)](https://youtu.be/94OQnbWfe1E?t=5329)\n\n> \"Solo obedecen normas si pueden romper otras: complejo de rebelde o \\\"síndrome del activista\\\",\\\"\n→ [El acabóse (1:28:49)](https://youtu.be/94OQnbWfe1E?t=5329)\n\nLa formulación 'síndrome del activista' opera como categoría canal-específica: estructura de personalidad cuya operación característica es obedecer una norma solo si simultáneamente rompe otra. La pertenencia a un grupo identitario (anarquismo, ocupismo, frente obrero) cumple la función dual: provee la norma a obedecer (la disciplina del grupo) y la norma a romper (la del orden general). Sin esa segregación grupal el sujeto no puede convivir socialmente.\n\nLa contrapartida del cuadrante opuesto se nombra para fijar la asimetría:\n\n> \"Las juventudes del PP buscan delegados de clase: pijos con buenos estudios, sin ideas propias, que repiten cuatro cosas,\"\n→ [El acabóse (1:28:49)](https://youtu.be/94OQnbWfe1E?t=5329)\n\nEl punto del canal no es equivalencia falsa entre extremos sino taxonomía operativa: cada estructura partidaria capta el perfil que le sirve. Las juventudes conservadoras captan delegados (estructura de obediencia ascendente sin originalidad); las juventudes radicales captan disociales (estructura de rebeldía con sustrato afectivo herido).\n\n## Técnica de captación: la elevación del idealista (mecánica de secta)\n\nLa cuarta pieza es la técnica concreta por la que partidos institucionales fabrican activistas durables:\n\n> \"El PSOE (vía juventudes socialistas o CNT) hace creer a jóvenes que valen como persona, como hacen las sectas,\"\n→ [El acabóse (1:33:22)](https://youtu.be/94OQnbWfe1E?t=5602)\n\n> \"Elevan ideas inmaduras de gente de 20 años a una categoría que no les corresponde,\"\n→ [El acabóse (1:33:22)](https://youtu.be/94OQnbWfe1E?t=5602)\n\n> \"Les encumbran como ideólogos, les consientes y así fabrican activistas,\"\n→ [El acabóse (1:33:22)](https://youtu.be/94OQnbWfe1E?t=5602)\n\nLa mecánica es estructuralmente idéntica a la de las sectas religiosas: validación masiva de la personalidad del recluta + elevación retórica de sus ideas + consentimiento sistemático que cierra la dependencia. La operación encaja como caso de [[autotipo]] aplicado a personas: ideas inmaduras tratadas como categoría que no les corresponde producen 'ideólogos autotípicos' donde el significante (ideólogo) no remite a contenido genuino. El recluta queda atrapado porque romper con la estructura significa renunciar a la identidad inflada que la estructura le concedió.\n\n## Presencia institucional y operación Corpus\n\nDos piezas testimoniales completan el cuadro del 15M como operación más que como movimiento espontáneo. Primera: la presencia documentada del CNI en las acampadas:\n\n> \"En todas las acampadas había al menos una tienda de policía secreta, generalmente una pareja hombre-mujer vestidos de hippies,\"\n→ [El acabóse (1:36:53)](https://youtu.be/94OQnbWfe1E?t=5813)\n\n> \"Abogados y personas de ayuntamientos filtraban información a los organizadores del 15M,\"\n→ [El acabóse (1:36:53)](https://youtu.be/94OQnbWfe1E?t=5813)\n\n> \"Un abogado le identificó in situ a un agente del CNI en prácticas,\"\n→ [El acabóse (1:36:53)](https://youtu.be/94OQnbWfe1E?t=5813)\n\nSegunda: el caso del Corpus, donde el PSOE pidió explícitamente al speaker — vía gabinete del delegado de gobierno — que la acampada se sostuviera para impedir la procesión:\n\n> \"El jefe de gabinete del delegado de gobierno pidió a Proxy que la acampada aguantara una o dos semanas más para impedir la procesión del Corpus,\"\n→ [El acabóse (1:38:54)](https://youtu.be/94OQnbWfe1E?t=5934)\n\n> \"Justificación textual: \\\"no nos gusta esa parte de la religión\\\",\"\n→ [El acabóse (1:38:54)](https://youtu.be/94OQnbWfe1E?t=5934)\n\n> \"A cambio le ofrecieron un contacto en un grupo de debate de derecho constitucional,\"\n→ [El acabóse (1:38:54)](https://youtu.be/94OQnbWfe1E?t=5934)\n\nLa pieza importa por dos razones. Primera: confirma la tesis instrumental — el 15M era usado activamente para objetivos colaterales del partido en el gobierno. Segunda: la justificación textual ('no nos gusta esa parte de la religión') hace explícito el componente anti-católico institucional de la operación, que el discurso público del movimiento mantenía implícito.\n\n## Versión contemporánea: rebeldes sin riesgo, ira en lugar de depresión\n\nLa última pieza articula el desplazamiento generacional desde el 15M hasta el activismo de la segunda mitad de la década 2020:\n\n> \"Podemos Zaragoza era fundamentalmente gente privilegiada que se arrogaba la potestad de decir a los pobres qué les convenía,\"\n→ [El acabóse (1:43:57)](https://youtu.be/94OQnbWfe1E?t=6237)\n\n> \"Los ocupas actuales tienen cero riesgo real y se creen rebeldes al sistema,\"\n→ [El acabóse (1:43:57)](https://youtu.be/94OQnbWfe1E?t=6237)\n\n> \"Los jóvenes actuales del Frente Obrero canalizan su amargura con ira en vez de depresión, lo cual es más peligroso,\"\n→ [El acabóse (1:43:57)](https://youtu.be/94OQnbWfe1E?t=6237)\n\nLa precisión clínica final fija el riesgo del desplazamiento afectivo: la generación 15M canalizaba su malestar como depresión política (acampada, asamblea, queja); la generación contemporánea lo canaliza como ira (acción, agresión, escarnio). El cambio es operativamente más peligroso porque la depresión política se agota en sí misma mientras la ira política busca objeto externo. La versión contemporánea del rebelde sin riesgo (ocupa, frente obrero) opera con menos sufrimiento personal y más capacidad de daño hacia terceros.\n\n## Conexión con otros conceptos\n\n- El perfil del hijo de ricos con padre arquetípico herido conecta directamente con [[herida-narcisista-en-proxy]] como sustrato afectivo del activismo radical.\n- La técnica de elevación del idealista replica la mecánica de [[autotipo]] aplicada a personas: ideas inmaduras elevadas a categoría que no les corresponde producen ideólogos cuyo significante no remite a contenido genuino.\n- La captación tipo secta es estructuralmente paralela a la mecánica que la [[magia-postmoderna-en-proxy|magia postmoderna]] usa para enganchar adeptos: validación instantánea + elevación retórica + dependencia identitaria.\n- El rebelde sin riesgo del activismo contemporáneo opera como variante grupal del [[camino-victima]] — víctima por adscripción colectiva.\n- Intersección con [[woke-narrativa-postmoderna-moral]]: el activismo woke contemporáneo es una de las expresiones del perfil disocial canalizado, articulado vía sofisma estético en el plano discursivo.\n- Conexión pendiente con [[diagrama-de-proxy]]: los perfiles disociales tienden a ubicarse en cuadrantes específicos del diagrama (alta intensidad fundamentalismo moral combinada con baja jerarquía estructural).\n\n## Lagunas\n\n- **Genealogía cross-país del perfil disocial**: el análisis se ancla en el caso español (15M, Podemos, Frente Obrero, juventudes PSOE/PP). Pendiente articular si el patrón opera idénticamente en activismo angloamericano (Occupy, BLM organizativo, antifa) o si la mecánica de captación varía con la cultura política.\n- **Versión de derecha del perfil disocial**: el speaker articula extensamente la captación de izquierda y nombra de pasada el patrón inverso (juventudes PP buscan delegados de clase). Pendiente analizar la captación radical de derecha (alt-right, identitarismo) que también opera con perfil disocial pero distinta estructura partidaria.\n- **Reversibilidad del activista capturado**: el análisis se centra en la captación. Pendiente articular qué condiciones permiten salir de la dependencia identitaria una vez instalada — caso paralelo a la salida de sectas religiosas.\n- **Frontera entre activismo genuino y captación instrumental**: el speaker afirma que el 15M fue tolerado y usado por el PSOE pero no niega que existiera componente espontáneo. Falta criterio operativo para distinguir activismo de origen propio de activismo instrumentalizado en cada caso histórico.\n- **Aplicación a movimientos pre-redes**: el análisis se apoya fuertemente en la viralización Twitter como acelerador. Pendiente comparar la mecánica de captación de movimientos pre-internet (mayo 68, antifranquismo militante) — ¿la estructura disocial era la misma? ¿la captación tipo secta operaba con otros canales?\n\n## Status auto-promoción\n\nEsta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1: minutes_sustained ≈ 30 (1:24:47-1:54:39), signal_marks_detected = 4 (declared_thesis explícita 'literalmente la definición de política', internal_structure de siete piezas coordinadas, genealogical_self_reference vía testimonio personal del speaker en el 15M, applied_framework con el aparato sectas/captación), framework_internal_structure = 7 piezas (instrumentalización estratégica, propaganda profesional, reclutamiento universitario, perfil disocial, técnica de elevación, presencia CNI, caso Corpus, versión contemporánea). Queda abierta a revisión humana — el campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría. Pieza editorialmente sensible: el material implica testimonio personal y atribuciones políticas concretas; un editor humano debe verificar que las citas literales corresponden a substrings exactos del summary y que la atribución no sobrepasa lo que el speaker articula explícitamente.\n\n## Citations\n\n- **El acabóse** — chunks: [40:28](https://youtu.be/94OQnbWfe1E?t=2428) · [1:24:47](https://youtu.be/94OQnbWfe1E?t=5087) · [1:25:48](https://youtu.be/94OQnbWfe1E?t=5148) · [1:26:48](https://youtu.be/94OQnbWfe1E?t=5208) · [1:28:49](https://youtu.be/94OQnbWfe1E?t=5329) · [1:33:22](https://youtu.be/94OQnbWfe1E?t=5602) · [1:36:53](https://youtu.be/94OQnbWfe1E?t=5813) · [1:38:54](https://youtu.be/94OQnbWfe1E?t=5934) · [1:43:57](https://youtu.be/94OQnbWfe1E?t=6237)\n",
+      "rationale_for_promotion": "Bloque sostenido ~30 min con análisis psicológico-político estructural articulado en siete piezas coordinadas, testimonio directo del speaker en el 15M (genealogical self-reference fuerte), distinción operativa explícita ('literalmente la definición de política'), categoría canal-específica nueva ('síndrome del activista'). Pasa el gate completo de auto-promoción §2.4.1. NO existe página que capture esta articulación — el wiki tiene piezas adyacentes (woke, herida narcisista, autotipo, camino víctima) pero ninguna recoge la estructura captación-secta + perfil disocial + caso 15M. La página opera como hub futuro del análisis político-psicológico del canal."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "magia-postmoderna-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "es imposibilidad estructural de cumplir la función religiosa que pretende.",
+      "content_proposed": "\n\n## Magia vs religión: la distinción operativa fundacional\n\nEn el directo *El acabóse* (3 oct 2024) el canal articula la distinción estructural entre magia y religión que opera como pieza fundacional del marco más amplio. La página ha desplegado hasta aquí la cara magia de la dialéctica (sofisma poético, taxonomía esotérica, oráculo, locus externo); el directo añade la cara religión como contraparte que define negativamente el dominio de la magia.\n\n### Definición por dirección de sometimiento\n\nLa formulación canónica del canal opera por dirección operativa, no por contenido doctrinal:\n\n> \"La magia busca poder explícito; la religión es una respuesta implícita a una pregunta que no sabes cuál es,\"\n→ [El acabóse (32:46)](https://youtu.be/94OQnbWfe1E?t=1966)\n\n> \"La religión exige sometimiento del individuo a lo trascendente; la magia exige el sometimiento de lo exterior al interior del individuo,\"\n→ [El acabóse (32:46)](https://youtu.be/94OQnbWfe1E?t=1966)\n\nLa precisión es crítica para distinguir fenómenos que comparten léxico (lo sobrenatural, el rito, la invocación) pero operan en direcciones opuestas. La religión opera como respuesta implícita: el sujeto no sabe formular la pregunta y la liturgia opera como contestación a algo que precede al lenguaje articulado. La magia opera como búsqueda explícita: el sujeto formula con precisión el efecto deseado y despliega procedimiento para producirlo. La consecuencia operativa es que **religión y magia son no sustituibles**: lo que la religión hace, la magia no puede hacer (no puede responder a preguntas no formuladas), y viceversa.\n\nLa dirección del sometimiento cierra la dialéctica: religión = sumisión vertical del individuo a algo mayor; magia = sumisión horizontal de lo exterior a la voluntad del individuo. La magia es por definición operación de poder; la religión es por definición operación de receptividad.\n\n### Las instituciones religiosas no son mágicas por buscar poder\n\nLa pieza más fina de la articulación corta una falacia común — confundir la institución religiosa con el contenido vivencial de la religión:\n\n> \"Las instituciones religiosas no son mágicas por buscar poder institucional: la distinción opera a nivel de la vivencia individual,\"\n→ [El acabóse (32:46)](https://youtu.be/94OQnbWfe1E?t=1966)\n\n> \"El Vaticano es un estado-país, no es sinónimo de la Iglesia; puede tener dinero como cualquier estado,\"\n→ [El acabóse (40:28)](https://youtu.be/94OQnbWfe1E?t=2428)\n\nLa distinción importa porque permite discriminar críticamente: una institución religiosa que actúa políticamente (busca control, dinero, influencia) está operando en el plano político — pero ese plano es **paralelo al religioso**, no su negación. El Vaticano-estado puede operar como cualquier estado (con dinero, ejército ceremonial, diplomacia) sin que ello implique que la Iglesia-religión sea mágica. La crítica anticlerical clásica colapsa estos planos; la lectura del canal los mantiene separados como condición del análisis.\n\nLa fórmula complementaria fija la frontera política/religiosa:\n\n> \"La política busca el control y el dinero, no la religión; esa es literalmente la definición de política,\"\n→ [El acabóse (40:28)](https://youtu.be/94OQnbWfe1E?t=2428)\n\nLa pieza opera como criterio operativo: cuando una práctica religiosa busca control y dinero, está operando como política, no como religión — y como política puede analizarse sin invocar lo sobrenatural.\n\n### Religión busca armonía; magia canaliza fuerzas\n\nLa segunda formulación articula la relación con lo sobrenatural en términos teleológicos:\n\n> \"La religión busca armonía con Dios; la magia canaliza fuerzas sobrenaturales para utilidad específica,\"\n→ [El acabóse (38:58)](https://youtu.be/94OQnbWfe1E?t=2338)\n\n> \"Cuando alguien reza por una causa, la utilidad está supeditada a la voluntad de Dios, a diferencia de la magia,\"\n→ [El acabóse (38:58)](https://youtu.be/94OQnbWfe1E?t=2338)\n\nLa precisión sobre la oración cierra el caso límite: la oración religiosa puede tener objeto utilitario aparente (rezar por la salud de alguien) sin convertirse en magia, porque la utilidad queda **supeditada** a la voluntad divina — el orante no opera bajo expectativa de control causal. La oración mágica, en cambio, opera como mecanismo causal: el procedimiento debe producir el efecto, y si no lo produce hay un fallo técnico (el ritual mal ejecutado, la fórmula imprecisa) o una resistencia identificable (otra magia mayor, una entidad opuesta). La diferencia se mide en la economía interna de la expectativa: receptividad respetuosa vs cálculo procedimental.\n\n## Estado actual de la Iglesia: renovación vs modernización\n\nDerivada del marco anterior, la lectura del canal sobre la situación contemporánea de la Iglesia Católica articula una distinción operativa entre dos tipos de cambio:\n\n> \"La religión católica se está desmantelando y necesitaría un movimiento de renovación, no de modernización,\"\n→ [El acabóse (38:58)](https://youtu.be/94OQnbWfe1E?t=2338)\n\nLa distinción renovación/modernización opera con la misma lógica que magia/religión: modernizar = adaptarse al ruido externo (cambiar la forma según el zeitgeist), renovar = reactivar la sustancia (recuperar la potencia interna que sostiene la forma). Una Iglesia que se moderniza pierde su función religiosa porque acaba imitando los gestos seculares contemporáneos sin sustento; una Iglesia que se renueva preserva su función reactivando la fuente interna.\n\n## El límite del conocimiento mágico: lo sobrenatural no se aprende\n\nLa pieza filosófica nuclear que cierra la cara magia del marco articula explícitamente qué pretende la magia que la religión no pretende:\n\n> \"Proxy cree en lo sobrenatural pero no en que lo sobrenatural pueda ser aprendido como pretende la magia,\"\n→ [El acabóse (37:53)](https://youtu.be/94OQnbWfe1E?t=2273)\n\n> \"Las creencias existen o no existen; no hay firmeza gradual en ellas,\"\n→ [El acabóse (37:53)](https://youtu.be/94OQnbWfe1E?t=2273)\n\n> \"La naturaleza de lo sobrenatural es indistinguible por medios naturales,\"\n→ [El acabóse (37:53)](https://youtu.be/94OQnbWfe1E?t=2273)\n\n> \"Creer en lo sobrenatural no implica creer que lo sobrenatural pueda ser aprendido, que es la pretensión de la magia,\"\n→ [El acabóse (32:46)](https://youtu.be/94OQnbWfe1E?t=1966)\n\nLa precisión cierra el flanco epistemológico: la magia presupone que lo sobrenatural admite aprendizaje sistemático (procedimientos enseñables, libros que codifican técnicas, escuelas iniciáticas con currículum). El canal niega esa presuposición — no porque niegue lo sobrenatural sino porque sostiene que su naturaleza es indistinguible por medios naturales y por tanto no admite el tipo de codificación que toda enseñanza requiere. Lo que las escuelas mágicas enseñan es **procedimiento sin garantía de referente**: gestos, fórmulas, símbolos cuya conexión con lo sobrenatural es por definición no verificable. La pretensión enseñante es la marca de la magia; la receptividad sin pretensión técnica es la marca de la religión.\n\n## Falacia de atribuir las muertes históricas a la religión\n\nUn corolario operativo del marco corta una falacia retórica frecuente:\n\n> \"La primera causa de muerte en la historia es la muerte natural, seguida de enfermedad y catástrofes naturales,\"\n→ [El acabóse (45:04)](https://youtu.be/94OQnbWfe1E?t=2704)\n\n> \"Las guerras religiosas son históricamente menores que las guerras políticas,\"\n→ [El acabóse (45:04)](https://youtu.be/94OQnbWfe1E?t=2704)\n\n> \"Demonizar una causa porque alguien la usa para hacer el mal es infantil y simplista: la gente mata porque quiere y lo justifica a posteriori,\"\n→ [El acabóse (45:04)](https://youtu.be/94OQnbWfe1E?t=2704)\n\nEl argumento opera estructuralmente: la atribución a la religión de las muertes históricas confunde causa con justificación retroactiva. Las guerras nominalmente religiosas son operacionalmente políticas (control territorial, sucesión dinástica, comercio); el componente religioso opera como justificación post-hoc del acto, no como su causa. El criterio empírico que el speaker invoca (las guerras políticas matan más que las religiosas en el cómputo histórico) refuerza el argumento estructural.\n\nLa pieza complementaria sobre la libertad de discurso cierra el flanco anti-censura:\n\n> \"Los discursos atraen mentes que los van a utilizar para justificarse; eso no invalida el discurso,\"\n→ [El acabóse (48:43)](https://youtu.be/94OQnbWfe1E?t=2923)\n\n> \"La civilización consiste en lidiar con los irracionales, no en callarse para no ofenderlos,\"\n→ [El acabóse (48:43)](https://youtu.be/94OQnbWfe1E?t=2923)\n\n> \"No se puede prohibir decir cosas porque alguien las vaya a malinterpretar,\"\n→ [El acabóse (48:43)](https://youtu.be/94OQnbWfe1E?t=2923)\n\nLa lógica es coherente con el marco religión/política: si la causa de los actos no son las ideas que los justifican sino la voluntad del actor, prohibir las ideas no reduce los actos — solo elimina el justificante de superficie sin tocar el sustrato afectivo. La civilización opera contra los irracionales gestionándolos, no silenciándolos.\n\n## Religiones, verdad y consideración del practicante\n\nUna última precisión operativa que cierra la sección sobre las instituciones:\n\n> \"Las religiones no son verdaderas o falsas: lo verdadero o falso es la consideración del practicante sobre su propia religión,\"\n→ [El acabóse (40:28)](https://youtu.be/94OQnbWfe1E?t=2428)\n\nLa precisión desplaza el predicado de verdad: una religión-como-sistema no es objeto al que aplique 'verdadero' en sentido proposicional; lo que sí admite verdadero/falso es la consideración subjetiva del practicante sobre su propia religión (si la vive con la sustancia que pretende, si su práctica corresponde a lo que profesa, si la creencia está sostenida o es performance). Esta precisión opera como criterio anti-debate-religioso-de-superficie: discutir si el cristianismo o el islam son 'verdaderos' es categorialmente erróneo; lo discutible empíricamente es si un practicante concreto está practicando lo que dice creer.\n\n## La traducción imposible: cadenas bíblicas como caso operativo\n\nEl bloque cierra con una pieza sobre la imposibilidad estructural de la traducción perfecta, aplicada al caso de las traducciones bíblicas:\n\n> \"Existe discrepancia entre traducciones desde la Vulgata y desde el hebreo/arameo,\"\n→ [El acabóse (49:44)](https://youtu.be/94OQnbWfe1E?t=2984)\n\n> \"La traducción perfecta es imposible: se traduce el lenguaje externo pero no el lenguaje interno ni las representaciones,\"\n→ [El acabóse (49:44)](https://youtu.be/94OQnbWfe1E?t=2984)\n\n> \"Las Biblias provienen de cadenas de traducción distintas: arameo-castellano, griego-castellano, griego-inglés-castellano,\"\n→ [El acabóse (49:44)](https://youtu.be/94OQnbWfe1E?t=2984)\n\nLa pieza importa porque articula explícitamente la consecuencia operativa de la tesis del lenguaje como algoritmo de compresión que [[teoria-del-simbolo-en-proxy]] desarrolla teóricamente: la traducción opera sobre el lenguaje externo (significantes, sintaxis), no sobre el lenguaje interno (matriz noética, componentes Q implícitas). Toda traducción comprime y descomprime con pérdida estructural ineliminable. El caso bíblico es paradigmático porque las cadenas de traducción son largas (arameo→griego→latín→inglés→castellano en algunas ediciones) y cada eslabón añade pérdida; las discrepancias entre traducciones desde la Vulgata vs desde el hebreo/arameo no son errores corregibles sino consecuencia estructural del proceso. La consecuencia para la lectura religiosa: ningún texto sagrado contemporáneo opera con el lenguaje interno del original, por dedicado que sea su trabajo filológico.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 1966,
+          "cite_markdown": "[El acabóse (32:46)](https://youtu.be/94OQnbWfe1E?t=1966)"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 2273,
+          "cite_markdown": "[El acabóse (37:53)](https://youtu.be/94OQnbWfe1E?t=2273)"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 2338,
+          "cite_markdown": "[El acabóse (38:58)](https://youtu.be/94OQnbWfe1E?t=2338)"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 2428,
+          "cite_markdown": "[El acabóse (40:28)](https://youtu.be/94OQnbWfe1E?t=2428)"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 2704,
+          "cite_markdown": "[El acabóse (45:04)](https://youtu.be/94OQnbWfe1E?t=2704)"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 2923,
+          "cite_markdown": "[El acabóse (48:43)](https://youtu.be/94OQnbWfe1E?t=2923)"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 2984,
+          "cite_markdown": "[El acabóse (49:44)](https://youtu.be/94OQnbWfe1E?t=2984)"
+        }
+      ],
+      "rationale": "La página actual articula extensamente la cara magia del marco (sofisma poético, taxonomía esotérica, oráculo, locus externo, hippies). Le falta la pieza fundacional: la dialéctica magia/religión que define negativamente el dominio de la magia. Este vídeo aporta esa contraparte completa con seis sub-piezas: definición por dirección de sometimiento, instituciones-no-mágicas-por-buscar-poder-institucional, religión-armonía vs magia-utilidad, renovación vs modernización, límite del conocimiento mágico (lo sobrenatural no se aprende), falacia de atribuir muertes históricas a religión, y traducción bíblica como caso operativo. Sin esta dialéctica la página queda asimétrica — articula contra qué se opone la magia postmoderna sin articular qué define lo opuesto. Anchor único es la última frase del bloque locus externo añadido en el batch anterior (Lilit). La inserción amplía el aparato hacia su pieza fundacional que faltaba.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "del-origen-del-mal-libro",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "puede referenciar este libro como su locus editorial canónico cuando esté publicado.",
+      "content_proposed": "\n\n## El portafolio editorial completo: Del origen del mal entre cinco proyectos\n\nEn el directo *El acabóse* (3 oct 2024) — anterior al cierre de la redacción de Del origen del mal — el canal enumera el portafolio editorial completo en proceso. *Del origen del mal* es uno de varios proyectos en simultáneo, no obra aislada:\n\n> \"Lista: libro sobre la magia, una novela, un videojuego sobre el mismo tema, \\\"La casa, el árbol y el laberinto\\\" (teoría cognitiva), y recopilación de mitos y Disney,\"\n→ [El acabóse (36:53)](https://youtu.be/94OQnbWfe1E?t=2213)\n\nLos cinco proyectos articulan el espectro temático del corpus del canal:\n\n- **Libro sobre la magia**: tratamiento monográfico del aparato magia-postmoderna que [[magia-postmoderna-en-proxy]] articula en wiki. Distinto de Del origen del mal — el segundo trata el origen del mal como pregunta filosófico-arquetípica, el primero la magia como dispositivo cultural-procedimental. En esta sesión el speaker reportaba ya cuatro voluntarios para corrección.\n- **Novela**: pendiente de identificación temática.\n- **Videojuego sobre el mismo tema**: presumiblemente sobre la magia o adyacente. La práctica del canal de articular la misma materia en formatos múltiples (libro divulgativo + obra ficcional + experiencia interactiva) sigue la lógica de la teoría del símbolo del canal — distintos componentes Q (formal-discursivo / imaginario-narrativo / procedimental-interactivo) requieren vehículos formales distintos para ambiguar el mismo contenido.\n- **'La casa, el árbol y el laberinto' (teoría cognitiva)**: obra dedicada al aparato cognitivo del canal, presumiblemente la articulación monográfica del marco que en wiki articulan [[teoria-del-simbolo-en-proxy]], [[realismo-cognitivo]] y [[golem-de-cobre]]. El título sugiere una imagen-guía con tres elementos espaciales (casa = morada-marco; árbol = estructura-crecimiento; laberinto = exploración-resolución) que mapearía el aparato cognitivo a una topología arquetípica.\n- **Recopilación de mitos y Disney**: análisis del corpus disneyano leído arquetípicamente. La fuente más obvia para esta recopilación son los análisis monográficos del canal sobre películas Disney (Frozen, Tarzán, La Sirenita, Inside Out — todas con páginas wiki).\n\n## El podcast como mecanismo de obligación editorial\n\nLa pieza meta-editorial complementaria explicita la función del formato directo en relación con la escritura:\n\n> \"El podcast sirve como mecanismo para obligarse a escribir el material,\"\n→ [El acabóse (36:53)](https://youtu.be/94OQnbWfe1E?t=2213)\n\nLa precisión es genealógicamente importante para el corpus del canal: los directos no son productos finales sino dispositivos de elaboración pública que el speaker usa para forzar la articulación verbal del material que después decantará como pieza editorial. Esto explica por qué el corpus de directos contiene articulaciones reiteradas y refinadas progresivamente del mismo aparato — el formato directo opera como **borrador pensado en voz alta** que el formato libro fija como redacción cerrada.\n\nLa consecuencia editorial para este wiki es operativa: las páginas synthesis del corpus (esta página, [[teoria-del-simbolo-en-proxy]], [[golem-de-cobre]], [[diagrama-de-proxy]], [[galatea-modelo-protomente]]) operan como índice transversal del material que distintos libros del portafolio cubrirán por separado. El wiki es por tanto **previo y paralelo** a la articulación libresca, no posterior a ella.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "magia-postmoderna-en-proxy",
+        "teoria-del-simbolo-en-proxy",
+        "realismo-cognitivo",
+        "golem-de-cobre",
+        "diagrama-de-proxy",
+        "galatea-modelo-protomente"
+      ],
+      "citations_added": [
+        {
+          "video_id": "94OQnbWfe1E",
+          "timestamp_seconds": 2213,
+          "cite_markdown": "[El acabóse (36:53)](https://youtu.be/94OQnbWfe1E?t=2213)"
+        }
+      ],
+      "rationale": "La página presenta Del origen del mal como obra editorial singular. Este vídeo (oct 2024) revela que es uno de cinco proyectos editoriales en curso del canal: libro sobre la magia, novela, videojuego, 'La casa, el árbol y el laberinto' (teoría cognitiva), recopilación mitos+Disney. Información meta-editorial relevante que sitúa la obra en el portafolio completo y abre flagging de futuros wikilinks rotos a otros proyectos. La pieza complementaria sobre el podcast como mecanismo de obligación editorial es genealógicamente importante para entender la relación corpus-de-directos / libros / wiki. Inserción al final de la sección 'Lugar en el corpus del canal' antes de Lagunas.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Audio del delegado de gobierno (testimonio personal Proxy en 15M)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Testimonio personal sobre conversaciones con el gabinete del delegado de gobierno durante el 15M. Capturado integralmente en el promote_new psicologia-del-activista-en-proxy. NO es politiqueo de actualidad partidista (>12 años de antigüedad, marco analítico-psicológico aplicado).",
+      "quote_evidence": "El jefe de gabinete del delegado de gobierno pidió a Proxy que la acampada aguantara una o dos semanas más para impedir la procesión del Corpus,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicologia-del-activista-en-proxy"
+    },
+    {
+      "surface_form": "Salida de los infiernos: escindirse contra la propia mente",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Pieza ~4 min sobre extensión intra-psíquica de la excisión (luchar contra la propia mente con inteligencia, no con esperanza ni compasión). Conexión clara con excision-psicologica como extensión semántica del concepto, pero página no leída en esta sesión — no propongo update sin lectura completa para evitar duplicar prosa. Material relevante también para individuation y herida-narcisista-en-proxy.",
+      "quote_evidence": "Una mente potente que te putea requiere escindirte y luchar contra tu propia mente con inteligencia, no con esperanza ni buena voluntad,",
+      "review_priority": "medium",
+      "review_priority_reason": "Extensión intra-psíquica del concepto excisión que la página actual no parece cubrir según índice; merece revisión humana para enriquecer en próximo batch",
+      "enriches_concept": "excision-psicologica"
+    },
+    {
+      "surface_form": "Ocupas y Frente Obrero contemporáneos: rebeldes sin riesgo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza sobre la fenomenología contemporánea del rebelde-sin-riesgo capturada operativamente en psicologia-del-activista-en-proxy. NO propongo update separado a woke-narrativa-postmoderna-moral sin haber leído la página completa en esta sesión.",
+      "quote_evidence": "Los ocupas actuales tienen cero riesgo real y se creen rebeldes al sistema,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material que conecta woke postmoderno con perfil disocial activista; pendiente enriquecimiento humano cruzando ambas páginas",
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Falacia de atribuir muertes históricas a la religión",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Argumento operativo contra la falacia de demonizar la religión por sus supuestas atrocidades históricas. Capturado como pieza en update a magia-postmoderna-en-proxy (donde refuerza la distinción religión/política). No constituye concepto enciclopédico autónomo.",
+      "quote_evidence": "Las guerras religiosas son históricamente menores que las guerras políticas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "Imposibilidad de la traducción perfecta (cadenas bíblicas)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Pieza sobre imposibilidad estructural de la traducción perfecta y cadenas históricas de traducción bíblica. Aplicación operativa de la tesis del lenguaje como algoritmo de compresión articulada en teoria-del-simbolo-en-proxy. Capturada en update a magia-postmoderna-en-proxy con wikilink a teoria-del-simbolo-en-proxy. No promueve concepto propio.",
+      "quote_evidence": "La traducción perfecta es imposible: se traduce el lenguaje externo pero no el lenguaje interno ni las representaciones,",
+      "review_priority": "medium",
+      "review_priority_reason": "Aplicación interesante de teoria-del-simbolo-en-proxy al caso bíblico — pendiente revisión humana para decidir si enriquece esa página",
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Adherencia y censura de discursos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento retórico contra la censura preventiva ('la civilización consiste en lidiar con los irracionales, no en callarse para no ofenderlos'). Mencionado brevemente como pieza adyacente al bloque magia/religión. Capturado en update a magia-postmoderna-en-proxy.",
+      "quote_evidence": "La civilización consiste en lidiar con los irracionales, no en callarse para no ofenderlos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "Inteligencia y salida de los infiernos",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Bloque ~4 min sobre inteligencia entendida como capacidad de cambiar la propia circunstancia. Material relevante para excision-psicologica e individuation pero NO promueve página propia — son aplicaciones operativas de conceptos canonizados. Pendiente integrar como enrichment en próximo batch con lectura completa de páginas relacionadas.",
+      "quote_evidence": "Lo que va con la inteligencia es la capacidad de cambiar tu propia circunstancia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material valioso para excision-psicologica e individuation; pendiente enrichment humano",
+      "enriches_concept": "excision-psicologica"
+    },
+    {
+      "surface_form": "Estado actual de la Iglesia Católica (renovación vs modernización)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Diagnóstico breve sobre el estado de la Iglesia con la distinción operativa renovación/modernización. Capturado en update a magia-postmoderna-en-proxy como pieza del bloque religión. No merece página propia con solo este tratamiento.",
+      "quote_evidence": "La religión católica se está desmantelando y necesitaría un movimiento de renovación, no de modernización,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el canal desarrolla la dialéctica renovación/modernización en otro vídeo, podría merecer página propia o enriquecer una página sobre la Iglesia contemporánea",
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "CNI y policía secreta en acampadas 15M",
+      "reason_code": "passing_mention",
+      "reason_detail": "Testimonio sobre presencia documentada del CNI en acampadas. Capturado en promote_new psicologia-del-activista-en-proxy como pieza del análisis del 15M. No constituye entidad enciclopédica autónoma.",
+      "quote_evidence": "En todas las acampadas había al menos una tienda de policía secreta, generalmente una pareja hombre-mujer vestidos de hippies,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicologia-del-activista-en-proxy"
+    },
+    {
+      "surface_form": "Libro sobre la magia (proyecto pendiente del canal)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Proyecto editorial pendiente del canal mencionado en la lista de cinco obras en curso. Sin contenido concreto desarrollado en este vídeo más allá del título y la noticia de cuatro voluntarios para corrección. Capturado en update a del-origen-del-mal-libro como pieza del portafolio editorial. Si futuros vídeos desarrollan estructura concreta o publicación, promover como entity_work.",
+      "quote_evidence": "Ya tiene cuatro voluntarios para la corrección del libro sobre magia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Libro paralelo a Del origen del mal cuyo tratamiento monográfico de la magia podría operar como locus editorial canónico para magia-postmoderna-en-proxy cuando se publique",
+      "enriches_concept": "del-origen-del-mal-libro"
+    },
+    {
+      "surface_form": "La casa, el árbol y el laberinto (teoría cognitiva, proyecto)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Obra editorial pendiente del canal sobre teoría cognitiva. Solo título y descripción genérica disponibles aquí. Capturado en update a del-origen-del-mal-libro. Si futuros vídeos desarrollan la imagen-guía (casa/árbol/laberinto como topología arquetípica del aparato cognitivo) o publicación, promover como entity_work — operaría como locus editorial de teoria-del-simbolo-en-proxy y realismo-cognitivo.",
+      "quote_evidence": "\"La casa, el árbol y el laberinto\" (teoría cognitiva),",
+      "review_priority": "medium",
+      "review_priority_reason": "Obra que articularía monográficamente el aparato cognitivo del canal — locus editorial potencial para varias páginas synthesis",
+      "enriches_concept": "del-origen-del-mal-libro"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 12,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_processing_notes": "Vídeo de 119 min con dos ejes principales: (1) bloque magia vs religión + falacias asociadas (~25 min, central para magia-postmoderna-en-proxy), (2) bloque psicología del activismo + 15M testimonial (~30 min, promueve nueva synthesis psicologia-del-activista-en-proxy con auto_promoted_synthesis: true). Bloque menor: portafolio editorial (5 proyectos del canal, enriquece del-origen-del-mal-libro). El 15M es de 2011 (>12 años) y se trata como caso testimonial-analítico, no actualidad partidista — IN-scope per scope.md §3.1 criterios 1, 2, 3. Múltiples piezas valiosas (escisión intra-psíquica, ocupas como rebeldes sin riesgo, traducción imposible, renovación vs modernización) se descartan como passing/enrichment_candidate por no haber leído las páginas relacionadas en esta sesión — riesgo de duplicar prosa al actualizar a ciegas."
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Psicología del activista político: 15M, captación tipo secta, perfil disocial] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

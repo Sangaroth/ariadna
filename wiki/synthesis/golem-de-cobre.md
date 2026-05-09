@@ -877,6 +877,46 @@ La observación complementaria — no existen prótesis sustitutivas del cerebro
 
 La predicción cierra coherentemente el marco IA/cognición de la página: si la IA singular sería paradójicamente lo más opuesto al cerebro humano (porque el cerebro es falible y la máquina no), la BCI sería el caso clínico de esa oposición forzada a coexistir en un único sustrato — y el resultado predicho es estructuralmente psicótico.
 
+
+
+## Paradigma de Penrose y la distinción determinismo / computabilidad
+
+En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa la barrera estructural máquina/mente humana en términos categoriales que el aparato anterior dejaba implícitos. La página articula la crítica al paradigma Turing extensamente; aquí se nombra explícitamente el paradigma contrario y se introduce una distinción modal que el marco necesitaba para cerrar el flanco contra el reduccionismo computacional.
+
+### Paradigma de Penrose: indistinguibilidad solo aparente
+
+> "La inteligencia artificial es indistinguible de la real solo en apariencia (paradigma de Penrose),"
+→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)
+
+La formulación nombra al paradigma anti-Turing como 'paradigma de Penrose' — Roger Penrose como referencia de la posición que sostiene que la indistinguibilidad funcional desde fuera no implica identidad de naturaleza. La precisión cierra una asimetría nominal del marco: la página invocaba 'paradigma Turing' por nombre y dejaba el contrapunto sin etiqueta. La etiqueta 'paradigma de Penrose' fija el polo contrario como posición filosófica con genealogía propia, no como mera negación.
+
+### Reducción a Turing como criterio de exclusión
+
+> "Todo proceso reducible a máquinas de Turing no tiene nada que ver con la naturaleza del pensamiento humano,"
+→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)
+
+La formulación es categórica y opera como criterio operativo de exclusión: cualquier proceso que admita reducción a máquina de Turing queda fuera del rango de la cognición humana — no por escala (procesos masivos podrían en principio aproximar comportamiento humano) sino por naturaleza ontológica. La pieza refuerza la fórmula 'la IA nunca será como una mente humana y la mente humana nunca fue como una máquina' que la página ya articulaba, anclándola en la teoría matemática de la computación.
+
+### Determinismo no implica computabilidad
+
+La pieza teóricamente más decisiva que el directo añade es una distinción modal explícita entre dos propiedades que el debate IA/cerebro tiende a confundir:
+
+> "Ambos sistemas son deterministas por estar basados en las mismas leyes físicas,"
+→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)
+
+> "La diferencia está en órdenes de magnitud de clase de complejidad en teoría de la información,"
+→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)
+
+> "Que algo sea determinista no implica que sea computable,"
+→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)
+
+La distinción cierra un flanco que el reduccionismo computacional explota: el cerebro humano y la IA son ambos sistemas físicos deterministas — operan bajo las mismas leyes físicas y todos sus estados son función de estados anteriores. De ahí el reduccionista deriva 'luego son equivalentes en principio'. La precisión del canal corta el paso: **determinismo y computabilidad son propiedades distintas**. Un sistema puede ser completamente determinista y a la vez no admitir simulación computacional fiel — porque la complejidad de su descripción crece más rápido que cualquier máquina de Turing puede procesar (clase de complejidad fuera de P, fuera incluso de NP en ciertos casos).
+
+La diferencia entre cerebro humano y máquina actual no es categorial en lo determinista (ambos lo son) sino en órdenes de magnitud de clase de complejidad de teoría de la información. La cognición humana opera en una clase computacional fuera del rango ejecutable por arquitecturas de Turing en tiempo razonable — y posiblemente fuera del rango computable absolutamente, si su descripción exacta requiere recursión infinita o variables continuas no discretizables sin pérdida estructural.
+
+La pieza completa el aparato anti-computacional del marco: la barrera no es solo de afectos (frontera ontológica), no es solo de embodiment (frontera somática), no es solo de geometría representacional (convergencia parcial vía embeddings universales documentada en [[galatea-modelo-protomente]]). Es además barrera modal de complejidad — la cognición humana puede ser determinista bajo leyes físicas y simultáneamente no computable, igual que ciertos números reales son determinados pero no computables.
+
+
 ## Lagunas
 
 - **Sustento empírico de la tríada representacional**: el speaker articula imaginaria/formal/afectiva como categorías operativas pero no detalla qué evidencia neurocientífica concreta (estudios BOLD, dobles disociaciones, imagen funcional) sustentaría la tripartición frente a alternativas.

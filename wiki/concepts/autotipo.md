@@ -78,14 +78,47 @@ El concepto opera como herramienta diagnóstica de la degradación del [[mito-mo
 
 De ahí la lectura del canal sobre el sacrificio final de Harry, que en la misma sesión describe como inevitabilidad estructural y no como transformación heroica: cuando el material es autotípico, hasta el clímax sacrificial pierde su carga simbólica.
 
+
+
+## Autotipia en mitología New Age y truncamientos modernos
+
+La categoría se aplica fuera del corpus literario de masas a dos fenómenos contemporáneos donde el canal diagnostica autotipia masiva: la mitología New Age y los héroes truncados fabricados por extracción de contexto.
+
+### Mitología New Age como autotipia estructural
+
+> "La mitología New Age es frecuentemente autotipia, fantasía ausente de arquetipia real,"
+→ [Directo casual (19:12)](https://youtu.be/ECN5C9rsaZg?t=1152)
+
+El diagnóstico aplica al constructo Lilit moderno, a la figura de Hermes Trismegisto como inversión sintética de la suma sacerdotisa, y a las pseudoentidades del satanismo moderno: significantes que pretenden nombrar arquetipos sin tener prototipia mítica genuina detrás. La operación es la misma que en Harry Potter (el nombre coincide con el rasgo) extendida del plano onomástico al plano teológico.
+
+### Afecto infantil elevado a historia arquetípica
+
+El mecanismo psicogenético de la autotipia se hace explícito en una de las piezas más operativas del directo: la herida narcisista personal proyectada como mito produce material autotípico por construcción.
+
+> "Si elevas un afecto infantil (como la herida narcisista contra el padre) a historia arquetípica, el resultado es completamente autotípico,"
+→ [Directo casual (48:28)](https://youtu.be/ECN5C9rsaZg?t=2908)
+
+> "Un truncamiento es un héroe truncado al que se le quita el contexto y se reelabora iconotrópicamente,"
+→ [Directo casual (48:28)](https://youtu.be/ECN5C9rsaZg?t=2908)
+
+> "La proyección infantil genera prototipos fallidos que no dan pie con bola mitológicamente,"
+→ [Directo casual (48:28)](https://youtu.be/ECN5C9rsaZg?t=2908)
+
+La pieza articula la diferencia entre [[heroe-truncado|héroe truncado genuino]] (Azulín, Vader: el viaje del héroe se trunca dentro de un contexto coherente) y truncamiento autotípico (la figura es fabricada por extracción de contexto y reelaboración iconotrópica del material original). El primero conserva dignidad trágica porque mantiene el armazón del viaje; el segundo solo conserva la postura, no la estructura.
+
+La consecuencia editorial es que la cadena `arquetipo → prototipo → estereotipo → autotipo` se completa con un movimiento adicional: la autotipia no solo es degradación pasiva de material previo, también puede ser fabricación activa cuando un afecto personal infantil se mitologiza sin haber pasado por la mediación arquetípica genuina.
+
+
 ## Lagunas
 
 - **Genealogía teórica del término**: el canal usa "autotipia" como categoría establecida sin atribuirla. Pendiente confirmar si es acuñación propia, semiótica clásica reapropiada (Peirce, Hjelmslev) o reformulación de "tipo" en sentido weberiano
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Aplicación fuera de Harry Potter**: la exposición sostenida del concepto se co -->
 - **Aplicación fuera de Harry Potter**: la exposición sostenida del concepto se concentra en el análisis de la saga; faltan otros casos donde el canal diagnostique autotipia (Marvel post-2012, sagas YA, animación reciente)
 - **Frontera con el alegorismo medieval**: el procedimiento de "el nombre dice el rasgo" tiene tradición larga (autos sacramentales, *Pilgrim's Progress*). Pendiente clarificar qué distingue autotipo moderno de alegoría premoderna en la lectura del canal
 - **Relación con el [[consumismo-critica]]**: cabe explorar si el autotipo es síntoma específico de la lógica de franquicia industrial o si admite también casos no comerciales
 
 ## Citations
+
 
 
 
@@ -98,3 +131,5 @@ De ahí la lectura del canal sobre el sacrificio final de Harry, que en la misma
 
 
 - **Análisis arquetípico Frozen** — chunks: [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
+- **Directo casual** — chunks: [19:12](https://youtu.be/ECN5C9rsaZg?t=1152) · [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
+

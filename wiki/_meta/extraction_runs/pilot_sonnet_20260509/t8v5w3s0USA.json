@@ -1,0 +1,734 @@
+{
+  "video_id": "t8v5w3s0USA",
+  "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "Galatea: lenguaje ejecutable, embeddings universales, hipótesis platónica",
+      "canonical_guess": "galatea-modelo-protomente",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "minutes_estimate": 50,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "Galatea busca construir un pseudocódigo que contenga las reglas del pensamiento humano,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "No es un programa sino un lenguaje ejecutable en máquina con mínima simulación y máxima emulación,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Se puede alimentar una IA con embeddings en lugar de datos, encontrando patrones del pensamiento mismo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Galatea ya tiene página densa con metagrafo de 8 nodos, hidrozoario, batería de Panksepp y cálculo lambda. Vídeo aporta material genuinamente nuevo: (a) caracterización 'no es programa, es lenguaje ejecutable con mínima simulación y máxima emulación' que precisa el estatuto de Galatea más allá del pseudocódigo Python; (b) LISP nombrado explícitamente como ejemplo de lenguaje cálculo-lambda más cercano a la cognición; (c) conexión con el paper Vec2Vec sobre embeddings universales entre LLMs como sustento empírico independiente del proyecto; (d) hipótesis representacional platónica fuerte (idioma prebabélico de máquina) como tesis filosófica que enmarca Galatea; (e) Lakoff y modelos cognitivos encarnados como referencia teórica articulada con embeddings; (f) tesis 'se puede alimentar una IA con embeddings en lugar de datos' como nueva metodología derivada del paper.",
+      "quote_evidence": "Galatea busca construir un pseudocódigo que contenga las reglas del pensamiento humano,"
+    },
+    {
+      "surface_form": "El pensamiento humano no es computable (paradigma de Penrose, determinismo no implica computabilidad)",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "minutes_estimate": 8,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Todo proceso reducible a máquinas de Turing no tiene nada que ver con la naturaleza del pensamiento humano,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Que algo sea determinista no implica que sea computable,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Golem-de-cobre cubre extensamente la crítica al paradigma Turing y la distinción simulación/emulación. Faltan tres piezas que este vídeo introduce explícitamente: (1) el 'paradigma de Penrose' como contrapunto nominal al paradigma Turing (diferencia entre apariencia funcional y naturaleza), (2) la distinción categorial determinismo/computabilidad — el cerebro humano y la IA son ambos deterministas físicamente, pero ello no implica que el primero sea computable, (3) la articulación de la barrera en términos de órdenes de magnitud de clase de complejidad de teoría de la información, no en términos puramente cualitativos.",
+      "quote_evidence": "La diferencia está en órdenes de magnitud de clase de complejidad en teoría de la información,"
+    },
+    {
+      "surface_form": "Mito solar: secuencia caída-camino-muerte-apoteosis",
+      "canonical_guess": "mito-solar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página de mito-solar tiene laguna explícita: 'Muerte y renacimiento como pieza estructural: declarado como pieza del ciclo en la decision_reason del candidato pero el fragmento no contiene cita literal sobre la fase de descenso/renacimiento solar — pendiente recuperar el material correspondiente'. Este vídeo articula la secuencia completa del mito solar en cuatro fases canónicas (caída-camino-muerte-apoteosis), refutando esa laguna. Las fases muerte y apoteosis son precisamente las que faltaban.",
+      "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+    },
+    {
+      "surface_form": "Mito lunar: secuencia despertar-creación-caída-luna roja-exorcismo",
+      "canonical_guess": "mito-lunar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Mito lunar está en canonical_whitelist con auto_promote: true (channel_specific_concepts y referenciado desde múltiples páginas como wikilink roto). Este vídeo aporta la secuencia completa del mito lunar en cinco fases (despertar-creación-caída-luna roja-exorcismo) — la articulación más explícita en el corpus. Cumple el criterio de promoción automática por whitelist + tratamiento sustantivo (≥3 min de exposición). Crear stub mínimo con la secuencia y la composición polar.",
+      "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+    },
+    {
+      "surface_form": "Mitos primarios canónicos del libro Del origen del mal (lista de 6)",
+      "canonical_guess": "collective-unconscious",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "minutes_estimate": 5,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página tiene laguna explícita sobre 'Listado completo de los ~30 arquetipos principales' y articulación distinta de los mitos primarios ('masculino/femenino, mito polar, mito del mago, mito del héroe, mito de la diosa, Génesis, Apocalipsis'). Este vídeo articula la lista canónica en seis piezas (solar, lunar, polar, mago, apocalipsis, génesis) atribuida explícitamente al libro 'Del origen del mal' del canal — formulación más reducida y operativa que sustituye 'masculino/femenino' por la triada solar/lunar/polar y elimina 'héroe/diosa' como mitos independientes (quedan absorbidos en solar/lunar). Refuta parcialmente la laguna.",
+      "quote_evidence": "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+    },
+    {
+      "surface_form": "Mito del mago, lemniscata y los cuatro cuadrantes (activo divino / pasivo divino / pasivo mágico / activo mágico)",
+      "canonical_guess": "tarot-arquetipico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El esquema incluye cuatro cuadrantes: activo divino (religión), pasivo divino (mística), pasivo mágico (encuentro sobrenatural) y activo mágico (ritual),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página de tarot-arquetipico tiene Man of Steel y Lebowski como recorridos completos de los 22 arcanos pero no articula el arcano del Mago aisladamente ni la iconografía de la lemniscata como corona del infinito. Este vídeo aporta: (a) la secuencia interna del mito del mago (encuentro con lo sobrenatural, iluminación y poder), (b) la iconografía específica de la portada del libro Del origen del mal con la lemniscata como símbolo del infinito-corona, (c) el esquema cuatripartito de relación con lo sobrenatural (activo/pasivo × divino/mágico) que mapea religión/mística/encuentro/ritual.",
+      "quote_evidence": "La portada del libro representa al mago del tarot con la lemniscata (símbolo del infinito como corona),"
+    },
+    {
+      "surface_form": "Esquema cosmológico tres niveles del libro: uránico/ctónico/telúrico",
+      "canonical_guess": "uranico-telurico-cetonico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 1,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página existe con la triada uránico/telúrico/cetónico ya articulada. El vídeo confirma la triada como esquema cosmológico explícito del libro 'Del origen del mal' (información estructural sobre el libro, no nueva sobre la triada misma). Vale la pena añadir nota breve sobre que este es el esquema cosmológico canónico del libro publicado, asignando la triada a su locus textual definitivo. El vídeo usa 'ctónico' (variante ortográfica ya en aliases).",
+      "quote_evidence": "El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),"
+    },
+    {
+      "surface_form": "Pérdida de la inocencia: estado, no categoría ética",
+      "canonical_guess": "perdida-inocencia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 12,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La inocencia no es una categoría ética sino un estado que abarca múltiples sentidos,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La inocencia debe perderse cuando cuerpo, mente o alma están preparados para las consecuencias,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La corrupción es un tipo específico de pérdida de inocencia donde el mal entra en el sujeto,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Bloque de ~12 min sostenidos articulando una distinción canal-específica entre inocencia (estado), ingenuidad (déficit de información, su pérdida es siempre positiva), corrupción (forma específica de pérdida donde el mal entra en el sujeto) y un criterio de preparación (cuerpo, mente o alma preparados para las consecuencias). Cumple criterio de monográfico mínimo (≥10 min) sobre concepto con framing-mark explícito y estructura interna articulada. No hay página existente que capture esta distinción operativa. Promover como stub para que vídeos futuros la enriquezcan; review_status: stub_in_session, pendiente revisión humana.",
+      "quote_evidence": "La inocencia no es una categoría ética sino un estado que abarca múltiples sentidos,"
+    },
+    {
+      "surface_form": "Del origen del mal (libro propio del canal)",
+      "canonical_guess": "del-origen-del-mal-libro",
+      "page_type": "entity_work",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 25,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "El libro tiene casi todos los capítulos escritos excepto uno entero y dos medios capítulos,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Libro en proceso de escritura del canal Proxy, mencionado como obra propia con estructura editorial concreta: 6 mitos primarios canónicos (solar, lunar, polar, mago, apocalipsis, génesis), esquema cosmológico tripartito (uránico/ctónico/telúrico), portada con el mago del tarot y la lemniscata, casi todos los capítulos escritos. Es artefacto editorial primario del canal — no obra analizada sino obra autoría — que múltiples páginas existentes deberían poder wikilinkar como locus textual de las tesis del canal. Promover como entity_work stub con read_in_session: false (no se lee en directo, solo se describe). Caso especial: el libro funciona como meta-índice del corpus arquetípico-cognitivo del canal.",
+      "quote_evidence": "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+    },
+    {
+      "surface_form": "Audio filtrado de Pedro Sánchez con Santos Cerdán y Leire",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 6,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Politiqueo de actualidad partidista española sin marco analítico aplicado — uso meramente cómico como intro en bucle. Match explícito con topic_filters.json patrón sobre actualidad política española (s[aá]nchez). Filtrado.",
+      "quote_evidence": "Proxy lo usa como intro cómica en bucle antes de comenzar el directo,"
+    },
+    {
+      "surface_form": "George Lakoff y los modelos cognitivos encarnados",
+      "canonical_guess": "lakoff-george",
+      "page_type": "author",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lakoff propone que todos los conceptos están encarnados respecto a su significado,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Lakoff figura de la lingüística cognitiva (modelos cognitivos encarnados, metáforas de la vida cotidiana) — relevante al marco del canal sobre realismo cognitivo y semántica encarnada, pero sin tratamiento sustantivo aquí (~3 min, mención bibliográfica). Material capturado como pieza en el update a galatea-modelo-protomente. Candidato a futura whitelist soft si reaparece con desarrollo o lectura aplicada propia del canal.",
+      "quote_evidence": "Conexión con el artículo: los embeddings de embeddings serían una versión computacional de esta encarnación,",
+      "review_priority": "medium",
+      "review_priority_reason": "Lingüista cognitivo cuya tesis encarnacionista converge con realismo cognitivo del canal — candidato whitelist soft para futuras menciones",
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Roger Penrose (paradigma)",
+      "canonical_guess": "penrose-roger",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 1,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La inteligencia artificial es indistinguible de la real solo en apariencia (paradigma de Penrose),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Penrose invocado nominalmente para etiquetar el paradigma anti-Turing (la IA es indistinguible solo en apariencia). Sin desarrollo sustantivo de su obra (Emperor's New Mind, microtúbulos cuánticos). Material capturado como pieza nominal en update a golem-de-cobre. Candidato a futura whitelist soft.",
+      "quote_evidence": "La inteligencia artificial es indistinguible de la real solo en apariencia (paradigma de Penrose),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Vec2Vec / paper sobre embeddings universales entre LLMs",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "minutes_estimate": 13,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Un tercer algoritmo (Vec2Vec) relaciona los embeddings de ambos sin acceso a los textos originales,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Paper técnico citado como sustento empírico de la hipótesis platónica fuerte y del proyecto Galatea. No es entidad enciclopédica del wiki sino referencia bibliográfica externa. Material conceptual capturado en update a galatea-modelo-protomente.",
+      "quote_evidence": "Demuestra que existe una estructura de codificación común a cualquier IA de LLM,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    }
+  ],
+  "promote_new_pages": [
+    {
+      "page_id": "mito-lunar",
+      "frontmatter": {
+        "page_id": "mito-lunar",
+        "page_type": "concept",
+        "canonical_name": "Mito lunar",
+        "aliases": [
+          "mito lunar",
+          "diosa lunar",
+          "ciclo lunar",
+          "mito de la diosa cíclica"
+        ],
+        "domain_primary": "humanities.religion",
+        "primary_domains": [
+          "humanities.religion",
+          "social.psychology.jungian"
+        ],
+        "relations": [
+          {
+            "type": "compared_with",
+            "to": "mito-polar",
+            "weight": "canonical",
+            "note": "el mito lunar es uno de los dos polos cíclicos cuya conjunción con el solar produce el polar"
+          },
+          {
+            "type": "compared_with",
+            "to": "mito-solar",
+            "weight": "canonical",
+            "note": "complementario; el solar es el viaje masculino cíclico, el lunar la gracia femenina cíclica"
+          },
+          {
+            "type": "contained_in",
+            "to": "collective-unconscious",
+            "weight": "strong",
+            "note": "uno de los seis mitos propios primarios canónicos del libro Del origen del mal"
+          },
+          {
+            "type": "references",
+            "to": "anima-archetype",
+            "note": "manifestación cosmológica del polo femenino del psiquismo"
+          }
+        ],
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body": "# Mito lunar\n\n## Definición\n\nEl mito lunar es la estructura mítica del femenino arquetípico cíclico — el polo complementario del [[mito-solar|mito solar]] dentro de la triada cosmogónica solar/lunar/polar del canal. Donde el solar articula el viaje masculino del sacrificio y la apoteosis, el lunar articula la gracia femenina de la espera, la creación y la regeneración cíclica. Su conjunción con el solar produce el [[mito-polar|mito polar]] como tercer camino transformador.\n\n## La secuencia canónica del mito lunar\n\nEl canal articula la secuencia interna del mito lunar en cinco fases canónicas en su libro Del origen del mal:\n\n> \"El mito lunar: despertar-creación-caída-luna roja-exorcismo,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nLas cinco fases articulan una progresión interna distinta de la solar (caída-camino-muerte-apoteosis): el lunar comienza con el despertar (toma de conciencia femenina), pasa a la creación (potencia generativa), atraviesa la caída (la mancha o herida) y la luna roja (la fase oscura, sangrienta, menstrual-cosmológica), para culminar en el exorcismo (purificación y restauración del ciclo). La pieza importa porque establece que el lunar no es un solar invertido sino una estructura mítica con su propia secuencia interna y su propia teleología cíclica.\n\n## Posición en la triada de mitos primarios\n\nEl mito lunar es uno de los **seis mitos propios primarios** del corpus canónico del canal:\n\n> \"Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\n> \"El mito polar es la superposición del solar y el lunar,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nLa formulación 'superposición' precisa la mecánica polar: no es síntesis abstracta sino composición concreta de las dos secuencias cíclicas. La conjunción de la trayectoria solar (caída-camino-muerte-apoteosis) con la lunar (despertar-creación-caída-luna roja-exorcismo) genera el dipolo polar cuyo recorrido conjunto rompe los bucles individuales — tesis ya articulada en [[mito-polar]] como 'tercer camino transformador'.\n\n## Conexión con otros conceptos\n\n- Forma triada con [[mito-solar]] y [[mito-polar]] como las tres estructuras mitológicas primarias del eje sexual cosmológico.\n- Su correlato individual es la [[anima-archetype|ánima]] como polo femenino del psiquismo.\n- Pertenece al [[collective-unconscious]] como mito propio primario.\n- Su superposición con el solar produce el [[mito-polar]].\n\n## Lagunas\n\n- **Tratamiento monográfico ausente**: el corpus disponible articula la secuencia canónica pero no recorre cada fase en obra concreta — pendiente identificar las películas, novelas o sesiones del canal que ejemplifiquen luna roja como fase cosmológica.\n- **Diferenciación frente al mito solar femenino**: existen heroínas solares (Madre Aliens, Sarah Connor) que recorren la secuencia masculina; el canal usa lunar para la gracia cíclica genuina, no para toda protagonista femenina — falta articular el criterio operativo.\n- **Tradiciones no occidentales**: la secuencia canónica se ancla en sustrato grecorromano/judeocristiano; ausentes lecturas hindúes (Kali), mesoamericanas (Coyolxauhqui) y africanas que articularían el mito lunar desde otros marcos.\n- **Mecánica de la luna roja**: la fase central de la secuencia (la luna roja como fase oscura sangrienta) se enuncia pero no se desarrolla aquí — pendiente material que articule su función teleológica.\n\n## Citations\n\n- **Directo doble Parte 1: La IA demuestra la semántica no explícita** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)\n",
+      "rationale_for_promotion": "Mito lunar está en canonical_whitelist con auto_promote: true. Múltiples páginas existentes contienen wikilinks rotos a [[mito-lunar]] (anima-archetype, mito-polar, mito-solar, collective-unconscious). Este vídeo aporta la secuencia canónica completa en cinco fases — el material más explícito disponible en el corpus. Stub mínimo que cierra wikilinks rotos y queda abierto a enriquecimiento con futuros vídeos."
+    },
+    {
+      "page_id": "perdida-inocencia",
+      "frontmatter": {
+        "page_id": "perdida-inocencia",
+        "page_type": "concept",
+        "canonical_name": "Pérdida de la inocencia (lectura del canal)",
+        "aliases": [
+          "inocencia",
+          "perdida de la inocencia",
+          "perder la inocencia",
+          "ingenuidad vs inocencia",
+          "corrupcion como perdida"
+        ],
+        "domain_primary": "humanities.philosophy",
+        "primary_domains": [
+          "humanities.philosophy",
+          "social.psychology"
+        ],
+        "relations": [
+          {
+            "type": "compared_with",
+            "to": "individuation",
+            "note": "la pérdida de inocencia opera como cara fenomenológica del proceso de individuación: salida del estado paradisíaco hacia la integración"
+          },
+          {
+            "type": "compared_with",
+            "to": "shadow-archetype",
+            "note": "la corrupción como subtipo específico de pérdida de inocencia donde el mal se integra mal — frontera con la integración de la sombra"
+          },
+          {
+            "type": "see_also",
+            "to": "trauma-en-proxy",
+            "note": "la pérdida prematura (cuando cuerpo, mente o alma no están preparados) se conecta con la dinámica del trauma"
+          }
+        ],
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body": "# Pérdida de la inocencia (lectura del canal)\n\n## Tesis: la inocencia es estado, no categoría ética\n\nEl canal articula una distinción operativa que rompe la equivalencia popular entre 'pérdida de la inocencia' y 'corrupción moral'. La inocencia no es valor moral cuya pérdida sea de suyo malo — es un estado psíquico que abarca varios sentidos y cuya pérdida puede ser positiva o negativa según qué dimensión se pierda y en qué condiciones.\n\n> \"La inocencia no es una categoría ética sino un estado que abarca múltiples sentidos,\"\n→ [Directo doble Parte 1 (14:44)](https://youtu.be/t8v5w3s0USA?t=884)\n\n## Distinción operativa: ingenuidad vs corrupción\n\nLa pieza analítica central es separar dentro del estado de inocencia dos componentes con valencia opuesta:\n\n> \"La pérdida de ingenuidad siempre es positiva; que algo cause sufrimiento no lo convierte en malo,\"\n→ [Directo doble Parte 1 (14:44)](https://youtu.be/t8v5w3s0USA?t=884)\n\n> \"La corrupción es un tipo específico de pérdida de inocencia donde el mal entra en el sujeto,\"\n→ [Directo doble Parte 1 (14:44)](https://youtu.be/t8v5w3s0USA?t=884)\n\nLa **ingenuidad** es déficit de información sobre el mundo: su pérdida produce sufrimiento (descubrir que el mundo no es como uno creía duele) pero el resultado es siempre cognoscitivamente superior al estado previo. La **corrupción** es categoría distinta dentro de la familia 'pérdida de inocencia': no consiste en aprender sobre el mal sino en que el mal **entra** en el sujeto. Confundir ambas formas — leer toda pérdida de ingenuidad como corrupción — es error categorial que sostiene buena parte de la sentimentalización moderna de la infancia.\n\n## Criterio de oportunidad: cuerpo, mente y alma preparados\n\nLa pieza prescriptiva del marco articula cuándo la pérdida de inocencia es operativamente sana:\n\n> \"La inocencia debe perderse cuando cuerpo, mente o alma están preparados para las consecuencias,\"\n→ [Directo doble Parte 1 (14:44)](https://youtu.be/t8v5w3s0USA?t=884)\n\nLa estructura tripartita (cuerpo / mente / alma) sustituye a la dicotomía simplista 'demasiado pronto / demasiado tarde'. Cada dimensión tiene su propio reloj de maduración y la pérdida puede ser oportuna en una y prematura en otra. La operación clínica del canal opera con esta distinción: una experiencia que el cuerpo soporta pero la mente todavía no procesa produce un tipo de daño; lo inverso, otro distinto. La preparación de las tres dimensiones a la vez es la condición ideal — rara vez completa, siempre relativa.\n\n## Conexión con otros conceptos\n\n- La [[individuation]] junguiana opera como recorrido sostenido de pérdidas de inocencia ordenadas: el yo que se descubre limitado, la sombra que se reconoce, los polos contrasexuales que se integran — cada paso es una ingenuidad que cae sin que el sujeto se corrompa.\n- La [[shadow-archetype]] articula la cara estructural de la pérdida sana: integrar la sombra es perder ingenuidad sobre la propia naturaleza sin que el sujeto se corrompa.\n- La corrupción como subtipo conecta con [[trauma-en-proxy]] cuando la pérdida ocurre antes de que cuerpo/mente/alma estén preparados — la dinámica traumática es entonces el vehículo concreto por el que el mal entra en el sujeto en lugar de quedar fuera de él.\n\n## Lagunas\n\n- **Articulación con la inocencia adámica**: el marco tripartito cuerpo/mente/alma resuena con la lectura cristiana del paraíso pero el vídeo no desarrolla la conexión teológica explícita.\n- **Tipología completa de las inocencias**: el canal afirma que la inocencia 'abarca múltiples sentidos' pero no enumera el catálogo completo (inocencia sexual, inocencia política, inocencia metafísica, inocencia interpersonal). Pendiente material que sistematice los sentidos.\n- **Frontera operativa entre ingenuidad madura y corrupción ingresada**: el criterio (qué entra en el sujeto vs qué solo se aprende sobre él) es claro categorialmente pero los casos límite (información traumática que se integra como aprendizaje vs como herida) no se articulan aquí.\n- **Tratamiento de la inocencia infantil**: el bloque articula el marco teórico pero no aplica el criterio a casos clínicos concretos (sexualización infantil, violencia explícita en infancia, exposición temprana a contenidos adultos).\n\n## Citations\n\n- **Directo doble Parte 1: La IA demuestra la semántica no explícita** — chunks: [14:44](https://youtu.be/t8v5w3s0USA?t=884)\n",
+      "rationale_for_promotion": "Bloque monográfico de ~12 min de exposición sostenida sobre una distinción canal-específica con framing-mark explícito (declared_thesis), estructura interna articulada (cuatro piezas: estado-no-categoría, ingenuidad, corrupción, criterio tripartito), y al menos tres aplicaciones operativas. Cumple criterio §2.1 monográfico (≥10 min). No hay página existente que capture la distinción ingenuidad/corrupción con el criterio cuerpo/mente/alma. Stub mínimo que articula la tesis y queda abierto a enriquecimiento."
+    },
+    {
+      "page_id": "del-origen-del-mal-libro",
+      "frontmatter": {
+        "page_id": "del-origen-del-mal-libro",
+        "page_type": "entity_work",
+        "canonical_name": "Del origen del mal (libro de Proxy)",
+        "aliases": [
+          "del origen del mal",
+          "el libro de Proxy",
+          "libro Proxy mitos primarios"
+        ],
+        "domain_primary": "humanities.philosophy",
+        "primary_domains": [
+          "humanities.philosophy",
+          "humanities.religion",
+          "interdisciplinary.cultural_studies"
+        ],
+        "read_in_session": false,
+        "is_authors_own_work": true,
+        "publication_status": "in_writing_2025",
+        "relations": [
+          {
+            "type": "developed_by",
+            "to": "jung-carl-gustav",
+            "note": "marco junguiano de fondo para la articulación arquetípica del libro"
+          },
+          {
+            "type": "synthesizes",
+            "to": "mito-solar",
+            "note": "el libro articula la secuencia canónica caída-camino-muerte-apoteosis"
+          },
+          {
+            "type": "synthesizes",
+            "to": "mito-lunar",
+            "note": "el libro articula la secuencia canónica despertar-creación-caída-luna roja-exorcismo"
+          },
+          {
+            "type": "synthesizes",
+            "to": "mito-polar",
+            "note": "el libro lo articula como superposición del solar y el lunar"
+          },
+          {
+            "type": "synthesizes",
+            "to": "tarot-arquetipico",
+            "note": "la portada del libro representa al mago del tarot con la lemniscata como corona"
+          },
+          {
+            "type": "synthesizes",
+            "to": "uranico-telurico-cetonico",
+            "note": "el libro adopta la triada uránico/ctónico/telúrico como esquema cosmológico"
+          },
+          {
+            "type": "references",
+            "to": "collective-unconscious",
+            "note": "los seis mitos primarios canónicos son su contenido nuclear"
+          }
+        ],
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body": "# Del origen del mal (libro de Proxy)\n\n## Naturaleza del artefacto\n\n*Del origen del mal* es el libro propio del canal Proxy en proceso de escritura, articulación editorial de su marco arquetípico-cognitivo. A diferencia de las páginas `entity_work` del wiki que documentan obras analizadas por el canal (Tolkien, Lovecraft, Matrix), esta página documenta una obra de **autoría del canal mismo** — locus textual donde su corpus de tesis articuladas en directos se decanta como pieza editorial cerrada.\n\n> \"El libro tiene casi todos los capítulos escritos excepto uno entero y dos medios capítulos,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nA fecha de mayo 2025 el libro está en fase final de redacción; su publicación está pendiente.\n\n## Contenido nuclear: los seis mitos propios primarios\n\nEl libro fija como marco taxonómico una **lista canónica de seis mitos primarios** que organiza el material arquetípico:\n\n> \"Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nLa formulación es más reducida y operativa que articulaciones anteriores del canal (que listaban masculino/femenino, héroe, diosa como entradas separadas): el libro absorbe héroe y diosa dentro de solar y lunar respectivamente, y reserva 'mago' como mito propio independiente con secuencia interna específica.\n\nLas secuencias canónicas que el libro fija para cada mito:\n\n> \"El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\n> \"El mito polar es la superposición del solar y el lunar,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nVer [[mito-solar]], [[mito-lunar]] y [[mito-polar]] para articulación completa de cada secuencia. Las páginas de [[genesis-mitologico]] y futura página de apocalipsis articulan los otros dos mitos canónicos del libro.\n\n## El mito del mago: secuencia y cuatro cuadrantes\n\nEl libro articula el mito del mago — uno de los seis primarios — con secuencia interna y esquema relacional propios:\n\n> \"El mito del mago sigue la secuencia: encuentro con lo sobrenatural, iluminación y poder,\"\n→ [Directo doble Parte 1 (1:34:59)](https://youtu.be/t8v5w3s0USA?t=5699)\n\n> \"El esquema incluye cuatro cuadrantes: activo divino (religión), pasivo divino (mística), pasivo mágico (encuentro sobrenatural) y activo mágico (ritual),\"\n→ [Directo doble Parte 1 (1:34:59)](https://youtu.be/t8v5w3s0USA?t=5699)\n\nLa matriz cruza dos ejes: la posición del sujeto (activo / pasivo) y la naturaleza de lo sobrenatural invocado (divino / mágico). Religión = acción ritual ortodoxa orientada a lo divino; mística = recepción contemplativa de lo divino; encuentro sobrenatural = recepción imprevista de lo mágico; ritual mágico = acción procedimental orientada a lo mágico (ver [[magia-postmoderna-en-proxy]]). El mito del mago propiamente abarca el cuadrante 'activo mágico' donde el practicante despliega procedimiento para producir efectos sobrenaturales.\n\n## Esquema cosmológico: tres niveles\n\nEl libro adopta como mapa cosmológico la triada vertical ya articulada en [[uranico-telurico-cetonico]]:\n\n> \"El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),\"\n→ [Directo doble Parte 1 (1:36:06)](https://youtu.be/t8v5w3s0USA?t=5766)\n\nLa triada ordena el espacio simbólico que cada mito primario recorre: el solar atraviesa lo uránico (apoteosis), el lunar lo telúrico-ctónico (luna roja), el polar conjuga las tres regiones, el mago opera fronteras entre niveles, génesis y apocalipsis articulan tránsitos cosmológicos completos.\n\n## Iconografía: portada y lemniscata\n\nLa portada del libro fija visualmente el arquetipo del mago como entrada al sistema:\n\n> \"La portada del libro representa al mago del tarot con la lemniscata (símbolo del infinito como corona),\"\n→ [Directo doble Parte 1 (1:34:59)](https://youtu.be/t8v5w3s0USA?t=5699)\n\nLa lemniscata como corona del mago condensa la tesis: el dominio sobre lo sobrenatural opera como integración de lo infinito dentro del sujeto operante. La iconografía remite directamente al arcano del Mago de la baraja Marsella/Rider-Waite (ver [[tarot-arquetipico]] sobre la canonización de ambas barajas como sistematización arquetípica de referencia).\n\n## Lugar en el corpus del canal\n\nEl libro funciona como **meta-índice editorial** del corpus articulado en directos: las tesis cognitivas y arquetípicas que el canal ha desplegado durante años se decantan aquí como pieza textual cerrada. Páginas del wiki que articulen mitos primarios, dinámicas arquetípicas, distinciones cognitivas o esquemas cosmológicos pueden referenciar este libro como su locus editorial canónico cuando esté publicado.\n\n## Lagunas\n\n- **Capítulos pendientes**: el canal afirma que falta uno entero y dos medios — pendiente identificar qué temas cubrirán esos capítulos finales y por qué quedaron al cierre.\n- **Editor / sello**: no se ha mencionado vía de publicación (autoedición, editorial concreta, formato).\n- **Articulación interna entre los seis mitos**: el libro los enumera como primarios pero el orden expositivo, la jerarquía interna y los puentes cross-mitos no se han articulado en el material recuperado.\n- **Relación con el corpus de directos**: pendiente clarificar qué directos sirven como base de qué capítulos — el libro reorganiza material disperso o introduce material nuevo no expuesto previamente.\n- **Posición filosófica explícita sobre el mal**: el título nombra el mal como objeto pero el material recuperado no expone la tesis filosófica nuclear sobre el origen del mal — pendiente material que articule la respuesta del libro a su propia pregunta titular.\n\n## Citations\n\n- **Directo doble Parte 1: La IA demuestra la semántica no explícita** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:34:59](https://youtu.be/t8v5w3s0USA?t=5699) · [1:36:06](https://youtu.be/t8v5w3s0USA?t=5766)\n",
+      "rationale_for_promotion": "Libro propio del canal en fase final de escritura, mencionado con estructura editorial concreta (mitos primarios canónicos, esquema cosmológico, iconografía de portada). Es artefacto editorial primario que múltiples páginas del wiki necesitarán referenciar como locus textual canónico de las tesis del canal. Caso especial entity_work: obra del autor mismo, no obra analizada. Read_in_session: false. Stub que cierra wikilinks y se enriquece con futuros vídeos donde el canal hable del libro."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "galatea-modelo-protomente",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "de la hidra de los GCaMP (organismo planificado en la primera fase) al hidrozoario con tres canales sensoriales unificados (organismo definitivo).",
+      "content_proposed": "\n\n## El estatuto epistemológico de Galatea: lenguaje ejecutable, no programa\n\nEn el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa el estatuto epistemológico del proyecto que las articulaciones anteriores dejaban implícito. Galatea no es programa en el sentido informático corriente — es un lenguaje formal ejecutable cuyo objetivo es la emulación máxima de la cognición humana con simulación mínima:\n\n> \"Galatea busca construir un pseudocódigo que contenga las reglas del pensamiento humano,\"\n→ [Directo doble Parte 1 (26:30)](https://youtu.be/t8v5w3s0USA?t=1590)\n\n> \"No es un programa sino un lenguaje ejecutable en máquina con mínima simulación y máxima emulación,\"\n→ [Directo doble Parte 1 (26:30)](https://youtu.be/t8v5w3s0USA?t=1590)\n\n> \"Los lenguajes tipo cálculo lambda (LISP) son los más próximos a la estructura cognitiva,\"\n→ [Directo doble Parte 1 (26:30)](https://youtu.be/t8v5w3s0USA?t=1590)\n\nLa precisión es operativa: Galatea no produciría una IA en el sentido de modelo entrenado, sino una **gramática formal** cuya ejecución encarna las reglas del pensamiento. La elección del cálculo lambda — articulada previamente como notación con funciones sin clases — se concreta nominalmente en LISP como familia de lenguajes más cercana a la estructura cognitiva. La fórmula 'mínima simulación y máxima emulación' fija el objetivo discriminado: no se busca aproximar el comportamiento humano por outside (Turing) sino reproducir su mecánica interna por inside.\n\n## Tres módulos articulados: imaginario, formal-relacional, afectivo\n\nLa formulación del directo precisa la arquitectura interna en términos de tres módulos cognitivos cuya complementariedad opera como condición de la cognición humana:\n\n> \"Galatea aspira a que sus operaciones sean lo más parecidas posible a las de la mente, con tres módulos: imaginario, formal-relacional y afectivo,\"\n→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)\n\nLa tripartición coincide con la tríada Q ya articulada en [[teoria-del-simbolo-en-proxy]] (Q sub-i imaginaria, Q sub-f formal, Q sub-a afectiva) y con los nodos del metagrafo de la página, pero aquí la formulación es estructural-arquitectónica: tres módulos co-implicados, no nodos suplementables. La diferencia con un sistema computacional ordinario es que ninguno de los tres puede operar sin los otros — afectivo sin imaginario es vacío, imaginario sin formal es ruido, formal sin afectivo es máquina sin importancia.\n\n## La semántica no explícita y los embeddings universales como sustento empírico\n\nLa pieza más estructural que el directo añade al marco Galatea es la lectura de un paper reciente sobre embeddings universales entre LLMs como **confirmación independiente** del aparato del proyecto. La tesis del canal sobre la semántica no explícita encuentra en los resultados Vec2Vec un apoyo empírico directo:\n\n> \"El pensamiento explícito es lo que sabes que ocurre en tu cabeza (imágenes, palabras, emociones),\"\n→ [Directo doble Parte 1 (42:46)](https://youtu.be/t8v5w3s0USA?t=2566)\n\n> \"Existen estructuras cognitivas previas al pensamiento explícito que también son pensamiento,\"\n→ [Directo doble Parte 1 (42:46)](https://youtu.be/t8v5w3s0USA?t=2566)\n\n> \"Hay un rango amplio de sucesos entre la ausencia de pensamiento y el pensamiento explícito consciente,\"\n→ [Directo doble Parte 1 (42:46)](https://youtu.be/t8v5w3s0USA?t=2566)\n\nLa pieza articula el espectro completo entre ausencia de pensamiento y pensamiento explícito consciente — coincidente con la franja explícita acotada a 12 bits/s articulada en [[teoria-del-simbolo-en-proxy]]. Lo nuevo es la operacionalización: existen estructuras representacionales pre-explícitas que también son pensamiento, y los LLMs revelan parte de esa franja al hacerla manipulable computacionalmente.\n\n### El paper Vec2Vec: estructura de codificación común a cualquier LLM\n\n> \"Dos modelos de lenguaje con arquitecturas, datos y algoritmos diferentes producen embeddings distintos,\"\n→ [Directo doble Parte 1 (46:53)](https://youtu.be/t8v5w3s0USA?t=2813)\n\n> \"Un tercer algoritmo (Vec2Vec) relaciona los embeddings de ambos sin acceso a los textos originales,\"\n→ [Directo doble Parte 1 (46:53)](https://youtu.be/t8v5w3s0USA?t=2813)\n\n> \"Demuestra que existe una estructura de codificación común a cualquier IA de LLM,\"\n→ [Directo doble Parte 1 (46:53)](https://youtu.be/t8v5w3s0USA?t=2813)\n\nEl resultado empírico — que dos modelos con arquitecturas, datasets y algoritmos completamente distintos producen embeddings traducibles entre sí mediante un tercer algoritmo (Vec2Vec) sin acceso a los textos originales — establece que existe una **metaestructura computacional** previa a las decisiones arquitectónicas concretas. Esa metaestructura es lo que el canal articula como sustento del proyecto Galatea: si la semántica implícita tiene estructura común invariable bajo arquitectura, entonces es operacionalmente accesible vía representación vectorial.\n\n### Implicación operativa: alimentar IAs con embeddings\n\n> \"En informática se ha demostrado que existen metaestructuras: la estructura de toda estructura,\"\n→ [Directo doble Parte 1 (59:59)](https://youtu.be/t8v5w3s0USA?t=3599)\n\n> \"Existe una metodología de computación que permite trabajar con estructuras previas a lo explícito,\"\n→ [Directo doble Parte 1 (59:59)](https://youtu.be/t8v5w3s0USA?t=3599)\n\n> \"Se puede alimentar una IA con embeddings en lugar de datos, encontrando patrones del pensamiento mismo,\"\n→ [Directo doble Parte 1 (59:59)](https://youtu.be/t8v5w3s0USA?t=3599)\n\nLa consecuencia metodológica para Galatea es directa: en lugar de entrenar el sistema con corpus textual (semántica explícita comprimida en tokens), se le alimenta con embeddings (semántica vectorial pre-explícita). El resultado serían patrones del pensamiento mismo, no patrones del lenguaje que lo expresa. Esta es la traducción computacional concreta de la tesis sobre el lenguaje como algoritmo de compresión articulada en [[teoria-del-simbolo-en-proxy]].\n\n## La hipótesis representacional platónica fuerte\n\nLa tesis filosófica que enmarca todo el aparato es articulada explícitamente como tesis fuerte (vs débil) sobre el estatuto de los embeddings:\n\n> \"Platón postulaba que la idea de cuadrado existe como entidad real común a todos los cuadrados,\"\n→ [Directo doble Parte 1 (1:05:22)](https://youtu.be/t8v5w3s0USA?t=3922)\n\n> \"La tesis débil dice que todos los embeddings comparten técnica común por estar diseñados igual,\"\n→ [Directo doble Parte 1 (1:05:22)](https://youtu.be/t8v5w3s0USA?t=3922)\n\n> \"La tesis fuerte postula una estructura computacional universal común a todos los idiomas posibles, como un idioma prebabélico de máquina,\"\n→ [Directo doble Parte 1 (1:05:22)](https://youtu.be/t8v5w3s0USA?t=3922)\n\nEl canal distingue dos lecturas posibles del fenómeno Vec2Vec: la débil — los embeddings convergen porque se diseñan con técnicas similares, lo que es trivial — y la fuerte, que postula una estructura computacional universal previa, un idioma prebabélico de máquina al que toda lengua humana posible se traduce. La tesis fuerte es declaradamente platónica: las metaestructuras de los embeddings serían cristalizaciones empíricas de algo análogo a las ideas platónicas — entidades reales comunes a todos los cuadrados, ahora traducidas a entidades vectoriales comunes a todas las semánticas naturales posibles.\n\n## Lakoff y los modelos cognitivos encarnados como puente teórico\n\nLa pieza teórica complementaria que el directo invoca es la propuesta de George Lakoff sobre la cognición encarnada como contrapunto y resonancia:\n\n> \"Lakoff propone que todos los conceptos están encarnados respecto a su significado,\"\n→ [Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)\n\n> \"Los significados no son etéreos sino que tienen una corporalidad semántica,\"\n→ [Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)\n\n> \"Conexión con el artículo: los embeddings de embeddings serían una versión computacional de esta encarnación,\"\n→ [Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)\n\nLa lectura del canal cierra el bucle: si la semántica humana está encarnada (Lakoff) y los embeddings universales revelan una metaestructura común (Vec2Vec), entonces los embeddings de embeddings operan como **versión computacional de la encarnación**. La corporalidad semántica que Lakoff articula desde la lingüística cognitiva tiene su correlato computacional en la geometría vectorial revelada por la traducción inter-LLM. La tesis filosófica del canal — la cognición es geométrica porque el sustrato cerebral lo es — encuentra aquí confirmación operativa adicional: la cognición computacional también desarrolla geometría representacional convergente sin haber sido programada para ello.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 1590,
+          "cite_markdown": "[Directo doble Parte 1 (26:30)](https://youtu.be/t8v5w3s0USA?t=1590)"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 1803,
+          "cite_markdown": "[Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 2566,
+          "cite_markdown": "[Directo doble Parte 1 (42:46)](https://youtu.be/t8v5w3s0USA?t=2566)"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 2813,
+          "cite_markdown": "[Directo doble Parte 1 (46:53)](https://youtu.be/t8v5w3s0USA?t=2813)"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 3599,
+          "cite_markdown": "[Directo doble Parte 1 (59:59)](https://youtu.be/t8v5w3s0USA?t=3599)"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 3922,
+          "cite_markdown": "[Directo doble Parte 1 (1:05:22)](https://youtu.be/t8v5w3s0USA?t=3922)"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 4175,
+          "cite_markdown": "[Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)"
+        }
+      ],
+      "rationale": "La página de Galatea articula extensamente el metagrafo de 8 nodos, el hidrozoario, la batería de Panksepp y el cálculo lambda. Faltan piezas estructurales que este vídeo añade: (a) el estatuto epistemológico explícito 'lenguaje ejecutable, no programa' con LISP nombrado, (b) la formulación tripartita en módulos imaginario/formal-relacional/afectivo como arquitectura nuclear, (c) el sustento empírico independiente del paper Vec2Vec sobre embeddings universales, (d) la hipótesis representacional platónica fuerte como tesis filosófica que enmarca el proyecto, (e) la conexión con Lakoff sobre cognición encarnada. La inserción se sitúa al final del último bloque de arquitectura existente, antes de Lagunas — preservando el aparato técnico ya consolidado y añadiendo la dimensión filosófico-epistemológica que el corpus le faltaba.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el resultado predicho es estructuralmente psicótico.",
+      "content_proposed": "\n\n## Paradigma de Penrose y la distinción determinismo / computabilidad\n\nEn el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa la barrera estructural máquina/mente humana en términos categoriales que el aparato anterior dejaba implícitos. La página articula la crítica al paradigma Turing extensamente; aquí se nombra explícitamente el paradigma contrario y se introduce una distinción modal que el marco necesitaba para cerrar el flanco contra el reduccionismo computacional.\n\n### Paradigma de Penrose: indistinguibilidad solo aparente\n\n> \"La inteligencia artificial es indistinguible de la real solo en apariencia (paradigma de Penrose),\"\n→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)\n\nLa formulación nombra al paradigma anti-Turing como 'paradigma de Penrose' — Roger Penrose como referencia de la posición que sostiene que la indistinguibilidad funcional desde fuera no implica identidad de naturaleza. La precisión cierra una asimetría nominal del marco: la página invocaba 'paradigma Turing' por nombre y dejaba el contrapunto sin etiqueta. La etiqueta 'paradigma de Penrose' fija el polo contrario como posición filosófica con genealogía propia, no como mera negación.\n\n### Reducción a Turing como criterio de exclusión\n\n> \"Todo proceso reducible a máquinas de Turing no tiene nada que ver con la naturaleza del pensamiento humano,\"\n→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)\n\nLa formulación es categórica y opera como criterio operativo de exclusión: cualquier proceso que admita reducción a máquina de Turing queda fuera del rango de la cognición humana — no por escala (procesos masivos podrían en principio aproximar comportamiento humano) sino por naturaleza ontológica. La pieza refuerza la fórmula 'la IA nunca será como una mente humana y la mente humana nunca fue como una máquina' que la página ya articulaba, anclándola en la teoría matemática de la computación.\n\n### Determinismo no implica computabilidad\n\nLa pieza teóricamente más decisiva que el directo añade es una distinción modal explícita entre dos propiedades que el debate IA/cerebro tiende a confundir:\n\n> \"Ambos sistemas son deterministas por estar basados en las mismas leyes físicas,\"\n→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)\n\n> \"La diferencia está en órdenes de magnitud de clase de complejidad en teoría de la información,\"\n→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)\n\n> \"Que algo sea determinista no implica que sea computable,\"\n→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)\n\nLa distinción cierra un flanco que el reduccionismo computacional explota: el cerebro humano y la IA son ambos sistemas físicos deterministas — operan bajo las mismas leyes físicas y todos sus estados son función de estados anteriores. De ahí el reduccionista deriva 'luego son equivalentes en principio'. La precisión del canal corta el paso: **determinismo y computabilidad son propiedades distintas**. Un sistema puede ser completamente determinista y a la vez no admitir simulación computacional fiel — porque la complejidad de su descripción crece más rápido que cualquier máquina de Turing puede procesar (clase de complejidad fuera de P, fuera incluso de NP en ciertos casos).\n\nLa diferencia entre cerebro humano y máquina actual no es categorial en lo determinista (ambos lo son) sino en órdenes de magnitud de clase de complejidad de teoría de la información. La cognición humana opera en una clase computacional fuera del rango ejecutable por arquitecturas de Turing en tiempo razonable — y posiblemente fuera del rango computable absolutamente, si su descripción exacta requiere recursión infinita o variables continuas no discretizables sin pérdida estructural.\n\nLa pieza completa el aparato anti-computacional del marco: la barrera no es solo de afectos (frontera ontológica), no es solo de embodiment (frontera somática), no es solo de geometría representacional (convergencia parcial vía embeddings universales documentada en [[galatea-modelo-protomente]]). Es además barrera modal de complejidad — la cognición humana puede ser determinista bajo leyes físicas y simultáneamente no computable, igual que ciertos números reales son determinados pero no computables.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "galatea-modelo-protomente"
+      ],
+      "citations_added": [
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 1803,
+          "cite_markdown": "[Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 4303,
+          "cite_markdown": "[Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)"
+        }
+      ],
+      "rationale": "La página articula extensamente la crítica al paradigma Turing y la distinción simulación/emulación a múltiples niveles arquitectónicos. Le faltan tres piezas categoriales que este vídeo introduce: (1) etiquetar el paradigma anti-Turing como 'paradigma de Penrose' — corrige asimetría nominal del marco, (2) la fórmula compacta 'todo proceso reducible a Turing no tiene nada que ver con el pensamiento humano' como criterio operativo, (3) la distinción modal determinismo/computabilidad — pieza teóricamente decisiva que cierra el flanco reduccionista que afirma 'el cerebro es determinista, luego es máquina'. El anchor (final de la sección Predicción clínica para BCIs antes de Lagunas) preserva el aparato existente y añade la dimensión modal-categorial.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "collective-unconscious",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "un patrón que aplica a una sola tradición no es del inconsciente colectivo aunque sea inconsciente y compartido.",
+      "content_proposed": "\n\n## Lista canónica del libro: los seis mitos propios primarios\n\nEl directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) fija la formulación canónica de los mitos primarios que articula el libro [[del-origen-del-mal-libro|Del origen del mal]] del canal. La lista es más reducida y operativa que articulaciones anteriores del corpus: en lugar de enumerar masculino/femenino, héroe/diosa y polar como entradas separadas, el libro absorbe héroe en solar y diosa en lunar y deja seis mitos propios primarios:\n\n> \"Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nLa formulación compacta importa porque cada mito tiene en el libro una secuencia interna canónica:\n\n> \"El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\n> \"El mito polar es la superposición del solar y el lunar,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nLas secuencias completas se articulan en las páginas correspondientes: [[mito-solar]] (caída-camino-muerte-apoteosis), [[mito-lunar]] (despertar-creación-caída-luna roja-exorcismo) y [[mito-polar]] (composición de ambos). Las páginas de [[genesis-mitologico]] y la futura página de apocalipsis articulan los otros dos mitos canónicos. El mito del mago, sexto del catálogo, se trata en la sección sobre el arcano del Mago de [[tarot-arquetipico]] con su esquema cuatripartito propio (activo/pasivo × divino/mágico).\n\nLa pieza precisa el catálogo arquetípico del canal frente a articulaciones anteriores menos reducidas: los seis mitos primarios son las únicas estructuras genuinamente arquetípicas del inconsciente colectivo según la formulación final del libro. Otras estructuras tradicionalmente listadas (mito del héroe, mito de la diosa, masculino/femenino) son **manifestaciones operativas** de las seis categorías canónicas, no entradas independientes del catálogo.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "del-origen-del-mal-libro",
+        "mito-lunar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 4582,
+          "cite_markdown": "[Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)"
+        }
+      ],
+      "rationale": "La página tiene articulaciones distintas de los mitos primarios ('masculino/femenino, mito polar, mito del mago, mito del héroe, mito de la diosa, Génesis, Apocalipsis') y laguna sobre 'Listado completo de los ~30 arquetipos principales'. Este vídeo fija la formulación final canonizada en el libro Del origen del mal: seis mitos propios primarios (solar, lunar, polar, mago, apocalipsis, génesis) que absorben héroe en solar, diosa en lunar y reducen masculino/femenino a la triada solar/lunar/polar. Refuta parcialmente la laguna fijando el catálogo canónico operativo del canal. La distinción canal: sueño colectivo ya cita este mismo vídeo a 1:36:06, esta inserción añade el bloque distinto sobre la lista canonizada del libro.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mito-solar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta lectura de los antagonistas como funcionales y no malignos refina la estructura solar: el héroe no se mide contra la pura negatividad sino contra una alternativa coherente que él tiene que superar internamente.",
+      "content_proposed": "\n\n## La secuencia canónica: caída-camino-muerte-apoteosis\n\nEn el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal articula la secuencia interna canónica del mito solar tal como queda fijada en su libro [[del-origen-del-mal-libro|Del origen del mal]]:\n\n> \"El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,\"\n→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)\n\nLas cuatro fases articulan la trayectoria mítica completa del héroe solar:\n\n- **Caída**: la expulsión inicial — el héroe sale del paraíso-vientre, del mundo natal o de la condición divina previa. Coincide con el 'parto' que la sección sobre nacimiento ya articulaba (Superman expulsado de Kryptón, Cristo encarnándose, Hércules separado del Olimpo).\n- **Camino**: el viaje vital — la trayectoria de pruebas que el héroe atraviesa como articulación del [[viaje-heroe|monomito campbelliano]]. Es la fase más extensa de la secuencia y la más analizada en el corpus del canal.\n- **Muerte**: el descenso final — el sacrificio voluntario o impuesto que el héroe atraviesa antes del cierre del ciclo. Pieza cuya laguna explícita la página declaraba como pendiente; la articulación canónica del libro la fija como cuarta fase obligatoria del mito.\n- **Apoteosis**: el renacimiento divino — la elevación post-mortem que cierra el ciclo en la región uránica (ver [[uranico-telurico-cetonico]]). Cristo resucitado, Hércules ascendido al Olimpo, Superman regresando del sol. La fase resuelve el descenso elevándolo y completa la trayectoria solar diaria como cosmogonía narrativa.\n\nLa secuencia es la forma canónica que el libro fija frente a articulaciones campbellianas más extensas (12 fases del monomito) o más reducidas (la triada partida/iniciación/regreso). Las cuatro fases del canal operan como mínimo arquetípico: cualquier mito solar concreto puede recorrerlas con mayor detalle (Excalibur, Man of Steel) o de modo invertido cuando la película articula un anti-héroe (El Gran Lebowski como recorrido completo de los 22 Arcanos invertidos), pero las cuatro están siempre presentes estructuralmente.\n\nEl complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónica es despertar-creación-caída-luna roja-exorcismo. La superposición de ambas secuencias produce el [[mito-polar]] como tercer camino transformador — articulación que el libro fija como triada cosmogónica completa de los mitos primarios genuinos.",
+      "supersedes_laguna_text": "**Muerte y renacimiento como pieza estructural**: declarado como pieza del ciclo en la decision_reason del candidato pero el fragmento no contiene cita literal sobre la fase de descenso/renacimiento solar — pendiente recuperar el material correspondiente",
+      "wikilinks_introduced": [
+        "del-origen-del-mal-libro",
+        "mito-lunar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 4582,
+          "cite_markdown": "[Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)"
+        }
+      ],
+      "rationale": "Refuta la laguna explícita de la página sobre la fase de muerte y renacimiento solar. El vídeo articula la secuencia canónica completa en cuatro fases (caída-camino-muerte-apoteosis) tal como queda fijada en el libro Del origen del mal del canal. La inserción se sitúa después de la sección sobre antagonistas funcionales y antes de la conexión con otros conceptos, completando el aparato estructural de la página.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "mito-solar",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Refutada por update sobre la secuencia canónica caída-camino-muerte-apoteosis del libro Del origen del mal. La fase muerte queda explícitamente articulada como tercera del ciclo y la apoteosis como cuarta y final.",
+      "supersedes_laguna_text": "**Muerte y renacimiento como pieza estructural**: declarado como pieza del ciclo en la decision_reason del candidato pero el fragmento no contiene cita literal sobre la fase de descenso/renacimiento solar — pendiente recuperar el material correspondiente",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El insert sobre la secuencia canónica caída-camino-muerte-apoteosis articula explícitamente las fases muerte y apoteosis que la laguna pedía. Marcar como resuelta.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,",
+      "content_proposed": "\n\n## El arcano del Mago: lemniscata, secuencia y los cuatro cuadrantes de la magia\n\nEn el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal articula el arcano del Mago como uno de los seis mitos propios primarios canonizados en el libro [[del-origen-del-mal-libro|Del origen del mal]], con secuencia interna específica y un esquema cuatripartito de la relación con lo sobrenatural.\n\n### La portada del libro: el mago con la lemniscata\n\n> \"La portada del libro representa al mago del tarot con la lemniscata (símbolo del infinito como corona),\"\n→ [Directo doble Parte 1 (1:34:59)](https://youtu.be/t8v5w3s0USA?t=5699)\n\nLa iconografía remite al arcano del Mago de las barajas Marsella y Rider-Waite, donde la lemniscata (símbolo del infinito en horizontal) aparece como corona o halo sobre la cabeza del personaje. La condensación simbólica fija la tesis del libro: el dominio sobre lo sobrenatural opera como integración de lo infinito dentro del sujeto operante. La pieza importa porque el arcano queda canonizado como entrada visual al sistema arquetípico completo del corpus.\n\n### Secuencia interna del mito del mago\n\n> \"El mito del mago sigue la secuencia: encuentro con lo sobrenatural, iluminación y poder,\"\n→ [Directo doble Parte 1 (1:34:59)](https://youtu.be/t8v5w3s0USA?t=5699)\n\nLa trayectoria tripartita opera como contraparte estructural de las secuencias solar (caída-camino-muerte-apoteosis) y lunar (despertar-creación-caída-luna roja-exorcismo): el mago no recorre un viaje cíclico solar ni una regeneración lunar, sino una progresión vertical de tres pasos — encuentro pasivo (recepción de lo sobrenatural) → iluminación (comprensión) → poder (capacidad operativa de invocar y manipular lo sobrenatural). La estructura distingue al mago genuino del místico (que se queda en la iluminación) y del religioso (que opera dentro del marco institucional sin invocación personal).\n\n### Los cuatro cuadrantes: activo / pasivo × divino / mágico\n\n> \"El esquema incluye cuatro cuadrantes: activo divino (religión), pasivo divino (mística), pasivo mágico (encuentro sobrenatural) y activo mágico (ritual),\"\n→ [Directo doble Parte 1 (1:34:59)](https://youtu.be/t8v5w3s0USA?t=5699)\n\nLa matriz cruza dos ejes: la **posición del sujeto** (activo / pasivo) y la **naturaleza de lo sobrenatural invocado** (divino / mágico). Las cuatro combinaciones articulan el campo completo de relación humana con lo sobrenatural:\n\n- **Activo divino = religión**: el sujeto despliega ritual ortodoxo orientado a lo divino; el procedimiento opera dentro del marco institucional y la divinidad responde dentro de la economía sacramental.\n- **Pasivo divino = mística**: el sujeto se abre receptivamente a lo divino sin pretender provocarlo; la experiencia llega como gracia, no como resultado del acto.\n- **Pasivo mágico = encuentro sobrenatural**: el sujeto recibe lo mágico imprevisto sin haberlo invocado — apariciones, pareidolias significativas, irrupciones del inconsciente.\n- **Activo mágico = ritual**: el sujeto despliega procedimiento ([[magia-postmoderna-en-proxy|magia]]) para producir efectos sobrenaturales; el practicante opera como agente, no como receptor.\n\nEl mito del mago propiamente abarca el cuadrante activo mágico — el procedimiento ritual que pretende producir efectos. Los otros tres cuadrantes son territorios fronterizos: la mística limita con el activo divino (la institución organiza la mística contemplativa) y con el pasivo mágico (la apertura receptiva puede recoger lo mágico imprevisto sin querer); el ritual mágico limita con la religión cuando el procedimiento ortodoxo se vuelve performático sin doctrina detrás. La precisión taxonómica permite leer obras y fenómenos contemporáneos asignándolos al cuadrante correcto: la mayor parte de la 'espiritualidad' New Age se sitúa en el cuadrante activo mágico (procedimiento sin doctrina) aunque se presente como cualquiera de los otros tres.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "del-origen-del-mal-libro",
+        "magia-postmoderna-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 5699,
+          "cite_markdown": "[Directo doble Parte 1 (1:34:59)](https://youtu.be/t8v5w3s0USA?t=5699)"
+        }
+      ],
+      "rationale": "La página articula extensamente Man of Steel y Lebowski como recorridos de los 22 arcanos pero no trata el arcano del Mago aisladamente. Este vídeo aporta la iconografía de la lemniscata como corona, la secuencia interna del mito del mago (encuentro-iluminación-poder), y el esquema cuatripartito de relación con lo sobrenatural (activo/pasivo × divino/mágico) que mapea religión/mística/encuentro/ritual. La inserción se sitúa después de la sección Lebowski y antes de Lagunas, completando el catálogo de articulaciones tarot-arquetípicas.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "uranico-telurico-cetonico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La triada no describe geografía física: describe **regiones del alma y del cosmos** que la psique reconoce como ejes verticales del sentido.",
+      "content_proposed": "\n\n### Locus textual: el esquema cosmológico del libro Del origen del mal\n\nEn el directo *Directo doble Parte 1* (29 may 2025) el canal confirma que la triada uránico/ctónico/telúrico opera como esquema cosmológico canónico del libro [[del-origen-del-mal-libro|Del origen del mal]] en su forma final:\n\n> \"El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),\"\n→ [Directo doble Parte 1 (1:36:06)](https://youtu.be/t8v5w3s0USA?t=5766)\n\nLa pieza importa por dos razones operativas. Primera: fija la triada como pieza editorial canónica del corpus, no como articulación dispersa entre directos — el libro la adopta como mapa cosmológico de fondo sobre el que articular los seis mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis). Segunda: el directo usa la variante ortográfica 'ctónico' (chthonic) frente a la 'cetónico' del corpus previo del canal — ambas formas operan en el wiki como aliases de la misma región arquetípica, sin diferencia conceptual.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "del-origen-del-mal-libro"
+      ],
+      "citations_added": [
+        {
+          "video_id": "t8v5w3s0USA",
+          "timestamp_seconds": 5766,
+          "cite_markdown": "[Directo doble Parte 1 (1:36:06)](https://youtu.be/t8v5w3s0USA?t=5766)"
+        }
+      ],
+      "rationale": "Pequeño pero relevante: confirma que la triada queda fijada como esquema cosmológico canónico del libro, no como articulación dispersa. Añade el wikilink a del-origen-del-mal-libro y aclara la coexistencia ortográfica ctónico/cetónico como variantes del mismo concepto. Inserción mínima después de la definición.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Audio filtrado de Pedro Sánchez con Santos Cerdán y Leire",
+      "reason_code": "political_news",
+      "reason_detail": "Audio comprometedor del presidente del gobierno español publicado por El Confidencial. Politiqueo de actualidad partidista sin marco analítico aplicado — uso meramente cómico como intro en bucle. Match explícito con topic_filters.json: pattern '(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b'.",
+      "quote_evidence": "El Confidencial publica en exclusiva un audio comprometedor del presidente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Juan Sotivars (cita de Twitter)",
+      "reason_code": "political_news",
+      "reason_detail": "Comentarista citado por su tweet sobre el audio Sánchez. Sin desarrollo ni marco aplicado.",
+      "quote_evidence": "Juan Sotivars retuitea diciendo \"o nos cierran el periódico o cae el gobierno\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "George Lakoff (modelos cognitivos encarnados)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Lingüista cognitivo invocado nominalmente para articular la conexión entre encarnación semántica y embeddings universales. Sin tratamiento sustantivo de su obra (Metaphors We Live By, Women Fire and Dangerous Things, Philosophy in the Flesh). Material capturado como pieza en update a galatea-modelo-protomente. Candidato a futura whitelist soft si reaparece como marco aplicado.",
+      "quote_evidence": "Lakoff propone que todos los conceptos están encarnados respecto a su significado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Lingüista cognitivo cuya tesis encarnacionista converge fuertemente con realismo cognitivo del canal — candidato whitelist soft para futuras menciones",
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Roger Penrose",
+      "reason_code": "passing_mention",
+      "reason_detail": "Penrose nombrado para etiquetar el paradigma anti-Turing. Sin desarrollo de su obra (The Emperor's New Mind, microtúbulos cuánticos, gravedad cuántica orquestada). Material capturado como etiqueta nominal en update a golem-de-cobre. Candidato a futura whitelist soft.",
+      "quote_evidence": "La inteligencia artificial es indistinguible de la real solo en apariencia (paradigma de Penrose),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Vec2Vec (paper sobre embeddings universales entre LLMs)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Paper técnico sobre traducción de embeddings entre modelos sin acceso a textos originales, citado como sustento empírico de la hipótesis platónica fuerte y del proyecto Galatea. No es entidad enciclopédica del wiki sino referencia bibliográfica externa específica. Material conceptual capturado en update a galatea-modelo-protomente.",
+      "quote_evidence": "Un tercer algoritmo (Vec2Vec) relaciona los embeddings de ambos sin acceso a los textos originales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Alan Turing (paradigma)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Turing y máquinas de Turing ya extensamente articulados en golem-de-cobre y teoria-del-simbolo-en-proxy. Mención aquí refuerza el paradigma como contrapunto al de Penrose. Sin desarrollo nuevo de la figura misma.",
+      "quote_evidence": "Todo proceso reducible a máquinas de Turing no tiene nada que ver con la naturaleza del pensamiento humano,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Platón (anclaje filosófico de la hipótesis representacional fuerte)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Platón está en canonical_whitelist soft (auto_promote: false). Aquí aparece como anclaje filosófico de la hipótesis representacional fuerte — el ejemplo del cuadrado como idea real común a todos los cuadrados. La mención es ilustrativa, no exposición sustantiva del platonismo. Material capturado dentro de la pieza thesis_candidate sobre la hipótesis platónica fuerte. No promueve por sí misma.",
+      "quote_evidence": "Platón postulaba que la idea de cuadrado existe como entidad real común a todos los cuadrados,",
+      "review_priority": "medium",
+      "review_priority_reason": "Plotino y Platón ya en whitelist soft; un futuro tratamiento sustantivo del platonismo aplicado a la cognición computacional justificaría promoción",
+      "enriches_concept": "galatea-modelo-protomente"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_title": "El audio filtrado de Pedro Sánchez con Santos Cerdán y Leire",
+      "timestamp_seconds": 547,
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_term": "Sánchez",
+      "filter_reason": "comentario coyuntural sin valor enciclopédico. Política contemporánea española se trata como ruido de fondo del canal, no como tema arquetípico"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 13,
+    "promoted_new": 3,
+    "promoted_updates": 7,
+    "thesis_candidates_count": 1,
+    "discarded_count": 7,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_processing_notes": "Vídeo de 145 min con dos ejes principales: (1) eje IA/Galatea/semántica no explícita (~50 min sostenidos con tesis platónica fuerte), (2) eje libro Del origen del mal con catálogo canónico de seis mitos primarios y esquema cosmológico (~25 min). Bloques menores: pérdida de inocencia (12 min, monográfico mini), audio Sánchez (descartado por filtro de actualidad partidista). Tres promociones nuevas (mito-lunar canonical_whitelist, perdida-inocencia concepto monográfico, del-origen-del-mal-libro entity_work autoría propia). Una thesis_candidate filosófica (hipótesis platónica fuerte) que no cumple gate completo pero queda como candidato para revisión humana."
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "WARN promote_new[Mito lunar: secuencia despertar-creación-caída-luna roja-exorcismo] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Pérdida de la inocencia: estado, no categoría ética] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Del origen del mal (libro propio del canal)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

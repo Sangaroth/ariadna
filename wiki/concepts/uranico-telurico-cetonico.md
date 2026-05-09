@@ -59,6 +59,18 @@ La triada no describe geografía física: describe **regiones del alma y del cos
 
 
 
+### Locus textual: el esquema cosmológico del libro Del origen del mal
+
+En el directo *Directo doble Parte 1* (29 may 2025) el canal confirma que la triada uránico/ctónico/telúrico opera como esquema cosmológico canónico del libro [[del-origen-del-mal-libro|Del origen del mal]] en su forma final:
+
+> "El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),"
+→ [Directo doble Parte 1 (1:36:06)](https://youtu.be/t8v5w3s0USA?t=5766)
+
+La pieza importa por dos razones operativas. Primera: fija la triada como pieza editorial canónica del corpus, no como articulación dispersa entre directos — el libro la adopta como mapa cosmológico de fondo sobre el que articular los seis mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis). Segunda: el directo usa la variante ortográfica 'ctónico' (chthonic) frente a la 'cetónico' del corpus previo del canal — ambas formas operan en el wiki como aliases de la misma región arquetípica, sin diferencia conceptual.
+
+
+
+
 ## La narrativa uránica: el gran padre celestial que espera al héroe digno
 
 El canal articula como expresión narrativa derivada de lo uránico la **narrativa uránica**: la estructura mítica del padre celestial que aguarda que el héroe sea digno de sus dones. Es la cara aspiracional-paterna de la región uránica, que opera como expectativa estructural sobre el [[viaje-heroe|héroe solar]].

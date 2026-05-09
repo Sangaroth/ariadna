@@ -226,6 +226,8 @@ La identificación opera sobre el reservorio cultural-clínico de personas con l
 
 
 
+
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
 - **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
@@ -240,4 +242,6 @@ La identificación opera sobre el reservorio cultural-clínico de personas con l
 - **Análisis arquetípico de Unicorn wars** — chunks: [28:56](https://youtu.be/fLfEbHPJNmU?t=1736) · [33:28](https://youtu.be/fLfEbHPJNmU?t=2008)
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:24:04](https://youtu.be/HgLlH8Ta2qk?t=5044)
 - **Análisis arquetípico Frozen** — chunks: [1:14:27](https://youtu.be/NYZEm8mcPiQ?t=4467) · [1:24:03](https://youtu.be/NYZEm8mcPiQ?t=5043) · [1:50:17](https://youtu.be/NYZEm8mcPiQ?t=6617) · [2:28:16](https://youtu.be/NYZEm8mcPiQ?t=8896)
+- **Directo casual** — chunks: [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
+- **El Hate Bombing de la izquierda.** — chunks: [1:29:15](https://youtu.be/DTP3syEtxP4?t=5355)
 

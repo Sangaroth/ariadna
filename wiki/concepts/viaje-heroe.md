@@ -269,6 +269,7 @@ La pieza importa para el marco de la página: el monomito como vara diagnóstica
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
@@ -285,4 +286,5 @@ La pieza importa para el marco de la página: el monomito como vara diagnóstica
 - **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [54:46](https://youtu.be/NYZEm8mcPiQ?t=3286) · [57:48](https://youtu.be/NYZEm8mcPiQ?t=3468) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [21:51](https://youtu.be/X2c2a3mQBOs?t=1311) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:39:25](https://youtu.be/X2c2a3mQBOs?t=5965)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [2:16](https://youtu.be/yoWJWwYH_pE?t=136) · [1:10:52](https://youtu.be/yoWJWwYH_pE?t=4252)
+- **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 

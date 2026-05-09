@@ -110,6 +110,27 @@ El mito solar incluye antagonistas que NO son figuras del mal puro sino visiones
 
 Esta lectura de los antagonistas como funcionales y no malignos refina la estructura solar: el héroe no se mide contra la pura negatividad sino contra una alternativa coherente que él tiene que superar internamente.
 
+
+
+## La secuencia canónica: caída-camino-muerte-apoteosis
+
+En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal articula la secuencia interna canónica del mito solar tal como queda fijada en su libro [[del-origen-del-mal-libro|Del origen del mal]]:
+
+> "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)
+
+Las cuatro fases articulan la trayectoria mítica completa del héroe solar:
+
+- **Caída**: la expulsión inicial — el héroe sale del paraíso-vientre, del mundo natal o de la condición divina previa. Coincide con el 'parto' que la sección sobre nacimiento ya articulaba (Superman expulsado de Kryptón, Cristo encarnándose, Hércules separado del Olimpo).
+- **Camino**: el viaje vital — la trayectoria de pruebas que el héroe atraviesa como articulación del [[viaje-heroe|monomito campbelliano]]. Es la fase más extensa de la secuencia y la más analizada en el corpus del canal.
+- **Muerte**: el descenso final — el sacrificio voluntario o impuesto que el héroe atraviesa antes del cierre del ciclo. Pieza cuya laguna explícita la página declaraba como pendiente; la articulación canónica del libro la fija como cuarta fase obligatoria del mito.
+- **Apoteosis**: el renacimiento divino — la elevación post-mortem que cierra el ciclo en la región uránica (ver [[uranico-telurico-cetonico]]). Cristo resucitado, Hércules ascendido al Olimpo, Superman regresando del sol. La fase resuelve el descenso elevándolo y completa la trayectoria solar diaria como cosmogonía narrativa.
+
+La secuencia es la forma canónica que el libro fija frente a articulaciones campbellianas más extensas (12 fases del monomito) o más reducidas (la triada partida/iniciación/regreso). Las cuatro fases del canal operan como mínimo arquetípico: cualquier mito solar concreto puede recorrerlas con mayor detalle (Excalibur, Man of Steel) o de modo invertido cuando la película articula un anti-héroe (El Gran Lebowski como recorrido completo de los 22 Arcanos invertidos), pero las cuatro están siempre presentes estructuralmente.
+
+El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónica es despertar-creación-caída-luna roja-exorcismo. La superposición de ambas secuencias produce el [[mito-polar]] como tercer camino transformador — articulación que el libro fija como triada cosmogónica completa de los mitos primarios genuinos.
+
+
 ## Conexión con otros conceptos
 
 - Es uno de los dos polos cíclicos cuya conjunción con el mito lunar genera el [[mito-polar]] como tercer camino transformador
@@ -122,13 +143,17 @@ Esta lectura de los antagonistas como funcionales y no malignos refina la estruc
 
 - **Base biológica del ciclo circadiano hormonal masculino**: el canal apunta hacia un sustrato fisiológico (testosterona y ciclo solar diario) pero el fragmento recuperado no desarrolla la articulación neuroendocrina completa
 - **Mitologías solares no occidentales**: la exposición se ancla en el linaje grecorromano-cristiano-superheroico (Apolo, Hércules, Cristo, Superman); ausentes Ra, Surya, Amaterasu, Inti y otras tradiciones solares no abrahámicas
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Muerte y renacimiento como pieza estructural**: declarado como pieza del ciclo -->
 - **Muerte y renacimiento como pieza estructural**: declarado como pieza del ciclo en la decision_reason del candidato pero el fragmento no contiene cita literal sobre la fase de descenso/renacimiento solar — pendiente recuperar el material correspondiente
 - **Distinción operativa frente al mito lunar**: la triada solar/lunar/polar requiere desarrollar qué hace al mito solar específicamente solar (cíclico-diario) frente al lunar (cíclico-mensual) más allá del género del dios protagonista
 
 ## Citations
 
 
+
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 
 
 - **Análisis arquetípico: Excalibur** — chunks: [1:30:28](https://youtu.be/daC37T5cbWs?t=5428)
+- **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
+

@@ -106,6 +106,64 @@ La Bella Durmiente articula el encuentro con el mal sin fabricar una figura sint
 
 Lilit funciona en el canal como uno de los casos canónicos del mito impropio fabricado por la modernidad, junto a otros constructos de la demonología esotérica moderna y a las relecturas iconotrópicas del XIX. La tesis se inserta en la articulación más amplia del canal sobre [[mitologia-propia-impropia]] y refuerza el contraste estructural con el [[mito-polar]] genuino, donde lo femenino oscuro no se condensa en una figura única rebelde sino que se distribuye en una tipología arquetípica articulada.
 
+
+
+## Lilit como luna negra: la definición astrológica técnica
+
+En el directo casual el canal añade un plano técnico que la lectura filológico-literaria no recoge: el constructo astrológico moderno de Lilit no nombra un cuerpo celeste sino un cálculo orbital, lo que explica por qué la operación iconotrópica encontró aquí terreno fértil — la pieza es ya, en su definición misma, una abstracción rellenable.
+
+> "Lilit no es un cuerpo celeste sino un cálculo matemático: el punto más alejado de la Tierra en la órbita de la Luna,"
+→ [Directo casual (26:51)](https://youtu.be/ECN5C9rsaZg?t=1611)
+
+> "Representa la sombra de la luna, el inconsciente más oscuro, la energía femenina instintiva y reprimida,"
+→ [Directo casual (26:51)](https://youtu.be/ECN5C9rsaZg?t=1611)
+
+> "Cambia de signo cada 9 meses y tiene un retorno cada 9 años; el 9 es un número lunar junto con el 7 y el 12,"
+→ [Directo casual (26:51)](https://youtu.be/ECN5C9rsaZg?t=1611)
+
+La pieza ancla operativamente el constructo en el aparato del [[mito-polar]]: si el consciente es solar y el inconsciente es lunar, Lilit nombra precisamente la región oscura de ese inconsciente femenino. La luna negra es entonces el lugar simbólico desde el que la psique experimenta el anhelo sin objeto.
+
+## El anhelo sin objeto y la sublimación como destino
+
+La lectura psicológica que el canal asocia al constructo Lilit es operativa: nombra una clase de afecto difícil de comprender porque su objeto es inconsciente, una forma oscura de la esperanza estructuralmente paralela a la ansiedad sin objeto.
+
+> "Lilit atrae anhelos tan potentes que resultan difíciles de entender: ganas intensas de algo cuyo objeto es inconsciente,"
+→ [Directo casual (32:25)](https://youtu.be/ECN5C9rsaZg?t=1945)
+
+> "Es la forma oscura de la esperanza, equivalente a la ansiedad sin objeto,"
+→ [Directo casual (32:25)](https://youtu.be/ECN5C9rsaZg?t=1945)
+
+La única salida psíquica articulada por el canal pasa por la sublimación entendida como paso de lo inconsciente a lo explícito. El ejemplo elegido — la infancia reprimida que se transforma en obsesión adulta por disfrazarse en convenciones de anime — sitúa la dinámica en el terreno cotidiano de lo cosplay como trabajo simbólico no reconocido.
+
+> "Lilit representa energía retenida que puede despertar sin avisar en la medida en que fue reprimida,"
+→ [Directo casual (34:27)](https://youtu.be/ECN5C9rsaZg?t=2067)
+
+## La triple diosa oscura como prototipia disponible
+
+El canal sostiene que el constructo moderno de Lilit no llena un vacío arquetípico sino que recoge un arquetipo preexistente — la triple diosa oscura — y le impone la forma fabricada de la mujer rebelde. El registro mítico genuino está disponible (Erinias, Banshees, almas en pena femeninas que gritan de noche), pero se sustituye por una figura sintética.
+
+> "La figura mitológica original de Lilit no existe como tal; el mito romántico de la mujer rebelde es un invento moderno,"
+→ [Directo casual (36:59)](https://youtu.be/ECN5C9rsaZg?t=2219)
+
+> "El New Age ha tomado el arquetipo de la triple diosa oscura y le ha puesto la forma de Lilit,"
+→ [Directo casual (36:59)](https://youtu.be/ECN5C9rsaZg?t=2219)
+
+## Lilit, Lucifer y Hermes Trismegisto: tríada de iconotropías modernas
+
+La pieza más estructural del bloque es la equiparación de tres figuras como inversiones arquetípicas paralelas: ninguna existe como figura mitológica original, todas son iconotropías modernas rellenadas con arquetipos preexistentes que invierten la polaridad solar / lunar / sacerdotal.
+
+> "Lucifer es el sol invertido (la estrella caída), Lilit es la luna invertida (el lado oscuro del inconsciente),"
+→ [Directo casual (42:44)](https://youtu.be/ECN5C9rsaZg?t=2564)
+
+> "La inversión de la suma sacerdotisa (guardiana de las puertas entre mundos) es Hermes Trismegisto,"
+→ [Directo casual (42:44)](https://youtu.be/ECN5C9rsaZg?t=2564)
+
+> "Ninguno de estos tres existe como figura mitológica original: son iconotropías modernas rellenadas con arquetipos preexistentes,"
+→ [Directo casual (42:44)](https://youtu.be/ECN5C9rsaZg?t=2564)
+
+La tríada cierra la tesis del canal sobre Lilit: el caso no es aislado sino pieza de un mecanismo cultural mayor — la modernidad necesita figuras de inversión arquetípica que no encuentra en el material genuino y las fabrica usando como sustrato los arquetipos solar, lunar y de la sacerdotisa, invertidos. El [[autotipo|carácter autotípico]] del resultado es estructural: como nada de lo invertido tiene historia mítica propia, el significante coincide con el rasgo que nombra (Lucifer = caído, Lilit = luna oscura, Hermes Trismegisto = tres veces grande sin biografía ritual).
+
+
 ## Lagunas
 
 - El monográfico no desarrolla la genealogía concreta del constructo en el ocultismo decimonónico (qué autores, qué órdenes esotéricas, qué textos específicos consolidan la biografía moderna de Lilit) — queda como afirmación general sobre Renacimiento y siglos XVIII-XIX
@@ -117,5 +175,7 @@ Lilit funciona en el canal como uno de los casos canónicos del mito impropio fa
 ## Citations
 
 
+
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444) · [1:15:42](https://youtu.be/_0BM2jMsWdc?t=4542) · [1:17:43](https://youtu.be/_0BM2jMsWdc?t=4663) · [1:21:45](https://youtu.be/_0BM2jMsWdc?t=4905) · [1:26:49](https://youtu.be/_0BM2jMsWdc?t=5209) · [1:41:13](https://youtu.be/_0BM2jMsWdc?t=6073) · [1:45:47](https://youtu.be/_0BM2jMsWdc?t=6347)
+- **Directo casual** — chunks: [26:51](https://youtu.be/ECN5C9rsaZg?t=1611) · [29:23](https://youtu.be/ECN5C9rsaZg?t=1763) · [32:25](https://youtu.be/ECN5C9rsaZg?t=1945) · [34:27](https://youtu.be/ECN5C9rsaZg?t=2067) · [36:59](https://youtu.be/ECN5C9rsaZg?t=2219) · [42:44](https://youtu.be/ECN5C9rsaZg?t=2564) · [44:46](https://youtu.be/ECN5C9rsaZg?t=2686)
 

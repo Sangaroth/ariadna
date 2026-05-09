@@ -1,0 +1,390 @@
+{
+  "video_id": "NjtK76xzV18",
+  "video_title": "Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Alien (saga) / Alien Earth / Prometheus / Alien Covenant",
+      "canonical_guess": "alien-saga",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 17,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En Alien existe una triangulación entre la madre oscura (Weyland-Yutani), la diosa (Ripley) y el golem (el androide),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada película presenta una nueva generación de droides como reelaboración del golem, y el golem siempre se vuelve contra su creador,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La diosa (lo femenino eterno a través de Ripley) es la única que permanece haciendo equilibrios entre ambas líneas genealógicas,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3 (cross-thematic ≥4 vídeos donde la obra ilustra distintos arquetipos) + canonical_whitelist (alien-1979-film auto_promote:true). 17 min de análisis mitológico-arquetípico saga-level: triangulación madre oscura/diosa/golem como cifra arquetípica, genealogía generacional del mal cruzando humanos/aliens, droides como reelaboraciones del golem, suicidio del arquitecto en Prometheus como inversión soteriológica. La canonicalización 'alien-saga' se propone más amplia que 'alien-1979-film' (whitelist) porque el tratamiento es saga-level — sub-agente decide slug final.",
+      "quote_evidence": "El alien es una mezcla oscura entre la humanidad y el golem: qué pasaría si mezclas al héroe con el golem y el mal se lleva la mayor parte,"
+    },
+    {
+      "surface_form": "automorición / conducta no motivada (déficit inhibitorio)",
+      "canonical_guess": "alostasis-y-apagon-organico",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Puede que no sea una decisión en sentido convencional sino un fallo en la mecánica afectiva alostática que elimina la capacidad de ponderar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si es un déficit inhibitorio como en la psicosis, las ideaciones se convierten en actos porque falla el mecanismo que debería impedirlo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El material articula la automorición como fallo de la mecánica afectiva alostática — extiende directamente la página alostasis-y-apagon-organico que ya articula el apagón orgánico y la esperanza como inhibidor. Va como enrichment, no como página propia (la categoría no se sostiene como objeto enciclopédico fuera del marco alostasis articulado por el canal).",
+      "quote_evidence": "La automorición es la conducta más difícil de predecir porque carece de predictores fiables,"
+    },
+    {
+      "surface_form": "Olaf / Kristoff-reno / dipolo masculino (lectura extendida de Frozen)",
+      "canonical_guess": "frozen-2013-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 9,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Olaf representa la nieve mágica de la infancia: el juego, la ingenuidad, el país de Nunca Jamás,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Kristoff y el reno son la misma persona: el reno representa el ello, los instintos que toman las decisiones por él,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página frozen-2013-film ya articula Elsa-Ana como una unidad psíquica y la inversión arquetípica, pero NO cubre: (a) Olaf como cifra de la infancia perdida, (b) Kristoff como niño grande con el reno como ello/instintos, (c) el dipolo cerrado tirano-psicópata/niño-grande como única oferta masculina, (d) el paralelo con el caballo Maximus de Enredados como virilidad del canalla. Material genuinamente nuevo respecto al cuerpo leído.",
+      "quote_evidence": "Ana-Elsa solo tiene dos opciones: el tirano (el príncipe psicópata) y el niño grande (Kristoff),"
+    },
+    {
+      "surface_form": "Sapir-Whorf / lenguaje no determina pensamiento (crítica)",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La proposición \"el lenguaje determina el pensamiento\" es falsa porque presupone una hipóstasis: separa lenguaje y pensamiento como si fueran categorías independientes,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El lenguaje es consecuencia del pensamiento y la cultura, no su causa,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El relativismo posmoderno cree que el lenguaje determina el pensamiento porque necesita un locus externo de control,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página teoria-del-simbolo-en-proxy ya tiene sección 'Crítica al constructivismo lingüístico' (Stream Navidad 2025) que ENUNCIA la tesis pero no documenta argumentos concretos. ESTA aparición aporta cuatro piezas nuevas: (a) crítica de la hipóstasis previa (lenguaje vs pensamiento solo se separan en lenguaje explícito externo), (b) contraejemplo positivo del pensamiento prelingüístico con caso concreto (niños operan con 'conjunto'/'clase' sin las palabras), (c) los dos casos paradigmáticos clásicamente invocados a favor de Sapir-Whorf (Oceanía, esquimales) reinterpretados con causalidad invertida, (d) diagnóstico psicológico (locus externo de control) que conecta con diagrama-de-proxy. Material genuinamente nuevo.",
+      "quote_evidence": "El lenguaje solo es diferente del pensamiento cuando se trata de lenguaje explícito externo; internamente, lenguaje y pensamiento no son separables,"
+    },
+    {
+      "surface_form": "LLMs como modelos miméticos / iatrogenia terapéutica",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los LLMs no son IA ni siquiera débil: son modelos miméticos que replican la neurosis del usuario y se la devuelven,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página golem-de-cobre cubre extensamente LLMs no-IA, casos clínicos Her/Gemini/RLHF y deuda cognitiva. Material nuevo: (a) la formulación 'modelos miméticos que replican la neurosis del usuario y se la devuelven' es caracterización funcional más afilada que las ya documentadas ('estocástico', 'asociativo'), (b) la mecánica iatrogénica concreta del uso terapéutico — el mismo mensaje significa cosas distintas según el estado emocional del receptor y el LLM no puede modular en consecuencia — no aparece documentada, (c) consecuencia teórica: el uso de LLMs funciona como prueba empírica no buscada de la matriz Q-afectiva implícita.",
+      "quote_evidence": "El mismo mensaje en estados emocionales diferentes significa cosas diferentes; ChatGPT no puede gestionar esa diferencia,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "frozen-2013-film",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La película opera como [[heroe-truncado]] sistemático: ni Elsa se gana su poder ni Ana aprende del escarmiento.",
+      "section_target": null,
+      "content_proposed": "## Olaf, Kristoff y el reno: el desdoblamiento extendido\n\nUn directo posterior amplía la lectura del protagonista doble Elsa-Ana añadiendo dos piezas que completan el cuadro psíquico: Olaf como cifra de la infancia perdida y el par Kristoff/reno como única opción masculina del aparato.\n\n> \"Frozen puede leerse como si Elsa y Ana fueran la misma persona: partes diferentes del yo,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:27:53)](https://youtu.be/NjtK76xzV18?t=5273)\n\n> \"Elsa es la herida del síndrome de la jaula de oro que se refugia en un castillo de cristal como formación reactiva evitativa de la intimidad,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:27:53)](https://youtu.be/NjtK76xzV18?t=5273)\n\n> \"Ana es la parte no afectada que puede relacionarse con el mundo pero añora la infancia,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:27:53)](https://youtu.be/NjtK76xzV18?t=5273)\n\n> \"Olaf representa la nieve mágica de la infancia: el juego, la ingenuidad, el país de Nunca Jamás,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:27:53)](https://youtu.be/NjtK76xzV18?t=5273)\n\nLa pieza de Olaf cierra el cuadro del desdoblamiento femenino: Elsa porta la herida (formación reactiva del castillo de cristal como evitación de la intimidad), Ana porta el añoro (la parte no afectada que recuerda la infancia y querría volver a ella), y Olaf porta la **nieve mágica** misma — el contenido de esa infancia perdida cristalizado como personaje. La articulación opera como cifra del [[sindrome-wendy|síndrome de Wendy]] en formato Disney: el mundo afectivo se queda fijado en el país de Nunca Jamás porque el adulto que debería desplazarlo nunca se constituye.\n\n### El dipolo masculino cerrado: tirano y niño grande\n\nLa contraparte masculina del aparato queda articulada como dipolo cerrado del que ninguno de los dos polos cumple la función arquetípica del héroe:\n\n> \"Ana-Elsa solo tiene dos opciones: el tirano (el príncipe psicópata) y el niño grande (Kristoff),\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:31:28)](https://youtu.be/NjtK76xzV18?t=5488)\n\n> \"Kristoff y el reno son la misma persona: el reno representa el ello, los instintos que toman las decisiones por él,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:31:28)](https://youtu.be/NjtK76xzV18?t=5488)\n\n> \"Igual que en Enredados el caballo representa la virilidad del canalla, aquí el reno es la fuerza del bonachón,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:31:28)](https://youtu.be/NjtK76xzV18?t=5488)\n\nLa lectura precisa el déficit del marco masculino que la película ofrece: ninguna de las dos opciones es el héroe del [[viaje-heroe]]. El príncipe es el tirano-psicópata; Kristoff es el niño grande cuyas decisiones las toma el ello, representado externamente por el reno como animal-instinto — paralelo estructural a Maximus de *Enredados* como caballo que encarna la virilidad del canalla. La hija de la jaula de cristal solo sabe relacionarse con la negación del amor (Elsa replegada como otro yo de hielo) o con los restos de su infancia (Ana como parte Wendy que se enamora de niños perdidos).\n\nLa pieza completa el diagnóstico ya articulado en la página: la película no falla por ausencia de figura masculina sino por la imposibilidad estructural de que en este aparato cristalizado pueda emerger una. El [[hieros-gamos]] queda cancelado no porque el guion lo sustituya por el vínculo sororal — queda cancelado porque ninguna de las dos protagonistas puede reconocer al varón como interlocutor arquetípico, solo como tirano del que protegerse o niño con quien jugar.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "sindrome-wendy",
+        "viaje-heroe",
+        "hieros-gamos"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 5273,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:27:53)](https://youtu.be/NjtK76xzV18?t=5273)"
+        },
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 5488,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:31:28)](https://youtu.be/NjtK76xzV18?t=5488)"
+        }
+      ],
+      "rationale": "La página actual articula Elsa-Ana como una unidad psíquica desdoblada en sección dedicada, pero NO incluye: (a) Olaf como personaje portador de la infancia perdida — pieza clínicamente decisiva para cifrar la regresión Wendy del aparato, (b) Kristoff como niño grande con el reno como ello/instintos, (c) el dipolo cerrado tirano/niño-grande como única oferta masculina, (d) el paralelo estructural con Maximus de Enredados. Cuatro piezas genuinamente nuevas que extienden el cuadro de inversión arquetípica que la página ya formula. Insert_after_passage al final del análisis principal (justo antes de Lagunas) preserva el flujo y añade una sección coherente de profundización sin disrupción del cuerpo existente.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La tesis del canal queda así polemizada — no solo articulada — frente a una tradición concurrente.",
+      "section_target": null,
+      "content_proposed": "### Hipóstasis lenguaje/pensamiento, lengua-cultura y el diagnóstico psicológico del constructivismo\n\nUn directo posterior articula tres precisiones operativas a la crítica del constructivismo lingüístico ya documentada: (a) la falsedad del esquema descansa en una **hipóstasis** previa, (b) la dirección causal lenguaje/cultura es la inversa de la hipótesis Sapir-Whorf, (c) la adherencia al constructivismo tiene diagnóstico psicológico identificable en el aparato del [[diagrama-de-proxy]].\n\n**La hipóstasis previa.** La proposición 'el lenguaje determina el pensamiento' presupone que lenguaje y pensamiento son categorías independientes que pueden entrar en relación causal. Es una hipóstasis: separa metafísicamente lo que internamente no está separado.\n\n> \"La proposición \\\"el lenguaje determina el pensamiento\\\" es falsa porque presupone una hipóstasis: separa lenguaje y pensamiento como si fueran categorías independientes,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (44:24)](https://youtu.be/NjtK76xzV18?t=2664)\n\n> \"El lenguaje solo es diferente del pensamiento cuando se trata de lenguaje explícito externo; internamente, lenguaje y pensamiento no son separables,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (44:24)](https://youtu.be/NjtK76xzV18?t=2664)\n\nLa precisión es semiótica: solo el lenguaje **explícito externo** es categorialmente distinto del pensamiento; el lenguaje interno (la voz del pensar mismo) no lo es. La causalidad pretendida solo puede formularse para esa franja explícita-externa, donde sí hay simétricamente lenguaje y pensamiento como objetos distintos. El constructivismo extrapola la dirección causal de esa franja al sustrato cognitivo entero — y ahí la dirección no se aplica porque las categorías no se separan. La cláusula refuerza el postulado del marco sobre el límite de 12 bits/s: la franja consciente-explícita acotada es donde lenguaje y pensamiento se distinguen operativamente; el grueso de la matriz noética opera implícito, donde la distinción no procede.\n\n**Pensamiento prelingüístico como contraejemplo positivo.** Antes de adquirir las palabras correspondientes, el niño ya opera con conceptos abstractos:\n\n> \"Puede existir pensamiento sin palabras, sin voz interna y sin nombres: todo el imaginario fundamental carece de nombres,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (48:28)](https://youtu.be/NjtK76xzV18?t=2908)\n\n> \"De pequeños ya pensamos en conceptos como \\\"conjunto\\\" o \\\"clase\\\" sin conocer esas palabras,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (48:28)](https://youtu.be/NjtK76xzV18?t=2908)\n\n> \"La sensación de que todo pensamiento relevante es lenguaje es una ilusión fenomenológica, no la totalidad de la realidad cognitiva,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (48:28)](https://youtu.be/NjtK76xzV18?t=2908)\n\nLa pieza aporta el contraejemplo positivo (el pensamiento prelingüístico genuino con caso concreto: clases y conjuntos operados antes de tener las palabras) que la página enunciaba implícitamente como tesis pero no documentaba.\n\n**Lenguaje como consecuencia de la cultura, no su causa.** La inversión causal frente a Sapir-Whorf se articula con dos casos paradigmáticos del repertorio antropológico:\n\n> \"Los pueblos de Oceanía no se orientan bien por su lenguaje sino porque su cultura requiere orientación; el lenguaje evolucionó como consecuencia,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (54:32)](https://youtu.be/NjtK76xzV18?t=3272)\n\n> \"Es una ilusión creer que el lenguaje abre puertas cognitivas: los esquimales no tienen conciencia expandida sobre la nieve por tener muchos términos para ella,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (54:32)](https://youtu.be/NjtK76xzV18?t=3272)\n\n> \"Que una cultura incluya algo en su idioma no significa que el idioma haya producido esa cognición,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (54:32)](https://youtu.be/NjtK76xzV18?t=3272)\n\nLos dos casos clásicamente invocados a favor de Sapir-Whorf (orientación de los pueblos del Pacífico, vocabulario inuit sobre la nieve) se reinterpretan como manifestaciones lingüísticas de necesidades culturales preexistentes — el léxico se adensa donde la práctica lo exige, no la práctica donde el léxico lo nombra.\n\n**Diagnóstico psicológico del constructivismo.** La adherencia al constructivismo lingüístico no se trata aquí como error teórico sino como manifestación de una configuración afectiva concreta:\n\n> \"El relativismo posmoderno cree que el lenguaje determina el pensamiento porque necesita un locus externo de control,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (59:07)](https://youtu.be/NjtK76xzV18?t=3547)\n\nLa pieza articula la tesis cognitiva con el aparato del [[diagrama-de-proxy]]: el constructivismo lingüístico es atractivo para configuraciones afectivas con locus externo de control porque permite atribuir la propia mente a la presión cultural-lingüística — versión sofisticada del 'el mal está fuera' que la página del diagrama documenta como cifra paterna del eje vertical. La crítica al constructivismo gana así un flanco diagnóstico: por qué la tesis falsa persiste, no solo por qué es falsa.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "diagrama-de-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 2664,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (44:24)](https://youtu.be/NjtK76xzV18?t=2664)"
+        },
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 2908,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (48:28)](https://youtu.be/NjtK76xzV18?t=2908)"
+        },
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 3272,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (54:32)](https://youtu.be/NjtK76xzV18?t=3272)"
+        },
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 3547,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (59:07)](https://youtu.be/NjtK76xzV18?t=3547)"
+        }
+      ],
+      "rationale": "La página tiene sección 'Crítica al constructivismo lingüístico' (Stream Navidad 2025) que ENUNCIA la tesis pero no documenta argumentos concretos. ESTA aparición aporta: (1) crítica explícita de la hipóstasis previa al esquema lenguaje→pensamiento, (2) contraejemplo positivo (pensamiento prelingüístico con caso concreto: niños operan con 'conjunto'/'clase' sin las palabras), (3) los dos casos paradigmáticos clásicamente invocados a favor de Sapir-Whorf (Oceanía, esquimales) reinterpretados con causalidad invertida, (4) diagnóstico psicológico (locus externo de control) que conecta orgánicamente con el diagrama-de-proxy. Cuatro piezas genuinamente nuevas, no redundantes con el material existente. Insert_after_passage al cierre de la sección existente respeta el flujo y profundiza sin reemplazar.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "alostasis-y-apagon-organico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La esperanza, en este modelo, no es estado psicológico subjetivo añadido al sustrato biológico — es **inhibidor del apagón**, pieza funcional del programa alostático. Su retirada activa el interruptor.",
+      "section_target": null,
+      "content_proposed": "## Automorición como conducta no motivada: la mecánica afectiva alostática rota\n\nEn directo posterior el canal extiende el modelo del apagón orgánico al fenómeno específico del suicidio articulándolo como **conducta no motivada** — fallo estructural de la mecánica afectiva alostática que descalibra la capacidad misma de ponderar. La pieza tiene consecuencia diagnóstica fuerte: la automorición es la conducta más difícil de predecir precisamente porque no se origina en el aparato motivacional ordinario.\n\n> \"La automorición es la conducta más difícil de predecir porque carece de predictores fiables,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)\n\n> \"Puede que no sea una decisión en sentido convencional sino un fallo en la mecánica afectiva alostática que elimina la capacidad de ponderar,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)\n\n> \"Los afectos son valencias de la matriz interna que colorean la realidad para motivar acciones; si esa ecuación no funciona, la conducta se desliga de la motivación normal,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)\n\nLa formulación articula explícitamente la pieza que la página enunciaba en plano fisiológico (el apagón como objetivo programado, la esperanza como inhibidor) y la traslada al plano psíquico-afectivo: los afectos operan como valencias que colorean la realidad y motivan la acción; si la ecuación afectiva colapsa, la conducta queda desligada del aparato motivacional y se vuelve impredecible desde fuera. La automorición es ese caso límite — no falla la motivación hacia tal o cual fin, falla el mecanismo mismo que produce la motivación.\n\n### Eliminación de los predictores ordinarios\n\nEl canal articula la tesis de fallo motivacional descartando operativamente los predictores que la psiquiatría clínica ordinaria invoca:\n\n> \"La depresión no es predictor suficiente porque es un espectro demasiado amplio y hay personas no deprimidas que se automoren,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)\n\n> \"La ideación suicida tampoco es un predictor fiable del acto,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)\n\n> \"También ocurre en estados maníacos o de euforia anómala, lo que refuerza la hipótesis de un problema inhibitorio,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)\n\n> \"No puede ser simplemente mayor impulsividad porque entonces habría personalidades más propensas y no las hay,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)\n\nLa eliminación operativa de los tres candidatos clásicos — depresión como afecto dominante, ideación como variable cognitiva, impulsividad como rasgo de personalidad — refuerza la hipótesis del **fallo inhibitorio** estructural:\n\n> \"Si es un déficit inhibitorio como en la psicosis, las ideaciones se convierten en actos porque falla el mecanismo que debería impedirlo,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)\n\nLa analogía con la psicosis es operativa: en la psicosis falla la inhibición top-down de la actividad imaginaria bottom-up; en la automorición fallaría el mecanismo análogo que impide que las ideaciones suicidas latentes se conviertan en acto. La conducta no se origina en una motivación reforzada sino en la **caída del freno** que normalmente impediría que se ejecute una representación mental sin sustrato afectivo coherente.\n\nLa consecuencia para el modelo del apagón orgánico es estructural: la automorición no es 'apagón orgánico voluntario' ni decisión ponderada de cesar — es la versión psíquica del mismo mecanismo de desconexión instantánea, donde lo que falla no es la fisiología sino la propia capacidad de calcular la conducta desde la mecánica afectiva. Esto explica clínicamente por qué los predictores ordinarios fracasan y por qué la automorición aparece tanto en estados depresivos como maníacos: ninguno de los dos cuadros afectivos es el predictor — el predictor sería una propiedad estructural del freno inhibitorio que ningún test psiquiátrico mide directamente.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 5772,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)"
+        },
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 6325,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)"
+        }
+      ],
+      "rationale": "La página articula alostasis + apagón orgánico como modelo fisiológico-psicológico, con la esperanza como inhibidor del apagón. NO cubre: (a) la automorición como caso específico del fenómeno con sustrato motivacional, (b) la eliminación operativa de depresión/ideación/impulsividad como predictores fiables, (c) la hipótesis del déficit inhibitorio análogo a la psicosis, (d) los afectos como valencias de la ecuación motivacional cuya quiebra desliga la conducta. Cuatro piezas nuevas que extienden el modelo del apagón a la dimensión específica del suicidio articulada como conducta no motivada — fallo del mismo aparato pero por colapso de la ecuación afectiva en lugar de por retirada de la esperanza. Insert antes de Lagunas conserva el flujo expositivo y profundiza naturalmente.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El modelo generaliza mecánicamente patrones del entrenamiento RLHF sin comprender los daños subyacentes — ejemplo operativo de que el LLM no razona sino que reproduce gradientes ajustados al feedback humano.",
+      "section_target": null,
+      "content_proposed": "### LLM como modelo mimético: por qué la terapia con ChatGPT es iatrogénica\n\nEn directo posterior el canal articula con más precisión la mecánica iatrogénica del uso terapéutico de los LLMs, ahora caracterizándolos como **modelos miméticos** que replican y devuelven la neurosis del usuario:\n\n> \"Los LLMs no son IA ni siquiera débil: son modelos miméticos que replican la neurosis del usuario y se la devuelven,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)\n\nLa categoría 'mimético' es más precisa que 'estocástico' o 'asociativo' a este efecto: caracteriza al modelo por su función relacional con el usuario, no por su arquitectura interna. El LLM no está produciendo contenido neutro que el usuario consume — está reproduciendo en su salida el patrón afectivo-discursivo que el usuario aporta como input. La consecuencia para el uso terapéutico es estructural: lo que el sujeto recibe es su propia neurosis envuelta en interlocución sintética.\n\nLa mecánica concreta del peligro se articula en dos pasos:\n\n> \"Cuando alguien se abre emocionalmente a ChatGPT, su estado afectivo hace que el mensaje recibido funcione como la ayuda que cree merecer,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)\n\n> \"El mismo mensaje en estados emocionales diferentes significa cosas diferentes; ChatGPT no puede gestionar esa diferencia,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)\n\nLa precisión cognitiva conecta con la articulación de [[teoria-del-simbolo-en-proxy]] sobre la matriz noética: una misma proposición lingüística evoca representaciones distintas según la configuración Q-afectiva del receptor. Lo que el LLM no puede hacer — porque carece de la capacidad de leer la configuración afectiva del usuario — es modular su respuesta según el estado emocional del interlocutor. Un terapeuta humano lo hace de manera continua y a menudo inconsciente; el LLM produce el mismo gradiente probabilístico independientemente del estado afectivo del receptor, y es el receptor quien proyecta sobre la salida la lectura que cuadra con su matriz interna en ese momento.\n\nEl resultado es estructuralmente iatrogénico cuando el usuario está en estado emocional vulnerable: el modelo le devuelve, modulada por la simetría conversacional, la propia distorsión que aportó como input — y el sujeto la recibe como validación porque no hay agente real que la corrija. La pieza añade un flanco al diagnóstico de la página: además de la dependencia ergonómica y la deuda cognitiva ya documentadas, hay una **deuda afectiva** específica del uso terapéutico — el sujeto se abre con un interlocutor que carece de la capacidad de gestionar el estado emocional con que se abre, y esa asimetría amplifica la neurosis preexistente en lugar de neutralizarla.\n\nEl canal subraya una consecuencia teórica accidental:\n\n> \"Es una prueba inesperada de que existen mecánicas inconscientes que se filtran a través del lenguaje,\"\n→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)\n\nEl uso clínico-iatrogénico de los LLMs funciona como instrumento empírico no buscado para una tesis del marco: demuestra que la matriz Q-afectiva opera por debajo del lenguaje explícito y se filtra en cómo cada interlocutor lee la misma cadena verbal. Si el contenido del lenguaje agotara el pensamiento, el mismo mensaje significaría lo mismo para todo receptor; el hecho de que no lo haga es evidencia operativa de la franja implícita de la matriz noética.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "NjtK76xzV18",
+          "timestamp_seconds": 4758,
+          "cite_markdown": "[Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)"
+        }
+      ],
+      "rationale": "La página golem-de-cobre cubre extensamente LLMs como no-IA, casos clínicos Her/Gemini/RLHF, deuda cognitiva y dependencia ergonómica. NO cubre: (a) la categoría específica 'modelos miméticos' como caracterización funcional del LLM por su relación con el usuario (más precisa que 'asociativos' o 'estocásticos'), (b) la mecánica iatrogénica concreta del uso terapéutico — el mismo mensaje significa cosas distintas según el estado emocional del receptor y el LLM no puede modularse en consecuencia, (c) la consecuencia teórica de que el uso de LLMs funciona como prueba empírica no buscada de la matriz Q-afectiva implícita. Material genuinamente nuevo. Insert tras la sección de casos clínicos RLHF preserva el flujo expositivo.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Frankenstein de Guillermo del Toro",
+      "reason_code": "passing_mention",
+      "reason_detail": "Opinión personal sin análisis arquetípico aplicado: el speaker dice no haberle gustado, comenta uso del tarot, declara que no entendió escenas y necesita revisarla. No hay marco aplicado, no hay tesis. Mera valoración cinéfila preliminar. Si el canal hace análisis monográfico posterior la película puede promoverse, pero no aquí.",
+      "quote_evidence": "No le gustó la película aunque reconoce el uso del tarot de Guillermo del Toro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Programación Neurolingüística (PNL)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención crítica de una sola línea sin desarrollo. La crítica al constructivismo lingüístico ya queda capturada en el update a teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "La PNL dice que el lenguaje afecta al pensamiento, pero eso es una perogrullada: toda percepción afecta al pensamiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Estudio correlacional ciclos menstruales / fases lunares",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Comentario metodológico sobre un estudio empírico (correlación menstrual-lunar y discusión sobre causalidad gravitatoria/circadiana). El speaker usa el caso como excusa para discutir epistemología de la causalidad y el escepticismo acrítico — no articula tesis sobre el ciclo lunar ni la integra a marco mitológico-arquetípico (mito lunar, ánima). Discusión metodológica neutra sin marco propio aplicado.",
+      "quote_evidence": "Estudio muestra correlación entre ciclos menstruales y fases lunares que se intensifica cuando la influencia gravitacional es más fuerte,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Causalidad y método científico (heurísticos, hipótesis cero, falsación)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Discusión metodológica de epistemología de la ciencia (~3 min) sin que el canal articule tesis propia ni la enmarque en su matriz cognitiva. Es comentario de pasada sobre cómo opera la ciencia, no contenido enciclopédico del canal con marco aplicado.",
+      "quote_evidence": "Todo pensamiento parte de apriorísticos heurísticos y la ciencia los va sustituyendo por saltos más pequeños,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Caín y Abel (mito como ilustración del trauma paterno)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El mito se invoca brevemente como cifra del trauma paterno en el contexto de la antisocialidad por ausencia de padre, sin desarrollo arquetípico propio. Pieza ilustrativa de la dinámica paterna ya documentada en sindrome-del-nino-masculino y diagrama-de-proxy.",
+      "quote_evidence": "El mito de Caín y Abel ilustra el trauma paterno: \"¿Acaso soy yo el guardián de mi hermano?\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-del-nino-masculino"
+    },
+    {
+      "surface_form": "Lado izquierdo del diagrama con padre, lado derecho con madre",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La página diagrama-de-proxy ya tiene sección 'Clave parental completa' donde articula eje vertical=padre y eje horizontal=madre. El summary aporta una asignación lateral (izquierdo=padre, derecho=madre) que entra potencialmente en tensión con la asignación axial existente. Sin desarrollo extenso aquí (mención de una línea), no se justifica un pending_update que reabra esa articulación. Queda flagged para revisión humana — posiblemente el canal opera con dos cifras parentales paralelas (axial vs lateral) y conviene unificar editorialmente.",
+      "quote_evidence": "En el diagrama de Proxy, el lado izquierdo tiene problemas con el padre y el derecho con la madre,",
+      "review_priority": "medium",
+      "review_priority_reason": "Posible inconsistencia o evolución de la cifra parental del diagrama: la página actual asigna padre=eje vertical y madre=eje horizontal; este summary asigna padre=lado izquierdo (lateral, no axial). Editor humano debe decidir si se documenta como evolución, como cifra paralela, o como precisión sobre un sub-cuadrante específico.",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Función paterna como negociación / paternidad vs tecnología",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tres minutos de comentario sobre la negociación parental en el contexto contemporáneo (videojuegos, redes). No articula tesis propia ni marco nuevo. Conecta tangencialmente con la crítica al consumismo y el síndrome del niño masculino sin profundizar.",
+      "quote_evidence": "Hoy es como negociar con un adicto porque hay que competir con tecnología, videojuegos y redes sociales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Vulnerabilidad del actor / masking en espectro psicopático-autista",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tres minutos sobre afectividad lábil vs masking en espectro psicopático-autista. Distinción operativa preliminar pero no formalizada como tesis sostenida ni encajable en página existente como pieza nueva sustantiva.",
+      "quote_evidence": "Las personas con afectividad lábil no pueden fingir abrirse sin evocar internamente la emoción real,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Forma y fondo / ilusiones ópticas (percepción vs cognición)",
+      "reason_code": "already_captured",
+      "reason_detail": "El speaker invoca explícitamente 'el directo El imaginario de Proxy' como referencia previa de la distinción percepción/cognición. La distinción ya está articulada en teoria-del-simbolo-en-proxy (sección de componente imaginaria, doble vía modular/distribuida) y golem-de-cobre. Aquí solo se cita como pieza ya establecida.",
+      "quote_evidence": "Forma y fondo es una estructura de la mente, no de la realidad: nosotros percibimos forma, no forma y fondo separados,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Síndrome de la jaula de oro",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El término aparece como cifra clínica de Elsa en el análisis de Frozen y queda capturado en el pending_update a frozen-2013-film. No merece página propia: es categoría psicopatológica popular usada como cifra ilustrativa del cuadro Wendy/jaula de cristal ya documentado en sindrome-wendy y la propia página de Frozen.",
+      "quote_evidence": "Elsa es la herida del síndrome de la jaula de oro que se refugia en un castillo de cristal como formación reactiva evitativa de la intimidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "frozen-2013-film"
+    },
+    {
+      "surface_form": "Caballo de Enredados (Maximus) como virilidad del canalla",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Mención comparativa que enriquece el análisis del reno de Frozen como ello/instintos. Queda capturada en el pending_update a frozen-2013-film. Enredados como obra entera no se analiza aquí, solo se invoca el caballo como paralelo estructural del reno — no justifica promoción de Enredados como entity_work.",
+      "quote_evidence": "Igual que en Enredados el caballo representa la virilidad del canalla, aquí el reno es la fuerza del bonachón,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "frozen-2013-film"
+    },
+    {
+      "surface_form": "Trauma como prueba de que el yo preexiste a la cultura",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento epistemológico (~2 min) usado como contraejemplo a la tabula rasa en la discusión Sapir-Whorf. Es subsidiario de la crítica al constructivismo y queda subsumido editorialmente en el flanco diagnóstico del update a teoria-del-simbolo-en-proxy. La página trauma-en-proxy articula trauma desde marco mitológico-clínico que es ortogonal a este uso argumentativo.",
+      "quote_evidence": "Si fuéramos hojas en blanco no existiría el trauma porque nos adaptaríamos a cualquier experiencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Culturas psicogénicas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención de una línea como apoyo del argumento sobre el yo preexistente. Sin desarrollo del concepto ni articulación con marco propio del canal.",
+      "quote_evidence": "Hay culturas psicogénicas que desarrollan enfermedad mental en los niños, lo que demuestra que el yo preexiste y se defiende de la cultura,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Frase \"Me he convertido en muerte, el destructor de mundos\" (Bhagavad Gita / Oppenheimer en Alien Covenant)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cita usada para interpretar el suicidio del arquitecto en Prometheus y la teleología del mal en Alien Covenant. Queda subsumida en el análisis de la saga Alien (entity_work alien-saga propuesto). No merece tratamiento autónomo.",
+      "quote_evidence": "El significado del inicio de Prometheus se explica al final de Alien Covenant con la frase \"Me he convertido en muerte, el destructor de mundos\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alien-saga"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 1,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T12:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Alien (saga) / Alien Earth / Prometheus / Alien Covenant] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

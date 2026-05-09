@@ -179,6 +179,28 @@ El canal separa:
 
 Esta distinción es importante para el canal porque permite diferenciar lo verdaderamente arquetípico de lo culturalmente compartido pero no universal — un patrón que aplica a una sola tradición no es del inconsciente colectivo aunque sea inconsciente y compartido.
 
+
+
+## Lista canónica del libro: los seis mitos propios primarios
+
+El directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) fija la formulación canónica de los mitos primarios que articula el libro [[del-origen-del-mal-libro|Del origen del mal]] del canal. La lista es más reducida y operativa que articulaciones anteriores del corpus: en lugar de enumerar masculino/femenino, héroe/diosa y polar como entradas separadas, el libro absorbe héroe en solar y diosa en lunar y deja seis mitos propios primarios:
+
+> "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)
+
+La formulación compacta importa porque cada mito tiene en el libro una secuencia interna canónica:
+
+> "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)
+
+> "El mito polar es la superposición del solar y el lunar,"
+→ [Directo doble Parte 1 (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)
+
+Las secuencias completas se articulan en las páginas correspondientes: [[mito-solar]] (caída-camino-muerte-apoteosis), [[mito-lunar]] (despertar-creación-caída-luna roja-exorcismo) y [[mito-polar]] (composición de ambos). Las páginas de [[genesis-mitologico]] y la futura página de apocalipsis articulan los otros dos mitos canónicos. El mito del mago, sexto del catálogo, se trata en la sección sobre el arcano del Mago de [[tarot-arquetipico]] con su esquema cuatripartito propio (activo/pasivo × divino/mágico).
+
+La pieza precisa el catálogo arquetípico del canal frente a articulaciones anteriores menos reducidas: los seis mitos primarios son las únicas estructuras genuinamente arquetípicas del inconsciente colectivo según la formulación final del libro. Otras estructuras tradicionalmente listadas (mito del héroe, mito de la diosa, masculino/femenino) son **manifestaciones operativas** de las seis categorías canónicas, no entradas independientes del catálogo.
+
+
 ## Los arquetipos: se descubren, no se inventan
 
 > "Los arquetipos son estructuras humanas fundamentales que siempre han estado ahí y se expresan de formas culturales prototípicas o estereotípicas. Hay unos **30 y tantos arquetipos principales**, que pueden ser estructurales (mitemas) o personales (encarnados en figuras). La fantasía moderna es una forma de mito y los arquetipos se enseñan."
@@ -279,6 +301,8 @@ La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en po
 ## Citations
 
 
+
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Stream Navidad 2025** — chunks: [18:16](https://youtu.be/hVfKOHEM_wU?t=1096)
+- **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:36:06](https://youtu.be/t8v5w3s0USA?t=5766)
 

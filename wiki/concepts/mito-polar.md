@@ -101,6 +101,21 @@ Aclaración insistente del canal — la polaridad NO es esencialismo biológico:
 
 Esta aclaración entronca con la página de [[anima-archetype]]: la polaridad es un eje cognitivo presente en toda psique, no un mapa de roles sexuales.
 
+
+
+### Aplicación al aparato psíquico individual: consciente solar, inconsciente lunar
+
+El canal extiende en directo la cosmogonía polar al aparato psíquico individual mediante un mapping operativo que prolonga la triada solar/lunar/polar al eje consciente/inconsciente:
+
+> "Si el consciente es solar, el inconsciente es lunar; si la acción es masculina, la contemplación/recepción es femenina,"
+→ [Directo casual (29:23)](https://youtu.be/ECN5C9rsaZg?t=1763)
+
+> "Lo que nos ocurre sin que lo hagamos activamente pertenece a lo femenino,"
+→ [Directo casual (29:23)](https://youtu.be/ECN5C9rsaZg?t=1763)
+
+La operación traduce la cosmogonía polar a clave psicológica individual: lo activo/voluntario opera bajo régimen solar-masculino, lo que ocurre sin agencia consciente bajo régimen lunar-femenino. La pieza permite leer arquetipos del lado oscuro del inconsciente (Lilit como luna negra, formas de anhelo sin objeto, ansiedades sin causa identificable) como manifestaciones del polo lunar dentro del psiquismo individual, no como cosmogonías externas. La cosmogonía polar deja de ser solo mapa de mitos y pasa a ser mapa funcional del aparato psíquico cotidiano.
+
+
 ## Aplicaciones canónicas en el corpus
 
 ### Pandora y Prometeo: lo personal masculino-femenino
@@ -175,6 +190,9 @@ La pieza completa el catálogo de polares del corpus añadiendo el caso paradigm
 
 
 
+
+
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -184,4 +202,7 @@ La pieza completa el catálogo de polares del corpus añadiendo el caso paradigm
 
 - **Análisis arquetípico: Excalibur** — chunks: [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)
+- **Directo casual** — chunks: [29:23](https://youtu.be/ECN5C9rsaZg?t=1763)
+- **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
+- **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 

@@ -1,0 +1,534 @@
+{
+  "video_id": "PWUUY7vVgUk",
+  "video_title": "El lenguaje no determina el pensamiento.",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Teoría del lenguaje del canal: el lenguaje NO determina el pensamiento (psicolingüística representacionalista)",
+      "canonical_guess": "teoria-del-lenguaje-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "minutes_estimate": 145,
+      "depth_in_video": "central_thesis",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Proxy sostiene que esto no es así dado el estado actual del conocimiento,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Lenguaje simbólico: código que emplea símbolos externos para expresar ideas complejas,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El lenguaje es al menos seis veces más complejo que la mera producción representacional y el habla,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las categorías gramaticales son independientes de las categorías representacionales: \"víctima\" femenino no genera representación femenina,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "El enfoque del canal es representacionalista, realista y cognitivista,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de ~145 min sostenidos articulando la tesis nuclear del canal sobre lenguaje y pensamiento, con marco pedagógico tipo Psicología 101 y estructura interna de ≥20 piezas coordinadas: tesis nuclear (lenguaje no determina pensamiento), cuatro acepciones de lenguaje, distinción neurolingüística/psicolingüística con autoposicionamiento (representacionalista, realista, cognitivista), división neurológica funcional/articulatoria, mapa completo de trastornos (TEL/apragmatismo/disartria/dislalia/disglosia/disfasia/afasia/glosolalia/taquifemia/disfemias/disgrafía/dislexia), tipología completa de afasias fluentes y no fluentes, las cuatro fases cognitivas, las cuatro áreas corticales, epistemología de la lectura, mito de los esquimales, idiomas sin verbo 'ser', tres postulados a desmontar (Heidegger/PNL/determinismo), triple problema 'qué es lenguaje, qué es pensamiento, qué es determinar', concordancia prelingüística, recorrido completo por teorías (Sapir-Whorf, Skinner, Piaget, Vygotsky, Chomsky, Halliday, Fodor/Modularismo), caso Genie. Pasa el gate de auto-promoción §2.4.1 cómodamente (minutes >>30, signals ≥4, structure >>4 piezas dependientes). Es la pieza foundational del marco lingüístico del canal — paralela a teoria-del-simbolo-en-proxy (símbolo) y teoria-de-las-emociones-en-proxy (emociones), cierra el flanco lingüístico que aquellas dejaban implícito.",
+      "quote_evidence": "El lenguaje es un algoritmo de compresión: agrupa representaciones complejas en palabras,"
+    },
+    {
+      "surface_form": "PNL como caso de magia postmoderna lingüística",
+      "canonical_guess": "magia-postmoderna-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "minutes_estimate": 3,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La PNL pretende reprogramar el interior modificando el lenguaje, pero el lenguaje solo puede evocar lo que ya existe internamente,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Si la PNL funcionara, el lenguaje podría curar la depresión, y eso es positivismo postmoderno falso,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página de magia-postmoderna documenta el sofisma poético del chamán cuántico, la taxonomía esotérica (Wicca/Thelema/satanismo/magia del caos), el aparato oráculo, magia vs religión y casos de oráculos pop. Le falta la PNL como caso operativo del aparato magia postmoderna aplicado al campo lingüístico-terapéutico. Este vídeo articula la PNL precisamente como pretensión mágica de modificar el interior por procedimiento lingüístico — exactamente la mecánica que el aparato magia postmoderna identifica. Pieza pequeña pero estructuralmente importante: la PNL es el caso que conecta el aparato lingüístico (lenguaje no determina pensamiento) con el aparato magia postmoderna (procedimiento sin garantía de referente).",
+      "quote_evidence": "La PNL pretende reprogramar el interior modificando el lenguaje, pero el lenguaje solo puede evocar lo que ya existe internamente,"
+    },
+    {
+      "surface_form": "Heidegger ('Solo hay mundo donde hay lenguaje')",
+      "canonical_guess": "heidegger-martin",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 2,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "\"Solo hay mundo donde hay lenguaje\" (Heidegger): confunde mundo representacional con mundo lingüístico,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Heidegger en canonical_whitelist soft (auto_promote: false). Mencionado aquí como uno de los tres postulados a desmontar (junto a PNL y determinismo lingüístico) con cita literal de la tesis ('Solo hay mundo donde hay lenguaje') y crítica explícita ('confunde mundo representacional con mundo lingüístico'). El tratamiento es breve (~1 min) — no llega al umbral para activar la whitelist soft (que requiere ≥3 min substantivos + criterio adicional). Material capturado como pieza dentro del nuevo teoria-del-lenguaje-en-proxy. Si el canal vuelve sobre Heidegger en otro vídeo, podría activarse la promoción.",
+      "quote_evidence": "\"Solo hay mundo donde hay lenguaje\" (Heidegger): confunde mundo representacional con mundo lingüístico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Heidegger ya en whitelist soft; la crítica directa a su tesis sobre mundo y lenguaje es material para futura promoción si reincide",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Chomsky (pregramática universal vs gramática universal)",
+      "canonical_guess": "chomsky-noam",
+      "page_type": "author",
+      "domain_primary_guess": "interdisciplinary.semiotics",
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Chomsky: correcta la capacidad innata, pero habría que hablar de pregramática universal más que gramática universal,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Chomsky en canonical_whitelist soft (auto_promote: false, caso explícito de 'foundational singleton' que motivó la whitelist). El vídeo articula una refinación operativa de su tesis ('pregramática universal' como categoría más precisa que 'gramática universal') — claramente marco aplicado, no mera mención. Bordeline para activar la whitelist soft. Hold como discarded con priority alta — el material es suficiente para promover si se confirma en otro vídeo. Capturado dentro del recorrido por teorías en el nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Chomsky: correcta la capacidad innata, pero habría que hablar de pregramática universal más que gramática universal,",
+      "review_priority": "high",
+      "review_priority_reason": "Chomsky es caso paradigmático de foundational singleton de la whitelist; el canal articula refinación operativa de su tesis (pregramática universal) — candidato fuerte a promoción si se reincide",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Sapir-Whorf (relativismo lingüístico)",
+      "canonical_guess": "sapir-whorf",
+      "page_type": "author",
+      "domain_primary_guess": "interdisciplinary.semiotics",
+      "minutes_estimate": 5,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Sapir-Whorf (relativismo lingüístico): incorrecto, las diferencias lingüísticas reflejan experiencias, no las causan,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Sapir-Whorf como hipótesis target de la crítica nuclear del vídeo. Tratamiento sustantivo pero negativo (es incorrecto). No merece página de autor propia — no es figura cuyo pensamiento el canal aplique como marco propio sino tradición intelectual que el canal critica. Material capturado en el recorrido por teorías del nuevo teoria-del-lenguaje-en-proxy. Mismo razonamiento aplica a Skinner, Piaget, Vygotsky, Halliday, Fodor — todos teóricos del recorrido sin promoción individual.",
+      "quote_evidence": "Sapir-Whorf (relativismo lingüístico): incorrecto, las diferencias lingüísticas reflejan experiencias, no las causan,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Skinner, Piaget, Vygotsky, Halliday, Fodor (recorrido por teorías lingüísticas)",
+      "canonical_guess": null,
+      "page_type": "author",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "minutes_estimate": 15,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Skinner (conductismo): confunde aprendizaje del idioma con aprendizaje del lenguaje,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Cinco teóricos del lenguaje cubiertos en el recorrido sistemático del canal: Skinner (conductista, confunde idioma con lenguaje), Piaget (correcto en fases pero genérico), Vygotsky (correcto en social pero reducido a pragmática), Halliday (correcto en función social pero limitado), Fodor (modularismo correcto pero las representaciones exceden el lenguaje). Cada uno recibe ~3 min de tratamiento crítico-evaluativo. Ninguno opera como marco aplicado del canal — son tradiciones evaluadas dentro del recorrido. No merecen páginas individuales. Material capturado en el recorrido por teorías del nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Vygotsky: correcto que el contexto social importa, pero reduce demasiado el lenguaje a pragmática,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Caso Genie (representación sin lenguaje)",
+      "canonical_guess": null,
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Se puede inferir qué categorías hay en la mente de alguien sin lenguaje conociendo sus componentes y su experiencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Caso clínico Genie (la 'niña salvaje' de Los Ángeles) invocado como evidencia de la separabilidad de representación y lenguaje. Mención breve sin desarrollo monográfico. Capturado como pieza dentro del nuevo teoria-del-lenguaje-en-proxy. No merece entity_work propia con este tratamiento.",
+      "quote_evidence": "Las representaciones se dividen en componentes representacionales innatas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Mecánica del tabú (alternativa al determinismo lingüístico)",
+      "canonical_guess": null,
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.semiotics",
+      "minutes_estimate": 5,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Esto es manipulación del lenguaje externo y funciona como la mecánica del tabú, no como cambio del pensamiento interno,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "No es el lenguaje el que determina el pensamiento, sino que los afectos ajenos influyen en los propios,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza ~5 min articulando la 'mecánica del tabú' como explicación correcta del fenómeno que el determinismo lingüístico interpreta erróneamente. La culpa al usar términos tabú no proviene del lenguaje moldeando pensamiento sino de los afectos de los demás influyendo en los propios. Material relevante pero captura completa dentro del nuevo teoria-del-lenguaje-en-proxy. Si se desarrolla más en otros vídeos podría merecer página propia.",
+      "quote_evidence": "La culpa al usar un término tabú proviene de los afectos de los demás influyendo en tus afectos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Concepto operativo del canal — candidato a página propia si se sostiene en futuros vídeos",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Mito de los esquimales y los tonos de blanco (Sapir-Whorf desmontado)",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": null,
+      "minutes_estimate": 4,
+      "depth_in_video": "secondary",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los inuit no perciben más tonos de blanco; tienen más palabras porque discriminan hechos relevantes para su supervivencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Caso paradigmático del desmontaje de Sapir-Whorf. Pieza importante pero capturada como subsección dentro del nuevo teoria-del-lenguaje-en-proxy. No merece entrada propia.",
+      "quote_evidence": "Los inuit no perciben más tonos de blanco; tienen más palabras porque discriminan hechos relevantes para su supervivencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Mito vs logos (siempre coexistentes)",
+      "canonical_guess": null,
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Se niega la máxima de que la modernidad surgió al pasar del mito al logos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo que cambió fue la cantidad de magia contenida en el mito, no la desaparición del pensamiento mítico,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Tesis filosófica importante: niega la narrativa modernista del paso mito→logos, articula que ambos coexisten y lo que cambió es la cantidad de magia en el mito. Material relevante para mitologia-propia-impropia, magia-postmoderna y collective-unconscious. Hold como discarded — pieza breve (~3 min) sin desarrollo monográfico. Capturada en el recorrido teórico del nuevo teoria-del-lenguaje.",
+      "quote_evidence": "Siempre ha habido mito y siempre ha habido logos simultáneamente,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis sobre persistencia simultánea mito-logos relevante para mitologia-propia-impropia y magia-postmoderna",
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Neuronas espejo como constructo teórico (no real)",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": "natural.neuroscience",
+      "minutes_estimate": 2,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las neuronas espejo son un constructo teórico, no un conjunto neuronal real,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Crítica conceptual a la difusión popular de las 'neuronas espejo' como entidad neural específica — el canal aclara que son constructo teórico sin sustrato neural identificable. Pieza interesante pero breve, capturada en el nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Las neuronas espejo son un constructo teórico, no un conjunto neuronal real,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Lateralización cerebral del lenguaje y la ilusión hemisferio izq/derecho",
+      "canonical_guess": null,
+      "page_type": null,
+      "domain_primary_guess": "natural.neuroscience",
+      "minutes_estimate": 3,
+      "depth_in_video": "passing_mention",
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La ilusión de que el hemisferio izquierdo es analítico y el derecho creativo se debe solo a que el lenguaje está lateralizado a la izquierda,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "discard",
+      "decision_reason": "Pieza neurocientífica desmontando la dicotomía pop entre hemisferio analítico vs creativo. Capturada en el nuevo teoria-del-lenguaje-en-proxy. No merece página propia.",
+      "quote_evidence": "Las metarrepresentaciones del yo están en el hemisferio derecho,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    }
+  ],
+  "promote_new_pages": [
+    {
+      "page_id": "teoria-del-lenguaje-en-proxy",
+      "frontmatter": {
+        "page_id": "teoria-del-lenguaje-en-proxy",
+        "page_type": "synthesis",
+        "synthesis_subtype": "author_thesis",
+        "auto_promoted_synthesis": true,
+        "canonical_name": "Teoría del lenguaje en Proxy: el lenguaje NO determina el pensamiento",
+        "aliases": [
+          "teoria del lenguaje en proxy",
+          "psicolinguistica en proxy",
+          "lenguaje y pensamiento en proxy",
+          "anti-determinismo linguistico",
+          "anti-Sapir-Whorf en proxy",
+          "lenguaje no determina pensamiento"
+        ],
+        "domain_primary": "interdisciplinary.cognitive_science",
+        "primary_domains": [
+          "interdisciplinary.cognitive_science",
+          "interdisciplinary.semiotics",
+          "social.psychology.cognitive",
+          "natural.neuroscience"
+        ],
+        "relations": [
+          {
+            "type": "extends",
+            "to": "teoria-del-simbolo-en-proxy",
+            "weight": "canonical",
+            "note": "esta página articula la dimensión lingüística del aparato cognitivo del canal: la teoría del símbolo trabaja la matriz noética y la operación simbólica; esta trabaja específicamente el lenguaje como capa explícita del aparato representacional"
+          },
+          {
+            "type": "extends",
+            "to": "realismo-cognitivo",
+            "weight": "strong",
+            "note": "el enfoque del canal — representacionalista, realista y cognitivista — es la stance epistemológica del realismo cognitivo aplicada específicamente al campo lingüístico"
+          },
+          {
+            "type": "extends",
+            "to": "golem-de-cobre",
+            "weight": "strong",
+            "note": "la tesis 'lenguaje es algoritmo de compresión, no es pensamiento' refuerza la crítica al modelo computacional de la mente: el lenguaje no es la cognición, es solo su capa explícita comprimida"
+          },
+          {
+            "type": "compared_with",
+            "to": "magia-postmoderna-en-proxy",
+            "weight": "strong",
+            "note": "la PNL y el constructivismo lingüístico operan como casos paradigmáticos del aparato magia postmoderna aplicado al campo lingüístico-terapéutico — pretensión técnica de modificar realidad por procedimiento sin garantía de referente"
+          },
+          {
+            "type": "references",
+            "to": "collective-unconscious",
+            "note": "la concordancia prelingüística en niños y las componentes representacionales innatas del caso Genie articulan el sustrato innato que el inconsciente colectivo articula desde el plano arquetípico"
+          },
+          {
+            "type": "criticizes",
+            "to": "woke-narrativa-postmoderna-moral",
+            "note": "el constructivismo lingüístico contemporáneo (lenguaje inclusivo como vehículo de transformación cognitiva) opera con la lógica del determinismo lingüístico que esta página desmonta"
+          },
+          {
+            "type": "see_also",
+            "to": "mitologia-propia-impropia",
+            "note": "tesis adyacente: mito y logos siempre coexistieron, lo que cambió fue la cantidad de magia en el mito — corte explícito a la narrativa modernista del paso mito→logos"
+          }
+        ],
+        "sources_count": 1,
+        "schema_version": "1.0.0",
+        "review_status": "stub_in_session",
+        "status": "stub_in_session"
+      },
+      "body": "# Teoría del lenguaje en Proxy: el lenguaje NO determina el pensamiento\n\n## Tesis nuclear\n\nProxy articula en este vídeo monográfico una teoría propia del lenguaje cuyo eje es el rechazo categorial del relativismo lingüístico (hipótesis Sapir-Whorf y derivados): **el lenguaje no determina el pensamiento, lo expresa comprimidamente**. La cognición opera primariamente como representación; el lenguaje es solo la capa explícita del aparato representacional, lateralizada al hemisferio izquierdo en el 97-99% de las personas, comprimiendo en signos lo que el aparato noético sostiene en componentes Q (afectiva / imaginaria / formal). El constructivismo lingüístico contemporáneo, la PNL como técnica terapéutica y la tesis heideggeriana de que 'solo hay mundo donde hay lenguaje' son tres versiones de la misma confusión categorial: tomar la capa explícita por el todo cognitivo.\n\nEl enfoque que el canal autoposiciona explícitamente queda enunciado:\n\n> \"El enfoque del canal es representacionalista, realista y cognitivista,\"\n→ [El lenguaje no determina el pensamiento (22:47)](https://youtu.be/PWUUY7vVgUk?t=1367)\n\nLa stance se opone simétricamente al constructivismo lingüístico (que niega referente externo al lenguaje), al conductismo skinneriano (que reduce lenguaje a conducta aprendida) y al determinismo whorfiano (que invierte la dirección causal). El representacionalismo realista cognitivista articula: hay representaciones mentales reales con estructura propia, hay realidad cognoscible independiente de su expresión lingüística, y la cognición humana opera por categorías representacionales que el lenguaje comprime para comunicar.\n\n## Estructura del marco\n\n- **Triple problema del determinismo lingüístico**: ninguna escuela neurolingüística define con precisión qué es lenguaje, qué es pensamiento, ni qué es 'determinar'. Sin esas definiciones la tesis es retórica, no operativa.\n- **Las cuatro acepciones de 'lenguaje'**: simbólico (código de símbolos externos para ideas complejas), filosófico (convención formal sobre realidad y conocimiento), facultad humana (capacidad innata para sistemas de comunicación), fenómeno cultural (sistema dinámico que refleja estructuras sociales y cognitivas).\n- **Distinción neurolingüística / psicolingüística**: la neurolingüística estudia el lenguaje desde múltiples niveles pero tiende a mezclarlos; la psicolingüística es la psicología filosófica del lenguaje — el canal opera desde esta segunda.\n- **División neurológica**: parte funcional (qué funciones cognitivas producen lenguaje) y parte articulatoria (qué funciones somáticas lo ejecutan).\n- **Mapa completo de trastornos del lenguaje**: TEL (trastorno generalizado), apragmatismo (incapacidad de contextualizar), disartria (fallo motor), dislalia (fallo silábico), disglosia (dislalia orgánica: ceceo, rotacismo), disfasia (pérdida sobrevenida) y afasia (incapacidad general/crónica), dislexias, glosolalia, taquifemia, disfemias, disgrafía.\n- **Tipología completa de afasias**: fluentes (anómica, conducción, Wernicke) y no fluentes (transcortical motora, Broca, transcortical mixta, global).\n- **Cuatro fases cognitivas del lenguaje**: percepción, repetición automática, comprensión, elaboración — independientes y disociables clínicamente.\n- **Cuatro áreas corticales del lenguaje**: Wernicke (significación semántica), auditiva primaria (sonido→palabra), articulación (motor + prosodia), Broca (gramaticalidad y coherencia).\n- **Lectura ≠ habla**: el cerebro evolucionó para hablar pero no para leer; lo innato es el lenguaje, lo aprendido es el idioma; leer requiere instrucción explícita y ~20 áreas cerebrales (vs 4-6 del habla); aprender a leer y estudiar idiomas es la actividad más potente para aumentar el cociente intelectual.\n- **Lateralización del lenguaje**: hemisferio izquierdo en 97-99%; las metarrepresentaciones del yo, en el derecho. La dicotomía pop 'izquierdo analítico / derecho creativo' es ilusión derivada de la lateralización lingüística.\n- **Neuronas espejo como constructo teórico**: no son conjunto neuronal real sino categoría inferida.\n- **Lenguaje como algoritmo de compresión**: agrupa representaciones complejas en palabras; es la capa explícita del aparato noético.\n- **Mecánica del tabú** como explicación correcta de los fenómenos que el determinismo malinterpreta: los términos tabú generan culpa porque los afectos ajenos influyen en los propios, no porque el lenguaje moldee la representación interna.\n- **Diferencia cultural = afectiva, no formal ni imaginaria**: el caso de los inuit y los tonos de blanco; la mente puede representar todo lo que la otra cultura representa, lo que difiere es la importancia (matiz afectivo) que señala qué se segrega como entidad relevante.\n- **Independencia gramática / representación**: alemán usa la misma palabra para ser/estar sin perder los conceptos; los japoneses sin verbo 'ser' comprenden el Dasein; las categorías gramaticales son independientes de las representacionales ('víctima' femenino no genera representación femenina).\n- **Tres postulados a desmontar**: Heidegger ('Solo hay mundo donde hay lenguaje' confunde mundo representacional con lingüístico), PNL (pretende reprogramar el interior modificando el lenguaje, pero el lenguaje solo evoca lo que ya existe), determinismo lingüístico (constructivismo 100% es lógicamente imposible — sin representación interna previa las palabras serían solo sonidos).\n- **Lenguaje como conducta representacional, no comunicativa primariamente**: el origen evolutivo es comunicación, pero la función primaria es representación; no se aprende un idioma durante el sueño porque requiere voluntad y córtex prefrontal.\n- **Lenguaje implícito**: pragmática, concordancia prelingüística en niños (concordancia gramatical antes de aprender bien el idioma), evocaciones no explícitas — el pensamiento no se reduce a lo verbalizable.\n- **El ejercicio filosófico cambia clasificación, no pensamiento**: cuando se redefine un concepto, primero cambia la representación interna y luego se reajustan las palabras; la palabra evoca, no genera.\n- **Caso Genie y componentes innatas**: se puede inferir qué categorías hay en una mente sin lenguaje conociendo sus componentes representacionales innatas y su experiencia.\n\n## La tesis sobre Sapir-Whorf y los esquimales\n\nEl caso paradigmático del desmontaje del relativismo lingüístico es el mito popular sobre los inuit y los tonos de blanco:\n\n> \"Los inuit no perciben más tonos de blanco; tienen más palabras porque discriminan hechos relevantes para su supervivencia,\"\n→ [El lenguaje no determina el pensamiento (1:10:28)](https://youtu.be/PWUUY7vVgUk?t=4228)\n\n> \"La percepción y la cognición son idénticas; lo que cambia es la representación afectiva: la importancia cultural,\"\n→ [El lenguaje no determina el pensamiento (1:10:28)](https://youtu.be/PWUUY7vVgUk?t=4228)\n\n> \"Las personas ciegas pueden representar espacio sin córtex visual, demostrando independencia entre representación y modalidad sensorial,\"\n→ [El lenguaje no determina el pensamiento (1:10:28)](https://youtu.be/PWUUY7vVgUk?t=4228)\n\nLa precisión categorial es decisiva: la diferencia entre culturas no opera en la capa formal ni imaginaria de la matriz noética sino en la afectiva. La cultura inuit no construye más representaciones de blanco — discrimina afectivamente más tonos como **importantes**. La importancia es lo que segrega una percepción como entidad relevante en la matriz; sin esa marca afectiva, la representación existe pero no se recuerda ni se nombra. El argumento se completa con la pieza derivada:\n\n> \"Lo que culturalmente no percibimos no es que no lo representemos: podemos evocarlo y concebirlo igual,\"\n→ [El lenguaje no determina el pensamiento (1:14:35)](https://youtu.be/PWUUY7vVgUk?t=4475)\n\n> \"Sin contenido afectivo que señale importancia, la representación no se recuerda ni se segrega como entidad separada,\"\n→ [El lenguaje no determina el pensamiento (1:14:35)](https://youtu.be/PWUUY7vVgUk?t=4475)\n\nLa consecuencia para el aparato cognitivo es simétrica con el resto del marco articulado en [[teoria-del-simbolo-en-proxy]] y [[realismo-cognitivo]]: las componentes Q (imaginaria, formal, afectiva) son separables, y la afectiva opera como filtro de relevancia que determina qué pasa al campo de representaciones consolidadas y qué queda en la franja perceptual no integrada.\n\n## La PNL como caso de magia postmoderna lingüística\n\nLa pieza polémica más operativa del marco articula la PNL como caso paradigmático del aparato [[magia-postmoderna-en-proxy|magia postmoderna]] aplicado al campo terapéutico-lingüístico:\n\n> \"La PNL pretende reprogramar el interior modificando el lenguaje, pero el lenguaje solo puede evocar lo que ya existe internamente,\"\n→ [El lenguaje no determina el pensamiento (1:19:38)](https://youtu.be/PWUUY7vVgUk?t=4778)\n\n> \"Si la PNL funcionara, el lenguaje podría curar la depresión, y eso es positivismo postmoderno falso,\"\n→ [El lenguaje no determina el pensamiento (1:19:38)](https://youtu.be/PWUUY7vVgUk?t=4778)\n\nLa lógica que el canal articula opera con dos premisas. Primera: el lenguaje funciona evocando representaciones internas preexistentes, no creándolas. Una palabra que el sujeto no puede mapear a alguna representación interna previa es sonido vacío, no significante operativo. Segunda: si la PNL funcionara como pretende (modificar el interior modificando el lenguaje), entonces la depresión sería curable por reformulación verbal — consecuencia que ningún cuadro clínico real soporta. La PNL queda así clasificada como positivismo postmoderno: pretensión técnica de modificar realidad por procedimiento codificado sin garantía de referente operativo, exactamente la mecánica del [[magia-postmoderna-en-proxy|sofisma poético]] aplicada al campo terapéutico.\n\n## Triple problema del determinismo lingüístico\n\nEl ataque más sistemático a la tesis 'lenguaje determina pensamiento' opera por análisis categorial: ninguno de los tres términos está definido con precisión por las escuelas que la sostienen.\n\n> \"Ninguna escuela neurolingüística define con precisión qué es lenguaje, qué es pensamiento y qué es determinar,\"\n→ [El lenguaje no determina el pensamiento (1:28:19)](https://youtu.be/PWUUY7vVgUk?t=5299)\n\n> \"\\\"Determinar\\\" es imposible de sostener porque no conocemos las cadenas causales internas de la mente,\"\n→ [El lenguaje no determina el pensamiento (1:28:19)](https://youtu.be/PWUUY7vVgUk?t=5299)\n\n> \"\\\"Lenguaje\\\" no es solo lo explícito: existe lenguaje implícito (pragmática, concordancia prelingüística),\"\n→ [El lenguaje no determina el pensamiento (1:28:19)](https://youtu.be/PWUUY7vVgUk?t=5299)\n\n> \"\\\"Pensamiento\\\" incluye lo inconsciente: autoimagen, afectos, metarrepresentaciones implícitas,\"\n→ [El lenguaje no determina el pensamiento (1:28:19)](https://youtu.be/PWUUY7vVgUk?t=5299)\n\nLa consecuencia es estructural: la tesis 'A determina B' presupone definiciones operativas de A, B y de la relación de determinación. Sin ellas la afirmación es retórica. El canal completa el corte con el argumento lógico:\n\n> \"Si el lenguaje determinara completamente el pensamiento, sería imposible la reconstrucción individual de la realidad,\"\n→ [El lenguaje no determina el pensamiento (1:59:02)](https://youtu.be/PWUUY7vVgUk?t=7142)\n\n> \"El lenguaje explícito siempre apela a algo que ya existe internamente; sin representación interna previa, las palabras son solo sonidos vacíos,\"\n→ [El lenguaje no determina el pensamiento (1:59:02)](https://youtu.be/PWUUY7vVgUk?t=7142)\n\n## Las afasias como evidencia de la modularidad cognitiva del lenguaje\n\nLa pieza neurocientífica nuclear del marco son las afasias — sirven como falsador empírico tanto del determinismo lingüístico como de cualquier modelo monolítico del procesamiento lingüístico. La existencia de pacientes que pueden repetir sin comprender, comprender sin hablar, hablar sin repetir o producir gramática sin semántica demuestra que el lenguaje opera como sistema modular con al menos cuatro fases independientes:\n\n> \"Percepción, repetición automática, comprensión y elaboración son fases independientes,\"\n→ [El lenguaje no determina el pensamiento (53:44)](https://youtu.be/PWUUY7vVgUk?t=3224)\n\n> \"El lenguaje es al menos seis veces más complejo que la mera producción representacional y el habla,\"\n→ [El lenguaje no determina el pensamiento (53:44)](https://youtu.be/PWUUY7vVgUk?t=3224)\n\nLa afasia de conducción (puede hablar espontáneamente pero no repetir) demuestra que la repetición opera por una vía directa córtex auditivo→motor que no pasa por la representación mental. La afasia transcortical mixta (no habla ni comprende pero puede repetir como reflejo) confirma la independencia funcional. El conjunto de las disociaciones clínicas opera como evidencia empírica de la disociabilidad — y por tanto de que el 'lenguaje' al que se refiere el determinismo no es entidad unitaria sino conjunto de funciones disociables.\n\n## Las cuatro áreas corticales\n\n> \"Área de Wernicke: otorga significación semántica a los términos,\"\n→ [El lenguaje no determina el pensamiento (57:48)](https://youtu.be/PWUUY7vVgUk?t=3468)\n\n> \"Área auditiva primaria: convierte sonidos en palabras,\"\n→ [El lenguaje no determina el pensamiento (57:48)](https://youtu.be/PWUUY7vVgUk?t=3468)\n\n> \"Área de articulación: control motor de vocalización, ritmo, prosodia y entonación,\"\n→ [El lenguaje no determina el pensamiento (57:48)](https://youtu.be/PWUUY7vVgUk?t=3468)\n\n> \"Área de Broca: facilita la gramaticalidad y la coherencia del discurso,\"\n→ [El lenguaje no determina el pensamiento (57:48)](https://youtu.be/PWUUY7vVgUk?t=3468)\n\nLa coordinación de las cuatro áreas opera por especialización funcional sin centralización: ningún área 'es' el lenguaje; cada una contribuye una operación específica que las afasias permiten disociar empíricamente.\n\n## Lectura como tecnología cognitiva, no facultad innata\n\n> \"El cerebro evolucionó para hablar pero no para leer; lo innato es el lenguaje, lo aprendido es el idioma,\"\n→ [El lenguaje no determina el pensamiento (1:02:52)](https://youtu.be/PWUUY7vVgUk?t=3772)\n\n> \"Leer no se puede aprender por contexto a diferencia del habla; requiere instrucción explícita,\"\n→ [El lenguaje no determina el pensamiento (1:02:52)](https://youtu.be/PWUUY7vVgUk?t=3772)\n\n> \"La lectura usa aproximadamente 20 áreas cerebrales frente a las 4-6 del habla,\"\n→ [El lenguaje no determina el pensamiento (1:02:52)](https://youtu.be/PWUUY7vVgUk?t=3772)\n\n> \"Aprender a leer y estudiar idiomas es la actividad más potente para aumentar el cociente intelectual,\"\n→ [El lenguaje no determina el pensamiento (1:02:52)](https://youtu.be/PWUUY7vVgUk?t=3772)\n\nLa precisión categorial es importante: distingue **lenguaje** (innato, facultad humana universal, articulada por las áreas corticales) de **idioma** (aprendido, sistema cultural específico) y de **lectura** (tecnología cognitiva, requiere ~20 áreas inespecíficas reclutadas para una función para la que no evolucionaron). La tesis derivada — la lectura como herramienta más potente de aumento del cociente intelectual — opera coherentemente con la tesis nuclear: como la lectura recluta áreas inespecíficas para una función no evolutiva, su práctica entrena la flexibilidad cortical más que ninguna otra actividad cognitiva.\n\n## Recorrido por las teorías lingüísticas\n\nEl bloque cierra con un recorrido evaluativo de la tradición lingüístico-cognitiva, desde las posiciones que el canal considera más erróneas hasta las más correctas-pero-incompletas:\n\n> \"Sapir-Whorf (relativismo lingüístico): incorrecto, las diferencias lingüísticas reflejan experiencias, no las causan,\"\n→ [El lenguaje no determina el pensamiento (2:05:09)](https://youtu.be/PWUUY7vVgUk?t=7509)\n\n> \"Skinner (conductismo): confunde aprendizaje del idioma con aprendizaje del lenguaje,\"\n→ [El lenguaje no determina el pensamiento (2:05:09)](https://youtu.be/PWUUY7vVgUk?t=7509)\n\n> \"Piaget: correcto que el lenguaje se desarrolla por fases pero tan genérico que no aporta nada sustantivo,\"\n→ [El lenguaje no determina el pensamiento (2:05:09)](https://youtu.be/PWUUY7vVgUk?t=7509)\n\n> \"Vygotsky: correcto que el contexto social importa, pero reduce demasiado el lenguaje a pragmática,\"\n→ [El lenguaje no determina el pensamiento (2:05:09)](https://youtu.be/PWUUY7vVgUk?t=7509)\n\n> \"Chomsky: correcta la capacidad innata, pero habría que hablar de pregramática universal más que gramática universal,\"\n→ [El lenguaje no determina el pensamiento (2:11:43)](https://youtu.be/PWUUY7vVgUk?t=7903)\n\n> \"Halliday: correcto que el lenguaje cumple función social, pero los primeros lenguajes transmitían representaciones afectivas urgentes,\"\n→ [El lenguaje no determina el pensamiento (2:11:43)](https://youtu.be/PWUUY7vVgUk?t=7903)\n\n> \"Modularismo de Fodor: correcto que hay módulos especializados, pero las representaciones exceden con mucho el lenguaje y son globales,\"\n→ [El lenguaje no determina el pensamiento (2:11:43)](https://youtu.be/PWUUY7vVgUk?t=7903)\n\nLa estructura del recorrido opera por progresión: las teorías más erróneas (Sapir-Whorf, Skinner) confunden capa lingüística con representación o con conducta; las intermedias (Piaget, Vygotsky) acertaron en lo formal pero erraron en lo sustantivo; las más correctas (Chomsky, Halliday, Fodor) capturan piezas reales del aparato pero quedan incompletas porque no integran la dimensión representacional pre-lingüística que esta página articula. La pregramática universal de Chomsky refinada, la función social de Halliday extendida hacia las representaciones afectivas urgentes, y los módulos de Fodor situados como subsistemas dentro de un aparato representacional más amplio operan como las versiones que el canal acepta como compatibles con su propio marco.\n\n## Mecánica del tabú: la explicación correcta del fenómeno que el determinismo malinterpreta\n\n> \"Cuando la política o el marketing añaden matices representacionales a un concepto verbal, obligan a expresar o no expresar ciertas cosas,\"\n→ [El lenguaje no determina el pensamiento (11:32)](https://youtu.be/PWUUY7vVgUk?t=692)\n\n> \"El ejemplo de \\\"mena\\\": pasó de término de la izquierda a término asociado a la extrema derecha,\"\n→ [El lenguaje no determina el pensamiento (11:32)](https://youtu.be/PWUUY7vVgUk?t=692)\n\n> \"Esto es manipulación del lenguaje externo y funciona como la mecánica del tabú, no como cambio del pensamiento interno,\"\n→ [El lenguaje no determina el pensamiento (11:32)](https://youtu.be/PWUUY7vVgUk?t=692)\n\nLa pieza es decisiva para el flanco político: lo que el determinismo lingüístico interpreta como prueba de que el lenguaje moldea el pensamiento (apropiación política de términos, lenguaje inclusivo, ingeniería retórica) es operativamente la mecánica del tabú. Los términos cambiantes no modifican la representación interna del concepto sino que activan la **culpa social** asociada al uso del término. La culpa proviene de los afectos ajenos influyendo en los propios, no del término reformateando la cognición. La distinción importa para la práctica política: combatir el determinismo lingüístico no requiere refutar que el lenguaje afecte a la conducta — sí afecta — sino aclarar que afecta vía mecánica social del tabú, no vía reprogramación cognitiva interna.\n\n## Independencia gramática / representación: el caso del Dasein japonés\n\n> \"En alemán la misma palabra sirve para ser y estar sin que pierdan la capacidad de diferenciar esos conceptos,\"\n→ [El lenguaje no determina el pensamiento (1:17:06)](https://youtu.be/PWUUY7vVgUk?t=4626)\n\n> \"Los japoneses no tienen verbo ser pero comprenden perfectamente la filosofía del Dasein,\"\n→ [El lenguaje no determina el pensamiento (1:17:06)](https://youtu.be/PWUUY7vVgUk?t=4626)\n\n> \"La ausencia de una categoría gramatical no implica ausencia de la categoría representacional,\"\n→ [El lenguaje no determina el pensamiento (1:17:06)](https://youtu.be/PWUUY7vVgUk?t=4626)\n\nLa pieza opera como falsador empírico simétrico al caso esquimal: si el determinismo fuera correcto, los hablantes de idiomas sin verbo 'ser' no podrían comprender filosofía del ser; los hablantes de alemán que usa una sola palabra para ser/estar deberían colapsar ambos conceptos. La empíria muestra lo contrario: japoneses comprenden Dasein, alemanes mantienen la distinción. La consecuencia es estructural: las **categorías gramaticales son independientes de las categorías representacionales**. Una mente puede sostener distinciones representacionales que el idioma no marca gramaticalmente, y puede colapsar gramaticalmente distinciones que mantiene representacionalmente. El género gramatical de 'víctima' (femenino) no genera representación femenina del concepto víctima, contra lo que el ejemplo del neurolingüista del clip introductorio pretendía.\n\n## Lenguaje implícito y concordancia prelingüística\n\nEl último flanco sustantivo articula la evidencia de que el pensamiento opera con lenguaje implícito antes que con lenguaje explícito:\n\n> \"Los niños demuestran concordancia gramatical antes de aprender bien el idioma,\"\n→ [El lenguaje no determina el pensamiento (1:39:02)](https://youtu.be/PWUUY7vVgUk?t=5942)\n\n> \"La pragmática demuestra que la interpretación contextual requiere evocaciones no explícitas,\"\n→ [El lenguaje no determina el pensamiento (1:39:02)](https://youtu.be/PWUUY7vVgUk?t=5942)\n\n> \"El lenguaje como fenómeno es representacional, no meramente comunicativo: idioma, verbo y semántica son formas parciales,\"\n→ [El lenguaje no determina el pensamiento (1:39:02)](https://youtu.be/PWUUY7vVgUk?t=5942)\n\nLa pieza completa la simetría: si el lenguaje determinara el pensamiento, los niños no podrían demostrar competencia gramatical antes de saber gramática explícita; la pragmática del adulto no podría operar (las inferencias contextuales requieren operaciones representacionales no nombrables); y la captación del verbo (significado lingüístico) tendría que ser independiente de la semántica (significado representacional). La empíria demuestra lo contrario: hay competencia pre-lingüística que precede al idioma, hay pragmática que opera por evocación implícita, hay representación que excede al verbo. El lenguaje es subconjunto del aparato representacional, no su matriz generadora.\n\n## Caso Genie y la inferencia de categorías sin lenguaje\n\nEl caso clínico de cierre — Genie, la niña aislada de Los Ángeles que creció sin exposición lingüística — opera como evidencia operativa de la separabilidad representación / lenguaje:\n\n> \"Las representaciones se dividen en componentes representacionales innatas,\"\n→ [El lenguaje no determina el pensamiento (2:28:35)](https://youtu.be/PWUUY7vVgUk?t=8915)\n\n> \"Se puede inferir qué categorías hay en la mente de alguien sin lenguaje conociendo sus componentes y su experiencia,\"\n→ [El lenguaje no determina el pensamiento (2:28:35)](https://youtu.be/PWUUY7vVgUk?t=8915)\n\n> \"Incluso cuando las categorías son solo afectivas, siguen siendo representaciones operativas,\"\n→ [El lenguaje no determina el pensamiento (2:28:35)](https://youtu.be/PWUUY7vVgUk?t=8915)\n\nLa pieza completa el aparato: una mente sin lenguaje sigue operando con categorías representacionales — las componentes Q (afectiva, imaginaria, formal) operan independientemente del verbo. La cognición sin lenguaje es empobrecida en algunos aspectos (no admite cadenas formales largas, no admite metarrepresentación elaborada) pero no es vacía — opera con representaciones afectivas e imaginarias que el observador puede inferir conociendo la experiencia del sujeto y los componentes representacionales innatos compartidos por la especie. El caso Genie articula así el límite empírico del determinismo: si el lenguaje determinara el pensamiento, una mente sin lenguaje no tendría pensamiento; la realidad clínica es que tiene pensamiento empobrecido pero operativo, exactamente lo que el marco representacionalista predice.\n\n## Conexión con otros conceptos\n\n- [[teoria-del-simbolo-en-proxy]] articula la matriz noética y la operación simbólica; esta página completa la dimensión específicamente lingüística como capa explícita del aparato representacional.\n- [[realismo-cognitivo]] es la stance epistemológica que el canal autoposiciona aquí (representacionalista, realista, cognitivista) aplicada al campo lingüístico.\n- [[golem-de-cobre]] articula la crítica al modelo computacional de la mente; esta página añade la pieza específica: el lenguaje no es la cognición, es solo su capa explícita comprimida.\n- [[magia-postmoderna-en-proxy]] aloja la PNL como caso del aparato magia postmoderna aplicado al campo lingüístico-terapéutico.\n- [[collective-unconscious]] articula las componentes representacionales innatas desde el plano arquetípico; esta página articula la concordancia prelingüística como evidencia operativa de esas componentes en el desarrollo infantil.\n- [[woke-narrativa-postmoderna-moral]] opera con la lógica del determinismo lingüístico que esta página desmonta — el lenguaje inclusivo y la ingeniería terminológica como vehículos de transformación cognitiva son aplicaciones del mismo error categorial.\n- [[mitologia-propia-impropia]] dialoga con la tesis adyacente del canal: mito y logos siempre coexistieron, lo que cambió fue la cantidad de magia en el mito — corte explícito a la narrativa modernista del paso mito→logos.\n\n## Lagunas\n\n- **Articulación neurocientífica detallada de la lateralización**: el speaker afirma 97-99% de lenguaje en hemisferio izquierdo y metarrepresentación del yo en derecho, pero no detalla la base empírica (estudios de lesiones, neuroimagen, callotomías) que sustenta el dato.\n- **Mecánica concreta de la 'pregramática universal'**: el canal acepta la categoría refinando a Chomsky pero no articula qué primitivos exactamente compone la pregramática frente a la gramática universal chomskiana.\n- **Tratamiento de la evidencia bilingüe**: cómo opera el aparato cuando una mente maneja varios idiomas como L1, qué pasa con los conceptos que existen en uno y no en otro, y si la asimetría aporta evidencia adicional pro o contra el determinismo.\n- **Lenguaje en psicopatologías**: la página menciona el caso Genie pero no integra esquizofrenia (lenguaje desorganizado), autismo (déficit pragmático), TID (lenguaje fragmentado entre alters) — patologías donde la relación lenguaje-pensamiento se altera operativamente.\n- **Articulación con la teoría del símbolo**: el aparato Q (componentes imaginaria/formal/afectiva) que [[teoria-del-simbolo-en-proxy]] articula opera como sustrato de esta teoría del lenguaje pero la integración explícita queda implícita; pendiente articular cómo cada componente Q se manifiesta en cada función lingüística.\n- **Lenguaje como vehículo terapéutico genuino**: la crítica a la PNL es categórica, pero la psicoterapia opera con palabras — pendiente articular qué lenguaje terapéutico sí funciona y por qué (psicoanálisis, terapia cognitiva, narrativa) si no es por reprogramación lingüística directa.\n- **Adquisición del lenguaje en sordociegos**: caso límite (Helen Keller, niños con sordoceguera congénita) que ilumina la relación lenguaje-representación cuando el canal sensorial es radicalmente reducido. No tratado aquí.\n\n## Status auto-promoción\n\nEsta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 cómodamente: minutes_sustained ≈ 145 (vídeo monográfico completo dedicado a la tesis), signal_marks_detected = 5 (declared_thesis explícita en el título mismo, internal_structure ≥ 20 piezas coordinadas, pedagogic_register sostenido tipo Psicología 101, applied_framework con autoposicionamiento epistemológico explícito, genealogical_self_reference vía recorrido por teorías y autoposicionamiento como representacionalista-realista-cognitivista), framework_internal_structure ≥ 20 piezas con sub-conceptos que dependen entre sí (acepciones de lenguaje + neurolingüística vs psicolingüística + división neurológica + mapa de trastornos + tipología de afasias + cuatro fases cognitivas + cuatro áreas corticales + lectura + lateralización + Sapir-Whorf desmontado + PNL crítica + Heidegger crítica + triple problema del determinismo + lenguaje implícito + caso Genie + recorrido por teorías). Queda abierta a revisión humana — el campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría. Esta es la pieza foundational del marco lingüístico del canal; auditoría posterior debe verificar especialmente que las relaciones tipadas hacia teoria-del-simbolo-en-proxy, realismo-cognitivo y golem-de-cobre coinciden con la lectura editorial humana del marco cognitivo del canal.\n\n## Citations\n\n- **El lenguaje no determina el pensamiento.** — chunks: [02:25](https://youtu.be/PWUUY7vVgUk?t=145) · [05:57](https://youtu.be/PWUUY7vVgUk?t=357) · [08:28](https://youtu.be/PWUUY7vVgUk?t=508) · [11:32](https://youtu.be/PWUUY7vVgUk?t=692) · [14:09](https://youtu.be/PWUUY7vVgUk?t=849) · [19:43](https://youtu.be/PWUUY7vVgUk?t=1183) · [22:47](https://youtu.be/PWUUY7vVgUk?t=1367) · [25:18](https://youtu.be/PWUUY7vVgUk?t=1518) · [27:21](https://youtu.be/PWUUY7vVgUk?t=1641) · [37:04](https://youtu.be/PWUUY7vVgUk?t=2224) · [47:10](https://youtu.be/PWUUY7vVgUk?t=2830) · [49:42](https://youtu.be/PWUUY7vVgUk?t=2982) · [53:44](https://youtu.be/PWUUY7vVgUk?t=3224) · [57:48](https://youtu.be/PWUUY7vVgUk?t=3468) · [1:02:52](https://youtu.be/PWUUY7vVgUk?t=3772) · [1:07:56](https://youtu.be/PWUUY7vVgUk?t=4076) · [1:10:28](https://youtu.be/PWUUY7vVgUk?t=4228) · [1:14:35](https://youtu.be/PWUUY7vVgUk?t=4475) · [1:17:06](https://youtu.be/PWUUY7vVgUk?t=4626) · [1:19:38](https://youtu.be/PWUUY7vVgUk?t=4778) · [1:24:46](https://youtu.be/PWUUY7vVgUk?t=5086) · [1:28:19](https://youtu.be/PWUUY7vVgUk?t=5299) · [1:34:22](https://youtu.be/PWUUY7vVgUk?t=5662) · [1:39:02](https://youtu.be/PWUUY7vVgUk?t=5942) · [1:59:02](https://youtu.be/PWUUY7vVgUk?t=7142) · [2:05:09](https://youtu.be/PWUUY7vVgUk?t=7509) · [2:11:43](https://youtu.be/PWUUY7vVgUk?t=7903) · [2:22:24](https://youtu.be/PWUUY7vVgUk?t=8544) · [2:28:35](https://youtu.be/PWUUY7vVgUk?t=8915)\n",
+      "rationale_for_promotion": "Vídeo monográfico foundational de ~150 min sostenidos sobre la tesis 'el lenguaje NO determina el pensamiento'. Pasa el gate de auto-promoción §2.4.1 cómodamente. Es la pieza foundational del marco lingüístico del canal — paralela a teoria-del-simbolo-en-proxy y teoria-de-las-emociones-en-proxy, cierra el flanco lingüístico que aquellas dejaban implícito. Páginas existentes (teoria-del-simbolo, realismo-cognitivo, golem-de-cobre, magia-postmoderna) se enriquecen con wikilinks a esta nueva pieza."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "magia-postmoderna-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "donde la mecánica oracular sigue operando porque opera al nivel del sujeto que se proyecta, no del marco que la sostiene.",
+      "content_proposed": "\n\n## La PNL como caso paradigmático de magia postmoderna lingüística\n\nEn el directo monográfico *El lenguaje no determina el pensamiento* (10 oct 2024) el canal articula la PNL (Programación Neurolingüística) como caso paradigmático del aparato magia postmoderna aplicado al campo terapéutico-lingüístico. La pieza completa el catálogo de aplicaciones (chamanismo cuántico, satanismo de tienda, oráculos pop) con un caso operativo de pretensión técnica sin garantía de referente.\n\n> \"La PNL pretende reprogramar el interior modificando el lenguaje, pero el lenguaje solo puede evocar lo que ya existe internamente,\"\n→ [El lenguaje no determina el pensamiento (1:19:38)](https://youtu.be/PWUUY7vVgUk?t=4778)\n\n> \"Si la PNL funcionara, el lenguaje podría curar la depresión, y eso es positivismo postmoderno falso,\"\n→ [El lenguaje no determina el pensamiento (1:19:38)](https://youtu.be/PWUUY7vVgUk?t=4778)\n\nLa lógica del corte que el canal articula opera con dos premisas, ambas desarrolladas en [[teoria-del-lenguaje-en-proxy]]. Primera: el lenguaje funciona evocando representaciones internas preexistentes, no creándolas. Una palabra que el sujeto no puede mapear a representación interna previa es sonido vacío, no significante operativo. Segunda: si la PNL funcionara como pretende — modificar el interior modificando el lenguaje — entonces la depresión sería curable por reformulación verbal, consecuencia que ningún cuadro clínico real soporta.\n\nLa PNL queda así clasificada estructuralmente con la magia postmoderna: pretensión técnica de modificar realidad por procedimiento codificado sin garantía de referente operativo. La diferencia con la magia clásica (procedimiento sobre lo sobrenatural) es que la PNL despliega su procedimiento sobre el aparato cognitivo del propio sujeto, presentándose como técnica empírica cuando opera como sofisma poético — la apariencia de procedimiento clínico replica la mecánica del léxico cuasi-científico del chamán cuántico ('actualizar con 5.5 Gamma' / 'reprogramación neuronal por reformulación verbal'). El positivismo postmoderno que la PNL representa es la versión terapéutico-lingüística del aparato magia postmoderna que esta página articula en su forma religioso-esotérica.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "teoria-del-lenguaje-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "PWUUY7vVgUk",
+          "timestamp_seconds": 4778,
+          "cite_markdown": "[El lenguaje no determina el pensamiento (1:19:38)](https://youtu.be/PWUUY7vVgUk?t=4778)"
+        }
+      ],
+      "rationale": "La página articula extensamente el aparato magia postmoderna en sus formas religioso-esotéricas (chamanismo cuántico, taxonomía Wicca/Thelema/satanismo, oráculos, magia vs religión, oráculos pop). Le falta la PNL como caso paradigmático aplicado al campo terapéutico-lingüístico. Este vídeo articula la PNL precisamente como pretensión mágica de modificar el interior por procedimiento lingüístico — exactamente la mecánica que el aparato magia postmoderna identifica. La pieza es estructuralmente importante porque conecta el aparato magia postmoderna con el aparato lingüístico (lenguaje no determina pensamiento) que el nuevo teoria-del-lenguaje-en-proxy articula. Inserción al final del bloque tests pop como oráculos añadido en batch anterior, antes de Lagunas.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Heidegger ('Solo hay mundo donde hay lenguaje')",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Heidegger en canonical_whitelist soft (auto_promote: false). Tratamiento aquí como uno de los tres postulados a desmontar (~1 min). Material capturado en el nuevo teoria-del-lenguaje-en-proxy. Si el canal vuelve sobre Heidegger sustantivamente en otro vídeo, podría activarse la promoción.",
+      "quote_evidence": "\"Solo hay mundo donde hay lenguaje\" (Heidegger): confunde mundo representacional con mundo lingüístico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Heidegger ya en whitelist soft; la crítica directa a su tesis sobre mundo y lenguaje es material para futura promoción si reincide",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Chomsky (refinamiento pregramática vs gramática universal)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Chomsky en canonical_whitelist soft (caso explícito de foundational singleton que motivó la whitelist). El vídeo articula refinación operativa de su tesis ~4 min — claramente marco aplicado, bordeline para activar la whitelist soft. Hold con priority alta — material suficiente para promover si se confirma en otro vídeo.",
+      "quote_evidence": "Chomsky: correcta la capacidad innata, pero habría que hablar de pregramática universal más que gramática universal,",
+      "review_priority": "high",
+      "review_priority_reason": "Chomsky es caso paradigmático de foundational singleton de la whitelist; el canal articula refinación operativa de su tesis (pregramática universal) — candidato fuerte a promoción si se reincide",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Sapir, Whorf (relativismo lingüístico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Hipótesis target de la crítica nuclear. No marco aplicado del canal sino tradición evaluada. Material capturado en el recorrido por teorías del nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Sapir-Whorf (relativismo lingüístico): incorrecto, las diferencias lingüísticas reflejan experiencias, no las causan,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Skinner, Piaget, Vygotsky, Halliday, Fodor",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cinco teóricos del lenguaje cubiertos en el recorrido sistemático del canal con tratamiento crítico-evaluativo. Ninguno opera como marco aplicado del canal. Material capturado en el recorrido por teorías del nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Modularismo de Fodor: correcto que hay módulos especializados, pero las representaciones exceden con mucho el lenguaje y son globales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Caso Genie (representación sin lenguaje)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Caso clínico Genie invocado como evidencia. Mención breve sin desarrollo monográfico. Capturado en el nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Las representaciones se dividen en componentes representacionales innatas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Mecánica del tabú (alternativa al determinismo lingüístico)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Concepto operativo del canal articulado ~5 min como explicación correcta del fenómeno que el determinismo malinterpreta. Capturado en el nuevo teoria-del-lenguaje-en-proxy. Si se desarrolla más en otros vídeos podría merecer página propia.",
+      "quote_evidence": "La culpa al usar un término tabú proviene de los afectos de los demás influyendo en tus afectos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Concepto operativo del canal — candidato a página propia si se sostiene en futuros vídeos",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Mito y logos siempre coexistieron (no hubo paso mito→logos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis filosófica importante: niega la narrativa modernista del paso mito→logos. Pieza breve (~3 min) sin desarrollo monográfico. Capturada en el recorrido teórico del nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Lo que cambió fue la cantidad de magia contenida en el mito, no la desaparición del pensamiento mítico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis sobre persistencia simultánea mito-logos relevante para mitologia-propia-impropia y magia-postmoderna",
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Neuronas espejo como constructo teórico",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Crítica conceptual a la difusión popular de las 'neuronas espejo' como entidad neural específica. Pieza breve capturada en el nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Las neuronas espejo son un constructo teórico, no un conjunto neuronal real,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Lateralización del lenguaje y dicotomía hemisférica pop",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Pieza neurocientífica sobre lateralización del lenguaje al hemisferio izquierdo (97-99%) y desmontaje de la dicotomía pop hemisferio analítico/creativo. Capturada en el nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Las metarrepresentaciones del yo están en el hemisferio derecho,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Lectura como herramienta cognitiva (aumento del CI)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "Tesis sobre lectura como herramienta más potente para aumentar cociente intelectual (recluta ~20 áreas inespecíficas vs 4-6 del habla). Capturada en el nuevo teoria-del-lenguaje-en-proxy. Si se desarrolla monográficamente en otros vídeos podría merecer página propia.",
+      "quote_evidence": "Aprender a leer y estudiar idiomas es la actividad más potente para aumentar el cociente intelectual,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis específica sobre lectura como tecnología cognitiva — candidato a página si se reincide con desarrollo",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Mito de los esquimales y los tonos de blanco",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Caso paradigmático del desmontaje de Sapir-Whorf. Capturado como subsección dentro del nuevo teoria-del-lenguaje-en-proxy.",
+      "quote_evidence": "Los inuit no perciben más tonos de blanco; tienen más palabras porque discriminan hechos relevantes para su supervivencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 12,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_processing_notes": "Vídeo monográfico foundational de ~150 min sobre lenguaje y pensamiento. Una sola promoción mayor (teoria-del-lenguaje-en-proxy) que captura ~95% del contenido sustantivo del vídeo en una sola pieza synthesis con auto_promoted_synthesis: true. Pieza paralela a teoria-del-simbolo-en-proxy y teoria-de-las-emociones-en-proxy — completa el flanco lingüístico del marco cognitivo del canal. Update pequeño a magia-postmoderna-en-proxy con la PNL como caso paradigmático del aparato. Múltiples teóricos discutidos (Sapir-Whorf, Skinner, Piaget, Vygotsky, Chomsky, Halliday, Fodor) capturados dentro del recorrido por teorías sin promoción individual — Chomsky en review_priority high por estar en whitelist soft con tratamiento sustantivo refinador. Heidegger también en whitelist soft con tratamiento medium. Conceptos derivados (mecánica del tabú, lectura como tecnología cognitiva, mito vs logos coexistentes) capturados dentro de la página principal y marcados como candidatos a futura promoción si se reinciden."
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Teoría del lenguaje del canal: el lenguaje NO determina el pensamiento (psicolingüística representacionalista)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}
