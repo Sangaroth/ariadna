@@ -121,6 +121,51 @@ El evitativo aparece como contraprueba de que la taxonomía no abarca todo trast
 
 La taxonomía se introduce dentro del bloque sobre TCAs porque el ciclo neurótico de los trastornos alimentarios opera precisamente sobre la retroalimentación ego-autoestima: la obsesión por la autoimagen es desajuste del ego (lo que merezco verme), la culpa por el atracón es desajuste de la autoestima (lo que era capaz de controlar), y la espiral ansiedad → obsesión → culpa → depresión funciona porque ambos componentes se contagian mutuamente. Ver [[trastornos-conducta-alimentaria-en-proxy]] para el ciclo completo.
 
+
+## Distocia → esquizoipia: gradiente de severidad y etiología por feedback
+
+En el directo *León XIV, y George Floyd* (13 may 2025) el canal precisa la categoría 'ego distócico' que esta página articula como uno de los tres modos de neurosis del ego, añadiendo gradiente de severidad y mecanismo etiológico-desarrollista que la formulación inicial dejaba implícitos.
+
+### El motor biológico de la formación identitaria
+
+> "Existe un mecanismo biológico que dice 'quiero ser algo para los demás' y eso forma parte de la personalidad profunda"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+La pieza ancla la taxonomía yo/ego/self/autoimagen en sustrato motivacional biológico: la identidad no es construcción puramente reflexiva sino que está propulsada por una pulsión filogenética hacia el reconocimiento por otros. 'Quiero ser algo para los demás' opera como vector estructural de la personalidad profunda — no como deseo episódico ni como afecto secundario. La consecuencia operativa es que el yo no se constituye sin el otro como espejo: la integración del yo descrita en el aparato exige feedback externo que confirme o desmienta el ideal del yo emergente.
+
+### Gradiente: distocia → esquizoipia
+
+> "Cuando la personalidad primaria y el ideal del yo están desalineados se produce distocia del yo"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+> "Si la separación entre yo y super-yo es total, ya no es distocia sino esquizoipia"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+La precisión añade resolución clínica al cuadro 'ego distócico' que la página alojaba como una de las tres neurosis. La distocia es **desalineación parcial** entre personalidad primaria (lo que el sujeto efectivamente es) e ideal del yo (lo que aspira a ser); cuando la desalineación se vuelve **separación total** el cuadro cruza al espectro esquizo y se nombra esquizoipia. El gradiente importa metodológicamente: la categoría 'ego distócico' no agrupa cuadros homogéneos sino un espectro cuyo extremo severo deja de ser neurosis del ego y entra en organización psicótica. La continuidad fenomenológica entre los dos polos del espectro explica por qué cuadros disociativos pueden evolucionar (en cualquier dirección) durante la vida del sujeto sin transición discreta entre categorías.
+
+### Etiología por feedback de refuerzo
+
+La pieza más operativa que el directo añade es la etiología desarrollista del cuadro: la identidad no se descubre por introspección autónoma sino por contraste con feedback externo durante la formación, y la calidad del feedback determina si el yo se integra coherentemente.
+
+> "Sin feedback de refuerzo sobre quién es el niño, este no descubre su identidad por sí mismo: el mundo nos envía mensajes sobre lo que somos"
+→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)
+
+> "Incluso equivocarse en el feedback es mejor que no dar ninguno, porque el error permite descubrir la verdad por contraste"
+→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)
+
+> "La crianza sin referencias es esquizogénica: produce trastornos del espectro esquizo donde el yo carece de autoimagen"
+→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)
+
+La lógica es contraintuitiva pero estructural: el feedback **erróneo** ('eres tímido' cuando no lo eres) es operativamente **mejor** que la ausencia de feedback, porque el sujeto puede descubrir su verdad por contraste con el error explícito. La ausencia total de feedback deja al sujeto sin sistema referencial contra el cual calibrar su autoimagen — la identidad no se forma porque la operación misma de constituirla requiere un eje de comparación externo. La consecuencia clínica es la esquizogénesis: la crianza sin referencias produce sujetos cuyo yo carece de autoimagen estable, condición etiológica de los trastornos del espectro esquizo. Es la versión desarrollista del gradiente distocia → esquizoipia articulado arriba: la separación total entre personalidad primaria e ideal del yo (que define esquizoipia) es la consecuencia esperable de la ausencia sistemática de feedback durante la formación.
+
+### Consecuencia social: tribus sin roles parentales
+
+> "Tribus sin roles parentales definidos producen sociedades disociales donde nadie importa verdaderamente a nadie, con comportamientos erráticos y alucinatorios"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+La pieza extiende el mecanismo etiológico al plano social: si la formación del yo individual requiere feedback parental con roles definidos, una sociedad que disuelve esos roles a escala colectiva fabrica el cuadro a escala poblacional. La consecuencia no es que cada sujeto desarrolle psicosis clínica, sino que la coordinación social misma se vuelve disocial — vínculos débiles donde nadie importa verdaderamente a nadie, comportamientos erráticos y alucinatorios como respuesta colectiva normalizada al déficit estructural de feedback. La pieza enlaza con [[psicologia-del-activista-en-proxy]] (perfil disocial como manifestación política) y con [[fenomenologia-trans-en-proxy]] (la negación del feedback de género como caso particular del mecanismo: si los roles parentales se disuelven y además se elimina el feedback sobre el sexo del niño, la condición esquizogénica se compone).
+
+
 ## Divergencias frente al canon
 
 - Frente a [[jung-carl-gustav]]: en Jung el self es la totalidad integrada y el yo es solo la parte consciente; el canal invierte la nomenclatura (el yo es la totalidad, el self es la parte consciente). La meta de la [[individuation]] sigue siendo equivalente, pero el vocabulario no es trasladable sin traducción.

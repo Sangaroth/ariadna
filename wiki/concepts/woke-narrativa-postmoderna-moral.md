@@ -360,6 +360,22 @@ La pieza añade un eslabón genealógico-instrumental: el dispositivo retórico-
 
 La precisión cierra una dimensión que el aparato anterior tematizaba solo como diagnóstico cultural-narrativo. Si el [[camino-victima|camino de la víctima]] articula la posición de víctima como matriz narrativa de la psique regresiva, y si las cuatro características diagnósticas articulan su síntoma cultural, esta sección fija su función como **infraestructura de movilización política**: la posición de víctima como combustible de cohesión grupal explotable por actores con interés convergente. La operación es deliberada y financiada, no emergencia espontánea — el woke entra al sistema cultural por inyección, sale por movilización electoral. La isomorfía con independentismos territoriales precisa además que el dispositivo no es ideológicamente woke en sustancia: es la mecánica del victimismo identitario aplicable a cualquier sustrato.
 
+## Fin de ciclo: las empresas abandonan el mes del orgullo
+
+En el directo *La PSOE lo ha conseguido* (3-jun-2025) el canal documenta lo que diagnostica como inicio del fin de la hegemonía cultural woke: la retirada coordinada de las grandes corporaciones del rito empresarial del mes del orgullo, cuya celebración había sido durante una década indicador de alineamiento con la narrativa postmoderna moral.
+
+> "Microsoft, Disney, Target, Starbucks, Blizzard, Google: ninguna celebra ya el mes del orgullo"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:18:01)](https://youtu.be/2CsRnGBT9gg?t=4681)
+
+> "Es el principio del fin de la hegemonía cultural de la izquierda posmoderna"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:18:01)](https://youtu.be/2CsRnGBT9gg?t=4681)
+
+> "Las empresas hacen lo que da pasta o lo que el poder vigente incentiva; ya no fluye dinero hacia el wokismo"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:18:01)](https://youtu.be/2CsRnGBT9gg?t=4681)
+
+La pieza completa el aparato político del marco articulado en la sección anterior: si el wokismo entró al sistema cultural por inyección financiada de élites supranacionales y salió por movilización electoral, su cierre opera por el mismo mecanismo invertido — cuando deja de fluir dinero hacia el dispositivo, las corporaciones que lo señalizaban como rito de pertenencia abandonan el rito sin transición ideológica visible. La consecuencia diagnóstica precisa que las empresas nunca fueron militantes wokes; fueron infraestructura indicadora de hacia dónde fluía el incentivo financiero. La retirada empresarial coordinada en 2025 funciona como índice de que ese incentivo se ha desplazado.
+
+
 
 
 

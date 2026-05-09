@@ -1,0 +1,296 @@
+{
+  "video_id": "2CsRnGBT9gg",
+  "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Rubén Gisbert / democracia formal",
+      "canonical_guess": "gisbertocracia",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La democracia formal es tautológica: formalmente ya somos democracia igual que la República Popular China"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "página gisbertocracia ya cubre la crítica al racional-formalismo; el vídeo aporta dos casos históricos ilustrativos nuevos (franquismo 'democracia orgánica' + RPC) y una formulación afilada del pueblo-no-se-gobierna que extiende el aparato existente",
+      "quote_evidence": "El régimen franquista era una \"democracia orgánica\", lo que demuestra que la forma no garantiza nada"
+    },
+    {
+      "surface_form": "Microsoft, Disney, Target, Starbucks, Blizzard, Google / mes del orgullo",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Es el principio del fin de la hegemonía cultural de la izquierda posmoderna"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las empresas hacen lo que da pasta o lo que el poder vigente incentiva; ya no fluye dinero hacia el wokismo"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "la página woke-narrativa-postmoderna-moral articula el wokismo como herramienta política inyectada por flujos financieros pero no documenta el cierre del ciclo empresarial 2025; el vídeo aporta el caso del abandono coordinado del mes del orgullo como índice del retroceso del incentivo financiero — pieza diagnóstica nueva sobre el flanco terminal del marco",
+      "quote_evidence": "Microsoft, Disney, Target, Starbucks, Blizzard, Google: ninguna celebra ya el mes del orgullo"
+    },
+    {
+      "surface_form": "Frente Obrero / 15M / boomers socialdemócratas",
+      "canonical_guess": "psicologia-del-activista-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El Frente Obrero tiene un perfil de herida narcisista y beligerancia, pero acierta en que lo único que funciona es la fuerza y el ciudadano preparado"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El 15M fracasó porque creía que bastaba con indignarse intelectualmente; los boomers socialdemócratas siguen en esa trampa del \"deeply concerned\""
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "psicologia-del-activista-en-proxy ya cubre la mecánica de captación del 15M y el perfil disocial del Frente Obrero, pero NO articula (a) la modalidad inerte del activista boomer-deeply-concerned como legado psicológico del 15M, ni (b) la matización de que el perfil disocial puede coincidir con un acierto operativo sobre el plano material — ambas piezas extienden el aparato clínico-político existente con material genuinamente nuevo",
+      "quote_evidence": "El Frente Obrero tiene un perfil de herida narcisista y beligerancia, pero acierta en que lo único que funciona es la fuerza y el ciudadano preparado"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "gisbertocracia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Confundirla con un tipo de democracia — el error que comete el público que sigue a Gisbert — es positivismo jurídico: tratar una herramienta formal como si describiera una realidad material.",
+      "content_proposed": "El canal aplica el aparato a casos históricos concretos en un directo posterior, mostrando cómo la democracia formal opera como tautología desactivada por la historia: el régimen franquista se autodenominaba \"democracia orgánica\" y la República Popular China comparte la misma etiqueta de \"democracia\" con cualquier sistema parlamentario occidental. La pieza añade una formulación más afilada del positivismo jurídico aplicado a la soberanía popular: el pueblo no se gobierna efectivamente a sí mismo en ninguna formalización — instituye dispositivos que mediante la fuerza mantienen el orden, y la ficción representativa solo opera mientras esos dispositivos no se rompan.\n\n> \"La democracia formal es tautológica: formalmente ya somos democracia igual que la República Popular China\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)\n\n> \"El régimen franquista era una 'democracia orgánica', lo que demuestra que la forma no garantiza nada\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)\n\n> \"El pueblo nunca se gobierna a sí mismo: instituye cosas para que mediante la fuerza mantengan el orden\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "timestamp_seconds": 4037,
+          "cite_markdown": "[La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)"
+        }
+      ],
+      "rationale": "La página articula exhaustivamente el mecanismo del positivismo jurídico y las tres opciones operacionales ante el concepto de democracia, pero no aplica el aparato a casos históricos concretos. El vídeo aporta dos casos paralelos (franquismo 'democracia orgánica' y RPC compartiendo la etiqueta) que ilustran exactamente la tesis de tautología formal, y añade una formulación más afilada del límite del positivismo: el pueblo no se gobierna efectivamente, instituye dispositivos que mantienen el orden por fuerza. Material genuinamente nuevo respecto al cuerpo leído. Insert_after_passage es el tipo correcto: la pieza nueva amplifica la tesis del positivismo justo después de su formulación clave, sin reemplazar nada existente.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el dispositivo no es ideológicamente woke en sustancia: es la mecánica del victimismo identitario aplicable a cualquier sustrato.",
+      "content_proposed": "## Fin de ciclo: las empresas abandonan el mes del orgullo\n\nEn el directo *La PSOE lo ha conseguido* (3-jun-2025) el canal documenta lo que diagnostica como inicio del fin de la hegemonía cultural woke: la retirada coordinada de las grandes corporaciones del rito empresarial del mes del orgullo, cuya celebración había sido durante una década indicador de alineamiento con la narrativa postmoderna moral.\n\n> \"Microsoft, Disney, Target, Starbucks, Blizzard, Google: ninguna celebra ya el mes del orgullo\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:18:01)](https://youtu.be/2CsRnGBT9gg?t=4681)\n\n> \"Es el principio del fin de la hegemonía cultural de la izquierda posmoderna\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:18:01)](https://youtu.be/2CsRnGBT9gg?t=4681)\n\n> \"Las empresas hacen lo que da pasta o lo que el poder vigente incentiva; ya no fluye dinero hacia el wokismo\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:18:01)](https://youtu.be/2CsRnGBT9gg?t=4681)\n\nLa pieza completa el aparato político del marco articulado en la sección anterior: si el wokismo entró al sistema cultural por inyección financiada de élites supranacionales y salió por movilización electoral, su cierre opera por el mismo mecanismo invertido — cuando deja de fluir dinero hacia el dispositivo, las corporaciones que lo señalizaban como rito de pertenencia abandonan el rito sin transición ideológica visible. La consecuencia diagnóstica precisa que las empresas nunca fueron militantes wokes; fueron infraestructura indicadora de hacia dónde fluía el incentivo financiero. La retirada empresarial coordinada en 2025 funciona como índice de que ese incentivo se ha desplazado.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "timestamp_seconds": 4681,
+          "cite_markdown": "[La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:18:01)](https://youtu.be/2CsRnGBT9gg?t=4681)"
+        }
+      ],
+      "rationale": "La sección 'El wokismo como herramienta política' cierra articulando el dispositivo como mecánica deliberadamente inyectada por flujos financieros, pero no documenta su cierre. El vídeo aporta el caso del abandono coordinado del mes del orgullo en 2025 como pieza diagnóstica del flanco terminal: si la inyección produjo el ciclo, la retirada del incentivo financiero produce su cierre. Material genuinamente nuevo respecto al cuerpo leído — la página no contenía análisis del fin de ciclo empresarial. Insert_after_passage tras el cierre de la sección política es el tipo correcto: añade una sub-sección complementaria al final del aparato existente sin disrupción del flujo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "psicologia-del-activista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta dinámica se solapa con el [[camino-victima]]: la rabia se moraliza y la causa política la legitima como virtud.",
+      "content_proposed": "## El 15M boomer y la trampa del \"deeply concerned\"\n\nEn un directo posterior el canal vuelve sobre el legado psicológico del 15M con un diagnóstico afilado: el movimiento fracasó no por falta de razón sino por confundir indignación intelectual con acción material, y ese error sigue operando hoy en el perfil sociodemográfico que lo protagonizó.\n\n> \"El 15M fracasó porque creía que bastaba con indignarse intelectualmente; los boomers socialdemócratas siguen en esa trampa del 'deeply concerned'\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (50:51)](https://youtu.be/2CsRnGBT9gg?t=3051)\n\nLa trampa del \"deeply concerned\" cierra el diagnóstico del activista boomer: la posición moral declarativa sustituye a la acción y el sujeto cree haber actuado por el solo hecho de haber expresado preocupación. La pieza articula una **modalidad inerte** del perfil disocial que la sección anterior no captura — el activista que ya no acampa pero conserva el dispositivo afectivo (rabia legitimada por causa) sin la disposición material que daría operatividad a la rabia.\n\n### El acierto del Frente Obrero: el reconocimiento del plano material\n\nEl canal añade además una matización del cuadro disocial del Frente Obrero que la lectura puramente clínica no captura: aunque el perfil sea estructuralmente disocial y narcisistamente herido, **acierta en un diagnóstico que el activismo boomer evita**.\n\n> \"El Frente Obrero tiene un perfil de herida narcisista y beligerancia, pero acierta en que lo único que funciona es la fuerza y el ciudadano preparado\"\n→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (50:51)](https://youtu.be/2CsRnGBT9gg?t=3051)\n\nLa precisión disocia diagnóstico clínico de juicio analítico: que el perfil sea patológico no significa que toda inferencia política que produce sea falsa. Donde el activista boomer \"deeply concerned\" se queda en la indignación intelectual, el perfil disocial-beligerante reconoce el plano material — la fuerza, la preparación ciudadana — donde se juega efectivamente la disposición política. La pieza no rehabilita el cuadro psicológico; señala que la patología puede coincidir con un acierto operativo precisamente sobre la dimensión que el cuadro sano (pero adormecido) ignora.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "timestamp_seconds": 3051,
+          "cite_markdown": "[La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (50:51)](https://youtu.be/2CsRnGBT9gg?t=3051)"
+        }
+      ],
+      "rationale": "La página articula el cuadro disocial del Frente Obrero y la mecánica de captación del 15M, pero (a) no documenta la modalidad inerte/declarativa post-15M ('deeply concerned' como sustituto de acción) y (b) presenta el perfil disocial sin matización analítica — todo en él es síntoma. El vídeo aporta dos piezas genuinamente nuevas: la trampa intelectualizada como legado psicológico del 15M (modalidad disocial sin acción) y la disociación entre diagnóstico clínico y validez de la inferencia política. Material genuinamente nuevo respecto al cuerpo leído. Insert_after_passage tras el cierre del paralelismo con camino-víctima es el tipo correcto: extiende el cuadro clínico con dos matizaciones operativas sin tocar lo ya articulado.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Pedro Sánchez / PSOE corrupción",
+      "reason_code": "political_news",
+      "reason_detail": "comentario sobre actualidad partidista (corrupción del PSOE 2025, accidentes ferroviarios, Alto Comisionado para Víctimas del Terrorismo) sin marco teórico aplicado al sujeto concreto — el speaker articula la crítica filosófica subyacente (positivismo jurídico, justicia material) por separado, ya capturada en gisbertocracia. El nombre Sánchez no sobrevive el test de la cápsula del tiempo",
+      "quote_evidence": "El PSOE está superando las expectativas de corrupción que ya se sospechaban,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Conde Pumpido / Tribunal Constitucional / ley de amnistía",
+      "reason_code": "political_news",
+      "reason_detail": "valoración de la sentencia específica del TC sobre la ley de amnistía como pieza de actualidad. La crítica filosófica subyacente (inversión del principio de legalidad: instituciones limitadas vs ciudadano constituyente) es articulación estructural pero está demasiado anudada al caso coyuntural para promover concepto autónomo en este vídeo único. Si el speaker articula la inversión del principio de legalidad como tesis sostenida en otros vídeos, merecería revisión como concept candidate",
+      "quote_evidence": "Conde Pumpido ha dictaminado que el ejecutivo puede hacer todo lo que no esté expresamente prohibido por ley,",
+      "review_priority": "medium",
+      "review_priority_reason": "la articulación 'instituciones solo pueden hacer lo que la ley les atribuye explícitamente vs ciudadano puede hacer todo lo no prohibido' es tesis filosófico-jurídica genuina que podría merecer concept page si recurrente en otros vídeos"
+    },
+    {
+      "surface_form": "Vox / Feijóo / PP",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "valoración partidista (Vox como populismo partitocrático, Feijóo en el ajo o incompetente) sin marco psicológico-estructural aplicado más allá de la calificación. No sobrevive cápsula del tiempo",
+      "quote_evidence": "Feijóo o está en el ajo o es incomprensiblemente incompetente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Núcleo Nacional",
+      "reason_code": "passing_mention",
+      "reason_detail": "mención puntual de un grupo marginal sin desarrollo estructural más allá de una valoración estética ('estético y twittero'). No hay marco aplicado",
+      "quote_evidence": "Núcleo Nacional parece más estético y twittero, le falta propuesta constructiva,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Frente Obrero",
+      "reason_code": "passing_mention",
+      "reason_detail": "figura política mencionada como caso ilustrativo del cuadro disocial-narcisista ya articulado en psicologia-del-activista-en-proxy; no merece página propia. La mención enriquece la página existente con una matización (acierto en plano material) que se captura como pending_update",
+      "quote_evidence": "El Frente Obrero tiene un perfil de herida narcisista y beligerancia, pero acierta en que lo único que funciona es la fuerza y el ciudadano preparado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicologia-del-activista-en-proxy"
+    },
+    {
+      "surface_form": "Zapatero / argumento afectivo vence al intelectual",
+      "reason_code": "passing_mention",
+      "reason_detail": "Zapatero como figura iniciadora de la estrategia cultural sentimiento-vence-razón. La mecánica articulada (rabieta emocional desactiva opinión bien elaborada) ya está cubierta en woke-narrativa-postmoderna-moral (emotivismo) y sofisma-estetico. No aporta matiz nuevo respecto a la prosa existente; passing_mention que enriquece concepto ya promovido",
+      "quote_evidence": "Zapatero puso de moda que el argumento afectivo venciera al intelectual,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Justicia material vs justicia formal",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "categoría filosófica articulada por el canal en el cluster 1:04-1:12 con desarrollo sustantivo (justicia primitiva como salto al equilibrio comunitario, crítica a la inundación de la Constitución con principios poéticos inalcanzables, autonomía material como garantía real). Solo este vídeo aporta evidencia, no alcanza umbral de recurrencia (≥3 vídeos) ni ≥10 min monográfico aislado del politiqueo. Candidato a concept page si articulación sostenida aparece en otros vídeos",
+      "quote_evidence": "Lo que hay que buscar no es justicia formal sino material: que lo escrito se cumpla efectivamente,",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis filosófico-jurídica genuina del canal con estructura argumentativa propia (equilibrio comunitario / autonomía material / familia-propiedad-medios); merece monitoreo en futuros vídeos para promover si recurrente"
+    },
+    {
+      "surface_form": "Libertad reducible al poder",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "tesis articulada con thesis_marker ('La libertad es un mito: lo que existe es el poder') y estructura interna (libertad = poder / excepción psicológica 'de mi cabeza mando yo' / humanidad rige por fuerza y fe), pero solo ~3 min de exposición sostenida. No alcanza gate de auto-promoción ni umbral de concepto autónomo. Candidato a thesis_candidate o concept si aparece sostenido en otros vídeos",
+      "quote_evidence": "La libertad es un mito: lo que existe es el poder, puedes o no puedes hacer algo,",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis reduccionista propia del canal con estructura argumentativa articulada; merece monitoreo para promoción futura"
+    },
+    {
+      "surface_form": "Diseño de sistema resistente a corrupción / liberalismo económico defensivo",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "el canal articula una posición ('el liberalismo económico acierta en lo primero que garantiza defensa frente al poder: familia, propiedad y medios para defenderlas') con estructura propia, pero la pieza es secundaria a la tesis general material-vs-formal y no recibe desarrollo monográfico suficiente",
+      "quote_evidence": "El liberalismo económico acierta en lo primero que garantiza defensa frente al poder: familia, propiedad y medios para defenderlas,",
+      "review_priority": "medium",
+      "review_priority_reason": "lectura del canal sobre el liberalismo como tradición intelectual con vertiente defensiva — pieza filosófico-política que podría articularse en concept page con material adicional"
+    },
+    {
+      "surface_form": "Constitución como marca ACME",
+      "reason_code": "passing_mention",
+      "reason_detail": "metáfora retórica usada ~1 min para precisar que el texto constitucional sirve para una cosa y la contraria. Ilustra la tesis del positivismo jurídico ya articulada en gisbertocracia. No merece página propia",
+      "quote_evidence": "Si el texto constitucional sirve para una cosa y la contraria, no sirve para nada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gisbertocracia"
+    },
+    {
+      "surface_form": "Pucherazo vs caciquismo / voto por correo / Leire Díez / Lady Croc",
+      "reason_code": "political_news",
+      "reason_detail": "mecánicas de fraude electoral articuladas como denuncia de actualidad (compra de votos, sumar ceros a actas) sin marco psicológico-estructural aplicado más allá de la categorización descriptiva. No sobrevive cápsula del tiempo",
+      "quote_evidence": "El caciquismo es intercambio de favores por votos; el pucherazo es añadir votos falsos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Guardia Civil como poder fáctico",
+      "reason_code": "political_news",
+      "reason_detail": "comentario sobre actualidad institucional (la GC como único poder fáctico contra excesos del gobierno). Coyuntural, no estructural",
+      "quote_evidence": "La Guardia Civil es el único poder fáctico que está luchando contra los excesos del gobierno,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Mes del orgullo / corporaciones (Microsoft, Disney, Target, Starbucks, Blizzard, Google)",
+      "reason_code": "passing_mention",
+      "reason_detail": "casos ilustrativos del fin de ciclo woke. El análisis estructural (incentivo financiero como infraestructura) sí merece pending_update a woke-narrativa-postmoderna-moral; las corporaciones individuales no merecen página propia",
+      "quote_evidence": "Microsoft, Disney, Target, Starbucks, Blizzard, Google: ninguna celebra ya el mes del orgullo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Adictos a la Filosofía / Enric / vídeo sobre materialismo y teoría de la mente",
+      "reason_code": "meta_canal",
+      "reason_detail": "anuncio de próximos contenidos del canal — el speaker indica que comentará un vídeo de otro canal. No es contenido sustantivo del vídeo procesado",
+      "quote_evidence": "Mañana toca comentar el vídeo de Enric de Adictos a la Filosofía sobre materialismo y teoría de la mente,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Mito del mago / Evangelion / próximos contenidos",
+      "reason_code": "meta_canal",
+      "reason_detail": "anuncio de próximos contenidos. La afirmación 'lo oriental como Japón no comparte las mismas estructuras mitológicas' es una tesis interesante pero no se desarrolla en este vídeo",
+      "quote_evidence": "El jueves se intentará hablar del mito del mago en relación con Evangelion,",
+      "review_priority": "medium",
+      "review_priority_reason": "la afirmación sobre asimetría estructural occidente/Japón en cuanto a mitología es tesis embrionaria que merecería monitoreo en el vídeo monográfico anunciado"
+    },
+    {
+      "surface_form": "Estrategia cultural Zapatero / sentimiento contra razón",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "la mecánica del afecto-vence-al-intelectual ya está cubierta en woke (emotivismo) y sofisma-estetico (sustitución de razonamiento por relación afectiva). El vídeo no aporta matiz nuevo respecto a esas páginas",
+      "quote_evidence": "El mecanismo: mi sentimiento de aversión hacia ti es más fuerte que tu amor por la verdad que sostienes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "🏛️ Situación política del PSOE: corrupción descarada",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "matched 'PSOE'; bloque sobre corrupción coyuntural sin marco teórico aplicado al sujeto concreto"
+    },
+    {
+      "block_quote": "🗳️ Irregularidades en el voto por correo y la \"fontanera\" del PSOE",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "matched 'PSOE'; comentario sobre fraude electoral coyuntural"
+    },
+    {
+      "block_quote": "🗳️ Pucherazo versus caciquismo: mecanismos de fraude electoral",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "matched 'elecciones'; mecánica de fraude electoral como denuncia coyuntural"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 16,
+    "blocks_filtered_count": 3
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

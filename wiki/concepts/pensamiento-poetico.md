@@ -124,6 +124,7 @@ Esto enlaza con la distinción canal-específica entre [[mitologia-propia-improp
 
 
 
+
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
@@ -133,4 +134,5 @@ Esto enlaza con la distinción canal-específica entre [[mitologia-propia-improp
 - **Biblioteca de Babel II** — chunks: [0:17](https://youtu.be/IytpR6sGWXg?t=17)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
 - **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
+- **Las piezas que faltan** — chunks: [14:30](https://youtu.be/DAW1HiYxnVk?t=870) · [1:27:14](https://youtu.be/DAW1HiYxnVk?t=5234)
 

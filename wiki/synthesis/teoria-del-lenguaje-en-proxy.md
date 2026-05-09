@@ -247,6 +247,52 @@ El substrato común a los tres marcos es el [[realismo-cognitivo]]: las estructu
 
 El marco se inscribe en [[golem-de-cobre]], donde la cognición humana —representacional, afectiva, inconsciente— se contrasta con la cognición artificial —simbólica, explícita, sin substrato corporal— como la dimensión que la IA no puede replicar.
 
+## Lenguaje como función cognitiva innata vs idioma como código aprendido
+
+En el directo *Las piezas que faltan* (16 sept 2024) el canal precisa una distinción que la página articulaba implícitamente: **lenguaje** y **idioma** son dos categorías diferentes — la primera función cognitiva innata, la segunda código culturalmente aprendido.
+
+> "El lenguaje es una función cognitiva innata presente desde el nacimiento; el idioma es el código aprendido culturalmente"
+→ [Las piezas que faltan (1:56:17)](https://youtu.be/DAW1HiYxnVk?t=6977)
+
+> "Nacemos con gramática implícita: los niños entienden la concordancia sin que se les enseñe explícitamente"
+→ [Las piezas que faltan (1:56:17)](https://youtu.be/DAW1HiYxnVk?t=6977)
+
+> "Las metáforas informáticas no sirven para describir el realismo cognitivo porque se alejan de las verdaderas categorías mentales"
+→ [Las piezas que faltan (1:56:17)](https://youtu.be/DAW1HiYxnVk?t=6977)
+
+La distinción es estructural: el **lenguaje** como función opera con o sin código verbal específico — es la capacidad representacional de comprimir y evocar contenidos mentales mediante alguna gramática (verbal, gestual, plástica). El **idioma** es la implementación cultural concreta de esa función — castellano, japonés, lengua de signos. La separación cierra el flanco anti-constructivista: cambiar el idioma no toca la función lingüística innata, solo el código de superficie. La concordancia prelingüística que la página ya articulaba como evidencia (sección 'Concordancia prelingüística y pragmática') queda ahora explícitamente leída desde esta distinción — los niños operan la función lenguaje antes de dominar el idioma. La cercanía con la tradición Chomsky-Fodor que la página declaraba como autoposicionamiento queda así literalizada: lo innato es la función cognitiva, lo aprendido es el código.
+
+## Lo inefable: límite estructural del algoritmo de compresión
+
+La página articulaba el lenguaje como compresión sin desarrollar qué se pierde en la compresión. El directo cierra el flanco con la categoría operativa de **lo inefable**.
+
+> "El lenguaje selecciona elementos gramaticales sencillos para codificar representaciones muy complejas"
+→ [Las piezas que faltan (1:15:55)](https://youtu.be/DAW1HiYxnVk?t=4555)
+
+> "Como todo algoritmo de compresión, pierde matices: no puedes transmitir todos los aspectos de una vivencia"
+→ [Las piezas que faltan (1:15:55)](https://youtu.be/DAW1HiYxnVk?t=4555)
+
+> "Existe lo inefable: vivencias (sueños, trastornos, dolor neuropático) que no se pueden explicitar ni siquiera para uno mismo"
+→ [Las piezas que faltan (1:15:55)](https://youtu.be/DAW1HiYxnVk?t=4555)
+
+La precisión opera en dos planos. (a) **Pérdida estructural**: todo algoritmo de compresión es lossy — verbalizar una vivencia compleja necesariamente descarta matices que la representación interior contenía pero que la gramática del idioma no puede portar. (b) **Inefabilidad radical**: hay vivencias cuyo grueso representacional excede no solo la capacidad de transmisión interpersonal sino la propia capacidad de explicitación reflexiva — el sujeto sabe que ha vivido algo (un sueño que se desvanece, un trastorno disociativo, un dolor neuropático) pero no puede formularse esa vivencia ni a sí mismo. Lo inefable no es defecto del aparato lingüístico individual; es propiedad estructural de la relación compresión↔representación. La consecuencia teórica refuerza el flanco anti-constructivista de la página: si el idioma no puede capturar siquiera vivencias propias del hablante, mucho menos puede generarlas o reconfigurarlas en otros — el lenguaje no determina el pensamiento porque ni siquiera lo agota.
+
+## El arte como lenguaje no verbal
+
+La página articulaba la distinción categoría gramatical / categoría representacional pero no extendía la función lingüística más allá del código verbal. El directo añade la pieza:
+
+> "El arte es un lenguaje no verbal que permite explicitud sin palabras"
+→ [Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)
+
+> "La metáfora es pensamiento poético útil para transmitir representaciones afectivas cuando la gramática se queda corta"
+→ [Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)
+
+> "Existen representaciones explícitas que no tienen lenguaje verbal en una cultura pero sí en otra"
+→ [Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)
+
+La generalización es operativa: el **arte** funciona como lenguaje no verbal — implementa la función lingüística (compresión + evocación de representaciones) usando código no gramatical. Una pintura, una pieza musical, una arquitectura ritual, comprimen contenido representacional complejo en un significante percibido y lo evocan en el receptor capacitado para decodificarlo. La metáfora opera en la frontera: usa gramática verbal pero ejecuta la función a través del registro poético (ver [[pensamiento-poetico]]) cuando la articulación formal se queda corta para representaciones afectivas. La pieza cierra una asimetría que la página dejaba implícita: la función lingüística no se identifica con el código verbal — el código verbal es solo una de sus implementaciones posibles, y existen culturas que codifican explícitamente representaciones (vía arte, gesto, ritual) que otras culturas no han comprimido en palabra.
+
+
 ## Lagunas
 
 - **Las cuatro acepciones de lenguaje** articuladas en el vídeo no están desarrolladas en el material disponible — el speaker las enumera explícitamente en el directo pero no hay cita directa en este stub
@@ -258,4 +304,7 @@ El marco se inscribe en [[golem-de-cobre]], donde la cognición humana —repres
 
 ## Citations
 
+
 - video_id: `PWUUY7vVgUk` — El lenguaje no determina el pensamiento.
+- **Las piezas que faltan** — chunks: [1:06:47](https://youtu.be/DAW1HiYxnVk?t=4007)
+

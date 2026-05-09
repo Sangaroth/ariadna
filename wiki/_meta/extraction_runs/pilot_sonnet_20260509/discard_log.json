@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "run_id": "pilot_sonnet_20260509",
-  "generated_at": "2026-05-09T12:58:32+00:00",
+  "generated_at": "2026-05-09T13:59:56+00:00",
   "entities": {
     "epistemologia-de-la-psicologia-en-proxy": {
       "canonical_name": "epistemología de la psicología / ¿es ciencia la psicología?",
@@ -195,6 +195,511 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "el-silmarillion": {
+      "canonical_name": "Silmarillion",
+      "page_type": "entity_work",
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El directo añade una pieza estructural ausente del cuerpo actual: paridad explícita Aulë-Melkor en posibilidades creativas, con asignación elemental fina (Aulë=tierra/materia, Melkor=fuego/energía) y mecanismo que explica la migración de Maiar de Aulë (Sauron) a Melkor por afinidad de potencialidades. Refina además la lectura del Melkor-en-la-Música: no carencia sino atención desplazada.",
+          "quote_evidence": "Aulë vs Melkor: por qué se comparan en el Silmarillion"
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "lw7XI2lQntM",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing_already_done",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        },
+        {
+          "video_id": "wIhH72UFUPY",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "enrich_existing",
+          "decision_reason": null,
+          "quote_evidence": ""
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "enrich_existing",
+        "enrich_existing_already_done",
+        "update_existing"
+      ],
+      "occurrences_count": 10,
+      "total_minutes": 3,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "cuatro-elementos-arquetipicos": {
+      "canonical_name": "los cuatro elementos (tierra/fuego/aire/agua)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": "secondary",
+          "minutes": 2,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo actual articula la asimetría material/inmaterial pero NO articula la subdistinción operativa que el directo aporta: tierra y fuego son régimen de multiplicación de posibilidades; aire y agua son régimen de invariancia transformadora. Es matiz nuevo que refuerza la lectura del esquema como retículo dinámico.",
+          "quote_evidence": "Tierra y fuego como elementos de máxima potencialidad creativa"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 2,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tolkien-jrr": {
+      "canonical_name": "Tolkien (vía Silmarillion / Aulë / Melkor)",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "El material tolkieniano de este directo se ancla naturalmente en el-silmarillion (paridad Aulë-Melkor, mecanismo Maiar-de-Aulë → Sauron). Replicar la pieza en tolkien-jrr generaría redundancia con el contenido demonológico ya extenso de esa página.",
+          "quote_evidence": "Aulë vs Melkor: por qué se comparan en el Silmarillion"
+        }
+      ],
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "high",
+      "review_priority_reason": "canonical_external + at_least_one_discard"
+    },
+    "Celebración / brindis con el chat / cumpleaños": {
+      "canonical_name": "Celebración / brindis con el chat / cumpleaños",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Proxy propone un brindis y reta al chat a adivinar el motivo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Equipo de buceo técnico / impresión 3D / Unicornio": {
+      "canonical_name": "Equipo de buceo técnico / impresión 3D / Unicornio",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Necesita traje semiseco, traje seco, calcetines de neopreno (no escarpines)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Escuela de buceo técnico + medicina hiperbárica (modelo de negocio)": {
+      "canonical_name": "Escuela de buceo técnico + medicina hiperbárica (modelo de negocio)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Cada vez tiene más claro el modelo de negocio: escuela de buceo técnico más cámara hiperbárica",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Curso de segundo grado de buceo / trabajo en Mallorca / primera soldadura subacuática": {
+      "canonical_name": "Curso de segundo grado de buceo / trabajo en Mallorca / primera soldadura subacuática",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Confirmado curso de segundo grado de buceo en octubre",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Inmersión técnica planificada / tipos de máscara / casco de escafandra / soldadura a ciegas": {
+      "canonical_name": "Inmersión técnica planificada / tipos de máscara / casco de escafandra / soldadura a ciegas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Dos buzos operativos en el agua (soldadura subacuática), dos buzos de emergencia en autónomo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Inventario de equipo pendiente / cursos de montaje lateral y buceo en cuevas": {
+      "canonical_name": "Inventario de equipo pendiente / cursos de montaje lateral y buceo en cuevas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Llaves inglesas de medidas específicas, una segunda primera etapa de buceo técnico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Teoría descompresiva / cálculos con mezclas de gases / examen del BOE": {
+      "canonical_name": "Teoría descompresiva / cálculos con mezclas de gases / examen del BOE",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Han estudiado descompresión a diferentes profundidades con mezclas de gases",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Aulë (Vala)": {
+      "canonical_name": "Aulë (Vala)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Aulë es materia y artesanía (tierra); Melkor es fuego, energía, afectos e impulsos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Melkor / Morgoth": {
+      "canonical_name": "Melkor / Morgoth",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Melkor no carece de poder creativo; simplemente está ocupado en lo suyo durante la Música",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Sauron (Maia de Aulë)": {
+      "canonical_name": "Sauron (Maia de Aulë)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Muchos Maiar de Aulë (como Sauron) acabaron sirviendo a Melkor precisamente por la afinidad de potencialidades",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Depresión / crisis de los 40 / aislamiento voluntario": {
+      "canonical_name": "Depresión / crisis de los 40 / aislamiento voluntario",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Confirma que sigue con depresión aunque se va suavizando",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Sueño recurrente del hombre con cuchillo / autoreconocimiento de proyección onírica": {
+      "canonical_name": "Sueño recurrente del hombre con cuchillo / autoreconocimiento de proyección onírica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Reconoce que algo de él tiene que haber en ese personaje onírico porque lo ha diseñado su inconsciente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Episodio de la publicidad de Marta en Twitter": {
+      "canonical_name": "Episodio de la publicidad de Marta en Twitter",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "5vERIcm2EGk",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "La depresión coincide temporalmente con el episodio de la publicidad de Marta en Twitter",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "inteligencia-y-adaptacion-en-proxy": {
       "canonical_name": "cociente intelectual / inteligencia / adaptación",
       "page_type": "synthesis",
@@ -268,6 +773,16 @@
           "decision": "update_existing",
           "decision_reason": "El monográfico aplica el viaje-heroe al varón contemporáneo concreto con tres pilares operativos y la trampa de la comparación amplificada por redes sociales. Es caso operativo del monomito aplicado a la maduración masculina actual. Cita-only para retrieval indirecto",
           "quote_evidence": "Compararse con otros hombres es el principal obstáculo en el camino del héroe masculino"
+        },
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": "secondary",
+          "minutes": 9,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo actual ya articula 'Cristo como respuesta católica al arquetipo del héroe' con la línea Hércules→Cristo→Arturo, pero NO articula la TIPOLOGÍA COMPARATIVA con otras tradiciones (Islam, budismo zen) ni la pieza específica del héroe-mártir como apoteosis sacrificial por el prójimo. Las tres respuestas religiosas (catolicismo=imitación / Islam=sumisión / budismo zen=no-camino) constituyen un eje diagnóstico estructural que refina la lectura de la página como vara crítica: no se trata solo de obras fallidas dentro de una tradición, sino de tradiciones operando estructuralmente distinto sobre la misma plantilla mítica.",
+          "quote_evidence": "El Islam es sumisión a las exigencias de un hombre (Mahoma), mientras el catolicismo es acompañamiento e imitación de Cristo, no sumisión"
         }
       ],
       "is_canonical_external": false,
@@ -275,8 +790,8 @@
       "decisions_seen": [
         "update_existing"
       ],
-      "occurrences_count": 1,
-      "total_minutes": 7,
+      "occurrences_count": 2,
+      "total_minutes": 16,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -1443,6 +1958,396 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "diosa-blanca": {
+      "canonical_name": "Diosa blanca",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": "primary",
+          "minutes": 25,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico explícito (título: 'La luna, La Virgen y la Diosa Blanca', 77 min). El canal articula la diosa blanca como arquetipo sin forma con estructura interna tripartita (gracia-belleza-esperanza ↔ virgen-consorte-madre), y la usa como armazón vertebral para conectar el mito lunar con la respuesta católica de la Virgen María. Es marco operativo del directo, no mera mención. Cumple §2.1 monográfico (≥10 min sostenidos en el marco) + framing-mark (definición declarativa con estructura interna) + connectivity emergente (organiza en este vídeo mito-lunar, virgen-maria, tipologia-femenina-arquetipica). Vacío editorial: el corpus tiene mito-lunar y tipologia-femenina-arquetipica pero el arquetipo trascendental que ambas instancian no tiene página. Promoción habilita resolver wikilinks rotos previsibles desde mito-lunar y tipologia-femenina-arquetipica.",
+          "quote_evidence": "La diosa blanca no es un prototipo de mujer ideal ni consorte ideal, sino un arquetipo sin forma que reúne todas las virtudes luminosas de lo femenino"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 25,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "virgen-maria": {
+      "canonical_name": "Virgen María",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": "primary",
+          "minutes": 24,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Tratamiento monográfico sostenido (~24 min) de María como respuesta católica específica al arquetipo diosa blanca. Estructura interna articulada: distinción 'mujer real con gracia intacta vs diosa', tres Marías al pie de la cruz como triple diosa luminosa (Virgen=gracia / Magdalena=belleza-redimida / Cleofas=esperanza-multimadre), Asunción como cumplimiento del ciclo, dogma de corredención en discusión, necesidad teológica del nacimiento de mujer real ('si hubiera nacido de otro modo habría sido un golem o una trampa'). Cumple §2.1 monográfico + framing-mark + assumed-prior. La página es nudo necesario del grafo: mito-lunar lo necesita para articular su instanciación católica, diosa-blanca lo necesita como caso instanciado, viaje-heroe lo enlaza vía héroe-mártir-Cristo. Sin página propia el material quedaría fragmentado entre tres pages.",
+          "quote_evidence": "Católicos y ortodoxos son los únicos cristianos que creen que el arquetipo de la diosa blanca tiene cabida en el cristianismo a través de la Virgen María"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 24,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-lunar": {
+      "canonical_name": "mito lunar (Asunción de María como cumplimiento)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo actual de mito-lunar articula la secuencia despertar-creación-caída-luna-roja-exorcismo y la mecánica de descenso/rescate del hijo dios via Gothika, pero NO documenta el cumplimiento católico del ciclo en la figura de María. La Asunción cierra operativamente el ciclo (elevación corporal sin pasar por muerte) — encaja exactamente en la fórmula lunar 'atravesar el dragón sin ser destruida' que la página ya articula. Material genuinamente nuevo, no redundante con el contenido de Gothika ni con la sección de mito-polar.",
+          "quote_evidence": "El dogma católico afirma que María no murió sino que ascendió a los cielos, cumpliendo el último requisito de la diosa blanca"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo invoca el mito lunar como contenedor de la fenomenología de lo femenino aplicada al análisis de Wendy. Aporta también una articulación VARIANTE relevante: 'cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago'. La page actual articula SEIS mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis) según el libro Del origen del mal; el monográfico lista CINCO con Héroe en lugar de solar/polar. Variante no contradice la cosmología del libro (el mito del Héroe podría ser otra capa abstrativa, p.ej. el monomito como pieza psico-arquetípica vs los seis cosmológicos), pero merece flag para audit humano. Cita-only con rationale que señale la divergencia",
+          "quote_evidence": "Es uno de cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "promote_new",
+          "decision_reason": "Mito lunar está en canonical_whitelist con auto_promote: true (channel_specific_concepts y referenciado desde múltiples páginas como wikilink roto). Este vídeo aporta la secuencia completa del mito lunar en cinco fases (despertar-creación-caída-luna roja-exorcismo) — la articulación más explícita en el corpus. Cumple el criterio de promoción automática por whitelist + tratamiento sustantivo (≥3 min de exposición). Crear stub mínimo con la secuencia y la composición polar.",
+          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "decisions_seen": [
+        "promote_new",
+        "update_existing"
+      ],
+      "occurrences_count": 3,
+      "total_minutes": 16,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "tipologia-femenina-arquetipica": {
+      "canonical_name": "tipología femenina arquetípica (tres formas del mal materno)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo actual articula 5 corrupciones (Wendy/ninfa/lámia/Medea/bruja) y describe Medea como 'la madre oscura cuyo instinto maternal es sustituido por el mal' con caso narrativo Morgana. Pero NO desarrolla la tipología INTERNA de la corrupción Medea: tres mecanismos clínicamente distintos (neurosis materna tipo Munchausen / psicosis materna / vaciamiento total de la capacidad de amar). El refinamiento es operativo y permite diagnóstico diferencial — encaja dentro del slot Medea sin contradecir las cinco corrupciones. Es exactamente el tipo de granularidad clínica que la página ya admite en otras secciones (lámia con casos diferenciales, ninfa con esquizotípicos).",
+          "quote_evidence": "Primera forma de mal: la neurosis materna (como el síndrome de Munchausen por poder), donde la madre absorbe al hijo para nutrirse ella en lugar de nutrirlo"
+        },
+        {
+          "video_id": "L7oSZTTK8Gg",
+          "video_title": "El síndrome de Wendy",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "El vídeo aplica operativamente la tipología tres-aspectos / cinco-corrupciones: (38:06) doncella/consorte/madre con Atenea como prototipo de doncella; (40:43) corrupciones como versión arquetípica dañada; (1:54:51) Medea como núcleo genuinamente femenino sin contraparte masculina genuina (refinamiento sobre la lectura del page que la sitúa solo como 'corrupción de la madre'); (2:00:03) Friends como caso operativo que contiene las cuatro formas de la feminidad. La prosa de tipologia-femenina-arquetipica ya cubre exhaustivamente la tipología y sus casos diferenciales en otro directo previo (Vacacioff parte II). Aquí basta cita-only para retrieval indirecto",
+          "quote_evidence": "Medea utiliza a los hijos como vehículo de su neurosis"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 20,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-del-mago": {
+      "canonical_name": "mito del mago",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": "passing_mention",
+          "minutes": 1,
+          "framing_marks_count": 1,
+          "decision": "mentions_index",
+          "decision_reason": "Listado como uno de los cinco grandes mitemas del sistema cosmológico del canal (junto a Génesis, Apocalipsis, mito solar y mito lunar) pero sin desarrollo en este vídeo. Mito-lunar lo nombra también en la secuencia de los seis mitos primarios. Falta tratamiento sustantivo: no se describe estructura interna, secuencia, ejemplos canónicos, o conexiones con figuras concretas (¿Merlín? ¿Gandalf? ¿Próspero? ¿el mago de la cábala?). Insuficiente para promote_new (§2.1 ningún criterio cumplido). mentions_index registra la pieza para que cuando otro directo desarrolle el mitema (probable, dado que el canal articula los cinco) se pueda promover sobre material acumulado.",
+          "quote_evidence": "Los cinco grandes mitemas son: Génesis, Apocalipsis, mito solar/del héroe, mito lunar/de la diosa, y mito del mago"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 1,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Muñecos Reborn / parafilia maternal en TikTok": {
+      "canonical_name": "Muñecos Reborn / parafilia maternal en TikTok",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Existe una subcultura en TikTok de mujeres que fingen ser madres con muñecos hiperrealistas llamados \"Reborn\"",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Muñecos de duelo perinatal como herramienta psiquiátrica": {
+      "canonical_name": "Muñecos de duelo perinatal como herramienta psiquiátrica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Los muñecos de duelo perinatal son una herramienta psiquiátrica legítima para madres que han perdido bebés durante el parto",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Fracaso civilizatorio respecto a lo femenino": {
+      "canonical_name": "Fracaso civilizatorio respecto a lo femenino",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "framing_comment",
+          "quote_evidence": "La existencia masiva de esta subcultura indica un fallo cultural profundo respecto a lo femenino",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Síndrome de Munchausen por poder": {
+      "canonical_name": "Síndrome de Munchausen por poder",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "la neurosis materna (como el síndrome de Munchausen por poder)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "María Magdalena (consorte pecadora redimida)": {
+      "canonical_name": "María Magdalena (consorte pecadora redimida)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "Magdalena la belleza (la consorte pecadora redimida)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "María de Cleofas (la multimadre)": {
+      "canonical_name": "María de Cleofas (la multimadre)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_character",
+          "quote_evidence": "María de Cleofas la esperanza (la multimadre)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Dogma de María corredentora": {
+      "canonical_name": "Dogma de María corredentora",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "María es corredentora con Cristo, dogma actualmente en discusión",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Asunción de María (dogma)": {
+      "canonical_name": "Asunción de María (dogma)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "El dogma católico afirma que María no murió sino que ascendió a los cielos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Comparación budismo zen / Islam como respuestas religiosas (entidades religión)": {
+      "canonical_name": "Comparación budismo zen / Islam como respuestas religiosas (entidades religión)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "C5q89bw1G9E",
+          "video_title": "La luna, La Virgen y la Diosa Blanca",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "El budismo zen responde al mito del héroe con \"no hay camino\" (no intervención)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "funcion-biologica-y-suicidio-en-proxy": {
       "canonical_name": "El concepto 'adaptativo' es inservible en realismo cognitivo",
       "page_type": null,
@@ -1618,6 +2523,16 @@
           "decision": "update_existing",
           "decision_reason": "Concepto invocado como marco aplicado en dos bloques distintos: (1:29:13) feminismo de consigna sin acción concreta como propaganda vacía — encaja con la lógica nuclear 'palabra sustituye conducta'; (1:37:25) neo-puritanismo proyecta culpa sobre prácticas privadas consensuadas — el speaker etiqueta directamente como sofisma estético. La prosa de sofisma-estetico ya cubre exhaustivamente el mecanismo (tras Read del cuerpo completo): añadir prosa sería redundante. Cita-only update para retrieval indirecto vía SQLite citations index",
           "quote_evidence": "El sofisma estético proyecta culpa sobre prácticas privadas consensuadas entre adultos"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo actual articula el sofisma estético en clave de palabras de valor (revolución/performance, antirracismo/racismo estético) y de la falacia de la claridad. El directo añade una variante específica: el sofisma TERMINOLÓGICO — palabras inventadas que pasan por jerga técnica especializada. El mecanismo es operativamente distinto (explota déficit asimétrico de competencia técnica entre divulgador y audiencia, no operaba en los casos políticos-morales documentados) pero estructuralmente análogo. Refuerza la lectura del concepto como dispositivo transversal a trincheras ideológicas.",
+          "quote_evidence": "Candelios usa \"estructura funcional\" como sofisma estético para aparentar profundidad técnica"
         }
       ],
       "is_canonical_external": false,
@@ -1625,8 +2540,8 @@
       "decisions_seen": [
         "update_existing"
       ],
-      "occurrences_count": 1,
-      "total_minutes": 2,
+      "occurrences_count": 2,
+      "total_minutes": 6,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -3648,31 +4563,6 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "tipologia-femenina-arquetipica": {
-      "canonical_name": "tres figuras neutrales / Medea como núcleo genuinamente femenino / Friends cuatro formas",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "L7oSZTTK8Gg",
-          "video_title": "El síndrome de Wendy",
-          "depth": "secondary",
-          "minutes": 12,
-          "framing_marks_count": 3,
-          "decision": "update_existing",
-          "decision_reason": "El vídeo aplica operativamente la tipología tres-aspectos / cinco-corrupciones: (38:06) doncella/consorte/madre con Atenea como prototipo de doncella; (40:43) corrupciones como versión arquetípica dañada; (1:54:51) Medea como núcleo genuinamente femenino sin contraparte masculina genuina (refinamiento sobre la lectura del page que la sitúa solo como 'corrupción de la madre'); (2:00:03) Friends como caso operativo que contiene las cuatro formas de la feminidad. La prosa de tipologia-femenina-arquetipica ya cubre exhaustivamente la tipología y sus casos diferenciales en otro directo previo (Vacacioff parte II). Aquí basta cita-only para retrieval indirecto",
-          "quote_evidence": "Medea utiliza a los hijos como vehículo de su neurosis"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "update_existing"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 12,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
     "colusion-heroe-ninfa": {
       "canonical_name": "Peter Pan como sátiro / ninfas que fingen Wendy",
       "page_type": "synthesis",
@@ -3722,42 +4612,6 @@
       "total_minutes": 10,
       "review_priority": "low",
       "review_priority_reason": null
-    },
-    "mito-lunar": {
-      "canonical_name": "mito lunar / cinco mitos fundamentales",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "L7oSZTTK8Gg",
-          "video_title": "El síndrome de Wendy",
-          "depth": "secondary",
-          "minutes": 6,
-          "framing_marks_count": 2,
-          "decision": "update_existing",
-          "decision_reason": "El vídeo invoca el mito lunar como contenedor de la fenomenología de lo femenino aplicada al análisis de Wendy. Aporta también una articulación VARIANTE relevante: 'cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago'. La page actual articula SEIS mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis) según el libro Del origen del mal; el monográfico lista CINCO con Héroe en lugar de solar/polar. Variante no contradice la cosmología del libro (el mito del Héroe podría ser otra capa abstrativa, p.ej. el monomito como pieza psico-arquetípica vs los seis cosmológicos), pero merece flag para audit humano. Cita-only con rationale que señale la divergencia",
-          "quote_evidence": "Es uno de cinco mitos fundamentales: Génesis, Apocalipsis, Héroe, Lunar y Mago"
-        },
-        {
-          "video_id": "t8v5w3s0USA",
-          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
-          "depth": "secondary",
-          "minutes": 4,
-          "framing_marks_count": 1,
-          "decision": "promote_new",
-          "decision_reason": "Mito lunar está en canonical_whitelist con auto_promote: true (channel_specific_concepts y referenciado desde múltiples páginas como wikilink roto). Este vídeo aporta la secuencia completa del mito lunar en cinco fases (despertar-creación-caída-luna roja-exorcismo) — la articulación más explícita en el corpus. Cumple el criterio de promoción automática por whitelist + tratamiento sustantivo (≥3 min de exposición). Crear stub mínimo con la secuencia y la composición polar.",
-          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": true,
-      "decisions_seen": [
-        "promote_new",
-        "update_existing"
-      ],
-      "occurrences_count": 2,
-      "total_minutes": 10,
-      "review_priority": "high",
-      "review_priority_reason": "inconsistent decisions across occurrences"
     },
     "Los hijos detienen la madurez individual": {
       "canonical_name": "Los hijos detienen la madurez individual",
@@ -4282,17 +5136,28 @@
           "decision": "promote_new",
           "decision_reason": "Vídeo monográfico de ~145 min sostenidos articulando la tesis nuclear del canal sobre lenguaje y pensamiento, con marco pedagógico tipo Psicología 101 y estructura interna de ≥20 piezas coordinadas: tesis nuclear (lenguaje no determina pensamiento), cuatro acepciones de lenguaje, distinción neurolingüística/psicolingüística con autoposicionamiento (representacionalista, realista, cognitivista), división neurológica funcional/articulatoria, mapa completo de trastornos (TEL/apragmatismo/disartria/dislalia/disglosia/disfasia/afasia/glosolalia/taquifemia/disfemias/disgrafía/dislexia), tipología completa de afasias fluentes y no fluentes, las cuatro fases cognitivas, las cuatro áreas corticales, epistemología de la lectura, mito de los esquimales, idiomas sin verbo 'ser', tres postulados a desmontar (Heidegger/PNL/determinismo), triple problema 'qué es lenguaje, qué es pensamiento, qué es determinar', concordancia prelingüística, recorrido completo por teorías (Sapir-Whorf, Skinner, Piaget, Vygotsky, Chomsky, Halliday, Fodor/Modularismo), caso Genie. Pasa el gate de auto-promoción §2.4.1 cómodamente (minutes >>30, signals ≥4, structure >>4 piezas dependientes). Es la pieza foundational del marco lingüístico del canal — paralela a teoria-del-simbolo-en-proxy (símbolo) y teoria-de-las-emociones-en-proxy (emociones), cierra el flanco lingüístico que aquellas dejaban implícito.",
           "quote_evidence": "El lenguaje es un algoritmo de compresión: agrupa representaciones complejas en palabras,"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo actual articula el determinismo lingüístico (Sapir-Whorf radical, PNL, Heidegger) como casos del constructivismo lingüístico que el canal rechaza. El directo extiende el marco al CONSTRUCTIVISMO NEUROCULTURAL — la tesis 'la cultura moldea el cerebro y los genes' — que es la misma operación retórica con vocabulario distinto. Material genuinamente nuevo: La llegada como caso cinematográfico del Sapir-Whorf radical (no estaba en la página), cuantificación del moldeo cerebral real (trauma/enamoramiento/maternidad >> cultura ambiental, reversibilidad en 6 meses), definición antropológica de cultura como herencia no biológica como demarcación operativa ausente en el divulgador constructivista. Encaja como sección de cierre que conecta el determinismo lingüístico con su variante neurocultural contemporánea.",
+          "quote_evidence": "Decir que la cultura moldea el cerebro es una tautología equivalente a decir que la experiencia causa experiencia"
         }
       ],
       "is_canonical_external": false,
       "is_in_whitelist_soft": false,
       "decisions_seen": [
-        "promote_new"
+        "promote_new",
+        "update_existing"
       ],
-      "occurrences_count": 1,
-      "total_minutes": 145,
-      "review_priority": "low",
-      "review_priority_reason": null
+      "occurrences_count": 2,
+      "total_minutes": 157,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
     },
     "heidegger-martin": {
       "canonical_name": "Heidegger ('Solo hay mundo donde hay lenguaje')",
@@ -4973,6 +5838,765 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "psicoinfluencers-en-proxy": {
+      "canonical_name": "psicoinfluencers (eje constructivista neurocultural)",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": "primary",
+          "minutes": 80,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "Vídeo monográfico (~104 min) que aplica el marco psicoinfluencer del canal a un caso paradigmático nuevo: divulgación constructivista neurocultural (Candelios Fang / Tu antropóloga de confianza). El cuerpo actual de psicoinfluencers-en-proxy está articulado sobre el eje conductismo divulgativo (Lidia Viñuela) — es una extensión natural y necesaria al eje IDEOLÓGICAMENTE OPUESTO pero ESTRUCTURALMENTE IDÉNTICO de divulgación maniquea. Material genuinamente nuevo: patrón de referencias falseadas (libros militantes citados como papers), inflación terminológica ('estructura funcional del cerebro'), tipología disjunta del divulgador descuidado (incomprensión / manipulación / copia sin lectura), tesis MGTOW-feminismo-constructivista como espejos maniqueos del locus externo, proyecto editorial de corrección sistemática. La extensión consolida la página como crítica TRANSVERSAL al modelo divulgativo, no a una sola corriente.",
+          "quote_evidence": "El canal de Candelios tiene tanta ciencia como \"los canales de tetas\": es sofisma estético que suena a ciencia pero no lo es"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 80,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "candelios-fang": {
+      "canonical_name": "Candelios Fang / Tu antropóloga de confianza",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": "primary",
+          "minutes": 70,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "Influencer concreta de Instagram (~300k seguidores) usada en el directo como caso paradigmático de divulgación constructivista pseudocientífica. Per scope.md §3.3 las personas concretas no generan página propia salvo tratamiento sustantivo de su pensamiento como cuerpo teórico — Candelios no es figura intelectual cuyo pensamiento merezca página, es caso clínico-cultural de un patrón. Su tratamiento se integra como caso ilustrativo en psicoinfluencers-en-proxy (paralelo a Lidia Viñuela / Think Healthy). Si futuras ediciones del proyecto editorial 'corrección sistemática' anunciado por el canal acumulan suficiente material sobre su discurso, podría reconsiderarse — pero con un solo vídeo es prematuro y violaría la regla anti-personalización de páginas wiki.",
+          "quote_evidence": "Proxy hizo un reel respondiendo a Candelios Fang (300.000 seguidores en Instagram) sobre diferencias cerebrales entre hombres y mujeres"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 70,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mgtow-movimiento": {
+      "canonical_name": "MGTOW (movimiento Men Going Their Own Way)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 0,
+          "decision": "mentions_index",
+          "decision_reason": "Movimiento sociocultural articulado en el directo como una mitad de la tipología espejo locus-externo-biológico vs locus-externo-cultural. La mención es estructural (no solo nominal) — el canal lo usa para una tesis comparativa. Pero ~3 min de tratamiento, sin estructura interna desplegada (etiología, casos, genealogía, autores referentes). Insuficiente para promote_new (§2.1 ningún criterio cumplido). El contenido analítico se preserva en el update a psicoinfluencers-en-proxy (sección sobre espejos maniqueos del locus externo). mentions_index registra para futuro: si el canal articula MGTOW como caso clínico-cultural en otros directos, la página sería viable.",
+          "quote_evidence": "Los MGTOW elaboran un locus externo biológico: \"estamos determinados por la biología\""
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 3,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Reel viral / dispute en Instagram contra Candelios": {
+      "canonical_name": "Reel viral / dispute en Instagram contra Candelios",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Proxy hizo un reel respondiendo a Candelios Fang (300.000 seguidores en Instagram) sobre diferencias cerebrales entre hombres y mujeres",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Análisis paper-por-paper de las referencias de Candelios (Culture Sensitive Neural Substrates, Cultura neurobiología y comportamiento, gen SRGAP2, hambruna prenatal, Cómo la cultura perfiló el cerebro humano)": {
+      "canonical_name": "Análisis paper-por-paper de las referencias de Candelios (Culture Sensitive Neural Substrates, Cultura neurobiología y comportamiento, gen SRGAP2, hambruna prenatal, Cómo la cultura perfiló el cerebro humano)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "El propio artículo reconoce que no puede vincular directamente la cultura a los hechos cerebrales observados",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Genética conductual / leyes de la genética conductual": {
+      "canonical_name": "Genética conductual / leyes de la genética conductual",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Las leyes de la genética conductual establecen que la carga genética es lo primero que cuenta, después todo lo demás",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Crianza esquizogénica en tribus amazónicas/africanas": {
+      "canonical_name": "Crianza esquizogénica en tribus amazónicas/africanas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "Existen tribus amazónicas y africanas cuyo sistema de crianza maltrata sistemáticamente a los niños y les niega vínculos individuales",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Epigenética / fosforilación de bases del ADN": {
+      "canonical_name": "Epigenética / fosforilación de bases del ADN",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El entorno epigenético es todo lo no celular, no específicamente la cultura",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Tracto frontotemporal / áreas prefrontales / empatía": {
+      "canonical_name": "Tracto frontotemporal / áreas prefrontales / empatía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Las áreas prefrontales no están específicamente asociadas con la empatía; lo que existe es un tracto frontotemporal específico",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Distinción profesional/ciudadano en la batalla cultural": {
+      "canonical_name": "Distinción profesional/ciudadano en la batalla cultural",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "framing_comment",
+          "quote_evidence": "Distingue entre dedicarse a la batalla cultural como profesión y preocuparse por ella como ciudadano",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Imposibilidad de ver pensamiento por neuroimagen": {
+      "canonical_name": "Imposibilidad de ver pensamiento por neuroimagen",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "No se puede comprobar que dos personas \"piensan distinto\" mirando su cerebro en neuroimagen",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Neuroplasticidad (clarificación contra usos populares)": {
+      "canonical_name": "Neuroplasticidad (clarificación contra usos populares)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La neuroplasticidad no es lo que la mayoría de no neurobiólogos cree que es",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "mito-solar": {
+      "canonical_name": "esvástica / cruz gamada como símbolo solar",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": "secondary",
+          "minutes": 1.5,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo de mito-solar articula la estructura del ciclo solar (caída-camino-muerte-apoteosis) y sus encarnaciones antropomórficas (Apolo, Hércules, Cristo, Superman) pero NO documenta el principal vehículo iconográfico-gráfico del mito en las tradiciones euroasiáticas: la cruz gamada / esvástica. El directo aporta una precisión correctiva (la diferencia horaria/antihoraria es variación cultural local, no polaridad simbólica) y enraíza el símbolo en su origen oriental como rueda solar pre-nazi. Material genuinamente nuevo, refuerza la lectura del mito como arquetipo cosmológico universal.",
+          "quote_evidence": "ambas son cruces gamadas solares"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "La página de mito-solar tiene laguna explícita: 'Muerte y renacimiento como pieza estructural: declarado como pieza del ciclo en la decision_reason del candidato pero el fragmento no contiene cita literal sobre la fase de descenso/renacimiento solar — pendiente recuperar el material correspondiente'. Este vídeo articula la secuencia completa del mito solar en cuatro fases canónicas (caída-camino-muerte-apoteosis), refutando esa laguna. Las fases muerte y apoteosis son precisamente las que faltaban.",
+          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 5.5,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "liberalismo": {
+      "canonical_name": "liberalismo (semántica EE.UU. vs Europa, ausencia de concepto del mal)",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "mentions_index",
+          "decision_reason": "La pieza articula crítica filosófica genuina a una tradición intelectual declarada en alcance (§1.1 humanities.philosophy.political; pilar declarado del canal según self-statement de scope.md). Tres tesis: distinción semántica EE.UU./Europa, ausencia de concepto operativo del mal, reducción liberal/conservador a 'cambiar vs no cambiar'. Insuficiente para promote_new (~4 min, no monográfico, sin estructura interna articulada como sistema, sin signal_marks de tesis-de-autor): no cumple §2.1 ni gate de auto-promoción §2.4.1. Pero merece registro en mentions_index para que la página futura, cuando se acumule material en otros directos, pueda recuperar esta cita como pieza temprana del marco crítico.",
+          "quote_evidence": "El liberalismo carece de una definición operativa del mal: tiene intuición del mal pero no concepto desarrollado"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "mentions_index"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 4,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pesadillas durante inmersiones profundas / sueños vívidos": {
+      "canonical_name": "Pesadillas durante inmersiones profundas / sueños vívidos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Los sueños vívidos no son solo por la presión y el oxígeno: están vinculados a cosas personales que está procesando",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Paisaje lovecraftiano de la inmersión": {
+      "canonical_name": "Paisaje lovecraftiano de la inmersión",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Estructuras rocosas nunca vistas, corales blancos planos y agua verde con poca visibilidad a 18-23 metros de profundidad",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Procedimiento de emergencia / perderse bajo el agua": {
+      "canonical_name": "Procedimiento de emergencia / perderse bajo el agua",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Procedimiento correcto: moverse en círculo buscando al grupo, y si no aparecen, ascender lentamente a superficie",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pruebas físicas del curso de buceo profesional / apnea / 400m": {
+      "canonical_name": "Pruebas físicas del curso de buceo profesional / apnea / 400m",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Apnea de 25 metros en piscina y aguante de un minuto sin respirar como mínimo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Estrategia de neopreno por capas": {
+      "canonical_name": "Estrategia de neopreno por capas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Lleva un traje de 2 mm debajo de uno de 5 mm; la capa de agua intermedia casi estanca aporta aislamiento extra",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Curso de media profundidad / crítica al elitismo militar de la escuela alternativa": {
+      "canonical_name": "Curso de media profundidad / crítica al elitismo militar de la escuela alternativa",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "El enfoque militarista no aporta nada al aprendizaje real del buceo: lo esencial es cabeza fría, dominio del equipo y planificación",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Negocio en medicina hiperbárica / oxigenoterapia clínica": {
+      "canonical_name": "Negocio en medicina hiperbárica / oxigenoterapia clínica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Hay enorme demanda mundial de medicina hiperbárica para buceo y prácticamente cero oferta",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Planes profesionales en Mallorca / instructor": {
+      "canonical_name": "Planes profesionales en Mallorca / instructor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Le han ofrecido trabajar de buzo en el puerto de Mallorca con el título actual",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Soldadura subacuática / jaula de Faraday / física del calambre": {
+      "canonical_name": "Soldadura subacuática / jaula de Faraday / física del calambre",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Mañana toca soldar bajo el agua por primera vez: placas planas de acero de unos 15 mm con electrodos gruesos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Control de descompresión en el ascenso": {
+      "canonical_name": "Control de descompresión en el ascenso",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Velocidad máxima de descenso recomendada: 22 metros por minuto",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pánico bajo el agua / fobias / afinidad con el medio": {
+      "canonical_name": "Pánico bajo el agua / fobias / afinidad con el medio",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "El agua acojona a quien acojona: es como las fobias a arañas o serpientes, no se puede racionalizar fácilmente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Frío al ponerse el traje mojado": {
+      "canonical_name": "Frío al ponerse el traje mojado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Después de comer hay que volver al agua y los trajes han estado colgados a 13 grados, mojados y helados",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Renovación de amistades / desconexión digital de Twitter": {
+      "canonical_name": "Renovación de amistades / desconexión digital de Twitter",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Lleva tres o cuatro años con vínculos (especialmente de Twitch) que no estaban bien y necesita reelaborarlos",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lista de equipo pendiente: traje seco Beuchat / escarpines": {
+      "canonical_name": "Lista de equipo pendiente: traje seco Beuchat / escarpines",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "Prioridad máxima: traje seco Beuchat con cierre frontal, recomendado por un compañero del curso",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Condicionamiento aversivo del sabor (tequila, vermut, grasas marinas)": {
+      "canonical_name": "Condicionamiento aversivo del sabor (tequila, vermut, grasas marinas)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "krkUPzqTqTA",
+          "video_title": "¡Inside Proxy está emitiendo en directo!",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Una mala experiencia con un alimento puede arruinar permanentemente ese sabor por condicionamiento",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "Descarrilamiento de Rodalíes en Gélida (R4)": {
       "canonical_name": "Descarrilamiento de Rodalíes en Gélida (R4)",
       "page_type": null,
@@ -5285,112 +6909,6 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "el-silmarillion": {
-      "canonical_name": "Balrogs",
-      "page_type": null,
-      "occurrences": [
-        {
-          "video_id": "lw7XI2lQntM",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "lw7XI2lQntM",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "lw7XI2lQntM",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "lw7XI2lQntM",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing_already_done",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "wIhH72UFUPY",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "wIhH72UFUPY",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "wIhH72UFUPY",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "wIhH72UFUPY",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        },
-        {
-          "video_id": "wIhH72UFUPY",
-          "video_title": "¡Inside Proxy está emitiendo en directo!",
-          "depth": null,
-          "minutes": null,
-          "framing_marks_count": 0,
-          "decision": "enrich_existing",
-          "decision_reason": null,
-          "quote_evidence": ""
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "enrich_existing",
-        "enrich_existing_already_done"
-      ],
-      "occurrences_count": 9,
-      "total_minutes": 0,
-      "review_priority": "high",
-      "review_priority_reason": "recurrent (9 occurrences) without promotion"
-    },
     "Polaris (referencia bibliográfica del canal en preparación)": {
       "canonical_name": "Polaris (referencia bibliográfica del canal en preparación)",
       "page_type": null,
@@ -5414,31 +6932,6 @@
       ],
       "occurrences_count": 1,
       "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "mito-solar": {
-      "canonical_name": "Mito solar: secuencia caída-camino-muerte-apoteosis",
-      "page_type": "concept",
-      "occurrences": [
-        {
-          "video_id": "t8v5w3s0USA",
-          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
-          "depth": "secondary",
-          "minutes": 4,
-          "framing_marks_count": 1,
-          "decision": "update_existing",
-          "decision_reason": "La página de mito-solar tiene laguna explícita: 'Muerte y renacimiento como pieza estructural: declarado como pieza del ciclo en la decision_reason del candidato pero el fragmento no contiene cita literal sobre la fase de descenso/renacimiento solar — pendiente recuperar el material correspondiente'. Este vídeo articula la secuencia completa del mito solar en cuatro fases canónicas (caída-camino-muerte-apoteosis), refutando esa laguna. Las fases muerte y apoteosis son precisamente las que faltaban.",
-          "quote_evidence": "El mito solar sigue la secuencia caída-camino-muerte-apoteosis; el lunar: despertar-creación-caída-luna roja-exorcismo,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "update_existing"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 4,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -6281,6 +7774,343 @@
           "decision": "discard",
           "decision_reason": "meta_canal",
           "quote_evidence": "Lo primero que vieron sus ojos fueron las estrellas del cielo, como en Polaris,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "teoria-de-la-memoria-en-proxy": {
+      "canonical_name": "teoría de la memoria en Proxy (memoria como fenómeno noético de repetición de submatrices)",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "primary",
+          "minutes": 132,
+          "framing_marks_count": 6,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de 132 min dedicado íntegramente a articular una teoría propia de la memoria del canal, con estructura pedagógica explícita ('La filosofía deshace ideas mitológicas') y posicionamiento genealógico explícito (continuación del realismo cognitivo y del marco matricial de teoria-del-simbolo-en-proxy, oposición a psicoanálisis y conductismo). CUMPLE el gate de auto-promoción §2.4.1: (a) minutes_sustained=132 ≥ 30; (b) signal_marks_detected=6 ≥ 3 (thesis_marker, corrective_thesis, internal_structure, applied_framework, genealogical_self_reference, pedagogic_register); (c) framework_internal_structure ≥ 4 piezas explícitas: definición negativa (memoria NO es almacén), definición positiva (fenómenos noéticos de repetición de submatrices similares), tipología (procedimental/episódica/semántica/sensorial-corto-largo), localización neuroanatómica (corteza retrosplenial / orbitofrontal / hipocampo), mente como matriz con submatrices imaginario-formal-afectivo, persistencia en la repetición como criterio de demarcación, refutación de recuerdos reprimidos. Marcar auto_promoted_synthesis=true en frontmatter. Página resuelve laguna estructural del wiki: no hay locus enciclopédico de la teoría memorial del canal a pesar de ser pieza recurrente en yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy y golem-de-cobre. Sub-agente debe construir cuerpo con secciones por tipo de memoria, secciones por mecanismo (matriz, persistencia, P300, CAD), wikilinks a realismo-cognitivo, teoria-del-simbolo-en-proxy, golem-de-cobre, yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy.",
+          "quote_evidence": "La memoria son fenómenos internos de repetición: una parte del cerebro se activa de forma similar a como se activó originalmente"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 132,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Realismo cognitivo (re-articulación como marco)": {
+      "canonical_name": "Realismo cognitivo (re-articulación como marco)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "El realismo cognitivo distingue entre realidad (más amplia) y materia (solo lo físico), sin postular sustancias no materiales",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mente como matriz / grafo con submatrices imaginario-formal-afectivo": {
+      "canonical_name": "Mente como matriz / grafo con submatrices imaginario-formal-afectivo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "La mente es un gigantesco grafo representable como una matriz con submatrices (imaginario, formal, afectivo)",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Conciencia como metarrepresentaciones / explanatory gap / hard problem": {
+      "canonical_name": "Conciencia como metarrepresentaciones / explanatory gap / hard problem",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "La conciencia es un conjunto de metarrepresentaciones de alto nivel emparejadas con la percepción somática del entorno",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Crítica a la mente como ordenador / codificación neuronal mutable": {
+      "canonical_name": "Crítica a la mente como ordenador / codificación neuronal mutable",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "Las neuronas no se quedan fijas como celdas de un ordenador; están cambiando constantemente",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Localización neuroanatómica del recuerdo (corteza retrosplenial, córtex orbitofrontal, hipocampo)": {
+      "canonical_name": "Localización neuroanatómica del recuerdo (corteza retrosplenial, córtex orbitofrontal, hipocampo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "Recordar voluntariamente activa principalmente la corteza retrosplenial y el córtex orbitofrontal medial",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "TID / personalidad vs personaje (reafirmación)": {
+      "canonical_name": "TID / personalidad vs personaje (reafirmación)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "already_captured_extends_existing",
+          "quote_evidence": "No se pueden tener 57 personalidades porque una personalidad requiere desarrollo vital completo; lo que hay son personajes",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Personalidad / autoimagen / personaje (taxonomía)": {
+      "canonical_name": "Personalidad / autoimagen / personaje (taxonomía)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "La personalidad es un conjunto de rasgos estadísticos hereditarios e inmodificables de conducta, percepción y representación",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mecanismos de defensa como memoria procedimental del yo": {
+      "canonical_name": "Mecanismos de defensa como memoria procedimental del yo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "Tomarse las cosas a lo personal es un mecanismo de defensa neurótico: un procedimiento automático que evoca emociones como si la amenaza fuera al yo",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Crítica a recuerdos reprimidos como mito psicoanalítico": {
+      "canonical_name": "Crítica a recuerdos reprimidos como mito psicoanalítico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "No existen recuerdos reprimidos como una fuerza que contiene un recuerdo que lucha por salir",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Apraxias / amnesia disociativa Jason Bourne / caso clínico de disociación procedimental-episódica": {
+      "canonical_name": "Apraxias / amnesia disociativa Jason Bourne / caso clínico de disociación procedimental-episódica",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "in_work_subtopic",
+          "quote_evidence": "Un amnésico puede hablar un idioma pero no recordar cuándo ni cómo lo aprendió, como Jason Bourne",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "P300 y circuito de activación por defecto (CAD) / detección de mentiras": {
+      "canonical_name": "P300 y circuito de activación por defecto (CAD) / detección de mentiras",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La P300 es un potencial evocado que detecta si algo es conocido o nuevo, incluso cuando el sujeto no es consciente de haberlo vivido",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Doxxing del speaker (referencia del título)": {
+      "canonical_name": "Doxxing del speaker (referencia del título)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "personal_anecdote",
+          "quote_evidence": "La memoria NO EXISTE. (Y me doxean!!)",
           "review_priority_hint": "low"
         }
       ],

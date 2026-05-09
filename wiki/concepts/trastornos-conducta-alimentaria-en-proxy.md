@@ -148,7 +148,9 @@ La distorsión de autoimagen propia de anorexia y bulimia se inscribe en el ego 
 
 
 
+
 - **Psicología 101: Ego, autoestima y TCAs** — chunks: [10:54](https://youtu.be/Sl4coB8bBs4?t=654) · [26:29](https://youtu.be/Sl4coB8bBs4?t=1589) · [31:02](https://youtu.be/Sl4coB8bBs4?t=1862) · [37:36](https://youtu.be/Sl4coB8bBs4?t=2256) · [40:07](https://youtu.be/Sl4coB8bBs4?t=2407) · [42:08](https://youtu.be/Sl4coB8bBs4?t=2528) · [45:40](https://youtu.be/Sl4coB8bBs4?t=2740) · [1:10:05](https://youtu.be/Sl4coB8bBs4?t=4205) · [1:16:08](https://youtu.be/Sl4coB8bBs4?t=4568)
 - **Twitchversario de Proxy** — chunks: [1:57:58](https://youtu.be/UBwUUOKf5UU?t=7078)
 - **Análisis arquetípico Inside Out** — chunks: [33:18](https://youtu.be/V-ixEcJuLzw?t=1998)
+- **Las piezas que faltan** — chunks: [9:55](https://youtu.be/DAW1HiYxnVk?t=595)
 

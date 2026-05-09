@@ -341,6 +341,72 @@
       }
     },
     {
+      "canonical_guess": "diosa-blanca",
+      "from_video": "C5q89bw1G9E",
+      "entity": {
+        "surface_form": "Diosa blanca",
+        "canonical_guess": "diosa-blanca",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "primary",
+        "minutes_estimate": 25,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La diosa blanca no es un prototipo de mujer ideal ni consorte ideal, sino un arquetipo sin forma que reúne todas las virtudes luminosas de lo femenino"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Las tres grandes virtudes de la diosa blanca son gracia, belleza y esperanza"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Cada virtud corresponde a una forma de lo femenino: la virgen (gracia), la consorte/ninfa (belleza) y la madre (esperanza)"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Vídeo monográfico explícito (título: 'La luna, La Virgen y la Diosa Blanca', 77 min). El canal articula la diosa blanca como arquetipo sin forma con estructura interna tripartita (gracia-belleza-esperanza ↔ virgen-consorte-madre), y la usa como armazón vertebral para conectar el mito lunar con la respuesta católica de la Virgen María. Es marco operativo del directo, no mera mención. Cumple §2.1 monográfico (≥10 min sostenidos en el marco) + framing-mark (definición declarativa con estructura interna) + connectivity emergente (organiza en este vídeo mito-lunar, virgen-maria, tipologia-femenina-arquetipica). Vacío editorial: el corpus tiene mito-lunar y tipologia-femenina-arquetipica pero el arquetipo trascendental que ambas instancian no tiene página. Promoción habilita resolver wikilinks rotos previsibles desde mito-lunar y tipologia-femenina-arquetipica.",
+        "quote_evidence": "La diosa blanca no es un prototipo de mujer ideal ni consorte ideal, sino un arquetipo sin forma que reúne todas las virtudes luminosas de lo femenino"
+      }
+    },
+    {
+      "canonical_guess": "virgen-maria",
+      "from_video": "C5q89bw1G9E",
+      "entity": {
+        "surface_form": "Virgen María",
+        "canonical_guess": "virgen-maria",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "primary",
+        "minutes_estimate": 24,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Católicos y ortodoxos son los únicos cristianos que creen que el arquetipo de la diosa blanca tiene cabida en el cristianismo a través de la Virgen María"
+          },
+          {
+            "mark_type": "structural_distinction",
+            "quote_evidence": "los católicos consideran que la diosa blanca no es una diosa sino una mujer real con la gracia intacta"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La Virgen representa la gracia, Magdalena la belleza (la consorte pecadora redimida), y María de Cleofas la esperanza (la multimadre)"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Tratamiento monográfico sostenido (~24 min) de María como respuesta católica específica al arquetipo diosa blanca. Estructura interna articulada: distinción 'mujer real con gracia intacta vs diosa', tres Marías al pie de la cruz como triple diosa luminosa (Virgen=gracia / Magdalena=belleza-redimida / Cleofas=esperanza-multimadre), Asunción como cumplimiento del ciclo, dogma de corredención en discusión, necesidad teológica del nacimiento de mujer real ('si hubiera nacido de otro modo habría sido un golem o una trampa'). Cumple §2.1 monográfico + framing-mark + assumed-prior. La página es nudo necesario del grafo: mito-lunar lo necesita para articular su instanciación católica, diosa-blanca lo necesita como caso instanciado, viaje-heroe lo enlaza vía héroe-mártir-Cristo. Sin página propia el material quedaría fragmentado entre tres pages.",
+        "quote_evidence": "Católicos y ortodoxos son los únicos cristianos que creen que el arquetipo de la diosa blanca tiene cabida en el cristianismo a través de la Virgen María"
+      }
+    },
+    {
       "canonical_guess": "vinculo",
       "from_video": "DTP3syEtxP4",
       "entity": {
@@ -750,6 +816,51 @@
         "decision": "promote_new",
         "decision_reason": "Libro en proceso de escritura del canal Proxy, mencionado como obra propia con estructura editorial concreta: 6 mitos primarios canónicos (solar, lunar, polar, mago, apocalipsis, génesis), esquema cosmológico tripartito (uránico/ctónico/telúrico), portada con el mago del tarot y la lemniscata, casi todos los capítulos escritos. Es artefacto editorial primario del canal — no obra analizada sino obra autoría — que múltiples páginas existentes deberían poder wikilinkar como locus textual de las tesis del canal. Promover como entity_work stub con read_in_session: false (no se lee en directo, solo se describe). Caso especial: el libro funciona como meta-índice del corpus arquetípico-cognitivo del canal.",
         "quote_evidence": "Los mitos propios primarios son: solar, lunar, polar, mago, apocalipsis y génesis,"
+      }
+    },
+    {
+      "canonical_guess": "teoria-de-la-memoria-en-proxy",
+      "from_video": "xdT-SCW89cw",
+      "entity": {
+        "surface_form": "teoría de la memoria en Proxy (memoria como fenómeno noético de repetición de submatrices)",
+        "canonical_guess": "teoria-de-la-memoria-en-proxy",
+        "page_type": "synthesis",
+        "domain_primary_guess": "interdisciplinary.cognitive_science",
+        "depth_in_video": "primary",
+        "minutes_estimate": 132,
+        "framing_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "El stream se dedicará a hablar de la memoria como constructo desde la perspectiva del realismo cognitivo"
+          },
+          {
+            "mark_type": "corrective_thesis",
+            "quote_evidence": "Definir la memoria como \"lugar de almacenamiento\" es una metáfora imaginaria; no hay lugar ni almacenamiento real"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Hay cuatro o cinco tipos de memoria según qué se repite: procedimental, episódica, semántica, y sus variantes implícitas/explícitas"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La mente es un gigantesco grafo representable como una matriz con submatrices (imaginario, formal, afectivo)"
+          },
+          {
+            "mark_type": "genealogical_self_reference",
+            "quote_evidence": "El realismo cognitivo es una teoría de la mente que se construye en contraposición al psicoanálisis y al conductismo"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "La filosofía deshace ideas mitológicas para sustituirlas por otras más ajustadas a la realidad"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Vídeo monográfico de 132 min dedicado íntegramente a articular una teoría propia de la memoria del canal, con estructura pedagógica explícita ('La filosofía deshace ideas mitológicas') y posicionamiento genealógico explícito (continuación del realismo cognitivo y del marco matricial de teoria-del-simbolo-en-proxy, oposición a psicoanálisis y conductismo). CUMPLE el gate de auto-promoción §2.4.1: (a) minutes_sustained=132 ≥ 30; (b) signal_marks_detected=6 ≥ 3 (thesis_marker, corrective_thesis, internal_structure, applied_framework, genealogical_self_reference, pedagogic_register); (c) framework_internal_structure ≥ 4 piezas explícitas: definición negativa (memoria NO es almacén), definición positiva (fenómenos noéticos de repetición de submatrices similares), tipología (procedimental/episódica/semántica/sensorial-corto-largo), localización neuroanatómica (corteza retrosplenial / orbitofrontal / hipocampo), mente como matriz con submatrices imaginario-formal-afectivo, persistencia en la repetición como criterio de demarcación, refutación de recuerdos reprimidos. Marcar auto_promoted_synthesis=true en frontmatter. Página resuelve laguna estructural del wiki: no hay locus enciclopédico de la teoría memorial del canal a pesar de ser pieza recurrente en yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy y golem-de-cobre. Sub-agente debe construir cuerpo con secciones por tipo de memoria, secciones por mecanismo (matriz, persistencia, P300, CAD), wikilinks a realismo-cognitivo, teoria-del-simbolo-en-proxy, golem-de-cobre, yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy.",
+        "quote_evidence": "La memoria son fenómenos internos de repetición: una parte del cerebro se activa de forma similar a como se activó originalmente"
       }
     }
   ]

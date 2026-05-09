@@ -917,6 +917,101 @@ La diferencia entre cerebro humano y máquina actual no es categorial en lo dete
 La pieza completa el aparato anti-computacional del marco: la barrera no es solo de afectos (frontera ontológica), no es solo de embodiment (frontera somática), no es solo de geometría representacional (convergencia parcial vía embeddings universales documentada en [[galatea-modelo-protomente]]). Es además barrera modal de complejidad — la cognición humana puede ser determinista bajo leyes físicas y simultáneamente no computable, igual que ciertos números reales son determinados pero no computables.
 
 
+## Los cuatro paradigmas de computabilidad del pensamiento
+
+En el directo *Las piezas que faltan* (16 sept 2024) el canal articula explícitamente el espectro completo de posiciones filosóficas sobre la computabilidad del pensamiento, fijando los cuatro paradigmas operativos como **espectro** y no como dicotomía Turing/Penrose.
+
+> "Paradigma A: todo pensamiento es computación, no hay diferencia cualitativa entre pensar y computar"
+→ [Las piezas que faltan (1:40:31)](https://youtu.be/DAW1HiYxnVk?t=6031)
+
+> "Paradigma B: el conocimiento es computable y simulable, pero la conciencia no puede ser emulada por una máquina"
+→ [Las piezas que faltan (1:40:31)](https://youtu.be/DAW1HiYxnVk?t=6031)
+
+> "Paradigma C: la conciencia es física pero irreproducible; paradigma D: la conciencia es cualitativamente diferente a cualquier máquina"
+→ [Las piezas que faltan (1:40:31)](https://youtu.be/DAW1HiYxnVk?t=6031)
+
+La taxonomía completa el aparato categorial que la página articulaba como dicotomía Turing / Penrose:
+
+- **Paradigma A (Turing fuerte / computacionalismo)**: identidad ontológica entre pensar y computar — el pensamiento es un caso particular del cómputo. Es la posición que la página critica acumulativamente bajo el nombre 'paradigma Turing'.
+- **Paradigma B (computacionalismo parcial)**: el conocimiento — representaciones explícitas, inferencia formal, cálculo — sí es computable y simulable; la conciencia es la frontera no traspasable. La máquina puede saber sin sentir. Es la posición que admite LLMs operando con eficacia genuina sobre representaciones explícitas mientras niega que tengan vida interior.
+- **Paradigma C (fisicalismo no reproducible)**: la conciencia es fenómeno físico — no apela a sustrato no material — pero es irreproducible artificialmente por su específica composición material-orgánica. La barrera es de implementación, no de naturaleza.
+- **Paradigma D (Penrose / diferencia cualitativa)**: la conciencia es cualitativamente diferente de cualquier máquina — no solo no-reproducible sino de otra clase ontológica. Es la posición que la página articula bajo el nombre 'paradigma de Penrose'.
+
+La pieza importa porque sitúa al canal en un espectro y no en una negación binaria. La posición acumulativa del corpus combina elementos de B (parte del conocimiento sí es simulable, los LLMs operan formalmente con eficacia genuina sobre representaciones explícitas), C (la barrera afectiva-orgánica documentada en esta página) y D (la barrera de complejidad modal articulada en la sección 'Determinismo no implica computabilidad'). No es Penrose puro; es una combinación específica que admite computabilidad parcial sin caer en computacionalismo fuerte.
+
+### La definición canónica de computación
+
+> "Una máquina de Turing es un lector-escritor que se desplaza por una cinta con celdillas siguiendo un algoritmo de instrucciones"
+→ [Las piezas que faltan (1:50:21)](https://youtu.be/DAW1HiYxnVk?t=6621)
+
+> "Todo proceso físico-químico que permita simular una máquina de Turing es una computación"
+→ [Las piezas que faltan (1:50:21)](https://youtu.be/DAW1HiYxnVk?t=6621)
+
+> "Ejemplos concretos: lectores de CD, memorias SSD, todos son implementaciones físicas de máquinas de Turing"
+→ [Las piezas que faltan (1:50:21)](https://youtu.be/DAW1HiYxnVk?t=6621)
+
+La precisión técnica completa el aparato categorial: la máquina de Turing no es solo modelo abstracto sino criterio operativo — todo dispositivo físico que admita reducción a la mecánica lector-escritor-cinta-algoritmo es computación, independientemente de su sustrato material (silicio, óptica, biología sintética). La pregunta filosófica relevante deja de ser si tal o cual proceso 'parece' inteligente y pasa a ser si admite reducción a máquina de Turing. Si admite reducción, está en el dominio del paradigma A; si no, opera fuera del marco computacional y la cuestión de su naturaleza queda abierta entre los paradigmas B/C/D.
+
+
+## Argumento analógico-vs-digital: por qué el cerebro no admite reducción a Turing
+
+En el directo *León XIV, y George Floyd* (13 may 2025) el canal articula la barrera técnica concreta que sitúa al cerebro fuera del paradigma A: la cognición humana opera sobre sustrato analógico, no digital — distinción ontológica más fina que la mera escala computacional.
+
+> "Un ordenador es una máquina que computa; el pensamiento no es computable sino emulable estéticamente"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+> "La máquina de Turing solo puede leer, escribir, borrar y moverse: el cerebro no funciona con celdillas de estados discretos"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+> "Las neuronas contienen información analógica incuantificable; una sola célula tiene más información de la que cabe en un ordenador"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+> "La teoría de la información establece que las redes tienen información exponencial por las composiciones entre elementos interconectados"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+La pieza opera por dos vectores combinados. (a) **Sustrato celular**: una neurona individual porta información analógica incuantificable — gradientes electroquímicos, concentraciones iónicas, geometría dendrítica, modulación neuromoduladora — que excede la capacidad de cualquier representación digital finita. La afirmación 'una sola célula tiene más información de la que cabe en un ordenador' no es hipérbole sino consecuencia de que la representación analógica continua admite resolución infinita en principio, lo que implica codificación digital infinitamente larga para preservación sin pérdida. (b) **Topología combinatoria**: la información de una red no es la suma de la información de sus nodos sino que crece exponencialmente con las composiciones entre elementos interconectados — la red cerebral con ~86.000 millones de neuronas y ~10^14 sinapsis opera en una clase de complejidad combinatoria que ninguna arquitectura finita aproxima en tiempo razonable. La consecuencia se acumula con el argumento modal previo (determinismo no implica computabilidad): no es solo que el cerebro sea formalmente irreducible a máquina de Turing, es que su sustrato físico es de otra clase computacional.
+
+### Máquinas Turing deterministas vs no deterministas: por qué la computación cuántica no rescata el computacionalismo
+
+> "'Toda computación es determinista' significa que toda máquina se reduce a operaciones predecibles por su algoritmo"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+> "La máquina de Turing no determinista es un constructo teórico donde la máquina no decide al leer un carácter sino tras acumular lecturas"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+> "La computación cuántica y los algoritmos de probabilidad se reducen igualmente a máquinas de Turing deterministas"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+> "El cerebro no es determinista formalmente porque resuelve ecuaciones químicas analógicas, cualitativamente diferentes a las operaciones digitales"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+La precisión cierra un flanco que el computacionalismo cuántico explota: la posición que sostiene que sistemas cuánticos podrían escapar al rango Turing y por tanto aproximar la cognición humana. El argumento del canal es categorial — la máquina de Turing no determinista es un constructo teórico (la decisión de transición no se toma por carácter leído sino por acumulación), pero su capacidad expresiva se reduce demostrablemente a la de la máquina de Turing determinista clásica. Lo mismo aplica a los algoritmos probabilísticos y a la computación cuántica: producen el mismo conjunto de problemas decidibles, solo con mejor complejidad temporal en algunos casos (clases BQP). La consecuencia es restrictiva: el cerebro no escapa a Turing por ser cuántico (no lo es operativamente al nivel funcional relevante), escapa por ser **analógico continuo** — ecuaciones químicas que admiten resolución continua, no discretización sin pérdida.
+
+## Enactividad: la segunda barrera ontológica entre cerebro y máquina
+
+El mismo directo añade una barrera estructural complementaria a la barrera afectiva ya documentada: la enactividad. La cognición humana no se limita a representar — produce representaciones **orientadas a contrastarse con la realidad**, mientras la máquina opera sobre representaciones cerradas sin acoplamiento al entorno.
+
+> "El cerebro es enactivo: sus representaciones mentales se generan orientadas a contrastarse con la realidad"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+> "La máquina no tiene afectos ni está diseñada para intercambiar información con el entorno"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+> "Un simulador podría ser indistinguible de un cerebro pero nunca sería un cerebro: la diferencia es cualitativa, no cuantitativa"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+La enactividad — concepto que el canal toma de la tradición Maturana-Varela ya referenciada en [[maturana-humberto]] — añade un eje estructural al inventario anti-computacional de la página: la representación cognitiva humana se construye en bucle de retroalimentación con el entorno, donde cada estado representacional se calibra contra el dato sensorial siguiente y se reorganiza si el contraste falla. La máquina opera sobre representaciones **cerradas** — el sistema computacional procesa entradas pero no genera representaciones que estén intrínsecamente orientadas a verificarse contra el mundo. La diferencia es funcional-estructural, no de escala. La fórmula que cierra el argumento — un simulador podría ser indistinguible de un cerebro pero nunca sería un cerebro — radicaliza el inventario: la indistinguibilidad funcional desde fuera no implica identidad ontológica, y la enactividad es uno de los rasgos cualitativos que sostienen la diferencia.
+
+### Galatea como teoría de la mente computable, no como mente computable
+
+> "Galatea es el proyecto de construir una teoría de la mente computable, no una mente computable"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+La precisión cierra una asimetría que la página articulaba implícitamente: el proyecto [[galatea-modelo-protomente]] no pretende producir cognición artificial sino simular computacionalmente el modelo teórico que el canal sostiene sobre la cognición. La diferencia es decisiva: una mente computable presupondría que la cognición misma es de clase Turing (paradigma A); una teoría de la mente computable es un modelo simulacional de algo que, en sí mismo, no es computable. Galatea opera por tanto en el paradigma B/C — los aspectos formales del modelo (valencias afectivas, ciclo vital, retroalimentación enactiva) admiten implementación digital, pero el referente que el modelo describe (la cognición real) opera en sustrato analógico irreducible.
+
+
+
+
 ## Lagunas
 
 - **Sustento empírico de la tríada representacional**: el speaker articula imaginaria/formal/afectiva como categorías operativas pero no detalla qué evidencia neurocientífica concreta (estudios BOLD, dobles disociaciones, imagen funcional) sustentaría la tripartición frente a alternativas.

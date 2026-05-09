@@ -1,0 +1,88 @@
+{
+  "video_id": "oh2v9o4c4cE",
+  "video_title": "Les pido perdón por este directo",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Voz mal / problemas técnicos / configuración micrófonos",
+      "reason_code": "meta_canal",
+      "reason_detail": "metadata operativa del directo: el speaker tiene la voz mal, problemas con la ganancia de micrófono. Son condiciones de producción del stream, no contenido temático",
+      "quote_evidence": "Problemas con la configuración de micrófonos y ganancia,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Disculpa por el stream / 'no hace falta que lo vea nadie'",
+      "reason_code": "meta_canal",
+      "reason_detail": "el título y la apertura del directo son auto-disculpa explícita por el formato (stream de relleno con gameplay porque el speaker tiene la voz mal). El propio canal marca este vídeo como contenido secundario no enciclopédico",
+      "quote_evidence": "Anuncia que el stream de hoy \"no hace falta que lo vea nadie\",",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Situación política española / PSOE eternos perdedores / PP pide perdón",
+      "reason_code": "partisan_commentary",
+      "reason_detail": "comentario partidista breve (~10 min) sin marco psicológico-estructural aplicado más allá del juicio retórico ('al canto de un duro de la guerra civil', 'eternos perdedores de la tiranía'). La caracterización del PSOE como 'eternos perdedores que provocan para perpetuar el ciclo' tiene una hebra estructural (mecánica del victimismo perpetuado) pero no se articula con marco propio del canal en este vídeo. No sobrevive cápsula del tiempo",
+      "quote_evidence": "El PSOE vive de ser los eternos perdedores de la tiranía y provoca para perpetuar el ciclo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Lore de Backrooms / dimensión liminal entre huecos de la realidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "exposición del lore del videojuego/creepypasta como contexto de la sesión de gameplay. Categoría 'dimensión liminal' es interesante simbólicamente pero no recibe articulación arquetípica ni se conecta con el marco propio del canal. Es exposición narrativa del juego, no análisis",
+      "quote_evidence": "Los backrooms son una dimensión liminal que existe \"entre los huecos\" de la realidad,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Estrategia del laberinto / topología uno / regla de la mano derecha",
+      "reason_code": "passing_mention",
+      "reason_detail": "observación técnica sobre algoritmos de resolución de laberintos: la heurística clásica de pegarse a una pared funciona en laberintos de topología 1 (simplemente conexos, sin regiones aisladas) y falla en topologías superiores. La pieza es un comentario matemático-cognitivo aplicado al gameplay, no articulación filosófica-psicológica del laberinto como categoría arquetípica. No conecta con la lectura del laberinto en los-dos-reyes-y-los-dos-laberintos-borges ni con bloodborne-game",
+      "quote_evidence": "La técnica clásica de pegarse a una pared funciona para laberintos de topología uno,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Diseño del juego como dilema velocidad/orientación",
+      "reason_code": "passing_mention",
+      "reason_detail": "análisis de game design: trade-off entre correr (más tiempo de pensamiento, más riesgo) y caminar (más confusión visual por repetición). Comentario operativo sobre la mecánica del juego, no articulación de marco cognitivo-perceptivo del canal",
+      "quote_evidence": "El juego fuerza a elegir entre velocidad con riesgo y lentitud con desorientación,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Aclaración: el canal no es de juegos sino de psicología cognitiva",
+      "reason_code": "meta_canal",
+      "reason_detail": "auto-aclaración explícita a nuevos espectadores sobre la naturaleza del canal. Es metadata sobre la identidad editorial del proyecto, no contenido sustantivo",
+      "quote_evidence": "Proxy aclara a los nuevos espectadores que el canal no es de juegos sino de psicología cognitiva,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "🇪🇸 Breve comentario sobre la situación política española",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason": "matched 'PSOE' y 'PP'; comentario partidista coyuntural sin marco teórico aplicado"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 7,
+    "blocks_filtered_count": 1
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

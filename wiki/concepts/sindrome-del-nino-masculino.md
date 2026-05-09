@@ -206,6 +206,7 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 
 
 
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 - **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
@@ -215,3 +216,5 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 
 
 - **El síndrome de Wendy** — chunks: [1:00:36](https://youtu.be/L7oSZTTK8Gg?t=3636) · [1:15:22](https://youtu.be/L7oSZTTK8Gg?t=4522) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)
+- **León XIV, y George Floyd.** — chunks: [1:02:08](https://youtu.be/oDpJ_EJDDfw?t=3728)
+

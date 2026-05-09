@@ -1,0 +1,266 @@
+{
+  "video_id": "oDpJ_EJDDfw",
+  "video_title": "León XIV, y George Floyd.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "cerebro como sistema analógico no-Turing / enactividad / Galatea como teoría computable",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "monographic",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El cerebro es enactivo: sus representaciones mentales se generan orientadas a contrastarse con la realidad"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La computación cuántica y los algoritmos de probabilidad se reducen igualmente a máquinas de Turing deterministas"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Galatea es el proyecto de construir una teoría de la mente computable, no una mente computable"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "extiende golem-de-cobre con tres piezas técnicas genuinamente nuevas: (1) argumento analógico-vs-digital — neuronas portan información analógica incuantificable, el cerebro resuelve ecuaciones químicas analógicas, no opera con celdillas de estados discretos; (2) reducción de la computación cuántica y algoritmos probabilísticos a máquinas de Turing deterministas — refutación específica del 'rescate cuántico' del computacionalismo; (3) enactividad como segunda barrera estructural (además de la afectiva ya documentada) — el cerebro genera representaciones orientadas a contrastarse con la realidad, mientras la máquina no intercambia información con el entorno; y (4) precisión sobre el proyecto Galatea — es teoría de la mente computable, NO mente computable, distinción que la página articulaba implícitamente sin formularla literalmente",
+      "quote_evidence": "Un ordenador es una máquina que computa; el pensamiento no es computable sino emulable estéticamente"
+    },
+    {
+      "surface_form": "distocia del yo / esquizoipia / feedback de refuerzo en formación de identidad",
+      "canonical_guess": "yo-ego-autoestima-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Cuando la personalidad primaria y el ideal del yo están desalineados se produce distocia del yo"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Sin feedback de refuerzo sobre quién es el niño, este no descubre su identidad por sí mismo: el mundo nos envía mensajes sobre lo que somos"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Si la separación entre yo y super-yo es total, ya no es distocia sino esquizoipia"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "yo-ego-autoestima-en-proxy articula 'ego distócico' como uno de tres modos de neurosis del ego, pero presenta la categoría de manera puntual y sin profundizar etiología ni gradiente clínico. El directo añade tres piezas que la página no contiene: (1) distocia → esquizoipia como gradiente de severidad — separación parcial vs total entre personalidad primaria e ideal del yo, donde la separación total cruza al espectro esquizo; (2) etiología por feedback fallido — la identidad se descubre por contraste con mensajes externos sobre 'quién soy', y la ausencia de feedback es más esquizogénica que el feedback erróneo; (3) consecuencia social — tribus sin roles parentales definidos producen sociedades disociales con comportamientos erráticos y alucinatorios. La pieza también articula el motor biológico ('quiero ser algo para los demás') como sustrato de la formación identitaria, anclando la taxonomía existente en mecánica desarrollista",
+      "quote_evidence": "La crianza sin referencias es esquizogénica: produce trastornos del espectro esquizo donde el yo carece de autoimagen"
+    },
+    {
+      "surface_form": "ornamentación institucional como anti-consumo / sacralización vs consumo",
+      "canonical_guess": "consumismo-critica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 11,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La ornamentación institucional es sacralización de bienes que se conservan en lugar de consumirse"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El gesto más potente de trascendencia humana es renunciar a algo materialmente valioso para afirmar que el símbolo importa más que la materia"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "consumismo-critica articula el consumismo como anestesia del vacío existencial y el marketing implícito como dispositivo, pero no articula el polo opuesto del consumo — la sacralización que conserva en lugar de consumir, la ornamentación institucional que afirma trascendencia simbólica sobre materia. El directo añade esa pieza estructural definiendo el consumismo por contraste con su opuesto operativo: lo que no se toca, lo que se preserva, lo que se renuncia para afirmar el símbolo. El caso paradigmático (Papa Francisco despojándose de vestiduras papales como 'complejo de privilegiado idéntico al progresismo') ilustra cómo el dispositivo consumista penetra incluso instituciones formalmente anti-consumistas",
+      "quote_evidence": "La ornamentación institucional es sacralización de bienes que se conservan en lugar de consumirse"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Si admite reducción, está en el dominio del paradigma A; si no, opera fuera del marco computacional y la cuestión de su naturaleza queda abierta entre los paradigmas B/C/D.",
+      "content_proposed": "\n## Argumento analógico-vs-digital: por qué el cerebro no admite reducción a Turing\n\nEn el directo *León XIV, y George Floyd* (13 may 2025) el canal articula la barrera técnica concreta que sitúa al cerebro fuera del paradigma A: la cognición humana opera sobre sustrato analógico, no digital — distinción ontológica más fina que la mera escala computacional.\n\n> \"Un ordenador es una máquina que computa; el pensamiento no es computable sino emulable estéticamente\"\n→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)\n\n> \"La máquina de Turing solo puede leer, escribir, borrar y moverse: el cerebro no funciona con celdillas de estados discretos\"\n→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)\n\n> \"Las neuronas contienen información analógica incuantificable; una sola célula tiene más información de la que cabe en un ordenador\"\n→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)\n\n> \"La teoría de la información establece que las redes tienen información exponencial por las composiciones entre elementos interconectados\"\n→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)\n\nLa pieza opera por dos vectores combinados. (a) **Sustrato celular**: una neurona individual porta información analógica incuantificable — gradientes electroquímicos, concentraciones iónicas, geometría dendrítica, modulación neuromoduladora — que excede la capacidad de cualquier representación digital finita. La afirmación 'una sola célula tiene más información de la que cabe en un ordenador' no es hipérbole sino consecuencia de que la representación analógica continua admite resolución infinita en principio, lo que implica codificación digital infinitamente larga para preservación sin pérdida. (b) **Topología combinatoria**: la información de una red no es la suma de la información de sus nodos sino que crece exponencialmente con las composiciones entre elementos interconectados — la red cerebral con ~86.000 millones de neuronas y ~10^14 sinapsis opera en una clase de complejidad combinatoria que ninguna arquitectura finita aproxima en tiempo razonable. La consecuencia se acumula con el argumento modal previo (determinismo no implica computabilidad): no es solo que el cerebro sea formalmente irreducible a máquina de Turing, es que su sustrato físico es de otra clase computacional.\n\n### Máquinas Turing deterministas vs no deterministas: por qué la computación cuántica no rescata el computacionalismo\n\n> \"'Toda computación es determinista' significa que toda máquina se reduce a operaciones predecibles por su algoritmo\"\n→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)\n\n> \"La máquina de Turing no determinista es un constructo teórico donde la máquina no decide al leer un carácter sino tras acumular lecturas\"\n→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)\n\n> \"La computación cuántica y los algoritmos de probabilidad se reducen igualmente a máquinas de Turing deterministas\"\n→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)\n\n> \"El cerebro no es determinista formalmente porque resuelve ecuaciones químicas analógicas, cualitativamente diferentes a las operaciones digitales\"\n→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)\n\nLa precisión cierra un flanco que el computacionalismo cuántico explota: la posición que sostiene que sistemas cuánticos podrían escapar al rango Turing y por tanto aproximar la cognición humana. El argumento del canal es categorial — la máquina de Turing no determinista es un constructo teórico (la decisión de transición no se toma por carácter leído sino por acumulación), pero su capacidad expresiva se reduce demostrablemente a la de la máquina de Turing determinista clásica. Lo mismo aplica a los algoritmos probabilísticos y a la computación cuántica: producen el mismo conjunto de problemas decidibles, solo con mejor complejidad temporal en algunos casos (clases BQP). La consecuencia es restrictiva: el cerebro no escapa a Turing por ser cuántico (no lo es operativamente al nivel funcional relevante), escapa por ser **analógico continuo** — ecuaciones químicas que admiten resolución continua, no discretización sin pérdida.\n\n## Enactividad: la segunda barrera ontológica entre cerebro y máquina\n\nEl mismo directo añade una barrera estructural complementaria a la barrera afectiva ya documentada: la enactividad. La cognición humana no se limita a representar — produce representaciones **orientadas a contrastarse con la realidad**, mientras la máquina opera sobre representaciones cerradas sin acoplamiento al entorno.\n\n> \"El cerebro es enactivo: sus representaciones mentales se generan orientadas a contrastarse con la realidad\"\n→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)\n\n> \"La máquina no tiene afectos ni está diseñada para intercambiar información con el entorno\"\n→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)\n\n> \"Un simulador podría ser indistinguible de un cerebro pero nunca sería un cerebro: la diferencia es cualitativa, no cuantitativa\"\n→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)\n\nLa enactividad — concepto que el canal toma de la tradición Maturana-Varela ya referenciada en [[maturana-humberto]] — añade un eje estructural al inventario anti-computacional de la página: la representación cognitiva humana se construye en bucle de retroalimentación con el entorno, donde cada estado representacional se calibra contra el dato sensorial siguiente y se reorganiza si el contraste falla. La máquina opera sobre representaciones **cerradas** — el sistema computacional procesa entradas pero no genera representaciones que estén intrínsecamente orientadas a verificarse contra el mundo. La diferencia es funcional-estructural, no de escala. La fórmula que cierra el argumento — un simulador podría ser indistinguible de un cerebro pero nunca sería un cerebro — radicaliza el inventario: la indistinguibilidad funcional desde fuera no implica identidad ontológica, y la enactividad es uno de los rasgos cualitativos que sostienen la diferencia.\n\n### Galatea como teoría de la mente computable, no como mente computable\n\n> \"Galatea es el proyecto de construir una teoría de la mente computable, no una mente computable\"\n→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)\n\nLa precisión cierra una asimetría que la página articulaba implícitamente: el proyecto [[galatea-modelo-protomente]] no pretende producir cognición artificial sino simular computacionalmente el modelo teórico que el canal sostiene sobre la cognición. La diferencia es decisiva: una mente computable presupondría que la cognición misma es de clase Turing (paradigma A); una teoría de la mente computable es un modelo simulacional de algo que, en sí mismo, no es computable. Galatea opera por tanto en el paradigma B/C — los aspectos formales del modelo (valencias afectivas, ciclo vital, retroalimentación enactiva) admiten implementación digital, pero el referente que el modelo describe (la cognición real) opera en sustrato analógico irreducible.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "timestamp_seconds": 4912,
+          "cite_markdown": "[León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)"
+        },
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "timestamp_seconds": 5340,
+          "cite_markdown": "[León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)"
+        },
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "timestamp_seconds": 5884,
+          "cite_markdown": "[León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)"
+        }
+      ],
+      "rationale": "La página articula la dicotomía Turing/Penrose, los cuatro paradigmas de computabilidad (añadidos en sesión previa) y la barrera afectiva como diferencia ontológica entre cerebro y máquina. El directo añade tres piezas técnicas que el aparato anterior dejaba implícitas o ausentes: (1) el argumento analógico-vs-digital concreto — neuronas portan información analógica incuantificable, redes con información exponencial por composición, ecuaciones químicas analógicas que no admiten discretización sin pérdida; (2) la reducción de la computación cuántica a máquinas de Turing deterministas como contrapunto al rescate cuántico del computacionalismo; (3) la enactividad como segunda barrera ontológica complementaria a la afectiva — representaciones orientadas a contrastarse con la realidad vs representaciones cerradas. Adicionalmente fija la naturaleza precisa del proyecto Galatea (teoría de la mente computable, NO mente computable) que la página referenciaba sin formular. Insert_after_passage al cierre de la sección 'cuatro paradigmas' es el lugar natural — la nueva sección extiende el inventario técnico de la posición B/C/D del canal sin tocar las articulaciones previas.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "yo-ego-autoestima-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Ver [[trastornos-conducta-alimentaria-en-proxy]] para el ciclo completo.",
+      "content_proposed": "\n## Distocia → esquizoipia: gradiente de severidad y etiología por feedback\n\nEn el directo *León XIV, y George Floyd* (13 may 2025) el canal precisa la categoría 'ego distócico' que esta página articula como uno de los tres modos de neurosis del ego, añadiendo gradiente de severidad y mecanismo etiológico-desarrollista que la formulación inicial dejaba implícitos.\n\n### El motor biológico de la formación identitaria\n\n> \"Existe un mecanismo biológico que dice 'quiero ser algo para los demás' y eso forma parte de la personalidad profunda\"\n→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)\n\nLa pieza ancla la taxonomía yo/ego/self/autoimagen en sustrato motivacional biológico: la identidad no es construcción puramente reflexiva sino que está propulsada por una pulsión filogenética hacia el reconocimiento por otros. 'Quiero ser algo para los demás' opera como vector estructural de la personalidad profunda — no como deseo episódico ni como afecto secundario. La consecuencia operativa es que el yo no se constituye sin el otro como espejo: la integración del yo descrita en el aparato exige feedback externo que confirme o desmienta el ideal del yo emergente.\n\n### Gradiente: distocia → esquizoipia\n\n> \"Cuando la personalidad primaria y el ideal del yo están desalineados se produce distocia del yo\"\n→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)\n\n> \"Si la separación entre yo y super-yo es total, ya no es distocia sino esquizoipia\"\n→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)\n\nLa precisión añade resolución clínica al cuadro 'ego distócico' que la página alojaba como una de las tres neurosis. La distocia es **desalineación parcial** entre personalidad primaria (lo que el sujeto efectivamente es) e ideal del yo (lo que aspira a ser); cuando la desalineación se vuelve **separación total** el cuadro cruza al espectro esquizo y se nombra esquizoipia. El gradiente importa metodológicamente: la categoría 'ego distócico' no agrupa cuadros homogéneos sino un espectro cuyo extremo severo deja de ser neurosis del ego y entra en organización psicótica. La continuidad fenomenológica entre los dos polos del espectro explica por qué cuadros disociativos pueden evolucionar (en cualquier dirección) durante la vida del sujeto sin transición discreta entre categorías.\n\n### Etiología por feedback de refuerzo\n\nLa pieza más operativa que el directo añade es la etiología desarrollista del cuadro: la identidad no se descubre por introspección autónoma sino por contraste con feedback externo durante la formación, y la calidad del feedback determina si el yo se integra coherentemente.\n\n> \"Sin feedback de refuerzo sobre quién es el niño, este no descubre su identidad por sí mismo: el mundo nos envía mensajes sobre lo que somos\"\n→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)\n\n> \"Incluso equivocarse en el feedback es mejor que no dar ninguno, porque el error permite descubrir la verdad por contraste\"\n→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)\n\n> \"La crianza sin referencias es esquizogénica: produce trastornos del espectro esquizo donde el yo carece de autoimagen\"\n→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)\n\nLa lógica es contraintuitiva pero estructural: el feedback **erróneo** ('eres tímido' cuando no lo eres) es operativamente **mejor** que la ausencia de feedback, porque el sujeto puede descubrir su verdad por contraste con el error explícito. La ausencia total de feedback deja al sujeto sin sistema referencial contra el cual calibrar su autoimagen — la identidad no se forma porque la operación misma de constituirla requiere un eje de comparación externo. La consecuencia clínica es la esquizogénesis: la crianza sin referencias produce sujetos cuyo yo carece de autoimagen estable, condición etiológica de los trastornos del espectro esquizo. Es la versión desarrollista del gradiente distocia → esquizoipia articulado arriba: la separación total entre personalidad primaria e ideal del yo (que define esquizoipia) es la consecuencia esperable de la ausencia sistemática de feedback durante la formación.\n\n### Consecuencia social: tribus sin roles parentales\n\n> \"Tribus sin roles parentales definidos producen sociedades disociales donde nadie importa verdaderamente a nadie, con comportamientos erráticos y alucinatorios\"\n→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)\n\nLa pieza extiende el mecanismo etiológico al plano social: si la formación del yo individual requiere feedback parental con roles definidos, una sociedad que disuelve esos roles a escala colectiva fabrica el cuadro a escala poblacional. La consecuencia no es que cada sujeto desarrolle psicosis clínica, sino que la coordinación social misma se vuelve disocial — vínculos débiles donde nadie importa verdaderamente a nadie, comportamientos erráticos y alucinatorios como respuesta colectiva normalizada al déficit estructural de feedback. La pieza enlaza con [[psicologia-del-activista-en-proxy]] (perfil disocial como manifestación política) y con [[fenomenologia-trans-en-proxy]] (la negación del feedback de género como caso particular del mecanismo: si los roles parentales se disuelven y además se elimina el feedback sobre el sexo del niño, la condición esquizogénica se compone).\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "timestamp_seconds": 3728,
+          "cite_markdown": "[León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)"
+        },
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "timestamp_seconds": 4062,
+          "cite_markdown": "[León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)"
+        }
+      ],
+      "rationale": "La página alojaba 'ego distócico' como uno de tres modos de neurosis del ego, articulado puntualmente sin etiología desarrollista ni gradiente de severidad. El directo añade cuatro piezas que la página no contenía: (1) el motor biológico 'quiero ser algo para los demás' como vector estructural de la personalidad profunda — la identidad propulsada por pulsión filogenética hacia el reconocimiento; (2) el gradiente clínico distocia → esquizoipia — desalineación parcial vs separación total entre personalidad primaria e ideal del yo, donde el extremo severo cruza al espectro esquizo; (3) la etiología por feedback de refuerzo — la identidad no se autoconstruye por introspección sino por contraste con mensajes externos, y la ausencia de feedback es estructuralmente más esquizogénica que el feedback erróneo; (4) la consecuencia social — tribus sin roles parentales definidos producen sociedades disociales con comportamientos erráticos y alucinatorios. Insert_after_passage al cierre de 'Conexión con el ciclo TCA' añade el desarrollo etiológico-clínico complementario sin tocar la taxonomía base.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "- Manifestación cinematográfica canónica: [[fight-club-1999-film]]",
+      "content_proposed": "\n## Ornamentación institucional como anti-consumo: el polo opuesto del dispositivo consumista\n\nEn el directo *León XIV, y George Floyd* (13 may 2025) el canal articula el polo estructural opuesto al consumismo, definiendo este último por contraste con su negación operativa: la **sacralización**, mecanismo cultural por el cual ciertos bienes se conservan en lugar de consumirse y la ornamentación institucional opera como afirmación de que el símbolo importa más que la materia.\n\n> \"Las vestiduras no pertenecen a la persona física sino a la persona eclesiástica: quitárselas es desnudar a la institución\"\n→ [León XIV, y George Floyd (23:09)](https://youtu.be/oDpJ_EJDDfw?t=1389)\n\n> \"La ornamentación institucional es sacralización de bienes que se conservan en lugar de consumirse\"\n→ [León XIV, y George Floyd (23:09)](https://youtu.be/oDpJ_EJDDfw?t=1389)\n\n> \"El gesto más potente de trascendencia humana es renunciar a algo materialmente valioso para afirmar que el símbolo importa más que la materia\"\n→ [León XIV, y George Floyd (23:09)](https://youtu.be/oDpJ_EJDDfw?t=1389)\n\nLa pieza añade el flanco estructural complementario que la página dejaba implícito: si el consumismo es anestesia del vacío existencial mediante consumo dopaminérgico de productos sustitutivos, la **sacralización** es el mecanismo cultural inverso que estabiliza el vínculo del sujeto con lo simbólico mediante conservación material. Tres movimientos articulan el polo:\n\n- **Persona física vs persona institucional**: las vestiduras papales no pertenecen al hombre Bergoglio sino al pontífice como cargo eclesiástico. La distinción es categorial, no estética. Despojarse de ellas no humaniza al cargo — desnuda a la institución que el cargo encarna, transfiriendo el símbolo institucional al registro del individuo privado.\n- **Conservación vs consumo**: la ornamentación institucional opera como sacralización porque sustrae bienes del circuito de consumo. Los objetos sagrados (ornamentos litúrgicos, vasos sagrados, vestiduras) se conservan, transmiten, restauran — nunca se consumen ni se reemplazan por gusto. Esta sustracción del circuito consumista es ella misma el mecanismo de sacralización: lo que no se gasta se vuelve símbolo.\n- **Renuncia material como trascendencia**: el gesto inverso al consumo no es la austeridad ascética genérica sino la **renuncia a algo materialmente valioso** — el sujeto que conservaba acceso a un bien preciado lo entrega o se priva de él para afirmar que el símbolo importa más que la materia. La trascendencia humana en su forma más potente es esa renuncia específica, no la abstención general.\n\n### Caso paradigmático: el despojamiento papal como complejo de privilegiado\n\n> \"Francisco se despojó de las vestiduras papales por un complejo de privilegiado idéntico al progresismo\"\n→ [León XIV, y George Floyd (23:09)](https://youtu.be/oDpJ_EJDDfw?t=1389)\n\nLa lectura del canal subvierte la interpretación convencional del gesto franciscano: lo que se presenta como humildad pastoral opera estructuralmente como **invasión del consumismo en el polo opuesto** — el sujeto que ocupa la institución sacralizada se siente personalmente privilegiado por su acceso a los símbolos institucionales y los descarta para mitigar esa culpa privada, sin advertir que el descarte traslada el daño desde el individuo (que se siente menos privilegiado) a la institución (que pierde su mecanismo sacralizante). El paralelo con el progresismo cierra la lectura: el complejo de privilegiado opera con la misma lógica en ambos casos — el individuo desplaza al sujeto colectivo (clase, institución, cuerpo simbólico) para resolver su malestar privado, sin advertir que la operación deshace precisamente lo que daba sentido a su posición. La sacralización institucional NO es el contrario del consumismo en sentido moral, es su complemento estructural — y por eso el dispositivo consumista puede penetrar incluso instituciones formalmente anti-consumistas si el ocupante del cargo trata el símbolo como propiedad personal a renunciar en lugar de como bien institucional a conservar.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "timestamp_seconds": 1389,
+          "cite_markdown": "[León XIV, y George Floyd (23:09)](https://youtu.be/oDpJ_EJDDfw?t=1389)"
+        }
+      ],
+      "rationale": "consumismo-critica articula extensivamente el consumismo como anestesia del vacío existencial, las apps de citas como mercantilización afectiva, el marketing implícito como dispositivo y la postura del canal como crítica moral-cultural no marxista. Pero la página define consumismo siempre desde dentro — qué hace, cómo opera, qué consecuencias produce — sin articular su polo estructural opuesto. El directo añade ese flanco: la sacralización como mecanismo cultural inverso que conserva bienes en lugar de consumirlos, la ornamentación institucional como afirmación simbólica anti-consumo, la renuncia a algo materialmente valioso como gesto de trascendencia que invierte la lógica consumista. El caso del despojamiento papal opera como ilustración paradigmática de cómo el dispositivo consumista penetra incluso instituciones formalmente anti-consumistas via el 'complejo de privilegiado'. Insert_after_passage al cierre de 'Conexión con la psicología arquetípica' (último bullet sobre Fight Club) añade un cierre estructural que define el consumismo por contraste con su opuesto operativo, complementando los mecanismos descritos por su negación.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Papa Francisco / buenismo moral / comunicación pastoral",
+      "reason_code": "passing_mention",
+      "reason_detail": "figura mencionada como caso ilustrativo del 'buenismo moral que confunde articular una moral correcta con ser bueno'. La crítica filosófico-pastoral es estructural pero la figura concreta no recibe tratamiento monográfico suficiente. La articulación de 'buenismo moral' como categoría sí es interesante pero solo este vídeo aporta evidencia",
+      "quote_evidence": "El Papa Francisco no era progresista sino que padecía un buenismo moral que confunde articular una moral correcta con \"ser bueno\",",
+      "review_priority": "medium",
+      "review_priority_reason": "categoría 'buenismo moral' como confusión entre moral correcta y bondad personal — concepto estructural que merecería página propia si recurrente; monitorear en otros vídeos del canal sobre moralidad/ética"
+    },
+    {
+      "surface_form": "León XIV / Rerum Novarum / doctrina social de la Iglesia",
+      "reason_code": "passing_mention",
+      "reason_detail": "el nuevo Papa (elegido may 2025) y el corpus doctrinal que invoca aparecen como referencia para articular la posición anticomunista del catolicismo. León XIV no recibe tratamiento sustantivo como autor (no se expone su pensamiento), solo como ocasión para introducir la doctrina social. Rerum Novarum como obra tampoco se expone monográficamente. Per scope §2.2 no alcanza criterios de promoción a author/work",
+      "quote_evidence": "León XIV se inspira en el Rerum Novarum y la doctrina social de la Iglesia,",
+      "review_priority": "medium",
+      "review_priority_reason": "ambos (León XIV y Rerum Novarum) son load-bearing potenciales si el canal articula sustantivamente la doctrina social en otros directos; monitorear",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Anticomunismo católico / familia política como unidad mínima de resistencia / propiedad privada",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "tesis filosófico-política articulada substantivamente (~10 min): el comunismo elimina individualidad + familia + propiedad privada como unidades de resistencia frente a la tiranía estatal; la familia como conjunto cerrado por lazos biológicos; la libertad como poder de obrar individual como condición de salvación. Articulación rica pero solo este vídeo aporta evidencia. Posible concept page 'familia política como unidad de resistencia' o 'libertad como poder' si recurrente",
+      "quote_evidence": "La familia política es un conjunto cerrado por lazos biológicos que resiste frente a otras familias y la tiranía del Estado,",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis filosófico-política propia del canal con estructura argumentativa articulada (familia como unidad mínima de resistencia + propiedad privada como condición de individualidad + libertad como poder); merece monitoreo para promoción si recurrente"
+    },
+    {
+      "surface_form": "Matrimonio igualitario como instrumento político / ritos gámicos sacralizados",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "tesis articulada (~13 min) sobre el matrimonio igualitario como dispositivo político-retórico (renombrar la institución hace 'desigualitaria' la forma clásica) sin ventaja jurídica real para los contrayentes, y sobre los ritos gámicos sacralizados como debiendo ser hombre-mujer por razones psicológicas pragmáticas. Mezcla análisis político-jurídico con análisis arquetípico-ritual. Solo este vídeo aporta evidencia",
+      "quote_evidence": "Llamarlo \"igualitario\" automáticamente convierte en \"desigualitaria\" a la institución clásica,",
+      "review_priority": "medium",
+      "review_priority_reason": "el componente arquetípico (rito gámico como sacralización del dipolo masculino-femenino) podría enriquecer amor-cortes-y-monogamia-civilizatoria o hieros-gamos si articulado en otros vídeos; el componente jurídico-político es más coyuntural",
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "Instinto de supervivencia no existe / cinco funciones biológicas / suicidio evolutivo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "el canal vuelve sobre la tesis ya articulada en alostasis-y-apagon-organico ('el cuerpo no tiende a la supervivencia'). El directo añade matiz nuevo sobre la mecánica evolutiva del suicidio ('la gente se suicida no por el sufrimiento actual sino por la certeza de que no dejará de sufrir') que enriquece la página existente",
+      "quote_evidence": "El suicidio tiene mecánica evolutiva: la gente se suicida no por el sufrimiento actual sino por la certeza de que no dejará de sufrir,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alostasis-y-apagon-organico"
+    },
+    {
+      "surface_form": "Crianza sin género / sexo polar no espectro / orientación sexual / cognición sexuada",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "el canal afirma 'las personas no tienen género sino sexo, orientación sexual y cognición sexuada; el sexo es polar, no un espectro' como pieza ya articulada extensamente en fenomenologia-trans-en-proxy. El componente novedoso (crianza sin feedback como esquizogénica) se captura como pending_update a yo-ego-autoestima-en-proxy",
+      "quote_evidence": "Las personas no tienen género sino sexo, orientación sexual y cognición sexuada; el sexo es polar, no un espectro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "Taxonomía moral de las drogas: narcóticas vs enteógenas",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "tesis articulada (~5 min): la distinción moral-fenomenológica entre drogas narcóticas (alteran juicio sin alterar percepción profunda — alcohol, opiáceos) y enteógenas (modifican la percepción de la realidad — alucinógenos, setas, marihuana). El criterio diferencial es la conexión con la realidad. Solo este vídeo aporta evidencia. Posible concept page si recurrente",
+      "quote_evidence": "La distinción moral relevante es si la droga impide la conexión con la realidad o solo distorsiona funciones de juicio,",
+      "review_priority": "medium",
+      "review_priority_reason": "taxonomía propia del canal con criterio operativo (conexión con la realidad) que distingue su lectura de la clasificación farmacológica estándar — merece monitoreo para concept page si recurrente"
+    },
+    {
+      "surface_form": "Eutaxia cultural / sacralización como solución colectiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "categoría mencionada brevemente: 'la eutaxia cultural consiste en soluciones colectivas a problemas colectivos que no necesiten cambiarse' y 'la sacralización es la primera gran solución cultural'. La sacralización se articula con más detalle en el bloque sobre ornamentación institucional (capturado en pending_update a consumismo-critica). 'Eutaxia cultural' como término técnico aparece en passing",
+      "quote_evidence": "La eutaxia cultural consiste en soluciones colectivas a problemas colectivos que no necesiten cambiarse,",
+      "review_priority": "medium",
+      "review_priority_reason": "'eutaxia' como categoría buenista (Gustavo Bueno) reapropiada por el canal — verificar genealogía y monitorear para promoción si recurrente"
+    },
+    {
+      "surface_form": "George Floyd",
+      "reason_code": "passing_mention",
+      "reason_detail": "mencionado en el título del vídeo ('León XIV, y George Floyd') pero NO aparece en el summary recibido. Probablemente cubierto en bloques no incluidos en el summary o con tratamiento mínimo. Sin material en el summary actual no hay nada que extraer",
+      "quote_evidence": "León XIV, y George Floyd.",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Comunicación pastoral / pastoral lamentable",
+      "reason_code": "passing_mention",
+      "reason_detail": "valoración del estilo comunicativo de Francisco como 'lamentable, no se entendía, no aportaba ni enseñaba'. Crítica retórica sin marco estructural aplicado más allá del juicio descriptivo",
+      "quote_evidence": "Su comunicación pastoral fue lamentable: no se entendía, no aportaba ni enseñaba,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Simpatías de Francisco con regímenes comunistas",
+      "reason_code": "political_news",
+      "reason_detail": "comentario sobre actitud política de Francisco hacia regímenes comunistas. Coyuntural y figura-específico",
+      "quote_evidence": "Simpatizó con regímenes comunistas creyendo que confrontaban el capitalismo con buena intención,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

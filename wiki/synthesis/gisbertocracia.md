@@ -68,6 +68,18 @@ Sobre esa base el canal articula un marco propio: una **estructura tripartita de
 
 - **Crítica del positivismo jurídico**: hacer material lo que tiene naturaleza formal. La democracia formal de Gisbert (principio representativo + separación de poderes) NO es un tipo de democracia sino una formalización teórica. Confundirla con un tipo de democracia — el error que comete el público que sigue a Gisbert — es positivismo jurídico: tratar una herramienta formal como si describiera una realidad material.
 
+El canal aplica el aparato a casos históricos concretos en un directo posterior, mostrando cómo la democracia formal opera como tautología desactivada por la historia: el régimen franquista se autodenominaba "democracia orgánica" y la República Popular China comparte la misma etiqueta de "democracia" con cualquier sistema parlamentario occidental. La pieza añade una formulación más afilada del positivismo jurídico aplicado a la soberanía popular: el pueblo no se gobierna efectivamente a sí mismo en ninguna formalización — instituye dispositivos que mediante la fuerza mantienen el orden, y la ficción representativa solo opera mientras esos dispositivos no se rompan.
+
+> "La democracia formal es tautológica: formalmente ya somos democracia igual que la República Popular China"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)
+
+> "El régimen franquista era una 'democracia orgánica', lo que demuestra que la forma no garantiza nada"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)
+
+> "El pueblo nunca se gobierna a sí mismo: instituye cosas para que mediante la fuerza mantengan el orden"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (1:07:17)](https://youtu.be/2CsRnGBT9gg?t=4037)
+
+
 - **Distinción idealismo / materialismo en la definición de democracia**: el problema no es formalizar — la formalización es legítima y necesaria — sino mentir sobre el cumplimiento material. El principio representativo es ficción necesaria; presentarlo como representación real del pueblo es la operación ideológica.
 
 - **Las tres únicas opciones ante el concepto de democracia**:

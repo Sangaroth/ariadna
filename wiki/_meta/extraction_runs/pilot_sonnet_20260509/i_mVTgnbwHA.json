@@ -1,0 +1,195 @@
+{
+  "video_id": "i_mVTgnbwHA",
+  "video_title": "Laboratorio de teoría de la mente en biología",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "memoria / teoría de la memoria",
+      "canonical_guess": "teoria-de-la-memoria-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "monographic",
+      "minutes_estimate": 65,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Se necesita una función propia, no una capacidad: la memoria es un fenómeno, no una habilidad opcional"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La memoria semántica es la función cognitiva que permite hacer relaciones no inferenciales entre elementos por sus características somáticas o equivalencias"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El objetivo de la sesión es comprender qué es el pensamiento semántico o la memoria semántica"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los sistemas representacionales (gramatical, calimaginario, afectivo) se cruzan con tres motores representacionales: procedimental, episódico y semántico"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "directo monográfico de 77 min en formato 'laboratorio' que extiende sustantivamente la teoría memorial articulada en teoria-de-la-memoria-en-proxy con seis piezas genuinamente nuevas: (1) distinción categorial capacidad/función propia/fenómeno; (2) PLP como sustrato necesario pero no suficiente + filtro inhibitor CA3-CA4 hipocampo / corteza perirrinal; (3) argumento de saturación funcional contra el almacén; (4) disociación frecuencia/efecto en el sesgo de negatividad — la magnitud del cambio sustituye a la valencia; (5) definición operativa de memoria semántica como composición no-inferencial por clases de equivalencia somáticas; (6) criterio metodológico de mínimo de framework para definiciones filosóficas. La página existente NO contiene PLP, ni saturación funcional, ni la disociación frecuencia/efecto, ni la definición no-inferencial de memoria semántica, ni el criterio metodológico contra coordenadas cerradas",
+      "quote_evidence": "La PLP fundamenta la memoria, pero puede haber PLP sin haber memoria: existen partes del cerebro sin relación con la memoria donde ocurre PLP"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "teoria-de-la-memoria-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta refutación se enmarca en el posicionamiento del canal frente a [[freud-sigmund]]: no hay inconsciente como contenedor ni como fuerza represora, sino como conjunto de operaciones no-conscientes que se expresan en procedimientos automáticos.",
+      "content_proposed": "## La memoria como función propia, no capacidad\n\nEn el directo *Laboratorio de teoría de la mente en biología* (22 ene 2026) el canal afina la categorización del fenómeno memorial con una distinción que la página articulaba implícitamente: memoria no es **capacidad** sino **función propia** (en sentido de Millikan).\n\n> \"El término 'capacidad' implica algo que se puede elegir hacer o no hacer\"\n→ [Laboratorio de teoría de la mente en biología (22:26)](https://youtu.be/i_mVTgnbwHA?t=1346)\n\n> \"No se puede evitar tener memoria; incluso quienes intentan evitarla no lo consiguen\"\n→ [Laboratorio de teoría de la mente en biología (22:26)](https://youtu.be/i_mVTgnbwHA?t=1346)\n\n> \"Se necesita una función propia, no una capacidad: la memoria es un fenómeno, no una habilidad opcional\"\n→ [Laboratorio de teoría de la mente en biología (22:26)](https://youtu.be/i_mVTgnbwHA?t=1346)\n\nLa precisión categorial es operativa: una **capacidad** es algo que el sujeto puede ejercer o no — implica volición y selectividad. Una **función propia** es lo que el sistema hace por ser el sistema que es — opera con o sin consentimiento del sujeto. La memoria es de la segunda clase: no se desactiva, no se elige, no se inhibe completamente. Quienes intentan no recordar (por terapia, por dolor, por ascetismo) no lo logran — solo modifican qué se re-instancia y con qué frecuencia. La pieza cierra el flanco metodológico de la página: cuando el canal habla de \"función propia\" lo hace en oposición técnica al vocabulario de \"capacidad\" que arrastra connotaciones voluntaristas incompatibles con el realismo cognitivo.\n\n## La PLP fundamenta pero no es la memoria\n\nLa página articulaba la memoria como repetición de submatrices sin desarrollar el sustrato neurofisiológico subyacente. El directo añade la pieza en su justa medida — condición necesaria pero no suficiente.\n\n> \"La PLP es la sensibilización o inhibición de grupos de conexiones neuronales que optimizan la transmisión\"\n→ [Laboratorio de teoría de la mente en biología (23:26)](https://youtu.be/i_mVTgnbwHA?t=1406)\n\n> \"La PLP fundamenta la memoria, pero puede haber PLP sin haber memoria: existen partes del cerebro sin relación con la memoria donde ocurre PLP\"\n→ [Laboratorio de teoría de la mente en biología (23:26)](https://youtu.be/i_mVTgnbwHA?t=1406)\n\n> \"El circuito sináptico se optimiza conforme se usa repetidamente: se desplazan botones sinápticos, se crean nuevos, se modifica la ramificación dendrítica\"\n→ [Laboratorio de teoría de la mente en biología (23:26)](https://youtu.be/i_mVTgnbwHA?t=1406)\n\nLa potenciación a largo plazo (PLP) es la mecánica neuronal de optimización de circuitos repetidamente usados — desplazamiento de botones sinápticos, creación de nuevos, remodelado de la ramificación dendrítica. Es **condición necesaria** del fenómeno memorial pero no su definición: existe PLP en regiones cerebrales sin relación con la memoria, lo que demuestra que el sustrato sináptico optimizado no implica función memorial. La identificación PLP=memoria es la versión neurocientífica del error categorial que la metáfora del almacén comete en plano fenomenológico — confundir el sustrato con la función.\n\n### Filtro de inhibición: el hipocampo como dispositivo de olvido funcional\n\n> \"Existen conjuntos de neuronas pensados para inhibir y olvidar: las conexiones del CA3-CA4 del hipocampo con la corteza perirrinal filtran qué importa y qué no\"\n→ [Laboratorio de teoría de la mente en biología (32:42)](https://youtu.be/i_mVTgnbwHA?t=1962)\n\nLa pieza neuroanatómica complementa el argumento contra el almacén con su contraparte funcional: el cerebro contiene circuitos específicamente dedicados a NO conservar — el filtro CA3-CA4 hipocampal proyecta sobre la corteza perirrinal seleccionando qué representaciones reciben consolidación y cuáles se descartan. La memoria no es archivo pasivo que se llene; es proceso activo de selección donde inhibir es tan operativo como sensibilizar. El olvido es función propia, no falla.\n\n## Saturación funcional: por qué la memoria no se llena\n\nLa página articulaba la falibilidad memorial pero no respondía al argumento clásico contra la teoría matricial: si la memoria es repetición de submatrices, ¿qué impide que el cerebro se sature? El directo cierra el flanco con un argumento por **saturación funcional**.\n\n> \"La memoria no se almacena, es información sintetizada y resintetizada, por lo que no se satura como un disco duro\"\n→ [Laboratorio de teoría de la mente en biología (45:31)](https://youtu.be/i_mVTgnbwHA?t=2731)\n\n> \"Cada 200 años el cerebro estaría adaptado a una realidad tan diferente que los recuerdos antiguos perderían función\"\n→ [Laboratorio de teoría de la mente en biología (45:31)](https://youtu.be/i_mVTgnbwHA?t=2731)\n\n> \"Incluso los traumas afectivos profundos dejarían de tener función y desaparecerían por saturación funcional\"\n→ [Laboratorio de teoría de la mente en biología (45:31)](https://youtu.be/i_mVTgnbwHA?t=2731)\n\nEl experimento mental — vivir mil años — sirve para mostrar que el límite de la persistencia memorial no es de capacidad de almacén sino de pertinencia funcional. Cada doscientos años el sujeto operaría sobre una realidad tan distinta que los patrones aprendidos en el periodo anterior perderían función adaptativa, y patrones sin función no se re-instancian. El argumento extiende esta lógica al caso clínico límite: incluso los traumas afectivos profundos — los patrones más persistentes que la psique conoce — caducarían por irrelevancia funcional sostenida. La pieza invierte la intuición ordinaria: el problema de la memoria no es cómo retiene tanto, es por qué olvida lo que ya no le sirve. La función de filtrado del hipocampo (sección anterior) es la mecánica neural concreta del mismo principio.\n\n## Sesgo de negatividad: magnitud del cambio, no valencia\n\nLa página articulaba la falibilidad memorial pero no desarmaba el sesgo de negatividad popular. El directo lo precisa con una distinción operativa entre **frecuencia de recuerdo** y **efecto sobre el estado mental**.\n\n> \"No se recuerdan más las experiencias negativas; cuando se recuerdan, anulan más e impiden disfrutar de lo demás\"\n→ [Laboratorio de teoría de la mente en biología (53:24)](https://youtu.be/i_mVTgnbwHA?t=3204)\n\n> \"Las experiencias buenas se integran tan bien en la vida que no se percibe que se están recordando constantemente\"\n→ [Laboratorio de teoría de la mente en biología (53:24)](https://youtu.be/i_mVTgnbwHA?t=3204)\n\n> \"Un cambio brusco positivo (como ganar la lotería) también hace que todo lo anterior pierda significancia: no es la valencia, es la magnitud del cambio\"\n→ [Laboratorio de teoría de la mente en biología (53:24)](https://youtu.be/i_mVTgnbwHA?t=3204)\n\nLa precisión disocia dos preguntas que el folclore mezcla: cuán frecuentemente se re-instancia un recuerdo y cuánto satura el estado mental cuando se re-instancia. Las experiencias buenas se re-instancian constantemente pero quedan integradas en la matriz noética sin ocupar el primer plano fenomenológico — el sujeto no las \"recuerda\" porque están operando como sustrato continuo. Las experiencias malas, cuando se re-instancian, anulan más e impiden disfrutar lo demás — son fenomenológicamente salientes precisamente porque ocupan ancho de banda exclusivo. La pieza añade el principio explicativo: no es la valencia (positiva/negativa) lo que produce el efecto, es la **magnitud del cambio**. Un cambio positivo brusco (lotería) produce el mismo efecto de saturación que un trauma — todo lo anterior pierde significancia funcional. La memoria opera por contraste, no por valencia.\n\n## Memoria semántica: composición no-inferencial por clases de equivalencia\n\nLa página dejaba la memoria semántica como flanco menos articulado. El directo cierra ese hueco con una definición operativa precisa que la sección 'Tipología de la memoria' no contenía.\n\n> \"La memoria semántica es la función cognitiva que permite hacer relaciones no inferenciales entre elementos por sus características somáticas o equivalencias\"\n→ [Laboratorio de teoría de la mente en biología (55:24)](https://youtu.be/i_mVTgnbwHA?t=3324)\n\n> \"Un elemento parece evocar a otro, pero en realidad es una reconstrucción representacional de dos clases\"\n→ [Laboratorio de teoría de la mente en biología (58:57)](https://youtu.be/i_mVTgnbwHA?t=3537)\n\n> \"La composición puede ser por cualquier clase de equivalencia: sonoras, temporales, de repetición\"\n→ [Laboratorio de teoría de la mente en biología (58:57)](https://youtu.be/i_mVTgnbwHA?t=3537)\n\n> \"Aquello que permita con más facilidad componer o sintetizar representaciones en una sola es memoria semántica\"\n→ [Laboratorio de teoría de la mente en biología (58:57)](https://youtu.be/i_mVTgnbwHA?t=3537)\n\nLa definición es estructural en dos partes. (a) **No-inferencial**: la memoria semántica no opera por deducción ni por encadenamiento lógico de premisas; opera por **equivalencia** — dos elementos compartiendo alguna característica (sonora, temporal, somática, de repetición) se vuelven sustituibles para la psique. (b) **Composición**: cuando un elemento aparenta \"evocar\" otro, lo que ocurre realmente es una reconstrucción representacional simultánea de dos clases distintas en una composición unificada. La asociación aparente es sintetización efectiva.\n\nLa precisión de la **somaticidad** es operativa: la memoria semántica trabaja con frecuencia sobre patrones que se ejecutan corporalmente — recitar listas de números por sonido, retener movimientos aprendidos con el cuerpo. Hay más precisión somática que mental porque el sustrato procedimental-corporal es más estable que el sustrato puramente representacional. La memoria semántica enlaza así con la procedimental por la vía somática (ver [[teoria-del-simbolo-en-proxy]] sección 'El lenguaje como especialización somática de la memoria procedimental') — los nombres son atajos representacionales para invocar repertorios procedimentales por equivalencia somática, no por encadenamiento inferencial.\n\n## Mínimo de framework: criterio metodológico para definiciones filosóficas\n\nLa página articulaba la oposición al psicoanálisis y al conductismo en plano sustantivo (qué dice cada marco) pero no en plano metodológico (cómo construir definiciones que escapen al cierre de framework). El directo añade el criterio.\n\n> \"No se pueden dar definiciones desde coordenadas conductistas porque nadie fuera de ese marco las va a entender\"\n→ [Laboratorio de teoría de la mente en biología (28:28)](https://youtu.be/i_mVTgnbwHA?t=1708)\n\n> \"Las definiciones deben reducirse filosóficamente a la menor expresión ontológica posible, sin frameworks\"\n→ [Laboratorio de teoría de la mente en biología (28:28)](https://youtu.be/i_mVTgnbwHA?t=1708)\n\nEl criterio metodológico es **mínimo de framework**: una definición que solo opera dentro de las coordenadas teóricas que la generan no es definición filosófica sino tautología disfrazada — el lector externo no la entenderá porque reactivar el framework completo es la única vía de acceso a su significado. La definición filosófica genuina debe reducirse a la menor expresión ontológica posible, articulada en términos accesibles sin necesidad de adoptar previamente el sistema teórico que la produce. La consecuencia operativa para esta página es retroactiva: las definiciones que el canal propone (memoria como fenómeno noético de repetición de submatrices, memoria como función propia, memoria semántica como composición no-inferencial) se construyen para ser legibles fuera del realismo cognitivo, no para validarse solo dentro de él.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 1346,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (22:26)](https://youtu.be/i_mVTgnbwHA?t=1346)"
+        },
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 1406,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (23:26)](https://youtu.be/i_mVTgnbwHA?t=1406)"
+        },
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 1708,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (28:28)](https://youtu.be/i_mVTgnbwHA?t=1708)"
+        },
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 1962,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (32:42)](https://youtu.be/i_mVTgnbwHA?t=1962)"
+        },
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 2731,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (45:31)](https://youtu.be/i_mVTgnbwHA?t=2731)"
+        },
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 3204,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (53:24)](https://youtu.be/i_mVTgnbwHA?t=3204)"
+        },
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 3324,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (55:24)](https://youtu.be/i_mVTgnbwHA?t=3324)"
+        },
+        {
+          "video_id": "i_mVTgnbwHA",
+          "timestamp_seconds": 3537,
+          "cite_markdown": "[Laboratorio de teoría de la mente en biología (58:57)](https://youtu.be/i_mVTgnbwHA?t=3537)"
+        }
+      ],
+      "rationale": "La página teoria-de-la-memoria-en-proxy articulaba el marco memorial sobre el directo *La memoria NO EXISTE* (xdT-SCW89cw), pero seis flancos quedaban abiertos respecto al material actual del directo *Laboratorio de teoría de la mente en biología* (i_mVTgnbwHA): (1) la distinción capacidad/función-propia/fenómeno como criterio categorial, (2) la PLP como sustrato neurofisiológico necesario pero no suficiente, (3) el circuito CA3-CA4/perirrinal como dispositivo de olvido funcional, (4) el argumento de saturación funcional contra la metáfora del disco-duro, (5) la disociación frecuencia/efecto que reemplaza la valencia por la magnitud del cambio en el sesgo de negatividad, (6) la definición operativa de memoria semántica como composición no-inferencial por clases de equivalencia (somáticas, sonoras, temporales). Adicionalmente el directo añade el criterio metodológico de mínimo-de-framework que la página no contenía. Insert_after_passage al final del cuerpo (antes de Lagunas) consolida las seis piezas como sub-secciones coherentes con la arquitectura existente de la página, sin tocar la prosa ya consolidada.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "PLP / Potenciación a Largo Plazo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "concepto técnico estándar de la neurociencia (long-term potentiation) que el speaker usa como contraste para precisar que la PLP fundamenta pero no es la memoria. Per scope §1.2 los conceptos técnicos de natural.neuroscience no entran como página propia salvo articulación como marco aplicado; aquí opera como ejemplo enriquecedor de teoria-de-la-memoria-en-proxy",
+      "quote_evidence": "La PLP es la sensibilización o inhibición de grupos de conexiones neuronales que optimizan la transmisión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-memoria-en-proxy"
+    },
+    {
+      "surface_form": "P300 / potencial evocado",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "técnica electrofisiológica estándar usada como herramienta para discriminar memoria implícita; ya cubierta en teoria-de-la-memoria-en-proxy. La precisión nueva ('funciona para la memoria episódico-procedimental; para la semántica es menos claro') es marginal",
+      "quote_evidence": "La onda cerebral P300 es un potencial evocado que indica que el cerebro está procesando algo que ya ha existido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-memoria-en-proxy"
+    },
+    {
+      "surface_form": "Reelaboración episódica / terapia de eliminación de traumas",
+      "reason_code": "passing_mention",
+      "reason_detail": "técnica clínica mencionada brevemente como ejemplo de que el modelo memorial tiene aplicación terapéutica real ('lejos de ser magufada'). No se desarrolla mecánica ni protocolo. Posible enriquecimiento futuro de trauma-en-proxy si recurrente en otros vídeos",
+      "quote_evidence": "Mediante terapia de reelaboración episódica se pueden eliminar traumas, lo cual funciona lejos de ser magufada,",
+      "review_priority": "medium",
+      "review_priority_reason": "técnica terapéutica mencionada como aplicación operativa del marco memorial — merece monitoreo en futuros vídeos para evaluar promoción a sub-sección de trauma-en-proxy o concepto autónomo",
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "Millikan / función propia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Ruth Millikan ya está mencionada en teoria-del-simbolo-en-proxy como referencia genealógica del realismo cognitivo. Aquí aparece de nuevo como marco aplicado al concepto de 'función propia' de la memoria. La mención se integra en el pending_update sin merecer página propia hasta confirmar tratamiento monográfico en otros vídeos",
+      "quote_evidence": "El modelo en construcción se basa en el realismo cognitivo: Millikan, representacionalismo de Peterson,",
+      "review_priority": "medium",
+      "review_priority_reason": "candidata a página author si el canal articula su pensamiento sustantivamente en algún directo monográfico — por ahora solo aparece como referencia genealógica del marco"
+    },
+    {
+      "surface_form": "Peterson (representacionalismo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "mencionado como pieza del marco genealógico del realismo cognitivo. No queda claro si se trata de Jordan B. Peterson, Don Peterson u otro Peterson; el contexto (representacionalismo cognitivo) sugiere figura distinta al Peterson cultural-político. Requiere desambiguación humana antes de cualquier promoción",
+      "quote_evidence": "El modelo en construcción se basa en el realismo cognitivo: Millikan, representacionalismo de Peterson,",
+      "review_priority": "medium",
+      "review_priority_reason": "ambigüedad de identidad — desambiguar qué Peterson antes de añadir como página author o whitelist candidate"
+    },
+    {
+      "surface_form": "Uso de LLMs / Claude / ChatGPT / LM Studio para investigación",
+      "reason_code": "meta_canal",
+      "reason_detail": "el speaker explica su flujo de trabajo usando IA como asistente para extraer redes funcionales de papers académicos. Es metadata del proceso de construcción del marco, no contenido sustantivo. La preferencia por Claude vs ChatGPT y la mención de LM Studio son operativas pero no enciclopédicas",
+      "quote_evidence": "Proxy utiliza inteligencia artificial como asistente: selecciona artículos, revisa respuestas y monta los mapas funcionales,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Llamada a comunidad para subir artículos al Discord",
+      "reason_code": "meta_canal",
+      "reason_detail": "petición operativa a la audiencia para subir revisiones sistemáticas, libros de texto y ensayos sobre función procedimental, semántica y episódica. Metadata del proceso de investigación del canal",
+      "quote_evidence": "Pide a la audiencia subir al Discord revisiones sistemáticas, libros de texto o ensayos sobre función procedimental, semántica y episódica,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Calimaginario (sistema representacional)",
+      "reason_code": "passing_mention",
+      "reason_detail": "el summary registra el término 'calimaginario' junto a gramatical y afectivo como sistema representacional. Posible típo o variante terminológica de 'imaginario' (la página teoria-del-simbolo-en-proxy usa 'imaginario'). Sin más contexto no se puede determinar si es término distintivo o transcripción imprecisa",
+      "quote_evidence": "Los sistemas representacionales (gramatical, calimaginario, afectivo) se cruzan con tres motores representacionales: procedimental, episódico y semántico,",
+      "review_priority": "medium",
+      "review_priority_reason": "verificar audio/transcripción — si es término genuinamente distintivo (¿cualimaginario, qualimaginario, cuali-imaginario?) podría matizar la tripartitud Q sub-i / Q sub-a / Q sub-f de teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Plastilina (analogía)",
+      "reason_code": "passing_mention",
+      "reason_detail": "analogía retórica para ilustrar la dilución de la memoria al recuperarla. Caso pedagógico, no concepto autónomo. La página existente tiene la idea ('los recuerdos se deshacen como arena'); la analogía de plastilina es variante estilística",
+      "quote_evidence": "Es como manipular plastilina muy líquida: no se puede tocar sin que se mueva y mezcle un poco cada vez,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Castillo de naipes (analogía del estado mental)",
+      "reason_code": "passing_mention",
+      "reason_detail": "analogía retórica para ilustrar la matriz interconectada del estado mental. Caso pedagógico ya cubierto conceptualmente en teoria-del-simbolo-en-proxy",
+      "quote_evidence": "Es como intentar volver a montar un castillo de naipes exactamente igual: solo se puede lograr algo imaginariamente parecido,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

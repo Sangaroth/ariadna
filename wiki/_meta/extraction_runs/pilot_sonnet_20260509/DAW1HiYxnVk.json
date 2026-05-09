@@ -1,0 +1,227 @@
+{
+  "video_id": "DAW1HiYxnVk",
+  "video_title": "Las piezas que faltan",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "lenguaje verbal como algoritmo de compresión / lenguaje vs idioma / lo inefable / arte como lenguaje no verbal",
+      "canonical_guess": "teoria-del-lenguaje-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "monographic",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El lenguaje es una función cognitiva innata presente desde el nacimiento; el idioma es el código aprendido culturalmente"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Como todo algoritmo de compresión, pierde matices: no puedes transmitir todos los aspectos de una vivencia"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El arte es un lenguaje no verbal que permite explicitud sin palabras"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "directo extiende el marco lingüístico de teoria-del-lenguaje-en-proxy con tres piezas genuinamente nuevas que la página existente no contiene: (1) distinción operativa lenguaje (función cognitiva innata) vs idioma (código culturalmente aprendido); (2) categoría de 'lo inefable' como límite estructural del algoritmo de compresión, con casos clínicos concretos (sueños, trastornos disociativos, dolor neuropático); (3) arte como lenguaje no verbal que implementa la función lingüística sin código gramatical-verbal. La página actual tiene la tesis del lenguaje como compresión y la concordancia prelingüística pero no articula esas tres extensiones",
+      "quote_evidence": "Existe lo inefable: vivencias (sueños, trastornos, dolor neuropático) que no se pueden explicitar ni siquiera para uno mismo"
+    },
+    {
+      "surface_form": "los cuatro paradigmas de computabilidad del pensamiento / máquina de Turing como definición operativa",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Paradigma A: todo pensamiento es computación, no hay diferencia cualitativa entre pensar y computar"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Todo proceso físico-químico que permita simular una máquina de Turing es una computación"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "golem-de-cobre articula el contraste cognición humana / IA y la dicotomía paradigma Turing vs paradigma Penrose, pero el directo añade la enumeración explícita de cuatro paradigmas (A: identidad pensar=computar; B: conocimiento simulable pero no conciencia; C: conciencia física pero irreproducible; D: conciencia cualitativamente diferente) que sitúa al canal en un espectro en lugar de en una dicotomía binaria. Adicionalmente aporta la definición técnica canónica de máquina de Turing (lector-escritor + cinta + algoritmo) como criterio operativo de qué cuenta como computación",
+      "quote_evidence": "Paradigma C: la conciencia es física pero irreproducible; paradigma D: la conciencia es cualitativamente diferente a cualquier máquina"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-lenguaje-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El marco se inscribe en [[golem-de-cobre]], donde la cognición humana —representacional, afectiva, inconsciente— se contrasta con la cognición artificial —simbólica, explícita, sin substrato corporal— como la dimensión que la IA no puede replicar.",
+      "content_proposed": "## Lenguaje como función cognitiva innata vs idioma como código aprendido\n\nEn el directo *Las piezas que faltan* (16 sept 2024) el canal precisa una distinción que la página articulaba implícitamente: **lenguaje** y **idioma** son dos categorías diferentes — la primera función cognitiva innata, la segunda código culturalmente aprendido.\n\n> \"El lenguaje es una función cognitiva innata presente desde el nacimiento; el idioma es el código aprendido culturalmente\"\n→ [Las piezas que faltan (1:56:17)](https://youtu.be/DAW1HiYxnVk?t=6977)\n\n> \"Nacemos con gramática implícita: los niños entienden la concordancia sin que se les enseñe explícitamente\"\n→ [Las piezas que faltan (1:56:17)](https://youtu.be/DAW1HiYxnVk?t=6977)\n\n> \"Las metáforas informáticas no sirven para describir el realismo cognitivo porque se alejan de las verdaderas categorías mentales\"\n→ [Las piezas que faltan (1:56:17)](https://youtu.be/DAW1HiYxnVk?t=6977)\n\nLa distinción es estructural: el **lenguaje** como función opera con o sin código verbal específico — es la capacidad representacional de comprimir y evocar contenidos mentales mediante alguna gramática (verbal, gestual, plástica). El **idioma** es la implementación cultural concreta de esa función — castellano, japonés, lengua de signos. La separación cierra el flanco anti-constructivista: cambiar el idioma no toca la función lingüística innata, solo el código de superficie. La concordancia prelingüística que la página ya articulaba como evidencia (sección 'Concordancia prelingüística y pragmática') queda ahora explícitamente leída desde esta distinción — los niños operan la función lenguaje antes de dominar el idioma. La cercanía con la tradición Chomsky-Fodor que la página declaraba como autoposicionamiento queda así literalizada: lo innato es la función cognitiva, lo aprendido es el código.\n\n## Lo inefable: límite estructural del algoritmo de compresión\n\nLa página articulaba el lenguaje como compresión sin desarrollar qué se pierde en la compresión. El directo cierra el flanco con la categoría operativa de **lo inefable**.\n\n> \"El lenguaje selecciona elementos gramaticales sencillos para codificar representaciones muy complejas\"\n→ [Las piezas que faltan (1:15:55)](https://youtu.be/DAW1HiYxnVk?t=4555)\n\n> \"Como todo algoritmo de compresión, pierde matices: no puedes transmitir todos los aspectos de una vivencia\"\n→ [Las piezas que faltan (1:15:55)](https://youtu.be/DAW1HiYxnVk?t=4555)\n\n> \"Existe lo inefable: vivencias (sueños, trastornos, dolor neuropático) que no se pueden explicitar ni siquiera para uno mismo\"\n→ [Las piezas que faltan (1:15:55)](https://youtu.be/DAW1HiYxnVk?t=4555)\n\nLa precisión opera en dos planos. (a) **Pérdida estructural**: todo algoritmo de compresión es lossy — verbalizar una vivencia compleja necesariamente descarta matices que la representación interior contenía pero que la gramática del idioma no puede portar. (b) **Inefabilidad radical**: hay vivencias cuyo grueso representacional excede no solo la capacidad de transmisión interpersonal sino la propia capacidad de explicitación reflexiva — el sujeto sabe que ha vivido algo (un sueño que se desvanece, un trastorno disociativo, un dolor neuropático) pero no puede formularse esa vivencia ni a sí mismo. Lo inefable no es defecto del aparato lingüístico individual; es propiedad estructural de la relación compresión↔representación. La consecuencia teórica refuerza el flanco anti-constructivista de la página: si el idioma no puede capturar siquiera vivencias propias del hablante, mucho menos puede generarlas o reconfigurarlas en otros — el lenguaje no determina el pensamiento porque ni siquiera lo agota.\n\n## El arte como lenguaje no verbal\n\nLa página articulaba la distinción categoría gramatical / categoría representacional pero no extendía la función lingüística más allá del código verbal. El directo añade la pieza:\n\n> \"El arte es un lenguaje no verbal que permite explicitud sin palabras\"\n→ [Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)\n\n> \"La metáfora es pensamiento poético útil para transmitir representaciones afectivas cuando la gramática se queda corta\"\n→ [Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)\n\n> \"Existen representaciones explícitas que no tienen lenguaje verbal en una cultura pero sí en otra\"\n→ [Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)\n\nLa generalización es operativa: el **arte** funciona como lenguaje no verbal — implementa la función lingüística (compresión + evocación de representaciones) usando código no gramatical. Una pintura, una pieza musical, una arquitectura ritual, comprimen contenido representacional complejo en un significante percibido y lo evocan en el receptor capacitado para decodificarlo. La metáfora opera en la frontera: usa gramática verbal pero ejecuta la función a través del registro poético (ver [[pensamiento-poetico]]) cuando la articulación formal se queda corta para representaciones afectivas. La pieza cierra una asimetría que la página dejaba implícita: la función lingüística no se identifica con el código verbal — el código verbal es solo una de sus implementaciones posibles, y existen culturas que codifican explícitamente representaciones (vía arte, gesto, ritual) que otras culturas no han comprimido en palabra.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "timestamp_seconds": 4555,
+          "cite_markdown": "[Las piezas que faltan (1:15:55)](https://youtu.be/DAW1HiYxnVk?t=4555)"
+        },
+        {
+          "video_id": "DAW1HiYxnVk",
+          "timestamp_seconds": 5234,
+          "cite_markdown": "[Las piezas que faltan (1:27:14)](https://youtu.be/DAW1HiYxnVk?t=5234)"
+        },
+        {
+          "video_id": "DAW1HiYxnVk",
+          "timestamp_seconds": 6977,
+          "cite_markdown": "[Las piezas que faltan (1:56:17)](https://youtu.be/DAW1HiYxnVk?t=6977)"
+        }
+      ],
+      "rationale": "La página articula el lenguaje como algoritmo de compresión y la concordancia prelingüística, pero deja sin desarrollar tres flancos que el directo cierra: (a) la distinción operativa lenguaje-función-innata / idioma-código-aprendido — pieza categorial que la página declaraba implícitamente al situarse en la línea Chomsky-Fodor pero que no enuncia explícitamente; (b) la categoría de 'lo inefable' como propiedad estructural de toda compresión, con casos clínicos concretos (sueños, trastornos disociativos, dolor neuropático) que vuelven la pérdida de información tangible y refuerzan el flanco anti-constructivista; (c) el arte como lenguaje no verbal que implementa la misma función lingüística sin código gramatical-verbal — pieza que generaliza la función lingüística más allá del lenguaje verbal y enlaza con [[pensamiento-poetico]]. Insert_after_passage al cierre del cuerpo (antes de Lagunas) consolida las tres piezas como sub-secciones coherentes con la arquitectura existente.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "igual que ciertos números reales son determinados pero no computables.",
+      "content_proposed": "\n## Los cuatro paradigmas de computabilidad del pensamiento\n\nEn el directo *Las piezas que faltan* (16 sept 2024) el canal articula explícitamente el espectro completo de posiciones filosóficas sobre la computabilidad del pensamiento, fijando los cuatro paradigmas operativos como **espectro** y no como dicotomía Turing/Penrose.\n\n> \"Paradigma A: todo pensamiento es computación, no hay diferencia cualitativa entre pensar y computar\"\n→ [Las piezas que faltan (1:40:31)](https://youtu.be/DAW1HiYxnVk?t=6031)\n\n> \"Paradigma B: el conocimiento es computable y simulable, pero la conciencia no puede ser emulada por una máquina\"\n→ [Las piezas que faltan (1:40:31)](https://youtu.be/DAW1HiYxnVk?t=6031)\n\n> \"Paradigma C: la conciencia es física pero irreproducible; paradigma D: la conciencia es cualitativamente diferente a cualquier máquina\"\n→ [Las piezas que faltan (1:40:31)](https://youtu.be/DAW1HiYxnVk?t=6031)\n\nLa taxonomía completa el aparato categorial que la página articulaba como dicotomía Turing / Penrose:\n\n- **Paradigma A (Turing fuerte / computacionalismo)**: identidad ontológica entre pensar y computar — el pensamiento es un caso particular del cómputo. Es la posición que la página critica acumulativamente bajo el nombre 'paradigma Turing'.\n- **Paradigma B (computacionalismo parcial)**: el conocimiento — representaciones explícitas, inferencia formal, cálculo — sí es computable y simulable; la conciencia es la frontera no traspasable. La máquina puede saber sin sentir. Es la posición que admite LLMs operando con eficacia genuina sobre representaciones explícitas mientras niega que tengan vida interior.\n- **Paradigma C (fisicalismo no reproducible)**: la conciencia es fenómeno físico — no apela a sustrato no material — pero es irreproducible artificialmente por su específica composición material-orgánica. La barrera es de implementación, no de naturaleza.\n- **Paradigma D (Penrose / diferencia cualitativa)**: la conciencia es cualitativamente diferente de cualquier máquina — no solo no-reproducible sino de otra clase ontológica. Es la posición que la página articula bajo el nombre 'paradigma de Penrose'.\n\nLa pieza importa porque sitúa al canal en un espectro y no en una negación binaria. La posición acumulativa del corpus combina elementos de B (parte del conocimiento sí es simulable, los LLMs operan formalmente con eficacia genuina sobre representaciones explícitas), C (la barrera afectiva-orgánica documentada en esta página) y D (la barrera de complejidad modal articulada en la sección 'Determinismo no implica computabilidad'). No es Penrose puro; es una combinación específica que admite computabilidad parcial sin caer en computacionalismo fuerte.\n\n### La definición canónica de computación\n\n> \"Una máquina de Turing es un lector-escritor que se desplaza por una cinta con celdillas siguiendo un algoritmo de instrucciones\"\n→ [Las piezas que faltan (1:50:21)](https://youtu.be/DAW1HiYxnVk?t=6621)\n\n> \"Todo proceso físico-químico que permita simular una máquina de Turing es una computación\"\n→ [Las piezas que faltan (1:50:21)](https://youtu.be/DAW1HiYxnVk?t=6621)\n\n> \"Ejemplos concretos: lectores de CD, memorias SSD, todos son implementaciones físicas de máquinas de Turing\"\n→ [Las piezas que faltan (1:50:21)](https://youtu.be/DAW1HiYxnVk?t=6621)\n\nLa precisión técnica completa el aparato categorial: la máquina de Turing no es solo modelo abstracto sino criterio operativo — todo dispositivo físico que admita reducción a la mecánica lector-escritor-cinta-algoritmo es computación, independientemente de su sustrato material (silicio, óptica, biología sintética). La pregunta filosófica relevante deja de ser si tal o cual proceso 'parece' inteligente y pasa a ser si admite reducción a máquina de Turing. Si admite reducción, está en el dominio del paradigma A; si no, opera fuera del marco computacional y la cuestión de su naturaleza queda abierta entre los paradigmas B/C/D.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "timestamp_seconds": 6031,
+          "cite_markdown": "[Las piezas que faltan (1:40:31)](https://youtu.be/DAW1HiYxnVk?t=6031)"
+        },
+        {
+          "video_id": "DAW1HiYxnVk",
+          "timestamp_seconds": 6621,
+          "cite_markdown": "[Las piezas que faltan (1:50:21)](https://youtu.be/DAW1HiYxnVk?t=6621)"
+        }
+      ],
+      "rationale": "La página articula extensamente la dicotomía paradigma Turing / paradigma Penrose y la barrera afectiva-orgánica entre cognición humana y artificial, pero presenta el contraste como dicotomía binaria. El directo añade la enumeración explícita de cuatro paradigmas (A: identidad pensar=computar; B: conocimiento simulable pero no conciencia; C: conciencia física pero irreproducible; D: conciencia cualitativamente diferente) que convierte el contraste en espectro y permite situar al canal en una combinación específica B+C+D, no en una negación pura. Adicionalmente fija la definición técnica canónica de máquina de Turing (lector-escritor + cinta + algoritmo) como criterio operativo de qué cuenta como computación, completando el aparato categorial. Insert_after_passage tras el cierre de la sección 'Paradigma de Penrose y la distinción determinismo / computabilidad' es el lugar natural — la nueva sección expande la categorización paradigmática que esa sección abre.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Streaming format change / podcast / contratación de editor",
+      "reason_code": "meta_canal",
+      "reason_detail": "anuncio operativo del canal: reducción de directos a dos días semanales, traslado de análisis arquetípicos a podcast, contratación de editor para clips. Metadata del proceso editorial, no contenido sustantivo",
+      "quote_evidence": "Anuncia la sustitución de días de stream por un podcast y contenido escrito para patronos, reduciendo los directos a dos días semanales,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Subsidio de paro para víctimas de violencia de género / denuncias falsas",
+      "reason_code": "political_news",
+      "reason_detail": "comentario sobre medida administrativa coyuntural (subsidio sin cotización a partir de noviembre). El speaker señala el problema del sistema sin distinguir denuncias verdaderas/falsas, pero no articula marco psicológico o filosófico estructural más allá del señalamiento. No sobrevive cápsula del tiempo",
+      "quote_evidence": "A partir de noviembre las víctimas de violencia de género podrán pedir el subsidio por desempleo sin haber cotizado,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Ignatius Farray / humor de autodenigración",
+      "reason_code": "passing_mention",
+      "reason_detail": "crítica a humorista contemporáneo por hacer política desde el humor y autodegradarse. La articulación del humor como dispositivo cultural está poco desarrollada respecto a la figura concreta. Pasa el test de cápsula como caso ilustrativo de un patrón ('humor como autodenigración política') pero no merece página propia",
+      "quote_evidence": "El humor de Ignatius consiste en autodegradarse deliberadamente, lo cual Proxy considera lamentable y no gracioso,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Humor masculino vs femenino (asimetría arquetípica)",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "articulación cultural-psicológica de la asimetría perceptiva del sufrimiento masculino vs femenino aplicada al género humorístico. Conecta directamente con sesgo-gamma (asimetría perceptiva del cuidado/agresión) pero solo este vídeo aporta evidencia. Material para enriquecer sesgo-gamma o tipologia-femenina-arquetipica si recurrente",
+      "quote_evidence": "El humor masculino funciona exponiendo la intimidad con franqueza total porque a nadie le importa que un hombre sufra,",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis estructural sobre cómo la asimetría perceptiva sesgo-gamma se materializa en géneros humorísticos viables — merece monitoreo en futuros vídeos para promoción a sub-sección de sesgo-gamma",
+      "enriches_concept": "sesgo-gamma"
+    },
+    {
+      "surface_form": "Cristian Bilbao / progresismo que llora por hijos varones",
+      "reason_code": "passing_mention",
+      "reason_detail": "caso ilustrativo concreto (cuenta de Twitter específica) usado para ejemplificar el patrón 'proyección sobre el hijo de la herida ideológica del progenitor'. El patrón estructural sí es psicológico (proyección + locus externo) pero la figura concreta es coyuntural",
+      "quote_evidence": "Llorar porque tu hijo es varón es una proyección: le echas la culpa de lo que eres tú al niño,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Locus externo de autoridad en la izquierda postmoderna",
+      "reason_code": "promotion_threshold_not_met",
+      "reason_detail": "tesis psicopolítica articulada brevemente (~3 min): la izquierda desplaza el locus interno de autoridad al exterior por problemas con el padre arquetípico, lo que produce el creer-en-la-educación como solución universal y el castigo estatal como sustituto de la responsabilidad individual. Marco aplicado genuino que enriquece el aparato del diagrama de Proxy. Solo este vídeo aporta articulación; no alcanza umbral de promoción autónoma",
+      "quote_evidence": "La izquierda tiene problemas con el padre arquetípico y desplaza el locus interno de autoridad al exterior,",
+      "review_priority": "medium",
+      "review_priority_reason": "pieza psicopolítica-arquetípica genuina (locus interno/externo + responsabilidad vs castigo + padre arquetípico) que conectaría con diagrama-de-proxy en el eje fundamentalismo moral; merece monitoreo para promoción a sub-sección si recurrente",
+      "enriches_concept": "diagrama-de-proxy"
+    },
+    {
+      "surface_form": "Cristianismo como preservador de fundamentos civilizatorios",
+      "reason_code": "passing_mention",
+      "reason_detail": "tesis cultural-religiosa articulada brevemente. La articulación 'no creyentes reconocen que el cristianismo funciona para preservar la civilización' es interesante como diagnóstico pero el speaker la usa más como auto-comentario meta-canal ('he contribuido a que personas no religiosas tengan otra perspectiva') que como tesis monográfica",
+      "quote_evidence": "Cada vez más no creyentes reconocen que el cristianismo funciona para preservar los fundamentos de la civilización,",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis cultural-religiosa con potencial de articulación monográfica si recurrente; merece monitoreo en directos donde el canal trabaja monográficamente cristianismo / religión / mito"
+    },
+    {
+      "surface_form": "Ramón Nogueras / plagio de Cialdini / terapia de pareja",
+      "reason_code": "passing_mention",
+      "reason_detail": "crítica a figura concreta de la divulgación psicológica española por (a) plagio párrafo a párrafo del Influence de Cialdini en su libro Por qué compramos, (b) fama de terapia de pareja que produce relaciones abiertas. Es caso ilustrativo del patrón psicoinfluencer ya cubierto en psicoinfluencers-en-proxy. Enriquece esa página como ejemplo concreto pero no merece página propia",
+      "quote_evidence": "El libro de Nogueras \"Por qué compramos\" replica párrafo a párrafo el contenido de \"Influence\" de Robert Cialdini,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psicoinfluencers-en-proxy"
+    },
+    {
+      "surface_form": "Robert Cialdini / Influence",
+      "reason_code": "passing_mention",
+      "reason_detail": "mencionado como autor original plagiado por Nogueras. No hay tratamiento sustantivo del pensamiento de Cialdini ni aplicación del marco propio",
+      "quote_evidence": "El libro de Nogueras \"Por qué compramos\" replica párrafo a párrafo el contenido de \"Influence\" de Robert Cialdini,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Análisis arquetípico como método (definición meta)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "el speaker articula brevemente la naturaleza del método de análisis arquetípico ('no pretende descubrir la intención del autor ni inventar significados, sino explorar cómo una estructura se aplica a múltiples representaciones'). El método es operativo a lo largo del corpus pero esta meta-articulación queda subsumida en pensamiento-poetico y mitologia-propia-impropia",
+      "quote_evidence": "El análisis arquetípico no pretende descubrir la intención del autor ni inventar significados, sino explorar cómo una estructura se aplica a múltiples representaciones,",
+      "review_priority": "medium",
+      "review_priority_reason": "meta-articulación del método operativo del canal; si aparece más extensa en otro directo monográfico podría justificar página propia 'método de análisis arquetípico en Proxy'"
+    },
+    {
+      "surface_form": "Caperucita Roja / Harry Potter / lectura de cuentos (próximos contenidos)",
+      "reason_code": "meta_canal",
+      "reason_detail": "anuncio de próximos análisis arquetípicos. No hay desarrollo sustantivo en este vídeo más allá de mencionar que tienen contenido arquetípico simple",
+      "quote_evidence": "Caperucita Roja tiene contenido arquetípico simple pero rico en metáforas extraíbles,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "⚖️ Subsidio de paro para víctimas de violencia de género y denuncias falsas",
+      "matched_pattern": "(?i)\\b(impuestos hosteleros|factura de la luz|fiscalidad coyuntural)\\b",
+      "reason": "no matched directamente por el regex del filter — bloque sobre actualidad legislativa coyuntural; se descarta por reason_code political_news en discarded[] en lugar de por filtro automático"
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}
