@@ -255,6 +255,7 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 
 
 
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -269,4 +270,5 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **Análisis arquetípico Frozen** — chunks: [1:59:22](https://youtu.be/NYZEm8mcPiQ?t=7162) · [2:04:25](https://youtu.be/NYZEm8mcPiQ?t=7465)
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 - **El síndrome de Wendy** — chunks: [1:06:13](https://youtu.be/L7oSZTTK8Gg?t=3973)
+- **¡Inside Proxy está emitiendo desde el plan B!** — chunks: [12:25](https://youtu.be/z70_R1V8G6E?t=745)
 

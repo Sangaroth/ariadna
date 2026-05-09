@@ -1,0 +1,98 @@
+{
+  "video_id": "lw7XI2lQntM",
+  "video_title": "¡Inside Proxy está emitiendo en directo!",
+  "playlist": "_streams",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Balrogs",
+      "canonical_guess": "el-silmarillion",
+      "page_type_inferred": "entity_work_section",
+      "decision": "enrich_existing",
+      "target_page_id": "el-silmarillion",
+      "rationale": "Espíritus uránicos caídos al servicio de Melkor. Material genuinamente nuevo no presente en el batch anterior; la página tolkien-jrr ya distingue el balrog como demonio cetónico, pero la primera mención canónica en el texto del Silmarillion (corazones de fuego, manto de tinieblas, látigos de llamas) no estaba citada.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "Angband (fortaleza de Melkor)",
+      "canonical_guess": "el-silmarillion",
+      "page_type_inferred": "entity_work_section",
+      "decision": "enrich_existing",
+      "target_page_id": "el-silmarillion",
+      "rationale": "Fortaleza de Melkor en las costas noroccidentales. Lugar central de la cosmogonía pre-élfica. No aparece en la wiki actual ni en el batch anterior. Va integrado al el-silmarillion.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "Sauron como teniente de Melkor",
+      "canonical_guess": "el-silmarillion",
+      "page_type_inferred": "entity_work_section",
+      "decision": "enrich_existing",
+      "target_page_id": "el-silmarillion",
+      "rationale": "Genealogía precoz de Sauron — coherente con la demonología tolkieniana ya articulada en tolkien-jrr (Sauron como figura luciferina, corrompido por Melkor). Material textual del Silmarillion no citado antes.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "Aulë / Yavanna / siete padres de los enanos / Cuiviénen / Varda / corona de siete estrellas / La Batalla de los Árboles celta",
+      "canonical_guess": "el-silmarillion",
+      "page_type_inferred": "entity_work_section",
+      "decision": "enrich_existing_already_done",
+      "target_page_id": "el-silmarillion",
+      "rationale": "Material ya integrado en el batch anterior (wIhH72UFUPY) mediante un insert mayor en el-silmarillion (secciones 'Aulë crea a los enanos', 'Yavanna ante Manwë', 'Las Águilas y la división entre gloria explícita y magia arcana', 'Varda y la corona de siete estrellas'). Este vídeo re-presenta la misma sección del Silmarillion con framing casi idéntico — no se duplica.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "rocas como excisión masculina de lo femenino-tierra",
+      "canonical_guess": "mito-polar",
+      "page_type_inferred": "concept_extension",
+      "decision": "enrich_existing_already_done",
+      "target_page_id": "mito-polar",
+      "rationale": "Tesis ya añadida a mito-polar en el batch anterior. La articulación 'aquello que permanece intentando' como caracterización de la tenacidad es matiz menor; no justifica duplicar.",
+      "framing_marks": []
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "el-silmarillion",
+      "operation": "insert_after_passage",
+      "anchor_literal": "El héroe vence al [[dragon-arquetipo|dragón]] después; el poder oculto de lo femenino debe esperar la hora señalada para manifestarse plenamente.",
+      "new_content": "\n## Los Balrogs y la fortaleza de Angband: la convocatoria de los Valar\n\nEl despertar de los hijos no llega a una tierra desolada por casualidad. El directo articula el bloque del Silmarillion donde se nombran por primera vez los espíritus que se unieron a Melkor — los **Balrogs** — y la fortaleza desde la que opera el mal en vísperas de la llegada de los elfos.\n\n> \"Los espíritus que se unieron a Melkor tenían corazones de fuego, manto de tinieblas y látigos de llamas,\"\n→ [Inside Proxy directo, 49:11](https://youtu.be/lw7XI2lQntM?t=2951)\n\n> \"Melkor levantó la fortaleza de Angband en las costas noroccidentales, comandada por Sauron su teniente,\"\n→ [Inside Proxy directo, 49:11](https://youtu.be/lw7XI2lQntM?t=2951)\n\nLa pieza encaja a Sauron en su rol genealógico precoz como **teniente de Melkor**, no como mal autónomo originario — articulación coherente con la lectura general del canal que distingue el mal luciferino (Sauron, corrompido por una potencia mayor) del mal demoníaco primigenio (Melkor mismo). Para la articulación completa de la demonología tolkieniana, ver [[tolkien-jrr]]. Los Balrogs como espíritus uránicos caídos al servicio del mal cetónico (corazones de fuego, manto de tinieblas) prefiguran la categoría espacial que el canal articulará después: el balrog como demonio cetónico distinto del [[dragon-arquetipo|dragón telúrico]] (ver también [[uranico-telurico-cetonico]]).\n\nEs en ese contexto cosmológico — Angband levantada, las tierras de Arda desoladas — cuando Yavanna convoca a los Valar:\n\n> \"Yavanna convoca a los Valar: la hora de los hijos se aproxima y no pueden dejar las tierras desoladas ante el mal,\"\n→ [Inside Proxy directo, 49:11](https://youtu.be/lw7XI2lQntM?t=2951)\n\nLa convocatoria opera como bisagra estructural entre el bloque \"el anhelo femenino reordena lo masculino\" y el bloque \"Varda crea las estrellas\". Es el episodio donde lo femenino arcano deja de ser solo introspección y se convierte en **acción cósmica**: la diosa que primero contempló sus pensamientos y luego le entregó a Manwë una espada por juicio ahora convoca al consejo de los Valar para preparar el despertar de los primeros nacidos. La economía polar que la sección anterior articulaba — lo femenino encara al mal antes que el héroe — se actualiza aquí en el primer movimiento concreto.\n",
+      "quote_evidence": "Los espíritus que se unieron a Melkor tenían corazones de fuego, manto de tinieblas y látigos de llamas, [...] Melkor levantó la fortaleza de Angband en las costas noroccidentales, comandada por Sauron su teniente, [...] Yavanna convoca a los Valar: la hora de los hijos se aproxima y no pueden dejar las tierras desoladas ante el mal,",
+      "timestamp_chunks": [
+        "youtube:lw7XI2lQntM#2951"
+      ],
+      "supersedes_laguna": null,
+      "rationale": "Material genuinamente nuevo respecto al batch wIhH72UFUPY: descripción canónica de los Balrogs en el Silmarillion (corazones de fuego, manto de tinieblas, látigos de llamas), introducción de la fortaleza de Angband, y rol de Sauron como teniente de Melkor. Encaja temporalmente entre 'Las Águilas...' y 'Varda y la corona...' (47:41 → 51:43 en el directo). La convocatoria de Yavanna a los Valar funciona como bisagra estructural y refuerza la articulación polar 'lo femenino encara al mal antes que el héroe' que ya cierra la sección anterior."
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Polaris (referencia bibliográfica del canal en preparación)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención cruzada al libro propio del speaker en preparación, idéntica a la del directo wIhH72UFUPY ('como en Polaris'). No aporta contenido nuevo del libro.",
+      "quote_evidence": "Lo primero que sus ojos vieron fueron las estrellas del cielo, como en Polaris,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 3,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Génesis semítico (espíritu/aire sobre aguas + tierra + fuego como cuarta cosa) — recap 06:43-07:44] reason=redundant_with_prior_session_content quote no literal",
+    "DROP discarded[Aulë / Yavanna / Génesis tolkieniano polar / siete padres / Yavanna ante Manwë / Águilas / Morgana-Galadriel / Varda / Cuiviénen — 09:15 a 53:43 (excepto 49:11)] reason=already_integrated_in_prior_session quote no literal"
+  ]
+}

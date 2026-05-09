@@ -193,6 +193,7 @@ La pieza completa el catálogo de polares del corpus añadiendo el caso paradigm
 
 
 
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -205,4 +206,5 @@ La pieza completa el catálogo de polares del corpus añadiendo el caso paradigm
 - **Directo casual** — chunks: [29:23](https://youtu.be/ECN5C9rsaZg?t=1763)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
 

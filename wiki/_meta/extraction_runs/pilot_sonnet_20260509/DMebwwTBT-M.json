@@ -1,0 +1,102 @@
+{
+  "video_id": "DMebwwTBT-M",
+  "video_title": "¡Inside Proxy está emitiendo en directo!",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "El concepto 'adaptativo' es inservible en realismo cognitivo",
+      "canonical_guess": "funcion-biologica-y-suicidio-en-proxy",
+      "page_type_inferred": "synthesis",
+      "decision": "promote_new_via_thesis_candidate",
+      "target_page_id": "funcion-biologica-y-suicidio-en-proxy",
+      "rationale": "Tesis del canal articulada como respuesta a una pregunta sobre suicidio. Reformula filosóficamente el par adaptativo/desadaptativo de la psicología cognitivo-conductual moderna como neurótico/no-neurótico respecto a la función biológica del individuo. Bloque sostenido ~36 min con estructura interna ≥4 piezas. Cumple gate de auto-promoción.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "Las cinco funciones biológicas del individuo (nacer, crecer, aprender, reproducirse, enseñar y morir)",
+      "canonical_guess": "funcion-biologica-y-suicidio-en-proxy",
+      "page_type_inferred": "synthesis",
+      "decision": "promote_new_via_thesis_candidate",
+      "target_page_id": "funcion-biologica-y-suicidio-en-proxy",
+      "rationale": "Marco antropológico-clínico canal-específico. Sustituye operativamente el lenguaje 'adaptativo' del modelo CC.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "Suicidio (lectura clínico-filosófica del canal): por sufrimiento vs. histérico por atención",
+      "canonical_guess": "funcion-biologica-y-suicidio-en-proxy",
+      "page_type_inferred": "synthesis",
+      "decision": "promote_new_via_thesis_candidate",
+      "target_page_id": "funcion-biologica-y-suicidio-en-proxy",
+      "rationale": "Tipología canal-específica. La distinción entre suicidio como respuesta al sufrimiento (no necesariamente neurótico) y suicidio histérico por demanda de atención (neurótico, ambivalente) es articulación propia.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "El sentido de la vida como preparación para la muerte / amor como mejor preparación / extremaunción cristiana",
+      "canonical_guess": "funcion-biologica-y-suicidio-en-proxy",
+      "page_type_inferred": "synthesis",
+      "decision": "promote_new_via_thesis_candidate",
+      "target_page_id": "funcion-biologica-y-suicidio-en-proxy",
+      "rationale": "Cierre teológico-existencial de la tesis. 'La función vital es morir'; el cristianismo articula sacramentalmente la preparación. Forma parte del mismo bloque de la tesis.",
+      "framing_marks": []
+    },
+    {
+      "surface_form": "Verdad/certeza como componente afectiva de toda representación",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type_inferred": "concept_extension",
+      "decision": "passing_mention",
+      "target_page_id": "teoria-del-simbolo-en-proxy",
+      "rationale": "El ejemplo 'la componente afectiva del postulado de la línea recta es la certeza; verdadero es un afecto' aplica concretamente la tesis de afectividad de toda representación que la página ya articula extensamente. Mención breve aplicada, no justifica enrichment dedicado.",
+      "framing_marks": []
+    }
+  ],
+  "pending_updates": [
+    {
+      "target_page_id": "realismo-cognitivo",
+      "operation": "insert_after_passage",
+      "anchor_literal": "- Define una postura crítica hacia el psicoanálisis clásico ([[freud-sigmund]]) cuando este describe la psique mediante metáforas trasladadas desde otros ámbitos sin justificar la conexión con la realidad mental.",
+      "new_content": "- Aporta el armazón clínico-filosófico de [[funcion-biologica-y-suicidio-en-proxy]]: la categoría 'adaptativo' usada por la psicología cognitivo-conductual moderna es inservible para el realismo cognitivo porque presupone un dualismo psique/entorno que el marco rechaza — la psique no está EN un entorno como algo separado, **es** su modo de respuesta al entorno. El sustituto operativo del par adaptativo/desadaptativo es neurótico/no-neurótico respecto a las cinco funciones biológicas del individuo (nacer, crecer, aprender, reproducirse, enseñar, morir).\n",
+      "quote_evidence": "Lo que se intentó explicar no era que el suicidio fuera adaptativo, sino que el término 'adaptativo' carece de sentido en el realismo cognitivo, [...] 'Adaptativo' implica adaptación A algo, lo que presupone un dualismo psique-entorno, [...] La conducta neurótica impide esa relación consigo mismo o con el entorno necesaria para cumplir la función biológica,",
+      "timestamp_chunks": [
+        "youtube:DMebwwTBT-M#1908",
+        "youtube:DMebwwTBT-M#2029",
+        "youtube:DMebwwTBT-M#2394"
+      ],
+      "supersedes_laguna": null,
+      "rationale": "Cross-reference desde realismo-cognitivo hacia la nueva synthesis page que el thesis_candidate auto-promueve. Se inserta como bullet adicional dentro de la sección 'Conexión con otros conceptos del canal'. La crítica al término 'adaptativo' es extensión natural del marco realista y no estaba documentada en la página."
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Construcción de un cajón de madera a 9 metros de profundidad / buceo profesional",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Apertura del directo (15:39 a ~30:00) con narración detallada de un ejercicio del curso de buceo profesional del speaker (ya documentado como giro vital en el directo z70_R1V8G6E). Tecnicismo del oficio sin marco psicológico-arquetípico aplicado. La narración es técnica (gestión de aire, comunicación gestual, improvisación con el serrucho oxidado).",
+      "quote_evidence": "Ejercicio de operaciones con suministro de superficie: construir un cajón de madera submarina con un serrucho oxidado e inservible, clavos y una maceta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "thesis_candidates_auto_promote_count": 1,
+    "discarded_count": 3,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Cristianismo como renovación del mito solar / Lancelot como héroe pese al adulterio / leyenda artúrica como composición de mitos solares con mito cristiano] reason=anuncio_proximo_directo quote no literal",
+    "DROP discarded[Ejemplos de afecto-en-postulado-matemático aplicados a juicio cotidiano] reason=redundant_with_existing_page quote no literal",
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

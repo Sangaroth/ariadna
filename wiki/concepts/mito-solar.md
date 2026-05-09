@@ -152,10 +152,12 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 
 
 
+
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 
 
 - **Análisis arquetípico: Excalibur** — chunks: [1:30:28](https://youtu.be/daC37T5cbWs?t=5428)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **He visto a Paloma** — chunks: [35:49](https://youtu.be/u-VoqpR7sNI?t=2149)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [1:08:49](https://youtu.be/DMebwwTBT-M?t=4129) · [1:17:19](https://youtu.be/DMebwwTBT-M?t=4639)
 

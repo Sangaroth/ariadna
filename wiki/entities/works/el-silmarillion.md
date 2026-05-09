@@ -246,7 +246,9 @@ La pieza añade una lectura específica del cambio de color como dispositivo sim
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [50:23](https://youtu.be/gDRkrg8dVCo?t=3023)
 - **Irrespirables redes sociales.** — chunks: [22:03](https://youtu.be/aaLhUV1rdE4?t=1323)
 - **Progresterona** — chunks: [1:33:31](https://youtu.be/7f-iHJpDMVQ?t=5611)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403)
 

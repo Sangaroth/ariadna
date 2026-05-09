@@ -187,6 +187,8 @@ La triada opera como armazón completo: traición original → desplazamiento de
 
 
 
+
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
@@ -194,4 +196,6 @@ La triada opera como armazón completo: traición original → desplazamiento de
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [26:09](https://youtu.be/Dtp1_RLb7S0?t=1569)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/wIhH72UFUPY?t=403) · [10:15](https://youtu.be/wIhH72UFUPY?t=615)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403) · [11:46](https://youtu.be/lw7XI2lQntM?t=706)
 

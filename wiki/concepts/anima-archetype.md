@@ -259,6 +259,7 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 
 
@@ -272,4 +273,5 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 - **Directo casual** — chunks: [40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
 - **El síndrome de Wendy** — chunks: [32:34](https://youtu.be/L7oSZTTK8Gg?t=1954)
 - **Gothika: De Profundis** — chunks: [51:58](https://youtu.be/Gx2740if0Ho?t=3118) · [1:14:35](https://youtu.be/Gx2740if0Ho?t=4475) · [1:37:04](https://youtu.be/Gx2740if0Ho?t=5824)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/wIhH72UFUPY?t=615)
 

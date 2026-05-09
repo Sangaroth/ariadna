@@ -883,6 +883,7 @@ La aplicación sistemática de la crítica a casos clínicos concretos (TOC, dep
 
 
 
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
@@ -903,3 +904,5 @@ La aplicación sistemática de la crítica a casos clínicos concretos (TOC, dep
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:02:47](https://youtu.be/cbdLR0HTE3w?t=3767) · [2:01:28](https://youtu.be/cbdLR0HTE3w?t=7288) · [2:08:04](https://youtu.be/cbdLR0HTE3w?t=7684)
 
 - **¿Es ciencia la psicología?** — chunks: [1:00:17](https://youtu.be/1cF9VayHtRI?t=3617) · [1:04:50](https://youtu.be/1cF9VayHtRI?t=3890) · [1:08:22](https://youtu.be/1cF9VayHtRI?t=4102)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [31:48](https://youtu.be/DMebwwTBT-M?t=1908) · [33:49](https://youtu.be/DMebwwTBT-M?t=2029) · [36:49](https://youtu.be/DMebwwTBT-M?t=2209) · [38:23](https://youtu.be/DMebwwTBT-M?t=2303)
+

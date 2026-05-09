@@ -126,4 +126,9 @@ El gesto inaugural del rey (extraer Excalibur de la tierra) cifra la separación
 ## Citations
 
 
+
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [2:15:23](https://youtu.be/K082yiudh-g?t=8123)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [14:17](https://youtu.be/wIhH72UFUPY?t=857) · [15:48](https://youtu.be/wIhH72UFUPY?t=948)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403) · [15:18](https://youtu.be/lw7XI2lQntM?t=918)
+
