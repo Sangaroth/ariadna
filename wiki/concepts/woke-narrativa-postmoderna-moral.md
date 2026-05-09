@@ -399,6 +399,7 @@ La pieza completa el aparato político del marco articulado en la sección anter
 
 
 
+
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
 - **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
@@ -414,4 +415,5 @@ La pieza completa el aparato político del marco articulado en la sección anter
 - **Elisa y su CI** — chunks: [07:50](https://youtu.be/6tfSc45kjyo?t=470) · [29:39](https://youtu.be/6tfSc45kjyo?t=1779)
 - **¿Es ciencia la psicología?** — chunks: [21:23](https://youtu.be/1cF9VayHtRI?t=1283) · [28:24](https://youtu.be/1cF9VayHtRI?t=1704) · [37:32](https://youtu.be/1cF9VayHtRI?t=2252)
 - **Ha vuelto a ocurrir.** — chunks: [1:14:51](https://youtu.be/C0Io49giVY8?t=4491)
+- **Noticias 100tíficas.** — chunks: [6:04](https://youtu.be/VgdybZKruwk?t=364)
 

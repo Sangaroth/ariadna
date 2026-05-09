@@ -173,6 +173,48 @@ El análisis arquetípico de [[unicorn-wars-2022-film|Unicorn Wars]] articula la
 La pieza completa el catálogo de polares del corpus añadiendo el caso paradigmático de **polar fallido**: donde Tolkien y Matrix articulan la conjunción transformadora, Unicorn Wars articula la conjunción venenosa.
 
 
+## Aparato técnico del libro Polaris: arquetipo como eigenvector y cinco dimensiones semióticas
+
+En el directo *Presentación del Libro: Polaris* (14 mar 2025) el canal articula el aparato técnico-metodológico que el libro [[polaris-libro]] desarrolla en torno al mito polar. Tres piezas operativas que la página articulaba como tesis sin formalización metodológica.
+
+### Arquetipo como eigenvector
+
+> "Un arquetipo es como un eigenvector: mantiene la misma estructura independientemente del sistema de coordenadas interpretativo,"
+→ [Presentación del Libro: Polaris (19:28)](https://youtu.be/rLeMS4-XFrA?t=1168)
+
+> "Las estructuras codeterminadas son estructuras polares: forma y fondo solo tienen sentido mutuamente,"
+→ [Presentación del Libro: Polaris (19:28)](https://youtu.be/rLeMS4-XFrA?t=1168)
+
+La pieza precisa la **invariancia estructural** que distingue al arquetipo de un mero motivo cultural recurrente: un arquetipo conserva su forma bajo cambio del sistema interpretativo (mitológico, cognitivo, biológico, vivencial), igual que un eigenvector conserva su dirección bajo aplicación de la transformación lineal correspondiente. La metáfora matemática es operativa: un eigenvector se define por la propiedad de no rotar bajo la transformación — solo escala. Análogamente, un arquetipo no se transforma estructuralmente bajo el cambio de marco interpretativo — solo cambia su intensidad de manifestación (escalado). Las estructuras polares son un caso particular: par de eigenvectores codeterminados donde forma y fondo solo tienen sentido como referencias mutuas, no como entidades independientes.
+
+### Cinco dimensiones semióticas isomórficas como gate de genuinidad arquetípica
+
+> "Las cinco dimensiones son: simbólica, arquetípica, biológica, vivencial y psicológica,"
+→ [Presentación del Libro: Polaris (32:05)](https://youtu.be/rLeMS4-XFrA?t=1925)
+
+> "Una dimensión semiótica es un contexto interpretativo: las coordenadas desde las que se piensa algo demasiado abstracto,"
+→ [Presentación del Libro: Polaris (32:05)](https://youtu.be/rLeMS4-XFrA?t=1925)
+
+> "Un arquetipo es genuino cuando es isomórfico en las cinco dimensiones: mantiene la misma estructura en todas ellas,"
+→ [Presentación del Libro: Polaris (32:05)](https://youtu.be/rLeMS4-XFrA?t=1925)
+
+Las cinco dimensiones funcionan como gate operativo de validación arquetípica. Una estructura cultural reconocible que solo opera en una o dos dimensiones es **motivo** o **convención**, no arquetipo; el arquetipo genuino se reconoce porque la misma estructura aparece coherentemente en las cinco coordenadas: simbólica (signos culturales que lo evocan), arquetípica propiamente dicha (su contenido como forma psíquica reconocible), biológica (sustrato neural-evolutivo que lo sostiene), vivencial (experiencias humanas concretas donde se actualiza), psicológica (operatoria del sujeto que lo ejecuta). El mito polar pasa el gate por aparecer isomórficamente en las cinco: como dipolo simbólico (yin-yang, masculino-femenino), como arquetipo del inconsciente colectivo, como dimorfismo sexual biológico, como experiencia universal de la complementariedad amorosa-cognitiva, como dinámica psíquica de integración interior. La pieza añade en el libro el cierre metodológico que la página dejaba implícito: por qué precisamente el mito polar es **arquetipo genuino** y no solo motivo cultural recurrente.
+
+### Las dos perspectivas de pensamiento como formas polares de la cognición
+
+> "La perspectiva masculina corresponde a la idea concreta, el objeto, lo explícito; la femenina al presupuesto, la memoria afectiva, lo interrelacionado,"
+→ [Presentación del Libro: Polaris (30:04)](https://youtu.be/rLeMS4-XFrA?t=1804)
+
+> "No se refiere a masculino-femenino sexuado sino a formas polares de pensamiento que todos tenemos,"
+→ [Presentación del Libro: Polaris (30:04)](https://youtu.be/rLeMS4-XFrA?t=1804)
+
+> "Los hombres tienden a más masculino arquetípico y las mujeres a más femenino arquetípico, pero ambos coexisten en cada persona,"
+→ [Presentación del Libro: Polaris (30:04)](https://youtu.be/rLeMS4-XFrA?t=1804)
+
+La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: estructuras cognitivas, no biología' añadiendo precisión sobre el contenido específico de cada polo cognitivo: lo masculino opera con ideas concretas, objetos y explícitos; lo femenino con presupuestos, memoria afectiva e interrelaciones implícitas. La distinción no es esencialista pero sí es asimétrica estadísticamente — los hombres tienden al polo masculino arquetípico y las mujeres al femenino, sin que ello impida la coexistencia parcial de ambos polos en cada psique. Esta articulación enlaza con el aparato Q de [[teoria-del-simbolo-en-proxy]]: la perspectiva masculina opera dominantemente con Q sub-f (formal, lo explícito) mientras la femenina opera dominantemente con Q sub-i (imaginario interrelacionado) y Q sub-a (memoria afectiva).
+
+
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Mito polar negativo o fallido -->
@@ -184,6 +226,7 @@ La pieza completa el catálogo de polares del corpus añadiendo el caso paradigm
 - **Distinción entre mito polar y matriarcado/patriarcado**: el polar implica equilibrio; ¿qué relación tiene con sociedades históricas donde un polo domina al otro? El canal toca el tema en otros vídeos pero no lo articula sistemáticamente con el modelo polar
 
 ## Citations
+
 
 
 
@@ -207,4 +250,5 @@ La pieza completa el catálogo de polares del corpus añadiendo el caso paradigm
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
+- **Presentación del Libro: Polaris** — chunks: [32:05](https://youtu.be/rLeMS4-XFrA?t=1925) · [1:23:09](https://youtu.be/rLeMS4-XFrA?t=4989)
 

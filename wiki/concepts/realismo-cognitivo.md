@@ -911,6 +911,39 @@ La pieza cierra con una conexión a [[diagrama-de-proxy]] que articula el sustra
 
 Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhesión ideológica que el diagrama articula como simetría reactiva entre cuadrantes: no se eligen las posiciones por argumento sino que se adhieren por reconocimiento estructural — el carácter prefiere ciertas formas discursivas porque el aparato representacional resuena con ellas, y la posición política se consolida por afinidad cognitiva, no por persuasión racional.
 
+
+## Tres piezas metodológicas: biologicismo de 'adaptativo', no-predecibilidad del suicidio y andamiaje psicoanalítico
+
+En el directo *Por fin* (23 feb 2025) el canal articula tres piezas metodológicas que cierran flancos del marco que la página dejaba implícitos: el rechazo del término 'adaptativo/no adaptativo' como categoría filosófica, la admisión del suicidio como conducta estructuralmente no predecible, y la auto-reflexión de que toda teoría de la mente es 'psicoanalítica' en sentido amplio.
+
+### El rechazo del biologicismo de 'adaptativo'
+
+> "El realismo cognitivo considera que \"adaptativo/no adaptativo\" es un término biologicista sin categoría filosófica válida,"
+→ [Por fin (17:31)](https://youtu.be/7jT13kHNlBA?t=1051)
+
+> "En sentido clínico la adaptación se mide respecto a una media de conductas no dañinas para el individuo y su entorno,"
+→ [Por fin (17:31)](https://youtu.be/7jT13kHNlBA?t=1051)
+
+La pieza refuerza la línea anti-conductista del marco articulada en la sección 'Crítica al conductismo como tautológico': el término 'adaptativo' arrastra ontología biologicista (función evolutiva primaria como criterio de validez) que el realismo cognitivo no acepta como categoría filosófica operativa. En sentido clínico el término sí tiene uso operacional acotado — desviación respecto a una media de conductas no dañinas para el individuo y su entorno — pero esa acotación es estadístico-clínica, no filosófica. La consecuencia: cuando el discurso académico o divulgativo afirma 'la conducta X es adaptativa/no adaptativa' como juicio filosófico-evaluativo, está cometiendo el mismo error categorial que el conductismo al definir conducta apelando a su propio sistema (tautología).
+
+### El suicidio como conducta estructuralmente no predecible
+
+> "El suicidio no se puede predecir: nadie ha encontrado un modelo de predicción, es una conducta que la psicología no puede explicar,"
+→ [Por fin (17:31)](https://youtu.be/7jT13kHNlBA?t=1051)
+
+La pieza opera como caso límite del marco: si la cognición es proceso de re-síntesis continua donde jamás dos N son iguales en toda la historia humana (ver [[teoria-del-simbolo-en-proxy]] sección 'Tesis nuclear'), entonces conductas que dependen de la convergencia de múltiples gradientes afectivos, episódicos y semánticos en un instante específico son estructuralmente impredecibles desde fuera del propio sujeto. El suicidio es el caso paradigmático: ninguna combinación de factores observables externamente predice cuándo la convergencia ocurrirá. La consecuencia metodológica: la psicología clínica que pretende predecir el suicidio mediante escalas de riesgo opera bajo presupuesto reduccionista incompatible con el marco — puede identificar poblaciones de mayor probabilidad estadística pero no eventos individuales. La impredecibilidad no es defecto epistémico solucionable con más datos, es propiedad estructural de la matriz noética.
+
+### Toda teoría de la mente es psicoanalítica en sentido amplio
+
+> "Toda descripción de la mente humana requiere un sistema formal filosófico con términos y relaciones para mapear lo mental,"
+→ [Por fin (49:27)](https://youtu.be/7jT13kHNlBA?t=2967)
+
+> "El realismo cognitivo intenta ir más allá del psicoanálisis, pero toda teoría de la mente es psicoanalítica en tanto necesita ese andamiaje,"
+→ [Por fin (49:27)](https://youtu.be/7jT13kHNlBA?t=2967)
+
+La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanálisis articulada en otras secciones de la página. La pieza precisa que el rechazo del canal NO es al **proyecto** psicoanalítico (mapear lo mental con sistema formal-filosófico de términos y relaciones — eso es inevitable para cualquier teoría de la mente) sino al **contenido específico** del psicoanálisis freudiano (recuerdos reprimidos como fuerza, locus de almacenamiento, metáforas trasladadas de otros ámbitos sin justificar la conexión). El realismo cognitivo es entonces 'psicoanalítico' en el sentido genérico de que mapea lo mental con sistema formal-filosófico — pero usa términos y relaciones que pretende coincidan con la estructura material de la cognición (clases noéticas, componentes Q, ambiguación, UAL) en lugar de importar metáforas (almacén, proyección como cámara oscura, censor). La distinción cierra el flanco metodológico que la sección 'Diálogo con la enactividad de Maturana y Varela' dejaba abierto: el cierre del bucle representación/realidad exige andamiaje formal — el desacuerdo con Freud es sobre qué andamiaje, no sobre la necesidad de tenerlo.
+
+
 "
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
 
@@ -924,6 +957,10 @@ Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhe
 - La distancia ontología / fenomenología se postula como medible, pero no hay propuesta operacional de cómo se mide en casos concretos fuera del ejemplo de longitud de onda vs. color.
 
 ## Citations
+
+
+
+
 
 
 
@@ -971,4 +1008,8 @@ Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhe
 - **Laboratorio de teoría de la mente en biología** — chunks: [20:22](https://youtu.be/i_mVTgnbwHA?t=1222) · [28:28](https://youtu.be/i_mVTgnbwHA?t=1708) · [1:14:19](https://youtu.be/i_mVTgnbwHA?t=4459)
 - **Las piezas que faltan** — chunks: [1:56:17](https://youtu.be/DAW1HiYxnVk?t=6977)
 - **Lo de la Gata, y qué es este canal.** — chunks: [1:06:21](https://youtu.be/aVhd0l1rpqY?t=3981)
+- **Noticias 100tíficas.** — chunks: [34:51](https://youtu.be/VgdybZKruwk?t=2091) · [39:27](https://youtu.be/VgdybZKruwk?t=2367) · [1:54:00](https://youtu.be/VgdybZKruwk?t=6840) · [1:58:22](https://youtu.be/VgdybZKruwk?t=7102)
+- **Por fin** — chunks: [17:31](https://youtu.be/7jT13kHNlBA?t=1051) · [31:42](https://youtu.be/7jT13kHNlBA?t=1902) · [42:19](https://youtu.be/7jT13kHNlBA?t=2539) · [49:27](https://youtu.be/7jT13kHNlBA?t=2967)
+- **Presentación del Libro: Polaris** — chunks: [17:27](https://youtu.be/rLeMS4-XFrA?t=1047)
+- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:54:41](https://youtu.be/UOk344kEeRM?t=6881)
 

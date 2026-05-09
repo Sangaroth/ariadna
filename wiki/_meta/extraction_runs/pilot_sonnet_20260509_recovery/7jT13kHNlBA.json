@@ -1,0 +1,176 @@
+{
+  "video_id": "7jT13kHNlBA",
+  "video_title": "Por fin",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "afectos primarios (buscar, cuidado, apego, terror, pánico) + depresión como descenso afectivo con traducción somática de pánico",
+      "canonical_guess": "afecto-emocion-y-depresion",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 11,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El afecto es el motor neurobiológico primario (buscar, cuidado, apego, terror, pánico); la emoción es su traducción somática,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La traducción somática de la depresión es principalmente pánico: \"nada merece la pena\", afectos derrotistas, deseo de posición fetal,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "La página teoria-de-las-emociones-en-proxy articula la triple distinción emoción/estado-de-ánimo/afecto pero NO lista la taxonomía Panksepp-style de afectos primarios (buscar, cuidado, apego, terror, pánico) que el canal usa como motor neurobiológico, ni articula depresión como descenso afectivo cuya traducción somática específica es pánico. Material genuinamente nuevo que enriquece el aparato afectivo del canal con la pieza primario/secundario y con el caso clínico de la depresión",
+      "quote_evidence": "El afecto es el motor neurobiológico primario (buscar, cuidado, apego, terror, pánico); la emoción es su traducción somática,"
+    },
+    {
+      "surface_form": "biologicismo del término adaptativo + suicidio no predecible + toda teoría de la mente es psicoanalítica",
+      "canonical_guess": "metodologia-realismo-cognitivo-suicidio-y-andamiaje",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El realismo cognitivo considera que \"adaptativo/no adaptativo\" es un término biologicista sin categoría filosófica válida,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El suicidio no se puede predecir: nadie ha encontrado un modelo de predicción, es una conducta que la psicología no puede explicar,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El realismo cognitivo intenta ir más allá del psicoanálisis, pero toda teoría de la mente es psicoanalítica en tanto necesita ese andamiaje,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Tres piezas metodológicas que refinan realismo-cognitivo: (a) la categoría 'adaptativo/no adaptativo' rechazada como término biologicista sin estatuto filosófico válido (refuerza la línea anti-conductista de la página); (b) el suicidio como conducta estructuralmente no predecible que ninguna psicología puede explicar (caso límite del marco); (c) la admisión auto-reflexiva de que toda teoría de la mente es 'psicoanalítica' en sentido amplio (necesita andamiaje formal-filosófico), lo que refina la oposición simple realismo-cognitivo vs psicoanálisis ya documentada. Material metodológico nuevo que enriquece el frente epistemológico del marco",
+      "quote_evidence": "El realismo cognitivo considera que \"adaptativo/no adaptativo\" es un término biologicista sin categoría filosófica válida,"
+    }
+  ],
+  "_doc_promote_new": "No emito promote_new directo. La articulación sostenida sobre depresión/enfermedad mental cumple gate §2.4.1 cuantitativamente (~52 min sustained, 4 signal_marks, 9+ piezas internas) pero el contexto es reactivo (respuesta defensiva a polémica con Minerva Polo) y el formato es stream casual con anécdotas personales intercaladas, no monográfico planificado. Se registra como thesis_candidate con requires_human_validation:true para juicio editorial humano sobre si merece página propia 'enfermedad-mental-en-proxy' o si el material se distribuye entre crisis-de-identidad-en-proxy + teoria-de-las-emociones-en-proxy + realismo-cognitivo via pending_updates",
+  "pending_updates": [
+    {
+      "page_id": "teoria-de-las-emociones-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Conecta hacia adelante con la [[individuation]] (proceso que opera sobre material afectivo integrado) y hacia atrás con el sustrato biológico-evolutivo que el canal asume como real.",
+      "content_proposed": "\n## Afectos primarios (taxonomía Panksepp-style) y la depresión como descenso afectivo\n\nEn el directo *Por fin* (23 feb 2025) el canal articula con precisión la pieza que el aparato emocional de la página dejaba implícita: cuáles son los afectos primarios y cómo se distinguen operacionalmente de las emociones que ya están taxonomizadas.\n\n### Afecto como motor neurobiológico primario\n\n> \"El afecto es el motor neurobiológico primario (buscar, cuidado, apego, terror, pánico); la emoción es su traducción somática,\"\n→ [Por fin (31:42)](https://youtu.be/7jT13kHNlBA?t=1902)\n\nLa pieza precisa la jerarquía operacional que la página articulaba como triple distinción (emoción/estado-de-ánimo/afecto) pero sin nombrar los **primitivos afectivos** del aparato. Los cinco afectos primarios — **buscar**, **cuidado**, **apego**, **terror**, **pánico** — operan como motores neurobiológicos previos a su traducción emocional somática. La taxonomía es congruente con el modelo de Jaak Panksepp (Affective Neuroscience) que el canal usa implícitamente como sustrato neurobiológico para su modelo afectivo, sin atribución explícita en este fragmento. La distinción precisa así la genealogía operativa: el motor afectivo primario es subcortical y filogenéticamente antiguo; la emoción es su elaboración somática-cortical secundaria; el estado de ánimo es la persistencia leve de uno o varios afectos primarios sostenidos en el tiempo.\n\n### La depresión como descenso afectivo con traducción somática de pánico\n\n> \"La depresión es un descenso o ausencia del estado afectivo por el que se carece de motivación, general o local,\"\n→ [Por fin (31:42)](https://youtu.be/7jT13kHNlBA?t=1902)\n\n> \"La traducción somática de la depresión es principalmente pánico: \\\"nada merece la pena\\\", afectos derrotistas, deseo de posición fetal,\"\n→ [Por fin (31:42)](https://youtu.be/7jT13kHNlBA?t=1902)\n\nLa caracterización clínica es operativa para el aparato: la depresión NO es un afecto primario más sino el **descenso o ausencia** del estado afectivo motor — apagón parcial del sistema buscar/cuidado/apego que deja activos los afectos defensivos primarios. La traducción somática que la página teoria-de-las-emociones articulaba como mecanismo general se especifica aquí en el caso clínico: la depresión no se traduce somáticamente como tristeza sostenida (lectura coloquial errónea), sino como **pánico de baja intensidad mantenido** — la sensación de que \"nada merece la pena\", los afectos derrotistas y el repliegue corporal hacia posición fetal son la firma somática del pánico cuando el motor afectivo se ha apagado y solo queda la activación defensiva sin objeto al que defenderse.\n\n### Depresión local vs general como gradación operativa\n\n> \"Se puede estar deprimido en algunos ámbitos de la vida y mantener entusiasmo en otros,\"\n→ [Por fin (37:47)](https://youtu.be/7jT13kHNlBA?t=2267)\n\nLa pieza añade una gradación que la página no documentaba: la depresión opera por dominio, no necesariamente como apagón global. Un sujeto puede tener depresión sostenida en el dominio relacional o profesional mientras mantiene motivación operativa en otro dominio (proyecto, vocación, vínculo específico). La gradación local/general es coherente con la arquitectura matricial del marco — los afectos motores no operan como interruptor único sino como circuitería distribuida que puede apagarse parcialmente.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "timestamp_seconds": 1902,
+          "cite_markdown": "[Por fin (31:42)](https://youtu.be/7jT13kHNlBA?t=1902)"
+        },
+        {
+          "video_id": "7jT13kHNlBA",
+          "timestamp_seconds": 2267,
+          "cite_markdown": "[Por fin (37:47)](https://youtu.be/7jT13kHNlBA?t=2267)"
+        }
+      ],
+      "rationale": "La página articula la triple distinción emoción/estado-de-ánimo/afecto y la pieza de las cinco emociones básicas (Inside Out), pero NO documenta (a) la taxonomía de afectos primarios Panksepp-style que el canal usa como motor neurobiológico, ni (b) la depresión como descenso afectivo cuya traducción somática específica es pánico (no tristeza), ni (c) la gradación local/general de la depresión. La página declara en lagunas 'Tristeza vs depresión' como pieza pendiente — este update cierra parcialmente esa laguna. insert_after_passage al final del cuerpo es editorialmente correcto: añade la nueva sección antes de Lagunas para refinar la teoría afectiva con el caso clínico depresivo",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la posición política se consolida por afinidad cognitiva, no por persuasión racional.",
+      "content_proposed": "\n## Tres piezas metodológicas: biologicismo de 'adaptativo', no-predecibilidad del suicidio y andamiaje psicoanalítico\n\nEn el directo *Por fin* (23 feb 2025) el canal articula tres piezas metodológicas que cierran flancos del marco que la página dejaba implícitos: el rechazo del término 'adaptativo/no adaptativo' como categoría filosófica, la admisión del suicidio como conducta estructuralmente no predecible, y la auto-reflexión de que toda teoría de la mente es 'psicoanalítica' en sentido amplio.\n\n### El rechazo del biologicismo de 'adaptativo'\n\n> \"El realismo cognitivo considera que \\\"adaptativo/no adaptativo\\\" es un término biologicista sin categoría filosófica válida,\"\n→ [Por fin (17:31)](https://youtu.be/7jT13kHNlBA?t=1051)\n\n> \"En sentido clínico la adaptación se mide respecto a una media de conductas no dañinas para el individuo y su entorno,\"\n→ [Por fin (17:31)](https://youtu.be/7jT13kHNlBA?t=1051)\n\nLa pieza refuerza la línea anti-conductista del marco articulada en la sección 'Crítica al conductismo como tautológico': el término 'adaptativo' arrastra ontología biologicista (función evolutiva primaria como criterio de validez) que el realismo cognitivo no acepta como categoría filosófica operativa. En sentido clínico el término sí tiene uso operacional acotado — desviación respecto a una media de conductas no dañinas para el individuo y su entorno — pero esa acotación es estadístico-clínica, no filosófica. La consecuencia: cuando el discurso académico o divulgativo afirma 'la conducta X es adaptativa/no adaptativa' como juicio filosófico-evaluativo, está cometiendo el mismo error categorial que el conductismo al definir conducta apelando a su propio sistema (tautología).\n\n### El suicidio como conducta estructuralmente no predecible\n\n> \"El suicidio no se puede predecir: nadie ha encontrado un modelo de predicción, es una conducta que la psicología no puede explicar,\"\n→ [Por fin (17:31)](https://youtu.be/7jT13kHNlBA?t=1051)\n\nLa pieza opera como caso límite del marco: si la cognición es proceso de re-síntesis continua donde jamás dos N son iguales en toda la historia humana (ver [[teoria-del-simbolo-en-proxy]] sección 'Tesis nuclear'), entonces conductas que dependen de la convergencia de múltiples gradientes afectivos, episódicos y semánticos en un instante específico son estructuralmente impredecibles desde fuera del propio sujeto. El suicidio es el caso paradigmático: ninguna combinación de factores observables externamente predice cuándo la convergencia ocurrirá. La consecuencia metodológica: la psicología clínica que pretende predecir el suicidio mediante escalas de riesgo opera bajo presupuesto reduccionista incompatible con el marco — puede identificar poblaciones de mayor probabilidad estadística pero no eventos individuales. La impredecibilidad no es defecto epistémico solucionable con más datos, es propiedad estructural de la matriz noética.\n\n### Toda teoría de la mente es psicoanalítica en sentido amplio\n\n> \"Toda descripción de la mente humana requiere un sistema formal filosófico con términos y relaciones para mapear lo mental,\"\n→ [Por fin (49:27)](https://youtu.be/7jT13kHNlBA?t=2967)\n\n> \"El realismo cognitivo intenta ir más allá del psicoanálisis, pero toda teoría de la mente es psicoanalítica en tanto necesita ese andamiaje,\"\n→ [Por fin (49:27)](https://youtu.be/7jT13kHNlBA?t=2967)\n\nLa auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanálisis articulada en otras secciones de la página. La pieza precisa que el rechazo del canal NO es al **proyecto** psicoanalítico (mapear lo mental con sistema formal-filosófico de términos y relaciones — eso es inevitable para cualquier teoría de la mente) sino al **contenido específico** del psicoanálisis freudiano (recuerdos reprimidos como fuerza, locus de almacenamiento, metáforas trasladadas de otros ámbitos sin justificar la conexión). El realismo cognitivo es entonces 'psicoanalítico' en el sentido genérico de que mapea lo mental con sistema formal-filosófico — pero usa términos y relaciones que pretende coincidan con la estructura material de la cognición (clases noéticas, componentes Q, ambiguación, UAL) en lugar de importar metáforas (almacén, proyección como cámara oscura, censor). La distinción cierra el flanco metodológico que la sección 'Diálogo con la enactividad de Maturana y Varela' dejaba abierto: el cierre del bucle representación/realidad exige andamiaje formal — el desacuerdo con Freud es sobre qué andamiaje, no sobre la necesidad de tenerlo.\n",
+      "wikilinks_introduced": [
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7jT13kHNlBA",
+          "timestamp_seconds": 1051,
+          "cite_markdown": "[Por fin (17:31)](https://youtu.be/7jT13kHNlBA?t=1051)"
+        },
+        {
+          "video_id": "7jT13kHNlBA",
+          "timestamp_seconds": 2967,
+          "cite_markdown": "[Por fin (49:27)](https://youtu.be/7jT13kHNlBA?t=2967)"
+        }
+      ],
+      "rationale": "La página articula extensamente el marco realista cognitivo y su oposición al psicoanálisis y al conductismo, pero NO documenta (a) el rechazo explícito del término 'adaptativo/no adaptativo' como término biologicista sin categoría filosófica, (b) el suicidio como conducta estructuralmente no predecible (caso límite del marco), ni (c) la auto-reflexión de que el realismo cognitivo es 'psicoanalítico en sentido amplio' (cierra una posible incoherencia entre el rechazo a Freud y la admisión de que toda teoría de la mente requiere andamiaje formal). Tres piezas metodológicas nuevas que enriquecen el frente epistemológico del marco. insert_after_passage al final del cuerpo (antes de Lagunas) es editorialmente correcto",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Polémica con Minerva Polo sobre el tratamiento del suicidio",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura externa (psicóloga divulgadora) usada como detonante coyuntural de la articulación analítica posterior. Acusación de 'ligereza' + intercambio privado vía móvil + denuncia de condescendencia. La polémica en sí es coyuntural y no merece página propia ni enriquecer página existente — lo único editorialmente relevante es que motiva la articulación sustantiva sobre suicidio/depresión que se canaliza a thesis_candidate y pending_updates. La figura de Minerva Polo no está en whitelist y no recibe tratamiento sustantivo — es solo la chispa de la respuesta",
+      "quote_evidence": "Minerva acusó a Proxy de hablar \"con ligereza\" del suicidio sin entender el enfoque del canal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Buceo profesional + cámara hiperbárica + campanas + Abyss",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdotas personales sobre el título de buceo profesional del speaker, la experiencia en cámara hiperbárica a 30m, las 250 horas de buceo profesional + 100 recreativas, soldadura subacuática 3G a 6mm, y la película Abyss como origen del interés. Bloques 05:50 + 07:52 + 09:53 cubren ~9 min de relato personal sin marco teórico aplicado al corpus del canal. La oxigenoterapia hiperbárica como técnica antidepresiva (1:19:25) sí tiene contenido analítico y está incluida en el thesis_candidate",
+      "quote_evidence": "250 horas de buceo profesional completadas más 100 horas de buceo recreativo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Plan B: trabajo subacuático + Ford Transit + exilio fiscal a Portugal",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle del plan vital del speaker hasta octubre: buscar trabajo de soldadura/limpieza/corte/mantenimiento subacuático, comprar furgoneta para vivir y hacer streaming desde cualquier lugar, exiliarse fiscalmente a Portugal. Anécdota personal sin marco aplicado. La vinculación con la depresión (estar deprimido pero entusiasmado con el plan) sí tiene valor analítico y está incluida en el thesis_candidate como pieza de la sección 'tenacidad vs resiliencia'",
+      "quote_evidence": "Comprar una furgoneta Ford Transit para vivir y hacer streaming desde cualquier lugar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Editor a tiempo completo + foro fenomenología del dolor + canal secundario submarinismo",
+      "reason_code": "meta_canal",
+      "reason_detail": "Planes operativos sobre el canal: contratar editor, grabar foro con profesionales, crear canal secundario. Metainformación sobre el proyecto del canal, no contenido enciclopédico. El foro sobre fenomenología del dolor SÍ podría producir vídeo futuro con material relevante para teoria-del-dolor-en-proxy, pero el anuncio en sí no aporta contenido",
+      "quote_evidence": "Busca un editor/a a tiempo completo que gestione edición, shorts y publicaciones de YouTube,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Oxigenoterapia hiperbárica como antidepresivo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Técnica clínica establecida (oxígeno al 40-100% a 3-4 atmósferas) usada como caso ilustrativo del principio 'el antidepresivo es ventana operativa, no eliminación de la depresión'. La técnica en sí es estándar y no merece página propia. La tesis del antidepresivo como ventana SÍ tiene valor analítico y está incluida en el thesis_candidate como pieza terminal del aparato. Si el thesis_candidate se promueve, la oxigenoterapia entra ahí como caso aplicado; si no, quedaría como cita-only en realismo-cognitivo o teoria-del-dolor-en-proxy",
+      "quote_evidence": "La oxigenoterapia hiperbárica (oxígeno al 40-100% a 3-4 atmósferas) tiene efecto antidepresivo temporal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trauma-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 5,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "notes": "Vídeo con articulación sostenida (~52 min) sobre depresión/suicidio/enfermedad mental como respuesta reactiva a polémica con Minerva Polo. El gate cuantitativo de auto-promoción §2.4.1 cumple, pero el contexto reactivo y el formato stream con anécdotas personales intercaladas justifican deferir a juicio editorial humano (requires_human_validation:true). Las piezas metodológicas cross-cutting (afectos primarios Panksepp-style + depresión como pánico; biologicismo de 'adaptativo' + suicidio no predecible + andamiaje psicoanalítico) se canalizan a teoria-de-las-emociones-en-proxy y realismo-cognitivo via pending_updates. El material residual (mente femenina ante enfermedad, amor vs desesperación, aislamiento estratégico, tenacidad vs resiliencia, antidepresivo como ventana) queda en thesis_candidate para revisión humana"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

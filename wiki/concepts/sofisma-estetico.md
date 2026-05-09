@@ -122,6 +122,7 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
@@ -131,4 +132,5 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:29:13](https://youtu.be/DNHgjIgU_-c?t=5353) · [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
 - **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
+- **Primer stream del año** — chunks: [7:50](https://youtu.be/kEgjSN3uKy4?t=470)
 

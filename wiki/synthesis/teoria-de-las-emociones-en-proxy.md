@@ -121,9 +121,78 @@ El canal abre una sección sobre valencia que rompe la asociación habitual entr
 
 La valencia se mide por su función adaptativa, no por su agradabilidad subjetiva. Una emoción displacentera puede ser estructuralmente positiva si cumple su función motivacional. Esto permite al canal recuperar afectos habitualmente proscritos (ira, tristeza, asco) como piezas legítimas de la vida psíquica madura, en línea con la integración de la [[shadow-archetype]].
 
+
+## Instintos fundamentales: el catálogo de seis y el juego como mecanismo mamífero
+
+En el directo *¿Porqué hay categorías masculina y femenina en ajedrez?* (03 ene 2026) el canal articula un catálogo de seis instintos fundamentales que complementa la taxonomía Panksepp-style ya documentada en la sección anterior. Las dos articulaciones operan en planos distintos: la primera sobre afectos primarios como motores neurobiológicos (buscar, cuidado, apego, terror, pánico); esta sobre instintos fundamentales como categorías psicobiológicas más amplias que articulan también la conducta dirigida.
+
+### El catálogo de seis instintos
+
+> "Los afectos corresponden a instintos fundamentales: buscar, reproducirse, crear vínculos, terror a la muerte, ira y juego,"
+→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)
+
+La lista articula seis instintos fundamentales que el canal usa como vocabulario operativo en este vídeo:
+
+- **Buscar** — exploración orientada del entorno (motor de la cognición distribuida)
+- **Reproducirse** — pulsión sexual con su sustrato hormonal específico
+- **Crear vínculos** — constitución de relaciones bivectivas (ver [[vinculo]])
+- **Terror a la muerte** — afecto defensivo ante la amenaza vital
+- **Ira** — activación combativa ante la transgresión o la amenaza
+- **Juego** — exploración representacional sin objeto utilitario inmediato
+
+La coexistencia de las dos taxonomías (Panksepp-style 5-afectos + 6-instintos) no es contradicción sino registro distinto: la primera nombra los **motores neurobiológicos primarios** (sustrato subcortical compartido con vertebrados); la segunda nombra los **instintos fundamentales con contenido conductual** que el aparato afectivo organiza. 'Cuidado' y 'apego' (taxonomía Panksepp) se subsumen en 'crear vínculos' (taxonomía instintiva); 'pánico' se especifica como 'terror a la muerte'; 'reproducirse', 'ira' y 'juego' aparecen aquí como instintos diferenciados con sustrato propio.
+
+### La función 'buscar' precisada
+
+> "La función \"buscar\" no implica buscar objetos sino continuar avanzando para encontrar más de lo que ya se tiene,"
+→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)
+
+> "El reflejo de orientación hace que cuando no hay necesidad alarmante queramos hacer cosas nuevas,"
+→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)
+
+La precisión refina la categoría 'buscar' del marco: no es búsqueda dirigida hacia un objeto faltante (eso sería 'desear' algo concreto) sino **expansión exploratoria** del horizonte ya disponible. El reflejo de orientación es su sustrato neurobiológico — la disposición a movilizarse hacia lo nuevo cuando los afectos defensivos están en reposo. La consecuencia operativa: una psique sin necesidad alarmante activa por defecto la búsqueda exploratoria; el aburrimiento es la fenomenología de buscar sin encontrar material noético novedoso al que aplicarse.
+
+### El juego como conquista mamífera tardía
+
+> "Solo los mamíferos juegan; el juego es el mecanismo instintivo evolutivamente más tardío,"
+→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)
+
+La pieza añade una propiedad evolutiva específica del juego que el resto del aparato afectivo no documentaba: el juego es el instinto **filogenéticamente más reciente** del catálogo, presente solo en mamíferos. La consecuencia teórica para el marco: el juego no es ornamento conductual sino instinto fundamental con sustrato neurobiológico propio, cuya emergencia evolutiva tardía sugiere correlación con la elaboración cortical mamífera. La cognición humana hereda el sustrato instintivo lúdico del linaje mamífero — lo que el canal nombra como 'pensamiento poético' (ver [[pensamiento-poetico]]) y como capacidad de **ambiguación representacional** (ver [[teoria-del-simbolo-en-proxy]]) opera sobre este sustrato lúdico mamífero, no sobre las componentes afectivas más antiguas compartidas con vertebrados primitivos.
+
+
 ## Lugar en el corpus: por qué importa
 
 La teoría de las emociones del canal es **infraestructura**: aparece como introducción psicoeducativa al análisis de [[inside-out-2015-film]] pero opera de fondo en cualquier lectura arquetípica donde haya material afectivo (la mayoría). Las cinco básicas, la valencia y las sinestesias son el vocabulario con que el canal nombra lo que las películas hacen al espectador. Conecta hacia adelante con la [[individuation]] (proceso que opera sobre material afectivo integrado) y hacia atrás con el sustrato biológico-evolutivo que el canal asume como real.
+
+
+## Afectos primarios (taxonomía Panksepp-style) y la depresión como descenso afectivo
+
+En el directo *Por fin* (23 feb 2025) el canal articula con precisión la pieza que el aparato emocional de la página dejaba implícita: cuáles son los afectos primarios y cómo se distinguen operacionalmente de las emociones que ya están taxonomizadas.
+
+### Afecto como motor neurobiológico primario
+
+> "El afecto es el motor neurobiológico primario (buscar, cuidado, apego, terror, pánico); la emoción es su traducción somática,"
+→ [Por fin (31:42)](https://youtu.be/7jT13kHNlBA?t=1902)
+
+La pieza precisa la jerarquía operacional que la página articulaba como triple distinción (emoción/estado-de-ánimo/afecto) pero sin nombrar los **primitivos afectivos** del aparato. Los cinco afectos primarios — **buscar**, **cuidado**, **apego**, **terror**, **pánico** — operan como motores neurobiológicos previos a su traducción emocional somática. La taxonomía es congruente con el modelo de Jaak Panksepp (Affective Neuroscience) que el canal usa implícitamente como sustrato neurobiológico para su modelo afectivo, sin atribución explícita en este fragmento. La distinción precisa así la genealogía operativa: el motor afectivo primario es subcortical y filogenéticamente antiguo; la emoción es su elaboración somática-cortical secundaria; el estado de ánimo es la persistencia leve de uno o varios afectos primarios sostenidos en el tiempo.
+
+### La depresión como descenso afectivo con traducción somática de pánico
+
+> "La depresión es un descenso o ausencia del estado afectivo por el que se carece de motivación, general o local,"
+→ [Por fin (31:42)](https://youtu.be/7jT13kHNlBA?t=1902)
+
+> "La traducción somática de la depresión es principalmente pánico: \"nada merece la pena\", afectos derrotistas, deseo de posición fetal,"
+→ [Por fin (31:42)](https://youtu.be/7jT13kHNlBA?t=1902)
+
+La caracterización clínica es operativa para el aparato: la depresión NO es un afecto primario más sino el **descenso o ausencia** del estado afectivo motor — apagón parcial del sistema buscar/cuidado/apego que deja activos los afectos defensivos primarios. La traducción somática que la página teoria-de-las-emociones articulaba como mecanismo general se especifica aquí en el caso clínico: la depresión no se traduce somáticamente como tristeza sostenida (lectura coloquial errónea), sino como **pánico de baja intensidad mantenido** — la sensación de que "nada merece la pena", los afectos derrotistas y el repliegue corporal hacia posición fetal son la firma somática del pánico cuando el motor afectivo se ha apagado y solo queda la activación defensiva sin objeto al que defenderse.
+
+### Depresión local vs general como gradación operativa
+
+> "Se puede estar deprimido en algunos ámbitos de la vida y mantener entusiasmo en otros,"
+→ [Por fin (37:47)](https://youtu.be/7jT13kHNlBA?t=2267)
+
+La pieza añade una gradación que la página no documentaba: la depresión opera por dominio, no necesariamente como apagón global. Un sujeto puede tener depresión sostenida en el dominio relacional o profesional mientras mantiene motivación operativa en otro dominio (proyecto, vocación, vínculo específico). La gradación local/general es coherente con la arquitectura matricial del marco — los afectos motores no operan como interruptor único sino como circuitería distribuida que puede apagarse parcialmente.
+
 
 ## Lagunas
 

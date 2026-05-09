@@ -99,5 +99,7 @@ El Dr. Muñoz también escribe a redes ocultas de pares, hilo que el directo dej
 ## Citations
 
 
+
 - **Otoño de cuentos. Lovecraft** — chunks: [1:06:01](https://youtu.be/SwEqFdvBI9M?t=3961)
+- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:45:34](https://youtu.be/UOk344kEeRM?t=6334)
 

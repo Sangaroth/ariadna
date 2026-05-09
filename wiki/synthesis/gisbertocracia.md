@@ -90,6 +90,45 @@ El canal aplica el aparato a casos históricos concretos en un directo posterior
 
 - **Imposibilidad estructural de garantizar una transición democrática**: cualquier proceso constituyente que abra el concepto de democracia produce un vacío de poder que es anarquía de facto. La 'transición' suave es un artefacto retórico — estructuralmente, abrir el significado equivale a suspender la regla, y ningún formalismo puede garantizar el resultado material del re-cierre.
 
+
+## La Constitución del 78 como caso operativo: positivismo jurídico aplicado
+
+En el directo *Perro no come Perro* (17 jun 2025) el canal aplica el aparato anti-formalista al régimen constitucional español, mostrando que el positivismo jurídico que la página articula como crítica abstracta opera como dispositivo material activo en la Constitución de 1978.
+
+### El bloque de constitucionalidad como puerta trasera de la reinterpretación
+
+> "La Constitución contiene dentro de sí misma las líneas de código para autodestruirse,"
+→ [Perro no come Perro (52:31)](https://youtu.be/Dv3caRUYzuc?t=3151)
+
+> "El bloque de constitucionalidad permite que el gobierno reinterprete toda la Constitución vía Tribunal Constitucional,"
+→ [Perro no come Perro (52:31)](https://youtu.be/Dv3caRUYzuc?t=3151)
+
+> "Todo lo que está ocurriendo —asalto al poder judicial, cesiones a autonomías, autoamnistía— es perfectamente constitucional,"
+→ [Perro no come Perro (52:31)](https://youtu.be/Dv3caRUYzuc?t=3151)
+
+La pieza es la articulación operativa del positivismo jurídico que la página critica abstractamente: el Tribunal Constitucional es el dispositivo que reinterpreta el texto constitucional según la voluntad del gobierno de turno, lo que convierte la Constitución en función de la mayoría política mas no en su límite. La materialidad del régimen no descansa en el texto sino en quién opera el dispositivo de reinterpretación.
+
+### La democracia española como ficción sostenida por restricción voluntaria
+
+> "Lo único que ha sostenido la democracia española es la confianza en la buena voluntad de los gobernantes,"
+→ [Perro no come Perro (1:06:09)](https://youtu.be/Dv3caRUYzuc?t=3969)
+
+> "No hay democracia real: la Constitución se anula a sí misma a través del bloque de constitucionalidad,"
+→ [Perro no come Perro (1:06:09)](https://youtu.be/Dv3caRUYzuc?t=3969)
+
+La consecuencia diagnóstica refuerza la tesis nuclear de la página: la democracia formal del 78 funcionó durante cuatro décadas porque los actores convinieron tácitamente no usar a fondo los dispositivos de reinterpretación que el texto les permite. Cuando un actor decide explotar las puertas traseras (bloque de constitucionalidad, mayoría reforzada en el TC, lectura sistémica vs literal), el régimen revela su verdadera naturaleza: ficción sostenida por restricción voluntaria de los actores, no estructura jurídica autosostenida. Es la versión aplicada de la imposibilidad estructural ya enunciada en la sección 'Las tres únicas opciones ante el concepto de democracia' — abrir el significado equivale a suspender la regla.
+
+### Materialidad del poder: la fuerza como fundamento
+
+> "Los poderes de la nación emanan del pueblo no significa nada sin fuerza física real,"
+→ [Perro no come Perro (19:50)](https://youtu.be/Dv3caRUYzuc?t=1190)
+
+> "El sistema español es vulnerable a la poética política: palabras como \"democracia\" o \"separación de poderes\" sin contenido material,"
+→ [Perro no come Perro (15:18)](https://youtu.be/Dv3caRUYzuc?t=918)
+
+La pieza articula la categoría de **poesía política** —complementaria al [[sofisma-estetico]]— como dispositivo retórico que vacía conceptos jurídicos de su sustrato material. Donde el sofisma estético opera sobre los valores morales (palabras de virtud sin conducta), la poesía política opera sobre los conceptos jurídico-institucionales: 'democracia', 'separación de poderes', 'soberanía popular' funcionan como significantes evocadores de afecto sin que su materialidad operacional esté garantizada por mecanismo material alguno. La consecuencia para el aparato del marco: el formalismo jurídico de Gisbert opera dentro de este horizonte poético — toma los significantes con su carga afectiva pero los formaliza como si su contenido material estuviese resuelto, cuando precisamente la materialidad del poder reside en quien controla la fuerza física, no en la formalización del texto. La crítica del canal a la 'batalla cultural' (ver [[woke-narrativa-postmoderna-moral]] sección 'La batalla cultural como ilusión') es la consecuencia operativa: el campo cultural es horizonte poético; la disputa real se juega en la materialidad de las palancas institucionales y de la fuerza.
+
+
 ## Citas del vídeo
 
 > "Definición de ideología usada: toda forma de pensamiento que funcione como un mito incompleto, una forma limitada de describir el mundo que incorpora un deber ser."

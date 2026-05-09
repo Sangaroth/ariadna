@@ -111,6 +111,44 @@ En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-202
 → [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)
 
 La precisión articula la asimetría estructural: lo que el canal sostiene como ilusión funcional en humanos (libre albedrío como representación operativa de planificación anticipatoria sobre afectos como ponderadores) carece de equivalente en máquinas porque carecen del sustrato afectivo sobre el que se pondera. La máquina no opera con la ilusión del libre albedrío porque no necesita la representación funcional — su procedimiento de decisión ES el determinismo causal sin disfraz fenomenológico. La consecuencia para [[golem-de-cobre]] es directa: la barrera afectiva ya documentada en esa página opera también en el plano de la decisión — no solo las máquinas no representan ni sienten, tampoco deciden, en el sentido en el que la cognición humana decide.
+
+
+## Voluntad como análisis a posteriori, decisiones afectivas y coherencia como aproximación operativa
+
+En el directo *¿Porqué el amor? Introducción: Libertad y lo que Surja* (16 dic 2024) el canal articula tres piezas que cierran flancos del marco articulado en esta página: el estatuto categorial de la voluntad como reconstrucción retrospectiva, el carácter afectivo de toda decisión, y la sustitución operativa del par voluntad/libertad por coherencia/responsabilidad.
+
+### Voluntad como reconstrucción a posteriori
+
+> "Voluntad, libertad, moral: psicológicamente no son precisas ni responden a una función propia,"
+→ [¿Porqué el amor? Introducción (44:01)](https://youtu.be/Qui4WMSQ99k?t=2641)
+
+> "Voluntad es el resultado por el que entendemos que nuestro impulso está alineado con nuestra expectativa,"
+→ [¿Porqué el amor? Introducción (44:01)](https://youtu.be/Qui4WMSQ99k?t=2641)
+
+> "La voluntad es un análisis a posteriori, no existe a priori como categoría real,"
+→ [¿Porqué el amor? Introducción (1:52:10)](https://youtu.be/Qui4WMSQ99k?t=6730)
+
+La pieza precisa el estatuto categorial que la página articulaba como ilusión funcional: la voluntad no opera **antes** de la acción como facultad que la inicia, sino **después** como reconstrucción narrativa que registra la coincidencia entre impulso ejecutado y expectativa previa. Cuando el impulso coincide con la expectativa, el sujeto le llama 'voluntad'; cuando no coincide, le llama 'imposición' o 'debilidad'. La categoría no nombra una facultad previa al acto sino el juicio retrospectivo sobre la alineación entre impulso y expectativa.
+
+Esta precisión cierra una laguna implícita: la 'ilusión funcional' que la página articula se refiere precisamente a este mecanismo retrospectivo — la mente reconstruye su propia agencia como si hubiera precedido al acto, y esa reconstrucción es funcionalmente operativa aunque categorialmente posterior.
+
+### Decisiones todas afectivas, no racionales
+
+> "Las decisiones son todas afectivas, no racionales; existe la decisión explícita o implícita, pero no la decisión racional,"
+→ [¿Porqué el amor? Introducción (42:01)](https://youtu.be/Qui4WMSQ99k?t=2521)
+
+> "Un tercio de las representaciones mentales son afectos: cosas que queremos o no queremos,"
+→ [¿Porqué el amor? Introducción (42:01)](https://youtu.be/Qui4WMSQ99k?t=2521)
+
+La pieza articula la consecuencia operativa que la sección 'Libre albedrío vs computación' dejaba implícita: si las decisiones humanas se distinguen de las computaciones por su sustrato afectivo (las máquinas no deciden porque no eligen sobre afectos), entonces TODA decisión humana es afectiva — la 'decisión racional' como categoría es ilusión metacognitiva. Lo que el sujeto experimenta como 'decisión racional' es ponderación afectiva donde uno de los términos del cálculo es el afecto 'ser racional', no ausencia de afecto. La distinción operativa que el marco mantiene es **explícita vs implícita** (cuán consciente es el sujeto de los afectos que pondera), no racional vs afectiva.
+
+### Coherencia y conciencia de responsabilidad como aproximación operativa
+
+> "Lo más parecido a voluntad y libertad es la coherencia y la conciencia de responsabilidad,"
+→ [¿Porqué el amor? Introducción (1:52:10)](https://youtu.be/Qui4WMSQ99k?t=6730)
+
+La pieza cierra el flanco de 'Articulación con la responsabilidad moral' que la página declaraba en lagunas. Si la voluntad no opera como facultad a priori y todas las decisiones son afectivas, ¿cómo se sostiene la imputación moral? La respuesta del canal: sustituir el par voluntad/libertad (categorías mitológicas sin función propia operativa) por el par **coherencia/responsabilidad** (categorías operacionales sobre el comportamiento del sujeto en el tiempo). La coherencia mide la consistencia del sujeto entre sus declaraciones, sus afectos y sus actos; la responsabilidad mide su disposición a hacerse cargo de las consecuencias de sus actos. Ambas son verificables fenomenológicamente sin necesidad de invocar una facultad volitiva metafísica. La ilusión funcional del libre albedrío sigue operando — el sujeto experimenta agencia — pero la imputación moral no descansa sobre esa ilusión sino sobre la huella temporal verificable de coherencia y responsabilidad.
+
 ,"
 → [Lunes sin política (2:11:01)](https://youtu.be/r1SmCsNmLh0?t=7861)
 

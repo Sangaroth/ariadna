@@ -338,3 +338,5 @@ El criterio metodológico es **mínimo de framework**: una definición que solo 
 ## Citations
 
 - video_id: `xdT-SCW89cw` — La memoria NO EXISTE. (Y me doxean!!)
+
+- **Noticias 100tíficas** — chunks: [44:34](https://youtu.be/VgdybZKruwk?t=2674) · [1:41:55](https://youtu.be/VgdybZKruwk?t=6115)

@@ -1,0 +1,235 @@
+{
+  "video_id": "kEgjSN3uKy4",
+  "video_title": "Primer stream del año",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Sistema cuádruple de divisiones de la emulación: estereotipia / prototipia / arquetipia / autotipia + simulación vs emulación (paradigma de Turing)",
+      "canonical_guess": "cuadruple-emulacion-y-simulacion-vs-emulacion",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.semiotics",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las cuatro partes de la emulación de la fantasía son estereotipia, prototipia, arquetipia y autotipia,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Una simulación es algo indistinguible del original; una emulación solo reviste la forma estética-imaginaria del original,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El paradigma de Turing establece que una máquina es inteligencia artificial cuando es simulación perfecta de inteligencia humana,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento sustantivo de la cadena articulada en autotipo (arquetipo→prototipo→estereotipo→autotipo) que la página presenta como degradación lineal. La nueva pieza introduce (a) la cuádruple distinción como SISTEMA DE DIVISIONES DE LA EMULACIÓN — categoría más amplia que la cadena de degradación, (b) la distinción operativa SIMULACIÓN vs EMULACIÓN (simulación = indistinguible del original / emulación = solo reviste forma estético-imaginaria), (c) el paradigma de Turing como criterio aplicado, (d) los emuladores de consolas como caso operativo donde la diferencia se ve. Material nuevo metodológico que enriquece autotipo con su aparato técnico subyacente",
+      "quote_evidence": "Las cuatro partes de la emulación de la fantasía son estereotipia, prototipia, arquetipia y autotipia,"
+    },
+    {
+      "surface_form": "Niveles clínicos de simulación: histriónico / Münchhausen / disociativo + excisión como proxy de personalidad temporal + colusión histriónica + Rei Ayanami como anti-perfil",
+      "canonical_guess": "niveles-clinicos-de-simulacion-y-excision-disociativa",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "primary",
+      "minutes_estimate": 22,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El Münchhausen es perfectamente consciente de que miente; el histriónico no se da cuenta de que sobreactúa; el simulador patológico no distingue entre actuar y no actuar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Ante un trauma, la mente abandona sus estructuras afectivas, construye otras y genera un proxy de personalidad temporal,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Si un individuo conoce y reconoce sus diferentes personalidades, no puede haber excisión verdadera porque la excisión exige que una realidad no pueda conocer a la otra,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento sustantivo de tid-personaje-en-proxy: la página articula TID vs personaje y el criterio de prosodia, pero NO documenta (a) el espectro graduado histriónico/Münchhausen/disociativo según la conciencia que el sujeto tiene de su propia simulación, (b) la mecánica específica de la excisión disociativa como proxy de personalidad temporal por trauma (refina el cruce con excision-psicologica que la página apunta sin desarrollar la mecánica), (c) los maskings de psicópatas y autistas como caso de simulación conductual aprendida por solapamiento de problemas de interacción social, (d) las madres Reborn como caso de enacting (compulsión actuada), (e) la colusión y competencia entre histriónicos + Rei Ayanami como anti-perfil paradigmático del histriónico. Material clínico nuevo y articulado que extiende el aparato",
+      "quote_evidence": "El masking es un conjunto de conductas aprendidas que simulan naturalidad en la interacción social,"
+    },
+    {
+      "surface_form": "Distinción operativa ego frágil vs narcisismo genuino",
+      "canonical_guess": "ego-fragil-vs-narcisismo-genuino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La persona de ego frágil está permanentemente alerta de la opinión de los demás; el narcisista genuino da por hecha la admiración,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si se escarba, el ego frágil muestra heridas de abandono y pánico; el narcisista genuino muestra indignación e ira,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento de herida-narcisista-en-proxy con un cuadro diagnóstico complementario: la distinción operativa ego frágil vs narcisismo genuino que la página no documenta. Cuatro criterios discriminantes: (a) atención a la opinión externa (alerta vs dada por hecha), (b) afectos al escarbar (abandono+pánico vs indignación+ira), (c) autoimagen (inferior vs irreal-superior), (d) relación con figuras de seguridad excesiva (endiosamiento vs no). Cierra parcialmente la laguna 'caso reverso' (cómo se manifiesta la herida narcisista en quien internaliza la deuda en lugar de externalizarla) — el ego frágil es esa modalidad complementaria al narcisista herido externalizador",
+      "quote_evidence": "La persona de ego frágil está permanentemente alerta de la opinión de los demás; el narcisista genuino da por hecha la admiración,"
+    }
+  ],
+  "_doc_promote_new": "No emito promote_new directo. El vídeo es stream casual de inicio de año con contenido analítico distribuido en piezas que enriquecen páginas existentes (autotipo, tid-personaje-en-proxy, herida-narcisista-en-proxy) sin constituir tesis monográfica nueva. Las piezas sobre Polaris extendido se canalizan al promote_new_payload de polaris-libro registrado en el vídeo previo del batch (rLeMS4-XFrA)",
+  "pending_updates": [
+    {
+      "page_id": "autotipo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la autotipia no solo es degradación pasiva de material previo, también puede ser fabricación activa cuando un afecto personal infantil se mitologiza sin haber pasado por la mediación arquetípica genuina.",
+      "content_proposed": "\n## Sistema cuádruple de divisiones de la emulación + simulación vs emulación\n\nEn el directo *Primer stream del año* (02 ene 2026) el canal articula el aparato técnico subyacente a la cadena ya documentada (arquetipo→prototipo→estereotipo→autotipo): la cuádruple distinción NO es solo cadena de degradación lineal sino **sistema de divisiones de la emulación de la fantasía**, articulado además sobre la distinción categorial simulación vs emulación.\n\n### Las cuatro partes de la emulación de la fantasía\n\n> \"Las cuatro partes de la emulación de la fantasía son estereotipia, prototipia, arquetipia y autotipia,\"\n→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)\n\nLa pieza precisa que las cuatro categorías no operan solo como cadena temporal de degradación (de la profundidad simbólica a la coincidencia significante-rasgo) sino también como **sistema de modalidades de emulación** que la psique humana opera sobre el material fantástico. Cada modalidad reduce el original a una capa específica:\n\n- **Estereotipia**: reducción a los aspectos imaginarios más fundamentales (la silueta reconocible, los rasgos canónicos)\n- **Prototipia**: instanciación concreta que aún conserva profundidad simbólica\n- **Arquetipia**: estructura psíquica universal con resto inconsciente\n- **Autotipia**: nombre y rasgo coinciden literalmente — desaparece la mediación\n\nLa cadena vertical (degradación) es solo una de las trayectorias posibles dentro del sistema. Otra trayectoria operativa: la **meta-simulación** que el canal observa en TikTok donde los videos imitan estereotipias que ya son imitaciones de lo humano:\n\n> \"Los TikToks que imitan dibujos animados son una meta-simulación: imitan estereotipias que ya son imitaciones de lo humano,\"\n→ [Primer stream del año (44:33)](https://youtu.be/kEgjSN3uKy4?t=2673)\n\n> \"Todas esas imitaciones terminan pareciéndose entre sí porque son coreografías que replican las mismas estereotipias,\"\n→ [Primer stream del año (44:33)](https://youtu.be/kEgjSN3uKy4?t=2673)\n\nLa meta-estereotipia es modalidad nueva: no degradación de material arquetípico previo sino reduplicación de estereotipia ya degradada. El producto resultante converge estructuralmente — todas las imitaciones se parecen entre sí porque comparten el mismo punto de partida estereotípico.\n\n### Simulación vs emulación: la distinción categorial\n\n> \"Una simulación es algo indistinguible del original; una emulación solo reviste la forma estética-imaginaria del original,\"\n→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)\n\n> \"El paradigma de Turing establece que una máquina es inteligencia artificial cuando es simulación perfecta de inteligencia humana,\"\n→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)\n\n> \"Los emuladores de consolas no simulan la consola completa, solo emulan la parte visual-imaginaria que interesa al usuario,\"\n→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)\n\nLa distinción categorial es operativa para todo el aparato del canal sobre cognición y artificialidad: la **simulación** exige indistinguibilidad estructural (criterio Turing — imitar también los procedimientos internos), la **emulación** exige solo cobertura del estrato superficial estético-imaginario que interesa al observador. Los emuladores de consolas (NES, SNES) son caso paradigmático: el emulador NO replica el procesador físico ni la circuitería original, solo produce el output visual-imaginario indistinguible del original para el jugador. La consecuencia para el aparato del canal sobre IA (ver [[golem-de-cobre]] y [[teoria-del-simbolo-en-proxy]]): las IAs generativas operan en el régimen de emulación, no de simulación — producen outputs estético-imaginarios indistinguibles superficialmente sin replicar la mecánica interna de la cognición que pretenden imitar.\n\nLa cuádruple cadena (estereotipia/prototipia/arquetipia/autotipia) opera dentro del régimen de emulación: son modalidades de cómo el material fantástico se elabora sin ser simulado en sentido fuerte. La autotipia es entonces el caso límite donde la emulación se reduce a su mínimo operativo — el significante coincide con el rasgo, no hay capa imaginaria que emular más allá del propio nombre.\n",
+      "wikilinks_introduced": [
+        "golem-de-cobre",
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 2862,
+          "cite_markdown": "[Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)"
+        },
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 2673,
+          "cite_markdown": "[Primer stream del año (44:33)](https://youtu.be/kEgjSN3uKy4?t=2673)"
+        }
+      ],
+      "rationale": "La página articula la cadena arquetipo→prototipo→estereotipo→autotipo como degradación lineal, pero NO documenta (a) las cuatro categorías como SISTEMA DE DIVISIONES DE LA EMULACIÓN, (b) la distinción categorial simulación vs emulación con paradigma de Turing como criterio, (c) los emuladores de consolas como caso operativo de la diferencia, (d) la meta-estereotipia (TikTok) como modalidad nueva que no es degradación sino reduplicación. Material metodológico nuevo que enriquece la cadena con su aparato técnico subyacente. insert_after_passage tras 'Autotipia en mitología New Age' es editorialmente correcto: tras articular dos modalidades operativas (degradación pasiva + fabricación activa) se añade el aparato técnico que las clasifica",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "tid-personaje-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la mente que ha aprendido a partirse para aislar dolor sigue disponiendo de ese mecanismo ante cada nueva confrontación.",
+      "content_proposed": "\n## Espectro graduado histriónico/Münchhausen/disociativo + mecánica de la excisión disociativa\n\nEn el directo *Primer stream del año* (02 ene 2026) el canal articula el espectro graduado de simulación clínica según la conciencia que el sujeto tiene de su propio acto, la mecánica específica de la excisión disociativa como proxy de personalidad temporal, y dos casos clínicos complementarios (masking en psicópatas/autistas, enacting en madres Reborn).\n\n### El espectro graduado por conciencia de la simulación\n\n> \"El Münchhausen es perfectamente consciente de que miente; el histriónico no se da cuenta de que sobreactúa; el simulador patológico no distingue entre actuar y no actuar,\"\n→ [Primer stream del año (58:20)](https://youtu.be/kEgjSN3uKy4?t=3500)\n\n> \"En el síndrome de Münchhausen grave, la persona no solo miente sino que actúa fingiendo que le ocurren cosas hasta parecer un trastorno conversivo,\"\n→ [Primer stream del año (58:20)](https://youtu.be/kEgjSN3uKy4?t=3500)\n\n> \"El trastorno histriónico grave produce maskings y personajes donde la persona real casi nunca se muestra,\"\n→ [Primer stream del año (58:20)](https://youtu.be/kEgjSN3uKy4?t=3500)\n\nLa pieza articula tres niveles graduados según el grado de conciencia que el sujeto conserva sobre su propia simulación:\n\n- **Münchhausen** (conciencia plena): el sujeto sabe que miente y elabora deliberadamente el engaño hasta parecer un trastorno conversivo somático\n- **Histriónico** (conciencia perdida operativamente): el sujeto NO se da cuenta de que sobreactúa — la dramatización opera como conducta automática, los maskings y personajes desplazan a la persona real\n- **Simulador patológico** (frontera disuelta): el sujeto NO distingue entre actuar y no actuar — la simulación deja de ser opción y se convierte en modalidad existencial sin alternativa accesible\n\nEl espectro precisa el aparato anterior de la página: el criterio de prosodia opera como diagnóstico, pero la conciencia del sujeto sobre su propia simulación opera como criterio adicional para discriminar entre cuadros. El histriónico de la TikToker NO es Münchhausen (sería consciente del engaño); es histriónico operando bajo conciencia perdida.\n\n### Falsos diagnósticos de TID y umbral de la mentalización\n\n> \"Hay mucho diagnóstico erróneo de identidad múltiple: simulaciones donde alguien finge un trastorno y casos donde el paciente confunde personajes con personalidades,\"\n→ [Primer stream del año (54:49)](https://youtu.be/kEgjSN3uKy4?t=3289)\n\n> \"En el trastorno disociativo verdadero, el cambio de personalidad es espontáneo, involuntario y el individuo no puede mentalizarlo,\"\n→ [Primer stream del año (54:49)](https://youtu.be/kEgjSN3uKy4?t=3289)\n\n> \"Un acting out es una forma de expresar un conflicto inconsciente mediante una conducta que no se parece al conflicto real,\"\n→ [Primer stream del año (54:49)](https://youtu.be/kEgjSN3uKy4?t=3289)\n\nLa pieza añade un criterio diagnóstico que la página articulaba implícitamente vía prosodia pero no nombraba: la **imposibilidad de mentalización** del cambio de personalidad. En el TID verdadero el cambio es espontáneo, involuntario y el individuo no puede mentalizarlo (no puede pensar 'estoy cambiando de personalidad'). Si el sujeto puede mentalizar el cambio, el cuadro deja de ser disociativo y pasa al espectro histriónico-personaje. El acting out se distingue además como categoría intermedia: expresión de conflicto inconsciente vía conducta que no se parece al conflicto real — no es disociación pero tampoco es comportamiento integrado.\n\n### Mecánica específica de la excisión disociativa\n\n> \"Ante un trauma, la mente abandona sus estructuras afectivas, construye otras y genera un proxy de personalidad temporal,\"\n→ [Primer stream del año (1:12:07)](https://youtu.be/kEgjSN3uKy4?t=4327)\n\n> \"La excisión ocurre cuando esa personalidad proxy no desaparece tras el trauma sino que se queda separada del resto de memorias,\"\n→ [Primer stream del año (1:12:07)](https://youtu.be/kEgjSN3uKy4?t=4327)\n\n> \"Si un individuo conoce y reconoce sus diferentes personalidades, no puede haber excisión verdadera porque la excisión exige que una realidad no pueda conocer a la otra,\"\n→ [Primer stream del año (1:12:07)](https://youtu.be/kEgjSN3uKy4?t=4327)\n\nLa pieza precisa la mecánica específica de la disociación traumática que la página apuntaba como cruce con [[excision-psicologica]] sin desarrollarla:\n\n1. **Fase de trauma**: la mente abandona temporalmente sus estructuras afectivas activas (las que están procesando el dolor traumático intolerable)\n2. **Construcción defensiva**: la mente construye estructuras afectivas alternativas que no contienen el contenido traumático\n3. **Generación de proxy**: emerge una personalidad temporal proxy con esas estructuras alternativas — opera como contenedor afectivo de emergencia\n4. **Excisión propia**: el cuadro deviene TID solo si esa personalidad proxy NO desaparece tras la fase de trauma sino que queda separada del resto de memorias del sujeto, sin canal de comunicación entre ambas\n\nLa condición operativa de la excisión genuina (criterio de irreductibilidad): una realidad no puede conocer a la otra. Si el sujeto puede reconocer sus diferentes personalidades — incluso si no las controla — el cuadro no es excisión disociativa sino otra modalidad (personaje histriónico, acting out, evento disociativo aislado). El criterio cierra el flanco diagnóstico de la página y enlaza directamente con [[excision-psicologica]].\n\n### Masking en psicópatas y autistas: solapamiento por problema común\n\n> \"El masking es un conjunto de conductas aprendidas que simulan naturalidad en la interacción social,\"\n→ [Primer stream del año (52:16)](https://youtu.be/kEgjSN3uKy4?t=3136)\n\n> \"Psicópatas y autistas se solapan en el masking porque ambos tienen problemas similares de interacción social,\"\n→ [Primer stream del año (52:16)](https://youtu.be/kEgjSN3uKy4?t=3136)\n\n> \"La diferencia entre simulación y emulación es que la simulación incluye la imitación mecánica de procedimientos internos, no solo lo estético,\"\n→ [Primer stream del año (52:16)](https://youtu.be/kEgjSN3uKy4?t=3136)\n\nLa pieza articula el masking como caso clínico de **simulación conductual aprendida** que cuadros tan distintos como psicopatía y autismo comparten por convergencia funcional: ambos enfrentan el mismo problema operativo (interacción social que no fluye espontáneamente) y desarrollan respuestas conductuales similares (conjunto de conductas aprendidas que simulan naturalidad). El solapamiento NO indica parentesco etiológico entre los cuadros — son dos vías muy distintas que llevan al mismo dispositivo defensivo. El masking opera en el régimen de emulación (forma estético-conductual indistinguible) sin alcanzar simulación (que exigiría replicar también los procedimientos internos espontáneos del que NO tiene el problema).\n\n### Madres Reborn: el enacting como compulsión actuada\n\n> \"Las madres Reborn son mujeres que juegan a ser madres con muñecos de duelo perinatal y lo graban para TikTok,\"\n→ [Primer stream del año (1:06:02)](https://youtu.be/kEgjSN3uKy4?t=3962)\n\n> \"El enacting es un actuar del que el individuo es tan dependiente que funciona como una compulsión,\"\n→ [Primer stream del año (1:06:02)](https://youtu.be/kEgjSN3uKy4?t=3962)\n\n> \"El cringe (vergüenza ajena) es lo que está antes del uncanny valley en el espectro de la incomodidad ante la artificialidad,\"\n→ [Primer stream del año (1:06:02)](https://youtu.be/kEgjSN3uKy4?t=3962)\n\nLa pieza añade una categoría adicional al espectro de simulación: el **enacting** como actuar compulsivo que el sujeto no puede no hacer. Las madres Reborn son caso paradigmático — la simulación de maternidad con muñecos de duelo perinatal y su difusión en TikTok no es elección estética ni performance consciente sino compulsión actuada. La categoría se diferencia del histriónico (sobreactúa sin saberlo) y del Münchhausen (engaña sabiéndolo): el enacting es necesidad de actuar que el sujeto experimenta como ineludible. La pieza añade además un mapa fenomenológico complementario: el cringe (vergüenza ajena ante artificialidad superable) opera antes del uncanny valley (incomodidad ante artificialidad estructuralmente perturbadora) en el espectro de respuestas a la simulación fallida.\n\n### Colusión y competencia entre histriónicos + Rei Ayanami como anti-perfil\n\n> \"Dos histriónicos pueden desarrollar una colusión donde sus personajes se complementan y ambos se sienten cómodos y seguros,\"\n→ [Primer stream del año (1:17:09)](https://youtu.be/kEgjSN3uKy4?t=4629)\n\n> \"También pueden competir ferozmente cuando ambos quieren ser la abeja reina del grupo, generando conflictos muy intensos,\"\n→ [Primer stream del año (1:17:09)](https://youtu.be/kEgjSN3uKy4?t=4629)\n\n> \"Lo que más odia un histriónico es un perfil tipo Rei Ayanami: alguien esquizoide, inexpresivo, que no responde a la dramatización,\"\n→ [Primer stream del año (1:17:09)](https://youtu.be/kEgjSN3uKy4?t=4629)\n\nLa pieza articula la mecánica relacional entre histriónicos y identifica el anti-perfil paradigmático que los desestabiliza. La colusión positiva entre histriónicos opera por complementariedad de personajes (ambos sienten cómoda la dramatización mutua). La competencia destructiva opera cuando ambos pretenden ocupar la misma posición central — lucha por la abeja reina con conflictos muy intensos. El anti-perfil es Rei Ayanami (referencia a Evangelion): el esquizoide inexpresivo cuya no-respuesta a la dramatización opera como espejo neutro que refleja la artificialidad del histriónico sin contraparte que la valide. La consecuencia operativa para [[colusion-heroe-ninfa]]: las colusiones entre cuadros inmaduros del cluster B se rigen por las mismas leyes — colusión positiva por complementariedad funcional, colusión negativa por dependencia mutua del trastorno, anti-perfil que rompe el espejo simbólico necesario para sostener el cuadro.\n",
+      "wikilinks_introduced": [
+        "excision-psicologica",
+        "colusion-heroe-ninfa"
+      ],
+      "citations_added": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 3500,
+          "cite_markdown": "[Primer stream del año (58:20)](https://youtu.be/kEgjSN3uKy4?t=3500)"
+        },
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 3289,
+          "cite_markdown": "[Primer stream del año (54:49)](https://youtu.be/kEgjSN3uKy4?t=3289)"
+        },
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 4327,
+          "cite_markdown": "[Primer stream del año (1:12:07)](https://youtu.be/kEgjSN3uKy4?t=4327)"
+        },
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 3136,
+          "cite_markdown": "[Primer stream del año (52:16)](https://youtu.be/kEgjSN3uKy4?t=3136)"
+        },
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 3962,
+          "cite_markdown": "[Primer stream del año (1:06:02)](https://youtu.be/kEgjSN3uKy4?t=3962)"
+        },
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 4629,
+          "cite_markdown": "[Primer stream del año (1:17:09)](https://youtu.be/kEgjSN3uKy4?t=4629)"
+        }
+      ],
+      "rationale": "La página articula TID vs personaje, criterio de prosodia, hipótesis de disociaciones secundarias, y relectura de Fight Club/Memento, pero NO documenta (a) el espectro graduado histriónico/Münchhausen/disociativo según conciencia de la simulación, (b) el criterio de imposibilidad de mentalización como diagnóstico operativo del TID verdadero, (c) la mecánica específica de la excisión disociativa como proxy de personalidad temporal por trauma con condición de irreductibilidad, (d) el masking en psicópatas y autistas como solapamiento por problema común, (e) el enacting (madres Reborn) como categoría compulsiva, (f) la colusión y competencia entre histriónicos con Rei Ayanami como anti-perfil. Material clínico extensamente nuevo que cierra varios flancos del aparato. insert_after_passage tras 'Hipótesis sobre las disociaciones secundarias como parches' es editorialmente correcto: tras la hipótesis de capas defensivas se añade el espectro graduado completo y los criterios diagnósticos refinados",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "junto a la transferencia hacia el acosador y la colusión negativa de la víctima ya documentadas, queda una tercera modalidad: el blindaje intelectual de la posición propia como propiedad del yo.",
+      "content_proposed": "\n## Ego frágil vs narcisismo genuino: cuadro complementario y caso reverso\n\nEn el directo *Primer stream del año* (02 ene 2026) el canal articula la distinción operativa entre **ego frágil** y **narcisismo genuino** — cuadro complementario que cierra parcialmente la laguna 'caso reverso' declarada en la página (cómo se manifiesta la herida narcisista en quien NO se vuelve acosador externalizador sino que internaliza la deuda).\n\n### Cuatro criterios discriminantes\n\n> \"La persona de ego frágil está permanentemente alerta de la opinión de los demás; el narcisista genuino da por hecha la admiración,\"\n→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)\n\n> \"Si se escarba, el ego frágil muestra heridas de abandono y pánico; el narcisista genuino muestra indignación e ira,\"\n→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)\n\n> \"El narcisista tiene una autoimagen irreal pero responde a ella de forma genuina; la persona de ego frágil tiene una autoimagen inferior a lo que realmente es,\"\n→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)\n\n> \"Personas con ego frágil caen fácilmente en endiosamientos de figuras excesivamente seguras de sí mismas,\"\n→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)\n\nLos cuatro criterios articulan dos cuadros estructuralmente opuestos pese a confundirse popularmente:\n\n| Criterio | Ego frágil | Narcisismo genuino |\n|---|---|---|\n| Atención a la opinión externa | Permanentemente alerta | Da por hecha la admiración |\n| Afectos al escarbar | Abandono + pánico | Indignación + ira |\n| Autoimagen | Inferior a la realidad | Irreal pero superior |\n| Relación con figuras seguras | Endiosamiento | Competencia o rechazo |\n\n### El ego frágil como caso reverso de la herida narcisista externalizadora\n\nLa pieza cierra parcialmente la laguna 'caso reverso' declarada en la sección de lagunas. La herida narcisista, en su modalidad externalizadora, opera como acosador prolongado que transfiere la deuda al mundo (rencor con intereses, transferencia hacia figuras que pagan por una cuenta que no abrieron, colusión negativa de la víctima). El ego frágil opera como **modalidad reversa**: el sujeto internaliza la deuda en lugar de externalizarla. La herida es la misma — daño no reparado del progenitor o figura originaria que dejó al sujeto sin operación arquetípica de validación. La diferencia operativa está en la dirección del cobro: el narcisista herido externalizador exige al mundo; el ego frágil exige a sí mismo (autoexigencia inalcanzable, autoimagen permanentemente inferior, alerta crónica a la opinión externa como mecanismo de búsqueda de la validación que el progenitor no dio).\n\nLa propensión al endiosamiento de figuras excesivamente seguras articula además la mecánica de captura: el ego frágil busca en la figura segura la operación arquetípica de validación que le falta. Esto enlaza con [[psicologia-del-activista-en-proxy]] sección 'La técnica de elevación tipo secta' — los reclutadores políticos que 'hacen creer a jóvenes que valen como persona' operan precisamente sobre el reservorio de egos frágiles que buscan la validación arquetípica que no recibieron en la genealogía paterna.\n\nLa consecuencia diagnóstica completa el cuadro: ambas modalidades (externalizadora y reversa) comparten origen — la falta de validación paterna como héroe (ver sección 'La herida de padre como origen del narcisismo patológico') — pero divergen operativamente. El narcisista externalizador se construye una autoimagen irreal superior y la sostiene atacando a quien no la confirma; el ego frágil se construye una autoimagen inferior y la sostiene buscando confirmación constante. Las dos son respuestas a la misma carencia originaria — diferencias no etiológicas sino operativas.\n",
+      "wikilinks_introduced": [
+        "psicologia-del-activista-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "kEgjSN3uKy4",
+          "timestamp_seconds": 5139,
+          "cite_markdown": "[Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)"
+        }
+      ],
+      "rationale": "La página articula extensivamente la herida narcisista como cuadro externalizador (acosador prolongado, transferencia, colusión negativa, cabezonería, variante autoridad, empoderamiento como dispositivo terminal en Frozen) pero declara explícitamente como laguna el 'caso reverso: cómo se manifiesta la herida narcisista en quien NO se vuelve acosador sino que internaliza la deuda como autodestrucción'. La distinción operativa ego frágil vs narcisismo genuino con cuatro criterios diagnósticos cierra parcialmente esa laguna articulando el cuadro complementario internalizador. Material nuevo que completa la dialéctica del cuadro. insert_after_passage tras 'Cabezonería como cuadro tipológico' es editorialmente correcto: tras articular las modalidades de externalización (acoso, cabezonería, autoridad), se añade la modalidad reversa de internalización",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Anug Bost / Grock / IA y desnudez + virtue signaling sobre cada innovación tecnológica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica al virtue signaling progresista ante innovación tecnológica usando como caso a Anug Bost (figura externa coyuntural) y Grock (IA de xAI con polémica sobre generación de imágenes). El argumento estructural ('usar imagen para denigrar siempre fue ilegal, no es nuevo por la IA' + 'Twitter es red privada para adultos no espacio público' + 'cultura sana se elabora por razonamiento moral, no por censura') refuerza tesis ya documentadas en woke-narrativa-postmoderna-moral y sofisma-estetico. La figura Anug Bost no merece página propia. Cita marginal — el contenido analítico ya está cubierto",
+      "quote_evidence": "El escándalo progresista ante cada innovación tecnológica es moralina, no razonamiento moral,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Polaris extendido planificado + cambio de orden expositivo + ampliación de corrupciones",
+      "reason_code": "meta_canal",
+      "reason_detail": "Información operativa sobre la próxima edición ampliada de Polaris (ediciones, cambio de orden expositivo poniendo mito del Dios y la diosa después del solar/lunar, ampliación de corrupciones postmodernas, más diagramas, no será cuarta edición sino 'extendido'). Es metadata útil para el page entity_work polaris-libro promovido en el vídeo previo del batch (rLeMS4-XFrA), no contenido enciclopédico. Se canaliza al promote_new_payload de polaris-libro como nota sobre extensión planificada",
+      "quote_evidence": "Será un \"Polaris extendido\" con más diagramas, no una cuarta edición,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cuando la edición extendida se publique, la página polaris-libro debe actualizarse con la metadata editorial de la nueva versión (cambios de orden, secciones añadidas, número de páginas final)",
+      "enriches_concept": "polaris-libro"
+    },
+    {
+      "surface_form": "Nuevo trabajo: técnico especialista Hot Tap / Stop Flow + buzo soldador",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal del speaker sobre nuevo puesto laboral en operaciones hiperbáricas (Hot Tap = técnica de empalme en tubería bajo presión sin interrumpir flujo; Stop Flow = aislamiento temporal del flujo). Continuación del 'Plan B' personal articulado en otros vídeos del batch. Sin marco teórico aplicado al corpus del canal — solo trayectoria profesional",
+      "quote_evidence": "El puesto es de técnico especialista en soldadura para operaciones de Hot Tap y Stop Flow sobre tuberías a presión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Uncanny Valley + teoría de la mente psicológica + reconocimiento de caras",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza analítica sobre el uncanny valley (incomodidad ante simulación antropomórfica fallida) y la teoría de la mente en sentido psicológico (función de reconocer cuándo se interactúa con otra mente). El concepto está ya parcialmente cubierto en golem-de-cobre y en teoria-del-simbolo-en-proxy. La articulación específica 'personas con anomalías mentales graves siguen siendo reconocibles como humanas' es interesante pero corta — no merece pending_update sustantivo. Si reaparece con desarrollo, podría enriquecer golem-de-cobre",
+      "quote_evidence": "El uncanny valley es la sensación de incomodidad ante una simulación antropomórfica que falla en emular lo humano,",
+      "review_priority": "medium",
+      "review_priority_reason": "El cringe como precursor del uncanny valley en el espectro de la incomodidad ante artificialidad sí está incluido en el pending_update a tid-personaje-en-proxy. La articulación más amplia de la teoría de la mente psicológica como reconocimiento de otra mente queda pendiente para futuros vídeos donde se desarrolle",
+      "enriches_concept": "golem-de-cobre"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 4,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "notes": "Stream casual (~95 min) de inicio de año con tres bloques analíticos densos sobre simulación, identidad disociativa y narcisismo. Los tres se canalizan como pending_updates sustantivos a páginas existentes (autotipo, tid-personaje-en-proxy, herida-narcisista-en-proxy). El pending_update a tid-personaje-en-proxy es especialmente extenso — cierra varios flancos diagnósticos (espectro histriónico/Münchhausen/disociativo, mecánica de excisión disociativa, masking, enacting, colusión histriónica). El pending_update a herida-narcisista-en-proxy cierra la laguna explícitamente declarada 'caso reverso' con la distinción ego frágil vs narcisismo genuino. Polaris extendido se canaliza como nota a polaris-libro (promovido en el vídeo previo del batch). Anécdota personal del nuevo trabajo descartada como personal_anecdote"
+  }
+}

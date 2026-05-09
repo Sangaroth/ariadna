@@ -173,6 +173,43 @@ La pieza herida-narcisista del cuadro opera en plano cognitivo: la idea defendid
 La cabezonería es persistencia rígida ligada al yo; la impulsividad es descarga afectiva sin objeto fijo. La pieza añade al cuadro clínico una manifestación cognitivo-rigidizadora del narcisismo herido — junto a la transferencia hacia el acosador y la colusión negativa de la víctima ya documentadas, queda una tercera modalidad: el blindaje intelectual de la posición propia como propiedad del yo.
 
 
+## Ego frágil vs narcisismo genuino: cuadro complementario y caso reverso
+
+En el directo *Primer stream del año* (02 ene 2026) el canal articula la distinción operativa entre **ego frágil** y **narcisismo genuino** — cuadro complementario que cierra parcialmente la laguna 'caso reverso' declarada en la página (cómo se manifiesta la herida narcisista en quien NO se vuelve acosador externalizador sino que internaliza la deuda).
+
+### Cuatro criterios discriminantes
+
+> "La persona de ego frágil está permanentemente alerta de la opinión de los demás; el narcisista genuino da por hecha la admiración,"
+→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)
+
+> "Si se escarba, el ego frágil muestra heridas de abandono y pánico; el narcisista genuino muestra indignación e ira,"
+→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)
+
+> "El narcisista tiene una autoimagen irreal pero responde a ella de forma genuina; la persona de ego frágil tiene una autoimagen inferior a lo que realmente es,"
+→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)
+
+> "Personas con ego frágil caen fácilmente en endiosamientos de figuras excesivamente seguras de sí mismas,"
+→ [Primer stream del año (1:25:39)](https://youtu.be/kEgjSN3uKy4?t=5139)
+
+Los cuatro criterios articulan dos cuadros estructuralmente opuestos pese a confundirse popularmente:
+
+| Criterio | Ego frágil | Narcisismo genuino |
+|---|---|---|
+| Atención a la opinión externa | Permanentemente alerta | Da por hecha la admiración |
+| Afectos al escarbar | Abandono + pánico | Indignación + ira |
+| Autoimagen | Inferior a la realidad | Irreal pero superior |
+| Relación con figuras seguras | Endiosamiento | Competencia o rechazo |
+
+### El ego frágil como caso reverso de la herida narcisista externalizadora
+
+La pieza cierra parcialmente la laguna 'caso reverso' declarada en la sección de lagunas. La herida narcisista, en su modalidad externalizadora, opera como acosador prolongado que transfiere la deuda al mundo (rencor con intereses, transferencia hacia figuras que pagan por una cuenta que no abrieron, colusión negativa de la víctima). El ego frágil opera como **modalidad reversa**: el sujeto internaliza la deuda en lugar de externalizarla. La herida es la misma — daño no reparado del progenitor o figura originaria que dejó al sujeto sin operación arquetípica de validación. La diferencia operativa está en la dirección del cobro: el narcisista herido externalizador exige al mundo; el ego frágil exige a sí mismo (autoexigencia inalcanzable, autoimagen permanentemente inferior, alerta crónica a la opinión externa como mecanismo de búsqueda de la validación que el progenitor no dio).
+
+La propensión al endiosamiento de figuras excesivamente seguras articula además la mecánica de captura: el ego frágil busca en la figura segura la operación arquetípica de validación que le falta. Esto enlaza con [[psicologia-del-activista-en-proxy]] sección 'La técnica de elevación tipo secta' — los reclutadores políticos que 'hacen creer a jóvenes que valen como persona' operan precisamente sobre el reservorio de egos frágiles que buscan la validación arquetípica que no recibieron en la genealogía paterna.
+
+La consecuencia diagnóstica completa el cuadro: ambas modalidades (externalizadora y reversa) comparten origen — la falta de validación paterna como héroe (ver sección 'La herida de padre como origen del narcisismo patológico') — pero divergen operativamente. El narcisista externalizador se construye una autoimagen irreal superior y la sostiene atacando a quien no la confirma; el ego frágil se construye una autoimagen inferior y la sostiene buscando confirmación constante. Las dos son respuestas a la misma carencia originaria — diferencias no etiológicas sino operativas.
+
+
+
 
 ## Frozen como representación velada del cuadro: el empoderamiento como dispositivo narrativo
 

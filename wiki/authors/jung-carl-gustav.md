@@ -183,6 +183,8 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 
 
 
+
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 - **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:09:06](https://youtu.be/cbfhVqYDbdE?t=4146)
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
@@ -193,4 +195,6 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [21:06](https://youtu.be/Dtp1_RLb7S0?t=1266)
 - **Análisis arquetípico La Bruja** — chunks: [10:25](https://youtu.be/rRlks0e0oxU?t=625)
 - **Directo casual** — chunks: [40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
+- **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:02:47](https://youtu.be/Qui4WMSQ99k?t=3767)
+- **Presentación del Libro: Polaris** — chunks: [17:27](https://youtu.be/rLeMS4-XFrA?t=1047)
 

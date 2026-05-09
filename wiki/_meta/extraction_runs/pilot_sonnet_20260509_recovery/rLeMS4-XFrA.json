@@ -1,0 +1,276 @@
+{
+  "video_id": "rLeMS4-XFrA",
+  "video_title": "Presentación del Libro: Polaris",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "arquetipo como eigenvector + cinco dimensiones semióticas isomórficas",
+      "canonical_guess": "arquetipo-como-eigenvector-y-cinco-dimensiones-semioticas",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Un arquetipo es como un eigenvector: mantiene la misma estructura independientemente del sistema de coordenadas interpretativo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Las cinco dimensiones son: simbólica, arquetípica, biológica, vivencial y psicológica,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Un arquetipo es genuino cuando es isomórfico en las cinco dimensiones: mantiene la misma estructura en todas ellas,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento metodológico del concepto de arquetipo articulado en mito-polar y collective-unconscious. La página mito-polar articula el polar como mito primario pero NO documenta (a) la definición técnica del arquetipo como eigenvector (estructura invariante bajo cambio de sistema de coordenadas interpretativo), ni (b) el criterio operativo de cinco dimensiones semióticas isomórficas (simbólica, arquetípica, biológica, vivencial, psicológica) como gate para considerar un arquetipo como genuino, ni (c) la articulación canal-específica de las dos perspectivas de pensamiento (masculina concreta-objetual / femenina presupuesto-interrelacionado) como formas polares de la cognición presentes en toda psique. Material metodológico nuevo que enriquece mito-polar con su aparato técnico subyacente",
+      "quote_evidence": "Un arquetipo es como un eigenvector: mantiene la misma estructura independientemente del sistema de coordenadas interpretativo,"
+    },
+    {
+      "surface_form": "triple diosa + gracia/belleza/esperanza encadenadas + influencia hipnótica + permanecer incólume ante el mal",
+      "canonical_guess": "triple-diosa-virtudes-encadenadas-y-misterio-hipnotico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 9,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las virtudes van encadenadas en orden: sin gracia la belleza no es tanto, sin belleza la esperanza no es tanto,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La diosa blanca tiene una influencia hipnótica sobre los hombres y especialmente sobre el varón,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamientos sustantivos a diosa-blanca: (a) la cadena ordenada gracia → belleza → esperanza (sin gracia la belleza queda mermada, sin belleza la esperanza queda mermada) explicita una jerarquía interna que la página articulaba como tripartición horizontal sin orden de derivación; (b) la influencia hipnótica de la diosa blanca sobre el varón como propiedad operativa específica del arquetipo (no solo virtudes pasivas); (c) la naturaleza del cambio circular como compartida por todas las diosas frente a lo masculino individuado y descendido; (d) permanecer incólume e inmaculada incluso al mirar a los ojos al mal como propiedad estructural distintiva. Material nuevo del libro Polaris que cierra parcialmente la laguna 'Declinaciones culturales contemporáneas' añadiendo la dimensión psico-operativa del arquetipo",
+      "quote_evidence": "Las virtudes van encadenadas en orden: sin gracia la belleza no es tanto, sin belleza la esperanza no es tanto,"
+    },
+    {
+      "surface_form": "mutabilidad de lo femenino + cuatro vidas del mito lunar como privilegio arquetípico",
+      "canonical_guess": "mutabilidad-femenina-y-cuatro-vidas-mito-lunar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo femenino se caracteriza por la mutación entre cuatro estados: tres son una y una son tres,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las cuatro vidas del mito lunar son experiencias exclusivas de lo femenino, su privilegio arquetípico,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento de mito-lunar: la página articula las cinco fases del ciclo (despertar/creación/caída/luna-roja/exorcismo) y la mecánica de descenso-rescate-ascenso, pero NO documenta la pieza estructural de la mutabilidad femenina como rasgo característico del mito lunar (mutación entre cuatro estados, fórmula 'tres son una y una son tres' que articula la triple diosa con la unidad subyacente), ni el privilegio arquetípico de las cuatro vidas como exclusividad de lo femenino frente a la individuación masculina descendida. Material nuevo del libro Polaris que cierra parcialmente la laguna 'Desarrollo de cada fase' al añadir la propiedad de mutabilidad como rasgo transversal del ciclo",
+      "quote_evidence": "Lo femenino cambia para adaptarse al mundo, a diferencia de lo masculino que está individuado,"
+    }
+  ],
+  "_doc_promote_new": "Sí emito promote_new: el libro Polaris merece página entity_work propia análoga a del-origen-del-mal-libro. El vídeo es presentación monográfica con ~80 min sostenidos sobre estructura interna, capítulos, tesis central, citas literales del propio libro. Per §2.3 cumple 'análisis dedicado ≥30 min' Y 'caso canónico de concepto promovido' (mito-polar). Las piezas analíticas refinatorias se canalizan como pending_updates a mito-polar, diosa-blanca y mito-lunar",
+  "pending_updates": [
+    {
+      "page_id": "mito-polar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "donde Tolkien y Matrix articulan la conjunción transformadora, Unicorn Wars articula la conjunción venenosa.",
+      "content_proposed": "\n## Aparato técnico del libro Polaris: arquetipo como eigenvector y cinco dimensiones semióticas\n\nEn el directo *Presentación del Libro: Polaris* (14 mar 2025) el canal articula el aparato técnico-metodológico que el libro [[polaris-libro]] desarrolla en torno al mito polar. Tres piezas operativas que la página articulaba como tesis sin formalización metodológica.\n\n### Arquetipo como eigenvector\n\n> \"Un arquetipo es como un eigenvector: mantiene la misma estructura independientemente del sistema de coordenadas interpretativo,\"\n→ [Presentación del Libro: Polaris (19:28)](https://youtu.be/rLeMS4-XFrA?t=1168)\n\n> \"Las estructuras codeterminadas son estructuras polares: forma y fondo solo tienen sentido mutuamente,\"\n→ [Presentación del Libro: Polaris (19:28)](https://youtu.be/rLeMS4-XFrA?t=1168)\n\nLa pieza precisa la **invariancia estructural** que distingue al arquetipo de un mero motivo cultural recurrente: un arquetipo conserva su forma bajo cambio del sistema interpretativo (mitológico, cognitivo, biológico, vivencial), igual que un eigenvector conserva su dirección bajo aplicación de la transformación lineal correspondiente. La metáfora matemática es operativa: un eigenvector se define por la propiedad de no rotar bajo la transformación — solo escala. Análogamente, un arquetipo no se transforma estructuralmente bajo el cambio de marco interpretativo — solo cambia su intensidad de manifestación (escalado). Las estructuras polares son un caso particular: par de eigenvectores codeterminados donde forma y fondo solo tienen sentido como referencias mutuas, no como entidades independientes.\n\n### Cinco dimensiones semióticas isomórficas como gate de genuinidad arquetípica\n\n> \"Las cinco dimensiones son: simbólica, arquetípica, biológica, vivencial y psicológica,\"\n→ [Presentación del Libro: Polaris (32:05)](https://youtu.be/rLeMS4-XFrA?t=1925)\n\n> \"Una dimensión semiótica es un contexto interpretativo: las coordenadas desde las que se piensa algo demasiado abstracto,\"\n→ [Presentación del Libro: Polaris (32:05)](https://youtu.be/rLeMS4-XFrA?t=1925)\n\n> \"Un arquetipo es genuino cuando es isomórfico en las cinco dimensiones: mantiene la misma estructura en todas ellas,\"\n→ [Presentación del Libro: Polaris (32:05)](https://youtu.be/rLeMS4-XFrA?t=1925)\n\nLas cinco dimensiones funcionan como gate operativo de validación arquetípica. Una estructura cultural reconocible que solo opera en una o dos dimensiones es **motivo** o **convención**, no arquetipo; el arquetipo genuino se reconoce porque la misma estructura aparece coherentemente en las cinco coordenadas: simbólica (signos culturales que lo evocan), arquetípica propiamente dicha (su contenido como forma psíquica reconocible), biológica (sustrato neural-evolutivo que lo sostiene), vivencial (experiencias humanas concretas donde se actualiza), psicológica (operatoria del sujeto que lo ejecuta). El mito polar pasa el gate por aparecer isomórficamente en las cinco: como dipolo simbólico (yin-yang, masculino-femenino), como arquetipo del inconsciente colectivo, como dimorfismo sexual biológico, como experiencia universal de la complementariedad amorosa-cognitiva, como dinámica psíquica de integración interior. La pieza añade en el libro el cierre metodológico que la página dejaba implícito: por qué precisamente el mito polar es **arquetipo genuino** y no solo motivo cultural recurrente.\n\n### Las dos perspectivas de pensamiento como formas polares de la cognición\n\n> \"La perspectiva masculina corresponde a la idea concreta, el objeto, lo explícito; la femenina al presupuesto, la memoria afectiva, lo interrelacionado,\"\n→ [Presentación del Libro: Polaris (30:04)](https://youtu.be/rLeMS4-XFrA?t=1804)\n\n> \"No se refiere a masculino-femenino sexuado sino a formas polares de pensamiento que todos tenemos,\"\n→ [Presentación del Libro: Polaris (30:04)](https://youtu.be/rLeMS4-XFrA?t=1804)\n\n> \"Los hombres tienden a más masculino arquetípico y las mujeres a más femenino arquetípico, pero ambos coexisten en cada persona,\"\n→ [Presentación del Libro: Polaris (30:04)](https://youtu.be/rLeMS4-XFrA?t=1804)\n\nLa pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: estructuras cognitivas, no biología' añadiendo precisión sobre el contenido específico de cada polo cognitivo: lo masculino opera con ideas concretas, objetos y explícitos; lo femenino con presupuestos, memoria afectiva e interrelaciones implícitas. La distinción no es esencialista pero sí es asimétrica estadísticamente — los hombres tienden al polo masculino arquetípico y las mujeres al femenino, sin que ello impida la coexistencia parcial de ambos polos en cada psique. Esta articulación enlaza con el aparato Q de [[teoria-del-simbolo-en-proxy]]: la perspectiva masculina opera dominantemente con Q sub-f (formal, lo explícito) mientras la femenina opera dominantemente con Q sub-i (imaginario interrelacionado) y Q sub-a (memoria afectiva).\n",
+      "wikilinks_introduced": [
+        "polaris-libro",
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 1168,
+          "cite_markdown": "[Presentación del Libro: Polaris (19:28)](https://youtu.be/rLeMS4-XFrA?t=1168)"
+        },
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 1925,
+          "cite_markdown": "[Presentación del Libro: Polaris (32:05)](https://youtu.be/rLeMS4-XFrA?t=1925)"
+        },
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 1804,
+          "cite_markdown": "[Presentación del Libro: Polaris (30:04)](https://youtu.be/rLeMS4-XFrA?t=1804)"
+        }
+      ],
+      "rationale": "La página articula extensamente el mito polar como cosmogonía y como tercer camino transformador, pero NO documenta el aparato técnico-metodológico del libro Polaris: arquetipo como eigenvector (invariancia estructural bajo cambio de coordenadas interpretativas), cinco dimensiones semióticas isomórficas como gate operativo de genuinidad arquetípica, y precisión sobre el contenido cognitivo de las dos perspectivas polares (concreto-objetual vs presupuesto-interrelacionado). Material metodológico nuevo que cierra el flanco técnico del marco. insert_after_passage tras 'El polar oscuro: Unicorn Wars' es editorialmente correcto: tras enumerar los casos canónicos del polar (Tolkien, Matrix, Unicorn Wars) se añade el aparato técnico que justifica por qué esas estructuras califican como arquetipo polar genuino",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La neurosis y la psicosis al menos son respuestas distorsionadas a la pregunta; la tercera forma es silencio donde debería haber arquetipo. Se conecta con la taxonomía del mal del canal en [[cuatro-formas-del-mal]].",
+      "content_proposed": "\n## Las tres virtudes encadenadas y el misterio hipnótico de la diosa blanca\n\nEn el directo *Presentación del Libro: Polaris* (14 mar 2025) el canal articula tres precisiones operativas sobre la diosa blanca que el libro [[polaris-libro]] desarrolla. La sección anterior articulaba las tres virtudes (gracia, belleza, esperanza) como tripartición homóloga a la triple diosa, sin orden de derivación interno; esta sección añade la cadena ordenada, la propiedad hipnótica y la condición de incolumidad ante el mal.\n\n### Cadena ordenada: gracia → belleza → esperanza\n\n> \"Las virtudes van encadenadas en orden: sin gracia la belleza no es tanto, sin belleza la esperanza no es tanto,\"\n→ [Presentación del Libro: Polaris (1:42:27)](https://youtu.be/rLeMS4-XFrA?t=6147)\n\n> \"La gracia es la naturalidad por la que se deja entrever la belleza,\"\n→ [Presentación del Libro: Polaris (1:42:27)](https://youtu.be/rLeMS4-XFrA?t=6147)\n\n> \"Los tres dones mitológicos de lo femenino son gracia, belleza y esperanza, en ese orden encadenado,\"\n→ [Presentación del Libro: Polaris (1:18:35)](https://youtu.be/rLeMS4-XFrA?t=4715)\n\nLa pieza precisa que las tres virtudes no operan como repertorio horizontal sino como **secuencia derivada**: la gracia es la condición primera (naturalidad por la que se deja entrever la belleza); la belleza emerge de la gracia y queda mermada sin ella; la esperanza emerge de la belleza y queda mermada sin ella. La cadena tiene consecuencia operativa para la lectura del corpus: cualquier articulación cultural de la diosa blanca que enfatice la esperanza sin sustento de belleza, o la belleza sin sustento de gracia, opera con virtud truncada — la virtud terminal de la cadena solo alcanza su plenitud cuando las virtudes anteriores la sostienen. Esta cadena articula el orden interno que la sección 'Las tres Marías al pie de la cruz' presentaba como tripartición simultánea sin jerarquía derivativa.\n\n### Mutabilidad y cambio circular como naturaleza compartida\n\n> \"Todas las diosas comparten la naturaleza del cambio circular; lo masculino en cambio está individuado y descendido de su origen,\"\n→ [Presentación del Libro: Polaris (1:18:35)](https://youtu.be/rLeMS4-XFrA?t=4715)\n\n> \"Lo femenino se caracteriza por la mutación entre cuatro estados: tres son una y una son tres,\"\n→ [Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)\n\nLa fórmula 'tres son una y una son tres' articula la unidad subyacente de la triple diosa: las tres formas (virgen, consorte, madre) no son entidades separadas sino actualizaciones de la misma unidad arquetípica que muta cíclicamente entre estados. La mutabilidad cíclica de lo femenino se contrapone a la individuación descendida de lo masculino — esta asimetría estructural enlaza con el [[mito-lunar]] como ciclo arquetípico (despertar/creación/caída/luna-roja/exorcismo) y distingue el modo operativo del polo lunar respecto del solar.\n\n### Misterio e influencia hipnótica\n\n> \"La diosa blanca tiene una influencia hipnótica sobre los hombres y especialmente sobre el varón,\"\n→ [Presentación del Libro: Polaris (1:48:00)](https://youtu.be/rLeMS4-XFrA?t=6480)\n\n> \"Es la materialización que permite experimentar lo femenino sin comprenderlo,\"\n→ [Presentación del Libro: Polaris (1:48:00)](https://youtu.be/rLeMS4-XFrA?t=6480)\n\n> \"Permanece incólume, indemne e inmaculada incluso al mirar a los ojos al mal,\"\n→ [Presentación del Libro: Polaris (1:48:00)](https://youtu.be/rLeMS4-XFrA?t=6480)\n\nLa pieza añade dos propiedades operativas que la página articulaba como virtudes pasivas pero no como mecánica activa: (a) la **influencia hipnótica** sobre el varón opera como mecanismo psíquico específico — la diosa blanca no se comprende racionalmente sino que se experimenta directamente como afecto que altera el estado del observador; (b) la **incolumidad ante el mal** es propiedad estructural — la diosa blanca atraviesa la presencia del mal sin que la travesía la transforme negativamente, eco operativo del principio articulado en [[mito-lunar]] sobre 'lo femenino vive la experiencia sin que la experiencia le cambie para mal'. La consecuencia teológica para la lectura mariana ya documentada: la Asunción cierra el ciclo precisamente porque María atravesó la Pasión incólume — su capacidad de presenciar el mal sin destrucción es prerrequisito de la elevación corporal, no consecuencia.\n",
+      "wikilinks_introduced": [
+        "polaris-libro",
+        "mito-lunar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 6147,
+          "cite_markdown": "[Presentación del Libro: Polaris (1:42:27)](https://youtu.be/rLeMS4-XFrA?t=6147)"
+        },
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 4715,
+          "cite_markdown": "[Presentación del Libro: Polaris (1:18:35)](https://youtu.be/rLeMS4-XFrA?t=4715)"
+        },
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 5902,
+          "cite_markdown": "[Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)"
+        },
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 6480,
+          "cite_markdown": "[Presentación del Libro: Polaris (1:48:00)](https://youtu.be/rLeMS4-XFrA?t=6480)"
+        }
+      ],
+      "rationale": "La página articula la diosa blanca como arquetipo de tres virtudes (gracia/belleza/esperanza) y la solución mariana, pero NO documenta (a) la cadena derivativa ordenada entre las tres virtudes (sin gracia la belleza es menor, sin belleza la esperanza es menor); (b) la fórmula canal-específica 'tres son una y una son tres' que articula la unidad subyacente de la triple diosa; (c) la influencia hipnótica como propiedad operativa del arquetipo; (d) la incolumidad ante el mal como propiedad estructural prerrequisito de la elevación final. Material nuevo del libro Polaris que refina el aparato pasivo de virtudes con su mecánica activa. insert_after_passage tras 'La sombra de la diosa blanca' es editorialmente correcto: completa el cuadro de virtudes/sombra con las propiedades operativas activas",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mito-lunar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Para la articulación de la diosa blanca como arquetipo de tres virtudes y de María como respuesta católica específica al arquetipo, ver [[diosa-blanca]] y [[virgen-maria]].",
+      "content_proposed": "\n## Mutabilidad femenina y las cuatro vidas como privilegio arquetípico\n\nEn el directo *Presentación del Libro: Polaris* (14 mar 2025) el canal articula una propiedad transversal del mito lunar que la sección anterior trataba implícitamente pero no nombraba como categoría: la mutabilidad de lo femenino y las cuatro vidas como privilegio arquetípico exclusivo del polo lunar.\n\n### Mutabilidad como rasgo característico\n\n> \"Lo femenino se caracteriza por la mutación entre cuatro estados: tres son una y una son tres,\"\n→ [Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)\n\n> \"Las cuatro vidas del mito lunar son experiencias exclusivas de lo femenino, su privilegio arquetípico,\"\n→ [Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)\n\n> \"Lo femenino cambia para adaptarse al mundo, a diferencia de lo masculino que está individuado,\"\n→ [Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)\n\nLa pieza añade tres precisiones operativas:\n\n- **Mutabilidad estructural**: lo femenino opera mediante mutación entre estados, no mediante individuación estable. La fórmula 'tres son una y una son tres' articula la unidad subyacente de la triple diosa con la pluralidad de sus actualizaciones (ver [[diosa-blanca]] sección 'Mutabilidad y cambio circular').\n- **Las cuatro vidas como privilegio arquetípico**: el mito lunar canónicamente articulado en cinco fases (despertar/creación/caída/luna-roja/exorcismo) opera también bajo el aspecto complementario de las **cuatro vidas** — modalidades de existencia que la psique femenina puede recorrer arquetípicamente sin que ninguna excluya las otras. Esta articulación cuádruple complementa la quintuple del ciclo: las cinco fases describen el recorrido temporal del ciclo; las cuatro vidas describen las modalidades existenciales que la diosa actualiza.\n- **Adaptación vs individuación como asimetría polar**: la mutabilidad femenina se contrapone a la individuación masculina descendida de su origen. Lo femenino se adapta al mundo cambiando; lo masculino se mantiene individuado y opera por confrontación con el mundo. La asimetría enlaza directamente con la articulación de [[diferencias-cognitivas-sexo-en-proxy|adaptación activa masculina vs adaptación pasiva femenina]] — el aparato cognitivo-arquetípico se distribuye así: lo femenino adapta su realidad interna al mundo dado, lo masculino transforma el mundo externo según su realidad interna. Las dos modalidades son legítimas y complementarias dentro del mito polar.\n\n### Pendiente: catálogo explícito de las cuatro vidas\n\nEl libro [[polaris-libro]] articula 'cuatro vidas del mito lunar' sin enumerarlas exhaustivamente en el directo de presentación. Quedará como pieza pendiente identificar el catálogo explícito (probablemente: virgen, consorte, madre, anciana o equivalentes culturales reconocibles en distintas tradiciones) cuando futuros vídeos del corpus desarrollen la lista. Por ahora se documenta la propiedad estructural (mutabilidad cuádruple) sin fijar nominalmente cada una de las cuatro modalidades.\n",
+      "wikilinks_introduced": [
+        "polaris-libro",
+        "diferencias-cognitivas-sexo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "rLeMS4-XFrA",
+          "timestamp_seconds": 5902,
+          "cite_markdown": "[Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)"
+        }
+      ],
+      "rationale": "La página articula las cinco fases del ciclo lunar (despertar/creación/caída/luna-roja/exorcismo) y la mecánica de descenso-rescate-ascenso, pero NO documenta la propiedad transversal de mutabilidad femenina ni la articulación complementaria de las 'cuatro vidas del mito lunar' como modalidades existenciales (distinta de las cinco fases del ciclo temporal), ni la asimetría adaptación pasiva femenina vs individuación activa masculina como pieza estructural. Material nuevo del libro Polaris que cierra parcialmente la laguna 'Desarrollo de cada fase' añadiendo la propiedad transversal de mutabilidad. insert_after_passage tras 'Cumplimiento católico del ciclo' es editorialmente correcto: la propiedad transversal extiende el ciclo añadiendo la dimensión modal-existencial",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "ediciones del libro + precios + Amazon + Patreon + tipo de letra cambiado",
+      "reason_code": "promo",
+      "reason_detail": "Información comercial-editorial sobre las tres ediciones de Polaris (corregida, intermedia, nueva), precios (16€ Amazon España, 3€ PDF Patreon), formato (200 páginas, tipo de letra), proceso editorial íntegramente realizado por Proxy. Es metadata útil para el page entity_work polaris-libro pero NO es contenido enciclopédico — se incluye en publication_metadata del promote_new_payload, no en discardable",
+      "quote_evidence": "El libro está disponible en Amazon España a 16€ y en PDF por 3€ en Patreon,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "polaris-libro"
+    },
+    {
+      "surface_form": "mística como experiencia somática de lo divino + magia ritual + esoterismo vs exotérico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tres piezas conceptuales breves articuladas como respuesta a preguntas del chat sobre el libro. (a) Mística como vivencia corporal de lo divino (ej. éxtasis Santa Teresa); (b) magia ritual como provocación de experiencias sobrenaturales mediante procedimiento; (c) esoterismo no como conocimiento secreto sino como conocimiento que requiere experiencia iniciática — todo conocimiento genuino es exotérico. Las tres piezas son interesantes pero opera como digresión dentro de la presentación del libro. Podrían enriquecer magia-postmoderna-en-proxy (existente) si se reiteran sustantivamente en otros vídeos. Por ahora aparecen como respuesta colateral, no merecen pending_update sustantivo",
+      "quote_evidence": "Lo esotérico no es cifrado ni secreto: es conocimiento que requiere una experiencia iniciática para ser comprendido,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la articulación esoterismo/exotérico se reitera en otros vídeos como pieza filosófica articulada, puede enriquecer magia-postmoderna-en-proxy con sección sobre el estatuto epistémico del conocimiento iniciático",
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "desesperanza como motor del deseo de morir (no la depresión)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza breve que distingue desesperanza (motor real del deseo de morir) de depresión (no es el motor). Conecta directamente con la tesis sobre suicidio articulada en el thesis_candidate enfermedad-mental-en-proxy registrado en otro vídeo del batch (7jT13kHNlBA). Si esa thesis_candidate se promueve, esta pieza debe integrarse como sección sobre desesperanza vs depresión como motor del suicidio",
+      "quote_evidence": "Lo que lleva a querer morir no es la depresión sino la desesperanza,",
+      "review_priority": "high",
+      "review_priority_reason": "Pieza estructural sobre la psicología del suicidio que complementa la articulación del vídeo Por fin (7jT13kHNlBA) sobre suicidio no predecible. Si el thesis_candidate enfermedad-mental-en-proxy se promueve, esta pieza debería incluirse como sección sobre el motor real del deseo de morir (desesperanza, no depresión)",
+      "enriches_concept": "enfermedad-mental-en-proxy"
+    },
+    {
+      "surface_form": "doble Penrose y uncanny valley lingüístico permanente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto canal-específico interesante: un 'doble Penrose' sería un lenguaje indistinguible tanto de máquina como de humano; una IA entrenada para permanecer permanentemente en el uncanny valley imposibilitaría falsar la naturaleza de la inteligencia (refinamiento del test de Turing). Pieza analítica sobre filosofía de la IA con sustrato propio del canal pero articulación corta (~3 min) sin desarrollo extensivo. Candidato a concept canal-específico si se reitera",
+      "quote_evidence": "Una IA entrenada para permanecer permanentemente en el uncanny valley imposibilitaría determinar si es humana o artificial,",
+      "review_priority": "medium",
+      "review_priority_reason": "Concepto canal-específico genuino sobre filosofía de la IA. Si se reitera en futuros vídeos con desarrollo metodológico, puede merecer página propia o sección en golem-de-cobre",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "procrastinación como mecanismo fóbico (no vagancia)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza clínica breve: la procrastinación es fundamentalmente fóbica (genera ansiedad ante las tareas), no vagancia. Personal anecdote del speaker (diagnóstico erróneo en infancia como vago cuando tenía ansiedad y depresión infantil). Pieza interesante pero corta y mezclada con anécdota personal — no merece pending_update sustantivo sobre página existente",
+      "quote_evidence": "La procrastinación es fundamentalmente fóbica, no vagancia: genera ansiedad intensa ante las tareas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "corrupciones de lo masculino y lo femenino + arquetipos de la neurosis",
+      "reason_code": "already_captured",
+      "reason_detail": "La página tipologia-femenina-arquetipica ya documenta extensivamente las cinco formas de corrupción del femenino (Wendy/ninfa/lámia/Medea/bruja) y la sección sobre síndromes específicos (síndrome del niño masculino, herida narcisista, etc.) cubre las corrupciones masculinas. La afirmación 'las corrupciones en mitología son arquetipos de la neurosis' es marco genérico que el corpus ya articula. La pieza nueva del libro es la articulación 'más universal, menos dependiente de referencias culturales específicas' — operación editorial del libro, no contenido analítico nuevo. Se canaliza al promote_new_payload de polaris-libro como pieza estructural",
+      "quote_evidence": "Las corrupciones en mitología son arquetipos de la neurosis,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "polaris-libro"
+    },
+    {
+      "surface_form": "por qué Proxy escribe: ansiedad como motor + soledad patológica + diosa blanca como cura",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal del speaker sobre la motivación psicológica de escribir (ciclo ansioso, soledad patológica, fantasía de la diosa blanca como cura imposible). Tiene contenido analítico parcial pero está articulado en clave íntimo-confesional, no como tesis general. No merece página propia. Si reaparece como tesis sobre la creación literaria como sublimación, podría enriquecer una página futura sobre la creación cultural",
+      "quote_evidence": "La soledad patológica es la condición de fondo: \"solamente una diosa blanca pueda curarme\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "petricor y ciencia del olfato + canal de contraste",
+      "reason_code": "passing_mention",
+      "reason_detail": "Digresión científica colorida sobre el olor de la lluvia (petricor causado por liberación de ozono O₃) y el olfato como canal de contraste (solo se huele lo nuevo, no lo persistente). Pieza interesante pero completamente tangencial al aparato del canal — no enriquece página existente del corpus actual ni merece página propia",
+      "quote_evidence": "El petricor es el nombre del olor producido por la lluvia en suelos secos, causado por la liberación de ozono (O₃),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "masculinidad arquetípica parcialmente inefable + 'la mujer sabe pero no sabe lo que sabe'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza breve que articula el principio del pensamiento femenino como no explícito ('sabe pero no sabe lo que sabe') como fundamental para que los varones comprendan la psique femenina como compañeros. La pieza se canaliza al pending_update de mito-polar como articulación de las dos perspectivas de pensamiento (masculina explícita vs femenina implícita-interrelacionada)",
+      "quote_evidence": "\"La mujer sabe pero no sabe lo que sabe\": el pensamiento femenino es no explícito,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-polar"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "notes": "Vídeo monográfico (~111 min) de presentación del libro Polaris — segundo libro del canal articulando el mito polar como cosmogonía dipolar masculino-femenino. promote_new como entity_work polaris-libro, análogo al ya existente del-origen-del-mal-libro. Tres pending_updates a páginas centrales del corpus mitológico: mito-polar (aparato técnico: arquetipo como eigenvector + cinco dimensiones semióticas + dos perspectivas cognitivas); diosa-blanca (cadena ordenada gracia→belleza→esperanza + influencia hipnótica + incolumidad ante el mal); mito-lunar (mutabilidad femenina + cuatro vidas como privilegio arquetípico). Discards: información editorial-comercial canalizada al promote_new_payload, piezas tangenciales (mística, esoterismo, doble Penrose, procrastinación, petricor) marcadas con review_priority según relevancia futura. La pieza sobre desesperanza como motor del deseo de morir queda flagged con review_priority:high para integración con thesis_candidate enfermedad-mental-en-proxy del vídeo Por fin"
+  },
+  "_validation_warnings": [
+    "DROP entity[polaris-libro] decision=promote_new quote no literal: 'Reconstrucción arquetípica de lo masculino y femenino,'",
+    "DROP discarded[Polaris resumido en una frase + recomendación de leerlo dos veces] reason=meta_canal quote no literal"
+  ]
+}

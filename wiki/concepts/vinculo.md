@@ -123,9 +123,13 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
 - **El Hate Bombing de la izquierda.** — chunks: [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767) · [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979)
 - **El síndrome de Wendy** — chunks: [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
 - **Ha vuelto a ocurrir.** — chunks: [1:34:59](https://youtu.be/C0Io49giVY8?t=5699)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [1:06:59](https://youtu.be/IUMYn7Iier8?t=4019)
 - **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [59:25](https://youtu.be/ZlO5o786u90?t=3565)
+- **Por fin** — chunks: [53:01](https://youtu.be/7jT13kHNlBA?t=3181)
+- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:14:58](https://youtu.be/UOk344kEeRM?t=4498) · [1:19:32](https://youtu.be/UOk344kEeRM?t=4772)
 

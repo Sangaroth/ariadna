@@ -303,8 +303,10 @@ La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en po
 
 
 
+
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Stream Navidad 2025** — chunks: [18:16](https://youtu.be/hVfKOHEM_wU?t=1096)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:36:06](https://youtu.be/t8v5w3s0USA?t=5766)
 - **Gothika: De Profundis** — chunks: [26:28](https://youtu.be/Gx2740if0Ho?t=1588)
+- **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:02:47](https://youtu.be/Qui4WMSQ99k?t=3767)
 

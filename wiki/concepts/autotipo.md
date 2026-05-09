@@ -109,6 +109,49 @@ La pieza articula la diferencia entre [[heroe-truncado|héroe truncado genuino]]
 La consecuencia editorial es que la cadena `arquetipo → prototipo → estereotipo → autotipo` se completa con un movimiento adicional: la autotipia no solo es degradación pasiva de material previo, también puede ser fabricación activa cuando un afecto personal infantil se mitologiza sin haber pasado por la mediación arquetípica genuina.
 
 
+## Sistema cuádruple de divisiones de la emulación + simulación vs emulación
+
+En el directo *Primer stream del año* (02 ene 2026) el canal articula el aparato técnico subyacente a la cadena ya documentada (arquetipo→prototipo→estereotipo→autotipo): la cuádruple distinción NO es solo cadena de degradación lineal sino **sistema de divisiones de la emulación de la fantasía**, articulado además sobre la distinción categorial simulación vs emulación.
+
+### Las cuatro partes de la emulación de la fantasía
+
+> "Las cuatro partes de la emulación de la fantasía son estereotipia, prototipia, arquetipia y autotipia,"
+→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)
+
+La pieza precisa que las cuatro categorías no operan solo como cadena temporal de degradación (de la profundidad simbólica a la coincidencia significante-rasgo) sino también como **sistema de modalidades de emulación** que la psique humana opera sobre el material fantástico. Cada modalidad reduce el original a una capa específica:
+
+- **Estereotipia**: reducción a los aspectos imaginarios más fundamentales (la silueta reconocible, los rasgos canónicos)
+- **Prototipia**: instanciación concreta que aún conserva profundidad simbólica
+- **Arquetipia**: estructura psíquica universal con resto inconsciente
+- **Autotipia**: nombre y rasgo coinciden literalmente — desaparece la mediación
+
+La cadena vertical (degradación) es solo una de las trayectorias posibles dentro del sistema. Otra trayectoria operativa: la **meta-simulación** que el canal observa en TikTok donde los videos imitan estereotipias que ya son imitaciones de lo humano:
+
+> "Los TikToks que imitan dibujos animados son una meta-simulación: imitan estereotipias que ya son imitaciones de lo humano,"
+→ [Primer stream del año (44:33)](https://youtu.be/kEgjSN3uKy4?t=2673)
+
+> "Todas esas imitaciones terminan pareciéndose entre sí porque son coreografías que replican las mismas estereotipias,"
+→ [Primer stream del año (44:33)](https://youtu.be/kEgjSN3uKy4?t=2673)
+
+La meta-estereotipia es modalidad nueva: no degradación de material arquetípico previo sino reduplicación de estereotipia ya degradada. El producto resultante converge estructuralmente — todas las imitaciones se parecen entre sí porque comparten el mismo punto de partida estereotípico.
+
+### Simulación vs emulación: la distinción categorial
+
+> "Una simulación es algo indistinguible del original; una emulación solo reviste la forma estética-imaginaria del original,"
+→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)
+
+> "El paradigma de Turing establece que una máquina es inteligencia artificial cuando es simulación perfecta de inteligencia humana,"
+→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)
+
+> "Los emuladores de consolas no simulan la consola completa, solo emulan la parte visual-imaginaria que interesa al usuario,"
+→ [Primer stream del año (47:42)](https://youtu.be/kEgjSN3uKy4?t=2862)
+
+La distinción categorial es operativa para todo el aparato del canal sobre cognición y artificialidad: la **simulación** exige indistinguibilidad estructural (criterio Turing — imitar también los procedimientos internos), la **emulación** exige solo cobertura del estrato superficial estético-imaginario que interesa al observador. Los emuladores de consolas (NES, SNES) son caso paradigmático: el emulador NO replica el procesador físico ni la circuitería original, solo produce el output visual-imaginario indistinguible del original para el jugador. La consecuencia para el aparato del canal sobre IA (ver [[golem-de-cobre]] y [[teoria-del-simbolo-en-proxy]]): las IAs generativas operan en el régimen de emulación, no de simulación — producen outputs estético-imaginarios indistinguibles superficialmente sin replicar la mecánica interna de la cognición que pretenden imitar.
+
+La cuádruple cadena (estereotipia/prototipia/arquetipia/autotipia) opera dentro del régimen de emulación: son modalidades de cómo el material fantástico se elabora sin ser simulado en sentido fuerte. La autotipia es entonces el caso límite donde la emulación se reduce a su mínimo operativo — el significante coincide con el rasgo, no hay capa imaginaria que emular más allá del propio nombre.
+
+
+
 ## Lagunas
 
 - **Genealogía teórica del término**: el canal usa "autotipia" como categoría establecida sin atribuirla. Pendiente confirmar si es acuñación propia, semiótica clásica reapropiada (Peirce, Hjelmslev) o reformulación de "tipo" en sentido weberiano
@@ -125,6 +168,7 @@ La consecuencia editorial es que la cadena `arquetipo → prototipo → estereot
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [12:13](https://youtu.be/3Jo2T73pOEs?t=733)
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839)
 - **Tremendo lunes** — chunks: [1:14:48](https://youtu.be/0YABTLJ-lFY?t=4488)
@@ -134,4 +178,5 @@ La consecuencia editorial es que la cadena `arquetipo → prototipo → estereot
 - **Análisis arquetípico Frozen** — chunks: [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
 - **Directo casual** — chunks: [19:12](https://youtu.be/ECN5C9rsaZg?t=1152) · [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
 - **El síndrome de Wendy** — chunks: [2:00:03](https://youtu.be/L7oSZTTK8Gg?t=7203)
+- **Primer stream del año** — chunks: [47:42](https://youtu.be/kEgjSN3uKy4?t=2862)
 

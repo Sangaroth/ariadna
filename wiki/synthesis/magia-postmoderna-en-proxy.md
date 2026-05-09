@@ -373,6 +373,56 @@ La lógica del corte que el canal articula opera con dos premisas, ambas desarro
 La PNL queda así clasificada estructuralmente con la magia postmoderna: pretensión técnica de modificar realidad por procedimiento codificado sin garantía de referente operativo. La diferencia con la magia clásica (procedimiento sobre lo sobrenatural) es que la PNL despliega su procedimiento sobre el aparato cognitivo del propio sujeto, presentándose como técnica empírica cuando opera como sofisma poético — la apariencia de procedimiento clínico replica la mecánica del léxico cuasi-científico del chamán cuántico ('actualizar con 5.5 Gamma' / 'reprogramación neuronal por reformulación verbal'). El positivismo postmoderno que la PNL representa es la versión terapéutico-lingüística del aparato magia postmoderna que esta página articula en su forma religioso-esotérica.
 
 
+## El viaje astral como caso operativo: reducción neurocognitiva del fenómeno místico
+
+En el directo *Psicología 101: Qué es un viaje astral* (15 ene 2026) el canal aplica el aparato realista cognitivo al fenómeno místico paradigmático del esoterismo contemporáneo. La operación es estructural: el viaje astral no se niega como experiencia subjetiva ni se descarta como fraude, sino que se **reduce a su sustrato neurocognitivo específico** — parálisis del sueño convertida en sueño lúcido vía técnicas de despegue corporal. La reducción opera dentro de la posición que el canal sostiene en otras secciones (magia del caos como adscripción propia, magia que anula el sensor psíquico): la práctica mágica produce estados neurocognitivos genuinos, no acceso a planos ontológicamente distintos.
+
+### Definición mística y el sensor psíquico
+
+> "El viaje astral se define como visitar otros lugares a través del sueño, convirtiendo el sueño en un proceso activo,"
+→ [Psicología 101: Qué es un viaje astral (20:11)](https://youtu.be/fDr6XqABtQQ?t=1211)
+
+> "El cuerpo astral estaría hecho de la misma sustancia teórica del plano astral, como un cambio de plano en física,"
+→ [Psicología 101: Qué es un viaje astral (20:11)](https://youtu.be/fDr6XqABtQQ?t=1211)
+
+> "La magia requiere anular el propio criterio (\"sensor psíquico\") para que la mente crea en la fantasía del sistema mágico,"
+→ [Psicología 101: Qué es un viaje astral (20:11)](https://youtu.be/fDr6XqABtQQ?t=1211)
+
+La pieza última articula el mecanismo cognitivo común a toda práctica mágica que la página articulaba implícitamente como confabulación: la magia opera condicionada a la **anulación del sensor psíquico** (la función crítica que evalúa coherencia/realidad de las representaciones). Sin esa anulación previa, el procedimiento mágico no produce su efecto subjetivo; con ella, lo produce sin necesidad de que el referente metafísico exista. La consecuencia es que la magia es **eficaz subjetivamente** (produce estados psíquicos consistentes con sus pretensiones) sin ser **veraz objetivamente** (sus pretensiones ontológicas no requieren cumplirse para que la práctica funcione como práctica).
+
+### Taxonomía Tipo A / Tipo B de viajes astrales
+
+> "Tipo A (proyección onírica): se visitan realidades astrales parecidas a esta, con reglas similares a las de la realidad,"
+→ [Psicología 101: Qué es un viaje astral (22:14)](https://youtu.be/fDr6XqABtQQ?t=1334)
+
+> "Tipo B (high level): se visitan dimensiones radicalmente diferentes, mundos cósmicos ajenos,"
+→ [Psicología 101: Qué es un viaje astral (22:14)](https://youtu.be/fDr6XqABtQQ?t=1334)
+
+> "En el tipo B existe el concepto de cordón umbilical astral que une el cuerpo onírico al físico para poder regresar,"
+→ [Psicología 101: Qué es un viaje astral (22:14)](https://youtu.be/fDr6XqABtQQ?t=1334)
+
+La taxonomía interna de la práctica refleja directamente la diferencia neurocognitiva subyacente entre dos modalidades de sueño lúcido: el Tipo A opera dentro del modelo del mundo cotidiano (sueño lúcido con escenarios coherentes con la vigilia — el cerebro reconstruye espacios familiares con leyes físicas reconocibles); el Tipo B opera con relajación parcial del modelo (sueño lúcido con escenarios que el cerebro construye sin sostén de la matriz cotidiana — desactivación de los predictores top-down ordinarios). El concepto de cordón umbilical astral en el Tipo B es lectura mágica del fenómeno fenomenológico real de la **conciencia simultánea de sueño y vigilia parcial** que distingue al sueño lúcido de la alucinación inmersiva pura.
+
+### Reducción operativa: viaje astral = parálisis del sueño + sueño lúcido + despegue
+
+> "El viaje astral es exactamente esto: una parálisis del sueño convertida en sueño lúcido mediante técnicas de despegue corporal,"
+→ [Psicología 101: Qué es un viaje astral (1:23:35)](https://youtu.be/fDr6XqABtQQ?t=5015)
+
+La fórmula compacta es la tesis nuclear de la reducción. El procedimiento híbrido que el canal articula (inducir parálisis → antes del pánico imaginar rodar fuera del cuerpo o saltar flotando) opera como receta operativa que reproduce el fenómeno místico sin necesidad de invocar el plano astral. La consecuencia para el aparato magia-postmoderna: la práctica del viaje astral cae dentro del campo magia del caos (que el canal articula como su propia adscripción operativa) — práctica deliberada que produce estados neurocognitivos genuinos sin compromiso ontológico con los referentes metafísicos del marco doctrinal. La eficacia operativa se preserva; la pretensión metafísica del plano astral queda desactivada como hipótesis innecesaria — ningún cordón umbilical astral hace falta para producir la fenomenología que el practicante reporta.
+
+### Onirogénicos como facilitadores químicos
+
+> "La salvia en dosis pequeñas no es alucinógena sino onirogénica: incrementa enormemente la vividez de los sueños,"
+→ [Psicología 101: Qué es un viaje astral (1:44:35)](https://youtu.be/fDr6XqABtQQ?t=6275)
+
+La categoría onirogénico (que potencia vividez del sueño sin producir alucinación de vigilia) opera como facilitador químico de la inducción. La distinción con los alucinógenos clásicos (psilocibina, LSD, cornezuelo) es operativa: los segundos producen disociación de vigilia (registro estudiado en [[trauma-en-proxy]] sección microdosis), los primeros amplifican el material onírico sin disociar el estado de vigilia. La consecuencia para el catálogo del canal: la salvia en dosis pequeñas + técnicas del grimorio (relajación postural, concentración en escena simple, reality checks) es la combinación operativa recomendada para inducir viaje astral. La pieza completa la conexión con el marco trauma-en-proxy: ambos campos (terapia trauma + práctica mágica del caos) usan el mismo principio de microdosis de sustancias específicas para potenciar procesos representacionales sin alteración traumática del estado.
+
+### Implicación para el aparato magia postmoderna
+
+La reducción neurocognitiva del viaje astral cierra una pieza conceptual del marco que la página articulaba como tensión: el canal practica magia del caos (adscripción operativa propia, ver sección 'Taxonomía interna de la esotería moderna') sin compromiso con sus pretensiones metafísicas. El viaje astral es caso paradigmático: práctica que produce experiencia genuina (parálisis lúcida + sueño lúcido controlado) sin requerir el plano astral como referente. La diferencia con el New Age que la página critica como sofisma poético es estructural: el New Age presenta la práctica como evidencia del referente metafísico (si funciona, el plano existe); la magia del caos del canal presenta la práctica como técnica neurocognitiva cuyo referente metafísico es prescindible para su operatividad. La frontera entre charlatanería postmoderna y práctica deliberada de magia del caos pasa precisamente por esta diferencia epistémica: pretensión ontológica vs reducción cognitiva confesada.
+
+
+
 
 
 
@@ -388,7 +438,9 @@ La PNL queda así clasificada estructuralmente con la magia postmoderna: pretens
 
 
 
+
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [39:56](https://youtu.be/9U6CwqPMI3c?t=2396)
 - **What is a Charo?** — chunks: [2:36:43](https://youtu.be/qMfv4dX09Lg?t=9403)
 - **Directo casual** — chunks: [24:19](https://youtu.be/ECN5C9rsaZg?t=1459)
+- **Psicología 101: Qué es un viaje astral.** — chunks: [22:14](https://youtu.be/fDr6XqABtQQ?t=1334)
 

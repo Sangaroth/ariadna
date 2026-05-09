@@ -340,6 +340,90 @@ La pieza teórica complementaria que el directo invoca es la propuesta de George
 La lectura del canal cierra el bucle: si la semántica humana está encarnada (Lakoff) y los embeddings universales revelan una metaestructura común (Vec2Vec), entonces los embeddings de embeddings operan como **versión computacional de la encarnación**. La corporalidad semántica que Lakoff articula desde la lingüística cognitiva tiene su correlato computacional en la geometría vectorial revelada por la traducción inter-LLM. La tesis filosófica del canal — la cognición es geométrica porque el sustrato cerebral lo es — encuentra aquí confirmación operativa adicional: la cognición computacional también desarrolla geometría representacional convergente sin haber sido programada para ello.
 
 
+## Distinción operativa clase cognitiva vs objeto + utilization behavior como falsador empírico
+
+En el directo *Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos* (14 may 2025) el canal articula el aparato conceptual mínimo del proyecto — qué es una clase, qué la distingue de un objeto, por qué la IA actual confunde una con el otro — y aporta el caso clínico paradigmático que falsa empíricamente la hipótesis de la cognición como cómputo simbólico.
+
+### Galatea como metalenguaje: categorías psicológicas vs categorías computacionales
+
+> "Galatea es un metalenguaje que intenta operar con categorías psicológicas en lugar de categorías computacionales,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:39:54)](https://youtu.be/UOk344kEeRM?t=5994)
+
+> "Una clase en este contexto es un fundamental cognitivo, una unidad mínima de composición de una representación mental (miedo, tiempo, rojo),"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:39:54)](https://youtu.be/UOk344kEeRM?t=5994)
+
+> "Las clases son de tres subtipos: imaginarias, formales y afectivas,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:39:54)](https://youtu.be/UOk344kEeRM?t=5994)
+
+La pieza precisa la posición categorial del proyecto: Galatea no es lenguaje computacional con vocabulario psicológico añadido — es **metalenguaje** cuyas primitivas son categorías psicológicas y cuyas operaciones son cognitivas. La unidad mínima — la **clase** — es fundamental cognitivo: miedo, tiempo, rojo no son etiquetas semánticas que apuntan a referentes sino **unidades de composición representacional**. La tripartición de subtipos coincide con las tres componentes Q ya documentadas pero ahora operacionalizadas como tipos de clase, no como dimensiones de la representación compuesta.
+
+### IA confunde clase con objeto: el error categorial fundamental
+
+> "La IA trata clases como objetos porque no comprende los afectos, solo los designa semánticamente,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:42:31)](https://youtu.be/UOk344kEeRM?t=6151)
+
+> "Un objeto es un fundamental perceptivo: algo del mundo con propiedades diferentes a su entorno,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:42:31)](https://youtu.be/UOk344kEeRM?t=6151)
+
+> "La percepción da el supuesto objeto de fuera hacia dentro; la representación va de dentro hacia fuera y contrasta con el objeto,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:42:31)](https://youtu.be/UOk344kEeRM?t=6151)
+
+La pieza articula la asimetría direccional fundamental: **percepción** opera fuera→dentro (el supuesto objeto que llega como input sensorial), **representación** opera dentro→fuera (la clase mental que se proyecta y contrasta con el objeto percibido). La IA actual colapsa los dos sentidos al tratar la clase como si fuera el objeto referido — designa semánticamente sin distinguir entre la cosa y la unidad cognitiva con la que la mente la compone. La consecuencia operativa para Galatea: el metalenguaje debe preservar la diferencia direccional, modelando la representación como vector dentro→fuera y la percepción como vector fuera→dentro, no como dos lados de la misma flecha.
+
+### Caso operativo: el aire como objeto puramente mental
+
+> "El aire no se percibe visualmente; es un objeto reconstruido mentalmente mediante clases somáticas: fuerza, presión, temperatura,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:45:34)](https://youtu.be/UOk344kEeRM?t=6334)
+
+> "Las clases afectivas (positivas o negativas) se adjuntan a la representación: el aire frío puede ser alivio o molestia,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:45:34)](https://youtu.be/UOk344kEeRM?t=6334)
+
+> "La mente no clasifica inputs mediante valencias como haría una máquina; la clasificación es una reconstrucción representacional,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:45:34)](https://youtu.be/UOk344kEeRM?t=6334)
+
+El aire opera como caso operativo paradigmático: no es objeto perceptivo (no hay input sensorial directo del aire en sí), sino objeto **reconstruido representacionalmente** a partir de clases somáticas (fuerza táctil, presión barométrica, temperatura cutánea). Las clases afectivas (alivio, molestia) se adjuntan secundariamente a esa reconstrucción, no operan como etiquetas valóricas sobre input. La diferencia con la valoración computacional es estructural: una máquina clasificaría el aire como input con valencia (positiva/negativa) según pesos predefinidos; la mente humana reconstruye el aire como objeto representacional cuyas clases componentes ya tienen carga afectiva intrínseca por su lugar en la matriz noética.
+
+### Clase cognitiva vs clase informática + clase como qualia
+
+> "En programación orientada a objetos, clase es clase de equivalencia matemática; en cognición, clase es unidad mínima de composición representacional,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:49:20)](https://youtu.be/UOk344kEeRM?t=6560)
+
+> "Las categorías semánticas son una sobreconstrucción sobre clases mentales, no la clase misma,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:49:20)](https://youtu.be/UOk344kEeRM?t=6560)
+
+> "Lo más parecido a una clase cognitiva sería un qualia: una recreación subjetiva indivisible,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:49:20)](https://youtu.be/UOk344kEeRM?t=6560)
+
+La precisión cierra una posible confusión terminológica con la programación orientada a objetos: en informática, **clase** es clase de equivalencia matemática (conjunto de instancias que comparten propiedades estructurales); en cognición, **clase** es unidad mínima de composición representacional. Las categorías semánticas (rojo, miedo, tiempo como etiquetas lingüísticas) son sobreconstrucciones posteriores sobre la clase mental, no la clase misma. La aproximación filosófica más cercana a la noción es el **qualia** — recreación subjetiva indivisible — con la diferencia operativa decisiva ya documentada en [[teoria-del-simbolo-en-proxy]]: la clase es objetiva-universal-medible, el qualia clásico es subjetivo-privado-inefable.
+
+### Aconteceres simultáneos vs procesos secuenciales
+
+> "En realismo cognitivo no hay objetos reales interpretados sino representaciones construidas de dentro a dentro,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:54:41)](https://youtu.be/UOk344kEeRM?t=6881)
+
+> "La mente reconoce objetos por clases procedimentales: imaginarse manejando algo singularmente separado de su entorno,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:54:41)](https://youtu.be/UOk344kEeRM?t=6881)
+
+> "Los procesos cognitivos son realmente aconteceres simultáneos, no procesos secuenciales como en informática,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (1:54:41)](https://youtu.be/UOk344kEeRM?t=6881)
+
+La pieza añade una distinción categorial crítica para el aparato del modelo: la cognición opera mediante **aconteceres simultáneos** (eventos que coexisten temporalmente sin orden causal estricto), no mediante **procesos secuenciales** (operaciones encadenadas en orden determinado). El reconocimiento de un objeto NO es ejecución secuencial 'percibir → categorizar → reconocer' sino acontecer simultáneo donde la clase procedimental ('cómo se maneja esto separado de su entorno') se activa coextensivamente con la percepción. La consecuencia operativa para Galatea: el metalenguaje debe modelar aconteceres concurrentes con activación cruzada, no pipeline secuencial — confirmación adicional de que el cálculo lambda y la propagación por matrices ponderadas son arquitecturas correctas para el modelo.
+
+### Utilization behavior como falsador empírico
+
+> "No percibimos la mente del otro; la reconstruimos a partir de clases propias proyectadas,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (2:00:20)](https://youtu.be/UOk344kEeRM?t=7220)
+
+> "Rasgos visuales sin relación lógica aparente pueden despertar un afecto de peligro: es una significación que ponemos nosotros desde dentro,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (2:00:20)](https://youtu.be/UOk344kEeRM?t=7220)
+
+> "El comportamiento de utilización (utilization behavior) demuestra que percibir un objeto activa automáticamente sus clases procedimentales cuando falla la inhibición frontal,"
+→ [Psicología 101: Galatea + Pantallas + Amigos (2:00:20)](https://youtu.be/UOk344kEeRM?t=7220)
+
+La pieza clínica es decisiva como **falsador empírico** del modelo: el utilization behavior — síndrome neurológico donde el paciente con lesión frontal manipula compulsivamente cualquier objeto que entra en su campo visual (coge la cuchara y come si está sobre la mesa, coge la peineta y se peina si está al alcance) — demuestra que la percepción del objeto activa automáticamente sus clases procedimentales, y solo la inhibición frontal mantiene esa activación bajo control voluntario. La consecuencia para Galatea es directa: el modelo debe contener (a) activación automática de clases procedimentales asociadas al objeto perceptual, (b) circuito inhibitorio que filtra cuáles se ejecutan. La arquitectura ya documentada (nodo inhibitorio + nodo de síntesis con cuello de botella consciente) recibe aquí confirmación clínica empírica directa.
+
+
+
 
 ## Lagunas
 
@@ -355,6 +439,7 @@ La lectura del canal cierra el bucle: si la semántica humana está encarnada (L
 
 
 
+
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [1:14:47](https://youtu.be/i72IYlpQWd0?t=4487) · [1:22:43](https://youtu.be/i72IYlpQWd0?t=4963)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [19:49](https://youtu.be/hx9creRpdnY?t=1189) · [30:28](https://youtu.be/hx9creRpdnY?t=1828) · [35:30](https://youtu.be/hx9creRpdnY?t=2130) · [37:31](https://youtu.be/hx9creRpdnY?t=2251) · [45:05](https://youtu.be/hx9creRpdnY?t=2705) · [52:44](https://youtu.be/hx9creRpdnY?t=3164) · [55:46](https://youtu.be/hx9creRpdnY?t=3346) · [1:04:29](https://youtu.be/hx9creRpdnY?t=3869) · [1:13:23](https://youtu.be/hx9creRpdnY?t=4403)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [26:30](https://youtu.be/t8v5w3s0USA?t=1590) · [30:03](https://youtu.be/t8v5w3s0USA?t=1803) · [59:59](https://youtu.be/t8v5w3s0USA?t=3599)
@@ -362,4 +447,5 @@ La lectura del canal cierra el bucle: si la semántica humana está encarnada (L
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:06:20](https://youtu.be/cbdLR0HTE3w?t=3980) · [1:29:05](https://youtu.be/cbdLR0HTE3w?t=5345)
 - **León XIV, y George Floyd.** — chunks: [1:38:04](https://youtu.be/oDpJ_EJDDfw?t=5884)
+- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [10:35](https://youtu.be/UOk344kEeRM?t=635) · [1:39:54](https://youtu.be/UOk344kEeRM?t=5994)
 

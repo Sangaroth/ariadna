@@ -1,0 +1,178 @@
+{
+  "video_id": "AJgvAsbd-UQ",
+  "video_title": "¿Porqué hay categorías masculina y femenina en ajedrez?",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "jerarquía ontogenética y filogenética de las tres componentes Q (afectiva primaria, imaginaria secundaria, gramatical terciaria)",
+      "canonical_guess": "jerarquia-ontogenetica-y-filogenetica-de-tres-Q",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las funciones afectivas son primarias, las imaginarias secundarias y las gramaticales terciarias, tanto ontogenética como filogenéticamente,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Cuanto más simple es un organismo, más se desplaza hacia la componente puramente afectiva,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento del aparato Q (afectivo/imaginario/gramatical) ya articulado en teoria-del-simbolo-en-proxy. La página articula la tripartición Q como dimensiones ortogonales pero NO documenta la jerarquía evolutiva-desarrollista entre las tres componentes (afectivo primario, imaginario secundario, gramatical terciario) ni la correlación organismo-simple = más afectivo. Material nuevo que cierra el flanco genealógico del aparato",
+      "quote_evidence": "Las funciones afectivas son primarias, las imaginarias secundarias y las gramaticales terciarias, tanto ontogenética como filogenéticamente,"
+    },
+    {
+      "surface_form": "instintos fundamentales (buscar, reproducirse, vínculos, terror a la muerte, ira, juego) + el juego solo en mamíferos",
+      "canonical_guess": "instintos-fundamentales-y-juego-mamifero",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los afectos corresponden a instintos fundamentales: buscar, reproducirse, crear vínculos, terror a la muerte, ira y juego,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Solo los mamíferos juegan; el juego es el mecanismo instintivo evolutivamente más tardío,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Articulación complementaria a la taxonomía afectiva ya documentada en teoria-de-las-emociones-en-proxy. La página tiene la triple distinción emoción/estado-de-ánimo/afecto y la lista Panksepp-style (buscar, cuidado, apego, terror, pánico) en update reciente; esta nueva articulación lista 6 instintos fundamentales con énfasis distinto (reproducción, ira, juego como tardío evolutivo, terror a la muerte específico). El canal usa taxonomías parcialmente divergentes en distintos vídeos — la pieza nueva extiende el catálogo afectivo y añade la propiedad evolutiva del juego como exclusivamente mamífero",
+      "quote_evidence": "Los afectos corresponden a instintos fundamentales: buscar, reproducirse, crear vínculos, terror a la muerte, ira y juego,"
+    }
+  ],
+  "_doc_promote_new": "No emito promote_new directo. La articulación sostenida (~80 min) sobre diferencias cognitivas hombre/mujer cumple gate §2.4.1 cuantitativamente y es vídeo monográfico planificado, pero se registra como thesis_candidate con requires_human_validation:true por la sensibilidad editorial del material (claims estadísticos sobre asimetrías sexuales en CI, suicidio, violencia; tesis sobre gausianas asimétricas y nothing box; territorio que cae cerca de §3 por su carga política contemporánea pese a operar desde marco psico-cognitivo). El editor humano debe decidir si merece página propia o si se integra extendiendo inteligencia-y-adaptacion-en-proxy con sección sexual",
+  "pending_updates": [
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "lo que cierra la coherencia con el postulado de la cognición como parte de la realidad material entrópica.",
+      "content_proposed": "\n## Jerarquía ontogenética y filogenética de las tres componentes Q\n\nEn el directo *¿Porqué hay categorías masculina y femenina en ajedrez?* (03 ene 2026) el canal articula la jerarquía evolutivo-desarrollista entre las tres componentes Q que la sección anterior tratada como dimensiones ortogonales sin orden temporal-genealógico explícito.\n\n> \"Las funciones afectivas son primarias, las imaginarias secundarias y las gramaticales terciarias, tanto ontogenética como filogenéticamente,\"\n→ [¿Porqué hay categorías masculina y femenina en ajedrez? (53:33)](https://youtu.be/AJgvAsbd-UQ?t=3213)\n\n> \"Cuanto más simple es un organismo, más se desplaza hacia la componente puramente afectiva,\"\n→ [¿Porqué hay categorías masculina y femenina en ajedrez? (53:33)](https://youtu.be/AJgvAsbd-UQ?t=3213)\n\n> \"La componente gramatical requiere un cerebro capaz de inhibir unas funciones en beneficio de otras,\"\n→ [¿Porqué hay categorías masculina y femenina en ajedrez? (1:07:08)](https://youtu.be/AJgvAsbd-UQ?t=4028)\n\nLa pieza precisa una asimetría estructural que la articulación matricial dejaba implícita: aunque las tres componentes Q son **dimensionalmente ortogonales** (cada una opera en su propio registro sin reducirse a las otras), están **temporalmente jerarquizadas** en dos planos coherentes:\n\n- **Plano filogenético** (escala evolutiva): organismos más simples operan dominantemente con Q sub-a (afectivo); la elaboración de Q sub-i (imaginario) requiere arquitecturas cerebrales con capacidad de representación espacial y forma sobre fondo (ver sección 'La inteligencia como recreación, no como representación' sobre el cuervo); la elaboración de Q sub-f (formal/gramatical) requiere capacidad inhibitoria — circuitería cortical que pueda suprimir activaciones de un módulo en beneficio de otro.\n- **Plano ontogenético** (desarrollo individual): el lactante opera primero con afectos puros (regulación visceral, valencia placer/displacer); el niño elabora después capacidades imaginarias (forma, espacio, juego representacional); la componente gramatical-formal madura tardíamente con el desarrollo del córtex prefrontal y sus funciones inhibitorias.\n\nLa consecuencia operativa para el aparato: cuando el marco postula la **ambiguación** entre componentes Q (sección 'Mónadas universales objetivas...') como mecanismo nuclear de la cognición humana, está postulando una operación que requiere las tres componentes desarrolladas — operación que la mayoría de organismos no humanos no pueden ejecutar plenamente porque carecen del sustrato Q sub-f maduro. La ambigüación es la conquista evolutiva tardía que distingue la cognición humana del resto del espectro animal, sostenida sobre el sustrato Q sub-a más antiguo y compartido.\n\nLa pieza añade además una predicción operativa para el flanco patológico del marco: estados regresivos (lesiones prefrontales, intoxicaciones, fatiga extrema) deberían producir caída desde Q sub-f hacia Q sub-i hacia Q sub-a — el orden filogenético-ontogenético inverso opera como cascada de degradación. La psicosis como exceso bottom-up de Q sub-i (ver sección 'Tres patologías como falsadores empíricos') es coherente con este patrón: la falla del control top-down de Q sub-f libera el material imaginario sin filtro, devolviendo al sujeto a un registro ontogenéticamente más temprano.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "timestamp_seconds": 3213,
+          "cite_markdown": "[¿Porqué hay categorías masculina y femenina en ajedrez? (53:33)](https://youtu.be/AJgvAsbd-UQ?t=3213)"
+        },
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "timestamp_seconds": 4028,
+          "cite_markdown": "[¿Porqué hay categorías masculina y femenina en ajedrez? (1:07:08)](https://youtu.be/AJgvAsbd-UQ?t=4028)"
+        }
+      ],
+      "rationale": "La página articula extensamente la tripartición Q como dimensiones ortogonales (afectivo/imaginario/gramatical) y documenta tres patologías como falsadores empíricos del modelo, pero NO documenta la jerarquía ontogenética-filogenética entre las tres componentes ni la correlación organismo-simple = mayor peso afectivo ni la condición de inhibición cortical para el desarrollo de Q sub-f. Material nuevo que cierra el flanco evolutivo-desarrollista del aparato y articula consecuencias predictivas (cascada regresiva en patología). insert_after_passage tras 'Clase cognitiva como unidad mínima representacional' es editorialmente correcto: la jerarquía evolutiva extiende la unidad mínima añadiendo su genealogía",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "teoria-de-las-emociones-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "en línea con la integración de la [[shadow-archetype]].",
+      "content_proposed": "\n## Instintos fundamentales: el catálogo de seis y el juego como mecanismo mamífero\n\nEn el directo *¿Porqué hay categorías masculina y femenina en ajedrez?* (03 ene 2026) el canal articula un catálogo de seis instintos fundamentales que complementa la taxonomía Panksepp-style ya documentada en la sección anterior. Las dos articulaciones operan en planos distintos: la primera sobre afectos primarios como motores neurobiológicos (buscar, cuidado, apego, terror, pánico); esta sobre instintos fundamentales como categorías psicobiológicas más amplias que articulan también la conducta dirigida.\n\n### El catálogo de seis instintos\n\n> \"Los afectos corresponden a instintos fundamentales: buscar, reproducirse, crear vínculos, terror a la muerte, ira y juego,\"\n→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)\n\nLa lista articula seis instintos fundamentales que el canal usa como vocabulario operativo en este vídeo:\n\n- **Buscar** — exploración orientada del entorno (motor de la cognición distribuida)\n- **Reproducirse** — pulsión sexual con su sustrato hormonal específico\n- **Crear vínculos** — constitución de relaciones bivectivas (ver [[vinculo]])\n- **Terror a la muerte** — afecto defensivo ante la amenaza vital\n- **Ira** — activación combativa ante la transgresión o la amenaza\n- **Juego** — exploración representacional sin objeto utilitario inmediato\n\nLa coexistencia de las dos taxonomías (Panksepp-style 5-afectos + 6-instintos) no es contradicción sino registro distinto: la primera nombra los **motores neurobiológicos primarios** (sustrato subcortical compartido con vertebrados); la segunda nombra los **instintos fundamentales con contenido conductual** que el aparato afectivo organiza. 'Cuidado' y 'apego' (taxonomía Panksepp) se subsumen en 'crear vínculos' (taxonomía instintiva); 'pánico' se especifica como 'terror a la muerte'; 'reproducirse', 'ira' y 'juego' aparecen aquí como instintos diferenciados con sustrato propio.\n\n### La función 'buscar' precisada\n\n> \"La función \\\"buscar\\\" no implica buscar objetos sino continuar avanzando para encontrar más de lo que ya se tiene,\"\n→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)\n\n> \"El reflejo de orientación hace que cuando no hay necesidad alarmante queramos hacer cosas nuevas,\"\n→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)\n\nLa precisión refina la categoría 'buscar' del marco: no es búsqueda dirigida hacia un objeto faltante (eso sería 'desear' algo concreto) sino **expansión exploratoria** del horizonte ya disponible. El reflejo de orientación es su sustrato neurobiológico — la disposición a movilizarse hacia lo nuevo cuando los afectos defensivos están en reposo. La consecuencia operativa: una psique sin necesidad alarmante activa por defecto la búsqueda exploratoria; el aburrimiento es la fenomenología de buscar sin encontrar material noético novedoso al que aplicarse.\n\n### El juego como conquista mamífera tardía\n\n> \"Solo los mamíferos juegan; el juego es el mecanismo instintivo evolutivamente más tardío,\"\n→ [¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)\n\nLa pieza añade una propiedad evolutiva específica del juego que el resto del aparato afectivo no documentaba: el juego es el instinto **filogenéticamente más reciente** del catálogo, presente solo en mamíferos. La consecuencia teórica para el marco: el juego no es ornamento conductual sino instinto fundamental con sustrato neurobiológico propio, cuya emergencia evolutiva tardía sugiere correlación con la elaboración cortical mamífera. La cognición humana hereda el sustrato instintivo lúdico del linaje mamífero — lo que el canal nombra como 'pensamiento poético' (ver [[pensamiento-poetico]]) y como capacidad de **ambiguación representacional** (ver [[teoria-del-simbolo-en-proxy]]) opera sobre este sustrato lúdico mamífero, no sobre las componentes afectivas más antiguas compartidas con vertebrados primitivos.\n",
+      "wikilinks_introduced": [
+        "vinculo",
+        "pensamiento-poetico",
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "AJgvAsbd-UQ",
+          "timestamp_seconds": 3462,
+          "cite_markdown": "[¿Porqué hay categorías masculina y femenina en ajedrez? (57:42)](https://youtu.be/AJgvAsbd-UQ?t=3462)"
+        }
+      ],
+      "rationale": "La página articula la triple distinción emoción/estado-de-ánimo/afecto, las cinco emociones básicas (Inside Out), la valencia, y reciente update con afectos primarios Panksepp-style. NO documenta el catálogo de seis instintos fundamentales que el canal usa en otros registros (buscar, reproducirse, vínculos, terror muerte, ira, juego), ni la precisión sobre buscar como expansión no-objetual, ni la propiedad evolutiva del juego como instinto exclusivamente mamífero. Material nuevo que extiende el catálogo afectivo-instintivo y añade dimensión evolutiva. Anchor en cierre de 'Valencia emocional' es editorialmente correcto: el catálogo instintivo extiende el aparato emocional añadiendo el plano de los motores conductuales fundamentales",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "test de matrices de Raven",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Test psicométrico estándar (Raven Progressive Matrices) usado como caso operativo para articular las tesis del canal sobre CI y diferencial sexual. Concepto técnico estándar — no merece página propia per scope.md §1.2 (los conceptos técnicos no son objetos enciclopédicos del wiki, son herramientas). Su tratamiento sustantivo va dentro del thesis_candidate como pieza aplicada",
+      "quote_evidence": "El test de matrices de Raven se considera el más fiable para medir la inteligencia teórica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diferencias-cognitivas-sexo-en-proxy"
+    },
+    {
+      "surface_form": "penetrabilidad cognitiva",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto estándar de psicología cognitiva (cognitive penetrability — Pylyshyn et al.) usado por el canal como categoría operativa para discutir si el juicio estético es a priori o sufre influencia conceptual. Concepto técnico ajeno usado como herramienta — no merece página autónoma per scope.md §1.2. La articulación canal-específica sobre belleza como afecto a priori va al thesis_candidate",
+      "quote_evidence": "La penetrabilidad cognitiva es cuando la consideración cognitiva de algo afecta a su percepción somática o vivencia fenomenológica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diferencias-cognitivas-sexo-en-proxy"
+    },
+    {
+      "surface_form": "factor G + factores de Carroll + estructura jerárquica del CI",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Modelo psicométrico estándar (modelo CHC de Carroll-Cattell-Horn) usado como aparato técnico para articular la tesis sobre Raven y diferencial sexual. Conceptos técnicos de la psicometría — no merecen página autónoma. La articulación va integrada en el thesis_candidate como pieza del marco",
+      "quote_evidence": "Las habilidades cognitivas fundamentales se agrupan en factores de segundo nivel (como inteligencia espacial) y un factor G de tercer nivel,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diferencias-cognitivas-sexo-en-proxy"
+    },
+    {
+      "surface_form": "belleza como cognición de orden armónico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre la belleza como categoría cognitiva (no físico-material) cuya armonía es objetiva en tanto universal a las estructuras cognitivas humanas. Pieza interesante que podría merecer página propia ('belleza-como-cognicion-armonica-en-proxy') si se reitera y desarrolla en otros vídeos. Aquí aparece como apertura del vídeo (~4 min) y se conecta inmediatamente con el diferencial sexual perceptual. Por ahora se canaliza al thesis_candidate como primera pieza",
+      "quote_evidence": "La belleza es la cognición de un orden percibido como armónico que se revela en forma de afecto positivo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la tesis sobre belleza como afecto a priori sin penetrabilidad cognitiva se reitera en otros vídeos del canal con desarrollo sostenido, puede merecer página propia o sección expandida en arte-en-proxy",
+      "enriches_concept": "arte-en-proxy"
+    },
+    {
+      "surface_form": "factor F hipotético propuesto por el canal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Propuesta hipotética del canal de un 'factor F' que representaría inteligencia teórica antes de aplicar funciones inhibitorias y perceptuales — intentaría aislar el factor G puro del desempeño temporal. Pieza canal-específica candidata a concept propio si se desarrolla operacionalmente en futuros vídeos. Por ahora aparece como inferencia hipotética dentro de la tesis sobre diferencial sexual; se canaliza al thesis_candidate como pieza analítica",
+      "quote_evidence": "Se propone un \"factor F\" hipotético que representaría la inteligencia antes de aplicar las funciones inhibitorias y perceptuales,",
+      "review_priority": "high",
+      "review_priority_reason": "Concepto canal-específico genuino (propuesta hipotética propia) que candidaría a página concept si se reitera y operacionaliza en otros vídeos. Marcar para seguimiento — si reaparece con desarrollo metodológico (cómo se mediría, casos aplicados), podría promoverse a 'factor-F-en-proxy' o canonizarse en canonical_whitelist como channel_specific_concept",
+      "enriches_concept": "diferencias-cognitivas-sexo-en-proxy"
+    },
+    {
+      "surface_form": "sexo biológico vs género gramatical",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica articulada brevemente (~3 min) que rechaza la categoría 'género biológico' y reserva 'sexo' para lo biológico-ontológico y 'género' para la clase gramatical. Aparato categorial probablemente recurrente en el corpus del canal y conectable con fenomenologia-trans-en-proxy. Por ahora se canaliza al thesis_candidate como pieza del marco",
+      "quote_evidence": "En las coordenadas de este canal no existe \"género biológico\", existe sexo biológico y género gramatical,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si la distinción se reitera en otros vídeos como aparato categorial sostenido, puede enriquecerse fenomenologia-trans-en-proxy con sección específica sobre la terminología canal-específica",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 6,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "notes": "Vídeo monográfico (~80 min sostenidos) sobre diferencias cognitivas hombre/mujer desde el realismo cognitivo del canal, con tesis declarada desde el título sobre por qué hay categorías sexuales en ajedrez. El gate §2.4.1 cumple holgadamente pero requires_human_validation:true por sensibilidad editorial: claims estadísticos sobre asimetrías sexuales (CI extremos, suicidio, psicopatía, violencia) requieren auditoría humana antes de prosa enciclopédica; territorio cae cerca del límite §3 (opera desde marco psico-cognitivo IN, pero carga política contemporánea exige juicio editorial). Las piezas más cross-cutting (jerarquía ontogenética/filogenética de las tres componentes Q; catálogo de seis instintos fundamentales con juego como conquista mamífera tardía) se canalizan vía pending_updates a teoria-del-simbolo-en-proxy y teoria-de-las-emociones-en-proxy. Factor F hipotético marcado con review_priority:high como candidato a concept canal-específico si se reitera"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

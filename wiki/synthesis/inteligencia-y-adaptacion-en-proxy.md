@@ -132,6 +132,30 @@ El caso concreto analizado revela la mecánica del doble estándar:
 
 El canal lee este doble estándar como síntoma de la [[herida-narcisista-en-proxy]]: el sujeto que necesita exhibir métricas de excelencia como defensa ante una inseguridad estructural no resuelta. El CI deja de funcionar como herramienta cognitiva y pasa a funcionar como símbolo de estatus, coherente con el análisis más amplio de la identidad progresista como fenómeno de compensación narcisista.
 
+
+## Altas capacidades: categoría clínica inexistente
+
+En el directo *Noticias 100tíficas* (10 feb 2026) el canal articula explícitamente que las altas capacidades no son una categoría clínica genuina sino un modismo que recoge problemas de adaptación etiquetándolos como rasgo positivo:
+
+> "Las altas capacidades son un modismo para recoger problemas de adaptación, no una circunstancia que exija tratamiento clínico,"
+→ [Noticias 100tíficas (19:35)](https://youtu.be/VgdybZKruwk?t=1175)
+
+> "Una característica de la inteligencia es la capacidad de adaptación, lo que contradice la definición misma de \"altas capacidades\" como diagnóstico,"
+→ [Noticias 100tíficas (19:35)](https://youtu.be/VgdybZKruwk?t=1175)
+
+La pieza es coherente con la tesis matriz de la página: si la **adaptación** es el predictor estructural de éxito a largo plazo, una etiqueta clínica que designa precisamente el déficit de adaptación como prueba de inteligencia superior es un sofisma categorial. La etiqueta opera como sustituto exculpatorio del diagnóstico real:
+
+> "El origen del diagnóstico: un alumno suspende, el profesor ve que no es tonto, y lo etiqueta como \"altas capacidades\" en lugar de investigar causas reales (depresión, conflictos, falta de motivación),"
+→ [Noticias 100tíficas (19:35)](https://youtu.be/VgdybZKruwk?t=1175)
+
+La maniobra evita explorar lo que realmente sucede — depresión infantil, conflictos familiares, falta de motivación, déficit atencional genuino — al ofrecer una etiqueta que protege la autoestima del alumno y descarga al docente del trabajo diagnóstico. La consecuencia que el canal articula como diagnóstico cultural es estructural:
+
+> "Clasificar conflictos mundanos como condiciones especiales es postmodernidad: festejar la mediocridad para que no se sienta ofendida,"
+→ [Noticias 100tíficas (19:35)](https://youtu.be/VgdybZKruwk?t=1175)
+
+La pieza enlaza con el análisis de [[woke-narrativa-postmoderna-moral]]: misma operación de reclasificar la diferencia descriptiva en categoría protegida para neutralizar el juicio cualitativo. Las "altas capacidades" cumplen para el bajo desempeño escolar la función que el [[autotipo]] cumple en otros dominios — vaciar la categoría de su capacidad discriminadora.
+
+
 ## La adaptación como predictor real y la psicopatía como espectro adaptativo
 
 El canal desarrolla en la segunda mitad del vídeo las dos tesis que completan el marco: (a) que la **adaptación** —no el CI— es el predictor estructural de éxito a largo plazo, y (b) que la psicopatía puede leerse como un espectro adaptativo particular: la ausencia de reactividad afectiva produce un tipo específico de adaptación funcional en contextos de alta competencia donde la reactividad emocional es un lastre.

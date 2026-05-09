@@ -130,5 +130,7 @@ La comparación con el Islam marca la distinción estructural: el Islam es carac
 ## Citations
 
 
+
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
+- **Perro no come Perro** — chunks: [38:05](https://youtu.be/Dv3caRUYzuc?t=2285)
 

@@ -263,6 +263,30 @@ Las tres naturalezas mantienen la tripartición ya articulada en el marco — af
 La transitoriedad como función primaria refuerza la tesis nuclear de irrepetibilidad de la matriz noética que esta página articulaba: ningún estado mental es estable, los componentes son gradientes en resíntesis continua. La novedad axiomática es que la transitoriedad no es contingencia operativa sino *función definitoria* de la unidad — una clase que no caduca ya no es clase. La consecuencia para [[realismo-cognitivo]] es directa: el sustrato representacional es estructuralmente entrópico, lo que cierra la coherencia con el postulado de la cognición como parte de la realidad material entrópica.
 
 
+## Jerarquía ontogenética y filogenética de las tres componentes Q
+
+En el directo *¿Porqué hay categorías masculina y femenina en ajedrez?* (03 ene 2026) el canal articula la jerarquía evolutivo-desarrollista entre las tres componentes Q que la sección anterior tratada como dimensiones ortogonales sin orden temporal-genealógico explícito.
+
+> "Las funciones afectivas son primarias, las imaginarias secundarias y las gramaticales terciarias, tanto ontogenética como filogenéticamente,"
+→ [¿Porqué hay categorías masculina y femenina en ajedrez? (53:33)](https://youtu.be/AJgvAsbd-UQ?t=3213)
+
+> "Cuanto más simple es un organismo, más se desplaza hacia la componente puramente afectiva,"
+→ [¿Porqué hay categorías masculina y femenina en ajedrez? (53:33)](https://youtu.be/AJgvAsbd-UQ?t=3213)
+
+> "La componente gramatical requiere un cerebro capaz de inhibir unas funciones en beneficio de otras,"
+→ [¿Porqué hay categorías masculina y femenina en ajedrez? (1:07:08)](https://youtu.be/AJgvAsbd-UQ?t=4028)
+
+La pieza precisa una asimetría estructural que la articulación matricial dejaba implícita: aunque las tres componentes Q son **dimensionalmente ortogonales** (cada una opera en su propio registro sin reducirse a las otras), están **temporalmente jerarquizadas** en dos planos coherentes:
+
+- **Plano filogenético** (escala evolutiva): organismos más simples operan dominantemente con Q sub-a (afectivo); la elaboración de Q sub-i (imaginario) requiere arquitecturas cerebrales con capacidad de representación espacial y forma sobre fondo (ver sección 'La inteligencia como recreación, no como representación' sobre el cuervo); la elaboración de Q sub-f (formal/gramatical) requiere capacidad inhibitoria — circuitería cortical que pueda suprimir activaciones de un módulo en beneficio de otro.
+- **Plano ontogenético** (desarrollo individual): el lactante opera primero con afectos puros (regulación visceral, valencia placer/displacer); el niño elabora después capacidades imaginarias (forma, espacio, juego representacional); la componente gramatical-formal madura tardíamente con el desarrollo del córtex prefrontal y sus funciones inhibitorias.
+
+La consecuencia operativa para el aparato: cuando el marco postula la **ambiguación** entre componentes Q (sección 'Mónadas universales objetivas...') como mecanismo nuclear de la cognición humana, está postulando una operación que requiere las tres componentes desarrolladas — operación que la mayoría de organismos no humanos no pueden ejecutar plenamente porque carecen del sustrato Q sub-f maduro. La ambigüación es la conquista evolutiva tardía que distingue la cognición humana del resto del espectro animal, sostenida sobre el sustrato Q sub-a más antiguo y compartido.
+
+La pieza añade además una predicción operativa para el flanco patológico del marco: estados regresivos (lesiones prefrontales, intoxicaciones, fatiga extrema) deberían producir caída desde Q sub-f hacia Q sub-i hacia Q sub-a — el orden filogenético-ontogenético inverso opera como cascada de degradación. La psicosis como exceso bottom-up de Q sub-i (ver sección 'Tres patologías como falsadores empíricos') es coherente con este patrón: la falla del control top-down de Q sub-f libera el material imaginario sin filtro, devolviendo al sujeto a un registro ontogenéticamente más temprano.
+
+
+
 
 
 ## La inteligencia como recreación, no como representación: el problema del cuervo
@@ -568,6 +592,41 @@ La precisión disciplinar es decisiva para el aparato del símbolo articulado en
 El **emergentismo de la cultura** que el canal declara articula la dirección causal del marco: la cultura no es ámbito autónomo desde el cual la cognición es modelada (lectura constructivista clásica) sino **manifestación** de procesos cognitivos que adquiere, una vez emergida, **funciones propias** — patrones operativos que la cognición individual ya no controla unilateralmente pero que tampoco son ajenos a ella. La consecuencia teórica para [[mitologia-propia-impropia]] y para los seis mitos primarios articulados en [[collective-unconscious]] es directa: los mitos son a la vez manifestación de la matriz noética humana (el sustrato cognitivo) y estructuras emergentes con función propia (el plano cultural). Ninguno de los dos planos absorbe al otro — la semiótica cognitiva los articula como fenómenos del mismo aparato operando a escalas distintas.
 
 La pieza cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' que la página declaraba: el cierre no es solo 'realismo cognitivo' como stance epistemológica sino **semiótica cognitiva** como disciplina constituida — la teoría de la interpretación mental opera al mismo nivel que las ciencias cognitivas y la antropología, no las subordina ni se subordina a ellas.
+
+
+## Panpsiquismo y el hard problem: definir antes de explicar
+
+En el directo *Noticias 100tíficas* (10 feb 2026) el canal articula su crítica al panpsiquismo como pseudo-solución al hard problem de la conciencia. La pieza precisa el criterio metodológico que el marco exige a cualquier teoría de la conciencia: definir primero, explicar después.
+
+### La estructura del panpsiquismo según Goff
+
+> "El panpsiquismo dice que la conciencia no es un fenómeno humano sino parte del tejido fundamental de la realidad, un primitivo fundamental como el tiempo o el espacio,"
+→ [Noticias 100tíficas (1:18:52)](https://youtu.be/VgdybZKruwk?t=4732)
+
+> "Philip Goff plantea el giro copernicano: ¿por qué explicar la realidad en términos de conciencia es menos válido que explicar la conciencia en términos de realidad?,"
+→ [Noticias 100tíficas (1:18:52)](https://youtu.be/VgdybZKruwk?t=4732)
+
+> "Al ser un fundamental del universo, el panpsiquismo no necesita definir qué es la conciencia, igual que no definimos qué es el tiempo,"
+→ [Noticias 100tíficas (1:18:52)](https://youtu.be/VgdybZKruwk?t=4732)
+
+### La objeción del canal: disolución por generalización máxima
+
+> "Crítica: si todo es conciencia es lo mismo que decir que nada lo es; el panpsiquismo parece un giro semántico más que una solución,"
+→ [Noticias 100tíficas (1:18:52)](https://youtu.be/VgdybZKruwk?t=4732)
+
+La pieza encadena con el criterio metodológico que el marco exige a toda teoría de la conciencia:
+
+> "El problema filosófico exige primero dar contenido semántico a \"conciencia\": definir a qué fenómeno nos referimos,"
+→ [Noticias 100tíficas (1:58:22)](https://youtu.be/VgdybZKruwk?t=7102)
+
+> "Luego hay que determinar si eso definido tiene sustancia, de dónde proviene, si es sustancia en sí misma,"
+→ [Noticias 100tíficas (1:58:22)](https://youtu.be/VgdybZKruwk?t=7102)
+
+> "La experiencia subjetiva del rojo (qualia) es el mejor experimento mental para ilustrar el hard problem,"
+→ [Noticias 100tíficas (1:58:22)](https://youtu.be/VgdybZKruwk?t=7102)
+
+La consecuencia para el marco articulado en esta página: el panpsiquismo cae en el mismo error categorial que el conductismo (ver [[realismo-cognitivo]] sección 'Crítica al conductismo como tautológico'), aunque por la vía opuesta — donde el conductismo evita el problema disolviendo la categoría de mente, el panpsiquismo lo evita disolviendo la categoría de no-mente. En ambos casos la indefinición operativa permite que el modelo "explique" todo sin discriminar nada. La clase cognitiva como mónada universal objetiva (ver sección 'Clase cognitiva como unidad mínima representacional') opera precisamente como intento de definir antes de explicar — sustituir el qualia inefable por una unidad operativa medible que la conciencia humana puede compartir entre individuos sin colapsar en privacidad subjetiva ni en omnipresencia panpsiquista.
+
 
 
 

@@ -147,6 +147,42 @@ La precisión más importante para el marco: la imagen popular del hipnotizado c
 La consecuencia operativa para la teoría del trauma articulada en la página: las tres técnicas no son intercambiables. El EMDR opera sobre la impronta traumática específica con anticorrelación simpático-parasimpático; la gnosis verde regula el tono parasimpático general sin objeto específico; la hipnosis concentra el yo en evocación con reducción de defensas. Confundirlas en la práctica clínica produce iatrogenia — aplicar gnosis verde a un trauma estructural no rescatará a la doncella; aplicar EMDR a una ansiedad generalizada no encuentra dragón al que ahuyentar.
 
 
+## Microdosis de enteógenos: reelaboración progresiva sin viaje
+
+En el directo *Noticias 100tíficas* (10 feb 2026) el canal articula con precisión la diferencia entre uso terapéutico y uso recreativo de los enteógenos en el tratamiento del trauma — pieza que la sección sobre EMDR dejaba implícita.
+
+> "La terapia con enteógenos no consiste en meterse un viaje sino en microdosis que no se notan durante un proceso terapéutico acompañado,"
+→ [Noticias 100tíficas (1:27:42)](https://youtu.be/VgdybZKruwk?t=5262)
+
+> "Cada vez que se trae el trauma a la mente bajo microdosis, la emoción negativa vinculada se va reduciendo progresivamente,"
+→ [Noticias 100tíficas (1:27:42)](https://youtu.be/VgdybZKruwk?t=5262)
+
+La mecánica es la misma que la del EMDR — desactivación progresiva de la emoción asociada al recuerdo — pero el vehículo farmacológico es distinto: el enteógeno disocia lo imaginario de lo formal y permite que el cerebro reformule las asociaciones episódicas sin que el paciente atraviese un viaje psicodélico completo. La terapia de exposición clásica funciona por saturación en entorno controlado donde el terapeuta ayuda a traer el trauma en un lugar seguro hasta que la respuesta afectiva se atenúa.
+
+### El estudio de ayahuasca como evidencia animal
+
+> "Un estudio en European Neuropsychopharmacology muestra que la ayahuasca ayuda a ratas a desaprender que un lugar antes peligroso ahora es seguro,"
+→ [Noticias 100tíficas (57:21)](https://youtu.be/VgdybZKruwk?t=3441)
+
+La equivalencia operativa con el EMDR se precisa en una hipótesis neurofarmacológica que la página dejaba abierta:
+
+> "El EMDR funciona para reelaboración episódica (probablemente vía acetilcolina), la terapia de regresión no,"
+→ [Noticias 100tíficas (1:05:00)](https://youtu.be/VgdybZKruwk?t=3900)
+
+### El trauma como memoria atascada y el contracondicionamiento como límite
+
+> "El trauma es una memoria episódica atascada en terror o pánico que no pudo procesarse correctamente: se tragó al fondo en vez de digerirse,"
+→ [Noticias 100tíficas (57:21)](https://youtu.be/VgdybZKruwk?t=3441)
+
+La pieza añade el contracondicionamiento como técnica límite que el canal nombra pero desaconseja:
+
+> "El contracondicionamiento es la fuerza bruta de la psicología: funciona pero no es recomendable porque es otra forma de trauma incompatible con el anterior,"
+→ [Noticias 100tíficas (1:05:00)](https://youtu.be/VgdybZKruwk?t=3900)
+
+Funciona por instalación de un trauma rival que desplaza al original — costo iatrogénico que invalida la técnica como primera línea. El criterio que el canal propone para discriminar técnicas válidas es la analogía con la difuminación espontánea de los sueños vívidos: la reelaboración debe ser proceso no consciente, análoga a cómo un sueño vívido se difumina espontáneamente al despertar sin que el sujeto haga nada. El EMDR, las microdosis acompañadas y la exposición controlada cumplen ese criterio; el contracondicionamiento lo viola al exigir saturación afectiva opuesta como mecánica de borrado.
+
+
+
 ## Lagunas
 
 - El vínculo entre **TEPT complejo** y rasgos de susceptibilidad individual queda enunciado pero no sistematizado: el canal lista factores sin articular una tipología
@@ -159,6 +195,7 @@ La consecuencia operativa para la teoría del trauma articulada en la página: l
 
 
 
+
 - **Magia y Trauma** — chunks: [29:53](https://youtu.be/JNafno3jgHY?t=1793) · [33:26](https://youtu.be/JNafno3jgHY?t=2006) · [1:28:05](https://youtu.be/JNafno3jgHY?t=5285) · [1:31:07](https://youtu.be/JNafno3jgHY?t=5467) · [1:37:10](https://youtu.be/JNafno3jgHY?t=5830) · [1:39:43](https://youtu.be/JNafno3jgHY?t=5983)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [1:13:56](https://youtu.be/1WEQmzUM41M?t=4436)
 
@@ -166,3 +203,5 @@ La consecuencia operativa para la teoría del trauma articulada en la página: l
 - **Análisis arquetípico Inside Out** — chunks: [1:48:40](https://youtu.be/V-ixEcJuLzw?t=6520) · [2:27:04](https://youtu.be/V-ixEcJuLzw?t=8824)
 
 - **Elisa y su CI** — chunks: [52:31](https://youtu.be/6tfSc45kjyo?t=3151)
+- **Noticias 100tíficas.** — chunks: [1:05:00](https://youtu.be/VgdybZKruwk?t=3900)
+

@@ -140,6 +140,103 @@ Matización propia del canal sobre la mecánica de la disociación recurrente: l
 
 Esta hipótesis conecta el cuadro clínico con la dinámica de [[excision-psicologica]] sostenida en el tiempo: la mente que ha aprendido a partirse para aislar dolor sigue disponiendo de ese mecanismo ante cada nueva confrontación.
 
+
+## Espectro graduado histriónico/Münchhausen/disociativo + mecánica de la excisión disociativa
+
+En el directo *Primer stream del año* (02 ene 2026) el canal articula el espectro graduado de simulación clínica según la conciencia que el sujeto tiene de su propio acto, la mecánica específica de la excisión disociativa como proxy de personalidad temporal, y dos casos clínicos complementarios (masking en psicópatas/autistas, enacting en madres Reborn).
+
+### El espectro graduado por conciencia de la simulación
+
+> "El Münchhausen es perfectamente consciente de que miente; el histriónico no se da cuenta de que sobreactúa; el simulador patológico no distingue entre actuar y no actuar,"
+→ [Primer stream del año (58:20)](https://youtu.be/kEgjSN3uKy4?t=3500)
+
+> "En el síndrome de Münchhausen grave, la persona no solo miente sino que actúa fingiendo que le ocurren cosas hasta parecer un trastorno conversivo,"
+→ [Primer stream del año (58:20)](https://youtu.be/kEgjSN3uKy4?t=3500)
+
+> "El trastorno histriónico grave produce maskings y personajes donde la persona real casi nunca se muestra,"
+→ [Primer stream del año (58:20)](https://youtu.be/kEgjSN3uKy4?t=3500)
+
+La pieza articula tres niveles graduados según el grado de conciencia que el sujeto conserva sobre su propia simulación:
+
+- **Münchhausen** (conciencia plena): el sujeto sabe que miente y elabora deliberadamente el engaño hasta parecer un trastorno conversivo somático
+- **Histriónico** (conciencia perdida operativamente): el sujeto NO se da cuenta de que sobreactúa — la dramatización opera como conducta automática, los maskings y personajes desplazan a la persona real
+- **Simulador patológico** (frontera disuelta): el sujeto NO distingue entre actuar y no actuar — la simulación deja de ser opción y se convierte en modalidad existencial sin alternativa accesible
+
+El espectro precisa el aparato anterior de la página: el criterio de prosodia opera como diagnóstico, pero la conciencia del sujeto sobre su propia simulación opera como criterio adicional para discriminar entre cuadros. El histriónico de la TikToker NO es Münchhausen (sería consciente del engaño); es histriónico operando bajo conciencia perdida.
+
+### Falsos diagnósticos de TID y umbral de la mentalización
+
+> "Hay mucho diagnóstico erróneo de identidad múltiple: simulaciones donde alguien finge un trastorno y casos donde el paciente confunde personajes con personalidades,"
+→ [Primer stream del año (54:49)](https://youtu.be/kEgjSN3uKy4?t=3289)
+
+> "En el trastorno disociativo verdadero, el cambio de personalidad es espontáneo, involuntario y el individuo no puede mentalizarlo,"
+→ [Primer stream del año (54:49)](https://youtu.be/kEgjSN3uKy4?t=3289)
+
+> "Un acting out es una forma de expresar un conflicto inconsciente mediante una conducta que no se parece al conflicto real,"
+→ [Primer stream del año (54:49)](https://youtu.be/kEgjSN3uKy4?t=3289)
+
+La pieza añade un criterio diagnóstico que la página articulaba implícitamente vía prosodia pero no nombraba: la **imposibilidad de mentalización** del cambio de personalidad. En el TID verdadero el cambio es espontáneo, involuntario y el individuo no puede mentalizarlo (no puede pensar 'estoy cambiando de personalidad'). Si el sujeto puede mentalizar el cambio, el cuadro deja de ser disociativo y pasa al espectro histriónico-personaje. El acting out se distingue además como categoría intermedia: expresión de conflicto inconsciente vía conducta que no se parece al conflicto real — no es disociación pero tampoco es comportamiento integrado.
+
+### Mecánica específica de la excisión disociativa
+
+> "Ante un trauma, la mente abandona sus estructuras afectivas, construye otras y genera un proxy de personalidad temporal,"
+→ [Primer stream del año (1:12:07)](https://youtu.be/kEgjSN3uKy4?t=4327)
+
+> "La excisión ocurre cuando esa personalidad proxy no desaparece tras el trauma sino que se queda separada del resto de memorias,"
+→ [Primer stream del año (1:12:07)](https://youtu.be/kEgjSN3uKy4?t=4327)
+
+> "Si un individuo conoce y reconoce sus diferentes personalidades, no puede haber excisión verdadera porque la excisión exige que una realidad no pueda conocer a la otra,"
+→ [Primer stream del año (1:12:07)](https://youtu.be/kEgjSN3uKy4?t=4327)
+
+La pieza precisa la mecánica específica de la disociación traumática que la página apuntaba como cruce con [[excision-psicologica]] sin desarrollarla:
+
+1. **Fase de trauma**: la mente abandona temporalmente sus estructuras afectivas activas (las que están procesando el dolor traumático intolerable)
+2. **Construcción defensiva**: la mente construye estructuras afectivas alternativas que no contienen el contenido traumático
+3. **Generación de proxy**: emerge una personalidad temporal proxy con esas estructuras alternativas — opera como contenedor afectivo de emergencia
+4. **Excisión propia**: el cuadro deviene TID solo si esa personalidad proxy NO desaparece tras la fase de trauma sino que queda separada del resto de memorias del sujeto, sin canal de comunicación entre ambas
+
+La condición operativa de la excisión genuina (criterio de irreductibilidad): una realidad no puede conocer a la otra. Si el sujeto puede reconocer sus diferentes personalidades — incluso si no las controla — el cuadro no es excisión disociativa sino otra modalidad (personaje histriónico, acting out, evento disociativo aislado). El criterio cierra el flanco diagnóstico de la página y enlaza directamente con [[excision-psicologica]].
+
+### Masking en psicópatas y autistas: solapamiento por problema común
+
+> "El masking es un conjunto de conductas aprendidas que simulan naturalidad en la interacción social,"
+→ [Primer stream del año (52:16)](https://youtu.be/kEgjSN3uKy4?t=3136)
+
+> "Psicópatas y autistas se solapan en el masking porque ambos tienen problemas similares de interacción social,"
+→ [Primer stream del año (52:16)](https://youtu.be/kEgjSN3uKy4?t=3136)
+
+> "La diferencia entre simulación y emulación es que la simulación incluye la imitación mecánica de procedimientos internos, no solo lo estético,"
+→ [Primer stream del año (52:16)](https://youtu.be/kEgjSN3uKy4?t=3136)
+
+La pieza articula el masking como caso clínico de **simulación conductual aprendida** que cuadros tan distintos como psicopatía y autismo comparten por convergencia funcional: ambos enfrentan el mismo problema operativo (interacción social que no fluye espontáneamente) y desarrollan respuestas conductuales similares (conjunto de conductas aprendidas que simulan naturalidad). El solapamiento NO indica parentesco etiológico entre los cuadros — son dos vías muy distintas que llevan al mismo dispositivo defensivo. El masking opera en el régimen de emulación (forma estético-conductual indistinguible) sin alcanzar simulación (que exigiría replicar también los procedimientos internos espontáneos del que NO tiene el problema).
+
+### Madres Reborn: el enacting como compulsión actuada
+
+> "Las madres Reborn son mujeres que juegan a ser madres con muñecos de duelo perinatal y lo graban para TikTok,"
+→ [Primer stream del año (1:06:02)](https://youtu.be/kEgjSN3uKy4?t=3962)
+
+> "El enacting es un actuar del que el individuo es tan dependiente que funciona como una compulsión,"
+→ [Primer stream del año (1:06:02)](https://youtu.be/kEgjSN3uKy4?t=3962)
+
+> "El cringe (vergüenza ajena) es lo que está antes del uncanny valley en el espectro de la incomodidad ante la artificialidad,"
+→ [Primer stream del año (1:06:02)](https://youtu.be/kEgjSN3uKy4?t=3962)
+
+La pieza añade una categoría adicional al espectro de simulación: el **enacting** como actuar compulsivo que el sujeto no puede no hacer. Las madres Reborn son caso paradigmático — la simulación de maternidad con muñecos de duelo perinatal y su difusión en TikTok no es elección estética ni performance consciente sino compulsión actuada. La categoría se diferencia del histriónico (sobreactúa sin saberlo) y del Münchhausen (engaña sabiéndolo): el enacting es necesidad de actuar que el sujeto experimenta como ineludible. La pieza añade además un mapa fenomenológico complementario: el cringe (vergüenza ajena ante artificialidad superable) opera antes del uncanny valley (incomodidad ante artificialidad estructuralmente perturbadora) en el espectro de respuestas a la simulación fallida.
+
+### Colusión y competencia entre histriónicos + Rei Ayanami como anti-perfil
+
+> "Dos histriónicos pueden desarrollar una colusión donde sus personajes se complementan y ambos se sienten cómodos y seguros,"
+→ [Primer stream del año (1:17:09)](https://youtu.be/kEgjSN3uKy4?t=4629)
+
+> "También pueden competir ferozmente cuando ambos quieren ser la abeja reina del grupo, generando conflictos muy intensos,"
+→ [Primer stream del año (1:17:09)](https://youtu.be/kEgjSN3uKy4?t=4629)
+
+> "Lo que más odia un histriónico es un perfil tipo Rei Ayanami: alguien esquizoide, inexpresivo, que no responde a la dramatización,"
+→ [Primer stream del año (1:17:09)](https://youtu.be/kEgjSN3uKy4?t=4629)
+
+La pieza articula la mecánica relacional entre histriónicos y identifica el anti-perfil paradigmático que los desestabiliza. La colusión positiva entre histriónicos opera por complementariedad de personajes (ambos sienten cómoda la dramatización mutua). La competencia destructiva opera cuando ambos pretenden ocupar la misma posición central — lucha por la abeja reina con conflictos muy intensos. El anti-perfil es Rei Ayanami (referencia a Evangelion): el esquizoide inexpresivo cuya no-respuesta a la dramatización opera como espejo neutro que refleja la artificialidad del histriónico sin contraparte que la valide. La consecuencia operativa para [[colusion-heroe-ninfa]]: las colusiones entre cuadros inmaduros del cluster B se rigen por las mismas leyes — colusión positiva por complementariedad funcional, colusión negativa por dependencia mutua del trastorno, anti-perfil que rompe el espejo simbólico necesario para sostener el cuadro.
+
+
 ## Relectura del cine: Fight Club y Memento
 
 La tesis se cierra con una operación de relectura que separa el constructo disociativo del trastorno clínico: el canal sostiene que [[fight-club-1999-film]] no es una película sobre TID, sino sobre fuga depresiva que se sirve del recurso narrativo de la disociación.
@@ -167,6 +264,8 @@ La lectura recoloca cada obra: Fight Club queda dentro del campo de la escisión
 
 
 
+
 - **Lunes basado terminal** — chunks: [32:10](https://youtu.be/oHxXzr5WSbQ?t=1930) · [36:13](https://youtu.be/oHxXzr5WSbQ?t=2173)
 - **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [1:30:56](https://youtu.be/xdT-SCW89cw?t=5456)
+- **Primer stream del año** — chunks: [54:49](https://youtu.be/kEgjSN3uKy4?t=3289)
 

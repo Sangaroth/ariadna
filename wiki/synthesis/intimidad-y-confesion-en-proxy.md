@@ -127,6 +127,46 @@ La tesis sobre la intimidad presupone la definición de [[vinculo]] como relaci�
 
 La intimidad máxima (confesión del propio mal) es el grado más intenso de activación del [[vinculo]]: la modificación mutua entre representaciones personales alcanza su punto de mayor profundidad cuando lo revelado es el contenido más protegido. Sin [[vinculo]] previo como marco de reciprocidad, la confesión no produce intimidad sino exposición desnuda.
 
+
+## Intimidad como proximidad en las debilidades y el compromiso supremo
+
+En el directo *¿Porqué el amor? Introducción* (16 dic 2024) el canal precisa dos piezas de la teoría de la intimidad que la articulación de la confesión dejaba implícitas: la definición operativa de intimidad como ámbito sin riesgos de exposición, y el compromiso total como nivel supremo de la jerarquía intima.
+
+### Intimidad como ámbito de exposición sin riesgo
+
+> "La intimidad es la proximidad en las debilidades: el ámbito donde puedes exponer algo y has eliminado los riesgos de la exposición,"
+→ [¿Porqué el amor? Introducción (1:26:14)](https://youtu.be/Qui4WMSQ99k?t=5174)
+
+La precisión añade la condición material que la confesión-tesis suponía sin nombrarla: la intimidad no es solo el acto de revelar (confesar el propio mal) sino el **ámbito relacional** donde la revelación puede ocurrir porque los riesgos de la exposición han sido neutralizados. La confesión es el acto; la intimidad es el campo donde el acto deviene posible. La traición de la confesión que la página articula como daño irreparable es precisamente la operación de **destruir el campo** — convertir lo que era ámbito sin riesgo en escenario público. El campo es prerrequisito; el acto es su actualización.
+
+### Hacer el amor como renuncia al yo
+
+> "El amor se hace: son actos de renuncia al yo en pos de la otra persona, una forma de sacrificio bueno en sí mismo,"
+→ [¿Porqué el amor? Introducción (1:26:14)](https://youtu.be/Qui4WMSQ99k?t=5174)
+
+> "Si la entrega es solo sexual sin otro ámbito de intimidad, estás siendo consumido,"
+→ [¿Porqué el amor? Introducción (1:26:14)](https://youtu.be/Qui4WMSQ99k?t=5174)
+
+La pieza articula la dimensión activa de la intimidad que complementa la pasiva (revelar): intimidad opera también como **disposición sostenida** de renunciar al yo en favor del otro. La entrega del cuerpo articulada en la sección 'Entrega de cuerpo y entrega de alma' adquiere aquí su precisión operativa: el sexo entregado dentro del campo de intimidad es renuncia al yo — sacrificio bueno; el sexo entregado fuera del campo de intimidad es ser consumido — autodisolución sin contraparte. La distinción no se juega en el acto físico sino en si el acto ocurre dentro o fuera del campo previamente establecido.
+
+### El compromiso total como nivel supremo de la jerarquía íntima
+
+> "El nivel supremo de intimidad es hacerlo con una persona con la que te entregas total y absolutamente para siempre,"
+→ [¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)
+
+> "El ritual por el cual dos personas pasan a ser uno: lo que le pase a uno es como si les pasara a los dos,"
+→ [¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)
+
+La pieza completa la jerarquía interna de la intimidad articulada en la página (sexo < confesión, cuerpo < alma) añadiendo el **nivel supremo**: el compromiso total y permanente con una sola persona. La jerarquía completa queda así: sexo casual < intimidad anímica puntual < confesión del mal propio < compromiso total para siempre. El último nivel no es solo intensidad mayor sino estructura distinta — el ritual por el que dos personas pasan a ser una sola unidad cuyas vivencias se distribuyen como si fueran propias en ambas. La pieza enlaza directamente con [[hieros-gamos]] como articulación arquetípica del mismo nivel supremo: lo que la psicología describe como compromiso total y permanente, el aparato mítico-arquetípico nombra como matrimonio sagrado. La intimidad-y-confesion opera entonces como puente psicológico entre el aparato del [[vinculo]] (relación bivectiva genérica) y el del [[hieros-gamos]] (unión sagrada arquetípica) — el compromiso supremo es la cara psicológica del matrimonio sagrado.
+
+### La aventura sexual sin intimidad como riesgo asimétrico
+
+> "La aventura sexual sin intimidad no es mala pero es peligrosa: cuanto más riesgo, más responsabilidad,"
+→ [¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)
+
+La pieza cierra la articulación con un principio operativo: el sexo fuera del campo de intimidad no es categoría moral negativa pero sí categoría material peligrosa por el desequilibrio de exposición sin marco de seguridad. La consecuencia ética que el canal extrae no es prohibitiva sino proporcional: cuanto más riesgo asume el sujeto, más responsabilidad debe sostener sobre las consecuencias. La pieza enlaza con la categoría coherencia/responsabilidad articulada en [[libre-albedrio-ilusion-funcional]] sección 'Coherencia y conciencia de responsabilidad como aproximación operativa' — la responsabilidad asumida es el sustituto operativo del par voluntad/libertad cuando el sujeto opera fuera del campo de intimidad protector.
+
+
 ## Lagunas
 
 - **Asimetría de género en la intimidad**: el canal señala que el sexo puede destruir el vínculo "especialmente en hombres" sin desarrollar si la jerarquía confesión > sexo opera simétricamente o presenta distribución diferencial por sexo.

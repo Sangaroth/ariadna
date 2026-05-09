@@ -1,0 +1,191 @@
+{
+  "video_id": "Qui4WMSQ99k",
+  "video_title": "¿Porqué el amor? Introducción: Libertad y lo que Surja",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "voluntad como análisis a posteriori + decisiones todas afectivas + coherencia y responsabilidad como aproximación operativa",
+      "canonical_guess": "voluntad-como-analisis-a-posteriori",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 14,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La voluntad es un análisis a posteriori, no existe a priori como categoría real,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las decisiones son todas afectivas, no racionales; existe la decisión explícita o implícita, pero no la decisión racional,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo más parecido a voluntad y libertad es la coherencia y la conciencia de responsabilidad,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Tres piezas que refinan libre-albedrio-ilusion-funcional: (a) voluntad como análisis retrospectivo, no categoría a priori (precisión sobre la 'ilusión funcional' ya documentada); (b) decisiones todas afectivas — refuta explícitamente la decisión racional como categoría operativa, lo que cierra una laguna metodológica; (c) coherencia y responsabilidad como mejor aproximación operativa al concepto de voluntad-libertad. Material genuinamente nuevo que completa el aparato anti-voluntarista del marco",
+      "quote_evidence": "Voluntad es el resultado por el que entendemos que nuestro impulso está alineado con nuestra expectativa,"
+    },
+    {
+      "surface_form": "intimidad como proximidad en debilidades + compromiso total como nivel supremo de intimidad",
+      "canonical_guess": "intimidad-como-proximidad-en-debilidades-y-compromiso-supremo",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La intimidad es la proximidad en las debilidades: el ámbito donde puedes exponer algo y has eliminado los riesgos de la exposición,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El nivel supremo de intimidad es hacerlo con una persona con la que te entregas total y absolutamente para siempre,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "update_existing",
+      "decision_reason": "Dos piezas que refinan intimidad-y-confesion-en-proxy: (a) la definición operativa de intimidad como 'ámbito donde se han eliminado los riesgos de exposición' añade la condición material que la confesión-tesis dejaba implícita; (b) el nivel supremo de intimidad como compromiso total con una persona y el ritual de 'dos pasan a ser uno' enlaza directamente con hieros-gamos articulado en otra página, completando la jerarquía interna de la intimidad",
+      "quote_evidence": "El ritual por el cual dos personas pasan a ser uno: lo que le pase a uno es como si les pasara a los dos,"
+    }
+  ],
+  "_doc_promote_new": "No emito promote_new directo. La articulación sostenida (~150 min) sobre amor/sexo cumple gate §2.4.1 cuantitativamente y es vídeo monográfico planificado (anuncia explícitamente serie nueva), pero se registra como thesis_candidate con requires_human_validation:true porque (a) pertenece a serie cuya consolidación editorial conviene esperar antes de fijar la página, y (b) el material analítico ya distribuido en pages existentes (libre-albedrio-ilusion-funcional, intimidad-y-confesion-en-proxy, vinculo, hieros-gamos, amor-cortes-y-monogamia-civilizatoria, consumismo-critica) hace pertinente el juicio editorial humano sobre si una nueva page-paraguas merece existir o si los pending_updates bastan",
+  "pending_updates": [
+    {
+      "page_id": "libre-albedrio-ilusion-funcional",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "no solo las máquinas no representan ni sienten, tampoco deciden, en el sentido en el que la cognición humana decide.",
+      "content_proposed": "\n## Voluntad como análisis a posteriori, decisiones afectivas y coherencia como aproximación operativa\n\nEn el directo *¿Porqué el amor? Introducción: Libertad y lo que Surja* (16 dic 2024) el canal articula tres piezas que cierran flancos del marco articulado en esta página: el estatuto categorial de la voluntad como reconstrucción retrospectiva, el carácter afectivo de toda decisión, y la sustitución operativa del par voluntad/libertad por coherencia/responsabilidad.\n\n### Voluntad como reconstrucción a posteriori\n\n> \"Voluntad, libertad, moral: psicológicamente no son precisas ni responden a una función propia,\"\n→ [¿Porqué el amor? Introducción (44:01)](https://youtu.be/Qui4WMSQ99k?t=2641)\n\n> \"Voluntad es el resultado por el que entendemos que nuestro impulso está alineado con nuestra expectativa,\"\n→ [¿Porqué el amor? Introducción (44:01)](https://youtu.be/Qui4WMSQ99k?t=2641)\n\n> \"La voluntad es un análisis a posteriori, no existe a priori como categoría real,\"\n→ [¿Porqué el amor? Introducción (1:52:10)](https://youtu.be/Qui4WMSQ99k?t=6730)\n\nLa pieza precisa el estatuto categorial que la página articulaba como ilusión funcional: la voluntad no opera **antes** de la acción como facultad que la inicia, sino **después** como reconstrucción narrativa que registra la coincidencia entre impulso ejecutado y expectativa previa. Cuando el impulso coincide con la expectativa, el sujeto le llama 'voluntad'; cuando no coincide, le llama 'imposición' o 'debilidad'. La categoría no nombra una facultad previa al acto sino el juicio retrospectivo sobre la alineación entre impulso y expectativa.\n\nEsta precisión cierra una laguna implícita: la 'ilusión funcional' que la página articula se refiere precisamente a este mecanismo retrospectivo — la mente reconstruye su propia agencia como si hubiera precedido al acto, y esa reconstrucción es funcionalmente operativa aunque categorialmente posterior.\n\n### Decisiones todas afectivas, no racionales\n\n> \"Las decisiones son todas afectivas, no racionales; existe la decisión explícita o implícita, pero no la decisión racional,\"\n→ [¿Porqué el amor? Introducción (42:01)](https://youtu.be/Qui4WMSQ99k?t=2521)\n\n> \"Un tercio de las representaciones mentales son afectos: cosas que queremos o no queremos,\"\n→ [¿Porqué el amor? Introducción (42:01)](https://youtu.be/Qui4WMSQ99k?t=2521)\n\nLa pieza articula la consecuencia operativa que la sección 'Libre albedrío vs computación' dejaba implícita: si las decisiones humanas se distinguen de las computaciones por su sustrato afectivo (las máquinas no deciden porque no eligen sobre afectos), entonces TODA decisión humana es afectiva — la 'decisión racional' como categoría es ilusión metacognitiva. Lo que el sujeto experimenta como 'decisión racional' es ponderación afectiva donde uno de los términos del cálculo es el afecto 'ser racional', no ausencia de afecto. La distinción operativa que el marco mantiene es **explícita vs implícita** (cuán consciente es el sujeto de los afectos que pondera), no racional vs afectiva.\n\n### Coherencia y conciencia de responsabilidad como aproximación operativa\n\n> \"Lo más parecido a voluntad y libertad es la coherencia y la conciencia de responsabilidad,\"\n→ [¿Porqué el amor? Introducción (1:52:10)](https://youtu.be/Qui4WMSQ99k?t=6730)\n\nLa pieza cierra el flanco de 'Articulación con la responsabilidad moral' que la página declaraba en lagunas. Si la voluntad no opera como facultad a priori y todas las decisiones son afectivas, ¿cómo se sostiene la imputación moral? La respuesta del canal: sustituir el par voluntad/libertad (categorías mitológicas sin función propia operativa) por el par **coherencia/responsabilidad** (categorías operacionales sobre el comportamiento del sujeto en el tiempo). La coherencia mide la consistencia del sujeto entre sus declaraciones, sus afectos y sus actos; la responsabilidad mide su disposición a hacerse cargo de las consecuencias de sus actos. Ambas son verificables fenomenológicamente sin necesidad de invocar una facultad volitiva metafísica. La ilusión funcional del libre albedrío sigue operando — el sujeto experimenta agencia — pero la imputación moral no descansa sobre esa ilusión sino sobre la huella temporal verificable de coherencia y responsabilidad.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "timestamp_seconds": 2641,
+          "cite_markdown": "[¿Porqué el amor? Introducción (44:01)](https://youtu.be/Qui4WMSQ99k?t=2641)"
+        },
+        {
+          "video_id": "Qui4WMSQ99k",
+          "timestamp_seconds": 6730,
+          "cite_markdown": "[¿Porqué el amor? Introducción (1:52:10)](https://youtu.be/Qui4WMSQ99k?t=6730)"
+        },
+        {
+          "video_id": "Qui4WMSQ99k",
+          "timestamp_seconds": 2521,
+          "cite_markdown": "[¿Porqué el amor? Introducción (42:01)](https://youtu.be/Qui4WMSQ99k?t=2521)"
+        }
+      ],
+      "rationale": "La página articula libre albedrío como ilusión funcional + asimetría humano/máquina + irrelevancia práctica del debate, pero NO documenta tres piezas operativas: (a) voluntad como análisis a posteriori, no facultad previa; (b) toda decisión es afectiva, lo que clausura la categoría 'decisión racional'; (c) coherencia y responsabilidad como sustitutos operativos del par voluntad/libertad, lo que cierra la laguna 'Articulación con la responsabilidad moral' explícitamente declarada. Material nuevo que completa el aparato anti-voluntarista del marco. insert_after_passage tras 'Libre albedrío vs computación' es editorialmente correcto: la nueva sección extiende el aparato con el caso operativo humano",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "intimidad-y-confesion-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Sin [[vinculo]] previo como marco de reciprocidad, la confesión no produce intimidad sino exposición desnuda.",
+      "content_proposed": "\n## Intimidad como proximidad en las debilidades y el compromiso supremo\n\nEn el directo *¿Porqué el amor? Introducción* (16 dic 2024) el canal precisa dos piezas de la teoría de la intimidad que la articulación de la confesión dejaba implícitas: la definición operativa de intimidad como ámbito sin riesgos de exposición, y el compromiso total como nivel supremo de la jerarquía intima.\n\n### Intimidad como ámbito de exposición sin riesgo\n\n> \"La intimidad es la proximidad en las debilidades: el ámbito donde puedes exponer algo y has eliminado los riesgos de la exposición,\"\n→ [¿Porqué el amor? Introducción (1:26:14)](https://youtu.be/Qui4WMSQ99k?t=5174)\n\nLa precisión añade la condición material que la confesión-tesis suponía sin nombrarla: la intimidad no es solo el acto de revelar (confesar el propio mal) sino el **ámbito relacional** donde la revelación puede ocurrir porque los riesgos de la exposición han sido neutralizados. La confesión es el acto; la intimidad es el campo donde el acto deviene posible. La traición de la confesión que la página articula como daño irreparable es precisamente la operación de **destruir el campo** — convertir lo que era ámbito sin riesgo en escenario público. El campo es prerrequisito; el acto es su actualización.\n\n### Hacer el amor como renuncia al yo\n\n> \"El amor se hace: son actos de renuncia al yo en pos de la otra persona, una forma de sacrificio bueno en sí mismo,\"\n→ [¿Porqué el amor? Introducción (1:26:14)](https://youtu.be/Qui4WMSQ99k?t=5174)\n\n> \"Si la entrega es solo sexual sin otro ámbito de intimidad, estás siendo consumido,\"\n→ [¿Porqué el amor? Introducción (1:26:14)](https://youtu.be/Qui4WMSQ99k?t=5174)\n\nLa pieza articula la dimensión activa de la intimidad que complementa la pasiva (revelar): intimidad opera también como **disposición sostenida** de renunciar al yo en favor del otro. La entrega del cuerpo articulada en la sección 'Entrega de cuerpo y entrega de alma' adquiere aquí su precisión operativa: el sexo entregado dentro del campo de intimidad es renuncia al yo — sacrificio bueno; el sexo entregado fuera del campo de intimidad es ser consumido — autodisolución sin contraparte. La distinción no se juega en el acto físico sino en si el acto ocurre dentro o fuera del campo previamente establecido.\n\n### El compromiso total como nivel supremo de la jerarquía íntima\n\n> \"El nivel supremo de intimidad es hacerlo con una persona con la que te entregas total y absolutamente para siempre,\"\n→ [¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)\n\n> \"El ritual por el cual dos personas pasan a ser uno: lo que le pase a uno es como si les pasara a los dos,\"\n→ [¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)\n\nLa pieza completa la jerarquía interna de la intimidad articulada en la página (sexo < confesión, cuerpo < alma) añadiendo el **nivel supremo**: el compromiso total y permanente con una sola persona. La jerarquía completa queda así: sexo casual < intimidad anímica puntual < confesión del mal propio < compromiso total para siempre. El último nivel no es solo intensidad mayor sino estructura distinta — el ritual por el que dos personas pasan a ser una sola unidad cuyas vivencias se distribuyen como si fueran propias en ambas. La pieza enlaza directamente con [[hieros-gamos]] como articulación arquetípica del mismo nivel supremo: lo que la psicología describe como compromiso total y permanente, el aparato mítico-arquetípico nombra como matrimonio sagrado. La intimidad-y-confesion opera entonces como puente psicológico entre el aparato del [[vinculo]] (relación bivectiva genérica) y el del [[hieros-gamos]] (unión sagrada arquetípica) — el compromiso supremo es la cara psicológica del matrimonio sagrado.\n\n### La aventura sexual sin intimidad como riesgo asimétrico\n\n> \"La aventura sexual sin intimidad no es mala pero es peligrosa: cuanto más riesgo, más responsabilidad,\"\n→ [¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)\n\nLa pieza cierra la articulación con un principio operativo: el sexo fuera del campo de intimidad no es categoría moral negativa pero sí categoría material peligrosa por el desequilibrio de exposición sin marco de seguridad. La consecuencia ética que el canal extrae no es prohibitiva sino proporcional: cuanto más riesgo asume el sujeto, más responsabilidad debe sostener sobre las consecuencias. La pieza enlaza con la categoría coherencia/responsabilidad articulada en [[libre-albedrio-ilusion-funcional]] sección 'Coherencia y conciencia de responsabilidad como aproximación operativa' — la responsabilidad asumida es el sustituto operativo del par voluntad/libertad cuando el sujeto opera fuera del campo de intimidad protector.\n",
+      "wikilinks_introduced": [
+        "hieros-gamos",
+        "libre-albedrio-ilusion-funcional"
+      ],
+      "citations_added": [
+        {
+          "video_id": "Qui4WMSQ99k",
+          "timestamp_seconds": 5174,
+          "cite_markdown": "[¿Porqué el amor? Introducción (1:26:14)](https://youtu.be/Qui4WMSQ99k?t=5174)"
+        },
+        {
+          "video_id": "Qui4WMSQ99k",
+          "timestamp_seconds": 5327,
+          "cite_markdown": "[¿Porqué el amor? Introducción (1:28:47)](https://youtu.be/Qui4WMSQ99k?t=5327)"
+        }
+      ],
+      "rationale": "La página articula intimidad como acceso al lugar más reservado del otro, jerarquía cuerpo/alma (sacrificio/confesión), Sacramento de la confesión como paradigma teológico, y patologías de la intimidad. NO documenta (a) la definición operativa de intimidad como ámbito de exposición sin riesgo, (b) hacer el amor como renuncia al yo dentro del campo de intimidad vs ser consumido fuera de él, (c) el compromiso total y permanente como nivel supremo de la jerarquía íntima, ni (d) la conexión psicológico-arquetípica con hieros-gamos. Material nuevo que completa la jerarquía interna y construye el puente con el aparato arquetípico del matrimonio sagrado. insert_after_passage tras 'El vínculo como estructura previa' es editorialmente correcto: añade el siguiente eslabón de la jerarquía después del prerrequisito vincular",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "caso Lily — maratón sexual de 100/1000 hombres",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura externa coyuntural (creadora de contenido OnlyFans en polémica viral) usada como CASO ANALIZADO para articular dos tesis del marco: (a) el daño físico real del exceso sexual como cualquier maratón corporal extremo, y (b) la futilidad de la crítica iracunda en redes como sofisma estético. La figura en sí no merece página propia (figura coyuntural, no en whitelist). El contenido analítico está canalizado al thesis_candidate amor-y-sexo-en-proxy como caso aplicado en la sección sobre dialéctica vs retórica y sobre el daño material del consumo sexual",
+      "quote_evidence": "Tener sexo con 100 personas en un día es físicamente malo y peligroso, como cualquier maratón que lleve el cuerpo al límite,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-y-sexo-en-proxy"
+    },
+    {
+      "surface_form": "debate con Marta Veronese sobre tweet de Libertad y lo que Surja",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura externa coyuntural (cuenta de Twitter) cuyo tweet se discute en bloque específico. La estructura analítica que el speaker articula (falsa dicotomía entre tradwife infeliz vs Lily feliz; criticar por criticar es estúpido pero análisis es legítimo; legitimidad del juicio depende de cercanía con contexto) es valiosa pero está integrada como pieza aplicada en el thesis_candidate. La figura Marta Veronese no merece página propia ni recibe tratamiento sustantivo — solo es interlocutora del debate puntual",
+      "quote_evidence": "El tweet plantea una falsa dicotomía entre hija infeliz como tradwife o hija feliz como Lily: no es comparable porque una actividad es inocua y la otra no,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "China prohíbe OnlyFans",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Política coyuntural china usada como caso para articular tesis estructural del marco: (a) sexo como necesidad/instinto que no admite prohibición directa, (b) prohibir vs abolir como categorías distintas, (c) consumo de sexo solo sin afecto como adicción análoga al opio. La política china en sí no merece página propia ni enriquece página existente del corpus actual — el contenido analítico está canalizado al thesis_candidate. Análogamente con Japón como caso de polarización pública/privada",
+      "quote_evidence": "China cree que OnlyFans desordena el país porque aumenta la oferta de contenido sexual difícil de resistir,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-y-sexo-en-proxy"
+    },
+    {
+      "surface_form": "anuncios brutales de la DGT como caso de introyección cultural",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Caso histórico-publicitario español (anuncios DGT décadas pasadas) usado como ilustración del mecanismo cultural de introyección: primero miedo, después culpa, hasta que no ponerse el cinturón se asocia a ser responsable de daños a terceros. La política publicitaria en sí no merece página — el mecanismo analítico (introyección como vía cultural de modificación del comportamiento) sí está canalizado al thesis_candidate como pieza del marco",
+      "quote_evidence": "Los anuncios brutales de la DGT primero introyectaron miedo en la población y después introyectaron culpa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-y-sexo-en-proxy"
+    },
+    {
+      "surface_form": "Japón como sociedad polarizada respecto al sexo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Análisis comparativo cultural sobre Japón como caso de polarización pública/privada en lo sexual sin introyección de culpa. Comparación cultural usada como caso del marco — el contenido analítico está canalizado al thesis_candidate. Japón en sí no merece página propia ni enriquece página existente del corpus",
+      "quote_evidence": "Japón no es una sociedad depravada sino muy polarizada respecto al deseo: muy reprimida en lo público, muy liberada en lo privado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "amor-y-sexo-en-proxy"
+    },
+    {
+      "surface_form": "Cifra de Matrix como caso del eje libertario/conservador",
+      "reason_code": "already_captured",
+      "reason_detail": "La página matrix-1999-film ya documenta extensamente el análisis arquetípico-gnóstico de Matrix. La pieza nueva (Cifra como ilustración del eje libertario [verdad sufriente] vs conservador [ignorancia feliz] del diagrama-de-proxy) es matización interesante pero opera como conexión entre páginas ya promovidas. Se canaliza vía thesis_candidate.potential_relations_proposed sin pending_update específico para evitar duplicar prosa que el editor podría preferir consolidar en la nueva page-paraguas (si se promueve) o repartir entre matrix-1999-film y diagrama-de-proxy",
+      "quote_evidence": "La diferencia entre el aspecto libertario y el conservador es que hacia arriba en el diagrama es preferible la verdad sufriente y hacia abajo la ignorancia feliz,",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el thesis_candidate amor-y-sexo-en-proxy NO se promueve, esta pieza debería capturarse como pending_update breve a matrix-1999-film o diagrama-de-proxy en otro vídeo del corpus que la reitere",
+      "enriches_concept": "matrix-1999-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 1,
+    "discarded_count": 6,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "notes": "Vídeo monográfico introductorio a serie 'Por qué el amor' (~150 min sostenidos sobre teoría psicológica del amor y el sexo). El gate §2.4.1 cumple holgadamente pero se difiere a juicio editorial humano (requires_human_validation:true) porque (a) es introducción a serie cuya consolidación conviene esperar, y (b) las piezas más cross-cutting ya se canalizan a libre-albedrio-ilusion-funcional (voluntad como análisis a posteriori + decisiones afectivas + coherencia/responsabilidad) y intimidad-y-confesion-en-proxy (intimidad como ámbito sin riesgos + compromiso supremo + puente con hieros-gamos). Casos coyunturales (Lily, Marta Veronese, China, DGT, Japón) descartados como passing_mention con enriches_concept apuntando al thesis_candidate. Cifra/Matrix como caso del diagrama-de-proxy queda en cola para posible pending_update futuro si la pieza reaparece en otro vídeo"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes"
+  ]
+}

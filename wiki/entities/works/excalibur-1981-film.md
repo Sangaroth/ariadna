@@ -254,7 +254,9 @@ El sacrificio del rey no es evento aislado sino pieza de una cadena — cada hé
 
 
 
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [23:48](https://youtu.be/K082yiudh-g?t=1428) · [27:20](https://youtu.be/K082yiudh-g?t=1640) · [59:52](https://youtu.be/K082yiudh-g?t=3592) · [1:25:07](https://youtu.be/K082yiudh-g?t=5107)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [1:27:24](https://youtu.be/sTnxDjo1v3o?t=5244)
 - **Análisis arquetípico: Excalibur** — chunks: [0:33](https://youtu.be/daC37T5cbWs?t=33) · [3:06](https://youtu.be/daC37T5cbWs?t=186) · [24:47](https://youtu.be/daC37T5cbWs?t=1487) · [48:03](https://youtu.be/daC37T5cbWs?t=2883) · [50:34](https://youtu.be/daC37T5cbWs?t=3034) · [54:05](https://youtu.be/daC37T5cbWs?t=3245) · [1:18:20](https://youtu.be/daC37T5cbWs?t=4700) · [1:26:55](https://youtu.be/daC37T5cbWs?t=5215) · [1:30:28](https://youtu.be/daC37T5cbWs?t=5428) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580)
+- **Noticias 100tíficas.** — chunks: [1:30](https://youtu.be/VgdybZKruwk?t=90)
 

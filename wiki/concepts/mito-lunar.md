@@ -113,6 +113,33 @@ La Asunción cierra operativamente el ciclo lunar. La diosa que desciende cada n
 La pieza distingue además la respuesta católica frente a otras tradiciones cristianas: solo católicos y ortodoxos sostienen que el arquetipo lunar de la [[diosa-blanca|diosa blanca]] tiene cabida en el monoteísmo cristiano vía la figura mariana. Para la articulación de la diosa blanca como arquetipo de tres virtudes y de María como respuesta católica específica al arquetipo, ver [[diosa-blanca]] y [[virgen-maria]].
 
 
+## Mutabilidad femenina y las cuatro vidas como privilegio arquetípico
+
+En el directo *Presentación del Libro: Polaris* (14 mar 2025) el canal articula una propiedad transversal del mito lunar que la sección anterior trataba implícitamente pero no nombraba como categoría: la mutabilidad de lo femenino y las cuatro vidas como privilegio arquetípico exclusivo del polo lunar.
+
+### Mutabilidad como rasgo característico
+
+> "Lo femenino se caracteriza por la mutación entre cuatro estados: tres son una y una son tres,"
+→ [Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)
+
+> "Las cuatro vidas del mito lunar son experiencias exclusivas de lo femenino, su privilegio arquetípico,"
+→ [Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)
+
+> "Lo femenino cambia para adaptarse al mundo, a diferencia de lo masculino que está individuado,"
+→ [Presentación del Libro: Polaris (1:38:22)](https://youtu.be/rLeMS4-XFrA?t=5902)
+
+La pieza añade tres precisiones operativas:
+
+- **Mutabilidad estructural**: lo femenino opera mediante mutación entre estados, no mediante individuación estable. La fórmula 'tres son una y una son tres' articula la unidad subyacente de la triple diosa con la pluralidad de sus actualizaciones (ver [[diosa-blanca]] sección 'Mutabilidad y cambio circular').
+- **Las cuatro vidas como privilegio arquetípico**: el mito lunar canónicamente articulado en cinco fases (despertar/creación/caída/luna-roja/exorcismo) opera también bajo el aspecto complementario de las **cuatro vidas** — modalidades de existencia que la psique femenina puede recorrer arquetípicamente sin que ninguna excluya las otras. Esta articulación cuádruple complementa la quintuple del ciclo: las cinco fases describen el recorrido temporal del ciclo; las cuatro vidas describen las modalidades existenciales que la diosa actualiza.
+- **Adaptación vs individuación como asimetría polar**: la mutabilidad femenina se contrapone a la individuación masculina descendida de su origen. Lo femenino se adapta al mundo cambiando; lo masculino se mantiene individuado y opera por confrontación con el mundo. La asimetría enlaza directamente con la articulación de [[diferencias-cognitivas-sexo-en-proxy|adaptación activa masculina vs adaptación pasiva femenina]] — el aparato cognitivo-arquetípico se distribuye así: lo femenino adapta su realidad interna al mundo dado, lo masculino transforma el mundo externo según su realidad interna. Las dos modalidades son legítimas y complementarias dentro del mito polar.
+
+### Pendiente: catálogo explícito de las cuatro vidas
+
+El libro [[polaris-libro]] articula 'cuatro vidas del mito lunar' sin enumerarlas exhaustivamente en el directo de presentación. Quedará como pieza pendiente identificar el catálogo explícito (probablemente: virgen, consorte, madre, anciana o equivalentes culturales reconocibles en distintas tradiciones) cuando futuros vídeos del corpus desarrollen la lista. Por ahora se documenta la propiedad estructural (mutabilidad cuádruple) sin fijar nominalmente cada una de las cuatro modalidades.
+
+
+
 
 ## Posición cosmológica: el eje ctónico
 
@@ -144,9 +171,11 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 
 
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [32:18](https://youtu.be/yLd7j3fcR1w?t=1938) · [1:47:08](https://youtu.be/yLd7j3fcR1w?t=6428)
+- **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:38:22](https://youtu.be/rLeMS4-XFrA?t=5902)
 

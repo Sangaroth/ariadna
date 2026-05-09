@@ -126,7 +126,9 @@ Esta lectura sincrética sitúa la obra de [[tolkien-jrr]] como continuación li
 
 
 
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [27:20](https://youtu.be/K082yiudh-g?t=1640)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [38:20](https://youtu.be/i72IYlpQWd0?t=2300)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [2:08:05](https://youtu.be/xaFCTcXXI2o?t=7685)
+- **Presentación del Libro: Polaris** — chunks: [15:47](https://youtu.be/rLeMS4-XFrA?t=947)
 
