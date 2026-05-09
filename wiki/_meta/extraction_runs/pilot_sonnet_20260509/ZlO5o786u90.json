@@ -1,0 +1,293 @@
+{
+  "video_id": "ZlO5o786u90",
+  "video_title": "Libertad, inteligencia, felicidad y crisis de pareja.",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "Inteligencia, CI, felicidad y vínculos",
+      "canonical_guess": "inteligencia-y-adaptacion-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 42,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La inteligencia (factor G) puede ser predictor de éxito pero no de felicidad,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La felicidad tiene dos grandes componentes: autorrealización (hacer aquello para lo que estás diseñado) y vínculos personales,"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "La única forma de que la inteligencia garantice éxito sin problemas es la ausencia de obstáculos afectivos (espectro psicopático),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Bloque sostenido (~42 min, de 49:46 a 1:32:00) de tesis articulada del canal sobre la relación CI/felicidad/vínculos/patología. Cierra varias lagunas explícitamente declaradas en la página existente: (a) 'Definición operativa de adaptación' — articulada vía dimensión bidimensional autorrealización + vínculos; (b) 'Psicopatía como espectro adaptativo' — definida operativamente como ausencia de obstáculos afectivos donde el CI traduce directamente a logros; (c) 'Referencias empíricas citadas' — Steve Stewart Williams como soporte. Aporta material genuinamente nuevo: la soledad estructural del 2-5% superior, el masking como respuesta adaptativa al doble bind cognitivo, los dos tipos de problemas vinculados al CI (estructural-cognitivo vs secundario-social), la hipofrontalidad como sustrato neurofuncional compartido entre creatividad y enfermedad mental, la variabilidad masculina en la curva de Gauss como sustrato distribucional. Se inserta sección monográfica antes de '## Lagunas'.",
+      "quote_evidence": "La inteligencia (factor G) puede ser predictor de éxito pero no de felicidad,"
+    },
+    {
+      "surface_form": "diagrama de Proxy / cuadrado de Proxy-Beron",
+      "canonical_guess": "diagrama-de-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Proxy explica que la progresión habitual es de \"rojo/socialista/progre\" hacia lo liberal, nunca en diagonal en el cuadrado de Proxy-Beron,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Precisión operativa nueva sobre la dinámica de migración ideológica en el diagrama: los desplazamientos siempre son laterales (un solo eje a la vez), nunca diagonales. La página articula extensamente la herencia genética y la rebeldía como vector dirigido (sección 'Herencia genética y rebeldía'), pero no formula la regla de unidimensionalidad de la trayectoria. Caso paradigmático articulado por el speaker: la migración progre→liberal como cambio del eje vertical (jerarquía) preservando el horizontal (relativismo).",
+      "quote_evidence": "Los desplazamientos ideológicos siempre son laterales, no diagonales,"
+    },
+    {
+      "surface_form": "libre albedrío y máquinas",
+      "canonical_guess": "libre-albedrio-ilusion-funcional",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las máquinas no deciden porque no eligen: sus procedimientos de decisión son concatenaciones deterministas de computaciones,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Sin afectos no hay decisiones, solo computaciones; las decisiones son ponderaciones entre preferencias afectivas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Extensión del marco de libre albedrío como ilusión funcional al contraste con máquinas — flanco que el monográfico anterior (Lunes sin política) no articulaba. La página existente cierra el debate frente a Sapolsky/Experto en Igualdad pero no engancha con el aparato anti-computacional del canal. Esta sesión articula la asimetría estructural: el humano necesita la ilusión porque opera con afectos como ponderadores; la máquina no la necesita porque su procedimiento de decisión ES el determinismo causal sin disfraz fenomenológico. Conecta libre-albedrio con golem-de-cobre por el flanco de la decisión, no solo de la representación.",
+      "quote_evidence": "El libre albedrío humano se manifiesta en la planificación anticipatoria: evocar mentalmente escenarios que no están ocurriendo y actuar en consecuencia,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "inteligencia-y-adaptacion-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "se registran aquí como estructura pendiente de incorporar citas directas del corpus completo.",
+      "content_proposed": "\n## Refinamientos sobre inteligencia: vínculos, masking, hipofrontalidad y variabilidad masculina\n\nEn el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal articula un bloque sostenido (≈42 min) sobre la relación entre inteligencia, felicidad y patología psíquica que cierra varios flancos abiertos del marco — la psicopatía como espectro adaptativo, la articulación con vínculos sociales, las dos clases de problemas vinculadas al CI alto, y la variabilidad masculina como sustrato distribucional.\n\n### CI no es felicidad: el problema afectivo\n\nLa pieza correctiva nuclear separa éxito (que el CI sí predice como ratio entre proyectos emprendidos y logros conseguidos) de felicidad (que no correlaciona con bienestar material como suele creerse). El sustrato del divorcio entre ambos es afectivo:\n\n> \"La inteligencia (factor G) puede ser predictor de éxito pero no de felicidad,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (49:46)](https://youtu.be/ZlO5o786u90?t=2986)\n\n> \"Hay la misma cantidad de trastornos depresivos entre personas de alto y bajo nivel económico,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (49:46)](https://youtu.be/ZlO5o786u90?t=2986)\n\n> \"La inteligencia es un hipotético factor G de capacidad general de resolver problemas, pero los problemas son afectivos, no objetivos,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (54:48)](https://youtu.be/ZlO5o786u90?t=3288)\n\nLa precisión es decisiva: si los problemas que la inteligencia resuelve son afectivos en su naturaleza, una inteligencia operada sin afectos resuelve problemas que ya no lo son. De ahí la coherencia interna con la tesis articulada del psicópata como espectro adaptativo.\n\n### Psicopatía como espectro adaptativo: definición operativa\n\nLa sección 'La adaptación como predictor real' enuncia la psicopatía como espectro adaptativo sin desarrollo. Este vídeo cierra el flanco con definición operativa:\n\n> \"Un psicópata tiene estrategias pero no problemas, porque carece de afectos que generen conflicto,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (54:48)](https://youtu.be/ZlO5o786u90?t=3288)\n\n> \"La única forma de que la inteligencia garantice éxito sin problemas es la ausencia de obstáculos afectivos (espectro psicopático),\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (56:49)](https://youtu.be/ZlO5o786u90?t=3409)\n\n> \"Sin emociones que lo saboteen, el CI se traduce directamente en logros, pero eso no es felicidad humana,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (56:49)](https://youtu.be/ZlO5o786u90?t=3409)\n\nLa pieza articula la psicopatía no como patología sin más sino como configuración adaptativa específica: la ausencia de reactividad afectiva convierte el CI en predictor directo de logros porque elimina los obstáculos internos que en la mente normal saturan los recursos cognitivos. La aparente ventaja adaptativa tiene precio fenomenológico — la felicidad humana tal como el canal la define requiere precisamente el sustrato afectivo que el espectro psicopático atenúa.\n\n### Felicidad como autorrealización + vínculos: la soledad del CI alto\n\nLa definición operativa que el canal opone al éxito material es bidimensional:\n\n> \"La felicidad tiene dos grandes componentes: autorrealización (hacer aquello para lo que estás diseñado) y vínculos personales,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (59:25)](https://youtu.be/ZlO5o786u90?t=3565)\n\n> \"Quien pertenece al 2-5% superior de CI solo encuentra relaciones de igual a igual en ese mismo porcentaje de la población,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (59:25)](https://youtu.be/ZlO5o786u90?t=3565)\n\nLa consecuencia operativa es estructural: el CI alto reduce el conjunto de partners cognitivos potenciales a un porcentaje marginal de la población, lo que comprime la disponibilidad de vínculos de igual a igual y, vía la dimensión 'vínculos' de la felicidad, deteriora el predictor afectivo. El marco previo (CI alto + adaptación) se completa con esta tercera asimetría: el CI alto no solo es factor de desadaptación clínica sino de **escasez relacional estructural**.\n\n### Masking y autosabotaje: la inteligencia como arma propia\n\n> \"Las personas inteligentes son excelentes en el masking: fingen no serlo y fingen estar contentas,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:04:30)](https://youtu.be/ZlO5o786u90?t=3870)\n\n> \"Mayor inteligencia conlleva mayor frustración al ser consciente de las carencias de tu entorno,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:04:30)](https://youtu.be/ZlO5o786u90?t=3870)\n\n> \"Saber muchas cosas es bueno, pero 'lo malo es que no eres lo que sabes' — el conocimiento puede alimentar problemas de ego y autoengaño,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:04:30)](https://youtu.be/ZlO5o786u90?t=3870)\n\n> \"La ansiedad puede volver la inteligencia contra uno mismo: cuanto más lista la persona, más compleja su depresión,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (54:48)](https://youtu.be/ZlO5o786u90?t=3288)\n\nEl masking — ocultamiento estratégico del propio nivel cognitivo y del estado emocional — emerge como respuesta adaptativa al doble bind del CI alto: la frustración por la carencia del entorno + la escasez relacional. El sujeto inteligente aprende a fingir simultáneamente menos inteligencia (para no romper la simetría afectiva con su entorno) y más felicidad (para no exhibir el coste fenomenológico de su posición distribucional). La pieza añade granularidad clínica — la depresión más compleja aparece justo donde la inteligencia se vuelve recursivamente sobre el propio sufrimiento sin poder desactivarlo.\n\n### Dos tipos de problemas psicológicos vinculados al CI alto\n\n> \"El primer tipo es estructural-cognitivo: la misma arquitectura cerebral que da alta inteligencia puede traer exceso de imaginación, esquizofrenia o síndrome savant,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:06:01)](https://youtu.be/ZlO5o786u90?t=3961)\n\n> \"El segundo tipo es secundario-social: la inteligencia causa problemas de socialización que derivan en depresión,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:06:01)](https://youtu.be/ZlO5o786u90?t=3961)\n\n> \"No existe una personalidad específica asociada al CI alto; lo que hay son altas probabilidades de que todo sea alto, incluidos los problemas,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:06:01)](https://youtu.be/ZlO5o786u90?t=3961)\n\nLa taxonomía cierra el flanco abierto en la sección sobre los extremos de la curva normal: el CI alto no es factor único sino indicador estadístico de que muchas variables van altas a la vez, y dos vías independientes producen la desadaptación clínica observada — una estructural (la arquitectura cerebral que produce CI alto produce con mayor probabilidad exceso de imaginación, fenómenos disociativos, pensamiento divergente patológico), otra secundaria (la socialización dificultada por la asimetría cognitiva genera depresión por aislamiento o frustración).\n\n### Personalidad e inteligencia: vinculación más estrecha de lo asumido\n\n> \"Steve Stewart Williams publicó evidencia de que personalidad e inteligencia están mucho más cercanamente vinculadas de lo pensado,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:08:35)](https://youtu.be/ZlO5o786u90?t=4115)\n\n> \"La apertura a la experiencia (openness) reduce el prejuicio intelectual y facilita el procesamiento de datos nuevos,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:08:35)](https://youtu.be/ZlO5o786u90?t=4115)\n\n> \"No son 'estilos de inteligencia' sino una misma inteligencia que, según tu personalidad, rinde mejor en ciertos dominios,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:08:35)](https://youtu.be/ZlO5o786u90?t=4115)\n\nLa pieza confirma desde literatura empírica externa la posición del canal frente a Gardner ya documentada: los 'estilos' de inteligencia son artefacto del cruce inteligencia × personalidad, no inteligencias separadas. La openness opera como modulador clave (reduce el prejuicio que limita el procesamiento de input nuevo), pero el factor G subyacente es uno solo.\n\n### Hipofrontalidad: creatividad y enfermedad mental como gradiente del mismo eje\n\n> \"El córtex prefrontal inhibe impulsos para que el cerebro haga una sola cosa a la vez,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:22:14)](https://youtu.be/ZlO5o786u90?t=4934)\n\n> \"Cuando las conexiones dopaminérgicas prefrontales fallan, surgen alucinaciones (esquizofrenia) o ideas recurrentes (TOC),\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:22:14)](https://youtu.be/ZlO5o786u90?t=4934)\n\n> \"La hipofrontalidad puede producir simultáneamente gran creatividad y proximidad a espectros de enfermedad mental,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:22:14)](https://youtu.be/ZlO5o786u90?t=4934)\n\nLa pieza nombra el sustrato neurofuncional del primer tipo de problemas (el estructural-cognitivo): la hipofrontalidad — fallo en las conexiones dopaminérgicas que el córtex prefrontal usa para inhibir impulsos divergentes — es el mismo gradiente neurofísico que produce, según la dirección del fallo, creatividad excepcional, alucinaciones esquizofrénicas o ideación obsesiva. La inteligencia no causa enfermedad mental; comparte sustrato con configuraciones del mismo aparato que en una dirección permiten productividad cognitiva atípica y en otra colapsan a cuadros clínicos.\n\n### Variabilidad masculina como sustrato distribucional\n\n> \"Los CI más altos y más bajos son mucho más frecuentes en hombres que en mujeres,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:26:52)](https://youtu.be/ZlO5o786u90?t=5212)\n\n> \"Las mujeres presentan menor variabilidad: son más parecidas entre sí en la distribución de inteligencia,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:26:52)](https://youtu.be/ZlO5o786u90?t=5212)\n\n> \"Cuanto más único eres intelectualmente, más solo estás, y los vínculos sanos sostenidos predicen baja demencia,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:26:52)](https://youtu.be/ZlO5o786u90?t=5212)\n\nLa pieza añade el sustrato distribucional: la sobrerrepresentación masculina en los extremos (alto y bajo) opera como propiedad estadística estructural, no artefacto cultural. La consecuencia operativa cierra el bucle con la sección sobre vínculos — el extremo derecho de la curva está sobrerrepresentado masculinamente, lo que agrava la escasez relacional para el varón de CI alto al reducir sus partners cognitivos a una población minoritaria dentro del extremo. Y la cláusula clínica final — los vínculos sanos sostenidos predicen baja demencia — convierte la dimensión 'vínculos' de la felicidad en factor de protección neurológica a largo plazo, no solo en componente afectiva del bienestar.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 2986,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (49:46)](https://youtu.be/ZlO5o786u90?t=2986)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 3288,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (54:48)](https://youtu.be/ZlO5o786u90?t=3288)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 3409,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (56:49)](https://youtu.be/ZlO5o786u90?t=3409)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 3565,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (59:25)](https://youtu.be/ZlO5o786u90?t=3565)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 3870,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (1:04:30)](https://youtu.be/ZlO5o786u90?t=3870)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 3961,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (1:06:01)](https://youtu.be/ZlO5o786u90?t=3961)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 4115,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (1:08:35)](https://youtu.be/ZlO5o786u90?t=4115)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 4934,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (1:22:14)](https://youtu.be/ZlO5o786u90?t=4934)"
+        },
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 5212,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (1:26:52)](https://youtu.be/ZlO5o786u90?t=5212)"
+        }
+      ],
+      "rationale": "Enrichment mayor que cierra explícitamente tres lagunas declaradas en la página: (a) 'Definición operativa de adaptación' se cubre vía felicidad como autorrealización + vínculos; (b) 'Psicopatía como espectro adaptativo' recibe definición operativa (carece de problemas porque carece de afectos); (c) 'Referencias empíricas citadas' se concreta con Steve Stewart Williams. Aporta además material genuinamente nuevo no presente en la página: la soledad estructural del 2-5% superior, el masking como respuesta adaptativa, los dos tipos de problemas vinculados al CI alto (estructural-cognitivo vs secundario-social), la hipofrontalidad como sustrato neurofuncional compartido entre creatividad y enfermedad mental, la variabilidad masculina como sustrato distribucional. Tras este merge sería razonable que la próxima edición humana retire o re-formule las lagunas (a), (b) y (c) porque quedan operativamente atendidas en el cuerpo.",
+      "editorial_intent": "enrich",
+      "supersedes_laguna": [
+        "Definición operativa de adaptación — el canal postula la adaptación como predictor superior al CI pero el fragmento disponible no incluye los criterios técnicos ni la definición que el canal usa.",
+        "Psicopatía como espectro adaptativo — la tesis sobre la ausencia de reactividad afectiva como patrón adaptativo funcional está documentada en la decisión de promoción pero sin citas directas del corpus en este extracto.",
+        "Referencias empíricas citadas — el canal discute predicción psicométrica sin que el fragmento incluya las fuentes de investigación específicas invocadas."
+      ]
+    },
+    {
+      "page_id": "diagrama-de-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "la posición es heredable, y la desviación cultural es ella misma reactiva, no autónoma.",
+      "content_proposed": "\n## Desplazamientos ideológicos siempre laterales, nunca diagonales\n\nEn el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal añade una regla operativa sobre la trayectoria de la migración ideológica que cierra un flanco abierto en la sección anterior sobre herencia y rebeldía: la dirección de los desplazamientos.\n\n> \"La progresión habitual es de 'rojo/socialista/progre' hacia lo liberal, nunca en diagonal en el cuadrado de Proxy-Beron,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (33:10)](https://youtu.be/ZlO5o786u90?t=1990)\n\n> \"Los desplazamientos ideológicos siempre son laterales, no diagonales,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (33:10)](https://youtu.be/ZlO5o786u90?t=1990)\n\nLa precisión es estructural: el cuadrado admite movilidad limitada, y la regla operativa es que las trayectorias atraviesan **un solo eje a la vez**. Una persona en abajo-izquierda (anti-jerarquía + relativismo) puede migrar a abajo-derecha (anti-jerarquía + fundamentalismo) sin cambiar el eje vertical, o ascender a arriba-izquierda (jerarquía + relativismo) sin cambiar el horizontal. Lo que prácticamente nunca ocurre es la diagonal — un sujeto pasando de abajo-izquierda a arriba-derecha (cambio simultáneo de los dos ejes) o de arriba-izquierda a abajo-derecha. La migración progre→liberal cita el caso paradigmático: cambio del eje vertical (acepta jerarquías de mercado) preservando el horizontal (relativismo moral) — desplazamiento vertical puro.\n\nLa regla complementa el aparato genético-rebelde de la sección previa: la rebeldía no opera como repulsión hacia el cuadrante geométricamente opuesto sino dentro de la celda contigua del eje rebelado, lo que limita a priori el conjunto de trayectorias posibles a lo largo de la vida. La consecuencia operativa es predictiva — el canal afirma poder anticipar trayectorias políticas conociendo el cuadrante de origen y la dirección del primer desplazamiento.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 1990,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (33:10)](https://youtu.be/ZlO5o786u90?t=1990)"
+        }
+      ],
+      "rationale": "Precisión operativa nueva: regla de unidimensionalidad de las trayectorias. La página articula extensamente herencia genética, rebeldía como vector dirigido y simetría reactiva entre cuadrantes, pero no formula la regla de que los desplazamientos atraviesen un solo eje a la vez. Inserción tras 'Herencia genética y rebeldía' — extiende ese tema ortogonalmente.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "libre-albedrio-ilusion-funcional",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Negar el libre albedrío llevaría a un nihilismo depresivo perpetuo, pero eso no puede ocurrir porque la duda sobre si las cosas podrían ser diferentes es intrínseca a la mente humana",
+      "content_proposed": ",\"\n→ [Lunes sin política (2:11:01)](https://youtu.be/r1SmCsNmLh0?t=7861)\n\n## Libre albedrío vs computación: las máquinas no deciden\n\nEn el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal extiende la tesis del libre albedrío como ilusión funcional al contraste con la computación artificial — flanco que el monográfico previo no articulaba directamente.\n\n> \"El libre albedrío humano se manifiesta en la planificación anticipatoria: evocar mentalmente escenarios que no están ocurriendo y actuar en consecuencia,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)\n\n> \"Sin afectos no hay decisiones, solo computaciones; las decisiones son ponderaciones entre preferencias afectivas,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)\n\n> \"Las máquinas no deciden porque no eligen: sus procedimientos de decisión son concatenaciones deterministas de computaciones,\"\n→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)\n\nLa precisión articula la asimetría estructural: lo que el canal sostiene como ilusión funcional en humanos (libre albedrío como representación operativa de planificación anticipatoria sobre afectos como ponderadores) carece de equivalente en máquinas porque carecen del sustrato afectivo sobre el que se pondera. La máquina no opera con la ilusión del libre albedrío porque no necesita la representación funcional — su procedimiento de decisión ES el determinismo causal sin disfraz fenomenológico. La consecuencia para [[golem-de-cobre]] es directa: la barrera afectiva ya documentada en esa página opera también en el plano de la decisión — no solo las máquinas no representan ni sienten, tampoco deciden, en el sentido en el que la cognición humana decide.\n",
+      "wikilinks_introduced": [
+        "golem-de-cobre"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ZlO5o786u90",
+          "timestamp_seconds": 5579,
+          "cite_markdown": "[Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)"
+        }
+      ],
+      "rationale": "Extensión del marco del libre albedrío al flanco anti-computacional. La página existente cierra el debate frente a Sapolsky/Experto en Igualdad pero no engancha con el aparato anti-computacional del canal. Esta sesión articula la asimetría estructural: la máquina no necesita la ilusión funcional porque opera con determinismo sin afectos — conecta libre-albedrio con golem-de-cobre por el flanco de la decisión, no solo de la representación. El anchor literal incluye el cierre del párrafo previo (la coma y comilla con cita arrow) para preservar continuidad visual; el contenido propuesto reabre con el cierre del bloque y añade la nueva sección.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Sabotaje de cables en la línea del AVE / Óscar Puente",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario coyuntural sobre incidente concreto de actualidad política española. La aplicación 'todo lo que viene de la política debe interpretarse en clave de marketing discursivo' es recap del marco ya documentado en diagrama-de-proxy y consumismo-critica; el incidente en sí no aporta material enciclopédico. Match con topic_filter exclude_pattern por figuras y actualidad partidista.",
+      "quote_evidence": "Alguien robó cables de cobre en tramos de vía sin vigilancia, dejando parados a políticos y ciudadanos,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Caso Fran Cuesta",
+      "reason_code": "political_news",
+      "reason_detail": "Anécdota de actualidad sobre figura mediática (refugio de animales convertido en negocio de espectáculo). El interés del speaker es ilustrativo del 'engaño por imagen pública' pero sin marco psicológico desarrollado que merezca página propia ni enriquecimiento sustantivo de páginas existentes. Coyuntural.",
+      "quote_evidence": "Han salido audios que sugieren que el refugio de animales de Fran Cuesta era un negocio de espectáculo con animales comprados,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Fraude electoral PSOE / Pedro Sánchez / censo Alemania",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque coyuntural sobre actualidad política partidista española y datos puntuales sobre censos electorales. Match con exclude_pattern de topic_filters por nombres propios y actualidad. Sin marco psicológico/sociológico estructural articulado.",
+      "quote_evidence": "La Guardia Civil investiga al PSOE por amañar votos en al menos una localidad,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Mental breakdown del speaker / saludos a la comunidad / Doctor Exit",
+      "reason_code": "meta_canal",
+      "reason_detail": "Apertura del directo con comentarios sobre estado personal del speaker, agradecimiento a la comunidad, recomendación médica de Exit sobre evitar 'enrage'. Metadata del stream sin contenido temático.",
+      "quote_evidence": "Proxy se disculpa por un \"mental breakdown\" previo y agradece el apoyo de la comunidad,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Modelo de financiación del canal vía comunidad",
+      "reason_code": "meta_canal",
+      "reason_detail": "Auto-descripción del modelo del proyecto (la comunidad financia los estudios del speaker en ciencias cognitivas y luego él divulga). Metadata del canal sin contenido enciclopédico.",
+      "quote_evidence": "Explica que su proyecto consiste en que la comunidad le financia para estudiar ciencias cognitivas y luego divulgarlas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Steve Stewart Williams",
+      "reason_code": "passing_mention",
+      "reason_detail": "Autor citado como soporte empírico (publicó evidencia sobre el vínculo personalidad-inteligencia). Mención bibliográfica puntual, no objeto de análisis ni recomendación pedagógica del canal. Se captura como recommended_reference para futuro índice bibliográfico y se cita inline en el update de inteligencia-y-adaptacion-en-proxy.",
+      "quote_evidence": "Steve Stewart Williams publicó evidencia de que personalidad e inteligencia están mucho más cercanamente vinculadas de lo pensado,",
+      "review_priority": "medium",
+      "review_priority_reason": "candidate_canonical_external — autor científico citado como soporte de tesis del canal sobre la unidad del factor G frente a Gardner. Considerar si debe entrar a canonical_whitelist como soft entry junto con otros referentes empíricos de la psicología de la inteligencia."
+    },
+    {
+      "surface_form": "Joven del vídeo viral sobre progresión ideológica",
+      "reason_code": "in_work_character",
+      "reason_detail": "Persona de un vídeo externo usada como caso ilustrativo del desplazamiento progre→liberal documentado en diagrama-de-proxy. No es figura analizada en sí ni objeto de discusión sostenida.",
+      "quote_evidence": "Se muestra un video de una joven que describe cómo al crecer sus ideas se volvieron más liberales y nacionalistas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_title": "Sabotaje de cables en la línea del AVE y la posverdad política",
+      "block_minute_start": "19:32",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque coyuntural sobre incidente del AVE y figura política (Óscar Puente). Marco aplicado del diagrama-de-proxy ya documentado en esa página."
+    },
+    {
+      "block_title": "Fraude electoral del PSOE y el voto por correo",
+      "block_minute_start": "37:11",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque sobre actualidad partidista (PSOE, Sánchez, voto por correo, censo electoral) sin marco estructural psicológico-arquetípico aplicado."
+    },
+    {
+      "block_title": "El caso Fran Cuesta: audios comprometedores",
+      "block_minute_start": "24:04",
+      "matched_pattern": "n/a — pattern not specifically listed but block matches política/actualidad coyuntural por figura mediática sin marco arquetípico desarrollado",
+      "reason_code": "political_news",
+      "reason_detail": "Caso coyuntural mediático. La discusión sobre 'engaño por imagen pública' no se eleva a marco arquetípico estructural que merezca página o enriquecimiento."
+    }
+  ],
+  "recommended_references": [
+    {
+      "book_title": "Obra científica de Steve Stewart-Williams sobre personalidad e inteligencia",
+      "authors": [
+        "Steve Stewart-Williams"
+      ],
+      "domain": "social.psychology / interdisciplinary.cognitive_science",
+      "why_recommended": "Citado por el canal como soporte empírico de la tesis de que personalidad e inteligencia están más estrechamente vinculadas de lo asumido — sostén externo para la posición del canal frente a Gardner (los 'estilos' de inteligencia son artefacto del cruce factor G × personalidad, no inteligencias separadas). El speaker no nombra una obra concreta sino que atribuye al autor la publicación de evidencia.",
+      "quote_evidence": "Steve Stewart Williams publicó evidencia de que personalidad e inteligencia están mucho más cercanamente vinculadas de lo pensado,",
+      "timestamp": "1:08:35",
+      "video_id": "ZlO5o786u90",
+      "review_priority": "medium",
+      "canonical_external_candidate": false,
+      "rationale_for_whitelist_consideration": "Autor empírico contemporáneo — soft. Considerar entrada a canonical_whitelist como soporte para inteligencia-y-adaptacion-en-proxy si aparece sustantivamente en otros vídeos."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 7,
+    "blocks_filtered_count": 3
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -327,6 +327,22 @@ La precisión refina el modelo: la cultura no es agente neutral que distribuye p
 
 La pieza tiene consecuencia operativa fuerte para la aplicación del modelo: la trayectoria política a lo largo de la vida no es exploración libre del espacio de cuadrantes sino dinámica acotada — herencia genética como atractor, rebeldía como repulsión hacia el cuadrante opuesto. La estabilización en un cuadrante distinto al de los padres no indica autonomía valorativa sino consolidación de la repulsión. La cláusula completa el sustrato genético del diagrama articulado en otras secciones: la posición es heredable, y la desviación cultural es ella misma reactiva, no autónoma.
 
+
+## Desplazamientos ideológicos siempre laterales, nunca diagonales
+
+En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal añade una regla operativa sobre la trayectoria de la migración ideológica que cierra un flanco abierto en la sección anterior sobre herencia y rebeldía: la dirección de los desplazamientos.
+
+> "La progresión habitual es de 'rojo/socialista/progre' hacia lo liberal, nunca en diagonal en el cuadrado de Proxy-Beron,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (33:10)](https://youtu.be/ZlO5o786u90?t=1990)
+
+> "Los desplazamientos ideológicos siempre son laterales, no diagonales,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (33:10)](https://youtu.be/ZlO5o786u90?t=1990)
+
+La precisión es estructural: el cuadrado admite movilidad limitada, y la regla operativa es que las trayectorias atraviesan **un solo eje a la vez**. Una persona en abajo-izquierda (anti-jerarquía + relativismo) puede migrar a abajo-derecha (anti-jerarquía + fundamentalismo) sin cambiar el eje vertical, o ascender a arriba-izquierda (jerarquía + relativismo) sin cambiar el horizontal. Lo que prácticamente nunca ocurre es la diagonal — un sujeto pasando de abajo-izquierda a arriba-derecha (cambio simultáneo de los dos ejes) o de arriba-izquierda a abajo-derecha. La migración progre→liberal cita el caso paradigmático: cambio del eje vertical (acepta jerarquías de mercado) preservando el horizontal (relativismo moral) — desplazamiento vertical puro.
+
+La regla complementa el aparato genético-rebelde de la sección previa: la rebeldía no opera como repulsión hacia el cuadrante geométricamente opuesto sino dentro de la celda contigua del eje rebelado, lo que limita a priori el conjunto de trayectorias posibles a lo largo de la vida. La consecuencia operativa es predictiva — el canal afirma poder anticipar trayectorias políticas conociendo el cuadrante de origen y la dirección del primer desplazamiento.
+
+
 ## Eje horizontal como dipolo madre tirana / madre ausente
 
 En el directo *Luto* (21-ene-2025) el canal añade una caracterización afectivo-relacional del eje horizontal del diagrama que la página articulaba como 'fundamentalismo moral vs relativismo'. La pieza ofrece el sustrato psicoanalítico bajo la categoría política.

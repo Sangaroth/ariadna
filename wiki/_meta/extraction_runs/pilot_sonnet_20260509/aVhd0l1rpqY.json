@@ -1,0 +1,278 @@
+{
+  "video_id": "aVhd0l1rpqY",
+  "video_title": "Lo de la Gata, y qué es este canal.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "Inconsciente colectivo / arquetipo de muerte y resurrección frente a Jonathan Z. Smith",
+      "canonical_guess": "collective-unconscious",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 22,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Que los dioses tengan diferentes historias prototípicas confirma el arquetipo en lugar de negarlo: prototipos distintos con sustrato común,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo que Cristo realizó convirtió los mitos anteriores en proféticos al materializarlos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Bloque sostenido (≈22 min, 06:28-28:37) refutando explícitamente la crítica de Jonathan Z. Smith al arquetipo de muerte/resurrección — laguna declarada en collective-unconscious bajo 'Críticas modernas al concepto'. Articula tres movimientos metodológicos: (a) Smith comete petición de principio; (b) ejérsis (descenso/ascensión en línea recta vertical) como configuración precisa, no resurrección genérica; (c) la divergencia entre prototipos confirma el arquetipo si se concibe como estructura representacional con realización contingente. Cierre: la materialización histórica convierte mitos previos en proféticos por convergencia, no por copia.",
+      "quote_evidence": "Smith argumenta que los conceptos de muerte y resurrección son demasiado ambiguos para constituir un patrón mitológico,"
+    },
+    {
+      "surface_form": "Realismo cognitivo / circuito de cuidados vs teoría del apego",
+      "canonical_guess": "realismo-cognitivo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 13,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En realismo cognitivo el apego es un conjunto de circuiterías cerebrales y cognitivas diseñadas evolutivamente para garantizar vínculos de afecto, intimidad y seguridad,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La teoría del apego es constructivista y hay un sesgo ideológico en ciencia entre quienes priorizan ambiente y quienes priorizan genes,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Bloque sustantivo (≈13 min, 57:13-1:10:28) que articula con definición operativa la diferencia entre el circuito de cuidados del realismo cognitivo y la teoría del apego convencional — flanco que la página presuponía como anti-constructivismo pero sin nombrar la pieza concreta. Aporta también la categoría de 'diátesis familiar' como mecanismo de retroalimentación gen-ambiente, y los 'rasgos de adherencia' como sustrato cognitivo de la adhesión ideológica que diagrama-de-proxy articula desde otro ángulo.",
+      "quote_evidence": "Se distingue del apego de la teoría del apego convencional,"
+    },
+    {
+      "surface_form": "Semiótica cognitiva / definición meta-disciplinar del canal",
+      "canonical_guess": "teoria-del-simbolo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La semiótica cognitiva es la teoría que describe qué significa interpretar en un sentido mental,"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "El canal trata tres campos: antropología mitológica, psicología clínica/cognitiva y filosofía,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El canal maneja un emergentismo de la cultura: toda cultura es manifestación cognitiva que presenta rasgos de funciones propias,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Bloque sostenido (≈12 min, 1:19:20-1:31:00) de articulación meta-disciplinar del proyecto: tres campos del canal (antropología mitológica + psicología clínica/cognitiva + filosofía), insuficiencia de 'psicología analítica' como etiqueta, semiótica cognitiva como disciplina marco unificadora, emergentismo cultural como dirección causal. Es la precisión disciplinar que el monográfico del símbolo (Parte 2) presupone pero no nombra. No alcanza minutes_sustained ≥30 para auto-promoción a página propia, pero encaja como sección meta-disciplinar de teoria-del-simbolo-en-proxy (que ya tiene interdisciplinary.semiotics como primary_domain). Inserta antes de Lagunas — cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' al nombrar la disciplina marco.",
+      "quote_evidence": "La semiótica cognitiva es la teoría que describe qué significa interpretar en un sentido mental,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "collective-unconscious",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La crítica sistemática a la divulgación pop-psicológica que niega esta categoría se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva.",
+      "content_proposed": "\n\n## Defensa frente a Jonathan Z. Smith: prototipos divergentes confirman el arquetipo\n\nEn el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal aborda explícitamente una de las críticas académicas más citadas contra el concepto de arquetipo — la del historiador de las religiones Jonathan Z. Smith — y articula la respuesta metodológica que la página tenía como laguna ('Críticas modernas al concepto'). La discusión surge en debate con Leonel Díaz, que invoca a Smith como supuesto desmentidor del arquetipo de muerte/resurrección.\n\nLa crítica de Smith se reduce a dos movimientos: (a) los conceptos de muerte y resurrección son demasiado ambiguos para constituir un patrón mitológico; (b) los apóstoles habrían malinterpretado una resurrección figurada en los mitos previos y construido sobre ese error la doctrina de la resurrección literal de Cristo.\n\n> \"Smith argumenta que los conceptos de muerte y resurrección son demasiado ambiguos para constituir un patrón mitológico,\"\n→ [Lo de la Gata, y qué es este canal (17:21)](https://youtu.be/aVhd0l1rpqY?t=1041)\n\n> \"Smith sugiere que los apóstoles malinterpretaron una resurrección figurada y crearon una literal, lo cual es petición de principio,\"\n→ [Lo de la Gata, y qué es este canal (17:21)](https://youtu.be/aVhd0l1rpqY?t=1041)\n\nLa refutación articula tres movimientos.\n\n**Petición de principio en el argumento de Smith.** Smith no demuestra que el arquetipo no exista; presupone su inexistencia para luego acusar de error a quienes lo reconocen. La afirmación 'los apóstoles malinterpretaron' solo tiene sentido si previamente se ha decidido que la resurrección literal es errónea — cosa que el argumento debía probar, no asumir.\n\n**Ejérsis como configuración precisa, no resurrección genérica.** El canal precisa que lo realizado por Cristo no es 'resurrección' como categoría laxa sino **ejérsis** (égersis en la terminología canal-específica corregida en [[hieros-gamos]]) — descenso a los infiernos y ascensión a los cielos en línea recta vertical. La precisión cierra la primera objeción de Smith: no se reúnen mitos heterogéneos bajo una etiqueta amorfa, se identifica una configuración cosmogónica específica (descenso/ascensión en eje vertical único) que distintos mitos prefiguran con grados variables de literalidad.\n\n> \"La resurrección de Cristo es técnicamente una ejérsis: descenso a los infiernos y ascensión a los cielos en línea recta,\"\n→ [Lo de la Gata, y qué es este canal (17:21)](https://youtu.be/aVhd0l1rpqY?t=1041)\n\n> \"Lo que Cristo realizó convirtió los mitos anteriores en proféticos al materializarlos,\"\n→ [Lo de la Gata, y qué es este canal (23:05)](https://youtu.be/aVhd0l1rpqY?t=1385)\n\nLa materialización opera como criterio metodológico inverso al de Smith: en lugar de leer los mitos previos como anticipación errónea proyectada hacia atrás desde una creencia tardía, el canal sostiene que la realización histórica retroactivamente convierte a los mitos previos en proféticos — el arquetipo opera por convergencia, no por copia.\n\n**La diversidad confirma, no niega.** El cierre metodológico es general:\n\n> \"Las diferentes formas de superar la muerte (resurrección carnal, cambio de cuerpo, transubstanciación) son variaciones de un paso de vida a más vida,\"\n→ [Lo de la Gata, y qué es este canal (23:05)](https://youtu.be/aVhd0l1rpqY?t=1385)\n\n> \"Que los dioses tengan diferentes historias prototípicas confirma el arquetipo en lugar de negarlo: prototipos distintos con sustrato común,\"\n→ [Lo de la Gata, y qué es este canal (23:05)](https://youtu.be/aVhd0l1rpqY?t=1385)\n\nLa pieza articula el principio metodológico que la teoría del arquetipo necesita frente a las críticas que invocan diversidad mítica como refutación: si el arquetipo fuera contenido material idéntico, la diversidad lo refutaría — pero el arquetipo es estructura representacional con realización contingente, y la divergencia entre prototipos es exactamente el corolario empírico esperado. La crítica de Smith confunde estructura con instancia: rechaza el universal porque las instancias divergen, sin notar que la divergencia regulada es el rasgo distintivo de un universal estructural frente a un mero accidente histórico.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 1041,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (17:21)](https://youtu.be/aVhd0l1rpqY?t=1041)"
+        },
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 1385,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (23:05)](https://youtu.be/aVhd0l1rpqY?t=1385)"
+        }
+      ],
+      "rationale": "Cierra explícitamente la laguna declarada 'Críticas modernas al concepto: el canal no recoge las objeciones contemporáneas (Pinker y otros) al inconsciente colectivo como ineficiente o cripto-lamarckiano'. Smith es exactamente el tipo de crítico académico que la laguna identifica como ausente, y este vídeo articula la respuesta metodológica del canal con tres movimientos (petición de principio, ejérsis como configuración precisa, divergencia como confirmación). Insertado tras la sección 'Defensa empírica del inconsciente: trauma reprimido' para mantener cohesión temática (defensa del concepto frente a críticas externas).",
+      "editorial_intent": "enrich",
+      "supersedes_laguna": [
+        "Críticas modernas al concepto: el canal no recoge las objeciones contemporáneas (Pinker y otros) al inconsciente colectivo como ineficiente o cripto-lamarckiano"
+      ]
+    },
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "esta sección concentra solo el núcleo filosófico de la crítica, que cierra el cargo previo de tautología con tres mecánicas adicionales: sincategoremaía, degeneración por excepciones y abolición performativa de la norma.",
+      "content_proposed": "\n\n## Circuito de cuidados vs teoría del apego: el corte anti-constructivista\n\nEn el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula con definición operativa la diferencia entre el **circuito de cuidados** del realismo cognitivo y la **teoría del apego** convencional — flanco que la página articulaba implícitamente como anti-constructivismo pero sin nombrar la pieza concreta.\n\n> \"En realismo cognitivo el apego es un conjunto de circuiterías cerebrales y cognitivas diseñadas evolutivamente para garantizar vínculos de afecto, intimidad y seguridad,\"\n→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)\n\n> \"El circuito de cuidados es específico de los lazos familiares, sobre todo con la madre,\"\n→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)\n\n> \"Se distingue del apego de la teoría del apego convencional,\"\n→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)\n\nLa distinción categorial es estructural: la **teoría del apego** convencional (Bowlby, Ainsworth, Main) opera bajo presupuesto constructivista — el patrón vincular es producto del histórico interaccional con el cuidador, modelable por experiencia temprana, transmisible por estilo parental. El **circuito de cuidados** del realismo cognitivo invierte el orden causal: la circuitería existe diseñada evolutivamente, y el entorno temprano la **activa o no la activa** dentro de una ventana crítica, pero no la construye.\n\n### Base de seguridad incondicional con ventana crítica\n\n> \"Los niños reservan sus emociones más intensas para las madres porque las ven como base de seguridad incondicional,\"\n→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)\n\n> \"Esto solo se explica mediante el carácter de lo femenino: podría ser olor, feromonas, contacto del feto o el amor materno,\"\n→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)\n\n> \"Si no se realizan ciertos eventos canónicos antes de un periodo vital crítico, el cerebro no desarrolla esa seguridad de base,\"\n→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)\n\nLa cláusula de ventana crítica es la marca del realismo cognitivo: no es que el patrón vincular se moldee como argamasa indefinidamente — es que el aparato espera **señales canónicas** durante un periodo específico, y si no las recibe, el circuito no se completa. La consecuencia operativa es asimétrica respecto al constructivismo: una vez cerrada la ventana, intervenciones tardías no construyen lo no construido — modulan, compensan, parchean, pero no generan la seguridad de base que el aparato esperaba en su momento.\n\n### Diátesis familiar: genes, entorno y retroalimentación\n\nLa distinción se prolonga al debate genes/ambiente con una articulación operativa que la página tematizaba en otras secciones pero no había fijado como categoría clínica:\n\n> \"No sabemos si el entorno moldea el cerebro o si el entorno simplemente permite que el cerebro manifieste lo que genéticamente debe ser,\"\n→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)\n\n> \"Los padres ven en el hijo sus propias inseguridades genéticas y reaccionan retroalimentando esas inseguridades,\"\n→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)\n\n> \"La teoría del apego es constructivista y hay un sesgo ideológico en ciencia entre quienes priorizan ambiente y quienes priorizan genes,\"\n→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)\n\nLa pieza nombra **diátesis familiar** como tercer mecanismo entre las dos lecturas habituales: la personalidad del hijo es la mezcla genética de los padres y, encima, convive con esos padres que reaccionan a sus propios genes reflejados en el niño. La retroalimentación gen-ambiente no es ni constructivismo puro ni determinismo puro — es **resonancia genética via reacción parental**: los rasgos heredados se expresan amplificados porque el padre los reconoce y los activa por simetría inconsciente.\n\n> \"La personalidad del hijo es la mezcla genética de los padres, y encima convive con esos padres que reaccionan a sus propios genes reflejados,\"\n→ [Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)\n\n### Rasgos de adherencia como sustrato cognitivo de la posición política\n\nLa pieza cierra con una conexión a [[diagrama-de-proxy]] que articula el sustrato cognitivo de la adherencia ideológica documentada en esa página:\n\n> \"Existen rasgos de adherencia que hacen que el carácter prefiera ciertos discursos o visiones del mundo sobre otros,\"\n→ [Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)\n\nLos **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhesión ideológica que el diagrama articula como simetría reactiva entre cuadrantes: no se eligen las posiciones por argumento sino que se adhieren por reconocimiento estructural — el carácter prefiere ciertas formas discursivas porque el aparato representacional resuena con ellas, y la posición política se consolida por afinidad cognitiva, no por persuasión racional.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 3433,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)"
+        },
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 3584,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)"
+        },
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 3889,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)"
+        },
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 3981,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)"
+        }
+      ],
+      "rationale": "Aporta tres piezas operativas que la página tematizaba implícitamente pero no había fijado: (a) la oposición circuito de cuidados (RC) vs teoría del apego (constructivismo) como corte anti-constructivista nombrado; (b) ventana crítica para señales canónicas como cláusula no-modelable del aparato; (c) diátesis familiar como tercer mecanismo entre constructivismo puro y determinismo genético puro; (d) rasgos de adherencia como sustrato cognitivo de la adhesión ideológica que diagrama-de-proxy articula desde el ángulo neuropsicológico. Inserta tras el cierre de la sección sobre la crítica al conductismo divulgativo, manteniendo el hilo anti-constructivista de la página.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "teoria-del-simbolo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza es operativa para la teoría del símbolo del canal: muestra que la distinción de componentes Q no es solo descriptiva sino **discriminadora de validez** — permite identificar qué demostraciones aparentes son sofismas categoriales. El símbolo opera bien cuando ambas componentes coinciden en lo evocado; produce error cuando una se suplanta a la otra sin marca explícita.",
+      "content_proposed": "\n\n## Semiótica cognitiva como disciplina marco del canal\n\nEn el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula explícitamente la **disciplina marco** bajo la cual el aparato del símbolo, la cognición y la cultura quedan integrados — flanco meta-disciplinar que el monográfico sobre el símbolo presuponía pero no nombraba.\n\n### Tres campos del canal: antropología mitológica + psicología clínica/cognitiva + filosofía\n\n> \"El canal trata tres campos: antropología mitológica, psicología clínica/cognitiva y filosofía,\"\n→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)\n\n> \"Técnicamente es psicología analítica, pero el término se queda corto,\"\n→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)\n\n> \"La propuesta más precisa del chat: sistemas cognitivos, psicología y sus vectores culturales,\"\n→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)\n\nLa articulación cierra la pregunta autorreferencial del proyecto: la psicología analítica junguiana es **insuficiente como etiqueta** porque el canal opera además sobre la antropología mitológica (la diversidad cultural del material arquetípico) y sobre la filosofía (la teoría de la mente que sostiene la lectura cognitiva). El cruce de los tres campos no es eclecticismo sino convergencia disciplinar exigida por el objeto: las representaciones mentales son a la vez fenómenos psicológicos individuales, materiales arquetípicos transpersonales y construcciones filosóficamente argumentables.\n\n### Semiótica cognitiva como disciplina marco\n\n> \"La semiótica cognitiva es la teoría que describe qué significa interpretar en un sentido mental,\"\n→ [Lo de la Gata, y qué es este canal (1:25:28)](https://youtu.be/aVhd0l1rpqY?t=5128)\n\n> \"El canal maneja un emergentismo de la cultura: toda cultura es manifestación cognitiva que presenta rasgos de funciones propias,\"\n→ [Lo de la Gata, y qué es este canal (1:25:28)](https://youtu.be/aVhd0l1rpqY?t=5128)\n\nLa precisión disciplinar es decisiva para el aparato del símbolo articulado en este monográfico: la **semiótica cognitiva** — disciplina que la página ya coloca en `primary_domains: interdisciplinary.semiotics` — opera como marco unificador de las tres dimensiones operativas del canal. Cuando el canal define el símbolo como proceso noético que evoca representaciones más complejas desde representaciones más simples, está ejecutando un programa de semiótica cognitiva: explicar cómo la mente **interpreta**, qué operaciones implementa al asignar significado, qué arquitectura cognitiva sostiene la atribución semántica. La filosofía aporta el aparato conceptual; la psicología clínico-cognitiva, el sustrato representacional medible; la antropología mitológica, los corpus culturales sobre los que la semiótica cognitiva se contrasta.\n\n### Emergentismo cultural: la cultura como manifestación cognitiva con función propia\n\nEl **emergentismo de la cultura** que el canal declara articula la dirección causal del marco: la cultura no es ámbito autónomo desde el cual la cognición es modelada (lectura constructivista clásica) sino **manifestación** de procesos cognitivos que adquiere, una vez emergida, **funciones propias** — patrones operativos que la cognición individual ya no controla unilateralmente pero que tampoco son ajenos a ella. La consecuencia teórica para [[mitologia-propia-impropia]] y para los seis mitos primarios articulados en [[collective-unconscious]] es directa: los mitos son a la vez manifestación de la matriz noética humana (el sustrato cognitivo) y estructuras emergentes con función propia (el plano cultural). Ninguno de los dos planos absorbe al otro — la semiótica cognitiva los articula como fenómenos del mismo aparato operando a escalas distintas.\n\nLa pieza cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' que la página declaraba: el cierre no es solo 'realismo cognitivo' como stance epistemológica sino **semiótica cognitiva** como disciplina constituida — la teoría de la interpretación mental opera al mismo nivel que las ciencias cognitivas y la antropología, no las subordina ni se subordina a ellas.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 4760,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)"
+        },
+        {
+          "video_id": "aVhd0l1rpqY",
+          "timestamp_seconds": 5128,
+          "cite_markdown": "[Lo de la Gata, y qué es este canal (1:25:28)](https://youtu.be/aVhd0l1rpqY?t=5128)"
+        }
+      ],
+      "rationale": "Articulación meta-disciplinar del proyecto del canal que el monográfico de teoria-del-simbolo presuponía sin nombrar. Aporta: (a) los tres campos (antropología mitológica + psicología clínica/cognitiva + filosofía) y la insuficiencia de 'psicología analítica' como etiqueta; (b) semiótica cognitiva como disciplina marco unificadora — coherente con el primary_domain interdisciplinary.semiotics ya declarado; (c) emergentismo cultural como dirección causal: cultura como manifestación cognitiva con función propia. Cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' al nombrar la disciplina constituida que articula el cierre.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "La Gata de Schrödinger / proyecto Science Truck del Ministerio de Ciencia",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque coyuntural sobre contratos del gobierno español a youtubers de divulgación (La Gata 31.400€, Science Truck 450.000€ total, vinculación con caso Koldo). Crítica política específica a actores nominales y cifras concretas de actualidad — match con exclude_pattern por 'PSOE/Sánchez' y por figuras coyunturales. La crítica subyacente al uso público del dinero en propaganda ideológica está ya cubierta estructuralmente en consumismo-critica y diagrama-de-proxy. Bloque fue motivo del título del vídeo pero no aporta material estructural nuevo.",
+      "quote_evidence": "El gobierno pagó 31.400€ a La Gata y 450.000€ en total por el proyecto Science Truck con youtubers de la misma cuerda ideológica,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Quantum Fracture / Santa Olaya",
+      "reason_code": "political_news",
+      "reason_detail": "Nombres de youtubers citados en contraste con La Gata. Santa Olaya cobró pero su ideología 'no contamina su canal'. No análisis arquetípico ni psicológico estructural. Coyuntural a la disputa política del bloque previo.",
+      "quote_evidence": "Santa Olaya también cobró pero su ideología no contamina su canal, a diferencia de La Gata y Quantum Fracture,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Disney Plus formato vertical / TikTok / generación Z",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario breve sobre estrategia de plataforma (Disney incorpora vídeos verticales en 2026). El marco aplicado 'guerra por la atención' es recap de tesis ya documentada en consumismo-critica. Sin desarrollo sustantivo.",
+      "quote_evidence": "Disney incorporará vídeos verticales a su plataforma en 2026 buscando visitas diarias compulsivas como TikTok,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "PISA 2022 / generación Z y capacidad lectora",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bloque breve (≈12 min) sobre el deterioro de la capacidad lectora en universitarios y la comparativa PISA con Japón. Conecta con la crítica cultural articulada en consumismo-critica (decadencia del lenguaje, empobrecimiento de la empatía y del pensamiento crítico) pero el desarrollo aquí no añade marco arquetípico nuevo. Podría servir como cita de apoyo para una futura sección 'decadencia educativa' en consumismo-critica si el material se acumula. Por ahora marca enriches_concept: consumismo-critica como referencia indirecta.",
+      "quote_evidence": "Según PISA 2022 los estudiantes japoneses aventajan en dos o tres cursos a los españoles en lectura, ciencia y matemáticas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material acumulable — si el canal vuelve sobre la decadencia educativa con marco aplicado en otros vídeos, considerar promoción de 'decadencia-educativa-en-proxy' o sección dedicada en consumismo-critica."
+    },
+    {
+      "surface_form": "Priones / encefalopatía espongiforme bovina / Creutzfeldt-Jakob",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Explicación divulgativa de biología molecular como digresión científica (≈9 min). Dominio natural.biology no está en alcance §1; natural.neuroscience está condicionado §1.2 pero solo cuando el canal lo articula como marco aplicado a su tesis psicológico-arquetípica. Aquí es exposición técnica neutra sin marco interpretativo del canal. Discard.",
+      "quote_evidence": "Los priones son fragmentos de proteína desnaturalizada que no se disuelven ni deshacen con facilidad,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Leonel Díaz",
+      "reason_code": "in_work_character",
+      "reason_detail": "Interlocutor del speaker en el debate sobre sincretismo y arquetipo. Su rol es introducir la tesis de Smith para que el canal la refute; no es figura intelectual analizada en sí ni objeto de discusión sustantiva sobre su propia obra. Mención que pertenece al tejido del bloque sobre arquetipo de muerte/resurrección capturado en collective-unconscious.",
+      "quote_evidence": "Leonel Díaz califica de incorrecto llamar sincretismo a las calabazas de Halloween porque restringe el término a mezcla de dos religiones,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Jonathan Z. Smith",
+      "reason_code": "passing_mention",
+      "reason_detail": "Historiador de las religiones citado por Leonel Díaz como adversario académico del concepto de arquetipo. Su tesis se refuta en el bloque (capturado como update a collective-unconscious) pero Smith mismo no es objeto de tratamiento sustantivo: su pensamiento no se expone en sí, solo se neutraliza una afirmación específica suya. No candidato a whitelist (figura citada como crítico, no como marco aplicado por el canal). Las citas literales que registran su crítica quedan integradas en el update a collective-unconscious.",
+      "quote_evidence": "Leonel Díaz cita a Jonathan Z. Smith como supuesto desmentidor del arquetipo de dioses de muerte y resurrección,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Polaris (libro del canal)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención del libro 'Polaris' como articulación textual del canal con 'semántica no trivial'. Sin desarrollo aquí. Verificar manualmente si Polaris es el mismo libro que ya está en wiki como del-origen-del-mal-libro o un libro distinto / título de trabajo. Si es distinto y aparece en otros vídeos, candidato a entity_work futuro.",
+      "quote_evidence": "Polaris es el libro del canal pero resulta difícil de entender por su semántica no trivial,",
+      "review_priority": "medium",
+      "review_priority_reason": "Verificación humana — ¿Polaris es alias de 'Del origen del mal' o publicación adicional del canal? Si es distinto, considerar promoción a entity_work cuando se confirme."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_title": "El caso de La Gata de Schrödinger y los 31.400€ del Ministerio de Ciencia",
+      "block_minute_start": "28:37",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque coyuntural sobre contratos del gobierno (Ministerio de Ciencia, caso Koldo, mascarillas) a youtubers afines. Sin marco arquetípico-psicológico estructural; la crítica a la mecánica gobierno-marketing-divulgación ya está cubierta en consumismo-critica y diagrama-de-proxy."
+    },
+    {
+      "block_title": "Fracaso del canal de ciencia y la falta de transparencia",
+      "block_minute_start": "34:43",
+      "matched_pattern": "n/a — bloque de continuidad coyuntural sobre contratos públicos a youtubers",
+      "reason_code": "political_news",
+      "reason_detail": "Continuación del bloque sobre Science Truck y la mecánica de adjudicación de contratos. Sin desarrollo arquetípico ni psicológico estructural."
+    },
+    {
+      "block_title": "Disney Plus abraza el formato vertical para captar a la generación Z",
+      "block_minute_start": "41:48",
+      "matched_pattern": "n/a — comentario breve sobre estrategia de plataforma sin marco aplicado nuevo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario breve sobre la estrategia de Disney/TikTok. Marco subyacente ('guerra por la atención del espectador') ya documentado en consumismo-critica. Demasiado breve para enriquecimiento."
+    },
+    {
+      "block_title": "Qué son los priones y la encefalopatía espongiforme bovina",
+      "block_minute_start": "1:10:28",
+      "matched_pattern": "n/a — dominio natural.biology fuera de alcance §1, sin marco aplicado",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Digresión científica divulgativa sobre priones. Dominio natural.biology no está en §1 del scope. natural.neuroscience condicionado §1.2 solo cuando el canal lo articula como marco aplicado — aquí es exposición técnica neutra."
+    }
+  ],
+  "recommended_references": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 4
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

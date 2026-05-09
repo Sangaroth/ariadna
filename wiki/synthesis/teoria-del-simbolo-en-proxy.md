@@ -536,6 +536,42 @@ La pieza es operativa para la teoría del símbolo del canal: muestra que la dis
 
 
 
+## Semiótica cognitiva como disciplina marco del canal
+
+En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula explícitamente la **disciplina marco** bajo la cual el aparato del símbolo, la cognición y la cultura quedan integrados — flanco meta-disciplinar que el monográfico sobre el símbolo presuponía pero no nombraba.
+
+### Tres campos del canal: antropología mitológica + psicología clínica/cognitiva + filosofía
+
+> "El canal trata tres campos: antropología mitológica, psicología clínica/cognitiva y filosofía,"
+→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)
+
+> "Técnicamente es psicología analítica, pero el término se queda corto,"
+→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)
+
+> "La propuesta más precisa del chat: sistemas cognitivos, psicología y sus vectores culturales,"
+→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)
+
+La articulación cierra la pregunta autorreferencial del proyecto: la psicología analítica junguiana es **insuficiente como etiqueta** porque el canal opera además sobre la antropología mitológica (la diversidad cultural del material arquetípico) y sobre la filosofía (la teoría de la mente que sostiene la lectura cognitiva). El cruce de los tres campos no es eclecticismo sino convergencia disciplinar exigida por el objeto: las representaciones mentales son a la vez fenómenos psicológicos individuales, materiales arquetípicos transpersonales y construcciones filosóficamente argumentables.
+
+### Semiótica cognitiva como disciplina marco
+
+> "La semiótica cognitiva es la teoría que describe qué significa interpretar en un sentido mental,"
+→ [Lo de la Gata, y qué es este canal (1:25:28)](https://youtu.be/aVhd0l1rpqY?t=5128)
+
+> "El canal maneja un emergentismo de la cultura: toda cultura es manifestación cognitiva que presenta rasgos de funciones propias,"
+→ [Lo de la Gata, y qué es este canal (1:25:28)](https://youtu.be/aVhd0l1rpqY?t=5128)
+
+La precisión disciplinar es decisiva para el aparato del símbolo articulado en este monográfico: la **semiótica cognitiva** — disciplina que la página ya coloca en `primary_domains: interdisciplinary.semiotics` — opera como marco unificador de las tres dimensiones operativas del canal. Cuando el canal define el símbolo como proceso noético que evoca representaciones más complejas desde representaciones más simples, está ejecutando un programa de semiótica cognitiva: explicar cómo la mente **interpreta**, qué operaciones implementa al asignar significado, qué arquitectura cognitiva sostiene la atribución semántica. La filosofía aporta el aparato conceptual; la psicología clínico-cognitiva, el sustrato representacional medible; la antropología mitológica, los corpus culturales sobre los que la semiótica cognitiva se contrasta.
+
+### Emergentismo cultural: la cultura como manifestación cognitiva con función propia
+
+El **emergentismo de la cultura** que el canal declara articula la dirección causal del marco: la cultura no es ámbito autónomo desde el cual la cognición es modelada (lectura constructivista clásica) sino **manifestación** de procesos cognitivos que adquiere, una vez emergida, **funciones propias** — patrones operativos que la cognición individual ya no controla unilateralmente pero que tampoco son ajenos a ella. La consecuencia teórica para [[mitologia-propia-impropia]] y para los seis mitos primarios articulados en [[collective-unconscious]] es directa: los mitos son a la vez manifestación de la matriz noética humana (el sustrato cognitivo) y estructuras emergentes con función propia (el plano cultural). Ninguno de los dos planos absorbe al otro — la semiótica cognitiva los articula como fenómenos del mismo aparato operando a escalas distintas.
+
+La pieza cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' que la página declaraba: el cierre no es solo 'realismo cognitivo' como stance epistemológica sino **semiótica cognitiva** como disciplina constituida — la teoría de la interpretación mental opera al mismo nivel que las ciencias cognitivas y la antropología, no las subordina ni se subordina a ellas.
+
+
+
+
 
 
 ## Lagunas

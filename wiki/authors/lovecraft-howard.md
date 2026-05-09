@@ -171,6 +171,7 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [22:35](https://youtu.be/IytpR6sGWXg?t=1355)
 - **Otoño de cuentos. Lovecraft** — chunks: [8:40](https://youtu.be/SwEqFdvBI9M?t=520) · [9:41](https://youtu.be/SwEqFdvBI9M?t=581) · [51:39](https://youtu.be/SwEqFdvBI9M?t=3099) · [1:05:01](https://youtu.be/SwEqFdvBI9M?t=3901) · [2:14:51](https://youtu.be/SwEqFdvBI9M?t=8091)
 - **Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne** — chunks: [3:04](https://youtu.be/9x8zTqpyZ5Q?t=184) · [15:12](https://youtu.be/9x8zTqpyZ5Q?t=912)
@@ -178,4 +179,5 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [47:57](https://youtu.be/_S6kQYk9O98?t=2877) · [1:15:22](https://youtu.be/_S6kQYk9O98?t=4522)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:59:10](https://youtu.be/DNHgjIgU_-c?t=7150)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [5:43](https://youtu.be/krkUPzqTqTA?t=343)
+- **Leyendo a Lovecraft** — chunks: [14:33](https://youtu.be/clUIlcqD0o0?t=873) · [22:24](https://youtu.be/clUIlcqD0o0?t=1344) · [55:37](https://youtu.be/clUIlcqD0o0?t=3337) · [59:08](https://youtu.be/clUIlcqD0o0?t=3548)
 

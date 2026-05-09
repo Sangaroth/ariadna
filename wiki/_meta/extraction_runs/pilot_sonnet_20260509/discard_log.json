@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "run_id": "pilot_sonnet_20260509",
-  "generated_at": "2026-05-09T13:59:56+00:00",
+  "generated_at": "2026-05-09T14:37:41+00:00",
   "entities": {
     "epistemologia-de-la-psicologia-en-proxy": {
       "canonical_name": "epistemología de la psicología / ¿es ciencia la psicología?",
@@ -113,6 +113,16 @@
           "quote_evidence": "El movimiento New Age se ha revestido de psicología y se ha terminado confundiendo ambas cosas"
         },
         {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "la página woke-narrativa-postmoderna-moral articula el wokismo como herramienta política inyectada por flujos financieros pero no documenta el cierre del ciclo empresarial 2025; el vídeo aporta el caso del abandono coordinado del mes del orgullo como índice del retroceso del incentivo financiero — pieza diagnóstica nueva sobre el flanco terminal del marco",
+          "quote_evidence": "Microsoft, Disney, Target, Starbucks, Blizzard, Google: ninguna celebra ya el mes del orgullo"
+        },
+        {
           "video_id": "6tfSc45kjyo",
           "video_title": "Elisa y su CI",
           "depth": "secondary",
@@ -139,8 +149,8 @@
         "discard",
         "update_existing"
       ],
-      "occurrences_count": 3,
-      "total_minutes": 13,
+      "occurrences_count": 4,
+      "total_minutes": 17,
       "review_priority": "high",
       "review_priority_reason": "inconsistent decisions across occurrences"
     },
@@ -182,6 +192,493 @@
           "decision": "discard",
           "decision_reason": "passing_mention",
           "quote_evidence": "El caso de Irene Montero y la progresía como ejemplo de lo que ocurre cuando se desnaturaliza la psicología",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "gisbertocracia": {
+      "canonical_name": "Rubén Gisbert / democracia formal",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": "secondary",
+          "minutes": 6,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "página gisbertocracia ya cubre la crítica al racional-formalismo; el vídeo aporta dos casos históricos ilustrativos nuevos (franquismo 'democracia orgánica' + RPC) y una formulación afilada del pueblo-no-se-gobierna que extiende el aparato existente",
+          "quote_evidence": "El régimen franquista era una \"democracia orgánica\", lo que demuestra que la forma no garantiza nada"
+        },
+        {
+          "video_id": "DNHgjIgU_-c",
+          "video_title": "El país del fin del Mundo II. DANA.",
+          "depth": "secondary",
+          "minutes": 4,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Bloque 22:20-24:21 extiende la crítica gisbertocracia con dos ángulos: (a) Gisbert no aterriza el formalismo en proyecto constituyente concreto — refuerza la crítica articulada en el page; (b) primer movimiento del canal hacia propuesta procedimental positiva (taller con juristas, constitución garantista con bloques de derechos y garantías, contactar a Bernad y Bastos) — toca lateralmente la laguna 'Alternativa positiva' del page sin resolverla del todo (sigue siendo procedimental, no sustantiva). Cita-only update por scope.md §3.1 (crítica de tradición intelectual + marco propio aplicado) y por la regla de redundancia: la prosa ya cubre el mecanismo crítico nuclear, los timestamps añaden cobertura de retrieval indirecto",
+          "quote_evidence": "Gisbert nunca articula un proyecto constituyente concreto: solo habla de soberanía sin definir mecanismos"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 10,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "psicologia-del-activista-en-proxy": {
+      "canonical_name": "Frente Obrero / 15M / boomers socialdemócratas",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": "secondary",
+          "minutes": 3,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "psicologia-del-activista-en-proxy ya cubre la mecánica de captación del 15M y el perfil disocial del Frente Obrero, pero NO articula (a) la modalidad inerte del activista boomer-deeply-concerned como legado psicológico del 15M, ni (b) la matización de que el perfil disocial puede coincidir con un acierto operativo sobre el plano material — ambas piezas extienden el aparato clínico-político existente con material genuinamente nuevo",
+          "quote_evidence": "El Frente Obrero tiene un perfil de herida narcisista y beligerancia, pero acierta en que lo único que funciona es la fuerza y el ciudadano preparado"
+        },
+        {
+          "video_id": "94OQnbWfe1E",
+          "video_title": "El acabóse",
+          "depth": "central_thesis",
+          "minutes": 30,
+          "framing_marks_count": 4,
+          "decision": "promote_new",
+          "decision_reason": "Bloque sostenido ~30 min (1:24:47-1:54:39) con análisis psicológico-político estructural articulado en siete piezas: (1) instrumentalización estratégica del PSOE sobre el 15M, (2) mecánica de propaganda y reclutamiento marketing-guerrilla vía Twitter, (3) técnica de captación universitaria UGT/CNT sobre dos perfiles (idealista ingenuo + hijo de ricos con herida paterna), (4) perfil disocial del activista (alergia al sometimiento, complejo rebelde, síndrome del activista), (5) técnica de elevación tipo secta (ideas inmaduras tratadas como categoría que no les corresponde), (6) presencia documentada del CNI en acampadas, (7) caso Corpus (PSOE pidiendo aguantar acampada para boicotear procesión). Testimonio personal directo del speaker (estuvo en el 15M, habló con el gabinete del delegado). Pasa el gate de auto-promoción §2.4.1 (minutes ≥30, signals ≥3, structure ≥4). NO existe página que capture esta articulación. IN-scope per scope.md §3.1 criterio 1, 2 y 3 (mecanismo psicológico-sociológico aplicado, marco teórico propio, crítica a tradición intelectual).",
+          "quote_evidence": "Las juventudes del Frente Obrero muestran un perfil marcadamente disocial: rabia contenida canalizada a través de la política,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new",
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 33,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "Pedro Sánchez / PSOE corrupción": {
+      "canonical_name": "Pedro Sánchez / PSOE corrupción",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El PSOE está superando las expectativas de corrupción que ya se sospechaban,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Conde Pumpido / Tribunal Constitucional / ley de amnistía": {
+      "canonical_name": "Conde Pumpido / Tribunal Constitucional / ley de amnistía",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Conde Pumpido ha dictaminado que el ejecutivo puede hacer todo lo que no esté expresamente prohibido por ley,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Vox / Feijóo / PP": {
+      "canonical_name": "Vox / Feijóo / PP",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "Feijóo o está en el ajo o es incomprensiblemente incompetente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Núcleo Nacional": {
+      "canonical_name": "Núcleo Nacional",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Núcleo Nacional parece más estético y twittero, le falta propuesta constructiva,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Frente Obrero": {
+      "canonical_name": "Frente Obrero",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Frente Obrero tiene un perfil de herida narcisista y beligerancia, pero acierta en que lo único que funciona es la fuerza y el ciudadano preparado,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Zapatero / argumento afectivo vence al intelectual": {
+      "canonical_name": "Zapatero / argumento afectivo vence al intelectual",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Zapatero puso de moda que el argumento afectivo venciera al intelectual,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Justicia material vs justicia formal": {
+      "canonical_name": "Justicia material vs justicia formal",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "Lo que hay que buscar no es justicia formal sino material: que lo escrito se cumpla efectivamente,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Libertad reducible al poder": {
+      "canonical_name": "Libertad reducible al poder",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "La libertad es un mito: lo que existe es el poder, puedes o no puedes hacer algo,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Diseño de sistema resistente a corrupción / liberalismo económico defensivo": {
+      "canonical_name": "Diseño de sistema resistente a corrupción / liberalismo económico defensivo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "El liberalismo económico acierta en lo primero que garantiza defensa frente al poder: familia, propiedad y medios para defenderlas,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Constitución como marca ACME": {
+      "canonical_name": "Constitución como marca ACME",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Si el texto constitucional sirve para una cosa y la contraria, no sirve para nada,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Pucherazo vs caciquismo / voto por correo / Leire Díez / Lady Croc": {
+      "canonical_name": "Pucherazo vs caciquismo / voto por correo / Leire Díez / Lady Croc",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "El caciquismo es intercambio de favores por votos; el pucherazo es añadir votos falsos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Guardia Civil como poder fáctico": {
+      "canonical_name": "Guardia Civil como poder fáctico",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "La Guardia Civil es el único poder fáctico que está luchando contra los excesos del gobierno,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mes del orgullo / corporaciones (Microsoft, Disney, Target, Starbucks, Blizzard, Google)": {
+      "canonical_name": "Mes del orgullo / corporaciones (Microsoft, Disney, Target, Starbucks, Blizzard, Google)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Microsoft, Disney, Target, Starbucks, Blizzard, Google: ninguna celebra ya el mes del orgullo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Adictos a la Filosofía / Enric / vídeo sobre materialismo y teoría de la mente": {
+      "canonical_name": "Adictos a la Filosofía / Enric / vídeo sobre materialismo y teoría de la mente",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Mañana toca comentar el vídeo de Enric de Adictos a la Filosofía sobre materialismo y teoría de la mente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mito del mago / Evangelion / próximos contenidos": {
+      "canonical_name": "Mito del mago / Evangelion / próximos contenidos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "El jueves se intentará hablar del mito del mago en relación con Evangelion,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Estrategia cultural Zapatero / sentimiento contra razón": {
+      "canonical_name": "Estrategia cultural Zapatero / sentimiento contra razón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "2CsRnGBT9gg",
+          "video_title": "La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El mecanismo: mi sentimiento de aversión hacia ti es más fuerte que tu amor por la verdad que sostienes,",
           "review_priority_hint": "low"
         }
       ],
@@ -974,31 +1471,6 @@
       ],
       "occurrences_count": 4,
       "total_minutes": 48,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "psicologia-del-activista-en-proxy": {
-      "canonical_name": "Psicología del activista político: 15M, captación tipo secta, perfil disocial",
-      "page_type": "synthesis",
-      "occurrences": [
-        {
-          "video_id": "94OQnbWfe1E",
-          "video_title": "El acabóse",
-          "depth": "central_thesis",
-          "minutes": 30,
-          "framing_marks_count": 4,
-          "decision": "promote_new",
-          "decision_reason": "Bloque sostenido ~30 min (1:24:47-1:54:39) con análisis psicológico-político estructural articulado en siete piezas: (1) instrumentalización estratégica del PSOE sobre el 15M, (2) mecánica de propaganda y reclutamiento marketing-guerrilla vía Twitter, (3) técnica de captación universitaria UGT/CNT sobre dos perfiles (idealista ingenuo + hijo de ricos con herida paterna), (4) perfil disocial del activista (alergia al sometimiento, complejo rebelde, síndrome del activista), (5) técnica de elevación tipo secta (ideas inmaduras tratadas como categoría que no les corresponde), (6) presencia documentada del CNI en acampadas, (7) caso Corpus (PSOE pidiendo aguantar acampada para boicotear procesión). Testimonio personal directo del speaker (estuvo en el 15M, habló con el gabinete del delegado). Pasa el gate de auto-promoción §2.4.1 (minutes ≥30, signals ≥3, structure ≥4). NO existe página que capture esta articulación. IN-scope per scope.md §3.1 criterio 1, 2 y 3 (mecanismo psicológico-sociológico aplicado, marco teórico propio, crítica a tradición intelectual).",
-          "quote_evidence": "Las juventudes del Frente Obrero muestran un perfil marcadamente disocial: rabia contenida canalizada a través de la política,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "promote_new"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 30,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -2348,6 +2820,403 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "teoria-del-lenguaje-en-proxy": {
+      "canonical_name": "lenguaje verbal como algoritmo de compresión / lenguaje vs idioma / lo inefable / arte como lenguaje no verbal",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": "monographic",
+          "minutes": 50,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "directo extiende el marco lingüístico de teoria-del-lenguaje-en-proxy con tres piezas genuinamente nuevas que la página existente no contiene: (1) distinción operativa lenguaje (función cognitiva innata) vs idioma (código culturalmente aprendido); (2) categoría de 'lo inefable' como límite estructural del algoritmo de compresión, con casos clínicos concretos (sueños, trastornos disociativos, dolor neuropático); (3) arte como lenguaje no verbal que implementa la función lingüística sin código gramatical-verbal. La página actual tiene la tesis del lenguaje como compresión y la concordancia prelingüística pero no articula esas tres extensiones",
+          "quote_evidence": "Existe lo inefable: vivencias (sueños, trastornos, dolor neuropático) que no se pueden explicitar ni siquiera para uno mismo"
+        },
+        {
+          "video_id": "PWUUY7vVgUk",
+          "video_title": "El lenguaje no determina el pensamiento.",
+          "depth": "central_thesis",
+          "minutes": 145,
+          "framing_marks_count": 5,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de ~145 min sostenidos articulando la tesis nuclear del canal sobre lenguaje y pensamiento, con marco pedagógico tipo Psicología 101 y estructura interna de ≥20 piezas coordinadas: tesis nuclear (lenguaje no determina pensamiento), cuatro acepciones de lenguaje, distinción neurolingüística/psicolingüística con autoposicionamiento (representacionalista, realista, cognitivista), división neurológica funcional/articulatoria, mapa completo de trastornos (TEL/apragmatismo/disartria/dislalia/disglosia/disfasia/afasia/glosolalia/taquifemia/disfemias/disgrafía/dislexia), tipología completa de afasias fluentes y no fluentes, las cuatro fases cognitivas, las cuatro áreas corticales, epistemología de la lectura, mito de los esquimales, idiomas sin verbo 'ser', tres postulados a desmontar (Heidegger/PNL/determinismo), triple problema 'qué es lenguaje, qué es pensamiento, qué es determinar', concordancia prelingüística, recorrido completo por teorías (Sapir-Whorf, Skinner, Piaget, Vygotsky, Chomsky, Halliday, Fodor/Modularismo), caso Genie. Pasa el gate de auto-promoción §2.4.1 cómodamente (minutes >>30, signals ≥4, structure >>4 piezas dependientes). Es la pieza foundational del marco lingüístico del canal — paralela a teoria-del-simbolo-en-proxy (símbolo) y teoria-de-las-emociones-en-proxy (emociones), cierra el flanco lingüístico que aquellas dejaban implícito.",
+          "quote_evidence": "El lenguaje es un algoritmo de compresión: agrupa representaciones complejas en palabras,"
+        },
+        {
+          "video_id": "hD6YeyjukGA",
+          "video_title": "La Mala Ciencia",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "El cuerpo actual articula el determinismo lingüístico (Sapir-Whorf radical, PNL, Heidegger) como casos del constructivismo lingüístico que el canal rechaza. El directo extiende el marco al CONSTRUCTIVISMO NEUROCULTURAL — la tesis 'la cultura moldea el cerebro y los genes' — que es la misma operación retórica con vocabulario distinto. Material genuinamente nuevo: La llegada como caso cinematográfico del Sapir-Whorf radical (no estaba en la página), cuantificación del moldeo cerebral real (trauma/enamoramiento/maternidad >> cultura ambiental, reversibilidad en 6 meses), definición antropológica de cultura como herencia no biológica como demarcación operativa ausente en el divulgador constructivista. Encaja como sección de cierre que conecta el determinismo lingüístico con su variante neurocultural contemporánea.",
+          "quote_evidence": "Decir que la cultura moldea el cerebro es una tautología equivalente a decir que la experiencia causa experiencia"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new",
+        "update_existing"
+      ],
+      "occurrences_count": 3,
+      "total_minutes": 207,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "golem-de-cobre": {
+      "canonical_name": "los cuatro paradigmas de computabilidad del pensamiento / máquina de Turing como definición operativa",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": "secondary",
+          "minutes": 25,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "golem-de-cobre articula el contraste cognición humana / IA y la dicotomía paradigma Turing vs paradigma Penrose, pero el directo añade la enumeración explícita de cuatro paradigmas (A: identidad pensar=computar; B: conocimiento simulable pero no conciencia; C: conciencia física pero irreproducible; D: conciencia cualitativamente diferente) que sitúa al canal en un espectro en lugar de en una dicotomía binaria. Adicionalmente aporta la definición técnica canónica de máquina de Turing (lector-escritor + cinta + algoritmo) como criterio operativo de qué cuenta como computación",
+          "quote_evidence": "Paradigma C: la conciencia es física pero irreproducible; paradigma D: la conciencia es cualitativamente diferente a cualquier máquina"
+        },
+        {
+          "video_id": "NjtK76xzV18",
+          "video_title": "Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento",
+          "depth": "secondary",
+          "minutes": 5,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "Página golem-de-cobre cubre extensamente LLMs no-IA, casos clínicos Her/Gemini/RLHF y deuda cognitiva. Material nuevo: (a) la formulación 'modelos miméticos que replican la neurosis del usuario y se la devuelven' es caracterización funcional más afilada que las ya documentadas ('estocástico', 'asociativo'), (b) la mecánica iatrogénica concreta del uso terapéutico — el mismo mensaje significa cosas distintas según el estado emocional del receptor y el LLM no puede modular en consecuencia — no aparece documentada, (c) consecuencia teórica: el uso de LLMs funciona como prueba empírica no buscada de la matriz Q-afectiva implícita.",
+          "quote_evidence": "El mismo mensaje en estados emocionales diferentes significa cosas diferentes; ChatGPT no puede gestionar esa diferencia,"
+        },
+        {
+          "video_id": "SeXIQBrgaSA",
+          "video_title": "Elon Musk, Riverss, Alien y chill",
+          "depth": "passing_mention",
+          "minutes": 3,
+          "framing_marks_count": 1,
+          "decision": "update_existing",
+          "decision_reason": "El bloque articula explícitamente la categoría 'humano-golem' como tipo de relación arquetípica que la saga Alien cataloga en sus distintas entregas. El transhumanismo (humano convertido en sintético) cierra ese catálogo como caso terminal. Refuerza el aparato del page golem-de-cobre (cognición humana vs máquina) con un caso narrativo paradigmático: la corrupción del humano hacia el polo golem como última operación posible en la economía de la saga. Cita-only para retrieval indirecto",
+          "quote_evidence": "La serie explora la conversión del humano en sintético, el transhumanismo"
+        },
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": "monographic",
+          "minutes": 35,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "extiende golem-de-cobre con tres piezas técnicas genuinamente nuevas: (1) argumento analógico-vs-digital — neuronas portan información analógica incuantificable, el cerebro resuelve ecuaciones químicas analógicas, no opera con celdillas de estados discretos; (2) reducción de la computación cuántica y algoritmos probabilísticos a máquinas de Turing deterministas — refutación específica del 'rescate cuántico' del computacionalismo; (3) enactividad como segunda barrera estructural (además de la afectiva ya documentada) — el cerebro genera representaciones orientadas a contrastarse con la realidad, mientras la máquina no intercambia información con el entorno; y (4) precisión sobre el proyecto Galatea — es teoría de la mente computable, NO mente computable, distinción que la página articulaba implícitamente sin formularla literalmente",
+          "quote_evidence": "Un ordenador es una máquina que computa; el pensamiento no es computable sino emulable estéticamente"
+        },
+        {
+          "video_id": "t8v5w3s0USA",
+          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
+          "depth": "secondary",
+          "minutes": 8,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "Golem-de-cobre cubre extensamente la crítica al paradigma Turing y la distinción simulación/emulación. Faltan tres piezas que este vídeo introduce explícitamente: (1) el 'paradigma de Penrose' como contrapunto nominal al paradigma Turing (diferencia entre apariencia funcional y naturaleza), (2) la distinción categorial determinismo/computabilidad — el cerebro humano y la IA son ambos deterministas físicamente, pero ello no implica que el primero sea computable, (3) la articulación de la barrera en términos de órdenes de magnitud de clase de complejidad de teoría de la información, no en términos puramente cualitativos.",
+          "quote_evidence": "La diferencia está en órdenes de magnitud de clase de complejidad en teoría de la información,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 5,
+      "total_minutes": 76,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Streaming format change / podcast / contratación de editor": {
+      "canonical_name": "Streaming format change / podcast / contratación de editor",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Anuncia la sustitución de días de stream por un podcast y contenido escrito para patronos, reduciendo los directos a dos días semanales,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Subsidio de paro para víctimas de violencia de género / denuncias falsas": {
+      "canonical_name": "Subsidio de paro para víctimas de violencia de género / denuncias falsas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "A partir de noviembre las víctimas de violencia de género podrán pedir el subsidio por desempleo sin haber cotizado,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ignatius Farray / humor de autodenigración": {
+      "canonical_name": "Ignatius Farray / humor de autodenigración",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El humor de Ignatius consiste en autodegradarse deliberadamente, lo cual Proxy considera lamentable y no gracioso,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Humor masculino vs femenino (asimetría arquetípica)": {
+      "canonical_name": "Humor masculino vs femenino (asimetría arquetípica)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "El humor masculino funciona exponiendo la intimidad con franqueza total porque a nadie le importa que un hombre sufra,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cristian Bilbao / progresismo que llora por hijos varones": {
+      "canonical_name": "Cristian Bilbao / progresismo que llora por hijos varones",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Llorar porque tu hijo es varón es una proyección: le echas la culpa de lo que eres tú al niño,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Locus externo de autoridad en la izquierda postmoderna": {
+      "canonical_name": "Locus externo de autoridad en la izquierda postmoderna",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "La izquierda tiene problemas con el padre arquetípico y desplaza el locus interno de autoridad al exterior,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Cristianismo como preservador de fundamentos civilizatorios": {
+      "canonical_name": "Cristianismo como preservador de fundamentos civilizatorios",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Cada vez más no creyentes reconocen que el cristianismo funciona para preservar los fundamentos de la civilización,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Ramón Nogueras / plagio de Cialdini / terapia de pareja": {
+      "canonical_name": "Ramón Nogueras / plagio de Cialdini / terapia de pareja",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El libro de Nogueras \"Por qué compramos\" replica párrafo a párrafo el contenido de \"Influence\" de Robert Cialdini,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Robert Cialdini / Influence": {
+      "canonical_name": "Robert Cialdini / Influence",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El libro de Nogueras \"Por qué compramos\" replica párrafo a párrafo el contenido de \"Influence\" de Robert Cialdini,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Análisis arquetípico como método (definición meta)": {
+      "canonical_name": "Análisis arquetípico como método (definición meta)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El análisis arquetípico no pretende descubrir la intención del autor ni inventar significados, sino explorar cómo una estructura se aplica a múltiples representaciones,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Caperucita Roja / Harry Potter / lectura de cuentos (próximos contenidos)": {
+      "canonical_name": "Caperucita Roja / Harry Potter / lectura de cuentos (próximos contenidos)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "DAW1HiYxnVk",
+          "video_title": "Las piezas que faltan",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Caperucita Roja tiene contenido arquetípico simple pero rico en metáforas extraíbles,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "funcion-biologica-y-suicidio-en-proxy": {
       "canonical_name": "El concepto 'adaptativo' es inservible en realismo cognitivo",
       "page_type": null,
@@ -2482,31 +3351,6 @@
       ],
       "occurrences_count": 1,
       "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "gisbertocracia": {
-      "canonical_name": "Gisbert nunca articula un proyecto constituyente concreto",
-      "page_type": "synthesis",
-      "occurrences": [
-        {
-          "video_id": "DNHgjIgU_-c",
-          "video_title": "El país del fin del Mundo II. DANA.",
-          "depth": "secondary",
-          "minutes": 4,
-          "framing_marks_count": 1,
-          "decision": "update_existing",
-          "decision_reason": "Bloque 22:20-24:21 extiende la crítica gisbertocracia con dos ángulos: (a) Gisbert no aterriza el formalismo en proyecto constituyente concreto — refuerza la crítica articulada en el page; (b) primer movimiento del canal hacia propuesta procedimental positiva (taller con juristas, constitución garantista con bloques de derechos y garantías, contactar a Bernad y Bastos) — toca lateralmente la laguna 'Alternativa positiva' del page sin resolverla del todo (sigue siendo procedimental, no sustantiva). Cita-only update por scope.md §3.1 (crítica de tradición intelectual + marco propio aplicado) y por la regla de redundancia: la prosa ya cubre el mecanismo crítico nuclear, los timestamps añaden cobertura de retrieval indirecto",
-          "quote_evidence": "Gisbert nunca articula un proyecto constituyente concreto: solo habla de soberanía sin definir mecanismos"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "update_existing"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 4,
       "review_priority": "low",
       "review_priority_reason": null
     },
@@ -4714,51 +5558,6 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
-    "golem-de-cobre": {
-      "canonical_name": "LLMs como modelos miméticos / iatrogenia terapéutica",
-      "page_type": "synthesis",
-      "occurrences": [
-        {
-          "video_id": "NjtK76xzV18",
-          "video_title": "Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento",
-          "depth": "secondary",
-          "minutes": 5,
-          "framing_marks_count": 1,
-          "decision": "update_existing",
-          "decision_reason": "Página golem-de-cobre cubre extensamente LLMs no-IA, casos clínicos Her/Gemini/RLHF y deuda cognitiva. Material nuevo: (a) la formulación 'modelos miméticos que replican la neurosis del usuario y se la devuelven' es caracterización funcional más afilada que las ya documentadas ('estocástico', 'asociativo'), (b) la mecánica iatrogénica concreta del uso terapéutico — el mismo mensaje significa cosas distintas según el estado emocional del receptor y el LLM no puede modular en consecuencia — no aparece documentada, (c) consecuencia teórica: el uso de LLMs funciona como prueba empírica no buscada de la matriz Q-afectiva implícita.",
-          "quote_evidence": "El mismo mensaje en estados emocionales diferentes significa cosas diferentes; ChatGPT no puede gestionar esa diferencia,"
-        },
-        {
-          "video_id": "SeXIQBrgaSA",
-          "video_title": "Elon Musk, Riverss, Alien y chill",
-          "depth": "passing_mention",
-          "minutes": 3,
-          "framing_marks_count": 1,
-          "decision": "update_existing",
-          "decision_reason": "El bloque articula explícitamente la categoría 'humano-golem' como tipo de relación arquetípica que la saga Alien cataloga en sus distintas entregas. El transhumanismo (humano convertido en sintético) cierra ese catálogo como caso terminal. Refuerza el aparato del page golem-de-cobre (cognición humana vs máquina) con un caso narrativo paradigmático: la corrupción del humano hacia el polo golem como última operación posible en la economía de la saga. Cita-only para retrieval indirecto",
-          "quote_evidence": "La serie explora la conversión del humano en sintético, el transhumanismo"
-        },
-        {
-          "video_id": "t8v5w3s0USA",
-          "video_title": "Directo doble Parte 1: La IA demuestra la semántica no explícita.",
-          "depth": "secondary",
-          "minutes": 8,
-          "framing_marks_count": 2,
-          "decision": "update_existing",
-          "decision_reason": "Golem-de-cobre cubre extensamente la crítica al paradigma Turing y la distinción simulación/emulación. Faltan tres piezas que este vídeo introduce explícitamente: (1) el 'paradigma de Penrose' como contrapunto nominal al paradigma Turing (diferencia entre apariencia funcional y naturaleza), (2) la distinción categorial determinismo/computabilidad — el cerebro humano y la IA son ambos deterministas físicamente, pero ello no implica que el primero sea computable, (3) la articulación de la barrera en términos de órdenes de magnitud de clase de complejidad de teoría de la información, no en términos puramente cualitativos.",
-          "quote_evidence": "La diferencia está en órdenes de magnitud de clase de complejidad en teoría de la información,"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "update_existing"
-      ],
-      "occurrences_count": 3,
-      "total_minutes": 16,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
     "Frankenstein de Guillermo del Toro": {
       "canonical_name": "Frankenstein de Guillermo del Toro",
       "page_type": null,
@@ -5122,42 +5921,6 @@
       "total_minutes": 0,
       "review_priority": "low",
       "review_priority_reason": null
-    },
-    "teoria-del-lenguaje-en-proxy": {
-      "canonical_name": "Teoría del lenguaje del canal: el lenguaje NO determina el pensamiento (psicolingüística representacionalista)",
-      "page_type": "synthesis",
-      "occurrences": [
-        {
-          "video_id": "PWUUY7vVgUk",
-          "video_title": "El lenguaje no determina el pensamiento.",
-          "depth": "central_thesis",
-          "minutes": 145,
-          "framing_marks_count": 5,
-          "decision": "promote_new",
-          "decision_reason": "Vídeo monográfico de ~145 min sostenidos articulando la tesis nuclear del canal sobre lenguaje y pensamiento, con marco pedagógico tipo Psicología 101 y estructura interna de ≥20 piezas coordinadas: tesis nuclear (lenguaje no determina pensamiento), cuatro acepciones de lenguaje, distinción neurolingüística/psicolingüística con autoposicionamiento (representacionalista, realista, cognitivista), división neurológica funcional/articulatoria, mapa completo de trastornos (TEL/apragmatismo/disartria/dislalia/disglosia/disfasia/afasia/glosolalia/taquifemia/disfemias/disgrafía/dislexia), tipología completa de afasias fluentes y no fluentes, las cuatro fases cognitivas, las cuatro áreas corticales, epistemología de la lectura, mito de los esquimales, idiomas sin verbo 'ser', tres postulados a desmontar (Heidegger/PNL/determinismo), triple problema 'qué es lenguaje, qué es pensamiento, qué es determinar', concordancia prelingüística, recorrido completo por teorías (Sapir-Whorf, Skinner, Piaget, Vygotsky, Chomsky, Halliday, Fodor/Modularismo), caso Genie. Pasa el gate de auto-promoción §2.4.1 cómodamente (minutes >>30, signals ≥4, structure >>4 piezas dependientes). Es la pieza foundational del marco lingüístico del canal — paralela a teoria-del-simbolo-en-proxy (símbolo) y teoria-de-las-emociones-en-proxy (emociones), cierra el flanco lingüístico que aquellas dejaban implícito.",
-          "quote_evidence": "El lenguaje es un algoritmo de compresión: agrupa representaciones complejas en palabras,"
-        },
-        {
-          "video_id": "hD6YeyjukGA",
-          "video_title": "La Mala Ciencia",
-          "depth": "secondary",
-          "minutes": 12,
-          "framing_marks_count": 2,
-          "decision": "update_existing",
-          "decision_reason": "El cuerpo actual articula el determinismo lingüístico (Sapir-Whorf radical, PNL, Heidegger) como casos del constructivismo lingüístico que el canal rechaza. El directo extiende el marco al CONSTRUCTIVISMO NEUROCULTURAL — la tesis 'la cultura moldea el cerebro y los genes' — que es la misma operación retórica con vocabulario distinto. Material genuinamente nuevo: La llegada como caso cinematográfico del Sapir-Whorf radical (no estaba en la página), cuantificación del moldeo cerebral real (trauma/enamoramiento/maternidad >> cultura ambiental, reversibilidad en 6 meses), definición antropológica de cultura como herencia no biológica como demarcación operativa ausente en el divulgador constructivista. Encaja como sección de cierre que conecta el determinismo lingüístico con su variante neurocultural contemporánea.",
-          "quote_evidence": "Decir que la cultura moldea el cerebro es una tautología equivalente a decir que la experiencia causa experiencia"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "promote_new",
-        "update_existing"
-      ],
-      "occurrences_count": 2,
-      "total_minutes": 157,
-      "review_priority": "high",
-      "review_priority_reason": "inconsistent decisions across occurrences"
     },
     "heidegger-martin": {
       "canonical_name": "Heidegger ('Solo hay mundo donde hay lenguaje')",
@@ -6147,6 +6910,302 @@
       "review_priority": "low",
       "review_priority_reason": null
     },
+    "teoria-de-la-memoria-en-proxy": {
+      "canonical_name": "memoria / teoría de la memoria",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": "monographic",
+          "minutes": 65,
+          "framing_marks_count": 4,
+          "decision": "update_existing",
+          "decision_reason": "directo monográfico de 77 min en formato 'laboratorio' que extiende sustantivamente la teoría memorial articulada en teoria-de-la-memoria-en-proxy con seis piezas genuinamente nuevas: (1) distinción categorial capacidad/función propia/fenómeno; (2) PLP como sustrato necesario pero no suficiente + filtro inhibitor CA3-CA4 hipocampo / corteza perirrinal; (3) argumento de saturación funcional contra el almacén; (4) disociación frecuencia/efecto en el sesgo de negatividad — la magnitud del cambio sustituye a la valencia; (5) definición operativa de memoria semántica como composición no-inferencial por clases de equivalencia somáticas; (6) criterio metodológico de mínimo de framework para definiciones filosóficas. La página existente NO contiene PLP, ni saturación funcional, ni la disociación frecuencia/efecto, ni la definición no-inferencial de memoria semántica, ni el criterio metodológico contra coordenadas cerradas",
+          "quote_evidence": "La PLP fundamenta la memoria, pero puede haber PLP sin haber memoria: existen partes del cerebro sin relación con la memoria donde ocurre PLP"
+        },
+        {
+          "video_id": "xdT-SCW89cw",
+          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
+          "depth": "primary",
+          "minutes": 132,
+          "framing_marks_count": 6,
+          "decision": "promote_new",
+          "decision_reason": "Vídeo monográfico de 132 min dedicado íntegramente a articular una teoría propia de la memoria del canal, con estructura pedagógica explícita ('La filosofía deshace ideas mitológicas') y posicionamiento genealógico explícito (continuación del realismo cognitivo y del marco matricial de teoria-del-simbolo-en-proxy, oposición a psicoanálisis y conductismo). CUMPLE el gate de auto-promoción §2.4.1: (a) minutes_sustained=132 ≥ 30; (b) signal_marks_detected=6 ≥ 3 (thesis_marker, corrective_thesis, internal_structure, applied_framework, genealogical_self_reference, pedagogic_register); (c) framework_internal_structure ≥ 4 piezas explícitas: definición negativa (memoria NO es almacén), definición positiva (fenómenos noéticos de repetición de submatrices similares), tipología (procedimental/episódica/semántica/sensorial-corto-largo), localización neuroanatómica (corteza retrosplenial / orbitofrontal / hipocampo), mente como matriz con submatrices imaginario-formal-afectivo, persistencia en la repetición como criterio de demarcación, refutación de recuerdos reprimidos. Marcar auto_promoted_synthesis=true en frontmatter. Página resuelve laguna estructural del wiki: no hay locus enciclopédico de la teoría memorial del canal a pesar de ser pieza recurrente en yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy y golem-de-cobre. Sub-agente debe construir cuerpo con secciones por tipo de memoria, secciones por mecanismo (matriz, persistencia, P300, CAD), wikilinks a realismo-cognitivo, teoria-del-simbolo-en-proxy, golem-de-cobre, yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy.",
+          "quote_evidence": "La memoria son fenómenos internos de repetición: una parte del cerebro se activa de forma similar a como se activó originalmente"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new",
+        "update_existing"
+      ],
+      "occurrences_count": 2,
+      "total_minutes": 197,
+      "review_priority": "high",
+      "review_priority_reason": "inconsistent decisions across occurrences"
+    },
+    "PLP / Potenciación a Largo Plazo": {
+      "canonical_name": "PLP / Potenciación a Largo Plazo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La PLP es la sensibilización o inhibición de grupos de conexiones neuronales que optimizan la transmisión,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "P300 / potencial evocado": {
+      "canonical_name": "P300 / potencial evocado",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La onda cerebral P300 es un potencial evocado que indica que el cerebro está procesando algo que ya ha existido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Reelaboración episódica / terapia de eliminación de traumas": {
+      "canonical_name": "Reelaboración episódica / terapia de eliminación de traumas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Mediante terapia de reelaboración episódica se pueden eliminar traumas, lo cual funciona lejos de ser magufada,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Millikan / función propia": {
+      "canonical_name": "Millikan / función propia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El modelo en construcción se basa en el realismo cognitivo: Millikan, representacionalismo de Peterson,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Peterson (representacionalismo)": {
+      "canonical_name": "Peterson (representacionalismo)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El modelo en construcción se basa en el realismo cognitivo: Millikan, representacionalismo de Peterson,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Uso de LLMs / Claude / ChatGPT / LM Studio para investigación": {
+      "canonical_name": "Uso de LLMs / Claude / ChatGPT / LM Studio para investigación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Proxy utiliza inteligencia artificial como asistente: selecciona artículos, revisa respuestas y monta los mapas funcionales,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Llamada a comunidad para subir artículos al Discord": {
+      "canonical_name": "Llamada a comunidad para subir artículos al Discord",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Pide a la audiencia subir al Discord revisiones sistemáticas, libros de texto o ensayos sobre función procedimental, semántica y episódica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Calimaginario (sistema representacional)": {
+      "canonical_name": "Calimaginario (sistema representacional)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los sistemas representacionales (gramatical, calimaginario, afectivo) se cruzan con tres motores representacionales: procedimental, episódico y semántico,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Plastilina (analogía)": {
+      "canonical_name": "Plastilina (analogía)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es como manipular plastilina muy líquida: no se puede tocar sin que se mueva y mezcle un poco cada vez,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Castillo de naipes (analogía del estado mental)": {
+      "canonical_name": "Castillo de naipes (analogía del estado mental)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "i_mVTgnbwHA",
+          "video_title": "Laboratorio de teoría de la mente en biología",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Es como intentar volver a montar un castillo de naipes exactamente igual: solo se puede lograr algo imaginariamente parecido,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
     "mito-solar": {
       "canonical_name": "esvástica / cruz gamada como símbolo solar",
       "page_type": "concept",
@@ -6922,6 +7981,524 @@
           "decision": "discard",
           "decision_reason": "meta_canal",
           "quote_evidence": "Lo primero que sus ojos vieron fueron las estrellas del cielo, como en Polaris,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "yo-ego-autoestima-en-proxy": {
+      "canonical_name": "distocia del yo / esquizoipia / feedback de refuerzo en formación de identidad",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": "secondary",
+          "minutes": 12,
+          "framing_marks_count": 3,
+          "decision": "update_existing",
+          "decision_reason": "yo-ego-autoestima-en-proxy articula 'ego distócico' como uno de tres modos de neurosis del ego, pero presenta la categoría de manera puntual y sin profundizar etiología ni gradiente clínico. El directo añade tres piezas que la página no contiene: (1) distocia → esquizoipia como gradiente de severidad — separación parcial vs total entre personalidad primaria e ideal del yo, donde la separación total cruza al espectro esquizo; (2) etiología por feedback fallido — la identidad se descubre por contraste con mensajes externos sobre 'quién soy', y la ausencia de feedback es más esquizogénica que el feedback erróneo; (3) consecuencia social — tribus sin roles parentales definidos producen sociedades disociales con comportamientos erráticos y alucinatorios. La pieza también articula el motor biológico ('quiero ser algo para los demás') como sustrato de la formación identitaria, anclando la taxonomía existente en mecánica desarrollista",
+          "quote_evidence": "La crianza sin referencias es esquizogénica: produce trastornos del espectro esquizo donde el yo carece de autoimagen"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 12,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "consumismo-critica": {
+      "canonical_name": "ornamentación institucional como anti-consumo / sacralización vs consumo",
+      "page_type": "concept",
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": "secondary",
+          "minutes": 11,
+          "framing_marks_count": 2,
+          "decision": "update_existing",
+          "decision_reason": "consumismo-critica articula el consumismo como anestesia del vacío existencial y el marketing implícito como dispositivo, pero no articula el polo opuesto del consumo — la sacralización que conserva en lugar de consumir, la ornamentación institucional que afirma trascendencia simbólica sobre materia. El directo añade esa pieza estructural definiendo el consumismo por contraste con su opuesto operativo: lo que no se toca, lo que se preserva, lo que se renuncia para afirmar el símbolo. El caso paradigmático (Papa Francisco despojándose de vestiduras papales como 'complejo de privilegiado idéntico al progresismo') ilustra cómo el dispositivo consumista penetra incluso instituciones formalmente anti-consumistas",
+          "quote_evidence": "La ornamentación institucional es sacralización de bienes que se conservan en lugar de consumirse"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "update_existing"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 11,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Papa Francisco / buenismo moral / comunicación pastoral": {
+      "canonical_name": "Papa Francisco / buenismo moral / comunicación pastoral",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El Papa Francisco no era progresista sino que padecía un buenismo moral que confunde articular una moral correcta con \"ser bueno\",",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "León XIV / Rerum Novarum / doctrina social de la Iglesia": {
+      "canonical_name": "León XIV / Rerum Novarum / doctrina social de la Iglesia",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "León XIV se inspira en el Rerum Novarum y la doctrina social de la Iglesia,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Anticomunismo católico / familia política como unidad mínima de resistencia / propiedad privada": {
+      "canonical_name": "Anticomunismo católico / familia política como unidad mínima de resistencia / propiedad privada",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "La familia política es un conjunto cerrado por lazos biológicos que resiste frente a otras familias y la tiranía del Estado,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Matrimonio igualitario como instrumento político / ritos gámicos sacralizados": {
+      "canonical_name": "Matrimonio igualitario como instrumento político / ritos gámicos sacralizados",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "Llamarlo \"igualitario\" automáticamente convierte en \"desigualitaria\" a la institución clásica,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Instinto de supervivencia no existe / cinco funciones biológicas / suicidio evolutivo": {
+      "canonical_name": "Instinto de supervivencia no existe / cinco funciones biológicas / suicidio evolutivo",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El suicidio tiene mecánica evolutiva: la gente se suicida no por el sufrimiento actual sino por la certeza de que no dejará de sufrir,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Crianza sin género / sexo polar no espectro / orientación sexual / cognición sexuada": {
+      "canonical_name": "Crianza sin género / sexo polar no espectro / orientación sexual / cognición sexuada",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Las personas no tienen género sino sexo, orientación sexual y cognición sexuada; el sexo es polar, no un espectro,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Taxonomía moral de las drogas: narcóticas vs enteógenas": {
+      "canonical_name": "Taxonomía moral de las drogas: narcóticas vs enteógenas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "promotion_threshold_not_met",
+          "quote_evidence": "La distinción moral relevante es si la droga impide la conexión con la realidad o solo distorsiona funciones de juicio,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Eutaxia cultural / sacralización como solución colectiva": {
+      "canonical_name": "Eutaxia cultural / sacralización como solución colectiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La eutaxia cultural consiste en soluciones colectivas a problemas colectivos que no necesiten cambiarse,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "George Floyd": {
+      "canonical_name": "George Floyd",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "León XIV, y George Floyd.",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Comunicación pastoral / pastoral lamentable": {
+      "canonical_name": "Comunicación pastoral / pastoral lamentable",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Su comunicación pastoral fue lamentable: no se entendía, no aportaba ni enseñaba,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Simpatías de Francisco con regímenes comunistas": {
+      "canonical_name": "Simpatías de Francisco con regímenes comunistas",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oDpJ_EJDDfw",
+          "video_title": "León XIV, y George Floyd.",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "political_news",
+          "quote_evidence": "Simpatizó con regímenes comunistas creyendo que confrontaban el capitalismo con buena intención,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Voz mal / problemas técnicos / configuración micrófonos": {
+      "canonical_name": "Voz mal / problemas técnicos / configuración micrófonos",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oh2v9o4c4cE",
+          "video_title": "Les pido perdón por este directo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Problemas con la configuración de micrófonos y ganancia,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Disculpa por el stream / 'no hace falta que lo vea nadie'": {
+      "canonical_name": "Disculpa por el stream / 'no hace falta que lo vea nadie'",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oh2v9o4c4cE",
+          "video_title": "Les pido perdón por este directo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Anuncia que el stream de hoy \"no hace falta que lo vea nadie\",",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Situación política española / PSOE eternos perdedores / PP pide perdón": {
+      "canonical_name": "Situación política española / PSOE eternos perdedores / PP pide perdón",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oh2v9o4c4cE",
+          "video_title": "Les pido perdón por este directo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "partisan_commentary",
+          "quote_evidence": "El PSOE vive de ser los eternos perdedores de la tiranía y provoca para perpetuar el ciclo,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Lore de Backrooms / dimensión liminal entre huecos de la realidad": {
+      "canonical_name": "Lore de Backrooms / dimensión liminal entre huecos de la realidad",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oh2v9o4c4cE",
+          "video_title": "Les pido perdón por este directo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Los backrooms son una dimensión liminal que existe \"entre los huecos\" de la realidad,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Estrategia del laberinto / topología uno / regla de la mano derecha": {
+      "canonical_name": "Estrategia del laberinto / topología uno / regla de la mano derecha",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oh2v9o4c4cE",
+          "video_title": "Les pido perdón por este directo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La técnica clásica de pegarse a una pared funciona para laberintos de topología uno,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Diseño del juego como dilema velocidad/orientación": {
+      "canonical_name": "Diseño del juego como dilema velocidad/orientación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oh2v9o4c4cE",
+          "video_title": "Les pido perdón por este directo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "El juego fuerza a elegir entre velocidad con riesgo y lentitud con desorientación,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Aclaración: el canal no es de juegos sino de psicología cognitiva": {
+      "canonical_name": "Aclaración: el canal no es de juegos sino de psicología cognitiva",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "oh2v9o4c4cE",
+          "video_title": "Les pido perdón por este directo",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Proxy aclara a los nuevos espectadores que el canal no es de juegos sino de psicología cognitiva,",
           "review_priority_hint": "low"
         }
       ],
@@ -7784,31 +9361,6 @@
       ],
       "occurrences_count": 1,
       "total_minutes": 0,
-      "review_priority": "low",
-      "review_priority_reason": null
-    },
-    "teoria-de-la-memoria-en-proxy": {
-      "canonical_name": "teoría de la memoria en Proxy (memoria como fenómeno noético de repetición de submatrices)",
-      "page_type": "synthesis",
-      "occurrences": [
-        {
-          "video_id": "xdT-SCW89cw",
-          "video_title": "La memoria NO EXISTE. (Y me doxean!!)",
-          "depth": "primary",
-          "minutes": 132,
-          "framing_marks_count": 6,
-          "decision": "promote_new",
-          "decision_reason": "Vídeo monográfico de 132 min dedicado íntegramente a articular una teoría propia de la memoria del canal, con estructura pedagógica explícita ('La filosofía deshace ideas mitológicas') y posicionamiento genealógico explícito (continuación del realismo cognitivo y del marco matricial de teoria-del-simbolo-en-proxy, oposición a psicoanálisis y conductismo). CUMPLE el gate de auto-promoción §2.4.1: (a) minutes_sustained=132 ≥ 30; (b) signal_marks_detected=6 ≥ 3 (thesis_marker, corrective_thesis, internal_structure, applied_framework, genealogical_self_reference, pedagogic_register); (c) framework_internal_structure ≥ 4 piezas explícitas: definición negativa (memoria NO es almacén), definición positiva (fenómenos noéticos de repetición de submatrices similares), tipología (procedimental/episódica/semántica/sensorial-corto-largo), localización neuroanatómica (corteza retrosplenial / orbitofrontal / hipocampo), mente como matriz con submatrices imaginario-formal-afectivo, persistencia en la repetición como criterio de demarcación, refutación de recuerdos reprimidos. Marcar auto_promoted_synthesis=true en frontmatter. Página resuelve laguna estructural del wiki: no hay locus enciclopédico de la teoría memorial del canal a pesar de ser pieza recurrente en yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy y golem-de-cobre. Sub-agente debe construir cuerpo con secciones por tipo de memoria, secciones por mecanismo (matriz, persistencia, P300, CAD), wikilinks a realismo-cognitivo, teoria-del-simbolo-en-proxy, golem-de-cobre, yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy.",
-          "quote_evidence": "La memoria son fenómenos internos de repetición: una parte del cerebro se activa de forma similar a como se activó originalmente"
-        }
-      ],
-      "is_canonical_external": false,
-      "is_in_whitelist_soft": false,
-      "decisions_seen": [
-        "promote_new"
-      ],
-      "occurrences_count": 1,
-      "total_minutes": 132,
       "review_priority": "low",
       "review_priority_reason": null
     },

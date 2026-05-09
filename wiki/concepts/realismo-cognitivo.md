@@ -853,6 +853,64 @@ La falacia estética de la claridad emparenta el dispositivo retórico conductis
 → [Psicoinfluencers (1:25:23)](https://youtu.be/frbMVcThuRw?t=5123)
 
 La aplicación sistemática de la crítica a casos clínicos concretos (TOC, depresión exógena, agorafobia, machismo aprendido) y su anclaje sociopolítico (locus externo de control, síndrome de la iluminada como motor ideológico de la divulgación) se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva — esta sección concentra solo el núcleo filosófico de la crítica, que cierra el cargo previo de tautología con tres mecánicas adicionales: sincategoremaía, degeneración por excepciones y abolición performativa de la norma.
+
+
+
+## Circuito de cuidados vs teoría del apego: el corte anti-constructivista
+
+En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula con definición operativa la diferencia entre el **circuito de cuidados** del realismo cognitivo y la **teoría del apego** convencional — flanco que la página articulaba implícitamente como anti-constructivismo pero sin nombrar la pieza concreta.
+
+> "En realismo cognitivo el apego es un conjunto de circuiterías cerebrales y cognitivas diseñadas evolutivamente para garantizar vínculos de afecto, intimidad y seguridad,"
+→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)
+
+> "El circuito de cuidados es específico de los lazos familiares, sobre todo con la madre,"
+→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)
+
+> "Se distingue del apego de la teoría del apego convencional,"
+→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)
+
+La distinción categorial es estructural: la **teoría del apego** convencional (Bowlby, Ainsworth, Main) opera bajo presupuesto constructivista — el patrón vincular es producto del histórico interaccional con el cuidador, modelable por experiencia temprana, transmisible por estilo parental. El **circuito de cuidados** del realismo cognitivo invierte el orden causal: la circuitería existe diseñada evolutivamente, y el entorno temprano la **activa o no la activa** dentro de una ventana crítica, pero no la construye.
+
+### Base de seguridad incondicional con ventana crítica
+
+> "Los niños reservan sus emociones más intensas para las madres porque las ven como base de seguridad incondicional,"
+→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)
+
+> "Esto solo se explica mediante el carácter de lo femenino: podría ser olor, feromonas, contacto del feto o el amor materno,"
+→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)
+
+> "Si no se realizan ciertos eventos canónicos antes de un periodo vital crítico, el cerebro no desarrolla esa seguridad de base,"
+→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)
+
+La cláusula de ventana crítica es la marca del realismo cognitivo: no es que el patrón vincular se moldee como argamasa indefinidamente — es que el aparato espera **señales canónicas** durante un periodo específico, y si no las recibe, el circuito no se completa. La consecuencia operativa es asimétrica respecto al constructivismo: una vez cerrada la ventana, intervenciones tardías no construyen lo no construido — modulan, compensan, parchean, pero no generan la seguridad de base que el aparato esperaba en su momento.
+
+### Diátesis familiar: genes, entorno y retroalimentación
+
+La distinción se prolonga al debate genes/ambiente con una articulación operativa que la página tematizaba en otras secciones pero no había fijado como categoría clínica:
+
+> "No sabemos si el entorno moldea el cerebro o si el entorno simplemente permite que el cerebro manifieste lo que genéticamente debe ser,"
+→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)
+
+> "Los padres ven en el hijo sus propias inseguridades genéticas y reaccionan retroalimentando esas inseguridades,"
+→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)
+
+> "La teoría del apego es constructivista y hay un sesgo ideológico en ciencia entre quienes priorizan ambiente y quienes priorizan genes,"
+→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)
+
+La pieza nombra **diátesis familiar** como tercer mecanismo entre las dos lecturas habituales: la personalidad del hijo es la mezcla genética de los padres y, encima, convive con esos padres que reaccionan a sus propios genes reflejados en el niño. La retroalimentación gen-ambiente no es ni constructivismo puro ni determinismo puro — es **resonancia genética via reacción parental**: los rasgos heredados se expresan amplificados porque el padre los reconoce y los activa por simetría inconsciente.
+
+> "La personalidad del hijo es la mezcla genética de los padres, y encima convive con esos padres que reaccionan a sus propios genes reflejados,"
+→ [Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)
+
+### Rasgos de adherencia como sustrato cognitivo de la posición política
+
+La pieza cierra con una conexión a [[diagrama-de-proxy]] que articula el sustrato cognitivo de la adherencia ideológica documentada en esa página:
+
+> "Existen rasgos de adherencia que hacen que el carácter prefiera ciertos discursos o visiones del mundo sobre otros,"
+→ [Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)
+
+Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhesión ideológica que el diagrama articula como simetría reactiva entre cuadrantes: no se eligen las posiciones por argumento sino que se adhieren por reconocimiento estructural — el carácter prefiere ciertas formas discursivas porque el aparato representacional resuena con ellas, y la posición política se consolida por afinidad cognitiva, no por persuasión racional.
+
 "
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
 
@@ -866,6 +924,7 @@ La aplicación sistemática de la crítica a casos clínicos concretos (TOC, dep
 - La distancia ontología / fenomenología se postula como medible, pero no hay propuesta operacional de cómo se mide en casos concretos fuera del ejemplo de longitud de onda vs. color.
 
 ## Citations
+
 
 
 
@@ -911,4 +970,5 @@ La aplicación sistemática de la crítica a casos clínicos concretos (TOC, dep
 - **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [18:57](https://youtu.be/xdT-SCW89cw?t=1137) · [23:05](https://youtu.be/xdT-SCW89cw?t=1385) · [25:37](https://youtu.be/xdT-SCW89cw?t=1537)
 - **Laboratorio de teoría de la mente en biología** — chunks: [20:22](https://youtu.be/i_mVTgnbwHA?t=1222) · [28:28](https://youtu.be/i_mVTgnbwHA?t=1708) · [1:14:19](https://youtu.be/i_mVTgnbwHA?t=4459)
 - **Las piezas que faltan** — chunks: [1:56:17](https://youtu.be/DAW1HiYxnVk?t=6977)
+- **Lo de la Gata, y qué es este canal.** — chunks: [1:06:21](https://youtu.be/aVhd0l1rpqY?t=3981)
 

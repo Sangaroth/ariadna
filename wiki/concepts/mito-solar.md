@@ -176,6 +176,7 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 
 
 
+
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 
 
@@ -185,4 +186,5 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [1:08:49](https://youtu.be/DMebwwTBT-M?t=4129) · [1:17:19](https://youtu.be/DMebwwTBT-M?t=4639)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [38:41](https://youtu.be/krkUPzqTqTA?t=2321)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
+- **Mitología 101: Héroes y antihéroes.** — chunks: [32:18](https://youtu.be/yLd7j3fcR1w?t=1938)
 

@@ -3,6 +3,30 @@
   "run_id": "pilot_sonnet_20260509",
   "items": [
     {
+      "from_video": "2CsRnGBT9gg",
+      "block": {
+        "block_quote": "🏛️ Situación política del PSOE: corrupción descarada",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "matched 'PSOE'; bloque sobre corrupción coyuntural sin marco teórico aplicado al sujeto concreto"
+      }
+    },
+    {
+      "from_video": "2CsRnGBT9gg",
+      "block": {
+        "block_quote": "🗳️ Irregularidades en el voto por correo y la \"fontanera\" del PSOE",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "matched 'PSOE'; comentario sobre fraude electoral coyuntural"
+      }
+    },
+    {
+      "from_video": "2CsRnGBT9gg",
+      "block": {
+        "block_quote": "🗳️ Pucherazo versus caciquismo: mecanismos de fraude electoral",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "matched 'elecciones'; mecánica de fraude electoral como denuncia coyuntural"
+      }
+    },
+    {
       "from_video": "C0Io49giVY8",
       "block": {
         "block_timestamp": "18:30",
@@ -15,6 +39,14 @@
         ],
         "filter_scope": "block",
         "audit_reason": "Bloque matchea regex de actualidad política española al nombrar literalmente PSOE, PP y Podemos en la frase 'El PSOE, el PP y Podemos han vendido el Estado a trozos'. Aunque la articulación tiene componente estructural ('el Estado pertenece a la nación según la Constitución; cualquier partido en el poder fagocita el Estado'), la crítica está atada a actores partidistas españoles concretos y se solapa con material ya cubierto por consumismo-critica (vaciamiento estructural) y diagrama-de-proxy (clasificación moral-política). Registrado en filtered_blocks_log con su razón conforme al policy_notes de topic_filters.json (no se silencia, se audita)."
+      }
+    },
+    {
+      "from_video": "DAW1HiYxnVk",
+      "block": {
+        "block_quote": "⚖️ Subsidio de paro para víctimas de violencia de género y denuncias falsas",
+        "matched_pattern": "(?i)\\b(impuestos hosteleros|factura de la luz|fiscalidad coyuntural)\\b",
+        "reason": "no matched directamente por el regex del filter — bloque sobre actualidad legislativa coyuntural; se descarta por reason_code political_news en discarded[] en lugar de por filtro automático"
       }
     },
     {
@@ -76,6 +108,14 @@
         ],
         "filter_scope": "block",
         "audit_reason": "Bloque matchea regex de actualidad política española al nombrar literalmente a Sánchez en la frase 'Asco por la actitud de Sánchez en la comparecencia, con cara de \"me estáis jodiendo otra vez\"'. Comentario táctico sobre actitud comunicativa de figura política contemporánea sin marco teórico aplicado. Registrado en filtered_blocks_log conforme al policy_notes de topic_filters.json (no se silencia, se audita)."
+      }
+    },
+    {
+      "from_video": "oh2v9o4c4cE",
+      "block": {
+        "block_quote": "🇪🇸 Breve comentario sobre la situación política española",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason": "matched 'PSOE' y 'PP'; comentario partidista coyuntural sin marco teórico aplicado"
       }
     },
     {

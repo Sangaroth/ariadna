@@ -92,7 +92,26 @@ El movimiento final del canal es pragmático: con o sin libre albedrío, la feno
 > "La ilusión de decidir es idéntica a la realidad de decidir: la mente está diseñada para funcionar como si existiera el libre albedrío,"
 → [Lunes sin política (2:11:01)](https://youtu.be/r1SmCsNmLh0?t=7861)
 
-> "Negar el libre albedrío llevaría a un nihilismo depresivo perpetuo, pero eso no puede ocurrir porque la duda sobre si las cosas podrían ser diferentes es intrínseca a la mente humana,"
+> "Negar el libre albedrío llevaría a un nihilismo depresivo perpetuo, pero eso no puede ocurrir porque la duda sobre si las cosas podrían ser diferentes es intrínseca a la mente humana
+
+,"
+→ [Lunes sin política (2:11:01)](https://youtu.be/r1SmCsNmLh0?t=7861)
+
+## Libre albedrío vs computación: las máquinas no deciden
+
+En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal extiende la tesis del libre albedrío como ilusión funcional al contraste con la computación artificial — flanco que el monográfico previo no articulaba directamente.
+
+> "El libre albedrío humano se manifiesta en la planificación anticipatoria: evocar mentalmente escenarios que no están ocurriendo y actuar en consecuencia,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)
+
+> "Sin afectos no hay decisiones, solo computaciones; las decisiones son ponderaciones entre preferencias afectivas,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)
+
+> "Las máquinas no deciden porque no eligen: sus procedimientos de decisión son concatenaciones deterministas de computaciones,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)
+
+La precisión articula la asimetría estructural: lo que el canal sostiene como ilusión funcional en humanos (libre albedrío como representación operativa de planificación anticipatoria sobre afectos como ponderadores) carece de equivalente en máquinas porque carecen del sustrato afectivo sobre el que se pondera. La máquina no opera con la ilusión del libre albedrío porque no necesita la representación funcional — su procedimiento de decisión ES el determinismo causal sin disfraz fenomenológico. La consecuencia para [[golem-de-cobre]] es directa: la barrera afectiva ya documentada en esa página opera también en el plano de la decisión — no solo las máquinas no representan ni sienten, tampoco deciden, en el sentido en el que la cognición humana decide.
+,"
 → [Lunes sin política (2:11:01)](https://youtu.be/r1SmCsNmLh0?t=7861)
 
 ## Conexión con otros conceptos
@@ -114,6 +133,8 @@ El movimiento final del canal es pragmático: con o sin libre albedrío, la feno
 
 
 
+
 - **Lunes sin política** — chunks: [1:42:11](https://youtu.be/r1SmCsNmLh0?t=6131) · [2:00:50](https://youtu.be/r1SmCsNmLh0?t=7250) · [2:11:01](https://youtu.be/r1SmCsNmLh0?t=7861)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [7:30](https://youtu.be/hx9creRpdnY?t=450)
+- **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:32:59](https://youtu.be/ZlO5o786u90?t=5579)
 

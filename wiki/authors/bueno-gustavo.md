@@ -258,6 +258,7 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 
 
 
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -275,4 +276,5 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **¡Inside Proxy está emitiendo desde el plan B!** — chunks: [12:25](https://youtu.be/z70_R1V8G6E?t=745)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [24:43](https://youtu.be/5vERIcm2EGk?t=1483)
 - **León XIV, y George Floyd.** — chunks: [19:38](https://youtu.be/oDpJ_EJDDfw?t=1178)
+- **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:04:30](https://youtu.be/ZlO5o786u90?t=3870)
 

@@ -225,6 +225,7 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -244,4 +245,5 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/wIhH72UFUPY?t=615) · [17:18](https://youtu.be/wIhH72UFUPY?t=1038) · [42:09](https://youtu.be/wIhH72UFUPY?t=2529)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [41:09](https://youtu.be/lw7XI2lQntM?t=2469) · [49:11](https://youtu.be/lw7XI2lQntM?t=2951)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [18:12](https://youtu.be/krkUPzqTqTA?t=1092)
+- **Mitología 101: Héroes y antihéroes.** — chunks: [47:27](https://youtu.be/yLd7j3fcR1w?t=2847)
 

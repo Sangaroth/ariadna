@@ -1,0 +1,222 @@
+{
+  "video_id": "yLd7j3fcR1w",
+  "video_title": "Mitología 101: Héroes y antihéroes.",
+  "playlist": "_streams",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Antihéroe (Rick Sanchez, Deadpool, depresión y pulsión de muerte)",
+      "canonical_guess": "antiheroe",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 32,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Se llama antihéroe no porque se oponga al héroe, sino porque todas sus circunstancias son opuestas al mito herculeo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Rick es muy listo pero ser listo no es un don uranio porque no hay gloria posible en su mundo de desgracia,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El grito \"wubba lubba dub dub\" de Rick significa en realidad \"sufro terriblemente\","
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Concept canal-específico articulado sustantivamente (~32 min de exposición, de 1:23:50 a 1:53:00) en vídeo monográfico tipológico (Mitología 101). Cumple §2.1 por: (a) monográfico (≥10 min de tesis central dedicada); (b) framing-mark explícito ('el antihéroe se odia, se da asco, cree que su existencia es un error' como articulación propia); (c) channel-canonical (etiqueta operativa con paradigmas: Rick Sanchez, Deadpool); (d) cierra explícitamente la laguna 'versiones invertidas del viaje (camino destructivo, antihéroe) merecen tratamiento propio' declarada en viaje-heroe. La definición operativa que el canal articula: arrojado a la catábasis sin dones uranios, sin destino uranio, en permanente crisis de identidad sin propósito, víctima del absurdo. La distinción frente a héroe-truncado y caballero-oscuro es estructural: el héroe truncado renuncia al destino uranio que sí tenía; el caballero oscuro nace en la catábasis sin haber conocido el destino uranio; el antihéroe carece de dones uranios pero conoció la felicidad y le fue arrebatada — la triple orfandad freudiana (sin padre económico, cultural ni físico) y la pulsión de muerte contenida son sus marcas distintivas. Se distingue del 'antihéroe ordinario' (Lebowski) ya documentado en viaje-heroe — ese es sub-tipo sin componente depresivo-absurdo.",
+      "quote_evidence": "Sin destino uranio, en permanente crisis de identidad, sin propósito, víctima del absurdo,"
+    },
+    {
+      "surface_form": "Caballero oscuro (Batman, Daredevil, Punisher, Rorschach, El Cuervo)",
+      "canonical_guess": "caballero-oscuro",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No es arrojado al mundo sino directamente a lo salvaje o al mal; nace ya en la catábasis,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Diferencia con Conan: si le espera gloria es héroe, si no, caballero oscuro,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El caballero oscuro tomó protagonismo en la etapa del gótico (siglo XIX), emulando historias de la Edad Oscura,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Concept canal-específico articulado en bloque sostenido (≈12 min, 1:14:46-1:23:50) con definición estructural distintiva, canon de paradigmas y genealogía histórico-cultural (etapa del gótico, siglo XIX, emulación de la Edad Oscura). Cumple §2.1 por: (a) monográfico (segmento dedicado); (b) framing-mark ('héroe sin destino uranio' como articulación propia); (c) channel-canonical con paradigmas fijos (Batman, Daredevil, Punisher, Rorschach, El Cuervo); (d) cierra parte de la laguna 'versiones invertidas del viaje' de viaje-heroe; (e) tiene clave de redención propia (la hija anula el mundo de miseria y lo transforma en héroe — relación padre-hija como hierogamia). Distinción operativa frente a heroe-truncado: el héroe truncado renunció al destino uranio que tenía; el caballero oscuro nace ya en la catábasis sin haber conocido el orden ni el destino uranio. Distinción frente a antihéroe: el caballero oscuro tiene dones operativos para luchar por su causa (justicia propia, venganza, supervivencia), el antihéroe carece de dones uranios y vive el absurdo.",
+      "quote_evidence": "Lucha por justicia propia, venganza, reposición o supervivencia; se crea su propia causa,"
+    },
+    {
+      "surface_form": "Viaje del héroe / monomito (Mitología 101 systematic exposition)",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El viaje del héroe es el nombre literario; mito solar es el nombre en psicología arquetípica,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Lectura literal: un viaje narrativo concreto con personaje y aventura,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El mito se hace para que la psique humana se identifique: todos los mitos hablan de ti,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Articulación sistemática del marco arquetípico que la página ya documenta dispersamente. Aporta: (a) las tres capas de lectura del mito (literal / antropológica / semiótica-cognitiva) como marco metodológico explícito que la página no fijaba; (b) el sistema de tres mundos uranio/terreno/ctónico con sus correspondencias alquímicas (Mercurio/sal/azufre) y la articulación de los dones uranios como capacidades de toda la humanidad, no del individuo; (c) la articulación catábasis/anábasis/égersis como fases del recorrido (égersis como caso especial: anábasis directa de los infiernos a los cielos sin pasar por tierra — Cristo); (d) wikilinks explícitos a las dos nuevas concept pages [[caballero-oscuro]] y [[antiheroe]] que cierran la laguna declarada 'Versiones invertidas del viaje (camino destructivo, antihéroe) merecen tratamiento propio'. La articulación pedagógica como 'Mitología 101' otorga a la página el sustrato systematic del que carecía.",
+      "quote_evidence": "Lectura semiótica-cognitiva: el mito como metáfora de un proceso cognitivo de resolución de problemas,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "lo que se vende como camino heroico nuevo es figura corruptiva canónica con vocabulario de empoderamiento.",
+      "content_proposed": "\n\n## Mitología 101: tres capas del mito y los tres mundos del recorrido heroico\n\nEn el directo *Mitología 101: Héroes y antihéroes* (08-ago-2024) el canal articula la exposición pedagógica systematic del marco que esta página documentaba dispersamente. La pieza fija el aparato meta-metodológico bajo el cual operan las lecturas de obra concretas: tres capas de lectura del mito y tres mundos del recorrido heroico, con correspondencias alquímicas explícitas.\n\n### Las tres capas del mito\n\n> \"Lectura literal: un viaje narrativo concreto con personaje y aventura,\"\n→ [Mitología 101: Héroes y antihéroes (40:23)](https://youtu.be/yLd7j3fcR1w?t=2423)\n\n> \"Lectura antropológica: lo que una cultura considera que debe hacer todo hombre y mujer,\"\n→ [Mitología 101: Héroes y antihéroes (40:23)](https://youtu.be/yLd7j3fcR1w?t=2423)\n\n> \"Lectura semiótica-cognitiva: el mito como metáfora de un proceso cognitivo de resolución de problemas,\"\n→ [Mitología 101: Héroes y antihéroes (40:23)](https://youtu.be/yLd7j3fcR1w?t=2423)\n\n> \"El mito se hace para que la psique humana se identifique: todos los mitos hablan de ti,\"\n→ [Mitología 101: Héroes y antihéroes (40:23)](https://youtu.be/yLd7j3fcR1w?t=2423)\n\nLa estratificación es operativa: una misma obra admite las tres lecturas simultáneamente y la legitimidad de cualquiera de ellas no anula las otras. La capa **literal** captura el argumento; la **antropológica** identifica el código moral cultural que la obra vehicula como expectativa de género (qué debe hacer un hombre, qué debe hacer una mujer en esa cultura); la **semiótica-cognitiva** lee el mito como representación externa de un proceso cognitivo de resolución de problemas que la psique reconoce y sobre el que se entrena vicariamente. La función psicológica del mito (identificación con el héroe) opera por la tercera capa — la psique se reconoce en la estructura cognitiva del recorrido, no en sus accidentes narrativos.\n\nLa precisión cierra la laguna metodológica: el viaje del héroe como vara diagnóstica funciona porque opera en las tres capas a la vez; una obra falla cuando recoge la silueta literal sin sustentar la capa cognitiva (caso Harry Potter ya documentado en esta página) o cuando invierte el código antropológico de aprendizaje (caso de la ingenuidad sustituyendo a la inocencia, también documentado).\n\n### Los tres mundos: uranio, terreno y ctónico\n\nEl recorrido heroico atraviesa tres mundos que el canal articula con correspondencias alquímicas explícitas:\n\n> \"Lo uranio (símbolo de Mercurio) es lo celestial, divino, ancestral: el deber ser y los dones previos,\"\n→ [Mitología 101: Héroes y antihéroes (44:54)](https://youtu.be/yLd7j3fcR1w?t=2694)\n\n> \"Lo terreno (símbolo de la sal) es la personalidad, el yo,\"\n→ [Mitología 101: Héroes y antihéroes (44:54)](https://youtu.be/yLd7j3fcR1w?t=2694)\n\n> \"Lo ctónico (símbolo del azufre) es lo que está por debajo, lo infernal,\"\n→ [Mitología 101: Héroes y antihéroes (44:54)](https://youtu.be/yLd7j3fcR1w?t=2694)\n\n> \"Los dones uranios son potencias intrínsecas al ser, no simples actitudes físicas del personaje,\"\n→ [Mitología 101: Héroes y antihéroes (44:54)](https://youtu.be/yLd7j3fcR1w?t=2694)\n\nLa correspondencia alquímica fija el aparato más allá de la metáfora cosmológica: Mercurio (volátil, ascendente, mensajero entre planos) cifra lo uranio; sal (estable, terrestre, conservadora) cifra el yo personal; azufre (combustible, infernal, base de los procesos de transmutación) cifra lo ctónico. El recorrido alquímico clásico opera con los tres principios — y el viaje del héroe es su realización narrativa. Conexión con [[uranico-telurico-cetonico]] como página dedicada al sistema cosmológico vertical.\n\n### Dones uranios como capacidades de la humanidad\n\n> \"El héroe es arrojado al mundo con dones uranios y se enfrenta a lo salvaje, hábitat del caos y lo desconocido,\"\n→ [Mitología 101: Héroes y antihéroes (47:27)](https://youtu.be/yLd7j3fcR1w?t=2847)\n\n> \"Toda actitud propia es un don-regalo celestial; representan las capacidades de toda la humanidad, no del individuo,\"\n→ [Mitología 101: Héroes y antihéroes (47:27)](https://youtu.be/yLd7j3fcR1w?t=2847)\n\nLa precisión teológico-arquetípica es decisiva: los dones del héroe no son atributos individuales accidentales sino **encarnaciones particulares de capacidades genéricas de la humanidad**. La fuerza, la inteligencia, la valentía, la elocuencia que el héroe particular exhibe son siempre dones que el linaje humano comparte y que el héroe activa en su recorrido. La consecuencia operativa es que la identificación del espectador con el héroe no es proyección narcisista sino reconocimiento de potencias propias que la psique sabe disponibles aunque no las haya activado todavía.\n\n### Catábasis, anábasis y égersis\n\n> \"Catábasis: cuando el héroe es vencido por lo salvaje y cae a los infiernos o la depresión (noche oscura del alma),\"\n→ [Mitología 101: Héroes y antihéroes (49:58)](https://youtu.be/yLd7j3fcR1w?t=2998)\n\n> \"Anábasis: cuando resurge para seguir enfrentándose al mal o ascender al destino uranio,\"\n→ [Mitología 101: Héroes y antihéroes (49:58)](https://youtu.be/yLd7j3fcR1w?t=2998)\n\n> \"Egersis: forma especial de anábasis directa de los infiernos a los cielos sin pasar por tierra (ejemplo: Cristo),\"\n→ [Mitología 101: Héroes y antihéroes (49:58)](https://youtu.be/yLd7j3fcR1w?t=2998)\n\n> \"El destino glorioso se alcanza haciéndose digno de los dones mediante ciclos de catábasis y anábasis,\"\n→ [Mitología 101: Héroes y antihéroes (49:58)](https://youtu.be/yLd7j3fcR1w?t=2998)\n\nLa terna fija las tres operaciones del recorrido vertical: descenso al ctónico (catábasis = noche oscura del alma, depresión arquetípica), ascenso de retorno (anábasis al terreno o al uranio) y la égersis como caso especial — anábasis en línea recta vertical de los infiernos a los cielos sin escala terrestre, configuración cosmogónica precisa documentada también en [[hieros-gamos]] como terminología del canal y reaplicada como refutación de la crítica de Jonathan Z. Smith en [[collective-unconscious]]. La gloria del héroe no se concede ex ante sino que se gana cíclicamente — los dones uranios funcionan como potencia que solo se actualiza tras cada catábasis-anábasis sucesiva.\n\n### Tipología completa del héroe y sus formas truncadas\n\nLa exposición pedagógica de este vídeo articula un sistema completo de tipos heroicos que se distingue por la presencia/ausencia de dones uranios, destino uranio y orientación al bien:\n\n- **Héroe**: arrojado al mundo con dones uranios y destino uranio; recorre catábasis-anábasis hasta hacerse digno de los dones.\n- **[[heroe-truncado]]**: tenía dones y destino uranio; renunció al destino uranio y fue dominado por el mal — el mal engendra más mal y el héroe truncado deviene antagonista (caso paradigmático: Vader).\n- **[[caballero-oscuro]]**: nace ya en la catábasis sin haber conocido orden ni destino uranio; lucha por causa propia (justicia, venganza, supervivencia) sin aspiración al uranio (Batman, Daredevil, Punisher, Rorschach, El Cuervo).\n- **[[antiheroe]]**: arrojado a la catábasis sin dones uranios de ningún tipo, en crisis permanente de identidad sin propósito, víctima del absurdo (Rick Sanchez, Deadpool).\n\nLa diferencia entre caballero oscuro y antihéroe es estructural: el caballero oscuro tiene dones operativos para su causa (puede ganar peleas, descubrir conspiraciones, salvar víctimas) aunque carezca de gloria uranio que lo redima; el antihéroe carece de dones uranios y, además, no tiene mundo propio en el que sus actos puedan ser eficaces — todo lo que hace es de casualidad porque la estructura misma de su mundo es el absurdo.\n\nLa pieza cierra la laguna declarada 'Versiones invertidas del viaje (camino destructivo, antihéroe) merecen tratamiento propio': las dos formas invertidas (caballero oscuro y antihéroe) reciben ahora páginas dedicadas, distinguibles operativamente entre sí y del [[heroe-truncado]] ya documentado.\n",
+      "wikilinks_introduced": [
+        "caballero-oscuro",
+        "antiheroe"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yLd7j3fcR1w",
+          "timestamp_seconds": 2423,
+          "cite_markdown": "[Mitología 101: Héroes y antihéroes (40:23)](https://youtu.be/yLd7j3fcR1w?t=2423)"
+        },
+        {
+          "video_id": "yLd7j3fcR1w",
+          "timestamp_seconds": 2694,
+          "cite_markdown": "[Mitología 101: Héroes y antihéroes (44:54)](https://youtu.be/yLd7j3fcR1w?t=2694)"
+        },
+        {
+          "video_id": "yLd7j3fcR1w",
+          "timestamp_seconds": 2847,
+          "cite_markdown": "[Mitología 101: Héroes y antihéroes (47:27)](https://youtu.be/yLd7j3fcR1w?t=2847)"
+        },
+        {
+          "video_id": "yLd7j3fcR1w",
+          "timestamp_seconds": 2998,
+          "cite_markdown": "[Mitología 101: Héroes y antihéroes (49:58)](https://youtu.be/yLd7j3fcR1w?t=2998)"
+        }
+      ],
+      "rationale": "Sistematización pedagógica del marco que la página documentaba dispersamente. Aporta: (a) las tres capas de lectura del mito como meta-metodología explícita; (b) los tres mundos uranio/terreno/ctónico con correspondencias alquímicas (Mercurio/sal/azufre); (c) los dones uranios articulados como capacidades genéricas de la humanidad, no atributos individuales; (d) la terna catábasis/anábasis/égersis como operaciones del recorrido vertical; (e) la tipología completa de cuatro figuras heroicas (héroe / héroe truncado / caballero oscuro / antihéroe) con criterios estructurales discriminantes y wikilinks a las dos nuevas concept pages. Cierra explícitamente la laguna 'Versiones invertidas del viaje (camino destructivo, antihéroe) merecen tratamiento propio'.",
+      "editorial_intent": "enrich",
+      "supersedes_laguna": [
+        "Versiones invertidas del viaje (camino destructivo, antihéroe) merecen tratamiento propio — el canal las trabaja en lecturas de Matrix II/III y El Gran Lebowski pero no se desarrollan aquí"
+      ]
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Frodo, Sam y Gollum como una sola persona arquetípica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura arquetípica del trío (Sam = personalidad/yo, Frodo = destino uranio o héroe que quiere ser, Gollum = lo ctónico/sombra) como tres aspectos de una misma psique. Aplicación interesante del aparato uranio/terreno/ctónico al caso de el-senor-de-los-anillos, pero la página existente sobre la obra ya está densamente desarrollada con su lectura católico-arquetípica. Material acumulable como enriches_concept para futura sección sobre la trinidad psíquica de los protagonistas, pero demasiado breve y ya parcialmente coherente con la lectura existente.",
+      "quote_evidence": "Sam es la personalidad; Frodo es el destino uranio o el héroe que quiere ser; Gollum es lo ctónico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material acumulable — aplicación canónica de la trinidad uranio/terreno/ctónico al trío protagonista de El Señor de los Anillos. Considerar enriquecimiento de el-senor-de-los-anillos con sección dedicada cuando se acumule más material sobre lecturas psicológicas-trinitarias del canal."
+    },
+    {
+      "surface_form": "Espíritu ayudante (Pepito Grillo, Mushu, Flanders, ninfas)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Speaker articula explícitamente que el espíritu ayudante NO es arquetipo sino 'figura poética' — representa la conciencia del héroe sin merecer estatus arquetípico autónomo. La distinción es operativa para el aparato (delimita qué entra como arquetipo y qué no) pero no promueve a página propia precisamente porque el speaker la excluye de la categoría enciclopédica. Las precisiones (la ninfa NO es espíritu ayudante sino corrupción de la feminidad cubierta en tipologia-femenina-arquetipica; Obi-Wan NO es espíritu ayudante sino encuentro uranio con padre-sabio) cierran la categoría como descarte arquetípico.",
+      "quote_evidence": "Pepito Grillo, Mushu y Flanders representan la conciencia del héroe, no un arquetipo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Antagonista prototípico vs caótico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción operativa articulada en el bloque sobre el antagonista (54:32-1:02:53): el antagonista prototípico se reconoce por sí mismo como encarnación del mal arquetípico (Joker como ejemplo); el antagonismo caótico (depresión, hambre, tentación, guerra, odio, enfermedad, paso del tiempo) requiere encarnación prototípica para operar narrativamente. La distinción es operativamente útil pero el speaker no la articula con la profundidad pedagógica que dedica a héroe / caballero oscuro / antihéroe — funciona como pieza dentro de la tipología heroica más que como concept autónomo. Material acumulable para futura concept page 'antagonista' si el canal vuelve sobre la categoría con monografía.",
+      "quote_evidence": "El antagonista prototípico se reconoce siempre por sí mismo porque encarna un mal arquetípico reconocible,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material acumulable — distinción articulada que merecería concept page si el canal sostiene monografía sobre el antagonista. Por ahora, registrarla como descarte y volver cuando aparezca exposición sostenida sobre la categoría."
+    },
+    {
+      "surface_form": "La hija como redención del caballero oscuro / hierogamia padre-hija",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación arquetípica importante: descubrir una hija transforma al caballero oscuro en héroe; la relación padre-hija se lee como hierogamia (dipolo varón adulto desgraciado / niña inocente como diosa). Material que se integra como sección dentro de la nueva caballero-oscuro page promovida en este barrido — no requiere descarte separado pero registro aquí por completitud del tracking. Los enanitos de Blancanieves como hijos-dioses del mito lunar (siete posibilidades de truncamiento salvadas por la diosa) es lectura adyacente que también queda capturada en la página caballero-oscuro o en una eventual ampliación de tipologia-femenina-arquetipica.",
+      "quote_evidence": "Descubrir que tiene un hijo/a transforma al caballero oscuro en héroe: el mundo de miseria se anula,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Triple orfandad del antihéroe (sin padre económico, cultural ni físico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica del antihéroe: la fórmula de la triple orfandad es estructural y se integra en la nueva concept page antiheroe como pieza nuclear de la psicología del antihéroe. No requiere descarte separado.",
+      "quote_evidence": "Triple orfandad: sin padre económico (hogar), sin padre cultural (orden, gobierno, subcultura), sin padre físico,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Mito solar / mito lunar (transitivo vs intransitivo, masculino vs femenino, consciente vs inconsciente)",
+      "reason_code": "already_captured",
+      "reason_detail": "Las páginas mito-solar y mito-lunar existentes ya documentan extensivamente la dicotomía. Las precisiones de este vídeo (mito solar = transitivo, hacer; mito lunar = intransitivo, ser; cultos mistéricos siempre lunares; Dioniso como dios lunar no solar) son refinamientos que enriquecerían las páginas pero quedan fuera del foco del barrido (priorizado en promoción de antihéroe y caballero-oscuro). Material para future enriquecimiento de mito-solar y mito-lunar si se acumula con otros directos.",
+      "quote_evidence": "Solar = masculino, consciente, activo, transitivo; lunar = femenino, inconsciente, pasivo, estacionario,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material acumulable — refinamientos sobre transitivo/intransitivo, cultos mistéricos siempre lunares, Dioniso como lunar. Considerar enriquecimiento de mito-solar y mito-lunar en barrido futuro."
+    },
+    {
+      "surface_form": "Star Wars / Vader / Joker / Conan / Watchmen-Rorschach / El Cuervo / Pokémon (ejemplos canónicos)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Obras y personajes utilizados como ejemplos para ilustrar los tipos heroicos. Vader como caso paradigmático de heroe-truncado (ya documentado en esa página); Joker como antagonista sin héroe; Conan como caso límite (héroe si le espera gloria, caballero oscuro si no); Rorschach y El Cuervo como caballeros oscuros canónicos. Quedan integrados como casos canónicos dentro de las páginas correspondientes (heroe-truncado, caballero-oscuro) sin requerir promoción individual.",
+      "quote_evidence": "Ejemplos: Batman, Daredevil, Punisher, Rorschach de Watchmen, El Cuervo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "Rick and Morty / Deadpool (obras canónicas del antihéroe)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Obras citadas como casos paradigmáticos del antihéroe articulado en este vídeo. Quedan integradas como ejemplos canónicos dentro de la nueva concept page antiheroe. Promociones individuales como entity_work serían razonables si el canal dedicara análisis monográficos a cada una; aquí solo aparecen como casos ilustrativos.",
+      "quote_evidence": "Rick es muy listo pero ser listo no es un don uranio porque no hay gloria posible en su mundo de desgracia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material acumulable — Rick and Morty y Deadpool merecerían entity_work pages si el canal dedica análisis monográficos. Por ahora, casos canónicos del antihéroe registrados en la nueva concept page."
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "recommended_references": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 2,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Antihéroe (Rick Sanchez, Deadpool, depresión y pulsión de muerte)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Caballero oscuro (Batman, Daredevil, Punisher, Rorschach, El Cuervo)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}
