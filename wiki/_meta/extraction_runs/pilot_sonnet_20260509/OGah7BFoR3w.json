@@ -1,0 +1,267 @@
+{
+  "video_id": "OGah7BFoR3w",
+  "video_title": "Seguimos con Tolkien",
+  "playlist": "_streams",
+  "category": "mitología y religión",
+  "entities": [],
+  "_doc_promote_new": "Sin promote_new ni thesis_candidate. El vídeo es lectura sostenida del Ainulindalë (Silmarillion §1) que aplica frameworks ya documentados del canal a un texto canónico. Todo el material enriquece pages existentes: cuatro-formas-del-mal (los tres+uno grados articulados sobre las canciones de Melkor), cuatro-elementos-arquetipicos (mapeo Valar↔elementos), genesis-mitologico (Llama Imperecedera como secuencia pensamiento-visión-materia), uranico-telurico-cetonico (Melkor ctónico vs hombres uranianos), mito-polar (Valar masculino/femenino), herida-narcisista-en-proxy (Melkor como herida no reconocida), iconotropias-de-la-rabia-narcisista (la tesis tolkieniana opuesta: la forma es intuición de la verdad), shadow-archetype (Melkor está en todos), el-silmarillion (lectura monográfica del Ainulindalë). NO bloques politiqueros — vídeo puramente mitológico-filosófico.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Cuatro grados del mal articulados sobre las tres canciones de Melkor + la posesión como cuarto",
+      "reason_code": "passing_mention",
+      "reason_detail": "El canal articula la tipología cuádruple del mal anclándola textualmente en el Ainulindalë: las tres canciones de Melkor corresponden a mal primario (natural, necesario como polaridad), mal secundario (sufrimiento incomprensible que te hiere), mal terciario (corrupción que te convierte en agente del dolor); la posesión aparece como cuarta forma apenas tocada en Tolkien. Pieza canónica con anclaje literal para cuatro-formas-del-mal — la página existe y articula la tipología pero esta lectura ofrece anclaje específico al texto fundacional.",
+      "quote_evidence": "La primera canción representa el mal primario: el mal natural (muerte, fuego, oscuridad) que es necesario como polaridad negativa para concebir el bien,",
+      "review_priority": "high",
+      "review_priority_reason": "Anclaje textual canónico de la tipología cuádruple del mal en el Ainulindalë. Imprescindible chequear en cuatro-formas-del-mal.md si la página cita ya las tres canciones de Melkor como articulación de los grados. Si no lo está, es la primera prosa candidata a inserción.",
+      "enriches_concept": "cuatro-formas-del-mal",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mal primario como necesidad ontológica del contraste para concebir el bien",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis tolkieniana sobre la necesidad estructural del mal natural: Ilúvatar sonríe porque sabe que el mundo necesita ser terrible para que la psique pueda concebir lo no-terrible. Sin contraste, la hermosura sería anodina. Pieza foundational para cuatro-formas-del-mal y conecta con genesis-mitologico (cosmogonía como diferenciación).",
+      "quote_evidence": "Sin contraste, la hermosura del mundo sería anodina; el alma necesita que la belleza tenga su opuesto,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis ontológica sobre el papel estructural del mal — pieza con anclaje canónico en Tolkien que merece sub-sección dedicada en cuatro-formas-del-mal.md.",
+      "enriches_concept": "cuatro-formas-del-mal",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mal terciario: el mal que anida en ti y te convierte en agente de dolor (la venganza como ejemplo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa del tercer grado del mal con la venganza como caso paradigmático. Distingue del mal secundario (que te hiere) y del primario (que es exterior y natural).",
+      "quote_evidence": "El mal terciario es cuando el mal anida en ti y te convierte en agente de dolor (ejemplo: la venganza),",
+      "review_priority": "high",
+      "review_priority_reason": "Definición compacta del mal terciario que conecta con análisis arquetípicos del antihéroe / héroe-truncado / shadow-archetype. Merece chequeo en cuatro-formas-del-mal.md.",
+      "enriches_concept": "cuatro-formas-del-mal",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Posesión como cuarta forma del mal: supresión total del yo por un mal puro",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza específica sobre la cuarta forma del mal — la posesión donde la personalidad queda enterrada. Tolkien la toca solo superficialmente. Conecta con mal-sin-forma y con shadow-archetype.",
+      "quote_evidence": "La cuarta forma de mal, la posesión, aparece muy superficialmente en Tolkien: la supresión total del yo por un mal puro,",
+      "review_priority": "medium",
+      "review_priority_reason": "La posesión como cuarta forma es pieza menos articulada que las tres anteriores — flag para acumulación si reaparece en otros vídeos como categoría más desarrollada.",
+      "enriches_concept": "cuatro-formas-del-mal",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Herida narcisista de Melkor: hijo no reconocido por el padre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura psicológico-arquetípica de Melkor como caso de herida narcisista — la rebeldía que articula iconotropias-de-la-rabia-narcisista (Lucifer) tiene aquí su correspondencia tolkieniana. Pieza foundational que enriquece tanto herida-narcisista-en-proxy como iconotropias-de-la-rabia-narcisista (Melkor como Lucifer mitopoiético).",
+      "quote_evidence": "Melkor es un hijo que se siente poco reconocido por el padre, lo que origina la herida narcisista,",
+      "review_priority": "high",
+      "review_priority_reason": "Anclaje tolkieniano explícito de la herida narcisista con figura mítica concreta. Pieza con valor doble: enriquece herida-narcisista-en-proxy (caso paradigmático) e iconotropias-de-la-rabia-narcisista (Melkor estructuralmente paralelo a la iconotropía Lucifer).",
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El yo se elabora por feedback: ser-para-alguien y necesidad de retroalimentación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis psicológica del canal sobre la construcción del yo: el ser en el niño es siempre ser-para-alguien, requiere retroalimentación de figuras significativas (madre, padre, compañeros, pareja). Sin feedback no hay desarrollo del ser. Pieza foundational para crisis-de-identidad-en-proxy y herida-narcisista.",
+      "quote_evidence": "El ser en el niño siempre es un ser-para-alguien: necesitamos retroalimentación de mamá, papá, compañeros, parejas para construir el yo,",
+      "review_priority": "high",
+      "review_priority_reason": "Definición operativa del yo como construido por feedback. Conecta con crisis-de-identidad-en-proxy (mapa preconsciente del lugar en círculos de pertenencia) y con herida-narcisista (el daño como ruptura del feedback). Merece revisión cruzada.",
+      "enriches_concept": "crisis-de-identidad-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Visión de Arda: del pensamiento (música) a la contemplación visual a la creación material",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación tolkieniana de la cosmogonía como secuencia tripartita: música (pensamiento puro) → visión (forma todavía no material) → creación material vía Llama Imperecedera. Pieza canónica para genesis-mitologico (cosmogonía como diferenciación) y para el-silmarillion.",
+      "quote_evidence": "La secuencia creativa es: pensamiento (música) → visión → creación de la materia,",
+      "review_priority": "high",
+      "review_priority_reason": "Secuencia cosmogónica tripartita con anclaje canónico tolkieniano. Pieza candidata a sub-sección de genesis-mitologico.md.",
+      "enriches_concept": "genesis-mitologico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las estancias como moradas preparadas para los hijos: el ser humano como ser que habita",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis tolkieniana-arquetípica: los Ainur descubren que las estancias musicales que componían eran moradas para los hijos de Ilúvatar — la condición humana es la de ser que necesita lugar y comprende lo pequeño de su territorio respecto al todo (a diferencia del animal que tiene territorio sin saber que lo tiene). Pieza canónica para el-silmarillion.",
+      "quote_evidence": "Los animales tienen territorio pero no saben que lo tienen; los humanos sí comprenden lo pequeño de su territorio respecto al todo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Lectura arquetípica del habitar humano. Si reaparece como tesis recurrente podría justificar concept page propia ('habitar-en-proxy' o similar).",
+      "enriches_concept": "el-silmarillion",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Elfos y hombres provienen directamente de Ilúvatar sin intervención angélica (proveniencia uraniana pura)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza foundational para uranico-telurico-cetonico — la proveniencia humana es uraniana pura, los Hijos de Ilúvatar no estaban en el tema dado a los Ainur sino que vienen directamente del Uno. Paralelo explícito con Génesis bíblico (preferencia divina por los hombres). Anclaje canónico al pensamiento católico-arquetípico que el canal lee en Tolkien.",
+      "quote_evidence": "La proveniencia del hombre es uraniana pura: el don del héroe viene de lo más alto,",
+      "review_priority": "high",
+      "review_priority_reason": "Anclaje canónico de la triada uránico/telúrico/ctónico aplicada al hombre tolkieniano. Pieza imprescindible para uranico-telurico-cetonico.md como caso paradigmático.",
+      "enriches_concept": "uranico-telurico-cetonico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tres pecados de Melkor como recapitulación de fases evolutivas humanas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tipología tripartita del canal anclada en Melkor: 1° pecado curiosidad (yo+mundo, como Eva inocente), 2° pecado desobediencia (yo+padres, comer la manzana), 3° pecado envidia (yo+semejantes, Caín y Abel). Las tres fases recapitulan el desarrollo psíquico humano. Pieza foundational para el-silmarillion y conecta con iconotropias-de-la-rabia-narcisista (Lucifer = envidia caínica).",
+      "quote_evidence": "Los tres pecados recapitulan las fases evolutivas: primero el yo y la curiosidad, después el yo y los padres, después el yo y los semejantes,",
+      "review_priority": "high",
+      "review_priority_reason": "Tipología tripartita evolutiva-pecado bien articulada que merece chequeo cruzado en el-silmarillion.md, individuation.md, e iconotropias-de-la-rabia-narcisista.md (donde el tercer pecado coincide con la iconotropía Lucifer).",
+      "enriches_concept": "el-silmarillion",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Agua como espíritu: el conductor universal y elemento primario de la creación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación semiótico-mitológica del agua: conductor universal donde surge la vida, espíritu/alma según los Eldar, lo más útil y lo más peligroso a la vez. Fluye hacia abajo y se adapta al recipiente — preparado para recibir lo físico y hacerlo crecer. El eco de la música de los Ainur vive en el agua. Pieza foundational para cuatro-elementos-arquetipicos.",
+      "quote_evidence": "En semiótica mitológica el agua representa el espíritu, el alma, lo primario a todas las cosas,",
+      "review_priority": "high",
+      "review_priority_reason": "Definición canal-específica del agua como elemento espíritu — pieza canónica para cuatro-elementos-arquetipicos.md. Especialmente importante porque el canal mantiene esta asignación elemento-región-psique en múltiples vídeos.",
+      "enriches_concept": "cuatro-elementos-arquetipicos",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cardinalidad de los Valar y los elementos: Ulmo (agua/espíritu), Manwë (aire/intelecto), Aulë (tierra/cuerpo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mapeo canónico Valar↔elementos↔regiones-psíquicas que el canal aplica como caso paradigmático del marco cuatro-elementos-arquetipicos. Pieza foundational con anclaje tolkieniano específico.",
+      "quote_evidence": "Ulmo gobierna el agua (espíritu), Manwë el aire (intelecto), Aulë la tierra (cuerpo/trabajo),",
+      "review_priority": "high",
+      "review_priority_reason": "Mapeo Valar↔elementos↔psique imprescindible como caso canónico para cuatro-elementos-arquetipicos.md. Si la página actual no anclaba ya esta correspondencia con Tolkien, esta cita literal es prosa candidata.",
+      "enriches_concept": "cuatro-elementos-arquetipicos",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Aulë se deleita en fabricar y dar, no en poseer ni atesorar (la tierra como oficio y construcción)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización tolkieniana de la tierra arquetípica como oficio: el Valar de la tierra encuentra su gozo en el hacer-y-dar, no en el poseer-y-atesorar. Pieza canal-arquetípica para la región telúrica del yo.",
+      "quote_evidence": "Aulë se deleita en fabricar y dar, no en poseer ni atesorar: representa la tierra como oficio y construcción,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación de la tierra como oficio (no como posesión) con valor para cuatro-elementos-arquetipicos y posiblemente para consumismo-critica (el deleite del hacer vs el atesorar mercantil).",
+      "enriches_concept": "cuatro-elementos-arquetipicos",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Melkor habita el fuego (las pasiones ctónicas) y confunde el fuego con la Llama Imperecedera",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza dual: (a) Melkor reclama el fuego (pasiones, deseo, lo ctónico) como su dominio — completa la tétrada elemental con el cuarto elemento; (b) la confusión teológica clave de Melkor es identificar las pasiones ctónicas con la fuerza creadora divina (la Llama Imperecedera). Anclaje canónico para uranico-telurico-cetonico (Melkor ctónico) y cuatro-elementos-arquetipicos (fuego como pasiones).",
+      "quote_evidence": "Melkor confunde el fuego (los impulsos pasionales) con la Llama Imperecedera (la fuerza creadora divina),",
+      "review_priority": "high",
+      "review_priority_reason": "Confusión teológica fuego↔Llama Imperecedera es articulación canónica del pecado de Melkor — la pasión ctónica confundida con la creatividad divina. Pieza con valor doble para uranico-telurico-cetonico (caso paradigmático del polo ctónico) y para iconotropias-de-la-rabia-narcisista (Melkor como Lucifer estructural).",
+      "enriches_concept": "uranico-telurico-cetonico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tétrada elemental completa (agua/aire/tierra/fuego) en Tolkien",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cierre de la tétrada elemental con la asignación tolkieniana: agua=espíritu/inconsciente, aire=intelecto, tierra=cuerpo/trabajo, fuego=pasiones ctónicas. Anclaje canónico para cuatro-elementos-arquetipicos.",
+      "quote_evidence": "Se completa la tétrada elemental: agua (espíritu/inconsciente), aire (intelecto), tierra (cuerpo/trabajo), fuego (pasiones ctónicas),",
+      "review_priority": "high",
+      "review_priority_reason": "Articulación condensada de la tétrada elemental con asignaciones psíquicas precisas. Cita literal canónica para cuatro-elementos-arquetipicos.md.",
+      "enriches_concept": "cuatro-elementos-arquetipicos",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tierra como regeneración frente al fuego destructor: ciclos, estaciones y ceniza como nutriente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis ecocosmogónica del canal sobre la lectura tolkieniana: Ilúvatar dota a la tierra de potencias regenerativas (vida, ciclos, estaciones) precisamente para contrarrestar la destrucción del fuego de Melkor. La ceniza como nutriente para las plantas simboliza que del error se aprende. Asimetría: cuesta poco destruir (un Valar) pero cuatro Valar para construir.",
+      "quote_evidence": "Cuesta muy poco destruir (un Valar) pero cuatro Valar para construir: asimetría entre destrucción y creación,",
+      "review_priority": "medium",
+      "review_priority_reason": "La asimetría destrucción/creación es articulación operativa que conecta con cuatro-formas-del-mal (la facilidad del mal sobre la dificultad del bien). Pieza secundaria pero relevante.",
+      "enriches_concept": "cuatro-elementos-arquetipicos",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Llama Imperecedera = Big Bang: el pensamiento divino se vuelve materia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-tolkieniana del momento creativo material: la Llama Imperecedera enviada al vacío es el impulso creativo, el génesis físico, el Big Bang. Lectura cosmogónica que une teología y cosmología contemporánea — pieza foundational para genesis-mitologico.",
+      "quote_evidence": "Ilúvatar envía la Llama Imperecedera al vacío: es el impulso creativo, el génesis físico, el Big Bang,",
+      "review_priority": "high",
+      "review_priority_reason": "Sincretismo teología-cosmología (Llama Imperecedera = Big Bang) es lectura canónica del canal — pieza imprescindible para genesis-mitologico.md como caso paradigmático de Génesis tolkieniano.",
+      "enriches_concept": "genesis-mitologico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La primera batalla de la creación es espiritual: lo físico recapitula lo espiritual",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal anclada en Tolkien: todo lo que ocurre a nivel físico primero ocurre a nivel espiritual. La primera batalla — Melkor contra Ulmo — es por el agua/espíritu, no por la materia. El agua profunda como inconsciente en tests proyectivos completa la lectura junguiana. Pieza para genesis-mitologico y conexión con teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "La primera batalla de la creación es espiritual: todo lo que ocurre a nivel físico primero ocurre a nivel espiritual,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis fuerte sobre la primacía espiritual sobre la física que recapitula posición católico-arquetípica del canal. Pieza candidata a sub-sección dedicada en genesis-mitologico.md.",
+      "enriches_concept": "genesis-mitologico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Los Valar toman forma masculina o femenina: las esencias preexisten a la apariencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza foundational para mito-polar: los Valar toman forma visible eligiendo entre masculino y femenino, pero las esencias masculino/femenino son previas a la forma corporal. La apariencia puede ser independiente de la esencia. Tesis ontológica relevante para mito-polar y para fenomenologia-trans-en-proxy (la disociación apariencia/esencia que el canal critica).",
+      "quote_evidence": "Lo masculino y lo femenino existen como esencias previas a la forma; la apariencia puede ser independiente de la esencia,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis ontológica esencias-preceden-formas con anclaje en Valar tolkienianos. Doble valor: enriquece mito-polar (cosmogonía m/f) y conecta con fenomenologia-trans-en-proxy (donde el canal articula la asimetría apariencia/esencia con peso teórico).",
+      "enriches_concept": "mito-polar",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La forma como intuición de la verdad: tesis tolkieniana contra la iconotropía satánica",
+      "reason_code": "passing_mention",
+      "reason_detail": "TESIS COMPLEMENTARIA CRÍTICA a iconotropias-de-la-rabia-narcisista (que articula tres iconotropías como vaciamiento de símbolos). Tolkien (vía el canal) articula la tesis OPUESTA y necesaria: la forma estética terrible indica un mal real, la forma es intuición de la verdad detrás de ella, y por eso 'no se puede vaciar un símbolo de su significado y darle otro arbitrariamente' — eliminando el sofisma de la iconotropía satánica. Las dos tesis se complementan: las iconotropías existen como intentos fallidos precisamente porque la forma sí porta la verdad.",
+      "quote_evidence": "Esto elimina el sofismo de la iconotropía satánica: no se puede vaciar un símbolo de su significado y darle otro arbitrariamente,",
+      "review_priority": "high",
+      "review_priority_reason": "PIEZA CRÍTICA para iconotropias-de-la-rabia-narcisista — articula el contra-argumento ontológico que explica POR QUÉ las iconotropías son fallidas (porque la forma porta intuición de verdad, no es plástica). Imprescindible chequear si la página recién creada cita ya esta tesis tolkieniana o si conviene insertarla como sección 'por qué la iconotropía falla estructuralmente'.",
+      "enriches_concept": "iconotropias-de-la-rabia-narcisista",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La experiencia estética terrible indica un mal real: no existe estética mala portadora del puro bien",
+      "reason_code": "passing_mention",
+      "reason_detail": "Refuerzo de la tesis anterior — la estética y la moral están ontológicamente vinculadas. Pieza concordante con sofisma-estetico (donde se articula el inverso: la mera enunciación estética no prueba el bien moral) y con teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "Tolkien afirma que la experiencia estética terrible indica un mal real: no existe estética mala portadora del puro bien,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis ontológica estética-moral con valor doble: enriquece iconotropias-de-la-rabia-narcisista (por qué el vaciamiento simbólico falla) y sofisma-estetico (cara complementaria — la estética mala no puede portar bien puro, ni la enunciación estética del bien lo demuestra).",
+      "enriches_concept": "iconotropias-de-la-rabia-narcisista",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las formas como don de Ilúvatar: ignorar la forma es rechazar un don divino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cierre teológico de la tesis sobre la forma — la capacidad humana de vislumbrar la verdad detrás de la apariencia es don divino, e ignorar/contradecir la forma es rechazar el don. Pieza concordante con el marco católico-arquetípico del canal y con virtudes-cardinales-teologales.",
+      "quote_evidence": "Las formas son una intuición de la verdad que hay tras ellas; ignorar la forma es rechazar un don de Ilúvatar,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "iconotropias-de-la-rabia-narcisista",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Inteligencia al servicio del mal: lo peor que puede pasar es ser inteligente y estar mal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre la peor configuración psíquica: la inteligencia desviada del bien busca formas de continuar y justifica los actos. Melkor desató su potencia intelectual en dirección errónea por creer que debía construir su propio camino al no ser como los demás. Pieza foundational para cuatro-formas-del-mal y conexión con shadow-archetype.",
+      "quote_evidence": "Lo peor que puede pasar es ser inteligente y estar mal, porque la mente justifica actos y busca formas de continuar,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis del canal sobre la combinación inteligencia+mal como configuración más peligrosa. Especialmente operativa para cuatro-formas-del-mal y para análisis arquetípicos del antagonista inteligente (Saruman, Sauron, Melkor). Merece revisión cruzada.",
+      "enriches_concept": "cuatro-formas-del-mal",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Melkor está en todos nosotros: lo ctónico, el fuego y las emociones que nos desvían",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cierre arquetípico-junguiano del canal: Melkor no es figura externa sino la sombra interior — está en lo ctónico, en el fuego de las pasiones y en las emociones que nos desvían del camino. Pieza foundational para shadow-archetype con anclaje tolkieniano específico.",
+      "quote_evidence": "Melkor está en todos nosotros: en lo ctónico, en el fuego, en las emociones que nos desvían del camino,",
+      "review_priority": "high",
+      "review_priority_reason": "Articulación tolkieniana de la sombra: Melkor como contenido sombrío universal del psiquismo, anclado en lo ctónico-pasional. Pieza canónica para shadow-archetype.md como caso paradigmático.",
+      "enriches_concept": "shadow-archetype",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 24,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

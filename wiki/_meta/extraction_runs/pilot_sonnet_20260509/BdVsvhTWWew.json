@@ -1,0 +1,262 @@
+{
+  "video_id": "BdVsvhTWWew",
+  "video_title": "Psicología 101: Valencia y emoción. Álgebra afectiva",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [],
+  "_doc_promote_new": "Sin promote_new en este vídeo: el contenido foundational se concentra en una única tesis articulada (álgebra afectiva) que se canaliza vía thesis_candidates con auto-promoción. El resto son aplicaciones del marco a casos clínicos/culturales que enriquecen páginas existentes vía citation o pertenecen al cuerpo de la nueva synthesis page.",
+  "pending_updates": [
+    {
+      "page_id": "teoria-de-las-emociones-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "no sobre las componentes afectivas más antiguas compartidas con vertebrados primitivos.",
+      "content_proposed": "## La articulación formal como álgebra afectiva\n\nEn *Psicología 101: Valencia y emoción* (26 feb 2025) el canal nombra el sistema operativo completo — **álgebra afectiva** — y explicita por primera vez la taxonomía cerrada de siete motores afectivos biológicos, completando los catálogos parciales de cinco y seis que la página ya documentaba.\n\n> \"El álgebra afectiva es el sistema lógico-formal que establece relaciones entre clases cognitivas,\"\n→ [Psicología 101: Valencia y emoción. Álgebra afectiva (20:13)](https://youtu.be/BdVsvhTWWew?t=1213)\n\n> \"Los siete motores afectivos biológicos son: buscar, terror, ira, jugar, desear, apego y pánico,\"\n→ [Psicología 101: Valencia y emoción. Álgebra afectiva (51:15)](https://youtu.be/BdVsvhTWWew?t=3075)\n\nLa composición coincide con el modelo SEEKING / RAGE / FEAR / PLAY / LUST / CARE / PANIC de Jaak Panksepp aunque sin atribución nominal en el directo — la convergencia es taxonómica, no genealógica explícita. La articulación operativa añade dos triadas que organizan la patología afectiva por defecto y por exceso:\n\n- **Estrés** como núcleo de la triada activa **buscar-terror-ira** — estados cuyo mal funcionamiento o consumo energético excesivo se manifiesta como estrés sostenido (buscar sin encontrar, terror sin liberación, ira sin calma).\n- **Ansiedad** como núcleo de la triada vincular **apego-pánico-deseo** — apego ansioso, ansiedad social y ansiedad sexual son las tres modalidades clínicas correspondientes al exceso o disfunción en cada motor.\n\n> \"Estrés: estado negativo producido por el mal funcionamiento o excesivo consumo de energía de buscar, terror o ira,\"\n→ [Psicología 101: Valencia y emoción. Álgebra afectiva (1:06:31)](https://youtu.be/BdVsvhTWWew?t=3991)\n\n> \"Ansiedad es al trío apego-pánico-deseo lo que estrés es al trío buscar-terror-ira,\"\n→ [Psicología 101: Valencia y emoción. Álgebra afectiva (1:14:42)](https://youtu.be/BdVsvhTWWew?t=4482)\n\nEl desarrollo completo del sistema (operaciones de composición, oposición y transición entre clases cognitivas; filogénesis de los siete afectos desde la ameba al mamífero; lectura clínica de TDAH, autismo y psicopatía como disfunciones de afectos específicos) pertenece a la articulación dedicada de [[algebra-afectiva]].",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "algebra-afectiva"
+      ],
+      "citations_added": [
+        {
+          "video_id": "BdVsvhTWWew",
+          "timestamp_seconds": 1213,
+          "cite_markdown": "[Psicología 101: Valencia y emoción. Álgebra afectiva (20:13)](https://youtu.be/BdVsvhTWWew?t=1213)"
+        },
+        {
+          "video_id": "BdVsvhTWWew",
+          "timestamp_seconds": 3075,
+          "cite_markdown": "[Psicología 101: Valencia y emoción. Álgebra afectiva (51:15)](https://youtu.be/BdVsvhTWWew?t=3075)"
+        },
+        {
+          "video_id": "BdVsvhTWWew",
+          "timestamp_seconds": 3991,
+          "cite_markdown": "[Psicología 101: Valencia y emoción. Álgebra afectiva (1:06:31)](https://youtu.be/BdVsvhTWWew?t=3991)"
+        },
+        {
+          "video_id": "BdVsvhTWWew",
+          "timestamp_seconds": 4482,
+          "cite_markdown": "[Psicología 101: Valencia y emoción. Álgebra afectiva (1:14:42)](https://youtu.be/BdVsvhTWWew?t=4482)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído: la página articula 5-Panksepp-style y 6-instintos como dos taxonomías parciales, con laguna explícita sobre Ekman/Panksepp. Este vídeo (a) cierra la taxonomía a 7 afectos canónicos y nombra el SISTEMA como 'álgebra afectiva', (b) introduce las dos triadas operativas estrés (buscar-terror-ira) y ansiedad (apego-pánico-deseo) que reorganizan la patología afectiva, (c) puntea hacia la nueva synthesis page algebra-afectiva donde se desarrolla el sistema de operaciones formales completo. La inserción se ancla al final de la sección sobre el juego como conquista mamífera, justo antes de 'Lugar en el corpus', que es el lugar editorial natural antes de la conclusión.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Álgebra afectiva: sistema lógico-formal de relaciones entre clases cognitivas",
+      "proposed_page_id": "algebra-afectiva",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El álgebra afectiva es el sistema lógico-formal que establece relaciones entre clases cognitivas,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los siete motores afectivos biológicos son: buscar, terror, ira, jugar, desear, apego y pánico,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El álgebra afectiva describe formalmente las operaciones entre afectos,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "Tesis central del realismo cognitivo: todas las producciones culturales recapitulan los fundamentos de la mente humana,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Toda representación mental se descompone en tres componentes: gramatical, afectiva e imaginaria,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Clase cognitiva como unidad mínima de cualia universal (parte universal de la experiencia subjetiva)",
+        "Operación afectiva como cambio de estado del yo de t0 a t+1 en la noesis",
+        "Tres componentes 3Q de toda representación mental: gramatical, afectiva, imaginaria",
+        "Siete motores afectivos: buscar",
+        "Siete motores afectivos: terror",
+        "Siete motores afectivos: ira",
+        "Siete motores afectivos: jugar",
+        "Siete motores afectivos: desear",
+        "Siete motores afectivos: apego",
+        "Siete motores afectivos: pánico",
+        "Triada del estrés (buscar-terror-ira) como núcleo de los afectos activos en disfunción energética",
+        "Triada de la ansiedad (apego-pánico-deseo) como núcleo de los afectos vinculares en disfunción",
+        "Eje temporal (nacimiento-muerte) y eje cultural (aprender-enseñar) de la función biológica",
+        "Filogénesis de los afectos: de la ameba al mamífero (orden evolutivo de aparición)",
+        "Empatía cognitiva vs simpatía como mecánicas proyectivas distintas (la psicopatía conserva la primera y carece de la segunda)",
+        "Aplicación clínica: TDAH como problema de buscar (no de afectos), psicopatía como minoración de pánico/apego/deseo, autismo como afectación de circuitos apego/pánico"
+      ],
+      "minutes_sustained": 95,
+      "domain_guess": "social.psychology.cognitive",
+      "related_existing_pages": [
+        "teoria-de-las-emociones-en-proxy",
+        "realismo-cognitivo",
+        "teoria-del-simbolo-en-proxy",
+        "golem-de-cobre",
+        "collective-unconscious",
+        "clases-ancestrales",
+        "individuation"
+      ],
+      "requires_human_validation": false,
+      "rationale": "Cumple gate auto-promoción §2.4.1: (a) minutes_sustained=95 (>=30) — el directo de 115min se dedica casi íntegramente al marco desde el minuto 09:37 hasta el cierre, con desviaciones aplicativas siempre dentro del sistema; (b) 5 señales de autoría detectadas (>=3): dos marcadores de tesis declarativa, dos articulaciones de estructura interna numerada y una auto-referencia genealógica al realismo cognitivo; (c) framework_internal_structure con 16 piezas explícitas y articuladas (>=4): definición de clase cognitiva, operación afectiva, 3Q, los siete motores nominados uno a uno, las dos triadas estrés/ansiedad, los dos ejes biológicos, la filogénesis, la distinción empatía/simpatía y la aplicación clínica. Es vídeo monográfico foundational del marco psicocognitivo: el canal articula su propia formalización de la dinámica afectiva, no expone una taxonomía académica preexistente. La convergencia con Panksepp es taxonómica pero la formalización 'álgebra afectiva' como sistema de operaciones entre clases cognitivas es articulación propia del canal."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Celebración del cumpleaños de Metalion y Bali Balaga",
+      "reason_code": "meta_canal",
+      "reason_detail": "Saludos de cumpleaños a usuarios del chat al inicio del directo. Sin contenido temático.",
+      "quote_evidence": "Celebración del cumpleaños de Metalion y Bali Balaga en el directo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Petición de likes y comentarios en YouTube",
+      "reason_code": "meta_canal",
+      "reason_detail": "Llamada a la acción meta-canal estándar.",
+      "quote_evidence": "Petición de likes y comentarios en YouTube para ayudar al canal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "pruebas físicas de natación para formación de tripulación de barco",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal del speaker sobre preparación para una formación náutica. No ilustra ningún concepto del corpus.",
+      "quote_evidence": "Mención de preparación de pruebas físicas de natación para formación de tripulación de barco,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "realismo cognitivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "El canal invoca el realismo cognitivo como tesis genealógica del marco aplicado en el vídeo (las producciones culturales recapitulan los fundamentos de la mente humana). Página realismo-cognitivo existe; cuerpo no leído íntegro en esta sesión (>25k tokens) y por tanto no se propone update_existing en prosa. La cita-only enriquece la lane de retrieval indirecto donde el chunk apunta al wiki_page vía citaciones.",
+      "quote_evidence": "Tesis central del realismo cognitivo: todas las producciones culturales recapitulan los fundamentos de la mente humana,",
+      "review_priority": "medium",
+      "review_priority_reason": "El vídeo articula explícitamente la tesis genealógica que conecta producciones culturales con fundamentos cognitivos — esa formulación condensada merece chequeo manual contra el cuerpo de realismo-cognitivo.md por si la prosa actual no la enuncia con esa nitidez.",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "componentes 3Q (gramatical / afectiva / imaginaria) de la representación mental",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Las tres componentes 3Q son pieza estructural del thesis_candidate algebra-afectiva. Adicionalmente la articulación profunda del modelo 3Q ya está en teoria-del-simbolo-en-proxy (cuerpo no leído íntegro, >25k tokens). La cita queda como enriquecimiento indirecto.",
+      "quote_evidence": "Toda representación mental se descompone en tres componentes: gramatical, afectiva e imaginaria,",
+      "review_priority": "medium",
+      "review_priority_reason": "La definición sintética 3Q en este vídeo es especialmente compacta y didáctica; conviene revisar manualmente si teoria-del-simbolo-en-proxy.md la cita ya con esta forma o si merece insertarse como pasaje canónico.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las máquinas no pueden tener inteligencia (sin afectos no hay inteligencia)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "El argumento sobre IA y afectos es aplicación del marco álgebra afectiva (las máquinas solo tienen componente gramatical de las 3Q) y a la vez enriquece la tesis ya articulada en golem-de-cobre. Página golem-de-cobre existe; cuerpo no leído íntegro (>25k tokens) por lo que no se propone update_existing en prosa.",
+      "quote_evidence": "Las máquinas solo tienen componentes gramaticales: ejecutan algoritmos sin sentir, anticipar ni necesitar,",
+      "review_priority": "high",
+      "review_priority_reason": "El argumento del cuerpo-con-metabolismo como precondición del afecto es especialmente afín a la tesis de golem-de-cobre — merece revisión manual para chequear si añade matiz nuevo (cuerpo físico con metabolismo que induzca necesidades) que la página no documente ya.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Para emular afectos una máquina necesitaría cuerpo físico con metabolismo",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Misma argumentación, refuerzo de la pieza anterior. Cita adicional para la misma página objetivo.",
+      "quote_evidence": "Para emular afectos una máquina necesitaría cuerpo físico con metabolismo que induzca necesidades,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cita complementaria que precisa el mecanismo (metabolismo induce necesidades). Merece chequeo de coherencia con galatea-modelo-protomente que articula precisamente esa precondición computacional.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "TDAH como problema de buscar, no de afectos",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Aplicación clínica del marco álgebra afectiva: TDAH como dificultad inhibitoria del sistema buscar (atención y reflejo de orientación). Pieza constituyente de la nueva synthesis page; no merece página autónoma per scope §1.2 (concepto clínico estándar, no objeto enciclopédico del canal).",
+      "quote_evidence": "El TDAH no es un problema afectivo sino una dificultad inhibitoria: no puede inhibir automáticamente ciertos procesos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Psicopatía como minoración de pánico, apego y deseo",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Aplicación clínica del marco. Constituyente de la synthesis page algebra-afectiva.",
+      "quote_evidence": "La psicopatía tiene minorados los afectos de pánico y apego; a veces también el deseo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Autismo como afectación de circuitos de apego y pánico",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Aplicación clínica del marco. Concepto clínico estándar usado como ejemplo, no merece página autónoma (scope §1.2). Constituyente de algebra-afectiva.",
+      "quote_evidence": "El autismo afecta circuitos de apego y pánico (mal llamado \"cerebro social\"),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Empatía cognitiva vs simpatía",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Distinción articulada por el canal pero como pieza interna del marco álgebra afectiva (último ítem del framework_internal_structure). No merece concept page autónoma — su valor enciclopédico está como sub-sección de la synthesis page algebra-afectiva.",
+      "quote_evidence": "Empatía cognitiva: capacidad innata de comprender que dentro de otro hay una mente análoga a la tuya,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción empatía-cognitiva-vs-simpatía es elegante y operativa para varios análisis del canal (psicopatía, woke, narcisismo). Si reaparece en futuros vídeos como pieza recurrente articulada, podría justificar concept page propia — flag medium para seguimiento.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El budismo como inhibición de buscar",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación final del marco al budismo (~2 min al cierre del directo). Caso ilustrativo del afecto buscar y de la capacidad humana de inhibirlo voluntariamente. No merece página autónoma; queda como cita dentro de algebra-afectiva.",
+      "quote_evidence": "El budismo busca inhibir la función buscar: suprimir toda anticipación y todo deseo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Diferencia entre deseo masculino (imaginario) y femenino (afectivo-contextual)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza interna del afecto 'desear' aplicada a la asimetría de género. Constituyente de algebra-afectiva como caso de cómo opera el afecto desear según el componente 3Q dominante. No merece página autónoma.",
+      "quote_evidence": "El deseo masculino es imaginario (orientado a forma/cuerpo); el femenino es afectivo y contextual,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'masculino imaginario / femenino afectivo' como aplicación de las 3Q al deseo sexual es especialmente compacta y podría enriquecer paginas existentes de tipologia femenina o adgrediere-masculino. Flag para revisión manual del cruce.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Filogénesis de los afectos (de la ameba al mamífero)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza estructural del thesis_candidate algebra-afectiva. La progresión evolutiva (buscar primero, luego terror, ira, pánico, deseo, apego, juego) es articulación propia del canal y forma parte del cuerpo de la synthesis page que se va a construir.",
+      "quote_evidence": "Buscar es el primer afecto evolutivamente (amebas); luego terror (protozoos que huyen); luego ira (organismos que se defienden),",
+      "review_priority": "medium",
+      "review_priority_reason": "La filogénesis afectiva es una de las articulaciones más originales del canal — convergente con Panksepp pero con ordenamiento explícito propio. Merece atención manual al construir la synthesis page para que la sub-sección quede bien estructurada.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

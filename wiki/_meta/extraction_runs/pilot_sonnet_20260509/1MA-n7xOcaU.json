@@ -1,0 +1,317 @@
+{
+  "video_id": "1MA-n7xOcaU",
+  "video_title": "T5x10: El fin del saber.",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [],
+  "_doc_promote_new": "Vídeo mixto que NO sostiene un thesis monográfico auto-promovible. Articula ~30 min sobre la crítica a la IA y al fin del saber académico (universidades obsoletas, revistas científicas vacuas, IA como becario no fiable que aluciona) y la actualización del programa Daedalus (renombre/consolidación del instituto antes 'Teseo') y Pandora (confirmación como máquina de biofeedback), pero el material está intercalado con bloques largos de contenido personal-profesional sobre buceo (~25 min: economía del buzo, lealtad a empresa, sistemas imperiales, formas de morir buceando, visibilidad marina) y meta_canal/promo (~15 min: Patreon, esclavos del canal, calendario, convocatorias). Las piezas estructurales sobre IA+academia+Daedalus enriquecen vía citation cibernetica-biosintetica-y-transhumanismo-en-proxy y golem-de-cobre. Las definiciones de inteligencia y función biológica ya están en conciencia-e-inteligencia-en-proxy. NO hay tesis nueva con 30+ min sustained y articulación independiente.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Daedalus como nombre del instituto y plataforma de complementación humana perfecta IA+humano",
+      "reason_code": "passing_mention",
+      "reason_detail": "ACTUALIZACIÓN DEL MAPA DE PROYECTOS articulado en NKFWUxt5VQ4. Allí el instituto se debatía entre 'Teseo' y 'Dédalo'. Aquí el nombre se ha consolidado como DAEDALUS. La articulación es: 'Daedalus junta lo mejor de la IA con lo mejor del factor humano evitando depender de la academia. La IA ejecuta tareas densas y anodinas: resumen, administración, burocracia y síntesis. En Daedalus se viene a producir: si no produces no recibes'. Pieza foundational para cibernetica-biosintetica-y-transhumanismo-en-proxy (recién creada con los proyectos previos).",
+      "quote_evidence": "Daedalus junta lo mejor de la IA con lo mejor del factor humano evitando depender de la academia,",
+      "review_priority": "high",
+      "review_priority_reason": "ACTUALIZACIÓN CRÍTICA al mapa de proyectos: el nombre 'Daedalus' parece consolidar lo que NKFWUxt5VQ4 articulaba como 'Teseo' (plataforma de consulta IA del canal). Imprescindible chequear si Daedalus = Teseo renombrado o Daedalus = nuevo nombre del instituto que engloba Teseo+otros. Posible reconciliación necesaria en cibernetica-biosintetica-y-transhumanismo-en-proxy.md.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pandora confirmada como máquina de biofeedback (ondas cerebrales, sudoración, temperatura, tensión, movimiento)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Confirmación y refinamiento de la articulación TÉCNICA de Pandora introducida en NKFWUxt5VQ4. La lista de entradas se amplía: ondas cerebrales (EEG), parpadeo, sudoración, temperatura, tensión muscular y movimiento. La función ahora es modificar sueños, conducta, manías, hábitos. Confirma la doble articulación Pandora epistemológica (DytHSZw0_mo) vs Pandora técnica (NKFWUxt5VQ4 + este vídeo).",
+      "quote_evidence": "Pandora detecta ondas cerebrales, parpadeo, sudoración, temperatura, tensión muscular y movimiento,",
+      "review_priority": "high",
+      "review_priority_reason": "Refinamiento técnico de Pandora con lista ampliada de entradas. Pieza candidata a sub-sección dedicada en cibernetica-biosintetica-y-transhumanismo-en-proxy.md (que articula Pandora pero quizá no con esta especificidad técnica).",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Fin de la academia y de las universidades (10€/mes tutor 24/7 hace innecesario el modelo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico estructural del canal sobre la obsolescencia universitaria: las universidades 'tienen los días contados' como instituciones que solo garantizan títulos políticos. Las FPs y escuelas técnicas con artesanía sobreviven; las licenciaturas teóricas no. Un tutor personalizado 24/7 por 10€/mes hace innecesario el modelo universitario actual. Pieza foundational con valor predictivo.",
+      "quote_evidence": "Un tutor personalizado 24/7 por 10 € al mes hace innecesario el modelo universitario actual,",
+      "review_priority": "high",
+      "review_priority_reason": "Predicción estructural fuerte sobre el fin del modelo universitario. Si reaparece como tesis recurrente justificaría concept page propia ('fin-de-la-academia-en-proxy' o similar). Por ahora aloja como enriquecimiento de cibernetica-biosintetica-y-transhumanismo-en-proxy (donde Daedalus se articula como respuesta institucional alternativa). Flag CRÍTICO para acumulación.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Fin de las revistas científicas: filtrar IA con IA convierte el sistema en máquinas hablándose entre sí",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico estructural del canal sobre la obsolescencia de las revistas científicas: cuando publican textos generados por IA, las citaciones no sirven; filtrar IA con otra IA convierte el sistema en máquinas hablándose entre sí. Solo hace falta presentar algo al campo de la ciencia para falsear/validar/replicar — el modelo revista es obsoleto. Pieza concordante con la tesis del fin de la academia.",
+      "quote_evidence": "Filtrar IA con otra IA convierte el sistema en máquinas hablándose entre sí,",
+      "review_priority": "high",
+      "review_priority_reason": "Crítica estructural a la obsolescencia del peer review en la era de la IA generativa. Pieza candidata a sub-sección dedicada en cibernetica-biosintetica-y-transhumanismo-en-proxy.md (donde Daedalus se articula como modelo alternativo).",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cloud miente: IA como becario no fiable que inventa DOIs y mezcla autores",
+      "reason_code": "passing_mention",
+      "reason_detail": "REFINAMIENTO crítico de la articulación del uso de la IA. En vDv77eZnMo4 el canal articulaba 'Proxy usa la IA como secretaria, becario, bibliotecónomo, corrector y director de investigación'. AQUÍ refina: la IA es becario PERO NO FIABLE — inventa artículos, DOIs, mezcla autores con años y títulos de papers distintos. Cada referencia debe imprimirse, contrastarse, anotarse y guardarse manualmente. La aportación científica es del humano, no de la IA. Conexión con golem-de-cobre.",
+      "quote_evidence": "Cloud inventa artículos, DOIs y mezcla autores con años y títulos de papers distintos,",
+      "review_priority": "high",
+      "review_priority_reason": "Refinamiento crítico de la posición del canal sobre el uso operativo de la IA: becario sí, pero no fiable. Pieza candidata a inserción en golem-de-cobre.md (donde la crítica a la IA como inteligencia se articula) — el dato sobre alucinaciones inevitables (DOIs inventados) es evidencia operativa del argumento.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Los LLMs alucinan por necesidad sistémica: la alucinación se reduce pero no se elimina",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis técnica del canal sobre la limitación estructural de los LLMs: la alucinación NO es bug puntual sino necesidad sistémica del modelo. Para eliminarla habría que cambiar sustancialmente los modelos actuales. Pieza concordante con golem-de-cobre y con conciencia-e-inteligencia-en-proxy.",
+      "quote_evidence": "Los LLMs alucinan por necesidad sistémica: la alucinación se reduce pero no se elimina,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis estructural sobre la naturaleza inevitable de la alucinación en LLMs. Pieza canónica para golem-de-cobre.md como argumento técnico contra la confianza en la IA.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La IA tiene dos finales posibles: integrarla totalmente o desecharla por desastre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Predicción binaria del canal sobre el futuro de la IA: o se integra totalmente en la civilización o se desecha por desastre. Pieza con valor predictivo, concordante con golem-de-cobre y cibernetica-biosintetica-y-transhumanismo-en-proxy.",
+      "quote_evidence": "La IA tiene dos finales posibles: integrarla totalmente o desecharla por desastre,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Privatización de los modelos avanzados: solo accesibles para quienes tengan mucho dinero",
+      "reason_code": "passing_mention",
+      "reason_detail": "Predicción estructural del canal sobre la privatización política-comercial de los mejores modelos: empresas y gobiernos. Posibilidad de prohibición de modelos privados domésticos por presión corporativa. Comparación con las pantallas en educación: lo que 'llegó para quedarse' puede ser revertido. Pieza de crítica política aplicada a la IA.",
+      "quote_evidence": "Los mejores modelos solo serán accesibles para quienes tengan mucho dinero, empresas o gobiernos,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El esfuerzo como criterio del nuevo paradigma: quienes usen IA para evadir esfuerzo serán arrollados",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis prescriptiva del canal: en el paradigma post-académico, lo que enriquece es el esfuerzo. Quienes usen la IA para liberarse de esfuerzo o responsabilidad serán arrollados por quienes la complementen. Fin de la academia, burocracia, engaño y parásitos. Pieza con valor estructural como cierre de la tesis sobre el fin del saber académico.",
+      "quote_evidence": "Lo que enriquece es el esfuerzo: fin de la academia, la burocracia, el engaño y los parásitos,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis prescriptiva del canal sobre el nuevo paradigma post-académico. Pieza candidata a sub-sección de cibernetica-biosintetica-y-transhumanismo-en-proxy.md (donde Daedalus se articula como modelo institucional alternativo). Conecta con consumismo-critica (el esfuerzo como antítesis del individualismo del 'no pasar mal').",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Atribuir agencia a la IA con el pronombre 'ella' como error categorial",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica metodológica del canal: la IA NO es 'ella', no piensa, no siente, no hace nada — los humanos lo hacen. Atribuirle agencia con el pronombre 'ella' es error categorial repetido por divulgadores. Conexión con golem-de-cobre y conciencia-e-inteligencia-en-proxy (donde se articula que las IAs no son ni siquiera inteligencia).",
+      "quote_evidence": "Atribuirle agencia con el pronombre \"ella\" es un error categorial repetido por divulgadores,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Predecir requiere conciencia: sin conciencia es solo fin de un proceso determinista",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis filosófica del canal sobre la diferencia entre predicción consciente y proceso determinista: para predecir hay que SER CONSCIENTE de que se predice. Sin conciencia, no es predicción sino el final de una cadena causal determinista. Pieza concordante con conciencia-e-inteligencia-en-proxy (donde la conciencia como subjetividad se articula).",
+      "quote_evidence": "Para predecir hay que ser consciente de que se predice; sin conciencia no es predicción sino fin de un proceso determinista,",
+      "review_priority": "high",
+      "review_priority_reason": "Distinción precisa predicción-consciente vs proceso-determinista. Pieza candidata a sub-sección en conciencia-e-inteligencia-en-proxy.md.",
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "IA descubriendo fórmula no descubre: solo computa sin distinguir lo viejo de lo nuevo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica del canal a la atribución de creatividad/descubrimiento a las IAs: una IA que 'descubre' una fórmula en física teórica no descubre — solo computa sin distinguir lo viejo de lo nuevo. La diferencia entre pensamiento humano e IA no está en el determinismo sino en el OBJETO de cada proceso. Pieza concordante con conciencia-e-inteligencia-en-proxy.",
+      "quote_evidence": "Una IA que \"descubre\" una fórmula en física teórica no descubre: solo computa sin distinguir lo viejo de lo nuevo,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Función biológica del ser humano: replicarse biológica e intelectualmente, no predecir",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis biológico-funcional del canal: el objeto de la IA es computar inputs en outputs; el objeto del ser humano es REPLICARSE biológica e intelectualmente. Morir es parte de la función. Esto pone la inteligencia humana en un marco distinto al computacional. Conexión con algebra-afectiva (eutaxia de la función biológica nacer-crecer-aprender-enseñar-morir).",
+      "quote_evidence": "La función del ser humano no es predecir sino replicarse biológica e intelectualmente,",
+      "review_priority": "high",
+      "review_priority_reason": "Articulación de la función biológica humana centrada en replicación (vs predicción computacional). Conecta con algebra-afectiva (función biológica como eutaxia) y con conciencia-e-inteligencia-en-proxy. Merece chequeo cruzado.",
+      "enriches_concept": "algebra-afectiva",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La IA no es AGI ni inteligencia suave ni fuerte: son modelos de lenguaje",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre la categoría de la IA actual: no es AGI ni inteligencia (ni siquiera 'suave' ni 'fuerte'), son MODELOS DE LENGUAJE. Pieza concordante con conciencia-e-inteligencia-en-proxy (donde la tipología de cuatro niveles de IA se articula y los LLMs no-Turing son nivel 1 'no inteligencia').",
+      "quote_evidence": "La IA no es AGI ni inteligencia suave ni fuerte: son modelos de lenguaje, ni siquiera son inteligencia,",
+      "review_priority": "high",
+      "review_priority_reason": "Pieza canónica del canal sobre el estatuto categorial de la IA actual. Refuerza la tipología de cuatro niveles de conciencia-e-inteligencia-en-proxy donde el LLM es nivel 1 (no-inteligencia).",
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a Spectre como una de las peores películas de 007",
+      "reason_code": "meta_canal",
+      "reason_detail": "Apertura del directo con tema musical 'Writings on the Wall' de Sam Smith y crítica de Spectre. Sin contenido temático estructural — referencia cultural de apertura.",
+      "quote_evidence": "Spectre se califica como una de las peores películas de 007 jamás hechas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tesis doctoral subida a Patreon como esquema introductorio",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio del canal sobre el material publicado en Patreon (esquema introductorio sobre estructura de la investigación de doctorado) y reconocimiento a Lágrima e Isu como patronos. Material organizacional/promocional, sin valor enciclopédico.",
+      "quote_evidence": "Subió al Patreon un esquema introductorio sobre la estructura de su investigación de doctorado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Esclavos del canal y próximos directos (Unicornio, Sangarot, Silen, Michi, Isu, Zen)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reconocimiento de colaboradores del canal y anuncio de incorporación de editora voluntaria. Información organizacional sin contenido temático.",
+      "quote_evidence": "Reconoce a Unicornio, Sangarot, Silen, Michi, Isu y Zen como esclavos/colaboradores del canal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anuncio de trabajo en Sabadell que puede afectar a streams",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio organizacional sobre disponibilidad personal del speaker para los streams. Sin valor enciclopédico.",
+      "quote_evidence": "Anuncia trabajo en Sabadell la semana siguiente que puede afectar a los streams,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Economía del buzo: necesidad de acumular inversiones (inmersiones) para ascender",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota profesional del speaker sobre la economía laboral del buceo profesional: trabajos peor pagados aceptados por inversiones; regla autoimpuesta de 30 inversiones mínimas. Sin valor enciclopédico — contexto personal-profesional.",
+      "quote_evidence": "Los trabajos bien pagados de buzo se dan a quienes acumulan inversiones (inmersiones reales),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lealtad a primera empresa que llama: regla autoimpuesta sobre ofertas laborales",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Norma profesional autoimpuesta del speaker sobre la lealtad laboral. Detalle biográfico-profesional sin valor enciclopédico.",
+      "quote_evidence": "La regla autoimpuesta es trabajar con la primera empresa que ofrece, sin renegociar por ofertas posteriores,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Sistema imperial vs internacional en buceo: tuercas en pulgadas y fracciones",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle técnico-profesional sobre la coexistencia de sistemas imperial e internacional en herramienta de buceo. Información técnica de oficio sin valor enciclopédico arquetípico.",
+      "quote_evidence": "En buceo se usan ambos sistemas: tuercas y tornillos imperiales tienen tamaños distintos a los europeos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Formas de morir buceando: aplastamiento, hiperbárico, ahogamiento; delfines y arañas como riesgos reales",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Información técnica-profesional del oficio de buzo. Sin valor enciclopédico arquetípico para el corpus.",
+      "quote_evidence": "Las principales son aplastamiento, accidente hiperbárico y ahogamiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Visibilidad y vida marina en profundidad: 30-40m sin espectro de luz, descenso similar a Subnautica",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota descriptiva del speaker sobre el entorno marino profundo, con referencia cultural a Subnautica. Sin valor enciclopédico.",
+      "quote_evidence": "Las caídas abruptas y los bosques de árbol de roca son lo que hace fascinante el descenso, similar a Subnautica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Buceo en saturación a 120m antes de los 50 como objetivo personal",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Objetivo profesional-personal del speaker. Sin valor enciclopédico.",
+      "quote_evidence": "Antes de los 50 quiere haber hecho un buceo en saturación a 120 m aunque le mate,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cloud sobre Copilot/ChatGPT como herramienta de la tesis (VSCode + telosemántica + grafos 3D)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Detalle técnico-metodológico del speaker sobre las herramientas de IA elegidas para la tesis: Copilot descartado por regalar la tesis a Microsoft; ChatGPT no convence en redacción; usa VSCode con Cloud integrado. La telosemántica de la tesis exige programar grafos tridimensionales, inferencias y emulaciones de organismos de 25 neuronas. Detalle metodológico que ancla el proyecto Daedalus técnicamente.",
+      "quote_evidence": "La telosemántica de la tesis exige programar grafos tridimensionales, inferencias y emulaciones de organismos de 25 neuronas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Detalle metodológico del proyecto Daedalus + Galatea (emulaciones de organismos de 25 neuronas conecta con la mosca digital de DytHSZw0_mo). Flag para chequeo cruzado en cibernetica-biosintetica-y-transhumanismo-en-proxy.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Convocatoria para 'El amor en realidad parte 2': testimonios de mujeres solteras y casadas",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio del próximo directo y solicitud de participación. Material organizacional/promocional. Conexión con crisis-del-amor-pareja-y-maternidad-en-proxy (recién creada — el directo previo).",
+      "quote_evidence": "El siguiente directo será \"El amor en realidad parte dos\" sobre el mundo de las citas y el amor líquido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Daedalus, Pandora y solicitud de colaboradores en electrónica/Raspberry",
+      "reason_code": "promo",
+      "reason_detail": "Solicitud abierta del canal a colaboradores con experiencia en electrónica y Raspberry para el proyecto Pandora. Detalle organizacional del proyecto Daedalus. Confirma la dimensión técnica práctica de Pandora como máquina real (no solo categoría epistemológica).",
+      "quote_evidence": "Pide colaboración de personas con experiencia en electrónica y Raspberry para Pandora,",
+      "review_priority": "medium",
+      "review_priority_reason": "Confirma la dimensión técnico-práctica de Pandora como dispositivo en construcción. Refuerza la doble articulación Pandora-epistemológica + Pandora-técnica que merece reconciliación en cibernetica-biosintetica-y-transhumanismo-en-proxy.md.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Próximo libro sobre la relación entre psicología y religión",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio del próximo libro del canal sobre psicología y religión. Material organizacional/promocional pero con valor para el seguimiento del corpus editorial del canal.",
+      "quote_evidence": "El próximo libro tratará la relación entre psicología y religión,",
+      "review_priority": "medium",
+      "review_priority_reason": "Anuncio editorial del canal — flag para acumulación. Si el libro se publica, sería referencia bibliográfica recurrente en futuros vídeos justificando recommended_reference. Por ahora marca de seguimiento.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Calendario y planes inmediatos: psicología y mitología 101 jueves",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio del calendario semanal del canal. Sin contenido temático.",
+      "quote_evidence": "Miércoles no hay stream; jueves probablemente psicología y mitología 101,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 28,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

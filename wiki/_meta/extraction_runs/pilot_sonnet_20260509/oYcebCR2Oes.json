@@ -1,0 +1,267 @@
+{
+  "video_id": "oYcebCR2Oes",
+  "video_title": "T5x13: Estudiando con Proxy: Construyendo Pandora.",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Vídeo principalmente técnico-operativo dedicado a la construcción material de Pandora (máquina de neurofeedback): arquitectura ESP32, sensores (EEG, sudoración, pulsioximetría), outputs (vibración/luz/sonido), modos de uso, integración Bluetooth, estimulación cortical, etc. Sin valor enciclopédico arquetípico — pertenece a documentación técnica del proyecto Daedalus (no al wiki de psicología/mitología/filosofía). Las piezas estructurales auténticas se concentran en ~10 minutos sobre el GRIMORIO reescribiéndose como experimento psicológico (no solo cultural) + la magia universal como dominio somático→noético + la distinción magia-light vs magia-avanzada (puertas mentales irreversibles) + el coste estructural de la magia. Estos enriquecen magia-postmoderna-en-proxy. Los detalles técnicos enriquecen marginalmente cibernetica-biosintetica-y-transhumanismo-en-proxy. NO hay tesis monográfica sostenida con criterios de auto-promoción §2.4.1.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El grimorio del canal como experimento psicológico, no solo cultural — reescritura completa desde cero",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anuncio del canal sobre la reescritura completa del grimorio desde cero (no como reedición). El grimorio es articulado explícitamente como EXPERIMENTO PSICOLÓGICO, no solo recopilación cultural. Pieza foundational para magia-postmoderna-en-proxy donde se articula el sentido del grimorio como dispositivo metodológico.",
+      "quote_evidence": "El grimorio se está reescribiendo entero desde cero, no solo reeditando,",
+      "review_priority": "high",
+      "review_priority_reason": "Anuncio editorial-metodológico sobre el grimorio del canal como obra activa de experimentación psicológica. Pieza candidata a sub-sección dedicada en magia-postmoderna-en-proxy.md.",
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La magia como dominio de lo somático para modificar el interior de la noesis (definición universal)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición canal-específica de la magia: dominio operativo de lo somático para modificar el interior de la noesis. La magia es UNIVERSAL en este sentido — no esoterismo de tradiciones específicas sino mecanismo psicofísico general que llega hasta la generación de alucinaciones y el acceso voluntario a la locura. Pieza foundational con anclaje preciso para magia-postmoderna-en-proxy.",
+      "quote_evidence": "La magia es universal: dominio de lo somático para modificar el interior de la noesis,",
+      "review_priority": "high",
+      "review_priority_reason": "Definición canónica del canal de la magia como dispositivo somático-noético operativo. Pieza imprescindible para magia-postmoderna-en-proxy.md como definición foundational.",
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Magia light (juego psicológico) vs magia avanzada (peligrosa): puertas mentales que no pueden cerrarse",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica entre magia light (juego psicológico inocuo) y magia avanzada (peligrosísima — puertas mentales que una vez abiertas no pueden volver a cerrarse). Advertencia explícita: NO hacer magia negra; promesa de traer testimonios. Pieza con conexión doble: magia-postmoderna-en-proxy (taxonomía interna) y anatomia-de-la-fantasia-y-sindrome-delirante (mecánica de puertas mentales irreversibles ya articulada como cibericosis y como espectro fantasía→trastorno delirante).",
+      "quote_evidence": "Hay puertas de la mente que una vez abiertas no pueden volver a cerrarse,",
+      "review_priority": "high",
+      "review_priority_reason": "REAPARICIÓN de la tesis 'puertas mentales irreversibles' — también articulada como cibericosis en DytHSZw0_mo y como segundo brote psicótico en EjAVFdSVtbU. Tercera aparición en el corpus procesado — cumple criterio §2.1 de recurrencia. Pieza candidata a concept page propia ('puertas-mentales-irreversibles' o similar) o sub-sección compartida entre magia-postmoderna-en-proxy y anatomia-de-la-fantasia-y-sindrome-delirante.",
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La magia siempre tiene un coste: la asimetría esfuerzo-resultado por colores de magia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis estructural del canal sobre el coste de la magia: nunca es gratis. Distinción operativa por COLORES — para magia AZUL el neurofeedback compensa el esfuerzo manual; para magia BLANCA, NEGRA y otras sí merece la pena el camino propio. Pieza foundational con taxonomía canal-específica de modalidades mágicas (azul, blanca, negra) que conecta con la articulación 'gnosis azules / gnosis mercuriales' del grimorio en eQpPGGqodsU.",
+      "quote_evidence": "La magia siempre tiene un coste: posible peor descanso si se abusa de Pandora,",
+      "review_priority": "high",
+      "review_priority_reason": "Tipología canal-específica de la magia POR COLORES (azul/blanca/negra/mercurial) ya esbozada en eQpPGGqodsU. Segunda aparición — flag para acumulación. Si reaparece en otros vídeos justifica concept page sobre 'gnosis-y-colores-de-magia-en-proxy' o entry específico en magia-postmoderna-en-proxy.md como taxonomía interna del grimorio.",
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pandora como máquina de neurofeedback para acceder a potencialidades del grimorio (bailarina lunar, proyección astral, lotos prana yoga)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación específica del propósito de Pandora: máquina de neurofeedback diseñada para acceder a las prácticas del grimorio. Ejemplos concretos: bailarina lunar y proyección astral como prácticas accesibles; los lotos de colores del prana yoga para autocontrol corporal. Pieza importante para cibernetica-biosintetica-y-transhumanismo-en-proxy donde Pandora se articula como componente del programa.",
+      "quote_evidence": "Objetivo: fabricar máquinas de neurofeedback para acceder a potencialidades del grimorio,",
+      "review_priority": "high",
+      "review_priority_reason": "Especificación funcional de Pandora vinculada al grimorio del canal. Conecta el aparato técnico de cibernetica-biosintetica-y-transhumanismo-en-proxy con el aparato mágico de magia-postmoderna-en-proxy. Pieza candidata a inserción en cibernetica-biosintetica.md como propósito del proyecto Pandora.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pandora arquitectura técnica: ESP32, sensores (sudoración, EEG, pulsioximetría) y outputs (vibración, luz, sonido)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Detalle técnico-operativo de la construcción de Pandora: microprocesador ESP32 32-bit Tensilica LX6 con WiFi/Bluetooth, sensores (conductividad de la piel, ritmo de respiración, frecuencia cardíaca, acelerómetro, EEG con 2-6 derivaciones, pulsioximetría), outputs táctiles/sonoros/lumínicos. Información técnica de proyecto que confirma la dimensión material de Pandora ya esbozada en cibernetica-biosintetica-y-transhumanismo-en-proxy.",
+      "quote_evidence": "Conductividad y sudoración de la piel, ritmo de respiración, frecuencia cardíaca y acelerómetro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "IA en Pandora para inducir sueños lúcidos: detectar umbral del sueño profundo y mantener vigilia controlada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación específica de la IA en Pandora: aprender umbrales sónicos oníricos personales del usuario, detectar el descenso al sueño profundo y detenerlo en el umbral del sueño lúcido. Permite mantener al usuario en estado de vigilia para realizar prácticas mágicas como bailarina lunar. Conecta con el clásico 'pedal de hombre muerto' (algo pesado que cae al dormirse).",
+      "quote_evidence": "La IA aprende los umbrales sónicos oníricos personales del usuario,",
+      "review_priority": "medium",
+      "review_priority_reason": "Aplicación funcional específica que conecta el aparato técnico de Pandora con las prácticas oníricas del grimorio. Pieza con valor doble para cibernetica-biosintetica y magia-postmoderna.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Distinción de tipos de comunistas: vivir a costa de otros vs salvar la nación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica entre dos tipos de comunismo: el que busca vivir a costa de otros y el que quiere salvar la nación. Roberto Vaquero como ejemplo del segundo tipo, 'comunista con sentido común con quien sí se puede dialogar'. Pieza estructural-tipológica aplicada a la izquierda contemporánea — supera el filtro §3.1 (test 3: critica una tradición intelectual con tipología propia).",
+      "quote_evidence": "Distinción entre comunistas que buscan vivir a costa de otros y los que quieren salvar la nación,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tipología del canal sobre la izquierda contemporánea. Si reaparece como categoría recurrente justificaría concept page propia. Por ahora flag para acumulación en psicologia-del-activista-en-proxy o teocracia-agnostica-y-victimologia-institucional.",
+      "enriches_concept": "psicologia-del-activista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anécdota profesional buzo: inspección de buque en Marina Barcelona 92 con umbilical enganchado",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle biográfico-profesional del speaker sobre su segunda inversión profesional como buzo. Sin valor enciclopédico arquetípico.",
+      "quote_evidence": "Inspección de buque en astillero privado donde atracan yates con banderas exóticas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Reseña pedante sobre Polaris como herramienta de mejora",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario meta del canal sobre una reseña recibida del libro Polaris. Material organizacional sobre el corpus editorial del speaker, sin contenido temático arquetípico.",
+      "quote_evidence": "Primera crítica recibida sobre Polaris, calificada como la más pedante jamás recibida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Roberto Vaquero pendiente de venir al canal (cancelado por guerra de Ucrania)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio organizacional sobre la entrevista pendiente. Sin contenido temático.",
+      "quote_evidence": "Iba a venir la noche que estalló la guerra de Ucrania y se canceló la entrevista,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Por qué no se debe beber agua al atragantarse: el líquido va a la tráquea, no al esófago",
+      "reason_code": "passing_mention",
+      "reason_detail": "Dato divulgativo aislado mencionado por el speaker. Sin conexión estructural con el corpus arquetípico del canal. Conocimiento general, no tesis canal-específica.",
+      "quote_evidence": "El líquido se ha ido por la tráquea, no por el esófago, así que el agua no resuelve nada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lomo seco, torrezno y otras fuentes baratas de proteína (recomendaciones nutricionales)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendaciones nutricionales aisladas (lomo seco, torrezno con air fryer, almendras vs cacahuetes). Sin conexión estructural con el corpus arquetípico del canal.",
+      "quote_evidence": "Lomo seco recomendado por una instagramera como proteína concentrada y asequible,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Detalle técnico ESP32: kit a 25,9€ TEMU, placa 8€ AliExpress, RTC con Low Power Management",
+      "reason_code": "passing_mention",
+      "reason_detail": "Detalles de procurement y especificaciones técnicas del microprocesador base de Pandora. Información de proyecto/ingeniería sin valor enciclopédico.",
+      "quote_evidence": "Kit de desarrollo a 25,9 € en TEMU y placa suelta a 8 € en AliExpress,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Outputs táctiles/sonoros/lumínicos de Pandora: vibraciones tranquilizantes, estroboscopio, proyector",
+      "reason_code": "passing_mention",
+      "reason_detail": "Detalles de diseño de los actuadores de Pandora: vibración ante alta frecuencia cardíaca para recordar respirar, estroboscopio, luz de fondo, proyector. Comentario humorístico 'sin lucecitas no puede llamarse ciencia'. Información de proyecto técnico.",
+      "quote_evidence": "Vibraciones tranquilizantes ante alta frecuencia cardíaca para recordar respirar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Neurofeedback con muñequito en pantalla para entrenar concentración (referencia Black Mirror)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación específica del neurofeedback: variaciones de EEG alimentan un muñeco virtual que muere si el usuario pierde concentración. Referencia al episodio inicial de Black Mirror. Detalle de proyecto.",
+      "quote_evidence": "Permite entrenar la concentración como en el episodio inicial de Black Mirror,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Software libre y modos programables de Pandora (diurno, siesta, experimento mágico) en Dedalus",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anuncio sobre la naturaleza open source del software de Pandora vivirá en Dedalus, cualquiera podrá hacer su versión, IA puede generar el software base. Detalle organizacional del proyecto Daedalus.",
+      "quote_evidence": "El software vivirá en Dedalus y cualquiera podrá hacer su versión,",
+      "review_priority": "medium",
+      "review_priority_reason": "Confirma la dimensión open-source del programa Daedalus. Pieza coherente con cibernetica-biosintetica-y-transhumanismo-en-proxy donde Daedalus se articula como instituto libre.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Diario onírico con grabadora y posible interpretador IA",
+      "reason_code": "passing_mention",
+      "reason_detail": "Funcionalidad propuesta de Pandora: grabadora capturando lo que el usuario habla en sueños, escritura del sueño tenido, posibilidad de que la máquina conteste con luces y frases estándar. Detalle de proyecto.",
+      "quote_evidence": "Una pequeña grabadora capturaría lo que el usuario habla en sueños,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Aplicaciones clínicas posibles de Pandora: parálisis del sueño, sonambulismo, integración Alexa",
+      "reason_code": "passing_mention",
+      "reason_detail": "Extensiones clínicas posibles de Pandora: detección de parálisis del sueño y sonambulismo. Integración con asistentes de voz (Alexa) para conversación durante el sueño. Detalle de proyecto.",
+      "quote_evidence": "Detección de parálisis del sueño y sonambulismo como aplicaciones clínicas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estimulación cortical sobre el córtex visual (aún demasiado grande)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Funcionalidad anhelada de Pandora pero técnicamente prematura: estimulación específica del córtex visual para potenciar visualizaciones. El aparato es aún demasiado grande para integrarse. Detalle de proyecto.",
+      "quote_evidence": "Estimular específicamente el córtex visual para potenciar visualizaciones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Próximos pasos del proyecto: soldador en Zaragoza, Miriam Petricor y Roberto Vaquero como colaboradores",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio organizacional sobre próximos pasos del proyecto Pandora y colaboradores potenciales. Sin contenido temático.",
+      "quote_evidence": "Necesita ir a Zaragoza a por su soldador de estaño,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Idea humorística de conectar un perro a Pandora (perros que detectan crisis epilépticas/migrañas/diabéticas)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario humorístico-especulativo sobre extender Pandora con un modelo IA pequeño que aprenda detección a la manera de los perros sensibles a crisis epilépticas, migrañas y caídas diabéticas. Sin valor enciclopédico.",
+      "quote_evidence": "Los perros detectan ataques de epilepsia, migrañas y caídas diabéticas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pulseras Fitbit conectables al ESP32 vía Bluetooth como sensores básicos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Posibilidad de integración con dispositivos comerciales (Fitbit) como sensores externos básicos para Pandora. Detalle de proyecto.",
+      "quote_evidence": "Las pulseras Fitbit pueden conectarse al ESP32 vía Bluetooth como sensores básicos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Limitaciones técnicas: 520KB RAM ESP32, alimentación 12V insuficiente, reto de diseño industrial compacto",
+      "reason_code": "passing_mention",
+      "reason_detail": "Detalles técnicos sobre las limitaciones del hardware actual de Pandora. Información de proyecto-ingeniería.",
+      "quote_evidence": "SP32 trae 520 KB de RAM pero pueden añadirse más módulos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 24,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -159,6 +159,30 @@ La precisión refina la categoría 'buscar' del marco: no es búsqueda dirigida 
 
 La pieza añade una propiedad evolutiva específica del juego que el resto del aparato afectivo no documentaba: el juego es el instinto **filogenéticamente más reciente** del catálogo, presente solo en mamíferos. La consecuencia teórica para el marco: el juego no es ornamento conductual sino instinto fundamental con sustrato neurobiológico propio, cuya emergencia evolutiva tardía sugiere correlación con la elaboración cortical mamífera. La cognición humana hereda el sustrato instintivo lúdico del linaje mamífero — lo que el canal nombra como 'pensamiento poético' (ver [[pensamiento-poetico]]) y como capacidad de **ambiguación representacional** (ver [[teoria-del-simbolo-en-proxy]]) opera sobre este sustrato lúdico mamífero, no sobre las componentes afectivas más antiguas compartidas con vertebrados primitivos.
 
+## La articulación formal como álgebra afectiva
+
+En *Psicología 101: Valencia y emoción* (26 feb 2025) el canal nombra el sistema operativo completo — **álgebra afectiva** — y explicita por primera vez la taxonomía cerrada de siete motores afectivos biológicos, completando los catálogos parciales de cinco y seis que la página ya documentaba.
+
+> "El álgebra afectiva es el sistema lógico-formal que establece relaciones entre clases cognitivas,"
+→ [Psicología 101: Valencia y emoción. Álgebra afectiva (20:13)](https://youtu.be/BdVsvhTWWew?t=1213)
+
+> "Los siete motores afectivos biológicos son: buscar, terror, ira, jugar, desear, apego y pánico,"
+→ [Psicología 101: Valencia y emoción. Álgebra afectiva (51:15)](https://youtu.be/BdVsvhTWWew?t=3075)
+
+La composición coincide con el modelo SEEKING / RAGE / FEAR / PLAY / LUST / CARE / PANIC de Jaak Panksepp aunque sin atribución nominal en el directo — la convergencia es taxonómica, no genealógica explícita. La articulación operativa añade dos triadas que organizan la patología afectiva por defecto y por exceso:
+
+- **Estrés** como núcleo de la triada activa **buscar-terror-ira** — estados cuyo mal funcionamiento o consumo energético excesivo se manifiesta como estrés sostenido (buscar sin encontrar, terror sin liberación, ira sin calma).
+- **Ansiedad** como núcleo de la triada vincular **apego-pánico-deseo** — apego ansioso, ansiedad social y ansiedad sexual son las tres modalidades clínicas correspondientes al exceso o disfunción en cada motor.
+
+> "Estrés: estado negativo producido por el mal funcionamiento o excesivo consumo de energía de buscar, terror o ira,"
+→ [Psicología 101: Valencia y emoción. Álgebra afectiva (1:06:31)](https://youtu.be/BdVsvhTWWew?t=3991)
+
+> "Ansiedad es al trío apego-pánico-deseo lo que estrés es al trío buscar-terror-ira,"
+→ [Psicología 101: Valencia y emoción. Álgebra afectiva (1:14:42)](https://youtu.be/BdVsvhTWWew?t=4482)
+
+El desarrollo completo del sistema (operaciones de composición, oposición y transición entre clases cognitivas; filogénesis de los siete afectos desde la ameba al mamífero; lectura clínica de TDAH, autismo y psicopatía como disfunciones de afectos específicos) pertenece a la articulación dedicada de [[algebra-afectiva]].
+
+
 
 ## Lugar en el corpus: por qué importa
 
@@ -192,6 +216,21 @@ La caracterización clínica es operativa para el aparato: la depresión NO es u
 → [Por fin (37:47)](https://youtu.be/7jT13kHNlBA?t=2267)
 
 La pieza añade una gradación que la página no documentaba: la depresión opera por dominio, no necesariamente como apagón global. Un sujeto puede tener depresión sostenida en el dominio relacional o profesional mientras mantiene motivación operativa en otro dominio (proyecto, vocación, vínculo específico). La gradación local/general es coherente con la arquitectura matricial del marco — los afectos motores no operan como interruptor único sino como circuitería distribuida que puede apagarse parcialmente.
+
+### Depresión como falta de motivación, tristeza como forma de angustia
+
+En *Psiquiatría, antipsiquiatría y teoría de la mente* (02 abr 2025) el canal puntualiza la distinción categorial que la lectura coloquial colapsa en un único polo displacentero: depresión y tristeza son estados afectivos con motores neurobiológicos distintos.
+
+> "La depresión no es tristeza sino falta de motivación; la tristeza es una forma de ansiedad/angustia,"
+→ [Psiquiatría, antipsiquiatría y teoría de la mente (1:39:02)](https://youtu.be/4LBXNkVAUCU?t=5942)
+
+La pieza desambigua tres estados que el aparato afectivo del canal trata como categorialmente distintos. La **depresión** es apagón del motor buscar (nada merece la pena perseguir, el feedback motivacional se apaga); la **tristeza** pertenece al campo angustioso/ansioso — una modalidad de activación serotoninérgica con valencia displacentera pero con motor activo, no un afecto primario autónomo; la **angustia** es activación defensiva sin objeto al que defenderse. La triada **depresión / tristeza / angustia** debe leerse como dos polos: ausencia (depresión) frente a activación displacentera (tristeza, angustia).
+
+> "Los ISRS parecen tener más efecto ansiolítico que antidepresivo: palían la angustia generada por la depresión más que la depresión misma,"
+→ [Psiquiatría, antipsiquiatría y teoría de la mente (1:39:02)](https://youtu.be/4LBXNkVAUCU?t=5942)
+
+La consecuencia clínica es operativa: los ISRS, al actuar sobre serotonina (sistema modulador de la angustia/pánico), palian la angustia derivada de la depresión mucho mejor que la falta de motivación que define el cuadro nuclear. El antidepresivo opera funcionalmente como ansiolítico de larga duración cuando la depresión cursa con angustia secundaria significativa — lo que coincide con el grueso de los casos clínicos. La articulación crítica completa al farmacocentrismo psiquiátrico, al dualismo eliminativo del conductismo y al hombre de paja antipsiquiátrico está en [[psiquiatria-y-teoria-de-la-mente]].
+
 
 
 ## Lagunas

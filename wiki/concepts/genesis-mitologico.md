@@ -190,6 +190,8 @@ La triada opera como armazón completo: traición original → desplazamiento de
 
 
 
+
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
@@ -200,4 +202,6 @@ La triada opera como armazón completo: traición original → desplazamiento de
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/wIhH72UFUPY?t=403) · [10:15](https://youtu.be/wIhH72UFUPY?t=615)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403) · [11:46](https://youtu.be/lw7XI2lQntM?t=706)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
+- **Seguimos con Tolkien** — chunks: [23:38](https://youtu.be/OGah7BFoR3w?t=1418) · [45:21](https://youtu.be/OGah7BFoR3w?t=2721)
+- **T5x02: No Love Land** — chunks: [18:30](https://youtu.be/EjAVFdSVtbU?t=1110)
 

@@ -142,5 +142,7 @@ Esta premisa convierte el análisis de Bloodborne en análisis de un proceso psi
 ## Citations
 
 
+
 - **Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne** — chunks: [1:02](https://youtu.be/9x8zTqpyZ5Q?t=62) · [1:32](https://youtu.be/9x8zTqpyZ5Q?t=92) · [5:35](https://youtu.be/9x8zTqpyZ5Q?t=335) · [8:37](https://youtu.be/9x8zTqpyZ5Q?t=517) · [11:39](https://youtu.be/9x8zTqpyZ5Q?t=699) · [15:12](https://youtu.be/9x8zTqpyZ5Q?t=912)
+- **Sic transit gloria mundi** — chunks: [1:01:34](https://youtu.be/vDv77eZnMo4?t=3694)
 

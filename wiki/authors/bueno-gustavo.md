@@ -262,6 +262,8 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 
 
 
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -283,4 +285,6 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **Noticias 100tíficas.** — chunks: [1:54:00](https://youtu.be/VgdybZKruwk?t=6840)
 - **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:26:14](https://youtu.be/Qui4WMSQ99k?t=5174)
 - **¿Porqué hay categorías masculina y femenina en ajedrez?** — chunks: [1:24:44](https://youtu.be/AJgvAsbd-UQ?t=5084)
+- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
+- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:09:43](https://youtu.be/NKFWUxt5VQ4?t=4183)
 

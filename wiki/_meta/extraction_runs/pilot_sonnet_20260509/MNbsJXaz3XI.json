@@ -1,0 +1,294 @@
+{
+  "video_id": "MNbsJXaz3XI",
+  "video_title": "Todo se apaga menos el PSOE",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Vídeo HEAVILY MIXED entre politiqueo coyuntural-partidista (Sánchez sobre el apagón, edil PSOE en kebab, Rubén Sánchez de Podemos serie) y análisis estructural-psicológico aplicado (mecanismo de identificación proyectiva, psicología de las reglas y la obediencia, crítica al progresismo como religión primitiva, mecanismo de 'normalicemos' como evasión del complejo). Cinco bloques filtrados vía topic_filters por matchear regex partidista español. Los bloques estructurales restantes (~30 min) son piezas heterogéneas que enriquecen pages existentes vía citation: análisis del apagón como infraestructura, reglas y semáforos del experimento Stanford, pandemia y vigilantes de balcón, progresismo-vs-catolicismo (culpa introyectada sin absolución), 'normalicemos' como evasión-del-complejo. NO hay tesis monográfica auto-promovible: las piezas estructurales están dispersas e interrumpidas por politiqueo, sin sostener marco unificado de 30+ min con la cohesión requerida.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Análisis estructural del apagón: redes redundantes y la imposibilidad de un fallo en cascada instantáneo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis técnico-estructural del canal sobre el apagón europeo: las redes eléctricas son redundantes; para que caiga toda la red simultáneamente tendrían que fallar muchísimos nodos a la vez; la latencia entre fallos de redundancia es enorme. La caída en cascada de una red tan amplia no puede ser instantánea. Pieza con valor crítico-infraestructural pero sin marco arquetípico-psicológico aplicado.",
+      "quote_evidence": "Las redes eléctricas son redundantes: si falla un nodo, el resto de la red puede compensar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Identificación proyectiva: atribuir a otros lo que uno teme de sí mismo (en victimización homofóbica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mecanismo psicológico articulado del canal: asimilar cualquier murmullo callejero a un ataque homófobo puede ser identificación proyectiva. Confundir la figura sexual (apariencia) con la sexualidad (acto sexual) lleva a creer que cualquier comentario sobre el aspecto es ataque a la identidad. Cuando alguien agrede y añade insultos, lo hace para intensificar el desprecio, no para describir el motivo. Pieza foundational sobre el mecanismo de proyección aplicado a la victimización contemporánea.",
+      "quote_evidence": "Asimilar cualquier murmullo callejero a un ataque homófobo puede ser identificación proyectiva: atribuir a otros lo que uno teme de sí mismo,",
+      "review_priority": "high",
+      "review_priority_reason": "Mecanismo de identificación proyectiva articulado con precisión y con caso aplicado. Conecta con shadow-archetype (proyección como mecánica nuclear de la sombra), herida-narcisista-en-proxy (la victimización como derivada del trauma narcisista) e iconotropias-de-la-rabia-narcisista (donde la identificación proyectiva se articula como mecanismo de las iconotropías). Merece chequeo cruzado.",
+      "enriches_concept": "shadow-archetype",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Distinción figura sexual (apariencia) vs sexualidad (acto sexual) confundida en la victimización homofóbica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica: la figura sexual es la apariencia; la sexualidad es el acto. Confundirlas genera la sensación de que cualquier comentario sobre el aspecto ataca la identidad. Pieza concordante con fenomenologia-trans-en-proxy donde se articulan distinciones afín al campo identidad-figura.",
+      "quote_evidence": "Confundir la figura sexual (apariencia) con la sexualidad (acto sexual) lleva a creer que cualquier comentario sobre tu aspecto es un ataque a tu identidad,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "fenomenologia-trans-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Sin semáforos la gente coopera mejor: las reglas complejas generan frustración por sometimiento a normas distales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis estructural-psicológica del canal sobre el experimento de no-semáforos: sin reglas explícitas la gente se vuelve espontáneamente más cuidadosa y cooperativa porque las reglas se reducen a 'ahora tú, ahora yo' (intuibles). Las normas complejas apelan a funciones distales que el cerebro no conecta con el momento presente, generando frustración. El ser humano soporta muy mal el absurdo. Pieza foundational sobre psicología de las reglas.",
+      "quote_evidence": "Sin semáforos, la gente se vuelve espontáneamente más cuidadosa y cooperativa,",
+      "review_priority": "high",
+      "review_priority_reason": "Articulación canal-específica de la psicología de las reglas (intuibles vs distales) con anclaje empírico-experimental. Pieza candidata a sub-sección dedicada en woke-narrativa-postmoderna-moral.md (donde la sobrelegislación se articula como rasgo cultural progresista) o en una eventual concept page sobre 'psicología de las reglas y la obediencia'.",
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El 'enrage' del LOL: doble frustración cuando alguien rompe las reglas que tú cumples",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mecanismo psicológico canal-específico: cuando alguien rompe las reglas que tú cumples a disgusto, se produce una doble frustración (por el daño y por haberte inhibido en vano). Es el mismo mecanismo del 'enrage' en el LOL: la gente se frustra porque los demás no cumplen su rol cuando tú sí estás cumpliendo el tuyo. Pieza concordante con la tesis de las reglas distales.",
+      "quote_evidence": "Es el mismo mecanismo del \"enrage\" en el LOL: la gente se frustra porque los demás no cumplen su rol cuando tú sí estás cumpliendo el tuyo,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las reglas culturales son antinaturales: soluciones colectivas que la mente animal no procesa bien",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre las reglas culturales como ANTINATURALES: son soluciones colectivas a problemas colectivos que la mente animal todavía no procesa bien. Las reglas DESCONECTAN la parte del cerebro que piensa porque sustituyen el razonamiento por la obediencia. Las reglas de convivencia son OPUESTAS a los afectos: se pueden intelectualizar pero no se sienten como propias. Pieza foundational con valor para diagrama-de-proxy y para la articulación realista-cognitiva del canal.",
+      "quote_evidence": "Las reglas culturales son antinaturales: son soluciones colectivas a problemas colectivos que la mente animal todavía no procesa bien,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis del canal sobre la antinaturalidad de las reglas culturales como sustituto de la cognición. Pieza candidata a sub-sección en diagrama-de-proxy.md (donde la articulación moral-político-neuropsicológica se desarrolla) o en realismo-cognitivo.",
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Sin reglas a las 72 horas los antisociales saquean: la asimetría reglas-antisociales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Continuación de la tesis sobre las reglas: sin reglas ganaría el más fuerte; a las 72 horas sin semáforos los antisociales empezarían a saquear. Pieza concordante con la articulación de las reglas como dispositivo de protección frente al fuerte/antisocial.",
+      "quote_evidence": "Sin reglas ganaría el más fuerte; a las 72 horas sin semáforos los antisociales empezarían a saquear,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "diagrama-de-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pandemia y vigilantes de balcón: complejo con la figura paterna y el Estado-padre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico canal-específico sobre la psicología de la obediencia normativa durante la pandemia: las normas del gobierno generaron 'vigilantes de balcón'. Hay personas que DISFRUTAN obedeciendo normas arbitrarias porque les da el pequeño dominio de poder señalar a quien no las cumple. Es complejo con la figura paterna: obedecer al Estado-padre garantiza aceptación sin necesidad de pensar. Pieza foundational con conexión a teocracia-agnostica-y-victimologia-institucional y woke-narrativa.",
+      "quote_evidence": "Es un complejo con la figura paterna: obedecer al Estado-padre garantiza aceptación sin necesidad de pensar,",
+      "review_priority": "high",
+      "review_priority_reason": "Diagnóstico psicológico de la obediencia institucional como complejo paterno-Estado. Pieza candidata a sub-sección dedicada en teocracia-agnostica-y-victimologia-institucional.md (donde el Estado-oráculo se articula) o en woke-narrativa-postmoderna-moral.md.",
+      "enriches_concept": "teocracia-agnostica-y-victimologia-institucional",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Por qué los progresistas odian el catolicismo: la culpa introyectada pero no gestionada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis psicológico-cultural del canal: los progresistas odian la penitencia católica porque apela a una culpa que ellos tienen introyectada pero NO gestionada. El católico se arrepiente de sus pecados pero no se destruye por ellos; la confesión permite estar en paz. Pieza foundational con conexión a teologia-catolica-en-proxy (recién creada — donde se articula el mecanismo de la confesión y absolución).",
+      "quote_evidence": "Los progresistas odian la penitencia católica porque apela a una culpa que ellos tienen introyectada pero no gestionada,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis foundational sobre la asimetría psicológica catolicismo/progresismo respecto a la culpa. Pieza con valor doble: enriquece teologia-catolica-en-proxy.md (recién creada — donde la confesión se articula como mecanismo de absolución estructural) y woke-narrativa-postmoderna-moral.md (donde la teología progresista se diagnostica). Merece chequeo cruzado.",
+      "enriches_concept": "teologia-catolica-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Los progresistas como religión primitiva mal hecha: culpa, rituales y dogmas sin mecanismo de absolución",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico estructural del canal: los progresistas funcionan como religión primitiva mal hecha — TIENEN culpa, rituales y dogmas, pero CARECEN del mecanismo de absolución que los gestione. Pieza foundational que conecta woke-narrativa con teologia-catolica como par estructural complementario.",
+      "quote_evidence": "Los progresistas funcionan como una religión primitiva mal hecha: tienen culpa, rituales y dogmas, pero sin mecanismo de absolución,",
+      "review_priority": "high",
+      "review_priority_reason": "Diagnóstico de la estructura cuasi-religiosa del progresismo aplicado al análisis cultural. Pieza candidata a sub-sección dedicada en woke-narrativa-postmoderna-moral.md y en teologia-catolica-en-proxy.md (donde el contraste estructural enriquece ambas articulaciones).",
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mecanismo 'normalicemos': el orgullo como evasión del complejo personal por humillación insoportable",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico canal-específico del mecanismo cultural 'normalicemos': el impulso de normalizar cualquier conducta surge de no poder soportar la humillación por lo que uno es o hace. En lugar de resolver el complejo interno, se exige que toda la sociedad adopte la conducta para que deje de ser vergonzosa. Aplicación a ferias otaku como ambientes que sobreviven por sublimación. Detrás hay HERIDA DE INFANCIA: la autoridad (padre o madre) no reconoció o humilló la fantasía del niño. Pieza foundational con conexión a herida-narcisista-en-proxy y autotipo.",
+      "quote_evidence": "El impulso de \"normalizar\" cualquier conducta surge de no poder soportar la humillación por lo que uno es o hace,",
+      "review_priority": "high",
+      "review_priority_reason": "Mecanismo psicológico canal-específico ('normalicemos' como evasión del complejo) con etiología precisa (herida de infancia por humillación de fantasía). Pieza candidata a sub-sección dedicada en herida-narcisista-en-proxy.md o en una eventual concept page propia ('mecanismo-normalicemos' o 'orgullo-como-evasion'). Conecta también con autotipo (estereotipo elevado por necesidad psicológica) y con anatomia-de-la-fantasia (la fantasía como respuesta a humillación temprana).",
+      "enriches_concept": "herida-narcisista-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Herida de infancia donde la autoridad humilló la fantasía del niño",
+      "reason_code": "passing_mention",
+      "reason_detail": "Etiología canal-específica del mecanismo 'normalicemos': detrás del impulso a normalizar hay una herida de infancia donde padre/madre no reconoció o humilló la fantasía del niño. Pieza concordante con sindrome-del-nino-masculino y iconotropias-de-la-rabia-narcisista (donde la castración de la imaginación infantil se articula como etiología de la modalidad Hermes/niño-mago).",
+      "quote_evidence": "Detrás hay una herida de infancia en la que la autoridad (padre o madre) no reconoció o humilló la fantasía del niño,",
+      "review_priority": "high",
+      "review_priority_reason": "Etiología infantil del mecanismo 'normalicemos' que conecta con la castración de la imaginación articulada en iconotropias-de-la-rabia-narcisista (modalidad Hermes/Peter Pan). Merece chequeo cruzado entre herida-narcisista-en-proxy, sindrome-del-nino-masculino e iconotropias.",
+      "enriches_concept": "iconotropias-de-la-rabia-narcisista",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ferias otaku como ambientes de sublimación que materializan fantasía para cubrir mundo insoportable",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación cultural del mecanismo 'normalicemos': las ferias otaku como caso paradigmático de sublimación cultural — espacios donde se materializa la fantasía para cubrir un mundo insoportable. Conexión con anatomia-de-la-fantasia-y-sindrome-delirante (donde la fantasía como instinto recreativo se articula).",
+      "quote_evidence": "El mismo mecanismo opera en las ferias otaku: ambientes que sobreviven por sublimación, donde se materializa una fantasía para cubrir un mundo insoportable,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ley de violencia de género como compensar desigualdad dando poder desmesurado",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica estructural del canal a la ley de violencia de género: responde a la lógica de compensar la desigualdad dando poder desmesurado a una parte. Si el sistema define la opresión como estructural y por defecto, cualquiera puede usar la ley sin alegar motivos concretos. Pieza concordante con teocracia-agnostica-y-victimologia-institucional (donde el feminismo institucional como nazismo estructural se articula).",
+      "quote_evidence": "La ley de violencia de género responde a la lógica de compensar la desigualdad dando poder desmesurado a una parte,",
+      "review_priority": "high",
+      "review_priority_reason": "Crítica estructural específica a la ley de violencia de género desde la lógica de compensación asimétrica. Pieza candidata a sub-sección dedicada en teocracia-agnostica-y-victimologia-institucional.md como caso aplicado de la víctimología institucionalizada.",
+      "enriches_concept": "teocracia-agnostica-y-victimologia-institucional",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Metáfora del arma: celebrar que exista la ley pero indignarse de que se use",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica lógica del canal a la postura contradictoria: 'la ley es necesaria pero no puede ser que la gente la use' es como decir que las armas están bien pero no que alguien dispare. Pieza interna de la crítica estructural a la ley de violencia de género.",
+      "quote_evidence": "Decir \"la ley es necesaria pero no puede ser que la gente la use\" es como decir que las armas están bien pero no que alguien dispare,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "teocracia-agnostica-y-victimologia-institucional",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Autoimagen distorsionada de la personalidad (rango patético percibido como espectacular)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis canal-específica sobre la autoimagen: existe siempre un rango de la personalidad que uno cree que está quedando espectacular y desde fuera resulta patético. La asimetría es bidireccional: posible imagen corporal negativa mientras gustas a los demás, y viceversa. Pieza concordante con yo-ego-autoestima-en-proxy y herida-narcisista-en-proxy.",
+      "quote_evidence": "Existe siempre un rango de la personalidad que uno cree que está quedando espectacular y desde fuera resulta patético,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lecciones del apagón: preparacionismo (metálico, generador, radio, agua)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recomendaciones prácticas del canal tras el apagón: tener dinero en metálico, generador de gasoil, radio AM/FM con pilas, agua de emergencia. Durante el apagón no había móvil, internet, teléfono ni radio. Información operativa-práctica sin contenido enciclopédico arquetípico.",
+      "quote_evidence": "Conviene tener dinero en metálico, un generador de gasoil, una radio AM/FM con pilas y agua de emergencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica al argumento de los coches eléctricos durante el apagón",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica del canal a un usuario que celebra el desperdicio de energía eólica/solar durante el apagón pidiendo que se dejen de comprar coches de combustión. El razonamiento ignora completamente que el apagón dejó sin suministro a millones. Pieza interna de aplicación crítica de argumento.",
+      "quote_evidence": "El razonamiento ignora completamente que acaba de ocurrir un apagón total que dejó sin suministro a millones de personas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El absurdo es insoportable: la sensación de injusticia activa un mecanismo biológico de aprendizaje",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis psicológica del canal: el ser humano soporta muy mal el absurdo. La sensación de injusticia activa un mecanismo biológico que busca aprender qué hiciste mal. Pieza concordante con el thesis sobre las reglas como antinaturales.",
+      "quote_evidence": "El ser humano soporta muy mal el absurdo, y la sensación de injusticia activa un mecanismo biológico que busca aprender qué hiciste mal,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cuando alguien agrede e insulta, intensifica el desprecio, no describe el motivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica sobre la lectura de insultos en contexto de agresión: cuando alguien agrede y añade insultos homófobos o racistas, lo hace para INTENSIFICAR el desprecio, no para DESCRIBIR el motivo de la agresión. Pieza interna sobre análisis del lenguaje agresivo.",
+      "quote_evidence": "Cuando alguien agrede y añade insultos homófobos o racistas, lo hace para intensificar el desprecio, no para describir el motivo de la agresión,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Histrionismo en círculos masculinos performativos: forma exagerada con ausencia total de fondo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización canal-específica del histrionismo aplicada a círculos masculinos performativos: hablar extensamente sin decir nada sustantivo, convencidos de que la intención buena basta. Histrionismo = exageración en la forma con ausencia total de fondo. Pieza concordante con anatomia-de-la-fantasia-y-sindrome-delirante (donde el trastorno histriónico se articula como 'trastorno de la superficialidad').",
+      "quote_evidence": "Es histrionismo: exageración en la forma con ausencia total de fondo,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_timestamp_seconds": 781,
+      "block_marker_text": "13:01 💻 Hipótesis del ciberataque como causa del apagón",
+      "summary_excerpt": "La única forma de que un fallo se propague tan rápidamente en toda la red es a través de internet. Podría ser un ciberataque, un fallo de control informático o un problema de software. Los decaimientos de tensión por redundancia son mucho más lentos y se pueden prevenir. Pedro Sánchez salió a hablar después de 6 horas sin aportar ninguna información relevante.",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_terms": [
+        "sánchez"
+      ],
+      "topic_filter_id": "exclude_partidista_actualidad",
+      "decision_reason": "Bloque mixto. La hipótesis del ciberataque tiene componente técnico-estructural (rapidez de propagación vía internet, decaimiento de tensión por redundancia) que podría ser IN-SCOPE per §3.1 test 1. Pero el cierre del bloque entra en politiqueo coyuntural ('Pedro Sánchez salió a hablar después de 6 horas sin aportar ninguna información') que dispara el regex sobre 'sánchez'. Decisión conservadora: filtrar el bloque entero al no poder separar quirúrgicamente la pieza estructural del marco partidista. La pieza técnica sobre redundancia y ciberataque queda como discarded en el output principal."
+    },
+    {
+      "block_timestamp_seconds": 1526,
+      "block_marker_text": "25:26 🥊 Agresión homófoba en un kebab: lo que el edil del PSOE no quiere nombrar",
+      "summary_excerpt": "Un edil del PSOE de Murcia denuncia una agresión en un kebab familiar tras pedir la hoja de reclamaciones. El agredido atribuye la violencia al 'cansancio de los trabajadores' y a la homofobia, evitando señalar el origen cultural de los agresores. Para él, que le partan la cara es equivalente a que 'murmuren al pasar', todo forma parte del mismo fenómeno genérico de discriminación. Su dignidad y su integridad física están subordinadas a no contradecir la narrativa del PSOE.",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_terms": [
+        "psoe"
+      ],
+      "topic_filter_id": "exclude_partidista_actualidad",
+      "decision_reason": "Bloque centrado en caso partidista nominal (edil del PSOE de Murcia) con anclaje en la narrativa del PSOE. Aunque el bloque articula mecanismos psicológicos (subordinación de la integridad a la narrativa partidista), el caso ilustrativo está enteramente envuelto en lenguaje y nombres propios coyunturales. Pasa el regex sobre 'PSOE' dos veces. La articulación del mecanismo de identificación proyectiva (en bloque adyacente 36:04) sí entra como discarded sin envoltorio partidista."
+    },
+    {
+      "block_timestamp_seconds": 4050,
+      "block_marker_text": "1:07:30 🎬 Rubén Sánchez de Podemos: biogenizado por su propia ley",
+      "summary_excerpt": "Un activista feminista de Podemos que apoyó la ley de violencia de género denuncia que su exmujer la usa falsamente contra él. Reconoce que hay abogados que aconsejan denunciar por malos tratos como estrategia para obtener la custodia. Su postura es contradictoria: defiende la ley pero se indigna de que las mujeres la usen exactamente como está diseñada.",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_terms": [
+        "sánchez",
+        "podemos"
+      ],
+      "topic_filter_id": "exclude_partidista_actualidad",
+      "decision_reason": "Bloque centrado en caso partidista nominal (Rubén Sánchez activista de Podemos) con doble disparo del regex (sánchez + podemos). La crítica estructural a la ley de violencia de género (lógica de compensación asimétrica) que sigue en el bloque 1:14:43 NO contiene nombres propios y queda como discarded enriquecimiento de teocracia-agnostica-y-victimologia-institucional."
+    },
+    {
+      "block_timestamp_seconds": 4763,
+      "block_marker_text": "1:19:23 🕯️ Los círculos de hombres en Podemos: penitencia performativa",
+      "summary_excerpt": "En eventos de Podemos se separan hombres y mujeres; el círculo de hombres consiste en performances penitentes. Los hombres hablan extensamente sin decir nada sustantivo, convencidos de que su intención buena basta. Es histrionismo: exageración en la forma con ausencia total de fondo.",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_terms": [
+        "podemos"
+      ],
+      "topic_filter_id": "exclude_partidista_actualidad",
+      "decision_reason": "Bloque sobre práctica ritual específica de eventos de Podemos. La caracterización 'histrionismo = exageración en forma sin fondo' es estructural y se conserva como discarded fuera del envoltorio partidista. El bloque entero como tal pasa el regex sobre 'Podemos' y se filtra."
+    },
+    {
+      "block_timestamp_seconds": 4946,
+      "block_marker_text": "1:22:26 😤 Rubén Sánchez acusa a los \"fascistas\" mientras enfrenta cárcel por su propia ley",
+      "summary_excerpt": "Denuncia acoso en redes y lo atribuye a 'fascistas con bots' y a los dueños capitalistas de las plataformas. Está a punto de enfrentar consecuencias penales por una ley que él mismo promovió, pero sigue señalando a los demás como culpables.",
+      "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+      "matched_terms": [
+        "sánchez"
+      ],
+      "topic_filter_id": "exclude_partidista_actualidad",
+      "decision_reason": "Continuación del seguimiento partidista nominal de Rubén Sánchez. El marker matchea 'Sánchez' y el bloque entero se centra en el caso coyuntural específico. Filtrado."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 21,
+    "blocks_filtered_count": 5
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "video_id": "K6xDddz-Ss8",
+  "video_title": "Tengo que contaros una cosa",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Vídeo casi enteramente personal/meta_canal sin contenido enciclopédico arquetípico. El directo se dedica a (a) anuncio de oferta laboral del speaker como buzo técnico en piscifactoría de Tarragona y los dilemas vitales asociados (vivienda, gata, depresión, mudanza), (b) presentación del nuevo tráiler del canal con narrativa autobiográfica del speaker, (c) consulta a la comunidad sobre contenido en diferido durante la transición laboral, (d) bloque sobre karambits filipinos y legislación española de armas blancas. NO hay tesis articulada, NO hay marco analítico aplicado a un objeto, NO hay piezas estructurales enciclopédicas para el wiki. Todo el material va a discarded[] como personal_anecdote/meta_canal/promo.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Estado anímico del speaker: no está en su mejor momento vital",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Apertura del directo con autoreporte emocional del speaker. Sin contenido temático arquetípico.",
+      "quote_evidence": "Proxy reconoce no estar en su mejor momento vital,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Algo no entendido que genera malestar y varias cosas importantes que contar",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anticipo emocional del speaker sobre el contenido del directo. Función narrativa personal.",
+      "quote_evidence": "Anuncia que ha ocurrido algo que no entiende y que le genera malestar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estreno del nuevo tráiler del canal hecho por Proxy pieza a pieza",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio promocional del nuevo tráiler del canal. Material organizacional sobre el corpus audiovisual del canal — solicitud de feedback sobre color, edición y efectos.",
+      "quote_evidence": "Se presenta en primicia el nuevo tráiler del canal hecho por Proxy pieza a pieza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Narrativa autobiográfica del canal: tocar fondo + abrir canal para hablar de psicología humana",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Contenido del nuevo tráiler: narrativa autobiográfica de origen del canal. El speaker articula que tocó fondo psicológicamente tras perder todo después de toda una vida estudiando, y abrió el canal para hablar de 'lo único que sabía' — psicología humana. Material biográfico del fundador del canal con valor de génesis pero sin contenido enciclopédico arquetípico.",
+      "quote_evidence": "Proxy narra su historia: tocó fondo psicológicamente tras perder todo después de toda una vida estudiando,",
+      "review_priority": "medium",
+      "review_priority_reason": "Material biográfico-genealógico sobre el origen del canal. Si el wiki llegara a tener una página de meta-canal sobre el proyecto Proxy/Laberinto, esta narrativa autobiográfica sería pieza foundational para esa página. Por ahora flag para potencial uso futuro como meta-content si se decide documentar el canal mismo como objeto.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Persistencia del dolor: sobrevive día a día bajando cada vez más profundo",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Continuación del autorreporte emocional del speaker en el tráiler. Material biográfico sin contenido enciclopédico.",
+      "quote_evidence": "El dolor persiste y sobrevive día a día bajando cada vez más profundo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Oferta de trabajo en piscifactoría de atunes en Tarragona (Ametlla de Mar)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anuncio personal-profesional del speaker sobre oferta laboral. Información biográfica-laboral sin valor enciclopédico arquetípico.",
+      "quote_evidence": "Le han ofrecido trabajo en una piscifactoría de atunes en Tarragona,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Necesidad urgente de 26 buzos para la empresa con buena reputación europea",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle laboral sobre la empresa contratante. Sin valor enciclopédico.",
+      "quote_evidence": "Necesitan incorporar urgentemente 26 buzos que dudan poder encontrar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Condiciones laborales: 1600€ netos, seguro privado, mudanza, contrato fijo indefinido",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalles concretos del contrato ofrecido al speaker (salario, beneficios, subvenciones, contrato). Información laboral sin valor enciclopédico.",
+      "quote_evidence": "Salario base de 1600€ netos más beneficios, seguro privado y asistencia psicosocial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trabajo consiste en alimentar y cuidar atunes con plus por matanza humanitaria",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Descripción de las tareas del puesto laboral. Sin valor enciclopédico.",
+      "quote_evidence": "El trabajo consiste en alimentar y cuidar atunes, con un plus por la matanza humanitaria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Dilema de vivienda: piso en propiedad, gata, compañera de piso, búsqueda en Ametlla/L'Ampolla",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Dilema personal-logístico del speaker sobre la transición vital (no dejar su piso, gata, compañera; buscar habitación cerca del nuevo trabajo a 500-550€). Información biográfica.",
+      "quote_evidence": "No quiere dejar su piso en propiedad ni a su gata ni a su compañera de piso,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Horarios y turnos del trabajo: 6-14h, rotativos 5/2, 7/2, 3/2",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalles del calendario laboral. Información operativa sin valor enciclopédico.",
+      "quote_evidence": "Turnos rotativos: 5 días trabajo/2 descanso, 7/2, 3/2,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Futuro del canal: no dejar streams ni patronazgo, cambio de horario, contenido diferido",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio organizacional sobre el futuro del canal durante la transición laboral del speaker: cambio de streams a la tarde, contenido en diferido, mantenimiento del patronazgo para financiar libros. Sin contenido temático arquetípico.",
+      "quote_evidence": "No quiere dejar el stream ni internet ni a la comunidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Estado emocional: llora 2-3 veces al día, depresión desde la muerte de Gordi, gimnasio como recuperación",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Autorreporte emocional del speaker: llora dos o tres veces al día, arrastra una depresión desde la muerte de su gato Gordi, ha empezado en el gimnasio como forma de recuperación. Material biográfico-emocional sin valor enciclopédico.",
+      "quote_evidence": "Arrastra una depresión desde la muerte de su gato Gordi,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Gata Iris y la compañera de piso: planes de mudanza paulatina hasta junio",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle biográfico-doméstico sobre el plan de mudanza con su gata Iris y los tiempos de la compañera de piso. Sin valor enciclopédico.",
+      "quote_evidence": "Le da mucha pena separar a su gata Iris de su compañera de piso porque se quieren mucho,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Consulta a la comunidad sobre contenido en diferido (mitología, psicología 101, arquetipos)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Solicitud organizacional al chat sobre qué contenido producir durante la transición. Los espectadores piden análisis mitológicos, psicología 101 y análisis arquetípicos. Sin contenido temático.",
+      "quote_evidence": "Pide sugerencias sobre qué contenido producir si está dos semanas sin poder hacer stream,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Karambits filipinos Ebony e Ivory + Kali Filipino y Silat indonesio",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Bloque dedicado al hobby personal del speaker: muestra sus dos karambits, explica la técnica correcta de agarre, contextualiza el karambit como arma filipina vinculada al Kali Filipino y al Silat indonesio. Material aficional sin valor enciclopédico arquetípico.",
+      "quote_evidence": "Muestra sus dos karambits llamados Ebony e Ivory,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Legislación española sobre armas blancas: filo >4 dedos prohibido, discrecionalidad policial",
+      "reason_code": "passing_mention",
+      "reason_detail": "Información divulgativa sobre legislación española de armas blancas y objetos cortantes. Datos legales sobre límites de filo (5cm), restricciones de transporte, discrecionalidad policial. Mencionado en clave informativa con quejas profesionales (buzos y cocineros sufren estas restricciones). Sin valor enciclopédico arquetípico.",
+      "quote_evidence": "Todo filo de más de 4 dedos (~5cm) está prohibido portar sin excepciones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Buzos y cocineros sufren restricciones legales con sus cuchillos profesionales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Continuación del bloque legislativo aplicado a profesiones específicas. Sin valor enciclopédico.",
+      "quote_evidence": "Buzos y cocineros sufren estas restricciones con sus cuchillos profesionales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Despedida con mención de forjar un cuchillo con un colega de Twitter",
+      "reason_code": "meta_canal",
+      "reason_detail": "Despedida del directo con anuncio de futuro proyecto personal (forjar un cuchillo en directo). Material organizacional/personal.",
+      "quote_evidence": "Menciona su deseo de forjar un cuchillo en directo con un colega de Twitter,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Compromiso de contar la próxima entrevista de trabajo a la comunidad",
+      "reason_code": "meta_canal",
+      "reason_detail": "Promesa organizacional al chat sobre seguimiento del proceso laboral. Sin contenido temático.",
+      "quote_evidence": "Promete contar cómo va la próxima entrevista de trabajo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 19,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

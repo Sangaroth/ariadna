@@ -266,6 +266,9 @@ La identificación opera sobre el reservorio cultural-clínico de personas con l
 
 
 
+
+
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
 - **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
@@ -283,4 +286,7 @@ La identificación opera sobre el reservorio cultural-clínico de personas con l
 - **Directo casual** — chunks: [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
 - **El Hate Bombing de la izquierda.** — chunks: [1:29:15](https://youtu.be/DTP3syEtxP4?t=5355)
 - **La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ** — chunks: [50:51](https://youtu.be/2CsRnGBT9gg?t=3051)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [1:01:30](https://youtu.be/4P5hxaG7i6c?t=3690)
+- **Seguimos con Tolkien** — chunks: [13:03](https://youtu.be/OGah7BFoR3w?t=783)
+- **T5x02: No Love Land** — chunks: [1:13:15](https://youtu.be/EjAVFdSVtbU?t=4395)
 

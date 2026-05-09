@@ -218,6 +218,8 @@ La pieza añade dos propiedades operativas que la página articulaba como virtud
 
 
 
+
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:32:16](https://youtu.be/rLeMS4-XFrA?t=5536) · [1:48:00](https://youtu.be/rLeMS4-XFrA?t=6480)
+- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [35:16](https://youtu.be/4LBXNkVAUCU?t=2116)
 

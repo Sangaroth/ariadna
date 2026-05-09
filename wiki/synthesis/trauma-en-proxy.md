@@ -196,6 +196,8 @@ Funciona por instalación de un trauma rival que desplaza al original — costo 
 
 
 
+
+
 - **Magia y Trauma** — chunks: [29:53](https://youtu.be/JNafno3jgHY?t=1793) · [33:26](https://youtu.be/JNafno3jgHY?t=2006) · [1:28:05](https://youtu.be/JNafno3jgHY?t=5285) · [1:31:07](https://youtu.be/JNafno3jgHY?t=5467) · [1:37:10](https://youtu.be/JNafno3jgHY?t=5830) · [1:39:43](https://youtu.be/JNafno3jgHY?t=5983)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [1:13:56](https://youtu.be/1WEQmzUM41M?t=4436)
 
@@ -204,4 +206,6 @@ Funciona por instalación de un trauma rival que desplaza al original — costo 
 
 - **Elisa y su CI** — chunks: [52:31](https://youtu.be/6tfSc45kjyo?t=3151)
 - **Noticias 100tíficas.** — chunks: [1:05:00](https://youtu.be/VgdybZKruwk?t=3900)
+- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [53:26](https://youtu.be/4LBXNkVAUCU?t=3206)
+- **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [26:24](https://youtu.be/eQpPGGqodsU?t=1584)
 

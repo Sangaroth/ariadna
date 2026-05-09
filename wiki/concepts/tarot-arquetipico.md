@@ -186,6 +186,7 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -203,4 +204,5 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **Gothika: De Profundis** — chunks: [28:28](https://youtu.be/Gx2740if0Ho?t=1708) · [37:13](https://youtu.be/Gx2740if0Ho?t=2233) · [54:29](https://youtu.be/Gx2740if0Ho?t=3269)
 - **Ha vuelto a ocurrir. Otra vez.** — chunks: [1:10:21](https://youtu.be/l1hBW5I2_t0?t=4221)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [1:42:31](https://youtu.be/yLd7j3fcR1w?t=6151)
+- **T5x02: No Love Land** — chunks: [37:57](https://youtu.be/EjAVFdSVtbU?t=2277)
 

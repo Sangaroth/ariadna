@@ -150,9 +150,13 @@ Refinamiento del canal sobre el camino: la individuación NO es solo descender a
 
 
 
+
+
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:38:11](https://youtu.be/_0BM2jMsWdc?t=5891)
 
 - **Análisis arquetípico Inside Out** — chunks: [3:01:18](https://youtu.be/V-ixEcJuLzw?t=10878)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [12:16](https://youtu.be/wIhH72UFUPY?t=736)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [13:17](https://youtu.be/lw7XI2lQntM?t=797)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [1:12:47](https://youtu.be/4P5hxaG7i6c?t=4367)
+- **Se celebrarán juicios** — chunks: [8:06](https://youtu.be/hCc-gsoLZj4?t=486)
 

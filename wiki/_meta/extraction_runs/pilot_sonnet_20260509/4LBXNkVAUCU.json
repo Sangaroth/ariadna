@@ -1,0 +1,319 @@
+{
+  "video_id": "4LBXNkVAUCU",
+  "video_title": "Psiquiatría, antipsiquiatría y teoría de la mente.",
+  "playlist": "_streams",
+  "category": "psicología",
+  "entities": [],
+  "_doc_promote_new": "Sin promote_new directo: el contenido foundational del vídeo se concentra en una tesis articulada (filosofía de la psiquiatría, dualismo formal, tres causas del sufrimiento, crítica al hombre de paja antipsiquiátrico) que se canaliza vía thesis_candidates con auto-promoción. El bloque de crisis de pareja (~28 min) y el bloque de camino del héroe (~10 min final) enriquecen páginas existentes vía citation enrichment en discarded[].",
+  "pending_updates": [
+    {
+      "page_id": "teoria-de-las-emociones-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "los afectos motores no operan como interruptor único sino como circuitería distribuida que puede apagarse parcialmente.",
+      "content_proposed": "### Depresión como falta de motivación, tristeza como forma de angustia\n\nEn *Psiquiatría, antipsiquiatría y teoría de la mente* (02 abr 2025) el canal puntualiza la distinción categorial que la lectura coloquial colapsa en un único polo displacentero: depresión y tristeza son estados afectivos con motores neurobiológicos distintos.\n\n> \"La depresión no es tristeza sino falta de motivación; la tristeza es una forma de ansiedad/angustia,\"\n→ [Psiquiatría, antipsiquiatría y teoría de la mente (1:39:02)](https://youtu.be/4LBXNkVAUCU?t=5942)\n\nLa pieza desambigua tres estados que el aparato afectivo del canal trata como categorialmente distintos. La **depresión** es apagón del motor buscar (nada merece la pena perseguir, el feedback motivacional se apaga); la **tristeza** pertenece al campo angustioso/ansioso — una modalidad de activación serotoninérgica con valencia displacentera pero con motor activo, no un afecto primario autónomo; la **angustia** es activación defensiva sin objeto al que defenderse. La triada **depresión / tristeza / angustia** debe leerse como dos polos: ausencia (depresión) frente a activación displacentera (tristeza, angustia).\n\n> \"Los ISRS parecen tener más efecto ansiolítico que antidepresivo: palían la angustia generada por la depresión más que la depresión misma,\"\n→ [Psiquiatría, antipsiquiatría y teoría de la mente (1:39:02)](https://youtu.be/4LBXNkVAUCU?t=5942)\n\nLa consecuencia clínica es operativa: los ISRS, al actuar sobre serotonina (sistema modulador de la angustia/pánico), palian la angustia derivada de la depresión mucho mejor que la falta de motivación que define el cuadro nuclear. El antidepresivo opera funcionalmente como ansiolítico de larga duración cuando la depresión cursa con angustia secundaria significativa — lo que coincide con el grueso de los casos clínicos. La articulación crítica completa al farmacocentrismo psiquiátrico, al dualismo eliminativo del conductismo y al hombre de paja antipsiquiátrico está en [[psiquiatria-y-teoria-de-la-mente]].",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "psiquiatria-y-teoria-de-la-mente"
+      ],
+      "citations_added": [
+        {
+          "video_id": "4LBXNkVAUCU",
+          "timestamp_seconds": 5942,
+          "cite_markdown": "[Psiquiatría, antipsiquiatría y teoría de la mente (1:39:02)](https://youtu.be/4LBXNkVAUCU?t=5942)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído de teoria-de-las-emociones-en-proxy: la página articula la depresión como descenso afectivo (sección 'depresión como descenso afectivo con traducción somática de pánico') pero NO precisa la categorización de la tristeza como modalidad de la angustia ni explica el mecanismo serotoninérgico que justifica la eficacia ansiolítica de los ISRS. La página tiene además una laguna explícita marcada como 'Tristeza vs depresión' que pendía de citas literales adicionales. El nuevo material añade la triada categorial completa depresión-tristeza-angustia y la lectura ansiolítica de los antidepresivos. No marco supersedes_laguna_text porque la formulación de la laguna anticipaba 'tristeza-como-marcador-de-importancia' (encuadre distinto del que aporta este vídeo: 'tristeza-como-forma-de-angustia'); el laguneo persiste parcialmente en la dimensión que la laguna anticipaba aunque queda cubierta la dimensión categorial. Anclaje en el final de la sección 'Depresión local vs general' (frase única en el archivo) — extensión natural antes de Lagunas+Citations.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Psiquiatría y teoría de la mente: dualismo formal, tres causas del sufrimiento mental y crítica al hombre de paja antipsiquiátrico",
+      "proposed_page_id": "psiquiatria-y-teoria-de-la-mente",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El realismo cognitivo no necesita la dicotomía mente-cuerpo porque trabaja con la noesis como cuestión filosófica, no médica,"
+        },
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El realismo cognitivo tiene que ser analítico: reducir sus postulados a problemas de verdad describibles mediante lógica formal,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "El materialismo filosófico lo hace bien, pero a efectos de teoría de la mente el realismo cognitivo es imprescindible,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Dualismo sustancial: la mente es una sustancia y el cuerpo otra (el fantasma en la máquina) — rechazado de plano,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Causa orgánica: déficits en metabolitos neurobiológicos (la base biológica heredada),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La psicosis no es un error en la interpretación de la realidad sino una desconexión de la realidad: lo que hay dentro de la cabeza del psicótico no existe,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El objetivo del stream es plantear una duda filosófica, no responderla: entender el problema del dualismo mente-cuerpo en psiquiatría,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Dualismo sustancial (mente como sustancia separada del cuerpo): rechazado de plano",
+        "Dualismo formal/analítico (mente y cuerpo como cosas filosóficamente distintas sin ser sustancias separadas): aceptado como herramienta de trabajo",
+        "Hipóstasis: separar un elemento del todo y tratarlo como diferente genera contradicciones cuando se intenta eliminar lo mental",
+        "Crítica al conductismo eliminativo: no se puede describir una alucinación sin hablar de mente (problema cognitivo, no perceptivo)",
+        "EMDR como reelaboración episódica: la terapia es entorno de aprendizaje controlado, base neurofisiológica real aunque mecanismo no plenamente explícito",
+        "Esquizofrenia como problema categorial (no biomédico exclusivo): la tradición de estudio fuera del modelo biomédico es válida",
+        "Psicosis: desconexión de la realidad (lo que hay dentro de la cabeza del psicótico no existe en el mundo)",
+        "Trastorno de personalidad: error en la valencia o importancia afectiva de lo que ocurre",
+        "Demanda analítica al realismo cognitivo: reducir postulados a problemas de verdad describibles mediante lógica formal (poética vs filosofía)",
+        "Locus externo de control en la progresía: paradoja de criticar locus de autoridad (Dios, nación, moral) y construir nuevos (la culpa de la nación, la culpa de la religión)",
+        "Causa orgánica del sufrimiento mental: déficits en metabolitos neurobiológicos (base biológica heredada)",
+        "Causa exógena del sufrimiento mental: entorno y condiciones materiales externas",
+        "Causa psíquica del sufrimiento mental: trauma y elaboración interna del individuo (poder de causarse y de no causarse sufrimiento)",
+        "ISRS como ansiolíticos más que antidepresivos puros: palian angustia derivada de la depresión, no la falta de motivación nuclear",
+        "Hombre de paja antipsiquiátrico: la promesa de curar todo químicamente fue farmacéutica y cultural, no del paradigma psiquiátrico",
+        "Pregunta clínica correcta: ¿qué te ha pasado? (no ¿qué te pasa?) siguiendo al psiquiatra José Luis Marín Caballero — la ansiedad de hoy comenzó el día que tus padres se conocieron",
+        "Cerebrocentrismo psiquiátrico de los últimos 30 años: ciclo agotado, las promesas de resolver todo químicamente no se han cumplido"
+      ],
+      "minutes_sustained": 75,
+      "domain_guess": "humanities.philosophy",
+      "related_existing_pages": [
+        "realismo-cognitivo",
+        "materialismo-antiformalista",
+        "bueno-gustavo",
+        "epistemologia-de-la-psicologia-en-proxy",
+        "teoria-de-las-emociones-en-proxy",
+        "psicoinfluencers-en-proxy",
+        "woke-narrativa-postmoderna-moral",
+        "gisbertocracia",
+        "golem-de-cobre",
+        "trauma-en-proxy"
+      ],
+      "requires_human_validation": false,
+      "rationale": "Cumple gate auto-promoción §2.4.1: (a) minutes_sustained=75 (>=30) — el bloque antipsiquiatría/teoría de la mente desde 46:54 hasta ~2:00 sostiene exposición continuada sobre filosofía de la mente clínica; (b) 7 marcas de autoría detectadas (>=3): tres marcadores de tesis declarativa con 'el realismo cognitivo necesita / debe / es imprescindible', tres marcadores de estructura interna (dualismo sustancial, causa orgánica, psicosis como desconexión) y un marcador pedagógico explícito de objetivo del stream; (c) framework_internal_structure con 17 piezas explícitas (>=4) que articulan tres niveles del marco: filosofía analítica (dualismos, hipóstasis, demanda analítica al realismo cognitivo), taxonomía clínica (psicosis vs trastorno de personalidad, tres causas del sufrimiento), polémica con la antipsiquiatría conductista (hombre de paja, ISRS como ansiolíticos, cerebrocentrismo agotado). Es articulación propia del canal: el speaker NO expone una taxonomía académica preexistente (la tipología tres-causas no es DSM ni CIE) sino que sintetiza posición filosófica propia frente al conductismo eliminativo y frente al farmacocentrismo psiquiátrico, anclada en realismo-cognitivo y materialismo-antiformalista ya documentados. La página cubre el fragmento foundational sobre filosofía de la psiquiatría que la wiki carecía: epistemologia-de-la-psicologia-en-proxy demarcaba la psicología frente a las ciencias sociales pero no aborda el problema mente-cuerpo en clínica psiquiátrica."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Crisis de pareja contemporánea: las mujeres confunden vacío neurótico con necesidad de pareja",
+      "reason_code": "captured_in_existing_page_via_citation",
+      "reason_detail": "Articulación del canal sobre la crisis de relaciones contemporánea (~28 min sustained). No alcanza gate auto-promoción de thesis_candidate (minutes<30) y el material temáticamente solapa con páginas existentes (amor-cortes, adgrediere-masculino). Cuerpo de amor-cortes-y-monogamia-civilizatoria no leído íntegro en esta sesión, por lo que no se propone update_existing en prosa — la cita-only enriquece la página vía retrieval indirecto.",
+      "quote_evidence": "Las mujeres perciben que los hombres no les transmiten seguridad ni firmeza, pero confunden su vacío neurótico personal con la necesidad natural de complementación en pareja,",
+      "review_priority": "high",
+      "review_priority_reason": "El bloque de 28 min articula varias tesis fuertes sobre la dinámica de pareja contemporánea con marcas de tesis explícitas. Si reaparece en futuros vídeos del corpus alcanzaría umbral para thesis_candidate propio (page tipo 'crisis-de-pareja-contemporanea-en-proxy' o similar). Flag para revisión manual cuando se acumule material adicional.",
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El intercambio consumista en parejas vs la fidelidad como correspondencia",
+      "reason_code": "captured_in_existing_page_via_citation",
+      "reason_detail": "Articulación específica de la lógica consumista aplicada a las relaciones — la fidelidad redefinida como 'actuar como si fuéramos uno, correr los riesgos del otro'. Enriquece dos páginas posibles: amor-cortes (donde la monogamia civilizatoria se contrasta con la lógica de mercado actual) y consumismo-critica (donde el consumismo se extiende a las relaciones).",
+      "quote_evidence": "El intercambio en las parejas actuales es consumista: queremos consumir al otro, que el otro nos deleite,",
+      "review_priority": "medium",
+      "review_priority_reason": "La definición operativa 'fidelidad = correspondencia = correr los riesgos del otro' es especialmente compacta. Merece chequeo manual de si amor-cortes-y-monogamia-civilizatoria.md ya la cita en esa forma o si conviene insertarla.",
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Dominio arrebatado al varón contemporáneo: libertad de construir y proyectarse",
+      "reason_code": "captured_in_existing_page_via_citation",
+      "reason_detail": "Tesis sobre la destrucción cultural-material del dominio masculino contemporáneo. Conecta con la articulación arquetípica del adgrediere (avanzar contra la oposición) cuyo correlato cultural-material es precisamente lo que se denuncia bloqueado. Cuerpo de adgrediere-masculino no leído íntegro.",
+      "quote_evidence": "Al varón se le ha arrebatado deliberadamente su dominio: libertad de construir, opciones de trabajar, opciones de vivir,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza con peso temático para adgrediere-masculino. Si la página actual no documenta el ángulo cultural-material del bloqueo del adgrediere, este fragmento es prosa candidata a inserción.",
+      "enriches_concept": "adgrediere-masculino",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La progresía destruye las condiciones materiales psicológicas del varón",
+      "reason_code": "captured_in_existing_page_via_citation",
+      "reason_detail": "Pieza específica de la crítica del canal a la incoherencia ideológica progresista: aplica el discurso de 'condiciones materiales de la salud mental' selectivamente, ignorando la condición psíquica como condición material. Enriquece gisbertocracia (crítica al racional-formalismo progresista) o adgrediere-masculino.",
+      "quote_evidence": "La misma progresía que habla de condiciones materiales de la salud mental es la que destruye las condiciones materiales psicológicas del varón,",
+      "review_priority": "medium",
+      "review_priority_reason": "La paradoja interna que el canal denuncia (condiciones materiales = solo económico-políticas, ignorando lo psíquico) es articulación filosófica precisa, no slogan. Merece chequeo en gisbertocracia.md.",
+      "enriches_concept": "gisbertocracia",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mito de la diosa blanca: la mujer puede encontrar sentido en su naturaleza",
+      "reason_code": "captured_in_existing_page_via_citation",
+      "reason_detail": "Aplicación específica del arquetipo diosa-blanca a la articulación de la feminidad contemporánea: el privilegio femenino arquetípico de encontrar sentido en la naturaleza misma sin necesidad de aprendizaje cultural. Página diosa-blanca existe; cuerpo no leído íntegro.",
+      "quote_evidence": "La mujer tiene el privilegio de encontrar sentido únicamente en su naturaleza si no tuviera aprendizaje: ese es el mito de la diosa blanca,",
+      "review_priority": "medium",
+      "review_priority_reason": "Formulación precisa del privilegio arquetípico femenino que diosa-blanca.md probablemente articule pero acaso no en esta forma compacta — merece chequeo.",
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La feminidad vaciada: las mujeres creen que su destino es idéntico al de los hombres",
+      "reason_code": "captured_in_existing_page_via_citation",
+      "reason_detail": "Articulación crítica del vaciamiento de la feminidad por el discurso simétrico. Conecta con tipologia-femenina-arquetipica y con la crítica woke. La mejor página objetivo es woke-narrativa-postmoderna-moral por el ángulo del autotipo (significante vaciado).",
+      "quote_evidence": "Las mujeres se empeñan en ser algo que no son: creen que su destino es idéntico al de los hombres y que si no lo son es porque no les dejan,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Realismo cognitivo invocado como tesis filosófica para teoría de la mente",
+      "reason_code": "passing_mention",
+      "reason_detail": "El canal invoca el realismo cognitivo como marco operativo para teoría de la mente en clínica psiquiátrica, contrastándolo con materialismo filosófico y conductismo eliminativo. Página realismo-cognitivo existe; cuerpo >25k tokens, no leído íntegro. La cita-only enriquece vía retrieval indirecto.",
+      "quote_evidence": "El realismo cognitivo no necesita la dicotomía mente-cuerpo porque trabaja con la noesis como cuestión filosófica, no médica,",
+      "review_priority": "high",
+      "review_priority_reason": "Formulación particularmente compacta del por qué el realismo cognitivo evade la dicotomía mente-cuerpo (trabaja con noesis, no con sustancias). Merece revisión manual de si realismo-cognitivo.md la cita ya con esta nitidez.",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El realismo cognitivo debe ser analítico, no poético",
+      "reason_code": "passing_mention",
+      "reason_detail": "Demanda metodológica auto-impuesta del canal: el realismo cognitivo debe reducir sus postulados a problemas de verdad describibles mediante lógica formal. Pieza interna del thesis_candidate y enriquecimiento de realismo-cognitivo.",
+      "quote_evidence": "El realismo cognitivo tiene que ser analítico: reducir sus postulados a problemas de verdad describibles mediante lógica formal,",
+      "review_priority": "high",
+      "review_priority_reason": "La auto-demanda 'analítico vs poético' es marca de rigor metodológico explícito que el canal aplica a su propio marco. Merece chequeo en realismo-cognitivo.md o en materialismo-antiformalista.md.",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Materialismo filosófico vs realismo cognitivo en teoría de la mente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Posicionamiento del canal: el materialismo filosófico (Bueno) cubre la dimensión filosófica general pero el realismo cognitivo es imprescindible específicamente para teoría de la mente. Enriquece materialismo-antiformalista (que articula la posición materialista propia) y/o bueno-gustavo.",
+      "quote_evidence": "El materialismo filosófico lo hace bien, pero a efectos de teoría de la mente el realismo cognitivo es imprescindible,",
+      "review_priority": "medium",
+      "review_priority_reason": "Demarcación operativa entre dos marcos del canal — relevante para la articulación de cómo se relacionan materialismo-antiformalista y realismo-cognitivo. Flag para chequeo.",
+      "enriches_concept": "materialismo-antiformalista",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Postmodernidad y locus externo de control: la progresía construye sus propios locus de autoridad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación de la categoría 'locus externo' (del diagrama de Proxy) a la crítica de la progresía. La progresía critica los locus tradicionales (Dios, nación, moral) pero construye los propios (la culpa de la nación, la culpa de la religión, las condiciones materiales). Pieza del thesis_candidate y enriquecimiento de woke-narrativa-postmoderna-moral.",
+      "quote_evidence": "La progresía critica los locus externos de autoridad (Dios, nación, moral) pero termina construyendo sus propios locus externos: la culpa es de la nación, la culpa es de la religión,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación clara de una paradoja estructural del woke. Merece chequeo en woke-narrativa-postmoderna-moral.md.",
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Apoteosis mitológica: el momento en que tus virtudes sirven exactamente para el mal que enfrentas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del canal sobre la apoteosis del viaje del héroe como momento estructural específico — todas las virtudes adquiridas convergen sobre el adversario y solo falta voluntad y valor. Enriquece viaje-heroe.",
+      "quote_evidence": "La apoteosis mitológica es el momento en que todas tus virtudes sirven exactamente para combatir el mal que tienes enfrente y solo te falta voluntad y valor,",
+      "review_priority": "high",
+      "review_priority_reason": "Formulación operativa de la apoteosis mitológica que viaje-heroe.md probablemente articule pero quizá no con esta precisión (virtudes adquiridas convergen sobre el mal y solo falta voluntad). Merece revisión manual.",
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Heroísmo como hacer aquello para lo que estás llamado aunque no comprendas por qué",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa del heroísmo según el canal — escuchar señales del destino y actuar conforme aunque no haya comprensión racional. Enriquece viaje-heroe.",
+      "quote_evidence": "Ser heroico es hacer exclusivamente aquello que estás llamado a hacer aunque no comprendas por qué,",
+      "review_priority": "medium",
+      "review_priority_reason": "Definición operativa concisa de la condición heroica como acción sin comprensión plena. Flag para revisión.",
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cuando no tienes motivación pon el automático: hacer cosas frente a fijarse objetivos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Consejo terapéutico-práctico del canal sobre la falta de motivación: no fijar objetivos sino activar la conducta. Conecta con la articulación de depresión como apagón del motor buscar (en teoria-de-las-emociones) y con viaje-heroe como pedagogía de la acción.",
+      "quote_evidence": "Cuando no tienes motivación no establezcas objetivos: haz cosas, pon el automático,",
+      "review_priority": "medium",
+      "review_priority_reason": "Principio operativo de la pedagogía proxiana sobre la motivación. Conecta con depresión-falta-de-motivación. Merece chequeo de si conviene en viaje-heroe o como pieza de psiquiatria-y-teoria-de-la-mente.",
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Patrones e instintos como indicio del destino, señales como acertijos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del canal sobre cómo se reconoce la llamada del destino: a través de patrones e instintos, no de claridad consciente. Conecta con individuation y viaje-heroe.",
+      "quote_evidence": "Tus patrones e instintos son un indicio de cuál es tu destino, pero las señales son confusas, son acertijos, no son claras,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tres causas del sufrimiento mental (orgánica, exógena, psíquica)",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza estructural central del thesis_candidate psiquiatria-y-teoria-de-la-mente. La taxonomía tripartita es articulación propia del canal y forma parte del cuerpo de la nueva synthesis page.",
+      "quote_evidence": "Causa orgánica: déficits en metabolitos neurobiológicos (la base biológica heredada),",
+      "review_priority": "high",
+      "review_priority_reason": "La taxonomía tres-causas es la pieza con mayor peso operativo del marco — diagnóstica, pedagógica y polémica frente al monocausalismo psiquiátrico (orgánico) y antipsiquiátrico (exógeno). Si en algún momento el canal la desarrolla en vídeo monográfico podría justificar concept page propia ('tres-causas-del-sufrimiento-mental'). De momento se aloja en la synthesis y queda flagged para promoción independiente futura.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Psicosis como desconexión de la realidad vs trastorno de personalidad como error en valencia",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Distinción clínica articulada del canal — pieza interna del thesis_candidate. La psicosis es problema cognitivo (córtex visual funciona), el trastorno de personalidad es error en la valencia o importancia afectiva.",
+      "quote_evidence": "La psicosis no es un error en la interpretación de la realidad sino una desconexión de la realidad: lo que hay dentro de la cabeza del psicótico no existe,",
+      "review_priority": "high",
+      "review_priority_reason": "Distinción operativa precisa que merece sub-sección clara dentro de la nueva synthesis. Si reaparece como tema principal en otros vídeos podría promocionarse a concept autónomo (page-id 'psicosis-vs-trastorno-personalidad' o similar). Flag para acumulación.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hombre de paja antipsiquiátrico: la promesa fue farmacéutica, no psiquiátrica",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza polémica central de la synthesis: distinguir el paradigma psiquiátrico real del straw-man que la antipsiquiatría desmonta. La promesa de curar todo químicamente fue farmacéutica/cultural, no del paradigma profesional.",
+      "quote_evidence": "No hubo realmente una promesa psiquiátrica de curar la depresión solo con fármacos: fue una promesa farmacéutica y cultural, no del paradigma psiquiátrico,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "EMDR como reelaboración episódica: el problema de las eficacias sin mecanismo plenamente explícito",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Articulación epistemológica del canal: una terapia puede ser eficaz aunque no se sepa exactamente cómo opera, mientras haya bases neurofisiológicas razonables. Pieza interna del thesis y argumento contra el conductismo eliminativo que pediría descartar lo que no se entiende mecanicistamente.",
+      "quote_evidence": "Si el EMDR funciona pero no sabemos exactamente por qué, eso no significa que sea una tomadura de pelo ni que carezca de base científica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Pregunta clínica correcta: ¿qué te ha pasado? siguiendo a José Luis Marín Caballero",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Cita del psiquiatra José Luis Marín Caballero como autoridad concordante con la posición del canal. La pregunta '¿qué te ha pasado?' es marca metodológica de la perspectiva trauma-anchored frente al cerebrocentrismo psiquiátrico. Marín Caballero como autor: passing_mention, no merece página propia (no cumple §2.2).",
+      "quote_evidence": "El psiquiatra José Luis Marín Caballero propone que la pregunta no es \"qué te pasa\" sino \"qué te ha pasado\": tu ansiedad de hoy comenzó el día que tus padres se conocieron,",
+      "review_priority": "medium",
+      "review_priority_reason": "Marín Caballero es referencia concreta del canal con cita literal precisa. Si reaparece en otros vídeos como referencia recurrente alcanzaría umbral de author page; flag para acumulación.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Cerebrocentrismo psiquiátrico de los últimos 30 años: ciclo agotado",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Diagnóstico histórico-epistemológico del canal sobre el ciclo psiquiátrico reciente. Pieza polémica del thesis frente al modelo neurobiológico-reductivo dominante.",
+      "quote_evidence": "El ciclo del cerebrocentrismo psiquiátrico de los últimos 30 años se ha agotado: las promesas de resolver todo químicamente no se han cumplido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 20,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

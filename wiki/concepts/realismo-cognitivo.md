@@ -983,6 +983,10 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 
 
 
+
+
+
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
@@ -1012,4 +1016,8 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 - **Por fin** — chunks: [17:31](https://youtu.be/7jT13kHNlBA?t=1051) · [31:42](https://youtu.be/7jT13kHNlBA?t=1902) · [42:19](https://youtu.be/7jT13kHNlBA?t=2539) · [49:27](https://youtu.be/7jT13kHNlBA?t=2967)
 - **Presentación del Libro: Polaris** — chunks: [17:27](https://youtu.be/rLeMS4-XFrA?t=1047)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:54:41](https://youtu.be/UOk344kEeRM?t=6881)
+- **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
+- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
+- **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [55:00](https://youtu.be/eQpPGGqodsU?t=3300) · [1:28:23](https://youtu.be/eQpPGGqodsU?t=5303)
+- **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [31:43](https://youtu.be/hqXmKZ77TEQ?t=1903) · [38:58](https://youtu.be/hqXmKZ77TEQ?t=2338) · [1:04:17](https://youtu.be/hqXmKZ77TEQ?t=3857)
 

@@ -404,6 +404,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
+
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
 - **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [48:12](https://youtu.be/NrLnzcceSLY?t=2892)
@@ -417,3 +418,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **Elisa y su CI** — chunks: [35:43](https://youtu.be/6tfSc45kjyo?t=2143) · [1:01:44](https://youtu.be/6tfSc45kjyo?t=3704)
 
 - **¿Es ciencia la psicología?** — chunks: [31:27](https://youtu.be/1cF9VayHtRI?t=1887) · [34:01](https://youtu.be/1cF9VayHtRI?t=2041)
+- **T5x07: Soto Ivars y el Tabú** — chunks: [15:18](https://youtu.be/wixOLxnd68o?t=918)
+

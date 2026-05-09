@@ -128,5 +128,9 @@ El canal subraya que incluso la tipografía del título (*The VVitch*) es símbo
 ## Citations
 
 
+
+
 - **Análisis arquetípico La Bruja** — chunks: [4:22](https://youtu.be/rRlks0e0oxU?t=262) · [2:04:12](https://youtu.be/rRlks0e0oxU?t=7452)
+- **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:35:38](https://youtu.be/xc8e2i_nREE?t=5738)
+- **Tenemos que hablar de Threads** — chunks: [1:46:14](https://youtu.be/blj-wsCRQzY?t=6374)
 

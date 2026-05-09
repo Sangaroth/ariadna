@@ -1,0 +1,342 @@
+{
+  "video_id": "eQpPGGqodsU",
+  "video_title": "¿Qué es un símbolo? (Parte 2: sofisma y 100cia)",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [],
+  "_doc_promote_new": "El vídeo es Parte 2 de '¿Qué es un símbolo?' y por construcción enriquece la página foundational [[teoria-del-simbolo-en-proxy]] (cuerpo no leído íntegro en sesión, >25k tokens). Sin promote_new directo: la pieza más singular y candidata a página propia es la técnica terapéutica 'parásito mental + deproyección + gnosis mercurial' articulada con Exit (~17 min sustained), pero no alcanza el gate auto-promoción §2.4.1 — va a thesis_candidates con requires_human_validation: true. El resto del material son citas foundational para pages existentes (símbolo, realismo cognitivo, golem, lenguaje, magia-postmoderna).",
+  "pending_updates": [],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Parásito mental, deproyección y gnosis mercurial: la técnica terapéutica del canal frente al bucle patológico obsesivo",
+      "proposed_page_id": "parasito-mental-y-deproyeccion",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Propone la metáfora del \"parásito mental\": una entidad que introduce pensamientos intrusivos y se alimenta de las emociones que estos generan,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La \"invocación\" es la repetición ritual que convoca una entidad emocional (por ejemplo, el rencor mediante la ira repetida),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La \"deproyección\" consiste en dejar de generar mentalmente las imágenes que alimentan al parásito,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Estos procedimientos están clasificados mágicamente en el grimorio como gnosis azules (trabajan con imágenes) y gnosis mercuriales,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El procedimiento consiste en \"poner en punto muerto\" la mente centrando la atención en el terapeuta,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "No es EMDR: la EMDR es un tratamiento de trauma, aquí se trabaja el bucle patológico obsesivo, no el trauma en sí,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Parásito mental: entidad metafórica que introduce pensamientos intrusivos y se alimenta de las emociones (ira, rencor) que el sujeto genera al rumiarlos",
+        "Bucle autoperpetuante: el parásito provoca pensamiento → afecto displacentero (ira/rencor) → alimenta al parásito → repetición sin fin",
+        "Invocación: repetición ritual que convoca una entidad emocional (paralelo mágico al rito de invocación)",
+        "Deproyección: procedimiento inverso de dejar de generar mentalmente las imágenes que alimentan al parásito",
+        "Gnosis mercurial: técnica operativa específica — punto muerto mental + atención fijada en el terapeuta + relajación corporal progresiva ('disolver la sal en emoción') + evocación de recuerdo de seguridad",
+        "Diferenciación frente a hipnosis (estado de sugestión) y frente a EMDR (tratamiento de trauma): la deproyección trabaja el bucle obsesivo, no el trauma ni la sugestión",
+        "Clasificación en el grimorio del canal: gnosis azules (trabajan con imágenes) vs gnosis mercuriales (trabajan con punto muerto y fluidez emocional)",
+        "Anatomía del bucle patológico obsesivo: predisposición temperamental hacia lo emocionalmente recursivo + identificación proyectiva (autocreda) + sobresimplificación de la representación ideal del enemigo (zanahoria atada a uno mismo)",
+        "Mecanismo terapéutico final: si la deproyección se repite, el parásito 'muere de hambre' al dejar de recibir afecto"
+      ],
+      "minutes_sustained": 17,
+      "domain_guess": "social.psychology",
+      "related_existing_pages": [
+        "magia-postmoderna-en-proxy",
+        "trauma-en-proxy",
+        "sindrome-xocas",
+        "herida-narcisista-en-proxy",
+        "individuation",
+        "teoria-del-simbolo-en-proxy"
+      ],
+      "requires_human_validation": true,
+      "rationale": "NO cumple gate auto-promoción §2.4.1: minutes_sustained=17 (<30). Sí cumple los otros dos criterios (6 marcas detectadas >=3, 9 piezas estructurales >=4). El material articula una técnica terapéutica concreta del canal con Exit como interlocutor clínico, etiquetada explícitamente como 'gnosis mercurial' del grimorio mágico — taxonomía interna del canal aplicada a procedimiento clínico real. Decisión a humano: (a) merece concept/synthesis page propia ('parasito-mental-y-deproyeccion' o similar), o (b) se aloja como sección dedicada dentro de magia-postmoderna-en-proxy.md (que ya articula la magia como conjunto de procedimientos para conectar con lo sobrenatural — la deproyección encajaría como caso aplicado del grimorio canal). Si reaparece como dispositivo recurrente en otros vídeos del corpus, la promoción a página propia se vuelve clara. Por ahora flag medium-high para revisión."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Ajuste del volumen del lofi de fondo al inicio del directo",
+      "reason_code": "meta_canal",
+      "reason_detail": "Ajuste técnico del directo. Sin contenido temático.",
+      "quote_evidence": "Proxy ajusta el volumen del lofi de fondo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anuncio de fecha del directo (\"el laberinto\")",
+      "reason_code": "meta_canal",
+      "reason_detail": "Marcador temporal del directo y referencia interna al canal ('el laberinto'). Sin contenido temático.",
+      "quote_evidence": "Anuncia que es 18 de marzo de 2025 en \"el laberinto\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trabajo en nuevo tráiler para el canal",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio promocional sobre material en producción. Sin contenido enciclopédico.",
+      "quote_evidence": "Menciona que está trabajando en un nuevo tráiler para el canal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anatomía del bucle patológico obsesivo: identificación proyectiva y sobresimplificación del enemigo",
+      "reason_code": "captured_in_thesis_candidate",
+      "reason_detail": "Pieza interna del thesis_candidate parasito-mental-y-deproyeccion. La metáfora 'zanahoria atada a uno mismo' y la identificación proyectiva del enemigo como autocreda son constituyentes del bucle obsesivo articulado.",
+      "quote_evidence": "La psique acelera estados de supervivencia mental para luchar contra un enemigo que es una identificación proyectiva (autocreda),",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'autocreda' (auto-creda, autocreación del enemigo) es vocabulario canal-específico operativo que merece chequeo de recurrencia en futuros vídeos. Si aparece como categoría reutilizada, podría justificar entry propio.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Definición de filosofía como disciplina de clasificación de las ideas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa de la filosofía articulada por el canal: no es 'amor al pensar' (etimología etimológicamente errónea según el speaker) sino disciplina de clasificación de ideas. Pieza foundational que enriquece teoria-del-simbolo-en-proxy donde se articula la teoría de la mente del canal.",
+      "quote_evidence": "La filosofía es la disciplina de clasificación de las ideas, y las definiciones son clasificaciones,",
+      "review_priority": "high",
+      "review_priority_reason": "Definición compacta y polémica (rechaza 'amor al pensar' como traducción correcta de filosofía). Si la canal mantiene esta posición en otros vídeos podría merecer concept page propia ('filosofia-en-proxy'). De momento es passing_mention crítica con anclaje en teoria-del-simbolo-en-proxy.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Bucle recursivo entre filosofía de la mente y teoría de la mente cerrado por realismo cognitivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación meta-teórica del canal: las ciencias cognitivas necesitan filosofía para hacer teoría de la mente, pero la teoría de la mente es necesaria para la filosofía de la psicología, y ese bucle se cierra con el realismo cognitivo. Pieza foundational del marco que enriquece realismo-cognitivo.",
+      "quote_evidence": "Las ciencias cognitivas necesitan filosofía para hacer teoría de la mente, pero la teoría de la mente es necesaria para la filosofía de la psicología,",
+      "review_priority": "high",
+      "review_priority_reason": "Formulación particularmente clara del rol epistemológico del realismo cognitivo como cierre de un bucle metodológico. Merece chequeo manual en realismo-cognitivo.md.",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hard problem vs soft problem de la conciencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción articulada del canal: hard problem (qué es la conciencia) vs soft problem (dónde está). Concepto académico estándar (Chalmers) usado dentro del marco propio. Enriquece teoria-del-simbolo-en-proxy o realismo-cognitivo.",
+      "quote_evidence": "La conciencia es la parte más explícita de la mente; distingue entre hard problem (qué es la conciencia) y soft problem (dónde está),",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Matriz noética 3Q: tres tipos de representaciones (procedimentales, episódicas, semánticas) con tres componentes (afectivo, imaginario, gramatical)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza foundational del marco propio. Esta articulación es exactamente la que el index de teoria-del-simbolo-en-proxy describe ('matriz noética N de representaciones procedimentales, episódicas y semánticas — cada una con componentes afectivos, imaginarios y gramaticales'). El vídeo aporta cita literal canónica para esa articulación.",
+      "quote_evidence": "Tres tipos de representaciones fundamentales: procedimentales, episódicas y semánticas,",
+      "review_priority": "high",
+      "review_priority_reason": "El cuerpo de teoria-del-simbolo-en-proxy.md probablemente articule ya este punto pero la cita literal canónica con timestamp ancla la afirmación al lugar canónico del corpus donde se enuncia. Merece revisión manual de si los timestamps actuales en la página apuntan ya a este vídeo o solo a la Parte 1.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tres componentes 3Q de toda representación: afectivo, imaginario, gramatical",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canónica de las 3Q. Cita literal complementaria a la anterior.",
+      "quote_evidence": "Tres componentes: afectivos, imaginarios y gramaticales,",
+      "review_priority": "high",
+      "review_priority_reason": "Definición de las 3Q especialmente compacta. Útil como cita referencial en cualquier página que invoque las 3Q (algebra-afectiva, teoria-del-simbolo).",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Idea como representación suficientemente explícita para ser objeto de ambigüación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa del canal: una idea NO es la representación misma sino la representación cuando es lo suficientemente explícita como para que se pueda operar mentalmente con ella (ambigüación). Distinción clave: la representación de 'madre' existe desde la infancia pero solo es 'idea' cuando hay conciencia de ella.",
+      "quote_evidence": "Una idea es algo suficientemente explícito como para poder operar mentalmente con ello,",
+      "review_priority": "high",
+      "review_priority_reason": "Distinción explicitud-vs-presencia que refina la noción de 'idea'. Pieza canónica para teoria-del-simbolo-en-proxy.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "\"Pienso luego existo\" como metarrepresentación, no como idealismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del cogito cartesiano del canal: NO es 'existo porque pienso' (idealismo) sino 'pienso, me doy cuenta de que pienso, me doy cuenta de que existo' (metarrepresentación + ambigüación). Practicada en exceso conduce a despersonalización.",
+      "quote_evidence": "No es \"existo porque pienso\" (idealismo), sino \"pienso, me doy cuenta de que pienso, me doy cuenta de que existo\",",
+      "review_priority": "medium",
+      "review_priority_reason": "Lectura propia del cogito cartesiano que conecta con teoria-del-simbolo-en-proxy (ambigüación) y potencialmente con tid-personaje-en-proxy o crisis-de-identidad-en-proxy (despersonalización por exceso de metarrepresentación). Flag para chequeo de cruce.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "12 bits por segundo del metapensamiento consciente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cifra empírica que el canal cita: la metarrepresentación consciente opera a apenas 12 bits/s mientras la noesis completa (pensamiento implícito) requiere todo el cerebro y el cuerpo. Crítica concomitante: el córtex prefrontal como 'memoria RAM' es metáfora incorrecta. Pieza foundational para teoria-del-simbolo-en-proxy y argumento contra el cómputismo (golem-de-cobre).",
+      "quote_evidence": "La metarrepresentación consciente opera a apenas 12 bits por segundo,",
+      "review_priority": "high",
+      "review_priority_reason": "Cifra empírica concreta (probable referencia a la línea de investigación de bandwidth de la conciencia) que ancla cuantitativamente el argumento del canal. Especialmente importante para golem-de-cobre (donde se argumenta que la mente humana NO es máquina) y para teoria-del-simbolo (límites de la representación explícita). Merece revisión manual de si la página golem-de-cobre.md cita ya este dato.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica al córtex prefrontal como 'memoria RAM'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Refuerzo crítico del canal contra la metáfora informática aplicada al cerebro. Pieza concordante con golem-de-cobre.",
+      "quote_evidence": "El córtex prefrontal como \"memoria RAM\" es una metáfora incorrecta que genera intuiciones falsas sobre el pensamiento,",
+      "review_priority": "high",
+      "review_priority_reason": "Crítica explícita y compacta al modelo computacional del cerebro. Pieza canónica para golem-de-cobre.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Abstracción matemática y los límites del pensamiento explícito a 12 bits/s",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación del marco al caso matemático: las matemáticas son difíciles porque son abstractas (carecen de afecto e imagen) y deben pensarse a 12 bits/s. Conceptos como 'conjunto' se evocan mediante diagramas mentales (Venn). La 'clase de equivalencia' como abstracción sobre conjuntos.",
+      "quote_evidence": "Las matemáticas son difíciles de pensar porque son abstractas: carecen de afecto e imagen,",
+      "review_priority": "medium",
+      "review_priority_reason": "Aplicación del marco 3Q al pensamiento matemático: lo abstracto es lo carente de afecto e imagen, queda solo lo gramatical. Pieza interesante que conecta teoria-del-simbolo con epistemologia-de-la-psicologia.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lenguaje como algoritmo de compresión cognitivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del rol del lenguaje en la cognición: NO se piensa en palabras (postura representacionalista del canal ya documentada en teoria-del-lenguaje-en-proxy), pero el lenguaje funciona como algoritmo de compresión que transmite mucha información sin requerir proyección mental completa.",
+      "quote_evidence": "El lenguaje funciona como algoritmo de compresión: transmite mucha información sin requerir proyección mental completa,",
+      "review_priority": "high",
+      "review_priority_reason": "La metáfora 'lenguaje = algoritmo de compresión' es especialmente compacta y operativa. Pieza candidata para teoria-del-lenguaje-en-proxy. Merece revisión manual.",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ideas no computables: la mente no es computación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis central del canal contra el computacionalismo: solo una pequeña parte del pensamiento explícito es computable; las ideas en general no lo son porque incluyen afectos. Un autómata con 12 bits de memoria explícita apenas equivaldría a un reptil.",
+      "quote_evidence": "La mente no es computación: solo una pequeña parte del pensamiento explícito es computable,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis central de golem-de-cobre — formulada aquí con referencia cuantitativa al límite reptiliano (12 bits = reptil). Merece chequeo en golem-de-cobre.md.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Resíntesis noética continua: la noesis (estado N) nunca se repite idéntica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza canónica del marco — el index de teoria-del-simbolo-en-proxy ya menciona que las operaciones de ambigüación 'jamás se repiten idénticas en toda la historia humana'. Cita literal complementaria que ancla esta tesis.",
+      "quote_evidence": "La noesis (estado mental N) es una gran matriz que se resintetiza continuamente y nunca se repite,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "UAL (Unlimited Associative Learning): creación continua de asociaciones afectivas, imaginarias o gramaticales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Framework conceptual referenciado por el canal — UAL es el marco de Bronfman, Ginsburg y Jablonka sobre la emergencia de la conciencia animal vía aprendizaje asociativo ilimitado. El canal lo invoca sin atribución nominal explícita en el fragmento. Aplicación del marco al modelo 3Q: UAL crea asociaciones en cualquiera de las tres componentes representacionales.",
+      "quote_evidence": "UAL (Unlimited Associative Learning): creación continua de asociaciones afectivas, imaginarias o gramaticales entre representaciones,",
+      "review_priority": "high",
+      "review_priority_reason": "UAL es framework académico específico (Bronfman/Ginsburg/Jablonka) — primera aparición referenciada en el corpus que se procesa en sesión. Si reaparece con frecuencia podría justificar entry de canonical_external_candidate en whitelist (autores) o concept page propia. Flag para acumulación. Pieza también relevante para teoria-de-la-memoria-en-proxy donde se articula la mecánica asociativa.",
+      "enriches_concept": "teoria-de-la-memoria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Reconocimiento afectivo de submatrices noéticas similares (sensación de conocido)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mecánica del canal: las submatrices similares a estados anteriores se reconocen afectivamente como 'conocido'; las disimilares activan reflejo de orientación hacia lo nuevo. Conecta con buscar (afecto del reflejo de orientación) y con teoria-de-la-memoria.",
+      "quote_evidence": "Las submatrices similares a estados anteriores se reconocen afectivamente (sensación de conocido vs. reflejo de orientación hacia lo nuevo),",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-memoria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Definición canónica de símbolo en realismo cognitivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Esta es LA cita canónica que define símbolo en el marco del canal. Pieza foundational para teoria-del-simbolo-en-proxy con anclaje literal específico. Si la página actual no cita exactamente esta formulación, es la versión canónica que merece insertarse.",
+      "quote_evidence": "Un símbolo es el evento noético por el que una representación simple (normalmente gráfica) refiere e induce otra representación más compleja, abstracta o implícita,",
+      "review_priority": "high",
+      "review_priority_reason": "DEFINICIÓN CANÓNICA del término que da nombre a la página teoria-del-simbolo-en-proxy. Imprescindible chequear que esta cita literal con timestamp esté en el cuerpo. Si no lo está, es la primera prosa candidata a insertar manualmente.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tipos de relación simbólica: gráfico (ambigüación imaginaria), matemático (imaginario-formal), palabra (símbolo somático)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tipología canal-específica de modalidades simbólicas. La palabra como 'símbolo somático' es articulación particular: algo perceptible por los sentidos que evoca representaciones episódicas complejas. Conclusión del canal: la noción clásica de símbolo pierde sentido porque todo lo percibido con significación es símbolo de algo.",
+      "quote_evidence": "El símbolo gráfico es una ambigüación imaginaria; el símbolo matemático es una ambigüación imaginario-formal,",
+      "review_priority": "high",
+      "review_priority_reason": "Tipología tripartita de modalidades simbólicas anclada en las 3Q. Pieza canónica candidata a sub-sección dedicada en teoria-del-simbolo-en-proxy.md.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La palabra como símbolo somático",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso específico de la tipología anterior — la palabra es símbolo somático (perceptible por los sentidos) que evoca representaciones episódicas complejas. Ejemplo del canal: la palabra 'procrastinar' como símbolo somático de toda una experiencia compleja.",
+      "quote_evidence": "Una palabra es un símbolo somático: algo perceptible por los sentidos que evoca representaciones episódicas complejas (ejemplo: \"procrastinar\"),",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación que conecta teoria-del-simbolo con teoria-del-lenguaje. Flag para revisión.",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Generalización: todo lo percibido es símbolo de algo al tener significación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis radical del canal: la noción clásica de símbolo (símbolo = subset privilegiado de signos) pierde sentido en este marco — todo lo percibido con significación es símbolo. Conecta con la teoría de la mente del canal donde toda representación es ya simbólica.",
+      "quote_evidence": "La noción clásica de símbolo pierde sentido porque todo lo percibido es símbolo de algo al tener significación,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis fuerte que reorganiza la semiótica clásica. Pieza canónica para teoria-del-simbolo-en-proxy y potencialmente con cruce con teoria-del-lenguaje. Merece revisión manual.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "IAs generativas como proceso estocástico, no como cognición ni inteligencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento del canal contra etiquetar las IAs como 'inteligencias': producen píxeles mediante procesos probabilísticos masivos, cada input es 'un dado de un trillón de caras', no hay razonamiento sino convergencia estadística. Pieza concordante con golem-de-cobre.",
+      "quote_evidence": "Las IAs generativas no generan en sentido creativo: producen píxeles mediante procesos probabilísticos masivos,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis de golem-de-cobre con metáfora compacta nueva ('dado de un trillón de caras'). Especialmente operativa para argumentar contra el antropomorfismo IA. Merece chequeo en golem-de-cobre.md.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El input a una IA como dado de un trillón de caras",
+      "reason_code": "passing_mention",
+      "reason_detail": "Metáfora específica del canal sobre el funcionamiento estocástico de las IAs. Refuerzo de la tesis anterior.",
+      "quote_evidence": "Cada input funciona como \"un dado de un trillón de caras\"; no hay razonamiento sino convergencia estadística hacia patrones entrenados,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Las IAs no son inteligencias ni en sentido débil",
+      "reason_code": "passing_mention",
+      "reason_detail": "Conclusión polémica explícita del bloque. No hay relación entre las IAs y los procesos de la mente humana — formulación más fuerte de la posición de golem-de-cobre.",
+      "quote_evidence": "No son inteligencias artificiales ni siquiera en sentido débil; no tienen relación con los procesos de la mente humana,",
+      "review_priority": "high",
+      "review_priority_reason": "Formulación particularmente nítida que resume la posición del canal. Pieza canónica candidata a aparecer literal en golem-de-cobre.md.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 26,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

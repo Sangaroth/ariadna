@@ -227,6 +227,14 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
+
+
+
+
+
+
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -248,4 +256,12 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [18:12](https://youtu.be/krkUPzqTqTA?t=1092)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [47:27](https://youtu.be/yLd7j3fcR1w?t=2847)
 - **Noticias 100tíficas.** — chunks: [1:54:00](https://youtu.be/VgdybZKruwk?t=6840)
+- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [32:13](https://youtu.be/4LBXNkVAUCU?t=1933)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [54:48](https://youtu.be/4P5hxaG7i6c?t=3288)
+- **Seguimos con Tolkien** — chunks: [35:45](https://youtu.be/OGah7BFoR3w?t=2145)
+- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [29:56](https://youtu.be/NKFWUxt5VQ4?t=1796)
+- **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [45:39](https://youtu.be/xc8e2i_nREE?t=2739) · [1:35:38](https://youtu.be/xc8e2i_nREE?t=5738) · [1:41:41](https://youtu.be/xc8e2i_nREE?t=6101)
+- **T5x09: El amor en realidad** — chunks: [1:12:29](https://youtu.be/1ldYmBO4N4I?t=4349) · [1:27:11](https://youtu.be/1ldYmBO4N4I?t=5231)
+- **T5x13: Estudiando con Proxy: Construyendo Pandora.** — chunks: [28:48](https://youtu.be/oYcebCR2Oes?t=1728)
+- **Todo se apaga menos el PSOE** — chunks: [1:03:58](https://youtu.be/MNbsJXaz3XI?t=3838)
 

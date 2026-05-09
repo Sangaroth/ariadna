@@ -161,10 +161,14 @@ La triada teologal cristiana (fe-esperanza-caridad/amor) se reordena en Matrix s
 
 
 
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [33:13](https://youtu.be/Dtp1_RLb7S0?t=1993) · [37:16](https://youtu.be/Dtp1_RLb7S0?t=2236) · [41:18](https://youtu.be/Dtp1_RLb7S0?t=2478) · [46:22](https://youtu.be/Dtp1_RLb7S0?t=2782) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097) · [1:46:17](https://youtu.be/Dtp1_RLb7S0?t=6377)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [1:13:56](https://youtu.be/1WEQmzUM41M?t=4436)
 
 
 - **Análisis arquetípico de Unicorn wars** — chunks: [22:53](https://youtu.be/fLfEbHPJNmU?t=1373)
 - **Directo casual** — chunks: [24:19](https://youtu.be/ECN5C9rsaZg?t=1459)
+- **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [19:47](https://youtu.be/eQpPGGqodsU?t=1187) · [22:17](https://youtu.be/eQpPGGqodsU?t=1337) · [26:24](https://youtu.be/eQpPGGqodsU?t=1584)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [43:09](https://youtu.be/4P5hxaG7i6c?t=2589) · [45:12](https://youtu.be/4P5hxaG7i6c?t=2712) · [54:48](https://youtu.be/4P5hxaG7i6c?t=3288)
 

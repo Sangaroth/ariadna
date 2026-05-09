@@ -1,0 +1,337 @@
+{
+  "video_id": "vDv77eZnMo4",
+  "video_title": "Sic transit gloria mundi",
+  "playlist": "_streams",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Vídeo-mosaico de noticias y temas conectados sin tesis monográfica que alcance gate auto-promoción §2.4.1. Material distribuido en tres lanes: (a) bloques tech-news que enriquecen golem-de-cobre vía citation (Anthropic/Claude/DeepSeek, hacker DJI, hackers gobierno mexicano, etiquetado penal IA); (b) piezas filosófico-estructurales del canal (teoría de la conciencia metarrepresentacionalista+enactiva, filosofía como clasificación de ideas, analítica vs continental, test de la botella) que enriquecen teoria-del-simbolo-en-proxy / realismo-cognitivo / algebra-afectiva; (c) críticas culturales (feminismo destruye particularidad femenina, comunidad trans como tribu vacía, dar-dinero-a-hombres-vs-mujeres) que enriquecen teocracia-agnostica-y-victimologia-institucional, fenomenologia-trans-en-proxy, adgrediere-masculino. Bloques de actualidad coyuntural (Cuba/Trump, Tejero/23-F) descartados como political_news. NO thesis_candidate auto-promovible: la pieza más distintiva (propuesta normativa del canal sobre etiquetado penal de IA) sostiene solo ~5 min y queda como enriches golem-de-cobre.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Cuba dispara contra civiles estadounidenses, Trump y la lancha rápida",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre evento geopolítico coyuntural Cuba/EE.UU./Trump. No aplica marco psicológico-filosófico estructural (test discriminante §3.1 falla en tests 1-3, pasa tests 5-6 como actualidad partidista internacional). Aunque la regex de topic_filters cubre solo política partidista española, la categoría 'political_news' aplica también a coyuntura internacional sin marco propio.",
+      "quote_evidence": "El régimen cubano mata a cuatro tripulantes de una lancha rápida civil de EE.UU.,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Trump recibe excusas para actuar contra Cuba",
+      "reason_code": "political_news",
+      "reason_detail": "Continuación del bloque coyuntural Cuba/Trump. Sin valor enciclopédico para el wiki.",
+      "quote_evidence": "Trump no necesita excusas para actuar, pero las está recibiendo igualmente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Tejero, el 23-F desclasificado y el reparto político del sistema autonómico",
+      "reason_code": "political_news",
+      "reason_detail": "Comentario sobre evento histórico-político español (23-F, 1981) con motivo de la muerte de Tejero y la desclasificación de archivos. Aunque es histórico (no actualidad), el bloque articula interpretación partidista del reparto político (Partido Comunista, sistema autonómico, partidos que querían derrocar) sin elevarlo a estructura más allá del caso específico — falla test discriminante §3.1 como politiqueo histórico.",
+      "quote_evidence": "Tejero rompió el pacto al rechazar el papel del Partido Comunista en el nuevo reparto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Mapa interactivo Landscape Grid de las teorías de la conciencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia a recurso externo (mapa interactivo de teorías de la conciencia categorizadas filosóficamente). El canal lo cita como herramienta de exploración. Pieza para enriquecer realismo-cognitivo o teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "Landscape Grid permite visualizar por categorías filosóficas todas las teorías de la mente actuales,",
+      "review_priority": "medium",
+      "review_priority_reason": "Recurso externo útil para investigación sobre teorías de la mente — referencia bibliográfica indirecta que merece flag para incluir como reference link en realismo-cognitivo si el canal la invoca recurrentemente.",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Predicción del canal: boom de teorías homeostáticas y afectivas de la conciencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Predicción del canal sobre el futuro de la ciencia de la conciencia: las teorías que articulan la conciencia como suma de afectos+necesidades crecerán en los próximos años. Pieza relevante para algebra-afectiva (donde se articula el aparato afectivo del canal) y para realismo-cognitivo.",
+      "quote_evidence": "La conciencia como suma de afectos y necesidades que generan un ser consciente,",
+      "review_priority": "high",
+      "review_priority_reason": "Predicción concreta del canal sobre el campo de la conciencia. Conecta directamente con algebra-afectiva (los siete afectos como motores neurobiológicos) y con la diferenciación afecto/embodiment puro. Merece chequeo cruzado.",
+      "enriches_concept": "algebra-afectiva",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Teoría de Proxy: metarrepresentacionalismo más enactividad somática",
+      "reason_code": "passing_mention",
+      "reason_detail": "Posicionamiento específico de la teoría propia del canal en el landscape de las teorías de la conciencia: combina representacionalismo de segundo orden (metarrepresentacionalismo) con corporalidad enactiva, situándose entre teorías de alto orden y teorías enactivas. Distingue entre representaciones de primer orden (básicas) y de alto orden (complejas, multimodales). Pieza foundational para teoria-del-simbolo-en-proxy donde se articula la teoría propia.",
+      "quote_evidence": "Su modelo combina representacionalismo de segundo orden con corporalidad,",
+      "review_priority": "high",
+      "review_priority_reason": "Posicionamiento técnico-filosófico explícito del canal en el landscape de teorías de la conciencia: 'metarrepresentacionalismo más enactividad somática'. Pieza canónica para teoria-del-simbolo-en-proxy — imprescindible chequear si la página articula ya esta caracterización exacta o si conviene insertarla con anclaje canónico.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Distinción representaciones de primer orden vs alto orden",
+      "reason_code": "passing_mention",
+      "reason_detail": "Refinamiento técnico de la teoría — primer orden (básicas) vs alto orden (complejas, multimodales). Pieza concordante con teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "Distingue entre representaciones de primer orden (básicas) y de alto orden (complejas, multimodales),",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hackers usan Claude para robar 150 GB del gobierno mexicano (caza de errores como pretexto)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso de uso adversarial de Claude como ilustración del argumento del canal sobre la peligrosidad geopolítica de los LLMs. Convencer al modelo con pretexto de bug bounty para que ceda en políticas de seguridad. Enriquece golem-de-cobre (la dimensión peligrosidad-tecnológica de las IAs).",
+      "quote_evidence": "Convencieron a Claude diciéndole que hacían una caza de errores (bug bounty),",
+      "review_priority": "medium",
+      "review_priority_reason": "Caso ilustrativo de manipulación adversarial de LLMs. Útil como ejemplo en argumentos del canal sobre regulación de IA.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "LLMs como fuerza tecnológica comparable a armas nucleares",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre la magnitud geopolítica de los LLMs. Pieza polémica que enriquece golem-de-cobre con la dimensión político-jurídica.",
+      "quote_evidence": "Los modelos de lenguaje se han convertido en una fuerza tecnológica comparable a armas nucleares,",
+      "review_priority": "high",
+      "review_priority_reason": "Equivalencia LLMs ≈ armas nucleares es tesis fuerte del canal sobre la regulación necesaria. Pieza candidata a sub-sección político-jurídica de golem-de-cobre.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Futuro bélico entre IAs: drones y repositorios de datos como soldados",
+      "reason_code": "passing_mention",
+      "reason_detail": "Predicción del canal sobre el futuro bélico mediado por IAs. Pieza concordante con golem-de-cobre.",
+      "quote_evidence": "La humanidad se peleará a base de robots tanto en internet como por tierra,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El feminismo destruye la particularidad de lo femenino: las mujeres solo pueden ser varones o la nada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis estructural del canal sobre el efecto del feminismo institucional sobre la particularidad femenina arquetípica. Pieza foundational que enriquece teocracia-agnostica-y-victimologia-institucional (recién creada) y diosa-blanca (privilegio arquetípico femenino).",
+      "quote_evidence": "Las mujeres actuales solo pueden ser dos cosas: varones o la nada,",
+      "review_priority": "high",
+      "review_priority_reason": "Formulación particularmente compacta de la crítica del canal al feminismo como destructor de la particularidad femenina. Pieza con valor doble: enriquece teocracia-agnostica-y-victimologia-institucional (recién creada) y diosa-blanca.",
+      "enriches_concept": "teocracia-agnostica-y-victimologia-institucional",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anuncio: Proxy quiere hablar de su libro sobre lo femenino en podcasts",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio promocional sobre el libro propio del canal y su disposición a invitaciones. Sin contenido enciclopédico.",
+      "quote_evidence": "Proxy anuncia que quiere hablar de su libro sobre lo femenino en podcasts a los que le inviten,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Disforia de género: feminización cerebral más autoimagen corporal enquistada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica del canal sobre la disforia genuina (rara): no basta con identificarse con procesos del sexo opuesto, se requiere autoimagen corporal invertida — la mente identifica el cuerpo como objeto del sexo contrario. Pieza foundational para fenomenologia-trans-en-proxy.",
+      "quote_evidence": "La disforia es una espina que dice que tu cuerpo debería ser el del sexo opuesto,",
+      "review_priority": "high",
+      "review_priority_reason": "Definición clínica precisa de la disforia genuina con la metáfora de la 'espina' que duele en una dirección sexual específica. Pieza candidata a sub-sección dedicada en fenomenologia-trans-en-proxy.md.",
+      "enriches_concept": "fenomenologia-trans-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El número de personas con verdadera disforia de género es ínfimo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis epidemiológica-correctiva del canal: la disforia genuina (con criterios clínicos estrictos) es rara, no la masa que se identifica como trans en el imaginario actual. Pieza concordante con fenomenologia-trans-en-proxy.",
+      "quote_evidence": "El número de personas con verdadera disforia de género es ínfimo,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis epidemiológica que distingue disforia clínica genuina de identificación cultural — pieza imprescindible para la articulación del marco fenomenologia-trans-en-proxy.",
+      "enriches_concept": "fenomenologia-trans-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Comunidad trans como tribu urbana sin ideas: rebeldía vacía del wokismo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis del canal sobre la dimensión sociológica del fenómeno trans actual: tribu urbana cuya rebeldía está vacía de ideas porque el relativismo destruyó todas las convicciones — solo quedan afectos. La rebeldía contra 'el sistema' identificado con la sexualidad / heteronormatividad. Patologizada por rasgos histriónicos (trastorno de la superficialidad). Pieza foundational con triple anclaje: fenomenologia-trans-en-proxy, woke-narrativa-postmoderna-moral, y therians-fenomeno-cultural (mecánica análoga).",
+      "quote_evidence": "El relativismo ha destruido todas las convicciones; hoy solo quedan afectos y sentimientos,",
+      "review_priority": "high",
+      "review_priority_reason": "Diagnóstico sociológico-clínico denso de la comunidad trans contemporánea. La calificación 'trastorno de personalidad de la superficialidad' aplicada a los rasgos histriónicos es categoría operativa del canal que merece chequeo en fenomenologia-trans-en-proxy.md.",
+      "enriches_concept": "fenomenologia-trans-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rebeldía wokista patologizada por rasgos histriónicos (trastorno de la superficialidad)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Categorización clínica canal-específica: el trastorno histriónico como 'trastorno de personalidad de la superficialidad' que sustenta la rebeldía wokista vacía. Pieza para fenomenologia-trans-en-proxy y woke-narrativa.",
+      "quote_evidence": "Esta rebeldía está patologizada por rasgos histriónicos: el trastorno de personalidad de la superficialidad,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Dar dinero a hombres aumenta natalidad; dárselo a mujeres la reduce",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis empírico-arquetípica del canal: el intercambio antropológico estatus-protección por hijos. Si se da estatus al varón, la mujer le da hijos. Las mujeres con más dinero trabajan más por incentivos laborales y reducen natalidad. Pieza con valor para adgrediere-masculino y consumismo-critica.",
+      "quote_evidence": "La mujer intercambia estatus por protección desde la noche de los tiempos: si damos estatus al varón, la mujer le dará hijos,",
+      "review_priority": "high",
+      "review_priority_reason": "Articulación arquetípica del intercambio antropológico estatus↔protección↔hijos con dato empírico anclado. Pieza candidata a sub-sección de adgrediere-masculino o de amor-cortes-y-monogamia-civilizatoria.",
+      "enriches_concept": "adgrediere-masculino",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Experimento mental del soma: la naturaleza se puede hackear pero no engañar",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis biológico-existencial del canal: si proporcionas soma (anulación de necesidades), la persona muere feliz en una semana. Si das dinero a una mujer, deja de necesitar estatus; solo el varón sigue esforzándose por su 'instinto de autodestrucción'. Conecta con consumismo-critica y con experimento-universo-25 (mecánica análoga al colapso por satisfacción).",
+      "quote_evidence": "Si proporcionas soma (droga que anula necesidades), la persona muere feliz en una semana,",
+      "review_priority": "high",
+      "review_priority_reason": "Experimento mental compacto que articula la tesis del canal sobre necesidades como motor existencial. Conecta con experimento-universo-25 (calhoun) y consumismo-critica. Merece chequeo cruzado.",
+      "enriches_concept": "consumismo-critica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Evangelion y la narrativa incompleta como técnica gnóstica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis del canal sobre Evangelion (y Dark Souls / Bloodborne / Elden Ring) como aplicación de la técnica narrativa gnóstica: símbolos que parecen parte de un gran todo que nunca se revela; preguntas que se señalan unas a otras sin respuestas; el espectador rellena los huecos. Pieza foundational para mito-moderno-en-proxy (Evangelion ya está mencionado), gnosticismo (técnica gnóstica explícita) y bloodborne-game.",
+      "quote_evidence": "La narrativa incompleta crea fantasía donde los símbolos parecen parte de un gran todo que nunca se revela,",
+      "review_priority": "high",
+      "review_priority_reason": "Tesis sobre la técnica narrativa gnóstica (símbolos sin todo coherente revelado) compartida entre Evangelion y los souls-likes. Pieza canónica para gnosticismo.md y bloodborne-game.md, y conexión con teoria-del-simbolo-en-proxy (ambigüación deliberada).",
+      "enriches_concept": "gnosticismo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Técnica gnóstica narrativa: contradicciones que impiden reconstruir la historia real (Souls-likes)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mecánica narrativa específica articulada: contradicciones deliberadas + preguntas autorreferenciales sin respuesta = construcción gnóstica de mundo donde el espectador completa lo que falta. Pieza concordante con bloodborne-game (que ya articula la dimensión arquetípica del juego).",
+      "quote_evidence": "Técnica compartida con Dark Souls, Bloodborne y Elden Ring: las contradicciones impiden reconstruir la historia real,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "bloodborne-game",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Hacker conecta aspiradora DJI con Xbox y expone 7000 hogares en 24 países",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo: API de aspiradora DJI con autenticación sin verificación de propiedad — cualquier token funciona para cualquier unidad del planeta. Hacker informó responsablemente y DJI lo arregló en 2 días. Pieza ilustrativa de la tesis del canal sobre IoT mal diseñado y peligros de la integración IA-hardware.",
+      "quote_evidence": "DJI creó autenticación sin verificación de propiedad: cualquier ficha funcionaba para cualquier unidad del planeta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Crítica a la definición etimológica de filosofía como 'amor al saber'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis ya articulada en eQpPGGqodsU (¿Qué es un símbolo? Parte 2). El canal repite la crítica: 'filos y sofos' es poética que clausura la conversación atribuyéndose un poder de comprensión. La autorreferencia 'la filosofía se ocupa de saber qué es la filosofía' es bucle sin contenido.",
+      "quote_evidence": "Decir \"filos y sofos\" es poética, no definición: atribuye al hablante un poder de comprensión que clausura la conversación,",
+      "review_priority": "high",
+      "review_priority_reason": "Reaparición de la misma tesis ya capturada en eQpPGGqodsU. Esta es la SEGUNDA aparición — si reaparece una vez más cruzaría el umbral §2.1 de recurrencia (≥3 vídeos) para promoción a concept page propia ('filosofia-en-proxy' o similar). Flag CRÍTICO para acumulación.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La filosofía es la disciplina de clasificación de las ideas (segunda articulación)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa repetida — clasificar las ideas es ponerlas en orden, sistematizarlas. Toda idea empieza en el yo; el yo no es sino ideas y afectos. Segunda articulación en el corpus procesado de la misma tesis.",
+      "quote_evidence": "Clasificar las ideas es ponerlas en un orden, sistematizarlas como parte de un sistema,",
+      "review_priority": "high",
+      "review_priority_reason": "Repetición de la definición foundational de filosofía. Confirma recurrencia §2.1 — segunda aparición consolidada en el corpus.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Filosofía analítica como integral vs continental como específica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción articulada del canal: la filosofía analítica clasifica todas las ideas en tanto ideas (filosofía integral); la continental clasifica ideas pertenecientes a campos concretos (políticos, sociales, literarios). La continental ES filosofía pero solo la analítica aborda la totalidad. Articulación NUEVA respecto al corpus previo procesado.",
+      "quote_evidence": "La filosofía analítica busca clasificar todas las ideas en tanto ideas (filosofía integral),",
+      "review_priority": "high",
+      "review_priority_reason": "Articulación analítica/continental NUEVA en el corpus procesado. Pieza foundational para teoria-del-simbolo-en-proxy (donde se articula la demanda analítica del realismo cognitivo) y para una eventual concept page sobre filosofía. Merece chequeo manual cuidadoso.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Test de la botella: 40% de mujeres universitarias falla en rotación espacial",
+      "reason_code": "passing_mention",
+      "reason_detail": "Dato psicométrico aplicado a la tesis del canal sobre dimorfismo cognitivo: el 40% de fallo femenino en el test de la botella es replicable internacionalmente y no se explica por cultura/socialización. Pieza con valor para adgrediere-masculino e inteligencia-y-adaptacion-en-proxy.",
+      "quote_evidence": "Es imposible explicar el 40% de fallo femenino por cultura o socialización,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "inteligencia-y-adaptacion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Reinterpretación del test de la botella: lo medido es interpretación de la pregunta, no rotación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis correctiva del canal: el test no mide capacidad de rotación sino cómo se interpreta la pregunta. El varón separa el objeto de sus dinámicas físicas (dibuja líquido horizontal); la mente femenina, acostumbrada al contexto, conserva la rotación del objeto anterior. La diferencia es 'rotar un objeto' vs 'rotar un objeto con dinámicas físicas'. Pieza muy refinada que conecta con algebra-afectiva (componente imaginario+gramatical de la representación).",
+      "quote_evidence": "El varón separa el objeto de sus dinámicas físicas y dibuja el líquido horizontal,",
+      "review_priority": "high",
+      "review_priority_reason": "Reinterpretación canal-específica del test que disuelve el resultado psicométrico aparente en términos de cognición contextual vs descontextualizada. Pieza fina que conecta cognición de género con teoria-del-simbolo (ambigüación de la pregunta) y adgrediere-masculino (separación objeto/contexto como mecánica masculina).",
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Anthropic robó datos para Claude; China robó Claude para entrenar DeepSeek y Moonshot",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo de la cadena de robo en el ecosistema IA. Anthropic usó datos privados/de diseño sin permiso; China usó Claude para entrenar sus modelos. La paradoja: Anthropic exige protección de sus datos mientras robó los de entrenamiento. Pieza para argumentar la regulación necesaria de la IA.",
+      "quote_evidence": "Anthropic utilizó datos privados y de diseño de ingenierías sin permiso para entrenar Claude,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis ilustrativa de la doble vara en la regulación de la IA. Útil para golem-de-cobre como argumento sobre la necesidad de marco jurídico.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Propuesta del canal: etiquetar contenido de IA como obligación penal, no administrativa",
+      "reason_code": "passing_mention",
+      "reason_detail": "PROPUESTA NORMATIVA original del canal: difundir producción hecha con IA sin declararlo debería ser DELITO (no infracción administrativa). El bien jurídico a proteger es la integridad de la humanidad en la producción de información. Esto permitiría al ciudadano elegir entre espacios de producción humana y de máquina. Pieza distintiva con anclaje político-jurídico explícito.",
+      "quote_evidence": "Debería ser delito —no infracción— difundir producción hecha con IA sin declararlo,",
+      "review_priority": "high",
+      "review_priority_reason": "Propuesta jurídico-política del canal singular en el corpus procesado. Si reaparece como tesis recurrente podría justificar concept page propia ('regulacion-ia-en-proxy' o similar). Por ahora alojada como sub-sección de golem-de-cobre. Flag para acumulación.",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El sello informativo del contenido IA: 'producción sin esfuerzo, nadie aprendió'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Refinamiento de la propuesta normativa anterior — el sello no solo etiqueta sino informa al ciudadano del estatus epistémico del contenido (sin esfuerzo, sin aprendizaje, sin enriquecimiento humano).",
+      "quote_evidence": "El sello debe informar: esto fue diseñado sin esfuerzo, nadie se enriqueció ni aprendió en esta producción,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Uso del canal de la IA: secretaria, becario, bibliotecónomo, corrector, director de investigación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización del canal sobre el uso correcto de la IA: amplificador del pensamiento humano, no sustituto. El canal se centra en aportar al campo de la ciencia (lo que la IA no puede hacer). Caso ilustrativo del uso ético de la IA.",
+      "quote_evidence": "Proxy usa la IA como secretaria, becario, bibliotecónomo, corrector y director de investigación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Alucinaciones de IA en publicaciones científicas: referencias inexistentes, fragmentos sin sentido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Dato empírico: decenas de artículos científicos publicados contienen alucinaciones de IA no detectadas. Refuerza el argumento sobre el daño a la integridad informativa.",
+      "quote_evidence": "Decenas de artículos científicos publicados contienen alucinaciones de IA: fragmentos sin sentido, referencias inexistentes,",
+      "review_priority": "medium",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 31,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

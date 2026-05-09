@@ -125,6 +125,12 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
+
+
+
+
 - **El Hate Bombing de la izquierda.** — chunks: [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767) · [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979)
 - **El síndrome de Wendy** — chunks: [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
 - **Ha vuelto a ocurrir.** — chunks: [1:34:59](https://youtu.be/C0Io49giVY8?t=5699)
@@ -132,4 +138,10 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [59:25](https://youtu.be/ZlO5o786u90?t=3565)
 - **Por fin** — chunks: [53:01](https://youtu.be/7jT13kHNlBA?t=3181)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:14:58](https://youtu.be/UOk344kEeRM?t=4498) · [1:19:32](https://youtu.be/UOk344kEeRM?t=4772)
+- **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [1:08:06](https://youtu.be/BdVsvhTWWew?t=4086)
+- **T5x02: No Love Land** — chunks: [25:14](https://youtu.be/EjAVFdSVtbU?t=1514) · [40:36](https://youtu.be/EjAVFdSVtbU?t=2436) · [56:09](https://youtu.be/EjAVFdSVtbU?t=3369)
+- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:03:18](https://youtu.be/NKFWUxt5VQ4?t=3798)
+- **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:35:38](https://youtu.be/xc8e2i_nREE?t=5738)
+- **T5x07: Soto Ivars y el Tabú** — chunks: [11:09](https://youtu.be/wixOLxnd68o?t=669)
+- **T5x09: El amor en realidad** — chunks: [37:55](https://youtu.be/1ldYmBO4N4I?t=2275) · [49:38](https://youtu.be/1ldYmBO4N4I?t=2978)
 

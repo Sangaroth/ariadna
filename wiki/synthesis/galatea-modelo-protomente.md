@@ -440,6 +440,9 @@ La pieza clínica es decisiva como **falsador empírico** del modelo: el utiliza
 
 
 
+
+
+
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [1:14:47](https://youtu.be/i72IYlpQWd0?t=4487) · [1:22:43](https://youtu.be/i72IYlpQWd0?t=4963)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [19:49](https://youtu.be/hx9creRpdnY?t=1189) · [30:28](https://youtu.be/hx9creRpdnY?t=1828) · [35:30](https://youtu.be/hx9creRpdnY?t=2130) · [37:31](https://youtu.be/hx9creRpdnY?t=2251) · [45:05](https://youtu.be/hx9creRpdnY?t=2705) · [52:44](https://youtu.be/hx9creRpdnY?t=3164) · [55:46](https://youtu.be/hx9creRpdnY?t=3346) · [1:04:29](https://youtu.be/hx9creRpdnY?t=3869) · [1:13:23](https://youtu.be/hx9creRpdnY?t=4403)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [26:30](https://youtu.be/t8v5w3s0USA?t=1590) · [30:03](https://youtu.be/t8v5w3s0USA?t=1803) · [59:59](https://youtu.be/t8v5w3s0USA?t=3599)
@@ -448,4 +451,7 @@ La pieza clínica es decisiva como **falsador empírico** del modelo: el utiliza
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:06:20](https://youtu.be/cbdLR0HTE3w?t=3980) · [1:29:05](https://youtu.be/cbdLR0HTE3w?t=5345)
 - **León XIV, y George Floyd.** — chunks: [1:38:04](https://youtu.be/oDpJ_EJDDfw?t=5884)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [10:35](https://youtu.be/UOk344kEeRM?t=635) · [1:39:54](https://youtu.be/UOk344kEeRM?t=5994)
+- **T5x03, Cibernética, Biónica y Transhumanismo.** — chunks: [49:09](https://youtu.be/DytHSZw0_mo?t=2949) · [1:34:05](https://youtu.be/DytHSZw0_mo?t=5645)
+- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:31:18](https://youtu.be/NKFWUxt5VQ4?t=5478) · [1:34:24](https://youtu.be/NKFWUxt5VQ4?t=5664)
+- **Teoría de la información integrada y los LLMs (Ahora sí)** — chunks: [1:42:10](https://youtu.be/ndkSJv9BGew?t=6130)
 
