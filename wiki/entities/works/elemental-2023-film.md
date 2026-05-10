@@ -191,5 +191,7 @@ El análisis identifica una sola escena que opera arquetípicamente: la resoluci
 ## Citations
 
 
+
 - **Análisis arquetípico de Elemental** — chunks: [5:02](https://youtu.be/p8ZInoDuE50?t=302)
+- **Hambre y miedo (Cero). LOCUS** — chunks: [0:31](https://youtu.be/n2rtBxP-_e0?t=31) · [11:40](https://youtu.be/n2rtBxP-_e0?t=700)
 

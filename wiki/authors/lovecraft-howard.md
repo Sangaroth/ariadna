@@ -127,6 +127,35 @@ La página articulaba 'La extraña casa elevada entre la niebla' como cuento le�
   → [Análisis arquetípico: Asimov y Lovecraft. (58:40)](https://youtu.be/celiAdqrHYA?t=3520)
 
 - **'Ex oblivione'** (1921): prosa-poema breve donde el narrador huye de la locura cotidiana refugiándose en sueños recurrentes de un valle dorado con muro de hiedra y pequeña puerta de bronce; al obtener una droga que abre la cancela, atraviesa la puerta y es disuelto en el blanco vacío del olvido cristalino. Caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio). Página propia: [[ex-oblivione-lovecraft]].
+
+
+- **'Memoria'** (1919): prosa-poema temprana donde un genio lunar y un demonio del valle dialogan sobre las ruinas de un templo. El giro final revela que las criaturas-arquitectos eran hombres, recontextualizando el cuento como ciencia ficción retrospectiva. Caso paradigmático del esquema uránico/telúrico/cetónico ([[uranico-telurico-cetonico]]) articulado iconográficamente: genio arriba, demonio abajo, hombre fracasado dominado por monos en la superficie. Página propia: [[memoria-lovecraft]].
+  → [Terror: Lovecraft y lo incompleto (27:18)](https://youtu.be/JzfcmEKWm1c?t=1638)
+
+- **'La ciudad sin nombre'** (1921): primer intento del autor de construir una civilización completamente inventada. Un explorador solitario encuentra en el desierto de Arabia una ciudad más antigua que Memphis y Babilonia, con templos de proporciones bajas que resultan no ser deferencia religiosa sino la escala natural de los constructores reptilianos. Pieza foundational del barroquismo lovecraftiano funcional (la prosa sobrecargada como dispositivo de credibilidad descrita en sección 'Barroquismo como recurso de credibilidad'). Aparece la cita canónica de Abdul Alhazred. Página propia: [[la-ciudad-sin-nombre-lovecraft]].
+  → [Terror: Lovecraft y lo incompleto (32:58)](https://youtu.be/JzfcmEKWm1c?t=1978)
+
+- **'Los otros dioses'** (1921): Barzai el Sabio escala el Hatheg-Kla para contemplar a los dioses de la tierra y descubre que más allá de ellos existen 'los otros dioses' de los infiernos exteriores que los custodian. Cuento foundational por instaurar el **doble cielo lovecraftiano**: dos niveles divinos donde los dioses telúricos están a su vez vigilados por dioses uránicos malditos. La estructura se replica explícitamente en [[bloodborne-game]] (uránico maldito + cetónico maldito). Página propia: [[los-otros-dioses-lovecraft]].
+  → [Terror: Lovecraft y lo incompleto (1:11:53)](https://youtu.be/JzfcmEKWm1c?t=4313)
+
+- **'El ceremonial'** (1923): un hombre viaja a Kingsport para celebrar el rito secular que su familia mantiene cada 100 años. La masa encapuchada desciende en silencio por escalera espiral interminable hasta una costa fungosa subterránea con llamas verdes que no arrojan calor; el guía porta un reloj enterrado con el tatarabuelo del protagonista en 1698. Caso paradigmático de la SEGUNDA vía lovecraftiana al sobrenatural articulada arriba (instrumento ritual + conocimiento esotérico): el rito heredado familiarmente + el Necronomicón en la casa como par cognición/instrumento. Página propia: [[el-ceremonial-lovecraft]].
+  → [Terror: Lovecraft y lo incompleto (1:28:57)](https://youtu.be/JzfcmEKWm1c?t=5337)
+
+## El doble cielo lovecraftiano: dioses telúricos vs uránicos malditos
+
+La lectura íntegra de 'Los otros dioses' permite articular un dispositivo cosmológico canónico que el canal identifica como pieza foundational del horror lovecraftiano y de su herencia contemporánea:
+
+> "Lovecraft construye un doble nivel divino: los dioses de la tierra (telúricos) y los dioses terribles de esos dioses (uránicos malditos),"
+→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)
+
+> "El eclipse inexplicable funciona como apertura entre ambos planos,"
+→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)
+
+> "Bloodborne replica esta estructura con dioses que claman a la luna y dioses que provienen de lo profundo: un uránico maldito y un cetónico maldito,"
+→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)
+
+La pieza extiende la articulación ya documentada del horror cósmico como inversión arquetípica del animismo. Donde el animismo arcaico tenía un solo cielo benévolo poblado de espíritus protectores, Lovecraft instaura un **doble cielo** en el que los dioses primarios (telúricos, dioses-de-la-tierra retirados a cumbres altas) están a su vez sometidos a una potencia superior más oscura (los otros dioses, uránicos malditos). La consecuencia operativa: la elevación contemplativa hacia lo divino — gesto canónico del místico clásico — en Lovecraft NO conduce a la teofanía sino al descubrimiento del segundo nivel donde la divinidad benigna queda revelada como custodiada por entidades indiferentes u hostiles. La fórmula que Lovecraft instaura en 'Los otros dioses' (Barzai contempla a los dioses telúricos y descubre el abismo de los uránicos malditos detrás) opera estructuralmente en [[bloodborne-game]] como mecánica del Insight: cuanto más conocimiento esotérico acumula el cazador, más se le revelan los Grandes que estaban operando detrás del cosmos del juego. La pieza añade al aparato la cifra cosmológica que las secciones anteriores tenían dispersa: el horror lovecraftiano no es solo indiferencia cósmica genérica sino arquitectura específica de doble nivel divino.
+
   → [Análisis arquetípico: Asimov y Lovecraft. (1:22:42)](https://youtu.be/celiAdqrHYA?t=4962)
 
 
@@ -216,6 +245,7 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [22:35](https://youtu.be/IytpR6sGWXg?t=1355)
 - **Otoño de cuentos. Lovecraft** — chunks: [8:40](https://youtu.be/SwEqFdvBI9M?t=520) · [9:41](https://youtu.be/SwEqFdvBI9M?t=581) · [51:39](https://youtu.be/SwEqFdvBI9M?t=3099) · [1:05:01](https://youtu.be/SwEqFdvBI9M?t=3901) · [2:14:51](https://youtu.be/SwEqFdvBI9M?t=8091)
 - **Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne** — chunks: [3:04](https://youtu.be/9x8zTqpyZ5Q?t=184) · [15:12](https://youtu.be/9x8zTqpyZ5Q?t=912)
@@ -225,4 +255,5 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [5:43](https://youtu.be/krkUPzqTqTA?t=343)
 - **Leyendo a Lovecraft** — chunks: [14:33](https://youtu.be/clUIlcqD0o0?t=873) · [22:24](https://youtu.be/clUIlcqD0o0?t=1344) · [55:37](https://youtu.be/clUIlcqD0o0?t=3337) · [59:08](https://youtu.be/clUIlcqD0o0?t=3548)
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [58:40](https://youtu.be/celiAdqrHYA?t=3520) · [1:19:10](https://youtu.be/celiAdqrHYA?t=4750) · [1:22:42](https://youtu.be/celiAdqrHYA?t=4962) · [1:28:18](https://youtu.be/celiAdqrHYA?t=5298)
+- **Terror: Lovecraft y lo incompleto.** — chunks: [11:34](https://youtu.be/JzfcmEKWm1c?t=694) · [26:18](https://youtu.be/JzfcmEKWm1c?t=1578) · [1:05:19](https://youtu.be/JzfcmEKWm1c?t=3919) · [1:06:50](https://youtu.be/JzfcmEKWm1c?t=4010) · [1:27:22](https://youtu.be/JzfcmEKWm1c?t=5242) · [1:53:45](https://youtu.be/JzfcmEKWm1c?t=6825)
 

@@ -194,7 +194,10 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 ## Citations
 
 
+
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [20:13](https://youtu.be/BdVsvhTWWew?t=1213) · [25:16](https://youtu.be/BdVsvhTWWew?t=1516)
 
 
 - **Transhumanismo, IA y Ciencia Ficción.** — chunks: [1:34:45](https://youtu.be/kdk8mi7-Y1s?t=5685) · [1:12:41](https://youtu.be/kdk8mi7-Y1s?t=4361)
+- **Filosofía y ciencia del dolor** — chunks: [1:39:58](https://youtu.be/vgS1u1Kejkk?t=5998)
+

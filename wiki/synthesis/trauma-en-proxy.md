@@ -226,6 +226,29 @@ La consecuencia diagnóstica es operativa: las dos modalidades requieren interve
 
 
 
+## Anticristo: caso cinematográfico de TEPT complejo donde la exposición fracasa
+
+El análisis arquetípico de [[anticristo-2009-film|Anticristo]] (Lars von Trier, 2009) opera como caso clínico contrafáctico que cierra parcialmente la laguna sobre los límites de la exposición controlada. La protagonista pierde a su hijo en circunstancias donde ella estaba en clímax sexual mientras el niño caía por la ventana — el evento traumático queda atravesado por culpa estructural, no por miedo o asco, lo que la sitúa categorialmente en TEPT complejo.
+
+> "Su psiquiatra dice que su patrón de tristeza es atípico,"
+→ [No entendiste Anticristo. Análisis arquetípico (29:34)](https://youtu.be/0EeqbwZJUQw?t=1774)
+
+> "Ella confiesa \"fue culpa mía, yo sabía que se despertaba por las noches\" — el dolor se ha complicado con culpa,"
+→ [No entendiste Anticristo. Análisis arquetípico (29:34)](https://youtu.be/0EeqbwZJUQw?t=1774)
+
+El marido aplica el protocolo canónico de la página — terapia de exposición con regreso al lugar del trauma (la cabaña de Edén) acompañado del guía. La intervención, sin embargo, **activa** en lugar de desactivar:
+
+> "Ella cruza el puente corriendo como si le quemara el suelo, confirmando que la reexposición está activando el trauma,"
+→ [No entendiste Anticristo. Análisis arquetípico (1:15:29)](https://youtu.be/0EeqbwZJUQw?t=4529)
+
+> "El terapeuta ya no puede tratar con el dolor sino con el mal; el mal ha superado la capacidad terapéutica,"
+→ [No entendiste Anticristo. Análisis arquetípico (1:55:26)](https://youtu.be/0EeqbwZJUQw?t=6926)
+
+La pieza precisa el límite operativo del esquema: el TEPT complejo culpa-driven NO opera bien con exposición clásica porque la matriz afectiva donde culpa y pena residen no está en el evento sino en el sistema de significación posterior — exponer al sujeto al lugar del trauma re-instancia la culpa con resolución plena, sin permitir simplificación. La consecuencia narrativa de la película — la culpa cristaliza en madre oscura ([[madre-oscura-en-proxy]]) — opera como advertencia sobre la indicación clínica: el TEPT complejo requiere intervención sobre la matriz afectiva (trabajo sobre culpa-pena) antes que reexposición episódica. La doble figura terapeuta-cónyuge precipita además la contraindicación canónica: el rescate del dragón no puede operarlo quien forma parte de la guarida.
+
+
+
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: El vínculo entre **TEPT complejo** y rasgos de susceptibilidad individual queda -->

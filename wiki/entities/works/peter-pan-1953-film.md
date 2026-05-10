@@ -163,6 +163,8 @@ Los tres vectores masculinos del film — Peter (ánimus desintegrado que no cre
 
 
 
+
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [2:31](https://youtu.be/ClnayaScAjQ?t=151) · [8:44](https://youtu.be/ClnayaScAjQ?t=524) · [28:57](https://youtu.be/ClnayaScAjQ?t=1737) · [42:11](https://youtu.be/ClnayaScAjQ?t=2531) · [48:44](https://youtu.be/ClnayaScAjQ?t=2924) · [53:16](https://youtu.be/ClnayaScAjQ?t=3196) · [57:18](https://youtu.be/ClnayaScAjQ?t=3438) · [1:25:06](https://youtu.be/ClnayaScAjQ?t=5106) · [1:36:56](https://youtu.be/ClnayaScAjQ?t=5816) · [1:42:29](https://youtu.be/ClnayaScAjQ?t=6149) · [1:47:00](https://youtu.be/ClnayaScAjQ?t=6420) · [1:49:02](https://youtu.be/ClnayaScAjQ?t=6542) · [1:51:34](https://youtu.be/ClnayaScAjQ?t=6694) · [1:54:07](https://youtu.be/ClnayaScAjQ?t=6847)
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [29:44](https://youtu.be/OT2DW4zoKsE?t=1784) · [56:06](https://youtu.be/OT2DW4zoKsE?t=3366)
+- **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [1:17:47](https://youtu.be/CEa517aakr8?t=4667)
 

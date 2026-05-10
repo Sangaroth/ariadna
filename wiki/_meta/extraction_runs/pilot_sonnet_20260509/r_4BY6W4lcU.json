@@ -1,0 +1,239 @@
+{
+  "video_id": "r_4BY6W4lcU",
+  "video_title": "No entendiste HEREDITARY",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Hereditary (Ari Aster, 2018)",
+      "canonical_guess": "hereditary-2018-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 140,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película gira alrededor de la neurosis de la madre como eje de toda la tragedia,"
+        },
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "El director forzó la narrativa alrededor del tres incluso en elementos que naturalmente no son tres,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Tres historias en tres niveles: las brujas literales, la herencia de conflictos familiares tóxicos, y la esquizofrenia estricta,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.3 entity_work con criterios reforzados: vídeo monográfico 144 min dedicado íntegramente al análisis arquetípico; aplicación cruzada de frameworks ya canon (madre-oscura-en-proxy con variante abuela-level y usurpación maternal, trauma-en-proxy con sonambulismo traumático y automatismos por estrés postraumático, demonios-en-proxy con Paimon como caso de mal de posesión, herida-narcisista-en-proxy con la culpa transgeneracional como núcleo); articula además un caso paradigmático de TRIPLE INTERPRETACIÓN (literal/simbólico/clínico) que la película deja deliberadamente irresuelto. Caso estructural complementario a Anticristo en el catálogo de la madre oscura: donde Anticristo articula la modalidad culpa-brujería en la madre directa, Hereditary articula la modalidad usurpación-transgeneracional en la abuela.",
+      "quote_evidence": "Todo lo que nos va a contar transcurre dentro de la casa de muñecas — nunca salimos de la maqueta,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página.",
+  "pending_updates": [
+    {
+      "page_id": "madre-oscura-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "lo que distingue este vector del abuso explícito tratado por la psiquiatría clásica.",
+      "content_proposed": "\n\n## Hereditary (Ari Aster, 2018): la madre oscura abuela y la usurpación transgeneracional\n\n[[hereditary-2018-film|Hereditary]] añade al catálogo una variante operativamente distinta de las anteriores: la madre oscura **a nivel abuela**, donde la corrupción del polo materno NO opera sobre el hijo directo sino sobre el nieto, sustituyendo la función materna de la propia hija para inocular el mal en la siguiente generación.\n\n> \"La abuela no permitía a Annie amamantar a Charlie: usurpaba la maternidad de su hija,\"\n→ [No entendiste HEREDITARY (31:42)](https://youtu.be/r_4BY6W4lcU?t=1902)\n\n> \"La madre oscura es la que devora a los hijos de los demás en lugar de engendrar vida,\"\n→ [No entendiste HEREDITARY (31:42)](https://youtu.be/r_4BY6W4lcU?t=1902)\n\n> \"La madre oscura sustituye la maternidad de su hija para inocular el mal en la descendencia,\"\n→ [No entendiste HEREDITARY (1:54:53)](https://youtu.be/r_4BY6W4lcU?t=6893)\n\nLa pieza articula un **mecanismo nuevo** que las variantes Disney (Gothel, madrastra) y Anticristo no recogían: la usurpación maternal como pieza estructural — no es solo no-nutricia (privación) ni daño deliberado al hijo (Lilith), sino que **toma activamente el lugar de la madre buena** que le correspondía ejercer a la hija. La consecuencia operativa: la hija (Annie) queda atrapada en doble carencia — no recibió nutrición materna genuina (la abuela era oscura con ella) y tampoco puede ejercer maternidad genuina porque su propio papel materno fue colonizado por la madre oscura precedente. La maternidad oscura, así, NO es solo modo defectuoso de cuidar al hijo: es **operación apropiativa** que rompe simultáneamente dos eslabones generacionales de la cadena nutricia.\n\n### La replicación transgeneracional: el mal heredado y duplicado\n\nLa pieza simbólica que cifra el mecanismo es la escultura de tres casas que aparece junto a la escalera de la casa familiar — articulación visual de la **mecánica transgeneracional**:\n\n> \"Junto a la escalera hay una miniatura de tres casas apiladas: una enterrada, una a medias, una en superficie,\"\n→ [No entendiste HEREDITARY (1:24:31)](https://youtu.be/r_4BY6W4lcU?t=5071)\n\n> \"Representa tres generaciones que se construyen sobre los restos intactos de la anterior sin haber sanado,\"\n→ [No entendiste HEREDITARY (1:24:31)](https://youtu.be/r_4BY6W4lcU?t=5071)\n\n> \"El mal se hereda y se duplica: la estirpe se replica construyéndose sobre las cenizas del anterior,\"\n→ [No entendiste HEREDITARY (1:24:31)](https://youtu.be/r_4BY6W4lcU?t=5071)\n\nLa cifra (casa enterrada / casa a medias / casa en superficie) articula la mecánica generativa del polo oscuro materno: cada generación construye sobre las ruinas no sanadas de la anterior, sin acceso a los cimientos podridos que sostienen lo manifiesto. La madre oscura no termina con su muerte — su material no integrado se transfiere a la generación siguiente como condición estructural del psiquismo de los descendientes. Annie es producto de Ellen-Leigh-madre-oscura y se ve obligada a replicar el patrón con sus propios hijos no por elección sino porque el material materno con el que cuenta es el que recibió.\n\n### Convergencia de las tres lecturas sobre el mismo sustrato arquetípico\n\nLa película articula deliberadamente tres niveles de interpretación irresueltos: brujería literal (la abuela y Joan invocan a Paimon), simbolismo (relaciones familiares tóxicas heredadas), psicosis estricta (esquizofrenia hereditaria que la madre manifiesta).\n\n> \"Todo puede ser real por brujería, simbólico sobre relaciones tóxicas familiares, o un delirio esquizofrénico de la madre,\"\n→ [No entendiste HEREDITARY (2:11:06)](https://youtu.be/r_4BY6W4lcU?t=7866)\n\nLas tres lecturas convergen sobre el mismo mecanismo arquetípico: la replicación transgeneracional de la corrupción del polo materno opera estructuralmente igual sea cual sea el vehículo causal (ritual demoníaco, transmisión psicológica, herencia genético-clínica). La pieza importa para el catálogo: la madre oscura como categoría arquetípica precede ontológicamente a sus encarnaciones causales — el mecanismo sobreviva a la indeterminación entre brujería, neurosis y psicosis, lo que confirma su estatus arquetípico genuino frente a su mera ocurrencia narrativa.\n",
+      "wikilinks_introduced": [
+        "hereditary-2018-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "r_4BY6W4lcU",
+          "timestamp_seconds": 1902,
+          "cite_markdown": "[No entendiste HEREDITARY (31:42)](https://youtu.be/r_4BY6W4lcU?t=1902)"
+        },
+        {
+          "video_id": "r_4BY6W4lcU",
+          "timestamp_seconds": 6893,
+          "cite_markdown": "[No entendiste HEREDITARY (1:54:53)](https://youtu.be/r_4BY6W4lcU?t=6893)"
+        },
+        {
+          "video_id": "r_4BY6W4lcU",
+          "timestamp_seconds": 5071,
+          "cite_markdown": "[No entendiste HEREDITARY (1:24:31)](https://youtu.be/r_4BY6W4lcU?t=5071)"
+        },
+        {
+          "video_id": "r_4BY6W4lcU",
+          "timestamp_seconds": 7866,
+          "cite_markdown": "[No entendiste HEREDITARY (2:11:06)](https://youtu.be/r_4BY6W4lcU?t=7866)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo en triple eje: (1) variante MECANÍSTICA nueva del arquetipo madre oscura (usurpación maternal a nivel abuela) que las variantes Disney (Gothel, madrastra) y Anticristo no recogían; (2) articulación explícita de la replicación TRANSGENERACIONAL del polo materno corrupto, que cierra la laguna 'Genealogía recursiva' declarada por la página; (3) convergencia metodológica de las tres lecturas (brujería/simbolismo/clínica) sobre el mismo sustrato arquetípico, confirmando estatus de la madre oscura como categoría que precede a sus vehículos causales narrativos.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "madre-oscura-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "supersedes_laguna_text": "**Genealogía recursiva**: el mecanismo por el que la madre oscura cristaliza su propia herida (la madre oscura como producto de su propia madre oscura) está referenciado en el candidato pero sin cita literal disponible en el fragmento",
+      "content_proposed": "Resuelta por sección 'Hereditary (Ari Aster, 2018): la madre oscura abuela y la usurpación transgeneracional' — la película articula explícitamente la replicación transgeneracional vía cifra de tres casas apiladas y caso de Annie como producto de Ellen Leigh, madre oscura precedente.",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La sección añadida documenta literalmente la genealogía recursiva con citas (escultura de tres casas, 'el mal se hereda y se duplica', usurpación maternal de Charlie) y articula el mecanismo: la madre oscura no termina con su muerte porque su material no integrado se transfiere a la generación siguiente como condición estructural.",
+      "editorial_intent": "resolve_laguna"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Ari Aster",
+      "reason_code": "passing_mention",
+      "reason_detail": "Director de la obra, mencionado contextualmente como autor del diseño narrativo (forzar el tres, Photoshop en la foto de la abuela, la idea original de Annie como paciente del padre). NO articulado como autor-teórico ni como marco aplicado. Vivirá en hereditary-2018-film con la lectura específica.",
+      "quote_evidence": "El director forzó la narrativa alrededor del tres incluso en elementos que naturalmente no son tres,",
+      "review_priority": "medium",
+      "review_priority_reason": "si futuras sesiones procesan análisis de Midsommar u otras obras de Aster, considerar promoción como author. Aster construye explícitamente narrativa arquetípica con simbología deliberada, lo que lo distingue del director-meramente-talentoso",
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "demonio Paimon",
+      "reason_code": "in_work_character",
+      "reason_detail": "Demonio del grimorio Ars Goetia usado como pieza simbólica del primer nivel de interpretación de la película (brujería literal). El número 333, las tres cabezas, el ritual de invocación son elementos internos del lore. La página demonios-en-proxy ya articula los cuatro tipos del mal incluido el mal de posesión; Paimon vivirá como caso aplicativo en hereditary-2018-film con cita-only enrichment a demonios-en-proxy.",
+      "quote_evidence": "Paimon es un demonio real del grimorio Ars Goetia que trae poder, sabiduría y conocimiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "demonios-en-proxy"
+    },
+    {
+      "surface_form": "Heracles y Deyanira",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mito griego invocado en la película (la profesora pregunta sobre la tragedia, prefigura la muerte del padre por la capa envenenada). Mención sin desarrollo del mito. Captable como cita-only si tiene página relevante; por ahora vivirá en hereditary-2018-film.",
+      "quote_evidence": "Annie quema el cuaderno y en lugar de arder ella arde el padre, igual que Heracles con la capa envenenada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "distinción sufrimiento / sacrificio",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal articulada brevemente: 'el sufrimiento se padece pero el sacrificio se entrega porque crees que merece la pena'. Aplicada al análisis de la carta de la abuela (Satoni). Mención puntual sin desarrollo sostenido. Conecta con la página trastorno-limite-y-eutanasia-en-proxy ('la misión es acabar con el mal, no con el sufrimiento') y trauma-en-proxy. Candidata a futura articulación si recurre.",
+      "quote_evidence": "El sufrimiento se padece pero el sacrificio se entrega porque crees que merece la pena: distinción fundamental,",
+      "review_priority": "high",
+      "review_priority_reason": "distinción sufrimiento/sacrificio podría merecer concept page propio si recurre — opera transversalmente en trauma-en-proxy, trastorno-limite-y-eutanasia, y madre-oscura. Pieza estructural del marco moral del canal",
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "triple interpretación (literal/simbólico/clínico)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Marco metodológico articulado para Hereditary: tres niveles de interpretación irresueltos. Es framework analítico aplicado a obra específica, no thesis del canal sobre análisis arquetípico en general. La pieza se captura en el rationale de la promoción de hereditary-2018-film y vivirá íntegramente en esa página como dispositivo formal de la obra.",
+      "quote_evidence": "Todo puede ser real por brujería, simbólico sobre relaciones tóxicas familiares, o un delirio esquizofrénico de la madre,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre como framework metodológico aplicado a otras obras del corpus (donde la indeterminación interpretativa es estructural), podría merecer concept page sobre 'lecturas convergentes' o 'sobredeterminación arquetípica'",
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "sonambulismo traumático / automatismos por estrés postraumático",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Pieza clínica articulada: 'no es sonambulismo estricto sino ausencias por estrés postraumático que provocan automatismos'. Caso aplicado a Annie. La página trauma-en-proxy articula el TEPT con detalle pero no recoge específicamente la modalidad de automatismos disociativos como manifestación somática.",
+      "quote_evidence": "No es sonambulismo estricto sino ausencias por estrés postraumático que provocan automatismos,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo en otros vídeos sobre TEPT y manifestaciones somáticas, podría enriquecer trauma-en-proxy con sección sobre automatismos disociativos",
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "esquizofrenia hereditaria",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Pieza clínica articulada como uno de los tres niveles de la película (psicosis progresiva como explicación de toda la fenomenología sobrenatural). Concepto clínico estándar (componente genético + activación ambiental por marihuana, traumas familiares) usado como herramienta interpretativa, no thesis del canal. Captable en psiquiatria-y-teoria-de-la-mente.",
+      "quote_evidence": "Las tres enfermedades de la familia (psicosis, esquizofrenia, disociación con demencia) son todas hereditarias,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, podría enriquecer psiquiatria-y-teoria-de-la-mente con sección sobre cuadros hereditarios",
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente"
+    },
+    {
+      "surface_form": "maquetas como pensamiento recursivo de la culpa",
+      "reason_code": "in_work_character",
+      "reason_detail": "Pieza simbológica interna: las miniaturas de Annie como expresión de obsesividad neurótica (termita en la mente). Lectura específica de la obra, vivirá en hereditary-2018-film.",
+      "quote_evidence": "Las maquetas representan el pensamiento recursivo de la culpa como una termita clavada en la mente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "no se puede destruir el fantasma sin destruirse a uno mismo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Articulación canal sobre la integración del trauma (la página trauma-en-proxy ya articula el principio mitológico equivalente: 'la única forma de acabar con la noche oscura es lanzarse contra el dragón para rescatar a la princesa'). Pieza aplicada al análisis de Hereditary, no thesis nueva.",
+      "quote_evidence": "No puedes eliminar la manifestación del problema porque el problema está en ti,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "culpa transgeneracional / transferencia de la culpa",
+      "reason_code": "already_captured",
+      "reason_detail": "Mecanismo articulado: la culpa pasa de la madre al hermano que prometió cuidar de Charlie. Es aplicación del marco de herida-narcisista-en-proxy (la culpa como motor estructural) y queda capturada en hereditary-2018-film + en el pending_update a madre-oscura-en-proxy (replicación transgeneracional).",
+      "quote_evidence": "La persona que más culpable se siente ya no es la madre sino Peter por la muerte de su hermana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "foto retocada con Photoshop / técnica del incomodo sin saber por qué",
+      "reason_code": "in_work_character",
+      "reason_detail": "Detalle de producción de la película (la foto de la abuela retocada digitalmente para producir incomodidad subliminal). Elemento técnico de la obra, vivirá en hereditary-2018-film.",
+      "quote_evidence": "La figura fue retocada con Photoshop para que produzca incomodidad sin saber exactamente por qué,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "casa-maqueta como tres niveles de realidad",
+      "reason_code": "in_work_character",
+      "reason_detail": "Recurso formal de Hereditary (la cámara entra en la maqueta para indicar que toda la película transcurre dentro de la casa de muñecas). Pieza simbólica interna, vivirá en hereditary-2018-film.",
+      "quote_evidence": "Todo lo que nos va a contar transcurre dentro de la casa de muñecas — nunca salimos de la maqueta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "enfermedad como dinámica familiar (los sanos sufren más)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis psicológica articulada brevemente sobre dinámica familiar ante enfermedad crónica. Mención sin desarrollo sostenido. Captable en herida-narcisista o vinculo si recurre.",
+      "quote_evidence": "Cuando en una familia hay enfermedad, la dinámica más frecuente es que los demás sufren más que el enfermo,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, podría enriquecer vinculo o crear concept sobre dinámica familiar de enfermedad crónica",
+      "enriches_concept": "vinculo"
+    },
+    {
+      "surface_form": "Annie / Peter / Charlie / Stephen Graham",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personajes de la obra. Vivirán íntegramente en hereditary-2018-film con sus lecturas arquetípicas (madre neurótica, hermano que hereda la culpa, niña que pertenece a lo extraño, padre psiquiatra como calma frente a tensión).",
+      "quote_evidence": "Annie está casada con el doctor Stephen Graham, psiquiatra, y tienen dos hijos: Peter y Charlie,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hereditary-2018-film"
+    },
+    {
+      "surface_form": "Ellen Leigh (la abuela)",
+      "reason_code": "already_captured",
+      "reason_detail": "Personaje central como caso paradigmático de la madre oscura abuela-level. Capturada en pending_update a madre-oscura-en-proxy y vivirá íntegramente en hereditary-2018-film.",
+      "quote_evidence": "Ellen Leigh de 78 años fallece en casa de su hija Annie el 3 de abril de 2018,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "madre-oscura-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Hereditary (Ari Aster, 2018)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

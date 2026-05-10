@@ -70,6 +70,36 @@ La pieza importa por dos razones operativas. Primera: fija la triada como pieza 
 
 
 
+## Memoria de Lovecraft: el caso paradigmático del esquema en literatura
+
+El cuento [[memoria-lovecraft|Memoria]] (Lovecraft, 1919) leído íntegramente en directo articula la triada explícitamente como dispositivo dramatúrgico: el diálogo entre un genio lunar y un demonio del valle distribuye iconográficamente las tres regiones sobre los tres tipos de personaje del cuento.
+
+> "El genio representa lo uránico (arriba, los dioses lunares, los mitos que el hombre imagina),"
+→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)
+
+> "El demonio representa lo cetónico (abajo, las profundidades, el pecado),"
+→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)
+
+> "El hombre fracasado, ahora dominado por monos, ocupa lo telúrico (la superficie de la tierra),"
+→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)
+
+> "El demonio siempre está abajo y los genios siempre están arriba como principio simbólico,"
+→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)
+
+La pieza es operativa porque Lovecraft instaura el esquema como **principio iconográfico universal** ('el demonio siempre está abajo y los genios siempre están arriba') y simultáneamente lo aplica al cuento concreto. Memoria opera entonces como caso de literatura donde la triada NO es lectura interpretativa post-hoc del canal sino dispositivo manifiesto de la propia obra — los personajes están explícitamente distribuidos por región. La consecuencia para la lectura del corpus: cualquier obra lovecraftiana posterior puede leerse buscando esta distribución tripartita de los agentes narrativos, no solo el horror cósmico genérico.
+
+### Los otros dioses: el doble cielo y el refinamiento de la región uránica
+
+El mismo directo añade una pieza estructural que la página declaraba como laguna ('**Uránico desarrollado**: el material recuperado articula con detalle telúrico y cetónico... pero deja lo uránico apenas definido'): la región uránica se desdobla en [[los-otros-dioses-lovecraft|el cuento homónimo]] entre **uránico benévolo** (los dioses de la tierra retirados a cumbres altas, susceptibles de teofanía clásica) y **uránico maldito** (los otros dioses de los infiernos exteriores que custodian a los primeros).
+
+> "Lovecraft construye un doble nivel divino: los dioses de la tierra (telúricos) y los dioses terribles de esos dioses (uránicos malditos),"
+→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)
+
+La pieza precisa el alcance del esquema: lo uránico NO es región monolítica sino territorio que admite su propia bisección interna. La narrativa uránica clásica (gran padre celestial que aguarda al héroe digno, articulada en sección anterior) opera en el sub-registro uránico benévolo; el horror cósmico lovecraftiano opera en el sub-registro uránico maldito (los dioses indiferentes-hostiles que vigilan a los benévolos). La consecuencia para la cosmología del canal: el equilibrio telúrico articulado en [[gothika-2003-film|Gothika]] como criterio de salud psíquica debe entenderse como integración entre los polos saludables (uránico benévolo, telúrico habitable, cetónico contenido), distinto del desequilibrio que opera por contacto con uránico maldito o con cetónico desbordado. La triada gana así matiz operativo: cada región tiene su propia bisección interna entre modalidad sostenible y modalidad maldita.
+
+
+
+
 
 ## La narrativa uránica: el gran padre celestial que espera al héroe digno
 

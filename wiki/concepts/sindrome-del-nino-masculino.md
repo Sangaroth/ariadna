@@ -220,6 +220,9 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 
 
 
+
+
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 - **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
@@ -243,4 +246,7 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 - **Event Horizon** — chunks: [1:26:33](https://youtu.be/cgO7JwvwOQg?t=5193) · [1:41:48](https://youtu.be/cgO7JwvwOQg?t=6108)
 - **Matrix II y III** — chunks: [12:45](https://youtu.be/tkVwAclFrsI?t=765)
 - **Matrix y el camino del héroe.** — chunks: [57:56](https://youtu.be/kF5KHE_fF7g?t=3476)
+- **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [18:55](https://youtu.be/0EeqbwZJUQw?t=1135) · [2:04:06](https://youtu.be/0EeqbwZJUQw?t=7446)
+- **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [16:32](https://youtu.be/iPqOn-ynSlE?t=992)
+- **El mito de Dioniso** — chunks: [14:15](https://youtu.be/ttnUgH3jou8?t=855) · [15:45](https://youtu.be/ttnUgH3jou8?t=945)
 

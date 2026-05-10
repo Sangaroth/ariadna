@@ -284,7 +284,11 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 
 
 
+
+
 - **Análisis: La Llegada (Parte dos)** — chunks: [20:15](https://youtu.be/tOn66qFS2-M?t=1215)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [0:00](https://youtu.be/aPbgBnidoJI?t=0) · [11:39](https://youtu.be/aPbgBnidoJI?t=699)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [49:36](https://youtu.be/TmQiM16HIpU?t=2976)
+- **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:35:20](https://youtu.be/iPqOn-ynSlE?t=5720)
+- **Educación, escuela y tecnología** — chunks: [18:33](https://youtu.be/TnbtB4d68wU?t=1113)
 

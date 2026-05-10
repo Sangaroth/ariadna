@@ -170,5 +170,9 @@ Esta duplicidad —Pandora que libera lo que no puede custodiar, Dios maligno qu
 ## Citations
 
 
+
+
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [51:06](https://youtu.be/Sszbs7CG0cQ?t=3066) · [52:36](https://youtu.be/Sszbs7CG0cQ?t=3156) · [55:37](https://youtu.be/Sszbs7CG0cQ?t=3337) · [57:45](https://youtu.be/Sszbs7CG0cQ?t=3465) · [58:46](https://youtu.be/Sszbs7CG0cQ?t=3526) · [59:46](https://youtu.be/Sszbs7CG0cQ?t=3586) · [1:00:48](https://youtu.be/Sszbs7CG0cQ?t=3648) · [1:02:18](https://youtu.be/Sszbs7CG0cQ?t=3738) · [1:04:19](https://youtu.be/Sszbs7CG0cQ?t=3859) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040)
+- **Un Gólem llamado Prometeo.** — chunks: [0:39](https://youtu.be/Uykl0PLRRlo?t=39) · [8:14](https://youtu.be/Uykl0PLRRlo?t=494) · [21:12](https://youtu.be/Uykl0PLRRlo?t=1272) · [39:56](https://youtu.be/Uykl0PLRRlo?t=2396) · [1:19:53](https://youtu.be/Uykl0PLRRlo?t=4793) · [1:33:10](https://youtu.be/Uykl0PLRRlo?t=5590)
+- **Un Gólem llamado Prometeo** — chunks: [15:51](https://youtu.be/lk3DKsIagAE?t=951) · [26:32](https://youtu.be/lk3DKsIagAE?t=1592) · [35:44](https://youtu.be/lk3DKsIagAE?t=2144) · [59:32](https://youtu.be/lk3DKsIagAE?t=3572) · [1:04:08](https://youtu.be/lk3DKsIagAE?t=3848) · [1:24:34](https://youtu.be/lk3DKsIagAE?t=5074) · [1:31:39](https://youtu.be/lk3DKsIagAE?t=5499) · [1:33:10](https://youtu.be/lk3DKsIagAE?t=5590) · [1:34:41](https://youtu.be/lk3DKsIagAE?t=5681) · [1:45:12](https://youtu.be/lk3DKsIagAE?t=6312)
 

@@ -1,0 +1,245 @@
+{
+  "video_id": "ifKRYGlHwuk",
+  "video_title": "La enfermedad del aburrimiento.",
+  "playlist": "entrevistas",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "el aburrimiento (como categoría psicológica articulada)",
+      "canonical_guess": "aburrimiento-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 70,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El aburrimiento es el desajuste entre la necesidad de estimulación y lo que se recibe del entorno,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Asociar aburrimiento con descanso es un error grave; cuando te aburres, el cerebro trabaja más buscando una salida,"
+        },
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Tolstoy definió el aburrimiento como \"el deseo de tener deseos\", lo cual genera estrés y ansiedad,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Blumenberg introduce el concepto de aburrimiento funcional y adaptativo: señala situaciones que se han quedado obsoletas para el individuo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.1 concept criteria con criterio Monográfico ≥10 min sostenido (la totalidad del vídeo de 76min está dedicada a articular el aburrimiento como categoría psicológica multidimensional) + framing-mark (aplicado como marco analítico) + estructura interna articulada (definición operativa, distinción aburrimiento≠descanso, mecanismo ansiedad anticipatoria, función adaptativa Blumenberg, aburrimiento patológico, consecuencias clínicas, personalidad asociada, fantasía como compensación, crítica al modelo digital algorítmico, terapéutica). El framework integra referencias externas (Tolstoy, Blumenberg, sistema septo-hipocampal, DSM) con extensiones canal-específicas: catálogo de opciones vitales como mecanismo cognitivo, algoritmos como sustituto del catálogo interno, crítica al 'derecho a no hacer nada' como absurdo filosófico. Conecta operativamente con anatomia-de-la-fantasia-y-sindrome-delirante (fantasía como mecanismo de defensa frente a falta de estimulación), psiquiatria-y-teoria-de-la-mente (medicalización del malestar cotidiano), trauma-en-proxy (aburrimiento crónico como dolor cronificado con tolerancia), camino-victima (consecuencias clínicas del bloqueo).",
+      "quote_evidence": "El aburrimiento es una experiencia dolorosa que surge cuando la relación con el entorno está dañada por un desequilibrio en la estimulación,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Hans Blumenberg / aburrimiento funcional adaptativo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Filósofo alemán cuyo concepto de 'aburrimiento funcional y adaptativo' es invocado como pieza central del framework articulado. El aburrimiento como señal evolutiva de obsolescencia situacional. Mención sin desarrollo extensivo de Blumenberg como autor pero el concepto es load-bearing en la articulación. Captable en aburrimiento-en-proxy con cita explícita.",
+      "quote_evidence": "Blumenberg introduce el concepto de aburrimiento funcional y adaptativo: señala situaciones que se han quedado obsoletas para el individuo,",
+      "review_priority": "high",
+      "review_priority_reason": "figura load-bearing en filosofía continental contemporánea (mito, técnica, modernidad). Si recurre con desarrollo, candidato a author page",
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "Tolstoy / el deseo de tener deseos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cita de Tolstoy invocada como definición foundational del aburrimiento ('el deseo de tener deseos'). Pieza poética que vehicula la tesis ansiedad-sin-objeto. Mención breve sin desarrollo de Tolstoy como autor.",
+      "quote_evidence": "Tolstoy definió el aburrimiento como \"el deseo de tener deseos\", lo cual genera estrés y ansiedad,",
+      "review_priority": "medium",
+      "review_priority_reason": "figura literaria load-bearing. Si recurre con análisis sustantivo de su obra, candidato a author page",
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "sistema septo-hipocampal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Estructura neuroanatómica vinculada con la ansiedad sin objeto definido (ansiedad anticipatoria). Pieza neurofisiológica que sostiene la tesis 'aburrimiento como ansiedad'. Mención técnica sin desarrollo monográfico.",
+      "quote_evidence": "Existen formas ansiosas sin objeto definido (ansiedad anticipatoria, ansiedad de fondo) que se vinculan con el sistema septo-hipocampal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "crítica política al 'derecho a aburrirse' / reducción de jornada laboral",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica explícita del speaker al discurso político que vincula reducción de jornada laboral con 'derecho a aburrirse' como absurdo filosófico, psicológico y biológico. Pieza cultural-política que conecta con consumismo-critica y diagrama-de-proxy. Pero rozando con el límite de scope §3 (politiqueo coyuntural vs análisis estructural).",
+      "quote_evidence": "El discurso político que vincula reducción de jornada laboral con \"derecho a aburrirse\" es un absurdo filosófico, psicológico y biológico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "significado como antídoto del aburrimiento",
+      "reason_code": "already_captured",
+      "reason_detail": "Tesis articulada: el significado (aquello en lo que inviertes tiempo y sientes que no lo desperdicias) es antídoto operativo del aburrimiento. Las personas creyentes son menos propensas porque la fe dota de sentido la cotidianidad. Capturado en aburrimiento-en-proxy como pieza nuclear del framework.",
+      "quote_evidence": "\"Significado\" se usa aquí en su acepción mundana: aquello en lo que inviertes tu tiempo y sientes que tiene sentido, que no lo desperdicias,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "catálogo de opciones vitales / algoritmos como sustituto",
+      "reason_code": "already_captured",
+      "reason_detail": "Concepto canal-articulado: el cerebro mantiene un catálogo personal de opciones que recorre frente al aburrimiento; los algoritmos digitales realizan ahora esa función externamente, mermando la capacidad de elaboración propia. Pieza importante del framework. Conecta con consumismo-critica (capitalismo de la vigilancia) y teoria-de-la-memoria-en-proxy.",
+      "quote_evidence": "Los algoritmos digitales realizan la función que antes hacía el cerebro inconscientemente: recuperar opciones del catálogo personal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "aburrimiento crónico → conductas desadaptativas",
+      "reason_code": "already_captured",
+      "reason_detail": "Cadena clínica articulada: aburrimiento crónico sin salida → violencia, antisocialidad, adicciones (drogas, juego, sexo, pornografía), autolesiones, conducción temeraria. La represión del deseo no materializado conduce a la bestialidad. Pieza clínica del framework, capturada en aburrimiento-en-proxy. Conecta con trauma-en-proxy (dolor cronificado) y trastorno-limite-y-eutanasia-en-proxy (autolesiones).",
+      "quote_evidence": "El aburrimiento crónico sin salida desemboca en conductas violentas, antisociales, adicciones (drogas, juego, sexo, pornografía), autolesiones y conducción temeraria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "fantasía como mecanismo de defensa frente a estimulación externa insuficiente",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Articulación sobre cómo personas que no encuentran adaptación en el exterior buscan estimulación interior mediante fantasía. Conecta directamente con la página anatomia-de-la-fantasia-y-sindrome-delirante (que articula la fantasía como instinto cognitivo + forma recreativa-onánica). Refina la articulación: la fantasía NO es solo recreativa sino compensatoria cuando el primer input externo falla.",
+      "quote_evidence": "Las personas que no encuentran adaptación en el exterior buscan estimulación interior mediante mecanismos de defensa como la fantasía,",
+      "review_priority": "high",
+      "review_priority_reason": "refinamiento operativo de anatomia-de-la-fantasia-y-sindrome-delirante: la fantasía como compensación de la falla del input externo. Si recurre con desarrollo, podría enriquecer esa página con sección sobre fantasía-como-defensa",
+      "enriches_concept": "anatomia-de-la-fantasia-y-sindrome-delirante"
+    },
+    {
+      "surface_form": "medicalización del aburrimiento / DSM",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Posicionamiento del speaker contra la medicalización del aburrimiento. El DSM cuestionado, evitar medicalizar malestares cotidianos. Primero observar factor exógeno-contextual antes de considerar lo endógeno. Conecta con psiquiatria-y-teoria-de-la-mente (postura general del canal sobre clasificaciones diagnósticas).",
+      "quote_evidence": "El DSM está cuestionado y se persigue evitar la medicalización de malestares cotidianos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente"
+    },
+    {
+      "surface_form": "meditación: beneficios y contraindicaciones",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis articulada: la meditación puede ser terapéutica para reajustar expectativas pero existe riesgo de rumiación obsesiva, especialmente en personas mayores. La atención debe ser personalizada — cualquier herramienta funciona para unos y es contraproducente para otros. Pieza clínica relevante.",
+      "quote_evidence": "Existe el riesgo de que la meditación conduzca a estados de rumiación obsesiva en lugar de calma, especialmente en personas mayores,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, podría enriquecer trauma-en-proxy o producir concept page sobre meditación si el canal articula tesis sostenida",
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "narcisismo / procrastinación / introspección como rasgos vinculados",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Personas ensimismadas repelen estímulo externo. Mito 'el que se aburre es porque es poco curioso' es contrario a la evidencia. Conecta con herida-narcisista-en-proxy y posiblemente psicoinfluencers-en-proxy.",
+      "quote_evidence": "El aburrimiento se ha relacionado con narcisismo, tendencia a la procrastinación y personalidad introspectiva,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "falsa abundancia de opciones tecnológica / 60% de personas desorientadas",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis sobre la modernidad ofreciendo catálogo aparentemente infinito que es en realidad reducción brutal. 60% de personas desorientadas frente a sobreabundancia. Conecta con consumismo-critica.",
+      "quote_evidence": "La modernidad parece ofrecer un catálogo infinito de actividades, pero en realidad es una reducción brutal: siempre es lo mismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "aburrimiento en la tercera edad",
+      "reason_code": "in_work_character",
+      "reason_detail": "Pieza clínica sobre el catálogo reducido en la vejez + cambio en percepción temporal. La transición entre 'estar' y 'hacer' a lo largo de la vida. Pieza específica del aparato del aburrimiento aplicado a edad avanzada. Capturable en aburrimiento-en-proxy.",
+      "quote_evidence": "En la vejez el catálogo de opciones se reduce pero también cambia la necesidad de estimulación cognitiva,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "crítica a modelos de atención masivos en residencias",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Posicionamiento crítico: ofrecer entretenimiento al por mayor es absurdo porque el aburrimiento es experiencia personal. Los modelos actuales de atención a la dependencia carecen de recursos para personalización. Pieza socio-sanitaria. Conecta con teocracia-agnostica-y-victimologia-institucional.",
+      "quote_evidence": "Los modelos actuales de atención a la dependencia carecen de recursos para ofrecer atención personalizada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "anfetaminas y metilxantinas como recursos farmacológicos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Estado de la investigación: psicología experimental con anfetaminas reduce aburrimiento cronificado pero remedio peor que enfermedad. Metilxantinas (cafeína) como recurso clásico contra fatiga laboral. Pieza farmacológica menor.",
+      "quote_evidence": "Sí existe psicología experimental con anfetaminas que demuestra reducción del aburrimiento cronificado, aunque el remedio es peor que la enfermedad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "pensamiento crítico no se entrena con disciplinas sino con capacidad cognitiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis lateral del speaker: no existen disciplinas que entrenen el pensamiento crítico per se. Los sistemas formales (entre matemáticas y lingüística) podrían ser excepción por generar conocimiento transferible. Conecta tangencialmente con epistemologia-de-la-psicologia-en-proxy y inteligencia-y-adaptacion-en-proxy.",
+      "quote_evidence": "No existen disciplinas que entrenen el pensamiento crítico per se; las materias se aproximan con más o menos curiosidad y capacidad,",
+      "review_priority": "medium",
+      "review_priority_reason": "tesis sobre transferibilidad del conocimiento entre disciplinas. Si recurre con desarrollo, podría enriquecer epistemologia-de-la-psicologia-en-proxy",
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy"
+    },
+    {
+      "surface_form": "personalidad filosófica / preguntas sin respuestas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza biográfica/caracterológica del speaker (o entrevistado): la pasión filosófica como tener preguntas sin respuestas, conciencia temprana de la muerte, inquietud existencial. No constituye tesis enciclopédica.",
+      "quote_evidence": "La pasión por la filosofía se caracteriza por tener preguntas pero nunca tener respuestas definitivas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "René Descartes / genio maligno cartesiano",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención del genio maligno cartesiano como ejemplo de gran pregunta existencial. Sin desarrollo de Descartes como autor.",
+      "quote_evidence": "La conciencia temprana de la muerte y las grandes preguntas existenciales (casualidad de la existencia, el genio maligno cartesiano) acompañan desde la infancia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "aburrimiento patológico vs adaptativo (distinción)",
+      "reason_code": "already_captured",
+      "reason_detail": "Distinción nuclear capturada en aburrimiento-en-proxy: el adaptativo (señal Blumenberg) cumple función biológica; el patológico ocurre cuando se es incapaz de imaginar escenario más deseable. Aburrimiento cronificado desarrolla tolerancia.",
+      "quote_evidence": "El aburrimiento patológico ocurre cuando se es incapaz de imaginar un escenario más deseable y se queda atrapado en el dolor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "cárceles como ejemplo paradigmático de aburrimiento crónico",
+      "reason_code": "in_work_character",
+      "reason_detail": "Las prisiones como ejemplo paradigmático de aburrimiento cronificado donde se sabe qué se desea hacer pero el contexto impide materializarlo. Pieza ilustrativa del framework, vivirá en aburrimiento-en-proxy.",
+      "quote_evidence": "El aburrimiento cronificado aparece cuando se sabe qué se desea hacer pero el contexto impide materializarlo (ejemplo paradigmático: las prisiones),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 20,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_format_note": "Vídeo formato 'entrevistas / psicología' con articulación monográfica sostenida (76min) sobre el aburrimiento como categoría psicológica. Promoción de aburrimiento-en-proxy como concept page que integra el framework articulado en este vídeo (definición, mecanismo ansiedad, función Blumenberg, patología, personalidad, terapéutica, crítica al modelo digital algorítmico) con conexiones a múltiples páginas existentes del corpus (anatomia-de-la-fantasia, trauma-en-proxy, trastorno-limite, psiquiatria-y-teoria-de-la-mente, consumismo-critica)."
+  },
+  "_validation_warnings": [
+    "WARN promote_new[el aburrimiento (como categoría psicológica articulada)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

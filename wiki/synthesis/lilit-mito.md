@@ -179,9 +179,13 @@ La tríada cierra la tesis del canal sobre Lilit: el caso no es aislado sino pie
 
 
 
+
+
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444) · [1:15:42](https://youtu.be/_0BM2jMsWdc?t=4542) · [1:17:43](https://youtu.be/_0BM2jMsWdc?t=4663) · [1:21:45](https://youtu.be/_0BM2jMsWdc?t=4905) · [1:26:49](https://youtu.be/_0BM2jMsWdc?t=5209) · [1:41:13](https://youtu.be/_0BM2jMsWdc?t=6073) · [1:45:47](https://youtu.be/_0BM2jMsWdc?t=6347)
 - **Directo casual** — chunks: [26:51](https://youtu.be/ECN5C9rsaZg?t=1611) · [29:23](https://youtu.be/ECN5C9rsaZg?t=1763) · [32:25](https://youtu.be/ECN5C9rsaZg?t=1945) · [34:27](https://youtu.be/ECN5C9rsaZg?t=2067) · [36:59](https://youtu.be/ECN5C9rsaZg?t=2219) · [42:44](https://youtu.be/ECN5C9rsaZg?t=2564) · [44:46](https://youtu.be/ECN5C9rsaZg?t=2686)
 - **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [28:29](https://youtu.be/4P5hxaG7i6c?t=1709) · [29:59](https://youtu.be/4P5hxaG7i6c?t=1799) · [37:35](https://youtu.be/4P5hxaG7i6c?t=2255) · [58:53](https://youtu.be/4P5hxaG7i6c?t=3533) · [1:01:30](https://youtu.be/4P5hxaG7i6c?t=3690) · [1:06:39](https://youtu.be/4P5hxaG7i6c?t=3999)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [18:34](https://youtu.be/yAIPr0HzQqE?t=1114) · [21:41](https://youtu.be/yAIPr0HzQqE?t=1301)
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [53:36](https://youtu.be/Sszbs7CG0cQ?t=3216)
+- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [34:43](https://youtu.be/QSggWfjOkHk?t=2083) · [47:51](https://youtu.be/QSggWfjOkHk?t=2871) · [54:25](https://youtu.be/QSggWfjOkHk?t=3265) · [56:25](https://youtu.be/QSggWfjOkHk?t=3385) · [1:07:32](https://youtu.be/QSggWfjOkHk?t=4052) · [1:29:45](https://youtu.be/QSggWfjOkHk?t=5385) · [1:40:48](https://youtu.be/QSggWfjOkHk?t=6048)
+- **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [1:00:22](https://youtu.be/0EeqbwZJUQw?t=3622) · [1:50:53](https://youtu.be/0EeqbwZJUQw?t=6653)
 

@@ -1,0 +1,262 @@
+{
+  "video_id": "iPqOn-ynSlE",
+  "video_title": "RESUB: Cenicienta, el Mito Lunar en Disney (I)",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Cenicienta (Disney, 1950)",
+      "canonical_guess": "cenicienta-1950-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 125,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "La película trata sobre cómo el mito de la triple diosa sirve como camino de sanación de las heridas de la infancia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La triple diosa tiene cuatro fases que se corresponden con el ciclo lunar de la película,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los tres dones de la feminidad (belleza, gracia y esperanza) son las herramientas de ese camino,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.3 entity_work con criterios reforzados: vídeo monográfico 129 min dedicado íntegramente al análisis arquetípico; aplicación cruzada de frameworks ya canon (mito-lunar con catálogo explícito de cuatro fases del reloj que cierra laguna de la página, diosa-blanca con tres dones encadenados aplicados, tarot-arquetipico como tercer caso de recorrido completo de 22 Arcanos Mayores en clave femenino-lunar paralelo a Man of Steel y El Gran Lebowski, hieros-gamos como cierre del ciclo, madre-oscura-en-proxy con la madrastra como caso paradigmático Disney). La película es ya invocada en tipologia-femenina-arquetipica (sección añadida en batch Barbie) como caso paradigmático de la inocencia genuine vs ingenuidad Wendy. Caso estructural complementario a La Bella Durmiente y Enredados en el catálogo Disney del corpus.",
+      "quote_evidence": "El final de la película se anuncia al menos tres veces: en los créditos, con las palomas y el zapato sobre el cojín,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página.",
+  "pending_updates": [
+    {
+      "page_id": "mito-lunar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Por ahora se documenta la propiedad estructural (mutabilidad cuádruple) sin fijar nominalmente cada una de las cuatro modalidades.",
+      "content_proposed": "\n\n## Las cuatro fases del ciclo lunar: el reloj de la diosa en Cenicienta\n\nEl análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] articula el catálogo de las cuatro modalidades cíclicas que la sección anterior dejaba como pieza pendiente. La película codifica las cuatro fases del ciclo lunar como cuatro coordenadas horarias del reloj diegético — 3, 6, 9 y 12 — cada una correspondiente a una modalidad existencial de la diosa.\n\n> \"Las 3 de la madrugada son la luna roja (muerte de la madre, ciclo anterior),\"\n→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)\n\n> \"Las 6 de la mañana es cuando se levanta Artemisa; las 9 de la noche es la llegada al baile como dama blanca,\"\n→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)\n\n> \"Las 12 es el fin de la noche: cuatro grupos de 3 horas, cuatro fases de tres dones; el reloj y la luna son las dos esferas blancas de la película,\"\n→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)\n\nEl catálogo articulado:\n\n1. **3:00 — Luna roja**: cierre del ciclo anterior. Coincide con la muerte de la madre en la película (la herida fundacional de la feminidad). Es la fase ctónica donde la diosa anterior expira para que la nueva pueda emerger.\n2. **6:00 — Levantamiento de Artemisa**: el despertar (*égersis*) en su forma virgen-cazadora. La doncella se incorpora al mundo cargada con la herencia de la madre muerta, sin haber accedido aún al polo erótico-relacional.\n3. **9:00 — Llegada al baile como dama blanca**: la consorte plena. La diosa se manifiesta en su forma luminosa (vestida de blanco), portadora simultánea de los tres dones de [[diosa-blanca|gracia/belleza/esperanza]] activados conjuntamente por la mediación del hada madrina.\n4. **12:00 — Fin del hechizo**: el cierre del ciclo lunar, momento de la huida y la separación. El reloj cumplido devuelve a la diosa al sustrato cotidiano antes de que la noche mágica se contamine.\n\nLa pieza completa el aparato canal-canónico: la cuádruple mutabilidad articulada en el libro [[polaris-libro|Polaris]] ('tres son una y una son tres') recibe en Cenicienta su iconografía operativa — cuatro coordenadas temporales que la psique femenina recorre como ciclo arquetípico, no como sucesión biográfica única. El detalle dramatúrgico que cifra la equivalencia: el reloj (el orden masculino, Cronos) y la luna (la diosa) son **las dos esferas blancas** de la película — los dos polos cuya superposición articula el [[mito-polar]] en clave doméstica.\n\nLa articulación se solapa parcialmente con las cinco fases del ciclo (despertar/creación/caída/luna-roja/exorcismo) plegadas en cuatro modalidades existenciales: luna roja como fase ctónica, Artemisa como égersis, dama blanca como creación-cumplida, cierre como exorcismo. La diferencia entre las dos numeraciones (cinco fases vs cuatro vidas) es operativa: las fases describen el recorrido temporal continuo del ciclo; las vidas describen las modalidades existenciales discretas que la diosa actualiza, agrupadas en cuatro horas-coordenadas del reloj diegético. Cenicienta es entonces el primer caso del corpus donde el catálogo cuádruple se nombra explícitamente con coordenadas operativas, no solo como propiedad estructural abstracta.\n",
+      "wikilinks_introduced": [
+        "cenicienta-1950-film",
+        "polaris-libro"
+      ],
+      "citations_added": [
+        {
+          "video_id": "iPqOn-ynSlE",
+          "timestamp_seconds": 5720,
+          "cite_markdown": "[Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo que cierra dos lagunas explícitas de la página: (1) 'Pendiente: catálogo explícito de las cuatro vidas' — Cenicienta articula nominalmente las cuatro modalidades (luna roja / Artemisa / dama blanca / cierre del hechizo) con coordenadas operativas (3, 6, 9, 12); (2) 'Ejemplos culturales concretos: qué figuras míticas, arquetipos o análisis de obras encarnan el ciclo lunar' — Cenicienta es exactamente el caso de obra encarnando el ciclo lunar. La pieza añade además articulación entre las dos numeraciones (cinco fases vs cuatro vidas) que la página tenía como duplicidad sin reconciliar.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "mito-lunar",
+      "update_type": "mark_laguna_resolved",
+      "supersedes_laguna_text": "**Ejemplos culturales concretos**: qué figuras míticas, arquetipos o análisis de obras encarnan el ciclo lunar no se especifica en el fragmento disponible",
+      "content_proposed": "Resuelta por sección 'Las cuatro fases del ciclo lunar: el reloj de la diosa en Cenicienta' — el análisis arquetípico de Cenicienta (Disney, 1950) opera como caso paradigmático de obra encarnando el ciclo lunar completo, con coordenadas operativas explícitas para cada fase (3:00 luna roja, 6:00 Artemisa, 9:00 dama blanca, 12:00 cierre del hechizo).",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La sección añadida documenta literalmente el primer caso operativo del ciclo lunar encarnado en obra del corpus, con citas y mapeo explícito de cada fase a coordenada horaria del reloj diegético.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "tarot-arquetipico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Los hermanos Coen aplican deliberadamente la inversión arcano-por-arcano del monomito, marcando además las tres fases de Campbell con sueños del protagonista.",
+      "content_proposed": "\n\n## Cenicienta como recorrido completo de los 22 Arcanos en clave femenino-lunar\n\nEl análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] añade un tercer caso paradigmático del recorrido de los 22 Arcanos Mayores como secuencia arquetípica fija — esta vez en clave **femenino-lunar**, complementaria a las dos lecturas masculino-solares previas ([[man-of-steel-2013-film|Man of Steel]] como Arcanos directos en mito solar cumplido; [[el-gran-lebowski-1998-film|El Gran Lebowski]] como Arcanos invertidos en anti-héroe). Cenicienta articula la secuencia desde la posición de la diosa que recorre las fases del [[mito-lunar]].\n\n> \"La sacerdotisa es Cenicienta tras la muerte del padre (blanco y negro a sus lados),\"\n→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)\n\n> \"La emperatriz es la princesa rodeada de naturaleza; la fuerza representa la gracia dominando a las criaturas,\"\n→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)\n\n> \"El demonio es la madrastra liberando el mal de sus hijas; la torre es el mundo de Cenicienta derrumbándose,\"\n→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)\n\n> \"La estrella es el hada madrina; la luna es el fin del hechizo; el sol es el edicto de búsqueda; el juicio es la apoteosis del zapato,\"\n→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)\n\nLa secuencia que el canal articula: Sacerdotisa (Cenicienta tras la muerte del padre, flanqueada por blanco y negro) → Emperatriz (princesa rodeada de naturaleza) → Fuerza (la gracia dominando a las criaturas — eco operativo del arcano de la Fuerza articulado con [[lady-halcon-1985-film|Lady Halcón]] en sección 'La diosa primordial') → Demonio (la madrastra liberando el mal de las hermanastras) → Torre (el mundo de Cenicienta derrumbándose tras la fragmentación del vestido) → Estrella (el hada madrina) → Luna (el fin del hechizo a las 12) → Sol (el edicto de búsqueda iluminando todos los interiores) → Juicio (la apoteosis del zapato como reconocimiento).\n\nLa pieza completa la triada de casos canónicos del recorrido de los 22 Arcanos: Man of Steel articula el ciclo solar masculino directo, El Gran Lebowski el ciclo invertido de anti-héroe, Cenicienta el ciclo femenino-lunar. La diferencia operativa con los dos casos previos es estructural: la secuencia de Cenicienta no recorre los Arcanos como **viaje del sujeto** (Superman crece y madura, El Nota fracasa progresivamente) sino como **fases del ciclo lunar diegético** — los arcanos no marcan transiciones del yo de Cenicienta (que opera por modalidades cíclicas más que por individuación) sino momentos del ciclo arquetípico que la película codifica con simbología tarot-canónica. La estructura confirma la tesis ya articulada en secciones anteriores: los 22 Arcanos son mapa fijo de la trayectoria arquetípica que cualquier mito recapitula, sea cual sea la posición del sujeto recorriéndolo (héroe solar, anti-héroe degradado, diosa lunar). La triada cierra el cuadro de modalidades estructurales del recorrido — directa solar / invertida anti-heroica / femenino-cíclica — y deja abierto el caso de la modalidad polar plena (donde los arcanos articulan simultáneamente solar y lunar como dipolo, candidato natural sería [[lady-halcon-1985-film|Lady Halcón]] cuyo análisis ya cita el tarot como hilo estructural).\n",
+      "wikilinks_introduced": [
+        "cenicienta-1950-film",
+        "mito-lunar"
+      ],
+      "citations_added": [
+        {
+          "video_id": "iPqOn-ynSlE",
+          "timestamp_seconds": 5418,
+          "cite_markdown": "[Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: tercer caso paradigmático del recorrido completo de los 22 Arcanos Mayores articulado como secuencia arquetípica fija. Las dos secciones previas de la página (Man of Steel y El Gran Lebowski) articulan modalidades masculino-solares (directa e invertida); Cenicienta añade la modalidad femenino-lunar que confirma la tesis estructural — los Arcanos son mapa fijo independiente de la posición del sujeto recorriéndolo. La pieza enlaza con secciones existentes (Fuerza arcano vinculado a Lady Halcón) y completa la triada de casos canónicos. Refina parcialmente la laguna 'lecturas específicas de arcanos viven en otras páginas' al añadir tercer caso al canon.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "el síndrome de Wendy y la ensoñación como supervivencia psicológica",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El síndrome de Wendy queda capturado en sindrome-wendy con la sección Becky/Cenicienta como vía de salida no-trágica añadida en batch Barbie. La distinción del Cenicienta-análisis ('Cenicienta es inocente, no ingenua como Wendy') ya está documentada. La articulación específica sobre ensoñación defensiva como mecanismo de supervivencia es aplicación al caso, no marco nuevo.",
+      "quote_evidence": "La ensoñación es la creación de mundos alternativos como respuesta a la sensibilidad y al dolor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-wendy"
+    },
+    {
+      "surface_form": "hada madrina como bruja buena / feminidad interna",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Lectura del hada madrina como manifestación arquetípica de la feminidad interna de Cenicienta (la creatividad femenina, la bruja enseñando a la doncella). Aplicación del concepto, no thesis nueva. Vivirá en cenicienta-1950-film con la articulación completa.",
+      "quote_evidence": "El hada madrina es la feminidad interna, el poder divino de lo femenino materializado en anciana sabia,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo en otros vídeos, podría enriquecer anima-archetype con sección sobre la 'feminidad interna materializada' como configuración del ánima maduro",
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "madrastra de Cenicienta como madre oscura",
+      "reason_code": "already_captured",
+      "reason_detail": "La madrastra de Cenicienta es caso de la madre oscura ya capturado conceptualmente en madre-oscura-en-proxy (donde se cita la madrastra de la Bella Durmiente como caso paralelo). Los detalles iconográficos específicos de la versión Disney 1950 (contrapicado, cabeza en sombra, gato Lucifer como espíritu del mal) vivirán en cenicienta-1950-film. La página madre-oscura-en-proxy está ya densa con casos canónicos (Gothel, madrastra-Bella-Durmiente, Anticristo, Hereditary).",
+      "quote_evidence": "La madrastra mira en contrapicado (superioridad), su cabeza está en la sombra (ha renunciado a lo masculino),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "gato Lucifer / perro Bruno",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personajes simbólicos internos de la película (Lucifer como espíritu del mal interior de la madrastra, Bruno como legado de la masculinidad protectora del padre). Lectura específica de la obra, vivirá en cenicienta-1950-film.",
+      "quote_evidence": "El gato negro Lucifer representa el espíritu del mal que habita dentro de la madre oscura,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "castillos como representación del yo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Marco arquetípico general aplicado al análisis de la película (los castillos = la psique). Concepto canónico de análisis arquetípico (no canal-original), aplicado como herramienta interpretativa.",
+      "quote_evidence": "El castillo es donde habita la psique, por tanto es el yo; en este cuento hay dos castillos enfrentados,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "caballo / padre / perro como yo / super-yo / ello",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mapping freudiano clásico (yo / superyó / ello) aplicado a las tres figuras masculinas en la infancia de Cenicienta. Marco externo (Freud) aplicado, no thesis del canal. Vivirá en cenicienta-1950-film.",
+      "quote_evidence": "El caballo representa el yo masculino domado (virilidad, nobleza), el padre es el super yo que enseña,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "rey / consejero / príncipe como super-yo / yo / ello",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mismo mapping freudiano aplicado a las tres figuras masculinas del castillo del príncipe. Concepto externo aplicado.",
+      "quote_evidence": "El rey es el super yo (deber ser), el consejero es el yo, y el príncipe son los instintos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "pérdida del zapato como menarquia / despertar sexual",
+      "reason_code": "in_work_character",
+      "reason_detail": "Lectura simbológica específica de la película (los zapatos como iniciación irreversible de doncella a mujer; perder uno y conservar el otro como 'última muralla'). Pieza interna de la obra, vivirá en cenicienta-1950-film.",
+      "quote_evidence": "Los zapatos representan la iniciación de doncella a mujer que ya no es reversible,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "hechizo de medianoche como refuerzo intermitente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve del 'refuerzo intermitente' (concepto conductista clásico) aplicado al mecanismo del hechizo. Concepto externo, mención sin desarrollo.",
+      "quote_evidence": "Antes de las 12 debe retirarse: si la primera noche la consume, el hechizo desaparecerá; es refuerzo intermitente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "caballos negros del príncipe como masculinidad oscura",
+      "reason_code": "in_work_character",
+      "reason_detail": "Símbolo interno de la película (la persecución que rompe el sueño cuando el yo masculino quiere raptar antes de tiempo). Vivirá en cenicienta-1950-film.",
+      "quote_evidence": "Los caballos negros del príncipe representan la masculinidad oscura que no puede esperar y quiere raptarla,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "Cronos / reloj como lo masculino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Identificación del reloj con Cronos / lo masculino / el orden. Mención breve, parte del aparato simbólico de la película. Capturado como pareja de las dos esferas blancas (reloj + luna) en update a mito-lunar.",
+      "quote_evidence": "El reloj (lo masculino, Cronos, el orden) marca el fin de la noche y el inicio de la opresión diaria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-lunar"
+    },
+    {
+      "surface_form": "hierogamos final como aceptación de las tres partes del hombre",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Lectura del cierre de la película como hierogamos donde la diosa acepta yo / instintos / superyó del hombre. Aplicación del concepto hieros-gamos ya canónico. Vivirá en cenicienta-1950-film con la articulación específica del cierre.",
+      "quote_evidence": "Aceptar las tres partes del hombre hace que ambos se unan en una sola forma de ser,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hieros-gamos"
+    },
+    {
+      "surface_form": "dos hermanastras como plural contra singular",
+      "reason_code": "in_work_character",
+      "reason_detail": "Lectura de por qué hay dos (no una) hermanastras: representan 'todas las demás niñas' frente a Cenicienta sola. Pieza simbólica interna de la obra. Vivirá en cenicienta-1950-film.",
+      "quote_evidence": "Dos hermanastras representan \"todas las demás niñas\" frente a Cenicienta en singular y sola,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "llave dorada / encierro en la torre / culpabilización de la doncella",
+      "reason_code": "in_work_character",
+      "reason_detail": "Pieza simbológica interna de la película: la madre oscura encerrando a Cenicienta tras el baile como mecanismo de culpabilización por usar el poder sexual. Vivirá en cenicienta-1950-film.",
+      "quote_evidence": "El encierro es un sermón de culpabilización para que la doncella se avergüence y nunca quiera volver al mundo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "príncipe buscando reproducir la primera experiencia sensorial",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Articulación psicológica sobre el comportamiento del varón postcoital (probar doncella por doncella en busca de un constructo entre la madre y el primer amor). Mención sin desarrollo sostenido. Captable en colusion-heroe-ninfa o anima-archetype si recurre.",
+      "quote_evidence": "El príncipe busca en todas las doncellas volver a sentir lo de la primera vez: probablemente busca un constructo entre su madre y su primer amor,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, podría enriquecer colusion-heroe-ninfa con la modalidad masculina del 'rastreo de la primera experiencia'",
+      "enriches_concept": "anima-archetype"
+    },
+    {
+      "surface_form": "destino manifiesto / cuento dentro del cuento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Recurso narrativo de Cenicienta (la historia se anuncia desde los créditos: 'el destino manifiesto'). Pieza específica del análisis de la obra. Vivirá en cenicienta-1950-film.",
+      "quote_evidence": "El \"destino manifiesto\" es el aviso de que el héroe tendrá un final que todos comprenden menos el protagonista,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cenicienta-1950-film"
+    },
+    {
+      "surface_form": "competitividad femenina interna (guerras frías, emocionales)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve sobre la dinámica de competición femenina ('guerras frías, emocionales que ocurren implícitamente') aplicada a la madrastra-hijastras-Cenicienta. Sin desarrollo sostenido como tesis.",
+      "quote_evidence": "La competitividad femenina es interna: guerras frías, emocionales, que ocurren implícitamente,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo en otros vídeos, podría enriquecer tipologia-femenina-arquetipica con sección sobre dinámicas relacionales propias del polo femenino",
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 17,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Cenicienta (Disney, 1950)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

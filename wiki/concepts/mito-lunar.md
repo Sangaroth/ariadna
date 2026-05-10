@@ -140,6 +140,33 @@ El libro [[polaris-libro]] articula 'cuatro vidas del mito lunar' sin enumerarla
 
 
 
+## Las cuatro fases del ciclo lunar: el reloj de la diosa en Cenicienta
+
+El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] articula el catálogo de las cuatro modalidades cíclicas que la sección anterior dejaba como pieza pendiente. La película codifica las cuatro fases del ciclo lunar como cuatro coordenadas horarias del reloj diegético — 3, 6, 9 y 12 — cada una correspondiente a una modalidad existencial de la diosa.
+
+> "Las 3 de la madrugada son la luna roja (muerte de la madre, ciclo anterior),"
+→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)
+
+> "Las 6 de la mañana es cuando se levanta Artemisa; las 9 de la noche es la llegada al baile como dama blanca,"
+→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)
+
+> "Las 12 es el fin de la noche: cuatro grupos de 3 horas, cuatro fases de tres dones; el reloj y la luna son las dos esferas blancas de la película,"
+→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)
+
+El catálogo articulado:
+
+1. **3:00 — Luna roja**: cierre del ciclo anterior. Coincide con la muerte de la madre en la película (la herida fundacional de la feminidad). Es la fase ctónica donde la diosa anterior expira para que la nueva pueda emerger.
+2. **6:00 — Levantamiento de Artemisa**: el despertar (*égersis*) en su forma virgen-cazadora. La doncella se incorpora al mundo cargada con la herencia de la madre muerta, sin haber accedido aún al polo erótico-relacional.
+3. **9:00 — Llegada al baile como dama blanca**: la consorte plena. La diosa se manifiesta en su forma luminosa (vestida de blanco), portadora simultánea de los tres dones de [[diosa-blanca|gracia/belleza/esperanza]] activados conjuntamente por la mediación del hada madrina.
+4. **12:00 — Fin del hechizo**: el cierre del ciclo lunar, momento de la huida y la separación. El reloj cumplido devuelve a la diosa al sustrato cotidiano antes de que la noche mágica se contamine.
+
+La pieza completa el aparato canal-canónico: la cuádruple mutabilidad articulada en el libro [[polaris-libro|Polaris]] ('tres son una y una son tres') recibe en Cenicienta su iconografía operativa — cuatro coordenadas temporales que la psique femenina recorre como ciclo arquetípico, no como sucesión biográfica única. El detalle dramatúrgico que cifra la equivalencia: el reloj (el orden masculino, Cronos) y la luna (la diosa) son **las dos esferas blancas** de la película — los dos polos cuya superposición articula el [[mito-polar]] en clave doméstica.
+
+La articulación se solapa parcialmente con las cinco fases del ciclo (despertar/creación/caída/luna-roja/exorcismo) plegadas en cuatro modalidades existenciales: luna roja como fase ctónica, Artemisa como égersis, dama blanca como creación-cumplida, cierre como exorcismo. La diferencia entre las dos numeraciones (cinco fases vs cuatro vidas) es operativa: las fases describen el recorrido temporal continuo del ciclo; las vidas describen las modalidades existenciales discretas que la diosa actualiza, agrupadas en cuatro horas-coordenadas del reloj diegético. Cenicienta es entonces el primer caso del corpus donde el catálogo cuádruple se nombra explícitamente con coordenadas operativas, no solo como propiedad estructural abstracta.
+
+
+
+
 
 ## Posición cosmológica: el eje ctónico
 
@@ -160,12 +187,14 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 ## Lagunas
 
 - **Desarrollo de cada fase**: este stub documenta los nombres de las cinco fases pero no el contenido mítico de cada una; la exposición detallada de *égersis*, *luna roja* y *exorcismo* requiere material de otros directos del canal
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Ejemplos culturales concretos**: qué figuras míticas, arquetipos o análisis de -->
 - **Ejemplos culturales concretos**: qué figuras míticas, arquetipos o análisis de obras encarnan el ciclo lunar no se especifica en el fragmento disponible
 - **Conexión con el ánima junguiana**: el vínculo entre el principio femenino lunar del canal y el arquetipo del ánima en Jung no está explicitado en el corpus recogido aquí
 - **Tradiciones no occidentales**: el sistema de mitos primarios del canal parece construido desde mitología occidental; ausentes paralelos lunares dao, mesoamericanos e hindúes
 - **El libro *Del origen del mal***: esta página se basa en una descripción de estructura interna del libro expuesta en un directo; cuando se publique o se lean capítulos en sesión, la página deberá actualizarse con el contenido desarrollado
 
 ## Citations
+
 
 
 
@@ -190,4 +219,5 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014) · [1:01:51](https://youtu.be/fzEDQZIqKwg?t=3711) · [1:38:25](https://youtu.be/fzEDQZIqKwg?t=5905)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275) · [1:35:30](https://youtu.be/aWeuzWLrLtE?t=5730)
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [37:18](https://youtu.be/Sszbs7CG0cQ?t=2238) · [39:50](https://youtu.be/Sszbs7CG0cQ?t=2390)
+- **Suspiria: El Maligno y el Mito Lunar** — chunks: [2:03:53](https://youtu.be/nw7fSEAJr-U?t=7433)
 

@@ -137,6 +137,9 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 
 
 
+
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [1:08:32](https://youtu.be/Dtp1_RLb7S0?t=4112) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757)
 - **Lunes basado terminal** — chunks: [14:19](https://youtu.be/oHxXzr5WSbQ?t=859)
@@ -146,4 +149,7 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 - **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [1:48:28](https://youtu.be/L4ayDmaUO9Y?t=6508)
 - **Matrix y el camino del héroe.** — chunks: [42:08](https://youtu.be/kF5KHE_fF7g?t=2528) · [46:46](https://youtu.be/kF5KHE_fF7g?t=2806) · [1:17:12](https://youtu.be/kF5KHE_fF7g?t=4632) · [1:25:48](https://youtu.be/kF5KHE_fF7g?t=5148)
+- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [50:22](https://youtu.be/QSggWfjOkHk?t=3022)
+- **Taxonomía y filosofía del satanismo** — chunks: [25:28](https://youtu.be/4JW8act2SdE?t=1528) · [1:42:06](https://youtu.be/4JW8act2SdE?t=6126)
+- **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [40:27](https://youtu.be/JKoWJmSR6VY?t=2427)
 

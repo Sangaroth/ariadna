@@ -91,5 +91,9 @@ Esa misma reflexión enmarca la elección de leer a [[borges-jorge-luis]] ínteg
 ## Citations
 
 
+
+
 - **Cuento contigo** — chunks: [1:02:35](https://youtu.be/Eqoq3O9wVzA?t=3755)
+- **Un Gólem llamado Prometeo.** — chunks: [1:21:24](https://youtu.be/Uykl0PLRRlo?t=4884)
+- **Un Gólem llamado Prometeo** — chunks: [1:22:28](https://youtu.be/lk3DKsIagAE?t=4948) · [1:55:24](https://youtu.be/lk3DKsIagAE?t=6924)
 

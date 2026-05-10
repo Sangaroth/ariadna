@@ -1,0 +1,217 @@
+{
+  "video_id": "TnbtB4d68wU",
+  "video_title": "Educación, escuela y tecnología",
+  "playlist": "entrevistas",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "José Antonio Marina",
+      "reason_code": "passing_mention",
+      "reason_detail": "Filósofo y pedagogo español citado como autor del concepto 'medio ambiente simbólico' (además del medio ambiente físico, existe un medio ambiente formado por creencias, valores y relatos mediados). El concepto se aplica como marco articulado en este vídeo, lo que supera la mera mención bibliográfica. Single-source todavía pero figura central del pensamiento educativo español contemporáneo. Candidato a author page si el canal lo invoca con desarrollo en otros vídeos. La tesis del 'medio ambiente simbólico' merece especialmente seguimiento — opera como framework explicativo de la mediación cognitiva por soportes culturales, conecta con teoria-del-simbolo-en-proxy.",
+      "quote_evidence": "José Antonio Marina propone que además del medio ambiente físico existe un medio ambiente simbólico formado por creencias, valores y relatos mediados,",
+      "review_priority": "high",
+      "review_priority_reason": "figura del pensamiento educativo español con framework operativo (medio ambiente simbólico) que el canal aplica. Si recurre con desarrollo, candidata a author page + concept page para 'medio ambiente simbólico'",
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Neil Postman",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítico cultural y pedagogo estadounidense. Citado como uno de los 'tres profetas de la era digital' (junto a McLuhan y Sartori), autor de 'La desaparición de la infancia' (1982) y 'Divertirse hasta morir' (1985). El canal invoca su tesis sobre la pérdida del concepto de infancia por exposición mediática. Single-source en este vídeo pero figura load-bearing en cualquier crítica cultural seria de los medios.",
+      "quote_evidence": "Neil Postman escribió \"La desaparición de la infancia\" y \"Divertirse hasta morir\" sobre los efectos de la televisión,",
+      "review_priority": "high",
+      "review_priority_reason": "figura central de la crítica cultural de los medios. Si recurre con desarrollo, candidato a author page que enriquecería consumismo-critica y mito-moderno-en-proxy con genealogía explícita de la crítica a la cultura mediática",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Giovanni Sartori",
+      "reason_code": "passing_mention",
+      "reason_detail": "Politólogo italiano, citado como tercer 'profeta de la era digital' por su libro 'Homo videns: la sociedad teledirigida' (1997). El canal invoca su tesis sobre la sustitución del homo sapiens por el homo videns mediante el dominio de la imagen sobre la palabra abstracta.",
+      "quote_evidence": "Giovanni Sartori acuñó \"Homo videns: la sociedad teledirigida\"; ninguno de los tres conoció la revolución digital y sin embargo describieron exactamente lo que pasa hoy,",
+      "review_priority": "high",
+      "review_priority_reason": "figura clave de la crítica al dominio de la imagen sobre la palabra. Tesis directamente relevante para el aparato del canal sobre símbolo/lenguaje/cognición",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Marshall McLuhan / La aldea global",
+      "reason_code": "passing_mention",
+      "reason_detail": "Teórico canadiense de los medios, citado como primer profeta de la era digital. La aldea global como tesis sobre la convergencia mediática. Mención sin desarrollo sustantivo en este vídeo.",
+      "quote_evidence": "Marshall McLuhan anticipó con aforismos proféticos lo que ocurriría con los medios en \"La aldea global\",",
+      "review_priority": "high",
+      "review_priority_reason": "foundational singleton para cualquier teoría de los medios. Si recurre con desarrollo, candidato a author page o entry en futura whitelist canónica",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Susana Zuboff / La era del capitalismo de la vigilancia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Académica de Harvard, autora de 'The Age of Surveillance Capitalism' (2019). Su tesis sobre cómo Google/Microsoft/Facebook descubrieron el modelo de negocio de la captura de datos personales se cita como explicación de la transformación del internet original en plataforma de vigilancia. Tesis foundational para entender la dinámica capitalismo-tecnología contemporánea.",
+      "quote_evidence": "Susana Zuboff explica en \"La era del capitalismo de la vigilancia\" cómo se produjo el cambio hacia una tecnología diseñada para atrapar la atención del usuario,",
+      "review_priority": "high",
+      "review_priority_reason": "si el canal invoca su tesis con desarrollo, candidata a author page y concept 'capitalismo de la vigilancia' que enriquecería consumismo-critica con la dimensión digital específica",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "Roger Bartra / teoría del exocerebro",
+      "reason_code": "passing_mention",
+      "reason_detail": "Antropólogo mexicano, autor de la teoría del exocerebro (la conciencia se extiende más allá del cráneo hacia los soportes simbólicos culturales). Single-source en este vídeo pero tesis directamente relevante para el aparato cognitivo del canal (teoria-del-simbolo-en-proxy, golem-de-cobre, conciencia-e-inteligencia-en-proxy).",
+      "quote_evidence": "Roger Bartra propone en 1942 que la conciencia no está relegada únicamente a la red neuronal sino que sobrepasa el cerebro hacia el exterior,",
+      "review_priority": "high",
+      "review_priority_reason": "tesis del exocerebro encaja directamente con el aparato cognitivo articulado del canal (la cognición como matriz noética que opera con soportes externos). Si recurre, merece author page y posiblemente concept page sobre exocerebro",
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy"
+    },
+    {
+      "surface_form": "Gregorio Luri",
+      "reason_code": "passing_mention",
+      "reason_detail": "Filósofo y pedagogo español. Citado por su tesis sobre tercero de primaria como curso clave del currículo (transición de aprender-a-leer a aprender-leyendo). Mención sin desarrollo extenso pero el canal invoca su autoridad pedagógica.",
+      "quote_evidence": "Gregorio Luri identifica tercero de primaria como el curso más importante de todo el currículo: es cuando se deja de aprender a leer para empezar a aprender leyendo,",
+      "review_priority": "medium",
+      "review_priority_reason": "figura del pensamiento pedagógico español. Si recurre con desarrollo, posible author page",
+      "enriches_concept": "teoria-de-la-memoria-en-proxy"
+    },
+    {
+      "surface_form": "Enrique Monasterio / verbos fundamentales de la educación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pedagogo citado como autor del marco 'la escuela sirve para saber leer, escribir, pensar, hablar, amar y contemplar'. Six verbos como construcción de la persona. Single-source.",
+      "quote_evidence": "Enrique Monasterio define que la escuela sirve para saber leer, escribir, pensar, hablar, amar y contemplar,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, los seis verbos fundamentales podrían enriquecer una eventual concept page sobre la concepción canal-canónica de la educación o de la persona",
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "medio ambiente simbólico",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto de José Antonio Marina aplicado como marco analítico en este vídeo (las experiencias formativas siempre son mediadas por soportes simbólicos, no directamente experienciales). Conecta directamente con el aparato del canal sobre matriz noética, pensamiento-poetico, teoria-del-simbolo. Single-source pero substantivamente articulado.",
+      "quote_evidence": "Las experiencias que configuran nuestra visión del mundo no son directamente experienciales sino siempre mediadas por soportes simbólicos,",
+      "review_priority": "high",
+      "review_priority_reason": "concepto operativo que enriquecería teoria-del-simbolo-en-proxy o produciría concept page propia si el canal lo adopta como framework",
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "capitalismo de la vigilancia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto de Zuboff aplicado como crítica al modelo de negocio de las grandes tecnológicas. Pieza canónica de la crítica cultural digital contemporánea. Conecta con consumismo-critica y diagrama-de-proxy.",
+      "quote_evidence": "Hubo un internet valioso y prometedor hasta que Google, Microsoft y Zuckerberg descubrieron la mina de oro de los datos personales,",
+      "review_priority": "high",
+      "review_priority_reason": "concepto core de cualquier crítica cultural digital. Si recurre con desarrollo, merece concept page propia o sección sustantiva en consumismo-critica",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "crisis de presencia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto articulado en este vídeo sobre la imposibilidad de aprender solo frente a la pantalla por ausencia del estímulo, corrección y simple presencia del otro. Pieza importante para el aparato del canal sobre vínculo y comunicación. Single-source pero con desarrollo sustantivo.",
+      "quote_evidence": "Una de las grandes toxicidades de la tecnología es esta crisis de presencia: al final te quedas solo frente a la pantalla,",
+      "review_priority": "high",
+      "review_priority_reason": "si recurre con desarrollo en otros vídeos sobre vínculo, intimidad o pedagogía, merece concept page propia. Conecta con vinculo, intimidad-y-confesion-en-proxy, crisis-del-amor-pareja-y-maternidad-en-proxy",
+      "enriches_concept": "vinculo"
+    },
+    {
+      "surface_form": "tecnología como anti-aprendizaje",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis articulada en este vídeo: el aprendizaje requiere esfuerzo intenso de consolidación, mientras la tecnología está diseñada para acortar procesos y reducir el pensar. Paralelo explícito con anfetaminas (Concerta como aceleración sin consolidación) y con MDMA/Tinder (saltarse el filtro entre impulso y realidad). Pieza interesante para el aparato del canal sobre memoria y aprendizaje.",
+      "quote_evidence": "La tecnología en el contexto educativo funciona como anfetaminas: escribes más rápido pero peor, lees más rápido pero no consolidas,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, podría enriquecer teoria-de-la-memoria-en-proxy con sección sobre la consolidación bloqueada por dispositivos de aceleración",
+      "enriches_concept": "teoria-de-la-memoria-en-proxy"
+    },
+    {
+      "surface_form": "pornografía como deformador de la afectividad adolescente",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis sobre la accesibilidad temprana al porno como bloqueo del crecimiento afectivo adolescente. La sexualidad como experiencia personal vs el porno como ficción/mentira. Conecta con crisis-del-amor-pareja-y-maternidad-en-proxy y amor-cortes-y-monogamia-civilizatoria. Single-source breve.",
+      "quote_evidence": "Las chicas relatan experiencias en sus primeras relaciones sexuales que identifican con vivencias del porno consumido por los chicos,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, podría enriquecer crisis-del-amor-pareja-y-maternidad-en-proxy con sección específica sobre el porno como deformador del aprendizaje sexual adolescente",
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    },
+    {
+      "surface_form": "ciberbullying como amplificador 24/7",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis sobre el ciberbullying como cualidad nueva del bullying tradicional (no aumento de incidencia sino gravedad por la velocidad y la falta de control espacial-temporal). Articulación interesante de la diferencia categorial. Single-source breve.",
+      "quote_evidence": "El bullying no ha aumentado pero el ciberbullying introduce gravedad: es 24/7, incontrolable y se extiende a velocidad de vértigo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "shadow-archetype"
+    },
+    {
+      "surface_form": "brecha digital inversa",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis articulada: la tecnología amplifica desigualdad social porque las familias de estatus medio-alto contrarrestan el efecto tóxico mientras las menos pueden ni lo notan. Pieza de crítica social digital contemporánea. Single-source.",
+      "quote_evidence": "Las familias de estatus medio-alto pueden contrarrestar el efecto tóxico de las pantallas con actividades, libros y viajes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "hijos de ejecutivos de Silicon Valley sin tecnología en colegio",
+      "reason_code": "passing_mention",
+      "reason_detail": "Dato cultural recurrente que el canal cita: los creadores de la tecnología prohíben a sus propios hijos exposición a ella. Confirma estructuralmente la tesis del capitalismo de la vigilancia.",
+      "quote_evidence": "Los hijos de los ejecutivos de Silicon Valley tienen prohibida la tecnología en el colegio porque saben exactamente lo que supone,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "asociación de telespectadores y radioyentes",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención contextual al origen institucional del marco analítico aplicado en el vídeo (asociación de profesores y padres preocupados por efectos mediáticos). Pieza biográfica/institucional del entrevistado, no pieza enciclopédica del canal.",
+      "quote_evidence": "La asociación de telespectadores y radioyentes surgió de profesores y padres preocupados por la incidencia de la tele en los hábitos de los jóvenes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "emojis en libros infantiles imitando móvil",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación interesante: el formato de comunicación diseñado originalmente para autismo grave (emoticonos para señalar contexto afectivo) se aplica ahora a todos los niños. Pieza de crítica cultural sobre estandarización descendente. Single-source breve.",
+      "quote_evidence": "Ese formato fue diseñado originalmente para personas con trastorno del espectro autista grave que no pueden vivir el contexto afectivo del texto,",
+      "review_priority": "medium",
+      "review_priority_reason": "si recurre con desarrollo, podría enriquecer fenomenologia-trans-en-proxy o consumismo-critica con tesis sobre la imposición del formato neurodiverso a la población general",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "escribir a mano vs tableta (diferencia neurológica)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis sobre el esfuerzo anticipatorio del papel vs la subsanabilidad infinita de la tableta como diferencia neurológica de aprendizaje. Conecta con teoria-de-la-memoria-en-proxy (consolidación por esfuerzo). Single-source breve.",
+      "quote_evidence": "En papel el esfuerzo anticipatorio de procurar no equivocarse es mucho más enriquecedor que en una tableta donde todo es subsanable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-memoria-en-proxy"
+    },
+    {
+      "surface_form": "pandemia como año perdido educativamente",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Tesis sobre la pérdida educativa del año pandemia por desaparición de la presencia humana, no por insuficiencia metodológica. Conecta con la tesis de crisis de presencia ya articulada en este vídeo.",
+      "quote_evidence": "Todos los profesores ven el año de pandemia como un año perdido educativamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "vinculo"
+    },
+    {
+      "surface_form": "familia como primer bastión vs vacío llenado por tecnología",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis sobre la tecnología ocupando el vacío que deja la familia. Pieza de la crítica cultural a la disolución del vínculo familiar contemporáneo. Conecta con crisis-del-amor-pareja-y-maternidad-en-proxy.",
+      "quote_evidence": "La tecnología ocupa rápidamente el vacío que va dejando la familia; si la familia se vacía de contenido, la tecnología lo llena,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 21,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "video_format_note": "Vídeo formato 'entrevistas / cultura y actualidad' — registro distinto del análisis arquetípico que domina el corpus. Material de crítica cultural-educativa-tecnológica en clave de diálogo con citas a autoridades externas (McLuhan, Postman, Sartori, Marina, Luri, Monasterio, Zuboff, Bartra). Ninguna tesis arquetípica nueva del canal con desarrollo suficiente para promoción. Bibliografía recomendada y conceptos foundational marcados con review_priority alta para futura evaluación cuando recurran con desarrollo en otros vídeos del corpus."
+  }
+}

@@ -475,6 +475,9 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 
 
 
+
+
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
@@ -507,4 +510,7 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Event Horizon** — chunks: [0:39](https://youtu.be/cgO7JwvwOQg?t=39)
 - **Matrix II y III** — chunks: [7:10](https://youtu.be/tkVwAclFrsI?t=430)
 - **Matrix y el camino del héroe.** — chunks: [21:45](https://youtu.be/kF5KHE_fF7g?t=1305) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
+- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [56:25](https://youtu.be/QSggWfjOkHk?t=3385)
+- **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [12:39](https://youtu.be/CEa517aakr8?t=759)
+- **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [6:59](https://youtu.be/iPqOn-ynSlE?t=419) · [15:01](https://youtu.be/iPqOn-ynSlE?t=901)
 

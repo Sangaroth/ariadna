@@ -1,0 +1,350 @@
+{
+  "video_id": "JzfcmEKWm1c",
+  "video_title": "Terror: Lovecraft y lo incompleto.",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Memoria (Lovecraft, 1919)",
+      "canonical_guess": "memoria-lovecraft",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Un genio lunar y un demonio del valle dialogan sobre los constructores de un templo en ruinas,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El genio representa lo uránico (arriba, los dioses lunares, los mitos que el hombre imagina),"
+        },
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "El giro final revela que las criaturas que construyeron el templo eran hombres, recontextualizando todo el cuento como ciencia ficción,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.3 entity_work por LECTURA ÍNTEGRA en sesión: el cuento es leído íntegramente como input al corpus en directo. Caso paradigmático del esquema uránico/telúrico/cetónico articulado explícitamente en el cuento (genio=uránico, demonio=cetónico, hombre=telúrico). Formato es prosa-poema breve estilo temprano lovecraftiano. La promoción sigue el patrón canónico del corpus (aire-frio, ex-oblivione, la-lamina-de-la-casa, etc. — todos cuentos breves leídos in-session con página propia). read_in_session: true.",
+      "quote_evidence": "Un genio lunar y un demonio del valle dialogan sobre los constructores de un templo en ruinas,"
+    },
+    {
+      "surface_form": "La ciudad sin nombre (Lovecraft, 1921)",
+      "canonical_guess": "la-ciudad-sin-nombre-lovecraft",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Un explorador solitario encuentra una ciudad más antigua que Memphis y Babilonia en el desierto de Arabia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las proporciones del pasadizo y los templos corresponden a las criaturas reptilianas, no a humanos arrodillados por devoción,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.3 entity_work por LECTURA ÍNTEGRA en sesión + estatus foundational en el corpus lovecraftiano declarado por el speaker ('primer intento de Lovecraft de construir una civilización completamente inventada'). Cita ya existente en lovecraft-howard.md confirma la importancia del cuento. Caso temprano del barroquismo lovecraftiano funcional (la prosa sobrecargada como dispositivo de credibilidad articulado en lovecraft-howard). La sentencia de Abdul Alhazred ('No está muerto lo que puede yacer eternamente') hace su aparición canónica aquí — pieza foundational del Necronomicón. read_in_session: true.",
+      "quote_evidence": "Cita del pareado de Abdul Alhazred: \"No está muerto lo que puede yacer eternamente, y en los eones venideros hasta la muerte puede morir\","
+    },
+    {
+      "surface_form": "Los otros dioses (Lovecraft, 1921)",
+      "canonical_guess": "los-otros-dioses-lovecraft",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Los dioses de la tierra fueron forzados a retirarse a cumbres cada vez más altas por la intrusión humana,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lovecraft construye un doble nivel divino: los dioses de la tierra (telúricos) y los dioses terribles de esos dioses (uránicos malditos),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Bloodborne replica esta estructura con dioses que claman a la luna y dioses que provienen de lo profundo: un uránico maldito y un cetónico maldito,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.3 entity_work por LECTURA ÍNTEGRA en sesión + articulación foundational del doble cielo lovecraftiano (dioses telúricos vs dioses uránicos malditos) que el canal identifica como pieza estructural replicada en [[bloodborne-game]]. Es el cuento donde Lovecraft instaura el esquema cosmológico de doble nivel divino que sostiene buena parte del horror cósmico posterior. La pieza Hatheg-Kla / Kadath es input específico al corpus de los Mitos de Cthulhu.",
+      "quote_evidence": "Barzai descubre que más allá de los dioses de la tierra existen \"los otros dioses\" de los infiernos exteriores que los custodian,"
+    },
+    {
+      "surface_form": "El ceremonial (Lovecraft, 1923)",
+      "canonical_guess": "el-ceremonial-lovecraft",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Un hombre viaja a la antigua Kingsport para celebrar un ceremonial que su familia ha mantenido cada 100 años,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En una costa fungosa subterránea iluminada por llamas verdes putrefactas, se celebra el rito primigenio del solsticio,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El protagonista descubre que su guía porta un reloj enterrado con su tatarabuelo en 1698, y bajo la máscara de cera no hay rostro humano,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.3 entity_work por LECTURA ÍNTEGRA en sesión. Cuento del ciclo Kingsport, foundational por su articulación de la familia heredera del rito secular como dispositivo del horror cósmico (la masa encapuchada que desciende en silencio por escalera espiral hacia catacumbas con criaturas aladas-fungosas). Caso paradigmático de la SEGUNDA vía lovecraftiana al sobrenatural articulada en lovecraft-howard.md ('El instrumento ritual y el conocimiento como segunda vía'): el ritual heredado familiarmente + el conocimiento del Necronomicón presente en la casa como par instrumento+cognición. read_in_session: true.",
+      "quote_evidence": "Una muchedumbre encapuchada converge hacia una iglesia blanca en lo alto de la colina,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página.",
+  "pending_updates": [
+    {
+      "page_id": "lovecraft-howard",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio). Página propia: [[ex-oblivione-lovecraft]].",
+      "content_proposed": "\n- **'Memoria'** (1919): prosa-poema temprana donde un genio lunar y un demonio del valle dialogan sobre las ruinas de un templo. El giro final revela que las criaturas-arquitectos eran hombres, recontextualizando el cuento como ciencia ficción retrospectiva. Caso paradigmático del esquema uránico/telúrico/cetónico ([[uranico-telurico-cetonico]]) articulado iconográficamente: genio arriba, demonio abajo, hombre fracasado dominado por monos en la superficie. Página propia: [[memoria-lovecraft]].\n  → [Terror: Lovecraft y lo incompleto (27:18)](https://youtu.be/JzfcmEKWm1c?t=1638)\n\n- **'La ciudad sin nombre'** (1921): primer intento del autor de construir una civilización completamente inventada. Un explorador solitario encuentra en el desierto de Arabia una ciudad más antigua que Memphis y Babilonia, con templos de proporciones bajas que resultan no ser deferencia religiosa sino la escala natural de los constructores reptilianos. Pieza foundational del barroquismo lovecraftiano funcional (la prosa sobrecargada como dispositivo de credibilidad descrita en sección 'Barroquismo como recurso de credibilidad'). Aparece la cita canónica de Abdul Alhazred. Página propia: [[la-ciudad-sin-nombre-lovecraft]].\n  → [Terror: Lovecraft y lo incompleto (32:58)](https://youtu.be/JzfcmEKWm1c?t=1978)\n\n- **'Los otros dioses'** (1921): Barzai el Sabio escala el Hatheg-Kla para contemplar a los dioses de la tierra y descubre que más allá de ellos existen 'los otros dioses' de los infiernos exteriores que los custodian. Cuento foundational por instaurar el **doble cielo lovecraftiano**: dos niveles divinos donde los dioses telúricos están a su vez vigilados por dioses uránicos malditos. La estructura se replica explícitamente en [[bloodborne-game]] (uránico maldito + cetónico maldito). Página propia: [[los-otros-dioses-lovecraft]].\n  → [Terror: Lovecraft y lo incompleto (1:11:53)](https://youtu.be/JzfcmEKWm1c?t=4313)\n\n- **'El ceremonial'** (1923): un hombre viaja a Kingsport para celebrar el rito secular que su familia mantiene cada 100 años. La masa encapuchada desciende en silencio por escalera espiral interminable hasta una costa fungosa subterránea con llamas verdes que no arrojan calor; el guía porta un reloj enterrado con el tatarabuelo del protagonista en 1698. Caso paradigmático de la SEGUNDA vía lovecraftiana al sobrenatural articulada arriba (instrumento ritual + conocimiento esotérico): el rito heredado familiarmente + el Necronomicón en la casa como par cognición/instrumento. Página propia: [[el-ceremonial-lovecraft]].\n  → [Terror: Lovecraft y lo incompleto (1:28:57)](https://youtu.be/JzfcmEKWm1c?t=5337)\n\n## El doble cielo lovecraftiano: dioses telúricos vs uránicos malditos\n\nLa lectura íntegra de 'Los otros dioses' permite articular un dispositivo cosmológico canónico que el canal identifica como pieza foundational del horror lovecraftiano y de su herencia contemporánea:\n\n> \"Lovecraft construye un doble nivel divino: los dioses de la tierra (telúricos) y los dioses terribles de esos dioses (uránicos malditos),\"\n→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)\n\n> \"El eclipse inexplicable funciona como apertura entre ambos planos,\"\n→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)\n\n> \"Bloodborne replica esta estructura con dioses que claman a la luna y dioses que provienen de lo profundo: un uránico maldito y un cetónico maldito,\"\n→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)\n\nLa pieza extiende la articulación ya documentada del horror cósmico como inversión arquetípica del animismo. Donde el animismo arcaico tenía un solo cielo benévolo poblado de espíritus protectores, Lovecraft instaura un **doble cielo** en el que los dioses primarios (telúricos, dioses-de-la-tierra retirados a cumbres altas) están a su vez sometidos a una potencia superior más oscura (los otros dioses, uránicos malditos). La consecuencia operativa: la elevación contemplativa hacia lo divino — gesto canónico del místico clásico — en Lovecraft NO conduce a la teofanía sino al descubrimiento del segundo nivel donde la divinidad benigna queda revelada como custodiada por entidades indiferentes u hostiles. La fórmula que Lovecraft instaura en 'Los otros dioses' (Barzai contempla a los dioses telúricos y descubre el abismo de los uránicos malditos detrás) opera estructuralmente en [[bloodborne-game]] como mecánica del Insight: cuanto más conocimiento esotérico acumula el cazador, más se le revelan los Grandes que estaban operando detrás del cosmos del juego. La pieza añade al aparato la cifra cosmológica que las secciones anteriores tenían dispersa: el horror lovecraftiano no es solo indiferencia cósmica genérica sino arquitectura específica de doble nivel divino.\n",
+      "wikilinks_introduced": [
+        "memoria-lovecraft",
+        "la-ciudad-sin-nombre-lovecraft",
+        "los-otros-dioses-lovecraft",
+        "el-ceremonial-lovecraft",
+        "uranico-telurico-cetonico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "JzfcmEKWm1c",
+          "timestamp_seconds": 1638,
+          "cite_markdown": "[Terror: Lovecraft y lo incompleto (27:18)](https://youtu.be/JzfcmEKWm1c?t=1638)"
+        },
+        {
+          "video_id": "JzfcmEKWm1c",
+          "timestamp_seconds": 1978,
+          "cite_markdown": "[Terror: Lovecraft y lo incompleto (32:58)](https://youtu.be/JzfcmEKWm1c?t=1978)"
+        },
+        {
+          "video_id": "JzfcmEKWm1c",
+          "timestamp_seconds": 4313,
+          "cite_markdown": "[Terror: Lovecraft y lo incompleto (1:11:53)](https://youtu.be/JzfcmEKWm1c?t=4313)"
+        },
+        {
+          "video_id": "JzfcmEKWm1c",
+          "timestamp_seconds": 5337,
+          "cite_markdown": "[Terror: Lovecraft y lo incompleto (1:28:57)](https://youtu.be/JzfcmEKWm1c?t=5337)"
+        },
+        {
+          "video_id": "JzfcmEKWm1c",
+          "timestamp_seconds": 5242,
+          "cite_markdown": "[Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo en doble eje: (1) extensión del catálogo de cuentos leídos íntegramente (cuatro nuevas piezas con páginas propias) que cierra parcialmente la laguna explícita 'Cuentos individuales más allá de los citados'; (2) articulación foundational del DOBLE CIELO LOVECRAFTIANO como dispositivo cosmológico canónico (dioses telúricos vs uránicos malditos) que la página tenía como tesis implícita pero no formalizada — pieza estructural que conecta el horror cósmico con su replicación en Bloodborne y Warhammer 40K como arquitectura específica, no solo influencia genérica.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "lovecraft-howard",
+      "update_type": "mark_laguna_resolved",
+      "supersedes_laguna_text": "**Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos quedan recogidos en esta página con timestamp explícito",
+      "content_proposed": "Resuelta parcialmente por extensión del catálogo de cuentos leídos íntegramente con cuatro páginas propias (Memoria, La ciudad sin nombre, Los otros dioses, El ceremonial) — el catálogo recoge ahora siete cuentos con timestamp explícito y página dedicada (junto a aire-frio, el-descendiente, el-modelo-de-pickman, en-la-cripta, ex-oblivione, la-extrana-casa-elevada-entre-la-niebla, la-lamina-de-la-casa, la-llave-de-plata previos).",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La extensión del catálogo añade cuatro entity_works lovecraftianos al corpus, cubriendo material de los ciclos tempranos (Memoria, La ciudad sin nombre, Los otros dioses) y del ciclo Kingsport (El ceremonial). La laguna queda parcialmente cerrada — el catálogo es ahora sustancialmente más completo aunque pueden seguir existiendo cuentos leídos en otros directos no procesados todavía.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "uranico-telurico-cetonico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "ambas formas operan en el wiki como aliases de la misma región arquetípica, sin diferencia conceptual.",
+      "content_proposed": "\n\n## Memoria de Lovecraft: el caso paradigmático del esquema en literatura\n\nEl cuento [[memoria-lovecraft|Memoria]] (Lovecraft, 1919) leído íntegramente en directo articula la triada explícitamente como dispositivo dramatúrgico: el diálogo entre un genio lunar y un demonio del valle distribuye iconográficamente las tres regiones sobre los tres tipos de personaje del cuento.\n\n> \"El genio representa lo uránico (arriba, los dioses lunares, los mitos que el hombre imagina),\"\n→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)\n\n> \"El demonio representa lo cetónico (abajo, las profundidades, el pecado),\"\n→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)\n\n> \"El hombre fracasado, ahora dominado por monos, ocupa lo telúrico (la superficie de la tierra),\"\n→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)\n\n> \"El demonio siempre está abajo y los genios siempre están arriba como principio simbólico,\"\n→ [Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)\n\nLa pieza es operativa porque Lovecraft instaura el esquema como **principio iconográfico universal** ('el demonio siempre está abajo y los genios siempre están arriba') y simultáneamente lo aplica al cuento concreto. Memoria opera entonces como caso de literatura donde la triada NO es lectura interpretativa post-hoc del canal sino dispositivo manifiesto de la propia obra — los personajes están explícitamente distribuidos por región. La consecuencia para la lectura del corpus: cualquier obra lovecraftiana posterior puede leerse buscando esta distribución tripartita de los agentes narrativos, no solo el horror cósmico genérico.\n\n### Los otros dioses: el doble cielo y el refinamiento de la región uránica\n\nEl mismo directo añade una pieza estructural que la página declaraba como laguna ('**Uránico desarrollado**: el material recuperado articula con detalle telúrico y cetónico... pero deja lo uránico apenas definido'): la región uránica se desdobla en [[los-otros-dioses-lovecraft|el cuento homónimo]] entre **uránico benévolo** (los dioses de la tierra retirados a cumbres altas, susceptibles de teofanía clásica) y **uránico maldito** (los otros dioses de los infiernos exteriores que custodian a los primeros).\n\n> \"Lovecraft construye un doble nivel divino: los dioses de la tierra (telúricos) y los dioses terribles de esos dioses (uránicos malditos),\"\n→ [Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)\n\nLa pieza precisa el alcance del esquema: lo uránico NO es región monolítica sino territorio que admite su propia bisección interna. La narrativa uránica clásica (gran padre celestial que aguarda al héroe digno, articulada en sección anterior) opera en el sub-registro uránico benévolo; el horror cósmico lovecraftiano opera en el sub-registro uránico maldito (los dioses indiferentes-hostiles que vigilan a los benévolos). La consecuencia para la cosmología del canal: el equilibrio telúrico articulado en [[gothika-2003-film|Gothika]] como criterio de salud psíquica debe entenderse como integración entre los polos saludables (uránico benévolo, telúrico habitable, cetónico contenido), distinto del desequilibrio que opera por contacto con uránico maldito o con cetónico desbordado. La triada gana así matiz operativo: cada región tiene su propia bisección interna entre modalidad sostenible y modalidad maldita.\n",
+      "wikilinks_introduced": [
+        "memoria-lovecraft",
+        "los-otros-dioses-lovecraft"
+      ],
+      "citations_added": [
+        {
+          "video_id": "JzfcmEKWm1c",
+          "timestamp_seconds": 1857,
+          "cite_markdown": "[Terror: Lovecraft y lo incompleto (30:57)](https://youtu.be/JzfcmEKWm1c?t=1857)"
+        },
+        {
+          "video_id": "JzfcmEKWm1c",
+          "timestamp_seconds": 5242,
+          "cite_markdown": "[Terror: Lovecraft y lo incompleto (1:27:22)](https://youtu.be/JzfcmEKWm1c?t=5242)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo en dos ejes: (1) caso paradigmático literario donde la triada opera como dispositivo dramatúrgico explícito (no lectura interpretativa) — Memoria distribuye los tres personajes en las tres regiones con principio iconográfico universal articulado por el speaker; (2) refinamiento de la región uránica vía el doble cielo lovecraftiano (uránico benévolo / uránico maldito) que cierra parcialmente la laguna 'Uránico desarrollado'. La pieza añade además la lectura de las tres regiones como territorios con bisección interna sostenible/maldita, matiz operativo que las secciones existentes tenían implícito.",
+      "editorial_intent": "resolve_laguna"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Edgar Allan Poe",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como predecesor directo de Lovecraft en la técnica de narrativa incompleta. Ya documentado en lovecraft-howard como antecedente con laguna explícita ('Comparación detallada con Poe: el canal lo menciona como antecedente directo pero no profundiza'). Esta video confirma la genealogía técnica pero NO articula a Poe como teórico-marco aplicado. Candidato a author page si recurre con análisis sustantivo de su obra.",
+      "quote_evidence": "Lovecraft heredó esta técnica de Edgar Allan Poe, quien fue el primero en crear historias de terror donde lo importante no es qué ocurre sino que algo está ocurriendo,",
+      "review_priority": "medium",
+      "review_priority_reason": "si futuras sesiones procesan análisis de Poe como obra (no solo como antecedente), considerar promote como author. Es figura load-bearing en la genealogía del horror moderno",
+      "enriches_concept": "lovecraft-howard"
+    },
+    {
+      "surface_form": "mysterium fascinans",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto articulado con sustancia: 'la sensación de sentirse enfermo, mórbido, ansioso, febril y lánguido ante la prosa barroca' + 'mal placentero comparable a cortarse la circulación con una goma elástica' + 'cuando es profunda es cetónica'. El término procede de Rudolf Otto (mysterium tremendum et fascinans, 1917), aplicado aquí al qualia del lector lovecraftiano y al Dios de Israel. Single-source pero articulación sustantiva con framing-mark + categorización (cetónica). Candidato a concept page si recurre con desarrollo en otros vídeos.",
+      "quote_evidence": "Se denomina mysterium fascinans, y cuando es profunda es cetónica,",
+      "review_priority": "high",
+      "review_priority_reason": "concepto operativo del canal para nombrar el qualia específico del horror lovecraftiano y experiencias religiosas afines. Si recurre, merece concept page articulando la qualia + categorización espacial (cetónica) + comparación con experiencia religiosa",
+      "enriches_concept": "horror-cosmico"
+    },
+    {
+      "surface_form": "doble cielo lovecraftiano",
+      "reason_code": "already_captured",
+      "reason_detail": "Framework canal-articulado capturado en pending_update a lovecraft-howard (sección 'El doble cielo lovecraftiano') y en pending_update a uranico-telurico-cetonico (sección 'Los otros dioses: el doble cielo y el refinamiento de la región uránica'). Pieza foundational del horror lovecraftiano que estructura la lectura del corpus.",
+      "quote_evidence": "Lovecraft construye un doble nivel divino: los dioses de la tierra (telúricos) y los dioses terribles de esos dioses (uránicos malditos),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "horror-cosmico"
+    },
+    {
+      "surface_form": "Carcosa / True Detective T1",
+      "reason_code": "passing_mention",
+      "reason_detail": "Carcosa (ciudad oculta de los Mitos de Cthulhu) y True Detective T1 mencionadas como herencia lovecraftiana contemporánea. Ya documentadas en sección 'Influencia contemporánea' de lovecraft-howard. Sin desarrollo nuevo.",
+      "quote_evidence": "Carcosa es una ciudad oculta perteneciente a los mitos de Cthulhu, vista solo por unos pocos,",
+      "review_priority": "medium",
+      "review_priority_reason": "True Detective T1 podría merecer entity_work propio si recurre con análisis sustantivo en otros vídeos. Por ahora vivirá como nota en lovecraft-howard",
+      "enriches_concept": "lovecraft-howard"
+    },
+    {
+      "surface_form": "Abdul Alhazred / Necronomicón",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje ficticio de los Mitos de Cthulhu (autor del Necronomicón) cuya cita canónica aparece en La ciudad sin nombre. El Necronomicón ya está documentado en lovecraft-howard como pieza articuladora del lore. Vivirán íntegramente en la-ciudad-sin-nombre-lovecraft con la cita canónica.",
+      "quote_evidence": "Cita del pareado de Abdul Alhazred: \"No está muerto lo que puede yacer eternamente, y en los eones venideros hasta la muerte puede morir\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-ciudad-sin-nombre-lovecraft"
+    },
+    {
+      "surface_form": "Hatheg-Kla / Kadath / dioses de la tierra",
+      "reason_code": "in_work_character",
+      "reason_detail": "Setting interno de Los otros dioses (la cumbre Hatheg-Kla, las inmensidades heladas de Kadath, los dioses de la tierra retirados). Pieza del lore lovecraftiano interno al cuento. Vivirá en los-otros-dioses-lovecraft.",
+      "quote_evidence": "Refugiados en la desconocida Kadath en las inmensidades heladas, se han vuelto ariscos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-otros-dioses-lovecraft"
+    },
+    {
+      "surface_form": "Barzai el Sabio / Atal",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personajes de Los otros dioses (Barzai como semidiós sabio, Atal como discípulo temeroso). Vivirán en los-otros-dioses-lovecraft.",
+      "quote_evidence": "Barzai, casi un semidiós por su conocimiento de los dioses, decide escalar el Hatheg-Kla para contemplarlos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-otros-dioses-lovecraft"
+    },
+    {
+      "surface_form": "Kingsport / familia heredera del rito",
+      "reason_code": "in_work_character",
+      "reason_detail": "Setting y dispositivo familiar de El ceremonial (Kingsport ciclo lovecraftiano, familia que mantiene rito secular cada 100 años). Pieza interna del cuento.",
+      "quote_evidence": "Un hombre viaja a la antigua Kingsport para celebrar un ceremonial que su familia ha mantenido cada 100 años,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-ceremonial-lovecraft"
+    },
+    {
+      "surface_form": "Warhammer 40K / disformidad",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Mención de la disformidad de Warhammer 40K como herencia lovecraftiana. Ya documentada en lovecraft-howard sección 'Influencia contemporánea' y en warhammer-y-fantasia-masculina. Sin desarrollo nuevo.",
+      "quote_evidence": "La disformidad de Warhammer 40.000 tiene origen lovecraftiano, conectada con la película Event Horizon,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "warhammer-y-fantasia-masculina"
+    },
+    {
+      "surface_form": "Bloodborne (replicación del doble cielo)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Mención específica de cómo Bloodborne replica el doble cielo lovecraftiano (uránico maldito + cetónico maldito). Capturada en pending_updates a lovecraft-howard y uranico-telurico-cetonico. La página bloodborne-game existente puede recibir cita-only enrichment vía sistema automático.",
+      "quote_evidence": "Bloodborne replica esta estructura con dioses que claman a la luna y dioses que provienen de lo profundo: un uránico maldito y un cetónico maldito,",
+      "review_priority": "medium",
+      "review_priority_reason": "podría enriquecer bloodborne-game con sección sobre arquitectura cosmológica del doble cielo como dispositivo específico, no solo horror cósmico genérico",
+      "enriches_concept": "bloodborne-game"
+    },
+    {
+      "surface_form": "comparación temor lovecraftiano vs Dios de Israel",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pregunta abierta planteada al final del directo sobre si la diferencia entre el temor que inspira el Dios de Israel y el temor lovecraftiano del cosmos es realmente categorial. El speaker sugiere que 'quizá la diferencia no sea tanta'. Mención sin desarrollo sostenido. Tema con potencial para futuro thesis_candidate sobre genealogía del horror sagrado.",
+      "quote_evidence": "Pregunta sobre la diferencia entre el temor que inspira el Dios de Israel y el temor lovecraftiano del cosmos,",
+      "review_priority": "high",
+      "review_priority_reason": "si recurre con desarrollo, podría producir thesis_candidate sobre la equivalencia estructural entre temor sagrado clásico y horror cósmico moderno — pieza relevante para horror-cosmico, mysterium fascinans (si se promueve), y demonios-en-proxy",
+      "enriches_concept": "horror-cosmico"
+    },
+    {
+      "surface_form": "narrativa incompleta como técnica del terror",
+      "reason_code": "already_captured",
+      "reason_detail": "Capturada en lovecraft-howard sección 'La narrativa incompleta: técnica del horror cósmico' con citas literales de este vídeo. La página ya documenta la genealogía Poe → Lovecraft y el dispositivo de inefabilidad. Sin material nuevo respecto al ya integrado.",
+      "quote_evidence": "La narrativa incompleta como técnica central del terror lovecraftiano: generar intriga por lo que no se cuenta, no por lo que se cuenta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lovecraft-howard"
+    },
+    {
+      "surface_form": "alegoría reptiliana / inmortalidad como ilusión prometedora",
+      "reason_code": "in_work_character",
+      "reason_detail": "Lectura simbólica interna de La ciudad sin nombre (las criaturas reptilianas como tótem civilizatorio, la promoción de inmortalidad como ilusión). Pieza interna del cuento, vivirá en la-ciudad-sin-nombre-lovecraft.",
+      "quote_evidence": "La civilización no representaba muertes naturales: promovían un ideal de inmortalidad como ilusión prometedora,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-ciudad-sin-nombre-lovecraft"
+    },
+    {
+      "surface_form": "Evento del solsticio / criaturas aladas fungosas",
+      "reason_code": "in_work_character",
+      "reason_detail": "Elementos rituales y criaturas internas de El ceremonial (rito del solsticio, llamas verdes sin calor, híbridos alados). Vivirán en el-ceremonial-lovecraft.",
+      "quote_evidence": "Una horda de híbridos alados surge de la oscuridad: ni cuervos, ni topos, ni murciélagos, ni humanos en descomposición,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-ceremonial-lovecraft"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 4,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP framing_mark @ entity[la-ciudad-sin-nombre-lovecraft]: \"'La ciudad sin nombre' es el primer intento de Lovecraft de \"",
+    "WARN promote_new[Memoria (Lovecraft, 1919)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[La ciudad sin nombre (Lovecraft, 1921)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Los otros dioses (Lovecraft, 1921)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[El ceremonial (Lovecraft, 1923)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

@@ -228,8 +228,194 @@ La lectura sitúa el estado de autonomías como mecanismo distáxico estructural
 El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada del canal frente al sistema buenista: se hereda el vocabulario operativo y la categorización política, pero la articulación con el [[realismo-cognitivo]] cierra la causalidad psíquica del fenómeno (ver pending_update herida-narcisista-en-proxy y thesis_candidate sobre asimetría de la introyección de culpa por sexo) — Bueno aporta la categoría del proceso, el canal aporta su mecanismo psíquico subyacente.
 
 
+
+## Refinamientos del laboratorio dialéctico con Sofía (jul 2025)
+
+El directo *T4 Laboratorio de... filo, con Sofía* opera como pieza dialéctica donde Proxy confronta su realismo cognitivo con una estudiante directa del sistema buenista (Sofía). La sesión añade refinamientos operativos del aparato que las secciones anteriores tenían dispersos.
+
+### Wolf como antecedente histórico de la terna foundational
+
+> "Wolf ya establecía la terna Dios, mundo y alma; Bueno la reformula como mundo, materia ontológico general (M) y ego trascendental,"
+→ [Laboratorio de filo, con Sofía (07:41)](https://youtu.be/GizCbTycY4U?t=461)
+
+> "Estas tres ideas son la matriz de todo el sistema: sin entenderlas no se entiende nada del resto,"
+→ [Laboratorio de filo, con Sofía (07:41)](https://youtu.be/GizCbTycY4U?t=461)
+
+La pieza añade la genealogía histórica: la terna foundational del materialismo filosófico (mundo / materia ontológico general / ego trascendental) NO es invención ex nihilo de Bueno sino reformulación crítica de la terna escolástica clásica de Christian Wolf (Dios / mundo / alma). Bueno seculariza y materializa el esquema: 'Dios' deviene 'materia ontológico general' (idea límite regresiva, no entidad personal), 'alma' deviene 'ego trascendental' (sujeto operatorio histórico-social, no sustancia espiritual). La consecuencia operativa: el materialismo filosófico opera dentro del molde tripartito metafísico clásico aunque rechace su sustancialización tradicional. La pieza precisa por qué la sistemática buenista mantiene tres ideas y no dos o cuatro — el armazón histórico es escolástico-wolffiano y Bueno no lo reinventa, lo materializa.
+
+### Los tres reduccionismos materialistas criticados por Bueno
+
+El sistema buenista se construye en explícita oposición a tres modalidades reduccionistas del materialismo:
+
+> "El mecanicismo de Descartes reduce todo a causas y consecuencias físicas, negando emociones a los animales,"
+→ [Laboratorio de filo, con Sofía (09:12)](https://youtu.be/GizCbTycY4U?t=552)
+
+> "El corporeísmo de Demócrito afirma que todo son cuerpos, omitiendo M2 y M3,"
+→ [Laboratorio de filo, con Sofía (09:12)](https://youtu.be/GizCbTycY4U?t=552)
+
+> "El fisicalismo reduce todo a partículas sometidas a leyes de gravedad y energía, sin dar cuenta de instituciones sociológicas o antropológicas,"
+→ [Laboratorio de filo, con Sofía (09:12)](https://youtu.be/GizCbTycY4U?t=552)
+
+La pieza articula la triple oposición que define la singularidad del materialismo filosófico: NO es corporeísmo (Demócrito) porque admite M2 y M3 además de M1, NO es mecanicismo (Descartes) porque admite la complejidad psíquica más allá del par causa-efecto físico, NO es fisicalismo (analítico contemporáneo) porque admite las instituciones sociológicas y antropológicas como entidades ontológicas. La crítica del canal a la suficiencia del materialismo articulada en sección anterior ('M3 reabsorbido en M2') opera DENTRO de este reconocimiento — el realismo cognitivo no acusa a Bueno de fisicalismo encubierto, sino que disiente sobre si la tripartición M1/M2/M3 es la mejor articulación de la materialidad psíquica una vez aceptada la insuficiencia de los tres reduccionismos.
+
+### Concepto vs idea filosófica: la filosofía como saber de segundo grado
+
+> "Un concepto es un término dentro de un cierre categorial concreto (ej: \"estructura\" para un albañil),"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+> "Cuando ese concepto se maneja en múltiples cierres categoriales (matemáticas, gramática, sociología), se convierte en idea filosófica que desborda los conceptos,"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+> "La filosofía es un saber de segundo grado: va siempre detrás de la actividad cotidiana conceptual,"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+> "La idea de \"imperio\" desborda el ámbito político: imperar existe como estructura en múltiples ámbitos,"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+La pieza precisa una distinción metodológica foundational del sistema buenista: la **filosofía como saber de segundo grado**. Los conceptos operan dentro de un cierre categorial concreto — el albañil maneja 'estructura' en su gremio sin necesidad de teorizar el término. Las ideas filosóficas surgen cuando un mismo término opera en múltiples cierres categoriales (estructura en arquitectura, en gramática, en matemáticas, en sociología). La idea filosófica es lo que **desborda** los conceptos disciplinares y exige sistematización trans-categorial. La filosofía no inventa: rastrea hacia atrás la actividad cotidiana conceptual buscando las ideas que ya operan transversalmente. La consecuencia para la lectura del corpus: cuando el canal articula 'sombra', 'individuación' o 'mito polar' no opera con conceptos de un solo cierre sino con ideas filosóficas en sentido buenista — términos que desbordan psicología, antropología, mitología y narrativa.
+
+### Acrónico y atópico: por qué M3 no se reduce a M2 según Sofía
+
+> "M3 tiene que ver con el pensamiento abstracto, instituciones y relaciones; es acrónico (el teorema de Pitágoras es verdad hace 2000 años como hoy) y atópico (puedes destruir todos los documentos y los sujetos podrían recrearlo),"
+→ [Laboratorio de filo, con Sofía (18:17)](https://youtu.be/GizCbTycY4U?t=1097)
+
+> "El teorema de Pitágoras no le pertenece a nadie: es acrónico, atópico y desborda cualquier sujeto individual,"
+→ [Laboratorio de filo, con Sofía (51:35)](https://youtu.be/GizCbTycY4U?t=3095)
+
+La pieza articula con precisión la propiedad ontológica que sostiene M3 como género autónomo según el argumento buenista que Sofía defiende: **acrónico** (independiente del tiempo: la verdad del teorema de Pitágoras no varía entre épocas) + **atópico** (independiente del lugar: aunque se destruyan todos los textos, los sujetos pueden recrear la verdad). La doble independencia espacio-temporal es lo que distingue M3 de M2 según el sistema: M2 (la representación que cada sujeto tiene de Pitágoras en su mente) es individual, contextual, contingente; M3 (la verdad del teorema) trasciende toda actualización M2 particular.
+
+La objeción del canal a esta articulación queda explícita en la sesión: 'cada cosa que se usa para hablar de M3 es un hecho representacional, nunca hay nada que señale M3 directamente si no es a través de M2'. La sesión cierra con Proxy reconociendo que M3 'le sigue costando' y que necesita más estudio — el debate queda abierto. La sesión es paradigmática del aprovechamiento crítico del aparato buenista que el canal ejerce: hereda la maquinaria conceptual y dialoga con sus defensores sin comprometerse con su completa coherencia ontológica.
+
+### El cerebro de Newton: M1 y M2 coextensivos pero inconmensurables
+
+> "Las ideas de Newton no se ven al abrir su cerebro, pero si le pones otro cerebro deja de ser Newton,"
+→ [Laboratorio de filo, con Sofía (25:21)](https://youtu.be/GizCbTycY4U?t=1521)
+
+> "M1 y M2 son coextensivos pero inconmensurables: no puedes usar uno para definir el otro,"
+→ [Laboratorio de filo, con Sofía (25:21)](https://youtu.be/GizCbTycY4U?t=1521)
+
+La pieza articula el ejemplo canónico de la inconmensurabilidad M1-M2 vía caso paradigmático: el cerebro de Newton es M1 (estructura física), las ideas de Newton son M2 (interioridad), y aunque no puedas hallar las ideas examinando el órgano (la inconmensurabilidad es real), tampoco puedes sustituir el cerebro sin perder al sujeto-Newton (la coextensividad es real). La doble afirmación captura la posición buenista frente al fisicalismo crudo (que reduciría M2 a M1) y al idealismo subjetivo (que separaría completamente M2 de M1) en una sola fórmula operativa: las dos materialidades coexisten en el mismo entreteijido (estroma) pero ninguna puede expresarse en términos de la otra.
+
+
+
+## Refinamientos del laboratorio T4Lx02 con Santiago: M3 y cierre categorial (jul 2025)
+
+El segundo laboratorio dialéctico (con Santiago como interlocutor) profundiza específicamente en M3 y la teoría del cierre categorial — pieza explícitamente declarada como laguna de la página. La sesión articula refinamientos foundational sobre la concepción de la conciencia, el yo y la verdad científica.
+
+### El par cerca/lejos sustituye a dentro/fuera: contra la metafísica de la interioridad
+
+> "M2 se refiere a los fenómenos psíquicos y vivencias, pero no deben entenderse como \"vivencias internas\" porque eso implica una interioridad metafísica dentro del sujeto,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (02:16)](https://youtu.be/ecG-JqsSz2Q?t=136)
+
+> "El par \"dentro/fuera\" debe sustituirse por \"cerca/lejos\" del cuerpo operatorio, eliminando las connotaciones metafísicas de interioridad,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (02:16)](https://youtu.be/ecG-JqsSz2Q?t=136)
+
+> "El término \"interior\" es una elaboración fantástica para representar algo que por su naturaleza no puede señalarse como objeto físico material,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (07:18)](https://youtu.be/ecG-JqsSz2Q?t=438)
+
+La pieza añade una corrección operativa importante: el vocabulario 'dentro/fuera' aplicado a M2 reintroduce la metafísica de la interioridad (alma inmaterial, conciencia-en-la-cabeza) que el materialismo filosófico rechaza. La sustitución por **cerca/lejos del cuerpo operatorio** mantiene la operatividad espacial sin sustancialización metafísica. La concavidad corpórea es real (órganos, esqueleto), pero las emociones asociadas a reacciones fisiológicas NO son 'internas' por estar asociadas a procesos cercanos al cuerpo. La interioridad como término es elaboración fantástica con refluencias religiosas secularizadas — el alma inmaterial habitando dentro del cuerpo, depurada del lenguaje pero retenida en su estructura.
+
+### Bueno NO es Popper: separabilidad cognoscitiva, no existencial
+
+> "Los tres géneros de materialidad (M1, M2, M3) se pueden disociar conceptualmente pero existencialmente están siempre entreverados,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (11:20)](https://youtu.be/ecG-JqsSz2Q?t=680)
+
+> "A diferencia de Popper, que entendía sus tres mundos como separables existencialmente, en el materialismo filosófico la separación es solo de orden cognoscitivo,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (11:20)](https://youtu.be/ecG-JqsSz2Q?t=680)
+
+La pieza distingue el materialismo filosófico del esquema de los tres mundos de Karl Popper que superficialmente se le parece. Popper concibe los tres mundos como separables existencialmente — el Mundo 3 (productos del pensamiento humano: teorías, libros, instituciones) es ontológicamente independiente. Bueno disiente: M1/M2/M3 son disociables solo en el plano cognoscitivo (para el análisis filosófico), nunca existencialmente. Toda entidad concreta del mundo es un **estroma** (entretejimiento) de los tres géneros simultáneamente.
+
+### El yo como conjunto de relaciones externas, no como interioridad
+
+> "El yo no está dentro del sujeto: es un conjunto de relaciones que confluyen en un individuo a través de instituciones externas,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (24:56)](https://youtu.be/ecG-JqsSz2Q?t=1496)
+
+> "Sin instituciones que reconozcan la identidad (registro, propiedad, relaciones interpersonales), no hay yo: la identidad es resultado, no causa,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (24:56)](https://youtu.be/ecG-JqsSz2Q?t=1496)
+
+> "La imagen de rectas cruzándose que generan puntos en sus intersecciones: los sujetos son los puntos, pero los puntos no existen antes que las rectas,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (24:56)](https://youtu.be/ecG-JqsSz2Q?t=1496)
+
+La pieza articula una de las tesis más radicales del sistema buenista: el yo NO es punto de partida (interioridad sustancial) sino **punto de llegada** (resultado de la confluencia institucional). La metáfora geométrica es operativa: las rectas son las instituciones (registro civil, propiedad, relaciones interpersonales, gremios, lengua), los sujetos son los puntos donde estas rectas se cruzan. Los puntos no preexisten a las rectas, pero las rectas no existen sin puntos donde manifestarse — la codeterminación es radical. Esta articulación se opone explícitamente al sujeto-self psicológico clásico (cartesiano, junguiano, fenomenológico) que estructura buena parte del corpus archetípico-mitológico del canal — frontera teórica importante para entender por qué el canal hereda el aparato buenista sin abandonar el sujeto-self que sus análisis arquetípicos requieren.
+
+### Concepción alotética de la conciencia: actualismo radical
+
+> "La concepción autotética (la conciencia brota del cerebro por su propio desarrollo evolutivo) es metafísica y equivocada desde el materialismo filosófico,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (41:03)](https://youtu.be/ecG-JqsSz2Q?t=2463)
+
+> "La conciencia surge alotéticamente: por relación a instituciones externas (armas, registro civil, actas, relaciones con otros cuerpos),"
+→ [T4Lx02 Santiago y cierre categorial: M3 (41:03)](https://youtu.be/ecG-JqsSz2Q?t=2463)
+
+> "La conciencia solo existe cuando se ejercita en acto, en la relación del cuerpo con otras instituciones; cuando no se ejercita, no existe,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (41:03)](https://youtu.be/ecG-JqsSz2Q?t=2463)
+
+La distinción **autotético / alotético** es pieza foundational del sistema. Autotético: la conciencia brota del cerebro por desarrollo evolutivo intrínseco (concepción que el sistema rechaza como metafísica encubierta). Alotético: la conciencia surge SOLO en relación con instituciones externas (armas, registro civil, otros cuerpos). El **actualismo** consecuente: la conciencia no existe como sustancia continua sino solo cuando se ejercita en acto. Esta articulación es estructuralmente opuesta al [[realismo-cognitivo]] del canal — el realismo cognitivo mantiene la conciencia como flujo continuo de información con múltiples niveles de representación interna, mientras el sistema buenista la disuelve completamente en relaciones institucionales actualizadas. La frontera teórica entre ambos sistemas se hace explícita aquí.
+
+### Conciencia como término sincategoremático
+
+> "\"Tengo conciencia\" es un término sincategoremático que no significa nada sin parámetros: conciencia de qué, referida a qué instituciones,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (46:06)](https://youtu.be/ecG-JqsSz2Q?t=2766)
+
+> "Decir \"conciencia de mí mismo\" requiere que existan las instituciones (Cuenca, registro, relaciones) que conforman ese \"mí mismo\","
+→ [T4Lx02 Santiago y cierre categorial: M3 (46:06)](https://youtu.be/ecG-JqsSz2Q?t=2766)
+
+La pieza precisa la consecuencia gramático-lógica del actualismo alotético: 'conciencia' es término **sincategoremático** — necesita complemento institucional para tener referencia. Conciencia DE QUÉ. La aparente unidad del 'mí mismo' al que la conciencia se refiere es ya un cruce de rectas institucionales (lugar de origen, registro civil, relaciones, oficio). La autoconciencia no es repliegue del yo sobre sí sino activación de la red institucional que lo constituye.
+
+### Metarrepresentación y autoconciencia somática
+
+> "Los ejercicios de metarrepresentación identificados con autoconciencia son fundamentalmente somáticos: implican hiperactivación de la percepción sensible del propio cuerpo,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (48:07)](https://youtu.be/ecG-JqsSz2Q?t=2887)
+
+> "No hay autoconciencia en los sueños ordinarios porque falta la componente somática; los sueños lúcidos sí la tienen por hiperactivación metarrepresentativa,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (48:07)](https://youtu.be/ecG-JqsSz2Q?t=2887)
+
+> "Las ideas sobre el yo provienen de procedimientos somáticos: la capacidad de relacionarse con el entorno táctil, visual y sensorialmente,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (52:09)](https://youtu.be/ecG-JqsSz2Q?t=3129)
+
+La pieza añade el sustrato somático del actualismo: la metarrepresentación (autoconciencia) es **hiperactivación de la percepción sensible del propio cuerpo**, no operación puramente mental. Evidencia operativa: los sueños ordinarios carecen de autoconciencia porque la componente somática está desactivada; los sueños lúcidos sí la tienen por hiperactivación metarrepresentativa. La despersonalización/desrealización es desemparejamiento entre lo que ocurre al cuerpo y la recapitulación mental. La consecuencia para la teoría de la mente: el yo no es punto interior sino **procedimiento somático** que opera por relación con el entorno sensorial.
+
+### Verdad como ejercicio constructivo operatorio (no aletheia desvelamiento)
+
+> "La verdad no es aletheia (desvelamiento de una realidad última fija esperando ser conocida), sino un ejercicio constructivo operatorio,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (56:11)](https://youtu.be/ecG-JqsSz2Q?t=3371)
+
+> "Los aparatos científicos no son medios instrumentales sino elementos constitutivos de la ciencia,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (58:42)](https://youtu.be/ecG-JqsSz2Q?t=3522)
+
+> "El microscopio no simplemente amplía la visión para ver lo que ya estaba ahí: en relación con el sujeto operatorio, produce que surjan las moléculas,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (58:42)](https://youtu.be/ecG-JqsSz2Q?t=3522)
+
+> "Analogía con América: no fue descubierta sino constituida como tal por los españoles al ponerla en relación con Europa,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (58:42)](https://youtu.be/ecG-JqsSz2Q?t=3522)
+
+La pieza articula la teoría buenista de la verdad como **construcción operatoria** frente a la teoría heideggeriana de la verdad como aletheia (desvelamiento de una realidad preexistente esperando ser descubierta). El microscopio NO amplía la visión de moléculas que ya estaban ahí sin él — produce que las moléculas surjan como entidades científicas en relación con el sujeto operatorio que las maneja. La analogía con América lleva la tesis al límite: América no fue 'descubierta' (no estaba ahí esperando ser hallada) sino **constituida** como tal por la operación española al ponerla en relación con Europa. Una vez constituida, la verdad científica se impone al sujeto y deja de ser invención subjetiva — pero su origen no es revelación de algo preexistente sino construcción operatoria con aparatos.
+
+### Aristóteles invertido: tantas categorías como ciencias seamos capaces de construir
+
+> "Aristóteles: hay tantas categorías como ciencias (la realidad ya está dada y las ciencias se acoplan a ella),"
+→ [T4Lx02 Santiago y cierre categorial: M3 (1:08:49)](https://youtu.be/ecG-JqsSz2Q?t=4129)
+
+> "Materialismo filosófico: hay tantas categorías como ciencias seamos capaces de ir construyendo históricamente,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (1:08:49)](https://youtu.be/ecG-JqsSz2Q?t=4129)
+
+La pieza articula la inversión foundational de Aristóteles que define la **teoría del cierre categorial**. Para Aristóteles la realidad está ya estructurada en categorías ontológicas y las ciencias se acoplan a esa estructura preexistente — la dirección es realidad → ciencia. Para el materialismo filosófico la dirección es inversa: hay tantas categorías como ciencias seamos capaces de **construir históricamente** — la dirección es construcción técnico-científica → categoría. Las ciencias no operan sobre un fenómeno kantiano incognoscible (la cosa-en-sí) sino sobre lo que previamente las técnicas han **roturado**. La categoría no preexiste a la operación científico-técnica que la constituye. La consecuencia operativa: la teoría del cierre categorial es la teoría del acoplamiento operatorio entre ciencias y realidad, donde la realidad emerge categorialmente solo en el ejercicio constructivo del aparato + sujeto operatorio.
+
+### Verdad científica vs verdad filosófica: el ejemplo del pan
+
+> "Dos personas pueden convenir científicamente en que sin comer se mueren, pero si solo hay una barra de pan, la verdad científica no los pone de acuerdo sino que los enfrenta,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (1:14:52)](https://youtu.be/ecG-JqsSz2Q?t=4492)
+
+> "Hacen falta ideas (filosóficas, éticas, políticas) para resolver lo que las verdades científicas no pueden,"
+→ [T4Lx02 Santiago y cierre categorial: M3 (1:14:52)](https://youtu.be/ecG-JqsSz2Q?t=4492)
+
+La pieza precisa el límite operativo de la verdad científica y por qué la filosofía sigue siendo necesaria. Las verdades científicas son las verdades dentro de un cierre categorial concreto — operan por construcción operatoria con aparatos. Pero hay situaciones donde múltiples verdades científicas coexisten produciendo conflicto (el ejemplo del pan: ambos morirán sin comer y solo hay una barra). La filosofía como saber de segundo grado opera precisamente donde las ciencias no alcanzan: articula las ideas trans-categoriales (justicia, propiedad, sacrificio) que las ciencias particulares no pueden resolver desde su propio cierre. La articulación cierra el ciclo del materialismo filosófico: ciencias = construcción operatoria de cierres categoriales; filosofía = articulación trans-categorial de ideas que desbordan los cierres particulares.
+
+
+
+
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Teoría del cierre categorial**: la sesión cubre ego trascendental y géneros de -->
 - **Teoría del cierre categorial**: la sesión cubre ego trascendental y géneros de materialidad pero no entra a fondo en la teoría del cierre categorial de las ciencias, pieza igualmente central del sistema buenista
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Filosofía política buenista**: España como nación, crítica a las autonomías, t -->
 - **Filosofía política buenista**: España como nación, crítica a las autonomías, teoría del Estado — material que el canal podría retomar pero que no aparece desarrollado en este directo
@@ -238,6 +424,11 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **Bibliografía citada**: la sesión es de estudio sobre fuente directa pero el summary no nombra qué textos de Bueno se trabajan (¿*Ensayos materialistas*? ¿*El ego trascendental*?). Pendiente identificar fuentes primarias
 
 ## Citations
+
+
+
+
+
 
 
 
@@ -301,4 +492,9 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [53:39](https://youtu.be/L4ayDmaUO9Y?t=3219)
 - **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [1:52:02](https://youtu.be/Ot3Z1VYTUgY?t=6722)
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [32:16](https://youtu.be/OT2DW4zoKsE?t=1936)
+- **Suspiria: El Maligno y el Mito Lunar** — chunks: [23:22](https://youtu.be/nw7fSEAJr-U?t=1402)
+- **T4 Laboratorio de... filo, con Sofía** — chunks: [0:38](https://youtu.be/GizCbTycY4U?t=38) · [3:10](https://youtu.be/GizCbTycY4U?t=190) · [5:10](https://youtu.be/GizCbTycY4U?t=310) · [7:41](https://youtu.be/GizCbTycY4U?t=461) · [31:25](https://youtu.be/GizCbTycY4U?t=1885) · [51:35](https://youtu.be/GizCbTycY4U?t=3095)
+- **T4Lx02 Santiago y cierre categorial: M3.** — chunks: [11:20](https://youtu.be/ecG-JqsSz2Q?t=680) · [41:03](https://youtu.be/ecG-JqsSz2Q?t=2463) · [46:06](https://youtu.be/ecG-JqsSz2Q?t=2766) · [1:02:46](https://youtu.be/ecG-JqsSz2Q?t=3766) · [1:08:49](https://youtu.be/ecG-JqsSz2Q?t=4129) · [1:17:53](https://youtu.be/ecG-JqsSz2Q?t=4673)
+- **Hambre y miedo (Cero). LOCUS** — chunks: [3:02](https://youtu.be/n2rtBxP-_e0?t=182)
+- **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [55:13](https://youtu.be/JKoWJmSR6VY?t=3313)
 

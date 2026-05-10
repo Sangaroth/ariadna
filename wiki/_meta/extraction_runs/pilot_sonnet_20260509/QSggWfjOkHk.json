@@ -1,0 +1,389 @@
+{
+  "video_id": "QSggWfjOkHk",
+  "video_title": "Neon Genesis Evangelion. Psicoanálisis y gnosticismo",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Neon Genesis Evangelion",
+      "canonical_guess": "evangelion-anime",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 120,
+      "framing_marks": [
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Evangelion se ha analizado al menos dos o tres veces previamente en el canal, cada vez con enfoque diferente,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Esto representa el mito polar: lo masculino y lo femenino como emanaciones divinas complementarias pero en disputa,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los robots Evangelion combinan interior femenino (carne de Lilith) con armadura masculina (tecnología), constituyendo el yo/héroe,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Soft canonical en whitelist (evangelion-anime). Cumple §2.3: vídeo monográfico 122 min dedicado íntegramente a análisis arquetípico, recurrente en canal (≥3 análisis previos confirmados por speaker), aplicación cruzada de frameworks ya promovidos (mito polar invertido, gólem arquetipo, herida narcisista, ánima, viaje del héroe). Mencionada explícitamente en mito-polar.md como caso paradigmático de polar invertido junto a Alien.",
+      "quote_evidence": "Neon Genesis Evangelion significa \"nuevo Génesis evangélico\" pero deliberadamente mal dicho como trampa poética,"
+    },
+    {
+      "surface_form": "mito del mago",
+      "canonical_guess": "mito-del-mago",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Existen estructuras mitológicas comunes a todas las civilizaciones: masculino/femenino, mito polar, mito del mago, mito del héroe, mito de la diosa, Génesis, Apocalipsis,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Busca ser más fuerte que el Adán, obtener poder absoluto: es la historia de Fausto,"
+        },
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Estos mitos primarios son los únicos verdaderamente arquetípicos, pertenecientes al inconsciente colectivo y segregables entre sí,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple §2.1 channel-canonical: el speaker lo enuncia como uno de los ocho mitos primarios del inconsciente colectivo junto a sol/luna/polar/héroe/diosa/Génesis/Apocalipsis (seis de los cuales ya tienen página). Framing-mark: aplicado como marco analítico al padre Ikari (Fausto, llave de Nabucodonosor como piedra filosofal, alquimia, golem). La página mito-polar.md ya lo enumera entre los primarios sin link resolvable — la promoción cierra un wikilink roto estructural del corpus.",
+      "quote_evidence": "El padre, devastado por la muerte de su mujer, se obsesiona con terminar su trabajo y revivirla,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página.",
+  "pending_updates": [
+    {
+      "page_id": "golem-arquetipo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La saga despliega el arquetipo en su forma más extrema: el gólem no porta un defecto técnico, sino un defecto ontológico deliberado — el mal inoculado como semilla en la creación.",
+      "content_proposed": "\n\n## Rey Ayanami: el gólem como reconstrucción del recuerdo materno\n\n[[evangelion-anime|Neon Genesis Evangelion]] articula el arquetipo del gólem en clave intimista, no cosmogónica: Rey Ayanami es la criatura manufacturada por el padre-mago para mantener vivo el recuerdo de la mujer muerta. La pieza se inserta canónicamente en el catálogo del arquetipo al equipararse explícitamente con la criatura de Mary Shelley:\n\n> \"Rey es un golem comparable a la criatura de Frankenstein: algo creado por el mago-científico para su propio alivio,\"\n→ [Neon Genesis Evangelion. Psicoanálisis y gnosticismo (1:47:24)](https://youtu.be/QSggWfjOkHk?t=6444)\n\n> \"El mantener vivo un recuerdo lo machaca y deforma: por eso Rey está permanentemente dañada,\"\n→ [Neon Genesis Evangelion. Psicoanálisis y gnosticismo (1:47:24)](https://youtu.be/QSggWfjOkHk?t=6444)\n\nLa pieza añade al catálogo una variante donde el gólem no nace de la ambición demiúrgica de replicar lo divino sino del rechazo del duelo: el mago-científico fabrica al hijo imperfecto como sustituto del objeto perdido. La paradoja autonomía-falibilidad opera aquí en clave melancólica — el recuerdo cultivado obsesivamente se confabula y deforma, generando una criatura permanentemente dañada cuya imperfección es cifra del propio rechazo paterno del duelo. Frankenstein y Rey ocupan el mismo lugar arquetípico desde dos motores distintos: ambición prometeica y rabia narcisista del duelo no atravesado.\n",
+      "wikilinks_introduced": [
+        "evangelion-anime"
+      ],
+      "citations_added": [
+        {
+          "video_id": "QSggWfjOkHk",
+          "timestamp_seconds": 6444,
+          "cite_markdown": "[Neon Genesis Evangelion. Psicoanálisis y gnosticismo (1:47:24)](https://youtu.be/QSggWfjOkHk?t=6444)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página declara como laguna explícita 'Frankenstein como caso occidental canónico... no aparece en el material disponible'. Evangelion comparado literalmente con Frankenstein cierra la laguna y añade variante intimista (gólem como sustituto del objeto perdido) que el patrón Alien/Weyland no cubría. La cita conecta al wikilink evangelion-anime que se promueve en este vídeo.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "golem-arquetipo",
+      "update_type": "mark_laguna_resolved",
+      "supersedes_laguna_text": "**Frankenstein como caso occidental canónico**: la criatura de Mary Shelley es el caso moderno más reconocido del arquetipo, pero no aparece en el material disponible de este vídeo. Posible tratamiento en otro punto del corpus.",
+      "content_proposed": "Resuelta por sección 'Rey Ayanami: el gólem como reconstrucción del recuerdo materno' — Evangelion equipara explícitamente Rey con la criatura de Frankenstein.",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La laguna queda refutada por la sección añadida: el speaker articula la equivalencia Rey-Frankenstein literalmente, lo que coloca el caso canónico Shelley dentro del catálogo del arquetipo en el corpus.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "bloodborne-game",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El contexto incompleto funciona porque nuestra mente presupone coherencia: si nos ponen fragmentos delante, supondremos que existe una historia detrás",
+      "content_proposed": "\n\n## El dispositivo extendido: incompletitud como anzuelo arquetípico\n\nEl mecanismo tiene correlato canónico fuera de Bloodborne. En el análisis de [[evangelion-anime|Neon Genesis Evangelion]] el canal articula el mismo dispositivo formal como **mecanismo de fascinación arquetípica** que opera no solo dentro de la obra sino sobre la psicología del receptor — ambas obras reúnen fragmentos de contextos mitológicos con alta carga arquetípica y la incompletitud actúa como anzuelo específico para sujetos con sensación de incompletitud propia.\n\n> \"Evangelion y Bloodborne utilizan la narrativa incompleta para generar fascinación por el misterio,\"\n→ [Neon Genesis Evangelion. Psicoanálisis y gnosticismo (15:22)](https://youtu.be/QSggWfjOkHk?t=922)\n\n> \"Esta técnica atrae a personas con sensación de incompletitud que buscan un gran secreto detrás de las estructuras mitológicas,\"\n→ [Neon Genesis Evangelion. Psicoanálisis y gnosticismo (15:22)](https://youtu.be/QSggWfjOkHk?t=922)\n\nLa pieza añade al análisis de Bloodborne la dimensión psicológica del receptor: el dispositivo no solo es coordinación interna obra (ambientación-guion-tema) sino contrato pragmático con un perfil específico de espectador-lector cuya carencia interna se proyecta sobre la sospecha de un secreto cosmológico recuperable por hermenéutica intensiva del fragmento.\n",
+      "wikilinks_introduced": [
+        "evangelion-anime"
+      ],
+      "citations_added": [
+        {
+          "video_id": "QSggWfjOkHk",
+          "timestamp_seconds": 922,
+          "cite_markdown": "[Neon Genesis Evangelion. Psicoanálisis y gnosticismo (15:22)](https://youtu.be/QSggWfjOkHk?t=922)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo: la página articula la incompletitud como dispositivo formal interno de la obra (cómo Bloodborne usa fragmentos), pero NO articula la dimensión psicológica del receptor. El análisis de Evangelion explicita que la técnica funciona como anzuelo para sujetos con sensación de incompletitud propia — extensión cognitiva que la página no captura. Cierra parcialmente la laguna sobre 'cómo se relaciona la mecánica con el tema de la incompletitud'.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Joseph Campbell",
+      "reason_code": "already_captured",
+      "reason_detail": "Mención breve a Campbell con sus dos obras 'Las máscaras de Dios' y 'El héroe de las mil caras' como justificación de que todos los mitos personales son caminos del héroe. Página campbell-joseph ya existe; este vídeo añade dato bibliográfico (los dos títulos canónicos) que merece cita-only update si el extractor genera add_citation.",
+      "quote_evidence": "Todos los mitos personales con protagonista son caminos del héroe, como demostró Campbell en \"Las máscaras de Dios\" y \"El héroe de las mil caras\",",
+      "review_priority": "medium",
+      "review_priority_reason": "el dato bibliográfico (los dos libros explícitamente nombrados) no aparece todavía en campbell-joseph y enriquecería su tratamiento",
+      "enriches_concept": "campbell-joseph"
+    },
+    {
+      "surface_form": "mito del Apocalipsis",
+      "reason_code": "passing_mention",
+      "reason_detail": "Listado como uno de los 8 mitos primarios del inconsciente colectivo junto a sol/luna/polar/héroe/diosa/mago/Génesis. Solo aparece en la enumeración, sin desarrollo ni aplicación. No alcanza umbral §2.1 con esta sola mención. Candidato a futura promoción si recurre con desarrollo.",
+      "quote_evidence": "Existen estructuras mitológicas comunes a todas las civilizaciones: masculino/femenino, mito polar, mito del mago, mito del héroe, mito de la diosa, Génesis, Apocalipsis,",
+      "review_priority": "high",
+      "review_priority_reason": "completa estructuralmente la octava pieza de los mitos primarios canal-canónicos (los otros 7 ya tienen o están adquiriendo página). Candidato fuerte a whitelist si aparece con desarrollo en otro vídeo",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Llave de Nabucodonosor",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Símbolo interno del mundo de Evangelion: copia del Adán embrionario que el padre busca como piedra filosofal. El concepto se referencia a la llave de Salomón / piedra filosofal genéricos pero opera como pieza del lore de la obra. No es objeto enciclopédico autónomo del wiki — vivirá en la página evangelion-anime.",
+      "quote_evidence": "El concepto de llave de Nabucodonosor sí está elegido parcialmente por estética, pero se refiere a una parte del mito del mago,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Lanzas de Longinos",
+      "reason_code": "in_work_character",
+      "reason_detail": "Elemento del lore de Evangelion (mecanismo de seguridad cósmico de las semillas). Pieza interna de la obra, no concepto enciclopédico. Vivirá en la página evangelion-anime.",
+      "quote_evidence": "Cada semilla tenía una lanza de Longinos como mecanismo de seguridad para eliminar la semilla si algo iba mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Pergaminos del Mar Muerto (Evangelion)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Elemento del lore de Evangelion. Aunque el speaker los equipara con manzana, caja de Pandora y Yggdrasil como símbolos del origen de la tentación, esa equivalencia es lectura intra-obra. Vivirá en la página evangelion-anime con cita a genesis-mitologico.",
+      "quote_evidence": "Los pergaminos del Mar Muerto simbolizan la manzana, la caja de Pandora, el árbol de Yggdrasil: el origen de la tentación de ser más,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Shinji Ikari",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista de la obra. Vivirá en evangelion-anime.",
+      "quote_evidence": "Los sucesivos ataques angélicos representan los eventos canónicos en los que Shinji fracasa continuamente al intentar crecer,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Rey Ayanami",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje central de la obra. La pieza arquetípica (Rey como gólem) ya se captura en pending_update a golem-arquetipo y vivirá en evangelion-anime.",
+      "quote_evidence": "Rey es el intento del padre de mantener vivo el recuerdo de su mujer joven: un golem creado con alma de la madre y genes de Lilith,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Asuka Langley",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje de la obra. Aplicación de la corrupción ninfa de la tipología femenina pero solo como mapping puntual al lore de Evangelion. Vivirá en evangelion-anime.",
+      "quote_evidence": "Asuka: la mujer histriónica, la ninfa que quiere atención pero no sabe qué hacer con ella, fascinación por lo femenino salvaje,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Mari Makinami",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje de la obra (presente en Rebuild). Vivirá en evangelion-anime.",
+      "quote_evidence": "Mari: la mujer ideal, madura, que termina siendo un igual; la doncella pre-madre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Kaworu / Tabris",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje doble (último ángel + figura salvífica). Lectura arquetípica como espejo del yo perfecto del héroe. Vivirá en evangelion-anime.",
+      "quote_evidence": "Tabris (el ángel amenazante) y Kaworu (la figura salvífica) son un personaje doble: tu mayor enemigo y tu mayor potencial heroico están dentro de ti,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Misato Katsuragi",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje de la obra, leído como deseo prohibido del niño. Vivirá en evangelion-anime.",
+      "quote_evidence": "Misato representa el deseo prohibido del niño: suficientemente joven para molar, suficientemente mayor para ser autoridad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Yui Ikari",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje de la obra (la madre muerta). Vivirá en evangelion-anime.",
+      "quote_evidence": "Yui fue consumida por su carrera científica en un mundo masculino: la maquinaria simbólicamente masculina del trabajo acaba con ella,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Gendo Ikari (padre Ikari)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje de la obra (el padre-mago). Encarnación del mito del mago aplicado, capturada en promote_new mito-del-mago como caso aplicativo y vivirá en evangelion-anime.",
+      "quote_evidence": "El padre, devastado por la muerte de su mujer, se obsesiona con terminar su trabajo y revivirla,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "campo AT",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Concepto interno de Evangelion. La lectura arquetípica (intensidad de las emociones neuróticas) vivirá en evangelion-anime.",
+      "quote_evidence": "El campo AT representa la intensidad de las emociones neuróticas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "sincronización con el EVA",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Mecánica interna de Evangelion. Lectura como disposición psicológica para asumir un deber vivirá en evangelion-anime.",
+      "quote_evidence": "Sincronizarse con el EVA es estar en disposición psicológica de aceptar una misión: centrarse, estar presente, asumir un deber,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "LCL (líquido amniótico)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Sustancia interna del lore de Evangelion. La lectura como fusión maternal vivirá en evangelion-anime.",
+      "quote_evidence": "El LCL representa el líquido amniótico, la fusión con la madre, el no enfrentarse a nada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Adán y Lilith (Evangelion)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Adán/Lilith en Evangelion son las dos semillas cosmogónicas, lectura del mito polar invertido (ya documentada en mito-polar.md como caso de polar invertido junto a Alien). El mapping al mito-polar y a lilit-mito vivirá en la página evangelion-anime con wikilinks tipados.",
+      "quote_evidence": "Esto representa el mito polar: lo masculino y lo femenino como emanaciones divinas complementarias pero en disputa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Frankenstein (criatura de Mary Shelley)",
+      "reason_code": "already_captured",
+      "reason_detail": "Mención como referente arquetípico del gólem. Capturada en pending_update a golem-arquetipo (resuelve laguna explícita de la página).",
+      "quote_evidence": "Rey es un golem comparable a la criatura de Frankenstein: algo creado por el mago-científico para su propio alivio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-arquetipo"
+    },
+    {
+      "surface_form": "Fausto",
+      "reason_code": "passing_mention",
+      "reason_detail": "Citado como paralelo arquetípico del padre Ikari (el mago obsesionado por revivir a la mujer muerta). Mención sin desarrollo de Goethe ni del Faustbuch. Capturado en mito-del-mago como caso ilustrativo.",
+      "quote_evidence": "Busca ser más fuerte que el Adán, obtener poder absoluto: es la historia de Fausto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-del-mago"
+    },
+    {
+      "surface_form": "Llave de Salomón",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referenciada como paralelo a la llave de Nabucodonosor (piedra filosofal, secreto del mago). Mención sin desarrollo. Captable en mito-del-mago como pieza del catálogo de instrumentos del mago.",
+      "quote_evidence": "Funciona como piedra filosofal, elixir, la clave de Salomón: el secreto que permite al mago dominar lo sobrenatural,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-del-mago"
+    },
+    {
+      "surface_form": "Bloodborne",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Mención como caso paralelo de narrativa incompleta como dispositivo arquetípico. Capturada en pending_update a bloodborne-game.",
+      "quote_evidence": "Evangelion y Bloodborne utilizan la narrativa incompleta para generar fascinación por el misterio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bloodborne-game"
+    },
+    {
+      "surface_form": "caja de Pandora",
+      "reason_code": "passing_mention",
+      "reason_detail": "Listada en cadena de equivalencias simbólicas (manzana, Pandora, Yggdrasil, pergaminos del Mar Muerto) como variantes culturales del 'origen de la tentación de ser más'. Sin desarrollo. Página genesis-mitologico ya documenta cosmogonías de origen del mal.",
+      "quote_evidence": "Los pergaminos del Mar Muerto simbolizan la manzana, la caja de Pandora, el árbol de Yggdrasil: el origen de la tentación de ser más,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "genesis-mitologico"
+    },
+    {
+      "surface_form": "árbol de Yggdrasil",
+      "reason_code": "passing_mention",
+      "reason_detail": "Listado en la misma cadena de equivalencias (manzana/Pandora/Yggdrasil/pergaminos). Sin desarrollo del mito nórdico.",
+      "quote_evidence": "Los pergaminos del Mar Muerto simbolizan la manzana, la caja de Pandora, el árbol de Yggdrasil: el origen de la tentación de ser más,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "genesis-mitologico"
+    },
+    {
+      "surface_form": "tres formas de lo femenino (Rey/Asuka/Mari)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El mapping de los tres personajes femeninos a fases de encuentro masculino con lo femenino es aplicación de la articulación canal-canónica gracia/consorte/madre y de las cinco corrupciones (Asuka como ninfa). Vivirá en evangelion-anime con wikilinks a tipologia-femenina-arquetipica y anima-archetype. No emite update directo a tipologia-femenina-arquetipica porque el mapping es loose (Mari como 'doncella pre-madre' no encaja claramente en gracia/consorte/madre) y la página ya está densa de casos canónicos.",
+      "quote_evidence": "Rey: primer encuentro con la diferencia sexual, la niña incomprensible que parece más madura y recuerda a la madre,",
+      "review_priority": "medium",
+      "review_priority_reason": "si futuras revisiones del corpus confirman este mapping triple como recurrente, podría enriquecer tipologia-femenina-arquetipica con cita",
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "impronta del enamoramiento masculino como revivencia del vínculo materno",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mecanismo psicológico aplicado al análisis (el cerebro masculino trata el nuevo enamoramiento como nueva madre). Concepto técnico usado como herramienta interpretativa, no articulado como tesis nueva. Conecta con vinculo y colusion-heroe-ninfa pero sin desarrollo suficiente para enriquecer en este pase.",
+      "quote_evidence": "Cuando un hombre se enamora, su cerebro trata el nuevo enamoramiento como una nueva madre,",
+      "review_priority": "medium",
+      "review_priority_reason": "posible enrichment futuro de colusion-heroe-ninfa o vinculo si recurre con desarrollo en otros vídeos",
+      "enriches_concept": "colusion-heroe-ninfa"
+    },
+    {
+      "surface_form": "herida narcisista del niño sin madre",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Aplicación del marco de herida narcisista (página existente herida-narcisista-en-proxy) al caso Shinji. La aplicación es a obra concreta y vivirá en evangelion-anime con wikilink. La página herida-narcisista ya articula el mecanismo general; el caso Evangelion sería un ejemplo más sin matiz nuevo respecto al ya documentado.",
+      "quote_evidence": "La falta de amor incondicional en la infancia provoca una herida permanente de dolor, angustia, soledad e incapacidad de emprender,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "Seele (organización)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Organización ficticia interna de Evangelion. Vivirá en evangelion-anime.",
+      "quote_evidence": "Pérdida de Lilith tras dar vida → intento de Seele por reconstruir a Lilith → intento del padre por reconstruir a Yui mediante Rey,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "sistema de complementación humana",
+      "reason_code": "internal_framework_reference",
+      "reason_detail": "Concepto interno del lore de Evangelion (objetivo de Seele). Lectura como búsqueda del 'árbol de la ciencia' complementando 'árbol de la vida' vivirá en evangelion-anime.",
+      "quote_evidence": "El sistema de complementación humana busca el \"árbol de la ciencia\" (lo masculino, la técnica, la tecnología) para complementar el \"árbol de la vida\" (lo femenino, la naturaleza),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "evangelion-anime"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 2,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 28,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Neon Genesis Evangelion] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[mito del mago] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

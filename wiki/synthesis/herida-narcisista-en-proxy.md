@@ -367,6 +367,8 @@ La modalidad heredada explica además el mecanismo intergeneracional que la pág
 
 
 
+
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
 - **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
@@ -389,4 +391,6 @@ La modalidad heredada explica además el mecanismo intergeneracional que la pág
 - **T5x02: No Love Land** — chunks: [1:13:15](https://youtu.be/EjAVFdSVtbU?t=4395)
 - **Tontas en Potencia** — chunks: [1:11:19](https://youtu.be/1cKAgkEEbMA?t=4279)
 - **Análisis arquetípico de Elemental** — chunks: [38:31](https://youtu.be/p8ZInoDuE50?t=2311)
+- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [1:06:02](https://youtu.be/QSggWfjOkHk?t=3962)
+- **Un Gólem llamado Prometeo** — chunks: [55:58](https://youtu.be/lk3DKsIagAE?t=3358)
 

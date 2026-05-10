@@ -90,6 +90,24 @@ La pieza importa por dos razones operativas. Primera: explicita la tesis general
 
 
 
+## El palo de copas y la semiótica del agua-espíritu
+
+En el análisis arquetípico de [[anticristo-2009-film|Anticristo]] el canal articula la pieza semiótica que opera en los Arcanos Menores —específicamente en el palo de copas— y que las secciones anteriores sobre los 22 Arcanos Mayores no recogían: la equivalencia simbólica entre **agua y espíritu** y la suite de copas como cifra del dolor.
+
+> "El palo de copas está lleno de simbología sobre el dolor; en semiótica el agua se identifica con el espíritu,"
+→ [No entendiste Anticristo. Análisis arquetípico (7:19)](https://youtu.be/0EeqbwZJUQw?t=439)
+
+> "El espíritu-agua es receptivo, fluye, muta, es conductor universal y representa el cambio y el río de la vida,"
+→ [No entendiste Anticristo. Análisis arquetípico (7:19)](https://youtu.be/0EeqbwZJUQw?t=439)
+
+> "El cinco de copas muestra una figura enlutada entre copas derramadas, un puente separando dos tierras y dos yoes: representa el dolor de la pérdida,"
+→ [No entendiste Anticristo. Análisis arquetípico (7:19)](https://youtu.be/0EeqbwZJUQw?t=439)
+
+La equivalencia agua=espíritu fija la semiótica básica del palo: las copas no son meramente recipientes — son contenedores del fluido espiritual cuyas alteraciones (derrame, retención, mezcla) cifran el estado del afecto. El cinco de copas opera entonces como arcano canónico del duelo: la figura enlutada entre copas derramadas y un puente separando dos yoes da forma visual a la mecánica del trauma — el sujeto detenido entre la vida-antes y la vida-después, separado por un puente que no acaba de cruzarse. La pieza inscribe además los Arcanos Menores como sistema con dignidad simbólica propia, no como apéndice de los Mayores: cada palo (copas, oros, espadas, bastos) cifra un elemento (agua, tierra, aire, fuego) y por tanto un dominio del afecto y la acción.
+
+
+
+
 
 ## Caso paradigmático: Man of Steel como recorrido completo de los 22 Arcanos
 
@@ -117,6 +135,29 @@ El análisis arquetípico de [[el-gran-lebowski-1998-film|El Gran Lebowski]] art
 La secuencia coordina cada arcano invertido con un momento del fracaso heroico: Loco invertido (apatía, "El Nota" como nombre vaciado), Mago invertido (incapacidad de iniciativa, repetición de frases ajenas), Sacerdotisa invertida (cero intuición), Emperatriz invertida (la mantenida y la felación por mil dólares), Emperador invertido (el super-yo desbocado de Walter), Hierofante invertido (cero autoridad), Amantes invertidos (planes que salen mal), Carro invertido (entrega fallida), Fuerza invertida (la artista feminista, la esposa autosecuestrada), Ermitaño invertido (falso ermitaño que no reflexiona), Rueda invertida (mala suerte), Justicia invertida (cascada de calamidades), Colgado invertido (victimización), Muerte invertida (orgasmo en lugar de dolor), Templanza invertida (Walter destruye el coche del vecino), Demonio invertido (Jackie Treehorn, librarse de la culpa), Torre invertida (sueño tras envenenamiento), Estrella invertida (la mujer pasa cantando sin verle), Luna invertida (revelación: el Gran Lebowski es pobre), Sol invertido (la estafa), Juicio invertido (anti-apoteosis, muerte de Donny), Mundo invertido (lecciones no aprendidas, ciclo cerrado por la fuerza).
 
 La pieza completa la lectura del tarot como **mapa fijo de la trayectoria heroica** introducida con Man of Steel: la secuencia opera tanto en su forma directa (héroe solar cumplido) como en su forma invertida (anti-héroe que recorre la misma estructura sin saberlo). Los hermanos Coen aplican deliberadamente la inversión arcano-por-arcano del monomito, marcando además las tres fases de Campbell con sueños del protagonista.
+
+
+
+## Cenicienta como recorrido completo de los 22 Arcanos en clave femenino-lunar
+
+El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] añade un tercer caso paradigmático del recorrido de los 22 Arcanos Mayores como secuencia arquetípica fija — esta vez en clave **femenino-lunar**, complementaria a las dos lecturas masculino-solares previas ([[man-of-steel-2013-film|Man of Steel]] como Arcanos directos en mito solar cumplido; [[el-gran-lebowski-1998-film|El Gran Lebowski]] como Arcanos invertidos en anti-héroe). Cenicienta articula la secuencia desde la posición de la diosa que recorre las fases del [[mito-lunar]].
+
+> "La sacerdotisa es Cenicienta tras la muerte del padre (blanco y negro a sus lados),"
+→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)
+
+> "La emperatriz es la princesa rodeada de naturaleza; la fuerza representa la gracia dominando a las criaturas,"
+→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)
+
+> "El demonio es la madrastra liberando el mal de sus hijas; la torre es el mundo de Cenicienta derrumbándose,"
+→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)
+
+> "La estrella es el hada madrina; la luna es el fin del hechizo; el sol es el edicto de búsqueda; el juicio es la apoteosis del zapato,"
+→ [Cenicienta, el Mito Lunar en Disney (1:30:18)](https://youtu.be/iPqOn-ynSlE?t=5418)
+
+La secuencia que el canal articula: Sacerdotisa (Cenicienta tras la muerte del padre, flanqueada por blanco y negro) → Emperatriz (princesa rodeada de naturaleza) → Fuerza (la gracia dominando a las criaturas — eco operativo del arcano de la Fuerza articulado con [[lady-halcon-1985-film|Lady Halcón]] en sección 'La diosa primordial') → Demonio (la madrastra liberando el mal de las hermanastras) → Torre (el mundo de Cenicienta derrumbándose tras la fragmentación del vestido) → Estrella (el hada madrina) → Luna (el fin del hechizo a las 12) → Sol (el edicto de búsqueda iluminando todos los interiores) → Juicio (la apoteosis del zapato como reconocimiento).
+
+La pieza completa la triada de casos canónicos del recorrido de los 22 Arcanos: Man of Steel articula el ciclo solar masculino directo, El Gran Lebowski el ciclo invertido de anti-héroe, Cenicienta el ciclo femenino-lunar. La diferencia operativa con los dos casos previos es estructural: la secuencia de Cenicienta no recorre los Arcanos como **viaje del sujeto** (Superman crece y madura, El Nota fracasa progresivamente) sino como **fases del ciclo lunar diegético** — los arcanos no marcan transiciones del yo de Cenicienta (que opera por modalidades cíclicas más que por individuación) sino momentos del ciclo arquetípico que la película codifica con simbología tarot-canónica. La estructura confirma la tesis ya articulada en secciones anteriores: los 22 Arcanos son mapa fijo de la trayectoria arquetípica que cualquier mito recapitula, sea cual sea la posición del sujeto recorriéndolo (héroe solar, anti-héroe degradado, diosa lunar). La triada cierra el cuadro de modalidades estructurales del recorrido — directa solar / invertida anti-heroica / femenino-cíclica — y deja abierto el caso de la modalidad polar plena (donde los arcanos articulan simultáneamente solar y lunar como dipolo, candidato natural sería [[lady-halcon-1985-film|Lady Halcón]] cuyo análisis ya cita el tarot como hilo estructural).
+
 
 > "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,
 
@@ -197,6 +238,9 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 
 
 
+
+
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -225,4 +269,7 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [48:00](https://youtu.be/OT2DW4zoKsE?t=2880) · [1:39:01](https://youtu.be/OT2DW4zoKsE?t=5941)
 - **Event Horizon** — chunks: [34:56](https://youtu.be/cgO7JwvwOQg?t=2096)
 - **Matrix y el camino del héroe.** — chunks: [25:52](https://youtu.be/kF5KHE_fF7g?t=1552) · [38:32](https://youtu.be/kF5KHE_fF7g?t=2312) · [44:11](https://youtu.be/kF5KHE_fF7g?t=2651) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
+- **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [7:19](https://youtu.be/0EeqbwZJUQw?t=439)
+- **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:30:18](https://youtu.be/iPqOn-ynSlE?t=5418)
+- **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [48:08](https://youtu.be/JKoWJmSR6VY?t=2888)
 

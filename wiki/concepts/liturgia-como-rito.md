@@ -104,5 +104,7 @@ La misa modernizada, en esta lectura, es a la liturgia lo que el [[autotipo]] es
 ## Citations
 
 
+
 - **Del Papa y del Problema del Mal** — chunks: [1:15:29](https://youtu.be/0KkMrcmw8Fw?t=4529) · [1:26:11](https://youtu.be/0KkMrcmw8Fw?t=5171)
+- **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [1:29:25](https://youtu.be/JKoWJmSR6VY?t=5365)
 

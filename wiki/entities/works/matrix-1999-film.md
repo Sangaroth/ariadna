@@ -212,6 +212,8 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 
 
 
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:38:03](https://youtu.be/Dtp1_RLb7S0?t=5883) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [55:46](https://youtu.be/hx9creRpdnY?t=3346)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
@@ -222,4 +224,6 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 - **Matrix II y III** — chunks: [0:00](https://youtu.be/tkVwAclFrsI?t=0) · [3:36](https://youtu.be/tkVwAclFrsI?t=216) · [5:07](https://youtu.be/tkVwAclFrsI?t=307) · [12:45](https://youtu.be/tkVwAclFrsI?t=765) · [16:16](https://youtu.be/tkVwAclFrsI?t=976) · [33:28](https://youtu.be/tkVwAclFrsI?t=2008) · [58:10](https://youtu.be/tkVwAclFrsI?t=3490) · [1:04:44](https://youtu.be/tkVwAclFrsI?t=3884) · [1:12:17](https://youtu.be/tkVwAclFrsI?t=4337) · [1:22:28](https://youtu.be/tkVwAclFrsI?t=4948) · [1:31:03](https://youtu.be/tkVwAclFrsI?t=5463) · [1:36:08](https://youtu.be/tkVwAclFrsI?t=5768) · [1:45:43](https://youtu.be/tkVwAclFrsI?t=6343) · [1:50:17](https://youtu.be/tkVwAclFrsI?t=6617)
 - **Matrix y el camino del héroe.** — chunks: [8:58](https://youtu.be/kF5KHE_fF7g?t=538) · [13:00](https://youtu.be/kF5KHE_fF7g?t=780) · [21:45](https://youtu.be/kF5KHE_fF7g?t=1305) · [25:52](https://youtu.be/kF5KHE_fF7g?t=1552) · [42:08](https://youtu.be/kF5KHE_fF7g?t=2528) · [44:11](https://youtu.be/kF5KHE_fF7g?t=2651) · [46:46](https://youtu.be/kF5KHE_fF7g?t=2806) · [49:49](https://youtu.be/kF5KHE_fF7g?t=2989)
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
+- **T4 Laboratorio de... filo, con Sofía** — chunks: [7:41](https://youtu.be/GizCbTycY4U?t=461)
+- **El mito de Dioniso** — chunks: [39:29](https://youtu.be/ttnUgH3jou8?t=2369) · [47:04](https://youtu.be/ttnUgH3jou8?t=2824)
 
