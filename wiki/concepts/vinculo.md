@@ -137,6 +137,7 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
 - **El Hate Bombing de la izquierda.** — chunks: [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767) · [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979)
 - **El síndrome de Wendy** — chunks: [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
 - **Ha vuelto a ocurrir.** — chunks: [1:34:59](https://youtu.be/C0Io49giVY8?t=5699)
@@ -156,4 +157,5 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [2:32:49](https://youtu.be/TmQiM16HIpU?t=9169)
 - **Cuento de Navidad y el espíritu Luterano** — chunks: [22:44](https://youtu.be/7LTa7-tZwv0?t=1364)
+- **Matrix II y III** — chunks: [3:36](https://youtu.be/tkVwAclFrsI?t=216)
 

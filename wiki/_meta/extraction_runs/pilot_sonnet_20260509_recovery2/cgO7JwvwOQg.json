@@ -1,0 +1,258 @@
+{
+  "video_id": "cgO7JwvwOQg",
+  "video_title": "Event Horizon",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Event Horizon",
+      "canonical_guess": "event-horizon-1997-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 105,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "2001 es un viaje del héroe prometeico; Event Horizon es la caja de Pandora,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La Event Horizon tiene cabeza, cola y un frágil cuerpo intermedio: es la arquitectura de la psique,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Cada tripulante representa una forma de afrontar el trauma: el capitán-sabio, el piloto-hierofante religioso, la sacerdotisa-Freya intuitiva,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo que hay más allá del agujero negro no tiene forma; al manifestarse en nuestro plano, debe personificarse,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Si no tratamos nuestro mal interior y dejamos que crezca, nos convertimos en instrumentos de ese mal y en un problema para los demás,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3: vídeo monográfico de 105 min dedicado íntegramente al análisis arquetípico de Event Horizon (Anderson, 1997). Aplica sostenidamente el aparato del canal: Pandora vs Prometeo como dos arquetipos de la ciencia ficción, horizonte de sucesos como metáfora del límite interior, agujero negro del alma como sufrimiento inefable, la nave como arquitectura de la psique (cabeza/cuerpo/cola), los ocho tripulantes mapeados a cartas del Tarot, Neptuno como inconsciente marino, mecánica del horror cósmico (mal sin forma que se personifica al manifestarse). Articula además la tesis terminal sobre el trauma como compañero perpetuo y la advertencia: 'si no tratamos nuestro mal interior, nos convertimos en instrumentos de ese mal'. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'.",
+      "quote_evidence": "Event Horizon es la caja de Pandora,"
+    },
+    {
+      "surface_form": "Horror cósmico",
+      "canonical_guess": "horror-cosmico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El horror cósmico es percibir algo que escapa por completo a lo que la mente puede concebir,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "2001 es un viaje del héroe prometeico; Event Horizon es la caja de Pandora,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La ciencia ficción lleva el mito más allá gracias a la técnica: permite hablar de lo que el mito no sabía que podía nombrar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Pocas estructuras mitológicas hablan del terror sin forma porque el mito se limita a lo narrable,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Concepto canal-específico en canonical_whitelist.json:channel_specific_concepts con auto_promote: true. La whitelist lo describe como 'Categoría central en lecturas de Lovecraft. Inversión del mito clásico de teofanía. Recurrente'. Este vídeo articula sostenidamente la categoría a lo largo de ~50 min (definición, mecanismo, genealogía literatura→cine, casos comparativos Hellraiser/Alien/2001, conexión con mal-sin-forma) cumpliendo el criterio de 'mención sustantiva ≥3 min' que la whitelist requiere para promoción automática. La categoría es ortogonal a las páginas existentes (lovecraft-howard como autor, mal-sin-forma como filosofía moral) — articula el concepto literario-cinematográfico específico que conecta ambos.",
+      "quote_evidence": "El horror cósmico es percibir algo que escapa por completo a lo que la mente puede concebir,"
+    }
+  ],
+  "_doc_promote_new_event_horizon": "El sub-agente que construya el stub de event-horizon-1997-film debe articular: (a) la apertura tipológica Prometeo vs Pandora — 2001 como viaje del héroe prometeico, Event Horizon como caja de Pandora, Alien como caso que reúne ambos, Hellraiser/cenobitas como variante 'traer el infierno al mundo'; (b) el contexto narrativo de la humanidad upgrade (2015 Luna, 2032 Marte, 2040 Event Horizon perdida más allá de Neptuno); (c) horizonte de sucesos como metáfora del límite interior (lo conocido vs lo incognoscible — del agujero negro físico al agujero negro del alma); (d) el agujero negro interior como fuente de sufrimiento inefable (lo que no se deja narrar no se deja sanar); (e) la nave Event Horizon como arquitectura de la psique (cabeza/cola/frágil cuerpo intermedio, tripulación perdida hace 7 años); (f) los ocho tripulantes mapeados a Tarot: capitán-sabio, piloto-hierofante religioso, sacerdotisa-Freya intuitiva, médico-sanador, madre-emperatriz, mecánico (entiende máquinas no relaciones), joven copiloto-mago inexperto, doctor-protagonista escindido; (g) Neptuno como planeta de mar/inconsciente, la luna que oscurece como interposición, descenso al vientre de la ballena; (h) la grabación 'libéradme' como advertencia (no socorro): el motor gravitatorio que pliega espacio-tiempo creando agujero de gusano fue la llave de Pandora; (i) la nave diseñada para partirse en dos como bote salvavidas/lavarse las manos = doble pecado del científico que abre la puerta sin asumir las consecuencias; (j) onda expansiva con forma de ojo que destruye en lugar de iluminar — pasar a 'los dominios del loco' (compartir espacio con un yo cuyo interior alberga mal no sanado); (k) los terrores personificados de cada tripulante: emperatriz-madre con visiones del hijo enfermo, capitán-sabio con compañero ardiendo vivo, joven copiloto destruido por lo innombrable ('no necesitamos ojos'); (l) la batalla sabio-vs-loco por el control del yo: el sabio propone partir la nave (cortar con el trauma), el loco responde 'no te voy a dejar liberarte' / 'me siento cómodo en mi dolor, he decidido no sanar'; (m) el trauma original del doctor: priorizó objetivos científicos sobre su esposa que se suicidó; se arranca los ojos porque todo lo que vea será simple comparado; (n) sacrificio del sabio (la fe se destruye con la explosión, el sabio se sacrifica por lo que queda); (o) los tres salvados (feminidad intuitiva + masculinidad técnica + niño herido) como mínimo viable de la psique; (p) la tesis terminal: el mal sin forma toma las formas de nuestros traumas para personificarse — proyectamos en enemigos que no son los verdaderos, pagamos con cercanos males que albergamos sin saber; (q) el trauma como compañero perpetuo (no se sana completamente, vuelve en sueños), el niño interior dañado permanentemente, la advertencia: si no tratamos el mal interior nos convertimos en instrumentos de ese mal. Wikilinks naturales: horror-cosmico, mal-sin-forma, lovecraft-howard, dragon-arquetipo, trauma-en-proxy, tarot-arquetipico, mitologia-propia-impropia, shadow-archetype, viaje-heroe, individuation, cibernetica-biosintetica-y-transhumanismo-en-proxy, golem-de-cobre. Citas con timestamps repartidos a lo largo de los 105 min.",
+  "_doc_promote_new_horror_cosmico": "El sub-agente que construya el stub de horror-cosmico debe articular: (1) Definición operativa: 'percibir algo que escapa por completo a lo que la mente puede concebir'. Diferencia categorial con el terror narrable de la mitología clásica — el mito se limita a lo que puede nombrar, el horror cósmico nombra lo innombrable; (2) Conexión filogenética con la técnica: 'la ciencia ficción lleva el mito más allá gracias a la técnica: permite hablar de lo que el mito no sabía que podía nombrar'. La sci-fi es vehículo natural del horror cósmico porque permite postular físicamente lo que mentalmente no se puede concebir (todo lo concebible es finito); (3) Genealogía literatura → cine: Lovecraft como articulador foundational en literatura (ver [[lovecraft-howard]]); en cine la genealogía paradigmática Hellraiser (cenobitas trayendo el infierno al mundo) → Event Horizon (caja de Pandora abierta por la ciencia) → Alien (síntesis Prometeo+Pandora) → 2001 (caso prometeico puro como contraejemplo); (4) Mecanismo psíquico de manifestación: 'lo que hay más allá del agujero negro no tiene forma; al manifestarse en nuestro plano, debe personificarse'. El horror cósmico OPERA en la psique tomando 'las formas de nuestros traumas' — proyección estructural del mal sin forma sobre material biográfico-narrativo del sujeto; (5) Inversión del mito clásico de teofanía: donde la teofanía es manifestación benévola/aterradora de lo divino que el sujeto puede integrar (Moisés, Job, etc.), el horror cósmico es manifestación de lo INCONCEBIBLE que cancela toda integración posible — el sujeto que lo percibe pierde sus aparatos cognitivos (los ojos, la fe, la racionalidad); (6) Distinción frente a [[mal-sin-forma]]: el horror cósmico es la categoría literario-cinematográfica/fenomenológica del encuentro con el mal sin forma; mal-sin-forma articula la filosofía moral del fenómeno; horror cósmico articula la experiencia psíquica de quien lo encuentra; (7) Conexión con [[trauma-en-proxy]]: el trauma como agujero negro del alma — sufrimiento que escapa a la narración propia, que la psique no puede dar forma para sanar. La paradoja: el sufrimiento sanable es el que se deja narrar; el horror cósmico opera donde la narración cesa. Wikilinks naturales: lovecraft-howard, mal-sin-forma, trauma-en-proxy, mitologia-propia-impropia, dragon-arquetipo (contraste: dragón = mal con forma vencible), event-horizon-1997-film, bloodborne-game (lectura del horror cósmico en videojuego). Citas principales con timestamps de Event Horizon: 02:43 (límite del mito), 23:11 (agujero negro del alma), 1:34:36 (mecanismo de personificación), más citas previas de la-lamina-de-la-casa-lovecraft, ex-oblivione-lovecraft, bloodborne-game si esos vídeos articulan la categoría.",
+  "pending_updates": [
+    {
+      "page_id": "mal-sin-forma",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Donde el dragón pone la psique en operación arquetípica, el mal sin forma la deja sin asideros.",
+      "section_target": null,
+      "content_proposed": "\n\n## Mecanismo de manifestación: personificación a través del trauma\n\nEl monográfico de [[event-horizon-1997-film|Event Horizon]] (dic 2023, 105 min) articula una pieza estructural que las secciones anteriores tenían sin formular: el **mecanismo por el que el mal sin forma opera psíquicamente**. La articulación responde a la laguna sobre cómo se enfrenta el mal sin forma cuando ningún arquetipo identificable lo captura.\n\n> \"Lo que hay más allá del agujero negro no tiene forma; al manifestarse en nuestro plano, debe personificarse,\"\n→ [Event Horizon (1:34:36)](https://youtu.be/cgO7JwvwOQg?t=5676)\n\n> \"Proyectamos nuestros traumas no comprendidos en enemigos que no son los verdaderos enemigos,\"\n→ [Event Horizon (1:34:36)](https://youtu.be/cgO7JwvwOQg?t=5676)\n\n> \"Pagamos con la pareja, los amigos o los cercanos males que albergamos sin saber que están ahí,\"\n→ [Event Horizon (1:34:36)](https://youtu.be/cgO7JwvwOQg?t=5676)\n\nLa pieza articula con precisión el mecanismo psíquico: el mal sin forma NO permanece informe en su manifestación — al entrar al plano del sujeto, **debe personificarse** porque la psique no puede operar con material genuinamente informe. La personificación, sin embargo, NO es resolución sino **distorsión doble**: el material del trauma propio se convierte en máscara que el sujeto proyecta sobre objetos cercanos, transformándolos en enemigos aparentes. La consecuencia clínica que el monográfico articula: pagamos con los cercanos males que albergamos sin reconocer.\n\nEsta mecánica precisa por qué el viaje del héroe falla frente al mal sin forma: el héroe puede vencer al objeto contra el que lucha, pero ese objeto no es el verdadero adversario — es la máscara proyectada del trauma propio. Sin reconocimiento del material biográfico subyacente, vencer al objeto reproduce el ciclo en otro objeto distinto.\n\n## Horror cósmico como manifestación literaria-cinematográfica\n\nEl mismo monográfico precisa la conexión con [[horror-cosmico|el horror cósmico]] que la página declaraba como laguna esperable.\n\n> \"El horror cósmico es percibir algo que escapa por completo a lo que la mente puede concebir,\"\n→ [Event Horizon (23:11)](https://youtu.be/cgO7JwvwOQg?t=1391)\n\n> \"La ciencia ficción lleva el mito más allá gracias a la técnica: permite hablar de lo que el mito no sabía que podía nombrar,\"\n→ [Event Horizon (02:43)](https://youtu.be/cgO7JwvwOQg?t=163)\n\n> \"Pocas estructuras mitológicas hablan del terror sin forma porque el mito se limita a lo narrable,\"\n→ [Event Horizon (02:43)](https://youtu.be/cgO7JwvwOQg?t=163)\n\nLa articulación cierra dos aristas operativas:\n\n- El horror cósmico es la **categoría fenomenológica** del encuentro con el mal sin forma: nombra la experiencia psíquica de percibir lo inconcebible. Mal sin forma articula la filosofía moral del fenómeno; horror cósmico articula su régimen experiencial.\n- La **ciencia ficción** opera como vehículo natural del horror cósmico porque la técnica permite postular físicamente lo que mentalmente no se puede concebir — toda representación mental es finita, pero la cosmología contemporánea da nombre a lo infinito (agujero negro, horizonte de sucesos, espacio-tiempo plegado). El mito clásico no disponía de esos vehículos y por eso 'pocas estructuras mitológicas hablan del terror sin forma'.\n\nLa serie comparativa que el monográfico articula amplía la triada ídolo/gólem/Alien arriba documentada con una segunda triada cinematográfica: 2001 (caso prometeico puro contra-ejemplo) → Hellraiser (cenobitas trayendo el infierno al mundo) → Event Horizon (caja de Pandora abierta por la ciencia) → Alien (síntesis Prometeo+Pandora). Las dos triadas (literaria-mitológica + cinematográfica-sci-fi) cubren conjuntamente la casuística de la categoría.\n\n## La pérdida de los ojos como signo del encuentro\n\n> \"Los ojos solo sirven donde podemos trabajar con lo que vemos; si el mal es informe, los ojos son inútiles,\"\n→ [Event Horizon (1:10:20)](https://youtu.be/cgO7JwvwOQg?t=4220)\n\nLa pieza añade un signo iconográfico canónico del encuentro con el mal sin forma: la pérdida de la vista. El motivo (ojo arrancado, ceguera voluntaria, ojos cegados por la luz inversa) opera como marcador estructural de que la categoría psíquica del 'ver' ha cesado de ser útil. Los ojos sirven solo cuando hay forma a la que dar contorno; ante lo informe, son herramienta sin objeto. La consecuencia narrativa que Event Horizon documenta — el doctor arrancándose los ojos tras el trauma de la esposa suicida — cifra esta lógica: el sujeto que ha encontrado el mal sin forma renuncia a la mediación visual porque ya no tiene función.",
+      "supersedes_laguna_text": "La conexión con el horror cósmico de [[lovecraft-howard]] es esperable pero no se traza explícitamente en este fragmento",
+      "wikilinks_introduced": [
+        "event-horizon-1997-film",
+        "horror-cosmico"
+      ],
+      "citations_added": [
+        {
+          "video_id": "cgO7JwvwOQg",
+          "timestamp_seconds": 5676,
+          "cite_markdown": "[Event Horizon (1:34:36)](https://youtu.be/cgO7JwvwOQg?t=5676)"
+        },
+        {
+          "video_id": "cgO7JwvwOQg",
+          "timestamp_seconds": 1391,
+          "cite_markdown": "[Event Horizon (23:11)](https://youtu.be/cgO7JwvwOQg?t=1391)"
+        },
+        {
+          "video_id": "cgO7JwvwOQg",
+          "timestamp_seconds": 163,
+          "cite_markdown": "[Event Horizon (02:43)](https://youtu.be/cgO7JwvwOQg?t=163)"
+        },
+        {
+          "video_id": "cgO7JwvwOQg",
+          "timestamp_seconds": 4220,
+          "cite_markdown": "[Event Horizon (1:10:20)](https://youtu.be/cgO7JwvwOQg?t=4220)"
+        }
+      ],
+      "rationale": "La página declara cuatro lagunas; el monográfico de Event Horizon refuta directamente al menos tres: (a) 'qué otras encarnaciones culturales contemporáneas pertenecen a la categoría' — añade triada sci-fi cinematográfica (2001/Hellraiser/Event Horizon/Alien) complementando la triada ídolo/gólem/Alien; (b) 'cómo se enfrenta psíquicamente el mal sin forma' — articula el mecanismo de personificación-via-trauma con consecuencia operativa precisa (proyectamos en enemigos falsos); (c) 'la conexión con el horror cósmico de Lovecraft' — articulada explícitamente en el monográfico como categoría fenomenológica del encuentro con mal sin forma. Marca supersedes_laguna sobre la conexión Lovecraft (la más directamente refutada). Añade además un signo iconográfico canónico (la pérdida de los ojos) no presente en la articulación previa.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El doctor Weir (protagonista)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista científico de Event Horizon. Su trayectoria (científico hiperracional cuyo trauma original es la esposa suicida, escisión entre buenos y malos recuerdos, autoarrancarse los ojos) se documenta dentro de event-horizon-1997-film.",
+      "quote_evidence": "El doctor priorizó sus objetivos científicos y no atendió emocionalmente a su esposa, que terminó suicidándose,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "El capitán Miller (capitán-sabio)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje secundario, lectura como capitán-sabio del Tarot. Su sacrificio heroico final se documenta dentro de event-horizon-1997-film.",
+      "quote_evidence": "El capitán-sabio se enfrenta a la visión de un compañero ardiendo vivo al que tuvo que dejar morir,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Tripulación de la Lewis and Clark (los ocho tripulantes)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personajes secundarios mapeados a cartas del Tarot. Documentar dentro de event-horizon-1997-film como caso paradigmático del mapeo tripulación-Tarot. Si el canal aplica el motivo 'tripulación como Tarot' a otras obras (sci-fi de tripulaciones), merece concept page propia.",
+      "quote_evidence": "Cada tripulante representa una forma de afrontar el trauma: el capitán-sabio, el piloto-hierofante religioso, la sacerdotisa-Freya intuitiva,",
+      "review_priority": "medium",
+      "review_priority_reason": "El motivo 'tripulación de sci-fi como mapeo de cartas del Tarot' es articulación tipológica útil. Si reaparece en otros análisis sci-fi (Alien, Prometheus, Solaris), merece concept page sobre 'tipología de tripulación arquetípica'.",
+      "enriches_concept": "tarot-arquetipico"
+    },
+    {
+      "surface_form": "2001: Una odisea del espacio",
+      "reason_code": "passing_mention",
+      "reason_detail": "Película citada como caso paradigmático del 'viaje del héroe prometeico' contrastante con Event Horizon. Sin análisis monográfico aquí. Si el canal le dedica directo monográfico, merece entity_work propio.",
+      "quote_evidence": "2001 es un viaje del héroe prometeico; Event Horizon es la caja de Pandora,",
+      "review_priority": "medium",
+      "review_priority_reason": "Caso canónico de la sci-fi prometeica. Si el canal le dedica monográfico, merece entity_work paralelo a event-horizon-1997-film y bloodborne-game.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Hellraiser / Cenobitas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Película/criaturas citadas en relación a 'traer el infierno al mundo' como variante del horror cósmico. Sin análisis monográfico aquí. Posible entity_work futuro si recibe directo dedicado.",
+      "quote_evidence": "Los cenobitas de Hellraiser comparten la misma idea de traer el infierno al mundo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "horror-cosmico"
+    },
+    {
+      "surface_form": "Saga Alien (mención comparativa)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Saga citada como síntesis Prometeo+Pandora. Alien (1979) ya está en canonical_whitelist works como auto_promote. Si recibe directo monográfico merece entity_work y/o pending_update sustancial a horror-cosmico como caso de síntesis.",
+      "quote_evidence": "La saga de Alien reúne ambos arquetipos en una sola narrativa,",
+      "review_priority": "medium",
+      "review_priority_reason": "Alien está en canonical_whitelist. Si recibe directo monográfico, merece entity_work como caso síntesis Prometeo+Pandora.",
+      "enriches_concept": "horror-cosmico"
+    },
+    {
+      "surface_form": "Agujero negro / horizonte de sucesos (concepto físico-arquetípico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto físico que el canal eleva a categoría arquetípica: 'el horizonte de sucesos es el límite entre lo conocido y lo incognoscible, ni siquiera la luz escapa'. Pieza interesante que cifra estructuralmente el mal sin forma. Documentar dentro de event-horizon-1997-film y horror-cosmico. Posible concept page propia futura si reaparece desarrollada.",
+      "quote_evidence": "El horizonte de sucesos es el límite entre lo conocido y lo incognoscible: nada escapa de él, ni siquiera la luz,",
+      "review_priority": "medium",
+      "review_priority_reason": "Concepto físico-arquetípico que opera como cifra estructural del mal sin forma. Si el canal lo aplica sostenidamente a otros casos, merece concept page propia.",
+      "enriches_concept": "horror-cosmico"
+    },
+    {
+      "surface_form": "Reelaboración por proyección del trauma sobre cercanos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación importante: 'proyectamos nuestros traumas no comprendidos en enemigos que no son los verdaderos enemigos. Pagamos con la pareja, los amigos o los cercanos males que albergamos sin saber'. Pieza alojada en pending_update a mal-sin-forma como mecanismo de personificación. Conexión con shadow-archetype y trauma-en-proxy si reaparece desarrollada.",
+      "quote_evidence": "Pagamos con la pareja, los amigos o los cercanos males que albergamos sin saber que están ahí,",
+      "review_priority": "medium",
+      "review_priority_reason": "Mecanismo psicodinámico clave de la proyección del trauma. Si reaparece desarrollada en otros vídeos, merece pending_update sustancial a trauma-en-proxy y/o shadow-archetype.",
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "Pérdida de los ojos como signo arquetípico del encuentro con lo informe",
+      "reason_code": "passing_mention",
+      "reason_detail": "Motivo iconográfico canónico: 'los ojos solo sirven donde podemos trabajar con lo que vemos; si el mal es informe, los ojos son inútiles'. Documentado en pending_update a mal-sin-forma. Conexión con la articulación de Odín que pierde un ojo (en aWeuzWLrLtE) si el motivo se desarrolla más.",
+      "quote_evidence": "Los ojos solo sirven donde podemos trabajar con lo que vemos; si el mal es informe, los ojos son inútiles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mal-sin-forma"
+    },
+    {
+      "surface_form": "Trauma como compañero perpetuo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación importante de la tesis terminal del vídeo: 'no se puede sanar completamente el trauma: siempre volverá en sueños y pesadillas'. Pieza que enriquecería trauma-en-proxy si reaparece desarrollada. Por ahora documenta dentro de event-horizon-1997-film.",
+      "quote_evidence": "No se puede sanar completamente el trauma: siempre volverá en sueños y pesadillas,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis específica sobre la incompletitud estructural de la sanación del trauma. Si reaparece, pending_update a trauma-en-proxy.",
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "El loco / sabio (arcanos del Tarot como polos de respuesta al trauma)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación específica: el sabio propone partir la nave (cortar con el trauma) vs el loco que dice 'me siento cómodo en mi dolor, he decidido no sanar este trauma'. Es polaridad operativa del Tarot aplicada al trauma. Documentar dentro de event-horizon-1997-film.",
+      "quote_evidence": "El loco dice \"me siento cómodo en mi dolor, he decidido no sanar este trauma\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico"
+    },
+    {
+      "surface_form": "Neptuno como planeta-inconsciente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación arquetípica de Neptuno como 'el planeta hecho únicamente de mar: el inconsciente y la profundidad donde se albergan los horrores'. Pieza interesante que conecta astrología/mitología clásica con la lectura del mar como inconsciente. Documentar dentro de event-horizon-1997-film.",
+      "quote_evidence": "Neptuno es el planeta hecho únicamente de mar: el inconsciente y la profundidad donde se albergan los horrores,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Vientre de la ballena (motivo campbelliano)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Motivo del monomito de Campbell aplicado: la Lewis and Clark sumergiéndose en la atmósfera de Neptuno como descenso al vientre de la ballena. Documentar dentro de event-horizon-1997-film. Posible enriquecimiento futuro a viaje-heroe.",
+      "quote_evidence": "La Lewis and Clark se sumerge en la atmósfera de Neptuno para llegar al vientre de la ballena,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 2,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "WARN promote_new[Event Horizon] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Horror cósmico] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

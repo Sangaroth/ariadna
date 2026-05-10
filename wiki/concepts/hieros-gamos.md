@@ -339,6 +339,8 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 
 
 
+
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [7:42](https://youtu.be/Tviv4PT0dv8?t=462) · [11:45](https://youtu.be/Tviv4PT0dv8?t=705) · [16:18](https://youtu.be/Tviv4PT0dv8?t=978) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -359,4 +361,6 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 - **Análisis arquetípico de Elemental** — chunks: [1:04:43](https://youtu.be/p8ZInoDuE50?t=3883)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477) · [15:32](https://youtu.be/yAIPr0HzQqE?t=932) · [17:03](https://youtu.be/yAIPr0HzQqE?t=1023) · [25:14](https://youtu.be/yAIPr0HzQqE?t=1514)
+- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0) · [1:45:36](https://youtu.be/OT2DW4zoKsE?t=6336)
+- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 

@@ -240,6 +240,7 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
@@ -255,4 +256,5 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [49:52](https://youtu.be/celiAdqrHYA?t=2992)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014) · [58:19](https://youtu.be/fzEDQZIqKwg?t=3499) · [1:25:09](https://youtu.be/fzEDQZIqKwg?t=5109) · [1:44:57](https://youtu.be/fzEDQZIqKwg?t=6297)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [46:25](https://youtu.be/aWeuzWLrLtE?t=2785)
 

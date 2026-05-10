@@ -143,6 +143,7 @@ La pieza cierra parcialmente la laguna sobre el criterio diferencial entre excis
 
 
 
+
 - **La Huida** — chunks: [54:03](https://youtu.be/x4peEvI8L5o?t=3243)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [26:11](https://youtu.be/i72IYlpQWd0?t=1571)
 - **Magia y Poética** — chunks: [10:51](https://youtu.be/9U6CwqPMI3c?t=651)
@@ -153,4 +154,5 @@ La pieza cierra parcialmente la laguna sobre el criterio diferencial entre excis
 - **Primer stream del año** — chunks: [1:12:07](https://youtu.be/kEgjSN3uKy4?t=4327)
 - **Análisis arquetípico de el club de la lucha** — chunks: [53:14](https://youtu.be/L4zXftKhU6M?t=3194) · [1:34:01](https://youtu.be/L4zXftKhU6M?t=5641)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [1:49:57](https://youtu.be/TmQiM16HIpU?t=6597) · [2:45:39](https://youtu.be/TmQiM16HIpU?t=9939)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [42:23](https://youtu.be/aWeuzWLrLtE?t=2543)
 

@@ -215,6 +215,11 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 
 
 
+
+
+
+
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 - **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
@@ -233,4 +238,9 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 - **Análisis arquetípico de Los Rescatadores** — chunks: [33:42](https://youtu.be/ryvi2Y7KYB8?t=2022) · [42:50](https://youtu.be/ryvi2Y7KYB8?t=2570)
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [13:47](https://youtu.be/ClnayaScAjQ?t=827) · [37:08](https://youtu.be/ClnayaScAjQ?t=2228)
 - **Arquetipo Cero** — chunks: [0:37](https://youtu.be/nern-nhePjE?t=37) · [1:09:11](https://youtu.be/nern-nhePjE?t=4151)
+- **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:18:32](https://youtu.be/agh46Snf5YI?t=4712) · [1:40:20](https://youtu.be/agh46Snf5YI?t=6020) · [1:42:21](https://youtu.be/agh46Snf5YI?t=6141)
+- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [10:18](https://youtu.be/Ot3Z1VYTUgY?t=618)
+- **Event Horizon** — chunks: [1:26:33](https://youtu.be/cgO7JwvwOQg?t=5193) · [1:41:48](https://youtu.be/cgO7JwvwOQg?t=6108)
+- **Matrix II y III** — chunks: [12:45](https://youtu.be/tkVwAclFrsI?t=765)
+- **Matrix y el camino del héroe.** — chunks: [57:56](https://youtu.be/kF5KHE_fF7g?t=3476)
 

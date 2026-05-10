@@ -192,6 +192,11 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 
 
 
+
+
+
+
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -215,4 +220,9 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977) · [39:31](https://youtu.be/xK8_MpMMXzc?t=2371) · [40:01](https://youtu.be/xK8_MpMMXzc?t=2401) · [43:03](https://youtu.be/xK8_MpMMXzc?t=2583) · [54:40](https://youtu.be/xK8_MpMMXzc?t=3280) · [1:01:49](https://youtu.be/xK8_MpMMXzc?t=3709) · [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314) · [1:14:58](https://youtu.be/xK8_MpMMXzc?t=4498) · [1:26:01](https://youtu.be/xK8_MpMMXzc?t=5161) · [1:35:07](https://youtu.be/xK8_MpMMXzc?t=5707) · [1:45:11](https://youtu.be/xK8_MpMMXzc?t=6311) · [1:52:19](https://youtu.be/xK8_MpMMXzc?t=6739)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [40:54](https://youtu.be/yAIPr0HzQqE?t=2454) · [59:06](https://youtu.be/yAIPr0HzQqE?t=3546) · [1:09:49](https://youtu.be/yAIPr0HzQqE?t=4189)
 - **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391) · [46:24](https://youtu.be/nern-nhePjE?t=2784)
+- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [26:00](https://youtu.be/Ot3Z1VYTUgY?t=1560) · [1:37:49](https://youtu.be/Ot3Z1VYTUgY?t=5869)
+- **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [4:15](https://youtu.be/8l__TS3ATNY?t=255) · [49:26](https://youtu.be/8l__TS3ATNY?t=2966)
+- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [48:00](https://youtu.be/OT2DW4zoKsE?t=2880) · [1:39:01](https://youtu.be/OT2DW4zoKsE?t=5941)
+- **Event Horizon** — chunks: [34:56](https://youtu.be/cgO7JwvwOQg?t=2096)
+- **Matrix y el camino del héroe.** — chunks: [25:52](https://youtu.be/kF5KHE_fF7g?t=1552) · [38:32](https://youtu.be/kF5KHE_fF7g?t=2312) · [44:11](https://youtu.be/kF5KHE_fF7g?t=2651) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
 

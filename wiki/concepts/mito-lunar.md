@@ -176,6 +176,8 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 
 
+
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)
@@ -186,4 +188,6 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [2:02](https://youtu.be/aPbgBnidoJI?t=122) · [3:32](https://youtu.be/aPbgBnidoJI?t=212)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014) · [1:01:51](https://youtu.be/fzEDQZIqKwg?t=3711) · [1:38:25](https://youtu.be/fzEDQZIqKwg?t=5905)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275) · [1:35:30](https://youtu.be/aWeuzWLrLtE?t=5730)
+- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [37:18](https://youtu.be/Sszbs7CG0cQ?t=2238) · [39:50](https://youtu.be/Sszbs7CG0cQ?t=2390)
 

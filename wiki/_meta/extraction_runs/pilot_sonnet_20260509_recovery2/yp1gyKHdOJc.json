@@ -1,0 +1,270 @@
+{
+  "video_id": "yp1gyKHdOJc",
+  "video_title": "Ghost in the Shell: Arquetipo cero y transhumanismo.",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Ghost in the Shell: Stand Alone Complex",
+      "canonical_guess": "ghost-in-the-shell-sac",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 118,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El dualismo sostiene que mente y cuerpo coexisten pero nunca son la misma cosa, oponiéndose al monismo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Existen cuatro niveles: IA blanda (bots que parecen inteligentes), individualidad (IA con personalidad propia), fantasma (conciencia trasladable entre máquinas) y espíritu (autenticidad humana plena),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Shell es un sistema de interfaz en informática que permite comunicar al humano con el sistema operativo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El Hombre que Ríe deja mensajes con citas de Salinger, cuya novela trata la dificultad del varón joven para individualizarse,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las políticas identitarias funcionan como meme de rebeldía para fantasmas que han perdido su sentimiento de espíritu,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3: vídeo monográfico de 118 min dedicado íntegramente al análisis arquetípico de Ghost in the Shell: Stand Alone Complex (Production I.G, 2002). Aplica sostenidamente el aparato del canal: dualismo mente-cuerpo articulado a través del título triple (Shell = interfaz/cáscara/cuerpo prostético), las cuatro capas de conciencia (IA blanda / individualidad / fantasma / espíritu), test de Turing y distinción auténtico/imitado, Mayor Kusanagi como caso de la angustia 'no poder demostrar origen biológico', el Hombre que Ríe como cristalización contemporánea del arquetipo cero (lineage Salinger → Gwynplaine de Hugo → Joker), el laberinto de libros físicos como metáfora de la psique, complejo de autosuficiencia como copias sin original, crítica a las políticas identitarias como 'meme de rebeldía para fantasmas que han perdido su sentimiento de espíritu'. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'.",
+      "quote_evidence": "El paradigma de Turing dice que una inteligencia es todo aquello indistinguible de una inteligencia humana,"
+    },
+    {
+      "surface_form": "Complejo de autosuficiencia (Stand Alone Complex)",
+      "canonical_guess": "complejo-de-autosuficiencia",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El complejo de autosuficiencia es un fenómeno de ideas que son copias sin original, donde el individuo cree falsamente que su acto es genuino,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El fenómeno se convierte en un meme: unidad mínima de información cultural que se propaga como un virus de mente en mente,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En una cultura donde todos están desesperados por mostrar originalidad, paradójicamente todos terminan haciendo lo mismo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La falsa ilusión de autosuficiencia: cuanto más intentas demostrar que eres original, más vacío te sientes,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1: cumple criterio 'monográfico' — ~15 min sostenidos (49:11-1:05:00) como tesis articulada con marcador explícito ('el complejo de autosuficiencia es un fenómeno de...'). Categoría canal-específica precisa que no se reduce a páginas existentes: nombra el mecanismo cultural por el cual la búsqueda desesperada de originalidad produce homogeneidad masiva (copias sin original), conectándolo con la teoría de los memes como unidad mínima de información cultural y con la crítica de las políticas identitarias como meme de rebeldía. La articulación tiene rendimiento operativo claro (predice por qué la cultura hiperconectada genera homogeneidad pese a su retórica de individualidad). Conecta con woke-narrativa-postmoderna-moral, autotipo, y consumismo-critica pero no es reducible a ninguna — articula el mecanismo memético específico por el que el sujeto cree falsamente que su acto es genuino.",
+      "quote_evidence": "El complejo de autosuficiencia es un fenómeno de ideas que son copias sin original, donde el individuo cree falsamente que su acto es genuino,"
+    }
+  ],
+  "_doc_promote_new_ghost": "El sub-agente que construya el stub de ghost-in-the-shell-sac debe articular: (a) el paradigma tecnológico de la serie (fusión hombre-máquina, prostéticos completos, arduino+modem+wifi en cerebro como infraestructura básica); (b) el dualismo mente-cuerpo como pregunta nuclear de la obra (qué es 'el fantasma en la máquina', con la posición intermedia 'el todo es mayor que la suma de las partes'); (c) el triple significado de 'Shell' (interfaz informática + cáscara + cuerpo prostético) y por qué esto es crítico para el dualismo dualista habitable; (d) las CUATRO CAPAS de conciencia: IA blanda (bots que pasan apenas Turing), individualidad (rasgos propios por interacción con entorno = proto-yo), fantasma (conciencia trasladable entre máquinas, origen mecánico), espíritu (autenticidad humana plena cualitativamente diferente); (e) los Tachikoma como caso operativo del paso individualidad→fantasma (cuando Bato les da aceite natural en lugar de sintético, el afecto humaniza a la máquina); (f) la Mayor Kusanagi como espíritu humano descargado a chip+cuerpo prostético, su angustia central por no poder demostrar el origen biológico de su espíritu (paradoja: tener angustia por no ser humano ES en sí angustia humana); (g) la distinción IA-humana / IA-no-humana (programar angustias humanas en una máquina solo tiene sentido si quieres que crea ser humana, las IA genuinamente no-humanas como las inteligencias eternas-copiables son indiferentes a esas angustias); (h) la Sección 9 como unidad anti-ciberterrorismo, contexto narrativo; (i) la trama política: vacuna Murai bloqueada por el gobierno para beneficiar a Genómica Serano (nanomáquinas como tratamiento corporativo); (j) el HOMBRE QUE RÍE como conciencia que solo existe en forma electrónica y se manifiesta hackeando otros cuerpos — caso paradigmático de [[arquetipo-cero]] contemporáneo, con genealogía cultural Salinger ('El guardián entre el centeno' + cuento 'El hombre que ríe') → Gwynplaine de Víctor Hugo (huérfano desfigurado con sonrisa permanente) → Joker (especialmente La broma asesina); (k) el logo del Hombre que Ríe (chico con gorra de béisbol de catcher = inocencia subimago) y el chiste interno 'guante de béisbol para zurdos' = jerga de internet para algo que no existe; (l) el bosque de los subimago (hospital de niños con síndrome de ostracismo ciber-cerebral donde el Hombre que Ríe se esconde reproduciendo el cuento de Salinger); (m) [[complejo-de-autosuficiencia]] como fenómeno emergente del ataque del Hombre que Ríe (cascada de imitadores donde no se distingue original de copias, como Anonymous); (n) el laberinto de libros físicos en mundo digitalizado como metáfora de la psique y conexión explícita con [[matrix-1999-film]] y Westworld; (o) la canción 'Standalone' como clamor desesperado por la individualidad frente a la disolución en el shell colectivo; (p) la tesis terminal: las políticas identitarias funcionan como meme de rebeldía para fantasmas que han perdido su sentimiento de espíritu — paso humano espíritu→fantasma por hiperconectividad. Wikilinks naturales: arquetipo-cero, complejo-de-autosuficiencia, cibernetica-biosintetica-y-transhumanismo-en-proxy, conciencia-e-inteligencia-en-proxy, golem-de-cobre, realismo-cognitivo, mito-moderno-en-proxy, horror-cosmico, woke-narrativa-postmoderna-moral, matrix-1999-film, hikikomori-fenomeno (ostracismo ciber-cerebral). Citas con timestamps repartidos a lo largo de los 118 min.",
+  "_doc_promote_new_complejo": "El sub-agente que construya el stub de complejo-de-autosuficiencia debe articular: (1) Definición operativa: fenómeno cultural por el cual surgen ideas que son copias sin original, donde cada individuo que las reproduce cree falsamente que su acto es genuino, no copia. La estructura es paradójica: cuanto más desesperadamente intenta el sujeto demostrar su originalidad, más se incorpora al patrón homogéneo del grupo; (2) Marco teórico: la teoría del meme como unidad mínima de información cultural que se propaga como virus de mente en mente. El complejo de autosuficiencia es la patología cultural específica de los memes que funcionan como rebeldía sin contenido — propagar un gesto de individualidad que automáticamente cancela la individualidad por estandarización; (3) Mecanismo operativo: el ataque inicial (un acto genuinamente original o atribuible a un agente identificable) desencadena una cascada de imitadores que ya no se distinguen del original (caso paradigmático: Anonymous como descendiente real de la serie). El original puede no haber existido nunca o puede haberse vuelto irrelevante porque las copias operan ya con autonomía; (4) Cristalizaciones contemporáneas: políticas identitarias como meme de rebeldía para sujetos que han perdido el sentimiento de espíritu (paso espíritu→fantasma); el subcultural-aesthetics como performance de individualidad masiva; el activismo de hashtag; (5) Conexión con woke-narrativa-postmoderna-moral: el complejo de autosuficiencia es la mecánica memética específica que produce el vaciamiento arquetípico que la categoría woke documenta — ambos describen el mismo fenómeno desde planos distintos (cultural-narrativo / memético-difusivo); (6) Conexión con autotipo: el autotipo es el producto final del complejo (el prototipo vaciado de sentido); el complejo es el proceso de su producción; (7) Origen del concepto: la serie Ghost in the Shell: Stand Alone Complex articula la categoría con precisión narrativa — el ataque del Hombre que Ríe genera una cascada Stand Alone Complex (de ahí el subtítulo de la serie) que el canal toma como articulación arquetípica de un fenómeno cultural real; (8) Diagnóstico operativo: una cultura donde todos están desesperados por mostrar originalidad termina paradójicamente en homogeneidad masiva — el síntoma de saturación es la auto-vivencia de vacío del individuo (cuanto más intentas demostrar que eres original, más vacío te sientes). Wikilinks naturales: ghost-in-the-shell-sac, woke-narrativa-postmoderna-moral, autotipo, consumismo-critica, sofisma-estetico, mito-moderno-en-proxy, arquetipo-cero. Citas principales: timestamps de Ghost in the Shell entre 49:11 y 1:05:00 más posibles citas previas si la categoría reaparece en otros vídeos.",
+  "pending_updates": [
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La retirada empresarial coordinada en 2025 funciona como índice de que ese incentivo se ha desplazado.",
+      "section_target": null,
+      "content_proposed": "\n\n## Las políticas identitarias como meme de rebeldía para fantasmas\n\nEl monográfico sobre [[ghost-in-the-shell-sac|Ghost in the Shell: Stand Alone Complex]] (oct 2023) articula una pieza estructural que cierra el flanco memético del aparato: las políticas identitarias funcionan como **meme de rebeldía operativo solo cuando el sujeto ha perdido su sentimiento de espíritu**. La pieza precisa la posición psíquica específica del consumidor de identidad-política y la mecánica memética por la que se propaga.\n\n> \"Las políticas identitarias funcionan como meme de rebeldía para fantasmas que han perdido su sentimiento de espíritu,\"\n→ [Ghost in the Shell: Arquetipo cero y transhumanismo (54:44)](https://youtu.be/yp1gyKHdOJc?t=3284)\n\n> \"En una cultura donde todos están desesperados por mostrar originalidad, paradójicamente todos terminan haciendo lo mismo,\"\n→ [Ghost in the Shell: Arquetipo cero y transhumanismo (54:44)](https://youtu.be/yp1gyKHdOJc?t=3284)\n\n> \"Los humanos pasan de ser espíritus a ser fantasmas al perder individualidad por compartir conciencia en la misma red,\"\n→ [Ghost in the Shell: Arquetipo cero y transhumanismo (54:44)](https://youtu.be/yp1gyKHdOJc?t=3284)\n\nLa articulación opera con la taxonomía de cuatro capas de conciencia que la serie articula (IA blanda → individualidad → fantasma → espíritu): el paso de espíritu a fantasma describe el proceso por el cual el sujeto pierde su sentimiento de individualidad genuina por compartir conciencia en la misma red hiperconectada. El fantasma — sujeto cuya conciencia se ha vuelto trasladable y mezclable — busca reafirmar lo que ha perdido mediante mecanismos que precisamente cancelan lo que reclaman: la política identitaria funciona como rebeldía sin contenido, gesto de individualidad que automáticamente se incorpora al patrón homogéneo del grupo.\n\nLa pieza cierra el aparato con una mecánica memética complementaria a las ya articuladas (vaciamiento arquetípico + sofisma estético + pendiente resbaladiza + emotivismo + élites supranacionales): el [[complejo-de-autosuficiencia]] como fenómeno por el cual surgen ideas que son **copias sin original**, propagándose como virus de mente en mente. El complejo es el proceso difusivo; el [[autotipo]] es su producto final; las políticas identitarias son su cristalización política específica para sujetos en posición de fantasma. La consecuencia operativa que el monográfico documenta — 'cuanto más intentas demostrar que eres original, más vacío te sientes' — describe exactamente la auto-vivencia del usuario terminal del aparato: el agotamiento que produce el dispositivo es síntoma de su éxito, no de su fracaso.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "ghost-in-the-shell-sac",
+        "complejo-de-autosuficiencia"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yp1gyKHdOJc",
+          "timestamp_seconds": 3284,
+          "cite_markdown": "[Ghost in the Shell: Arquetipo cero y transhumanismo (54:44)](https://youtu.be/yp1gyKHdOJc?t=3284)"
+        }
+      ],
+      "rationale": "La página articula múltiples mecánicas del aparato woke (vaciamiento arquetípico, sofisma estético, pendiente resbaladiza, emotivismo, regresión psicológica, instrumentalización política supranacional). El monográfico de Ghost in the Shell aporta una pieza memética específica no presente: la mecánica por la que las políticas identitarias funcionan como meme de rebeldía precisamente para sujetos cuya posición psíquica es la de fantasma (taxonomía de cuatro capas de conciencia). La pieza añade tres elementos no presentes: (a) el sujeto consumidor en posición de fantasma (no de víctima ni de regresivo), (b) la paradoja productiva de la búsqueda de originalidad como fuente de homogeneidad, (c) la conexión con complejo-de-autosuficiencia como mecánica difusiva específica. Es ortogonal al material existente y cierra el flanco memético-difusivo del aparato. Insert antes de la sección Lagunas como cierre del cuerpo articulado.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Mayor Motoko Kusanagi",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista de Ghost in the Shell. Su lectura como caso paradigmático de la cuarta capa (espíritu humano descargado a chip + cuerpo prostético) y su angustia de no poder demostrar origen biológico se documentan dentro de ghost-in-the-shell-sac.",
+      "quote_evidence": "La Mayor representa la perfección como fusión hombre-máquina, pero su única angustia es no poder demostrar que su espíritu es de origen biológico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "El Hombre que Ríe (personaje de Ghost in the Shell SAC)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Antagonista/protagonista alterno de SAC. Caso paradigmático de la tercera capa (fantasma) y cristalización contemporánea del arquetipo-cero. Su lectura completa con genealogía cultural Salinger→Hugo→Joker se documenta dentro de ghost-in-the-shell-sac. Posible enriquecimiento futuro a arquetipo-cero si reaparece sostenido.",
+      "quote_evidence": "El Hombre que Ríe es una conciencia que solo existe en forma electrónica y actúa hackeando otros cuerpos para manifestarse,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cristalización contemporánea del arquetipo-cero con genealogía cultural articulada. Si el canal vuelve a articular la genealogía Salinger/Hugo/Joker en otros vídeos, pending_update sustancial a arquetipo-cero.",
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Tachikoma (tanques tácticos con IA)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personajes secundarios. Caso operativo de la segunda capa (individualidad), con el motivo del aceite natural que les da Bato como humanización afectiva. Documentar dentro de ghost-in-the-shell-sac.",
+      "quote_evidence": "Los tachikoma son prototipos experimentales de tanques tácticos con IA propia que van desarrollando personalidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Sección 9 (unidad anti-ciberterrorismo)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Unidad ficticia central de SAC. Documentar dentro de ghost-in-the-shell-sac como contexto narrativo.",
+      "quote_evidence": "La Sección 9 es una unidad policial especializada en ciberterrorismo dentro de la red donde habitan las mentes interconectadas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "J.D. Salinger / El guardián entre el centeno",
+      "reason_code": "passing_mention",
+      "reason_detail": "Autor y novela citados como genealogía cultural del Hombre que Ríe. La lectura del canal articula 'la dificultad del varón joven para individualizarse' + 'novela sobre el sentimiento disocial de no pertenecer al mundo, conectada con el fenómeno incel y la desrealización'. Si el canal le dedica análisis monográfico, merece entity_work. Por ahora documenta dentro de ghost-in-the-shell-sac y arquetipo-cero.",
+      "quote_evidence": "El Hombre que Ríe deja mensajes con citas de Salinger, cuya novela trata la dificultad del varón joven para individualizarse,",
+      "review_priority": "medium",
+      "review_priority_reason": "Novela canónica del s. XX cuya lectura proxiana (varón en transición incel/desrealización/disocialidad) es interpretación específica. Si reaparece desarrollada, merece entity_work como caso del arquetipo-cero contemporáneo.",
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Holden Caulfield (protagonista de El guardián entre el centeno)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje literario citado como caso del 'guardián de los niños que juegan en el centeno' / cuidador de la inocencia / incel proto-arquetípico. Documentar dentro de ghost-in-the-shell-sac y arquetipo-cero.",
+      "quote_evidence": "Holden Caulfield expresa que solo querría ser el guardián de los niños que juegan en el centeno: cuidar la inocencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Gwynplaine (El hombre que ríe, Víctor Hugo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Personaje literario clave en la genealogía: 'huérfano desfigurado con sonrisa permanente, la ironía vital en su máxima expresión'. La novela de Hugo está en la línea Salinger→Hugo→Joker→GitS. Si el canal le dedica análisis monográfico merece entity_work.",
+      "quote_evidence": "La novela de Víctor Hugo presenta a Gwynplaine, un huérfano desfigurado con una sonrisa permanente: la ironía vital en su máxima expresión,",
+      "review_priority": "medium",
+      "review_priority_reason": "Eslabón medio de la genealogía cultural del arquetipo-cero contemporáneo. Si reaparece, posible entity_work y/o enrichment sustancial a arquetipo-cero.",
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Joker / La broma asesina",
+      "reason_code": "passing_mention",
+      "reason_detail": "Personaje y obra de DC. Citado como 'personificación actual de esa sonrisa asesina, directamente inspirada en Gwynplaine'. La broma asesina (Alan Moore) es referencia específica. Si el canal dedica análisis monográfico al Joker o a La broma asesina, merece entity_work.",
+      "quote_evidence": "El Joker de Batman (especialmente La broma asesina) es la personificación actual de esa sonrisa asesina, directamente inspirada en Gwynplaine,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cristalización contemporánea del arquetipo-cero en cómic mainstream. Si recibe análisis monográfico, merece entity_work paralelo a otros casos del arquetipo.",
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Westworld (serie HBO)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Serie citada como derivada de Ghost in the Shell ('está basada en los paradigmas de Ghost in the Shell'). Sin análisis aquí. Si recibe directo monográfico merece entity_work — el canal ya la había mencionado en pinocho-1940-film como secuencia curricular Pinocho→AI→Westworld.",
+      "quote_evidence": "Es el mismo laberinto que aparece en Westworld, que a su vez está basado en los paradigmas de Ghost in the Shell,",
+      "review_priority": "medium",
+      "review_priority_reason": "Westworld referenciada al menos en dos vídeos del canal como obra clave del paradigma conciencia-cibernética. Candidata a entity_work si recibe directo monográfico.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Vacuna Murai / Genómica Serano",
+      "reason_code": "in_work_character",
+      "reason_detail": "Trama política interna de la serie. Documentar dentro de ghost-in-the-shell-sac.",
+      "quote_evidence": "Un científico desarrolla la vacuna Murai, pero el gobierno bloquea su patente para beneficiar a genómica Serano y su tratamiento con nanomáquinas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Síndrome de ostracismo ciber-cerebral",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cuadro ficticio de la serie definido como 'mezcla de autismo y hikikomori digital'. Conexión con [[hikikomori-fenomeno]] (ya página existente). Documentar dentro de ghost-in-the-shell-sac.",
+      "quote_evidence": "Se descubre el síndrome de ostracismo ciber-cerebral (mezcla de autismo y hikikomori digital) y la esclerosis ciber-cerebral,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno"
+    },
+    {
+      "surface_form": "Test de Turing",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto canónico de IA citado en relación a la articulación 'una inteligencia es indistinguible de inteligencia humana'. Concepto suficientemente conocido y ya tratado en golem-de-cobre y conciencia-e-inteligencia-en-proxy con la posición proxiana (Turing como criterio operativo pero insuficiente como teoría de la mente). Documentar dentro de ghost-in-the-shell-sac.",
+      "quote_evidence": "El paradigma de Turing dice que una inteligencia es todo aquello indistinguible de una inteligencia humana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Anonymous (movimiento)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Movimiento real citado como caso paradigmático del complejo de autosuficiencia (cascada de imitadores donde no se distingue original de copias). Documentar dentro de complejo-de-autosuficiencia como caso operativo contemporáneo.",
+      "quote_evidence": "El ataque del Hombre que Ríe desencadena una cascada de imitadores, como Anonymous, donde ya no se distingue el original de las copias,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "complejo-de-autosuficiencia"
+    },
+    {
+      "surface_form": "Memes (teoría)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto de meme como 'unidad mínima de información cultural que se propaga como un virus de mente en mente' (teoría de Dawkins). Pieza estructural del complejo de autosuficiencia. Si el canal la articula sostenidamente en otros vídeos como marco propio, merece concept page propia.",
+      "quote_evidence": "El fenómeno se convierte en un meme: unidad mínima de información cultural que se propaga como un virus de mente en mente,",
+      "review_priority": "medium",
+      "review_priority_reason": "Marco teórico canónico (memética dawkinsiana) aplicado por el canal. Si reaparece como marco operativo principal en otros vídeos, merece concept page propia o whitelist soft-candidate de Dawkins.",
+      "enriches_concept": "complejo-de-autosuficiencia"
+    },
+    {
+      "surface_form": "Subimago (larva intermedia)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Categoría biológica citada como metáfora de la transición infancia-adultez ('larva a medio camino entre gusano e insecto adulto'). El bosque de los subimago como espacio donde el Hombre que Ríe se esconde. Documentar dentro de ghost-in-the-shell-sac. Posible enriquecimiento futuro a perdida-inocencia.",
+      "quote_evidence": "Un subimago es una larva a medio camino entre gusano e insecto adulto, metáfora de la transición infancia-adultez,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "perdida-inocencia"
+    },
+    {
+      "surface_form": "Fenómeno incel",
+      "reason_code": "passing_mention",
+      "reason_detail": "Fenómeno cultural citado en relación a la lectura de Holden Caulfield. Sin desarrollo dedicado. Posible concept page futura si el canal le dedica articulación sostenida.",
+      "quote_evidence": "Es una novela sobre el sentimiento disocial de no pertenecer al mundo, que conecta con el fenómeno incel y la desrealización,",
+      "review_priority": "medium",
+      "review_priority_reason": "Fenómeno cultural contemporáneo articulable como caso del arquetipo-cero o del síndrome del niño masculino. Si el canal le dedica monográfico, merece concept page o synthesis propia.",
+      "enriches_concept": "arquetipo-cero"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 2,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 16,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "WARN promote_new[Ghost in the Shell: Stand Alone Complex] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Complejo de autosuficiencia (Stand Alone Complex)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

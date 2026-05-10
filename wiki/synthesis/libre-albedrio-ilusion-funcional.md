@@ -149,6 +149,32 @@ La pieza articula la consecuencia operativa que la sección 'Libre albedrío vs 
 
 La pieza cierra el flanco de 'Articulación con la responsabilidad moral' que la página declaraba en lagunas. Si la voluntad no opera como facultad a priori y todas las decisiones son afectivas, ¿cómo se sostiene la imputación moral? La respuesta del canal: sustituir el par voluntad/libertad (categorías mitológicas sin función propia operativa) por el par **coherencia/responsabilidad** (categorías operacionales sobre el comportamiento del sujeto en el tiempo). La coherencia mide la consistencia del sujeto entre sus declaraciones, sus afectos y sus actos; la responsabilidad mide su disposición a hacerse cargo de las consecuencias de sus actos. Ambas son verificables fenomenológicamente sin necesidad de invocar una facultad volitiva metafísica. La ilusión funcional del libre albedrío sigue operando — el sujeto experimenta agencia — pero la imputación moral no descansa sobre esa ilusión sino sobre la huella temporal verificable de coherencia y responsabilidad.
 
+
+
+## Fe a priori vs predicción a priori: la única libertad humana como libertad de conciencia
+
+El monográfico sobre [[matrix-secuelas-2003|Matrix Reloaded y Revolutions]] (oct 2022) articula una formulación sintética del marco que las secciones anteriores tenían dispersa: la asimetría entre fe humana (comprensión a posteriori) y predicción mecánica (a priori), con conclusión operativa sobre qué es exactamente la única libertad genuina del sujeto humano.
+
+> "Los humanos funcionan con fe: primero actúo, luego comprendo (comprensión a posteriori),"
+→ [Matrix II y III (2:06:31)](https://youtu.be/tkVwAclFrsI?t=7591)
+
+> "Las máquinas funcionan con predicción: comprenden a priori, ven el camino completo desde el inicio,"
+→ [Matrix II y III (2:06:31)](https://youtu.be/tkVwAclFrsI?t=7591)
+
+> "La única libertad humana es la libertad de conciencia: cuanto más capaz eres de tener fe a priori, mejor comprendes a posteriori,"
+→ [Matrix II y III (2:06:31)](https://youtu.be/tkVwAclFrsI?t=7591)
+
+La pieza precisa lo que las secciones anteriores articulaban como ilusión funcional: la asimetría operativa humano/máquina NO se reduce a 'la máquina no decide porque no tiene afectos', sino que opera por **régimen temporal opuesto**. El humano comprende **después** (la voluntad como reconstrucción a posteriori ya documentada arriba); la máquina comprende **antes** (predicción determinista del camino completo desde la condición inicial). El humano NUNCA tiene acceso a comprensión a priori del camino completo — su régimen es estructuralmente retrospectivo, y por eso solo puede actuar **por fe**. La acción precede a la comprensión.
+
+### Libertad de conciencia como única libertad genuina
+
+La formulación final del monográfico precisa la única dimensión donde el sujeto humano tiene libertad operativa real: **la libertad de conciencia**. No es libertad de la voluntad (que opera como ilusión funcional), no es libertad metafísica frente al determinismo causal (incoherente lógicamente), es libertad sobre cuánto el sujeto se permite tener fe a priori antes de tener comprensión a posteriori. La fe-a-priori opera como capacidad metacognitiva: el sujeto puede expandir o contraer su disposición a actuar antes de comprender, y esa expansión-contracción es lo único que él controla.
+
+La consecuencia operativa que la pieza articula es paradójica: cuanta MÁS fe a priori el sujeto se permite, MEJOR comprende a posteriori. La libertad de conciencia no es libertad de elección entre opciones predeterminadas (régimen mecánico) sino libertad de extender el régimen retrospectivo más allá de su zona de comodidad — actuar más allá de lo que se comprende, para llegar a comprender más de lo que se podía. La conexión con la articulación clásica del [[viaje-heroe]] es directa: el héroe que cruza el umbral sin saber lo que encontrará no es ingenuo, está ejerciendo la única libertad humana operativa — la libertad de conciencia que se extiende más allá de su comprensión actual para producir nueva comprensión retrospectiva.
+
+La pieza cierra la articulación humano/máquina del marco con asimetría temporal precisa: a la asimetría afectiva (humano decide por afectos / máquina computa) y a la asimetría representacional (humano evoca escenarios no-presentes / máquina ejecuta procedimiento), se añade la asimetría temporal (humano comprende después / máquina comprende antes). Las tres asimetrías son aspectos del mismo fenómeno estructural: la cognición humana es realismo cognitivo retrospectivo afectivo; la cognición mecánica es predicción determinista anticipativa.
+
+
 ,"
 → [Lunes sin política (2:11:01)](https://youtu.be/r1SmCsNmLh0?t=7861)
 
@@ -173,8 +199,12 @@ La pieza cierra el flanco de 'Articulación con la responsabilidad moral' que la
 
 
 
+
+
 - **Lunes sin política** — chunks: [1:42:11](https://youtu.be/r1SmCsNmLh0?t=6131) · [2:00:50](https://youtu.be/r1SmCsNmLh0?t=7250) · [2:11:01](https://youtu.be/r1SmCsNmLh0?t=7861)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [7:30](https://youtu.be/hx9creRpdnY?t=450)
 - **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:32:59](https://youtu.be/ZlO5o786u90?t=5579)
 - **Análisis: La Llegada (Parte dos)** — chunks: [1:50:06](https://youtu.be/tOn66qFS2-M?t=6606)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [19:17](https://youtu.be/L4ayDmaUO9Y?t=1157)
+- **Matrix II y III** — chunks: [1:04:44](https://youtu.be/tkVwAclFrsI?t=3884) · [2:06:31](https://youtu.be/tkVwAclFrsI?t=7591)
 

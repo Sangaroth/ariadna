@@ -433,6 +433,24 @@ La reducción neurocognitiva del viaje astral cierra una pieza conceptual del ma
 - La distinción paralela **politiqués (pseudofilosofía) vs magia postmoderna (pseudorreligión)** se menciona como simétrica pero no se desarrolla en este fragmento; pendiente cruzarla con el análisis del discurso político del canal
 - No aparece todavía conectado con el [[autotipo]] como categoría de degradación: si la magia postmoderna es un mito impropio operado como franquicia espiritual, encajaría en esa familia, pero el corpus aquí no hace el puente
 
+
+
+
+### Refinamiento: ocultismo como búsqueda de poder vs sabiduría sobre Dios
+
+En *Del origen del mal (III): La fe y los demonios* el canal articula con precisión la línea divisoria entre estudio religioso legítimo y ocultismo:
+
+> "El estudio se vuelve ocultismo cuando se cambia la sabiduría sobre Dios por la búsqueda del poder,"
+→ [Del origen del mal (III): La fe y los demonios (1:48:28)](https://youtu.be/L4ayDmaUO9Y?t=6508)
+
+> "El ocultismo es la práctica de buscar promesas de poder en simbologías no sagradas, no uránicas, no divinas,"
+→ [Del origen del mal (III): La fe y los demonios (1:48:28)](https://youtu.be/L4ayDmaUO9Y?t=6508)
+
+> "Las escuelas de magia moderna son refritos iconotrópicos de mitologías anteriores a la judaica mezclados con cábala y alquimia,"
+→ [Del origen del mal (III): La fe y los demonios (1:48:28)](https://youtu.be/L4ayDmaUO9Y?t=6508)
+
+La precisión opera en dos direcciones: define el ocultismo por su **objeto** (poder, no sabiduría) y por su **simbología** (no sagrada, no uránica, no divina). Esto excluye del ocultismo el estudio académico de tradiciones esotéricas hecho con interés filosófico-comprensivo y lo restringe a la práctica orientada a obtener poder mediante simbologías cuya genealogía es eclectic-iconotrópica. Conecta con [[iconotropias-de-la-rabia-narcisista]]: la rabia narcisista frente a no-tener-poder es una motivación reconocible de la fabricación iconotrópica que sustenta las escuelas de magia moderna.
+
 ## Citations
 
 
@@ -443,4 +461,3 @@ La reducción neurocognitiva del viaje astral cierra una pieza conceptual del ma
 - **What is a Charo?** — chunks: [2:36:43](https://youtu.be/qMfv4dX09Lg?t=9403)
 - **Directo casual** — chunks: [24:19](https://youtu.be/ECN5C9rsaZg?t=1459)
 - **Psicología 101: Qué es un viaje astral.** — chunks: [22:14](https://youtu.be/fDr6XqABtQQ?t=1334)
-

@@ -97,6 +97,19 @@ Un punto crítico del concepto: las clases ancestrales **no son memorias** ni re
 
 Esta distinción es la que permite separar el concepto del condicionamiento clásico y de cualquier teoría empirista del aprendizaje: la clase ancestral está **inscrita en la forma misma de la representación**, no en el repertorio acumulado del organismo.
 
+
+
+En el análisis arquetípico de [[pinocho-1940-film|Pinocho]] el canal aplica esta lógica a un caso afectivo-relacional específico: la **proyección instintiva** del confort parental en situaciones de peligro. Cuando el niño se encuentra en apuros lejos del hogar, lo primero que se representa no es su propia angustia sino la de las figuras de cuidado.
+
+> "es el primer acto de proyección instintiva, un fenómeno psicológico que solo se explica asumiendo estructuras internas previas a la experiencia,"
+→ [Dédalus en Nínive. Análisis Arquetípico de Pinocho (1:00:20)](https://youtu.be/agh46Snf5YI?t=3620)
+
+> "el niño tiene conciencia propia, contra lo que piensan los constructivistas,"
+→ [Dédalus en Nínive. Análisis Arquetípico de Pinocho (1:18:32)](https://youtu.be/agh46Snf5YI?t=4712)
+
+La ilustración amplía el dominio en que opera la clase ancestral: del par perceptual Buba/Kiki al esquema afectivo-relacional padre/madre como locus de contención. Que el cerebro infantil produzca la proyección sin haberla aprendido por refuerzo confirma que la estructura representacional —la figura de cuidado como locus afectivo de seguridad— es pre-experiencial, no construida culturalmente.
+
+
 ## Anclaje estructuralista: relaciones antes que objetos
 
 Las clases ancestrales se enmarcan en una ontología estructuralista heredada de Lévi-Strauss y reformulada por el canal:

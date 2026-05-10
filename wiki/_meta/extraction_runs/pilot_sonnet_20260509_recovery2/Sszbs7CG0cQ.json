@@ -1,0 +1,261 @@
+{
+  "video_id": "Sszbs7CG0cQ",
+  "video_title": "Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Alien (saga)",
+      "canonical_guess": "alien-saga",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Alien toma el mito del gólem y le da una versión masculina y femenina mezclada con el mito polar,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Existe siempre: una gran madre (naturaleza), una hija (diosa-protagonista), una corporación (naturaleza artificial), un gólem (hijo de la corporación) y los varones (soldados),"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La estructura de Alien es: tomemos el mito polar y digamos qué pasaría si todo fuera al revés, si los dioses fueran malignos y devoradores,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Alien (saga) está en canonical_whitelist.json:works_canonical con auto_promote: true. Este vídeo (Mitología 101 didáctico) dedica ~60 min al análisis arquetípico estructural de la saga completa, articulando: (a) Alien como inversión del mito polar — 'tomemos el mito polar y digamos qué pasaría si todo fuera al revés, si los dioses fueran malignos'; (b) la cadena fractal de creación (Titanes/Arquitectos → humanos → corporación Weyland → androides → aliens, cada uno devorando las entrañas del anterior); (c) Weyland como Pandora corporativa Y Dios maligno simultáneamente; (d) la nave 'Mother' como canastilla de Moisés y la diosa-protagonista (Ripley/Lambert/Daniels) como variante del mito de Inanna; (e) los aliens como gólems-ángeles oscuros con evolución máquina-biológica; (f) la estructura idéntica del final de todas las películas; (g) la abominación como composición aberrante (cada personaje es una mezcla prohibida). Cumple el criterio de canonical_whitelist auto_promote (mención sustantiva ≥3 min), y supera ampliamente el umbral con tratamiento sostenido. La entrada saga unificada se justifica porque el análisis es estructural sobre las películas como conjunto, no sobre una entrega específica.",
+      "quote_evidence": "Alien toma el mito del gólem y le da una versión masculina y femenina mezclada con el mito polar,"
+    },
+    {
+      "surface_form": "Mito del gólem (arquetipo del hijo imperfecto creado a imagen y semejanza)",
+      "canonical_guess": "golem-arquetipo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 20,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El gólem es el hijo creado a imagen y semejanza que siempre resulta imperfecto e irreversiblemente defectuoso,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La estructura es fractal: Dios crea al hombre, el hombre crea al gólem, y cada creación replica el fallo de intentar replicar lo divino,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El ser más perfecto es también el más falible porque es el más autónomo: cuanto más libre, más se aleja de los planes iniciales,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Frankenstein se llama \"Frankenstein o el moderno Prometeo\": Mary Shelley hace referencia directa al mito de Prometeo,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.1 monográfico (~20 min sostenidos articulación del concepto como tesis central) + framing-mark explícito ('el gólem es...'). Concepto canal-articulado con estructura interna definida (definición, mecanismo de imperfección, paradoja autonomía-falibilidad, recursividad fractal) y casos paradigmáticos identificados (Alien, Frankenstein, Matrix-anomalía-sistémica). Distinto y complementario a [[golem-de-cobre]] (synthesis sobre cognición humana vs IA) — esta página articula el ARQUETIPO MITOLÓGICO del gólem como hijo imperfecto creado a imagen y semejanza, mientras que golem-de-cobre articula el modelo cognitivo del canal sobre la mente humana frente a la máquina. Ambas pueden coexistir como concept-page (arquetipo) y synthesis-page (aplicación cognitiva del arquetipo).",
+      "quote_evidence": "El gólem es el hijo creado a imagen y semejanza que siempre resulta imperfecto e irreversiblemente defectuoso,"
+    }
+  ],
+  "_doc_promote_new_alien_saga": "El sub-agente que construya el stub de alien-saga debe articular: (a) la posición estructural de la saga: 'Alien dice que tomemos el mito polar y digamos qué pasaría si todo fuera al revés, si los dioses fueran malignos y devoradores' — inversión sistemática del mito polar; (b) la cadena fractal de creación (Titanes/Arquitectos del Prometheus → humanidad → corporación Weyland → androides → aliens), cada creación devorando las entrañas de la anterior, replicando el castigo de Prometeo (águila devorando entrañas); (c) Weyland como Pandora corporativa: 'la corporación es Pandora — debe guardar la caja pero su curiosidad la lleva a abrir cajas de las que se escapan todos los males', simultáneamente Dios maligno que arroja al ser humano al espacio acompañado del mal que el titán Prometeo puso para infectar a la humanidad; (d) la nave 'Mother' como canastilla de Moisés y la heroína-diosa (Ripley en la saga clásica, Daniels en Covenant, Rain en Romulus) como variante del mito de Inanna que desciende a los infiernos; (e) la estructura idéntica del final de TODAS las películas de la saga: gran madre (naturaleza) + hija (diosa-protagonista) + corporación (naturaleza artificial) + gólem (androide hijo de la corporación) + varones (soldados) — los soldados enfrentan a aliens, la diosa enfrenta a la madre de los aliens, la corporación enfrenta a la diosa, la naturaleza enfrenta a la corporación; (f) los aliens como gólems-ángeles oscuros (cifra de [[golem-arquetipo]]) con evolución máquina-biológica: primer alien 100% biológico → mezclas progresivas con tecnología → reina-jerarquía Alien 3 → entidades cada vez más complejas; (g) la abominación como composición aberrante en cada personaje: androide (humano + tecnología), nave (naturaleza + Dios varón), alien-humano, mujer-alien, alien-máquina; la protagonista es la única portadora de pureza no mezclada hasta el final de la serie; (h) la nave en el espacio como cifra estructural de la persona deslizándose por la oscuridad (inversión del barco cruzando el mar); interior tecnológico = córtex prefrontal masculino fabricado por Weyland; interior femenino = naturaleza primitiva instintiva; (i) la 'sustancia negra' del Prometheus como semilla del mal inoculada por Titanes; (j) Evangelion como estructura polar idéntica a Alien (gólem + masculino/femenino + confrontación de la diosa con el mal para evitar el Apocalipsis); (k) connection con horror-cosmico: Alien sintetiza Prometeo+Pandora como articulado en el thesis_candidate de event-horizon-1997-film. Wikilinks naturales: mito-polar, golem-arquetipo, mal-sin-forma, dragon-arquetipo, horror-cosmico, event-horizon-1997-film, evangelion-anime, cibernetica-biosintetica-y-transhumanismo-en-proxy, weyland-corporation (descartar como page propia). Citas con timestamps repartidos a lo largo de los segmentos 49:05-1:23:09 del vídeo Sszbs7CG0cQ.",
+  "_doc_promote_new_golem_arquetipo": "El sub-agente que construya el stub de golem-arquetipo debe articular: (1) Definición operativa: el gólem es el hijo creado a imagen y semejanza que siempre resulta imperfecto e irreversiblemente defectuoso. Tradición judía clásica (gólem rabínico, criatura de barro animada por la palabra divina) reinterpretada como categoría arquetípica universal; (2) Mecanismo de imperfección: 'el ser más perfecto es también el más falible porque es el más autónomo — cuanto más libre, más se aleja de los planes iniciales'. La imperfección NO es defecto contingente del proceso de creación, es consecuencia estructural de querer crear algo verdaderamente autónomo; (3) Estructura recursiva-fractal: Dios crea al hombre, el hombre crea al gólem, cada creación replica el fallo de intentar replicar lo divino. La cadena se extiende indefinidamente: dioses → Prometeo → humanos → golems → IAs/aliens, cada eslabón devorando las entrañas del anterior; (4) Conexión con la abominación: todo gólem es abominable — mezcla de lo natural y lo sobrenatural, de lo humano y lo tecnológico, de la vida y la ciencia. La abominación es justamente el residuo categorial de querer juntar lo que no debería juntarse (cf. [[mal-sin-forma]]); (5) Casos paradigmáticos: Frankenstein de Mary Shelley (subtitulado 'El moderno Prometeo' — articulación explícita del lineage), Alien (gólem-ángel oscuro de Weyland, ver [[alien-saga]]), la anomalía sistémica de Matrix (fallo heredado del mito del gólem según [[matrix-1999-film]]), [[golem-de-cobre]] (la IA como gólem cognitivo contemporáneo); (6) Distinción frente a [[golem-de-cobre]]: el golem-de-cobre es la articulación cognitiva (la mente humana NO es un gólem-máquina, las máquinas son gólems sin afectos); golem-arquetipo es la categoría mitológica del hijo imperfecto que cubre Frankenstein, Alien, IA, etc.; (7) Conexión con [[mito-polar]]: el gólem aparece estructuralmente cuando lo masculino-creador intenta producir un descendiente sin la conjunción con lo femenino-receptor — el resultado es siempre imperfecto porque carece del polo complementario (Alien explícito: la corporación Weyland sustituyó a la madre naturaleza). Wikilinks naturales: alien-saga, mal-sin-forma, dragon-arquetipo, mito-polar, golem-de-cobre, matrix-1999-film, mitologia-propia-impropia, cibernetica-biosintetica-y-transhumanismo-en-proxy. Citas principales del directo Sszbs7CG0cQ entre 47:34 y 1:00:48, más posibles citas previas si la categoría reaparece en otros vídeos.",
+  "pending_updates": [
+    {
+      "page_id": "mito-polar",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta aclaración entronca con la página de [[anima-archetype]]: la polaridad es un eje cognitivo presente en toda psique, no un mapa de roles sexuales.",
+      "section_target": null,
+      "content_proposed": "\n\n## Gramática arquetípica: verbos transitivos vs intransitivos\n\nEn el mismo monográfico (*Mitología 101: Alien y el mito Polar*) el canal articula una pieza lingüístico-arquetípica que precisa la diferencia operativa entre los dos polos: lo masculino y lo femenino se distinguen por el tipo de gramática verbal con la que operan.\n\n> \"Los verbos transitivos (hacer, querer, buscar) requieren un complemento separado del verbo, como el Dios masculino que dice 'hágase la luz',\"\n→ [Mitología 101: Alien y el mito Polar (39:50)](https://youtu.be/Sszbs7CG0cQ?t=2390)\n\n> \"Los verbos intransitivos (ser, estar, parecer) tienen sentido en sí mismos y son una eternidad, son verbos femeninos en sentido arquetípico,\"\n→ [Mitología 101: Alien y el mito Polar (39:50)](https://youtu.be/Sszbs7CG0cQ?t=2390)\n\nLa pieza precisa la asimetría operativa que las secciones anteriores articulaban como 'forma vs fondo': lo masculino opera con verbos que requieren objeto separado (la acción transitiva produce algo distinto del agente), lo femenino opera con verbos que se sostienen en sí mismos (el ser, el estar, el parecer no producen objeto separado — son la eternidad sin agente). La articulación tiene rendimiento operativo: explica por qué el mito solar (acción transitiva del héroe contra el caos) es lineal y por qué el mito lunar (estado eterno de la diosa que acompaña) es circular. La distinción gramática-arquetípica es solidaria con la articulación cognitiva ya documentada (semántico-procedural masculino vs contextual femenino).\n\n## La ecisis: el héroe pasa de niño a Dios, de hijo a consorte\n\nEl mismo monográfico introduce un término técnico canal-específico para la operación culminante del mito lunar:\n\n> \"El héroe pasa de niño a Dios, de hijo a consorte (la mitad del todo), y eso se llama 'ecisis',\"\n→ [Mitología 101: Alien y el mito Polar (37:18)](https://youtu.be/Sszbs7CG0cQ?t=2238)\n\nLa ecisis nombra la transformación específica que la diosa opera sobre su hijo durante el ciclo lunar: el hijo cae a los infiernos, la diosa lo rescata, y al ascender él regresa transformado en consorte (mitad del todo polar). La operación es estructuralmente distinta del rapto, la elevación o la hierogamia: específicamente nombra el cambio categorial hijo→consorte que solo el polo lunar puede ejecutar sobre el material masculino. La pieza completa el vocabulario técnico del mito polar — junto al hieros gamos (culminación de la conjunción) y a la separación inicial, la ecisis nombra el momento exacto donde la asimetría jerárquica madre/hijo se transforma en simetría polar consorte/consorte.\n\n## El polar invertido: cuando la semilla del mal sustituye a la semilla divina\n\nLa misma sesión articula la mecánica generalizada del polar invertido — el caso estructural donde la cosmogonía polar se reproduce con todas sus piezas pero la 'chispa divina' es sustituida por una 'semilla del mal' inoculada por los dioses-Titanes en lugar de por el Uno-bondadoso.\n\n> \"Si los mitos cuentan que la semilla del bien está heredada por los dioses en los humanos, Alien dice que el mal siempre ha existido,\"\n→ [Mitología 101: Alien y el mito Polar (1:02:18)](https://youtu.be/Sszbs7CG0cQ?t=3738)\n\n> \"La estructura de Alien es: tomemos el mito polar y digamos qué pasaría si todo fuera al revés, si los dioses fueran malignos y devoradores,\"\n→ [Mitología 101: Alien y el mito Polar (1:07:20)](https://youtu.be/Sszbs7CG0cQ?t=4040)\n\nLa pieza completa el catálogo de variantes del mito polar (transformador / fallido / invertido) que las secciones anteriores articulaban dispersamente:\n\n- **Polar transformador** (Tolkien, Excalibur): la conjunción produce el Tercer ascendente, libra de los bucles solares y lunares\n- **Polar fallido** (Unicorn Wars): la conjunción produce abominación venenosa por mala integración\n- **Polar invertido** (Alien, Evangelion): la estructura cosmogónica completa opera pero con semilla del mal sustituyendo a la chispa divina — los dioses no donan, devoran; la corporación no nutre, infecta; el héroe no nace divino, es un gólem corrupto desde el origen. Ver [[alien-saga]] como caso paradigmático y [[golem-arquetipo]] como mecánica subyacente del polar invertido.\n\n## La cadena fractal de creación\n\nLa mecánica del polar invertido descansa sobre un mecanismo recursivo que el monográfico articula como cadena fractal de creaciones cada vez más imperfectas:\n\n> \"La estructura es fractal: Dios crea al hombre, el hombre crea al gólem, y cada creación replica el fallo de intentar replicar lo divino,\"\n→ [Mitología 101: Alien y el mito Polar (47:34)](https://youtu.be/Sszbs7CG0cQ?t=2854)\n\n> \"La cadena de creación degradada: dioses → Prometeo → humanos → golems → aliens, cada creación peor que la anterior,\"\n→ [Mitología 101: Alien y el mito Polar (1:04:19)](https://youtu.be/Sszbs7CG0cQ?t=3859)\n\nLa cadena articula la mecánica generativa del polar invertido: cada eslabón de la creación introduce un grado adicional de autonomía, y por la paradoja del [[golem-arquetipo]] ('cuanto más libre, más se aleja de los planes iniciales'), cada eslabón es estructuralmente más imperfecto que el anterior. La consecuencia narrativa: el último eslabón devora las entrañas del primero — el alien devora a la humanidad, la corporación devora a la naturaleza, los dioses-malignos devoran al cosmos. La cadena fractal cierra el aparato del mito polar con su contraparte oscura: donde el polar transformador cierra el ciclo en el hieros gamos ascendente, el polar invertido cierra el ciclo en la devoración descendente.",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "alien-saga",
+        "golem-arquetipo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "Sszbs7CG0cQ",
+          "timestamp_seconds": 2390,
+          "cite_markdown": "[Mitología 101: Alien y el mito Polar (39:50)](https://youtu.be/Sszbs7CG0cQ?t=2390)"
+        },
+        {
+          "video_id": "Sszbs7CG0cQ",
+          "timestamp_seconds": 2238,
+          "cite_markdown": "[Mitología 101: Alien y el mito Polar (37:18)](https://youtu.be/Sszbs7CG0cQ?t=2238)"
+        },
+        {
+          "video_id": "Sszbs7CG0cQ",
+          "timestamp_seconds": 3738,
+          "cite_markdown": "[Mitología 101: Alien y el mito Polar (1:02:18)](https://youtu.be/Sszbs7CG0cQ?t=3738)"
+        },
+        {
+          "video_id": "Sszbs7CG0cQ",
+          "timestamp_seconds": 4040,
+          "cite_markdown": "[Mitología 101: Alien y el mito Polar (1:07:20)](https://youtu.be/Sszbs7CG0cQ?t=4040)"
+        },
+        {
+          "video_id": "Sszbs7CG0cQ",
+          "timestamp_seconds": 2854,
+          "cite_markdown": "[Mitología 101: Alien y el mito Polar (47:34)](https://youtu.be/Sszbs7CG0cQ?t=2854)"
+        },
+        {
+          "video_id": "Sszbs7CG0cQ",
+          "timestamp_seconds": 3859,
+          "cite_markdown": "[Mitología 101: Alien y el mito Polar (1:04:19)](https://youtu.be/Sszbs7CG0cQ?t=3859)"
+        }
+      ],
+      "rationale": "La página ya cita este mismo monográfico en su definición y en la articulación Pandora-Prometeo, pero NO incorpora cuatro piezas conceptuales sustantivas que el vídeo articula: (1) la gramática arquetípica verbos-transitivos (masculinos) vs intransitivos (femeninos) — articulación lingüística-arquetípica que precisa la asimetría forma/fondo; (2) la 'ecisis' como término técnico canal-específico para la operación hijo→consorte del mito lunar; (3) el catálogo de variantes del polar (transformador / fallido / invertido) ahora completado con el polar invertido (Alien) que la página tenía sin nombrar pese a citar Alien como caso de transición; (4) la cadena fractal de creación como mecánica generativa del polar invertido. Las cuatro piezas son ortogonales al material existente y completan el aparato del mito polar con su catálogo de variantes y vocabulario técnico. Insert al final de la sección 'Lo masculino y lo femenino: estructuras cognitivas, no biología' que cierra el bloque conceptual antes de las aplicaciones canónicas.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Frankenstein (novela de Mary Shelley)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Novela citada como caso paradigmático del [[golem-arquetipo]]: 'Frankenstein o el moderno Prometeo' — Mary Shelley referencia directa a Prometeo, gólem y abominación. Si el canal le dedica análisis monográfico, merece entity_work paralelo a alien-saga y otros casos del arquetipo.",
+      "quote_evidence": "Frankenstein se llama \"Frankenstein o el moderno Prometeo\": Mary Shelley hace referencia directa al mito de Prometeo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Caso canónico del golem-arquetipo y del polar invertido. Si recibe directo monográfico merece entity_work. Mary Shelley posible whitelist soft-candidate como autora.",
+      "enriches_concept": "golem-arquetipo"
+    },
+    {
+      "surface_form": "Mary Shelley",
+      "reason_code": "passing_mention",
+      "reason_detail": "Autora citada como 'Mary Shelley hace referencia directa al mito de Prometeo' en el subtítulo de su Frankenstein. Sin desarrollo biográfico ni filosófico-literario.",
+      "quote_evidence": "Mary Shelley hace referencia directa al mito de Prometeo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-arquetipo"
+    },
+    {
+      "surface_form": "Prometeo (mito griego)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mito mencionado extensivamente en el contexto del mito polar y la cadena fractal de creación. La articulación va a [[mito-polar]] (pending_update) y a [[golem-arquetipo]] (promote_new). Si el canal le dedica análisis monográfico de Prometeo como mito independiente, merece concept page.",
+      "quote_evidence": "Prometeo es un héroe que cae en desgracia por intentar robar el fuego de los dioses: la capacidad divina de crear energía de la nada,",
+      "review_priority": "medium",
+      "review_priority_reason": "Mito griego canónico recurrente en el corpus (también en event-horizon-1997-film como 'arquetipo prometeico de la sci-fi'). Candidato a concept page propia si reaparece sostenidamente.",
+      "enriches_concept": "mito-polar"
+    },
+    {
+      "surface_form": "Pandora (mito griego)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mito mencionado como contraparte femenina de Prometeo, articulado por el canal como 'el mismo mito en versión masculina y femenina' — pieza ya cubierta en mito-polar. La identificación específica 'Pandora = corporación Weyland en Alien' va a alien-saga.",
+      "quote_evidence": "El mito de Prometeo y el mito de Pandora son el mismo mito: uno en versión masculina y otro en versión femenina,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-polar"
+    },
+    {
+      "surface_form": "Inanna (mito sumerio)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diosa sumeria citada como ejemplo arquetípico del mito lunar — su descenso a los infiernos. La articulación enriquecería mito-lunar si se desarrolla. Por ahora documenta dentro de mito-polar pending_update y mito-lunar.",
+      "quote_evidence": "El mito de Inanna bajando a los infiernos es un ejemplo del mito lunar,",
+      "review_priority": "medium",
+      "review_priority_reason": "Mitología mesopotámica como referencia del mito lunar canónico. Si reaparece, enrichment a mito-lunar.",
+      "enriches_concept": "mito-lunar"
+    },
+    {
+      "surface_form": "Eva (Génesis bíblico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Figura bíblica citada como contraparte femenina de Prometeo (curiosidad que abre la caja / muerde la manzana). Sin desarrollo dedicado aquí.",
+      "quote_evidence": "Eva por curiosidad muerde la manzana y Pandora por curiosidad abre la caja: se escapan soluciones y penurias mezcladas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Lilit (mención en Alien)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionada en la articulación de la xenomorfa-reina como 'ángel oscuro Lilit que devora a sus hijos'. Conexión con [[lilit-mito]] (página existente que documenta Lilit como mito moderno fabricado). Si reaparece desarrollada con el lineage Lilit-xenomorfa, merece pending_update a lilit-mito.",
+      "quote_evidence": "se enfrenta al ángel oscuro Lilit que devora a sus hijos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Lilit como cifra arquetípica de la madre devoradora aplicada a la reina alien. Si reaparece, pending_update a lilit-mito.",
+      "enriches_concept": "lilit-mito"
+    },
+    {
+      "surface_form": "Titanes (mitología griega)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Identificados con los Arquitectos del Prometheus de Ridley Scott. Sin desarrollo autónomo de la mitología titánica.",
+      "quote_evidence": "Los arquitectos (Titanes) crean a la humanidad e intentan inocular el mal en el ADN humano mediante la sustancia negra,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alien-saga"
+    },
+    {
+      "surface_form": "Evangelion (anime)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anime citado como caso estructural idéntico a Alien (gólem + masculino/femenino + diosa contra apocalipsis). Está en canonical_whitelist como soft. Si recibe monográfico merece entity_work.",
+      "quote_evidence": "Evangelion es lo mismo: un gólem, lo masculino, lo femenino, la confrontación de lo femenino con el mal,",
+      "review_priority": "medium",
+      "review_priority_reason": "Anime canónico con estructura polar-invertido equivalente a Alien. Si recibe directo monográfico merece entity_work paralelo a alien-saga.",
+      "enriches_concept": "alien-saga"
+    },
+    {
+      "surface_form": "Ripley (protagonista de la saga Alien)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista canónica. Su lectura como diosa-protagonista enfrentada a la madre de los aliens se documenta dentro de alien-saga.",
+      "quote_evidence": "Una mujer (la diosa, no un héroe) se ve envuelta sin llamada a la aventura en una lucha contra el mal en las profundidades del espacio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Sustancia negra (Prometheus de Ridley Scott)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Elemento ficticio de la saga. Lectura como semilla del mal inoculada por Titanes. Documentar dentro de alien-saga.",
+      "quote_evidence": "Los arquitectos (Titanes) crean a la humanidad e intentan inocular el mal en el ADN humano mediante la sustancia negra,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alien-saga"
+    },
+    {
+      "surface_form": "Alien Romulus (mención en título)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Película Alien Romulus (2024) mencionada en el título del directo ('NO spoilers') pero no analizada de modo distintivo en el summary. Documentar como entrega de la saga dentro de alien-saga.",
+      "quote_evidence": "Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alien-saga"
+    },
+    {
+      "surface_form": "Abominación (mezcla prohibida)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Categoría ya articulada en [[mal-sin-forma]] como 'mezcla de aquellas cosas que nunca deberían juntarse'. La articulación específica del vídeo (cada personaje de Alien como composición aberrante) enriquecería mal-sin-forma si se desarrolla. Por ahora documenta dentro de alien-saga.",
+      "quote_evidence": "Cada personaje es una composición aberrante: androide (humano + tecnología), nave (naturaleza + Dios varón), alien-humano, mujer-alien, alien-máquina,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mal-sin-forma"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 2,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Corporación Weyland (Alien)] reason=in_work_character quote no literal",
+    "DROP discarded[Análisis arquetípico como programa de psicología junguiana] reason=passing_mention quote no literal",
+    "WARN promote_new[Alien (saga)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Mito del gólem (arquetipo del hijo imperfecto creado a imagen y semejanza)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

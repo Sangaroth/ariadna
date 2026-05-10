@@ -274,5 +274,8 @@ La pieza añade una articulación operativa para la depresión que el directo pr
 ## Citations
 
 
+
 - video_id: `s0MkondMt1o` — Cuento de Navidad y el espíritu Luterano con teleñecos
 - **Autodidáctica** — chunks: [22:37](https://youtu.be/tgP5_AvAnD8?t=1357)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:46:49](https://youtu.be/aWeuzWLrLtE?t=6409)
+

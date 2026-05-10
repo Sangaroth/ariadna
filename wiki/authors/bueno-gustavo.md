@@ -267,6 +267,10 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 
 
 
+
+
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -293,4 +297,8 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [44:33](https://youtu.be/TmQiM16HIpU?t=2673)
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0)
 - **Cuento de Navidad y el espíritu Luterano** — chunks: [25:14](https://youtu.be/7LTa7-tZwv0?t=1514) · [1:23:28](https://youtu.be/7LTa7-tZwv0?t=5008) · [1:44:09](https://youtu.be/7LTa7-tZwv0?t=6249)
+- **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:46:24](https://youtu.be/agh46Snf5YI?t=6384)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [53:39](https://youtu.be/L4ayDmaUO9Y?t=3219)
+- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [1:52:02](https://youtu.be/Ot3Z1VYTUgY?t=6722)
+- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [32:16](https://youtu.be/OT2DW4zoKsE?t=1936)
 

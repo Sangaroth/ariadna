@@ -1,0 +1,274 @@
+{
+  "video_id": "OT2DW4zoKsE",
+  "video_title": "Enredados: Análisis de la madre oscura en Disney.",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Enredados (Tangled)",
+      "canonical_guess": "enredados-2010-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 116,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película es un viaje del héroe masculino contado a través de lo femenino, lo que la convierte en un hieros gamos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Madre Gothel como cordón umbilical que nunca se corta, alimentándose de la belleza de la hija para mantenerse joven,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El proceso de la película es exactamente lo que se hace en terapias de trastorno de personalidad: volver a los orígenes,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Como el colgado del tarot, se sacrifica dándolo todo únicamente para salvar a Rapunzel, renunciando por completo a su vida,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "scope.md §2.3: vídeo monográfico de 116 min dedicado íntegramente al análisis arquetípico de Enredados (Disney, 2010). Aplica sostenidamente el aparato del canal: hieros gamos como viaje del héroe masculino contado a través de lo femenino, los tres dones de la diosa (gracia/belleza/esperanza) extraídos del elixir-flor a Rapunzel, Madre Gothel como caso paradigmático de la madre oscura, los farolillos como tributo a los dioses masculinos, Flynn como cero del tarot que conquista el autodominio (el colgado), la sartén como herencia útil de la madre ansiosa, el corte del pelo como renuncia masculina a la belleza externa, la lágrima como elixir verdadero (esperanza interior), la reelaboración episódica como terapia. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'. Lectura paralela y complementaria a la-bella-durmiente-1959-film y la-sirenita-1989-film promovidas en este mismo batch.",
+      "quote_evidence": "La película es un viaje del héroe masculino contado a través de lo femenino, lo que la convierte en un hieros gamos,"
+    },
+    {
+      "surface_form": "La madre oscura (tipología clínico-arquetípica del canal)",
+      "canonical_guess": "madre-oscura-en-proxy",
+      "page_type": "synthesis",
+      "synthesis_subtype": "author_thesis",
+      "auto_promoted_synthesis": true,
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La madre oscura hace exactamente lo opuesto a la madre nutricia: utiliza tu vida para nutrirse ella,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Toda madre tiene una parte oscura que involuntariamente transmite ponzoña junto con la buena intención de riego,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La crianza hiperracional y superexigente (exceso de padre, ausencia de madre) causa apego evitativo y desconexión afectiva,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La madre neurótica con depresión o desorden afectivo grave causa apego desorganizado, base de lo histriónico y borderline,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El trastorno borderline pertenece a la estructura femenina de la psique: inestabilidad afectiva que todas las madres provocan en cierta medida,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La sartén es la única cosa útil que la madre neurótica le ha transmitido: la impulsividad de responder fieramente a las amenazas,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Madre Gothel como cordón umbilical que nunca se corta, alimentándose de la belleza de la hija para mantenerse joven,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Definición operativa: madre oscura como inversión de la madre nutricia (consume en lugar de nutrir)",
+        "Tres dones de la diosa que la madre oscura niega: gracia, belleza-genuina, esperanza (sustituida por ansiedad)",
+        "Mecanismo de cohabitación del superyó: la madre oscura ocupa el aparato cognitivo de la hija e impone qué es bueno/malo",
+        "Tipología clínica por estilo de apego: evitativo (exceso padre/ausencia madre) → desconexión afectiva; desorganizado (madre depresiva/desordenada) → base histriónico-borderline; combinación (Gothel padre+madre) → identidad/represión/vínculos autodestructivos",
+        "Genealogía recursiva: la madre oscura cristaliza por su propia herida (alguien se aprovechó de su belleza, le dejó sin esperanza)",
+        "Mecanismo del miedo heredado: 'el miedo a ser ordinaria' como ansiedad transmitida de madre a hija",
+        "La sartén como herencia útil: capacidad de respuesta abrupta, fuerza de la mujer dentro del hogar transmitida por la madre ansiosa",
+        "Trastorno borderline como estructura femenina constitutiva (no patología absoluta sino gradación)",
+        "Cristalizaciones cinematográficas: Madre Gothel (Tangled) + Maléfica (Bella Durmiente) + madrastra de Blancanieves",
+        "Mecanismo terapéutico: reelaboración episódica (volver al origen, cambiar retroactivamente, regresar al presente sanado)"
+      ],
+      "minutes_sustained": 60,
+      "signal_marks_count": 7,
+      "gate_auto_promote_passed": true,
+      "gate_evaluation": "minutes_sustained=60 >= 30 ✓; signal_marks=7 >= 3 ✓ (declared_thesis + 3 internal_structure + 2 applied_framework + pedagogic_register); framework_internal_structure=10 >= 4 ✓. Pasa gate de auto-promoción synthesis sin firma humana per scope.md §2.4.1. Justificación adicional: el thesis_candidate de La Bella Durmiente (este mismo batch) ya marcaba la madrastra/Mother Gothel como predictor antisocial con minutes_sustained insuficiente (12 min); este vídeo añade 60+ min sostenidos sobre el mismo arquetipo, completando el material para promoción autónoma.",
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de 116 min cuyo título mismo declara el tema ('Análisis de la madre oscura en Disney'). Articula sostenidamente la tipología clínico-arquetípica de la figura: definición operativa (inversión de la madre nutricia), mecanismo de cohabitación del superyó, tipología por estilo de apego (evitativo/desorganizado/borderline), genealogía recursiva (la madre oscura como cristalización de su propia herida), cristalizaciones cinematográficas (Gothel/Maléfica/madrastra de Blancanieves), mecanismo terapéutico (reelaboración episódica). El thesis_candidate previo de La Bella Durmiente (12 min) sobre 'madrastra como predictor de conducta antisocial' encuentra aquí su articulación sostenida (60+ min) que completa el material para promoción autónoma. Justifica synthesis page propia separada de tipologia-femenina-arquetipica (que articula la tipología SANA gracia/consorte/madre + 5 corruptivas Wendy/ninfa/lámia/Medea/bruja) y separada del entity_work de Tangled (que documenta la lectura específica del film).",
+      "quote_evidence": "La madre oscura hace exactamente lo opuesto a la madre nutricia: utiliza tu vida para nutrirse ella,"
+    }
+  ],
+  "_doc_promote_new_enredados": "El sub-agente que construya el stub de enredados-2010-film debe articular: (a) la apertura como paréntesis antes del relato celestial, viaje del héroe masculino contado a través de lo femenino = hieros gamos; (b) la gota de sol que engendra la flor (conjunción de lo masculino solar y lo femenino terreno) como fuente del elixir/vida; (c) el trasvase del elixir de la flor a Rapunzel — los dones (gracia, belleza, esperanza) pasan a ser don que pertenece a todas las mujeres; (d) los farolillos como tributo religioso a los dioses masculinos que dieron la semilla; (e) el pelo como pétalos de la flor (al cortarlo se corta la vida); (f) Madre Gothel como caso paradigmático del arquetipo articulado en [[madre-oscura-en-proxy]]; (g) el camaleón Pascal como gracia/prudencia poco desarrollada (encierro), el caballo Maximus como sentido del deber no domado (Flynn no lo domó porque fue robado), Flynn como cero del tarot; (h) la sartén como herramienta de la diosa (herencia útil de la madre ansiosa); (i) Flynn ascendiendo a la torre como figura masculina colándose en la imaginación de Rapunzel — el malote tóxico como motivación más potente para desobedecer; (j) la ambivalencia borderline al salir al mundo (oscilación culpa/euforia, depresión/manía como herencia); (k) la taberna de los anhelos como diosa renovando la esperanza de los bandidos; (l) la revelación mutua: Flynn como niño solo con nombre ridículo + Rapunzel como singularidad-no-poder (fragilidad, no potencia); (m) ver los farolillos como buscar el origen de los anhelos en la realidad; (n) la revelación del sol oculto (patrón en los dibujos de infancia) como amor del dios siempre presente; (o) Flynn cortando el pelo de Rapunzel como sacrificio del colgado del tarot — renuncia a la belleza externa para amarla por dentro; (p) la lágrima como elixir verdadero (la esperanza siempre estuvo en el interior, el pelo solo era muestra hacia fuera); (q) el cierre del paréntesis: la historia siempre fue de él como rey destinado, las cuatro partes del yo (diosa/niña/dios/niño) integradas en familia sagrada; (r) hieros gamos consumado en la distancia antes de la unión física; (s) las dos canciones ocultas ('Brilla linda flor / dame tu poder' = ciclo de ella; 'Flor que da fulgor con tu brillo fiel' = ciclo de él) como clave terapéutica: vuelve a los orígenes, recuerda quién eres, supéralo y sana retroactivamente; (t) la reelaboración episódica como terapia documentada en [[madre-oscura-en-proxy]]. Wikilinks naturales: madre-oscura-en-proxy, hieros-gamos, viaje-heroe, tipologia-femenina-arquetipica, diosa-blanca, mito-lunar, mito-solar, tarot-arquetipico, perdida-inocencia, sindrome-wendy, anima-archetype, individuation, la-bella-durmiente-1959-film (estructura paralela), la-sirenita-1989-film (estructura paralela). Citas con timestamps repartidos a lo largo de los 116 min.",
+  "_doc_promote_new_madre_oscura": "El sub-agente que construya el stub de madre-oscura-en-proxy debe articular: (1) Definición operativa: la madre oscura es la inversión exacta de la madre nutricia — donde la nutricia te riega para que crezcas sana, la oscura consume tu alma/recursos/emociones/belleza para nutrirse ella. Toda madre tiene parte oscura involuntaria; la categoría nombra el caso donde esa parte domina; (2) Tres dones de la diosa que la madre oscura niega: gracia (capacidad de relación innata, tratar a los demás como iguales), belleza genuina (no la mera apariencia exterior), esperanza (sustituida por ansiedad: las madres ansiosas son posesivas, helicóptero, neuróticas); (3) Mecanismo de cohabitación del superyó: la madre oscura ocupa el aparato cognitivo de la hija e impone qué es bueno/malo, modifica la visión del mundo, mata la autoestima ('eres frágil como un brote, torpe, inmadura, crédula, ingenua'); (4) Tipología clínica por estilo de apego: (a) APEGO EVITATIVO — crianza hiperracional/superexigente con exceso de padre y ausencia de madre, produce desconexión afectiva; (b) APEGO DESORGANIZADO — madre neurótica con depresión o desorden afectivo grave, base de lo histriónico y borderline; (c) MADRE PADRE+MADRE simultáneamente (caso Gothel) — genera problemas de identidad, represión emocional, vínculos autodestructivos; (5) El miedo a ser ordinaria como herencia ansiosa específica: 'salimos al mundo temerosos por falta de seguridad e identidad', el apego ansioso busca relaciones que den absoluta seguridad (imposible que perpetúa la búsqueda); (6) Genealogía recursiva: la madre oscura cristaliza POR su propia herida — alguien se aprovechó de su belleza, le dejó sin esperanza, se convirtió al mal. La oscuridad se transmite generacionalmente como inversión de la herida no resuelta; (7) La sartén como herencia útil: junto con la tensión, la madre oscura transmite un instinto de responder abruptamente a las amenazas — capacidad de imponerse dentro del hogar (no fuerza material). Es la única pieza positiva que la crianza oscura preserva; (8) Trastorno borderline como estructura femenina constitutiva: 'pertenece a la estructura femenina de la psique: inestabilidad afectiva que todas las madres provocan en cierta medida' — gradación, no patología absoluta. Conexión con [[trastorno-limite-y-eutanasia-en-proxy]]; (9) El pacto entre el mal femenino y el masculino: la madre oscura detecta la 'virilidad suelta' como amenaza y pacta con el mal masculino, vendiendo la belleza de la hija a cambio de poder/venganza; (10) Cristalizaciones cinematográficas: Madre Gothel (Tangled) como caso paradigmático articulado en [[enredados-2010-film]], Maléfica (Bella Durmiente) como bruja envidiosa articulada en [[la-bella-durmiente-1959-film]], madrastra de Blancanieves; (11) Mecanismo terapéutico — reelaboración episódica: 'volver al recuerdo, cambiarlo retroactivamente y volver al presente sanado'. La esperanza como elixir interior es el mecanismo de curación específicamente femenino. Las dos canciones ocultas de Tangled (ciclo de ella + ciclo de él) cifran la clave: 'vuelve a los orígenes, recuerda quién eres, supéralo y sana retroactivamente'. Conexión con terapia de trastornos de personalidad. Wikilinks naturales: tipologia-femenina-arquetipica, herida-narcisista-en-proxy, trastorno-limite-y-eutanasia-en-proxy, sindrome-wendy, crisis-del-amor-pareja-y-maternidad-en-proxy, individuation, anima-archetype, diosa-blanca, enredados-2010-film, la-bella-durmiente-1959-film. Citas con timestamps repartidos a lo largo del vídeo, principalmente en los segmentos definicionales (17:07-23:00, 43:24-48:00, 1:01:39-1:08:00).",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "_doc_no_pending_updates": "Las dos páginas promovidas (enredados-2010-film + madre-oscura-en-proxy) absorben el material teórico y narrativo del vídeo. tipologia-femenina-arquetipica recibirá conexión natural a través de las relations[] de madre-oscura-en-proxy cuando se construya el stub. perdida-inocencia ya tiene tres updates de este batch (Pinocho + Bella Durmiente + La Sirenita-pendiente); evitar saturación. hieros-gamos podría enriquecerse con la articulación 'hieros gamos consumado en la distancia antes de la unión física' pero queda mejor capturado en enredados-2010-film. trastorno-limite-y-eutanasia-en-proxy podría recibir la articulación 'borderline como estructura femenina constitutiva (gradación, no patología absoluta)' pero esa pieza está mejor alojada en madre-oscura-en-proxy como subsección de la tipología clínica.",
+  "discarded": [
+    {
+      "surface_form": "Rapunzel",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista de Tangled. Su trayectoria como diosa encerrada que recupera la voz, sale al mundo y descubre que el elixir siempre estuvo en su interior se documenta dentro de enredados-2010-film.",
+      "quote_evidence": "Rapunzel es la promesa y el futuro de toda la humanidad, el potencial más absoluto de vida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Flynn Rider / Eugene Fitzherbert",
+      "reason_code": "in_work_character",
+      "reason_detail": "Protagonista masculino de Tangled. Su rol (cero del tarot que conquista el autodominio, sacrificio del colgado al cortar el pelo) se documenta dentro de enredados-2010-film.",
+      "quote_evidence": "Flynn tiene fuerza y celos (deseo masculino por poseer) pero mal integrados: es un cero del tarot que no ha comenzado su camino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Madre Gothel",
+      "reason_code": "in_work_character",
+      "reason_detail": "Antagonista de Tangled. Caso paradigmático articulado a fondo del arquetipo de madre oscura. Su lectura completa (cordón umbilical no cortado, cohabitación del superyó, pacto con el mal masculino, herida originaria) se documenta tanto dentro de enredados-2010-film (caso narrativo) como dentro de madre-oscura-en-proxy (caso teórico).",
+      "quote_evidence": "Gothel representa lo que verdaderamente le ocurrió: alguien se aprovechó de su belleza, le dejó sin esperanza y se convirtió al mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "Pascal (camaleón)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje secundario, lectura como gracia/prudencia/serenidad poco desarrollada por el encierro. Documentar dentro de enredados-2010-film.",
+      "quote_evidence": "El camaleón encarna la gracia de la diosa, la prudencia, la serenidad y la potencialidad adulta, pero está poco desarrollado por el encierro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Maximus (caballo)",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personaje secundario, lectura como sentido del deber/responsabilidad/disciplina no domado. Documentar dentro de enredados-2010-film.",
+      "quote_evidence": "El caballo representa el sentido del deber, la responsabilidad y la disciplina, pero Flynn no lo ha domado porque fue robado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Los bandidos de la taberna",
+      "reason_code": "in_work_character",
+      "reason_detail": "Personajes secundarios. La articulación 'la diosa renueva la esperanza de los bandidos haciéndoles volver a tener anhelos' se documenta dentro de enredados-2010-film.",
+      "quote_evidence": "El encuentro con la diosa hace que los bandidos vuelvan a tener esperanza y dejen de amargarse haciendo el mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Reelaboración episódica como terapia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación importante: 'volver al recuerdo, cambiarlo retroactivamente y volver al presente sanado' como mecanismo terapéutico en trastornos de personalidad. Pieza que podría enriquecer trastorno-limite-y-eutanasia-en-proxy y/o yo-ego-autoestima-en-proxy si reaparece desarrollada. Por ahora documenta dentro de madre-oscura-en-proxy como mecanismo terapéutico de la oscuridad heredada.",
+      "quote_evidence": "La reelaboración episódica consiste en volver al recuerdo, cambiarlo retroactivamente y volver al presente sanado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Concepto técnico de psicoterapia con clara aplicación a trauma/borderline. Si reaparece desarrollada en otros vídeos, merece concept page propia o pending_update sustancial a trastorno-limite-y-eutanasia-en-proxy.",
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy"
+    },
+    {
+      "surface_form": "Borderline como estructura femenina constitutiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica importante: 'el trastorno borderline pertenece a la estructura femenina de la psique: inestabilidad afectiva que todas las madres provocan en cierta medida'. Es gradación, no patología absoluta. Pieza que podría enriquecer trastorno-limite-y-eutanasia-en-proxy. Por ahora documenta dentro de madre-oscura-en-proxy.",
+      "quote_evidence": "El trastorno borderline pertenece a la estructura femenina de la psique: inestabilidad afectiva que todas las madres provocan en cierta medida,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación nosológica importante (TLP como estructura constitutiva con gradación, no patología absoluta). Refinaría trastorno-limite-y-eutanasia-en-proxy si reaparece. Por ahora alojada en madre-oscura-en-proxy.",
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy"
+    },
+    {
+      "surface_form": "El miedo a ser ordinaria",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación específica del miedo heredado: 'el miedo de la mujer es ser una más, ser ordinaria, no extraordinaria para nadie. Ese miedo se hereda de la madre demasiado ansiosa'. Pieza que se aloja naturalmente en madre-oscura-en-proxy como mecanismo psíquico de la transmisión.",
+      "quote_evidence": "El miedo de la mujer es ser una más, ser ordinaria, no extraordinaria para nadie,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "Hieros gamos a distancia (antes de la unión física)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación interesante: 'el hieros gamos se consigue antes de la unión física: ocurre en la distancia, cuando ambos renuncian y mantienen la esperanza'. Pieza que enriquecería hieros-gamos si reaparece. Por ahora documenta dentro de enredados-2010-film.",
+      "quote_evidence": "El hieros gamos se consigue antes de la unión física: ocurre en la distancia, cuando ambos renuncian y mantienen la esperanza,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación específica del hieros gamos como evento psíquico-arquetípico que precede a la unión física. Si reaparece en otros vídeos, pending_update a hieros-gamos.",
+      "enriches_concept": "hieros-gamos"
+    },
+    {
+      "surface_form": "Sartén como herencia útil de la madre ansiosa",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación específica: 'la única cosa útil que la madre neurótica le ha transmitido' es la capacidad de respuesta abrupta ante amenazas. Pieza que se aloja naturalmente en madre-oscura-en-proxy como pieza positiva del cuadro oscuro.",
+      "quote_evidence": "La sartén es la única cosa útil que la madre neurótica le ha transmitido: la impulsividad de responder fieramente a las amenazas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "Cero del tarot / El colgado del tarot",
+      "reason_code": "passing_mention",
+      "reason_detail": "Arcanos del tarot citados en relación a Flynn (cero al inicio, colgado al final). El tarot-arquetipico ya tiene página propia. La aplicación específica a Flynn se documenta dentro de enredados-2010-film. Si en otros vídeos el canal articula 'el cero del tarot como punto de partida del antihéroe' como motivo recurrente, enrichment a tarot-arquetipico.",
+      "quote_evidence": "Flynn tiene fuerza y celos (deseo masculino por poseer) pero mal integrados: es un cero del tarot que no ha comenzado su camino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico"
+    },
+    {
+      "surface_form": "Pacto entre el mal femenino y el mal masculino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación importante: la madre oscura detecta 'virilidad suelta' como amenaza, pacta con el mal masculino vendiendo la belleza de la hija a cambio de poder/venganza. Pieza que se aloja en madre-oscura-en-proxy como mecanismo defensivo del cuadro.",
+      "quote_evidence": "El mal femenino pacta con el mal masculino: promete vender la belleza de la hija a cambio de poder y venganza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "La Bella y la Bestia (mención comparativa)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cuento Disney citado como paralelo en la categoría 'grandes películas de hieros gamos de Disney' junto a La Bella Durmiente. Sin análisis dedicado aquí. Si recibe directo monográfico merece entity_work.",
+      "quote_evidence": "Se sitúa a la altura de La Bella y la Bestia y La Bella Durmiente como las grandes películas de hieros gamos de Disney,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cuento Disney clásico con estructura arquetípica de hieros gamos sostenida (la bestia como caso especial de transformación masculina). Si el canal le dedica monográfico, merece entity_work paralelo a la-bella-durmiente-1959-film y enredados-2010-film.",
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Madre nutricia (categoría positiva)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Categoría articulada como inversión de la madre oscura ('te riega para que crezcas sana', 'acepta que el hijo saldrá al mundo y le da herramientas'). Documentar dentro de madre-oscura-en-proxy como contraparte estructural. Posible concept page propia futura si reaparece desarrollada autónomamente.",
+      "quote_evidence": "La madre nutricia te riega para que crezcas sana; la madre oscura consume tu alma, tus recursos, tus emociones o tu belleza,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría arquetípica positiva, contraparte estructural de la madre oscura. Si futuros vídeos articulan la madre nutricia con la misma sostenibilidad que aquí se articula la oscura, merece concept page propia.",
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "Apego ansioso/evitativo/desorganizado/seguro (taxonomía clínica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Marco clínico estándar (Bowlby/Ainsworth tradición) aplicado por el canal. Si reaparece sostenido en otros vídeos como marco psicológico-aplicado del canal, merece concept page propia o whitelist soft-candidate.",
+      "quote_evidence": "La crianza hiperracional y superexigente (exceso de padre, ausencia de madre) causa apego evitativo y desconexión afectiva,",
+      "review_priority": "medium",
+      "review_priority_reason": "Marco clínico foundational (teoría del apego) aplicado por el canal. Candidato a concept page propia si futuros vídeos lo retoman como marco operativo principal.",
+      "enriches_concept": "madre-oscura-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 2,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 16,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-10T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Enredados (Tangled)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[La madre oscura (tipología clínico-arquetípica del canal)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

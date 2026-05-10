@@ -103,6 +103,58 @@ Esta aclaración entronca con la página de [[anima-archetype]]: la polaridad es
 
 
 
+## Gramática arquetípica: verbos transitivos vs intransitivos
+
+En el mismo monográfico (*Mitología 101: Alien y el mito Polar*) el canal articula una pieza lingüístico-arquetípica que precisa la diferencia operativa entre los dos polos: lo masculino y lo femenino se distinguen por el tipo de gramática verbal con la que operan.
+
+> "Los verbos transitivos (hacer, querer, buscar) requieren un complemento separado del verbo, como el Dios masculino que dice 'hágase la luz',"
+→ [Mitología 101: Alien y el mito Polar (39:50)](https://youtu.be/Sszbs7CG0cQ?t=2390)
+
+> "Los verbos intransitivos (ser, estar, parecer) tienen sentido en sí mismos y son una eternidad, son verbos femeninos en sentido arquetípico,"
+→ [Mitología 101: Alien y el mito Polar (39:50)](https://youtu.be/Sszbs7CG0cQ?t=2390)
+
+La pieza precisa la asimetría operativa que las secciones anteriores articulaban como 'forma vs fondo': lo masculino opera con verbos que requieren objeto separado (la acción transitiva produce algo distinto del agente), lo femenino opera con verbos que se sostienen en sí mismos (el ser, el estar, el parecer no producen objeto separado — son la eternidad sin agente). La articulación tiene rendimiento operativo: explica por qué el mito solar (acción transitiva del héroe contra el caos) es lineal y por qué el mito lunar (estado eterno de la diosa que acompaña) es circular. La distinción gramática-arquetípica es solidaria con la articulación cognitiva ya documentada (semántico-procedural masculino vs contextual femenino).
+
+## La ecisis: el héroe pasa de niño a Dios, de hijo a consorte
+
+El mismo monográfico introduce un término técnico canal-específico para la operación culminante del mito lunar:
+
+> "El héroe pasa de niño a Dios, de hijo a consorte (la mitad del todo), y eso se llama 'ecisis',"
+→ [Mitología 101: Alien y el mito Polar (37:18)](https://youtu.be/Sszbs7CG0cQ?t=2238)
+
+La ecisis nombra la transformación específica que la diosa opera sobre su hijo durante el ciclo lunar: el hijo cae a los infiernos, la diosa lo rescata, y al ascender él regresa transformado en consorte (mitad del todo polar). La operación es estructuralmente distinta del rapto, la elevación o la hierogamia: específicamente nombra el cambio categorial hijo→consorte que solo el polo lunar puede ejecutar sobre el material masculino. La pieza completa el vocabulario técnico del mito polar — junto al hieros gamos (culminación de la conjunción) y a la separación inicial, la ecisis nombra el momento exacto donde la asimetría jerárquica madre/hijo se transforma en simetría polar consorte/consorte.
+
+## El polar invertido: cuando la semilla del mal sustituye a la semilla divina
+
+La misma sesión articula la mecánica generalizada del polar invertido — el caso estructural donde la cosmogonía polar se reproduce con todas sus piezas pero la 'chispa divina' es sustituida por una 'semilla del mal' inoculada por los dioses-Titanes en lugar de por el Uno-bondadoso.
+
+> "Si los mitos cuentan que la semilla del bien está heredada por los dioses en los humanos, Alien dice que el mal siempre ha existido,"
+→ [Mitología 101: Alien y el mito Polar (1:02:18)](https://youtu.be/Sszbs7CG0cQ?t=3738)
+
+> "La estructura de Alien es: tomemos el mito polar y digamos qué pasaría si todo fuera al revés, si los dioses fueran malignos y devoradores,"
+→ [Mitología 101: Alien y el mito Polar (1:07:20)](https://youtu.be/Sszbs7CG0cQ?t=4040)
+
+La pieza completa el catálogo de variantes del mito polar (transformador / fallido / invertido) que las secciones anteriores articulaban dispersamente:
+
+- **Polar transformador** (Tolkien, Excalibur): la conjunción produce el Tercer ascendente, libra de los bucles solares y lunares
+- **Polar fallido** (Unicorn Wars): la conjunción produce abominación venenosa por mala integración
+- **Polar invertido** (Alien, Evangelion): la estructura cosmogónica completa opera pero con semilla del mal sustituyendo a la chispa divina — los dioses no donan, devoran; la corporación no nutre, infecta; el héroe no nace divino, es un gólem corrupto desde el origen. Ver [[alien-saga]] como caso paradigmático y [[golem-arquetipo]] como mecánica subyacente del polar invertido.
+
+## La cadena fractal de creación
+
+La mecánica del polar invertido descansa sobre un mecanismo recursivo que el monográfico articula como cadena fractal de creaciones cada vez más imperfectas:
+
+> "La estructura es fractal: Dios crea al hombre, el hombre crea al gólem, y cada creación replica el fallo de intentar replicar lo divino,"
+→ [Mitología 101: Alien y el mito Polar (47:34)](https://youtu.be/Sszbs7CG0cQ?t=2854)
+
+> "La cadena de creación degradada: dioses → Prometeo → humanos → golems → aliens, cada creación peor que la anterior,"
+→ [Mitología 101: Alien y el mito Polar (1:04:19)](https://youtu.be/Sszbs7CG0cQ?t=3859)
+
+La cadena articula la mecánica generativa del polar invertido: cada eslabón de la creación introduce un grado adicional de autonomía, y por la paradoja del [[golem-arquetipo]] ('cuanto más libre, más se aleja de los planes iniciales'), cada eslabón es estructuralmente más imperfecto que el anterior. La consecuencia narrativa: el último eslabón devora las entrañas del primero — el alien devora a la humanidad, la corporación devora a la naturaleza, los dioses-malignos devoran al cosmos. La cadena fractal cierra el aparato del mito polar con su contraparte oscura: donde el polar transformador cierra el ciclo en el hieros gamos ascendente, el polar invertido cierra el ciclo en la devoración descendente.
+
+
+
+
 ### Aplicación al aparato psíquico individual: consciente solar, inconsciente lunar
 
 El canal extiende en directo la cosmogonía polar al aparato psíquico individual mediante un mapping operativo que prolonga la triada solar/lunar/polar al eje consciente/inconsciente:
@@ -240,6 +292,7 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 
 
 
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -257,4 +310,5 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 - **Seguimos con Tolkien** — chunks: [1:00:29](https://youtu.be/OGah7BFoR3w?t=3629)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477) · [15:32](https://youtu.be/yAIPr0HzQqE?t=932) · [17:03](https://youtu.be/yAIPr0HzQqE?t=1023)
+- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 

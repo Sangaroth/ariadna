@@ -87,8 +87,51 @@ La apoteosis hobbit refleja la caridad llevada al extremo — entrega de sí sin
 
 Aquí aparece una paradoja que el canal articula sin nombrarla teóricamente: la caridad culmina precisamente cuando la esperanza se ha extinguido — el héroe entrega la vida sin garantía de éxito. Es el punto donde las teologales se separan de cualquier cálculo prudencial de orden cardinal y operan en régimen puramente sobrenatural.
 
+
+
+## Prudencia: la cardinal que articula el ejercicio del juicio
+
+En el monográfico sobre [[el-conclave-2024-film|El Cónclave]] el canal articula la **prudencia** —la primera de las cardinales— como la virtud cuya ausencia genera específicamente la cadena de errores narrada. La articulación es operativa, no abstracta: ofrece una formulación tripartita del régimen al que pertenece cada recurso cognitivo del sujeto moral.
+
+> "En caso de certeza se acude a la lógica; en caso de fe se acude a la estructura; en caso de duda se acude a la prudencia,"
+→ [El Cónclave (1:31:21)](https://youtu.be/faUVtOicasg?t=5481)
+
+La fórmula tripartita distingue tres regímenes epistémicos con tres recursos cognitivos distintos:
+
+- **Régimen de certeza → lógica**: cuando se sabe, se aplica deducción rigurosa
+- **Régimen de fe → estructura**: cuando se cree (sin saber), se sostiene la conducta apoyándose en las instituciones que custodian la creencia
+- **Régimen de duda → prudencia**: cuando NO se sabe Y NO se cree con certeza, se ejerce la cardinal específica que el canal aquí articula como respuesta a la incertidumbre
+
+La pieza diagnóstica articula así por qué la prudencia es la cardinal más expuesta al fracaso contemporáneo: en una época en que la duda sustituye masivamente a la certeza y la fe, la prudencia es el único recurso operativo y, simultáneamente, la virtud más difícil de cultivar.
+
+> "El progresismo carece por completo de prudencia y todo el desastre narrado es consecuencia de la falta de ejercicio de esta virtud,"
+→ [El Cónclave (1:31:21)](https://youtu.be/faUVtOicasg?t=5481)
+
+La lectura de la película opera entonces como aplicación: cada decisión equivocada del decano (aceptar al cardenal mexicano sin investigar más allá de la legalidad, evitar saber para no nublar el juicio, votarse a sí mismo, dejar que el voto se decante por descarte) es un fallo de prudencia, no de las otras cardinales. La prudencia se articula así como **la cardinal que regula al resto**: sin prudencia, justicia, fortaleza y templanza pueden aplicarse en el momento o el modo equivocados y producir desastre.
+
+### El error categorial sobre la duda como contenido de la fe
+
+La misma sesión articula una precisión correctiva complementaria al régimen de fe: la fe NO es duda sostenida sino certeza sobre cosas. El sermón del decano que propone «la duda es compatible con la fe» contiene un sofisma estructural.
+
+> "El resquicio del error está en que la duda es incompatible con la fe: la fe es certeza sobre cosas, no fe en la duda,"
+→ [El Cónclave (49:08)](https://youtu.be/faUVtOicasg?t=2948)
+
+La precisión cierra una arista del marco: si la fe se redefine como modalidad de la duda (la propuesta progresista que el decano formula y que la película pone a discusión), entonces la fe deja de operar como recurso del régimen de fe arriba articulado. Sin certeza sobre cosas no hay estructura a la que acudir; el sujeto queda expulsado al régimen de duda permanente sin disponer de la prudencia que ese régimen exige — exactamente la situación inicial del decano que la película narra hasta el desastre.
+
+### Tibieza como fallo categorial de las cardinales
+
+> "El error y el pecado son inevitables; la tibieza no lo es y resulta mucho más peligrosa,"
+→ [El Cónclave (32:27)](https://youtu.be/faUVtOicasg?t=1947)
+
+> "Lo importante no es conseguir lo que tus convicciones te dicen, sino tener convicciones que te digan lo que tienes que conseguir,"
+→ [El Cónclave (32:27)](https://youtu.be/faUVtOicasg?t=1947)
+
+La tibieza añade al cuadro de las cardinales un fallo que no es defecto de cantidad (poca prudencia, poca fortaleza) sino fallo categorial: el sujeto tibio NO ejerce ninguna cardinal porque ha disuelto previamente las convicciones que las harían aplicables. Lo grave del error y del pecado es localizable y corregible; lo grave de la tibieza es que cancela el régimen mismo del juicio moral. Por eso la lectura de la película puede sostener que un Papa con malas convicciones (el italiano tradicionalista vehemente) habría sido preferible al Papa elegido por descarte: el Papa real con convicciones aplica mal pero aplica; el Papa tibio elegido por delegación de responsabilidad queda fuera del marco operativo de las cardinales.
+
+
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Las cuatro virtudes cardinales sin desarrollo explícito: el material recuperado -->
 - **Las cuatro virtudes cardinales sin desarrollo explícito**: el material recuperado articula las teologales con precisión (mapeadas a Narya/Nenya/Vilya) pero las cardinales (prudencia, justicia, fortaleza, templanza) no aparecen aquí mapeadas a figuras concretas de LOTR o Excalibur. Posible que aparezcan en otros directos del corpus.
 - **La virtud como hábito aristotélico-tomista**: el canal usa el lenguaje católico de las virtudes pero no desarrolla en este fragmento la base aristotélico-tomista (la virtud como ἕξις / habitus) que sustenta el armazón conceptual.
 - **Articulación cross-mítica**: queda pendiente cómo el canal traduciría las teologales a otros marcos míticos del corpus (lectura gnóstica, lectura junguiana de la fe-esperanza-caridad como funciones psíquicas, etc.).
@@ -98,4 +141,3 @@ Aquí aparece una paradoja que el canal articula sin nombrarla teóricamente: la
 
 
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [44:01](https://youtu.be/K082yiudh-g?t=2641) · [1:43:23](https://youtu.be/K082yiudh-g?t=6203)
-

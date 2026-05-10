@@ -88,6 +88,23 @@ El canal articula la sabiduría del dragón no como virtud cognitiva sino como s
 
 Esta vertiente conecta al dragón con la figura de la serpiente edénica, que el canal lee de modo no convencional: no como embaucadora sino como portadora de una posibilidad real que Adán y Eva eligieron libremente.
 
+
+
+## Caso operativo: Úrsula-Leviatán en La Sirenita
+
+El monográfico de [[la-sirenita-1989-film|La Sirenita]] (ene 2022, 151 min) articula un caso operativo del polo ctónico-leviatánico que la página ya documentaba en abstracto: Úrsula transformada en Leviatán al usurpar el tridente de Tritón. La pieza precisa la mecánica narrativa del tránsito ctónico→uránico que la articulación general dejaba sin caso.
+
+> "Úrsula poseyendo el tridente de Tritón se convierte en Leviatán: un monstruo que sale de lo más profundo hasta dominar por encima del mar hasta los cielos,"
+→ [En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita (2:12:01)](https://youtu.be/8l__TS3ATNY?t=7921)
+
+> "Remueve el mar y saca los barcos fantasma a la superficie: naturaliza los fracasos e invierte el orden,"
+→ [En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita (2:12:01)](https://youtu.be/8l__TS3ATNY?t=7921)
+
+La mecánica operativa que el caso revela: el leviatán-ctónico no permanece en su polo cuando obtiene el instrumento del polo opuesto (el tridente uránico de Tritón). Asciende y domina hasta los cielos, **invirtiendo la cosmogonía** completa — los barcos fantasma (los errores hundidos del pasado) son sacados a la superficie y naturalizados como presente. La inversión es estructural: lo que debía permanecer enterrado (la pulsión bajo la tierra, los fracasos sumergidos) sale a regir el orden visible. La distinción frente al dragón cosmológico uránico es así operativa: el dragón uránico ataca la obra divina desde lo alto sin necesidad de tridente; el leviatán necesita usurpar el instrumento uránico para invadir el polo opuesto.
+
+La derrota del leviatán articulada por la película precisa el mecanismo de respuesta: Eric atraviesa a Úrsula con el bauprés de un barco fantasma — el héroe usa el material mismo de la inversión (los fracasos sacados a la superficie por Úrsula) como arma para deshacerla. La consecuencia narrativa-arquetípica: 'cuando ambos miran en la misma dirección y luchan juntos empiezan a vencer monstruos'. La pareja unida (masculino activo + femenino que reconoce su tocar fondo) restablece el orden invertido por el leviatán.
+
+
 ## Frente a otras figuras: dragón, elemental, titán, gigante
 
 Una parte del esfuerzo programático del canal consiste en delimitar el arquetipo frente a figuras vecinas:
@@ -102,6 +119,16 @@ Una parte del esfuerzo programático del canal consiste en delimitar el arquetip
 → [Tolkien y los dragones (27:58)](https://youtu.be/O-kzVFngjAQ?t=1678)
 
 El elemento estético (sea marino, de hielo, aéreo, solar) no muta el arquetipo: "el tipo de elemento no cambia el arquetipo, solo el prototipo estético". Por eso el leviatán semítico-occidental es el mismo dragón bajo otra superficie.
+
+
+
+Una precisión añadida en *Del origen del mal (III): La fe y los demonios* refina la lectura sin contradecirla: dragón y leviatán son el mismo arquetipo en **dos polaridades cosmológicas distintas** del eje [[uranico-telurico-cetonico]].
+
+> "El dragón de siete cabezas es el mal uránico que quiere devorar la obra divina; el leviatán es el mal ctónico que surge desde los instintos,"
+→ [Del origen del mal (III): La fe y los demonios (1:36:18)](https://youtu.be/L4ayDmaUO9Y?t=5778)
+
+La misma figura cosmogónica admite dos manifestaciones según el plano en el que opera: el dragón cosmológico (uránico) ataca la obra divina desde lo alto — está en el cielo y desciende sobre la creación; el leviatán (ctónico) devora desde lo profundo — surge de los instintos no domeñados, de la pulsión bajo la tierra. La distinción es operacional: cuando un canal narrativo necesita figurar el ataque cosmológico al orden divino usa el dragón celeste; cuando necesita figurar el sometimiento del yo por las pasiones bajas usa el leviatán pulsional. Ambos son el mismo arquetipo (avatar del caos increado, sempiterno, vencible) en distintos polos cosmológicos.
+
 
 ## El dragón existe para ser vencido
 
@@ -149,6 +176,31 @@ El canal sitúa al dragón en el polo opuesto a la conciencia:
 
 Esto enmarca al dragón dentro de la articulación más amplia del [[genesis-mitologico]]: el primer gesto cosmogónico es la separación luz/oscuridad, y el dragón es lo que queda del lado increado tras ese gesto, persistiendo como amenaza dormida en los márgenes.
 
+
+
+## El dragón como monstruo psíquico endógeno: el sueño de la razón
+
+El monográfico de [[la-bella-durmiente-1959-film|La Bella Durmiente]] articula una pieza específica del arquetipo no presente en las secciones anteriores: el dragón como **monstruo generado por la propia psique**, lectura complementaria a su lectura cosmogónica increada y a su lectura como concupiscencia.
+
+> "El dragón es un monstruo imaginario y mítico; luchar contra él es luchar contra los monstruos que genera nuestra propia psique,"
+→ [El Sueño Eterno (1:43:55)](https://youtu.be/Ot3Z1VYTUgY?t=6235)
+
+> "'El sueño de la razón produce monstruos', y la razón misma también los produce si no nos esforzamos en ver el mal dentro de nosotros,"
+→ [El Sueño Eterno (1:43:55)](https://youtu.be/Ot3Z1VYTUgY?t=6235)
+
+La pieza añade al doble registro previo (caos cosmogónico + concupiscencia interior) un **tercer registro psíquico-endógeno**: el dragón como criatura producida por el propio aparato cognitivo cuando éste descansa de la vigilancia moral o, simétricamente, cuando opera sin examen del mal interior. La cita de Goya ('el sueño de la razón produce monstruos') se invierte aquí con precisión — el canal lee también que **la razón despierta y descuidada produce monstruos por igual**, si no se esfuerza activamente en ver el mal dentro de uno mismo. La distinción frente a la lectura concupiscente es operativa: la concupiscencia está dada como pulsión que el yo no domina; el monstruo psíquico-endógeno está fabricado por la propia operación cognitiva cuando opera sin auto-examen.
+
+### La verdad como herida que mata al dragón
+
+> "Las hadas arman al héroe con el escudo de la virtud y la espada de la verdad: las armas de la justicia sobre el mal,"
+→ [El Sueño Eterno (1:37:49)](https://youtu.be/Ot3Z1VYTUgY?t=5869)
+
+> "El dragón muere por la herida de la verdad, y su muerte hace que empiece a volver a amanecer,"
+→ [El Sueño Eterno (1:43:55)](https://youtu.be/Ot3Z1VYTUgY?t=6235)
+
+La fórmula precisa el mecanismo de la muerte del dragón en clave psíquica-endógena: NO es derrota física ni integración pasiva, es **herida de la verdad**. El monstruo generado por la psique sin auto-examen muere cuando el sujeto reconoce el mal dentro de sí mismo (verdad sobre uno) y articula esa verdad hacia fuera (verdad como ejercicio activo). La consecuencia narrativa que el monográfico documenta — el dragón muere y el amanecer regresa al reino dormido — cifra el régimen psíquico de la salida: sin la herida-de-verdad el sujeto queda en penumbra perpetua (la torre oscura entre la torre de luz y el sueño del reino); con la herida-de-verdad se restablece el ciclo solar (el amanecer). La lectura completa el aparato del arquetipo con la mecánica específica de su muerte en el plano psíquico, complementando 'el dragón existe para ser vencido' con 'el arma específica que lo vence es la verdad'.
+
+
 ## Conexión con otros conceptos
 
 - Como avatar del caos increado, es pieza estructural del [[genesis-mitologico]] — la cosmogonía requiere la figura que personifica lo anterior al orden
@@ -160,10 +212,14 @@ Esto enmarca al dragón dentro de la articulación más amplia del [[genesis-mit
 
 - **Dragón femenino / dragona**: la articulación del canal en este vídeo trata la figura como masculina o neutra; no aparece tratamiento del dragón femenino (Tiamat, Echidna) ni de su posible relación con el polo lunar/ctónico
 - **Dragones orientales**: el material recuperado se basa en la tradición occidental (leviatán semítico, dragón europeo). Ausentes los dragones chinos/japoneses que en su tradición no son figura del caos sino de orden cósmico
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Mecánica psicológica del 'vencer al dragón': el canal afirma que el dragón exist -->
 - **Mecánica psicológica del "vencer al dragón"**: el canal afirma que el dragón existe para ser vencido y que vencerlo extiende el yo, pero no detalla en este pasaje qué operación interior corresponde a esa victoria (¿integración? ¿represión exitosa? ¿transformación alquímica?)
 - **Relación con el demoníaco**: el vídeo distingue dragón frente a elemental, titán y gigante, pero la diferenciación frente al balrog/demonio (anunciada como parte del programa) no aparece en el fragmento recuperado
 
 ## Citations
+
+
+
 
 
 
@@ -196,4 +252,7 @@ Esto enmarca al dragón dentro de la articulación más amplia del [[genesis-mit
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [28:55](https://youtu.be/xK8_MpMMXzc?t=1735)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [1:22:06](https://youtu.be/yAIPr0HzQqE?t=4926)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [52:16](https://youtu.be/fzEDQZIqKwg?t=3136)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [36:30](https://youtu.be/L4ayDmaUO9Y?t=2190) · [1:32:46](https://youtu.be/L4ayDmaUO9Y?t=5566) · [1:36:18](https://youtu.be/L4ayDmaUO9Y?t=5778)
+- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [1:43:55](https://youtu.be/Ot3Z1VYTUgY?t=6235) · [1:54:33](https://youtu.be/Ot3Z1VYTUgY?t=6873)
+- **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [2:12:01](https://youtu.be/8l__TS3ATNY?t=7921)
 

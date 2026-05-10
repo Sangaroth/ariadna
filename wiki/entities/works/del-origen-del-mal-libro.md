@@ -58,7 +58,19 @@ status: stub_in_session
 
 ## Estado y estructura editorial
 
-> "El libro tiene casi todos los capítulos escritos excepto uno entero y dos medios capítulos,"
+> "El libro tiene casi todos los capítulos escritos excepto uno entero y dos medios capítulos,
+
+
+
+### Series de directos *Del origen del mal* como capítulos en vivo
+
+La redacción del libro se acompaña de una serie de directos largos que sistematizan capítulos antes de la publicación. La parte III de la serie, titulada *La fe y los demonios* (122 min, marzo 2025), articula sostenidamente la demonología del canal con siete subestructuras internas (tres acepciones del demonio, cuatro formas canónicas del mal, cuatro formas de influencia demoníaca, cinco indicios patognomónicos de posesión, seis puertas de vulnerabilidad, cuatro personificaciones bíblicas y siete demonios capitales). Recibe tratamiento sistemático autónomo en [[demonios-en-proxy]].
+
+> "Un demonio tiene una acepción mitológica (poética cultural), una psicológica (biológica) y una teológica (filosófica),"
+→ [Del origen del mal (III): La fe y los demonios (09:10)](https://youtu.be/L4ayDmaUO9Y?t=550)
+
+Esta presencia confirma que la serie *Del origen del mal* extiende el alcance del libro más allá de los seis mitos primarios listados arriba — al menos un capítulo (La fe y los demonios) trata material teológico-demonológico que no encaja directamente en los seis. El plan editorial real del libro debe leerse, por tanto, como **mitos primarios + tratados teológicos complementarios**, no solo como tipología de mitos.
+"
 → [Directo doble Parte 1: La IA demuestra la semántica no explícita (1:16:22)](https://youtu.be/t8v5w3s0USA?t=4582)
 
 El libro se organiza en torno a seis mitos primarios propios y un esquema cosmológico de tres niveles. La portada iconográfica condensa la tesis central del conjunto:
@@ -123,6 +135,7 @@ El *sueño colectivo* del canal no postula identidad psíquica transpersonal —
 - **Secuencias de apocalipsis y génesis**: el corpus disponible nombra estos dos mitos en la lista de los seis pero no desarrolla sus secuencias internas canónicas; pendiente de documentar cuando aparezca material dedicado.
 - **Fecha de publicación y editorial**: el libro se describe como casi terminado pero no hay datos de publicación en el corpus hasta la fecha de compilación.
 - **Sueño colectivo como concepto autónomo**: la distinción con el [[collective-unconscious]] se enuncia pero no se desarrolla en este pasaje; candidato a página propia si el corpus aporta más material.
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Antecedentes vídeo-a-capítulo: el libro sistematiza tesis ya presentes en vídeos -->
 - **Antecedentes vídeo-a-capítulo**: el libro sistematiza tesis ya presentes en vídeos anteriores del canal; no se explicita en el corpus qué vídeos concretos funcionan como borradores o antecedentes de cada capítulo.
 
 ## Citations
@@ -131,4 +144,3 @@ El *sueño colectivo* del canal no postula identidad psíquica transpersonal —
 
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [2:41:21](https://youtu.be/yAIPr0HzQqE?t=9681)
-

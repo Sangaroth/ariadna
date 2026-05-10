@@ -94,7 +94,22 @@ status: stub_in_session
 
 ## Tesis nuclear
 
-El canal articula tres figuras míticas — Lilith, Lucifer y Hermes Trismegisto — como **tres modalidades de iconotropía motivadas por la rabia narcisista**. La iconotropía (categoría tomada de Robert Graves y reapropiada por el canal como herramienta analítica) es el mecanismo por el cual un material mítico previo — genérico, satírico o fragmentario — se reconfigura para soportar narrativamente una vivencia identificativa contemporánea. Las tres iconotropías comparten un mismo motor afectivo (la rabia narcisista como respuesta a la herida narcisista) pero apelan a tres partes distintas del yo: la femenina (Lilith — sometimiento de lo femenino), la masculina (Lucifer — no ser visto), y la infantil (Hermes Trismegisto — no poder soñar, castración de la imaginación).
+El canal articula tres figuras míticas — Lilith, Lucifer y Hermes Trismegisto — como **tres modalidades de iconotropía motivadas por la rabia narcisista**.
+
+
+
+### Bafomet como iconotropía del s. XVII-XVIII
+
+En *Del origen del mal (III): La fe y los demonios* el canal añade una cuarta iconotropía a la serie, esta vez sin ancla bíblica directa: Bafomet como invención moderna deliberada de Eliphas Lévi para sustentar su doctrina de «alta magia».
+
+> "Bafomet no es un demonio real sino una invención moderna (s. XVII-XVIII) de Eliphas Lévi para su doctrina de "alta magia","
+→ [Del origen del mal (III): La fe y los demonios (1:42:54)](https://youtu.be/L4ayDmaUO9Y?t=6174)
+
+> "Su iconografía es un collage sincrético de alquimia medieval, mitología semítica, elementos gnósticos y simbología egipcia-babilónica,"
+→ [Del origen del mal (III): La fe y los demonios (1:42:54)](https://youtu.be/L4ayDmaUO9Y?t=6174)
+
+La pieza completa el mapa de la iconotropía como mecanismo histórico continuo: lo que en Lilith y Lucifer ocurre dentro de la tradición —reinterpretación de figuras existentes—, en Bafomet se da en versión limit-case: **fabricación enteramente nueva** vendida como tradición antigua. El collage iconográfico (alquimia + semítico + gnóstico + egipcio-babilónico) es exactamente la estrategia iconotrópica llevada al extremo: ningún elemento es libremente inventado, todos se importan de tradiciones reales y se ensamblan para producir una figura sin antecedente histórico que se presenta como descubrimiento de uno. Conecta directamente con la articulación de [[magia-postmoderna-en-proxy]] sobre las escuelas de magia moderna como «refritos iconotrópicos de mitologías anteriores a la judaica mezclados con cábala y alquimia».
+ La iconotropía (categoría tomada de Robert Graves y reapropiada por el canal como herramienta analítica) es el mecanismo por el cual un material mítico previo — genérico, satírico o fragmentario — se reconfigura para soportar narrativamente una vivencia identificativa contemporánea. Las tres iconotropías comparten un mismo motor afectivo (la rabia narcisista como respuesta a la herida narcisista) pero apelan a tres partes distintas del yo: la femenina (Lilith — sometimiento de lo femenino), la masculina (Lucifer — no ser visto), y la infantil (Hermes Trismegisto — no poder soñar, castración de la imaginación).
 
 La síntesis foundational del canal cierra el ciclo conectando estas tres modalidades míticas con un diagnóstico estructural-cultural: la **hiperespecialización capitalista** reduce las funciones del yo individual y empobrece la libertad psíquica, produciendo precisamente las heridas narcisistas que las iconotropías intentan soportar narrativamente. El marco distingue rigurosamente la rebeldía como **afecto** (con motivo dinámico-afectivo previo) de la revolución como **ideología** (estatuto mental que el yo busca para apaciguar el miedo, la frustración o la ansiedad), y opera sobre la distinción foundational entre fe (exotérica, racional, ordenada hacia salvación externa) y gnosis (esotérica, iniciática, ordenada hacia iluminación interna).
 

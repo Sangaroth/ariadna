@@ -132,9 +132,13 @@ El canal subraya que incluso la tipografía del título (*The VVitch*) es símbo
 
 
 
+
+
 - **Análisis arquetípico La Bruja** — chunks: [4:22](https://youtu.be/rRlks0e0oxU?t=262) · [2:04:12](https://youtu.be/rRlks0e0oxU?t=7452)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:35:38](https://youtu.be/xc8e2i_nREE?t=5738)
 - **Tenemos que hablar de Threads** — chunks: [1:46:14](https://youtu.be/blj-wsCRQzY?t=6374)
 - **Análisis arquetípico de Los Rescatadores** — chunks: [29:41](https://youtu.be/ryvi2Y7KYB8?t=1781) · [1:07:36](https://youtu.be/ryvi2Y7KYB8?t=4056) · [1:24:13](https://youtu.be/ryvi2Y7KYB8?t=5053) · [1:33:19](https://youtu.be/ryvi2Y7KYB8?t=5599)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [1:01:51](https://youtu.be/fzEDQZIqKwg?t=3711)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:12:14](https://youtu.be/aWeuzWLrLtE?t=4334) · [1:18:49](https://youtu.be/aWeuzWLrLtE?t=4729)
+- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [6:02](https://youtu.be/OT2DW4zoKsE?t=362) · [14:36](https://youtu.be/OT2DW4zoKsE?t=876) · [1:39:01](https://youtu.be/OT2DW4zoKsE?t=5941)
 

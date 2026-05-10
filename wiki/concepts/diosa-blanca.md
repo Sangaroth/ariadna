@@ -437,6 +437,7 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 
 
 
+
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:32:16](https://youtu.be/rLeMS4-XFrA?t=5536) · [1:48:00](https://youtu.be/rLeMS4-XFrA?t=6480)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [35:16](https://youtu.be/4LBXNkVAUCU?t=2116)
@@ -444,4 +445,5 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:04:21](https://youtu.be/xK8_MpMMXzc?t=3861)
 - **Análisis: La Llegada (Parte dos)** — chunks: [1:34:35](https://youtu.be/tOn66qFS2-M?t=5675)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [3:32](https://youtu.be/aPbgBnidoJI?t=212)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:12:14](https://youtu.be/aWeuzWLrLtE?t=4334)
 

@@ -152,6 +152,63 @@ La secuencia es la forma canónica que el libro fija frente a articulaciones cam
 El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónica es despertar-creación-caída-luna roja-exorcismo. La superposición de ambas secuencias produce el [[mito-polar]] como tercer camino transformador — articulación que el libro fija como triada cosmogónica completa de los mitos primarios genuinos.
 
 
+
+## Formalización extensa: génesis, tránsito, éxesis y sus fases internas
+
+El monográfico *El papel de la mujer y la leyenda artúrica en el mito del héroe* (dic 2024) articula la versión extensa de la secuencia solar — la que opera con mayor granularidad cuando el mito recibe tratamiento monográfico (no la mínima de cuatro fases del libro). La secuencia extensa se segmenta en tres bloques (génesis-tránsito-éxesis) cuyo bloque final tiene su propia mecánica interna.
+
+> "El hijo del sol cae a la tierra separado del padre-Dios (lo uránico) y es arrojado a lo telúrico,"
+→ [El papel de la mujer y la leyenda artúrica (46:25)](https://youtu.be/aWeuzWLrLtE?t=2785)
+
+> "La estructura culmina en anábasis, catábasis, apoteosis, éxesis (ascensión y coronación) e identidad del héroe con Dios,"
+→ [El papel de la mujer y la leyenda artúrica (46:25)](https://youtu.be/aWeuzWLrLtE?t=2785)
+
+La secuencia extensa coordina así:
+
+- **Génesis solar**: el héroe cae del polo uránico (separación del padre-Dios) y es arrojado al polo telúrico (cuerpo, mundo material). Equivale a la fase 'caída' del mínimo arquetípico, articulada con su mecánica vertical específica (descenso uránico-telúrico, ver [[uranico-telurico-cetonico]]).
+- **Tránsito**: el viaje hacia adelante como reflejo de orientación — convertir lo desconocido en conocido o morir. Es la fase 'camino', articulada en clave cognitiva: el desplazamiento físico es metáfora del trabajo psíquico de extender el yo más allá de las fronteras conocidas (ver [[dragon-arquetipo]] sobre el caos como límite móvil del yo).
+- **Éxesis**: el cierre triple: anábasis (subida), catábasis (descenso final), apoteosis (elevación divina), éxesis propiamente dicha (ascensión y coronación), e identidad del héroe con Dios. Las cinco piezas internas del bloque final operan por separado en mitos extensos y se condensan en la única 'apoteosis' del mínimo arquetípico cuando el mito se contrae.
+
+La formalización extensa importa para el aparato diagnóstico: una obra que articula viaje del héroe puede recorrer la éxesis con mayor o menor granularidad, y el grado de articulación de las cinco piezas internas (anábasis-catábasis-apoteosis-éxesis-identidad) es indicador del peso mítico de la obra. Cristo, Arturo y Hércules civilizatorio recorren las cinco; superhéroes contemporáneos pueden recorrer dos o tres y abandonar la pieza final de identidad con Dios sin perder por completo el régimen solar.
+
+## Tipología del Hércules: civilizatorio vs cebada
+
+La misma sesión articula una tipología canal-específica del Hércules como prototipo del mito solar — dos sub-tipos con destinos narrativos opuestos.
+
+### Hércules civilizatorio: fundar la ciudad blanca
+
+> "El mito hercúleo es un tipo de mito solar donde el héroe posee un don uránico que le hace primus inter pares,"
+→ [El papel de la mujer y la leyenda artúrica (52:05)](https://youtu.be/aWeuzWLrLtE?t=3125)
+
+> "El Hércules civilizatorio consiste en fundar una gran ciudad o reino: Cristo, el Rey Arturo, Aragorn,"
+→ [El papel de la mujer y la leyenda artúrica (52:05)](https://youtu.be/aWeuzWLrLtE?t=3125)
+
+> "Los mitos civilizatorios son fundamentalmente de caballerías porque narran la creación de ciudades-estado frente al caos y la barbarie,"
+→ [El papel de la mujer y la leyenda artúrica (52:05)](https://youtu.be/aWeuzWLrLtE?t=3125)
+
+El Hércules civilizatorio es el sub-tipo solar cuyo destino es **fundar comunidad** — una ciudad blanca, un reino, una mesa redonda. El don uránico que el héroe porta no se aplica solo a hazañas individuales sino que se vuelca en la institución duradera. El sufijo civilizatorio cifra exactamente la diferencia frente a las versiones de aventura singular: el héroe no triunfa para sí, triunfa para que la comunidad pueda existir. Cristo, Arturo y Aragorn son los tres prototipos canónicos en clave occidental.
+
+### Particularidad del Hércules civilizatorio cristiano-católico
+
+> "La monogamia y la familia son la particularidad del héroe civilizatorio cristiano: fundar una ciudad única bajo una sola mesa redonda,"
+→ [El papel de la mujer y la leyenda artúrica (55:37)](https://youtu.be/aWeuzWLrLtE?t=3337)
+
+La pieza añade una variante específica: el cristiano-católico introduce **monogamia y familia** como rasgos distintivos del héroe civilizatorio frente a versiones poligínicas o no-familiares (Hércules clásico, héroes del antiguo Oriente). La unidad de la mesa redonda artúrica se lee así como cifra estructural — una sola comunidad, una sola pareja conyugal por caballero, una sola lealtad institucional. La consecuencia para el aparato diagnóstico: una obra contemporánea que pretenda recoger la imitatio del Hércules civilizatorio cristiano y abandone monogamia/familia en sus protagonistas pierde el componente que distingue esta variante de las otras.
+
+### Hércules de cebada: el rey orgiástico-extático
+
+> "El Hércules de cebada es un rey orgiástico cuyo destino es fenecer en un rito extático (Dioniso como ejemplo),"
+→ [El papel de la mujer y la leyenda artúrica (1:51:23)](https://youtu.be/aWeuzWLrLtE?t=6683)
+
+> "Es una perversión de lo masculino que se desvía hacia lo mágico, lo culto y lo desconocido como metáfora de la locura,"
+→ [El papel de la mujer y la leyenda artúrica (1:51:23)](https://youtu.be/aWeuzWLrLtE?t=6683)
+
+El Hércules de cebada es el sub-tipo opuesto: el héroe solar **fallido por exceso** que se desvía hacia lo extático-orgiástico y termina en disolución ritual. Dioniso es el prototipo en clave griega; el Quijote, el caso operativo en clave hispánica — la negación de la realidad y la depresión del viaje heroico masculino articuladas como locura productiva-trágica. La distinción frente al [[heroe-truncado|caballero negro]] es operativa: el héroe truncado es ira no canalizada que destruye desde la oscuridad; el Hércules de cebada es exceso de fuego solar que se consume en rito extático sin transformarse en orden civilizatorio.
+
+La tipología cierra el cuadro de los sub-tipos solares: el civilizatorio funda la ciudad, el de cebada se disuelve en ella sin fundarla. Entre ambos, una obra dada se ubica según hacia dónde se inclina su protagonista — y el diagnóstico es estructural, no moral: el Quijote es objetivamente Hércules de cebada aunque la simpatía del lector lo redima.
+
+
+
 ## Conexión con otros conceptos
 
 - Es uno de los dos polos cíclicos cuya conjunción con el mito lunar genera el [[mito-polar]] como tercer camino transformador
@@ -180,6 +237,8 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 
 
 
+
+
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 
 
@@ -193,4 +252,6 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [34:59](https://youtu.be/xK8_MpMMXzc?t=2099)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [46:25](https://youtu.be/aWeuzWLrLtE?t=2785) · [52:05](https://youtu.be/aWeuzWLrLtE?t=3125)
+- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [36:18](https://youtu.be/Sszbs7CG0cQ?t=2178)
 

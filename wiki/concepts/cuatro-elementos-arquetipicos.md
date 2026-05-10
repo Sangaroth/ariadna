@@ -242,10 +242,14 @@ La pieza añade además un eje genealógico que las secciones anteriores tenían
 
 
 
+
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [2:15:23](https://youtu.be/K082yiudh-g?t=8123)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [14:17](https://youtu.be/wIhH72UFUPY?t=857) · [15:48](https://youtu.be/wIhH72UFUPY?t=948)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403) · [15:18](https://youtu.be/lw7XI2lQntM?t=918)
 - **Análisis arquetípico de Elemental** — chunks: [32:27](https://youtu.be/p8ZInoDuE50?t=1947)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314)
 - **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [59:39](https://youtu.be/aWeuzWLrLtE?t=3579)
+- **Matrix y el camino del héroe.** — chunks: [1:12:37](https://youtu.be/kF5KHE_fF7g?t=4357)
 
