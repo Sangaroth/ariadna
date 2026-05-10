@@ -250,7 +250,67 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 - **Distinción Jung clásico vs canal**: la "ánima sola" es formulación recurrente del canal pero no aparece con ese nombre exacto en Jung. Sería útil rastrear si proviene de la tradición católica popular o de un junguiano específico
 - **Manifestaciones del ánimus en obras dirigidas a varones**: poco material. ¿Cómo lee el canal el ánimus en personajes masculinos cuya psique femenina interior es central?
 
+
+
+
+## Peter Pan (1953) como articulación primaria de la tríada psíquica del ánima desplazada
+
+El monográfico sobre [[peter-pan-1953-film|Peter Pan]] (feb 2022) articula tres piezas operativas foundational del aparato ánima/ánimus que sirven como caso de calibración para el resto del corpus.
+
+### Padres Darling como par perfectamente alineado
+
+> "La señora Darling es maternal, tranquila y serena (ánima pura); el señor Darling es enérgico, con mucho carácter (ánimus puro),"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (13:47)](https://youtu.be/ClnayaScAjQ?t=827)
+
+> "Ambos padres están perfectamente alineados con sus arquetipos, a diferencia de los niños,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (13:47)](https://youtu.be/ClnayaScAjQ?t=827)
+
+La pieza articula la función operativa de la pareja parental como REFERENCIA DE CALIBRACIÓN frente a la cual leer las desalineaciones de los hijos. La señora Darling encarna el ánima en su modalidad pura (maternal, tranquila, serena); el señor Darling el ánimus puro (enérgico, con carácter). La función narrativa del par es servir como punto de comparación implícito: cuando el espectador ve a Wendy comportarse como ánima desplazada (madre prematura), la lectura solo opera porque el film exhibe primero a la señora Darling como ánima genuina alineada con su edad y función. La configuración recapitula iconografía católica (Sagrada Familia con ambos polos puros) y opera como horizonte arquetípico al que la individuación apunta.
+
+### El desplazamiento como mecanismo de defensa
+
+> "El desplazamiento es un mecanismo por el cual la personalidad ejerce una persona que no corresponde a su momento de desarrollo,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (03:31)](https://youtu.be/ClnayaScAjQ?t=211)
+
+> "Si la psique no se corresponde con la realidad material, hay una desalineación con el ánima o ánimus,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (03:31)](https://youtu.be/ClnayaScAjQ?t=211)
+
+La pieza articula el mecanismo de defensa específico que produce desalineación entre ánima/ánimus interno y momento del desarrollo: el DESPLAZAMIENTO. No es desapego ni desarraigo — es REPRESENTACIÓN ACTIVA de un papel desalineado con las circunstancias. El sujeto opera como si fuera otro distinto del que las circunstancias del desarrollo exigen. Origen entre tardía infancia y adolescencia, ventana donde la personalidad madura correctamente o se desalinea. La iconografía operativa del film: las sombras de los niños son MÁS GRANDES que los cuerpos (imaginación exagerada incluso para niños); Wendy tiene sombra del mismo tamaño pero SEPARADA del cuerpo (desplazamiento específico distinto del exceso imaginativo).
+
+### La tríada psíquica del ánima desplazada en transición
+
+> "Wendy representa el ánima desplazada (demasiado madre para ser joven, demasiado joven para ser adolescente),"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (53:16)](https://youtu.be/ClnayaScAjQ?t=3196)
+
+> "Peter Pan representa el ánimus masculino desintegrado de su propia sombra: el eterno aventurero que no puede crecer,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (53:16)](https://youtu.be/ClnayaScAjQ?t=3196)
+
+> "Campanilla representa el eros y las pulsiones pre-adolescentes; entre ella y Peter hay una tensión afectiva que Wendy nunca recibe,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (53:16)](https://youtu.be/ClnayaScAjQ?t=3196)
+
+La pieza articula la TRÍADA PSÍQUICA específica que opera en la transición pre-adolescente femenina: ánima desplazada (Wendy) + ánimus desintegrado de su sombra (Peter Pan) + eros pre-adolescente (Campanilla). La configuración cierra el aparato porque cada figura cumple una función específica que las otras dos no pueden suplir: Wendy aporta la dimensión cuidadora-maternal anticipada; Peter el aventurero-eterno; Campanilla las pulsiones afectivas concentradas en una sola figura femenina menor. La tensión entre Peter y Campanilla (que Wendy nunca recibe) cifra la asimetría operativa: el eros pre-adolescente NO se dirige a la ánima desplazada-cuidadora sino a su contraparte concentrada — Wendy queda excluida del afecto que ella misma fantasea por su propio desplazamiento.
+
+### Piratas como ánimus exacerbado sin ánima integrada
+
+> "Los piratas son adultos que rechazaron las responsabilidades de la adultez, convirtiéndose en rebeldes desarraigados,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:10:27)](https://youtu.be/ClnayaScAjQ?t=4227)
+
+> "El desarraigo de la madre provoca un ánimus exacerbado: personas violentas, volubles e incapaces de integrar su parte femenina,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:10:27)](https://youtu.be/ClnayaScAjQ?t=4227)
+
+La pieza articula la modalidad MASCULINA específica del fracaso de la integración: ánimus EXACERBADO SIN ÁNIMA INTEGRADA. El desarraigo de la madre arquetípica produce el cuadro adulto característico: violencia, volubilidad, incapacidad de integrar la dimensión femenina interna. El cuadro es operativamente complementario a la modalidad femenina del desplazamiento (Wendy): donde la mujer que rechaza la propia madurez femenina cristaliza como cuidadora prematura forzando un ánima que no posee, el varón que rechaza la propia adultez cristaliza como pirata forzando un ánimus salvaje sin freno femenino interno.
+
+### Convexidad/concavidad como modo correcto de leer positivo/negativo
+
+> "Lo positivo y negativo se entiende como convexo y cóncavo, no como bueno y malo,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (00:00)](https://youtu.be/ClnayaScAjQ?t=0)
+
+La pieza añade un criterio metodológico importante: cuando el aparato junguiano habla de polos positivo/negativo del ánima/ánimus, se refiere a CONVEXO/CÓNCAVO (formas complementarias) y no a bueno/malo (categorías éticas). La distinción evita lecturas moralistas del aparato — el ánimus 'negativo' no es ánimus malo sino ánimus en su modalidad cóncava (receptiva/femenina), y el ánima 'positiva' no es ánima buena sino ánima en su modalidad convexa (activa/masculina). La consecuencia operativa: las figuras integradas combinan ambas valencias en sus respectivos polos, no se purifican en una sola.
+
 ## Citations
+
+
+
 
 
 
@@ -274,4 +334,7 @@ El canal extiende el aparato más allá de la psicología individual hasta el pl
 - **El síndrome de Wendy** — chunks: [32:34](https://youtu.be/L7oSZTTK8Gg?t=1954)
 - **Gothika: De Profundis** — chunks: [51:58](https://youtu.be/Gx2740if0Ho?t=3118) · [1:14:35](https://youtu.be/Gx2740if0Ho?t=4475) · [1:37:04](https://youtu.be/Gx2740if0Ho?t=5824)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/wIhH72UFUPY?t=615)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:08:23](https://youtu.be/xK8_MpMMXzc?t=4103)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [29:17](https://youtu.be/yAIPr0HzQqE?t=1757)
+- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0) · [3:31](https://youtu.be/ClnayaScAjQ?t=211) · [13:47](https://youtu.be/ClnayaScAjQ?t=827) · [19:20](https://youtu.be/ClnayaScAjQ?t=1160) · [31:00](https://youtu.be/ClnayaScAjQ?t=1860) · [48:44](https://youtu.be/ClnayaScAjQ?t=2924) · [53:16](https://youtu.be/ClnayaScAjQ?t=3196) · [1:10:27](https://youtu.be/ClnayaScAjQ?t=4227) · [1:25:06](https://youtu.be/ClnayaScAjQ?t=5106) · [1:51:34](https://youtu.be/ClnayaScAjQ?t=6694)
 

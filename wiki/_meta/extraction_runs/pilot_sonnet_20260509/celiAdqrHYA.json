@@ -1,0 +1,891 @@
+{
+  "video_id": "celiAdqrHYA",
+  "video_title": "Análisis arquetípico: Asimov y Lovecraft.",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Arthur C. Clarke",
+      "canonical_guess": "clarke-arthur-c",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "read_in_session",
+          "quote_evidence": "Comienza \"Lección de historia\" de Arthur C. Clarke"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "El canal lee íntegro 'Lección de historia' (~20 min) de Arthur C. Clarke como input directo del corpus. Per scope §2.2, lectura íntegra en directo dispara as_author_of_sources>0 → promoción automática como autor.",
+      "quote_evidence": "Comienza \"Lección de historia\" de Arthur C. Clarke"
+    },
+    {
+      "surface_form": "Isaac Asimov",
+      "canonical_guess": "asimov-isaac",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "read_in_session",
+          "quote_evidence": "Lectura de \"Recuerdo perdido\" de Asimov"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "El canal lee íntegro 'Recuerdo perdido' (~10 min) de Isaac Asimov como input directo del corpus. Per scope §2.2, lectura íntegra dispara promoción automática del autor (as_author_of_sources>0). Análisis sustantivo posterior (~9 min) sobre el cuento como crítica al transhumanismo y como neogénesis.",
+      "quote_evidence": "Aimés y Brock son seres puramente energéticos tras un quintillón de años,"
+    },
+    {
+      "surface_form": "Lección de historia (Clarke)",
+      "canonical_guess": "leccion-de-historia-clarke",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "read_in_session",
+          "quote_evidence": "Una tribu huye de las grandes planicies hacia el sur escapando del avance del hielo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Poner alienígenas que nos estudian permite ver nuestras propias limitaciones interpretativas,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra del cuento 01:41-21:24 (~20 min) + análisis sostenido 27:00-39:46 (~12 min) sobre uróboros, eterno retorno, laberinto y ciencia ficción como salto fuera del sistema. Per scope §2.3 v0.3, lectura íntegra cumple criterio 'análisis dedicado'. read_in_session: true.",
+      "quote_evidence": "Comienza \"Lección de historia\" de Arthur C. Clarke"
+    },
+    {
+      "surface_form": "Recuerdo perdido (Asimov)",
+      "canonical_guess": "recuerdo-perdido-asimov",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "read_in_session",
+          "quote_evidence": "Aimés propone una sinfonía de materia como nueva forma artística,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El cuento de Asimov como neogénesis y pecado original"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra 39:46-49:52 (~10 min) + análisis sostenido 46:50-58:40 (~12 min) que articula el cuento como crítica al transhumanismo (abandono del cuerpo = pérdida del componente somático afectivo) y como neogénesis y pecado original (recuerdo del paraíso perdido). read_in_session: true.",
+      "quote_evidence": "Aimés y Brock son seres puramente energéticos tras un quintillón de años,"
+    },
+    {
+      "surface_form": "La lámina de la casa (Lovecraft)",
+      "canonical_guess": "la-lamina-de-la-casa-lovecraft",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 22,
+      "framing_marks": [
+        {
+          "mark_type": "read_in_session",
+          "quote_evidence": "El narrador busca refugio en una casa con dos olmos pelados al pie de un cerro,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los excesos narrativos de adverbios y adjetivos buscan tono solemne,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra 58:40-1:19:10 (~20 min) del cuento de Lovecraft + análisis del barroquismo lovecraftiano como recurso de credibilidad. Cuento incluye los grabados De Bry/Pigafeta (1598), el anciano Yankee, el descuartizamiento de la lámina 12, la gota de sangre y el rayo redentor. read_in_session: true. Per scope §2.3 v0.3, todo cuento de Lovecraft leído íntegro = entity_work.",
+      "quote_evidence": "El viejo abre el libro siempre en la lámina 12 que ha consultado muchas veces,"
+    },
+    {
+      "surface_form": "Ex oblivione (Lovecraft)",
+      "canonical_guess": "ex-oblivione-lovecraft",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 9,
+      "framing_marks": [
+        {
+          "mark_type": "read_in_session",
+          "quote_evidence": "Repite el mismo valle dorado con muro de hiedra y pequeña puerta de bronce,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Sueños, drogas y lo alucinatorio como primera vía,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Lectura íntegra 1:22:42-1:28:18 (~6 min) del prosa-poema lovecraftiano + análisis 1:28:18-1:31:28 sobre las dos vías sobrenaturales en Lovecraft (sueños/drogas/alucinatorio + instrumento ritual/conocimiento). read_in_session: true.",
+      "quote_evidence": "Una droga que abre la cancela lo disuelve en el blanco vacío del olvido cristalino,"
+    },
+    {
+      "surface_form": "barroquismo lovecraftiano como recurso de credibilidad",
+      "canonical_guess": "lovecraft-howard",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La solemnidad hace que cualquier tontería narrada parezca más real,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la 'narrativa incompleta' como técnica central y describe la prosa lovecraftiana como 'sobrecargada de adverbios, adjetivos y aliteraciones' pero NO articula la FUNCIÓN del barroquismo: producir solemnidad → solemnidad otorga credibilidad → credibilidad opera como acercamiento de cámara con vivencia real. Articulación funcional, no descriptiva, novedosa.",
+      "quote_evidence": "Funciona como acercamiento de cámara que da contraste con vivencia real,"
+    },
+    {
+      "surface_form": "dos vías al acceso de lo sobrenatural en Lovecraft",
+      "canonical_guess": "lovecraft-howard",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Sueños, drogas y lo alucinatorio como primera vía,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El instrumento ritual y el conocimiento como segunda vía,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el horror cósmico como inversión del animismo y la narrativa incompleta como técnica, pero NO contiene la taxonomía de las dos vías canónicas que Lovecraft usa para que el sujeto acceda a lo sobrenatural: vía alucinatoria (sueños/drogas) vs vía ritual (instrumento + conocimiento). Pieza estructural foundational con consecuencia operativa para el análisis arquetípico de obras herederas (Bloodborne explícitamente).",
+      "quote_evidence": "El insight es lo que inspiró el tema central de Bloodborne,"
+    },
+    {
+      "surface_form": "remordimiento como dolor del paraíso perdido",
+      "canonical_guess": "perdida-inocencia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Es el dolor de cómo eran los tiempos antes de que la cagaras,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los paraísos perdidos son la pérdida de la inocencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la inocencia como estado descriptivo (no ético) y la taxonomía ingenuidad/inocencia/corrupción, pero NO contiene la definición operativa del remordimiento como afecto específico vinculado a la pérdida ('dolor de cómo eran los tiempos antes de que la cagaras') ni la equivalencia paraíso perdido ≡ pérdida de la inocencia ≡ desconocimiento de una parte de la realidad. Definición afectiva canal-específica nueva.",
+      "quote_evidence": "La inocencia es el desconocimiento de una parte de la realidad,"
+    },
+    {
+      "surface_form": "abandono del cuerpo y crítica al transhumanismo desde lo somático (Recuerdo perdido)",
+      "canonical_guess": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El transhumanismo postula trascender la naturaleza física hacia conciencias puras,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Sin cuerpo no se puede ser conciencia porque las representaciones codifican percepción somática,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la crítica al transhumanismo desde el error categorial sustancia/forma y la imposibilidad de portabilidad cognitiva, pero NO contiene el argumento específico desde la TRANSDUCCIÓN AFECTIVA-SOMÁTICA: 'gran parte de lo afectivo se traduce en lo somático como lo imaginario en lo visual' — el amor, la ira, la calidez tienen componente somática irrenunciable, y por tanto las concepciones formales (tiempo, volumen) tienen base representacional somática. Argumento complementario al ya articulado.",
+      "quote_evidence": "Gran parte de lo afectivo se traduce en lo somático como lo imaginario en lo visual,"
+    },
+    {
+      "surface_form": "Recuerdo perdido como neogénesis y pecado original",
+      "canonical_guess": "genesis-mitologico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El abandono de la forma etérea por construir mecánicamente equivale al árbol del bien y del mal,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el Génesis como categoría mitológica (relato de origen del todo) y casos paradigmáticos (Tolkien, Unicorn Wars como Génesis disfuncional), pero NO contiene el caso del cuento de Asimov 'Recuerdo perdido' como NEOGÉNESIS específico — Génesis del fin, donde la forma etérea acumulada por evolución cognitiva se abandona por reconstrucción material y eso opera como árbol del bien y del mal invertido. Misma estructura aplicada en sentido inverso (no creación desde la nada, sino destrucción desde la culminación). Caso operativo nuevo del marco genésico.",
+      "quote_evidence": "Recordar que fueron hombre y mujer es el dolor de haber perdido el paraíso,"
+    },
+    {
+      "surface_form": "ciencia ficción como salto fuera del sistema",
+      "canonical_guess": "mito-moderno-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Poner alienígenas que nos estudian permite ver nuestras propias limitaciones interpretativas,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Para comprender dónde estás necesitas saltar fuera del sistema,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página tiene declarada como laguna 'El mito en la ciencia ficción más allá de Matrix (Alien, Prometeo, Blade Runner, Dune)'. El bloque articula una función específica del género ciencia ficción que la página no contiene: vehículo metodológico para 'saltar fuera del sistema' — los alienígenas que nos estudian permiten ver las limitaciones interpretativas propias. Conexión con el principio de laberinto (estructura no se ve desde dentro). Caso aplicado: Lección de historia de Clarke. Material que toca la laguna parcialmente.",
+      "quote_evidence": "Los venusinos son antropomorfos porque el autor no puede escapar a su forma cognitiva,"
+    },
+    {
+      "surface_form": "dos vías sobrenaturales lovecraftianas como inspiración Bloodborne",
+      "canonical_guess": "bloodborne-game",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 1,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El insight es lo que inspiró el tema central de Bloodborne,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la herencia lovecraftiana de Bloodborne (horror cósmico, doble negación, narrativa fragmentada, laberinto) pero NO articula que las DOS VÍAS específicas al sobrenatural lovecraftiano (sueños/drogas/alucinatorio + instrumento ritual/conocimiento) son la pieza concreta que inspira el tema central del juego. Precisión genealógica nueva sobre el qué exactamente del Lovecraft heredado.",
+      "quote_evidence": "El insight es lo que inspiró el tema central de Bloodborne,"
+    },
+    {
+      "surface_form": "uróboros y eterno retorno (Eliade y discípulos junguianos)",
+      "canonical_guess": "eliade-mircea",
+      "page_type": "author",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Eliade puso nombre al concepto pero estaba narrado antes por discípulos de Jung,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Aplicación del concepto eterno retorno de Eliade al cuento de Clarke ('Lección de historia' como narración fractal donde lo concreto recapitula la estructura de lo general). Mención puntual capturada en el promote_new de leccion-de-historia-clarke como wikilink. Cite-only via cita en página leccion-de-historia.",
+      "quote_evidence": "Lo concreto recapitula la estructura de lo general como un fractal,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "clarke-arthur-c",
+      "canonical_name": "Arthur C. Clarke",
+      "page_type": "author",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "interdisciplinary.cultural_studies"
+      ],
+      "promotion_criterion": "as_author_of_sources_via_read_in_session",
+      "promotion_criterion_detail": "El canal lee íntegro 'Lección de historia' (~20 min) en sesión de directo dedicada a análisis arquetípico. Per scope §2.2, lectura íntegra dispara as_author_of_sources>0 → promoción automática como autor.",
+      "one_line_summary": "Escritor británico de ciencia ficción dura (1917-2008), cuyo cuento 'Lección de historia' (1949) el canal lee íntegro como caso operativo de la ciencia ficción como salto fuera del sistema cognitivo humano.",
+      "as_author_of_sources": 1,
+      "as_subject_of_sources": 0,
+      "frontmatter_fields_proposed": {
+        "given_names": "Arthur Charles",
+        "family_name": "Clarke",
+        "birth_year": 1917,
+        "death_year": 2008,
+        "nationality": "británica"
+      },
+      "relations_to_existing": [
+        {
+          "type": "compared_with",
+          "to": "asimov-isaac",
+          "weight": "strong",
+          "note": "los dos pilares de la ciencia ficción dura del siglo XX leídos en la misma sesión del canal; Clarke opera como modelo de proyección antropocéntrica fallida (los venusinos antropomorfos), Asimov como modelo de neogénesis del fin"
+        },
+        {
+          "type": "compared_with",
+          "to": "lovecraft-howard",
+          "weight": "tangential",
+          "note": "el directo articula a Clarke y Lovecraft como dos modos del extrañamiento literario — Clarke por proyección externa (alienígenas que nos estudian), Lovecraft por inversión de la teofanía"
+        },
+        {
+          "type": "see_also",
+          "to": "mito-moderno-en-proxy",
+          "note": "Clarke entra como caso operativo de la laguna 'mito en ciencia ficción más allá de Matrix' que la página declara"
+        }
+      ],
+      "rationale": "Promoción automática por lectura íntegra de obra (§2.2). Clarke no estaba en la whitelist canónica pero su cuento se lee íntegro y se analiza arquetípicamente sostenidamente (~12 min de análisis posterior). El canal no expone biografía de Clarke ni se ocupa del autor en sí (as_subject_of_sources=0), solo de la obra leída — la página debe registrar this asymmetry."
+    },
+    {
+      "proposed_page_id": "asimov-isaac",
+      "canonical_name": "Isaac Asimov",
+      "page_type": "author",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "interdisciplinary.cultural_studies"
+      ],
+      "promotion_criterion": "as_author_of_sources_via_read_in_session",
+      "promotion_criterion_detail": "El canal lee íntegro 'Recuerdo perdido' (~10 min) en sesión + análisis sostenido sobre el cuento como crítica al transhumanismo y como neogénesis. Per scope §2.2, lectura íntegra dispara promoción automática.",
+      "one_line_summary": "Escritor estadounidense de ciencia ficción y divulgación científica (1920-1992), cuyo cuento 'Recuerdo perdido' el canal lee íntegro y articula como caso paradigmático de neogénesis y árbol del bien y del mal: dos seres puramente energéticos tras un quintillón de años reconstruyen el cuerpo humano y descubren la pérdida del paraíso somático.",
+      "as_author_of_sources": 1,
+      "as_subject_of_sources": 0,
+      "frontmatter_fields_proposed": {
+        "given_names": "Isaac",
+        "family_name": "Asimov",
+        "birth_year": 1920,
+        "death_year": 1992,
+        "nationality": "estadounidense"
+      },
+      "relations_to_existing": [
+        {
+          "type": "compared_with",
+          "to": "clarke-arthur-c",
+          "weight": "strong",
+          "note": "los dos pilares de la ciencia ficción dura leídos en la misma sesión; Asimov articula la neogénesis del fin (paraíso somático perdido), Clarke articula la incomunicabilidad cognitiva entre civilizaciones"
+        },
+        {
+          "type": "see_also",
+          "to": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+          "weight": "strong",
+          "note": "el cuento opera como caso literario operativo de la crítica al transhumanismo del canal — la conciencia desincorporada como pérdida estructural, no como liberación"
+        },
+        {
+          "type": "see_also",
+          "to": "genesis-mitologico",
+          "note": "el cuento reactiva la estructura del Génesis y del pecado original en clave de futuro postcorporal"
+        }
+      ],
+      "rationale": "Promoción automática por lectura íntegra (§2.2). Como en Clarke, el canal no expone biografía ni el autor en sí, solo la obra leída — as_subject_of_sources=0, as_author_of_sources=1."
+    },
+    {
+      "proposed_page_id": "leccion-de-historia-clarke",
+      "canonical_name": "Lección de historia (Clarke, 1949)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "interdisciplinary.cultural_studies"
+      ],
+      "promotion_criterion": "read_in_session",
+      "promotion_criterion_detail": "Lectura íntegra 01:41-21:24 (~20 min) + análisis arquetípico sostenido 27:00-39:46 (~12 min) sobre uróboros, eterno retorno, laberinto y ciencia ficción como salto fuera del sistema. Per scope §2.3 v0.3, la lectura íntegra cumple criterio 'análisis dedicado'. read_in_session: true.",
+      "one_line_summary": "Cuento de Arthur C. Clarke (1949) en que una expedición venusina de científicos reptiles descubre 5000 años después la única reliquia de la civilización terrestre extinta por glaciación: una cinta de plástico con miles de imágenes consecutivas que toman como registro auténtico de la cumbre humana — y que resulta ser una producción de Walt Disney protagonizada por un bípedo solitario sonriendo sardónico a los científicos en su búsqueda estéril.",
+      "frontmatter_fields_proposed": {
+        "year": 1949,
+        "medium": "cuento",
+        "studio_or_publisher": "Startling Stories (mayo 1949)",
+        "read_in_session": true
+      },
+      "relations_to_existing": [
+        {
+          "type": "developed_by",
+          "to": "clarke-arthur-c",
+          "weight": "canonical",
+          "note": "obra del autor leída íntegra en la sesión del canal"
+        },
+        {
+          "type": "exemplifies",
+          "to": "mito-moderno-en-proxy",
+          "weight": "canonical",
+          "note": "caso operativo del género ciencia ficción como salto metodológico fuera del sistema cognitivo humano"
+        },
+        {
+          "type": "compared_with",
+          "to": "recuerdo-perdido-asimov",
+          "weight": "strong",
+          "note": "leídos en la misma sesión como par operativo: Clarke articula el extrañamiento por proyección externa (alienígenas antropomorfos), Asimov por colapso interno (energía vs cuerpo)"
+        },
+        {
+          "type": "references",
+          "to": "eliade-mircea",
+          "note": "el análisis del canal aplica el eterno retorno de Eliade al cuento — fractal donde lo concreto recapitula la estructura de lo general"
+        }
+      ],
+      "rationale": "Per §2.3 v0.3 promoción por lectura íntegra. La obra entra como input directo del corpus. Análisis posterior es sustantivo (uróboros, laberinto, ciencia ficción como método). El frontmatter incluye nota sobre la limitación científica posterior (Venera 4 invalidaría la premisa de un Venus tropical) que el canal explícitamente menciona."
+    },
+    {
+      "proposed_page_id": "recuerdo-perdido-asimov",
+      "canonical_name": "Recuerdo perdido (Asimov)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.religion",
+        "interdisciplinary.cognitive_science"
+      ],
+      "promotion_criterion": "read_in_session",
+      "promotion_criterion_detail": "Lectura íntegra 39:46-49:52 (~10 min) + análisis sostenido 46:50-58:40 (~12 min) sobre crítica al transhumanismo, neogénesis y paraíso perdido. read_in_session: true.",
+      "one_line_summary": "Cuento de Isaac Asimov en que dos seres puramente energéticos llamados Aimés y Brock, tras un quintillón de años, intentan reconstruir el cuerpo humano como sinfonía de materia: la cabeza, la nariz, los ojos, los labios reaparecen, y al verlos Brock recuerda que fue mujer y rompe a llorar — el canal lo lee como neogénesis arquetípica donde el árbol del bien y del mal es la pérdida del componente somático afectivo.",
+      "frontmatter_fields_proposed": {
+        "medium": "cuento",
+        "read_in_session": true
+      },
+      "relations_to_existing": [
+        {
+          "type": "developed_by",
+          "to": "asimov-isaac",
+          "weight": "canonical",
+          "note": "obra del autor leída íntegra en la sesión"
+        },
+        {
+          "type": "manifestation_of",
+          "to": "genesis-mitologico",
+          "weight": "canonical",
+          "note": "caso operativo del Génesis aplicado en sentido inverso: pérdida del paraíso somático, no creación desde la nada"
+        },
+        {
+          "type": "criticizes",
+          "to": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+          "weight": "canonical",
+          "note": "el cuento articula literariamente la crítica al transhumanismo: la conciencia desincorporada pierde estructuralmente lo afectivo-somático"
+        },
+        {
+          "type": "compared_with",
+          "to": "evangelion-anime",
+          "weight": "tangential",
+          "note": "el speaker articula la equivalencia estructural Recuerdo perdido ≈ Génesis bíblico ≈ Neon Genesis Evangelion como variantes del mismo arquetipo del paraíso perdido"
+        },
+        {
+          "type": "compared_with",
+          "to": "leccion-de-historia-clarke",
+          "weight": "strong",
+          "note": "leídos en la misma sesión como par operativo de la ciencia ficción dura"
+        },
+        {
+          "type": "exemplifies",
+          "to": "perdida-inocencia",
+          "note": "el dolor de Brock al recordar que fue mujer es caso paradigmático del afecto del paraíso perdido"
+        }
+      ],
+      "rationale": "Per §2.3 v0.3 promoción por lectura íntegra. El cuento es input directo + análisis sustantivo sobre tres marcos cruzados: crítica transhumanismo, neogénesis y pérdida de la inocencia. La equivalencia con Evangelion abre un hilo nuevo (la página evangelion-anime existe como soft-promote de la whitelist)."
+    },
+    {
+      "proposed_page_id": "la-lamina-de-la-casa-lovecraft",
+      "canonical_name": "La lámina de la casa (Lovecraft, 1920)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.religion"
+      ],
+      "promotion_criterion": "read_in_session",
+      "promotion_criterion_detail": "Lectura íntegra 58:40-1:19:10 (~20 min). El cuento se lee completo dentro de la sesión dedicada a Asimov y Lovecraft. read_in_session: true.",
+      "one_line_summary": "Cuento de H.P. Lovecraft (1920, 'The Picture in the House') en que el narrador, sorprendido por la lluvia en la Nueva Inglaterra profunda, busca refugio en una casa abandonada con dos olmos pelados; encuentra al anciano harapiento de seis pies y barba blanca con ojos azul sanguinolento que le habla en cerrado dialecto Yankee, le muestra la lámina 12 del libro de Pigafeta sobre el Congo (1598, grabados De Bry) — la carnicería de caníbales anziques — y confiesa entre susurros que comer carne humana le da más vida; una salpicadura roja cae desde el techo sobre la lámina y un rayo descomunal destruye la casa antes de que la razón colapse.",
+      "frontmatter_fields_proposed": {
+        "year": 1920,
+        "medium": "cuento",
+        "studio_or_publisher": "The National Amateur",
+        "read_in_session": true
+      },
+      "relations_to_existing": [
+        {
+          "type": "developed_by",
+          "to": "lovecraft-howard",
+          "weight": "canonical"
+        },
+        {
+          "type": "manifestation_of",
+          "to": "mitologia-propia-impropia",
+          "note": "caso de mitología propia consciente — Lovecraft inventa lo sobrenatural en clave de horror cósmico"
+        },
+        {
+          "type": "compared_with",
+          "to": "el-modelo-de-pickman-lovecraft",
+          "weight": "strong",
+          "note": "ambos cuentos articulan el fascinarse del observador con representación del descuartizamiento humano (lámina vs cuadro pintado); estructura paralela de progresión hacia el horror"
+        },
+        {
+          "type": "compared_with",
+          "to": "en-la-cripta-lovecraft",
+          "note": "ambos pertenecen al período temprano de Lovecraft, comparten registro grand guignol más explícito que la madurez"
+        },
+        {
+          "type": "exemplifies",
+          "to": "horror-cosmico",
+          "note": "caso del horror cósmico en formato local-rural (Nueva Inglaterra profunda), no cósmico estricto"
+        }
+      ],
+      "rationale": "Per §2.3 v0.3 lectura íntegra = entity_work. El cuento aporta un caso específico del barroquismo lovecraftiano y del registro grand guignol temprano. La articulación con Pigafeta (libro real de 1598 con grabados de los hermanos De Bry) abre conexión histórico-literaria con la mitología del descuartizamiento canibálico colonial."
+    },
+    {
+      "proposed_page_id": "ex-oblivione-lovecraft",
+      "canonical_name": "Ex oblivione (Lovecraft, 1921)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.philosophy"
+      ],
+      "promotion_criterion": "read_in_session",
+      "promotion_criterion_detail": "Lectura íntegra 1:22:42-1:28:18 (~6 min) + análisis sobre las dos vías al sobrenatural lovecraftiano. read_in_session: true.",
+      "one_line_summary": "Prosa-poema de Lovecraft (1921) en que el narrador, huyendo de la locura de la vida cotidiana, se refugia en sueños recurrentes de un valle dorado con muro de hiedra y pequeña puerta de bronce; al obtener una droga que abre la cancela, atraviesa la puerta y es disuelto en el blanco vacío del olvido cristalino — el canal la lee como caso paradigmático de la primera vía sobrenatural lovecraftiana (sueños/drogas/alucinatorio).",
+      "frontmatter_fields_proposed": {
+        "year": 1921,
+        "medium": "prosa-poema",
+        "read_in_session": true
+      },
+      "relations_to_existing": [
+        {
+          "type": "developed_by",
+          "to": "lovecraft-howard",
+          "weight": "canonical"
+        },
+        {
+          "type": "compared_with",
+          "to": "la-llave-de-plata-lovecraft",
+          "weight": "strong",
+          "note": "ambos cuentos operan en el registro onírico-disolutivo, distintos del registro grand guignol de La lámina de la casa"
+        },
+        {
+          "type": "exemplifies",
+          "to": "lovecraft-howard",
+          "note": "caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio) que el canal articula como una de las dos vías canónicas lovecraftianas"
+        }
+      ],
+      "rationale": "Per §2.3 v0.3 lectura íntegra = entity_work. Prosa-poema breve que el canal usa como caso operativo de la taxonomía 'dos vías sobrenaturales' que articula como pieza foundational del aparato lovecraftiano. La obra es notablemente atípica en el corpus Lovecraft (no horror clásico, sino fuga onírica) y por eso sirve para precisar la taxonomía."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "lovecraft-howard",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Lovecraft lleva esta inefabilidad al terror: lo aterrador no es lo que se ve sino lo que **no puede ser visto sin que el lenguaje colapse**.",
+      "content_proposed": "\n## Barroquismo como recurso de credibilidad\n\nEn el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula la **función** del barroquismo lovecraftiano que la sección anterior dejaba en plano descriptivo (la prosa como 'arbotantes de catedrales'). La pieza explica POR QUÉ el exceso narrativo opera y no fracasa.\n\n> \"Los excesos narrativos de adverbios y adjetivos buscan tono solemne,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:19:10)](https://youtu.be/celiAdqrHYA?t=4750)\n\n> \"La solemnidad hace que cualquier tontería narrada parezca más real,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:19:10)](https://youtu.be/celiAdqrHYA?t=4750)\n\n> \"Funciona como acercamiento de cámara que da contraste con vivencia real,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:19:10)](https://youtu.be/celiAdqrHYA?t=4750)\n\nLa cadena funcional articulada es: **exceso adverbial-adjetival → solemnidad → credibilidad → vivencia**. La prosa barroca no es decoración estilística sino dispositivo perceptivo: opera como acercamiento de cámara cinematográfico que reduce la distancia entre el lector y lo narrado, produciendo el contraste con la vivencia real que Lovecraft necesita para que su material patentemente fantástico (cultos antiguos, libros prohibidos, criaturas innombrables) sea recibido en registro de testimonio, no de invención. La consecuencia operativa para la lectura del canon: cualquier intento de modernizar la prosa lovecraftiana eliminando los excesos barrocos destruye el dispositivo, no lo limpia — la obra deja de funcionar porque pierde el mecanismo que producía su credibilidad psíquica.\n\n## Las dos vías al acceso de lo sobrenatural lovecraftiano\n\nEl mismo directo articula una taxonomía estructural de las dos vías canónicas que Lovecraft usa para que el sujeto narrativo acceda al sobrenatural — pieza foundational que la página no contenía y que organiza obra-por-obra el corpus.\n\n> \"Sueños, drogas y lo alucinatorio como primera vía,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)\n\n> \"El instrumento ritual y el conocimiento como segunda vía,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)\n\n> \"El insight es lo que inspiró el tema central de Bloodborne,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)\n\nLa taxonomía es estructural y disjunta: la **primera vía** (alucinatoria) opera por desactivación parcial del aparato cognitivo ordinario — el sujeto se desliza al sobrenatural por sueño recurrente, intoxicación, fiebre, alucinación — sin necesidad de saber qué busca. La **segunda vía** (ritual-cognitiva) opera por instrumentalización deliberada — el sujeto convoca al sobrenatural mediante objeto ritual (Necronomicón, llave de plata, fórmula recitada) más conocimiento técnico (cómo usarlo, qué decir). La distinción reorganiza la lectura del corpus: 'Ex oblivione' opera enteramente en la primera vía (sueño + droga); 'La llave de plata' opera en la segunda (instrumento ritual + conocimiento esotérico); 'La lámina de la casa' opera en una zona híbrida (objeto-libro como instrumento, fascinación obsesiva como deslizamiento alucinatorio). La consecuencia para [[bloodborne-game]] queda explícita: la obra hereda específicamente esta taxonomía como tema central — el cazador accede al sobrenatural por la vía mixta del ritual (cazadores, iglesia, viales) más el conocimiento (insight como mecánica de juego propia), no solo el horror cósmico genérico.\n\n## Cuentos leídos íntegramente: extensión del catálogo\n\nLa página articulaba 'La extraña casa elevada entre la niebla' como cuento leído íntegro en sesión. El directo *Análisis arquetípico: Asimov y Lovecraft* añade dos lecturas íntegras que extienden el corpus de obras del autor accesibles vía retrieval directo.\n\n- **'La lámina de la casa'** (1920): el narrador busca refugio en una casa abandonada de la Nueva Inglaterra profunda, encuentra al anciano harapiento de cerrado dialecto Yankee que abre obsesivamente el libro de Pigafeta sobre el Congo (1598, grabados De Bry) por la lámina 12 — la carnicería de caníbales anziques — y confiesa entre susurros que comer carne humana le da más vida; un rayo destruye la casa antes de que la razón colapse. Caso del registro grand guignol temprano de Lovecraft. Página propia: [[la-lamina-de-la-casa-lovecraft]].\n  → [Análisis arquetípico: Asimov y Lovecraft. (58:40)](https://youtu.be/celiAdqrHYA?t=3520)\n\n- **'Ex oblivione'** (1921): prosa-poema breve donde el narrador huye de la locura cotidiana refugiándose en sueños recurrentes de un valle dorado con muro de hiedra y pequeña puerta de bronce; al obtener una droga que abre la cancela, atraviesa la puerta y es disuelto en el blanco vacío del olvido cristalino. Caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio). Página propia: [[ex-oblivione-lovecraft]].\n  → [Análisis arquetípico: Asimov y Lovecraft. (1:22:42)](https://youtu.be/celiAdqrHYA?t=4962)\n",
+      "wikilinks_introduced": [
+        "bloodborne-game",
+        "la-lamina-de-la-casa-lovecraft",
+        "ex-oblivione-lovecraft"
+      ],
+      "citations_added": [
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 4750,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (1:19:10)](https://youtu.be/celiAdqrHYA?t=4750)"
+        },
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 5298,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)"
+        },
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 3520,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (58:40)](https://youtu.be/celiAdqrHYA?t=3520)"
+        },
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 4962,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (1:22:42)](https://youtu.be/celiAdqrHYA?t=4962)"
+        }
+      ],
+      "rationale": "Tres bloques nuevos. (1) Función del barroquismo: la página describía la prosa como 'sobrecargada de adverbios y adjetivos' pero NO articulaba la cadena funcional exceso → solemnidad → credibilidad → vivencia. Pieza explicativa que cierra parcialmente la laguna sobre técnica narrativa. (2) Dos vías sobrenaturales: taxonomía foundational ausente en la página, con consecuencia operativa para la lectura del corpus (Ex oblivione, La llave de plata, La lámina de la casa) y explícita conexión con Bloodborne ya presente. (3) Extensión del catálogo de cuentos leídos íntegramente con las dos nuevas lecturas del directo, con wikilinks a las páginas propias promote_new.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "lovecraft-howard",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: con 'La lámina de la casa' y 'Ex oblivione' añadidos al catálogo de cuentos leídos íntegros, el corpus directo del autor en el wiki crece a tres lecturas íntegras documentadas (más 'La extraña casa elevada entre la niebla' previamente). Quedan sin documentar timestamps explícitos otras lecturas del canon que el canal ha hecho en otros directos.",
+      "supersedes_laguna_text": "**Cuentos individuales más allá de los citados**: el canal lee muchos cuentos íntegros pero solo unos pocos quedan recogidos en esta página con timestamp explícito",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "Las dos lecturas íntegras añadidas (La lámina de la casa, Ex oblivione) reducen la laguna pero no la cierran completamente — siguen existiendo otras lecturas íntegras dispersas en el corpus que aún no tienen entry específico. Resolución parcial.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "perdida-inocencia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Si el sujeto no estaba preparado cuando ocurrió la pérdida, el sufrimiento subsiguiente no es evidencia de que era mejor no haberla experimentado — sino de que el momento o la forma fueron inadecuados.",
+      "content_proposed": "\n## El remordimiento como afecto del paraíso perdido\n\nEn el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal añade la definición operativa del **remordimiento** como afecto específico vinculado a la pérdida de inocencia, articulando la equivalencia paraíso perdido ≡ pérdida de inocencia ≡ desconocimiento de una parte de la realidad.\n\n> \"Es el dolor de cómo eran los tiempos antes de que la cagaras,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (53:00)](https://youtu.be/celiAdqrHYA?t=3180)\n\n> \"Los paraísos perdidos son la pérdida de la inocencia,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (53:00)](https://youtu.be/celiAdqrHYA?t=3180)\n\n> \"La inocencia es el desconocimiento de una parte de la realidad,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (53:00)](https://youtu.be/celiAdqrHYA?t=3180)\n\nLa pieza articula tres niveles encadenados que la página tenía en plano descriptivo pero no en plano afectivo. (a) **Remordimiento como afecto distintivo**: no es culpa moral genérica ni nostalgia indiferenciada — es el dolor específico de evocar un estado anterior al cruce que ya no se puede deshacer. La fórmula coloquial del speaker ('antes de que la cagaras') captura precisamente la doble carga: el evento ocurrió por agencia propia (no fue accidente externo) Y produjo pérdida irreversible. (b) **Equivalencia operativa paraíso perdido = pérdida de inocencia**: la categoría mítica del Paraíso no es topografía cosmológica sino estado psíquico previo a la incorporación del conocimiento que ya no se puede expulsar. Cualquier mito de paraíso perdido — Edén bíblico, Edad de Oro hesiódica, infancia personal — recapitula la misma estructura. (c) **Inocencia como desconocimiento de una parte de la realidad**: definición categorial que cierra la taxonomía de la página. La inocencia NO es virtud moral — es estado epistémico de no-saber sobre una región específica del campo. Su pérdida es entrada de información que no se puede des-saber.\n\nEsta articulación enlaza con la lectura del canal sobre el cuento 'Recuerdo perdido' de Asimov ([[recuerdo-perdido-asimov]]): los seres puramente energéticos que tras un quintillón de años recuerdan haber sido hombre y mujer cuando reconstruyen la cabeza de materia, y rompen a llorar — el dolor de Brock al recordar es caso paradigmático del remordimiento aquí articulado, transferido al plano cósmico-evolutivo. La estructura es la misma: sufrimiento del estado anterior al cruce evolutivo (ser corporal afectivo) tras haberlo abandonado por construcción propia (la sublimación a pura energía).\n",
+      "wikilinks_introduced": [
+        "recuerdo-perdido-asimov"
+      ],
+      "citations_added": [
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 3180,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (53:00)](https://youtu.be/celiAdqrHYA?t=3180)"
+        }
+      ],
+      "rationale": "La página articula la inocencia como estado descriptivo y la taxonomía ingenuidad/inocencia/corrupción, pero NO contiene: (a) la definición específica del remordimiento como afecto del paraíso perdido; (b) la equivalencia paraíso perdido ≡ pérdida de inocencia; (c) la definición operativa 'inocencia = desconocimiento de una parte de la realidad'. Triple articulación nueva que cierra parcialmente la laguna 'inocencia adulta legítima' y abre conexión con el caso operativo Recuerdo perdido de Asimov.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "**Caracterización psicológica**: el transhumanismo opera como anhelo, deber-ser. Wendy esperando a Peter Pan — fantasía catártica, no programa técnico.",
+      "content_proposed": "\n- **Argumento desde la transducción afectivo-somática**: el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) añade un argumento literario-filosófico complementario al error categorial sustancia/forma. La crítica articula que **gran parte de lo afectivo se traduce en lo somático como lo imaginario en lo visual** — el amor, la ira, la calidez tienen componente somática irrenunciable, y por tanto sin cuerpo no puede haber conciencia porque las representaciones mismas codifican percepción somática. Incluso las concepciones formales como tiempo y volumen tienen base representacional somática: la duración se siente, el volumen se palpa antes de calcularse. La consecuencia operativa contra el transhumanismo es que considerar el cuerpo como sufrimiento innecesario presupone metafísicamente que afectos y representaciones formales podrían existir en un sustrato no somático — postulado que el realismo cognitivo del canal niega. La pieza opera como argumento literario-filosófico que el cuento [[recuerdo-perdido-asimov|Recuerdo perdido]] de Asimov dramatiza: dos seres puramente energéticos tras un quintillón de años intentan reconstruir el cuerpo y, al lograrlo parcialmente, descubren que el componente afectivo (Brock recuerda haber sido mujer y rompe a llorar) requería estructuralmente el sustrato somático que abandonaron — la conciencia desincorporada perdió lo que pretendía preservar.\n  → [Análisis arquetípico: Asimov y Lovecraft. (46:50)](https://youtu.be/celiAdqrHYA?t=2810)\n  → [Análisis arquetípico: Asimov y Lovecraft. (48:22)](https://youtu.be/celiAdqrHYA?t=2902)\n",
+      "wikilinks_introduced": [
+        "recuerdo-perdido-asimov"
+      ],
+      "citations_added": [
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 2810,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (46:50)](https://youtu.be/celiAdqrHYA?t=2810)"
+        },
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 2902,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (48:22)](https://youtu.be/celiAdqrHYA?t=2902)"
+        }
+      ],
+      "rationale": "La página articula la crítica al transhumanismo desde error categorial, no portabilidad cognitiva, eutanasia de la humanidad y (en update reciente) iatrogenia por longevidad. NO contiene el argumento específico desde la transducción afectivo-somática: el afecto SE TRADUCE en somático como lo imaginario en visual; sin cuerpo no hay representación afectiva. Argumento complementario al error categorial sustancia/forma — añade el flanco PSICOLÓGICO-REPRESENTACIONAL que la crítica anterior dejaba implícito. Conecta con el caso literario de Asimov vía wikilink al promote_new.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "genesis-mitologico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Unicorn Wars la actualiza obra-por-obra, mostrando que el Génesis puede operar como categoría tanto de la conjunción exitosa (Tolkien) como de la disolución (la mala conjunción polar de Unicorn Wars que engendra al hombre como abominación). Es el caso complementario al Génesis tolkieniano: donde la Música de los Ainur articula la emanación armónica desde el Uno, los tres pecados articulan el Génesis del hombre como mala integración.",
+      "content_proposed": "\n## Neogénesis del fin: Recuerdo perdido de Asimov como Génesis invertido\n\nEn el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula un caso operativo del marco genésico que opera en el sentido inverso al ya documentado: no relato de origen del todo desde la nada, sino relato de fin del todo donde el paraíso perdido se reconstruye episódicamente y revela su pérdida estructural.\n\n> \"Recordar que fueron hombre y mujer es el dolor de haber perdido el paraíso,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (49:52)](https://youtu.be/celiAdqrHYA?t=2992)\n\n> \"El abandono de la forma etérea por construir mecánicamente equivale al árbol del bien y del mal,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (49:52)](https://youtu.be/celiAdqrHYA?t=2992)\n\n> \"Es la misma estructura del Génesis y de Neon Genesis Evangelion,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (49:52)](https://youtu.be/celiAdqrHYA?t=2992)\n\nEl cuento de Isaac Asimov [[recuerdo-perdido-asimov|Recuerdo perdido]] articula la estructura genésica en una vuelta de tuerca operativa: dos seres puramente energéticos llamados Aimés y Brock, tras un quintillón de años de evolución cognitiva que abandonó el cuerpo, intentan reconstruir la forma humana como **sinfonía de materia** (proyecto artístico, no funcional). Modelan cabeza, nariz, ojos, labios — y al verlos completos Brock recuerda que fue mujer y rompe a llorar.\n\nLa pieza aplica el marco genésico en sentido invertido respecto al Génesis tolkieniano y al biblical clásico. Donde el Génesis ortodoxo articula 'al principio no había nada, y de repente algo fue', el cuento de Asimov articula 'al final ya no había cuerpo, y de repente recordamos que lo hubo'. La operación cognitiva es la misma — hipóstasis catártica, episodio que recapitula la estructura mental de la transición — pero el contenido se invierte: en lugar de emanación desde la unidad indiferenciada, **recuperación dolorosa de la unidad perdida por sublimación**. La estructura del **árbol del bien y del mal** se actualiza: el conocimiento que no se puede des-saber no es la moral, es la conciencia de que el cuerpo era el paraíso. El abandono mecánico de la forma etérea opera como equivalente del cruce del umbral edénico — irreversible, productor de remordimiento (ver [[perdida-inocencia]] sección 'remordimiento como afecto del paraíso perdido').\n\nLa equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genesis Evangelion ([[evangelion-anime]]) que el canal articula es estructural, no temática: las tres obras escenifican el cruce irreversible entre dos estados ontológicos donde el segundo conserva memoria del primero como pérdida. La página queda así extendida con un tercer caso operativo del Génesis: el **Génesis del fin** o **neogénesis** — relato de origen aplicado a un evento de cierre evolutivo donde la psique reconstruye episódicamente el estado abandonado y descubre su valor solo en la pérdida.\n",
+      "wikilinks_introduced": [
+        "recuerdo-perdido-asimov",
+        "evangelion-anime",
+        "perdida-inocencia"
+      ],
+      "citations_added": [
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 2992,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (49:52)](https://youtu.be/celiAdqrHYA?t=2992)"
+        }
+      ],
+      "rationale": "La página articula el Génesis tolkieniano como conjunción exitosa y Unicorn Wars como Génesis disfuncional (mala integración). NO contiene el caso del Génesis invertido temporalmente: relato del fin donde el paraíso perdido se reconstruye y revela su pérdida. Pieza estructural nueva que extiende la categoría genésica con un tercer caso operativo y abre conexión con Evangelion (página soft-promote whitelist) y con perdida-inocencia.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mito-moderno-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La mitología impropia contemporánea (en términos de [[mitologia-propia-impropia]]) no es solo desconocimiento de su condición de mito, sino imposibilidad estructural de fundar mítica nueva en un horizonte civilizatorio cuyo último cierre productivo fue el evangélico.",
+      "content_proposed": "\n## Pieza 7 — La ciencia ficción como salto fuera del sistema cognitivo\n\nEn el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula el género ciencia ficción NO como subdominio temático del mito moderno sino como **función metodológica específica** dentro del aparato cognitivo: vehículo para la operación de salto fuera del sistema interpretativo propio. La pieza toca parcialmente la laguna 'mito en ciencia ficción más allá de Matrix' que la página declaraba.\n\n> \"Para comprender dónde estás necesitas saltar fuera del sistema,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (30:02)](https://youtu.be/celiAdqrHYA?t=1802)\n\n> \"Solo se puede entender algo dentro de un contexto que lo limita,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (30:02)](https://youtu.be/celiAdqrHYA?t=1802)\n\n> \"Poner alienígenas que nos estudian permite ver nuestras propias limitaciones interpretativas,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (32:04)](https://youtu.be/celiAdqrHYA?t=1924)\n\n> \"Los venusinos son antropomorfos porque el autor no puede escapar a su forma cognitiva,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (32:04)](https://youtu.be/celiAdqrHYA?t=1924)\n\nLa función metodológica articulada opera por dispositivo narrativo doble. (a) **Externalización de la perspectiva**: la ciencia ficción introduce un observador externo (alienígena, civilización futura, IA) que examina la civilización humana desde fuera. El lector identifica con el observador externo y, al hacerlo, accede momentáneamente a una perspectiva que su aparato cognitivo no podría adoptar por sí solo — el laberinto cuya estructura no se ve desde dentro se vuelve visible desde el observatorio externo construido por la ficción. (b) **Cota inevitable de la limitación**: la propia construcción narrativa expone la limitación cognitiva del autor, no solo la del lector. Los venusinos del cuento de Clarke son antropomorfos (reptiles humanoides reflexivos) porque el autor no puede escapar a su forma cognitiva al imaginar la alteridad; el dispositivo de salto es necesariamente parcial. Lejos de ser fallo del género, esta limitación es su valor — la ciencia ficción honesta documenta no solo lo que ve la perspectiva externa sino la imposibilidad de adoptar una perspectiva genuinamente externa.\n\nEl caso operativo paradigmático de la pieza es [[leccion-de-historia-clarke|Lección de historia]] de Arthur C. Clarke (1949): los venusinos descubren la única reliquia terrestre tras la glaciación — una cinta de plástico con miles de imágenes — y la toman como registro auténtico de la cumbre humana, sin saber que es una producción de Walt Disney. El cuento articula simultáneamente las dos piezas del dispositivo: lectura de las limitaciones interpretativas humanas (proyectamos sobre cualquier observador la forma reptil-antropocéntrica que es nuestra) y exposición del fallo de interpretación inverso (los venusinos toman ficción comercial como cumbre civilizatoria). El doble bucle reflexivo es lo que distingue la ciencia ficción operativamente arquetípica de la ciencia ficción meramente especulativa: no plantea ¿cómo serían los alienígenas?, plantea ¿cómo nos veríamos a través de ojos no humanos sabiendo que esos ojos los hemos construido nosotros?\n\nLa pieza enlaza con [[matrix-1999-film]] articulado en pieza 5: la conciencia permite hacer saltos fuera del sistema; cada vez que aprendes algo, todo el conjunto cambia. La ciencia ficción es el dispositivo literario que opera ese principio en clave narrativa, complementario al dispositivo gnóstico de Matrix (despertar interno) con un dispositivo externo (observador alienígena o civilización posterior).\n",
+      "wikilinks_introduced": [
+        "leccion-de-historia-clarke",
+        "clarke-arthur-c"
+      ],
+      "citations_added": [
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 1802,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (30:02)](https://youtu.be/celiAdqrHYA?t=1802)"
+        },
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 1924,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (32:04)](https://youtu.be/celiAdqrHYA?t=1924)"
+        }
+      ],
+      "rationale": "La página declaraba como laguna 'El mito en la ciencia ficción más allá de Matrix (Alien, Prometeo, Blade Runner, Dune) — el canal los toca pero no los sistematiza con la misma profundidad'. El bloque articula la FUNCIÓN METODOLÓGICA del género ciencia ficción (salto fuera del sistema cognitivo + externalización de la perspectiva + cota de la limitación cognitiva) que la página no contenía. Material que toca la laguna parcialmente y abre conexión con Clarke como autor (promote_new).",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mito-moderno-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: la pieza 7 articula la función metodológica del género ciencia ficción (salto fuera del sistema cognitivo + externalización de la perspectiva) con caso operativo paradigmático (Lección de historia de Clarke). Quedan pendientes Alien, Prometeo, Blade Runner y Dune como casos individuales sistemáticamente articulados.",
+      "supersedes_laguna_text": "**El mito en la ciencia ficción más allá de Matrix** (Alien, Prometeo, Blade Runner, Dune) — el canal los toca pero no los sistematiza con la misma profundidad",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La pieza 7 articula el principio general del género ciencia ficción como dispositivo metodológico, no solo Clarke. Cierra parcialmente la laguna a nivel de marco; los casos individuales (Alien, Prometeo, etc.) siguen pendientes.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "bloodborne-game",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El ansia por completar un puzzle cuya pieza más importante es uno mismo.",
+      "content_proposed": "\n## Las dos vías sobrenaturales lovecraftianas como tema central\n\nEn el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal precisa la herencia lovecraftiana de Bloodborne articulada en secciones anteriores. La página articulaba 'Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft' como observación general; el directo añade la pieza específica que constituye el tema central del juego.\n\n> \"Sueños, drogas y lo alucinatorio como primera vía,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)\n\n> \"El instrumento ritual y el conocimiento como segunda vía,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)\n\n> \"El insight es lo que inspiró el tema central de Bloodborne,\"\n→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)\n\nLa precisión genealógica articula la **taxonomía de las dos vías canónicas** lovecraftianas al sobrenatural (ver [[lovecraft-howard]] sección 'Las dos vías al acceso de lo sobrenatural lovecraftiano'): vía alucinatoria (sueños, drogas, fiebre) vs vía ritual-cognitiva (instrumento + conocimiento). Bloodborne hereda específicamente esta taxonomía y la convierte en mecánica operativa. El insight como estadística de juego (no estadística de combate, no de salud) es la operacionalización del **conocimiento esotérico** como recurso adquirible que altera la percepción del sujeto-jugador del entorno — más insight = más ojos abiertos al sobrenatural lovecraftiano. La sangre y los viales operan en la vía complementaria: el ritual cazador, el bautismo de sangre, los implantes son **instrumentos rituales** cuya manipulación + el conocimiento adecuado permiten al cazador acceder al sobrenatural sin colapsar.\n\nLa pieza precisa la lectura del juego: Bloodborne no hereda 'Lovecraft genérico' sino exactamente esta taxonomía estructural. La invención del juego es articular las dos vías lovecraftianas como mecánicas de progresión simultáneas — el cazador avanza por instrumentación ritual (combate, transformación, viales) Y por insight acumulado (conocimiento), ninguna de las dos suficiente por sí sola para acceder al núcleo cosmológico de la obra. La consecuencia para la lectura arquetípica articulada en la página es que el laberinto interior del cazador no es solo viaje al [[collective-unconscious]] genéricamente lovecraftiano; es operacionalización de la doble vía canónica del autor como condición necesaria del acceso.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "celiAdqrHYA",
+          "timestamp_seconds": 5298,
+          "cite_markdown": "[Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)"
+        }
+      ],
+      "rationale": "La página articula la herencia lovecraftiana de Bloodborne en plano general (horror cósmico, doble negación, narrativa fragmentada) pero NO contiene la precisión específica de QUÉ pieza estructural Bloodborne hereda — las dos vías sobrenaturales canónicas. Material que precisa genealógicamente la lectura ya presente y que conecta con la nueva sección de lovecraft-howard donde la taxonomía se articula.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Eliade y el eterno retorno aplicado a Lección de historia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Eliade ya tiene página propia y aparece como referencia bibliográfica del canal. La aplicación específica del eterno retorno al cuento de Clarke se captura como cita en la página promote_new leccion-de-historia-clarke vía la relación references→eliade-mircea. Mención puntual, no merece pending_update prosa específico a eliade-mircea.",
+      "quote_evidence": "Eliade puso nombre al concepto pero estaba narrado antes por discípulos de Jung,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "eliade-mircea"
+    },
+    {
+      "surface_form": "uróboros como concepto",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto estándar de mitología comparada (serpiente que se muerde la cola, eterno retorno) usado como ilustración estructural del cuento de Clarke. Sin elaboración propia del canal — sirve de vehículo del análisis arquetípico de Lección de historia. Capturado como cita en promote_new del cuento.",
+      "quote_evidence": "Eliade puso nombre al concepto pero estaba narrado antes por discípulos de Jung,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "leccion-de-historia-clarke"
+    },
+    {
+      "surface_form": "laberinto: estructura no se ve desde dentro",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación general del principio del laberinto (estructura visible solo desde fuera) que el canal aplica al cuento de Clarke. Capturado en pending_update a mito-moderno-en-proxy como base del principio 'salto fuera del sistema' y referenciado vía wikilinks. Existe ya página los-dos-reyes-y-los-dos-laberintos-borges con articulación del laberinto borgiano; el laberinto cognitivo aquí es el mismo concepto pero aplicado distinto. Sin sustantividad para página propia — vehículo del argumento sobre ciencia ficción.",
+      "quote_evidence": "Para comprender dónde estás necesitas saltar fuera del sistema,",
+      "review_priority": "medium",
+      "review_priority_reason": "El laberinto como categoría operativa del canal aparece en múltiples vídeos (Bloodborne, Borges, este). Podría merecer concept page propia si recurre con elaboración propia. Hilo a vigilar.",
+      "enriches_concept": "mito-moderno-en-proxy"
+    },
+    {
+      "surface_form": "ambiguar: convertir representación en parte de otra mayor",
+      "reason_code": "passing_mention",
+      "reason_detail": "Operación cognitiva canal-específica (ambigüar = subsumir representación en categoría superior) mencionada brevemente. Sin elaboración suficiente en este vídeo. Concepto técnico que aparece más desarrollado en teoria-del-simbolo-en-proxy bajo el aparato 'matriz noética + operaciones de ambigüación'. Cite-only via teoria-del-simbolo si surge con desarrollo.",
+      "quote_evidence": "La ambigua es convertir una representación en parte de otra mayor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "Venus tropical (creencia 1949 vs Venera 4)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Dato científico-histórico (Venus considerado tropical antes de Venera 4 en 1967) usado como contexto de Lección de historia. Sin valor enciclopédico independiente. Capturado como nota contextual en promote_new del cuento.",
+      "quote_evidence": "En 1949 se creía que Venus era un planeta tropical perpetuo apto para la vida,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "leccion-de-historia-clarke"
+    },
+    {
+      "surface_form": "Pigafeta: Relatione del Reame di Congo (1598)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Libro real referenciado dentro del cuento de Lovecraft 'La lámina de la casa' (volumen de 1598 con grabados de los hermanos De Bry sobre el Congo). Es referente intra-narrativo del cuento, no objeto de análisis del canal en sí. Capturado en promote_new del cuento como detalle.",
+      "quote_evidence": "El volumen de 1598 con grabados de los hermanos De Bry tiene los indígenas como blancos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-lamina-de-la-casa-lovecraft"
+    },
+    {
+      "surface_form": "Walt Disney y la fauna fantástica como cumbre civilizatoria",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia intra-narrativa al twist final del cuento de Clarke (la cinta resulta ser de Disney). No análisis sustantivo del canal sobre Disney como fenómeno cultural — es revelación narrativa del cuento. Capturado en promote_new.",
+      "quote_evidence": "La criatura \"tiene mal carácter\" y será objeto de eterna investigación venusina,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "leccion-de-historia-clarke"
+    },
+    {
+      "surface_form": "Neon Genesis Evangelion como caso paralelo de paraíso perdido",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa estructural (Recuerdo perdido ≈ Génesis bíblico ≈ Evangelion). La página evangelion-anime existe como soft-promote de la whitelist canónica. Capturado como cita en pending_update a genesis-mitologico vía wikilink. No merece enrich propio sin lectura previa de la página.",
+      "quote_evidence": "Es la misma estructura del Génesis y de Neon Genesis Evangelion,",
+      "review_priority": "medium",
+      "review_priority_reason": "Evangelion está en whitelist soft con auto_promote: false. Si recurre con análisis sustantivo en otros directos, podría auto-promoverse. Hilo a vigilar.",
+      "enriches_concept": "evangelion-anime"
+    },
+    {
+      "surface_form": "anuncios de la próxima semana (meta-canal)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Cierre típico de directo con anuncios de programación futura (Psicología 101, Evangelion revisited). Sin contenido enciclopédico.",
+      "quote_evidence": "Psicología 101 sobre diferencia entre entorno y genética,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Edgar Allan Poe (no aparece en este vídeo)",
+      "reason_code": "already_captured",
+      "reason_detail": "Verificación negativa por completitud — el summary no menciona explícitamente a Poe. La genealogía Poe→Lovecraft ya está documentada en lovecraft-howard desde otros directos.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "puritanos exiliados de Nueva Inglaterra",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Referencia histórica intra-narrativa del cuento de Lovecraft (el contexto cultural de la Nueva Inglaterra profunda). Sin elaboración del canal. Capturado en promote_new del cuento.",
+      "quote_evidence": "Los puritanos exiliados quedaron sometidos a los lúgubres fantasmas de sus cerebros,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-lamina-de-la-casa-lovecraft"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 14,
+    "promoted_new": 7,
+    "promoted_updates": 9,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Arthur C. Clarke] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Isaac Asimov] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Lección de historia (Clarke)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Recuerdo perdido (Asimov)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[La lámina de la casa (Lovecraft)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Ex oblivione (Lovecraft)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

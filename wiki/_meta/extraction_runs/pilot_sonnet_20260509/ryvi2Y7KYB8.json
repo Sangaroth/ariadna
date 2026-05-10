@@ -1,0 +1,453 @@
+{
+  "video_id": "ryvi2Y7KYB8",
+  "video_title": "Análisis arquetípico de Los Rescatadores",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Los Rescatadores (Disney, 1977)",
+      "canonical_guess": "los-rescatadores-1977-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 122,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La fábula narra específicamente la fenomenología de la infancia, no la fenomenología de la magia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo que la niña está diseñando no son dos ratones que vienen a buscarla sino cómo sería el padre y la madre perfectos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~122 min) dedicado íntegramente al análisis arquetípico de The Rescuers (Disney, 1977). Per scope §2.3, ≥30 min satisface criterio. La obra opera como caso operativo de la fenomenología de la infancia: la niña Penny imagina dos ratones (Bianca/Bernardo) como padres ideales mientras espera ser rescatada del orfanato/Medusa, y la película articula la fantasía como dispositivo de esperanza que sostiene la cordura del niño abandonado.",
+      "quote_evidence": "Cuando el mundo no te da amor te lo imaginas, pero no en personas reales sino en un mundo alternativo donde el amor encaja naturalmente,"
+    },
+    {
+      "surface_form": "fábula vs cuento de hadas como taxonomía canal-específica",
+      "canonical_guess": "generos-literarios-y-afectos",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La fábula se distingue del cuento de hadas porque no presupone la existencia de la magia,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La fantasía arquetípica con presunción de magia es cuento de hadas; sin magia, es fábula,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Distinción categorial canal-específica articulada con detalle: ficción vs fantasía vs fantasía arquetípica; cuento de hadas (con magia) vs fábula (sin magia, fenomenología de la infancia). Sin lectura previa de generos-literarios-y-afectos en este barrido, capturado en promote_new del film con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "Lo fabuloso es lo extraordinario: mecánicas narrativas donde los animales hablan sin que eso implique magia,"
+    },
+    {
+      "surface_form": "muerte de la infancia: dejar de creer en la magia / esperanza",
+      "canonical_guess": "perdida-inocencia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La infancia muere cuando se deja de anhelar amor y se pierde la esperanza de ser elegido o especial,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En la mente del niño ser guapo, ser elegido y ser merecedor de amor son el mismo concepto,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la inocencia como estado descriptivo (no ético), la taxonomía ingenuidad/inocencia/corrupción, el criterio de preparación, el remordimiento como afecto del paraíso perdido (mi insert previo). NO contiene: (1) la articulación de la MUERTE DE LA INFANCIA como evento estructural específico — el momento en que el sujeto deja de anhelar amor y deja de creer en ser elegido o especial; (2) la identidad infantil como complejo unificado (ser guapo = ser elegido = ser merecedor de amor) que el adulto separa por experiencia; (3) la postura terminal del adulto que pierde toda esperanza y se convierte en bruja (ya no quiere amor, solo poder).",
+      "quote_evidence": "Cuando se pierde del todo la esperanza y se muere por dentro, te conviertes en la bruja: ya no quieres amor, solo quieres poder,"
+    },
+    {
+      "surface_form": "sacrificio masculino innato + apoteosis colectivo + reina de ambos mundos",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Bernardo no es valiente por heroísmo sino porque prefiere que le pase algo a él antes que a Bianca: mecánica innata del sacrificio masculino,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El apoteosis no es un héroe con espada sino todos los animalitos del bosque juntándose: toda la psique yendo a ayudar,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula las dos fases masculinas del monomito, sacrificio pasivo vs heroico (mi insert previo), héroe truncado, antihéroe ordinario. NO contiene: (1) la articulación del SACRIFICIO MASCULINO COMO MECÁNICA INNATA (no por heroísmo sino por preferencia preconsciente: que le pase algo a uno mismo antes que a la diosa); (2) APOTEOSIS COLECTIVO como modalidad alternativa al héroe-con-espada — toda la psique reuniéndose en cooperación frente a la psique mala que se pelea por ambición; (3) REINA DE AMBOS MUNDOS como última fase del viaje aplicada a la heroína infantil (Penny reina de la fantasía y del mundo real simultáneamente).",
+      "quote_evidence": "Lo masculino protege a la diosa no para ganarse egoístamente su amor, sino para que ella pueda seguir dando amor a todo el mundo,"
+    },
+    {
+      "surface_form": "postmodernidad como destrucción de la fantasía infantil",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La postmodernidad dice que toda fantasía es un engaño y la reelabora como fantasía dramática, fea y desesperanzadora,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el woke como vaciamiento arquetípico, la pendiente resbaladiza, el sofisma constructivista, la iconografía del arcoíris. NO contiene la articulación específica de la postmodernidad como DESTRUCCIÓN DE LA FANTASÍA INFANTIL: el dispositivo cultural que convierte al niño en huérfano (le saca de su árbol simbólico) y simultáneamente le impide soñar (reelabora la fantasía como dramática, fea y desesperanzadora) para que no pueda evadirse de lo que el aparato cultural quiere meterle en la cabeza. Articulación específica del flanco infantil del marco woke.",
+      "quote_evidence": "Convierte al niño en huérfano pero le impide soñar para que no tenga sueños y no pueda evadirse de lo que el estado quiere meterle en la cabeza,"
+    },
+    {
+      "surface_form": "Medusa como bruja terminal que comercia con la esperanza ajena",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La tienda de empeños es un lugar donde Medusa se alimenta de la esperanza de los demás obligándoles a vender sus sueños,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Condicionar el amor es el primer pecado de la madre oscura; la obsesión es la parte oscura de la esperanza,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula tres formas del mal materno + la cuarta forma (madre oscura como vampira afectiva, mi insert previo de Fight Club) + tres dones de la diosa como secuencia performativa (mi insert de Inocencia interrumpida). NO contiene: (1) Medusa como bruja terminal que comercia con la esperanza ajena (tienda de empeños donde se compran/venden sueños); (2) condicionar el amor como PRIMER PECADO de la madre oscura; (3) la obsesión como parte oscura de la esperanza (correlato negativo del don terminal de la diosa); (4) Bianca como caso operativo de la diosa ingenua al peligro porque su función es mantenerse así para seguir dando esperanza.",
+      "quote_evidence": "Las princesas son seres fabulosos protegidos para poder seguir viviendo en el mundo de fantasía y llevando esperanza,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "los-rescatadores-1977-film",
+      "canonical_name": "Los Rescatadores (The Rescuers, Disney 1977)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "social.psychology.jungian",
+        "humanities.religion"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~122 min dedicado íntegramente al análisis arquetípico de The Rescuers. Per scope §2.3, ≥30 min satisface criterio. La obra opera como caso operativo paradigmático de la FÁBULA (fantasía sin presunción de magia) aplicada a la fenomenología de la infancia.",
+      "one_line_summary": "Análisis arquetípico monográfico de The Rescuers (Disney, 1977) leído como caso paradigmático de la FÁBULA (fantasía sin magia) que articula la fenomenología psíquica del niño abandonado: Penny imagina a Bianca y Bernardo como padres ideales y como dispositivo de esperanza que sostiene su cordura mientras espera ser rescatada de Medusa; Bianca opera como diosa ingenua al peligro (función protegida para seguir dando esperanza) y Bernardo como Loco del Tarot que sale del agujero por sacrificio masculino innato (preferir que le pase algo a él antes que a la diosa); el orfanato funciona como pantano social análogo al pantano natural de Medusa; el apoteosis no es un héroe con espada sino todos los animalitos del bosque uniéndose como toda la psique acudiendo al rescate; el cierre articula a Penny como reina de ambos mundos (fantasía + realidad) y la siguiente aventura de Bianca y Bernardo invierte el vector (de recibir socorro a enviar socorro), perpetuando la fábula como ciclo.",
+      "frontmatter_fields_proposed": {
+        "year": 1977,
+        "studio_or_publisher": "Walt Disney Productions",
+        "medium": "film",
+        "subgenre": "animación / fábula",
+        "based_on": "The Rescuers (Margery Sharp, novel, 1959)"
+      },
+      "relations_to_existing": [
+        {
+          "type": "exemplifies",
+          "to": "perdida-inocencia",
+          "weight": "canonical",
+          "note": "caso operativo de la fenomenología de la infancia y de la esperanza como motor que sostiene la cordura del niño antes de la 'muerte de la infancia' que el adulto sufre al perder la esperanza"
+        },
+        {
+          "type": "exemplifies",
+          "to": "diosa-blanca",
+          "weight": "canonical",
+          "note": "Bianca como diosa ingenua al peligro — caso operativo del arquetipo femenino protegido para seguir dando esperanza; Medusa como bruja terminal que comercia con la esperanza ajena"
+        },
+        {
+          "type": "exemplifies",
+          "to": "viaje-heroe",
+          "weight": "strong",
+          "note": "caso del monomito en clave de fábula: sacrificio masculino innato (Bernardo), apoteosis colectivo (toda la psique acudiendo), reina de ambos mundos (Penny final)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "tarot-arquetipico",
+          "weight": "strong",
+          "note": "Bernardo como Loco del Tarot — el ser más alejado de la aventura que la diosa elige precisamente por su distancia, polaridad invertida (feminidad osada / masculinidad delicada)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "tipologia-femenina-arquetipica",
+          "weight": "strong",
+          "note": "la bruja como femenino desligado de la comunidad/familia/moral; Medusa como bruja terminal que ya no quiere amor sino solo poder"
+        },
+        {
+          "type": "criticizes",
+          "to": "woke-narrativa-postmoderna-moral",
+          "weight": "strong",
+          "note": "el directo articula la postmodernidad como destrucción específica de la fantasía infantil — convertir al niño en huérfano simbólico mientras le impide soñar"
+        },
+        {
+          "type": "compared_with",
+          "to": "elemental-2023-film",
+          "weight": "tangential",
+          "note": "ambas obras de animación articulan la fenomenología infantil; Los Rescatadores cumple lo que Elemental fracasa al ofrecer fantasía con sustrato arquetípico genuino vs autotipo cultural"
+        },
+        {
+          "type": "references",
+          "to": "adgrediere-masculino",
+          "weight": "weak",
+          "note": "el sacrificio masculino innato de Bernardo opera como manifestación arquetípica del adgrediere, en su modalidad delicada-protectora más que en la solar-confrontativa"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min. La obra es caso operativo foundational del canal para la fenomenología de la infancia y para la fábula como género. Aporta varios elementos no articulados antes en el corpus: (1) distinción canal-específica fábula vs cuento de hadas; (2) postmodernidad como destrucción específica de la fantasía infantil; (3) sacrificio masculino como mecánica innata, no por heroísmo; (4) apoteosis colectivo como modalidad de cierre del monomito en clave de cooperación; (5) identidad infantil como complejo unificado (guapo=elegido=merecedor); (6) muerte de la infancia como evento estructural cuando se pierde la esperanza. La obra es complementaria a [[elemental-2023-film]] como contraejemplo positivo: cumple lo que Elemental fracasa al articular fantasía con sustrato arquetípico genuino."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "perdida-inocencia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La estructura es la misma: sufrimiento del estado anterior al cruce evolutivo (ser corporal afectivo) tras haberlo abandonado por construcción propia (la sublimación a pura energía).",
+      "content_proposed": "\n\n## La muerte de la infancia: el evento estructural del adulto que pierde la esperanza\n\nEl monográfico de junio 2024 sobre [[los-rescatadores-1977-film|Los Rescatadores]] articula un evento específico que la página tenía implícito: la **muerte de la infancia** como momento estructural en que el sujeto deja de anhelar amor y deja de creer en ser elegido o especial. La pieza precisa qué se pierde exactamente cuando se cruza el umbral hacia la adultez sin elaboración integradora.\n\n> \"La infancia muere cuando se deja de anhelar amor y se pierde la esperanza de ser elegido o especial,\"\n→ [Análisis arquetípico de Los Rescatadores (1:33:19)](https://youtu.be/ryvi2Y7KYB8?t=5599)\n\n> \"El adulto es aquel que ha perdido esa esperanza; cuanta más fantasía consume un adulto, más necesidad tiene de ser elegido,\"\n→ [Análisis arquetípico de Los Rescatadores (1:33:19)](https://youtu.be/ryvi2Y7KYB8?t=5599)\n\n> \"Cuando se pierde del todo la esperanza y se muere por dentro, te conviertes en la bruja: ya no quieres amor, solo quieres poder,\"\n→ [Análisis arquetípico de Los Rescatadores (1:33:19)](https://youtu.be/ryvi2Y7KYB8?t=5599)\n\nLa pieza articula tres niveles encadenados que la página tenía dispersos:\n\n1. **La infancia como estado donde la esperanza opera como motor**: el niño ANHELA amor y cree en ser elegido o especial — esa creencia no es ingenuidad sino condición de posibilidad de la fenomenología infantil completa.\n2. **El adulto consumidor de fantasía**: la fantasía consumida en la adultez NO es continuidad de la infancia sino síntoma de su pérdida — cuanta más fantasía busca un adulto, mayor su necesidad no satisfecha de ser elegido. La fantasía adulta opera como compensación de la esperanza muerta, no como prolongación viva de ella.\n3. **La bruja terminal**: cuando se pierde del todo la esperanza, el sujeto se convierte en BRUJA — ya no busca amor, busca poder. La transición opera por agotamiento del motor afectivo: cuando el deseo de ser amado deja de operar, el deseo de dominar lo sustituye estructuralmente.\n\nLa pieza enlaza con la sección 'el remordimiento como afecto del paraíso perdido': el remordimiento es el dolor del cruce ya producido; la muerte de la infancia es el evento mismo del cruce. Quien no integra el remordimiento — quien no sostiene el dolor del paraíso perdido — recorre la trayectoria completa hacia la bruja terminal donde ya no hay capacidad de elaboración afectiva, solo voluntad de poder.\n\n## La identidad infantil como complejo unificado: ser guapo = elegido = merecedor de amor\n\n> \"En la mente del niño ser guapo, ser elegido y ser merecedor de amor son el mismo concepto,\"\n→ [Análisis arquetípico de Los Rescatadores (1:28:16)](https://youtu.be/ryvi2Y7KYB8?t=5296)\n\n> \"La fealdad equivale a no ser elegible, no ser deseable; una madre convierte a su hijo en especial y en el más guapo del mundo simultáneamente,\"\n→ [Análisis arquetípico de Los Rescatadores (1:28:16)](https://youtu.be/ryvi2Y7KYB8?t=5296)\n\n> \"De adultos separamos estos conceptos por experiencia; de niños son una sola cosa que constituye la esperanza,\"\n→ [Análisis arquetípico de Los Rescatadores (1:28:16)](https://youtu.be/ryvi2Y7KYB8?t=5296)\n\nLa pieza articula la **estructura unificada** del aparato psíquico infantil que se diferencia con la maduración. El niño NO distingue entre estética, validación y afecto — los tres conforman una sola categoría operativa que constituye la esperanza misma. La función materna específica que el directo identifica (convertir al hijo en 'especial' y 'el más guapo del mundo' simultáneamente) opera precisamente sobre la unidad del complejo, no sobre cada componente por separado: la madre articula la categoría unificada que la esperanza requiere para operar.\n\nLa diferenciación adulta de los componentes (saber que ser guapo no garantiza ser elegido; saber que ser elegido no es la misma cosa que ser amado) ES una pérdida — pérdida de inocencia en sentido específico: el sujeto pierde la unidad operativa del complejo y queda con tres categorías independientes cuya alineación se vuelve trabajo permanente. La consecuencia diagnóstica es operativa: muchos cuadros narcisísticos adultos operan por intento de restitución de la unidad infantil — el sujeto busca confirmar que SIENDO guapo es elegido y siendo elegido es amado, restaurando la categoría perdida en lugar de aceptar su diferenciación.\n",
+      "wikilinks_introduced": [
+        "los-rescatadores-1977-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 5599,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:33:19)](https://youtu.be/ryvi2Y7KYB8?t=5599)"
+        },
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 5296,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:28:16)](https://youtu.be/ryvi2Y7KYB8?t=5296)"
+        }
+      ],
+      "rationale": "La página articula la inocencia como estado descriptivo, la taxonomía ingenuidad/inocencia/corrupción, el remordimiento como afecto del paraíso perdido. NO contiene: (1) la MUERTE DE LA INFANCIA como evento estructural específico (perder el anhelo de amor + la creencia en ser elegido) ni la cadena infancia→adulto-consumidor-de-fantasía→bruja-terminal; (2) la IDENTIDAD INFANTIL UNIFICADA (ser guapo = ser elegido = ser merecedor de amor) que el adulto separa por experiencia, ni la consecuencia diagnóstica (cuadros narcisísticos como intento de restitución de la unidad perdida). Material que extiende el aparato con dos articulaciones operativas nuevas y toca parcialmente la laguna 'inocencia adulta legítima'.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Es el dispositivo narrativo de la [[individuation]]: la psique se identifica con el viaje y vive en seguridad simbólica un proceso de integración real",
+      "content_proposed": "\n\n## Modalidades del cierre: sacrificio masculino innato, apoteosis colectivo, reina de ambos mundos\n\nEl monográfico sobre [[los-rescatadores-1977-film|Los Rescatadores]] (jun 2024) articula tres modalidades del cierre del monomito que la página tenía implícitas: el sacrificio masculino como mecánica innata pre-heroica, el apoteosis colectivo como alternativa al héroe-con-espada, y la reina de ambos mundos como última fase aplicada a la heroína infantil.\n\n### Sacrificio masculino innato: la mecánica pre-heroica\n\n> \"Bernardo no es valiente por heroísmo sino porque prefiere que le pase algo a él antes que a Bianca: mecánica innata del sacrificio masculino,\"\n→ [Análisis arquetípico de Los Rescatadores (1:39:22)](https://youtu.be/ryvi2Y7KYB8?t=5962)\n\n> \"Lo masculino protege a la diosa no para ganarse egoístamente su amor, sino para que ella pueda seguir dando amor a todo el mundo,\"\n→ [Análisis arquetípico de Los Rescatadores (52:25)](https://youtu.be/ryvi2Y7KYB8?t=3145)\n\nLa pieza articula la dimensión PRE-HEROICA del sacrificio masculino: no es virtud cultivada ni decisión moral, es mecánica innata que opera por preferencia preconsciente — el varón prefiere que le pase algo a él antes que a la diosa. La distinción es operativa frente al heroísmo cultivado del [[viaje-heroe|monomito]] clásico: aquel se construye, este precede a toda construcción. La función del sacrificio masculino innato no es ganarse el amor de la diosa (lectura egoísta) sino preservar la capacidad de la diosa de seguir dando amor a todos — protección de la fuente, no captación de su flujo.\n\n### Apoteosis colectivo: toda la psique acudiendo al rescate\n\n> \"El apoteosis no es un héroe con espada sino todos los animalitos del bosque juntándose: toda la psique yendo a ayudar,\"\n→ [Análisis arquetípico de Los Rescatadores (1:43:25)](https://youtu.be/ryvi2Y7KYB8?t=6205)\n\n> \"La psique buena reúne fuerzas de cooperación; la psique mala se pelea por ambición,\"\n→ [Análisis arquetípico de Los Rescatadores (1:43:25)](https://youtu.be/ryvi2Y7KYB8?t=6205)\n\n> \"Los unidos por ambición se separan por ambición: el pecado lleva a la catabasis de la que probablemente no se puede salir,\"\n→ [Análisis arquetípico de Los Rescatadores (1:43:25)](https://youtu.be/ryvi2Y7KYB8?t=6205)\n\nLa pieza articula una modalidad del momento culminante del monomito que la página tenía implícita: el apoteosis NO es siempre confrontación heroica individual con el dragón. En la fábula y en la fenomenología infantil, el apoteosis opera como **cooperación de todas las partes de la psique** — los animalitos del bosque uniéndose es figura de la psique entera convocando sus recursos. La distinción frente a la psique mala (que se pelea por ambición y se separa por la misma ambición que la unió) cierra el aparato: la cooperación NO es virtud moral exógena sino condición operativa de la psique sana. La psique enferma carece de la cooperación interna por estructura, no por elección, y por eso recorre la catabasis sin posibilidad estructural de salida.\n\n### Reina de ambos mundos: la última fase aplicada a la heroína infantil\n\n> \"La niña es reina de ambos mundos: reina de la fantasía y reina del mundo real, última fase del viaje del héroe,\"\n→ [Análisis arquetípico de Los Rescatadores (1:47:29)](https://youtu.be/ryvi2Y7KYB8?t=6449)\n\nLa pieza precisa la última fase campbelliana del monomito (regreso con el elixir) en clave infantil-fabulosa: la heroína no regresa con un don a un mundo singular sino que QUEDA COMO REINA SIMULTÁNEA de los dos mundos — el de la fantasía sostenedora y el del mundo real recuperado. La diferencia operativa frente al regreso clásico es categorial: el héroe adulto regresa al mundo único habiendo aprendido del otro; la heroína infantil retiene ambos mundos como territorios propios porque la fantasía NO se descarta al integrarse el rescate, se conserva como capacidad operativa que perpetúa la fábula. La cadena que cierra el directo (la siguiente aventura ya es enviar socorro, no recibirlo) articula esta operación: Penny no abandona el mundo de Bianca y Bernardo al ser rescatada, lo reasume invertido como agente.\n",
+      "wikilinks_introduced": [
+        "los-rescatadores-1977-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 5962,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:39:22)](https://youtu.be/ryvi2Y7KYB8?t=5962)"
+        },
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 3145,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (52:25)](https://youtu.be/ryvi2Y7KYB8?t=3145)"
+        },
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 6205,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:43:25)](https://youtu.be/ryvi2Y7KYB8?t=6205)"
+        },
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 6449,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:47:29)](https://youtu.be/ryvi2Y7KYB8?t=6449)"
+        }
+      ],
+      "rationale": "La página articula las dos fases masculinas del monomito (mi insert previo via Atrapado en el tiempo), sacrificio pasivo vs heroico (mi insert previo via Elemental), héroe truncado, antihéroe ordinario. NO contiene tres modalidades del cierre que el monográfico de Los Rescatadores articula: (1) sacrificio masculino INNATO como mecánica pre-heroica (preferencia preconsciente, no virtud cultivada); (2) apoteosis COLECTIVO como cooperación de toda la psique frente al héroe-con-espada — y la distinción correlativa entre psique buena (coopera) y psique mala (se pelea por ambición); (3) reina de AMBOS MUNDOS como última fase aplicada a la heroína infantil que retiene la fantasía como territorio operativo en lugar de descartarla.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El [[sofisma-estetico]] queda así complementado por el **sofisma constructivista**: la convicción de que la cultura es íntegramente fabricable a voluntad y que las dificultades culturales se resuelven necesariamente por más fabricación.",
+      "content_proposed": "\n\n## La destrucción específica de la fantasía infantil: el flanco pediátrico del aparato woke\n\nEl monográfico sobre [[los-rescatadores-1977-film|Los Rescatadores]] (jun 2024) articula el flanco pediátrico de la operación postmoderna que la página articulaba en plano cultural-adulto: la postmodernidad NO solo vacía la fantasía arquetípica adulta, ejecuta una operación específica sobre la fantasía infantil con consecuencias estructurales sobre el desarrollo psíquico del niño.\n\n> \"La postmodernidad dice que toda fantasía es un engaño y la reelabora como fantasía dramática, fea y desesperanzadora,\"\n→ [Análisis arquetípico de Los Rescatadores (1:06:35)](https://youtu.be/ryvi2Y7KYB8?t=3995)\n\n> \"Convierte al niño en huérfano pero le impide soñar para que no tenga sueños y no pueda evadirse de lo que el estado quiere meterle en la cabeza,\"\n→ [Análisis arquetípico de Los Rescatadores (1:06:35)](https://youtu.be/ryvi2Y7KYB8?t=3995)\n\nLa operación postmoderna sobre la fantasía infantil tiene **doble movimiento estructural**:\n\n1. **Reelaboración de la fantasía como dramática-fea-desesperanzadora**: la postmodernidad NO elimina la fantasía (sería imposible — el niño la produce por necesidad estructural), la sustituye por una versión que opera sin esperanza. El producto cultural infantil postmoderno conserva la apariencia de la fantasía (animales que hablan, mundos imaginarios, mecánicas extraordinarias) pero le sustrae el componente esperanzador que la fenomenología de la infancia requiere para sostener la cordura del niño abandonado o sufriente. La fantasía dramática, fea y desesperanzadora opera entonces como simulacro: parece fantasía pero no cumple su función psíquica.\n2. **Orfandad simbólica + impedimento del sueño**: el dispositivo simultáneamente convierte al niño en huérfano simbólico (lo desliga del árbol simbólico-familiar tradicional) Y le impide soñar como compensación. La consecuencia es estructural: el niño abandonado de los marcos simbólicos tradicionales que carece de capacidad de fantasía-esperanzadora queda sin recursos para evadirse de lo que el aparato cultural le impone — la fantasía dramática postmoderna NO es vehículo de evasión hacia lo posible sino confirmación de que no hay nada al otro lado.\n\nLa pieza articula así una dimensión específica del marco woke que las secciones anteriores trataban en plano cultural-adulto. La cuarta característica diagnóstica (víctimas en lugar de héroes) y la inversión adulto-niño documentada en [[harry-potter-saga|Harry Potter]] son síntomas culturales del mismo dispositivo: la fantasía postmoderna opera contra la función psíquica que la fantasía cumple en el niño sano. El caso operativo positivo — Los Rescatadores como fábula con esperanza arquetípica genuina — sirve como contraejemplo: muestra qué cumple la fantasía cuando no ha sido vaciada, y por contraste qué se sustrae cuando sí lo es.\n\nLa consecuencia diagnóstica para el aparato anti-constructivista articulado arriba: el constructivismo postmoderno no solo fabrica adversarios y soluciones que requieren más constructivismo, también **fabrica niños cuya capacidad de soñar ha sido neutralizada de antemano** — y por eso el bucle generacional se cierra sin posibilidad de salida desde dentro del propio dispositivo. Solo desde fuera del marco postmoderno (recuperación de fábulas con esperanza arquetípica genuina) puede reactivarse la función fantástica infantil, condición de posibilidad de cualquier desarrollo psíquico ulterior.\n",
+      "wikilinks_introduced": [
+        "los-rescatadores-1977-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 3995,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:06:35)](https://youtu.be/ryvi2Y7KYB8?t=3995)"
+        }
+      ],
+      "rationale": "La página articula el woke como vaciamiento arquetípico (cuatro características diagnósticas), pendiente resbaladiza, sofisma constructivista, iconografía del arcoíris, mis inserts previos. NO contiene la articulación específica del FLANCO PEDIÁTRICO del aparato: la postmodernidad reelabora la fantasía infantil como dramática-fea-desesperanzadora + convierte al niño en huérfano simbólico mientras le impide soñar. Es operación distinta del vaciamiento adulto general — opera sobre la función psíquica específica que la fantasía cumple en el niño sano. Material que extiende el aparato con su dimensión infantil específica.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza completa el aparato con su modalidad operativa: la triple diosa NO es solo mapa estático ni cadena descriptiva sino **secuencia performativa** que el sujeto actualiza sobre el entorno y, al hacerlo, restituye el arquetipo en sí.",
+      "content_proposed": "\n\n## Medusa como bruja terminal: el polo opuesto de la diosa\n\nEl monográfico sobre [[los-rescatadores-1977-film|Los Rescatadores]] (jun 2024) articula la figura de la **bruja terminal** como contraparte estructural completa del arquetipo de la diosa blanca: el sujeto femenino que ha perdido toda capacidad de comunicarse con el mundo y se alimenta de la esperanza ajena para subsistir.\n\n> \"La tienda de empeños es un lugar donde Medusa se alimenta de la esperanza de los demás obligándoles a vender sus sueños,\"\n→ [Análisis arquetípico de Los Rescatadores (1:07:36)](https://youtu.be/ryvi2Y7KYB8?t=4056)\n\n> \"Es una mezcla entre Úrsula y Cruella de Vil: lo femenino oscuro que ha perdido toda capacidad de comunicarse con el mundo,\"\n→ [Análisis arquetípico de Los Rescatadores (1:07:36)](https://youtu.be/ryvi2Y7KYB8?t=4056)\n\n> \"El peor mal interno es el mal femenino; el peor mal externo es el mal masculino,\"\n→ [Análisis arquetípico de Los Rescatadores (1:07:36)](https://youtu.be/ryvi2Y7KYB8?t=4056)\n\n> \"Condicionar el amor es el primer pecado de la madre oscura; la obsesión es la parte oscura de la esperanza,\"\n→ [Análisis arquetípico de Los Rescatadores (1:24:13)](https://youtu.be/ryvi2Y7KYB8?t=5053)\n\nLa pieza articula tres niveles que las secciones anteriores tenían dispersos:\n\n1. **El polo terminal del arquetipo femenino oscuro**: Medusa NO es ninfa ni mera bruja desligada — es la modalidad TERMINAL donde el femenino oscuro ya no busca conexión, comunión ni siquiera dominio relacional, solo extracción afectiva. La tienda de empeños como dispositivo metafórico es decisivo: el sujeto comercia con sueños ajenos porque carece de los propios, y la operación de obligar a otros a vender su esperanza es la única forma que conserva de sostener su existencia psíquica.\n2. **Asimetría del peor mal**: la pieza añade una articulación tipológica precisa que la página no contenía — el peor mal INTERNO es femenino (el mal que opera dentro del territorio simbólico, la deformación del polo afectivo-relacional) mientras el peor mal EXTERNO es masculino (el mal que viene de fuera, la confrontación destructiva). La asimetría es operativa para la lectura del corpus: la bruja terminal opera por dentro del territorio donde la diosa debería operar — su daño es ocupación del lugar arquetípico, no agresión desde fuera.\n3. **Condicionar el amor como primer pecado materno + obsesión como parte oscura de la esperanza**: la pieza precisa el mecanismo de transición desde la esperanza sana hacia su versión oscura. La obsesión NO es opuesta a la esperanza — es su modalidad oscura, la esperanza que ha perdido la apertura a múltiples objetos posibles y se ha cerrado sobre uno solo del que extrae todo el material afectivo. Condicionar el amor (si haces X recibirás afecto) es el primer pecado precisamente porque sustituye la esperanza abierta por la obsesión cerrada — el niño aprende que el amor NO es don sino transacción, y desarrolla obsesión correlativa hacia el cumplimiento de la condición que la madre impuso.\n\nLa pieza enlaza con la sección 'Cuarta forma: la madre oscura como vampira afectiva' añadida desde Fight Club: ambas figuras (Marla, Medusa) operan en el registro de la extracción afectiva, pero Medusa articula la modalidad TERMINAL donde el sujeto ya no es solo cáscara sin alma sino agente sistematizado de la operación extractiva (la tienda de empeños como infraestructura). La secuencia operativa puede leerse: madre oscura individual (Marla) → bruja terminal sistematizada (Medusa) → polo terminal del femenino oscuro donde la conexión con la diosa blanca queda completamente cancelada.\n\n### Bianca como caso operativo de la diosa ingenua\n\n> \"Las princesas son seres fabulosos protegidos para poder seguir viviendo en el mundo de fantasía y llevando esperanza,\"\n→ [Análisis arquetípico de Los Rescatadores (52:25)](https://youtu.be/ryvi2Y7KYB8?t=3145)\n\nLa contrapartida operativa de Medusa en el film es Bianca, articulada como caso de la **diosa ingenua al peligro POR FUNCIÓN, no por defecto**. Las secciones anteriores articulaban la diosa como influencia hipnótica, capacidad de presenciar el mal sin destrucción, secuencia performativa de los tres dones. La pieza añade que la INGENUIDAD AL PELIGRO de la diosa es funcional: tiene que mantenerse así para seguir dando esperanza al mundo. Si la diosa conociera plenamente el peligro al que se expone, perdería precisamente la capacidad que le permite operar como diosa — su fuerza opera por preservación de la apertura confiada que el peligro destruiría.\n\nLa función específica del polo masculino en relación con esa ingenuidad funcional cierra el aparato: el varón no protege a la diosa para ganarse su amor sino para que ella pueda seguir dando amor a todo el mundo. La estructura es asimétrica y complementaria — la ingenuidad funcional de la diosa requiere la prudencia funcional del varón como condición de su sostenibilidad operativa.\n",
+      "wikilinks_introduced": [
+        "los-rescatadores-1977-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 4056,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:07:36)](https://youtu.be/ryvi2Y7KYB8?t=4056)"
+        },
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 5053,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (1:24:13)](https://youtu.be/ryvi2Y7KYB8?t=5053)"
+        },
+        {
+          "video_id": "ryvi2Y7KYB8",
+          "timestamp_seconds": 3145,
+          "cite_markdown": "[Análisis arquetípico de Los Rescatadores (52:25)](https://youtu.be/ryvi2Y7KYB8?t=3145)"
+        }
+      ],
+      "rationale": "La página articula los tres dones, las tres formas del mal materno + cuarta forma (madre oscura como vampira afectiva, mi insert previo via Fight Club), tres dones como secuencia performativa (mi insert via Inocencia interrumpida). NO contiene: (1) Medusa como POLO TERMINAL del arquetipo femenino oscuro (extracción sistemática de esperanza ajena via tienda de empeños como dispositivo metafórico); (2) asimetría tipológica peor-mal-interno-femenino vs peor-mal-externo-masculino; (3) condicionar el amor como primer pecado + obsesión como parte oscura de la esperanza (transición desde la esperanza sana a su modalidad oscura); (4) Bianca como diosa INGENUA POR FUNCIÓN — la ingenuidad como condición operativa de seguir dando esperanza, no como defecto.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "fábula vs cuento de hadas (taxonomía canal-específica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica articulada con detalle: ficción → fantasía → fantasía arquetípica; cuento de hadas (con magia) vs fábula (sin magia). Categoría que enriquece generos-literarios-y-afectos. Sin lectura previa de esa página en este barrido, capturado en promote_new del film con wikilink.",
+      "quote_evidence": "La fantasía arquetípica con presunción de magia es cuento de hadas; sin magia, es fábula,",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción categorial canal-específica que merece enriquecimiento explícito a generos-literarios-y-afectos en barrido posterior tras lectura de esa página.",
+      "enriches_concept": "generos-literarios-y-afectos"
+    },
+    {
+      "surface_form": "Bernardo como Loco del Tarot",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación arquetípica del Loco del Tarot (Arcano 0) al personaje masculino de la fábula. Capturado en promote_new del film con wikilink a tarot-arquetipico.",
+      "quote_evidence": "Bernardo es el Loco del Tarot: el ser más alejado posible de la aventura, como el Hobbit que nunca ha salido de su agujero,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico"
+    },
+    {
+      "surface_form": "pantano como espacio arquetípico de lo insalubre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica del pantano (lugar donde nada puede crecer; lo desconocido dentro de lo desconocido habitado por brujas). Capturado en promote_new del film. Conecta con uranico-telurico-cetonico (lo telúrico-degenerado).",
+      "quote_evidence": "El pantano es el lugar donde nada puede crecer: sin luz, sin comunicación entre tierra y cielo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "dinámicas transaccionales: la psique habla consigo misma",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre cómo los personajes de la fábula representan elementos de la psique en diálogo consigo misma. Aplicación general del marco arquetípico-junguiano. Capturado en promote_new del film.",
+      "quote_evidence": "Los personajes representan elementos de la psique que se comunican entre sí mediante dinámicas transaccionales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "juego simbólico: objetos adultos reconvertidos en mundo infantil",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de la mecánica psíquica del juego simbólico (peine como escalera, dedal como papelera). Capturado en promote_new del film.",
+      "quote_evidence": "La elaboración del juego simbólico en la infancia consiste en quitar la importancia vital real a los objetos adultos y usarlos como lo que parecen,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "orfanato como pantano de la sociedad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica del orfanato como análogo social del pantano natural de Medusa. Capturado en promote_new del film.",
+      "quote_evidence": "El orfanato alberga a niños desligados de su árbol familiar, sin promesa de vida humana feliz,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "Margery Sharp (autora de la novela base)",
+      "reason_code": "passing_mention",
+      "reason_detail": "La película Disney está basada en la novela de Margery Sharp (1959). El directo no menciona explícitamente a la autora en el summary. Capturado como frontmatter-field en promote_new.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "Eurípides-ratón como cronista satírico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura intra-película de un personaje secundario. Sin valor enciclopédico independiente. Capturado en promote_new del film.",
+      "quote_evidence": "Eurípides-ratón como cronista satírico es un guiño a que los adultos también quieren ser niños para simplificar y comprender mejor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "ave azul y estrella como Venus / diosa madre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica del ave azul y la estrella como manifestaciones de Venus / diosa madre en la fenomenología infantil. Capturado en promote_new del film.",
+      "quote_evidence": "El ave azul y la estrella son Venus, la diosa madre: la fantasía no se puede comprar ni tocar pero existe para hacer los sueños realidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "tres capas de la mente infantil: fantasía, alucinación, diálogo interior",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica sobre tres procesos psíquicos posibles en la mente del niño abandonado (fantasía sostenedora vs alucinación de mente entrando en barrena vs auto-convicción explícita 'la fe hace que los sueños se hagan realidad'). Capturado en promote_new del film.",
+      "quote_evidence": "Los ratoncitos que llegan a la niña pueden ser la continuación de la fantasía o un proceso alucinatorio de una mente entrando en barrena,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    },
+    {
+      "surface_form": "polaridad invertida: feminidad osada y masculinidad delicada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la inversión polar en la pareja Bianca-Bernardo: ella es osada, él es delicado. La diosa elige al menos indicado. Capturado en promote_new del film.",
+      "quote_evidence": "La diosa elige al menos indicado; la polaridad está invertida: feminidad osada y masculinidad delicada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "los-rescatadores-1977-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 1,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[quien viene a salvarte ya es papá y mamá] reason=passing_mention quote no literal",
+    "WARN promote_new[Los Rescatadores (Disney, 1977)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

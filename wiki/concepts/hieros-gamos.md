@@ -157,6 +157,54 @@ El hieros gamos también funciona como **lente para detectar uniones disfunciona
 
 
 
+El monográfico de diciembre 2023 sobre [[eyes-wide-shut-1999-film|Eyes Wide Shut]] articula la película como caso paradigmático de UNA TERCERA MODALIDAD DE FRACASO del hieros gamos, distinta de la inversión satánica (Drácula) y de la sustitución sororal (Frozen): la **permanencia perpetua en la ambivalencia matrimonial**, donde la pareja ni renuncia al pecado ni se compromete con el amor.
+
+### El par ninfa-sátiro como configuración matrimonial inmadura
+
+> "El instinto fuerte dentro del hombre-sátiro y la mujer-ninfa les hace revivir continuamente la conquista,"
+→ [Análisis arquetípico de Eyes wide shut (56:37)](https://youtu.be/olX_-KIziX0?t=3397)
+
+> "Se casaron cerrando fuerte los ojos esperando que el matrimonio por sí mismo hiciera desaparecer las ganas de estar con otros,"
+→ [Análisis arquetípico de Eyes wide shut (56:37)](https://youtu.be/olX_-KIziX0?t=3397)
+
+> "El matrimonio no cierra una etapa sino que abre otra superpuesta: hay que construir el amor activamente cada día,"
+→ [Análisis arquetípico de Eyes wide shut (56:37)](https://youtu.be/olX_-KIziX0?t=3397)
+
+El par ninfa-sátiro articula la configuración matrimonial donde ambos cónyuges retienen la identidad pre-conyugal de ser deseados por terceros como núcleo afectivo. La unión polar genuina que el hieros gamos articula exige la operación inversa: cada cónyuge transfiere al otro la totalidad del deseo de ser deseado, abandonando la posición pre-matrimonial de ninfa-disponible o sátiro-conquistador. Cuando esa transferencia no ocurre — porque los cónyuges esperaron que el rito matrimonial la hiciera por ellos — el par retiene activos los dispositivos pre-conyugales y el matrimonio opera como adición sin sustracción: hay vínculo formal pero no hay sacralización afectiva del vínculo.
+
+### La sacralización como renuncia activa al deseo de ser deseado
+
+> "La sacralización del vínculo matrimonial requiere renunciar para siempre a que el ser objeto de deseo de terceros tenga importancia,"
+→ [Análisis arquetípico de Eyes wide shut (33:22)](https://youtu.be/olX_-KIziX0?t=2002)
+
+> "El único motivo por el que no se acuestan con otros no es el respeto al matrimonio sino el sentimiento de culpa,"
+→ [Análisis arquetípico de Eyes wide shut (33:22)](https://youtu.be/olX_-KIziX0?t=2002)
+
+> "El acto correcto por el motivo equivocado es equivocado,"
+→ [Análisis arquetípico de Eyes wide shut (33:22)](https://youtu.be/olX_-KIziX0?t=2002)
+
+La pieza articula con precisión qué condición negativa requiere el hieros gamos para consumarse: NO basta con la conducta exclusiva (no acostarse con terceros), se exige renuncia afectiva al lugar mismo donde el deseo de ser deseado opera. Si la conducta exclusiva se sostiene por culpa (mecanismo defensivo, evitación punitiva) en lugar de por sacralización (transferencia afectiva al cónyuge), el matrimonio queda formalmente intacto pero estructuralmente vacío. La fórmula 'el acto correcto por el motivo equivocado es equivocado' es operativa para todo el aparato de la página: el hieros gamos es operación afectiva-arquetípica, no comportamiento conductual disciplinado.
+
+### El final ambiguo: la negativa a comprometerse
+
+> "Ella dice \"no usemos para siempre, que me da miedo\": no se atreve a tomar la decisión de estar verdaderamente casada,"
+→ [Análisis arquetípico de Eyes wide shut (2:16:38)](https://youtu.be/olX_-KIziX0?t=8198)
+
+> "En lugar de comprometerse dice \"tengamos sexo\": volver a saciar el deseo para sentir que no lo necesitan fuera,"
+→ [Análisis arquetípico de Eyes wide shut (2:16:38)](https://youtu.be/olX_-KIziX0?t=8198)
+
+> "La ninfa y el sátiro no renuncian al pecado ni se comprometen con el amor: no hacen ninguna de las dos cosas,"
+→ [Análisis arquetípico de Eyes wide shut (2:16:38)](https://youtu.be/olX_-KIziX0?t=8198)
+
+El cierre fija la modalidad nueva en la taxonomía. El hieros gamos satánico (Drácula) lo invierte; el bucle sororal (Frozen) lo sustituye; aquí la pareja simplemente NO LO ATRAVIESA. La fórmula 'tengamos sexo' opera como sustituto operativo del 'comprometámonos': la satisfacción inmediata del deseo conyugal — que en la modalidad sana funciona como manifestación afectiva del compromiso ya consumado — opera aquí como dispositivo PARA NO TENER QUE COMPROMETERSE, manteniendo la antesala perpetua donde el rito matrimonial sigue siendo expectativa más que realidad. El miedo a 'usar para siempre' es miedo al colapso del estado superpuesto donde aún se puede ser ninfa o sátiro deseable mientras formalmente se está casado.
+
+### Caso operativo de la pendiente resbaladiza arquetípica
+
+El directo articula además la pendiente resbaladiza arquetípica que el matrimonio inmaduro recorre cuando uno de los cónyuges activa la mecánica de búsqueda del deseo externo. La cadena articulada: confesión transaccional como arma (1:00:11) → semilla del pánico simétrico (1:08:16) → desnudo médico como autoengaño (1:11:18) → tienda Arcoíris como umbral (1:25:32) → orgía ritualista (1:33:05) → expulsión del héroe fracasado (1:47:48). La pieza importa para el aparato del hieros gamos: la pendiente NO se recorre por elección moral sino por activación mecánica una vez que la sacralización del vínculo nunca operó realmente. La página propia [[eyes-wide-shut-1999-film]] desarrolla la cadena completa.
+
+
+
+
 ### Frozen: la sustitución del polar por bucle sororal
 
 El monográfico *Análisis arquetípico Frozen* articula una variante adicional del hieros gamos truncado: el dispositivo narrativo que **sustituye la conjunción polar por un bucle sororal entre iguales del mismo género**. La pieza opera como caso límite porque no es solo conjunción mal resuelta (como Drácula) ni asalto al matrimonio (como Eyes Wide Shut) — es la negación de la posibilidad misma del hieros gamos como horizonte deseable.
@@ -229,7 +277,44 @@ Esta conexión es importante: para [[jung-carl-gustav]] y la psicología analít
 
 Lectura antropológica del vínculo:
 
-> "La sacralización del sexo une a hombre y mujer por un vínculo inconsciente que no se puede deshacer. Los rituales orgásticos ofrecidos a la diosa tenían utilidad biológica: generar un vínculo intratribal imposible de otra forma."
+> "La sacralización del sexo une a hombre y mujer por un vínculo inconsciente que no se puede deshacer. Los rituales orgásticos ofrecidos a la diosa tenían utilidad biológica: generar un vínculo intratribal imposible de otra forma.
+
+
+## Atrapado en el tiempo: la consumación tras descenso terminal
+
+El monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] añade el caso operativo más extremo del corpus para el hieros gamos: la consumación tras la modalidad de descenso terminal documentada en la película, que requiere como condición previa la pérdida completa del centro masculino (suicidios recurrentes incluidos) antes de que la entrega sea posible.
+
+> "El Eros del héroe debe estar frenado por la diosa o su impulsividad estropeará el buen discurrir: demasiado fuego evapora el agua,"
+→ [Análisis arquetípico de atrapado en el tiempo. (50:17)](https://youtu.be/DwmV3c9-Xi0?t=3017)
+
+> "\"No lo estropees\" significa que la parte animal no destruya la espiritualidad que han creado juntos,"
+→ [Análisis arquetípico de atrapado en el tiempo. (50:17)](https://youtu.be/DwmV3c9-Xi0?t=3017)
+
+La pieza articula la condición negativa del hieros gamos por la vía de su fracaso reiterado. Phil intenta forzar la unión con Rita repitiendo el día y aplicando técnicas de seducción aprendidas; recibe bofetada tras bofetada porque confunde **deseo con amor** — no hay entrega, solo posesión:
+
+> "Phil recibe bofetada tras bofetada día tras día por confundir deseo con amor: no hay entrega, solo posesión,"
+→ [Análisis arquetípico de atrapado en el tiempo. (54:50)](https://youtu.be/DwmV3c9-Xi0?t=3290)
+
+La fórmula 'demasiado fuego evapora el agua' precisa la dinámica elemental: el héroe-fuego sin freno consume la dimensión-agua de la diosa antes de que el encuentro pueda cuajar. La condición operativa del hieros gamos no es solo la disponibilidad de los dos polos sino la **modulación del fuego masculino por la disposición de entrega**, y la modulación no se aprende por estrategia (Phil recopila información, finge conocimiento, ensaya gestos) — solo se obtiene por agotamiento del Eros depredador.
+
+### La consumación elemental: fuego + aire + tierra + agua
+
+> "El héroe que antes era fuego pasa a tener fuego y aire a través de lo que aprende de la diosa; el hierosgamos se consuma con el beso y la nieve,"
+→ [Análisis arquetípico de atrapado en el tiempo. (1:07:56)](https://youtu.be/DwmV3c9-Xi0?t=4076)
+
+La pieza completa la elementología del hieros gamos que la sección 'Las tres partes del esquema' (catábasis/anábasis/égersis) tenía en plano de movimiento vertical sin componer con el aparato de los [[cuatro-elementos-arquetipicos|cuatro elementos]]. Atrapado en el tiempo articula explícitamente la composición elemental:
+
+- Phil pre-descenso = **fuego** puro (Eros, impulso solar sin freno)
+- Rita = **agua** (gracia, escucha, sostén afectivo)
+- Pueblo de Punxsutawney = **tierra** (cuerpo cotidiano, carne común)
+- Phil pos-cultivo = añade **aire** al fuego (palabra inteligible, capacidad de discurso humano que conmueve al pueblo entero)
+
+La consumación final con el beso y la nieve cierra los cuatro elementos: el héroe completo es ya fuego-aire (solar-articulado) sobre la tierra (pueblo) que recibe agua (la gracia de Rita y la nieve simultáneas). 'La nieve oscura y sucia se convierte en el día más bonito del mundo' es la traducción elemental del cumplimiento: el agua-tierra que era invierno opresor deviene paisaje radiante porque el héroe ya no pide ser amado — se entrega como sostén del entorno entero.
+
+### Caso del hieros gamos tras descenso suicida: condición negativa de la égersis
+
+La modalidad documentada articula una condición negativa del esquema égersis que las secciones anteriores no recogían: para algunos casos masculinos, la égersis (gran anábasis hacia los cielos) requiere paso previo por la modalidad más extrema de catábasis — los suicidios recurrentes de Phil son el equivalente narrativo del descenso al Hades en otros mitos. Sin esa fase, la fase ascendente queda incompleta: el héroe no aprende a soltar el control porque nunca lo perdió completamente. La pieza completa el aparato con un caso límite: hay configuraciones masculinas donde el agua de la diosa solo puede operar tras la extinción completa del fuego depredador, y ese acto es indistinguible operacionalmente de la muerte simbólica.
+"
 → [Femenino (I), 34:28](https://youtu.be/VR3snBjNrsc?t=2068)
 
 ## Lagunas
@@ -239,6 +324,9 @@ Lectura antropológica del vínculo:
 - **Crítica feminista al concepto** (riesgo de esencializar masculino/femenino) — el canal toca el tema en otros vídeos pero no lo articula contra el modelo polar
 
 ## Citations
+
+
+
 
 
 
@@ -268,4 +356,7 @@ Lectura antropológica del vínculo:
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
 - **Presentación del Libro: Polaris** — chunks: [32:05](https://youtu.be/rLeMS4-XFrA?t=1925) · [1:23:09](https://youtu.be/rLeMS4-XFrA?t=4989)
 - **Seguimos con Tolkien** — chunks: [1:00:29](https://youtu.be/OGah7BFoR3w?t=3629)
+- **Análisis arquetípico de Elemental** — chunks: [1:04:43](https://youtu.be/p8ZInoDuE50?t=3883)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477) · [15:32](https://youtu.be/yAIPr0HzQqE?t=932) · [17:03](https://youtu.be/yAIPr0HzQqE?t=1023) · [25:14](https://youtu.be/yAIPr0HzQqE?t=1514)
 

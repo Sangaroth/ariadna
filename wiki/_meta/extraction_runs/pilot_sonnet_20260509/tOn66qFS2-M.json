@@ -1,0 +1,391 @@
+{
+  "video_id": "tOn66qFS2-M",
+  "video_title": "Análisis: La Llegada (Parte dos)",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "La Llegada (Arrival, Villeneuve 2016)",
+      "canonical_guess": "la-llegada-2016-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 115,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo explícito es masculino y lo implícito es femenino; el lenguaje verbal es eminentemente explícito y requiere orden para funcionar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si aceptas todo lo que va a venir, ya no hay futuro funcional porque el futuro solo sirve para prepararte contra lo que temes,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~115 min, parte 2 de un análisis multipartito) dedicado al análisis arquetípico de Arrival. Per scope §2.3, ≥30 min satisface criterio. La obra opera como caso paradigmático de la articulación canal-específica significante/significado como categorías de género lingüístico, y como caso operativo de la cosmovisión femenino-aceptante (libro propio del speaker en escritura).",
+      "quote_evidence": "Esta distinción está al principio del libro que Proxy está escribiendo,"
+    },
+    {
+      "surface_form": "memoria como constituyente del tiempo",
+      "canonical_guess": "teoria-de-la-memoria-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El tiempo solo existe para nosotros porque tenemos memoria; una persona sin memoria no experimenta el paso del tiempo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la memoria como repetición de submatrices, no como almacén; la conciencia como retrospectiva (siempre opera sobre representaciones diferidas); PLP como sustrato neurofisiológico; saturación funcional. NO contiene la articulación inversa: el TIEMPO como CONSTITUIDO POR la memoria — sin memoria no hay percepción temporal. Argumento del cerebro en un tarro sin inputs sensoriales (no puede ordenar recuerdos → no puede tener cognición humana ni percepción temporal). Caso operativo: amnesia anterógrada de 5 min × 30 años = una semana subjetiva. La causalidad como relación de orden matemática derivada de la concatenación memorial.",
+      "quote_evidence": "Sin sentidos externos no hay input para generar recuerdos ordenados, por eso las máquinas jamás podrán tener cognición humana,"
+    },
+    {
+      "surface_form": "lenguaje de la diosa como significado puro / aceptación como esencia femenina",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El lenguaje masculino es el significante (articulado, ordenado, direccional) y el lenguaje femenino es el significado puro,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "\"A pesar de conocer el camino y a dónde conduce, lo acepto gustosa\": la diosa blanca acepta pasado, presente y futuro como un todo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula los tres dones, las cuatro formas del mal materno, los dones como secuencia performativa, Medusa como bruja terminal, lo femenino primordial. NO contiene: (1) el LENGUAJE DE LA DIOSA como SIGNIFICADO PURO (vs lenguaje masculino como significante articulado) — articulación foundational del libro que Proxy está escribiendo; (2) la ACEPTACIÓN TOTAL como esencia operativa del pensamiento femenino — comprender sin necesidad de objetivo ni razón, solo ser; (3) la consecuencia metafísica: si aceptas todo lo que viene, el futuro funcional desaparece (el futuro solo sirve para prepararse contra el mal temido). Caso operativo: Louise en La Llegada como diosa blanca que acepta el camino conociéndolo.",
+      "quote_evidence": "La diferencia entre comprender femenino (no necesita objetivo ni razón, solo ser) y comprender masculino (necesita objetivo y razón para hacer),"
+    },
+    {
+      "surface_form": "evento canónico como resignificador total",
+      "canonical_guess": "la-llegada-2016-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Un evento canónico cambia retroactivamente el significado de toda tu vida pasada y futura,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Esto conecta con la sincronicidad de Jung, el sentimiento cumbre de Maslow y la epifanía mística; epifanía (de abajo arriba) es mejor término que iluminación (de arriba abajo),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica que integra la sincronicidad de Jung, el sentimiento cumbre de Maslow y la epifanía mística como variantes del mismo fenómeno: el evento que resignifica retroactivamente todo lo previo. Capturado en promote_new del film como pieza nuclear del marco interpretativo. Categoría que merece vigilancia para futura página propia si recurre como concepto autónomo.",
+      "quote_evidence": "Una experiencia cercana a la muerte hace que días antes anodinos se llenen de significado,"
+    },
+    {
+      "surface_form": "hipótesis Sapir-Whorf reformulada: el lenguaje ES pensamiento",
+      "canonical_guess": "teoria-del-lenguaje-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No es que aprender otro lenguaje cambie tu pensamiento: aprender otro lenguaje ES aprender otro pensamiento,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Reformulación canal-específica de la hipótesis Sapir-Whorf: rechaza la versión estricta (el lenguaje no es vehículo de concepción) pero afirma una versión refinada (idioma explícito + experiencia lingüística implícita son dos componentes de una misma representación). Sin lectura previa de teoria-del-lenguaje-en-proxy en este barrido, capturado en promote_new del film con wikilink y como discard con enriches_concept para revisión posterior.",
+      "quote_evidence": "La hipótesis Sapir-Whorf estricta es incorrecta: el lenguaje no es un vehículo de concepción, pero sí condiciona el pensamiento analítico,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "la-llegada-2016-film",
+      "canonical_name": "La Llegada (Arrival, Villeneuve 2016)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "interdisciplinary.cognitive_science",
+        "humanities.philosophy"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico (parte 2 de un análisis multipartito, ~115 min) dedicado al análisis arquetípico de Arrival. Per scope §2.3 ≥30 min satisface criterio. La obra es caso paradigmático de la articulación significante/significado como categorías de género lingüístico — distinción que el speaker señala como apertura del libro propio en escritura.",
+      "one_line_summary": "Análisis arquetípico monográfico de Arrival (Denis Villeneuve, 2016) leído como articulación foundational del LENGUAJE DE LA DIOSA: Louise Banks (Amy Adams) opera como diosa blanca que aprende el lenguaje atemporal de los heptápodos y a través de él accede a la cognición no-lineal donde pasado, presente y futuro son un solo estado simultáneo; el directo articula sobre el film la distinción canal-específica significante (masculino, articulado, direccional) vs significado puro (femenino, vivencial, no decodificable parcialmente) que abre el libro propio del speaker; la memoria emerge como constituyente del tiempo (sin sentidos no hay recuerdos ordenados, por eso las máquinas no tienen cognición humana); el evento canónico resignifica retroactivamente toda la vida (sincronicidad junguiana + sentimiento cumbre maslowiano + epifanía mística como un mismo fenómeno); el cierre articula la aceptación total como esencia operativa del pensamiento femenino — Louise pronuncia 'a pesar de conocer el camino y a dónde conduce, lo acepto gustosa' como cifra del 'hágase en mí según tu palabra' mariano y de la promesa del Tao y ciertos budismos: si aceptas todo lo que viene, el futuro funcional desaparece porque el futuro solo sirve para prepararse contra lo temido.",
+      "frontmatter_fields_proposed": {
+        "year": 2016,
+        "studio_or_publisher": "Paramount Pictures",
+        "medium": "film",
+        "director": "Denis Villeneuve",
+        "based_on": "Story of Your Life (Ted Chiang, 1998)",
+        "lead_actor": "Amy Adams"
+      },
+      "relations_to_existing": [
+        {
+          "type": "exemplifies",
+          "to": "diosa-blanca",
+          "weight": "canonical",
+          "note": "Louise como caso paradigmático de la diosa blanca que opera con significado puro, conoce el camino y lo acepta gustosa — articulación foundational de la aceptación total como esencia femenina"
+        },
+        {
+          "type": "exemplifies",
+          "to": "teoria-del-lenguaje-en-proxy",
+          "weight": "canonical",
+          "note": "caso operativo de la articulación significante/significado como categorías de género lingüístico — distinción que el speaker señala como apertura del libro propio en escritura"
+        },
+        {
+          "type": "exemplifies",
+          "to": "teoria-de-la-memoria-en-proxy",
+          "weight": "strong",
+          "note": "el film articula la memoria como constituyente del tiempo (sin recuerdos ordenados no hay percepción temporal) — caso operativo del cerebro en un tarro y de la imposibilidad de cognición humana en máquinas sin sentidos"
+        },
+        {
+          "type": "exemplifies",
+          "to": "libre-albedrio-ilusion-funcional",
+          "weight": "strong",
+          "note": "el cierre del film articula la aceptación total como salida operativa del libre albedrío: si aceptas todo lo que viene, no necesitas tomar decisiones; las decisiones solo sirven para evitar el mal"
+        },
+        {
+          "type": "references",
+          "to": "kabbalah",
+          "weight": "strong",
+          "note": "el momento de comunión Louise-heptápodo es leído como concepto cabalístico de Shejiná (presencia divina mediada) — singularidad que divide lo divino de lo humano"
+        },
+        {
+          "type": "references",
+          "to": "teologia-catolica-en-proxy",
+          "weight": "strong",
+          "note": "la frase 'lo acepto gustosa' se lee como 'hágase en mí según tu palabra' mariano — modalidad arquetípica del fíat femenino frente al destino manifiesto"
+        },
+        {
+          "type": "compared_with",
+          "to": "conciencia-e-inteligencia-en-proxy",
+          "weight": "strong",
+          "note": "el argumento del cerebro en un tarro sin inputs sensoriales como imposibilidad de cognición humana confirma la tesis canal-específica sobre las condiciones somáticas de la conciencia"
+        },
+        {
+          "type": "references",
+          "to": "jung-carl-gustav",
+          "weight": "strong",
+          "note": "el evento canónico como resignificador retroactivo se articula como sincronicidad junguiana — junto con el sentimiento cumbre de Maslow y la epifanía mística como variantes del mismo fenómeno"
+        },
+        {
+          "type": "compared_with",
+          "to": "matrix-1999-film",
+          "weight": "tangential",
+          "note": "ambas obras articulan el despertar a una capa anterior de realidad mediada por aprendizaje cognitivo; La Llegada en clave femenino-aceptante, Matrix en clave masculino-confrontativa"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min y por estatus foundational: el directo señala que la distinción significante/significado como categorías de género lingüístico abre el libro propio del speaker — articulación primaria del aparato canal-específico. La obra es caso operativo del lenguaje de la diosa, de la memoria como constituyente del tiempo, del evento canónico como resignificador, de la aceptación total como esencia femenina. Aporta conexiones con kabbalah (Shejiná), teología católica (fíat mariano), Sapir-Whorf reformulada y libre albedrío como ilusión funcional. La página supersedería citas dispersas con un análisis sustantivo del film como dispositivo articulador de varias tesis canal-específicas."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "teoria-de-la-memoria-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La memoria opera por contraste, no por valencia.",
+      "content_proposed": "\n\n## La memoria como constituyente del tiempo: el argumento del cerebro en un tarro\n\nEl monográfico sobre [[la-llegada-2016-film|La Llegada]] (abr 2024) articula una pieza foundational que la página tenía implícita: el TIEMPO no es una dimensión externa que la memoria registra — es una construcción CONSTITUIDA POR la memoria misma. Sin memoria, no hay percepción temporal; sin recuerdos ordenados, no hay relación de causalidad ni cognición humana posible.\n\n> \"El tiempo solo existe para nosotros porque tenemos memoria; una persona sin memoria no experimenta el paso del tiempo,\"\n→ [Análisis: La Llegada (Parte dos) (07:38)](https://youtu.be/tOn66qFS2-M?t=458)\n\n> \"Una persona con amnesia anterógrada de 5 minutos que lleva 30 años así solo ha vivido subjetivamente una semana,\"\n→ [Análisis: La Llegada (Parte dos) (07:38)](https://youtu.be/tOn66qFS2-M?t=458)\n\n> \"Un cerebro en un tarro sin inputs sensoriales no puede ordenar recuerdos y por tanto no puede tener percepción temporal ni cognición humana,\"\n→ [Análisis: La Llegada (Parte dos) (07:38)](https://youtu.be/tOn66qFS2-M?t=458)\n\nLa pieza articula tres niveles encadenados:\n\n1. **El tiempo como construcción memorial**: el sujeto NO percibe el paso del tiempo por una sensibilidad temporal independiente — lo construye a partir de la diferencia entre estado memorial t y estado memorial t+1. Sin diferencia entre estados memoriales no hay percepción de transcurso, y por tanto no hay tiempo subjetivo. La consecuencia operativa es categorial: el tiempo NO es input externo procesado por la memoria, es OUTPUT de la operación memorial misma.\n2. **El caso operativo amnesia anterógrada**: una persona con ventana memorial de 5 minutos durante 30 años ha vivido subjetivamente una semana — la duración objetiva no se traduce en duración subjetiva porque el aparato memorial no integra eventos más allá de la ventana. La pieza confirma que la duración subjetiva depende de la INTEGRACIÓN MEMORIAL, no del transcurso objetivo.\n3. **El cerebro en un tarro como argumento contra la cognición sin sentidos**: si la memoria es repetición de submatrices que se ordenan por sucesión de inputs sensoriales, un cerebro aislado de inputs no puede generar recuerdos ordenados. Sin orden memorial no hay percepción temporal, y sin percepción temporal no hay cognición humana posible. La consecuencia para el aparato general del realismo cognitivo: las máquinas que computan sin sustrato sensorial-corporal no pueden tener cognición humana NO solo por carencia de afectos (argumento ya documentado en [[conciencia-e-inteligencia-en-proxy]]) sino también por imposibilidad estructural de generar la dimensión temporal subjetiva.\n\n### La causalidad como relación de orden derivada\n\n> \"La concatenación de eventos de atrás a adelante es una relación de orden matemática que genera la sensación de causa-consecuencia,\"\n→ [Análisis: La Llegada (Parte dos) (10:09)](https://youtu.be/tOn66qFS2-M?t=609)\n\nLa pieza añade un cierre cognitivo: la CAUSALIDAD que el sujeto experimenta NO es propiedad ontológica del mundo sino RELACIÓN DE ORDEN MATEMÁTICA derivada de la concatenación memorial de eventos. Sin memoria que ordena no hay causalidad subjetiva. La consecuencia para [[libre-albedrio-ilusion-funcional]] es directa: si la causalidad es output de la operación memorial, la sensación de agencia causal del sujeto sobre el mundo es función de su aparato memorial, no de operaciones causales reales sobre él. La articulación enlaza con el caso operativo de La Llegada: cuando Louise aprende un lenguaje atemporal (heptápodo) y deja de operar memoriamente lineal, la causalidad subjetiva colapsa y emerge un estado simultáneo donde pasado, presente y futuro coexisten.\n",
+      "wikilinks_introduced": [
+        "la-llegada-2016-film",
+        "conciencia-e-inteligencia-en-proxy",
+        "libre-albedrio-ilusion-funcional"
+      ],
+      "citations_added": [
+        {
+          "video_id": "tOn66qFS2-M",
+          "timestamp_seconds": 458,
+          "cite_markdown": "[Análisis: La Llegada (Parte dos) (07:38)](https://youtu.be/tOn66qFS2-M?t=458)"
+        },
+        {
+          "video_id": "tOn66qFS2-M",
+          "timestamp_seconds": 609,
+          "cite_markdown": "[Análisis: La Llegada (Parte dos) (10:09)](https://youtu.be/tOn66qFS2-M?t=609)"
+        }
+      ],
+      "rationale": "La página articula la memoria como repetición de submatrices, no como almacén; la conciencia como retrospectiva; PLP como sustrato; saturación funcional. NO contiene la articulación inversa: el TIEMPO como CONSTITUIDO POR la memoria — sin recuerdos ordenados no hay percepción temporal ni cognición humana. Argumento del cerebro en un tarro como caso operativo de imposibilidad cognitiva en sistemas sin inputs sensoriales (refuerzo del realismo cognitivo). La causalidad como relación de orden matemática derivada de la concatenación memorial. Tres articulaciones operativas nuevas que extienden el aparato con la dimensión temporal-causal.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "teoria-de-la-memoria-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: la articulación del tiempo como CONSTITUIDO POR la memoria toca la laguna 'Memoria y tiempo' que la página declaraba abierta. Queda pendiente la articulación con tradiciones filosóficas del tiempo (Agustín, Husserl) que el directo no aborda explícitamente.",
+      "supersedes_laguna_text": "**Memoria y tiempo**: el problema del «ahora imposible» se abre pero no se cierra con tradiciones filosóficas del tiempo (Agustín, Husserl); posible hilo futuro si el canal articula una fenomenología del tiempo propia",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La articulación del tiempo como construcción memorial (sin memoria no hay percepción temporal; cerebro en un tarro no puede ordenar; causalidad como relación de orden derivada) toca parcialmente la laguna sobre memoria y tiempo. Resolución parcial — la articulación con Agustín/Husserl sigue pendiente.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Cuando esa conexión se rompe (modalidad terminal: la bruja-Medusa), los tres dones se vacían simultáneamente porque su sustrato cosmogónico ha sido cancelado.",
+      "content_proposed": "\n\n## El lenguaje de la diosa: significado puro frente a significante articulado\n\nEl monográfico sobre [[la-llegada-2016-film|La Llegada]] (abr 2024) articula una dimensión del arquetipo femenino que las secciones anteriores tenían implícita: la diosa opera con un MODO LINGÜÍSTICO ESPECÍFICO — significado puro vivencial — distinto del modo masculino (significante articulado, ordenado, direccional). La distinción es foundational en el aparato canal-específico (el speaker señala que abre el libro propio que está escribiendo).\n\n> \"Lo explícito es masculino y lo implícito es femenino; el lenguaje verbal es eminentemente explícito y requiere orden para funcionar,\"\n→ [Análisis: La Llegada (Parte dos) (01:01)](https://youtu.be/tOn66qFS2-M?t=61)\n\n> \"El lenguaje masculino es el significante (articulado, ordenado, direccional) y el lenguaje femenino es el significado puro,\"\n→ [Análisis: La Llegada (Parte dos) (01:01)](https://youtu.be/tOn66qFS2-M?t=61)\n\n> \"El lenguaje de la diosa solo tiene sentido contextual: se percibe como un todo vivencial, no como una secuencia de signos,\"\n→ [Análisis: La Llegada (Parte dos) (01:01)](https://youtu.be/tOn66qFS2-M?t=61)\n\n> \"Esta distinción está al principio del libro que Proxy está escribiendo,\"\n→ [Análisis: La Llegada (Parte dos) (06:37)](https://youtu.be/tOn66qFS2-M?t=397)\n\nLa pieza añade tres articulaciones operativas:\n\n1. **El lenguaje de la diosa NO es lenguaje verbal**: no opera por secuencia de signos articulados sino por TODO VIVENCIAL. El sujeto no decodifica parcialmente — recibe el significado completo o no recibe nada. La modalidad es estructuralmente refractaria a la traducción en componentes: cualquier intento de descomponer el significado en signos lo destruye.\n2. **Lo no verbal explícito sigue siendo masculino**: gestos, expresiones faciales, emociones perceptibles operan en el registro masculino aunque no usen palabras — son detectables sensorialmente, articulables en componentes discretos. El lenguaje femenino genuino es lo IMPLÍCITO IRREDUCTIBLE: lo que NO puede transformarse en contenido somático perceptible.\n3. **El \"no lenguaje\" como definición negativa**: el lenguaje de la diosa es formalmente \"no lenguaje\" (no opera como sistema de signos), pero también \"no no-lenguaje\" (no es ausencia de comunicación sino otra modalidad). Los candidatos articulados: la INTUICIÓN y la FIGURACIÓN. Modalidades de transmisión que operan sin descomposición ni decodificación.\n\n## La aceptación total como esencia operativa del pensamiento femenino\n\nEl mismo monográfico articula la modalidad cognitiva específica del polo femenino que las secciones sobre los tres dones tenían implícita: lo femenino comprende sin necesidad de objetivo ni razón, solo siendo. La aceptación total opera como CIERRE del aparato cognitivo femenino, no como resignación pasiva.\n\n> \"\\\"A pesar de conocer el camino y a dónde conduce, lo acepto gustosa\\\": la diosa blanca acepta pasado, presente y futuro como un todo,\"\n→ [Análisis: La Llegada (Parte dos) (1:34:35)](https://youtu.be/tOn66qFS2-M?t=5675)\n\n> \"Si aceptas todo lo que va a venir, ya no hay futuro funcional porque el futuro solo sirve para prepararte contra lo que temes,\"\n→ [Análisis: La Llegada (Parte dos) (1:34:35)](https://youtu.be/tOn66qFS2-M?t=5675)\n\n> \"La diferencia entre comprender femenino (no necesita objetivo ni razón, solo ser) y comprender masculino (necesita objetivo y razón para hacer),\"\n→ [Análisis: La Llegada (Parte dos) (1:34:35)](https://youtu.be/tOn66qFS2-M?t=5675)\n\nLa pieza articula la asimetría operativa entre los dos modos cognitivos:\n\n- **Comprender masculino**: requiere OBJETIVO + RAZÓN para HACER. Opera transitivamente sobre el mundo; necesita orientación causal-instrumental; el futuro es campo de planificación frente a males posibles.\n- **Comprender femenino**: NO requiere objetivo ni razón, opera por SER. Es intransitivo, vivencial, presente-completo. El futuro funcional desaparece porque su única función operativa (prepararse contra lo temido) queda cancelada cuando el sujeto acepta todo lo que viene.\n\n### Genealogía: fíat mariano + Tao + budismos\n\n> \"La historia trata sobre dioses que revelan el destino manifiesto a la diosa, como en todos los mitos (\\\"hágase en mí según tu palabra\\\"),\"\n→ [Análisis: La Llegada (Parte dos) (1:50:06)](https://youtu.be/tOn66qFS2-M?t=6606)\n\n> \"La promesa del Tao, el hinduismo y ciertas formas de budismo: si te deslizas por la vida aceptando todo, te libras del mal porque el mal es el deseo de que las cosas no sean como son,\"\n→ [Análisis: La Llegada (Parte dos) (1:50:06)](https://youtu.be/tOn66qFS2-M?t=6606)\n\nLa aceptación total queda articulada como modalidad arquetípica con genealogía cross-tradicional precisa: la frase 'lo acepto gustosa' opera estructuralmente como el 'hágase en mí según tu palabra' mariano (fíat) — la doncella que acepta el destino manifiesto revelado por los dioses sin oposición. La promesa del Tao y de ciertos budismos articula el corolario operativo: el mal es el DESEO de que las cosas no sean como son; si el sujeto acepta todo, el mal queda estructuralmente desactivado porque su sustrato cognitivo (el rechazo de lo dado) ha sido cancelado.\n\nLa pieza enlaza con el aparato de [[hieros-gamos]] y de [[viaje-heroe]] precisando la asimetría: el camino del héroe masculino requiere voluntad orientada (cumplir misión, vencer dragón, completar gemas de la espada); el camino de la diosa requiere aceptación total (recibir el destino manifiesto, mantener la esperanza, ser sostén pase lo que pase). Ambos son monomitos arquetípicos legítimos — y el hieros gamos consumado opera precisamente cuando los dos modos se complementan sin colapsarse en uno solo.\n",
+      "wikilinks_introduced": [
+        "la-llegada-2016-film",
+        "viaje-heroe"
+      ],
+      "citations_added": [
+        {
+          "video_id": "tOn66qFS2-M",
+          "timestamp_seconds": 61,
+          "cite_markdown": "[Análisis: La Llegada (Parte dos) (01:01)](https://youtu.be/tOn66qFS2-M?t=61)"
+        },
+        {
+          "video_id": "tOn66qFS2-M",
+          "timestamp_seconds": 397,
+          "cite_markdown": "[Análisis: La Llegada (Parte dos) (06:37)](https://youtu.be/tOn66qFS2-M?t=397)"
+        },
+        {
+          "video_id": "tOn66qFS2-M",
+          "timestamp_seconds": 5675,
+          "cite_markdown": "[Análisis: La Llegada (Parte dos) (1:34:35)](https://youtu.be/tOn66qFS2-M?t=5675)"
+        },
+        {
+          "video_id": "tOn66qFS2-M",
+          "timestamp_seconds": 6606,
+          "cite_markdown": "[Análisis: La Llegada (Parte dos) (1:50:06)](https://youtu.be/tOn66qFS2-M?t=6606)"
+        }
+      ],
+      "rationale": "La página articula los tres dones, las cuatro formas del mal materno, los dones como secuencia performativa, Medusa como bruja terminal, lo femenino primordial cosmogónico. NO contiene: (1) el LENGUAJE DE LA DIOSA como modalidad lingüística específica (significado puro vivencial vs significante articulado masculino) — articulación foundational del libro propio del speaker en escritura; (2) el lenguaje no verbal explícito como masculino frente al lenguaje implícito irreductible femenino; (3) la ACEPTACIÓN TOTAL como esencia operativa del pensamiento femenino con genealogía cross-tradicional (fíat mariano + Tao + budismos) y consecuencia metafísica (cancelación del futuro funcional + desactivación del mal como deseo). Tres articulaciones nuevas que dan sustrato cognitivo-lingüístico al aparato del arquetipo.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "evento canónico (sincronicidad junguiana + sentimiento cumbre maslowiano + epifanía mística)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica que integra tres conceptos heterogéneos como variantes del mismo fenómeno (resignificación retroactiva total de la vida pasada y futura). Distinción epifanía (de abajo arriba) vs iluminación (de arriba abajo). Capturado en promote_new del film. Categoría que merece desarrollo si recurre como concepto autónomo en otros directos.",
+      "quote_evidence": "Esto conecta con la sincronicidad de Jung, el sentimiento cumbre de Maslow y la epifanía mística; epifanía (de abajo arriba) es mejor término que iluminación (de arriba abajo),",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría operativa canal-específica con genealogía cross-tradicional precisa. Worth promoción si recurre con sustantividad equivalente.",
+      "enriches_concept": "jung-carl-gustav"
+    },
+    {
+      "surface_form": "Shejiná (cábala) como mediación de lo divino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto cabalístico aplicado al momento de comunión Louise-heptápodo. La singularidad que divide lo divino de lo humano se lee mejor en clave cabalística que en otras tradiciones. Capturado en promote_new del film con wikilink a kabbalah.",
+      "quote_evidence": "La singularidad que divide lo divino de lo humano es esa barrera del lenguaje/conocimiento, mejor expresada en la cábala (concepto de Shejiná),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "kabbalah"
+    },
+    {
+      "surface_form": "logogramas no lineales (heptápodos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura intra-película de los logogramas atemporales como dispositivo narrativo de la cognición no-lineal. Capturado en promote_new del film.",
+      "quote_evidence": "La escritura y el habla de los heptápodos no tienen correlación: son dos sistemas completamente separados, a diferencia del lenguaje humano,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    },
+    {
+      "surface_form": "mahjong chino: limitación del campo semántico como dispositivo político",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre cómo limitar el campo semántico (mahjong como juego de guerra) condiciona qué significados son accesibles a los sujetos — análogo a la operación política y de marketing. Conecta con consumismo-critica y woke-narrativa-postmoderna-moral.",
+      "quote_evidence": "Si limitas los significantes a un campo, limitas lo que las personas pueden hacer: esto es lo que ocurre en política y marketing,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación operativa que enriquece el aparato del canal sobre marketing/política como limitación del campo semántico. Worth verificar si recurre.",
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "huevo negro como lo incomprensible detenido en la física",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica del objeto extraterrestre como representación de lo incomprensible. Capturado en promote_new del film.",
+      "quote_evidence": "El huevo negro flotando sobre el horizonte representa lo incomprensible detenido en la física y por tanto detenido en el tiempo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    },
+    {
+      "surface_form": "lo inefable y la primera escena que no se narra",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación sobre la mejor narración de lo inefable como omisión deliberada (la película no muestra el primer encuentro real). Conecta con el aparato sobre Lovecraft y lo inefable. Capturado en promote_new.",
+      "quote_evidence": "Una lingüista encargada de comunicarse con alienígenas no tiene palabras para contar lo que vivió: la mejor narración de lo inefable es la omisión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lovecraft-howard"
+    },
+    {
+      "surface_form": "Encuentros en la Tercera Fase (Spielberg, 1977)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Conexión comparativa con otra película de contacto extraterrestre como otro intento de expresar la significación pura. Mención puntual. Capturado en promote_new.",
+      "quote_evidence": "Conexión con Encuentros en la Tercera Fase como otro intento de expresar la significación pura,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    },
+    {
+      "surface_form": "causalidad circular vs ausencia de causalidad (debate sobre agujero de guion)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación filosófica sobre el final de la película: no hay causalidad circular sino ausencia de causalidad (estado instantáneo donde desaparece el tiempo). Defensa contra acusación de agujero de guion. Capturado en promote_new del film.",
+      "quote_evidence": "La película no presenta causalidad circular sino ausencia de causalidad: todo es un enorme estado instantáneo donde desaparece el tiempo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    },
+    {
+      "surface_form": "Ted Chiang: Story of Your Life (relato base)",
+      "reason_code": "passing_mention",
+      "reason_detail": "La película está basada en el relato de Ted Chiang (1998). El directo no menciona explícitamente al autor en el summary. Capturado como frontmatter-field en promote_new.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    },
+    {
+      "surface_form": "tres dimensiones narrativas (Ian + Louise + acción)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura formal del film sobre cómo la narración adquiere tres dimensiones: descenso femenino + camino recto masculino + acción. Capturado en promote_new.",
+      "quote_evidence": "La película adquiere tres dimensiones: el descenso en profundidad de la diosa hacia lo implícito y el camino recto analítico de Ian,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Sapir-Whorf reformulada (idioma + experiencia lingüística)] reason=passing_mention quote no literal",
+    "DROP discarded[ciencia (motor) vs lenguaje (piedra angular) como par complementario] reason=passing_mention quote no literal",
+    "WARN promote_new[La Llegada (Arrival, Villeneuve 2016)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

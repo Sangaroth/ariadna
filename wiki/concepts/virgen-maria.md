@@ -131,6 +131,10 @@ La comparación con el Islam marca la distinción estructural: el Islam es carac
 
 
 
+
+
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Perro no come Perro** — chunks: [38:05](https://youtu.be/Dv3caRUYzuc?t=2285)
+- **Análisis La Llegada, (Parte uno, introducción)** — chunks: [3:32](https://youtu.be/aPbgBnidoJI?t=212)
+- **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [58:19](https://youtu.be/fzEDQZIqKwg?t=3499)
 

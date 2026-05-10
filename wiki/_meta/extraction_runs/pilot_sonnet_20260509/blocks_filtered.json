@@ -27,6 +27,116 @@
       }
     },
     {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "Posicionamiento sobre el conflicto Israel-Palestina y Eurovisión",
+        "block_minute_start": "44:20",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "political_news",
+        "reason_detail": "Match por 'PSOE' y 'Pedro Sánchez'. Bloque sobre instrumentalización política de Eurovisión, decisión editorial de RTVE, posicionamiento internacional de Sánchez. Coyuntural."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "Israel como estado artificial y el victimismo institucional",
+        "block_minute_start": "48:24",
+        "matched_pattern": "n/a — caracterización geopolítica de actor estatal sin marco arquetípico aplicado",
+        "reason_code": "political_news",
+        "reason_detail": "Caracterización del Estado de Israel y su narrativa de victimismo. Crítica al victimismo institucional ya cubierta estructuralmente en woke-narrativa-postmoderna-moral (élites, victimismo y movilización) y camino-victima."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "Hamás y la barbarie como problema central de Palestina",
+        "block_minute_start": "49:54",
+        "matched_pattern": "n/a — caracterización de actor terrorista, actualidad bélica",
+        "reason_code": "political_news",
+        "reason_detail": "Caracterización de Hamás como supremacistas medievales y de la guerra santa ideológico-política. Coyuntural sobre el conflicto contemporáneo."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "RTVE pide revisar el televoto de Eurovisión por motivos políticos",
+        "block_minute_start": "1:07:38",
+        "matched_pattern": "n/a — actualidad institucional sobre RTVE y televoto",
+        "reason_code": "political_news",
+        "reason_detail": "Actualidad institucional sobre la solicitud de RTVE de revisar el televoto. Coyuntural."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "La democracia según el PSOE: válida solo cuando conviene",
+        "block_minute_start": "1:09:10",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "partisan_commentary",
+        "reason_detail": "Match por 'PSOE' y 'Pedro Sánchez'. Comentario sobre el doble estándar democrático del partido en el gobierno. Partisan."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "Crítica al activismo mediático de Vito y Endongo",
+        "block_minute_start": "1:17:44",
+        "matched_pattern": "n/a — comentario personal sobre activistas mediáticos",
+        "reason_code": "personal_anecdote",
+        "reason_detail": "Comentario sobre el estilo activista de figuras concretas. Sin marco psicológico estructural aplicado."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "Israel como supuesto defensor de Occidente: una falsedad geopolítica",
+        "block_minute_start": "1:18:45",
+        "matched_pattern": "n/a — análisis geopolítico de alianzas estatales",
+        "reason_code": "political_news",
+        "reason_detail": "Análisis geopolítico sobre alianzas Israel-Marruecos, Pakistán-Irán, posición occidental. Coyuntural."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "El caso Melody y la pesoización de la representante española",
+        "block_minute_start": "1:30:24",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "political_news",
+        "reason_detail": "Match por 'PSOE'. Caso mediático coyuntural sobre cantante española y delegación de RTVE."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "La emigración juvenil como estrategia contra el PSOE",
+        "block_minute_start": "1:40:02",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "political_news",
+        "reason_detail": "Match por 'PSOE'. Análisis estratégico-político sobre la presión migratoria juvenil. Coyuntural."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "La dependencia energética de Marruecos como traición",
+        "block_minute_start": "1:45:04",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "political_news",
+        "reason_detail": "Match por 'Pedro Sánchez'. Pacto energético España-Marruecos, política de soberanía energética. Coyuntural."
+      }
+    },
+    {
+      "from_video": "3ZMBu8je7vw",
+      "block": {
+        "block_title": "El envenenamiento del abogado Juan Branco tras revelar espionaje marroquí",
+        "block_minute_start": "1:49:43",
+        "matched_pattern": "n/a — actualidad de espionaje + digresión biomédica fuera de §1",
+        "reason_code": "political_news",
+        "reason_detail": "Actualidad sobre el caso Branco-Macron y digresión técnica sobre el mecanismo del estreptococo del grupo A. Combina actualidad geopolítica con dominio biomédico fuera de scope §1 sin marco interpretativo aplicado."
+      }
+    },
+    {
       "from_video": "C0Io49giVY8",
       "block": {
         "block_timestamp": "18:30",
@@ -95,6 +205,207 @@
         "block_quote": "Un solo magistrado del PSOE cambió la mayoría que antes declaró ilegal el estado de alarma",
         "matched_pattern": "(?i)\\b(...|psoe|...)\\b",
         "reason": "Análisis de doctrina TC en contexto partidista PSOE"
+      }
+    },
+    {
+      "from_video": "MNbsJXaz3XI",
+      "block": {
+        "block_timestamp_seconds": 781,
+        "block_marker_text": "13:01 💻 Hipótesis del ciberataque como causa del apagón",
+        "summary_excerpt": "La única forma de que un fallo se propague tan rápidamente en toda la red es a través de internet. Podría ser un ciberataque, un fallo de control informático o un problema de software. Los decaimientos de tensión por redundancia son mucho más lentos y se pueden prevenir. Pedro Sánchez salió a hablar después de 6 horas sin aportar ninguna información relevante.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "sánchez"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque mixto. La hipótesis del ciberataque tiene componente técnico-estructural (rapidez de propagación vía internet, decaimiento de tensión por redundancia) que podría ser IN-SCOPE per §3.1 test 1. Pero el cierre del bloque entra en politiqueo coyuntural ('Pedro Sánchez salió a hablar después de 6 horas sin aportar ninguna información') que dispara el regex sobre 'sánchez'. Decisión conservadora: filtrar el bloque entero al no poder separar quirúrgicamente la pieza estructural del marco partidista. La pieza técnica sobre redundancia y ciberataque queda como discarded en el output principal."
+      }
+    },
+    {
+      "from_video": "MNbsJXaz3XI",
+      "block": {
+        "block_timestamp_seconds": 1526,
+        "block_marker_text": "25:26 🥊 Agresión homófoba en un kebab: lo que el edil del PSOE no quiere nombrar",
+        "summary_excerpt": "Un edil del PSOE de Murcia denuncia una agresión en un kebab familiar tras pedir la hoja de reclamaciones. El agredido atribuye la violencia al 'cansancio de los trabajadores' y a la homofobia, evitando señalar el origen cultural de los agresores. Para él, que le partan la cara es equivalente a que 'murmuren al pasar', todo forma parte del mismo fenómeno genérico de discriminación. Su dignidad y su integridad física están subordinadas a no contradecir la narrativa del PSOE.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque centrado en caso partidista nominal (edil del PSOE de Murcia) con anclaje en la narrativa del PSOE. Aunque el bloque articula mecanismos psicológicos (subordinación de la integridad a la narrativa partidista), el caso ilustrativo está enteramente envuelto en lenguaje y nombres propios coyunturales. Pasa el regex sobre 'PSOE' dos veces. La articulación del mecanismo de identificación proyectiva (en bloque adyacente 36:04) sí entra como discarded sin envoltorio partidista."
+      }
+    },
+    {
+      "from_video": "MNbsJXaz3XI",
+      "block": {
+        "block_timestamp_seconds": 4050,
+        "block_marker_text": "1:07:30 🎬 Rubén Sánchez de Podemos: biogenizado por su propia ley",
+        "summary_excerpt": "Un activista feminista de Podemos que apoyó la ley de violencia de género denuncia que su exmujer la usa falsamente contra él. Reconoce que hay abogados que aconsejan denunciar por malos tratos como estrategia para obtener la custodia. Su postura es contradictoria: defiende la ley pero se indigna de que las mujeres la usen exactamente como está diseñada.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "sánchez",
+          "podemos"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque centrado en caso partidista nominal (Rubén Sánchez activista de Podemos) con doble disparo del regex (sánchez + podemos). La crítica estructural a la ley de violencia de género (lógica de compensación asimétrica) que sigue en el bloque 1:14:43 NO contiene nombres propios y queda como discarded enriquecimiento de teocracia-agnostica-y-victimologia-institucional."
+      }
+    },
+    {
+      "from_video": "MNbsJXaz3XI",
+      "block": {
+        "block_timestamp_seconds": 4763,
+        "block_marker_text": "1:19:23 🕯️ Los círculos de hombres en Podemos: penitencia performativa",
+        "summary_excerpt": "En eventos de Podemos se separan hombres y mujeres; el círculo de hombres consiste en performances penitentes. Los hombres hablan extensamente sin decir nada sustantivo, convencidos de que su intención buena basta. Es histrionismo: exageración en la forma con ausencia total de fondo.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "podemos"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque sobre práctica ritual específica de eventos de Podemos. La caracterización 'histrionismo = exageración en forma sin fondo' es estructural y se conserva como discarded fuera del envoltorio partidista. El bloque entero como tal pasa el regex sobre 'Podemos' y se filtra."
+      }
+    },
+    {
+      "from_video": "MNbsJXaz3XI",
+      "block": {
+        "block_timestamp_seconds": 4946,
+        "block_marker_text": "1:22:26 😤 Rubén Sánchez acusa a los \"fascistas\" mientras enfrenta cárcel por su propia ley",
+        "summary_excerpt": "Denuncia acoso en redes y lo atribuye a 'fascistas con bots' y a los dueños capitalistas de las plataformas. Está a punto de enfrentar consecuencias penales por una ley que él mismo promovió, pero sigue señalando a los demás como culpables.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "sánchez"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Continuación del seguimiento partidista nominal de Rubén Sánchez. El marker matchea 'Sánchez' y el bloque entero se centra en el caso coyuntural específico. Filtrado."
+      }
+    },
+    {
+      "from_video": "ZlO5o786u90",
+      "block": {
+        "block_title": "Sabotaje de cables en la línea del AVE y la posverdad política",
+        "block_minute_start": "19:32",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "political_news",
+        "reason_detail": "Bloque coyuntural sobre incidente del AVE y figura política (Óscar Puente). Marco aplicado del diagrama-de-proxy ya documentado en esa página."
+      }
+    },
+    {
+      "from_video": "ZlO5o786u90",
+      "block": {
+        "block_title": "Fraude electoral del PSOE y el voto por correo",
+        "block_minute_start": "37:11",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "political_news",
+        "reason_detail": "Bloque sobre actualidad partidista (PSOE, Sánchez, voto por correo, censo electoral) sin marco estructural psicológico-arquetípico aplicado."
+      }
+    },
+    {
+      "from_video": "ZlO5o786u90",
+      "block": {
+        "block_title": "El caso Fran Cuesta: audios comprometedores",
+        "block_minute_start": "24:04",
+        "matched_pattern": "n/a — pattern not specifically listed but block matches política/actualidad coyuntural por figura mediática sin marco arquetípico desarrollado",
+        "reason_code": "political_news",
+        "reason_detail": "Caso coyuntural mediático. La discusión sobre 'engaño por imagen pública' no se eleva a marco arquetípico estructural que merezca página o enriquecimiento."
+      }
+    },
+    {
+      "from_video": "aVhd0l1rpqY",
+      "block": {
+        "block_title": "El caso de La Gata de Schrödinger y los 31.400€ del Ministerio de Ciencia",
+        "block_minute_start": "28:37",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "reason_code": "political_news",
+        "reason_detail": "Bloque coyuntural sobre contratos del gobierno (Ministerio de Ciencia, caso Koldo, mascarillas) a youtubers afines. Sin marco arquetípico-psicológico estructural; la crítica a la mecánica gobierno-marketing-divulgación ya está cubierta en consumismo-critica y diagrama-de-proxy."
+      }
+    },
+    {
+      "from_video": "aVhd0l1rpqY",
+      "block": {
+        "block_title": "Fracaso del canal de ciencia y la falta de transparencia",
+        "block_minute_start": "34:43",
+        "matched_pattern": "n/a — bloque de continuidad coyuntural sobre contratos públicos a youtubers",
+        "reason_code": "political_news",
+        "reason_detail": "Continuación del bloque sobre Science Truck y la mecánica de adjudicación de contratos. Sin desarrollo arquetípico ni psicológico estructural."
+      }
+    },
+    {
+      "from_video": "aVhd0l1rpqY",
+      "block": {
+        "block_title": "Disney Plus abraza el formato vertical para captar a la generación Z",
+        "block_minute_start": "41:48",
+        "matched_pattern": "n/a — comentario breve sobre estrategia de plataforma sin marco aplicado nuevo",
+        "reason_code": "passing_mention",
+        "reason_detail": "Comentario breve sobre la estrategia de Disney/TikTok. Marco subyacente ('guerra por la atención del espectador') ya documentado en consumismo-critica. Demasiado breve para enriquecimiento."
+      }
+    },
+    {
+      "from_video": "aVhd0l1rpqY",
+      "block": {
+        "block_title": "Qué son los priones y la encefalopatía espongiforme bovina",
+        "block_minute_start": "1:10:28",
+        "matched_pattern": "n/a — dominio natural.biology fuera de alcance §1, sin marco aplicado",
+        "reason_code": "established_concept_used_as_example",
+        "reason_detail": "Digresión científica divulgativa sobre priones. Dominio natural.biology no está en §1 del scope. natural.neuroscience condicionado §1.2 solo cuando el canal lo articula como marco aplicado — aquí es exposición técnica neutra."
+      }
+    },
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp_seconds": 1287,
+        "block_marker_text": "21:27 😏 Sánchez y Teresa Ribera: reírse del ciudadano en su cara",
+        "summary_excerpt": "Sánchez celebra el nombramiento de Teresa Ribera como vicepresidenta de la Comisión Europea visiblemente divertido, riéndose del ciudadano. \"Nuestra pérdida en España es la ganancia de Europa\" se interpreta como cinismo descarado. El caso PSOE-República Dominicana y la documentación encontrada por la UCO se mencionan como ejemplo de impunidad.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "sánchez",
+          "psoe"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque puramente coyuntural-partidista: comentario directo sobre Sánchez riéndose en rueda de prensa, nombramiento de Ribera, caso PSOE-República Dominicana. Sin marco psicológico/filosófico estructural aplicado al caso (test discriminante §3.1 falla en 1, 2 y 3). Pasa el filtro regex sobre 'sánchez' y 'PSOE'."
+      }
+    },
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp_seconds": 1596,
+        "block_marker_text": "26:36 📋 El caso Lobato: cómo funciona la mafia del PSOE",
+        "summary_excerpt": "Moncloa filtró un documento fiscal del hermano de Ayuso a Lobato, pasando por Hacienda y el fiscal general. Lobato acudió a una notaría a registrar los WhatsApps cuando supo que los datos eran ilegales de poseer. El modus operandi del PSOE: enmarronar al miembro para que solo pueda elegir entre ser parte de la mafia o cargar con el delito solo.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe",
+          "ayuso"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque dedicado al caso Lobato/Ayuso/Moncloa con análisis del 'modus operandi' partidista. Aunque la noción de 'enmarronar al miembro' tiene componente psicológico-estratégico, el bloque entero está organizado en torno a un caso de actualidad partidista nominal con nombres propios coyunturales sin elevarlo a estructura más allá del PSOE específico. Pasa el filtro regex sobre 'PSOE' y 'Ayuso'."
+      }
+    },
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp_seconds": 2020,
+        "block_marker_text": "33:40 💢 Del deseo de justicia al deseo de venganza ciudadana",
+        "summary_excerpt": "El ciudadano está pasando de querer justicia a querer venganza como consecuencia de la mala política acumulada. El problema político no es la mala gestión sino la corrupción moral activa y deliberada. España es \"opaca\": no se puede saber realmente por qué la gente sigue votando al PSOE.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque mixto. Las dos primeras líneas (deseo de justicia → venganza por mala política acumulada; corrupción moral activa) podrían encajar como enriquecimiento de psicologia-del-activista o diagrama-de-proxy. La tercera ('por qué la gente sigue votando al PSOE') es claramente partidista y dispara el regex. Decisión conservadora: filtrar el bloque entero al no poder separar quirúrgicamente las piezas estructurales del marco partidista. Si el análisis 'justicia → venganza' reaparece en otros vídeos como articulación recurrente sin anclaje partidista coyuntural, podría promoverse a thesis_candidate o concept page propia."
+      }
+    },
+    {
+      "from_video": "hCc-gsoLZj4",
+      "block": {
+        "block_timestamp_seconds": 2110,
+        "block_marker_text": "35:10 🎭 El 15M como operación del PSOE y Podemos como enfants terribles",
+        "summary_excerpt": "El 15M fue creado por el PSOE para aparentar oposición interna mientras el PP perdía votos. Podemos fue utilizado como instrumento para hacer el \"juego sucio\" que el PSOE no podía hacer directamente. La estrategia: destruir la decencia política, moral y económica mediante Podemos para que el PSOE recoja los restos.",
+        "matched_pattern": "(?i)\\b(actualidad pol[ií]tica|elecciones|psoe|pp\\b|vox|sumar|podemos|comunidad de madrid|s[aá]nchez|feij[oó]o|ayuso)\\b",
+        "matched_terms": [
+          "psoe",
+          "pp",
+          "podemos"
+        ],
+        "topic_filter_id": "exclude_partidista_actualidad",
+        "decision_reason": "Bloque de interpretación histórico-conspirativa sobre el 15M, PSOE, PP y Podemos. La articulación es nominal-partidista ('el PSOE creó X para que Y, usando a Z'), no estructural en términos de marco psicológico-político del canal aplicable más allá de los nombres propios. Pasa el regex en tres términos simultáneos (PSOE, PP, Podemos). Filtrado para evitar contaminar el wiki con interpretación coyuntural-partidista. La articulación abstracta 'destruir la decencia política para que un actor recoja los restos' podría ser estructural si el canal la formula sin nombres propios en otros vídeos — flag implícito para acumulación."
       }
     },
     {

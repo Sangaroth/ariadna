@@ -191,6 +191,9 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 
 
+
+
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029)
 - **Conspiración** — chunks: [12:26](https://youtu.be/K97ZzKXY0oI?t=746)
 - **What is a Charo?** — chunks: [1:54:36](https://youtu.be/qMfv4dX09Lg?t=6876)
@@ -200,3 +203,7 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 
 - **Elisa y su CI** — chunks: [33:11](https://youtu.be/6tfSc45kjyo?t=1991)
+- **Análisis arquetípico de el club de la lucha** — chunks: [1:46:09](https://youtu.be/L4zXftKhU6M?t=6369)
+- **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [1:43:23](https://youtu.be/TmQiM16HIpU?t=6203)
+- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0) · [16:18](https://youtu.be/ClnayaScAjQ?t=978) · [42:11](https://youtu.be/ClnayaScAjQ?t=2531)
+

@@ -126,12 +126,104 @@ El directo monográfico *Análisis arquetípico: Excalibur* añade un segundo ma
 
 El mapeo confirma que la cuaternidad opera como **dispositivo de lectura transversal**, no como articulación local. Donde el directo Excalibur+LOTR mapeaba a personajes tolkienianos (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra), este directo mapea a figuras artúricas vía los palos del tarot. Las dos lecturas son la misma cuaternidad bajo dos vehículos iconográficos distintos — el bestiario tolkieniano y los arcanos del tarot.
 
+
+
+## El estado pre-cuaternario: el huevo órfico y el caos contenido
+
+El monográfico *[[arquetipo-cero|Arquetipo Cero]]* (mar 2023) articula una pieza foundational que las secciones anteriores tenían implícita: lo que PRECEDE a la cuaternidad. Antes de que los cuatro elementos se diferencien, hay un ESTADO PRE-CUATERNARIO donde el caos está contenido en singularidad sin delimitar.
+
+> "El huevo órfico, circular como un cero, conteniendo el caos sin delimitar en cuatro elementos, es el loco del Tarot,"
+→ [Arquetipo Cero (39:51)](https://youtu.be/nern-nhePjE?t=2391)
+
+> "El caos como singularidad originaria está representado en el huevo órfico: un huevo con una serpiente envolvente,"
+→ [Arquetipo Cero (44:23)](https://youtu.be/nern-nhePjE?t=2663)
+
+> "Zeus proviene de Cronos, Cronos de Gea y Urano, Urano del caos,"
+→ [Arquetipo Cero (44:23)](https://youtu.be/nern-nhePjE?t=2663)
+
+La pieza articula tres niveles que las secciones anteriores tenían dispersos:
+
+1. **El huevo órfico como cifra del caos contenido**: figura circular (cero) con serpiente envolvente que contiene el caos ANTES de su diferenciación cuaternaria. Iconografía órfica greco-misterial precisa: el huevo es el contenedor primero del que emergerán los cuatro elementos como diferenciación posterior. La forma circular no es decorativa — cifra que el caos NO está estructurado en cuatro polos, está contenido en singularidad sin polos.
+2. **Genealogía cosmogónica griega**: caos → Urano + Gea → Cronos → Zeus. La cadena articula que los dioses olímpicos NO son originarios sino derivados — descienden del caos por sucesivas individuaciones cuaternarias. El cuadro precisa la asimetría temporal del aparato: la cuaternidad es ESTADO POSTERIOR del caos, no su organización originaria.
+3. **Conexión cabalística**: la letra alef tiene valor 1 pero también puede tomar valor 0 o infinito. La pieza enlaza la matemática cabalística con la iconografía órfica — el cero/uno/infinito es la misma figura del caos contenido antes de la diferenciación. Conexión con [[kabbalah]] precisando que la letra primera del alfabeto hebreo cifra precisamente el estado pre-cuaternario donde lo determinado y lo indeterminado coinciden.
+
+La pieza enlaza con el [[arquetipo-cero|Loco del Tarot]] como figura iconográfica que cifra ese estado pre-cuaternario en formato narrativo: el joven al borde del precipicio con perro-instinto, rosa blanca y hatillo es la encarnación del caos contenido en figura humana — antes de que el héroe se diferencie en uno de los cuatro polos cuaternarios. La consecuencia operativa para el aparato general: la cuaternidad NO se postula como punto de partida sino como diferenciación posterior del estado cero. Cualquier sujeto que regrese estructuralmente al estado cero (arlequín desocializado, caballero oscuro neurótico, joker) está operando en territorio pre-cuaternario, no en territorio cuaternario disfuncional.
+
+
+
+
+## Cuarto mapeo: las gemas de la espada como objeto único de la cuaternidad
+
+El monográfico sobre [[lady-halcon-1985-film|Lady Halcón]] (jun 2025) articula un cuarto vehículo iconográfico para la cuaternidad — los cuatro elementos como **gemas de un objeto único** (la espada del caballero) que se reúnen progresivamente conforme el héroe completa su destino.
+
+> "La familia es la tierra (apellido y nombre), el vínculo con Roma es el agua (la fe y el espíritu), el heroísmo del padre es el fuego (los bastos),"
+→ [Análisis Arquetípico: Lady Halcón. (1:11:54)](https://youtu.be/xK8_MpMMXzc?t=4314)
+
+> "Falta el aire: el buen juicio, lo activo intangible, que es lo femenino lo que debe complementar a lo masculino,"
+→ [Análisis Arquetípico: Lady Halcón. (1:11:54)](https://youtu.be/xK8_MpMMXzc?t=4314)
+
+> "La espada estará completa cuando se cumpla el destino del caballero,"
+→ [Análisis Arquetípico: Lady Halcón. (1:11:54)](https://youtu.be/xK8_MpMMXzc?t=4314)
+
+La pieza añade una modalidad operativa que los tres mapeos anteriores no contenían: los cuatro elementos NO se distribuyen en cuatro figuras distintas (mapeo tolkieniano, palos del tarot, matriz temperamental) sino que se reúnen en **un solo objeto operativo** que el sujeto completa progresivamente. La espada como dispositivo arquetípico opera como vehículo de la cuaternidad en sí — cada gema añadida es función psíquica integrada, y la espada solo está completa cuando el destino del caballero se cumple. La integración aparece así como condición temporal-narrativa: no es estado al que se llega de una vez, es proceso secuencial donde cada elemento se gana mediante operaciones específicas.
+
+La pieza añade además una asimetría operativa importante: el aire (buen juicio, lo activo intangible) es **lo femenino que debe complementar a lo masculino**. La espada del caballero solo se completa cuando recibe la dimensión-aire que es propiedad del polo femenino. La consecuencia para el aparato general: en el régimen polar genuino, el héroe NO posee los cuatro elementos por sí solo — necesita estructuralmente recibir el aire de la diosa para cerrar el ciclo. El mapeo de las gemas articula así un caso operativo del [[hieros-gamos]] como condición de completud de la cuaternidad.
+
+### El arcano El Mundo: cuatro evangelistas como recapitulación cristiana
+
+> "Lo femenino se queda con la tierra, el caballero con la espada (aire), el sacerdote recupera la fe (agua) y el joven hereda el fuego como nuevo héroe,"
+→ [Análisis Arquetípico: Lady Halcón. (1:52:19)](https://youtu.be/xK8_MpMMXzc?t=6739)
+
+> "Los cuatro evangelistas: agua, tierra, aire y fuego completos representan el mundo del tarot,"
+→ [Análisis Arquetípico: Lady Halcón. (1:52:19)](https://youtu.be/xK8_MpMMXzc?t=6739)
+
+El cierre del directo articula la cuaternidad en su modalidad reticular: en lugar de concentrarse en un solo objeto (la espada), los cuatro elementos se distribuyen en cuatro personajes restituidos a su lugar arquetípico — Isabeau (tierra), Navarre (aire/espada), el monje (agua/fe), Phillipe (fuego/héroe nuevo). La pieza precisa la genealogía cristiana del esquema: los cuatro evangelistas (Mateo-hombre/aire, Marcos-león/fuego, Lucas-toro/tierra, Juan-águila/agua) operan como **recapitulación cristiana** de la cuaternidad arquetípica que el arcano El Mundo del tarot también cifra.
+
+La secuencia operativa de los dos cierres del directo (espada-completa para el caballero individual; cuatro-personajes-restituidos para la sociedad simbólica) cierra el aparato con dos modalidades complementarias: la cuaternidad puede integrarse en un sujeto solo (espada como individuación) o distribuirse entre sujetos cuyas funciones se complementan (sociedad simbólica como restitución cosmológica). Ambas modalidades operan en el monomito; el caso Lady Halcón las articula en sucesión narrativa.
+
+
 La pieza importa también porque articula la **separación de los ejes** como operación cognitiva del héroe:
 
 > "Sacar la espada de la piedra significa separar los dos ejes del dragón y la dama del lago,"
 → [Análisis arquetípico: Excalibur (1:37:02)](https://youtu.be/daC37T5cbWs?t=5822)
 
 El gesto inaugural del rey (extraer Excalibur de la tierra) cifra la separación de los dos ejes — el dragón (fuego+tierra como pasiones materiales) y la dama del lago (intelecto+espíritu como dones inmateriales). El héroe debe primero distinguir los cuatro elementos para luego integrarlos en la armonía completa de los cuatro palos. La cuaternidad opera así no como mapa estático sino como **secuencia operativa**: separar para luego integrar.
+
+
+## Tercer mapeo: los cuatro elementos como temperamentos (matriz activo/pasivo × positivo/negativo)
+
+El monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula un tercer vehículo iconográfico para la cuaternidad — el mapeo TEMPERAMENTAL en matriz 2x2 — que extiende los dos ya documentados (figuras tolkienianas, palos del tarot).
+
+> "El fuego representa el temperamento activo negativo (agresivo), el aire el activo positivo (intelectual),"
+→ [Análisis arquetípico de Elemental (32:27)](https://youtu.be/p8ZInoDuE50?t=1947)
+
+> "El agua representa el temperamento pasivo negativo (labilidad emocional), la tierra el pasivo positivo (receptivo),"
+→ [Análisis arquetípico de Elemental (32:27)](https://youtu.be/p8ZInoDuE50?t=1947)
+
+> "Los cuatro elementos corresponden a los cuatro mundos del yo descritos en la tradición hermética,"
+→ [Análisis arquetípico de Elemental (32:27)](https://youtu.be/p8ZInoDuE50?t=1947)
+
+### La matriz temperamental
+
+El mapeo organiza la cuaternidad en dos ejes ortogonales que producen los cuatro elementos como cuadrantes:
+
+| | **Activo** | **Pasivo** |
+|---|---|---|
+| **Positivo** | Aire (intelectual) | Tierra (receptivo) |
+| **Negativo** | Fuego (agresivo) | Agua (labilidad emocional) |
+
+El eje **activo/pasivo** distingue dos regímenes operativos: lo activo opera sobre el mundo (modifica, propone, ataca, articula); lo pasivo recibe del mundo (acoge, sostiene, retiene, padece). El eje **positivo/negativo** distingue la valencia funcional: lo positivo opera con regulación adecuada para su función (intelecto que piensa con freno, receptividad que sostiene sin colapsarse); lo negativo opera con desregulación (agresividad sin freno, labilidad emocional que se desborda).
+
+La matriz precisa los dos mapeos anteriores. En el mapeo tolkieniano (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra), el dragón quedaba como figura del fuego sin distinguir si era fuego saludable o fuego desregulado. En el mapeo del tarot (espadas, copas, bastos, oros), la asignación de palos a elementos no incluía dimensión de salud/patología. El mapeo temperamental añade esa dimensión: cada elemento es **función psíquica con dos modos operativos** (regulado/desregulado), y la cuaternidad articula no cuatro funciones sino ocho posiciones psíquicas (cuatro elementos × dos valencias).
+
+### Aplicación a [[elemental-2023-film|Elemental]] como caso operativo
+
+El mapeo temperamental opera como dispositivo de lectura de la película misma. Candela como personaje de fuego es **temperamento activo-negativo** (agresividad como modo operativo, intensidad sin freno que destruye lo que toca y lo moldea con la misma facilidad). Wade como personaje de agua es **temperamento pasivo-negativo** (labilidad emocional, incontinencia afectiva, ser desbordado por las emociones como modo de existir). La incompatibilidad estructural de la pareja se sigue de la matriz: dos polos negativos del eje activo/pasivo no se complementan automáticamente — la complementariedad requiere que al menos uno de los polos opere en modalidad positiva regulada. La crítica del canal a la película precisa exactamente esto: la complementariedad automática es mito (ver sección 'mito de la complementariedad' de la página propia [[elemental-2023-film]]) porque dos modalidades negativas no se equilibran, se confirman mutuamente en su disfunción.
+
+### Articulación con masculino/femenino
+
+La pieza añade además un eje genealógico que las secciones anteriores tenían implícito. El temperamento activo (fuego/aire) se asocia con el polo arquetípico masculino-solar; el temperamento pasivo (agua/tierra) con el polo femenino-lunar. La división activo/pasivo NO es la división masculino/femenino — ambos sexos pueden tener cualquier temperamento — pero los dos ejes se cruzan productivamente: la psique sana integra los cuatro temperamentos con preponderancia adecuada al sexo y a la función vital del momento. La psique disfuncional se polariza en uno solo de los temperamentos (Candela exclusivamente activo-negativo, Wade exclusivamente pasivo-negativo) y opera con el resto de funciones bloqueadas.
+
 
 
 ## Lagunas
@@ -147,7 +239,13 @@ El gesto inaugural del rey (extraer Excalibur de la tierra) cifra la separación
 
 
 
+
+
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [2:15:23](https://youtu.be/K082yiudh-g?t=8123)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [14:17](https://youtu.be/wIhH72UFUPY?t=857) · [15:48](https://youtu.be/wIhH72UFUPY?t=948)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/lw7XI2lQntM?t=403) · [15:18](https://youtu.be/lw7XI2lQntM?t=918)
+- **Análisis arquetípico de Elemental** — chunks: [32:27](https://youtu.be/p8ZInoDuE50?t=1947)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314)
+- **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391)
 

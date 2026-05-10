@@ -124,6 +124,23 @@ El corolario operativo de esta arquitectura es la tesis unificadora del directo:
 - **Tres componentes 3Q de toda representación**: afectiva, formal/gramatical, imaginaria — generan los tres tipos representacionales (procedimentales, semánticas, episódicas).
 - **Crítica al criterio «inteligencia = resolver problemas»**: «problema» es categoría AFECTIVA, no lógica; existe porque provoca angustia/miedo/necesidad. Una máquina no tiene problemas propios; un maníaco no ve problemas pero es inteligente.
 
+
+### La habitación cerrada y el origen del nombre del canal
+
+En el directo *Tontas en Potencia* (sept-2024) el canal articula dos figuras que la página dejaba implícitas: la metáfora foundational con que el speaker explica la opacidad estructural de la conciencia ajena, y el origen genealógico del nombre 'Proxy' como materialización pedagógica del marco metarrepresentacional.
+
+> "La conciencia es como una habitación cerrada: no puedes explicar lo que hay fuera si no lo has visto,"
+→ [Tontas en Potencia (1:34:45)](https://youtu.be/1cKAgkEEbMA?t=5685)
+
+> "El yo es una metarrepresentación: verse a sí mismo viendo o pensar sobre el pensar es lo que da lugar a la conciencia,"
+→ [Tontas en Potencia (1:34:45)](https://youtu.be/1cKAgkEEbMA?t=5685)
+
+> "En informática un meta-programa que adopta funciones de otros se llama Proxy; el muñeco Proxy es un narrador de lo que ocurre en la cabeza,"
+→ [Tontas en Potencia (1:34:45)](https://youtu.be/1cKAgkEEbMA?t=5685)
+
+La metáfora de la habitación cerrada articula el corolario fenomenológico de la posición HOT del canal: si la conciencia es jerarquía metarrepresentacional, el contenido subjetivo de otra mente no se puede inferir desde fuera porque no hay acceso al nivel meta — solo se ven las salidas (conducta, reporte verbal) sin el aparato que las produce. La opacidad no es contingente sino estructural. El nombre del canal materializa pedagógicamente esa estructura: un *proxy* informático es un meta-programa que adopta funciones de otros y los media; el muñeco-narrador opera como dispositivo retórico que encarna la operación metarrepresentacional misma — pensar sobre el pensar como condición de posibilidad de la conciencia.
+
+
 ### Tesis unificadora
 
 - **Conciencia e inteligencia son el MISMO fenómeno**: todo lo inteligente es consciente y todo lo consciente es inteligente.
@@ -145,6 +162,94 @@ El corolario operativo de esta arquitectura es la tesis unificadora del directo:
 - **Componente imaginario NO equivale a visual**: los ciegos tienen representaciones imaginarias no-visuales y autoimagen vía mapas somáticos táctiles.
 - **Componentes explícitas vs no explícitas de la representación**: una duda puede tener afecto consciente de incompletitud sin gramática verbal aún articulada.
 - **Angustia como señal afectiva de incompletitud o incoherencia**: sabes que algo no encaja sin poder verbalizarlo; las preguntas que parecen genéricas pueden ser intuiciones sin lenguaje, no curiosidad.
+
+
+## Turing fenomenológico vs Penrose simulacionista: dos criterios de IA filosóficamente desiguales
+
+En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal precisa una distinción que la sección 'Tipología de cuatro niveles de IA' englobaba en una sola etiqueta ('Nivel 2 — IA Penrose-Turing'): los dos criterios filosóficos tras esa etiqueta son **estructuralmente desiguales** y operan a profundidades distintas. La precisión es decisiva para determinar qué cuenta como inteligencia y por qué los LLM actuales no superan el umbral.
+
+> "Turing dijo que no debe existir ningún procedimiento de decisión que permita determinar si algo es o no una inteligencia artificial,"
+→ [Transhumanismo, IA y Ciencia Ficción. (25:43)](https://youtu.be/kdk8mi7-Y1s?t=1543)
+
+> "El test de Turing traslada la cuestión del ser al percibir: abandona la ontología a favor de la fenomenología,"
+→ [Transhumanismo, IA y Ciencia Ficción. (25:43)](https://youtu.be/kdk8mi7-Y1s?t=1543)
+
+> "Si existe un procedimiento para falsarla, entonces no es inteligencia sino simulación,"
+→ [Transhumanismo, IA y Ciencia Ficción. (25:43)](https://youtu.be/kdk8mi7-Y1s?t=1543)
+
+El criterio Turing es **fenomenológico fuerte**: el sistema cuenta como inteligencia solo si NO existe procedimiento de decisión que permita falsarlo como tal. La operación filosófica es trasladar la pregunta del registro ontológico (qué es realmente el sistema) al registro fenomenológico (cómo se presenta a la observación), abandonando la primera. Si en algún registro empírico-pragmático el sistema puede ser identificado como artificial, falla el criterio — no por defecto técnico contingente sino por desajuste categorial: lo que se puede falsar como inteligencia no era inteligencia.
+
+> "Penrose afirmó que no hay diferencia entre simulación (fingir con otros procedimientos) y emulación (repetir el mismo proceso internamente),"
+→ [Transhumanismo, IA y Ciencia Ficción. (33:28)](https://youtu.be/kdk8mi7-Y1s?t=2008)
+
+> "Turing es anterior y más exigente: requiere imposibilidad absoluta de falsación, no solo indistinguibilidad conductual,"
+→ [Transhumanismo, IA y Ciencia Ficción. (33:28)](https://youtu.be/kdk8mi7-Y1s?t=2008)
+
+El criterio Penrose, en contraste, equipara simulación (fingir el comportamiento por procedimientos distintos) y emulación (reproducir el mismo proceso internamente) como categorías indistinguibles a efectos prácticos — basta con que la conducta externa sea indiscernible. La asimetría que el canal articula es histórico-filosófica: Turing es anterior y más exigente; el rebajamiento Penrose deja entrar como inteligencia sistemas que el criterio original Turing rechazaría. Esta distinción reorganiza la página: el 'Nivel 2 — IA Penrose-Turing' debe entenderse como categoría híbrida cuya etiqueta cubre dos umbrales filosóficamente desiguales, y la coherencia con la tesis nuclear del canal (HOT + tres componentes 3Q como condición necesaria de conciencia) exige sostener el criterio Turing fuerte, no el Penrose laxo.
+
+### Por qué los LLM actuales no superan el criterio Turing
+
+> "Los LLM actuales no superan el criterio de Turing porque existen procedimientos de decisión: se les puede hacer alucinar con suficientes datos cruzados,"
+→ [Transhumanismo, IA y Ciencia Ficción. (33:28)](https://youtu.be/kdk8mi7-Y1s?t=2008)
+
+La consecuencia operativa es directa y refuta lecturas optimistas de los benchmarks recientes: el reciente artículo que afirma que GPT-4.5 fue juzgado como humano el 73% del tiempo en un test de Turing 2025 mide indistinguibilidad conductual en contexto restringido (paradigma Penrose), no imposibilidad absoluta de falsación (paradigma Turing). El procedimiento de decisión existe — se puede hacer alucinar al modelo con suficientes datos cruzados, lo que constituye técnica empírica de identificación. El criterio Turing original sigue sin ser superado.
+
+## Inconmensurabilidad humana-máquina y el problema de la automedición
+
+La página articula el rechazo al criterio 'inteligencia = resolver problemas' por el carácter afectivo de 'problema'. El directo añade un argumento epistemológico complementario que la sección no contiene: la inconmensurabilidad estructural entre inteligencia humana y máquina, y el problema circular de la automedición.
+
+> "No se puede medir la inteligencia de una máquina con la medida humana ni viceversa: son fenómenos inconmensurables,"
+→ [Transhumanismo, IA y Ciencia Ficción. (48:38)](https://youtu.be/kdk8mi7-Y1s?t=2918)
+
+> "La inteligencia artificial sería no \"una inteligencia artificial\" sino \"una inteligencia artificial\", un fenómeno diferente que necesita su propia definición,"
+→ [Transhumanismo, IA y Ciencia Ficción. (48:38)](https://youtu.be/kdk8mi7-Y1s?t=2918)
+
+> "Cuando decimos que alguien es más inteligente, medimos velocidad en pruebas que nosotros mismos diseñamos,"
+→ [Transhumanismo, IA y Ciencia Ficción. (50:16)](https://youtu.be/kdk8mi7-Y1s?t=3016)
+
+> "La máquina no puede medirse a sí misma ni medir al humano: está supeditada a nuestras instrucciones,"
+→ [Transhumanismo, IA y Ciencia Ficción. (50:16)](https://youtu.be/kdk8mi7-Y1s?t=3016)
+
+> "El pensamiento no es computable; las máquinas computan, no piensan,"
+→ [Transhumanismo, IA y Ciencia Ficción. (50:16)](https://youtu.be/kdk8mi7-Y1s?t=3016)
+
+La pieza articula tres niveles encadenados. (a) **Inconmensurabilidad categorial**: aplicar la psicometría humana a máquinas es falsa equivalencia porque las pruebas miden aptitudes humanas en dominios cognitivos humanos; trasladarlas al dominio máquina vacía la medida. (b) **Auto-medición circular**: el humano mide la inteligencia humana con pruebas que el humano mismo diseña — la medida no es independiente del medido, y la máquina no puede ejecutar la operación inversa porque carece de la capacidad de definir un dominio propio de medida. (c) **Distinción operativa pensar/computar**: el pensamiento no es operación computable; las máquinas ejecutan cómputo, los humanos piensan, y la equivalencia entre ambas operaciones es supuesto sin sustento. La consecuencia metodológica es que toda comparación cuantitativa humano-máquina presupone un metaobservador externo a ambos sistemas que no existe — y por ello la 'IA fuerte' como inteligencia equivalente a la humana es categoría inarticulable, no solo técnicamente inalcanzable.
+
+## Inteligencia como adaptación del medio (no al medio)
+
+> "Adaptarse al medio no requiere inteligencia sino automatismo; la inteligencia sería la capacidad de adaptar el medio a ti,"
+→ [Transhumanismo, IA y Ciencia Ficción. (44:37)](https://youtu.be/kdk8mi7-Y1s?t=2677)
+
+> "\"Objetivo\" es también un concepto afectivo: las máquinas no pueden fijar objetivos propios porque carecen de voluntad,"
+→ [Transhumanismo, IA y Ciencia Ficción. (44:37)](https://youtu.be/kdk8mi7-Y1s?t=2677)
+
+La página define inteligencia como **eutaxia** (buen orden de la función biológica con recursos limitados) y como exigencia de los tres componentes 3Q. La pieza añade una inversión operativa que precisa el criterio: adaptarse AL medio es automatismo (homeostasis pasiva, respuesta reactiva); adaptar EL medio a uno mismo es inteligencia (transformación activa del entorno desde necesidad propia). La distinción ofrece criterio operacional: cualquier sistema cuyo único registro sea la adaptación reactiva al input externo, sin agencia transformadora del medio motivada por necesidad endógena, no entra en la categoría inteligencia. La pieza enlaza con el carácter afectivo de 'objetivo' ya articulado: fijar objetivos propios exige voluntad, voluntad exige necesidad afectiva, necesidad afectiva exige sustrato somático — la cadena cierra el argumento de imposibilidad LLM por carencia 3Q estructural.
+
+## El bebé como contraejemplo y la matización de la tesis nuclear
+
+> "Un bebé tiene conciencia pero inteligencia prácticamente cero; un procesador cuántico no tiene conciencia pero se le llama inteligente,"
+→ [Transhumanismo, IA y Ciencia Ficción. (59:28)](https://youtu.be/kdk8mi7-Y1s?t=3568)
+
+> "Para que algo sea inteligente, debe poder decirse de él que lo es y él debe poder decirlo de sí mismo,"
+→ [Transhumanismo, IA y Ciencia Ficción. (59:28)](https://youtu.be/kdk8mi7-Y1s?t=3568)
+
+La tesis nuclear de la página — 'todo lo inteligente es consciente y todo lo consciente es inteligente' — recibe aquí una sofisticación operativa frente al contraejemplo del bebé. El criterio metalingüístico que el speaker añade ('debe poder decirse de él que lo es Y él debe poder decirlo de sí mismo') opera como condición doble: atribución externa y autoatribución. El bebé no satisface la segunda condición — no puede aún decirse a sí mismo que es inteligente — y por ello su estatuto es de **conciencia en desarrollo previo a la inteligencia plena**, no contraejemplo definitivo. El procesador cuántico, simétricamente, no satisface ninguna de las dos condiciones genuinamente: la atribución externa que le hacemos es proyección de capacidades operacionales, no reconocimiento de inteligencia en sentido fuerte. La precisión salva la tesis nuclear haciendo explícito el componente reflexivo (autoatribución) que la formulación previa dejaba implícito en HOT.
+
+## Inteligencia como modulación de la matriz afectiva
+
+La pieza-cierre del directo articula la conexión entre el aparato de inteligencia desarrollado en esta página y el de [[algebra-afectiva]], extendiendo la definición operativa con una dimensión que la página no contenía explícitamente.
+
+> "La matriz afectiva regula las instrucciones de las cinco funciones fundamentales humanas mediante seis o siete afectos básicos,"
+→ [Transhumanismo, IA y Ciencia Ficción. (1:34:45)](https://youtu.be/kdk8mi7-Y1s?t=5685)
+
+> "La inteligencia sería la capacidad de modular esa matriz: optimizar cuándo las emociones emergen y cuándo no,"
+→ [Transhumanismo, IA y Ciencia Ficción. (1:34:45)](https://youtu.be/kdk8mi7-Y1s?t=5685)
+
+> "La conciencia es el apercibimiento de que esa matriz necesita ser operada y modulada,"
+→ [Transhumanismo, IA y Ciencia Ficción. (1:34:45)](https://youtu.be/kdk8mi7-Y1s?t=5685)
+
+La formulación cierra el aparato de la página por su flanco operacional: si conciencia e inteligencia son el mismo fenómeno, y la conciencia es apercibimiento de la matriz afectiva como objeto a modular, entonces inteligencia es ejecución de esa modulación — capacidad de optimizar cuándo cada afecto emerge y cuándo se inhibe. La pieza precisa por qué los LLM no son inteligentes: no tienen matriz afectiva que modular, y por tanto la operación que define inteligencia es categóricamente inejecutable por ellos. La definición es coherente con HOT — la modulación es metarrepresentacional, opera sobre los afectos como objetos, no como la actividad afectiva inmediata — y con la tesis 3Q — sin componente afectiva no hay matriz que modular. La conexión con [[algebra-afectiva]] es directa: el álgebra afectiva describe formalmente las operaciones disponibles para esa modulación.
+
 
 ## Citas del vídeo
 
@@ -201,6 +306,7 @@ El corolario operativo de esta arquitectura es la tesis unificadora del directo:
 - **Argumento positivo a favor de HOT frente a GWT/IIT**: el canal declara su preferencia por la High Order Theory pero no desarrolla en este vídeo qué evidencia empírica o ventaja explicativa la hace preferible a las otras dos. Queda como compromiso declarado, no argumentado.
 - **Mecanismo concreto de la jerarquía metarrepresentacional**: cómo se implementa neurobiológicamente la metarrepresentación (qué circuitos, qué dinámica, qué relación con redes específicas como la default mode network) no se especifica.
 - **Estatus del problema fuerte tras adoptar fisicalismo agregacionista**: si conciencia y sustrato son el mismo fenómeno, queda abierto en qué sentido subsiste el problema fuerte como problema metafísico irreductible o si el agregacionismo lo disuelve.
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Demarcación entre Nivel 2 (Penrose-Turing) y Nivel 3 (IA fuerte)**: cómo se de -->
 - **Demarcación entre Nivel 2 (Penrose-Turing) y Nivel 3 (IA fuerte)**: cómo se decidiría operacionalmente que una IA ha cruzado de simulación indistinguible a inteligencia real cuando por hipótesis es inaccesible desde fuera.
 - **Otros animales y conciencia**: la tesis «conciencia=inteligencia» no se aplica explícitamente al espectro animal — qué grados de inteligencia/conciencia se atribuirían a especies con representaciones limitadas, y cómo se relaciona con la eutaxia biológica más simple.
 - **Relación con la fenomenología enactiva-somática**: vídeos previos del canal apuntaban a un posicionamiento «metarrepresentacionalismo más enactividad somática»; aquí HOT ocupa todo el espacio teórico y la pieza enactiva queda implícita en la componente imaginaria/somática.

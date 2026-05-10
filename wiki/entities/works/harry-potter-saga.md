@@ -129,6 +129,7 @@ El canal anuncia aquí la lectura de la saga como dispositivo de identificación
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [0:00](https://youtu.be/3Jo2T73pOEs?t=0) · [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [2:30](https://youtu.be/3Jo2T73pOEs?t=150) · [3:31](https://youtu.be/3Jo2T73pOEs?t=211) · [5:02](https://youtu.be/3Jo2T73pOEs?t=302) · [6:33](https://youtu.be/3Jo2T73pOEs?t=393) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [10:12](https://youtu.be/3Jo2T73pOEs?t=612) · [11:13](https://youtu.be/3Jo2T73pOEs?t=673) · [12:13](https://youtu.be/3Jo2T73pOEs?t=733) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824) · [14:46](https://youtu.be/3Jo2T73pOEs?t=886)
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839)
 - **Fantasía Cero** — chunks: [36:15](https://youtu.be/1mJVJawefWc?t=2175)
@@ -137,4 +138,5 @@ El canal anuncia aquí la lectura de la saga como dispositivo de identificación
 - **What is a Charo?** — chunks: [1:19:51](https://youtu.be/qMfv4dX09Lg?t=4791)
 - **Wokismo para Wokes.** — chunks: [57:50](https://youtu.be/Q83ieEVaF5I?t=3470) · [1:06:00](https://youtu.be/Q83ieEVaF5I?t=3960) · [1:08:03](https://youtu.be/Q83ieEVaF5I?t=4083) · [1:13:36](https://youtu.be/Q83ieEVaF5I?t=4416)
 - **Las piezas que faltan** — chunks: [9:55](https://youtu.be/DAW1HiYxnVk?t=595)
+- **Arquetipo Cero** — chunks: [7:17](https://youtu.be/nern-nhePjE?t=437)
 

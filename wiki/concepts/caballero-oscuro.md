@@ -133,5 +133,7 @@ La adyacencia con el [[mito-lunar]] es relevante: la figura redentora (niña-dio
 ## Citations
 
 
+
 - **Mitología 101: Héroes y antihéroes.** — chunks: [1:14:46](https://youtu.be/yLd7j3fcR1w?t=4486) · [1:18:18](https://youtu.be/yLd7j3fcR1w?t=4698) · [1:23:50](https://youtu.be/yLd7j3fcR1w?t=5030) · [1:47:08](https://youtu.be/yLd7j3fcR1w?t=6428)
+- **Arquetipo Cero** — chunks: [1:02:04](https://youtu.be/nern-nhePjE?t=3724) · [1:12:42](https://youtu.be/nern-nhePjE?t=4362)
 

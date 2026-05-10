@@ -172,10 +172,18 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 
 
+
+
+
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [32:18](https://youtu.be/yLd7j3fcR1w?t=1938) · [1:47:08](https://youtu.be/yLd7j3fcR1w?t=6428)
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:38:22](https://youtu.be/rLeMS4-XFrA?t=5902)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [28:55](https://youtu.be/xK8_MpMMXzc?t=1735) · [34:59](https://youtu.be/xK8_MpMMXzc?t=2099)
+- **Análisis La Llegada, (Parte uno, introducción)** — chunks: [2:02](https://youtu.be/aPbgBnidoJI?t=122) · [3:32](https://youtu.be/aPbgBnidoJI?t=212)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477)
+- **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014) · [1:01:51](https://youtu.be/fzEDQZIqKwg?t=3711) · [1:38:25](https://youtu.be/fzEDQZIqKwg?t=5905)
 

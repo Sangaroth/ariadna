@@ -1,0 +1,445 @@
+{
+  "video_id": "nern-nhePjE",
+  "video_title": "Arquetipo Cero",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Arquetipo Cero / Arlequín / Loco del Tarot / Joker",
+      "canonical_guess": "arquetipo-cero",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 86,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El Joker de la baraja y el loco del Tarot son la misma carta con origen idéntico,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El loco reúne los cuatro palos en una sola figura caótica e impredecible,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las cuatro figuras son especificaciones de la misma figura de Arlequín, no figuras diferentes,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~86 min) titulado explícitamente 'Arquetipo Cero' dedicado a articular como concepto FOUNDATIONAL canal-específico la figura arquetípica del Arlequín / Loco del Tarot / Joker como CARTA CERO que reúne los cuatro elementos en figura caótica indeterminada. El directo recorre el arquetipo desde Goethe (Erlkönig) y mitología nórdica (Helle King) hasta Commedia dell'Arte (Arlequín y vertientes), Víctor Hugo (Quasimodo, Gwynplaine), tarot (carta del Loco), Ghost in the Shell, Joker de Batman y Hereditary. Concept page autónoma — no pertenece a ningún arquetipo previo del wiki.",
+      "quote_evidence": "El caos originario es padre de dioses que engendran hombres oscuros que abandonan niños que se convierten en arlequines,"
+    },
+    {
+      "surface_form": "el huevo órfico / caos como singularidad originaria de los cuatro elementos",
+      "canonical_guess": "cuatro-elementos-arquetipicos",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El huevo órfico, circular como un cero, conteniendo el caos sin delimitar en cuatro elementos, es el loco del Tarot,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El caos como singularidad originaria está representado en el huevo órfico: un huevo con una serpiente envolvente,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la cuaternidad en cuatro vehículos iconográficos (figuras tolkienianas, palos del tarot, matriz temperamental activo/pasivo×positivo/negativo, gemas de la espada de Lady Halcón). NO contiene la articulación del CAOS ORIGINARIO como singularidad ANTERIOR a la diferenciación cuaternaria — el huevo órfico (huevo circular como cero, con serpiente envolvente) como contenedor del caos sin delimitar en los cuatro elementos. La pieza añade el ESTADO PRE-CUATERNARIO del aparato: lo que precede a los cuatro elementos no es nada sino caos contenido. Conexión con la cábala (alef con valor 1/0/infinito) y genealogía cosmogónica griega (Zeus←Cronos←Gea+Urano←caos).",
+      "quote_evidence": "En la cábala, alef tiene valor 1 pero también toma el valor 0 o infinito,"
+    },
+    {
+      "surface_form": "héroe sin diosa madre: venganza para sí mismo",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Sin la diosa madre, la venganza del héroe es para sí mismo; con diosa, venga a los demás,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Batman es un Hamlet que nunca consigue volver a ser rey porque la diosa está sometida al padre oscuro,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula las dos fases masculinas del monomito (seno madre/padre), el héroe truncado (caballero negro), antihéroe ordinario, sacrificio pasivo vs heroico, modalidades del cierre (sacrificio innato + apoteosis colectivo + reina de ambos mundos), inserts previos. NO contiene la articulación específica del HÉROE SIN DIOSA MADRE: cuando la diosa está sometida al padre oscuro o ausente, la venganza del héroe es PARA SÍ MISMO (Batman, Hamlet, joker); cuando hay diosa en la tierra, el héroe venga a los demás. Pieza estructural que distingue tres modalidades operativas del monomito masculino según la disponibilidad del polo femenino: con diosa = héroe colectivo; sin diosa = héroe neurótico-individualista; con diosa sometida = héroe a punto de convertirse en arlequín que elige su propio camino neurótico.",
+      "quote_evidence": "Para evitar convertirse en Batman hay que encontrar una diosa en la tierra, una Eva,"
+    },
+    {
+      "surface_form": "el Loco del Tarot como carta cero / caos contenido + conexión cabalística",
+      "canonical_guess": "tarot-arquetipico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es un joven con trajes de sol que camina por un precipicio con una rosa blanca (belleza e inocencia),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Representa el 0, los inicios, la juventud, la infancia, el ser antes del héroe, y el caos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación foundational del Loco del Tarot como CARTA CERO (caos contenido en los cuatro elementos, equivalente al Joker de la baraja) con su iconografía precisa (joven con trajes de sol, precipicio, rosa blanca, perro-instinto-advertidor, montañas-dificultades, sol poniéndose). Conexión con cábala (alef=1/0/infinito) y genealogía cosmogónica griega. Sin lectura previa de tarot-arquetipico en este barrido, capturado en promote_new del concept arquetipo-cero con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "El loco tiene montañas de fondo (dificultades), sol poniéndose (final de viaje), hatillo (ligero de equipaje),"
+    },
+    {
+      "surface_form": "padre oscuro como Saturno devorador / Frollo / Frankenstein con Igor",
+      "canonical_guess": "arquetipo-cero",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La madre oscura devora al hijo para alimentarse; el padre oscuro devora al hijo porque lo considera una cosa inferior,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Saturno devora a sus hijos no para alimentarse sino porque los desprecia y considera cosas inferiores,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica del padre oscuro como contraparte estructural de la madre oscura ya documentada: la madre oscura DEVORA al hijo para alimentarse afectivamente (Marla, Medusa); el padre oscuro DEVORA al hijo porque lo desprecia como cosa inferior (Saturno, Frollo, Frankenstein con Igor). El miedo del padre oscuro es ser CASTRADO (sustituido) por el hijo, lo que produce la herencia maligna cíclica del padre tirano. Capturado en promote_new del concept arquetipo-cero como pieza foundational del cuadro.",
+      "quote_evidence": "El mayor miedo del padre oscuro es ser castrado (sustituido) por el hijo: la castración metafórica es arrebatarle su masculinidad,"
+    },
+    {
+      "surface_form": "corte de los milagros como cura de ego / desocialización por rechazo",
+      "canonical_guess": "arquetipo-cero",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La corte de los milagros no es un grupo cálido que te acoge; te dice \"estás jodido, como todos\","
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Es una cura de ego: descubres que no eres el ser más desgraciado, hay un estamento entero de desgraciados,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica del concepto víctor-huguiano de 'corte de los milagros' como mecanismo operativo distinto del grupo familiar cálido: NO es acogida sino CURA DE EGO. El sujeto desocializado por rechazo descubre allí que no es el ser más desgraciado sino que pertenece a un estamento de desgraciados — sin anestesia ni abrazo. Distinción operativa entre desocialización POR RECHAZO (Arlequín) y desocialización POR INADAPTACIÓN (otro mito distinto). Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "El Arlequín está desocializado porque ha sido rechazado: por pobre, loco, feo, enfermo o diferente,"
+    },
+    {
+      "surface_form": "Joker como némesis del caos sarcástico / dos partes del yo con Batman",
+      "canonical_guess": "caballero-oscuro",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El caballero oscuro es quien estuvo a punto de convertirse en el loco pero eligió su propio camino neurótico,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La némesis del caballero oscuro no puede ser el bien sino el caos: el Joker es la personificación del absurdo sarcástico,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica del CABALLERO OSCURO como figura QUE ESTUVO A PUNTO DE CONVERTIRSE EN LOCO/JOKER pero eligió su propio camino neurótico. La némesis del caballero oscuro NO es el bien sino el caos — el Joker como personificación del absurdo sarcástico. Distinción operativa caballero oscuro (busca su propio orden y equilibrio en la oscuridad) vs caballero blanco artúrico (busca el orden del mundo y de los demás). Sin lectura previa de caballero-oscuro en este barrido, capturado en promote_new del concept arquetipo-cero con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "Un caballero oscuro lucha por encontrar su propio orden y equilibrio en la oscuridad con todo en contra,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "arquetipo-cero",
+      "canonical_name": "Arquetipo Cero (Arlequín / Loco del Tarot / Joker)",
+      "page_type": "concept",
+      "domain_primary": "social.psychology.jungian",
+      "primary_domains": [
+        "social.psychology.jungian",
+        "humanities.religion",
+        "interdisciplinary.cultural_studies"
+      ],
+      "promotion_criterion": "monographic_dedicated_concept_articulation",
+      "promotion_criterion_detail": "Vídeo monográfico de ~86 min titulado explícitamente 'Arquetipo Cero' dedicado a articular como concept foundational canal-específico la figura del Arlequín / Loco del Tarot / Joker como carta CERO que reúne los cuatro elementos en figura caótica indeterminada. Articulación cross-corpus: Goethe + mitología nórdica + Commedia dell'Arte + Víctor Hugo + tarot + Ghost in the Shell + Salinger + DC (Joker/Batman) + Hereditary + Hamlet.",
+      "one_line_summary": "El ARQUETIPO CERO articulado por el canal nombra la figura del ARLEQUÍN / LOCO DEL TAROT / JOKER como carta cero que precede a los cuatro elementos cuaternarios — caos contenido en singularidad sin delimitar (huevo órfico circular con serpiente envolvente; alef cabalístico con valor 1/0/infinito). El cuadro genealógico es estructural: caos originario → dioses (Cronos, Zeus) → padres oscuros (Saturno, Frollo, Frankenstein) que devoran/recluyen al hijo por desprecio (no por alimento como la madre oscura) → arlequines desocializados por rechazo (deformes, locos, feos, pobres, diferentes) → corte de los milagros como CURA DE EGO (no acogida cálida sino constatación de no estar solo en la desgracia, sin anestesia). El arquetipo recorre la mitología nórdica (Helle King como cabalgador de la cacería salvaje, primera señal del Ragnarök, devenido elfo-duende raptor de niños), la Commedia dell'Arte (Arlequín como pícaro/bufón/charlatán/rufián/truhán — cuatro vertientes de la misma figura, no cuatro figuras), Víctor Hugo (tres novelas sobre el Arlequín que ninguna acaba bien: Los Miserables, El hombre que ríe, El jorobado de Notre Dame), el tarot (Loco como carta cero con iconografía precisa: precipicio, rosa blanca, perro-instinto, hatillo) y la cultura contemporánea (hikikomori como arlequín tecnológico, Joker como Gwynplaine actualizado, Batman como caballero oscuro que estuvo a punto de convertirse en Joker pero eligió su propio camino neurótico). La némesis del caballero oscuro NO es el bien sino el caos — Joker como reflejo sarcástico de Batman. Para evitar convertirse en Joker hay que encontrar una diosa en la tierra; sin diosa madre, la venganza del héroe es para sí mismo (Hamlet, Batman). De la corte de los milagros se entra pero no se sale.",
+      "frontmatter_fields_proposed": {
+        "synonyms": [
+          "Arlequín",
+          "Loco del Tarot",
+          "Joker",
+          "Carta Cero",
+          "Hombre que ríe"
+        ]
+      },
+      "relations_to_existing": [
+        {
+          "type": "compared_with",
+          "to": "caballero-oscuro",
+          "weight": "canonical",
+          "note": "el caballero oscuro es quien estuvo a punto de convertirse en arquetipo cero pero eligió su propio camino neurótico; la némesis del caballero oscuro NO es el bien sino el caos (Joker)"
+        },
+        {
+          "type": "compared_with",
+          "to": "antiheroe",
+          "weight": "strong",
+          "note": "el arquetipo cero es figura distinta del antihéroe ordinario y del héroe truncado — opera por desocialización por rechazo y caos contenido, no por inversión moral ni truncamiento"
+        },
+        {
+          "type": "exemplified_by",
+          "to": "tarot-arquetipico",
+          "weight": "canonical",
+          "note": "el Loco del Tarot como carta cero es la cifra arquetípica fundamental — caos contenido en los cuatro elementos antes de su delimitación cuaternaria"
+        },
+        {
+          "type": "compared_with",
+          "to": "cuatro-elementos-arquetipicos",
+          "weight": "canonical",
+          "note": "el huevo órfico (cero circular conteniendo el caos sin delimitar) es el ESTADO PRE-CUATERNARIO de la cuaternidad — lo que precede a los cuatro elementos"
+        },
+        {
+          "type": "compared_with",
+          "to": "diosa-blanca",
+          "weight": "strong",
+          "note": "la maternidad ausente es condición estructural del arquetipo cero — sin diosa madre el héroe no puede volver a ser rey y queda atrapado en sí mismo (Batman, Hamlet); la corte de los milagros opera bajo la madre civilizada (Notre Dame) ausente o sometida al padre oscuro"
+        },
+        {
+          "type": "compared_with",
+          "to": "shadow-archetype",
+          "weight": "strong",
+          "note": "el arquetipo cero es figura específica donde la sombra junguiana opera por DESOCIALIZACIÓN POR RECHAZO en lugar de por proyección o integración — modalidad distinta del cuadro sombra clásico"
+        },
+        {
+          "type": "exemplified_by",
+          "to": "fight-club-1999-film",
+          "weight": "tangential",
+          "note": "Tyler como Joker contenido en Jack — modalidad operativa del arquetipo cero en clave de escisión psíquica del consumismo deprimido"
+        },
+        {
+          "type": "exemplified_by",
+          "to": "lovecraft-howard",
+          "weight": "tangential",
+          "note": "el horror cósmico lovecraftiano comparte con el arquetipo cero la estructura del caos sin forma como figura terminal del aparato representacional"
+        },
+        {
+          "type": "compared_with",
+          "to": "viaje-heroe",
+          "weight": "strong",
+          "note": "el arquetipo cero opera como punto de bifurcación del monomito masculino: con diosa madre = héroe colectivo; sin diosa madre = héroe neurótico-individualista que se convierte en arlequín o caballero oscuro"
+        }
+      ],
+      "rationale": "Concept page foundational. El directo articula el ARQUETIPO CERO como figura autónoma del aparato canal-específico que NO se reduce a las figuras existentes (caballero-oscuro, antiheroe, heroe-truncado, shadow-archetype). Aporta articulación genealógica completa (caos→padre oscuro→arlequín→corte de los milagros), iconografía precisa (Loco del Tarot, huevo órfico, máscara histriónica) y casos operativos cross-corpus (Quasimodo, Gwynplaine, Joker, hikikomori, Holden Caulfield, Hereditary). Pieza fundamental del aparato arquetípico que la wiki no documentaba como concept independiente. La página supersedería citas dispersas en caballero-oscuro, antiheroe y tarot-arquetipico con análisis sustantivo del arquetipo como figura cero del aparato cuaternario."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "cuatro-elementos-arquetipicos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Donde el directo Excalibur+LOTR mapeaba a personajes tolkienianos (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra), este directo mapea a figuras artúricas vía los palos del tarot. Las dos lecturas son la misma cuaternidad bajo dos vehículos iconográficos distintos — el bestiario tolkieniano y los arcanos del tarot.",
+      "content_proposed": "\n\n## El estado pre-cuaternario: el huevo órfico y el caos contenido\n\nEl monográfico *[[arquetipo-cero|Arquetipo Cero]]* (mar 2023) articula una pieza foundational que las secciones anteriores tenían implícita: lo que PRECEDE a la cuaternidad. Antes de que los cuatro elementos se diferencien, hay un ESTADO PRE-CUATERNARIO donde el caos está contenido en singularidad sin delimitar.\n\n> \"El huevo órfico, circular como un cero, conteniendo el caos sin delimitar en cuatro elementos, es el loco del Tarot,\"\n→ [Arquetipo Cero (39:51)](https://youtu.be/nern-nhePjE?t=2391)\n\n> \"El caos como singularidad originaria está representado en el huevo órfico: un huevo con una serpiente envolvente,\"\n→ [Arquetipo Cero (44:23)](https://youtu.be/nern-nhePjE?t=2663)\n\n> \"Zeus proviene de Cronos, Cronos de Gea y Urano, Urano del caos,\"\n→ [Arquetipo Cero (44:23)](https://youtu.be/nern-nhePjE?t=2663)\n\nLa pieza articula tres niveles que las secciones anteriores tenían dispersos:\n\n1. **El huevo órfico como cifra del caos contenido**: figura circular (cero) con serpiente envolvente que contiene el caos ANTES de su diferenciación cuaternaria. Iconografía órfica greco-misterial precisa: el huevo es el contenedor primero del que emergerán los cuatro elementos como diferenciación posterior. La forma circular no es decorativa — cifra que el caos NO está estructurado en cuatro polos, está contenido en singularidad sin polos.\n2. **Genealogía cosmogónica griega**: caos → Urano + Gea → Cronos → Zeus. La cadena articula que los dioses olímpicos NO son originarios sino derivados — descienden del caos por sucesivas individuaciones cuaternarias. El cuadro precisa la asimetría temporal del aparato: la cuaternidad es ESTADO POSTERIOR del caos, no su organización originaria.\n3. **Conexión cabalística**: la letra alef tiene valor 1 pero también puede tomar valor 0 o infinito. La pieza enlaza la matemática cabalística con la iconografía órfica — el cero/uno/infinito es la misma figura del caos contenido antes de la diferenciación. Conexión con [[kabbalah]] precisando que la letra primera del alfabeto hebreo cifra precisamente el estado pre-cuaternario donde lo determinado y lo indeterminado coinciden.\n\nLa pieza enlaza con el [[arquetipo-cero|Loco del Tarot]] como figura iconográfica que cifra ese estado pre-cuaternario en formato narrativo: el joven al borde del precipicio con perro-instinto, rosa blanca y hatillo es la encarnación del caos contenido en figura humana — antes de que el héroe se diferencie en uno de los cuatro polos cuaternarios. La consecuencia operativa para el aparato general: la cuaternidad NO se postula como punto de partida sino como diferenciación posterior del estado cero. Cualquier sujeto que regrese estructuralmente al estado cero (arlequín desocializado, caballero oscuro neurótico, joker) está operando en territorio pre-cuaternario, no en territorio cuaternario disfuncional.\n",
+      "wikilinks_introduced": [
+        "arquetipo-cero",
+        "kabbalah"
+      ],
+      "citations_added": [
+        {
+          "video_id": "nern-nhePjE",
+          "timestamp_seconds": 2391,
+          "cite_markdown": "[Arquetipo Cero (39:51)](https://youtu.be/nern-nhePjE?t=2391)"
+        },
+        {
+          "video_id": "nern-nhePjE",
+          "timestamp_seconds": 2663,
+          "cite_markdown": "[Arquetipo Cero (44:23)](https://youtu.be/nern-nhePjE?t=2663)"
+        }
+      ],
+      "rationale": "La página articula la cuaternidad en cuatro vehículos iconográficos (figuras tolkienianas, palos del tarot, matriz temperamental, gemas de la espada de Lady Halcón). NO contiene la articulación del ESTADO PRE-CUATERNARIO: el huevo órfico como cifra del caos contenido en singularidad antes de la diferenciación cuaternaria; genealogía cosmogónica griega del caos a los dioses olímpicos; conexión cabalística (alef=1/0/infinito); el Loco del Tarot como cifra iconográfica del estado cero. Material foundational que precede el aparato cuaternario y aporta el contexto donde encaja el nuevo concept arquetipo-cero.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza completa el aparato diagnóstico del monomito como vara crítica con tres figuras de inversión: el escapismo (Harry Potter, motivación interna ausente), el truncamiento (caballero negro, héroe que aprende contra el mundo), y el antihéroe (héroe sin saberlo). Los Coen aplican la estructura deliberadamente, marcando las tres fases de Campbell con sueños del protagonista y recorriendo los 22 Arcanos del [[tarot-arquetipico|tarot]] en su forma invertida.",
+      "content_proposed": "\n\n## La diosa madre como condición de la heroicidad colectiva: sin ella, héroe neurótico\n\nEl monográfico *[[arquetipo-cero|Arquetipo Cero]]* (mar 2023) articula una distinción categorial que la página tenía implícita: la PRESENCIA o AUSENCIA de la diosa madre como CONDICIÓN OPERATIVA que determina si la venganza del héroe opera para sí mismo o para los demás.\n\n> \"Sin la diosa madre, la venganza del héroe es para sí mismo; con diosa, venga a los demás,\"\n→ [Arquetipo Cero (1:22:22)](https://youtu.be/nern-nhePjE?t=4942)\n\n> \"Batman es un Hamlet que nunca consigue volver a ser rey porque la diosa está sometida al padre oscuro,\"\n→ [Arquetipo Cero (1:22:22)](https://youtu.be/nern-nhePjE?t=4942)\n\n> \"Hamlet es un joker que convierte su amargura en sarcasmo mediante el fingimiento de la locura,\"\n→ [Arquetipo Cero (1:22:22)](https://youtu.be/nern-nhePjE?t=4942)\n\n> \"Para evitar convertirse en Batman hay que encontrar una diosa en la tierra, una Eva,\"\n→ [Arquetipo Cero (1:25:37)](https://youtu.be/nern-nhePjE?t=5137)\n\nLa pieza articula tres modalidades operativas del monomito masculino según la disponibilidad del polo femenino:\n\n1. **Con diosa madre genuina** = héroe colectivo. La venganza/lucha del héroe opera para los DEMÁS — el sujeto sale al mundo en busca de la justicia general porque la diosa-sostén le da el lugar arquetípico desde el cual defender la civilización entera. Es el monomito completo articulado en las secciones anteriores (Excalibur, El Señor de los Anillos, Lady Halcón).\n2. **Sin diosa madre** = héroe neurótico-individualista. La venganza opera para SÍ MISMO porque el sujeto carece del lugar arquetípico colectivo desde el cual operar al servicio de los demás. Es la matriz del [[caballero-oscuro|caballero oscuro]] que lucha por encontrar su propio orden en la oscuridad con todo en contra (Batman como Hamlet contemporáneo).\n3. **Con diosa sometida al padre oscuro** = héroe a punto de arquetipo-cero. La diosa existe pero está capturada o sometida — el sujeto NO PUEDE volver a ser rey porque la conjunción polar genuina queda bloqueada. Es la posición límite donde el héroe queda a un paso de convertirse en Joker (caos sarcástico) y solo se salva eligiendo su propio camino neurótico (caballero oscuro). Hamlet articula el caso paradigmático: convierte su amargura en sarcasmo mediante el fingimiento de la locura, posición intermedia entre la heroicidad genuina y el [[arquetipo-cero|arquetipo cero]] terminal.\n\nLa consecuencia operativa para el monomito articulado en la página: el [[hieros-gamos|hieros gamos]] no es solo culminación del recorrido heroico sino CONDICIÓN DE POSIBILIDAD de la heroicidad colectiva. El héroe sin diosa puede luchar pero su lucha es estructuralmente para sí mismo; el héroe con diosa sometida queda atrapado en el limbo entre los dos modos. La fórmula 'para evitar convertirse en Batman hay que encontrar una diosa en la tierra, una Eva' precisa la operación terapéutica: la salida del cuadro neurótico-individualista pasa por la integración real del polo femenino, no por la confrontación heroica más radical contra el mal.\n\n### Bruce Wayne como verdadera identidad de Batman\n\n> \"Bruce Wayne es la parte falsa de Batman; la máscara de Batman es verdaderamente Bruce Wayne,\"\n→ [Arquetipo Cero (1:12:42)](https://youtu.be/nern-nhePjE?t=4362)\n\nLa pieza añade una inversión iconográfica decisiva sobre el caso paradigmático: Bruce Wayne (el sujeto formalmente integrado en la sociedad) es la PARTE FALSA — la representación postiza del sujeto en el mundo del padre oscuro. La máscara de Batman es la VERDADERA IDENTIDAD del sujeto que opera fuera del sistema buscando su propio orden. La inversión cifra la condición del héroe sin diosa madre: la integración formal en la sociedad es la fachada, la operación nocturna fuera del sistema es lo genuino. Sin diosa que ofrezca un lugar arquetípico legítimo en el mundo, el sujeto opera con identidad doble donde la pública es la inauténtica.\n",
+      "wikilinks_introduced": [
+        "arquetipo-cero",
+        "caballero-oscuro"
+      ],
+      "citations_added": [
+        {
+          "video_id": "nern-nhePjE",
+          "timestamp_seconds": 4942,
+          "cite_markdown": "[Arquetipo Cero (1:22:22)](https://youtu.be/nern-nhePjE?t=4942)"
+        },
+        {
+          "video_id": "nern-nhePjE",
+          "timestamp_seconds": 5137,
+          "cite_markdown": "[Arquetipo Cero (1:25:37)](https://youtu.be/nern-nhePjE?t=5137)"
+        },
+        {
+          "video_id": "nern-nhePjE",
+          "timestamp_seconds": 4362,
+          "cite_markdown": "[Arquetipo Cero (1:12:42)](https://youtu.be/nern-nhePjE?t=4362)"
+        }
+      ],
+      "rationale": "La página articula las dos fases masculinas del monomito (seno madre/padre), héroe truncado, antihéroe ordinario, sacrificio pasivo vs heroico, modalidades del cierre (sacrificio innato + apoteosis colectivo + reina de ambos mundos), inserts previos. NO contiene la articulación específica de la PRESENCIA/AUSENCIA DE LA DIOSA MADRE como condición operativa que determina si la venganza opera para sí mismo o para los demás. Material que añade tres modalidades del monomito según el polo femenino (con diosa = colectivo, sin diosa = neurótico, con diosa sometida = limbo arquetipo-cero) + inversión iconográfica Bruce Wayne/Batman como cifra de la condición del héroe sin diosa.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Helle King + cacería salvaje + Erlkönig de Goethe",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica de la genealogía nórdica del arquetipo cero: Odín tiene contraparte oscura (Helle King) que cabalga la cacería salvaje (primera señal del Ragnarök) montando una yegua negra (Nightmare = mare). El Helle King deviene elfo-duende raptor de niños. Goethe (Erlkönig) actualiza el motivo: padre que cabalga con hijo moribundo, rey de los elfos seduce al niño hasta su muerte. Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "El Helle King se personificaba en una especie de elfo-duende que raptaba niños por la noche, como en Dentro del Laberinto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Arlequín en Commedia dell'Arte: cuatro vertientes (Cobielo/Polichinela/Escapino/Briguela)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de las cuatro vertientes operativas del Arlequín en Commedia dell'Arte: pícaro/bufón/charlatán (Cobielo), rufián que finge intelectualidad (Polichinela), pícaro escurridizo y ladrón (Escapino), truhán traicionero (Briguela). Las cuatro figuras NO son personajes diferentes sino ESPECIFICACIONES de la misma figura de Arlequín. Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "Las cuatro figuras son especificaciones de la misma figura de Arlequín, no figuras diferentes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Quasimodo / Gwynplaine / Holden Caulfield / hikikomori como arlequines contemporáneos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cuatro casos operativos del arquetipo cero en literatura: Quasimodo (Notre Dame), Gwynplaine (El hombre que ríe), Holden Caulfield (El guardián entre el centeno), hikikomori japonés contemporáneo. Tres novelas de Víctor Hugo sobre el Arlequín que ninguna acaba bien (Los Miserables, El hombre que ríe, El jorobado de Notre Dame). Capturado en promote_new.",
+      "quote_evidence": "Los Miserables, El hombre que ríe y El jorobado de Notre Dame son tres novelas sobre el Arlequín,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cualquiera de estas obras podría merecer entity_work page propia si recurre con análisis sustantivo dedicado.",
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Joker (DC) como arquetipo-cero contemporáneo culminante",
+      "reason_code": "passing_mention",
+      "reason_detail": "El Joker articulado como CULMINACIÓN del arquetipo del Arlequín: proviene de Gwynplaine (encarna el mal en su piel mientras su corazón sufre); doble absurdo (estar riendo sin querer reír + risa que nadie toma como humor verdadero); broma asesina como destrucción del exterior por venganza ante un mundo sin solución. Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "El Joker proviene de Gwynplaine: encarna en su piel el mal mientras su corazón sufre,",
+      "review_priority": "medium",
+      "review_priority_reason": "Joker (Phillips, 2019) y/o The Dark Knight (Nolan, 2008) podrían merecer entity_work page propia si recurren con análisis sustantivo dedicado.",
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Hereditary: rey de los locos / coronación demoníaca",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa al final del directo: Hereditary articula el mismo mito del Arlequín — el joven es coronado como rey de los locos encarnando al demonio, con el padre ausente y todo. Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "Al final de Hereditary el joven es coronado como rey de los locos encarnando al demonio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "padre oscuro vs madre oscura: dos modalidades de devorar al hijo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción categorial canal-específica entre las dos modalidades del progenitor devorador: la madre oscura DEVORA para alimentarse afectivamente (Marla, Medusa); el padre oscuro DEVORA porque desprecia al hijo como cosa inferior (Saturno, Frollo, Frankenstein con Igor). Miedo del padre oscuro = ser castrado/sustituido por el hijo = herencia maligna cíclica del padre tirano. Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "El mayor miedo del padre oscuro es ser castrado (sustituido) por el hijo: la castración metafórica es arrebatarle su masculinidad,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación padre oscuro como contraparte estructural de madre oscura podría merecer concept page propia si recurre con sustantividad equivalente.",
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "corte de los milagros como cura de ego (Víctor Hugo)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica del concepto víctor-huguiano: la corte de los milagros NO es grupo cálido que acoge sino CURA DE EGO. Distinción operativa entre desocialización por rechazo (Arlequín) vs desocialización por inadaptación (otro mito distinto). Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "Es una cura de ego: descubres que no eres el ser más desgraciado, hay un estamento entero de desgraciados,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "Notre Dame de París como diosa madre civilizada (catedral-ciudad)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura iconográfica de Notre Dame como diosa madre CIVILIZADA: la civilización física, la tierra construida, no la naturaleza. La corte de los milagros se acoge en las cloacas de París bajo el manto proveedor de Notre Dame. Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "Notre Dame es la diosa madre civilizada: la ciudad, no la naturaleza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca"
+    },
+    {
+      "surface_form": "Jaskier (The Witcher) como Cobielo / The Witcher como mitología nórdica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa: Jaskier en The Witcher es prototipo de Cobielo (charlatán cantante); The Witcher y Juego de Tronos están basados en mitología nórdica. Capturado en promote_new del concept arquetipo-cero.",
+      "quote_evidence": "Cobielo es el charlatán cantante y bailarín (prototipo de Jaskier en The Witcher),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "arquetipo-cero"
+    },
+    {
+      "surface_form": "el Proxy: la inquietud sobre la naturaleza del yo (origen del nombre del canal)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Articulación intra-directo de la figura del 'proxy' (androide con conciencia que no sabe si es auténtico) como representación de la dificultad de concebir el yo. Conecta con conciencia-e-inteligencia-en-proxy donde el origen del nombre del canal ya está documentado. Capturado en promote_new del concept arquetipo-cero como cita.",
+      "quote_evidence": "La figura del androide con conciencia que no sabe si es auténtico representa la dificultad de concebir el yo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy"
+    },
+    {
+      "surface_form": "fealdad y belleza como criterios estéticos biológicos de la moral",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la moral con criterios estéticos biológicos. La fealdad y la belleza forman parte de los diseños morales — no son categorías culturales arbitrarias sino fundadas en criterios biológicos. Mención puntual sin elaboración sustantiva. Capturado en promote_new.",
+      "quote_evidence": "La fealdad y la belleza son parte de los diseños morales; la moral tiene criterios estéticos biológicos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación foundational sobre moral con base biológica que enriquece varios conceptos del aparato. Worth verificar si recurre con sustantividad.",
+      "enriches_concept": "arquetipo-cero"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 1,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Ghost in the Shell: hombre que ríe como mito del jefe / síndrome de ostracismo cibercerebral] reason=passing_mention quote no literal",
+    "WARN promote_new[Arquetipo Cero / Arlequín / Loco del Tarot / Joker] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

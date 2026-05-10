@@ -1,0 +1,429 @@
+{
+  "video_id": "7LTa7-tZwv0",
+  "video_title": "Cuento de Navidad y el espíritu Luterano",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Cuento de Navidad y el espíritu Luterano (análisis monográfico)",
+      "canonical_guess": "cuento-de-navidad-muppets-1992-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 126,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El luteranismo tiende a construir estereotipos porque prioriza la vivencia interior sobre la obra exterior,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La diferencia central entre luteranismo y catolicismo es si lo importante es el sentimiento o la acción,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Vídeo monográfico (~126 min) que articula la lectura del Cuento de Navidad como CASO OPERATIVO PARADIGMÁTICO DEL ESPÍRITU LUTERANO. Es la fuente foundational del análisis canal-específico que la página existente ya documenta como tesis nuclear ('caso operativo paradigmático del espíritu luterano de la Navidad'). El directo articula la distinción luteranismo vs catolicismo en seis ejes operativos (bienestar interior vs obra; espíritu como estado afectivo; enamoramiento vs obra matrimonial; sobrecompensación; individualismo vs familia; aprendizaje por contraste vs continuo) que la página debe contener como aparato teórico subyacente al análisis específico de la película.",
+      "quote_evidence": "La película comete el pecado luterano de equiparar las emociones positivas de la Navidad con lo verdaderamente importante,"
+    },
+    {
+      "surface_form": "distinción operativa luteranismo vs catolicismo en seis ejes",
+      "canonical_guess": "teologia-catolica-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 80,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Para los luteranos el centro del valor es el estado interno positivo; si te hace sentir bien, será bien,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Para los católicos el bien y el mal no dependen de lo que te hace sentir bien o mal,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El católico dice: con suficientes buenas obras terminarás sintiéndote bien para siempre; el luterano invierte el orden,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el marco católico canalizar/catalizar (aparato sacramental, soteriológico, sobrenatural-institucional) y la sacrilegio progresista (misa de Beyoncé) + Islam como religión poética vs catolicismo filosófico (mi insert previo). NO contiene la articulación SISTEMÁTICA de la distinción LUTERANISMO vs CATOLICISMO en sus seis ejes operativos: (1) bienestar interior vs buena obra como criterio del bien; (2) espíritu como estado afectivo del yo (luterano) vs presencia sobrenatural en lo terrenal (católico); (3) enamoramiento vs obra matrimonial; (4) sobrecompensación luterana vs continuidad católica; (5) individualismo vs familia como unidad mínima; (6) aprendizaje por contraste vs aprendizaje continuo. Marco comparativo sistemático que extiende la articulación católica con su contrapunto operativo más cercano dentro del cristianismo.",
+      "quote_evidence": "El catolicismo comprende que el individuo solo no es nada y que la familia es la unidad mínima de grupo con lazos inevitables,"
+    },
+    {
+      "surface_form": "espíritu navideño luterano confundido con sensación de fiesta / sobrecompensación",
+      "canonical_guess": "consumismo-critica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El sentimiento de \"por fin es viernes\" no es el espíritu santo; es el espíritu de lo material,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Scrooge compensa derrochando y viviendo de golpe: es muy Disney y muy luterano,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula consumismo como anestesia del vacío existencial, marketing como venta de identidad, lenitivo y dramática (mi insert previo via Fight Club), love bombing, FOMO, hiperpromesa de socialización, ornamentación institucional como anti-consumo. NO contiene: (1) el ESPÍRITU NAVIDEÑO LUTERANO confundido con sensación de fiesta hedonista (equiparación del 'por fin es viernes' con experiencia espiritual genuina); (2) la SOBRECOMPENSACIÓN como patrón estructural luterano (Scrooge que pasa del extremo avaro al extremo derrochador), distinta del CONTINUO católico (las buenas obras como hábito sostenido). Material que extiende el aparato consumista con su matriz teológica protestante específica.",
+      "quote_evidence": "Los luteranos glorifican el disfrute como algo santo; los católicos dicen que celebrar no te exime de llevar la Navidad todos los días,"
+    },
+    {
+      "surface_form": "primer desamor M/F: revivir el abandono de la madre",
+      "canonical_guess": "herida-narcisista-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los hombres recuerdan el primer amor como fracaso y herida; las mujeres lo recuerdan con positividad,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El primer desamor del varón es un revivir del abandono de la madre porque la ruptura del varón con la madre es más intensa,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la herida narcisista en sus modalidades externalizadora vs reversa (ego frágil), inversión cultural M/F (mi insert previo via Tontas en Potencia), abuso narcisista como condicionamiento. NO contiene la asimetría específica del PRIMER DESAMOR: los hombres lo recuerdan como fracaso y herida; las mujeres lo recuerdan con positividad. La causa estructural es genuinamente psíquica: el primer desamor del varón es REVIVIR DEL ABANDONO DE LA MADRE porque la ruptura del varón con la madre es más intensa (separación del polo femenino para individuación masculina); las mujeres tienen seguridad de la NO-RUPTURA con la madre, lo que les permite integrar mejor la pérdida amorosa adulta. Pieza foundational sobre la asimetría afectiva M/F en la elaboración del duelo amoroso temprano.",
+      "quote_evidence": "Las mujeres tienen la seguridad de la no-ruptura con la madre, lo que les permite integrar mejor la pérdida,"
+    },
+    {
+      "surface_form": "fantasmas como recuerdos no resueltos / asuntos pendientes del inconsciente",
+      "canonical_guess": "trauma-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los fantasmas son elaboraciones de la psique sobre el pasado: recuerdos evocados que piden dejar de ser implícitos,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Un recuerdo que no fue resuelto te lastra y pide ser tratado: es un asunto pendiente que grita desde la conciencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica de los FANTASMAS como elaboraciones de la psique sobre el pasado: recuerdos evocados que piden dejar de ser implícitos. Mecánica operativa: un recuerdo NO RESUELTO opera como asunto pendiente que grita desde la conciencia ('te asustas de que aquello que debía estar muerto todavía no lo esté'). Conecta con teoria-de-la-memoria-en-proxy (mi articulación previa sobre la memoria como repetición de submatrices) y trauma-en-proxy. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "Te asustas de que aquello que debía estar muerto todavía no lo esté,"
+    }
+  ],
+  "promote_new": [],
+  "pending_updates": [
+    {
+      "page_id": "cuento-de-navidad-muppets-1992-film",
+      "update_type": "append_to_section",
+      "section_target": "Lagunas",
+      "anchor_passage": "",
+      "content_proposed": "\n\n## Aparato teórico foundational: el espíritu luterano y la Navidad como rito\n\nEl monográfico *Cuento de Navidad y el espíritu Luterano* (dic 2024, ~126 min) articula el aparato teórico subyacente al análisis específico de la película. La distinción operativa luteranismo vs catolicismo en seis ejes constituye el marco comparativo que organiza la lectura.\n\n### Eje 1: bienestar interior vs buena obra como criterio del bien\n\n> \"Para los luteranos el centro del valor es el estado interno positivo; si te hace sentir bien, será bien,\"\n→ [Cuento de Navidad y el espíritu Luterano (30:17)](https://youtu.be/7LTa7-tZwv0?t=1817)\n\n> \"Para los católicos el bien y el mal no dependen de lo que te hace sentir bien o mal,\"\n→ [Cuento de Navidad y el espíritu Luterano (30:17)](https://youtu.be/7LTa7-tZwv0?t=1817)\n\n> \"El católico dice: con suficientes buenas obras terminarás sintiéndote bien para siempre; el luterano invierte el orden,\"\n→ [Cuento de Navidad y el espíritu Luterano (30:17)](https://youtu.be/7LTa7-tZwv0?t=1817)\n\nLa articulación nuclear: las dos tradiciones invierten el orden causal. El católico postula que las buenas obras producen el bienestar como CONSECUENCIA acumulativa; el luterano postula que el bienestar interior ES el criterio del bien. La consecuencia operativa para el análisis del film: la película comete el 'pecado luterano' de equiparar las emociones positivas de la Navidad con lo verdaderamente importante.\n\n### Eje 2: espíritu como estado afectivo (luterano) vs presencia sobrenatural en lo terrenal (católico)\n\n> \"Los protestantes llaman \\\"espíritus\\\" a estados afectivos del yo que provocan bienestar,\"\n→ [Cuento de Navidad y el espíritu Luterano (35:50)](https://youtu.be/7LTa7-tZwv0?t=2150)\n\n> \"Para ellos el bienestar es un don de Dios que se disfruta como una oleada de santidad,\"\n→ [Cuento de Navidad y el espíritu Luterano (35:50)](https://youtu.be/7LTa7-tZwv0?t=2150)\n\n> \"Para los católicos el bienestar es parte de lo terrenal, no tiene que ver con el bienestar espiritual,\"\n→ [Cuento de Navidad y el espíritu Luterano (35:50)](https://youtu.be/7LTa7-tZwv0?t=2150)\n\nLa pieza precisa la divergencia categorial sobre la categoría 'espíritu'. El protestantismo nombra ESPÍRITU a estados afectivos del yo (oleada de santidad como bienestar). El catolicismo distingue radicalmente espíritu (presencia sobrenatural en lo terrenal, como articulado en cuatro-elementos-arquetipicos sobre el agua-espíritu) de bienestar (categoría terrenal sin relación necesaria con lo espiritual). La consecuencia para el análisis del film: las apariciones de los tres espíritus operan como ESTADOS AFECTIVOS proyectados de Scrooge sobre el exterior — pareidolias, reelaboraciones de la psique sobre el pasado/presente/futuro — más que como entidades sobrenaturales en sentido católico.\n\n### Eje 3: enamoramiento (luterano) vs obra matrimonial (católico)\n\n> \"Para los luteranos el enamoramiento y los afectos físicos son el motor del amor en pareja,\"\n→ [Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)\n\n> \"Para los católicos el matrimonio es la obra matrimonial: el pacto sagrado de compañeros de vida; lo demás es accesorio,\"\n→ [Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)\n\n> \"El católico dice \\\"me enamoré y decidí prolongar el estado a mis obras\\\"; el luterano dice \\\"me enamoré y me dejé llevar\\\",\"\n→ [Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)\n\nLa pieza articula la divergencia operativa sobre el matrimonio. El luteranismo lo concibe como motor afectivo (enamoramiento + afectos físicos como sustrato continuo); el catolicismo como OBRA MATRIMONIAL — pacto sagrado de compañeros de vida cuyo motor afectivo es accesorio, no fundamental. La fórmula condensa la asimetría operativa: el católico decide PROLONGAR EL ESTADO A SUS OBRAS; el luterano se DEJA LLEVAR por el afecto. La consecuencia para el análisis del film: la pérdida de Isabel por Scrooge opera como rigidez financiera donde la decisión de no comprometerse precede al desamor (cuadro católico fallido), no como agotamiento del enamoramiento (cuadro luterano).\n\n### Eje 4: sobrecompensación (luterano) vs continuidad (católico)\n\n> \"Scrooge compensa derrochando y viviendo de golpe: es muy Disney y muy luterano,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)\n\n> \"La sobrecompensación y el exceso son muy luteranos; los católicos no tienden a la sobrecompensación,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)\n\nLa pieza precisa la modalidad temporal de la conversión luterana frente a la católica. El luterano oscila entre extremos (Scrooge avaro → Scrooge derrochador); el católico opera por continuidad sostenida de las buenas obras como hábito. La consecuencia diagnóstica: la conversión final de Scrooge — derroche compensatorio + vida de golpe — confirma la matriz luterana del relato. Una conversión católica habría sostenido la transformación como hábito gradual, no como sobrecompensación inmediata.\n\n### Eje 5: individualismo (luterano) vs familia como unidad mínima (católico)\n\n> \"El luteranismo es muchísimo más individualista que el catolicismo,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:55:46)](https://youtu.be/7LTa7-tZwv0?t=6946)\n\n> \"El catolicismo comprende que el individuo solo no es nada y que la familia es la unidad mínima de grupo con lazos inevitables,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:55:46)](https://youtu.be/7LTa7-tZwv0?t=6946)\n\n> \"La familia puede salvarnos la vida enseñándonos lo que son los afectos: ese es el tesoro que le falta a Scrooge,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:55:46)](https://youtu.be/7LTa7-tZwv0?t=6946)\n\nLa pieza articula el flanco antropológico de la divergencia: el luteranismo opera con el individuo como unidad valorativa primaria; el catolicismo con la FAMILIA como unidad mínima. Los lazos familiares son INEVITABLES (no constructivos como las amistades), y por eso operan como sustrato del afecto que ningún individuo aislado puede generar. El tesoro que le falta a Scrooge es estructural: el sobrino opera como única familia carnal y por eso despierta afecto inevitable, pero la pérdida de Isabel (familia potencial) y de los compañeros de vida lo deja sin la unidad afectiva mínima. La consecuencia operativa: la conversión genuina de Scrooge habría requerido reconstrucción de la familia, no solo sobrecompensación material.\n\n### Eje 6: aprendizaje por contraste (ingenuidad) vs aprendizaje continuo\n\n> \"Scrooge aprende lo bueno que es el amor cuando le hacen ver lo que ha perdido,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:23:28)](https://youtu.be/7LTa7-tZwv0?t=5008)\n\n> \"El aprendizaje por contraste no es la única forma de aprender y no debería serlo: es propio de la ingenuidad,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:23:28)](https://youtu.be/7LTa7-tZwv0?t=5008)\n\n> \"La ingenuidad provoca que solo puedas aprender a golpes y cuando es demasiado tarde,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:23:28)](https://youtu.be/7LTa7-tZwv0?t=5008)\n\nLa pieza precisa la modalidad cognitiva de la conversión luterana: aprendizaje POR CONTRASTE (ver lo perdido para valorarlo). La crítica del canal: este aprendizaje es PROPIO DE LA INGENUIDAD — la incapacidad de aprender por anticipación racional o por enseñanza estructural reduce el sujeto a aprender a golpes y cuando es demasiado tarde. La consecuencia diagnóstica: Scrooge aprende del fantasma del futuro (lo que pasará si no cambia) precisamente porque su aparato cognitivo no puede aprender de otra manera — no es virtud sino defecto del aparato.\n\n## Los fantasmas como elaboraciones psíquicas: pareidolias y recuerdos no resueltos\n\n> \"Jacob Marley aparece en el llamador como una pareidolia: el cerebro proyecta un recuerdo sobre el exterior,\"\n→ [Cuento de Navidad y el espíritu Luterano (49:57)](https://youtu.be/7LTa7-tZwv0?t=2997)\n\n> \"Los fantasmas son elaboraciones de la psique sobre el pasado: recuerdos evocados que piden dejar de ser implícitos,\"\n→ [Cuento de Navidad y el espíritu Luterano (49:57)](https://youtu.be/7LTa7-tZwv0?t=2997)\n\n> \"Un recuerdo que no fue resuelto te lastra y pide ser tratado: es un asunto pendiente que grita desde la conciencia,\"\n→ [Cuento de Navidad y el espíritu Luterano (52:28)](https://youtu.be/7LTa7-tZwv0?t=3148)\n\nLa pieza articula la mecánica psíquica específica de las apariciones espectrales: NO son entidades sobrenaturales sino ELABORACIONES DE LA PSIQUE sobre material no resuelto. Marley en el llamador es PAREIDOLIA — el cerebro proyecta un recuerdo sobre estímulo ambiguo. Los tres espíritus son recuerdos evocados que piden dejar de ser implícitos para volverse explícitos. La articulación enlaza con [[teoria-de-la-memoria-en-proxy]]: la memoria como repetición de submatrices que se activan ante estímulos relevantes, y los recuerdos no integrados como patrones que persisten con intensidad desregulada (eco del cuadro postraumático aplicado al duelo no elaborado).\n\n## El fantasma del pasado: infancia perdida y primer desamor\n\n> \"El fantasma es una niña etérea porque el pasado del yo siempre es la infancia,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:07:07)](https://youtu.be/7LTa7-tZwv0?t=4027)\n\n> \"El examen de conciencia revela que Scrooge de niño prefería estudiar a relacionarse: se rindió con los demás demasiado pronto,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:07:07)](https://youtu.be/7LTa7-tZwv0?t=4027)\n\n> \"La voz del profesor se convierte en el fantasma interior que obedece toda la vida: \\\"trabaja más y estaré orgulloso de ti\\\",\"\n→ [Cuento de Navidad y el espíritu Luterano (1:11:38)](https://youtu.be/7LTa7-tZwv0?t=4298)\n\nLa pieza articula la cadena específica del cuadro Scrooge-niño: pecado de RENDIRSE CON LOS DEMÁS DEMASIADO PRONTO + REDUCCIÓN PEDAGÓGICA del profesor que limita la formación al trabajo duro + INTROYECCIÓN de la voz del profesor como fantasma interior que obedece toda la vida. El cuadro recapitula la modalidad RIGIDA del [[sindrome-xocas|síndrome del Xocas]] aplicada en su variante adulta consolidada: el sujeto que obedece toda la vida una voz introyectada del deber-ser productivista paterno-pedagógico.\n\n### El primer desamor de Scrooge: asimetría M/F en el duelo amoroso temprano\n\n> \"Los hombres recuerdan el primer amor como fracaso y herida; las mujeres lo recuerdan con positividad,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)\n\n> \"El primer desamor del varón es un revivir del abandono de la madre porque la ruptura del varón con la madre es más intensa,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)\n\n> \"Las mujeres tienen la seguridad de la no-ruptura con la madre, lo que les permite integrar mejor la pérdida,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)\n\nLa pieza articula la asimetría psíquica específica del PRIMER DESAMOR: los hombres lo recuerdan como fracaso y herida; las mujeres con positividad. La causa estructural: el primer desamor del varón REVIVE EL ABANDONO DE LA MADRE porque la ruptura del varón con la madre (separación necesaria para la individuación masculina) es más intensa que la femenina. Las mujeres tienen seguridad de la NO-RUPTURA con la madre, lo que les permite integrar mejor la pérdida. La consecuencia operativa: Isabel como primer amor enterrado de Scrooge opera con la doble carga — pérdida amorosa adulta + revivir del abandono materno temprano — que la rigidez financiera del joven Scrooge fue insuficiente para sostener.\n\n## El fantasma del futuro: lo desconocido adopta la forma más terrible\n\n> \"El futuro no tiene rostro porque no se sabe qué va a pasar; es tan aterrador como el caos,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:36:36)](https://youtu.be/7LTa7-tZwv0?t=5796)\n\n> \"Lo desconocido siempre adopta la forma más terrible posible: si adoptara la más positiva, dejaríamos de preocuparnos,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:36:36)](https://youtu.be/7LTa7-tZwv0?t=5796)\n\n> \"Los mecanismos de defensa son contra lo desconocido; el disfrute es para no preocuparse por el mañana,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:36:36)](https://youtu.be/7LTa7-tZwv0?t=5796)\n\nLa pieza articula la mecánica específica del fantasma del futuro: SIN ROSTRO porque el futuro no tiene contenido determinado, y por economía afectiva la psique le adjudica la forma MÁS TERRIBLE posible. La razón estructural: si lo desconocido adoptara la forma más positiva, el sujeto dejaría de preocuparse por él, y la función adaptativa de la preocupación quedaría desactivada. La consecuencia diagnóstica: los mecanismos de defensa operan estructuralmente contra lo desconocido, y el disfrute opera como dispositivo de no-preocupación por el mañana. El fantasma del futuro de Scrooge — sin rostro, terrible, mostrándole la muerte sin nadie que llore — es la forma extrema del dispositivo: lo más terrible posible para máxima eficacia conversiva.\n\n## La nota sobre la depresión: aprovechar la soledad sin autocastigo\n\n> \"No permitas que nadie te castigue por tu condición ni que te devuelvan tu dificultad con saña,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:48:12)](https://youtu.be/7LTa7-tZwv0?t=6492)\n\n> \"Aprovecha la soledad para trabajar las cosas que los demás no pueden hacer por ti,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:48:12)](https://youtu.be/7LTa7-tZwv0?t=6492)\n\n> \"No consientas insultos ni maltrato por tu condición, pero tampoco te mortifiques: todas las grandes misiones se realizan en solitario,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:48:12)](https://youtu.be/7LTa7-tZwv0?t=6492)\n\nLa pieza añade una articulación operativa para la depresión que el directo precisa explícitamente: la condición no debe ser excusa para el autocastigo ni para el maltrato externo, pero la soledad estructural del cuadro puede aprovecharse productivamente. La fórmula 'todas las grandes misiones se realizan en solitario' cierra la articulación: la soledad no es solo síntoma sino territorio operativo — el sujeto deprimido no debe forzar la salida prematura de su soledad pero tampoco regodearse en ella; debe trabajar lo que los demás no pueden hacer por él.\n",
+      "wikilinks_introduced": [
+        "sindrome-xocas"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 1817,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (30:17)](https://youtu.be/7LTa7-tZwv0?t=1817)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 2150,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (35:50)](https://youtu.be/7LTa7-tZwv0?t=2150)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 2484,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 6612,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 6946,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:55:46)](https://youtu.be/7LTa7-tZwv0?t=6946)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 5008,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:23:28)](https://youtu.be/7LTa7-tZwv0?t=5008)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 2997,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (49:57)](https://youtu.be/7LTa7-tZwv0?t=2997)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 3148,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (52:28)](https://youtu.be/7LTa7-tZwv0?t=3148)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 4027,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:07:07)](https://youtu.be/7LTa7-tZwv0?t=4027)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 4298,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:11:38)](https://youtu.be/7LTa7-tZwv0?t=4298)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 4664,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 5796,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:36:36)](https://youtu.be/7LTa7-tZwv0?t=5796)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 6492,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:48:12)](https://youtu.be/7LTa7-tZwv0?t=6492)"
+        }
+      ],
+      "rationale": "La página existente articula el Cuento de Navidad como caso operativo paradigmático del espíritu luterano. Este monográfico de 126 min es la fuente foundational que articula el aparato teórico subyacente. Material sustantivo nuevo: (1) los SEIS EJES sistemáticos de la distinción luteranismo vs catolicismo (bienestar/obra, espíritu/sobrenatural, enamoramiento/matrimonio, sobrecompensación/continuidad, individuo/familia, contraste/continuo); (2) los fantasmas como elaboraciones psíquicas (pareidolia, recuerdos no resueltos); (3) el fantasma del pasado como infancia perdida + cadena profesor-Scrooge-deber-ser; (4) asimetría M/F del primer desamor (revivir del abandono materno en el varón); (5) fantasma del futuro como lo desconocido adoptando la forma más terrible; (6) nota operativa sobre la depresión (soledad productiva sin autocastigo).",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "teologia-catolica-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La consecuencia teológica para la lectura mariana ya documentada: la Asunción cierra el ciclo precisamente porque María atravesó la Pasión incólume — su capacidad de presenciar el mal sin destrucción es prerrequisito de la elevación corporal, no consecuencia.",
+      "content_proposed": "\n\n## La distinción operativa luteranismo vs catolicismo: seis ejes sistemáticos\n\nEl monográfico *[[cuento-de-navidad-muppets-1992-film|Cuento de Navidad y el espíritu Luterano]]* (dic 2024) articula la distinción comparativa LUTERANISMO vs CATOLICISMO en seis ejes operativos sistemáticos. La pieza extiende el aparato católico de la página con el contrapunto operativo más cercano dentro del cristianismo (frente al contrapunto islámico-poético articulado en mi insert previo).\n\n### Eje 1: bienestar interior (luterano) vs buena obra (católico)\n\n> \"Para los luteranos el centro del valor es el estado interno positivo; si te hace sentir bien, será bien,\"\n→ [Cuento de Navidad y el espíritu Luterano (30:17)](https://youtu.be/7LTa7-tZwv0?t=1817)\n\n> \"El católico dice: con suficientes buenas obras terminarás sintiéndote bien para siempre; el luterano invierte el orden,\"\n→ [Cuento de Navidad y el espíritu Luterano (30:17)](https://youtu.be/7LTa7-tZwv0?t=1817)\n\nLa divergencia nuclear: las dos tradiciones invierten el orden CAUSAL entre obra y bienestar. El catolicismo postula que las buenas obras producen el bienestar como CONSECUENCIA acumulativa (cadena: obra → hábito → virtud → bienestar como cierre); el luteranismo postula que el bienestar interior ES el criterio del bien (cadena invertida: bienestar → señal divina → confirmación). La consecuencia operativa: en el catolicismo la obra ES bien independientemente del bienestar (puede haber acto bueno con sufrimiento moral); en el luteranismo el sufrimiento sin bienestar señala estructuralmente desviación del don divino.\n\n### Eje 2: espíritu como estado afectivo (luterano) vs presencia sobrenatural (católico)\n\n> \"Los protestantes llaman \\\"espíritus\\\" a estados afectivos del yo que provocan bienestar,\"\n→ [Cuento de Navidad y el espíritu Luterano (35:50)](https://youtu.be/7LTa7-tZwv0?t=2150)\n\n> \"Para los católicos el bienestar es parte de lo terrenal, no tiene que ver con el bienestar espiritual,\"\n→ [Cuento de Navidad y el espíritu Luterano (35:50)](https://youtu.be/7LTa7-tZwv0?t=2150)\n\nLa divergencia categorial sobre la categoría 'espíritu' es decisiva. El protestantismo NOMBRA espíritu a estados afectivos del yo (oleada de santidad como bienestar). El catolicismo distingue radicalmente espíritu (presencia sobrenatural en lo terrenal — agua que cae de los cielos como gracia) de bienestar (categoría terrenal sin relación necesaria con lo espiritual). La consecuencia para el aparato sacramental articulado en la página: la categoría sagrada es BINARIA y ortogonal al plano material — el bienestar terrenal no la activa ni la desactiva. El luteranismo, al fundir las dos categorías, abre la posibilidad de que el bienestar terrenal opere como criterio de validación espiritual — operación que el catolicismo rechaza por confusión categorial.\n\n### Eje 3: enamoramiento (luterano) vs obra matrimonial (católico)\n\n> \"Para los luteranos el enamoramiento y los afectos físicos son el motor del amor en pareja,\"\n→ [Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)\n\n> \"Para los católicos el matrimonio es la obra matrimonial: el pacto sagrado de compañeros de vida; lo demás es accesorio,\"\n→ [Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)\n\n> \"El católico dice \\\"me enamoré y decidí prolongar el estado a mis obras\\\"; el luterano dice \\\"me enamoré y me dejé llevar\\\",\"\n→ [Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)\n\nLa pieza precisa la divergencia operativa sobre el matrimonio. El luteranismo lo concibe como motor afectivo (enamoramiento + afectos físicos como sustrato continuo); el catolicismo como OBRA MATRIMONIAL — pacto sagrado cuyo motor afectivo es accesorio. La fórmula católica 'decidí prolongar el estado a mis obras' cifra la asimetría: el enamoramiento es PUNTO DE PARTIDA, no condición sostenida; la obra matrimonial reemplaza el enamoramiento como sustento del vínculo cuando el primero se atenúa. El luterano que se 'deja llevar' opera con el enamoramiento como condición permanente — cuando se agota, el matrimonio carece de sustrato operativo distinto.\n\n### Eje 4: sobrecompensación (luterano) vs continuidad (católico)\n\n> \"La sobrecompensación y el exceso son muy luteranos; los católicos no tienden a la sobrecompensación,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)\n\nLa pieza articula la modalidad TEMPORAL de la conversión luterana: oscilación entre extremos (Scrooge avaro → Scrooge derrochador). La modalidad católica opera por continuidad sostenida — las buenas obras como hábito gradual sin oscilación violenta. La consecuencia diagnóstica: cualquier conversión religiosa que opere por sobrecompensación radical se inscribe estructuralmente en la matriz luterana, incluso si nominalmente se declara católica.\n\n### Eje 5: individualismo (luterano) vs familia como unidad mínima (católico)\n\n> \"El luteranismo es muchísimo más individualista que el catolicismo,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:55:46)](https://youtu.be/7LTa7-tZwv0?t=6946)\n\n> \"El catolicismo comprende que el individuo solo no es nada y que la familia es la unidad mínima de grupo con lazos inevitables,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:55:46)](https://youtu.be/7LTa7-tZwv0?t=6946)\n\nLa pieza articula el flanco antropológico de la divergencia. El luteranismo opera con el individuo como unidad valorativa primaria (persona privada con relación directa con Dios); el catolicismo con la FAMILIA como unidad mínima por LAZOS INEVITABLES (no constructivos como las amistades). La consecuencia operativa para el aparato sacramental: el matrimonio católico instituye familia como sustrato operativo de la salvación; el luteranismo permite la salvación individual sin familia. La pieza precisa la genealogía cultural de la asimetría: el dogma central que distingue ambas tradiciones se proyecta sobre la antropología de la unidad social.\n\n### Eje 6: aprendizaje por contraste (ingenuidad) vs aprendizaje continuo\n\n> \"El aprendizaje por contraste no es la única forma de aprender y no debería serlo: es propio de la ingenuidad,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:23:28)](https://youtu.be/7LTa7-tZwv0?t=5008)\n\n> \"La ingenuidad provoca que solo puedas aprender a golpes y cuando es demasiado tarde,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:23:28)](https://youtu.be/7LTa7-tZwv0?t=5008)\n\nLa pieza articula la modalidad cognitiva de la conversión luterana: aprendizaje POR CONTRASTE — ver lo perdido para valorarlo (Scrooge ve el futuro de su muerte sin nadie que llore para entender el valor del afecto). La crítica del canal precisa que esta modalidad es PROPIA DE LA INGENUIDAD — no es virtud cognitiva sino defecto del aparato. La modalidad católica opera por aprendizaje continuo desde la transmisión estructural (familia + comunidad + obra acumulada) sin necesidad de catástrofe revelatoria.\n\n## Caso operativo: el Cuento de Navidad como dispositivo luterano\n\nLa página propia [[cuento-de-navidad-muppets-1992-film]] desarrolla el caso operativo donde los seis ejes se aplican obra-por-obra: la película comete el 'pecado luterano' de equiparar emociones positivas con lo verdaderamente importante; los tres espíritus operan como estados afectivos proyectados (no presencias sobrenaturales); la conversión final por sobrecompensación derrochadora confirma la matriz protestante; la familia (el sobrino + Cratchits) opera como tesoro estructural que el Scrooge convertido descubre por contraste tardío.\n",
+      "wikilinks_introduced": [
+        "cuento-de-navidad-muppets-1992-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 1817,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (30:17)](https://youtu.be/7LTa7-tZwv0?t=1817)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 2150,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (35:50)](https://youtu.be/7LTa7-tZwv0?t=2150)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 2484,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (41:24)](https://youtu.be/7LTa7-tZwv0?t=2484)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 6612,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 6946,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:55:46)](https://youtu.be/7LTa7-tZwv0?t=6946)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 5008,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:23:28)](https://youtu.be/7LTa7-tZwv0?t=5008)"
+        }
+      ],
+      "rationale": "La página articula el marco católico canalizar/catalizar (aparato sacramental, soteriológico, sobrenatural-institucional), la sacrilegio progresista (misa de Beyoncé), Islam como religión poética vs catolicismo filosófico (mi insert previo via Tontas en Potencia). NO contiene la articulación SISTEMÁTICA de la distinción CATOLICISMO vs LUTERANISMO en sus seis ejes operativos. Material que extiende el aparato católico con el contrapunto operativo más cercano dentro del cristianismo — complementario al contrapunto islámico ya documentado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza completa el cuadro: la estética del anuncio fabrica la pre-identidad a la cual el producto se vincula. El consumidor recibe simultáneamente el producto y la pre-identidad que justifica su elección — la mercancía y la categoría identitaria desde la cual se elige son fabricadas en el mismo gesto. Es la versión refinada de la tesis nuclear de la página: el consumismo no opera por necesidad fabricada sino por identidad fabricada que después demanda el producto como confirmación de sí misma.",
+      "content_proposed": "\n\n## El espíritu navideño luterano confundido con sensación de fiesta\n\nEl monográfico *[[cuento-de-navidad-muppets-1992-film|Cuento de Navidad y el espíritu Luterano]]* (dic 2024) articula la matriz teológica protestante específica que sostiene el dispositivo consumista navideño contemporáneo — pieza que extiende el aparato de la página con su flanco religioso-cultural específico.\n\n> \"La película comete el pecado luterano de equiparar las emociones positivas de la Navidad con lo verdaderamente importante,\"\n→ [Cuento de Navidad y el espíritu Luterano (45:25)](https://youtu.be/7LTa7-tZwv0?t=2725)\n\n> \"El sentimiento de \\\"por fin es viernes\\\" no es el espíritu santo; es el espíritu de lo material,\"\n→ [Cuento de Navidad y el espíritu Luterano (45:25)](https://youtu.be/7LTa7-tZwv0?t=2725)\n\n> \"Los luteranos glorifican el disfrute como algo santo; los católicos dicen que celebrar no te exime de llevar la Navidad todos los días,\"\n→ [Cuento de Navidad y el espíritu Luterano (45:25)](https://youtu.be/7LTa7-tZwv0?t=2725)\n\nLa pieza articula la mecánica específica del consumismo navideño contemporáneo: confusión categorial entre el ESPÍRITU NAVIDEÑO (categoría espiritual genuina) y la SENSACIÓN DE FIESTA HEDONISTA. La distinción es operativa — el sentimiento de 'por fin es viernes' no es experiencia espiritual sino descarga afectiva del trabajo terminado, y la cultura luterana protestantizada equipara las dos categorías para sacralizar el disfrute material como criterio espiritual válido.\n\nLa consecuencia para el aparato consumista de la página: la sociedad de consumo contemporánea opera con la matriz LUTERANA del bienestar como criterio del bien. Si el bienestar interior es señal divina, entonces el consumo que produce bienestar (compras, regalos, atracones, fiestas) se valida espiritualmente por su efecto afectivo. La crítica católica sería estructural: celebrar (el rito puntual) NO te exime de la celebración cotidiana (el hábito sostenido); el espíritu navideño genuino opera todo el año, no se concentra en el rito festivo.\n\n### Sobrecompensación luterana como patrón consumista\n\n> \"Scrooge compensa derrochando y viviendo de golpe: es muy Disney y muy luterano,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)\n\n> \"La sobrecompensación y el exceso son muy luteranos; los católicos no tienden a la sobrecompensación,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)\n\nLa pieza articula la modalidad TEMPORAL específica del consumismo de matriz luterana: oscilación entre extremos por SOBRECOMPENSACIÓN (avaro → derrochador). La modalidad católica opera por continuidad sostenida (caridad como hábito, no como acto compensatorio). La consecuencia diagnóstica: el consumismo navideño contemporáneo opera estructuralmente como sobrecompensación luterana — el sujeto que ahorra/restringe durante el año compensa con derroche en el rito festivo, oscilando entre los dos polos sin construir hábito intermedio.\n\nLa pieza completa el cuadro consumista contemporáneo articulado en la página: el dispositivo opera no solo por mercancía como pre-identidad fabricada (sección anterior) sino también por OSCILACIÓN COMPENSATORIA entre restricción y derroche — modalidad temporal específica de matriz teológica protestante que la cultura secularizada ha heredado sin advertir su origen religioso.\n",
+      "wikilinks_introduced": [
+        "cuento-de-navidad-muppets-1992-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 2725,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (45:25)](https://youtu.be/7LTa7-tZwv0?t=2725)"
+        },
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 6612,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:50:12)](https://youtu.be/7LTa7-tZwv0?t=6612)"
+        }
+      ],
+      "rationale": "La página articula consumismo como anestesia del vacío existencial, marketing como venta de identidad, lenitivo y dramática (mi insert via Fight Club), love bombing, hiperpromesa de socialización, ornamentación institucional como anti-consumo. NO contiene: (1) el ESPÍRITU NAVIDEÑO LUTERANO confundido con sensación de fiesta hedonista (matriz teológica protestante específica del consumismo navideño); (2) la SOBRECOMPENSACIÓN como patrón estructural luterano (oscilación restricción/derroche) distinta del CONTINUO católico. Material que extiende el aparato consumista con su flanco religioso-cultural específico de matriz protestante.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El narcisista externalizador se construye una autoimagen irreal superior y la sostiene atacando a quien no la confirma; el ego frágil se construye una autoimagen inferior y la sostiene buscando confirmación constante. Las dos son respuestas a la misma carencia originaria — diferencias no etiológicas sino operativas.",
+      "content_proposed": "\n\n## Asimetría M/F del primer desamor: revivir del abandono materno en el varón\n\nEl monográfico *[[cuento-de-navidad-muppets-1992-film|Cuento de Navidad y el espíritu Luterano]]* (dic 2024) articula una asimetría psíquica específica del PRIMER DESAMOR que la página tenía implícita en su distinción cuadros M/F.\n\n> \"Los hombres recuerdan el primer amor como fracaso y herida; las mujeres lo recuerdan con positividad,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)\n\n> \"El primer desamor del varón es un revivir del abandono de la madre porque la ruptura del varón con la madre es más intensa,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)\n\n> \"Las mujeres tienen la seguridad de la no-ruptura con la madre, lo que les permite integrar mejor la pérdida,\"\n→ [Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)\n\nLa pieza articula la asimetría estructural específica del PRIMER DESAMOR: los hombres lo recuerdan predominantemente como FRACASO Y HERIDA; las mujeres con POSITIVIDAD. La causa NO es cultural ni superficial sino estructural-psíquica: el primer desamor del varón opera como REVIVIR DEL ABANDONO DE LA MADRE — la separación necesaria del varón respecto a la madre durante la individuación masculina es categóricamente más intensa que la femenina, y queda como herida activable por cualquier pérdida amorosa adulta posterior. Las mujeres tienen seguridad estructural de la NO-RUPTURA con la madre (continuidad sostenida del polo femenino), lo que les permite integrar mejor las pérdidas amorosas adultas sin reactivación del abandono originario.\n\nLa pieza enlaza con la herida narcisista articulada en la página: el primer desamor opera para el varón con DOBLE CARGA — pérdida amorosa adulta + revivir del abandono materno temprano — que produce el cuadro de herida narcisista activada en su modalidad masculina específica (ver sección 'La herida de padre como origen del narcisismo patológico'). El caso Scrooge-Isabel en el film cifra precisamente esta dinámica: el joven Scrooge no rompe con Isabel por desamor genuino sino por rigidez financiera defensiva, y el dolor que arrastra toda la vida no es solo pérdida del primer amor adulto sino reactivación de la herida materna que ese vínculo amenazaba sanar.\n\nLa consecuencia diagnóstica completa el cuadro: la inversión cultural M/F del cuadro narcisista (mi insert previo via Tontas en Potencia, donde la mujer contemporánea presenta más herida narcisista cultural mientras el varón sigue presentando el cuadro en formas extremas) opera SOBRE este sustrato estructural más profundo. La asimetría cultural reciente NO sustituye la asimetría psíquica originaria — la añade como capa cultural sobre el sustrato del abandono materno asimétrico que sigue operando como matriz estructural del duelo amoroso M/F.\n",
+      "wikilinks_introduced": [
+        "cuento-de-navidad-muppets-1992-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "7LTa7-tZwv0",
+          "timestamp_seconds": 4664,
+          "cite_markdown": "[Cuento de Navidad y el espíritu Luterano (1:17:44)](https://youtu.be/7LTa7-tZwv0?t=4664)"
+        }
+      ],
+      "rationale": "La página articula la herida narcisista en sus modalidades externalizadora vs reversa (ego frágil), inversión cultural M/F (mi insert previo via Tontas en Potencia), abuso narcisista como condicionamiento (mi insert previo). NO contiene la asimetría específica del PRIMER DESAMOR M/F: hombres lo recuerdan como fracaso/herida, mujeres con positividad — causa estructural psíquica (no cultural) por la diferente intensidad de la ruptura con la madre durante la individuación. Pieza foundational que aporta sustrato psíquico-estructural al cuadro complementario a la inversión cultural ya documentada.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Charles Dickens: A Christmas Carol como obra base",
+      "reason_code": "passing_mention",
+      "reason_detail": "El cuento de Dickens (1843) está identificado implícitamente como obra base del análisis. El directo no se enfoca en Dickens como autor ni en aspectos biográficos. Capturado en la página existente cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "El vendedor de manzanas se autoproclama Dickens para narrar el cuento: es un meta-cuento sobre un cuento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "Tiny Tim como milagro de positividad frente al sufrimiento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del personaje como caso de positividad arquetípica frente al sufrimiento (clase de personas con muchísimo dolor que son las más positivas del mundo). El silencio de Tiny Tim revela su valor por ausencia. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "Tiny Tim representa esa clase de personas con muchísimo dolor que son las más positivas del mundo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "buena persona: simpatía vs aversión / positividad interior transmitida",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa canal-específica de 'buena persona': aquella que siente y provoca más simpatía que aversión, con positividad interior que transmite al exterior. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "Una buena persona es aquella que siente y provoca más simpatía que aversión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "amargura como carga para los demás: alivio sin presencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación operativa: tu amargura te convierte en carga para otros que descansan/se alivian cuando no estás, aunque te quieran. Pieza diagnóstica sobre el cuadro depresivo crónico. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "Tu amargura te convierte en una carga: los demás se sienten aliviados sin ti aunque te quieran,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "lazos familiares como inevitables vs amistades como construidas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica: las relaciones familiares NO se construyen como las amistades — el vínculo es inevitable por sangre. El amor familiar tiene significado por encima de los demás vínculos. Capturado en pending_update a teologia-catolica-en-proxy como pieza del eje individualismo/familia.",
+      "quote_evidence": "Las relaciones familiares no se construyen como las amistades: el vínculo es inevitable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teologia-catolica-en-proxy"
+    },
+    {
+      "surface_form": "cromática moral: cálidos para comunidad / fríos para soledad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura iconográfica del film: quienes están integrados en la comunidad aparecen rodeados de colores cálidos; Scrooge está rodeado de frío porque elige tener frío. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "Quienes están integrados en la comunidad aparecen rodeados de colores cálidos siempre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "Bob Cratchit como ausencia de resentimiento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del personaje como modelo de pobreza disciplinada sin resentimiento contra Scrooge. Ve la humanidad del avaro y cree que su único problema es no haber visto otra forma de ser. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "No odia a Scrooge porque ve su humanidad: cree que su único problema es no haber visto otra forma de ser,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "usura como metáfora del egoísmo (no demonización del lucro)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica: la película NO demoniza el lucro ni el negocio sino la crueldad de priorizar el beneficio propio ignorando a los demás. La usura opera como metáfora de egoísmo, no como crítica económica. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "La película no demoniza el lucro ni el negocio, sino la crueldad de priorizar el beneficio propio ignorando a los demás,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "hermanos Marley encadenados: peso terrenal vs ligereza espiritual",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica de las cadenas como peso terrenal de las malas obras que sujeta a no poder ascender. Los hermanos Marley son los seres más blancos y luminosos por estar tan muertos y fríos que brillan con luz fría. La avaricia como pecado: no dar pudiendo dar. Capturado en pending_update.",
+      "quote_evidence": "Las cadenas representan lo que te sujeta a no poder ascender: el peso terrenal frente a la ligereza espiritual,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "fantasma del presente: hedonismo + amnesia anterógrada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del Espíritu de la Navidad Presente como estereotipo del hedonismo: gordo, come, ríe; tiene amnesia anterógrada porque vive todo el rato en el presente y no genera recuerdos nuevos. La canción dice que la Navidad es un descanso para el alma: día para dedicarse solo a la cercanía con los demás. Capturado en pending_update.",
+      "quote_evidence": "El espíritu es gordo, come y se ríe: es un estereotipo del hedonismo que en el protestantismo no es tan malo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "ausencia de Tiny Tim: silla, muleta, bufanda y gorro",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura iconográfica precisa: Tiny Tim queda definido por su AUSENCIA — la silla, la muleta, la bufanda y el gorro están pero él no. La ausencia da certeza por exclusión de lo que era importante. Capturado en pending_update.",
+      "quote_evidence": "Cuando algo que no tiene ningún mal se apaga como una vela, todo alrededor se queda a oscuras,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    },
+    {
+      "surface_form": "futuro predeterminado vs convertible: la conversión genuina debe salir del sujeto",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación filosófica: si el futuro mostrado es lo que SERÁ inevitablemente, no merece la pena cambiar; si es lo que PUEDE SER, la conversión tiene valor. La muerte por sí sola no da motivo para ser bueno o malo: la conversión genuina tiene que salir del sujeto. Capturado en pending_update a cuento-de-navidad-muppets-1992-film.",
+      "quote_evidence": "La muerte no da ningún motivo para ser bueno o malo: tiene que salir de ti o no estarás verdaderamente convertido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuento-de-navidad-muppets-1992-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 0,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

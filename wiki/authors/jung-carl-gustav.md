@@ -185,6 +185,10 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 
 
 
+
+
+
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 - **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:09:06](https://youtu.be/cbfhVqYDbdE?t=4146)
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
@@ -197,4 +201,8 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 - **Directo casual** — chunks: [40:04](https://youtu.be/ECN5C9rsaZg?t=2404)
 - **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:02:47](https://youtu.be/Qui4WMSQ99k?t=3767)
 - **Presentación del Libro: Polaris** — chunks: [17:27](https://youtu.be/rLeMS4-XFrA?t=1047)
+- **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [27:00](https://youtu.be/celiAdqrHYA?t=1620)
+- **Análisis arquetípico de el club de la lucha** — chunks: [1:46:09](https://youtu.be/L4zXftKhU6M?t=6369)
+- **Análisis: La Llegada (Parte dos)** — chunks: [14:12](https://youtu.be/tOn66qFS2-M?t=852)
+- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0)
 

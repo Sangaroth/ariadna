@@ -1,0 +1,536 @@
+{
+  "video_id": "TmQiM16HIpU",
+  "video_title": "Análisis: Personalidad, Identidad e INSIDE OUT 2",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Inside Out 2 (Pixar/Disney, 2024)",
+      "canonical_guess": "inside-out-2-2024-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 178,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película contiene elementos que parecen tener sentido oculto y requieren múltiples visionados,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~178 min) dedicado al análisis arquetípico-clínico de Inside Out 2 leído como excusa para articular la teoría completa de la adolescencia, la crisis de identidad y los nuevos mecanismos de defensa (ansiedad, envidia, vergüenza, ennui). Per scope §2.3, ≥30 min satisface criterio. La página inside-out-2015-film documenta el primer film; ésta es la secuela con material teórico distinto y sustantivo.",
+      "quote_evidence": "Riley tiene daddy issues: el padre es infantil y ella tuvo que sonreír porque él lo necesitaba,"
+    },
+    {
+      "surface_form": "adolescencia como crisis fundamental + identidad transitoria falsa + semilla 'no valgo lo suficiente'",
+      "canonical_guess": "crisis-de-identidad-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La crisis de identidad más grande es la adolescencia; otras crisis (los 40, \"el muro\") son secundarias,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La adolescencia es gobernada por procesos neurobiológicos muy complejos y se comporta como una enfermedad mental,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La identidad transitoria fracasa porque su conclusión es la insuficiencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el mapa de identidad como estructura preconsciente, la trampa de la solución solo conductual de depresiones adolescentes, la metodología espejo + caja negra. NO contiene: (1) la ADOLESCENCIA como crisis de identidad PRIMARIA Y MÁS GRANDE (las demás —40, muro, demencia— son secundarias); (2) la IDENTIDAD TRANSITORIA FALSA como mecanismo adolescente de defensa contra la sobrecarga ansiosa (si hay que pensar constantemente cómo comportarse, sale a cuenta no comportarse como uno es); (3) la SEMILLA MENTAL 'no valgo lo suficiente' como cristalización de la crisis (mecanismo del film Origen aplicado clínicamente: lluvia de ideas ansiosas + emociones primarias = síntesis insuficientista); (4) la INTEGRIDAD como dejar que lo aparentemente incompatible coexista — eliminación del deber ser transitorio. Articulación operativa nueva del aparato adolescente que extiende el cuadro adulto ya documentado.",
+      "quote_evidence": "La identidad transitoria fracasa porque su conclusión es la insuficiencia,"
+    },
+    {
+      "surface_form": "envidia, vergüenza, ennui + ansiedad como mecánica preemocional",
+      "canonical_guess": "algebra-afectiva",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La ansiedad no es una emoción sino una mecánica afectiva preemocional de hiperalerta,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La envidia es mezcla de pánico y pena (aguamarina); admira lo que tienen los demás para conseguir rápidamente un nuevo estatus,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La vergüenza es inhibición a posteriori que compensa la impulsividad y protege el deber ser,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula los siete motores afectivos biológicos (buscar, terror, ira, jugar, desear, apego, pánico) y las dos triadas (estrés, ansiedad). NO contiene: (1) la ANSIEDAD articulada explícitamente como MECÁNICA PREEMOCIONAL DE HIPERALERTA (no emoción sino estado prepatorio que las emociones modulan); (2) las TRES NUEVAS EMOCIONES ADOLESCENTES como composiciones afectivas operativas: envidia (pánico+pena, color aguamarina), vergüenza (inhibición a posteriori que protege el deber ser), ennui (desistir de emocionarse, sistema de protección contra decepciones que inhibe la alegría); (3) el modelo de las CINCO EMOCIONES FUNDAMENTALES infantiles (asco, pena, ira, miedo, alegría) y su transición a las nuevas emociones sociales adolescentes. Articulación operativa nueva que extiende el aparato afectivo con la dimensión adolescente.",
+      "quote_evidence": "Ennui (desidia) es desistir de emocionarse: un sistema de protección contra decepciones que inhibe la alegría,"
+    },
+    {
+      "surface_form": "obsesividad como neurosis adolescente + síndrome del Chocas con daddy issues",
+      "canonical_guess": "sindrome-xocas",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La infantilidad del padre produce obsesividad en Riley (síndrome del Chocas): necesidad de ser la mejor para ser incluida,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Riley tiene daddy issues: el padre es infantil y ella tuvo que sonreír porque él lo necesitaba,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el síndrome del Xocas con dos casos masculinos (Xocas/Molly) y una variante femenina (Candela en Elemental con ambivalencia heredada del padre, mi insert previo) más la distinción ambivalencia vs ambigüedad (Eyes Wide Shut, mi insert previo). NO contiene: (1) la modalidad CON DADDY ISSUES POR PADRE INFANTIL (no por padre tirano ni por padre ausente, sino por padre que requirió de la hija una sonrisa permanente porque él lo necesitaba — inversión de la función paterna donde el hijo cuida al padre); (2) la articulación específica del SÍNDROME DEL CHOCAS COMO NEUROSIS ADOLESCENTE PRIMARIA: la obsesividad infantil que cristaliza durante la pubertad cuando el deber ser exterior se vuelve exigente. La pieza añade una tercera génesis del cuadro femenino (padre infantil) junto a las dos ya documentadas (rechazo paterno masculino, sacrificio paterno reverenciado).",
+      "quote_evidence": "Los TCA se cuecen en el deber ser adolescente: hambre biológica luchando contra el córtex inhibitorio frontal,"
+    },
+    {
+      "surface_form": "TEPT por miedo/asco vs TEPT complejo por culpa/pena",
+      "canonical_guess": "trauma-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El TEPT es una hiperalerta patológica por exceso de miedo o asco; el TEPT complejo es por exceso de culpa o pena,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el trauma como dragón que rapta a la doncella (lectura mítica), regresión episódica, EMDR, microdosis, contracondicionamiento, criterio de difuminación espontánea. La distinción TEPT simple vs TEPT complejo se nombra en una laguna sin desarrollar. La pieza añade la articulación AFECTIVA específica que distingue ambos cuadros: TEPT simple = hiperalerta por exceso de MIEDO o ASCO (afectos de evitación frente a amenaza inmediata); TEPT complejo = hiperalerta por exceso de CULPA o PENA (afectos de pérdida frente a daño infligido o vínculo roto). Distinción categorial operativa nueva que cierra parcialmente la laguna 'TEPT complejo y rasgos de susceptibilidad individual'.",
+      "quote_evidence": "Ambos son estados de hiperalerta donde la mente vigila permanentemente que no se repita lo traumático,"
+    },
+    {
+      "surface_form": "depresión adolescente como duelo por la infancia / expulsión del paraíso",
+      "canonical_guess": "perdida-inocencia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Alegría manda a pena a la cabeza: es la depresión adolescente, un duelo por la pérdida de la infancia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La depresión es una tristeza de fondo que lucha por ser quien es; es la expulsión del paraíso, la pérdida de la inocencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el remordimiento como afecto del paraíso perdido (mi insert previo), la muerte de la infancia como evento estructural (mi insert previo via Los Rescatadores), la identidad infantil unificada. NO contiene la articulación específica de la DEPRESIÓN ADOLESCENTE como DUELO POR LA INFANCIA — modalidad temporal-fásica del afecto del paraíso perdido en su forma clínica adolescente. La pieza precisa el momento donde la pena de fondo lucha por ser quien es; la expulsión del paraíso es articulada explícitamente como pérdida de la inocencia. Conexión con la cadena documentada infancia → adulto consumidor de fantasía → bruja terminal (la depresión adolescente como cruce no integrado de la primera transición).",
+      "quote_evidence": "No hay represión permanente efectiva: lo reprimido saldrá en algún momento imprevisiblemente,"
+    },
+    {
+      "surface_form": "sarcasmo como mecanismo de excisión",
+      "canonical_guess": "excision-psicologica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El sarcasmo es un mecanismo de defensa que convierte en humor algo importante, abriendo un abismo entre lo que se es y lo que se parece,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica del sarcasmo como mecanismo de excisión (separar un hecho de su significación) en el registro adolescente. Sin lectura previa de excision-psicologica en este barrido, capturado en promote_new del film con wikilink y como discard con enriches_concept para revisión posterior.",
+      "quote_evidence": "La excisión es separar un hecho de su significación; el brócoli representa olvidar lo fundamental por fingir ser quien no eres,"
+    },
+    {
+      "surface_form": "regresión / sublimación / excisión como mecanismos de defensa diferenciados",
+      "canonical_guess": "inside-out-2-2024-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La sublimación es canalizar un deseo reprimido en algo más tolerable (ej: deseos de destrucción en BDSM),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La regresión no implica necesariamente evitar vulnerabilidad: puede ser que esa parte del cerebro nunca maduró,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Distinción canal-específica entre tres mecanismos de defensa que el discurso popular tiende a confundir: regresión (vuelta a estadio anterior, puede ser por inmadurez no por evitación), sublimación (canalización de deseo reprimido), excisión (separación afectivo-intelectual). Casos operativos: hobbies regresivos masculinos (Warhammer) y femeninos (novelas románticas). Capturado en promote_new del film como pieza de la teoría de los mecanismos de defensa.",
+      "quote_evidence": "Los hobbies masculinos regresivos (figuritas, maquetas, Warhammer) juntan fantasía infantil con operaciones complejas de la mente masculina,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "inside-out-2-2024-film",
+      "canonical_name": "Inside Out 2 (Pixar/Disney, 2024)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "social.psychology",
+        "interdisciplinary.cognitive_science"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~178 min dedicado al análisis arquetípico-clínico de Inside Out 2 leído como excusa para articular la teoría completa de la adolescencia, la crisis de identidad y los nuevos mecanismos de defensa adolescentes. Per scope §2.3, ≥30 min satisface criterio. La obra es complemento del film original (inside-out-2015-film ya tiene página) y dispositivo articulador foundational del aparato canal-específico sobre la adolescencia.",
+      "one_line_summary": "Análisis arquetípico-clínico monográfico de Inside Out 2 (Pixar, 2024) leído como dispositivo para articular la teoría COMPLETA de la adolescencia: la adolescencia como CRISIS DE IDENTIDAD PRIMARIA (más grande que los 40 o el muro de la madurez); las cinco emociones fundamentales infantiles (asco, pena, ira, miedo, alegría) sustituidas por las nuevas emociones sociales adolescentes (envidia=pánico+pena aguamarina, vergüenza=inhibición a posteriori del deber ser, ennui=desistir de emocionarse); la ANSIEDAD como mecánica preemocional de hiperalerta (no emoción sino estado preparatorio); la IDENTIDAD TRANSITORIA FALSA como dispositivo de defensa contra la sobrecarga ansiosa; la SEMILLA MENTAL 'no valgo lo suficiente' como cristalización de la crisis (mecanismo del film Origen); la INTEGRIDAD como dejar que lo aparentemente incompatible coexista; Riley como caso operativo del síndrome del Chocas con daddy issues por padre infantil; la depresión adolescente como duelo por la infancia (expulsión del paraíso); el sarcasmo como mecanismo de excisión que abre un abismo entre lo que se es y lo que se parece; distinción operativa entre regresión (puede ser por inmadurez no por evitación), sublimación (canalización del deseo reprimido) y excisión (separación afectivo-intelectual); hobbies regresivos masculinos (Warhammer) vs femeninos (novelas románticas) como caso operativo.",
+      "frontmatter_fields_proposed": {
+        "year": 2024,
+        "studio_or_publisher": "Pixar Animation Studios / Walt Disney Pictures",
+        "medium": "film",
+        "subgenre": "animación / coming-of-age",
+        "based_on": "Inside Out (2015) — secuela"
+      },
+      "relations_to_existing": [
+        {
+          "type": "based_on",
+          "to": "inside-out-2015-film",
+          "weight": "canonical",
+          "note": "secuela del primer film; mientras Inside Out 1 articulaba la pedagogía afectiva infantil completa, Inside Out 2 articula la TRANSICIÓN ADOLESCENTE con las nuevas emociones sociales y los mecanismos de defensa que sustituyen al aparato infantil"
+        },
+        {
+          "type": "exemplifies",
+          "to": "crisis-de-identidad-en-proxy",
+          "weight": "canonical",
+          "note": "caso paradigmático de la crisis de identidad ADOLESCENTE como crisis fundamental del aparato — Riley como caso operativo de la identidad transitoria falsa que fracasa con la semilla 'no valgo lo suficiente'"
+        },
+        {
+          "type": "exemplifies",
+          "to": "algebra-afectiva",
+          "weight": "canonical",
+          "note": "articulación foundational de las nuevas emociones sociales adolescentes (envidia, vergüenza, ennui) como composiciones afectivas operativas y de la ansiedad como mecánica preemocional de hiperalerta"
+        },
+        {
+          "type": "exemplifies",
+          "to": "sindrome-xocas",
+          "weight": "strong",
+          "note": "Riley como modalidad del síndrome del Chocas con TERCERA génesis específica: padre infantil que requirió de la hija una sonrisa permanente; obsesividad como neurosis adolescente cristalizada"
+        },
+        {
+          "type": "exemplifies",
+          "to": "perdida-inocencia",
+          "weight": "strong",
+          "note": "depresión adolescente articulada como duelo por la infancia / expulsión del paraíso; modalidad fásica específica del afecto del paraíso perdido"
+        },
+        {
+          "type": "exemplifies",
+          "to": "trauma-en-proxy",
+          "weight": "strong",
+          "note": "distinción operativa TEPT (miedo/asco) vs TEPT complejo (culpa/pena) como modalidades afectivas distintas del cuadro postraumático"
+        },
+        {
+          "type": "exemplifies",
+          "to": "excision-psicologica",
+          "weight": "strong",
+          "note": "el sarcasmo adolescente como mecanismo de excisión específico (convertir en humor algo importante, abriendo abismo entre lo que se es y lo que se parece)"
+        },
+        {
+          "type": "compared_with",
+          "to": "trastornos-conducta-alimentaria-en-proxy",
+          "weight": "strong",
+          "note": "los TCA se cuecen en el deber ser adolescente — hambre biológica luchando contra el córtex inhibitorio frontal; modalidad del cuadro neurótico-obsesivo en la transición adolescente"
+        },
+        {
+          "type": "references",
+          "to": "yo-ego-autoestima-en-proxy",
+          "weight": "strong",
+          "note": "distinciones canal-específicas creencias / identidad / personalidad articuladas explícitamente: identidad como autoimagen consciente metarrepresentacional vs personalidad como sistema biológico dominante"
+        },
+        {
+          "type": "compared_with",
+          "to": "frozen-2013-film",
+          "weight": "tangential",
+          "note": "ambas obras Disney/Pixar articulan la transición femenina; Frozen como caso de identidad transitoria que se cristaliza como aislamiento solipsista; Inside Out 2 como caso de integración del yo tras el colapso de la identidad transitoria"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min. La obra es dispositivo articulador foundational del aparato canal-específico sobre la adolescencia: cinco emociones fundamentales + transición a emociones sociales + ansiedad como mecánica preemocional + identidad transitoria falsa + semilla 'no valgo lo suficiente' + integridad como meta + obsesividad como neurosis adolescente + sarcasmo como excisión + regresión/sublimación/excisión diferenciadas + depresión adolescente como duelo por la infancia. Material teórico extenso que extiende sustantivamente múltiples páginas existentes y que merece consolidación en página propia complementaria a inside-out-2015-film."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "crisis-de-identidad-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el terapeuta abre una rendija sin forzarla, dejando que el propio paciente reconozca el desajuste de su mapa.",
+      "content_proposed": "\n\n## La adolescencia como crisis de identidad PRIMARIA: Inside Out 2 como aparato articulador\n\nEl monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula tres piezas operativas que la página tenía implícitas: la adolescencia como crisis fundamental, la identidad transitoria falsa como mecanismo de defensa, y la semilla mental insuficientista como cristalización del cuadro.\n\n### La adolescencia como crisis primaria\n\n> \"La crisis de identidad más grande es la adolescencia; otras crisis (los 40, \\\"el muro\\\") son secundarias,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (16:16)](https://youtu.be/TmQiM16HIpU?t=976)\n\n> \"La adolescencia es gobernada por procesos neurobiológicos muy complejos y se comporta como una enfermedad mental,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (16:16)](https://youtu.be/TmQiM16HIpU?t=976)\n\nLa página articulaba la crisis de identidad como cuestionamiento del mapa preconsciente y la trampa de la solución solo conductual de depresiones adolescentes. La pieza añade el ESTATUTO de la adolescencia como crisis FUNDAMENTAL: las demás crisis identitarias del ciclo vital (los 40, el muro de la madurez, las transiciones tardías) son SECUNDARIAS porque operan sobre un mapa identitario YA construido durante la adolescencia. La crisis adolescente es primaria porque es la que CONSTRUYE el mapa por primera vez — sin esa construcción no hay crisis posterior posible.\n\n### Identidad transitoria falsa como dispositivo de defensa\n\n> \"Si hay que pensar constantemente en cómo comportarse, sale a cuenta no comportarse como uno es,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:07:46)](https://youtu.be/TmQiM16HIpU?t=4066)\n\n> \"Se desarrolla una personalidad transitoria falsa, una identidad postiza para la nueva situación,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:07:46)](https://youtu.be/TmQiM16HIpU?t=4066)\n\nLa pieza añade el mecanismo de defensa específico que el adolescente despliega ante la sobrecarga ansiosa: la IDENTIDAD POSTIZA. La cadena operativa: ansiedad anticipatoria continua para diseñar comportamiento → coste cognitivo prohibitivo → simplificación por adopción de identidad-modelo prefabricada que ahorra el cálculo. La identidad transitoria NO es elección consciente sino solución de menor esfuerzo bajo carga ansiosa insostenible. Conecta con la 'falsa solución conductual' que la página articulaba como trampa de la depresión adolescente: ambas operan por SIMPLIFICACIÓN del problema en lugar de elaboración.\n\n### La semilla 'no valgo lo suficiente' como cristalización\n\n> \"La lluvia de ideas ansiosas combinada con emociones primarias que afloran bruscamente sintetiza \\\"no valgo lo suficiente\\\",\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:07:10)](https://youtu.be/TmQiM16HIpU?t=7630)\n\n> \"Es el mecanismo de la película Origen: una semilla plantada en la mente que combina deber ser con desvalimiento infantil,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:07:10)](https://youtu.be/TmQiM16HIpU?t=7630)\n\n> \"La identidad transitoria fracasa porque su conclusión es la insuficiencia,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:07:10)](https://youtu.be/TmQiM16HIpU?t=7630)\n\nLa pieza articula el mecanismo CULMINANTE del fracaso de la identidad transitoria: la combinación lluvia-de-ideas-ansiosas + emociones primarias-que-afloran sintetiza una proposición nuclear ('no valgo lo suficiente') que opera como semilla mental análoga al film Origen. La proposición no es contenido cognitivo neutral — es síntesis afectivamente cargada que se autoinstala en el aparato del sujeto y desde ahí organiza toda interpretación posterior. La identidad transitoria fracasa NO porque sea descubierta como falsa sino porque su lógica interna conduce inevitablemente a la insuficiencia: cualquier modelo prefabricado, examinado desde dentro, produce el residuo afectivo de no encajar plenamente.\n\n### La integridad como salida: dejar que lo incompatible coexista\n\n> \"El \\\"quererse a uno mismo\\\" es dejar que el yo se integre: que lo aparentemente incompatible coexista,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:18:47)](https://youtu.be/TmQiM16HIpU?t=8327)\n\n> \"Integridad es reconocer que eres todo lo que eres sin fingir ni construir nada falso,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:18:47)](https://youtu.be/TmQiM16HIpU?t=8327)\n\n> \"Cuando esta etapa no ocurre, tenemos un trastorno de la personalidad con un deber ser erróneo inamovible,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:18:47)](https://youtu.be/TmQiM16HIpU?t=8327)\n\nLa pieza cierra el aparato con la modalidad de salida operativa: la INTEGRIDAD como aceptación de coexistencia entre rasgos aparentemente incompatibles del yo, no como construcción artificial de un yo coherente. La consecuencia diagnóstica es estructural: cuando la integración adolescente NO OCURRE, queda un trastorno de personalidad con deber ser erróneo INAMOVIBLE. Conexión con [[trastorno-limite-y-eutanasia-en-proxy]]: el TLP como caso operativo del trastorno donde la integración no ocurrió y la enredadera del deber ser quedó cristalizada.\n",
+      "wikilinks_introduced": [
+        "inside-out-2-2024-film",
+        "trastorno-limite-y-eutanasia-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 976,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (16:16)](https://youtu.be/TmQiM16HIpU?t=976)"
+        },
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 4066,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:07:46)](https://youtu.be/TmQiM16HIpU?t=4066)"
+        },
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 7630,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:07:10)](https://youtu.be/TmQiM16HIpU?t=7630)"
+        },
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 8327,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (8327)](https://youtu.be/TmQiM16HIpU?t=8327)"
+        }
+      ],
+      "rationale": "La página articula el mapa de identidad como estructura preconsciente, las pistas diagnósticas convergentes, la trampa de la solución solo conductual, la metodología espejo + caja negra, las siete fases de la espiral de desocialización (mi insert previo via Atrapado en el tiempo) + modalidad orgánico-degenerativa (mi insert previo). NO contiene cuatro piezas operativas que el monográfico sobre Inside Out 2 articula: (1) la adolescencia como CRISIS DE IDENTIDAD PRIMARIA y demás como secundarias; (2) IDENTIDAD TRANSITORIA FALSA como dispositivo de defensa contra sobrecarga ansiosa; (3) SEMILLA MENTAL 'no valgo lo suficiente' como cristalización del fracaso (mecanismo del film Origen aplicado clínicamente); (4) INTEGRIDAD como salida operativa (aceptar coexistencia de incompatibles, no construir yo coherente artificial). Material teórico foundational del aparato adolescente.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "algebra-afectiva",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La aplicación clínica menciona **TDAH, psicopatía y autismo** pero no extiende el mapa a otros cuadros (depresión, trastornos de ansiedad clásicos, trastornos de personalidad) — el corpus podría tener material en otros vídeos que cierre esta laguna",
+      "content_proposed": "\n\n## Las nuevas emociones sociales adolescentes y la ansiedad como mecánica preemocional\n\nEl monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula dos extensiones operativas del aparato afectivo del canal: la ansiedad como mecánica PREEMOCIONAL distinta de las emociones, y las tres nuevas emociones sociales adolescentes como composiciones afectivas operativas que sustituyen al repertorio infantil.\n\n### La ansiedad como mecánica preemocional de hiperalerta\n\n> \"La ansiedad no es una emoción sino una mecánica afectiva preemocional de hiperalerta,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (49:36)](https://youtu.be/TmQiM16HIpU?t=2976)\n\n> \"La ansiedad anticipatoria sirve para cumplir el deber ser: adelantar qué ocurrirá y diseñar cómo comportarse,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (49:36)](https://youtu.be/TmQiM16HIpU?t=2976)\n\nLa página articulaba la triada de la ANSIEDAD (apego-pánico-deseo) junto a la triada del estrés. La pieza añade una distinción categorial fundamental: la ANSIEDAD como tal NO ES UNA EMOCIÓN sino una MECÁNICA PREEMOCIONAL de hiperalerta — estado preparatorio sobre el que las emociones operan, no afecto en sí. La ansiedad anticipatoria opera como dispositivo cognitivo: adelanta escenarios para diseñar conducta cumpliendo el deber ser. Cuando el aparato está sobrecargado (adolescencia, identidad transitoria), la ansiedad domina el tablero como única herramienta de modulación, y el aparato afectivo colapsa por sobrecarga del nivel preemocional.\n\n### Tres nuevas emociones sociales: envidia, vergüenza, ennui\n\n> \"La envidia es mezcla de pánico y pena (aguamarina); admira lo que tienen los demás para conseguir rápidamente un nuevo estatus,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)\n\n> \"La vergüenza es inhibición a posteriori que compensa la impulsividad y protege el deber ser,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)\n\n> \"Ennui (desidia) es desistir de emocionarse: un sistema de protección contra decepciones que inhibe la alegría,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)\n\nLa página articulaba siete motores afectivos biológicos universales filogenéticamente. La pieza añade tres EMOCIONES SOCIALES emergentes en la adolescencia que NO son motores nuevos sino COMPOSICIONES OPERATIVAS de los motores básicos sobre el sustrato del deber ser:\n\n1. **Envidia** = composición pánico + pena (color aguamarina). Función: admirar lo ajeno para conseguir rápidamente nuevo estatus. La envidia opera como dispositivo de calibración relativa cuando el deber ser exterior se vuelve dominante — el sujeto compara y aspira en una sola operación afectiva.\n2. **Vergüenza** = inhibición a posteriori. Función: compensar la impulsividad y proteger el deber ser. Distinta de la culpa (que es interna) y del miedo (que es anticipatorio): la vergüenza opera DESPUÉS del acto, modulando comportamiento futuro mediante el coste retrospectivo de exposición.\n3. **Ennui (desidia)** = desistir de emocionarse. Función: protección contra decepciones inhibiendo la alegría. La pieza precisa que el ennui adolescente NO es depresión clínica — es DISPOSITIVO PROTECTOR que apaga el motor afectivo positivo para evitar el coste de su decepción ulterior.\n\n### Las cinco emociones fundamentales infantiles y su sustitución adolescente\n\n> \"Asco: rechaza aquello con lo que no queremos tener nada que ver y regula la apariencia,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)\n\n> \"Pena: señala lo importante, obliga a aferrarnos a los vínculos (circuito del pánico),\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)\n\n> \"Alegría no es estar contento, sino ilusión, acción y motivación; dirige la personalidad jovial,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)\n\nLa pieza articula el repertorio INFANTIL específico de cinco emociones (asco, pena, ira, miedo, alegría) y su transición operativa: en la adolescencia el aparato infantil queda INSUFICIENTE para gestionar las nuevas demandas sociales, y las nuevas emociones sociales (envidia, vergüenza, ennui) emergen como composiciones afectivas más sofisticadas. La consecuencia operativa: el repertorio adolescente no es el infantil + tres emociones añadidas sino una RECONFIGURACIÓN COMPLETA del aparato donde la ansiedad preemocional se vuelve dominante y las emociones operan en modo de gestión del deber ser, no de respuesta directa al entorno.\n",
+      "wikilinks_introduced": [
+        "inside-out-2-2024-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 2976,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (49:36)](https://youtu.be/TmQiM16HIpU?t=2976)"
+        },
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 4127,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)"
+        },
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 1521,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)"
+        }
+      ],
+      "rationale": "La página articula los siete motores afectivos biológicos, las dos triadas (estrés, ansiedad), los ejes temporal/cultural, la filogénesis de los afectos, la aplicación clínica a TDAH/psicopatía/autismo. NO contiene: (1) la ANSIEDAD articulada explícitamente como MECÁNICA PREEMOCIONAL de hiperalerta (no emoción sino estado preparatorio); (2) las TRES NUEVAS EMOCIONES SOCIALES adolescentes (envidia=pánico+pena, vergüenza=inhibición a posteriori, ennui=desistir-de-emocionarse) como composiciones afectivas operativas; (3) las CINCO EMOCIONES FUNDAMENTALES INFANTILES y su transición adolescente como reconfiguración completa del aparato. Material que extiende el aparato afectivo con la dimensión adolescente y toca parcialmente la laguna 'extender el mapa a depresión, trastornos de ansiedad clásicos'.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el caso Candela requiere aceptar que ser buena hija no la obliga a continuar el sueño paterno como propio.",
+      "content_proposed": "\n\n## Tercera génesis femenina: padre infantil y sonrisa permanente como deber\n\nEl monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula una TERCERA génesis del cuadro femenino que las articulaciones anteriores tenían implícita: el caso de la hija con padre INFANTIL (no tirano, no ausente, no sacrificial) que requirió que la hija sonriera permanentemente porque él lo necesitaba.\n\n> \"Riley tiene daddy issues: el padre es infantil y ella tuvo que sonreír porque él lo necesitaba,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:27:14)](https://youtu.be/TmQiM16HIpU?t=8834)\n\n> \"La infantilidad del padre produce obsesividad en Riley (síndrome del Chocas): necesidad de ser la mejor para ser incluida,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:27:14)](https://youtu.be/TmQiM16HIpU?t=8834)\n\nLa pieza añade una TERCERA génesis del cuadro junto a las dos ya documentadas:\n\n1. **Trauma de rechazo paterno (caso Xocas masculino)** — el padre rechazó al hijo, la carrera obsesiva opera como demostración compulsiva del propio valor.\n2. **Deber heredado por sacrificio paterno (caso Candela en Elemental)** — el padre se sacrificó por la familia, la hija continúa el proyecto paterno por identificación con el sacrificio.\n3. **Padre infantil que requiere a la hija como cuidadora afectiva (caso Riley en Inside Out 2)** — el padre carecía de regulación afectiva propia, la hija aprendió a sonreír permanentemente porque la felicidad paterna dependía de la suya, INVIRTIENDO la función paterna (el hijo cuida al padre en lugar del padre cuidar al hijo). La obsesividad cristaliza como necesidad de ser LA MEJOR para ser incluida — sin excelencia constante, el padre infantil retira la atención que solo da cuando hay éxito que celebrar.\n\nLa modalidad Riley es categorialmente distinta: en los dos casos anteriores el padre operaba alguna función paterna (rechazo activo, sacrificio observable), en este caso el padre NO OPERA función paterna en absoluto — la hija debe construir un sustituto de la función desde abajo, lo que produce la obsesividad como dispositivo compensatorio del vacío paterno funcional. El síndrome del Chocas en su variante Riley es por tanto neurosis ADOLESCENTE primaria que cristaliza la obsesividad infantil cuando el deber ser exterior se vuelve exigente.\n\n### Los TCA como modalidad de la obsesividad adolescente\n\n> \"Los TCA se cuecen en el deber ser adolescente: hambre biológica luchando contra el córtex inhibitorio frontal,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:38:48)](https://youtu.be/TmQiM16HIpU?t=5928)\n\n> \"Riley tiende a la obsesividad: las cosas tienen que salir bien o será el caos,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:38:48)](https://youtu.be/TmQiM16HIpU?t=5928)\n\n> \"La obsesividad da una ilusión de control que funciona aparentemente pero destruye por dentro,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:38:48)](https://youtu.be/TmQiM16HIpU?t=5928)\n\nLa pieza articula los TCA (trastornos de la conducta alimentaria) como caso operativo de la modalidad adolescente del síndrome: la obsesividad infantil cristaliza durante la pubertad cuando el deber ser exterior se vuelve exigente, y el dispositivo de control se proyecta sobre el cuerpo (que es el campo más inmediatamente regulable). El hambre biológica luchando contra el córtex inhibitorio frontal es la mecánica específica del cuadro alimentario, pero la lógica subyacente es la misma de la carrera obsesiva sobre el agua: ilusión de control que funciona aparentemente pero destruye por dentro.\n",
+      "wikilinks_introduced": [
+        "inside-out-2-2024-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 8834,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (2:27:14)](https://youtu.be/TmQiM16HIpU?t=8834)"
+        },
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 5928,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:38:48)](https://youtu.be/TmQiM16HIpU?t=5928)"
+        }
+      ],
+      "rationale": "La página articula el síndrome del Xocas con dos casos masculinos (Xocas/Molly), una variante femenina (Candela en Elemental con ambivalencia heredada del padre, mi insert previo via Elemental) y la distinción ambivalencia vs ambigüedad (Eyes Wide Shut, mi insert previo). NO contiene: (1) la TERCERA génesis específica del cuadro femenino: padre infantil que invierte la función paterna requiriendo a la hija como cuidadora afectiva; (2) la articulación de los TCA como caso operativo de la modalidad adolescente del síndrome (obsesividad infantil cristalizada cuando el deber ser exterior se vuelve exigente). Tres génesis del cuadro ahora documentadas: rechazo paterno / sacrificio paterno / inversión paterna por infantilidad.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "trauma-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Funciona por instalación de un trauma rival que desplaza al original — costo iatrogénico que invalida la técnica como primera línea.",
+      "content_proposed": "\n\n## Distinción afectiva TEPT simple vs TEPT complejo\n\nEl monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula la distinción AFECTIVA específica que distingue ambos cuadros postraumáticos — pieza que la página declaraba como laguna ('TEPT complejo y rasgos de susceptibilidad individual queda enunciado pero no sistematizado').\n\n> \"El TEPT es una hiperalerta patológica por exceso de miedo o asco; el TEPT complejo es por exceso de culpa o pena,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:14:52)](https://youtu.be/TmQiM16HIpU?t=4492)\n\n> \"Ambos son estados de hiperalerta donde la mente vigila permanentemente que no se repita lo traumático,\"\n→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:14:52)](https://youtu.be/TmQiM16HIpU?t=4492)\n\nLa pieza articula la distinción categorial AFECTIVA entre los dos cuadros: ambos son estados de hiperalerta postraumática, pero operan sobre afectos distintos. **TEPT simple** = hiperalerta por exceso de MIEDO o ASCO — afectos de EVITACIÓN frente a amenaza inmediata percibida. La memoria del evento queda atascada en el afecto del momento del trauma (terror, repulsión), y la hiperalerta vigila la repetición del estímulo amenazante. **TEPT complejo** = hiperalerta por exceso de CULPA o PENA — afectos de PÉRDIDA frente a daño infligido o vínculo roto. La memoria queda atascada en el afecto del DESPUÉS del trauma (lo que se hizo, lo que se perdió), y la hiperalerta vigila la repetición de la situación que llevó al daño.\n\nLa consecuencia diagnóstica es operativa: las dos modalidades requieren intervenciones terapéuticas estructuralmente distintas. El TEPT simple opera bien con EMDR clásico (reelaboración episódica del momento traumático). El TEPT complejo requiere trabajo adicional sobre la matriz afectiva donde culpa y pena operan — la reelaboración del evento solo no basta porque el afecto que sostiene la hiperalerta NO está en el evento sino en el sistema de significación posterior. La pieza añade el criterio CATEGORIAL que la distinción simple-vs-complejo necesitaba: no es cuestión de severidad ni cronicidad sino de QUÉ AFECTO específico opera la hiperalerta.\n",
+      "wikilinks_introduced": [
+        "inside-out-2-2024-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "TmQiM16HIpU",
+          "timestamp_seconds": 4492,
+          "cite_markdown": "[Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:14:52)](https://youtu.be/TmQiM16HIpU?t=4492)"
+        }
+      ],
+      "rationale": "La página articula el trauma como dragón que rapta a la doncella, regresión episódica, EMDR, microdosis, contracondicionamiento, criterio de difuminación espontánea, mi insert previo (cambio del agua de la pecera + memoria atascada). DECLARA como laguna 'El vínculo entre TEPT complejo y rasgos de susceptibilidad individual queda enunciado pero no sistematizado: el canal lista factores sin articular una tipología'. La pieza añade la distinción AFECTIVA específica (miedo/asco vs culpa/pena) que es el criterio CATEGORIAL operativo: las dos modalidades operan sobre matrices afectivas distintas y requieren intervenciones terapéuticas estructuralmente distintas. Material que toca la laguna directamente.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "trauma-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: la distinción AFECTIVA entre TEPT simple (miedo/asco) y TEPT complejo (culpa/pena) ofrece criterio categorial operativo con consecuencia terapéutica diferencial. Queda pendiente la articulación con rasgos de susceptibilidad individual específicos que el directo no aborda.",
+      "supersedes_laguna_text": "El vínculo entre **TEPT complejo** y rasgos de susceptibilidad individual queda enunciado pero no sistematizado: el canal lista factores sin articular una tipología",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La distinción afectiva miedo/asco vs culpa/pena es criterio categorial operativo que distingue ambos cuadros y orienta la intervención terapéutica. Resolución parcial — los rasgos de susceptibilidad individual siguen pendientes.",
+      "editorial_intent": "resolve_laguna"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "diferencias emocionales por sexo: mecanismos supresivos vs compensatorios",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre diferencias afectivas: hombres sustituyen emoción por acción (mecanismos supresivos) vs mujeres transitan de una emoción a otra (mecanismos compensatorios). Caso operativo del fútbol como canalización afectiva masculina. Capturado en promote_new del film. Conecta con cerebro-masculino-femenino-en-proxy (thesis_candidate previo).",
+      "quote_evidence": "Los hombres sustituyen la emoción por acción (mecanismos supresivos); las mujeres transitan de una emoción a otra (mecanismos compensatorios),",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción operativa que enriquece el aparato sobre cerebro M/F. Worth verificar tras lectura.",
+      "enriches_concept": "algebra-afectiva"
+    },
+    {
+      "surface_form": "maternidad como rito de paso / tercera fase de la feminidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la maternidad como tercera fase de la feminidad y como rito de paso que cambia las estructuras neuronales. Conecta con tipologia-femenina-arquetipica (virgen-consorte-madre) y crisis-del-amor-pareja-y-maternidad-en-proxy. Capturado en promote_new del film.",
+      "quote_evidence": "La maternidad convierte a la mujer en madre: cambian todas las estructuras neuronales a nivel cerebral,",
+      "review_priority": "medium",
+      "review_priority_reason": "Articulación foundational sobre la maternidad como cambio estructural neuronal. Worth enriquecimiento a tipologia-femenina-arquetipica si recurre.",
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    },
+    {
+      "surface_form": "creencias / identidad / personalidad: distinciones canal-específicas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación foundational del canal sobre tres categorías que el discurso popular tiende a confundir: creencias (experiencias significativas), identidad (autoimagen consciente metarrepresentacional), personalidad (sistema biológico dominante). Capturado en promote_new del film con wikilink a yo-ego-autoestima-en-proxy.",
+      "quote_evidence": "La identidad pertenece al superior: son autoimágenes, metarrepresentaciones sobre uno mismo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tripartición categorial foundational que enriquece yo-ego-autoestima-en-proxy. Worth verificar tras lectura.",
+      "enriches_concept": "yo-ego-autoestima-en-proxy"
+    },
+    {
+      "surface_form": "encapsulación como mecanismo de defensa urgente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mecanismo de defensa específico articulado: la inhibición urgente de las mecánicas infantiles cuando el aparato adolescente las identifica como insuficientes. Capturado en promote_new del film.",
+      "quote_evidence": "La encapsulación es el mecanismo de defensa urgente por el que se inhiben todas las mecánicas infantiles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inside-out-2-2024-film"
+    },
+    {
+      "surface_form": "consolidación nocturna de la memoria como selección inconsciente de creencias",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del proceso por el que la consolidación memorial selecciona experiencias significativas que germinan como raíces del yo, gobernada inconscientemente por la emoción dominante. Capturado en promote_new del film. Conecta con teoria-de-la-memoria-en-proxy.",
+      "quote_evidence": "La consolidación nocturna de la memoria selecciona experiencias significativas que germinan como raíces del yo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-la-memoria-en-proxy"
+    },
+    {
+      "surface_form": "regresión hipnótica y condensación como mecanismos terapéuticos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la condensación (sustitución de una mecánica simbólica por otra) y la regresión hipnótica como dispositivo terapéutico que libera emociones primarias atascadas. Capturado en promote_new del film. Conecta con trauma-en-proxy.",
+      "quote_evidence": "La condensación sustituye una mecánica simbólica por otra: los primeros recuerdos en terapia regresiva no son los traumáticos reales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "despersonalización + ataque de pánico + integración del yo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de la cadena clínica: colapso de los mecanismos de defensa → despersonalización (mecanismo disociativo leve) → ataque de pánico (pérdida absoluta de control) → integración del yo. Capturado en promote_new del film.",
+      "quote_evidence": "Alegría renuncia a la vieja identidad; Riley comprende que no es buena persona pero no pasa nada: eso es integración del yo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inside-out-2-2024-film"
+    },
+    {
+      "surface_form": "vergüenza como people-pleasing / patetismo de alivio",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación específica de la vergüenza como mecanismo de alivio temporal mediante patetismo (rogar la atención ajena imaginando que si todo va mal, se arreglará agradando al rival). Capturado en promote_new del film.",
+      "quote_evidence": "La vergüenza permite un alivio momentáneo mediante el patetismo: imaginar que si todo va mal, se arreglará agradando al rival,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "algebra-afectiva"
+    },
+    {
+      "surface_form": "Warhammer vs novelas románticas como hobbies regresivos M/F",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la simetría regresiva masculina (figuritas, maquetas, Warhammer = fantasía infantil + operaciones complejas) y femenina (novelas románticas, eróticas, fantásticas = regresión a fantasías preadolescentes). Capturado en promote_new del film.",
+      "quote_evidence": "Las novelas románticas, eróticas y fantásticas femeninas son el equivalente: regresión a fantasías preadolescentes e impulsos primarios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inside-out-2-2024-film"
+    },
+    {
+      "surface_form": "incel (regresión a lo infantil) vs MGTOW (regresión a lo femenino)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre dos cuadros sociales contemporáneos masculinos como regresiones específicas: incel = regresión a lo infantil (querer ser elegido); MGTOW = regresión a lo femenino. Capturado en promote_new del film.",
+      "quote_evidence": "El incel es una regresión a lo infantil (querer ser elegido); el MGTOW es una regresión a lo femenino,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría operativa canal-específica que enriquece sindrome-del-nino-masculino y crisis-del-amor-pareja-y-maternidad-en-proxy.",
+      "enriches_concept": "sindrome-del-nino-masculino"
+    },
+    {
+      "surface_form": "ansiedad como generadora de ficciones anticipatorias / TEPT como hiperalerta",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación operativa: la ansiedad protege creando ficciones anticipatorias de las cosas malas que no se pueden ver. El TEPT es la patologización de esa hiperalerta. Capturado en pending_update a trauma-en-proxy.",
+      "quote_evidence": "La ansiedad protege de las cosas malas que no se pueden ver creando ficciones anticipatorias,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "comentarios sobre la audiencia del canal y contenido político",
+      "reason_code": "meta_canal",
+      "reason_detail": "Apertura meta-canal sobre audiencia y reflexión sobre el efecto del contenido político en la salud mental del propio creador. Sin contenido enciclopédico independiente.",
+      "quote_evidence": "Reflexión sobre la salud mental y el efecto negativo de hacer contenido político,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 1,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP framing_mark @ entity[inside-out-2-2024-film]: 'Es una excusa perfecta para explicar la adolescencia y los c'",
+    "WARN promote_new[Inside Out 2 (Pixar/Disney, 2024)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

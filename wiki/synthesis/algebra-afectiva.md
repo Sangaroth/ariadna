@@ -138,6 +138,53 @@ La tesis se inscribe explícitamente como prolongación del [[realismo-cognitivo
 - La **filogénesis de la ameba al mamífero** se enuncia como orden evolutivo pero no se desarrolla qué motor aparece en qué nivel del árbol filogenético
 - El paso de **emoción** (traducción somática) a **afecto** (generalización con motor biológico) se distingue conceptualmente, pero la mecánica de esa traducción somática no se desarrolla aquí
 - La aplicación clínica menciona **TDAH, psicopatía y autismo** pero no extiende el mapa a otros cuadros (depresión, trastornos de ansiedad clásicos, trastornos de personalidad) — el corpus podría tener material en otros vídeos que cierre esta laguna
+
+
+
+## Las nuevas emociones sociales adolescentes y la ansiedad como mecánica preemocional
+
+El monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula dos extensiones operativas del aparato afectivo del canal: la ansiedad como mecánica PREEMOCIONAL distinta de las emociones, y las tres nuevas emociones sociales adolescentes como composiciones afectivas operativas que sustituyen al repertorio infantil.
+
+### La ansiedad como mecánica preemocional de hiperalerta
+
+> "La ansiedad no es una emoción sino una mecánica afectiva preemocional de hiperalerta,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (49:36)](https://youtu.be/TmQiM16HIpU?t=2976)
+
+> "La ansiedad anticipatoria sirve para cumplir el deber ser: adelantar qué ocurrirá y diseñar cómo comportarse,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (49:36)](https://youtu.be/TmQiM16HIpU?t=2976)
+
+La página articulaba la triada de la ANSIEDAD (apego-pánico-deseo) junto a la triada del estrés. La pieza añade una distinción categorial fundamental: la ANSIEDAD como tal NO ES UNA EMOCIÓN sino una MECÁNICA PREEMOCIONAL de hiperalerta — estado preparatorio sobre el que las emociones operan, no afecto en sí. La ansiedad anticipatoria opera como dispositivo cognitivo: adelanta escenarios para diseñar conducta cumpliendo el deber ser. Cuando el aparato está sobrecargado (adolescencia, identidad transitoria), la ansiedad domina el tablero como única herramienta de modulación, y el aparato afectivo colapsa por sobrecarga del nivel preemocional.
+
+### Tres nuevas emociones sociales: envidia, vergüenza, ennui
+
+> "La envidia es mezcla de pánico y pena (aguamarina); admira lo que tienen los demás para conseguir rápidamente un nuevo estatus,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)
+
+> "La vergüenza es inhibición a posteriori que compensa la impulsividad y protege el deber ser,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)
+
+> "Ennui (desidia) es desistir de emocionarse: un sistema de protección contra decepciones que inhibe la alegría,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)
+
+La página articulaba siete motores afectivos biológicos universales filogenéticamente. La pieza añade tres EMOCIONES SOCIALES emergentes en la adolescencia que NO son motores nuevos sino COMPOSICIONES OPERATIVAS de los motores básicos sobre el sustrato del deber ser:
+
+1. **Envidia** = composición pánico + pena (color aguamarina). Función: admirar lo ajeno para conseguir rápidamente nuevo estatus. La envidia opera como dispositivo de calibración relativa cuando el deber ser exterior se vuelve dominante — el sujeto compara y aspira en una sola operación afectiva.
+2. **Vergüenza** = inhibición a posteriori. Función: compensar la impulsividad y proteger el deber ser. Distinta de la culpa (que es interna) y del miedo (que es anticipatorio): la vergüenza opera DESPUÉS del acto, modulando comportamiento futuro mediante el coste retrospectivo de exposición.
+3. **Ennui (desidia)** = desistir de emocionarse. Función: protección contra decepciones inhibiendo la alegría. La pieza precisa que el ennui adolescente NO es depresión clínica — es DISPOSITIVO PROTECTOR que apaga el motor afectivo positivo para evitar el coste de su decepción ulterior.
+
+### Las cinco emociones fundamentales infantiles y su sustitución adolescente
+
+> "Asco: rechaza aquello con lo que no queremos tener nada que ver y regula la apariencia,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)
+
+> "Pena: señala lo importante, obliga a aferrarnos a los vínculos (circuito del pánico),"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)
+
+> "Alegría no es estar contento, sino ilusión, acción y motivación; dirige la personalidad jovial,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)
+
+La pieza articula el repertorio INFANTIL específico de cinco emociones (asco, pena, ira, miedo, alegría) y su transición operativa: en la adolescencia el aparato infantil queda INSUFICIENTE para gestionar las nuevas demandas sociales, y las nuevas emociones sociales (envidia, vergüenza, ennui) emergen como composiciones afectivas más sofisticadas. La consecuencia operativa: el repertorio adolescente no es el infantil + tres emociones añadidas sino una RECONFIGURACIÓN COMPLETA del aparato donde la ansiedad preemocional se vuelve dominante y las emociones operan en modo de gestión del deber ser, no de respuesta directa al entorno.
+
 - La distinción **empatía cognitiva vs simpatía** se enuncia como pieza del álgebra, pero su formalización operatoria queda implícita
 
 ## Status auto-promoción
@@ -149,3 +196,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [20:13](https://youtu.be/BdVsvhTWWew?t=1213) · [25:16](https://youtu.be/BdVsvhTWWew?t=1516)
 
+
+- **Transhumanismo, IA y Ciencia Ficción.** — chunks: [1:34:45](https://youtu.be/kdk8mi7-Y1s?t=5685) · [1:12:41](https://youtu.be/kdk8mi7-Y1s?t=4361)

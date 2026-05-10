@@ -728,6 +728,35 @@
       }
     },
     {
+      "canonical_guess": "la-llave-de-plata-lovecraft",
+      "from_video": "clUIlcqD0o0",
+      "entity": {
+        "surface_form": "La llave de plata",
+        "canonical_guess": "la-llave-de-plata-lovecraft",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.literature",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 40,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Proxy anuncia la lectura del cuento \"La llave de plata\" de la edición Valdemar de la narrativa completa,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Lo mejor de Lovecraft no es lo que cuenta sino lo que no cuenta: la narrativa incompleta,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Cuento de Lovecraft leído íntegro en sesión (≈40 min de lectura sostenida desde 14:33 hasta 50:23, antes del comentario crítico en 55:37). Cumple scope.md §2.3 v0.3: lectura íntegra en directo activa promoción a entity_work con read_in_session: true. Mismo patrón que aire-frio-lovecraft, el-descendiente-lovecraft, en-la-cripta-lovecraft, el-modelo-de-pickman-lovecraft, la-extrana-casa-elevada-entre-la-niebla-lovecraft. Incorpora además autocrítica del speaker sobre la dualidad de la obra de Lovecraft (cuentos cortos tempranos vs narrativa madura desde 'La llamada de Cthulhu') y la tesis de la 'narrativa incompleta' como técnica central.",
+        "quote_evidence": "Proxy anuncia la lectura del cuento \"La llave de plata\" de la edición Valdemar de la narrativa completa,"
+      }
+    },
+    {
       "canonical_guess": "mito-lunar",
       "from_video": "t8v5w3s0USA",
       "entity": {
@@ -861,6 +890,72 @@
         "decision": "promote_new",
         "decision_reason": "Vídeo monográfico de 132 min dedicado íntegramente a articular una teoría propia de la memoria del canal, con estructura pedagógica explícita ('La filosofía deshace ideas mitológicas') y posicionamiento genealógico explícito (continuación del realismo cognitivo y del marco matricial de teoria-del-simbolo-en-proxy, oposición a psicoanálisis y conductismo). CUMPLE el gate de auto-promoción §2.4.1: (a) minutes_sustained=132 ≥ 30; (b) signal_marks_detected=6 ≥ 3 (thesis_marker, corrective_thesis, internal_structure, applied_framework, genealogical_self_reference, pedagogic_register); (c) framework_internal_structure ≥ 4 piezas explícitas: definición negativa (memoria NO es almacén), definición positiva (fenómenos noéticos de repetición de submatrices similares), tipología (procedimental/episódica/semántica/sensorial-corto-largo), localización neuroanatómica (corteza retrosplenial / orbitofrontal / hipocampo), mente como matriz con submatrices imaginario-formal-afectivo, persistencia en la repetición como criterio de demarcación, refutación de recuerdos reprimidos. Marcar auto_promoted_synthesis=true en frontmatter. Página resuelve laguna estructural del wiki: no hay locus enciclopédico de la teoría memorial del canal a pesar de ser pieza recurrente en yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy y golem-de-cobre. Sub-agente debe construir cuerpo con secciones por tipo de memoria, secciones por mecanismo (matriz, persistencia, P300, CAD), wikilinks a realismo-cognitivo, teoria-del-simbolo-en-proxy, golem-de-cobre, yo-ego-autoestima-en-proxy, tid-personaje-en-proxy, trauma-en-proxy.",
         "quote_evidence": "La memoria son fenómenos internos de repetición: una parte del cerebro se activa de forma similar a como se activó originalmente"
+      }
+    },
+    {
+      "canonical_guess": "antiheroe",
+      "from_video": "yLd7j3fcR1w",
+      "entity": {
+        "surface_form": "Antihéroe (Rick Sanchez, Deadpool, depresión y pulsión de muerte)",
+        "canonical_guess": "antiheroe",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology.jungian",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 32,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Se llama antihéroe no porque se oponga al héroe, sino porque todas sus circunstancias son opuestas al mito herculeo,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Rick es muy listo pero ser listo no es un don uranio porque no hay gloria posible en su mundo de desgracia,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "El grito \"wubba lubba dub dub\" de Rick significa en realidad \"sufro terriblemente\","
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Concept canal-específico articulado sustantivamente (~32 min de exposición, de 1:23:50 a 1:53:00) en vídeo monográfico tipológico (Mitología 101). Cumple §2.1 por: (a) monográfico (≥10 min de tesis central dedicada); (b) framing-mark explícito ('el antihéroe se odia, se da asco, cree que su existencia es un error' como articulación propia); (c) channel-canonical (etiqueta operativa con paradigmas: Rick Sanchez, Deadpool); (d) cierra explícitamente la laguna 'versiones invertidas del viaje (camino destructivo, antihéroe) merecen tratamiento propio' declarada en viaje-heroe. La definición operativa que el canal articula: arrojado a la catábasis sin dones uranios, sin destino uranio, en permanente crisis de identidad sin propósito, víctima del absurdo. La distinción frente a héroe-truncado y caballero-oscuro es estructural: el héroe truncado renuncia al destino uranio que sí tenía; el caballero oscuro nace en la catábasis sin haber conocido el destino uranio; el antihéroe carece de dones uranios pero conoció la felicidad y le fue arrebatada — la triple orfandad freudiana (sin padre económico, cultural ni físico) y la pulsión de muerte contenida son sus marcas distintivas. Se distingue del 'antihéroe ordinario' (Lebowski) ya documentado en viaje-heroe — ese es sub-tipo sin componente depresivo-absurdo.",
+        "quote_evidence": "Sin destino uranio, en permanente crisis de identidad, sin propósito, víctima del absurdo,"
+      }
+    },
+    {
+      "canonical_guess": "caballero-oscuro",
+      "from_video": "yLd7j3fcR1w",
+      "entity": {
+        "surface_form": "Caballero oscuro (Batman, Daredevil, Punisher, Rorschach, El Cuervo)",
+        "canonical_guess": "caballero-oscuro",
+        "page_type": "concept",
+        "domain_primary_guess": "social.psychology.jungian",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 12,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "No es arrojado al mundo sino directamente a lo salvaje o al mal; nace ya en la catábasis,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Diferencia con Conan: si le espera gloria es héroe, si no, caballero oscuro,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "El caballero oscuro tomó protagonismo en la etapa del gótico (siglo XIX), emulando historias de la Edad Oscura,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Concept canal-específico articulado en bloque sostenido (≈12 min, 1:14:46-1:23:50) con definición estructural distintiva, canon de paradigmas y genealogía histórico-cultural (etapa del gótico, siglo XIX, emulación de la Edad Oscura). Cumple §2.1 por: (a) monográfico (segmento dedicado); (b) framing-mark ('héroe sin destino uranio' como articulación propia); (c) channel-canonical con paradigmas fijos (Batman, Daredevil, Punisher, Rorschach, El Cuervo); (d) cierra parte de la laguna 'versiones invertidas del viaje' de viaje-heroe; (e) tiene clave de redención propia (la hija anula el mundo de miseria y lo transforma en héroe — relación padre-hija como hierogamia). Distinción operativa frente a heroe-truncado: el héroe truncado renunció al destino uranio que tenía; el caballero oscuro nace ya en la catábasis sin haber conocido el orden ni el destino uranio. Distinción frente a antihéroe: el caballero oscuro tiene dones operativos para luchar por su causa (justicia propia, venganza, supervivencia), el antihéroe carece de dones uranios y vive el absurdo.",
+        "quote_evidence": "Lucha por justicia propia, venganza, reposición o supervivencia; se crea su propia causa,"
       }
     }
   ]

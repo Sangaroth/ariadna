@@ -112,7 +112,26 @@ El mecanismo psicológico que el canal identifica conecta con la lectura de [[te
 
 La lectura arquetípica del canal sitúa Bloodborne en una posición específica frente al monomito: no es viaje del héroe hacia fuera, es laberinto hacia dentro. La obra invierte el vector exterior del [[viaje-heroe]] clásico para convertirlo en ascenso intelectual y descenso al [[collective-unconscious]] simultáneos.
 
-> "A diferencia de otros caminos del héroe, el laberinto representa el viaje interior y el ascenso intelectual de quien elige mirar hacia sí mismo. Nuestro interior sigue siendo tan insondable como antaño, pero está en nuestra naturaleza seguir buscando los dioses dentro y fuera. El ansia por completar un puzzle cuya pieza más importante es uno mismo."
+> "A diferencia de otros caminos del héroe, el laberinto representa el viaje interior y el ascenso intelectual de quien elige mirar hacia sí mismo. Nuestro interior sigue siendo tan insondable como antaño, pero está en nuestra naturaleza seguir buscando los dioses dentro y fuera. El ansia por completar un puzzle cuya pieza más importante es uno mismo.
+
+
+## Las dos vías sobrenaturales lovecraftianas como tema central
+
+En el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal precisa la herencia lovecraftiana de Bloodborne articulada en secciones anteriores. La página articulaba 'Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft' como observación general; el directo añade la pieza específica que constituye el tema central del juego.
+
+> "Sueños, drogas y lo alucinatorio como primera vía,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+> "El instrumento ritual y el conocimiento como segunda vía,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+> "El insight es lo que inspiró el tema central de Bloodborne,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+La precisión genealógica articula la **taxonomía de las dos vías canónicas** lovecraftianas al sobrenatural (ver [[lovecraft-howard]] sección 'Las dos vías al acceso de lo sobrenatural lovecraftiano'): vía alucinatoria (sueños, drogas, fiebre) vs vía ritual-cognitiva (instrumento + conocimiento). Bloodborne hereda específicamente esta taxonomía y la convierte en mecánica operativa. El insight como estadística de juego (no estadística de combate, no de salud) es la operacionalización del **conocimiento esotérico** como recurso adquirible que altera la percepción del sujeto-jugador del entorno — más insight = más ojos abiertos al sobrenatural lovecraftiano. La sangre y los viales operan en la vía complementaria: el ritual cazador, el bautismo de sangre, los implantes son **instrumentos rituales** cuya manipulación + el conocimiento adecuado permiten al cazador acceder al sobrenatural sin colapsar.
+
+La pieza precisa la lectura del juego: Bloodborne no hereda 'Lovecraft genérico' sino exactamente esta taxonomía estructural. La invención del juego es articular las dos vías lovecraftianas como mecánicas de progresión simultáneas — el cazador avanza por instrumentación ritual (combate, transformación, viales) Y por insight acumulado (conocimiento), ninguna de las dos suficiente por sí sola para acceder al núcleo cosmológico de la obra. La consecuencia para la lectura arquetípica articulada en la página es que el laberinto interior del cazador no es solo viaje al [[collective-unconscious]] genéricamente lovecraftiano; es operacionalización de la doble vía canónica del autor como condición necesaria del acceso.
+"
 → [Sacrilegia I (Bloodborne) (20:55)](https://youtu.be/9x8zTqpyZ5Q?t=1255)
 
 Esta cita conecta con la página de [[individuation]]: el laberinto de Bloodborne es la forma específica que adopta el viaje interior cuando el material arquetípico se articula desde el horror cósmico en lugar de la teofanía clásica.
@@ -143,6 +162,8 @@ Esta premisa convierte el análisis de Bloodborne en análisis de un proceso psi
 
 
 
+
 - **Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne** — chunks: [1:02](https://youtu.be/9x8zTqpyZ5Q?t=62) · [1:32](https://youtu.be/9x8zTqpyZ5Q?t=92) · [5:35](https://youtu.be/9x8zTqpyZ5Q?t=335) · [8:37](https://youtu.be/9x8zTqpyZ5Q?t=517) · [11:39](https://youtu.be/9x8zTqpyZ5Q?t=699) · [15:12](https://youtu.be/9x8zTqpyZ5Q?t=912)
 - **Sic transit gloria mundi** — chunks: [1:01:34](https://youtu.be/vDv77eZnMo4?t=3694)
+- **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [1:28:18](https://youtu.be/celiAdqrHYA?t=5298)
 

@@ -132,8 +132,14 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 
 
 
+
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [1:08:32](https://youtu.be/Dtp1_RLb7S0?t=4112) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757)
 - **Lunes basado terminal** — chunks: [14:19](https://youtu.be/oHxXzr5WSbQ?t=859)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [41:11](https://youtu.be/s6teBboDDJ4?t=2471)
+- **Análisis: La Llegada (Parte dos)** — chunks: [1:16:25](https://youtu.be/tOn66qFS2-M?t=4585)
+- **Análisis La Llegada, (Parte uno, introducción)** — chunks: [25:20](https://youtu.be/aPbgBnidoJI?t=1520)
+- **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391)
 

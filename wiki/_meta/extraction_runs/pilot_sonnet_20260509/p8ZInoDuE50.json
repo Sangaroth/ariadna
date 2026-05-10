@@ -1,0 +1,547 @@
+{
+  "video_id": "p8ZInoDuE50",
+  "video_title": "Análisis arquetípico de Elemental",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Elemental (Pixar, 2023)",
+      "canonical_guess": "elemental-2023-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 109,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Pixar no desarrolla un viaje del héroe arquetípico en ninguno de los personajes de la película,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película tiene argumento pero no tiene tema: no hay narrativa arquetípica que desarrolle una verdad universal,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~109 min) dedicado íntegramente al análisis arquetípico de Elemental. Per scope §2.3, ≥30 min satisface criterio. La página woke-narrativa-postmoderna-moral ya nombra Elemental como caso de 'vaciamiento arquetípico total' pero NO articula el análisis sustantivo. Esta es la articulación monográfica principal del canal sobre la película. Caso operativo del monomito fallido + lectura crítica de la masculinidad pixar + caso clínico de Candela como síndrome del Xocas femenino.",
+      "quote_evidence": "Las dificultades a las que se enfrentan los personajes no les hacen cambiar: encuentran un motivo para que dejen de ser dificultades, pero ellos permanecen iguales,"
+    },
+    {
+      "surface_form": "Candela como síndrome del Xocas femenino",
+      "canonical_guess": "sindrome-xocas",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Candela tiene síndrome del chocas: necesidad obsesiva de cumplir con el objetivo porque si para va a encontrarse con su propia ambivalencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el síndrome del Xocas con dos casos masculinos (el streamer Xocas + Molly como contraparte ambigua) y declara como laguna 'Contraparte femenina: el caso de Molly se introduce como análogo pero el canal no desarrolla si el síndrome adopta forma específica según el polo arquetípico padre/madre'. Candela es caso operativo claro del síndrome aplicado a un personaje femenino con núcleo afectivo articulado: la carrera obsesiva sobre el agua opera para evitar la ambivalencia heredada del padre (necesito cumplir el sueño paterno + necesito que se preocupen por mí).",
+      "quote_evidence": "Su ambivalencia es \"necesito que se preocupen por mí pero estoy demasiado ocupada preocupándome por mi padre\","
+    },
+    {
+      "surface_form": "monomito fallido / sacrificio pasivo vs sacrificio heroico",
+      "canonical_guess": "viaje-heroe",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 18,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El sacrificio del hombre de agua es pasivo y femenino: dejarse llevar por la muerte para que otro continúe, como haría una madre por sus hijos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las dificultades a las que se enfrentan los personajes no les hacen cambiar: encuentran un motivo para que dejen de ser dificultades, pero ellos permanecen iguales,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el héroe truncado, antihéroe ordinario, monomito vaciado por escapismo (Harry Potter) e ingenuidad (Frozen). NO contiene la distinción sacrificio pasivo (femenino-materno: dejarse llevar por la muerte) vs sacrificio heroico (masculino-renunciativo: convertirse en algo nuevo que no era), ni la fórmula 'el héroe debe transformarse, no solo padecer' aplicada como vara crítica al final de Elemental.",
+      "quote_evidence": "Habría tenido triple sentido que se convirtiera en hielo: renunciar a su yo emocional para convertirse en algo duro y nuevo que nadie había sido,"
+    },
+    {
+      "surface_form": "los cuatro elementos como temperamentos (activo/pasivo × positivo/negativo)",
+      "canonical_guess": "cuatro-elementos-arquetipicos",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El fuego representa el temperamento activo negativo (agresivo), el aire el activo positivo (intelectual),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la cuaternidad de elementos en dos vehículos iconográficos (figuras tolkienianas y palos del tarot) y la asimetría material/inmaterial (fuego+tierra vs aire+agua). NO contiene el mapeo TEMPERAMENTAL (matriz 2x2 activo/pasivo × positivo/negativo) que el directo articula como tercer vehículo: fuego=activo-negativo, aire=activo-positivo, agua=pasivo-negativo, tierra=pasivo-positivo. La pieza extiende la cuaternidad como dispositivo de lectura transversal añadiendo dimensión psicológica-clínica explícita.",
+      "quote_evidence": "Los cuatro elementos corresponden a los cuatro mundos del yo descritos en la tradición hermética,"
+    },
+    {
+      "surface_form": "herencia de frustraciones paternas como mecánica de culpa",
+      "canonical_guess": "herida-narcisista-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Cuando algo causa frustración al padre, ese objeto se convierte en objeto de nuestra preocupación: heredamos las debilidades del padre como mecánicas de culpa,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula 'la herida de padre como origen del narcisismo patológico' (falta de validación paterna como héroe) y la inversión cultural M/F. NO contiene el mecanismo específico de HERENCIA DE FRUSTRACIONES PATERNAS: cuando algo frustra al padre, el objeto-frustrador se convierte en preocupación del hijo. Articula una herida narcisista distinta de la primaria (no validación) — la secundaria por contagio neurótico, donde el sujeto integra frustraciones ajenas como propias sin conocer su origen.",
+      "quote_evidence": "La neurosis con el padre genera la herida narcisista más compleja porque integramos frustraciones ajenas como propias sin conocer su origen,"
+    },
+    {
+      "surface_form": "Elemental como caso de vaciamiento arquetípico total (woke)",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 109,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película tiene argumento pero no tiene tema: no hay narrativa arquetípica que desarrolle una verdad universal,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página enumera Elemental como caso de 'vaciamiento arquetípico total' (junto a Wish y Buzz Lightyear) y captura una cita sobre la inmigración estereotipada. NO articula el análisis monográfico sustantivo. Este directo es la articulación principal — caso operativo del woke en sus cuatro características diagnósticas (ingenuidad, autotipos, sobreactuación, víctimas en lugar de héroes) aplicadas obra-por-obra. Material foundational para el caso paradigmático que la página solo nombra.",
+      "quote_evidence": "Pixar confunde sensibilidad con labilidad: ser desbordado por las emociones no es una virtud sino un problema de incontinencia emocional,"
+    },
+    {
+      "surface_form": "argumento vs Tema (con mayúsculas) — distinción canal-específica",
+      "canonical_guess": "elemental-2023-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El tema con mayúsculas es el asunto mitológico, una narrativa arquetípica que provoca cambio interior en el espectador,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Distinción operativa canal-específica: argumento (lo que pasa en pantalla) vs Tema con mayúsculas (asunto mitológico que provoca cambio alquímico). Capturada como cita en promote_new del film. Categoría que merece vigilancia para futura página de poética del canal si recurre.",
+      "quote_evidence": "Cuando la película no tiene historia arquetípica, entretiene pero no hace cambiar; cuando la tiene, es imposible no cambiar si la hemos vivido,"
+    },
+    {
+      "surface_form": "mito de la empatía: empatía vs simpatía",
+      "canonical_guess": "elemental-2023-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El proceso empático real es empaparse de la emoción del otro y comprenderla; el proceso simpático es compartirla,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Distinción canal-específica empatía cognitiva (empaparse y comprender la emoción del otro) vs simpatía (compartirla). Articulación que ya aparece marginalmente en algebra-afectiva. Capturada en promote_new del film como pieza del análisis crítico al personaje de agua.",
+      "quote_evidence": "Que una persona sea especialmente sensible no significa que comprenda mejor a los demás: es labilidad propia del que solo sabe llorar,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "elemental-2023-film",
+      "canonical_name": "Elemental (Pixar/Disney, 2023)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "interdisciplinary.cultural_studies",
+        "social.psychology.jungian"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~109 min dedicado íntegramente al análisis arquetípico de Elemental (per scope §2.3 ≥30 min). La página woke-narrativa-postmoderna-moral ya tiene Elemental como caso de 'vaciamiento arquetípico total' nombrado pero sin articulación sustantiva. Este es el directo principal del canal sobre la película.",
+      "one_line_summary": "Análisis arquetípico monográfico de Elemental (Pixar/Disney, 2023) leído como caso operativo del MONOMITO FALLIDO: ningún personaje atraviesa transformación alquímica genuina, los problemas se disuelven sin que los protagonistas cambien; Candela opera como síndrome del Xocas femenino (carrera obsesiva sobre el agua para no encontrarse con la ambivalencia heredada del padre); el personaje masculino de agua articula la masculinidad pixar destruida (irreflexividad + irracionalidad + sumisión + pusilanimidad como sustitución del adgrediere); la película muestra falsa integración cultural sin solución simbólica, complementariedad automática como mito, sensibilidad confundida con labilidad emocional, y un sacrificio final pasivo-femenino donde habría requerido sacrificio heroico transformador (haber convertido al hombre de agua en hielo); la única pieza valiosa es la resolución del vínculo padre-hija mediante la reverencia devuelta.",
+      "frontmatter_fields_proposed": {
+        "year": 2023,
+        "studio_or_publisher": "Pixar Animation Studios / Walt Disney Pictures",
+        "medium": "film",
+        "director": "Peter Sohn",
+        "subgenre": "fantasía animada"
+      },
+      "relations_to_existing": [
+        {
+          "type": "manifestation_of",
+          "to": "woke-narrativa-postmoderna-moral",
+          "weight": "canonical",
+          "note": "caso paradigmático de vaciamiento arquetípico total nombrado en el marco — esta página articula el análisis sustantivo aplicado obra-por-obra"
+        },
+        {
+          "type": "exemplifies",
+          "to": "autotipo",
+          "weight": "canonical",
+          "note": "personajes-cáscara con etiqueta cultural sin contenido interior universal — Wade como caso paradigmático del prototipo vaciado"
+        },
+        {
+          "type": "exemplifies",
+          "to": "sindrome-xocas",
+          "weight": "canonical",
+          "note": "Candela como síndrome del Xocas femenino articulado: carrera obsesiva sobre el agua para no encontrarse con la ambivalencia entre cumplir el sueño del padre y querer ser cuidada"
+        },
+        {
+          "type": "compared_with",
+          "to": "viaje-heroe",
+          "weight": "canonical",
+          "note": "caso del monomito fallido: ningún personaje atraviesa transformación alquímica irreversible — solo aprenden a vivir con sus dificultades sin cambiar internamente"
+        },
+        {
+          "type": "compared_with",
+          "to": "frozen-2013-film",
+          "weight": "strong",
+          "note": "ambas son películas pixar/disney que sustituyen el monomito por confirmación de la inocencia previa; Elemental va un paso más allá vaciando además los arquetipos en favor de etiquetas culturales"
+        },
+        {
+          "type": "references",
+          "to": "cuatro-elementos-arquetipicos",
+          "weight": "strong",
+          "note": "los cuatro elementos como temperamentos (activo/pasivo × positivo/negativo) que la película no articula coherentemente"
+        },
+        {
+          "type": "references",
+          "to": "herida-narcisista-en-proxy",
+          "weight": "strong",
+          "note": "la herencia de frustraciones paternas como mecánica de culpa que organiza tanto a Candela como al padre azulín"
+        },
+        {
+          "type": "compared_with",
+          "to": "adgrediere-masculino",
+          "note": "el personaje masculino de agua opera como negación operativa del adgrediere — sin vigor, sin impulso, ser funcionario como profesión más antiheroica"
+        },
+        {
+          "type": "references",
+          "to": "hieros-gamos",
+          "weight": "weak",
+          "note": "la pareja Candela-Wade no opera como hieros gamos auténtico — es complementariedad automática mítica, no encuentro polar transformador"
+        },
+        {
+          "type": "criticizes",
+          "to": "individuation",
+          "note": "muestra simulacro de integración cultural y emocional sin que ningún personaje atraviese cambio alquímico real"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min. La obra es caso operativo foundational del canal para múltiples conceptos: monomito fallido, autotipo cultural, masculinidad pixar destruida, síndrome del Xocas femenino, sacrificio pasivo vs heroico, herencia de frustraciones paternas. Tiene además valor como ANTI-MODELO — el canal usa Elemental para mostrar QUÉ no es viaje del héroe, qué no es integración real, qué no es sacrificio transformador. Esa función negativa hace la página funcionalmente complementaria a las páginas de obras canónicas (Tarzán, Excalibur, El Silmarillion) que ilustran el cumplimiento positivo de las mismas estructuras. La pieza más rescatable según el canal es la resolución del vínculo padre-hija mediante la reverencia devuelta."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La categoría es por tanto más estrecha que \"progresista\" o \"postmoderno\": una obra puede ser progresista sin ser woke (Frozen), o postmoderna sin ser woke (el canal cita Ad Astra y Her como casos), o cero postmoderna (Mad Max Fury Road). El woke ocurre solo cuando narrativa postmoderna y ámbito moral coinciden, vaciando el sustrato arquetípico de la obra. Esto lo emparenta con el [[autotipo]] como categoría general — el prototipo vaciado de sentido moral — del cual el woke sería la modalidad cultural sistemática.",
+      "content_proposed": "\n### El caso Elemental: análisis monográfico del vaciamiento\n\nLa página enumera Elemental entre las películas genuinamente woke pero no articula el análisis monográfico que el canal le dedicó (~109 min) en el directo *Análisis arquetípico de Elemental* (nov 2023). La página propia [[elemental-2023-film]] desarrolla el caso obra-por-obra; este resumen integra las piezas decisivas para el marco woke.\n\n**Argumento sin Tema con mayúsculas** (14:08):\n\n> \"La película tiene argumento pero no tiene tema: no hay narrativa arquetípica que desarrolle una verdad universal,\"\n→ [Análisis arquetípico de Elemental (14:08)](https://youtu.be/p8ZInoDuE50?t=848)\n\n> \"El tema con mayúsculas es el asunto mitológico, una narrativa arquetípica que provoca cambio interior en el espectador,\"\n→ [Análisis arquetípico de Elemental (14:08)](https://youtu.be/p8ZInoDuE50?t=848)\n\n> \"Parece que va sobre superación o integración, pero no desarrolla ninguna de las dos porque nadie se supera ni se integra realmente,\"\n→ [Análisis arquetípico de Elemental (14:08)](https://youtu.be/p8ZInoDuE50?t=848)\n\nLa distinción argumento / Tema cifra el diagnóstico woke: una obra puede tener argumento (cosas pasan en pantalla, hay conflicto y resolución narrativa) sin tener Tema (asunto mitológico que provoca cambio interior). Elemental tiene argumento elaborado pero ningún Tema arquetípico genuino — ningún personaje atraviesa transformación alquímica irreversible. Las dificultades se disuelven sin que los protagonistas cambien internamente.\n\n**Falsa integración cultural** (16:08):\n\n> \"Los elementos no pueden juntarse ni mezclarse, lo que significa que nunca habrá verdadera integración sino solo convivencia con dificultades permanentes,\"\n→ [Análisis arquetípico de Elemental (16:08)](https://youtu.be/p8ZInoDuE50?t=968)\n\n> \"No hay solución simbólica que nos diga que los elementos podrán mantenerse unidos: el único motivo por el que dos se juntan es un fiat narrativo,\"\n→ [Análisis arquetípico de Elemental (16:08)](https://youtu.be/p8ZInoDuE50?t=968)\n\nLa pieza diagnóstica precisa cómo opera el vaciamiento en la dimensión temática central de la obra: la película promete integración cultural (la inmigración como caso) pero no ofrece solución simbólica al problema que plantea — los elementos son por definición incompatibles, y la unión final opera por **fiat narrativo** (los guionistas deciden que se juntan), no por resolución arquetípica de la incompatibilidad. La consecuencia es estructural: la obra moviliza temas reales (integración cultural, conflicto generacional) sin tramitarlos arquetípicamente, lo que el espectador percibe inconscientemente como inflación afectiva sin sustancia.\n\n**Masculinidad pixar destruida** (57:08):\n\n> \"Pixar confunde sensibilidad con labilidad: ser desbordado por las emociones no es una virtud sino un problema de incontinencia emocional,\"\n→ [Análisis arquetípico de Elemental (57:08)](https://youtu.be/p8ZInoDuE50?t=3428)\n\n> \"El personaje presenta irreflexividad, irracionalidad, sumisión y pusilanimidad: lo contrario total a las virtudes de la masculinidad,\"\n→ [Análisis arquetípico de Elemental (57:08)](https://youtu.be/p8ZInoDuE50?t=3428)\n\n> \"Es incapaz de enfrentarse a nada ni siquiera a sí mismo; ser funcionario es la profesión prototípica más antiheroica,\"\n→ [Análisis arquetípico de Elemental (57:08)](https://youtu.be/p8ZInoDuE50?t=3428)\n\nLa pieza articula la dimensión de género del vaciamiento: la masculinidad pixar contemporánea sustituye las virtudes masculinas clásicas (vigor, impulso, capacidad de enfrentamiento) por su negación operativa, presentando la incontinencia emocional como sensibilidad y la pusilanimidad como bondad. La operación cultural es estructural — la obra no critica al varón patriarcal previo, lo sustituye por su inversión antiheroica. La conexión con la cuarta característica woke ya documentada (víctimas en lugar de héroes) es directa: el personaje masculino de Elemental no es héroe ni siquiera padecido — es funcionario afectivamente desbordado cuyo único acto narrativamente significativo es un sacrificio pasivo (dejarse llevar por la muerte) sin transformación.\n\n### Sacrificio pasivo vs sacrificio heroico (1:43:34)\n\nLa pieza más estructural del análisis cierra el diagnóstico woke con una distinción operativa que el marco no articulaba:\n\n> \"El sacrificio del hombre de agua es pasivo y femenino: dejarse llevar por la muerte para que otro continúe, como haría una madre por sus hijos,\"\n→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)\n\n> \"No es un sacrificio masculino porque no implica renunciar a algo ni transformarse en algo diferente,\"\n→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)\n\n> \"Habría tenido triple sentido que se convirtiera en hielo: renunciar a su yo emocional para convertirse en algo duro y nuevo que nadie había sido,\"\n→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)\n\nLa distinción precisa una asimetría categorial entre dos modalidades de sacrificio que el marco woke debe sostener:\n\n- **Sacrificio pasivo (femenino-materno)**: dejarse llevar por la muerte para que otro continúe. No implica renuncia activa ni transformación — el sujeto cesa de existir y otro recibe la consecuencia. Estructuralmente análogo al sacrificio materno por los hijos.\n- **Sacrificio heroico (masculino-transformador)**: renunciar a algo propio para convertirse en algo nuevo que no era. Implica acto activo de auto-modificación + transformación cualitativa irreversible. El sujeto subsiste pero como otro.\n\nLa fórmula 'habría tenido triple sentido que se convirtiera en hielo' cifra el sacrificio masculino que la película no articuló: el agua renunciando a su labilidad emocional para convertirse en algo duro (hielo) que no era antes. Esa transformación sí habría sido viaje del héroe — sustitución del agua-pasivo-negativo por algo activamente nuevo. El sacrificio pasivo que la obra ofrece en su lugar opera dentro del registro woke de la víctima por defecto: el sujeto no se transforma, padece. Esta articulación generaliza el aparato woke con una pieza nueva — la modalidad sacrificial pasiva como dispositivo narrativo del vaciamiento, donde el padecimiento sustituye a la transformación incluso en el momento culminante del arco.\n",
+      "wikilinks_introduced": [
+        "elemental-2023-film",
+        "viaje-heroe"
+      ],
+      "citations_added": [
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 848,
+          "cite_markdown": "[Análisis arquetípico de Elemental (14:08)](https://youtu.be/p8ZInoDuE50?t=848)"
+        },
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 968,
+          "cite_markdown": "[Análisis arquetípico de Elemental (16:08)](https://youtu.be/p8ZInoDuE50?t=968)"
+        },
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 3428,
+          "cite_markdown": "[Análisis arquetípico de Elemental (57:08)](https://youtu.be/p8ZInoDuE50?t=3428)"
+        },
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 6214,
+          "cite_markdown": "[Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)"
+        }
+      ],
+      "rationale": "La página enumera Elemental como caso de vaciamiento arquetípico total y captura una cita sobre la inmigración estereotipada, pero NO contiene el análisis monográfico sustantivo. Cuatro bloques nuevos: (1) distinción argumento/Tema-con-mayúsculas como criterio diagnóstico operativo del woke; (2) falsa integración cultural como caso paradigmático del fiat narrativo sin solución simbólica; (3) masculinidad pixar destruida (irreflexividad + irracionalidad + sumisión + pusilanimidad como sustitución de virtudes masculinas) — extiende la cuarta característica woke (víctimas en lugar de héroes) con dimensión específicamente masculina; (4) distinción sacrificio pasivo vs sacrificio heroico que añade pieza estructural al aparato woke — la modalidad sacrificial pasiva como dispositivo narrativo del vaciamiento.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el sujeto puede actuarlo sin reconocerlo como propio.",
+      "content_proposed": "\n## Candela como caso operativo femenino: el síndrome aplicado a la ambivalencia heredada\n\nEl monográfico de noviembre 2023 sobre [[elemental-2023-film|Elemental]] articula un caso operativo del síndrome aplicado a un personaje femenino con núcleo afectivo articulado, lo que la página tenía declarado como laguna ('Contraparte femenina: el caso de Molly se introduce como análogo pero el canal no desarrolla si el síndrome adopta forma específica según el polo arquetípico padre/madre'). Candela como protagonista permite ver el síndrome operando con detalle clínico que el caso del streamer Xocas no desplegaba.\n\n> \"Candela tiene síndrome del chocas: necesidad obsesiva de cumplir con el objetivo porque si para va a encontrarse con su propia ambivalencia,\"\n→ [Análisis arquetípico de Elemental (42:33)](https://youtu.be/p8ZInoDuE50?t=2553)\n\n> \"La ambivalencia es la epidemia del siglo XXI: no aceptar algo que está en tu interior y empeñarte en luchar contra eso,\"\n→ [Análisis arquetípico de Elemental (42:33)](https://youtu.be/p8ZInoDuE50?t=2553)\n\n> \"La sensación de vivir en plena ambivalencia es explosiva, dolorosa, angustiante y confusa,\"\n→ [Análisis arquetípico de Elemental (42:33)](https://youtu.be/p8ZInoDuE50?t=2553)\n\n### El núcleo afectivo: dos cántaros incompatibles\n\nLa pieza diagnóstica decisiva del caso Candela articula con precisión el material afectivo que la carrera obsesiva canaliza:\n\n> \"Su ambivalencia es \\\"necesito que se preocupen por mí pero estoy demasiado ocupada preocupándome por mi padre\\\",\"\n→ [Análisis arquetípico de Elemental (1:27:24)](https://youtu.be/p8ZInoDuE50?t=5244)\n\n> \"Candela descubre que lo que siempre ha querido es que alguien se preocupe únicamente por ella, y al comprenderlo se derrumba,\"\n→ [Análisis arquetípico de Elemental (1:27:24)](https://youtu.be/p8ZInoDuE50?t=5244)\n\n> \"Cuando alguien le quita uno de los dos cántaros emocionales, colapsa hacia el otro lado,\"\n→ [Análisis arquetípico de Elemental (1:27:24)](https://youtu.be/p8ZInoDuE50?t=5244)\n\nLa **metáfora de los cántaros** completa la imagen del lagarto-sobre-el-agua que la página articulaba. El sujeto carga con dos cántaros emocionales incompatibles — necesidad de ser cuidado + necesidad de cuidar al otro — y mantiene el equilibrio precario corriendo sin poder soltar ninguno. Si suelta el cántaro del cuidado al padre (deja de preocuparse por su frustración), pierde la legitimidad familiar para reclamar cuidado. Si suelta el cántaro de la necesidad de cuidado (renuncia a recibir), queda con la sola obligación de cuidar y se vacía. La carrera obsesiva opera como dispositivo de no-tener-que-elegir entre cántaros incompatibles.\n\n### La especificación femenina: ambivalencia heredada del padre vs trauma de rechazo\n\nLa página articulaba que el caso del streamer Xocas combina trauma de rechazo paterno + falta de atención materna paralela. El caso Candela articula una variante específicamente femenina del síndrome donde el material no es trauma de rechazo sino **ambivalencia heredada del padre por neurosis paterna**.\n\n> \"El origen de la ira de Candela es querer ser una buena hija: el mismo conflicto que azulín, no querer decepcionar al padre,\"\n→ [Análisis arquetípico de Elemental (1:39:01)](https://youtu.be/p8ZInoDuE50?t=5941)\n\n> \"La culpa heredada dice: si veo a mi padre sacrificándose, yo también me tengo que sacrificar,\"\n→ [Análisis arquetípico de Elemental (1:39:01)](https://youtu.be/p8ZInoDuE50?t=5941)\n\n> \"El deber heredado no es su única opción pero es lo único que ha podido aprender,\"\n→ [Análisis arquetípico de Elemental (1:39:01)](https://youtu.be/p8ZInoDuE50?t=5941)\n\nLa modalidad femenina opera con génesis distinta de la masculina. Donde el caso Xocas se organiza por trauma de rechazo (demostración compulsiva del propio valor frente al padre que rechazó), el caso Candela se organiza por **deber heredado por identificación con el sacrificio paterno** — la hija ve al padre sacrificándose por la familia y siente que ella también debe sacrificarse por la obra paterna. La carrera obsesiva opera entonces no como demostración de valor sino como **continuación del proyecto paterno** que el sujeto no puede declinar sin sentirse mala hija.\n\nLa pieza completa la cobertura del síndrome con sus dos polos genealógicos: trauma de rechazo (Xocas, polo masculino) vs deber heredado por identificación (Candela, polo femenino). Ambos comparten estructura operativa (carrera sobre el agua, imposibilidad de detenerse, meta utópica) pero divergen en el material afectivo que la carrera canaliza. La salida clínica diferencial sería igualmente distinta: el Xocas requiere aceptar que vale incluso si no es número uno; Candela requiere aceptar que ser buena hija no la obliga a continuar el sueño paterno como propio.\n",
+      "wikilinks_introduced": [
+        "elemental-2023-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 2553,
+          "cite_markdown": "[Análisis arquetípico de Elemental (42:33)](https://youtu.be/p8ZInoDuE50?t=2553)"
+        },
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 5244,
+          "cite_markdown": "[Análisis arquetípico de Elemental (1:27:24)](https://youtu.be/p8ZInoDuE50?t=5244)"
+        },
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 5941,
+          "cite_markdown": "[Análisis arquetípico de Elemental (1:39:01)](https://youtu.be/p8ZInoDuE50?t=5941)"
+        }
+      ],
+      "rationale": "La página articula el síndrome con caso masculino paradigmático (streamer Xocas) y caso femenino marginalmente apuntado (Molly de Molly's Game). DECLARA explícitamente como laguna 'Contraparte femenina: el caso de Molly se introduce como análogo pero el canal no desarrolla si el síndrome adopta forma específica según el polo arquetípico padre/madre'. Candela articula la modalidad femenina específica con génesis distinta (deber heredado por identificación con el sacrificio paterno) frente a la masculina (trauma de rechazo). La metáfora de los cántaros completa la imagen del lagarto-sobre-el-agua. Material que cierra parcialmente la laguna y extiende la cobertura del síndrome a sus dos polos genealógicos.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: el caso Candela en Elemental articula la modalidad femenina específica del síndrome (deber heredado por identificación con el sacrificio paterno) distinta de la masculina (trauma de rechazo). Queda pendiente articular si Molly de Molly's Game opera con la misma génesis o con otra distinta.",
+      "supersedes_laguna_text": "**Contraparte femenina**: el caso de Molly (*Molly's Game*) se introduce como análogo pero el canal no desarrolla si el síndrome adopta forma específica según el polo arquetípico padre/madre, ni cómo se relacionaría con la desconexión materna",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "Candela cubre la contraparte femenina con génesis articulada explícitamente. Molly de Molly's Game queda pendiente como caso adicional a contrastar. Resolución parcial.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Los Coen aplican la estructura deliberadamente, marcando las tres fases de Campbell con sueños del protagonista y recorriendo los 22 Arcanos del [[tarot-arquetipico|tarot]] en su forma invertida.",
+      "content_proposed": "\n## Sacrificio pasivo vs sacrificio heroico: dos modalidades sacrificiales\n\nEl monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula una distinción categorial sobre el momento sacrificial del monomito que las secciones anteriores tenían implícita: no toda muerte voluntaria del héroe es sacrificio heroico — hay una modalidad pasiva del sacrificio que opera estructuralmente como inversión de la heroica.\n\n> \"El sacrificio del hombre de agua es pasivo y femenino: dejarse llevar por la muerte para que otro continúe, como haría una madre por sus hijos,\"\n→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)\n\n> \"No es un sacrificio masculino porque no implica renunciar a algo ni transformarse en algo diferente,\"\n→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)\n\n> \"Habría tenido triple sentido que se convirtiera en hielo: renunciar a su yo emocional para convertirse en algo duro y nuevo que nadie había sido,\"\n→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)\n\nLa distinción articula dos modalidades estructuralmente distintas:\n\n- **Sacrificio pasivo (femenino-materno)**: el sujeto se deja llevar por la muerte para que otro continúe. Estructuralmente análogo al sacrificio materno por los hijos — el agente no transforma su naturaleza ni renuncia a algo propio, **cesa de existir y transfiere el efecto al otro**. Es modalidad arquetípica genuina (la madre que muere por los hijos opera arquetípicamente), pero NO es viaje del héroe en el sentido masculino-solar de la página.\n- **Sacrificio heroico (masculino-transformador)**: el sujeto renuncia a algo propio para **convertirse en algo nuevo que no era**. Implica acto activo de auto-modificación + transformación cualitativa irreversible. El sujeto subsiste pero como otro. Es la modalidad que cierra el monomito clásico (Cristo, Hércules, Arturo) en tradición católico-occidental.\n\nLa pieza completa el aparato diagnóstico de la página con un cuarto modo de fracaso del monomito masculino, complementario a los tres ya documentados (escapismo, truncamiento, antihéroe). El sacrificio pasivo aplicado a un personaje masculino estructura un **monomito vaciado por inversión sacrificial** — la película preserva la silueta del sacrificio final del héroe pero sustituye la modalidad transformadora por la pasiva, dejando al protagonista como objeto del padecimiento en lugar de agente de la transformación. La fórmula 'habría tenido triple sentido que se convirtiera en hielo' del directo precisa qué habría sido sacrificio heroico genuino: el agua-pasivo-negativo (labilidad emocional) renunciando a su naturaleza para convertirse en algo activamente nuevo (hielo: dureza, durabilidad, capacidad de soporte).\n\nLa distinción es operativa para la lectura del corpus: el sacrificio pasivo es el destino estructural del [[woke-narrativa-postmoderna-moral|monomito woke]] cuando llega al momento culminante — donde el héroe debería transformarse, la víctima por defecto del marco woke solo puede dejarse padecer.\n",
+      "wikilinks_introduced": [
+        "elemental-2023-film",
+        "woke-narrativa-postmoderna-moral"
+      ],
+      "citations_added": [
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 6214,
+          "cite_markdown": "[Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)"
+        }
+      ],
+      "rationale": "La página articula tres modalidades de fracaso del monomito masculino (escapismo, truncamiento, antihéroe) y la respuesta católica al monomito (sacrificio voluntario por el prójimo). NO contiene la distinción categorial sacrificio pasivo (femenino-materno: dejarse llevar por la muerte) vs sacrificio heroico (masculino-transformador: renunciar para convertirse en algo nuevo). Distinción operativa nueva con consecuencia diagnóstica para el aparato woke (el sacrificio pasivo como destino estructural cuando la película llega al momento sacrificial sin haber preparado al protagonista para transformación). Caso operativo: Elemental como película donde habría requerido sacrificio heroico (agua → hielo) y se ofreció pasivo en su lugar.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "cuatro-elementos-arquetipicos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El gesto inaugural del rey (extraer Excalibur de la tierra) cifra la separación de los dos ejes — el dragón (fuego+tierra como pasiones materiales) y la dama del lago (intelecto+espíritu como dones inmateriales). El héroe debe primero distinguir los cuatro elementos para luego integrarlos en la armonía completa de los cuatro palos. La cuaternidad opera así no como mapa estático sino como **secuencia operativa**: separar para luego integrar.",
+      "content_proposed": "\n## Tercer mapeo: los cuatro elementos como temperamentos (matriz activo/pasivo × positivo/negativo)\n\nEl monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula un tercer vehículo iconográfico para la cuaternidad — el mapeo TEMPERAMENTAL en matriz 2x2 — que extiende los dos ya documentados (figuras tolkienianas, palos del tarot).\n\n> \"El fuego representa el temperamento activo negativo (agresivo), el aire el activo positivo (intelectual),\"\n→ [Análisis arquetípico de Elemental (32:27)](https://youtu.be/p8ZInoDuE50?t=1947)\n\n> \"El agua representa el temperamento pasivo negativo (labilidad emocional), la tierra el pasivo positivo (receptivo),\"\n→ [Análisis arquetípico de Elemental (32:27)](https://youtu.be/p8ZInoDuE50?t=1947)\n\n> \"Los cuatro elementos corresponden a los cuatro mundos del yo descritos en la tradición hermética,\"\n→ [Análisis arquetípico de Elemental (32:27)](https://youtu.be/p8ZInoDuE50?t=1947)\n\n### La matriz temperamental\n\nEl mapeo organiza la cuaternidad en dos ejes ortogonales que producen los cuatro elementos como cuadrantes:\n\n| | **Activo** | **Pasivo** |\n|---|---|---|\n| **Positivo** | Aire (intelectual) | Tierra (receptivo) |\n| **Negativo** | Fuego (agresivo) | Agua (labilidad emocional) |\n\nEl eje **activo/pasivo** distingue dos regímenes operativos: lo activo opera sobre el mundo (modifica, propone, ataca, articula); lo pasivo recibe del mundo (acoge, sostiene, retiene, padece). El eje **positivo/negativo** distingue la valencia funcional: lo positivo opera con regulación adecuada para su función (intelecto que piensa con freno, receptividad que sostiene sin colapsarse); lo negativo opera con desregulación (agresividad sin freno, labilidad emocional que se desborda).\n\nLa matriz precisa los dos mapeos anteriores. En el mapeo tolkieniano (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra), el dragón quedaba como figura del fuego sin distinguir si era fuego saludable o fuego desregulado. En el mapeo del tarot (espadas, copas, bastos, oros), la asignación de palos a elementos no incluía dimensión de salud/patología. El mapeo temperamental añade esa dimensión: cada elemento es **función psíquica con dos modos operativos** (regulado/desregulado), y la cuaternidad articula no cuatro funciones sino ocho posiciones psíquicas (cuatro elementos × dos valencias).\n\n### Aplicación a [[elemental-2023-film|Elemental]] como caso operativo\n\nEl mapeo temperamental opera como dispositivo de lectura de la película misma. Candela como personaje de fuego es **temperamento activo-negativo** (agresividad como modo operativo, intensidad sin freno que destruye lo que toca y lo moldea con la misma facilidad). Wade como personaje de agua es **temperamento pasivo-negativo** (labilidad emocional, incontinencia afectiva, ser desbordado por las emociones como modo de existir). La incompatibilidad estructural de la pareja se sigue de la matriz: dos polos negativos del eje activo/pasivo no se complementan automáticamente — la complementariedad requiere que al menos uno de los polos opere en modalidad positiva regulada. La crítica del canal a la película precisa exactamente esto: la complementariedad automática es mito (ver sección 'mito de la complementariedad' de la página propia [[elemental-2023-film]]) porque dos modalidades negativas no se equilibran, se confirman mutuamente en su disfunción.\n\n### Articulación con masculino/femenino\n\nLa pieza añade además un eje genealógico que las secciones anteriores tenían implícito. El temperamento activo (fuego/aire) se asocia con el polo arquetípico masculino-solar; el temperamento pasivo (agua/tierra) con el polo femenino-lunar. La división activo/pasivo NO es la división masculino/femenino — ambos sexos pueden tener cualquier temperamento — pero los dos ejes se cruzan productivamente: la psique sana integra los cuatro temperamentos con preponderancia adecuada al sexo y a la función vital del momento. La psique disfuncional se polariza en uno solo de los temperamentos (Candela exclusivamente activo-negativo, Wade exclusivamente pasivo-negativo) y opera con el resto de funciones bloqueadas.\n",
+      "wikilinks_introduced": [
+        "elemental-2023-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 1947,
+          "cite_markdown": "[Análisis arquetípico de Elemental (32:27)](https://youtu.be/p8ZInoDuE50?t=1947)"
+        }
+      ],
+      "rationale": "La página articula la cuaternidad de elementos en dos vehículos iconográficos: figuras tolkienianas (espada=aire, dragón=fuego, diosa=agua, hobbit=tierra) y palos del tarot. NO contiene el TERCER mapeo TEMPERAMENTAL en matriz 2x2 (activo/pasivo × positivo/negativo) que añade dimensión de salud/desregulación. La matriz extiende cada elemento como función psíquica con dos modos operativos, articulando ocho posiciones psíquicas en lugar de cuatro. Material conceptual nuevo con aplicación operativa al caso Elemental.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "cuatro-elementos-arquetipicos",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: el monográfico sobre Elemental confirma la cuaternidad como marco transversal del canal con un tercer vehículo iconográfico (matriz temperamental activo/pasivo × positivo/negativo) además del tolkieniano y del tarótico. Articulación recurrente, no local al contexto católico-tolkieniano.",
+      "supersedes_laguna_text": "El esquema solo aparece documentado en el directo de Excalibur/LOTR; queda por verificar si el canal mantiene esta cuaternidad como marco transversal en otros vídeos o si es articulación local de ese contexto católico-tolkieniano.",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El monográfico sobre Elemental confirma que la cuaternidad opera como marco transversal con un tercer vehículo iconográfico distinto del contexto católico-tolkieniano. La cuaternidad NO es articulación local — es estructura conceptual del canal aplicable a múltiples obras.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "herida-narcisista-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La identificación opera sobre el reservorio cultural-clínico de personas con la herida narcisista activa pero no clínicamente diagnosticada. La obra no produce el cuadro — lo activa donde estaba latente y le ofrece un dispositivo de auto-reconocimiento que sustituye la elaboración terapéutica por la consagración narrativa. La conexión con el [[camino-victima]] es estructural: el camino-víctima es la matriz narrativa donde la herida narcisista cuaja como destino del personaje, y obras como Frozen son la modalidad cultural masiva de su transmisión.",
+      "content_proposed": "\n## Herencia de frustraciones paternas: la herida narcisista por contagio neurótico\n\nEl monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula una variante de la herida narcisista que las secciones anteriores tenían implícita: la herida que el sujeto **hereda** del padre por identificación con sus frustraciones, en lugar de la herida originada por carencia primaria de validación paterna.\n\n> \"La dependencia de la hija del padre consiste en identificar la obra del padre como lo único que hay que hacer,\"\n→ [Análisis arquetípico de Elemental (38:31)](https://youtu.be/p8ZInoDuE50?t=2311)\n\n> \"Cuando algo causa frustración al padre, ese objeto se convierte en objeto de nuestra preocupación: heredamos las debilidades del padre como mecánicas de culpa,\"\n→ [Análisis arquetípico de Elemental (38:31)](https://youtu.be/p8ZInoDuE50?t=2311)\n\n> \"La neurosis con el padre genera la herida narcisista más compleja porque integramos frustraciones ajenas como propias sin conocer su origen,\"\n→ [Análisis arquetípico de Elemental (38:31)](https://youtu.be/p8ZInoDuE50?t=2311)\n\nLa pieza articula un mecanismo distinto del documentado en la sección 'La herida de padre como origen del narcisismo patológico'. La herida primaria opera por **carencia de validación**: el padre no reconoce al hijo como héroe y deja vacío el lugar de la operación arquetípica de validación. La herida heredada opera por **identificación con la frustración paterna**: el padre transmite su material no resuelto al hijo, que lo recibe sin conocer su origen y lo opera como si fuera propio.\n\n### Mecánica operativa\n\nEl mecanismo encadena tres pasos:\n\n1. **Identificación con la obra del padre como única tarea legítima**: el hijo internaliza el proyecto paterno (la tienda de Elemental, el sueño emprendedor, el legado familiar) como su propia agenda vital, sin haber elegido ni examinado si corresponde a sus dones reales.\n2. **Transferencia de los objetos de frustración**: aquello que frustró al padre — competidores, dificultades del medio, recursos negados — se vuelve objeto de preocupación del hijo. La hija de Elemental no se preocupa por sus propios objetos de frustración; opera con la lista del padre.\n3. **Mecánica de culpa por identificación**: el sujeto siente como propias las frustraciones que no son suyas. Falla con un cliente del padre y experimenta la culpa que el padre habría experimentado, no la suya. Resultado: el sujeto integra material afectivo ajeno sin reconocerlo como ajeno y opera con un aparato de culpa cuya genealogía desconoce.\n\nLa fórmula del directo cifra el cuadro: 'integramos frustraciones ajenas como propias sin conocer su origen'. El sujeto no sabe que su material no es suyo; cualquier intento de elaboración terapéutica fracasa mientras no se identifica el origen. La salida exige distinguir qué de la frustración es del sujeto y qué del padre — operación que requiere genealogía afectiva, no solo introspección sobre el yo presente.\n\n### Articulación con el cuadro completo de la página\n\nLa pieza añade un nivel a la taxonomía del cuadro narcisista. La sección 'La herida de padre como origen' articulaba el cuadro masculino primario (carencia de validación). La sección 'Inversión cultural del cuadro' articulaba la asimetría histórico-cultural M/F. La sección 'Ego frágil vs narcisismo genuino' articulaba dos modalidades operativas (externalizadora vs reversa). Esta nueva pieza añade la **modalidad heredada** — distinta de las tres anteriores porque su material no es del sujeto sino del padre. La consecuencia clínica es que la herida heredada se confunde fácilmente con cualquiera de las modalidades primarias y solo se distingue por su genealogía: el sujeto pareció siempre 'demasiado preocupado por cosas que no le tocaban'.\n\nLa modalidad heredada explica además el mecanismo intergeneracional que la página articulaba implícitamente: 'el padre tirano del abuelo engendró una tiranía pusilánime en el padre, que genera hijos frágiles e impulsivos' — la cadena no opera por imitación conductual sino por **transmisión de material afectivo no tramitado** que cada generación recibe del anterior y opera sin saberlo.\n",
+      "wikilinks_introduced": [
+        "elemental-2023-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "p8ZInoDuE50",
+          "timestamp_seconds": 2311,
+          "cite_markdown": "[Análisis arquetípico de Elemental (38:31)](https://youtu.be/p8ZInoDuE50?t=2311)"
+        }
+      ],
+      "rationale": "La página articula la herida narcisista por carencia primaria de validación paterna ('La herida de padre como origen del narcisismo patológico'), la inversión cultural M/F, las modalidades externalizadora vs reversa (ego frágil vs narcisismo genuino), y el caso Frozen como representación cultural. NO contiene la modalidad HEREDADA por identificación con frustraciones paternas — distinta de las tres anteriores porque el material afectivo del sujeto no es suyo sino del padre. Caso operativo: Candela en Elemental. Pieza añade un nivel taxonómico nuevo y articula el mecanismo intergeneracional que la página tenía implícito.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "argumento vs Tema con mayúsculas (distinción canal-específica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción operativa canal-específica que organiza el análisis del directo. Capturada en pending_update a woke-narrativa-postmoderna-moral como criterio diagnóstico. Categoría que merece vigilancia si recurre como aparato más sistemático en otros directos sobre poética del cine.",
+      "quote_evidence": "El tema con mayúsculas es el asunto mitológico, una narrativa arquetípica que provoca cambio interior en el espectador,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción argumento/Tema podría merecer página propia o sección en mito-moderno-en-proxy si el canal la usa sistemáticamente como vara diagnóstica.",
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "función psicológica de las historias arquetípicas: cambio alquímico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación general del marco del canal sobre cómo operan las historias arquetípicas (provocan cambio alquímico vs entretienen sin cambio). Material foundational ya articulado disperso en otras páginas (mito-moderno-en-proxy, individuation, viaje-heroe). Capturado en promote_new del film.",
+      "quote_evidence": "Cuando la película no tiene historia arquetípica, entretiene pero no hace cambiar; cuando la tiene, es imposible no cambiar si la hemos vivido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "individuation"
+    },
+    {
+      "surface_form": "origen arquetípico y llama azul (esperanza de estirpe)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis simbólico intra-película: la imagen del fuego sobre el agua como origen arquetípico (caos primordial); la llama azul como esperanza de estirpe; hogar como casa+fuego. Capturado en promote_new del film.",
+      "quote_evidence": "La imagen inicial del fuego sobre el agua representa un origen arquetípico: la luz encendiéndose en la nada, del caos primordial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "elemental-2023-film"
+    },
+    {
+      "surface_form": "bautismo de fuego como rito de paso paterno",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del rito en la película (padre vierte llama azul en hija como concesión de destino). Capturado en promote_new del film.",
+      "quote_evidence": "El padre vierte la llama azul del espíritu familiar en la hija como rito de paso: le concede un destino a partir de la esencia familiar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "elemental-2023-film"
+    },
+    {
+      "surface_form": "mito de la complementariedad automática en pareja",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica al mito popular de que dos personas con defectos opuestos se complementan automáticamente. Articulación canal-específica que enriquece crisis-del-amor-pareja-y-maternidad-en-proxy o hieros-gamos. Sin lectura previa de crisis-del-amor en este barrido, capturado como discard con enriches_concept.",
+      "quote_evidence": "El hecho de tener diferentes defectos no hace que dos personas se complementen automáticamente: es un mito,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría operativa canal-específica relevante para el aparato sobre amor de pareja. Worth verificar enriquecimiento futuro a crisis-del-amor-pareja-y-maternidad-en-proxy.",
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    },
+    {
+      "surface_form": "mito de la empatía: empatía cognitiva vs simpatía",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica entre empatía (empaparse y comprender la emoción del otro) y simpatía (compartirla). La articulación ya aparece marginalmente en algebra-afectiva. Mención puntual capturada en promote_new del film.",
+      "quote_evidence": "El proceso empático real es empaparse de la emoción del otro y comprenderla; el proceso simpático es compartirla,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "algebra-afectiva"
+    },
+    {
+      "surface_form": "ambivalencia como epidemia del siglo XXI",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico cultural del directo: la ambivalencia (no aceptar algo del propio interior y luchar contra eso) como epidemia generacional. Capturado en pending_update a sindrome-xocas como pieza del cuadro de Candela.",
+      "quote_evidence": "La ambivalencia es la epidemia del siglo XXI: no aceptar algo que está en tu interior y empeñarte en luchar contra eso,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "padre que secuestra a la hija manteniéndola donde él conoce",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de la dinámica padre-hija en la película: padre como agente de protección excesiva que impide que la hija aprenda a sobrevivir en el exterior. Capturado en promote_new del film.",
+      "quote_evidence": "El padre no está preparando a su hija para lo desconocido sino secuestrándola manteniéndola donde él conoce,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "elemental-2023-film"
+    },
+    {
+      "surface_form": "agua inundando la casa como filtración de emociones bajo formaciones reactivas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica intra-película. Capturado en promote_new del film.",
+      "quote_evidence": "El agua inundando el interior de la casa simboliza que la familia hace aguas: se filtran las verdaderas emociones bajo las formaciones reactivas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "elemental-2023-film"
+    },
+    {
+      "surface_form": "fuego = emociones (instantáneas) vs agua = sentimientos (prolongados)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción categorial en la película entre emociones (fuego: cortas, intensas, cambiantes) y sentimientos (agua: largos, suaves, prolongados, estables). Distinción que enlaza con teoria-de-las-emociones-en-proxy. Capturado en promote_new del film.",
+      "quote_evidence": "El fuego representa las emociones instantáneas (fuertes, intensas, cortas, cambiantes) y el agua los sentimientos (largos, suaves, prolongados, estables),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-de-las-emociones-en-proxy"
+    },
+    {
+      "surface_form": "la madre de Elemental como personaje pasivo / sobra completamente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica del análisis al personaje de la madre como pieza narrativamente innecesaria. Capturado en promote_new del film.",
+      "quote_evidence": "La madre es un personaje pasivo que no aporta nada narrativamente; sobra completamente en la película,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "elemental-2023-film"
+    },
+    {
+      "surface_form": "padre tirano del abuelo / tiranía pusilánime / hijos frágiles e impulsivos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de la cadena intergeneracional: padre tirano → tiranía pusilánime → hijos frágiles e impulsivos. Capturado en pending_update a herida-narcisista-en-proxy como ejemplo del mecanismo de transmisión.",
+      "quote_evidence": "El padre tirano del abuelo engendró una tiranía pusilánime en el padre, que genera hijos frágiles e impulsivos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "herida-narcisista-en-proxy"
+    },
+    {
+      "surface_form": "ser funcionario como profesión más antiheroica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización del personaje de agua como funcionario (profesión que el canal articula como prototípicamente antiheroica). Capturado en promote_new del film y en pending_update a woke como pieza de la masculinidad pixar destruida.",
+      "quote_evidence": "Es incapaz de enfrentarse a nada ni siquiera a sí mismo; ser funcionario es la profesión prototípica más antiheroica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "elemental-2023-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 9,
+    "promoted_new": 1,
+    "promoted_updates": 5,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Elemental (Pixar, 2023)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "video_id": "DwmV3c9-Xi0",
+  "video_title": "Análisis arquetípico de atrapado en el tiempo.",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Atrapado en el tiempo (Groundhog Day, 1993)",
+      "canonical_guess": "atrapado-en-el-tiempo-1993-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 117,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El resumen de la primera parte: un masculino herido crece con carencia de sentido hasta una de las peores crisis de identidad del varón,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película vista al revés es el mejor alegato sobre la pérdida de la cordura y el dolor que causa la ausencia de una persona perdida en la locura,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~117 min) dedicado íntegramente al análisis arquetípico de la película. Per scope §2.3, ≥30 min de análisis dedicado satisface criterio para promoción como entity_work. La doble lectura (directa = transformación masculina; inversa = descenso a la demencia) es articulación canal-específica que extiende el aparato a una metodología interpretativa novedosa.",
+      "quote_evidence": "El meteorólogo trabaja frente a una pantalla verde fingiendo estar en otro lugar, su profesión es en parte teatro y en parte reconstrucción,"
+    },
+    {
+      "surface_form": "Rita como Diosa Blanca armonizadora",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Rita es el punto de unión entre Phil y su compañero, que son como especulares no superponibles, hechos uno en el negativo del otro,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula las tres virtudes de la diosa blanca (gracia, belleza, esperanza), las tres Marías, las tres formas del mal materno y la influencia hipnótica sobre el varón. NO contiene la función ARMONIZADORA del arquetipo: la diosa como punto triangulador que une dos masculinos especulares no superponibles (Phil cínico y su compañero ingenuo). Función operacional nueva del arquetipo no documentada en el corpus.",
+      "quote_evidence": "La diosa dice que las cosas son dulces o monas cuando hacen disfrutar a la gente: manifestación del don de la gracia,"
+    },
+    {
+      "surface_form": "hierosgamos consumado tras descenso máximo y reconstrucción",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El héroe que antes era fuego pasa a tener fuego y aire a través de lo que aprende de la diosa; el hierosgamos se consuma con el beso y la nieve,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula numerosos casos de hieros gamos (Tarzán, Enredados, Cenicienta, Scott Pilgrim, La Sirenita, Man of Steel) y casos de inversión (Drácula, Eyes Wide Shut, Frozen, Unicorn Wars). NO contiene Atrapado en el tiempo, donde la conjunción se consuma tras la modalidad más extrema documentada en el corpus: descenso completo del héroe hasta el suicidio recurrente como condición previa de la entrega. Caso operativo nuevo que articula la elementología (fuego + agua + tierra + aire) como esquema integrador.",
+      "quote_evidence": "El Eros del héroe debe estar frenado por la diosa o su impulsividad estropeará el buen discurrir: demasiado fuego evapora el agua,"
+    },
+    {
+      "surface_form": "espiral de desocialización: las siete fases del nihilismo masculino",
+      "canonical_guess": "crisis-de-identidad-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Qué harías si tu vida no tuviera sentido porque no tienes un centro\": la crisis de identidad como espiral de desocialización,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La primera opción humana ante la pérdida de sentido es el nihilismo destructivo, típico de la crisis de identidad adolescente,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la crisis de identidad como mapa preconsciente cuestionado, la trampa de la solución solo conductual y la metodología terapéutica (espejo + caja negra). NO contiene la TIPOLOGÍA de las fases descendentes específicas que el sujeto recorre cuando la crisis no se elabora: nihilismo destructivo → euforia (apaga consecuencias) → dejadez (agresividad fría) → hedonismo (sexo/comida/juego) → narcisismo del dolor (cabeza en propio culo) → maquiavelismo (manipulación antisocial) → suicidio. Articulación granular nueva con consecuencias clínicas operativas.",
+      "quote_evidence": "La pérdida de control en una persona pasivo-agresiva genera pánico porque la pasivo-agresividad es una forma de control del entorno,"
+    },
+    {
+      "surface_form": "demencia como descenso irreversible (lectura inversa de la película)",
+      "canonical_guess": "crisis-de-identidad-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Sin conciencia del pasado no puede elaborar conciencia de futuro: está literalmente atrapado en el tiempo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página declara como laguna las 'transiciones de etapa vital tardía (jubilación, viudez)' como variantes no abordadas. La lectura inversa de la película articula precisamente la fase tardía: pérdida progresiva de facultades cognitivas como inversión estructural del recorrido individuativo del adulto consolidado. La demencia como descenso irreversible donde el sujeto pierde la conciencia del pasado y por tanto la posibilidad de elaborar conciencia de futuro — caso límite de la crisis identitaria que la página no contemplaba en su modalidad orgánico-degenerativa.",
+      "quote_evidence": "La esposa se convierte en amiga que recuerda al hombre perfecto que fue pero que ya no existe: solo queda un niño que pide ayuda,"
+    },
+    {
+      "surface_form": "Phil exploitando síndrome de Wendy",
+      "canonical_guess": "sindrome-wendy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Se aprovecha del síndrome de Wendy: la ninfa que desea un Peter Pan que le mienta,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Aplicación del síndrome de Wendy como mecanismo que el manipulador maquiavélico exploita: la ninfa que desea un Peter Pan mentiroso. Mención puntual capturada en promote_new del film vía relación references→sindrome-wendy. Cite-only suficiente.",
+      "quote_evidence": "Se aprovecha del síndrome de Wendy: la ninfa que desea un Peter Pan que le mienta,"
+    },
+    {
+      "surface_form": "A propósito de Henry (1991, Harrison Ford)",
+      "canonical_guess": "a-proposito-de-henry-1991-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 2,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "A propósito de Henry (Harrison Ford) cuenta la misma historia: un hombre que pierde la memoria y termina pidiendo ayuda como un niño,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Mención comparativa al cierre del directo como caso paralelo del descenso a la pérdida de memoria. Sin análisis sustantivo (~30 segundos). No promueve por scope §2.3 (no análisis dedicado, no lectura íntegra). Capturado como cita en promote_new del film y discarded.",
+      "quote_evidence": "A propósito de Henry (Harrison Ford) cuenta la misma historia: un hombre que pierde la memoria y termina pidiendo ayuda como un niño,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "atrapado-en-el-tiempo-1993-film",
+      "canonical_name": "Atrapado en el tiempo (Groundhog Day, Ramis 1993)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "social.psychology.jungian",
+        "humanities.religion"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~117 min dedicado íntegramente al análisis arquetípico de la película (per scope §2.3, ≥30 min sostenidos como tesis central). El directo articula además una innovación metodológica: la doble lectura (directa = camino del héroe masculino que se reconstruye desde el nihilismo más radical; inversa = descenso a la demencia donde el héroe consolidado pierde progresivamente todo lo construido).",
+      "one_line_summary": "Análisis arquetípico monográfico de Groundhog Day (Harold Ramis, 1993) leído en doble dirección: hacia adelante como camino completo del viaje del héroe masculino — Phil Connors como masculino herido que recorre el descenso terminal (nihilismo destructivo → euforia → dejadez → hedonismo → narcisismo → maquiavelismo → suicidio) hasta la confesión, la entrega, el cultivo (piano, poesía, escultura) y el hierosgamos final con Rita en la nieve; hacia atrás como alegato sobre la demencia: el Doctor Phil consolidado tras 35 años de matrimonio recae progresivamente en depresión, psicosis y pérdida de personalidad hasta el delirio terminal frente a una pantalla azul fingiendo dirigir el tiempo.",
+      "frontmatter_fields_proposed": {
+        "year": 1993,
+        "studio_or_publisher": "Columbia Pictures",
+        "medium": "film",
+        "director": "Harold Ramis",
+        "lead_actor": "Bill Murray"
+      },
+      "relations_to_existing": [
+        {
+          "type": "exemplifies",
+          "to": "viaje-heroe",
+          "weight": "canonical",
+          "note": "caso operativo más completo del corpus para el descenso masculino y la reconstrucción posterior — articula la cadena descendente granular que el monomito clásico no enumera"
+        },
+        {
+          "type": "manifestation_of",
+          "to": "hieros-gamos",
+          "weight": "canonical",
+          "note": "consumación del matrimonio sagrado tras la modalidad más extrema documentada de descenso (suicidios recurrentes como condición previa de la entrega)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "diosa-blanca",
+          "weight": "strong",
+          "note": "Rita como diosa armonizadora — caso operativo de la función trianguladora del arquetipo entre dos masculinos especulares no superponibles"
+        },
+        {
+          "type": "exemplifies",
+          "to": "crisis-de-identidad-en-proxy",
+          "weight": "canonical",
+          "note": "caso paradigmático de la espiral de desocialización en sus siete fases descendentes; lectura inversa articula además la modalidad orgánico-degenerativa (demencia) que la página declaraba como laguna"
+        },
+        {
+          "type": "references",
+          "to": "sindrome-wendy",
+          "note": "Phil exploita el síndrome de Wendy en su fase maquiavélica — la ninfa desea un Peter Pan mentiroso"
+        },
+        {
+          "type": "references",
+          "to": "herida-narcisista-en-proxy",
+          "note": "la herida originaria de Phil como amor materno perdido; el narcisismo del dolor articulado como fase específica del descenso"
+        },
+        {
+          "type": "references",
+          "to": "consumismo-critica",
+          "note": "el 'efecto posmodernidad' (pedir descontrolarse sin asumir consecuencias creyendo que eso es libertad) articulado en el análisis de la fase eufórica del descenso"
+        },
+        {
+          "type": "references",
+          "to": "perdida-inocencia",
+          "note": "el motivo Pinocho-rebeldía-isla-de-los-juegos como caso del retorno regresivo a la fase pre-iniciática"
+        },
+        {
+          "type": "references",
+          "to": "shadow-archetype",
+          "note": "'Mientras esta marmota siga viendo su sombra' — la marmota Phil como espejo arquetípico de la sombra que el héroe debe observar"
+        },
+        {
+          "type": "compared_with",
+          "to": "fight-club-1999-film",
+          "note": "ambas obras articulan el descenso masculino como condición de la transformación, con resoluciones opuestas (Phil → entrega; Tyler → escisión)"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min (criterio §2.3). La obra es además caso operativo foundational para múltiples conceptos del canal: el monomito masculino en doble dirección, la diosa armonizadora como función no documentada antes, la espiral de desocialización en siete fases y la modalidad demencial de la crisis de identidad. La doble lectura (forward + reverse) es innovación metodológica del speaker que el directo extiende explícitamente a otras películas (A propósito de Henry, Una mente maravillosa, El Show de Truman). El directo es de marzo 2023 — uno de los más antiguos del corpus — y articula primigeniamente conceptos que la wiki recoge desde directos posteriores; la página sirve como ancla histórica del aparato analítico."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "viaje-heroe",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El libro 'Ser mujer, un viaje heroico' (Maureen Murdock-style) cae del lado de la mitología impropia no por ser sobre mujeres, sino por inventar una plantilla que el corpus arquetípico ya contiene articulada de otra forma — duplicación estructural que el canal lee como ornamento ideológico, no como aporte mitopoético genuino.",
+      "content_proposed": "\n## Las siete fases del descenso masculino: el caso operativo de Atrapado en el tiempo\n\nEl monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] articula la cadena granular del **descenso masculino antes del cambio** que el monomito clásico no enumera. La pieza completa el aparato de las dos fases (seno de la madre / seno del padre) con la articulación operativa de qué le ocurre al varón cuando la primera fase falla y entra en espiral de desocialización terminal antes de la entrega que le permite la reconstrucción.\n\n> \"Qué harías si tu vida no tuviera sentido porque no tienes un centro\\\": la crisis de identidad como espiral de desocialización,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (46:46)](https://youtu.be/DwmV3c9-Xi0?t=2806)\n\nLas siete fases descendentes que el directo articula obra-por-obra sobre Phil Connors:\n\n1. **Nihilismo destructivo** (30:04): \"si nada de lo que hicierais importara\" — pérdida del significado, los actos dejan de tener peso. Típica de la crisis de identidad adolescente.\n2. **Euforia falsa** (33:35): apaga la parte del cerebro que aporta consecuencias, generando irreverencia peligrosa. Es felicidad falsificada por desactivación del freno.\n3. **Dejadez e inobservancia** (33:35): agresividad con frialdad indiferente — el sujeto deja de respetar las normas no por rebeldía sino por inobservancia activa.\n4. **Hedonismo terminal** (37:08): sexo, comida, juego, diversión sin observar consecuencias. Sustitución de las representaciones motivacionales del mundo por mecanismos reptilianos de relación.\n5. **Narcisismo del dolor** (39:12): \"meter la cabeza en el propio culo es una forma de narcisismo\" — el infeliz concentrado en sí mismo que pierde su humanidad. Retrato de Dorian Gray como pacto con el diablo donde el tiempo te consume.\n6. **Maquiavelismo antisocial** (42:12): manipulación con cálculo milimétrico — Phil recopila información para fingir conocer a la víctima al día siguiente. Capacidad de robar un banco y reírse del mundo. Aprovecha el [[sindrome-wendy]] como vector operativo.\n7. **Suicidio recurrente** (59:22): pérdida última de la humanidad, deseo de que pare la agonía. Las tentativas absurdas reflejan el deseo de fin de la repetición sin sentido.\n\n> \"La última fase es ser prácticamente un lagarto depredador; después solo queda morir,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (39:12)](https://youtu.be/DwmV3c9-Xi0?t=2352)\n\nLa cadena tiene dirección operativa: cada fase reduce la representación del mundo que el sujeto puede sostener, y la siguiente opera cuando la anterior se agota como sostén afectivo. El descenso no es elección — es derrota progresiva del aparato cognitivo cuando carece de marco de sentido. La pieza articula así qué clase de fracaso de la primera fase masculina (seno de la madre) precede a la salida no resolutiva: no la regresión a la dependencia (síndrome del niño) ni el truncamiento activo ([[heroe-truncado|caballero negro]]) sino el **colapso del centro** que termina en la disolución suicida.\n\n### La inversión: confesión, entrega, cultivo, hierosgamos\n\nLa salida del descenso terminal articulada por el directo opera en cuatro pasos sucesivos que invierten en simetría aparente las fases del descenso pero por mecánica distinta — no son su negación sino su superación por entrega:\n\n> \"Cuando el suicidio no funciona, lo único que queda es el vivir en el momento presente,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (1:00:53)](https://youtu.be/DwmV3c9-Xi0?t=3653)\n\n1. **Confesión** (1:00:53): agotado todo deseo, el sujeto empieza simplemente a ser. Análogo a personas con enfermedad terminal o presos que alcanzan armonía con el cosmos.\n2. **Inversión del amor — entrega** (1:04:25): de \"quiero que seas mía\" a \"sería feliz siendo tuyo\". Con la destrucción del superyó y del ego aparece el amor como manifestación efectiva. Cuando se entrega a los demás, el mundo a su alrededor cambia y se ilumina: la felicidad primigenia de las pequeñas cosas.\n3. **Cultivo** (1:05:55): Phil aprende piano, poesía, escultura de hielo; valora el tiempo y lo utiliza para cultivarse. Conoce por primera vez el dolor de la pérdida genuina cuando muere el anciano al que intentó salvar día tras día.\n4. **Héroe completo** (1:07:56): \"el héroe que antes era fuego pasa a tener fuego y aire a través de lo que aprende de la diosa; el [[hieros-gamos|hierosgamos]] se consuma con el beso y la nieve\". El sujeto ya no es solo varón solar — integra la dimensión recibida del femenino y se vuelve sostén del pueblo entero.\n\n> \"Phil da un discurso tan humano que todo el mundo le admira: es un sabio conocedor del mundo, la belleza y el amor,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (1:07:56)](https://youtu.be/DwmV3c9-Xi0?t=4076)\n\nLa elementología cierra el aparato: el héroe descendido era **fuego** (impulso solar sin freno); recibe **agua** del femenino (gracia, escucha) y al integrarla obtiene **aire** (palabra inteligible, capacidad de discurso humano) sobre la **tierra** (pueblo, cuerpo cotidiano). Las cuatro categorías del [[cuatro-elementos-arquetipicos]] se completan en la consumación final.\n",
+      "wikilinks_introduced": [
+        "atrapado-en-el-tiempo-1993-film",
+        "sindrome-wendy",
+        "cuatro-elementos-arquetipicos"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 2806,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (46:46)](https://youtu.be/DwmV3c9-Xi0?t=2806)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 2352,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (39:12)](https://youtu.be/DwmV3c9-Xi0?t=2352)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 3653,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (1:00:53)](https://youtu.be/DwmV3c9-Xi0?t=3653)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 4076,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (1:07:56)](https://youtu.be/DwmV3c9-Xi0?t=4076)"
+        }
+      ],
+      "rationale": "La página articula las dos fases masculinas del monomito (seno de la madre / seno del padre), las cuatro prescripciones canalizadas y los casos paradigmáticos (Harry Potter como escapismo, héroe truncado como inversión, antihéroe ordinario). NO contiene la cadena GRANULAR de las siete fases del descenso masculino terminal antes del cambio (nihilismo → euforia → dejadez → hedonismo → narcisismo → maquiavelismo → suicidio) ni la cadena complementaria de la reconstrucción (confesión → entrega → cultivo → hierosgamos). Atrapado en el tiempo es el caso operativo más completo del corpus para esta articulación granular. Material primigenio (marzo 2023) que articula con detalle lo que la página tenía en plano sintético.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "su capacidad de presenciar el mal sin destrucción es prerrequisito de la elevación corporal, no consecuencia.",
+      "content_proposed": "\n## La diosa armonizadora: función trianguladora entre masculinos especulares\n\nEl monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] articula una función operativa de la diosa blanca que las secciones anteriores no recogían: el arquetipo como **punto trianguladora** entre dos masculinos estructuralmente opuestos. La pieza extiende la lectura de las virtudes (gracia/belleza/esperanza) y la influencia hipnótica con un papel relacional específico: la diosa no solo opera sobre el varón individualmente sino que **estructura el campo masculino colectivo** uniendo posiciones especulares no superponibles.\n\n> \"Rita es el punto de unión entre Phil y su compañero, que son como especulares no superponibles, hechos uno en el negativo del otro,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (08:53)](https://youtu.be/DwmV3c9-Xi0?t=533)\n\n> \"La diosa dice que las cosas son dulces o monas cuando hacen disfrutar a la gente: manifestación del don de la gracia,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (08:53)](https://youtu.be/DwmV3c9-Xi0?t=533)\n\n> \"Phil, el caballero de madera, es incapaz de apreciar nada excepto la belleza de la diosa, que le produce inhibición y miedo,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (08:53)](https://youtu.be/DwmV3c9-Xi0?t=533)\n\nLa pieza añade un nivel operacional al aparato. Las secciones anteriores articulaban la diosa blanca como arquetipo-pregunta cuya respuesta es el [[mito-lunar]], como tripartición virgen-consorte-madre y como influencia hipnótica sobre el varón individual. La función armonizadora añade un cuarto nivel: en la economía afectiva colectiva de un grupo masculino con posiciones especulares incompatibles (Phil cínico/cáustico vs su compañero ingenuo/cándido), la diosa opera como **vector de unificación** — su sola presencia hace que ambos masculinos puedan coexistir sin destruirse mutuamente, porque cada uno se reconoce a sí mismo en su negativo cuando ambos miran a la diosa.\n\nLa estructura especular masculina que la pieza identifica tiene consecuencia operativa: dos varones cuyas configuraciones afectivas son inversas exactas (lo que uno tiene por exceso, el otro lo tiene por defecto) no pueden integrarse por sí solos — necesitan un tercer punto que los reduzca a la misma escala. La diosa es ese punto. La caracterización 'caballero de madera' (Phil) cifra la posición específica del varón cínico: es de pieza dura sin sustancia interior — no es el [[heroe-truncado|caballero negro]] (que tendría ira canalizada) ni el [[caballero-oscuro|caballero oscuro]] (que tendría inocencia perdida en catábasis) sino madera vacía de savia que solo la gracia femenina puede reactivar.\n\nLa pieza completa el aparato relacional con la articulación inversa que la sección 'Misterio e influencia hipnótica' tenía implícita: la diosa no causa solo experiencia subjetiva en el varón individual (lo hipnotiza, le permite experimentar lo femenino sin comprenderlo), también **organiza el campo intermasculino**. Dos varones especulares no superponibles devienen integrables porque ambos se relacionan con el mismo arquetipo, no entre sí — la mediación es indirecta y por compartido, no por encuentro.\n",
+      "wikilinks_introduced": [
+        "atrapado-en-el-tiempo-1993-film",
+        "heroe-truncado",
+        "caballero-oscuro"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 533,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (08:53)](https://youtu.be/DwmV3c9-Xi0?t=533)"
+        }
+      ],
+      "rationale": "La página articula las virtudes encadenadas, la mutabilidad cíclica, la influencia hipnótica sobre el varón individual y la incolumidad ante el mal. NO contiene la función ARMONIZADORA del arquetipo: la diosa como punto triangulador entre dos masculinos estructuralmente especulares cuyas configuraciones afectivas son inversas exactas. Función operativa relacional nueva que añade un nivel colectivo a las articulaciones individuales previas.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Los rituales orgásticos ofrecidos a la diosa tenían utilidad biológica: generar un vínculo intratribal imposible de otra forma.",
+      "content_proposed": "\n## Atrapado en el tiempo: la consumación tras descenso terminal\n\nEl monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] añade el caso operativo más extremo del corpus para el hieros gamos: la consumación tras la modalidad de descenso terminal documentada en la película, que requiere como condición previa la pérdida completa del centro masculino (suicidios recurrentes incluidos) antes de que la entrega sea posible.\n\n> \"El Eros del héroe debe estar frenado por la diosa o su impulsividad estropeará el buen discurrir: demasiado fuego evapora el agua,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (50:17)](https://youtu.be/DwmV3c9-Xi0?t=3017)\n\n> \"\\\"No lo estropees\\\" significa que la parte animal no destruya la espiritualidad que han creado juntos,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (50:17)](https://youtu.be/DwmV3c9-Xi0?t=3017)\n\nLa pieza articula la condición negativa del hieros gamos por la vía de su fracaso reiterado. Phil intenta forzar la unión con Rita repitiendo el día y aplicando técnicas de seducción aprendidas; recibe bofetada tras bofetada porque confunde **deseo con amor** — no hay entrega, solo posesión:\n\n> \"Phil recibe bofetada tras bofetada día tras día por confundir deseo con amor: no hay entrega, solo posesión,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (54:50)](https://youtu.be/DwmV3c9-Xi0?t=3290)\n\nLa fórmula 'demasiado fuego evapora el agua' precisa la dinámica elemental: el héroe-fuego sin freno consume la dimensión-agua de la diosa antes de que el encuentro pueda cuajar. La condición operativa del hieros gamos no es solo la disponibilidad de los dos polos sino la **modulación del fuego masculino por la disposición de entrega**, y la modulación no se aprende por estrategia (Phil recopila información, finge conocimiento, ensaya gestos) — solo se obtiene por agotamiento del Eros depredador.\n\n### La consumación elemental: fuego + aire + tierra + agua\n\n> \"El héroe que antes era fuego pasa a tener fuego y aire a través de lo que aprende de la diosa; el hierosgamos se consuma con el beso y la nieve,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (1:07:56)](https://youtu.be/DwmV3c9-Xi0?t=4076)\n\nLa pieza completa la elementología del hieros gamos que la sección 'Las tres partes del esquema' (catábasis/anábasis/égersis) tenía en plano de movimiento vertical sin componer con el aparato de los [[cuatro-elementos-arquetipicos|cuatro elementos]]. Atrapado en el tiempo articula explícitamente la composición elemental:\n\n- Phil pre-descenso = **fuego** puro (Eros, impulso solar sin freno)\n- Rita = **agua** (gracia, escucha, sostén afectivo)\n- Pueblo de Punxsutawney = **tierra** (cuerpo cotidiano, carne común)\n- Phil pos-cultivo = añade **aire** al fuego (palabra inteligible, capacidad de discurso humano que conmueve al pueblo entero)\n\nLa consumación final con el beso y la nieve cierra los cuatro elementos: el héroe completo es ya fuego-aire (solar-articulado) sobre la tierra (pueblo) que recibe agua (la gracia de Rita y la nieve simultáneas). 'La nieve oscura y sucia se convierte en el día más bonito del mundo' es la traducción elemental del cumplimiento: el agua-tierra que era invierno opresor deviene paisaje radiante porque el héroe ya no pide ser amado — se entrega como sostén del entorno entero.\n\n### Caso del hieros gamos tras descenso suicida: condición negativa de la égersis\n\nLa modalidad documentada articula una condición negativa del esquema égersis que las secciones anteriores no recogían: para algunos casos masculinos, la égersis (gran anábasis hacia los cielos) requiere paso previo por la modalidad más extrema de catábasis — los suicidios recurrentes de Phil son el equivalente narrativo del descenso al Hades en otros mitos. Sin esa fase, la fase ascendente queda incompleta: el héroe no aprende a soltar el control porque nunca lo perdió completamente. La pieza completa el aparato con un caso límite: hay configuraciones masculinas donde el agua de la diosa solo puede operar tras la extinción completa del fuego depredador, y ese acto es indistinguible operacionalmente de la muerte simbólica.\n",
+      "wikilinks_introduced": [
+        "atrapado-en-el-tiempo-1993-film",
+        "cuatro-elementos-arquetipicos"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 3017,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (50:17)](https://youtu.be/DwmV3c9-Xi0?t=3017)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 3290,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (54:50)](https://youtu.be/DwmV3c9-Xi0?t=3290)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 4076,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (1:07:56)](https://youtu.be/DwmV3c9-Xi0?t=4076)"
+        }
+      ],
+      "rationale": "La página articula numerosos casos de hieros gamos (Tarzán, Cenicienta, Scott Pilgrim, La Sirenita, Man of Steel) y casos de inversión (Drácula, Eyes Wide Shut, Frozen, Unicorn Wars), pero NO contiene Atrapado en el tiempo como caso de consumación tras descenso terminal extremo (suicidios recurrentes como condición previa). La pieza añade además la composición elemental explícita (fuego/aire/tierra/agua) que la sección 'Las tres partes del esquema' tenía en plano de movimiento vertical sin descomponer en cuatro elementos arquetípicos. Caso operativo nuevo + articulación elementológica nueva.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "crisis-de-identidad-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El objetivo es que el paciente descubra su identidad real en el mapa de socialización,",
+      "content_proposed": "\n## Las siete fases de la espiral de desocialización\n\nEl monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] articula la trayectoria descendente granular que el sujeto recorre cuando la crisis de identidad no encuentra elaboración terapéutica. La página articulaba la dinámica del cuestionamiento del mapa preconsciente y la metodología del espejo y la caja negra; la pieza añade qué le ocurre al sujeto cuando ningún espejo opera y la caja negra permanece blindada.\n\n> \"Qué harías si tu vida no tuviera sentido porque no tienes un centro\\\": la crisis de identidad como espiral de desocialización,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (46:46)](https://youtu.be/DwmV3c9-Xi0?t=2806)\n\nLa cadena articulada por el directo describe siete fases consecutivas del descenso, donde cada fase opera por agotamiento de la anterior como sostén afectivo:\n\n1. **Nihilismo destructivo** (30:04): pérdida del significado, las consecuencias pierden valor. Típica de la crisis de identidad adolescente extendida al adulto.\n2. **Euforia falsa** (33:35): la euforia apaga la parte del cerebro que aporta consecuencias, generando irreverencia peligrosa que no es felicidad genuina sino desactivación del freno.\n3. **Dejadez e inobservancia absoluta** (33:35): segunda fase, agresividad con frialdad indiferente. El beso a la anciana cifra la ruptura de respeto a la integridad de los cuerpos ajenos.\n4. **Hedonismo terminal** (37:08): sexo, comida, juego, diversión sin observar consecuencias. Sustitución de las representaciones motivacionales por mecanismos reptilianos.\n5. **Narcisismo del dolor** (39:12): 'meter la cabeza en el propio culo' — el infeliz concentrado en sí mismo pierde su humanidad. La pieza enlaza con [[herida-narcisista-en-proxy]] como modalidad cognitivo-introvertida del cuadro.\n6. **Maquiavelismo antisocial** (42:12): manipulación con cálculo milimétrico — el sujeto recopila información para fingir conocer a la víctima. Frío cálculo capaz de robar un banco y reírse del mundo.\n7. **Suicidio recurrente** (59:22): pérdida última de la humanidad, deseo de que pare la agonía de vivir lo mismo una y otra vez. Las tentativas absurdas reflejan el deseo de fin de la repetición sin sentido.\n\n> \"No observar las consecuencias no da poder sino descontrol, que no es lo mismo,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (36:07)](https://youtu.be/DwmV3c9-Xi0?t=2167)\n\nLa pieza añade el principio operativo que distingue la espiral de la mera depresión episódica: cada fase reduce la representación del mundo que el sujeto puede sostener, y no es elección sino derrota progresiva del aparato cognitivo cuando carece de marco de sentido. La consecuencia diagnóstica es estructural — el cuadro no se trata por intervención sobre los síntomas terminales (suicidio) sino por reactivación del marco de sentido que las fases anteriores fueron erosionando.\n\n### El efecto posmodernidad y el descontrol confundido con libertad\n\n> \"El efecto posmodernidad: pedir descontrolarse sin asumir consecuencias creyendo que eso es libertad cuando en realidad es una adolescencia no curada,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (36:07)](https://youtu.be/DwmV3c9-Xi0?t=2167)\n\nLa pieza añade el diagnóstico cultural que la página tenía pendiente como 'dimensión sociológica del mapa'. Cuando la cultura presenta el descontrol como libertad, ofrece marco semántico legitimador a la fase eufórico-dejada del descenso (fases 2-3) — el sujeto que está cayendo no se reconoce como cayendo porque la cultura le devuelve la fase como conquista. La identidad construida sobre esa premisa queda más frágil que la del sujeto sin marco: no solo carece de centro sino que ha sido enseñado a confundir su carencia con virtud emancipatoria. La adolescencia no curada no es por defecto generacional sino por **ausencia institucional de ritos de paso** que distingan descontrol terminal de transgresión iniciática (ver [[viaje-heroe]] sección 'Diagnóstico cultural: ausencia de ritos de paso masculinos').\n\n## La modalidad orgánico-degenerativa: la demencia como descenso irreversible\n\nLa lectura inversa de la película articula la cara complementaria del cuadro que la página declaraba como laguna ('transiciones de etapa vital tardía: jubilación, viudez'): la modalidad orgánico-degenerativa donde el sujeto consolidado pierde progresivamente las capacidades cognitivas que sostenían su mapa identitario.\n\n> \"Phil acepta que está enfermo y que algo en su cabeza empieza a perder la razón,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (1:33:32)](https://youtu.be/DwmV3c9-Xi0?t=5612)\n\n> \"\\\"El infeliz concentrado en sí mismo viviendo perderá su humanidad\\\": en toda demencia el doctor pierde contacto con el exterior,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (1:39:37)](https://youtu.be/DwmV3c9-Xi0?t=5977)\n\n> \"Sin conciencia del pasado no puede elaborar conciencia de futuro: está literalmente atrapado en el tiempo,\"\n→ [Análisis arquetípico de atrapado en el tiempo. (1:48:45)](https://youtu.be/DwmV3c9-Xi0?t=6525)\n\nEl Doctor Phil consolidado tras 35 años de matrimonio recorre una secuencia inversa: pequeño fracaso (no salvar al anciano) → recuerdos perturbadores → depresión recurrente → pesadillas con suicidios → crisis psicóticas → pérdida de memoria → conductas erráticas → incapacidad de distinguir realidad de ficción → pérdida total de personalidad → expulsión social → internamiento → tareas sencillas → delirio terminal frente a una pantalla azul fingiendo dirigir el tiempo.\n\nLa estructura formal coincide en sus fases terminales con la espiral de desocialización articulada arriba (pérdida de respeto, conductas erráticas, narcisismo del dolor) pero su mecánica es categorialmente distinta: en la espiral la regresión es por agotamiento del marco de sentido sobre aparato cognitivo intacto; en la modalidad orgánica el aparato cognitivo mismo se desorganiza y el marco de sentido se pierde por imposibilidad estructural de sostenerlo. La pieza completa el cuadro de la página con el caso límite donde la metodología del espejo y la caja negra deja de operar — no porque el paciente blinde la caja, sino porque la caja misma se desintegra. El terapeuta queda en posición de 'amigo que recuerda al hombre perfecto que fue pero que ya no existe', no de espejo. Esta articulación abre la dimensión paliativa-terminal del cuadro que la metodología activa de las secciones anteriores no contemplaba.\n",
+      "wikilinks_introduced": [
+        "atrapado-en-el-tiempo-1993-film",
+        "viaje-heroe"
+      ],
+      "citations_added": [
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 2806,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (46:46)](https://youtu.be/DwmV3c9-Xi0?t=2806)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 2167,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (36:07)](https://youtu.be/DwmV3c9-Xi0?t=2167)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 5612,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (1:33:32)](https://youtu.be/DwmV3c9-Xi0?t=5612)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 5977,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (1:39:37)](https://youtu.be/DwmV3c9-Xi0?t=5977)"
+        },
+        {
+          "video_id": "DwmV3c9-Xi0",
+          "timestamp_seconds": 6525,
+          "cite_markdown": "[Análisis arquetípico de atrapado en el tiempo. (1:48:45)](https://youtu.be/DwmV3c9-Xi0?t=6525)"
+        }
+      ],
+      "rationale": "Dos bloques nuevos. (1) Las siete fases granulares de la espiral de desocialización: la página articula la crisis como cuestionamiento del mapa pero NO contiene la cadena específica nihilismo→euforia→dejadez→hedonismo→narcisismo→maquiavelismo→suicidio que ocurre cuando la crisis no se elabora. Articulación granular nueva con consecuencias diagnósticas y terapéuticas operativas + diagnóstico cultural del 'efecto posmodernidad' que toca parcialmente la laguna sobre dimensión sociológica del mapa. (2) Modalidad orgánico-degenerativa (demencia) que la página declaraba como laguna ('transiciones de etapa vital tardía: jubilación, viudez') — el caso límite donde el aparato cognitivo se desintegra y la metodología activa del espejo deja de operar.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "crisis-de-identidad-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: la lectura inversa de Atrapado en el tiempo articula la modalidad orgánico-degenerativa (demencia tras 35 años de matrimonio consolidado) como caso límite del cuadro en etapa vital tardía. Quedan pendientes la articulación específica de la jubilación y la viudez como eventos canónicos de la crisis tardía.",
+      "supersedes_laguna_text": "El vídeo aborda crisis de identidad en adultos con historial de depresión adolescente, no sus formas agudas en adolescencia ni en transiciones de etapa vital tardía (jubilación, viudez).",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La modalidad orgánico-degenerativa de la demencia articulada en la lectura inversa toca parcialmente la laguna de etapa vital tardía. Resolución parcial — siguen pendientes los casos específicos de jubilación y viudez como detonantes no orgánicos.",
+      "editorial_intent": "resolve_laguna"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "A propósito de Henry (1991)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa al cierre del directo (~1 min) como caso paralelo del descenso a la pérdida de memoria. Sin análisis sustantivo ni lectura íntegra. Capturado como cita en promote_new del film.",
+      "quote_evidence": "A propósito de Henry (Harrison Ford) cuenta la misma historia: un hombre que pierde la memoria y termina pidiendo ayuda como un niño,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "Una mente maravillosa (2001)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa como caso aplicable a la lectura inversa. Sin análisis dedicado.",
+      "quote_evidence": "Una mente maravillosa al revés también sería El Día de la Marmota al revés,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "El Show de Truman (1998)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa como caso aplicable a la lectura inversa. Sin análisis sustantivo en este directo.",
+      "quote_evidence": "El Show de Truman tendría una lectura inversa muy parecida,",
+      "review_priority": "medium",
+      "review_priority_reason": "El Show de Truman es candidato a entity_work si recibe análisis sustantivo en otro directo. Hilo a vigilar.",
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "Pinocho como metáfora del descenso regresivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pinocho aparece como referente narrativo del descenso de Phil en dos puntos: 'rebeldía de Pinocho volviendo a la isla de los juegos' (30:04) y 'quiero ser un niño de verdad' (46:46). Sin análisis arquetípico de Pinocho como obra. Capturado en promote_new del film.",
+      "quote_evidence": "Phil recuerda de pequeño la retirada del amor mientras comete barbaridades de adulto: rebeldía de Pinocho volviendo a la isla de los juegos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pinocho es referente recurrente del canal en otros vídeos (la isla de los juegos como caso de pérdida de inocencia). Si recibe análisis dedicado, candidato a entity_work.",
+      "enriches_concept": "perdida-inocencia"
+    },
+    {
+      "surface_form": "I Got You Babe (Sonny & Cher)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Canción que opera como dispositivo narrativo de la repetición del día en la película. Sin valor enciclopédico independiente — es elemento intra-narrativo. Capturado en promote_new del film.",
+      "quote_evidence": "La canción reúne todos los mensajes de amor en un solo término universal que no necesita significar nada concreto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "marmota Phil de Punxsutawney",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Referente cultural del Día de la Marmota (festividad estadounidense). Opera en la película como espejo arquetípico del protagonista. Sin valor enciclopédico independiente.",
+      "quote_evidence": "La marmota Phil reproduce monótonamente el mismo ritual que el protagonista: levantarse y cambiar el humor a los demás según el pie con que se levante,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "síndrome del erizo: quien no sabe pedir ayuda",
+      "reason_code": "passing_mention",
+      "reason_detail": "Concepto operativo canal-específico (huraño que no sabe pedir ayuda ni los demás saben dárSela) mencionado en 17:27. Sin elaboración sustantiva. Capturado en promote_new del film.",
+      "quote_evidence": "El síndrome del erizo: quien no sabe relacionarse se vuelve huraño, y cuando necesita ayuda no sabe pedirla ni los demás saben darla,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría operativa canal-específica que podría merecer concept page si recurre con elaboración propia.",
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "sistemas hipercaóticos (predicción del tiempo)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico de teoría del caos usado como apertura del análisis (la profesión de Phil como hombre del tiempo). Sin elaboración propia.",
+      "quote_evidence": "La predicción del tiempo es impredecible como el futuro, sometida a las reglas de los sistemas hipercaóticos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "pasivo-agresividad como forma de control del entorno",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del mecanismo psicológico que sostiene la posición inicial de Phil. Capturado en promote_new del film como descripción del estado pre-descenso del protagonista.",
+      "quote_evidence": "La pérdida de control en una persona pasivo-agresiva genera pánico porque la pasivo-agresividad es una forma de control del entorno,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "Gea (la integridad de los cuerpos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia metafórica al respeto a la integridad de los cuerpos ajenos en la fase de dejadez ('falta de respeto a la integridad de Gea'). Sin elaboración del arquetipo Gaia.",
+      "quote_evidence": "El beso a la anciana como ruptura de la falta de respeto a la integridad de Gea: la fase de imbecilidad total,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "atrapado-en-el-tiempo-1993-film"
+    },
+    {
+      "surface_form": "anuncios de programación (meta-canal)",
+      "reason_code": "meta_canal",
+      "reason_detail": "No aparecen anuncios de programación en el cierre — el directo cierra con conexiones a otras películas, no con metaprogramación.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 1,
+    "promoted_updates": 5,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP entity[viaje-heroe] decision=update_existing quote no literal: 'Un masculino herido crece con carencia de sentido hasta una de las peores crisis'",
+    "DROP discarded[El retrato de Dorian Gray como pacto con el diablo] reason=passing_mention quote no literal",
+    "WARN promote_new[Atrapado en el tiempo (Groundhog Day, 1993)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

@@ -212,6 +212,9 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 
 
 
+
+
+
 - **Consultorio EXIT INSIDE** — chunks: [1:47:48](https://youtu.be/IP9f-1gSJ1c?t=6468)
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [34:25](https://youtu.be/K082yiudh-g?t=2065)
 - **Irrespirables redes sociales.** — chunks: [1:08:23](https://youtu.be/aaLhUV1rdE4?t=4103) · [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407)
@@ -227,4 +230,7 @@ La precisión tiene consecuencia operativa: la autoconfianza no se construye dis
 - **Se celebrarán juicios** — chunks: [1:08:03](https://youtu.be/hCc-gsoLZj4?t=4083)
 - **Seguimos con Tolkien** — chunks: [13:03](https://youtu.be/OGah7BFoR3w?t=783)
 - **T5x02: No Love Land** — chunks: [1:21:15](https://youtu.be/EjAVFdSVtbU?t=4875)
+- **Análisis arquetípico de Los Rescatadores** — chunks: [33:42](https://youtu.be/ryvi2Y7KYB8?t=2022) · [42:50](https://youtu.be/ryvi2Y7KYB8?t=2570)
+- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [13:47](https://youtu.be/ClnayaScAjQ?t=827) · [37:08](https://youtu.be/ClnayaScAjQ?t=2228)
+- **Arquetipo Cero** — chunks: [0:37](https://youtu.be/nern-nhePjE?t=37) · [1:09:11](https://youtu.be/nern-nhePjE?t=4151)
 

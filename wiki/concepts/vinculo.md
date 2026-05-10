@@ -131,6 +131,12 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
+
+
+
+
 - **El Hate Bombing de la izquierda.** — chunks: [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767) · [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979)
 - **El síndrome de Wendy** — chunks: [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
 - **Ha vuelto a ocurrir.** — chunks: [1:34:59](https://youtu.be/C0Io49giVY8?t=5699)
@@ -144,4 +150,10 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:35:38](https://youtu.be/xc8e2i_nREE?t=5738)
 - **T5x07: Soto Ivars y el Tabú** — chunks: [11:09](https://youtu.be/wixOLxnd68o?t=669)
 - **T5x09: El amor en realidad** — chunks: [37:55](https://youtu.be/1ldYmBO4N4I?t=2275) · [49:38](https://youtu.be/1ldYmBO4N4I?t=2978)
+- **Análisis arquetípico de Elemental** — chunks: [1:46:36](https://youtu.be/p8ZInoDuE50?t=6396)
+- **Análisis arquetípico de Eyes wide shut** — chunks: [30:52](https://youtu.be/olX_-KIziX0?t=1852) · [33:22](https://youtu.be/olX_-KIziX0?t=2002)
+- **Análisis arquetípico de Los Rescatadores** — chunks: [1:11:07](https://youtu.be/ryvi2Y7KYB8?t=4267) · [1:24:13](https://youtu.be/ryvi2Y7KYB8?t=5053)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314)
+- **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [2:32:49](https://youtu.be/TmQiM16HIpU?t=9169)
+- **Cuento de Navidad y el espíritu Luterano** — chunks: [22:44](https://youtu.be/7LTa7-tZwv0?t=1364)
 

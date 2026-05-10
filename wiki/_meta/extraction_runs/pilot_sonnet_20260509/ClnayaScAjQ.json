@@ -1,0 +1,461 @@
+{
+  "video_id": "ClnayaScAjQ",
+  "video_title": "Ánima y Ánimus. Análisis arquetípico de Peter Pan",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Peter Pan (Disney, 1953)",
+      "canonical_guess": "peter-pan-1953-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 115,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Peter Pan es de las pocas películas de Disney que trata específicamente sobre la naturaleza psicológica de la infancia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~115 min) dedicado al análisis arquetípico de Peter Pan. La página estaba en canonical_whitelist con auto_promote=false ('Wikilink roto referenciado desde anima-archetype. Soft — verificar si tiene análisis dedicado o solo aparece como ejemplo'); este monográfico confirma con creces el análisis dedicado. Per scope §2.3, ≥30 min satisface criterio. La obra opera como caso operativo paradigmático de la articulación canal-específica del DESPLAZAMIENTO como mecanismo de defensa y de la tríada Wendy-Peter-Campanilla como configuración psíquica del ánima desplazada en transición pre-adolescente.",
+      "quote_evidence": "Wendy representa el ánima desplazada (demasiado madre para ser joven, demasiado joven para ser adolescente),"
+    },
+    {
+      "surface_form": "tríada psíquica Wendy-Peter-Campanilla / padres Darling como ánima-ánimus alineados",
+      "canonical_guess": "anima-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 60,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La señora Darling es maternal, tranquila y serena (ánima pura); el señor Darling es enérgico, con mucho carácter (ánimus puro),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Wendy representa el ánima desplazada (demasiado madre para ser joven, demasiado joven para ser adolescente),"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Caso operativo foundational del aparato ánima-ánimus: padres Darling como par perfectamente ALINEADO con sus arquetipos (ánima pura + ánimus puro) que sirve como referencia frente a la cual leer la DESALINEACIÓN de los niños (sombras más grandes que los cuerpos, Wendy con sombra separada). Tríada psíquica Wendy-Peter-Campanilla como configuración del ánima desplazada en transición: ánima desplazada (Wendy) + ánimus desintegrado de su sombra (Peter Pan) + eros pre-adolescente (Campanilla). Articulación de la convexidad/concavidad como modo correcto de leer positivo/negativo en lugar de bueno/malo.",
+      "quote_evidence": "Lo positivo y negativo se entiende como convexo y cóncavo, no como bueno y malo,"
+    },
+    {
+      "surface_form": "Wendy como caso paradigmático del síndrome + Münchhausen por poderes",
+      "canonical_guess": "sindrome-wendy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El síndrome de Wendy consiste en ser excesivamente cuidadora, forzando un papel de sobre-madre con todo el entorno,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Tiene un lado perverso: fuerza un ánima que en realidad no posee, respondiendo a un exceso de personalidad y no a un instinto genuino de cuidado,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El síndrome de Münchhausen por poderes es la variante psicótica extrema: construir una víctima para poder cuidarla compulsivamente,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico es la articulación PRIMARIA del síndrome de Wendy en el corpus — la fuente que da nombre al cuadro. Articulaciones que la página debe contener: (1) la GÉNESIS del síndrome (cuidadora prematura por desplazamiento, no instinto genuino sino exceso de personalidad); (2) la cadena clínica que va del síndrome de Wendy al MÜNCHHAUSEN POR PODERES como variante psicótica extrema (construir activamente víctimas para cuidarlas compulsivamente); (3) la relación con el ánima desplazada (forzar un ánima que en realidad no se posee). Material foundational que debe documentarse en el caso paradigmático.",
+      "quote_evidence": "Wendy juega a cuidar, recoger y representar el ánima que será de mayor, desalineada por ser demasiado joven para ese rol,"
+    },
+    {
+      "surface_form": "Garfio como TEPT complejo + distinción TEPT complejo vs TLP",
+      "canonical_guess": "trauma-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Garfio es un hombre atormentado que odia al niño feliz que representa la infancia que perdió,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El TEPT complejo se origina antes de los ocho años con una experiencia traumática prolongada que se imbrica en la personalidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula trauma como dragón, regresión episódica, EMDR, microdosis, distinción afectiva TEPT simple (miedo/asco) vs TEPT complejo (culpa/pena) (mi insert previo via Inside Out 2). NO contiene: (1) la articulación TEMPORAL-DEL-DESARROLLO del TEPT complejo (origen antes de los 8 años con experiencia traumática prolongada que se IMBRICA en la personalidad, distinto del trauma adulto); (2) la frontera operativa con el TLP (muy difícil de distinguir; no es TEPT clásico ni complejo ni TLP, sino algo en su intersección); (3) Garfio como caso operativo arquetípico del TEPT complejo (mano sensible amputada = pérdida de la dimensión receptiva-intuitiva; cocodrilo con tic-tac = vida que se devora cuando el sujeto permanece anclado en el pasado).",
+      "quote_evidence": "Es muy difícil de distinguir del trastorno límite de personalidad; no es TEPT clásico ni un complejo ni un trastorno de personalidad,"
+    },
+    {
+      "surface_form": "desplazamiento como mecanismo de defensa canal-específico",
+      "canonical_guess": "peter-pan-1953-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El desplazamiento es un mecanismo por el cual la personalidad ejerce una persona que no corresponde a su momento de desarrollo,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Es un mecanismo evitativo que empuja a comportarse de manera diferente a lo que exigen las circunstancias,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica del DESPLAZAMIENTO como mecanismo de defensa distinto del desapego y desarraigo: representar un papel desalineado con las circunstancias de desarrollo. Origen entre tardía infancia y adolescencia. Categoría operativa que merece vigilancia para futura página propia si recurre con sustantividad equivalente. Capturado en promote_new del film.",
+      "quote_evidence": "Si la psique no se corresponde con la realidad material, hay una desalineación con el ánima o ánimus,"
+    },
+    {
+      "surface_form": "piratas como ánimus exacerbado sin ánima integrada",
+      "canonical_guess": "anima-archetype",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los piratas son adultos que rechazaron las responsabilidades de la adultez, convirtiéndose en rebeldes desarraigados,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Articulación canal-específica de la modalidad masculina del DESPLAZAMIENTO: ánimus exacerbado sin ánima integrada (piratas como adultos que rechazaron las responsabilidades). El desarraigo de la madre arquetípica produce este cuadro: violencia, volubilidad, incapacidad de integrar la dimensión femenina interna. Caso operativo del fracaso de la integración del ánima en el varón adulto.",
+      "quote_evidence": "El desarraigo de la madre provoca un ánimus exacerbado: personas violentas, volubles e incapaces de integrar su parte femenina,"
+    },
+    {
+      "surface_form": "Peter Pan y la estructura vampírica / dios Pan como eros",
+      "canonical_guess": "peter-pan-1953-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Peter Pan tiene el nombre del dios Pan, dios de las pasiones y fauno que encarna el eros,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Alguien sin sombra que entra por la ventana de noche y encandila jovencitas tiene estructura idéntica a los mitos vampíricos góticos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica de Peter Pan como manifestación del MITO VAMPÍRICO: figura nocturna que entra por la ventana, sin sombra, que despierta el eros pre-adolescente en la jovencita. Conexión etimológica con el dios Pan (pasiones, fauno, eros). Conexión con Drácula y el sueño de una noche de verano. Capturado en promote_new del film.",
+      "quote_evidence": "El terreno donde culmina este análisis es \"terreno crepúsculo\": la zona liminal entre la infancia y la adolescencia,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "peter-pan-1953-film",
+      "canonical_name": "Peter Pan (Disney, 1953)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "social.psychology.jungian",
+        "humanities.religion"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~115 min dedicado al análisis arquetípico de Peter Pan. La página estaba en canonical_whitelist con auto_promote=false ('Soft — verificar si tiene análisis dedicado o solo aparece como ejemplo'); este monográfico lo confirma con creces. Per scope §2.3, ≥30 min satisface criterio. Es además la articulación PRIMARIA del síndrome de Wendy en el corpus (la fuente que da nombre al cuadro).",
+      "one_line_summary": "Análisis arquetípico monográfico de Peter Pan (Disney, 1953) leído como caso operativo paradigmático de la articulación ÁNIMA/ÁNIMUS y del DESPLAZAMIENTO como mecanismo de defensa: los padres Darling como ánima pura + ánimus puro perfectamente alineados sirven como referencia frente a la cual leer la desalineación de los niños (sombras más grandes que los cuerpos, Wendy con sombra separada); Wendy como caso paradigmático del SÍNDROME DE WENDY (cuidadora prematura que fuerza un ánima que no posee), con Münchhausen por poderes como variante psicótica extrema; tríada psíquica Wendy-Peter-Campanilla = ánima desplazada + ánimus desintegrado de su sombra + eros pre-adolescente; Peter Pan como manifestación del MITO VAMPÍRICO (figura nocturna sin sombra que entra por la ventana, dios Pan como eros) en la transición pre-adolescente; piratas como ánimus exacerbado sin ánima integrada (rechazo de la adultez); Capitán Garfio como TEPT complejo arquetípico (mano sensible amputada, cocodrilo con tic-tac); niños perdidos como huérfanos del ánima sin figura materna; el cierre circular ('esta historia ya ha pasado y volverá a pasar') confirma el patrón universal de la transición infantil.",
+      "frontmatter_fields_proposed": {
+        "year": 1953,
+        "studio_or_publisher": "Walt Disney Productions",
+        "medium": "film",
+        "subgenre": "animación / coming-of-age",
+        "based_on": "Peter Pan (J.M. Barrie, 1904)"
+      },
+      "relations_to_existing": [
+        {
+          "type": "exemplifies",
+          "to": "anima-archetype",
+          "weight": "canonical",
+          "note": "caso operativo foundational: padres Darling como par ánima/ánimus PERFECTAMENTE ALINEADO; Wendy como ánima desplazada; Peter como ánimus desintegrado de su sombra; piratas como ánimus exacerbado sin ánima integrada; niños perdidos como huérfanos del ánima"
+        },
+        {
+          "type": "exemplifies",
+          "to": "sindrome-wendy",
+          "weight": "canonical",
+          "note": "fuente PRIMARIA del cuadro — Wendy como caso epónimo articulado en sus dimensiones operativas (cuidadora prematura, fuerza ánima que no posee) y la cadena clínica hacia el síndrome de Münchhausen por poderes como variante psicótica extrema"
+        },
+        {
+          "type": "exemplifies",
+          "to": "trauma-en-proxy",
+          "weight": "strong",
+          "note": "Garfio como caso arquetípico del TEPT complejo: mano sensible (siniestra/intuitiva) amputada como pérdida de la capacidad de matización afectiva; cocodrilo con tic-tac como vida devorada cuando el sujeto permanece anclado en pasado y venganza"
+        },
+        {
+          "type": "compared_with",
+          "to": "trastorno-limite-y-eutanasia-en-proxy",
+          "weight": "strong",
+          "note": "Garfio articula la frontera operativa entre TEPT complejo y TLP — cuadros muy difíciles de distinguir, pero el origen pre-8-años con experiencia traumática prolongada que se imbrica en la personalidad lo distingue del TLP estricto"
+        },
+        {
+          "type": "compared_with",
+          "to": "dracula-1992-film",
+          "weight": "strong",
+          "note": "Peter Pan como manifestación del MITO VAMPÍRICO en clave de transición pre-adolescente: figura nocturna sin sombra que entra por la ventana, dios Pan como eros; estructura idéntica a Drácula adaptada al territorio crepuscular infancia/adolescencia"
+        },
+        {
+          "type": "exemplifies",
+          "to": "tipologia-femenina-arquetipica",
+          "weight": "strong",
+          "note": "Wendy como caso operativo del cuadro de cuidadora prematura y la tipología tres-aspectos-luminosos del femenino infantil (gracia/consorte/madre prematura)"
+        },
+        {
+          "type": "references",
+          "to": "shadow-archetype",
+          "weight": "strong",
+          "note": "el aparato sombra-cuerpo (sombras más grandes que los cuerpos como índice de desplazamiento; Wendy con sombra separada; Peter sin sombra como ánimus desintegrado) articula la sombra junguiana en su modalidad infantil pre-individuativa"
+        },
+        {
+          "type": "references",
+          "to": "jung-carl-gustav",
+          "weight": "strong",
+          "note": "el directo abre con el aparato junguiano completo (detrás de la sombra existe la naturaleza dual masculino-femenino del ánima/ánimus presente en todas las personas)"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min y por estatus PRIMARIO del directo: es la fuente que da nombre al síndrome de Wendy en el corpus. La obra es caso operativo foundational para múltiples conceptos canal-específicos: el desplazamiento como mecanismo de defensa, la tríada psíquica del ánima desplazada en transición, los padres alineados como referencia de calibración arquetípica, Garfio como TEPT complejo arquetípico, Peter Pan como manifestación del mito vampírico crepuscular. Material foundational del aparato junguiano-clínico del canal. La página supersedería citas dispersas en anima-archetype y sindrome-wendy con análisis sustantivo del film como dispositivo articulador del aparato."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "anima-archetype",
+      "update_type": "append_to_section",
+      "section_target": "Lagunas",
+      "anchor_passage": "",
+      "content_proposed": "\n\n## Peter Pan (1953) como articulación primaria de la tríada psíquica del ánima desplazada\n\nEl monográfico sobre [[peter-pan-1953-film|Peter Pan]] (feb 2022) articula tres piezas operativas foundational del aparato ánima/ánimus que sirven como caso de calibración para el resto del corpus.\n\n### Padres Darling como par perfectamente alineado\n\n> \"La señora Darling es maternal, tranquila y serena (ánima pura); el señor Darling es enérgico, con mucho carácter (ánimus puro),\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (13:47)](https://youtu.be/ClnayaScAjQ?t=827)\n\n> \"Ambos padres están perfectamente alineados con sus arquetipos, a diferencia de los niños,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (13:47)](https://youtu.be/ClnayaScAjQ?t=827)\n\nLa pieza articula la función operativa de la pareja parental como REFERENCIA DE CALIBRACIÓN frente a la cual leer las desalineaciones de los hijos. La señora Darling encarna el ánima en su modalidad pura (maternal, tranquila, serena); el señor Darling el ánimus puro (enérgico, con carácter). La función narrativa del par es servir como punto de comparación implícito: cuando el espectador ve a Wendy comportarse como ánima desplazada (madre prematura), la lectura solo opera porque el film exhibe primero a la señora Darling como ánima genuina alineada con su edad y función. La configuración recapitula iconografía católica (Sagrada Familia con ambos polos puros) y opera como horizonte arquetípico al que la individuación apunta.\n\n### El desplazamiento como mecanismo de defensa\n\n> \"El desplazamiento es un mecanismo por el cual la personalidad ejerce una persona que no corresponde a su momento de desarrollo,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (03:31)](https://youtu.be/ClnayaScAjQ?t=211)\n\n> \"Si la psique no se corresponde con la realidad material, hay una desalineación con el ánima o ánimus,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (03:31)](https://youtu.be/ClnayaScAjQ?t=211)\n\nLa pieza articula el mecanismo de defensa específico que produce desalineación entre ánima/ánimus interno y momento del desarrollo: el DESPLAZAMIENTO. No es desapego ni desarraigo — es REPRESENTACIÓN ACTIVA de un papel desalineado con las circunstancias. El sujeto opera como si fuera otro distinto del que las circunstancias del desarrollo exigen. Origen entre tardía infancia y adolescencia, ventana donde la personalidad madura correctamente o se desalinea. La iconografía operativa del film: las sombras de los niños son MÁS GRANDES que los cuerpos (imaginación exagerada incluso para niños); Wendy tiene sombra del mismo tamaño pero SEPARADA del cuerpo (desplazamiento específico distinto del exceso imaginativo).\n\n### La tríada psíquica del ánima desplazada en transición\n\n> \"Wendy representa el ánima desplazada (demasiado madre para ser joven, demasiado joven para ser adolescente),\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (53:16)](https://youtu.be/ClnayaScAjQ?t=3196)\n\n> \"Peter Pan representa el ánimus masculino desintegrado de su propia sombra: el eterno aventurero que no puede crecer,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (53:16)](https://youtu.be/ClnayaScAjQ?t=3196)\n\n> \"Campanilla representa el eros y las pulsiones pre-adolescentes; entre ella y Peter hay una tensión afectiva que Wendy nunca recibe,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (53:16)](https://youtu.be/ClnayaScAjQ?t=3196)\n\nLa pieza articula la TRÍADA PSÍQUICA específica que opera en la transición pre-adolescente femenina: ánima desplazada (Wendy) + ánimus desintegrado de su sombra (Peter Pan) + eros pre-adolescente (Campanilla). La configuración cierra el aparato porque cada figura cumple una función específica que las otras dos no pueden suplir: Wendy aporta la dimensión cuidadora-maternal anticipada; Peter el aventurero-eterno; Campanilla las pulsiones afectivas concentradas en una sola figura femenina menor. La tensión entre Peter y Campanilla (que Wendy nunca recibe) cifra la asimetría operativa: el eros pre-adolescente NO se dirige a la ánima desplazada-cuidadora sino a su contraparte concentrada — Wendy queda excluida del afecto que ella misma fantasea por su propio desplazamiento.\n\n### Piratas como ánimus exacerbado sin ánima integrada\n\n> \"Los piratas son adultos que rechazaron las responsabilidades de la adultez, convirtiéndose en rebeldes desarraigados,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:10:27)](https://youtu.be/ClnayaScAjQ?t=4227)\n\n> \"El desarraigo de la madre provoca un ánimus exacerbado: personas violentas, volubles e incapaces de integrar su parte femenina,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:10:27)](https://youtu.be/ClnayaScAjQ?t=4227)\n\nLa pieza articula la modalidad MASCULINA específica del fracaso de la integración: ánimus EXACERBADO SIN ÁNIMA INTEGRADA. El desarraigo de la madre arquetípica produce el cuadro adulto característico: violencia, volubilidad, incapacidad de integrar la dimensión femenina interna. El cuadro es operativamente complementario a la modalidad femenina del desplazamiento (Wendy): donde la mujer que rechaza la propia madurez femenina cristaliza como cuidadora prematura forzando un ánima que no posee, el varón que rechaza la propia adultez cristaliza como pirata forzando un ánimus salvaje sin freno femenino interno.\n\n### Convexidad/concavidad como modo correcto de leer positivo/negativo\n\n> \"Lo positivo y negativo se entiende como convexo y cóncavo, no como bueno y malo,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (00:00)](https://youtu.be/ClnayaScAjQ?t=0)\n\nLa pieza añade un criterio metodológico importante: cuando el aparato junguiano habla de polos positivo/negativo del ánima/ánimus, se refiere a CONVEXO/CÓNCAVO (formas complementarias) y no a bueno/malo (categorías éticas). La distinción evita lecturas moralistas del aparato — el ánimus 'negativo' no es ánimus malo sino ánimus en su modalidad cóncava (receptiva/femenina), y el ánima 'positiva' no es ánima buena sino ánima en su modalidad convexa (activa/masculina). La consecuencia operativa: las figuras integradas combinan ambas valencias en sus respectivos polos, no se purifican en una sola.\n",
+      "wikilinks_introduced": [
+        "peter-pan-1953-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 0,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (00:00)](https://youtu.be/ClnayaScAjQ?t=0)"
+        },
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 211,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (03:31)](https://youtu.be/ClnayaScAjQ?t=211)"
+        },
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 827,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (13:47)](https://youtu.be/ClnayaScAjQ?t=827)"
+        },
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 3196,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (53:16)](https://youtu.be/ClnayaScAjQ?t=3196)"
+        },
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 4227,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:10:27)](https://youtu.be/ClnayaScAjQ?t=4227)"
+        }
+      ],
+      "rationale": "El monográfico es articulación PRIMARIA del aparato ánima/ánimus en el corpus (vídeo titulado explícitamente 'Ánima y Ánimus'). Cinco piezas operativas que la página debe documentar: (1) padres Darling como par perfectamente alineado (referencia de calibración); (2) desplazamiento como mecanismo de defensa específico distinto de desapego/desarraigo; (3) tríada psíquica Wendy-Peter-Campanilla del ánima desplazada en transición; (4) piratas como modalidad masculina del fracaso (ánimus exacerbado sin ánima integrada); (5) criterio metodológico convexo/cóncavo vs bueno/malo. Material foundational del aparato junguiano del canal.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-wendy",
+      "update_type": "append_to_section",
+      "section_target": "Lagunas",
+      "anchor_passage": "",
+      "content_proposed": "\n\n## Articulación primaria del cuadro: Wendy Darling como caso epónimo\n\nEl monográfico sobre [[peter-pan-1953-film|Peter Pan]] (feb 2022) es la articulación PRIMARIA del síndrome de Wendy en el corpus — la fuente que da nombre al cuadro. La página debe documentar las piezas foundational del cuadro tal como aparecen en el caso epónimo.\n\n### Génesis del cuadro: cuidadora prematura por desplazamiento\n\n> \"Wendy juega a cuidar, recoger y representar el ánima que será de mayor, desalineada por ser demasiado joven para ese rol,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (19:20)](https://youtu.be/ClnayaScAjQ?t=1160)\n\n> \"Es la cuentacuentos de la familia, tomándose su labor con una seriedad contradictoria para su edad,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (19:20)](https://youtu.be/ClnayaScAjQ?t=1160)\n\n> \"La perra Nana es quien verdaderamente cuida de los niños, demostrando que lo de Wendy es un desplazamiento y no responsabilidad real,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (19:20)](https://youtu.be/ClnayaScAjQ?t=1160)\n\nLa pieza precisa la GÉNESIS específica del cuadro: NO es responsabilidad asumida prematuramente por necesidad real (Nana cuida verdaderamente a los niños) sino REPRESENTACIÓN ACTIVA de un rol que no corresponde al momento del desarrollo. La diferencia es operativa: la niña que cuida a hermanos por ausencia parental real opera dentro de necesidad genuina; Wendy opera por desplazamiento — adopta la representación del rol cuidador en un entorno donde el cuidado real está cubierto por otras figuras. La consecuencia diagnóstica: el síndrome de Wendy NO se identifica por la conducta cuidadora sino por la ASIMETRÍA entre la conducta cuidadora y la necesidad ambiental de cuidado.\n\n### La perversidad operativa: forzar un ánima que no se posee\n\n> \"El síndrome de Wendy consiste en ser excesivamente cuidadora, forzando un papel de sobre-madre con todo el entorno,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (31:00)](https://youtu.be/ClnayaScAjQ?t=1860)\n\n> \"Tiene un lado perverso: fuerza un ánima que en realidad no posee, respondiendo a un exceso de personalidad y no a un instinto genuino de cuidado,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (31:00)](https://youtu.be/ClnayaScAjQ?t=1860)\n\nLa pieza articula el componente PERVERSO del cuadro: el sujeto fuerza un ánima que NO POSEE GENUINAMENTE como respuesta a un exceso de personalidad. La distinción entre instinto genuino de cuidado e exceso de personalidad cuidadora es operativa para el diagnóstico: el sujeto con ánima genuinamente integrada cuida cuando la situación lo requiere y descansa cuando no; el sujeto con síndrome de Wendy cuida COMPULSIVAMENTE incluso cuando el entorno no lo necesita o lo rechaza. La compulsión no es virtud excedida sino DEFECTO MASCARADO — el sujeto no está siendo más bueno de la cuenta, está supliendo una carencia interior con representación externa.\n\n### El síndrome de Münchhausen por poderes como variante psicótica extrema\n\n> \"El síndrome de Münchhausen por poderes es la variante psicótica extrema: construir una víctima para poder cuidarla compulsivamente,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (31:00)](https://youtu.be/ClnayaScAjQ?t=1860)\n\nLa pieza articula la cadena clínica que va del síndrome de Wendy a su variante psicótica extrema: el síndrome de Münchhausen por poderes. Cuando el sujeto necesita cuidar compulsivamente y el entorno no le ofrece víctimas suficientes, en la variante extrema CONSTRUYE ACTIVAMENTE víctimas — induciendo enfermedad en hijos o personas dependientes para tener objeto sobre el que ejercer el cuidado compulsivo. La cadena es estructural: el cuidado sin objeto que lo justifique es estructuralmente insostenible, y el cuadro extremo resuelve la falta de objeto fabricándolo.\n\n### El cierre circular: la fantasía masculina ideal preservada\n\n> \"Wendy va a crecer diciendo \\\"soy mayor\\\" pero seguirá creyendo en Peter Pan: el único lugar donde no abandona la infancia es el ánimus,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:51:34)](https://youtu.be/ClnayaScAjQ?t=6694)\n\n> \"Hay una comunicación secreta entre madre e hija: ambas comprenden que esa figura que entra por la ventana en sueños no se va nunca,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:51:34)](https://youtu.be/ClnayaScAjQ?t=6694)\n\nLa pieza cierra el cuadro epónimo con su corolario operativo: el síndrome de Wendy NO se cura del todo en la maduración aparente del sujeto. Wendy crece pero RETIENE la fantasía de Peter Pan como ánimus ideal eterno — el único lugar donde no abandona la infancia es el ánimus. La consecuencia diagnóstica: la mujer adulta con síndrome de Wendy puede operar formalmente como adulta funcional pero retiene una fantasía masculina ideal-aventurera-imposible que organiza secretamente sus expectativas afectivas reales y produce decepción crónica con cualquier varón real (que jamás puede igualar al ánimus eterno fantaseado).\n",
+      "wikilinks_introduced": [
+        "peter-pan-1953-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 1160,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (19:20)](https://youtu.be/ClnayaScAjQ?t=1160)"
+        },
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 1860,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (31:00)](https://youtu.be/ClnayaScAjQ?t=1860)"
+        },
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 6694,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:51:34)](https://youtu.be/ClnayaScAjQ?t=6694)"
+        }
+      ],
+      "rationale": "El monográfico es la articulación PRIMARIA del síndrome de Wendy en el corpus (la fuente que da nombre al cuadro). La página debe documentar cuatro piezas foundational tal como aparecen en el caso epónimo: (1) GÉNESIS por DESPLAZAMIENTO (no responsabilidad real, representación de rol con asimetría conducta/necesidad ambiental); (2) PERVERSIDAD OPERATIVA (forzar un ánima que no se posee como respuesta a exceso de personalidad, no instinto genuino); (3) MÜNCHHAUSEN POR PODERES como variante psicótica extrema (construir víctimas activamente cuando faltan objetos para el cuidado compulsivo); (4) CIERRE CIRCULAR donde el ánimus ideal se preserva en la mujer adulta retenida en la fantasía. Material foundational del cuadro epónimo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "trauma-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Las dos modalidades operan sobre matrices afectivas distintas y requieren intervenciones terapéuticas estructuralmente distintas.",
+      "content_proposed": "\n\n## Distinción temporal-del-desarrollo: TEPT complejo vs TLP\n\nEl monográfico sobre [[peter-pan-1953-film|Peter Pan]] (feb 2022) articula la distinción TEMPORAL-DEL-DESARROLLO entre TEPT complejo y trastorno límite de personalidad — pieza que la página y [[trastorno-limite-y-eutanasia-en-proxy]] articulaban dispersamente.\n\n> \"El TEPT complejo se origina antes de los ocho años con una experiencia traumática prolongada que se imbrica en la personalidad,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:21:34)](https://youtu.be/ClnayaScAjQ?t=4894)\n\n> \"La persona es incapaz de integrar experiencias adultas porque el trauma impidió desarrollar esas capacidades,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:21:34)](https://youtu.be/ClnayaScAjQ?t=4894)\n\n> \"Es muy difícil de distinguir del trastorno límite de personalidad; no es TEPT clásico ni un complejo ni un trastorno de personalidad,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:21:34)](https://youtu.be/ClnayaScAjQ?t=4894)\n\nLa pieza articula tres niveles encadenados que cierran el flanco temporal del cuadro postraumático complejo:\n\n1. **Origen pre-8-años**: el TEPT complejo se origina antes de los 8 años con experiencia traumática PROLONGADA (no evento puntual). La ventana del desarrollo es decisiva — el trauma no opera sobre una personalidad ya formada que reacciona, opera durante la formación misma de la personalidad.\n2. **Imbricación con la personalidad**: el trauma se IMBRICA en la personalidad en formación, lo que impide al sujeto integrar experiencias adultas porque el trauma impidió desarrollar las capacidades específicas que la integración requeriría. La consecuencia operativa es categorial: el TEPT complejo no es un cuadro 'sobre' una personalidad — es la personalidad misma estructurada por el trauma.\n3. **Frontera con el TLP**: muy difícil de distinguir clínicamente. La pieza precisa que el cuadro NO es TEPT clásico (porque no es respuesta puntual a evento puntual), NO es complejo en el sentido junguiano (porque no es agrupación inconsciente de contenidos), y NO es trastorno de personalidad estricto (porque tiene origen traumático identificable). Cuadro intersticial entre las tres categorías.\n\n### Garfio como caso operativo arquetípico\n\n> \"Garfio es un hombre atormentado que odia al niño feliz que representa la infancia que perdió,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:12:58)](https://youtu.be/ClnayaScAjQ?t=4378)\n\n> \"Perdió la mano izquierda (la siniestra, la intuitiva, la sensible): solo sabe moverse con lo directo y lo rudo,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:12:58)](https://youtu.be/ClnayaScAjQ?t=4378)\n\n> \"El cocodrilo con el tic-tac representa cómo la vida se devora el tiempo cuando uno permanece anclado en el pasado y la venganza,\"\n→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:12:58)](https://youtu.be/ClnayaScAjQ?t=4378)\n\nLa pieza articula a Garfio como CASO ARQUETÍPICO del TEPT complejo con tres marcadores iconográficos. (a) **Mano izquierda amputada** = pérdida de la dimensión sensible-intuitiva (la siniestra, la receptiva); el sujeto solo dispone del polo activo-rudo y carece del polo modulador. La amputación NO es lesión adquirida en la edad adulta sino marca de cuadro estructural — el sujeto opera el resto de su vida sin la dimensión perdida. (b) **Cocodrilo con tic-tac** = la vida que se devora el tiempo cuando el sujeto permanece anclado en el pasado y la venganza. Iconografía precisa del cuadro: el reloj que el cocodrilo tragó cifra el tiempo que sigue avanzando dentro del depredador que persigue al sujeto, mientras éste no puede avanzar porque su atención está fijada en la herida originaria. (c) **Odio al niño feliz** = el sujeto con TEPT complejo no solo recuerda la infancia perdida, ataca activamente a quienes la representan — operación que confirma que la herida está estructuralmente IMBRICADA en la personalidad, no es solo recuerdo doloroso.\n",
+      "wikilinks_introduced": [
+        "peter-pan-1953-film",
+        "trastorno-limite-y-eutanasia-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 4894,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:21:34)](https://youtu.be/ClnayaScAjQ?t=4894)"
+        },
+        {
+          "video_id": "ClnayaScAjQ",
+          "timestamp_seconds": 4378,
+          "cite_markdown": "[Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:12:58)](https://youtu.be/ClnayaScAjQ?t=4378)"
+        }
+      ],
+      "rationale": "La página articula trauma como dragón, regresión episódica, EMDR, microdosis, distinción afectiva TEPT simple/complejo (mi insert previo via Inside Out 2). NO contiene: (1) la articulación TEMPORAL-DEL-DESARROLLO del TEPT complejo (origen pre-8-años con experiencia traumática prolongada que se IMBRICA en la personalidad en formación); (2) la frontera operativa con el TLP (cuadro intersticial entre TEPT clásico, complejo junguiano y trastorno de personalidad estricto); (3) Garfio como caso arquetípico con marcadores iconográficos precisos (mano sensible amputada, cocodrilo con tic-tac, odio al niño feliz). Material que extiende la articulación afectiva con la dimensión temporal-del-desarrollo y aporta caso operativo arquetípico foundational.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Münchhausen por poderes como cuadro psicótico independiente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cuadro clínico nombrado como variante extrema del síndrome de Wendy. Sin lectura previa de página propia que lo trate como cuadro autónomo. Capturado en pending_update a sindrome-wendy. Categoría que merece concept page si recurre con sustantividad equivalente.",
+      "quote_evidence": "El síndrome de Münchhausen por poderes es la variante psicótica extrema: construir una víctima para poder cuidarla compulsivamente,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cuadro clínico canal-específico que podría merecer page propia si recurre con análisis sustantivo en otros directos.",
+      "enriches_concept": "sindrome-wendy"
+    },
+    {
+      "surface_form": "Peter Pan como dios Pan / fauno como eros",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación etimológica del nombre del personaje (Peter Pan = dios Pan, dios de las pasiones, fauno) como vehículo del eros pre-adolescente. Capturado en promote_new del film.",
+      "quote_evidence": "Peter Pan tiene el nombre del dios Pan, dios de las pasiones y fauno que encarna el eros,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    },
+    {
+      "surface_form": "estructura vampírica de Peter Pan / conexión con Drácula",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura de Peter Pan como manifestación del MITO VAMPÍRICO en clave de transición pre-adolescente: figura nocturna sin sombra que entra por la ventana. Conexión explícita con Drácula y 'El sueño de una noche de verano'. Capturado en promote_new del film con wikilinks.",
+      "quote_evidence": "La relación con el mito vampírico no es casual: la figura ideal nocturna, el eros, las pulsiones salvajes, la transición de infancia a adolescencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dracula-1992-film"
+    },
+    {
+      "surface_form": "Niños perdidos como huérfanos del ánima sin figura materna",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de los niños perdidos como cuadro grupal: vestidos de animales (salvajismo), aferrados a Peter como única figura cercana a algo mayor, con fuerte dependencia de grupo por carencia de figura materna individual. Capturado en promote_new del film.",
+      "quote_evidence": "Son niños que no tuvieron la figura que les acompañara en la infancia, vestidos de animales representando el salvajismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    },
+    {
+      "surface_form": "Wendy canta 'Tu madre y la mía': recuperación de la batuta maternal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica de la canción del film como pieza articuladora donde Wendy recupera el papel ánima-madre frente a los niños perdidos y los piratas. Los piratas también lloran al escuchar la canción — el cuadro adulto del ánimus exacerbado conserva memoria de la madre arquetípica perdida. Capturado en promote_new del film.",
+      "quote_evidence": "Wendy recuerda a todos cantando lo que es una madre: las manos que guían, que quitan los monstruos, que dan esperanza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    },
+    {
+      "surface_form": "doble sacrificio: Campanilla y Wendy mueren por Peter Pan",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del clímax del film como doble sacrificio que marca el primer síntoma de madurez en Peter (renuncia a volar, lucha justamente contra Garfio). Wendy reconoce que la eterna inmadurez no es sana — se sitúa en el centro arquetípico al final. Capturado en promote_new del film.",
+      "quote_evidence": "Es el único momento donde la muerte tiene presencia real en la película; todo lo anterior eran juegos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    },
+    {
+      "surface_form": "J.M. Barrie (autor original)",
+      "reason_code": "passing_mention",
+      "reason_detail": "La película Disney está basada en la obra de J.M. Barrie (Peter Pan, 1904 obra teatral; novela 1911). El directo no menciona explícitamente al autor en el summary. Capturado como frontmatter-field en promote_new.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    },
+    {
+      "surface_form": "sombra de la madre sobre Wendy dormida (estructura vampírica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura iconográfica precisa: la sombra de la madre cae perpendicularmente sobre Wendy dormida — disposición que recuerda la iconografía vampírica del Drácula de Bram Stoker. La madre entrega la luz hasta la penumbra (en los sueños no hay diferencia entre persona y sombra). Capturado en promote_new del film.",
+      "quote_evidence": "La sombra de la madre perpendicular a Wendy dormida recuerda a Drácula de Bram Stoker,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    },
+    {
+      "serface_form": "Campanilla como pulsiones volátiles / chispas emocionales",
+      "surface_form": "Campanilla como pulsiones volátiles / chispas emocionales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de Campanilla (Tinker Bell) como representación del eros y las pulsiones pre-adolescentes; las hadas como chispas emocionales y elemento sensual de la psique de Wendy. Capturado en promote_new del film.",
+      "quote_evidence": "Campanilla como hada representa las pasiones volátiles, las chispas emocionales y el elemento sensual de la psique de Wendy,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    },
+    {
+      "surface_form": "señor Darling decreta que Wendy dormirá sola: fin de la infancia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del momento donde el padre decreta el fin del juego cuentacuentos y el inicio de la transición a la adultez. La madre acompaña la transición con suavidad (cierra la ventana por donde entraba la fantasía). Capturado en promote_new del film.",
+      "quote_evidence": "El padre decreta que Wendy dormirá sola y se acabó la infancia, pero a Wendy se le parte el alma,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "peter-pan-1953-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 7,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[circularidad de la película: 'esta historia ya ha pasado y volverá a pasar'] reason=passing_mention quote no literal",
+    "DROP discarded[delirio coherente / aterradora coherencia de la psique de Wendy] reason=passing_mention quote no literal",
+    "WARN promote_new[Peter Pan (Disney, 1953)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

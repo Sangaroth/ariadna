@@ -261,6 +261,41 @@ La pieza más importante para la taxonomía de la página es la distinción psiq
 El criterio operativo de demarcación es **temporal y estructural**: la disforia genuina afecta a la integridad psíquica del propio cuerpo (no a la identidad social) y persiste; el problema de identidad opera como conflicto neurótico que las fases vitales modulan o resuelven. La crítica del canal al movimiento trans es categorial: meter neurosis de identidad en la categoría psiquiátrica de la disforia produce dos errores simultáneos — invisibiliza el cuadro genuino al expandir indiscriminadamente la categoría, y prescribe intervenciones somáticas para problemas que pertenecen al registro neurótico de la identidad social. La fenomenología trans como disciplina, en la lectura del canal, exige sostener esta distinción para no colapsar dos objetos clínicos heterogéneos en un único sintagma político.
 
 
+## Disforia vs dismorfia: distinción técnica psicológica
+
+En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal precisa la distinción categorial entre dos cuadros clínicos que el discurso público y a veces el propio movimiento trans tienden a confundir o solapar. La distinción es importante para la fenomenología trans porque articula qué tipo de malestar opera realmente bajo cada uso del término.
+
+> "La disforia es un malestar psíquico generalizado, opuesto a la euforia: el peor punto en el eje del bienestar subjetivo,"
+→ [Transhumanismo, IA y Ciencia Ficción. (09:28)](https://youtu.be/kdk8mi7-Y1s?t=568)
+
+> "La disforia de género es el rechazo a la circunstancia física sexual porque la psique demanda coherencia con un cuerpo distinto al propio,"
+→ [Transhumanismo, IA y Ciencia Ficción. (09:28)](https://youtu.be/kdk8mi7-Y1s?t=568)
+
+> "La dismorfia (de \"morfo\", forma) es el rechazo a la forma del cuerpo: verlo más delgado o más gordo de lo que es, como en vigorexia o anorexia,"
+→ [Transhumanismo, IA y Ciencia Ficción. (09:28)](https://youtu.be/kdk8mi7-Y1s?t=568)
+
+> "Nadie nace en un cuerpo equivocado porque no somos dualistas: psique y cuerpo son parte de la misma cosa,"
+→ [Transhumanismo, IA y Ciencia Ficción. (09:28)](https://youtu.be/kdk8mi7-Y1s?t=568)
+
+La precisión etimológica es operativa: **dis-foria** opera sobre el eje afectivo (mal-llevar = malestar psíquico generalizado, opuesto a euforia = bien-llevar); **dis-morfia** opera sobre el eje perceptivo-formal (rechazo a la forma del cuerpo = mal-forma). Las dos categorías comparten el prefijo del cuadro disfuncional pero recorren circuitos distintos: la disforia genuina afecta al **bienestar subjetivo global** y, en su variante de género, al ajuste afectivo respecto a la circunstancia física sexual; la dismorfia afecta a la **percepción de la forma corporal** y se manifiesta paradigmáticamente en cuadros como vigorexia o anorexia (ver [[trastornos-conducta-alimentaria-en-proxy]] para la articulación clínica del canal sobre estos últimos).
+
+La pieza añade además la consecuencia ontológica que el canal extrae de su monismo cuerpo-psique: el sintagma popular 'nacer en un cuerpo equivocado' presupone dualismo metafísico — que la psique pueda ser pieza separable destinada a un sustrato físico distinto del que ocupa. La posición monista del canal (psique y cuerpo como manifestaciones de la misma cosa, ver [[realismo-cognitivo]] y [[materialismo-antiformalista]]) cierra esa lectura: la disforia genuina es ajuste roto entre dos polos de la misma realidad, no separación cósmica entre dos sustancias mal apareadas. La fenomenología trans del canal opera por tanto dentro del marco monista — la experiencia disfórica es real, su interpretación dualista es categorial-mente errada.
+
+## Género en psicología vs sociología: una palabra, dos contenidos
+
+> "Género en psicología es el conjunto de constructos psíquicos que constituyen la vivencia fenomenológica del sexo,"
+→ [Transhumanismo, IA y Ciencia Ficción. (17:00)](https://youtu.be/kdk8mi7-Y1s?t=1020)
+
+> "Sociológicamente, género son los elementos culturales asociados a un rol sexual, y la posmodernidad sostiene que el sexo mismo se construye,"
+→ [Transhumanismo, IA y Ciencia Ficción. (17:00)](https://youtu.be/kdk8mi7-Y1s?t=1020)
+
+> "El término médico y el sociológico coinciden en la palabra pero difieren sustancialmente en contenido,"
+→ [Transhumanismo, IA y Ciencia Ficción. (17:00)](https://youtu.be/kdk8mi7-Y1s?t=1020)
+
+La pieza articula la doble acepción técnica que la página manejaba implícitamente. La acepción **psicológica/médica** trata el género como conjunto de **constructos psíquicos** que articulan la vivencia subjetiva del sexo — opera a nivel intrapsíquico, presupone el sexo cromosómico como dato biológico y describe los modos en que ese dato es vivido. La acepción **sociológica** trata el género como **elementos culturales asociados a un rol sexual** — opera a nivel cultural-conductual, y en su variante posmoderna añade el postulado constructivista de que el sexo mismo es construcción social. La consecuencia metodológica de la página queda precisada: cuando el discurso público mezcla ambas acepciones bajo la misma palabra, opera elipsis estructural — se traslada al registro psicológico la fuerza de la atomización categorial sociológica, o se proyecta sobre el registro sociológico la legitimidad clínica del registro psicológico, sin que ninguno de los dos conserve su contenido original. La fenomenología trans en sentido estricto opera en el primer registro; el sintagma político posmoderno (ya criticado en la sección 'Acepciones: lo médico frente a lo político') opera en el segundo y se reviste lingüísticamente del primero.
+
+
+
 
 ## Feminismo queer vs feminismo clásico: dos estrategias psicológicas en conflicto
 

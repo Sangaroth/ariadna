@@ -81,5 +81,7 @@ Estos tres núcleos resuenan con motivos borgianos que el canal trabaja también
 ## Citations
 
 
+
 - **Cuento contigo** — chunks: [36:13](https://youtu.be/Eqoq3O9wVzA?t=2173)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:28:34](https://youtu.be/xK8_MpMMXzc?t=5314)
 

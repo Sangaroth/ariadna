@@ -187,6 +187,11 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 
 
 
+
+
+
+
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -205,4 +210,9 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **Ha vuelto a ocurrir. Otra vez.** — chunks: [1:10:21](https://youtu.be/l1hBW5I2_t0?t=4221)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [1:42:31](https://youtu.be/yLd7j3fcR1w?t=6151)
 - **T5x02: No Love Land** — chunks: [37:57](https://youtu.be/EjAVFdSVtbU?t=2277)
+- **Tontas en Potencia** — chunks: [27:09](https://youtu.be/1cKAgkEEbMA?t=1629)
+- **Análisis arquetípico de Los Rescatadores** — chunks: [48:23](https://youtu.be/ryvi2Y7KYB8?t=2903)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977) · [39:31](https://youtu.be/xK8_MpMMXzc?t=2371) · [40:01](https://youtu.be/xK8_MpMMXzc?t=2401) · [43:03](https://youtu.be/xK8_MpMMXzc?t=2583) · [54:40](https://youtu.be/xK8_MpMMXzc?t=3280) · [1:01:49](https://youtu.be/xK8_MpMMXzc?t=3709) · [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314) · [1:14:58](https://youtu.be/xK8_MpMMXzc?t=4498) · [1:26:01](https://youtu.be/xK8_MpMMXzc?t=5161) · [1:35:07](https://youtu.be/xK8_MpMMXzc?t=5707) · [1:45:11](https://youtu.be/xK8_MpMMXzc?t=6311) · [1:52:19](https://youtu.be/xK8_MpMMXzc?t=6739)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [40:54](https://youtu.be/yAIPr0HzQqE?t=2454) · [59:06](https://youtu.be/yAIPr0HzQqE?t=3546) · [1:09:49](https://youtu.be/yAIPr0HzQqE?t=4189)
+- **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391) · [46:24](https://youtu.be/nern-nhePjE?t=2784)
 

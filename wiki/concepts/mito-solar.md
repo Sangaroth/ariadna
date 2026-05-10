@@ -177,6 +177,9 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 
 
 
+
+
+
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 
 
@@ -187,4 +190,7 @@ El complemento operativo del solar es el [[mito-lunar]], cuya secuencia canónic
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [38:41](https://youtu.be/krkUPzqTqTA?t=2321)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [32:18](https://youtu.be/yLd7j3fcR1w?t=1938)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [34:59](https://youtu.be/xK8_MpMMXzc?t=2099)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477)
+- **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014)
 

@@ -102,6 +102,12 @@ Frente a esa fantasía, el speaker propone un programa de tres columnas — **Ga
 - **Genealogía cultural del mito transhumanista**: la ciencia ficción cíborg (Ghost in the Shell, cyberpunk) se mezcla con experimentos reales (Neuralink) alimentando una confusión categorial. El transhumanismo pop es moda intelectualista acrítica que confunde técnica con ficción.
 - **Caracterización psicológica**: el transhumanismo opera como anhelo, deber-ser. Wendy esperando a Peter Pan — fantasía catártica, no programa técnico.
 
+
+- **Argumento desde la transducción afectivo-somática**: el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) añade un argumento literario-filosófico complementario al error categorial sustancia/forma. La crítica articula que **gran parte de lo afectivo se traduce en lo somático como lo imaginario en lo visual** — el amor, la ira, la calidez tienen componente somática irrenunciable, y por tanto sin cuerpo no puede haber conciencia porque las representaciones mismas codifican percepción somática. Incluso las concepciones formales como tiempo y volumen tienen base representacional somática: la duración se siente, el volumen se palpa antes de calcularse. La consecuencia operativa contra el transhumanismo es que considerar el cuerpo como sufrimiento innecesario presupone metafísicamente que afectos y representaciones formales podrían existir en un sustrato no somático — postulado que el realismo cognitivo del canal niega. La pieza opera como argumento literario-filosófico que el cuento [[recuerdo-perdido-asimov|Recuerdo perdido]] de Asimov dramatiza: dos seres puramente energéticos tras un quintillón de años intentan reconstruir el cuerpo y, al lograrlo parcialmente, descubren que el componente afectivo (Brock recuerda haber sido mujer y rompe a llorar) requería estructuralmente el sustrato somático que abandonaron — la conciencia desincorporada perdió lo que pretendía preservar.
+  → [Análisis arquetípico: Asimov y Lovecraft. (46:50)](https://youtu.be/celiAdqrHYA?t=2810)
+  → [Análisis arquetípico: Asimov y Lovecraft. (48:22)](https://youtu.be/celiAdqrHYA?t=2902)
+
+
 ### B. Distinción técnica (siete piezas)
 
 - **La neurona como computador entre digital y cuántico**: capacidad adaptativa intrínseca. No requiere software para aprendizaje paralelo; el sustrato cambia con el uso.
@@ -120,6 +126,10 @@ Frente a esa fantasía, el speaker propone un programa de tres columnas — **Ga
 - **La corteza sensorial NO es la más plástica sino la más simple**: se puede inducir sensaciones inmediatas vía magnetoelectroestimulación pero el cerebro no mantiene estados artificiales prolongados.
 - **No se pueden introducir en la mente experiencias que ella misma no puede concebir**: NO se pueden crear sextos sentidos.
 - **Predicción del canal — CIBERICOSIS**: cuando se fuerce la mente a una realidad interna aumentada se generarán psicosis artificiales. Las probabilidades de un segundo brote psicótico se multiplican por 10 — hay puertas mentales que una vez abiertas no se cierran igual.
+
+
+- **Inmortalidad biológica como segundo flanco patogénico** (complementario a cibericosis): la maquinaria biológica humana NO está diseñada para la inmortalidad. La predicción del canal es que vivir 500 años produciría formas inéditas de demencia, depresión y apatía sin precedentes clínicos — superar el límite de Hayflick como condición de longevidad celular no garantiza salud mental porque la psique misma envejece estructuralmente. La edad ya modifica la personalidad y reduce progresivamente la motivación vital incluso dentro del rango de vida humano actual; extrapolada a siglos, esa deriva produciría cuadros sin nombre clínico todavía. La pieza añade segundo flanco patogénico al cuadro ciber/transhumanista articulado en la página: no solo la realidad interna aumentada produce psicosis (cibericosis), también la sola extensión temporal de la vida produce iatrogenia psíquica acumulativa. Las dos predicciones operan independientemente — un sujeto transhumanizado con vida ordinaria ya recibe la primera, un sujeto biológicamente inmortalizado sin aumento ya recibe la segunda.
+
 
 ### D. Tesis afectiva complementaria
 
@@ -200,3 +210,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 - **T5x03, Cibernética, Biónica y Transhumanismo.** — chunks: [1:11:49](https://youtu.be/DytHSZw0_mo?t=4309)
 
+
+- **Transhumanismo, IA y Ciencia Ficción.** — chunks: [1:14:42](https://youtu.be/kdk8mi7-Y1s?t=4482) · [1:25:25](https://youtu.be/kdk8mi7-Y1s?t=5125)

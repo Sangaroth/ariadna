@@ -172,7 +172,9 @@ La pieza cierra el flanco de 'Articulación con la responsabilidad moral' que la
 
 
 
+
 - **Lunes sin política** — chunks: [1:42:11](https://youtu.be/r1SmCsNmLh0?t=6131) · [2:00:50](https://youtu.be/r1SmCsNmLh0?t=7250) · [2:11:01](https://youtu.be/r1SmCsNmLh0?t=7861)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [7:30](https://youtu.be/hx9creRpdnY?t=450)
 - **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:32:59](https://youtu.be/ZlO5o786u90?t=5579)
+- **Análisis: La Llegada (Parte dos)** — chunks: [1:50:06](https://youtu.be/tOn66qFS2-M?t=6606)
 

@@ -99,6 +99,8 @@ La pieza enlaza con el marco general del [[dominio-y-franja-de-incertidumbre]]: 
 
 
 
+
 - **Experimento 25** — chunks: [47:52](https://youtu.be/Bn-I6p-AyXc?t=2872)
 - **Experimento 25** — chunks: [47:52](https://youtu.be/p-93qXOPrDk?t=2872) · [1:02:36](https://youtu.be/p-93qXOPrDk?t=3756)
+- **Arquetipo Cero** — chunks: [56:31](https://youtu.be/nern-nhePjE?t=3391)
 

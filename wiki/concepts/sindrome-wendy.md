@@ -288,7 +288,58 @@ Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura r
 - **Vías de salida**: el canal nombra la integración del eterno aventurero como solución pero no expone aquí los mecanismos concretos por los que esa integración ocurre psíquicamente
 - **Casos no-trágicos**: todos los ejemplos elaborados muestran la mutación hacia configuraciones destructivas (ninfa, vampiro); el corpus no aborda en este fragmento qué aspecto tendría un síndrome de Wendy que se resuelve sin pasar por el polo oscuro
 
+
+
+
+## Articulación primaria del cuadro: Wendy Darling como caso epónimo
+
+El monográfico sobre [[peter-pan-1953-film|Peter Pan]] (feb 2022) es la articulación PRIMARIA del síndrome de Wendy en el corpus — la fuente que da nombre al cuadro. La página debe documentar las piezas foundational del cuadro tal como aparecen en el caso epónimo.
+
+### Génesis del cuadro: cuidadora prematura por desplazamiento
+
+> "Wendy juega a cuidar, recoger y representar el ánima que será de mayor, desalineada por ser demasiado joven para ese rol,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (19:20)](https://youtu.be/ClnayaScAjQ?t=1160)
+
+> "Es la cuentacuentos de la familia, tomándose su labor con una seriedad contradictoria para su edad,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (19:20)](https://youtu.be/ClnayaScAjQ?t=1160)
+
+> "La perra Nana es quien verdaderamente cuida de los niños, demostrando que lo de Wendy es un desplazamiento y no responsabilidad real,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (19:20)](https://youtu.be/ClnayaScAjQ?t=1160)
+
+La pieza precisa la GÉNESIS específica del cuadro: NO es responsabilidad asumida prematuramente por necesidad real (Nana cuida verdaderamente a los niños) sino REPRESENTACIÓN ACTIVA de un rol que no corresponde al momento del desarrollo. La diferencia es operativa: la niña que cuida a hermanos por ausencia parental real opera dentro de necesidad genuina; Wendy opera por desplazamiento — adopta la representación del rol cuidador en un entorno donde el cuidado real está cubierto por otras figuras. La consecuencia diagnóstica: el síndrome de Wendy NO se identifica por la conducta cuidadora sino por la ASIMETRÍA entre la conducta cuidadora y la necesidad ambiental de cuidado.
+
+### La perversidad operativa: forzar un ánima que no se posee
+
+> "El síndrome de Wendy consiste en ser excesivamente cuidadora, forzando un papel de sobre-madre con todo el entorno,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (31:00)](https://youtu.be/ClnayaScAjQ?t=1860)
+
+> "Tiene un lado perverso: fuerza un ánima que en realidad no posee, respondiendo a un exceso de personalidad y no a un instinto genuino de cuidado,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (31:00)](https://youtu.be/ClnayaScAjQ?t=1860)
+
+La pieza articula el componente PERVERSO del cuadro: el sujeto fuerza un ánima que NO POSEE GENUINAMENTE como respuesta a un exceso de personalidad. La distinción entre instinto genuino de cuidado e exceso de personalidad cuidadora es operativa para el diagnóstico: el sujeto con ánima genuinamente integrada cuida cuando la situación lo requiere y descansa cuando no; el sujeto con síndrome de Wendy cuida COMPULSIVAMENTE incluso cuando el entorno no lo necesita o lo rechaza. La compulsión no es virtud excedida sino DEFECTO MASCARADO — el sujeto no está siendo más bueno de la cuenta, está supliendo una carencia interior con representación externa.
+
+### El síndrome de Münchhausen por poderes como variante psicótica extrema
+
+> "El síndrome de Münchhausen por poderes es la variante psicótica extrema: construir una víctima para poder cuidarla compulsivamente,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (31:00)](https://youtu.be/ClnayaScAjQ?t=1860)
+
+La pieza articula la cadena clínica que va del síndrome de Wendy a su variante psicótica extrema: el síndrome de Münchhausen por poderes. Cuando el sujeto necesita cuidar compulsivamente y el entorno no le ofrece víctimas suficientes, en la variante extrema CONSTRUYE ACTIVAMENTE víctimas — induciendo enfermedad en hijos o personas dependientes para tener objeto sobre el que ejercer el cuidado compulsivo. La cadena es estructural: el cuidado sin objeto que lo justifique es estructuralmente insostenible, y el cuadro extremo resuelve la falta de objeto fabricándolo.
+
+### El cierre circular: la fantasía masculina ideal preservada
+
+> "Wendy va a crecer diciendo \"soy mayor\" pero seguirá creyendo en Peter Pan: el único lugar donde no abandona la infancia es el ánimus,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:51:34)](https://youtu.be/ClnayaScAjQ?t=6694)
+
+> "Hay una comunicación secreta entre madre e hija: ambas comprenden que esa figura que entra por la ventana en sueños no se va nunca,"
+→ [Ánima y Ánimus. Análisis arquetípico de Peter Pan (1:51:34)](https://youtu.be/ClnayaScAjQ?t=6694)
+
+La pieza cierra el cuadro epónimo con su corolario operativo: el síndrome de Wendy NO se cura del todo en la maduración aparente del sujeto. Wendy crece pero RETIENE la fantasía de Peter Pan como ánimus ideal eterno — el único lugar donde no abandona la infancia es el ánimus. La consecuencia diagnóstica: la mujer adulta con síndrome de Wendy puede operar formalmente como adulta funcional pero retiene una fantasía masculina ideal-aventurera-imposible que organiza secretamente sus expectativas afectivas reales y produce decepción crónica con cualquier varón real (que jamás puede igualar al ánimus eterno fantaseado).
+
 ## Citations
+
+
+
+
 
 
 
@@ -308,4 +359,8 @@ Lo decisivo es que la identificación no opera desde el yo (anhelo de aventura r
 - **Análisis arquetípico Scott Pilgrim** — chunks: [3:31](https://youtu.be/X2c2a3mQBOs?t=211) · [4:31](https://youtu.be/X2c2a3mQBOs?t=271) · [7:34](https://youtu.be/X2c2a3mQBOs?t=454)
 - **Consultorio EXIT INSIDE** — chunks: [46:38](https://youtu.be/IP9f-1gSJ1c?t=2798)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:28:36](https://youtu.be/UOk344kEeRM?t=5316)
+- **Análisis arquetípico de atrapado en el tiempo.** — chunks: [42:12](https://youtu.be/DwmV3c9-Xi0?t=2532)
+- **Análisis arquetípico de Inocencia interrumpida** — chunks: [30:42](https://youtu.be/imHdHmF1Afk?t=1842)
+- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [31:00](https://youtu.be/ClnayaScAjQ?t=1860)
+- **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [1:00:51](https://youtu.be/fzEDQZIqKwg?t=3651)
 

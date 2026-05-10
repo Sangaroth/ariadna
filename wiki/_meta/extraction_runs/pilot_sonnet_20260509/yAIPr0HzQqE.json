@@ -1,0 +1,508 @@
+{
+  "video_id": "yAIPr0HzQqE",
+  "video_title": "Análisis: Nosferatu (Eggers, 2024). El último Mito Polar",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Nosferatu (Eggers, 2024)",
+      "canonical_guess": "nosferatu-2024-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 175,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Eggers se queda en la parte sexual deliberadamente porque desde el primer Nosferatu la historia siempre ha sido sobre sexo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Eggers es totalmente antipostmoderno, respetuoso con el mito, y sus referencias a magia, mística y mitología son evidentes,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~175 min) dedicado al análisis arquetípico de Nosferatu de Eggers. Per scope §2.3, ≥30 min satisface criterio (largamente). La página estaba en canonical_whitelist con auto_promote=false ('Citada en mito-polar. Soft hasta confirmar análisis dedicado'); este monográfico confirma con creces. La obra es leída como 'el último mito polar' — caso operativo donde el mal primario anterior a la individuación femenina ataca a la doncella desde edades más tempranas, lectura inversa estructuralmente del Drácula de Coppola.",
+      "quote_evidence": "La portada es un destino manifiesto: un hieros gamos invertido donde la bestia mira al vacío y ella nos mira a nosotros,"
+    },
+    {
+      "surface_form": "Ellen como caso paradigmático del trastorno límite extremo: cuatro estados anímicos + tres noches",
+      "canonical_guess": "trastorno-limite-y-eutanasia-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es el perfil borderline extremo: mujer de especial intensidad con trauma sexual, ausencia de padre, que ha sustituido el mundo por un marido que es hijo, padre y amante sin ser ninguno,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Sumisión al deseo, ira contra los demás, desgarro del abandono e hipomanía optimista son los cuatro estados principales,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el TLP como falta de desarrollo afectivo-cognitivo en ventana 8-12 años + diátesis + crisis límite + tipología vampírica del 'sed que no se apaga'. NO contiene: (1) los CUATRO ESTADOS ANÍMICOS específicos del trastorno (sumisión al deseo, ira contra los demás, desgarro del abandono, hipomanía optimista) que oscilan alrededor de un centro inalcanzable (el padre-amigo-hermano-hijo simultáneo); (2) las TRES NOCHES DE LA DIOSA leídas como síndrome de abstinencia clínico (resistir la tentación sin satisfacción tres días equivale a la confrontación borderline con el deseo irrefrenable); (3) Ellen como caso operativo paradigmático del cuadro extremo donde el trauma sexual temprano + ausencia paterna producen la sustitución del mundo por un marido que es hijo-padre-amante sin ser ninguno. Tres articulaciones clínicas operativas nuevas que extienden el aparato.",
+      "quote_evidence": "Oscilan alrededor de un centro que nunca consiguen alcanzar: la buena pareja que sea padre, amigo, hermano e hijo simultáneamente,"
+    },
+    {
+      "surface_form": "tres noches de la diosa / sacrificio final / sangre como cura",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Son las tres noches del viaje de la diosa: tres días enfrentada al mal, solo resistiendo, padeciendo sin poder actuar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Von Franz lee la profecía: la doncella ofreció su amor a la bestia liberándonos de Nosferatu; ella es la cura,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula tripartición, tres dones, cuatro formas del mal materno + cuarta (madre oscura), dones como secuencia performativa, Medusa como bruja terminal, lo femenino primordial cosmogónico, mujer del Apocalipsis (mi insert previo desde La Llegada Parte 1). NO contiene las TRES NOCHES DE LA DIOSA — fase específica del viaje arquetípico donde la diosa enfrenta al mal solo resistiendo, padeciendo sin poder actuar, durante tres días. Tampoco el SACRIFICIO FINAL como cura: la doncella ofrece su amor a la bestia liberando al mundo, modalidad sacrificial específica del mito polar donde la diosa es a la vez víctima y cura.",
+      "quote_evidence": "Si aguanta al síndrome de abstinencia vencerá, pero mientras tanto sentirá como si todo el mundo muriera a su alrededor,"
+    },
+    {
+      "surface_form": "hieros gamos invertido por entrada del mal en lo femenino pre-individuativo",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La portada es un destino manifiesto: un hieros gamos invertido donde la bestia mira al vacío y ella nos mira a nosotros,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el caso Drácula (Coppola) como hieros gamos satánico invertido donde el caballero deviene demonio; otros casos como Frozen (sustitución sororal), Eyes Wide Shut (ambivalencia perpetua, mi insert previo). NO contiene el caso NOSFERATU como modalidad inversa COMPLEMENTARIA de Drácula: donde Drácula narra al varón devenido demonio que rapta a la doncella sana, Nosferatu narra a la doncella PRE-INFECTADA POR EL MAL antes de su individuación, que arrastra al varón frágil al pacto. Inversión del eje agente: en Drácula el mal entra desde fuera (caballero traicionado por Dios); en Nosferatu el mal entra desde dentro de lo femenino mismo (Lilit como mal anterior a la individuación).",
+      "quote_evidence": "Coppola narra amantes trágicos donde él lucha contra el mal por salvar la relación; es un mito polar con protagonismo masculino,"
+    },
+    {
+      "surface_form": "mito polar como estructura intercambiable / eterno retorno cíclico",
+      "canonical_guess": "mito-polar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 175,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El mito del Dios es el mito solar-masculino; el mito de la diosa es el mito lunar-femenino,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La conjunción de ambos se llama mito polar: lo masculino y lo femenino luchando por permanecer juntos contra el mal que intenta separarles,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La estructura mítica de Nosferatu es intercambiable: donde dice sexo puede decir ambición, y donde dice amantes puede decir padre e hija,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "El video es FOUNDATIONAL para mito-polar — articula la estructura completa (catábasis-anábasis de la diosa, conjunción masculino-femenino contra mal exógeno/endógeno, eterno retorno cíclico) y la INTERCAMBIABILIDAD estructural (donde dice sexo puede decir ambición; amantes/padre-hija). Sin lectura previa de mito-polar en este barrido (la articulación supersedería sustantivamente el contenido del page), capturado en promote_new del film con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "Tras la imagen de la diosa cubierta de flores se hace de noche y suenan campanillas como al inicio,"
+    },
+    {
+      "surface_form": "Lilit como mal primario anterior a la individuación femenina + Adán como Golem",
+      "canonical_guess": "lilit-mito",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En los mitos occidentales existe un mal primario anterior incluso a la individuación de lo femenino,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica sobre Lilit como mal primario anterior a la individuación femenina, distinto del pecado de Eva. Adán como Golem de Dios construido para obedecer instrucciones simples (construye, conserva, no destruyas, usa la cabeza); Eva como mitad de un todo cuya individualidad fue reducida para formar gamos con Adán. Sin lectura previa de lilit-mito en este barrido, capturado en promote_new del film con wikilink y como discard con enriches_concept.",
+      "quote_evidence": "Lilit rechaza el compromiso con Adán interpretando su consejo de eutaxia humana como imposición,"
+    },
+    {
+      "surface_form": "Von Franz como pseudomístico occidental mediocre",
+      "canonical_guess": "magia-postmoderna-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Von Franz no es ni científico ni religioso sino un místico occidental mediocre, pero es el único que puede acceder al secreto de la solución,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La ciencia cura el mal físico y la religión cura el mal del alma, pero Occidente pone a cargo a pseudomísticos que no son ni una cosa ni otra,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica sobre la división del trabajo curativo (ciencia cura el cuerpo, religión cura el alma) y el fracaso occidental contemporáneo: poner a cargo del mal del alma a pseudomísticos que no son ni una cosa ni otra. Von Franz en Nosferatu como caso operativo. Sin lectura previa de magia-postmoderna-en-proxy en este barrido, capturado en promote_new del film con wikilink y como discard con enriches_concept.",
+      "quote_evidence": "Von Franz dice \"la ciencia nos está haciendo luz de gas, estamos luchando contra un vampiro\": no es una moda, es algo mucho peor,"
+    },
+    {
+      "surface_form": "democracia como mito impropio del paraíso (caso aplicado)",
+      "canonical_guess": "mitologia-propia-impropia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La democracia ocupa en Occidente el lugar del mito del paraíso como superyo cultural compartido,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica de la democracia como caso operativo de mito impropio del paraíso. Capturado como cita en promote_new del film con wikilink a mitologia-propia-impropia.",
+      "quote_evidence": "Un mito propio pertenece a un universal humano; un mito impropio pertenece a un contexto particular pero se elabora de forma fantástica,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "nosferatu-2024-film",
+      "canonical_name": "Nosferatu (Eggers, 2024)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "humanities.religion",
+        "social.psychology.jungian"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~175 min dedicado al análisis arquetípico-clínico de Nosferatu de Eggers. Estaba en canonical_whitelist con auto_promote=false esperando 'análisis dedicado'; este directo lo confirma con creces. La obra opera como 'último mito polar' donde el mal primario anterior a la individuación femenina (registro Lilit) ataca a la doncella desde edades más tempranas — lectura inversa-complementaria del Drácula de Coppola.",
+      "one_line_summary": "Análisis arquetípico monográfico de Nosferatu (Robert Eggers, 2024) leído como 'último mito polar' y caso paradigmático de la modalidad inversa al Drácula de Coppola: donde Drácula narra al varón devenido demonio que rapta a la doncella sana, Nosferatu narra a la doncella PRE-INFECTADA POR EL MAL antes de su individuación (registro Lilit, mal primario anterior a Atenea) que arrastra al varón frágil (Thomas como hombre fácil de manipular por la ninfa) al pacto con el Conde Orlok; Ellen articulada clínicamente como perfil borderline extremo (cuatro estados anímicos: sumisión al deseo + ira + desgarro del abandono + hipomanía optimista, oscilando sin alcanzar el centro padre-amigo-hermano-hijo); las TRES NOCHES DE LA DIOSA leídas como síndrome de abstinencia (resistir tres días la tentación sin satisfacción); el sacrificio final de Ellen como cura (la doncella ofrece su amor a la bestia liberando al mundo); Von Franz como pseudomístico mediocre (la civilización pone a cargo del alma a quien no es ni científico ni religioso); la peste que llega a Londres como postmodernidad devorando Occidente; Eggers articulado como autor antipostmoderno con respeto por el mito; cierre cíclico (campanillas iniciales y finales) que confirma el mito polar como ETERNO RETORNO.",
+      "frontmatter_fields_proposed": {
+        "year": 2024,
+        "studio_or_publisher": "Focus Features",
+        "medium": "film",
+        "director": "Robert Eggers",
+        "based_on": "Nosferatu (Murnau, 1922) / Dracula (Stoker, 1897)"
+      },
+      "relations_to_existing": [
+        {
+          "type": "manifestation_of",
+          "to": "mito-polar",
+          "weight": "canonical",
+          "note": "caso operativo del 'último mito polar' — el monográfico articula la estructura completa (catábasis-anábasis de la diosa, conjunción contra mal exógeno/endógeno) y la intercambiabilidad estructural (donde dice sexo puede decir ambición; amantes/padre-hija)"
+        },
+        {
+          "type": "compared_with",
+          "to": "dracula-1992-film",
+          "weight": "canonical",
+          "note": "modalidad inversa-complementaria: Drácula narra al varón-devenido-demonio que rapta a la doncella sana; Nosferatu narra a la doncella pre-infectada por el mal anterior a la individuación que arrastra al varón frágil"
+        },
+        {
+          "type": "exemplifies",
+          "to": "trastorno-limite-y-eutanasia-en-proxy",
+          "weight": "canonical",
+          "note": "Ellen como caso paradigmático del trastorno límite extremo: trauma sexual temprano + ausencia paterna + cuatro estados anímicos del cuadro + sustitución del mundo por marido-hijo-padre-amante; las tres noches de la diosa como síndrome de abstinencia clínico"
+        },
+        {
+          "type": "exemplifies",
+          "to": "lilit-mito",
+          "weight": "strong",
+          "note": "el mal primario anterior a la individuación femenina articulado como registro Lilit (rechazo del compromiso, instintos de consumir y devorar como hambre insaciable) opuesto al pecado de Eva (caída por escuchar a la serpiente dentro del compromiso ya formado)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "diosa-blanca",
+          "weight": "strong",
+          "note": "las tres noches de la diosa como fase específica del viaje arquetípico donde la diosa enfrenta al mal solo resistiendo; el sacrificio final como cura (la doncella ofrece su amor a la bestia liberando al mundo)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "hieros-gamos",
+          "weight": "strong",
+          "note": "el cartel del film como destino manifiesto del 'hieros gamos invertido' — la bestia mira al vacío, ella nos mira a nosotros (modalidad inversa de la conjunción polar)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "mitologia-propia-impropia",
+          "weight": "strong",
+          "note": "articulación canal-específica de la diferencia mito propio (universal) vs mito impropio (cultural); democracia como mito impropio del paraíso en Occidente"
+        },
+        {
+          "type": "criticizes",
+          "to": "magia-postmoderna-en-proxy",
+          "weight": "strong",
+          "note": "Von Franz como pseudomístico mediocre que no es ni científico ni religioso — caso operativo del fracaso occidental al poner a cargo del mal del alma a quien no opera en ninguna de las dos tradiciones legítimas"
+        },
+        {
+          "type": "criticizes",
+          "to": "woke-narrativa-postmoderna-moral",
+          "weight": "strong",
+          "note": "la peste que llega a Londres como metáfora de la postmodernidad devorando Occidente; Eggers leído como autor antipostmoderno respetuoso con el mito"
+        },
+        {
+          "type": "compared_with",
+          "to": "tipologia-femenina-arquetipica",
+          "weight": "strong",
+          "note": "Ellen como caso operativo del súcubo articulado en la tipología femenina; el íncubo y el súcubo como modalidades del vampiro-pecado-de-consumir"
+        },
+        {
+          "type": "compared_with",
+          "to": "lady-halcon-1985-film",
+          "weight": "strong",
+          "note": "ambas obras son casos foundational del mito polar: Lady Halcón en clave restaurativa (separación-y-reencuentro); Nosferatu en clave invertida (mal primario que pre-infecta)"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico de 175 min y por estatus foundational del directo: la página estaba en canonical_whitelist como soft (auto_promote=false) precisamente esperando este análisis dedicado. Caso operativo donde el mito polar opera en MODALIDAD INVERSA al Drácula de Coppola; articulación clínica completa del trastorno límite extremo via Ellen; tres noches de la diosa como síndrome de abstinencia; sacrificio final como cura; cierre cíclico que confirma el mito polar como eterno retorno; lectura cultural de la peste como postmodernidad devorando Occidente. La página supersedería citas dispersas con análisis sustantivo del film como dispositivo articulador del último mito polar."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "trastorno-limite-y-eutanasia-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Funciona por instalación de un trauma rival que desplaza al original — costo iatrogénico que invalida la técnica como primera línea.",
+      "content_proposed": "\n\n## Aparato clínico ampliado: el caso Nosferatu (Ellen como cuadro borderline extremo)\n\nEl monográfico sobre [[nosferatu-2024-film|Nosferatu de Eggers]] (ene 2025) articula tres piezas clínicas operativas que extienden el aparato de la página: los cuatro estados anímicos específicos del cuadro borderline, el centro inalcanzable como núcleo afectivo, y las tres noches de la diosa como síndrome de abstinencia.\n\n### Los cuatro estados anímicos del trastorno límite\n\n> \"Sumisión al deseo, ira contra los demás, desgarro del abandono e hipomanía optimista son los cuatro estados principales,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (50:02)](https://youtu.be/yAIPr0HzQqE?t=3002)\n\n> \"Oscilan alrededor de un centro que nunca consiguen alcanzar: la buena pareja que sea padre, amigo, hermano e hijo simultáneamente,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (50:02)](https://youtu.be/yAIPr0HzQqE?t=3002)\n\nLa página articulaba la 'pérdida del control conductual con autolesiones, atracones, conductas de riesgo, sexo imprudente como búsqueda de intensidad somática; ciclotimias, pensamiento dicotómico, bandazos emocionales' como descripción genérica de la crisis límite. La pieza añade la TIPOLOGÍA OPERATIVA específica de los estados oscilatorios:\n\n1. **Sumisión al deseo** — la fase de entrega total al objeto-prototipo-tóxico, donde el sujeto cede toda regulación frente al impulso afectivo focalizado.\n2. **Ira contra los demás** — la fase de descarga reactiva donde el entorno aparece como obstáculo o cómplice del propio sufrimiento.\n3. **Desgarro del abandono** — la fase de pánico ante la retirada real o imaginada del objeto, núcleo del cuadro afectivo.\n4. **Hipomanía optimista** — la fase de elevación afectiva donde el sujeto reconstruye una versión idealizada del vínculo y se siente capaz de cualquier cosa.\n\nLos cuatro estados oscilan ALREDEDOR DE UN CENTRO INALCANZABLE: la pareja que cumpliría simultáneamente las funciones de PADRE (validación + protección), AMIGO (compañía sin asimetría), HERMANO (afinidad sin obligación) e HIJO (necesidad de cuidado que activa al sujeto como agente). Ningún sujeto humano puede operar las cuatro funciones simultáneamente porque son estructuralmente incompatibles entre sí — y esa imposibilidad estructural del centro produce la oscilación perpetua entre los cuatro estados, no una mera 'inestabilidad' afectiva genérica.\n\n### Las tres noches como síndrome de abstinencia clínico\n\n> \"El vampiro concede tres noches: resiste la tentación sin satisfacción y vencerás al mal,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (2:16:04)](https://youtu.be/yAIPr0HzQqE?t=8164)\n\n> \"Son las tres noches del viaje de la diosa: tres días enfrentada al mal, solo resistiendo, padeciendo sin poder actuar,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (2:16:04)](https://youtu.be/yAIPr0HzQqE?t=8164)\n\n> \"Si aguanta al síndrome de abstinencia vencerá, pero mientras tanto sentirá como si todo el mundo muriera a su alrededor,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (2:16:04)](https://youtu.be/yAIPr0HzQqE?t=8164)\n\nLa pieza articula el correlato CLÍNICO de la fase mítica de las tres noches de la diosa: no es solo motivo simbólico sino descripción operativa del SÍNDROME DE ABSTINENCIA específico del cuadro borderline. El sujeto debe atravesar tres días enfrentando el deseo focalizado en el objeto-prototipo-tóxico SIN SATISFACERLO, padeciendo la sensación catastrófica de que 'todo el mundo muere alrededor' (correlato afectivo del desgarro del abandono extendido en el tiempo). Si el sujeto resiste, el ciclo se rompe; si cede, recomienza. La pieza añade un dispositivo terapéutico operativo a las técnicas ya documentadas (EMDR, terapia cognitivo-conductual, reelaboración episódica): el atravesamiento consciente del síndrome de abstinencia como vía de salida del bucle.\n\n### Ellen como perfil borderline extremo: la sustitución totalizante\n\n> \"Es el perfil borderline extremo: mujer de especial intensidad con trauma sexual, ausencia de padre, que ha sustituido el mundo por un marido que es hijo, padre y amante sin ser ninguno,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (35:51)](https://youtu.be/yAIPr0HzQqE?t=2151)\n\nLa pieza articula la modalidad de sustitución TOTALIZANTE característica del cuadro extremo: el sujeto no busca completar el centro inalcanzable mediante varios vínculos complementarios sino que CONCENTRA toda la demanda en una sola figura (el marido-Thomas) que estructuralmente no puede cumplir ninguna de las funciones que se le exige. La consecuencia clínica: cuando esa figura única falla en cualquiera de las cuatro funciones simultáneas, todo el aparato del sujeto colapsa porque no hay vínculos alternativos donde derivar la demanda no satisfecha. Ellen como caso operativo opera con tres condiciones de diátesis convergentes: especial intensidad afectiva (rasgo de personalidad), trauma sexual temprano (Lilit como mal anterior a la individuación) y ausencia paterna estructural (la pareja debe operar también como padre).\n",
+      "wikilinks_introduced": [
+        "nosferatu-2024-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yAIPr0HzQqE",
+          "timestamp_seconds": 3002,
+          "cite_markdown": "[Análisis: Nosferatu (Eggers, 2024). (50:02)](https://youtu.be/yAIPr0HzQqE?t=3002)"
+        },
+        {
+          "video_id": "yAIPr0HzQqE",
+          "timestamp_seconds": 8164,
+          "cite_markdown": "[Análisis: Nosferatu (Eggers, 2024). (2:16:04)](https://youtu.be/yAIPr0HzQqE?t=8164)"
+        },
+        {
+          "video_id": "yAIPr0HzQqE",
+          "timestamp_seconds": 2151,
+          "cite_markdown": "[Análisis: Nosferatu (Eggers, 2024). (35:51)](https://youtu.be/yAIPr0HzQqE?t=2151)"
+        }
+      ],
+      "rationale": "La página articula extensivamente el aparato clínico del TLP, la articulación filosófica afecto/emoción/razón, el diagnóstico ético-político del caso Noelia, el aparato clínico ampliado vía Inocencia interrumpida (insert previo). NO contiene: (1) los CUATRO ESTADOS ANÍMICOS específicos (sumisión + ira + desgarro + hipomanía) ni el centro inalcanzable padre-amigo-hermano-hijo como núcleo afectivo del cuadro; (2) las TRES NOCHES de la diosa como síndrome de abstinencia clínico operativo (dispositivo terapéutico aplicable); (3) Ellen como caso paradigmático del cuadro extremo con sustitución totalizante. Tres articulaciones clínicas operativas nuevas que extienden el aparato con dispositivos diagnóstico-terapéuticos.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza completa el aparato de la página con el cierre ESCATOLÓGICO que las secciones anteriores dejaban implícita: la diosa blanca no termina su ciclo en la elevación individual mariana sino en la consagración cósmica apocalíptica donde recibe el sol, la luna y las doce estrellas — atributos que estructuralmente recapitulan los siete dones de Istar más cinco que el ciclo agrega tras la travesía completa.",
+      "content_proposed": "\n\n## Las tres noches de la diosa: la fase del padecimiento puro\n\nEl monográfico sobre [[nosferatu-2024-film|Nosferatu de Eggers]] (ene 2025) articula una FASE específica del viaje de la diosa que las secciones anteriores tenían implícita: el período de tres días donde la diosa enfrenta al mal SOLO RESISTIENDO, padeciendo sin poder actuar.\n\n> \"Son las tres noches del viaje de la diosa: tres días enfrentada al mal, solo resistiendo, padeciendo sin poder actuar,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (2:16:04)](https://youtu.be/yAIPr0HzQqE?t=8164)\n\n> \"Si aguanta al síndrome de abstinencia vencerá, pero mientras tanto sentirá como si todo el mundo muriera a su alrededor,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (2:16:04)](https://youtu.be/yAIPr0HzQqE?t=8164)\n\nLa pieza articula la fase ARQUETÍPICA específica que distingue el viaje de la diosa del viaje del héroe masculino. Mientras el héroe enfrenta al mal mediante ACCIÓN (combate, búsqueda, recuperación del don), la diosa enfrenta al mal mediante RESISTENCIA PASIVA — durante tres días padece la presencia del mal sin poder actuar contra él. La fase recapitula iconografía cristiana (los tres días de Cristo en el sepulcro entre Crucifixión y Resurrección) y mesopotámica (el descenso de Inanna/Istar a los infiernos durante tres días). La consecuencia operativa: el modo arquetípico femenino de vencer al mal NO es confrontación heroica sino ATRAVESAMIENTO de la fase de padecimiento puro — quien resiste tres días sale al otro lado; quien cede recomienza el ciclo.\n\nLa pieza enlaza con la articulación de la 'aceptación total como esencia operativa del pensamiento femenino' documentada desde [[la-llegada-2016-film|La Llegada]]: la aceptación NO es resignación pasiva, es disposición a atravesar la fase del padecimiento sin actuar prematuramente sobre ella. Las tres noches son la modalidad TEMPORAL específica de esa aceptación — tres días con un punto de salida claro, no espera indefinida.\n\n## El sacrificio final como cura: la diosa que ofrece su amor a la bestia\n\n> \"Von Franz lee la profecía: la doncella ofreció su amor a la bestia liberándonos de Nosferatu; ella es la cura,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (2:28:13)](https://youtu.be/yAIPr0HzQqE?t=8893)\n\n> \"La diosa comprende que debe sacrificarse: se viste de blanco para recibir al mal y permitir que el amanecer lo destruya,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (2:28:13)](https://youtu.be/yAIPr0HzQqE?t=8893)\n\nLa pieza articula la modalidad sacrificial específica del viaje de la diosa que las secciones anteriores tenían implícita: la diosa NO se sacrifica como víctima pasiva ni como mártir paralelo al héroe — opera por OFRECIMIENTO ACTIVO de su amor a la bestia, atrayéndola a un punto donde el amanecer (el retorno de la verdad / del orden cósmico / del sol mismo) puede destruirla. La modalidad sacrificial femenina es por tanto ESTRATÉGICAMENTE PASIVA: la diosa se ofrece como cebo, no como ofrenda. La consecuencia es que ella muere CON el mal, no antes ni después — su sacrificio es simultáneo a la destrucción del mal por la luz del amanecer, no acto previo que exija resurrección posterior. La modalidad recapitula iconografía mariana (la corredentora que sufre con el Hijo) pero con asimetría operativa: la diosa es a la vez VÍCTIMA y CURA, y la fórmula 'ella es la cura' cifra precisamente que el sacrificio femenino opera por SU PROPIA NATURALEZA, no por la consecuencia ulterior de un acto heroico.\n",
+      "wikilinks_introduced": [
+        "nosferatu-2024-film",
+        "la-llegada-2016-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yAIPr0HzQqE",
+          "timestamp_seconds": 8164,
+          "cite_markdown": "[Análisis: Nosferatu (Eggers, 2024). (2:16:04)](https://youtu.be/yAIPr0HzQqE?t=8164)"
+        },
+        {
+          "video_id": "yAIPr0HzQqE",
+          "timestamp_seconds": 8893,
+          "cite_markdown": "[Análisis: Nosferatu (Eggers, 2024). (2:28:13)](https://youtu.be/yAIPr0HzQqE?t=8893)"
+        }
+      ],
+      "rationale": "La página articula la tripartición, los tres dones, las cuatro formas del mal materno + cuarta (madre oscura), los dones como secuencia performativa, Medusa como bruja terminal, lo femenino primordial cosmogónico, mujer del Apocalipsis. NO contiene: (1) las TRES NOCHES DE LA DIOSA como fase arquetípica específica del padecimiento puro (modalidad temporal de la aceptación total documentada desde La Llegada); (2) el SACRIFICIO FINAL como cura mediante ofrecimiento estratégicamente pasivo del amor a la bestia (la diosa como víctima Y cura simultáneas, a diferencia del sacrificio heroico masculino). Dos articulaciones operativas nuevas que extienden el aparato del viaje de la diosa con sus fases temporales y sacrificiales específicas.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El hierosgamos satánico no se consuma; Mina mira hacia arriba y dice 'te veré en otra vida', trascendiendo lo físico.",
+      "content_proposed": "\n\n### Nosferatu (Eggers, 2024): hieros gamos invertido por mal primario pre-individuativo\n\nEl monográfico sobre [[nosferatu-2024-film|Nosferatu de Eggers]] (ene 2025) articula una variante distinta del hieros gamos invertido que las secciones sobre Drácula y Eyes Wide Shut tenían implícita: la modalidad donde el mal NO entra desde fuera (caballero traicionado por Dios → demonio que rapta a la doncella sana) sino DESDE DENTRO de lo femenino mismo (mal primario anterior a la individuación que pre-infecta a la doncella).\n\n> \"Coppola narra amantes trágicos donde él lucha contra el mal por salvar la relación; es un mito polar con protagonismo masculino,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (17:03)](https://youtu.be/yAIPr0HzQqE?t=1023)\n\n> \"Eggers se queda en la parte sexual deliberadamente porque desde el primer Nosferatu la historia siempre ha sido sobre sexo,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (17:03)](https://youtu.be/yAIPr0HzQqE?t=1023)\n\n> \"La portada es un destino manifiesto: un hieros gamos invertido donde la bestia mira al vacío y ella nos mira a nosotros,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (25:14)](https://youtu.be/yAIPr0HzQqE?t=1514)\n\n> \"No es un íncubo con un súcubo sino algo más radical: el demonio tentando a una niña mucho más inocente que una doncella,\"\n→ [Análisis: Nosferatu (Eggers, 2024). (25:14)](https://youtu.be/yAIPr0HzQqE?t=1514)\n\nLa distinción frente al caso Drácula es estructural y precisa el catálogo de inversiones del hieros gamos. La modalidad Drácula opera por TRAICIÓN MASCULINA → CAÍDA DEL CABALLERO → conquista del demonio sobre la doncella sana (Mina): el agente del mal es el varón devenido demonio, la mujer es víctima inocente que el varón redentor (Jonathan/Van Helsing) puede rescatar mediante confrontación heroica. La modalidad Nosferatu opera al revés: el agente del mal NO entra desde fuera sino que pre-infecta a lo femenino MISMO antes de la individuación adulta — Ellen como niña tentada por el demonio antes de poder defenderse, en registro Lilit (mal primario anterior a Eva). El varón frágil (Thomas) no es héroe ni redentor — es figura manipulable que la ninfa pre-infectada arrastra al pacto.\n\nLa consecuencia operativa para el aparato del hieros gamos: la inversión Nosferatu cierra el catálogo con una cuarta modalidad estructural junto a la satánica (Drácula), la sustitutiva (Frozen) y la perpetuamente ambigua (Eyes Wide Shut). En esta cuarta modalidad, la conjunción polar es ESTRUCTURALMENTE IMPOSIBLE desde el origen porque uno de los polos (lo femenino) ya estaba comprometido con el mal antes de poder elegir el polo complementario — el hieros gamos no se invierte en transcurso ni se sustituye por bucle ni se posterga indefinidamente, sino que NUNCA TUVO POSIBILIDAD ESTRUCTURAL DE OCURRIR. La salida operativa que Eggers articula es la SACRIFICIAL: Ellen ofrece su amor a la bestia atrayéndola al amanecer que la destruye con ella misma — modalidad donde la diosa es víctima y cura simultáneas (ver [[diosa-blanca]] sección 'el sacrificio final como cura').\n",
+      "wikilinks_introduced": [
+        "nosferatu-2024-film",
+        "diosa-blanca"
+      ],
+      "citations_added": [
+        {
+          "video_id": "yAIPr0HzQqE",
+          "timestamp_seconds": 1023,
+          "cite_markdown": "[Análisis: Nosferatu (Eggers, 2024). (17:03)](https://youtu.be/yAIPr0HzQqE?t=1023)"
+        },
+        {
+          "video_id": "yAIPr0HzQqE",
+          "timestamp_seconds": 1514,
+          "cite_markdown": "[Análisis: Nosferatu (Eggers, 2024). (25:14)](https://youtu.be/yAIPr0HzQqE?t=1514)"
+        }
+      ],
+      "rationale": "La página articula casos del hieros gamos consumado (Tarzán, Cenicienta, Scott Pilgrim, Man of Steel) y casos de inversión: Drácula (satánico), Frozen (sustitución sororal), Eyes Wide Shut (ambivalencia perpetua, mi insert previo). NO contiene la modalidad NOSFERATU como cuarta inversión estructural: la conjunción polar imposible desde el origen porque lo femenino fue pre-infectado por el mal antes de la individuación. Distinción explícita frente a Drácula (donde el mal entra desde el polo masculino traicionado) que cierra el catálogo de modalidades operativas del fracaso del hieros gamos.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "mito propio vs mito impropio (democracia como caso aplicado)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre mito propio (universal humano) vs mito impropio (cultural-fantástico). Caso operativo: democracia como mito impropio del paraíso en Occidente. Capturado en promote_new del film con wikilink a mitologia-propia-impropia.",
+      "quote_evidence": "La democracia ocupa en Occidente el lugar del mito del paraíso como superyo cultural compartido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Adán como Golem de Dios construido para obedecer instrucciones simples",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica de Adán como Golem (construye, conserva, no destruyas, usa la cabeza). Conecta con golem-de-cobre y con la genealogía cabalística del verbo demiúrgico documentada en La Llegada Parte 1. Capturado en promote_new del film.",
+      "quote_evidence": "Adán es el Golem de Dios, construido para obedecer instrucciones simples: construye, conserva, no destruyas, usa la cabeza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "vampiro como pecado de consumir / íncubo y súcubo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica del vampiro como metáfora del deseo de consumir al otro (sed que nunca se apaga). Distinción íncubo (entra de noche, engancha al primer cáliz) vs súcubo (succiona el alma vía conjunciones físicas prohibidas). Capturado en promote_new del film con wikilink a tipologia-femenina-arquetipica.",
+      "quote_evidence": "El mito del vampiro es metáfora del deseo de consumir al otro: una sed que nunca se apaga,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción íncubo/súcubo + el vampiro como pecado del consumir podría merecer concept page si recurre con sustantividad equivalente.",
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    },
+    {
+      "surface_form": "Eggers como autor antipostmoderno respetuoso del mito",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización del director como autor antipostmoderno cuyas referencias a magia, mística y mitología son evidentes. Conecta con woke-narrativa-postmoderna-moral por contraste — caso de cine que opera CONTRA el dispositivo woke. Capturado en promote_new del film.",
+      "quote_evidence": "Eggers es totalmente antipostmoderno, respetuoso con el mito, y sus referencias a magia, mística y mitología son evidentes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "peste como postmodernidad devorando Occidente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del film: las ratas que traen la peste a Londres como metáfora de la postmodernidad. Las pseudociencias (sangrados, corsés) como soluciones arcaicas a males superficiales cuando el problema es el pecado de siempre. Capturado en promote_new.",
+      "quote_evidence": "Las ratas traen la peste como metáfora del mal que se extiende; la rabia y la sífilis como orígenes somáticos del mito vampírico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "el gato como bestia indomada / feminidad salvaje",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica del gato sin amo ni señor como representación de la bestia indomada interior de la mujer; Von Franz como único personaje que reconoce y acaricia al gato. Conecta con diosa de las bestias documentada desde Lady Halcón. Capturado en promote_new.",
+      "quote_evidence": "El gato sin amo ni señor representa la bestia indomada, la criatura independiente más cercana al otro mundo que habita el interior de la mujer,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca"
+    },
+    {
+      "surface_form": "El planeta del tesoro como caso operativo del mito de la diosa literal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa al cierre del directo: El Planeta del Tesoro (Disney, 2002) como caso del mismo mito polar con la madre como lo femenino que salva. Sin análisis sustantivo. Capturado en promote_new.",
+      "quote_evidence": "El planeta del tesoro como ejemplo de la misma estructura: un mito de la diosa literal con el joven seducido por la aventura y la madre como lo femenino que salva,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-polar"
+    },
+    {
+      "surface_form": "carro del tarot invertido (carro oscuro sin jinete)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica de la carta del Carro aplicada a la salida de la civilización en Nosferatu (le roban el caballo, el carro oscuro sin jinete = inversión de la carta). Capturado en promote_new.",
+      "quote_evidence": "La carta del Carro representa la salida de la civilización: le han robado el caballo y el carro oscuro sin jinete es la inversión de la carta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico"
+    },
+    {
+      "surface_form": "el emperador y la emperatriz como Los Amantes armónicos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica de la pareja secundaria del film como contrapartida luminosa de los protagonistas pre-infectados — la carta de Los Amantes del tarot como superyo armónico. Capturado en promote_new.",
+      "quote_evidence": "Son la imagen de lo que los protagonistas deberían ser: él con honor y dominio propio, ella sencilla, creyente, madre y calmada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico"
+    },
+    {
+      "surface_form": "estrella de siete puntas como símbolo de Astarté",
+      "reason_code": "passing_mention",
+      "reason_detail": "Iconografía intra-película: la estrella de siete puntas en el mapa de Transilvania como símbolo arcano de la feminidad demoníaca sexual vinculada a Astarté. Conecta con la genealogía Istar→Apocalipsis→Virgen documentada en La Llegada Parte 1. Capturado en promote_new.",
+      "quote_evidence": "Junto al mapa de Transilvania aparece una estrella de siete puntas: símbolo arcano de la feminidad demoníaca sexual vinculada a Astarté,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca"
+    },
+    {
+      "surface_form": "exorcismo como recapitulación cultural de la catarsis",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre el exorcismo como dispositivo cultural de catarsis (sacar lo que se desea expresar en entorno controlado). Conecta con teologia-catolica-en-proxy y con magia-postmoderna-en-proxy. Capturado en promote_new.",
+      "quote_evidence": "El exorcismo es una recapitulación cultural de la catarsis: sacar lo que deseas expresar en un entorno controlado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teologia-catolica-en-proxy"
+    },
+    {
+      "surface_form": "estructura mítica intercambiable: sexo/ambición, amantes/padre-hija",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la abstracción del mito polar — donde dice sexo puede decir ambición, donde dice amantes puede decir padre-hija. Pieza foundational sobre cómo opera la estructura arquetípica como invariante bajo distintos vehículos narrativos. Capturado en promote_new.",
+      "quote_evidence": "La estructura mítica de Nosferatu es intercambiable: donde dice sexo puede decir ambición, y donde dice amantes puede decir padre e hija,",
+      "review_priority": "medium",
+      "review_priority_reason": "La intercambiabilidad estructural del mito polar como invariante arquetípica es articulación foundational. Worth verificar enriquecimiento a mito-polar tras lectura.",
+      "enriches_concept": "mito-polar"
+    },
+    {
+      "surface_form": "Murnau (Nosferatu 1922) como antecedente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Eggers reescribe el primer Nosferatu de Murnau (1922). Capturado como frontmatter-field en promote_new.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "nosferatu-2024-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 8,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Nosferatu (Eggers, 2024)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

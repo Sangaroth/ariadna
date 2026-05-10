@@ -264,6 +264,9 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 
 
 
+
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -287,4 +290,7 @@ El aprovechamiento del par eutaxia/distaxia mantiene la frontera ya documentada 
 - **¿Porqué hay categorías masculina y femenina en ajedrez?** — chunks: [1:24:44](https://youtu.be/AJgvAsbd-UQ?t=5084)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:09:43](https://youtu.be/NKFWUxt5VQ4?t=4183)
+- **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [44:33](https://youtu.be/TmQiM16HIpU?t=2673)
+- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0)
+- **Cuento de Navidad y el espíritu Luterano** — chunks: [25:14](https://youtu.be/7LTa7-tZwv0?t=1514) · [1:23:28](https://youtu.be/7LTa7-tZwv0?t=5008) · [1:44:09](https://youtu.be/7LTa7-tZwv0?t=6249)
 

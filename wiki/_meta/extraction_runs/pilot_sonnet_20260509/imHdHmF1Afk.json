@@ -1,0 +1,381 @@
+{
+  "video_id": "imHdHmF1Afk",
+  "video_title": "Análisis arquetípico de Inocencia interrumpida",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Inocencia interrumpida (Girl, Interrupted, 1999)",
+      "canonical_guess": "inocencia-interrumpida-1999-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 147,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película trata sobre el trastorno de personalidad, específicamente los núcleos inmaduros de trastorno de personalidad,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Es la película más realista sobre trastornos de personalidad, especialmente el espectro próximo borderline-antisocial,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~147 min) dedicado íntegramente al análisis arquetípico de la película. Per scope §2.3, ≥30 min satisface criterio. La obra es leída como caso clínico realista del espectro borderline-antisocial y como recorrido de la protagonista por las tres fases del proceso curativo (recuperación de la gracia, la belleza, la esperanza).",
+      "quote_evidence": "La interrupción es la pérdida de la \"gracia de la diosa\": la capacidad natural femenina de fluir en el mundo,"
+    },
+    {
+      "surface_form": "TLP como versión femenina del antisocial / abuso infantil NO causa TLP",
+      "canonical_guess": "trastorno-limite-y-eutanasia-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El trastorno antisocial se considera un trastorno del estereotipo genérico masculino,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El trastorno límite es la versión femenina del trastorno antisocial,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Cada vez hay más evidencia de que el abuso infantil no es la causa del trastorno de personalidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula extensivamente el TLP como falta de desarrollo afectivo-cognitivo en ventana 8-12 años, la diátesis familiar, el núcleo metafórico (no merezco amor) y la crítica a la eutanasia. NO contiene: (1) la articulación del TLP como VERSIÓN FEMENINA del trastorno antisocial (par de género del cluster B); (2) la tesis explícita 'el abuso infantil NO causa el trastorno de personalidad' (coadyuvante, no causal) que CORRIGE el mito popular; (3) la sexualidad impulsiva como rasgo clínico (dos formas patológicas: explotación de poder + impulso incontrolable); (4) el estancamiento terapéutico tras la aceptación; (5) caso Daisy con abuso paterno retroalimentativo como caso límite donde la psique estropeada de serie hace al trastorno irreductible.",
+      "quote_evidence": "El trastorno límite es la versión femenina del trastorno antisocial,"
+    },
+    {
+      "surface_form": "tres dones de la diosa aplicados como proceso curativo",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Primera fase: recuperación de la gracia — aceptación e integración en el entorno con auténtica soltura,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Segunda fase: recuperación de la belleza — dejar de comportarse como una cría y comprender que los demás tienen una belleza que puede truncarse,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula los tres dones de la diosa (gracia, belleza, esperanza) como cadena ordenada y como tripartición tipológica (virgen, consorte, madre). NO contiene la articulación de los tres dones como FASES SECUENCIALES DE UN PROCESO CURATIVO operativo aplicado a un caso clínico de trastorno límite — la protagonista cura ayudando a otras a recuperar cada don específico que les falta. Aplicación operativa del aparato canal-específico al dominio clínico.",
+      "quote_evidence": "Susana cura ayudando a cada chica a superar la falta de cada don: a Poly le da responsabilidad (un gato que nunca juzgará su aspecto), a Georgina la confronta con su mentira, a Lisa le arranca las emociones ocultas,"
+    },
+    {
+      "surface_form": "confabulación como versión patológica del síndrome Wendy",
+      "canonical_guess": "sindrome-wendy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Esto es una versión patológica del síndrome de Wendy: un intento continuo de fuga de la realidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación canal-específica que conecta confabulación clínica con síndrome Wendy. Sin lectura previa de sindrome-wendy en este barrido, capturado en promote_new del film con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "Las personas con trastorno de personalidad crean leves confabulaciones: medio cuentos, medio creencias, medio invenciones para estar en un lugar imaginario más cómodo,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "inocencia-interrumpida-1999-film",
+      "canonical_name": "Inocencia interrumpida (Girl, Interrupted, 1999)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "social.psychology",
+        "social.psychology.jungian"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~147 min dedicado íntegramente al análisis arquetípico-clínico de la película. Per scope §2.3, ≥30 min satisface criterio. Caso operativo más extenso del corpus para el espectro borderline-antisocial y para la articulación del proceso curativo del trastorno límite vía recuperación de los tres dones de la diosa.",
+      "one_line_summary": "Análisis arquetípico monográfico de Girl, Interrupted (James Mangold, 1999) leído como retrato clínicamente realista del espectro borderline-antisocial: el título 'inocencia interrumpida' cifra la pérdida de la gracia de la diosa — la vida femenina interrumpida por flashbacks, crisis psicóticas breves, idealización-devaluación, ambivalencia y rumiación nocturna; Susanna como protagonista articula el viaje hacia la integración a través de tres fases (recuperación de la gracia / la belleza / la esperanza) curándose por la vía operativa de ayudar a otras compañeras del pabellón a recuperar cada don que les falta; Lisa (Angelina Jolie) opera como par especular masculino — el TLP como versión femenina del trastorno antisocial — y como sombra tóxica que finalmente debe quedarse atrás; Daisy aparece como caso límite del trastorno irreductible (abuso paterno retroalimentativo donde la psique estaba estropeada de serie); el directo articula además la corrección al mito popular sobre el abuso infantil como causa del TLP (es coadyuvante, no causal) y la confabulación borderline como versión patológica del síndrome Wendy.",
+      "frontmatter_fields_proposed": {
+        "year": 1999,
+        "studio_or_publisher": "Columbia Pictures",
+        "medium": "film",
+        "director": "James Mangold",
+        "based_on": "Girl, Interrupted (Susanna Kaysen, memoir, 1993)",
+        "lead_actor": "Winona Ryder, Angelina Jolie"
+      },
+      "relations_to_existing": [
+        {
+          "type": "manifestation_of",
+          "to": "trastorno-limite-y-eutanasia-en-proxy",
+          "weight": "canonical",
+          "note": "caso clínico realista paradigmático del TLP que la página articula teóricamente — Susanna recorre el cuadro completo desde la introyección 'no merezco' hasta la integración final, y el film documenta la versión femenina del trastorno antisocial vía Lisa"
+        },
+        {
+          "type": "exemplifies",
+          "to": "diosa-blanca",
+          "weight": "canonical",
+          "note": "caso operativo del proceso curativo aplicado: las tres fases (recuperación de gracia, belleza, esperanza) articuladas como recorrido de la protagonista que cura ayudando a otras a recuperar cada don que les falta"
+        },
+        {
+          "type": "exemplifies",
+          "to": "perdida-inocencia",
+          "weight": "strong",
+          "note": "el título 'inocencia interrumpida' cifra la pérdida de la gracia de la diosa — la vida femenina interrumpida por bandazos emocionales, ambivalencia y rumiación que impiden la fluidez natural"
+        },
+        {
+          "type": "references",
+          "to": "sindrome-wendy",
+          "weight": "strong",
+          "note": "la confabulación borderline (medio cuentos, medio creencias, medio invenciones para estar en un lugar imaginario más cómodo) articulada como versión patológica del síndrome Wendy — fuga continua de la realidad"
+        },
+        {
+          "type": "references",
+          "to": "tipologia-femenina-arquetipica",
+          "weight": "strong",
+          "note": "Lisa-Susana como dos partes del mismo yo (negro y blanco), las dos modalidades del par femenino disfuncional integradas en la protagonista al final"
+        },
+        {
+          "type": "references",
+          "to": "herida-narcisista-en-proxy",
+          "weight": "strong",
+          "note": "Lisa articula la herida narcisista terminal — 'le dijeron que solo valía para hacer daño y dedicó su vida a cumplir esa profecía' como caso del cuadro maximizado"
+        },
+        {
+          "type": "references",
+          "to": "trauma-en-proxy",
+          "weight": "strong",
+          "note": "el caso Daisy (abuso paterno retroalimentativo) opera como caso del trauma irreductible donde la psique estaba estropeada de serie; complementario a la lectura general del trauma"
+        },
+        {
+          "type": "references",
+          "to": "sindrome-xocas",
+          "weight": "weak",
+          "note": "la ambivalencia como núcleo del TLP articulada en el film conecta con la articulación canal-específica de la ambivalencia que el síndrome Xocas opera por evasión"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min. La obra es caso operativo foundational del canal para el TLP — articulación clínica realista del cuadro completo aplicada a una narrativa cinematográfica. Aporta varios elementos no articulados antes en el corpus: (1) TLP como versión femenina del trastorno antisocial (par de género); (2) tesis explícita 'abuso infantil NO causa TLP' que corrige el mito popular; (3) los tres dones de la diosa aplicados como fases secuenciales de un proceso curativo operativo; (4) caso Daisy del trauma irreductible donde la psique estaba estropeada de serie. La página supersedería el contenido de trastorno-limite-y-eutanasia-en-proxy en lo que toca a la dimensión cinematográfica del cuadro."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "trastorno-limite-y-eutanasia-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "**Suicidio como llamada de atención**: acto desesperado de comprobar si el mundo te quiere; alimentar al sufriente con la posibilidad del suicidio lo lleva a contemplarlo como única salida",
+      "content_proposed": "\n\n### Aparato clínico ampliado: el caso Inocencia interrumpida\n\nEl monográfico de diciembre 2023 sobre [[inocencia-interrumpida-1999-film|Inocencia interrumpida]] añade cinco piezas clínicas que la articulación nuclear del TLP en esta página tenía implícitas o ausentes.\n\n#### TLP como versión femenina del trastorno antisocial\n\n> \"El trastorno antisocial consiste en no tener límites para respetar la integridad física, material ni emocional de los demás,\"\n→ [Análisis arquetípico de Inocencia interrumpida (48:19)](https://youtu.be/imHdHmF1Afk?t=2899)\n\n> \"El trastorno antisocial se considera un trastorno del estereotipo genérico masculino,\"\n→ [Análisis arquetípico de Inocencia interrumpida (48:19)](https://youtu.be/imHdHmF1Afk?t=2899)\n\n> \"El trastorno límite es la versión femenina del trastorno antisocial,\"\n→ [Análisis arquetípico de Inocencia interrumpida (48:19)](https://youtu.be/imHdHmF1Afk?t=2899)\n\nLa pieza articula el TLP como el par estructural femenino del trastorno antisocial dentro del cluster B. La distinción es operativa para el aparato general de la página: ambos cuadros comparten núcleo (impulsividad sin freno, dificultad para sostener vínculos, inadecuación social) pero divergen en la dirección operativa de la conducta — el antisocial proyecta hacia fuera (no respeta integridad ajena), el TLP proyecta hacia dentro (autolesiones, sabotaje del propio vínculo). La estereotipia de género no es esencial sino estadística — pacientes masculinos pueden presentar TLP y femeninos antisocial — pero el patrón modal está distribuido por sexo.\n\n#### Refutación al mito del abuso infantil como causa del TLP\n\n> \"Cada vez hay más evidencia de que el abuso infantil no es la causa del trastorno de personalidad,\"\n→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)\n\n> \"El abuso infantil puede causar neurosis o estrés postraumático complejo, pero no parece ser el origen del trastorno de personalidad,\"\n→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)\n\n> \"Cuando existe abuso sexual en la infancia con trastorno de personalidad, es coadyuvante, no causal,\"\n→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)\n\n> \"Los trastornos de personalidad se gestan en la infancia, aparecen en la adolescencia y duran toda la vida,\"\n→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)\n\nLa pieza corrige explícitamente el mito popular según el cual el abuso infantil sería la causa del TLP. El canal articula la distinción categorial: abuso infantil → neurosis o TEPT complejo (cuadros REACTIVOS al evento); TLP → falla de desarrollo en ventana etaria (cuadro ESTRUCTURAL). Cuando ambos coinciden (abuso + TLP), el abuso es coadyuvante que activa o agrava la diátesis preexistente, no causa que produzca el cuadro. La refutación es operativamente importante: confunde tratamiento (TEPT requiere reelaboración del trauma específico; TLP requiere reconstrucción de funciones afectivo-cognitivas no desarrolladas) y fundamenta la diátesis articulada en la sección 'Aparato clínico del TLP' como condición necesaria del cuadro.\n\n#### Sexualidad impulsiva: dos modalidades patológicas\n\n> \"Las personas borderline no viven el sexo como el resto; sus relaciones sexuales están basadas en el impulso, no en la atracción,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:24:14)](https://youtu.be/imHdHmF1Afk?t=5054)\n\n> \"Sienten el deseo sexual y lo focalizan en la persona que más representa su prototipo tóxico,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:24:14)](https://youtu.be/imHdHmF1Afk?t=5054)\n\n> \"Las dos formas de sexo patológico son la explotación del cuerpo para obtener poder y el impulso sexual incontrolable,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:24:14)](https://youtu.be/imHdHmF1Afk?t=5054)\n\nLa página articulaba 'sexo imprudente como búsqueda de intensidad somática' como pieza de las crisis límite. La precisión añade dos modalidades operativas distintas: (a) explotación del cuerpo como acto de poder (Lisa coquetea como dispositivo de dominio); (b) impulso sexual incontrolable vivido con vergüenza (Susanna). Las dos modalidades son sintomáticamente distintas pero comparten núcleo: el sexo NO se vive desde la atracción genuina sino desde el impulso desregulado. La focalización en el prototipo tóxico cierra el cuadro: la pareja sexual del paciente borderline se elige por afinidad estructural con la herida fundacional, no por compatibilidad afectiva.\n\n#### El estancamiento terapéutico: cuando el trastorno se vuelve excusa\n\n> \"Tras aceptar la enfermedad viene una fase de estancamiento donde se integra el trastorno como excusa para no cambiar,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:32:50)](https://youtu.be/imHdHmF1Afk?t=5570)\n\n> \"En un ambiente hospitalario donde nadie juzga las debilidades del trastorno, se deja de querer cambiar,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:32:50)](https://youtu.be/imHdHmF1Afk?t=5570)\n\n> \"Sin el impulso del dolor o la angustia, la terapia no sirve de nada,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:32:50)](https://youtu.be/imHdHmF1Afk?t=5570)\n\nLa pieza añade una fase clínica que la página tenía declarada como laguna ('Casos clínicos de TLP que SÍ se reconducen: el canal no detalla qué dispositivos terapéuticos considera válidos'). El estancamiento tras la aceptación articula una paradoja terapéutica operativa: el alivio del dolor que produce el reconocimiento del cuadro (saber lo que te pasa, dejar de luchar contra la enfermedad) puede desactivar el motor mismo del trabajo terapéutico. Sin angustia que empuje, la terapia se vuelve sostenimiento en lugar de transformación, y el ambiente hospitalario protector confirma estructuralmente esa parálisis. La consecuencia diagnóstica es que el momento crítico del tratamiento NO es la aceptación inicial sino la salida posterior del estancamiento — operación que requiere reactivar el dolor productivo sin caer en la crisis terminal.\n\n#### Caso Daisy: el trastorno irreductible donde la psique está estropeada de serie\n\n> \"Lo que verdaderamente le ocurre a Daisy no es solo bulimia y TOC, sino neurosis secundarias de una relación de abuso paterno,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)\n\n> \"Su padre abusaba de ella y a ella le gustaba patológicamente: su crecimiento se detuvo y se convirtió en la hija-esposa de su padre abusador,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)\n\n> \"Su verdadero trastorno no tenía solución porque su propia psique estaba estropeada de serie y retroalimentaba positivamente el abuso,\"\n→ [Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)\n\nLa pieza articula un caso límite distinto del cuadro borderline general: el trastorno irreductible donde la diátesis preexistente se combina con un abuso paterno retroalimentativo (la víctima tiene respuesta afectiva positiva al abuso, lo que cierra el bucle). El cuadro Daisy es operativamente diferente del TLP genuino: no hay introyección 'no merezco amor' a partir de hechos que la confirman, hay una psique que estaba ya estropeada de serie y que el abuso confirmó por refuerzo positivo en lugar de por refuerzo negativo. La consecuencia clínica es que el caso es **terapéuticamente irreductible** — Lisa al decirle 'toda la verdad' lo lleva al suicidio porque la verdad sobre el cuadro NO opera redentivamente cuando la psique no puede sostener la elaboración. El caso completa el cuadro de la página con un caso límite de irreductibilidad estructural distinto de la crítica general a la eutanasia.\n",
+      "wikilinks_introduced": [
+        "inocencia-interrumpida-1999-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "imHdHmF1Afk",
+          "timestamp_seconds": 2899,
+          "cite_markdown": "[Análisis arquetípico de Inocencia interrumpida (48:19)](https://youtu.be/imHdHmF1Afk?t=2899)"
+        },
+        {
+          "video_id": "imHdHmF1Afk",
+          "timestamp_seconds": 813,
+          "cite_markdown": "[Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)"
+        },
+        {
+          "video_id": "imHdHmF1Afk",
+          "timestamp_seconds": 5054,
+          "cite_markdown": "[Análisis arquetípico de Inocencia interrumpida (1:24:14)](https://youtu.be/imHdHmF1Afk?t=5054)"
+        },
+        {
+          "video_id": "imHdHmF1Afk",
+          "timestamp_seconds": 5570,
+          "cite_markdown": "[Análisis arquetípico de Inocencia interrumpida (1:32:50)](https://youtu.be/imHdHmF1Afk?t=5570)"
+        },
+        {
+          "video_id": "imHdHmF1Afk",
+          "timestamp_seconds": 7058,
+          "cite_markdown": "[Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)"
+        }
+      ],
+      "rationale": "La página articula extensivamente el aparato clínico del TLP, la articulación filosófica afecto/emoción/razón y el diagnóstico ético-político alrededor del caso Noelia. NO contiene cinco piezas operativas que el monográfico sobre Inocencia interrumpida añade: (1) TLP como versión femenina del trastorno antisocial (par estructural de género del cluster B); (2) refutación explícita al mito 'abuso infantil causa TLP' (es coadyuvante, no causal — distingue cuadros reactivos de estructurales); (3) sexualidad impulsiva en dos modalidades (poder + impulso incontrolable, ambas con focalización en prototipo tóxico); (4) estancamiento terapéutico tras la aceptación como fase clínica que toca la laguna 'casos que SÍ se reconducen'; (5) caso Daisy del trastorno irreductible donde la psique está estropeada de serie y el abuso paterno retroalimentativo cierra el bucle. Material que toca cuatro lagunas declaradas y extiende el aparato clínico con casos operativos.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "trastorno-limite-y-eutanasia-en-proxy",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: la sección sobre el estancamiento terapéutico tras la aceptación articula una fase clínica donde el dolor que motiva la transformación se desactiva y el trastorno se integra como excusa para no cambiar. Queda pendiente articular qué dispositivos específicos sortean ese estancamiento sin reactivar la crisis terminal.",
+      "supersedes_laguna_text": "**Casos clínicos de TLP que SÍ se reconducen**: el canal articula la asimetría inteligencia/sufrimiento y afirma que la mayoría no quiere morir sino dejar de sufrir, pero no detalla qué dispositivos terapéuticos o de acompañamiento considera válidos para el trabajo sobre la enredadera fundacional",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El estancamiento terapéutico articulado como fase clínica concreta (con consecuencia operativa: sin angustia productiva la terapia se vuelve sostenimiento) toca parcialmente la laguna sobre dispositivos terapéuticos. Resolución parcial — el cómo positivo de salir del estancamiento sigue sin articularse.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La gemelaridad afectiva es entonces catalizador del encuentro disociativo, no protección contra él.",
+      "content_proposed": "\n## Aplicación operativa: los tres dones como fases del proceso curativo\n\nEl monográfico de diciembre 2023 sobre [[inocencia-interrumpida-1999-film|Inocencia interrumpida]] articula los tres dones (gracia, belleza, esperanza) NO solo como tipología arquetípica sino como **secuencia operativa de un proceso curativo aplicado a un cuadro clínico real**. La pieza extiende la cadena ordenada gracia → belleza → esperanza ya documentada con su correlato terapéutico operativo: cada don se recupera mediante una operación específica del sujeto sobre las otras.\n\n> \"Primera fase: recuperación de la gracia — aceptación e integración en el entorno con auténtica soltura,\"\n→ [Análisis arquetípico de Inocencia interrumpida (2:17:49)](https://youtu.be/imHdHmF1Afk?t=8269)\n\n> \"Segunda fase: recuperación de la belleza — dejar de comportarse como una cría y comprender que los demás tienen una belleza que puede truncarse,\"\n→ [Análisis arquetípico de Inocencia interrumpida (2:17:49)](https://youtu.be/imHdHmF1Afk?t=8269)\n\n> \"Tercera fase: recuperación de la esperanza — comprender lo que puede hacer en los demás y en sí misma, preferir sufrir fuera que agravarse dentro,\"\n→ [Análisis arquetípico de Inocencia interrumpida (2:17:49)](https://youtu.be/imHdHmF1Afk?t=8269)\n\n> \"Susana cura ayudando a cada chica a superar la falta de cada don: a Poly le da responsabilidad (un gato que nunca juzgará su aspecto), a Georgina la confronta con su mentira, a Lisa le arranca las emociones ocultas,\"\n→ [Análisis arquetípico de Inocencia interrumpida (2:17:49)](https://youtu.be/imHdHmF1Afk?t=8269)\n\nLa pieza añade dos articulaciones operativas decisivas. Primera: las tres fases NO son contemplativas sino performativas — la recuperación de cada don no opera por introspección sino por **acto operativo sobre el otro**. La gracia se recupera al integrarse con auténtica soltura en el entorno (acción performativa); la belleza se recupera al reconocer la vulnerabilidad del otro como espejo de la propia (acción reflexiva sobre el otro); la esperanza se recupera al comprender la propia capacidad de hacer en los demás (acción transformadora del entorno desde el sí-misma reconstruido). Segunda: el dispositivo curativo NO es la introspección psicoanalítica clásica sino la **acción dirigida hacia las otras mujeres del entorno** — Susanna no se cura mirándose a sí misma sino actuando sobre Poly, Georgina y Lisa. Cada acto-don dirigido hacia el otro recupera el don correspondiente en sí misma.\n\nLa secuencia operativa es coherente con la cadena ordenada articulada en la sección 'Las tres virtudes encadenadas': sin gracia integrada no puede operar la belleza reconocida en el otro, y sin belleza así reconocida no puede emerger la esperanza como capacidad transformadora. La pieza completa el aparato con su modalidad operativa: la triple diosa NO es solo mapa estático ni cadena descriptiva sino **secuencia performativa** que el sujeto actualiza sobre el entorno y, al hacerlo, restituye el arquetipo en sí.\n",
+      "wikilinks_introduced": [
+        "inocencia-interrumpida-1999-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "imHdHmF1Afk",
+          "timestamp_seconds": 8269,
+          "cite_markdown": "[Análisis arquetípico de Inocencia interrumpida (2:17:49)](https://youtu.be/imHdHmF1Afk?t=8269)"
+        }
+      ],
+      "rationale": "La página articula los tres dones de la diosa (gracia, belleza, esperanza) como tipología homóloga a la triple diosa, como cadena ordenada y como tripartición de las tres Marías. NO contiene la articulación de los tres dones como SECUENCIA OPERATIVA DE UN PROCESO CURATIVO performativo aplicado a un caso clínico — el sujeto recupera cada don actuando sobre las otras, no por introspección. Caso operativo: Susanna en Inocencia interrumpida cura ayudando a Poly (responsabilidad), Georgina (confrontación con la mentira), Lisa (arrancar emociones ocultas). Material que extiende el aparato con su modalidad performativa-clínica.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "trastorno antisocial como cuadro propiamente articulado",
+      "reason_code": "passing_mention",
+      "reason_detail": "El cuadro antisocial se articula brevemente como par estructural del TLP. Sin sustantividad standalone para página propia. Capturado en pending_update a trastorno-limite-y-eutanasia-en-proxy.",
+      "quote_evidence": "El trastorno antisocial consiste en no tener límites para respetar la integridad física, material ni emocional de los demás,",
+      "review_priority": "medium",
+      "review_priority_reason": "El trastorno antisocial podría merecer concept page propia si recurre con elaboración sustantiva en otros directos.",
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy"
+    },
+    {
+      "surface_form": "trastorno obsesivo compulsivo (TOC) en Daisy",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica del TOC vía el ritual de guardar los huesos de pollo. Capturado en promote_new del film. Sin sustantividad standalone.",
+      "quote_evidence": "Daisy tiene bulimia y TOC: el verdadero indicio del TOC es el ritual de guardar los huesos de pollo debajo de la cama,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inocencia-interrumpida-1999-film"
+    },
+    {
+      "surface_form": "padres típicos del trastorno límite (madre dramática + padre tirano)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tipología de la diátesis familiar específica. Material que enriquece trastorno-limite-y-eutanasia-en-proxy (que ya articula 'TLP, narcisismo o histrionismo parental como caldo de cultivo intergeneracional'). Capturado en promote_new del film.",
+      "quote_evidence": "Madre hiper-dramática y culpable que se siente responsable de algo que no tiene que ver con la enfermedad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy"
+    },
+    {
+      "surface_form": "romantización del suicidio en el TLP",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica sobre cómo el suicidio opera en la mente borderline (deambula como idea romántica que significa el fin del dolor). Conecta con la sección 'Tesis clínica nuclear sobre el suicidio' de trastorno-limite-y-eutanasia-en-proxy. Mención puntual.",
+      "quote_evidence": "En personas borderline el suicidio deambula como una idea romántica: significa que el dolor se acabará para siempre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy"
+    },
+    {
+      "surface_form": "rumiación nocturna obsesiva (culpa, dolor, vergüenza, ira, abandono)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Síntoma clínico característico del TLP. Capturado en promote_new del film y se solapa parcialmente con material existente en trastorno-limite-y-eutanasia.",
+      "quote_evidence": "Las personas con trastorno límite en reposo rumian recuerdos dolorosos obsesivamente: culpa, dolor, vergüenza, ira, abandono,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy"
+    },
+    {
+      "surface_form": "Lisa como el padre que Susana nunca tuvo (dinámicas objetales)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de la dinámica objetal-no-subjetiva característica del TLP grave. Capturado en promote_new del film.",
+      "quote_evidence": "Susana se acerca a Lisa no por atracción sino por seguridad: Lisa representa el padre que nunca tuvo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inocencia-interrumpida-1999-film"
+    },
+    {
+      "surface_form": "cascada emocional ante mala noticia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Rasgo clínico característico: un hecho triste desencadena cascada desproporcionada de dolor + interpretación del peor escenario casi confabulatoria. Capturado en promote_new del film.",
+      "quote_evidence": "Un hecho que debería ser triste desencadena una cascada de dolor, melancolía e inseguridad desproporcionada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy"
+    },
+    {
+      "surface_form": "ser artista o escritor como vocación característica del TLP",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación clínica sobre vocaciones afines al cuadro borderline (intereses cargados de emoción). Mención puntual sin elaboración sustantiva. Capturado en promote_new del film.",
+      "quote_evidence": "Ser artista o escritor es muy propio del trastorno límite, como ser delincuente lo es del antisocial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inocencia-interrumpida-1999-film"
+    },
+    {
+      "surface_form": "Susanna Kaysen (memoir base)",
+      "reason_code": "passing_mention",
+      "reason_detail": "La película está basada en las memorias de Susanna Kaysen (Girl, Interrupted, 1993). El directo no menciona explícitamente a la autora en el summary. Capturado como frontmatter-field en promote_new del film.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inocencia-interrumpida-1999-film"
+    },
+    {
+      "surface_form": "Winona Ryder / Angelina Jolie (intérpretes)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencias a las protagonistas. Capturado en frontmatter del promote_new del film.",
+      "quote_evidence": "Lisa (Angelina Jolie) llega furibunda buscando a su amiga Jaimie que se suicidó,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inocencia-interrumpida-1999-film"
+    },
+    {
+      "surface_form": "estructura narrativa retrospectiva (empieza por el final)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis estructural-narrativo del film. Capturado en promote_new.",
+      "quote_evidence": "La película empieza por el final y vuelve al comienzo con saltos explicativos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "inocencia-interrumpida-1999-film"
+    },
+    {
+      "surface_form": "reina negra y reina blanca como integración final",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura arquetípica del par Lisa-Susana como dos partes del mismo yo (negro y blanco). Capturado en promote_new del film con wikilink a tipologia-femenina-arquetipica.",
+      "quote_evidence": "Lisa y Susana separadas por una puerta representan la parte tóxica y la parte salvable de la enfermedad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 5,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Inocencia interrumpida (Girl, Interrupted, 1999)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

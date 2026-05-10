@@ -294,6 +294,35 @@ La página articulaba la falibilidad memorial pero no desarmaba el sesgo de nega
 
 La precisión disocia dos preguntas que el folclore mezcla: cuán frecuentemente se re-instancia un recuerdo y cuánto satura el estado mental cuando se re-instancia. Las experiencias buenas se re-instancian constantemente pero quedan integradas en la matriz noética sin ocupar el primer plano fenomenológico — el sujeto no las "recuerda" porque están operando como sustrato continuo. Las experiencias malas, cuando se re-instancian, anulan más e impiden disfrutar lo demás — son fenomenológicamente salientes precisamente porque ocupan ancho de banda exclusivo. La pieza añade el principio explicativo: no es la valencia (positiva/negativa) lo que produce el efecto, es la **magnitud del cambio**. Un cambio positivo brusco (lotería) produce el mismo efecto de saturación que un trauma — todo lo anterior pierde significancia funcional. La memoria opera por contraste, no por valencia.
 
+
+
+## La memoria como constituyente del tiempo: el argumento del cerebro en un tarro
+
+El monográfico sobre [[la-llegada-2016-film|La Llegada]] (abr 2024) articula una pieza foundational que la página tenía implícita: el TIEMPO no es una dimensión externa que la memoria registra — es una construcción CONSTITUIDA POR la memoria misma. Sin memoria, no hay percepción temporal; sin recuerdos ordenados, no hay relación de causalidad ni cognición humana posible.
+
+> "El tiempo solo existe para nosotros porque tenemos memoria; una persona sin memoria no experimenta el paso del tiempo,"
+→ [Análisis: La Llegada (Parte dos) (07:38)](https://youtu.be/tOn66qFS2-M?t=458)
+
+> "Una persona con amnesia anterógrada de 5 minutos que lleva 30 años así solo ha vivido subjetivamente una semana,"
+→ [Análisis: La Llegada (Parte dos) (07:38)](https://youtu.be/tOn66qFS2-M?t=458)
+
+> "Un cerebro en un tarro sin inputs sensoriales no puede ordenar recuerdos y por tanto no puede tener percepción temporal ni cognición humana,"
+→ [Análisis: La Llegada (Parte dos) (07:38)](https://youtu.be/tOn66qFS2-M?t=458)
+
+La pieza articula tres niveles encadenados:
+
+1. **El tiempo como construcción memorial**: el sujeto NO percibe el paso del tiempo por una sensibilidad temporal independiente — lo construye a partir de la diferencia entre estado memorial t y estado memorial t+1. Sin diferencia entre estados memoriales no hay percepción de transcurso, y por tanto no hay tiempo subjetivo. La consecuencia operativa es categorial: el tiempo NO es input externo procesado por la memoria, es OUTPUT de la operación memorial misma.
+2. **El caso operativo amnesia anterógrada**: una persona con ventana memorial de 5 minutos durante 30 años ha vivido subjetivamente una semana — la duración objetiva no se traduce en duración subjetiva porque el aparato memorial no integra eventos más allá de la ventana. La pieza confirma que la duración subjetiva depende de la INTEGRACIÓN MEMORIAL, no del transcurso objetivo.
+3. **El cerebro en un tarro como argumento contra la cognición sin sentidos**: si la memoria es repetición de submatrices que se ordenan por sucesión de inputs sensoriales, un cerebro aislado de inputs no puede generar recuerdos ordenados. Sin orden memorial no hay percepción temporal, y sin percepción temporal no hay cognición humana posible. La consecuencia para el aparato general del realismo cognitivo: las máquinas que computan sin sustrato sensorial-corporal no pueden tener cognición humana NO solo por carencia de afectos (argumento ya documentado en [[conciencia-e-inteligencia-en-proxy]]) sino también por imposibilidad estructural de generar la dimensión temporal subjetiva.
+
+### La causalidad como relación de orden derivada
+
+> "La concatenación de eventos de atrás a adelante es una relación de orden matemática que genera la sensación de causa-consecuencia,"
+→ [Análisis: La Llegada (Parte dos) (10:09)](https://youtu.be/tOn66qFS2-M?t=609)
+
+La pieza añade un cierre cognitivo: la CAUSALIDAD que el sujeto experimenta NO es propiedad ontológica del mundo sino RELACIÓN DE ORDEN MATEMÁTICA derivada de la concatenación memorial de eventos. Sin memoria que ordena no hay causalidad subjetiva. La consecuencia para [[libre-albedrio-ilusion-funcional]] es directa: si la causalidad es output de la operación memorial, la sensación de agencia causal del sujeto sobre el mundo es función de su aparato memorial, no de operaciones causales reales sobre él. La articulación enlaza con el caso operativo de La Llegada: cuando Louise aprende un lenguaje atemporal (heptápodo) y deja de operar memoriamente lineal, la causalidad subjetiva colapsa y emerge un estado simultáneo donde pasado, presente y futuro coexisten.
+
+
 ## Memoria semántica: composición no-inferencial por clases de equivalencia
 
 La página dejaba la memoria semántica como flanco menos articulado. El directo cierra ese hueco con una definición operativa precisa que la sección 'Tipología de la memoria' no contenía.
@@ -331,6 +360,7 @@ El criterio metodológico es **mínimo de framework**: una definición que solo 
 
 - **Memoria semántica y construcción de identidad narrativa**: el canal señala que la autoimagen es en parte memoria semántica del yo, pero no desarrolla el mecanismo completo de cómo la narrativa del yo se construye episódicamente; hilo pendiente con [[yo-ego-autoestima-en-proxy]]
 - **CAD / Default Mode Network**: el circuito de activación por defecto se menciona como instrumento pero sin desarrollo de su rol en la rumia o la memoria autobiográfica en reposo; solo una aparición en el corpus de este directo
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Memoria y tiempo**: el problema del «ahora imposible» se abre pero no se cierr -->
 - **Memoria y tiempo**: el problema del «ahora imposible» se abre pero no se cierra con tradiciones filosóficas del tiempo (Agustín, Husserl); posible hilo futuro si el canal articula una fenomenología del tiempo propia
 - **Sueño y consolidación memorial**: el papel del sueño en la re-instanciación y consolidación de patrones no aparece en el fragmento recuperado del corpus
 - **Desarrollo del trauma como patrón desregulado**: la conexión entre teoría memorial y teoría del trauma se enuncia pero no se desarrolla en detalle; ver [[trauma-en-proxy]] para la articulación actual del canal
@@ -340,3 +370,5 @@ El criterio metodológico es **mínimo de framework**: una definición que solo 
 - video_id: `xdT-SCW89cw` — La memoria NO EXISTE. (Y me doxean!!)
 
 - **Noticias 100tíficas** — chunks: [44:34](https://youtu.be/VgdybZKruwk?t=2674) · [1:41:55](https://youtu.be/VgdybZKruwk?t=6115)
+
+- **Tontas en Potencia** — chunks: [1:17:25](https://youtu.be/1cKAgkEEbMA?t=4645)

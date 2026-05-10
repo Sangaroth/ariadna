@@ -1,0 +1,388 @@
+{
+  "video_id": "L4zXftKhU6M",
+  "video_title": "Análisis arquetípico de el club de la lucha",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Fight Club como alegoría de la depresión y la disociación masculina",
+      "canonical_guess": "fight-club-1999-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 110,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El desdoblamiento del protagonista es una invención narrativa para hablar de dos partes del yo, no una representación clínica de la psicosis,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Jack busca a Tyler ciudad por ciudad como alegoría de buscarse a sí mismo en un viaje interior,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página existente (auto-promovida) articula la tesis nuclear (no es psicosis sino fuga depresiva, consumismo como anestesia, tres niveles de regresión, Tyler como sombra, viaje del héroe + Marla, refuerzo intermitente, lucha contra autoengaño). NO contiene varias piezas sustantivas del análisis monográfico: la generación criada por madres como diagnóstico cultural foundational; los mecanismos específicos del descenso (lenitivo, dramática, pérdida de esperanza como falsa liberación); Marla como madre oscura; las tres formas del suicidio; el sacrificio final como integración junguiana de la sombra; el amor como sentido último vía sacrificio creativo.",
+      "quote_evidence": "Tyler nace de la excisión de la psique de Jack que no soportaba más la destrucción contenida,"
+    },
+    {
+      "surface_form": "Marla como madre oscura (cuarta forma del mal materno)",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Marla no es ninfa ni sucubo: es madre oscura porque recorre grupos de personas desamparadas alimentándose de su dolor,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula tres formas del mal materno (neurosis materna, locura psicótica, vaciamiento sin sustrato psicopatológico). NO contiene la cuarta modalidad articulada en el directo: la madre oscura como vampira afectiva que se alimenta del dolor ajeno sin maternidad biológica directa — modalidad operativa donde el daño se ejecuta por extracción afectiva sostenida en grupos de personas desamparadas. Marla como caso paradigmático de esta cuarta forma.",
+      "quote_evidence": "Marla descubre la relación tóxica perfecta: el refuerzo intermitente entre Jack sensible y Tyler salvaje,"
+    },
+    {
+      "surface_form": "lenitivo y dramática como dispositivos consumistas específicos",
+      "canonical_guess": "consumismo-critica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La pornografía, el consumo y las compulsiones son lenitivos que sustituyen satisfacciones vitales verdaderas,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La dramática es el mecanismo de defensa consistente en provocarte emociones porque tu vida no es suficientemente interesante,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el consumismo como anestesia del vacío existencial vía dopamina, marketing como venta de identidad, homogeneización por plataformas, colapso del contenido original, FOMO, hiperpromesa de socialización. NO contiene las dos categorías canal-específicas LENITIVO (satisfacciones breves que sustituyen satisfacciones vitales: pornografía, compulsiones, consumo) y DRAMÁTICA (mecanismo de defensa consistente en provocarse emociones artificiales: videojuegos, telenovelas, salseo, programas del corazón). Distinción operativa entre lo que sustituye al impulso vital (lenitivo) y lo que sustituye al afecto vivido (dramática).",
+      "quote_evidence": "Las personas con depresión profunda preferirían sentir desamor o miedo antes que no sentir absolutamente nada,"
+    },
+    {
+      "surface_form": "generación criada por nuestras madres",
+      "canonical_guess": "sindrome-del-nino-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La frase de Tyler señala la falta de referentes masculinos y de ritos de paso, no la mera ausencia de padres biológicos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "El diagnóstico cultural foundational (generación criada por madres = ausencia de referentes masculinos + cultura hiperdesplazada hacia lo femenino) cae dentro del marco articulado en la página sindrome-del-nino-masculino y crisis-del-amor-pareja-y-maternidad-en-proxy. Sin lectura previa de sindrome-del-nino-masculino, capturado como cita en pending_update a fight-club-1999-film con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "La cultura está hiperdesplazada hacia lo femenino: los hombres están feminizados y la mujer está infantilizada,"
+    },
+    {
+      "surface_form": "tres formas del suicidio (taxonomía clínica)",
+      "canonical_guess": "fight-club-1999-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Existen tres grupos: los que llaman la atención sin querer morir, los que no saben comunicar su sufrimiento, y los que verdaderamente quieren morir,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Taxonomía clínica de tres formas del suicidio articulada por el canal con consecuencia operativa (criterios diferenciales de tratamiento). Sin página clínica dedicada al suicidio, se captura en pending_update a fight-club-1999-film vía la sección 'Marla y el suicidio' que el directo articula. Posible candidato a futura page de psicopatología del suicidio si recurre.",
+      "quote_evidence": "El primer grupo casi nunca se suicida de verdad; el segundo necesita tratamiento farmacológico y antipsicótico,"
+    },
+    {
+      "surface_form": "sacrificio creativo como salida de la depresión existencial (integración de la sombra)",
+      "canonical_guess": "fight-club-1999-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "En la depresión existencial, lo que salva al Dios es encontrar un sentido más grande que él mismo: el sacrificio creativo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El cierre del análisis articula la salida de la fuga depresiva como acto de sacrificio del héroe (Jack se dispara renunciando a su seguridad para salvar a Marla de Tyler). Pieza decisiva del arco que la página existente menciona implícitamente ('integración de la sombra y rescate de la capacidad de amar') sin articular el mecanismo específico: el sacrificio como acto creativo que dona sentido. Conecta con el principio canal-específico 'lo que salva al Dios es encontrar un sentido más grande que él mismo'.",
+      "quote_evidence": "Al arriesgar su vida, ya no necesita a Tyler; se integra con la sombra y la domina en lugar de ser dominado por ella,"
+    }
+  ],
+  "promote_new": [],
+  "pending_updates": [
+    {
+      "page_id": "fight-club-1999-film",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Este es el cierre del arco — la **integración de la sombra (Tyler) y el rescate de la capacidad de amar (Marla) como salida de la fuga depresiva**. Camino hacia la [[individuation]] junguiana.",
+      "content_proposed": "\n## Generación criada por madres: el diagnóstico cultural foundational\n\nLa lectura del canal abre el análisis arquetípico con un diagnóstico cultural que precisa la condición previa de la fuga depresiva de Jack: la película opera dentro de una cultura específica donde el polo masculino simbólico ha sido vaciado, no biológicamente eliminado.\n\n> \"La frase de Tyler señala la falta de referentes masculinos y de ritos de paso, no la mera ausencia de padres biológicos,\"\n→ [Análisis arquetípico de el club de la lucha (04:59)](https://youtu.be/L4zXftKhU6M?t=299)\n\n> \"La cultura está hiperdesplazada hacia lo femenino: los hombres están feminizados y la mujer está infantilizada,\"\n→ [Análisis arquetípico de el club de la lucha (04:59)](https://youtu.be/L4zXftKhU6M?t=299)\n\n> \"No se necesitan hombres salvo para sacrificarse o para consumir,\"\n→ [Análisis arquetípico de el club de la lucha (04:59)](https://youtu.be/L4zXftKhU6M?t=299)\n\nLa pieza articula la condición ambiental que hace posible y casi inevitable el cuadro depresivo de Jack: una cultura sin referentes masculinos disponibles ni ritos de paso institucionales que organicen la maduración del varón. La feminización masculina y la infantilización femenina operan como par estructural — los dos polos simbólicos quedan desfigurados simultáneamente, y la única función residual que la cultura asigna al varón es servir como recurso (sacrificio bélico-laboral) o consumir como cualquier otro adulto sin género específico. La conexión con [[sindrome-del-nino-masculino]] es directa: Jack es caso paradigmático del cuadro masculino sin operación arquetípica de validación paterna ni rito de paso que organice su salida hacia el seno del padre.\n\n## La depresión: estructura clínica y catalizadores\n\nLa página articulaba que el film ilustra fuga depresiva (no psicosis ni TID). El directo añade la articulación clínica específica del cuadro y sus catalizadores operativos.\n\n> \"La depresión en Jack se manifiesta como incapacidad para conectar con el otro por no tener motivos para hacerlo,\"\n→ [Análisis arquetípico de el club de la lucha (09:26)](https://youtu.be/L4zXftKhU6M?t=566)\n\n> \"Apatía, abulia, aislamiento y construcción de un mundo interno vacío son los síntomas centrales,\"\n→ [Análisis arquetípico de el club de la lucha (09:26)](https://youtu.be/L4zXftKhU6M?t=566)\n\nEl insomnio opera como catalizador preciso del desdoblamiento narrativo: la falta de consolidación memorial impide distinguir sueño de vigilia y permite que Tyler aparezca primero como fotograma subliminal antes de cuajar como personaje:\n\n> \"Cuando no duermes, la memoria no se consolida y no puedes distinguir sueño de realidad,\"\n→ [Análisis arquetípico de el club de la lucha (21:04)](https://youtu.be/L4zXftKhU6M?t=1264)\n\n> \"La despersonalización por estrés hace que Jack vea su vida desde fuera, permitiendo un cambio de perspectiva,\"\n→ [Análisis arquetípico de el club de la lucha (21:04)](https://youtu.be/L4zXftKhU6M?t=1264)\n\nLa pieza precisa la condición operativa del dispositivo narrativo: el insomnio no es solo síntoma sino mecánica que habilita el desdoblamiento — sin consolidación memorial estable, los compartimentos episódicos del yo dejan de tener fronteras y la psique puede sostener simultáneamente dos líneas de continuidad afectiva incompatibles.\n\n## Lenitivo, dramática, pérdida de esperanza: la cadena descendente del consumismo\n\nLa página articulaba el consumismo como anestesia genérica. El directo precisa la cadena específica de mecanismos sustitutivos por la que pasa el sujeto cuando agota cada nivel anterior — categorías canal-específicas con consecuencia diagnóstica.\n\n### Lenitivo (29:09)\n\n> \"La pornografía, el consumo y las compulsiones son lenitivos que sustituyen satisfacciones vitales verdaderas,\"\n→ [Análisis arquetípico de el club de la lucha (29:09)](https://youtu.be/L4zXftKhU6M?t=1749)\n\n> \"Las satisfacciones cortas funcionan mediante la utilización de los instintos: sexo, consumo, entretenimiento,\"\n→ [Análisis arquetípico de el club de la lucha (29:09)](https://youtu.be/L4zXftKhU6M?t=1749)\n\nEl lenitivo (en sentido canal-específico) es la categoría de los sustitutos que operan sobre los instintos básicos para producir satisfacción breve sin alimentar el motor vital. Pornografía, compras compulsivas, atracones — todos comparten estructura: activación del circuito instintivo + descarga inmediata + retorno al vacío. La pieza extiende [[consumismo-critica]] precisando el mecanismo específico que opera en el primer nivel del descenso.\n\n### Dramática (36:12)\n\n> \"La dramática es el mecanismo de defensa consistente en provocarte emociones porque tu vida no es suficientemente interesante,\"\n→ [Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)\n\n> \"Incluye videojuegos, telenovelas, salseo, programas del corazón: no estar en la realidad porque la realidad no produce emoción suficiente,\"\n→ [Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)\n\n> \"Las personas con depresión profunda preferirían sentir desamor o miedo antes que no sentir absolutamente nada,\"\n→ [Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)\n\nLa dramática opera al siguiente nivel del descenso, cuando los lenitivos instintivos ya no bastan: el sujeto fabrica emociones por intermediación cultural (ficciones consumibles, salseo, escándalo permanente) porque su vida real no produce afecto suficiente. La precisión diagnóstica es operativa — los pacientes con depresión profunda prefieren sentir afectos negativos a no sentir nada, y la dramática es la forma cultural que canaliza esa preferencia. La masculinidad patética que el directo describe (31:10) opera dentro de este registro: Jack 'masturba comprando muebles' lo poco que tiene de impulso vital — vivencia lenitivo-dramática del impulso solar perdido.\n\n### Pérdida de esperanza como falsa liberación (40:13)\n\n> \"Al perder la esperanza, Jack deja de sentir angustia, vacío y depresión porque ya no hay expectativa,\"\n→ [Análisis arquetípico de el club de la lucha (40:13)](https://youtu.be/L4zXftKhU6M?t=2413)\n\n> \"Se vuelve adicto a que lo acunen y a llorar de desesperación como un bebé: la dramática de tercer grado,\"\n→ [Análisis arquetípico de el club de la lucha (40:13)](https://youtu.be/L4zXftKhU6M?t=2413)\n\n> \"La esperanza es paradójicamente la causa de la depresión: el ciclo de esperar que lo próximo traiga la felicidad,\"\n→ [Análisis arquetípico de el club de la lucha (40:13)](https://youtu.be/L4zXftKhU6M?t=2413)\n\nLa tercera fase del descenso es la pérdida de la esperanza como falsa liberación. Es contraintuitiva: al renunciar a esperar, el sujeto deja de sufrir el vacío entre expectativa y realidad, pero el alivio es regresivo — equivale a abandonar el campo afectivo adulto y volver al registro infantil del consuelo recibido. Los grupos de apoyo a los que Jack se hace adicto operan en ese registro: consuelo recibido sin expectativa, dramática de tercer grado donde el sujeto llora como bebé porque ha renunciado a tener interior afectivo propio.\n\n### La autolesión como retorno desde la despersonalización (43:38)\n\n> \"La despersonalización hace que el cerebro se apague por exceso de dolor emocional y la persona se vea en tercera persona,\"\n→ [Análisis arquetípico de el club de la lucha (43:38)](https://youtu.be/L4zXftKhU6M?t=2618)\n\n> \"Las autolesiones sirven para intercambiar sufrimiento psicológico por dolor físico y volver a sentir algo real,\"\n→ [Análisis arquetípico de el club de la lucha (43:38)](https://youtu.be/L4zXftKhU6M?t=2618)\n\nLa autolesión cierra la cadena lenitivo→dramática→pérdida-de-esperanza con la última estación antes de la escisión psíquica plena: el dolor físico como prueba de realidad cuando la realidad afectiva ha colapsado por despersonalización. La pieza articula que las autolesiones no son pieza separada del descenso consumista sino su **continuación operativa** — son la modalidad somática del lenitivo cuando lo cultural ya no produce ningún afecto.\n\n## Marla como madre oscura (vampira afectiva)\n\nLa página articulaba la dinámica Marla-Jack-Tyler como refuerzo intermitente y conectaba ambivalentemente Marla y Tyler con la madre oscura de Jack. El directo precisa la categoría arquetípica específica de Marla.\n\n> \"Marla no es ninfa ni sucubo: es madre oscura porque recorre grupos de personas desamparadas alimentándose de su dolor,\"\n→ [Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)\n\n> \"Tanto Jack como Marla son cáscaras gemelas sin alma, adictos a la emoción artificial,\"\n→ [Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)\n\nLa categoría madre oscura es canal-específica y se distingue operativamente de las otras formas femeninas oscuras articuladas en [[tipologia-femenina-arquetipica]] (ninfa, lámia, Medea, bruja). La madre oscura no seduce ni encanta — se alimenta del dolor ajeno por proximidad afectiva, recorriendo entornos de desamparo (los grupos de apoyo de Marla son su territorio de caza). Es la cuarta forma del mal materno que la página de [[diosa-blanca]] no contemplaba: vampiro afectivo que no requiere maternidad biológica directa para ejercer la operación. La gemelaridad estructural Marla-Jack es decisiva — ambos son cáscaras gemelas sin alma adictas a la emoción artificial, lo que hace al encuentro entre ellos catalizador del cuadro disociativo: cada uno reconoce en el otro la mecánica de su propio vacío.\n\n## Las tres formas del suicidio: taxonomía clínica\n\n> \"Existen tres grupos: los que llaman la atención sin querer morir, los que no saben comunicar su sufrimiento, y los que verdaderamente quieren morir,\"\n→ [Análisis arquetípico de el club de la lucha (1:14:02)](https://youtu.be/L4zXftKhU6M?t=4442)\n\n> \"El primer grupo casi nunca se suicida de verdad; el segundo necesita tratamiento farmacológico y antipsicótico,\"\n→ [Análisis arquetípico de el club de la lucha (1:14:02)](https://youtu.be/L4zXftKhU6M?t=4442)\n\n> \"Marla se toma un bote de pastillas como forma autolesiva extrema donde cualquier cosa es preferible a no sentir nada,\"\n→ [Análisis arquetípico de el club de la lucha (1:14:02)](https://youtu.be/L4zXftKhU6M?t=4442)\n\nLa taxonomía articula tres modalidades clínicamente distintas del acto suicida con consecuencias diferenciales para el tratamiento. (1) **Llamada de atención sin voluntad real de morir**: el acto comunica sufrimiento que no encuentra otro vehículo expresivo; estadísticamente el grupo con menor tasa de suicidio consumado. (2) **Incapacidad de comunicar el sufrimiento**: el sujeto tiene dolor real pero carece de aparato comunicativo intacto; requiere tratamiento farmacológico y antipsicótico para reconstituir la posibilidad de articulación afectiva. (3) **Voluntad real de morir**: el sujeto ha resuelto cognitivamente que la inexistencia es preferible a la continuación; grupo de mayor riesgo letal. La forma de Marla con las pastillas opera en el registro 1 modulado por el motivo subyacente del directo: cualquier cosa preferible a no sentir nada — el suicidio dramático como dispositivo de la dramática llevada a su extremo.\n\n## El sacrificio creativo: integración junguiana de la sombra\n\nLa página cerraba el arco con la frase 'integración de la sombra y rescate de la capacidad de amar como salida de la fuga depresiva'. El directo articula el mecanismo específico de esa integración como acto de sacrificio creativo.\n\n> \"Jack comprende que la solución no es volver al estado de naturaleza sino acabar con el demonio interno a cualquier precio,\"\n→ [Análisis arquetípico de el club de la lucha (1:46:09)](https://youtu.be/L4zXftKhU6M?t=6369)\n\n> \"Se dispara a sí mismo renunciando a su seguridad para salvar a Marla de Tyler: el sacrificio del héroe,\"\n→ [Análisis arquetípico de el club de la lucha (1:46:09)](https://youtu.be/L4zXftKhU6M?t=6369)\n\n> \"Al arriesgar su vida, ya no necesita a Tyler; se integra con la sombra y la domina en lugar de ser dominado por ella,\"\n→ [Análisis arquetípico de el club de la lucha (1:46:09)](https://youtu.be/L4zXftKhU6M?t=6369)\n\nLa pieza precisa el mecanismo de la integración: no es asimilación pacífica de la sombra ni reconciliación con ella, es **renuncia activa a la propia seguridad** que invierte la relación de dominio. Mientras Jack temía a Tyler, era Tyler quien lo dominaba; al disparar contra sí mismo aceptando la posibilidad de morir por amor, ya no hay nada que Tyler pueda quitarle — el psicópata interior pierde su poder porque su poder dependía del miedo del yo a perder. La pieza articula así el principio operativo de la [[shadow-archetype|integración junguiana]]: la sombra no se integra negándola ni reconciliándose con ella sino dejando de necesitarla por entrega a algo mayor que el yo.\n\n### El demonio frente a la diosa\n\n> \"Tyler sabe que si Marla descubre que Jack y Tyler son la misma persona, se enamorará y lo curará,\"\n→ [Análisis arquetípico de el club de la lucha (1:34:01)](https://youtu.be/L4zXftKhU6M?t=5641)\n\n> \"El demonio no quiere que tengamos que ocuparnos de una mujer porque eso destruiría la excisión,\"\n→ [Análisis arquetípico de el club de la lucha (1:34:01)](https://youtu.be/L4zXftKhU6M?t=5641)\n\n> \"Frente a la diosa ni siquiera el demonio vence: la mayor fuerza contra el demonio es el principio femenino,\"\n→ [Análisis arquetípico de el club de la lucha (1:34:01)](https://youtu.be/L4zXftKhU6M?t=5641)\n\nLa pieza añade el principio operativo cosmológico que la película articula como pieza decisiva: el demonio interior (Tyler) bloquea precisamente la posibilidad del encuentro con la diosa porque ese encuentro lo disolvería. La regla generalizable que el directo extrae — 'frente a la diosa ni siquiera el demonio vence' — fija al [[diosa-blanca|principio femenino]] como antídoto cosmológicamente más potente que ningún acto heroico solitario contra la sombra. La integración junguiana de Tyler no opera por confrontación masculina con él sino por permitir que la diosa entre en el campo donde Tyler dominaba. El sacrificio de Jack no es contra Tyler — es por Marla, y por eso Tyler colapsa.\n\n### El amor como sentido último: principio cosmogónico del cierre\n\n> \"Los amantes contemplan el fin del mundo sin miedo porque ahora están juntos,\"\n→ [Análisis arquetípico de el club de la lucha (1:49:10)](https://youtu.be/L4zXftKhU6M?t=6550)\n\n> \"En la depresión existencial, lo que salva al Dios es encontrar un sentido más grande que él mismo: el sacrificio creativo,\"\n→ [Análisis arquetípico de el club de la lucha (1:49:10)](https://youtu.be/L4zXftKhU6M?t=6550)\n\n> \"El amor es la única cosa que devuelve el sentido a la vida de Jack; toda creación es un acto de amor,\"\n→ [Análisis arquetípico de el club de la lucha (1:49:10)](https://youtu.be/L4zXftKhU6M?t=6550)\n\nEl cierre cosmogónico del arco articula el principio canal-específico que organiza la salida de toda depresión existencial: la fuga depresiva se cura solo por **descubrimiento de un sentido más grande que el propio yo**, y el dispositivo operativo de ese descubrimiento es el sacrificio creativo — entrega de la propia seguridad por algo cuya importancia exceda al sujeto que se entrega. El amor opera como caso paradigmático de ese sentido mayor; la creación misma se redefine como acto de amor (entrega de sí en lo que se hace para el otro, no expresión narcisista del yo). La pieza enlaza con [[individuation]] precisando que el cumplimiento del proceso individuativo no es repliegue sobre el self sino entrega del self a un horizonte que lo trasciende — la fórmula es estructuralmente católica (la imitatio Christi articulada en [[viaje-heroe]] como respuesta occidental al monomito) traducida a clave cinematográfica laica.\n",
+      "wikilinks_introduced": [
+        "sindrome-del-nino-masculino",
+        "tipologia-femenina-arquetipica",
+        "diosa-blanca",
+        "viaje-heroe"
+      ],
+      "citations_added": [
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 299,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (04:59)](https://youtu.be/L4zXftKhU6M?t=299)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 566,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (09:26)](https://youtu.be/L4zXftKhU6M?t=566)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 1264,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (21:04)](https://youtu.be/L4zXftKhU6M?t=1264)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 1749,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (29:09)](https://youtu.be/L4zXftKhU6M?t=1749)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 2172,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 2413,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (40:13)](https://youtu.be/L4zXftKhU6M?t=2413)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 2618,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (43:38)](https://youtu.be/L4zXftKhU6M?t=2618)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 2709,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 4442,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (1:14:02)](https://youtu.be/L4zXftKhU6M?t=4442)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 5641,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (1:34:01)](https://youtu.be/L4zXftKhU6M?t=5641)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 6369,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (1:46:09)](https://youtu.be/L4zXftKhU6M?t=6369)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 6550,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (1:49:10)](https://youtu.be/L4zXftKhU6M?t=6550)"
+        }
+      ],
+      "rationale": "La página existente articula la tesis nuclear (no es psicosis, fuga depresiva, consumismo como anestesia, tres niveles de regresión, Tyler como sombra, viaje del héroe + Marla, refuerzo intermitente, lucha contra autoengaño) pero NO contiene seis bloques sustantivos del análisis monográfico: (1) diagnóstico cultural foundational 'generación criada por madres'; (2) clínica específica de la depresión + insomnio como catalizador; (3) cadena descendente lenitivo→dramática→pérdida-de-esperanza→autolesión con categorías canal-específicas; (4) Marla como cuarta forma del mal materno (madre oscura/vampira afectiva); (5) taxonomía clínica de las tres formas del suicidio; (6) mecanismo del sacrificio creativo como salida operativa de la fuga depresiva + principio cosmológico 'frente a la diosa ni siquiera el demonio vence' + amor como sentido último. Material genuinamente nuevo y extensivo que cierra parcialmente las lagunas declaradas en la página.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Se conecta con la taxonomía del mal del canal en [[cuatro-formas-del-mal]].",
+      "content_proposed": "\n### Cuarta forma: la madre oscura como vampira afectiva\n\nEl monográfico de octubre 2023 sobre [[fight-club-1999-film|Fight Club]] añade una cuarta modalidad operativa del mal materno que las tres anteriores no cubrían: la **madre oscura** que ejerce la operación dañina por extracción afectiva sostenida, sin requerir maternidad biológica directa.\n\n> \"Marla no es ninfa ni sucubo: es madre oscura porque recorre grupos de personas desamparadas alimentándose de su dolor,\"\n→ [Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)\n\n> \"Tanto Jack como Marla son cáscaras gemelas sin alma, adictos a la emoción artificial,\"\n→ [Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)\n\nLa cuarta forma se distingue operativamente de las tres anteriores. Donde la neurosis materna absorbe al hijo para nutrirse, la psicosis lo convierte en objeto del delirio, y el vaciamiento sin sustrato lo usa como instrumento de juego, la **madre oscura** opera sin vínculo materno biológico previo: caza por proximidad afectiva en entornos de desamparo y se alimenta del dolor ajeno por extracción sostenida, sin daño calculado y sin maternidad ejercida sobre la víctima. Es modalidad operativa porque no exige relación familiar — opera contra cualquier sujeto vulnerable cuyo afecto pueda extraerse.\n\nLa pieza precisa además la distinción frente a las figuras femeninas oscuras articuladas en [[tipologia-femenina-arquetipica]]: la madre oscura no es ninfa (no seduce por belleza) ni súcubo (no extrae por sexualidad). Su mecánica es la **proximidad afectiva sostenida** en territorio compartido — los grupos de apoyo de Marla son su entorno de caza porque concentran sujetos desamparados que confunden la presencia de Marla con cuidado.\n\nLa caracterización canal-específica de Marla y Jack como 'cáscaras gemelas sin alma' añade una dimensión simétrica al cuadro: la madre oscura no opera necesariamente sobre víctima asimétricamente vulnerable — puede operar sobre par estructural cuyo vacío reconoce como semejante. La gemelaridad afectiva es entonces catalizador del encuentro disociativo, no protección contra él.\n",
+      "wikilinks_introduced": [
+        "fight-club-1999-film",
+        "tipologia-femenina-arquetipica"
+      ],
+      "citations_added": [
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 2709,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)"
+        }
+      ],
+      "rationale": "La página articula tres formas del mal materno (neurosis materna por absorción, locura psicótica con hijo como objeto del delirio, vaciamiento puro sin sustrato psicopatológico). NO contiene la cuarta modalidad operativa donde el daño se ejerce por extracción afectiva sostenida sobre proximidad en entornos de desamparo, sin maternidad biológica directa. Marla como caso paradigmático de esta cuarta forma — vampira afectiva que recorre grupos de apoyo. La pieza añade además la dimensión de gemelaridad afectiva (cáscaras sin alma como par estructural) que las tres formas anteriores no consideraban.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "mark_laguna_resolved",
+      "anchor_passage": "",
+      "content_proposed": "Laguna parcialmente resuelta: la madre oscura como cuarta forma operativa (vampira afectiva por proximidad en entornos de desamparo) toca el flanco de la consorte/ninfa por la vía negativa — Marla NO es ninfa ni sucubo, distinción explícita del canal. Queda pendiente la articulación específica del reverso oscuro de la consorte/ninfa como tipología femenina propia.",
+      "supersedes_laguna_text": "**El reverso oscuro de la consorte/ninfa** queda sin desarrollar en el material disponible: el canal articula el reverso de la virgen (neurosis materna) y de la madre (vaciamiento afectivo), pero la forma oscura específica de la ninfa/consorte no aparece explícitamente en el fragmento recuperado",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "La cuarta forma articulada en el directo (madre oscura como vampira afectiva) no es exactamente la forma oscura de la consorte/ninfa que la laguna declaraba ausente, pero el speaker es explícito en distinguir Marla de las categorías ninfa y sucubo, lo que precisa qué NO es la consorte/ninfa oscura. Resolución parcial — queda pendiente la articulación positiva.",
+      "editorial_intent": "resolve_laguna"
+    },
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Que un canal con talento sea pequeño no es injusto sino normal: la gente consume lo fácil.",
+      "content_proposed": "\n### Lenitivo y dramática: dos categorías canal-específicas del consumo sustitutivo\n\nEl monográfico de octubre 2023 sobre [[fight-club-1999-film|Fight Club]] articula dos categorías operativas que la página tenía implícitas en la tesis nuclear pero no diferenciadas: **lenitivo** y **dramática** como dispositivos consumistas con función psíquica distinta. La distinción es operativa porque cada categoría sustituye una capa diferente del aparato afectivo del sujeto.\n\n> \"La pornografía, el consumo y las compulsiones son lenitivos que sustituyen satisfacciones vitales verdaderas,\"\n→ [Análisis arquetípico de el club de la lucha (29:09)](https://youtu.be/L4zXftKhU6M?t=1749)\n\n> \"Las satisfacciones cortas funcionan mediante la utilización de los instintos: sexo, consumo, entretenimiento,\"\n→ [Análisis arquetípico de el club de la lucha (29:09)](https://youtu.be/L4zXftKhU6M?t=1749)\n\nEl **lenitivo** (en sentido canal-específico) es la categoría de los sustitutos que operan sobre los **instintos básicos** para producir satisfacción breve sin alimentar el motor vital. Pornografía, compras compulsivas, atracones — todos comparten estructura: activación del circuito instintivo + descarga inmediata + retorno al vacío. La pieza precisa el mecanismo operativo del primer nivel del descenso consumista que la sección 'el consumismo como anestesia del vacío existencial' articulaba en plano sintético.\n\n> \"La dramática es el mecanismo de defensa consistente en provocarte emociones porque tu vida no es suficientemente interesante,\"\n→ [Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)\n\n> \"Incluye videojuegos, telenovelas, salseo, programas del corazón: no estar en la realidad porque la realidad no produce emoción suficiente,\"\n→ [Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)\n\n> \"Las personas con depresión profunda preferirían sentir desamor o miedo antes que no sentir absolutamente nada,\"\n→ [Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)\n\nLa **dramática** opera al siguiente nivel del descenso, cuando los lenitivos instintivos ya no bastan: el sujeto fabrica emociones por intermediación cultural — ficciones consumibles, salseo, escándalo permanente — porque su vida real no produce afecto suficiente. La precisión diagnóstica es operativa: pacientes con depresión profunda prefieren afectos negativos a la ausencia de afecto, y la dramática es la forma cultural que canaliza esa preferencia. Videojuegos, telenovelas, programas del corazón cumplen función estructural común: ofrecer afecto por delegación cuando el aparato afectivo propio ya no produce.\n\n#### Distinción operativa lenitivo vs dramática\n\nLa diferencia entre ambas categorías es la capa del aparato sustituida. El lenitivo sustituye el **impulso vital** (sexo, comida, posesión) — opera sobre los instintos básicos. La dramática sustituye el **afecto vivido** (alegría, miedo, ira, tristeza) — opera sobre los registros emocionales superiores. Un sujeto puede usar ambos simultáneamente o secuencialmente; la cadena descendente articulada en el directo precisa que cuando el lenitivo deja de operar, la dramática lo reemplaza, y cuando ésta se agota, queda la pérdida de la esperanza como falsa liberación regresiva (rendición a recibir consuelo como bebé) y finalmente la autolesión como retorno físico al sentir ante la despersonalización terminal.\n\n#### La masculinidad patética como caso operativo del lenitivo\n\n> \"Los hombres castrados pierden la regulación hormonal y feminizan literalmente,\"\n→ [Análisis arquetípico de el club de la lucha (31:10)](https://youtu.be/L4zXftKhU6M?t=1870)\n\n> \"Jack, como ellos, no tiene vigor ni impulso: lo poco que tiene lo masturba comprando muebles,\"\n→ [Análisis arquetípico de el club de la lucha (31:10)](https://youtu.be/L4zXftKhU6M?t=1870)\n\n> \"Lo patético no es ridículo sino aquello sin fuerza ni potencia que causa tristeza al verlo,\"\n→ [Análisis arquetípico de el club de la lucha (31:10)](https://youtu.be/L4zXftKhU6M?t=1870)\n\nLa masculinidad patética articulada por el directo opera como caso paradigmático del lenitivo aplicado al impulso solar masculino: Jack 'masturba comprando muebles' lo poco que tiene de adgrediere, descargando por consumo el impulso vital que no tiene canal genuino disponible. La precisión etimológica del speaker es operativa — patético no es ridículo (categoría moral) sino sin fuerza ni potencia (categoría afectiva), causa tristeza al verlo, no risa. La conexión con [[adgrediere-masculino]] es directa: el lenitivo consumista es el destino estructural del adgrediere bloqueado en una cultura sin canales legítimos para el impulso solar.\n",
+      "wikilinks_introduced": [
+        "fight-club-1999-film",
+        "adgrediere-masculino"
+      ],
+      "citations_added": [
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 1749,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (29:09)](https://youtu.be/L4zXftKhU6M?t=1749)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 2172,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (36:12)](https://youtu.be/L4zXftKhU6M?t=2172)"
+        },
+        {
+          "video_id": "L4zXftKhU6M",
+          "timestamp_seconds": 1870,
+          "cite_markdown": "[Análisis arquetípico de el club de la lucha (31:10)](https://youtu.be/L4zXftKhU6M?t=1870)"
+        }
+      ],
+      "rationale": "La página articula múltiples mecanismos del consumismo (marketing como venta de identidad, homogeneización por plataformas, mercantilización afectiva en apps de citas, FOMO, hiperpromesa de socialización, marketing implícito) pero NO contiene las dos categorías canal-específicas LENITIVO (sustitutos del impulso vital vía instintos) y DRAMÁTICA (sustitutos del afecto vivido vía intermediación cultural). Distinción operativa con consecuencia diagnóstica: cada categoría sustituye una capa distinta del aparato afectivo y la cadena descendente entre ambas precisa el mecanismo del descenso consumista. Conecta además con adgrediere-masculino vía la masculinidad patética como caso del lenitivo aplicado al impulso solar bloqueado.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Generación criada por madres / cultura hiperdesplazada hacia lo femenino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico cultural foundational del directo (04:59) que abre el análisis de la condición depresiva masculina. Capturado en pending_update a fight-club-1999-film con wikilink a sindrome-del-nino-masculino. Sin lectura previa de sindrome-del-nino-masculino, no propongo pending_update directo a esa página — capturado como mención que enriquece el concepto para revisión humana posterior.",
+      "quote_evidence": "Somos una generación criada por nuestras madres",
+      "review_priority": "medium",
+      "review_priority_reason": "Diagnóstico cultural recurrente en el corpus del canal. Worth verificar si sindrome-del-nino-masculino o crisis-del-amor-pareja-y-maternidad-en-proxy ya articulan esto desde otros directos.",
+      "enriches_concept": "sindrome-del-nino-masculino"
+    },
+    {
+      "surface_form": "memoria disociada y estructura de flashback",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de la memoria como compartimentos estancos que pertenecen a dos personas diferentes y la película como reconstrucción retrospectiva de Jack al ponerse la pistola en la boca. Capturado en pending_update a fight-club-1999-film como dispositivo narrativo del film.",
+      "quote_evidence": "La identidad disociativa implica compartimentos estancos de memoria que pertenecen a dos personas diferentes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fight-club-1999-film"
+    },
+    {
+      "surface_form": "tierra cero: neurosis suicida con voz interior radical",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del impulso suicida como voz interior que propone destrucción total como solución radical. Capturado en pending_update a fight-club-1999-film como pieza del cuadro depresivo.",
+      "quote_evidence": "La parte más primitiva de Jack quiere destruir todo para empezar de nuevo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fight-club-1999-film"
+    },
+    {
+      "surface_form": "explosión del apartamento como ruptura psíquica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica del evento narrativo — el apartamento explotando como metáfora visual de la psique rompiéndose en dos tras acumular contención excesiva. Sin valor enciclopédico independiente — análisis intra-película capturado en promote_new del film (página existente).",
+      "quote_evidence": "El apartamento explotando representa la psique rompiéndose en dos tras acumular demasiada contención,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fight-club-1999-film"
+    },
+    {
+      "surface_form": "poder absoluto de no tener miedo / disocialidad como virus",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del psicópata como sujeto sin instinto de autoconservación cuya disocialidad opera como virus reclutando 'gente llena de gas acumulado hasta que una chispa les hace explotar'. Material que toca la dinámica de Tyler como líder sectario y enlaza con psicologia-del-activista-en-proxy. Capturado en pending_update a fight-club-1999-film.",
+      "quote_evidence": "Tyler recluta provocando a gente llena de gas acumulado hasta que una chispa les hace explotar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fight-club-1999-film"
+    },
+    {
+      "surface_form": "secta de Tyler / líder carismático sustituyendo al padre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura del Proyecto Mayhem como dinámica sectaria. La página existente menciona en lagunas el Proyecto Mayhem como tema no integrado al análisis arquetípico — la mención del directo enlaza con esa laguna sin cerrarla completamente.",
+      "quote_evidence": "Las personas vacías caen en la secta de Tyler como caen en cualquier secta: el líder carismático sustituye la falta de padre y de propósito,",
+      "review_priority": "medium",
+      "review_priority_reason": "El Proyecto Mayhem está declarado como laguna en la página fight-club-1999-film. La conexión con líder carismático sustitutivo del padre es hilo a desarrollar si recurre.",
+      "enriches_concept": "fight-club-1999-film"
+    },
+    {
+      "surface_form": "Pinocho (referencia metafórica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "No aparece explícitamente en el summary de este directo. Verificación negativa.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Memento (mencionada implícitamente como contraste)",
+      "reason_code": "already_captured",
+      "reason_detail": "Memento aparece en la página existente fight-club-1999-film como contraste con el TID auténtico ('Memento sería más representativo de lo que ocurriría con 50 personalidades recurrentes reales'). No se menciona en este summary específico.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Chuck Palahniuk como autor de la novela original",
+      "reason_code": "passing_mention",
+      "reason_detail": "El directo no menciona explícitamente a Palahniuk en el summary. La novela original (1996) está declarada como laguna en la página existente fight-club-1999-film.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fight-club-1999-film"
+    },
+    {
+      "surface_form": "estado de naturaleza vs civilización (referencia a Hobbes/Rousseau)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención filosófica genérica sobre el estado de naturaleza como destino de Tyler (bestialidad, no paz). Sin elaboración del marco filosófico clásico — vehículo del argumento contra el regreso primitivista. Capturado en pending_update.",
+      "quote_evidence": "El demonio quiere devolver a la gente al estado de naturaleza, pero ese estado sería pura bestialidad, no paz,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "fight-club-1999-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 6,
+    "promoted_new": 0,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

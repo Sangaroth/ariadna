@@ -1,0 +1,414 @@
+{
+  "video_id": "fzEDQZIqKwg",
+  "video_title": "Caperucita Roja: ¿A quién tienes miedo?",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Caperucita Roja (cuento de Perrault)",
+      "canonical_guess": "caperucita-roja-cuento",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 110,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El tema del cuento es una parte concreta del mito lunar (el gran mito que contiene lo femenino arquetípico),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El cuento es un Génesis donde lo salvaje (serpiente/lobo) susurra a lo femenino para cometer pecado,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~110 min) dedicado al análisis arquetípico de Caperucita Roja con lectura íntegra del cuento de Perrault. Per scope §2.3, ≥30 min satisface criterio + lectura íntegra del cuento (criterio §2.3 v0.3 read_in_session). La obra opera como caso paradigmático del Génesis femenino: parte específica del mito lunar donde lo femenino se encuentra con el mal por seducción del intelecto.",
+      "quote_evidence": "La versión preferida del análisis: no hay Caperucita ni abuela, hay una mujer encontrándose con el mal siempre demasiado tarde,"
+    },
+    {
+      "surface_form": "tres formas de feminidad sana (doncella/consorte/abuela) + síndrome de Wendy como primera corrupción de la gracia",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Caperucita (doncella), la madre (consorte/Venus) y la abuela (Gea/gran madre/matriarca) representan las tres formas de feminidad sana del mito lunar,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La primera corrupción de la gracia es el síndrome de Wendy: una atenea que deja de estar en el aquí y ahora,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula los tres dones (gracia/belleza/esperanza), las tres formas tipológicas (virgen-consorte-madre), las cuatro formas del mal materno + cuarta (madre oscura) + Medusa como bruja terminal + lo femenino primordial cosmogónico + tres noches de la diosa + sacrificio final como cura + mujer del Apocalipsis. NO contiene: (1) la articulación TRIPARTITA específica DONCELLA/CONSORTE/ABUELA aplicada a Caperucita-madre-abuela del cuento (correspondencia con Atenea joven / Venus / Gea-matriarca como formas sanas del mito lunar); (2) el SÍNDROME DE WENDY como PRIMERA CORRUPCIÓN de la gracia (atenea que deja de estar en el aquí y ahora); (3) la conexión Eros y Psique como mismo mito (mujer debe aplicar la mente para tener relación sexo-afectiva adecuada o encontrarse con el mal). Articulación operativa nueva del aparato.",
+      "quote_evidence": "La gracia es la virtud femenina que permite moverse en libertad y equilibrio con lo natural (Blancanieves con los animales, Caperucita con las flores),"
+    },
+    {
+      "surface_form": "Caperucita como Génesis femenino: Eva susurrada por la serpiente",
+      "canonical_guess": "genesis-mitologico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El cuento es un Génesis donde lo salvaje (serpiente/lobo) susurra a lo femenino para cometer pecado,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El mal se aprovecha de que lo femenino puede no distinguir si una idea es propia o proviene del mal,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula el Génesis como categoría mitológica (al principio no había nada, y de repente algo fue), el isomorfismo Génesis ↔ síntesis mental, Génesis tolkieniano (Música de los Ainur), Génesis disfuncional (tres pecados originales en Unicorn Wars). NO contiene la articulación de CAPERUCITA ROJA como GÉNESIS FEMENINO específico — modalidad donde la estructura Eva-serpiente-pecado opera mediante susurro al oído de lo femenino con el mal aprovechándose de la dificultad de distinguir si una idea es propia o proviene del exterior. Caso operativo del Génesis aplicado al territorio femenino-individual frente al cosmogónico tolkieniano y al disfuncional unicorn-wariano.",
+      "quote_evidence": "Es el Génesis: la estructura se usaba también para advertencias no sexuales (\"no salgáis de noche\"),"
+    },
+    {
+      "surface_form": "acostarse con el lobo como pecado irreversible / expulsión del paraíso",
+      "canonical_guess": "perdida-inocencia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La \"devoración\" no es muerte sino fin de la inocencia: es la expulsión del paraíso, el pecado irreversible del Génesis,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El reconocimiento progresivo del mal (orejas, ojos, boca demasiado grandes) ocurre después del acto: primero se acuesta, después se da cuenta,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la inocencia como estado descriptivo, taxonomía ingenuidad/inocencia/corrupción, criterio de preparación, remordimiento como afecto del paraíso perdido (mi insert previo via Asimov), muerte de la infancia + identidad infantil unificada (mi insert previo via Los Rescatadores). NO contiene la modalidad ESPECÍFICA del CUENTO POPULAR como dispositivo de articulación del pecado irreversible: la devoración no como muerte sino como FIN DE LA INOCENCIA + reconocimiento progresivo del mal POSTERIOR al acto (primero se acuesta, después ve los ojos demasiado grandes). Caso operativo donde la estructura Génesis opera en el cuento popular como advertencia: el cuento NO enseña a evitar el mal sino que advierte que la confusión ante el mal es inevitable.",
+      "quote_evidence": "El cuento asume que la confusión ante el mal es inevitable: no enseña a evitarlo sino que advierte de que ocurrirá,"
+    },
+    {
+      "surface_form": "Caperucita como mito lunar / encuentro con el mal en transición",
+      "canonical_guess": "mito-lunar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 90,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El tema del cuento es una parte concreta del mito lunar (el gran mito que contiene lo femenino arquetípico),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "No es mito lunar completo porque falta el resurgir: no hay muerte metafórica ni catábasis propiamente dicha,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación foundational de Caperucita como FRAGMENTO ESPECÍFICO del mito lunar — no monomito femenino completo (falta el resurgir, no hay catábasis ni muerte metafórica) sino segmento del encuentro con el mal en la transición de inocencia a destino. Sin lectura previa de mito-lunar en este barrido, capturado en promote_new del cuento con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "Tanto en el mito solar como en el lunar hay un encuentro con el mal durante la transición de la inocencia al destino,"
+    },
+    {
+      "surface_form": "love bombing como camino de las mariposas / seducción del intelecto",
+      "canonical_guess": "consumismo-critica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Encaja con el love bombing actual: muestras excesivas de romanticismo histriónico que confunden e impiden razonar,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación que conecta el camino de las mariposas en Caperucita (entretenerse con flores mientras el lobo devora a la abuelita) con el LOVE BOMBING contemporáneo (muestras excesivas de romanticismo histriónico que impiden razonar). La página consumismo-critica ya articula el love bombing como dispositivo (mi insert previo no, el del corpus original). Capturado en promote_new del cuento con wikilink y como discard con enriches_concept.",
+      "quote_evidence": "Caperucita entreteniéndose con flores y avellanas es el disfrutar del momento mientras el lobo devora la parte sabia,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "caperucita-roja-cuento",
+      "canonical_name": "Caperucita Roja (cuento, Charles Perrault, 1697)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.literature",
+      "primary_domains": [
+        "arts.literature",
+        "humanities.religion",
+        "social.psychology.jungian"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus + read_in_session",
+      "promotion_criterion_detail": "Vídeo monográfico de ~110 min con lectura íntegra del cuento de Perrault (versión 1697) + análisis arquetípico sostenido. Per scope §2.3 v0.3, lectura íntegra cumple criterio 'análisis dedicado'. read_in_session: true.",
+      "one_line_summary": "Análisis arquetípico monográfico del cuento de Caperucita Roja en versión Perrault leído íntegro como GÉNESIS FEMENINO específico — fragmento del mito lunar donde la doncella (Caperucita) se encuentra con el mal (lobo) por seducción del intelecto. La interpretación preferida del canal: NO hay Caperucita ni abuela ni lobo — la historia es la de una mujer (consorte) que sale al exterior con su gracia adornada (caperuza roja) buscando alimento sexo-afectivo, y se encuentra siempre demasiado tarde con el mal. La estructura es Eva susurrada por la serpiente: el lobo NO ataca por fuerza sino susurrando al oído, y el mal opera porque lo femenino puede no distinguir si una idea es propia o proviene del exterior. Tres formas de feminidad sana del mito lunar (doncella/consorte/abuela = Atenea/Venus/Gea); la primera corrupción de la gracia es el SÍNDROME DE WENDY (atenea que deja de estar en el aquí y ahora). El lobo en la cama de la abuelita = seducción del INTELECTO antes que de los instintos (love bombing, narcisismo del objeto compartido); Caperucita acostándose con el lobo = pecado IRREVERSIBLE (devoración no como muerte sino como expulsión del paraíso, fin de la inocencia con reconocimiento del mal POSTERIOR al acto). El cuento NO enseña a evitar el mal — ASUME que la confusión ante el mal es inevitable y advierte que ocurrirá. Versiones del leñador (intelecto que divide al mal con la espada) o del lobo dormido relleno de piedras (represión del Eros) son finales variables que no afectan la estructura arquetípica esencial.",
+      "frontmatter_fields_proposed": {
+        "year": 1697,
+        "studio_or_publisher": "Histoires ou contes du temps passé",
+        "medium": "cuento",
+        "author": "Charles Perrault",
+        "read_in_session": true
+      },
+      "relations_to_existing": [
+        {
+          "type": "manifestation_of",
+          "to": "mito-lunar",
+          "weight": "canonical",
+          "note": "fragmento específico del mito lunar — encuentro con el mal en la transición de inocencia a destino, sin catábasis completa ni resurgir (no es mito lunar completo)"
+        },
+        {
+          "type": "manifestation_of",
+          "to": "genesis-mitologico",
+          "weight": "canonical",
+          "note": "Génesis femenino específico: Eva susurrada por la serpiente (lobo). La estructura usaba para advertencias no sexuales también ('no salgáis de noche')"
+        },
+        {
+          "type": "exemplifies",
+          "to": "perdida-inocencia",
+          "weight": "canonical",
+          "note": "la 'devoración' no es muerte sino expulsión del paraíso — pecado irreversible con reconocimiento del mal POSTERIOR al acto (orejas/ojos/boca demasiado grandes solo se ven después)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "diosa-blanca",
+          "weight": "canonical",
+          "note": "tres formas de feminidad sana del mito lunar (doncella/consorte/abuela = Atenea/Venus/Gea); la gracia como virtud que permite moverse en equilibrio con lo natural (Caperucita con las flores)"
+        },
+        {
+          "type": "exemplifies",
+          "to": "sindrome-wendy",
+          "weight": "strong",
+          "note": "primera corrupción de la gracia femenina: una atenea que deja de estar en el aquí y ahora — variante específica del cuadro Wendy aplicada a la doncella ingenua"
+        },
+        {
+          "type": "compared_with",
+          "to": "consumismo-critica",
+          "weight": "strong",
+          "note": "el camino de las mariposas (entretenerse con flores mientras el lobo devora a la abuelita) articulado como love bombing contemporáneo — muestras excesivas de romanticismo histriónico que impiden razonar"
+        },
+        {
+          "type": "compared_with",
+          "to": "lilit-mito",
+          "weight": "tangential",
+          "note": "Eva como modalidad del mal anterior a la individuación femenina — distinta de Lilit (mal radical pre-individuativo): Eva opera dentro del compromiso ya formado por seducción del intelecto"
+        },
+        {
+          "type": "references",
+          "to": "cuatro-elementos-arquetipicos",
+          "weight": "weak",
+          "note": "el leñador con la espada cifra el INTELECTO masculino que divide al mal en partes manejables — misma estructura que la Dama del Lago entregando Excalibur a Arturo"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min + lectura íntegra del cuento. La obra es caso operativo paradigmático del Génesis femenino y del fragmento del mito lunar donde la doncella se encuentra con el mal por seducción del intelecto. Aporta articulaciones operativas nuevas: la consorte proyectada como doncella saliendo al exterior con la gracia adornada; la seducción del intelecto antes que de los instintos (lobo en la cama de abuelita); el reconocimiento del mal posterior al acto irreversible; el cuento como advertencia (no como pedagogía de evitación) que asume la confusión inevitable ante el mal. Material foundational del aparato del canal sobre la psique femenina en transición."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El sacrificio femenino opera por SU PROPIA NATURALEZA, no por la consecuencia ulterior de un acto heroico.",
+      "content_proposed": "\n\n## Las tres formas de feminidad sana en el mito lunar: Atenea / Venus / Gea\n\nEl monográfico sobre [[caperucita-roja-cuento|Caperucita Roja]] (sept 2024) articula la TRIPARTICIÓN de feminidad sana específica del mito lunar a través de las tres figuras del cuento — pieza que las secciones anteriores tenían en plano tipológico estático.\n\n> \"Caperucita (doncella), la madre (consorte/Venus) y la abuela (Gea/gran madre/matriarca) representan las tres formas de feminidad sana del mito lunar,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:01:51)](https://youtu.be/fzEDQZIqKwg?t=3711)\n\n> \"Existe además una forma triple oscura que contiene las formas de feminidad corrupta: la bruja y la madre oscura,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:01:51)](https://youtu.be/fzEDQZIqKwg?t=3711)\n\n> \"Que madre y abuela \\\"estén locas\\\" por Caperucita significa que las otras formas de feminidad reconocen la gracia de la diosa y saben que la niña deberá convertirse en consorte,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:01:51)](https://youtu.be/fzEDQZIqKwg?t=3711)\n\nLa pieza articula la tripartición específica del mito lunar:\n\n1. **Doncella = Atenea** (Caperucita): virgen, en contacto con la naturaleza, portadora de la gracia, vulnerable por la ingenuidad. Iconografía: con flores y avellanas, en el bosque, con caperuza roja que adorna su belleza inevitable.\n2. **Consorte = Venus** (la madre): la mujer en la fase intermedia donde la gracia ya se ha manifestado completamente y opera como sostén del vínculo sexo-afectivo y de la transmisión generacional.\n3. **Abuela = Gea / gran madre / matriarca**: la fase de sabiduría acumulada, intelecto que se ha integrado con la experiencia, función de transmisión cíclica de las capacidades de lo femenino.\n\nLa pieza añade también una operación afectiva específica entre las tres: las dos formas mayores ('estén locas' por Caperucita) RECONOCEN la gracia de la doncella y SABEN que se convertirá en consorte. La cadena cíclica opera por reconocimiento: la consorte ve en la doncella su propia fase anterior; la matriarca ve en la doncella su propia fase joven y en la consorte su propia fase intermedia. Sin ese reconocimiento mutuo, la transmisión cíclica de la feminidad sana se rompe.\n\n## La gracia como movimiento en equilibrio con lo natural\n\n> \"La gracia es la virtud femenina que permite moverse en libertad y equilibrio con lo natural (Blancanieves con los animales, Caperucita con las flores),\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:00:51)](https://youtu.be/fzEDQZIqKwg?t=3651)\n\nLa pieza precisa la GRACIA articulada en la cadena ordenada documentada arriba (gracia → belleza → esperanza). La gracia opera como CAPACIDAD DE MOVIMIENTO en equilibrio con lo natural: la doncella se mueve libremente entre los animales (Blancanieves) o entre las flores (Caperucita) sin perturbar el orden natural, y el orden natural responde recibiéndola. Es la modalidad ORIGINAL del don — sin gracia, las dos virtudes posteriores (belleza, esperanza) carecen de sustrato.\n\n## La primera corrupción de la gracia: el síndrome de Wendy\n\n> \"La primera corrupción de la gracia es el síndrome de Wendy: una atenea que deja de estar en el aquí y ahora,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:00:51)](https://youtu.be/fzEDQZIqKwg?t=3651)\n\n> \"El mito de Eros y Psique cuenta lo mismo: la mujer debe aplicar la mente para tener una relación sexo-afectiva adecuada o encontrarse con el mal,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:00:51)](https://youtu.be/fzEDQZIqKwg?t=3651)\n\nLa pieza articula la PRIMERA modalidad de corrupción del aparato luminoso femenino: el [[sindrome-wendy|síndrome de Wendy]] como ATENEA QUE DEJA DE ESTAR EN EL AQUÍ Y AHORA. La doncella no se corrompe por contacto con el mal externo (esa es modalidad posterior) sino por SALIR DEL PRESENTE PARTICIPATIVO — proyectar el ánima hacia el futuro fantástico (cuidadora prematura) o hacia el pasado idealizado (eterna doncella). La conexión con el mito de Eros y Psique cierra la articulación: Psique aplicando la lámpara para mirar a Eros mientras duerme cifra exactamente la operación que la doncella graciosa NO debe hacer prematuramente — examinar el objeto del deseo antes de tener la mente preparada para sostener lo que verá.\n\nLa cadena articulada por las dos secciones — gracia como equilibrio con lo natural → síndrome de Wendy como primera corrupción → encuentro con el mal por seducción del intelecto (el lobo en la cama de la abuelita) — completa el aparato del cuadro corrupto en su modalidad inicial. La gracia se pierde primero por desplazamiento temporal (Wendy), después por contacto con el mal (Caperucita), y solo en formas terminales por bruja o madre oscura.\n",
+      "wikilinks_introduced": [
+        "caperucita-roja-cuento",
+        "sindrome-wendy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fzEDQZIqKwg",
+          "timestamp_seconds": 3711,
+          "cite_markdown": "[Caperucita Roja: ¿A quién tienes miedo? (1:01:51)](https://youtu.be/fzEDQZIqKwg?t=3711)"
+        },
+        {
+          "video_id": "fzEDQZIqKwg",
+          "timestamp_seconds": 3651,
+          "cite_markdown": "[Caperucita Roja: ¿A quién tienes miedo? (1:00:51)](https://youtu.be/fzEDQZIqKwg?t=3651)"
+        }
+      ],
+      "rationale": "La página articula los tres dones, las cuatro formas del mal materno + cuarta (madre oscura), tres dones como secuencia performativa, Medusa como bruja terminal, lo femenino primordial cosmogónico, mujer del Apocalipsis (mi insert previo via La Llegada Parte 1), tres noches de la diosa + sacrificio final como cura (mis inserts previos via Nosferatu). NO contiene: (1) la TRIPARTICIÓN específica DONCELLA/CONSORTE/ABUELA aplicada con figuras nominales (Atenea/Venus/Gea) y la operación de reconocimiento mutuo entre las tres formas; (2) la GRACIA como capacidad de movimiento en equilibrio con lo natural (Blancanieves con animales / Caperucita con flores); (3) el síndrome de Wendy como PRIMERA CORRUPCIÓN de la gracia + conexión con el mito de Eros y Psique como mismo mito. Articulaciones operativas nuevas que completan el aparato del cuadro luminoso y su corrupción inicial.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "genesis-mitologico",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Unicorn Wars la actualiza obra-por-obra, mostrando que el Génesis puede operar como categoría tanto de la conjunción exitosa (Tolkien) como de la disolución (la mala conjunción polar de Unicorn Wars que engendra al hombre como abominación). Es el caso complementario al Génesis tolkieniano: donde la Música de los Ainur articula la emanación armónica desde el Uno, los tres pecados articulan el Génesis del hombre como mala integración.",
+      "content_proposed": "\n\n## Caperucita Roja como Génesis femenino: el susurro de la serpiente\n\nEl monográfico sobre [[caperucita-roja-cuento|Caperucita Roja]] (sept 2024) articula una tercera modalidad operativa del Génesis que las secciones anteriores tenían implícita: el GÉNESIS FEMENINO como susurro al oído de lo femenino donde el mal opera por seducción del intelecto.\n\n> \"El cuento es un Génesis donde lo salvaje (serpiente/lobo) susurra a lo femenino para cometer pecado,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (58:19)](https://youtu.be/fzEDQZIqKwg?t=3499)\n\n> \"El mal se aprovecha de que lo femenino puede no distinguir si una idea es propia o proviene del mal,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (58:19)](https://youtu.be/fzEDQZIqKwg?t=3499)\n\n> \"Es el Génesis: la estructura se usaba también para advertencias no sexuales (\\\"no salgáis de noche\\\"),\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:44:57)](https://youtu.be/fzEDQZIqKwg?t=6297)\n\nLa pieza articula una tercera modalidad operativa del Génesis junto a las dos ya documentadas (Génesis tolkieniano como conjunción armónica desde el Uno; Génesis disfuncional de Unicorn Wars como mala integración). El **Génesis femenino-individual** opera por mecánica específica:\n\n1. **Susurro al oído** — el mal NO ataca por fuerza directa sino aproximándose al sujeto femenino con palabras que parecen razonables. La iconografía Eva-serpiente cifra el dispositivo: la voz que ofrece conocimiento sin imponerlo; el sujeto debe acceder por elección aparente.\n2. **Indistinción entre idea propia e idea ajena** — el aprovechamiento estructural del mecanismo es que lo femenino puede no distinguir si una idea es propia o proviene del exterior. La consecuencia operativa: el sujeto opera con la idea como si fuera suya cuando estructuralmente le fue introducida desde fuera. La mecánica enlaza con [[fenomenologia-trans-en-proxy]] sobre la cognición de fuera adentro y de dentro afuera — cuando ambas direcciones se confunden, el sujeto carece de criterio para distinguir el origen del contenido representacional.\n3. **Aplicabilidad cross-temática** — la estructura se usaba para advertencias no sexuales también ('no salgáis de noche'). El Génesis femenino NO se reduce a la sexualidad — opera en cualquier dominio donde lo femenino accede a un territorio nuevo sin la mente preparada para sostener lo que encontrará.\n\nLa pieza completa el catálogo de modalidades del Génesis con un tercer caso: junto al Génesis cosmogónico (todo desde la nada — Tolkien) y al Génesis disfuncional (mala integración — Unicorn Wars), el Génesis femenino-individual articula la modalidad donde el sujeto femenino atraviesa el cruce a su destino y se encuentra con el mal en condiciones donde la confusión es estructuralmente inevitable. La consecuencia editorial: el Génesis NO es solo cosmogonía sino TAMBIÉN microestructura del cruce individual — el cuento popular como dispositivo pedagógico que advierte de la mecánica del cruce sin pretender enseñar a evitarlo.\n",
+      "wikilinks_introduced": [
+        "caperucita-roja-cuento",
+        "fenomenologia-trans-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fzEDQZIqKwg",
+          "timestamp_seconds": 3499,
+          "cite_markdown": "[Caperucita Roja: ¿A quién tienes miedo? (58:19)](https://youtu.be/fzEDQZIqKwg?t=3499)"
+        },
+        {
+          "video_id": "fzEDQZIqKwg",
+          "timestamp_seconds": 6297,
+          "cite_markdown": "[Caperucita Roja: ¿A quién tienes miedo? (1:44:57)](https://youtu.be/fzEDQZIqKwg?t=6297)"
+        }
+      ],
+      "rationale": "La página articula el Génesis como categoría mitológica con dos casos operativos (Tolkieniano como conjunción armónica + Unicorn Wars como Génesis disfuncional). NO contiene la TERCERA MODALIDAD: el Génesis femenino-individual articulado en Caperucita como susurro al oído (Eva-serpiente) que opera por la indistinción entre idea propia e idea ajena. La pieza añade un caso operativo al catálogo de modalidades del Génesis que extiende el aparato del cosmogónico-cosmológico al microestructural-individual.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "perdida-inocencia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La diferenciación adulta de los componentes (saber que ser guapo no garantiza ser elegido; saber que ser elegido no es la misma cosa que ser amado) ES una pérdida — pérdida de inocencia en sentido específico: el sujeto pierde la unidad operativa del complejo y queda con tres categorías independientes cuya alineación se vuelve trabajo permanente.",
+      "content_proposed": "\n\n## El reconocimiento del mal posterior al acto: la mecánica del pecado irreversible\n\nEl monográfico sobre [[caperucita-roja-cuento|Caperucita Roja]] (sept 2024) articula la mecánica TEMPORAL específica del pecado irreversible que las secciones anteriores tenían en plano descriptivo (remordimiento como afecto del paraíso perdido, muerte de la infancia como evento estructural).\n\n> \"La \\\"devoración\\\" no es muerte sino fin de la inocencia: es la expulsión del paraíso, el pecado irreversible del Génesis,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:25:09)](https://youtu.be/fzEDQZIqKwg?t=5109)\n\n> \"El reconocimiento progresivo del mal (orejas, ojos, boca demasiado grandes) ocurre después del acto: primero se acuesta, después se da cuenta,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:25:09)](https://youtu.be/fzEDQZIqKwg?t=5109)\n\n> \"El cuento asume que la confusión ante el mal es inevitable: no enseña a evitarlo sino que advierte de que ocurrirá,\"\n→ [Caperucita Roja: ¿A quién tienes miedo? (1:43:27)](https://youtu.be/fzEDQZIqKwg?t=6207)\n\nLa pieza añade tres niveles encadenados que la página tenía dispersos:\n\n1. **Devoración como fin de la inocencia, no como muerte**: la lectura ingenua del cuento popular interpreta la devoración del lobo como muerte literal. La lectura arquetípica precisa: la devoración cifra la EXPULSIÓN DEL PARAÍSO — pecado irreversible del Génesis aplicado al cruce individual. El sujeto no muere; deja de ser quien era. La distinción es operativa: la doncella devorada NO es destruida sino TRANSFORMADA EN OTRA — la consorte que ya no puede regresar al estado pre-pecaminoso anterior.\n2. **Reconocimiento progresivo POSTERIOR al acto**: la iconografía precisa del cuento (orejas, ojos, boca demasiado grandes que Caperucita observa solo después de acostarse con el lobo) cifra la mecánica TEMPORAL del pecado: el sujeto NO se da cuenta del mal antes del acto, se da cuenta DESPUÉS. La progresión orejas → ojos → boca articula los niveles sucesivos del reconocimiento (primero los signos lejanos, después los más íntimos, finalmente el órgano devorador). La consecuencia operativa: el cuadro NO es ignorancia voluntaria ni autoengaño consciente — es estructuralmente inevitable la confusión PRE-acto y estructuralmente inevitable el reconocimiento POST-acto.\n3. **Función pedagógica advertencial NO evitativa**: el cuento NO enseña a evitar el mal — ASUME que la confusión ante el mal es inevitable y advierte que ocurrirá. La distinción pedagógica es operativa: una pedagogía evitativa querría dar criterios para reconocer al lobo antes del acto; el cuento precisa que esos criterios NO existen como aplicables al sujeto en el momento del cruce. La sabiduría del cuento es preparar al sujeto para que cuando ocurra (no si ocurre), pueda procesar el reconocimiento posterior sin destruirse.\n\nLa cadena articulada cierra el aparato del cuadro: el remordimiento como afecto (mi insert previo) opera precisamente sobre el reconocimiento posterior al acto irreversible. La muerte de la infancia (mi insert previo via Los Rescatadores) ocurre precisamente cuando el sujeto deja de creer que existe modo de evitar el pecado y acepta que el cruce es inevitable. La modalidad Caperucita añade el COMPONENTE TEMPORAL específico: el sujeto opera sin saber, descubre lo que pasó después, y el remordimiento es justamente el afecto de ese descubrimiento.\n",
+      "wikilinks_introduced": [
+        "caperucita-roja-cuento"
+      ],
+      "citations_added": [
+        {
+          "video_id": "fzEDQZIqKwg",
+          "timestamp_seconds": 5109,
+          "cite_markdown": "[Caperucita Roja: ¿A quién tienes miedo? (1:25:09)](https://youtu.be/fzEDQZIqKwg?t=5109)"
+        },
+        {
+          "video_id": "fzEDQZIqKwg",
+          "timestamp_seconds": 6207,
+          "cite_markdown": "[Caperucita Roja: ¿A quién tienes miedo? (1:43:27)](https://youtu.be/fzEDQZIqKwg?t=6207)"
+        }
+      ],
+      "rationale": "La página articula la inocencia como estado descriptivo, taxonomía ingenuidad/inocencia/corrupción, criterio de preparación, remordimiento como afecto del paraíso perdido (mi insert via Asimov), muerte de la infancia + identidad infantil unificada (mi insert via Los Rescatadores). NO contiene la mecánica TEMPORAL específica del pecado irreversible: devoración como fin de la inocencia (no como muerte literal); reconocimiento progresivo POSTERIOR al acto (orejas/ojos/boca demasiado grandes); función pedagógica ADVERTENCIAL NO EVITATIVA del cuento popular. Tres articulaciones operativas nuevas que completan el aparato del cuadro con su componente temporal-pedagógico.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Charles Perrault: Histoires ou contes du temps passé (1697)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El autor está identificado como compilador del cuento. El directo no desarrolla biografía ni el corpus de Perrault más allá del cuento específico. Capturado como frontmatter-field en promote_new del cuento.",
+      "quote_evidence": "Probablemente Perrault escribía para la corte del rey, no para niños; el cuento tiene origen popular mucho más antiguo que el protestantismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "caperucita-roja-cuento"
+    },
+    {
+      "surface_form": "estructura esencial fija vs elementos variables del cuento popular",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre los cuentos populares: la estructura ARQUETÍPICA es fija (tema central, encuentro con el mal, irreversibilidad) mientras los elementos contextuales (contenido de la cesta, desenlace, presencia o ausencia del leñador) son variables. Capturado en promote_new del cuento.",
+      "quote_evidence": "Los elementos no esenciales (como el final) pueden variar entre versiones sin alterar el tema del cuento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "caperucita-roja-cuento"
+    },
+    {
+      "surface_form": "encuentro con el mal: ingenuo, encarnado o no personificado",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tipología canal-específica de tres modalidades del encuentro con el mal en el monomito: encuentro ingenuo (no se reconoce o surge de donde no debería), encarnado (dragón, lobo — produce terror porque tiene objeto), no personificado (caos, desorden — produce angustia o misterium fascinans). Capturado en promote_new del cuento. Categoría que merece desarrollo si recurre.",
+      "quote_evidence": "El mal encarnado (dragón, lobo) produce terror porque tiene objeto; el mal no personificado (caos, desorden) produce angustia o misterium fascinans,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tipología canal-específica del encuentro con el mal que enriquece dragon-arquetipo y trauma-en-proxy. Worth verificar si recurre.",
+      "enriches_concept": "dragon-arquetipo"
+    },
+    {
+      "surface_form": "leñador con espada como intelecto que divide al mal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica del leñador como intelecto masculino: la espada categoriza, secciona el caos en partes manejables. Misma estructura que la Dama del Lago entregando Excalibur al Rey Arturo. Capturado en promote_new del cuento con wikilink a cuatro-elementos-arquetipicos.",
+      "quote_evidence": "Es la misma estructura que la Dama del Lago entregando Excalibur al Rey Arturo: la diosa entrega el intelecto al dios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuatro-elementos-arquetipicos"
+    },
+    {
+      "surface_form": "Eros y Psique como mismo mito que Caperucita",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica: el mito griego de Eros y Psique cuenta lo mismo que Caperucita — la mujer debe aplicar la mente para tener relación sexo-afectiva adecuada o encontrarse con el mal. Capturado en promote_new del cuento. Categoría que merece desarrollo si recurre.",
+      "quote_evidence": "El mito de Eros y Psique cuenta lo mismo: la mujer debe aplicar la mente para tener una relación sexo-afectiva adecuada o encontrarse con el mal,",
+      "review_priority": "medium",
+      "review_priority_reason": "Eros y Psique como mito clásico paralelo al cuento popular podría merecer entity_work page propia si recurre con análisis sustantivo dedicado.",
+      "enriches_concept": "caperucita-roja-cuento"
+    },
+    {
+      "surface_form": "catábasis cristiana vs descenso arquetípico a los infiernos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica: la catábasis cristiana ocurre por el pecado; el descenso arquetípico es la noche oscura del alma (depresión, crisis, vacío, incomprensión). En Caperucita NO hay descenso voluntario: ella no se da cuenta hasta que ya ha ocurrido — por eso el cuento NO es mito lunar completo. Capturado en promote_new del cuento.",
+      "quote_evidence": "El descenso a los infiernos cristiano es por el pecado; el arquetípico es la noche oscura del alma (depresión, crisis, vacío, incomprensión),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trauma-en-proxy"
+    },
+    {
+      "surface_form": "love bombing como camino de las mariposas / lobo seductor del intelecto",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de love bombing contemporáneo como mecánica equivalente al camino de las mariposas + lobo en cama de abuelita: muestras excesivas de romanticismo histriónico que confunden e impiden razonar. Capturado en promote_new del cuento con wikilink a consumismo-critica.",
+      "quote_evidence": "Encaja con el love bombing actual: muestras excesivas de romanticismo histriónico que confunden e impiden razonar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "caperuza roja: adornar la feminidad / rojo vinculado a lo femenino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura iconográfica de la caperuza roja con doble función: marca para saber dónde está la niña + adorno que la mantiene destacadamente hermosa. El rojo vinculado a lo femenino de múltiples formas. Capturado en promote_new del cuento.",
+      "quote_evidence": "Es el toque final a una belleza inevitable que irá en aumento; el mundo debe disfrutar de esa feminidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "caperucita-roja-cuento"
+    },
+    {
+      "surface_form": "interpretación preferida: la madre/consorte saliendo con su gracia adornada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura preferida del directo: NO existe Caperucita ni abuela ni lobo — la historia es la de la consorte (madre del cuento) saliendo al exterior con su gracia adornada (la caperuza roja proyectada como doncella) buscando alimento sexo-afectivo y encontrándose con el mal demasiado tarde. La frase 'lleva comida a la abuelita' = poner en comunicación el ello instintivo y el superyó para que los instintos enseñen al intelecto. Capturado en promote_new.",
+      "quote_evidence": "La interpretación preferida: no existe Caperucita, ni abuela, ni lobo — la historia es la de la madre/consorte,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "caperucita-roja-cuento"
+    },
+    {
+      "surface_form": "leñadores como masculino genérico que provee sustento (fuego)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de los leñadores en el cuento como ÚNICOS hombres del relato e impersonales: representan lo masculino genérico que sale al exterior a proveer sustento (fuego). La mecánica cifra la asimetría sexo-cultural del entorno feudal-aldeano. Capturado en promote_new.",
+      "quote_evidence": "Los únicos hombres del cuento (leñadores) son impersonales: representan lo masculino genérico que sale al exterior a proveer sustento (fuego),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "caperucita-roja-cuento"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 6,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[lobo dormido relleno de piedras: represión del Eros] reason=passing_mention quote no literal",
+    "DROP discarded['Menos lobos, Caperucita' como cuento del pastor mentiroso + astucia] reason=passing_mention quote no literal",
+    "WARN promote_new[Caperucita Roja (cuento de Perrault)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

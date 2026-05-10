@@ -110,6 +110,48 @@ El marco se articula en cuatro niveles encadenados — distinción foundational 
 - **REZOS DIARIOS sacerdotales como acto de AMOR no instrumental**: si dejaran de rezar «teóricamente no pasaría nada» — el rezo no opera magia sino expresa amor a Dios. Distinción radical frente a lectura instrumental del rito.
 - **Caso aplicado — SACRILEGIO PROGRESISTA**: la misa de Beyoncé en iglesia episcopal de San Francisco (canciones pop como adoración, 50→700 asistentes, reverendo declarando «Beyoncé es mejor teóloga»). Caso paradigmático de teología progresista orientada a comunidades LGBT y racializadas que vacía la categoría sagrada — aplicación operativa del marco estructural.
 
+
+## Catolicismo filosófico vs islam poético: dos arquitecturas religiosas según el régimen cognitivo
+
+En el directo *Tontas en Potencia* (sept-2024) el canal extiende el marco articulando un eje contrastivo que la sistematización canalizar/catalizar dejaba implícito: la distinción entre catolicismo e islam **no opera en plano doctrinal sino en plano del régimen cognitivo** que cada tradición exige a sus practicantes.
+
+> "La constitución de un tabú cultural nunca es por odio: si hubiera odio real se buscaría eliminar al otro, no instituir una represión,"
+→ [Tontas en Potencia (2:00:23)](https://youtu.be/1cKAgkEEbMA?t=7223)
+
+> "El islam está pensado para ser simple: su doctrina poética permite que individuos irreflexivos se radicalicen porque no exige elaboración filosófica,"
+→ [Tontas en Potencia (2:00:23)](https://youtu.be/1cKAgkEEbMA?t=7223)
+
+> "El catolicismo es filosófico y el islam es poético: la filosofía busca coherencia formal, la poética solo requiere coexistencia de representaciones unidas por emoción,"
+→ [Tontas en Potencia (2:00:23)](https://youtu.be/1cKAgkEEbMA?t=7223)
+
+> "La estupidez y el pensamiento poético juntos provocan estancamiento; por eso hay comunidades islámicas en la Edad Media,"
+→ [Tontas en Potencia (2:00:23)](https://youtu.be/1cKAgkEEbMA?t=7223)
+
+La tesis distingue dos arquitecturas religiosas según el modo cognitivo que ponen en marcha en sus practicantes (ver [[pensamiento-poetico]] para el aparato categorial). El catolicismo opera en régimen filosófico: exige coherencia formal entre dogmas, sacramentos, virtudes y conducta — el aparato sistematizado en las secciones anteriores de esta página descansa precisamente sobre esa exigencia de coherencia. El islam opera en régimen poético: las representaciones doctrinales se sostienen por coexistencia afectiva, no por integración formal — el practicante no necesita elaborar filosóficamente la articulación entre piezas. La consecuencia operativa que el canal extrae no es valorativa sino estructural: ambas arquitecturas tienen sus condiciones de éxito y sus modos de fracaso. La filosófica falla cuando se vacía la noesis (caso de la misa de Beyoncé como autotipo); la poética falla cuando individuos cognitivamente simples acceden al material sin que la elaboración filosófica module la radicalización.
+
+### Concepto de persona: universalidad vs cumplimiento
+
+La segunda pieza del eje contrastivo articula la consecuencia antropológica de la diferencia cognitiva: cómo cada tradición construye la categoría de persona.
+
+> "En el catolicismo el concepto de persona tiene pretensión de universalidad: todo el mundo es sujeto de derecho natural,"
+→ [Tontas en Potencia (2:14:10)](https://youtu.be/1cKAgkEEbMA?t=8050)
+
+> "En el islam la gente que no cumple su religión puede ser tratada como infrahumana, no porque la doctrina lo ordene sino porque lo permite en individuos simples,"
+→ [Tontas en Potencia (2:14:10)](https://youtu.be/1cKAgkEEbMA?t=8050)
+
+> "El islam es predatorio con el infiel como consecuencia de esa permisividad, no como mandato directo,"
+→ [Tontas en Potencia (2:14:10)](https://youtu.be/1cKAgkEEbMA?t=8050)
+
+La precisión es operativa para el marco articulado en esta página. El concepto de persona del catolicismo se sostiene sobre el aparato del derecho natural y la pretensión de universalidad — todo ser humano es sujeto de derechos por su sola pertenencia ontológica a la especie, independientemente de su cumplimiento religioso. La persona del islam, según el análisis del canal, se sostiene sobre el cumplimiento religioso como condición — quien no cumple queda fuera del estatuto. La pieza añade además la distinción crucial entre **mandato doctrinal** y **permisividad estructural**: el canal precisa que la predación islámica sobre el infiel no se sigue de una orden directa sino de una arquitectura que la **permite** en individuos cognitivamente simples — el régimen poético sin elaboración filosófica no contiene los frenos categoriales que el régimen filosófico sí contiene.
+
+### Política y religión: dos tecnologías sociales distintas
+
+> "La diferencia entre política y religión: la política busca la mejor forma de usar la fuerza; la religión busca la mejor forma de usar la psicología para que el individuo prospere,"
+→ [Tontas en Potencia (2:14:10)](https://youtu.be/1cKAgkEEbMA?t=8050)
+
+La última pieza articula la frontera entre política y religión como tecnologías sociales distintas, lo que cierra el contraste catolicismo/islam con una observación operativa: tradiciones que mezclan ambas funciones (régimen donde la religión administra la fuerza o la política administra la psique de prosperidad) producen iatrogenia estructural — operar la fuerza con criterio psicológico de prosperidad hace ineficaz la fuerza, operar la psique con criterio de fuerza hace iatrogénica la prosperidad. La distinción complementa el aparato canalizar/catalizar de la página: el sacerdote no opera fuerza, opera intercesión; cuando la confusión religión-política convierte al sacerdote en agente de fuerza, la categoría sagrada se vacía por la vía opuesta a la del sacrilegio progresista — no por sustitución de la noesis por adoración identitaria, sino por sustitución de la intercesión por administración coactiva.
+
+
 ## Citas del vídeo
 
 > "El error fundamental es tratar la religión como magia: el poder no es del cura sino de Dios, el sacerdote no es un catalizador sino un partícipe del sacerdocio."

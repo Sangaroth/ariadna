@@ -1,0 +1,363 @@
+{
+  "video_id": "aPbgBnidoJI",
+  "video_title": "Análisis La Llegada, (Parte uno, introducción)",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "mito lunar de Istar al Apocalipsis: la genealogía completa",
+      "canonical_guess": "mito-lunar",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La primera forma de mito lunar es el viaje a los infiernos de Istar, cuya estrella tenía siete puntas,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La película empieza en Istar y acaba en la reina blanca, la mujer del Apocalipsis en forma de Virgen María, la diosa blanca ascendida,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación foundational de la genealogía completa del mito lunar (Istar mesopotámico → mujer del Apocalipsis bíblico → Virgen María católica como diosa blanca ascendida) con simbología numérica (siete de Istar / nueve fases lunares / doce naves como doce meses). Sin lectura previa de mito-lunar en este barrido, capturado en pending_update a la-llegada-2016-film con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "Hay doce naves porque el doce es número lunar: doce fases, doce horas, doce meses,"
+    },
+    {
+      "surface_form": "Virgen María como diosa blanca ascendida / mujer del Apocalipsis",
+      "canonical_guess": "diosa-blanca",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película empieza en Istar y acaba en la reina blanca, la mujer del Apocalipsis en forma de Virgen María, la diosa blanca ascendida,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la Virgen María como respuesta católica al arquetipo de la diosa blanca y la Asunción como cumplimiento del ciclo lunar. NO contiene la articulación específica de la mujer del APOCALIPSIS (Apocalipsis 12: 'una mujer vestida de sol, con la luna bajo sus pies y una corona de doce estrellas') como cifra escatológica de la Virgen-diosa-blanca-ascendida. Pieza foundational que cierra el ciclo del mito lunar desde Istar hasta el cumplimiento apocalíptico.",
+      "quote_evidence": "Hay doce naves porque el doce es número lunar: doce fases, doce horas, doce meses,"
+    },
+    {
+      "surface_form": "hipótesis Sapir-Whorf hard / soft + crítica a la neolengua progre",
+      "canonical_guess": "teoria-del-lenguaje-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Versión blanda: cambios en el lenguaje provocan cambios en el pensamiento,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Versión fuerte o dura: cambios en el lenguaje provocan cambios en la percepción de la realidad; tu realidad está completamente determinada por tu lenguaje,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La neolengua progre no cambia el pensamiento, lo limita: elimina lexicón y reduce categorías lingüísticas,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Articulación foundational del marco lingüístico del canal: distinción Sapir-Whorf blando vs duro; crítica a PNL como mal entendida (el feedback funciona, no el lenguaje per se); crítica al constructivismo lingüístico (lo que no se nombra existe perceptualmente); recorrido por estructuralismo, funcionalismo, pragmática, generativismo de Chomsky, psicolingüística, lingüística cognitiva de Lakoff; categorías biológicas vs lingüísticas. Sin lectura previa de teoria-del-lenguaje-en-proxy en este barrido (la articulación supersedería sustantivamente el contenido conocido del page index), capturado en pending_update a la-llegada-2016-film con wikilink y como discard con enriches_concept para revisión humana.",
+      "quote_evidence": "El pensamiento no es solo pensamiento explícito; la hipótesis de Sapir-Whorf habla de cambiar la forma de pensar, no de limitar vocabulario,"
+    },
+    {
+      "surface_form": "aliens como demiurgos / arcontes en metafísica platónico-cabalística",
+      "canonical_guess": "kabbalah",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Esto los hace indistinguibles de un demiurgo: una entidad entre nosotros y Dios en la jerarquía metafísica,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los aliens son indistinguibles de arcontes: ángeles con funciones relativas al Cosmos, delegados de Dios sobre un ámbito específico,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "Aplicación canal-específica de la metafísica platónico-cabalística (emanaciones divinas, demiurgo como hacedor del mundo humano, arcontes como ángeles funcionales) al cine de ciencia ficción. Distinción entre Prometheus (aliens=demiurgos estrictos) y Arrival (aliens=indistinguibles-de-demiurgos). En cábala: Keter como verbo demiúrgico. Sin lectura previa de kabbalah en este barrido, capturado en pending_update a la-llegada-2016-film y como discard con enriches_concept.",
+      "quote_evidence": "En la cábala judía, Keter es la emanación que representa el verbo, el regidor que ordena,"
+    },
+    {
+      "surface_form": "fallo cognitivo de Arrival: humano no puede aprender lenguaje superior",
+      "canonical_guess": "la-llegada-2016-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La película presume que un lenguaje superior podría ser comprendido por nosotros, lo cual es mucho presumir,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Existen saltos cualitativos de complejidad cognitiva; no se puede enseñar a un perro un lenguaje humano,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Crítica canal-específica al film: el presupuesto narrativo (un humano puede aprender un lenguaje superior y volverse omnisciente) es categorialmente inviable porque existen saltos cualitativos de complejidad cognitiva entre especies. Una máquina podría DECODIFICAR un lenguaje extraterrestre pero no PRODUCIRLO con la misma riqueza cualitativa que sus emisores. Captura crítica al film como caso operativo del realismo cognitivo aplicado.",
+      "quote_evidence": "Las máquinas podrían ayudar a decodificar un lenguaje extraterrestre, pero traducirlo a categorías cognitivas humanas, nunca producirlo con la misma riqueza cualitativa,"
+    }
+  ],
+  "promote_new": [],
+  "pending_updates": [
+    {
+      "page_id": "la-llegada-2016-film",
+      "update_type": "append_to_section",
+      "section_target": "Lagunas",
+      "anchor_passage": "",
+      "content_proposed": "\n\n## Marco teórico (Parte 1 del análisis): mito lunar, Sapir-Whorf y teorías lingüísticas\n\nLa Parte 1 del análisis monográfico (sin entender la teoría del lenguaje, la película no se comprende correctamente) articula el marco teórico que sostiene la lectura arquetípica desplegada en la Parte 2.\n\n### El mito lunar: de Istar al Apocalipsis\n\nLa simbología numérica del film cifra la pertenencia al mito lunar:\n\n> \"Los extraterrestres tienen siete patas porque la película es el mito lunar, y la estrella de Istar en origen tenía siete puntas,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (02:02)](https://youtu.be/aPbgBnidoJI?t=122)\n\n> \"La primera forma de mito lunar es el viaje a los infiernos de Istar, cuya estrella tenía siete puntas,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)\n\n> \"Hay doce naves porque el doce es número lunar: doce fases, doce horas, doce meses,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)\n\n> \"La película empieza en Istar y acaba en la reina blanca, la mujer del Apocalipsis en forma de Virgen María, la diosa blanca ascendida,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)\n\n> \"La nave tiene forma de lentilla porque representa una fase lunar,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (05:03)](https://youtu.be/aPbgBnidoJI?t=303)\n\nLa genealogía completa del mito lunar que el film recapitula: Istar mesopotámica con su estrella de siete puntas → mujer del Apocalipsis bíblico (Apocalipsis 12, vestida de sol, con la luna bajo sus pies, corona de doce estrellas) → Virgen María como diosa blanca ASCENDIDA del catolicismo. La forma lentillada de las naves cifra la fase lunar; el siete heptápodo cifra la estrella original de Istar; el doce de las naves cifra las fases del ciclo lunar. La articulación enlaza con [[mito-lunar]] y [[diosa-blanca]] precisando la genealogía cross-tradicional del arquetipo.\n\n### Aliens como demiurgos: metafísica platónico-cabalística aplicada\n\nLos heptápodos operan estructuralmente como DEMIURGOS — entidades intermedias entre lo humano y lo divino:\n\n> \"La presunción más importante es que los aliens tienen superciencia y son omniscientes respecto a nuestro mundo,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (17:15)](https://youtu.be/aPbgBnidoJI?t=1035)\n\n> \"Esto los hace indistinguibles de un demiurgo: una entidad entre nosotros y Dios en la jerarquía metafísica,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (17:15)](https://youtu.be/aPbgBnidoJI?t=1035)\n\n> \"Los aliens son indistinguibles de arcontes: ángeles con funciones relativas al Cosmos, delegados de Dios sobre un ámbito específico,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (21:16)](https://youtu.be/aPbgBnidoJI?t=1276)\n\n> \"En la cábala judía, Keter es la emanación que representa el verbo, el regidor que ordena,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (25:20)](https://youtu.be/aPbgBnidoJI?t=1520)\n\nLa pieza articula la asimetría entre Arrival y otras ciencia ficciones (Prometheus): mientras Prometheus presenta aliens como demiurgos ESTRICTOS (causa real del origen humano), Arrival los presenta como INDISTINGUIBLES de demiurgos sin afirmar que lo sean. La cifra cabalística del verbo demiúrgico (Keter como emanación que ordena) ilumina el rol específico del lenguaje en el film: lo que los heptápodos transmiten es modalidad cognitiva-lingüística que opera al nivel del verbo divino que ordena la realidad, no contenido informativo común. Conexión con [[kabbalah]] y con la articulación de la Shejiná documentada en la Parte 2.\n\n### La hipótesis Sapir-Whorf como presupuesto central\n\n> \"Versión blanda: cambios en el lenguaje provocan cambios en el pensamiento,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (28:21)](https://youtu.be/aPbgBnidoJI?t=1701)\n\n> \"Versión fuerte o dura: cambios en el lenguaje provocan cambios en la percepción de la realidad; tu realidad está completamente determinada por tu lenguaje,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (28:21)](https://youtu.be/aPbgBnidoJI?t=1701)\n\n> \"La película asume la hipótesis dura: aprender un lenguaje nuevo permite ver las cosas de forma nueva,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (34:28)](https://youtu.be/aPbgBnidoJI?t=2068)\n\n> \"Si aprendemos el lenguaje de seres omniscientes, nos volveríamos omniscientes,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (34:28)](https://youtu.be/aPbgBnidoJI?t=2068)\n\nEl film opera con la versión DURA de Sapir-Whorf como presupuesto narrativo: el lenguaje no solo condiciona el pensamiento sino que determina la percepción de la realidad. Aprender un lenguaje atemporal modifica la cognición del sujeto en sentido estricto, no solo lingüístico-superficial. La Parte 2 articula la reformulación canal-específica de Sapir-Whorf (idioma + experiencia lingüística como dos componentes de una misma representación); la Parte 1 establece el presupuesto narrativo del film.\n\n### Crítica a la PNL y a la neolengua progre\n\n> \"La PNL dice que puedes modificar tu estado interno mediante la modificación del lenguaje, lo cual no es verdad en esos términos,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (38:00)](https://youtu.be/aPbgBnidoJI?t=2280)\n\n> \"Lo que realmente funciona es el feedback: la capacidad de evocar estados psicológicos voluntariamente mediante la componente afectiva del pensamiento,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (38:00)](https://youtu.be/aPbgBnidoJI?t=2280)\n\n> \"La neolengua progre no cambia el pensamiento, lo limita: elimina lexicón y reduce categorías lingüísticas,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (42:32)](https://youtu.be/aPbgBnidoJI?t=2552)\n\n> \"El pensamiento no es solo pensamiento explícito; la hipótesis de Sapir-Whorf habla de cambiar la forma de pensar, no de limitar vocabulario,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (42:32)](https://youtu.be/aPbgBnidoJI?t=2552)\n\nLa Parte 1 articula dos malas lecturas culturales contemporáneas de Sapir-Whorf: (a) la PNL confunde el feedback afectivo (que sí opera) con efecto del lenguaje per se (que no opera en esos términos); (b) la neolengua progre orwelliana confunde reducción de léxico con cambio de pensamiento — la limitación de vocabulario reduce capacidad expresiva pero NO cambia la cognición subyacente. La crítica enlaza con [[woke-narrativa-postmoderna-moral]] y con [[teoria-del-lenguaje-en-proxy]].\n\n### Crítica al constructivismo lingüístico\n\n> \"Lo que no se nombra no existe como concepto lingüístico, pero existe de otras muchas maneras: representacional, perceptual,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (44:32)](https://youtu.be/aPbgBnidoJI?t=2672)\n\n> \"La percepción del árbol no depende de tener la palabra \\\"árbol\\\"; el árbol es perceptible en sí mismo,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (44:32)](https://youtu.be/aPbgBnidoJI?t=2672)\n\n> \"Decir que sin nombre no hay percepción es estructuralismo constructivista fuerte, una posición insostenible,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (44:32)](https://youtu.be/aPbgBnidoJI?t=2672)\n\nLa Parte 1 cierra el flanco anti-constructivista del aparato del canal aplicado al lenguaje: la percepción opera en plano REPRESENTACIONAL anterior al lingüístico. Lo que no se nombra existe perceptualmente — el constructivismo fuerte (sin nombre no hay percepción) es insostenible. Conexión con la lingüística cognitiva de Lakoff que la Parte 1 desarrolla a continuación.\n\n### Recorrido por las teorías lingüísticas\n\nLa Parte 1 articula sucesivamente: estructuralismo (Saussure, Jakobson — signos arbitrarios + relaciones); funcionalismo (lenguaje como adaptación a necesidades comunicativas); pragmática (significado dependiente del contexto situacional); sociolingüística; **generativismo de Chomsky** (gramática universal innata, número finito de reglas para infinitas oraciones por recursión); psicolingüística (estructuras biológicas como módulos cerebrales de protocomputación lingüística); **lingüística cognitiva de Lakoff** (categorías lingüísticas originadas en categorías biológicas previas; modelos cognitivos como relaciones puras sobre las que se coloca la semántica).\n\n> \"Lakoff propone que las categorías lingüísticas están originadas en categorías biológicas,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:06:54)](https://youtu.be/aPbgBnidoJI?t=4014)\n\n> \"Las lombrices tienen categorías biológicas mínimas: posiciones neuronales que determinan dirección de movimiento según frío, calor u oxígeno,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:11:28)](https://youtu.be/aPbgBnidoJI?t=4288)\n\nLa lectura de Lakoff es clave: las categorías biológicas FUNDAMENTALES (desde el nematodo: posición neuronal que determina dirección por frío/calor/oxígeno) son la base sobre la que la complejidad cognitiva se construye. El lenguaje verbal humano descansa sobre milenios de evolución de categorías biológicas previas; el lexicón es capa final, no fundamento.\n\n### El fallo cognitivo del film: el salto cualitativo entre especies\n\n> \"La película presume que un lenguaje superior podría ser comprendido por nosotros, lo cual es mucho presumir,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:17:04)](https://youtu.be/aPbgBnidoJI?t=4624)\n\n> \"Existen saltos cualitativos de complejidad cognitiva; no se puede enseñar a un perro un lenguaje humano,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:17:04)](https://youtu.be/aPbgBnidoJI?t=4624)\n\n> \"Las máquinas podrían ayudar a decodificar un lenguaje extraterrestre, pero traducirlo a categorías cognitivas humanas, nunca producirlo con la misma riqueza cualitativa,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:17:04)](https://youtu.be/aPbgBnidoJI?t=4624)\n\nLa crítica canal-específica al presupuesto narrativo: existen SALTOS CUALITATIVOS de complejidad cognitiva entre especies que el film ignora. Una especie inferior (perro) no puede aprender el lenguaje de una superior (humana) más allá de cierto umbral cualitativo. La presunción de que un humano podría aprender el lenguaje atemporal de los heptápodos y volverse omnisciente es estructuralmente análoga — y por tanto categorialmente inviable según el realismo cognitivo del canal. Las máquinas podrían DECODIFICAR pero no PRODUCIR un lenguaje cualitativamente superior. La pieza enlaza con [[conciencia-e-inteligencia-en-proxy]] sobre las condiciones de la cognición humana.\n\n### Lenguaje atemporal: transitividad e intransitividad articuladas teóricamente\n\n> \"Es posible un lenguaje atemporal que no dependa de la transitividad temporal,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:23:38)](https://youtu.be/aPbgBnidoJI?t=5018)\n\n> \"Los verbos intransitivos aluden a estados completos (ser, estar, parecer); los transitivos se refieren a estados transitorios con principio y fin,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:23:38)](https://youtu.be/aPbgBnidoJI?t=5018)\n\n> \"Las matemáticas son una forma de lenguaje donde el estado de ser puede ser intransitivo: \\\"existe\\\" o \\\"dado\\\" como tautología formal,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:23:38)](https://youtu.be/aPbgBnidoJI?t=5018)\n\n> \"Los extraterrestres no tienen categorías transitivas, solo intransitivas y además categorías \\\"cerotransitivas\\\" incomprensibles para nosotros,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:30:19)](https://youtu.be/aPbgBnidoJI?t=5419)\n\n> \"Su categoría lingüístico-cognitiva determina algo que es, ha sido y será al mismo tiempo,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:30:19)](https://youtu.be/aPbgBnidoJI?t=5419)\n\n> \"El lenguaje de los heptápodos es circular: cada verbo expresa una línea temporal entera con pasado, presente y futuro,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (1:32:24)](https://youtu.be/aPbgBnidoJI?t=5544)\n\nEl marco teórico cierra con la articulación específica del lenguaje atemporal: los verbos transitivos refieren a estados transitorios (con principio y fin temporal), los intransitivos a estados completos. El japonés expresa el ser sin verbo (partícula complementaria); las matemáticas operan con tautologías formales ('dado A' = 'A existe'). Los heptápodos operan con categorías INTRANSITIVAS Y CEROTRANSITIVAS — cada verbo expresa una línea temporal entera donde lo que es, ha sido y será queda integrado simultáneamente. La consecuencia narrativa: aprender ese lenguaje permite a Louise tener recuerdos del futuro porque la cognición integra los tres estados temporales en un solo verbo. Es la versión teórico-lingüística del 'tiempo como construcción memorial' articulada en la Parte 2 — sin transitividad gramatical no hay temporalidad subjetiva.\n",
+      "wikilinks_introduced": [
+        "mito-lunar",
+        "diosa-blanca",
+        "kabbalah",
+        "teoria-del-lenguaje-en-proxy",
+        "woke-narrativa-postmoderna-moral",
+        "conciencia-e-inteligencia-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 122,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (02:02)](https://youtu.be/aPbgBnidoJI?t=122)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 212,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 1035,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (17:15)](https://youtu.be/aPbgBnidoJI?t=1035)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 1276,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (21:16)](https://youtu.be/aPbgBnidoJI?t=1276)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 1520,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (25:20)](https://youtu.be/aPbgBnidoJI?t=1520)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 1701,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (28:21)](https://youtu.be/aPbgBnidoJI?t=1701)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 2068,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (34:28)](https://youtu.be/aPbgBnidoJI?t=2068)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 2280,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (38:00)](https://youtu.be/aPbgBnidoJI?t=2280)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 2552,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (42:32)](https://youtu.be/aPbgBnidoJI?t=2552)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 2672,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (44:32)](https://youtu.be/aPbgBnidoJI?t=2672)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 4014,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (1:06:54)](https://youtu.be/aPbgBnidoJI?t=4014)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 4288,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (1:11:28)](https://youtu.be/aPbgBnidoJI?t=4288)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 4624,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (1:17:04)](https://youtu.be/aPbgBnidoJI?t=4624)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 5018,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (1:23:38)](https://youtu.be/aPbgBnidoJI?t=5018)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 5419,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (1:30:19)](https://youtu.be/aPbgBnidoJI?t=5419)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 5544,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (1:32:24)](https://youtu.be/aPbgBnidoJI?t=5544)"
+        }
+      ],
+      "rationale": "La página la-llegada-2016-film fue creada en este batch desde la Parte 2 (análisis arquetípico-lingüístico aplicado). Esta Parte 1 (uploaded un día antes) articula el MARCO TEÓRICO sin el cual la película no se comprende: simbología numérica del mito lunar (siete de Istar, doce naves como meses lunares), genealogía Istar→Apocalipsis→Virgen María, aliens como demiurgos en metafísica platónico-cabalística (Keter como verbo demiúrgico), hipótesis Sapir-Whorf en sus dos versiones, crítica a PNL/neolengua progre/constructivismo lingüístico, recorrido por estructuralismo/funcionalismo/generativismo Chomsky/psicolingüística/Lakoff, fallo cognitivo del film (saltos cualitativos imposibles de superar) y articulación teórica del lenguaje atemporal (transitividad/intransitividad/cerotransitividad). Material foundational complementario al análisis arquetípico ya documentado en la página.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "diosa-blanca",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Cuando esa conexión se rompe (modalidad terminal: la bruja-Medusa), los tres dones se vacían simultáneamente porque su sustrato cosmogónico ha sido cancelado.",
+      "content_proposed": "\n\n## La mujer del Apocalipsis: cierre escatológico del ciclo de la diosa blanca\n\nEl monográfico sobre [[la-llegada-2016-film|La Llegada (Parte 1)]] (abr 2024) articula la cifra ESCATOLÓGICA del arquetipo que las secciones anteriores dejaban abierta tras la Asunción mariana. La diosa blanca tiene su forma cumplida en la **mujer del Apocalipsis** (Apocalipsis 12, vestida de sol con la luna bajo sus pies y una corona de doce estrellas) que el catolicismo identifica con la Virgen María como diosa blanca ASCENDIDA.\n\n> \"La película empieza en Istar y acaba en la reina blanca, la mujer del Apocalipsis en forma de Virgen María, la diosa blanca ascendida,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)\n\n> \"Hay doce naves porque el doce es número lunar: doce fases, doce horas, doce meses,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)\n\n> \"Los extraterrestres tienen siete patas porque la película es el mito lunar, y la estrella de Istar en origen tenía siete puntas,\"\n→ [Análisis La Llegada, (Parte uno, introducción) (02:02)](https://youtu.be/aPbgBnidoJI?t=122)\n\nLa pieza articula la GENEALOGÍA CROSS-TRADICIONAL completa del arquetipo:\n\n1. **Istar mesopotámica** con su estrella de SIETE puntas — primera forma del mito lunar como viaje a los infiernos. La iconografía heptágona del film (siete patas de los heptápodos) cifra esta forma original.\n2. **Mujer del Apocalipsis bíblico** (Apocalipsis 12) — la mujer encinta que el dragón persigue, vestida de sol con la luna bajo sus pies y corona de doce estrellas. Cifra escatológica del arquetipo en clave cristiana.\n3. **Virgen María como diosa blanca ASCENDIDA** — el catolicismo identifica la mujer apocalíptica con María, cerrando el ciclo desde la Anunciación (apertura del fíat) hasta la Asunción (cierre por elevación corporal) hasta la consagración apocalíptica (vestidura de sol, dominio sobre la luna, corona de doce).\n\nLa simbología numérica encadena las tres formas: SIETE de Istar (estrella original) → DOCE de la mujer apocalíptica (corona de estrellas como doce horas / fases / meses lunares) — los heptápodos heredan el siete original, las doce naves cifran el cierre apocalíptico. La pieza completa el aparato de la página con el cierre ESCATOLÓGICO que las secciones sobre Asunción y triple María dejaban implícito: la diosa blanca no termina su ciclo en la elevación individual mariana sino en la consagración cósmica apocalíptica donde recibe el sol, la luna y las doce estrellas — atributos que estructuralmente recapitulan los siete dones de Istar más cinco que el ciclo agrega tras la travesía completa.\n",
+      "wikilinks_introduced": [
+        "la-llegada-2016-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 122,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (02:02)](https://youtu.be/aPbgBnidoJI?t=122)"
+        },
+        {
+          "video_id": "aPbgBnidoJI",
+          "timestamp_seconds": 212,
+          "cite_markdown": "[Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)"
+        }
+      ],
+      "rationale": "La página articula la Virgen María como respuesta católica al arquetipo de la diosa blanca, las tres Marías al pie de la cruz, la Asunción como cumplimiento del ciclo lunar. NO contiene la articulación específica de la MUJER DEL APOCALIPSIS (Apocalipsis 12) como cifra ESCATOLÓGICA del arquetipo — el cierre cósmico-apocalíptico donde la diosa blanca recibe sol/luna/corona-de-doce-estrellas. La genealogía cross-tradicional completa Istar→mujer-apocalíptica→Virgen-ascendida con simbología numérica encadenada (siete original / doce de cierre) extiende el aparato con la cifra escatológica que las secciones anteriores dejaban implícita.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "arquetipos como estructuras cognitivas universales / caso Barbie",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación general sobre arquetipos como estructuras cognitivas universales e inconscientes y la mecánica de cómo guionistas los activan (estudio + intuición). Caso operativo: Barbie como película donde 'inconscientemente le salió una estructura que explica la mentalidad femenina moderna'. Capturado en pending_update.",
+      "quote_evidence": "El caso de Barbie: inconscientemente le salió una estructura que explica la mentalidad femenina moderna, sin proponérselo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Barbie como caso operativo del arquetipo femenino-moderno podría merecer concept page si recurre con análisis sustantivo en otro directo.",
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    },
+    {
+      "surface_form": "Prometheus (Ridley Scott) como contraste: aliens como demiurgos estrictos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención comparativa para distinguir Arrival de Prometheus en términos del rol metafísico de los aliens. Capturado en pending_update.",
+      "quote_evidence": "A diferencia de Prometheus donde los aliens son demiurgos estrictos, aquí son indistinguibles de demiurgos sin serlo necesariamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    },
+    {
+      "surface_form": "Chomsky y la gramática universal generativa",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Recorrido por la teoría generativista de Chomsky (gramática universal innata, recursión que produce infinitas oraciones desde reglas finitas). Aplicación de marco lingüístico estándar, no tesis sustantiva del canal sobre Chomsky. Capturado en pending_update.",
+      "quote_evidence": "Existe una gramática universal: con un número finito de reglas se puede generar un número infinito de oraciones mediante procesamiento recursivo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Lakoff y la lingüística cognitiva",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Articulación de la posición de Lakoff sobre categorías lingüísticas originadas en categorías biológicas previas. La cita aparece marginalmente en galatea-modelo-protomente. Capturado en pending_update.",
+      "quote_evidence": "Lakoff propone que las categorías lingüísticas están originadas en categorías biológicas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "categorías biológicas del nematodo: dirección por frío/calor/oxígeno",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso operativo de las categorías biológicas mínimas que sostienen la complejidad cognitiva ulterior. Conecta con clases-ancestrales y galatea-modelo-protomente. Capturado en pending_update.",
+      "quote_evidence": "Las lombrices tienen categorías biológicas mínimas: posiciones neuronales que determinan dirección de movimiento según frío, calor u oxígeno,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "clases-ancestrales"
+    },
+    {
+      "surface_form": "lenguaje formal vs lenguaje lingüístico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción categorial: un sistema formal no es necesariamente un lenguaje; un lenguaje es una forma muy particular de sistema formal con LEXICÓN. Los lenguajes no lingüísticos tienen símbolos y relaciones pero no léxico. Articulación que matiza el alcance del análisis del film. Capturado en pending_update.",
+      "quote_evidence": "Un sistema formal no es un lenguaje; un lenguaje es una forma muy particular de sistema formal con lexicón,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "estructuralismo Saussure-Jakobson: signos arbitrarios y relaciones",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Recorrido por el estructuralismo lingüístico clásico. Aplicación estándar, no tesis sustantiva del canal. Crítica del canal: la importancia no depende de la frecuencia sino de la intensidad aparejada a la explicitación. Capturado en pending_update.",
+      "quote_evidence": "El estructuralismo (Saussure, Jakobson) dice que el lenguaje tiene estructura propia: signos arbitrarios y relaciones entre signos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "anuncio del análisis arquetípico de El Gran Lebowski en honor a Zabi",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio meta-canal de programación futura. Sin contenido enciclopédico independiente. Mención puntual en la apertura del directo.",
+      "quote_evidence": "Se anuncia también un análisis arquetípico de El Gran Lebowski en honor a Zabi,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Ted Chiang: Story of Your Life (relato base)",
+      "reason_code": "already_captured",
+      "reason_detail": "El relato base ya fue capturado como frontmatter-field en el promote_new del film desde la Parte 2.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "la-llegada-2016-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 6,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP entity[la-llegada-2016-film] decision=update_existing quote no literal: 'Esta semana la teoría del lenguaje aplicada a la película, la semana siguiente l'",
+    "DROP discarded[estructura 'qué pasaría si' como paradigma de ciencia ficción] reason=passing_mention quote no literal",
+    "DROP discarded[matemáticas como lenguaje atemporal con tautología formal] reason=passing_mention quote no literal",
+    "DROP discarded[japonés: el ser como partícula, no como verbo] reason=passing_mention quote no literal"
+  ]
+}

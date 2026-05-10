@@ -1,0 +1,424 @@
+{
+  "video_id": "olX_-KIziX0",
+  "video_title": "Análisis arquetípico de Eyes wide shut",
+  "playlist": "analisis-arquetipico",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "Eyes Wide Shut (Kubrick, 1999)",
+      "canonical_guess": "eyes-wide-shut-1999-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 144,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Eyes Wide Shut trata sobre la ambivalencia y cómo todas las relaciones humanas parten de ella,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La película narra un matrimonio inmaduro que permanecerá para siempre en la ambivalencia,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico (~144 min) dedicado íntegramente al análisis arquetípico de la película. Per scope §2.3, ≥30 min satisface criterio. La página hieros-gamos ya nombra Eyes Wide Shut como caso del 'asalto al matrimonio' en una sección breve (un solo quote), pero NO articula el análisis sustantivo. Esta es la articulación monográfica principal del canal sobre la película.",
+      "quote_evidence": "La ninfa y el sátiro no renuncian al pecado ni se comprometen con el amor: no hacen ninguna de las dos cosas,"
+    },
+    {
+      "surface_form": "ambivalencia vs ambigüedad como estado psicológico",
+      "canonical_guess": "sindrome-xocas",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La ambivalencia es la coexistencia en el yo de dos sentimientos incompatibles que impiden la acción,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La ambigüedad es tomar un camino del medio donde no haces nada y dejas que las circunstancias te lleven,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El síndrome del Xocas opera como defensa específica contra la ambivalencia (carrera obsesiva para no detenerse a enfrentar el conflicto interno). La ambigüedad articulada como su contraria operativa (parálisis pasiva) cierra la taxonomía de defensas contra el material no resuelto: el sujeto huye corriendo (Xocas) o se queda paralizado (ambigüedad), pero ninguna de las dos lo enfrenta. Distinción categorial nueva que extiende el aparato ambivalencia/Xocas con un tercer término operativo.",
+      "quote_evidence": "Cuando el deseo está mal orientado es un obstáculo para el amor porque distrae del foco del otro,"
+    },
+    {
+      "surface_form": "asalto al matrimonio como institución sagrada / final ambiguo",
+      "canonical_guess": "hieros-gamos",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 144,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La sacralización del vínculo matrimonial requiere renunciar para siempre a que el ser objeto de deseo de terceros tenga importancia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página tiene una sección breve sobre Eyes Wide Shut (un solo quote sobre 'galán deseado por ninfas, ninfa deseada por galanes'). NO articula el análisis sustantivo: par arquetípico ninfa-sátiro como obstáculo estructural del hieros gamos, sacralización como renuncia activa al deseo de ser objeto de deseo, final ambiguo como negativa a comprometerse, pareja que ni renuncia al pecado ni se compromete con el amor. Es el caso opuesto al hieros-gamos genuino: ni inversión satánica (Drácula) ni sustitución sororal (Frozen) sino permanencia perpetua en la antesala del compromiso.",
+      "quote_evidence": "Se casaron cerrando fuerte los ojos esperando que el matrimonio por sí mismo hiciera desaparecer las ganas de estar con otros,"
+    },
+    {
+      "surface_form": "más allá del arcoíris: la pendiente resbaladiza con iconografía",
+      "canonical_guess": "woke-narrativa-postmoderna-moral",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 8,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El arcoíris es la pendiente por la cual empiezas saltándote una norma y puedes llegar a justificar la mayor de las barbaridades,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la pendiente resbaladiza como mecanismo retórico que encadena sofismas sin relación causal. NO contiene la ICONOGRAFÍA del arcoíris como vehículo iconográfico de la pendiente: el arcoíris como camino visualmente atractivo cuyo destino es el infierno; cada paso borra la línea anterior; más allá del pecado, la depravación absoluta. Caso operativo: la tienda Arcoíris en Eyes Wide Shut. Material que extiende el aparato del woke con una imagen mítica precisa.",
+      "quote_evidence": "Más allá del arcoíris está el pecado; más allá del pecado, la depravación absoluta,"
+    },
+    {
+      "surface_form": "ninfa y sátiro como par arquetípico recíproco",
+      "canonical_guess": "tipologia-femenina-arquetipica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Ambos personajes empiezan a tomar el papel de ser deseados: él como galán deseado por ninfas, ella como ninfa deseada por galanes,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "El par ninfa/sátiro como configuración recíproca aparece articulado aquí como caso paradigmático del matrimonio inmaduro. Sin lectura previa de tipologia-femenina-arquetipica en este barrido, capturado en promote_new del film con wikilink y como discard con enriches_concept para revisión humana posterior.",
+      "quote_evidence": "El instinto fuerte dentro del hombre-sátiro y la mujer-ninfa les hace revivir continuamente la conquista,"
+    },
+    {
+      "surface_form": "pulsión de vida y pulsión de muerte (Freud)",
+      "canonical_guess": "freud-sigmund",
+      "page_type": "author",
+      "domain_primary_guess": "social.psychology.psychoanalytic",
+      "depth_in_video": "passing_mention",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Freud y los psicoanalistas identificaron dos impulsos: el que nos pide vivir y el que nos pide caer en el olvido y apagarnos,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": true,
+      "exists_in_wiki": true,
+      "decision": "mentions_index",
+      "decision_reason": "El canal usa el par freudiano Eros/Thanatos como marco que vertebra el simbolismo cromático rojo/negro de la película. Aplicación de Freud como referencia psicoanalítica clásica, no como tesis sustantiva del canal sobre el autor. Capturado en promote_new del film con wikilink a freud-sigmund.",
+      "quote_evidence": "La metáfora de las pulsiones contrapuestas vertebra toda la simbología del film,"
+    }
+  ],
+  "promote_new": [
+    {
+      "proposed_page_id": "eyes-wide-shut-1999-film",
+      "canonical_name": "Eyes Wide Shut (Kubrick, 1999)",
+      "page_type": "entity_work",
+      "domain_primary": "arts.cinema",
+      "primary_domains": [
+        "arts.cinema",
+        "social.psychology.jungian",
+        "humanities.religion"
+      ],
+      "promotion_criterion": "monographic_dedicated_analysis_30min_plus",
+      "promotion_criterion_detail": "Vídeo monográfico de ~144 min dedicado íntegramente al análisis arquetípico de la película. Página hieros-gamos ya menciona Eyes Wide Shut como caso del 'asalto al matrimonio' en una sección sparse (un solo quote sobre par ninfa-sátiro), pero esta es la articulación monográfica completa del canal sobre la obra.",
+      "one_line_summary": "Análisis arquetípico monográfico de la última película de Kubrick (1999) leído como retrato de la AMBIVALENCIA matrimonial: dos cónyuges (Bill y Alice Harford) atrapados en el par arquetípico ninfa-sátiro que ni renuncian al pecado ni se comprometen con el amor; el simbolismo cromático (rojo=pulsión de vida; negro=pulsión de muerte; azul=inocencia mantenida; morado=arrepentimiento; verde=oportunidad perdida) articula la lectura freudiana Eros/Thanatos; el ARCOÍRIS opera como iconografía de la pendiente resbaladiza (la tienda 'Rainbow' como umbral, más allá del arcoíris la depravación absoluta); la fiesta secreta-orgía ritualista articula la mecánica del superhombre (la élite que se justifica el pecado por pertenencia); la prostituta opera como diosa que se sacrifica para rescatar al héroe del vientre de la ballena; el final 'tengamos sexo' en lugar de 'comprometámonos' cierra la película con la pareja perpetuamente en la antesala del hieros gamos auténtico.",
+      "frontmatter_fields_proposed": {
+        "year": 1999,
+        "studio_or_publisher": "Warner Bros.",
+        "medium": "film",
+        "director": "Stanley Kubrick",
+        "based_on": "Traumnovelle (Arthur Schnitzler, 1926)"
+      },
+      "relations_to_existing": [
+        {
+          "type": "manifestation_of",
+          "to": "hieros-gamos",
+          "weight": "canonical",
+          "note": "caso del hieros gamos NO consumado por permanencia perpetua en la ambivalencia — distinto de la inversión satánica (Drácula) y de la sustitución sororal (Frozen): aquí la pareja se queda en la antesala del compromiso y elige el sexo conyugal repetido sobre la sacralización del vínculo"
+        },
+        {
+          "type": "compared_with",
+          "to": "amor-cortes-y-monogamia-civilizatoria",
+          "weight": "strong",
+          "note": "caso operativo del matrimonio como institución antropológica más sagrada que la película articula explícitamente; el asalto del galán a la mujer casada como escena de inversión del amor cortés"
+        },
+        {
+          "type": "exemplifies",
+          "to": "tipologia-femenina-arquetipica",
+          "weight": "strong",
+          "note": "Alice como ninfa que necesita seguir siendo deseada — par recíproco con el sátiro masculino que el directo articula como configuración matrimonial inmadura"
+        },
+        {
+          "type": "compared_with",
+          "to": "sindrome-wendy",
+          "weight": "tangential",
+          "note": "la ninfa narcisista que necesita la conquista perpetua opera en el mismo registro que el síndrome Wendy aplicado al varón: ambos son configuraciones de identidad por reflejo en el deseo del otro"
+        },
+        {
+          "type": "interpreted_by",
+          "to": "freud-sigmund",
+          "weight": "strong",
+          "note": "el canal aplica el par Eros/Thanatos como marco que vertebra el simbolismo cromático rojo/negro de la película; pulsiones de vida y muerte como ejes operativos del relato"
+        },
+        {
+          "type": "exemplifies",
+          "to": "woke-narrativa-postmoderna-moral",
+          "weight": "weak",
+          "note": "la pendiente resbaladiza como mecanismo retórico encuentra en Eyes Wide Shut su iconografía explícita (el arcoíris como umbral del pecado); caso operativo de la mecánica antes de su politización woke contemporánea"
+        },
+        {
+          "type": "compared_with",
+          "to": "magia-postmoderna-en-proxy",
+          "weight": "strong",
+          "note": "la fiesta secreta-orgía ritualista como caso operativo de la mecánica del superhombre: ritualizar el pecado para justificarlo por pertenencia a una élite"
+        },
+        {
+          "type": "compared_with",
+          "to": "fight-club-1999-film",
+          "weight": "tangential",
+          "note": "ambas películas de 1999 articulan crisis de identidad masculina: Fight Club por fuga depresiva del consumismo, Eyes Wide Shut por seducción del pecado ritualizado"
+        },
+        {
+          "type": "references",
+          "to": "diosa-blanca",
+          "weight": "weak",
+          "note": "la prostituta que se sacrifica por el protagonista opera estructuralmente como diosa que rescata al héroe del vientre de la ballena, aunque haya 'desacralizado su feminidad' — figura compleja de la diosa blanca operando desde su propia degradación"
+        }
+      ],
+      "rationale": "Promoción por análisis monográfico ≥30 min. La obra es caso operativo foundational del canal para múltiples conceptos: hieros gamos NO consumado por permanencia perpetua en la ambivalencia (modalidad nueva en la taxonomía); ninfa-sátiro como par recíproco; iconografía del arcoíris para la pendiente resbaladiza; orgía ritualista como mecánica del superhombre que ritualiza el pecado para legitimarlo; prostituta como diosa rescatadora del héroe. La película articula explícitamente que el matrimonio como institución antropológica sagrada exige RENUNCIA ACTIVA al deseo de ser objeto de deseo de terceros — pieza estructural sobre la sacralización del vínculo que ningún otro caso del corpus articula con esa precisión. La distinción ambivalencia vs ambigüedad como dos defensas opuestas del material afectivo no resuelto es articulación canal-específica con consecuencias clínicas operativas."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "hieros-gamos",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "él como galán deseado por ninfas, ella como ninfa deseada por galanes.",
+      "content_proposed": "\n\nEl monográfico de diciembre 2023 sobre [[eyes-wide-shut-1999-film|Eyes Wide Shut]] articula la película como caso paradigmático de UNA TERCERA MODALIDAD DE FRACASO del hieros gamos, distinta de la inversión satánica (Drácula) y de la sustitución sororal (Frozen): la **permanencia perpetua en la ambivalencia matrimonial**, donde la pareja ni renuncia al pecado ni se compromete con el amor.\n\n### El par ninfa-sátiro como configuración matrimonial inmadura\n\n> \"El instinto fuerte dentro del hombre-sátiro y la mujer-ninfa les hace revivir continuamente la conquista,\"\n→ [Análisis arquetípico de Eyes wide shut (56:37)](https://youtu.be/olX_-KIziX0?t=3397)\n\n> \"Se casaron cerrando fuerte los ojos esperando que el matrimonio por sí mismo hiciera desaparecer las ganas de estar con otros,\"\n→ [Análisis arquetípico de Eyes wide shut (56:37)](https://youtu.be/olX_-KIziX0?t=3397)\n\n> \"El matrimonio no cierra una etapa sino que abre otra superpuesta: hay que construir el amor activamente cada día,\"\n→ [Análisis arquetípico de Eyes wide shut (56:37)](https://youtu.be/olX_-KIziX0?t=3397)\n\nEl par ninfa-sátiro articula la configuración matrimonial donde ambos cónyuges retienen la identidad pre-conyugal de ser deseados por terceros como núcleo afectivo. La unión polar genuina que el hieros gamos articula exige la operación inversa: cada cónyuge transfiere al otro la totalidad del deseo de ser deseado, abandonando la posición pre-matrimonial de ninfa-disponible o sátiro-conquistador. Cuando esa transferencia no ocurre — porque los cónyuges esperaron que el rito matrimonial la hiciera por ellos — el par retiene activos los dispositivos pre-conyugales y el matrimonio opera como adición sin sustracción: hay vínculo formal pero no hay sacralización afectiva del vínculo.\n\n### La sacralización como renuncia activa al deseo de ser deseado\n\n> \"La sacralización del vínculo matrimonial requiere renunciar para siempre a que el ser objeto de deseo de terceros tenga importancia,\"\n→ [Análisis arquetípico de Eyes wide shut (33:22)](https://youtu.be/olX_-KIziX0?t=2002)\n\n> \"El único motivo por el que no se acuestan con otros no es el respeto al matrimonio sino el sentimiento de culpa,\"\n→ [Análisis arquetípico de Eyes wide shut (33:22)](https://youtu.be/olX_-KIziX0?t=2002)\n\n> \"El acto correcto por el motivo equivocado es equivocado,\"\n→ [Análisis arquetípico de Eyes wide shut (33:22)](https://youtu.be/olX_-KIziX0?t=2002)\n\nLa pieza articula con precisión qué condición negativa requiere el hieros gamos para consumarse: NO basta con la conducta exclusiva (no acostarse con terceros), se exige renuncia afectiva al lugar mismo donde el deseo de ser deseado opera. Si la conducta exclusiva se sostiene por culpa (mecanismo defensivo, evitación punitiva) en lugar de por sacralización (transferencia afectiva al cónyuge), el matrimonio queda formalmente intacto pero estructuralmente vacío. La fórmula 'el acto correcto por el motivo equivocado es equivocado' es operativa para todo el aparato de la página: el hieros gamos es operación afectiva-arquetípica, no comportamiento conductual disciplinado.\n\n### El final ambiguo: la negativa a comprometerse\n\n> \"Ella dice \\\"no usemos para siempre, que me da miedo\\\": no se atreve a tomar la decisión de estar verdaderamente casada,\"\n→ [Análisis arquetípico de Eyes wide shut (2:16:38)](https://youtu.be/olX_-KIziX0?t=8198)\n\n> \"En lugar de comprometerse dice \\\"tengamos sexo\\\": volver a saciar el deseo para sentir que no lo necesitan fuera,\"\n→ [Análisis arquetípico de Eyes wide shut (2:16:38)](https://youtu.be/olX_-KIziX0?t=8198)\n\n> \"La ninfa y el sátiro no renuncian al pecado ni se comprometen con el amor: no hacen ninguna de las dos cosas,\"\n→ [Análisis arquetípico de Eyes wide shut (2:16:38)](https://youtu.be/olX_-KIziX0?t=8198)\n\nEl cierre fija la modalidad nueva en la taxonomía. El hieros gamos satánico (Drácula) lo invierte; el bucle sororal (Frozen) lo sustituye; aquí la pareja simplemente NO LO ATRAVIESA. La fórmula 'tengamos sexo' opera como sustituto operativo del 'comprometámonos': la satisfacción inmediata del deseo conyugal — que en la modalidad sana funciona como manifestación afectiva del compromiso ya consumado — opera aquí como dispositivo PARA NO TENER QUE COMPROMETERSE, manteniendo la antesala perpetua donde el rito matrimonial sigue siendo expectativa más que realidad. El miedo a 'usar para siempre' es miedo al colapso del estado superpuesto donde aún se puede ser ninfa o sátiro deseable mientras formalmente se está casado.\n\n### Caso operativo de la pendiente resbaladiza arquetípica\n\nEl directo articula además la pendiente resbaladiza arquetípica que el matrimonio inmaduro recorre cuando uno de los cónyuges activa la mecánica de búsqueda del deseo externo. La cadena articulada: confesión transaccional como arma (1:00:11) → semilla del pánico simétrico (1:08:16) → desnudo médico como autoengaño (1:11:18) → tienda Arcoíris como umbral (1:25:32) → orgía ritualista (1:33:05) → expulsión del héroe fracasado (1:47:48). La pieza importa para el aparato del hieros gamos: la pendiente NO se recorre por elección moral sino por activación mecánica una vez que la sacralización del vínculo nunca operó realmente. La página propia [[eyes-wide-shut-1999-film]] desarrolla la cadena completa.\n",
+      "wikilinks_introduced": [
+        "eyes-wide-shut-1999-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "olX_-KIziX0",
+          "timestamp_seconds": 3397,
+          "cite_markdown": "[Análisis arquetípico de Eyes wide shut (56:37)](https://youtu.be/olX_-KIziX0?t=3397)"
+        },
+        {
+          "video_id": "olX_-KIziX0",
+          "timestamp_seconds": 2002,
+          "cite_markdown": "[Análisis arquetípico de Eyes wide shut (33:22)](https://youtu.be/olX_-KIziX0?t=2002)"
+        },
+        {
+          "video_id": "olX_-KIziX0",
+          "timestamp_seconds": 8198,
+          "cite_markdown": "[Análisis arquetípico de Eyes wide shut (2:16:38)](https://youtu.be/olX_-KIziX0?t=8198)"
+        }
+      ],
+      "rationale": "La página tenía una sección breve sobre Eyes Wide Shut (un solo quote sobre el par 'galán deseado por ninfas, ninfa deseada por galanes'). El monográfico articula tres bloques sustantivos no presentes: (1) par ninfa-sátiro como configuración matrimonial inmadura donde el matrimonio no opera transferencia afectiva sino adición sin sustracción; (2) la sacralización del vínculo como renuncia ACTIVA al deseo de ser objeto de deseo de terceros (no basta conducta exclusiva por culpa); (3) final ambiguo articulando una tercera modalidad de fracaso del hieros gamos — permanencia perpetua en la ambivalencia, distinta de la inversión satánica (Drácula) y de la sustitución sororal (Frozen). La pieza añade además la pendiente resbaladiza arquetípica como cadena operativa cuando la sacralización nunca operó.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el caso Candela requiere aceptar que ser buena hija no la obliga a continuar el sueño paterno como propio.",
+      "content_proposed": "\n## Ambivalencia vs ambigüedad: dos defensas opuestas del material no resuelto\n\nEl monográfico de diciembre 2023 sobre [[eyes-wide-shut-1999-film|Eyes Wide Shut]] articula una distinción categorial que la página tenía implícita: el material afectivo no resuelto (la ambivalencia como coexistencia de dos sentimientos incompatibles que impiden la acción) admite dos defensas operativas estructuralmente opuestas, y el síndrome del Xocas opera como una de ellas — no la única.\n\n> \"La ambivalencia es la coexistencia en el yo de dos sentimientos incompatibles que impiden la acción,\"\n→ [Análisis arquetípico de Eyes wide shut (02:36)](https://youtu.be/olX_-KIziX0?t=156)\n\n> \"La ambigüedad es tomar un camino del medio donde no haces nada y dejas que las circunstancias te lleven,\"\n→ [Análisis arquetípico de Eyes wide shut (44:29)](https://youtu.be/olX_-KIziX0?t=2669)\n\n> \"El miedo a actuar no es miedo al caos sino a la irreversibilidad de las acciones y al coste desconocido que implican,\"\n→ [Análisis arquetípico de Eyes wide shut (02:36)](https://youtu.be/olX_-KIziX0?t=156)\n\nLa distinción articula tres posiciones operativas frente al material afectivo no resuelto:\n\n1. **Ambivalencia genuina**: el sujeto sostiene la coexistencia de los dos sentimientos incompatibles sin actuar y experimenta la parálisis afectiva conscientemente. Posición clínicamente difícil pero abierta a elaboración — el sujeto sabe que hay conflicto.\n2. **Defensa por velocidad — síndrome del Xocas**: el sujeto huye de la ambivalencia mediante carrera obsesiva sobre el agua. La meta utópica material funciona como dispositivo de no-tener-que-pararse a enfrentar el conflicto. Es defensa ACTIVA — el sujeto se mantiene en movimiento perpetuo.\n3. **Defensa por parálisis — ambigüedad**: el sujeto huye de la ambivalencia tomando un camino del medio donde no decide. Las circunstancias le llevan, y eso le exime de actuar y por tanto de afrontar el coste de la decisión. Es defensa PASIVA — el sujeto se queda inmóvil esperando que el conflicto se disuelva por sí solo.\n\nLa pieza completa el aparato de la página con una taxonomía de defensas: la carrera obsesiva del Xocas y la parálisis ambigua son dos modos opuestos de la misma operación defensiva — eludir la elección irreversible. El miedo subyacente es el mismo en ambos casos (miedo a la irreversibilidad de las acciones y al coste desconocido), y por eso ambas defensas pueden coexistir en un mismo sujeto que alterna entre fases de productividad compulsiva (Xocas) y fases de parálisis vital (ambigüedad). Eyes Wide Shut articula el polo opuesto al Xocas — Bill y Alice Harford operan en modalidad de ambigüedad sostenida durante todo el film, dejando que las circunstancias les lleven a la fiesta secreta, a la confesión, al regreso, sin que ninguno de los dos tome decisión activa sobre el matrimonio.\n\nLa consecuencia clínica es operativa: las dos defensas requieren intervenciones terapéuticas estructuralmente distintas. El Xocas necesita pararse y atravesar la noche oscura del alma; el sujeto en ambigüedad necesita lo contrario — moverse, actuar, romper la inercia. Una intervención ambigua aplicada al Xocas (decirle 'descansa, no decidas') reforzaría su defensa; una intervención de quietud aplicada al sujeto en ambigüedad ('siéntate con tu conflicto') le confirmaría en su parálisis.\n",
+      "wikilinks_introduced": [
+        "eyes-wide-shut-1999-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "olX_-KIziX0",
+          "timestamp_seconds": 156,
+          "cite_markdown": "[Análisis arquetípico de Eyes wide shut (02:36)](https://youtu.be/olX_-KIziX0?t=156)"
+        },
+        {
+          "video_id": "olX_-KIziX0",
+          "timestamp_seconds": 2669,
+          "cite_markdown": "[Análisis arquetípico de Eyes wide shut (44:29)](https://youtu.be/olX_-KIziX0?t=2669)"
+        }
+      ],
+      "rationale": "La página articula el síndrome del Xocas como defensa contra la ambivalencia (carrera obsesiva sobre el agua para no encontrarse con la ambivalencia) y la modalidad femenina via Candela. NO contiene la distinción categorial entre AMBIVALENCIA (estado fundacional) vs AMBIGÜEDAD (defensa pasiva opuesta al Xocas). La distinción cierra la taxonomía con tres posiciones operativas: ambivalencia genuina (consciente, abierta a elaboración), defensa por velocidad (Xocas), defensa por parálisis (ambigüedad). Consecuencia clínica: las dos defensas requieren intervenciones estructuralmente opuestas. Material que extiende el aparato del síndrome con su contraparte estructural complementaria.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "woke-narrativa-postmoderna-moral",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La precisión cierra el catálogo retórico woke que la página articula: vaciamiento arquetípico (sustrato) + sofisma estético (mecanismo puntual) + pendiente resbaladiza (mecanismo estructural).",
+      "content_proposed": "\n### Iconografía arquetípica de la pendiente: el arcoíris como umbral del pecado\n\nEl monográfico de diciembre 2023 sobre [[eyes-wide-shut-1999-film|Eyes Wide Shut]] añade la **iconografía mítica precisa** de la pendiente resbaladiza que la sección anterior articulaba en plano retórico. La pieza precisa el sustrato simbólico que el dispositivo retórico moviliza inconscientemente.\n\n> \"\\\"Allí donde acaba el arcoíris\\\" es lo peor del mundo: un camino bonito pero ilusorio que conduce al descenso al peor de los infiernos,\"\n→ [Análisis arquetípico de Eyes wide shut (36:24)](https://youtu.be/olX_-KIziX0?t=2184)\n\n> \"Mitológicamente el arcoíris señala el lugar de donde proviene la magia donde todos los deseos se cumplirán,\"\n→ [Análisis arquetípico de Eyes wide shut (36:24)](https://youtu.be/olX_-KIziX0?t=2184)\n\n> \"El arcoíris es la pendiente por la cual empiezas saltándote una norma y puedes llegar a justificar la mayor de las barbaridades,\"\n→ [Análisis arquetípico de Eyes wide shut (1:58:25)](https://youtu.be/olX_-KIziX0?t=7105)\n\n> \"Más allá del arcoíris está el pecado; más allá del pecado, la depravación absoluta,\"\n→ [Análisis arquetípico de Eyes wide shut (1:58:25)](https://youtu.be/olX_-KIziX0?t=7105)\n\nLa iconografía cierra el aparato retórico de la página con sustrato mítico-arquetípico. El arcoíris como signo arquetípico opera con doble valencia: superficialmente es signo de la magia donde todos los deseos se cumplen (cumplimiento sin coste); estructuralmente es camino visualmente atractivo cuyo destino real es el infierno. La pendiente resbaladiza retórica explota precisamente esa estructura — cada paso aparece como cumplimiento legítimo de un deseo (validación moral parcial, transgresión menor justificable) hasta que la cadena entera lleva al sujeto a posiciones que jamás habría aceptado en el primer paso. La fórmula del directo cifra la mecánica: 'cada vez que cruzas una línea se borra la anterior' — el sujeto pierde el referente de cuán lejos ha ido porque cada nuevo umbral redefine el horizonte de lo aceptable.\n\nEl caso operativo es la **tienda Arcoíris** en Eyes Wide Shut: el local de disfraces se llama literalmente 'Rainbow' y opera como umbral hacia lo prohibido. El custodio tiene una hija ninfómana que comete actos libidinosos — la simple cercanía a la tienda ya es proximidad a la depravación. Más tarde el custodio vende a su hija a clientes orientales: la pendiente del primer paso ha llevado al padre a normalizar la prostitución infantil de su propia hija. La iconografía es decisiva: el arcoíris no representa diversidad ni cumplimiento, representa el camino que parece llevar al cumplimiento pero conduce estructuralmente al infierno.\n\nLa pieza tiene consecuencia operativa para la lectura cultural contemporánea de la página: cuando el dispositivo retórico postmoderno usa el símbolo del arcoíris como signo de progreso o liberación moral, está activando inconscientemente la iconografía mítica del camino al infierno — eso es lo que la pendiente resbaladiza woke recapitula sin saberlo. La elección iconográfica del arcoíris como bandera de movimientos identitarios es leída por el canal no como casualidad estética sino como activación estructural del símbolo de la transgresión justificada en cadena.\n",
+      "wikilinks_introduced": [
+        "eyes-wide-shut-1999-film"
+      ],
+      "citations_added": [
+        {
+          "video_id": "olX_-KIziX0",
+          "timestamp_seconds": 2184,
+          "cite_markdown": "[Análisis arquetípico de Eyes wide shut (36:24)](https://youtu.be/olX_-KIziX0?t=2184)"
+        },
+        {
+          "video_id": "olX_-KIziX0",
+          "timestamp_seconds": 7105,
+          "cite_markdown": "[Análisis arquetípico de Eyes wide shut (1:58:25)](https://youtu.be/olX_-KIziX0?t=7105)"
+        }
+      ],
+      "rationale": "La página articula la pendiente resbaladiza como mecanismo retórico que encadena sofismas sin relación causal. NO contiene la ICONOGRAFÍA MÍTICA del arcoíris como vehículo arquetípico de la pendiente — el arcoíris como camino visualmente atractivo cuyo destino estructural es el infierno; cada paso borra la línea anterior. Caso operativo: la tienda Arcoíris en Eyes Wide Shut. La pieza añade además consecuencia cultural contemporánea: la elección iconográfica del arcoíris como bandera identitaria activa inconscientemente el símbolo del camino al infierno arquetípico.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "ambivalencia como categoría psicológica fundacional",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción canal-específica articulada con detalle pero como marco de la película, no como tesis general standalone. La articulación sustantiva queda capturada en pending_update a sindrome-xocas (ambivalencia vs ambigüedad como dos defensas) y en promote_new del film. Categoría que merece vigilancia para futura página propia si recurre con sustantividad equivalente en otros directos.",
+      "quote_evidence": "La ambivalencia es la coexistencia en el yo de dos sentimientos incompatibles que impiden la acción,",
+      "review_priority": "medium",
+      "review_priority_reason": "Categoría operativa central del canal que aparece en Atrapado en el tiempo, Elemental, Eyes Wide Shut. Worth promoción a concept page propia si recurre con articulación standalone.",
+      "enriches_concept": "sindrome-xocas"
+    },
+    {
+      "surface_form": "pulsión de vida vs pulsión de muerte freudiana",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Marco psicoanalítico estándar (Eros/Thanatos) que el canal usa como vehículo del simbolismo cromático rojo/negro. Aplicación de Freud, no tesis sustantiva del canal sobre el autor. Capturado en promote_new del film con wikilink a freud-sigmund.",
+      "quote_evidence": "Freud y los psicoanalistas identificaron dos impulsos: el que nos pide vivir y el que nos pide caer en el olvido y apagarnos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "freud-sigmund"
+    },
+    {
+      "surface_form": "simbolismo cromático rojo/negro/azul/morado/verde/arcoíris",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aparato simbólico intra-película que articula las pulsiones, la inocencia, el arrepentimiento, la oportunidad perdida y el umbral del pecado. Capturado en promote_new del film como núcleo del análisis estético.",
+      "quote_evidence": "Los tres símbolos principales son el rojo, el negro y los espejos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "eyes-wide-shut-1999-film"
+    },
+    {
+      "surface_form": "orgía ritualista / fiesta secreta como mecánica del superhombre",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación sobre cómo las sociedades secretas justifican el pecado mediante ritualismo y pertenencia a una élite. Conecta con magia-postmoderna-en-proxy (sin lectura previa en este barrido) y con consumismo-critica (sacralización vs desacralización). Capturado en promote_new del film con wikilink a magia-postmoderna.",
+      "quote_evidence": "El ritualismo sirve para justificar el pecado y darle solemnidad: inventarse un motivo superior para lo que es simplemente satisfacer un instinto,",
+      "review_priority": "medium",
+      "review_priority_reason": "La mecánica del superhombre como dispositivo de élite-justificadora-del-pecado es articulación canal-específica que enriquece magia-postmoderna-en-proxy y posiblemente teologia-catolica-en-proxy (la negación operativa del aparato sacramental).",
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "matrimonio como institución antropológica más sagrada",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación foundational del canal sobre el matrimonio que toca amor-cortes-y-monogamia-civilizatoria. Sin lectura previa de esa página en este barrido, capturado en promote_new del film y en pending_update a hieros-gamos.",
+      "quote_evidence": "El matrimonio es una de las instituciones antropológicas más sagradas y sacralizadas culturalmente,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación del matrimonio como institución sagrada antropológica es central al aparato del canal sobre amor de pareja. Worth verificar enriquecimiento futuro a amor-cortes-y-monogamia-civilizatoria.",
+      "enriches_concept": "amor-cortes-y-monogamia-civilizatoria"
+    },
+    {
+      "surface_form": "el deseo de ser deseada como herida central femenina",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica sobre la posición de Alice: necesita ser valorada por su interior pero sin que se olviden de su exterior. La paradoja 'no se puede querer al mismo tiempo por cuerpo e interior' es articulación canal-específica. Capturado en promote_new del film.",
+      "quote_evidence": "Lo que ella quiere no es solo que él la quiera como mujer sino que la siga conquistando cada día y cada noche,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "eyes-wide-shut-1999-film"
+    },
+    {
+      "surface_form": "confesión como arma transaccional",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mecánica psicológica articulada: confesar un deseo pasado para sustituir la propia culpa por reproche al otro. Capturado en promote_new del film.",
+      "quote_evidence": "Esta mecánica transaccional convierte un pecado propio en una amenaza que desestabiliza al otro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "eyes-wide-shut-1999-film"
+    },
+    {
+      "surface_form": "Traumnovelle de Schnitzler (novela base)",
+      "reason_code": "passing_mention",
+      "reason_detail": "La película de Kubrick está basada en la novella de Arthur Schnitzler (1926). El directo no menciona explícitamente a Schnitzler en el summary. Capturado como frontmatter-field en promote_new del film.",
+      "quote_evidence": "",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "eyes-wide-shut-1999-film"
+    },
+    {
+      "surface_form": "los sueños como posibilidades contempladas, no deseos frustrados",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la naturaleza de los sueños que rechaza la lectura freudiana clásica del deseo frustrado. Pieza que conecta con teoria-de-la-memoria-en-proxy y conciencia-e-inteligencia-en-proxy. Capturado en promote_new del film.",
+      "quote_evidence": "Los sueños no representan deseos frustrados sino posibilidades contempladas mentalmente que la mente recrea sin culpa durante la noche,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación canal-específica sobre los sueños rechaza explícitamente a Freud y propone una alternativa cognitiva. Worth vigilar si recurre como tesis sustantiva.",
+      "enriches_concept": "teoria-de-la-memoria-en-proxy"
+    },
+    {
+      "surface_form": "Nicole Kidman / Tom Cruise (intérpretes)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia a los actores principales sin análisis sustantivo de su trabajo. Capturado en frontmatter del promote_new del film.",
+      "quote_evidence": "Nicole Kidman (personaje femenino) se enfrenta a la ambivalencia de forma pasiva, esperando que colapse por sí misma,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "eyes-wide-shut-1999-film"
+    },
+    {
+      "surface_form": "marihuana como puerta al país de las maravillas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura simbólica intra-película de la marihuana de Alice como dispositivo psicoactivo que abre la confrontación. Sin elaboración del marco general sobre drogas. Capturado en promote_new del film.",
+      "quote_evidence": "Saca marihuana de detrás del armario-espejo como una puerta al país de las maravillas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "eyes-wide-shut-1999-film"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 6,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-09T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[metáfora del gato de Schrödinger aplicado a las decisiones vitales] reason=passing_mention quote no literal",
+    "DROP discarded[prostituta como diosa que rescata al héroe del vientre de la ballena] reason=passing_mention quote no literal",
+    "WARN promote_new[Eyes Wide Shut (Kubrick, 1999)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

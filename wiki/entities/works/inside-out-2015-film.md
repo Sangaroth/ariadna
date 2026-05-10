@@ -100,4 +100,7 @@ La lectura culminante del canal sobre la película — afín a su tratamiento de
 
 ## Citations
 
+
 - video_id: `V-ixEcJuLzw` — Análisis arquetípico Inside Out
+- **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [10:14](https://youtu.be/TmQiM16HIpU?t=614)
+

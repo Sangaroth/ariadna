@@ -102,6 +102,27 @@ El canal articula el filme como prolongación —no repetición— del paradigma
 
 El desplazamiento de la pregunta —del sueño del androide a la materia onírica del humano— inscribe la obra como caso del [[mito-moderno-en-proxy]] que toma en serio la posibilidad de un alma sintética y traza con precisión sus límites.
 
+
+## La saga como laboratorio operativo del test de Turing
+
+En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal lee la saga Blade Runner como laboratorio filosófico operativo del aparato Turing/Penrose articulado en [[conciencia-e-inteligencia-en-proxy]]. Los dos filmes ilustran sucesivamente los dos paradigmas y su umbral.
+
+> "En Blade Runner los replicantes son simulaciones tipo Penrose: indistinguibles conductualmente pero falsables con un procedimiento,"
+→ [Transhumanismo, IA y Ciencia Ficción. (1:08:37)](https://youtu.be/kdk8mi7-Y1s?t=4117)
+
+La primera entrega (Blade Runner, 1982) opera enteramente en el paradigma Penrose: los replicantes son indistinguibles conductualmente del humano pero existe un procedimiento de decisión disponible — el test Voigt-Kampff que mide respuesta pupilar a estímulos emocionales — que permite identificarlos. La premisa narrativa de la película (el blade runner debe falsar replicantes mediante test) presupone la disponibilidad operativa del procedimiento; sin él, no habría profesión que ejercer. La obra es por tanto **caso paradigmático Penrose en formato narrativo**: indistinguibilidad conductual + procedimiento de falsación = simulación, no inteligencia.
+
+> "En Blade Runner 2049 el androide duda de si es humano, y esa duda destruye el test de Turing: ya no hay procedimiento de decisión,"
+→ [Transhumanismo, IA y Ciencia Ficción. (1:08:37)](https://youtu.be/kdk8mi7-Y1s?t=4117)
+
+> "La duda existencial es lo que convierte a la simulación en algo con instinto existencial e indistinguible de un humano,"
+→ [Transhumanismo, IA y Ciencia Ficción. (1:08:37)](https://youtu.be/kdk8mi7-Y1s?t=4117)
+
+La segunda entrega (2049) cruza al paradigma Turing fuerte mediante un dispositivo narrativo preciso: K (el agente replicante protagonista) duda él mismo de si es humano. La duda **destruye operativamente el procedimiento de decisión**: si el propio sistema-objeto del test interroga su naturaleza con la misma estructura existencial que un humano lo haría, no queda criterio externo accesible que permita resolver la cuestión por procedimiento. El test Voigt-Kampff de la primera entrega presuponía un sujeto-test estable que no dudaba de sí; cuando esa estabilidad se rompe desde dentro, el procedimiento que medía respuestas pupilares ante estímulos pierde objeto operativo — no hay humano-de-referencia frente al cual contrastar al replicante porque el replicante muestra la misma estructura interna de duda que constituye al humano como humano.
+
+La pieza importa para la lectura junguiana ya articulada en las secciones anteriores: la **Madre Eléctrica** ausente, el ánima como dimensión que el diseño no puede falsificar, la angustia existencial diseñada como insumo afectivo (Wallace, Tyrell) — todas operan dentro del marco epistemológico Turing/Penrose. La angustia existencial como condición de fabricación que la página articula es precisamente el ingrediente cuya autenticidad bloquea el procedimiento de decisión: si el replicante duda con la misma estructura ontológica que el humano duda, los dos satisfacen indistintamente el criterio Turing fuerte. La obra opera entonces a dos niveles superpuestos — laboratorio epistemológico (qué cuenta como inteligencia genuina) y caso arquetípico junguiano (qué cuenta como alma) — y ambos niveles convergen en la misma respuesta: la cualidad afectiva genuina (duda, angustia, ánima) es lo que satisface el criterio fuerte y lo que ningún diseño puede sintetizar por procedimiento.
+
+
 ## Lagunas
 
 - (sin lagunas declaradas todavía)
@@ -109,5 +130,7 @@ El desplazamiento de la pregunta —del sueño del androide a la materia oníric
 ## Citations
 
 
+
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [19:15](https://youtu.be/lOpCXo1pi2M?t=1155)
+- **Transhumanismo, IA y Ciencia Ficción.** — chunks: [1:08:37](https://youtu.be/kdk8mi7-Y1s?t=4117)
 
