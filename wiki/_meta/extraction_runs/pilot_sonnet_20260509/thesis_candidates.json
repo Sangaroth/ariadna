@@ -3,6 +3,148 @@
   "run_id": "pilot_sonnet_20260509",
   "items": [
     {
+      "from_video": "1cKAgkEEbMA",
+      "from_video_title": "Tontas en Potencia",
+      "auto_promoted": false,
+      "thesis": {
+        "thesis_title_proposed": "El Antiguo Testamento como mito civilizatorio: del Éxodo al palo de cobre como batalla cultural",
+        "proposed_page_id": "antiguo-testamento-mito-civilizatorio",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "El palo de cobre con la serpiente es la batalla cultural: representar iconográficamente adónde lleva el mal y la queja,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Moisés encarna la transición de Mago a Hierofante pasando por el Emperador del tarot: el líder que debe guiar a un pueblo que no para de quejarse,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Los libros del Éxodo a Jueces narran el desarrollo mitológico de Israel como metáfora de la expansión de la humanidad y la civilización,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Antiguo Testamento como mito de civilización (Éxodo a Jueces)",
+          "Paso civilización → cultura como soluciones colectivas a problemas colectivos",
+          "Viaje por el desierto como independencia tras tiranía sin recursos",
+          "Moisés como transición Mago→Emperador→Hierofante en el tarot",
+          "Serpientes como castigo divino al dejar de obedecer y solo quejarse",
+          "Serpiente = lo cetónico (reptil/dragón/bestia primitiva)",
+          "Mordisco como sufrimiento incomprensible del que no se aprende a tiempo",
+          "Palo de cobre como iconografía permanente del mal — única defensa contra la queja",
+          "Aplicación operativa: decadencia liberprogre = israelitas quejándose a Moisés",
+          "Civilización en estado de supervivencia con anuncio permanente de serpientes"
+        ],
+        "minutes_sustained": 12,
+        "domain_guess": "humanities.religion",
+        "related_existing_pages": [
+          "genesis-mitologico",
+          "tarot-arquetipico",
+          "uranico-telurico-cetonico",
+          "dragon-arquetipo",
+          "consumismo-critica"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple el gate de ≥2 señales de §2.4.1 (thesis_marker explícito + estructura interna articulada con 10 piezas + applied_framework). NO cumple el gate de auto-promoción (sustained=12 min < 30; signals=3 marginales). Queda en thesis_candidates esperando firma humana. La articulación es propia del canal — lectura del AT como mito civilizatorio aplicada a crítica cultural contemporánea (decadencia liberprogre como pueblo quejándose), con encaje genealógico en genesis-mitologico, tarot-arquetipico, uranico-telurico-cetonico."
+      }
+    },
+    {
+      "from_video": "1cKAgkEEbMA",
+      "from_video_title": "Tontas en Potencia",
+      "auto_promoted": false,
+      "thesis": {
+        "thesis_title_proposed": "Cerebro masculino y femenino como redes optimizadas para contexto vs objetivo",
+        "proposed_page_id": "cerebro-masculino-femenino-en-proxy",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El cerebro femenino es una red optimizada para interpretar contextos; el masculino prescinde del contexto para alcanzar objetivos,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El cerebro es femenino por defecto y se especifica en masculino por la testosterona durante la gestación,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "La depresión femenina es más compleja: el cerebro femenino sigue generando representaciones que la mujer intenta explicarse obsesivamente,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Cerebro femenino por defecto, masculinización por testosterona durante gestación",
+          "Cerebro femenino como red optimizada para interpretar contextos",
+          "Cerebro masculino prescinde del contexto para alcanzar objetivos",
+          "Patología requerida (esquizoide, psicopatía) para no comprender contexto, no basta ser varón",
+          "Psicólogos hombres como mejores terapeutas precisamente por estudiar el contexto femenino desde fuera",
+          "Lo inefable femenino y mayor interconexión representacional",
+          "Hombre con menos asertividad, más alexitimia, expresión lingüísticamente más simple",
+          "Depresión masculina → pérdida de sentido y automorición",
+          "Depresión femenina → obsesividad explicativa de representaciones generadas",
+          "Resolución de la depresión: mujeres por expresión artística, hombres por construcción material",
+          "Continuidad gradual: M y F son cerebralmente masculinos y femeninos en distinto grado, mujeres también tienen testosterona"
+        ],
+        "minutes_sustained": 16,
+        "domain_guess": "social.psychology.cognitive",
+        "related_existing_pages": [
+          "herida-narcisista-en-proxy",
+          "yo-ego-autoestima-en-proxy",
+          "teoria-de-las-emociones-en-proxy",
+          "diagrama-de-proxy",
+          "tipologia-femenina-arquetipica",
+          "sesgo-gamma"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple ≥2 señales (declared_thesis + internal_structure con 11 piezas + pedagogic_register sostenido). NO cumple gate auto-promoción (16 min < 30; pedagógico < 20 min). Queda en thesis_candidates. Marco propio del canal con sustrato neurobiológico (testosterona como agente especificador), correlato cognitivo (redes contexto vs objetivo) y consecuencia clínica (asimetría depresiva, alexitimia, vías de salida). Foundational para entender otras páginas del canal sobre M/F (sesgo-gamma, tipologia-femenina-arquetipica, herida narcisista cultural)."
+      }
+    },
+    {
+      "from_video": "1cKAgkEEbMA",
+      "from_video_title": "Tontas en Potencia",
+      "auto_promoted": false,
+      "thesis": {
+        "thesis_title_proposed": "Catolicismo filosófico vs islam poético: dos arquitecturas religiosas según el régimen cognitivo",
+        "proposed_page_id": "catolicismo-vs-islam-en-proxy",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El catolicismo es filosófico y el islam es poético: la filosofía busca coherencia formal, la poética solo requiere coexistencia de representaciones unidas por emoción,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La constitución de un tabú cultural nunca es por odio: si hubiera odio real se buscaría eliminar al otro, no instituir una represión,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El islam está pensado para ser simple: su doctrina poética permite que individuos irreflexivos se radicalicen porque no exige elaboración filosófica,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Constitución del tabú no es por odio (odio busca eliminación, no represión)",
+          "Islam como religión de mínimos: doctrina poética simple, accesible a irreflexivos",
+          "Catolicismo como religión de máximos: doctrina filosófica con coherencia formal",
+          "Pensamiento poético = representaciones unidas por emoción sin coherencia formal",
+          "Estancamiento producido por estupidez + pensamiento poético (caso Edad Media islámica)",
+          "Concepto de persona universal en catolicismo (sujeto de derecho natural)",
+          "Concepto de persona limitado al cumplimiento religioso en islam",
+          "Predación islámica sobre infiel como consecuencia permisiva, no mandato directo",
+          "Política como tecnología de uso de la fuerza vs religión como tecnología psicológica de prosperidad"
+        ],
+        "minutes_sustained": 14,
+        "domain_guess": "humanities.religion",
+        "related_existing_pages": [
+          "teologia-catolica-en-proxy",
+          "pensamiento-poetico",
+          "magia-postmoderna-en-proxy",
+          "anatomia-del-tabu-en-proxy",
+          "liturgia-como-rito"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple ≥2 señales (declared_thesis explícito + internal_structure con 9 piezas + applied_framework). NO cumple gate auto-promoción (14 min < 30; sin genealogía explícita ni pedagógico ≥20). Queda en thesis_candidates. Articulación propia del canal que extiende teologia-catolica-en-proxy con eje contrastivo no presente, conecta con pensamiento-poetico (régimen cognitivo) y anatomia-del-tabu-en-proxy (constitución del tabú no por odio). El bloque ya genera pending_update a teologia-catolica-en-proxy en este mismo extracto; la promoción a página propia queda como decisión humana."
+      }
+    },
+    {
       "from_video": "1ldYmBO4N4I",
       "from_video_title": "T5x09: El amor en realidad",
       "auto_promoted": true,
