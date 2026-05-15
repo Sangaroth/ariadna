@@ -86,8 +86,8 @@ DEFAULT_CORPUS = Path(
 # ---------------------------------------------------------------------------
 
 SESSION_MAX_VIDEOS = 20
-SESSION_MAX_SECONDS = 55 * 60  # margen sobre 20 vids × ~165s = ~55min para evitar cortes mid-vid
-SESSION_MAX_TOKENS = 500_000
+SESSION_MAX_SECONDS = 4 * 60 * 60  # 4h para cubrir 20 vids al pace actual (~10-12min/vid post-v0.3)
+SESSION_MAX_TOKENS = 2_000_000  # holgura para 20 vids con heavy_context único + Reads agentic
 PER_CALL_TIMEOUT_S = 1200
 
 # Vídeos seleccionados a mano para el piloto. Cubrir: monográfico Tolkien,
