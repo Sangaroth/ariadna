@@ -1,0 +1,189 @@
+{
+  "video_id": "Ok4maEVI_rs",
+  "video_title": "El día que casi se nos va",
+  "playlist": "twitch",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_promote_new": "Sin candidatos a promote_new: el vídeo es anécdota personal de una crisis médico-psicológica; no introduce entidades enciclopédicas nuevas. El auto-diagnóstico en tiempo real aplica conceptos ya promovidos (TOC, histeria/psicosis, fantasía afectiva, excisión) sin desarrollarlos como tesis nueva.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Contextualización del directo post-crisis",
+      "reason_code": "meta_canal",
+      "reason_detail": "Apertura del directo aludiendo al evento de la semana previa con advertencia de que no entrará en detalle público. Marco meta del propio directo, sin contenido teórico.",
+      "quote_evidence": "Primer lunes después de lo ocurrido la semana pasada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Gotero de Valium en urgencias",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle clínico del ingreso hospitalario (medicación administrada, fotos en Twitter bajo efecto). Anécdota médica personal sin valor enciclopédico.",
+      "quote_evidence": "Le administraron un gotero de Valium en urgencias,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Escisión entre cognición y afecto durante la crisis",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Observación introspectiva interesante (reconocer cognitivamente lo gracioso sin poder reírse físicamente) pero sin elevación a marco teórico; no desarrolla teoría de las emociones del canal más allá de lo ya documentado.",
+      "quote_evidence": "Durante la crisis le venían cosas graciosas a la cabeza pero era físicamente incapaz de reírse,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Acúfeno y síntomas prodrómicos",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Síntomas físicos previos a la crisis (zumbido, sudores fríos, tos, mal dormir). Diario clínico personal.",
+      "quote_evidence": "Semanas antes comenzó un zumbido en el oído en mitad de streams y a horas aleatorias,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Colapso físico al final del stream anterior",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Episodio prelipotímico al cierre del directo previo. Anécdota corporal.",
+      "quote_evidence": "Casi se desploma al final del stream anterior, similar a una lipotimia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Arcada emocional como detonante",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Metáfora introspectiva ('vomitar emociones') sobre el momento de ruptura durante una llamada familiar. El canal no la articula como categoría clínica sino como descripción experiencial.",
+      "quote_evidence": "Se rompió con una \"arcada emocional\": una congoja que era como vomitar emociones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Ataque de histeria: gritos incontrolables",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Descripción fenomenológica del episodio histérico (gritos, soledad en casa, sensación de 'haberse roto'). Material anecdótico sin extracción conceptual.",
+      "quote_evidence": "Empezó a gritar completamente fuera de sí y no podía parar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Irritación sensorial extrema",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Síntoma central de la crisis descrito como 'ruido emocional' constante. Vívida descripción experiencial, pero no se eleva a categoría.",
+      "quote_evidence": "Cualquier ruido, pensamiento, voz o estímulo provocaba una irritación insoportable,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Criterio observacional para distinguir histérico de psicótico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación auto-referencial de criterio diagnóstico ya documentado en anatomia-de-la-fantasia-y-sindrome-delirante (ego-distonía / capacidad de observar la anormalidad como umbral diferencial). No introduce el criterio como tesis, lo invoca para clasificarse a sí mismo. Cita-only relevante para la página existente.",
+      "quote_evidence": "Concluyó que era histérico y no psicótico porque ambos estados son excluyentes: la capacidad de observar la anormalidad descarta la psicosis,",
+      "review_priority": "medium",
+      "review_priority_reason": "Aplicación del marco diagnóstico del canal a la propia experiencia en tiempo real — buen timestamp de retrieval para la página de anatomía de la fantasía y síndrome delirante",
+      "enriches_concept": "anatomia-de-la-fantasia-y-sindrome-delirante"
+    },
+    {
+      "surface_form": "Proxy interno como observador disociado",
+      "reason_code": "passing_mention",
+      "reason_detail": "Descripción de la experiencia subjetiva donde una parte de la mente sigue evaluando clínicamente mientras la otra sufre. Conecta operativamente con la distinción excisión / disociación / despersonalización ya articulada en excision-psicologica: aquí el yo observador se mantiene íntegro mientras el yo experiencial está desbordado, lo que ejemplifica precisamente el criterio del canal sobre preservar la unidad del yo. Cita-only relevante.",
+      "quote_evidence": "Lo describe como si hubiera una persona sufriendo y un Proxy analizando psicológicamente en paralelo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Ejemplo en primera persona del 'yo intacto que contempla' frente a despersonalización — ilustra el criterio diferencial que la página ya articula a nivel teórico",
+      "enriches_concept": "excision-psicologica"
+    },
+    {
+      "surface_form": "Ingreso en urgencias por temor a brote psicótico",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle del trayecto hospitalario, constantes, vía, efecto físico vs persistencia afectiva. Anécdota médica.",
+      "quote_evidence": "Fue a urgencias del hospital provincial creyendo que podía ser un ataque psicótico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Reacción paranoide sin delirio comparada a mecánica TOC",
+      "reason_code": "passing_mention",
+      "reason_detail": "El speaker invoca explícitamente la mecánica obsesiva del TOC para describir la disonancia entre saber cognitivo y emoción intrusiva (la enfermera percibida como amenazante). Aplicación auto-referencial del marco; la mecánica ya está completamente articulada en toc-en-proxy. Cita-only.",
+      "quote_evidence": "Lo compara con la mecánica obsesiva de las crisis de trastorno obsesivo-compulsivo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Buen timestamp donde el speaker invoca explícitamente la página TOC sobre su propia experiencia — útil para retrieval",
+      "enriches_concept": "toc-en-proxy"
+    },
+    {
+      "surface_form": "Emoción intrusiva pura sin contenido representacional",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción interesante: emoción intrusiva sin imágenes ni recuerdos ni pensamientos episódicos. Se relaciona con la categoría 'fantasía AFECTIVA' (la que genera estados internos sin componente imaginario) ya documentada en anatomia-de-la-fantasia-y-sindrome-delirante para TOC. Aquí extiende implícitamente el rasgo a crisis histérica, pero el speaker no lo articula como tesis nueva — lo describe como observación clínica de su caso. Cita-only.",
+      "quote_evidence": "Era exclusivamente una emoción intrusiva pura, sin contenido representacional,",
+      "review_priority": "medium",
+      "review_priority_reason": "Aplicación de la categoría 'fantasía afectiva' fuera del TOC clásico — potencial pieza ilustrativa si en revisión humana se decide enriquecer la página con casos no-TOC",
+      "enriches_concept": "anatomia-de-la-fantasia-y-sindrome-delirante"
+    },
+    {
+      "surface_form": "Alta hospitalaria y ausencia de psiquiatría de guardia",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle logístico-hospitalario sobre el alta y los padres dormidos. Sin valor enciclopédico.",
+      "quote_evidence": "Le dieron el alta tras esperar bastante; llegó a casa a la 1 de la madrugada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Blancazo mental post-crisis distinguido de despersonalización",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Descripción del agotamiento cognitivo post-episodio con distinción explícita frente a despersonalización/desrealización. La distinción ya está cubierta en excision-psicologica (sección sobre despersonalización como sub-tipo de disociación). El 'blancazo' como agotamiento puro tampoco se eleva a categoría conceptual aquí, queda como vivencia.",
+      "quote_evidence": "No era despersonalización ni desrealización sino un vacío cognitivo por agotamiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Síntomas residuales mañana siguiente",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Estado post-crisis al día siguiente, intento fallido de contactar psiquiatra. Cierre logístico-anecdótico.",
+      "quote_evidence": "La cabeza no le funcionaba; intentó contactar psiquiatra y psicólogo pero estaban de vacaciones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Crisis previas en historial personal",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Revela episodios similares previos (hace 10 y 7 años, el último asociado a salida de una relación tóxica). Historial clínico personal sin elaboración como caso ilustrativo.",
+      "quote_evidence": "Reconoce que esto le ha pasado otras veces; no es su primera crisis,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Aclaración de que el stream no es la causa",
+      "reason_code": "meta_canal",
+      "reason_detail": "Disclaimer meta sobre el trabajo de streaming y la batalla cultural como factores no causales. Comentario sobre el propio canal/oficio, no contenido temático.",
+      "quote_evidence": "Afirma explícitamente que la crisis no fue provocada por el trabajo de streaming,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 18,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

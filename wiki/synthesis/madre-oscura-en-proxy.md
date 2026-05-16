@@ -380,6 +380,7 @@ La madre oscura como tipología se inscribe en la [[tipologia-femenina-arquetipi
 
 
 
+
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [14:36](https://youtu.be/OT2DW4zoKsE?t=876) · [17:07](https://youtu.be/OT2DW4zoKsE?t=1027) · [21:39](https://youtu.be/OT2DW4zoKsE?t=1299) · [32:16](https://youtu.be/OT2DW4zoKsE?t=1936) · [35:18](https://youtu.be/OT2DW4zoKsE?t=2118)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [26:32](https://youtu.be/NjtK76xzV18?t=1592)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [30:52](https://youtu.be/C5q89bw1G9E?t=1852)
@@ -400,4 +401,5 @@ La madre oscura como tipología se inscribe en la [[tipologia-femenina-arquetipi
 - **Lilith: La Iconotropía.** — chunks: [9:12](https://youtu.be/xKCD8PaexF0?t=552)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [42:28](https://youtu.be/DNxx4qwb944?t=2548)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [41:32](https://youtu.be/5uFhZcARjYQ?t=2492)
+- **TikTok  y la Madre Oscura #arquetipos** — chunks: [0:30](https://youtu.be/5LSzvknVFYM?t=30)
 

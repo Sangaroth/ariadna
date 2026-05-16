@@ -157,6 +157,8 @@ El caso paradigmático invocado es la teoría del apego de Bowlby: no se puede a
 
 
 
+
 - **Effy y Proxy contra el mundo** — chunks: [6:14](https://youtu.be/svG7uT3Z8Rk?t=374) · [14:49](https://youtu.be/svG7uT3Z8Rk?t=889) · [17:50](https://youtu.be/svG7uT3Z8Rk?t=1070) · [19:51](https://youtu.be/svG7uT3Z8Rk?t=1191) · [28:27](https://youtu.be/svG7uT3Z8Rk?t=1707)
 - **El Amor cortés y el amor romántico** — chunks: [14:34](https://youtu.be/bDnPuA3aZSk?t=874)
+- **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:23:55](https://youtu.be/BOIcK1Rpdvo?t=5035)
 

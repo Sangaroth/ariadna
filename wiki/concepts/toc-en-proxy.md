@@ -153,6 +153,10 @@ El canal añade una nota ética: impedir el ritual al sujeto con TOC se consider
 
 
 
+
+
 - **TOC** — chunks: [11:08](https://youtu.be/2zAwfcLnlvU?t=668) · [16:12](https://youtu.be/2zAwfcLnlvU?t=972) · [20:51](https://youtu.be/2zAwfcLnlvU?t=1251) · [25:53](https://youtu.be/2zAwfcLnlvU?t=1553) · [28:28](https://youtu.be/2zAwfcLnlvU?t=1708) · [35:12](https://youtu.be/2zAwfcLnlvU?t=2112) · [37:44](https://youtu.be/2zAwfcLnlvU?t=2264) · [43:20](https://youtu.be/2zAwfcLnlvU?t=2600) · [48:25](https://youtu.be/2zAwfcLnlvU?t=2905) · [52:27](https://youtu.be/2zAwfcLnlvU?t=3147) · [59:04](https://youtu.be/2zAwfcLnlvU?t=3544) · [1:02:37](https://youtu.be/2zAwfcLnlvU?t=3757) · [1:05:10](https://youtu.be/2zAwfcLnlvU?t=3910) · [1:07:12](https://youtu.be/2zAwfcLnlvU?t=4032) · [1:13:18](https://youtu.be/2zAwfcLnlvU?t=4398) · [1:17:20](https://youtu.be/2zAwfcLnlvU?t=4640) · [1:25:08](https://youtu.be/2zAwfcLnlvU?t=5108) · [1:29:44](https://youtu.be/2zAwfcLnlvU?t=5384)
 - **Effy y Proxy contra el mundo** — chunks: [10:16](https://youtu.be/svG7uT3Z8Rk?t=616)
+- **El día que casi se nos va** — chunks: [9:53](https://youtu.be/Ok4maEVI_rs?t=593)
+- **(segunda) Entrevista a Unicornio Psicópata** — chunks: [1:31:38](https://youtu.be/EnyBTP9FKoI?t=5498)
 

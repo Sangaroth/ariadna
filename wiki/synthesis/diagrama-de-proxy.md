@@ -746,6 +746,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
+
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
 - **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [48:12](https://youtu.be/NrLnzcceSLY?t=2892)
@@ -762,4 +763,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:04:24](https://youtu.be/NjtK76xzV18?t=3864)
 - **T5x07: Soto Ivars y el Tabú** — chunks: [15:18](https://youtu.be/wixOLxnd68o?t=918)
 - **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [2:33](https://youtu.be/-2u3CAw1xCs?t=153) · [8:37](https://youtu.be/-2u3CAw1xCs?t=517)
+- **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [1:09:28](https://youtu.be/966LWuiirwA?t=4168)
 

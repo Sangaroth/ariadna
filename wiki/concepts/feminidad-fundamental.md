@@ -144,6 +144,7 @@ La feminidad fundamental no es proyección (ánima) ni figura mítica (Diosa Bla
 
 - **Definición inaugural (09:37)**: la primera articulación del concepto en el vídeo —el "estado por defecto" de la feminidad previo a la diferenciación— no tiene cita directa en esta página
 - **La abuela como inconsciente femenino (1:45:06)**: el vídeo articula la figura de la abuela como representación del inconsciente femenino de la protagonista; esa dimensión del concepto no está desarrollada aquí
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Masculinidad como mutación**: la tesis complementaria de que la masculinidad e -->
 - **Masculinidad como mutación**: la tesis complementaria de que la masculinidad es una mutación sobre el sustrato femenino por defecto —mencionada en el análisis del vídeo— no está desarrollada con cita literal en esta página
 - **Relación con [[mito-lunar]]**: el canal posiciona la feminidad fundamental como pieza inferior del eje [[mito-polar]], pero la articulación de su relación específica con el [[mito-lunar]] queda implícita, no desarrollada
 - **Proceso de vivencia directa**: el canal afirma que la carencia de figura paterna solo puede paliarse con "la vivencia directa de la feminidad", sin desarrollar qué forma concreta adopta ese proceso vital o terapéutico
@@ -153,4 +154,3 @@ La feminidad fundamental no es proyección (ánima) ni figura mítica (Diosa Bla
 
 
 - **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [9:37](https://youtu.be/CEa517aakr8?t=577) · [1:45:06](https://youtu.be/CEa517aakr8?t=6306) · [2:11:24](https://youtu.be/CEa517aakr8?t=7884) · [2:18:29](https://youtu.be/CEa517aakr8?t=8309) · [2:26:17](https://youtu.be/CEa517aakr8?t=8777)
-

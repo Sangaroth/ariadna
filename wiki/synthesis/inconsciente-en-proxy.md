@@ -284,8 +284,16 @@ Esta articulación del inconsciente es la categoría general de la que derivan l
 
 
 
+
+
+
+
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [31:45](https://youtu.be/9wJQ9tm9Yuc?t=1905) · [41:20](https://youtu.be/9wJQ9tm9Yuc?t=2480) · [42:50](https://youtu.be/9wJQ9tm9Yuc?t=2570) · [54:16](https://youtu.be/9wJQ9tm9Yuc?t=3256) · [58:18](https://youtu.be/9wJQ9tm9Yuc?t=3498) · [59:48](https://youtu.be/9wJQ9tm9Yuc?t=3588) · [1:00:18](https://youtu.be/9wJQ9tm9Yuc?t=3618) · [1:04:22](https://youtu.be/9wJQ9tm9Yuc?t=3862) · [1:05:22](https://youtu.be/9wJQ9tm9Yuc?t=3922) · [1:10:24](https://youtu.be/9wJQ9tm9Yuc?t=4224) · [1:20:23](https://youtu.be/9wJQ9tm9Yuc?t=4823) · [1:22:25](https://youtu.be/9wJQ9tm9Yuc?t=4945) · [1:28:28](https://youtu.be/9wJQ9tm9Yuc?t=5308)
 - **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:04:07](https://youtu.be/6cSsI85qCp8?t=3847)
 - **Teoría de la mente y opción política** — chunks: [11:16](https://youtu.be/pgIY-zfcO4I?t=676)
 - **Effy y Proxy contra el mundo** — chunks: [17:50](https://youtu.be/svG7uT3Z8Rk?t=1070) · [23:24](https://youtu.be/svG7uT3Z8Rk?t=1404) · [25:25](https://youtu.be/svG7uT3Z8Rk?t=1525)
+- **Fantasía Realizada** — chunks: [10:18](https://youtu.be/tt0hNPvCpjw?t=618) · [11:49](https://youtu.be/tt0hNPvCpjw?t=709) · [12:53](https://youtu.be/tt0hNPvCpjw?t=773)
+- **Femenino (I)** — chunks: [34:28](https://youtu.be/VR3snBjNrsc?t=2068)
+- **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [4:05](https://youtu.be/966LWuiirwA?t=245) · [5:36](https://youtu.be/966LWuiirwA?t=336)
+- **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [7:06](https://youtu.be/BOIcK1Rpdvo?t=426)
 

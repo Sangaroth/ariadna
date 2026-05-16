@@ -110,5 +110,7 @@ Dentro de ese hilo, la fobia ocupa el polo obsesivo-egosintónico del eje: compa
 ## Citations
 
 
+
 - **Psicastenia** — chunks: [39:16](https://youtu.be/ht8B7BPY3AY?t=2356) · [1:20:32](https://youtu.be/ht8B7BPY3AY?t=4832) · [1:33:20](https://youtu.be/ht8B7BPY3AY?t=5600)
+- **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [26:16](https://youtu.be/966LWuiirwA?t=1576) · [28:47](https://youtu.be/966LWuiirwA?t=1727) · [33:25](https://youtu.be/966LWuiirwA?t=2005)
 

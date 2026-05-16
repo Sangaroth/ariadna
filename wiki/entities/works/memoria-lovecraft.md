@@ -132,6 +132,9 @@ El cuento se inscribe en el mismo registro de prosa-poema breve que [[ex-oblivio
 
 
 
+
+
+
 - **El Hate Bombing de la izquierda.** — chunks: [40:51](https://youtu.be/DTP3syEtxP4?t=2451) · [42:22](https://youtu.be/DTP3syEtxP4?t=2542)
 - **Gothika: De Profundis** — chunks: [1:09:16](https://youtu.be/Gx2740if0Ho?t=4156) · [1:25:56](https://youtu.be/Gx2740if0Ho?t=5156)
 - **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [18:57](https://youtu.be/xdT-SCW89cw?t=1137) · [36:15](https://youtu.be/xdT-SCW89cw?t=2175) · [41:50](https://youtu.be/xdT-SCW89cw?t=2510) · [46:54](https://youtu.be/xdT-SCW89cw?t=2814) · [49:28](https://youtu.be/xdT-SCW89cw?t=2968) · [56:34](https://youtu.be/xdT-SCW89cw?t=3394) · [57:34](https://youtu.be/xdT-SCW89cw?t=3454) · [1:10:32](https://youtu.be/xdT-SCW89cw?t=4232) · [1:16:40](https://youtu.be/xdT-SCW89cw?t=4600) · [1:19:11](https://youtu.be/xdT-SCW89cw?t=4751) · [1:22:16](https://youtu.be/xdT-SCW89cw?t=4936) · [1:28:56](https://youtu.be/xdT-SCW89cw?t=5336) · [1:30:56](https://youtu.be/xdT-SCW89cw?t=5456) · [1:34:01](https://youtu.be/xdT-SCW89cw?t=5641) · [1:46:42](https://youtu.be/xdT-SCW89cw?t=6402) · [1:50:18](https://youtu.be/xdT-SCW89cw?t=6618) · [2:01:15](https://youtu.be/xdT-SCW89cw?t=7275)
@@ -161,4 +164,7 @@ El cuento se inscribe en el mismo registro de prosa-poema breve que [[ex-oblivio
 - **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:42:03](https://youtu.be/6cSsI85qCp8?t=6123)
 - **T5x12: Estudiando con Proxy: Cómo se fabricó una tesis.** — chunks: [27:20](https://youtu.be/BU6vZJYMVxg?t=1640) · [32:23](https://youtu.be/BU6vZJYMVxg?t=1943) · [38:34](https://youtu.be/BU6vZJYMVxg?t=2314) · [1:09:14](https://youtu.be/BU6vZJYMVxg?t=4154) · [1:11:17](https://youtu.be/BU6vZJYMVxg?t=4277)
 - **Teoría de la mente y opción política** — chunks: [29:27](https://youtu.be/pgIY-zfcO4I?t=1767)
+- **Femenino (I)** — chunks: [44:03](https://youtu.be/VR3snBjNrsc?t=2643)
+- **Pampsiquismo ayahuasca y psicopatía** — chunks: [31:56](https://youtu.be/6M7IEYszK_4?t=1916)
+- **Patreons y Conciencia Artificial** — chunks: [14:57](https://youtu.be/1BWyXULOoQQ?t=897)
 

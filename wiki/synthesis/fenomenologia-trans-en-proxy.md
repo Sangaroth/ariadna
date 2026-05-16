@@ -434,6 +434,7 @@ La coexistencia de las dos estrategias es estructuralmente conflictiva porque op
 
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Los **tres núcleos trans** y los **fenómenos no-trans** que componen la taxonomí -->
 - Los **tres núcleos trans** y los **fenómenos no-trans** que componen la taxonomía propia se anuncian en el título y en la decisión editorial pero no aparecen desplegados literalmente en el fragmento del summary recuperado; falta enriquecer la página con las citas exactas que enumeren y describan cada núcleo.
 - La articulación entre **disforia como falla de integración del yo** (interior + exterior + refuerzo contextual) y los marcos clínicos al uso (DSM, CIE) no se desarrolla; el canal toma distancia del sintagma político pero no sistematiza qué se queda y qué se descarta del aparato psiquiátrico.
 - Falta la conexión explícita con el aparato uránico/telúrico/ctónico ([[uranico-telurico-cetonico]]) y con la [[tipologia-femenina-arquetipica]] / [[adgrediere-masculino]], que en otros directos del canal sostienen la diferenciación funcional masculino/femenino aquí asumida.
@@ -445,4 +446,3 @@ La coexistencia de las dos estrategias es estructuralmente conflictiva porque op
 
 - **Fenomenología Trans** — chunks: [21:52](https://youtu.be/grs5EqRZBnQ?t=1312)
 - **Wokismo para Wokes.** — chunks: [40:22](https://youtu.be/Q83ieEVaF5I?t=2422)
-

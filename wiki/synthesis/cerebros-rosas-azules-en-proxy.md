@@ -284,6 +284,7 @@ La segunda mitad del monográfico —no cubierta por el fragmento del summary di
 
 ## Lagunas
 
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Fragmento del summary cubre solo los primeros ~28 minutos**: los bloques de se -->
 - **Fragmento del summary cubre solo los primeros ~28 minutos**: los bloques de sexuación cerebral biológica, catálogo de preferencias sexuadas, transexualidad genuina y narcisismo sexual están documentados estructuralmente en los metadatos de promoción pero no disponen aún de citas literales del summary completo. Las secciones correspondientes del cuerpo deberán enriquecerse con citas directas cuando el summary completo del vídeo x7A9nfoRfu0 esté disponible.
 - **Evidencia empírica de las diferencias cerebrales**: el canal afirma las diferencias de sexuación pero el corpus disponible no detalla la base empírica ni cita estudios específicos. No está claro si el canal los menciona en la segunda mitad del vídeo o si esta dimensión es una laguna real del corpus.
 - **Dispersión intragrupo vs. diferencias medias**: el canal trabaja con tendencias estadísticas pero no tematiza explícitamente la alta solapación de distribuciones entre sexos. El espacio entre «hay diferencias medias» y «esto predice conducta individual» no está articulado.

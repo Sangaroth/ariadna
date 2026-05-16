@@ -142,6 +142,7 @@ Desde el [[diagrama-de-proxy]], los perfiles esquizo se ubican abajo a la izquie
 - **Base empírica y bibliográfica**: el canal no desarrolla el sustrato neuropsicológico del cuadro ni referencias a literatura de investigación sobre esquizotipia — el abordaje es fenomenológico y clínico-testimonial. Relación con [[psiquiatria-y-teoria-de-la-mente]] pendiente de desarrollo.
 - **Vínculo teórico con el [[diagrama-de-proxy]]**: la ubicación de perfiles esquizo en el diagrama se menciona como observación cuantitativa pero no se desarrolla qué eje del diagrama (jerarquía/relativismo, locus de control) explica esa distribución.
 - **Forma sin proceso terapéutico**: el bloque cubre la experiencia con diagnóstico y proceso en marcha; no articula qué ocurre cuando el esquizotípico no accede a diagnóstico ni acompañamiento clínico — la forma desorientada y sin nombre del cuadro.
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Continuidad en el corpus**: este bloque aparece en un único directo; no hay ma -->
 - **Continuidad en el corpus**: este bloque aparece en un único directo; no hay material confirmado en otros vídeos que desarrolle el cuadro esquizotípico con más profundidad. La página puede recibir actualizaciones si emergen bloques equivalentes.
 
 ## Citations

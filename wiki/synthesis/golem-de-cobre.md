@@ -1222,6 +1222,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
+
 - video_id: `e3Aj775Rlw4` — El Gólem de Cobre
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [43:10](https://youtu.be/NrLnzcceSLY?t=2590)
 
@@ -1230,4 +1231,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 - **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)
 - **Inteligencia Real e Inteligencia Artificial** — chunks: [1:33:26](https://youtu.be/9jU8stBu6p0?t=5606)
+- **Patreons y Conciencia Artificial** — chunks: [2:50](https://youtu.be/1BWyXULOoQQ?t=170)
 

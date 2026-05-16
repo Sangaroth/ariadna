@@ -159,6 +159,7 @@ El canal subraya que incluso la tipografía del título (*The VVitch*) es símbo
 
 
 
+
 - **Análisis arquetípico La Bruja** — chunks: [4:22](https://youtu.be/rRlks0e0oxU?t=262) · [2:04:12](https://youtu.be/rRlks0e0oxU?t=7452)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:12:14](https://youtu.be/aWeuzWLrLtE?t=4334) · [1:18:49](https://youtu.be/aWeuzWLrLtE?t=4729)
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [6:02](https://youtu.be/OT2DW4zoKsE?t=362) · [14:36](https://youtu.be/OT2DW4zoKsE?t=876) · [1:39:01](https://youtu.be/OT2DW4zoKsE?t=5941)
@@ -175,4 +176,5 @@ El canal subraya que incluso la tipografía del título (*The VVitch*) es símbo
 - **Mitología 101: Perséfone** — chunks: [51:41](https://youtu.be/VDOUrpcC4fU?t=3101)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [36:52](https://youtu.be/O4OkDuc3uPQ?t=2212)
 - **Taxonomía de las criaturas malignas** — chunks: [0:01](https://youtu.be/rG_et1_G7Hs?t=1) · [54:37](https://youtu.be/rG_et1_G7Hs?t=3277)
+- **Femenino (I)** — chunks: [1:07:52](https://youtu.be/VR3snBjNrsc?t=4072)
 

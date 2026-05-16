@@ -183,9 +183,11 @@ Ambas figuras se oponen estructuralmente a los enanitos: el cazador es civilizad
 
 
 
+
 - **Elisa y su CI** — chunks: [1:12:21](https://youtu.be/6tfSc45kjyo?t=4341)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [1:47:08](https://youtu.be/yLd7j3fcR1w?t=6428)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [11:30](https://youtu.be/yAIPr0HzQqE?t=690)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [1:00:51](https://youtu.be/fzEDQZIqKwg?t=3651)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [42:28](https://youtu.be/DNxx4qwb944?t=2548) · [51:47](https://youtu.be/DNxx4qwb944?t=3107) · [54:48](https://youtu.be/DNxx4qwb944?t=3288)
+- **En Busca de la Diosa Blanca** — chunks: [2:44](https://youtu.be/llS9fqsNVvY?t=164)
 

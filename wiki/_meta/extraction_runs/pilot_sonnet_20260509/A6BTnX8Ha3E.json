@@ -1,0 +1,108 @@
+{
+  "video_id": "A6BTnX8Ha3E",
+  "video_title": "Friendzone",
+  "playlist": "twitch",
+  "category": "psicología",
+  "entities": [],
+  "_doc_no_entities_promoted": "Vídeo corto aplicado sobre la friendzone con argumentos condensados (no tesis nueva sostenida). No introduce entidades nuevas — el material articula tres piezas que enriquecen páginas existentes vía retrieval: (a) inversión 'querer más vs querer menos' de la acusación de egoísmo masculino, (b) rechazo del término 'sexualizar' como categoría que niega la realidad del deseo masculino, (c) retirada del hombre rechazado como sana frente al simping. No propongo pending_updates porque no he leído en esta sesión los targets naturales (crisis-del-amor-pareja-y-maternidad-en-proxy, anatomia-del-tabu-en-proxy) y prefiero descartes con enriches_concept para retrieval que prosa redundante mal anclada.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Friendzone como asimetría del deseo entre hombre y mujer amiga",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso aplicado de la psicología de la relación heterosexual. Conecta con crisis-del-amor-pareja-y-maternidad-en-proxy (la incapacidad contemporánea de sostener vínculos) y con la asimetría adgrediere-masculino (el varón orientado al hacer; la mujer al ser). Cita-only relevante para retrieval específico sobre el fenómeno 'friendzone'.",
+      "quote_evidence": "El fenómeno describe típicamente a un hombre que siente algo más que amistad por una mujer amiga,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    },
+    {
+      "surface_form": "Queja viral femenina: 'todos mis amigos varones se enamoran de mí'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso viral de discurso femenino en redes que el canal toma como punto de partida para articular la asimetría querer más/querer menos. La queja opera estructuralmente como denuncia de injusticia que invierte el balance real del intercambio afectivo.",
+      "quote_evidence": "La queja clásica femenina en redes es \"todos mis amigos varones se enamoran de mí\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    },
+    {
+      "surface_form": "Presuposiciones ocultas en 'solo me quieren para eso'",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis lingüístico-pragmático de la frase: 'es injusto que solo me quieran para eso' presupone que ella sí los quiere para algo específico (su idea de amistad). Es prácticamente imposible que un varón con afinidad genuina y atracción física no quiera más — la injusticia denunciada oculta el beneficio que ella obtiene. Pieza condensada de análisis aplicado.",
+      "quote_evidence": "La frase \"es injusto que solo me quieran para eso\" presupone que ella sí los quiere para algo específico (su idea de amistad),",
+      "review_priority": "medium",
+      "review_priority_reason": "Análisis lingüístico-pragmático condensado del discurso femenino sobre la friendzone. Útil para retrieval específico sobre 'cómo el canal desmonta la denuncia femenina de la sexualización en la amistad'.",
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    },
+    {
+      "surface_form": "Asimetría 'querer más vs querer menos': inversión de la acusación de egoísmo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis específica del canal: el hombre que quiere algo romántico quiere MÁS de lo que ya tiene; la mujer que solo quiere amistad quiere MENOS de lo que el hombre ofrece. La asimetría INVIERTE la acusación habitual de egoísmo masculino — el egoísmo real es exigir que el otro se quede en el rol conveniente. Formulación condensada que merece preservarse como cita.",
+      "quote_evidence": "La mujer que solo quiere amistad quiere menos de lo que el hombre ofrece, lo cual invierte la acusación de egoísmo,",
+      "review_priority": "high",
+      "review_priority_reason": "Formulación canal-específica condensada e invertida de la dinámica friendzone. Útil para retrieval sobre la lectura del canal de la asimetría afectiva. Si futuras revisiones humanas detectan recurrencia en otros vídeos, podría merecer enriquecimiento explícito de crisis-del-amor-pareja-y-maternidad-en-proxy o de psicologia-incel-en-proxy (que articula al varón medio prescindible) con esta inversión específica de la acusación.",
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    },
+    {
+      "surface_form": "Rechazo del término 'sexualizar' como categoría que niega el deseo masculino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica conceptual específica: el deseo NO es algo que el hombre le HACE a ella (transitivo, accionable, denunciable) sino algo que OCURRE en el mundo (estructura del aparato sexual). El término 'sexualizar' opera como dispositivo lingüístico que convierte una realidad estructural en agresión imputable. Conecta con anatomia-del-tabu-en-proxy (categorías psicológicas vaciadas por el discurso público) y con sofisma-estetico (sustitución de la relación formal por categorías morales).",
+      "quote_evidence": "Proxy rechaza el término \"sexualizar\" porque el deseo no es algo que el hombre le haga a ella, sino algo que ocurre en el mundo,",
+      "review_priority": "high",
+      "review_priority_reason": "Crítica conceptual canal-específica de un término clave del discurso contemporáneo. Si futura revisión humana detecta recurrencia en otros vídeos, merecería enrichment explícito de anatomia-del-tabu-en-proxy o de woke-narrativa-postmoderna-moral con la mecánica específica por la que 'sexualizar' convierte estructura en agresión imputable. Cita ancla principal para retrieval.",
+      "enriches_concept": "anatomia-del-tabu-en-proxy"
+    },
+    {
+      "surface_form": "'No te veo como persona con la que tendría algo' como reducción de la atracción a ofensa",
+      "reason_code": "passing_mention",
+      "reason_detail": "Análisis específico de la mecánica retórica por la que el rechazo afectivo se convierte en deslegitimación del otro: 'no te veo como persona' reduce la atracción legítima del otro a una ofensa moral. Pieza aplicada del mecanismo de denuncia.",
+      "quote_evidence": "Ella dice \"no te veo como persona con la que tendría algo\", reduciendo la atracción legítima del otro a una ofensa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "crisis-del-amor-pareja-y-maternidad-en-proxy"
+    },
+    {
+      "surface_form": "Retirada del hombre rechazado como sana; quedarse como simping autodestructivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación del marco adgrediere-masculino a la situación de rechazo: el hombre que se queda tras el rechazo se impide avanzar y se autodestruye (presenciar la vida romántica de ella con otros es asimétricamente costoso). 'Simping' como término coloquial que el canal adopta para nombrar este patrón patológico. Conecta con adgrediere-masculino (la pulsión hacia adelante, contra oposición, requiere salir de posiciones sin futuro) y con psicologia-incel-en-proxy.",
+      "quote_evidence": "Quedarse en esa posición es un error y una forma de simping,",
+      "review_priority": "medium",
+      "review_priority_reason": "Aplicación específica del marco adgrediere al fenómeno simping. Conecta con la pulsión masculina hacia el avance contra resistencia documentada en adgrediere-masculino. Útil para retrieval sobre la lectura clínica del simping como bloqueo del adgrediere.",
+      "enriches_concept": "adgrediere-masculino"
+    },
+    {
+      "surface_form": "Amistad previa de 2-3 años como base de la relación más auténtica (autobiografía)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Ejemplo autobiográfico personal: la expareja del speaker fue amiga 2-3 años antes de estar juntos durante 27 años. Anécdota personal que ilustra la tesis sobre la amistad previa como base de la relación auténtica, sin elevarse a tesis estructural propia. Cita-only relevante para retrieval sobre la historia personal del speaker.",
+      "quote_evidence": "Proxy pone como ejemplo a su propia expareja, que fue amiga 2-3 años antes de estar juntos durante 27 años,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Egoísmo real: exigir que el otro se quede en el rol conveniente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Cierre conceptual del directo: el verdadero egoísmo no es del hombre que se va sino de la mujer que exige que el otro se quede con el estatus que a ella le conviene. La incapacidad de darse cuenta en calidad de qué le interesabas a esa persona durante toda la amistad como déficit cognitivo específico. Pieza condensada que cierra la inversión de la acusación.",
+      "quote_evidence": "Lo que ella realmente quiere es un hombre que se quede con el estatus que a ella le conviene,",
+      "review_priority": "medium",
+      "review_priority_reason": "Cierre conceptual del argumento de inversión de la acusación de egoísmo. Útil para retrieval del cierre argumentativo. Conecta también con becky-equivalente-femenino-incel (la mujer que descubre ser prescindible cuando deja de retener al hombre en el rol de admirador no correspondido).",
+      "enriches_concept": "becky-equivalente-femenino-incel"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 9,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

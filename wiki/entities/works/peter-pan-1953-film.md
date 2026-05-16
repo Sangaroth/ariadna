@@ -177,6 +177,7 @@ Los tres vectores masculinos del film — Peter (ánimus desintegrado que no cre
 
 
 
+
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [29:44](https://youtu.be/OT2DW4zoKsE?t=1784) · [56:06](https://youtu.be/OT2DW4zoKsE?t=3366)
 - **El síndrome de Wendy** — chunks: [50:22](https://youtu.be/L7oSZTTK8Gg?t=3022) · [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [54:29](https://youtu.be/L7oSZTTK8Gg?t=3269) · [57:02](https://youtu.be/L7oSZTTK8Gg?t=3422) · [1:11:13](https://youtu.be/L7oSZTTK8Gg?t=4273) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)
 - **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [58:53](https://youtu.be/4P5hxaG7i6c?t=3533)
@@ -188,4 +189,5 @@ Los tres vectores masculinos del film — Peter (ánimus desintegrado que no cre
 - **Mitología 101: Perséfone** — chunks: [20:12](https://youtu.be/VDOUrpcC4fU?t=1212)
 - **Podcast Puppetland: El Principito** — chunks: [19:22](https://youtu.be/Q0uCvOLRR2k?t=1162)
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [1:00:05](https://youtu.be/zLRhDHyq3gs?t=3605)
+- **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:53:16](https://youtu.be/BOIcK1Rpdvo?t=6796)
 

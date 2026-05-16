@@ -181,6 +181,7 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 
 
 
+
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
@@ -197,4 +198,5 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [28:55](https://youtu.be/K7MAqw1q3dk?t=1735) · [31:26](https://youtu.be/K7MAqw1q3dk?t=1886) · [38:32](https://youtu.be/K7MAqw1q3dk?t=2312) · [53:53](https://youtu.be/K7MAqw1q3dk?t=3233)
 - **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:19:14](https://youtu.be/6cSsI85qCp8?t=4754)
 - **Avisos parroquiales** — chunks: [8:18](https://youtu.be/F1isbFH_FeM?t=498)
+- **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:26:26](https://youtu.be/BOIcK1Rpdvo?t=5186)
 

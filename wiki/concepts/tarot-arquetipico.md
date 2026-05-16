@@ -368,6 +368,7 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -404,4 +405,5 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **Mitología 101: Perséfone** — chunks: [8:05](https://youtu.be/VDOUrpcC4fU?t=485) · [27:47](https://youtu.be/VDOUrpcC4fU?t=1667) · [51:41](https://youtu.be/VDOUrpcC4fU?t=3101) · [1:09:27](https://youtu.be/VDOUrpcC4fU?t=4167)
 - **Orfeo y Eurídice** — chunks: [1:03:37](https://youtu.be/1D0u-tK4v8c?t=3817)
 - **De Platón A The Matrix** — chunks: [10:39](https://youtu.be/zr_ZKX60N54?t=639)
+- **Patreons y Conciencia Artificial** — chunks: [1:50](https://youtu.be/1BWyXULOoQQ?t=110)
 

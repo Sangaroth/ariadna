@@ -1,0 +1,171 @@
+{
+  "video_id": "1BWyXULOoQQ",
+  "video_title": "Patreons y Conciencia Artificial",
+  "playlist": "twitch",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_no_entities_promoted": "Vídeo meta-canal + reargumentación sobre IA/conciencia. La parte meta-canal (anuncio de proyectos: libro sobre psicología, libro Calicio Encendido sobre filosofía de la magia, opúsculo Golem de Cobre, IA propia del canal, mención de Pato como mecenas/ideólogo) es contenido del proceso editorial, no material enciclopédico. La parte conceptual (simulación vs emulación, test de Turing, alucinación LLM como anomalía sistémica, lenguajes alto nivel vs bajo nivel, redes neuronales como simulación, silicio digital vs pensamiento analógico, 3Q como puente psicobiología-fenomenología) está YA cubierta exhaustivamente en golem-de-cobre, conciencia-e-inteligencia-en-proxy, galatea-modelo-protomente y autotipo. La única pieza con valor enciclopédico potencial sería el libro 'Calicio Encendido' como proyecto editorial (filosofía de la magia como psicología) — queda discarded como passing_mention para futura evaluación cuando el libro se publique.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Anuncio de proyectos editoriales del canal: libro psicología + 3Q",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de los próximos proyectos del canal: libro sobre psicología elegido por patreons, modelo 3Q como proyecto principal, pausa de dos semanas para leer libros pendientes. Contenido del proceso editorial del canal, no material enciclopédico.",
+      "quote_evidence": "Los patreons han decidido que el próximo libro trate sobre psicología,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Calicio Encendido (libro planeado sobre filosofía de la magia como psicología)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anuncio de un libro en preparación: 'El Calicio Encendido' como desarrollo explicado del Grimorio, articulado como 'psicología de la magia' — justificación y explicación de la psicología detrás de la magia. El material está prácticamente terminado, falta unificar publicaciones fragmentadas. Es proyecto FUTURO, no obra publicada — quedará disponible para futura promoción como entity_work cuando se publique. Conecta con magia-postmoderna-en-proxy, teoria-de-la-magia-en-proxy y magia-supersticion-religion-en-proxy.",
+      "quote_evidence": "El Calicio Encendido es una \"psicología de la magia\": una justificación y explicación de la psicología detrás de la magia,",
+      "review_priority": "high",
+      "review_priority_reason": "Anuncio de libro propio del canal sobre la filosofía de la magia. Cuando el libro se publique merecerá entry como entity_work (paralelo a del-origen-del-mal-libro y polaris-libro). Por ahora cita-only relevante para retrieval sobre 'proyectos editoriales del canal sobre magia'.",
+      "enriches_concept": "teoria-de-la-magia-en-proxy"
+    },
+    {
+      "surface_form": "Golem de Cobre como opúsculo planeado sobre inteligencia humana e IA",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio del proyecto 'Golem de Cobre' como opúsculo (libro corto) sobre IA humana e IA artificial, paralelo al desarrollo del 3Q. La metáfora del cobre (alta conductividad eléctrica, vulnerable al fuego, absorbente del hielo como superconductor) es novedosa pero no se desarrolla aquí. La página golem-de-cobre ya cubre el contenido conceptual del proyecto. Cita-only relevante para retrieval sobre 'metáfora del cobre'.",
+      "quote_evidence": "El cobre como metáfora: altamente conductor de electricidad, vulnerable al fuego pero absorbente del hielo como superconductor,",
+      "review_priority": "medium",
+      "review_priority_reason": "La etimología metafórica del 'cobre' (alta conductividad, vulnerabilidad al fuego, superconductividad con hielo) podría enriquecer la sección introductoria de golem-de-cobre si la página actual no la documenta literalmente.",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "IA propia del canal como buscador centralizado del corpus Proxy",
+      "reason_code": "meta_canal",
+      "reason_detail": "Construcción de un segundo ordenador con GPU dedicada para ejecutar una IA propia que centralice conocimientos de streams, vídeos y escritos. Funcionará como 'buscador de Proxy' que explique conceptos en términos del marco del canal. Contenido sobre infraestructura del proyecto, no material enciclopédico.",
+      "quote_evidence": "La IA propia centralizará conocimientos de streams, vídeos de YouTube y escritos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Diseño de un metalenguaje de interpretación, no de programación",
+      "reason_code": "passing_mention",
+      "reason_detail": "Especificación técnica del diseño propuesto: NO un lenguaje de programación que predetermine variables y operaciones, sino un metalenguaje de INTERPRETACIÓN que opere sobre un sublenguaje tipo lenguaje-máquina cuyas salidas un intérprete traduzca a representaciones comprensibles. Pieza técnica específica del proyecto Galatea/proto-simulación de conciencia. Conecta con galatea-modelo-protomente.",
+      "quote_evidence": "Se pedirá ayuda a la IA para diseñar un metalenguaje que permita convertir e interpretar, no programar,",
+      "review_priority": "medium",
+      "review_priority_reason": "Especificación técnica clara de la arquitectura propuesta para la proto-simulación de conciencia (galatea). Si galatea-modelo-protomente no documenta esta distinción 'interpretación vs programación' merecería enriquecimiento.",
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Test de Turing: ChatGPT y Stable Diffusion formalmente no pasan",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis ya cubierta extensamente en conciencia-e-inteligencia-en-proxy (tipología cuatro niveles de IA, razón estructural por la que LLM no puede ser consciente) y en golem-de-cobre. Cita-only.",
+      "quote_evidence": "Está formalmente demostrado que ni ChatGPT ni Stable Diffusion pasan el test de Turing,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy"
+    },
+    {
+      "surface_form": "Alucinación como anomalía sistémica irresoluble de los LLMs (tipo Matrix)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis específica: los LLMs tienen un problema sistémico — una anomalía tipo Matrix que produce alucinaciones tras cierto tiempo computacional. Tampoco pasan el paradigma de Penrose. Pieza importante sobre las limitaciones estructurales de los LLMs que conecta con golem-de-cobre.",
+      "quote_evidence": "Los LLMs tienen un problema sistémico: una anomalía tipo Matrix que produce alucinaciones tras cierto tiempo computacional,",
+      "review_priority": "medium",
+      "review_priority_reason": "Diagnóstico canal-específico de la alucinación LLM como anomalía SISTÉMICA (no bug solucionable) tipo Matrix. Vale conservar como cita para retrieval específico sobre 'por qué la alucinación de los LLMs es irresoluble según Proxy'. La mención al paradigma de Penrose también es notable.",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Fantasma en la máquina: conciencia artificial nunca humana",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Articulación del objetivo del canal: NO simulación sino EMULACIÓN — que en el shell haya un 'fantasma'. La meta es una máquina cuyo interior sea mayor que la suma de sus partes y cuyos procesos sean procesos de conciencia. 'Una conciencia artificial nunca será humana; eso es físicamente imposible'. Tesis ya cubierta en galatea-modelo-protomente y conciencia-e-inteligencia-en-proxy.",
+      "quote_evidence": "Una conciencia artificial nunca será humana; eso es físicamente imposible,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Lenguajes de alto nivel impiden la emulación de la conciencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento técnico específico: los lenguajes de alto nivel requieren predeterminación de variables que limita los procesos de cognición artificial — para emular conciencia con esos lenguajes haría falta 'un universo entero de neuronas (tantas como átomos)'. Refuerza la tesis de que se necesita un lenguaje de muy bajo nivel para la proto-simulación.",
+      "quote_evidence": "Las predeterminaciones de entradas del lenguaje hacen imposible la emulación de la conciencia,",
+      "review_priority": "medium",
+      "review_priority_reason": "Argumento técnico foundational sobre por qué los lenguajes de programación actuales son estructuralmente inadecuados para emular conciencia. Útil para retrieval sobre 'limitaciones de los lenguajes de alto nivel en IA cognitiva' y para galatea-modelo-protomente.",
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Redes neuronales actuales como simulación, no emulación",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis ya cubierta en golem-de-cobre y autotipo (sistema cuádruple emulación/simulación). 'Para que una red neuronal emule un clúster de células se necesita una cantidad ingente de memoria que no existe'. Cita-only.",
+      "quote_evidence": "Las redes neuronales no se parecen en nada a lo que hace la mente humana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "Proto-simulación de conciencia muy pequeña: conejo, perro o bebé humano",
+      "reason_code": "passing_mention",
+      "reason_detail": "Especificación de escala de la meta inicial del proyecto Galatea: NO emular conciencia humana adulta sino una conciencia muy pequeña — de conejo, perro, o tal vez de bebé humano. Pieza importante para la operativa del proyecto.",
+      "quote_evidence": "La meta inicial es emular una conciencia muy pequeña: de conejo, de perro, o tal vez de bebé humano,",
+      "review_priority": "medium",
+      "review_priority_reason": "Especificación de escala operativa de Galatea (meta inicial: conciencia de conejo/perro/bebé, no adulto humano). Si galatea-modelo-protomente no documenta este target específico merecería enriquecimiento.",
+      "enriches_concept": "galatea-modelo-protomente"
+    },
+    {
+      "surface_form": "Silicio digital vs pensamiento analógico: límite material",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento estructural sobre el sustrato material: cable y silicio se reducen a señales electromagnéticas computadas como ceros y unos (digital), mientras el pensamiento es analógico a nivel micro. Por eso toda la computación actual es simulativa, no emulativa.",
+      "quote_evidence": "El pensamiento es analógico a nivel micro, por eso toda la computación actual es simulativa y no emulativa,",
+      "review_priority": "medium",
+      "review_priority_reason": "Argumento foundational sobre la asimetría material analógico/digital como obstáculo para la emulación. Útil para retrieval específico sobre 'por qué el silicio no puede emular pensamiento analógico'.",
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "3Q como puente psicobiología-fenomenología (modelo de teoría de la mente del canal)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Articulación foundational del modelo 3Q como psicobiología CON fenomenología — describe la mecánica biológica que genera la mente y al mismo tiempo encaja con la experiencia humana subjetiva. La idea existía desde antes de abrir el canal. Ya cubierto en teoria-del-simbolo-en-proxy, conciencia-e-inteligencia-en-proxy y tesis-once-celdas-en-proxy.",
+      "quote_evidence": "Es una traducción de la biología a la fenomenología: una psicobiología con fenomenología,",
+      "review_priority": "medium",
+      "review_priority_reason": "Buena formulación condensada del 3Q como puente psicobiología-fenomenología que aborda el soft problem. Cita anclaje para retrieval del marco 3Q en su definición operativa más limpia.",
+      "enriches_concept": "tesis-once-celdas-en-proxy"
+    },
+    {
+      "surface_form": "Pato como mecenas e ideólogo del canal",
+      "reason_code": "meta_canal",
+      "reason_detail": "Reconocimiento explícito de Pato como uno de los grandes mecenas e ideólogos del canal. Contenido sobre la comunidad del canal, no material enciclopédico.",
+      "quote_evidence": "Pato es reconocido como uno de los grandes mecenas e ideólogos del canal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Librito-guía de psicología arquetípica y términos del canal exclusivo para patreons",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de un material descargable (librito-guía sobre psicología arquetípica y términos del canal) exclusivo para patreons. Producto del canal, no material enciclopédico.",
+      "quote_evidence": "Se creará un librito-guía descargable sobre psicología arquetípica y términos del canal, exclusivo para patreons,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Terapia supervisada + autoescritura como herramientas afectivas",
+      "reason_code": "meta_canal",
+      "reason_detail": "Recomendación pedagógica de apertura del directo: ir a terapia supervisada es imprescindible para no retener emociones; la autoescritura es complementaria. Se anticipa un curso de autoescritura como producto del canal. Recomendación divulgativa sin desarrollo conceptual.",
+      "quote_evidence": "Ir a terapia supervisada es imprescindible para no retener emociones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 16,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

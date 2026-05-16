@@ -1,0 +1,99 @@
+{
+  "video_id": "hJsjzZ3OlBg",
+  "video_title": "Suicidiología",
+  "playlist": "twitch",
+  "category": "psicología",
+  "entities": [],
+  "_doc_no_entities_promoted": "Vídeo muy corto (3 min) sin tesis sostenida sobre un único topic — reformula posiciones canal-conocidas (crítica al constructivismo, pensamiento no-lingüístico, asimetría personalidad↔cultura) aplicadas al caso vehicular Lucía Etxebarria explicando sociológicamente el suicidio masculino. Sin material para promote_new ni para pending_update sustantivo. La pieza más original (sociología como 'etología con cultura, literatura y símbolo') queda discarded con review_priority high para evaluación futura.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Constructivismo lingüístico → constructivismo cultural → sociología como cadena no científica",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Articulación condensada de la genealogía del constructivismo: parte del constructivismo lingüístico (el lenguaje construye el pensamiento), deriva al constructivismo cultural (la cultura construye al individuo), y cristaliza como sociología (que postula causas sin método científico). Reformulación de posiciones ya cubiertas en cerebros-rosas-azules-en-proxy (sección 'Falacia del convenio') y en conductismo-como-sofisma. Cita-only.",
+      "quote_evidence": "El constructivismo lingüístico deriva en constructivismo cultural, que es sociología,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    },
+    {
+      "surface_form": "Sociología confunde causas con consecuencias sistemáticamente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica epistemológica fuerte y condensada: la sociología es descriptiva (no causal) pero se atreve a postular causas — confunde sistemáticamente causas con consecuencias. Conecta con epistemologia-de-la-psicologia-en-proxy y con conductismo-como-sofisma.",
+      "quote_evidence": "La sociología confunde causas con consecuencias sistemáticamente,",
+      "review_priority": "medium",
+      "review_priority_reason": "Crítica epistemológica condensada y memorable a la sociología como disciplina. Útil para retrieval específico sobre la posición del canal frente a la sociología como ciencia.",
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy"
+    },
+    {
+      "surface_form": "Lucía Etxebarria explicando sociológicamente el suicidio masculino",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso vehicular del directo: crítica específica a Lucía Etxebarria por intentar explicar sociológicamente la autolisis/suicidio masculino. El canal lo presenta como ejemplo de la confusión descripción/explicación de la sociología — lo que se presenta como 'explicación' es solo descripción. Material coyuntural pero ilustrativo del punto epistemológico.",
+      "quote_evidence": "Lucía Etxebarria intenta explicar sociológicamente la autolisis/suicidio masculino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy"
+    },
+    {
+      "surface_form": "El pensamiento NO es fundamentalmente lingüístico",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Posición canal-foundational ya cubierta extensamente en teoria-del-lenguaje-en-proxy (el lenguaje no determina el pensamiento) y en inconsciente-en-proxy (los sistemas representacionales filogenéticos). El argumento específico aquí — que el lenguaje sea necesario para transmitir pensamiento no significa que sea su estructura — refina pero no aporta tesis nueva. Cita-only.",
+      "quote_evidence": "Que el lenguaje sea necesario para transmitir pensamiento no significa que sea la estructura del pensamiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "La costumbre de verbalizar crea la ilusión de que el pensamiento es lingüístico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Diagnóstico cognitivo específico: la ilusión introspectiva de que el pensamiento es mayoritariamente lingüístico proviene del hábito de verbalizar — el pensamiento lingüístico es solo una parte pequeña del pensamiento total. Conecta con la sección 'Barreras somáticas' de inconsciente-en-proxy (pensar en palabras es más fácil porque el lenguaje conecta con el cuerpo).",
+      "quote_evidence": "La costumbre de verbalizar crea la ilusión de que la mayor parte del pensamiento es lingüístico,",
+      "review_priority": "medium",
+      "review_priority_reason": "Diagnóstico cognitivo específico sobre la ilusión introspectiva de la primacía del pensamiento lingüístico. Útil para retrieval sobre 'por qué creemos que pensamos en palabras' y para enriquecer teoria-del-lenguaje-en-proxy.",
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    },
+    {
+      "surface_form": "Impredecibilidad del suicidio masculino: ni con IA + depresión como predictor insuficiente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Afirmación empírica fuerte: el suicidio masculino NO se puede predecir ni con inteligencia artificial — el resultado es cero. Ni siquiera la depresión es predictor suficiente porque 'hay mucho de la depresión que no entendemos'. El speaker menciona tener tesis propia y algunas ideas nuevas. Conecta con adgrediere-masculino (depresión masculina invisible, sección sobre fenomenología no-tristeza).",
+      "quote_evidence": "El suicidio masculino no se puede predecir ni con inteligencia artificial — el resultado es cero,",
+      "review_priority": "high",
+      "review_priority_reason": "Afirmación empírica fuerte sobre la impredecibilidad estructural del suicidio masculino con cualquier dispositivo computacional. Si el canal desarrolla su 'tesis propia y algunas ideas nuevas' en otros vídeos, merecerían entrada propia (suicidio-masculino-en-proxy) o enrichment sustantivo de adgrediere-masculino con la sección sobre la depresión masculina invisible.",
+      "enriches_concept": "adgrediere-masculino"
+    },
+    {
+      "surface_form": "Personalidad modela cultura (NO al revés): inversión del constructivismo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Tesis canal-foundational inversa al constructivismo: la personalidad y la mente NO son modeladas por la cultura sino al revés — la personalidad modela la cultura. Existe feedback pero los dos polos NO son igualmente modulantes. Argumento concreto: 'es absurdo afirmar que un sociólogo explicó hace 20 años lo que ningún biólogo conductual puede explicar ni predecir hoy'. Cubierto extensamente en cerebros-rosas-azules-en-proxy.",
+      "quote_evidence": "El constructivismo sociológico dice que la personalidad y la mente son modeladas por la cultura, pero es al revés,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    },
+    {
+      "surface_form": "Sociología como etología en medio ambiente cultural-literario-simbólico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Reformulación canal-específica del estatuto epistemológico de la sociología: NO es ciencia causal pero ES útil cuando describe mecánicas de grupo sin entrar en más — sería 'una especie de etología en un medio ambiente cultural, literario y simbólico'. La comparación con la etología es presentada como HONROSA, no peyorativa. Pieza interesante de filosofía de la ciencia aplicada a las disciplinas sociales.",
+      "quote_evidence": "La sociología sería una especie de etología en un medio ambiente cultural, literario y simbólico,",
+      "review_priority": "high",
+      "review_priority_reason": "Reformulación canal-específica del estatuto epistemológico de la sociología (etología cultural) que NO es peyorativa sino honrosa cuando opera dentro de su ámbito descriptivo legítimo. Útil para retrieval específico sobre la posición del canal frente a la sociología bien hecha vs sociología que postula causas. Si reaparece merecería enriquecimiento de epistemologia-de-la-psicologia-en-proxy con sección sobre 'sociología como etología cultural legítima'.",
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

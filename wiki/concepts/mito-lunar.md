@@ -269,6 +269,7 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 
 
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:38:22](https://youtu.be/rLeMS4-XFrA?t=5902)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275) · [1:35:30](https://youtu.be/aWeuzWLrLtE?t=5730)
@@ -284,4 +285,5 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [2:03:53](https://youtu.be/nw7fSEAJr-U?t=7433)
 - **Lilith: La Iconotropía.** — chunks: [2:36](https://youtu.be/xKCD8PaexF0?t=156)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [24:20](https://youtu.be/O4OkDuc3uPQ?t=1460)
+- **En Busca de la Diosa Blanca** — chunks: [1:21:02](https://youtu.be/llS9fqsNVvY?t=4862)
 

@@ -200,6 +200,7 @@ El marco dominante del canal es junguiano (arquetipos, individuación, inconscie
 
 
 
+
 - video_id: `3Jo2T73pOEs` — Harry Potter, el síndrome de Wendy y por qué es escoria fántastica
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [30:28](https://youtu.be/JVEsIdv6emI?t=1828)
 - **Análisis arquetípico La Bruja** — chunks: [10:25](https://youtu.be/rRlks0e0oxU?t=625)
@@ -210,4 +211,5 @@ El marco dominante del canal es junguiano (arquetipos, individuación, inconscie
 - **La teoría de la teoría de la mente** — chunks: [51:38](https://youtu.be/zASckAZqmfM?t=3098)
 - **Psicología 101: Conductismo, sofisma y filosofía.** — chunks: [20:29](https://youtu.be/TVK5kpPC3Qs?t=1229) · [1:18:15](https://youtu.be/TVK5kpPC3Qs?t=4695)
 - **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [59:48](https://youtu.be/9wJQ9tm9Yuc?t=3588) · [1:08:24](https://youtu.be/9wJQ9tm9Yuc?t=4104)
+- **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [8:38](https://youtu.be/966LWuiirwA?t=518)
 

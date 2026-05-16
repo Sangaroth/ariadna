@@ -1,0 +1,63 @@
+{
+  "video_id": "5LSzvknVFYM",
+  "video_title": "TikTok y la Madre Oscura #arquetipos",
+  "playlist": "twitch",
+  "category": "psicología",
+  "entities": [],
+  "_doc_no_entities_promoted": "Vídeo muy corto (1 min 50s) — caso cultural contemporáneo (subcultura TikTok mamás Reborn con muñecos hiperrealistas) aplicado al arquetipo Madre Oscura ya ampliamente cubierto en madre-oscura-en-proxy y en diosa-blanca (sección 'cuarta forma del mal materno como vampira afectiva'). Sin tesis nueva sostenida — el caso enriquece el catálogo de manifestaciones contemporáneas del arquetipo pero no introduce mecánica conceptual nueva. No propongo pending_updates porque no he leído madre-oscura-en-proxy en esta sesión y el riesgo de redundancia es alto. Todo como discarded con enriches_concept.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Subcultura TikTok mamás Reborn como caso contemporáneo de Madre Oscura",
+      "reason_code": "passing_mention",
+      "reason_detail": "Subcultura específica en TikTok de mujeres que fingen ser madres usando muñecos hiperrealistas. Algunas operan por contenido/viralidad; otras llevan el fenómeno más allá incomodando a gente en público. El canal lo lee como aspecto civilizatorio decadente — fallo civilizatorio profundo respecto de lo femenino. Caso aplicado contemporáneo del arquetipo Madre Oscura ya documentado en madre-oscura-en-proxy y en diosa-blanca (cuarta forma del mal materno).",
+      "quote_evidence": "Existe una subcultura en TikTok de mujeres que fingen ser madres usando muñecos hiperrealistas,",
+      "review_priority": "high",
+      "review_priority_reason": "Caso paradigmático contemporáneo del arquetipo madre oscura aplicado a fenómeno cultural específico (TikTok mamás Reborn) con análisis canal-específico. Si futura revisión humana decide enriquecer madre-oscura-en-proxy o diosa-blanca (sección 'cuarta forma del mal materno') con casos contemporáneos, este es el timestamp ancla principal.",
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "Madre Oscura como vaciamiento de la capacidad de amar por mecanismo desconocido",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Reformulación condensada de la definición operativa de la madre oscura ya cubierta en madre-oscura-en-proxy y en diosa-blanca: forma de mal en la que la mujer ha sido vaciada de toda su capacidad de dar amor. La fórmula 'estas personas lo hacen porque no pueden con niños reales materialmente, pero si pudieran lo harían' añade un matiz operativo importante (el vaciamiento NO es ausencia de deseo de ejercer maternidad, es ausencia de capacidad de amor genuino disponible para canalizar a través del rol).",
+      "quote_evidence": "La madre oscura representa una forma de mal en la que la mujer ha sido vaciada de toda su capacidad de dar amor por un mecanismo desconocido,",
+      "review_priority": "medium",
+      "review_priority_reason": "Reformulación útil con la precisión 'no pueden con niños reales pero si pudieran lo harían' que añade matiz operativo al arquetipo madre oscura. Útil para retrieval específico.",
+      "enriches_concept": "madre-oscura-en-proxy"
+    },
+    {
+      "surface_form": "Acto Reborn como forma extrema de lo abominable cultural (salvo devoración literal)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Calibración cultural canal-específica del fenómeno como uno de los actos culturalmente más abominables concebibles — solo superado por la devoración literal de personas. La pieza enlaza con la categoría 'abominación' articulada en mal-sin-forma (unión de naturalezas que nunca deberían juntarse) — aquí la abominación es maternidad + simulacro material sin objeto humano vivo.",
+      "quote_evidence": "Salvo la devoración literal de personas, no se concibe nada más abominable en una cultura,",
+      "review_priority": "medium",
+      "review_priority_reason": "Calibración cultural fuerte del fenómeno como casi-tope de la abominación cultural. Conecta con la mecánica de la abominación articulada en mal-sin-forma (unión de naturalezas incompatibles — maternidad + objeto inanimado sustituyendo a sujeto humano).",
+      "enriches_concept": "mal-sin-forma"
+    },
+    {
+      "surface_form": "Peligro: muñecos Reborn aconsejados como sustituto del duelo materno",
+      "reason_code": "passing_mention",
+      "reason_detail": "Extensión patológica del fenómeno: algunas mamás Reborn (sin formación psicológica) aconsejan a mujeres que han perdido hijos usar muñecos para sanar el dolor. Otras mujeres pueden tomarlo como real y usarlo como sustitutivo de algo que NUNCA van a poder elaborar con muñecos. Pieza clínica concreta sobre la mecánica de bloqueo del duelo por sustitución material inadecuada.",
+      "quote_evidence": "Otras mujeres pueden tomarse eso como algo real y usarlo como sustitutivo de algo que nunca van a poder elaborar con los muñecos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza clínica específica sobre cómo la sustitución material bloquea el duelo (elaboración de pérdida del hijo). Conecta con trauma-en-proxy y con anatomia-de-la-fantasia (confabulación + ficción asumida como real). Útil para retrieval específico.",
+      "enriches_concept": "trauma-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 4,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

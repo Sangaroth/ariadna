@@ -617,6 +617,7 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 
 
 
+
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:32:16](https://youtu.be/rLeMS4-XFrA?t=5536) · [1:48:00](https://youtu.be/rLeMS4-XFrA?t=6480)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:12:14](https://youtu.be/aWeuzWLrLtE?t=4334)
 - **Directo casual** — chunks: [36:59](https://youtu.be/ECN5C9rsaZg?t=2219)
@@ -635,4 +636,5 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 - **Mitología 101: Perséfone** — chunks: [27:47](https://youtu.be/VDOUrpcC4fU?t=1667) · [1:09:27](https://youtu.be/VDOUrpcC4fU?t=4167)
 - **Mitología 101: Teseo y Ariadna** — chunks: [43:49](https://youtu.be/b03AszdViNw?t=2629) · [1:20:16](https://youtu.be/b03AszdViNw?t=4816) · [1:24:17](https://youtu.be/b03AszdViNw?t=5057) · [1:26:48](https://youtu.be/b03AszdViNw?t=5208)
 - **Avisos parroquiales** — chunks: [8:18](https://youtu.be/F1isbFH_FeM?t=498)
+- **En Busca de la Diosa Blanca** — chunks: [6:16](https://youtu.be/llS9fqsNVvY?t=376) · [8:47](https://youtu.be/llS9fqsNVvY?t=527)
 
