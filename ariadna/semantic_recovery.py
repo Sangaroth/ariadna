@@ -110,12 +110,11 @@ class DiscardedEntry:
         return hashlib.sha1(f"{norm}|{self.reason_code}".encode()).hexdigest()[:16]
 
 
-# Filtro minimalista para alias enrichment. La decisión semántica
-# (¿qué parte del surface_form es el nombre canónico?) la toma el LLM judge
-# devolviendo `alias_candidate`. Aquí solo validamos sanidad numérica del
-# candidate para evitar hallucinations groseras o glosas largas.
-ALIAS_MAX_CHARS = 60
-ALIAS_MAX_WORDS = 7
+# Filtro minimalista de sanidad numérica sobre alias_candidate. La decisión
+# semántica (¿es nombre canónico o desarrollo?) vive en el LLM judge mediante
+# un prompt reforzado con ejemplos negativos explícitos y auto-crítica.
+ALIAS_MAX_CHARS = 50
+ALIAS_MAX_WORDS = 4
 
 
 def _is_concept_like(s: str) -> bool:
@@ -267,21 +266,39 @@ quote_evidence: {quote!r}
 - Sinónimos ("mito del sol" ≈ "mito solar"), variantes morfológicas, registros distintos: SÍ matchea
 - Co-ocurrencia temática sola NO matchea ("psicología" NO matchea jung-carl-gustav)
 
-**2) Extrae alias_candidate.** Si hay match, identifica EL CONCEPTO LIMPIO dentro del surface_form. **DEBE SER UNA SUBCADENA LITERAL DEL surface_form** (puedes elegir mayúsculas/minúsculas pero no cambiar palabras ni morfología). El corpus es la fuente — no normalices ni reformules.
+**2) Extrae alias_candidate.** Si hay match, identifica EL NOMBRE CANÓNICO dentro del surface_form. **DEBE SER UNA SUBCADENA LITERAL** (puedes elegir mayúsculas/minúsculas pero no cambiar palabras ni morfología). El corpus es la fuente — no normalices ni reformules.
 
-Ejemplos:
-- surface_form="Narrativas políticas y sofisma estético" → alias_candidate="sofisma estético" ✓ (subcadena)
-- surface_form="mito solar" → alias_candidate="mito solar" ✓
-- surface_form="endofobia (herida narcisista del progresista)" → alias_candidate="endofobia" ✓
-- surface_form="Realismo cognitivo invocado como tesis filosófica" → alias_candidate="Realismo cognitivo" ✓
-- surface_form="mitos solares" → alias_candidate="mitos solares" ✓ (NO "mito solar" — eso es reformulación, prohibido)
-- surface_form="autismo como bioanomalía" → alias_candidate=null (ninguna subcadena limpia funciona como nombre)
+**Definición operativa de "nombre canónico":**
 
-Reglas para alias_candidate:
-- Subcadena LITERAL del surface_form (case insensitive permitido, morfología NO)
-- Concepto puro: sin verbos conjugados, sin glosas, sin conectores explicativos
-- Máximo 60 caracteres y 7 palabras
-- Si no hay match, o no se puede extraer subcadena que funcione como nombre canónico, devuelve null
+Un nombre canónico es lo que aparecería como entrada en un índice analítico, glosario o lista de términos. Si vieras el alias_candidate SOLO (sin contexto), tendrías que reconocerlo inmediatamente como referencia a un concepto/obra/persona.
+
+**Test de canonicidad** (aplícalo antes de devolver):
+> ¿Podría usar este texto como ENTRADA DE GLOSARIO?
+> ¿Podría aparecer como wikilink standalone [[alias_candidate]]?
+
+Si la respuesta es "no, suena a frase descriptiva" → devuelve null.
+
+Ejemplos POSITIVOS (devolver así):
+- surface_form="Narrativas políticas y sofisma estético" → alias_candidate="sofisma estético"
+- surface_form="endofobia (herida narcisista del progresista)" → alias_candidate="endofobia"
+- surface_form="Realismo cognitivo invocado como tesis filosófica" → alias_candidate="Realismo cognitivo"
+- surface_form="mitos solares" → alias_candidate="mitos solares" (NO "mito solar" — eso es reformulación)
+
+Ejemplos NEGATIVOS (devolver null aunque haya match):
+- surface_form="victimismo como estrategia política" → null (es una APLICACIÓN, no un nombre. "victimismo" suelto sí lo sería pero podría no estar entre canonicales)
+- surface_form="civilizaciones monógamas vs polígamas" → null (es una COMPARATIVA, no un nombre)
+- surface_form="Sofisma estético aplicado a la IA" → null (es una APLICACIÓN — el nombre canónico "sofisma estético" YA existe en aliases, no añadir)
+- surface_form="mito propio vs mito impropio" → null (COMPARATIVA estructurante, no nombre)
+- surface_form="herida narcisista como arma" → null ("herida narcisista" sí, pero "como arma" lo convierte en aplicación)
+- surface_form="Mitología 101 como poética" → null (caracterización aplicada)
+- surface_form="Galatea con el modelo PSEP" → null (asociación contextual)
+- surface_form="conversión afecto → emoción" → null (mecanismo descrito, no nombre)
+
+**Reglas operativas:**
+- Si la subcadena candidata contiene CONECTORES que delatan aplicación o comparación ("como", "vs", "aplicado", "contra", "a la", "/", "+", "→") → devuelve null. Esos textos NO son nombres canónicos.
+- Máximo 50 caracteres y 4 palabras.
+- Si la única subcadena que matchearía YA aparece en aliases/canonical → devuelve el alias_candidate pero marca alias_exists=true (no contamines aunque el match sea correcto).
+- Si dudas → null. La precisión importa más que el recall.
 
 **3) Decide alias_exists.** ¿El alias_candidate ya está declarado en la page matched (como canonical_name o en aliases)? Compara case-insensitive y tolerando diacríticos.
 
