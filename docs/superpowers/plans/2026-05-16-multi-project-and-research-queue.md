@@ -3390,3 +3390,820 @@ Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 Si decides no marcar el step en git, sigue al siguiente chunk; el smoke de verificación final está en Chunk 9.
 
 ---
+
+## Chunk 6: Tools MCP write nuevas
+
+> Implementa la lógica de las tres tools de escritura del MCP server (spec sección 6.1): `create_project`, `add_to_research_queue` y `cancel_request`. El módulo `ariadna/mcp_tools_write.py` aísla la validación + I/O en funciones `*_impl(conn, ...)` que reciben la conexión SQLite por inyección — testables sin levantar el server. **El wiring con `@mcp.tool` en `ariadna/mcp_server.py` se difiere a Chunk 8** (junto con las tools modificadas + el cleanup de las retiradas, para un solo cambio coherente en el server). No procesa la cola — solo añade ítems (los workers son scope futuro).
+>
+> **Nota sobre slugs en spec:** el regex de spec 6.5 (`^[a-z][a-z0-9-]{1,40}[a-z0-9]$`) prohíbe underscores. Los ejemplos de spec sec 9 fase 2 (`test_e`, `test_combo`, ...) son inconsistentes con su propio regex — los tests de este chunk usan kebab-case (`test-e`, `test-combo`, ...) para respetar el regex. Spec necesita un fix retrospectivo en sus ejemplos.
+>
+> **Pre-condición:** Chunks 2-5 completados (SQLite + projects layout + Qdrant taggeado). `ProjectConfig` disponible para validación.
+
+### Task 6.1: Helpers de validación + auto-detección
+
+> Funciones puras testables: `validate_slug`, `detect_source_type`, `_seed_meta_files`, `_inherit_meta_files`. Sin estado, sin DB.
+
+**Files:**
+- Create: `ariadna/mcp_tools_write.py`
+- Test: `tests/test_mcp_tools_write_helpers.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_mcp_tools_write_helpers.py
+"""Helpers puros usados por las tools de escritura."""
+import pytest
+
+
+@pytest.mark.parametrize("slug, ok", [
+    ("proxy", True),
+    ("tesis-doctorado", True),
+    ("a1b2c3", True),
+    ("raspberry-gadget", True),
+    ("Proxy", False),         # uppercase
+    ("test_underscore", False),  # underscore not allowed
+    ("test e", False),         # space
+    ("-leading", False),
+    ("trailing-", False),
+    ("a", False),               # too short (regex {1,40} on body → len ≥ 3)
+    ("ab", False),              # still too short
+    ("abc", True),              # len 3 ok
+    ("123abc", False),          # starts with digit
+    ("test--double", True),     # double hyphen ok (regex no forbids)
+    ("", False),
+])
+def test_validate_slug(slug, ok):
+    from ariadna.mcp_tools_write import validate_slug
+    if ok:
+        assert validate_slug(slug) is None, f"slug {slug!r} should be valid"
+    else:
+        err = validate_slug(slug)
+        assert err is not None and err["code"] == "SLUG_INVALID"
+
+
+@pytest.mark.parametrize("url, expected", [
+    ("https://youtube.com/watch?v=abc", "youtube"),
+    ("https://youtu.be/abc", "youtube"),
+    ("https://arxiv.org/abs/2301.00001", "paper"),
+    ("https://doi.org/10.1234/foo", "paper"),
+    ("https://example.com/paper.pdf", "pdf"),
+    ("https://example.com/paper.PDF", "pdf"),
+    ("https://example.com/", "web"),
+    ("not-a-url", "unknown"),
+    ("", "unknown"),
+])
+def test_detect_source_type(url, expected):
+    from ariadna.mcp_tools_write import detect_source_type
+    assert detect_source_type(url) == expected
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_mcp_tools_write_helpers.py -v
+# Expected: ModuleNotFoundError
+```
+
+- [ ] **Step 3: Implement `ariadna/mcp_tools_write.py`** (helpers — el resto se añade en tasks siguientes)
+
+```python
+"""Lógica de las tools MCP write: create_project, add_to_research_queue, cancel_request.
+
+Separado de mcp_server.py para tests unitarios: el módulo expone funciones puras
++ funciones que reciben una `sqlite3.Connection` (inyectable en tests sin levantar
+el server).
+"""
+from __future__ import annotations
+
+import json
+import re
+import shutil
+import sqlite3
+import uuid
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import Any
+
+REPO = Path(__file__).resolve().parent.parent
+WIKI_META = REPO / "wiki" / "_meta"
+PROJECTS_ROOT = REPO / "projects"
+
+SLUG_RE = re.compile(r"^[a-z][a-z0-9-]{1,40}[a-z0-9]$")
+VALID_SOURCE_TYPES = {"youtube", "paper", "web", "pdf", "unknown"}
+
+
+# --- validación pura ---------------------------------------------------------
+
+def validate_slug(slug: str) -> dict | None:
+    if not slug or not SLUG_RE.fullmatch(slug):
+        return {
+            "error": (
+                f"slug {slug!r} no es válido. Regex requerida: "
+                r"^[a-z][a-z0-9-]{1,40}[a-z0-9]$"
+            ),
+            "code": "SLUG_INVALID",
+        }
+    return None
+
+
+def detect_source_type(url: str) -> str:
+    if not url:
+        return "unknown"
+    u = url.strip()
+    if "youtube.com/watch" in u or "youtu.be/" in u:
+        return "youtube"
+    if "arxiv.org/" in u or "doi.org/" in u:
+        return "paper"
+    if u.lower().endswith(".pdf"):
+        return "pdf"
+    if u.startswith("http://") or u.startswith("https://"):
+        return "web"
+    return "unknown"
+
+
+def _now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_mcp_tools_write_helpers.py -v
+# Expected: ~25 passed (combinación de parametrize)
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_tools_write.py tests/test_mcp_tools_write_helpers.py
+git commit -m "feat(mcp): helpers de validación y auto-detección para tools write
+
+validate_slug (regex spec sección 6.5) + detect_source_type (spec 6.6).
+Funciones puras testables que las tools create_project y
+add_to_research_queue invocarán. Sin DB, sin estado.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 6.2: `create_project` — crear estructura mínima + opciones seed/inherit
+
+> Crea el directorio `projects/<slug>/{_meta,wiki/{concepts,authors,entities/{works,institutions},synthesis}}/` con `.gitkeep` en cada subdir wiki vacío + `relation_types_ext.json` (`{"types": {}}`), `INDEX.md` placeholder, `extraction_runs/` dir. Si `seed_from_templates=True`: copia `wiki/_meta/*_default.*` a `projects/<slug>/_meta/<name>.<ext>`. Si `inherit_from=<other_slug>`: copia los archivos editoriales del proyecto padre. Ambas opciones son **mutuamente excluyentes** (INCOMPATIBLE_OPTIONS).
+
+**Files:**
+- Modify: `ariadna/mcp_tools_write.py` (añadir `create_project_impl`)
+- Test: `tests/test_create_project.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_create_project.py
+"""create_project_impl: crea estructura mínima + opciones seed/inherit."""
+import json
+import sqlite3
+from pathlib import Path
+
+import pytest
+
+
+@pytest.fixture
+def fake_repo(tmp_path, monkeypatch):
+    # Mínima estructura: wiki/_meta/*_default.* y projects/proxy/_meta/* (padre potencial)
+    (tmp_path / "wiki" / "_meta").mkdir(parents=True)
+    (tmp_path / "wiki" / "_meta" / "scope_default.md").write_text("# default scope\n")
+    (tmp_path / "wiki" / "_meta" / "topic_filters_default.json").write_text("{}")
+    (tmp_path / "wiki" / "_meta" / "canonical_whitelist_default.json").write_text("{}")
+    (tmp_path / "wiki" / "_meta" / "subagent_prompt_default.md").write_text("default prompt")
+
+    (tmp_path / "projects" / "proxy" / "_meta").mkdir(parents=True)
+    (tmp_path / "projects" / "proxy" / "_meta" / "scope.md").write_text("# proxy scope\n")
+    (tmp_path / "projects" / "proxy" / "_meta" / "topic_filters.json").write_text("{}")
+    (tmp_path / "projects" / "proxy" / "_meta" / "canonical_whitelist.json").write_text("{}")
+    (tmp_path / "projects" / "proxy" / "_meta" / "subagent_prompt.md").write_text("proxy prompt")
+
+    db = tmp_path / "data" / "ariadna.db"
+    db.parent.mkdir()
+    conn = sqlite3.connect(str(db))
+    conn.executescript("""
+        CREATE TABLE projects(project_id TEXT PRIMARY KEY, name TEXT NOT NULL,
+            description TEXT, created_at TEXT NOT NULL, archived_at TEXT,
+            config_version TEXT NOT NULL DEFAULT '1.0');
+        INSERT INTO projects(project_id, name, created_at)
+            VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00');
+    """)
+    conn.commit()
+    conn.close()
+    monkeypatch.chdir(tmp_path)
+    # Monkeypatch REPO en el módulo
+    import ariadna.mcp_tools_write as m
+    monkeypatch.setattr(m, "REPO", tmp_path)
+    monkeypatch.setattr(m, "WIKI_META", tmp_path / "wiki" / "_meta")
+    monkeypatch.setattr(m, "PROJECTS_ROOT", tmp_path / "projects")
+    return tmp_path
+
+
+def _open(repo: Path) -> sqlite3.Connection:
+    return sqlite3.connect(str(repo / "data" / "ariadna.db"))
+
+
+def test_create_project_basic(fake_repo):
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open(fake_repo)
+    out = create_project_impl(conn, slug="test-e", name="Test E", description="desc")
+    conn.close()
+
+    assert out["project_id"] == "test-e"
+    # paths_created lista las rutas relativas creadas — verificar shape + miembros clave
+    pc = out["paths_created"]
+    assert isinstance(pc, list) and len(pc) >= 6  # 5 wiki subdirs + _meta
+    assert "projects/test-e/wiki/concepts" in pc
+    assert "projects/test-e/wiki/entities/works" in pc
+    assert "projects/test-e/_meta" in pc
+    # Estructura wiki + meta con .gitkeep en subdirs vacíos:
+    base = fake_repo / "projects" / "test-e"
+    for sub in ["wiki/concepts", "wiki/authors", "wiki/entities/works",
+                "wiki/entities/institutions", "wiki/synthesis", "_meta/extraction_runs"]:
+        assert (base / sub).is_dir()
+    for sub in ["wiki/concepts", "wiki/authors", "wiki/entities/works",
+                "wiki/entities/institutions", "wiki/synthesis"]:
+        assert (base / sub / ".gitkeep").is_file()
+    assert (base / "_meta" / "relation_types_ext.json").is_file()
+    rext = json.loads((base / "_meta" / "relation_types_ext.json").read_text())
+    # Shape spec sec 5.3: types como lista vacía. Metadata extra (version/schema_version/description)
+    # se preserva para consistencia con el placeholder de Proxy (Chunk 3 Task 3.6).
+    assert rext["types"] == []
+    assert rext["version"] == "1.0"
+    assert (base / "_meta" / "INDEX.md").is_file()
+    # SQLite tiene la fila:
+    conn = _open(fake_repo)
+    row = conn.execute("SELECT name, description FROM projects WHERE project_id='test-e'").fetchone()
+    conn.close()
+    assert row == ("Test E", "desc")
+
+
+def test_create_project_duplicate_slug(fake_repo):
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open(fake_repo)
+    out = create_project_impl(conn, slug="proxy", name="Dupe")
+    conn.close()
+    assert out.get("code") == "SLUG_DUPLICATE"
+
+
+def test_create_project_invalid_slug(fake_repo):
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open(fake_repo)
+    out = create_project_impl(conn, slug="Bad_Slug", name="X")
+    conn.close()
+    assert out["code"] == "SLUG_INVALID"
+
+
+def test_create_project_incompatible_options(fake_repo):
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open(fake_repo)
+    out = create_project_impl(conn, slug="test-combo", name="X",
+                              seed_from_templates=True, inherit_from="proxy")
+    conn.close()
+    assert out["code"] == "INCOMPATIBLE_OPTIONS"
+    # No state created:
+    assert not (fake_repo / "projects" / "test-combo").exists()
+
+
+def test_create_project_seed_from_templates(fake_repo):
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open(fake_repo)
+    out = create_project_impl(conn, slug="test-templates", name="X",
+                              seed_from_templates=True)
+    conn.close()
+    base = fake_repo / "projects" / "test-templates" / "_meta"
+    assert (base / "scope.md").read_text() == "# default scope\n"
+    assert (base / "topic_filters.json").read_text() == "{}"
+    assert (base / "subagent_prompt.md").read_text() == "default prompt"
+
+
+def test_create_project_inherit_from(fake_repo):
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open(fake_repo)
+    out = create_project_impl(conn, slug="test-inherit", name="X", inherit_from="proxy")
+    conn.close()
+    base = fake_repo / "projects" / "test-inherit" / "_meta"
+    assert (base / "scope.md").read_text() == "# proxy scope\n"
+    assert (base / "subagent_prompt.md").read_text() == "proxy prompt"
+
+
+def test_create_project_inherit_from_not_found(fake_repo):
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open(fake_repo)
+    out = create_project_impl(conn, slug="test-z", name="X", inherit_from="does-not-exist")
+    conn.close()
+    assert out["code"] == "INHERIT_FROM_NOT_FOUND"
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_create_project.py -v
+# Expected: AttributeError create_project_impl
+```
+
+- [ ] **Step 3: Implement `create_project_impl` in `ariadna/mcp_tools_write.py`**
+
+```python
+WIKI_SUBDIRS = [
+    "concepts", "authors",
+    "entities/works", "entities/institutions",
+    "synthesis",
+]
+META_OVERRIDABLES = [
+    ("scope_default.md", "scope.md"),
+    ("topic_filters_default.json", "topic_filters.json"),
+    ("canonical_whitelist_default.json", "canonical_whitelist.json"),
+    ("subagent_prompt_default.md", "subagent_prompt.md"),
+]
+
+
+def create_project_impl(
+    conn: sqlite3.Connection,
+    slug: str,
+    name: str,
+    description: str = "",
+    seed_from_templates: bool = False,
+    inherit_from: str | None = None,
+) -> dict:
+    # 1. validaciones
+    if seed_from_templates and inherit_from:
+        return {
+            "error": "seed_from_templates y inherit_from son mutuamente excluyentes",
+            "code": "INCOMPATIBLE_OPTIONS",
+        }
+    err = validate_slug(slug)
+    if err:
+        return err
+    # 2. duplicado
+    if conn.execute("SELECT 1 FROM projects WHERE project_id=?", (slug,)).fetchone():
+        return {"error": f"project_id {slug!r} already exists", "code": "SLUG_DUPLICATE"}
+    # 3. inherit_from check
+    if inherit_from is not None:
+        if not conn.execute(
+            "SELECT 1 FROM projects WHERE project_id=?", (inherit_from,)
+        ).fetchone():
+            return {
+                "error": f"inherit_from {inherit_from!r} does not exist",
+                "code": "INHERIT_FROM_NOT_FOUND",
+            }
+
+    base = PROJECTS_ROOT / slug
+    paths_created: list[str] = []
+
+    def _rel(p: Path) -> str:
+        # POSIX-style relative path desde REPO (independiente del OS)
+        return p.relative_to(REPO).as_posix()
+
+    # 4. estructura wiki/<subdirs> con .gitkeep
+    for sub in WIKI_SUBDIRS:
+        p = base / "wiki" / sub
+        p.mkdir(parents=True, exist_ok=False)
+        (p / ".gitkeep").write_text("")
+        paths_created.append(_rel(p))
+
+    # 5. _meta
+    meta = base / "_meta"
+    meta.mkdir(parents=True)
+    (meta / "extraction_runs").mkdir()
+    paths_created.append(_rel(meta))
+
+    # 6. relation_types_ext.json + INDEX.md
+    # Shape spec sec 5.3: {"types": []}. Metadata extra (version/schema_version/description)
+    # se incluye para consistencia con projects/proxy/_meta/relation_types_ext.json
+    # creado en Chunk 3 Task 3.6 — el módulo project_config._normalize_types_block
+    # acepta tanto list como dict, así que ambos shapes funcionan.
+    (meta / "relation_types_ext.json").write_text(json.dumps({
+        "version": "1.0",
+        "schema_version": "1.0.0",
+        "description": (
+            f"Extensiones de relation_types específicas de {slug}. Cualquier tipo aquí "
+            f"extiende relation_types_core.json. Colisión con un tipo core es error: "
+            f"el server falla en startup."
+        ),
+        "types": [],
+    }, indent=2) + "\n")
+    (meta / "INDEX.md").write_text(f"# {name}\n\n{description}\n")
+
+    # 7. seed_from_templates: copia los defaults
+    if seed_from_templates:
+        for src_name, dst_name in META_OVERRIDABLES:
+            src = WIKI_META / src_name
+            if src.exists():
+                shutil.copy2(src, meta / dst_name)
+
+    # 8. inherit_from: copia los overrides del padre
+    if inherit_from:
+        parent_meta = PROJECTS_ROOT / inherit_from / "_meta"
+        for _, dst_name in META_OVERRIDABLES:
+            src = parent_meta / dst_name
+            if src.exists():
+                shutil.copy2(src, meta / dst_name)
+        # También relation_types_ext del padre si existe
+        parent_ext = parent_meta / "relation_types_ext.json"
+        if parent_ext.exists():
+            shutil.copy2(parent_ext, meta / "relation_types_ext.json")
+
+    # 9. INSERT en SQLite
+    conn.execute(
+        "INSERT INTO projects(project_id, name, description, created_at) "
+        "VALUES (?, ?, ?, ?)",
+        (slug, name, description, _now_iso()),
+    )
+    conn.commit()
+
+    return {
+        "project_id": slug,
+        "paths_created": paths_created,
+        "message": f"project {slug!r} created ({len(paths_created)} paths)",
+    }
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_create_project.py -v
+# Expected: 7 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_tools_write.py tests/test_create_project.py
+git commit -m "feat(mcp): create_project_impl + tests
+
+Crea projects/<slug>/{wiki,_meta}/ con .gitkeep en subdirs vacíos +
+INDEX.md, relation_types_ext.json. Opciones seed_from_templates e
+inherit_from son mutuamente excluyentes (INCOMPATIBLE_OPTIONS). FSM
+de errores: SLUG_INVALID, SLUG_DUPLICATE, INHERIT_FROM_NOT_FOUND.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 6.3: `add_to_research_queue` — idempotencia via UNIQUE INDEX
+
+> Inserta una fila en `research_queue` con auto-detección de `source_type`. Si el caller pasa `source_type` explícito, lo respeta sin warning (spec sección 6.6 precedencia). Idempotencia: misma `(project_id, source_url)` en estado `pending|processing` devuelve el `request_id` existente con `was_duplicate=True`.
+
+**Files:**
+- Modify: `ariadna/mcp_tools_write.py` (añadir `add_to_research_queue_impl`)
+- Test: `tests/test_add_to_research_queue.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_add_to_research_queue.py
+"""add_to_research_queue_impl: detect_source_type + idempotencia."""
+import sqlite3
+import subprocess
+from pathlib import Path
+
+import pytest
+
+
+@pytest.fixture
+def db_with_proxy(tmp_path):
+    db = tmp_path / "ariadna.db"
+    # init schema:
+    # Resolución de paths anclada al repo root via __file__ (test no depende de cwd):
+    repo_root = Path(__file__).resolve().parent.parent
+    subprocess.run(
+        [str(repo_root / ".venv/bin/python"),
+         str(repo_root / "scripts/init_ariadna_db.py"),
+         "--db", str(db)],
+        check=True, capture_output=True, timeout=30,
+    )
+    conn = sqlite3.connect(str(db))
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00')")
+    conn.commit()
+    return conn
+
+
+def test_add_youtube_url_auto_detect(db_with_proxy):
+    from ariadna.mcp_tools_write import add_to_research_queue_impl
+    out = add_to_research_queue_impl(
+        db_with_proxy, project="proxy", source_url="https://youtu.be/abc"
+    )
+    assert out["detected_source_type"] == "youtube"
+    assert out["status"] == "pending"
+    assert out["was_duplicate"] is False
+    assert "request_id" in out and len(out["request_id"]) > 10
+
+
+def test_add_arxiv_paper(db_with_proxy):
+    from ariadna.mcp_tools_write import add_to_research_queue_impl
+    out = add_to_research_queue_impl(
+        db_with_proxy, project="proxy",
+        source_url="https://arxiv.org/abs/2301.00001",
+    )
+    assert out["detected_source_type"] == "paper"
+
+
+def test_add_duplicate_returns_same_request_id(db_with_proxy):
+    from ariadna.mcp_tools_write import add_to_research_queue_impl
+    out1 = add_to_research_queue_impl(
+        db_with_proxy, project="proxy", source_url="https://example.com/x"
+    )
+    out2 = add_to_research_queue_impl(
+        db_with_proxy, project="proxy", source_url="https://example.com/x"
+    )
+    assert out2["was_duplicate"] is True
+    assert out2["request_id"] == out1["request_id"]
+
+
+def test_add_explicit_source_type_overrides_detector(db_with_proxy):
+    from ariadna.mcp_tools_write import add_to_research_queue_impl
+    out = add_to_research_queue_impl(
+        db_with_proxy, project="proxy",
+        source_url="https://example.com/",
+        source_type="youtube",   # detector diría web; caller manda
+    )
+    assert out["detected_source_type"] == "youtube"
+    # Confirmar en SQLite:
+    src = db_with_proxy.execute(
+        "SELECT source_type FROM research_queue WHERE request_id=?",
+        (out["request_id"],),
+    ).fetchone()[0]
+    assert src == "youtube"
+
+
+def test_add_unknown_project(db_with_proxy):
+    from ariadna.mcp_tools_write import add_to_research_queue_impl
+    out = add_to_research_queue_impl(
+        db_with_proxy, project="ghost", source_url="https://x.com"
+    )
+    assert out["code"] == "PROJECT_NOT_FOUND"
+
+
+def test_add_invalid_source_type_explicit(db_with_proxy):
+    from ariadna.mcp_tools_write import add_to_research_queue_impl
+    out = add_to_research_queue_impl(
+        db_with_proxy, project="proxy", source_url="https://x.com",
+        source_type="malware",
+    )
+    assert out["code"] == "INVALID_SOURCE_TYPE"
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_add_to_research_queue.py -v
+# Expected: AttributeError add_to_research_queue_impl
+```
+
+- [ ] **Step 3: Implement `add_to_research_queue_impl`**
+
+```python
+def add_to_research_queue_impl(
+    conn: sqlite3.Connection,
+    project: str,
+    source_url: str,
+    source_type: str | None = None,
+    notes: str = "",
+    priority: int = 0,
+) -> dict:
+    # 1. project existe
+    if not conn.execute("SELECT 1 FROM projects WHERE project_id=?", (project,)).fetchone():
+        return {"error": f"project {project!r} not found", "code": "PROJECT_NOT_FOUND"}
+
+    # 2. source_url no vacía
+    if not source_url or not source_url.strip():
+        return {"error": "source_url empty", "code": "INVALID_URL"}
+
+    # 3. source_type: precedencia caller > detector
+    detected = source_type or detect_source_type(source_url)
+    if detected not in VALID_SOURCE_TYPES:
+        return {
+            "error": f"source_type {detected!r} not in {sorted(VALID_SOURCE_TYPES)}",
+            "code": "INVALID_SOURCE_TYPE",
+        }
+
+    # 4. idempotencia: existe una fila pending/processing con misma (project, url)?
+    existing = conn.execute(
+        "SELECT request_id, status FROM research_queue "
+        "WHERE project_id=? AND source_url=? AND status IN ('pending','processing')",
+        (project, source_url),
+    ).fetchone()
+    if existing:
+        return {
+            "request_id": existing[0],
+            "detected_source_type": detected,
+            "status": existing[1],
+            "was_duplicate": True,
+            "message": "url already in queue for this project",
+        }
+
+    # 5. INSERT
+    request_id = str(uuid.uuid4())
+    conn.execute(
+        "INSERT INTO research_queue("
+        "request_id, project_id, source_url, source_type, status, priority, "
+        "created_at, notes) VALUES (?, ?, ?, ?, 'pending', ?, ?, ?)",
+        (request_id, project, source_url, detected, priority, _now_iso(), notes),
+    )
+    conn.commit()
+    return {
+        "request_id": request_id,
+        "detected_source_type": detected,
+        "status": "pending",
+        "was_duplicate": False,
+        "message": f"added to queue (project={project!r}, type={detected!r})",
+    }
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_add_to_research_queue.py -v
+# Expected: 6 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_tools_write.py tests/test_add_to_research_queue.py
+git commit -m "feat(mcp): add_to_research_queue_impl con detect + idempotencia
+
+source_type auto-detect (youtube/paper/web/pdf/unknown) o respeta caller.
+Idempotencia: misma (project, url) en pending/processing devuelve el
+request_id existente con was_duplicate=True (UNIQUE INDEX en SQLite
+respalda la garantía aunque la query también la implementa explicit).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 6.4: `cancel_request` — FSM rules
+
+> FSM (spec sección 4.2.1): `pending→cancelled` OK, `failed→cancelled` OK, `processing→cancelled` no-op, `done|cancelled` no-op idempotente.
+
+**Files:**
+- Modify: `ariadna/mcp_tools_write.py` (añadir `cancel_request_impl`)
+- Test: `tests/test_cancel_request.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_cancel_request.py
+"""cancel_request_impl: respeta FSM transitions spec sec 4.2.1."""
+import sqlite3
+import subprocess
+from pathlib import Path
+
+import pytest
+
+
+@pytest.fixture
+def db_with_items(tmp_path):
+    db = tmp_path / "ariadna.db"
+    # Resolución de paths anclada al repo root via __file__ (test no depende de cwd):
+    repo_root = Path(__file__).resolve().parent.parent
+    subprocess.run(
+        [str(repo_root / ".venv/bin/python"),
+         str(repo_root / "scripts/init_ariadna_db.py"),
+         "--db", str(db)],
+        check=True, capture_output=True, timeout=30,
+    )
+    conn = sqlite3.connect(str(db))
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00')")
+    for rid, status in [
+        ("r-pending",    "pending"),
+        ("r-processing", "processing"),
+        ("r-done",       "done"),
+        ("r-failed",     "failed"),
+        ("r-cancelled",  "cancelled"),
+    ]:
+        conn.execute(
+            "INSERT INTO research_queue(request_id, project_id, source_url, "
+            "source_type, status, created_at) "
+            "VALUES (?, 'proxy', ?, 'web', ?, '2026-05-16T00:00:00+00:00')",
+            (rid, f"https://x/{rid}", status),
+        )
+    conn.commit()
+    return conn
+
+
+def test_cancel_pending_ok(db_with_items):
+    from ariadna.mcp_tools_write import cancel_request_impl
+    out = cancel_request_impl(db_with_items, request_id="r-pending", reason="user changed mind")
+    assert out["previous_status"] == "pending"
+    assert out["current_status"] == "cancelled"
+    # SQLite refleja:
+    row = db_with_items.execute(
+        "SELECT status, completed_at, error_msg FROM research_queue WHERE request_id='r-pending'"
+    ).fetchone()
+    assert row[0] == "cancelled"
+    assert row[1] is not None  # completed_at se setea
+    assert "user changed mind" in (row[2] or "")
+
+
+def test_cancel_failed_ok(db_with_items):
+    from ariadna.mcp_tools_write import cancel_request_impl
+    out = cancel_request_impl(db_with_items, request_id="r-failed", reason="abandoned")
+    assert out["previous_status"] == "failed"
+    assert out["current_status"] == "cancelled"
+
+
+def test_cancel_processing_no_op(db_with_items):
+    from ariadna.mcp_tools_write import cancel_request_impl
+    out = cancel_request_impl(db_with_items, request_id="r-processing")
+    assert out["previous_status"] == "processing"
+    assert out["current_status"] == "processing"  # NO-OP
+    assert "cannot cancel" in out["message"].lower()
+
+
+def test_cancel_done_idempotent_noop(db_with_items):
+    from ariadna.mcp_tools_write import cancel_request_impl
+    out = cancel_request_impl(db_with_items, request_id="r-done")
+    assert out["previous_status"] == "done"
+    assert out["current_status"] == "done"
+
+
+def test_cancel_cancelled_idempotent_noop(db_with_items):
+    from ariadna.mcp_tools_write import cancel_request_impl
+    out = cancel_request_impl(db_with_items, request_id="r-cancelled")
+    assert out["previous_status"] == "cancelled"
+    assert out["current_status"] == "cancelled"
+
+
+def test_cancel_not_found(db_with_items):
+    from ariadna.mcp_tools_write import cancel_request_impl
+    out = cancel_request_impl(db_with_items, request_id="r-nonexistent")
+    assert out["code"] == "REQUEST_NOT_FOUND"
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_cancel_request.py -v
+# Expected: AttributeError cancel_request_impl
+```
+
+- [ ] **Step 3: Implement `cancel_request_impl`**
+
+```python
+def cancel_request_impl(
+    conn: sqlite3.Connection,
+    request_id: str,
+    reason: str = "",
+) -> dict:
+    row = conn.execute(
+        "SELECT status FROM research_queue WHERE request_id=?", (request_id,)
+    ).fetchone()
+    if row is None:
+        return {"error": f"request_id {request_id!r} not found", "code": "REQUEST_NOT_FOUND"}
+    prev = row[0]
+    if prev == "processing":
+        return {
+            "request_id": request_id,
+            "previous_status": "processing",
+            "current_status": "processing",
+            "message": "cannot cancel item currently being processed; "
+                       "let it finish or fail naturally",
+        }
+    if prev in ("done", "cancelled"):
+        return {
+            "request_id": request_id,
+            "previous_status": prev,
+            "current_status": prev,
+            "message": f"already terminal ({prev}); no-op",
+        }
+    # pending o failed → cancelled
+    err_msg = f"cancelled by user: {reason}" if reason else "cancelled by user"
+    conn.execute(
+        "UPDATE research_queue SET status='cancelled', completed_at=?, error_msg=? "
+        "WHERE request_id=?",
+        (_now_iso(), err_msg, request_id),
+    )
+    conn.commit()
+    return {
+        "request_id": request_id,
+        "previous_status": prev,
+        "current_status": "cancelled",
+        "message": f"cancelled ({prev} → cancelled)",
+    }
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_cancel_request.py -v
+# Expected: 6 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_tools_write.py tests/test_cancel_request.py
+git commit -m "feat(mcp): cancel_request_impl respeta FSM spec sec 4.2.1
+
+pending→cancelled OK, failed→cancelled OK (saca del retry pool),
+processing→cancelled NO-OP (no se cancela mid-process), done/cancelled
+idempotente. error_msg registra 'cancelled by user: <reason>'.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+---
