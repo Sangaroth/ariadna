@@ -326,6 +326,11 @@ El anillo opera específicamente en la segunda forma — la concupiscencia inter
 
 
 
+
+
+
+
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722) · [50:23](https://youtu.be/gDRkrg8dVCo?t=3023) · [1:05:15](https://youtu.be/gDRkrg8dVCo?t=3915)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [27:29](https://youtu.be/s6teBboDDJ4?t=1649) · [1:16:01](https://youtu.be/s6teBboDDJ4?t=4561)
 - **Tolkien y los dragones** — chunks: [0:31](https://youtu.be/O-kzVFngjAQ?t=31) · [1:07:52](https://youtu.be/O-kzVFngjAQ?t=4072) · [1:12:57](https://youtu.be/O-kzVFngjAQ?t=4377) · [1:16:29](https://youtu.be/O-kzVFngjAQ?t=4589) · [1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)
@@ -342,4 +347,7 @@ El anillo opera específicamente en la segunda forma — la concupiscencia inter
 - **Seguimos con Tolkien** — chunks: [12:02](https://youtu.be/OGah7BFoR3w?t=722) · [17:34](https://youtu.be/OGah7BFoR3w?t=1054) · [49:52](https://youtu.be/OGah7BFoR3w?t=2992) · [1:04:01](https://youtu.be/OGah7BFoR3w?t=3841)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [14:22](https://youtu.be/xc8e2i_nREE?t=862)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [17:46](https://youtu.be/L4ayDmaUO9Y?t=1066)
+- **Los Apocalipsis. (Parte I)** — chunks: [1:12:23](https://youtu.be/lLRGemLUCtY?t=4343)
+- **MItología 101: El Gólem** — chunks: [1:30:22](https://youtu.be/IG3dkNBX9uU?t=5422)
+- **Mitología 101: Teseo y Ariadna** — chunks: [1:00:28](https://youtu.be/b03AszdViNw?t=3628)
 

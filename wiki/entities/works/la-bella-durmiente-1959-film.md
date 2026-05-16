@@ -153,6 +153,11 @@ Esta inversión se lee como síntoma cultural: la narrativa contemporánea que p
 
 
 
+
+
+
 - **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [0:42](https://youtu.be/Ot3Z1VYTUgY?t=42)
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0)
+- **Lilith: La Iconotropía.** — chunks: [7:11](https://youtu.be/xKCD8PaexF0?t=431)
+- **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [58:53](https://youtu.be/DNxx4qwb944?t=3533)
 

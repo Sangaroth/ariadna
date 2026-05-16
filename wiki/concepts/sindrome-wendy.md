@@ -402,6 +402,7 @@ La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo 
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [3:31](https://youtu.be/3Jo2T73pOEs?t=211) · [8:41](https://youtu.be/3Jo2T73pOEs?t=521)
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [32:35](https://youtu.be/JmCqIk6NDsM?t=1955) · [36:37](https://youtu.be/JmCqIk6NDsM?t=2197) · [3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
 - **Fenomenología Trans** — chunks: [13:05](https://youtu.be/grs5EqRZBnQ?t=785)
@@ -417,4 +418,5 @@ La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo 
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [31:00](https://youtu.be/ClnayaScAjQ?t=1860)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [1:00:51](https://youtu.be/fzEDQZIqKwg?t=3651)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [33:39](https://youtu.be/iPqOn-ynSlE?t=2019)
+- **Cerebros rosas y azules** — chunks: [1:54:26](https://youtu.be/x7A9nfoRfu0?t=6866)
 

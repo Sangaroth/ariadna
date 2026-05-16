@@ -99,9 +99,16 @@ El cuento se inscribe en el mismo registro de prosa-poema breve que [[ex-oblivio
 
 
 
+
+
+
+
 - **Terror: Lovecraft y lo incompleto.** — chunks: [27:18](https://youtu.be/JzfcmEKWm1c?t=1638) · [30:57](https://youtu.be/JzfcmEKWm1c?t=1857)
 - **La enfermedad del aburrimiento.** — chunks: [33:18](https://youtu.be/ifKRYGlHwuk?t=1998)
 - **T4 Laboratorio de... filo, con Sofía** — chunks: [21:19](https://youtu.be/GizCbTycY4U?t=1279)
 - **T4Lx02 Santiago y cierre categorial: M3.** — chunks: [1:11:20](https://youtu.be/ecG-JqsSz2Q?t=4280)
 - **Taxonomía y filosofía del satanismo** — chunks: [1:16:49](https://youtu.be/4JW8act2SdE?t=4609)
+- **El mito del Gólem: Transhumanismo** — chunks: [1:03:14](https://youtu.be/hjc9L2_kkOo?t=3794) · [1:07:16](https://youtu.be/hjc9L2_kkOo?t=4036)
+- **Orfeo y Eurídice** — chunks: [7:04](https://youtu.be/1D0u-tK4v8c?t=424)
+- **Cerebros rosas y azules** — chunks: [1:09:28](https://youtu.be/x7A9nfoRfu0?t=4168)
 

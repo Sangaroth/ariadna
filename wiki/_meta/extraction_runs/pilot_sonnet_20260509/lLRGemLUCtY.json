@@ -1,0 +1,274 @@
+{
+  "video_id": "lLRGemLUCtY",
+  "video_title": "Los Apocalipsis. (Parte I)",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "los Apocalipsis como mitema y género literario",
+      "canonical_guess": "apocalipsis-mitema",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 85,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los Apocalipsis son literatura de revelación para un grupo restringido, con carácter profético,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El objeto de la narración apocalíptica es el sentido final de la historia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Una narración es arquetípica si, además de pretender ser un símbolo universal, coincide con otros cuatro dominios semióticos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La estructura es: Génesis → caída → transición → Apocalipsis,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico Parte I (130 min) cuyo bloque central (~85 min desde 40:17) articula el Apocalipsis como uno de los cinco mitemas fundamentales del canal — el único mitema sin página propia en wiki (Génesis ya está en genesis-mitologico, mito solar/lunar/mago tienen páginas). Cumple múltiples criterios scope.md §2.1: (a) monográfico ≥10 min sostenidos sobre tesis central, (b) framing_mark declarado ('los Apocalipsis son literatura de revelación con carácter profético'), (c) connectivity (ya wikilinkado como [[apocalipsis-mitema]] desde tarot-arquetipico), (d) assumed_prior (la lista de cinco mitemas en diosa-blanca lo da por hecho). Articula framework propio del canal: definición etimológica, pseudonimia, lenguaje simbólico, cinco dimensiones arquetípicas según Polaris, estructura psíquica Génesis→caída→transición→Apocalipsis, puntos característicos según Piñero (Dios trascendente, historia lineal, universalismo, intermediario), diagnóstico de obras NO arquetípicas (Dante, Milton), convergencia tolkieniana, fuentes históricas (Apocalipsis de las 10 semanas en Enoc 1, libro del curso de las luminarias en Enoc 72). El material gnóstico relacionado (Apocalipsis de Adán, sethianismo, derivaciones modernas) ya está capturado en gnosticismo; el Tarot apocalíptico (Torre, Cuatro Jinetes, Rueda) ya está en tarot-arquetipico. Queda articular el mitema mismo en su plano arquetípico-literario",
+      "quote_evidence": "Todo lo que tiene un principio tiene un final: la psique humana exige concebir un desenlace,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Apocalipsis de Adán (Nag Hammadi, sethianismo s.II-III)",
+      "reason_code": "already_captured",
+      "reason_detail": "El Apocalipsis de Adán como texto sethianista (último tratado del códice V de Nag Hammadi) con sus articulaciones nucleares (Adán andrógino en la gloria del Dios trascendente, Yahvé como demiurgo iracundo que divide a Adán, Set como receptor de la revelación auténtica, raza de Set NO desciende de Noé) está documentado literalmente en gnosticismo (sección 'El Apocalipsis de Adán') con citas exactas de este timestamp",
+      "quote_evidence": "Adán fue creado andrógino en la gloria del conocimiento del Dios trascendente, distinto del dios creador (Yahvé),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "criterio metafísico del demiurgo (potencia = obra del demiurgo, no Dios)",
+      "reason_code": "already_captured",
+      "reason_detail": "El criterio operativo 'todo lo que tiene potencia (principio y final) no es Dios sino obra de un demiurgo' está documentado literalmente en gnosticismo con cita de este timestamp. La distinción Dios trascendente / demiurgo opera ya como pieza del marco gnóstico documentado",
+      "quote_evidence": "Todo lo que tiene potencia (principio y final) no es Dios sino obra de un demiurgo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Código Da Vinci / María Magdalena / estirpe de Dios",
+      "reason_code": "already_captured",
+      "reason_detail": "La genealogía cultural sethianismo → tradición esotérica medieval → Código Da Vinci como vehículo masivo de la doctrina sethianista invertida está documentada literalmente en gnosticismo (sección 'Derivaciones modernas') con citas exactas de este timestamp. La distinción operativa católica (Santo Grial como Espíritu, no estirpe genética) también está articulada",
+      "quote_evidence": "El Código Da Vinci propone que el Santo Grial es la búsqueda de la estirpe de Dios en la tierra,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "New Age como herejía gnóstica / magia torpe / masonería",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación del New Age como reinterpretación gnóstica de la Biblia, descrita como 'magia torpe' y no mística genuina, está documentada literalmente en gnosticismo (sección 'Derivaciones modernas') con citas exactas de este timestamp. El diagnóstico de que los gnósticos NO descubrieron la asociación conocimiento=poder sino que la inventaron también está articulado",
+      "quote_evidence": "Toda la parafernalia de la pseudo-mística New Age proviene de reinterpretaciones gnósticas de la Biblia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "cultos mistéricos siglos I-III d.C. (dionisíacos, afrodisíacos)",
+      "reason_code": "already_captured",
+      "reason_detail": "El contexto histórico de los cultos mistéricos como sustrato cultural del gnosticismo (rituales extáticos con sustancias produciendo visiones interpretadas como revelación divina) está documentado en gnosticismo (sección 'Derivaciones modernas') con cita de este timestamp",
+      "quote_evidence": "En los siglos I-III d.C., los cultos mistéricos (dionisíacos, afrodisíacos) inundaban la cultura: rituales extáticos con sustancias producían visiones que se interpretaban como revelación divina,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Torre del Tarot como Apocalipsis cotidiano / Rueda de la Fortuna como samsara / Cuatro Jinetes en 13-16",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la Torre (carta 16) como representación arquetípica del Apocalipsis, la distinción con la Rueda de la Fortuna (carta 10) como samsara contraparte del Mago, y la secuencia 13-16 (Muerte-Templanza-Diablo-Torre) como los Cuatro Jinetes está documentada literalmente en tarot-arquetipico (sección 'La Torre como carta del Apocalipsis y los Cuatro Jinetes') con citas exactas de este timestamp",
+      "quote_evidence": "La Torre del Tarot (carta 16) representa esa vivencia apocalíptica: del orden al desorden, el caos se apodera,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tarot-arquetipico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Vigilantes / hijos de ángeles caídos / origen mítico de la bruja",
+      "reason_code": "passing_mention",
+      "reason_detail": "El vídeo articula que las mujeres que pactan con demonios son las antecesoras míticas de la bruja, conectando la corrupción terminal del eje femenino con el episodio enoquiano de los Vigilantes. La página tipologia-femenina-arquetipica articula la bruja como figura terminal pero NO contiene el origen mítico-enoquiano del personaje. La conexión es genuina pero breve aquí — se captura mejor en la nueva apocalipsis-mitema como parte del Apocalipsis de las 10 semanas, y queda para enrich futuro de tipologia-femenina-arquetipica si reaparece con desarrollo sostenido",
+      "quote_evidence": "Las mujeres que pactan con demonios son las antecesoras míticas de la bruja; es el origen de una mitología usada en sagas de videojuegos,",
+      "review_priority": "medium",
+      "review_priority_reason": "El origen mítico-enoquiano de la bruja (hija de ángeles caídos / Vigilantes) podría merecer enrichment de tipologia-femenina-arquetipica si reaparece en otros vídeos con desarrollo sostenido",
+      "enriches_concept": "apocalipsis-mitema",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Antonio Piñero (editor de la compilación de Apocalipsis antiguos)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Antonio Piñero aparece como autor/editor del libro recopilatorio de Apocalipsis antiguos que el canal utiliza como fuente primaria para articular el marco apocalíptico y leer textos apocalípticos antiguos. Función pedagógica explícita como base bibliográfica del canal. No es figura objeto de análisis arquetípico sino referencia bibliográfica del método. La página gnosticismo ya cita su 'Antonio Piñero, Gnosticismo y el Evangelio de San Juan' como source del corpus",
+      "quote_evidence": "Se utilizará un libro recopilatorio de Apocalipsis antiguos editado por Antonio Piñero,",
+      "review_priority": "medium",
+      "review_priority_reason": "Piñero es autoridad bibliográfica recurrente del canal en mitología bíblica y gnosticismo. Merece entrada en posible lane bibliográfica futura",
+      "enriches_concept": "apocalipsis-mitema",
+      "recommended_reference_payload": {
+        "book_title": "Apocalipsis antiguos (compilación)",
+        "authors": [
+          "Antonio Piñero"
+        ],
+        "domain": "humanities.religion",
+        "why_recommended": "Compilación editada de textos apocalípticos antiguos (Apocalipsis de las 10 semanas en Enoc 1, libro del curso de las luminarias en Enoc 72, Apocalipsis de Adán en Nag Hammadi, entre otros) que el canal utiliza como fuente primaria para articular el marco arquetípico del mitema apocalíptico. El libro proporciona también los puntos característicos del arquetipo apocalíptico que el canal cita explícitamente como base teórica",
+        "quote_evidence": "Se utilizará un libro recopilatorio de Apocalipsis antiguos editado por Antonio Piñero,",
+        "timestamp_seconds": 2417,
+        "cite_markdown": "[Los Apocalipsis. (Parte I) (40:17)](https://youtu.be/lLRGemLUCtY?t=2417)"
+      }
+    },
+    {
+      "surface_form": "Ignacio Gómez de Liaño — El círculo de la sabiduría",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Recomendación bibliográfica explícita al cierre del directo: 'El círculo de la sabiduría' de Ignacio Gómez de Liaño como recopilación de los elementos culturales, mitológicos y místicos que dieron lugar al gnosticismo. Función pedagógica clara como base bibliográfica del canal para profundizar el sustrato cultural del gnosticismo articulado en gnosticismo. No es figura objeto de análisis arquetípico sino referencia bibliográfica del método",
+      "quote_evidence": "Recopilación de todos los elementos culturales, mitológicos y místicos que dieron lugar al gnosticismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "gnosticismo",
+      "recommended_reference_payload": {
+        "book_title": "El círculo de la sabiduría",
+        "authors": [
+          "Ignacio Gómez de Liaño"
+        ],
+        "domain": "humanities.religion",
+        "why_recommended": "Recopilación de los elementos culturales, mitológicos y místicos que dieron lugar al gnosticismo. El canal lo recomienda como lectura muy completa pero densa que requiere interés en historia e historia del arte. Función bibliográfica de profundización del sustrato cultural gnóstico ya articulado en wiki",
+        "quote_evidence": "Recopilación de todos los elementos culturales, mitológicos y místicos que dieron lugar al gnosticismo,",
+        "timestamp_seconds": 7342,
+        "cite_markdown": "[Los Apocalipsis. (Parte I) (2:02:22)](https://youtu.be/lLRGemLUCtY?t=7342)"
+      }
+    },
+    {
+      "surface_form": "crítica a la mochila de supervivencia / manipulación política europea",
+      "reason_code": "political_news",
+      "reason_detail": "Bloque coyuntural sobre la Unión Europea utilizando el miedo a la guerra para justificar subidas de impuestos. Aunque el speaker articula un mecanismo psicológico-sociológico genérico (miedo colectivo como instrumento de presión fiscal), el contenido opera en plano de actualidad partidista (≤12 meses) sin marco teórico aplicado en el sentido de scope.md §3.1 — es comentario directo sobre actor político contemporáneo sin elevación a estructura. Per test §3.1.5 (¿es comentario directo sobre actualidad partidista sin marco teórico aplicado?): OUT",
+      "quote_evidence": "La Unión Europea utiliza el miedo a la guerra para justificar subidas de impuestos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "caso Kimberly Kiter / plagio académico mexicano / BH4",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Bloque sobre una investigadora neurodivergente específica (Kimberly Kiter), su trabajo sobre BH4 y autismo, y el plagio que sufrió por un grupo de investigación mexicano. Anécdota personal sobre individuos concretos sin elevación a marco arquetípico. Per scope.md §3.3 (anécdotas personales del presentador): OUT — el bloque mezcla simpatía personal del speaker con crítica al sistema académico, sin desarrollo arquetípico ni teorización psicológica sustantiva. No procede página ni cita",
+      "quote_evidence": "Kimberly Kiter, persona neurodivergente, investigó por cuenta propia las comorbilidades entre déficits proteicos y el espectro autista,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "crítica a la academia (becarios, sociología del género, dinero público para política)",
+      "reason_code": "political_news",
+      "reason_detail": "Crítica genérica al sistema universitario español (becarios mal pagados, dinero para sociología del género en lugar de ciencia real, gastos políticos). Coyuntural, sin elevación a marco filosófico o sociológico estructural. Posible relación con la crítica del canal a la postmodernidad académica (psicoinfluencers-en-proxy, woke-narrativa-postmoderna-moral) pero aquí es solo desahogo personal, no articulación teórica",
+      "quote_evidence": "No hay dinero para ciencia real pero sí para sociología del género y gastos políticos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "anécdota personal: Proxy encontrando sus ideas publicadas por otros investigadores",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota meta-personal del speaker sobre la frustración de ver sus propias ideas publicadas después en papers por otros investigadores que llegaban a las mismas conclusiones. Sin desarrollo arquetípico ni teorización. Per scope.md §3.3 (anécdotas personales del presentador): OUT",
+      "quote_evidence": "Proxy relata que él mismo ha encontrado ideas publicadas después en papers por otros investigadores que llegaban a las mismas conclusiones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "avances con ChatGPT-4 para proyectos creativos",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención casual del speaker sobre exploración de ChatGPT-4 para posibles proyectos creativos (cómics, juegos). Meta-canal sobre planes editoriales del speaker. Sin contenido arquetípico ni teórico. Per scope.md §3.3",
+      "quote_evidence": "Menciona avances en el uso de ChatGPT-4 para posibles proyectos creativos (cómics, juegos),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Divina Comedia de Dante (NO arquetípica)",
+      "reason_code": "passing_mention",
+      "reason_detail": "La Divina Comedia aparece como caso diagnóstico de obra simbólica pero NO arquetípica según el canal — apela a una forma concreta de nobleza y contexto cultural local (división de pecados capitales), no a hechos universales. Material capturado en la nueva apocalipsis-mitema como criterio diagnóstico de obra apocalíptica falsa. La obra podría merecer entity_work propio si recibe análisis dedicado en otro vídeo del canal",
+      "quote_evidence": "La Divina Comedia es un escrito simbólico sobre una clase del Apocalipsis: \"cuando me muera, a dónde voy\",",
+      "review_priority": "medium",
+      "review_priority_reason": "La Divina Comedia como obra canónica de Dante podría merecer entity_work si el corpus articula análisis dedicado en otros vídeos. Por ahora la mención es funcional como contraprueba del marco arquetípico apocalíptico",
+      "enriches_concept": "apocalipsis-mitema",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El Paraíso Perdido de Milton (NO arquetípico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "El Paraíso Perdido aparece como caso diagnóstico de narración épica simbólica y fantástica que NO es arquetípica — sus sentidos son invención del propio autor y apelan a formas de entender las cosas que no son universales. Material relacionable con lucifer-satanas-serpiente-en-proxy (donde Milton aparece como autor crítico cuya proyección del pecado de Lucifer sobre Eva el canal corrige). Captura en apocalipsis-mitema como criterio diagnóstico complementario al de Dante",
+      "quote_evidence": "El Paraíso Perdido es una narración épica, simbólica y fantástica, pero no arquetípica,",
+      "review_priority": "medium",
+      "review_priority_reason": "El Paraíso Perdido como obra de Milton ya ha sido tratado en lucifer-satanas-serpiente-en-proxy (crítica miltoniana) y aquí recibe diagnóstico complementario como obra no-arquetípica. Cite-only enriquece esa página y la nueva apocalipsis-mitema",
+      "enriches_concept": "lucifer-satanas-serpiente-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "convergencia tolkieniana: ejércitos congregados y dos lados al final",
+      "reason_code": "passing_mention",
+      "reason_detail": "El canal articula la congregación de ejércitos (diferentes facciones, pueblos, formas de religión) en el fin apocalíptico como misma estructura que Tolkien, y la reducción a dos lados al final como convergencia entre Apocalipsis bíblico y Tolkien. La obra El Señor de los Anillos ya tiene página propia y articulación del mito polar; este es un nuevo ángulo (convergencia apocalíptica) que se captura en apocalipsis-mitema",
+      "quote_evidence": "La congregación de ejércitos (diferentes facciones, pueblos, formas de religión) es la misma estructura que Tolkien,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "apocalipsis-mitema",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Polaris (libro) — cinco dimensiones de la estructura arquetípica",
+      "reason_code": "passing_mention",
+      "reason_detail": "El canal cita explícitamente Polaris (libro propio) como fuente de la formulación de las cinco dimensiones semióticas que definen lo arquetípico (símbolo universal + sentido psicológico + correlato biológico + traslación cotidiana + estructura del mitema). Es referencia genealógica al propio framework del canal. La nueva apocalipsis-mitema capturará esta articulación. Polaris ya está flagged como entity_work candidato en sesión previa (vídeo Eva, Lucifer, Satanás y la Serpiente)",
+      "quote_evidence": "Una narración es arquetípica si, además de pretender ser un símbolo universal, coincide con otros cuatro dominios semióticos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Polaris como entity_work del canal acumula menciones (este vídeo + el de Eva/Lucifer/Satanás). Si el corpus lo trata sustantivamente en otros vídeos, candidato a entity_work propio",
+      "enriches_concept": "apocalipsis-mitema",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Apocalipsis universal en culturas sin contacto (quechuas, mayas)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Argumento estructural del canal: la estructura apocalíptica aparece en culturas sin contacto con Medio Oriente (quechuas, mayas), lo que confirma su carácter arquetípico universal. Pieza foundational del argumento sobre el Apocalipsis como mitema. Capturada en la nueva apocalipsis-mitema",
+      "quote_evidence": "El Apocalipsis es estructura arquetípica universal: aparece en culturas sin contacto con Medio Oriente (quechuas, mayas),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "apocalipsis-mitema",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 19,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[los Apocalipsis como mitema y género literario] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

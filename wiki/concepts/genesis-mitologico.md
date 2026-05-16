@@ -243,6 +243,15 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 
 
 
+
+
+
+
+
+
+
+
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
@@ -261,4 +270,10 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [46:25](https://youtu.be/aWeuzWLrLtE?t=2785)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [32:12](https://youtu.be/QSggWfjOkHk?t=1932) · [34:43](https://youtu.be/QSggWfjOkHk?t=2083) · [1:29:45](https://youtu.be/QSggWfjOkHk?t=5385)
 - **T4Lx02 Santiago y cierre categorial: M3.** — chunks: [31:29](https://youtu.be/ecG-JqsSz2Q?t=1889)
+- **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [0:00](https://youtu.be/tgusJOzuJ7U?t=0)
+- **Lilith: La Iconotropía.** — chunks: [37:32](https://youtu.be/xKCD8PaexF0?t=2252)
+- **Los Apocalipsis. (Parte I)** — chunks: [49:30](https://youtu.be/lLRGemLUCtY?t=2970) · [1:03:07](https://youtu.be/lLRGemLUCtY?t=3787)
+- **Orfeo y Eurídice** — chunks: [4:32](https://youtu.be/1D0u-tK4v8c?t=272)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [16:07](https://youtu.be/O4OkDuc3uPQ?t=967) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642) · [53:52](https://youtu.be/O4OkDuc3uPQ?t=3232) · [1:08:25](https://youtu.be/O4OkDuc3uPQ?t=4105)
+- **Cuento contigo (resub)** — chunks: [26:01](https://youtu.be/6oOGKh2TRHE?t=1561) · [33:07](https://youtu.be/6oOGKh2TRHE?t=1987)
 

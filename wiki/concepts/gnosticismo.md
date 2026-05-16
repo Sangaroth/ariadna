@@ -148,6 +148,66 @@ La triada teologal cristiana (fe-esperanza-caridad/amor) se reordena en Matrix s
 - Comparte sustrato cosmogónico (emanación, hipóstasis, eones) con la cábala y la lectura arquetípica del [[tarot-arquetipico]]
 - Los cinco mitos fundamentales del canal (Génesis, Apocalipsis, dios, diosa, mago) operan como sustrato común que el gnosticismo recombina en clave soteriológica
 
+
+
+## El Apocalipsis de Adán (Nag Hammadi, sethianismo s.II-III d.C.)
+
+El monográfico *Los Apocalipsis (Parte I)* (mar-2025) trata el texto gnóstico setiano que articula el cruce entre las dos estructuras — gnosticismo y mitema apocalíptico — y cierra parcialmente la laguna sobre 'Corrientes históricas concretas' enunciada al cierre de esta página. El **Apocalipsis de Adán** es el último tratado del códice V de la biblioteca de Nag Hammadi (descubierta en 1945 y comúnmente referida como 'los pergaminos del Mar Muerto' aunque sea distinta del Qumrán bíblico), texto sethianista del siglo II-III d.C.:
+
+> "Adán fue creado andrógino en la gloria del conocimiento del Dios trascendente, distinto del dios creador (Yahvé),"
+→ [Los Apocalipsis Parte I (1:37:55)](https://youtu.be/lLRGemLUCtY?t=5875)
+
+> "El dios creador dividió a Adán en dos por ira; Set conservó el reflejo de la gloria original,"
+→ [Los Apocalipsis Parte I (1:37:55)](https://youtu.be/lLRGemLUCtY?t=5875)
+
+La pieza añade dos articulaciones nucleares del sethianismo concreto que la sección general sobre cosmología gnóstica dejaba sin desplegar:
+
+**Set como estirpe de elegidos (no Noé)**. La raza de Set NO desciende de Noé sino directamente de Adán como receptor de la revelación auténtica. El sethianismo opera por **transmisión genética de la gloria original**: la antropología gnóstica ya articulada (tres tipos de seres: los inertes, los con principio de comprensión, los gnósticos iluminados) se concreta aquí en linaje biológico:
+
+> "Los gnósticos se autodenominaban poseedores del arcano de Set,"
+→ [Los Apocalipsis Parte I (1:42:29)](https://youtu.be/lLRGemLUCtY?t=6149)
+
+> "La raza de Set no desciende de Noé sino de Adán como receptor de la revelación auténtica,"
+→ [Los Apocalipsis Parte I (1:42:29)](https://youtu.be/lLRGemLUCtY?t=6149)
+
+**Criterio metafísico del demiurgo: potencia = obra del demiurgo, no Dios**. La articulación más afilada del texto opera como criterio operativo del canal sobre cómo distinguir lo divino-trascendente de lo demiúrgico:
+
+> "Todo lo que tiene potencia (principio y final) no es Dios sino obra de un demiurgo,"
+→ [Los Apocalipsis Parte I (1:50:38)](https://youtu.be/lLRGemLUCtY?t=6638)
+
+> "Solo quien se atreve a ver al Dios trascendente recibe la iluminación; el resto queda engañado en la fe limitada del demiurgo,"
+→ [Los Apocalipsis Parte I (1:50:38)](https://youtu.be/lLRGemLUCtY?t=6638)
+
+La precisión completa la doctrina del Uno ya articulada en la página (emanación vs creación): si el Uno emana y no crea, todo lo que aparece como creación-con-potencia (con principio y final, susceptible de cambio temporal) queda automáticamente del lado demiúrgico. El criterio opera tanto teológicamente (Yahvé del Génesis como demiurgo precisamente por crear-en-el-tiempo) como filosóficamente (cualquier metafísica que postule un Dios actuando en la historia cae bajo el mismo diagnóstico).
+
+## Derivaciones modernas: del Apocalipsis de Adán al Código Da Vinci y el New Age
+
+El monográfico articula también la genealogía cultural concreta que conecta la lectura sethianista con sus derivaciones contemporáneas — material que cierra parcialmente la laguna 'la iconotropía luciferiana postmoderna ... sin desarrollo de qué autores/movimientos concretos la encarnan ni cuándo se produjo la torsión histórica':
+
+> "El Evangelio de María Magdalena (apócrifo e inventado) insinúa que Cristo tuvo hijos con Magdalena,"
+→ [Los Apocalipsis Parte I (1:43:30)](https://youtu.be/lLRGemLUCtY?t=6210)
+
+> "El Código Da Vinci propone que el Santo Grial es la búsqueda de la estirpe de Dios en la tierra,"
+→ [Los Apocalipsis Parte I (1:43:30)](https://youtu.be/lLRGemLUCtY?t=6210)
+
+La secuencia genealógica completa el mapa: sethianismo s.II-III (Set como receptor del arcano) → tradición esotérica medieval (estirpe sagrada) → ocultismo decimonónico → ficción popular contemporánea (Código Da Vinci como vehículo masivo de la doctrina sethianista invertida). La distinción operativa del canal: para los católicos el Santo Grial es el Espíritu (cáliz como contenedor espiritual desde Mesopotamia), no la estirpe genética — la lectura sethianista-decandiana-popular sustituye lo espiritual por lo biológico y opera como **literalización iconotrópica** del símbolo original.
+
+El diagnóstico cierra el cuadro con la articulación canal-canónica del New Age como derivación última:
+
+> "Toda la parafernalia de la pseudo-mística New Age proviene de reinterpretaciones gnósticas de la Biblia,"
+→ [Los Apocalipsis Parte I (1:54:41)](https://youtu.be/lLRGemLUCtY?t=6881)
+
+> "El New Age es fundamentalmente magia torpe: no es mística, es magia burda,"
+→ [Los Apocalipsis Parte I (1:54:41)](https://youtu.be/lLRGemLUCtY?t=6881)
+
+> "Los gnósticos inventaron que conocer a Dios te concede poderes mágicos (ver, comprender, salvarte, hablar con ángeles),"
+→ [Los Apocalipsis Parte I (1:54:41)](https://youtu.be/lLRGemLUCtY?t=6881)
+
+La pieza precisa el mecanismo psicológico subyacente: los gnósticos NO descubrieron la asociación conocimiento=poder; la **inventaron**. La afirmación es operativa contra la lectura simpática que ve en el gnosticismo una tradición epistemológica genuina con vocación de salvación interior — el canal lo lee como dispositivo de fabricación de autoridad esotérica vía conocimiento autovalidado. El contexto histórico ancla la maniobra: en los siglos I-III d.C. los cultos mistéricos (dionisíacos, afrodisíacos) inundaban la cultura mediterránea con rituales extáticos basados en sustancias psicoactivas, cuyas visiones se interpretaban como revelación divina — el gnosticismo opera entonces como sistematización filosófico-literaria de ese campo experiencial.
+
+[[magia-postmoderna-en-proxy|La magia postmoderna]] queda así reinscrita como heredera directa de la línea sethianista, no como innovación contemporánea: el New Age recapitula la operación gnóstica original (conocimiento iluminador convertido en técnica de poder) con material cultural reciente.
+
+
 ## Lagunas
 
 - **Corrientes históricas concretas**: el canal expone la estructura común pero no detalla diferencias entre valentinianismo, sethianismo, basilidianismo, manqueísmo, mandeísmo. Posible desarrollo en otros vídeos
@@ -157,6 +217,9 @@ La triada teologal cristiana (fe-esperanza-caridad/amor) se reordena en Matrix s
 - **La iconotropía luciferiana postmoderna**: nombrada como contraste pero sin desarrollo de qué autores/movimientos concretos la encarnan ni cuándo se produjo la torsión histórica
 
 ## Citations
+
+
+
 
 
 
@@ -175,4 +238,6 @@ La triada teologal cristiana (fe-esperanza-caridad/amor) se reordena en Matrix s
 - **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [43:09](https://youtu.be/4P5hxaG7i6c?t=2589) · [45:12](https://youtu.be/4P5hxaG7i6c?t=2712) · [54:48](https://youtu.be/4P5hxaG7i6c?t=3288)
 - **Taxonomía y filosofía del satanismo** — chunks: [29:31](https://youtu.be/4JW8act2SdE?t=1771)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [12:33](https://youtu.be/JKoWJmSR6VY?t=753) · [22:12](https://youtu.be/JKoWJmSR6VY?t=1332) · [30:22](https://youtu.be/JKoWJmSR6VY?t=1822) · [40:27](https://youtu.be/JKoWJmSR6VY?t=2427) · [46:37](https://youtu.be/JKoWJmSR6VY?t=2797) · [55:13](https://youtu.be/JKoWJmSR6VY?t=3313) · [1:03:51](https://youtu.be/JKoWJmSR6VY?t=3831) · [1:09:54](https://youtu.be/JKoWJmSR6VY?t=4194) · [1:26:18](https://youtu.be/JKoWJmSR6VY?t=5178)
+- **Los Apocalipsis. (Parte I)** — chunks: [1:37:55](https://youtu.be/lLRGemLUCtY?t=5875) · [1:43:30](https://youtu.be/lLRGemLUCtY?t=6210) · [2:02:22](https://youtu.be/lLRGemLUCtY?t=7342)
+- **De Platón A The Matrix** — chunks: [43:14](https://youtu.be/zr_ZKX60N54?t=2594) · [51:23](https://youtu.be/zr_ZKX60N54?t=3083) · [53:57](https://youtu.be/zr_ZKX60N54?t=3237) · [59:05](https://youtu.be/zr_ZKX60N54?t=3545) · [1:10:17](https://youtu.be/zr_ZKX60N54?t=4217) · [1:21:26](https://youtu.be/zr_ZKX60N54?t=4886)
 

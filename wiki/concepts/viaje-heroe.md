@@ -478,6 +478,15 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 
 
 
+
+
+
+
+
+
+
+
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
@@ -513,4 +522,12 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [56:25](https://youtu.be/QSggWfjOkHk?t=3385)
 - **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [12:39](https://youtu.be/CEa517aakr8?t=759)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [6:59](https://youtu.be/iPqOn-ynSlE?t=419) · [15:01](https://youtu.be/iPqOn-ynSlE?t=901)
+- **Lilith: La Iconotropía.** — chunks: [2:36](https://youtu.be/xKCD8PaexF0?t=156) · [9:12](https://youtu.be/xKCD8PaexF0?t=552)
+- **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:25:25](https://youtu.be/DNxx4qwb944?t=5125)
+- **Mitología 101: Teseo y Ariadna** — chunks: [41:17](https://youtu.be/b03AszdViNw?t=2477)
+- **¿Qué es la magia?** — chunks: [59:48](https://youtu.be/AMXVKxN0Ccw?t=3588)
+- **Podcast Puppetland: El Principito** — chunks: [6:13](https://youtu.be/Q0uCvOLRR2k?t=373)
+- **Puppetland, capítulo cero.** — chunks: [5:17](https://youtu.be/7O_f3spU184?t=317)
+- **Cuento contigo (resub)** — chunks: [28:33](https://youtu.be/6oOGKh2TRHE?t=1713)
+- **De Platón A The Matrix** — chunks: [13:41](https://youtu.be/zr_ZKX60N54?t=821) · [17:45](https://youtu.be/zr_ZKX60N54?t=1065) · [21:51](https://youtu.be/zr_ZKX60N54?t=1311) · [28:29](https://youtu.be/zr_ZKX60N54?t=1709) · [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879) · [1:07:41](https://youtu.be/zr_ZKX60N54?t=4061)
 

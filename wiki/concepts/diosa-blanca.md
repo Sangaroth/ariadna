@@ -439,6 +439,14 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 
 
 
+
+
+
+
+
+
+
+
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:32:16](https://youtu.be/rLeMS4-XFrA?t=5536) · [1:48:00](https://youtu.be/rLeMS4-XFrA?t=6480)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [35:16](https://youtu.be/4LBXNkVAUCU?t=2116)
@@ -448,4 +456,9 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [3:32](https://youtu.be/aPbgBnidoJI?t=212)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:12:14](https://youtu.be/aWeuzWLrLtE?t=4334)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [3:27](https://youtu.be/iPqOn-ynSlE?t=207)
+- **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [6:04](https://youtu.be/tgusJOzuJ7U?t=364) · [7:34](https://youtu.be/tgusJOzuJ7U?t=454) · [14:10](https://youtu.be/tgusJOzuJ7U?t=850) · [16:11](https://youtu.be/tgusJOzuJ7U?t=971) · [18:43](https://youtu.be/tgusJOzuJ7U?t=1123)
+- **Lilith: La Iconotropía.** — chunks: [49:16](https://youtu.be/xKCD8PaexF0?t=2956)
+- **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [42:28](https://youtu.be/DNxx4qwb944?t=2548)
+- **Mitología 101: Perséfone** — chunks: [27:47](https://youtu.be/VDOUrpcC4fU?t=1667) · [1:09:27](https://youtu.be/VDOUrpcC4fU?t=4167)
+- **Mitología 101: Teseo y Ariadna** — chunks: [43:49](https://youtu.be/b03AszdViNw?t=2629) · [1:20:16](https://youtu.be/b03AszdViNw?t=4816) · [1:24:17](https://youtu.be/b03AszdViNw?t=5057) · [1:26:48](https://youtu.be/b03AszdViNw?t=5208)
 

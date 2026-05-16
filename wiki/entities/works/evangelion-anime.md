@@ -185,5 +185,11 @@ El análisis conecta con los marcos ya desarrollados en [[anima-archetype]], [[h
 ## Citations
 
 
+
+
+
+
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [9:11](https://youtu.be/QSggWfjOkHk?t=551) · [15:22](https://youtu.be/QSggWfjOkHk?t=922) · [19:30](https://youtu.be/QSggWfjOkHk?t=1170) · [32:12](https://youtu.be/QSggWfjOkHk?t=1932) · [34:43](https://youtu.be/QSggWfjOkHk?t=2083) · [56:25](https://youtu.be/QSggWfjOkHk?t=3385)
+- **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [11:49](https://youtu.be/dHDv_oZODYQ?t=709)
+- **Los Apocalipsis. (Parte I)** — chunks: [1:14:54](https://youtu.be/lLRGemLUCtY?t=4494)
 

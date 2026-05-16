@@ -1,0 +1,174 @@
+{
+  "video_id": "x7A9nfoRfu0",
+  "video_title": "Cerebros rosas y azules",
+  "playlist": "psicologia-101",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "cerebros rosas y azules / psicología del sexo en Proxy",
+      "canonical_guess": "cerebros-rosas-azules-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 125,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El sexo no es la genitalidad sino los cromosomas: XX o XY en cada célula del cuerpo,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "No hay discontinuidad cuerpo-cerebro ni cerebro-mente; por propiedad transitiva, la mente es parte del cuerpo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Toda conducta proviene de un cerebro XX o XY, por lo tanto ninguna conducta es neutra,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los hombres prefieren objetos, las mujeres contextos; los hombres buscan dominio, las mujeres cohesión,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La diferenciación cerebral parte de células madre que migran en capas con tipos neuronales distintos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Scope.md §2.4.1 author_thesis — cumple el gate de auto-promoción: minutes_sustained=125 ≥ 30; signal_marks ≥ 3 (cinco marcadores: tres declared_thesis, una applied_framework, una pedagogic_register, una internal_structure); framework_internal_structure ≥ 4 (veinte piezas articuladas en cinco bloques). Este monográfico foundational (129 min) articula la tesis canal-canónica completa sobre la psicología del sexo que el corpus presupone en otras páginas pero NO documenta sistemáticamente. Bloques estructurales: (A) **Definiciones nucleares**: sexo NO es genitalidad sino cromosómico (XX/XY en cada célula), continuo mente-cuerpo que impide la narrativa 'cerebro en cuerpo equivocado' (la mente es parte del cuerpo por propiedad transitiva), tríada compleja-dismorfia-disforia como tres niveles graduales (complejo NO depende de la realidad sino de la percepción social; dismorfia como mecánica obsesiva; disforia como neurosis al borde de la psicosis); (B) **Crítica al aparato sexo/género/deseo**: la división tripartita es errónea — sexo reducido a apariencia es sobresimplificación, género como concepto queer NO es identidad sino EGO SEXUAL (prototipo de personalidad sexuado), expresión de género ES simplemente personalidad expresada corporal y socialmente, la autopercepción siempre está viciada (metarrepresentación, no acceso directo a lo que se es); (C) **Sexuación cerebral biológica**: las hormonas (no los cromosomas directamente) determinan masculinización/feminización de estructuras cerebrales durante gestación; córtex masculino más grueso de media, cerebro femenino con mayor interconexión hemisférica; circuito de activación por defecto sexuado incluso en reposo; tres componentes de cognición sexuada (percepción, atención, memoria — diferentes perceptores de color y tacto); resistencia materna inmunológica a testosterona fetal aumenta con cada hijo varón gestado (vector de homosexualidad masculina por demasiado o muy poca masculinización); (D) **Catálogo de preferencias sexuadas**: hombres prefieren objetos / mujeres contextos; dominio (visión túnel, efectividad explosiva corta) vs cohesión (visión entorno, explosividad progresiva ligada a ciclos hormonales); especialización masculina (los especializados son los mejores incluso en campos femeninos) vs interrelación femenina (ser buena en muchas cosas lo suficiente); hombres se enamoran de lo que ven (objeto), mujeres de lo que imaginan (proyección — necesitan composición de lugar para idealizar vida contigo, conectando con sindrome-wendy); resiliencia como distancia al propio estereotipo genérico mental; los mejores guionistas son gays porque combinan ambas vertientes (ranking: gays > varones hetero > lesbianas > mujeres heteros); (E) **Transexualidad genuina vs autodeterminación**: la transexualidad combina vivencia sexoafectiva del sexo opuesto + percepción de ajenidad del propio cuerpo (estructuras cerebrales relacionadas con identidad/deseo/vivencia social efectivamente sexuadas en sentido cruzado, pero las neuronas mantienen sus cromosomas originales); NO existe autodeterminación sino AUTODESCUBRIMIENTO de la sexuación en las preferencias vivenciales propias; autodeterminación como activismo es exigencia del ego hacia los demás, no fenómeno sexual; (F) **Narcisismo sexual**: Patrick Bateman como distinción autoadmiración-sin-excitación vs autoerotismo genuino (extremadamente raro en varones heterosexuales); vigorexia como caso negativo (admiración obsesiva sin autoerotismo). Connectivity esperada: fenomenologia-trans-en-proxy (transexualidad genuina articulada aquí en clave neuroanatómica), epistemologia-de-la-psicologia-en-proxy (psicología NO es coaching: ayudar a cambiar entorno material no es psicología), realismo-cognitivo (continuo mente-cuerpo), psiquiatria-y-teoria-de-la-mente (dismorfia/psicosis), sindrome-wendy (mujeres se enamoran de lo que imaginan, refuerza el ciclo Wendy), yo-ego-autoestima-en-proxy (ego sexual como nombre clínico del 'género'), adgrediere-masculino (especialización masculina, dominio), tipologia-femenina-arquetipica (preferencias cohesión, interrelación), diagrama-de-proxy (correlato neuropsicológico), psicoinfluencers-en-proxy (autodeterminación como sofisma estético en clave activista)."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "transexualidad como autodescubrimiento de sexuación, no autodeterminación",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-canónica sobre la transexualidad genuina (vivencia sexoafectiva del sexo opuesto + percepción de ajenidad del cuerpo, con estructuras cerebrales sexuadas en sentido cruzado pero neuronas con cromosomas originales) y la distinción autodeterminación (exigencia del ego activista) vs autodescubrimiento (revelación de la sexuación en preferencias vivenciales) queda capturada dentro del promote_new cerebros-rosas-azules-en-proxy. Material que enlaza con fenomenologia-trans-en-proxy ya en wiki y podría enriquecer esa página en barrido posterior con la articulación neuroanatómica.",
+      "quote_evidence": "No existe autodeterminación sino descubrimiento de la sexuación en las propias preferencias vivenciales,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación neuroanatómica de la transexualidad genuina (resistencia inmunológica materna a testosterona, redes específicas feminizadas/masculinizadas) merecería enriquecer fenomenologia-trans-en-proxy en barrido posterior con lectura previa de esa página.",
+      "enriches_concept": "fenomenologia-trans-en-proxy"
+    },
+    {
+      "surface_form": "compleja-dismorfia-disforia como tres niveles graduales",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-canónica de los tres niveles graduales del conflicto con el propio cuerpo (complejo = creer que los demás perciben esa parte como desagradable; dismorfia = mecánica obsesiva; disforia = neurosis al borde de la psicosis) con la anorexia como caso ilustrativo de la progresión completa queda capturada dentro del promote_new cerebros-rosas-azules-en-proxy. Material que enlaza con trastornos-conducta-alimentaria-en-proxy y psiquiatria-y-teoria-de-la-mente.",
+      "quote_evidence": "El complejo es una parte de ti que no soportas pero no constituye disforia ni dismorfia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastornos-conducta-alimentaria-en-proxy"
+    },
+    {
+      "surface_form": "género como ego sexual / autopercepción siempre viciada",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Las articulaciones nucleares 'género' = ego sexual + autopercepción es metarrepresentación viciada (no acceso directo al ser; experimento de la voz grabada como demostración fisiológica) + 'por dentro no se es hombre o mujer; existe psicología masculina y femenina, no mentes de un sexo atrapadas en otro cuerpo' quedan capturadas dentro del promote_new cerebros-rosas-azules-en-proxy. Material que enlaza con yo-ego-autoestima-en-proxy (ego sexual como nombre del 'género') y fenomenologia-trans-en-proxy.",
+      "quote_evidence": "Si hubiera que dar un nombre clínico a lo que la gente llama \"género\", sería el ego sexual,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'género = ego sexual' es clínicamente operativa y podría enriquecer yo-ego-autoestima-en-proxy con lectura previa.",
+      "enriches_concept": "yo-ego-autoestima-en-proxy"
+    },
+    {
+      "surface_form": "psicólogo NO es coaching / cambiar la circunstancia material no es psicología",
+      "reason_code": "already_captured",
+      "reason_detail": "La distinción canal-canónica entre psicología (generar herramientas de autonomía afectiva) y coaching (cambiar el entorno material) está articulada en epistemologia-de-la-psicologia-en-proxy y psicoinfluencers-en-proxy. Material reiterado en este vídeo como aplicación específica a la cuestión trans.",
+      "quote_evidence": "Ayudar al paciente a cambiar su entorno material es coaching, no psicología,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy"
+    },
+    {
+      "surface_form": "mujeres se enamoran de lo que oyen / hombres de lo que ven",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-canónica sobre la economía amorosa diferencial (hombres se enamoran del objeto visto; mujeres de la proyección imaginada — necesitan composición de lugar para idealizar vida contigo; cuando la imagen idealizada se desmorona, la mujer cambia de pareja) queda capturada dentro del promote_new cerebros-rosas-azules-en-proxy. Enlaza con sindrome-wendy (ya en wiki como mecanismo paradigmático).",
+      "quote_evidence": "Si quieres enamorar a una mujer, cuéntale una historia y hazla soñar,",
+      "review_priority": "medium",
+      "review_priority_reason": "La economía amorosa diferencial podría enriquecer sindrome-wendy y crisis-del-amor-pareja-y-maternidad-en-proxy con lectura previa.",
+      "enriches_concept": "sindrome-wendy"
+    },
+    {
+      "surface_form": "resiliencia como distancia al propio estereotipo genérico",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-canónica de la resiliencia (capacidad de afrontar situaciones alejadas del estereotipo genérico mental, mujeres superiores en resiliencia por estructura cognitiva más distribuida) queda capturada dentro del promote_new cerebros-rosas-azules-en-proxy. Concepto operativo distinto del uso popular de resiliencia como mero aguante.",
+      "quote_evidence": "La resiliencia es la capacidad de afrontar situaciones alejadas de tu estereotipo genérico mental,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    },
+    {
+      "surface_form": "guionistas gays como combinación masculino-femenino óptima",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El ranking canal-específico de guionistas (gays > varones hetero > lesbianas > mujeres heteros) basado en la necesidad de combinar vertientes masculina y femenina para narrar drama efectivamente queda capturado dentro del promote_new cerebros-rosas-azules-en-proxy. Articulación canal-canónica con potencial polémico pero estructuralmente coherente con el marco.",
+      "quote_evidence": "Para escribir buenos guiones se necesitan las vertientes masculina y femenina; los gays las combinan mejor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    },
+    {
+      "surface_form": "Patrick Bateman / autoadmiración vs autoerotismo / vigorexia",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La distinción operativa Patrick Bateman (autoadmiración sin autoerotismo) vs narcisismo sexual genuino (autoerotismo extremadamente raro en varones heterosexuales) + vigorexia como caso que demuestra que la admiración obsesiva del propio cuerpo NO produce autoerotismo. Material capturado dentro del promote_new cerebros-rosas-azules-en-proxy como pieza fina del análisis del narcisismo sexual.",
+      "quote_evidence": "El narcisismo sexual genuino (deseo por uno mismo) es extremadamente raro en varones heterosexuales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "herida-narcisista-en-proxy"
+    },
+    {
+      "surface_form": "sexuación cerebral por migración neuronal / hormonas gestacionales",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El detalle neurobiológico de la sexuación cerebral (células madre que migran en capas con tipos neuronales distintos; las hormonas determinan masculinización/feminización durante la gestación; el córtex orbitofrontal es lo último en desarrollarse; circuito de activación por defecto sexuado incluso en reposo) queda capturado dentro del promote_new cerebros-rosas-azules-en-proxy como sustento neuroanatómico del marco psicológico-arquetípico.",
+      "quote_evidence": "La diferenciación cerebral parte de células madre que migran en capas con tipos neuronales distintos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    },
+    {
+      "surface_form": "homosexualidad por feminización de redes específicas / resistencia inmunológica materna a testosterona",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El mecanismo neuroanatómico de la homosexualidad masculina (resistencia inmunológica materna a testosterona fetal que aumenta con cada hijo varón gestado; un adulto con baja testosterona puede tener cerebro correctamente masculinizado desde la gestación porque la masculinización es gestacional, no actual) y de la bisexualidad femenina (la testosterona borra la atracción por lo masculino — por eso es más común la bisexualidad femenina; las mujeres comparten erotismo entre sí mucho más fácilmente que los hombres entre sí) queda capturado dentro del promote_new cerebros-rosas-azules-en-proxy.",
+      "quote_evidence": "La resistencia inmunológica de la madre a la testosterona fetal aumenta con cada hijo varón gestado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    },
+    {
+      "surface_form": "asexualidad como ausencia de deseo (conductas siguen siendo sexuadas)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-canónica de la asexualidad como ausencia de deseo pero NO como neutralidad sexual (las conductas del asexual siguen siendo sexuadas por su origen cerebral XX o XY) queda capturada dentro del promote_new cerebros-rosas-azules-en-proxy como aplicación operativa del axioma 'toda conducta es sexuada'.",
+      "quote_evidence": "La asexualidad es ausencia de deseo, pero las conductas del asexual siguen siendo sexuadas por su origen cerebral,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    },
+    {
+      "surface_form": "deseo sexual como conducta del instinto reproductivo (multitud de objetos)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-canónica del deseo sexual como manifestación conductual del instinto de reproducción (no es binario ni identitario; genera multitud de objetos — personas, partes del cuerpo, fetiches, nada; el deseo no tiene nada que ver con la identidad salvo en dinámicas autoeróticas) queda capturada dentro del promote_new cerebros-rosas-azules-en-proxy como crítica a la categorización binaria de la orientación sexual.",
+      "quote_evidence": "La orientación sexual como categoría binaria es insuficiente: el deseo genera multitud de objetos (personas, partes del cuerpo, fetiches, nada),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[cerebros rosas y azules / psicología del sexo en Proxy] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

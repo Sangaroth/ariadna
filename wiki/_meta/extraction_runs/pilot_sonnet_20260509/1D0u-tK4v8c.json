@@ -1,0 +1,232 @@
+{
+  "video_id": "1D0u-tK4v8c",
+  "video_title": "Orfeo y Eurídice",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Orfeo y Eurídice (mito)",
+      "canonical_guess": "orfeo-euridice-mito",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 95,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Orfeo representa la mente bohemia que suspira perpetuamente por la amada sin sacrificarse nunca por ella,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "A diferencia del héroe verdadero, Orfeo nunca muere ni pasa la barrera heroica de perder la vida para descender,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Orfeo gobierna la parte menos intelectual y más pasiva de los cuatro, canalizando lo femenino de Mnemósine y Calíope,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Scope.md §2.1 — segundo mito clásico tratado monográficamente (101 min) en la serie de análisis arquetípico puro del canal, paralelo a mito-persefone/rapto-perseofne-mito ya creado en este batch. Articula múltiples piezas foundational: (a) la tetrada masculina Apolo/Hermes/Dionisio/Orfeo como cuatro modalidades del polo masculino (Apolo virtud activa, Hermes secretos descifrables, Dionisio inventor caótico, Orfeo el más pasivo/feminizado); (b) la genealogía Caos/Urano/Gea → Cronos-Zeus/Rea-Mnemósine como tetrada primordial donde lo masculino se divide en caótico/ordenado y lo femenino en activa/pasiva; (c) Las Musas como personificaciones del femenino pasivo (guardianas que PERMITEN que la inspiración fluya, no la poseen) y Calíope como excepción que convierte lo implícito en explícito; (d) la muerte de Eurídice (mordida por serpiente huyendo de fauno pastor) como caso paradigmático de 'lo salvaje peligroso sin aviso/motivo/razón'; (e) la catábasis de Orfeo como descenso SIN sacrificio (contraste con viaje-heroe — Orfeo nunca muere, su lira conmueve por canalizar Mnemósine, pero no atraviesa la barrera heroica); (f) la prueba de Hades (no mirar atrás) como prueba de dominio del deseo donde Orfeo fracasa por histrionismo emocional, no por amor genuino; (g) la lectura platónica (Eurídice como sombra que Hades nunca devolvió realmente) y la lectura canal-específica (Orfeo como arquetipo de lo masculino feminizado, hombre progre que suspira perpetuamente sin sacrificarse); (h) la muerte de Orfeo despedazado como motivo del héroe que ya no sirve. Connectivity esperada: rapto-perseofne-mito (catábasis paralela), dioniso-arquetipo (tetrada masculina), viaje-heroe (contraste con catábasis heroica verdadera), arquetipo-cero, tarot-arquetipico (Loco/Mago como Hermes/Dionisio), tipologia-femenina-arquetipica (Mnemósine/Calíope como sacerdotisas; Musas como guardianas), magia-postmoderna-en-proxy (cultos órficos), antiheroe."
+    },
+    {
+      "surface_form": "iniciaciones órficas y dionisíacas como magia 'traje nuevo del emperador'",
+      "canonical_guess": "magia-postmoderna-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 20,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los cultos órficos eran iniciaciones con símbolos secretos que pretendían dar comprensión de misterios ocultos,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "En realidad cada persona proyecta su voluntad de alquimia interna en el proceso: es New Age, vivir una transformación cuando no ha habido ninguna,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página magia-postmoderna-en-proxy articula la genealogía hermetismo → New Age con Bafomet, Blavatsky/teosofía, magia del caos y satanismo como herederas. Este vídeo añade dos piezas foundational anteriores no recogidas: (a) los cultos órficos clásicos como antecedente directo de la mecánica New Age — iniciaciones con símbolos secretos que decían corresponder a misterios vividos durante el ritual cuando en realidad cada persona proyectaba su voluntad de alquimia interna en el proceso (el 'traje nuevo del emperador' aplicado a la iniciación esotérica); (b) la distinción foundational entre virtudes apolíneas (todo el mundo puede aprenderlas con esfuerzo) vs virtudes órficas/dionisíacas (mágicas y ocultas, reservadas a iniciados) que cifra el origen estructural del esoterismo selecto; (c) la fórmula 'éxtasis religioso genuino (revelación) es lo opuesto al ritualismo (provocarse estados mentales para fingir poder)' que articula con precisión por qué los rituales mágicos producen disociación pero no trascendencia (refuerza la sección 'Hippies, locus externo de control y la imposibilidad de trascender' ya documentada). Material genuinamente nuevo sobre el origen clásico de la mecánica esotérica que la página ya documenta en sus formas modernas.",
+      "quote_evidence": "El éxtasis religioso genuino (revelación) es lo opuesto al ritualismo (provocarse estados mentales para fingir poder),"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "magia-postmoderna-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "> \"Las drogas y los éxtasis mágicos son disociación, no trascendencia; parecerlo no equivale a serlo,\"\n→ [Directo casual (56:35)](https://youtu.be/ECN5C9rsaZg?t=3395)",
+      "section_target": null,
+      "content_proposed": "\n\n## Iniciaciones órficas y dionisíacas: el origen clásico del 'traje nuevo del emperador' esotérico\n\nEl monográfico *Orfeo y Eurídice* (mar-2024) articula el antecedente clásico de la mecánica que la sección anterior identifica en su forma moderna (hippies + New Age + magia del caos). Las iniciaciones órficas y dionisíacas operan como **caso original de la operación que el New Age replica vaciado**: símbolos secretos que pretenden dar comprensión de misterios ocultos al iniciado, cuando en realidad el contenido es proyección de la voluntad interna del practicante.\n\n### Distinción foundational: virtudes apolíneas vs virtudes órficas\n\n> \"A diferencia de las virtudes apolíneas que todo el mundo podía aprender con esfuerzo, las virtudes órficas eran mágicas y ocultas,\"\n→ [Orfeo y Eurídice (1:06:08)](https://youtu.be/1D0u-tK4v8c?t=3968)\n\nLa precisión cifra la lógica estructural del esoterismo desde sus orígenes clásicos. Lo apolíneo opera por **vía pública y disciplinada** (las virtudes que cualquiera puede adquirir con esfuerzo sostenido, las artes y la sabiduría que se transmiten por aprendizaje ordinario). Lo órfico opera por **vía iniciática y oculta** (virtudes mágicas reservadas al iniciado, conocimiento que se transmite por ritual selecto, no por estudio público). La distinción ancla genealógicamente la operación del esoterismo que la página articula en sus formas modernas — el New Age, la magia del caos, la teosofía blavatskiana heredan exactamente esta lógica: la mística iniciática como vía paralela a la disciplina apolínea, cuya promesa estructural es que el practicante recibirá lo que el aprendizaje ordinario nunca podrá darle.\n\n### La operación 'traje nuevo del emperador'\n\n> \"Los cultos órficos eran iniciaciones con símbolos secretos que pretendían dar comprensión de misterios ocultos,\"\n→ [Orfeo y Eurídice (1:24:36)](https://youtu.be/1D0u-tK4v8c?t=5076)\n\n> \"Las iniciaciones tenían símbolos secretos que decían corresponder a misterios vividos durante el ritual,\"\n→ [Orfeo y Eurídice (1:24:36)](https://youtu.be/1D0u-tK4v8c?t=5076)\n\n> \"En realidad cada persona proyecta su voluntad de alquimia interna en el proceso: es New Age, vivir una transformación cuando no ha habido ninguna,\"\n→ [Orfeo y Eurídice (1:24:36)](https://youtu.be/1D0u-tK4v8c?t=5076)\n\nLa fórmula canal-específica 'traje nuevo del emperador' aplicada a la iniciación esotérica articula con precisión la operación: el iniciado proyecta sobre el ritual la transformación que cree haber recibido, y el sistema sostiene la creencia colectiva porque ningún iniciado puede admitir que no vivió la transformación sin invalidarse a sí mismo. La operación es estructuralmente idéntica al fenómeno del cuento de Andersen — todos ven la transformación porque admitir que no la ven implicaría confesar la propia falta de iniciación. La pieza enlaza directamente con [[sofisma-estetico]] (mecanismo cultural que se transmite y se inocula) y con el aparato del [[autotipo]] (la iniciación funciona como autotipia de transformación cuando opera como ritual sin sustancia).\n\n### Éxtasis religioso vs ritualismo: la distinción que el New Age confunde\n\n> \"El éxtasis religioso genuino (revelación) es lo opuesto al ritualismo (provocarse estados mentales para fingir poder),\"\n→ [Orfeo y Eurídice (1:24:36)](https://youtu.be/1D0u-tK4v8c?t=5076)\n\nLa fórmula cierra el flanco fenomenológico del aparato. El éxtasis religioso genuino opera por **revelación pasiva** (el sujeto recibe lo trascendente sin haberlo provocado, en clave de receptividad sin pretensión técnica). El ritualismo órfico-dionisíaco opera por **provocación activa de estados mentales** (el iniciado despliega procedimiento que produce el estado fenomenológico — éxtasis somático, disociación, alteración de la conciencia — y lo lee como prueba del referente metafísico). La distinción es estructuralmente equivalente a la articulada en 'Magia vs religión: la distinción operativa fundacional' (religión = sumisión vertical receptiva; magia = sumisión horizontal de lo exterior al yo): el éxtasis genuino opera en modo religioso, el ritualismo órfico en modo mágico aunque pretenda lo contrario.\n\n### Alquimia poética: la equivalencia procesos físicos / procesos psíquicos\n\nEl monográfico añade además una pieza sobre la gramática alquímica que extiende el aparato del 'sofisma poético' ya documentado:\n\n> \"La alquimia poética equipara procesos externos a procesos internos: la fusión de metales es la síntesis psicológica,\"\n→ [Orfeo y Eurídice (1:17:21)](https://youtu.be/1D0u-tK4v8c?t=4641)\n\n> \"La gramática alquímica para fusión era la misma que para síntesis porque era la única forma que tenían de representar procesos psíquicos,\"\n→ [Orfeo y Eurídice (1:17:21)](https://youtu.be/1D0u-tK4v8c?t=4641)\n\n> \"La magia dice \"mente sobre materia\" pero en realidad solo cambia tu percepción del mundo, no el mundo,\"\n→ [Orfeo y Eurídice (1:06:08)](https://youtu.be/1D0u-tK4v8c?t=3968)\n\nLa precisión articula la operación alquímica clásica con doble vertiente. Por un lado, la **equivalencia gramatical** entre procesos físicos (fusión de metales, sublimación, cristalización) y procesos psíquicos (síntesis, sublimación afectiva, cristalización del yo) no es invención del esoterismo moderno — operaba ya en la alquimia clásica como única forma disponible de representar los procesos psíquicos. Por otro, la máxima 'mente sobre materia' que articula la sección 'Magia vs religión' como pretensión nuclear de la magia recibe aquí precisión operativa: la magia **no cambia el mundo, solo cambia la percepción del mundo**. La consecuencia es que la práctica mágica ES eficaz subjetivamente (produce alteración fenomenológica genuina) sin ser veraz objetivamente — exactamente la articulación que la sección 'El viaje astral como caso operativo' documenta para la práctica del caos contemporánea. El ritualismo órfico clásico era ya forma terminal de esta operación: alteración fenomenológica vía iniciación leída como acceso al referente metafísico que la alteración no garantiza.\n",
+      "wikilinks_introduced": [
+        "sofisma-estetico",
+        "autotipo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "1D0u-tK4v8c",
+          "timestamp_seconds": 3968,
+          "cite_markdown": "[Orfeo y Eurídice (1:06:08)](https://youtu.be/1D0u-tK4v8c?t=3968)"
+        },
+        {
+          "video_id": "1D0u-tK4v8c",
+          "timestamp_seconds": 4641,
+          "cite_markdown": "[Orfeo y Eurídice (1:17:21)](https://youtu.be/1D0u-tK4v8c?t=4641)"
+        },
+        {
+          "video_id": "1D0u-tK4v8c",
+          "timestamp_seconds": 5076,
+          "cite_markdown": "[Orfeo y Eurídice (1:24:36)](https://youtu.be/1D0u-tK4v8c?t=5076)"
+        }
+      ],
+      "rationale": "La página articula la mecánica del esoterismo en sus formas modernas (New Age, Bafomet, Blavatsky, magia del caos) pero NO recoge su antecedente clásico foundational en los cultos órficos y dionisíacos. Este vídeo añade: (a) la distinción virtudes apolíneas (públicas, aprendibles por esfuerzo) vs virtudes órficas (mágicas, ocultas, iniciáticas) como génesis estructural del esoterismo selecto; (b) la operación 'traje nuevo del emperador' aplicada a la iniciación esotérica; (c) la distinción foundational éxtasis religioso (revelación pasiva) vs ritualismo (provocación activa de estados); (d) la equivalencia alquímica entre procesos físicos y psíquicos como única gramática disponible para representar procesos internos, y la precisión 'mente sobre materia cambia solo la percepción del mundo, no el mundo'. Material editorialmente situado al cierre de la sección 'Hippies, locus externo de control' porque añade el antecedente clásico de la mecánica que esa sección documenta en su forma moderna.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "tetrada primordial Urano/Gea → Cronos/Zeus + Rea/Mnemósine",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación de Urano y Gea como pareja primordial cuyos hijos forman la tetrada arquetípica (Cronos masculino caótico que castra al padre, Zeus masculino ordenado que engendra y gobierna, Rea femenino activo madre regidora, Mnemósine femenino pasivo diosa de la memoria) queda capturada dentro del promote_new orfeo-euridice-mito. Material foundational para la futura página. Podría enriquecer mito-polar en barrido posterior con la tetrada como dispositivo cosmogónico.",
+      "quote_evidence": "Urano y Gea engendran cuatro arquetipos: dos masculinos y dos femeninos,",
+      "review_priority": "medium",
+      "review_priority_reason": "La tetrada primordial Cronos/Zeus + Rea/Mnemósine como dispositivo cosmogónico podría enriquecer mito-polar (interacción masculino/femenino) con lectura previa.",
+      "enriches_concept": "mito-polar"
+    },
+    {
+      "surface_form": "Caos como femenino primario",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Caos como principio primario fundamentalmente femenino (anterior a la división masculino/femenino) distinto del Dios judeocristiano que es principio masculino pero NO primario fundamental. Material absorbido en el promote_new orfeo-euridice-mito. Articulación canal-canónica que enlaza con feminidad-fundamental ya en wiki.",
+      "quote_evidence": "Caos es fundamentalmente femenino porque representa lo primario, fundamental y anterior,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "feminidad-fundamental"
+    },
+    {
+      "surface_form": "Las Musas como guardianas / Calíope como excepción",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Las Musas articuladas no como poseedoras de las artes sino como **guardianas pasivas que PERMITEN que la inspiración fluya** (el individuo opera siendo canal de una virtud permitida por las Musas, no por virtud propia). Calíope (hija de Zeus y Mnemósine) como excepción que tiene el don jupiteriano de engendrar: convertir lo implícito en explícito, la inspiración en logos, acompañando a reyes y emperadores por el poder del discurso ideológico y poético. Material absorbido en el promote_new orfeo-euridice-mito.",
+      "quote_evidence": "Las Musas no poseían las artes sino que eran guardianas que permitían que la inspiración fluyera a través del individuo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Las Musas como guardianas del femenino pasivo y Calíope como excepción jupiteriana podrían enriquecer tipologia-femenina-arquetipica con refinamiento del aspecto Mnemósine/sacerdotisa.",
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    },
+    {
+      "surface_form": "Pacha Mama como femenino pasivo / movimiento hippie como canal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pacha Mama nombrada como nombre que proviene de la polaridad pasiva de lo femenino (algo sin forma que produce cosas que se sienten pero no se comprenden); el movimiento hippie y el New Age como pretensión de ser canal pasivo de algo inefable sin forma. Material parcialmente capturado en pending_update a magia-postmoderna-en-proxy (sección sobre hippies ya documentada en esa página).",
+      "quote_evidence": "El movimiento hippie y el New Age pretenden ser canal pasivo de algo inefable sin forma,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "Apolo como síntesis perfecta Dios/héroe (la Virtud como arquetipo)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Apolo articulado como síntesis perfecta entre dios y héroe (puramente divino con todas las virtudes posibles: muerte súbita, plagas, belleza, pastores, marinos — la Virtud como arquetipo). Material absorbido en el promote_new orfeo-euridice-mito como pieza del marco tetrada masculina Apolo/Hermes/Dionisio/Orfeo.",
+      "quote_evidence": "Apolo es la síntesis perfecta entre un Dios y un héroe: puramente divino y con todas las virtudes posibles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "orfeo-euridice-mito"
+    },
+    {
+      "surface_form": "imagen / emoción / gramática como estructura tripartita psíquica + Mercurio/Sulfuro/Sal",
+      "reason_code": "already_captured",
+      "reason_detail": "La estructura tripartita imagen + emoción + gramática (con sus combinaciones produciendo imaginación = Mercurio, instintos = Sulfuro, yo = Sal) y la asignación Hermes/Dionisio/Orfeo como tres formas mentales + Apolo como físico-explícito está plenamente articulada en teoria-del-simbolo-en-proxy (submatrices imaginario/formal/afectivo) y en algebra-afectiva. Material reiterado en clave alquímica.",
+      "quote_evidence": "La psique se compone de imagen, emoción y gramática; sus combinaciones dan imaginación (mercurio), instintos (sulfuro) y yo (sal),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "psicoanálisis como herramienta analítica, no terapéutica",
+      "reason_code": "already_captured",
+      "reason_detail": "La tesis canal-canónica del psicoanálisis como herramienta analítica para nombrar procesos de la psique (cuando funciona terapéuticamente es casualidad; quedarse dando vueltas a interpretaciones es iatrogénico, dionisíaco no terapéutico) está plenamente articulada en freud-sigmund, psicoinfluencers-en-proxy y psiquiatria-y-teoria-de-la-mente. Material reiterado en este vídeo como aplicación del marco dionisíaco a la práctica clínica.",
+      "quote_evidence": "El psicoanálisis no puede ser una práctica clínica correcta; cuando funciona terapéuticamente es casualidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "freud-sigmund"
+    },
+    {
+      "surface_form": "Hermes y Dionisio como Loco y Mago del Tarot",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La asignación Hermes (secretos descifrables) y Dionisio (inventor caótico) como el Loco y el Mago del Tarot (o al revés según interpretación) queda capturada dentro del promote_new orfeo-euridice-mito. Material que enlaza con arquetipo-cero (Loco del Tarot ya documentado), mito-del-mago y tarot-arquetipico.",
+      "quote_evidence": "El Loco y el Mago son respectivamente Hermes y Dionisio (o al revés según la interpretación de Proxy),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "orfeo-euridice-mito"
+    },
+    {
+      "surface_form": "Orfeo como arquetipo de lo masculino feminizado / hombres progres",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación canal-específica de Orfeo como mente bohemia que suspira perpetuamente sin sacrificarse (estrategia pasiva = femenina arquetípica; lamento de la madre) y aplicación cultural contemporánea: 'los hombres progres son hombres que pasan la vida suspirando por la feminidad pero son incapaces de sacrificar su virtud por acción real'. Material absorbido en el promote_new orfeo-euridice-mito como tesis cultural de cierre.",
+      "quote_evidence": "Los hombres progres son hombres que pasan la vida suspirando por la feminidad pero son incapaces de sacrificar su virtud por acción real,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "orfeo-euridice-mito"
+    },
+    {
+      "surface_form": "Eurídice como ilusión (interpretación platónica)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La lectura platónica del mito donde Hades y Perséfone nunca devolvieron a Eurídice real sino una sombra (Eurídice nunca existió como posibilidad real de rescate; sabían desde el principio que Orfeo iba a fallar y la muerte era irreversible). Material absorbido en el promote_new orfeo-euridice-mito como variante interpretativa de cierre.",
+      "quote_evidence": "Platón interpreta que Hades y Perséfone nunca dieron a Eurídice real sino una sombra, una ilusión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "orfeo-euridice-mito"
+    },
+    {
+      "surface_form": "héroe despedazado como motivo del que ya no sirve",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Las versiones de la muerte de Orfeo (muere de pena nunca habiendo hecho nada por su felicidad; tenía ninfas reales pero quería su idealización imposible) y el motivo recurrente del héroe despedazado (el que tiene que ser sacrificado porque ya no sirve ni tiene función) quedan absorbidos en el promote_new orfeo-euridice-mito. Enlaza con dioniso-arquetipo (héroe roto/Dioniso despedazado).",
+      "quote_evidence": "El héroe despedazado es un motivo recurrente: el que tiene que ser sacrificado porque ya no sirve ni tiene función,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dioniso-arquetipo"
+    },
+    {
+      "surface_form": "muerte de Eurídice como lo salvaje peligroso sin aviso",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Eurídice mordida por serpiente mientras huye de pastor fauno como caso paradigmático de 'lo salvaje peligroso sin aviso, sin motivo y sin razón' (muerte incomprensible que provoca el duelo pero no tiene moraleja). Material absorbido en el promote_new orfeo-euridice-mito como pieza del marco.",
+      "quote_evidence": "Es mordida por una serpiente: símbolo de cómo lo salvaje es peligroso sin aviso, sin motivo y sin razón,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "orfeo-euridice-mito"
+    },
+    {
+      "surface_form": "éter como quinto elemento mágico",
+      "reason_code": "passing_mention",
+      "reason_detail": "El éter caracterizado como quinto elemento incomprensible donde se albergaban todas las posibilidades mágicas y esotéricas. Inciso menor dentro del análisis alquímico que queda absorbido en el pending_update a magia-postmoderna-en-proxy.",
+      "quote_evidence": "El éter era el quinto elemento incomprensible donde se albergaban todas las posibilidades mágicas y esotéricas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[tetrada masculina Apolo / Hermes / Dionisio / Orfeo] reason=captured_in_promote_new quote no literal",
+    "WARN promote_new[Orfeo y Eurídice (mito)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

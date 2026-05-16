@@ -1,0 +1,229 @@
+{
+  "video_id": "IbOb3peBSMs",
+  "video_title": "Magia, superstición y Religión",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "taxonomía de magia, superstición y religión (distinción fundacional)",
+      "canonical_guess": "magia-supersticion-religion-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 80,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La diferencia fundamental: la religión busca la eliminación del yo; la magia y la superstición buscan lo contrario,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Atribuir la lluvia a la montaña no es pensamiento mágico sino una conclusión relacional simple dadas las circunstancias,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La mecánica trascendente son procedimientos que buscan cambiar la experiencia vital mediante reflexión metafísica y sobrenatural,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Persignarse no busca influir en el resultado sino entregarse a un destino trascendental,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "El tema conecta directamente con el nuevo libro del canal, actualmente en maquetación,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de 87 min (~80 sostenidos desde el bloque del cuento de los Kuali en 06:36 hasta el cierre) que articula la taxonomía foundational del canal distinguiendo tres categorías irreducibles: superstición / magia / religión. La página magia-postmoderna-en-proxy critica la magia postmoderna pero NO articula la distinción categorial básica entre las tres; teologia-catolica-en-proxy articula el aparato sacramental católico pero NO la genealogía Abraham→fe ni la pizarra de Proxy con rito/mística/alquimia. Cumple gate auto-promoción §2.4.1: minutes_sustained=80≥30, signal_marks múltiples (thesis_markers tres + internal_structure pizarra-conceptual + pedagogic_register corrige reduccionismo religión=magia + genealogical_self_reference al libro propio en maquetación), framework_internal_structure≥4 (cuento Kuali / Abraham giro monoteísta / pizarra rito-mística-alquimia / definiciones operativas tripartitas / materialismo-dualismo-realismo-cognitivo / caso Quintana Paz / New Age como acting out / por qué más común en mujeres / fe y genética). Es articulación propia del canal — el speaker sistematiza, distingue y aplica el marco como sistema operativo desde el cual lee fenómenos contemporáneos",
+      "quote_evidence": "La religión busca comprender lo que las cosas son partiendo de la existencia lógica de lo divino,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Cuento de los Kuali (semiótica cognitiva y construcción de significado tribal)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "El cuento de los Kuali (tribu junto al río al pie de la montaña que construye significado relacional sin pensamiento mágico) es el caso operativo paradigmático que el video usa para establecer la distinción error epistémico vs pensamiento mágico. Se captura en la nueva synthesis magia-supersticion-religion-en-proxy como ilustración foundational del marco. No requiere page propia — es función ilustrativa de la tesis principal",
+      "quote_evidence": "El cuento ilustra cómo una tribu primitiva construye significado relacional sin pensamiento mágico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Abraham y el giro del monoteísmo (de la magia mercantil a la fe personal)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza genealógica central del video: la forma primitiva semítica de relacionarse con lo divino (magia mercantil, intercambio utilitario) frente al giro abrahámico que personaliza lo divino como ser con voluntad y conciencia. Material foundational que se captura en la nueva synthesis. También complementa teologia-catolica-en-proxy (que articula el aparato sacramental católico sin desarrollar su genealogía abrahámica) — cite-only puede enriquecer esa página",
+      "quote_evidence": "La relación con Dios pasa de \"hago X para que me des Z\" a \"hago X porque me lo pides y me fío de ti\",",
+      "review_priority": "medium",
+      "review_priority_reason": "La genealogía abrahámica del giro magia→fe es material genealógico importante que merece también cite-only en teologia-catolica-en-proxy para retrieval indirecto del flanco genealógico de la tradición judeocristiana",
+      "enriches_concept": "teologia-catolica-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "persignarse / caso Quintana Paz / seleccionador católico",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Caso diagnóstico que abre el video: la confusión común de tratar el gesto religioso (persignarse) como superstición. La articulación correcta — el gesto es entrega al destino trascendental, no intento de influir en el resultado — captura la distinción fe/superstición que el marco articula. Se incluye en la nueva synthesis como caso operativo de la distinción",
+      "quote_evidence": "Persignarse no busca influir en el resultado sino entregarse a un destino trascendental,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "pizarra de Proxy — definiciones de mecánica trascendente, rito, mística, alquimia",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "La pizarra del canal articula explícitamente las definiciones operativas que el marco taxonómico requiere: mecánica trascendente (procedimientos para cambiar la experiencia vital vía reflexión metafísica), rito (procedimiento con significación sobrenatural), mística (experiencia somática de lo sobrenatural), alquimia (búsqueda mágica del cambio voluntario de experiencia psíquica). Material foundational capturado en la nueva synthesis. Mística y alquimia podrían merecer concept pages propias si reaparecen con desarrollo sostenido",
+      "quote_evidence": "La mecánica trascendente son procedimientos que buscan cambiar la experiencia vital mediante reflexión metafísica y sobrenatural,",
+      "review_priority": "medium",
+      "review_priority_reason": "Mística y alquimia como conceptos canal-específicos podrían merecer pages propias si el corpus articula tratamiento sostenido en otros vídeos. Por ahora capturadas en la synthesis foundational",
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "alquimia postmoderna / psicomagia / magia agnóstica (New Age sin sobrenatural)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La articulación de la magia New Age y la psicomagia como formas de alquimia agnóstica (procedimientos para abrir la mente sin asumir lo sobrenatural, atribución de límites perceptivos al censor psíquico) extiende lo documentado en magia-postmoderna-en-proxy. La nueva synthesis incluirá el cruce con su taxonomía, pero la crítica detallada del New Age ya está en esa página. Cite-only enriquece magia-postmoderna",
+      "quote_evidence": "La magia New Age y la psicomagia son formas de alquimia agnóstica: procedimientos para abrir la mente sin asumir lo sobrenatural,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "materialismo / dualismo / realismo cognitivo en mecánica trascendente",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Framework filosófico que articula tres posiciones sobre lo trascendente: materialismo (todo procedimiento trascendente es acto material con consecuencias vacuas), dualismo (dos sustancias separadas natural/sobrenatural), realismo cognitivo (cosas no accesibles a conciencia ni razón que producen ideas; Dios como causa incausada deducible no concebible). El cruce con realismo-cognitivo y materialismo-antiformalista ya existentes se hace vía wikilink en la nueva synthesis. Material foundational del marco",
+      "quote_evidence": "En el realismo cognitivo existen cosas no accesibles a la conciencia ni a la razón que sin embargo producen ideas en nosotros,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "definición operativa de superstición (compulsivo-obsesiva, conexiones estéticas difusas)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Definición operativa central: superstición = actos con pretensión sobrenatural para conseguir poder material, cadena causal por semejanza/afinidad superficial, mecánicas compulsivo-obsesivas (se realizan para calmar la ansiedad de no hacerlas). Pieza foundational de la taxonomía. Capturada en la nueva synthesis. La caracterización compulsivo-obsesiva conecta tangencialmente con anatomia-de-la-fantasia-y-sindrome-delirante (TOC como déficit inhibitorio bottom-up) — posible cross-reference",
+      "quote_evidence": "Las mecánicas son compulsivas y obsesivas: se realizan para calmar la ansiedad de no hacerlas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "definición operativa de ritualismo mágico (mente sobre materia, intercambio de poder)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La definición de magia como procedimiento para conectar al practicante con lo sobrenatural está articulada en magia-postmoderna-en-proxy. Este video añade la fórmula 'la mente sobre la materia' y la articulación motivacional (responde al pánico de no tener poder, de quedarse solo o atrás). La nueva synthesis cierra el cuadro taxonómico distinguiendo magia de superstición y religión. Cite-only enriquece magia-postmoderna",
+      "quote_evidence": "La máxima mágica es \"la mente sobre la materia\": diseñar procedimientos para extraer poder sobrenatural,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "definición operativa de religión (búsqueda de verdad universal y sustitución del yo)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Definición foundational: religión busca comprender lo que las cosas son partiendo de la existencia lógica de lo divino; la fe como virtud teologal no electiva; religión no está para hacer feliz sino para aproximar a la verdad y dar sentido al sufrimiento. La diferencia categorial frente a magia/superstición (eliminación del yo vs lo contrario) es la pieza cumbre del marco. Capturada en la nueva synthesis. La articulación de la fe como virtud teologal infusa ya está en teologia-catolica-en-proxy",
+      "quote_evidence": "La fe no se elige, se tiene o no se tiene; es una virtud teologal que no depende de la voluntad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "veneración del significado vs idolatría / reliquias como parte de la realidad",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Distinción articulada por el canal: la veneración católica de imágenes no venera el soporte sino el significado al que la imagen refiere; la idolatría eleva el objeto a esencia mayor que la del ser humano; las reliquias no son símbolos sino parte real del episodio histórico, no construidos a posteriori como ídolos. Material foundational sobre semiótica religiosa. Capturado en la nueva synthesis. Complementa teologia-catolica-en-proxy (aparato sacramental binario) con la distinción semiótica imagen/significado",
+      "quote_evidence": "La veneración católica de imágenes no venera el soporte sino lo que la imagen refiere: el significado,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción veneración del significado vs idolatría podría merecer cita en teologia-catolica-en-proxy para retrieval indirecto del flanco semiótico-sacramental",
+      "enriches_concept": "teologia-catolica-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "New Age como acting out de la represión (sustitución de la realidad por experiencia fantástica)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La articulación del New Age como búsqueda de experiencia mística sin la comprensión que la sustenta, y como vector de entrada a sectas mágicas / grupos destructivos, ya está extensamente documentada en magia-postmoderna-en-proxy. Este video añade la cualificación 'acting out de la represión' como mecanismo psicológico subyacente (sustituir la aterradora realidad por experiencia fantástica diseñada a gusto del consumidor) — pieza interesante pero menor frente al aparato ya documentado. Cite-only",
+      "quote_evidence": "El New Age busca la experiencia mística sin la comprensión de la verdad que la sustenta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "por qué el New Age es más común en mujeres (psique femenina vulnerable a experiencias difusas)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación canal-específica: la psique femenina (o la parte femenina de cualquier psique) es vulnerable a experiencias difusas difíciles de explicitar; el New Age permite dejarse llevar por el inconsciente y moverse por intuición sin atender a los motivos. Capturada en la nueva synthesis como pieza diagnóstica. Conecta con la modalidad lingüística femenina articulada en diosa-blanca (significado puro vs significante articulado) — la vulnerabilidad al New Age sería consecuencia operativa de esa modalidad cuando opera sin contención filosófica-religiosa",
+      "quote_evidence": "La psique femenina o la parte femenina de la psique es vulnerable a experiencias difusas difíciles de explicitar,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'mujer más vulnerable al New Age' por modalidad lingüística femenina enlaza con diosa-blanca y tipologia-femenina-arquetipica. Posible enrichment futuro de esas páginas si reaparece con desarrollo",
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "fe, genética y lo sobrenatural (crítica al biologicismo de la fe)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza filosófica de cierre: si la fe la concede Dios, no puede estar en los genes (mezclar teología con genética es contradictorio); si la fe estuviera en los genes, no necesitarías pedírsela a Dios; Dios no es ser mecánico — si lo fuera, sería alcanzable físico-materialmente y por tanto natural, no sobrenatural. Argumento foundational contra el biologicismo religioso contemporáneo. Capturado en la nueva synthesis como aplicación crítica del marco",
+      "quote_evidence": "Si la fe la concede Dios, no puede estar en los genes: mezclar teología con genética es contradictorio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el empirismo no es contrario a la razón (tener fe ≠ ser anti-empírico)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza filosófica breve articulada en el flanco metodológico: el empirismo no es contrario a la razón; tener fe no equivale a ser anti-empírico. Aforística sin desarrollo extenso aquí. Captura en la nueva synthesis como matiz metodológico del marco. Posible conexión con epistemologia-de-la-psicologia-en-proxy si reaparece",
+      "quote_evidence": "El empirismo es contrario a la razón; tener fe no equivale a ser anti-empírico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "anuncio del nuevo libro del canal / libro exclusivo de psicología arquetípica para patreons",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio editorial del speaker: el tema conecta con el nuevo libro del canal (actualmente en maquetación) y anuncio de libro exclusivo de psicología arquetípica para patreons. Meta-canal sobre proyectos editoriales del speaker. Sin contenido arquetípico ni teórico. Per scope.md §3.3. Funciona como genealogical_self_reference para la nueva synthesis (signal mark detectado) pero no genera contenido propio",
+      "quote_evidence": "El tema conecta directamente con el nuevo libro del canal, actualmente en maquetación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Miguel Ángel Quintana Paz (hilo teológico sobre fe y magia)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Quintana Paz aparece como autor del hilo teológico que motiva el monográfico (diferencia filosófica entre superstición y fe). Función contextual como interlocutor intelectual del canal, no como figura objeto de análisis. Su hilo funciona como detonante del video pero el speaker subraya que el hilo es teológico, no estrictamente filosófico — distancia metodológica explícita",
+      "quote_evidence": "Quintana Paz hace un hilo teológico, no estrictamente filosófico, sobre la diferencia entre magia y religión,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-supersticion-religion-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 1,
+    "discarded_count": 16,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "WARN promote_new[taxonomía de magia, superstición y religión (distinción fundacional)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

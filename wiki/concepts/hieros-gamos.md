@@ -343,6 +343,9 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 
 
 
+
+
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Análisis arquetípico de Tarzán** — chunks: [0:30](https://youtu.be/Tviv4PT0dv8?t=30) · [6:42](https://youtu.be/Tviv4PT0dv8?t=402) · [7:42](https://youtu.be/Tviv4PT0dv8?t=462) · [11:45](https://youtu.be/Tviv4PT0dv8?t=705) · [16:18](https://youtu.be/Tviv4PT0dv8?t=978) · [18:22](https://youtu.be/Tviv4PT0dv8?t=1102) · [1:19:16](https://youtu.be/Tviv4PT0dv8?t=4756) · [1:41:28](https://youtu.be/Tviv4PT0dv8?t=6088)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -367,4 +370,6 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [34:43](https://youtu.be/QSggWfjOkHk?t=2083)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [4:57](https://youtu.be/iPqOn-ynSlE?t=297) · [1:29:17](https://youtu.be/iPqOn-ynSlE?t=5357)
+- **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [11:49](https://youtu.be/dHDv_oZODYQ?t=709)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [51:19](https://youtu.be/O4OkDuc3uPQ?t=3079)
 

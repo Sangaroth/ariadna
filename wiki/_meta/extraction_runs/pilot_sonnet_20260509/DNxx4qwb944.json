@@ -1,0 +1,229 @@
+{
+  "video_id": "DNxx4qwb944",
+  "video_title": "Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Blancanieves (Disney, 1937)",
+      "canonical_guess": "blancanieves-1937-film",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La madrastra representa la mala madre, la madre oscura impuesta,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los enanitos representan individuos que viven fuera del reino, alejados de lo civilizatorio, con sus propias reglas, rodeados de lo salvaje,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Scope.md §2.3 — obra canónica Disney 1937 con análisis arquetípico dedicado y articulación nuclear de varios marcos del canal: (a) la madrastra/súcubo/anciana-bruja como triple diosa oscura (correlato exacto de la triple diosa luminosa virgen/consorte/madre ya en tipologia-femenina-arquetipica); (b) lectura canal-canónica de los enanitos como monjes benedictinos (hora et labora, viviendo fuera del reino, los siete pecados/fragilidades humanas, hombres exóticos e ingenuos que se sacrifican por la diosa); (c) la manzana envenenada como trampa inversa al arquetipo de la joven diosa; (d) Blancanieves como caso operativo de la 'gracia de la diosa' como ventaja comunicativa de lo femenino; (e) crítica al CGI live-action de Disney como uncanny valley que destruye la fantasía pura (la fantasía está hecha precisamente para no parecerse a la realidad; Willow funciona porque las personas con acondroplasia son reales del todo, los enanitos de dibujos animados funcionan porque son fantasía pura). Connectivity expected: tipologia-femenina-arquetipica (triple diosa oscura), madre-oscura-en-proxy, diosa-blanca, la-bella-durmiente-1959-film (comparable Disney clásico), mal-sin-forma (manzana como trampa), autotipo (crítica al live-action vacío)."
+    },
+    {
+      "surface_form": "Star Wars (saga) / Darth Vader / la Fuerza",
+      "canonical_guess": "star-wars-saga",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 40,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Vader es malo punto; lo que tiene son sentimientos residuales de humanidad por su hijo,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los jedai son héroes autotípicos porque no contienen motivación heroica con suficiente contenido moral,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La Fuerza no corresponde a ningún arquetipo concreto; es un amalgama estético,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Scope.md §2.3 — saga canónica del cine contemporáneo con tratamiento arquetípico extenso (≥40 min monográfico) que articula varios marcos canal-canónicos: (a) Darth Vader como caso paradigmático de héroe truncado (corrupción por rencor que devora al héroe original Anakin Skywalker, distinto del 'malo bueno', con amor por el hijo como único residuo no devorado por el mal); (b) la diferencia teológica salvación vs redención (Vader recibe salvación sin redención porque no reparó el mal en vida, lo que el canal lee como incoherencia arquetípica de la saga); (c) Star Wars como caso de viaje del héroe sin contenido moral genuino (orden/caos sin bien/mal explícito, equilibrio sin definición operativa); (d) la Fuerza como caso paradigmático de autotipo metafísico (amalgama estético de taoísmo + hinduismo sin contenido arquetípico real, 'devolver el equilibrio a la fuerza' como significante vacío); (e) los jedai como héroes autotípicos (paralelo a Harry Potter ya en autotipo page); (f) Palpatín como acierto accidental por su iconografía de brujo terminal que evita la muerte propia consumiendo otras vidas. Contraste sistemático con [[el-senor-de-los-anillos]] como obra arquetípicamente plena. Connectivity expected: heroe-truncado, autotipo, harry-potter-saga (otro autotipo), el-senor-de-los-anillos (contraste), mito-moderno-en-proxy, individuation."
+    },
+    {
+      "surface_form": "Vader como héroe truncado (caso paradigmático)",
+      "canonical_guess": "heroe-truncado",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El antagonista que llega a serlo a través de una corrupción se llama héroe truncado,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El mal devora a Anakin Skywalker y lo convierte en Vader a través del rencor, uno de los fenómenos del mal más significativos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "captured_in_promote_new",
+      "decision_reason": "El análisis de Vader como caso paradigmático del héroe truncado (corrupción por rencor que devora al héroe original; amor por el hijo como único residuo no devorado; acto final como revelación más que redención porque actúa desde el inconsciente paterno, no desde heroicidad reparada) queda capturado dentro del promote_new star-wars-saga. La página heroe-truncado existe y recibirá enriquecimiento natural cuando el sub-agente construya el stub de star-wars-saga con wikilinks recíprocos. No propongo update directo a heroe-truncado sin lectura previa de la página para asegurar anchor."
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "autotipo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La secuencia operativa que el canal sugiere:\n\n- **Arquetipo**: estructura psíquica universal con resto inconsciente (la sombra, el héroe, el mago)\n- **Prototipo**: encarnación concreta que aún conserva profundidad simbólica\n- **Estereotipo**: rasgos simplificados pero todavía mediados por la ficción\n- **Autotipo**: el nombre y el rasgo coinciden — desaparece la mediación",
+      "section_target": null,
+      "content_proposed": "\n\n## La cadena articulada con casos paradigmáticos: Hércules / Super López / Capitana Marvel\n\nEl monográfico *Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos* (nov-2024) articula la cadena de cuatro categorías con casos paradigmáticos que la página presupone sin nombrar:\n\n> \"Arquetipo: figura fantástica que es al mismo tiempo una parte de la naturaleza humana; no tiene forma visible, es inconsciente,\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:38:32)](https://youtu.be/DNxx4qwb944?t=5912)\n\n> \"Prototipo: la figura concreta que representa al arquetipo en un contexto narrativo (Hércules, Superman),\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:38:32)](https://youtu.be/DNxx4qwb944?t=5912)\n\n> \"Estereotipo: prototipo vaciado de contenido, sobresimplificado, que se deduce por convención (Super López),\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:38:32)](https://youtu.be/DNxx4qwb944?t=5912)\n\n> \"Autotipo: prototipo vaciado de todo sentido moral que estéticamente refiere a algo pero no apela a ninguna realidad (Capitana Marvel, la Fuerza),\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:38:32)](https://youtu.be/DNxx4qwb944?t=5912)\n\nLa pieza completa la cadena con ejemplos concretos del corpus cultural que la página tenía implícitos:\n\n- **Arquetipo → héroe**: estructura inconsciente sin forma visible, parte de la naturaleza humana (la sombra, el viaje del héroe, la diosa blanca como estructura psíquica).\n- **Prototipo → Hércules / Superman**: encarnación concreta que conserva la profundidad simbólica del arquetipo en un contexto narrativo específico (Hércules como prototipo del héroe solar griego, Superman como prototipo del héroe solar moderno).\n- **Estereotipo → Super López**: prototipo simplificado, deducible por convención, sin la profundidad del prototipo original (la parodia paródica del superhéroe que opera por reducción a rasgos reconocibles).\n- **Autotipo → Capitana Marvel / la Fuerza**: prototipo vaciado de sentido moral, referente estético sin apelación a realidad psíquica genuina. La precisión 'estéticamente refiere a algo pero no apela a ninguna realidad' es operativa: el autotipo NO es solo simplificación (eso es estereotipo); es **vaciamiento moral con preservación estética**. La forma del héroe permanece sin que su motivación heroica sostenga el material.\n\n## La Fuerza como autotipo metafísico: amalgama estético sin contenido arquetípico\n\nEl mismo monográfico aplica la categoría autotipo más allá del personaje individual al **dispositivo cosmológico** de la saga Star Wars — la Fuerza como autotipo metafísico, no como autotipo onomástico:\n\n> \"La Fuerza no corresponde a ningún arquetipo concreto; es un amalgama estético,\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:31:27)](https://youtu.be/DNxx4qwb944?t=5487)\n\n> \"Toma elementos del taoísmo y el hinduismo pero sin dar contenido real al equilibrio,\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:31:27)](https://youtu.be/DNxx4qwb944?t=5487)\n\n> \"\"Devolver el equilibrio a la fuerza\" no significa nada: son palabras con estética de gesta pero sin deber heroico concreto,\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:31:27)](https://youtu.be/DNxx4qwb944?t=5487)\n\n> \"La virtud jedai es lo contrario a una intuición, pero los jedai se mueven por intuición pura: contradicción interna,\"\n→ [Mitología 101: Blancanieves, Star Wars y ESdA (1:31:27)](https://youtu.be/DNxx4qwb944?t=5487)\n\nLa pieza extiende el alcance del concepto autotipo del plano onomástico (los nombres de Harry Potter como autotipia pura) al **plano cosmológico-doctrinal**: una metafísica de obra puede ser autotípica si sus categorías centrales operan como amalgama estético de referentes místicos diversos (taoísmo + hinduismo + zen) sin dar contenido operativo a ninguna. 'Devolver el equilibrio a la Fuerza' es la frase paradigmática — opera con estética de gesta heroica pero sin definir qué sería el equilibrio, qué lo rompió o cómo se restaura. Los jedai son entonces 'héroes autotípicos' por construcción doble: heredan la forma del monje guerrero (samurái, monje shaolín, caballero artúrico) sin la doctrina específica que sostiene su disciplina en cada tradición original; y operan por intuición pura mientras pretenden encarnar virtud, contradicción que el canal identifica como cifra de la autotipia metafísica.\n\nLa precisión completa la página añadiendo el caso paradigmático cosmológico al catálogo de los casos onomásticos (Harry Potter), arquetípicos invertidos (Voldemort como inversión luciferina autotípica) y New Age (Lilit moderna, Hermes Trismegisto). La autotipia opera transversalmente al material — onomástica, doctrinal, metafísica, mítica — siempre que el significante se preserve estéticamente vaciando el referente psíquico operativo.\n",
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "DNxx4qwb944",
+          "timestamp_seconds": 5487,
+          "cite_markdown": "[Mitología 101: Blancanieves, Star Wars y ESdA (1:31:27)](https://youtu.be/DNxx4qwb944?t=5487)"
+        },
+        {
+          "video_id": "DNxx4qwb944",
+          "timestamp_seconds": 5912,
+          "cite_markdown": "[Mitología 101: Blancanieves, Star Wars y ESdA (1:38:32)](https://youtu.be/DNxx4qwb944?t=5912)"
+        }
+      ],
+      "rationale": "La página tiene la secuencia operativa arquetipo→prototipo→estereotipo→autotipo enumerada en bullets, pero las cuatro categorías están definidas en abstracto sin casos paradigmáticos canal-canónicos. Este vídeo articula explícitamente cada categoría con ejemplo concreto: Hércules/Superman como prototipo, Super López como estereotipo, Capitana Marvel y la Fuerza como autotipo. Además extiende el alcance del concepto al plano cosmológico-doctrinal (la Fuerza como autotipo metafísico, no solo onomástico) con análisis específico de los jedai como héroes autotípicos por construcción doble. Material genuinamente nuevo que cierra la abstracción de la cadena con casos operativos y amplía su dominio de aplicación.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "El Señor de los Anillos como mito artúrico cristiano precatólico",
+      "reason_code": "already_captured",
+      "reason_detail": "El monográfico contrasta sistemáticamente Star Wars (autotipia, viaje del héroe sin contenido moral) con El Señor de los Anillos (mito artúrico elevado a lo católico, múltiples héroes truncados, bien y mal con contenido moral explícito). La página el-senor-de-los-anillos ya existe con esta lectura ('cada estirpe de la Tierra Media corresponde a una pieza de la historia sagrada católica'). El contraste con Star Wars queda capturado naturalmente dentro del promote_new star-wars-saga (que tendrá wikilink recíproco). Material complementario al ya recogido.",
+      "quote_evidence": "El Señor de los Anillos es la evolución del mito artúrico elevado a lo católico,",
+      "review_priority": "medium",
+      "review_priority_reason": "El contraste explícito Star Wars vs El Señor de los Anillos como casos opuestos de autotipia vs arquetipia plena podría enriquecer el-senor-de-los-anillos con lectura previa de esa página.",
+      "enriches_concept": "el-senor-de-los-anillos"
+    },
+    {
+      "surface_form": "leyenda artúrica como virtud con contenido real (espada como don de justicia)",
+      "reason_code": "already_captured",
+      "reason_detail": "La lectura de la leyenda artúrica como mito sobre la virtud donde los símbolos refieren a virtudes cristianas (la espada como don de justicia inspirada por piedad) ya está articulada en excalibur-1981-film (sección sobre virtudes cardinales y teologales). El mito artúrico como 'cristiano precatólico, anterior al protestantismo' es precisión menor de esa lectura ya documentada.",
+      "quote_evidence": "La espada es el don de la justicia que da la diosa, inspirada por la piedad por los demás,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "excalibur-1981-film"
+    },
+    {
+      "surface_form": "D&D clasificación caótico/legal/bueno/malo como tipología de conducta",
+      "reason_code": "passing_mention",
+      "reason_detail": "Crítica metodológica al sistema de alineamiento de Dungeons & Dragons: es tipología de conducta (guía interpretativa para coherencia de personaje en juego de rol), no tipología arquetípica de personaje. Articulación menor que distingue conducta estereotípica (bondadoso/egoísta) de motivación arquetípica. Sin desarrollo sostenido; encaja como inciso analítico contra clasificaciones convencionales superficiales.",
+      "quote_evidence": "La clasificación de D&D es tipología de conducta, no tipología de personaje,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autotipo"
+    },
+    {
+      "surface_form": "salvación vs redención (Vader y la teología de Star Wars)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La distinción teológica salvación (perdón final de pecados) vs redención (reparar el mal en vida para ganar el cielo) aplicada al acto final de Vader (recibe salvación sin redención porque no reparó el mal en vida, lo que el canal lee como incoherencia arquetípica de la saga) queda capturada dentro del promote_new star-wars-saga. La distinción enlaza con teologia-catolica-en-proxy (purgatorio, indulgencia plenaria, pecado mortal/venial) ya documentada.",
+      "quote_evidence": "La redención requiere reparar el mal en vida para ganarte tu propio cielo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "star-wars-saga"
+    },
+    {
+      "surface_form": "uncanny valley CGI / progresía no sabe hacer fantasía",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Crítica al live-action CGI de Disney aplicada al remake de Blancanieves: la mezcla realidad-CGI produce aberración (forzada hasta desnaturalizarse, perder la gracia), la fantasía está hecha precisamente para no parecerse a la realidad, Willow funciona con personas reales pero los dibujos animados funcionan con fantasía pura. La progresía se queda en lo estético sin comprender la utilidad arquetípica. Material capturado dentro del promote_new blancanieves-1937-film. Enlaza con woke-narrativa-postmoderna-moral y autotipo (estética sin contenido).",
+      "quote_evidence": "La progresía se queda únicamente en lo estético y no comprende la utilidad arquetípica del enanito o el hobbit,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blancanieves-1937-film"
+    },
+    {
+      "surface_form": "cazador y príncipe como figuras masculinas del mito",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El cazador como representación de la nobleza y el arrepentimiento, y el príncipe como belleza masculina (Adonis), son piezas menores del análisis de Blancanieves. Material capturado dentro del promote_new blancanieves-1937-film.",
+      "quote_evidence": "El cazador representa la nobleza y el arrepentimiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blancanieves-1937-film"
+    },
+    {
+      "surface_form": "los siete enanitos como siete pecados / fragilidades humanas",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La lectura canal-canónica de los siete enanitos como representación de los siete pecados o fragilidades humanas de la civilización (hombres que luchan contra su propia fragilidad y sacan lo mejor de sí junto a la diosa) queda capturada dentro del promote_new blancanieves-1937-film. Enlaza con la articulación canal-canónica de los siete pecados capitales como orígenes independientes ya recogida en iconotropias-de-la-rabia-narcisista.",
+      "quote_evidence": "Los siete enanitos representan los siete pecados o fragilidades humanas de la civilización,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blancanieves-1937-film"
+    },
+    {
+      "surface_form": "Willow (película) y personas con acondroplasia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Willow (Ron Howard, 1988) se menciona como contraejemplo positivo: las personas con acondroplasia funcionan en la película porque son reales del todo, a diferencia del CGI live-action que mezcla planos y produce uncanny valley. Sin análisis arquetípico de la película; mención ilustrativa.",
+      "quote_evidence": "En Willow las personas con acondroplasia funcionan porque son reales del todo;",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "blancanieves-1937-film"
+    },
+    {
+      "surface_form": "Capitana Marvel como autotipo",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Capitana Marvel como ejemplo concreto de autotipo (junto a la Fuerza) queda capturada dentro del pending_update a autotipo. Sin desarrollo arquetípico de la película misma, solo como caso ilustrativo. Podría merecer entity_work futuro si el canal la analiza monográficamente en otro vídeo.",
+      "quote_evidence": "Autotipo: prototipo vaciado de todo sentido moral que estéticamente refiere a algo pero no apela a ninguna realidad (Capitana Marvel, la Fuerza),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autotipo"
+    },
+    {
+      "surface_form": "Super López como estereotipo (no autotipo)",
+      "reason_code": "captured_in_pending_update",
+      "reason_detail": "Super López como caso paradigmático de estereotipo (prototipo simplificado deducible por convención, NO autotipo porque conserva mediación ficcional aunque simplificada). Queda capturado dentro del pending_update a autotipo donde refina la distinción estereotipo/autotipo con caso concreto.",
+      "quote_evidence": "Estereotipo: prototipo vaciado de contenido, sobresimplificado, que se deduce por convención (Super López),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autotipo"
+    },
+    {
+      "surface_form": "Palpatín como bruja terminal (acierto accidental de Star Wars)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Palpatín tiene iconografía de brujo porque la bruja es la figura terminal que evita la muerte propia consumiendo otras (paralelo a la 'bruja terminal' / Medusa articulada en diosa-blanca). El canal identifica esto como acierto accidental de Star Wars en el lado oscuro, en contraste con el lado luminoso donde Luke no se enriquece con experiencias de pérdida. Material capturado dentro de promote_new star-wars-saga.",
+      "quote_evidence": "Palpatín tiene aspecto de brujo porque la bruja es la figura que evita la muerte propia consumiendo a otros,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "star-wars-saga"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 2,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Blancanieves (Disney, 1937)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Star Wars (saga) / Darth Vader / la Fuerza] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

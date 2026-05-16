@@ -137,6 +137,15 @@ El canal subraya que incluso la tipografía del título (*The VVitch*) es símbo
 
 
 
+
+
+
+
+
+
+
+
+
 - **Análisis arquetípico La Bruja** — chunks: [4:22](https://youtu.be/rRlks0e0oxU?t=262) · [2:04:12](https://youtu.be/rRlks0e0oxU?t=7452)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:35:38](https://youtu.be/xc8e2i_nREE?t=5738)
 - **Tenemos que hablar de Threads** — chunks: [1:46:14](https://youtu.be/blj-wsCRQzY?t=6374)
@@ -147,4 +156,10 @@ El canal subraya que incluso la tipografía del título (*The VVitch*) es símbo
 - **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [2:04:06](https://youtu.be/0EeqbwZJUQw?t=7446)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:07:55](https://youtu.be/iPqOn-ynSlE?t=4075)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [23:22](https://youtu.be/nw7fSEAJr-U?t=1402) · [55:42](https://youtu.be/nw7fSEAJr-U?t=3342) · [1:06:48](https://youtu.be/nw7fSEAJr-U?t=4008) · [2:01:52](https://youtu.be/nw7fSEAJr-U?t=7312)
+- **Lilith: La Iconotropía.** — chunks: [0:31](https://youtu.be/xKCD8PaexF0?t=31) · [11:13](https://youtu.be/xKCD8PaexF0?t=673)
+- **Los Apocalipsis. (Parte I)** — chunks: [1:20:29](https://youtu.be/lLRGemLUCtY?t=4829)
+- **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:37:32](https://youtu.be/DNxx4qwb944?t=5852)
+- **Mitología 101: Perséfone** — chunks: [51:41](https://youtu.be/VDOUrpcC4fU?t=3101)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [36:52](https://youtu.be/O4OkDuc3uPQ?t=2212)
+- **Taxonomía de las criaturas malignas** — chunks: [0:01](https://youtu.be/rG_et1_G7Hs?t=1) · [54:37](https://youtu.be/rG_et1_G7Hs?t=3277)
 

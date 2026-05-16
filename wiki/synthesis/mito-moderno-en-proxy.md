@@ -251,6 +251,10 @@ La pieza enlaza con [[matrix-1999-film]] articulado en pieza 5: la conciencia pe
 
 ## Citations
 
+
+
 - **Análisis arquetípico La Bruja** — chunks: [4:22](https://youtu.be/rRlks0e0oxU?t=262)
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:22:03](https://youtu.be/lOpCXo1pi2M?t=8523)
+- **Lilith: La Iconotropía.** — chunks: [42:34](https://youtu.be/xKCD8PaexF0?t=2554)
+

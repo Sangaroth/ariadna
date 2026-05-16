@@ -1,0 +1,328 @@
+{
+  "video_id": "hjc9L2_kkOo",
+  "video_title": "El mito del Gólem: Transhumanismo",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "el mito del Gólem",
+      "canonical_guess": "golem-arquetipo",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 55,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El mito del Gólem conecta con la obra culmen de la literatura fantástica moderna: Alien,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La fábula enseña que es más fácil hacer que responder a las consecuencias del hacer; más fácil pecar que arreglar el pecado,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página existente carece de la fábula clásica del gólem (agua del mar, instrucción literal) que esta sesión articula como mecánica operativa elemental del arquetipo; complementa la cadena cosmogónica fractal ya documentada con el plano artesanal del mito",
+      "quote_evidence": "Un demiurgo construye un gólem de arcilla imitando a Dios e insufla vida mediante magia (medios prohibidos),"
+    },
+    {
+      "surface_form": "el transhumanismo",
+      "canonical_guess": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El transhumanismo es el sistema de complementación humana: integrar al hombre con su tecnología para alcanzar un nuevo estadio,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El transhumanismo sería la abominación del hombre y el gólem: el creador convirtiéndose en su propia creación,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página existente articula crítica al transhumanismo desde T5x03 pero NO contiene: (a) precisión soft vs interfaz biológica pura, (b) mecanismo concreto del USB cerebral que produce cibericosis vía conflicto de memoria dual. El vídeo añade la operatoria precisa de la predicción cibericosis ya enunciada",
+      "quote_evidence": "Escuchar frecuencias fuera del alcance del oído humano con audífonos ya sería complementación humana, pero soft,"
+    },
+    {
+      "surface_form": "el arquetipo del padre oscuro",
+      "canonical_guess": "padre-oscuro-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4.5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El padre oscuro es un arquetipo corrompido: en lugar de proveer y dar seguridad, esclaviza y utiliza,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Vito Corleone como prototipo de padre oscuro: obliga a su familia a ser vehículo del mal en lugar de proveerles,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cumple criterio scope.md §2.1 framing-mark: el speaker articula el padre oscuro como categoría arquetípica canal-específica con definición operativa (reverso del padre como proveedor) y caso paradigmático (Vito Corleone). Paralelo estructural a madre-oscura-en-proxy ya promovida — completa el dipolo parental oscuro del catálogo del canal",
+      "quote_evidence": "El padre oscuro es un arquetipo corrompido: en lugar de proveer y dar seguridad, esclaviza y utiliza,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "golem-arquetipo",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "> \"El gólem es el hijo creado a imagen y semejanza que siempre resulta imperfecto e irreversiblemente defectuoso,\"\n→ [Mitología 101: Alien y el mito Polar (47:34)](https://youtu.be/Sszbs7CG0cQ?t=2854)",
+      "section_target": null,
+      "content_proposed": "## La fábula clásica: el demiurgo, la instrucción y el agua del mar\n\nAntes del despliegue cosmogónico fractal, el canal articula la mecánica narrativa elemental del mito en su forma artesanal — un demiurgo replica el gesto divino con medios prohibidos, ordena al gólem y descubre que la criatura obedece sin contextualizar.\n\n> \"Un demiurgo construye un gólem de arcilla imitando a Dios e insufla vida mediante magia (medios prohibidos),\"\n→ [El mito del Gólem: Transhumanismo (24:58)](https://youtu.be/hjc9L2_kkOo?t=1498)\n\n> \"El gólem obedece literalmente sin contextualizar: \\\"trae agua del mar\\\" termina vaciando el mar e inundando la ciudad,\"\n→ [El mito del Gólem: Transhumanismo (24:58)](https://youtu.be/hjc9L2_kkOo?t=1498)\n\n> \"El gólem no es humano, por tanto no contextualiza las instrucciones,\"\n→ [El mito del Gólem: Transhumanismo (42:13)](https://youtu.be/hjc9L2_kkOo?t=2533)\n\nLa pieza añade el mecanismo operativo que las secciones cosmogónicas tienen implícito: el defecto del gólem NO es solo falibilidad estructural por autonomía (la paradoja autonomía-falibilidad articulada más adelante) sino **ausencia de marco interpretativo** — la criatura ejecuta el significante literal porque carece del sustrato humano que contextualiza la instrucción. El demiurgo se ha sobrepasado ontológicamente: la voluntad de dominio trasciende los medios de los que el creador debería disponer mediante el pecado de ambición y vanidad. La moraleja moral del mito se cifra en una asimetría operativa — es más fácil hacer que responder a las consecuencias del hacer, más fácil pecar que reparar el pecado. La fábula clásica es así el plano artesanal de la cadena cosmogónica que las secciones siguientes despliegan a escala fractal: el mismo gesto del demiurgo replicando lo divino, primero en arcilla y luego en Titanes, humanidad y androides.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hjc9L2_kkOo",
+          "timestamp_seconds": 1498,
+          "cite_markdown": "[El mito del Gólem: Transhumanismo (24:58)](https://youtu.be/hjc9L2_kkOo?t=1498)"
+        },
+        {
+          "video_id": "hjc9L2_kkOo",
+          "timestamp_seconds": 2533,
+          "cite_markdown": "[El mito del Gólem: Transhumanismo (42:13)](https://youtu.be/hjc9L2_kkOo?t=2533)"
+        }
+      ],
+      "rationale": "La página articula la cadena fractal y la paradoja autonomía-falibilidad pero NO contiene la fábula clásica del agua del mar ni la articulación operativa del gólem como ejecutor sin marco interpretativo (no contextualiza porque no es humano). Esta sesión añade el plano artesanal del mito que las cosmogónicas tienen implícito — pieza nueva que complementa las existentes sin solaparse. insert_after_passage tras la definición permite que el lector encuentre primero la fábula básica antes del despliegue fractal",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Integración de máquina en carne, NO integración de capacidad máquina en capacidad mente.",
+      "section_target": null,
+      "content_proposed": "\n- **Complementación soft vs interfaz biológica pura — el umbral operativo**: el canal articula en sesión previa (sept 2024) la distinción crítica que separa la mera prótesis ampliada de la complementación genuina. Escuchar frecuencias fuera del alcance del oído humano con audífonos ya es complementación humana **pero soft** — la tecnología amplía el alcance perceptivo pero opera sobre canales cognitivos preexistentes sin integrarse en doble sentido con la psique. La **interfaz biológica pura** exige integración bidireccional bottom-up y top-down: para que la conciencia domine una tecnología, esa tecnología tiene que estar integrada en el cerebro en doble sentido — el cerebro modifica la estructura del dispositivo y el dispositivo modifica al cerebro, no solo lo estimula. La frontera operativa para el caso somático: un implante coclear o un audífono NO complementan porque suplen una carencia sin alterar la naturaleza del operador; no hay diferencia esencial entre un implante coclear y un martillo, ambos son instrumentos cuya esencia está separada del ser humano. La complementación genuina requiere que la tecnología pase a formar parte de la materia del hombre, ampliando su naturaleza — y esa exigencia es la que ningún dispositivo biosintético actual cumple, lo que confirma desde el flanco técnico la tesis ya articulada de que la abominación cibernética es horizonte filosófico, no programa de ingeniería en curso.\n  → [El mito del Gólem: Transhumanismo (38:10)](https://youtu.be/hjc9L2_kkOo?t=2290)\n  → [El mito del Gólem: Transhumanismo (41:42)](https://youtu.be/hjc9L2_kkOo?t=2502)\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hjc9L2_kkOo",
+          "timestamp_seconds": 2290,
+          "cite_markdown": "[El mito del Gólem: Transhumanismo (38:10)](https://youtu.be/hjc9L2_kkOo?t=2290)"
+        },
+        {
+          "video_id": "hjc9L2_kkOo",
+          "timestamp_seconds": 2502,
+          "cite_markdown": "[El mito del Gólem: Transhumanismo (41:42)](https://youtu.be/hjc9L2_kkOo?t=2502)"
+        }
+      ],
+      "rationale": "La página articula los casos biosintéticos (mosca digital, antena cerebral) y la tesis 'no se puede añadir mente a una mente' pero NO contiene la distinción operativa soft/hard que el speaker introduce en este vídeo: el umbral preciso entre ampliación instrumental (audífono, antena = soft) e integración bidireccional bottom-up/top-down (interfaz biológica pura). La pieza completa el aparato técnico del bloque B sin solaparse — añade el criterio de demarcación que las secciones anteriores tenían implícito",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "update_type": "extend_passage",
+      "anchor_passage": "hay puertas mentales que una vez abiertas no se cierran igual.",
+      "section_target": null,
+      "content_proposed": "\n\n  **Mecanismo concreto: el USB cerebral como caso paradigmático de cibericosis**. El canal articula la operatoria precisa del cuadro mediante el experimento mental del dispositivo de almacenamiento externo. La memoria humana NO tiene localización cerebral — es el resultado de la integración de muchas redes cuya suma supera sus partes — y cada acceso a un recuerdo lo recomprime y altera. Un USB cerebral crearía por tanto **dos tipos de memoria en conflicto permanente**: la del USB que no cambia y la cerebral que se modifica con cada lectura. Al comprobar que ambas versiones difieren, surge la sensación constante de que la propia memoria es falsa — algo parecido a esquizofrenia paranoide. Incluso en el caso light (USB de acceso voluntario, no descarga forzada), la descarga libre permanente en memoria sería la locura total. El argumento converge con la teoría memorial articulada en [[teoria-de-la-memoria-en-proxy]]: la memoria como fenómeno noético de re-instanciación de submatrices es estructuralmente incompatible con cualquier sustrato de fijación digital, lo que blinda cibericosis frente a soluciones técnicas de optimización del hardware externo.\n  → [El mito del Gólem: Transhumanismo (1:03:14)](https://youtu.be/hjc9L2_kkOo?t=3794)\n  → [El mito del Gólem: Transhumanismo (1:07:16)](https://youtu.be/hjc9L2_kkOo?t=4036)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "teoria-de-la-memoria-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "hjc9L2_kkOo",
+          "timestamp_seconds": 3794,
+          "cite_markdown": "[El mito del Gólem: Transhumanismo (1:03:14)](https://youtu.be/hjc9L2_kkOo?t=3794)"
+        },
+        {
+          "video_id": "hjc9L2_kkOo",
+          "timestamp_seconds": 4036,
+          "cite_markdown": "[El mito del Gólem: Transhumanismo (1:07:16)](https://youtu.be/hjc9L2_kkOo?t=4036)"
+        }
+      ],
+      "rationale": "La predicción CIBERICOSIS ya estaba enunciada (psicosis artificiales, multiplicación x10 del riesgo de segundo brote) pero sin mecanismo concreto. Este vídeo aporta la operatoria precisa: el conflicto memoria fija (USB) vs memoria que se modifica con cada acceso (cerebral) como motor del cuadro psicótico. extend_passage tras la frase del cierre de cibericosis evita reescribir el bullet, añadiendo el matiz operativo como prolongación natural. El enlace tipo wikilink a teoria-de-la-memoria-en-proxy cierra el flanco genealógico con la teoría memorial del canal",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Alien",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El vídeo articula Alien como cadena de abominaciones (titán demiurgo se inmola codificando el mal, hombre es gólem del gólem, robots son gólem del gólem del gólem). La página alien-saga ya contiene la cadena fractal de cinco eslabones (Arquitectos → Humanidad → Weyland → Androides → Alien) con cita literal de la misma estructura. La reformulación 'gólem del gólem del gólem' es estructuralmente idéntica — prosa redundante. Cite-only enriquece la página existente",
+      "quote_evidence": "El mal se aparea con los hombres creando abominaciones sucesivas: el hombre es gólem del gólem, los robots son gólem del gólem del gólem,",
+      "review_priority": "medium",
+      "review_priority_reason": "Vídeo es source nuevo para alien-saga; el timestamp del análisis Alien-gólem (47:31) merece entrar al índice de citas para retrieval indirecto aunque la prosa esté cubierta",
+      "enriches_concept": "alien-saga",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Vito Corleone",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aparece como caso paradigmático del arquetipo del padre oscuro (que se está promoviendo en esta sesión). El sub-agente que construya padre-oscuro-en-proxy capturará el caso desde quote_evidence del entity correspondiente; no requiere page propia para Corleone",
+      "quote_evidence": "Vito Corleone como prototipo de padre oscuro: obliga a su familia a ser vehículo del mal en lugar de proveerles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "padre-oscuro-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lilit",
+      "reason_code": "already_captured",
+      "reason_detail": "Aparece como cifra de la madre oscura por excelencia ('reúne los tres principales arquetipos oscuros de la feminidad'). La página lilit-mito y madre-oscura-en-proxy ya documentan exhaustivamente este vínculo (madre que daña al hijo, zapatos al revés en Anticristo, etc.). Cite-only suficiente",
+      "quote_evidence": "Lilit es el arquetipo de la madre oscura por excelencia, que reúne los tres principales arquetipos oscuros de la feminidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Elon Musk / Neuralink",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como caso operativo concreto del intento transhumanista de complementación humana ('sustituir la visión corneal y nerviosa con un dispositivo insertado en el cerebro'). No merece página autónoma — figura de actualidad usada como ilustración del marco crítico ya documentado en cibernetica-biosintetica-y-transhumanismo-en-proxy. Caso ilustrativo (test §3.2 del scope.md)",
+      "quote_evidence": "Neuralink de Elon Musk como ejemplo concreto: sustituir la visión corneal y nerviosa con un dispositivo insertado en el cerebro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ergon",
+      "reason_code": "passing_mention",
+      "reason_detail": "Término filosófico (aristotélico) que el canal usa en el cierre del vídeo para articular la distinción demencia (olvido progresivo del ergon) vs psicosis (desnaturalización, no olvido). Aparece como tesis embrionaria sin desarrollo sostenido en este vídeo — solo articulado en los últimos minutos. Posible concepto recurrente en otros vídeos del corpus que justificaría page propia, pero con una sola mención no procede promoción. Flag para revisión humana",
+      "quote_evidence": "La referencia al mito de Jurassic Park como variante moderna del mismo tema: el ergon como aquello para lo que algo fue hecho,",
+      "review_priority": "high",
+      "review_priority_reason": "El término ergon como aquello-para-lo-que-algo-fue-hecho parece operativo en la distinción demencia/psicosis del canal y probablemente reaparezca. Si emerge en otros vídeos del corpus, candidato a page concept propia con dominio humanities.philosophy",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "abominación",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El vídeo articula la abominación como 'hibridación de dos cosas que jamás deberían estar juntas' y como 'aquello cuya contemplación produce horror por desnaturalización'. La página cibernetica-biosintetica-y-transhumanismo-en-proxy ya contiene la sección E completa sobre QUIMERA vs ABOMINACIÓN con Frankenstein y homúnculo de Bart Simpson como casos. La precisión psicológica ('contemplación produce horror por desnaturalización') es matiz menor sobre el marco ya documentado — no justifica prosa nueva. Cite-only",
+      "quote_evidence": "La abominación es la hibridación de dos cosas que jamás deberían estar juntas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "psicosis (definición analítica)",
+      "reason_code": "already_captured",
+      "reason_detail": "El vídeo articula psicosis como 'existencia de representaciones mentales desconectadas de la realidad que se confunden con ella' y la distingue de demencia ('olvido progresivo del ergon vs desnaturalización'). La página anatomia-de-la-fantasia-y-sindrome-delirante ya articula el espectro fantástico completo hasta psicosis con definición clínica sostenida (52 min monográfico). Prosa redundante",
+      "quote_evidence": "Psicosis es la existencia de representaciones mentales desconectadas de la realidad que se confunden con ella,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "memoria no tiene locus / USB cerebral",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El vídeo aplica la tesis 'la memoria no tiene localización cerebral' al caso transhumanista del USB cerebral. La página teoria-de-la-memoria-en-proxy ya articula extensamente que la memoria no tiene locus y que cada acceso la modifica. La aplicación al caso USB se captura en pending_update a cibernetica-biosintetica-y-transhumanismo-en-proxy (sección cibericosis). Cite-only suficiente para teoria-de-la-memoria",
+      "quote_evidence": "La memoria no tiene localización cerebral: es el resultado de la integración de muchas redes cuya suma supera sus partes,",
+      "review_priority": "medium",
+      "review_priority_reason": "El USB cerebral es aplicación notable de la teoría memorial al transhumanismo; el timestamp 1:03:14 merece entrar al índice de citas de teoria-de-la-memoria-en-proxy para retrieval indirecto",
+      "enriches_concept": "teoria-de-la-memoria-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ciencia ficción como la mejor fantasía",
+      "reason_code": "passing_mention",
+      "reason_detail": "Breve articulación de la distinción ciencia ficción vs cuento de hadas según el presupuesto de plausibilidad (técnica vs magia) y de la ciencia ficción como 'la mejor fantasía' porque 'más verdad contiene pareciendo lo contrario'. La página generos-literarios-y-afectos articula la tipología de géneros y horror-cosmico contiene el caso lovecraftiano. Material breve aquí, sin desarrollo sostenido — cite-only",
+      "quote_evidence": "La diferencia entre ciencia ficción y cuento de hadas reside en el presupuesto de plausibilidad: técnica versus magia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "generos-literarios-y-afectos",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ciencia vs técnica",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción filosófica articulada brevemente: 'la ciencia es una institución; el dominio real proviene de la técnica' y 'el método científico no es más válido que la observación o la vivencia porque termina en la cognición'. Tesis embrionaria sin desarrollo monográfico aquí. Posible recurrencia en otros vídeos del canal — flag para revisión humana sin promoción todavía",
+      "quote_evidence": "La ciencia es una institución; el dominio real proviene de la técnica,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción ciencia/técnica como tesis epistemológica del canal podría merecer page propia si reaparece en otros vídeos con desarrollo sostenido. Por ahora una sola aparición breve",
+      "enriches_concept": "epistemologia-de-la-psicologia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tecnología no es moralmente neutra",
+      "reason_code": "passing_mention",
+      "reason_detail": "Argumento breve del speaker: 'hay tecnología inherentemente mala — la heroína es tecnología que solo sirve para el mal' contra el razonamiento de neutralidad material. Aparece como pieza de la crítica al transhumanismo. Material breve sin desarrollo sostenido — captura cite-only enriquece la página cibernetica",
+      "quote_evidence": "Hay tecnología inherentemente mala: la heroína es tecnología que solo sirve para el mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "dos formas fundamentales del mal (provenir del mal o estar motivado por el mal)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Bloque breve del vídeo articulando una distinción binaria del mal: 'los arquetipos oscuros deben provenir del mal o estar motivados por el mal' y 'causar mal no es causar daño'. La página cuatro-formas-del-mal articula una taxonomía cuádruple ya robusta (exógeno / concupiscencia / corrupción / posesión) con anclaje a SdA y a la tradición semítico-cristiana. La distinción binaria del vídeo es presentación didáctica preparatoria — no añade modalidad nueva al catálogo. Prosa redundante",
+      "quote_evidence": "Los arquetipos oscuros deben provenir del mal o estar motivados por el mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cuatro-formas-del-mal",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Jurassic Park",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención de cierre del vídeo como 'variante moderna' del mismo tema gólem-transhumanismo. Sin análisis dedicado en este source — pendiente confirmar si tiene tratamiento sustantivo en otros vídeos del corpus. Por ahora cite-only",
+      "quote_evidence": "La referencia al mito de Jurassic Park como variante moderna del mismo tema: el ergon como aquello para lo que algo fue hecho,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-arquetipo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "sinestesia inducida por aparatos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve sobre el caso del cíborg que 'huele colores' como ejemplo de que la integración con aparatos no crea canales cognitivos nuevos. Ya cubierto extensivamente en cibernetica-biosintetica-y-transhumanismo-en-proxy ('Caso real biosintético — el cíborg con antena cerebral'). Prosa redundante",
+      "quote_evidence": "La sinestesia inducida por aparatos (oler colores) no es verdadera integración hombre-máquina,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "corrupción del héroe en niño",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención brevísima como ejemplo de corrupción no consciente de su propio mal. Sin desarrollo en este vídeo. Material relacionable con heroe-truncado y caballero-oscuro pero no aporta prosa nueva — solo confirmación lateral del marco existente",
+      "quote_evidence": "La corrupción del héroe en niño es un ejemplo de corrupción que no es consciente de su propio mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "heroe-truncado",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 1,
+    "promoted_updates": 3,
+    "thesis_candidates_count": 0,
+    "discarded_count": 15,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[el arquetipo del padre oscuro] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

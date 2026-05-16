@@ -1,0 +1,226 @@
+{
+  "video_id": "O4OkDuc3uPQ",
+  "video_title": "Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "Ridley Scott como narrador de los mitos fundamentales (constelación integrada)",
+      "canonical_guess": "ridley-scott-mitologia-integrada",
+      "page_type": "synthesis",
+      "domain_primary_guess": "arts.cinema",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 65,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Todas las historias de Scott son una sucesión enrevesada de los mismos cuatro o cinco patrones míticos,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La intención narrativa es contar el ciclo completo del dios, la diosa y los mitos fundamentales,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "En Scott, todos los mitos se mezclan en una historia que se repite: masculino y femenino perdidos en los infiernos, el golem destruyéndoles,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Scope.md §2.4.1 — tesis canal-original auto-promoción candidata. El monográfico (73 min) articula a Ridley Scott como narrador-auteur integrado de los seis mitos fundamentales (solar, lunar, mago, polar, Génesis, Apocalipsis) en una constelación coherente que estructura toda su filmografía. La tesis NO es biográfica sobre Scott (autor) ni se reduce al análisis de obras específicas (alien-saga y prometheus-2012-film ya existen como entity_work). Es la articulación canal-específica de cómo la filmografía completa de Scott opera como recapitulación cíclica de la misma genealogía mítica con cinco piezas integradas no recogidas en las páginas individuales: (a) Minotauro/Pasífae/Asterión como génesis genealógica del gólem (Minos robando el toro blanco destinado al sacrificio, Pasífae infectada de curiosidad por Poseidón engendrando a Asterión, el laberinto construido porque la humanidad no puede destruir su creación abominable); (b) lo masculino impersonal (gólem) + lo femenino impersonal (laberinto) como dispositivo cosmogónico nuevo donde el gólem habita el centro del laberinto como el mal; (c) el laberinto como metarrepresentación de la psique (teorema de Gödel aplicado: incapacidad de saber dónde estás a pesar de saber que estás dentro), con Westworld como caso paradigmático (crear gólems con un laberinto interior y la semilla de la duda); (d) el Génesis manchado como tesis cosmogónica integradora: si el Génesis inicial estuviera corrompido por un gólem (la sustancia negra de los ingenieros en Prometheus/Covenant), toda la concatenación de mitos se convierte en el Apocalipsis de la humanidad — la gotita del mal acompaña al gólem durante toda la filmografía de Scott; (e) Prometeo (ambición masculina ancestral) y Pandora (curiosidad femenina personal) como complementarios donde la vasija de Prometeo contiene líquido/espíritu/femenino y la caja de Pandora contiene aire/ideas/masculino — inversión cruzada del dipolo. Connectivity esperada: alien-saga, prometheus-2012-film, golem-arquetipo, mito-polar, mito-teseo-ariadna (Minotauro como génesis), apocalipsis-mitema, genesis-mitologico, cibernetica-biosintetica-y-transhumanismo-en-proxy (IA como Prometeo invertido)."
+    },
+    {
+      "surface_form": "Minotauro / Pasífae / Asterión como génesis genealógico del gólem",
+      "canonical_guess": "mito-teseo-ariadna",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Minos roba el toro blanco destinado al sacrificio divino: toda trampa consiste en estropear lo que debería ser para mezclarlo con el mal,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Pasífae, infectada de curiosidad por Poseidón, engendra a Asterión: la diosa queda preñada de un dios anterior corrompido,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "captured_in_promote_new",
+      "decision_reason": "El material del génesis genealógico del Minotauro (Minos robando el toro blanco destinado al sacrificio como caso paradigmático de 'toda trampa consiste en estropear lo que debería ser para mezclarlo con el mal'; Pasífae infectada de curiosidad por Poseidón engendrando a Asterión como caso de 'la diosa queda preñada de un dios anterior corrompido'; el laberinto construido porque la humanidad es incapaz de destruir su propia creación abominable) queda capturado dentro del promote_new ridley-scott-mitologia-integrada donde funciona como pieza foundational del aparato gólem/laberinto. La página mito-teseo-ariadna ya existe y cubrirá la cara heroica del mito (Teseo navegando con hilo de Ariadna); el génesis cosmogónico-genealógico queda en la página de Scott. Sin lectura previa de mito-teseo-ariadna no propongo update directo allí; marcado como medium para revisión humana."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Westworld como gólem con laberinto interior",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Westworld articulada como recapitulación de la estructura gólem+laberinto (crear gólems con un laberinto interior y la semilla de la creencia para que parezcan humanos; la forma de dar conciencia a un gólem es provocarle la duda sobre si es o no consciente). Material capturado dentro del promote_new ridley-scott-mitologia-integrada. Podría merecer entity_work si el canal la analiza monográficamente en otro vídeo; aquí queda como caso ilustrativo del aparato gólem-laberinto.",
+      "quote_evidence": "Westworld replica la estructura: crear golems con un laberinto interior y la semilla de la creencia para que parezcan humanos,",
+      "review_priority": "medium",
+      "review_priority_reason": "Westworld podría merecer entity_work si reaparece con análisis monográfico en otros vídeos del corpus.",
+      "enriches_concept": "ridley-scott-mitologia-integrada"
+    },
+    {
+      "surface_form": "laberinto como teorema de Gödel aplicado a la psique",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El laberinto como metarrepresentación de la psique (incapacidad de saber dónde estás a pesar de saber que estás dentro, equivalente al teorema de Gödel aplicado a la psique humana) queda capturado dentro del promote_new ridley-scott-mitologia-integrada como pieza estructural del marco. Articulación canal-canónica que enlaza con teoria-del-simbolo-en-proxy (autoforia/Pandora ya documentada) y conciencia-e-inteligencia-en-proxy.",
+      "quote_evidence": "El laberinto es la incapacidad de saber dónde estás a pesar de saber que estás dentro: el teorema de Gödel aplicado a la psique,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "ridley-scott-mitologia-integrada"
+    },
+    {
+      "surface_form": "hilo de Ariadna como vínculo emocional con lo eterno",
+      "reason_code": "already_captured",
+      "reason_detail": "El hilo de Ariadna como vínculo emocional con la realidad (la diosa depositaria de la esperanza concediendo el hilo para que el héroe pueda matar al Minotauro y regresar) queda capturado dentro de mito-teseo-ariadna (creada en este batch). La revelación canal-específica añadida aquí ('el viaje al centro del laberinto revela que no hubo ningún mal externo que nos manchó, sino un mal interno que despertó') extiende esa página con la lectura introspectiva del laberinto como psique.",
+      "quote_evidence": "Para matar al Minotauro, la diosa depositaria de la esperanza debe conceder un hilo: un vínculo emocional con lo eterno,",
+      "review_priority": "medium",
+      "review_priority_reason": "La revelación 'no hubo mal externo que nos manchó sino mal interno que despertó' aplicada al viaje al centro del laberinto podría enriquecer mito-teseo-ariadna con lectura previa.",
+      "enriches_concept": "mito-teseo-ariadna"
+    },
+    {
+      "surface_form": "lo masculino impersonal (gólem) + lo femenino impersonal (laberinto)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El dispositivo cosmogónico canal-específico que asigna gólem a lo masculino impersonal y laberinto a lo femenino impersonal (el gólem habita el centro del laberinto como el mal) queda capturado dentro del promote_new ridley-scott-mitologia-integrada. Material que articula la cosmología cinematográfica de Scott como sustentada por este dispositivo dual.",
+      "quote_evidence": "Lo masculino impersonal es el golem, lo femenino impersonal es el laberinto; el golem habita el centro del laberinto como el mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "ridley-scott-mitologia-integrada"
+    },
+    {
+      "surface_form": "vasija de Prometeo y caja de Pandora como dipolo cruzado",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la vasija de Prometeo (líquido/espíritu/femenino) y la caja de Pandora (aire/ideas/masculino) como dipolo cruzado complementario está plenamente articulada en golem-arquetipo (sección recién añadida 'El dipolo Prometeo / Pandora' del vídeo Mitología 101: El Gólem). Material reiterado aquí desde la perspectiva integradora de la filmografía de Scott.",
+      "quote_evidence": "La vasija de Prometeo contiene líquido, espíritu, lo femenino; la caja de Pandora contiene aire, ideas, lo masculino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-arquetipo"
+    },
+    {
+      "surface_form": "seis mitos fundamentales (clasificación canónica)",
+      "reason_code": "already_captured",
+      "reason_detail": "La enumeración canal-canónica de los seis (a veces ocho) mitos fundamentales (solar/héroe, lunar/diosa, mago, polar, Génesis, Apocalipsis) está plenamente articulada en collective-unconscious, mito-del-mago, apocalipsis-mitema (recién creado), mito-polar, mito-solar, mito-lunar, genesis-mitologico, diosa-blanca. Material reiterado en este vídeo como introducción al análisis.",
+      "quote_evidence": "Mito solar (héroe), mito lunar (diosa), mito del mago, mito polar (masculino-femenino), Génesis y Apocalipsis,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "collective-unconscious"
+    },
+    {
+      "surface_form": "mitos impropios (democracia, felicidad, IA)",
+      "reason_code": "already_captured",
+      "reason_detail": "La distinción mitos propios vs impropios con la democracia como caso paradigmático de mito impropio (provienen del inconsciente pero no describen un interior humano: son fantasías del deber ser) está plenamente articulada en mitologia-propia-impropia. La inclusión de la IA como nuevo mito impropio enlaza con cibernetica-biosintetica-y-transhumanismo-en-proxy. Material reiterado.",
+      "quote_evidence": "Mitos impropios (democracia, felicidad, IA) provienen del inconsciente pero no describen un interior humano: son fantasías del deber ser,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "esperanza como don femenino / anomalía sistémica del libre albedrío",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la esperanza como don femenino (capacidad de tener el alma en un lugar por venir, no en el aquí y ahora; estrella azul de Wendy o Pinocho; lugar solo posible para la infancia y lo femenino) y como anomalía sistémica del libre albedrío que crea los mejores sueños pero también la condena de Sísifo ya están articuladas en diosa-blanca (sección Polaris sobre las tres virtudes encadenadas gracia-belleza-esperanza), libre-albedrio-ilusion-funcional, y golem-arquetipo (sección sobre la apertura de la caja de Pandora). Material reiterado en clave de filmografía de Scott.",
+      "quote_evidence": "La esperanza es mitológicamente un don femenino: la capacidad de tener el alma en un lugar por venir, no en el aquí y ahora,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca"
+    },
+    {
+      "surface_form": "ciclo lunar en cuatro fases (doncella/consorte/madre/confrontación)",
+      "reason_code": "already_captured",
+      "reason_detail": "El ciclo lunar en sus cuatro fases (doncella cuando la luna sale, consorte cuando crece y busca héroe, madre como feminidad gestante que crea hogar, confrontación con el mal manteniéndose incólume) está plenamente articulado en mito-lunar y en tipologia-femenina-arquetipica. Material reiterado.",
+      "quote_evidence": "Doncella (luna sale), consorte (luna crece y busca un héroe), madre (feminidad gestante que crea hogar), y confrontación con el mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-lunar"
+    },
+    {
+      "surface_form": "mito polar como única promesa de cambio real",
+      "reason_code": "already_captured",
+      "reason_detail": "La tesis del mito polar como única estructura que promete cambio real (ni el camino recto del héroe ni el bucle eterno de la diosa cambian nada por sí solos; solo la complementación rompe ambos bucles y los convierte en salida ascendente al uránico; el matrimonio divino libra a lo masculino del sacrificio y a lo femenino de la esperanza) está plenamente articulada en mito-polar y hieros-gamos. Material reiterado.",
+      "quote_evidence": "Solo el mito polar promete cambio real: ni el camino recto del héroe ni el bucle eterno de la diosa cambian nada por sí solos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-polar"
+    },
+    {
+      "surface_form": "IA como Prometeo invertido / golem que se queda con el fuego",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la IA como Prometeo invertido (creamos un ser para que robe el fuego de los dioses pero podría quedarse el fuego para sí) ya está en cibernetica-biosintetica-y-transhumanismo-en-proxy (sección sobre el transhumanismo como abominación del hombre y el gólem). Material reiterado aplicado a la filmografía de Scott.",
+      "quote_evidence": "La IA como Prometeo invertido: creamos un ser para que robe el fuego de los dioses, pero podría quedarse el fuego para sí,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "Sísifo como condena cíclica de la humanidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Sísifo como cifra del ciclo prometeico (los males de Pandora han convertido al ser humano en Sísifo escalando montañas con piedras que caen justo antes de la cima; la semilla de la mala intención destruye al que viaja al centro del laberinto). Material capturado en el promote_new ridley-scott-mitologia-integrada como pieza menor del marco. Sin tratamiento monográfico de Sísifo en este vídeo.",
+      "quote_evidence": "Los males de Pandora han convertido al ser humano en Sísifo: escalar montañas con piedras que caen justo antes de la cima,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "ridley-scott-mitologia-integrada"
+    },
+    {
+      "surface_form": "cosmogonía menfita: el huevo perfecto que se rompió",
+      "reason_code": "passing_mention",
+      "reason_detail": "La cosmogonía menfita (todo salió de un huevo perfecto que se rompió) y la articulación canal-específica del Génesis con dos elementos (lo masculino como ser creado, lo femenino como lugar donde se crea) quedan absorbidas en el promote_new ridley-scott-mitologia-integrada como sustento cosmogónico del marco. Podría enriquecer genesis-mitologico con la cosmogonía menfita en barrido posterior.",
+      "quote_evidence": "La cosmogonía menfita narra que todo salió de un huevo perfecto que se rompió,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "genesis-mitologico"
+    },
+    {
+      "surface_form": "realismo cognitivo frente a metáfora en el análisis de mitos",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación metodológica del canal sobre el realismo cognitivo como exigencia de describir modelos mentales alejándose de revestimientos imaginarios (la metáfora mente-como-ordenador o espacio-como-playa es intuitiva pero contraria a la filosofía estricta) está plenamente articulada en realismo-cognitivo, materialismo-antiformalista y golem-de-cobre. Material reiterado en este vídeo como introducción metodológica al análisis arquetípico.",
+      "quote_evidence": "El realismo cognitivista exige describir modelos mentales alejándose de revestimientos imaginarios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "Disney evoca estados internos previos / identificación con personajes ficticios",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación menor sobre cómo Disney funciona (evoca estados internos previos a la experiencia externa: el niño vive el romance antes de conocerlo; si la realidad fuera la única fuente de vivencias afectivas no existiría la identificación con personajes ficticios). Material que enlaza con collective-unconscious (los arquetipos como contenidos pre-experienciales). Sin desarrollo sostenido en este vídeo.",
+      "quote_evidence": "Disney funciona porque evoca estados internos previos a la experiencia externa: el niño vive el romance antes de conocerlo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "collective-unconscious"
+    },
+    {
+      "surface_form": "curiosidad como motor verdadero frente a la esperanza",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-específica de la curiosidad como 'algo que se parece mucho a la esperanza pero no lo es: un reflejo de orientación, una necesidad de saber qué hay más allá' que impulsa a pesar del miedo y advertencias racionales contra. Material capturado dentro del promote_new ridley-scott-mitologia-integrada como pieza del análisis de Pandora.",
+      "quote_evidence": "Existe algo que se parece mucho a la esperanza pero no lo es: un reflejo de orientación, una necesidad de saber qué hay más allá,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "ridley-scott-mitologia-integrada"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 16,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Ridley Scott como narrador de los mitos fundamentales (constelación integrada)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

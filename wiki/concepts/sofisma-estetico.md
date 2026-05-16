@@ -83,6 +83,40 @@ La formulación más contundente del canal compacta el mecanismo en una serie de
 El patrón es siempre el mismo: el acto sustantivo (revolución, antirracismo) se sustituye por su estética (performance, racismo estético — agrupar y juzgar a las personas por sus categorías raciales con intención "buena"). El sofisma no es solo error individual: es un dispositivo cultural que se transmite y se inocula.
 
 
+
+## Poética vs filosofía: la operación postmoderna que sostiene el sofisma
+
+En el directo *Eva, Lucifer, Satanás y la Serpiente* (oct-2024) el canal articula el sustrato epistemológico del sofisma estético desplazándolo del plano moral-conductual a la oposición programática **poética vs filosofía** como diagnóstico de la postmodernidad:
+
+> "La poética utiliza el lenguaje para desarrollar la belleza (forma y afecto), la filosofía opera con categorías formales,"
+→ [Eva, Lucifer, Satanás y la Serpiente (38:39)](https://youtu.be/dHDv_oZODYQ?t=2319)
+
+> "La postmodernidad mezcla poética con filosofía para fingir que hace filosofía,"
+→ [Eva, Lucifer, Satanás y la Serpiente (38:39)](https://youtu.be/dHDv_oZODYQ?t=2319)
+
+La precisión añadida es disciplinar: el sofisma estético no es solo enunciación de valores sin conducta (versión moral) o jerga falsa que aparenta especialización (versión técnica) sino, en su capa más profunda, **la confusión categorial entre dos modos de discurso que tienen objetos distintos** — la poética desarrolla forma-afecto, la filosofía opera con categorías formales. Mezclar ambas permite presentar como filosofía lo que es solo poética, conservando la fuerza retórica del afecto pero apropiándose de la autoridad epistémica de la categoría formal.
+
+La misma articulación introduce la distinción rigurosa **analogía parcial vs metáfora válida**: una analogía es válida solo en aquello que comparten las estructuras (su clase de equivalencia), no en todo lo demás. El sofisma extrapola más allá de la clase de equivalencia y trata la semejanza estética o afectiva como si fuera equivalencia formal completa.
+
+### Mecanismos de poder como caso operativo del sofisma
+
+El ejemplo paradigmático que el canal desarrolla es la categoría 'mecanismos de poder' aplicada al género (y, por extensión, a cualquier otra estructura social):
+
+> "Cualquier objeto puede convertirse retóricamente en un mecanismo de poder si se categoriza en grupos con acceso desigual,"
+→ [Eva, Lucifer, Satanás y la Serpiente (55:00)](https://youtu.be/dHDv_oZODYQ?t=3300)
+
+> "Los cables del cargador pueden describirse como mecanismo de poder con la misma lógica que el género,"
+→ [Eva, Lucifer, Satanás y la Serpiente (55:00)](https://youtu.be/dHDv_oZODYQ?t=3300)
+
+El test de la falsabilidad operativa que el canal aplica: si la categoría 'mecanismo de poder' se aplica con la misma lógica a género, lápices, bolígrafos y cables de cargador, entonces no es categoría filosófica sino poética disfrazada de filosofía. La universalidad acrítica de aplicación es la marca diagnóstica — una categoría que predica de todo no predica nada distintivo. La consecuencia cultural cierra el diagnóstico:
+
+> "Estos pseudofilósofos son malcriados acostumbrados a que se tomen como válidas racionalizaciones poéticas,"
+→ [Eva, Lucifer, Satanás y la Serpiente (55:00)](https://youtu.be/dHDv_oZODYQ?t=3300)
+
+La articulación encaja con la lectura de [[woke-narrativa-postmoderna-moral]] y refuerza el diagnóstico previo de la página: el dispositivo cultural que el sofisma inocula opera porque el plano de la racionalización poética ha sustituido al plano del argumento filosófico en la educación pública contemporánea.
+
+
+
 ## Feminismo como caso paradigmático: identificación proyectiva como motor del sofisma colectivo
 
 En el directo *Tontas en Potencia* (sept-2024) el canal aplica el aparato del sofisma estético al feminismo contemporáneo como caso paradigmático y articula el motor psíquico que sostiene la operación a escala colectiva: la identificación proyectiva como mecanismo de defensa que fabrica enemigos exteriores.
@@ -146,6 +180,8 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
@@ -157,4 +193,5 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
 - **Primer stream del año** — chunks: [7:50](https://youtu.be/kEgjSN3uKy4?t=470)
 - **Tontas en Potencia** — chunks: [1:13:51](https://youtu.be/1cKAgkEEbMA?t=4431)
+- **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [34:38](https://youtu.be/dHDv_oZODYQ?t=2078) · [38:39](https://youtu.be/dHDv_oZODYQ?t=2319)
 

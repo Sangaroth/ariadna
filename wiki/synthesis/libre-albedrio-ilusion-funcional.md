@@ -202,6 +202,7 @@ La pieza cierra la articulación humano/máquina del marco con asimetría tempor
 
 
 
+
 - **Lunes sin política** — chunks: [1:42:11](https://youtu.be/r1SmCsNmLh0?t=6131) · [2:00:50](https://youtu.be/r1SmCsNmLh0?t=7250) · [2:11:01](https://youtu.be/r1SmCsNmLh0?t=7861)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [7:30](https://youtu.be/hx9creRpdnY?t=450)
 - **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:32:59](https://youtu.be/ZlO5o786u90?t=5579)
@@ -209,4 +210,5 @@ La pieza cierra la articulación humano/máquina del marco con asimetría tempor
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [19:17](https://youtu.be/L4ayDmaUO9Y?t=1157)
 - **Matrix II y III** — chunks: [1:04:44](https://youtu.be/tkVwAclFrsI?t=3884) · [2:06:31](https://youtu.be/tkVwAclFrsI?t=7591)
 - **Un Gólem llamado Prometeo** — chunks: [1:40:07](https://youtu.be/lk3DKsIagAE?t=6007)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [43:28](https://youtu.be/O4OkDuc3uPQ?t=2608)
 

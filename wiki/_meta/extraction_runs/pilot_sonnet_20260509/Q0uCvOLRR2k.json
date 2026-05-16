@@ -1,0 +1,175 @@
+{
+  "video_id": "Q0uCvOLRR2k",
+  "video_title": "Podcast Puppetland: El Principito",
+  "playlist": "podcast-puppetland",
+  "category": "análisis de obra",
+  "entities": [
+    {
+      "surface_form": "El Principito (Saint-Exupéry)",
+      "canonical_guess": "el-principito-libro",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Es la manifestación más temprana del posmodernismo que recuerda el autor,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El protagonista es claramente el autor, la obra es la viva imagen del complejo de Peter Pan,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La palabra que mejor designa este entretenimiento es \"aberrante\","
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Scope.md §2.3 — obra canónica de la cultura occidental con análisis monográfico dedicado del canal (37 min, podcast Puppetland episodio sobre la obra) que la trata como caso paradigmático foundational de varias categorías canal-canónicas: (a) la manifestación más temprana del posmodernismo según el speaker — destrucción/perversión de la estructura mitológica que se queda en lo superficial; (b) caso paradigmático del 'pseudo-héroe posmoderno' que padece el mundo en lugar de atravesarlo (paciente, no actor — figura emparentada con camino-victima); (c) caso del autor proyectando su circunstancia subjetiva como si fuera universal (mecanismo de identificación proyectiva del entretenimiento posmoderno); (d) los encuentros del Principito como catálogo de estereotipos vacíos disfrazados de arquetipos (el rey como tirano por simplismo, el contador de estrellas y el burócrata como críticas sin criterio, la serpiente que confunde mal y muerte, las flores como hipérbole presuntuosa); (e) el zorro como modelo de relación patológica (domesticación con dependencia absoluta presentada como modelo de relación humana); (f) 'lo esencial es invisible a los ojos' como falacia que confunde tiempo dedicado con importancia; (g) el desierto/pozo como falacia de la vida como sufrimiento compensado; (h) Principito como caso terminal del **complejo de Peter Pan** (no es un niño, es un ingenuo: 'el ingenuo conoce la existencia de las cosas pero ignora su importancia, mientras que los niños reconocen lo importante por intuición'). Connectivity esperada: mito-moderno-en-proxy (caso de mito moderno fallido), autotipo (estereotipos vacíos disfrazados de arquetipos), mitologia-propia-impropia (subjetivo disfrazado de universal), sindrome-wendy / peter-pan-1953-film (complejo Peter Pan / ingenuidad vs inocencia), sindrome-del-nino-masculino, sofisma-estetico (drama subjetivo como identificación proyectiva como mecanismo cultural transmitido), camino-victima (héroe que padece sin actuar), harry-potter-saga (otro caso de obra autotípica)."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "posmodernismo como destrucción de la estructura mitológica",
+      "reason_code": "already_captured",
+      "reason_detail": "La caracterización canal-canónica del posmodernismo como destrucción/perversión de la estructura mitológica (se queda en lo superficial, importa más cómo suena una palabra que su significado o implicaciones formales, filosofía relativista, mira la emoción más que el pensamiento) está plenamente articulada en woke-narrativa-postmoderna-moral, sofisma-estetico (sección 'Poética vs filosofía: la operación postmoderna que sostiene el sofisma') y mito-moderno-en-proxy. Material reiterado aplicado específicamente a El Principito.",
+      "quote_evidence": "La cultura posmoderna destruye o pervierte la estructura mitológica y se queda en lo superficial,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sofisma-estetico"
+    },
+    {
+      "surface_form": "pseudo-héroe posmoderno como paciente no actor",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación del pseudo-héroe posmoderno como ser que padece el mundo en lugar de atravesarlo (no actor sino paciente; no hay un héroe atravesando el mundo sino un mundo que atraviesa al héroe) está plenamente articulada en camino-victima (inversión arquetípica del viaje del héroe donde el protagonista es especial por nacimiento y los acontecimientos son injusticias que padece). Material reiterado para clasificar al Principito como caso paradigmático del camino víctima.",
+      "quote_evidence": "El pseudo-héroe posmoderno en lugar de hacer cosas las padece: no es actor sino paciente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "camino-victima"
+    },
+    {
+      "surface_form": "drama subjetivo como entretenimiento por identificación proyectiva",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación canal-canónica del drama subjetivo como motor del entretenimiento posmoderno vía identificación proyectiva (proyectar el ombligo en pantalla gigante; consumir entretenimiento que no enseña nada es subcultura, no cultura, porque no es solución a nada) está plenamente articulada en sofisma-estetico (sección sobre identificación proyectiva como motor del sofisma colectivo) y consumismo-critica. Material reiterado en clave de análisis del consumo cultural posmoderno.",
+      "quote_evidence": "El drama subjetivo nos permite proyectar nuestro ombligo en una pantalla gigante mediante identificación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sofisma-estetico"
+    },
+    {
+      "surface_form": "ingenuidad vs inocencia (Principito como Peter Pan / complejo Peter Pan)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La distinción canal-canónica ingenuidad (conocer la existencia de las cosas pero ignorar su importancia) vs inocencia infantil (los niños reconocen lo importante por intuición), con el Principito caracterizado como ingenuo no niño y la obra como viva imagen del complejo de Peter Pan, queda capturada dentro del promote_new el-principito-libro. La distinción enlaza con perdida-inocencia, sindrome-wendy y peter-pan-1953-film ya en wiki.",
+      "quote_evidence": "La infancia es desconocimiento, inocencia e inexperiencia; el Principito no es ninguna de esas cosas, es ingenuo,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción ingenuidad-vs-inocencia es articulación canal-canónica con potencial para enriquecer perdida-inocencia o sindrome-wendy con criterio diagnóstico operativo.",
+      "enriches_concept": "perdida-inocencia"
+    },
+    {
+      "surface_form": "estereotipos vacíos disfrazados de arquetipos (encuentros del Principito)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "El catálogo de los encuentros del Principito (rey como tirano por simplismo, contador de estrellas, burócrata, serpiente que confunde mal y muerte, flores como hipérbole presuntuosa) como caso paradigmático del mecanismo posmoderno de presentar estereotipos vacíos disfrazados de arquetipos queda capturado dentro del promote_new el-principito-libro. Enlaza con autotipo (degradación terminal del arquetipo) que ya documenta el mecanismo en Harry Potter, Star Wars, etc.",
+      "quote_evidence": "Los personajes que encuentra pretenden ser manifestaciones de la adultez, pero son clichés y estereotipos, no arquetipos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autotipo"
+    },
+    {
+      "surface_form": "el zorro como modelo de relación patológica (domesticación como dependencia)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación del zorro como modelo de relación patológica (solo entiende dos formas de ser — lo salvaje/ajeno o la domesticación con absoluta dependencia — lo que describe es una adicción o relación patológica) queda capturada dentro del promote_new el-principito-libro. La precisión 'en la vida real ocurre lo contrario: quienes han vivido relaciones de dependencia o toxicidad jamás quieren volver ahí' enlaza con herida-narcisista-en-proxy y crisis-del-amor-pareja-y-maternidad-en-proxy.",
+      "quote_evidence": "Lo que describe es una adicción o relación patológica; las relaciones humanas con estas dinámicas son terribles,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-principito-libro"
+    },
+    {
+      "surface_form": "'lo esencial es invisible a los ojos' como falacia del tiempo como medida",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La crítica canal-específica al aforismo más célebre del libro como falacia que confunde tiempo dedicado con importancia (forma más subjetiva y parcial de determinar la importancia de algo, además incompatible con la propia visión tóxica de los vínculos afectivos que presenta el libro). Material capturado dentro del promote_new el-principito-libro como pieza diagnóstica de la incoherencia interna de la obra.",
+      "quote_evidence": "Valorar lo importante por el tiempo que le hemos dedicado es la forma más subjetiva y parcial de determinar la importancia de algo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-principito-libro"
+    },
+    {
+      "surface_form": "desierto/pozo como falacia de la vida como sufrimiento compensado",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La crítica al mensaje de cierre del libro (el desierto es bello porque esconde un pozo, posible metáfora de que la vida tiene satisfactorios recovecos) como falacia de la vida como sufrimiento compensado: 'la vida adulta no puede emprenderse con la expectativa de que el sufrimiento vaya a ser compensado; la vida a veces es sufrimiento, otras aventura, otras aburrimiento, y no se compensan unas partes con otras'. Material capturado dentro del promote_new el-principito-libro como tesis canal-canónica sobre la madurez frente al pseudo-mito consolatorio.",
+      "quote_evidence": "La vida adulta no puede emprenderse con la expectativa de que el sufrimiento vaya a ser compensado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-principito-libro"
+    },
+    {
+      "surface_form": "metáfora fallida: reducir el objeto en vez de iluminarlo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación canal-específica sobre la metáfora fallida (en lugar de hacer resaltar una parte del objeto, lo reduce; si hacemos metáfora sobre objeto que no entendemos, nadie podrá comprender). Podría enriquecer pensamiento-poetico o sofisma-estetico en barrido posterior; aquí queda como inciso conceptual aplicado al diagnóstico de El Principito.",
+      "quote_evidence": "A veces en el proceso poético se reduce el objeto en lugar de hacer resaltar una parte de él,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "pensamiento-poetico"
+    },
+    {
+      "surface_form": "cultura vs subcultura (calidad por reflexión que aporta)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación introductoria del canal: la cultura se manifiesta en producciones artísticas que recogen formas de sentir y pensar; calidad determinada por reflexión que aporta; consumir entretenimiento que no enseña es subcultura no cultura porque no es solución a nada. Articulación menor que enlaza con consumismo-critica y mito-moderno-en-proxy; sin desarrollo sostenido aquí.",
+      "quote_evidence": "Consumir entretenimiento que no enseña nada es subcultura, no cultura, porque no es solución a nada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "consumismo-critica"
+    },
+    {
+      "surface_form": "mitos como recapitulación transcultural de la experiencia vital",
+      "reason_code": "already_captured",
+      "reason_detail": "La caracterización canal-canónica de los mitos como 'enormes metáforas que recapitulan elementos aparejados a la vida humana desde el nacimiento hasta la muerte; expresión consciente de elementos mayormente inconscientes; transculturales porque es la naturaleza del hombre lo que empuja al mito a existir' está plenamente articulada en collective-unconscious, mito-polar y mitologia-propia-impropia. Material reiterado como introducción al diagnóstico.",
+      "quote_evidence": "Los mitos son enormes metáforas que recapitulan elementos aparejados a la vida humana desde el nacimiento hasta la muerte,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "collective-unconscious"
+    },
+    {
+      "surface_form": "la serpiente del Principito mezcla mal cristiano con poder de matar",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Análisis específico del episodio de la serpiente: mezcla el arquetipo cristiano del mal con la capacidad de matar como si la muerte fuera un castigo, cuando en el arquetipo clásico la muerte suele ser sabiduría o transición no condicionada a la existencia correcta; 'perdona' al Principito por ser puro confundiendo ingenuidad con pureza. Material capturado dentro del promote_new el-principito-libro como pieza del análisis caso a caso.",
+      "quote_evidence": "Mezcla el arquetipo cristiano del mal con la capacidad de matar, como si la muerte fuera un castigo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-principito-libro"
+    },
+    {
+      "surface_form": "primera vs segunda lectura del Principito (ausencia de mensaje)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Testimonio autobiográfico del speaker (leyó el libro a los ocho años y le pareció anecdótico, no le descubrió nada ni le resultó emocionante; la segunda vez se lo presentaron como crítica brutal al mundo de los adultos). Material capturado dentro del promote_new el-principito-libro como apertura del análisis crítico.",
+      "quote_evidence": "Lo leyó con ocho años y le pareció anecdótico, no le descubrió nada ni le resultó emocionante,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-principito-libro"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[El Principito (Saint-Exupéry)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

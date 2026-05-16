@@ -126,5 +126,8 @@ El canal señala además mecanismos arquetípicos específicos a esta obra, ause
 ## Citations
 
 
+
+
 - **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [0:08](https://youtu.be/0EeqbwZJUQw?t=8) · [3:13](https://youtu.be/0EeqbwZJUQw?t=193) · [10:24](https://youtu.be/0EeqbwZJUQw?t=624) · [1:25:36](https://youtu.be/0EeqbwZJUQw?t=5136)
+- **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [1:36:02](https://youtu.be/dHDv_oZODYQ?t=5762)
 

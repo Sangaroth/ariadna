@@ -257,6 +257,8 @@ En Alien: Covenant, David esparce la sustancia negra sobre los ingenieros y expe
 
 
 
+
 - **Un Gólem llamado Prometeo.** — chunks: [0:39](https://youtu.be/Uykl0PLRRlo?t=39) · [21:12](https://youtu.be/Uykl0PLRRlo?t=1272) · [1:19:53](https://youtu.be/Uykl0PLRRlo?t=4793)
 - **Un Gólem llamado Prometeo** — chunks: [15:51](https://youtu.be/lk3DKsIagAE?t=951) · [26:32](https://youtu.be/lk3DKsIagAE?t=1592) · [59:32](https://youtu.be/lk3DKsIagAE?t=3572) · [1:04:08](https://youtu.be/lk3DKsIagAE?t=3848) · [1:24:34](https://youtu.be/lk3DKsIagAE?t=5074) · [1:31:39](https://youtu.be/lk3DKsIagAE?t=5499) · [1:34:41](https://youtu.be/lk3DKsIagAE?t=5681) · [1:45:12](https://youtu.be/lk3DKsIagAE?t=6312)
+- **Taxonomía de las criaturas malignas** — chunks: [35:06](https://youtu.be/rG_et1_G7Hs?t=2106)
 

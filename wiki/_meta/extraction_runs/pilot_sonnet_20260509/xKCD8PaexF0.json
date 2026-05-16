@@ -1,0 +1,299 @@
+{
+  "video_id": "xKCD8PaexF0",
+  "video_title": "Lilith: La Iconotropía.",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "principios formales de la tipología femenina (acumulables, no combinables) + asimetría afectiva del mal femenino",
+      "canonical_guess": "tipologia-femenina-arquetipica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Las cinco formas del mal son acumulables: cada estadio contiene los anteriores conforme avanza la edad de lo femenino,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Antropológicamente, la perversión de la gracia femenina es más terrible que la de la masculina,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página existente articula los tres aspectos sanos y las cinco corrupciones con sus correspondencias, pero NO formaliza dos principios metafísico-categoriales que el monográfico precisa: (a) acumulación temporal de las corrupciones por edad de lo femenino (cada estadio contiene los anteriores), (b) incombinabilidad de los aspectos como individuaciones con contorno propio (no se pueden combinar dos para formar uno nuevo). Tampoco contiene la articulación afectivo-perceptiva de la asimetría del mal femenino (que la perversión de la gracia aterroriza más antropológicamente que la masculina), complementaria a la asimetría espacial documentada en diosa-blanca. Pieza nueva",
+      "quote_evidence": "No se pueden combinar aspectos formando nuevos aspectos; son individuaciones con contorno propio,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "tipologia-femenina-arquetipica",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "no degradación de un solo aspecto sino síntesis de las cuatro anteriores.",
+      "section_target": null,
+      "content_proposed": "\n\n## Cinco formas acumulables, no combinables: principios formales de la tipología\n\nEn el monográfico *Lilith: La Iconotropía* (ene-2026) el canal precisa dos principios formales que la enumeración de las cinco corrupciones tenía implícitos: la **acumulación temporal** y la **incombinabilidad categorial**.\n\n> \"Las cinco formas del mal son acumulables: cada estadio contiene los anteriores conforme avanza la edad de lo femenino,\"\n→ [Lilith: La Iconotropía. (11:13)](https://youtu.be/xKCD8PaexF0?t=673)\n\n> \"No se pueden combinar aspectos formando nuevos aspectos; son individuaciones con contorno propio,\"\n→ [Lilith: La Iconotropía. (11:13)](https://youtu.be/xKCD8PaexF0?t=673)\n\nPrimera articulación: la **acumulación temporal**. Las cinco corrupciones no son categorías paralelas sino una serie ordenada por edad del sujeto femenino — la Wendy es figura juvenil (gracia degradada en infancia eterna), la ninfa y la lámia son figuras de juventud-adultez erótica (corrupción venusiana en sus dos modos), Medea es figura adulta-materna (corrupción del aspecto Hera), y la bruja es figura terminal que contiene a las cuatro anteriores. La progresión no es opcional sino estructural — una Medea ha atravesado Wendy y ninfa-lámia antes de cristalizar como madre oscura; una bruja contiene los cuatro estadios previos. Por eso la bruja es figura terminal: no porque sea peor moralmente, sino porque ha completado el recorrido degradado.\n\nSegunda articulación: la **incombinabilidad categorial**. Cada aspecto (sano o corrupto) opera como individuación con contorno propio — no se pueden combinar dos aspectos para formar uno nuevo arquetipo intermedio. Una ninfa-Medea NO es categoría nueva; es ninfa que se actualiza temporalmente en Medea conservando la huella ninfa en su nueva forma. La consecuencia operativa para diagnóstico de obra concreta: las figuras femeninas mixtas no son tipologías nuevas a inventariar sino casos de sujetos transitando entre estadios o atrapados entre dos sin haber consumado la transición.\n\n## La asimetría afectiva del mal femenino: por qué la perversión de la gracia aterroriza más\n\n> \"Antropológicamente, la perversión de la gracia femenina es más terrible que la de la masculina,\"\n→ [Lilith: La Iconotropía. (25:22)](https://youtu.be/xKCD8PaexF0?t=1522)\n\n> \"Que haya un hombre malo es más común, pero algo femenino malo resulta mucho más terrible,\"\n→ [Lilith: La Iconotropía. (25:22)](https://youtu.be/xKCD8PaexF0?t=1522)\n\nLa pieza añade una articulación afectivo-perceptiva que las secciones anteriores tenían implícita: la asimetría del horror humano ante la perversión del polo femenino frente a la del masculino. La sección 'Asimetría del peor mal' de [[diosa-blanca]] articula esta asimetría en plano espacial-funcional (peor mal interno es femenino, peor mal externo es masculino); aquí el canal añade el plano perceptivo — el sujeto humano EXPERIMENTA con mayor terror la corrupción femenina que la masculina, no porque sea más grave moralmente sino porque opera contra el sustrato afectivo-relacional donde la gracia debería operar. La consecuencia para la lectura cultural de Lilith y figuras análogas: la fabricación moderna del mito de la mujer rebelde-demoníaca no es accidente filológico sino respuesta cultural a la demanda afectiva profunda — la psique colectiva necesita figuras de lo femenino-malo precisamente porque el horror que genera es estructuralmente más intenso que el del masculino-malo (ver [[lilit-mito]] sobre la fabricación moderna del constructo). El hueco que la modernidad intenta llenar con Lilit es genuino (la psique demanda prototipia para lo más terrible); el error es llenarlo con material fabricado en lugar de operar con la tipología arquetípica disponible.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "diosa-blanca"
+      ],
+      "citations_added": [
+        {
+          "video_id": "xKCD8PaexF0",
+          "timestamp_seconds": 673,
+          "cite_markdown": "[Lilith: La Iconotropía. (11:13)](https://youtu.be/xKCD8PaexF0?t=673)"
+        },
+        {
+          "video_id": "xKCD8PaexF0",
+          "timestamp_seconds": 1522,
+          "cite_markdown": "[Lilith: La Iconotropía. (25:22)](https://youtu.be/xKCD8PaexF0?t=1522)"
+        }
+      ],
+      "rationale": "La página articula la enumeración de las cinco corrupciones con la observación de que la bruja contiene a las cuatro anteriores como 'síntesis', pero NO formaliza los dos principios metafísico-categoriales que el monográfico precisa: acumulación temporal por edad y incombinabilidad de aspectos como individuaciones con contorno propio. Tampoco contiene la articulación afectivo-perceptiva de la asimetría (mal femenino aterroriza más antropológicamente). Las tres piezas son enriquecimiento estructural genuino. insert_after_passage tras el cierre de 'Las cinco formas de corrupción' permite continuidad temática natural, articulando primero los principios formales del sistema y después la motivación afectiva subyacente a la demanda cultural de figuras como Lilit",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Lilit como primera esposa de Adán: mito sin fuente canónica",
+      "reason_code": "already_captured",
+      "reason_detail": "La página lilit-mito ya contiene exhaustivamente esta tesis con citas literales del propio vídeo xKCD8PaexF0 (ver sección 'La ausencia de prototipia genuina'). Prosa redundante. La página fue pre-poblada con material de este vídeo antes de la sesión actual",
+      "quote_evidence": "No existe en ninguna literatura canónica un mito propio de una primera esposa de Adán que se rebelara y fuera desterrada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tres aspectos fundamentales de lo femenino (Atenea/Venus/Hera)",
+      "reason_code": "already_captured",
+      "reason_detail": "La tipología gracia/consorte/madre encarnada en Atenea/Venus/Hera está documentada literalmente en tipologia-femenina-arquetipica con citas del directo fuente. Este vídeo lo reformula brevemente. Prosa redundante",
+      "quote_evidence": "Lo femenino se divide en tres conjuntos de aspectos fundamentales: gracia, consorte y madre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La gracia (Atenea), princesas Disney como Ateneas, viaje del héroe femenino",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de las princesas Disney como Ateneas cuya apoteosis sigue el camino del héroe (fragmento del mito lunar como ascender como consorte del héroe) está documentada en tipologia-femenina-arquetipica y diosa-blanca con citas del directo fuente. Prosa redundante",
+      "quote_evidence": "Las princesas Disney son prácticamente todas Ateneas cuya apoteosis sigue el camino del héroe,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La consorte (Venus) y la sexualidad femenina objetal",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de las Venus como prototipos de la sexualidad femenina objetal (objeto de belleza, posesión y deseo, ebullición erótica) está documentada en tipologia-femenina-arquetipica. Prosa redundante",
+      "quote_evidence": "Las Venus son prototipos que manifiestan la sexualidad femenina objetal: objetos de belleza, posesión y deseo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La madre (Hera) y la plenitud de la creación femenina",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de Hera como matriarca que ha superado las fases anteriores y como plenitud de la creación femenina está documentada en tipologia-femenina-arquetipica. Prosa redundante",
+      "quote_evidence": "Lo máximo que puede crear lo femenino como femenino es la adquisición de la serenidad y plenitud de ser madre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La Bella Durmiente como mito de las virtudes femeninas indestructibles",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de La Bella Durmiente como mito de los tres dones futuros, las virtudes que no pertenecen a la mujer individual sino a la naturaleza, y la animación suspendida como interrupción del recorrido está documentada en tipologia-femenina-arquetipica con citas literales del directo fuente. Prosa redundante. La articulación temporal del recorrido del héroe femenino ya está capturada",
+      "quote_evidence": "A la princesa se le conceden tres dones futuros que representan las tres virtudes de la feminidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "las cinco formas del mal femenino (Wendy/ninfa/lamia/Medea/bruja)",
+      "reason_code": "already_captured",
+      "reason_detail": "La enumeración de las cinco corrupciones con sus correspondencias a los aspectos sanos está documentada exhaustivamente en tipologia-femenina-arquetipica (sección 'Las cinco formas de corrupción') con citas del directo fuente. Prosa redundante",
+      "quote_evidence": "Wendy: la gracia se vuelve ingenuidad, la doncella queda sin camino del héroe por soñar en una infancia eterna,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la bruja como quintaesencia del mal femenino",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la bruja como figura terminal que ha acumulado todas las experiencias malignas está documentada en tipologia-femenina-arquetipica como 'síntesis de las cuatro anteriores'. Los principios formales que el vídeo añade (acumulables, incombinables) se capturan en el pending_update emitido",
+      "quote_evidence": "La bruja ha adquirido todas las experiencias malignas posibles y en lugar de resarcirse dando vida vive en el lado del mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lilit como demonio femenino sexual: iconotropía paralela a Lucifer/Milton",
+      "reason_code": "already_captured",
+      "reason_detail": "La equiparación de Lilit con Lucifer como casos paralelos de iconotropía está documentada exhaustivamente en lilit-mito (sección 'Inversión copernicana e identificación proyectiva') y en iconotropias-de-la-rabia-narcisista. Prosa redundante. La página lilit-mito ya cita literalmente este timestamp",
+      "quote_evidence": "Esa estructura contiene varios iconos y prototipos mezclados mediante iconotropía, igual que se hizo con Lucifer y el Paraíso Perdido de Milton,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "rastreo cronológico de Lilit: supuesta Lilit acadia/mesopotámica",
+      "reason_code": "already_captured",
+      "reason_detail": "La tesis de que no existe literatura mesopotámica con Lilit como personaje con historia propia está documentada en lilit-mito. Prosa redundante",
+      "quote_evidence": "No existe literatura mesopotámica ni premesopotámica que hable de Lilit como personaje con historia propia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lilit en la Epopeya de Gilgamés (joven del árbol)",
+      "reason_code": "already_captured",
+      "reason_detail": "La exégesis filológica del pasaje de Gilgamés (árbol con serpiente en raíces, pájaro en copa, joven Lilit dentro; Gilgamés corta la serpiente y Lilit huye al desierto) está documentada literalmente en lilit-mito con citas exactas de este timestamp del vídeo. La página fue pre-poblada con material de este vídeo. Prosa redundante",
+      "quote_evidence": "En el texto, un árbol tiene una serpiente en sus raíces, un pájaro en su copa y una \"joven Lilit\" en su interior,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lilit en los pergaminos del Mar Muerto (Qumrán 510-511, Cánticos del Sabio)",
+      "reason_code": "already_captured",
+      "reason_detail": "La precisión filológica sobre los manuscritos Qumrán 510 y 511 con Lilit en los Cánticos del Sabio como fórmula de exorcismo está documentada literalmente en lilit-mito con citas exactas de este timestamp",
+      "quote_evidence": "En los manuscritos de Qumrán 510 y 511 aparece Lilit en los \"Cánticos del Sabio\" como fórmula de exorcismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lilit en Isaías 34:14 (análisis de traducciones / lamia como serpiente devoradora)",
+      "reason_code": "already_captured",
+      "reason_detail": "La exégesis de Isaías 34:14 con análisis de traducciones (solo dos nombran 'Lilit', otras: monstruo nocturno, lamia, lechuza, fantasma) y la precisión sobre lamia como ser serpentino devorador (no seductor) está documentada literalmente en lilit-mito con citas de este timestamp",
+      "quote_evidence": "Una lamia es un ser femenino con forma de serpiente que devora niños y hombres, no intrínsecamente hermoso ni seductor,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Prototipia vs estereotipia (criterio diagnóstico)",
+      "reason_code": "already_captured",
+      "reason_detail": "La distinción prototipia (personaje reconocible con atributos de historia) vs estereotipia (despojado de atributos afectivos o contexto) está documentada literalmente en lilit-mito (sección 'Prototipia vs estereotipia: el criterio diagnóstico de la fabricación') con citas exactas de este timestamp. Incluye además la articulación complementaria con la cadena prototipia → estereotipia → iconotropía → autotipo",
+      "quote_evidence": "Prototipia es un personaje reconocible con atributos de historia: sabes quién es, qué le pasó, qué carácter tiene,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lilit en la Biblia: ninguna primera mujer de Adán",
+      "reason_code": "already_captured",
+      "reason_detail": "La tesis de que ninguna traducción de la Biblia presenta a Lilit como primera mujer de Adán y que Eva no se somete (Adán y Eva se complementan) está documentada literalmente en lilit-mito con cita de este timestamp",
+      "quote_evidence": "Eva no se somete a nada: Adán y Eva se complementan, no hay subordinación de la mujer al varón,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Génesis 1 y 2 como dos emanaciones, no dos mujeres",
+      "reason_code": "already_captured",
+      "reason_detail": "La lectura emanatista del doble relato del Génesis (primera emanación = creación de la humanidad varón/hembra; segunda emanación = individuación en seres con voluntad complementarios; Eva como parte afectiva del ser humano) está documentada literalmente en lilit-mito (sección 'Génesis 1 y 2 como dos emanaciones, no dos mujeres') con citas de este timestamp",
+      "quote_evidence": "Eva no es una mujer literal sino la parte afectiva del ser humano: la que conecta con los instintos,",
+      "review_priority": "medium",
+      "review_priority_reason": "La lectura emanatista del Génesis con Eva como 'parte afectiva del ser humano' podría merecer también cite-only en genesis-mitologico, que articula el Génesis como categoría mitológica pero no contiene la lectura específica de Eva como parte afectiva",
+      "enriches_concept": "genesis-mitologico",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "El Alfabeto de Ben Sira: Shrek del siglo X",
+      "reason_code": "already_captured",
+      "reason_detail": "La caracterización del Alfabeto de Ben Sira como texto satírico medieval (no canónico) y como 'el Shrek del siglo X' (Yahvé como padre tirano, Lilit como doncella rebelde, Adán como héroe paleto) está documentada en lilit-mito y en iconotropias-de-la-rabia-narcisista. Prosa redundante",
+      "quote_evidence": "Reduce a Yahvé al padre tirano, a Lilit a la doncella rebelde y a Adán al héroe paleto: \"es el Shrek del siglo X\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Iconotropía renacentista: Madame Blavatsky y la teosofía",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de Madame Blavatsky y la teosofía como vector institucional de consolidación de la iconotropía está documentada literalmente en lilit-mito (sección 'Madame Blavatsky y la teosofía como vector de consolidación') con cita de este timestamp",
+      "quote_evidence": "Madame Blavatsky y la teosofía consolidan la idea renacentista de que el intelecto lo puede todo: exactamente de lo que el mito del mago advertía,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "inversión copernicana del mito / sendero de la mano izquierda / rebeldía adolescente",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la inversión copernicana del mito (poner al hombre en el centro = sendero de la mano izquierda), la crítica al 'el rebelde siempre mola' como posición adolescente, y la distinción rebeldía genuina vs iconotrópica está documentada literalmente en lilit-mito (sección 'Inversión copernicana e identificación proyectiva como motor cultural') con citas de este timestamp",
+      "quote_evidence": "Cuando el hombre se pone en el centro en lugar de Dios se produce una inversión del mito que es el sendero de la mano izquierda,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Lilit como Lucifer: misma operación de iconotropía (Inanna/Istar como triple diosa)",
+      "reason_code": "already_captured",
+      "reason_detail": "La equiparación de Lilit y Lucifer como casos paralelos de iconotropía moderna sobre material de Inanna/Istar como triple diosa con aspectos oscuros está documentada literalmente en lilit-mito con citas de este timestamp. La identificación proyectiva como motor cultural también está articulada",
+      "quote_evidence": "Con Lilit se hizo lo mismo que con Lucifer: se tomaron historias de Inanna/Istar como triple diosa con aspectos oscuros,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "lilits como fórmulas genéricas sin prototipia (búhos, chacales, espíritus bastardos)",
+      "reason_code": "already_captured",
+      "reason_detail": "La enumeración de las lilits como demonios genéricos junto a búhos, chacales y espíritus bastardos está documentada en lilit-mito con cita literal de este timestamp. La precisión sobre cómo las generalizaciones de cosas malignas nocturnas no son personajes con historia está articulada",
+      "quote_evidence": "Las lilits son fórmulas genéricas sin prototipia: generalizaciones de cosas malignas nocturnas, no personajes con historia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lilit-mito",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la serpiente en textos mesopotámicos como mal/caos (vs dragón como mal conocido)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Breve mención de la serpiente en textos mesopotámicos como representación del mal/caos desconocido, frente al dragón como mal conocido. Tangencial al análisis principal de Lilit. Posible relevancia para dragon-arquetipo si se desarrollara, pero aquí es solo mención adjacente al análisis de Gilgamés",
+      "quote_evidence": "La serpiente en textos mesopotámicos representa el mal o el caos: mal desconocido y mal conocido (dragón),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dragon-arquetipo",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 22,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -197,6 +197,7 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029)
 - **Conspiración** — chunks: [12:26](https://youtu.be/K97ZzKXY0oI?t=746)
 - **What is a Charo?** — chunks: [1:54:36](https://youtu.be/qMfv4dX09Lg?t=6876)
@@ -212,4 +213,5 @@ La sombra opera al **nivel arquetipo**: no es un personaje concreto sino una est
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [22:04](https://youtu.be/iPqOn-ynSlE?t=1324)
 - **Un Gólem llamado Prometeo.** — chunks: [2:06:40](https://youtu.be/Uykl0PLRRlo?t=7600)
 - **Un Gólem llamado Prometeo** — chunks: [1:15:20](https://youtu.be/lk3DKsIagAE?t=4520) · [2:06:24](https://youtu.be/lk3DKsIagAE?t=7584)
+- **¿Qué es la magia?** — chunks: [1:56:39](https://youtu.be/AMXVKxN0Ccw?t=6999)
 

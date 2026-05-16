@@ -244,6 +244,17 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -282,4 +293,13 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Matrix y el camino del héroe.** — chunks: [1:12:37](https://youtu.be/kF5KHE_fF7g?t=4357)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [58:44](https://youtu.be/nw7fSEAJr-U?t=3524)
 - **El mito de Dioniso** — chunks: [2:35](https://youtu.be/ttnUgH3jou8?t=155) · [52:40](https://youtu.be/ttnUgH3jou8?t=3160)
+- **El mito del Gólem: Transhumanismo** — chunks: [24:58](https://youtu.be/hjc9L2_kkOo?t=1498) · [36:09](https://youtu.be/hjc9L2_kkOo?t=2169)
+- **MItología 101: El Gólem** — chunks: [48:50](https://youtu.be/IG3dkNBX9uU?t=2930)
+- **Mitología 101: Teseo y Ariadna** — chunks: [1:20:16](https://youtu.be/b03AszdViNw?t=4816)
+- **Orfeo y Eurídice** — chunks: [54:40](https://youtu.be/1D0u-tK4v8c?t=3280)
+- **¿Qué es la magia?** — chunks: [40:02](https://youtu.be/AMXVKxN0Ccw?t=2402)
+- **Taxonomía de las criaturas malignas** — chunks: [9:07](https://youtu.be/rG_et1_G7Hs?t=547)
+- **"But why?" ¿Porqué un pingüino?** — chunks: [25:02](https://youtu.be/By5DFt-iGUI?t=1502) · [37:25](https://youtu.be/By5DFt-iGUI?t=2245) · [44:04](https://youtu.be/By5DFt-iGUI?t=2644) · [51:08](https://youtu.be/By5DFt-iGUI?t=3068) · [55:47](https://youtu.be/By5DFt-iGUI?t=3347)
+- **Cerebros rosas y azules** — chunks: [1:46:48](https://youtu.be/x7A9nfoRfu0?t=6408)
+- **De Platón A The Matrix** — chunks: [17:45](https://youtu.be/zr_ZKX60N54?t=1065)
 

@@ -159,6 +159,33 @@ La secuencia que el canal articula: Sacerdotisa (Cenicienta tras la muerte del p
 La pieza completa la triada de casos canónicos del recorrido de los 22 Arcanos: Man of Steel articula el ciclo solar masculino directo, El Gran Lebowski el ciclo invertido de anti-héroe, Cenicienta el ciclo femenino-lunar. La diferencia operativa con los dos casos previos es estructural: la secuencia de Cenicienta no recorre los Arcanos como **viaje del sujeto** (Superman crece y madura, El Nota fracasa progresivamente) sino como **fases del ciclo lunar diegético** — los arcanos no marcan transiciones del yo de Cenicienta (que opera por modalidades cíclicas más que por individuación) sino momentos del ciclo arquetípico que la película codifica con simbología tarot-canónica. La estructura confirma la tesis ya articulada en secciones anteriores: los 22 Arcanos son mapa fijo de la trayectoria arquetípica que cualquier mito recapitula, sea cual sea la posición del sujeto recorriéndolo (héroe solar, anti-héroe degradado, diosa lunar). La triada cierra el cuadro de modalidades estructurales del recorrido — directa solar / invertida anti-heroica / femenino-cíclica — y deja abierto el caso de la modalidad polar plena (donde los arcanos articulan simultáneamente solar y lunar como dipolo, candidato natural sería [[lady-halcon-1985-film|Lady Halcón]] cuyo análisis ya cita el tarot como hilo estructural).
 
 
+
+## La Torre como carta del Apocalipsis y los Cuatro Jinetes
+
+El monográfico *Los Apocalipsis (Parte I)* (mar-2025) articula la lectura foundational de la Torre que las secuencias de obra previas (Man of Steel, El Gran Lebowski, Cenicienta) presuponían sin nombrar. La Torre (carta 16) es **la representación arquetípica del Apocalipsis** en el dispositivo del tarot — la vivencia cotidiana de la pérdida de control súbita cuando lo construido se derrumba:
+
+> "La Torre del Tarot (carta 16) representa esa vivencia apocalíptica: del orden al desorden, el caos se apodera,"
+→ [Los Apocalipsis Parte I (56:03)](https://youtu.be/lLRGemLUCtY?t=3363)
+
+> "El Apocalipsis en el día a día es la pérdida de control súbita cuando lo construido se derrumba,"
+→ [Los Apocalipsis Parte I (56:03)](https://youtu.be/lLRGemLUCtY?t=3363)
+
+La pieza añade dos precisiones operativas. Primera: distinción con la **Rueda de la Fortuna** (carta 10), confundida popularmente con la Torre como cifra del cambio drástico. La distinción es estructural — la Rueda representa el **samsara** ('como es arriba es abajo'), la repetición cíclica del mismo movimiento sin transformación, contraparte del Mago; la Torre representa la **ruptura irreversible**, el evento apocalíptico que termina con un orden y abre otro:
+
+> "La Rueda de la Fortuna representa el samsara ("como es arriba es abajo"), la repetición cíclica, contraparte del Mago,"
+→ [Los Apocalipsis Parte I (58:35)](https://youtu.be/lLRGemLUCtY?t=3515)
+
+Segunda: la **secuencia 13-16 como los Cuatro Jinetes del Apocalipsis** — Muerte (13), Templanza (14), Diablo (15), Torre (16) operan en bloque como apocalipsis cuatripartito dentro del recorrido de los Arcanos Mayores:
+
+> "Del arcano 13 al 16 cabalgan los Cuatro Jinetes: esas cartas son un apocalipsis,"
+→ [Los Apocalipsis Parte I (58:35)](https://youtu.be/lLRGemLUCtY?t=3515)
+
+La precisión es operativa para las secuencias de obra ya documentadas: cuando Man of Steel articula la Torre como 'Juicio Final destruye su mundo', o cuando Cenicienta tiene la Torre como 'el mundo de Cenicienta derrumbándose tras la fragmentación del vestido', el arcano no opera aisladamente sino como cierre del bloque apocalíptico iniciado en Muerte (transformación radical), atravesando Templanza (la pausa antes de la catástrofe) y Diablo (la fuerza desencadenada). La lectura habilita el aparato para identificar la modalidad apocalíptica en cualquier obra que recapitule esos cuatro arcanos consecutivos — distintivamente de las secuencias donde un único arcano-shock aparece sin la cadena anterior.
+
+La Torre enlaza estructuralmente con el mitema [[apocalipsis-mitema]] del que constituye su versión psíquica cotidiana: el sujeto experimenta apocalipsis personales (ruina, muerte, caída en desgracia, derrumbe) en cada Torre que atraviesa, y la psique organiza esa vivencia con la misma gramática arquetípica con que organiza el Apocalipsis cosmogónico — instinto de entropía universal que opera porque toda construcción humana se sabe condenada a derrumbarse.
+
+
+
 > "Cada sueño marca la transición entre fases del monomito: vientre de la ballena, iniciación y regreso,
 
 
@@ -241,6 +268,12 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 
 
 
+
+
+
+
+
+
 - **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
@@ -272,4 +305,8 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [7:19](https://youtu.be/0EeqbwZJUQw?t=439)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:30:18](https://youtu.be/iPqOn-ynSlE?t=5418)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [48:08](https://youtu.be/JKoWJmSR6VY?t=2888)
+- **Los Apocalipsis. (Parte I)** — chunks: [56:03](https://youtu.be/lLRGemLUCtY?t=3363) · [58:35](https://youtu.be/lLRGemLUCtY?t=3515) · [1:05:43](https://youtu.be/lLRGemLUCtY?t=3943)
+- **Mitología 101: Perséfone** — chunks: [8:05](https://youtu.be/VDOUrpcC4fU?t=485) · [27:47](https://youtu.be/VDOUrpcC4fU?t=1667) · [51:41](https://youtu.be/VDOUrpcC4fU?t=3101) · [1:09:27](https://youtu.be/VDOUrpcC4fU?t=4167)
+- **Orfeo y Eurídice** — chunks: [1:03:37](https://youtu.be/1D0u-tK4v8c?t=3817)
+- **De Platón A The Matrix** — chunks: [10:39](https://youtu.be/zr_ZKX60N54?t=639)
 

@@ -156,5 +156,12 @@ La película es leída como caso complejo de [[individuation]] en su variante in
 ## Citations
 
 
+
+
+
+
 - **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [14:15](https://youtu.be/agh46Snf5YI?t=855) · [19:18](https://youtu.be/agh46Snf5YI?t=1158) · [24:21](https://youtu.be/agh46Snf5YI?t=1461) · [25:21](https://youtu.be/agh46Snf5YI?t=1521) · [28:56](https://youtu.be/agh46Snf5YI?t=1736) · [31:27](https://youtu.be/agh46Snf5YI?t=1887) · [32:58](https://youtu.be/agh46Snf5YI?t=1978) · [41:37](https://youtu.be/agh46Snf5YI?t=2497) · [43:08](https://youtu.be/agh46Snf5YI?t=2588) · [54:46](https://youtu.be/agh46Snf5YI?t=3286) · [55:46](https://youtu.be/agh46Snf5YI?t=3346) · [1:18:32](https://youtu.be/agh46Snf5YI?t=4712) · [1:26:41](https://youtu.be/agh46Snf5YI?t=5201) · [1:31:13](https://youtu.be/agh46Snf5YI?t=5473) · [1:33:46](https://youtu.be/agh46Snf5YI?t=5626) · [1:40:20](https://youtu.be/agh46Snf5YI?t=6020) · [1:44:22](https://youtu.be/agh46Snf5YI?t=6262) · [1:46:24](https://youtu.be/agh46Snf5YI?t=6384) · [2:05:04](https://youtu.be/agh46Snf5YI?t=7504)
+- **MItología 101: El Gólem** — chunks: [1:46:32](https://youtu.be/IG3dkNBX9uU?t=6392)
+- **Mitología 101: Teseo y Ariadna** — chunks: [1:24:17](https://youtu.be/b03AszdViNw?t=5057)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [24:20](https://youtu.be/O4OkDuc3uPQ?t=1460)
 

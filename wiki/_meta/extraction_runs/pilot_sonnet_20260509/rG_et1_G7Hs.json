@@ -1,0 +1,184 @@
+{
+  "video_id": "rG_et1_G7Hs",
+  "video_title": "Taxonomía de las criaturas malignas",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "taxonomía de las criaturas malignas (4 ejes: lunar/prometeico × retornado/bestial)",
+      "canonical_guess": "taxonomia-criaturas-malignas",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 90,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las criaturas malignas deben ser impersonales, no arquetipos personales como la bruja o el brujo,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Si se requiere de tu permiso (invocación, pacto) es retornado; si se requiere de tu esfuerzo (trabajo, alquimia) es prometeico,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Bestial pertenece a lo telúrico y superficial: animales, bestias, fuerzas de la naturaleza en este plano,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Scope.md §2.1 — taxonomía canal-canónica original con framework_internal_structure muy articulado: dos ejes ortogonales (lunar/prometeico × retornado/bestial) producen cuatro categorías cruzadas con casos paradigmáticos del corpus cultural en cada cuadrante. La página será sistematización foundational del análisis arquetípico de criaturas del mal en cualquier obra. Piezas nucleares no recogidas en otras páginas: (a) criterios delimitadores (criaturas malignas son IMPERSONALES con conversión + doble naturaleza, NO arquetipos personales como bruja=diosa-truncada/brujo=héroe-truncado, NO divinidades como Lucifer/Satanás/hadas/djinns); (b) las tres propiedades del mal prototípico (insidioso = avanza como plaga; apocalíptico = conduce a cataclismo sin retorno; maligno = lucha externa por dominio territorial es internamente lucha por dominar el interior); (c) los cuatro ejes operativos: Bestial (telúrico, fuerzas de este plano), Retornado (sobrenatural mercurial, más allá), Prometeico (mal creado/fabricado/invocado), Lunar (mal ancestral que siempre existió); (d) regla diagnóstica operativa: retornado requiere TU PERMISO (invocación, pacto), bestial requiere TU ESFUERZO (trabajo, alquimia); criterio alquímico vs invocatorio para distinguir solar y lunar; (e) catálogo completo con clasificaciones canal-canónicas: Hombre lobo = bestial lunar (contagio matrilineal chamánico); Jekyll/Hyde = bestial prometeico (elixir fáustico); HAL 9000 = prometeico bestial 100% (gólem tecnológico); Zombi = prometeico retornado; Drácula = lunar retornado (no-muerto ancestral); Fantasma = lunar retornado; Xenomorfo = prometeico bestial (creación humana biológica); Aliens genéricos = lunar bestial; Dorian Gray = prometeico retornado (pacto voluntario, no-muerto cuyo cuadro absorbe lo bestial); Demonio = lunar retornado (no se puede crear, solo invocar — Lucifer como excepción prometeica); Freddy Krueger = prometeico retornado; Egregor maligno (Candyman, Jeepers Creepers) = prometeico retornado si voluntad humana lo crea desde cero desde el más allá; (f) tesis Drácula-Dorian Gray como mitos gemelos del súcubo (Stoker desde el lado del mal, Wilde desde el lado humano invertido — biografía paralela); (g) regla por defecto para antagonistas humanos (Michael Myers, Hannibal Lecter): NO entran en clasificación por ser héroes truncados personales, no criaturas impersonales del mal; (h) lo científico es SIEMPRE bestial, nunca retornado, aunque el mismo hecho real (rabia → vampiro medieval / zombi vírico moderno) cambie de categoría según la época. Connectivity esperada: cuatro-formas-del-mal (parallel typology moral), mal-sin-forma, demonios-en-proxy (lunar retornado), dragon-arquetipo, horror-cosmico, heroe-truncado (brujo), tipologia-femenina-arquetipica (bruja), golem-arquetipo (xenomorfo/HAL 9000), prometheus-2012-film (xenomorfo como prometeico bestial), alien-saga, uranico-telurico-cetonico (cosmología vertical)."
+    }
+  ],
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "bruja como diosa truncada / brujo como héroe truncado",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación canal-canónica de bruja como diosa truncada está plenamente recogida en tipologia-femenina-arquetipica (sección sobre la bruja real como figura terminal del eje corrupto). Brujo como héroe truncado está articulado en heroe-truncado. Este vídeo invoca la distinción para excluir ambas figuras de la taxonomía de criaturas malignas impersonales por ser arquetipos personales. Material reiterado para contraste delimitador, sin capa nueva.",
+      "quote_evidence": "La bruja es una diosa truncada y el brujo un héroe truncado, por lo que no califican como criaturas del mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tipologia-femenina-arquetipica"
+    },
+    {
+      "surface_form": "Lucifer y Satanás excluidos por ser antagonistas divinos",
+      "reason_code": "already_captured",
+      "reason_detail": "La distinción Lucifer (antagonista divino) y Satanás (antagonista de Cristo) como figuras mitológicas mayores NO criaturas fantásticas queda articulada en lucifer-satanas-serpiente-en-proxy (recién creado) y satanismo-en-proxy. Este vídeo invoca la distinción para excluirlas de la taxonomía. La precisión adicional 'Lucifer como única excepción prometeica del demonio (intentó alcanzar lo que no merecía, como Prometeo)' queda absorbida dentro del promote_new taxonomia-criaturas-malignas.",
+      "quote_evidence": "Lucifer es la única excepción prometeica: intentó alcanzar lo que no merecía, como Prometeo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "lucifer-satanas-serpiente-en-proxy"
+    },
+    {
+      "surface_form": "muerte como arquetipo profundo del mal / dragón=caos",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de muerte como primera señal del gran mal (sinónimo de lo desconocido) y la equivalencia simbólica dragón=caos están plenamente recogidas en dragon-arquetipo y cuatro-formas-del-mal. Material reiterado como prólogo del análisis taxonómico.",
+      "quote_evidence": "Dragón y caos son equivalentes simbólicos en las representaciones del mal,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "dragon-arquetipo"
+    },
+    {
+      "surface_form": "demonio genérico vs Demonio antagonista divino",
+      "reason_code": "already_captured",
+      "reason_detail": "La distinción demonio genérico (ser cetónico de los infiernos, ambiente arcano-mágico) vs Demonio antagonista (Lucifer/Satanás como figuras mitológicas mayores) y la equivalencia demonio≈dragón en estructura arquetípica están articuladas en demonios-en-proxy. Material reiterado para sustentar la clasificación 'demonio = lunar retornado' del nuevo aparato.",
+      "quote_evidence": "Un demonio genérico es un ser cetónico proveniente de los infiernos, con ambiente arcano-mágico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "demonios-en-proxy"
+    },
+    {
+      "surface_form": "Drácula y Dorian Gray como mitos gemelos del súcubo (biografía paralela Stoker/Wilde)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La articulación canal-específica de Drácula y Dorian Gray como mitos gemelos del súcubo (Bram Stoker y Oscar Wilde se conocían, estudiaron juntos, enamorados de la misma mujer, murieron el mismo año de sífilis; Stoker construye el mito desde el lado del mal, Wilde desde el lado humano invertido; Dorian Gray emparentado con el Capitán Garfio por el tic-tac del tiempo) queda capturada dentro del promote_new taxonomia-criaturas-malignas como pieza ilustrativa del cuadrante prometeico retornado. Material que enlaza con dracula-1992-film (ya en wiki) y podría enriquecer esa página o justificar entity_work para Dorian Gray si reaparece sustantivamente.",
+      "quote_evidence": "Stoker creó el personaje desde el lado del mal, Wilde desde el lado humano invertido,",
+      "review_priority": "medium",
+      "review_priority_reason": "La biografía paralela Stoker/Wilde como mitos gemelos del súcubo es articulación canal-específica con potencial editorial — podría enriquecer dracula-1992-film en barrido posterior con lectura previa, o justificar entity_work para Dorian Gray si reaparece.",
+      "enriches_concept": "dracula-1992-film"
+    },
+    {
+      "surface_form": "egregor maligno (Candyman, Jeepers Creepers) como prometeico retornado por voluntad humana",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Egregor maligno como categoría operativa para criaturas creadas desde cero por voluntad humana desde el más allá (Candyman, Jeepers Creepers). Material capturado dentro del promote_new taxonomia-criaturas-malignas como caso límite del cuadrante prometeico retornado donde la voluntad humana funda la entidad sin pacto ancestral.",
+      "quote_evidence": "Un egregor maligno (Candyman, Jeepers Creepers) puede ser prometeico retornado si la voluntad humana lo crea desde cero desde el más allá,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-criaturas-malignas"
+    },
+    {
+      "surface_form": "antagonistas humanos (Michael Myers, Hannibal Lecter) como héroes truncados",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Regla operativa del canal: los antagonistas humanos sin paso por la muerte, pacto diabólico o conexión arcana son siempre prometeicos bestiales por defecto, PERO no entran propiamente en la taxonomía de criaturas malignas impersonales porque son héroes truncados con historia personal (Michael Myers, Hannibal Lecter, asesinos en serie). Material capturado dentro del promote_new taxonomia-criaturas-malignas como criterio delimitador. Enlaza con heroe-truncado.",
+      "quote_evidence": "Estas criaturas son prototipos del mal impersonal; los antagonistas son prototipos de hombres malos, no del mal en sí,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "heroe-truncado"
+    },
+    {
+      "surface_form": "identificación proyectiva como darte permiso para ser malo (Jekyll)",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la identificación proyectiva como mecanismo psíquico (darte permiso para ser malo; inventar una excusa para sacar tu fuerza interior, ejemplificado por Jekyll y el político) está plenamente articulada en sofisma-estetico (sección 'Feminismo como caso paradigmático: identificación proyectiva como motor del sofisma colectivo') y en lilit-mito. Material reiterado aplicado al cuadrante prometeico bestial del nuevo aparato.",
+      "quote_evidence": "La identificación proyectiva es darte permiso para ser malo: Jekyll inventa una excusa para sacar su fuerza interior,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sofisma-estetico"
+    },
+    {
+      "surface_form": "rabia como sustrato real del mito del vampiro",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La enfermedad de la rabia (coma letárgico + fotosensibilidad + hipersexualidad + hiperfuerza) como sustrato real que alimentó el mito del vampiro en su lectura medieval (retornado) — el mismo hecho real recibe lectura zombi vírico en clave moderna (bestial). Material capturado dentro del promote_new taxonomia-criaturas-malignas como ilustración del criterio 'lo científico es siempre bestial, nunca retornado' y de cómo la misma realidad biológica cambia de categoría según la cosmología cultural de la época.",
+      "quote_evidence": "La enfermedad de la rabia alimentó el mito del vampiro: coma letárgico, fotosensibilidad, hipersexualidad, hiperfuerza,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-criaturas-malignas"
+    },
+    {
+      "surface_form": "xenomorfo como nieto de la humanidad (Dios → David → xenomorfo)",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la cadena fractal humano-androide-xenomorfo (el hombre es Dios, David el androide es Adán, el xenomorfo es el hijo de la tecnología explotada; sustancia mutágena manipulada por androide creación humana) ya está plenamente recogida en alien-saga (sección 'La cadena fractal de creación y devoración') y en golem-arquetipo (sección sobre el dipolo Prometeo/Pandora con xenomorfo como gólem terminal del catálogo). Material reiterado para clasificar al xenomorfo como prometeico bestial.",
+      "quote_evidence": "El hombre es Dios, David (el androide) es Adán, y el xenomorfo es el hijo de la tecnología explotada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "alien-saga"
+    },
+    {
+      "surface_form": "función de las criaturas malignas en los mitos (personificar lo desconocido)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Cierre del directo articulando la función operativa de las criaturas malignas: prototipos impersonales del mal que permiten proyectar procesos psíquicos internos (personifican lo desconocido, el mal y a veces el caos). Material capturado como cierre del promote_new taxonomia-criaturas-malignas.",
+      "quote_evidence": "Son prototipos impersonales del mal que permiten proyectar procesos psíquicos internos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-criaturas-malignas"
+    },
+    {
+      "surface_form": "alquimista maligno como prometeico / criterio alquímico vs invocatorio",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación del criterio diagnóstico canal-canónico para clasificar la magia y por extensión a sus practicantes: si la magia es alquímica (diseñas, creas, transformas materia) es prometeica; si canalizas poderes ancestrales heredados (invocación, ritual transmitido) es lunar. El alquimista maligno y el brujo siempre son prometeicos; la bruja renuncia a lo civilizatorio para vivir en su feminidad maligna. Material absorbido en el promote_new taxonomia-criaturas-malignas como pieza diagnóstica.",
+      "quote_evidence": "Si la magia es alquímica (diseñas, creas, transformas) es prometeica; si canalizas poderes ancestrales es lunar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "magia-postmoderna-en-proxy"
+    },
+    {
+      "surface_form": "tres propiedades del mal prototípico: insidioso/apocalíptico/maligno",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "La triada de propiedades del mal prototípico canal-canónica (insidioso = avanza como plaga; apocalíptico = conduce a cataclismo sin retorno; maligno = lucha externa por dominio territorial que internamente es lucha por dominar el interior) queda capturada dentro del promote_new taxonomia-criaturas-malignas como pieza foundational del marco. Articulación nueva no recogida en cuatro-formas-del-mal ni mal-sin-forma.",
+      "quote_evidence": "Lo insidioso significa un mal que avanza como plaga y debe ser detenido antes de que se extienda,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-criaturas-malignas"
+    },
+    {
+      "surface_form": "el primer mal es el caos / Apocalipsis como vuelta al caos",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación del mal primigenio como caos y el mal apocalíptico como destrucción total o vuelta al caos ya está plenamente articulada en apocalipsis-mitema (recién creado), dragon-arquetipo y genesis-mitologico. Material reiterado como apertura cosmológica del análisis taxonómico.",
+      "quote_evidence": "El mal primigenio es el caos, el mal apocalíptico es la destrucción total o vuelta al caos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "apocalipsis-mitema"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 14,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[taxonomía de las criaturas malignas (4 ejes: lunar/prometeico × retornado/bestial)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

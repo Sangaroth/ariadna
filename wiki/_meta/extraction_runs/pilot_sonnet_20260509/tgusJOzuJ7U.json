@@ -1,0 +1,239 @@
+{
+  "video_id": "tgusJOzuJ7U",
+  "video_title": "La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "tres respuestas religiosas al mito del héroe (catolicismo / Islam / zen)",
+      "canonical_guess": "teologia-catolica-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El catolicismo no es sumisión a Cristo ni al Papa, sino acompañamiento e imitación,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La respuesta del budismo zen al mito del héroe es \"no hay camino\": no intervenir, hacer el vacío,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página existente articula catolicismo vs islam en plano cognitivo (filosófico vs poético) pero NO contiene: (a) las tres respuestas estructuralmente distintas al mito del héroe (Islam=sumisión, cat=acompañamiento, zen=no-camino), (b) la cualificación del contemplativismo puro como error y NO pecado, (c) la isla de los suricatos de La vida de Pi como cifra del error contemplativo. Pieza nueva que complementa el aparato canalizar/catalizar con el flanco soteriológico-arquetípico",
+      "quote_evidence": "La respuesta católica al mito del héroe es exactamente la contraria: hacer, dar la vida por el prójimo,"
+    },
+    {
+      "surface_form": "María como mujer real y \"ocurrir\" como pasivo-femenino",
+      "canonical_guess": "virgen-maria",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El verbo \"ocurrir\" es pasivo-femenino: María no ejecuta la encarnación, sino que la alberga,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página existente articula a María como mujer real con gracia intacta y la necesidad teológica de la encarnación de mujer (argumento del gólem) pero NO contiene la articulación gramatical-arquetípica del verbo 'ocurrir' como pasivo-femenino: el sujeto no ejecuta la encarnación sino que la alberga. Pieza nueva que enlaza con la modalidad lingüística femenina (significado puro vs significante articulado) ya documentada en diosa-blanca y precisa por qué la Asunción opera sin muerte (la diosa no replica el descenso, lo alberga)",
+      "quote_evidence": "El culmen de lo femenino en el catolicismo es una mujer real, no una diosa hecha mujer; Dios eligió a una persona física para que ocurriera en ella la transición de Dios a Dios-hombre,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "teologia-catolica-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "no por sustitución de la noesis por adoración identitaria, sino por sustitución de la intercesión por administración coactiva.",
+      "section_target": null,
+      "content_proposed": "\n\n## Tres respuestas religiosas al mito del héroe: sumisión, acompañamiento, no-camino\n\nEn el reprise *La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas* (ene-2026) el canal articula la asimetría operativa que la sección 'Catolicismo filosófico vs islam poético' dejaba en plano cognitivo: las tres tradiciones dan respuestas estructuralmente distintas al mismo mitema heroico, y la diferencia opera en el modo del sujeto ante el camino del héroe.\n\n> \"En el Islam se obedece a un hombre (Mahoma) a través de cuyas exigencias se obedece a Dios; Islam significa \\\"sumisión\\\",\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (20:43)](https://youtu.be/tgusJOzuJ7U?t=1243)\n\n> \"El catolicismo no es sumisión a Cristo ni al Papa, sino acompañamiento e imitación,\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (20:43)](https://youtu.be/tgusJOzuJ7U?t=1243)\n\n> \"La respuesta del budismo zen al mito del héroe es \\\"no hay camino\\\": no intervenir, hacer el vacío,\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (21:45)](https://youtu.be/tgusJOzuJ7U?t=1305)\n\n> \"La respuesta católica al mito del héroe es exactamente la contraria: hacer, dar la vida por el prójimo,\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (21:45)](https://youtu.be/tgusJOzuJ7U?t=1305)\n\nLa pieza articula tres modos estructuralmente distintos en que una tradición religiosa responde al mitema heroico:\n\n1. **Islam — SUMISIÓN**: el sujeto obedece a un mediador humano (Mahoma) a través de cuyas exigencias se obedece a Dios. La etimología del término ('Islam' = sumisión) cifra la operación. La relación con lo trascendente es indirecta y vertical — el sujeto no imita al héroe, lo obedece.\n2. **Catolicismo — ACOMPAÑAMIENTO E IMITACIÓN**: el sujeto no se somete a Cristo ni al Papa sino que ACOMPAÑA a Cristo en el camino y lo IMITA. La relación con lo trascendente es horizontal-participativa — el sujeto recorre el mismo camino que el héroe, no obedece sus mandatos. Esta articulación cierra el aparato canalizar/catalizar de la página: el sacerdote canaliza precisamente porque opera dentro del régimen de acompañamiento, no de mando, y el sujeto católico imita el camino heroico en lugar de someterse al mediador.\n3. **Budismo zen — NO-CAMINO**: el sujeto NO interviene, hace el vacío, no actúa. La respuesta es estructuralmente la opuesta a la católica — donde el catolicismo prescribe hacer-dar-la-vida-por-el-prójimo, el zen prescribe no-hacer-vaciar-el-yo.\n\n### El error contemplativo vs el pecado: distinción categorial\n\n> \"La opción contemplativa pura (no hacer, no intervenir) se considera desde el catolicismo un error, no un pecado, ilustrado con la isla de los suricatos de *La vida de Pi*,\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (21:45)](https://youtu.be/tgusJOzuJ7U?t=1305)\n\nLa distinción **error / pecado** es operativa para la cualificación del marco moral del canal y enlaza con el aparato pecaminal-soteriológico ya documentado: el pecado requiere voluntad sobre algo conocido como malo (ver sección 'Aparato PECAMINAL-SOTERIOLÓGICO'); el error es desajuste cognitivo-funcional que NO involucra necesariamente voluntad ni daño moral atribuible. La opción contemplativa pura del zen es leída como camino que produce iatrogenia estructural — la psique se atrofia por inacción sostenida — sin que ello convierta a quien lo recorre en agente del mal. La isla de los suricatos en *La vida de Pi* opera como cifra cinematográfica del error: paraíso aparente que canibaliza al sujeto por desactivación de la acción heroica. La pieza añade así un tercer modo de fracaso de la categoría sagrada que el aparato de la página no recogía — no por sustitución de la noesis por adoración identitaria (sacrilegio progresista), ni por sustitución de la intercesión por administración coactiva (confusión religión-política), sino por **sustitución del acompañamiento del héroe por la abstención contemplativa pura**.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "tgusJOzuJ7U",
+          "timestamp_seconds": 1243,
+          "cite_markdown": "[La Virgen, el mito Lunar y la Diosa Blanca. (20:43)](https://youtu.be/tgusJOzuJ7U?t=1243)"
+        },
+        {
+          "video_id": "tgusJOzuJ7U",
+          "timestamp_seconds": 1305,
+          "cite_markdown": "[La Virgen, el mito Lunar y la Diosa Blanca. (21:45)](https://youtu.be/tgusJOzuJ7U?t=1305)"
+        }
+      ],
+      "rationale": "La página articula catolicismo vs islam en plano cognitivo (filosófico vs poético) y política/religión como dos tecnologías sociales distintas, pero NO contiene la tipología de tres respuestas religiosas al mito heroico (sumisión / acompañamiento / no-camino) ni la distinción operativa error-contemplativo vs pecado. La pieza añade el flanco soteriológico-arquetípico que complementa el aparato canalizar/catalizar ya documentado. insert_after_passage tras el cierre de 'Política y religión' permite continuidad temática con la nueva tipología comparativa",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "virgen-maria",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Para que Dios fuera hombre real tenía que nacer de una mujer; si hubiera nacido de otro modo habría sido un golem o una trampa",
+      "section_target": null,
+      "content_proposed": "\n\n### \"Ocurrir\" como pasivo-femenino: la encarnación que se alberga, no que se ejecuta\n\nEn el reprise *La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas* (ene-2026) el canal precisa la dimensión gramatical-arquetípica del verbo que articula la encarnación. María no EJECUTA la encarnación, la ALBERGA — el verbo 'ocurrir' opera estructuralmente como pasivo-femenino.\n\n> \"Dios eligió a una persona física para que ocurriera en ella la transición de Dios a Dios-hombre,\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (10:06)](https://youtu.be/tgusJOzuJ7U?t=606)\n\n> \"El verbo \\\"ocurrir\\\" es pasivo-femenino: María no ejecuta la encarnación, sino que la alberga,\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (10:06)](https://youtu.be/tgusJOzuJ7U?t=606)\n\n> \"En todos los mitos lunares la diosa alberga al héroe y luego va a buscarlo a los infiernos; María cumple esto acompañando a Cristo hasta la cruz sin necesidad de morir,\"\n→ [La Virgen, el mito Lunar y la Diosa Blanca. (10:06)](https://youtu.be/tgusJOzuJ7U?t=606)\n\nLa pieza añade dos articulaciones operativas. Primera: la **estructura gramatical del fíat mariano** ('hágase en mí según tu palabra') opera como verbo de la modalidad lingüística femenina articulada en [[diosa-blanca]] sección 'El lenguaje de la diosa: significado puro frente a significante articulado' — significado puro vivencial que el sujeto alberga, no significante articulado que el sujeto ejecuta. La encarnación es el tipo de evento que SOLO PUEDE OCURRIR EN una mujer real, no producirse POR ella — el sujeto femenino es el SITIO donde el evento se realiza, no el agente que lo realiza.\n\nSegunda: la estructura mítico-lunar de albergar-al-héroe-y-buscarlo-en-los-infiernos se cumple en María por **acompañamiento hasta la cruz sin morir**. El descenso a los infiernos lo realiza Cristo; María lo acompaña sin necesidad de morir ni resucitar porque su función arquetípica es albergar el evento, no replicarlo. Esto explica estructuralmente por qué la Asunción opera como ascenso directo (sin muerte intermedia documentada en los evangelios canónicos): el ciclo lunar no requiere que la diosa muera para cumplirse, requiere que albergue al héroe en su descenso y que ascienda al concluir el ciclo. La asimetría es operativa para distinguir la modalidad lunar femenina de la modalidad solar masculina del [[mito-solar]] — el héroe solar muere y resucita; la diosa lunar alberga, acompaña y asciende.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "tgusJOzuJ7U",
+          "timestamp_seconds": 606,
+          "cite_markdown": "[La Virgen, el mito Lunar y la Diosa Blanca. (10:06)](https://youtu.be/tgusJOzuJ7U?t=606)"
+        }
+      ],
+      "rationale": "La página existente articula a María como mujer real con gracia intacta y la necesidad teológica del nacimiento de mujer (argumento del gólem) pero NO contiene la articulación gramatical-arquetípica del verbo 'ocurrir' como pasivo-femenino, ni la asimetría operativa entre albergar (modalidad lunar femenina) y replicar (modalidad solar masculina) que explica estructuralmente por qué la Asunción opera sin muerte intermedia. La pieza enlaza con la modalidad lingüística femenina ya documentada en diosa-blanca y cierra el flanco operativo del ciclo lunar mariano. insert_after_passage tras el cierre de la sección 'El arquetipo encarnado: mujer real, no diosa' permite continuidad temática",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "los cinco mitemas (Génesis, Apocalipsis, héroe, diosa, mago)",
+      "reason_code": "already_captured",
+      "reason_detail": "La enumeración de los cinco mitemas está documentada literalmente en diosa-blanca y virgen-maria con cita del vídeo fuente C5q89bw1G9E. Este vídeo lo repite con la misma articulación. Cite-only suficiente",
+      "quote_evidence": "Los grandes mitemas (Génesis, Apocalipsis, héroe, diosa, mago) no ofrecen respuestas sino que contienen experiencias humanas universales de tipo afectivo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "afecto como mecanismo biológico previo a la emoción",
+      "reason_code": "passing_mention",
+      "reason_detail": "El vídeo articula una definición clínica precisa: 'un afecto es el mecanismo biológico previo a la emoción que convierte algo en importante para el organismo'. La página teoria-de-las-emociones-en-proxy articula la teoría afectiva del canal pero la formulación literal 'mecanismo biológico previo a la emoción' es articulación particularmente sharp que merece entrar al índice de citas — sin embargo no añade material conceptual nuevo que justifique prosa, ya que la página articula la base biológica de los afectos extensamente",
+      "quote_evidence": "Un afecto es el mecanismo biológico previo a la emoción que convierte algo en importante para el organismo,",
+      "review_priority": "medium",
+      "review_priority_reason": "La formulación literal 'mecanismo biológico previo a la emoción' es articulación particularmente sharp del marco afectivo del canal — merece cita en teoria-de-las-emociones-en-proxy para retrieval indirecto",
+      "enriches_concept": "teoria-de-las-emociones-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la diosa blanca como arquetipo sin forma (gracia, belleza, esperanza)",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de la diosa blanca como arquetipo trascendental (no prototipo) con las tres virtudes luminosas (gracia, belleza, esperanza) está documentada exhaustivamente en diosa-blanca con citas literales del vídeo fuente C5q89bw1G9E. Este vídeo lo reformula brevemente. Prosa redundante. Cite-only",
+      "quote_evidence": "La diosa blanca no es un prototipo de consorte ideal; es un arquetipo que reúne todas las virtudes luminosas de lo femenino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "las tres Marías al pie de la cruz como triple diosa",
+      "reason_code": "already_captured",
+      "reason_detail": "La identificación de las tres Marías al pie de la cruz (Virgen María / María Magdalena / María de Cleofas) con las tres virtudes (gracia / belleza / esperanza) y las tres formas de la feminidad (virgen / consorte / madre) está documentada literalmente en virgen-maria y en diosa-blanca con citas del vídeo fuente. Prosa redundante. Cite-only",
+      "quote_evidence": "Al pie de la cruz había tres mujeres: la Virgen María, María Magdalena y María de Cleofas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "virgen-maria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la Asunción de María como cumplimiento del último requisito mítico",
+      "reason_code": "already_captured",
+      "reason_detail": "El dogma de la Asunción como cumplimiento del ciclo arquetípico del mito lunar (la diosa que no muere sino que asciende) está documentado en virgen-maria y diosa-blanca con citas del vídeo fuente C5q89bw1G9E. Prosa redundante. Cite-only",
+      "quote_evidence": "El dogma católico afirma que María no murió sino que ascendió a los cielos directamente, a diferencia de Cristo que descendió a los infiernos antes de resucitar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "virgen-maria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "los evangelios como respuesta perfecta a los mitos incluso sin fe",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de los evangelios sinópticos y de Juan como respuesta conjunta al mito del héroe y al mito de la diosa blanca está documentada en virgen-maria sección 'María en el mapa de los mitemas' con cita literal del vídeo fuente. Prosa redundante",
+      "quote_evidence": "Los evangelios sinópticos y el de Juan funcionan como respuesta conjunta al mito del héroe y al mito de la diosa blanca,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "virgen-maria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "La vida de Pi (isla de los suricatos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención del film como cifra cinematográfica del error contemplativo puro (paraíso aparente que canibaliza al sujeto). Sin análisis arquetípico dedicado del film en este vídeo — solo referencia ilustrativa. Captura completa en el pending_update a teologia-catolica-en-proxy. La obra podría merecer entity_work propio si recibe análisis sustantivo en otro vídeo",
+      "quote_evidence": "La opción contemplativa pura (no hacer, no intervenir) se considera desde el catolicismo un error, no un pecado, ilustrado con la isla de los suricatos de *La vida de Pi*,",
+      "review_priority": "medium",
+      "review_priority_reason": "La vida de Pi como obra cinematográfica con la isla de los suricatos como cifra del error contemplativo podría merecer entity_work propio si el corpus articula análisis dedicado en otros vídeos del canal",
+      "enriches_concept": "teologia-catolica-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "las religiones como respuestas prototípicas a los arquetipos (esquema de análisis)",
+      "reason_code": "already_captured",
+      "reason_detail": "Tesis canónica del canal que cierra el vídeo: 'Todas las religiones son respuestas prototípicas a los arquetipos; los arquetipos son las preguntas'. Documentado literalmente en diosa-blanca con cita del vídeo fuente. Prosa redundante. Cite-only",
+      "quote_evidence": "Todas las religiones son respuestas prototípicas a los arquetipos; los arquetipos son las preguntas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "los mitos hacen explícito lo implícito",
+      "reason_code": "passing_mention",
+      "reason_detail": "Formulación canal-específica de la función catártica de los mitos. La página diosa-blanca articula la función de los mitos como preguntas-afectivas pero no contiene la fórmula precisa 'hacer explícito lo implícito'. Sin embargo el aparato conceptual subyacente (mitos como vehículos de afectos universales que necesitan narrarse) ya está documentado. Cite-only suficiente",
+      "quote_evidence": "Los mitos hacen explícito lo implícito: traducen vivencias tan profundas que necesitan ser narradas para poder ser comprendidas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ni Cristo ni María responden a estereotipos de género",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación de los evangelios como respuestas no-estereotípicas al qué-significa-ser-hombre y qué-significa-ser-mujer está documentada en virgen-maria con la cita literal 'Los evangelios son la mejor combinación de respuestas sobre lo que significa ser hombre y ser mujer, sin recurrir a estereotipos'. Prosa redundante",
+      "quote_evidence": "Ni Cristo ni María responden a estereotipos de género; ambas respuestas son complejas y no estereotípicas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "virgen-maria",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Islam significa sumisión (vs catolicismo como acompañamiento)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La distinción Islam-sumisión vs catolicismo-acompañamiento está articulada parcialmente en teologia-catolica-en-proxy y virgen-maria. Este vídeo la precisa con la etimología explícita ('Islam significa sumisión') y la formulación operativa ('catolicismo no es sumisión a Cristo ni al Papa, sino acompañamiento e imitación'). Pieza capturada en pending_update a teologia-catolica-en-proxy como parte de la tipología tripartita",
+      "quote_evidence": "En el Islam se obedece a un hombre (Mahoma) a través de cuyas exigencias se obedece a Dios; Islam significa \"sumisión\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teologia-catolica-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "historias heroicas como respuesta cultural al mito (modelos prototípicos)",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación 'historias heroicas como modelos prototípicos de cómo actuar ante las grandes preguntas existenciales' opera dentro de la tesis general religiones-como-respuestas-a-arquetipos ya documentada. Prosa redundante",
+      "quote_evidence": "Las historias heroicas son la respuesta cultural al mito: modelos prototípicos de cómo actuar ante las grandes preguntas existenciales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[los mitos no son respuestas sino preguntas (mitemas como contenedores afectivos universales)] reason=already_captured quote no literal"
+  ]
+}

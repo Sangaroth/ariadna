@@ -113,6 +113,8 @@ El marco implica que el "derecho a no hacer nada" como consigna política descan
 
 
 
+
 - **La enfermedad del aburrimiento.** — chunks: [7:36](https://youtu.be/ifKRYGlHwuk?t=456) · [10:37](https://youtu.be/ifKRYGlHwuk?t=637) · [12:07](https://youtu.be/ifKRYGlHwuk?t=727) · [15:08](https://youtu.be/ifKRYGlHwuk?t=908) · [17:39](https://youtu.be/ifKRYGlHwuk?t=1059) · [19:11](https://youtu.be/ifKRYGlHwuk?t=1151) · [33:18](https://youtu.be/ifKRYGlHwuk?t=1998) · [37:50](https://youtu.be/ifKRYGlHwuk?t=2270) · [39:50](https://youtu.be/ifKRYGlHwuk?t=2390) · [40:20](https://youtu.be/ifKRYGlHwuk?t=2420) · [43:22](https://youtu.be/ifKRYGlHwuk?t=2602) · [48:25](https://youtu.be/ifKRYGlHwuk?t=2905) · [49:56](https://youtu.be/ifKRYGlHwuk?t=2996) · [53:29](https://youtu.be/ifKRYGlHwuk?t=3209) · [55:29](https://youtu.be/ifKRYGlHwuk?t=3329) · [1:04:34](https://youtu.be/ifKRYGlHwuk?t=3874) · [1:07:06](https://youtu.be/ifKRYGlHwuk?t=4026) · [1:10:38](https://youtu.be/ifKRYGlHwuk?t=4238) · [1:14:09](https://youtu.be/ifKRYGlHwuk?t=4449)
 - **El mito de Dioniso** — chunks: [45:02](https://youtu.be/ttnUgH3jou8?t=2702)
+- **Podcast Puppetland: El Principito** — chunks: [35:06](https://youtu.be/Q0uCvOLRR2k?t=2106)
 

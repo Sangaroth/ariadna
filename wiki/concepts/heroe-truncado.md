@@ -120,10 +120,16 @@ El síntoma distingue al héroe truncado del villano puro: hay todavía un sujet
 
 
 
+
+
+
 - **Análisis arquetípico de Unicorn wars** — chunks: [3:36](https://youtu.be/fLfEbHPJNmU?t=216) · [6:09](https://youtu.be/fLfEbHPJNmU?t=369)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:12:54](https://youtu.be/yoWJWwYH_pE?t=4374)
 - **Matrix, Gnosticismo, Cábala y mitología comparada** — chunks: [5:30](https://youtu.be/Dtp1_RLb7S0?t=330)
 - **Directo casual** — chunks: [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [52:31](https://youtu.be/yLd7j3fcR1w?t=3151)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [26:54](https://youtu.be/xK8_MpMMXzc?t=1614) · [43:03](https://youtu.be/xK8_MpMMXzc?t=2583) · [45:05](https://youtu.be/xK8_MpMMXzc?t=2705) · [54:40](https://youtu.be/xK8_MpMMXzc?t=3280)
+- **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:06:05](https://youtu.be/DNxx4qwb944?t=3965)
+- **¿Qué es la magia?** — chunks: [59:48](https://youtu.be/AMXVKxN0Ccw?t=3588)
+- **Taxonomía de las criaturas malignas** — chunks: [0:01](https://youtu.be/rG_et1_G7Hs?t=1)
 

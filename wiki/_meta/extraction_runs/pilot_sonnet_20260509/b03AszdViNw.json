@@ -1,0 +1,294 @@
+{
+  "video_id": "b03AszdViNw",
+  "video_title": "Mitología 101: Teseo y Ariadna",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "el mito de Teseo y Ariadna (análisis arquetípico monográfico)",
+      "canonical_guess": "mito-teseo-ariadna",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 90,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los mitos no deben estudiarse como narración histórica ni como producción fantástica tipo Disney,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lo importante son las estructuras que habitan los mitos y que ilustran universales de la experiencia humana,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En la diosa blanca están todas las formas de la feminidad condensadas: no es ni maquiavélica (Medea) ni claramente maternal (Etra),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En el laberinto en el que entras nunca sales siendo el mismo: por eso es un viaje iniciático,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Vídeo monográfico de 96 min dedicado íntegramente al mito de Teseo y Ariadna como análisis de mito puro (paralelo a mito-persefone, ambos modalidades 'mitología 101 monográfica' del canal). El mito recibe articulación completa: genealogía de Ariadna (línea paterna Zeus/Tauro-Europa-Minos = fuego viril, línea materna Pasifae-Helios-Creta = luz lunar uránica), Ariadna como composición Afrodita-Dioniso (enamoramiento femenino paciente + experiencia mistérica masculina activa), Poseidón como dios del mal carácter (no de las profundidades), Dédalo como alquimista-artesano que cifra procedimientos mágicos (vaca de madera como ritual de magia roja), el Minotauro como abominación de magia roja (peor que quimera porque procede de perversión mágica), el laberinto como mecanismo psíquico de represión de vergüenza y duelo (lectura graveseana) y como metáfora de la familia disfuncional, Etra-éter y la espada como rayo estelar, el paralelismo estructural con Frodo-Ella-laraña en Tolkien, la corona boreal como símbolo celeste de la diosa blanca (portada de Polaris), Ariadna como caso paradigmático de diosa blanca (luz y oscuridad condensadas), las tres versiones de la separación final (Afrodita/Dioniso/locura poseidónica), el laberinto como viaje iniciático irreversible. Cumple criterios scope.md §2.1: monográfico ≥10 min sostenidos, framing_mark explícito, connectivity con mito-polar, diosa-blanca, tipologia-femenina-arquetipica, dioniso-arquetipo, padre-oscuro-en-proxy, el-senor-de-los-anillos. Página foundational del catálogo mitológico clásico del canal, paralela estructural a mito-persefone y genesis-mitologico",
+      "quote_evidence": "Frodo armado con una espada que brilla y la luz de una estrella de una dama blanca entra en un laberinto para salvar un vínculo de amor,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "genealogía de Ariadna (Zeus/Tauro-Europa-Minos / Pasifae-Helios-Creta)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "La genealogía completa de Ariadna por ambas líneas (paterna Zeus/Tauro+Europa→Minos como dios de virilidad+receptividad de tierra; materna Pasifae=hija de Helios y Creta como diosa lunar uránica vinculada al inconsciente) es pieza foundational del mito. Capturada en la nueva mito-teseo-ariadna como apertura cosmogónica del análisis",
+      "quote_evidence": "Zeus o Tauro (dioses de virilidad) engendran en Europa (concepto receptivo, diosa de tierra) al rey Minos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "los mitos no son historia: vehículos de universales humanos",
+      "reason_code": "already_captured",
+      "reason_detail": "Tesis foundational del canal sobre los mitos como vehículos culturales de universales humanos (no como narración histórica ni producción fantástica tipo Disney) está documentada en mitologia-propia-impropia, genesis-mitologico, diosa-blanca. Prosa redundante. Cite-only",
+      "quote_evidence": "Los mitos no deben estudiarse como narración histórica ni como producción fantástica tipo Disney,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "rey como punto intermedio entre dios y héroe",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación específica: un rey es el punto intermedio entre un dios y un héroe — tiene poder pero debe justificarlo. Cuando el rey es punto de partida (no final del viaje heroico), lo relevante es qué hará con el poder que tiene. Pieza estructural del análisis del rey Minos. Capturada en mito-teseo-ariadna",
+      "quote_evidence": "Un rey es el punto intermedio entre un dios y un héroe: tiene poder pero debe justificarlo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ariadna como composición Afrodita + Dioniso",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Ariadna recibe articulación arquetípica como unión de Afrodita (enamoramiento femenino calmado, sujeto paciente: 'nos pasan las cosas') y Dioniso (experiencia mistérica masculina activa, dios del ritual orgiástico y la contemplación extática: 'yo elijo que me pasen cosas'). Pieza central del análisis. La distinción 'femenino padece / masculino agencia' enlaza con diosa-blanca (aceptación total como esencia femenina) y adgrediere-masculino. Capturada en mito-teseo-ariadna. La nueva pieza sobre Dioniso podría también enriquecer dioniso-arquetipo",
+      "quote_evidence": "Ariadna es la unión del enamoramiento femenino (Afrodita) y la experiencia mistérica masculina (Dioniso),",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación de Dioniso como 'quien activamente elige perder el control: dios del ritual orgiástico, las drogas, la contemplación extática' añade ángulo a dioniso-arquetipo que la página no contiene de forma tan precisa. Posible cita-only enrichment futuro",
+      "enriches_concept": "dioniso-arquetipo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "lo femenino como pasividad / lo masculino como agencia en el enamoramiento",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La articulación de lo femenino como paciente (el enamoramiento se padece, no se hace, como el parto) y lo masculino como agente (recorrer el camino masculino de construcción para ser sujeto agente del amor) está documentada extensivamente en diosa-blanca (sección 'La aceptación total como esencia operativa del pensamiento femenino') y adgrediere-masculino. Capturada en mito-teseo-ariadna como aplicación al mito",
+      "quote_evidence": "El enamoramiento es femenino porque se padece, no se hace: como el parto, te ocurre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Poseidón como dios del mal carácter (vs Neptuno de las profundidades)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación específica: Poseidón NO es dios de las profundidades (eso es Neptuno) sino de la fuerza de las aguas (tormentas, oleaje, destrucción) — representa el mar del carácter: caprichos de ánimo del rey tirano. Los pactos del rey temperamental se hacen con Poseidón. Pieza del catálogo divino-arquetípico. Capturada en mito-teseo-ariadna",
+      "quote_evidence": "Poseidón no es dios de las profundidades (eso es Neptuno), sino de la fuerza de las aguas: tormentas, oleaje, destrucción,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Dédalo como alquimista-artesano que diseña procedimientos mágicos",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Dédalo recibe articulación específica: NO es mago sino artesano que construye experiencias iniciáticas para que otros las caminen; guardián de los arcanos que cifra la experiencia y diseña procedimientos mágicos. Pieza foundational del análisis. Capturada en mito-teseo-ariadna como figura del alquimista que opera entre el rey-tirano y el héroe. Posible page concept propia 'dedalo-alquimista' si reaparece sostenidamente",
+      "quote_evidence": "Dédalo no es un mago sino un artesano que construye experiencias iniciáticas para que otros las caminen,",
+      "review_priority": "medium",
+      "review_priority_reason": "Dédalo como arquetipo del alquimista-artesano (guardián de arcanos, cifrador de experiencias) podría merecer page concept propia si reaparece en otros vídeos del corpus — completaría el catálogo del mago/alquimista distinguido del [[mito-del-mago]] genérico",
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el laberinto como conciencia humana / como represión de la vergüenza",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación dual del laberinto: (1) comprensible desde fuera, incomprensible desde dentro, símil de la conciencia humana; (2) mecanismo psíquico de represión de la vergüenza y el duelo (según Graves). La mancha del mal en el rey tirano que no puede superarse heroicamente sino ocultarse vergonzosamente. Pieza foundational sobre el laberinto como categoría arquetípico-psicológica. Capturada en mito-teseo-ariadna. Posible page concept propia 'laberinto-arquetipo' si reaparece",
+      "quote_evidence": "Según Graves, el laberinto es el mecanismo psíquico de represión de la vergüenza y el duelo,",
+      "review_priority": "medium",
+      "review_priority_reason": "El laberinto como categoría arquetípico-psicológica de represión podría merecer page concept propia — articula mecanismo distinto de excision-psicologica y de shadow-archetype, con función específica (ocultar la deshonra en las profundidades mentales)",
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el laberinto como familia disfuncional (relación poseidónica tóxica)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Aplicación del laberinto como metáfora clínica: hombre tirano que oculta la infidelidad conyugal bajo red de mentiras y negación; relación poseidónica engendra hijos con neurosis de ambos padres; padres neuróticos alejan a sus hijos de la realidad mediante mecanismos de confusión. Pieza foundational. Capturada en mito-teseo-ariadna como aplicación clínica del mito",
+      "quote_evidence": "Un hombre tirano que oculta la infidelidad conyugal bajo una red de mentiras y negación: eso es el laberinto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Etra y la espada de rayo estelar (éter como plasma eléctrico)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación etimológico-arquetípica: Etra proviene de éter (plasma eléctrico que los griegos veían en el aire) y representa el rayo. La masculinidad de Teseo es aire — espada que comparte con su madre la luz de una estrella. La pieza enlaza con el cuarto-elementos-arquetipicos y el Alef-aire-intelecto articulado en golem-arquetipo. Capturada en mito-teseo-ariadna",
+      "quote_evidence": "Etra proviene de éter (el plasma eléctrico que veían los griegos en el aire) y representa el rayo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "paralelismo Teseo-Ariadna y Frodo-Ella-laraña (convergencia tolkieniana)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación foundational del canal sobre la convergencia estructural entre el mito griego y Tolkien: Frodo armado con espada brillante y luz de estrella de una dama blanca entra en un laberinto para salvar un vínculo de amor — estructura idéntica a Teseo-Ariadna. El hilo de Ariadna como vínculo fraterno Sam-Frodo. Tolkien NO copia el mito sino que lo mejora consciente. Capturada en mito-teseo-ariadna. Material relevante también para tolkien-jrr y el-senor-de-los-anillos",
+      "quote_evidence": "Tolkien no copia el mito sino que lo mejora; conocía estas estructuras y las reelaboró conscientemente,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación 'Tolkien mejora el mito griego' es genealógicamente importante para tolkien-jrr y el-senor-de-los-anillos. Posible enrichment futuro de esas páginas con la convergencia Teseo-Ariadna/Frodo-Ella-laraña",
+      "enriches_concept": "tolkien-jrr",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Minos, el toro blanco y la traición a Poseidón (hybris del rey)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza narrativa central del mito: Minos pide a Poseidón un toro del mar como prueba divina; queda tan prendado de la belleza del toro que sacrifica otro en su lugar, traicionando el pacto. Poseidón se venga haciendo que Pasifae se enamore del toro. La pasión antinatural como castigo por la hybris. Capturada en mito-teseo-ariadna",
+      "quote_evidence": "Queda tan prendado de la belleza del toro que sacrifica otro en su lugar, traicionando el pacto con el dios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el Minotauro como abominación de magia roja",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación del Minotauro como ABOMINACIÓN: dos especies creando un ser que no debería existir, peor que una quimera (la quimera es lo imposible-mágico, la abominación es la aberración que nunca debió existir). La pieza enlaza con la categoría QUIMERA vs ABOMINACIÓN ya articulada en cibernetica-biosintetica-y-transhumanismo-en-proxy. Capturada en mito-teseo-ariadna. Cite-only enriquece cibernetica-biosintetica",
+      "quote_evidence": "La abominación es peor que una quimera: la quimera es lo imposible-mágico, la abominación es la aberración que nunca debió existir,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "magia roja (de las pasiones) — vaca de madera como ritual",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Categoría canal-específica: la magia roja es magia de las pasiones. Dédalo construye la vaca de madera como procedimiento ritual de magia roja para canalizar la pasión antinatural de Pasifae con el toro. Pieza taxonómica nueva (magia roja como categoría) que conecta con la taxonomía mágica de magia-postmoderna-en-proxy (donde hay magia blanca por placer, magia negra por trauma, pero la magia roja por pasiones no estaba documentada explícitamente). Capturada en mito-teseo-ariadna. Posible enrichment futuro de magia-postmoderna",
+      "quote_evidence": "Dédalo construye la vaca de madera: un procedimiento ritual de magia roja (magia de las pasiones),",
+      "review_priority": "medium",
+      "review_priority_reason": "Magia roja como categoría canal-específica (magia de las pasiones, distinta de magia blanca por placer y magia negra por trauma) podría merecer enrichment futuro de magia-postmoderna-en-proxy o concept propio si reaparece",
+      "enriches_concept": "magia-postmoderna-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Teseo como sacrificio: el tributo de Minos cada 9 años (ciclo lunar)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza narrativa: Minos exige cada 9 años (ciclo lunar) siete vírgenes y siete jóvenes para ser devorados por el Minotauro. Teseo sustituye a dos doncellas por jóvenes afeminados con extraordinario valor (estrategia de engaño al tirano). El ciclo 9 años como ciclo lunar (eco del 9 lunar articulado en lilit-mito). Capturada en mito-teseo-ariadna",
+      "quote_evidence": "Minos exige cada 9 años (ciclo lunar) siete vírgenes y siete jóvenes para ser devorados por el Minotauro,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el padre oscuro que devora hijos adoptivos (sacrificio del Minotauro)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Articulación específica: el sacrificio de hijos adoptivos al Minotauro es la metáfora de la ira del padre oscuro que devora porque no sabe adoptar. Pieza relevante para padre-oscuro-en-proxy / padre-oscuro-arquetipo (recientemente creadas en este batch). Capturada en mito-teseo-ariadna como aplicación del arquetipo paterno corrupto al mito",
+      "quote_evidence": "El sacrificio de hijos adoptivos es la metáfora de la ira del padre oscuro que devora porque no sabe adoptar,",
+      "review_priority": "medium",
+      "review_priority_reason": "La articulación del padre oscuro como figura 'que devora porque no sabe adoptar' añade cualificación operativa a padre-oscuro-en-proxy/padre-oscuro-arquetipo. Posible cita-only para retrieval indirecto",
+      "enriches_concept": "padre-oscuro-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ariadna como diosa blanca paradigmática (luz y oscuridad condensadas)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "La diosa blanca articulada extensivamente en diosa-blanca (estrella-guía + bruja, formas condensadas de la feminidad). Este vídeo añade a Ariadna como caso paradigmático: 'no es ni maquiavélica (Medea) ni claramente maternal (Etra); es la doncella misteriosa, la dama del lago'. Capturada en mito-teseo-ariadna. Cite-only enriquece diosa-blanca con el caso Ariadna",
+      "quote_evidence": "Las diosas blancas son al mismo tiempo estrella-guía (como en Pinocho) y bruja que tiene enganchado al héroe,",
+      "review_priority": "medium",
+      "review_priority_reason": "Ariadna como caso paradigmático de la diosa blanca merece cita en diosa-blanca para retrieval indirecto. La página diosa-blanca tiene múltiples casos (Atrapado en el tiempo, Lady Halcón, Cenicienta, La Llegada) y Ariadna añadiría el caso griego clásico",
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la corona boreal como símbolo celeste de la diosa blanca (portada de Polaris)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza iconográfica: la corona que brilla en la oscuridad es la corona boreal, símbolo celeste de la diosa blanca, equivalente funcional a Excalibur, espada luminosa de Frodo y ovillo de Ariadna. Aparece en la portada de Polaris (libro del canal). Capturada en mito-teseo-ariadna. Material adicional para Polaris como entity_work futuro",
+      "quote_evidence": "La corona que brilla en la oscuridad es la corona boreal, símbolo celeste de la diosa blanca,",
+      "review_priority": "medium",
+      "review_priority_reason": "La equivalencia funcional Excalibur/espada-Frodo/ovillo-Ariadna/corona-boreal articula un campo simbólico unificado de la diosa blanca como guía. La mención de la corona boreal en la portada de Polaris añade pieza al perfil del libro del canal (acumula menciones para posible entity_work futuro)",
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Ariadna se enamora a primera vista (Wendy enamorándose del que mata al dragón)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Articulación de Ariadna como Wendy enamorándose del que mata al dragón y la saca del dominio tiránico del padre. Pieza específica que conecta con tipologia-femenina-arquetipica (Wendy como corrupción de la gracia / infancia eterna) pero opera en sentido positivo aquí (la doncella que sale del laberinto vía amor). Capturada en mito-teseo-ariadna",
+      "quote_evidence": "Ariadna se enamora de Teseo a primera vista: es Wendy enamorándose del que mata al dragón y la saca del dominio tiránico del padre,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sindrome-wendy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el laberinto como viaje iniciático irreversible",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza foundational: 'en el laberinto en el que entras nunca sales siendo el mismo' — el laberinto es un viaje iniciático que cambia para siempre. Teseo sale afectado por el poder poseidónico de cambio de carácter. Conecta con viaje-heroe (la transformación heroica) y con mito-persefone (el Inframundo te cambia). Capturada en mito-teseo-ariadna",
+      "quote_evidence": "En el laberinto en el que entras nunca sales siendo el mismo: por eso es un viaje iniciático,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tres versiones de la separación final de Teseo y Ariadna",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación tripartita del cierre del mito: (1) Afrodita afecta a Ariadna (envidia o nuevo enamoramiento); (2) Dioniso reclama a Ariadna como sacerdotisa iniciática o ninfa; (3) la magia dionisíaca enloquece a Teseo hasta hacerle olvidar a Ariadna. Pieza nuclear sobre la inestabilidad del vínculo post-laberinto. Capturada en mito-teseo-ariadna",
+      "quote_evidence": "La magia dionisíaca enloquece a Teseo hasta hacerle olvidar su promesa y la existencia misma de Ariadna,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la corona de las Nereidas y el ovillo como regalo de Ariadna",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza narrativa-iconográfica: Teseo se sumerge en las aguas del carácter del padre y las Nereidas le entregan corona y anillo por su buena relación con lo femenino. La corona de joyas y el ovillo de hilo son el mismo concepto funcional según distintas fuentes del mito — el regalo de Ariadna como guía. Capturada en mito-teseo-ariadna",
+      "quote_evidence": "La corona de joyas es el mismo concepto que el ovillo de hilo: ambos son el regalo de Ariadna según distintas fuentes del mito,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el oráculo délfico que advierte llevar a Afrodita como guía",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza narrativa: el oráculo délfico advierte a Teseo que lleve a Afrodita como guía y compañera. La feminidad como condición operativa del viaje heroico al laberinto. Capturada en mito-teseo-ariadna",
+      "quote_evidence": "El oráculo délfico advierte a Teseo que lleve a Afrodita como guía y compañera,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-teseo-ariadna",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 22,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[el mito de Teseo y Ariadna (análisis arquetípico monográfico)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

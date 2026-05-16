@@ -140,6 +140,9 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 
 
 
+
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [1:08:32](https://youtu.be/Dtp1_RLb7S0?t=4112) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757)
 - **Lunes basado terminal** — chunks: [14:19](https://youtu.be/oHxXzr5WSbQ?t=859)
@@ -152,4 +155,6 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [50:22](https://youtu.be/QSggWfjOkHk?t=3022)
 - **Taxonomía y filosofía del satanismo** — chunks: [25:28](https://youtu.be/4JW8act2SdE?t=1528) · [1:42:06](https://youtu.be/4JW8act2SdE?t=6126)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [40:27](https://youtu.be/JKoWJmSR6VY?t=2427)
+- **MItología 101: El Gólem** — chunks: [1:34:29](https://youtu.be/IG3dkNBX9uU?t=5669)
+- **¿Qué es la magia?** — chunks: [1:39:20](https://youtu.be/AMXVKxN0Ccw?t=5960)
 

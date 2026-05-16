@@ -462,6 +462,7 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 
 
 
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -497,4 +498,5 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **T4Lx02 Santiago y cierre categorial: M3.** — chunks: [11:20](https://youtu.be/ecG-JqsSz2Q?t=680) · [41:03](https://youtu.be/ecG-JqsSz2Q?t=2463) · [46:06](https://youtu.be/ecG-JqsSz2Q?t=2766) · [1:02:46](https://youtu.be/ecG-JqsSz2Q?t=3766) · [1:08:49](https://youtu.be/ecG-JqsSz2Q?t=4129) · [1:17:53](https://youtu.be/ecG-JqsSz2Q?t=4673)
 - **Hambre y miedo (Cero). LOCUS** — chunks: [3:02](https://youtu.be/n2rtBxP-_e0?t=182)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [55:13](https://youtu.be/JKoWJmSR6VY?t=3313)
+- **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:06:05](https://youtu.be/DNxx4qwb944?t=3965) · [1:09:37](https://youtu.be/DNxx4qwb944?t=4177)
 

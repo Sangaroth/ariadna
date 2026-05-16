@@ -121,6 +121,19 @@ El canal articula la inversión arquetípica de la Trinidad cristiana en tres fi
 
 Lucifer como hijo —la belleza narcisista, el pecado del ángel que quiso ser como Dios— conecta directamente con el análisis del canal en [[iconotropias-de-la-rabia-narcisista]]. Leviatán como «espíritu» (agua, conector). Esta triada invierte el árbol cabalístico y se articula dentro del pan-simbolismo que el canal describe:
 
+
+
+El directo *Eva, Lucifer, Satanás y la Serpiente* (oct-2024) precisa la función bíblica del Satanás distinta de la iconotropía luciferina ya integrada en la triada invertida. La estrategia satánica no es la rebeldía estética del lucero caído sino la **confusión del bien**:
+
+> "Lo que hace Satanás es confundir a la humanidad para que crea que está haciendo el bien cuando no lo está,"
+→ [Eva, Lucifer, Satanás y la Serpiente (1:36:02)](https://youtu.be/dHDv_oZODYQ?t=5762)
+
+> "El mejor movimiento de Satanás es convencer a la humanidad de que él mismo no existe,"
+→ [Eva, Lucifer, Satanás y la Serpiente (1:36:02)](https://youtu.be/dHDv_oZODYQ?t=5762)
+
+El matiz refina la posición de Satán como 'padre' en la falsa Trinidad: el adversario no opera por negación frontal (eso sería luciferismo hegeliano) sino por **inversión sigilosa del criterio** — desplaza la línea bien/mal sin que la humanidad detecte el desplazamiento. La consecuencia operativa cierra el cuadro: 'la humanidad se corrompió sola; que Satanás corrompa a la humanidad es un locus externo de autoridad propio del protestantismo'. La diferencia teológica con la lectura católica es estructural — el catolicismo NO requiere agencia sobrenatural para explicar el pecado humano, mientras el protestantismo, al posicionar el mal como exógeno, abre paradójicamente la puerta a su mitificación. Esta pieza enlaza directamente con la sección 'Genealogía del satanismo comercial' y la articulación de la sola fide como 'mínima unidad de relativismo'.
+
+
 > "Se puede establecer correspondencia directa entre santos cristianos, dioses griegos y arquetipos cabalísticos,"
 → [Taxonomía y filosofía del satanismo](https://youtu.be/4JW8act2SdE)
 
@@ -236,7 +249,9 @@ Esta inversión conecta el satanismo con el [[gnosticismo]] (donde el demiurgo m
 
 
 
+
 - **Taxonomía y filosofía del satanismo** — chunks: [4:06](https://youtu.be/4JW8act2SdE?t=246) · [10:46](https://youtu.be/4JW8act2SdE?t=646) · [35:05](https://youtu.be/4JW8act2SdE?t=2105) · [38:39](https://youtu.be/4JW8act2SdE?t=2319) · [43:43](https://youtu.be/4JW8act2SdE?t=2623) · [45:19](https://youtu.be/4JW8act2SdE?t=2719) · [1:21:54](https://youtu.be/4JW8act2SdE?t=4914) · [1:26:58](https://youtu.be/4JW8act2SdE?t=5218) · [1:46:38](https://youtu.be/4JW8act2SdE?t=6398) · [1:58:16](https://youtu.be/4JW8act2SdE?t=7096)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [1:17:40](https://youtu.be/JKoWJmSR6VY?t=4660)
 - **El mito de Dioniso** — chunks: [45:02](https://youtu.be/ttnUgH3jou8?t=2702)
+- **¿Qué es la magia?** — chunks: [1:39:20](https://youtu.be/AMXVKxN0Ccw?t=5960)
 

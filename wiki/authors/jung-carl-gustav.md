@@ -192,6 +192,7 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 - **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:09:06](https://youtu.be/cbfhVqYDbdE?t=4146)
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
@@ -211,4 +212,5 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 - **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [6:16](https://youtu.be/8l__TS3ATNY?t=376)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [5:07](https://youtu.be/nw7fSEAJr-U?t=307) · [9:39](https://youtu.be/nw7fSEAJr-U?t=579) · [1:20:23](https://youtu.be/nw7fSEAJr-U?t=4823)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [25:45](https://youtu.be/JKoWJmSR6VY?t=1545) · [44:04](https://youtu.be/JKoWJmSR6VY?t=2644)
+- **De Platón A The Matrix** — chunks: [46:51](https://youtu.be/zr_ZKX60N54?t=2811)
 

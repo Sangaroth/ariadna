@@ -240,6 +240,7 @@ La tipología cierra el cuadro de los sub-tipos solares: el civilizatorio funda 
 
 
 
+
 - **Análisis arquetípico El Hombre de Acero** — chunks: [1:02](https://youtu.be/HgLlH8Ta2qk?t=62) · [6:11](https://youtu.be/HgLlH8Ta2qk?t=371) · [1:49:25](https://youtu.be/HgLlH8Ta2qk?t=6565)
 
 
@@ -256,4 +257,5 @@ La tipología cierra el cuadro de los sub-tipos solares: el civilizatorio funda 
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [46:25](https://youtu.be/aWeuzWLrLtE?t=2785) · [52:05](https://youtu.be/aWeuzWLrLtE?t=3125)
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [36:18](https://youtu.be/Sszbs7CG0cQ?t=2178)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [46:45](https://youtu.be/O4OkDuc3uPQ?t=2805)
 

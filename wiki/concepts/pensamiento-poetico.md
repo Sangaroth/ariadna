@@ -149,6 +149,8 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 
 
 
+
+
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
@@ -161,4 +163,5 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - **Las piezas que faltan** — chunks: [14:30](https://youtu.be/DAW1HiYxnVk?t=870) · [1:27:14](https://youtu.be/DAW1HiYxnVk?t=5234)
 - **Presentación del Libro: Polaris** — chunks: [43:12](https://youtu.be/rLeMS4-XFrA?t=2592)
 - **Tontas en Potencia** — chunks: [1:13:51](https://youtu.be/1cKAgkEEbMA?t=4431) · [2:00:23](https://youtu.be/1cKAgkEEbMA?t=7223) · [2:22:23](https://youtu.be/1cKAgkEEbMA?t=8543)
+- **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [34:38](https://youtu.be/dHDv_oZODYQ?t=2078) · [38:39](https://youtu.be/dHDv_oZODYQ?t=2319)
 

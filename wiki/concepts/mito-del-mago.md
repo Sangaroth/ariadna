@@ -125,7 +125,26 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [26:03](https://youtu.be/QSggWfjOkHk?t=1563) · [1:00:57](https://youtu.be/QSggWfjOkHk?t=3657) · [1:04:30](https://youtu.be/QSggWfjOkHk?t=3870) · [1:23:12](https://youtu.be/QSggWfjOkHk?t=4992) · [1:47:24](https://youtu.be/QSggWfjOkHk?t=6444)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:20:23](https://youtu.be/nw7fSEAJr-U?t=4823)
 - **El mito de Dioniso** — chunks: [19:48](https://youtu.be/ttnUgH3jou8?t=1188) · [38:28](https://youtu.be/ttnUgH3jou8?t=2308)
+- **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [0:00](https://youtu.be/tgusJOzuJ7U?t=0)
+- **Lilith: La Iconotropía.** — chunks: [42:34](https://youtu.be/xKCD8PaexF0?t=2554)
+- **Los Apocalipsis. (Parte I)** — chunks: [58:35](https://youtu.be/lLRGemLUCtY?t=3515)
+- **Mitología 101: Teseo y Ariadna** — chunks: [56:56](https://youtu.be/b03AszdViNw?t=3416) · [1:20:16](https://youtu.be/b03AszdViNw?t=4816)
+- **Orfeo y Eurídice** — chunks: [1:03:37](https://youtu.be/1D0u-tK4v8c?t=3817)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642)
+- **¿Qué es la magia?** — chunks: [56:16](https://youtu.be/AMXVKxN0Ccw?t=3376) · [58:16](https://youtu.be/AMXVKxN0Ccw?t=3496) · [59:48](https://youtu.be/AMXVKxN0Ccw?t=3588) · [1:10:41](https://youtu.be/AMXVKxN0Ccw?t=4241) · [1:28:30](https://youtu.be/AMXVKxN0Ccw?t=5310) · [1:47:27](https://youtu.be/AMXVKxN0Ccw?t=6447)
+- **De Platón A The Matrix** — chunks: [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879)
 

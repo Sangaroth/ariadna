@@ -1,0 +1,298 @@
+{
+  "video_id": "6oOGKh2TRHE",
+  "video_title": "Cuento contigo (resub)",
+  "playlist": "podcast-puppetland",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "Exilio (cuento de Edmond Hamilton, leído íntegro)",
+      "canonical_guess": "exilio-hamilton",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Carrick revela que una vez escribió sobre un mundo imaginario y luego se vio obligado a vivir en él,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La historia es una meta-historia: una fantasía sobre la Fantasía, un cuento de ciencia ficción sobre un cuento de ciencia ficción,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cuento leído íntegro en sesión de directo (~11 min de lectura, 14:45-26:01) dentro del podcast 'Cuento contigo'. Cumple scope.md §2.3 v0.3: la lectura íntegra ES contenido del corpus, lo que califica el texto como entity_work propio con flag read_in_session: true. El cuento es articulado por el canal como caso paradigmático de META-FANTASÍA: el escritor de ficción atrapado en su propia creación. Tesis específica: la materialización de la fantasía como fuerza unidireccional (el creador puede crear el mundo pero no escapar de él una vez habitándolo). Conecta con mitologia-propia-impropia (mitos propios como representaciones que la mente reconoce como suyas) y con teoria-del-simbolo-en-proxy (la mente y sus producciones)",
+      "quote_evidence": "Solo puede ejercer su oficio de contador de historias, escribiendo relatos sobre su mundo real que para los habitantes resultan fantasía desbordante,"
+    },
+    {
+      "surface_form": "Edmond Hamilton (escritor de ciencia ficción)",
+      "canonical_guess": "hamilton-edmond",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lectura de \"Exilio\" de Edmond Hamilton"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Per scope.md §2.2 'Channel-ingested: el canal ha leído íntegros sus textos en directo (as_author_of_sources > 0) → promoción automática'. Hamilton (1904-1977) es escritor americano de ciencia ficción y space opera cuya obra 'Exilio' (1943) es leída íntegra en esta sesión de podcast. Promoción automática como author con as_author_of_sources=1. Posible expansión futura si otros cuentos suyos son leídos en el corpus",
+      "quote_evidence": "Lectura de \"Exilio\" de Edmond Hamilton"
+    },
+    {
+      "surface_form": "Deserción (cuento de Clifford D. Simak, leído íntegro)",
+      "canonical_guess": "desercion-simak",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En Júpiter, los humanos no pueden sobrevivir en su forma natural por la presión de tres toneladas por centímetro cuadrado y la lluvia alcalina,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Tanto Fowler como Touser deciden no volver: regresar significaría volver al cuerpo dolorido, al cerebro confuso, a la abyección y la ignorancia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El cyborg plantea el riesgo de no ampliar la conciencia sino crear una abominación: mitad humano, mitad otra cosa, cuya conciencia no consigue ser ninguna de las dos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cuento leído íntegro en sesión de directo (~15 min de lectura, 35:53-51:02, con análisis sostenido posterior hasta 1:14:19). Cumple scope.md §2.3 v0.3: la lectura íntegra ES contenido del corpus, entity_work con read_in_session: true. El cuento (parte del ciclo 'City' de Simak, 1944) es articulado por el canal como caso paradigmático de DOBLE PRESUPUESTO de la ciencia ficción: exploración de mundos imposibles + exploración existencial al habitar otro cuerpo. Tesis nuclear: el cuerpo humano como limitación cognitiva — al expandirse el sustrato corporal se expande la conciencia, y nadie quiere volver al cuerpo limitado tras conocer lo suprahumano. Conecta con cibernetica-biosintetica-y-transhumanismo-en-proxy (el cyborg como riesgo de abominación mental, no expansión) y con golem-arquetipo (la abominación frente a la quimera). Conecta también con conciencia-e-inteligencia-en-proxy (la transformación perceptiva como expansión cognitiva)",
+      "quote_evidence": "Los hombres caminaban en terrible soledad, incapaces de extenderse y tocar la mente de otro ser vivo,"
+    },
+    {
+      "surface_form": "Clifford D. Simak (escritor de ciencia ficción humanista)",
+      "canonical_guess": "simak-clifford-d",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 30,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lectura de \"Deserción\" de Clifford D. Simak"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Per scope.md §2.2 'Channel-ingested → promoción automática'. Simak (1904-1988) es escritor americano de ciencia ficción humanista cuya obra 'Deserción' (1944, parte del ciclo 'City') es leída íntegra en esta sesión y recibe análisis sostenido (~30 min total entre lectura y análisis). Promoción automática como author con as_author_of_sources=1. El análisis del canal articula la tesis del cuento como exploración del cuerpo-como-limitación-cognitiva, vinculándolo con el aparato cibernetica-biosintetica del canal",
+      "quote_evidence": "Lectura de \"Deserción\" de Clifford D. Simak"
+    },
+    {
+      "surface_form": "El sexto palacio (cuento de Robert Silverberg, leído íntegro)",
+      "canonical_guess": "el-sexto-palacio-silverberg",
+      "page_type": "entity_work",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El robot exige \"verdad, esencia, comprensión\", no mera información; la precisión de las respuestas es irrelevante,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El robot no evalúa si las respuestas son correctas o incorrectas: mata siempre que detecta un patrón humano (coherencia, lógica, afectividad, orgullo),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Cuento leído íntegro en sesión de directo (~12 min de lectura, 1:14:19-1:26:27) con análisis exhaustivo posterior hasta 1:48:50 (~22 min de análisis adicional). Cumple scope.md §2.3 v0.3 con lectura íntegra + análisis sustantivo. El cuento de Silverberg (1965) es articulado por el canal como caso paradigmático de la distinción INFORMACIÓN vs COMPRENSIÓN ESENCIAL: el robot custodio del tesoro mata humanos no por respuestas erróneas sino por detección de patrón humano (coherencia, lógica, afectividad). Tesis nuclear: el conocimiento factual es hueco sin comprensión esencial; el creador del robot opera en paradigma supra-humano que la psique humana no puede simular conscientemente. Conecta con teoria-del-simbolo-en-proxy (la matriz noética humana como patrón detectable), golem-de-cobre (cognición humana vs IA), conciencia-e-inteligencia-en-proxy (paradigma cognitivo humano limitado)",
+      "quote_evidence": "Donde el esfuerzo lógico fracasó, la incoherencia tiene éxito: el conocimiento factual es hueco sin comprensión esencial,"
+    },
+    {
+      "surface_form": "Robert Silverberg (escritor de ciencia ficción especulativa)",
+      "canonical_guess": "silverberg-robert",
+      "page_type": "author",
+      "domain_primary_guess": "arts.literature",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Lectura de \"El sexto palacio\" de Robert Silverberg"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Per scope.md §2.2 'Channel-ingested → promoción automática'. Silverberg (n.1935) es escritor americano de ciencia ficción especulativa cuya obra 'El sexto palacio' (1965) es leída íntegra y analizada exhaustivamente en esta sesión (~35 min totales entre lectura y análisis). Promoción automática como author con as_author_of_sources=1. El análisis del canal articula la tesis del cuento sobre la diferencia entre conocimiento factual humano y comprensión esencial supra-humana, vinculándola con el aparato cognitivo del canal sobre IA y mente",
+      "quote_evidence": "Lectura de \"El sexto palacio\" de Robert Silverberg"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "fantasía desde el realismo cognitivo (definición operativa)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación foundational del marco: la fantasía es toda representación consciente que no existe en el mundo físico sino en la cabeza. Las narraciones fantásticas (mitológicas, cuentos de hadas, ciencia ficción) deben ser completas (principio-final) y tener coherencia interna. La página realismo-cognitivo articula la teoría general pero no la aplicación literaria. Pieza pertinente para enrichment futuro de realismo-cognitivo. Capturada como framing inicial de los entity_works promovidos",
+      "quote_evidence": "La fantasía es toda representación de la que somos conscientes que no existe en el mundo físico, sino únicamente en nuestra cabeza,",
+      "review_priority": "medium",
+      "review_priority_reason": "La aplicación del realismo cognitivo al análisis de la ficción (coherencia interna como criterio que sustituye verosimilitud) podría merecer enrichment de realismo-cognitivo o sección específica en anatomia-de-la-fantasia-y-sindrome-delirante",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "verosimilitud vs coherencia interna en la ficción",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción metodológica: la verosimilitud literaria exige plausibilidad respecto a la realidad externa; el realismo cognitivo prescinde de la realidad externa para analizar cómo la mente concibe la realidad. Los sueños y confabulaciones son inverosímiles pero coherentes para la mente que los elabora, demostrando que la coherencia interna es el criterio relevante. Pieza metodológica importante. Capturada como framing de los entity_works",
+      "quote_evidence": "Los sueños y las confabulaciones son inverosímiles pero coherentes para la mente que los elabora, lo que demuestra que la coherencia interna es el criterio relevante,",
+      "review_priority": "medium",
+      "review_priority_reason": "La distinción verosimilitud vs coherencia interna como criterio de análisis literario realista-cognitivo podría merecer cite-only en realismo-cognitivo o anatomia-de-la-fantasia-y-sindrome-delirante",
+      "enriches_concept": "realismo-cognitivo",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "meta-fantasía / matrioskas narrativas (historia dentro de historia)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Articulación del recurso de matrioskas narrativas (historia dentro de historia) como meta-fantasía: La Historia Interminable precede a Inception o Paprika con este recurso. Los relatos del Génesis encierran el motivo arquetípico de que la creación sea una idea — verbo e idea son lo mismo en lenguas antiguas. Conecta con genesis-mitologico. Capturada como framing del entity_work exilio-hamilton (donde el escritor queda atrapado en su propia creación)",
+      "quote_evidence": "Los relatos del Génesis encierran el motivo arquetípico de que la creación sea una idea: estamos originados en la mente de alguien,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "exilio-hamilton",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "viaje del héroe como síntesis mental (iluminar la oscuridad interior)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación del viaje del héroe como metáfora de la síntesis mental: descubrir mediante la luz la oscuridad que hay frente a uno; concretar una idea antes inexistente es iluminar algo en la oscuridad interior. La 'idea luminosa' y la bombilla como fundamentos arquetípicos universales. La página viaje-heroe articula la estructura monomítica; este es un ángulo cognitivo complementario",
+      "quote_evidence": "El viaje del héroe consiste en descubrir mediante la luz la oscuridad que hay frente a uno,",
+      "review_priority": "medium",
+      "review_priority_reason": "La lectura del viaje del héroe como 'síntesis mental que ilumina la oscuridad interior' añade ángulo cognitivo a viaje-heroe. Posible cite-only enrichment futuro",
+      "enriches_concept": "viaje-heroe",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el cyborg como abominación mental (Frankenstein como mente reanimada)",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "El canal articula el riesgo del cyborg como abominación mental (mitad humano, mitad otra cosa, cuya conciencia no consigue ser ninguna de las dos) en contraste con la expansión cognitiva del cuento de Simak. Mary Shelley en Frankenstein exploró la mente híbrida pero la redujo a mente reanimada, sin llegar a la abominación mental pura. La página cibernetica-biosintetica-y-transhumanismo-en-proxy ya articula extensamente la quimera vs abominación. Capturada en el entity_work desercion-simak como pieza central del análisis",
+      "quote_evidence": "El cyborg plantea el riesgo de no ampliar la conciencia sino crear una abominación: mitad humano, mitad otra cosa, cuya conciencia no consigue ser ninguna de las dos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el cuerpo como limitación cognitiva (cerebros terrestres lentos y nebulosos)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Tesis central del cuento Deserción: los cerebros terrestres son 'naturalmente lentos y nebulosos'; los cuerpos humanos están pobremente equipados para pensar y sentir, posiblemente les faltan sentidos esenciales para el verdadero conocimiento. Conecta con golem-de-cobre y conciencia-e-inteligencia-en-proxy (los límites cognitivos del sustrato biológico). Capturada en el entity_work desercion-simak como tesis nuclear del cuento",
+      "quote_evidence": "Los cerebros terrestres son \"naturalmente lentos y nebulosos\"; quizá los humanos son los más retrasados del universo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "desercion-simak",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "telepatía con Touser y comunicación más allá del lenguaje",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza específica del cuento Deserción: Fowler experimenta el cariño del perro Touser como conciencia directa; Touser siempre le habló pero Fowler no podía oírlo; ahora se comunican con símbolos de pensamiento superiores a las palabras. Pieza sobre la limitación del lenguaje articulado frente a la comunicación pre-lingüística. Conecta con teoria-del-lenguaje-en-proxy (significado puro vs significante articulado). Capturada en desercion-simak",
+      "quote_evidence": "Touser siempre le habló pero Fowler no podía oírlo; ahora se comunican con símbolos de pensamiento superiores a las palabras,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "desercion-simak",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "el robot detecta patrón humano (información vs comprensión esencial)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Tesis nuclear de El sexto palacio: el robot custodio del tesoro mata humanos no por respuestas erróneas sino por detección de patrón humano predecible (coherencia, lógica, afectividad, orgullo). Bolzano sobrevive temporalmente con incoherencias deliberadas pero muere al revelar motivación humana al final. El creador del robot opera en paradigma supra-humano. Pieza nuclear sobre la diferencia entre conocimiento factual y comprensión esencial. Conecta con golem-de-cobre, teoria-del-simbolo-en-proxy. Capturada en el-sexto-palacio-silverberg",
+      "quote_evidence": "El robot no evalúa si las respuestas son correctas o incorrectas: mata siempre que detecta un patrón humano (coherencia, lógica, afectividad, orgullo),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-sexto-palacio-silverberg",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la incoherencia como transcendencia del paradigma humano",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza foundational del cuento: 'donde el esfuerzo lógico fracasó, la incoherencia tiene éxito'. Bolzano responde con incoherencias deliberadas ('la rana en el estanque lanza un grito azulado') y el robot acepta. El conocimiento factual es hueco sin comprensión esencial. Aplica la distinción esotérico vs exotérico de teoria-de-la-magia-en-proxy en clave cognitiva: hay patrones que solo emergen abandonando la coherencia humana. Capturada en el-sexto-palacio-silverberg",
+      "quote_evidence": "Bolzano abandona la computadora y responde con incoherencias deliberadas (\"la rana en el estanque lanza un grito azulado\"),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-sexto-palacio-silverberg",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "la materialización de la fantasía como fuerza unidireccional",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Tesis específica del cuento Exilio: la proximidad a una central de energía actuó como fuerza amplificadora que materializó los pensamientos de Carrick en un cosmos vacío, pero la fuerza no opera en dirección contraria — el creador no puede escapar de su creación. Capturada en exilio-hamilton como tesis nuclear",
+      "quote_evidence": "Al imaginarse a sí mismo como habitante de ese mundo, queda atrapado: la fuerza no funciona en dirección contraria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "exilio-hamilton",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "no querer volver tras conocer lo suprahumano (paralelo con lo divino)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Tesis filosófica derivada del análisis de Deserción: nadie querría volver al cuerpo humano tras conocer lo suprahumano, igual que nadie querría regresar tras conocer lo divino. La pieza opera como aplicación literaria de la tesis del canal sobre la mística como apertura uránica irreversible (ya documentada en teoria-de-la-magia-en-proxy y magia-supersticion-religion-en-proxy). Capturada en desercion-simak",
+      "quote_evidence": "Nadie querría volver al cuerpo humano tras conocer lo suprahumano, igual que nadie querría regresar tras conocer lo divino,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "desercion-simak",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "objetos del tesoro como artesanía irreproducible (filigrana, ópalos, conchas anidadas)",
+      "reason_code": "captured_in_new_synthesis",
+      "reason_detail": "Pieza específica del cuento El sexto palacio: el tesoro contiene esculturas de filigrana de hierro, ópalos con luz interior, tallas de granito, conchas infinitamente anidadas — objetos imposibles de reproducir y sin precio. La pieza opera como cifra material de la 'esencia' que el robot exige: lo irreductible a paradigma humano. Capturada en el-sexto-palacio-silverberg",
+      "quote_evidence": "El tesoro contiene esculturas de filigrana de hierro, ópalos con luz interior, tallas de granito, conchas infinitamente anidadas: objetos imposibles de reproducir y sin precio,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "el-sexto-palacio-silverberg",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 6,
+    "promoted_new": 6,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[Exilio (cuento de Edmond Hamilton, leído íntegro)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Edmond Hamilton (escritor de ciencia ficción)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Deserción (cuento de Clifford D. Simak, leído íntegro)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Clifford D. Simak (escritor de ciencia ficción humanista)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[El sexto palacio (cuento de Robert Silverberg, leído íntegro)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence",
+    "WARN promote_new[Robert Silverberg (escritor de ciencia ficción especulativa)] depth=secondary: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

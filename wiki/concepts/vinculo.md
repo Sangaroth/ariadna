@@ -142,6 +142,8 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
 - **El Hate Bombing de la izquierda.** — chunks: [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767) · [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979)
 - **El síndrome de Wendy** — chunks: [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
 - **Ha vuelto a ocurrir.** — chunks: [1:34:59](https://youtu.be/C0Io49giVY8?t=5699)
@@ -166,4 +168,6 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [4:57](https://youtu.be/iPqOn-ynSlE?t=297)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:41:38](https://youtu.be/nw7fSEAJr-U?t=6098)
 - **Filosofía y ciencia del dolor** — chunks: [53:32](https://youtu.be/vgS1u1Kejkk?t=3212) · [1:16:43](https://youtu.be/vgS1u1Kejkk?t=4603)
+- **Mitología 101: Teseo y Ariadna** — chunks: [1:00:28](https://youtu.be/b03AszdViNw?t=3628)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [36:52](https://youtu.be/O4OkDuc3uPQ?t=2212)
 

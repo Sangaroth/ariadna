@@ -214,6 +214,11 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 
 
 
+
+
+
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:38:03](https://youtu.be/Dtp1_RLb7S0?t=5883) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [55:46](https://youtu.be/hx9creRpdnY?t=3346)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
@@ -226,4 +231,8 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **T4 Laboratorio de... filo, con Sofía** — chunks: [7:41](https://youtu.be/GizCbTycY4U?t=461)
 - **El mito de Dioniso** — chunks: [39:29](https://youtu.be/ttnUgH3jou8?t=2369) · [47:04](https://youtu.be/ttnUgH3jou8?t=2824)
+- **El mito del Gólem: Transhumanismo** — chunks: [1:09:03](https://youtu.be/hjc9L2_kkOo?t=4143)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [43:28](https://youtu.be/O4OkDuc3uPQ?t=2608)
+- **¿Qué es la magia?** — chunks: [1:10:41](https://youtu.be/AMXVKxN0Ccw?t=4241)
+- **De Platón A The Matrix** — chunks: [59:05](https://youtu.be/zr_ZKX60N54?t=3545)
 

@@ -296,6 +296,42 @@ La pieza articula la doble acepción técnica que la página manejaba implícita
 
 
 
+## Género como categoría circular y vacía: el yo imaginario y los mecanismos de poder como poética
+
+En el directo sobre la confusión miltoniana (oct-2024) el canal articula una crítica adicional al constructo sociológico de género operando por reducción al absurdo: si las manifestaciones culturales del sexo son iguales al sexo, entonces género y sexo son lo mismo y el término sobra; si son diferentes, nadie ha definido coherentemente qué es género que no sea ni identidad ni sexo. Lo que terminan definiendo al hablar de género es **el yo imaginario** — cómo a uno le gustaría que los demás le vieran — no una categoría ontológica.
+
+> "Si las manifestaciones culturales del sexo son iguales al sexo, entonces género y sexo son lo mismo y el término sobra,"
+→ [Eva, Lucifer, Satanás y la Serpiente. (40:09)](https://youtu.be/dHDv_oZODYQ?t=2409)
+
+> "Si son diferentes, hay que demostrar qué es género que no sea ni identidad ni sexo, y nadie lo ha definido coherentemente,"
+→ [Eva, Lucifer, Satanás y la Serpiente. (40:09)](https://youtu.be/dHDv_oZODYQ?t=2409)
+
+> "Lo que terminan definiendo al hablar de género es el yo imaginario: cómo me gustaría que los demás me vieran,"
+→ [Eva, Lucifer, Satanás y la Serpiente. (40:09)](https://youtu.be/dHDv_oZODYQ?t=2409)
+
+> "Las derivaciones del género (expresión, orientación, alineación) terminan describiendo el yo imaginario, no una categoría ontológica,"
+→ [Eva, Lucifer, Satanás y la Serpiente. (44:48)](https://youtu.be/dHDv_oZODYQ?t=2688)
+
+La pieza añade dos articulaciones operativas. Primera: la **circularidad estructural** del concepto. Si el género mezcla sexo e identidad, y ambos existen en toda sociedad, entonces el género existirá en toda sociedad por definición tautológica — el sintagma sociológico produce una categoría que predica su propia universalidad sin contenido empírico verificable. Segunda: el **yo imaginario** como contenido real del sintagma — no es ni el sexo cromosómico (registro físico) ni la identidad genuina (registro intrapsíquico tácito) sino el deseo de ser percibido de determinada manera por los otros. La pieza es pertinente a [[yo-ego-autoestima-en-proxy]] como subcomponente del aparato del self que la taxonomía yo/ego/self/autoestima no había documentado explícitamente: el yo imaginario es la fantasía reconstruida del cómo-quisiera-ser-visto, distinta de la autoimagen (cómo me veo a mí mismo) y del self (parte consciente del yo).
+
+### Mecanismos de poder como poética aplicable a cualquier objeto
+
+El canal aplica el aparato del [[sofisma-estetico]] a la pretensión foucaultiana de que el género es 'mecanismo de poder' y muestra por reductio que el mismo razonamiento se aplica a cualquier objeto:
+
+> "Cualquier objeto puede convertirse retóricamente en un mecanismo de poder si se categoriza en grupos con acceso desigual,"
+→ [Eva, Lucifer, Satanás y la Serpiente. (55:00)](https://youtu.be/dHDv_oZODYQ?t=3300)
+
+> "Los cables del cargador pueden describirse como mecanismo de poder con la misma lógica que el género,"
+→ [Eva, Lucifer, Satanás y la Serpiente. (55:00)](https://youtu.be/dHDv_oZODYQ?t=3300)
+
+> "Decir que el género es un mecanismo de poder es poética aplicable a cualquier objeto: cables, lápices, bolígrafos,"
+→ [Eva, Lucifer, Satanás y la Serpiente. (49:20)](https://youtu.be/dHDv_oZODYQ?t=2960)
+
+La argumentación es **prueba diagnóstica de poética**: si la fórmula descriptiva opera sobre cualquier objeto (cables, lápices, bolígrafos) con la misma corrección retórica, entonces no describe nada propio del objeto — es lenguaje poético aplicado, no análisis filosófico. La pieza cierra el flanco metodológico que la página articulaba implícitamente: el discurso identitario contemporáneo opera transversalmente como poética que se presenta como filosofía, y la prueba operativa para detectarlo es comprobar si la fórmula sobrevive al cambio de objeto sin perder precisión ni fuerza retórica.
+
+
+
+
 
 ## Feminismo queer vs feminismo clásico: dos estrategias psicológicas en conflicto
 

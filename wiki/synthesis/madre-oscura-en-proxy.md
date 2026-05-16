@@ -275,6 +275,11 @@ La madre oscura como tipología se inscribe en la [[tipologia-femenina-arquetipi
 
 
 
+
+
+
+
+
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [14:36](https://youtu.be/OT2DW4zoKsE?t=876) · [17:07](https://youtu.be/OT2DW4zoKsE?t=1027) · [21:39](https://youtu.be/OT2DW4zoKsE?t=1299) · [32:16](https://youtu.be/OT2DW4zoKsE?t=1936) · [35:18](https://youtu.be/OT2DW4zoKsE?t=2118)
 - **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [3:13](https://youtu.be/0EeqbwZJUQw?t=193)
 - **No entendiste HEREDITARY** — chunks: [31:42](https://youtu.be/r_4BY6W4lcU?t=1902) · [1:54:53](https://youtu.be/r_4BY6W4lcU?t=6893)
@@ -283,4 +288,7 @@ La madre oscura como tipología se inscribe en la [[tipologia-femenina-arquetipi
 - **Un Gólem llamado Prometeo.** — chunks: [1:33:10](https://youtu.be/Uykl0PLRRlo?t=5590)
 - **Un Gólem llamado Prometeo** — chunks: [1:34:41](https://youtu.be/lk3DKsIagAE?t=5681)
 - **El mito de Dioniso** — chunks: [12:42](https://youtu.be/ttnUgH3jou8?t=762)
+- **El mito del Gólem: Transhumanismo** — chunks: [13:38](https://youtu.be/hjc9L2_kkOo?t=818)
+- **Lilith: La Iconotropía.** — chunks: [9:12](https://youtu.be/xKCD8PaexF0?t=552)
+- **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [42:28](https://youtu.be/DNxx4qwb944?t=2548)
 
