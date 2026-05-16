@@ -609,8 +609,9 @@ def run_semantic_recovery(
 
     for pid, findings in by_page.items():
         page_info = page_lexicon[pid]
-        enriched = _enrich_findings_with_timestamps(findings, video_paths)
-        apply_stats = _apply_findings_as_citations(pid, page_info, enriched)
+        # _enrich_findings_with_timestamps muta findings in-place (devuelve None)
+        _enrich_findings_with_timestamps(findings, video_paths)
+        apply_stats = _apply_findings_as_citations(pid, page_info, findings)
         stats["citations_added"] += apply_stats.get("added", 0)
 
         for alias in alias_candidates_by_page[pid]:
