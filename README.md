@@ -6,7 +6,9 @@
 
 El usuario interactúa con cualquier LLM (GPT, Claude, Grok, Gemini, local) en Mattermost; al fondo, el MCP server resuelve consultas semánticas sobre la wiki estructurada y los chunks RAG del corpus.
 
-![Arquitectura: HOT path (consulta realtime) y COLD path (generación de conocimiento)](docs/images/architecture.png)
+![Arquitectura: HOT path (query realtime) + COLD path (workers) + Multi-tenant (proyectos compartimentados con búsqueda cruzada)](docs/images/architecture-multi-tenant.png)
+
+> Diagrama anterior (mono-corpus, sin multi-tenant): [docs/images/architecture.png](docs/images/architecture.png)
 
 ## Qué es y qué no es
 
@@ -128,10 +130,39 @@ curl -s -X POST http://127.0.0.1:8080/mcp \
 
 ## Tools MCP expuestas
 
-- **`search_corpus(query, top_k=5, category=None, playlist=None)`** — búsqueda híbrida con reranker cross-encoder + retrieval indirecto vía wiki citations. Devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended`. Wiki entries llevan `match_via ∈ {semantic, citation, citation_video, both}`. Schema: [docs/RESPONSE_FLOW.md §10](docs/RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30)
-- **`get_wiki_page(page_id, include_citations=False)`** — página wiki completa. Por defecto trima sección "## Citations" (provenance al corpus, puede ser KB enteros que no aportan a razonamiento conceptual). Pasa `include_citations=True` para incluirla.
+- **`search_corpus(query, top_k=5, top_k_wiki=2, category=None, playlist=None)`** — búsqueda híbrida con reranker cross-encoder + retrieval indirecto vía wiki citations. Devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended`. Las `wiki_pages` traen `body_snippet` (~800 chars: H1 + primer H2 + tesis central) + metadata estructural completa (`relations[]` con grafo tipado). Para el body completo de una página, usa `get_wiki_page`. Schema: [docs/RESPONSE_FLOW.md §10](docs/RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30)
+- **`get_wiki_page(page_id, include_citations=False)`** — página wiki completa (markdown body). Por defecto trima la sección "## Citations" al pie (provenance que puede ser KB enteros). Pasa `include_citations=True` si necesitas la provenance explícita.
 - **`get_video_summary(video_id)`** — chunks completos de un vídeo en orden cronológico
 - **`list_videos(category=None, playlist=None)`** — listado filtrado de vídeos del corpus
+
+## Ejemplo de flow (request real)
+
+Usuario en Mattermost pregunta: _"¿Cómo conecta la alostasis con el wokismo?"_
+
+```
+1. Plugin AI dispara: search_corpus(query="alostasis wokismo")
+   → MCP responde en <500ms con:
+       - wiki_pages[]: 6 candidatas con body_snippet (~500 chars cada una)
+         incluyendo alostasis-y-apagon-organico, woke-narrativa-postmoderna-moral,
+         camino-victima, herida-narcisista-en-proxy
+       - raw_chunks[]: 5 con cite_markdown
+       - retrieval_metadata.mode_recommended: "balanced"
+
+2. LLM lee snippets + relations[] tipadas, identifica las 2 pages clave:
+       - get_wiki_page("alostasis-y-apagon-organico")  → body completo ~15KB
+       - get_wiki_page("woke-narrativa-postmoderna-moral") → body completo ~12KB
+
+3. LLM construye respuesta cruzando ambas pages + citando chunks raw con
+   timestamps YouTube clicables:
+       "El wokismo no sería la alostasis, sino una mala gestión psíquica de
+        la alostasis... La activación permanente degenera en hiperreactividad
+        moral... → [Wokismo para Wokes (1:25:25)](https://youtu.be/...)"
+
+Total: ~26K tokens input, ~$0.10 con gpt-5.4 (o ~$0.01 con mini).
+Trace completo de tool calls visible en el panel del plugin AI.
+```
+
+El `body_snippet` permite al LLM filtrar entre N páginas devueltas antes de invocar `get_wiki_page` solo en las 1-3 que realmente necesita profundizar. Para queries cross-conceptuales eso reduce ~95% de tokens vs servir bodies completos en `search_corpus`.
 
 ## Pipeline cold (generación de wiki)
 
