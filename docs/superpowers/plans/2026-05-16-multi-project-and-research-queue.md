@@ -1936,3 +1936,1112 @@ Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 ```
 
 ---
+
+## Chunk 4: ProjectConfig module + path updates
+
+> Crea el módulo `ariadna/project_config.py` que resuelve recursos editoriales (scope, topic_filters, canonical_whitelist, subagent_prompt, relation_types core+ext) aplicando el patrón default→override (spec sección 7.1-7.2). Después actualiza los paths hardcoded en los 7 archivos Python afectados para que apunten al nuevo layout multi-project: `data/wiki.db` → `data/ariadna.db`, `wiki/` → `projects/<slug>/wiki/`, `wiki/_meta/extraction_runs/` → `projects/<slug>/_meta/extraction_runs/`, y `citations.video_id` → `citations.source_id`. Los scripts CLI ganan `--project` flag.
+>
+> **Pre-condición:** Chunks 2-3 completados. `data/ariadna.db` existe con contenido `proxy`; el filesystem ya está en `projects/proxy/{_meta,wiki}/`; los defaults globales están en `wiki/_meta/*_default.*`.
+>
+> **Out of scope:** wiring del parámetro `project` en las tools MCP (eso vive en Chunk 8); registro de `reload_relation_types` en el startup del MCP server (Chunk 8). En este chunk la función `reload_relation_types` se escribe pero no se invoca en ningún hook todavía.
+
+### Task 4.1: Crear `ariadna/project_config.py`
+
+> Módulo nuevo con `ProjectConfig` (resuelve recursos per-proyecto vía default→override fallback) y `reload_relation_types()` (rellena la tabla `relation_types_canonical` en SQLite desde core JSON + ext JSON por proyecto, transacción atómica). Stateless: lee filesystem en cada acceso (archivos pequeños).
+
+**Files:**
+- Create: `ariadna/project_config.py`
+- Test: `tests/test_project_config.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_project_config.py
+"""Tests para ProjectConfig: resolución default→override + reload de relation_types."""
+import json
+import sqlite3
+from pathlib import Path
+
+import pytest
+
+
+@pytest.fixture
+def fake_repo(tmp_path: Path) -> Path:
+    """Construye un mini repo con la estructura wiki/_meta/ + projects/proxy/_meta/."""
+    (tmp_path / "wiki" / "_meta").mkdir(parents=True)
+    (tmp_path / "projects" / "proxy" / "_meta").mkdir(parents=True)
+    (tmp_path / "projects" / "proxy" / "wiki").mkdir()
+
+    # defaults globales
+    (tmp_path / "wiki" / "_meta" / "scope_default.md").write_text("# default scope\n")
+    (tmp_path / "wiki" / "_meta" / "topic_filters_default.json").write_text(
+        json.dumps({"version": "1.0", "drop_patterns": []})
+    )
+    (tmp_path / "wiki" / "_meta" / "canonical_whitelist_default.json").write_text(
+        json.dumps({"terms": []})
+    )
+    (tmp_path / "wiki" / "_meta" / "subagent_prompt_default.md").write_text(
+        "# default subagent prompt\n"
+    )
+    # core relation_types con shape de dict (tal como hoy)
+    (tmp_path / "wiki" / "_meta" / "relation_types_core.json").write_text(json.dumps({
+        "version": "2.0.0",
+        "types": {
+            "developed_by": {"description": "x dev by y", "from": ["concept"], "to": ["author"], "inverse": "developed"},
+            "developed":    {"description": "x dev",      "from": ["author"], "to": ["concept"], "inverse": "developed_by"},
+        }
+    }))
+
+    # override Proxy: scope + subagent_prompt + ext vacío
+    (tmp_path / "projects" / "proxy" / "_meta" / "scope.md").write_text("# proxy scope\n")
+    (tmp_path / "projects" / "proxy" / "_meta" / "subagent_prompt.md").write_text(
+        "<!-- BEGIN PROMPT concept_author_entity_work -->\nproxy prompt body\n<!-- END PROMPT concept_author_entity_work -->\n"
+        "<!-- BEGIN PROMPT synthesis -->\nproxy synthesis body\n<!-- END PROMPT synthesis -->\n"
+    )
+    (tmp_path / "projects" / "proxy" / "_meta" / "relation_types_ext.json").write_text(
+        json.dumps({"types": {}})  # dict shape (consistente con core); _normalize_types_block acepta ambos
+    )
+    # SQLite con projects + relation_types_canonical
+    db = tmp_path / "data" / "ariadna.db"
+    db.parent.mkdir()
+    conn = sqlite3.connect(str(db))
+    conn.executescript("""
+        CREATE TABLE projects(project_id TEXT PRIMARY KEY, name TEXT NOT NULL,
+            description TEXT, created_at TEXT NOT NULL, archived_at TEXT,
+            config_version TEXT NOT NULL DEFAULT '1.0');
+        CREATE TABLE relation_types_canonical(
+            project_id TEXT, type TEXT NOT NULL,
+            description TEXT, inverse TEXT,
+            from_types_csv TEXT, to_types_csv TEXT,
+            PRIMARY KEY (project_id, type));
+        INSERT INTO projects(project_id, name, created_at)
+            VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00');
+    """)
+    conn.commit()
+    conn.close()
+    return tmp_path
+
+
+def test_for_project_falls_back_to_default(fake_repo, monkeypatch):
+    monkeypatch.chdir(fake_repo)
+    from ariadna.project_config import ProjectConfig
+
+    cfg = ProjectConfig.for_project("proxy")
+    # scope: override existe → usa el de Proxy
+    assert cfg.scope_text() == "# proxy scope\n"
+    # topic_filters: no hay override → cae al default
+    assert cfg.topic_filters() == {"version": "1.0", "drop_patterns": []}
+    # canonical_whitelist: no hay override → default
+    assert cfg.canonical_whitelist() == {"terms": []}
+    # subagent_prompt: hay override → carga del archivo Proxy y devuelve dict por kind
+    prompts = cfg.subagent_prompts()
+    assert "concept_author_entity_work" in prompts
+    assert "synthesis" in prompts
+    assert "proxy prompt body" in prompts["concept_author_entity_work"]
+
+
+def test_for_project_raises_if_unknown(fake_repo, monkeypatch):
+    monkeypatch.chdir(fake_repo)
+    from ariadna.project_config import ProjectConfig, ProjectNotFoundError
+
+    with pytest.raises(ProjectNotFoundError):
+        ProjectConfig.for_project("does-not-exist")
+
+
+def test_wiki_root_and_extraction_runs_paths(fake_repo, monkeypatch):
+    monkeypatch.chdir(fake_repo)
+    from ariadna.project_config import ProjectConfig
+
+    cfg = ProjectConfig.for_project("proxy")
+    assert cfg.wiki_root() == (fake_repo / "projects" / "proxy" / "wiki").resolve()
+    assert cfg.extraction_runs_dir() == (fake_repo / "projects" / "proxy" / "_meta" / "extraction_runs").resolve()
+
+
+def test_reload_relation_types_inserts_core_and_ext(fake_repo, monkeypatch):
+    monkeypatch.chdir(fake_repo)
+    from ariadna.project_config import reload_relation_types
+
+    conn = sqlite3.connect(str(fake_repo / "data" / "ariadna.db"))
+    reload_relation_types(conn)
+    rows = conn.execute(
+        "SELECT project_id, type FROM relation_types_canonical ORDER BY project_id, type"
+    ).fetchall()
+    # core es project_id NULL; ext de proxy no añade nada porque está vacío
+    assert rows == [(None, "developed"), (None, "developed_by")]
+    conn.close()
+
+
+def test_reload_relation_types_rejects_ext_colliding_with_core(fake_repo, monkeypatch):
+    monkeypatch.chdir(fake_repo)
+    from ariadna.project_config import reload_relation_types, ConfigError
+
+    # Forzar colisión: ext declara un tipo "developed" (que es core)
+    (fake_repo / "projects" / "proxy" / "_meta" / "relation_types_ext.json").write_text(
+        json.dumps({"types": {"developed": {"description": "...", "inverse": "x", "from": [], "to": []}}})
+    )
+    conn = sqlite3.connect(str(fake_repo / "data" / "ariadna.db"))
+    with pytest.raises(ConfigError, match="developed"):
+        reload_relation_types(conn)
+    # La tabla queda con el estado previo (vacío en este caso, no parcial)
+    n = conn.execute("SELECT COUNT(*) FROM relation_types_canonical").fetchone()[0]
+    assert n == 0
+    conn.close()
+
+
+def test_reload_relation_types_rejects_malformed_ext_json(fake_repo, monkeypatch):
+    """Spec sección 7.3: JSON inválido en ext_path debe fallar loudly y rollback intacto."""
+    monkeypatch.chdir(fake_repo)
+    from ariadna.project_config import reload_relation_types
+
+    (fake_repo / "projects" / "proxy" / "_meta" / "relation_types_ext.json").write_text(
+        "{ this is not json"
+    )
+    conn = sqlite3.connect(str(fake_repo / "data" / "ariadna.db"))
+    with pytest.raises(json.JSONDecodeError):
+        reload_relation_types(conn)
+    # Tabla queda intacta — rollback automático
+    n = conn.execute("SELECT COUNT(*) FROM relation_types_canonical").fetchone()[0]
+    assert n == 0
+    conn.close()
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_project_config.py -v
+# Expected: collection error o ModuleNotFoundError (ariadna.project_config no existe)
+```
+
+- [ ] **Step 3: Implement `ariadna/project_config.py`**
+
+```python
+"""ProjectConfig — resolución de recursos editoriales per-proyecto.
+
+Aplica el patrón default→override de spec sección 7.1-7.2:
+- defaults globales viven en `wiki/_meta/*_default.*` (plantillas editables).
+- overrides per-proyecto viven en `projects/<slug>/_meta/<name>.*` (sin sufijo).
+
+Stateless: cada llamada lee filesystem (archivos pequeños, < 10 ms).
+
+También expone `reload_relation_types(conn)` que rellena la tabla
+`relation_types_canonical` en SQLite desde `wiki/_meta/relation_types_core.json` +
+las `projects/<slug>/_meta/relation_types_ext.json` de cada proyecto activo,
+en una transacción atómica (spec sección 7.3).
+"""
+from __future__ import annotations
+
+import json
+import re
+import sqlite3
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Any, Iterable
+
+
+REPO = Path(__file__).resolve().parent.parent
+WIKI_META = REPO / "wiki" / "_meta"
+
+
+class ProjectNotFoundError(LookupError):
+    """Lanzado por ProjectConfig.for_project cuando el slug no está en SQLite."""
+
+
+class ConfigError(RuntimeError):
+    """Configuración editorial inválida (colisión core↔ext, etc)."""
+
+
+@dataclass(frozen=True)
+class ProjectConfig:
+    project_id: str
+
+    @staticmethod
+    def for_project(project_id: str, db_path: Path | None = None) -> "ProjectConfig":
+        """Valida que el slug existe en la tabla projects de ariadna.db."""
+        db = db_path or (REPO / "data" / "ariadna.db")
+        if not db.exists():
+            raise ProjectNotFoundError(
+                f"ariadna.db not found at {db}; run scripts/init_ariadna_db.py first"
+            )
+        conn = sqlite3.connect(f"file:{db}?mode=ro", uri=True)
+        try:
+            row = conn.execute(
+                "SELECT project_id FROM projects WHERE project_id=?", (project_id,)
+            ).fetchone()
+        finally:
+            conn.close()
+        if row is None:
+            raise ProjectNotFoundError(f"unknown project_id: {project_id!r}")
+        return ProjectConfig(project_id=project_id)
+
+    # --- paths --------------------------------------------------------------
+
+    @property
+    def _meta_dir(self) -> Path:
+        return (REPO / "projects" / self.project_id / "_meta").resolve()
+
+    def wiki_root(self) -> Path:
+        return (REPO / "projects" / self.project_id / "wiki").resolve()
+
+    def extraction_runs_dir(self) -> Path:
+        return (self._meta_dir / "extraction_runs").resolve()
+
+    def _resolve(self, name: str) -> Path:
+        """Resuelve nombre relativo aplicando default→override fallback.
+        Ej: 'scope.md' → projects/<pid>/_meta/scope.md si existe, si no
+        wiki/_meta/scope_default.md. Si ninguno existe, ConfigError.
+        """
+        local = self._meta_dir / name
+        if local.exists():
+            return local
+        stem, _, ext = name.rpartition(".")
+        fallback = WIKI_META / f"{stem}_default.{ext}"
+        if not fallback.exists():
+            raise ConfigError(
+                f"missing editorial resource {name!r} for project {self.project_id!r}: "
+                f"no override at {local}, no default at {fallback}"
+            )
+        return fallback
+
+    # --- accessors ----------------------------------------------------------
+
+    def scope_text(self) -> str:
+        return self._resolve("scope.md").read_text()
+
+    def topic_filters(self) -> dict:
+        return json.loads(self._resolve("topic_filters.json").read_text())
+
+    def canonical_whitelist(self) -> dict:
+        return json.loads(self._resolve("canonical_whitelist.json").read_text())
+
+    def subagent_prompts(self) -> dict[str, str]:
+        """Lee `subagent_prompt.md` (o default) y devuelve {kind: prompt_text}.
+        El archivo separa kinds con `<!-- BEGIN/END PROMPT <kind> -->`.
+        Default file: una sola sección kind=concept_author_entity_work.
+        """
+        text = self._resolve("subagent_prompt.md").read_text()
+        return _parse_prompt_sections(text)
+
+    def relation_types_ext(self) -> dict:
+        """Devuelve {types: {name: {...}}} o {types: {}} si no hay ext."""
+        path = self._meta_dir / "relation_types_ext.json"
+        if not path.exists():
+            return {"types": {}}
+        return json.loads(path.read_text())
+
+
+_PROMPT_RE = re.compile(
+    r"<!--\s*BEGIN PROMPT (\S+)\s*-->\n?(.*?)\n?<!--\s*END PROMPT \1\s*-->",
+    re.DOTALL,
+)
+_YAML_FRONTMATTER_RE = re.compile(r"\A---\n.*?\n---\n", re.DOTALL)
+
+
+def _parse_prompt_sections(text: str) -> dict[str, str]:
+    """Extrae bloques con markers <!-- BEGIN/END PROMPT <kind> -->.
+    Si no hay markers, strip de YAML frontmatter inicial y devuelve
+    {'concept_author_entity_work': text.strip()} (compat con el default
+    plano que tiene frontmatter pero un solo cuerpo).
+    """
+    matches = _PROMPT_RE.findall(text)
+    if not matches:
+        body = _YAML_FRONTMATTER_RE.sub("", text, count=1)
+        return {"concept_author_entity_work": body.strip()}
+    return {kind: body.strip() for kind, body in matches}
+
+
+# --- relation types reload ---------------------------------------------------
+
+def _normalize_types_block(block: Any) -> Iterable[tuple[str, dict]]:
+    """Soporta dos shapes del campo `types`:
+       - dict {name: {description, inverse, from, to}}  ← shape actual
+       - list [{type, description, ...}]                ← shape spec section 7.3 pseudocode
+    Devuelve siempre tuplas (type_name, attrs_dict).
+    """
+    if isinstance(block, dict):
+        for name, attrs in block.items():
+            yield name, attrs
+    elif isinstance(block, list):
+        for t in block:
+            yield t["type"], t
+    else:
+        raise ConfigError(f"relation_types.types has unexpected shape: {type(block).__name__}")
+
+
+def reload_relation_types(conn: sqlite3.Connection) -> None:
+    """Rellena `relation_types_canonical` en SQLite con:
+       - core de `wiki/_meta/relation_types_core.json` (project_id=NULL)
+       - ext de cada `projects/<slug>/_meta/relation_types_ext.json` (project_id=slug)
+    En transacción atómica: cualquier excepción rollback completo, la tabla
+    queda con su estado anterior intacto. Si un ext declara un tipo que ya
+    existe en core, levanta ConfigError. Si el JSON está malformado, propaga
+    `json.JSONDecodeError` (rollback aplica igual).
+    """
+    core_path = WIKI_META / "relation_types_core.json"
+    core_doc = json.loads(core_path.read_text())
+    core_types = dict(_normalize_types_block(core_doc.get("types", {})))
+    core_names = set(core_types)
+
+    with conn:  # implicit BEGIN ... COMMIT/ROLLBACK
+        conn.execute("DELETE FROM relation_types_canonical")
+        for name, attrs in core_types.items():
+            conn.execute(
+                "INSERT INTO relation_types_canonical(project_id, type, description, "
+                "inverse, from_types_csv, to_types_csv) VALUES (NULL, ?, ?, ?, ?, ?)",
+                (
+                    name,
+                    attrs.get("description"),
+                    attrs.get("inverse"),
+                    ",".join(attrs.get("from", [])),
+                    ",".join(attrs.get("to", [])),
+                ),
+            )
+        project_ids = [
+            r[0] for r in conn.execute(
+                "SELECT project_id FROM projects WHERE archived_at IS NULL"
+            ).fetchall()
+        ]
+        for pid in project_ids:
+            ext_path = REPO / "projects" / pid / "_meta" / "relation_types_ext.json"
+            if not ext_path.exists():
+                continue
+            ext_doc = json.loads(ext_path.read_text())  # may raise JSONDecodeError → rollback
+            for name, attrs in _normalize_types_block(ext_doc.get("types", {})):
+                if name in core_names:
+                    raise ConfigError(
+                        f"Project {pid!r} ext declares type {name!r} that collides with core. "
+                        f"Rename or remove."
+                    )
+                conn.execute(
+                    "INSERT INTO relation_types_canonical(project_id, type, description, "
+                    "inverse, from_types_csv, to_types_csv) VALUES (?, ?, ?, ?, ?, ?)",
+                    (
+                        pid, name,
+                        attrs.get("description"),
+                        attrs.get("inverse"),
+                        ",".join(attrs.get("from", [])),
+                        ",".join(attrs.get("to", [])),
+                    ),
+                )
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_project_config.py -v
+# Expected: 6 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/project_config.py tests/test_project_config.py
+git commit -m "feat(projects): ProjectConfig + reload_relation_types
+
+Resuelve scope/topic_filters/canonical_whitelist/subagent_prompts vía
+default→override fallback. reload_relation_types rellena
+relation_types_canonical en transacción atómica desde core JSON +
+extensions por proyecto, con detección de colisiones core↔ext.
+
+Soporta ambos shapes del campo 'types' (dict y list) para compat con el
+shape actual y el pseudocode del spec.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 4.2: Actualizar `ariadna/search.py` — `wiki.db` → `ariadna.db` + `video_id` → `source_id`
+
+> El Searcher hoy abre `data/wiki.db` y ejecuta queries con `citations.video_id`. Tras Chunk 2, el contenido vive en `data/ariadna.db` con columnas renombradas. Cambios mínimos: path constant + 2 columnas en SQL. No se añade filtro `project_id` todavía — esto se hace en Chunk 8 (cuando MCP tools acepten `project` param). En este chunk el Searcher queda multi-tenant-aware pero sin scoping, que es semánticamente equivalente al estado pre-migración (solo existe 'proxy').
+
+**Files:**
+- Modify: `ariadna/search.py:18-21` (constant rename)
+- Modify: `ariadna/search.py:97-120` (constructor + `_open_*`)
+- Modify: `ariadna/search.py:329-411` (citations queries — `video_id` → `source_id`)
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_search_uses_ariadna_db.py
+"""Verifica que Searcher abre data/ariadna.db (no wiki.db) y consulta
+citations con la nueva columna source_id."""
+import sqlite3
+from pathlib import Path
+
+import pytest
+
+
+def test_searcher_constant_points_to_ariadna_db():
+    from ariadna import search
+    assert search.ARIADNA_DB_PATH.name == "ariadna.db"
+    # legacy alias kept temporarily? — NO, eliminar
+    assert not hasattr(search, "WIKI_DB_PATH"), \
+        "WIKI_DB_PATH debe haberse retirado; el código usa ARIADNA_DB_PATH"
+
+
+def test_searcher_citations_query_uses_source_id_column(tmp_path, monkeypatch):
+    """Smoke: con un ariadna.db mínimo, _lookup_wiki_via_citations no falla."""
+    db = tmp_path / "ariadna.db"
+    conn = sqlite3.connect(str(db))
+    conn.executescript("""
+        CREATE TABLE projects(project_id TEXT PRIMARY KEY, name TEXT, created_at TEXT NOT NULL);
+        CREATE TABLE pages(project_id TEXT, page_id TEXT, page_type TEXT NOT NULL,
+            canonical_name TEXT NOT NULL, domain_primary TEXT, file_path TEXT NOT NULL,
+            last_compiled TEXT, sources_count INTEGER, review_status TEXT,
+            body_md TEXT NOT NULL, indexed_at TEXT NOT NULL,
+            PRIMARY KEY (project_id, page_id));
+        CREATE TABLE aliases(project_id TEXT, page_id TEXT, alias TEXT,
+            PRIMARY KEY (project_id, page_id, alias));
+        CREATE TABLE relations(project_id TEXT, from_page_id TEXT, type TEXT,
+            to_page_id TEXT, note TEXT, weight TEXT,
+            PRIMARY KEY (project_id, from_page_id, type, to_page_id));
+        CREATE TABLE citations(project_id TEXT, page_id TEXT, source_id TEXT NOT NULL,
+            timestamp_seconds INTEGER NOT NULL DEFAULT 0, title TEXT, url TEXT NOT NULL,
+            PRIMARY KEY (project_id, page_id, source_id, timestamp_seconds));
+        INSERT INTO projects VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00');
+        INSERT INTO pages VALUES ('proxy', 'shadow', 'concept', 'Sombra', 'jung',
+            'concepts/shadow.md', NULL, 1, 'reviewed', '# Sombra',
+            '2026-05-16T00:00:00+00:00');
+        INSERT INTO citations VALUES ('proxy', 'shadow', 'vid_a', 120, 'Sombra', 'https://x');
+    """)
+    conn.commit()
+    conn.close()
+
+    from ariadna.search import Searcher
+    s = Searcher.__new__(Searcher)  # no full init
+    s.wiki_db_path = db  # legacy attr name retained for minimal diff (renombre interno)
+    hits = s._lookup_wiki_via_citations([
+        {"video_id": "vid_a", "timestamp_seconds": 120, "dense_score": 0.9, "score": 0.9,
+         "video_title": "Sombra"}
+    ])
+    assert "shadow" in hits
+    assert hits["shadow"][0]["match_strength"] == "exact"
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_search_uses_ariadna_db.py -v
+# Expected: AssertionError "ARIADNA_DB_PATH no existe" o similar
+```
+
+- [ ] **Step 3: Apply edits to `ariadna/search.py`**
+
+Cambios concretos:
+
+1. **Línea 18-21**: renombrar la constante. Reemplaza:
+   ```python
+   WIKI_DB_PATH = Path(__file__).resolve().parent.parent / "data" / "wiki.db"
+   ```
+   por:
+   ```python
+   ARIADNA_DB_PATH = Path(__file__).resolve().parent.parent / "data" / "ariadna.db"
+   ```
+
+2. **Línea 102, 107, 108, 112**: parámetro y atributo. Reemplaza el `wiki_db_path` (constructor + asignación) por **misma** firma — `wiki_db_path` se mantiene como **nombre interno** del atributo para minimizar churn pero apunta a ariadna.db. Cambio:
+   ```python
+   def __init__(self, ..., wiki_db_path: Path | None = None) -> None:
+       ...
+       self.wiki_db_path = wiki_db_path or ARIADNA_DB_PATH
+       if not self.wiki_db_path.exists():
+           log.warning(
+               "ariadna.db no existe en %s — lookup indirecto vía citations desactivado. "
+               "Ejecuta `python scripts/init_ariadna_db.py && python scripts/build_wiki_db.py --project=proxy`.",
+               self.wiki_db_path,
+           )
+   ```
+
+3. **Línea 116 (docstring)**: cambia "Abre conexión read-only a wiki.db" → "Abre conexión read-only a ariadna.db".
+
+4. **3 queries SQL** que usan `citations.video_id`:
+   - `ariadna/search.py:348`: `WHERE video_id = ? AND timestamp_seconds = ?`
+   - `ariadna/search.py:386`: `SELECT DISTINCT page_id FROM citations WHERE video_id = ?`
+   - `ariadna/search.py:437`: `WHERE video_id = ? AND timestamp_seconds = ?`
+
+   Renombrar la columna en las 3:
+   ```python
+   # antes
+   "WHERE video_id = ? AND timestamp_seconds = ?"
+   # después
+   "WHERE source_id = ? AND timestamp_seconds = ?"
+   ```
+   Los parámetros bind siguen llamándose `video_id` en el código Python (es el field name del chunk Qdrant, que no cambia) — solo cambia el nombre de columna SQL.
+
+5. **Línea 175 (docstring)**: actualizar referencia "data/wiki.db:citations" → "data/ariadna.db:citations".
+
+6. **Líneas 308-309 y 540 (docstrings)**: idem.
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_search_uses_ariadna_db.py -v
+# Expected: 2 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/search.py tests/test_search_uses_ariadna_db.py
+git commit -m "refactor(search): Searcher lee data/ariadna.db con columna source_id
+
+WIKI_DB_PATH → ARIADNA_DB_PATH; SQL citations.video_id → citations.source_id.
+Sin filtro project_id todavía (Chunk 8 wireará el param en la tool MCP);
+multi-tenant sin scoping es semánticamente equivalente al pre-migración
+porque solo existe 'proxy'.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 4.3: `scripts/build_wiki_db.py` — flag `--project` y target `ariadna.db`
+
+> El builder hoy escanea `wiki/` global y escribe a `data/wiki.db`. Cambios: acepta `--project=<slug>` (requerido), resuelve `wiki_root` vía `ProjectConfig`, escribe a `data/ariadna.db`, taggea cada fila con `project_id=<slug>`. **Modo:** UPSERT (`INSERT OR REPLACE` con PK compuesta `(project_id, page_id)`) para que builds repetidos sean idempotentes sin truncar otras proyectos.
+
+**Files:**
+- Modify: `scripts/build_wiki_db.py:47-49` (constants), `:253` (DELETE→DELETE scoped), CLI argparse, SQL templates.
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# scripts/test_build_wiki_db_project_aware.py
+"""Verifica que build_wiki_db.py --project=proxy escribe en ariadna.db
+con project_id correctamente y NO toca filas de otros proyectos."""
+import shutil
+import sqlite3
+import subprocess
+from pathlib import Path
+
+
+def test_build_wiki_db_scoped_to_project(tmp_path, monkeypatch):
+    repo = tmp_path / "repo"
+    repo.mkdir()
+    # Estructura mínima de un proyecto Proxy
+    (repo / "projects" / "proxy" / "wiki" / "concepts").mkdir(parents=True)
+    (repo / "projects" / "proxy" / "_meta").mkdir(parents=True)
+    (repo / "projects" / "proxy" / "wiki" / "concepts" / "shadow.md").write_text(
+        "---\npage_id: shadow\npage_type: concept\ncanonical_name: Sombra\n"
+        "domain_primary: jung\nrelations:\n  - type: developed_by\n    to: jung\n"
+        "aliases:\n  - sombra\n---\n# Sombra\nLa [[jung]] desarrolló este concepto.\n"
+    )
+    (repo / "wiki" / "_meta").mkdir(parents=True)
+    shutil.copy("wiki/_meta/relation_types_core.json", repo / "wiki" / "_meta" / "relation_types_core.json")
+    (repo / "data").mkdir()
+
+    # init schema + proyecto
+    subprocess.run(
+        [".venv/bin/python",
+         str(Path("scripts/init_ariadna_db.py").resolve()),
+         "--db", str(repo / "data" / "ariadna.db")],
+        check=True, capture_output=True, timeout=30,
+    )
+    conn = sqlite3.connect(str(repo / "data" / "ariadna.db"))
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00')")
+    # Crear OTRO proyecto con una page sintética para verificar aislamiento
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('other', 'Other', '2026-05-16T00:00:00+00:00')")
+    conn.execute("INSERT INTO pages(project_id, page_id, page_type, canonical_name, "
+                 "file_path, body_md, indexed_at) "
+                 "VALUES ('other', 'foo', 'concept', 'Foo', 'concepts/foo.md', '# Foo',"
+                 "'2026-05-16T00:00:00+00:00')")
+    conn.commit()
+    conn.close()
+
+    monkeypatch.chdir(repo)
+    result = subprocess.run(
+        [".venv/bin/python",
+         str(Path("scripts/build_wiki_db.py").resolve()),
+         "--project", "proxy"],
+        capture_output=True, text=True, timeout=60,
+    )
+    assert result.returncode == 0, f"build failed: {result.stderr}"
+
+    conn = sqlite3.connect(str(repo / "data" / "ariadna.db"))
+    n_proxy = conn.execute("SELECT COUNT(*) FROM pages WHERE project_id='proxy'").fetchone()[0]
+    assert n_proxy == 1
+    # 'other' no se ha tocado:
+    n_other = conn.execute("SELECT COUNT(*) FROM pages WHERE project_id='other'").fetchone()[0]
+    assert n_other == 1
+    # FK constraint: relations[0].from_page_id apunta a 'shadow'
+    rels = conn.execute("SELECT type, to_page_id FROM relations WHERE project_id='proxy'").fetchall()
+    assert ("developed_by", "jung") in rels
+    conn.close()
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest scripts/test_build_wiki_db_project_aware.py -v
+# Expected: FAIL — script doesn't have --project flag
+```
+
+- [ ] **Step 3: Apply edits to `scripts/build_wiki_db.py`**
+
+Cambios:
+
+1. **Líneas 47-49** (constants): reemplazar
+   ```python
+   WIKI_DIR = REPO / "wiki"
+   DB_PATH = REPO / "data" / "wiki.db"
+   RELATION_TYPES_PATH = WIKI_DIR / "_meta" / "relation_types.json"
+   ```
+   por
+   ```python
+   # Resueltos al parsear --project (ver main()):
+   PROJECT_ID: str = ""           # set by main()
+   WIKI_DIR: Path | None = None   # set by main()
+   DB_PATH = REPO / "data" / "ariadna.db"
+   RELATION_TYPES_CORE_PATH = REPO / "wiki" / "_meta" / "relation_types_core.json"
+   ```
+
+2. **Schema CREATE TABLE** (en el `executescript` del build): **eliminar todo el bloque CREATE TABLE**. Las tablas ya existen en `ariadna.db` (creadas por `init_ariadna_db.py`). El script ahora solo INSERTea (no crea schema).
+
+3. **DELETE statements antes del rebuild** (línea ~253):
+   ```python
+   # antes (borra todas las filas de las tablas, single-tenant):
+   for tbl in ("citations", "body_wikilinks", "relations", "aliases", "pages"):
+       conn.execute(f"DELETE FROM {tbl}")
+
+   # después (borra solo las filas de este proyecto):
+   for tbl in ("citations", "body_wikilinks", "relations", "aliases", "pages"):
+       conn.execute(f"DELETE FROM {tbl} WHERE project_id=?", (PROJECT_ID,))
+   ```
+   (Las FK ON DELETE CASCADE no aplican porque pages no se borra primero — el orden inverso de citation→body_wikilinks→relations→aliases→pages respeta dependencias.)
+
+4. **Cada INSERT** debe taggear `project_id`:
+   ```python
+   # ejemplo pages:
+   conn.execute(
+       "INSERT INTO pages(project_id, page_id, page_type, canonical_name, domain_primary, "
+       "file_path, last_compiled, sources_count, review_status, body_md, indexed_at) "
+       "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+       (PROJECT_ID, page_id, page_type, ...),
+   )
+   ```
+   Y `citations`: la columna se llama ahora `source_id`, no `video_id`:
+   ```python
+   conn.execute(
+       "INSERT INTO citations(project_id, page_id, source_id, timestamp_seconds, title, url) "
+       "VALUES (?, ?, ?, ?, ?, ?)",
+       (PROJECT_ID, page_id, video_id, ts, title, url),
+   )
+   ```
+
+5. **argparse** (en `main()`): añadir
+   ```python
+   parser.add_argument("--project", required=True,
+                       help="Project slug (e.g. 'proxy'). Read from projects table at startup.")
+   ```
+   y al inicio de main:
+   ```python
+   global PROJECT_ID, WIKI_DIR
+   from ariadna.project_config import ProjectConfig
+   cfg = ProjectConfig.for_project(args.project)
+   PROJECT_ID = args.project
+   WIKI_DIR = cfg.wiki_root()
+   ```
+
+6. **Queries de drift/broken/citations en el CLI `--query`** (`scripts/build_wiki_db.py` líneas ~290-360 en las funciones `q_drift()`, `q_broken()`, `q_citations()`, `q_backlinks()`, `q_stats()`):
+   - Cualquier SQL que diga `citations.video_id` → `citations.source_id`.
+   - Cada query SELECT debe filtrar por proyecto: añadir `WHERE project_id = ?` con el slug actual como bind param. Smoke `python scripts/build_wiki_db.py --project=proxy --query=stats` debe devolver los mismos counts pre-migración.
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest scripts/test_build_wiki_db_project_aware.py -v
+# Expected: PASS
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add scripts/build_wiki_db.py scripts/test_build_wiki_db_project_aware.py
+git commit -m "feat(build_wiki_db): flag --project, target ariadna.db, scoped UPSERT
+
+Script lee projects/<slug>/wiki/, escribe a data/ariadna.db con
+project_id=<slug> en cada fila. Otros proyectos no se tocan. Schema lo
+crea init_ariadna_db.py (este script ya no CREATE TABLE).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 4.4: `scripts/index_wiki_to_qdrant.py` — per-project + `project_id` payload
+
+> El indexador hoy escanea `wiki/**` y escribe puntos con payload sin `project_id`. Cambios: aceptar `--project=<slug>`, usar `ProjectConfig.wiki_root()`, añadir `project_id` al payload de cada wiki_page indexada. Idempotencia per-proyecto: el delete previo (`delete_by_filter source_type=wiki_page`) se restringe a `AND project_id=<slug>`.
+
+**Files:**
+- Modify: `scripts/index_wiki_to_qdrant.py:61` (constant default), CLI, `index_wiki()`, `delete_by_filter` call.
+
+- [ ] **Step 1: Write the failing test** (unit, sin Qdrant real)
+
+```python
+# scripts/test_index_wiki_to_qdrant_payload.py
+"""Verifica que el payload generado para un wiki page incluye project_id.
+Mock del CorpusStore: la task no requiere Qdrant vivo."""
+from pathlib import Path
+from unittest.mock import MagicMock
+
+
+def test_wiki_payload_has_project_id(tmp_path, monkeypatch):
+    # Mini wiki: 1 .md
+    wiki = tmp_path / "wiki"
+    wiki.mkdir()
+    (wiki / "shadow.md").write_text(
+        "---\npage_id: shadow\npage_type: concept\ncanonical_name: Sombra\n"
+        "domain_primary: jung\n---\n# Sombra\n"
+    )
+
+    from scripts import index_wiki_to_qdrant as m
+    pages = m.collect_pages(wiki, tmp_path)
+    assert len(pages) == 1
+    payload = m.page_to_payload(pages[0], project_id="proxy")  # nuevo helper
+
+    assert payload["project_id"] == "proxy"
+    assert payload["source_type"] == "wiki_page"
+    assert payload["page_id"] == "shadow"
+```
+
+> Si `page_to_payload` no existe como helper aislado en el script actual, extraer la construcción del payload a una función nombrada `page_to_payload(page, *, project_id: str) -> dict` durante la edición (Step 2) — esto facilita el test sin levantar Qdrant.
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest scripts/test_index_wiki_to_qdrant_payload.py -v
+# Expected: AttributeError (page_to_payload no existe) o KeyError (project_id no en payload).
+```
+
+- [ ] **Step 3: Apply edits**
+
+1. Renombrar `WIKI_DIR_DEFAULT` → eliminado; en su lugar resolver wiki_root vía `ProjectConfig.for_project(args.project).wiki_root()`.
+
+2. **argparse**: añadir
+   ```python
+   parser.add_argument("--project", required=True, help="Project slug")
+   parser.add_argument("--wiki-dir", type=Path, default=None,
+                       help="Override wiki dir (default: ProjectConfig(project).wiki_root())")
+   ```
+   y en main:
+   ```python
+   from ariadna.project_config import ProjectConfig
+   cfg = ProjectConfig.for_project(args.project)
+   wiki_dir = args.wiki_dir or cfg.wiki_root()
+   ```
+
+3. **Payload**: extraer la construcción del payload a un helper que envuelva `WikiPage.to_payload()` añadiendo `project_id`. Evita re-listar campos y posible divergencia:
+   ```python
+   def page_to_payload(page: "WikiPage", *, project_id: str) -> dict:
+       payload = page.to_payload()       # método existente en WikiPage
+       payload["project_id"] = project_id
+       return payload
+   ```
+   El call site dentro de `index_wiki(...)` (línea ~287 del script) cambia de `p.to_payload()` a `page_to_payload(p, project_id=args.project)`.
+
+4. **Delete previo (idempotencia)**: cambiar
+   ```python
+   n_deleted = store.delete_by_filter({"source_type": "wiki_page"})
+   ```
+   por
+   ```python
+   n_deleted = store.delete_by_filter({"source_type": "wiki_page", "project_id": args.project})
+   ```
+   `CorpusStore.delete_by_filter` ya acepta dict de filtros y los une con AND (ver `ariadna/storage.py:175-189`); no requiere cambio de firma.
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest scripts/test_index_wiki_to_qdrant_payload.py -v
+# Expected: 1 passed
+```
+
+- [ ] **Step 5: Verificar smoke con dry-run**
+
+```bash
+.venv/bin/python scripts/index_wiki_to_qdrant.py --project proxy --dry-run
+# Expected: log "Wiki dir: .../projects/proxy/wiki", N pages enumeradas,
+# no errores. Sin --dry-run NO ejecutar en este task — el run real va en Chunk 9.
+```
+
+- [ ] **Step 6: Commit**
+
+```bash
+git add scripts/index_wiki_to_qdrant.py scripts/test_index_wiki_to_qdrant_payload.py
+git commit -m "feat(index_wiki): flag --project, payload project_id, delete scoped
+
+Indexador taggea cada wiki_page con project_id en payload Qdrant. El
+delete idempotente previo al rebuild se restringe a (source_type=wiki_page,
+project_id=<slug>) para no tocar puntos de otros proyectos.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 4.5: `scripts/extract_video_themes.py` — RUNS_DIR per-proyecto + cargar prompts del .md
+
+> Hoy el script asume `wiki/_meta/extraction_runs/` y tiene los prompts hard-coded como constantes. Cambios:
+> - `RUNS_DIR = META / "extraction_runs"` → resuelto vía `ProjectConfig.for_project(args.project).extraction_runs_dir()`.
+> - `WIKI = REPO / "wiki"` → `cfg.wiki_root()`.
+> - `SUBAGENT_SYSTEM_PROMPT` y `SUBAGENT_SYNTHESIS_SYSTEM_PROMPT` constantes → leídos en runtime con `cfg.subagent_prompts()`. Las constantes se eliminan del Python.
+> - Acepta `--project` en CLI (default 'proxy' para no romper invocaciones pre-existentes durante la migración).
+
+**Files:**
+- Modify: `scripts/extract_video_themes.py` líneas 66-69, 953-976, 1187, 1226-1257, 1407, CLI argparse.
+- Update: `scripts/test_subagent_prompt_extraction.py` (Chunk 3) — tras eliminar las constantes Python, el test debe **borrarse o re-orientarse** (ver Step 4 abajo).
+
+- [ ] **Step 1: Apply edits**
+
+1. **Constants block (líneas 66-69)**: reemplazar
+   ```python
+   WIKI = REPO / "wiki"
+   META = WIKI / "_meta"
+   RUNS_DIR = META / "extraction_runs"
+   ```
+   por placeholders que se rellenan en main():
+   ```python
+   # Resueltos al parsear --project (ver main()):
+   PROJECT_ID: str = ""
+   WIKI: Path | None = None
+   META: Path | None = None
+   RUNS_DIR: Path | None = None
+   SUBAGENT_SYSTEM_PROMPT: str = ""
+   SUBAGENT_SYNTHESIS_SYSTEM_PROMPT: str = ""
+   ```
+
+2. **Eliminar las dos constantes inline** (líneas 953-976 y 1226-1257). Se cargan dinámicamente en main():
+   ```python
+   def _load_project_runtime(project_id: str) -> None:
+       global PROJECT_ID, WIKI, META, RUNS_DIR, SUBAGENT_SYSTEM_PROMPT, SUBAGENT_SYNTHESIS_SYSTEM_PROMPT
+       from ariadna.project_config import ProjectConfig
+       cfg = ProjectConfig.for_project(project_id)
+       PROJECT_ID = project_id
+       WIKI = cfg.wiki_root()
+       META = (WIKI.parent / "_meta")
+       RUNS_DIR = cfg.extraction_runs_dir()
+       prompts = cfg.subagent_prompts()
+       SUBAGENT_SYSTEM_PROMPT = prompts["concept_author_entity_work"]
+       if "synthesis" in prompts:
+           SUBAGENT_SYNTHESIS_SYSTEM_PROMPT = prompts["synthesis"]
+       else:
+           # Default global no incluye synthesis section. Aviso explícito porque la
+           # tarea de auto-promoción de tesis usaría el concept prompt — semánticamente
+           # incorrecto. Crear projects/<slug>/_meta/subagent_prompt.md con la sección
+           # synthesis antes de habilitar thesis_candidate gate en este proyecto.
+           print(
+               f"WARN: project {project_id!r} has no 'synthesis' subagent prompt; "
+               f"falling back to concept_author_entity_work. Add a synthesis section "
+               f"to projects/{project_id}/_meta/subagent_prompt.md to silence this warning.",
+               file=sys.stderr,
+           )
+           SUBAGENT_SYNTHESIS_SYSTEM_PROMPT = SUBAGENT_SYSTEM_PROMPT
+   ```
+
+3. **CLI argparse**: añadir
+   ```python
+   parser.add_argument("--project", default="proxy",
+                       help="Project slug (default proxy durante migración)")
+   ```
+   y al inicio de main, **antes** de cualquier acceso a WIKI/META/RUNS_DIR:
+   ```python
+   _load_project_runtime(args.project)
+   ```
+
+4. Las referencias a `SUBAGENT_SYSTEM_PROMPT` y `SUBAGENT_SYNTHESIS_SYSTEM_PROMPT` en las líneas 1187 y 1407 (los call-sites de `invoke_claude`) ya funcionan porque `_load_project_runtime` las setea como globales antes del primer uso. No requieren cambios.
+
+- [ ] **Step 2: Verificar que el script importa sin errores**
+
+```bash
+.venv/bin/python -c "import scripts.extract_video_themes as m; print('ok')"
+# Expected: ok
+.venv/bin/python scripts/extract_video_themes.py --help | head -10
+# Expected: muestra --project en el output del help
+```
+
+- [ ] **Step 3: Actualizar/eliminar el test de drift de Chunk 3**
+
+El test `scripts/test_subagent_prompt_extraction.py` espera que las constantes Python existan. Tras esta task, ya NO existen — el .md es la fuente de verdad. **Borrar** el test:
+
+```bash
+git rm scripts/test_subagent_prompt_extraction.py
+```
+
+Y añadir un test ligero que valide que `cfg.subagent_prompts()` devuelve ambos kinds para Proxy:
+
+```python
+# tests/test_subagent_prompts_loaded.py
+"""Tras Chunk 4, los prompts viven en projects/proxy/_meta/subagent_prompt.md
+y se cargan vía ProjectConfig. Requiere data/ariadna.db con proyecto 'proxy'
+(creado en Chunk 2)."""
+from pathlib import Path
+import pytest
+
+REQUIRES_DB = Path("data/ariadna.db")
+
+@pytest.mark.skipif(not REQUIRES_DB.exists(),
+                    reason="data/ariadna.db ausente; correr Chunk 2 primero")
+def test_proxy_subagent_prompts_loaded():
+    from ariadna.project_config import ProjectConfig
+    cfg = ProjectConfig.for_project("proxy")
+    prompts = cfg.subagent_prompts()
+    assert "concept_author_entity_work" in prompts
+    assert "synthesis" in prompts
+    # Frases únicas de cada prompt (anti-drift contra cambios silenciosos):
+    assert "constructor focalizado" in prompts["concept_author_entity_work"]
+    assert "auto_promoted_synthesis" in prompts["synthesis"]
+    assert "thesis_candidate" in prompts["synthesis"]
+```
+
+- [ ] **Step 4: Run pytest**
+
+```bash
+.venv/bin/python -m pytest tests/test_subagent_prompts_loaded.py -v
+# Expected: 1 passed (asume cwd = repo root y data/ariadna.db existe con 'proxy')
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add scripts/extract_video_themes.py tests/test_subagent_prompts_loaded.py
+git rm scripts/test_subagent_prompt_extraction.py
+git commit -m "refactor(extract_video_themes): runtime resolution + prompts del .md
+
+WIKI/META/RUNS_DIR/SUBAGENT_*_PROMPT son ahora globales que main() rellena
+desde ProjectConfig.for_project(args.project). Las dos constantes inline
+desaparecen del .py — única fuente de verdad: projects/<slug>/_meta/subagent_prompt.md.
+Test de drift de Chunk 3 se sustituye por test de carga.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 4.6: `ariadna/policy_filters.py` + `ariadna/build_index.py` — aceptar `project_id`
+
+> `build_policy_filter_map` acepta un `extraction_runs_dir` arbitrario; basta con que el caller le pase el path correcto. `ariadna/build_index.py` tiene un default global `DEFAULT_EXTRACTION_RUNS` que apunta a la ruta vieja. **Nota:** la función pública del módulo se llama `build(...)` (no `build_index`); ver `ariadna/build_index.py:40`. Cambios:
+> - `policy_filters.build_policy_filter_map`: añadir parámetro opcional `project_id` para incluirlo en el log/contexto (no afecta lógica).
+> - `build_index.DEFAULT_EXTRACTION_RUNS`: eliminar el global; la función `build()` requiere ahora `project_id` y deriva el path con `ProjectConfig`.
+> - Auditoría de callers: `grep -rn "from ariadna.build_index\|ariadna.build_index.build" ariadna/ scripts/` — único caller es `main()` del propio módulo (CLI). El `build_index(client, model)` de `scripts/run_eval_pilot.py:64` es una función local no relacionada (no importa de `ariadna.build_index`).
+
+**Files:**
+- Modify: `ariadna/policy_filters.py:24-30`
+- Modify: `ariadna/build_index.py:25` (eliminar DEFAULT_EXTRACTION_RUNS), `:40-46` (signature de `build()`), `:61` (call site de `build_policy_filter_map`), `:106-112` (payload construction)
+
+- [ ] **Step 1: Apply edits**
+
+`ariadna/policy_filters.py`:
+```python
+def build_policy_filter_map(
+    extraction_runs_dir: Path,
+    project_id: str | None = None,  # ← nuevo, solo para logging
+) -> dict[tuple[str, int], dict]:
+    """..."""
+    if project_id:
+        log.info("policy_filter_map scope: project=%s, dir=%s", project_id, extraction_runs_dir)
+    # resto sin cambios
+```
+
+`ariadna/build_index.py` (función pública: `build()`, no `build_index`):
+```python
+# Eliminar línea 25:
+# DEFAULT_EXTRACTION_RUNS = Path(__file__).resolve().parent.parent / "wiki" / "_meta" / "extraction_runs"
+
+# build() signature (líneas 40-46):
+def build(
+    corpus_path: Path,
+    project_id: str,                  # ← nuevo, requerido (insertar como 2º param)
+    recreate: bool = False,
+    batch_size: int = 64,
+    dry_run: bool = False,
+    extraction_runs_dir: Path | None = None,
+) -> None:
+    from ariadna.project_config import ProjectConfig
+    cfg = ProjectConfig.for_project(project_id)
+    extraction_runs_dir = extraction_runs_dir or cfg.extraction_runs_dir()
+    policy_map = build_policy_filter_map(extraction_runs_dir, project_id=project_id)
+    # resto sin cambios hasta el loop de payloads.
+```
+
+**Payload (línea 108)**: añadir `project_id` al dict de payload:
+```python
+for c in batch_chunks:
+    payload = c.to_payload()
+    payload["project_id"] = project_id     # ← nuevo
+    pf = policy_map.get((c.video_id, c.timestamp_seconds))
+    if pf is not None:
+        payload["policy_filter"] = pf
+    payloads.append(payload)
+```
+
+**CLI `main()` (línea 121+)**: añadir `--project` al argparse y pasarlo a `build(...)`. Default `proxy` para no romper invocaciones existentes durante la migración.
+
+- [ ] **Step 2: Verificar que `build` importa con la nueva firma**
+
+```bash
+.venv/bin/python -c "from ariadna.build_index import build; import inspect; print(list(inspect.signature(build).parameters))"
+# Expected: incluye 'project_id' en la lista
+```
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add ariadna/policy_filters.py ariadna/build_index.py
+git commit -m "refactor(build_index): build() requiere project_id; sin defaults globales
+
+policy_filters.build_policy_filter_map gana param project_id (solo logging).
+build() (la función pública del módulo) resuelve extraction_runs_dir vía
+ProjectConfig si no se pasa, y añade project_id al payload de cada chunk.
+DEFAULT_EXTRACTION_RUNS hardcoded eliminado.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 4.7: `scripts/validate_wiki_relations.py` — flag `--project`
+
+> Validador hoy escanea `wiki/**/*.md` directamente. Cambios: aceptar `--project`, escanear `projects/<slug>/wiki/**/*.md` vía `ProjectConfig.wiki_root()`. No requiere DB cambios (lee solo filesystem + frontmatter).
+
+**Files:**
+- Modify: `scripts/validate_wiki_relations.py:33-35`, CLI.
+
+- [ ] **Step 1: Apply edits**
+
+```python
+# Eliminar líneas 34-35 (constants top-level):
+# WIKI = REPO / "wiki"
+# META = WIKI / "_meta"
+
+# Convertir a placeholders top-level que main() rellena (mismo patrón que extract_video_themes.py):
+WIKI: Path | None = None
+META: Path | None = None
+
+# argparse:
+parser.add_argument("--project", required=True, help="Project slug to validate")
+
+# Al inicio de main(), antes de cualquier uso de WIKI/META:
+def main() -> int:
+    args = parser.parse_args()
+    global WIKI, META
+    from ariadna.project_config import ProjectConfig
+    cfg = ProjectConfig.for_project(args.project)
+    WIKI = cfg.wiki_root()
+    META = WIKI.parent / "_meta"
+    # ... resto sin cambios; helpers que referencian WIKI globalmente siguen funcionando.
+```
+
+**Patrón único elegido: globales rellenadas por main()**, no paso de argumento. Coincide con la forma en que `scripts/extract_video_themes.py` (Task 4.5) resuelve sus paths — mantiene la consistencia entre los dos scripts grandes del módulo.
+
+- [ ] **Step 2: Smoke test**
+
+```bash
+.venv/bin/python scripts/validate_wiki_relations.py --project proxy --help | head -5
+# Expected: --project flag visible
+.venv/bin/python scripts/validate_wiki_relations.py --project proxy
+# Expected: exit 0 (mismos warnings que pre-migración, ningún error nuevo).
+# Si introduces errors, abortar y diagnosticar — algo está mal con el path.
+```
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add scripts/validate_wiki_relations.py
+git commit -m "feat(validate_wiki_relations): flag --project + scan projects/<slug>/wiki
+
+Validador es project-aware. exit 0 contra projects/proxy/wiki/ confirma que
+el grafo migrado es idéntico (mismos wikilinks rotos identificados como
+candidates a próximo batch).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+---
