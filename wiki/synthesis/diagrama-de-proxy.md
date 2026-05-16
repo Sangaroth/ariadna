@@ -378,6 +378,171 @@ La precisión refina la caracterización de los cuadrantes verticales superiores
 
 
 
+## Cuadrantes canónicos y genealogía parental completa (Psicoanálisis de la orientación política, oct 2023)
+
+El monográfico *Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre* (138 min, octubre 2023) reconstruye la articulación del diagrama con su nombre completo — **Proxy-Veronese** — y aporta los cuadrantes canónicos por su nombre, la genealogía parental clínica completa y el camino de curación por cuadrante. El vídeo precisa que el diagrama es elaboración conjunta con Marta Veronese para encontrar la correspondencia psicológica de los ejes políticos del diagrama de Nolan.
+
+### Tres componentes del yo y las dos ventanas críticas
+
+El sustrato del modelo se asienta en una articulación del desarrollo psicológico que precede a la posición política:
+
+> "El yo se construye con tres componentes: experiencia, desarrollo congénito/gestacional y base genética"
+→ [Psicoanálisis de la orientación política (12:40)](https://youtu.be/-2u3CAw1xCs?t=760)
+
+> "De los 0 a los 3 años se forma la base que determinará gran parte de la conducta futura"
+→ [Psicoanálisis de la orientación política (12:40)](https://youtu.be/-2u3CAw1xCs?t=760)
+
+> "De los 3 a los 8 años se desarrollan los mecanismos de defensa frente al entorno, siendo la fase más sensible al trauma psicológico"
+→ [Psicoanálisis de la orientación política (12:40)](https://youtu.be/-2u3CAw1xCs?t=760)
+
+La cifra 0-3 / 3-8 articula las dos ventanas del desarrollo: la primera fija la base afectiva, la segunda construye los mecanismos de defensa que el sujeto desplegará el resto de su vida. La elección de pareja y la posición política son aplicaciones distintas de la misma base afectiva temprana:
+
+> "Las experiencias de primera y segunda infancia son base del desarrollo ideológico igual que lo son de la elección de pareja"
+→ [Psicoanálisis de la orientación política (15:11)](https://youtu.be/-2u3CAw1xCs?t=911)
+
+> "Nadie vota con el cerebro: el voto es fundamentalmente emocional porque expresa un anhelo"
+→ [Psicoanálisis de la orientación política (15:11)](https://youtu.be/-2u3CAw1xCs?t=911)
+
+### Padre arquetípico (eje vertical) y madre arquetípica (eje horizontal)
+
+La cifra parental del modelo es explícita: el eje vertical opera como **padre arquetípico** y el horizontal como **madre arquetípica**. Cada uno rige un dominio funcional distinto del yo:
+
+> "El padre arquetípico define cómo nos relacionamos con el mundo exterior en tanto dominio, acción y avance hacia lo desconocido"
+→ [Psicoanálisis de la orientación política (45:34)](https://youtu.be/-2u3CAw1xCs?t=2734)
+
+> "La madre arquetípica rige el yo emocional, el autocontrol, la seguridad contigo mismo y el sentir"
+→ [Psicoanálisis de la orientación política (45:34)](https://youtu.be/-2u3CAw1xCs?t=2734)
+
+> "El padre es 'yo hago' y la madre es 'yo siento'; la madre es el hogar al que volver cuando todo fracasa"
+→ [Psicoanálisis de la orientación política (45:34)](https://youtu.be/-2u3CAw1xCs?t=2734)
+
+La formación de cada figura arquetípica no es solo función de lo que hacen los padres biológicos sino de cómo el hijo recibe sus aportes según sus **carencias específicas, que pueden ser genéticas** — un niño genéticamente psicasténico extrae menos seguridad de la misma figura materna que un niño no psicasténico. La operación arquetípica de la madre precede a la del padre: se necesita primero buena relación con la madre y después con el padre para que la operación civilizatoria del padre interiorice norma sin colapsar el yo.
+
+### Padre tirano vs padre ausente: distinción clave del eje vertical
+
+El cifrado paterno del eje vertical NO opone "padre violento" a "padre suave" — opone dos modos distintos del fallo paterno:
+
+> "Locus externo de autoridad (arriba): padre tirano que enseña sin permitir reflexión, genera justificación de jerarquías"
+→ [Psicoanálisis de la orientación política (57:42)](https://youtu.be/-2u3CAw1xCs?t=3462)
+
+> "Locus interno de autoridad (abajo): padre ausente que no enseñó a avanzar hacia lo desconocido, genera miedo al exterior"
+→ [Psicoanálisis de la orientación política (57:42)](https://youtu.be/-2u3CAw1xCs?t=3462)
+
+> "El padre que grita y pega es ausente, no tirano: no acompaña, da lecciones desde la distancia"
+→ [Psicoanálisis de la orientación política (1:02:13)](https://youtu.be/-2u3CAw1xCs?t=3733)
+
+> "El padre tirano está contigo pero no te ayuda a comprender, te obliga a aceptar formas de vida sin reflexión"
+→ [Psicoanálisis de la orientación política (1:02:13)](https://youtu.be/-2u3CAw1xCs?t=3733)
+
+La distinción es operativamente crítica y corrige el malentendido habitual. El padre violento físicamente cae en la categoría **padre ausente** (no acompaña, da lecciones desde la distancia), no en la categoría padre tirano. El padre tirano genuino es el que está presente pero imposibilita la reflexión — enseña a imponer pero no a reflexionar; el padre ausente no enseña a saber lo que uno quiere. Lo civilizatorio es patriarcal en el sentido específico de que requiere la operación arquetípica del padre que interioriza la norma: la ausencia paterna es anticivilizatoria porque deja al sujeto fuera del aparato de norma.
+
+### Madre tirana vs madre ausente: la cifra horizontal
+
+El eje horizontal opera con análoga oposición materna que precisa la sección anterior 'Eje horizontal como dipolo madre tirana / madre ausente':
+
+> "La madre tirana genera polarización emocional: emociones intensas, necesidad de seguridad en valores concretos e inamovibles"
+→ [Psicoanálisis de la orientación política (1:14:28)](https://youtu.be/-2u3CAw1xCs?t=4468)
+
+> "La madre ausente genera inseguridad indeterminada: no existen valores concretos, las necesidades son difusas"
+→ [Psicoanálisis de la orientación política (1:14:28)](https://youtu.be/-2u3CAw1xCs?t=4468)
+
+> "A la derecha se es más moralista, a la izquierda más formalista; la madre tirana genera necesidad de afecto, la ausente necesidad de control"
+→ [Psicoanálisis de la orientación política (1:14:28)](https://youtu.be/-2u3CAw1xCs?t=4468)
+
+La madre tirana fabrica valores inamovibles como puerto seguro (derecha moralista); la madre ausente deja al sujeto con necesidades difusas que reclaman estructura externa formalista (izquierda formalista). El sustrato afectivo difiere — la derecha busca afecto interiorizado como valor, la izquierda busca control externalizado como sistema.
+
+### Los cuatro cuadrantes canónicos: hippie, progre, inquisidor, anarca
+
+La combinatoria de las dos oposiciones parentales (padre tirano/ausente × madre tirana/ausente) produce los cuatro estereotipos canónicos del diagrama, con sus nombres canal-específicos:
+
+> "Hippies (abajo-izquierda): padre y madre ausentes, valores difusos, no necesitan elaboración moral compleja"
+→ [Psicoanálisis de la orientación política (1:23:18)](https://youtu.be/-2u3CAw1xCs?t=4998)
+
+> "Progres (arriba-izquierda): padre tirano y madre ausente, tiranía irracional sin corpus doctrinal coherente"
+→ [Psicoanálisis de la orientación política (1:23:18)](https://youtu.be/-2u3CAw1xCs?t=4998)
+
+> "Inquisidores (arriba-derecha): padre tirano y madre tirana, tiranos moralistas inflexibles respecto a convicciones"
+→ [Psicoanálisis de la orientación política (1:23:18)](https://youtu.be/-2u3CAw1xCs?t=4998)
+
+> "Anarcas (abajo-derecha): padre ausente y madre tirana, rechazo a imposiciones externas y gran cantidad de culpa"
+→ [Psicoanálisis de la orientación política (1:23:18)](https://youtu.be/-2u3CAw1xCs?t=4998)
+
+Los cuatro nombres canónicos — **hippie / progre / inquisidor / anarca** — son la cifra canal-específica que las secciones anteriores de esta página invocaban genéricamente por su posición geométrica ("abajo-izquierda", "arriba-derecha", etc.). El sustrato es la combinatoria parental, no una etiqueta político-coyuntural. La centralidad cuantitativa de cada cuadrante es genealógica — heredada de la configuración parental que produjo al sujeto — y solo se desplaza por trabajo terapéutico específico.
+
+### Camino hacia el centro: curación por herida
+
+El cuadrante se hereda y se vota desde la herida, pero admite movilidad hacia el centro mediante trabajo específico sobre cada déficit parental:
+
+> "Siempre se vota según el cuadrante pero se puede ganar flexibilidad acercándose al centro"
+→ [Psicoanálisis de la orientación política (1:36:41)](https://youtu.be/-2u3CAw1xCs?t=5801)
+
+> "Padre ausente se cura aprendiendo a estar solo; padre tirano yendo a terapia y curando la herida narcisista"
+→ [Psicoanálisis de la orientación política (1:36:41)](https://youtu.be/-2u3CAw1xCs?t=5801)
+
+> "Madre tirana se cura encontrando una pareja que dé calma; madre ausente encontrando en quién reconocerte para tener intimidad"
+→ [Psicoanálisis de la orientación política (1:36:41)](https://youtu.be/-2u3CAw1xCs?t=5801)
+
+La articulación clínica de cada cuadrante tiene correlato terapéutico específico. La curación de la herida paterna pasa por la [[herida-narcisista-en-proxy]] cuando el déficit es del tirano (la imposición sin comprensión deja al sujeto narcisistamente herido); cuando el déficit es del padre ausente, requiere aprender a sostener la propia soledad — operación que el [[viaje-heroe]] articula en clave arquetípica. La curación de la herida materna requiere la operación complementaria: pareja calmante para la madre tirana, [[intimidad-y-confesion-en-proxy|reconocimiento mutuo en el vínculo íntimo]] para la madre ausente. La pieza acota la rigidez del sustrato biológico del modelo: la posición es heredada pero plástica, y la dirección de la plasticidad es siempre hacia el centro a través del trabajo específico de la herida correspondiente.
+
+### Origen sociohistórico: incorporación de la mujer al trabajo y sobrepoblación izquierda
+
+El canal articula una tesis histórica concreta sobre la sobrepoblación contemporánea de los cuadrantes izquierdos:
+
+> "La incorporación de la mujer al mundo laboral en los años 50-60 probablemente generó ausencia materna masiva"
+→ [Psicoanálisis de la orientación política (1:53:52)](https://youtu.be/-2u3CAw1xCs?t=6832)
+
+> "Eso explica la generación hippie y posteriormente la progre, donde el Estado sustituye al padre como figura tiránica"
+→ [Psicoanálisis de la orientación política (1:53:52)](https://youtu.be/-2u3CAw1xCs?t=6832)
+
+> "El materialismo filosófico es un gigantesco mecanismo de defensa de intelectualización, ubicado muy a la izquierda del diagrama"
+→ [Psicoanálisis de la orientación política (1:53:52)](https://youtu.be/-2u3CAw1xCs?t=6832)
+
+La hipótesis traza una genealogía sociohistórica: la ausencia materna masiva derivada del cambio demográfico de la segunda mitad del siglo XX produce primero la generación hippie (padre y madre ausentes, abajo-izquierda), después la progre (cuando el Estado asume el rol de padre tirano que la generación previa carecía, arriba-izquierda). El [[materialismo-antiformalista|materialismo filosófico]] de [[bueno-gustavo]] queda situado en esta lectura como el caso más sofisticado del cuadrante izquierdo: aparato de intelectualización rigurosa que opera como mecanismo de defensa frente a la inseguridad indeterminada de la madre ausente — el sistema formal sustituye al afecto interiorizado.
+
+### Estereotipos demoníacos por cuadrante
+
+El canal añade una cifra demonológica que enlaza el diagrama con [[demonios-en-proxy]]:
+
+> "Abajo-izquierda (hippie): el poltergeist o el duendecillo"
+→ [Psicoanálisis de la orientación política (1:42:14)](https://youtu.be/-2u3CAw1xCs?t=6134)
+
+> "Arriba-derecha (inquisidor): Drácula o el íncubo, basado en la culpa"
+→ [Psicoanálisis de la orientación política (1:42:14)](https://youtu.be/-2u3CAw1xCs?t=6134)
+
+> "Los psicópatas no entran en el diagrama porque carecen de la estructura moral que lo fundamenta"
+→ [Psicoanálisis de la orientación política (1:42:14)](https://youtu.be/-2u3CAw1xCs?t=6134)
+
+La asignación demonológica añade un nivel mítico al diagrama: cada cuadrante tiene su figura demoníaca prototípica que cifra la herida estructural del cuadrante. La exclusión del psicópata del diagrama es una pieza diagnóstica crítica — quien carece de la estructura moral que el diagrama clasifica (incapacidad de valoración moral, ausencia de vergüenza y miedo al abandono) opera FUERA del marco; el diagrama solo tiene jurisdicción sobre la matriz afectivo-moral compartida por la población neurotípica.
+
+### Aplicación a tribus urbanas y personajes ficticios
+
+La aplicación del modelo a tipologías culturales concretas opera con granularidad de caso:
+
+> "Punks: claramente anarcas (abajo-derecha); góticos: padre tirano y madre tirana (inquisidores)"
+→ [Psicoanálisis de la orientación política (2:00:04)](https://youtu.be/-2u3CAw1xCs?t=7204)
+
+> "Skaters: padre y madre ausentes (hippies); emos: padre tirano y madre tirana pero dramáticos e histriónicos"
+→ [Psicoanálisis de la orientación política (2:00:04)](https://youtu.be/-2u3CAw1xCs?t=7204)
+
+> "Otakus: siempre a la derecha, fundamentalmente inquisidores; frikis/nerds: padre ausente, incels más hacia madre tirana"
+→ [Psicoanálisis de la orientación política (2:00:04)](https://youtu.be/-2u3CAw1xCs?t=7204)
+
+La clasificación de tribus urbanas demuestra el alcance operativo del modelo más allá de la política partidista — el cuadrante predice configuración cultural-estética porque la estética es manifestación externa de la misma configuración afectiva que produce el voto. Análogamente, el modelo se aplica a personajes ficticios como prueba diagnóstica:
+
+> "Morty es anarca: padre completamente ausente y madre tirana"
+→ [Psicoanálisis de la orientación política (2:11:08)](https://youtu.be/-2u3CAw1xCs?t=7868)
+
+> "Rick es padre tirano y madre ausente: arriba a la izquierda"
+→ [Psicoanálisis de la orientación política (2:11:08)](https://youtu.be/-2u3CAw1xCs?t=7868)
+
+> "Darth Vader/Anakin es padre tirano y madre tirana: su ira contra los Jedi es la herida narcisista del padre que impone sin que el hijo comprenda"
+→ [Psicoanálisis de la orientación política (2:11:08)](https://youtu.be/-2u3CAw1xCs?t=7868)
+
+La lectura de Darth Vader como caso clínico-arquetípico del cuadrante arriba-derecha (inquisidor) precisa la mecánica de la transformación de Anakin: los Jedi operan como padre tirano que impone forma de vida sin permitir reflexión, lo que produce herida narcisista — la ira que cristaliza en el lado oscuro es la respuesta defensiva característica del cuadrante. El caso enlaza con [[star-wars-saga]] como aplicación del marco psicoanalítico-político al material de la saga.
+
+
+
+
 ## Magos de Tolkien como aproximación tentativa a los cuadrantes
 
 En un directo posterior el canal advierte primero un límite operativo del modelo: no es asignable un único arquetipo a cada cuadrante de forma directa — los cuadrantes son configuraciones afectivo-noéticas, no figuras míticas. Como ejercicio aproximativo se propone leer la topología del diagrama a través de los **cinco magos** del imaginario tolkieniano (cuatro de color más uno blanco por encima), heredados también por Final Fantasy:
@@ -560,6 +725,7 @@ La conclusión sintetiza el marco completo del capítulo 0: izquierda y derecha 
 - **Relación con el eje económico clásico**: el diagrama desplaza el eje izquierda/derecha de "economía" a "fundamentalismo moral". El corpus de este vídeo no desarrolla qué hacer con la dimensión económica clásica — si se subsume en el fundamentalismo moral, si es ortogonal, o si el canal la considera derivada.
 - **Tesis migratoria abajo-derecha**: el canal sugiere en otros materiales que el ancap viene del relativismo de izquierdas que descubrió la propiedad — esa genealogía no se desarrolla en este vídeo y queda como conexión a integrar cuando aparezca el material.
 - **Validez transcultural**: el modelo se construye sobre estudios estadounidenses y categorías de la política occidental contemporánea. El speaker no aborda si los cuadrantes mantienen su correlato neuropsicológico fuera del marco político liberal-democrático moderno.
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Plasticidad vs determinismo**: si la posición tiene sustrato biológico tasado, -->
 - **Plasticidad vs determinismo**: si la posición tiene sustrato biológico tasado, ¿cuánta movilidad real hay entre cuadrantes a lo largo de la vida? El vídeo afirma la base biológica pero no acota su rigidez.
 
 ## Status auto-promoción
@@ -595,4 +761,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **¿Es ciencia la psicología?** — chunks: [31:27](https://youtu.be/1cF9VayHtRI?t=1887) · [34:01](https://youtu.be/1cF9VayHtRI?t=2041)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:04:24](https://youtu.be/NjtK76xzV18?t=3864)
 - **T5x07: Soto Ivars y el Tabú** — chunks: [15:18](https://youtu.be/wixOLxnd68o?t=918)
+- **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [2:33](https://youtu.be/-2u3CAw1xCs?t=153) · [8:37](https://youtu.be/-2u3CAw1xCs?t=517)
 

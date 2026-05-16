@@ -594,8 +594,9 @@ La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [26:30](https://youtu.be/t8v5w3s0USA?t=1590) · [30:03](https://youtu.be/t8v5w3s0USA?t=1803) · [59:59](https://youtu.be/t8v5w3s0USA?t=3599)
 - **León XIV, y George Floyd.** — chunks: [1:38:04](https://youtu.be/oDpJ_EJDDfw?t=5884)
 - **T5x03, Cibernética, Biónica y Transhumanismo.** — chunks: [49:09](https://youtu.be/DytHSZw0_mo?t=2949) · [1:34:05](https://youtu.be/DytHSZw0_mo?t=5645)
+- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:31:18](https://youtu.be/NKFWUxt5VQ4?t=5478) · [1:34:24](https://youtu.be/NKFWUxt5VQ4?t=5664)
 - **Teoría de la información integrada y los LLMs (Ahora sí)** — chunks: [1:42:10](https://youtu.be/ndkSJv9BGew?t=6130)
 - **Transhumanismo, IA y Ciencia Ficción.** — chunks: [43:06](https://youtu.be/kdk8mi7-Y1s?t=2586)
 - **La teoría de la teoría de la mente** — chunks: [1:46:27](https://youtu.be/zASckAZqmfM?t=6387) · [1:50:00](https://youtu.be/zASckAZqmfM?t=6600)
-- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:31:18](https://youtu.be/NKFWUxt5VQ4?t=5478) · [1:34:24](https://youtu.be/NKFWUxt5VQ4?t=5664)
+- **Avisos parroquiales** — chunks: [13:20](https://youtu.be/F1isbFH_FeM?t=800)
 

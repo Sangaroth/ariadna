@@ -282,11 +282,8 @@ La consecuencia clínica es operativa: los ISRS, al actuar sobre serotonina (sis
 
 ## Citations
 
-
 - video_id: `V-ixEcJuLzw` — Análisis arquetípico Inside Out
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [1:06:20](https://youtu.be/cbdLR0HTE3w?t=3980) · [1:29:05](https://youtu.be/cbdLR0HTE3w?t=5345)
-- **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [27:14](https://youtu.be/-daRyQwnZy0?t=1634)
-

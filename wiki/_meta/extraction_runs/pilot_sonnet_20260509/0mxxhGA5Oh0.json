@@ -1,0 +1,199 @@
+{
+  "video_id": "0mxxhGA5Oh0",
+  "video_title": "Psicología 101. Autismo. Algunas consideraciones.",
+  "playlist": "psicologia-101",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "autismo",
+      "canonical_guess": "autismo-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 130,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El autismo impide a los individuos elaborar representaciones idénticas a las de la mayoría"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El autismo no es una cuestión de paradigma: no se puede construir un mundo donde los autistas no tengan problemas de integración, porque ni siquiera dos autistas se entienden entre sí"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El cerebro es una enorme red de centros de procesamiento con centros encargados de procesar cada tipo de input"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Hipersensibilidad e hiposensibilidad ocurren en los canales sensoriales externos"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los autistas tienen hipoconectividad a larga distancia e hiperconectividad a corta distancia"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La realidad del autista es la certeza de una incomunicación mutua: sabemos qué forma tiene la pieza que falta pero nunca sabremos su contenido"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "El Asperger es un tipo concreto de TEA que tiene íntegro el módulo lingüístico (comunicación e interacción) pero problemas en sensibilidad y mentalización"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Monográfico de 130 min (Psicología 101, oct 2023) dedicado en exclusiva a articular el autismo como concepto clínico desde el marco propio del canal. Cumple scope.md §2.1 'monográfico ≥10 min sostenidos como tesis central' con creces. El canal aplica al cuadro académico estándar (TEA, DSM-5) una articulación con vocabulario propio: ubicación nosológica diferencial (no TP, no psicosis, no espectro esquizo aunque estéticamente similar), modelo de canales privados de input cognitivo, distinción operativa hipersensibilidad/hiposensibilidad (sensorial) vs hiperactivación/hipoactivación (red neuronal interna), hipótesis de sobrecompensación dinámica durante migración neuronal, articulación de hipoconectividad larga / hiperconectividad corta como sustrato de la dicotomía 'genios en áreas específicas / incapacidad integradora', islas de hiperconexión, distinción aprendizaje por condicionamiento vs aprendizaje vital, los tres dominios DSM-5 leídos como triángulo (mentalización + comunicación-interacción-contexto + sensibilidad-conducta) que ubica a cada paciente, el ejemplo pedagógico del 'quedin' para mostrar la imposibilidad de explicar lo que falta, distinción autismo vs psicopatía (ambos sin proyección afectiva al otro pero por mecanismos opuestos), tripletes representacionales anómalos como sinestesia cognitiva (no perceptiva), teoría modular del lenguaje aplicada a la distinción Asperger / TEA, mecanismo de la confusión autismo→trans, y la tesis polémica anti-paradigma ('no se puede construir un mundo donde los autistas no tengan problemas'). El video es la articulación foundational del autismo en el corpus del canal y conecta con múltiples páginas existentes (psicastenia-en-proxy vía TOC, fenomenologia-trans-en-proxy vía confusión género, diagrama-de-proxy vía posición abajo-derecha, teoria-del-simbolo vía tripletes, teoria-del-lenguaje vía Asperger, cerebros-rosas-azules vía diferencias estructurales M/F análogas a M/A).",
+      "quote_evidence": "El autismo es un trastorno psicológico/psiquiátrico porque requiere tratamiento y causa dificultades a nivel psicológico"
+    }
+  ],
+  "_doc_promote_new": "La página autismo-en-proxy la construirá un sub-agente posterior con contexto focalizado. Estructura sugerida: (1) Ubicación nosológica diferencial (no TP, no psicosis, no espectro esquizo, sí discapacidad cognitiva); (2) Definición operativa (problema de cognición de representaciones); (3) Modelo de canales privados sensoriales y cognitivos; (4) Distinción hipersensibilidad/hiposensibilidad (sensorial externa) vs hiperactivación/hipoactivación (red interna); (5) Sustrato neurobiológico — migración neuronal alterada, hipoconectividad larga + hiperconectividad corta, islas de hiperconexión, sobrecompensación dinámica; (6) Aprendizaje por condicionamiento vs vital (memorización sin integración); (7) Tres dominios del DSM-5 como triángulo diagnóstico (mentalización + comunicación-interacción-contexto + sensibilidad-conducta); (8) El ejemplo del 'quedin' como ilustración pedagógica de la ceguera cognitiva; (9) Autismo y moral — distinción crítica vs psicopatía (ausencia de función afectivo-empática vs ausencia de estructura moral); (10) Conducta hiposocial — sistemas mejor que personas, lenguaje como herramienta clasificativa no comunicativa, incapacidad de ironía/mentira; (11) Tripletes representacionales anómalos y sinestesia cognitiva; (12) Diferencias de género en diagnóstico (mujeres más miméticas, cerebro M vs F como análogo de M vs A); (13) Asperger vs TEA — teoría modular del lenguaje íntegro en Asperger; (14) Por qué muchos autistas creen ser trans (condicionamiento externo que reinterpreta diferencia autista como disforia); (15) Genética sin heredabilidad clara, hipótesis sobre causas; (16) Crítica al paradigma de la diferencia — 'certeza de la incomunicación mutua' como tesis foundational del canal sobre el cuadro. Relations sugeridas en frontmatter: contained_in→psiquiatria-y-teoria-de-la-mente, compared_with→psicastenia-en-proxy (vía mímica de TOC con mecanismo distinto), references→realismo-cognitivo, references→teoria-del-simbolo-en-proxy, references→teoria-del-lenguaje-en-proxy, references→fenomenologia-trans-en-proxy, references→cerebros-rosas-azules-en-proxy, references→diagrama-de-proxy, compared_with→complejo-de-autosuficiencia.",
+  "pending_updates": [
+    {
+      "page_id": "fenomenologia-trans-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La fenomenología trans como disciplina, en la lectura del canal, exige sostener esta distinción para no colapsar dos objetos clínicos heterogéneos en un único sintagma político.",
+      "section_target": "## Confusión autismo-trans: la diferencia cognitiva reinterpretada como disforia de género",
+      "content_proposed": "\n\n## Confusión autismo-trans: la diferencia cognitiva reinterpretada como disforia de género\n\nEl monográfico *Psicología 101: Autismo* (oct 2023) articula un mecanismo específico por el que personas del [[autismo-en-proxy|espectro autista]] reciben del entorno el mensaje de que su diferencia es disforia de género, sumándose como tercer cuadro confundido al inventario ya documentado (problema de identidad histriónico, dismorfia).\n\n> \"Como no encajan en los estereotipos conductuales de su género, reciben el mensaje de que su diferencia es disforia de género\"\n→ [Psicología 101: Autismo (2:02:10)](https://youtu.be/0mxxhGA5Oh0?t=7330)\n\n> \"El autismo provoca que no estén cómodos en su estereotipo genérico, lo cual se confunde externamente con una cuestión de identidad de género\"\n→ [Psicología 101: Autismo (2:02:10)](https://youtu.be/0mxxhGA5Oh0?t=7330)\n\n> \"Es un condicionamiento externo que reinterpreta la diferencia autista como transexualidad\"\n→ [Psicología 101: Autismo (2:02:10)](https://youtu.be/0mxxhGA5Oh0?t=7330)\n\nLa pieza añade un tercer cuadro al criterio diferencial que la página ya articulaba (disforia genuina vs problema de identidad vs dismorfia): la **diferencia cognitiva autista** opera por mecanismo distinto a los tres. El autista no encaja en el estereotipo conductual de su género porque su cognición carece de los circuitos que producen el ajuste automático al rol esperado — no porque su psique demande coherencia con un cuerpo distinto (disforia genuina), ni porque opere el dispositivo histriónico que reclama clasificación externa (problema de identidad), ni porque haya rechazo a la forma corporal (dismorfia). El malestar del autista respecto al estereotipo es **falta de aprendizaje automático del rol**, no rechazo del sexo. Cuando el discurso público o el propio entorno terapéutico colapsa esa diferencia bajo la categoría disforia de género, opera lo que la página articula como condicionamiento externo: el autista recibe del exterior una clave interpretativa que le ofrece encuadre para una diferencia que él mismo no podía nombrar, y la adopta porque le da legibilidad social — sin que el cuadro psiquiátrico genuino corresponda.\n\nLa consecuencia metodológica refuerza la tesis nuclear de la página: el sintagma trans contemporáneo absorbe heterogeneidad clínica bajo etiqueta política única, con coste diagnóstico tanto para el cuadro genuino de disforia (que queda invisibilizado por dilución de la categoría) como para los cuadros realmente distintos que reciben prescripciones terapéuticas inadecuadas. El caso autista añade la dimensión cognitivo-estructural: una diferencia que opera en el nivel de la representación pre-lingüística y que no se resuelve con intervención sobre la identidad social ni sobre la circunstancia corporal.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "autismo-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "0mxxhGA5Oh0",
+          "timestamp_seconds": 7330,
+          "cite_markdown": "[Psicología 101: Autismo (2:02:10)](https://youtu.be/0mxxhGA5Oh0?t=7330)"
+        }
+      ],
+      "rationale": "Material nuevo no presente en la página: el mecanismo específico de la confusión autismo→trans completa el inventario de cuadros heterogéneos que la página ya articula (disforia genuina vs problema de identidad histriónico vs dismorfia). El cuadro autista opera por mecánica cognitivo-estructural distinta a los tres y refuerza la tesis nuclear de que el sintagma trans absorbe heterogeneidad clínica con coste diagnóstico. Insert_after_passage al cierre de la sección 'Disforia genuina vs problema de identidad' porque ése es el lugar editorial donde la página articula los criterios diferenciales — el nuevo cuadro extiende esa taxonomía. El anchor elegido es el cierre prosa de esa sección, que es único en la página.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "_doc_thesis_candidates": "No se emite thesis_candidate. El video pasa el gate técnico (130 min sostenidos, signal_marks múltiples, framework_internal_structure rica >>4), pero el marco que articula ES la concepción del autismo del canal, que va capturada en la página concept autismo-en-proxy en promote_new. Mismo razonamiento que en psicastenia-en-proxy: el canal aplica su propio marco analítico a un cuadro clínico académico estándar — esto es articulación de concepto, no exposición de tesis cross-conceptos. Emitir thesis_candidate paralelo duplicaría material.",
+  "discarded": [
+    {
+      "surface_form": "modelo de canales privados sensoriales y cognitivos",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Sub-modelo articulado en el vídeo (14:19) que el canal usa para explicar el sustrato cognitivo del autismo: cada input sensorial tiene vía dedicada, y la cognición opera sobre la integración de esas vías. Va capturado dentro de autismo-en-proxy como pieza del aparato explicativo. No requiere página autónoma porque su uso operativo es exclusivamente dentro de la articulación del autismo aquí — si futuros vídeos lo usaran como marco general transversal (cognición no-autista, percepción atencional, etc.) sí podría merecer promoción.",
+      "quote_evidence": "Cada input sensorial (luz, sonido, texturas, caras) tiene una vía de entrada diferente al cerebro",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente para futuro: si aparece como marco transversal en ≥3 vídeos sobre cognición no-autista, evaluar promoción autónoma.",
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "sobrecompensación dinámica en migración neuronal",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Hipótesis biológica articulada (35:06, 43:46) como sustrato del cuadro autista: las islas de hiperconexión y la sobrecompensación funcional explican la 'genialidad en área específica' que distingue al autismo. Va capturada dentro de autismo-en-proxy como pieza neurobiológica del marco. No es concepto enciclopédico autónomo — es hipótesis aplicada al autismo.",
+      "quote_evidence": "La sobrecompensación cerebral hace que cuando falta una parte del cerebro, otras absorben su función, pudiendo generar capacidades excepcionales en áreas inesperadas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "hipersensibilidad/hiposensibilidad vs hiperactivación/hipoactivación",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Distinción operativa fundamental (28:27) entre disfunción del canal sensorial externo (hipersensibilidad/hiposensibilidad) y disfunción de la red neuronal interna que asigna importancia (hiperactivación/hipoactivación). Pieza diagnóstica nuclear del marco autista del canal. Va capturada dentro de autismo-en-proxy. Su uso es transversal a múltiples cuadros del espectro y no merece página autónoma como concepto separado.",
+      "quote_evidence": "Hipersensibilidad e hiposensibilidad ocurren en los canales sensoriales externos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tres dominios del autismo / triángulo DSM-5",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación operativa (1:03:51, 1:54:02) de los tres dominios diagnósticos del DSM-5 leídos como triángulo donde se ubica cada paciente: mentalización (representación, teoría de la mente), comunicación-interacción-contexto, sensibilidad-conducta. Va capturado dentro de autismo-en-proxy como aparato diagnóstico operativo. Es lectura propia del canal de un esquema académico estándar, no merece página autónoma separada del cuadro al que se aplica.",
+      "quote_evidence": "Mentalización, representación y teoría de la mente (trabajo abstracto interno)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ejemplo del 'quedin' / ceguera cognitiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Ejemplo pedagógico (1:06:53) que el canal inventa para que el público experimente la perplejidad del autista ante conceptos que su cerebro no posee (ironía, saludo). Acompañado de la analogía del octavo color (07:16). Son recursos ilustrativos del marco, no conceptos enciclopédicos. Van capturados dentro de autismo-en-proxy como ejemplos pedagógicos de la ceguera cognitiva.",
+      "quote_evidence": "Se inventa un concepto absurdo (\"quedin\") para que el público experimente la misma perplejidad que siente un autista ante conceptos como la ironía o el saludo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Asperger",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Sub-tipo del TEA articulado con detalle (1:57:04) vía teoría modular del lenguaje: el Asperger conserva íntegro el módulo lingüístico pero tiene problemas en sensibilidad y mentalización. Va capturado dentro de autismo-en-proxy como caso operativo distintivo. No requiere página autónoma porque su definición operativa es exactamente 'caso del autismo' y todo el aparato analítico procede de la articulación del cuadro mayor.",
+      "quote_evidence": "El Asperger es un tipo concreto de TEA que tiene íntegro el módulo lingüístico (comunicación e interacción) pero problemas en sensibilidad y mentalización",
+      "review_priority": "medium",
+      "review_priority_reason": "Si futuros vídeos dedican monográfico específico al Asperger con material no reductible a su pertenencia al TEA, revisar promoción autónoma.",
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tripletes representacionales / sinestesia cognitiva",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación (1:29:46) de los tres componentes del pensamiento (semántica-lógica + imaginaria + afectiva) aplicada al autismo: en autistas los tripletes pueden estar alterados produciendo sinestesia cognitiva (no perceptiva — los canales de interpretación están cruzados, no los de percepción). Va capturada dentro de autismo-en-proxy. La articulación general de los tripletes representacionales ya está documentada en teoria-del-simbolo-en-proxy; la pieza aquí es solo la aplicación al cuadro autista.",
+      "quote_evidence": "El pensamiento tiene tres componentes: semántica-lógica, imaginaria (imagen/forma) y afectiva (emociones/importancia)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "TOC vs autismo (mímica sintomática con mecanismo distinto)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comparación operativa (22:24) entre TOC y autismo: sintomatología puede ser idéntica pero en el autista es síntoma del cuadro mayor, no enfermedad separada. Va capturada dentro de autismo-en-proxy como relación clínica diferencial. La página psicastenia-en-proxy ya documenta TOC en su propio espectro; añadir una nota allí sobre la mímica autista sería duplicativo — la wikilink desde autismo-en-proxy→psicastenia-en-proxy basta.",
+      "quote_evidence": "Aunque la sintomatología del TOC y del espectro autista puede ser idéntica, en el autista es un síntoma del trastorno, no una enfermedad separada",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "trastorno esquizoide / espectro esquizo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categorías clínicas académicas (03:08) invocadas como comparación diferencial con el autismo: estéticamente parecidos pero fenómenos neurológicos completamente distintos. Históricamente el autismo se llamó 'esquizofrenia infantil'. Va capturada dentro de autismo-en-proxy como aclaración nosológica. No requiere página autónoma — el espectro esquizo ya está parcialmente documentado en diagrama-de-proxy ('sobrepoblación de perfiles esquizo abajo a la izquierda').",
+      "quote_evidence": "La conducta esquizotípica o esquizoide se parece estéticamente a la conducta autista, pero son fenómenos internos completamente diferentes",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "conducta hiposocial / sistemas mejor que personas",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza descriptiva (1:21:08) del perfil autista hiposocial: preferencia por sistemas mecánicos con lógica interna sobre personas, lenguaje como herramienta clasificativa no comunicativa, incapacidad de ironía/sarcasmo/mentira pero a veces altas aptitudes lingüísticas formales. Va capturada dentro de autismo-en-proxy como caracterización del subtipo hiposocial.",
+      "quote_evidence": "Los autistas con hiposocialidad prefieren cosas mecánicas, sistemáticas y con lógica interna (programación, ajedrez, ruedas que giran) a las personas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "autismo-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T13:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[diferencia autismo vs psicopatía] reason=captured_in_promote_new quote no literal",
+    "WARN promote_new[autismo] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

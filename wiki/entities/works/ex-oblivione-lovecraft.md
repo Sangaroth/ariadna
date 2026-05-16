@@ -109,7 +109,9 @@ Esta inversión sitúa al texto en la frontera entre el [[horror-cosmico]] canó
 
 
 
+
 - **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [41:50](https://youtu.be/xdT-SCW89cw?t=2510)
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [1:22:42](https://youtu.be/celiAdqrHYA?t=4962)
 - **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [17:09](https://youtu.be/K7MAqw1q3dk?t=1029)
+- **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:04:07](https://youtu.be/6cSsI85qCp8?t=3847)
 

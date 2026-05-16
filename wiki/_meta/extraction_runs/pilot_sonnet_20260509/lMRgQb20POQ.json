@@ -1,0 +1,208 @@
+{
+  "video_id": "lMRgQb20POQ",
+  "video_title": "Psicología 101: Genes y ambiente, la diátesis familiar...",
+  "playlist": "psicologia-101",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "diátesis familiar (teoría del desarrollo de la psique)",
+      "canonical_guess": "diatesis-familiar-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 76,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Diátesis es el conjunto de causas que aplican a una enfermedad: en este caso \"la enfermedad de la vida\""
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Diátesis y las seis fases de construcción de la psique"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La familia es un ambiente especial porque es ambiente de crianza en una etapa de máxima vulnerabilidad"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La identificación es el proceso clave que permite entender por qué la familia opera en todos esos planos a la vez"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El ambiente no crea estructuras neuronales, solo las modula"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El ambiente siempre influye sobre algo que ya somos, acentuando diferencias más que igualándonos"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "El neuroticismo alto + ser elegido como favorito puede generar síndrome del chocas (ansiedad por no defraudar)"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Monográfico Psicología 101 de 76 min (junio 2024) dedicado en exclusiva a articular la **diátesis familiar** como teoría propia del canal sobre la formación de la psique. Cumple gate auto_promoted_synthesis scope.md §2.4.1: minutes_sustained = 76 ≥ 30; signal_marks_detected = 7 (thesis_marker múltiple + internal_structure 'seis fases' + applied_framework múltiple + self_referenced_origin a sindrome-xocas) ≥ 3; framework_internal_structure ≥ 10 piezas explícitamente articuladas (diátesis como concepto importado de medicina aplicado a 'la enfermedad de la vida', tres tipos de elementos ambientales — patógenos / estresores / trauma —, variables ocultas locales + epigenética, las seis fases de construcción de la psique, la familia como ambiente especial que opera simultáneamente en cuatro planos — genes + ambiente + trauma + impronta —, gestación exógena, distinción entre improntas y traumas tempranos, cerebro como pelota de goma, identificación/proyección como mecanismos parentales que generan profecías autocumplidas, formaciones reactivas, heridas heredadas como transmisión generacional de neurosis, síndrome del impostor familiar, adopción y trastornos de personalidad inmaduros, lectura arquetípica de Encanto como caso operativo) ≥ 4. La tesis es articulación sistemática original — el canal toma un concepto técnico (diátesis = conjunto de causas concurrentes de una enfermedad, propio de la medicina) y lo extiende a 'la enfermedad de la vida' para nombrar el conjunto de causas concurrentes que forman la psique humana: genes + ambiente + identificación-proyección parental + impronta + trauma. No existe página equivalente en el wiki: crisis-del-amor-pareja-y-maternidad-en-proxy cubre la crisis relacional contemporánea (otro objeto), yo-ego-autoestima-en-proxy cubre la economía del aparato psíquico adulto (otro objeto), herida-narcisista-en-proxy cubre el cuadro clínico narcisista (otro objeto). La diátesis familiar es la teoría del desarrollo que precede a esas estructuras adultas.",
+      "quote_evidence": "Una herida heredada es un comportamiento erróneo o neurosis que se transmite por genes susceptibles al trauma de los padres"
+    }
+  ],
+  "_doc_promote_new": "Página synthesis diatesis-familiar-en-proxy — la construirá un sub-agente posterior. Estructura sugerida: (1) Tesis nuclear — la diátesis como concepto importado de medicina aplicado a 'la enfermedad de la vida'; la psique es producto concurrente de genes + ambiente + identificación parental + impronta + trauma; (2) Aparato genético — cromosomas + genes + expresión génica como base de predisposición biológica; metáfora del ajedrez (cada individuo es jugada de genes mezclados 50/50 padre/madre, gemelos como clones naturales); (3) Tres tipos de elementos ambientales — patógenos / estresores / trauma + variables ocultas locales (VOL) + mecánica epigenética; (4) La familia como ambiente especial — opera simultáneamente en cuatro planos (genes + ambiente + trauma + impronta) en etapa de máxima vulnerabilidad; trastornos de personalidad 90-99% heredados pero responden a terapia basada en trauma familiar temprano (paradoja resoluble vía identificación); (5) Las seis fases de construcción de la psique — gestación/concepción (base genética XX/XY), influencia ambiental sobre sexo cromosómico (postura, temperatura, ciclos basales; 51% mujeres/49% hombres), estimulación temprana y orientación sexual con hipótesis inmunitaria (cada hijo varón previo incrementa probabilidad de homosexualidad masculina por anticuerpos contra testosterona; homosexualidades masculina y femenina NO especulares); (6) Gestación exógena y heridas fundamentales — nacemos 3-6 meses antes porque la cabeza no cabe en parto; separación temprana de brazos maternos predispone a cortisol cerebral alto; hasta 12-15 meses el bebé opera como si siguiera dentro de la madre; (7) Estructura cerebral pre-formada — nacemos con todas las estructuras formadas salvo córtex prefrontal; 20× neuronas necesarias que se podan a 10% hacia los 8 años; el ambiente modula pero NO crea estructuras; (8) Improntas — experiencias necesarias para optimizar redes neuronales preexistentes (ejemplo: lactancia natural aporta 2-5 puntos CI sobre máximo genético); (9) Cerebro como pelota de goma — bebé no puede tener trauma por muerte materna porque no puede percibirlo; el cerebro infantil amortigua golpes y solo es susceptible a improntas y traumas muy específicos; (10) Identificación — proceso clave inverso a la proyección, encuentras fuera lo que está dentro; mecanismo evolutivo del 'padre identifica al bebé como parecido a él' para que crea que es suyo; (11) Proyección parental — padre proyecta sus dificultades en el hijo, madre los beneficios del padre; padres proyectan sus traumas pasados en los futuros traumas de los hijos; identificación-proyección genera profecías autocumplidas; (12) Formaciones reactivas — soluciones de personalidad que anticipan conflictos; gemelos idénticos terminan con personalidades distintas porque los padres los tratan distinto; padres de gemelos buscan individualidades para distinguirlos asignando roles; (13) Hermanos no gemelos — comparación + proyección + identidad asignada como roles; neuroticismo alto + ser elegido como favorito → [[sindrome-xocas|síndrome del chocas]] (ansiedad por no defraudar); (14) Estabilidad de la personalidad — apenas se modifica entre infancia y muerte; bajada universal del neuroticismo con los años; 'para entender quiénes somos necesitamos saber quiénes fueron nuestros padres'; (15) Retroalimentación familiar — padres ególatras generan hijos ególatras por triple vía (imitación + falta de mirada al hijo → herida narcisista + olla familiar que acentúa neurosis); terapia sistémico-familiar como abordaje; (16) Superyó construido — deber ser impuesto + querer ser que produce satisfacción; intentar ser cosas que no corresponden a estructura biológica → lucha de toda la vida sin felicidad; trauma genera actuaciones inversas (querer no ser como los padres → rebeldía y llamadas de atención); (17) Síndrome del impostor familiar — haber satisfecho necesidades de los padres y descubrir que no era lo propio; vidas exitosas vacías; no soportar 'bien hecho' porque no se lo creen; (18) Heridas heredadas — comportamiento erróneo o neurosis transmitido por genes susceptibles al trauma parental; padres histéricos → hijos histéricos salvo 'gota desborda vaso' → reacción aversiva; las elecciones más potentes de la vida las determina personalidad heredada; (19) Adopción y trastornos inmaduros — procesos de identificación más graves o falsarios; adoptados con sensación de vacío y dificultad para encontrarse; uno de los mecanismos más frecuentes de TPs inmaduros; (20) Sexta fase: revelación de la verdadera personalidad — primer filtro terapéutico es discriminar conductas-basadas-en-trauma de personalidad-genuina; personalidad final se mantiene idéntica el resto de la vida; cambiarla exige luchar contra viento y marea con apoyo terapéutico; (21) Encanto (Disney 2021) como caso aplicado — mito del fantasma familiar; la casa simboliza el yo extendido construido en conjunción con otros yos familiares; el fantasma atraviesa paredes, atormenta de noche, exige exorcista/terapeuta para descubrir origen; (22) Trauma-actitud-susceptibilidad-vulnerabilidad — bucle de refuerzo trauma↔actitud; susceptibilidad biológica determina cuánto puede el ambiente influir; vulnerabilidad/resistencia entrenan o desentrenan; (23) Cierre: el ambiente especifica sobre bases genéticas pero no iguala — acentúa diferencias; rasgos universales (cerebros M prefieren cosas, F personas) → base neurológica no modificable; resultado final 'impredecible e inevitable: renglones torcidos que producen texto coherente'. Frontmatter sugerido: page_type: synthesis, synthesis_subtype: author_thesis, auto_promoted_synthesis: true. Relations[]: extends → cerebros-rosas-azules-en-proxy (sexuación cerebral biológica como pieza de la primera fase; hipótesis inmunitaria de homosexualidad ya documentada allí), extends → herida-narcisista-en-proxy (heridas heredadas y narcisistas parentales como mecanismo nuclear), references → sindrome-xocas (etiología del síndrome del chocas por neuroticismo + favorito), references → yo-ego-autoestima-en-proxy (superyó construido en dos vías), references → trauma-en-proxy (cerebro como pelota de goma + susceptibilidad), references → crisis-de-identidad-en-proxy (revelación adulta de personalidad genuina), references → psiquiatria-y-teoria-de-la-mente (causa psíquica del sufrimiento mental como trauma + elaboración), compared_with → crisis-del-amor-pareja-y-maternidad-en-proxy (cubre el polo adulto; esta cubre el polo del desarrollo), references → encanto-2021-film (caso aplicado — la página de Encanto NO existe aún, futuro entity_work si se profundiza).",
+  "pending_updates": [
+    {
+      "page_id": "sindrome-xocas",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La distinción rechazo / abandono es operativa en la lectura del canal: el trauma de abandono organiza una espera (cristalizada en el [[sindrome-wendy]]); el trauma de rechazo organiza una demostración compulsiva del propio valor. Lo que en Wendy es paciencia idealizante, en el Xocas es velocidad productivista.",
+      "section_target": null,
+      "content_proposed": "\n\n### Etiología complementaria: la vía del favorito por diátesis familiar\n\nEl monográfico *Psicología 101: Genes y ambiente, la diátesis familiar* (jun 2024) articula una **segunda vía etiológica** del síndrome distinta del trauma de rechazo paterno que la sección anterior documenta. En clave de [[diatesis-familiar-en-proxy|diátesis familiar]], el síndrome puede instalarse también por la coincidencia entre alta heredabilidad de neuroticismo y posición de favorito asignada por los padres en la dinámica intra-fraternal:\n\n> \"El neuroticismo alto + ser elegido como favorito puede generar síndrome del chocas (ansiedad por no defraudar)\"\n→ [Psicología 101: Genes y ambiente, la diátesis familiar (46:57)](https://youtu.be/lMRgQb20POQ?t=2817)\n\nLa pieza añade un mecanismo etiológico complementario al trauma de rechazo documentado en la sección anterior. Donde el trauma de rechazo produce demostración compulsiva del propio valor frente al padre que rechazó, la vía favorito + neuroticismo produce **demostración compulsiva del propio valor frente al padre que sobreinvirtió** — el sujeto siente que defraudar las expectativas paternas equivale a perder el lugar privilegiado en el sistema familiar. La estructura operativa coincide (carrera sobre el agua, meta utópica, imposibilidad de detenerse) pero la genealogía afectiva difiere: en lugar de probar que se vale frente a un padre que negó valor, se trata de no perder el reconocimiento ya otorgado.\n\nLa lectura desde la diátesis familiar precisa que el síndrome NO requiere trauma franco para instalarse — la combinación de **alta heredabilidad de neuroticismo + posición intra-fraternal de favorito** funciona como diátesis suficiente. El neuroticismo provee la susceptibilidad biológica al ambiente, y la asignación de favorito por los padres provee el contenido afectivo (la expectativa que no se puede defraudar). La consecuencia clínica diferencial: en esta vía la herida no es ausencia ni rechazo paterno sino exceso de mirada paterna proyectiva.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "diatesis-familiar-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "lMRgQb20POQ",
+          "timestamp_seconds": 2817,
+          "cite_markdown": "[Psicología 101: Genes y ambiente, la diátesis familiar (46:57)](https://youtu.be/lMRgQb20POQ?t=2817)"
+        }
+      ],
+      "rationale": "Material nuevo no presente en la página: una segunda vía etiológica del síndrome del chocas distinta del trauma de rechazo paterno que la página documenta. El monográfico sobre diátesis familiar identifica la combinación 'neuroticismo alto + ser elegido como favorito' como configuración suficiente para producir el síndrome, lo que precisa que el cuadro no requiere trauma franco — basta la susceptibilidad biológica heredada (neuroticismo) más la posición intra-fraternal asignada por los padres (favorito). La pieza complementa la genealogía afectiva sin contradecirla: trauma de rechazo y vía favorito producen la misma estructura operativa por motores afectivos distintos. Insert_after_passage al cierre de la sección donde la página articula la distinción rechazo/abandono — el nuevo bullet extiende esa tipología etiológica añadiendo la tercera vía (favorito + neuroticismo).",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "_doc_thesis_candidates": "No se emite thesis_candidate separado. La página se crea directamente vía promote_new con auto_promoted_synthesis: true porque cumple el gate (minutes_sustained=76 ≥ 30; signal_marks=7 ≥ 3; framework_internal_structure ≥ 10 ≥ 4).",
+  "discarded": [
+    {
+      "surface_form": "Encanto (Disney 2021)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Lectura arquetípica breve (1:06:14) como caso aplicado de la diátesis familiar — 'Encanto es una película sobre la diátesis familiar'; la casa simboliza el yo extendido construido en conjunción con otros yos familiares; el fantasma como mito del fantasma familiar. Tratamiento de ~2 min, ilustrativo, no análisis dedicado en este vídeo. Va capturada dentro de diatesis-familiar-en-proxy como caso operativo aplicado. Candidata a entity_work autónoma si futuros vídeos dedican monográfico arquetípico a Encanto.",
+      "quote_evidence": "Encanto es una película sobre la diátesis familiar",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente para futuro: si el canal dedica monográfico arquetípico a Encanto con análisis sostenido, promover como entity_work.",
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "hipótesis inmunitaria de la homosexualidad masculina",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Hipótesis biológica articulada (21:13): cada hijo varón previo incrementa la probabilidad de homosexualidad masculina por anticuerpos maternos contra la testosterona; homosexualidad masculina sería cerebro no completamente testosteronizado; femenina y masculina NO son fenómenos especulares. Esta articulación YA está documentada en [[cerebros-rosas-azules-en-proxy]] sección 'Sexuación cerebral, preferencias sexuadas y transexualidad genuina'. La precisión sobre no-especularidad refina parcialmente la laguna existente allí sobre 'homosexualidad femenina sin modelo equivalente' — el video aclara que NO hay modelo equivalente porque NO son fenómenos especulares. No emito update separado porque la pieza ya está documentada con suficiente detalle en cerebros-rosas-azules; la wikilink desde diatesis-familiar-en-proxy hacia esa página basta.",
+      "quote_evidence": "El número de hijos varones previos incrementa la probabilidad de homosexualidad masculina por anticuerpos contra la testosterona",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cerebros-rosas-azules-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "identificación y proyección como mecanismos parentales",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Mecanismos articulados con detalle (37:22, 40:55): la identificación es proceso inverso a la proyección (encontrar fuera lo que está dentro); el mecanismo evolutivo busca que el padre crea que el bebé es suyo; los padres proyectan dificultades y traumas en los hijos generando profecías autocumplidas. La articulación general de identificación/proyección ya está documentada en [[psiquiatria-y-teoria-de-la-mente]] sección 'Identificación y proyección como dinámicas básicas' y en [[diagrama-de-proxy]]. Aquí la aplicación específica es a la dinámica parental, va capturada dentro de diatesis-familiar-en-proxy.",
+      "quote_evidence": "La identificación es el proceso inverso a la proyección: encuentras fuera lo que está dentro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "variables ocultas locales (VOL) + epigenética",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza técnica (07:33) del aparato de la diátesis familiar: existen VOL que afectan al desarrollo y NO son ni genes ni patógenos ni estresores ni trauma; la epigenética explica cómo el ambiente modifica los genes y su expresión transmitiéndose generacionalmente. Va capturada dentro de diatesis-familiar-en-proxy como pieza del aparato. No requiere página autónoma — VOL y epigenética son herramientas del aparato genético-ambiental aplicado al desarrollo.",
+      "quote_evidence": "Existen variables ocultas locales (VOL) que afectan al desarrollo y no son ni genes ni patógenos ni estresores ni trauma",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "gestación exógena (nacemos 3-6 meses antes)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza biológica (24:15): nacemos 3-6 meses antes de tiempo porque la cabeza no cabría en el parto; hasta 12-15 meses el bebé funciona como si siguiera dentro de la madre, hipersensible al ambiente. Va capturada dentro de diatesis-familiar-en-proxy como pieza foundational de la fase de gestación-temprana. Concepto biológico estándar (Adolf Portmann años 40), invocado por el canal como aparato — no requiere página autónoma.",
+      "quote_evidence": "La gestación exógena: nacemos 3-6 meses antes de tiempo porque la cabeza no cabría en el parto",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "cerebro como pelota de goma (amortiguación de trauma temprano)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Metáfora operativa (34:51): un bebé no puede tener trauma por la muerte materna porque no puede percibirlo; el cerebro infantil amortigua los golpes y solo es susceptible a improntas y traumas muy específicos. Pieza polémica frente a discursos popular-psicoanalíticos que invocan traumas tempranos indiscriminadamente. Va capturada dentro de diatesis-familiar-en-proxy como pieza de la fase temprana. Complementa la sección sobre causas del sufrimiento en [[psiquiatria-y-teoria-de-la-mente]] sin requerir update — la wikilink basta.",
+      "quote_evidence": "Un bebé no puede tener trauma por la muerte de su madre porque no puede percibirlo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "heridas heredadas / transmisión generacional de neurosis",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Mecanismo articulado (1:00:40): una herida heredada es comportamiento erróneo o neurosis que se transmite por genes susceptibles al trauma de los padres; padres histéricos generan hijos histéricos salvo 'gota desborda vaso' → reacción aversiva; las elecciones más potentes de la vida las determina la personalidad heredada. Pieza nuclear del aparato. Va capturada dentro de diatesis-familiar-en-proxy. Tangencialmente enriquece [[herida-narcisista-en-proxy]] pero la mecánica genética-de-herencia opera mejor en la nueva página que en la de la herida narcisista (que es cuadro clínico adulto).",
+      "quote_evidence": "Una herida heredada es un comportamiento erróneo o neurosis que se transmite por genes susceptibles al trauma de los padres",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "síndrome del impostor familiar",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Cuadro clínico canal-específico articulado brevemente (58:34): haber satisfecho las necesidades de los padres y descubrir que no era lo que uno quería; vidas exitosas vacías; no soportar 'bien hecho'. Va capturado dentro de diatesis-familiar-en-proxy como cuadro derivado de la sexta fase. Si futuros vídeos lo desarrollan como cuadro independiente, evaluar promoción a concept autónomo.",
+      "quote_evidence": "El síndrome es haber satisfecho las necesidades de los padres y descubrir que no era lo que uno quería",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente para futuro: si aparece como cuadro nominado en ≥2 vídeos adicionales, evaluar promoción a concept autónomo en línea con sindrome-xocas y sindrome-wendy.",
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "adopción y trastornos de personalidad inmaduros",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Mecanismo articulado brevemente (1:02:41): en la adopción los procesos de identificación son más graves o falsarios; adoptados con sensación de vacío y dificultad para encontrarse; uno de los mecanismos más frecuentes de TPs inmaduros. Pieza aplicada del aparato de la identificación, va capturada dentro de diatesis-familiar-en-proxy. Tratamiento muy breve (~1 min), no merece página autónoma con la base actual.",
+      "quote_evidence": "La adopción es uno de los mecanismos más frecuentes de desarrollo de trastornos de personalidad inmaduros",
+      "review_priority": "medium",
+      "review_priority_reason": "Tema clínicamente sensible. Si el canal dedica monográfico a adopción en futuros vídeos, evaluar promoción autónoma con cautela editorial.",
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "lactancia natural aporta 2-5 puntos de CI sobre máximo genético",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Claim empírico específico (29:48) que el canal invoca como caso paradigmático de impronta: la lactancia natural genera impronta y aporta entre 2 y 5 puntos de CI sobre el máximo determinado genéticamente. Pieza ilustrativa del concepto de impronta. Va capturada dentro de diatesis-familiar-en-proxy.",
+      "quote_evidence": "La lactancia natural genera impronta y aporta entre 2 y 5 puntos de CI sobre el máximo determinado genéticamente",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "formaciones reactivas (gemelos idénticos con personalidades distintas)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza articulada (43:26): las formaciones reactivas son soluciones de personalidad que anticipan conflictos; gemelos idénticos terminan con personalidades distintas porque los padres los tratan distinto, buscando individualidades para distinguirlos. Mecanismo del aparato de la diátesis familiar. Va capturado dentro de diatesis-familiar-en-proxy. Concepto psicoanalítico estándar (Anna Freud) aplicado aquí a dinámica familiar — no merece página autónoma.",
+      "quote_evidence": "Las formaciones reactivas son soluciones de personalidad que anticipan conflictos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diatesis-familiar-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T14:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[diátesis familiar (teoría del desarrollo de la psique)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

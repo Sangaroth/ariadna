@@ -56,6 +56,42 @@ El canal articula el amor romántico no como construcción postmoderna sino como
 
 La lectura es estructural-funcional: la civilización monógama distribuye el amor de manera que ningún varón quede excluido del vínculo, frente al desperdicio que produce la poligamia:
 
+
+
+El clip *El Amor cortés y el amor romántico* (feb 2026) precisa la mecánica biológica que sustenta la lectura estructural-funcional: el varón es **biológicamente expendable** — diseñado para darlo todo a la mujer y al hijo — y por eso la poligamia destruye específicamente el potencial masculino del grupo:
+
+> "En la poligamia antropológica es un varón con muchas mujeres, no al revés"
+→ [El Amor cortés y el amor romántico (07:02)](https://youtu.be/bDnPuA3aZSk?t=422)
+
+> "El hombre está biológicamente diseñado para ser expendable: darlo todo a la mujer y al hijo"
+→ [El Amor cortés y el amor romántico (07:02)](https://youtu.be/bDnPuA3aZSk?t=422)
+
+> "En sociedades polígamas el hombre más poderoso se queda con todas las mujeres y el resto son carne de cañón que no genera cultura ni familia"
+→ [El Amor cortés y el amor romántico (07:02)](https://youtu.be/bDnPuA3aZSk?t=422)
+
+La cifra biológica precisa el 'desperdicio' que la página articulaba en plano abstracto: la asimetría reproductiva (un varón puede embarazar a muchas mujeres simultáneamente, una mujer no puede gestar simultáneamente de varios varones) genera, bajo régimen polígamo, una distribución concentrada del vínculo paterno-civilizatorio que deja a la mayoría de varones sin cauce productivo. La civilización monógama opera entonces como dispositivo eutáxico (ver [[diagrama-de-proxy]] § eutaxia/distaxia): distribuye uno-a-uno la entrega expendable masculina entre mujeres-e-hijos, garantizando que cada varón tenga un cauce de entrega y por tanto un motor de producción cultural. La poligamia, por contraste, opera como dispositivo distáxico que concentra la entrega en pocos varones y excluye al resto del aparato civilizatorio.
+
+El framing biológico aporta además la pieza fenomenológica complementaria sobre el enamoramiento como sustrato del procedimiento:
+
+> "El estado de enamoramiento supera las habilidades normales de existir en el mundo"
+→ [El Amor cortés y el amor romántico (02:29)](https://youtu.be/bDnPuA3aZSk?t=149)
+
+> "Los primeros enamoramientos facilitan la idealización, que es una forma de fantasía"
+→ [El Amor cortés y el amor romántico (02:29)](https://youtu.be/bDnPuA3aZSk?t=149)
+
+La idealización como **forma de fantasía** que el enamoramiento facilita enlaza el amor cortés con el aparato general del canal sobre cognición — toda cognición tiene partes de realidad, fantasía, proyección e identificación (ver [[diagrama-de-proxy]] y [[colusion-heroe-ninfa]] sobre la idealización del héroe joven). El procedimiento del cortejo, asimétrico y temporal, opera precisamente para que la idealización inicial se decante en la elección sostenida de un sujeto real.
+
+Finalmente, el clip precisa el **fundamento metodológico** del marco completo:
+
+> "El marco no es psicoanálisis ni un sistema propio, sino antropología mitológica"
+→ [El Amor cortés y el amor romántico (14:34)](https://youtu.be/bDnPuA3aZSk?t=874)
+
+> "Todas las culturas tienen un principio de aproximación al amor cortés"
+→ [El Amor cortés y el amor romántico (14:34)](https://youtu.be/bDnPuA3aZSk?t=874)
+
+La pieza es operativa: el canal demarca explícitamente que su articulación del amor cortés NO se sostiene en aparato psicoanalítico ni en sistema propio inventado, sino en lectura de antropología mitológica comparada. Las culturas que han fracasado en la monogamia han tenido que implementar poligamia, pero el principio del amor cortés es universal — propiedad estructural de la psique humana antes que doctrina cultural particular. Esto excluye la lectura crítica más común (que el amor cortés sería 'construcción patriarcal europea') al situar el marco en universal antropológico, no en tradición cultural contingente.
+
+
 > "Las civilizaciones monógamas prosperan porque todos los hombres reciben amor de una mujer, frente a las polígamas donde la mayoría de varones quedan desaprovechados"
 → [Fenomenología Trans (00:30)](https://youtu.be/grs5EqRZBnQ?t=30)
 
@@ -160,5 +196,5 @@ La pieza completa la doctrina del amor cortés desde el lado del fracaso: si el 
 
 
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30) · [8:03](https://youtu.be/grs5EqRZBnQ?t=483) · [13:05](https://youtu.be/grs5EqRZBnQ?t=785)
-- **BUT WHY?** — chunks: [57:43](https://youtu.be/4tAWgX7-yXk?t=3463)
+- **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57) · [6:01](https://youtu.be/bDnPuA3aZSk?t=361) · [9:32](https://youtu.be/bDnPuA3aZSk?t=572) · [11:03](https://youtu.be/bDnPuA3aZSk?t=663) · [12:33](https://youtu.be/bDnPuA3aZSk?t=753) · [14:34](https://youtu.be/bDnPuA3aZSk?t=874)
 

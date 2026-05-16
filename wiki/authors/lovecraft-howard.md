@@ -3,12 +3,11 @@ page_id: lovecraft-howard
 page_type: author
 canonical_name: H. P. Lovecraft
 aliases:
-- Lovecraft
-- HP Lovecraft
-- H.P. Lovecraft
-- Howard Phillips Lovecraft
-- lovecraftiano (adj.)
-- Edgar Allan Poe
+  - Lovecraft
+  - HP Lovecraft
+  - H.P. Lovecraft
+  - Howard Phillips Lovecraft
+  - lovecraftiano (adj.)
 
 given_names: Howard Phillips
 family_name: Lovecraft
@@ -295,6 +294,7 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [22:35](https://youtu.be/IytpR6sGWXg?t=1355)
 - **Otoño de cuentos. Lovecraft** — chunks: [8:40](https://youtu.be/SwEqFdvBI9M?t=520) · [9:41](https://youtu.be/SwEqFdvBI9M?t=581) · [51:39](https://youtu.be/SwEqFdvBI9M?t=3099) · [1:05:01](https://youtu.be/SwEqFdvBI9M?t=3901) · [2:14:51](https://youtu.be/SwEqFdvBI9M?t=8091)
 - **Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne** — chunks: [3:04](https://youtu.be/9x8zTqpyZ5Q?t=184) · [15:12](https://youtu.be/9x8zTqpyZ5Q?t=912)
@@ -305,4 +305,6 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Leyendo a Lovecraft** — chunks: [14:33](https://youtu.be/clUIlcqD0o0?t=873) · [22:24](https://youtu.be/clUIlcqD0o0?t=1344) · [55:37](https://youtu.be/clUIlcqD0o0?t=3337) · [59:08](https://youtu.be/clUIlcqD0o0?t=3548)
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [58:40](https://youtu.be/celiAdqrHYA?t=3520) · [1:19:10](https://youtu.be/celiAdqrHYA?t=4750) · [1:22:42](https://youtu.be/celiAdqrHYA?t=4962) · [1:28:18](https://youtu.be/celiAdqrHYA?t=5298)
 - **Terror: Lovecraft y lo incompleto.** — chunks: [11:34](https://youtu.be/JzfcmEKWm1c?t=694) · [26:18](https://youtu.be/JzfcmEKWm1c?t=1578) · [1:05:19](https://youtu.be/JzfcmEKWm1c?t=3919) · [1:06:50](https://youtu.be/JzfcmEKWm1c?t=4010) · [1:27:22](https://youtu.be/JzfcmEKWm1c?t=5242) · [1:53:45](https://youtu.be/JzfcmEKWm1c?t=6825)
+- **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [1:28:28](https://youtu.be/9wJQ9tm9Yuc?t=5308)
+- **Directo Navidad y Entrevista a Unicornio** — chunks: [13:53](https://youtu.be/PTgRsC-KwSs?t=833)
 

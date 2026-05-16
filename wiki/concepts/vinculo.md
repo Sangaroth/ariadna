@@ -169,6 +169,9 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
+
 - **Por fin** — chunks: [53:01](https://youtu.be/7jT13kHNlBA?t=3181)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:14:58](https://youtu.be/UOk344kEeRM?t=4498) · [1:19:32](https://youtu.be/UOk344kEeRM?t=4772)
 - **Matrix II y III** — chunks: [3:36](https://youtu.be/tkVwAclFrsI?t=216)
@@ -197,4 +200,7 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **Mitología 101: Teseo y Ariadna** — chunks: [1:00:28](https://youtu.be/b03AszdViNw?t=3628)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [36:52](https://youtu.be/O4OkDuc3uPQ?t=2212)
 - **"Hikikomori" Luna roja sobre el varón. Parte I** — chunks: [1:58:10](https://youtu.be/mWzi6Mjbjvk?t=7090)
+- **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [8:37](https://youtu.be/-2u3CAw1xCs?t=517)
+- **Teoría de la mente y opción política** — chunks: [5:40](https://youtu.be/pgIY-zfcO4I?t=340)
+- **Cómo desparasitar humanos** — chunks: [5:37](https://youtu.be/h3OjS4upnGY?t=337)
 

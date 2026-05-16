@@ -641,6 +641,8 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 
 
 
+
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
@@ -684,4 +686,6 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Podcast Puppetland: El Principito** — chunks: [6:13](https://youtu.be/Q0uCvOLRR2k?t=373)
 - **Puppetland, capítulo cero.** — chunks: [5:17](https://youtu.be/7O_f3spU184?t=317)
 - **De Platón A The Matrix** — chunks: [13:41](https://youtu.be/zr_ZKX60N54?t=821) · [17:45](https://youtu.be/zr_ZKX60N54?t=1065) · [21:51](https://youtu.be/zr_ZKX60N54?t=1311) · [28:29](https://youtu.be/zr_ZKX60N54?t=1709) · [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879) · [1:07:41](https://youtu.be/zr_ZKX60N54?t=4061)
+- **Psicología Incel (Luna roja sobre el varón III)** — chunks: [44:14](https://youtu.be/zLRhDHyq3gs?t=2654) · [45:45](https://youtu.be/zLRhDHyq3gs?t=2745)
+- **Directo Navidad y Entrevista a Unicornio** — chunks: [43:28](https://youtu.be/PTgRsC-KwSs?t=2608)
 

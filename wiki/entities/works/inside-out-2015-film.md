@@ -104,9 +104,7 @@ La lectura culminante del canal sobre la película — afín a su tratamiento de
 
 
 
-
 - video_id: `V-ixEcJuLzw` — Análisis arquetípico Inside Out
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [10:14](https://youtu.be/TmQiM16HIpU?t=614)
 - **No entendiste Anticristo. Análisis arquetípico de Anticristo** — chunks: [3:13](https://youtu.be/0EeqbwZJUQw?t=193) · [1:50:53](https://youtu.be/0EeqbwZJUQw?t=6653)
-- **Olaf y la jaula de oro** — chunks: [0:00](https://youtu.be/hY87a4srcoM?t=0)
 

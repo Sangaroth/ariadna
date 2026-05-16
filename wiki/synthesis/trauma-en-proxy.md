@@ -335,6 +335,7 @@ La pieza precisa el límite operativo del esquema: el TEPT complejo culpa-driven
 
 
 
+
 - **Magia y Trauma** — chunks: [29:53](https://youtu.be/JNafno3jgHY?t=1793) · [33:26](https://youtu.be/JNafno3jgHY?t=2006) · [1:28:05](https://youtu.be/JNafno3jgHY?t=5285) · [1:31:07](https://youtu.be/JNafno3jgHY?t=5467) · [1:37:10](https://youtu.be/JNafno3jgHY?t=5830) · [1:39:43](https://youtu.be/JNafno3jgHY?t=5983)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [1:13:56](https://youtu.be/1WEQmzUM41M?t=4436)
 
@@ -346,4 +347,5 @@ La pieza precisa el límite operativo del esquema: el TEPT complejo culpa-driven
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [53:26](https://youtu.be/4LBXNkVAUCU?t=3206)
 - **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [26:24](https://youtu.be/eQpPGGqodsU?t=1584)
 - **Tontas en Potencia** — chunks: [1:30:43](https://youtu.be/1cKAgkEEbMA?t=5443)
+- **Psicastenia** — chunks: [1:33:20](https://youtu.be/ht8B7BPY3AY?t=5600)
 

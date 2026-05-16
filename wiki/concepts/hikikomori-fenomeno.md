@@ -370,10 +370,12 @@ Protocolo diagnóstico operativo: rastrear en el entorno los tres mensajes tóxi
 
 
 
+
 - **Experimento 25** — chunks: [47:52](https://youtu.be/Bn-I6p-AyXc?t=2872)
 - **Experimento 25** — chunks: [47:52](https://youtu.be/p-93qXOPrDk?t=2872) · [1:02:36](https://youtu.be/p-93qXOPrDk?t=3756)
 - **Ghost in the Shell: Arquetipo cero y transhumanismo.** — chunks: [37:36](https://youtu.be/yp1gyKHdOJc?t=2256)
 - **Arquetipo Cero** — chunks: [56:31](https://youtu.be/nern-nhePjE?t=3391)
 - **"Hikikomori" Luna roja sobre el varón. Parte I** — chunks: [1:00](https://youtu.be/mWzi6Mjbjvk?t=60) · [35:03](https://youtu.be/mWzi6Mjbjvk?t=2103) · [52:45](https://youtu.be/mWzi6Mjbjvk?t=3165) · [57:20](https://youtu.be/mWzi6Mjbjvk?t=3440) · [1:02:52](https://youtu.be/mWzi6Mjbjvk?t=3772) · [1:07:54](https://youtu.be/mWzi6Mjbjvk?t=4074) · [1:14:58](https://youtu.be/mWzi6Mjbjvk?t=4498) · [1:19:34](https://youtu.be/mWzi6Mjbjvk?t=4774) · [1:31:22](https://youtu.be/mWzi6Mjbjvk?t=5482) · [1:34:26](https://youtu.be/mWzi6Mjbjvk?t=5666) · [1:47:34](https://youtu.be/mWzi6Mjbjvk?t=6454) · [1:50:06](https://youtu.be/mWzi6Mjbjvk?t=6606) · [1:58:10](https://youtu.be/mWzi6Mjbjvk?t=7090) · [2:04:14](https://youtu.be/mWzi6Mjbjvk?t=7454)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [0:00](https://youtu.be/5uFhZcARjYQ?t=0)
+- **Psicología Incel (Luna roja sobre el varón III)** — chunks: [1:06:53](https://youtu.be/zLRhDHyq3gs?t=4013)
 

@@ -248,7 +248,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minut
 
 
 
-
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [37:39](https://youtu.be/NKFWUxt5VQ4?t=2259)
-- **La enfermedad del aburrimiento.** — chunks: [58:01](https://youtu.be/ifKRYGlHwuk?t=3481)
 

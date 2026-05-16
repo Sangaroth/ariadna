@@ -1,0 +1,218 @@
+{
+  "video_id": "2zAwfcLnlvU",
+  "video_title": "TOC",
+  "playlist": "psicologia-101",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "TOC (Trastorno Obsesivo-Compulsivo)",
+      "canonical_guess": "toc-en-proxy",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 89,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El ritual es la última manifestación del TOC; el trastorno está antes de los rituales"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La obsesión se manifiesta como si alguien que no eres tú estuviera gritando dentro de tu mente"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El TOC está en la frontera entre lo neurótico y lo psicótico"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Todas las personas con TOC pertenecen al espectro psicasténico"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El acto compulsivo resulta de un pensamiento obsesivo intrusivo y rumiante que crece hasta apoderarse de la mente"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La forma de saber si alguien tiene TOC es verificar si tiene compulsiones"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "En la psicosis hay exceso de dopamina; en el TOC hay exceso de serotonina"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Monográfico Psicología 101 de 91 min (ago 2023, anterior al monográfico de Psicastenia de dic 2023) dedicado en exclusiva a articular el TOC como cuadro clínico-canal específico. Cumple scope.md §2.1 'monográfico ≥10 min sostenidos como tesis central' con creces. El canal aplica al cuadro académico estándar (DSM-5 OCD) una articulación propia con aparato distintivo: (1) ubicación nosológica diferencial entre trastorno psicológico y neurológico — TOC es psicológico aunque tenga base neurológica; (2) distinción TOC vs TPOC como cuadros distintos — el TOC es trastorno psicológico grave, el TPOC trastorno de personalidad ansioso; (3) inserción del TOC en el espectro psicasténico con sus cuatro dimensiones (inseguridad, duda, culpa, incompletitud); (4) clave diagnóstica operativa — la compulsión como acto ritual no impulsivo producto de obsesión, sin obsesión previa NO hay TOC; (5) distinción categorial impulsividad vs compulsividad — el acto impulsivo viene del sistema límbico antes de racionalizar (ira/brusquedad), el compulsivo viene del pensamiento obsesivo rumiante (necesidad imparable sin ira); (6) la obsesión articulada fenomenológicamente como entidad autónoma ('voz que grita dentro de tu mente' pero no oída literalmente como en psicosis); (7) tipos de obsesiones — contaminación, dudas, pensamientos intrusivos, verificación (TOC lento), dubitación; (8) frontera con lo psicótico — TOC como umbral, psicosis obsesivas con voces como cruce; (9) neuroquímica específica — exceso de serotonina (no déficit como en ansiedad), clomipramina como diagnóstico-respuesta diferencial, glutamato/dopamina/oxitocina/esteroides gonadales implicados, ISRS comunes inefectivos; (10) circuito de Alexander como sustrato neuroestructural (córtex prefrontal + globo pálido + núcleo estriado); (11) tres niveles de insight — conocimiento bueno/justo, conocimiento pobre, ausencia de percepción; (12) criterios diagnósticos articulados; (13) diagnóstico diferencial sistemático — ansiedad generalizada, dismorfobia, acumulación, tricotilomanía, escoriación, estereotipias motoras, TCAs ritualizados, trastornos adictivos, parafilias, rumiación depresiva, inserción psicótica, espectro autista; (14) prevalencia 70%H/30%M y rituales más comunes (orden/limpieza ~50%, dubitativos como segundo grupo); (15) ética del tratamiento — impedir el ritual se considera tortura. La página existente [[psicastenia-en-proxy]] (creada en este batch) menciona TOC como una de las dos máximas expresiones de la psicastenia pero no articula el cuadro clínico TOC con esta granularidad — la nueva página captura ese aparato completo.",
+      "quote_evidence": "La gravedad del TOC no se mide por los rituales sino por lo que causa el ritual"
+    }
+  ],
+  "_doc_promote_new": "Página concept toc-en-proxy — la construirá sub-agente posterior. Estructura sugerida: (1) Ubicación nosológica — trastorno psicológico (no neurológico aunque tenga base neurológica); distinto de TPOC; insertado en espectro psicasténico; (2) Las cuatro dimensiones psicasténicas — inseguridad, duda, culpa, incompletitud — que generan representaciones motivantes de conducta excesiva; (3) Clave diagnóstica — la compulsión: acto ritual no impulsivo producto de obsesión; sin obsesión previa no hay TOC; (4) Distinción impulsivo vs compulsivo — acto impulsivo del sistema límbico antes de racionalizar (ira/brusquedad), acto compulsivo del pensamiento obsesivo rumiante (necesidad imparable sin ira); ejemplo paradigmático del gas (impulsivo da media vuelta enfadado; obsesivo genera duda creciente, cerebro confabula, ansiedad real, vuelve aunque sepa que no hay peligro); (5) Fenomenología de la obsesión — 'como si alguien que no eres tú gritara dentro de tu mente'; el sujeto sabe que no quiere hacer el acto pero sabe que si no lo hace su cabeza le torturará; (6) Tipos de obsesiones — contaminación y dudas (más comunes/estereotípicas), pensamientos intrusivos con confabulación posterior, verificación (TOC lento con hiperconsciencia), dubitación (micro-obsesión brusca antes de actuar); (7) TOC lento como subtipo dubitativo fronterizo — lentitud extrema por hiperconsciencia de cada acción, imposibilidad de movimientos fluidos simultáneos; pertenencia al espectro TOC todavía debatida; (8) Ego-sintonía/ego-distonía — el TOC es más ego-sintónico (dinámica obsesional integrada) que el trastorno de ansiedad general; el sujeto sabe que tiene TOC pero no puede racionalizar la obsesión mientras ocurre; (9) Frontera con lo psicótico — psicosis obsesivas con voces como cruce; el toc no oye la voz literalmente como el psicótico pero la narra como tal; (10) Tres niveles de insight — bueno/justo (reconoce que probablemente no es cierto pero no puede racionalizar en el momento), pobre (cree que probablemente es cierto, sin insight), ausencia de percepción (convicción total, sin ego-distonía); (11) Qué ocurre si se impide el ritual — barrena mental, histeria, pánico, nervios; impedirlo se considera tortura, es inhumano; (12) Etiología — no se puede inducir TOC (mecanismo de generación desconocido); lo más parecido al TOC inducido es TEPT grave con rumiación obsesiva pero el TEPT genera conductas impulsivas no compulsivas; diagnóstico definitivo se confirma con respuesta a clomipramina; (13) Neuroquímica — exceso de serotonina (no déficit como en ansiedad); en psicosis exceso de dopamina, en TOC exceso de serotonina; ISRS comunes no funcionan bien; clomipramina sí; implicación de glutamato, dopamina, oxitocina, esteroides gonadales; (14) Circuito de Alexander — córtex prefrontal + globo pálido + núcleo estriado; circuitos motores, asociativos y límbicos; descompensación identificada pero no la disfunción específica; (15) Prevalencia 70% hombres / 30% mujeres; (16) Diagnóstico diferencial sistemático — qué parece TOC pero no lo es: preocupación excesiva (TAG), dismorfobia, acumulación, tricotilomanía, escoriación, estereotipias motoras, comportamiento alimentario ritualizado, trastornos adictivos, ansiedad por enfermedad, parafilias, trastornos de control de impulsos, rumiación depresiva, inserción de pensamientos psicóticos, patrones repetitivos del espectro autista; (17) Criterios diagnósticos — pensamientos intrusivos recurrentes no deseados que causan ansiedad; compulsiones como comportamientos repetitivos o actos mentales en respuesta a obsesiones; reglas obsesión↔compulsión idiosincrásicas e incomprensibles desde fuera; conexión MÁGICA, no lógica; (18) Distinción operativa: por qué las compulsiones de ansiedad generalizada NO son TOC — sin obsesión previa rituals son impulsos, no compulsiones; (19) Rituales más comunes — orden y limpieza ~50% (TOC contaminación incluido), rituales dubitativos (encender/apagar, abrir/cerrar) como segundo grupo. Frontmatter sugerido: page_type: concept, domain_primary: social.psychology. Relations[]: contained_in → psicastenia-en-proxy (TOC como una de las dos máximas expresiones del espectro psicasténico), compared_with → psicastenia-en-proxy (distinción TOC psicológico vs TPOC personalidad), references → autismo-en-proxy (diagnóstico diferencial: mímica sintomática autista del TOC con mecanismo distinto), references → fobia-en-proxy (otro cuadro del eje obsesivo psicasténico), references → psiquiatria-y-teoria-de-la-mente (taxonomía clínica del canal: TOC como neurosis no-TP psicológica), see_also → sindrome-xocas (personalidad psicasténica obsesiva en el eje TPOC, contraste estructural con TOC).",
+  "pending_updates": [
+    {
+      "page_id": "psicastenia-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La diferencia no es de intensidad sino de **alcance estructural**: el TOC es una neurosis circunscrita que no tiñe toda la conducta; el TPOC es una neurosis de personalidad que desalinea medios y fines en la totalidad de la conducta del individuo. Esta distinción solo es operativa si se dispone de una categoría transversal — la psicastenia — que permita ver que ambos cuadros comparten un mismo substrato de rasgo antes de separarse en su alcance.",
+      "section_target": null,
+      "content_proposed": "\n\nLa articulación clínica completa del TOC como cuadro específico se desarrolla en [[toc-en-proxy]] — monográfico de 91 min (ago 2023, anterior al presente vídeo sobre psicastenia) que articula el aparato del TOC con granularidad propia: la compulsión como clave diagnóstica (acto ritual no impulsivo producto de obsesión; sin obsesión previa no hay TOC), la distinción operativa impulsividad vs compulsividad (el acto impulsivo procede del sistema límbico antes de racionalizar, el compulsivo del pensamiento rumiante que apodera la mente), la fenomenología de la obsesión como entidad autónoma ('como si alguien que no eres tú gritara dentro de tu mente'), la frontera con lo psicótico (psicosis obsesivas con voces como cruce real), los tres niveles de insight (bueno/justo / pobre / ausencia de percepción), la neuroquímica específica (exceso de serotonina — no déficit como en ansiedad —, clomipramina como diagnóstico-respuesta diferencial, ISRS comunes inefectivos), el circuito de Alexander como sustrato neuroestructural, y el diagnóstico diferencial sistemático frente a cuadros que pueden parecer TOC pero no lo son (TAG, dismorfobia, tricotilomanía, TCAs ritualizados, rumiación depresiva, inserción psicótica, patrones repetitivos autistas). La página confirma además la posición del TOC en el espectro psicasténico aquí articulado: el TOC es la máxima expresión psicasténica de cuadro psicológico ego-sintónico con compulsión ritual mágica; el TPOC su contraparte como trastorno de personalidad ego-distónico sin ritual.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "toc-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "2zAwfcLnlvU",
+          "timestamp_seconds": 1708,
+          "cite_markdown": "[TOC (28:28)](https://youtu.be/2zAwfcLnlvU?t=1708)"
+        }
+      ],
+      "rationale": "Material nuevo no presente en la página: el monográfico TOC de agosto 2023 (anterior a este monográfico de psicastenia de diciembre 2023) articula el cuadro clínico TOC con granularidad que la página actual no contiene. La sección 'TOC vs TPOC: la máxima expresión de la psicastenia' establece la distinción pero no desarrolla cada cuadro. Insert_after_passage al cierre de esa sección apunta al monográfico dedicado donde el aparato clínico completo del TOC se articula (compulsión como clave diagnóstica, fenomenología de la obsesión autónoma, frontera psicótica, neuroquímica serotoninérgica, circuito de Alexander, niveles de insight, diagnóstico diferencial sistemático). La nueva página toc-en-proxy se relaciona con la presente vía contained_in (el TOC vive en el espectro psicasténico) y compared_with (TOC vs TPOC).",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "_doc_thesis_candidates": "No se emite thesis_candidate. La página se crea como concept directo vía promote_new — el monográfico articula un cuadro clínico específico (TOC) con marco propio del canal, no una tesis cross-conceptos. Misma decisión que en psicastenia-en-proxy, fobia-en-proxy, autismo-en-proxy.",
+  "discarded": [
+    {
+      "surface_form": "trastorno psicológico vs trastorno neurológico (distinción categorial)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza foundational del aparato (00:32-05:05): trastorno neurológico = disfunción cerebral identificable; trastorno psicológico = afecta o causa representaciones mentales anómalas; todo trastorno psicológico tiene base neurológica asociada pero se clasifica por manifestación; en trastorno psicológico el sistema nervioso está estructuralmente intacto; la taxonomía de enfermedades NO es ontológica sino de conjuntos de síntomas. Va capturada dentro de toc-en-proxy como ubicación nosológica. Coherente con la articulación general en [[psiquiatria-y-teoria-de-la-mente]] sobre dualismo formal y taxonomía clínica del canal.",
+      "quote_evidence": "Todo trastorno psicológico tiene una base neurológica asociada, pero se clasifica por su manifestación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "compulsión vs impulsividad (distinción operativa)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza diagnóstica nuclear (30:03-31:34): acto impulsivo = irracional, sistema límbico, antes de racionalizar, persona impulsiva reacciona con ira y brusquedad; acto compulsivo = resultado de pensamiento obsesivo rumiante que crece hasta apoderarse de la mente, sin ira sino necesidad imparable; ejemplo paradigmático del gas (impulsivo da media vuelta enfadado, obsesivo genera duda creciente, cerebro confabula, ansiedad real, vuelve aunque sepa que no hay peligro). Va capturada dentro de toc-en-proxy como pieza diagnóstica diferencial nuclear.",
+      "quote_evidence": "El acto impulsivo es irracional, proviene del sistema límbico y se realiza antes de racionalizar",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "circuito de Alexander (sustrato neuroestructural del TOC)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza neurobiológica (1:05:10): circuito que conecta córtex prefrontal con globo pálido y núcleo estriado; circuitos motores, asociativos y límbicos que integran procesamiento cognitivo complejo; descompensado en TOC pero sin identificación precisa de la disfunción. Sustrato anatómico específico del cuadro. Va capturado dentro de toc-en-proxy.",
+      "quote_evidence": "El circuito de Alexander conecta el córtex prefrontal con el globo pálido y el núcleo estriado",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "neuroquímica del TOC (serotonina, clomipramina)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza farmacológica nuclear (1:02:37): el TOC tiene EXCESO de serotonina (no déficit como en ansiedad); en psicosis exceso de dopamina; los ISRS comunes no funcionan bien para TOC, solo la clomipramina tiene respuesta clara; implicación sospechada de glutamato, dopamina, oxitocina, esteroides gonadales. Pieza diagnóstica y terapéutica nuclear. Va capturada dentro de toc-en-proxy.",
+      "quote_evidence": "El TOC está relacionado con niveles de serotonina pero de forma inversa a la ansiedad: hay exceso, no déficit",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tres niveles de insight en el TOC",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Tipología (1:17:20): conocimiento bueno/justo (reconoce que probablemente no es cierto pero no puede racionalizar en el momento); conocimiento pobre (cree que probablemente es cierto, sin insight); ausencia de percepción (convicción total, sin ego-distonía). Pieza diagnóstica que refina la articulación general de insight ya en [[psicastenia-en-proxy]] aplicándola específicamente al TOC. Va capturada dentro de toc-en-proxy.",
+      "quote_evidence": "Conocimiento bueno/justo: reconoce que sus creencias probablemente no son ciertas pero no puede racionalizarlo en el momento",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tipos de obsesiones (taxonomía: contaminación, dudas, intrusivos, verificación, dubitación)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Tipología (37:44, 52:27): contaminación y dudas como más comunes/estereotípicas; pensamientos intrusivos con confabulación posterior; verificación (TOC lento con hiperconsciencia); dubitación (micro-obsesión brusca antes de actuar). Va capturada dentro de toc-en-proxy como sub-tipología del cuadro.",
+      "quote_evidence": "Contaminación y dudas son las más comunes y estereotípicas",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "TOC lento (subtipo dubitativo fronterizo)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Subtipo articulado (48:25): lentitud extrema en cualquier actividad por hiperconsciencia absoluta de cada acción; no pueden hacer movimientos fluidos simultáneos; TOC fronterizo cuya pertenencia al espectro TOC aún se debate. Va capturado dentro de toc-en-proxy como sub-tipo específico.",
+      "quote_evidence": "Personas cuyo TOC se manifiesta en lentitud extrema al hacer cualquier actividad",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "TOC en frontera con lo psicótico (psicosis obsesivas con voces)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza diagnóstica diferencial (35:12, 43:20): la obsesión se manifiesta 'como si alguien que no eres tú gritara dentro de tu mente'; el toc no oye la voz literalmente como el psicótico pero la narra como tal; lo más parecido al TOC que cruza a lo psicótico son las psicosis obsesivas con voces. Pieza fenomenológica nuclear del cuadro. Va capturada dentro de toc-en-proxy.",
+      "quote_evidence": "Las personas con TOC narran la obsesión \"como una voz\" pero no la oyen literalmente como los psicóticos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "diagnóstico diferencial sistemático (qué parece TOC pero no lo es)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Inventario (1:07:12): preocupación excesiva (TAG), dismorfobia, acumulación, tricotilomanía, escoriación, estereotipias motoras, comportamiento alimentario ritualizado, trastornos adictivos, ansiedad por enfermedad, parafilias, trastornos de control de impulsos, rumiación depresiva, inserción de pensamientos psicóticos, patrones repetitivos del espectro autista. Pieza diagnóstica nuclear que precisa qué NO es TOC pese a parecerse. Va capturada dentro de toc-en-proxy.",
+      "quote_evidence": "Preocupación excesiva (ansiedad generalizada), dismorfobia, acumulación, tricotilomanía, escoriación",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "impedir el ritual = tortura (ética del tratamiento)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Pieza ético-clínica (46:21): si se impide el ritual la persona entra en barrena mental — ataques de histeria, pánico, nervios; impedir el ritual se considera tortura, es inhumano. Va capturada dentro de toc-en-proxy como pieza ética del manejo clínico.",
+      "quote_evidence": "La persona entra en barrena mental: ataques de histeria, pánico y nervios",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "prevalencia y rituales más comunes (70%H/30%M; orden/limpieza 50%)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Datos epidemiológicos (1:05:10, 1:29:44): 70% hombres vs 30% mujeres; orden y limpieza ~50% de los TOC; TOC contaminación dentro del espectro de limpieza; rituales dubitativos (encender/apagar, abrir/cerrar) como segundo grupo más frecuente. Van capturados dentro de toc-en-proxy como datos prevalencia/tipología.",
+      "quote_evidence": "Orden y limpieza representan aproximadamente el 50% de los TOC",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "psicopatía como límite del sufrimiento psicológico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención puntual (05:05): 'lo más parecido a una persona sin sufrimiento psicológico es un síndrome psicopático puro'. Pieza ilustrativa del aparato de trastorno psicológico, no articulación sustantiva. Va capturada dentro de toc-en-proxy como contexto. Coherente con tratamiento de psicopatía en [[diagrama-de-proxy]] (los psicópatas no entran en el diagrama porque carecen de la estructura moral).",
+      "quote_evidence": "Lo más parecido a una persona sin sufrimiento psicológico es un síndrome psicopático puro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "toc-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T17:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "WARN promote_new[TOC (Trastorno Obsesivo-Compulsivo)] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

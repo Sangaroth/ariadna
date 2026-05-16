@@ -1,0 +1,335 @@
+{
+  "video_id": "F1isbFH_FeM",
+  "video_title": "Avisos parroquiales",
+  "playlist": "twitch",
+  "category": "cultura y actualidad",
+  "entities": [],
+  "_doc_entities_empty": "No se promueve nueva entidad. Clip corto (14 min) de avisos parroquiales: recomendaciones bibliográficas (~7 min con 12 libros), reflexión breve sobre Cuaresma (~3 min), y contenido meta-canal (Paloma Pájaro, empresa buceo, Polaris/Galatea). Los libros recomendados se capturan como recommended_reference per scope.md §3.4 'Recomendaciones bibliográficas (caso especial)' — son parte del método pedagógico declarado del canal y alimentan la lane bibliográfica para una futura página índice. El resto va a discarded.",
+  "pending_updates": [],
+  "_doc_pending_updates_empty": "No se emiten pending_updates. La reflexión sobre Cuaresma / memento mori es demasiado breve (~3 min) para sostener un update sustantivo a teologia-catolica-en-proxy — es apertura pedagógica del clip, no articulación. Las recomendaciones bibliográficas van a la lane recommended_reference, no a wiki pages individuales.",
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "memento mori / Cuaresma como recordatorio de mortalidad",
+      "reason_code": "passing_mention",
+      "reason_detail": "Apertura pedagógica breve (00:41-03:42, ~3 min): la Cuaresma tiene un objeto simple y terrible — memento mori; 'cenizas a las cenizas, polvo eres y en polvo te convertirás'; la significación importa más que las zarandajas moralistas. Pieza catequética coherente con el marco luterano/católico del canal documentado en [[teologia-catolica-en-proxy]] (canalizar vs catalizar) y [[liturgia-como-rito]] (la liturgia como procedimiento del rito). Demasiado breve para sostener update sustantivo — apertura del clip, no articulación monográfica.",
+      "quote_evidence": "La Cuaresma tiene un objeto simple y terrible: memento mori",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teologia-catolica-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Manual de neurociencia cognitiva (Diego Redolar)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual académico recomendado como introducción a la dimensión biológica del estudio de la mente. El canal lo presenta como referencia bibliográfica de base para adentrarse en ciencias cognitivas. Ya mencionado en scope.md §3.4 como caso ejemplar de recommended_reference junto a Panksepp, Hamilton, DSM-5.",
+      "quote_evidence": "Manual de neurociencia cognitiva de Redolar (editorial Panamericana) como introducción biológica",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente para futuro: integrar en la futura página índice de bibliografía recomendada por el canal.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "book_title": "Manual de neurociencia cognitiva",
+        "authors": [
+          "Diego Redolar Ripoll"
+        ],
+        "publisher": "Editorial Médica Panamericana",
+        "domain": "neurociencia",
+        "why_recommended": "Introducción a la dimensión biológica del estudio de la mente; el canal articula que las ciencias cognitivas se reducen a biología + sistemas formales, y este manual cubre la base biológica que sustenta esa articulación.",
+        "quote_evidence": "Manual de neurociencia cognitiva de Redolar (editorial Panamericana) como introducción biológica",
+        "timestamp_seconds": 222,
+        "cite_markdown": "[Avisos parroquiales (03:42)](https://youtu.be/F1isbFH_FeM?t=222)"
+      }
+    },
+    {
+      "surface_form": "Neuropsicología clínica y neurociencia (Student Consult)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual académico recomendado como referencia para neurología clínica. Pieza bibliográfica del método pedagógico declarado del canal.",
+      "quote_evidence": "Neuropsicología clínica y neurociencia (Student Consult) para neurología",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente para futuro: integrar en página índice bibliográfica.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "book_title": "Neuropsicología clínica y neurociencia",
+        "authors": [],
+        "publisher": "Student Consult (Elsevier)",
+        "domain": "neurología clínica",
+        "why_recommended": "Manual de consulta para la dimensión neurológica de la mente — complemento al manual de Redolar para cubrir el componente clínico-neurológico del marco bio-cognitivo del canal.",
+        "quote_evidence": "Neuropsicología clínica y neurociencia (Student Consult) para neurología",
+        "timestamp_seconds": 222,
+        "cite_markdown": "[Avisos parroquiales (03:42)](https://youtu.be/F1isbFH_FeM?t=222)"
+      }
+    },
+    {
+      "surface_form": "Introducción a la psicopatología y a la psiquiatría",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual recomendado como referencia para psiquiatría. El canal lo califica como 'buenísimo' para la cuestión psiquiátrica. Pieza bibliográfica del método pedagógico declarado.",
+      "quote_evidence": "\"Introducción a la psicopatología y a la psiquiatría\" como libro buenísimo para la cuestión psiquiátrica",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente para futuro: confirmar autor/edición (probablemente Vallejo Ruiloba) y integrar en página índice bibliográfica.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "book_title": "Introducción a la psicopatología y a la psiquiatría",
+        "authors": [],
+        "publisher": null,
+        "domain": "psicopatología y psiquiatría clínica",
+        "why_recommended": "Manual de consulta para la dimensión psiquiátrica del marco clínico del canal; complementa los manuales de neurociencia (Redolar, Student Consult) con la perspectiva psicopatológica clásica.",
+        "quote_evidence": "\"Introducción a la psicopatología y a la psiquiatría\" como libro buenísimo para la cuestión psiquiátrica",
+        "timestamp_seconds": 346,
+        "cite_markdown": "[Avisos parroquiales (05:46)](https://youtu.be/F1isbFH_FeM?t=346)"
+      }
+    },
+    {
+      "surface_form": "Gödel, Escher, Bach: un eterno y grácil bucle (Douglas Hofstadter)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Libro clásico recomendado como 'libro para toda la vida sobre lógica'. Hofstadter ('Michi' en el vocabulario afectivo del canal) es referencia recurrente — sus 'saltos fuera del sistema' aparecen en [[inconsciente-en-proxy]] y [[tesis-once-celdas-en-proxy]] al articular la metarrepresentación.",
+      "quote_evidence": "\"Gödel, Escher, Bach: un eterno y grácil bucle\" de Douglas Hofstadter como libro para toda la vida sobre lógica",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente: Hofstadter podría merecer entrada en canonical_whitelist como autor importado por el canal (los saltos fuera del sistema hofstadterianos son aparato del marco). Evaluar si futuros vídeos lo invocan repetidamente.",
+      "enriches_concept": "tesis-once-celdas-en-proxy",
+      "recommended_reference_payload": {
+        "book_title": "Gödel, Escher, Bach: un eterno y grácil bucle",
+        "authors": [
+          "Douglas Hofstadter"
+        ],
+        "publisher": null,
+        "domain": "lógica, ciencia cognitiva, filosofía de la mente",
+        "why_recommended": "Libro de referencia para toda la vida sobre lógica formal y auto-referencia. Los 'saltos fuera del sistema' hofstadterianos están importados al marco del canal como mecanismo nuclear de la metarrepresentación (ver inconsciente-en-proxy y tesis-once-celdas-en-proxy).",
+        "quote_evidence": "\"Gödel, Escher, Bach: un eterno y grácil bucle\" de Douglas Hofstadter como libro para toda la vida sobre lógica",
+        "timestamp_seconds": 376,
+        "cite_markdown": "[Avisos parroquiales (06:16)](https://youtu.be/F1isbFH_FeM?t=376)"
+      }
+    },
+    {
+      "surface_form": "Lenguaje matemático, conjuntos y números (manual UNED)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual UNED recomendado como introducción a teoría de conjuntos. El canal lo describe como 'manual de teoría de conjuntos brutal e infravalorado'. Pieza bibliográfica de la lane formal/matemática del método pedagógico del canal.",
+      "quote_evidence": "Manual de la UNED \"Lenguaje matemático, conjuntos y números\" como manual de teoría de conjuntos brutal e infravalorado",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente: integrar en página índice bibliográfica, lane matemáticas/lógica.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "book_title": "Lenguaje matemático, conjuntos y números",
+        "authors": [],
+        "publisher": "UNED",
+        "domain": "matemáticas — teoría de conjuntos",
+        "why_recommended": "Manual UNED 'brutal e infravalorado' sobre teoría de conjuntos — referencia para la dimensión formal-matemática del marco del canal (clases de equivalencia, cardinalidad de la matriz noética).",
+        "quote_evidence": "Manual de la UNED \"Lenguaje matemático, conjuntos y números\" como manual de teoría de conjuntos brutal e infravalorado",
+        "timestamp_seconds": 376,
+        "cite_markdown": "[Avisos parroquiales (06:16)](https://youtu.be/F1isbFH_FeM?t=376)"
+      }
+    },
+    {
+      "surface_form": "Lógica para matemáticos (A. G. Hamilton)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Manual de lógica matemática recomendado como 'la madre del cordero de la matemática fundamental en lógica'. Difícil, en inglés, pero paso por paso. Ya mencionado en scope.md §3.4 como caso ejemplar de recommended_reference.",
+      "quote_evidence": "\"Lógica para matemáticos\" de Hamilton como la madre del cordero de la matemática fundamental en lógica: difícil, en inglés, pero paso por paso",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente: integrar en página índice bibliográfica.",
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "book_title": "Logic for Mathematicians (Lógica para matemáticos)",
+        "authors": [
+          "A. G. Hamilton"
+        ],
+        "publisher": null,
+        "domain": "lógica matemática fundamental",
+        "why_recommended": "Manual paso-a-paso (difícil, en inglés) sobre lógica matemática fundamental — referencia rigurosa para el componente analítico del realismo cognitivo que el canal exige (la demanda 'la filosofía debe ser analítica' articulada en psiquiatria-y-teoria-de-la-mente).",
+        "quote_evidence": "\"Lógica para matemáticos\" de Hamilton como la madre del cordero de la matemática fundamental en lógica: difícil, en inglés, pero paso por paso",
+        "timestamp_seconds": 376,
+        "cite_markdown": "[Avisos parroquiales (06:16)](https://youtu.be/F1isbFH_FeM?t=376)"
+      }
+    },
+    {
+      "surface_form": "El héroe de las mil caras (Joseph Campbell)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Libro foundational de Campbell sobre el monomito recomendado como punto de entrada a la mitología. Campbell ya tiene página de autor [[campbell-joseph]] y es referencia central del marco mítico del canal ([[viaje-heroe]]).",
+      "quote_evidence": "Campbell es lo mejor que hay en mitología: empezar por \"El héroe de las mil caras\" y seguir con \"Las máscaras de Dios\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "campbell-joseph",
+      "recommended_reference_payload": {
+        "book_title": "El héroe de las mil caras",
+        "authors": [
+          "Joseph Campbell"
+        ],
+        "publisher": null,
+        "domain": "mitología comparada",
+        "why_recommended": "Punto de entrada recomendado al corpus de Campbell — 'lo mejor que hay en mitología' según el canal. Articula el monomito del viaje del héroe que es marco operativo central del canal (ver [[viaje-heroe]]).",
+        "quote_evidence": "Campbell es lo mejor que hay en mitología: empezar por \"El héroe de las mil caras\"",
+        "timestamp_seconds": 498,
+        "cite_markdown": "[Avisos parroquiales (08:18)](https://youtu.be/F1isbFH_FeM?t=498)"
+      }
+    },
+    {
+      "surface_form": "Las máscaras de Dios (Joseph Campbell, varios tomos)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Tetralogía de Campbell recomendada como continuación a 'El héroe de las mil caras'. Varios tomos independientes pero 'hay que leerlos todos' según el canal.",
+      "quote_evidence": "seguir con \"Las máscaras de Dios\" (varios tomos independientes pero hay que leerlos todos)",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "campbell-joseph",
+      "recommended_reference_payload": {
+        "book_title": "Las máscaras de Dios",
+        "authors": [
+          "Joseph Campbell"
+        ],
+        "publisher": null,
+        "domain": "mitología comparada",
+        "why_recommended": "Tetralogía continuación de 'El héroe de las mil caras' — varios tomos independientes pero el canal recomienda leerlos todos. Mitología comparada sistemática como cimiento del marco del canal.",
+        "quote_evidence": "seguir con \"Las máscaras de Dios\" (varios tomos independientes pero hay que leerlos todos)",
+        "timestamp_seconds": 498,
+        "cite_markdown": "[Avisos parroquiales (08:18)](https://youtu.be/F1isbFH_FeM?t=498)"
+      }
+    },
+    {
+      "surface_form": "El mito de la diosa (Anne Baring & Jules Cashford)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Estudio foundational sobre el arquetipo de la diosa, recomendado para la dimensión femenina del marco mítico del canal. Conecta con [[diosa-blanca]], [[tipologia-femenina-arquetipica]], [[feminidad-fundamental]].",
+      "quote_evidence": "Cashford y Baring: \"El mito de la diosa\" y \"La luna, símbolo de transformación\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": {
+        "book_title": "El mito de la diosa",
+        "authors": [
+          "Anne Baring",
+          "Jules Cashford"
+        ],
+        "publisher": null,
+        "domain": "mitología comparada — arquetipo femenino",
+        "why_recommended": "Estudio sistemático sobre el arquetipo de la diosa a través de las culturas; referencia para la dimensión femenina del marco mítico del canal (diosa-blanca, tipologia-femenina-arquetipica, mito-lunar).",
+        "quote_evidence": "Cashford y Baring: \"El mito de la diosa\"",
+        "timestamp_seconds": 498,
+        "cite_markdown": "[Avisos parroquiales (08:18)](https://youtu.be/F1isbFH_FeM?t=498)"
+      }
+    },
+    {
+      "surface_form": "La luna, símbolo de transformación (Jules Cashford & Anne Baring)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Estudio sobre simbología lunar recomendado para la dimensión lunar del marco mítico. Conecta con [[mito-lunar]] y [[diosa-blanca]].",
+      "quote_evidence": "Cashford y Baring: \"El mito de la diosa\" y \"La luna, símbolo de transformación\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mito-lunar",
+      "recommended_reference_payload": {
+        "book_title": "La luna, símbolo de transformación",
+        "authors": [
+          "Jules Cashford",
+          "Anne Baring"
+        ],
+        "publisher": null,
+        "domain": "mitología comparada — simbología lunar",
+        "why_recommended": "Estudio dedicado a la simbología lunar a lo largo de la historia; referencia para la articulación del mito-lunar como pieza del catálogo de mitos primarios del canal.",
+        "quote_evidence": "Cashford y Baring: \"El mito de la diosa\" y \"La luna, símbolo de transformación\"",
+        "timestamp_seconds": 498,
+        "cite_markdown": "[Avisos parroquiales (08:18)](https://youtu.be/F1isbFH_FeM?t=498)"
+      }
+    },
+    {
+      "surface_form": "El lenguaje de la diosa (Marija Gimbutas)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Estudio arqueológico-mítico foundational sobre simbología de la diosa en culturas neolíticas europeas. Recomendado para la dimensión femenina arcaica del marco mítico.",
+      "quote_evidence": "Marija Gimbutas: \"El lenguaje de la diosa\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "diosa-blanca",
+      "recommended_reference_payload": {
+        "book_title": "El lenguaje de la diosa",
+        "authors": [
+          "Marija Gimbutas"
+        ],
+        "publisher": null,
+        "domain": "arqueología mítica — simbología neolítica europea",
+        "why_recommended": "Estudio arqueológico-mítico sobre la simbología de la diosa en culturas neolíticas europeas; referencia para la genealogía pre-cristiana del arquetipo femenino articulado en el canal.",
+        "quote_evidence": "Marija Gimbutas: \"El lenguaje de la diosa\"",
+        "timestamp_seconds": 498,
+        "cite_markdown": "[Avisos parroquiales (08:18)](https://youtu.be/F1isbFH_FeM?t=498)"
+      }
+    },
+    {
+      "surface_form": "La diosa blanca (Robert Graves)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Libro de Robert Graves recomendado NO como mitología estricta sino como entrenamiento del pensamiento poético. El canal declara explícitamente: 'sin ese libro Proxy no habría escrito Polaris' — máxima carga genealógica personal del speaker sobre su propia producción intelectual. Referencia foundational del pensamiento poético del canal ([[pensamiento-poetico]]) y del arquetipo [[diosa-blanca]] (la página homónima cita probablemente este libro).",
+      "quote_evidence": "\"La diosa blanca\" de Robert Graves no es estrictamente mitología sino poética, entrena el pensamiento poético; sin ese libro Proxy no habría escrito Polaris",
+      "review_priority": "medium",
+      "review_priority_reason": "Carga genealógica máxima sobre la producción intelectual del canal — el speaker afirma que sin este libro no habría escrito Polaris. Graves merece evaluación para canonical_whitelist:authors si futuros vídeos lo invocan recurrentemente.",
+      "enriches_concept": "pensamiento-poetico",
+      "recommended_reference_payload": {
+        "book_title": "La diosa blanca",
+        "authors": [
+          "Robert Graves"
+        ],
+        "publisher": null,
+        "domain": "poética — entrenamiento del pensamiento poético",
+        "why_recommended": "Recomendado NO como tratado de mitología sino como entrenamiento del PENSAMIENTO POÉTICO. El canal declara explícitamente que sin este libro no habría escrito su propio Polaris — máxima carga genealógica personal del speaker sobre su producción intelectual. Foundational para [[pensamiento-poetico]] y para la articulación del arquetipo [[diosa-blanca]].",
+        "quote_evidence": "\"La diosa blanca\" de Robert Graves no es estrictamente mitología sino poética, entrena el pensamiento poético; sin ese libro Proxy no habría escrito Polaris",
+        "timestamp_seconds": 498,
+        "cite_markdown": "[Avisos parroquiales (08:18)](https://youtu.be/F1isbFH_FeM?t=498)"
+      }
+    },
+    {
+      "surface_form": "Biblia glosada con anotaciones (recomendación de partida para mitología clásica)",
+      "reason_code": "recommended_reference",
+      "reason_detail": "Pieza (11:49): no existe una colección fácil de reproducciones históricas de mitologías concretas; hay que ir mitología por mitología; la Biblia es un punto de partida enorme, especialmente una Biblia glosada con anotaciones. Recomendación bibliográfica genérica para acceder al corpus mítico-bíblico que sustenta gran parte del análisis del canal.",
+      "quote_evidence": "La Biblia es un punto de partida enorme, especialmente una Biblia glosada con anotaciones",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": {
+        "book_title": "Biblia glosada (edición con anotaciones)",
+        "authors": [],
+        "publisher": null,
+        "domain": "fuente mitológica primaria",
+        "why_recommended": "Punto de partida foundational para acceder al corpus mítico-bíblico que sustenta gran parte del análisis arquetípico del canal (génesis, apocalipsis, lucifer-satanás-serpiente, virgen-maría). El canal recomienda especialmente edición glosada con anotaciones para captar las capas exegéticas.",
+        "quote_evidence": "La Biblia es un punto de partida enorme, especialmente una Biblia glosada con anotaciones",
+        "timestamp_seconds": 709,
+        "cite_markdown": "[Avisos parroquiales (11:49)](https://youtu.be/F1isbFH_FeM?t=709)"
+      }
+    },
+    {
+      "surface_form": "entrevista con Paloma Pájaro (meta-canal)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Contexto operativo del canal (10:18): no hay fecha confirmada para una posible entrevista con Paloma Pájaro; el canal es pequeño y Paloma debe estar muy ocupada. Pieza meta-canal sobre planificación de invitados — out of scope per scope.md §3.3.",
+      "quote_evidence": "No hay fecha confirmada, Paloma Pájaro dijo que sí pero no se ha concretado",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "proyecto empresa de buceo (meta-personal)",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Anécdota personal del speaker (13:20): proyecto de montar empresa de buceo sigue en pie con dos personas comprometidas; el canal no se va a dejar ahora que está Galatea y se terminan los libros; falta poquísimo del nuevo Polaris. Contenido out-of-scope per scope.md §3.3 'anécdotas personales del presentador'.",
+      "quote_evidence": "El proyecto de montar una empresa de buceo sigue en pie, ya tiene dos personas comprometidas para trabajar en ello",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Polaris (libro del canal — nueva edición en curso)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención meta-canal (11:49, 13:20): en Polaris están los principales títulos de las mitologías al final del libro, aunque faltan algunos por añadir en la nueva edición; falta poquísimo del nuevo Polaris. Polaris es libro propio del speaker. La obra ya está implícita en [[del-origen-del-mal-libro]] (libro del canal) y en las páginas que el canal articula a partir de su propio corpus. No requiere registro autónomo aquí.",
+      "quote_evidence": "En Polaris están los principales títulos de las mitologías al final del libro",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 0,
+    "thesis_candidates_count": 0,
+    "discarded_count": 17,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T18:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

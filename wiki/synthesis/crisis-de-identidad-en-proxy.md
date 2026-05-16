@@ -362,7 +362,7 @@ La pieza cierra el aparato con la modalidad de salida operativa: la INTEGRIDAD c
 
 
 
-
+- **Psicología 101: Identidad y depresión.** — chunks: [1:55:40](https://youtu.be/mG-05eFJsCQ?t=6940) · [2:09:24](https://youtu.be/mG-05eFJsCQ?t=7764) · [2:20:01](https://youtu.be/mG-05eFJsCQ?t=8401) · [2:34:11](https://youtu.be/mG-05eFJsCQ?t=9251)
 - **Wokismo para Wokes.** — chunks: [1:02:29](https://youtu.be/Q83ieEVaF5I?t=3749)
 
 
@@ -371,5 +371,4 @@ La pieza cierra el aparato con la modalidad de salida operativa: la INTEGRIDAD c
 - **Análisis arquetípico de atrapado en el tiempo.** — chunks: [30:04](https://youtu.be/DwmV3c9-Xi0?t=1804) · [46:46](https://youtu.be/DwmV3c9-Xi0?t=2806) · [1:17:09](https://youtu.be/DwmV3c9-Xi0?t=4629)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [16:16](https://youtu.be/TmQiM16HIpU?t=976) · [21:49](https://youtu.be/TmQiM16HIpU?t=1309) · [1:07:46](https://youtu.be/TmQiM16HIpU?t=4066)
 - **Magia, superstición y Religión** — chunks: [1:03:53](https://youtu.be/IbOb3peBSMs?t=3833)
-- **Psicología 101: Identidad y depresión.** — chunks: [1:55:40](https://youtu.be/mG-05eFJsCQ?t=6940) · [2:09:24](https://youtu.be/mG-05eFJsCQ?t=7764) · [2:20:01](https://youtu.be/mG-05eFJsCQ?t=8401) · [2:34:11](https://youtu.be/mG-05eFJsCQ?t=9251)
 

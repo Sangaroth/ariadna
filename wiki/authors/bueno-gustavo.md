@@ -553,6 +553,9 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 
 
 
+
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -565,6 +568,7 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [58:09](https://youtu.be/sTnxDjo1v3o?t=3489) · [1:29:25](https://youtu.be/sTnxDjo1v3o?t=5365)
 - **Vicky Proxy Barcelona** — chunks: [44:54](https://youtu.be/HPeKIuwm_Og?t=2694)
 - **Análisis arquetípico Frozen** — chunks: [1:59:22](https://youtu.be/NYZEm8mcPiQ?t=7162) · [2:04:25](https://youtu.be/NYZEm8mcPiQ?t=7465)
+- **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 - **Noticias 100tíficas.** — chunks: [1:54:00](https://youtu.be/VgdybZKruwk?t=6840)
 - **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:26:14](https://youtu.be/Qui4WMSQ99k?t=5174)
 - **¿Porqué hay categorías masculina y femenina en ajedrez?** — chunks: [1:24:44](https://youtu.be/AJgvAsbd-UQ?t=5084)
@@ -589,6 +593,10 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [55:13](https://youtu.be/JKoWJmSR6VY?t=3313)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:06:05](https://youtu.be/DNxx4qwb944?t=3965) · [1:09:37](https://youtu.be/DNxx4qwb944?t=4177)
 - **La teoría de la teoría de la mente** — chunks: [50:07](https://youtu.be/zASckAZqmfM?t=3007) · [1:23:05](https://youtu.be/zASckAZqmfM?t=4985)
-- **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 - **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [19:51](https://youtu.be/GdQY1iOa68w?t=1191) · [20:51](https://youtu.be/GdQY1iOa68w?t=1251) · [1:42:01](https://youtu.be/GdQY1iOa68w?t=6121)
+- **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [1:53:52](https://youtu.be/-2u3CAw1xCs?t=6832)
+- **Psicología 101: Conductismo, sofisma y filosofía.** — chunks: [25:02](https://youtu.be/TVK5kpPC3Qs?t=1502) · [1:40:29](https://youtu.be/TVK5kpPC3Qs?t=6029)
+- **Psicología Incel (Luna roja sobre el varón III)** — chunks: [32:37](https://youtu.be/zLRhDHyq3gs?t=1957)
+- **T5x12: Estudiando con Proxy: Cómo se fabricó una tesis.** — chunks: [49:53](https://youtu.be/BU6vZJYMVxg?t=2993)
+- **TOC** — chunks: [1:17:20](https://youtu.be/2zAwfcLnlvU?t=4640)
 

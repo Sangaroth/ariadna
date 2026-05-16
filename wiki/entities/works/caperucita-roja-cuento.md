@@ -127,8 +127,6 @@ Esta moraleja resuena con lo que el canal articula para el [[shadow-archetype]]:
 
 
 
-
 - **Las piezas que faltan** — chunks: [9:55](https://youtu.be/DAW1HiYxnVk?t=595) · [14:30](https://youtu.be/DAW1HiYxnVk?t=870)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [41:04](https://youtu.be/fzEDQZIqKwg?t=2464) · [58:19](https://youtu.be/fzEDQZIqKwg?t=3499)
-- **Análisis arquetípico La Bruja** — chunks: [1:17:07](https://youtu.be/rRlks0e0oxU?t=4627)
 

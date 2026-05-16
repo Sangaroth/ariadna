@@ -183,7 +183,9 @@ La triple interpretación permanece deliberadamente irresuelto porque la pelícu
 
 
 
+
 - **T5x02: No Love Land** — chunks: [1:24:52](https://youtu.be/EjAVFdSVtbU?t=5092)
 - **Arquetipo Cero** — chunks: [1:20:51](https://youtu.be/nern-nhePjE?t=4851)
 - **No entendiste HEREDITARY** — chunks: [1:54:53](https://youtu.be/r_4BY6W4lcU?t=6893)
+- **Psicología 101. Autismo. Algunas consideraciones.** — chunks: [2:05:42](https://youtu.be/0mxxhGA5Oh0?t=7542)
 

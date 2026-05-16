@@ -135,12 +135,16 @@ La distorsión de autoimagen propia de anorexia y bulimia se inscribe en el ego 
 - En clave constructiva, los TCAs operan como bloqueo del proceso de [[individuation]]: la espiral neurótica impide que el self consciente articule un mapa de identidad estable y que el yo integre lo que rechaza de sí.
 - La obsesión por la autoimagen como afecto sobre el propio cuerpo dialoga con [[autoforia]] como articulación canal-específica del afecto autorreferencial.
 
+- La tríada **impulsividad / obsesividad** como ejes nucleares queda articulada en [[psicastenia-en-proxy]]: la impulsividad es "el sentimiento de necesito hacer" (actuar sin pensar, ganas indomables), la obsesividad es "el sentimiento de necesito pensar" (rumiación constante, miedo a no tener algo en cuenta). La fobia pertenece al eje obsesivo; la compulsión y la ansiedad al eje impulsivo. Aplicada a los TCAs, esta distribución permite reordenar el cuadro: el atracón gravita hacia el polo impulsivo (necesidad indomable de comer seguida de culpa), mientras que anorexia y bulimia combinan obsesión por autoimagen con conductas compulsivas (restricción, vómito, ejercicio ritualizado). El cuadro evitativo/restrictivo, sin distorsión de autoimagen, opera fuera del eje obsesivo de la autoimagen pero conserva rasgos impulsivos de evitación.
+
+
 ## Lagunas
 
 - **Etiología profunda**: el canal apunta a un origen ansioso y a la herida narcisista, pero no detalla en este vídeo cómo se forma la diátesis específica que predispone a un subtipo (anorexia vs atracón) frente a otros cuadros neuróticos.
 - **Simbiosis familiares**: el speaker menciona dinámicas familiares (hermanas, madres-hijas) como sustrato de los TCAs; el material recuperado no profundiza en la mecánica de esa simbiosis ni la articula con el [[sindrome-wendy]] u otras dinámicas familiares ya tematizadas.
 - **Vigorexia y estatus liminal**: el canal sitúa la vigorexia como TCA con estatus particular (más frecuente en varones, en frontera con los trastornos del control de impulsos); falta articulación de por qué su estatus es liminal y cómo se diferencia operativamente de la anorexia inversa.
 - **Tratamiento**: el corpus expone la estructura del cuadro y el ciclo, no el abordaje terapéutico que el canal consideraría coherente con su marco.
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Distinción impulsividad / compulsividad / obsesividad**: el vídeo introduce es -->
 - **Distinción impulsividad / compulsividad / obsesividad**: el vídeo introduce esta tríada como nuclear para distinguir TCAs entre sí, pero el material recuperado no la desarrolla con suficiente granularidad para una sección propia.
 
 ## Citations
@@ -154,4 +158,3 @@ La distorsión de autoimagen propia de anorexia y bulimia se inscribe en el ego 
 - **Twitchversario de Proxy** — chunks: [1:57:58](https://youtu.be/UBwUUOKf5UU?t=7078)
 - **Análisis arquetípico Inside Out** — chunks: [33:18](https://youtu.be/V-ixEcJuLzw?t=1998)
 - **Las piezas que faltan** — chunks: [9:55](https://youtu.be/DAW1HiYxnVk?t=595)
-

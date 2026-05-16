@@ -576,6 +576,72 @@ La propuesta es complementaria al [[galatea-modelo-protomente|Proyecto Galatea]]
 
 La irreversibilidad es la pieza ética que distingue el riesgo IA de otros riesgos tecnológicos previos: el bucle de retroalimentación con el contenedor cultural humano que las secciones anteriores documentan (deuda cognitiva, colapso bidireccional del modelo) hace que un fallo grave de alineación no pueda corregirse posteriormente porque el sustrato humano que tendría que corregirlo se ha degradado en paralelo. La analogía con la prohibición de la IA en ficciones como Warhammer 40.000 que el canal menciona ilustra el escenario terminal.
 
+
+
+## Caso Anthropic 2025: el 'microscopio' de interpretabilidad y la antropomorfización del circuit tracing
+
+En el directo *Teoría de la información integrada y los LLMs* (abr 2025) el canal desmonta el paper de interpretabilidad de Anthropic sobre Claude 3.5 Haiku — la herramienta que los investigadores llaman 'microscopio' para rastrear procesos internos del modelo — junto con un vídeo de Oliver Navani que lo comenta. El análisis es metodológicamente distinto del 'Caso Anthropic 2026' (paradoja de la seguridad responsable, Operación Valquiria): aquí la diana no es el comportamiento institucional de Anthropic sino el **lenguaje antropomorfizante** con el que su investigación de interpretabilidad describe operaciones que son computación básica.
+
+### Qué descubrió realmente el paper de Anthropic
+
+> "Investigadores de Anthropic introdujeron una herramienta que llaman 'microscopio' para rastrear procesos internos del modelo Claude 3.5 Haiku"
+→ [Teoría de la información integrada y los LLMs (55:08)](https://youtu.be/e5hvKJpRZMk?t=3308)
+
+> "Han identificado 12 ejemplos de procedimientos específicos: razonamiento multifase, creación de poemas, circuitos multilingüísticos, suma, álgebra, diagnósticos médicos"
+→ [Teoría de la información integrada y los LLMs (55:08)](https://youtu.be/e5hvKJpRZMk?t=3308)
+
+> "Lo que realmente han hecho es leer qué árboles de decisión utiliza la IA para distintos ámbitos temáticos"
+→ [Teoría de la información integrada y los LLMs (55:08)](https://youtu.be/e5hvKJpRZMk?t=3308)
+
+La lectura del canal corrige el alcance del hallazgo. Lo que el paper documenta no es 'pensamiento' del modelo sino la **especialización funcional** de partes del grafo de probabilidades para distintos tipos de input — un fenómeno computacionalmente esperable (cualquier sistema con presupuesto computacional finito desarrolla rutas optimizadas para inputs frecuentes) que el lenguaje del paper presenta como descubrimiento sorprendente.
+
+### Ámbitos semánticos como lóbulos de procedimiento (vocabulario canal-específico)
+
+> "La IA ha desarrollado rutas específicas para campos que podrían llamarse semánticos pero son campos de frecuencia de tokens"
+→ [Teoría de la información integrada y los LLMs (57:39)](https://youtu.be/e5hvKJpRZMk?t=3459)
+
+> "Cuando detecta palabras asociadas a un dominio desvía el procesamiento hacia armónicos optimizados para ese campo"
+→ [Teoría de la información integrada y los LLMs (57:39)](https://youtu.be/e5hvKJpRZMk?t=3459)
+
+> "La máquina desarrolla partes de su grafo más preparadas para contestar a ciertos temas: son como 'lóbulos de procedimiento'"
+→ [Teoría de la información integrada y los LLMs (1:00:10)](https://youtu.be/e5hvKJpRZMk?t=3610)
+
+La nomenclatura canal-específica precisa la mecánica. Los 'ámbitos semánticos' del paper NO son semánticos en sentido cognitivo (no hay significado interno comprendido por el modelo) sino **campos de frecuencia de tokens** que activan **lóbulos de procedimiento** especializados del grafo. La consistencia que el modelo exhibe en cada dominio es propiedad emergente del entrenamiento, no comprensión:
+
+> "La consistencia es la característica por la que la IA devuelve outputs con coherencia... sin patrones preestablecidos elaborados durante el entrenamiento la IA no podría responder con consistencia"
+→ [Teoría de la información integrada y los LLMs (58:39)](https://youtu.be/e5hvKJpRZMk?t=3519)
+
+La pieza precisa la articulación foundational de la página: el modelo NO computa significados, computa probabilidades sobre tokens con rutas especializadas por dominio de frecuencia. Lo que parece comprensión es coherencia estadística regulada por entrenamiento.
+
+### Refutación punto por punto de las afirmaciones antropomorfizantes
+
+> "Decir que la IA 'literalmente piensa varios pasos por adelantado' es falso: tiene patrones preestablecidos, no planificación"
+→ [Teoría de la información integrada y los LLMs (1:04:14)](https://youtu.be/e5hvKJpRZMk?t=3854)
+
+> "El ejemplo de la poesía: la máquina busca primero terminaciones de palabras para rimar y luego compone hacia atrás, que es un procedimiento computacional básico"
+→ [Teoría de la información integrada y los LLMs (1:04:14)](https://youtu.be/e5hvKJpRZMk?t=3854)
+
+> "La máquina no piensa, no siente, no anticipa, no entiende: el lenguaje del artículo y del vídeo proyecta capacidades humanas sobre procesos mecánicos"
+→ [Teoría de la información integrada y los LLMs (1:04:14)](https://youtu.be/e5hvKJpRZMk?t=3854)
+
+La refutación articula tres correspondencias entre la afirmación antropomorfizante y la operación real: 'no solo predicen palabras sueltas' = en un LLM ninguna palabra está suelta, todas tienen árbol de probabilidades asignado dentro del grafo; 'piensan varios pasos por adelantado' = no piensan, tienen patrones preestablecidos sin los cuales no podrían responder con consistencia; 'razonan en varios idiomas' = no razonan, procesan tokens multilingüísticos con circuitos compartidos. El ejemplo de la 'planificación' poética (buscar terminaciones para rimar y componer hacia atrás) es algoritmo básico de generación con restricción — patrón documentado desde los primeros sistemas de generación procedural, no operación de planificación cognitiva.
+
+### Crítica al léxico orgánico-cerebral del paper
+
+> "El artículo usa continuamente símiles orgánicos: 'microscopio', 'cerebro', 'pensamiento', 'aprendizaje'"
+→ [Teoría de la información integrada y los LLMs (1:06:47)](https://youtu.be/e5hvKJpRZMk?t=4007)
+
+> "Han llamado microscopio a la herramienta de inspección y usan vocabulario biológico como si estudiaran un organismo"
+→ [Teoría de la información integrada y los LLMs (1:06:47)](https://youtu.be/e5hvKJpRZMk?t=4007)
+
+> "Los procesos descritos son bucles propios de programas de alto nivel como Pascal: patrones de computación muy básicos"
+→ [Teoría de la información integrada y los LLMs (1:09:53)](https://youtu.be/e5hvKJpRZMk?t=4193)
+
+La pieza precisa el diagnóstico metodológico: el léxico orgánico del paper ('microscopio' para una herramienta de inspección de código, 'cerebro' para el grafo, 'pensamiento' para la inferencia, 'aprendizaje' para el ajuste de pesos) NO es metáfora inocua sino vehículo de hype injustificado. Los procesos que el paper documenta — circuits multilingüísticos compartidos, generación poética con restricción de rima, descomposición de sumas en operaciones intermedias — son **bucles computacionales básicos** familiares en la programación de alto nivel desde los años 70. Que la red emerja con ellos no demuestra cognición sino que **cualquier sistema computacional suficientemente expresivo desarrollará esos patrones** porque son inherentes a la computación misma. El error categorial del lenguaje orgánico es presentar la confirmación de lo computacionalmente esperable como descubrimiento biológico-cognitivo.
+
+La lectura es coherente con la tesis nuclear de la página: la mente humana no es una máquina y la metáfora informática traiciona el objeto cuando se aplica a la cognición humana — la lectura inversa (presentar la máquina como organismo cognoscente) opera el mismo error categorial en dirección contraria. El léxico antropomorfizante de Anthropic no es defecto retórico: es el síntoma cultural del hype que la página articula como problema estructural del campo de la IA.
+
+
 ## El mito del Gólem como categoría general: Matrix y DeepSeek
 
 En el directo *Lo de los Lunes* (28-ene-2025) el canal articula explícitamente lo que el título de esta página implicaba: el mito del Gólem opera como **categoría arquetípica general** que cubre toda narrativa donde una IA acaba en desastre. La creación libre del creador escapa al control y se vuelve contra él — patrón que el canal reconoce como mítico antes que técnico.
@@ -1156,7 +1222,6 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
-
 - video_id: `e3Aj775Rlw4` — El Gólem de Cobre
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [43:10](https://youtu.be/NrLnzcceSLY?t=2590)
 
@@ -1165,5 +1230,4 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 - **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)
 - **Inteligencia Real e Inteligencia Artificial** — chunks: [1:33:26](https://youtu.be/9jU8stBu6p0?t=5606)
-- **Viernes terminal: Los sueños y Ariadna** — chunks: [1:10:23](https://youtu.be/H162q8kbtWI?t=4223)
 

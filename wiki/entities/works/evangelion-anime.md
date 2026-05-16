@@ -196,7 +196,6 @@ El análisis conecta con los marcos ya desarrollados en [[anima-archetype]], [[h
 
 
 
-
 - **He visto a Paloma** — chunks: [35:49](https://youtu.be/u-VoqpR7sNI?t=2149)
 - **La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ** — chunks: [2:08:37](https://youtu.be/2CsRnGBT9gg?t=7717)
 - **Sic transit gloria mundi** — chunks: [1:01:34](https://youtu.be/vDv77eZnMo4?t=3694)
@@ -204,5 +203,4 @@ El análisis conecta con los marcos ya desarrollados en [[anima-archetype]], [[h
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [9:11](https://youtu.be/QSggWfjOkHk?t=551) · [15:22](https://youtu.be/QSggWfjOkHk?t=922) · [19:30](https://youtu.be/QSggWfjOkHk?t=1170) · [32:12](https://youtu.be/QSggWfjOkHk?t=1932) · [34:43](https://youtu.be/QSggWfjOkHk?t=2083) · [56:25](https://youtu.be/QSggWfjOkHk?t=3385)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [11:49](https://youtu.be/dHDv_oZODYQ?t=709)
 - **Los Apocalipsis. (Parte I)** — chunks: [1:14:54](https://youtu.be/lLRGemLUCtY?t=4494)
-- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [59:46](https://youtu.be/Sszbs7CG0cQ?t=3586)
 

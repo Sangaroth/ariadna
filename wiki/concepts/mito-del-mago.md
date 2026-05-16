@@ -157,7 +157,6 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 
 
 
-
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:34:59](https://youtu.be/t8v5w3s0USA?t=5699)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
@@ -178,5 +177,4 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 - **¿Qué es la magia?** — chunks: [56:16](https://youtu.be/AMXVKxN0Ccw?t=3376) · [58:16](https://youtu.be/AMXVKxN0Ccw?t=3496) · [59:48](https://youtu.be/AMXVKxN0Ccw?t=3588) · [1:10:41](https://youtu.be/AMXVKxN0Ccw?t=4241) · [1:28:30](https://youtu.be/AMXVKxN0Ccw?t=5310) · [1:47:27](https://youtu.be/AMXVKxN0Ccw?t=6447)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642)
 - **De Platón A The Matrix** — chunks: [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879)
-- **BUT WHY?** — chunks: [10:17](https://youtu.be/4tAWgX7-yXk?t=617)
 

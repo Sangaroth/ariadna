@@ -10,7 +10,6 @@ aliases:
 - cosmogonia
 - mito cosmogonico
 - relato genesico
-- sobreintelectualización
 domain_primary: humanities.religion
 primary_domains:
 - humanities.religion
@@ -316,7 +315,6 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 
 
 
-
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
@@ -341,5 +339,4 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 - **Orfeo y Eurídice** — chunks: [4:32](https://youtu.be/1D0u-tK4v8c?t=272)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [16:07](https://youtu.be/O4OkDuc3uPQ?t=967) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642) · [53:52](https://youtu.be/O4OkDuc3uPQ?t=3232) · [1:08:25](https://youtu.be/O4OkDuc3uPQ?t=4105)
 - **Cuento contigo (resub)** — chunks: [26:01](https://youtu.be/6oOGKh2TRHE?t=1561) · [33:07](https://youtu.be/6oOGKh2TRHE?t=1987)
-- **Pecado original y Postmodernidad I** — chunks: [18:19](https://youtu.be/J45h7xet8gg?t=1099)
 

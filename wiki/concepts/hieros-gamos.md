@@ -456,6 +456,7 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [2:22:03](https://youtu.be/lOpCXo1pi2M?t=8523) · [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)
 - **Presentación del Libro: Polaris** — chunks: [32:05](https://youtu.be/rLeMS4-XFrA?t=1925) · [1:23:09](https://youtu.be/rLeMS4-XFrA?t=4989)
+- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0) · [1:45:36](https://youtu.be/OT2DW4zoKsE?t=6336)
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
@@ -468,5 +469,5 @@ La modalidad documentada articula una condición negativa del esquema égersis q
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [4:57](https://youtu.be/iPqOn-ynSlE?t=297) · [1:29:17](https://youtu.be/iPqOn-ynSlE?t=5357)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [11:49](https://youtu.be/dHDv_oZODYQ?t=709)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [51:19](https://youtu.be/O4OkDuc3uPQ?t=3079)
-- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0) · [1:45:36](https://youtu.be/OT2DW4zoKsE?t=6336)
+- **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57)
 

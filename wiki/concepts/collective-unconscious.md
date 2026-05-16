@@ -284,7 +284,23 @@ La batería positiva que el speaker invoca como prueba operativa del inconscient
 > "Las memorias episódicas latentes (traumas reprimidos que resurgen) demuestran la existencia del inconsciente"
 → [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
 
-> "La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente"
+> "La indefensión aprendida, la confabulación traumática y la tripofobia son inexplicables sin inconsciente
+
+
+
+Un refinamiento posterior del clip *Cómo desparasitar humanos* (abr 2024) precisa que la **tripofobia** no opera sola sino como mitad de un par innato — su contraparte fílica es el **instinto de desparasitar** (granofilia), atracción visceral igualmente innata y universal por explotar granos, limpiar superficies, vaciar agujeros con contenido. La estructura simétrica del par confirma su carácter evolutivo:
+
+> "La tripofobia es un terror real y visceral a un patrón concreto de agujeros dispuestos de forma regular con cosas dentro (poros con sebo, panales con abejas)"
+→ [Cómo desparasitar humanos (00:34)](https://youtu.be/h3OjS4upnGY?t=34)
+
+> "El placer de explotar granos o quitar cositas de agujeros es una reacción visceral opuesta a la tripofobia: el instinto de desparasitar"
+→ [Cómo desparasitar humanos (02:35)](https://youtu.be/h3OjS4upnGY?t=155)
+
+> "Si tanto la tripofobia como la granofilia son idénticas en todos los humanos, entonces ambas son evolutivas y distinguibles por la psique sin aprendizaje previo"
+→ [Cómo desparasitar humanos (03:36)](https://youtu.be/h3OjS4upnGY?t=216)
+
+La pieza añade rigor al argumento empírico de esta página: la prueba del par tripofobia/granofilia es más fuerte que la sola tripofobia porque demuestra que el aparato innato reconoce el **mismo patrón estímulo** (agujeros con contenido en piel/superficie) con dos valencias afectivas opuestas — terror cuando se asume parasitario en el cuerpo propio, placer cuando opera la mecánica de remoción. La universalidad simétrica del par es lo que excluye explicaciones por aprendizaje cultural: no hay enseñanza que produzca a la vez la fobia y su filia opuesta sobre el mismo estímulo. La granofilia opera además como **mecánica de apego social** (desparasitar como grooming intersubjetivo da cohesión grupal con doble beneficio), lo que enlaza la pieza con [[vinculo]] como representación recíproca y con la sexuación social del cuidado documentada en [[cerebros-rosas-azules-en-proxy]] (mayor prevalencia femenina del comportamiento no por biología directa sino por alineación con roles de cuidado y proximidad).
+"
 → [Psicoinfluencers (1:50:21)](https://youtu.be/frbMVcThuRw?t=6621)
 
 El caso paradigmático que el canal articula es un cuadro real de estrés postraumático donde la víctima olvida la agresión y la reconstruye progresivamente:
@@ -299,6 +315,34 @@ El caso paradigmático que el canal articula es un cuadro real de estrés postra
 → [Psicoinfluencers (1:54:59)](https://youtu.be/frbMVcThuRw?t=6899)
 
 La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en pollos, [[clases-ancestrales]]) un segundo registro de evidencia: si la primera prueba opera por convergencia evolutivo-comparada (estructuras innatas heredadas), esta opera por necesidad explicativa clínica (cuadros que el aparato consciente-percepción no cubre). El conjunto cierra el flanco anti-negacionista: el inconsciente no es metáfora ni anterior espiritualista, es categoría operativa exigida tanto por la psicología comparada como por la clínica del trauma. La crítica sistemática a la divulgación pop-psicológica que niega esta categoría se desarrolla en [[psicoinfluencers-en-proxy]] cuando se promueva.
+
+
+
+## El fucsia como prueba paradigmática de representación sin correlato perceptivo
+
+El monográfico *Psicología 101: ¿Qué es el Inconsciente?* (mar 2025), articulación foundational del [[inconsciente-en-proxy|inconsciente en general]] del que el inconsciente colectivo es sub-dominio, añade al cuadro empírico de esta página una prueba especialmente nítida de la existencia de representaciones cognitivas universales sin correlato perceptivo directo:
+
+> "El color magenta/fucsia no corresponde a ninguna longitud de onda real: es cómo la mente representa la ausencia de verde"
+→ [Psicología 101: ¿Qué es el Inconsciente? (1:14:26)](https://youtu.be/9wJQ9tm9Yuc?t=4466)
+
+> "En el espectro RGB al eliminar completamente el verde aparece una suma imaginaria de azul y rojo que percibimos como morado"
+→ [Psicología 101: ¿Qué es el Inconsciente? (1:14:26)](https://youtu.be/9wJQ9tm9Yuc?t=4466)
+
+> "La diferencia entre percepción y representación queda demostrada: percibimos azul, rojo y verde, pero representamos el morado"
+→ [Psicología 101: ¿Qué es el Inconsciente? (1:14:26)](https://youtu.be/9wJQ9tm9Yuc?t=4466)
+
+El argumento del fucsia opera en el mismo registro categorial que el Buba-Kiki en pollos y las memorias episódicas latentes: prueba operativa de que la mente produce representaciones cuya existencia no es deducible del input perceptivo. El magenta es la pieza más limpia del aparato porque opera al nivel más básico (percepción cromática) y es universalmente compartida: todos los seres humanos representan magenta sin que ninguna longitud de onda lo proporcione. Si en el nivel cromático elemental hay representación irreducible al percepto, las estructuras cognitivas innatas que el inconsciente colectivo invoca (madre, caos, misterium fascinans, romance) operan por el mismo principio en niveles más complejos.
+
+El monográfico foundational articula además que el **inconsciente colectivo revela experiencias fundamentales** cuya cifra es independiente de exposición cultural particular:
+
+> "Cuando hay un colectivo hay un inconsciente común que revela estructuras fundamentales como el misterium fascinans, el caos, el romance y el concepto de madre"
+→ [Psicología 101: ¿Qué es el Inconsciente? (1:20:23)](https://youtu.be/9wJQ9tm9Yuc?t=4823)
+
+> "La representación de madre existe incluso en negativo: quien nunca conoció una madre nota la ausencia de algo"
+→ [Psicología 101: ¿Qué es el Inconsciente? (1:20:23)](https://youtu.be/9wJQ9tm9Yuc?t=4823)
+
+La pieza extiende el catálogo de mitos primarios articulado en otras secciones (solar/lunar/polar/mago/apocalipsis/génesis del libro) con un registro complementario: las **clases cognitivas universales** que operan por debajo de los mitos como estructuras representacionales independientes de cultura. La madre vinculada a las clases pánico y apego conecta con [[clases-ancestrales]] como inventario general; el misterium fascinans con la lectura del horror cósmico en [[lovecraft-howard]]; el caos con [[genesis-mitologico]]. La articulación general — el inconsciente como categoría operativa que excede el junguiano — vive en [[inconsciente-en-proxy]].
+
 
 
 ## Conexión con otros conceptos
@@ -331,6 +375,7 @@ La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en po
 
 
 
+
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Stream Navidad 2025** — chunks: [18:16](https://youtu.be/hVfKOHEM_wU?t=1096)
 - **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:02:47](https://youtu.be/Qui4WMSQ99k?t=3767)
@@ -338,4 +383,5 @@ La pieza añade al cuadro empírico que la página ya documenta (Buba-Kiki en po
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:36:06](https://youtu.be/t8v5w3s0USA?t=5766)
 - **Gothika: De Profundis** — chunks: [26:28](https://youtu.be/Gx2740if0Ho?t=1588)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [15:22](https://youtu.be/QSggWfjOkHk?t=922) · [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [19:30](https://youtu.be/QSggWfjOkHk?t=1170)
+- **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [1:10:24](https://youtu.be/9wJQ9tm9Yuc?t=4224) · [1:20:23](https://youtu.be/9wJQ9tm9Yuc?t=4823)
 

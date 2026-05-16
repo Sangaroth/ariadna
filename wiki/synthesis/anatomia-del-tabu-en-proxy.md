@@ -197,6 +197,4 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
-
-- **T5x07: Soto Ivars y el Tabú** — chunks: [30:03](https://youtu.be/wixOLxnd68o?t=1803)
-
+- video_id: `wixOLxnd68o` — T5x07: Soto Ivars y el Tabú

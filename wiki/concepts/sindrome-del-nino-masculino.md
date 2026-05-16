@@ -220,6 +220,24 @@ La articulación añade una dimensión cultural a la matriz parental documentada
 
 
 
+### Refinamiento operativo: hikikomori e incel como fenómenos distintos, no grados del mismo cuadro
+
+La Parte III de la serie *Luna roja sobre el varón* (*Psicología Incel*, feb 2024) — articulada en [[psicologia-incel-en-proxy]] — precisa una distinción operativa que la triada presentada arriba podía sugerir colapsada en gradación: hikikomori e incel comparten raíz (apego evitativo + carencia de los tres componentes paternos) pero NO son grados del mismo cuadro, son **fenómenos diferentes**.
+
+> "El hikikomori entra en una forma específica de depresión mediante una decepción que hace que la parte de su cerebro que se relaciona con el mundo deje de hacerlo"
+→ [Psicología Incel (1:06:53)](https://youtu.be/zLRhDHyq3gs?t=4013)
+
+> "Es mucho más patológico que el complejo incel: el incel no está deprimido, está enfadado"
+→ [Psicología Incel (1:06:53)](https://youtu.be/zLRhDHyq3gs?t=4013)
+
+> "Son fenómenos diferentes aunque puedan tener conexiones superficiales"
+→ [Psicología Incel (1:06:53)](https://youtu.be/zLRhDHyq3gs?t=4013)
+
+La distinción es categorial: el hikikomori opera por **depresión** (caída de la motivación para relacionarse con el mundo, articulado en la sección 'tres respuestas a la carencia' de [[psicologia-incel-en-proxy]] como respuesta adulta-química por caída serotoninérgica); el incel opera por **herida narcisista infantil enfadada** (la parte del yo que todavía es niño exigiendo lo que cree merecer, articulado como mecánica infantil demostrativa). La gravedad clínica del hikikomori es mayor — no porque el cuadro sea peor, sino porque opera al nivel del aparato motivacional roto, mientras el incel conserva motivación pero la dirige hacia la queja en lugar de hacia la acción. La articulación detallada del incel como cuadro específico con su mecanismo propio (herida narcisista feminizada, mecánica infantil demostrativa, triada psicoanalítica niño-adulto-padre, camino del héroe como única salida) vive en [[psicologia-incel-en-proxy]].
+
+
+
+
 
 ## Lagunas
 
@@ -229,6 +247,8 @@ La articulación añade una dimensión cultural a la matriz parental documentada
 - **Relación con el 'hombre tirano' y 'la bestia'** que aparecen en el mismo tramo del consultorio: se mencionan como categorías masculinas adyacentes pero su articulación con el síndrome del niño queda implícita.
 
 ## Citations
+
+
 
 
 
@@ -303,4 +323,6 @@ La articulación añade una dimensión cultural a la matriz parental documentada
 - **Cerebros rosas y azules** — chunks: [1:37:34](https://youtu.be/x7A9nfoRfu0?t=5854)
 - **"Hikikomori" Luna roja sobre el varón. Parte I** — chunks: [43:38](https://youtu.be/mWzi6Mjbjvk?t=2618)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [15:08](https://youtu.be/5uFhZcARjYQ?t=908)
+- **Psicología Incel (Luna roja sobre el varón III)** — chunks: [34:37](https://youtu.be/zLRhDHyq3gs?t=2077) · [38:39](https://youtu.be/zLRhDHyq3gs?t=2319)
+- **Directo Navidad y Entrevista a Unicornio** — chunks: [43:28](https://youtu.be/PTgRsC-KwSs?t=2608) · [47:02](https://youtu.be/PTgRsC-KwSs?t=2822)
 

@@ -218,6 +218,49 @@ La etimología es definitoria, no decorativa. *Interpretari* = *inter-pretium*: 
 La pieza de cierre recapitula el motor del [[sofisma-estetico|sofisma estético]] desde el lado del receptor: la operación no funciona porque sea formalmente válida sino porque el aparato cognitivo del receptor RESUENA con la firma afectiva del enunciado. La matriz noética del receptor reconoce el enunciado como suyo no por inferencia formal sino por convergencia afectiva — y la convergencia afectiva opera con la lógica del [[pensamiento-poetico|pensamiento poético]] (fusión por semejanza imaginario-afectiva, no por identidad estructural). La resonancia es la condición de posibilidad cultural del sofisma: explica por qué la pieza poética ideológica se transmite y se acepta como si fuera filosofía pese a no serlo.
 
 
+
+### Anatomía operativa de la mente filosófica: conciencia unitaria, etimología filos/sofos y 12 bits/segundo
+
+Una versión más extensa del mismo monográfico Parte I (id 6cSsI85qCp8, 112 min) añade tres piezas foundational del aparato que la sección anterior presupone sin articular: la ontología de la conciencia como fenómeno unitario, la etimología histórica que separa filosofía de su versión deportiva-idealista, y el límite operativo cuantitativo de la conciencia explícita.
+
+#### Conciencia como fenómeno unitario: analogía con la luz
+
+> "La conciencia es unitaria como la luz es unitaria: es un fenómeno, no una sustancia divisible en unidades"
+→ [¿Qué es un símbolo? Parte I (1:11:26)](https://youtu.be/6cSsI85qCp8?t=4286)
+
+> "Para dividir algo en unidades necesitaría ser una sustancia, y eso requiere dualismo; el realismo cognitivo no es dualista"
+→ [¿Qué es un símbolo? Parte I (1:11:26)](https://youtu.be/6cSsI85qCp8?t=4286)
+
+> "La metarrepresentación es unívoca por definición: consiste en hacer una noesis unívoca, dominarla y aislarla para trabajar con ella"
+→ [¿Qué es un símbolo? Parte I (1:11:26)](https://youtu.be/6cSsI85qCp8?t=4286)
+
+La pieza cierra un flanco ontológico que el aparato del [[realismo-cognitivo]] dejaba implícito. La conciencia no es objeto contable porque no es sustancia — opera como fenómeno unitario al modo de la luz (un único campo continuo, no una colección de partículas individuables). La consecuencia operativa es metodológica: cualquier cuantificación de 'unidades de conciencia' (cantidad de pensamientos, número de qualias) traiciona la ontología y reintroduce dualismo subrepticio. La metarrepresentación es siempre operación unívoca — aislar una noesis para trabajarla — no producción de unidades discretas.
+
+#### Filos y sofos: aspecto y afecto en el origen de la filosofía
+
+> "'Filosofía' no es simplemente 'amor por el saber' como deporte intelectual; nació como disciplina de pensar sobre el pensar"
+→ [¿Qué es un símbolo? Parte I (1:19:14)](https://youtu.be/6cSsI85qCp8?t=4754)
+
+> "Filos = gusto (afecto por el aspecto); sofos = aspecto; la confusión entre filosofía como clasificación y filosofía como deporte viene del idealismo naif"
+→ [¿Qué es un símbolo? Parte I (1:19:14)](https://youtu.be/6cSsI85qCp8?t=4754)
+
+La etimología es operativa, no decorativa, y precisa la distinción de la sección anterior entre filosofía y poética. **Filos** designa el componente afectivo (gusto, afecto por lo que aparece); **sofos** designa el aspecto (lo que aparece como susceptible de clasificación). La filosofía nace como disciplina de pensar sobre el pensar — operación clasificatoria sobre la noesis misma — y NO como deporte intelectual de generar pensamientos con elegancia. La reducción cultural de la filosofía a deporte es el síntoma del idealismo naif descrito en la sección anterior: opera con el componente filos (afecto por el aspecto) sin el componente sofos (clasificación operativa del aspecto), y el resultado es poética que se presenta como filosofía. La etimología completa el diagnóstico — el [[sofisma-estetico|sofisma estético]] no es accidente moderno sino tentación estructural inscrita en la palabra misma desde su origen.
+
+#### 12 bits por segundo: la limitación operativa de la conciencia explícita
+
+> "El pensamiento consciente contiene solo 12 bits por segundo; las representaciones inconscientes son mucho más"
+→ [¿Qué es un símbolo? Parte I (1:42:03)](https://youtu.be/6cSsI85qCp8?t=6123)
+
+> "Toda la noesis sirve para que mediante esa memoria operativa de 12 bits/segundo se evalúe la realidad y se le conceda una valencia"
+→ [¿Qué es un símbolo? Parte I (1:42:03)](https://youtu.be/6cSsI85qCp8?t=6123)
+
+> "El objetivo de la mente humana es saber qué es mejor para el siguiente instante, optimizando la entropía química del cerebro"
+→ [¿Qué es un símbolo? Parte I (1:42:03)](https://youtu.be/6cSsI85qCp8?t=6123)
+
+La cifra empírica acota el aparato. La conciencia operativa — memoria de trabajo activa — opera con un ancho de banda diminuto (~12 bits/segundo) frente a la enorme masa de noesis inconsciente que la sustenta. Esta asimetría es coherente con la articulación del [[inconsciente-en-proxy|inconsciente]] como capa representacional vastamente mayor que la consciente, con la cual mantiene relación de continuo. Funcionalmente, los 12 bits/segundo no son limitación que la mente padezca sino diseño: el aparato existe para CONCEDER VALENCIA (interpretar = inter-pretium = dar valor) a un fragmento de la realidad que orientará la siguiente acción, optimizando la entropía química del cerebro. La pieza precisa la teleología del aparato cognitivo articulada por la [[algebra-afectiva|álgebra afectiva]]: la mente NO computa el mundo, evalúa el siguiente instante con un canal operativo deliberadamente estrecho que la fuerza a apoyarse en la matriz noética inconsciente.
+
+
+
 ## Articulaciones posteriores: oposición al psicoanálisis y mecanismo de la meditación
 
 En el directo experimental de 8 horas de estudio (8 enero 2025), el canal articula con más detalle el estatuto de [[realismo-cognitivo]] como cierre epistemológico del marco y añade dos piezas nuevas a la teoría:
@@ -855,9 +898,6 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minut
 
 ## Citations
 
-
 - video_id: `ez2e9NTvljg` — ¿Qué es un símbolo? (Parte 2)
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [1:08:52](https://youtu.be/cbdLR0HTE3w?t=4132) · [1:21:29](https://youtu.be/cbdLR0HTE3w?t=4889) · [1:26:04](https://youtu.be/cbdLR0HTE3w?t=5164) · [2:01:28](https://youtu.be/cbdLR0HTE3w?t=7288)
-- **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [1:18:38](https://youtu.be/eQpPGGqodsU?t=4718) · [1:28:23](https://youtu.be/eQpPGGqodsU?t=5303)
-

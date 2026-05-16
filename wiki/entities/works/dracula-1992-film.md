@@ -8,7 +8,6 @@ aliases:
 - Bram Stoker's Dracula
 - Dracula 1992
 - Coppola Dracula
-- Bram Stoker
 domain_primary: arts.cinema
 primary_domains:
 - arts.cinema
@@ -141,8 +140,9 @@ La orden funciona como marco genealógico del personaje — el caballero cuya fi
 
 
 
+- **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [32:35](https://youtu.be/JmCqIk6NDsM?t=1955) · [56:53](https://youtu.be/JmCqIk6NDsM?t=3413) · [1:01:56](https://youtu.be/JmCqIk6NDsM?t=3716) · [1:09:29](https://youtu.be/JmCqIk6NDsM?t=4169) · [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:21:10](https://youtu.be/JmCqIk6NDsM?t=4870) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:46:00](https://youtu.be/JmCqIk6NDsM?t=6360) · [1:51:34](https://youtu.be/JmCqIk6NDsM?t=6694) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029) · [2:07:17](https://youtu.be/JmCqIk6NDsM?t=7637) · [2:21:00](https://youtu.be/JmCqIk6NDsM?t=8460) · [2:24:01](https://youtu.be/JmCqIk6NDsM?t=8641) · [2:31:04](https://youtu.be/JmCqIk6NDsM?t=9064) · [2:34:06](https://youtu.be/JmCqIk6NDsM?t=9246) · [2:39:09](https://youtu.be/JmCqIk6NDsM?t=9549) · [2:49:48](https://youtu.be/JmCqIk6NDsM?t=10188) · [3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [17:03](https://youtu.be/yAIPr0HzQqE?t=1023)
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [42:11](https://youtu.be/ClnayaScAjQ?t=2531)
 - **Taxonomía de las criaturas malignas** — chunks: [13:43](https://youtu.be/rG_et1_G7Hs?t=823) · [31:29](https://youtu.be/rG_et1_G7Hs?t=1889)
-- **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [32:35](https://youtu.be/JmCqIk6NDsM?t=1955) · [56:53](https://youtu.be/JmCqIk6NDsM?t=3413) · [1:01:56](https://youtu.be/JmCqIk6NDsM?t=3716) · [1:09:29](https://youtu.be/JmCqIk6NDsM?t=4169) · [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718) · [1:21:10](https://youtu.be/JmCqIk6NDsM?t=4870) · [1:27:14](https://youtu.be/JmCqIk6NDsM?t=5234) · [1:46:00](https://youtu.be/JmCqIk6NDsM?t=6360) · [1:51:34](https://youtu.be/JmCqIk6NDsM?t=6694) · [1:57:09](https://youtu.be/JmCqIk6NDsM?t=7029) · [2:07:17](https://youtu.be/JmCqIk6NDsM?t=7637) · [2:21:00](https://youtu.be/JmCqIk6NDsM?t=8460) · [2:24:01](https://youtu.be/JmCqIk6NDsM?t=8641) · [2:31:04](https://youtu.be/JmCqIk6NDsM?t=9064) · [2:34:06](https://youtu.be/JmCqIk6NDsM?t=9246) · [2:39:09](https://youtu.be/JmCqIk6NDsM?t=9549) · [2:49:48](https://youtu.be/JmCqIk6NDsM?t=10188) · [3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
+- **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [1:42:14](https://youtu.be/-2u3CAw1xCs?t=6134)
 

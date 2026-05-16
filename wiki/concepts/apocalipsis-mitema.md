@@ -9,8 +9,6 @@ aliases:
 - literatura de revelación
 - apocalipsis arquetípico
 - apocalypse
-- mito del Apocalipsis
-- Jinetes del Apocalipsis
 domain_primary: humanities.religion
 primary_domains:
 - humanities.religion
@@ -186,21 +184,16 @@ Esta lectura conecta el Apocalipsis con la dinámica de la [[individuation|indiv
 
 
 
-
-
-
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [24:55](https://youtu.be/wIhH72UFUPY?t=1495) · [47:41](https://youtu.be/wIhH72UFUPY?t=2861) · [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/lw7XI2lQntM?t=2861) · [51:43](https://youtu.be/lw7XI2lQntM?t=3103)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [3:32](https://youtu.be/aPbgBnidoJI?t=212)
+- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044)
 - **No entendiste HEREDITARY** — chunks: [1:07:50](https://youtu.be/r_4BY6W4lcU?t=4070)
 - **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [0:00](https://youtu.be/tgusJOzuJ7U?t=0)
 - **Los Apocalipsis. (Parte I)** — chunks: [5:32](https://youtu.be/lLRGemLUCtY?t=332) · [40:17](https://youtu.be/lLRGemLUCtY?t=2417) · [41:17](https://youtu.be/lLRGemLUCtY?t=2477) · [45:55](https://youtu.be/lLRGemLUCtY?t=2755) · [47:27](https://youtu.be/lLRGemLUCtY?t=2847) · [49:30](https://youtu.be/lLRGemLUCtY?t=2970) · [50:30](https://youtu.be/lLRGemLUCtY?t=3030) · [56:03](https://youtu.be/lLRGemLUCtY?t=3363) · [57:34](https://youtu.be/lLRGemLUCtY?t=3454) · [58:35](https://youtu.be/lLRGemLUCtY?t=3515) · [1:01:06](https://youtu.be/lLRGemLUCtY?t=3666) · [1:03:07](https://youtu.be/lLRGemLUCtY?t=3787) · [1:05:43](https://youtu.be/lLRGemLUCtY?t=3943) · [1:06:43](https://youtu.be/lLRGemLUCtY?t=4003) · [1:09:22](https://youtu.be/lLRGemLUCtY?t=4162) · [1:12:23](https://youtu.be/lLRGemLUCtY?t=4343) · [1:14:54](https://youtu.be/lLRGemLUCtY?t=4494) · [1:37:55](https://youtu.be/lLRGemLUCtY?t=5875)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [24:20](https://youtu.be/O4OkDuc3uPQ?t=1460) · [1:04:52](https://youtu.be/O4OkDuc3uPQ?t=3892) · [1:08:25](https://youtu.be/O4OkDuc3uPQ?t=4105)
 - **Taxonomía de las criaturas malignas** — chunks: [9:07](https://youtu.be/rG_et1_G7Hs?t=547)
-- **Del origen del mal (III): La fe y los demonios.** — chunks: [1:51:01](https://youtu.be/L4ayDmaUO9Y?t=6661)
-- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044)
-- **el Génesis en Tolkien (Parte 1)** — chunks: [20:26](https://youtu.be/s6teBboDDJ4?t=1226)
 

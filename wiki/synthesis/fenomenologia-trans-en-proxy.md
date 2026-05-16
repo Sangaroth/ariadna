@@ -261,6 +261,26 @@ La pieza más importante para la taxonomía de la página es la distinción psiq
 El criterio operativo de demarcación es **temporal y estructural**: la disforia genuina afecta a la integridad psíquica del propio cuerpo (no a la identidad social) y persiste; el problema de identidad opera como conflicto neurótico que las fases vitales modulan o resuelven. La crítica del canal al movimiento trans es categorial: meter neurosis de identidad en la categoría psiquiátrica de la disforia produce dos errores simultáneos — invisibiliza el cuadro genuino al expandir indiscriminadamente la categoría, y prescribe intervenciones somáticas para problemas que pertenecen al registro neurótico de la identidad social. La fenomenología trans como disciplina, en la lectura del canal, exige sostener esta distinción para no colapsar dos objetos clínicos heterogéneos en un único sintagma político.
 
 
+
+## Confusión autismo-trans: la diferencia cognitiva reinterpretada como disforia de género
+
+El monográfico *Psicología 101: Autismo* (oct 2023) articula un mecanismo específico por el que personas del [[autismo-en-proxy|espectro autista]] reciben del entorno el mensaje de que su diferencia es disforia de género, sumándose como tercer cuadro confundido al inventario ya documentado (problema de identidad histriónico, dismorfia).
+
+> "Como no encajan en los estereotipos conductuales de su género, reciben el mensaje de que su diferencia es disforia de género"
+→ [Psicología 101: Autismo (2:02:10)](https://youtu.be/0mxxhGA5Oh0?t=7330)
+
+> "El autismo provoca que no estén cómodos en su estereotipo genérico, lo cual se confunde externamente con una cuestión de identidad de género"
+→ [Psicología 101: Autismo (2:02:10)](https://youtu.be/0mxxhGA5Oh0?t=7330)
+
+> "Es un condicionamiento externo que reinterpreta la diferencia autista como transexualidad"
+→ [Psicología 101: Autismo (2:02:10)](https://youtu.be/0mxxhGA5Oh0?t=7330)
+
+La pieza añade un tercer cuadro al criterio diferencial que la página ya articulaba (disforia genuina vs problema de identidad vs dismorfia): la **diferencia cognitiva autista** opera por mecanismo distinto a los tres. El autista no encaja en el estereotipo conductual de su género porque su cognición carece de los circuitos que producen el ajuste automático al rol esperado — no porque su psique demande coherencia con un cuerpo distinto (disforia genuina), ni porque opere el dispositivo histriónico que reclama clasificación externa (problema de identidad), ni porque haya rechazo a la forma corporal (dismorfia). El malestar del autista respecto al estereotipo es **falta de aprendizaje automático del rol**, no rechazo del sexo. Cuando el discurso público o el propio entorno terapéutico colapsa esa diferencia bajo la categoría disforia de género, opera lo que la página articula como condicionamiento externo: el autista recibe del exterior una clave interpretativa que le ofrece encuadre para una diferencia que él mismo no podía nombrar, y la adopta porque le da legibilidad social — sin que el cuadro psiquiátrico genuino corresponda.
+
+La consecuencia metodológica refuerza la tesis nuclear de la página: el sintagma trans contemporáneo absorbe heterogeneidad clínica bajo etiqueta política única, con coste diagnóstico tanto para el cuadro genuino de disforia (que queda invisibilizado por dilución de la categoría) como para los cuadros realmente distintos que reciben prescripciones terapéuticas inadecuadas. El caso autista añade la dimensión cognitivo-estructural: una diferencia que opera en el nivel de la representación pre-lingüística y que no se resuelve con intervención sobre la identidad social ni sobre la circunstancia corporal.
+
+
+
 ## Disforia vs dismorfia: distinción técnica psicológica
 
 En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal precisa la distinción categorial entre dos cuadros clínicos que el discurso público y a veces el propio movimiento trans tienden a confundir o solapar. La distinción es importante para la fenomenología trans porque articula qué tipo de malestar opera realmente bajo cada uso del término.

@@ -105,5 +105,7 @@ El tema conecta tangencialmente con el [[viaje-heroe]]: Carrick desciende a un m
 
 
 
+
 - **Cuento contigo (resub)** — chunks: [14:45](https://youtu.be/6oOGKh2TRHE?t=885)
+- **Avisos parroquiales** — chunks: [6:16](https://youtu.be/F1isbFH_FeM?t=376)
 

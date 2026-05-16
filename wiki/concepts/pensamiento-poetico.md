@@ -180,12 +180,14 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 
 
 
+
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
+- **Biblioteca de Babel II** — chunks: [0:17](https://youtu.be/IytpR6sGWXg?t=17)
 - **Presentación del Libro: Polaris** — chunks: [43:12](https://youtu.be/rLeMS4-XFrA?t=2592)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
 - **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
@@ -193,5 +195,6 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - **Tontas en Potencia** — chunks: [1:13:51](https://youtu.be/1cKAgkEEbMA?t=4431) · [2:00:23](https://youtu.be/1cKAgkEEbMA?t=7223) · [2:22:23](https://youtu.be/1cKAgkEEbMA?t=8543)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [34:38](https://youtu.be/dHDv_oZODYQ?t=2078) · [38:39](https://youtu.be/dHDv_oZODYQ?t=2319)
 - **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [28:55](https://youtu.be/K7MAqw1q3dk?t=1735) · [31:26](https://youtu.be/K7MAqw1q3dk?t=1886) · [38:32](https://youtu.be/K7MAqw1q3dk?t=2312) · [53:53](https://youtu.be/K7MAqw1q3dk?t=3233)
-- **Biblioteca de Babel II** — chunks: [0:17](https://youtu.be/IytpR6sGWXg?t=17)
+- **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:19:14](https://youtu.be/6cSsI85qCp8?t=4754)
+- **Avisos parroquiales** — chunks: [8:18](https://youtu.be/F1isbFH_FeM?t=498)
 

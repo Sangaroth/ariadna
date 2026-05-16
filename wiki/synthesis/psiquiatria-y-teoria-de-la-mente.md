@@ -13,7 +13,6 @@ aliases:
 - critica al hombre de paja antipsiquiatrico
 - antipsiquiatria conductista en proxy
 - cerebrocentrismo psiquiatrico
-- medicalización del aburrimiento
 domain_primary: humanities.philosophy
 primary_domains:
 - humanities.philosophy
@@ -100,6 +99,10 @@ El segundo movimiento de la tesis es polémico: el discurso antipsiquiátrico co
 - **Causa orgánica del sufrimiento mental**: déficits en metabolitos neurobiológicos (la base biológica heredada).
 - **Causa exógena del sufrimiento mental**: entorno y condiciones materiales externas.
 - **Causa psíquica del sufrimiento mental**: trauma y elaboración interna del individuo — el poder de causarse y de no causarse sufrimiento.
+
+
+**Distinción operativa neurosis de personalidad / neurosis localizada (no-TP)** — articulada como pieza diagnóstica en [[psicastenia-en-proxy]]: una **neurosis no-TP** afecta una parte local de la mente sin manchar toda la personalidad (ejemplo paradigmático: no poder pisar líneas en la calle); una **neurosis de personalidad** (TP) desalinea medios y fines en toda la conducta. La gravedad NO se mide por cuánto incapacita al paciente sino por cuánto le aleja de la realidad. Paradoja del loco: cuanto más loco, menos sabe que está loco — por eso una neurosis no-TP frecuentemente está más próxima a la psicosis que un trastorno de personalidad. Los **criterios para ubicar un problema en la estructura de la mente** son la **egosintonía/egodistonía** (alineación o desalineación entre lo que la neurosis empuja a hacer y la percepción de anormalidad) y el **insight** (capacidad de hacer metarrepresentaciones sobre la propia neurosis, opuesto operativo de la locura). El TPOC es egodistónico y permite insight; el TOC es egosintónico, carece de insight y confabula para sostener el ritual — lo que acerca el TOC al estatuto psicótico aunque conserve realidad compartida.
+
 
 **Nivel 3 — Polémica con la antipsiquiatría conductista y con el cerebrocentrismo psiquiátrico**
 
@@ -249,6 +252,7 @@ La pieza invierte la intuición popular: no es la comunicación lo que permite l
 - **Tipología de la causa psíquica**: "trauma y elaboración interna" agrupa fenómenos heterogéneos (trauma agudo, trauma evolutivo, conflicto neurótico, elaboración secundaria); el corpus no desarrolla aquí esa sub-tipología.
 - **Tratamiento clínico que se desprende del marco**: el canal ofrece la pregunta correcta (¿qué te ha pasado?) pero no detalla qué arquitectura terapéutica concreta se desprende de las tres causas — qué hacer cuando la causa es orgánica, qué cuando es exógena, qué cuando es psíquica.
 - **Diálogo con tradiciones psiquiátricas no biomédicas**: se afirma que hay tradición de estudio de la esquizofrenia fuera del modelo biomédico pero no se nombra (fenomenología psiquiátrica, antropología clínica, psicopatología clásica europea, escuela francesa).
+<!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **Estatuto de los trastornos de personalidad como categoría**: si la psicosis es -->
 - **Estatuto de los trastornos de personalidad como categoría**: si la psicosis es desconexión y el trastorno de personalidad es error en la valencia afectiva, queda abierto el estatuto categorial de neurosis, trastornos del espectro y comorbilidades complejas.
 - **Posición frente al DSM/CIE como sistemas clasificatorios**: la tesis propone una taxonomía propia (psicosis vs trastorno de personalidad, tres causas) pero no toma postura explícita sobre los sistemas nosológicos contemporáneos.
 - **Diálogo con la neurociencia actual**: el cerebrocentrismo psiquiátrico se declara agotado pero la causa orgánica (déficits en metabolitos) sigue siendo neurobiológica; queda por articular qué neurociencia sí es admisible bajo el marco.
@@ -261,7 +265,4 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minut
 
 
 
-
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:36:27](https://youtu.be/4LBXNkVAUCU?t=5787)
-- **La enfermedad del aburrimiento.** — chunks: [53:29](https://youtu.be/ifKRYGlHwuk?t=3209)
-

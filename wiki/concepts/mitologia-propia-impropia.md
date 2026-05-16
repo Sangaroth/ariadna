@@ -135,7 +135,6 @@ Esto arroja luz sobre por qué los autores que construyen mitos propios — como
 
 
 
-
 - video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444)
@@ -143,8 +142,8 @@ Esto arroja luz sobre por qué los autores que construyen mitos propios — como
 
 - **Análisis arquetípico La Bruja** — chunks: [13:30](https://youtu.be/rRlks0e0oxU?t=810) · [23:09](https://youtu.be/rRlks0e0oxU?t=1389) · [2:15:15](https://youtu.be/rRlks0e0oxU?t=8115)
 - **¿Es ciencia la psicología?** — chunks: [34:01](https://youtu.be/1cF9VayHtRI?t=2041)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [4:25](https://youtu.be/yAIPr0HzQqE?t=265)
 - **Lilith: La Iconotropía.** — chunks: [0:31](https://youtu.be/xKCD8PaexF0?t=31) · [14:15](https://youtu.be/xKCD8PaexF0?t=855)
 - **MItología 101: El Gólem** — chunks: [42:43](https://youtu.be/IG3dkNBX9uU?t=2563)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642)
-- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [2:54](https://youtu.be/yAIPr0HzQqE?t=174) · [4:25](https://youtu.be/yAIPr0HzQqE?t=265)
 

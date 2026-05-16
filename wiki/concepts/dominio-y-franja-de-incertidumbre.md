@@ -287,6 +287,10 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
+
+
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -336,4 +340,8 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **De Platón A The Matrix** — chunks: [17:45](https://youtu.be/zr_ZKX60N54?t=1065)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [4:03](https://youtu.be/5uFhZcARjYQ?t=243) · [41:32](https://youtu.be/5uFhZcARjYQ?t=2492) · [44:34](https://youtu.be/5uFhZcARjYQ?t=2674) · [49:39](https://youtu.be/5uFhZcARjYQ?t=2979) · [55:44](https://youtu.be/5uFhZcARjYQ?t=3344) · [1:11:38](https://youtu.be/5uFhZcARjYQ?t=4298)
 - **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [1:25:16](https://youtu.be/GdQY1iOa68w?t=5116)
+- **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [32:27](https://youtu.be/-2u3CAw1xCs?t=1947) · [45:34](https://youtu.be/-2u3CAw1xCs?t=2734)
+- **Psicología 101: Conductismo, sofisma y filosofía.** — chunks: [17:27](https://youtu.be/TVK5kpPC3Qs?t=1047) · [25:02](https://youtu.be/TVK5kpPC3Qs?t=1502) · [1:18:15](https://youtu.be/TVK5kpPC3Qs?t=4695)
+- **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [18:37](https://youtu.be/6cSsI85qCp8?t=1117)
+- **Teoría de la información integrada y los LLMs** — chunks: [57:39](https://youtu.be/e5hvKJpRZMk?t=3459)
 

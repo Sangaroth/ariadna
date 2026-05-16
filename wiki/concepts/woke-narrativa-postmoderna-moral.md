@@ -7,7 +7,6 @@ aliases:
 - narrativa woke
 - postmodernidad moral aplicada
 - vaciamiento arquetipico woke
-- Star Trek
 domain_primary: interdisciplinary.cultural_studies
 primary_domains:
 - interdisciplinary.cultural_studies
@@ -527,6 +526,37 @@ El diagnóstico unificador articula las cuatro características como manifestaci
 
 ### El moralismo woke: mal=sufrimiento, bien=voluntad del yo
 
+
+
+### Dignidad moderna: la cifra léxica del moralismo woke como eliminación de incertidumbre afectiva
+
+El clip *Cómo desparasitar humanos* (abr 2024), en su segunda mitad polémica, articula el desplazamiento semántico de **dignidad** que cifra léxicamente la equivalencia mal=sufrimiento del moralismo woke documentada arriba. La dignidad clásica era categoría formal-moral; la moderna opera como demanda de eliminación de incertidumbre afectiva.
+
+> "La dignidad es la consideración intelectual y ético-moral de que todos los individuos son un fin en sí mismos, no medios ni instrumentos"
+→ [Cómo desparasitar humanos (08:39)](https://youtu.be/h3OjS4upnGY?t=519)
+
+> "Es un constructo social, un estatus inventado que eleva a todas las personas por encima de consideraciones materiales y utilitarias"
+→ [Cómo desparasitar humanos (08:39)](https://youtu.be/h3OjS4upnGY?t=519)
+
+> "Funciona como un teorema moral: un punto de partida que no se demuestra dentro del sistema pero del que se parte para todo lo demás"
+→ [Cómo desparasitar humanos (08:39)](https://youtu.be/h3OjS4upnGY?t=519)
+
+La dignidad clásica opera como **teorema moral**: axioma del sistema ético-político moderno que postula a cada individuo como fin en sí mismo. No es propiedad material ni utilitaria — es estatus invertido como condición de posibilidad de cualquier ética post-kantiana. El uso contemporáneo, en cambio, vacía esta articulación formal:
+
+> "Cuando se dice 'vivienda digna' o 'muerte digna', el contenido real no tiene que ver con la definición clásica de dignidad sino con la ausencia de sufrimiento"
+→ [Cómo desparasitar humanos (12:11)](https://youtu.be/h3OjS4upnGY?t=731)
+
+> "La dignidad moderna se usa donde hay firmeza afectiva: es digno aquello que no te supone una incertidumbre emocional ni una impredictibilidad afectiva"
+→ [Cómo desparasitar humanos (12:11)](https://youtu.be/h3OjS4upnGY?t=731)
+
+> "Pedir algo 'digno' hoy significa: bajo ningún concepto quiero estar sometido a una situación emocional negativa que no sea capaz de gestionar"
+→ [Cómo desparasitar humanos (12:11)](https://youtu.be/h3OjS4upnGY?t=731)
+
+La traducción operativa cierra la cifra del moralismo woke documentado en la sección anterior. 'Vivienda digna' NO significa 'vivienda que reconoce mi estatus de fin-en-sí-mismo' (lectura kantiana clásica) sino 'vivienda que elimina la incertidumbre afectiva de mi situación habitacional'. 'Muerte digna' NO significa 'muerte que preserva mi condición de fin en sí mismo' sino 'muerte sin sufrimiento gestionable'. El léxico de la dignidad opera entonces como vehículo retórico de la equivalencia mal=sufrimiento: cualquier situación que produzca emocionalidad negativa no gestionable es 'indigna' por definición, y por tanto debe ser eliminada como cuestión moral. La consecuencia estructural es que el régimen woke instrumentaliza la categoría kantiana original (cuyo contenido es estatus moral formal) para movilizar un programa de eliminación afectiva (cuyo contenido es bienestar emocional garantizado). El desplazamiento no es defecto retórico sino mecanismo: usar el peso moral de la categoría clásica para justificar demandas que no la cumplen ni la invocan en sentido propio.
+
+La pieza enlaza con la articulación previa sobre el progresismo posmoderno y su componente traumática: el sufrimiento se experimenta siempre con locus externo de autoridad ('algo/alguien me lo causa') y la demanda de dignidad como ausencia de sufrimiento es la versión moralizada de esa atribución externa. El léxico de la dignidad funciona así como vehículo retórico del [[teocracia-agnostica-y-victimologia-institucional|programa victimológico institucional]] que la página articula en otras secciones — sacralización del sufriente vía cifra léxica de la dignidad moderna.
+
+
 > "Identifican el mal como el sufrimiento y el bien como la voluntad del yo,"
 → [Wokismo para Wokes (1:25:25)](https://youtu.be/Q83ieEVaF5I?t=5125)
 
@@ -844,7 +874,6 @@ La precisión operativa del par envidia/ambición es decisiva para entender la m
 
 
 
-
 - **Irrespirables redes sociales.** — chunks: [14:25](https://youtu.be/aaLhUV1rdE4?t=865) · [1:28:06](https://youtu.be/aaLhUV1rdE4?t=5286) · [1:30:08](https://youtu.be/aaLhUV1rdE4?t=5408) · [1:36:25](https://youtu.be/aaLhUV1rdE4?t=5785)
 - **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [1:50:29](https://youtu.be/xaFCTcXXI2o?t=6629)
 - **Lunes basado terminal** — chunks: [1:11:16](https://youtu.be/oHxXzr5WSbQ?t=4276) · [1:12:17](https://youtu.be/oHxXzr5WSbQ?t=4337)
@@ -860,8 +889,8 @@ La precisión operativa del par envidia/ambición es decisiva para entender la m
 - **Elisa y su CI** — chunks: [07:50](https://youtu.be/6tfSc45kjyo?t=470) · [29:39](https://youtu.be/6tfSc45kjyo?t=1779)
 - **Noticias 100tíficas.** — chunks: [6:04](https://youtu.be/VgdybZKruwk?t=364)
 - **¿Es ciencia la psicología?** — chunks: [21:23](https://youtu.be/1cF9VayHtRI?t=1283) · [28:24](https://youtu.be/1cF9VayHtRI?t=1704) · [37:32](https://youtu.be/1cF9VayHtRI?t=2252)
+- **Ha vuelto a ocurrir.** — chunks: [1:14:51](https://youtu.be/C0Io49giVY8?t=4491)
 - **Hambre y Miedo (Uno) PATHOS** — chunks: [2:07](https://youtu.be/BuMbdEoN8zY?t=127) · [5:41](https://youtu.be/BuMbdEoN8zY?t=341) · [7:43](https://youtu.be/BuMbdEoN8zY?t=463) · [8:43](https://youtu.be/BuMbdEoN8zY?t=523) · [9:44](https://youtu.be/BuMbdEoN8zY?t=584) · [10:14](https://youtu.be/BuMbdEoN8zY?t=614)
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [22:43](https://youtu.be/5uFhZcARjYQ?t=1363) · [55:44](https://youtu.be/5uFhZcARjYQ?t=3344)
-- **Ha vuelto a ocurrir.** — chunks: [38:05](https://youtu.be/C0Io49giVY8?t=2285) · [1:14:51](https://youtu.be/C0Io49giVY8?t=4491)
-- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:25:45](https://youtu.be/4LBXNkVAUCU?t=5145)
+- **El asunto Imani Khalif** — chunks: [1:00](https://youtu.be/ol1dFNxC1uQ?t=60) · [9:34](https://youtu.be/ol1dFNxC1uQ?t=574)
 

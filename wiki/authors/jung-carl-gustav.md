@@ -203,8 +203,10 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 
 
 
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [1:18:38](https://youtu.be/JmCqIk6NDsM?t=4718)
 - **Psicología 101: Cómo un Pollo demostró a Jung** — chunks: [1:09:06](https://youtu.be/cbfhVqYDbdE?t=4146)
+- **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 - **BUT WHY?** — chunks: [12:48](https://youtu.be/4tAWgX7-yXk?t=768)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [30:28](https://youtu.be/JVEsIdv6emI?t=1828)
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [24:40](https://youtu.be/i72IYlpQWd0?t=1480)
@@ -222,5 +224,6 @@ El ejemplo ilustra la distinción operativa que el canal establece entre **ident
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [5:07](https://youtu.be/nw7fSEAJr-U?t=307) · [9:39](https://youtu.be/nw7fSEAJr-U?t=579) · [1:20:23](https://youtu.be/nw7fSEAJr-U?t=4823)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [25:45](https://youtu.be/JKoWJmSR6VY?t=1545) · [44:04](https://youtu.be/JKoWJmSR6VY?t=2644)
 - **De Platón A The Matrix** — chunks: [46:51](https://youtu.be/zr_ZKX60N54?t=2811)
-- **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
+- **Psicología 101: ¿Qué es el Inconsciente?** — chunks: [1:10:24](https://youtu.be/9wJQ9tm9Yuc?t=4224)
+- **Psicología Incel (Luna roja sobre el varón III)** — chunks: [8:09](https://youtu.be/zLRhDHyq3gs?t=489)
 

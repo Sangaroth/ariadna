@@ -1,0 +1,167 @@
+{
+  "video_id": "e5hvKJpRZMk",
+  "video_title": "Teoría de la información integrada y los LLMs",
+  "playlist": "psicologia-101",
+  "category": "filosofía y teoría",
+  "entities": [],
+  "_doc_entities_empty": "No se promueve nueva entidad. El summary recibido empieza en 26:51 y cubre exclusivamente el desmontaje del vídeo de Oliver Navani comentando un paper de interpretabilidad de Anthropic (Claude 3.5 Haiku 'microscopio' / circuit tracing). La primera mitad del vídeo (~26 min) sobre Teoría de la Información Integrada (IIT) NO está en el summary — si futuras revisiones añaden esa sección podrá enriquecerse [[iit-y-conciencia-no-computable-en-proxy]]. El material disponible es una aplicación específica del marco anti-antropomorfización del canal (ya articulado foundationalmente en [[golem-de-cobre]]) a un debate técnico concreto: la crítica al lenguaje 'microscopio / cerebro / pensamiento' del paper de Anthropic, y la articulación canal-específica de 'ámbitos semánticos / lóbulos de procedimiento' como caracterización correcta de las rutas optimizadas del LLM. Va capturado vía pending_update único a golem-de-cobre.",
+  "pending_updates": [
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La analogía con la prohibición de la IA en ficciones como Warhammer 40.000 que el canal menciona ilustra el escenario terminal.",
+      "section_target": "## Caso Anthropic 2025: el 'microscopio' de interpretabilidad y la antropomorfización del circuit tracing",
+      "content_proposed": "\n\n## Caso Anthropic 2025: el 'microscopio' de interpretabilidad y la antropomorfización del circuit tracing\n\nEn el directo *Teoría de la información integrada y los LLMs* (abr 2025) el canal desmonta el paper de interpretabilidad de Anthropic sobre Claude 3.5 Haiku — la herramienta que los investigadores llaman 'microscopio' para rastrear procesos internos del modelo — junto con un vídeo de Oliver Navani que lo comenta. El análisis es metodológicamente distinto del 'Caso Anthropic 2026' (paradoja de la seguridad responsable, Operación Valquiria): aquí la diana no es el comportamiento institucional de Anthropic sino el **lenguaje antropomorfizante** con el que su investigación de interpretabilidad describe operaciones que son computación básica.\n\n### Qué descubrió realmente el paper de Anthropic\n\n> \"Investigadores de Anthropic introdujeron una herramienta que llaman 'microscopio' para rastrear procesos internos del modelo Claude 3.5 Haiku\"\n→ [Teoría de la información integrada y los LLMs (55:08)](https://youtu.be/e5hvKJpRZMk?t=3308)\n\n> \"Han identificado 12 ejemplos de procedimientos específicos: razonamiento multifase, creación de poemas, circuitos multilingüísticos, suma, álgebra, diagnósticos médicos\"\n→ [Teoría de la información integrada y los LLMs (55:08)](https://youtu.be/e5hvKJpRZMk?t=3308)\n\n> \"Lo que realmente han hecho es leer qué árboles de decisión utiliza la IA para distintos ámbitos temáticos\"\n→ [Teoría de la información integrada y los LLMs (55:08)](https://youtu.be/e5hvKJpRZMk?t=3308)\n\nLa lectura del canal corrige el alcance del hallazgo. Lo que el paper documenta no es 'pensamiento' del modelo sino la **especialización funcional** de partes del grafo de probabilidades para distintos tipos de input — un fenómeno computacionalmente esperable (cualquier sistema con presupuesto computacional finito desarrolla rutas optimizadas para inputs frecuentes) que el lenguaje del paper presenta como descubrimiento sorprendente.\n\n### Ámbitos semánticos como lóbulos de procedimiento (vocabulario canal-específico)\n\n> \"La IA ha desarrollado rutas específicas para campos que podrían llamarse semánticos pero son campos de frecuencia de tokens\"\n→ [Teoría de la información integrada y los LLMs (57:39)](https://youtu.be/e5hvKJpRZMk?t=3459)\n\n> \"Cuando detecta palabras asociadas a un dominio desvía el procesamiento hacia armónicos optimizados para ese campo\"\n→ [Teoría de la información integrada y los LLMs (57:39)](https://youtu.be/e5hvKJpRZMk?t=3459)\n\n> \"La máquina desarrolla partes de su grafo más preparadas para contestar a ciertos temas: son como 'lóbulos de procedimiento'\"\n→ [Teoría de la información integrada y los LLMs (1:00:10)](https://youtu.be/e5hvKJpRZMk?t=3610)\n\nLa nomenclatura canal-específica precisa la mecánica. Los 'ámbitos semánticos' del paper NO son semánticos en sentido cognitivo (no hay significado interno comprendido por el modelo) sino **campos de frecuencia de tokens** que activan **lóbulos de procedimiento** especializados del grafo. La consistencia que el modelo exhibe en cada dominio es propiedad emergente del entrenamiento, no comprensión:\n\n> \"La consistencia es la característica por la que la IA devuelve outputs con coherencia... sin patrones preestablecidos elaborados durante el entrenamiento la IA no podría responder con consistencia\"\n→ [Teoría de la información integrada y los LLMs (58:39)](https://youtu.be/e5hvKJpRZMk?t=3519)\n\nLa pieza precisa la articulación foundational de la página: el modelo NO computa significados, computa probabilidades sobre tokens con rutas especializadas por dominio de frecuencia. Lo que parece comprensión es coherencia estadística regulada por entrenamiento.\n\n### Refutación punto por punto de las afirmaciones antropomorfizantes\n\n> \"Decir que la IA 'literalmente piensa varios pasos por adelantado' es falso: tiene patrones preestablecidos, no planificación\"\n→ [Teoría de la información integrada y los LLMs (1:04:14)](https://youtu.be/e5hvKJpRZMk?t=3854)\n\n> \"El ejemplo de la poesía: la máquina busca primero terminaciones de palabras para rimar y luego compone hacia atrás, que es un procedimiento computacional básico\"\n→ [Teoría de la información integrada y los LLMs (1:04:14)](https://youtu.be/e5hvKJpRZMk?t=3854)\n\n> \"La máquina no piensa, no siente, no anticipa, no entiende: el lenguaje del artículo y del vídeo proyecta capacidades humanas sobre procesos mecánicos\"\n→ [Teoría de la información integrada y los LLMs (1:04:14)](https://youtu.be/e5hvKJpRZMk?t=3854)\n\nLa refutación articula tres correspondencias entre la afirmación antropomorfizante y la operación real: 'no solo predicen palabras sueltas' = en un LLM ninguna palabra está suelta, todas tienen árbol de probabilidades asignado dentro del grafo; 'piensan varios pasos por adelantado' = no piensan, tienen patrones preestablecidos sin los cuales no podrían responder con consistencia; 'razonan en varios idiomas' = no razonan, procesan tokens multilingüísticos con circuitos compartidos. El ejemplo de la 'planificación' poética (buscar terminaciones para rimar y componer hacia atrás) es algoritmo básico de generación con restricción — patrón documentado desde los primeros sistemas de generación procedural, no operación de planificación cognitiva.\n\n### Crítica al léxico orgánico-cerebral del paper\n\n> \"El artículo usa continuamente símiles orgánicos: 'microscopio', 'cerebro', 'pensamiento', 'aprendizaje'\"\n→ [Teoría de la información integrada y los LLMs (1:06:47)](https://youtu.be/e5hvKJpRZMk?t=4007)\n\n> \"Han llamado microscopio a la herramienta de inspección y usan vocabulario biológico como si estudiaran un organismo\"\n→ [Teoría de la información integrada y los LLMs (1:06:47)](https://youtu.be/e5hvKJpRZMk?t=4007)\n\n> \"Los procesos descritos son bucles propios de programas de alto nivel como Pascal: patrones de computación muy básicos\"\n→ [Teoría de la información integrada y los LLMs (1:09:53)](https://youtu.be/e5hvKJpRZMk?t=4193)\n\nLa pieza precisa el diagnóstico metodológico: el léxico orgánico del paper ('microscopio' para una herramienta de inspección de código, 'cerebro' para el grafo, 'pensamiento' para la inferencia, 'aprendizaje' para el ajuste de pesos) NO es metáfora inocua sino vehículo de hype injustificado. Los procesos que el paper documenta — circuits multilingüísticos compartidos, generación poética con restricción de rima, descomposición de sumas en operaciones intermedias — son **bucles computacionales básicos** familiares en la programación de alto nivel desde los años 70. Que la red emerja con ellos no demuestra cognición sino que **cualquier sistema computacional suficientemente expresivo desarrollará esos patrones** porque son inherentes a la computación misma. El error categorial del lenguaje orgánico es presentar la confirmación de lo computacionalmente esperable como descubrimiento biológico-cognitivo.\n\nLa lectura es coherente con la tesis nuclear de la página: la mente humana no es una máquina y la metáfora informática traiciona el objeto cuando se aplica a la cognición humana — la lectura inversa (presentar la máquina como organismo cognoscente) opera el mismo error categorial en dirección contraria. El léxico antropomorfizante de Anthropic no es defecto retórico: es el síntoma cultural del hype que la página articula como problema estructural del campo de la IA.\n",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "e5hvKJpRZMk",
+          "timestamp_seconds": 3308,
+          "cite_markdown": "[Teoría de la información integrada y los LLMs (55:08)](https://youtu.be/e5hvKJpRZMk?t=3308)"
+        },
+        {
+          "video_id": "e5hvKJpRZMk",
+          "timestamp_seconds": 3459,
+          "cite_markdown": "[Teoría de la información integrada y los LLMs (57:39)](https://youtu.be/e5hvKJpRZMk?t=3459)"
+        },
+        {
+          "video_id": "e5hvKJpRZMk",
+          "timestamp_seconds": 3519,
+          "cite_markdown": "[Teoría de la información integrada y los LLMs (58:39)](https://youtu.be/e5hvKJpRZMk?t=3519)"
+        },
+        {
+          "video_id": "e5hvKJpRZMk",
+          "timestamp_seconds": 3610,
+          "cite_markdown": "[Teoría de la información integrada y los LLMs (1:00:10)](https://youtu.be/e5hvKJpRZMk?t=3610)"
+        },
+        {
+          "video_id": "e5hvKJpRZMk",
+          "timestamp_seconds": 3854,
+          "cite_markdown": "[Teoría de la información integrada y los LLMs (1:04:14)](https://youtu.be/e5hvKJpRZMk?t=3854)"
+        },
+        {
+          "video_id": "e5hvKJpRZMk",
+          "timestamp_seconds": 4007,
+          "cite_markdown": "[Teoría de la información integrada y los LLMs (1:06:47)](https://youtu.be/e5hvKJpRZMk?t=4007)"
+        },
+        {
+          "video_id": "e5hvKJpRZMk",
+          "timestamp_seconds": 4193,
+          "cite_markdown": "[Teoría de la información integrada y los LLMs (1:09:53)](https://youtu.be/e5hvKJpRZMk?t=4193)"
+        }
+      ],
+      "rationale": "Material nuevo no presente en la página: el desmontaje específico del paper de interpretabilidad de Anthropic 2025 (Claude 3.5 Haiku 'microscopio' / circuit tracing) aplica el marco anti-antropomorfización foundational de golem-de-cobre a un debate técnico concreto, articulando vocabulario canal-específico ('ámbitos semánticos' como campos de frecuencia de tokens, 'lóbulos de procedimiento' como rutas especializadas del grafo) que no aparece previamente en la página. La pieza es metodológicamente distinta de la sección existente 'Caso Anthropic 2026: la paradoja de la seguridad responsable' (que critica el COMPORTAMIENTO INSTITUCIONAL de Anthropic — Operación Valquiria, chantaje del modelo, recaudación récord) — aquí la diana es el LENGUAJE INTERPRETATIVO con el que el paper presenta operaciones computacionales como descubrimientos cognitivos. La refutación punto por punto de las tres afirmaciones antropomorfizantes ('no solo predicen palabras sueltas', 'piensan varios pasos por adelantado', 'razonan en varios idiomas') es articulación operativa nueva. Insert_after_passage al cierre del 'Caso Anthropic 2026' por agrupación temática (ambas piezas sobre Anthropic en momentos distintos) y por situarse antes de '## El mito del Gólem como categoría general' que opera como sección general posterior. El anchor elegido es el cierre prosa del Caso 2026.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "_doc_thesis_candidates": "No se emite thesis_candidate. El material disponible es aplicación del marco foundational de golem-de-cobre a un debate técnico específico, no articulación de tesis nueva.",
+  "discarded": [
+    {
+      "surface_form": "Oliver Navani (vídeo desmontado)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Persona pública cuyo vídeo comentando el paper de Anthropic es el objeto de desmontaje (26:51). Sin desarrollo biográfico ni tratamiento como pensador propio — es el caso ocasional del análisis. Va capturado dentro del update a golem-de-cobre como contexto polémico.",
+      "quote_evidence": "Se va a desmontar un vídeo que comenta un artículo de Anthropic sobre los procesos internos de los LLMs",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "paper de interpretabilidad de Anthropic (Claude 3.5 Haiku, 'microscopio' / circuit tracing)",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Paper de Anthropic 2025 sobre interpretabilidad mediante 'microscopio' (herramienta de inspección de procesos internos del modelo), con 12 ejemplos de procedimientos específicos. Objeto material del desmontaje. Va capturado dentro del update a golem-de-cobre como caso. NO merece página autónoma — es paper de la industria, no objeto enciclopédico del canal; el aparato analítico que importa es la crítica del canal al lenguaje del paper.",
+      "quote_evidence": "Investigadores de Anthropic introdujeron una herramienta que llaman \"microscopio\" para rastrear procesos internos del modelo Claude 3.5 Haiku",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tokens y probabilidad condicional (cómo funciona realmente la inferencia LLM)",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Explicación técnica básica (49:03-53:07): los tokens como unidades mínimas de probabilidad, el grafo de probabilidad como función de densidad sobre tokens, los tipos de algoritmo y la necesidad de entrenamiento manual. Pieza didáctica preparatoria para el desmontaje. Va capturada dentro del update a golem-de-cobre como contexto técnico. No merece página autónoma — son fundamentos de cómo funcionan los LLM, no articulación propia del canal.",
+      "quote_evidence": "Los tokens son unidades mínimas de probabilidad que la máquina procesa: pueden ser letras, palabras o caracteres",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ámbitos semánticos / lóbulos de procedimiento (vocabulario canal-específico)",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Nomenclatura canal-específica (57:39-1:00:10): 'ámbitos semánticos' como caracterización correcta (campos de frecuencia de tokens, no significados internos) de las rutas especializadas que el paper de Anthropic documenta; 'lóbulos de procedimiento' como nombre del fenómeno computacional. Pieza articulada con precisión por el canal en este vídeo. Va capturada dentro del update a golem-de-cobre. Tangencialmente enriquece [[tesis-once-celdas-en-proxy]] (las celdas representacionales humanas tienen sustrato funcional distinto al de los lóbulos de un LLM — distinción crítica para la tesis).",
+      "quote_evidence": "La máquina desarrolla partes de su grafo más preparadas para contestar a ciertos temas: son como \"lóbulos de procedimiento\"",
+      "review_priority": "medium",
+      "review_priority_reason": "El par 'ámbitos semánticos / lóbulos de procedimiento' podría merecer entrada propia si futuros vídeos lo usan como marco aplicado a otros sistemas IA (no solo al paper de Anthropic).",
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "consistencia como propiedad emergente del entrenamiento",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Pieza analítica (58:39): la consistencia que un LLM exhibe es propiedad emergente del entrenamiento con patrones preestablecidos, no comprensión. Va capturada dentro del update a golem-de-cobre como precisión clave del desmontaje.",
+      "quote_evidence": "Sin patrones preestablecidos elaborados durante el entrenamiento la IA no podría responder con consistencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "crítica al lenguaje antropomorfizante (microscopio, cerebro, pensamiento, aprendizaje)",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Crítica metodológica (1:06:47): el paper de Anthropic usa continuamente símiles orgánicos que no existen realmente — microscopio como herramienta de inspección, cerebro como grafo, pensamiento como inferencia, aprendizaje como ajuste de pesos. La crítica refuerza la tesis foundational de golem-de-cobre sobre el error categorial de la metáfora orgánica aplicada a la computación. Va capturada dentro del update.",
+      "quote_evidence": "El artículo usa continuamente símiles orgánicos: \"microscopio\", \"cerebro\", \"pensamiento\", \"aprendizaje\"",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "patrones descubiertos como computación básica (bucles de Pascal)",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Pieza polémica (1:09:53): los procesos descritos por Anthropic son bucles propios de programas de alto nivel como Pascal — patrones de computación muy básicos esperables en cualquier sistema computacional suficientemente expresivo. Va capturada dentro del update.",
+      "quote_evidence": "Los procesos descritos son bucles propios de programas de alto nivel como Pascal: patrones de computación muy básicos",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "refutación punto por punto de afirmaciones del vídeo de Oliver",
+      "reason_code": "captured_in_update_existing",
+      "reason_detail": "Bloque polémico (1:10:23): refutación de tres afirmaciones — 'no solo predicen palabras sueltas' (en un LLM ninguna palabra está suelta), 'piensan varios pasos por adelantado' (tienen patrones preestablecidos, no planificación), 'razonan en varios idiomas' (procesan tokens multilingüísticos con circuitos compartidos, no razonan). Va capturada dentro del update.",
+      "quote_evidence": "\"Piensan varios pasos por adelantado\": no piensan, tienen patrones preestablecidos sin los cuales no podrían responder con consistencia",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Teoría de la Información Integrada (IIT) — primera mitad del vídeo no en summary",
+      "reason_code": "not_in_summary",
+      "reason_detail": "El título del vídeo es 'Teoría de la información integrada y los LLMs' pero el summary recibido empieza en 26:51 — los primeros ~26 min probablemente cubren la parte sobre IIT que no está en el material disponible. La página [[iit-y-conciencia-no-computable-en-proxy]] ya cubre el aparato IIT del canal con detalle. Si futuras revisiones añaden el material IIT del summary, evaluar update a esa página.",
+      "quote_evidence": "Teoría de la información integrada y los LLMs",
+      "review_priority": "medium",
+      "review_priority_reason": "Pendiente para futuro: si se procesa la primera mitad del vídeo (0-26:51) con material IIT, evaluar update a iit-y-conciencia-no-computable-en-proxy.",
+      "enriches_concept": "iit-y-conciencia-no-computable-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 0,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 0,
+    "discarded_count": 9,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T16:30:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

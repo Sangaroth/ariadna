@@ -227,12 +227,12 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
-
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
 - **Psicología 101: El perdón. Con @exitwithin** — chunks: [59:23](https://youtu.be/05MVbWwpiSs?t=3563)
 - **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
+- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **Primer stream del año** — chunks: [7:50](https://youtu.be/kEgjSN3uKy4?t=470)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:29:13](https://youtu.be/DNHgjIgU_-c?t=5353) · [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
@@ -240,7 +240,6 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **Tontas en Potencia** — chunks: [1:13:51](https://youtu.be/1cKAgkEEbMA?t=4431)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [34:38](https://youtu.be/dHDv_oZODYQ?t=2078) · [38:39](https://youtu.be/dHDv_oZODYQ?t=2319)
 - **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [28:55](https://youtu.be/K7MAqw1q3dk?t=1735) · [31:26](https://youtu.be/K7MAqw1q3dk?t=1886) · [38:32](https://youtu.be/K7MAqw1q3dk?t=2312) · [43:41](https://youtu.be/K7MAqw1q3dk?t=2621)
-- **¿Qué es un símbolo? (Parte 2)** — chunks: [0:35](https://youtu.be/ez2e9NTvljg?t=35)
-- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
-- **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [14:33](https://youtu.be/hqXmKZ77TEQ?t=873)
+- **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:19:14](https://youtu.be/6cSsI85qCp8?t=4754)
+- **Alcachofita y la Astrología** — chunks: [6:06](https://youtu.be/rezLBRh_Tbg?t=366)
 

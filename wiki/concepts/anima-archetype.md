@@ -327,6 +327,7 @@ La pieza añade un criterio metodológico importante: cuando el aparato junguian
 
 
 
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 
 
@@ -344,4 +345,5 @@ La pieza añade un criterio metodológico importante: cuando el aparato junguian
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:08:23](https://youtu.be/xK8_MpMMXzc?t=4103)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [29:17](https://youtu.be/yAIPr0HzQqE?t=1757)
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0) · [3:31](https://youtu.be/ClnayaScAjQ?t=211) · [13:47](https://youtu.be/ClnayaScAjQ?t=827) · [19:20](https://youtu.be/ClnayaScAjQ?t=1160) · [31:00](https://youtu.be/ClnayaScAjQ?t=1860) · [48:44](https://youtu.be/ClnayaScAjQ?t=2924) · [53:16](https://youtu.be/ClnayaScAjQ?t=3196) · [1:10:27](https://youtu.be/ClnayaScAjQ?t=4227) · [1:25:06](https://youtu.be/ClnayaScAjQ?t=5106) · [1:51:34](https://youtu.be/ClnayaScAjQ?t=6694)
+- **Psicología Incel (Luna roja sobre el varón III)** — chunks: [8:09](https://youtu.be/zLRhDHyq3gs?t=489)
 

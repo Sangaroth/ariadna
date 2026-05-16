@@ -749,8 +749,6 @@ La genealogía completa del fracaso enlaza con la lectura tolkieniana ya documen
 
 
 
-
-
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [47:34](https://youtu.be/Sszbs7CG0cQ?t=2854) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [51:06](https://youtu.be/Sszbs7CG0cQ?t=3066) · [53:36](https://youtu.be/Sszbs7CG0cQ?t=3216) · [55:37](https://youtu.be/Sszbs7CG0cQ?t=3337) · [59:46](https://youtu.be/Sszbs7CG0cQ?t=3586) · [1:00:48](https://youtu.be/Sszbs7CG0cQ?t=3648) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989) · [1:44:45](https://youtu.be/Sszbs7CG0cQ?t=6285)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [26:32](https://youtu.be/NjtK76xzV18?t=1592) · [29:33](https://youtu.be/NjtK76xzV18?t=1773)
 - **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)
@@ -768,6 +766,4 @@ La genealogía completa del fracaso enlaza con la lectura tolkieniana ya documen
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [16:07](https://youtu.be/O4OkDuc3uPQ?t=967) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642) · [31:25](https://youtu.be/O4OkDuc3uPQ?t=1885) · [36:52](https://youtu.be/O4OkDuc3uPQ?t=2212) · [38:52](https://youtu.be/O4OkDuc3uPQ?t=2332) · [41:22](https://youtu.be/O4OkDuc3uPQ?t=2482) · [53:52](https://youtu.be/O4OkDuc3uPQ?t=3232) · [56:24](https://youtu.be/O4OkDuc3uPQ?t=3384) · [1:04:52](https://youtu.be/O4OkDuc3uPQ?t=3892) · [1:08:25](https://youtu.be/O4OkDuc3uPQ?t=4105)
 - **Taxonomía de las criaturas malignas** — chunks: [28:57](https://youtu.be/rG_et1_G7Hs?t=1737)
 - **Inteligencia Real e Inteligencia Artificial** — chunks: [10:37](https://youtu.be/9jU8stBu6p0?t=637) · [1:33:26](https://youtu.be/9jU8stBu6p0?t=5606)
-- **Análisis arquetípico de Unicorn wars** — chunks: [20:20](https://youtu.be/fLfEbHPJNmU?t=1220)
-- **El Gólem de Cobre** — chunks: [39:23](https://youtu.be/e3Aj775Rlw4?t=2363)
 
