@@ -142,6 +142,11 @@ CREATE TABLE relations (
     weight        TEXT,
     PRIMARY KEY (project_id, from_page_id, type, to_page_id),
     FOREIGN KEY (project_id, from_page_id) REFERENCES pages(project_id, page_id) ON DELETE CASCADE
+    -- Nota intencional: NO hay FK sobre (project_id, to_page_id). Las relations pueden
+    -- apuntar a páginas todavía NO compiladas (e.g. mito-lunar, peter-pan-1953-film):
+    -- es el mecanismo que usa el validador para señalar "wikilinks rotos = candidatos
+    -- a próximo batch". Si añadiéramos FK destruiríamos esa señal. Las relations
+    -- dangling se reportan vía query, no por integridad referencial.
 );
 CREATE INDEX idx_relations_to   ON relations(project_id, to_page_id);
 CREATE INDEX idx_relations_type ON relations(type);
@@ -158,16 +163,18 @@ CREATE INDEX idx_body_wikilinks_target ON body_wikilinks(project_id, target_page
 CREATE TABLE citations (
     project_id        TEXT NOT NULL,
     page_id           TEXT NOT NULL,
-    video_id          TEXT NOT NULL,                -- conserva nombre por compat;
-                                                    -- generaliza a source_id en spec workers
-    timestamp_seconds INTEGER NOT NULL DEFAULT 0,
+    source_id         TEXT NOT NULL,                -- antes 'video_id'; renombrado
+                                                    -- para acomodar paper DOI, web URL hash,
+                                                    -- PDF fingerprint, etc.
+    timestamp_seconds INTEGER NOT NULL DEFAULT 0,   -- segundos para youtube;
+                                                    -- 0 o offset para otros tipos
     title             TEXT,
     url               TEXT NOT NULL,
-    PRIMARY KEY (project_id, page_id, video_id, timestamp_seconds),
+    PRIMARY KEY (project_id, page_id, source_id, timestamp_seconds),
     FOREIGN KEY (project_id, page_id) REFERENCES pages(project_id, page_id) ON DELETE CASCADE
 );
-CREATE INDEX idx_citations_video ON citations(video_id);
--- Permite citation lookup cross-project: SELECT page_id, project_id FROM citations WHERE video_id=?
+CREATE INDEX idx_citations_source ON citations(source_id);
+-- Permite citation lookup cross-project: SELECT page_id, project_id FROM citations WHERE source_id=?
 
 -- Relation types: core globales (project_id=NULL) + extensions per-proyecto
 CREATE TABLE relation_types_canonical (
@@ -209,6 +216,55 @@ Filter(must=[Filter(should=[
 
 # Cross-all: sin filtro project_id
 ```
+
+### 4.2.1 FSM completo de `research_queue.status`
+
+```
+              add_to_research_queue
+                       │
+                       ▼
+                   ┌─────────┐
+                   │ pending │◀─────┐
+                   └─────────┘      │
+                       │            │ retry (worker, retry_count < max_retries)
+        worker acquires│            │
+        (UPDATE..RETURNING)         │
+                       ▼            │
+                  ┌────────────┐    │
+                  │ processing │    │
+                  └────────────┘    │
+                       │            │
+       ┌───────────────┼────────────┼──────────┐
+       │               │            │          │
+       ▼               ▼            ▼          ▼
+   ┌──────┐        ┌────────┐   ┌────────┐  ┌───────────┐
+   │ done │        │ failed │   │ failed │  │ cancelled │
+   └──────┘        │ retry  │──▶│  perm  │  └───────────┘
+                   │ count< │   │ count= │
+                   │ max    │   │ max    │
+                   └────────┘   └────────┘
+
+cancel_request(id):  pending → cancelled  ✓
+                     failed  → cancelled  ✓ (descarta del retry pool)
+                     processing → cancelled  ✗ (no-op, deja al worker terminar)
+                     done/cancelled → cancelled  ✗ (no-op, ya terminal)
+```
+
+**Reglas de transición**:
+
+- `pending → processing`: lock optimista del worker (`UPDATE ... WHERE status='pending' RETURNING *`); `picked_up_at=now()`, `assigned_worker=<wid>`.
+- `processing → done`: worker termina con éxito; `completed_at=now()`, `error_msg=NULL`.
+- `processing → failed`: worker captura excepción; `error_msg=<traceback breve>`, `retry_count++`.
+  - Si `retry_count < max_retries` (default `max_retries=3` constante del worker, no en SQLite): worker mueve a `pending` tras backoff exponencial (60s, 300s, 900s). Resetea `picked_up_at=NULL`, `assigned_worker=NULL`.
+  - Si `retry_count == max_retries`: queda en `failed` permanente. Solo intervención manual o `cancel_request` lo saca.
+- `pending → cancelled` (por `cancel_request`): pone `completed_at=now()`, `error_msg='cancelled by user: <reason>'`.
+- `failed → cancelled` (por `cancel_request`): mismo efecto; saca el item del retry pool de manera explícita.
+- `processing → cancelled`: **no permitido**. `cancel_request` sobre item processing devuelve `{previous_status: 'processing', current_status: 'processing', message: 'cannot cancel item currently being processed; let it finish or fail naturally'}`. Decisión: cancelar mid-process puede dejar Qdrant/wiki inconsistente; preferimos esperar a que el worker termine.
+- `done | cancelled → *`: terminales. Cualquier `cancel_request` o intento de transición es no-op idempotente.
+
+**`max_retries` no se versiona en SQLite** (es constante de los workers, no del modelo de datos). Si en el futuro queremos retry policies per-proyecto, se añade columna `max_retries_override` a `projects`. YAGNI hoy.
+
+**Retry manual**: NO existe tool MCP `retry_request` en el MVP. Si un usuario quiere reintentar un `failed perm`, manualmente actualiza SQLite: `UPDATE research_queue SET status='pending', retry_count=0 WHERE request_id=?`. La complejidad de exponer una tool conversacional para esto no se justifica en MVP.
 
 ### 4.3 Modelo de chunk genérico
 
@@ -276,13 +332,18 @@ Cuando un proyecto necesita configuración editorial distinta del default, crea 
 ```
 projects/<slug>/
 ├── _meta/
-│   ├── relation_types_ext.json    # {} vacío (expectativa común)
+│   ├── relation_types_ext.json    # {"types": []} (expectativa común)
 │   ├── INDEX.md                    # placeholder con nombre del proyecto
 │   └── extraction_runs/            # directorio vacío
 └── wiki/                            # directorio vacío
-                                     # subdirs concepts/, authors/, etc. se crean
-                                     # cuando aparezca la primera page de ese tipo
+    ├── concepts/                   # subdirs creados también por create_project,
+    ├── authors/                    # con .gitkeep dentro para versionarse.
+    ├── entities/                   # Permite que git pueda registrar el proyecto
+    │   └── works/                  # sin pages compiladas todavía.
+    └── synthesis/
 ```
+
+Decisión: `create_project` crea los subdirs (`concepts/`, `authors/`, etc.) **vacíos con `.gitkeep`** desde el primer momento. Alternativa "crear cuando aparezca la primera page" rechazada porque (a) acopla `create_project` a saber qué tipos hay, (b) un proyecto recién creado debe poder commiteárse aunque esté vacío, (c) la consistencia es valiosa para que `validate_wiki_relations` no tenga edge case "subdir no existe todavía".
 
 Cero copia de archivos editoriales por defecto. Si el usuario invoca `create_project(seed_from_templates=True)`, entonces sí se copian los `*_default.*` a `projects/<slug>/_meta/*.*` como punto de partida editable.
 
@@ -307,8 +368,13 @@ def create_project(
 
     inherit_from='proxy': copia los archivos de otro proyecto como punto de partida.
 
+    seed_from_templates + inherit_from son **mutuamente excluyentes**.
+    Si ambos se pasan (True + non-None), devuelve error INCOMPATIBLE_OPTIONS
+    sin crear nada. Lógica: cada uno define un "padre" distinto del que copiar;
+    elegir uno explícitamente evita ambigüedad.
+
     Devuelve: {project_id, paths_created, message}
-    Errores: SLUG_INVALID, SLUG_DUPLICATE, INHERIT_FROM_NOT_FOUND
+    Errores: SLUG_INVALID, SLUG_DUPLICATE, INHERIT_FROM_NOT_FOUND, INCOMPATIBLE_OPTIONS
     """
 
 @mcp.tool
@@ -381,7 +447,10 @@ def get_wiki_page(
     project: str | None = None,                    # ← nuevo
 ) -> dict:
     """project=None: busca page_id cross-all. Si aparece en varios proyectos,
-    devuelve el más antiguo + metadata.projects_with_this_id con todos.
+    desempata por `pages.indexed_at` ascendente (el más antiguo gana) y devuelve
+    además metadata.projects_with_this_id: list[str] con todos los proyectos
+    que tienen ese page_id, ordenados por indexed_at. El agente Mattermost
+    puede pedir explícitamente cada uno con un get_wiki_page subsecuente.
     project='proxy': solo busca en Proxy. Error WIKI_PAGE_NOT_FOUND si no existe."""
 ```
 
@@ -409,7 +478,13 @@ def detect_source_type(url: str) -> str:
     return 'unknown'
 ```
 
-El worker que procese puede sobrescribir `source_type` si su análisis más profundo discrepa (ej. URL web que redirige a un PDF).
+**Política de precedencia caller vs detector**:
+
+- `source_type=None` (omitido por caller) → MCP aplica `detect_source_type(url)` y guarda el resultado.
+- `source_type=<valor>` explícito → MCP **respeta al caller sin warning**, aunque difiera del detector. Filosofía: el caller (LLM agente con contexto de la conversación) sabe más que el sniffer regex.
+- El **worker** que procesa el item PUEDE sobrescribir `source_type` en SQLite si su análisis más profundo discrepa (ej. URL web que redirige a un PDF, o un PDF que resulta ser slides en vez de paper). El override del worker registra evento en `error_msg` o `metadata` para audit trail, no devuelve error.
+
+Esto resuelve el caso "explicit-disagrees-with-detector" deterministicamente: caller manda en write-time; worker manda en process-time.
 
 ## 7. Resolución de configuración runtime
 
@@ -456,24 +531,37 @@ Al iniciar el MCP server (y al recibir `reload_config` si se implementa en Fase 
 
 ```python
 def reload_relation_types(db: sqlite3.Connection):
-    db.execute("DELETE FROM relation_types_canonical")
-    core = json.load(open("wiki/_meta/relation_types_core.json"))
-    core_type_names = {t["type"] for t in core["types"]}
-    for t in core["types"]:
-        db.execute("INSERT INTO relation_types_canonical(project_id, type, ...) VALUES (NULL, ?, ...)", ...)
-    for project_id in list_active_projects(db):
-        ext_path = Path(f"projects/{project_id}/_meta/relation_types_ext.json")
-        if not ext_path.exists():
-            continue
-        ext = json.load(ext_path.open())
-        for t in ext.get("types", []):
-            if t["type"] in core_type_names:
-                raise ConfigError(
-                    f"Project {project_id} declares ext type '{t['type']}' "
-                    f"that collides with core. Rename or remove."
+    # Transacción atómica: si algo falla, la tabla queda con el estado anterior intacto.
+    # Evita ventana donde otros procesos lean tabla vacía.
+    with db:  # implicit BEGIN ... COMMIT/ROLLBACK
+        db.execute("DELETE FROM relation_types_canonical")
+        core = json.load(open("wiki/_meta/relation_types_core.json"))
+        core_type_names = {t["type"] for t in core["types"]}
+        for t in core["types"]:
+            db.execute(
+                "INSERT INTO relation_types_canonical(project_id, type, description, "
+                "inverse, from_types_csv, to_types_csv) VALUES (NULL, ?, ?, ?, ?, ?)",
+                (t["type"], t.get("description"), t.get("inverse"),
+                 ",".join(t.get("from", [])), ",".join(t.get("to", []))),
+            )
+        for project_id in list_active_projects(db):
+            ext_path = Path(f"projects/{project_id}/_meta/relation_types_ext.json")
+            if not ext_path.exists():
+                continue
+            ext = json.load(ext_path.open())
+            for t in ext.get("types", []):
+                if t["type"] in core_type_names:
+                    raise ConfigError(
+                        f"Project {project_id} declares ext type '{t['type']}' "
+                        f"that collides with core. Rename or remove."
+                    )
+                db.execute(
+                    "INSERT INTO relation_types_canonical(...) VALUES (?, ?, ...)",
+                    (project_id, t["type"], ...),
                 )
-            db.execute("INSERT ... VALUES (?, ?, ...)", project_id, ...)
 ```
+
+La transacción explícita previene que otros procesos (workers leyendo el grafo) vean tabla vacía durante el reload. Con WAL mode + transaction, los readers ven la tabla pre-DELETE hasta que el commit es atómico.
 
 ### 7.4 `ariadna/policy_filters.py` actualizado
 
@@ -533,24 +621,63 @@ Pasos:
 7. **Extraer subagent_prompt de extract_video_themes.py**:
    Copia `SUBAGENT_SYSTEM_PROMPT` y `SUBAGENT_SYNTHESIS_SYSTEM_PROMPT` a `projects/proxy/_meta/subagent_prompt.md` (con metadata YAML al inicio: `kind: concept_author_entity_work` y `kind: synthesis`)
 8. **Crear `projects/proxy/_meta/relation_types_ext.json` = `{"types": []}`**
-9. **Mover SQLite por-proyecto** (transitorio — la BBDD global lo absorbe en paso 11):
-   ```bash
-   git mv data/wiki.db projects/proxy/data/wiki.db
-   # luego este archivo se ELIMINA al final, su contenido se vuelca a data/ariadna.db
-   ```
-10. **Crear `data/ariadna.db`** con schema completo de sección 4.1
-11. **Migrar contenido de `projects/proxy/data/wiki.db` → `data/ariadna.db`**:
-    Para cada tabla (pages, aliases, relations, body_wikilinks, citations) hace
-    `INSERT INTO data/ariadna.db.<tabla> SELECT 'proxy' as project_id, * FROM wiki.db.<tabla>`.
-    Después elimina `projects/proxy/data/` (transitorio).
-12. **INSERT INTO projects** la fila Proxy:
+9. **Crear `data/ariadna.db`** con schema completo de sección 4.1 (incluye `journal_mode=WAL`).
+10. **INSERT INTO projects** la fila Proxy antes de migrar contenido (las FKs lo exigen):
     ```sql
     INSERT INTO projects(project_id, name, description, created_at)
     VALUES ('proxy', 'Proxy YouTube corpus',
             'Canal YouTube de Proxy: análisis arquetípico, mitología, psicología junguiana',
-            '<original_creation_date_or_now>');
+            '<read from existing wiki.db indexed_at MIN, fallback to now()>');
     ```
-13. **Backfill Qdrant**: `scripts/migrate_qdrant_project_id.py` itera la colección y hace `set_payload({project_id: "proxy"})` a cada uno de los 6442 puntos. Idempotente. Tarda minutos.
+11. **Migrar contenido `data/wiki.db` → `data/ariadna.db` vía ATTACH** con columnas explícitas por tabla (script `scripts/migrate_wiki_db_to_global.py`):
+    ```sql
+    ATTACH DATABASE 'data/wiki.db' AS old;
+
+    -- pages: añade project_id='proxy' como primera columna; resto idéntico
+    INSERT INTO pages (project_id, page_id, page_type, canonical_name, domain_primary,
+                       file_path, last_compiled, sources_count, review_status,
+                       body_md, indexed_at)
+    SELECT 'proxy', page_id, page_type, canonical_name, domain_primary,
+           file_path, last_compiled, sources_count, review_status,
+           body_md, indexed_at
+    FROM old.pages;
+
+    -- aliases: hoy tiene (page_id, alias); nuevo tiene (project_id, page_id, alias)
+    INSERT INTO aliases (project_id, page_id, alias)
+    SELECT 'proxy', page_id, alias FROM old.aliases;
+
+    -- relations: hoy (from_page_id, type, to_page_id, note, weight)
+    INSERT INTO relations (project_id, from_page_id, type, to_page_id, note, weight)
+    SELECT 'proxy', from_page_id, type, to_page_id, note, weight FROM old.relations;
+
+    -- body_wikilinks: hoy (page_id, target_page_id)
+    INSERT INTO body_wikilinks (project_id, page_id, target_page_id)
+    SELECT 'proxy', page_id, target_page_id FROM old.body_wikilinks;
+
+    -- citations: hoy (page_id, video_id, timestamp_seconds, title, url) → renombramos
+    -- video_id a source_id en el nuevo schema (ver sección 4.1 nota citations)
+    INSERT INTO citations (project_id, page_id, source_id, timestamp_seconds, title, url)
+    SELECT 'proxy', page_id, video_id, timestamp_seconds, title, url FROM old.citations;
+
+    -- relation_types_canonical (core): a partir de wiki/_meta/relation_types_core.json
+    -- (no se migra desde old.relation_types_canonical para garantizar consistencia
+    -- con el archivo JSON, que es la fuente de verdad)
+    -- Se rellena en startup del MCP server, no en migración.
+
+    DETACH DATABASE old;
+    ```
+    Tras verificación de conteos (pages_count, citations_count, etc. coinciden con `wiki.db` originales), elimina `data/wiki.db` original (`git rm`).
+12. **Backfill Qdrant**: `scripts/migrate_qdrant_project_id.py` itera la colección y hace `set_payload({project_id: "proxy"})` a cada punto que **NO** tenga ya `project_id`. Resume-safe vía:
+    ```python
+    # Scroll filtrando puntos SIN project_id (resume si script murió a mitad)
+    res = client.scroll(
+        collection_name="ariadna_corpus",
+        scroll_filter=Filter(must=[IsEmptyCondition(is_empty=PayloadField(key="project_id"))]),
+        limit=500, with_payload=False, with_vectors=False,
+    )
+    # set_payload por batch hasta agotar
+    ```
+    Idempotente por construcción. ~6442 puntos en minutos.
 14. **Actualizar paths hardcoded** en archivos Python (ver tabla 8.2)
 15. **Crear módulo `ariadna/project_config.py`** (sección 7.1)
 16. **Eliminar tools `get_video_summary` y `list_videos`** de `ariadna/mcp_server.py` + helper `CorpusStore.list_videos()` de `ariadna/storage.py`
@@ -577,37 +704,59 @@ Cualquier estado intermedio rompe el sistema, por eso es un solo commit grande. 
 
 **Criterio binario**: el sistema **debe seguir funcionando idénticamente** desde la perspectiva del agente Mattermost.
 
-- [ ] `search_corpus(query="sombra")` sin `project` devuelve los mismos resultados que antes
-- [ ] `search_corpus(query="sombra", project="proxy")` devuelve los mismos resultados
-- [ ] `search_corpus(query="sombra", project="non_existent")` devuelve `error: PROJECT_NOT_FOUND`
-- [ ] `get_wiki_page("shadow-archetype", project="proxy")` devuelve la página
-- [ ] `get_wiki_page("shadow-archetype")` (sin project) idem
-- [ ] `scripts/test_hybrid.py` pasa todos los checks (5/5 verde)
-- [ ] `data/ariadna.db` contiene 1 proyecto (`proxy`) con todas sus pages/relations/citations
-- [ ] Todos los puntos Qdrant tienen `project_id="proxy"`
-- [ ] `wiki/_meta/relation_types_core.json` contiene los 30 tipos canónicos actuales
-- [ ] `wiki/_meta/*_default.*` existen y son editables (texto genérico, suficiente para que un proyecto nuevo opere)
-- [ ] Validador `scripts/validate_wiki_relations.py --project=proxy` pasa
-- [ ] El run activo (`pilot_sonnet_20260509`) puede continuar via `--resume` tras la migración (los paths cambiaron, pero el script ahora apunta a la nueva ubicación)
-- [ ] `build_wiki_db.py --project=proxy` reconstruye el subset de SQLite de Proxy en <2s
+**Baseline pre-migración** (capturado antes de tocar nada por `scripts/capture_baseline.py`):
+
+- Lista de N=10 queries canónicas (`["sombra junguiana", "mito polar", "Tolkien", "hieros gamos", ...]`).
+- Para cada query, hace `search_corpus(query=q, top_k=5, top_k_wiki=2)` y serializa a JSON los `chunk_ids`, `page_ids`, scores cosine, mode_recommended.
+- Archivo `data/baseline_pre_migration.json` versionado en git para comparación posterior.
+
+**Checks ejecutables post-migración** (`scripts/verify_phase1.py` los ejecuta secuencialmente, exit 0 si todos pasan):
+
+- [ ] **Igualdad funcional**: ejecuta las mismas 10 queries y compara contra `data/baseline_pre_migration.json`. Pass si: mismo conjunto de `chunk_ids` en top-5 (orden puede variar levemente por re-vectorización), todas las queries devuelven al menos 1 `wiki_page` si lo hacían antes, ningún `mode_recommended` cambia entre `wiki_dominant`/`balanced`/`raw_with_warning`. Documentar tolerancia: scores cosine pueden diferir hasta ±0.01.
+- [ ] **Filtro por proyecto**: `search_corpus(query="sombra", project="proxy")` devuelve idéntico resultado a `search_corpus(query="sombra")` (todos los puntos son `proxy`, filtro es no-op).
+- [ ] **Proyecto inexistente**: `search_corpus(query="X", project="non_existent")` devuelve `{"error": "PROJECT_NOT_FOUND", "code": "PROJECT_NOT_FOUND"}`. Verificado con curl al endpoint MCP.
+- [ ] **get_wiki_page**: `get_wiki_page("shadow-archetype", project="proxy")` y `get_wiki_page("shadow-archetype")` devuelven mismo `body_md`. Verificado por hash.
+- [ ] **Smoke test existente**: `python scripts/test_hybrid.py` exit 0 (5/5 verde).
+- [ ] **SQLite count**: `SELECT COUNT(*) FROM projects` = 1; `SELECT COUNT(*) FROM pages WHERE project_id='proxy'` = conteo pre-migración del `wiki.db` original (capturado en baseline).
+- [ ] **Qdrant tagged**: `client.count(filter=Filter(must_not=[IsEmptyCondition(is_empty=PayloadField(key='project_id'))]))` = `client.count()` (todos los puntos tienen `project_id`).
+- [ ] **Recursos globales**: `ls wiki/_meta/` muestra `relation_types_core.json` + 4 archivos `*_default.*`. Lectura del `relation_types_core.json` da exactamente 30 tipos (los actuales).
+- [ ] **Run activo resume**: tras parar el run actual y migrar, `python scripts/extract_video_themes.py --resume pilot_sonnet_20260509 --project=proxy --dry-run` discovera los 178 vídeos del run, reconoce `done=N` desde `projects/proxy/_meta/extraction_runs/pilot_sonnet_20260509/state.json`, y sale sin error.
+- [ ] **Rebuild scoped**: `python scripts/build_wiki_db.py --project=proxy` reconstruye el subset SQLite de Proxy en <5s (los 183+ páginas), termina con `relations=1102` igual que pre-migración.
+- [ ] **Validador**: `python scripts/validate_wiki_relations.py --project=proxy` exit 0.
+
+Notas operativas:
+
+- El script `scripts/capture_baseline.py` se escribe **antes** de hacer la migración (esa es la primera task del plan de implementación).
+- El script `scripts/validate_wiki_relations.py` ya existe en el repo y se adapta en la migración para aceptar `--project`.
 
 ### Fase 2 — Tools MCP de cola (sin workers)
 
 **Criterio binario**: la cola es operacional desde Mattermost; los items se acumulan pero no se procesan (es esperado, los workers son fase futura).
 
-- [ ] `create_project(slug="test_e", name="Test E")` crea estructura mínima en filesystem + fila en `projects`
-- [ ] `create_project(slug="test_e", ...)` con duplicado devuelve `SLUG_DUPLICATE`
-- [ ] `create_project(slug="proxy-2", seed_from_templates=True)` copia los 4 archivos default a `projects/proxy-2/_meta/*.*` (sin sufijo `_default`)
-- [ ] `create_project(slug="proxy-clone", inherit_from="proxy")` copia los overrides de Proxy
-- [ ] `add_to_research_queue(project="proxy", source_url="https://youtu.be/X")` inserta fila pending con `source_type='youtube'`
-- [ ] `add_to_research_queue(project="proxy", source_url="https://arxiv.org/abs/Y")` → `source_type='paper'`
-- [ ] `add_to_research_queue` duplicada (misma project+url, pending) devuelve `was_duplicate=True`
-- [ ] `list_research_queue(project="proxy", status="pending")` devuelve los items
-- [ ] `list_research_queue(project=None)` cross-all
-- [ ] `cancel_request(request_id=X)` cambia status a `cancelled`, no actúa si ya está `processing`/`done`
-- [ ] `list_projects()` devuelve los proyectos con conteos derivados (n_pages, n_chunks, n_queue_pending)
-- [ ] Validación de slug rechaza `Test_E`, `TEST`, `test e`, `123-test`
-- [ ] El system prompt de Ariadna en Mattermost se actualiza para mencionar las nuevas tools
+**Checks ejecutables** (`scripts/verify_phase2.py`):
+
+- [ ] `create_project(slug="test_e", name="Test E")` devuelve `{project_id: "test_e", paths_created: [...]}`. Verificable: `ls projects/test_e/_meta/` muestra `relation_types_ext.json`, `INDEX.md`, `extraction_runs/`; `ls projects/test_e/wiki/` muestra subdirs `concepts/ authors/ entities/works/ entities/institutions/ synthesis/` con `.gitkeep`.
+- [ ] `create_project(slug="test_e", ...)` repetido devuelve `{"error": "...", "code": "SLUG_DUPLICATE"}`.
+- [ ] `create_project(slug="Test_E", ...)` devuelve `code: "SLUG_INVALID"`. Idem `TEST`, `test e`, `-test`, `123abc`, `test--`.
+- [ ] `create_project(slug="test_combo", seed_from_templates=True, inherit_from="proxy")` devuelve `code: "INCOMPATIBLE_OPTIONS"`. Cero estado creado.
+- [ ] `create_project(slug="test_templates", seed_from_templates=True)` crea `projects/test_templates/_meta/{scope.md, topic_filters.json, subagent_prompt.md, canonical_whitelist.json}` con contenido idéntico (byte-a-byte) a `wiki/_meta/*_default.*`.
+- [ ] `create_project(slug="test_inherit", inherit_from="proxy")` crea archivos en `projects/test_inherit/_meta/` con contenido idéntico a `projects/proxy/_meta/*` (los overrides de Proxy).
+- [ ] `add_to_research_queue(project="proxy", source_url="https://youtu.be/dQw4w9WgXcQ")` devuelve `{request_id: <uuid>, detected_source_type: "youtube", status: "pending", was_duplicate: false}`.
+- [ ] `add_to_research_queue(project="proxy", source_url="https://arxiv.org/abs/2301.00001")` devuelve `detected_source_type: "paper"`.
+- [ ] `add_to_research_queue(project="proxy", source_url="https://example.com/doc.pdf")` → `pdf`.
+- [ ] `add_to_research_queue(project="proxy", source_url="https://example.com/")` → `web`.
+- [ ] `add_to_research_queue(project="proxy", source_url="not-a-url")` → `unknown`.
+- [ ] Llamada duplicada (misma project+url, pending) devuelve `was_duplicate: true` con el mismo `request_id`.
+- [ ] `add_to_research_queue(project="proxy", source_url="https://x.com", source_type="youtube")` respeta al caller: guarda `source_type='youtube'` sin warning aunque el detector hubiera dicho `web`.
+- [ ] `list_research_queue(project="proxy", status="pending")` devuelve los items insertados; `total_matching` coincide con `COUNT(*)`.
+- [ ] `list_research_queue(project=None, status="all")` devuelve todos cross-project.
+- [ ] `list_research_queue(status="invalid_status")` devuelve `code: "INVALID_STATUS"`.
+- [ ] `cancel_request(request_id=<pending>)` → `previous_status: "pending", current_status: "cancelled"`. Verificable via `SELECT status FROM research_queue WHERE request_id=?`.
+- [ ] `cancel_request(request_id=<cancelled>)` → no-op idempotente, `previous_status == current_status == "cancelled"`.
+- [ ] `cancel_request(request_id=<inexistente>)` → `code: "REQUEST_NOT_FOUND"`.
+- [ ] `list_projects()` devuelve `[{project_id: "proxy", n_pages: 183+, n_chunks: 6259, n_queue_pending: 4}, ...]`. Conteos derivados de queries en vivo, no cacheados.
+- [ ] Tools retiradas: `get_video_summary` y `list_videos` NO aparecen en `tools/list` del MCP. Verificable con curl.
+- [ ] El system prompt de Ariadna en Mattermost se actualiza para mencionar las nuevas tools (out-of-CI; checklist manual post-deploy con runbook).
 
 ### 9.1 Out of scope (specs futuras)
 
@@ -616,6 +765,9 @@ Cualquier estado intermedio rompe el sistema, por eso es un solo commit grande. 
 - Tool conversacional `customize_project_scope` → si demanda real → spec
 - `delete_project` con UI confirmación → si demanda → spec
 - Hot-reload tool MCP (`reload_config`) → si demanda → spec
+- Tool `archive_project(slug, reason)` que setea `archived_at` → si demanda → spec menor
+
+**Nota sobre `archived_at`**: la columna existe en `projects` desde Fase 1 (sección 4.1) para no requerir ALTER TABLE futuro. En MVP nadie la setea ni la lee — es campo reservado. `list_projects(include_archived=False)` por default filtra `WHERE archived_at IS NULL`; con `include_archived=True` los muestra. Esto deja la puerta abierta sin comprometer alcance.
 
 ## 10. Riesgos y mitigaciones
 
@@ -626,8 +778,10 @@ Cualquier estado intermedio rompe el sistema, por eso es un solo commit grande. 
 | SQLite global lock contention con multi-worker (fase futura) | WAL mode desde Fase 1; multiple readers concurrent; writes son sub-segundo |
 | El agente Mattermost cachea schema viejo de tools | Refresh Tools manual tras deploy (documentado en runbook post-migración) |
 | Extensions de relation_types colisionan con core silenciosamente | Validación explícita en startup del server: `ConfigError` si colisión, refuse to start |
-| Backfill Qdrant tarda más de lo esperado y falla | Idempotente: si falla a mitad, re-ejecutar continúa donde quedó |
+| Backfill Qdrant tarda más de lo esperado y falla | Idempotente vía filter `must_not=[IsEmpty(project_id)]`: re-ejecutar continúa por los puntos sin tag |
+| Backfill Qdrant mid-flight con server/worker escribiendo nuevos puntos | Pre-flight check 1 (server parado) cubre el MCP. Adicional: durante la ventana de migración, NO ejecutar extract_video_themes ni ningún worker. Documentado en runbook: "Durante la migración, todo lo que escribe a Qdrant debe estar parado" |
 | `seed_from_templates` introduce divergencia silenciosa cuando se modifica el default global | `scripts/audit_project_overrides.py` (sección 10.1) detecta copias que no divergen y las marca como ruido |
+| Cliente Mattermost cachea schema viejo de tools tras deploy | Documentar en runbook: "tras deploy, Refresh Tools en Mattermost Agents settings". Tool `get_video_summary` / `list_videos` retiradas devuelven `TOOL_NOT_FOUND` claro hasta refresh |
 
 ### 10.1 Auditor de overrides
 
