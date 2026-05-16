@@ -4594,3 +4594,694 @@ Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 ```
 
 ---
+
+## Chunk 8: Tools MCP modificadas + cleanup
+
+> El último chunk de cambios a producción: modifica `search_corpus` y `get_wiki_page` para aceptar `project`, elimina las tools YouTube-específicas obsoletas (`get_video_summary`, `list_videos`), wire de las 5 tools nuevas escritas en Chunks 6-7, y registra el startup hook `reload_relation_types`. Tras este chunk el server expone el contrato MCP final de Fase 2.
+>
+> **Pre-condición:** Chunks 2-7 completados. `ProjectConfig`, `mcp_tools_write`, `mcp_tools_read` listos. Tests de los _impl pasando.
+
+### Task 8.1: `search_corpus` — añadir parámetro `project` + `projects_seen` en metadata
+
+> El parámetro acepta `str` (filter a un proyecto), `list[str]` (OR-of, ver spec sección 4.2), o `None` (cross-all, default). El Searcher tiene que construir el `Filter` Qdrant dinámicamente y propagar `projects_seen` (set de project_ids vistos en los resultados) en `retrieval_metadata`.
+
+**Files:**
+- Modify: `ariadna/search.py` — añadir parámetro `project` a `search_hybrid()` + payload filter + post-process
+- Modify: `ariadna/mcp_server.py:93-114` — añadir parámetro y propagación
+- Test: `tests/test_search_corpus_project_filter.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_search_corpus_project_filter.py
+"""search_hybrid acepta project: str | list[str] | None y devuelve
+projects_seen en retrieval_metadata."""
+import sqlite3
+import subprocess
+from pathlib import Path
+from unittest.mock import MagicMock, patch
+
+import pytest
+
+
+def test_searcher_search_hybrid_signature_accepts_project():
+    from ariadna.search import Searcher
+    import inspect
+    sig = inspect.signature(Searcher.search_hybrid)
+    assert "project" in sig.parameters
+    p = sig.parameters["project"]
+    assert p.default is None
+
+
+def test_searcher_builds_qdrant_filter_with_project_str():
+    """Verifica que pasando project='proxy' se construye un Filter con
+    must=[FieldCondition(project_id=proxy)]."""
+    from ariadna.search import _build_project_filter
+    flt = _build_project_filter("proxy")
+    assert flt is not None
+    assert len(flt.must) == 1
+    cond = flt.must[0]
+    assert cond.key == "project_id"
+    assert cond.match.value == "proxy"
+
+
+def test_searcher_builds_qdrant_filter_with_project_list():
+    from ariadna.search import _build_project_filter
+    flt = _build_project_filter(["proxy", "tesis"])
+    # OR-of: must=[Filter(should=[...])]
+    assert flt is not None
+    inner = flt.must[0]
+    assert len(inner.should) == 2
+    assert {c.match.value for c in inner.should} == {"proxy", "tesis"}
+
+
+def test_searcher_returns_none_filter_when_project_none():
+    from ariadna.search import _build_project_filter
+    assert _build_project_filter(None) is None
+
+
+def test_projects_seen_collected_from_results():
+    """Tras un hybrid search, retrieval_metadata.projects_seen es la unión
+    de project_id de raw_chunks ∪ wiki_pages."""
+    from ariadna.search import _collect_projects_seen
+    raw_chunks = [{"project_id": "proxy"}, {"project_id": "tesis"}]
+    wiki_pages = [{"project_id": "proxy"}]
+    seen = _collect_projects_seen(raw_chunks, wiki_pages)
+    assert seen == ["proxy", "tesis"]   # sorted
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_search_corpus_project_filter.py -v
+# Expected: ImportError (_build_project_filter / _collect_projects_seen no existen)
+```
+
+- [ ] **Step 3: Apply edits to `ariadna/search.py`**
+
+1. **Imports**: añadir `FieldCondition`, `Filter`, `MatchValue` si no están ya.
+
+2. **Helpers nuevos** (top-level del módulo):
+   ```python
+   def _build_project_filter(project: str | list[str] | None) -> Filter | None:
+       """Spec 4.2: str → must, list → must=[Filter(should=...)], None → no filter."""
+       if project is None:
+           return None
+       if isinstance(project, str):
+           return Filter(must=[FieldCondition(key="project_id",
+                                              match=MatchValue(value=project))])
+       if isinstance(project, list) and project:
+           return Filter(must=[Filter(should=[
+               FieldCondition(key="project_id", match=MatchValue(value=p))
+               for p in project
+           ])])
+       return None  # list vacía → equivalente a None
+
+   def _collect_projects_seen(raw_chunks: list[dict], wiki_pages: list[dict]) -> list[str]:
+       seen: set[str] = set()
+       for it in raw_chunks:
+           if it.get("project_id"):
+               seen.add(it["project_id"])
+       for it in wiki_pages:
+           if it.get("project_id"):
+               seen.add(it["project_id"])
+       return sorted(seen)
+   ```
+
+3. **`Searcher.search_hybrid` signature**: añadir `project: str | list[str] | None = None` como nuevo kwarg.
+
+4. **Aplicar el filtro Qdrant**: el método `self.store.search(query_vec, top_k=..., filters={...})` tiene que aceptar el filtro de proyecto. Hay dos rutas:
+   - (a) Extender `CorpusStore.search` para que acepte un `must_filter: Filter | None` adicional combinable con los demás filtros.
+   - (b) Construir el filtro en `search_hybrid` con un mini-helper y pasarlo al call de scroll/search via filter combinator.
+
+   **Opción (a) es más limpia.** En `ariadna/storage.py:search()` (línea ~ donde construye `must=[...]`):
+   ```python
+   def search(self, query_vec, top_k, filters=None, must_not_filters=None,
+              exclude_field_present=None, extra_must_filter: Filter | None = None):
+       ...
+       qdrant_filter = Filter(must=must, ...)
+       if extra_must_filter is not None:
+           # merge: añade los must del extra al must existente
+           qdrant_filter.must = list(qdrant_filter.must or []) + list(extra_must_filter.must or [])
+       ...
+   ```
+
+   En `search_hybrid()`:
+   ```python
+   project_filter = _build_project_filter(project)
+   raw_results_dense = self.store.search(
+       query_vec, top_k=prefetch_k, filters=raw_filters,
+       must_not_filters={"source_type": "wiki_page"},
+       exclude_field_present=exclude_pf,
+       extra_must_filter=project_filter,
+   )
+   wiki_results = self.store.search(
+       query_vec, top_k=top_k_wiki,
+       filters={"source_type": "wiki_page"},
+       extra_must_filter=project_filter,
+   )
+   ```
+
+5. **`retrieval_metadata.projects_seen`**: en la construcción del dict de retorno de `search_hybrid`, después de tener `raw_chunks` y `wiki_pages` finales:
+   ```python
+   meta["projects_seen"] = _collect_projects_seen(raw_chunks, wiki_pages)
+   ```
+
+- [ ] **Step 4: Apply edits to `ariadna/mcp_server.py`** (tool `search_corpus`)
+
+```python
+@mcp.tool(name="search_corpus", description=...)
+def search_corpus(
+    query: str,
+    top_k: int = 5,
+    top_k_wiki: int = 2,
+    project: str | list[str] | None = None,    # ← nuevo
+    category: str | None = None,
+    playlist: str | None = None,
+    include_filtered: bool = False,
+) -> dict[str, Any]:
+    """..."""
+    # Validar project si se pasó: existe en SQLite?
+    if project is not None:
+        from ariadna.project_config import ProjectConfig, ProjectNotFoundError
+        slugs = [project] if isinstance(project, str) else list(project)
+        for s in slugs:
+            try:
+                ProjectConfig.for_project(s)
+            except ProjectNotFoundError:
+                return {"error": f"project {s!r} not found", "code": "PROJECT_NOT_FOUND"}
+
+    searcher = get_searcher()
+    return searcher.search_hybrid(
+        query, top_k_raw=top_k, top_k_wiki=top_k_wiki,
+        project=project,
+        category=category, playlist=playlist,
+        include_filtered=include_filtered,
+    )
+```
+
+Y actualizar la `description` del tool (string) para mencionar el nuevo parámetro `project`.
+
+- [ ] **Step 5: Run tests**
+
+```bash
+.venv/bin/python -m pytest tests/test_search_corpus_project_filter.py -v
+# Expected: 5 passed
+```
+
+- [ ] **Step 6: Commit**
+
+```bash
+git add ariadna/search.py ariadna/storage.py ariadna/mcp_server.py tests/test_search_corpus_project_filter.py
+git commit -m "feat(mcp): search_corpus acepta project + projects_seen en metadata
+
+Searcher.search_hybrid gana param project: str|list[str]|None (cross-all,
+único, o OR-of). CorpusStore.search acepta extra_must_filter para combinar
+con los filtros existentes. retrieval_metadata.projects_seen lista los
+project_ids vistos en raw_chunks ∪ wiki_pages. mcp_server valida que el
+slug existe antes de delegar (PROJECT_NOT_FOUND).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 8.2: `get_wiki_page` — `project` + tiebreak `indexed_at` ASC + `projects_with_this_id`
+
+> Spec sección 6.3: `project=None` busca cross-all; si `page_id` aparece en varios proyectos, desempata por `indexed_at` ASC (el más antiguo gana) y devuelve `metadata.projects_with_this_id`. `project='proxy'` solo busca en Proxy (error si no existe).
+
+**Files:**
+- Modify: `ariadna/mcp_server.py:129-143` (tool body)
+- Test: `tests/test_get_wiki_page_project.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_get_wiki_page_project.py
+"""get_wiki_page acepta project; cross-all desempata por indexed_at ASC."""
+import sqlite3
+import subprocess
+from pathlib import Path
+
+import pytest
+
+
+@pytest.fixture
+def db_with_two_pages_same_id(tmp_path):
+    db = tmp_path / "ariadna.db"
+    repo_root = Path(__file__).resolve().parent.parent
+    subprocess.run(
+        [str(repo_root / ".venv/bin/python"),
+         str(repo_root / "scripts/init_ariadna_db.py"),
+         "--db", str(db)],
+        check=True, capture_output=True, timeout=30,
+    )
+    conn = sqlite3.connect(str(db))
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00')")
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('tesis', 'Tesis', '2026-05-16T00:00:00+00:00')")
+    # Misma page_id 'shadow' en ambos proyectos. proxy es más viejo:
+    conn.execute(
+        "INSERT INTO pages(project_id, page_id, page_type, canonical_name, "
+        "file_path, body_md, indexed_at) VALUES "
+        "('proxy', 'shadow', 'concept', 'Sombra Jung', 'concepts/shadow.md', "
+        "'# Sombra Jung\\nbody from proxy', '2026-05-16T01:00:00+00:00')"
+    )
+    conn.execute(
+        "INSERT INTO pages(project_id, page_id, page_type, canonical_name, "
+        "file_path, body_md, indexed_at) VALUES "
+        "('tesis', 'shadow', 'concept', 'Sombra tesis', 'concepts/shadow.md', "
+        "'# Sombra tesis\\nbody from tesis', '2026-05-16T02:00:00+00:00')"
+    )
+    conn.commit()
+    return db
+
+
+def test_get_wiki_page_with_explicit_project(db_with_two_pages_same_id):
+    from ariadna.mcp_tools_read import get_wiki_page_impl
+    out = get_wiki_page_impl(db_with_two_pages_same_id, page_id="shadow", project="tesis")
+    assert out["page_id"] == "shadow"
+    assert out["project_id"] == "tesis"
+    assert "body from tesis" in out["body_md"]
+
+
+def test_get_wiki_page_cross_all_picks_oldest(db_with_two_pages_same_id):
+    from ariadna.mcp_tools_read import get_wiki_page_impl
+    out = get_wiki_page_impl(db_with_two_pages_same_id, page_id="shadow", project=None)
+    # proxy es más viejo (01:00 vs 02:00) → gana
+    assert out["project_id"] == "proxy"
+    assert "body from proxy" in out["body_md"]
+    assert out["projects_with_this_id"] == ["proxy", "tesis"]
+
+
+def test_get_wiki_page_not_found(db_with_two_pages_same_id):
+    from ariadna.mcp_tools_read import get_wiki_page_impl
+    out = get_wiki_page_impl(db_with_two_pages_same_id, page_id="ghost", project=None)
+    assert out["code"] == "WIKI_PAGE_NOT_FOUND"
+
+
+def test_get_wiki_page_existing_project_missing_page(db_with_two_pages_same_id):
+    """project existe pero la page no está en ese proyecto."""
+    from ariadna.mcp_tools_read import get_wiki_page_impl
+    out = get_wiki_page_impl(db_with_two_pages_same_id, page_id="ghost", project="proxy")
+    assert out["code"] == "WIKI_PAGE_NOT_FOUND"
+
+
+def test_get_wiki_page_project_not_found(db_with_two_pages_same_id):
+    from ariadna.mcp_tools_read import get_wiki_page_impl
+    out = get_wiki_page_impl(db_with_two_pages_same_id, page_id="shadow",
+                             project="does-not-exist")
+    assert out["code"] == "PROJECT_NOT_FOUND"
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_get_wiki_page_project.py -v
+# Expected: AttributeError get_wiki_page_impl
+```
+
+- [ ] **Step 3: Implement `get_wiki_page_impl` in `ariadna/mcp_tools_read.py`** y wirearla en mcp_server.py
+
+```python
+# ariadna/mcp_tools_read.py
+def get_wiki_page_impl(
+    db_path: "Path",
+    page_id: str,
+    project: str | None = None,
+) -> dict[str, Any]:
+    """Lee una página wiki desde ariadna.db. project=None: cross-all,
+    desempate por indexed_at ASC (más antiguo gana). Devuelve además
+    projects_with_this_id si la page aparece en varios proyectos."""
+    import sqlite3 as _sql
+    conn = _sql.connect(f"file:{db_path}?mode=ro", uri=True)
+    try:
+        # Validar project si se pasó
+        if project is not None:
+            if not conn.execute(
+                "SELECT 1 FROM projects WHERE project_id=?", (project,)
+            ).fetchone():
+                return {"error": f"project {project!r} not found",
+                        "code": "PROJECT_NOT_FOUND"}
+            row = conn.execute(
+                "SELECT project_id, page_id, page_type, canonical_name, "
+                "domain_primary, file_path, body_md, indexed_at "
+                "FROM pages WHERE project_id=? AND page_id=?",
+                (project, page_id),
+            ).fetchone()
+            if row is None:
+                return {
+                    "error": f"page {page_id!r} not found in project {project!r}",
+                    "code": "WIKI_PAGE_NOT_FOUND",
+                }
+            pid, page, ptype, cname, dom, fpath, body, idx = row
+            return {
+                "project_id": pid, "page_id": page, "page_type": ptype,
+                "canonical_name": cname, "domain_primary": dom,
+                "file_path": fpath, "body_md": body, "indexed_at": idx,
+                "projects_with_this_id": [pid],
+            }
+
+        # Cross-all: enumera matches ordenados por indexed_at ASC
+        rows = conn.execute(
+            "SELECT project_id, page_id, page_type, canonical_name, domain_primary, "
+            "file_path, body_md, indexed_at FROM pages WHERE page_id=? "
+            "ORDER BY indexed_at ASC",
+            (page_id,),
+        ).fetchall()
+        if not rows:
+            return {
+                "error": f"page {page_id!r} not found in any project",
+                "code": "WIKI_PAGE_NOT_FOUND",
+            }
+        first = rows[0]
+        all_projects = [r[0] for r in rows]
+        pid, page, ptype, cname, dom, fpath, body, idx = first
+        return {
+            "project_id": pid, "page_id": page, "page_type": ptype,
+            "canonical_name": cname, "domain_primary": dom,
+            "file_path": fpath, "body_md": body, "indexed_at": idx,
+            "projects_with_this_id": all_projects,
+        }
+    finally:
+        conn.close()
+```
+
+Y en `ariadna/mcp_server.py`, reemplazar el cuerpo de `get_wiki_page`:
+
+```python
+ARIADNA_DB = PROJECT_ROOT / "data" / "ariadna.db"
+
+@mcp.tool(name="get_wiki_page", description=...)
+def get_wiki_page(
+    page_id: str,
+    project: str | None = None,
+) -> dict[str, Any]:
+    from ariadna.mcp_tools_read import get_wiki_page_impl
+    return get_wiki_page_impl(ARIADNA_DB, page_id=page_id, project=project)
+```
+
+Actualizar la `description` del tool para mencionar el parámetro `project` y el comportamiento de tiebreak.
+
+- [ ] **Step 4: Run tests**
+
+```bash
+.venv/bin/python -m pytest tests/test_get_wiki_page_project.py -v
+# Expected: 5 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_tools_read.py ariadna/mcp_server.py tests/test_get_wiki_page_project.py
+git commit -m "feat(mcp): get_wiki_page acepta project; cross-all desempata indexed_at ASC
+
+project=str: filtro estricto, WIKI_PAGE_NOT_FOUND si no existe en ese proyecto.
+project=None: busca cross-all, devuelve el más antiguo por indexed_at ASC y
+mete projects_with_this_id con la lista ordenada de todos los matches para
+que el agente pueda pedir explícitamente cada uno.
+
+Tool migra de filesystem.rglob a SQLite ariadna.db.pages — más rápido y
+project-aware.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 8.3: Eliminar `get_video_summary` + `list_videos` + `CorpusStore.list_videos`
+
+> Spec sección 6.4: tools YouTube-específicas obsoletas. Casos de uso ya cubiertos por `search_corpus` (drill-down via filter) y `list_research_queue`.
+
+**Files:**
+- Modify: `ariadna/mcp_server.py:146-204` (eliminar dos tools completas)
+- Modify: `ariadna/storage.py:226-273` (eliminar `list_videos`)
+
+- [ ] **Step 1: Verificar que no hay callers fuera del MCP**
+
+```bash
+# Antes de borrar, asegurar que nadie más usa list_videos:
+grep -rn "list_videos\|get_video_summary" --include="*.py" \
+    ariadna/ scripts/ tests/ | grep -v "test_" | grep -v "#" || echo "ok: no callers"
+# Expected: solo referencias en ariadna/mcp_server.py y ariadna/storage.py (los que se borran)
+```
+
+- [ ] **Step 2: Borrar las dos tools de `ariadna/mcp_server.py`**
+
+Eliminar el bloque completo de líneas 146-204 (`@mcp.tool(name="get_video_summary")` y `@mcp.tool(name="list_videos")` + sus funciones). El resto del archivo permanece.
+
+- [ ] **Step 3: Borrar `CorpusStore.list_videos` de `ariadna/storage.py`**
+
+Eliminar el método `list_videos` (líneas 226-273). Verificar que no quedan imports innecesarios tras el borrado.
+
+- [ ] **Step 4: Smoke test del server arrancando**
+
+```bash
+# Server arranca sin errores (no import circular, no referencias rotas):
+.venv/bin/python -c "from ariadna.mcp_server import mcp; print('tools:', [t.name for t in mcp._tool_manager.list_tools()])" 2>&1 | head -20
+# Expected: lista sin 'get_video_summary' ni 'list_videos' (pero con 'search_corpus', 'get_wiki_page',
+# y las nuevas que se wirean en Task 8.4).
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_server.py ariadna/storage.py
+git commit -m "refactor(mcp): retirar get_video_summary y list_videos (YouTube-específicas)
+
+Casos de uso cubiertos por search_corpus (drill-down via filter video_id=X)
+y list_research_queue (qué se ha procesado). YAGNI: si reaparece demanda,
+spec separada propone get_source_summary / list_sources agnósticas al tipo.
+
+CorpusStore.list_videos también eliminado de storage.py (sin callers tras
+borrar la tool).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 8.4: Wire de las 5 tools nuevas en `mcp_server.py`
+
+> Decora con `@mcp.tool` las funciones `*_impl` escritas en Chunks 6-7. La conexión SQLite se obtiene fresh por tool call (single-writer Phase 1; multi-writer requires future work).
+
+**Files:**
+- Modify: `ariadna/mcp_server.py` (añadir 5 @mcp.tool blocks)
+
+- [ ] **Step 1: Apply edits**
+
+Añadir al final de `mcp_server.py` (antes de `# Entry point`):
+
+```python
+# ---------------------------------------------------------------------------
+# Write tools (project + research queue)
+# ---------------------------------------------------------------------------
+
+def _open_db_rw() -> sqlite3.Connection:
+    """Conexión RW a ariadna.db. WAL mode habilita lectores concurrentes."""
+    conn = sqlite3.connect(str(ARIADNA_DB))
+    conn.execute("PRAGMA foreign_keys = ON")
+    return conn
+
+
+@mcp.tool(
+    name="create_project",
+    description=(
+        "Crea un proyecto nuevo (slug kebab-case, name, description). "
+        "seed_from_templates=True copia los defaults globales a projects/<slug>/_meta/. "
+        "inherit_from='<slug>' copia los overrides de otro proyecto. "
+        "seed_from_templates e inherit_from son mutuamente excluyentes."
+    ),
+)
+def create_project(
+    slug: str, name: str, description: str = "",
+    seed_from_templates: bool = False, inherit_from: str | None = None,
+) -> dict[str, Any]:
+    from ariadna.mcp_tools_write import create_project_impl
+    conn = _open_db_rw()
+    try:
+        return create_project_impl(conn, slug=slug, name=name, description=description,
+                                    seed_from_templates=seed_from_templates,
+                                    inherit_from=inherit_from)
+    finally:
+        conn.close()
+
+
+@mcp.tool(
+    name="add_to_research_queue",
+    description=(
+        "Añade una URL a la cola de investigación de un proyecto. "
+        "source_type se auto-detecta de la URL (youtube/paper/web/pdf) si no se pasa. "
+        "Idempotente: misma (project, url) pending/processing devuelve el request_id existente."
+    ),
+)
+def add_to_research_queue(
+    project: str, source_url: str, source_type: str | None = None,
+    notes: str = "", priority: int = 0,
+) -> dict[str, Any]:
+    from ariadna.mcp_tools_write import add_to_research_queue_impl
+    conn = _open_db_rw()
+    try:
+        return add_to_research_queue_impl(
+            conn, project=project, source_url=source_url,
+            source_type=source_type, notes=notes, priority=priority,
+        )
+    finally:
+        conn.close()
+
+
+@mcp.tool(
+    name="cancel_request",
+    description=(
+        "Cancela un request de la cola. pending/failed → cancelled OK. "
+        "processing → NO-OP (deja al worker terminar). done/cancelled → no-op idempotente."
+    ),
+)
+def cancel_request(request_id: str, reason: str = "") -> dict[str, Any]:
+    from ariadna.mcp_tools_write import cancel_request_impl
+    conn = _open_db_rw()
+    try:
+        return cancel_request_impl(conn, request_id=request_id, reason=reason)
+    finally:
+        conn.close()
+
+
+@mcp.tool(
+    name="list_projects",
+    description=(
+        "Lista proyectos con sus conteos derivados (n_pages, n_chunks, n_queue_pending). "
+        "include_archived=True incluye archived; default solo activos."
+    ),
+)
+def list_projects(include_archived: bool = False) -> dict[str, Any]:
+    from ariadna.mcp_tools_read import list_projects_impl
+    from ariadna.storage import CorpusStore
+    from qdrant_client.http.models import Filter, FieldCondition, MatchValue
+    # CorpusStore() directo (no get_searcher) — esta tool no necesita el embedder,
+    # solo el QdrantClient. Evita pagar warmup BGE-M3 multi-second en la primera
+    # llamada a list_projects desde el agente.
+    store = CorpusStore()
+
+    def _count_chunks(pid: str) -> int:
+        return store.client.count(
+            collection_name=store.collection_name,
+            count_filter=Filter(must=[FieldCondition(
+                key="project_id", match=MatchValue(value=pid),
+            )]),
+            exact=True,
+        ).count
+
+    conn = sqlite3.connect(f"file:{ARIADNA_DB}?mode=ro", uri=True)
+    try:
+        return list_projects_impl(conn, include_archived=include_archived,
+                                   count_chunks_fn=_count_chunks)
+    finally:
+        conn.close()
+
+
+@mcp.tool(
+    name="list_research_queue",
+    description=(
+        "Lista items de la cola con filtros project/status/source_type. "
+        "status='all' devuelve cualquier estado. limit cap (default 50). "
+        "Devuelve total_matching pre-limit + filters_applied."
+    ),
+)
+def list_research_queue(
+    project: str | None = None, status: str = "pending",
+    source_type: str | None = None, limit: int = 50,
+) -> dict[str, Any]:
+    from ariadna.mcp_tools_read import list_research_queue_impl
+    conn = sqlite3.connect(f"file:{ARIADNA_DB}?mode=ro", uri=True)
+    try:
+        return list_research_queue_impl(conn, project=project, status=status,
+                                         source_type=source_type, limit=limit)
+    finally:
+        conn.close()
+```
+
+Y al inicio del archivo, asegurar imports `import sqlite3` y la constante `ARIADNA_DB`.
+
+- [ ] **Step 2: Smoke test — tools registradas**
+
+```bash
+.venv/bin/python -c "
+from ariadna.mcp_server import mcp
+tools = sorted(t.name for t in mcp._tool_manager.list_tools())
+print(tools)
+"
+# Expected:
+# ['add_to_research_queue', 'cancel_request', 'create_project', 'get_wiki_page',
+#  'list_projects', 'list_research_queue', 'search_corpus']
+# (sin get_video_summary ni list_videos)
+```
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add ariadna/mcp_server.py
+git commit -m "feat(mcp): wire 5 tools nuevas (create_project, add/cancel queue, list_*)
+
+Cada tool obtiene conexión SQLite fresh por call (RW para writes, RO para
+reads). list_projects construye count_chunks_fn como wrapper sobre
+QdrantClient.count filtrando por project_id.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 8.5: Startup hook `reload_relation_types`
+
+> Spec sección 7.3: al iniciar el server, cargar core JSON + ext de cada proyecto activo en `relation_types_canonical`. Falla loudly si hay colisión o JSON malformado.
+
+**Files:**
+- Modify: `ariadna/mcp_server.py:main()` o init temprano
+
+- [ ] **Step 1: Apply edits**
+
+En `main()` (o un `_warmup()` antes de `mcp.run()`):
+
+```python
+def main() -> int:
+    parser = argparse.ArgumentParser(...)
+    # ... resto del parser ...
+    args = parser.parse_args()
+
+    # Startup hook: relation_types
+    from ariadna.project_config import reload_relation_types
+    log.info("Loading relation_types_canonical from JSON sources...")
+    conn = sqlite3.connect(str(ARIADNA_DB))
+    try:
+        reload_relation_types(conn)
+        n = conn.execute("SELECT COUNT(*) FROM relation_types_canonical").fetchone()[0]
+        log.info("relation_types_canonical poblado: %d filas", n)
+    finally:
+        conn.close()
+
+    if args.warm:
+        log.info("Precarga de searcher solicitada (--warm)...")
+        _ = get_searcher()
+
+    mcp.run(transport="streamable-http")
+    return 0
+```
+
+- [ ] **Step 2: Smoke test arranque**
+
+```bash
+# Lanzar el server brevemente para confirmar que el startup hook no rompe:
+timeout 5 .venv/bin/python -m ariadna.mcp_server --port 18765 2>&1 | head -20 || true
+# Expected: log "relation_types_canonical poblado: 30 filas" (los 30 tipos core).
+# Si rompe con ConfigError, hay colisión core↔ext que arreglar antes de seguir.
+```
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add ariadna/mcp_server.py
+git commit -m "feat(mcp): startup hook reload_relation_types
+
+Al arrancar el server, repuebla relation_types_canonical desde
+wiki/_meta/relation_types_core.json + cada projects/<slug>/_meta/
+relation_types_ext.json en transacción atómica. Falla loudly si hay
+colisión core↔ext o JSON malformado — la deuda editorial bloquea
+arranque.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+---
