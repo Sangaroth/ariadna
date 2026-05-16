@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -21,6 +22,28 @@ from ariadna.search import Searcher
 from ariadna.storage import CorpusStore
 
 WIKI_DIR = PROJECT_ROOT / "wiki"
+
+# Heading de la sección Citations al pie de cada wiki. Se trima por defecto
+# en get_wiki_page para no inflar context window del LLM con provenance que
+# no aporta a razonamiento conceptual (puede ser 5-8 KB en páginas hub).
+# Soporta variantes históricas en español/inglés.
+_CITATIONS_HEADING_RE = re.compile(
+    r"^##\s+(?:Citations?|Referencias?|References?|Sources?|Fuentes?)\s*$",
+    re.MULTILINE | re.IGNORECASE,
+)
+
+
+def _strip_citations_section(content: str) -> tuple[str, int]:
+    """Trima la sección Citations al pie. Asume que es la última sección de
+    nivel H2 (típicamente lo es por convención del extractor).
+
+    Returns: (content_sin_citations, n_chars_removed).
+    """
+    m = _CITATIONS_HEADING_RE.search(content)
+    if not m:
+        return content, 0
+    trimmed = content[: m.start()].rstrip() + "\n"
+    return trimmed, len(content) - len(trimmed)
 
 logging.basicConfig(
     level=logging.INFO,
@@ -117,16 +140,19 @@ def search_corpus(
 @mcp.tool(
     name="get_wiki_page",
     description=(
-        "Devuelve el contenido completo de una pagina wiki por su page_id "
+        "Devuelve el contenido de una pagina wiki por su page_id "
         "(ej. 'shadow-archetype', 'jung-carl-gustav', 'mito-polar'). "
         "Usa esta tool cuando search_corpus devuelva un wiki_page con wikilinks "
         "salientes ([[otro-page-id]]) y necesites profundizar en una pagina relacionada "
         "para responder al usuario. Tambien para presentar al usuario el contenido "
         "completo de una pagina wiki que mencionaste. Si el page_id no existe, "
-        "devuelve un error con sugerencia de buscar via search_corpus."
+        "devuelve un error con sugerencia de buscar via search_corpus. "
+        "Por defecto OMITE la seccion '## Citations' al pie (provenance al corpus "
+        "YouTube; puede ocupar varios KB). Si necesitas las citas (ej. el usuario "
+        "pide ver de que video sale una afirmacion), pasa include_citations=true."
     ),
 )
-def get_wiki_page(page_id: str) -> dict[str, Any]:
+def get_wiki_page(page_id: str, include_citations: bool = False) -> dict[str, Any]:
     """Lee una página wiki por page_id desde el filesystem (wiki/)."""
     candidates = list(WIKI_DIR.rglob(f"{page_id}.md"))
     if not candidates:
@@ -136,10 +162,15 @@ def get_wiki_page(page_id: str) -> dict[str, Any]:
         }
     md_path = candidates[0]
     content = md_path.read_text(encoding="utf-8")
+    chars_trimmed = 0
+    if not include_citations:
+        content, chars_trimmed = _strip_citations_section(content)
     return {
         "page_id": page_id,
         "file_path": str(md_path.relative_to(PROJECT_ROOT)),
         "content": content,
+        "citations_trimmed": chars_trimmed > 0,
+        "citations_chars_omitted": chars_trimmed,
     }
 
 
