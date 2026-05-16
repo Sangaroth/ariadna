@@ -283,10 +283,32 @@ def _llm_judge(
         )
         if proc.returncode != 0:
             raise RuntimeError(f"claude -p failed rc={proc.returncode}: {proc.stderr[:300]}")
-        # claude -p --output-format json envuelve respuesta. Extract result string.
+        # claude -p --output-format json devuelve una LISTA de mensajes stream
+        # (system init, assistant, rate_limit_event, result). El mensaje con
+        # type='result' lleva el campo 'result' con el texto final.
+        text = proc.stdout
         try:
             wrapper = json.loads(proc.stdout)
-            text = wrapper.get("result") or proc.stdout
+            if isinstance(wrapper, list):
+                # buscar el mensaje result; fallback a último assistant
+                for msg in reversed(wrapper):
+                    if not isinstance(msg, dict):
+                        continue
+                    if msg.get("type") == "result" and msg.get("result"):
+                        text = msg["result"]
+                        break
+                else:
+                    # No 'result' encontrado, intentar último 'assistant'
+                    for msg in reversed(wrapper):
+                        if isinstance(msg, dict) and msg.get("type") == "assistant":
+                            content = msg.get("message", {}).get("content") or []
+                            for block in content if isinstance(content, list) else []:
+                                if isinstance(block, dict) and block.get("type") == "text":
+                                    text = block.get("text", text)
+                                    break
+                            break
+            elif isinstance(wrapper, dict):
+                text = wrapper.get("result") or proc.stdout
         except json.JSONDecodeError:
             text = proc.stdout
         m = _JSON_OUTPUT_RE.search(text)
