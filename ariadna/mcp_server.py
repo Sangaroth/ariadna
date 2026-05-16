@@ -9,7 +9,6 @@ from __future__ import annotations
 import argparse
 import json
 import logging
-import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -20,30 +19,9 @@ from ariadna.config import DEFAULT_CORPUS_PATH, MCP_HOST, MCP_PORT, PROJECT_ROOT
 from ariadna.parsers import parse_summary_file
 from ariadna.search import Searcher
 from ariadna.storage import CorpusStore
+from ariadna.wiki_utils import strip_citations_section as _strip_citations_section
 
 WIKI_DIR = PROJECT_ROOT / "wiki"
-
-# Heading de la sección Citations al pie de cada wiki. Se trima por defecto
-# en get_wiki_page para no inflar context window del LLM con provenance que
-# no aporta a razonamiento conceptual (puede ser 5-8 KB en páginas hub).
-# Soporta variantes históricas en español/inglés.
-_CITATIONS_HEADING_RE = re.compile(
-    r"^##\s+(?:Citations?|Referencias?|References?|Sources?|Fuentes?)\s*$",
-    re.MULTILINE | re.IGNORECASE,
-)
-
-
-def _strip_citations_section(content: str) -> tuple[str, int]:
-    """Trima la sección Citations al pie. Asume que es la última sección de
-    nivel H2 (típicamente lo es por convención del extractor).
-
-    Returns: (content_sin_citations, n_chars_removed).
-    """
-    m = _CITATIONS_HEADING_RE.search(content)
-    if not m:
-        return content, 0
-    trimmed = content[: m.start()].rstrip() + "\n"
-    return trimmed, len(content) - len(trimmed)
 
 logging.basicConfig(
     level=logging.INFO,

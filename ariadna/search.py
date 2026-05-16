@@ -12,6 +12,7 @@ from typing import Any
 
 from ariadna.config import RERANKER_PREFETCH_N
 from ariadna.embeddings import DenseEmbedder
+from ariadna.wiki_utils import strip_citations_section as _strip_citations_section
 from ariadna.reranker import Reranker
 from ariadna.storage import CorpusStore
 
@@ -490,6 +491,10 @@ class Searcher:
             out: dict[str, dict] = {}
             for pid, ptype, cname, dprim, fpath, body in pages:
                 rels = relations_by_pid.get(pid, [])
+                # Trim sección "## Citations" al pie (provenance al corpus,
+                # puede ser KB enteros que no aportan a razonamiento conceptual).
+                # Mismo criterio que mcp_server.get_wiki_page para coherencia.
+                body_trimmed, _ = _strip_citations_section(body or "")
                 out[pid] = {
                     "page_id": pid,
                     "page_type": ptype,
@@ -500,7 +505,7 @@ class Searcher:
                     "relation_targets": sorted({r["to"] for r in rels if r.get("to")}),
                     "relation_types_present": sorted({r["type"] for r in rels if r.get("type")}),
                     "file_path": fpath,
-                    "body": body,
+                    "body": body_trimmed,
                 }
             return out
         finally:
@@ -579,6 +584,8 @@ def _wiki_payload_to_compact(payload: dict) -> dict:
     relation_types_present) producido por scripts/index_wiki_to_qdrant.py
     tras la migración de 2026-04-30.
     """
+    body = payload.get("body") or ""
+    body_trimmed, _ = _strip_citations_section(body)
     return {
         "score": round(float(payload["score"]), 4),
         "page_id": payload.get("page_id"),
@@ -590,7 +597,7 @@ def _wiki_payload_to_compact(payload: dict) -> dict:
         "relation_targets": payload.get("relation_targets", []),
         "relation_types_present": payload.get("relation_types_present", []),
         "file_path": payload.get("file_path"),
-        "body": payload.get("body"),
+        "body": body_trimmed,
     }
 
 
