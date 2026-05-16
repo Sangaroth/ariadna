@@ -2,89 +2,107 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-03 (refactor pipeline v0.3: scope reformado + sub-agente synthesis auto-promote + lane recommended_reference + protocolo propagación + scan_mentions_ledger). Doc maestro del refactor: [`docs/PIPELINE_REFACTOR_2026_05_02.md`](PIPELINE_REFACTOR_2026_05_02.md). Doc base previo: [`docs/EXTRACTION_PIPELINE.md`](EXTRACTION_PIPELINE.md).
+> **Última actualización:** 2026-05-16 madrugada (sesión maratón: fixes pipeline + spec multi-tenancy aprobada + plan implementation Chunk 1 + agente cron programado 05:30). Doc maestro del refactor en marcha: [`docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md`](superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md).
 
 ---
 
 ## Prompt para pegar al iniciar nueva sesión
 
 ```
-Soy el mismo usuario. Continuamos el proyecto Ariadna (servidor MCP de RAG sobre
-corpus YouTube del canal Proxy, integrado con Mattermost via plugin Agents
-v2.0.0-rc6 + ngrok).
+Soy el mismo usuario. Continuamos el proyecto Ariadna (servidor MCP de RAG
+sobre corpus YouTube del canal Proxy, integrado con Mattermost via plugin
+Agents v2.0.0-rc6 + ngrok).
 
-Estado al 2026-05-03 (post-overnight v0.3 parcial — 35% corpus procesado):
+Estado al 2026-05-16 (madrugada — sesión maratón cerrada):
 
-- Fase A Sprint 1 CERRADA
-- Modo híbrido en MCP OPERATIVO (search_corpus + get_wiki_page + 4 tools)
-- PIPELINE v0.3 (refactor 2026-05-02 → 2026-05-03):
-  - scope.md v0.3: 5 pilares declarados del canal (liberalismo, filosofía,
-    psicología cognitiva, mitología, neurociencia) — §1 dividido en
-    incondicionales/condicionados, §3 reescrita con test discriminante
-    politiqueo vs análisis, §3.4 lane recommended_reference, §2.3 lectura
-    íntegra, §2.4.1 gate de auto-promoción de thesis
-  - Sub-agente in-loop (claude -p clean session) construye páginas:
-    - SUBAGENT_SYSTEM_PROMPT para concept/author/entity_work
-    - SUBAGENT_SYNTHESIS_SYSTEM_PROMPT para auto-promote de thesis fuertes
-  - Schema-tolerant: promote_new[] top-level + entities[decision=promote_new]
-  - Per-video JSONs commiteados (memoria operativa LLM, recuperable)
-  - Auto-citation determinista escaneando summary_text → timestamps en
-    bloque ## Citations compacto por (video, [t1, t2, ...])
-  - Auto-aggregate al cierre del run
-  - Incremental por defecto (skip already-extracted)
-  - Fallback chunk → video en retrieval indirecto (search.py dos-pasada)
-  - SESSION_MAX_VIDEOS=20 + SESSION_MAX_SECONDS=55min
+ÚLTIMO TRABAJO HECHO HOY (sesión que terminó ~04:25):
+1. Reparado venv tras retirada de python3.13 del sistema (uv sync → 3.13.7
+   uv-managed; uv.lock ahora versionado)
+2. Bug fix CRÍTICO de parser relations[]: 3 scripts (build_wiki_db,
+   validate_wiki_relations, index_wiki_to_qdrant) usaban regex que solo
+   matcheaba flow YAML inline `- {type:X, to:Y}`. Las 162 páginas escritas
+   en block YAML estándar (yaml.safe_dump del sub-agente) se ignoraban
+   silenciosamente → grafo tipado congelado en 11 seed durante 2 semanas.
+   Fix: yaml.safe_load. Resultado: 71 → 1102 relations en SQLite.
+   Reindexed Qdrant (494 vectores wiki).
+3. Feature policy_filter tag-and-keep: build_index ahora lee
+   blocks_filtered_by_topic_filters del per-video JSON y propaga
+   `policy_filter` al payload Qdrant; search.py por defecto excluye
+   tagged via IsEmptyCondition; nuevo kwarg `include_filtered=False`
+   en search_corpus MCP tool. 18 chunks tagged hoy. Resuelve asimetría
+   Layer 0 vs Layer 1 (la wiki descartaba politiqueo pero los chunks
+   raw aparecían en searches semánticos).
+4. Brainstorming + spec multi-tenancy COMPLETO (Project como unidad
+   atómica: scope + wiki + cola). Spec aprobada en 3 iteraciones de
+   spec-document-reviewer. 858 líneas. Cubre Fase 1 (migración) y
+   Fase 2 (tools MCP de cola). Workers son specs futuras.
+5. Plan implementation arrancado: Chunk 1 escrito (pre-migration tooling:
+   capture_baseline + verifier skeletons) aprobado por plan-reviewer.
+   Chunks 2-9 PENDIENTES.
 
-- WIKI ACTUAL (snapshot post-overnight parcial 2026-05-03):
-  - 104 pages totales (37 → 104 en este overnight)
-  - +28 concepts (heroe-truncado, kabbalah, pensamiento-poetico, etc.)
-  - +6 authors (bueno-gustavo, etc.), +20 entity_works (cuentos Lovecraft,
-    el-gran-lebowski, ediciones íntegras), +11 synthesis (gisbertocracia,
-    teoria-del-simbolo, golem-de-cobre, diagrama-de-proxy, varias
-    auto-promovidas vía gate §2.4.1)
-  - 103 de 296 vídeos extraídos = 35% corpus
-  - Para continuar:
-    python scripts/extract_video_themes.py --resume \\
-      overnight_v03_20260503_010105
+WIKI ACTUAL:
+- 183 páginas (concepts 61, authors 12, entities/works 65, synthesis 43,
+  entities/institutions 0)
+- data/wiki.db con 183 pages, 1102 relations, 1361 body_wikilinks,
+  3201 citations (refrescado)
+- Qdrant: 6442 puntos = 6259 raw_chunks + 183 wiki_pages focal vectors
 
-- PROTOCOLO DE PROPAGACIÓN (3 comandos, ver PIPELINE_REFACTOR §15):
-  - --rebuild-aggregates (gratis, propaga cambios de aggregator)
-  - --audit-stale-vs-scope (gratis, detecta JSONs inconsistentes con
-    scope actual con filtro v0.3-aware skip)
-  - --reprocess-stale --yes (LLM batch, re-extrae solo flagged)
-  - Filosofía: "process once, leverage forever" — JSONs commiteados son
-    la memoria del LLM, recuperable retroactivamente sin re-llamada
+CORPUS YouTube:
+- 322 vídeos en ProxySummaries
+- 135-145 procesados en run pilot_sonnet_20260509 (variable según último
+  state.json al pararse el run)
+- 43 pendientes del universo del run (178 vídeos seleccionados)
+- ~88 pendientes del corpus total (Twitch + psicología-101 + algunos
+  podcast están a 0% por ahora)
+- Run pilot_sonnet_20260509 PARADO esta madrugada (PID 1534814 + sub-agente
+  killeados); para retomarlo:
+    python scripts/extract_video_themes.py --resume pilot_sonnet_20260509
 
-- RECOVERY DE REFERENCIAS DÉBILES PREVIAS (PIPELINE_REFACTOR §16):
-  - scripts/scan_mentions_ledger.py: --page-id|--audit-all [--apply]
-  - Tras crear page nueva, escanea JSONs históricos buscando menciones
-    en discarded[] (passing_mention, out_of_scope_figure, etc.) y las
-    materializa como citations recuperables con timestamp del marker
+AGENTE CRON PROGRAMADO (importante):
+- A las 05:30 del 2026-05-16 dispara automáticamente
+  scripts/resume_plan_chunks_2_9.sh
+- Lanza claude -p autónomo con el prompt de
+  scripts/agent_resume_prompt.md
+- Trabaja en docs/ exclusivamente (escribe Chunks 2-9 del plan de
+  implementación multi-tenancy, con review loop por chunk)
+- Self-removing del crontab tras ejecutar
+- Si te encuentras esto post-05:30, revisa:
+    git log --oneline -20
+    cat docs/AGENT_HANDOFF_2026-05-16.md      # si terminó OK
+    cat docs/AGENT_BLOCKED.md 2>/dev/null      # si se atascó
+    tail -200 logs/agent_*.log
+- Si pre-05:30 y quieres cancelar: crontab -r
 
-- LANES INDIRECTAS DE RETRIEVAL:
-  - data/wiki.db:citations con (page_id, video_id, timestamp_seconds)
-  - Pass 1: match exacto. Pass 2: same-video fallback con score multiplier
-    0.3 si chunk dense_score >=0.60 y no encontró exact match
-  - match_via expuesto al cliente: 'citation' (exact) | 'citation_video' (fallback)
+DOCS CLAVE A LEER:
+1. docs/NEXT_SESSION.md — este archivo, resumen ejecutivo
+2. docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md
+   — spec maestra del refactor en curso (sección 12 tabla decisiones cerradas)
+3. docs/superpowers/plans/2026-05-16-multi-project-and-research-queue.md
+   — plan de implementación (al menos Chunk 1; agente cron añade 2-9)
+4. docs/PIPELINE_REFACTOR_2026_05_02.md — pipeline v0.3 (sigue vigente)
+5. wiki/_meta/scope.md — alcance editorial
+6. wiki/_meta/canonical_whitelist.json
 
-ANTES DE HACER NADA, lee en este orden:
-1. docs/NEXT_SESSION.md — este archivo, resumen ejecutivo + próximos pasos
-2. docs/PIPELINE_REFACTOR_2026_05_02.md — refactor v0.3 completo (16 secciones)
-3. docs/EXTRACTION_PIPELINE.md — pipeline push-based base (pre-v0.3)
-4. docs/RESPONSE_FLOW.md §10 — schema autoritativo del MCP
-5. wiki/_meta/scope.md — alcance editorial v0.3 (3ª capa Karpathy)
-6. wiki/_meta/canonical_whitelist.json — figuras canónicas
+VERIFICACIONES AL ARRANCAR:
+- ¿Agente cron terminó? cat docs/AGENT_HANDOFF_2026-05-16.md 2>/dev/null
+- ¿Está bloqueado? cat docs/AGENT_BLOCKED.md 2>/dev/null
+- Procesos vivos: ps -ef | grep -E "extract_video|claude.*resume.*pilot"
+- Wiki size: find wiki -name "*.md" -not -path "*_meta*" | wc -l
+- SQLite: python -c "import sqlite3; c=sqlite3.connect('data/wiki.db');
+  print(c.execute('SELECT COUNT(*) FROM pages').fetchone(),
+        c.execute('SELECT COUNT(*) FROM relations').fetchone())"
+- Git history: git log --oneline -20
 
-Verifica al inicio:
-- Estado del overnight en curso:
-    ls wiki/_meta/extraction_runs/overnight_v03_*/state.json 2>/dev/null
-- Wiki size:
-    find wiki -name "*.md" -not -path "*_meta*" -not -name README.md | wc -l
-- Citations table refrescada:
-    sqlite3 data/wiki.db "SELECT COUNT(*) FROM pages; SELECT COUNT(*) FROM citations;"
-- Si servidor MCP local sigue vivo (ss -tlnp | grep 8765)
-- Git history reciente:
-    git log --oneline | head -20
+LÍNEAS DE TRABAJO POSIBLES (pregúntame cuál antes de proponer):
+A) Si el agente cron terminó OK con Chunks 2-9 escritos: arrancar
+   implementación con executing-plans o subagent-driven-development.
+   Antes: spec dice que requiere parar el run de extracción y server
+   MCP — pre-flight checks documentados en plan Chunk 1.
+B) Si el agente cron se atascó: leer AGENT_BLOCKED.md, desbloquear el
+   chunk problemático, continuar.
+C) Retomar el run pilot_sonnet_20260509 con --resume si quieres avanzar
+   más wiki antes del refactor (43 pendientes).
+D) Otra cosa: pregúntame.
 
 Pregúntame qué línea quiero retomar antes de proponer trabajo nuevo.
 ```
