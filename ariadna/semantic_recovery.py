@@ -100,6 +100,82 @@ class DiscardedEntry:
         return hashlib.sha1(f"{norm}|{self.reason_code}".encode()).hexdigest()[:16]
 
 
+# Heurístico para distinguir "concepto nombrable" de "desarrollo/frase explicativa".
+# Solo los conceptos limpios entran al pipeline — el alias enrichment de un
+# desarrollo contamina la wiki (e.g., alias "endofobia (herida narcisista del
+# progresista)" arrastra glosa que no debería ser parte del nombre canónico).
+_DEVELOPMENT_MARKERS = (
+    # Conectores explicativos genéricos (X como Y, X que Y) — un concepto puro
+    # rara vez los contiene en su nombre canónico.
+    " como ",
+    " que ",
+    " para entender ",
+    " porque ",
+    " donde se ",
+    " cuando se ",
+    " si se ",
+    " en tanto ",
+    " al menos ",
+    " respecto a ",
+    " respecto al ",
+    " en relación con ",
+    # Comparativos
+    " vs ",
+    " contra el ",
+    " contra la ",
+    " contra los ",
+    " contra las ",
+    " frente al ",
+    " frente a la ",
+    # Posesivos y verbos conjugados explícitos (frase, no nombre)
+    " es una ",
+    " es el ",
+    " es un ",
+    " prohíbe ",
+    " propone ",
+    " critica ",
+    " demuestra ",
+)
+
+# Conectores con caracteres especiales: "X / Y", "X + Y", "X — Y" — son
+# composiciones, no nombres canónicos.
+_DEVELOPMENT_CHARS = re.compile(r"\s[+/—–]\s")
+
+
+def _is_concept_like(surface_form: str) -> bool:
+    """True si el surface_form parece un concepto nombrable (no un desarrollo).
+
+    Heurísticos (conservadores → preferimos descartar dudosos):
+      - longitud ≤ 60 chars
+      - ≤ 7 palabras
+      - si tiene paréntesis: contenido ≤ 3 palabras (disambiguador OK, glosa NO)
+      - sin conectores de cláusula explicativa ("invocado como X", "vs", "contra")
+
+    Ejemplos:
+      "mito del sol"                                        → True
+      "Pinocho (Disney 1940)"                               → True (disambiguador)
+      "endofobia (herida narcisista del progresista)"       → False (glosa 4 words)
+      "Realismo cognitivo invocado como tesis filosófica"   → False ("invocado como")
+      "mito propio vs mito impropio (democracia como caso)" → False ("vs" + glosa)
+    """
+    sf = surface_form.strip()
+    if not sf:
+        return False
+    if len(sf) > 60:
+        return False
+    if len(sf.split()) > 7:
+        return False
+    m = re.search(r"\(([^)]+)\)", sf)
+    if m and len(m.group(1).split()) > 3:
+        return False
+    sf_padded = f" {sf.lower()} "
+    if any(marker in sf_padded for marker in _DEVELOPMENT_MARKERS):
+        return False
+    if _DEVELOPMENT_CHARS.search(sf):
+        return False
+    return True
+
+
 @dataclass
 class JudgeDecision:
     match_page_id: Optional[str]
@@ -142,6 +218,8 @@ def _collect_eligible_discarded(extraction_runs: Path = EXTRACTION_RUNS) -> list
             sf = (entry.get("surface_form") or "").strip()
             if not sf:
                 continue
+            if not _is_concept_like(sf):
+                continue  # surface_form es desarrollo/frase, no concepto nombrable
             de = DiscardedEntry(
                 video_id=vid,
                 surface_form=sf,
