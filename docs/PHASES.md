@@ -2,12 +2,15 @@
 
 > Roadmap por capas. Cada fase añade valor independiente y se construye encima de la anterior sin romperla.
 
-## Estado actual: **Fase B en barrido sistemático** (2026-05-02)
+## Estado actual: **Fase B completada — preparando Fase Multi-Tenant** (2026-05-16)
 
 - **Fase A Sprint 1**: cerrada 2026-04-23 (validación end-to-end en DM con Ariadna).
-- **Fase B**: 11 wiki pages seed compiladas a mano, modo híbrido vivo (3 lanes: raw semántica, wiki semántica focal, wiki indirecta vía citations), índice SQLite derivado en `data/wiki.db`. **Pipeline push-based Karpathy IMPLEMENTADO 2026-05-02** (scope.md + canonical_whitelist + extract_video_themes + apply_pending_updates + overnight_run). En proceso de barrido sistemático del corpus de 296 vídeos. Pendiente: `compile_wiki_pages.py` para vaciar promote_queue.json a páginas nuevas.
+- **Fase A.2**: reranker cross-encoder activo; sparse RRF probado y descartado (no aporta sobre BGE-M3 dense-solo en este corpus).
+- **Fase B**: ✅ **completada** — **223 páginas wiki** (78 conceptos, 15 autores, 73 obras, 56 syntheses), pipeline push-based Karpathy operativo, **100% del corpus** (296/296 vídeos) procesado. Modo híbrido vivo (3 lanes: raw semántica, wiki focal, wiki indirecta vía citations), índice SQLite en `data/wiki.db`. Semantic recovery (pasada 2 LLM judge sobre discarded) operativo con cache idempotente y `applied_at` flag (236 entries, 119 high matches aplicados).
+- **Fase Multi-Tenant**: 🟡 spec + plan aprobados (2026-05-16), 9 chunks de implementación documentados, ejecución pendiente.
+- **Fase C** (despliegue producción) y **Fase D** (cold path multi-formato): pendientes.
 
-Estado vivo y próximos pasos en [NEXT_SESSION.md](NEXT_SESSION.md). Pipeline operativo en [EXTRACTION_PIPELINE.md](EXTRACTION_PIPELINE.md).
+Estado vivo y próximos pasos en [NEXT_SESSION.md](NEXT_SESSION.md). Pipeline operativo en [EXTRACTION_PIPELINE.md](EXTRACTION_PIPELINE.md). Spec multi-tenant en [docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md](superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md).
 
 ---
 
@@ -101,6 +104,50 @@ Detalle completo del pipeline: [WIKI_GENERATION.md](WIKI_GENERATION.md).
 - Para una query conceptual repetida (ej. "explícame la sombra junguiana"), la wiki page recupera el 80% de las afirmaciones que el LLM hot generaría desde chunks raw, con citas verificables al raw
 - Latencia total NO se degrada (mismo orden, <300ms con dos índices)
 - Coste de tokens por respuesta del LLM hot baja >30% (síntesis ya pre-cocinada)
+
+---
+
+## Fase Multi-Tenant — Project como unidad atómica (2026-05-16, pendiente ejecutar)
+
+**Objetivo:** generalizar Ariadna desde mono-corpus (canal Proxy YouTube) a plataforma multi-proyecto. Cada proyecto (tesis, gadgets, investigación de sueños, desarrollo SW, etc.) tiene su **scope + wiki + cola de ingesta** propios, compartiendo infraestructura común (Qdrant collection única filtrada por `project_id`, SQLite global, MCP server único).
+
+### Decisiones cerradas durante brainstorming (2026-05-16)
+
+- Single Qdrant collection + `project_id` en payload (NO collection-per-project)
+- Single SQLite `data/ariadna.db` con TODO el estado relacional (pages, citations, relations, queue, projects)
+- Defaults editoriales en `wiki/_meta/*_default.*`, overrides en `projects/<slug>/_meta/*.*`
+- Relation types: core globales + extensions per-proyecto
+- MCP gana tools write: `create_project`, `add_to_research_queue`, `cancel_request`, `update_project_meta`
+- Workers que procesan la cola de ingesta = scope futuro, desacoplados del MCP server
+- Cross-project wikilinks/relations NO en MVP (YAGNI)
+- `project=None` en queries = cross-all; decisión contextual vive en system prompt del cliente
+- Source Archive Layer (preservación PDFs/HTMLs raw) prerequisito de workers externos — spec separada futura
+
+### Estado
+
+- 🟡 **Spec aprobada** (3 iteraciones reviewer, 858 líneas): [superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md](superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md)
+- 🟡 **Plan completo en 9 chunks** (≈6400 líneas): [superpowers/plans/2026-05-16-multi-project-and-research-queue.md](superpowers/plans/2026-05-16-multi-project-and-research-queue.md)
+- 🟡 **Handoff documento**: [AGENT_HANDOFF_2026-05-16.md](AGENT_HANDOFF_2026-05-16.md) — issues retrospectivos de spec a fixear antes de ejecutar
+- ⏳ **Ejecución pendiente** — próxima sesión de implementación dirigida por subagentes (`superpowers:subagent-driven-development`)
+
+### Chunks del plan (orden de ejecución)
+
+1. SQLite global setup (data/ariadna.db con tablas projects, queue)
+2. Filesystem refactor (projects/<slug>/wiki, sin romper estado actual)
+3. ProjectConfig module + path updates
+4. Qdrant backfill `project_id` en payload existente
+5. MCP write tools: create_project, add_to_research_queue
+6. MCP read tools: list_projects, get_research_queue
+7. Tools MCP modificadas + cleanup (search_corpus filter por project_id)
+8. Verification end-to-end + smoke test
+
+### Criterios de éxito
+
+- Crear un nuevo proyecto "test-e" via MCP: aparece en `projects` table, crea `projects/test-e/wiki/` con defaults
+- Indexar un PDF como source en queue → worker dummy lo procesa → entry en `sources` table → chunks Qdrant con `project_id=test-e`
+- `search_corpus(query, project_id="test-e")` devuelve solo resultados de ese proyecto
+- `search_corpus(query)` sin filtro devuelve cross-all (Proxy + test-e)
+- Cero regresión en queries actuales sobre el corpus Proxy
 
 ---
 

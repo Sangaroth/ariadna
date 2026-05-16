@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-16 madrugada (sesión maratón: fixes pipeline + spec multi-tenancy aprobada + plan implementation Chunk 1 + agente cron programado 05:30). Doc maestro del refactor en marcha: [`docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md`](superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md).
+> **Última actualización:** 2026-05-16 tarde (sesión maratón cerrada: semantic_recovery v2 con applied_at flag + MCP trim citations + corpus 100% procesado). Doc maestro del refactor pendiente: [`docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md`](superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md).
 
 ---
 
@@ -11,98 +11,110 @@
 ```
 Soy el mismo usuario. Continuamos el proyecto Ariadna (servidor MCP de RAG
 sobre corpus YouTube del canal Proxy, integrado con Mattermost via plugin
-Agents v2.0.0-rc6 + ngrok).
+Agents v2.0.0-rc1+ + ngrok).
 
-Estado al 2026-05-16 (madrugada — sesión maratón cerrada):
+Estado al 2026-05-16 tarde (segunda mitad de la sesión maratón cerrada):
 
-ÚLTIMO TRABAJO HECHO HOY (sesión que terminó ~04:25):
-1. Reparado venv tras retirada de python3.13 del sistema (uv sync → 3.13.7
-   uv-managed; uv.lock ahora versionado)
-2. Bug fix CRÍTICO de parser relations[]: 3 scripts (build_wiki_db,
-   validate_wiki_relations, index_wiki_to_qdrant) usaban regex que solo
-   matcheaba flow YAML inline `- {type:X, to:Y}`. Las 162 páginas escritas
-   en block YAML estándar (yaml.safe_dump del sub-agente) se ignoraban
-   silenciosamente → grafo tipado congelado en 11 seed durante 2 semanas.
-   Fix: yaml.safe_load. Resultado: 71 → 1102 relations en SQLite.
-   Reindexed Qdrant (494 vectores wiki).
-3. Feature policy_filter tag-and-keep: build_index ahora lee
-   blocks_filtered_by_topic_filters del per-video JSON y propaga
-   `policy_filter` al payload Qdrant; search.py por defecto excluye
-   tagged via IsEmptyCondition; nuevo kwarg `include_filtered=False`
-   en search_corpus MCP tool. 18 chunks tagged hoy. Resuelve asimetría
-   Layer 0 vs Layer 1 (la wiki descartaba politiqueo pero los chunks
-   raw aparecían en searches semánticos).
-4. Brainstorming + spec multi-tenancy COMPLETO (Project como unidad
-   atómica: scope + wiki + cola). Spec aprobada en 3 iteraciones de
-   spec-document-reviewer. 858 líneas. Cubre Fase 1 (migración) y
-   Fase 2 (tools MCP de cola). Workers son specs futuras.
-5. Plan implementation arrancado: Chunk 1 escrito (pre-migration tooling:
-   capture_baseline + verifier skeletons) aprobado por plan-reviewer.
-   Chunks 2-9 PENDIENTES.
+ÚLTIMO TRABAJO HECHO HOY (continuación de la sesión madrugada→tarde):
+
+1. Semantic recovery v2 — refactor profundo:
+   - LLM judge ahora extrae alias_candidate como SUBCADENA LITERAL del
+     surface_form (corpus = fuente, no normaliza morfología).
+   - Prompt endurecido con ejemplos negativos (rechaza aplicaciones tipo
+     "victimismo como estrategia política", "X vs Y", "X aplicado a Y").
+   - ALIAS_MAX_WORDS reducido 7→4, ALIAS_MAX_CHARS 60→50.
+   - JudgeDecision.from_dict tolera keys desconocidos (forward-compat).
+   - Validación word-boundary anti-hallucination: alias_candidate debe
+     aparecer literalmente en surface_form (re.escape + \b).
+
+2. _add_alias_to_page bug fix CRÍTICO:
+   - El regex ALIASES_BLOCK_RE de scan_mentions_ledger solo matcheaba
+     flow YAML inline `aliases: [...]`. Las wikis usan block syntax
+     `aliases:\n- A\n- B`. Mi código no encontraba el bloque existente
+     y creaba bloques duplicados cada iteración.
+   - Fix: regex propios _ALIASES_FLOW_RE + _ALIASES_BLOCK_RE_LOCAL,
+     _parse_aliases_block detecta style ('flow'|'block') y posición,
+     _render_aliases preserva el estilo original.
+   - Caso original: alien-saga.md tenía 3 bloques aliases consecutivos.
+   - Tests inline: 7/7 pasan, incluido caso de 3 iteraciones = 1 bloque.
+
+3. applied_at flag para idempotencia del cache:
+   - JudgeDecision añade applied_at + apply_outcome.
+   - Cuando set, la entry NO se re-procesa en próximos runs.
+   - La idempotencia NO depende del estado del wiki (que puede haber
+     cambiado por edición humana) sino del flag.
+   - Reset = borrar cache → todas vuelven a None → re-procesa todo.
+   - Patch retroactivo aplicado a las 74 high entries del commit 76ff4e6.
+
+4. MCP trim citations en get_wiki_page:
+   - Sección "## Citations" se trima por defecto (puede ser 5-7 KB
+     por wiki hub). Resuelve memo project_mcp_citations_trimming.md.
+   - Flag opt-in include_citations=True para casos raros.
+   - 222/223 wikis tienen sección Citations; 220KB trimables totales.
+
+5. Corpus 100% procesado:
+   - Run pilot_sonnet_20260509 completado: 170/178 done + 8 orphans
+     (JSONs sin run_id pero contenido válido).
+   - Aggregate post-run + recovery automático ejecutados con código
+     fixed → 21 citations + 6 aliases adicionales aplicados.
+
+COMMITS DE LA SESIÓN HOY (orden cronológico):
+- 19c7fae refactor(semantic_recovery): LLM extrae alias_candidate como subcadena
+- 46aef87 chore(embeddings): silenciar progress bars + deprecation
+- 8a64ef4 fix(semantic_recovery): usar v.title (no v.video_title)
+- fcedd81 fix(semantic_recovery): _enrich_findings_with_timestamps muta in-place
+- 1d46143 fix(semantic_recovery): _add_alias_to_page soporta block syntax YAML
+- 119b426 refactor(semantic_recovery): prompt LLM estricto + ALIAS_MAX_WORDS=4
+- 76ff4e6 feat(wiki): semantic recovery apply v2 — 41 citations + 18 aliases
+- 0c9b907 feat(semantic_recovery): applied_at flag para idempotencia del cache
+- bda45b8 feat(mcp): trim sección Citations en get_wiki_page (flag opt-in)
+- (+ commits del aggregate auto post-run: 1947379, 0d39b4d, f20c41e)
 
 WIKI ACTUAL:
-- 183 páginas (concepts 61, authors 12, entities/works 65, synthesis 43,
-  entities/institutions 0)
-- data/wiki.db con 183 pages, 1102 relations, 1361 body_wikilinks,
-  3201 citations (refrescado)
-- Qdrant: 6442 puntos = 6259 raw_chunks + 183 wiki_pages focal vectors
+- 223 páginas (concepts 78, authors 15, entities/works 73, synthesis 56)
+- 236 entries en wiki/_meta/semantic_recovery_cache.json (119 high applied)
+- 100% del corpus procesado (296/296 vídeos)
 
-CORPUS YouTube:
-- 322 vídeos en ProxySummaries
-- 135-145 procesados en run pilot_sonnet_20260509 (variable según último
-  state.json al pararse el run)
-- 43 pendientes del universo del run (178 vídeos seleccionados)
-- ~88 pendientes del corpus total (Twitch + psicología-101 + algunos
-  podcast están a 0% por ahora)
-- Run pilot_sonnet_20260509 PARADO esta madrugada (PID 1534814 + sub-agente
-  killeados); para retomarlo:
-    python scripts/extract_video_themes.py --resume pilot_sonnet_20260509
+PROCESOS VIVOS:
+- MCP server: ariadna.mcp_server escuchando en :8080
+- ngrok tunnel: https://8099-79-116-62-241.ngrok-free.app → :8080
+  (Mattermost ya vio las 14 tools, falta activar Enable Server + tools
+   individuales en plugin AI)
 
-AGENTE CRON PROGRAMADO (importante):
-- A las 05:30 del 2026-05-16 dispara automáticamente
-  scripts/resume_plan_chunks_2_9.sh
-- Lanza claude -p autónomo con el prompt de
-  scripts/agent_resume_prompt.md
-- Trabaja en docs/ exclusivamente (escribe Chunks 2-9 del plan de
-  implementación multi-tenancy, con review loop por chunk)
-- Self-removing del crontab tras ejecutar
-- Si te encuentras esto post-05:30, revisa:
-    git log --oneline -20
-    cat docs/AGENT_HANDOFF_2026-05-16.md      # si terminó OK
-    cat docs/AGENT_BLOCKED.md 2>/dev/null      # si se atascó
-    tail -200 logs/agent_*.log
-- Si pre-05:30 y quieres cancelar: crontab -r
+ROADMAP MULTI-TENANT (sin cambios desde la madrugada):
+- Spec aprobada: docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md
+- Plan completo 9 chunks: docs/superpowers/plans/2026-05-16-multi-project-and-research-queue.md
+- Handoff: docs/AGENT_HANDOFF_2026-05-16.md (issues retrospectivos a fixear)
+- Próximo paso: ejecutar plan con subagent-driven-development o executing-plans
 
 DOCS CLAVE A LEER:
-1. docs/NEXT_SESSION.md — este archivo, resumen ejecutivo
-2. docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md
-   — spec maestra del refactor en curso (sección 12 tabla decisiones cerradas)
-3. docs/superpowers/plans/2026-05-16-multi-project-and-research-queue.md
-   — plan de implementación (al menos Chunk 1; agente cron añade 2-9)
-4. docs/PIPELINE_REFACTOR_2026_05_02.md — pipeline v0.3 (sigue vigente)
-5. wiki/_meta/scope.md — alcance editorial
-6. wiki/_meta/canonical_whitelist.json
+1. README.md — actualizado hoy con estado real + roadmap multi-tenant + prototipo
+2. docs/PHASES.md — estado fases + Fase Multi-Tenant añadida
+3. docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md
+4. docs/superpowers/plans/2026-05-16-multi-project-and-research-queue.md
+5. docs/AGENT_HANDOFF_2026-05-16.md
+6. wiki/_meta/scope.md — alcance editorial
+7. wiki/_meta/canonical_whitelist.json
 
 VERIFICACIONES AL ARRANCAR:
-- ¿Agente cron terminó? cat docs/AGENT_HANDOFF_2026-05-16.md 2>/dev/null
-- ¿Está bloqueado? cat docs/AGENT_BLOCKED.md 2>/dev/null
-- Procesos vivos: ps -ef | grep -E "extract_video|claude.*resume.*pilot"
+- Procesos: ps -ef | grep -E "mcp_server|ngrok|extract_video"
 - Wiki size: find wiki -name "*.md" -not -path "*_meta*" | wc -l
-- SQLite: python -c "import sqlite3; c=sqlite3.connect('data/wiki.db');
-  print(c.execute('SELECT COUNT(*) FROM pages').fetchone(),
-        c.execute('SELECT COUNT(*) FROM relations').fetchone())"
+- Cache state: python -c "import json; c=json.load(open('wiki/_meta/semantic_recovery_cache.json')); print(f'total={len(c)}, applied={sum(1 for v in c.values() if v.get(\"applied_at\"))}')"
 - Git history: git log --oneline -20
 
 LÍNEAS DE TRABAJO POSIBLES (pregúntame cuál antes de proponer):
-A) Si el agente cron terminó OK con Chunks 2-9 escritos: arrancar
-   implementación con executing-plans o subagent-driven-development.
-   Antes: spec dice que requiere parar el run de extracción y server
-   MCP — pre-flight checks documentados en plan Chunk 1.
-B) Si el agente cron se atascó: leer AGENT_BLOCKED.md, desbloquear el
-   chunk problemático, continuar.
-C) Retomar el run pilot_sonnet_20260509 con --resume si quieres avanzar
-   más wiki antes del refactor (43 pendientes).
-D) Otra cosa: pregúntame.
+A) Prueba de control de Mattermost con el MCP vivo: cruzar conceptos
+   dispares (3-4 saltos) — ver final de docs/NEXT_SESSION.md para opciones
+   de queries. Requiere que el usuario active toggles en plugin AI.
+B) Ejecutar plan multi-tenant (Chunks 1-9) con subagent-driven-development.
+   Antes leer handoff para issues retrospectivos de spec.
+C) Diseñar Fase B wiki_enrichment (módulo nuevo, agrupado por page_id,
+   reusa applied_at flag): para reason_code "promotion_threshold_not_met"
+   y similares, generar pending_updates editoriales en bloque (1 LLM call
+   por página, no por entry). Spec abierta.
+D) Generar nuevos summaries en ProxySummaries (26 pendientes) para
+   ampliar corpus → próximo extractor con --limit los procesaría.
+E) Otra cosa: pregúntame.
 
 Pregúntame qué línea quiero retomar antes de proponer trabajo nuevo.
 ```
