@@ -284,6 +284,11 @@ Schema común con blob específico por tipo:
         # paper:    section, page, paragraph_idx, doi, authors, year, ...
         # web:      extracted_at, h1, h2, ...
         # pdf:      page, paragraph_idx, ...
+        # source_file_hash: str  ← reservado para Source Archive Layer (sección 9.1).
+        #                          Hoy ausente; futuros workers de fuentes externas
+        #                          (papers/web/pdf) lo poblarán con SHA-256 del blob
+        #                          en data/sources/. YouTube actual no lo usa (fuente
+        #                          cacheada en ProxySummaries/).
     }
 }
 ```
@@ -769,7 +774,19 @@ Notas operativas:
 
 ### 9.1 Out of scope (specs futuras)
 
-- Workers de procesamiento (YouTube, papers, web, pdf) → **spec separada por tipo**
+- **Source Archive Layer** (Layer -1): content-addressable storage de fuentes raw
+  (PDFs, HTMLs scrapeados, transcripciones cacheadas). Esquema apuntado: directorio
+  `data/sources/<hash[:2]>/<hash>.<ext>` + tablas `source_files` y
+  `source_file_projects` en `data/ariadna.db`. Cada chunk ganaría
+  `source_metadata.source_file_hash` para trazabilidad. **Prerequisito conceptual
+  de los workers**: sin archivo local de las fuentes externas la wiki no es
+  reproducible (un paper retirado, una URL muerta, dejan chunks huérfanos).
+  Esta spec deja la key `source_file_hash` reservada en `source_metadata` para
+  uso futuro sin romper compatibility. **Spec separada antes de cualquier worker
+  de fuentes externas (papers/web/pdf)**.
+- Workers de procesamiento (YouTube, papers, web, pdf) → **spec separada por tipo**.
+  Asumen Source Archive ya implementado (excepto worker YouTube, que reutiliza el
+  cache existente de ProxySummaries).
 - Cross-project wikilinks/relations → si aparece necesidad, **spec menor independiente**
 - Tool conversacional `customize_project_scope` → si demanda real → spec
 - `delete_project` con UI confirmación → si demanda → spec
