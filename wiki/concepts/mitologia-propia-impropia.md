@@ -130,6 +130,11 @@ Esto arroja luz sobre por qué los autores que construyen mitos propios — como
 
 
 
+
+
+
+
+
 - video_id: `SwEqFdvBI9M` — Otoño de cuentos. Lovecraft
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839) · [1:42:09](https://youtu.be/tgP5_AvAnD8?t=6129)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [57:24](https://youtu.be/_0BM2jMsWdc?t=3444)

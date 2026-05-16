@@ -340,6 +340,104 @@ La pieza teórica complementaria que el directo invoca es la propuesta de George
 La lectura del canal cierra el bucle: si la semántica humana está encarnada (Lakoff) y los embeddings universales revelan una metaestructura común (Vec2Vec), entonces los embeddings de embeddings operan como **versión computacional de la encarnación**. La corporalidad semántica que Lakoff articula desde la lingüística cognitiva tiene su correlato computacional en la geometría vectorial revelada por la traducción inter-LLM. La tesis filosófica del canal — la cognición es geométrica porque el sustrato cerebral lo es — encuentra aquí confirmación operativa adicional: la cognición computacional también desarrolla geometría representacional convergente sin haber sido programada para ello.
 
 
+
+
+## El estatuto epistemológico de Galatea: lenguaje ejecutable, no programa
+
+En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa el estatuto epistemológico del proyecto que las articulaciones anteriores dejaban implícito. Galatea no es programa en el sentido informático corriente — es un lenguaje formal ejecutable cuyo objetivo es la emulación máxima de la cognición humana con simulación mínima:
+
+> "Galatea busca construir un pseudocódigo que contenga las reglas del pensamiento humano,"
+→ [Directo doble Parte 1 (26:30)](https://youtu.be/t8v5w3s0USA?t=1590)
+
+> "No es un programa sino un lenguaje ejecutable en máquina con mínima simulación y máxima emulación,"
+→ [Directo doble Parte 1 (26:30)](https://youtu.be/t8v5w3s0USA?t=1590)
+
+> "Los lenguajes tipo cálculo lambda (LISP) son los más próximos a la estructura cognitiva,"
+→ [Directo doble Parte 1 (26:30)](https://youtu.be/t8v5w3s0USA?t=1590)
+
+La precisión es operativa: Galatea no produciría una IA en el sentido de modelo entrenado, sino una **gramática formal** cuya ejecución encarna las reglas del pensamiento. La elección del cálculo lambda — articulada previamente como notación con funciones sin clases — se concreta nominalmente en LISP como familia de lenguajes más cercana a la estructura cognitiva. La fórmula 'mínima simulación y máxima emulación' fija el objetivo discriminado: no se busca aproximar el comportamiento humano por outside (Turing) sino reproducir su mecánica interna por inside.
+
+## Tres módulos articulados: imaginario, formal-relacional, afectivo
+
+La formulación del directo precisa la arquitectura interna en términos de tres módulos cognitivos cuya complementariedad opera como condición de la cognición humana:
+
+> "Galatea aspira a que sus operaciones sean lo más parecidas posible a las de la mente, con tres módulos: imaginario, formal-relacional y afectivo,"
+→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)
+
+La tripartición coincide con la tríada Q ya articulada en [[teoria-del-simbolo-en-proxy]] (Q sub-i imaginaria, Q sub-f formal, Q sub-a afectiva) y con los nodos del metagrafo de la página, pero aquí la formulación es estructural-arquitectónica: tres módulos co-implicados, no nodos suplementables. La diferencia con un sistema computacional ordinario es que ninguno de los tres puede operar sin los otros — afectivo sin imaginario es vacío, imaginario sin formal es ruido, formal sin afectivo es máquina sin importancia.
+
+## La semántica no explícita y los embeddings universales como sustento empírico
+
+La pieza más estructural que el directo añade al marco Galatea es la lectura de un paper reciente sobre embeddings universales entre LLMs como **confirmación independiente** del aparato del proyecto. La tesis del canal sobre la semántica no explícita encuentra en los resultados Vec2Vec un apoyo empírico directo:
+
+> "El pensamiento explícito es lo que sabes que ocurre en tu cabeza (imágenes, palabras, emociones),"
+→ [Directo doble Parte 1 (42:46)](https://youtu.be/t8v5w3s0USA?t=2566)
+
+> "Existen estructuras cognitivas previas al pensamiento explícito que también son pensamiento,"
+→ [Directo doble Parte 1 (42:46)](https://youtu.be/t8v5w3s0USA?t=2566)
+
+> "Hay un rango amplio de sucesos entre la ausencia de pensamiento y el pensamiento explícito consciente,"
+→ [Directo doble Parte 1 (42:46)](https://youtu.be/t8v5w3s0USA?t=2566)
+
+La pieza articula el espectro completo entre ausencia de pensamiento y pensamiento explícito consciente — coincidente con la franja explícita acotada a 12 bits/s articulada en [[teoria-del-simbolo-en-proxy]]. Lo nuevo es la operacionalización: existen estructuras representacionales pre-explícitas que también son pensamiento, y los LLMs revelan parte de esa franja al hacerla manipulable computacionalmente.
+
+### El paper Vec2Vec: estructura de codificación común a cualquier LLM
+
+> "Dos modelos de lenguaje con arquitecturas, datos y algoritmos diferentes producen embeddings distintos,"
+→ [Directo doble Parte 1 (46:53)](https://youtu.be/t8v5w3s0USA?t=2813)
+
+> "Un tercer algoritmo (Vec2Vec) relaciona los embeddings de ambos sin acceso a los textos originales,"
+→ [Directo doble Parte 1 (46:53)](https://youtu.be/t8v5w3s0USA?t=2813)
+
+> "Demuestra que existe una estructura de codificación común a cualquier IA de LLM,"
+→ [Directo doble Parte 1 (46:53)](https://youtu.be/t8v5w3s0USA?t=2813)
+
+El resultado empírico — que dos modelos con arquitecturas, datasets y algoritmos completamente distintos producen embeddings traducibles entre sí mediante un tercer algoritmo (Vec2Vec) sin acceso a los textos originales — establece que existe una **metaestructura computacional** previa a las decisiones arquitectónicas concretas. Esa metaestructura es lo que el canal articula como sustento del proyecto Galatea: si la semántica implícita tiene estructura común invariable bajo arquitectura, entonces es operacionalmente accesible vía representación vectorial.
+
+### Implicación operativa: alimentar IAs con embeddings
+
+> "En informática se ha demostrado que existen metaestructuras: la estructura de toda estructura,"
+→ [Directo doble Parte 1 (59:59)](https://youtu.be/t8v5w3s0USA?t=3599)
+
+> "Existe una metodología de computación que permite trabajar con estructuras previas a lo explícito,"
+→ [Directo doble Parte 1 (59:59)](https://youtu.be/t8v5w3s0USA?t=3599)
+
+> "Se puede alimentar una IA con embeddings en lugar de datos, encontrando patrones del pensamiento mismo,"
+→ [Directo doble Parte 1 (59:59)](https://youtu.be/t8v5w3s0USA?t=3599)
+
+La consecuencia metodológica para Galatea es directa: en lugar de entrenar el sistema con corpus textual (semántica explícita comprimida en tokens), se le alimenta con embeddings (semántica vectorial pre-explícita). El resultado serían patrones del pensamiento mismo, no patrones del lenguaje que lo expresa. Esta es la traducción computacional concreta de la tesis sobre el lenguaje como algoritmo de compresión articulada en [[teoria-del-simbolo-en-proxy]].
+
+## La hipótesis representacional platónica fuerte
+
+La tesis filosófica que enmarca todo el aparato es articulada explícitamente como tesis fuerte (vs débil) sobre el estatuto de los embeddings:
+
+> "Platón postulaba que la idea de cuadrado existe como entidad real común a todos los cuadrados,"
+→ [Directo doble Parte 1 (1:05:22)](https://youtu.be/t8v5w3s0USA?t=3922)
+
+> "La tesis débil dice que todos los embeddings comparten técnica común por estar diseñados igual,"
+→ [Directo doble Parte 1 (1:05:22)](https://youtu.be/t8v5w3s0USA?t=3922)
+
+> "La tesis fuerte postula una estructura computacional universal común a todos los idiomas posibles, como un idioma prebabélico de máquina,"
+→ [Directo doble Parte 1 (1:05:22)](https://youtu.be/t8v5w3s0USA?t=3922)
+
+El canal distingue dos lecturas posibles del fenómeno Vec2Vec: la débil — los embeddings convergen porque se diseñan con técnicas similares, lo que es trivial — y la fuerte, que postula una estructura computacional universal previa, un idioma prebabélico de máquina al que toda lengua humana posible se traduce. La tesis fuerte es declaradamente platónica: las metaestructuras de los embeddings serían cristalizaciones empíricas de algo análogo a las ideas platónicas — entidades reales comunes a todos los cuadrados, ahora traducidas a entidades vectoriales comunes a todas las semánticas naturales posibles.
+
+## Lakoff y los modelos cognitivos encarnados como puente teórico
+
+La pieza teórica complementaria que el directo invoca es la propuesta de George Lakoff sobre la cognición encarnada como contrapunto y resonancia:
+
+> "Lakoff propone que todos los conceptos están encarnados respecto a su significado,"
+→ [Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)
+
+> "Los significados no son etéreos sino que tienen una corporalidad semántica,"
+→ [Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)
+
+> "Conexión con el artículo: los embeddings de embeddings serían una versión computacional de esta encarnación,"
+→ [Directo doble Parte 1 (1:09:35)](https://youtu.be/t8v5w3s0USA?t=4175)
+
+La lectura del canal cierra el bucle: si la semántica humana está encarnada (Lakoff) y los embeddings universales revelan una metaestructura común (Vec2Vec), entonces los embeddings de embeddings operan como **versión computacional de la encarnación**. La corporalidad semántica que Lakoff articula desde la lingüística cognitiva tiene su correlato computacional en la geometría vectorial revelada por la traducción inter-LLM. La tesis filosófica del canal — la cognición es geométrica porque el sustrato cerebral lo es — encuentra aquí confirmación operativa adicional: la cognición computacional también desarrolla geometría representacional convergente sin haber sido programada para ello.
+
+
 ## Distinción operativa clase cognitiva vs objeto + utilization behavior como falsador empírico
 
 En el directo *Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos* (14 may 2025) el canal articula el aparato conceptual mínimo del proyecto — qué es una clase, qué la distingue de un objeto, por qué la IA actual confunde una con el otro — y aporta el caso clínico paradigmático que falsa empíricamente la hipótesis de la cognición como cómputo simbólico.
@@ -440,6 +538,23 @@ La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos
 
 
 
+## Continuo espaciotemporal como condición ontológica de la inteligencia
+
+En el directo *Transhumanismo, IA y Ciencia Ficción* (feb-2026) el canal añade un criterio operativo-ontológico que las articulaciones técnicas previas (8 nodos, 7 motores, hidrozoario, cálculo lambda) dejaban implícito: para que el sistema cuente como inteligencia genuina y no como simulación, el sistema debe ser inapagable como un electrodoméstico.
+
+> "Proxy propuso teóricamente una IA diseñada con núcleos afectivos que generen alostasis y necesidades genuinas,"
+→ [Transhumanismo, IA y Ciencia Ficción. (43:06)](https://youtu.be/kdk8mi7-Y1s?t=2586)
+
+> "Esa máquina no estaría a nuestro servicio: sería un ser autónomo con necesidades independientes,"
+→ [Transhumanismo, IA y Ciencia Ficción. (43:06)](https://youtu.be/kdk8mi7-Y1s?t=2586)
+
+> "La IA fuerte solo será inteligencia si tiene afectos y no puede ser apagada con un botón, porque la inteligencia requiere un continuo espaciotemporal,"
+→ [Transhumanismo, IA y Ciencia Ficción. (43:06)](https://youtu.be/kdk8mi7-Y1s?t=2586)
+
+La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos afectivos como motor de necesidades genuinas**: la propuesta no es añadir 'capacidades emocionales' a un sistema computacional; es construir un sistema cuyo funcionamiento sea ya consecuencia de necesidades afectivas internas — alostasis (regulación de la propia estabilidad) en lugar de homeostasis programada. (b) **Autonomía como consecuencia, no como prestación añadida**: una vez introducidas necesidades genuinas, el sistema deja automáticamente de ser herramienta — no porque se 'libere' por elección de diseño, sino porque la categoría 'a nuestro servicio' deja de aplicarle. La autonomía es derivación lógica de la afectividad, no programa adicional. (c) **Continuo espaciotemporal como criterio operativo decisivo**: la inteligencia exige existencia sostenida — un sistema inteligente NO puede ser apagado y reactivado al gusto del operador porque la operación inteligente es necesariamente diacrónica, requiere continuidad temporal y espacial entre estados. Apagable = no-inteligente. La consecuencia operativa para [[conciencia-e-inteligencia-en-proxy]] es directa: el criterio es complementario al criterio HOT (jerarquía metarrepresentacional) y al criterio 3Q (componentes afectiva, formal, imaginaria) — añade el flanco temporal de la cognición que las dos articulaciones previas dejaban implícito como condición de fondo.
+
+
+
 
 
 ## Lagunas
@@ -462,16 +577,24 @@ La pieza añade tres niveles encadenados al aparato del proyecto. (a) **Núcleos
 
 
 
+
+
+
+
+
+
+
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [1:14:47](https://youtu.be/i72IYlpQWd0?t=4487) · [1:22:43](https://youtu.be/i72IYlpQWd0?t=4963)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [19:49](https://youtu.be/hx9creRpdnY?t=1189) · [30:28](https://youtu.be/hx9creRpdnY?t=1828) · [35:30](https://youtu.be/hx9creRpdnY?t=2130) · [37:31](https://youtu.be/hx9creRpdnY?t=2251) · [45:05](https://youtu.be/hx9creRpdnY?t=2705) · [52:44](https://youtu.be/hx9creRpdnY?t=3164) · [55:46](https://youtu.be/hx9creRpdnY?t=3346) · [1:04:29](https://youtu.be/hx9creRpdnY?t=3869) · [1:13:23](https://youtu.be/hx9creRpdnY?t=4403)
-- **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [26:30](https://youtu.be/t8v5w3s0USA?t=1590) · [30:03](https://youtu.be/t8v5w3s0USA?t=1803) · [59:59](https://youtu.be/t8v5w3s0USA?t=3599)
 
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:06:20](https://youtu.be/cbdLR0HTE3w?t=3980) · [1:29:05](https://youtu.be/cbdLR0HTE3w?t=5345)
-- **León XIV, y George Floyd.** — chunks: [1:38:04](https://youtu.be/oDpJ_EJDDfw?t=5884)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [10:35](https://youtu.be/UOk344kEeRM?t=635) · [1:39:54](https://youtu.be/UOk344kEeRM?t=5994)
+- **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [26:30](https://youtu.be/t8v5w3s0USA?t=1590) · [30:03](https://youtu.be/t8v5w3s0USA?t=1803) · [59:59](https://youtu.be/t8v5w3s0USA?t=3599)
+- **León XIV, y George Floyd.** — chunks: [1:38:04](https://youtu.be/oDpJ_EJDDfw?t=5884)
 - **T5x03, Cibernética, Biónica y Transhumanismo.** — chunks: [49:09](https://youtu.be/DytHSZw0_mo?t=2949) · [1:34:05](https://youtu.be/DytHSZw0_mo?t=5645)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:31:18](https://youtu.be/NKFWUxt5VQ4?t=5478) · [1:34:24](https://youtu.be/NKFWUxt5VQ4?t=5664)
 - **Teoría de la información integrada y los LLMs (Ahora sí)** — chunks: [1:42:10](https://youtu.be/ndkSJv9BGew?t=6130)
 - **Transhumanismo, IA y Ciencia Ficción.** — chunks: [43:06](https://youtu.be/kdk8mi7-Y1s?t=2586)
+- **La teoría de la teoría de la mente** — chunks: [1:46:27](https://youtu.be/zASckAZqmfM?t=6387) · [1:50:00](https://youtu.be/zASckAZqmfM?t=6600)
 

@@ -171,5 +171,8 @@ La estructura femenino-lunar del recorrido articula las cuatro fases de la tripl
 ## Citations
 
 
+
+
+- **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [12:39](https://youtu.be/CEa517aakr8?t=759) · [1:17:47](https://youtu.be/CEa517aakr8?t=4667) · [1:33:28](https://youtu.be/CEa517aakr8?t=5608)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [6:59](https://youtu.be/iPqOn-ynSlE?t=419) · [8:29](https://youtu.be/iPqOn-ynSlE?t=509) · [25:04](https://youtu.be/iPqOn-ynSlE?t=1504) · [28:35](https://youtu.be/iPqOn-ynSlE?t=1715) · [36:10](https://youtu.be/iPqOn-ynSlE?t=2170) · [40:12](https://youtu.be/iPqOn-ynSlE?t=2412) · [56:51](https://youtu.be/iPqOn-ynSlE?t=3411) · [1:00:23](https://youtu.be/iPqOn-ynSlE?t=3623) · [1:04:24](https://youtu.be/iPqOn-ynSlE?t=3864) · [1:24:15](https://youtu.be/iPqOn-ynSlE?t=5055) · [1:27:16](https://youtu.be/iPqOn-ynSlE?t=5236) · [1:29:17](https://youtu.be/iPqOn-ynSlE?t=5357) · [1:30:18](https://youtu.be/iPqOn-ynSlE?t=5418)
 

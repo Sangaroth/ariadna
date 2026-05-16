@@ -155,6 +155,47 @@ El desplazamiento de la supervivencia por la alostasis tiene consecuencias que t
 
 La esperanza, en este modelo, no es estado psicológico subjetivo añadido al sustrato biológico — es **inhibidor del apagón**, pieza funcional del programa alostático. Su retirada activa el interruptor.
 
+## Automorición como conducta no motivada: la mecánica afectiva alostática rota
+
+En directo posterior el canal extiende el modelo del apagón orgánico al fenómeno específico del suicidio articulándolo como **conducta no motivada** — fallo estructural de la mecánica afectiva alostática que descalibra la capacidad misma de ponderar. La pieza tiene consecuencia diagnóstica fuerte: la automorición es la conducta más difícil de predecir precisamente porque no se origina en el aparato motivacional ordinario.
+
+> "La automorición es la conducta más difícil de predecir porque carece de predictores fiables,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)
+
+> "Puede que no sea una decisión en sentido convencional sino un fallo en la mecánica afectiva alostática que elimina la capacidad de ponderar,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)
+
+> "Los afectos son valencias de la matriz interna que colorean la realidad para motivar acciones; si esa ecuación no funciona, la conducta se desliga de la motivación normal,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)
+
+La formulación articula explícitamente la pieza que la página enunciaba en plano fisiológico (el apagón como objetivo programado, la esperanza como inhibidor) y la traslada al plano psíquico-afectivo: los afectos operan como valencias que colorean la realidad y motivan la acción; si la ecuación afectiva colapsa, la conducta queda desligada del aparato motivacional y se vuelve impredecible desde fuera. La automorición es ese caso límite — no falla la motivación hacia tal o cual fin, falla el mecanismo mismo que produce la motivación.
+
+### Eliminación de los predictores ordinarios
+
+El canal articula la tesis de fallo motivacional descartando operativamente los predictores que la psiquiatría clínica ordinaria invoca:
+
+> "La depresión no es predictor suficiente porque es un espectro demasiado amplio y hay personas no deprimidas que se automoren,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)
+
+> "La ideación suicida tampoco es un predictor fiable del acto,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)
+
+> "También ocurre en estados maníacos o de euforia anómala, lo que refuerza la hipótesis de un problema inhibitorio,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)
+
+> "No puede ser simplemente mayor impulsividad porque entonces habría personalidades más propensas y no las hay,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:36:12)](https://youtu.be/NjtK76xzV18?t=5772)
+
+La eliminación operativa de los tres candidatos clásicos — depresión como afecto dominante, ideación como variable cognitiva, impulsividad como rasgo de personalidad — refuerza la hipótesis del **fallo inhibitorio** estructural:
+
+> "Si es un déficit inhibitorio como en la psicosis, las ideaciones se convierten en actos porque falla el mecanismo que debería impedirlo,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:45:25)](https://youtu.be/NjtK76xzV18?t=6325)
+
+La analogía con la psicosis es operativa: en la psicosis falla la inhibición top-down de la actividad imaginaria bottom-up; en la automorición fallaría el mecanismo análogo que impide que las ideaciones suicidas latentes se conviertan en acto. La conducta no se origina en una motivación reforzada sino en la **caída del freno** que normalmente impediría que se ejecute una representación mental sin sustrato afectivo coherente.
+
+La consecuencia para el modelo del apagón orgánico es estructural: la automorición no es 'apagón orgánico voluntario' ni decisión ponderada de cesar — es la versión psíquica del mismo mecanismo de desconexión instantánea, donde lo que falla no es la fisiología sino la propia capacidad de calcular la conducta desde la mecánica afectiva. Esto explica clínicamente por qué los predictores ordinarios fracasan y por qué la automorición aparece tanto en estados depresivos como maníacos: ninguno de los dos cuadros afectivos es el predictor — el predictor sería una propiedad estructural del freno inhibitorio que ningún test psiquiátrico mide directamente.
+
+
 ## Lagunas
 
 - El canal articula el mecanismo del apagón pero no lo distingue clínicamente con precisión de la cardiomiopatía de Takotsubo (síndrome del corazón roto), que sí tiene mecanismo identificable por exceso de adrenalina — pendiente delimitación operacional entre ambas categorías de muerte súbita
@@ -163,6 +204,7 @@ La esperanza, en este modelo, no es estado psicológico subjetivo añadido al su
 - El estatuto epistemológico de las hipótesis no falsables (desconexión cerebral pre-impacto) queda señalado pero no resuelto — pregunta abierta sobre qué tipo de evidencia el canal admite cuando la falsación clásica falla
 
 ## Citations
+
 
 
 

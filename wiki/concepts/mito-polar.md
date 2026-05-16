@@ -103,6 +103,21 @@ Esta aclaración entronca con la página de [[anima-archetype]]: la polaridad es
 
 
 
+### Aplicación al aparato psíquico individual: consciente solar, inconsciente lunar
+
+El canal extiende en directo la cosmogonía polar al aparato psíquico individual mediante un mapping operativo que prolonga la triada solar/lunar/polar al eje consciente/inconsciente:
+
+> "Si el consciente es solar, el inconsciente es lunar; si la acción es masculina, la contemplación/recepción es femenina,"
+→ [Directo casual (29:23)](https://youtu.be/ECN5C9rsaZg?t=1763)
+
+> "Lo que nos ocurre sin que lo hagamos activamente pertenece a lo femenino,"
+→ [Directo casual (29:23)](https://youtu.be/ECN5C9rsaZg?t=1763)
+
+La operación traduce la cosmogonía polar a clave psicológica individual: lo activo/voluntario opera bajo régimen solar-masculino, lo que ocurre sin agencia consciente bajo régimen lunar-femenino. La pieza permite leer arquetipos del lado oscuro del inconsciente (Lilit como luna negra, formas de anhelo sin objeto, ansiedades sin causa identificable) como manifestaciones del polo lunar dentro del psiquismo individual, no como cosmogonías externas. La cosmogonía polar deja de ser solo mapa de mitos y pasa a ser mapa funcional del aparato psíquico cotidiano.
+
+
+
+
 ## Gramática arquetípica: verbos transitivos vs intransitivos
 
 En el mismo monográfico (*Mitología 101: Alien y el mito Polar*) el canal articula una pieza lingüístico-arquetípica que precisa la diferencia operativa entre los dos polos: lo masculino y lo femenino se distinguen por el tipo de gramática verbal con la que operan.
@@ -300,6 +315,18 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -309,15 +336,15 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 
 - **Análisis arquetípico: Excalibur** — chunks: [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [2:29:37](https://youtu.be/lOpCXo1pi2M?t=8977)
+- **Presentación del Libro: Polaris** — chunks: [32:05](https://youtu.be/rLeMS4-XFrA?t=1925) · [1:23:09](https://youtu.be/rLeMS4-XFrA?t=4989)
+- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **Directo casual** — chunks: [29:23](https://youtu.be/ECN5C9rsaZg?t=1763)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
-- **Presentación del Libro: Polaris** — chunks: [32:05](https://youtu.be/rLeMS4-XFrA?t=1925) · [1:23:09](https://youtu.be/rLeMS4-XFrA?t=4989)
 - **Seguimos con Tolkien** — chunks: [1:00:29](https://youtu.be/OGah7BFoR3w?t=3629)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477) · [15:32](https://youtu.be/yAIPr0HzQqE?t=932) · [17:03](https://youtu.be/yAIPr0HzQqE?t=1023)
-- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [34:43](https://youtu.be/QSggWfjOkHk?t=2083)
 - **Taxonomía y filosofía del satanismo** — chunks: [1:58:16](https://youtu.be/4JW8act2SdE?t=7096)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [11:49](https://youtu.be/dHDv_oZODYQ?t=709)

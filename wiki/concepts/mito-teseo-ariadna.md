@@ -197,6 +197,17 @@ La Ariadna griega tiene equivalente distribuido en la obra de [[tolkien-jrr]]: G
 
 
 
+
+
+
+
+
+
+
+- **Ha vuelto a ocurrir. Otra vez.** — chunks: [1:19:10](https://youtu.be/l1hBW5I2_t0?t=4750)
+- **T5x03, Cibernética, Biónica y Transhumanismo.** — chunks: [1:34:05](https://youtu.be/DytHSZw0_mo?t=5645)
+- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:31:18](https://youtu.be/NKFWUxt5VQ4?t=5478)
+- **El mito de Dioniso** — chunks: [37:27](https://youtu.be/ttnUgH3jou8?t=2247) · [42:00](https://youtu.be/ttnUgH3jou8?t=2520)
 - **Mitología 101: Teseo y Ariadna** — chunks: [41:17](https://youtu.be/b03AszdViNw?t=2477) · [43:49](https://youtu.be/b03AszdViNw?t=2629) · [50:25](https://youtu.be/b03AszdViNw?t=3025) · [1:00:28](https://youtu.be/b03AszdViNw?t=3628) · [1:17:45](https://youtu.be/b03AszdViNw?t=4665) · [1:20:16](https://youtu.be/b03AszdViNw?t=4816) · [1:26:48](https://youtu.be/b03AszdViNw?t=5208) · [1:28:50](https://youtu.be/b03AszdViNw?t=5330) · [1:30:51](https://youtu.be/b03AszdViNw?t=5451)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [36:52](https://youtu.be/O4OkDuc3uPQ?t=2212)
 - **De Platón A The Matrix** — chunks: [59:05](https://youtu.be/zr_ZKX60N54?t=3545) · [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879)

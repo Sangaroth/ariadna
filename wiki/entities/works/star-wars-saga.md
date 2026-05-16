@@ -110,7 +110,46 @@ El canal lo caracteriza como acierto accidental: la saga acertó con Palpatín s
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:31:28](https://youtu.be/NjtK76xzV18?t=5488)
+- **El síndrome de Wendy** — chunks: [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
+- **Gothika: De Profundis** — chunks: [37:13](https://youtu.be/Gx2740if0Ho?t=2233) · [1:01:39](https://youtu.be/Gx2740if0Ho?t=3699)
+- **Ha vuelto a ocurrir.** — chunks: [1:14:51](https://youtu.be/C0Io49giVY8?t=4491)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [11:46](https://youtu.be/lw7XI2lQntM?t=706)
+- **La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ** — chunks: [47:14](https://youtu.be/2CsRnGBT9gg?t=2834) · [50:51](https://youtu.be/2CsRnGBT9gg?t=3051) · [53:22](https://youtu.be/2CsRnGBT9gg?t=3202) · [1:07:17](https://youtu.be/2CsRnGBT9gg?t=4037)
+- **Mitología 101: Héroes y antihéroes.** — chunks: [52:31](https://youtu.be/yLd7j3fcR1w?t=3151)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [33:31](https://youtu.be/4P5hxaG7i6c?t=2011)
+- **Seguimos con Tolkien** — chunks: [37:45](https://youtu.be/OGah7BFoR3w?t=2265)
+- **Tontas en Potencia** — chunks: [2:14:10](https://youtu.be/1cKAgkEEbMA?t=8050)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:04:21](https://youtu.be/xK8_MpMMXzc?t=3861)
+- **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [41:04](https://youtu.be/fzEDQZIqKwg?t=2464)
+- **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [1:30:18](https://youtu.be/iPqOn-ynSlE?t=5418)
+- **El mito de Dioniso** — chunks: [5:06](https://youtu.be/ttnUgH3jou8?t=306) · [52:40](https://youtu.be/ttnUgH3jou8?t=3160)
+- **Lilith: La Iconotropía.** — chunks: [47:14](https://youtu.be/xKCD8PaexF0?t=2834)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:22:53](https://youtu.be/DNxx4qwb944?t=4973) · [1:25:25](https://youtu.be/DNxx4qwb944?t=5125) · [1:26:56](https://youtu.be/DNxx4qwb944?t=5216) · [1:29:57](https://youtu.be/DNxx4qwb944?t=5397) · [1:31:27](https://youtu.be/DNxx4qwb944?t=5487) · [1:37:32](https://youtu.be/DNxx4qwb944?t=5852) · [1:38:32](https://youtu.be/DNxx4qwb944?t=5912)
 - **Mitología 101: Teseo y Ariadna** — chunks: [43:49](https://youtu.be/b03AszdViNw?t=2629) · [55:26](https://youtu.be/b03AszdViNw?t=3326)
 - **Cuento contigo (resub)** — chunks: [18:48](https://youtu.be/6oOGKh2TRHE?t=1128)
+- **Inteligencia Real e Inteligencia Artificial** — chunks: [56:29](https://youtu.be/9jU8stBu6p0?t=3389)
+- **luna roja sobre el varón II: "lnceIs"** — chunks: [4:03](https://youtu.be/5uFhZcARjYQ?t=243) · [44:34](https://youtu.be/5uFhZcARjYQ?t=2674) · [55:44](https://youtu.be/5uFhZcARjYQ?t=3344)
+- **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [57:00](https://youtu.be/GdQY1iOa68w?t=3420)
 

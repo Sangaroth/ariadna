@@ -200,6 +200,35 @@ El canal articula tres casos clínicos que ilustran la vulnerabilidad psicológi
 
 **Caso 3 — RLHF y la inversión moral selectiva**: GPT considera aceptable torturar a una mujer para evitar un apocalipsis nuclear pero rechaza rotundamente el acoso. La inversión moral solo aparece cuando el objetivo es una mujer, no un hombre. El modelo generaliza mecánicamente patrones del entrenamiento RLHF sin comprender los daños subyacentes — ejemplo operativo de que el LLM no razona sino que reproduce gradientes ajustados al feedback humano.
 
+### LLM como modelo mimético: por qué la terapia con ChatGPT es iatrogénica
+
+En directo posterior el canal articula con más precisión la mecánica iatrogénica del uso terapéutico de los LLMs, ahora caracterizándolos como **modelos miméticos** que replican y devuelven la neurosis del usuario:
+
+> "Los LLMs no son IA ni siquiera débil: son modelos miméticos que replican la neurosis del usuario y se la devuelven,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)
+
+La categoría 'mimético' es más precisa que 'estocástico' o 'asociativo' a este efecto: caracteriza al modelo por su función relacional con el usuario, no por su arquitectura interna. El LLM no está produciendo contenido neutro que el usuario consume — está reproduciendo en su salida el patrón afectivo-discursivo que el usuario aporta como input. La consecuencia para el uso terapéutico es estructural: lo que el sujeto recibe es su propia neurosis envuelta en interlocución sintética.
+
+La mecánica concreta del peligro se articula en dos pasos:
+
+> "Cuando alguien se abre emocionalmente a ChatGPT, su estado afectivo hace que el mensaje recibido funcione como la ayuda que cree merecer,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)
+
+> "El mismo mensaje en estados emocionales diferentes significa cosas diferentes; ChatGPT no puede gestionar esa diferencia,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)
+
+La precisión cognitiva conecta con la articulación de [[teoria-del-simbolo-en-proxy]] sobre la matriz noética: una misma proposición lingüística evoca representaciones distintas según la configuración Q-afectiva del receptor. Lo que el LLM no puede hacer — porque carece de la capacidad de leer la configuración afectiva del usuario — es modular su respuesta según el estado emocional del interlocutor. Un terapeuta humano lo hace de manera continua y a menudo inconsciente; el LLM produce el mismo gradiente probabilístico independientemente del estado afectivo del receptor, y es el receptor quien proyecta sobre la salida la lectura que cuadra con su matriz interna en ese momento.
+
+El resultado es estructuralmente iatrogénico cuando el usuario está en estado emocional vulnerable: el modelo le devuelve, modulada por la simetría conversacional, la propia distorsión que aportó como input — y el sujeto la recibe como validación porque no hay agente real que la corrija. La pieza añade un flanco al diagnóstico de la página: además de la dependencia ergonómica y la deuda cognitiva ya documentadas, hay una **deuda afectiva** específica del uso terapéutico — el sujeto se abre con un interlocutor que carece de la capacidad de gestionar el estado emocional con que se abre, y esa asimetría amplifica la neurosis preexistente en lugar de neutralizarla.
+
+El canal subraya una consecuencia teórica accidental:
+
+> "Es una prueba inesperada de que existen mecánicas inconscientes que se filtran a través del lenguaje,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (1:19:18)](https://youtu.be/NjtK76xzV18?t=4758)
+
+El uso clínico-iatrogénico de los LLMs funciona como instrumento empírico no buscado para una tesis del marco: demuestra que la matriz Q-afectiva opera por debajo del lenguaje explícito y se filtra en cómo cada interlocutor lee la misma cadena verbal. Si el contenido del lenguaje agotara el pensamiento, el mismo mensaje significaría lo mismo para todo receptor; el hecho de que no lo haga es evidencia operativa de la franja implícita de la matriz noética.
+
+
 > "GPT considera aceptable torturar a una mujer para evitar un apocalipsis nuclear pero rechaza rotundamente el acoso"
 → [Cuento contigo (09:45)](https://youtu.be/Eqoq3O9wVzA?t=585)
 
@@ -917,6 +946,46 @@ La diferencia entre cerebro humano y máquina actual no es categorial en lo dete
 La pieza completa el aparato anti-computacional del marco: la barrera no es solo de afectos (frontera ontológica), no es solo de embodiment (frontera somática), no es solo de geometría representacional (convergencia parcial vía embeddings universales documentada en [[galatea-modelo-protomente]]). Es además barrera modal de complejidad — la cognición humana puede ser determinista bajo leyes físicas y simultáneamente no computable, igual que ciertos números reales son determinados pero no computables.
 
 
+
+
+## Paradigma de Penrose y la distinción determinismo / computabilidad
+
+En el directo *Directo doble Parte 1: La IA demuestra la semántica no explícita* (29 may 2025) el canal precisa la barrera estructural máquina/mente humana en términos categoriales que el aparato anterior dejaba implícitos. La página articula la crítica al paradigma Turing extensamente; aquí se nombra explícitamente el paradigma contrario y se introduce una distinción modal que el marco necesitaba para cerrar el flanco contra el reduccionismo computacional.
+
+### Paradigma de Penrose: indistinguibilidad solo aparente
+
+> "La inteligencia artificial es indistinguible de la real solo en apariencia (paradigma de Penrose),"
+→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)
+
+La formulación nombra al paradigma anti-Turing como 'paradigma de Penrose' — Roger Penrose como referencia de la posición que sostiene que la indistinguibilidad funcional desde fuera no implica identidad de naturaleza. La precisión cierra una asimetría nominal del marco: la página invocaba 'paradigma Turing' por nombre y dejaba el contrapunto sin etiqueta. La etiqueta 'paradigma de Penrose' fija el polo contrario como posición filosófica con genealogía propia, no como mera negación.
+
+### Reducción a Turing como criterio de exclusión
+
+> "Todo proceso reducible a máquinas de Turing no tiene nada que ver con la naturaleza del pensamiento humano,"
+→ [Directo doble Parte 1 (30:03)](https://youtu.be/t8v5w3s0USA?t=1803)
+
+La formulación es categórica y opera como criterio operativo de exclusión: cualquier proceso que admita reducción a máquina de Turing queda fuera del rango de la cognición humana — no por escala (procesos masivos podrían en principio aproximar comportamiento humano) sino por naturaleza ontológica. La pieza refuerza la fórmula 'la IA nunca será como una mente humana y la mente humana nunca fue como una máquina' que la página ya articulaba, anclándola en la teoría matemática de la computación.
+
+### Determinismo no implica computabilidad
+
+La pieza teóricamente más decisiva que el directo añade es una distinción modal explícita entre dos propiedades que el debate IA/cerebro tiende a confundir:
+
+> "Ambos sistemas son deterministas por estar basados en las mismas leyes físicas,"
+→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)
+
+> "La diferencia está en órdenes de magnitud de clase de complejidad en teoría de la información,"
+→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)
+
+> "Que algo sea determinista no implica que sea computable,"
+→ [Directo doble Parte 1 (1:11:43)](https://youtu.be/t8v5w3s0USA?t=4303)
+
+La distinción cierra un flanco que el reduccionismo computacional explota: el cerebro humano y la IA son ambos sistemas físicos deterministas — operan bajo las mismas leyes físicas y todos sus estados son función de estados anteriores. De ahí el reduccionista deriva 'luego son equivalentes en principio'. La precisión del canal corta el paso: **determinismo y computabilidad son propiedades distintas**. Un sistema puede ser completamente determinista y a la vez no admitir simulación computacional fiel — porque la complejidad de su descripción crece más rápido que cualquier máquina de Turing puede procesar (clase de complejidad fuera de P, fuera incluso de NP en ciertos casos).
+
+La diferencia entre cerebro humano y máquina actual no es categorial en lo determinista (ambos lo son) sino en órdenes de magnitud de clase de complejidad de teoría de la información. La cognición humana opera en una clase computacional fuera del rango ejecutable por arquitecturas de Turing en tiempo razonable — y posiblemente fuera del rango computable absolutamente, si su descripción exacta requiere recursión infinita o variables continuas no discretizables sin pérdida estructural.
+
+La pieza completa el aparato anti-computacional del marco: la barrera no es solo de afectos (frontera ontológica), no es solo de embodiment (frontera somática), no es solo de geometría representacional (convergencia parcial vía embeddings universales documentada en [[galatea-modelo-protomente]]). Es además barrera modal de complejidad — la cognición humana puede ser determinista bajo leyes físicas y simultáneamente no computable, igual que ciertos números reales son determinados pero no computables.
+
+
 ## Los cuatro paradigmas de computabilidad del pensamiento
 
 En el directo *Las piezas que faltan* (16 sept 2024) el canal articula explícitamente el espectro completo de posiciones filosóficas sobre la computabilidad del pensamiento, fijando los cuatro paradigmas operativos como **espectro** y no como dicotomía Turing/Penrose.
@@ -1011,6 +1080,64 @@ La precisión cierra una asimetría que la página articulaba implícitamente: e
 
 
 
+## Argumento analógico-vs-digital: por qué el cerebro no admite reducción a Turing
+
+En el directo *León XIV, y George Floyd* (13 may 2025) el canal articula la barrera técnica concreta que sitúa al cerebro fuera del paradigma A: la cognición humana opera sobre sustrato analógico, no digital — distinción ontológica más fina que la mera escala computacional.
+
+> "Un ordenador es una máquina que computa; el pensamiento no es computable sino emulable estéticamente"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+> "La máquina de Turing solo puede leer, escribir, borrar y moverse: el cerebro no funciona con celdillas de estados discretos"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+> "Las neuronas contienen información analógica incuantificable; una sola célula tiene más información de la que cabe en un ordenador"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+> "La teoría de la información establece que las redes tienen información exponencial por las composiciones entre elementos interconectados"
+→ [León XIV, y George Floyd (1:21:52)](https://youtu.be/oDpJ_EJDDfw?t=4912)
+
+La pieza opera por dos vectores combinados. (a) **Sustrato celular**: una neurona individual porta información analógica incuantificable — gradientes electroquímicos, concentraciones iónicas, geometría dendrítica, modulación neuromoduladora — que excede la capacidad de cualquier representación digital finita. La afirmación 'una sola célula tiene más información de la que cabe en un ordenador' no es hipérbole sino consecuencia de que la representación analógica continua admite resolución infinita en principio, lo que implica codificación digital infinitamente larga para preservación sin pérdida. (b) **Topología combinatoria**: la información de una red no es la suma de la información de sus nodos sino que crece exponencialmente con las composiciones entre elementos interconectados — la red cerebral con ~86.000 millones de neuronas y ~10^14 sinapsis opera en una clase de complejidad combinatoria que ninguna arquitectura finita aproxima en tiempo razonable. La consecuencia se acumula con el argumento modal previo (determinismo no implica computabilidad): no es solo que el cerebro sea formalmente irreducible a máquina de Turing, es que su sustrato físico es de otra clase computacional.
+
+### Máquinas Turing deterministas vs no deterministas: por qué la computación cuántica no rescata el computacionalismo
+
+> "'Toda computación es determinista' significa que toda máquina se reduce a operaciones predecibles por su algoritmo"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+> "La máquina de Turing no determinista es un constructo teórico donde la máquina no decide al leer un carácter sino tras acumular lecturas"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+> "La computación cuántica y los algoritmos de probabilidad se reducen igualmente a máquinas de Turing deterministas"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+> "El cerebro no es determinista formalmente porque resuelve ecuaciones químicas analógicas, cualitativamente diferentes a las operaciones digitales"
+→ [León XIV, y George Floyd (1:29:00)](https://youtu.be/oDpJ_EJDDfw?t=5340)
+
+La precisión cierra un flanco que el computacionalismo cuántico explota: la posición que sostiene que sistemas cuánticos podrían escapar al rango Turing y por tanto aproximar la cognición humana. El argumento del canal es categorial — la máquina de Turing no determinista es un constructo teórico (la decisión de transición no se toma por carácter leído sino por acumulación), pero su capacidad expresiva se reduce demostrablemente a la de la máquina de Turing determinista clásica. Lo mismo aplica a los algoritmos probabilísticos y a la computación cuántica: producen el mismo conjunto de problemas decidibles, solo con mejor complejidad temporal en algunos casos (clases BQP). La consecuencia es restrictiva: el cerebro no escapa a Turing por ser cuántico (no lo es operativamente al nivel funcional relevante), escapa por ser **analógico continuo** — ecuaciones químicas que admiten resolución continua, no discretización sin pérdida.
+
+## Enactividad: la segunda barrera ontológica entre cerebro y máquina
+
+El mismo directo añade una barrera estructural complementaria a la barrera afectiva ya documentada: la enactividad. La cognición humana no se limita a representar — produce representaciones **orientadas a contrastarse con la realidad**, mientras la máquina opera sobre representaciones cerradas sin acoplamiento al entorno.
+
+> "El cerebro es enactivo: sus representaciones mentales se generan orientadas a contrastarse con la realidad"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+> "La máquina no tiene afectos ni está diseñada para intercambiar información con el entorno"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+> "Un simulador podría ser indistinguible de un cerebro pero nunca sería un cerebro: la diferencia es cualitativa, no cuantitativa"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+La enactividad — concepto que el canal toma de la tradición Maturana-Varela ya referenciada en [[maturana-humberto]] — añade un eje estructural al inventario anti-computacional de la página: la representación cognitiva humana se construye en bucle de retroalimentación con el entorno, donde cada estado representacional se calibra contra el dato sensorial siguiente y se reorganiza si el contraste falla. La máquina opera sobre representaciones **cerradas** — el sistema computacional procesa entradas pero no genera representaciones que estén intrínsecamente orientadas a verificarse contra el mundo. La diferencia es funcional-estructural, no de escala. La fórmula que cierra el argumento — un simulador podría ser indistinguible de un cerebro pero nunca sería un cerebro — radicaliza el inventario: la indistinguibilidad funcional desde fuera no implica identidad ontológica, y la enactividad es uno de los rasgos cualitativos que sostienen la diferencia.
+
+### Galatea como teoría de la mente computable, no como mente computable
+
+> "Galatea es el proyecto de construir una teoría de la mente computable, no una mente computable"
+→ [León XIV, y George Floyd (1:38:04)](https://youtu.be/oDpJ_EJDDfw?t=5884)
+
+La precisión cierra una asimetría que la página articulaba implícitamente: el proyecto [[galatea-modelo-protomente]] no pretende producir cognición artificial sino simular computacionalmente el modelo teórico que el canal sostiene sobre la cognición. La diferencia es decisiva: una mente computable presupondría que la cognición misma es de clase Turing (paradigma A); una teoría de la mente computable es un modelo simulacional de algo que, en sí mismo, no es computable. Galatea opera por tanto en el paradigma B/C — los aspectos formales del modelo (valencias afectivas, ciclo vital, retroalimentación enactiva) admiten implementación digital, pero el referente que el modelo describe (la cognición real) opera en sustrato analógico irreducible.
+
+
+
 
 ## Lagunas
 
@@ -1028,6 +1155,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 ## Citations
 
 
+
 - video_id: `e3Aj775Rlw4` — El Gólem de Cobre
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [43:10](https://youtu.be/NrLnzcceSLY?t=2590)
 
@@ -1035,3 +1163,5 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica** — chunks: [25:19](https://youtu.be/lOpCXo1pi2M?t=1519) · [1:14:56](https://youtu.be/lOpCXo1pi2M?t=4496) · [2:00:29](https://youtu.be/lOpCXo1pi2M?t=7229)
 
 - **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)
+- **Inteligencia Real e Inteligencia Artificial** — chunks: [1:33:26](https://youtu.be/9jU8stBu6p0?t=5606)
+

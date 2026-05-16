@@ -221,6 +221,10 @@ Ver [[magia-postmoderna-en-proxy]] para el desarrollo posterior de estas estruct
 
 
 
+
+
+
+- **El mito de Dioniso** — chunks: [7:09](https://youtu.be/ttnUgH3jou8?t=429) · [9:40](https://youtu.be/ttnUgH3jou8?t=580)
 - **Mitología 101: Perséfone** — chunks: [1:32](https://youtu.be/VDOUrpcC4fU?t=92) · [18:42](https://youtu.be/VDOUrpcC4fU?t=1122) · [20:12](https://youtu.be/VDOUrpcC4fU?t=1212) · [25:46](https://youtu.be/VDOUrpcC4fU?t=1546) · [27:47](https://youtu.be/VDOUrpcC4fU?t=1667) · [32:52](https://youtu.be/VDOUrpcC4fU?t=1972) · [40:56](https://youtu.be/VDOUrpcC4fU?t=2456) · [45:36](https://youtu.be/VDOUrpcC4fU?t=2736) · [59:47](https://youtu.be/VDOUrpcC4fU?t=3587) · [1:02:48](https://youtu.be/VDOUrpcC4fU?t=3768) · [1:04:19](https://youtu.be/VDOUrpcC4fU?t=3859) · [1:05:50](https://youtu.be/VDOUrpcC4fU?t=3950) · [1:28:44](https://youtu.be/VDOUrpcC4fU?t=5324)
 - **Orfeo y Eurídice** — chunks: [54:40](https://youtu.be/1D0u-tK4v8c?t=3280) · [59:26](https://youtu.be/1D0u-tK4v8c?t=3566)
 

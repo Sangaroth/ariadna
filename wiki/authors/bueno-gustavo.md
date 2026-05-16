@@ -298,6 +298,76 @@ La pieza articula el ejemplo canónico de la inconmensurabilidad M1-M2 vía caso
 
 
 
+
+## Refinamientos del laboratorio dialéctico con Sofía (jul 2025)
+
+El directo *T4 Laboratorio de... filo, con Sofía* opera como pieza dialéctica donde Proxy confronta su realismo cognitivo con una estudiante directa del sistema buenista (Sofía). La sesión añade refinamientos operativos del aparato que las secciones anteriores tenían dispersos.
+
+### Wolf como antecedente histórico de la terna foundational
+
+> "Wolf ya establecía la terna Dios, mundo y alma; Bueno la reformula como mundo, materia ontológico general (M) y ego trascendental,"
+→ [Laboratorio de filo, con Sofía (07:41)](https://youtu.be/GizCbTycY4U?t=461)
+
+> "Estas tres ideas son la matriz de todo el sistema: sin entenderlas no se entiende nada del resto,"
+→ [Laboratorio de filo, con Sofía (07:41)](https://youtu.be/GizCbTycY4U?t=461)
+
+La pieza añade la genealogía histórica: la terna foundational del materialismo filosófico (mundo / materia ontológico general / ego trascendental) NO es invención ex nihilo de Bueno sino reformulación crítica de la terna escolástica clásica de Christian Wolf (Dios / mundo / alma). Bueno seculariza y materializa el esquema: 'Dios' deviene 'materia ontológico general' (idea límite regresiva, no entidad personal), 'alma' deviene 'ego trascendental' (sujeto operatorio histórico-social, no sustancia espiritual). La consecuencia operativa: el materialismo filosófico opera dentro del molde tripartito metafísico clásico aunque rechace su sustancialización tradicional. La pieza precisa por qué la sistemática buenista mantiene tres ideas y no dos o cuatro — el armazón histórico es escolástico-wolffiano y Bueno no lo reinventa, lo materializa.
+
+### Los tres reduccionismos materialistas criticados por Bueno
+
+El sistema buenista se construye en explícita oposición a tres modalidades reduccionistas del materialismo:
+
+> "El mecanicismo de Descartes reduce todo a causas y consecuencias físicas, negando emociones a los animales,"
+→ [Laboratorio de filo, con Sofía (09:12)](https://youtu.be/GizCbTycY4U?t=552)
+
+> "El corporeísmo de Demócrito afirma que todo son cuerpos, omitiendo M2 y M3,"
+→ [Laboratorio de filo, con Sofía (09:12)](https://youtu.be/GizCbTycY4U?t=552)
+
+> "El fisicalismo reduce todo a partículas sometidas a leyes de gravedad y energía, sin dar cuenta de instituciones sociológicas o antropológicas,"
+→ [Laboratorio de filo, con Sofía (09:12)](https://youtu.be/GizCbTycY4U?t=552)
+
+La pieza articula la triple oposición que define la singularidad del materialismo filosófico: NO es corporeísmo (Demócrito) porque admite M2 y M3 además de M1, NO es mecanicismo (Descartes) porque admite la complejidad psíquica más allá del par causa-efecto físico, NO es fisicalismo (analítico contemporáneo) porque admite las instituciones sociológicas y antropológicas como entidades ontológicas. La crítica del canal a la suficiencia del materialismo articulada en sección anterior ('M3 reabsorbido en M2') opera DENTRO de este reconocimiento — el realismo cognitivo no acusa a Bueno de fisicalismo encubierto, sino que disiente sobre si la tripartición M1/M2/M3 es la mejor articulación de la materialidad psíquica una vez aceptada la insuficiencia de los tres reduccionismos.
+
+### Concepto vs idea filosófica: la filosofía como saber de segundo grado
+
+> "Un concepto es un término dentro de un cierre categorial concreto (ej: \"estructura\" para un albañil),"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+> "Cuando ese concepto se maneja en múltiples cierres categoriales (matemáticas, gramática, sociología), se convierte en idea filosófica que desborda los conceptos,"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+> "La filosofía es un saber de segundo grado: va siempre detrás de la actividad cotidiana conceptual,"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+> "La idea de \"imperio\" desborda el ámbito político: imperar existe como estructura en múltiples ámbitos,"
+→ [Laboratorio de filo, con Sofía (37:59)](https://youtu.be/GizCbTycY4U?t=2279)
+
+La pieza precisa una distinción metodológica foundational del sistema buenista: la **filosofía como saber de segundo grado**. Los conceptos operan dentro de un cierre categorial concreto — el albañil maneja 'estructura' en su gremio sin necesidad de teorizar el término. Las ideas filosóficas surgen cuando un mismo término opera en múltiples cierres categoriales (estructura en arquitectura, en gramática, en matemáticas, en sociología). La idea filosófica es lo que **desborda** los conceptos disciplinares y exige sistematización trans-categorial. La filosofía no inventa: rastrea hacia atrás la actividad cotidiana conceptual buscando las ideas que ya operan transversalmente. La consecuencia para la lectura del corpus: cuando el canal articula 'sombra', 'individuación' o 'mito polar' no opera con conceptos de un solo cierre sino con ideas filosóficas en sentido buenista — términos que desbordan psicología, antropología, mitología y narrativa.
+
+### Acrónico y atópico: por qué M3 no se reduce a M2 según Sofía
+
+> "M3 tiene que ver con el pensamiento abstracto, instituciones y relaciones; es acrónico (el teorema de Pitágoras es verdad hace 2000 años como hoy) y atópico (puedes destruir todos los documentos y los sujetos podrían recrearlo),"
+→ [Laboratorio de filo, con Sofía (18:17)](https://youtu.be/GizCbTycY4U?t=1097)
+
+> "El teorema de Pitágoras no le pertenece a nadie: es acrónico, atópico y desborda cualquier sujeto individual,"
+→ [Laboratorio de filo, con Sofía (51:35)](https://youtu.be/GizCbTycY4U?t=3095)
+
+La pieza articula con precisión la propiedad ontológica que sostiene M3 como género autónomo según el argumento buenista que Sofía defiende: **acrónico** (independiente del tiempo: la verdad del teorema de Pitágoras no varía entre épocas) + **atópico** (independiente del lugar: aunque se destruyan todos los textos, los sujetos pueden recrear la verdad). La doble independencia espacio-temporal es lo que distingue M3 de M2 según el sistema: M2 (la representación que cada sujeto tiene de Pitágoras en su mente) es individual, contextual, contingente; M3 (la verdad del teorema) trasciende toda actualización M2 particular.
+
+La objeción del canal a esta articulación queda explícita en la sesión: 'cada cosa que se usa para hablar de M3 es un hecho representacional, nunca hay nada que señale M3 directamente si no es a través de M2'. La sesión cierra con Proxy reconociendo que M3 'le sigue costando' y que necesita más estudio — el debate queda abierto. La sesión es paradigmática del aprovechamiento crítico del aparato buenista que el canal ejerce: hereda la maquinaria conceptual y dialoga con sus defensores sin comprometerse con su completa coherencia ontológica.
+
+### El cerebro de Newton: M1 y M2 coextensivos pero inconmensurables
+
+> "Las ideas de Newton no se ven al abrir su cerebro, pero si le pones otro cerebro deja de ser Newton,"
+→ [Laboratorio de filo, con Sofía (25:21)](https://youtu.be/GizCbTycY4U?t=1521)
+
+> "M1 y M2 son coextensivos pero inconmensurables: no puedes usar uno para definir el otro,"
+→ [Laboratorio de filo, con Sofía (25:21)](https://youtu.be/GizCbTycY4U?t=1521)
+
+La pieza articula el ejemplo canónico de la inconmensurabilidad M1-M2 vía caso paradigmático: el cerebro de Newton es M1 (estructura física), las ideas de Newton son M2 (interioridad), y aunque no puedas hallar las ideas examinando el órgano (la inconmensurabilidad es real), tampoco puedes sustituir el cerebro sin perder al sujeto-Newton (la coextensividad es real). La doble afirmación captura la posición buenista frente al fisicalismo crudo (que reduciría M2 a M1) y al idealismo subjetivo (que separaría completamente M2 de M1) en una sola fórmula operativa: las dos materialidades coexisten en el mismo entreteijido (estroma) pero ninguna puede expresarse en términos de la otra.
+
+
+
 ## Refinamientos del laboratorio T4Lx02 con Santiago: M3 y cierre categorial (jul 2025)
 
 El segundo laboratorio dialéctico (con Santiago como interlocutor) profundiza específicamente en M3 y la teoría del cierre categorial — pieza explícitamente declarada como laguna de la página. La sesión articula refinamientos foundational sobre la concepción de la conciencia, el yo y la verdad científica.
@@ -463,6 +533,24 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -476,27 +564,29 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **Vicky Proxy Barcelona** — chunks: [44:54](https://youtu.be/HPeKIuwm_Og?t=2694)
 - **Análisis arquetípico Frozen** — chunks: [1:59:22](https://youtu.be/NYZEm8mcPiQ?t=7162) · [2:04:25](https://youtu.be/NYZEm8mcPiQ?t=7465)
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
+- **Noticias 100tíficas.** — chunks: [1:54:00](https://youtu.be/VgdybZKruwk?t=6840)
+- **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:26:14](https://youtu.be/Qui4WMSQ99k?t=5174)
+- **¿Porqué hay categorías masculina y femenina en ajedrez?** — chunks: [1:24:44](https://youtu.be/AJgvAsbd-UQ?t=5084)
+- **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:46:24](https://youtu.be/agh46Snf5YI?t=6384)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [53:39](https://youtu.be/L4ayDmaUO9Y?t=3219)
+- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [1:52:02](https://youtu.be/Ot3Z1VYTUgY?t=6722)
+- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [32:16](https://youtu.be/OT2DW4zoKsE?t=1936)
 - **El síndrome de Wendy** — chunks: [1:06:13](https://youtu.be/L7oSZTTK8Gg?t=3973)
 - **¡Inside Proxy está emitiendo desde el plan B!** — chunks: [12:25](https://youtu.be/z70_R1V8G6E?t=745)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [24:43](https://youtu.be/5vERIcm2EGk?t=1483)
 - **León XIV, y George Floyd.** — chunks: [19:38](https://youtu.be/oDpJ_EJDDfw?t=1178)
 - **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:04:30](https://youtu.be/ZlO5o786u90?t=3870)
-- **Noticias 100tíficas.** — chunks: [1:54:00](https://youtu.be/VgdybZKruwk?t=6840)
-- **¿Porqué el amor? Introducción: Libertad y lo que Surja** — chunks: [1:26:14](https://youtu.be/Qui4WMSQ99k?t=5174)
-- **¿Porqué hay categorías masculina y femenina en ajedrez?** — chunks: [1:24:44](https://youtu.be/AJgvAsbd-UQ?t=5084)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:09:43](https://youtu.be/NKFWUxt5VQ4?t=4183)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [44:33](https://youtu.be/TmQiM16HIpU?t=2673)
 - **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [0:00](https://youtu.be/ClnayaScAjQ?t=0)
 - **Cuento de Navidad y el espíritu Luterano** — chunks: [25:14](https://youtu.be/7LTa7-tZwv0?t=1514) · [1:23:28](https://youtu.be/7LTa7-tZwv0?t=5008) · [1:44:09](https://youtu.be/7LTa7-tZwv0?t=6249)
-- **Dédalus en Nínive. Análisis Arquetípico de Pinocho** — chunks: [1:46:24](https://youtu.be/agh46Snf5YI?t=6384)
-- **Del origen del mal (III): La fe y los demonios.** — chunks: [53:39](https://youtu.be/L4ayDmaUO9Y?t=3219)
-- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [1:52:02](https://youtu.be/Ot3Z1VYTUgY?t=6722)
-- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [32:16](https://youtu.be/OT2DW4zoKsE?t=1936)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [23:22](https://youtu.be/nw7fSEAJr-U?t=1402)
 - **T4 Laboratorio de... filo, con Sofía** — chunks: [0:38](https://youtu.be/GizCbTycY4U?t=38) · [3:10](https://youtu.be/GizCbTycY4U?t=190) · [5:10](https://youtu.be/GizCbTycY4U?t=310) · [7:41](https://youtu.be/GizCbTycY4U?t=461) · [31:25](https://youtu.be/GizCbTycY4U?t=1885) · [51:35](https://youtu.be/GizCbTycY4U?t=3095)
 - **T4Lx02 Santiago y cierre categorial: M3.** — chunks: [11:20](https://youtu.be/ecG-JqsSz2Q?t=680) · [41:03](https://youtu.be/ecG-JqsSz2Q?t=2463) · [46:06](https://youtu.be/ecG-JqsSz2Q?t=2766) · [1:02:46](https://youtu.be/ecG-JqsSz2Q?t=3766) · [1:08:49](https://youtu.be/ecG-JqsSz2Q?t=4129) · [1:17:53](https://youtu.be/ecG-JqsSz2Q?t=4673)
 - **Hambre y miedo (Cero). LOCUS** — chunks: [3:02](https://youtu.be/n2rtBxP-_e0?t=182)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [55:13](https://youtu.be/JKoWJmSR6VY?t=3313)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:06:05](https://youtu.be/DNxx4qwb944?t=3965) · [1:09:37](https://youtu.be/DNxx4qwb944?t=4177)
+- **La teoría de la teoría de la mente** — chunks: [50:07](https://youtu.be/zASckAZqmfM?t=3007) · [1:23:05](https://youtu.be/zASckAZqmfM?t=4985)
+- **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [19:51](https://youtu.be/GdQY1iOa68w?t=1191) · [20:51](https://youtu.be/GdQY1iOa68w?t=1251) · [1:42:01](https://youtu.be/GdQY1iOa68w?t=6121)
 

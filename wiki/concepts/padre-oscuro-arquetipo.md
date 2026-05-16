@@ -109,6 +109,12 @@ Ambos casos son variantes del [[shadow-archetype]] aplicado a la función patern
 
 
 
+
+
+
+
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [37:35](https://youtu.be/4P5hxaG7i6c?t=2255)
+- **Arquetipo Cero** — chunks: [29:36](https://youtu.be/nern-nhePjE?t=1776) · [32:16](https://youtu.be/nern-nhePjE?t=1936) · [1:22:22](https://youtu.be/nern-nhePjE?t=4942)
 - **El mito del Gólem: Transhumanismo** — chunks: [13:38](https://youtu.be/hjc9L2_kkOo?t=818)
 - **Mitología 101: Teseo y Ariadna** — chunks: [1:11:42](https://youtu.be/b03AszdViNw?t=4302)
 

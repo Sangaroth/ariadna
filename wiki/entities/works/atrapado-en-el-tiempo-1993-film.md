@@ -208,5 +208,8 @@ El canal señala como casos análogos *Una mente maravillosa* (2001) y *El Show 
 ## Citations
 
 
+
+
+- **Gothika: De Profundis** — chunks: [1:50:45](https://youtu.be/Gx2740if0Ho?t=6645)
 - **Análisis arquetípico de atrapado en el tiempo.** — chunks: [1:48:45](https://youtu.be/DwmV3c9-Xi0?t=6525) · [1:53:48](https://youtu.be/DwmV3c9-Xi0?t=6828)
 

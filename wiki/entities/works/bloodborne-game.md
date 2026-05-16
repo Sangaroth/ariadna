@@ -120,6 +120,21 @@ El mecanismo tiene correlato canónico fuera de Bloodborne. En el análisis de [
 → [Neon Genesis Evangelion. Psicoanálisis y gnosticismo (15:22)](https://youtu.be/QSggWfjOkHk?t=922)
 
 La pieza añade al análisis de Bloodborne la dimensión psicológica del receptor: el dispositivo no solo es coordinación interna obra (ambientación-guion-tema) sino contrato pragmático con un perfil específico de espectador-lector cuya carencia interna se proyecta sobre la sospecha de un secreto cosmológico recuperable por hermenéutica intensiva del fragmento.
+
+
+
+
+## El dispositivo extendido: incompletitud como anzuelo arquetípico
+
+El mecanismo tiene correlato canónico fuera de Bloodborne. En el análisis de [[evangelion-anime|Neon Genesis Evangelion]] el canal articula el mismo dispositivo formal como **mecanismo de fascinación arquetípica** que opera no solo dentro de la obra sino sobre la psicología del receptor — ambas obras reúnen fragmentos de contextos mitológicos con alta carga arquetípica y la incompletitud actúa como anzuelo específico para sujetos con sensación de incompletitud propia.
+
+> "Evangelion y Bloodborne utilizan la narrativa incompleta para generar fascinación por el misterio,"
+→ [Neon Genesis Evangelion. Psicoanálisis y gnosticismo (15:22)](https://youtu.be/QSggWfjOkHk?t=922)
+
+> "Esta técnica atrae a personas con sensación de incompletitud que buscan un gran secreto detrás de las estructuras mitológicas,"
+→ [Neon Genesis Evangelion. Psicoanálisis y gnosticismo (15:22)](https://youtu.be/QSggWfjOkHk?t=922)
+
+La pieza añade al análisis de Bloodborne la dimensión psicológica del receptor: el dispositivo no solo es coordinación interna obra (ambientación-guion-tema) sino contrato pragmático con un perfil específico de espectador-lector cuya carencia interna se proyecta sobre la sospecha de un secreto cosmológico recuperable por hermenéutica intensiva del fragmento.
 "
 → [Sacrilegia (I). Aproximación arquetípica al tema en Bloodborne (06:36)](https://youtu.be/9x8zTqpyZ5Q?t=396)
 
@@ -128,6 +143,25 @@ La pieza añade al análisis de Bloodborne la dimensión psicológica del recept
 La lectura arquetípica del canal sitúa Bloodborne en una posición específica frente al monomito: no es viaje del héroe hacia fuera, es laberinto hacia dentro. La obra invierte el vector exterior del [[viaje-heroe]] clásico para convertirlo en ascenso intelectual y descenso al [[collective-unconscious]] simultáneos.
 
 > "A diferencia de otros caminos del héroe, el laberinto representa el viaje interior y el ascenso intelectual de quien elige mirar hacia sí mismo. Nuestro interior sigue siendo tan insondable como antaño, pero está en nuestra naturaleza seguir buscando los dioses dentro y fuera. El ansia por completar un puzzle cuya pieza más importante es uno mismo.
+
+
+## Las dos vías sobrenaturales lovecraftianas como tema central
+
+En el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal precisa la herencia lovecraftiana de Bloodborne articulada en secciones anteriores. La página articulaba 'Bloodborne es una reelaboración de los mitos y la estructura de Lovecraft' como observación general; el directo añade la pieza específica que constituye el tema central del juego.
+
+> "Sueños, drogas y lo alucinatorio como primera vía,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+> "El instrumento ritual y el conocimiento como segunda vía,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+> "El insight es lo que inspiró el tema central de Bloodborne,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+La precisión genealógica articula la **taxonomía de las dos vías canónicas** lovecraftianas al sobrenatural (ver [[lovecraft-howard]] sección 'Las dos vías al acceso de lo sobrenatural lovecraftiano'): vía alucinatoria (sueños, drogas, fiebre) vs vía ritual-cognitiva (instrumento + conocimiento). Bloodborne hereda específicamente esta taxonomía y la convierte en mecánica operativa. El insight como estadística de juego (no estadística de combate, no de salud) es la operacionalización del **conocimiento esotérico** como recurso adquirible que altera la percepción del sujeto-jugador del entorno — más insight = más ojos abiertos al sobrenatural lovecraftiano. La sangre y los viales operan en la vía complementaria: el ritual cazador, el bautismo de sangre, los implantes son **instrumentos rituales** cuya manipulación + el conocimiento adecuado permiten al cazador acceder al sobrenatural sin colapsar.
+
+La pieza precisa la lectura del juego: Bloodborne no hereda 'Lovecraft genérico' sino exactamente esta taxonomía estructural. La invención del juego es articular las dos vías lovecraftianas como mecánicas de progresión simultáneas — el cazador avanza por instrumentación ritual (combate, transformación, viales) Y por insight acumulado (conocimiento), ninguna de las dos suficiente por sí sola para acceder al núcleo cosmológico de la obra. La consecuencia para la lectura arquetípica articulada en la página es que el laberinto interior del cazador no es solo viaje al [[collective-unconscious]] genéricamente lovecraftiano; es operacionalización de la doble vía canónica del autor como condición necesaria del acceso.
+
 
 
 ## Las dos vías sobrenaturales lovecraftianas como tema central
@@ -174,6 +208,10 @@ Esta premisa convierte el análisis de Bloodborne en análisis de un proceso psi
 - Falta articulación explícita del lugar de Bloodborne en la triada [[mito-polar]] / mito solar / mito lunar del canal: el horror cósmico parece operar como inversión del polar, pendiente confirmar
 
 ## Citations
+
+
+
+
 
 
 

@@ -89,6 +89,20 @@ La pieza es metodológica: un truncamiento puede ser estructura genuina (Azulín
 La distinción importa para el diagnóstico crítico de obras: no toda figura del caballero negro en cultura contemporánea es un héroe truncado en sentido fuerte; muchas son truncamientos por iconotropía — Lilit moderna como rebelde luciferiana fabricada, antagonistas postmodernos cuyo trauma fundacional es retórico antes que estructural.
 
 
+
+
+## Truncamiento genuino vs reelaboración iconotrópica
+
+El canal añade una distinción operativa que separa al héroe truncado genuino del truncamiento fabricado por extracción de contexto:
+
+> "Un truncamiento es un héroe truncado al que se le quita el contexto y se reelabora iconotrópicamente,"
+→ [Directo casual (48:28)](https://youtu.be/ECN5C9rsaZg?t=2908)
+
+La pieza es metodológica: un truncamiento puede ser estructura genuina (Azulín, Vader: el viaje se trunca dentro de un contexto coherente y la ira tiene origen identificable en el vínculo parental) o fabricación cultural (la figura conserva la postura del truncado pero el contexto del trauma original ha sido extraído y sustituido por reelaboración iconotrópica). El segundo caso pertenece más al campo del [[autotipo|autotipo]] que al del héroe truncado genuino: se conserva el significante (el caballero negro, el rebelde luciferino) pero el rasgo ya no remite a una herida elaborable sino a una proyección.
+
+La distinción importa para el diagnóstico crítico de obras: no toda figura del caballero negro en cultura contemporánea es un héroe truncado en sentido fuerte; muchas son truncamientos por iconotropía — Lilit moderna como rebelde luciferiana fabricada, antagonistas postmodernos cuyo trauma fundacional es retórico antes que estructural.
+
+
 ## La catarsis de la violencia como síntoma
 
 Un marcador conductual del héroe truncado es la fascinación por la propia violencia, que opera como descarga catártica de un deseo destructivo cada vez menos reprimido:
@@ -113,6 +127,12 @@ El síntoma distingue al héroe truncado del villano puro: hay todavía un sujet
 - **Articulación con las [[cuatro-formas-del-mal]]**: el caballero negro debería poder ubicarse en esa tipología, pero la conexión no está explicitada en el material recuperado
 
 ## Citations
+
+
+
+
+
+
 
 
 

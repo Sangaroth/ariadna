@@ -111,6 +111,27 @@ La tibieza moral es, en este sentido, el sofisma estético aplicado al orden mor
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [17:18](https://youtu.be/wIhH72UFUPY?t=1038)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [17:18](https://youtu.be/lw7XI2lQntM?t=1038)
+- **T5x07: Soto Ivars y el Tabú** — chunks: [49:53](https://youtu.be/wixOLxnd68o?t=2993)
+- **T5x09: El amor en realidad** — chunks: [2:27:12](https://youtu.be/1ldYmBO4N4I?t=8832)
+- **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [49:52](https://youtu.be/celiAdqrHYA?t=2992)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [21:41](https://youtu.be/yAIPr0HzQqE?t=1301)
+- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [50:22](https://youtu.be/QSggWfjOkHk?t=3022)
+- **Un Gólem llamado Prometeo.** — chunks: [1:18:52](https://youtu.be/Uykl0PLRRlo?t=4732)
+- **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [22:12](https://youtu.be/JKoWJmSR6VY?t=1332)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [1:06:43](https://youtu.be/dHDv_oZODYQ?t=4003) · [1:16:21](https://youtu.be/dHDv_oZODYQ?t=4581) · [1:20:22](https://youtu.be/dHDv_oZODYQ?t=4822) · [1:23:54](https://youtu.be/dHDv_oZODYQ?t=5034)
 - **MItología 101: El Gólem** — chunks: [48:50](https://youtu.be/IG3dkNBX9uU?t=2930)
 - **De Platón A The Matrix** — chunks: [1:10:17](https://youtu.be/zr_ZKX60N54?t=4217)

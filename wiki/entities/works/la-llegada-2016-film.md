@@ -286,6 +286,17 @@ El marco teórico cierra con la articulación específica del lenguaje atemporal
 
 
 
+
+
+
+
+
+
+
+
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [14:17](https://youtu.be/wIhH72UFUPY?t=857) · [47:41](https://youtu.be/wIhH72UFUPY?t=2861) · [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [14:47](https://youtu.be/lw7XI2lQntM?t=887) · [24:55](https://youtu.be/lw7XI2lQntM?t=1495)
+- **La Mala Ciencia** — chunks: [46:28](https://youtu.be/hD6YeyjukGA?t=2788)
 - **Análisis: La Llegada (Parte dos)** — chunks: [20:15](https://youtu.be/tOn66qFS2-M?t=1215)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [0:00](https://youtu.be/aPbgBnidoJI?t=0) · [11:39](https://youtu.be/aPbgBnidoJI?t=699)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [49:36](https://youtu.be/TmQiM16HIpU?t=2976)

@@ -167,8 +167,22 @@ Los tres vectores masculinos del film — Peter (ánimus desintegrado que no cre
 
 
 
-- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [2:31](https://youtu.be/ClnayaScAjQ?t=151) · [8:44](https://youtu.be/ClnayaScAjQ?t=524) · [28:57](https://youtu.be/ClnayaScAjQ?t=1737) · [42:11](https://youtu.be/ClnayaScAjQ?t=2531) · [48:44](https://youtu.be/ClnayaScAjQ?t=2924) · [53:16](https://youtu.be/ClnayaScAjQ?t=3196) · [57:18](https://youtu.be/ClnayaScAjQ?t=3438) · [1:25:06](https://youtu.be/ClnayaScAjQ?t=5106) · [1:36:56](https://youtu.be/ClnayaScAjQ?t=5816) · [1:42:29](https://youtu.be/ClnayaScAjQ?t=6149) · [1:47:00](https://youtu.be/ClnayaScAjQ?t=6420) · [1:49:02](https://youtu.be/ClnayaScAjQ?t=6542) · [1:51:34](https://youtu.be/ClnayaScAjQ?t=6694) · [1:54:07](https://youtu.be/ClnayaScAjQ?t=6847)
+
+
+
+
+
+
+
+
+
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [29:44](https://youtu.be/OT2DW4zoKsE?t=1784) · [56:06](https://youtu.be/OT2DW4zoKsE?t=3366)
+- **El síndrome de Wendy** — chunks: [50:22](https://youtu.be/L7oSZTTK8Gg?t=3022) · [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [54:29](https://youtu.be/L7oSZTTK8Gg?t=3269) · [57:02](https://youtu.be/L7oSZTTK8Gg?t=3422) · [1:11:13](https://youtu.be/L7oSZTTK8Gg?t=4273) · [1:21:29](https://youtu.be/L7oSZTTK8Gg?t=4889)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [58:53](https://youtu.be/4P5hxaG7i6c?t=3533)
+- **Se celebrarán juicios** — chunks: [1:08:03](https://youtu.be/hCc-gsoLZj4?t=4083)
+- **T5x03, Cibernética, Biónica y Transhumanismo.** — chunks: [31:27](https://youtu.be/DytHSZw0_mo?t=1887)
+- **Análisis arquetípico de atrapado en el tiempo.** — chunks: [42:12](https://youtu.be/DwmV3c9-Xi0?t=2532)
+- **Ánima y Ánimus. Análisis arquetípico de Peter Pan** — chunks: [2:31](https://youtu.be/ClnayaScAjQ?t=151) · [8:44](https://youtu.be/ClnayaScAjQ?t=524) · [28:57](https://youtu.be/ClnayaScAjQ?t=1737) · [42:11](https://youtu.be/ClnayaScAjQ?t=2531) · [48:44](https://youtu.be/ClnayaScAjQ?t=2924) · [53:16](https://youtu.be/ClnayaScAjQ?t=3196) · [57:18](https://youtu.be/ClnayaScAjQ?t=3438) · [1:25:06](https://youtu.be/ClnayaScAjQ?t=5106) · [1:36:56](https://youtu.be/ClnayaScAjQ?t=5816) · [1:42:29](https://youtu.be/ClnayaScAjQ?t=6149) · [1:47:00](https://youtu.be/ClnayaScAjQ?t=6420) · [1:49:02](https://youtu.be/ClnayaScAjQ?t=6542) · [1:51:34](https://youtu.be/ClnayaScAjQ?t=6694) · [1:54:07](https://youtu.be/ClnayaScAjQ?t=6847)
 - **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [1:17:47](https://youtu.be/CEa517aakr8?t=4667)
 - **Mitología 101: Perséfone** — chunks: [20:12](https://youtu.be/VDOUrpcC4fU?t=1212)
 - **Podcast Puppetland: El Principito** — chunks: [19:22](https://youtu.be/Q0uCvOLRR2k?t=1162)

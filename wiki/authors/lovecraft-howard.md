@@ -127,6 +127,48 @@ La página articulaba 'La extraña casa elevada entre la niebla' como cuento le�
   → [Análisis arquetípico: Asimov y Lovecraft. (58:40)](https://youtu.be/celiAdqrHYA?t=3520)
 
 - **'Ex oblivione'** (1921): prosa-poema breve donde el narrador huye de la locura cotidiana refugiándose en sueños recurrentes de un valle dorado con muro de hiedra y pequeña puerta de bronce; al obtener una droga que abre la cancela, atraviesa la puerta y es disuelto en el blanco vacío del olvido cristalino. Caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio). Página propia: [[ex-oblivione-lovecraft]].
+  → [Análisis arquetípico: Asimov y Lovecraft. (1:22:42)](https://youtu.be/celiAdqrHYA?t=4962)
+
+
+
+## Barroquismo como recurso de credibilidad
+
+En el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula la **función** del barroquismo lovecraftiano que la sección anterior dejaba en plano descriptivo (la prosa como 'arbotantes de catedrales'). La pieza explica POR QUÉ el exceso narrativo opera y no fracasa.
+
+> "Los excesos narrativos de adverbios y adjetivos buscan tono solemne,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:19:10)](https://youtu.be/celiAdqrHYA?t=4750)
+
+> "La solemnidad hace que cualquier tontería narrada parezca más real,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:19:10)](https://youtu.be/celiAdqrHYA?t=4750)
+
+> "Funciona como acercamiento de cámara que da contraste con vivencia real,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:19:10)](https://youtu.be/celiAdqrHYA?t=4750)
+
+La cadena funcional articulada es: **exceso adverbial-adjetival → solemnidad → credibilidad → vivencia**. La prosa barroca no es decoración estilística sino dispositivo perceptivo: opera como acercamiento de cámara cinematográfico que reduce la distancia entre el lector y lo narrado, produciendo el contraste con la vivencia real que Lovecraft necesita para que su material patentemente fantástico (cultos antiguos, libros prohibidos, criaturas innombrables) sea recibido en registro de testimonio, no de invención. La consecuencia operativa para la lectura del canon: cualquier intento de modernizar la prosa lovecraftiana eliminando los excesos barrocos destruye el dispositivo, no lo limpia — la obra deja de funcionar porque pierde el mecanismo que producía su credibilidad psíquica.
+
+## Las dos vías al acceso de lo sobrenatural lovecraftiano
+
+El mismo directo articula una taxonomía estructural de las dos vías canónicas que Lovecraft usa para que el sujeto narrativo acceda al sobrenatural — pieza foundational que la página no contenía y que organiza obra-por-obra el corpus.
+
+> "Sueños, drogas y lo alucinatorio como primera vía,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+> "El instrumento ritual y el conocimiento como segunda vía,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+> "El insight es lo que inspiró el tema central de Bloodborne,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (1:28:18)](https://youtu.be/celiAdqrHYA?t=5298)
+
+La taxonomía es estructural y disjunta: la **primera vía** (alucinatoria) opera por desactivación parcial del aparato cognitivo ordinario — el sujeto se desliza al sobrenatural por sueño recurrente, intoxicación, fiebre, alucinación — sin necesidad de saber qué busca. La **segunda vía** (ritual-cognitiva) opera por instrumentalización deliberada — el sujeto convoca al sobrenatural mediante objeto ritual (Necronomicón, llave de plata, fórmula recitada) más conocimiento técnico (cómo usarlo, qué decir). La distinción reorganiza la lectura del corpus: 'Ex oblivione' opera enteramente en la primera vía (sueño + droga); 'La llave de plata' opera en la segunda (instrumento ritual + conocimiento esotérico); 'La lámina de la casa' opera en una zona híbrida (objeto-libro como instrumento, fascinación obsesiva como deslizamiento alucinatorio). La consecuencia para [[bloodborne-game]] queda explícita: la obra hereda específicamente esta taxonomía como tema central — el cazador accede al sobrenatural por la vía mixta del ritual (cazadores, iglesia, viales) más el conocimiento (insight como mecánica de juego propia), no solo el horror cósmico genérico.
+
+## Cuentos leídos íntegramente: extensión del catálogo
+
+La página articulaba 'La extraña casa elevada entre la niebla' como cuento leído íntegro en sesión. El directo *Análisis arquetípico: Asimov y Lovecraft* añade dos lecturas íntegras que extienden el corpus de obras del autor accesibles vía retrieval directo.
+
+- **'La lámina de la casa'** (1920): el narrador busca refugio en una casa abandonada de la Nueva Inglaterra profunda, encuentra al anciano harapiento de cerrado dialecto Yankee que abre obsesivamente el libro de Pigafeta sobre el Congo (1598, grabados De Bry) por la lámina 12 — la carnicería de caníbales anziques — y confiesa entre susurros que comer carne humana le da más vida; un rayo destruye la casa antes de que la razón colapse. Caso del registro grand guignol temprano de Lovecraft. Página propia: [[la-lamina-de-la-casa-lovecraft]].
+  → [Análisis arquetípico: Asimov y Lovecraft. (58:40)](https://youtu.be/celiAdqrHYA?t=3520)
+
+- **'Ex oblivione'** (1921): prosa-poema breve donde el narrador huye de la locura cotidiana refugiándose en sueños recurrentes de un valle dorado con muro de hiedra y pequeña puerta de bronce; al obtener una droga que abre la cancela, atraviesa la puerta y es disuelto en el blanco vacío del olvido cristalino. Caso paradigmático de la primera vía sobrenatural (sueños/drogas/alucinatorio). Página propia: [[ex-oblivione-lovecraft]].
 
 
 - **'Memoria'** (1919): prosa-poema temprana donde un genio lunar y un demonio del valle dialogan sobre las ruinas de un templo. El giro final revela que las criaturas-arquitectos eran hombres, recontextualizando el cuento como ciencia ficción retrospectiva. Caso paradigmático del esquema uránico/telúrico/cetónico ([[uranico-telurico-cetonico]]) articulado iconográficamente: genio arriba, demonio abajo, hombre fracasado dominado por monos en la superficie. Página propia: [[memoria-lovecraft]].
@@ -234,6 +276,11 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Lectura junguiana directa de Lovecraft**: el canal usa marco junguiano para casi todo pero no articula un análisis explícito "Lovecraft según Jung"
 
 ## Citations
+
+
+
+
+
 
 
 

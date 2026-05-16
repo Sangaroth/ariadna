@@ -250,6 +250,12 @@ Esta inversión conecta el satanismo con el [[gnosticismo]] (donde el demiurgo m
 
 
 
+
+
+
+
+
+- **Directo casual** — chunks: [24:19](https://youtu.be/ECN5C9rsaZg?t=1459)
 - **Taxonomía y filosofía del satanismo** — chunks: [4:06](https://youtu.be/4JW8act2SdE?t=246) · [10:46](https://youtu.be/4JW8act2SdE?t=646) · [35:05](https://youtu.be/4JW8act2SdE?t=2105) · [38:39](https://youtu.be/4JW8act2SdE?t=2319) · [43:43](https://youtu.be/4JW8act2SdE?t=2623) · [45:19](https://youtu.be/4JW8act2SdE?t=2719) · [1:21:54](https://youtu.be/4JW8act2SdE?t=4914) · [1:26:58](https://youtu.be/4JW8act2SdE?t=5218) · [1:46:38](https://youtu.be/4JW8act2SdE?t=6398) · [1:58:16](https://youtu.be/4JW8act2SdE?t=7096)
 - **Antonio Piñero, Gnosticismo y el Evangelio de San Juan.** — chunks: [1:17:40](https://youtu.be/JKoWJmSR6VY?t=4660)
 - **El mito de Dioniso** — chunks: [45:02](https://youtu.be/ttnUgH3jou8?t=2702)

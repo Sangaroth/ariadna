@@ -169,5 +169,6 @@ Esta tesis epistemológica es transversal a varios sistemas del canal:
 ## Citations
 
 
+
 - **¿Es ciencia la psicología?** — chunks: [1:14:55](https://youtu.be/1cF9VayHtRI?t=4495)
 

@@ -214,6 +214,51 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 
 
 
+
+## Caperucita Roja como Génesis femenino: el susurro de la serpiente
+
+El monográfico sobre [[caperucita-roja-cuento|Caperucita Roja]] (sept 2024) articula una tercera modalidad operativa del Génesis que las secciones anteriores tenían implícita: el GÉNESIS FEMENINO como susurro al oído de lo femenino donde el mal opera por seducción del intelecto.
+
+> "El cuento es un Génesis donde lo salvaje (serpiente/lobo) susurra a lo femenino para cometer pecado,"
+→ [Caperucita Roja: ¿A quién tienes miedo? (58:19)](https://youtu.be/fzEDQZIqKwg?t=3499)
+
+> "El mal se aprovecha de que lo femenino puede no distinguir si una idea es propia o proviene del mal,"
+→ [Caperucita Roja: ¿A quién tienes miedo? (58:19)](https://youtu.be/fzEDQZIqKwg?t=3499)
+
+> "Es el Génesis: la estructura se usaba también para advertencias no sexuales (\"no salgáis de noche\"),"
+→ [Caperucita Roja: ¿A quién tienes miedo? (1:44:57)](https://youtu.be/fzEDQZIqKwg?t=6297)
+
+La pieza articula una tercera modalidad operativa del Génesis junto a las dos ya documentadas (Génesis tolkieniano como conjunción armónica desde el Uno; Génesis disfuncional de Unicorn Wars como mala integración). El **Génesis femenino-individual** opera por mecánica específica:
+
+1. **Susurro al oído** — el mal NO ataca por fuerza directa sino aproximándose al sujeto femenino con palabras que parecen razonables. La iconografía Eva-serpiente cifra el dispositivo: la voz que ofrece conocimiento sin imponerlo; el sujeto debe acceder por elección aparente.
+2. **Indistinción entre idea propia e idea ajena** — el aprovechamiento estructural del mecanismo es que lo femenino puede no distinguir si una idea es propia o proviene del exterior. La consecuencia operativa: el sujeto opera con la idea como si fuera suya cuando estructuralmente le fue introducida desde fuera. La mecánica enlaza con [[fenomenologia-trans-en-proxy]] sobre la cognición de fuera adentro y de dentro afuera — cuando ambas direcciones se confunden, el sujeto carece de criterio para distinguir el origen del contenido representacional.
+3. **Aplicabilidad cross-temática** — la estructura se usaba para advertencias no sexuales también ('no salgáis de noche'). El Génesis femenino NO se reduce a la sexualidad — opera en cualquier dominio donde lo femenino accede a un territorio nuevo sin la mente preparada para sostener lo que encontrará.
+
+La pieza completa el catálogo de modalidades del Génesis con un tercer caso: junto al Génesis cosmogónico (todo desde la nada — Tolkien) y al Génesis disfuncional (mala integración — Unicorn Wars), el Génesis femenino-individual articula la modalidad donde el sujeto femenino atraviesa el cruce a su destino y se encuentra con el mal en condiciones donde la confusión es estructuralmente inevitable. La consecuencia editorial: el Génesis NO es solo cosmogonía sino TAMBIÉN microestructura del cruce individual — el cuento popular como dispositivo pedagógico que advierte de la mecánica del cruce sin pretender enseñar a evitarlo.
+
+
+
+## Neogénesis del fin: Recuerdo perdido de Asimov como Génesis invertido
+
+En el directo *Análisis arquetípico: Asimov y Lovecraft* (mayo 2024) el canal articula un caso operativo del marco genésico que opera en el sentido inverso al ya documentado: no relato de origen del todo desde la nada, sino relato de fin del todo donde el paraíso perdido se reconstruye episódicamente y revela su pérdida estructural.
+
+> "Recordar que fueron hombre y mujer es el dolor de haber perdido el paraíso,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (49:52)](https://youtu.be/celiAdqrHYA?t=2992)
+
+> "El abandono de la forma etérea por construir mecánicamente equivale al árbol del bien y del mal,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (49:52)](https://youtu.be/celiAdqrHYA?t=2992)
+
+> "Es la misma estructura del Génesis y de Neon Genesis Evangelion,"
+→ [Análisis arquetípico: Asimov y Lovecraft. (49:52)](https://youtu.be/celiAdqrHYA?t=2992)
+
+El cuento de Isaac Asimov [[recuerdo-perdido-asimov|Recuerdo perdido]] articula la estructura genésica en una vuelta de tuerca operativa: dos seres puramente energéticos llamados Aimés y Brock, tras un quintillón de años de evolución cognitiva que abandonó el cuerpo, intentan reconstruir la forma humana como **sinfonía de materia** (proyecto artístico, no funcional). Modelan cabeza, nariz, ojos, labios — y al verlos completos Brock recuerda que fue mujer y rompe a llorar.
+
+La pieza aplica el marco genésico en sentido invertido respecto al Génesis tolkieniano y al biblical clásico. Donde el Génesis ortodoxo articula 'al principio no había nada, y de repente algo fue', el cuento de Asimov articula 'al final ya no había cuerpo, y de repente recordamos que lo hubo'. La operación cognitiva es la misma — hipóstasis catártica, episodio que recapitula la estructura mental de la transición — pero el contenido se invierte: en lugar de emanación desde la unidad indiferenciada, **recuperación dolorosa de la unidad perdida por sublimación**. La estructura del **árbol del bien y del mal** se actualiza: el conocimiento que no se puede des-saber no es la moral, es la conciencia de que el cuerpo era el paraíso. El abandono mecánico de la forma etérea opera como equivalente del cruce del umbral edénico — irreversible, productor de remordimiento (ver [[perdida-inocencia]] sección 'remordimiento como afecto del paraíso perdido').
+
+La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genesis Evangelion ([[evangelion-anime]]) que el canal articula es estructural, no temática: las tres obras escenifican el cruce irreversible entre dos estados ontológicos donde el segundo conserva memoria del primero como pérdida. La página queda así extendida con un tercer caso operativo del Génesis: el **Génesis del fin** o **neogénesis** — relato de origen aplicado a un evento de cierre evolutivo donde la psique reconstruye episódicamente el estado abandonado y descubre su valor solo en la pérdida.
+
+
+
 ## Lagunas
 
 - **Génesis no occidentales**: el corpus desarrolla casos bíblico, tolkieniano y referencias célticas/cabalísticas; ausentes tratamientos sustantivos de cosmogonías mesopotámicas (Enuma Elish), védicas (Rigveda X.129), egipcias (Heliópolis/Hermópolis) o mesoamericanas (Popol Vuh).
@@ -252,11 +297,30 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286) · [30:31](https://youtu.be/s6teBboDDJ4?t=1831) · [35:38](https://youtu.be/s6teBboDDJ4?t=2138)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [1:00](https://youtu.be/UZPjezFUrA0?t=60)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:38:11](https://youtu.be/_0BM2jMsWdc?t=5891)
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [26:09](https://youtu.be/Dtp1_RLb7S0?t=1569)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [46:25](https://youtu.be/aWeuzWLrLtE?t=2785)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/wIhH72UFUPY?t=403) · [10:15](https://youtu.be/wIhH72UFUPY?t=615)
@@ -267,7 +331,6 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [49:52](https://youtu.be/celiAdqrHYA?t=2992)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014) · [58:19](https://youtu.be/fzEDQZIqKwg?t=3499) · [1:25:09](https://youtu.be/fzEDQZIqKwg?t=5109) · [1:44:57](https://youtu.be/fzEDQZIqKwg?t=6297)
-- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [46:25](https://youtu.be/aWeuzWLrLtE?t=2785)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [32:12](https://youtu.be/QSggWfjOkHk?t=1932) · [34:43](https://youtu.be/QSggWfjOkHk?t=2083) · [1:29:45](https://youtu.be/QSggWfjOkHk?t=5385)
 - **T4Lx02 Santiago y cierre categorial: M3.** — chunks: [31:29](https://youtu.be/ecG-JqsSz2Q?t=1889)
 - **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [0:00](https://youtu.be/tgusJOzuJ7U?t=0)

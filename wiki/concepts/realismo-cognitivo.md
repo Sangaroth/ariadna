@@ -912,6 +912,64 @@ La pieza cierra con una conexión a [[diagrama-de-proxy]] que articula el sustra
 Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhesión ideológica que el diagrama articula como simetría reactiva entre cuadrantes: no se eligen las posiciones por argumento sino que se adhieren por reconocimiento estructural — el carácter prefiere ciertas formas discursivas porque el aparato representacional resuena con ellas, y la posición política se consolida por afinidad cognitiva, no por persuasión racional.
 
 
+
+
+## Circuito de cuidados vs teoría del apego: el corte anti-constructivista
+
+En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula con definición operativa la diferencia entre el **circuito de cuidados** del realismo cognitivo y la **teoría del apego** convencional — flanco que la página articulaba implícitamente como anti-constructivismo pero sin nombrar la pieza concreta.
+
+> "En realismo cognitivo el apego es un conjunto de circuiterías cerebrales y cognitivas diseñadas evolutivamente para garantizar vínculos de afecto, intimidad y seguridad,"
+→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)
+
+> "El circuito de cuidados es específico de los lazos familiares, sobre todo con la madre,"
+→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)
+
+> "Se distingue del apego de la teoría del apego convencional,"
+→ [Lo de la Gata, y qué es este canal (1:06:21)](https://youtu.be/aVhd0l1rpqY?t=3981)
+
+La distinción categorial es estructural: la **teoría del apego** convencional (Bowlby, Ainsworth, Main) opera bajo presupuesto constructivista — el patrón vincular es producto del histórico interaccional con el cuidador, modelable por experiencia temprana, transmisible por estilo parental. El **circuito de cuidados** del realismo cognitivo invierte el orden causal: la circuitería existe diseñada evolutivamente, y el entorno temprano la **activa o no la activa** dentro de una ventana crítica, pero no la construye.
+
+### Base de seguridad incondicional con ventana crítica
+
+> "Los niños reservan sus emociones más intensas para las madres porque las ven como base de seguridad incondicional,"
+→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)
+
+> "Esto solo se explica mediante el carácter de lo femenino: podría ser olor, feromonas, contacto del feto o el amor materno,"
+→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)
+
+> "Si no se realizan ciertos eventos canónicos antes de un periodo vital crítico, el cerebro no desarrolla esa seguridad de base,"
+→ [Lo de la Gata, y qué es este canal (57:13)](https://youtu.be/aVhd0l1rpqY?t=3433)
+
+La cláusula de ventana crítica es la marca del realismo cognitivo: no es que el patrón vincular se moldee como argamasa indefinidamente — es que el aparato espera **señales canónicas** durante un periodo específico, y si no las recibe, el circuito no se completa. La consecuencia operativa es asimétrica respecto al constructivismo: una vez cerrada la ventana, intervenciones tardías no construyen lo no construido — modulan, compensan, parchean, pero no generan la seguridad de base que el aparato esperaba en su momento.
+
+### Diátesis familiar: genes, entorno y retroalimentación
+
+La distinción se prolonga al debate genes/ambiente con una articulación operativa que la página tematizaba en otras secciones pero no había fijado como categoría clínica:
+
+> "No sabemos si el entorno moldea el cerebro o si el entorno simplemente permite que el cerebro manifieste lo que genéticamente debe ser,"
+→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)
+
+> "Los padres ven en el hijo sus propias inseguridades genéticas y reaccionan retroalimentando esas inseguridades,"
+→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)
+
+> "La teoría del apego es constructivista y hay un sesgo ideológico en ciencia entre quienes priorizan ambiente y quienes priorizan genes,"
+→ [Lo de la Gata, y qué es este canal (59:44)](https://youtu.be/aVhd0l1rpqY?t=3584)
+
+La pieza nombra **diátesis familiar** como tercer mecanismo entre las dos lecturas habituales: la personalidad del hijo es la mezcla genética de los padres y, encima, convive con esos padres que reaccionan a sus propios genes reflejados en el niño. La retroalimentación gen-ambiente no es ni constructivismo puro ni determinismo puro — es **resonancia genética via reacción parental**: los rasgos heredados se expresan amplificados porque el padre los reconoce y los activa por simetría inconsciente.
+
+> "La personalidad del hijo es la mezcla genética de los padres, y encima convive con esos padres que reaccionan a sus propios genes reflejados,"
+→ [Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)
+
+### Rasgos de adherencia como sustrato cognitivo de la posición política
+
+La pieza cierra con una conexión a [[diagrama-de-proxy]] que articula el sustrato cognitivo de la adherencia ideológica documentada en esa página:
+
+> "Existen rasgos de adherencia que hacen que el carácter prefiera ciertos discursos o visiones del mundo sobre otros,"
+→ [Lo de la Gata, y qué es este canal (1:04:49)](https://youtu.be/aVhd0l1rpqY?t=3889)
+
+Los **rasgos de adherencia** son la formulación cognitiva del mecanismo de adhesión ideológica que el diagrama articula como simetría reactiva entre cuadrantes: no se eligen las posiciones por argumento sino que se adhieren por reconocimiento estructural — el carácter prefiere ciertas formas discursivas porque el aparato representacional resuena con ellas, y la posición política se consolida por afinidad cognitiva, no por persuasión racional.
+
+
 ## Tres piezas metodológicas: biologicismo de 'adaptativo', no-predecibilidad del suicidio y andamiaje psicoanalítico
 
 En el directo *Por fin* (23 feb 2025) el canal articula tres piezas metodológicas que cierran flancos del marco que la página dejaba implícitos: el rechazo del término 'adaptativo/no adaptativo' como categoría filosófica, la admisión del suicidio como conducta estructuralmente no predecible, y la auto-reflexión de que toda teoría de la mente es 'psicoanalítica' en sentido amplio.
@@ -991,6 +1049,19 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
@@ -1011,15 +1082,15 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:02:47](https://youtu.be/cbdLR0HTE3w?t=3767) · [2:01:28](https://youtu.be/cbdLR0HTE3w?t=7288) · [2:08:04](https://youtu.be/cbdLR0HTE3w?t=7684)
 
 - **¿Es ciencia la psicología?** — chunks: [1:00:17](https://youtu.be/1cF9VayHtRI?t=3617) · [1:04:50](https://youtu.be/1cF9VayHtRI?t=3890) · [1:08:22](https://youtu.be/1cF9VayHtRI?t=4102)
+- **Noticias 100tíficas.** — chunks: [34:51](https://youtu.be/VgdybZKruwk?t=2091) · [39:27](https://youtu.be/VgdybZKruwk?t=2367) · [1:54:00](https://youtu.be/VgdybZKruwk?t=6840) · [1:58:22](https://youtu.be/VgdybZKruwk?t=7102)
+- **Por fin** — chunks: [17:31](https://youtu.be/7jT13kHNlBA?t=1051) · [31:42](https://youtu.be/7jT13kHNlBA?t=1902) · [42:19](https://youtu.be/7jT13kHNlBA?t=2539) · [49:27](https://youtu.be/7jT13kHNlBA?t=2967)
+- **Presentación del Libro: Polaris** — chunks: [17:27](https://youtu.be/rLeMS4-XFrA?t=1047)
+- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:54:41](https://youtu.be/UOk344kEeRM?t=6881)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [31:48](https://youtu.be/DMebwwTBT-M?t=1908) · [33:49](https://youtu.be/DMebwwTBT-M?t=2029) · [36:49](https://youtu.be/DMebwwTBT-M?t=2209) · [38:23](https://youtu.be/DMebwwTBT-M?t=2303)
 - **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [18:57](https://youtu.be/xdT-SCW89cw?t=1137) · [23:05](https://youtu.be/xdT-SCW89cw?t=1385) · [25:37](https://youtu.be/xdT-SCW89cw?t=1537)
 - **Laboratorio de teoría de la mente en biología** — chunks: [20:22](https://youtu.be/i_mVTgnbwHA?t=1222) · [28:28](https://youtu.be/i_mVTgnbwHA?t=1708) · [1:14:19](https://youtu.be/i_mVTgnbwHA?t=4459)
 - **Las piezas que faltan** — chunks: [1:56:17](https://youtu.be/DAW1HiYxnVk?t=6977)
 - **Lo de la Gata, y qué es este canal.** — chunks: [1:06:21](https://youtu.be/aVhd0l1rpqY?t=3981)
-- **Noticias 100tíficas.** — chunks: [34:51](https://youtu.be/VgdybZKruwk?t=2091) · [39:27](https://youtu.be/VgdybZKruwk?t=2367) · [1:54:00](https://youtu.be/VgdybZKruwk?t=6840) · [1:58:22](https://youtu.be/VgdybZKruwk?t=7102)
-- **Por fin** — chunks: [17:31](https://youtu.be/7jT13kHNlBA?t=1051) · [31:42](https://youtu.be/7jT13kHNlBA?t=1902) · [42:19](https://youtu.be/7jT13kHNlBA?t=2539) · [49:27](https://youtu.be/7jT13kHNlBA?t=2967)
-- **Presentación del Libro: Polaris** — chunks: [17:27](https://youtu.be/rLeMS4-XFrA?t=1047)
-- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:54:41](https://youtu.be/UOk344kEeRM?t=6881)
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [55:00](https://youtu.be/eQpPGGqodsU?t=3300) · [1:28:23](https://youtu.be/eQpPGGqodsU?t=5303)
@@ -1027,4 +1098,5 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 - **Magia, superstición y Religión** — chunks: [55:45](https://youtu.be/IbOb3peBSMs?t=3345)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [7:44](https://youtu.be/O4OkDuc3uPQ?t=464)
 - **Cuento contigo (resub)** — chunks: [6:39](https://youtu.be/6oOGKh2TRHE?t=399) · [9:12](https://youtu.be/6oOGKh2TRHE?t=552)
+- **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [0:00](https://youtu.be/K7MAqw1q3dk?t=0) · [7:33](https://youtu.be/K7MAqw1q3dk?t=453) · [10:50](https://youtu.be/K7MAqw1q3dk?t=650) · [21:14](https://youtu.be/K7MAqw1q3dk?t=1274) · [45:12](https://youtu.be/K7MAqw1q3dk?t=2712) · [47:15](https://youtu.be/K7MAqw1q3dk?t=2835)
 

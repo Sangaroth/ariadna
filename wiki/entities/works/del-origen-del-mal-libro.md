@@ -143,6 +143,9 @@ El *sueño colectivo* del canal no postula identidad psíquica transpersonal —
 
 
 
+
+
+
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [2:41:21](https://youtu.be/yAIPr0HzQqE?t=9681)
 - **Hambre y miedo (Cero). LOCUS** — chunks: [11:40](https://youtu.be/n2rtBxP-_e0?t=700)

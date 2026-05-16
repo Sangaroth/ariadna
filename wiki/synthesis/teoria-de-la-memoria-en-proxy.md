@@ -294,6 +294,106 @@ La página articulaba la falibilidad memorial pero no desarmaba el sesgo de nega
 
 La precisión disocia dos preguntas que el folclore mezcla: cuán frecuentemente se re-instancia un recuerdo y cuánto satura el estado mental cuando se re-instancia. Las experiencias buenas se re-instancian constantemente pero quedan integradas en la matriz noética sin ocupar el primer plano fenomenológico — el sujeto no las "recuerda" porque están operando como sustrato continuo. Las experiencias malas, cuando se re-instancian, anulan más e impiden disfrutar lo demás — son fenomenológicamente salientes precisamente porque ocupan ancho de banda exclusivo. La pieza añade el principio explicativo: no es la valencia (positiva/negativa) lo que produce el efecto, es la **magnitud del cambio**. Un cambio positivo brusco (lotería) produce el mismo efecto de saturación que un trauma — todo lo anterior pierde significancia funcional. La memoria opera por contraste, no por valencia.
 
+## Memoria semántica: composición no-inferencial por clases de equivalencia
+
+La página dejaba la memoria semántica como flanco menos articulado. El directo cierra ese hueco con una definición operativa precisa que la sección 'Tipología de la memoria' no contenía.
+
+> "La memoria semántica es la función cognitiva que permite hacer relaciones no inferenciales entre elementos por sus características somáticas o equivalencias"
+→ [Laboratorio de teoría de la mente en biología (55:24)](https://youtu.be/i_mVTgnbwHA?t=3324)
+
+> "Un elemento parece evocar a otro, pero en realidad es una reconstrucción representacional de dos clases"
+→ [Laboratorio de teoría de la mente en biología (58:57)](https://youtu.be/i_mVTgnbwHA?t=3537)
+
+> "La composición puede ser por cualquier clase de equivalencia: sonoras, temporales, de repetición"
+→ [Laboratorio de teoría de la mente en biología (58:57)](https://youtu.be/i_mVTgnbwHA?t=3537)
+
+> "Aquello que permita con más facilidad componer o sintetizar representaciones en una sola es memoria semántica"
+→ [Laboratorio de teoría de la mente en biología (58:57)](https://youtu.be/i_mVTgnbwHA?t=3537)
+
+La definición es estructural en dos partes. (a) **No-inferencial**: la memoria semántica no opera por deducción ni por encadenamiento lógico de premisas; opera por **equivalencia** — dos elementos compartiendo alguna característica (sonora, temporal, somática, de repetición) se vuelven sustituibles para la psique. (b) **Composición**: cuando un elemento aparenta "evocar" otro, lo que ocurre realmente es una reconstrucción representacional simultánea de dos clases distintas en una composición unificada. La asociación aparente es sintetización efectiva.
+
+La precisión de la **somaticidad** es operativa: la memoria semántica trabaja con frecuencia sobre patrones que se ejecutan corporalmente — recitar listas de números por sonido, retener movimientos aprendidos con el cuerpo. Hay más precisión somática que mental porque el sustrato procedimental-corporal es más estable que el sustrato puramente representacional. La memoria semántica enlaza así con la procedimental por la vía somática (ver [[teoria-del-simbolo-en-proxy]] sección 'El lenguaje como especialización somática de la memoria procedimental') — los nombres son atajos representacionales para invocar repertorios procedimentales por equivalencia somática, no por encadenamiento inferencial.
+
+## Mínimo de framework: criterio metodológico para definiciones filosóficas
+
+La página articulaba la oposición al psicoanálisis y al conductismo en plano sustantivo (qué dice cada marco) pero no en plano metodológico (cómo construir definiciones que escapen al cierre de framework). El directo añade el criterio.
+
+> "No se pueden dar definiciones desde coordenadas conductistas porque nadie fuera de ese marco las va a entender"
+→ [Laboratorio de teoría de la mente en biología (28:28)](https://youtu.be/i_mVTgnbwHA?t=1708)
+
+> "Las definiciones deben reducirse filosóficamente a la menor expresión ontológica posible, sin frameworks"
+→ [Laboratorio de teoría de la mente en biología (28:28)](https://youtu.be/i_mVTgnbwHA?t=1708)
+
+El criterio metodológico es **mínimo de framework**: una definición que solo opera dentro de las coordenadas teóricas que la generan no es definición filosófica sino tautología disfrazada — el lector externo no la entenderá porque reactivar el framework completo es la única vía de acceso a su significado. La definición filosófica genuina debe reducirse a la menor expresión ontológica posible, articulada en términos accesibles sin necesidad de adoptar previamente el sistema teórico que la produce. La consecuencia operativa para esta página es retroactiva: las definiciones que el canal propone (memoria como fenómeno noético de repetición de submatrices, memoria como función propia, memoria semántica como composición no-inferencial) se construyen para ser legibles fuera del realismo cognitivo, no para validarse solo dentro de él.
+
+
+## La memoria como función propia, no capacidad
+
+En el directo *Laboratorio de teoría de la mente en biología* (22 ene 2026) el canal afina la categorización del fenómeno memorial con una distinción que la página articulaba implícitamente: memoria no es **capacidad** sino **función propia** (en sentido de Millikan).
+
+> "El término 'capacidad' implica algo que se puede elegir hacer o no hacer"
+→ [Laboratorio de teoría de la mente en biología (22:26)](https://youtu.be/i_mVTgnbwHA?t=1346)
+
+> "No se puede evitar tener memoria; incluso quienes intentan evitarla no lo consiguen"
+→ [Laboratorio de teoría de la mente en biología (22:26)](https://youtu.be/i_mVTgnbwHA?t=1346)
+
+> "Se necesita una función propia, no una capacidad: la memoria es un fenómeno, no una habilidad opcional"
+→ [Laboratorio de teoría de la mente en biología (22:26)](https://youtu.be/i_mVTgnbwHA?t=1346)
+
+La precisión categorial es operativa: una **capacidad** es algo que el sujeto puede ejercer o no — implica volición y selectividad. Una **función propia** es lo que el sistema hace por ser el sistema que es — opera con o sin consentimiento del sujeto. La memoria es de la segunda clase: no se desactiva, no se elige, no se inhibe completamente. Quienes intentan no recordar (por terapia, por dolor, por ascetismo) no lo logran — solo modifican qué se re-instancia y con qué frecuencia. La pieza cierra el flanco metodológico de la página: cuando el canal habla de "función propia" lo hace en oposición técnica al vocabulario de "capacidad" que arrastra connotaciones voluntaristas incompatibles con el realismo cognitivo.
+
+## La PLP fundamenta pero no es la memoria
+
+La página articulaba la memoria como repetición de submatrices sin desarrollar el sustrato neurofisiológico subyacente. El directo añade la pieza en su justa medida — condición necesaria pero no suficiente.
+
+> "La PLP es la sensibilización o inhibición de grupos de conexiones neuronales que optimizan la transmisión"
+→ [Laboratorio de teoría de la mente en biología (23:26)](https://youtu.be/i_mVTgnbwHA?t=1406)
+
+> "La PLP fundamenta la memoria, pero puede haber PLP sin haber memoria: existen partes del cerebro sin relación con la memoria donde ocurre PLP"
+→ [Laboratorio de teoría de la mente en biología (23:26)](https://youtu.be/i_mVTgnbwHA?t=1406)
+
+> "El circuito sináptico se optimiza conforme se usa repetidamente: se desplazan botones sinápticos, se crean nuevos, se modifica la ramificación dendrítica"
+→ [Laboratorio de teoría de la mente en biología (23:26)](https://youtu.be/i_mVTgnbwHA?t=1406)
+
+La potenciación a largo plazo (PLP) es la mecánica neuronal de optimización de circuitos repetidamente usados — desplazamiento de botones sinápticos, creación de nuevos, remodelado de la ramificación dendrítica. Es **condición necesaria** del fenómeno memorial pero no su definición: existe PLP en regiones cerebrales sin relación con la memoria, lo que demuestra que el sustrato sináptico optimizado no implica función memorial. La identificación PLP=memoria es la versión neurocientífica del error categorial que la metáfora del almacén comete en plano fenomenológico — confundir el sustrato con la función.
+
+### Filtro de inhibición: el hipocampo como dispositivo de olvido funcional
+
+> "Existen conjuntos de neuronas pensados para inhibir y olvidar: las conexiones del CA3-CA4 del hipocampo con la corteza perirrinal filtran qué importa y qué no"
+→ [Laboratorio de teoría de la mente en biología (32:42)](https://youtu.be/i_mVTgnbwHA?t=1962)
+
+La pieza neuroanatómica complementa el argumento contra el almacén con su contraparte funcional: el cerebro contiene circuitos específicamente dedicados a NO conservar — el filtro CA3-CA4 hipocampal proyecta sobre la corteza perirrinal seleccionando qué representaciones reciben consolidación y cuáles se descartan. La memoria no es archivo pasivo que se llene; es proceso activo de selección donde inhibir es tan operativo como sensibilizar. El olvido es función propia, no falla.
+
+## Saturación funcional: por qué la memoria no se llena
+
+La página articulaba la falibilidad memorial pero no respondía al argumento clásico contra la teoría matricial: si la memoria es repetición de submatrices, ¿qué impide que el cerebro se sature? El directo cierra el flanco con un argumento por **saturación funcional**.
+
+> "La memoria no se almacena, es información sintetizada y resintetizada, por lo que no se satura como un disco duro"
+→ [Laboratorio de teoría de la mente en biología (45:31)](https://youtu.be/i_mVTgnbwHA?t=2731)
+
+> "Cada 200 años el cerebro estaría adaptado a una realidad tan diferente que los recuerdos antiguos perderían función"
+→ [Laboratorio de teoría de la mente en biología (45:31)](https://youtu.be/i_mVTgnbwHA?t=2731)
+
+> "Incluso los traumas afectivos profundos dejarían de tener función y desaparecerían por saturación funcional"
+→ [Laboratorio de teoría de la mente en biología (45:31)](https://youtu.be/i_mVTgnbwHA?t=2731)
+
+El experimento mental — vivir mil años — sirve para mostrar que el límite de la persistencia memorial no es de capacidad de almacén sino de pertinencia funcional. Cada doscientos años el sujeto operaría sobre una realidad tan distinta que los patrones aprendidos en el periodo anterior perderían función adaptativa, y patrones sin función no se re-instancian. El argumento extiende esta lógica al caso clínico límite: incluso los traumas afectivos profundos — los patrones más persistentes que la psique conoce — caducarían por irrelevancia funcional sostenida. La pieza invierte la intuición ordinaria: el problema de la memoria no es cómo retiene tanto, es por qué olvida lo que ya no le sirve. La función de filtrado del hipocampo (sección anterior) es la mecánica neural concreta del mismo principio.
+
+## Sesgo de negatividad: magnitud del cambio, no valencia
+
+La página articulaba la falibilidad memorial pero no desarmaba el sesgo de negatividad popular. El directo lo precisa con una distinción operativa entre **frecuencia de recuerdo** y **efecto sobre el estado mental**.
+
+> "No se recuerdan más las experiencias negativas; cuando se recuerdan, anulan más e impiden disfrutar de lo demás"
+→ [Laboratorio de teoría de la mente en biología (53:24)](https://youtu.be/i_mVTgnbwHA?t=3204)
+
+> "Las experiencias buenas se integran tan bien en la vida que no se percibe que se están recordando constantemente"
+→ [Laboratorio de teoría de la mente en biología (53:24)](https://youtu.be/i_mVTgnbwHA?t=3204)
+
+> "Un cambio brusco positivo (como ganar la lotería) también hace que todo lo anterior pierda significancia: no es la valencia, es la magnitud del cambio"
+→ [Laboratorio de teoría de la mente en biología (53:24)](https://youtu.be/i_mVTgnbwHA?t=3204)
+
+La precisión disocia dos preguntas que el folclore mezcla: cuán frecuentemente se re-instancia un recuerdo y cuánto satura el estado mental cuando se re-instancia. Las experiencias buenas se re-instancian constantemente pero quedan integradas en la matriz noética sin ocupar el primer plano fenomenológico — el sujeto no las "recuerda" porque están operando como sustrato continuo. Las experiencias malas, cuando se re-instancian, anulan más e impiden disfrutar lo demás — son fenomenológicamente salientes precisamente porque ocupan ancho de banda exclusivo. La pieza añade el principio explicativo: no es la valencia (positiva/negativa) lo que produce el efecto, es la **magnitud del cambio**. Un cambio positivo brusco (lotería) produce el mismo efecto de saturación que un trauma — todo lo anterior pierde significancia funcional. La memoria opera por contraste, no por valencia.
+
 
 
 ## La memoria como constituyente del tiempo: el argumento del cerebro en un tarro
@@ -372,3 +472,5 @@ El criterio metodológico es **mínimo de framework**: una definición que solo 
 - **Noticias 100tíficas** — chunks: [44:34](https://youtu.be/VgdybZKruwk?t=2674) · [1:41:55](https://youtu.be/VgdybZKruwk?t=6115)
 
 - **Tontas en Potencia** — chunks: [1:17:25](https://youtu.be/1cKAgkEEbMA?t=4645)
+
+- **Proxy le explica a Exit el "hard problem" y el "soft problem" de la conciencia** — chunks: [1:39:13](https://youtu.be/rjG3RbEYcL0?t=5953) · [1:41:45](https://youtu.be/rjG3RbEYcL0?t=6105)

@@ -343,6 +343,22 @@ La precisión es estructural: el cuadrado admite movilidad limitada, y la regla 
 La regla complementa el aparato genético-rebelde de la sección previa: la rebeldía no opera como repulsión hacia el cuadrante geométricamente opuesto sino dentro de la celda contigua del eje rebelado, lo que limita a priori el conjunto de trayectorias posibles a lo largo de la vida. La consecuencia operativa es predictiva — el canal afirma poder anticipar trayectorias políticas conociendo el cuadrante de origen y la dirección del primer desplazamiento.
 
 
+
+## Desplazamientos ideológicos siempre laterales, nunca diagonales
+
+En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal añade una regla operativa sobre la trayectoria de la migración ideológica que cierra un flanco abierto en la sección anterior sobre herencia y rebeldía: la dirección de los desplazamientos.
+
+> "La progresión habitual es de 'rojo/socialista/progre' hacia lo liberal, nunca en diagonal en el cuadrado de Proxy-Beron,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (33:10)](https://youtu.be/ZlO5o786u90?t=1990)
+
+> "Los desplazamientos ideológicos siempre son laterales, no diagonales,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (33:10)](https://youtu.be/ZlO5o786u90?t=1990)
+
+La precisión es estructural: el cuadrado admite movilidad limitada, y la regla operativa es que las trayectorias atraviesan **un solo eje a la vez**. Una persona en abajo-izquierda (anti-jerarquía + relativismo) puede migrar a abajo-derecha (anti-jerarquía + fundamentalismo) sin cambiar el eje vertical, o ascender a arriba-izquierda (jerarquía + relativismo) sin cambiar el horizontal. Lo que prácticamente nunca ocurre es la diagonal — un sujeto pasando de abajo-izquierda a arriba-derecha (cambio simultáneo de los dos ejes) o de arriba-izquierda a abajo-derecha. La migración progre→liberal cita el caso paradigmático: cambio del eje vertical (acepta jerarquías de mercado) preservando el horizontal (relativismo moral) — desplazamiento vertical puro.
+
+La regla complementa el aparato genético-rebelde de la sección previa: la rebeldía no opera como repulsión hacia el cuadrante geométricamente opuesto sino dentro de la celda contigua del eje rebelado, lo que limita a priori el conjunto de trayectorias posibles a lo largo de la vida. La consecuencia operativa es predictiva — el canal afirma poder anticipar trayectorias políticas conociendo el cuadrante de origen y la dirección del primer desplazamiento.
+
+
 ## Eje horizontal como dipolo madre tirana / madre ausente
 
 En el directo *Luto* (21-ene-2025) el canal añade una caracterización afectivo-relacional del eje horizontal del diagrama que la página articulaba como 'fundamentalismo moral vs relativismo'. La pieza ofrece el sustrato psicoanalítico bajo la categoría política.
@@ -457,6 +473,84 @@ La conclusión sintetiza el marco completo del capítulo 0: izquierda y derecha 
 
 
 
+## "Hambre y miedo Cero": la articulación foundational del modelo (mayo 2021)
+
+El vídeo *Hambre y miedo (Cero). LOCUS* es el capítulo 0 de la serie homónima que da origen al diagrama de Proxy. La articulación es esquemática (13 min) pero contiene piezas foundational que las secciones anteriores tenían dispersas: la distinción disposición interna / elemento identitario, el locus de control como origen del posicionamiento, los pares hambre/miedo como motores duales que dan nombre a la serie, y el dilema completitud/coherencia como sustrato epistemológico de los cuadrantes horizontales.
+
+### Disposiciones internas y elementos identitarios: dos formas del yo cultural
+
+> "Una disposición interna es una parte del yo en forma de categorías y representaciones con función orientadora,"
+→ [Hambre y miedo (Cero). LOCUS (03:33)](https://youtu.be/n2rtBxP-_e0?t=213)
+
+> "Un elemento identitario es una parte de la personalidad que se desarrolla en forma de mensaje al exterior,"
+→ [Hambre y miedo (Cero). LOCUS (05:04)](https://youtu.be/n2rtBxP-_e0?t=304)
+
+La distinción terminológica es operativa: las **disposiciones internas** son categorías y representaciones con función orientadora privada (el deber ser interiorizado como instrucciones del yo); los **elementos identitarios** son la parte de la personalidad que se proyecta al exterior como discurso (el deber ser comunicado a los otros). La identidad política es manifestación externa del yo cultural — el elemento identitario asociado a la disposición moral-política previa. La distinción permite leer la posición política como pieza de la economía del yo, no como decisión cognitiva neutral: el sujeto NO razona su posición primero y la comunica después; expresa una configuración afectiva ya tomada cuya genealogía permanece opaca al agente.
+
+### Características funcionales: reconocer al ajeno antes que definir al propio
+
+> "Son discursos que parecen hablar sobre el ser pero en realidad hablan sobre el deber ser,"
+→ [Hambre y miedo (Cero). LOCUS (05:34)](https://youtu.be/n2rtBxP-_e0?t=334)
+
+> "Son difícilmente definibles por extensión pero fácilmente identificables en el otro: sirven como elemento inmediato de categorización del ajeno,"
+→ [Hambre y miedo (Cero). LOCUS (05:34)](https://youtu.be/n2rtBxP-_e0?t=334)
+
+La pieza precisa el carácter operativo de la orientación política: el sujeto NO puede dar definición intensional rigurosa de su propia posición pero SÍ reconoce inmediatamente la ajena. Esta asimetría reconocimiento/definición es coherente con la tesis del razonamiento motivado articulada en secciones anteriores — la moral es respuesta afectiva primero, racionalización después; la posición se reconoce ostensivamente porque su sustrato es afectivo, no doctrinal. La consecuencia operativa: las pruebas que pretenden definir la propia posición (Nolan, MFT) operan sobre el material consciente (justificación) y por eso el speaker las desautoriza — la posición real opera al nivel del reconocimiento del otro, no del autoconocimiento del sujeto.
+
+### Sistema moral: completitud (izquierda) vs coherencia (derecha)
+
+> "La izquierda tiende a un sistema de reglas morales lo más completo posible, con mayor número de casos particulares a costa de fundamentos menos rígidos,"
+→ [Hambre y miedo (Cero). LOCUS (08:06)](https://youtu.be/n2rtBxP-_e0?t=486)
+
+> "La derecha procura que el sistema sea lo más coherente posible mediante un punto de partida rígido,"
+→ [Hambre y miedo (Cero). LOCUS (08:06)](https://youtu.be/n2rtBxP-_e0?t=486)
+
+La articulación añade un dilema epistemológico estructural detrás de los cuadrantes horizontales: izquierda y derecha enfrentan el dilema clásico **completitud vs coherencia** que cualquier sistema formal debe resolver (eco operativo del teorema de Gödel aplicado al sistema moral). La izquierda elige completitud (cubrir todos los casos particulares aunque los fundamentos se vuelvan flexibles, contextuales, revisables); la derecha elige coherencia (preservar la rigidez de los fundamentos aunque se vuelvan insuficientes para casos sobrevenidos, novedades culturales, conflictos morales no anticipados). La pieza es la versión epistemológica del eje horizontal articulado en otras secciones como fundamentalismo/relativismo: ningún sistema moral consigue ambas (completo Y coherente) y los cuadrantes horizontales corresponden a la elección estructural por una virtud a costa de la otra.
+
+### Locus de control como origen del posicionamiento moral-político
+
+> "El miedo innato a lo externo y lo desconocido se manifiesta en el centro de todo sistema de valores culturales,"
+→ [Hambre y miedo (Cero). LOCUS (09:37)](https://youtu.be/n2rtBxP-_e0?t=577)
+
+> "La izquierda se asemeja a un sistema de representaciones construido mediante un locus externo de control: los demás quieren hacerme daño,"
+→ [Hambre y miedo (Cero). LOCUS (09:37)](https://youtu.be/n2rtBxP-_e0?t=577)
+
+> "La derecha se asemeja a una personalidad construida mediante un locus interno de control: soy peligroso para mí mismo,"
+→ [Hambre y miedo (Cero). LOCUS (09:37)](https://youtu.be/n2rtBxP-_e0?t=577)
+
+La pieza articula el **locus de control** como origen del posicionamiento moral-político en su forma más esquemática: el miedo innato a lo desconocido se localiza diferencialmente — en el exterior (izquierda: 'los demás quieren hacerme daño') o en el interior (derecha: 'soy peligroso para mí mismo'). La sección 'Clave parental completa' refina esta articulación cifrándola como locus interno paterno (la ley moral interiorizada) vs locus externo (el padre como amenaza), pero la articulación capítulo-cero es directa y operativa: el lugar donde se ubica el origen del mal determina la posición política. El locus es genealógico — antecede a la doctrina, configura la posibilidad de adherencia ideológica.
+
+### Hambre y miedo: los motores duales que dan nombre a la serie
+
+> "La izquierda tiene hambre de poder (quiere realizar su voluntad a pesar de la cultura) y miedo a la verdad (no soporta la responsabilidad aparejada a la libertad),"
+→ [Hambre y miedo (Cero). LOCUS (10:39)](https://youtu.be/n2rtBxP-_e0?t=639)
+
+> "La derecha tiene hambre de control (construye el yo ligado a su cultura y tradición) y miedo al mal interior (rechaza el libertinaje y es partidaria de la represión),"
+→ [Hambre y miedo (Cero). LOCUS (10:39)](https://youtu.be/n2rtBxP-_e0?t=639)
+
+> "Ha de destruir toda categoría absoluta (izquierda) vs. ha de reprimir todo lo que dé rienda suelta al logos interior (derecha),"
+→ [Hambre y miedo (Cero). LOCUS (10:39)](https://youtu.be/n2rtBxP-_e0?t=639)
+
+La pieza articula los **motores duales** que dan nombre a la serie homónima del canal y que constituyen la forma afectiva canónica del modelo. Cada cuadrante horizontal opera bajo configuración afectiva específica con dos vectores acoplados:
+
+- **Izquierda**: hambre de PODER (realizar la voluntad propia pese a la cultura recibida) + miedo a la VERDAD (rechaza la responsabilidad aparejada a la libertad sartreana — si la verdad es accesible al sujeto entonces es responsable de las consecuencias de su acción). Imperativo operativo: destruir toda categoría absoluta porque la categoría absoluta sería precisamente la verdad que obligaría.
+- **Derecha**: hambre de CONTROL (construir el yo ligado a la cultura y tradición recibida) + miedo al MAL INTERIOR (rechaza el libertinaje porque sospecha del logos pulsional propio sin freno). Imperativo operativo: reprimir todo lo que dé rienda suelta al logos interior porque el logos sin freno produciría aquello mismo que el sujeto teme de sí.
+
+La configuración afectiva es complementaria — cada cuadrante construye su defensa frente al aspecto del miedo originario que el otro NO teme. La izquierda no teme su logos pulsional (lo reivindica como auténtico) pero teme la verdad que lo limitaría; la derecha no teme la verdad (la asume como tradición) pero teme su logos pulsional como amenaza interior. La consecuencia operativa: el debate político no es disputa sobre los hechos sino enfrentamiento entre dos configuraciones defensivas que protegen al sujeto frente a aspectos distintos del mismo miedo originario.
+
+### La dicotomía como batalla cultural sobre el origen del mal
+
+> "Desde un punto de vista antropológico, la dicotomía como forma elemental de pensamiento se manifiesta en forma de batalla cultural sobre el origen del mal,"
+→ [Hambre y miedo (Cero). LOCUS (11:40)](https://youtu.be/n2rtBxP-_e0?t=700)
+
+> "Comprender el análisis funcional de estos procesos es imprescindible para comprender el fenómeno de la posmodernidad,"
+→ [Hambre y miedo (Cero). LOCUS (11:40)](https://youtu.be/n2rtBxP-_e0?t=700)
+
+La conclusión sintetiza el marco completo del capítulo 0: izquierda y derecha NO son posiciones políticas opcionales sino la cristalización política de la **batalla cultural sobre el origen del mal** — un fenómeno antropológico anclado en la dicotomía como forma elemental de cognición humana (lo que existe solo existe porque existe su contrario). Comprender los cuadrantes como configuraciones defensivas frente al miedo localizado dentro o fuera es prerrequisito para comprender la posmodernidad como cultura. La pieza enlaza con [[mito-polar]] como cosmogonía dipolar: la batalla izquierda/derecha es la versión política contemporánea de la dicotomía cosmogónica que el mito polar articula a escala arquetípica — escisiones por oposición que se materializan en formas diversas según el registro (cosmogónico, político, psíquico) sin perder su estructura dipolar foundational.
+
+
+
+
 
 
 ## Lagunas
@@ -483,6 +577,8 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
+
+
 - video_id: `wxcSuqipA6s` — Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?
 - **Cuento de Navidad y el espíritu Luterano con teleñecos** — chunks: [29:49](https://youtu.be/s0MkondMt1o?t=1789)
 - **Anonimato y minoría de edad en redes sociales.** — chunks: [48:12](https://youtu.be/NrLnzcceSLY?t=2892)
@@ -496,5 +592,6 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 - **Elisa y su CI** — chunks: [35:43](https://youtu.be/6tfSc45kjyo?t=2143) · [1:01:44](https://youtu.be/6tfSc45kjyo?t=3704)
 
 - **¿Es ciencia la psicología?** — chunks: [31:27](https://youtu.be/1cF9VayHtRI?t=1887) · [34:01](https://youtu.be/1cF9VayHtRI?t=2041)
+- **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:04:24](https://youtu.be/NjtK76xzV18?t=3864)
 - **T5x07: Soto Ivars y el Tabú** — chunks: [15:18](https://youtu.be/wixOLxnd68o?t=918)
 

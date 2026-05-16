@@ -98,6 +98,27 @@ La pieza precisa un mecanismo psíquico específico de la pasividad lunar: el po
 La articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.
 
 
+## Mecánica operativa del ciclo: descenso, rescate y ascenso
+
+El análisis de [[gothika-2003-film|Gothika]] articula el contenido operativo del ciclo lunar más allá de su nomenclatura: la diosa **desciende cada noche a los infiernos a rescatar a su hijo dios y asciende para volver a empezar**.
+
+> "La diosa desciende cada noche a rescatar a su hijo dios y asciende para volver a empezar"
+→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)
+
+> "El hijo dios es arrancado del seno materno y se desliza por el río del espíritu por ser demasiado joven"
+→ [Gothika: De Profundis (26:28)](https://youtu.be/Gx2740if0Ho?t=1588)
+
+La pieza precisa un mecanismo psíquico específico de la pasividad lunar: el poder de la diosa **no es derrotar al dragón** — esa es la economía solar — sino atravesarlo sin que la experiencia la destruya. Lo femenino *vive la experiencia sin que la experiencia le cambie para mal*, contraparte exacta del recorrido solar de caída-camino-muerte-apoteosis donde el héroe sí es transformado por la prueba.
+
+> "El poder de la diosa no es derrotar al dragón sino que le atraviese sin quedar destruida"
+→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)
+
+> "Lo femenino es pasivo: vive la experiencia sin que la experiencia le cambie para mal"
+→ [Gothika: De Profundis (46:32)](https://youtu.be/Gx2740if0Ho?t=2792)
+
+La articulación cierra parcialmente la laguna sobre el contenido mítico de las cinco fases: el bloque despertar–creación–caída–luna roja–exorcismo se reconoce como el pulso recurrente del rescate del hijo dios y de la travesía del dragón sin destrucción del sujeto, no como secuencia única de un ciclo cósmico irrepetible.
+
+
 ## Cumplimiento católico del ciclo: la Asunción de María
 
 El directo monográfico *La luna, La Virgen y la Diosa Blanca* articula la conexión específica entre la fase final del mito lunar y la figura católica de la Virgen María. La pieza estructural es la Asunción — el dogma según el cual María no murió, sino que fue elevada en cuerpo a los cielos.
@@ -137,6 +158,33 @@ La pieza añade tres precisiones operativas:
 ### Pendiente: catálogo explícito de las cuatro vidas
 
 El libro [[polaris-libro]] articula 'cuatro vidas del mito lunar' sin enumerarlas exhaustivamente en el directo de presentación. Quedará como pieza pendiente identificar el catálogo explícito (probablemente: virgen, consorte, madre, anciana o equivalentes culturales reconocibles en distintas tradiciones) cuando futuros vídeos del corpus desarrollen la lista. Por ahora se documenta la propiedad estructural (mutabilidad cuádruple) sin fijar nominalmente cada una de las cuatro modalidades.
+
+
+
+## Las cuatro fases del ciclo lunar: el reloj de la diosa en Cenicienta
+
+El análisis arquetípico de [[cenicienta-1950-film|Cenicienta (Disney, 1950)]] articula el catálogo de las cuatro modalidades cíclicas que la sección anterior dejaba como pieza pendiente. La película codifica las cuatro fases del ciclo lunar como cuatro coordenadas horarias del reloj diegético — 3, 6, 9 y 12 — cada una correspondiente a una modalidad existencial de la diosa.
+
+> "Las 3 de la madrugada son la luna roja (muerte de la madre, ciclo anterior),"
+→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)
+
+> "Las 6 de la mañana es cuando se levanta Artemisa; las 9 de la noche es la llegada al baile como dama blanca,"
+→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)
+
+> "Las 12 es el fin de la noche: cuatro grupos de 3 horas, cuatro fases de tres dones; el reloj y la luna son las dos esferas blancas de la película,"
+→ [Cenicienta, el Mito Lunar en Disney (1:35:20)](https://youtu.be/iPqOn-ynSlE?t=5720)
+
+El catálogo articulado:
+
+1. **3:00 — Luna roja**: cierre del ciclo anterior. Coincide con la muerte de la madre en la película (la herida fundacional de la feminidad). Es la fase ctónica donde la diosa anterior expira para que la nueva pueda emerger.
+2. **6:00 — Levantamiento de Artemisa**: el despertar (*égersis*) en su forma virgen-cazadora. La doncella se incorpora al mundo cargada con la herencia de la madre muerta, sin haber accedido aún al polo erótico-relacional.
+3. **9:00 — Llegada al baile como dama blanca**: la consorte plena. La diosa se manifiesta en su forma luminosa (vestida de blanco), portadora simultánea de los tres dones de [[diosa-blanca|gracia/belleza/esperanza]] activados conjuntamente por la mediación del hada madrina.
+4. **12:00 — Fin del hechizo**: el cierre del ciclo lunar, momento de la huida y la separación. El reloj cumplido devuelve a la diosa al sustrato cotidiano antes de que la noche mágica se contamine.
+
+La pieza completa el aparato canal-canónico: la cuádruple mutabilidad articulada en el libro [[polaris-libro|Polaris]] ('tres son una y una son tres') recibe en Cenicienta su iconografía operativa — cuatro coordenadas temporales que la psique femenina recorre como ciclo arquetípico, no como sucesión biográfica única. El detalle dramatúrgico que cifra la equivalencia: el reloj (el orden masculino, Cronos) y la luna (la diosa) son **las dos esferas blancas** de la película — los dos polos cuya superposición articula el [[mito-polar]] en clave doméstica.
+
+La articulación se solapa parcialmente con las cinco fases del ciclo (despertar/creación/caída/luna-roja/exorcismo) plegadas en cuatro modalidades existenciales: luna roja como fase ctónica, Artemisa como égersis, dama blanca como creación-cumplida, cierre como exorcismo. La diferencia entre las dos numeraciones (cinco fases vs cuatro vidas) es operativa: las fases describen el recorrido temporal continuo del ciclo; las vidas describen las modalidades existenciales discretas que la diosa actualiza, agrupadas en cuatro horas-coordenadas del reloj diegético. Cenicienta es entonces el primer caso del corpus donde el catálogo cuádruple se nombra explícitamente con coordenadas operativas, no solo como propiedad estructural abstracta.
+
 
 
 
@@ -210,18 +258,29 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
+- **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:38:22](https://youtu.be/rLeMS4-XFrA?t=5902)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275) · [1:35:30](https://youtu.be/aWeuzWLrLtE?t=5730)
+- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [37:18](https://youtu.be/Sszbs7CG0cQ?t=2238) · [39:50](https://youtu.be/Sszbs7CG0cQ?t=2390)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [32:18](https://youtu.be/yLd7j3fcR1w?t=1938) · [1:47:08](https://youtu.be/yLd7j3fcR1w?t=6428)
-- **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:38:22](https://youtu.be/rLeMS4-XFrA?t=5902)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [28:55](https://youtu.be/xK8_MpMMXzc?t=1735) · [34:59](https://youtu.be/xK8_MpMMXzc?t=2099)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [2:02](https://youtu.be/aPbgBnidoJI?t=122) · [3:32](https://youtu.be/aPbgBnidoJI?t=212)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [7:57](https://youtu.be/yAIPr0HzQqE?t=477)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [50:14](https://youtu.be/fzEDQZIqKwg?t=3014) · [1:01:51](https://youtu.be/fzEDQZIqKwg?t=3711) · [1:38:25](https://youtu.be/fzEDQZIqKwg?t=5905)
-- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275) · [1:35:30](https://youtu.be/aWeuzWLrLtE?t=5730)
-- **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [37:18](https://youtu.be/Sszbs7CG0cQ?t=2238) · [39:50](https://youtu.be/Sszbs7CG0cQ?t=2390)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [2:03:53](https://youtu.be/nw7fSEAJr-U?t=7433)
 - **Lilith: La Iconotropía.** — chunks: [2:36](https://youtu.be/xKCD8PaexF0?t=156)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [24:20](https://youtu.be/O4OkDuc3uPQ?t=1460)

@@ -178,5 +178,14 @@ La carta del Loco en el [[tarot-arquetipico]] codifica esta posición: el Arcano
 ## Citations
 
 
+
+
+
+
+
+- **Gothika: De Profundis** — chunks: [28:28](https://youtu.be/Gx2740if0Ho?t=1708)
+- **Mitología 101: Héroes y antihéroes.** — chunks: [1:42:31](https://youtu.be/yLd7j3fcR1w?t=6151)
+- **Análisis arquetípico de Los Rescatadores** — chunks: [48:23](https://youtu.be/ryvi2Y7KYB8?t=2903)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [39:31](https://youtu.be/xK8_MpMMXzc?t=2371)
 - **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391) · [46:24](https://youtu.be/nern-nhePjE?t=2784)
 

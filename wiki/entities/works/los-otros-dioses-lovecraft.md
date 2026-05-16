@@ -148,5 +148,6 @@ Los dioses lunares y los dioses del abismo de Bloodborne reproducen la jerarquí
 ## Citations
 
 
+
 - **Terror: Lovecraft y lo incompleto.** — chunks: [1:11:53](https://youtu.be/JzfcmEKWm1c?t=4313) · [1:21:29](https://youtu.be/JzfcmEKWm1c?t=4889)
 

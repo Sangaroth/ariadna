@@ -139,5 +139,6 @@ El cuento anticipa estructuras que [[lovecraft-howard]] desarrollará en los Mit
 ## Citations
 
 
+
 - **Terror: Lovecraft y lo incompleto.** — chunks: [32:58](https://youtu.be/JzfcmEKWm1c?t=1978) · [58:15](https://youtu.be/JzfcmEKWm1c?t=3495) · [1:01:17](https://youtu.be/JzfcmEKWm1c?t=3677) · [1:06:50](https://youtu.be/JzfcmEKWm1c?t=4010)
 

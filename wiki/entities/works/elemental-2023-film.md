@@ -192,6 +192,14 @@ El análisis identifica una sola escena que opera arquetípicamente: la resoluci
 
 
 
+
+
+
+
+
+- **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [6:43](https://youtu.be/wIhH72UFUPY?t=403)
+- **Seguimos con Tolkien** — chunks: [49:52](https://youtu.be/OGah7BFoR3w?t=2992)
 - **Análisis arquetípico de Elemental** — chunks: [5:02](https://youtu.be/p8ZInoDuE50?t=302)
 - **Hambre y miedo (Cero). LOCUS** — chunks: [0:31](https://youtu.be/n2rtBxP-_e0?t=31) · [11:40](https://youtu.be/n2rtBxP-_e0?t=700)
 

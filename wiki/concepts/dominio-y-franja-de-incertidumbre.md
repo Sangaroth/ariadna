@@ -256,6 +256,37 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -268,6 +299,12 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Análisis arquetípico: Excalibur** — chunks: [10:38](https://youtu.be/daC37T5cbWs?t=638)
 - **Análisis arquetípico Inside Out** — chunks: [26:45](https://youtu.be/V-ixEcJuLzw?t=1605)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [15:38](https://youtu.be/X2c2a3mQBOs?t=938) · [1:44:00](https://youtu.be/X2c2a3mQBOs?t=6240)
+- **Noticias 100tíficas.** — chunks: [1:54:00](https://youtu.be/VgdybZKruwk?t=6840)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [45:06](https://youtu.be/L4ayDmaUO9Y?t=2706)
+- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [6:17](https://youtu.be/Ot3Z1VYTUgY?t=377)
+- **Event Horizon** — chunks: [5:15](https://youtu.be/cgO7JwvwOQg?t=315) · [25:15](https://youtu.be/cgO7JwvwOQg?t=1515)
+- **Matrix II y III** — chunks: [27:25](https://youtu.be/tkVwAclFrsI?t=1645)
+- **Matrix y el camino del héroe.** — chunks: [1:12:37](https://youtu.be/kF5KHE_fF7g?t=4357)
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [1:48:18](https://youtu.be/cbdLR0HTE3w?t=6498)
 - **Elisa y su CI** — chunks: [1:07:48](https://youtu.be/6tfSc45kjyo?t=4068)
 - **¿Es ciencia la psicología?** — chunks: [18:20](https://youtu.be/1cF9VayHtRI?t=1100)
@@ -276,7 +313,6 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [41:09](https://youtu.be/lw7XI2lQntM?t=2469) · [49:11](https://youtu.be/lw7XI2lQntM?t=2951)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [18:12](https://youtu.be/krkUPzqTqTA?t=1092)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [47:27](https://youtu.be/yLd7j3fcR1w?t=2847)
-- **Noticias 100tíficas.** — chunks: [1:54:00](https://youtu.be/VgdybZKruwk?t=6840)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [32:13](https://youtu.be/4LBXNkVAUCU?t=1933)
 - **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [54:48](https://youtu.be/4P5hxaG7i6c?t=3288)
 - **Seguimos con Tolkien** — chunks: [35:45](https://youtu.be/OGah7BFoR3w?t=2145)
@@ -287,11 +323,6 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Todo se apaga menos el PSOE** — chunks: [1:03:58](https://youtu.be/MNbsJXaz3XI?t=3838)
 - **Análisis arquetípico de Elemental** — chunks: [1:29:25](https://youtu.be/p8ZInoDuE50?t=5365)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [59:06](https://youtu.be/yAIPr0HzQqE?t=3546)
-- **Del origen del mal (III): La fe y los demonios.** — chunks: [45:06](https://youtu.be/L4ayDmaUO9Y?t=2706)
-- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [6:17](https://youtu.be/Ot3Z1VYTUgY?t=377)
-- **Event Horizon** — chunks: [5:15](https://youtu.be/cgO7JwvwOQg?t=315) · [25:15](https://youtu.be/cgO7JwvwOQg?t=1515)
-- **Matrix II y III** — chunks: [27:25](https://youtu.be/tkVwAclFrsI?t=1645)
-- **Matrix y el camino del héroe.** — chunks: [1:12:37](https://youtu.be/kF5KHE_fF7g?t=4357)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [58:44](https://youtu.be/nw7fSEAJr-U?t=3524)
 - **El mito de Dioniso** — chunks: [2:35](https://youtu.be/ttnUgH3jou8?t=155) · [52:40](https://youtu.be/ttnUgH3jou8?t=3160)
 - **El mito del Gólem: Transhumanismo** — chunks: [24:58](https://youtu.be/hjc9L2_kkOo?t=1498) · [36:09](https://youtu.be/hjc9L2_kkOo?t=2169)
@@ -303,4 +334,6 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **"But why?" ¿Porqué un pingüino?** — chunks: [25:02](https://youtu.be/By5DFt-iGUI?t=1502) · [37:25](https://youtu.be/By5DFt-iGUI?t=2245) · [44:04](https://youtu.be/By5DFt-iGUI?t=2644) · [51:08](https://youtu.be/By5DFt-iGUI?t=3068) · [55:47](https://youtu.be/By5DFt-iGUI?t=3347)
 - **Cerebros rosas y azules** — chunks: [1:46:48](https://youtu.be/x7A9nfoRfu0?t=6408)
 - **De Platón A The Matrix** — chunks: [17:45](https://youtu.be/zr_ZKX60N54?t=1065)
+- **luna roja sobre el varón II: "lnceIs"** — chunks: [4:03](https://youtu.be/5uFhZcARjYQ?t=243) · [41:32](https://youtu.be/5uFhZcARjYQ?t=2492) · [44:34](https://youtu.be/5uFhZcARjYQ?t=2674) · [49:39](https://youtu.be/5uFhZcARjYQ?t=2979) · [55:44](https://youtu.be/5uFhZcARjYQ?t=3344) · [1:11:38](https://youtu.be/5uFhZcARjYQ?t=4298)
+- **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [1:25:16](https://youtu.be/GdQY1iOa68w?t=5116)
 

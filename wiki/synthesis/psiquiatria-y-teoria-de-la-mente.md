@@ -144,9 +144,107 @@ El segundo movimiento de la tesis es polémico: el discurso antipsiquiátrico co
 - [[gisbertocracia]] — el cerebrocentrismo y el farmacocentrismo se alinean con el patrón más amplio del canal sobre delegación de autoridad cognitiva
 - [[golem-de-cobre]] — comparte el problema de la teoría de la mente formal: aquí en clínica psiquiátrica, allí en cognición humana frente a IA
 
+
+
+## Las dos acepciones de "teoría de la mente" y los criterios filosóficos
+
+En el directo monográfico *La teoría de la teoría de la mente* (28 may 2025) el canal articula de manera explícita una distinción que esta página presupone sin nombrar: el término **"teoría de la mente" recubre dos acepciones que comparten nombre pero no contenido**.
+
+> "La primera acepción es filosofía de la mente: disciplina que elabora un modelo formal y riguroso de la psique humana, de corte realista y cognitivista (teleosemántica),"
+→ [La teoría de la teoría de la mente (48:06)](https://youtu.be/zASckAZqmfM?t=2886)
+
+> "La segunda acepción es una función cognitiva que nos hace percibir al otro como poseedor de mente,"
+→ [La teoría de la teoría de la mente (48:06)](https://youtu.be/zASckAZqmfM?t=2886)
+
+> "Ambas acepciones no tienen nada que ver entre sí pese a compartir nombre,"
+→ [La teoría de la teoría de la mente (48:06)](https://youtu.be/zASckAZqmfM?t=2886)
+
+La página articula la primera acepción aplicada a clínica psiquiátrica. El monográfico desarrolla ambas en paralelo y precisa la armadura filosófica desde la que se construye la primera y la mecánica cognitiva desde la que opera la segunda.
+
+### Filosofía analítica vs filosofía continental
+
+> "La filosofía analítica fundamenta su elaboración en las reglas de la lógica formal; toda filosofía de la mente debe ser analítica,"
+→ [La teoría de la teoría de la mente (50:07)](https://youtu.be/zASckAZqmfM?t=3007)
+
+> "La filosofía continental elabora sistemas discursivos coherentes internamente pero sin partir de la lógica formal, resultando en poética cuando no se refiere a la realidad,"
+→ [La teoría de la teoría de la mente (50:07)](https://youtu.be/zASckAZqmfM?t=3007)
+
+> "El materialismo filosófico es continental pero muy potente y extenso, aunque su mayor carencia es precisamente la teoría de la mente,"
+→ [La teoría de la teoría de la mente (50:07)](https://youtu.be/zASckAZqmfM?t=3007)
+
+La pieza precisa la demanda analítica al [[realismo-cognitivo]] que la Tesis nuclear articulaba: la exigencia no es arbitraria — es la marca diferencial entre filosofía de la mente válida (analítica, refiriéndose a la realidad por lógica formal) y poética disfrazada (continental sin referente, sistémicamente coherente pero no analizable). El [[materialismo-antiformalista|materialismo filosófico de Bueno]] queda situado como caso del segundo tipo: potente y extenso, pero estructuralmente incapaz de cumplir teoría de la mente porque le falta la pieza analítica.
+
+### Tres criterios filosóficos: potencia, extensión, coherencia
+
+> "Potencia se refiere al método con el que la disciplina filosófica crea filosofía,"
+→ [La teoría de la teoría de la mente (58:42)](https://youtu.be/zASckAZqmfM?t=3522)
+
+> "Extensión se refiere a cuánta parte de la realidad es capaz de describir o alcanzar,"
+→ [La teoría de la teoría de la mente (58:42)](https://youtu.be/zASckAZqmfM?t=3522)
+
+> "Coherencia se refiere a cuánto de la filosofía no es contradictoria entre sí,"
+→ [La teoría de la teoría de la mente (58:42)](https://youtu.be/zASckAZqmfM?t=3522)
+
+Los tres criterios operacionales que el canal usa para evaluar marcos filosóficos: **potencia** (método), **extensión** (alcance descriptivo), **coherencia** (no-contradicción interna). Quedan así articuladas las críticas dispersas que la página invocaba — Freud no cumple por coherencia errónea (metáforas no sabidas como metáforas), el conductismo no cumple por extensión limitada y autorreferencia circular, el materialismo filosófico cumple en extensión y potencia pero queda corto en teoría de la mente:
+
+> "Freud utilizaba metáforas que no sabía que eran metáforas para describir procesos mentales que no podía observar empíricamente,"
+→ [La teoría de la teoría de la mente (51:38)](https://youtu.be/zASckAZqmfM?t=3098)
+
+> "El conductismo define conducta como aquello que estudia el conductismo, una circularidad irresoluble,"
+→ [La teoría de la teoría de la mente (57:12)](https://youtu.be/zASckAZqmfM?t=3432)
+
+> "Al no referirse a la realidad completa, el conductismo termina siendo poética, no filosofía válida,"
+→ [La teoría de la teoría de la mente (57:12)](https://youtu.be/zASckAZqmfM?t=3432)
+
+### Teleosemántica: la mente como mecánica orientada al exterior
+
+> "Todo lo que ocurre dentro de la mente está relacionado con el exterior porque está orientado a la acción exterior,"
+→ [La teoría de la teoría de la mente (1:03:59)](https://youtu.be/zASckAZqmfM?t=3839)
+
+> "La acción exterior requiere predicción, la predicción se hace mediante modelos, los modelos están formados por representaciones y las representaciones por clases,"
+→ [La teoría de la teoría de la mente (1:03:59)](https://youtu.be/zASckAZqmfM?t=3839)
+
+> "Todo proceso interno es en-activo porque lo es en origen: la maquinaria cognitiva está pensada para ser en-activa,"
+→ [La teoría de la teoría de la mente (1:03:59)](https://youtu.be/zASckAZqmfM?t=3839)
+
+La teleosemántica nombra el marco específico que el realismo cognitivo aplica: la mente NO se entiende por su contenido sino por su función — está orientada-a la acción exterior. Cada representación interna existe en última instancia para predecir, y la predicción existe para la acción. La cadena operativa: **clases → representaciones → modelos → predicción → acción exterior**. Esto enlaza directamente con la enactividad articulada en [[golem-de-cobre]] (la cognición humana opera con representaciones intrínsecamente orientadas a contrastarse con la realidad) y aporta la armadura filosófica subyacente.
+
+### Teoría de la mente como función cognitiva: empatía y simpatía
+
+La segunda acepción es la función cognitiva que percibe al otro como poseedor de mente — operacionalmente, la **empatía**. La pieza articula una corrección terminológica a la divulgación contemporánea:
+
+> "Los psicópatas tienen empatía cognitiva minorada porque la parte afectiva no les inhibe la conducta; saben cómo piensan los otros pero el sufrimiento ajeno no les afecta,"
+→ [La teoría de la teoría de la mente (1:06:34)](https://youtu.be/zASckAZqmfM?t=3994)
+
+> "La distinción divulgativa entre \"empatía cognitiva\" y \"empatía afectiva\" es innecesaria: la empatía es una sola función; lo que les falta a los psicópatas es simpatía,"
+→ [La teoría de la teoría de la mente (1:06:34)](https://youtu.be/zASckAZqmfM?t=3994)
+
+La empatía es una sola función — la capacidad de modelar la mente del otro. Lo que la divulgación llama 'empatía afectiva' es en realidad **simpatía**: la resonancia afectiva con el estado modelado. El psicópata conserva empatía (puede modelar al otro), carece de simpatía (el sufrimiento ajeno no le afecta y por tanto no le inhibe la conducta). La distinción es diagnósticamente operativa: la psicopatía no es defecto de teoría de la mente sino disociación entre función empática y motor simpático.
+
+### Teoría de la mente y ética: el otro como reflejo del yo
+
+> "Cuando pensamos en el otro, siempre contamos con que el otro podríamos ser nosotros,"
+→ [La teoría de la teoría de la mente (1:10:42)](https://youtu.be/zASckAZqmfM?t=4242)
+
+> "Esa impresión causa inhibiciones de conducta que nos impiden actuar de cierta manera o nos compelen a actuar de cierta manera frente al otro,"
+→ [La teoría de la teoría de la mente (1:10:42)](https://youtu.be/zASckAZqmfM?t=4242)
+
+La función teoría de la mente queda articulada como sustrato del comportamiento ético: la inhibición/compulsión moral frente al otro no es regla externa interiorizada sino consecuencia de **reconocer al otro como instancia posible del yo**. La pieza enlaza con [[intimidad-y-confesion-en-proxy]] (donde el reconocimiento del otro opera como condición del vínculo) y con [[anatomia-del-tabu-en-proxy]] (donde el tabú opera como inhibición pre-moral).
+
+### Requisitos evolutivos: cooperación, afecto, representación del otro
+
+> "La cooperación requiere primero una necesidad afectiva: necesitas ayuda y conviertes todo en intercambio,"
+→ [La teoría de la teoría de la mente (1:12:44)](https://youtu.be/zASckAZqmfM?t=4364)
+
+> "La comunicación no es fundamento de la cooperación: los lobos cooperan con jerarquías complejas sin comunicarse verbalmente; la cooperación está en los instintos,"
+→ [La teoría de la teoría de la mente (1:12:44)](https://youtu.be/zASckAZqmfM?t=4364)
+
+La pieza invierte la intuición popular: no es la comunicación lo que permite la cooperación sino los instintos. La cooperación está sostenida por necesidad afectiva (yo necesito al otro) y por capacidad de adelantar la conducta del otro (representación cognitiva del otro). El lenguaje refina pero no funda. Esta articulación es coherente con la teleosemántica: la teoría de la mente cognitiva evolucionó porque resolvía un problema de coordinación afectivo-conductual, no porque sirviera para la comunicación abstracta.
+
+
 ## Lagunas
 
-- **Articulación operacional del dualismo formal**: la tesis lo afirma como herramienta de trabajo imprescindible pero no detalla criterios formales para distinguir cuándo un fenómeno mental requiere descripción cognitiva irreducible y cuándo admite reducción conductual sin pérdida.
+- **Articulación operacional del dualismo formal**: el monográfico *La teoría de la teoría de la mente* (may 2025) precisa que la marca operativa es metodológica — filosofía analítica (lógica formal sobre problemas de verdad) vs continental (sistemas internamente coherentes sin referente formal) — y articula tres criterios filosóficos (potencia/extensión/coherencia). Queda abierto el criterio específico para distinguir, dentro de un cuadro clínico concreto, cuándo un fenómeno mental requiere descripción cognitiva irreducible y cuándo admite reducción conductual sin pérdida
 - **Tipología de la causa psíquica**: "trauma y elaboración interna" agrupa fenómenos heterogéneos (trauma agudo, trauma evolutivo, conflicto neurótico, elaboración secundaria); el corpus no desarrolla aquí esa sub-tipología.
 - **Tratamiento clínico que se desprende del marco**: el canal ofrece la pregunta correcta (¿qué te ha pasado?) pero no detalla qué arquitectura terapéutica concreta se desprende de las tres causas — qué hacer cuando la causa es orgánica, qué cuando es exógena, qué cuando es psíquica.
 - **Diálogo con tradiciones psiquiátricas no biomédicas**: se afirma que hay tradición de estudio de la esquizofrenia fuera del modelo biomédico pero no se nombra (fenomenología psiquiátrica, antropología clínica, psicopatología clásica europea, escuela francesa).
@@ -159,6 +257,7 @@ El segundo movimiento de la tesis es polémico: el discurso antipsiquiátrico co
 Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minutes_sustained=75 ≥ 30`, `signal_marks_detected=7 ≥ 3`, `framework_internal_structure=17 piezas ≥ 4`). Queda abierta a revisión humana — el campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría. La fuente única es el monográfico *Psiquiatría, antipsiquiatría y teoría de la mente* (`4LBXNkVAUCU`); futuros vídeos del canal sobre filosofía de la psiquiatría, EMDR, ISRS, esquizofrenia o trauma deberían enriquecer esta página antes de generar páginas hermanas.
 
 ## Citations
+
 
 
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:36:27](https://youtu.be/4LBXNkVAUCU?t=5787)

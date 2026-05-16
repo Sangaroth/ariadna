@@ -320,6 +320,13 @@ La pieza añade un criterio metodológico importante: cuando el aparato junguian
 
 
 
+
+
+
+
+
+
+
 - **Leyendo El Silmarillion: Tolkien y el mal primario.** — chunks: [12:02](https://youtu.be/gDRkrg8dVCo?t=722)
 
 

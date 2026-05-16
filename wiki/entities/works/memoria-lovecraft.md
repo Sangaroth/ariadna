@@ -103,6 +103,44 @@ El cuento se inscribe en el mismo registro de prosa-poema breve que [[ex-oblivio
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **El Hate Bombing de la izquierda.** — chunks: [40:51](https://youtu.be/DTP3syEtxP4?t=2451) · [42:22](https://youtu.be/DTP3syEtxP4?t=2542)
+- **Gothika: De Profundis** — chunks: [1:09:16](https://youtu.be/Gx2740if0Ho?t=4156) · [1:25:56](https://youtu.be/Gx2740if0Ho?t=5156)
+- **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [18:57](https://youtu.be/xdT-SCW89cw?t=1137) · [36:15](https://youtu.be/xdT-SCW89cw?t=2175) · [41:50](https://youtu.be/xdT-SCW89cw?t=2510) · [46:54](https://youtu.be/xdT-SCW89cw?t=2814) · [49:28](https://youtu.be/xdT-SCW89cw?t=2968) · [56:34](https://youtu.be/xdT-SCW89cw?t=3394) · [57:34](https://youtu.be/xdT-SCW89cw?t=3454) · [1:10:32](https://youtu.be/xdT-SCW89cw?t=4232) · [1:16:40](https://youtu.be/xdT-SCW89cw?t=4600) · [1:19:11](https://youtu.be/xdT-SCW89cw?t=4751) · [1:22:16](https://youtu.be/xdT-SCW89cw?t=4936) · [1:28:56](https://youtu.be/xdT-SCW89cw?t=5336) · [1:30:56](https://youtu.be/xdT-SCW89cw?t=5456) · [1:34:01](https://youtu.be/xdT-SCW89cw?t=5641) · [1:46:42](https://youtu.be/xdT-SCW89cw?t=6402) · [1:50:18](https://youtu.be/xdT-SCW89cw?t=6618) · [2:01:15](https://youtu.be/xdT-SCW89cw?t=7275)
+- **Laboratorio de teoría de la mente en biología** — chunks: [10:26](https://youtu.be/i_mVTgnbwHA?t=626) · [15:44](https://youtu.be/i_mVTgnbwHA?t=944) · [20:22](https://youtu.be/i_mVTgnbwHA?t=1222) · [22:26](https://youtu.be/i_mVTgnbwHA?t=1346) · [23:26](https://youtu.be/i_mVTgnbwHA?t=1406) · [32:42](https://youtu.be/i_mVTgnbwHA?t=1962) · [39:56](https://youtu.be/i_mVTgnbwHA?t=2396) · [42:28](https://youtu.be/i_mVTgnbwHA?t=2548) · [44:30](https://youtu.be/i_mVTgnbwHA?t=2670) · [45:31](https://youtu.be/i_mVTgnbwHA?t=2731) · [47:40](https://youtu.be/i_mVTgnbwHA?t=2860) · [55:24](https://youtu.be/i_mVTgnbwHA?t=3324) · [58:57](https://youtu.be/i_mVTgnbwHA?t=3537)
+- **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:56:55](https://youtu.be/ZlO5o786u90?t=7015)
+- **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [1:07:13](https://youtu.be/eQpPGGqodsU?t=4033) · [1:18:38](https://youtu.be/eQpPGGqodsU?t=4718)
+- **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [56:43](https://youtu.be/hqXmKZ77TEQ?t=3403)
+- **T5x13: Estudiando con Proxy: Construyendo Pandora.** — chunks: [35:21](https://youtu.be/oYcebCR2Oes?t=2121)
+- **Tontas en Potencia** — chunks: [1:17:25](https://youtu.be/1cKAgkEEbMA?t=4645) · [1:26:10](https://youtu.be/1cKAgkEEbMA?t=5170)
+- **Análisis arquetípico de atrapado en el tiempo.** — chunks: [1:33:32](https://youtu.be/DwmV3c9-Xi0?t=5612) · [1:53:48](https://youtu.be/DwmV3c9-Xi0?t=6828)
+- **Análisis arquetípico de el club de la lucha** — chunks: [12:57](https://youtu.be/L4zXftKhU6M?t=777) · [21:04](https://youtu.be/L4zXftKhU6M?t=1264)
+- **Análisis: La Llegada (Parte dos)** — chunks: [7:38](https://youtu.be/tOn66qFS2-M?t=458)
+- **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [44:33](https://youtu.be/TmQiM16HIpU?t=2673)
 - **Terror: Lovecraft y lo incompleto.** — chunks: [27:18](https://youtu.be/JzfcmEKWm1c?t=1638) · [30:57](https://youtu.be/JzfcmEKWm1c?t=1857)
 - **La enfermedad del aburrimiento.** — chunks: [33:18](https://youtu.be/ifKRYGlHwuk?t=1998)
 - **T4 Laboratorio de... filo, con Sofía** — chunks: [21:19](https://youtu.be/GizCbTycY4U?t=1279)
@@ -111,4 +149,8 @@ El cuento se inscribe en el mismo registro de prosa-poema breve que [[ex-oblivio
 - **El mito del Gólem: Transhumanismo** — chunks: [1:03:14](https://youtu.be/hjc9L2_kkOo?t=3794) · [1:07:16](https://youtu.be/hjc9L2_kkOo?t=4036)
 - **Orfeo y Eurídice** — chunks: [7:04](https://youtu.be/1D0u-tK4v8c?t=424)
 - **Cerebros rosas y azules** — chunks: [1:09:28](https://youtu.be/x7A9nfoRfu0?t=4168)
+- **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [51:48](https://youtu.be/K7MAqw1q3dk?t=3108)
+- **Inteligencia Real e Inteligencia Artificial** — chunks: [17:43](https://youtu.be/9jU8stBu6p0?t=1063)
+- **La teoría de la teoría de la mente** — chunks: [1:18:25](https://youtu.be/zASckAZqmfM?t=4705)
+- **Proxy le explica a Exit el "hard problem" y el "soft problem" de la conciencia,** — chunks: [1:39:13](https://youtu.be/rjG3RbEYcL0?t=5953) · [1:41:45](https://youtu.be/rjG3RbEYcL0?t=6105)
 

@@ -150,6 +150,12 @@ El ocultamiento no es maldad sino culpa transmitida: la madre que comparte la he
 
 
 
+
+
+
+
+- **Mitología 101: Héroes y antihéroes.** — chunks: [32:18](https://youtu.be/yLd7j3fcR1w?t=1938)
+- **Arquetipo Cero** — chunks: [10:56](https://youtu.be/nern-nhePjE?t=656) · [14:27](https://youtu.be/nern-nhePjE?t=867) · [16:30](https://youtu.be/nern-nhePjE?t=990) · [17:30](https://youtu.be/nern-nhePjE?t=1050) · [18:31](https://youtu.be/nern-nhePjE?t=1111) · [20:32](https://youtu.be/nern-nhePjE?t=1232) · [22:03](https://youtu.be/nern-nhePjE?t=1323) · [34:48](https://youtu.be/nern-nhePjE?t=2088) · [49:28](https://youtu.be/nern-nhePjE?t=2968) · [52:29](https://youtu.be/nern-nhePjE?t=3149) · [56:31](https://youtu.be/nern-nhePjE?t=3391) · [58:32](https://youtu.be/nern-nhePjE?t=3512) · [1:11:11](https://youtu.be/nern-nhePjE?t=4271) · [1:20:51](https://youtu.be/nern-nhePjE?t=4851)
 - **El mito de Dioniso** — chunks: [2:35](https://youtu.be/ttnUgH3jou8?t=155) · [5:06](https://youtu.be/ttnUgH3jou8?t=306) · [7:09](https://youtu.be/ttnUgH3jou8?t=429) · [9:40](https://youtu.be/ttnUgH3jou8?t=580) · [12:42](https://youtu.be/ttnUgH3jou8?t=762) · [14:15](https://youtu.be/ttnUgH3jou8?t=855) · [15:45](https://youtu.be/ttnUgH3jou8?t=945) · [19:48](https://youtu.be/ttnUgH3jou8?t=1188) · [23:19](https://youtu.be/ttnUgH3jou8?t=1399) · [27:21](https://youtu.be/ttnUgH3jou8?t=1641) · [29:53](https://youtu.be/ttnUgH3jou8?t=1793) · [31:24](https://youtu.be/ttnUgH3jou8?t=1884) · [33:26](https://youtu.be/ttnUgH3jou8?t=2006) · [34:56](https://youtu.be/ttnUgH3jou8?t=2096) · [37:27](https://youtu.be/ttnUgH3jou8?t=2247) · [38:28](https://youtu.be/ttnUgH3jou8?t=2308) · [39:29](https://youtu.be/ttnUgH3jou8?t=2369) · [42:00](https://youtu.be/ttnUgH3jou8?t=2520) · [45:02](https://youtu.be/ttnUgH3jou8?t=2702) · [47:04](https://youtu.be/ttnUgH3jou8?t=2824) · [51:09](https://youtu.be/ttnUgH3jou8?t=3069)
 - **Mitología 101: Teseo y Ariadna** — chunks: [50:25](https://youtu.be/b03AszdViNw?t=3025) · [53:26](https://youtu.be/b03AszdViNw?t=3206) · [1:30:51](https://youtu.be/b03AszdViNw?t=5451)
 

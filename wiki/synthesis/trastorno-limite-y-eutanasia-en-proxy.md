@@ -191,6 +191,81 @@ La pieza articula un caso límite distinto del cuadro borderline general: el tra
 
 
 
+
+### Aparato clínico ampliado: el caso Inocencia interrumpida
+
+El monográfico de diciembre 2023 sobre [[inocencia-interrumpida-1999-film|Inocencia interrumpida]] añade cinco piezas clínicas que la articulación nuclear del TLP en esta página tenía implícitas o ausentes.
+
+#### TLP como versión femenina del trastorno antisocial
+
+> "El trastorno antisocial consiste en no tener límites para respetar la integridad física, material ni emocional de los demás,"
+→ [Análisis arquetípico de Inocencia interrumpida (48:19)](https://youtu.be/imHdHmF1Afk?t=2899)
+
+> "El trastorno antisocial se considera un trastorno del estereotipo genérico masculino,"
+→ [Análisis arquetípico de Inocencia interrumpida (48:19)](https://youtu.be/imHdHmF1Afk?t=2899)
+
+> "El trastorno límite es la versión femenina del trastorno antisocial,"
+→ [Análisis arquetípico de Inocencia interrumpida (48:19)](https://youtu.be/imHdHmF1Afk?t=2899)
+
+La pieza articula el TLP como el par estructural femenino del trastorno antisocial dentro del cluster B. La distinción es operativa para el aparato general de la página: ambos cuadros comparten núcleo (impulsividad sin freno, dificultad para sostener vínculos, inadecuación social) pero divergen en la dirección operativa de la conducta — el antisocial proyecta hacia fuera (no respeta integridad ajena), el TLP proyecta hacia dentro (autolesiones, sabotaje del propio vínculo). La estereotipia de género no es esencial sino estadística — pacientes masculinos pueden presentar TLP y femeninos antisocial — pero el patrón modal está distribuido por sexo.
+
+#### Refutación al mito del abuso infantil como causa del TLP
+
+> "Cada vez hay más evidencia de que el abuso infantil no es la causa del trastorno de personalidad,"
+→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)
+
+> "El abuso infantil puede causar neurosis o estrés postraumático complejo, pero no parece ser el origen del trastorno de personalidad,"
+→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)
+
+> "Cuando existe abuso sexual en la infancia con trastorno de personalidad, es coadyuvante, no causal,"
+→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)
+
+> "Los trastornos de personalidad se gestan en la infancia, aparecen en la adolescencia y duran toda la vida,"
+→ [Análisis arquetípico de Inocencia interrumpida (13:33)](https://youtu.be/imHdHmF1Afk?t=813)
+
+La pieza corrige explícitamente el mito popular según el cual el abuso infantil sería la causa del TLP. El canal articula la distinción categorial: abuso infantil → neurosis o TEPT complejo (cuadros REACTIVOS al evento); TLP → falla de desarrollo en ventana etaria (cuadro ESTRUCTURAL). Cuando ambos coinciden (abuso + TLP), el abuso es coadyuvante que activa o agrava la diátesis preexistente, no causa que produzca el cuadro. La refutación es operativamente importante: confunde tratamiento (TEPT requiere reelaboración del trauma específico; TLP requiere reconstrucción de funciones afectivo-cognitivas no desarrolladas) y fundamenta la diátesis articulada en la sección 'Aparato clínico del TLP' como condición necesaria del cuadro.
+
+#### Sexualidad impulsiva: dos modalidades patológicas
+
+> "Las personas borderline no viven el sexo como el resto; sus relaciones sexuales están basadas en el impulso, no en la atracción,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:24:14)](https://youtu.be/imHdHmF1Afk?t=5054)
+
+> "Sienten el deseo sexual y lo focalizan en la persona que más representa su prototipo tóxico,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:24:14)](https://youtu.be/imHdHmF1Afk?t=5054)
+
+> "Las dos formas de sexo patológico son la explotación del cuerpo para obtener poder y el impulso sexual incontrolable,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:24:14)](https://youtu.be/imHdHmF1Afk?t=5054)
+
+La página articulaba 'sexo imprudente como búsqueda de intensidad somática' como pieza de las crisis límite. La precisión añade dos modalidades operativas distintas: (a) explotación del cuerpo como acto de poder (Lisa coquetea como dispositivo de dominio); (b) impulso sexual incontrolable vivido con vergüenza (Susanna). Las dos modalidades son sintomáticamente distintas pero comparten núcleo: el sexo NO se vive desde la atracción genuina sino desde el impulso desregulado. La focalización en el prototipo tóxico cierra el cuadro: la pareja sexual del paciente borderline se elige por afinidad estructural con la herida fundacional, no por compatibilidad afectiva.
+
+#### El estancamiento terapéutico: cuando el trastorno se vuelve excusa
+
+> "Tras aceptar la enfermedad viene una fase de estancamiento donde se integra el trastorno como excusa para no cambiar,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:32:50)](https://youtu.be/imHdHmF1Afk?t=5570)
+
+> "En un ambiente hospitalario donde nadie juzga las debilidades del trastorno, se deja de querer cambiar,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:32:50)](https://youtu.be/imHdHmF1Afk?t=5570)
+
+> "Sin el impulso del dolor o la angustia, la terapia no sirve de nada,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:32:50)](https://youtu.be/imHdHmF1Afk?t=5570)
+
+La pieza añade una fase clínica que la página tenía declarada como laguna ('Casos clínicos de TLP que SÍ se reconducen: el canal no detalla qué dispositivos terapéuticos considera válidos'). El estancamiento tras la aceptación articula una paradoja terapéutica operativa: el alivio del dolor que produce el reconocimiento del cuadro (saber lo que te pasa, dejar de luchar contra la enfermedad) puede desactivar el motor mismo del trabajo terapéutico. Sin angustia que empuje, la terapia se vuelve sostenimiento en lugar de transformación, y el ambiente hospitalario protector confirma estructuralmente esa parálisis. La consecuencia diagnóstica es que el momento crítico del tratamiento NO es la aceptación inicial sino la salida posterior del estancamiento — operación que requiere reactivar el dolor productivo sin caer en la crisis terminal.
+
+#### Caso Daisy: el trastorno irreductible donde la psique está estropeada de serie
+
+> "Lo que verdaderamente le ocurre a Daisy no es solo bulimia y TOC, sino neurosis secundarias de una relación de abuso paterno,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)
+
+> "Su padre abusaba de ella y a ella le gustaba patológicamente: su crecimiento se detuvo y se convirtió en la hija-esposa de su padre abusador,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)
+
+> "Su verdadero trastorno no tenía solución porque su propia psique estaba estropeada de serie y retroalimentaba positivamente el abuso,"
+→ [Análisis arquetípico de Inocencia interrumpida (1:57:38)](https://youtu.be/imHdHmF1Afk?t=7058)
+
+La pieza articula un caso límite distinto del cuadro borderline general: el trastorno irreductible donde la diátesis preexistente se combina con un abuso paterno retroalimentativo (la víctima tiene respuesta afectiva positiva al abuso, lo que cierra el bucle). El cuadro Daisy es operativamente diferente del TLP genuino: no hay introyección 'no merezco amor' a partir de hechos que la confirman, hay una psique que estaba ya estropeada de serie y que el abuso confirmó por refuerzo positivo en lugar de por refuerzo negativo. La consecuencia clínica es que el caso es **terapéuticamente irreductible** — Lisa al decirle 'toda la verdad' lo lleva al suicidio porque la verdad sobre el cuadro NO opera redentivamente cuando la psique no puede sostener la elaboración. El caso completa el cuadro de la página con un caso límite de irreductibilidad estructural distinto de la crítica general a la eutanasia.
+
+
+
 #### Polarización binaria del mundo y doble ausencia parental
 
 El análisis arquetípico de [[barbie-2023-film|Barbie]] añade dos piezas operativas al cuadro borderline:

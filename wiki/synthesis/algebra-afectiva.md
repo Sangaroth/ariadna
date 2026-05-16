@@ -89,6 +89,63 @@ La tesis se inscribe explícitamente como prolongación del [[realismo-cognitivo
 - **Empatía cognitiva vs simpatía como mecánicas proyectivas distintas**: la empatía cognitiva es la capacidad de modelar el estado mental del otro; la simpatía es la resonancia afectiva con ese estado. La psicopatía conserva la primera y carece de la segunda — distinción operatoria del álgebra.
 - **Aplicación clínica del marco**: el TDAH se reformula como problema de **buscar** (no de afectos en general); la psicopatía como minoración de **pánico/apego/deseo**; el autismo como afectación de los circuitos **apego/pánico**. El sistema permite diagnóstico diferencial por mapa afectivo.
 
+
+
+### Refinamiento de la psicopatía: hipoactivación moral, búsqueda compensatoria y tríada oscura
+
+En el directo *Os cuento cosas. Galatea, Kripke y Gustavo Bueno* (jun 2025) el canal precisa la articulación clínica de la psicopatía con cinco piezas operativas que el marco general dejaba implícitas.
+
+**Síndrome de hipoactivación moral (no ausencia de afecto)**: la psicopatía NO es ausencia de emociones sino atenuación específica de la conectividad entre decisión y 'cerebro moral'.
+
+> "La psicopatía es un síndrome de hipoactivación de la circuitería que conecta decisiones con el \"cerebro moral\","
+→ [Os cuento cosas (1:04:04)](https://youtu.be/GdQY1iOa68w?t=3844)
+
+> "Los psicópatas no incorporan el sufrimiento de los demás a su ecuación interna — no es que no sientan emociones, sino que el mundo les provoca menos emociones,"
+→ [Os cuento cosas (1:04:04)](https://youtu.be/GdQY1iOa68w?t=3844)
+
+La precisión matiza la articulación previa de la página ('psicopatía como minoración de pánico/apego/deseo'): el cuadro no es minoración generalizada de afectos sino **falla específica de la conexión entre clase afectiva y arquitectura de decisión moral**. Las clases afectivas existen pero no se integran en el cómputo decisional como factor inhibitorio.
+
+**Búsqueda de sensaciones fuertes como compensación de apatía**: motor conductual derivado.
+
+> "Los psicópatas reconocen que el mundo no tiene sentido para ellos y sienten apatía, por lo que buscan emociones fuertes obsesivamente,"
+→ [Os cuento cosas (1:07:05)](https://youtu.be/GdQY1iOa68w?t=4025)
+
+> "Tratan a los demás como cosas porque no les suscitan emoción — una persona y un maniquí son lo mismo a efectos mentales,"
+→ [Os cuento cosas (1:07:05)](https://youtu.be/GdQY1iOa68w?t=4025)
+
+> "Algunos se vuelven grandes estudiosos, asesinos, sociópatas, megalómanos o genios: buscan inundarse de contexto para no sentir vacío,"
+→ [Os cuento cosas (1:07:05)](https://youtu.be/GdQY1iOa68w?t=4025)
+
+La búsqueda obsesiva de estímulo intenso es el correlato conductual de la hipoactivación afectiva: si el mundo provoca menos emociones que en el sujeto sano, la psicopatía intenta compensar mediante saturación contextual. Esto explica la divergencia de trayectorias del cuadro — el mismo sustrato afectivo deficitario puede canalizarse en investigación académica intensa, dominio profesional extremo, conducta criminal, megalomanía política o producción genial.
+
+**Distinción psicópata vs sádico**:
+
+> "Un psicópata no es un sádico: el sádico disfruta muchísimo con el sufrimiento ajeno mientras que al psicópata nada ajeno le importa lo suficiente,"
+→ [Os cuento cosas (1:10:08)](https://youtu.be/GdQY1iOa68w?t=4208)
+
+> "El trastorno antisocial puede derivar de psicopatía o de conductas perversas y sádicas independientes,"
+→ [Os cuento cosas (1:10:08)](https://youtu.be/GdQY1iOa68w?t=4208)
+
+Distinción clínica clave: el sádico tiene activación afectiva positiva ante el sufrimiento ajeno (placer); el psicópata tiene activación afectiva nula. El sádico opera por valencia afectiva invertida; el psicópata por atenuación de toda valencia afectiva implicada en la representación del otro. El trastorno antisocial puede tener ambas etiologías independientes — comparten conducta pero no mecanismo afectivo.
+
+**Tríada oscura: psicopatía + narcisismo + maquiavelismo como rasgos disociables**:
+
+> "La tríada oscura (psicopatía, narcisismo y maquiavelismo) son los tres rasgos que causan conductas malignas, pudiendo presentarse juntos o por separado,"
+→ [Os cuento cosas (1:10:08)](https://youtu.be/GdQY1iOa68w?t=4208)
+
+El canal incorpora la tríada oscura (categoría establecida en psicología de la personalidad, Paulhus & Williams 2002) como mapa diferencial de las tres dimensiones disociables de las conductas malignas. La pieza permite diagnóstico diferencial: psicopatía pura (hipoactivación moral sin narcisismo), narcisismo puro (herida narcisista sin minoración afectiva — ver [[herida-narcisista-en-proxy]]), maquiavelismo puro (cálculo estratégico sin déficit emocional). Las combinaciones (perfil psicópata-narcisista, perfil maquiavélico-psicópata) generan los cuadros clínicos extremos.
+
+**Paradoja del psicópata motivado**: corolario operativo.
+
+> "Un psicópata puede tener depresión porque la depresión es ausencia de motivación, y la vida psicopática es muy depresiva por recibir menos recompensas emocionales,"
+→ [Os cuento cosas (1:12:08)](https://youtu.be/GdQY1iOa68w?t=4328)
+
+> "La paradoja del psicópata motivado: si encuentra su motivación, nada le distrae — no hay vínculos emocionales que le desvíen del objetivo,"
+→ [Os cuento cosas (1:12:08)](https://youtu.be/GdQY1iOa68w?t=4328)
+
+La relación depresión-psicopatía cierra el cuadro: la vida psicopática es estructuralmente depresiva (menos recompensa emocional → ausencia de motivación derivada → cuadro depresivo en muchos casos). Pero cuando el psicópata sí encuentra una motivación dominante, la ausencia de vínculos emocionales que normalmente distraerían al sujeto sano (preocupación por seres queridos, dudas morales, lealtades cruzadas) le permite eficacia máxima dirigida a esa meta. La paradoja explica los perfiles extremos donde el cuadro afectivo deficitario coincide con logros notables — el déficit es ventaja operativa cuando se canaliza en propósito monolítico.
+
+
 ## Citas del vídeo
 
 > "El álgebra afectiva es el sistema lógico-formal que establece relaciones entre clases cognitivas"
@@ -185,6 +242,53 @@ La página articulaba siete motores afectivos biológicos universales filogenét
 
 La pieza articula el repertorio INFANTIL específico de cinco emociones (asco, pena, ira, miedo, alegría) y su transición operativa: en la adolescencia el aparato infantil queda INSUFICIENTE para gestionar las nuevas demandas sociales, y las nuevas emociones sociales (envidia, vergüenza, ennui) emergen como composiciones afectivas más sofisticadas. La consecuencia operativa: el repertorio adolescente no es el infantil + tres emociones añadidas sino una RECONFIGURACIÓN COMPLETA del aparato donde la ansiedad preemocional se vuelve dominante y las emociones operan en modo de gestión del deber ser, no de respuesta directa al entorno.
 
+
+
+
+## Las nuevas emociones sociales adolescentes y la ansiedad como mecánica preemocional
+
+El monográfico sobre [[inside-out-2-2024-film|Inside Out 2]] (jul 2024) articula dos extensiones operativas del aparato afectivo del canal: la ansiedad como mecánica PREEMOCIONAL distinta de las emociones, y las tres nuevas emociones sociales adolescentes como composiciones afectivas operativas que sustituyen al repertorio infantil.
+
+### La ansiedad como mecánica preemocional de hiperalerta
+
+> "La ansiedad no es una emoción sino una mecánica afectiva preemocional de hiperalerta,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (49:36)](https://youtu.be/TmQiM16HIpU?t=2976)
+
+> "La ansiedad anticipatoria sirve para cumplir el deber ser: adelantar qué ocurrirá y diseñar cómo comportarse,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (49:36)](https://youtu.be/TmQiM16HIpU?t=2976)
+
+La página articulaba la triada de la ANSIEDAD (apego-pánico-deseo) junto a la triada del estrés. La pieza añade una distinción categorial fundamental: la ANSIEDAD como tal NO ES UNA EMOCIÓN sino una MECÁNICA PREEMOCIONAL de hiperalerta — estado preparatorio sobre el que las emociones operan, no afecto en sí. La ansiedad anticipatoria opera como dispositivo cognitivo: adelanta escenarios para diseñar conducta cumpliendo el deber ser. Cuando el aparato está sobrecargado (adolescencia, identidad transitoria), la ansiedad domina el tablero como única herramienta de modulación, y el aparato afectivo colapsa por sobrecarga del nivel preemocional.
+
+### Tres nuevas emociones sociales: envidia, vergüenza, ennui
+
+> "La envidia es mezcla de pánico y pena (aguamarina); admira lo que tienen los demás para conseguir rápidamente un nuevo estatus,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)
+
+> "La vergüenza es inhibición a posteriori que compensa la impulsividad y protege el deber ser,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)
+
+> "Ennui (desidia) es desistir de emocionarse: un sistema de protección contra decepciones que inhibe la alegría,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (1:08:47)](https://youtu.be/TmQiM16HIpU?t=4127)
+
+La página articulaba siete motores afectivos biológicos universales filogenéticamente. La pieza añade tres EMOCIONES SOCIALES emergentes en la adolescencia que NO son motores nuevos sino COMPOSICIONES OPERATIVAS de los motores básicos sobre el sustrato del deber ser:
+
+1. **Envidia** = composición pánico + pena (color aguamarina). Función: admirar lo ajeno para conseguir rápidamente nuevo estatus. La envidia opera como dispositivo de calibración relativa cuando el deber ser exterior se vuelve dominante — el sujeto compara y aspira en una sola operación afectiva.
+2. **Vergüenza** = inhibición a posteriori. Función: compensar la impulsividad y proteger el deber ser. Distinta de la culpa (que es interna) y del miedo (que es anticipatorio): la vergüenza opera DESPUÉS del acto, modulando comportamiento futuro mediante el coste retrospectivo de exposición.
+3. **Ennui (desidia)** = desistir de emocionarse. Función: protección contra decepciones inhibiendo la alegría. La pieza precisa que el ennui adolescente NO es depresión clínica — es DISPOSITIVO PROTECTOR que apaga el motor afectivo positivo para evitar el coste de su decepción ulterior.
+
+### Las cinco emociones fundamentales infantiles y su sustitución adolescente
+
+> "Asco: rechaza aquello con lo que no queremos tener nada que ver y regula la apariencia,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)
+
+> "Pena: señala lo importante, obliga a aferrarnos a los vínculos (circuito del pánico),"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)
+
+> "Alegría no es estar contento, sino ilusión, acción y motivación; dirige la personalidad jovial,"
+→ [Análisis: Personalidad, Identidad e INSIDE OUT 2 (25:21)](https://youtu.be/TmQiM16HIpU?t=1521)
+
+La pieza articula el repertorio INFANTIL específico de cinco emociones (asco, pena, ira, miedo, alegría) y su transición operativa: en la adolescencia el aparato infantil queda INSUFICIENTE para gestionar las nuevas demandas sociales, y las nuevas emociones sociales (envidia, vergüenza, ennui) emergen como composiciones afectivas más sofisticadas. La consecuencia operativa: el repertorio adolescente no es el infantil + tres emociones añadidas sino una RECONFIGURACIÓN COMPLETA del aparato donde la ansiedad preemocional se vuelve dominante y las emociones operan en modo de gestión del deber ser, no de respuesta directa al entorno.
+
 - La distinción **empatía cognitiva vs simpatía** se enuncia como pieza del álgebra, pero su formalización operatoria queda implícita
 
 ## Status auto-promoción
@@ -197,10 +301,12 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 
 
-- **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [20:13](https://youtu.be/BdVsvhTWWew?t=1213) · [25:16](https://youtu.be/BdVsvhTWWew?t=1516)
+
+
 
 
 - **Transhumanismo, IA y Ciencia Ficción.** — chunks: [1:34:45](https://youtu.be/kdk8mi7-Y1s?t=5685) · [1:12:41](https://youtu.be/kdk8mi7-Y1s?t=4361)
+- **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [20:13](https://youtu.be/BdVsvhTWWew?t=1213) · [25:16](https://youtu.be/BdVsvhTWWew?t=1516)
 - **Filosofía y ciencia del dolor** — chunks: [1:39:58](https://youtu.be/vgS1u1Kejkk?t=5998)
 - **MItología 101: El Gólem** — chunks: [33:24](https://youtu.be/IG3dkNBX9uU?t=2004)
 

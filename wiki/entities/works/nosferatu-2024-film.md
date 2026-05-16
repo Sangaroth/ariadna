@@ -142,5 +142,6 @@ La hipersexualidad prematura de Ellen convive con la hiperingenuidad del marido 
 ## Citations
 
 
+
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [17:03](https://youtu.be/yAIPr0HzQqE?t=1023) · [25:14](https://youtu.be/yAIPr0HzQqE?t=1514) · [2:28:13](https://youtu.be/yAIPr0HzQqE?t=8893) · [2:44:43](https://youtu.be/yAIPr0HzQqE?t=9883)
 

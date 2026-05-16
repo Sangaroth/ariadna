@@ -137,6 +137,35 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:34:59](https://youtu.be/t8v5w3s0USA?t=5699)
+- **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
+- **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
+- **La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ** — chunks: [2:08:37](https://youtu.be/2CsRnGBT9gg?t=7717)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [28:29](https://youtu.be/4P5hxaG7i6c?t=1709)
+- **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:16:25](https://youtu.be/xc8e2i_nREE?t=4585)
+- **Tontas en Potencia** — chunks: [27:09](https://youtu.be/1cKAgkEEbMA?t=1629)
+- **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [32:57](https://youtu.be/xK8_MpMMXzc?t=1977) · [39:31](https://youtu.be/xK8_MpMMXzc?t=2371) · [43:03](https://youtu.be/xK8_MpMMXzc?t=2583) · [1:35:07](https://youtu.be/xK8_MpMMXzc?t=5707)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [40:54](https://youtu.be/yAIPr0HzQqE?t=2454) · [1:04:46](https://youtu.be/yAIPr0HzQqE?t=3886)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [26:03](https://youtu.be/QSggWfjOkHk?t=1563) · [1:00:57](https://youtu.be/QSggWfjOkHk?t=3657) · [1:04:30](https://youtu.be/QSggWfjOkHk?t=3870) · [1:23:12](https://youtu.be/QSggWfjOkHk?t=4992) · [1:47:24](https://youtu.be/QSggWfjOkHk?t=6444)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:20:23](https://youtu.be/nw7fSEAJr-U?t=4823)
 - **El mito de Dioniso** — chunks: [19:48](https://youtu.be/ttnUgH3jou8?t=1188) · [38:28](https://youtu.be/ttnUgH3jou8?t=2308)
@@ -145,7 +174,7 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 - **Los Apocalipsis. (Parte I)** — chunks: [58:35](https://youtu.be/lLRGemLUCtY?t=3515)
 - **Mitología 101: Teseo y Ariadna** — chunks: [56:56](https://youtu.be/b03AszdViNw?t=3416) · [1:20:16](https://youtu.be/b03AszdViNw?t=4816)
 - **Orfeo y Eurídice** — chunks: [1:03:37](https://youtu.be/1D0u-tK4v8c?t=3817)
-- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642)
 - **¿Qué es la magia?** — chunks: [56:16](https://youtu.be/AMXVKxN0Ccw?t=3376) · [58:16](https://youtu.be/AMXVKxN0Ccw?t=3496) · [59:48](https://youtu.be/AMXVKxN0Ccw?t=3588) · [1:10:41](https://youtu.be/AMXVKxN0Ccw?t=4241) · [1:28:30](https://youtu.be/AMXVKxN0Ccw?t=5310) · [1:47:27](https://youtu.be/AMXVKxN0Ccw?t=6447)
+- **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642)
 - **De Platón A The Matrix** — chunks: [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879)
 

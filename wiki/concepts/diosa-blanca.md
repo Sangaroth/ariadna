@@ -182,6 +182,24 @@ La pieza precisa además la distinción frente a las figuras femeninas oscuras a
 La caracterización canal-específica de Marla y Jack como 'cáscaras gemelas sin alma' añade una dimensión simétrica al cuadro: la madre oscura no opera necesariamente sobre víctima asimétricamente vulnerable — puede operar sobre par estructural cuyo vacío reconoce como semejante. La gemelaridad afectiva es entonces catalizador del encuentro disociativo, no protección contra él.
 
 
+
+### Cuarta forma: la madre oscura como vampira afectiva
+
+El monográfico de octubre 2023 sobre [[fight-club-1999-film|Fight Club]] añade una cuarta modalidad operativa del mal materno que las tres anteriores no cubrían: la **madre oscura** que ejerce la operación dañina por extracción afectiva sostenida, sin requerir maternidad biológica directa.
+
+> "Marla no es ninfa ni sucubo: es madre oscura porque recorre grupos de personas desamparadas alimentándose de su dolor,"
+→ [Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)
+
+> "Tanto Jack como Marla son cáscaras gemelas sin alma, adictos a la emoción artificial,"
+→ [Análisis arquetípico de el club de la lucha (45:09)](https://youtu.be/L4zXftKhU6M?t=2709)
+
+La cuarta forma se distingue operativamente de las tres anteriores. Donde la neurosis materna absorbe al hijo para nutrirse, la psicosis lo convierte en objeto del delirio, y el vaciamiento sin sustrato lo usa como instrumento de juego, la **madre oscura** opera sin vínculo materno biológico previo: caza por proximidad afectiva en entornos de desamparo y se alimenta del dolor ajeno por extracción sostenida, sin daño calculado y sin maternidad ejercida sobre la víctima. Es modalidad operativa porque no exige relación familiar — opera contra cualquier sujeto vulnerable cuyo afecto pueda extraerse.
+
+La pieza precisa además la distinción frente a las figuras femeninas oscuras articuladas en [[tipologia-femenina-arquetipica]]: la madre oscura no es ninfa (no seduce por belleza) ni súcubo (no extrae por sexualidad). Su mecánica es la **proximidad afectiva sostenida** en territorio compartido — los grupos de apoyo de Marla son su entorno de caza porque concentran sujetos desamparados que confunden la presencia de Marla con cuidado.
+
+La caracterización canal-específica de Marla y Jack como 'cáscaras gemelas sin alma' añade una dimensión simétrica al cuadro: la madre oscura no opera necesariamente sobre víctima asimétricamente vulnerable — puede operar sobre par estructural cuyo vacío reconoce como semejante. La gemelaridad afectiva es entonces catalizador del encuentro disociativo, no protección contra él.
+
+
 ## Aplicación operativa: los tres dones como fases del proceso curativo
 
 El monográfico de diciembre 2023 sobre [[inocencia-interrumpida-1999-film|Inocencia interrumpida]] articula los tres dones (gracia, belleza, esperanza) NO solo como tipología arquetípica sino como **secuencia operativa de un proceso curativo aplicado a un cuadro clínico real**. La pieza extiende la cadena ordenada gracia → belleza → esperanza ya documentada con su correlato terapéutico operativo: cada don se recupera mediante una operación específica del sujeto sobre las otras.
@@ -201,6 +219,42 @@ El monográfico de diciembre 2023 sobre [[inocencia-interrumpida-1999-film|Inoce
 La pieza añade dos articulaciones operativas decisivas. Primera: las tres fases NO son contemplativas sino performativas — la recuperación de cada don no opera por introspección sino por **acto operativo sobre el otro**. La gracia se recupera al integrarse con auténtica soltura en el entorno (acción performativa); la belleza se recupera al reconocer la vulnerabilidad del otro como espejo de la propia (acción reflexiva sobre el otro); la esperanza se recupera al comprender la propia capacidad de hacer en los demás (acción transformadora del entorno desde el sí-misma reconstruido). Segunda: el dispositivo curativo NO es la introspección psicoanalítica clásica sino la **acción dirigida hacia las otras mujeres del entorno** — Susanna no se cura mirándose a sí misma sino actuando sobre Poly, Georgina y Lisa. Cada acto-don dirigido hacia el otro recupera el don correspondiente en sí misma.
 
 La secuencia operativa es coherente con la cadena ordenada articulada en la sección 'Las tres virtudes encadenadas': sin gracia integrada no puede operar la belleza reconocida en el otro, y sin belleza así reconocida no puede emerger la esperanza como capacidad transformadora. La pieza completa el aparato con su modalidad operativa: la triple diosa NO es solo mapa estático ni cadena descriptiva sino **secuencia performativa** que el sujeto actualiza sobre el entorno y, al hacerlo, restituye el arquetipo en sí.
+
+
+
+## Medusa como bruja terminal: el polo opuesto de la diosa
+
+El monográfico sobre [[los-rescatadores-1977-film|Los Rescatadores]] (jun 2024) articula la figura de la **bruja terminal** como contraparte estructural completa del arquetipo de la diosa blanca: el sujeto femenino que ha perdido toda capacidad de comunicarse con el mundo y se alimenta de la esperanza ajena para subsistir.
+
+> "La tienda de empeños es un lugar donde Medusa se alimenta de la esperanza de los demás obligándoles a vender sus sueños,"
+→ [Análisis arquetípico de Los Rescatadores (1:07:36)](https://youtu.be/ryvi2Y7KYB8?t=4056)
+
+> "Es una mezcla entre Úrsula y Cruella de Vil: lo femenino oscuro que ha perdido toda capacidad de comunicarse con el mundo,"
+→ [Análisis arquetípico de Los Rescatadores (1:07:36)](https://youtu.be/ryvi2Y7KYB8?t=4056)
+
+> "El peor mal interno es el mal femenino; el peor mal externo es el mal masculino,"
+→ [Análisis arquetípico de Los Rescatadores (1:07:36)](https://youtu.be/ryvi2Y7KYB8?t=4056)
+
+> "Condicionar el amor es el primer pecado de la madre oscura; la obsesión es la parte oscura de la esperanza,"
+→ [Análisis arquetípico de Los Rescatadores (1:24:13)](https://youtu.be/ryvi2Y7KYB8?t=5053)
+
+La pieza articula tres niveles que las secciones anteriores tenían dispersos:
+
+1. **El polo terminal del arquetipo femenino oscuro**: Medusa NO es ninfa ni mera bruja desligada — es la modalidad TERMINAL donde el femenino oscuro ya no busca conexión, comunión ni siquiera dominio relacional, solo extracción afectiva. La tienda de empeños como dispositivo metafórico es decisivo: el sujeto comercia con sueños ajenos porque carece de los propios, y la operación de obligar a otros a vender su esperanza es la única forma que conserva de sostener su existencia psíquica.
+2. **Asimetría del peor mal**: la pieza añade una articulación tipológica precisa que la página no contenía — el peor mal INTERNO es femenino (el mal que opera dentro del territorio simbólico, la deformación del polo afectivo-relacional) mientras el peor mal EXTERNO es masculino (el mal que viene de fuera, la confrontación destructiva). La asimetría es operativa para la lectura del corpus: la bruja terminal opera por dentro del territorio donde la diosa debería operar — su daño es ocupación del lugar arquetípico, no agresión desde fuera.
+3. **Condicionar el amor como primer pecado materno + obsesión como parte oscura de la esperanza**: la pieza precisa el mecanismo de transición desde la esperanza sana hacia su versión oscura. La obsesión NO es opuesta a la esperanza — es su modalidad oscura, la esperanza que ha perdido la apertura a múltiples objetos posibles y se ha cerrado sobre uno solo del que extrae todo el material afectivo. Condicionar el amor (si haces X recibirás afecto) es el primer pecado precisamente porque sustituye la esperanza abierta por la obsesión cerrada — el niño aprende que el amor NO es don sino transacción, y desarrolla obsesión correlativa hacia el cumplimiento de la condición que la madre impuso.
+
+La pieza enlaza con la sección 'Cuarta forma: la madre oscura como vampira afectiva' añadida desde Fight Club: ambas figuras (Marla, Medusa) operan en el registro de la extracción afectiva, pero Medusa articula la modalidad TERMINAL donde el sujeto ya no es solo cáscara sin alma sino agente sistematizado de la operación extractiva (la tienda de empeños como infraestructura). La secuencia operativa puede leerse: madre oscura individual (Marla) → bruja terminal sistematizada (Medusa) → polo terminal del femenino oscuro donde la conexión con la diosa blanca queda completamente cancelada.
+
+### Bianca como caso operativo de la diosa ingenua
+
+> "Las princesas son seres fabulosos protegidos para poder seguir viviendo en el mundo de fantasía y llevando esperanza,"
+→ [Análisis arquetípico de Los Rescatadores (52:25)](https://youtu.be/ryvi2Y7KYB8?t=3145)
+
+La contrapartida operativa de Medusa en el film es Bianca, articulada como caso de la **diosa ingenua al peligro POR FUNCIÓN, no por defecto**. Las secciones anteriores articulaban la diosa como influencia hipnótica, capacidad de presenciar el mal sin destrucción, secuencia performativa de los tres dones. La pieza añade que la INGENUIDAD AL PELIGRO de la diosa es funcional: tiene que mantenerse así para seguir dando esperanza al mundo. Si la diosa conociera plenamente el peligro al que se expone, perdería precisamente la capacidad que le permite operar como diosa — su fuerza opera por preservación de la apertura confiada que el peligro destruiría.
+
+La función específica del polo masculino en relación con esa ingenuidad funcional cierra el aparato: el varón no protege a la diosa para ganarse su amor sino para que ella pueda seguir dando amor a todo el mundo. La estructura es asimétrica y complementaria — la ingenuidad funcional de la diosa requiere la prudencia funcional del varón como condición de su sostenibilidad operativa.
+
 
 
 
@@ -351,6 +405,85 @@ La aceptación total queda articulada como modalidad arquetípica con genealogí
 
 La pieza enlaza con el aparato de [[hieros-gamos]] y de [[viaje-heroe]] precisando la asimetría: el camino del héroe masculino requiere voluntad orientada (cumplir misión, vencer dragón, completar gemas de la espada); el camino de la diosa requiere aceptación total (recibir el destino manifiesto, mantener la esperanza, ser sostén pase lo que pase). Ambos son monomitos arquetípicos legítimos — y el hieros gamos consumado opera precisamente cuando los dos modos se complementan sin colapsarse en uno solo.
 
+
+
+
+## La mujer del Apocalipsis: cierre escatológico del ciclo de la diosa blanca
+
+El monográfico sobre [[la-llegada-2016-film|La Llegada (Parte 1)]] (abr 2024) articula la cifra ESCATOLÓGICA del arquetipo que las secciones anteriores dejaban abierta tras la Asunción mariana. La diosa blanca tiene su forma cumplida en la **mujer del Apocalipsis** (Apocalipsis 12, vestida de sol con la luna bajo sus pies y una corona de doce estrellas) que el catolicismo identifica con la Virgen María como diosa blanca ASCENDIDA.
+
+> "La película empieza en Istar y acaba en la reina blanca, la mujer del Apocalipsis en forma de Virgen María, la diosa blanca ascendida,"
+→ [Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)
+
+> "Hay doce naves porque el doce es número lunar: doce fases, doce horas, doce meses,"
+→ [Análisis La Llegada, (Parte uno, introducción) (03:32)](https://youtu.be/aPbgBnidoJI?t=212)
+
+> "Los extraterrestres tienen siete patas porque la película es el mito lunar, y la estrella de Istar en origen tenía siete puntas,"
+→ [Análisis La Llegada, (Parte uno, introducción) (02:02)](https://youtu.be/aPbgBnidoJI?t=122)
+
+La pieza articula la GENEALOGÍA CROSS-TRADICIONAL completa del arquetipo:
+
+1. **Istar mesopotámica** con su estrella de SIETE puntas — primera forma del mito lunar como viaje a los infiernos. La iconografía heptágona del film (siete patas de los heptápodos) cifra esta forma original.
+2. **Mujer del Apocalipsis bíblico** (Apocalipsis 12) — la mujer encinta que el dragón persigue, vestida de sol con la luna bajo sus pies y corona de doce estrellas. Cifra escatológica del arquetipo en clave cristiana.
+3. **Virgen María como diosa blanca ASCENDIDA** — el catolicismo identifica la mujer apocalíptica con María, cerrando el ciclo desde la Anunciación (apertura del fíat) hasta la Asunción (cierre por elevación corporal) hasta la consagración apocalíptica (vestidura de sol, dominio sobre la luna, corona de doce).
+
+La simbología numérica encadena las tres formas: SIETE de Istar (estrella original) → DOCE de la mujer apocalíptica (corona de estrellas como doce horas / fases / meses lunares) — los heptápodos heredan el siete original, las doce naves cifran el cierre apocalíptico. La pieza completa el aparato de la página con el cierre ESCATOLÓGICO que las secciones sobre Asunción y triple María dejaban implícito: la diosa blanca no termina su ciclo en la elevación individual mariana sino en la consagración cósmica apocalíptica donde recibe el sol, la luna y las doce estrellas — atributos que estructuralmente recapitulan los siete dones de Istar más cinco que el ciclo agrega tras la travesía completa.
+
+
+
+
+## El lenguaje de la diosa: significado puro frente a significante articulado
+
+El monográfico sobre [[la-llegada-2016-film|La Llegada]] (abr 2024) articula una dimensión del arquetipo femenino que las secciones anteriores tenían implícita: la diosa opera con un MODO LINGÜÍSTICO ESPECÍFICO — significado puro vivencial — distinto del modo masculino (significante articulado, ordenado, direccional). La distinción es foundational en el aparato canal-específico (el speaker señala que abre el libro propio que está escribiendo).
+
+> "Lo explícito es masculino y lo implícito es femenino; el lenguaje verbal es eminentemente explícito y requiere orden para funcionar,"
+→ [Análisis: La Llegada (Parte dos) (01:01)](https://youtu.be/tOn66qFS2-M?t=61)
+
+> "El lenguaje masculino es el significante (articulado, ordenado, direccional) y el lenguaje femenino es el significado puro,"
+→ [Análisis: La Llegada (Parte dos) (01:01)](https://youtu.be/tOn66qFS2-M?t=61)
+
+> "El lenguaje de la diosa solo tiene sentido contextual: se percibe como un todo vivencial, no como una secuencia de signos,"
+→ [Análisis: La Llegada (Parte dos) (01:01)](https://youtu.be/tOn66qFS2-M?t=61)
+
+> "Esta distinción está al principio del libro que Proxy está escribiendo,"
+→ [Análisis: La Llegada (Parte dos) (06:37)](https://youtu.be/tOn66qFS2-M?t=397)
+
+La pieza añade tres articulaciones operativas:
+
+1. **El lenguaje de la diosa NO es lenguaje verbal**: no opera por secuencia de signos articulados sino por TODO VIVENCIAL. El sujeto no decodifica parcialmente — recibe el significado completo o no recibe nada. La modalidad es estructuralmente refractaria a la traducción en componentes: cualquier intento de descomponer el significado en signos lo destruye.
+2. **Lo no verbal explícito sigue siendo masculino**: gestos, expresiones faciales, emociones perceptibles operan en el registro masculino aunque no usen palabras — son detectables sensorialmente, articulables en componentes discretos. El lenguaje femenino genuino es lo IMPLÍCITO IRREDUCTIBLE: lo que NO puede transformarse en contenido somático perceptible.
+3. **El "no lenguaje" como definición negativa**: el lenguaje de la diosa es formalmente "no lenguaje" (no opera como sistema de signos), pero también "no no-lenguaje" (no es ausencia de comunicación sino otra modalidad). Los candidatos articulados: la INTUICIÓN y la FIGURACIÓN. Modalidades de transmisión que operan sin descomposición ni decodificación.
+
+## La aceptación total como esencia operativa del pensamiento femenino
+
+El mismo monográfico articula la modalidad cognitiva específica del polo femenino que las secciones sobre los tres dones tenían implícita: lo femenino comprende sin necesidad de objetivo ni razón, solo siendo. La aceptación total opera como CIERRE del aparato cognitivo femenino, no como resignación pasiva.
+
+> "\"A pesar de conocer el camino y a dónde conduce, lo acepto gustosa\": la diosa blanca acepta pasado, presente y futuro como un todo,"
+→ [Análisis: La Llegada (Parte dos) (1:34:35)](https://youtu.be/tOn66qFS2-M?t=5675)
+
+> "Si aceptas todo lo que va a venir, ya no hay futuro funcional porque el futuro solo sirve para prepararte contra lo que temes,"
+→ [Análisis: La Llegada (Parte dos) (1:34:35)](https://youtu.be/tOn66qFS2-M?t=5675)
+
+> "La diferencia entre comprender femenino (no necesita objetivo ni razón, solo ser) y comprender masculino (necesita objetivo y razón para hacer),"
+→ [Análisis: La Llegada (Parte dos) (1:34:35)](https://youtu.be/tOn66qFS2-M?t=5675)
+
+La pieza articula la asimetría operativa entre los dos modos cognitivos:
+
+- **Comprender masculino**: requiere OBJETIVO + RAZÓN para HACER. Opera transitivamente sobre el mundo; necesita orientación causal-instrumental; el futuro es campo de planificación frente a males posibles.
+- **Comprender femenino**: NO requiere objetivo ni razón, opera por SER. Es intransitivo, vivencial, presente-completo. El futuro funcional desaparece porque su única función operativa (prepararse contra lo temido) queda cancelada cuando el sujeto acepta todo lo que viene.
+
+### Genealogía: fíat mariano + Tao + budismos
+
+> "La historia trata sobre dioses que revelan el destino manifiesto a la diosa, como en todos los mitos (\"hágase en mí según tu palabra\"),"
+→ [Análisis: La Llegada (Parte dos) (1:50:06)](https://youtu.be/tOn66qFS2-M?t=6606)
+
+> "La promesa del Tao, el hinduismo y ciertas formas de budismo: si te deslizas por la vida aceptando todo, te libras del mal porque el mal es el deseo de que las cosas no sean como son,"
+→ [Análisis: La Llegada (Parte dos) (1:50:06)](https://youtu.be/tOn66qFS2-M?t=6606)
+
+La aceptación total queda articulada como modalidad arquetípica con genealogía cross-tradicional precisa: la frase 'lo acepto gustosa' opera estructuralmente como el 'hágase en mí según tu palabra' mariano (fíat) — la doncella que acepta el destino manifiesto revelado por los dioses sin oposición. La promesa del Tao y de ciertos budismos articula el corolario operativo: el mal es el DESEO de que las cosas no sean como son; si el sujeto acepta todo, el mal queda estructuralmente desactivado porque su sustrato cognitivo (el rechazo de lo dado) ha sido cancelado.
+
+La pieza enlaza con el aparato de [[hieros-gamos]] y de [[viaje-heroe]] precisando la asimetría: el camino del héroe masculino requiere voluntad orientada (cumplir misión, vencer dragón, completar gemas de la espada); el camino de la diosa requiere aceptación total (recibir el destino manifiesto, mantener la esperanza, ser sostén pase lo que pase). Ambos son monomitos arquetípicos legítimos — y el hieros gamos consumado opera precisamente cuando los dos modos se complementan sin colapsarse en uno solo.
+
  La estructura es asimétrica y complementaria — la ingenuidad funcional de la diosa requiere la prudencia funcional del varón como condición de su sostenibilidad operativa.
 
 
@@ -419,6 +552,27 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 
 
 
+## La diosa armonizadora: función trianguladora entre masculinos especulares
+
+El monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] articula una función operativa de la diosa blanca que las secciones anteriores no recogían: el arquetipo como **punto trianguladora** entre dos masculinos estructuralmente opuestos. La pieza extiende la lectura de las virtudes (gracia/belleza/esperanza) y la influencia hipnótica con un papel relacional específico: la diosa no solo opera sobre el varón individualmente sino que **estructura el campo masculino colectivo** uniendo posiciones especulares no superponibles.
+
+> "Rita es el punto de unión entre Phil y su compañero, que son como especulares no superponibles, hechos uno en el negativo del otro,"
+→ [Análisis arquetípico de atrapado en el tiempo. (08:53)](https://youtu.be/DwmV3c9-Xi0?t=533)
+
+> "La diosa dice que las cosas son dulces o monas cuando hacen disfrutar a la gente: manifestación del don de la gracia,"
+→ [Análisis arquetípico de atrapado en el tiempo. (08:53)](https://youtu.be/DwmV3c9-Xi0?t=533)
+
+> "Phil, el caballero de madera, es incapaz de apreciar nada excepto la belleza de la diosa, que le produce inhibición y miedo,"
+→ [Análisis arquetípico de atrapado en el tiempo. (08:53)](https://youtu.be/DwmV3c9-Xi0?t=533)
+
+La pieza añade un nivel operacional al aparato. Las secciones anteriores articulaban la diosa blanca como arquetipo-pregunta cuya respuesta es el [[mito-lunar]], como tripartición virgen-consorte-madre y como influencia hipnótica sobre el varón individual. La función armonizadora añade un cuarto nivel: en la economía afectiva colectiva de un grupo masculino con posiciones especulares incompatibles (Phil cínico/cáustico vs su compañero ingenuo/cándido), la diosa opera como **vector de unificación** — su sola presencia hace que ambos masculinos puedan coexistir sin destruirse mutuamente, porque cada uno se reconoce a sí mismo en su negativo cuando ambos miran a la diosa.
+
+La estructura especular masculina que la pieza identifica tiene consecuencia operativa: dos varones cuyas configuraciones afectivas son inversas exactas (lo que uno tiene por exceso, el otro lo tiene por defecto) no pueden integrarse por sí solos — necesitan un tercer punto que los reduzca a la misma escala. La diosa es ese punto. La caracterización 'caballero de madera' (Phil) cifra la posición específica del varón cínico: es de pieza dura sin sustancia interior — no es el [[heroe-truncado|caballero negro]] (que tendría ira canalizada) ni el [[caballero-oscuro|caballero oscuro]] (que tendría inocencia perdida en catábasis) sino madera vacía de savia que solo la gracia femenina puede reactivar.
+
+La pieza completa el aparato relacional con la articulación inversa que la sección 'Misterio e influencia hipnótica' tenía implícita: la diosa no causa solo experiencia subjetiva en el varón individual (lo hipnotiza, le permite experimentar lo femenino sin comprenderlo), también **organiza el campo intermasculino**. Dos varones especulares no superponibles devienen integrables porque ambos se relacionan con el mismo arquetipo, no entre sí — la mediación es indirecta y por compartido, no por encuentro.
+
+
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: **El reverso oscuro de la consorte/ninfa** queda sin desarrollar en el material -->
@@ -447,14 +601,32 @@ La pieza completa el aparato relacional con la articulación inversa que la secc
 
 
 
-- **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:32:16](https://youtu.be/rLeMS4-XFrA?t=5536) · [1:48:00](https://youtu.be/rLeMS4-XFrA?t=6480)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:12:14](https://youtu.be/aWeuzWLrLtE?t=4334)
+- **Directo casual** — chunks: [36:59](https://youtu.be/ECN5C9rsaZg?t=2219)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [32:29](https://youtu.be/wIhH72UFUPY?t=1949)
+- **¡Inside Proxy está emitiendo en directo!** — chunks: [29:58](https://youtu.be/lw7XI2lQntM?t=1798) · [32:29](https://youtu.be/lw7XI2lQntM?t=1949)
+- **La luna, La Virgen y la Diosa Blanca** — chunks: [49:06](https://youtu.be/C5q89bw1G9E?t=2946) · [50:37](https://youtu.be/C5q89bw1G9E?t=3037) · [55:46](https://youtu.be/C5q89bw1G9E?t=3346) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [35:16](https://youtu.be/4LBXNkVAUCU?t=2116)
 - **Análisis arquetípico de atrapado en el tiempo.** — chunks: [1:12:30](https://youtu.be/DwmV3c9-Xi0?t=4350)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:04:21](https://youtu.be/xK8_MpMMXzc?t=3861)
 - **Análisis: La Llegada (Parte dos)** — chunks: [1:34:35](https://youtu.be/tOn66qFS2-M?t=5675)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [3:32](https://youtu.be/aPbgBnidoJI?t=212)
-- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:12:14](https://youtu.be/aWeuzWLrLtE?t=4334)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [3:27](https://youtu.be/iPqOn-ynSlE?t=207)
 - **La Virgen, el mito Lunar y la Diosa Blanca. Mitos y verdades fenomenológicas.** — chunks: [6:04](https://youtu.be/tgusJOzuJ7U?t=364) · [7:34](https://youtu.be/tgusJOzuJ7U?t=454) · [14:10](https://youtu.be/tgusJOzuJ7U?t=850) · [16:11](https://youtu.be/tgusJOzuJ7U?t=971) · [18:43](https://youtu.be/tgusJOzuJ7U?t=1123)
 - **Lilith: La Iconotropía.** — chunks: [49:16](https://youtu.be/xKCD8PaexF0?t=2956)

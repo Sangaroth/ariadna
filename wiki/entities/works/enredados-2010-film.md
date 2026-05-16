@@ -147,5 +147,9 @@ Madre Gothel encarna el caso paradigmático de la madre oscura que el canal elab
 ## Citations
 
 
+
+
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [8:34](https://youtu.be/OT2DW4zoKsE?t=514) · [12:05](https://youtu.be/OT2DW4zoKsE?t=725) · [24:11](https://youtu.be/OT2DW4zoKsE?t=1451) · [32:16](https://youtu.be/OT2DW4zoKsE?t=1936) · [35:18](https://youtu.be/OT2DW4zoKsE?t=2118) · [43:24](https://youtu.be/OT2DW4zoKsE?t=2604) · [56:06](https://youtu.be/OT2DW4zoKsE?t=3366) · [59:08](https://youtu.be/OT2DW4zoKsE?t=3548) · [1:01:39](https://youtu.be/OT2DW4zoKsE?t=3699) · [1:06:41](https://youtu.be/OT2DW4zoKsE?t=4001) · [1:11:14](https://youtu.be/OT2DW4zoKsE?t=4274) · [1:19:49](https://youtu.be/OT2DW4zoKsE?t=4789) · [1:23:21](https://youtu.be/OT2DW4zoKsE?t=5001) · [1:35:29](https://youtu.be/OT2DW4zoKsE?t=5729) · [1:37:31](https://youtu.be/OT2DW4zoKsE?t=5851) · [1:39:01](https://youtu.be/OT2DW4zoKsE?t=5941) · [1:41:33](https://youtu.be/OT2DW4zoKsE?t=6093) · [1:44:05](https://youtu.be/OT2DW4zoKsE?t=6245) · [1:48:37](https://youtu.be/OT2DW4zoKsE?t=6517)
+- **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:31:28](https://youtu.be/NjtK76xzV18?t=5488)
+- **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [11:30](https://youtu.be/yAIPr0HzQqE?t=690)
 

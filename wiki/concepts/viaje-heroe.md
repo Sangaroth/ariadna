@@ -113,6 +113,35 @@ La pieza específica del héroe católico es el martirio voluntario por el prój
 La fórmula precisa la respuesta a la pregunta cosmogónica que el monomito plantea — *¿por qué merece la pena vivir?* — desde el catolicismo: por hacer la vida de los demás mejor, hasta el límite de entregar la propia. Los mártires no son figuras heroicas excepcionales sino encarnaciones operativas del recorrido que la imitatio Christi propone a cualquier sujeto católico — el [[grial-arquetipo|sacrificio del Grial]] como acceso individual al cierre del ciclo. La pieza completa la genealogía Hércules → Cristo → Arturo documentada arriba: cada eslabón articula una versión culturalmente específica del héroe occidental, y el catolicismo añade el componente martirial que distingue su imitatio de las versiones puramente solares (Hércules) o puramente regias (Arturo sin pasión sacrificial).
 
 
+
+## Tipología comparativa de respuestas religiosas al monomito
+
+El directo *La luna, La Virgen y la Diosa Blanca* extiende la genealogía Hércules→Cristo→Arturo con una tipología de cómo distintas tradiciones religiosas responden al mito del héroe — la plantilla arquetípica común que cada tradición cristaliza en una imitatio específica. La distinción es estructural-operativa, no teológica:
+
+> "Los evangelios son la mejor combinación de respuestas sobre lo que significa ser hombre y ser mujer, sin recurrir a estereotipos"
+→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)
+
+> "El Islam es sumisión a las exigencias de un hombre (Mahoma), mientras el catolicismo es acompañamiento e imitación de Cristo, no sumisión"
+→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)
+
+> "El budismo zen responde al mito del héroe con \"no hay camino\" (no intervención), lo opuesto al catolicismo donde el héroe da la vida por los demás"
+→ [La luna, La Virgen y la Diosa Blanca (1:06:37)](https://youtu.be/C5q89bw1G9E?t=3997)
+
+Las tres respuestas se distribuyen en posiciones operativas distintas frente al monomito. El **catolicismo** propone imitación activa con apoteosis sacrificial: el héroe da la vida por los demás y la elevación pasa por la muerte voluntaria. El **Islam** opera como sumisión a la voluntad articulada por la figura fundadora: el héroe ya no recorre el viaje sino que se alinea con un modelo de obediencia. El **budismo zen** retira la pregunta misma: no hay camino, no hay viaje — el sujeto se desidentifica del recorrido en lugar de atravesarlo. La tipología refina la lectura del monomito como vara diagnóstica: una tradición no falla por carecer de héroe sino por ofrecer un dispositivo estructural distinto al sacrificio integrador (sumisión sustituye imitación; no-camino sustituye viaje).
+
+### El héroe católico: el mártir que da la vida por el prójimo
+
+La pieza específica del héroe católico es el martirio voluntario por el prójimo, articulado como apoteosis del recorrido individuativo:
+
+> "La respuesta católica al mito del héroe es que el mayor acto posible es dar la vida para que los demás conserven la suya"
+→ [La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)
+
+> "Los santos mártires son los héroes del catolicismo: murieron por ser católicos o intentando vivir según su fe"
+→ [La luna, La Virgen y la Diosa Blanca (1:14:29)](https://youtu.be/C5q89bw1G9E?t=4469)
+
+La fórmula precisa la respuesta a la pregunta cosmogónica que el monomito plantea — *¿por qué merece la pena vivir?* — desde el catolicismo: por hacer la vida de los demás mejor, hasta el límite de entregar la propia. Los mártires no son figuras heroicas excepcionales sino encarnaciones operativas del recorrido que la imitatio Christi propone a cualquier sujeto católico — el [[grial-arquetipo|sacrificio del Grial]] como acceso individual al cierre del ciclo. La pieza completa la genealogía Hércules → Cristo → Arturo documentada arriba: cada eslabón articula una versión culturalmente específica del héroe occidental, y el catolicismo añade el componente martirial que distingue su imitatio de las versiones puramente solares (Hércules) o puramente regias (Arturo sin pasión sacrificial).
+
+
 ## El viaje como diagnóstico de obras fallidas
 
 El canal usa el monomito menos como descripción que como herramienta crítica. Identificarse con un héroe de fantasía pura no produce trabajo psíquico real porque el mal contra el que combate es inexistente:
@@ -173,6 +202,30 @@ El monomito admite una tercera vía de fracaso, distinta del escapismo de Harry 
 La distinción frente a la [[uranico-telurico-cetonico|narrativa uránica]] es operativa: donde el héroe solar es esperado por el gran padre celestial para que sea digno de sus dones, el antihéroe carece de dones, particularidades o intención heroica — es un número normal arrastrado al periplo. La metáfora canal-específica es la **planta capitana**: la rueda del desierto que el viento lleva de Los Ángeles al mar, paso de lo ordinario a lo extraordinario sin proponérselo.
 
 La pieza completa el marco diagnóstico del monomito como vara crítica con tres figuras de inversión: el escapismo (Harry Potter, motivación interna ausente), el truncamiento (caballero negro, héroe que aprende contra el mundo), y el antihéroe (héroe sin saberlo). Los Coen aplican la estructura deliberadamente, marcando las tres fases de Campbell con sueños del protagonista y recorriendo los 22 Arcanos del [[tarot-arquetipico|tarot]] en su forma invertida.
+
+
+## Sacrificio pasivo vs sacrificio heroico: dos modalidades sacrificiales
+
+El monográfico sobre [[elemental-2023-film|Elemental]] (nov 2023) articula una distinción categorial sobre el momento sacrificial del monomito que las secciones anteriores tenían implícita: no toda muerte voluntaria del héroe es sacrificio heroico — hay una modalidad pasiva del sacrificio que opera estructuralmente como inversión de la heroica.
+
+> "El sacrificio del hombre de agua es pasivo y femenino: dejarse llevar por la muerte para que otro continúe, como haría una madre por sus hijos,"
+→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)
+
+> "No es un sacrificio masculino porque no implica renunciar a algo ni transformarse en algo diferente,"
+→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)
+
+> "Habría tenido triple sentido que se convirtiera en hielo: renunciar a su yo emocional para convertirse en algo duro y nuevo que nadie había sido,"
+→ [Análisis arquetípico de Elemental (1:43:34)](https://youtu.be/p8ZInoDuE50?t=6214)
+
+La distinción articula dos modalidades estructuralmente distintas:
+
+- **Sacrificio pasivo (femenino-materno)**: el sujeto se deja llevar por la muerte para que otro continúe. Estructuralmente análogo al sacrificio materno por los hijos — el agente no transforma su naturaleza ni renuncia a algo propio, **cesa de existir y transfiere el efecto al otro**. Es modalidad arquetípica genuina (la madre que muere por los hijos opera arquetípicamente), pero NO es viaje del héroe en el sentido masculino-solar de la página.
+- **Sacrificio heroico (masculino-transformador)**: el sujeto renuncia a algo propio para **convertirse en algo nuevo que no era**. Implica acto activo de auto-modificación + transformación cualitativa irreversible. El sujeto subsiste pero como otro. Es la modalidad que cierra el monomito clásico (Cristo, Hércules, Arturo) en tradición católico-occidental.
+
+La pieza completa el aparato diagnóstico de la página con un cuarto modo de fracaso del monomito masculino, complementario a los tres ya documentados (escapismo, truncamiento, antihéroe). El sacrificio pasivo aplicado a un personaje masculino estructura un **monomito vaciado por inversión sacrificial** — la película preserva la silueta del sacrificio final del héroe pero sustituye la modalidad transformadora por la pasiva, dejando al protagonista como objeto del padecimiento en lugar de agente de la transformación. La fórmula 'habría tenido triple sentido que se convirtiera en hielo' del directo precisa qué habría sido sacrificio heroico genuino: el agua-pasivo-negativo (labilidad emocional) renunciando a su naturaleza para convertirse en algo activamente nuevo (hielo: dureza, durabilidad, capacidad de soporte).
+
+La distinción es operativa para la lectura del corpus: el sacrificio pasivo es el destino estructural del [[woke-narrativa-postmoderna-moral|monomito woke]] cuando llega al momento culminante — donde el héroe debería transformarse, la víctima por defecto del marco woke solo puede dejarse padecer.
+
 
 
 ## Sacrificio pasivo vs sacrificio heroico: dos modalidades sacrificiales
@@ -284,6 +337,47 @@ La asimetría es estructural: la psique femenina puede integrar el mito solar (e
 La tesis cierra el flanco crítico: cuando la cultura contemporánea presenta la emancipación femenina (rechazo de la maternidad, autonomía radical, ruptura con marcos tradicionales) como 'viaje del héroe femenino', está cometiendo error categorial. La estructura arquetípica de esa emancipación no es nueva — corresponde a la figura de la **bruja** dentro del mito lunar, articulada en la [[tipologia-femenina-arquetipica|tipología femenina arquetípica]] como figura terminal que rechaza lo civilizatorio. La emancipación radical contemporánea recapitula esa figura sin nombrarla, y el discurso del 'viaje heroico de la mujer' opera como ocultamiento de la genealogía mítica real: lo que se vende como camino heroico nuevo es figura corruptiva canónica con vocabulario de empoderamiento.
 
 La pieza importa para el marco de la página: el monomito como vara diagnóstica funciona también para detectar **construcciones míticas pseudo-paralelas** que reclaman estatus arquetípico sin haberlo. El libro 'Ser mujer, un viaje heroico' (Maureen Murdock-style) cae del lado de la mitología impropia no por ser sobre mujeres, sino por inventar una plantilla que el corpus arquetípico ya contiene articulada de otra forma — duplicación estructural que el canal lee como ornamento ideológico, no como aporte mitopoético genuino.
+
+
+## Las siete fases del descenso masculino: el caso operativo de Atrapado en el tiempo
+
+El monográfico de marzo 2023 sobre [[atrapado-en-el-tiempo-1993-film|Atrapado en el tiempo]] articula la cadena granular del **descenso masculino antes del cambio** que el monomito clásico no enumera. La pieza completa el aparato de las dos fases (seno de la madre / seno del padre) con la articulación operativa de qué le ocurre al varón cuando la primera fase falla y entra en espiral de desocialización terminal antes de la entrega que le permite la reconstrucción.
+
+> "Qué harías si tu vida no tuviera sentido porque no tienes un centro\": la crisis de identidad como espiral de desocialización,"
+→ [Análisis arquetípico de atrapado en el tiempo. (46:46)](https://youtu.be/DwmV3c9-Xi0?t=2806)
+
+Las siete fases descendentes que el directo articula obra-por-obra sobre Phil Connors:
+
+1. **Nihilismo destructivo** (30:04): "si nada de lo que hicierais importara" — pérdida del significado, los actos dejan de tener peso. Típica de la crisis de identidad adolescente.
+2. **Euforia falsa** (33:35): apaga la parte del cerebro que aporta consecuencias, generando irreverencia peligrosa. Es felicidad falsificada por desactivación del freno.
+3. **Dejadez e inobservancia** (33:35): agresividad con frialdad indiferente — el sujeto deja de respetar las normas no por rebeldía sino por inobservancia activa.
+4. **Hedonismo terminal** (37:08): sexo, comida, juego, diversión sin observar consecuencias. Sustitución de las representaciones motivacionales del mundo por mecanismos reptilianos de relación.
+5. **Narcisismo del dolor** (39:12): "meter la cabeza en el propio culo es una forma de narcisismo" — el infeliz concentrado en sí mismo que pierde su humanidad. Retrato de Dorian Gray como pacto con el diablo donde el tiempo te consume.
+6. **Maquiavelismo antisocial** (42:12): manipulación con cálculo milimétrico — Phil recopila información para fingir conocer a la víctima al día siguiente. Capacidad de robar un banco y reírse del mundo. Aprovecha el [[sindrome-wendy]] como vector operativo.
+7. **Suicidio recurrente** (59:22): pérdida última de la humanidad, deseo de que pare la agonía. Las tentativas absurdas reflejan el deseo de fin de la repetición sin sentido.
+
+> "La última fase es ser prácticamente un lagarto depredador; después solo queda morir,"
+→ [Análisis arquetípico de atrapado en el tiempo. (39:12)](https://youtu.be/DwmV3c9-Xi0?t=2352)
+
+La cadena tiene dirección operativa: cada fase reduce la representación del mundo que el sujeto puede sostener, y la siguiente opera cuando la anterior se agota como sostén afectivo. El descenso no es elección — es derrota progresiva del aparato cognitivo cuando carece de marco de sentido. La pieza articula así qué clase de fracaso de la primera fase masculina (seno de la madre) precede a la salida no resolutiva: no la regresión a la dependencia (síndrome del niño) ni el truncamiento activo ([[heroe-truncado|caballero negro]]) sino el **colapso del centro** que termina en la disolución suicida.
+
+### La inversión: confesión, entrega, cultivo, hierosgamos
+
+La salida del descenso terminal articulada por el directo opera en cuatro pasos sucesivos que invierten en simetría aparente las fases del descenso pero por mecánica distinta — no son su negación sino su superación por entrega:
+
+> "Cuando el suicidio no funciona, lo único que queda es el vivir en el momento presente,"
+→ [Análisis arquetípico de atrapado en el tiempo. (1:00:53)](https://youtu.be/DwmV3c9-Xi0?t=3653)
+
+1. **Confesión** (1:00:53): agotado todo deseo, el sujeto empieza simplemente a ser. Análogo a personas con enfermedad terminal o presos que alcanzan armonía con el cosmos.
+2. **Inversión del amor — entrega** (1:04:25): de "quiero que seas mía" a "sería feliz siendo tuyo". Con la destrucción del superyó y del ego aparece el amor como manifestación efectiva. Cuando se entrega a los demás, el mundo a su alrededor cambia y se ilumina: la felicidad primigenia de las pequeñas cosas.
+3. **Cultivo** (1:05:55): Phil aprende piano, poesía, escultura de hielo; valora el tiempo y lo utiliza para cultivarse. Conoce por primera vez el dolor de la pérdida genuina cuando muere el anciano al que intentó salvar día tras día.
+4. **Héroe completo** (1:07:56): "el héroe que antes era fuego pasa a tener fuego y aire a través de lo que aprende de la diosa; el [[hieros-gamos|hierosgamos]] se consuma con el beso y la nieve". El sujeto ya no es solo varón solar — integra la dimensión recibida del femenino y se vuelve sostén del pueblo entero.
+
+> "Phil da un discurso tan humano que todo el mundo le admira: es un sabio conocedor del mundo, la belleza y el amor,"
+→ [Análisis arquetípico de atrapado en el tiempo. (1:07:56)](https://youtu.be/DwmV3c9-Xi0?t=4076)
+
+La elementología cierra el aparato: el héroe descendido era **fuego** (impulso solar sin freno); recibe **agua** del femenino (gracia, escucha) y al integrarla obtiene **aire** (palabra inteligible, capacidad de discurso humano) sobre la **tierra** (pueblo, cuerpo cotidiano). Las cuatro categorías del [[cuatro-elementos-arquetipicos]] se completan en la consumación final.
+
 
 
 
@@ -427,6 +521,43 @@ La pieza articula una modalidad del momento culminante del monomito que la pági
 
 La pieza precisa la última fase campbelliana del monomito (regreso con el elixir) en clave infantil-fabulosa: la heroína no regresa con un don a un mundo singular sino que QUEDA COMO REINA SIMULTÁNEA de los dos mundos — el de la fantasía sostenedora y el del mundo real recuperado. La diferencia operativa frente al regreso clásico es categorial: el héroe adulto regresa al mundo único habiendo aprendido del otro; la heroína infantil retiene ambos mundos como territorios propios porque la fantasía NO se descarta al integrarse el rescate, se conserva como capacidad operativa que perpetúa la fábula. La cadena que cierra el directo (la siguiente aventura ya es enviar socorro, no recibirlo) articula esta operación: Penny no abandona el mundo de Bianca y Bernardo al ser rescatada, lo reasume invertido como agente.
 
+
+
+
+## Modalidades del cierre: sacrificio masculino innato, apoteosis colectivo, reina de ambos mundos
+
+El monográfico sobre [[los-rescatadores-1977-film|Los Rescatadores]] (jun 2024) articula tres modalidades del cierre del monomito que la página tenía implícitas: el sacrificio masculino como mecánica innata pre-heroica, el apoteosis colectivo como alternativa al héroe-con-espada, y la reina de ambos mundos como última fase aplicada a la heroína infantil.
+
+### Sacrificio masculino innato: la mecánica pre-heroica
+
+> "Bernardo no es valiente por heroísmo sino porque prefiere que le pase algo a él antes que a Bianca: mecánica innata del sacrificio masculino,"
+→ [Análisis arquetípico de Los Rescatadores (1:39:22)](https://youtu.be/ryvi2Y7KYB8?t=5962)
+
+> "Lo masculino protege a la diosa no para ganarse egoístamente su amor, sino para que ella pueda seguir dando amor a todo el mundo,"
+→ [Análisis arquetípico de Los Rescatadores (52:25)](https://youtu.be/ryvi2Y7KYB8?t=3145)
+
+La pieza articula la dimensión PRE-HEROICA del sacrificio masculino: no es virtud cultivada ni decisión moral, es mecánica innata que opera por preferencia preconsciente — el varón prefiere que le pase algo a él antes que a la diosa. La distinción es operativa frente al heroísmo cultivado del [[viaje-heroe|monomito]] clásico: aquel se construye, este precede a toda construcción. La función del sacrificio masculino innato no es ganarse el amor de la diosa (lectura egoísta) sino preservar la capacidad de la diosa de seguir dando amor a todos — protección de la fuente, no captación de su flujo.
+
+### Apoteosis colectivo: toda la psique acudiendo al rescate
+
+> "El apoteosis no es un héroe con espada sino todos los animalitos del bosque juntándose: toda la psique yendo a ayudar,"
+→ [Análisis arquetípico de Los Rescatadores (1:43:25)](https://youtu.be/ryvi2Y7KYB8?t=6205)
+
+> "La psique buena reúne fuerzas de cooperación; la psique mala se pelea por ambición,"
+→ [Análisis arquetípico de Los Rescatadores (1:43:25)](https://youtu.be/ryvi2Y7KYB8?t=6205)
+
+> "Los unidos por ambición se separan por ambición: el pecado lleva a la catabasis de la que probablemente no se puede salir,"
+→ [Análisis arquetípico de Los Rescatadores (1:43:25)](https://youtu.be/ryvi2Y7KYB8?t=6205)
+
+La pieza articula una modalidad del momento culminante del monomito que la página tenía implícita: el apoteosis NO es siempre confrontación heroica individual con el dragón. En la fábula y en la fenomenología infantil, el apoteosis opera como **cooperación de todas las partes de la psique** — los animalitos del bosque uniéndose es figura de la psique entera convocando sus recursos. La distinción frente a la psique mala (que se pelea por ambición y se separa por la misma ambición que la unió) cierra el aparato: la cooperación NO es virtud moral exógena sino condición operativa de la psique sana. La psique enferma carece de la cooperación interna por estructura, no por elección, y por eso recorre la catabasis sin posibilidad estructural de salida.
+
+### Reina de ambos mundos: la última fase aplicada a la heroína infantil
+
+> "La niña es reina de ambos mundos: reina de la fantasía y reina del mundo real, última fase del viaje del héroe,"
+→ [Análisis arquetípico de Los Rescatadores (1:47:29)](https://youtu.be/ryvi2Y7KYB8?t=6449)
+
+La pieza precisa la última fase campbelliana del monomito (regreso con el elixir) en clave infantil-fabulosa: la heroína no regresa con un don a un mundo singular sino que QUEDA COMO REINA SIMULTÁNEA de los dos mundos — el de la fantasía sostenedora y el del mundo real recuperado. La diferencia operativa frente al regreso clásico es categorial: el héroe adulto regresa al mundo único habiendo aprendido del otro; la heroína infantil retiene ambos mundos como territorios propios porque la fantasía NO se descarta al integrarse el rescate, se conserva como capacidad operativa que perpetúa la fábula. La cadena que cierra el directo (la siguiente aventura ya es enviar socorro, no recibirlo) articula esta operación: Penny no abandona el mundo de Bianca y Bernardo al ser rescatada, lo reasume invertido como agente.
+
 - Implica enfrentar la [[shadow-archetype]] como prueba interior antes del retorno
 - Cuando se desactiva por escapismo, deriva en el [[sindrome-wendy]]: la espera del eterno aventurero en lugar del propio cruce del umbral
 - Forma parte del aparato con el que el canal distingue [[mitologia-propia-impropia|mitología propia de impropia]]: una obra con forma de monomito pero sin motivación interna pertenece al registro impropio
@@ -441,6 +572,28 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Distinción entre monomito y viaje del héroe junguiano**: Campbell y Jung no son idénticos; el canal los fusiona operativamente sin marcar la costura teórica
 
 ## Citations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -504,6 +657,11 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Análisis arquetípico Frozen** — chunks: [33:18](https://youtu.be/NYZEm8mcPiQ?t=1998) · [54:46](https://youtu.be/NYZEm8mcPiQ?t=3286) · [57:48](https://youtu.be/NYZEm8mcPiQ?t=3468) · [2:20:07](https://youtu.be/NYZEm8mcPiQ?t=8407)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [21:51](https://youtu.be/X2c2a3mQBOs?t=1311) · [27:56](https://youtu.be/X2c2a3mQBOs?t=1676) · [1:39:25](https://youtu.be/X2c2a3mQBOs?t=5965)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [2:16](https://youtu.be/yoWJWwYH_pE?t=136) · [1:10:52](https://youtu.be/yoWJWwYH_pE?t=4252)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [3:49](https://youtu.be/aWeuzWLrLtE?t=229) · [5:20](https://youtu.be/aWeuzWLrLtE?t=320) · [36:21](https://youtu.be/aWeuzWLrLtE?t=2181) · [39:22](https://youtu.be/aWeuzWLrLtE?t=2362) · [1:46:49](https://youtu.be/aWeuzWLrLtE?t=6409)
+- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0)
+- **Event Horizon** — chunks: [0:39](https://youtu.be/cgO7JwvwOQg?t=39)
+- **Matrix II y III** — chunks: [7:10](https://youtu.be/tkVwAclFrsI?t=430)
+- **Matrix y el camino del héroe.** — chunks: [21:45](https://youtu.be/kF5KHE_fF7g?t=1305) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
 - **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **Elisa y su CI** — chunks: [1:07:48](https://youtu.be/6tfSc45kjyo?t=4068) · [1:12:21](https://youtu.be/6tfSc45kjyo?t=4341)
 - **Gothika: De Profundis** — chunks: [1:50:45](https://youtu.be/Gx2740if0Ho?t=6645)
@@ -515,11 +673,6 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [12:42](https://youtu.be/aPbgBnidoJI?t=762)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [1:09:49](https://youtu.be/yAIPr0HzQqE?t=4189)
-- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [3:49](https://youtu.be/aWeuzWLrLtE?t=229) · [5:20](https://youtu.be/aWeuzWLrLtE?t=320) · [36:21](https://youtu.be/aWeuzWLrLtE?t=2181) · [39:22](https://youtu.be/aWeuzWLrLtE?t=2362) · [1:46:49](https://youtu.be/aWeuzWLrLtE?t=6409)
-- **Enredados: Análisis de la madre oscura en Disney.** — chunks: [0:00](https://youtu.be/OT2DW4zoKsE?t=0)
-- **Event Horizon** — chunks: [0:39](https://youtu.be/cgO7JwvwOQg?t=39)
-- **Matrix II y III** — chunks: [7:10](https://youtu.be/tkVwAclFrsI?t=430)
-- **Matrix y el camino del héroe.** — chunks: [21:45](https://youtu.be/kF5KHE_fF7g?t=1305) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [56:25](https://youtu.be/QSggWfjOkHk?t=3385)
 - **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [12:39](https://youtu.be/CEa517aakr8?t=759)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [6:59](https://youtu.be/iPqOn-ynSlE?t=419) · [15:01](https://youtu.be/iPqOn-ynSlE?t=901)
@@ -527,8 +680,8 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:25:25](https://youtu.be/DNxx4qwb944?t=5125)
 - **Mitología 101: Teseo y Ariadna** — chunks: [41:17](https://youtu.be/b03AszdViNw?t=2477)
 - **¿Qué es la magia?** — chunks: [59:48](https://youtu.be/AMXVKxN0Ccw?t=3588)
+- **Cuento contigo (resub)** — chunks: [28:33](https://youtu.be/6oOGKh2TRHE?t=1713)
 - **Podcast Puppetland: El Principito** — chunks: [6:13](https://youtu.be/Q0uCvOLRR2k?t=373)
 - **Puppetland, capítulo cero.** — chunks: [5:17](https://youtu.be/7O_f3spU184?t=317)
-- **Cuento contigo (resub)** — chunks: [28:33](https://youtu.be/6oOGKh2TRHE?t=1713)
 - **De Platón A The Matrix** — chunks: [13:41](https://youtu.be/zr_ZKX60N54?t=821) · [17:45](https://youtu.be/zr_ZKX60N54?t=1065) · [21:51](https://youtu.be/zr_ZKX60N54?t=1311) · [28:29](https://youtu.be/zr_ZKX60N54?t=1709) · [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879) · [1:07:41](https://youtu.be/zr_ZKX60N54?t=4061)
 

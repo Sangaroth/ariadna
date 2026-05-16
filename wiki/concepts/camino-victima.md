@@ -186,6 +186,34 @@ La consecuencia operativa precisa una pieza nueva sobre la salida: el camino-ví
 
 
 
+## Feminismo militante como cristalización adulta del camino-víctima
+
+El análisis arquetípico de [[barbie-2023-film|Barbie]] articula la pieza que extiende la categoría hacia su modalidad adulta: el feminismo militante como **vehículo adulto** del camino-víctima. La identificación regresiva que [[harry-potter-saga|Harry Potter]] ofrece a la preadolescencia y [[frozen-2013-film|Frozen]] al espectador-víctima Disney encuentra en el discurso feminista su formulación adulta — la posición de víctima del patriarcado opera estructuralmente igual que la posición de víctima del bullying en Hogwarts: gratuidad de la elección (se nace mujer y por tanto víctima), agentes externos malvados que justifican el sufrimiento, ausencia de transformación interior como condición de la salida.
+
+> "Cuando la Stacy intenta enfrentarse a la realidad, sus mecanismos de defensa imaginarios hacen que luche de forma imaginaria: se hace feminista,"
+→ [No entendiste Barbie. Análisis arquetípico (1:33:28)](https://youtu.be/CEa517aakr8?t=5608)
+
+> "Barbie va a Matel como una feminista que pide al patriarcado que le devuelva el mundo mágico y la empodere,"
+→ [No entendiste Barbie. Análisis arquetípico (1:24:52)](https://youtu.be/CEa517aakr8?t=4492)
+
+La pieza completa el catálogo: el camino-víctima requiere agentes que sostengan estructuralmente la posición. Donde Harry Potter requiere los Dursley y Voldemort (figuras concretas), Frozen requiere los padres-represores (figuras parentales arquetípicas), el camino-víctima adulta requiere una abstracción institucional sostenedora — el patriarcado como Voldemort difuso. La operación es estructuralmente idéntica: elaboración de una conspiración externa que valida la posición pasiva.
+
+### La conspiración imaginaria como mecanismo defensivo refractario a refutación
+
+> "En lugar de aprender su nueva visión sobre los hombres, la mente elabora una conspiración donde los Kens quieren apoderarse de todo,"
+→ [No entendiste Barbie. Análisis arquetípico (1:40:03)](https://youtu.be/CEa517aakr8?t=6003)
+
+> "Cuando se encuentra con la realidad dice que es patriarcal; cuando algo le gusta lo idealiza como un Ken: disociación permanente,"
+→ [No entendiste Barbie. Análisis arquetípico (1:40:03)](https://youtu.be/CEa517aakr8?t=6003)
+
+> "No puedes convencer a una Stacy de que el feminismo es mentira porque forma parte de su mecánica evasiva casi alucinatoria,"
+→ [No entendiste Barbie. Análisis arquetípico (1:33:28)](https://youtu.be/CEa517aakr8?t=5608)
+
+La consecuencia operativa precisa una pieza nueva sobre la salida: el camino-víctima adulto NO está dispuesto a aceptar refutación empírica de su elaboración conspirativa porque la elaboración misma es el mecanismo de defensa. Argumentar contra la posición de víctima a quien la habita estructuralmente equivale a privarle del aparato psíquico que sostiene su yo. La respuesta no puede ser racional sino crisis, agresividad o doble disociación: la realidad que confirma se idealiza como excepción ('los Ken que me gustan'), la realidad que refuta se reinterpreta como instancia del sistema opresor ('eso es patriarcal'). La pieza cierra parcialmente la laguna 'Salida del camino de la víctima' en sentido inverso: la salida NO opera por argumentación porque el aparato es defensivo, no cognitivo — requiere intervención sobre la matriz afectiva subyacente (vector etiológico padre-ausente articulado en [[sindrome-wendy]]).
+
+
+
+
 ## Lagunas
 
 <!-- LAGUNA POSSIBLY RESOLVED por update reciente — verificar y borrar este bullet si confirmado: Otros casos del corpus: el speaker menciona telenovelas y "Por 13 razones" como -->

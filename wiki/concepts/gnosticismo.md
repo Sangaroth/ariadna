@@ -229,6 +229,13 @@ La pieza precisa el mecanismo psicológico subyacente: los gnósticos NO descubr
 
 
 
+
+
+
+
+
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [33:13](https://youtu.be/Dtp1_RLb7S0?t=1993) · [37:16](https://youtu.be/Dtp1_RLb7S0?t=2236) · [41:18](https://youtu.be/Dtp1_RLb7S0?t=2478) · [46:22](https://youtu.be/Dtp1_RLb7S0?t=2782) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097) · [1:46:17](https://youtu.be/Dtp1_RLb7S0?t=6377)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [1:13:56](https://youtu.be/1WEQmzUM41M?t=4436)
 

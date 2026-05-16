@@ -132,6 +132,7 @@ La figura del Nota fija el polo del antihéroe — sin virtudes ni gloria, arras
 
 
 
+
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [9:49](https://youtu.be/yoWJWwYH_pE?t=589) · [20:25](https://youtu.be/yoWJWwYH_pE?t=1225) · [59:16](https://youtu.be/yoWJWwYH_pE?t=3556) · [1:01:47](https://youtu.be/yoWJWwYH_pE?t=3707)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [0:00](https://youtu.be/aPbgBnidoJI?t=0)
 

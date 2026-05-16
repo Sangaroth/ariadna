@@ -156,14 +156,20 @@ Refinamiento del canal sobre el camino: la individuación NO es solo descender a
 
 
 
+
+
+
+
+
+
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:38:11](https://youtu.be/_0BM2jMsWdc?t=5891)
 
 - **Análisis arquetípico Inside Out** — chunks: [3:01:18](https://youtu.be/V-ixEcJuLzw?t=10878)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [12:42](https://youtu.be/L4ayDmaUO9Y?t=762)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [12:16](https://youtu.be/wIhH72UFUPY?t=736)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [13:17](https://youtu.be/lw7XI2lQntM?t=797)
 - **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [1:12:47](https://youtu.be/4P5hxaG7i6c?t=4367)
 - **Se celebrarán juicios** — chunks: [8:06](https://youtu.be/hCc-gsoLZj4?t=486)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [18:34](https://youtu.be/yAIPr0HzQqE?t=1114)
-- **Del origen del mal (III): La fe y los demonios.** — chunks: [12:42](https://youtu.be/L4ayDmaUO9Y?t=762)
 - **Lilith: La Iconotropía.** — chunks: [37:32](https://youtu.be/xKCD8PaexF0?t=2252)
 

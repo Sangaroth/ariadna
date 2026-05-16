@@ -113,6 +113,25 @@ En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-202
 La precisión articula la asimetría estructural: lo que el canal sostiene como ilusión funcional en humanos (libre albedrío como representación operativa de planificación anticipatoria sobre afectos como ponderadores) carece de equivalente en máquinas porque carecen del sustrato afectivo sobre el que se pondera. La máquina no opera con la ilusión del libre albedrío porque no necesita la representación funcional — su procedimiento de decisión ES el determinismo causal sin disfraz fenomenológico. La consecuencia para [[golem-de-cobre]] es directa: la barrera afectiva ya documentada en esa página opera también en el plano de la decisión — no solo las máquinas no representan ni sienten, tampoco deciden, en el sentido en el que la cognición humana decide.
 
 
+,"
+→ [Lunes sin política (2:11:01)](https://youtu.be/r1SmCsNmLh0?t=7861)
+
+## Libre albedrío vs computación: las máquinas no deciden
+
+En el directo *Libertad, inteligencia, felicidad y crisis de pareja* (06-may-2025) el canal extiende la tesis del libre albedrío como ilusión funcional al contraste con la computación artificial — flanco que el monográfico previo no articulaba directamente.
+
+> "El libre albedrío humano se manifiesta en la planificación anticipatoria: evocar mentalmente escenarios que no están ocurriendo y actuar en consecuencia,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)
+
+> "Sin afectos no hay decisiones, solo computaciones; las decisiones son ponderaciones entre preferencias afectivas,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)
+
+> "Las máquinas no deciden porque no eligen: sus procedimientos de decisión son concatenaciones deterministas de computaciones,"
+→ [Libertad, inteligencia, felicidad y crisis de pareja (1:32:59)](https://youtu.be/ZlO5o786u90?t=5579)
+
+La precisión articula la asimetría estructural: lo que el canal sostiene como ilusión funcional en humanos (libre albedrío como representación operativa de planificación anticipatoria sobre afectos como ponderadores) carece de equivalente en máquinas porque carecen del sustrato afectivo sobre el que se pondera. La máquina no opera con la ilusión del libre albedrío porque no necesita la representación funcional — su procedimiento de decisión ES el determinismo causal sin disfraz fenomenológico. La consecuencia para [[golem-de-cobre]] es directa: la barrera afectiva ya documentada en esa página opera también en el plano de la decisión — no solo las máquinas no representan ni sienten, tampoco deciden, en el sentido en el que la cognición humana decide.
+
+
 ## Voluntad como análisis a posteriori, decisiones afectivas y coherencia como aproximación operativa
 
 En el directo *¿Porqué el amor? Introducción: Libertad y lo que Surja* (16 dic 2024) el canal articula tres piezas que cierran flancos del marco articulado en esta página: el estatuto categorial de la voluntad como reconstrucción retrospectiva, el carácter afectivo de toda decisión, y la sustitución operativa del par voluntad/libertad por coherencia/responsabilidad.
@@ -203,12 +222,18 @@ La pieza cierra la articulación humano/máquina del marco con asimetría tempor
 
 
 
+
+
+
+
+
 - **Lunes sin política** — chunks: [1:42:11](https://youtu.be/r1SmCsNmLh0?t=6131) · [2:00:50](https://youtu.be/r1SmCsNmLh0?t=7250) · [2:11:01](https://youtu.be/r1SmCsNmLh0?t=7861)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [7:30](https://youtu.be/hx9creRpdnY?t=450)
-- **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:32:59](https://youtu.be/ZlO5o786u90?t=5579)
-- **Análisis: La Llegada (Parte dos)** — chunks: [1:50:06](https://youtu.be/tOn66qFS2-M?t=6606)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [19:17](https://youtu.be/L4ayDmaUO9Y?t=1157)
 - **Matrix II y III** — chunks: [1:04:44](https://youtu.be/tkVwAclFrsI?t=3884) · [2:06:31](https://youtu.be/tkVwAclFrsI?t=7591)
+- **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [1:32:59](https://youtu.be/ZlO5o786u90?t=5579)
+- **Análisis: La Llegada (Parte dos)** — chunks: [1:50:06](https://youtu.be/tOn66qFS2-M?t=6606)
 - **Un Gólem llamado Prometeo** — chunks: [1:40:07](https://youtu.be/lk3DKsIagAE?t=6007)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [43:28](https://youtu.be/O4OkDuc3uPQ?t=2608)
+- **Proxy le explica a Exit el "hard problem" y el "soft problem" de la conciencia,** — chunks: [45:13](https://youtu.be/rjG3RbEYcL0?t=2713)
 

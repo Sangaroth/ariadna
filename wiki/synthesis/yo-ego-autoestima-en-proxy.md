@@ -166,6 +166,51 @@ La lógica es contraintuitiva pero estructural: el feedback **erróneo** ('eres 
 La pieza extiende el mecanismo etiológico al plano social: si la formación del yo individual requiere feedback parental con roles definidos, una sociedad que disuelve esos roles a escala colectiva fabrica el cuadro a escala poblacional. La consecuencia no es que cada sujeto desarrolle psicosis clínica, sino que la coordinación social misma se vuelve disocial — vínculos débiles donde nadie importa verdaderamente a nadie, comportamientos erráticos y alucinatorios como respuesta colectiva normalizada al déficit estructural de feedback. La pieza enlaza con [[psicologia-del-activista-en-proxy]] (perfil disocial como manifestación política) y con [[fenomenologia-trans-en-proxy]] (la negación del feedback de género como caso particular del mecanismo: si los roles parentales se disuelven y además se elimina el feedback sobre el sexo del niño, la condición esquizogénica se compone).
 
 
+
+## Distocia → esquizoipia: gradiente de severidad y etiología por feedback
+
+En el directo *León XIV, y George Floyd* (13 may 2025) el canal precisa la categoría 'ego distócico' que esta página articula como uno de los tres modos de neurosis del ego, añadiendo gradiente de severidad y mecanismo etiológico-desarrollista que la formulación inicial dejaba implícitos.
+
+### El motor biológico de la formación identitaria
+
+> "Existe un mecanismo biológico que dice 'quiero ser algo para los demás' y eso forma parte de la personalidad profunda"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+La pieza ancla la taxonomía yo/ego/self/autoimagen en sustrato motivacional biológico: la identidad no es construcción puramente reflexiva sino que está propulsada por una pulsión filogenética hacia el reconocimiento por otros. 'Quiero ser algo para los demás' opera como vector estructural de la personalidad profunda — no como deseo episódico ni como afecto secundario. La consecuencia operativa es que el yo no se constituye sin el otro como espejo: la integración del yo descrita en el aparato exige feedback externo que confirme o desmienta el ideal del yo emergente.
+
+### Gradiente: distocia → esquizoipia
+
+> "Cuando la personalidad primaria y el ideal del yo están desalineados se produce distocia del yo"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+> "Si la separación entre yo y super-yo es total, ya no es distocia sino esquizoipia"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+La precisión añade resolución clínica al cuadro 'ego distócico' que la página alojaba como una de las tres neurosis. La distocia es **desalineación parcial** entre personalidad primaria (lo que el sujeto efectivamente es) e ideal del yo (lo que aspira a ser); cuando la desalineación se vuelve **separación total** el cuadro cruza al espectro esquizo y se nombra esquizoipia. El gradiente importa metodológicamente: la categoría 'ego distócico' no agrupa cuadros homogéneos sino un espectro cuyo extremo severo deja de ser neurosis del ego y entra en organización psicótica. La continuidad fenomenológica entre los dos polos del espectro explica por qué cuadros disociativos pueden evolucionar (en cualquier dirección) durante la vida del sujeto sin transición discreta entre categorías.
+
+### Etiología por feedback de refuerzo
+
+La pieza más operativa que el directo añade es la etiología desarrollista del cuadro: la identidad no se descubre por introspección autónoma sino por contraste con feedback externo durante la formación, y la calidad del feedback determina si el yo se integra coherentemente.
+
+> "Sin feedback de refuerzo sobre quién es el niño, este no descubre su identidad por sí mismo: el mundo nos envía mensajes sobre lo que somos"
+→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)
+
+> "Incluso equivocarse en el feedback es mejor que no dar ninguno, porque el error permite descubrir la verdad por contraste"
+→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)
+
+> "La crianza sin referencias es esquizogénica: produce trastornos del espectro esquizo donde el yo carece de autoimagen"
+→ [León XIV, y George Floyd (1:02:08)](https://youtu.be/oDpJ_EJDDfw?t=3728)
+
+La lógica es contraintuitiva pero estructural: el feedback **erróneo** ('eres tímido' cuando no lo eres) es operativamente **mejor** que la ausencia de feedback, porque el sujeto puede descubrir su verdad por contraste con el error explícito. La ausencia total de feedback deja al sujeto sin sistema referencial contra el cual calibrar su autoimagen — la identidad no se forma porque la operación misma de constituirla requiere un eje de comparación externo. La consecuencia clínica es la esquizogénesis: la crianza sin referencias produce sujetos cuyo yo carece de autoimagen estable, condición etiológica de los trastornos del espectro esquizo. Es la versión desarrollista del gradiente distocia → esquizoipia articulado arriba: la separación total entre personalidad primaria e ideal del yo (que define esquizoipia) es la consecuencia esperable de la ausencia sistemática de feedback durante la formación.
+
+### Consecuencia social: tribus sin roles parentales
+
+> "Tribus sin roles parentales definidos producen sociedades disociales donde nadie importa verdaderamente a nadie, con comportamientos erráticos y alucinatorios"
+→ [León XIV, y George Floyd (1:07:42)](https://youtu.be/oDpJ_EJDDfw?t=4062)
+
+La pieza extiende el mecanismo etiológico al plano social: si la formación del yo individual requiere feedback parental con roles definidos, una sociedad que disuelve esos roles a escala colectiva fabrica el cuadro a escala poblacional. La consecuencia no es que cada sujeto desarrolle psicosis clínica, sino que la coordinación social misma se vuelve disocial — vínculos débiles donde nadie importa verdaderamente a nadie, comportamientos erráticos y alucinatorios como respuesta colectiva normalizada al déficit estructural de feedback. La pieza enlaza con [[psicologia-del-activista-en-proxy]] (perfil disocial como manifestación política) y con [[fenomenologia-trans-en-proxy]] (la negación del feedback de género como caso particular del mecanismo: si los roles parentales se disuelven y además se elimina el feedback sobre el sexo del niño, la condición esquizogénica se compone).
+
+
 ## Divergencias frente al canon
 
 - Frente a [[jung-carl-gustav]]: en Jung el self es la totalidad integrada y el yo es solo la parte consciente; el canal invierte la nomenclatura (el yo es la totalidad, el self es la parte consciente). La meta de la [[individuation]] sigue siendo equivalente, pero el vocabulario no es trasladable sin traducción.
@@ -193,6 +238,75 @@ La precisión anatómica se completa con la atribución funcional del lóbulo pa
 → [Psicología 101: El cerebro por dentro (1:24:21)](https://youtu.be/jWxfmiiUuG4?t=5061)
 
 La consecuencia operativa para la taxonomía es nítida: la distinción yo / self no es solo conceptual, también es anatómica. La referencia propioceptiva-fenomenológica que sostiene el organismo (presente en animales con córtex parietal pero sin prefrontal complejo) corresponde al polo inconsciente del yo en el vocabulario de esta página, y solo deviene self consciente cuando la metarrepresentación prefrontal opera sobre ella. La pieza acota además la vulnerabilidad del cuadro: daños frontales pueden disolver el self consciente sin afectar la referencia fenomenológica que sigue operando como organismo, lo que ilumina la frontera operativa entre estados disociativos (ego distócico, descrito arriba) y conservación somática del cuerpo. Y precisa parcialmente la laguna sobre el estatus del inconsciente dentro del yo: la referencia propioceptiva preconsciente es uno de los contenidos del polo inconsciente del yo, distinta de los arquetipos transpersonales del [[collective-unconscious]].
+
+
+
+## El yo como metarrepresentación: armadura cognitivo-filosófica del aparato
+
+En el directo monográfico *La teoría de la teoría de la mente* (28 may 2025) el canal articula la armadura cognitivo-filosófica del yo que esta página presuponía: el yo es **metarrepresentación**, la identidad es **síntesis episódica**, y el super-yo es **conjunto de ficciones proyectadas**. Las tres piezas amplían la taxonomía clínica con su fundamentación cognitiva.
+
+### El yo como metarrepresentación construida por exclusión
+
+> "El yo es una representación, y además una metarrepresentación: no solo tienes idea de ti mismo, sino que te concibes como sujeto diferente del entorno,"
+→ [La teoría de la teoría de la mente (1:16:22)](https://youtu.be/zASckAZqmfM?t=4582)
+
+> "Los perros tienen un proto-yo pero no metarrepresentan, por eso no desarrollan personalidad,"
+→ [La teoría de la teoría de la mente (1:16:22)](https://youtu.be/zASckAZqmfM?t=4582)
+
+> "El yo se construye por exclusión: \"esto no soy yo, esto es una cosa, esto es mi madre, esto es mi brazo pero no soy yo\","
+→ [La teoría de la teoría de la mente (1:16:22)](https://youtu.be/zASckAZqmfM?t=4582)
+
+La distinción **representación / metarrepresentación** separa el proto-yo de los mamíferos (autoimagen no reflexiva en perros, gatos) del yo humano pleno (la idea del yo SOBRE el yo, capacidad de pensarse desde fuera). El procedimiento constructivo no es afirmativo sino **excluyente** — el yo emerge negando contenidos: esto no soy, esto no es mi madre, esto es mi brazo pero no soy yo. Consecuencia operativa: el yo no es núcleo positivo sino residuo de exclusiones.
+
+### Componentes 3Q del yo: afecto-sujeto-espacio
+
+> "El yo contiene necesidades (afectos), una autoimagen (cuerpo como forma sobre fondo) y recuerdos,"
+→ [La teoría de la teoría de la mente (1:18:25)](https://youtu.be/zASckAZqmfM?t=4705)
+
+> "La memoria episódica está imbricada con el yo porque no es simplemente algo que ocurrió, sino algo que ocurrió estando nosotros en el centro de la acción,"
+→ [La teoría de la teoría de la mente (1:18:25)](https://youtu.be/zASckAZqmfM?t=4705)
+
+> "La memoria episódica se compone de emociones en un espacio con una forma: afecto-sujeto-espacio, las tres componentes de la psique humana,"
+→ [La teoría de la teoría de la mente (1:18:25)](https://youtu.be/zASckAZqmfM?t=4705)
+
+La pieza articula la tríada componencial del yo en términos de la tríada 3Q general (afectiva / imaginaria / formal-espacial). La memoria episódica no es contenedor neutro: es **emoción + sujeto + espacio**. La centralidad del yo en cada recuerdo es estructural — sin yo no hay memoria episódica, solo registro semántico de hechos.
+
+### Identidad como síntesis episódica
+
+> "La identidad es la recapitulación en el yo de todas las experiencias vividas: un resumen de las vivencias,"
+→ [La teoría de la teoría de la mente (1:23:05)](https://youtu.be/zASckAZqmfM?t=4985)
+
+> "\"Mi pasado es bueno/malo/hábil/fracaso\" son significaciones que emergen de recapitular todas las memorias episódicas,"
+→ [La teoría de la teoría de la mente (1:23:05)](https://youtu.be/zASckAZqmfM?t=4985)
+
+> "El yo se proyecta hacia el futuro tomando la síntesis de la identidad y generando fantasías o ficciones sobre lo que vendrá,"
+→ [La teoría de la teoría de la mente (1:23:05)](https://youtu.be/zASckAZqmfM?t=4985)
+
+La identidad queda articulada como **operación de síntesis** sobre el conjunto de memorias episódicas: 'soy hábil' / 'soy fracaso' / 'soy buena persona' no son atributos sino significaciones que emergen del trabajo recapitulativo del yo sobre la totalidad del archivo episódico. Esta articulación enlaza con [[crisis-de-identidad-en-proxy]] — la crisis ocurre cuando la síntesis ya no integra el archivo o cuando aparecen contraevidencias episódicas que la síntesis no puede absorber.
+
+### El super-yo como conjunto de ficciones proyectadas
+
+> "El super-yo es una identidad proyectada: \"no soy así, pero quiero ser así\" (deber ser),"
+→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)
+
+> "El narcisismo patológico es un super-yo donde el sujeto cree que es lo que en realidad es ficción,"
+→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)
+
+> "El narcisista sufre porque la realidad no le devuelve el feedback de lo que cree ser; la disonancia entre ficción y realidad causa sufrimiento,"
+→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)
+
+La pieza articula el super-yo no como instancia moral freudiana (heredada del padre) sino como **proyección identitaria futura** — el deber ser, la identidad proyectada que no soy todavía. El narcisismo patológico es operativamente el colapso de la distinción entre yo (lo que efectivamente soy según la síntesis episódica) y super-yo (lo que aspiro a ser): el narcisista trata su super-yo como yo, y la realidad no devuelve feedback porque el feedback es sobre lo que realmente es. La definición refina el cuadro 'narcisismo distócico desmedido' de la sección 'Trastorno narcisista': la distocia es precisamente la colusión yo↔super-yo, no exceso de merecimiento aislado.
+
+### Por qué la curación es necesariamente externa
+
+> "La psique no se concibe a sí misma: para tener un yo hay que metarrepresentar, y la metarrepresentación usa clases externas,"
+→ [La teoría de la teoría de la mente (1:32:20)](https://youtu.be/zASckAZqmfM?t=5540)
+
+> "Todas las clases con las que construimos la autoimagen existen para representar el exterior, no el interior,"
+→ [La teoría de la teoría de la mente (1:36:34)](https://youtu.be/zASckAZqmfM?t=5794)
+
+Consecuencia teleosemántica para el aparato del yo: las clases cognitivas son **en-activas** (orientadas al exterior por origen), por lo que el yo solo puede construirse usando esas mismas clases — desde fuera, reflexivamente. No hay autoaprehensión directa del interior. Toda fantasía sobre uno mismo opera sobre la autoimagen (yo como objeto visto desde fuera) y nunca sobre el yo qua interior puro. La consecuencia clínica: las distorsiones del yo no son distorsiones del interior sino de la operación reflexiva con que el yo se construye con clases externas — y por eso son corregibles por **feedback externo** (terapia, vínculos correctivos) en lugar de por introspección pura. Esto refina la laguna sobre operatividad terapéutica de las tres neurosis del ego: la vía es necesariamente externa, nunca puramente interior.
+
 
 
 ## Lagunas

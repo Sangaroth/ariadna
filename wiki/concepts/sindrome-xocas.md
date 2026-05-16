@@ -235,6 +235,53 @@ La pieza completa la cobertura del síndrome con sus dos polos genealógicos: tr
 
 
 
+## Candela como caso operativo femenino: el síndrome aplicado a la ambivalencia heredada
+
+El monográfico de noviembre 2023 sobre [[elemental-2023-film|Elemental]] articula un caso operativo del síndrome aplicado a un personaje femenino con núcleo afectivo articulado, lo que la página tenía declarado como laguna ('Contraparte femenina: el caso de Molly se introduce como análogo pero el canal no desarrolla si el síndrome adopta forma específica según el polo arquetípico padre/madre'). Candela como protagonista permite ver el síndrome operando con detalle clínico que el caso del streamer Xocas no desplegaba.
+
+> "Candela tiene síndrome del chocas: necesidad obsesiva de cumplir con el objetivo porque si para va a encontrarse con su propia ambivalencia,"
+→ [Análisis arquetípico de Elemental (42:33)](https://youtu.be/p8ZInoDuE50?t=2553)
+
+> "La ambivalencia es la epidemia del siglo XXI: no aceptar algo que está en tu interior y empeñarte en luchar contra eso,"
+→ [Análisis arquetípico de Elemental (42:33)](https://youtu.be/p8ZInoDuE50?t=2553)
+
+> "La sensación de vivir en plena ambivalencia es explosiva, dolorosa, angustiante y confusa,"
+→ [Análisis arquetípico de Elemental (42:33)](https://youtu.be/p8ZInoDuE50?t=2553)
+
+### El núcleo afectivo: dos cántaros incompatibles
+
+La pieza diagnóstica decisiva del caso Candela articula con precisión el material afectivo que la carrera obsesiva canaliza:
+
+> "Su ambivalencia es \"necesito que se preocupen por mí pero estoy demasiado ocupada preocupándome por mi padre\","
+→ [Análisis arquetípico de Elemental (1:27:24)](https://youtu.be/p8ZInoDuE50?t=5244)
+
+> "Candela descubre que lo que siempre ha querido es que alguien se preocupe únicamente por ella, y al comprenderlo se derrumba,"
+→ [Análisis arquetípico de Elemental (1:27:24)](https://youtu.be/p8ZInoDuE50?t=5244)
+
+> "Cuando alguien le quita uno de los dos cántaros emocionales, colapsa hacia el otro lado,"
+→ [Análisis arquetípico de Elemental (1:27:24)](https://youtu.be/p8ZInoDuE50?t=5244)
+
+La **metáfora de los cántaros** completa la imagen del lagarto-sobre-el-agua que la página articulaba. El sujeto carga con dos cántaros emocionales incompatibles — necesidad de ser cuidado + necesidad de cuidar al otro — y mantiene el equilibrio precario corriendo sin poder soltar ninguno. Si suelta el cántaro del cuidado al padre (deja de preocuparse por su frustración), pierde la legitimidad familiar para reclamar cuidado. Si suelta el cántaro de la necesidad de cuidado (renuncia a recibir), queda con la sola obligación de cuidar y se vacía. La carrera obsesiva opera como dispositivo de no-tener-que-elegir entre cántaros incompatibles.
+
+### La especificación femenina: ambivalencia heredada del padre vs trauma de rechazo
+
+La página articulaba que el caso del streamer Xocas combina trauma de rechazo paterno + falta de atención materna paralela. El caso Candela articula una variante específicamente femenina del síndrome donde el material no es trauma de rechazo sino **ambivalencia heredada del padre por neurosis paterna**.
+
+> "El origen de la ira de Candela es querer ser una buena hija: el mismo conflicto que azulín, no querer decepcionar al padre,"
+→ [Análisis arquetípico de Elemental (1:39:01)](https://youtu.be/p8ZInoDuE50?t=5941)
+
+> "La culpa heredada dice: si veo a mi padre sacrificándose, yo también me tengo que sacrificar,"
+→ [Análisis arquetípico de Elemental (1:39:01)](https://youtu.be/p8ZInoDuE50?t=5941)
+
+> "El deber heredado no es su única opción pero es lo único que ha podido aprender,"
+→ [Análisis arquetípico de Elemental (1:39:01)](https://youtu.be/p8ZInoDuE50?t=5941)
+
+La modalidad femenina opera con génesis distinta de la masculina. Donde el caso Xocas se organiza por trauma de rechazo (demostración compulsiva del propio valor frente al padre que rechazó), el caso Candela se organiza por **deber heredado por identificación con el sacrificio paterno** — la hija ve al padre sacrificándose por la familia y siente que ella también debe sacrificarse por la obra paterna. La carrera obsesiva opera entonces no como demostración de valor sino como **continuación del proyecto paterno** que el sujeto no puede declinar sin sentirse mala hija.
+
+La pieza completa la cobertura del síndrome con sus dos polos genealógicos: trauma de rechazo (Xocas, polo masculino) vs deber heredado por identificación (Candela, polo femenino). Ambos comparten estructura operativa (carrera sobre el agua, imposibilidad de detenerse, meta utópica) pero divergen en el material afectivo que la carrera canaliza. La salida clínica diferencial sería igualmente distinta: el Xocas requiere aceptar que vale incluso si no es número uno; Candela requiere aceptar que ser buena hija no la obliga a continuar el sueño paterno como propio.
+
+
+
 ## Tratamiento y trayectoria
 
 El canal esboza una propuesta terapéutica concreta para este patrón, articulada como combinación de tres herramientas:

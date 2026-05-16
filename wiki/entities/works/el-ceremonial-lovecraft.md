@@ -126,5 +126,6 @@ Esta apertura apunta a la categoría del mysterium fascinans: lo numinoso como p
 ## Citations
 
 
+
 - **Terror: Lovecraft y lo incompleto.** — chunks: [1:28:57](https://youtu.be/JzfcmEKWm1c?t=5337)
 

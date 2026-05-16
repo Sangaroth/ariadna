@@ -145,5 +145,6 @@ Este uso de la ciencia ficción como herramienta epistémica sitúa a Asimov den
 ## Citations
 
 
+
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [39:46](https://youtu.be/celiAdqrHYA?t=2386) · [49:52](https://youtu.be/celiAdqrHYA?t=2992)
 

@@ -151,5 +151,6 @@ La feminidad fundamental no es proyección (ánima) ni figura mítica (Diosa Bla
 ## Citations
 
 
+
 - **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [9:37](https://youtu.be/CEa517aakr8?t=577) · [1:45:06](https://youtu.be/CEa517aakr8?t=6306) · [2:11:24](https://youtu.be/CEa517aakr8?t=7884) · [2:18:29](https://youtu.be/CEa517aakr8?t=8309) · [2:26:17](https://youtu.be/CEa517aakr8?t=8777)
 

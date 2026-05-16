@@ -141,6 +141,10 @@ La menarquía cifra la primera puerta biológica estructural por la que la inoce
 
 
 
+
+
+
+
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [14:44](https://youtu.be/t8v5w3s0USA?t=884)
 - **Análisis arquetípico: Asimov y Lovecraft.** — chunks: [53:00](https://youtu.be/celiAdqrHYA?t=3180)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [1:43:23](https://youtu.be/TmQiM16HIpU?t=6203)

@@ -171,5 +171,10 @@ Este diagnóstico amplía y especifica lo desarrollado en [[magia-supersticion-r
 ## Citations
 
 
+
+
+
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [54:48](https://youtu.be/4P5hxaG7i6c?t=3288)
+- **Magia, superstición y Religión** — chunks: [1:01:51](https://youtu.be/IbOb3peBSMs?t=3711)
 - **¿Qué es la magia?** — chunks: [1:10:41](https://youtu.be/AMXVKxN0Ccw?t=4241)
 

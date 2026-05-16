@@ -144,13 +144,40 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **Por fin** — chunks: [53:01](https://youtu.be/7jT13kHNlBA?t=3181)
+- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:14:58](https://youtu.be/UOk344kEeRM?t=4498) · [1:19:32](https://youtu.be/UOk344kEeRM?t=4772)
+- **Matrix II y III** — chunks: [3:36](https://youtu.be/tkVwAclFrsI?t=216)
+- **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [1:04:24](https://youtu.be/NjtK76xzV18?t=3864)
 - **El Hate Bombing de la izquierda.** — chunks: [1:02:47](https://youtu.be/DTP3syEtxP4?t=3767) · [1:06:19](https://youtu.be/DTP3syEtxP4?t=3979)
 - **El síndrome de Wendy** — chunks: [52:26](https://youtu.be/L7oSZTTK8Gg?t=3146) · [55:30](https://youtu.be/L7oSZTTK8Gg?t=3330) · [1:43:51](https://youtu.be/L7oSZTTK8Gg?t=6231)
 - **Ha vuelto a ocurrir.** — chunks: [1:34:59](https://youtu.be/C0Io49giVY8?t=5699)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [1:06:59](https://youtu.be/IUMYn7Iier8?t=4019)
 - **Libertad, inteligencia, felicidad y crisis de pareja.** — chunks: [59:25](https://youtu.be/ZlO5o786u90?t=3565)
-- **Por fin** — chunks: [53:01](https://youtu.be/7jT13kHNlBA?t=3181)
-- **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:14:58](https://youtu.be/UOk344kEeRM?t=4498) · [1:19:32](https://youtu.be/UOk344kEeRM?t=4772)
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [1:08:06](https://youtu.be/BdVsvhTWWew?t=4086)
 - **T5x02: No Love Land** — chunks: [25:14](https://youtu.be/EjAVFdSVtbU?t=1514) · [40:36](https://youtu.be/EjAVFdSVtbU?t=2436) · [56:09](https://youtu.be/EjAVFdSVtbU?t=3369)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:03:18](https://youtu.be/NKFWUxt5VQ4?t=3798)
@@ -163,11 +190,11 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [2:32:49](https://youtu.be/TmQiM16HIpU?t=9169)
 - **Cuento de Navidad y el espíritu Luterano** — chunks: [22:44](https://youtu.be/7LTa7-tZwv0?t=1364)
-- **Matrix II y III** — chunks: [3:36](https://youtu.be/tkVwAclFrsI?t=216)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [1:10:03](https://youtu.be/QSggWfjOkHk?t=4203)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [4:57](https://youtu.be/iPqOn-ynSlE?t=297)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:41:38](https://youtu.be/nw7fSEAJr-U?t=6098)
 - **Filosofía y ciencia del dolor** — chunks: [53:32](https://youtu.be/vgS1u1Kejkk?t=3212) · [1:16:43](https://youtu.be/vgS1u1Kejkk?t=4603)
 - **Mitología 101: Teseo y Ariadna** — chunks: [1:00:28](https://youtu.be/b03AszdViNw?t=3628)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [36:52](https://youtu.be/O4OkDuc3uPQ?t=2212)
+- **"Hikikomori" Luna roja sobre el varón. Parte I** — chunks: [1:58:10](https://youtu.be/mWzi6Mjbjvk?t=7090)
 

@@ -140,6 +140,25 @@ El canal añade además una matización del cuadro disocial del Frente Obrero qu
 La precisión disocia diagnóstico clínico de juicio analítico: que el perfil sea patológico no significa que toda inferencia política que produce sea falsa. Donde el activista boomer "deeply concerned" se queda en la indignación intelectual, el perfil disocial-beligerante reconoce el plano material — la fuerza, la preparación ciudadana — donde se juega efectivamente la disposición política. La pieza no rehabilita el cuadro psicológico; señala que la patología puede coincidir con un acierto operativo precisamente sobre la dimensión que el cuadro sano (pero adormecido) ignora.
 
 
+## El 15M boomer y la trampa del "deeply concerned"
+
+En un directo posterior el canal vuelve sobre el legado psicológico del 15M con un diagnóstico afilado: el movimiento fracasó no por falta de razón sino por confundir indignación intelectual con acción material, y ese error sigue operando hoy en el perfil sociodemográfico que lo protagonizó.
+
+> "El 15M fracasó porque creía que bastaba con indignarse intelectualmente; los boomers socialdemócratas siguen en esa trampa del 'deeply concerned'"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (50:51)](https://youtu.be/2CsRnGBT9gg?t=3051)
+
+La trampa del "deeply concerned" cierra el diagnóstico del activista boomer: la posición moral declarativa sustituye a la acción y el sujeto cree haber actuado por el solo hecho de haber expresado preocupación. La pieza articula una **modalidad inerte** del perfil disocial que la sección anterior no captura — el activista que ya no acampa pero conserva el dispositivo afectivo (rabia legitimada por causa) sin la disposición material que daría operatividad a la rabia.
+
+### El acierto del Frente Obrero: el reconocimiento del plano material
+
+El canal añade además una matización del cuadro disocial del Frente Obrero que la lectura puramente clínica no captura: aunque el perfil sea estructuralmente disocial y narcisistamente herido, **acierta en un diagnóstico que el activismo boomer evita**.
+
+> "El Frente Obrero tiene un perfil de herida narcisista y beligerancia, pero acierta en que lo único que funciona es la fuerza y el ciudadano preparado"
+→ [La PSOE lo ha conseguido, ESTO ES PEDRO SÁNCHEZ (50:51)](https://youtu.be/2CsRnGBT9gg?t=3051)
+
+La precisión disocia diagnóstico clínico de juicio analítico: que el perfil sea patológico no significa que toda inferencia política que produce sea falsa. Donde el activista boomer "deeply concerned" se queda en la indignación intelectual, el perfil disocial-beligerante reconoce el plano material — la fuerza, la preparación ciudadana — donde se juega efectivamente la disposición política. La pieza no rehabilita el cuadro psicológico; señala que la patología puede coincidir con un acierto operativo precisamente sobre la dimensión que el cuadro sano (pero adormecido) ignora.
+
+
 ## Documentación directa: presencia del CNI y el caso Corpus
 
 El bloque incluye testimonio personal con valor documental que refuerza la tesis de la instrumentalización:
@@ -165,6 +184,7 @@ Este fragmento funciona como caso de cierre del análisis: demuestra que la acam
 - **Contraste con activismo positivo**: el análisis presenta el activismo como mecánica de captación y canalización de rabia. No se desarrolla si el canal reconoce formas de activismo político psicológicamente integradas o si la crítica es estructural a toda forma de activismo organizado.
 
 ## Citations
+
 
 
 - **El acabóse** — chunks: [1:28:49](https://youtu.be/94OQnbWfe1E?t=5329)

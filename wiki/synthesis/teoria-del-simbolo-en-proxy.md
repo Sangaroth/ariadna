@@ -129,6 +129,95 @@ Sobre ese sustrato, el speaker propone una definición operativa de símbolo: **
 - [[genesis-mitologico]] — el isomorfismo Génesis/síntesis mental encuentra en la matriz N y el UAL sus herramientas formales: cómo se compone una representación nueva desde representaciones previas.
 - [[diagrama-de-proxy]] — clasifica orientación moral-política con correlato neuropsicológico; esta tesis aporta el modelo cognitivo subyacente sobre el que esos correlatos operan.
 
+
+
+## Parte I: filosofía contra la poética (preliminar al símbolo)
+
+En el directo *Filosofía contra la poética. ¿Qué es un símbolo? Parte I* (mar 2025), preliminar al monográfico Parte 2 que articula la definición operativa del símbolo, el canal sostiene durante 55 minutos el aparato discriminante que separa filosofía de poética, ideología e idealismo. La pieza no es lateral: el speaker afirma que sin esa criba previa no puede definirse 'símbolo' desde las coordenadas del [[realismo-cognitivo]] y no desde acepciones poéticas o coloquiales.
+
+### Filosofía vs ideología vs idealismo
+
+> "Una definición incompleta que no explique todas las dimensiones de una idea es un término ideológico, no filosófico"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (00:00)](https://youtu.be/K7MAqw1q3dk?t=0)
+
+> "La ideología solo necesita ser coherente consigo misma o con sus presupuestos; la filosofía pretende ser coherente y completa"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (02:00)](https://youtu.be/K7MAqw1q3dk?t=120)
+
+> "Cuando la ideología es voluntad y deber ser respecto a un mito, es idealismo: un ismo sobre una idea suelta, difusa e inconsistente"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (02:00)](https://youtu.be/K7MAqw1q3dk?t=120)
+
+La armadura es tripartita y operacional. **Filosofía**: pretensión de completitud y coherencia no contradictoria respecto al todo de la realidad. **Ideología**: coherencia local con sus presupuestos, sin obligación de completitud. **Idealismo**: caso particular de ideología cuando la voluntad y el deber ser se ejercen sobre un mito —un ismo sobre una idea suelta, difusa e inconsistente. El criterio diagnóstico es operacional: un sintagma que no explica todas las dimensiones del fenómeno que nombra es ya término ideológico, no filosófico.
+
+### Fenomenológico vs noético: el experimento de la poción del olvido
+
+> "El qualia es lo fenomenológico (lo que se experimenta); la clase es lo noético (lo que ocurre)"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (13:28)](https://youtu.be/K7MAqw1q3dk?t=808)
+
+> "Si olvidas el evento episódico de un trauma, habrá una parte profunda noética pero no fenomenológica que modificará tu fenomenología para siempre"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (17:09)](https://youtu.be/K7MAqw1q3dk?t=1029)
+
+> "Esto es antiidealista: el mundo no es lo que percibimos, no hay ninguna noesis que no tenga consecuencias"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (17:09)](https://youtu.be/K7MAqw1q3dk?t=1029)
+
+El experimento mental cierra el flanco anti-idealista del marco. Una poción que borra el evento episódico del trauma no borra la modificación noética profunda que ese trauma instaló en la matriz N: la fenomenología episódica se vacía pero la matriz queda alterada para siempre. La consecuencia es estructural — la noesis tiene efectos permanentes en la matriz N aunque el contenido fenomenológico se borre, y por tanto el mundo no es lo que percibimos, sino el resultado físico-material de toda noesis pasada.
+
+### Filosofía como clasificación completa, poética como composición armónica
+
+> "La filosofía busca clasificación con pretensión de completitud y exigencia de coherencia (no contradictoria)"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (38:32)](https://youtu.be/K7MAqw1q3dk?t=2312)
+
+> "La poética solo necesita coherencia local, no necesita ser completa ni referirse al todo de la realidad"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (38:32)](https://youtu.be/K7MAqw1q3dk?t=2312)
+
+> "La poética es la disciplina que utiliza el lenguaje como vehículo de belleza; el sofisma estético aparece cuando se confunde poética con filosofía"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (28:55)](https://youtu.be/K7MAqw1q3dk?t=1735)
+
+La diferencia operativa es estructural y no de grado. Un discurso poético puede ser perfecto sin referirse al todo de la realidad; un discurso filosófico fragmentario es ya ideológico. El [[sofisma-estetico|sofisma estético]] queda así reformulado en su versión más limpia del corpus: es la operación por la cual una composición poética (coherencia local imaginario-afectiva) se presenta con la pretensión de cierre de una pieza filosófica. La operación no es defecto retórico — es confusión categorial entre dos disciplinas con objetos distintos.
+
+### Armonía no significa positividad
+
+> "Puedes estar enfadado y crear ideas que refuercen ese enfado; la experiencia es horrible pero satisfactoria por la coherencia entre lo que pasa y lo que quieres que pase"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (36:30)](https://youtu.be/K7MAqw1q3dk?t=2190)
+
+> "La crucifixión de Cristo es terrible pero armónica: se puede hacer arte de ello porque hay una verdad reconocida"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (36:30)](https://youtu.be/K7MAqw1q3dk?t=2190)
+
+> "Armonía y belleza son cosas distintas: puede haber experiencia estética sin armonía"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (36:30)](https://youtu.be/K7MAqw1q3dk?t=2190)
+
+La estética del canal — armonía como coherencia imaginario-afectiva entre lo que ocurre y lo que se quiere que ocurra, no valencia positiva — desactiva la asociación coloquial belleza=positividad. Una experiencia terrible puede ser armónica si la coherencia interna está intacta; la crucifixión genera arte porque hay verdad reconocida sin necesidad de positividad afectiva.
+
+### Pedantería vs petulancia: variante individual del sofisma estético
+
+> "El pedante impone su contexto intelectual al otro; el petulante intenta que los demás crean que solo es pedante cuando en realidad hace poética"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (43:41)](https://youtu.be/K7MAqw1q3dk?t=2621)
+
+> "Se puede ser filósofo pedante pero no filósofo petulante, porque la petulancia implica intención estética, no filosófica"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (43:41)](https://youtu.be/K7MAqw1q3dk?t=2621)
+
+La distinción es operativa y diagnóstica. El pedante impone su contexto intelectual sin trampa categorial — su operación es filosófica aunque socialmente costosa. El petulante simula la pedantería para que la audiencia atribuya peso filosófico a lo que en su sustrato es operación estética. La marca discriminante es la intención: la petulancia es la variante individual del [[sofisma-estetico|sofisma estético]] en el plano académico, donde el sujeto se sirve de la forma del discurso filosófico para conducir una operación que es de armonía estética y no de clasificación formal.
+
+### Semiótica como teoría de la mente: interpretar = conceder valencia
+
+> "La semiótica o semiología es la teoría de la interpretación; el realismo cognitivo es una teoría semiótica de la mente"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (47:15)](https://youtu.be/K7MAqw1q3dk?t=2835)
+
+> "Interpretar viene del latín interpretari: inter (entre) + pretium (valor, precio)"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (49:47)](https://youtu.be/K7MAqw1q3dk?t=2987)
+
+> "Toda la mente tiene por objeto tomar un elemento de la realidad y concederle una valencia; los afectos son el motor fundamental de ese proceso"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (49:47)](https://youtu.be/K7MAqw1q3dk?t=2987)
+
+La etimología es definitoria, no decorativa. *Interpretari* = *inter-pretium*: conceder un valor a algo que aparece. La cognición no representa pasivamente sino que CONCEDE valencias — operación que enlaza directamente con el [[algebra-afectiva|álgebra afectiva]] como sistema lógico-formal entre clases con valencia emocional. Donde el [[realismo-cognitivo]] articulaba la conexión representación↔realidad sin reducir ninguno de los dos polos, esta articulación añade la pieza operativa: la representación no es copia ni espejo, es asignación de valor afectivo en la matriz N. El motor de toda interpretación es afectivo; lo gramatical y lo imaginario son modulaciones sobre ese sustrato.
+
+### Resonancia: por qué funciona la poética ideológica
+
+> "El concepto de "resonancia" explica por qué la poética ideológica funciona: resuena con quienes sienten que les interpela, generando conceptos errados y cinismo ideológico"
+→ [Filosofía contra la poética. ¿Qué es un símbolo? Parte I (53:53)](https://youtu.be/K7MAqw1q3dk?t=3233)
+
+La pieza de cierre recapitula el motor del [[sofisma-estetico|sofisma estético]] desde el lado del receptor: la operación no funciona porque sea formalmente válida sino porque el aparato cognitivo del receptor RESUENA con la firma afectiva del enunciado. La matriz noética del receptor reconoce el enunciado como suyo no por inferencia formal sino por convergencia afectiva — y la convergencia afectiva opera con la lógica del [[pensamiento-poetico|pensamiento poético]] (fusión por semejanza imaginario-afectiva, no por identidad estructural). La resonancia es la condición de posibilidad cultural del sofisma: explica por qué la pieza poética ideológica se transmite y se acepta como si fuera filosofía pese a no serlo.
+
+
 ## Articulaciones posteriores: oposición al psicoanálisis y mecanismo de la meditación
 
 En el directo experimental de 8 horas de estudio (8 enero 2025), el canal articula con más detalle el estatuto de [[realismo-cognitivo]] como cierre epistemológico del marco y añade dos piezas nuevas a la teoría:
@@ -478,6 +567,54 @@ La consecuencia operativa para la teoría del símbolo es que el lenguaje opera 
 
 El argumento cierra el flanco con simetría: si el pensamiento cabe en lenguaje, el constructivismo tiene razón; si solo el caudal de 12 bits/s cabe en metarrepresentación lingüística mientras el grueso de la matriz noética opera implícito, el constructivismo confunde el algoritmo de compresión con el contenido comprimido. La tesis del canal queda así polemizada — no solo articulada — frente a una tradición concurrente.
 
+### Hipóstasis lenguaje/pensamiento, lengua-cultura y el diagnóstico psicológico del constructivismo
+
+Un directo posterior articula tres precisiones operativas a la crítica del constructivismo lingüístico ya documentada: (a) la falsedad del esquema descansa en una **hipóstasis** previa, (b) la dirección causal lenguaje/cultura es la inversa de la hipótesis Sapir-Whorf, (c) la adherencia al constructivismo tiene diagnóstico psicológico identificable en el aparato del [[diagrama-de-proxy]].
+
+**La hipóstasis previa.** La proposición 'el lenguaje determina el pensamiento' presupone que lenguaje y pensamiento son categorías independientes que pueden entrar en relación causal. Es una hipóstasis: separa metafísicamente lo que internamente no está separado.
+
+> "La proposición \"el lenguaje determina el pensamiento\" es falsa porque presupone una hipóstasis: separa lenguaje y pensamiento como si fueran categorías independientes,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (44:24)](https://youtu.be/NjtK76xzV18?t=2664)
+
+> "El lenguaje solo es diferente del pensamiento cuando se trata de lenguaje explícito externo; internamente, lenguaje y pensamiento no son separables,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (44:24)](https://youtu.be/NjtK76xzV18?t=2664)
+
+La precisión es semiótica: solo el lenguaje **explícito externo** es categorialmente distinto del pensamiento; el lenguaje interno (la voz del pensar mismo) no lo es. La causalidad pretendida solo puede formularse para esa franja explícita-externa, donde sí hay simétricamente lenguaje y pensamiento como objetos distintos. El constructivismo extrapola la dirección causal de esa franja al sustrato cognitivo entero — y ahí la dirección no se aplica porque las categorías no se separan. La cláusula refuerza el postulado del marco sobre el límite de 12 bits/s: la franja consciente-explícita acotada es donde lenguaje y pensamiento se distinguen operativamente; el grueso de la matriz noética opera implícito, donde la distinción no procede.
+
+**Pensamiento prelingüístico como contraejemplo positivo.** Antes de adquirir las palabras correspondientes, el niño ya opera con conceptos abstractos:
+
+> "Puede existir pensamiento sin palabras, sin voz interna y sin nombres: todo el imaginario fundamental carece de nombres,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (48:28)](https://youtu.be/NjtK76xzV18?t=2908)
+
+> "De pequeños ya pensamos en conceptos como \"conjunto\" o \"clase\" sin conocer esas palabras,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (48:28)](https://youtu.be/NjtK76xzV18?t=2908)
+
+> "La sensación de que todo pensamiento relevante es lenguaje es una ilusión fenomenológica, no la totalidad de la realidad cognitiva,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (48:28)](https://youtu.be/NjtK76xzV18?t=2908)
+
+La pieza aporta el contraejemplo positivo (el pensamiento prelingüístico genuino con caso concreto: clases y conjuntos operados antes de tener las palabras) que la página enunciaba implícitamente como tesis pero no documentaba.
+
+**Lenguaje como consecuencia de la cultura, no su causa.** La inversión causal frente a Sapir-Whorf se articula con dos casos paradigmáticos del repertorio antropológico:
+
+> "Los pueblos de Oceanía no se orientan bien por su lenguaje sino porque su cultura requiere orientación; el lenguaje evolucionó como consecuencia,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (54:32)](https://youtu.be/NjtK76xzV18?t=3272)
+
+> "Es una ilusión creer que el lenguaje abre puertas cognitivas: los esquimales no tienen conciencia expandida sobre la nieve por tener muchos términos para ella,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (54:32)](https://youtu.be/NjtK76xzV18?t=3272)
+
+> "Que una cultura incluya algo en su idioma no significa que el idioma haya producido esa cognición,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (54:32)](https://youtu.be/NjtK76xzV18?t=3272)
+
+Los dos casos clásicamente invocados a favor de Sapir-Whorf (orientación de los pueblos del Pacífico, vocabulario inuit sobre la nieve) se reinterpretan como manifestaciones lingüísticas de necesidades culturales preexistentes — el léxico se adensa donde la práctica lo exige, no la práctica donde el léxico lo nombra.
+
+**Diagnóstico psicológico del constructivismo.** La adherencia al constructivismo lingüístico no se trata aquí como error teórico sino como manifestación de una configuración afectiva concreta:
+
+> "El relativismo posmoderno cree que el lenguaje determina el pensamiento porque necesita un locus externo de control,"
+→ [Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento (59:07)](https://youtu.be/NjtK76xzV18?t=3547)
+
+La pieza articula la tesis cognitiva con el aparato del [[diagrama-de-proxy]]: el constructivismo lingüístico es atractivo para configuraciones afectivas con locus externo de control porque permite atribuir la propia mente a la presión cultural-lingüística — versión sofisticada del 'el mal está fuera' que la página del diagrama documenta como cifra paterna del eje vertical. La crítica al constructivismo gana así un flanco diagnóstico: por qué la tesis falsa persiste, no solo por qué es falsa.
+
+
 
 
 ## Refinamiento del componente imaginario: representación modular vs distribuida y la falacia imaginaria del meme 2+2=5
@@ -556,7 +693,76 @@ La precisión opera como criterio diagnóstico: la disociación operativa por ex
 La pieza completa el aparato: la matriz noética admite operaciones de composición (ambiguación productiva) y de descomposición (disociación operativa), y ambas operan sobre la misma materia con el mismo aparato de componentes Q. La diferencia es direccional, no ontológica.
 
 
+
+
+## Disociación como descomposición de la matriz N (mecánica inversa de la ambiguación)
+
+En el directo *El Hate Bombing de la izquierda* (14 oct 2024) el canal articula la mecánica inversa al aparato de ambiguación que la página despliega: la **disociación como descomposición** de las representaciones mentales. Si la matriz noética opera por composición continua (ambiguación, UAL, resíntesis), la disociación es su límite operativo cuando el trabajo analítico introspectivo opera sobre la propia matriz.
+
+> "La disociación es una descomposición de las representaciones mentales,"
+→ [El Hate Bombing de la izquierda (42:22)](https://youtu.be/DTP3syEtxP4?t=2542)
+
+La precisión categorial es estructural: la disociación no es deficit ni ausencia, es operación inversa con la misma materia. Donde la composición noética genera estados mentales coherentes a partir de componentes Q (afectiva + imaginaria + formal), la descomposición disociativa los separa exhibiendo los componentes individualmente sin la integración que los hacía operativos como representación unificada.
+
+### El orden temporal como prelación entre representaciones
+
+La pieza añade una articulación específica sobre cómo el orden temporal opera dentro de la matriz N:
+
+> "El orden en que suceden los eventos forma parte de su representación episódica,"
+→ [El Hate Bombing de la izquierda (40:51)](https://youtu.be/DTP3syEtxP4?t=2451)
+
+> "El orden temporal entre representaciones es una relación de prelación que se desestabiliza al analizar demasiado la estructura del pensamiento,"
+→ [El Hate Bombing de la izquierda (40:51)](https://youtu.be/DTP3syEtxP4?t=2451)
+
+La precisión refina la articulación previa del tiempo en el marco (sección 'Cuantitativo, tiempo y lenguaje' que situaba el tiempo fenomenológico como Q sub-i + Q sub-a + procedimental). La pieza nueva nombra el operador específico: **prelación** — relación de antes/después que opera como pegamento estructural de la representación episódica. La memoria episódica no es solo conjunto de elementos sino conjunto **ordenado**, y ese orden es propiedad relacional intrínseca, no metadato externo.
+
+La consecuencia operativa es importante: el trabajo introspectivo intenso de descomposición analítica del pensamiento (caso paradigmático: redactar monográficamente las propias categorías cognitivas) puede desestabilizar las relaciones de prelación entre representaciones episódicas como **efecto secundario operativo**, no como patología clínica. El sujeto experimenta entonces lagunas de memoria episódica (conversaciones enteras olvidadas), confusión temporal (eventos cuyo orden se ha disuelto), fragmentación de secuencias narrativas. La pieza añade una nota clínica importante:
+
+> "La fragmentación de la memoria no implica gravedad clínica sino exceso de análisis introspectivo,"
+→ [El Hate Bombing de la izquierda (42:22)](https://youtu.be/DTP3syEtxP4?t=2542)
+
+La precisión opera como criterio diagnóstico: la disociación operativa por exceso analítico es reversible (deja de operar cuando cesa el trabajo de descomposición) y selectiva (afecta primariamente la memoria episódica, no las componentes Q individuales). Se distingue de cuadros disociativos clínicos genuinos (TID, despersonalización persistente, amnesia disociativa) que la página de [[tid-personaje-en-proxy]] articula con criterios distintos.
+
+La pieza completa el aparato: la matriz noética admite operaciones de composición (ambiguación productiva) y de descomposición (disociación operativa), y ambas operan sobre la misma materia con el mismo aparato de componentes Q. La diferencia es direccional, no ontológica.
+
+
 La pieza es operativa para la teoría del símbolo del canal: muestra que la distinción de componentes Q no es solo descriptiva sino **discriminadora de validez** — permite identificar qué demostraciones aparentes son sofismas categoriales. El símbolo opera bien cuando ambas componentes coinciden en lo evocado; produce error cuando una se suplanta a la otra sin marca explícita.
+
+
+
+## Semiótica cognitiva como disciplina marco del canal
+
+En el directo *Lo de la Gata, y qué es este canal* (13-ene-2026) el canal articula explícitamente la **disciplina marco** bajo la cual el aparato del símbolo, la cognición y la cultura quedan integrados — flanco meta-disciplinar que el monográfico sobre el símbolo presuponía pero no nombraba.
+
+### Tres campos del canal: antropología mitológica + psicología clínica/cognitiva + filosofía
+
+> "El canal trata tres campos: antropología mitológica, psicología clínica/cognitiva y filosofía,"
+→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)
+
+> "Técnicamente es psicología analítica, pero el término se queda corto,"
+→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)
+
+> "La propuesta más precisa del chat: sistemas cognitivos, psicología y sus vectores culturales,"
+→ [Lo de la Gata, y qué es este canal (1:19:20)](https://youtu.be/aVhd0l1rpqY?t=4760)
+
+La articulación cierra la pregunta autorreferencial del proyecto: la psicología analítica junguiana es **insuficiente como etiqueta** porque el canal opera además sobre la antropología mitológica (la diversidad cultural del material arquetípico) y sobre la filosofía (la teoría de la mente que sostiene la lectura cognitiva). El cruce de los tres campos no es eclecticismo sino convergencia disciplinar exigida por el objeto: las representaciones mentales son a la vez fenómenos psicológicos individuales, materiales arquetípicos transpersonales y construcciones filosóficamente argumentables.
+
+### Semiótica cognitiva como disciplina marco
+
+> "La semiótica cognitiva es la teoría que describe qué significa interpretar en un sentido mental,"
+→ [Lo de la Gata, y qué es este canal (1:25:28)](https://youtu.be/aVhd0l1rpqY?t=5128)
+
+> "El canal maneja un emergentismo de la cultura: toda cultura es manifestación cognitiva que presenta rasgos de funciones propias,"
+→ [Lo de la Gata, y qué es este canal (1:25:28)](https://youtu.be/aVhd0l1rpqY?t=5128)
+
+La precisión disciplinar es decisiva para el aparato del símbolo articulado en este monográfico: la **semiótica cognitiva** — disciplina que la página ya coloca en `primary_domains: interdisciplinary.semiotics` — opera como marco unificador de las tres dimensiones operativas del canal. Cuando el canal define el símbolo como proceso noético que evoca representaciones más complejas desde representaciones más simples, está ejecutando un programa de semiótica cognitiva: explicar cómo la mente **interpreta**, qué operaciones implementa al asignar significado, qué arquitectura cognitiva sostiene la atribución semántica. La filosofía aporta el aparato conceptual; la psicología clínico-cognitiva, el sustrato representacional medible; la antropología mitológica, los corpus culturales sobre los que la semiótica cognitiva se contrasta.
+
+### Emergentismo cultural: la cultura como manifestación cognitiva con función propia
+
+El **emergentismo de la cultura** que el canal declara articula la dirección causal del marco: la cultura no es ámbito autónomo desde el cual la cognición es modelada (lectura constructivista clásica) sino **manifestación** de procesos cognitivos que adquiere, una vez emergida, **funciones propias** — patrones operativos que la cognición individual ya no controla unilateralmente pero que tampoco son ajenos a ella. La consecuencia teórica para [[mitologia-propia-impropia]] y para los seis mitos primarios articulados en [[collective-unconscious]] es directa: los mitos son a la vez manifestación de la matriz noética humana (el sustrato cognitivo) y estructuras emergentes con función propia (el plano cultural). Ninguno de los dos planos absorbe al otro — la semiótica cognitiva los articula como fenómenos del mismo aparato operando a escalas distintas.
+
+La pieza cierra parcialmente la laguna 'Bucle filosofía / teoría de la mente' que la página declaraba: el cierre no es solo 'realismo cognitivo' como stance epistemológica sino **semiótica cognitiva** como disciplina constituida — la teoría de la interpretación mental opera al mismo nivel que las ciencias cognitivas y la antropología, no las subordina ni se subordina a ellas.
+
 
 
 

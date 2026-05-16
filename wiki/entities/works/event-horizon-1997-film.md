@@ -162,6 +162,7 @@ En el marco de [[mito-moderno-en-proxy]], *Event Horizon* ocupa la categoría de
 
 
 
+
 - **Event Horizon** — chunks: [0:39](https://youtu.be/cgO7JwvwOQg?t=39) · [5:15](https://youtu.be/cgO7JwvwOQg?t=315) · [19:36](https://youtu.be/cgO7JwvwOQg?t=1176) · [26:47](https://youtu.be/cgO7JwvwOQg?t=1607) · [46:33](https://youtu.be/cgO7JwvwOQg?t=2793) · [50:05](https://youtu.be/cgO7JwvwOQg?t=3005) · [56:07](https://youtu.be/cgO7JwvwOQg?t=3367) · [59:09](https://youtu.be/cgO7JwvwOQg?t=3549)
 - **Terror: Lovecraft y lo incompleto.** — chunks: [1:05:19](https://youtu.be/JzfcmEKWm1c?t=3919)
 

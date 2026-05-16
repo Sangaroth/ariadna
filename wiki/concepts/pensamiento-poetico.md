@@ -122,6 +122,28 @@ La pieza articula la operación cognitiva: tres referentes históricamente, ideo
 La segunda articulación cierra el aparato con una pieza arquetípica: si el pensamiento poético funde por carga afectiva, la inversión del afecto adscrito al héroe (de admirable a patético) reorganiza la categoría disponible — donde antes operaba como modelo, opera ahora como objeto de compasión, y el lugar narrativo del bien se desliza del héroe a la víctima. La transición no es ideológica sino arquetípica: misma matriz noética, distinta valencia afectiva, distinto repertorio categorial disponible para la imaginación moral.
 
 
+
+## Razonamiento poético como motor de fusión categorial en política
+
+En el directo *Tontas en Potencia* (sept-2024) el canal aplica el aparato del pensamiento poético al dominio político-cognitivo: el mismo modo de encadenar representaciones por afinidad imaginaria/afectiva — legítimo en metáfora consciente, falaz cuando se postula como descripción formal — opera en la mente del receptor político fundiendo en una sola categoría figuras estructuralmente heterogéneas que comparten carga emocional.
+
+> "El razonamiento poético permite que representaciones estereotípicas con la misma carga emocional se fundan en una sola categoría,"
+→ [Tontas en Potencia (2:22:23)](https://youtu.be/1cKAgkEEbMA?t=8543)
+
+> "En la cabeza progre, el sionismo, Hitler y Abascal son lo mismo porque comparten contenido afectivo: un varón desagradable acomplejado con ganas de hacer daño,"
+→ [Tontas en Potencia (2:22:23)](https://youtu.be/1cKAgkEEbMA?t=8543)
+
+La pieza articula la operación cognitiva: tres referentes históricamente, ideológicamente y estructuralmente distintos (sionismo como movimiento nacional judío del XIX-XX, nazismo como régimen totalitario antisemita europeo, partido conservador-derechista español del XXI) se vuelven sustituibles para la psique cuando comparten una **firma afectiva** común — el estereotipo del varón desagradable acomplejado. La fusión no es ignorancia ni mala fe: es el régimen poético de funcionamiento aplicado al dominio donde la página articulaba que sería sofisma estético (vincular elementos por carga emocional como si la relación fuera formal). El receptor no infiere falazmente — re-instancia un patrón de equivalencia afectiva que su matriz noética acepta como categoría.
+
+> "Cuando el héroe deja de ser héroe y pasa a ser patético, el único papel que puede cumplir es el de víctima,"
+→ [Tontas en Potencia (2:22:23)](https://youtu.be/1cKAgkEEbMA?t=8543)
+
+> "La idea progre del bien no es un héroe sino un ser patético incapaz que solo sirve para dar pena,"
+→ [Tontas en Potencia (2:22:23)](https://youtu.be/1cKAgkEEbMA?t=8543)
+
+La segunda articulación cierra el aparato con una pieza arquetípica: si el pensamiento poético funde por carga afectiva, la inversión del afecto adscrito al héroe (de admirable a patético) reorganiza la categoría disponible — donde antes operaba como modelo, opera ahora como objeto de compasión, y el lugar narrativo del bien se desliza del héroe a la víctima. La transición no es ideológica sino arquetípica: misma matriz noética, distinta valencia afectiva, distinto repertorio categorial disponible para la imaginación moral.
+
+
 ## Conexiones con el marco del canal
 
 - Es un modo operativo dentro del [[realismo-cognitivo]]: la matriz noética no opera siempre formalmente; el modo poético es uno de sus regímenes legítimos de funcionamiento
@@ -151,6 +173,12 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 
 
 
+
+
+
+
+
+
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [27:36](https://youtu.be/KNiph0qq93U?t=1656) · [30:39](https://youtu.be/KNiph0qq93U?t=1839) · [31:43](https://youtu.be/KNiph0qq93U?t=1903) · [36:49](https://youtu.be/KNiph0qq93U?t=2209) · [1:16:33](https://youtu.be/KNiph0qq93U?t=4593)
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
@@ -158,10 +186,11 @@ La segunda articulación cierra el aparato con una pieza arquetípica: si el pen
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
 - **Biblioteca de Babel II** — chunks: [0:17](https://youtu.be/IytpR6sGWXg?t=17)
+- **Presentación del Libro: Polaris** — chunks: [43:12](https://youtu.be/rLeMS4-XFrA?t=2592)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
 - **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
 - **Las piezas que faltan** — chunks: [14:30](https://youtu.be/DAW1HiYxnVk?t=870) · [1:27:14](https://youtu.be/DAW1HiYxnVk?t=5234)
-- **Presentación del Libro: Polaris** — chunks: [43:12](https://youtu.be/rLeMS4-XFrA?t=2592)
 - **Tontas en Potencia** — chunks: [1:13:51](https://youtu.be/1cKAgkEEbMA?t=4431) · [2:00:23](https://youtu.be/1cKAgkEEbMA?t=7223) · [2:22:23](https://youtu.be/1cKAgkEEbMA?t=8543)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [34:38](https://youtu.be/dHDv_oZODYQ?t=2078) · [38:39](https://youtu.be/dHDv_oZODYQ?t=2319)
+- **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [28:55](https://youtu.be/K7MAqw1q3dk?t=1735) · [31:26](https://youtu.be/K7MAqw1q3dk?t=1886) · [38:32](https://youtu.be/K7MAqw1q3dk?t=2312) · [53:53](https://youtu.be/K7MAqw1q3dk?t=3233)
 

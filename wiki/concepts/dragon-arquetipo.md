@@ -244,6 +244,19 @@ La fórmula precisa el mecanismo de la muerte del dragón en clave psíquica-end
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [43:43](https://youtu.be/JmCqIk6NDsM?t=2623)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [20:26](https://youtu.be/s6teBboDDJ4?t=1226)
 - **Tolkien y los dragones** — chunks: [0:31](https://youtu.be/O-kzVFngjAQ?t=31) · [2:40](https://youtu.be/O-kzVFngjAQ?t=160) · [3:11](https://youtu.be/O-kzVFngjAQ?t=191) · [8:45](https://youtu.be/O-kzVFngjAQ?t=525) · [10:49](https://youtu.be/O-kzVFngjAQ?t=649) · [13:50](https://youtu.be/O-kzVFngjAQ?t=830) · [17:51](https://youtu.be/O-kzVFngjAQ?t=1071) · [20:23](https://youtu.be/O-kzVFngjAQ?t=1223) · [21:54](https://youtu.be/O-kzVFngjAQ?t=1314) · [27:58](https://youtu.be/O-kzVFngjAQ?t=1678) · [36:35](https://youtu.be/O-kzVFngjAQ?t=2195) · [39:08](https://youtu.be/O-kzVFngjAQ?t=2348) · [47:32](https://youtu.be/O-kzVFngjAQ?t=2852) · [52:36](https://youtu.be/O-kzVFngjAQ?t=3156) · [54:07](https://youtu.be/O-kzVFngjAQ?t=3247) · [57:43](https://youtu.be/O-kzVFngjAQ?t=3463) · [1:00:15](https://youtu.be/O-kzVFngjAQ?t=3615) · [1:16:29](https://youtu.be/O-kzVFngjAQ?t=4589) · [1:25:07](https://youtu.be/O-kzVFngjAQ?t=5107)
@@ -251,6 +264,9 @@ La fórmula precisa el mecanismo de la muerte del dragón en clave psíquica-end
 - **Magia y Trauma** — chunks: [1:14:09](https://youtu.be/JNafno3jgHY?t=4449) · [1:28:05](https://youtu.be/JNafno3jgHY?t=5285) · [1:39:43](https://youtu.be/JNafno3jgHY?t=5983)
 - **Análisis arquetípico: Excalibur** — chunks: [17:41](https://youtu.be/daC37T5cbWs?t=1061) · [48:03](https://youtu.be/daC37T5cbWs?t=2883) · [1:03:09](https://youtu.be/daC37T5cbWs?t=3789) · [1:33:00](https://youtu.be/daC37T5cbWs?t=5580) · [1:37:02](https://youtu.be/daC37T5cbWs?t=5822)
 - **Análisis arquetípico Frozen** — chunks: [50:44](https://youtu.be/NYZEm8mcPiQ?t=3044)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [36:30](https://youtu.be/L4ayDmaUO9Y?t=2190) · [1:32:46](https://youtu.be/L4ayDmaUO9Y?t=5566) · [1:36:18](https://youtu.be/L4ayDmaUO9Y?t=5778)
+- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [1:43:55](https://youtu.be/Ot3Z1VYTUgY?t=6235) · [1:54:33](https://youtu.be/Ot3Z1VYTUgY?t=6873)
+- **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [2:12:01](https://youtu.be/8l__TS3ATNY?t=7921)
 - **Gothika: De Profundis** — chunks: [25:57](https://youtu.be/Gx2740if0Ho?t=1557) · [39:14](https://youtu.be/Gx2740if0Ho?t=2354) · [46:32](https://youtu.be/Gx2740if0Ho?t=2792) · [1:25:56](https://youtu.be/Gx2740if0Ho?t=5156) · [1:37:04](https://youtu.be/Gx2740if0Ho?t=5824) · [1:38:35](https://youtu.be/Gx2740if0Ho?t=5915)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/wIhH72UFUPY?t=2861)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [47:41](https://youtu.be/lw7XI2lQntM?t=2861)
@@ -259,9 +275,6 @@ La fórmula precisa el mecanismo de la muerte del dragón en clave psíquica-end
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [28:55](https://youtu.be/xK8_MpMMXzc?t=1735)
 - **Análisis: Nosferatu (Eggers, 2024). El último Mito Polar** — chunks: [1:22:06](https://youtu.be/yAIPr0HzQqE?t=4926)
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [52:16](https://youtu.be/fzEDQZIqKwg?t=3136)
-- **Del origen del mal (III): La fe y los demonios.** — chunks: [36:30](https://youtu.be/L4ayDmaUO9Y?t=2190) · [1:32:46](https://youtu.be/L4ayDmaUO9Y?t=5566) · [1:36:18](https://youtu.be/L4ayDmaUO9Y?t=5778)
-- **El Sueño Eterno: Análisis Arquetípico de la Bella Durmiente.** — chunks: [1:43:55](https://youtu.be/Ot3Z1VYTUgY?t=6235) · [1:54:33](https://youtu.be/Ot3Z1VYTUgY?t=6873)
-- **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [2:12:01](https://youtu.be/8l__TS3ATNY?t=7921)
 - **Taxonomía y filosofía del satanismo** — chunks: [1:35:32](https://youtu.be/4JW8act2SdE?t=5732)
 - **Lilith: La Iconotropía.** — chunks: [21:51](https://youtu.be/xKCD8PaexF0?t=1311)
 - **Los Apocalipsis. (Parte I)** — chunks: [57:34](https://youtu.be/lLRGemLUCtY?t=3454)

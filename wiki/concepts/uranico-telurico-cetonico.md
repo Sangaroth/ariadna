@@ -70,6 +70,18 @@ La pieza importa por dos razones operativas. Primera: fija la triada como pieza 
 
 
 
+
+### Locus textual: el esquema cosmológico del libro Del origen del mal
+
+En el directo *Directo doble Parte 1* (29 may 2025) el canal confirma que la triada uránico/ctónico/telúrico opera como esquema cosmológico canónico del libro [[del-origen-del-mal-libro|Del origen del mal]] en su forma final:
+
+> "El esquema cosmológico del libro incluye tres niveles: lo uránico (celeste), lo ctónico (subterráneo) y lo telúrico (terrestre),"
+→ [Directo doble Parte 1 (1:36:06)](https://youtu.be/t8v5w3s0USA?t=5766)
+
+La pieza importa por dos razones operativas. Primera: fija la triada como pieza editorial canónica del corpus, no como articulación dispersa entre directos — el libro la adopta como mapa cosmológico de fondo sobre el que articular los seis mitos primarios (solar, lunar, polar, mago, apocalipsis, génesis). Segunda: el directo usa la variante ortográfica 'ctónico' (chthonic) frente a la 'cetónico' del corpus previo del canal — ambas formas operan en el wiki como aliases de la misma región arquetípica, sin diferencia conceptual.
+
+
+
 ## Memoria de Lovecraft: el caso paradigmático del esquema en literatura
 
 El cuento [[memoria-lovecraft|Memoria]] (Lovecraft, 1919) leído íntegramente en directo articula la triada explícitamente como dispositivo dramatúrgico: el diálogo entre un genio lunar y un demonio del valle distribuye iconográficamente las tres regiones sobre los tres tipos de personaje del cuento.
@@ -155,6 +167,26 @@ La triada se aplica también a elementos naturales leídos simbólicamente. El m
 → [Tolkien y los dragones (54:07)](https://youtu.be/O-kzVFngjAQ?t=3247)
 
 La lectura permite identificar cuándo una obra invoca cetónico genuino (las profundidades del corazón humano, el inconsciente como abismo) frente a cuándo solo invoca telúrico amenazante (lo terrestre hostil).
+
+
+## El equilibrio telúrico como criterio de salud psíquica
+
+El análisis de [[gothika-2003-film|Gothika]] articula explícitamente el equilibrio entre las tres regiones como **criterio diagnóstico**: la salud psíquica requiere que el yo permanezca integrado entre lo uránico y lo ctónico, con lo telúrico como zona media donde ambos polos se conjugan.
+
+> "Las internas están desbalanceadas hacia la intuición: los monstruos ctónicos se apoderaron de su psique"
+→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)
+
+> "Miranda está desbalanceada hacia el intelecto: demasiada frialdad uránica la desconecta de la naturaleza"
+→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)
+
+> "El equilibrio telúrico entre lo uránico-celestial y lo ctónico-profundo es necesario para ambas partes"
+→ [Gothika: De Profundis (21:53)](https://youtu.be/Gx2740if0Ho?t=1313)
+
+La articulación confirma que la triada opera no solo como mapa cosmológico descriptivo sino como **eje de integración psíquica**: el desequilibrio hacia cualquier polo produce patología. La psiquiatra hiperracional pierde contacto con la naturaleza; la paciente intuitiva pierde contacto con la realidad. La codificación cromática del film fija el esquema: el rojo señala el mal ctónico ("insinuaciones del mal, fuego, alerta y sufrimiento"), el amarillo marca el límite donde debería haber conjugación telúrica, el gris viste a quienes han perdido identidad dentro del polo no integrado.
+
+> "El amarillo marca el límite entre lo uránico y lo ctónico donde debería haber conjugación"
+→ [Gothika: De Profundis (25:26)](https://youtu.be/Gx2740if0Ho?t=1526)
+
 
 
 ## El equilibrio telúrico como criterio de salud psíquica

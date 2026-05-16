@@ -175,5 +175,6 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 ## Citations
 
 
+
 - **Se celebrarán juicios** — chunks: [16:10](https://youtu.be/hCc-gsoLZj4?t=970)
 

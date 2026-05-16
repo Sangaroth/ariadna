@@ -146,5 +146,8 @@ Esta ausencia diagnostica el estado del mundo bajo la maldición: un cosmos sin 
 ## Citations
 
 
+
+
+- **He visto a Paloma** — chunks: [35:49](https://youtu.be/u-VoqpR7sNI?t=2149)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
 

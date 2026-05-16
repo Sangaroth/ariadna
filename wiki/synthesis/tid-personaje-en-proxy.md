@@ -266,8 +266,10 @@ La lectura recoloca cada obra: Fight Club queda dentro del campo de la escisión
 
 
 
+
+
 - **Lunes basado terminal** — chunks: [32:10](https://youtu.be/oHxXzr5WSbQ?t=1930) · [36:13](https://youtu.be/oHxXzr5WSbQ?t=2173)
-- **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [1:30:56](https://youtu.be/xdT-SCW89cw?t=5456)
 - **Primer stream del año** — chunks: [54:49](https://youtu.be/kEgjSN3uKy4?t=3289)
+- **La memoria NO EXISTE. (Y me doxean!!)** — chunks: [1:30:56](https://youtu.be/xdT-SCW89cw?t=5456)
 - **No entendiste HEREDITARY** — chunks: [51:34](https://youtu.be/r_4BY6W4lcU?t=3094)
 

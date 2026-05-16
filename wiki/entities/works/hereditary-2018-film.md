@@ -180,5 +180,10 @@ La triple interpretación permanece deliberadamente irresuelto porque la pelícu
 ## Citations
 
 
+
+
+
+- **T5x02: No Love Land** — chunks: [1:24:52](https://youtu.be/EjAVFdSVtbU?t=5092)
+- **Arquetipo Cero** — chunks: [1:20:51](https://youtu.be/nern-nhePjE?t=4851)
 - **No entendiste HEREDITARY** — chunks: [1:54:53](https://youtu.be/r_4BY6W4lcU?t=6893)
 

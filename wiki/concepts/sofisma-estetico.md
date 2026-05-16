@@ -83,6 +83,44 @@ La formulación más contundente del canal compacta el mecanismo en una serie de
 El patrón es siempre el mismo: el acto sustantivo (revolución, antirracismo) se sustituye por su estética (performance, racismo estético — agrupar y juzgar a las personas por sus categorías raciales con intención "buena"). El sofisma no es solo error individual: es un dispositivo cultural que se transmite y se inocula.
 
 
+## Feminismo como caso paradigmático: identificación proyectiva como motor del sofisma colectivo
+
+En el directo *Tontas en Potencia* (sept-2024) el canal aplica el aparato del sofisma estético al feminismo contemporáneo como caso paradigmático y articula el motor psíquico que sostiene la operación a escala colectiva: la identificación proyectiva como mecanismo de defensa que fabrica enemigos exteriores.
+
+> "El sofisma estético consiste en relacionar dos elementos por lo que se parecen externamente o por la emoción que comparten y creer que esa relación formal es válida,"
+→ [Tontas en Potencia (1:13:51)](https://youtu.be/1cKAgkEEbMA?t=4431)
+
+> "El feminismo es sofisma estético: no soporta el más mínimo embate filosófico, lógico o de contraste empírico,"
+→ [Tontas en Potencia (1:13:51)](https://youtu.be/1cKAgkEEbMA?t=4431)
+
+> "Se construye por identificación proyectiva: inventarse un enemigo exterior para no enfrentar la propia responsabilidad sobre el sufrimiento,"
+→ [Tontas en Potencia (1:13:51)](https://youtu.be/1cKAgkEEbMA?t=4431)
+
+> "La identificación proyectiva es un mecanismo de defensa que consiste en inventar enemigos dignos para que el padecimiento parezca una lucha,"
+→ [Tontas en Potencia (1:13:51)](https://youtu.be/1cKAgkEEbMA?t=4431)
+
+La pieza añade dos articulaciones operativas. Primera: una formulación más precisa del mecanismo elemental — el sofisma opera relacionando elementos por **semejanza externa o emoción compartida** y tratando esa relación como si tuviera peso formal. La articulación es complementaria a la formulación inicial de la página (palabras de valor sin sustento en la conducta): aquí el sofisma no opera sobre virtud declarada sino sobre **vinculación afectiva como prueba de equivalencia categorial**. Segunda: el motor psíquico subyacente al sofisma colectivo es la **identificación proyectiva** — mecanismo de defensa que fabrica enemigos exteriores dignos del padecimiento propio, transformando una posición regresiva en lo que parece una lucha.
+
+La consecuencia diagnóstica es operativa: el sofisma estético colectivo no se desactiva con argumento porque su función no es persuadir sino sostener la posición psíquica que lo produce. Quien argumenta filosófica o empíricamente contra el feminismo postmoderno entra automáticamente en el rol del enemigo digno que la identificación proyectiva necesita — la objeción confirma la estructura. Esto enlaza con la analogía del daltonismo articulada en [[woke-narrativa-postmoderna-moral]]: el dispositivo es no-introspectable desde dentro porque su función defensiva exige no reconocerse como defensa.
+
+
+
+## Sofisma estético terminológico: la jerga inventada que suena técnica
+
+El directo *La Mala Ciencia* extiende el sofisma estético al plano del vocabulario especializado. La operación rebasa la falacia de la claridad (palabras simples que aparentan profundidad) y opera ahora por **inflación terminológica**: palabras inventadas que pasan por jerga técnica:
+
+> "Candelios usa \"estructura funcional\" como sofisma estético para aparentar profundidad técnica"
+→ [La Mala Ciencia (1:09:44)](https://youtu.be/hD6YeyjukGA?t=4184)
+
+'Estructura funcional del cerebro' no es un término técnico de la neurobiología sino una construcción retórica que suena como tal. La diferencia operativa frente al sofisma estético clásico (palabras de valor sin sustento en la conducta) es que aquí la palabra falsa se posiciona en un dominio donde el lector medio NO puede verificar la legitimidad del término — el divulgador explota el déficit asimétrico de competencia técnica entre quien habla y quien escucha. La fórmula del canal cierra la equivalencia estructural:
+
+> "El canal de Candelios tiene tanta ciencia como \"los canales de tetas\": es sofisma estético que suena a ciencia pero no lo es"
+→ [La Mala Ciencia (1:33:16)](https://youtu.be/hD6YeyjukGA?t=5596)
+
+La crítica articulada en [[psicoinfluencers-en-proxy]] integra este caso como variante neurocultural-constructivista del mismo dispositivo: el sofisma estético opera transversalmente a las trincheras ideológicas — siempre que el divulgador venda tesis fuertes con vocabulario que aparenta especialización sin tenerla, encaja en la tipología sea cual sea su signo. La pieza añade así una segunda dimensión al concepto: además del sofisma sobre VALORES (palabras morales sin conducta), hay sofisma sobre PRECISIÓN (palabras técnicas sin referente disciplinar real).
+
+
+
 
 ## Poética vs filosofía: la operación postmoderna que sostiene el sofisma
 
@@ -182,6 +220,11 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
+
+
+
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
@@ -189,9 +232,10 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
 - **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
+- **Primer stream del año** — chunks: [7:50](https://youtu.be/kEgjSN3uKy4?t=470)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:29:13](https://youtu.be/DNHgjIgU_-c?t=5353) · [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
 - **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
-- **Primer stream del año** — chunks: [7:50](https://youtu.be/kEgjSN3uKy4?t=470)
 - **Tontas en Potencia** — chunks: [1:13:51](https://youtu.be/1cKAgkEEbMA?t=4431)
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [34:38](https://youtu.be/dHDv_oZODYQ?t=2078) · [38:39](https://youtu.be/dHDv_oZODYQ?t=2319)
+- **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [28:55](https://youtu.be/K7MAqw1q3dk?t=1735) · [31:26](https://youtu.be/K7MAqw1q3dk?t=1886) · [38:32](https://youtu.be/K7MAqw1q3dk?t=2312) · [43:41](https://youtu.be/K7MAqw1q3dk?t=2621)
 

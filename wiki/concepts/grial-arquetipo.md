@@ -123,6 +123,7 @@ El pecado precedente que la integración resuelve es el del rey que se cree sepa
 
 
 
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [59:52](https://youtu.be/K082yiudh-g?t=3592) · [1:13:29](https://youtu.be/K082yiudh-g?t=4409) · [1:15:29](https://youtu.be/K082yiudh-g?t=4529) · [1:48:26](https://youtu.be/K082yiudh-g?t=6506)
 - **Análisis arquetípico: Excalibur** — chunks: [54:05](https://youtu.be/daC37T5cbWs?t=3245) · [1:14:17](https://youtu.be/daC37T5cbWs?t=4457) · [1:18:20](https://youtu.be/daC37T5cbWs?t=4700) · [1:24:55](https://youtu.be/daC37T5cbWs?t=5095)
 - **Análisis arquetípico La Bruja** — chunks: [2:04:12](https://youtu.be/rRlks0e0oxU?t=7452)
