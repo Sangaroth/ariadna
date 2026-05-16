@@ -12,7 +12,10 @@ from typing import Any
 
 from ariadna.config import RERANKER_PREFETCH_N
 from ariadna.embeddings import DenseEmbedder
-from ariadna.wiki_utils import strip_citations_section as _strip_citations_section
+from ariadna.wiki_utils import (
+    extract_body_snippet as _extract_body_snippet,
+    strip_citations_section as _strip_citations_section,
+)
 from ariadna.reranker import Reranker
 from ariadna.storage import CorpusStore
 
@@ -491,10 +494,12 @@ class Searcher:
             out: dict[str, dict] = {}
             for pid, ptype, cname, dprim, fpath, body in pages:
                 rels = relations_by_pid.get(pid, [])
-                # Trim sección "## Citations" al pie (provenance al corpus,
-                # puede ser KB enteros que no aportan a razonamiento conceptual).
-                # Mismo criterio que mcp_server.get_wiki_page para coherencia.
+                # Trim Citations + extraer snippet (H1 + primer H2 + primer
+                # párrafo, ~800 chars). El LLM ve el snippet para decidir
+                # relevancia; pide get_wiki_page si quiere el body completo.
+                # Reduce ~95% tokens por wiki_page en el response.
                 body_trimmed, _ = _strip_citations_section(body or "")
+                body_snippet = _extract_body_snippet(body_trimmed)
                 out[pid] = {
                     "page_id": pid,
                     "page_type": ptype,
@@ -505,7 +510,7 @@ class Searcher:
                     "relation_targets": sorted({r["to"] for r in rels if r.get("to")}),
                     "relation_types_present": sorted({r["type"] for r in rels if r.get("type")}),
                     "file_path": fpath,
-                    "body": body_trimmed,
+                    "body_snippet": body_snippet,
                 }
             return out
         finally:
@@ -586,6 +591,7 @@ def _wiki_payload_to_compact(payload: dict) -> dict:
     """
     body = payload.get("body") or ""
     body_trimmed, _ = _strip_citations_section(body)
+    body_snippet = _extract_body_snippet(body_trimmed)
     return {
         "score": round(float(payload["score"]), 4),
         "page_id": payload.get("page_id"),
@@ -597,7 +603,7 @@ def _wiki_payload_to_compact(payload: dict) -> dict:
         "relation_targets": payload.get("relation_targets", []),
         "relation_types_present": payload.get("relation_types_present", []),
         "file_path": payload.get("file_path"),
-        "body": body_trimmed,
+        "body_snippet": body_snippet,
     }
 
 

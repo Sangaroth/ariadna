@@ -22,3 +22,63 @@ def strip_citations_section(content: str) -> tuple[str, int]:
         return content, 0
     trimmed = content[: m.start()].rstrip() + "\n"
     return trimmed, len(content) - len(trimmed)
+
+
+# Cap del snippet por wiki_page en search_corpus. Lo justo para que el LLM
+# decida si la página merece get_wiki_page completo. Captura H1 + primer H2
+# + primer párrafo (convención editorial del extractor: la tesis central
+# arranca en el primer H2). El body completo se sirve via get_wiki_page.
+SNIPPET_MAX_CHARS = 800
+
+
+def extract_body_snippet(body: str, max_chars: int = SNIPPET_MAX_CHARS) -> str:
+    """Devuelve un snippet del body wiki: H1 + primer H2 + primer párrafo.
+
+    Heurística:
+    - Tomamos hasta el primer H2 inclusive (estructura general).
+    - Añadimos hasta el siguiente párrafo (la tesis central del concepto).
+    - Cap duro a max_chars con elipsis si excede.
+
+    Si el body no tiene H2 (caso raro: stub o frontmatter-only), devuelve
+    los primeros max_chars del body crudo.
+    """
+    if not body or not body.strip():
+        return ""
+
+    lines = body.split("\n")
+    result_lines: list[str] = []
+    first_h2_seen = False
+    paragraph_after_h2_started = False
+
+    for line in lines:
+        stripped = line.strip()
+        is_h2 = stripped.startswith("## ")
+
+        if is_h2:
+            if first_h2_seen:
+                # Llegamos al segundo H2: cortamos antes
+                break
+            first_h2_seen = True
+            result_lines.append(line)
+            continue
+
+        if first_h2_seen:
+            if stripped == "":
+                if paragraph_after_h2_started:
+                    # blank line tras párrafo: corte natural
+                    break
+                # blank line entre H2 y primer párrafo: la conservamos
+                result_lines.append(line)
+                continue
+            paragraph_after_h2_started = True
+
+        result_lines.append(line)
+
+    snippet = "\n".join(result_lines).rstrip()
+    if not snippet:
+        snippet = body[:max_chars].rstrip()
+    if len(snippet) > max_chars:
+        # Corta limpio en el último blank antes del cap, con elipsis
+        cut = snippet[:max_chars].rsplit(" ", 1)[0]
+        snippet = cut.rstrip() + "..."
+    return snippet
