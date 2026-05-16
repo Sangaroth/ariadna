@@ -24,6 +24,8 @@ import argparse
 import json
 import re
 import sys
+
+import yaml
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
@@ -58,22 +60,13 @@ class ValidationReport:
 
 
 def parse_relations_yaml(fm_text: str) -> list[dict[str, Any]]:
-    """Parsea el bloque relations: del frontmatter (sintaxis YAML flow per item)."""
-    block = RELATIONS_BLOCK_RE.search(fm_text)
-    if not block:
+    """Lee relations[] del frontmatter (acepta block y flow YAML)."""
+    try:
+        fm = yaml.safe_load(fm_text) or {}
+    except yaml.YAMLError:
         return []
-    rels: list[dict[str, Any]] = []
-    for line in block.group(1).splitlines():
-        m = RELATION_LINE_RE.match(line)
-        if not m:
-            continue
-        kv_text = m.group(1)
-        rel: dict[str, Any] = {}
-        for k, v in KV_RE.findall(kv_text):
-            v_clean = v.strip().strip('"').strip("'")
-            rel[k.strip()] = v_clean
-        rels.append(rel)
-    return rels
+    rels = fm.get("relations") or []
+    return [r for r in rels if isinstance(r, dict)]
 
 
 def parse_frontmatter(text: str) -> tuple[str, str] | None:

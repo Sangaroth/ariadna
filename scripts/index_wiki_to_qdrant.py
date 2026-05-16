@@ -38,6 +38,8 @@ import hashlib
 import logging
 import re
 import sys
+
+import yaml
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
@@ -140,21 +142,17 @@ def _parse_yaml_list(fm_text: str, key: str) -> list[str]:
 
 
 def _parse_relations(fm_text: str) -> list[dict[str, Any]]:
-    """Parsea bloque relations: del frontmatter (sintaxis YAML flow per item)."""
-    block = RELATIONS_BLOCK_RE.search(fm_text)
-    if not block:
+    """Lee relations[] del frontmatter (acepta block y flow YAML)."""
+    try:
+        fm = yaml.safe_load(fm_text) or {}
+    except yaml.YAMLError:
         return []
-    rels: list[dict[str, Any]] = []
-    for line in block.group(1).splitlines():
-        m = RELATION_LINE_RE.match(line)
-        if not m:
-            continue
-        rel: dict[str, Any] = {}
-        for k, v in KV_RE.findall(m.group(1)):
-            rel[k.strip()] = v.strip().strip('"').strip("'")
-        if "type" in rel and "to" in rel:
-            rels.append(rel)
-    return rels
+    rels = fm.get("relations") or []
+    out: list[dict[str, Any]] = []
+    for r in rels:
+        if isinstance(r, dict) and "type" in r and "to" in r:
+            out.append(r)
+    return out
 
 
 def _parse_scalar(fm_text: str, key: str) -> str | None:
