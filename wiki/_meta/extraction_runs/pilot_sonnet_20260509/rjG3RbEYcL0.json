@@ -1,0 +1,326 @@
+{
+  "video_id": "rjG3RbEYcL0",
+  "video_title": "Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia",
+  "playlist": "psicologia-101",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "hard problem y soft problem de la conciencia (diálogo con Exit)",
+      "canonical_guess": "conciencia-e-inteligencia-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 95,
+      "framing_marks": [
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Primero está la mecánica psicoevolutiva con intención final, después cuánto de eso termina siendo explícito (mental y somáticamente),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La teoría enactiva de Maturana y Varela propone que no hay barrera entre lo somático y la representación sino un continuo,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La conciencia viene de proto-experiencias simultáneas: el estado del yo en el \"ahora\" está formado por un conjunto de redes que provocan proto-experiencia,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Diálogo monográfico con Exit directamente sobre el hard/soft problem, source distinto a la página (rjG3RbEYcL0 vs hqXmKZ77TEQ). Material genuinamente nuevo al cuerpo leído: (a) articulación explícita hard problem (qualia) vs soft problem (estructuras cerebrales); (b) metáfora del filete de ternera (qualia compartido por leyes biológicas comunes, diferencias por factores físicos individuales); (c) autorreferencia como solución específica al hard problem en humanos (metaconciencia ES la naturaleza del qualia humano); (d) idealismo y postmodernismo como falsas soluciones por autorreferencia; (e) caja negra entre lo psicoevolutivo y lo explícito + cálculo lambda como lenguaje de formalización; (f) integración enactiva Maturana-Varela (continuidad somático-representacional) — refuta directamente la laguna 'Relación con la fenomenología enactiva-somática'; (g) memoria como ilusión + P300 como reconocimiento sin qualia; (h) qualia como transitividad (contraste entre estados, no estado-objeto); (i) experiencias inefables (éxtasis, ECM, drogas) como evidencia de qualia compartido; (j) tiempo como qualia (afecto novedad + linealidad imaginaria); (k) síntesis: conciencia como proto-experiencias simultáneas + redes meta-representacionales que recodifican.",
+      "quote_evidence": "El hard problem pregunta: si una máquina no puede tener esas experiencias y yo no puedo comparar la naturaleza de mi experiencia con la de otros, ¿son diferentes las experiencias subjetivas y se puede decir que existen?,"
+    },
+    {
+      "surface_form": "memoria como ilusión / P300 / reconocimiento sin qualia",
+      "canonical_guess": "teoria-de-la-memoria-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 6,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La memoria no existe como almacén: cada momento del yo es diferente al anterior, y recordar es modificar el supuesto recuerdo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Tesis de la memoria como ilusión (no almacenamiento) ya central en la página teoria-de-la-memoria-en-proxy. Este vídeo añade la pieza P300 (potencial evocado que salta ante material conocido incluso sin experiencia subjetiva del conocimiento) como evidencia neurofisiológica de que hay reconocimiento somático SIN qualia consciente — distinción operativa importante. Cita-only update para retrieval indirecto.",
+      "quote_evidence": "La P300 es un potencial evocado que salta cuando algo es conocido, incluso cuando la persona no sabe que lo conoce,"
+    },
+    {
+      "surface_form": "teoría enactiva Maturana-Varela (continuidad somático-representacional)",
+      "canonical_guess": "maturana-humberto",
+      "page_type": "author",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "tertiary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Proxy integró esta idea: la experiencia somática forma parte de la conciencia sin discontinuidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Maturana-Varela ya tiene página de autor. Este vídeo articula explícitamente cómo Proxy integró la teoría enactiva en el realismo cognitivo: continuidad somático-representacional sin barrera, que reformula el hard problem. Cita-only para retrieval indirecto — la prosa principal queda en conciencia-e-inteligencia-en-proxy donde se articula la integración.",
+      "quote_evidence": "La teoría enactiva de Maturana y Varela propone que no hay barrera entre lo somático y la representación sino un continuo,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "conciencia-e-inteligencia-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza precisa por qué los LLM no son inteligentes: no tienen matriz afectiva que modular, y por tanto la operación que define inteligencia es categóricamente inejecutable por ellos. La definición es coherente con HOT — la modulación es metarrepresentacional, opera sobre los afectos como objetos, no como la actividad afectiva inmediata — y con la tesis 3Q — sin componente afectiva no hay matriz que modular. La conexión con [[algebra-afectiva]] es directa: el álgebra afectiva describe formalmente las operaciones disponibles para esa modulación.",
+      "content_proposed": "\n\n## Diálogo con Exit (ago 2024): hard/soft problem articulados, caja negra inconsciente y continuidad enactiva\n\nEn el directo *Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia* (07 ago 2024) — diálogo de 137 min con un interlocutor venido de ciencias cognitivas — el canal articula explícitamente la distinción hard/soft problem que esta página presentaba en términos de problema débil/fuerte, añade la mecánica de la autorreferencia como solución específica al hard problem humano, integra la fenomenología enactiva Maturana-Varela (refutando la laguna correspondiente), y articula el modelo de caja negra entre lo psicoevolutivo y lo explícito.\n\n### Hard problem y la metáfora del filete: la naturaleza del qualia\n\n> \"La experiencia subjetiva (qualia) es subjetiva porque pertenece al yo y está determinada por afectos que marcan lo propio,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (55:47)](https://youtu.be/rjG3RbEYcL0?t=3347)\n\n> \"Dos experiencias subjetivas son muy parecidas porque se basan en las mismas leyes biológicas, como dos filetes de ternera de vacas distintas,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (59:19)](https://youtu.be/rjG3RbEYcL0?t=3559)\n\n> \"Las diferencias entre cualias provienen de diferencias físicas individuales, no de sustancias distintas,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (59:19)](https://youtu.be/rjG3RbEYcL0?t=3559)\n\nLa metáfora articula la posición fisicalista de la página en términos sensoriales: dos qualias de la misma experiencia (rojo, dolor, alegría) son al qualia universal lo que dos filetes de ternera son al filete-tipo — comparten estructura y sustrato por necesidad biológica común, difieren en parámetros físicos individuales sin ser sustancias distintas. La pregunta del hard problem se reformula: 'de qué está hecho el filete'. La respuesta: de afectos que marcan lo propio del yo, articulando experiencia subjetiva irreductible a descripción objetiva.\n\n### Autorreferencia como solución específica al hard problem humano\n\n> \"No podemos definir el qualia sin usar qualia: es un problema de autorreferencia formalmente irresoluble (como en matemáticas, por completitud),\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:01:50)](https://youtu.be/rjG3RbEYcL0?t=3710)\n\n> \"Sin embargo, en los seres humanos la autorreferencia es en sí misma un tipo de qualia: la metaconsciencia es precisamente la naturaleza del qualia humano,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:01:50)](https://youtu.be/rjG3RbEYcL0?t=3710)\n\n> \"Para una máquina la autorreferencia es irresoluble, pero para la mente humana es el punto de partida y de llegada de la experiencia consciente,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:01:50)](https://youtu.be/rjG3RbEYcL0?t=3710)\n\nLa pieza articula la **asimetría máquina/humano** ante el problema de la autorreferencia. Para una máquina, definir el qualia con qualia es paradoja de completitud irresoluble — como Gödel mostrando que un sistema formal no puede demostrar su propia consistencia desde dentro. Para la mente humana, la autorreferencia **no es problema sino constitución**: la metaconciencia (representación de la representación) ES la naturaleza específica del qualia humano. Lo que la lógica formal trata como bug, la cognición humana lo trata como feature foundational. Esto refina y refuta parcialmente la laguna 'Estatus del problema fuerte tras adoptar fisicalismo agregacionista': el hard problem subsiste para sistemas externos al qualia humano (máquinas) pero queda **disuelto en condición de posibilidad** para el qualia humano mismo. La pieza enlaza con [[teoria-del-simbolo-en-proxy]] (ambiguación como operación cognitiva nuclear que solo el aparato humano puede ejecutar).\n\n#### Diferencia entre problema formal y problema filosófico del qualia\n\n> \"Matemáticamente no puedes definir algo consigo mismo (problema de completitud), pero filosóficamente sí se puede reducir y trabajar con el qualia,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:05:23)](https://youtu.be/rjG3RbEYcL0?t=3923)\n\nDistinción operativa entre dominios: el problema formal (autorreferencia matemática) es irresoluble por teoremas de completitud; el problema filosófico es más laxo y permite trabajar con el qualia desde dentro del aparato cognitivo. La analogía teológica que el speaker usa: filosóficamente 'Dios está hecho de Dios' es articulación trabajable; matemáticamente no.\n\n### Idealismo y postmodernismo como falsas soluciones\n\n> \"El idealismo dice que si todo son ideas, no hay problema de cómo la materia genera ideas,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:07:25)](https://youtu.be/rjG3RbEYcL0?t=4045)\n\n> \"Pero el idealismo se anula por autorreferencia: no puede explicar con ideas qué son las ideas,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:07:25)](https://youtu.be/rjG3RbEYcL0?t=4045)\n\n> \"El postmodernismo opera igual: dice que la subjetividad impide todo ejercicio ontológico, pero eso no resuelve el problema sino que le pega un tiro,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:07:25)](https://youtu.be/rjG3RbEYcL0?t=4045)\n\nDiagnóstico estructural: el idealismo aparenta resolver el hard problem disolviendo la materia en ideas, pero queda atrapado en la misma autorreferencia que pretendía evitar — no puede explicar con ideas qué son las ideas. El postmodernismo opera homólogamente: invocar la subjetividad como límite del ejercicio ontológico no es solución sino disolución del problema por fiat. Ambos son **falsas soluciones por escape autorreferencial**. El realismo cognitivo del canal asume la autorreferencia como condición operativa, no la elude.\n\n### Caja negra: el hueco entre lo psicoevolutivo y lo explícito\n\n> \"Primero está la mecánica psicoevolutiva con intención final, después cuánto de eso termina siendo explícito (mental y somáticamente),\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:17:30)](https://youtu.be/rjG3RbEYcL0?t=4650)\n\n> \"Hay un hueco inexplicable entre ambos, pero si encajas lo formal con lo fenomenológico tienes un modelo que funciona como caja negra,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:17:30)](https://youtu.be/rjG3RbEYcL0?t=4650)\n\nEl modelo de Proxy frente al hard problem es **caja negra operativa**: dos planos (la mecánica psicoevolutiva con intención final + la franja explícita mental y somática) con un hueco inexplicable entre ellos. La caja negra no pretende cerrar el hueco; pretende que el modelo funcione encajando lo formal (operaciones describibles) con lo fenomenológico (vivencias subjetivas reportables). La consecuencia metodológica: el realismo cognitivo NO se compromete con la disolución del hard problem, se compromete con un modelo operativo que opera A AMBOS LADOS del hueco sin pretender atravesarlo. El speaker articula la genealogía de este insight:\n\n> \"Proxy se cayó al río porque descubrió que la componente inconsciente de la conciencia cambiaba radicalmente tanto el hard problem como el soft problem,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:17:30)](https://youtu.be/rjG3RbEYcL0?t=4650)\n\n#### Cálculo lambda como lenguaje para formalizar la conciencia\n\n> \"El cálculo lambda permite elaborar funciones sin entrada y salida: es una mezcla entre pseudocódigo y lenguaje semántico,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:19:00)](https://youtu.be/rjG3RbEYcL0?t=4740)\n\n> \"El modelo 3Q se puede describir en cálculo lambda: todo lo que sabemos de psicología (salvo el hard problem) se puede explicar y formalizar con este modelo,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:19:00)](https://youtu.be/rjG3RbEYcL0?t=4740)\n\nEl cálculo lambda aparece como el lenguaje formal que el canal propone para articular el modelo 3Q (afectivo + formal + imaginario) — funciones sin entrada/salida pura, mezcla pseudocódigo + lenguaje semántico, no orientado a cómputo de máquina sino a traducción de categorías abstractas. La pieza es importante metodológicamente: el modelo psicológico del canal admite formalización **excepto en el hard problem**, donde la caja negra subsiste por necesidad estructural.\n\n### Continuidad somático-representacional: integración de Maturana y Varela\n\n> \"La teoría enactiva de Maturana y Varela propone que no hay barrera entre lo somático y la representación sino un continuo,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:28:08)](https://youtu.be/rjG3RbEYcL0?t=5288)\n\n> \"Proxy integró esta idea: la experiencia somática forma parte de la conciencia sin discontinuidad,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:28:08)](https://youtu.be/rjG3RbEYcL0?t=5288)\n\nLa pieza **refuta directamente la laguna 'Relación con la fenomenología enactiva-somática'** que la página declaraba como pendiente. El canal articula la integración explícita: la teoría enactiva de [[maturana-humberto|Maturana y Varela]] elimina la barrera ontológica entre lo somático (cuerpo, percepción corporal) y la representación (contenido cognitivo) — son un continuo, no dos planos separados con interfaz. La componente imaginaria/somática del 3Q queda así fundamentada filosóficamente: no es 'sensación' que se traduce a 'representación', es **un mismo proceso enactivo** que opera con grados de explicitud distintos. Esto refina la sección 'Componente imaginario NO equivale a visual' (los ciegos tienen representaciones somáticas táctiles) — la equivalencia es estructural, no analógica.\n\n### Memoria como ilusión y la P300: reconocimiento sin qualia\n\n> \"La memoria no existe como almacén: cada momento del yo es diferente al anterior, y recordar es modificar el supuesto recuerdo,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:39:13)](https://youtu.be/rjG3RbEYcL0?t=5953)\n\n> \"La conciencia es una sucesión de estados internos (matrices de tuplas superpuestas) donde la memoria es la ilusión de que algunas cosas no han cambiado,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:39:13)](https://youtu.be/rjG3RbEYcL0?t=5953)\n\nLa pieza refuerza desde la conciencia la tesis articulada en [[teoria-de-la-memoria-en-proxy]] sobre la memoria como ilusión: la conciencia es **sucesión de estados internos** (matrices de tuplas superpuestas) y la memoria es la ilusión de que algunas cosas se han conservado entre estados. La pieza añade evidencia neurofisiológica:\n\n> \"La P300 es un potencial evocado que salta cuando algo es conocido, incluso cuando la persona no sabe que lo conoce,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:41:45)](https://youtu.be/rjG3RbEYcL0?t=6105)\n\n> \"Esta memoria somática no pertenece al qualia: hay conciencia sin memoria y hay reconocimiento sin experiencia subjetiva,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:41:45)](https://youtu.be/rjG3RbEYcL0?t=6105)\n\nLa **P300** (potencial evocado positivo a ~300 ms de latencia, marca neurofisiológica del reconocimiento de material conocido) opera como evidencia operativa de la disociación: el reconocimiento somático puede ocurrir SIN que el sujeto sepa que está reconociendo. El sustrato neural del reconocimiento NO requiere qualia consciente — son sistemas disociados. La consecuencia para la página es importante: confirma que la conciencia (qualia humano) no se reduce a memoria ni a reconocimiento; psicóticos y amnésicos conservan qualia, y reconocedores inconscientes (vía P300) reconocen sin qualia. Las cuatro disociaciones funcionan en cuatro direcciones.\n\n### Qualia como transitividad: contraste entre estados\n\n> \"Hablar de qualia tiene menos sentido que hablar del estado del yo como transición,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:45:48)](https://youtu.be/rjG3RbEYcL0?t=6348)\n\n> \"La forma y el fondo son una ilusión: la experiencia es transitividad, solo tiene sentido como contraste entre un estado y el inmediatamente posterior,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:45:48)](https://youtu.be/rjG3RbEYcL0?t=6348)\n\n> \"Los estados del yo funcionan como transformadas, no como fotos: hay que añadir tiempo porque los componentes están solapados,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:45:48)](https://youtu.be/rjG3RbEYcL0?t=6348)\n\nReformulación importante del aparato: el qualia no es objeto puntual sino **transitividad** entre estados del yo. La experiencia consciente no es 'foto' (estado-objeto) sino 'transformada' (cambio entre estados con componentes solapados que requieren tiempo). La consecuencia teórica: hablar de 'qualia del rojo' es artefacto lingüístico — el qualia real es el contraste entre estado(t) y estado(t+1) donde el rojo aparece como diferencia. Esto enlaza con el primer axioma del álgebra afectiva (toda clase tiene como función la transitoriedad) y refina la articulación 3Q de la página: las componentes son siempre relacionales-temporales, nunca estáticas.\n\n### El problema del rojo y las experiencias inefables\n\n> \"Proxy puede leer en el cerebro si alguien percibe rojo o azul porque conoce la traducción neuronal de las ondas,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:53:22)](https://youtu.be/rjG3RbEYcL0?t=6802)\n\n> \"La pregunta no es si alguien ve el rojo como azul, sino cómo sabemos que la subjetividad de la percepción del rojo es la misma entre dos personas,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:53:22)](https://youtu.be/rjG3RbEYcL0?t=6802)\n\n> \"Existen experiencias conscientes inefables que todo el mundo reconoce pero nadie puede transmitir: éxtasis divinos, experiencias cercanas a la muerte, estados alterados por drogas,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:57:25)](https://youtu.be/rjG3RbEYcL0?t=7045)\n\n> \"Sabemos que todos experimentan la misma sensación inefable a pesar de no poder explicitarla,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:57:25)](https://youtu.be/rjG3RbEYcL0?t=7045)\n\nLa pieza articula el problema del rojo en su versión refinada: la pregunta NO es si alguien ve rojo donde yo veo azul (problema de cualidad invertida, falsable empíricamente), sino si **la subjetividad de la percepción** del rojo es la misma entre dos personas. Esta segunda pregunta es la versión propia del hard problem. La evidencia indirecta a favor de qualia compartido viene de las **experiencias inefables**: éxtasis divinos, experiencias cercanas a la muerte, estados alterados por drogas — fenómenos que se reconocen entre personas como compartidos sin posibilidad de explicitación lingüística. La inefabilidad no es defecto comunicativo contingente sino marca estructural del qualia: si fuera plenamente articulable verbalmente, no sería qualia.\n\n### Tiempo como qualia\n\n> \"El tiempo es un qualia: una combinación entre una componente imaginaria (linealidad) y una componente afectiva (novedad/no-novedad),\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (2:02:59)](https://youtu.be/rjG3RbEYcL0?t=7379)\n\n> \"No se puede usar el tiempo para definir la conciencia desde fuera porque el tiempo mismo es un producto de la experiencia,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (2:02:59)](https://youtu.be/rjG3RbEYcL0?t=7379)\n\nPieza categorial: el tiempo no es marco externo en el que ocurre la conciencia sino **qualia él mismo** — combinación de componente imaginaria (linealidad espacial proyectada) y componente afectiva (sensación de novedad / no-novedad). La consecuencia metodológica es importante: no se puede definir la conciencia 'desde fuera' usando el tiempo como parámetro independiente porque el tiempo es producto interno de la experiencia consciente. Definir la conciencia como un 'cómo' (proceso) en vez de un 'qué' (objeto) no es error metodológico sino la forma correcta de abordarla — el aparato 3Q se reformula como **proceso temporal-afectivo-imaginario**, no como estructura sincrónica.\n\n### Conciencia como proto-experiencias simultáneas + meta-representación\n\n> \"La conciencia viene de proto-experiencias simultáneas: el estado del yo en el \\\"ahora\\\" está formado por un conjunto de redes que provocan proto-experiencia,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (2:07:02)](https://youtu.be/rjG3RbEYcL0?t=7622)\n\n> \"La conciencia aparece cuando en el estado inmediatamente posterior conviertes lo anterior en un resultado ambiguo: una idea, una emoción,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (2:07:02)](https://youtu.be/rjG3RbEYcL0?t=7622)\n\n> \"Es una combinación entre simultaneidad de proto-experiencias y redes diseñadas para recodificar otras redes,\"\n→ [Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (2:07:02)](https://youtu.be/rjG3RbEYcL0?t=7622)\n\nSíntesis final del aparato: la conciencia emerge de la **combinación de dos mecánicas** que la página articulaba por separado como GWT-like (simultaneidad de redes) y HOT (metarrepresentación). La articulación integrada:\n\n1. **Proto-experiencias simultáneas**: el estado del yo en el 'ahora' es un conjunto de redes activadas en paralelo, cada una produciendo proto-experiencia (sin qualia consciente todavía).\n2. **Recodificación metarrepresentacional**: el estado(t+1) toma el conjunto del estado(t) y lo **convierte en resultado ambiguo** — una idea, una emoción — mediante redes diseñadas para recodificar otras redes.\n\nLa conciencia es la operación de **ambiguación** (en términos de [[teoria-del-simbolo-en-proxy]]) ejecutada por las redes meta-representacionales sobre las proto-experiencias simultáneas. La página marcaba preferencia por HOT pero la dejaba como compromiso declarado; aquí el mecanismo concreto queda articulado: HOT NO opera sobre representaciones-objeto estáticas sino sobre **el conjunto temporal-simultáneo** producido por la activación paralela de redes — lo que permite que la subjetividad emerja como ambiguación recursiva, no como reflexión sobre objetos pre-dados. Esto refina la laguna 'Mecanismo concreto de la jerarquía metarrepresentacional': el mecanismo es la transformada del estado(t) al estado(t+1) mediante recodificación ambiguante.\n",
+      "section_target": null,
+      "supersedes_laguna_text": "**Relación con la fenomenología enactiva-somática**: vídeos previos del canal apuntaban a un posicionamiento «metarrepresentacionalismo más enactividad somática»; aquí HOT ocupa todo el espacio teórico y la pieza enactiva queda implícita en la componente imaginaria/somática.",
+      "wikilinks_introduced": [
+        "maturana-humberto",
+        "teoria-de-la-memoria-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 3347,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (55:47)](https://youtu.be/rjG3RbEYcL0?t=3347)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 3559,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (59:19)](https://youtu.be/rjG3RbEYcL0?t=3559)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 3710,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:01:50)](https://youtu.be/rjG3RbEYcL0?t=3710)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 3923,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:05:23)](https://youtu.be/rjG3RbEYcL0?t=3923)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 4045,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:07:25)](https://youtu.be/rjG3RbEYcL0?t=4045)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 4650,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:17:30)](https://youtu.be/rjG3RbEYcL0?t=4650)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 4740,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:19:00)](https://youtu.be/rjG3RbEYcL0?t=4740)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 5288,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:28:08)](https://youtu.be/rjG3RbEYcL0?t=5288)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 5953,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:39:13)](https://youtu.be/rjG3RbEYcL0?t=5953)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 6105,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:41:45)](https://youtu.be/rjG3RbEYcL0?t=6105)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 6348,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:45:48)](https://youtu.be/rjG3RbEYcL0?t=6348)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 6802,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:53:22)](https://youtu.be/rjG3RbEYcL0?t=6802)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 7045,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:57:25)](https://youtu.be/rjG3RbEYcL0?t=7045)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 7379,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (2:02:59)](https://youtu.be/rjG3RbEYcL0?t=7379)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 7622,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (2:07:02)](https://youtu.be/rjG3RbEYcL0?t=7622)"
+        }
+      ],
+      "rationale": "Diálogo de 137 min con Exit (especialista en ciencias cognitivas) directamente sobre el hard/soft problem que esta página articula. Material genuinamente nuevo al cuerpo: (a) metáfora del filete como articulación intuitiva del qualia fisicalista; (b) autorreferencia como solución específica al hard problem humano (metaconciencia ES la naturaleza del qualia) — refuta parcialmente laguna 'Estatus del problema fuerte tras adoptar fisicalismo agregacionista'; (c) idealismo y postmodernismo como falsas soluciones por escape autorreferencial; (d) modelo caja negra entre lo psicoevolutivo y lo explícito; (e) cálculo lambda como lenguaje de formalización; (f) integración Maturana-Varela (refuta directamente laguna 'Relación con la fenomenología enactiva-somática' — supersedes_laguna_text apunta a esa); (g) P300 como evidencia de reconocimiento sin qualia (refina la articulación de disociaciones); (h) qualia como transitividad entre estados (no objeto-foto); (i) experiencias inefables como evidencia indirecta de qualia compartido; (j) tiempo como qualia; (k) síntesis: conciencia = proto-experiencias simultáneas + recodificación ambiguante (refina la laguna 'Mecanismo concreto de la jerarquía metarrepresentacional').",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "conciencia-e-inteligencia-en-proxy",
+      "update_type": "replace_passage",
+      "anchor_passage": "- **Mecanismo concreto de la jerarquía metarrepresentacional**: cómo se implementa neurobiológicamente la metarrepresentación (qué circuitos, qué dinámica, qué relación con redes específicas como la default mode network) no se especifica.",
+      "content_proposed": "- **Mecanismo concreto de la jerarquía metarrepresentacional**: el directo con Exit (ago 2024) articula que el mecanismo es la transformada del estado(t) al estado(t+1) mediante recodificación ambiguante de proto-experiencias simultáneas — combinación de simultaneidad GWT-like y recodificación HOT. Queda abierto qué circuitos neurobiológicos específicos implementan esa recodificación (relación con default mode network, action mode network, córtex prefrontal) más allá de la articulación funcional",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "Refinamiento del bullet de laguna. El directo con Exit articula el mecanismo funcional (proto-experiencias simultáneas + recodificación ambiguante) que la página dejaba abierto. Queda abierto solo el flanco neurobiológico específico (circuitos concretos).",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "teoria-de-la-memoria-en-proxy",
+      "update_type": "append_to_section",
+      "anchor_passage": null,
+      "section_target": "Citations",
+      "content_proposed": "- **Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia** — chunks: [1:39:13](https://youtu.be/rjG3RbEYcL0?t=5953) · [1:41:45](https://youtu.be/rjG3RbEYcL0?t=6105)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 5953,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:39:13)](https://youtu.be/rjG3RbEYcL0?t=5953)"
+        },
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 6105,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:41:45)](https://youtu.be/rjG3RbEYcL0?t=6105)"
+        }
+      ],
+      "rationale": "Cita-only. La tesis de la memoria como ilusión (no almacén) y la pieza P300 como evidencia de reconocimiento somático sin qualia refuerzan la articulación de la página. La prosa queda en conciencia-e-inteligencia-en-proxy.",
+      "editorial_intent": "enrich"
+    },
+    {
+      "page_id": "maturana-humberto",
+      "update_type": "append_to_section",
+      "anchor_passage": null,
+      "section_target": "Citations",
+      "content_proposed": "- **Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia** — chunks: [1:28:08](https://youtu.be/rjG3RbEYcL0?t=5288)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "rjG3RbEYcL0",
+          "timestamp_seconds": 5288,
+          "cite_markdown": "[Proxy le explica a Exit el \"hard problem\" y el \"soft problem\" de la conciencia (1:28:08)](https://youtu.be/rjG3RbEYcL0?t=5288)"
+        }
+      ],
+      "rationale": "Cita-only. Articulación explícita por parte de Proxy de cómo integró la teoría enactiva Maturana-Varela en el realismo cognitivo (continuidad somático-representacional sin barrera, reformulación del hard problem). La prosa queda en conciencia-e-inteligencia-en-proxy donde se desarrolla la integración.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Ghost in the Shell como dualismo cognitivo (biografía de Exit)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Anécdota biográfica sobre Exit (cambio de carrera tras ver la serie) + uso del título de la obra como ilustración del modelo dualista. La obra ghost-in-the-shell-sac ya tiene página propia con análisis arquetípico. La articulación aquí es pedagógica para el contexto del diálogo, no análisis sustantivo nuevo.",
+      "quote_evidence": "Exit se interesó por la cognición tras ver la serie y cambió de carrera (de derecho a ciencias cognitivas),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "ghost-in-the-shell-sac",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "dualismo naturalista y campos cuánticos",
+      "reason_code": "already_captured",
+      "reason_detail": "La posición fisicalista del canal y el rechazo del dualismo (incluido el dualismo de campo electromagnético) está articulado extensamente en conciencia-e-inteligencia-en-proxy ('Posición rechazada parcialmente — dualismo de campo electromagnético'). Este vídeo reafirma la posición monista de Proxy sin añadir matiz nuevo. La aclaración 'la fe católica en el alma va en paralelo y no interfiere con la posición psicobiológica' es metaobservación personal sin enriquecimiento estructural.",
+      "quote_evidence": "Proxy se declara monista: cree que la conciencia empieza y acaba en la materia y la energía,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "dos teorías de Proxy: disparos simultáneos + redes meta-representacionales",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación de las dos teorías favoritas que el canal combina. Capturada en el update mayor en la sección 'Conciencia como proto-experiencias simultáneas + meta-representación', que la presenta como síntesis integradora del aparato GWT-like + HOT que la página ya articulaba.",
+      "quote_evidence": "Proxy defiende que una combinación de ambos modelos es lo que causa la conciencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "determinismo + libre albedrío + libertad como capacidad de ambigüar",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación del libre albedrío como ilusión funcional con la capacidad de ambigüar como mecanismo está extensamente documentada en libre-albedrio-ilusion-funcional. Este vídeo reafirma con la misma formulación. La pieza 'la actitud útil es vivir como si existiera la libertad' está cubierta en la sección 'Libre albedrío como ilusión psíquica funcional' de la página existente.",
+      "quote_evidence": "Proxy es determinista pero cree en el libre albedrío: la libertad es la capacidad de ambigüar, no el poder absoluto sobre los actos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "libre-albedrio-ilusion-funcional",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "soft problem como reconstrucción modular vía pacientes con lesiones",
+      "reason_code": "already_captured",
+      "reason_detail": "La distinción problema débil vs fuerte y la abordabilidad empírica del soft problem (vía neuropsicología, neuroimagen, psiquiatría) están en conciencia-e-inteligencia-en-proxy ('Distinción problema débil vs problema fuerte'). Este vídeo reafirma con la formulación 'soft' = soft porque la psicología clínica permite reconstruir módulos. Equivalencia conceptual.",
+      "quote_evidence": "Se llama \"soft\" porque la psicología clínica permite reconstruir módulos cognitivos estudiando pacientes con lesiones cerebrales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "conciencia-e-inteligencia-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "humanos pueden meditar / inhibir voluntariamente afectos",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza ilustrativa de la diferencia cualitativa humano/animal en el soft problem. La articulación de la meditación como inhibición de la Default Mode Network está documentada en teoria-del-simbolo-en-proxy ('Default Mode Network y Action Mode Network como anticorrelación'). Este vídeo reafirma como ejemplo del soft problem.",
+      "quote_evidence": "Los humanos pueden meditar (inhibir voluntariamente sus afectos), algo que ningún animal puede hacer ni comprender,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Exit como interlocutor (especialista en ciencias cognitivas)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Exit es interlocutor recurrente del canal. La página intimidad-y-confesion-en-proxy y otras lo mencionan en colaboraciones. Su presencia aquí es contexto del diálogo, no objeto enciclopédico.",
+      "quote_evidence": "Exit se interesó por la cognición tras ver la serie y cambió de carrera (de derecho a ciencias cognitivas),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "primeros 34 minutos del vídeo no incluidos en summary",
+      "reason_code": "meta_canal",
+      "reason_detail": "El summary comienza en 34:37; los primeros 34 min del diálogo no han sido extraídos. Si el procesamiento futuro genera summary completo, se reabrirá esta extracción para los segmentos 00:00-34:37.",
+      "quote_evidence": "34:37 🧠 Ghost in the Shell como metáfora del dualismo cognitivo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 8,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0",
+    "extractor_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP framing_mark @ entity[conciencia-e-inteligencia-en-proxy]: 'En los seres humanos la autorreferencia es en sí misma un ti'"
+  ]
+}
