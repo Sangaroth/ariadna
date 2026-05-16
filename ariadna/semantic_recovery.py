@@ -63,7 +63,6 @@ from scan_mentions_ledger import (  # type: ignore  # noqa: E402
     _enrich_findings_with_timestamps,
     _normalize_for_match,
     _resolve_video_paths,
-    ALIASES_BLOCK_RE,
     FRONTMATTER_RE,
 )
 
@@ -413,8 +412,50 @@ def _llm_judge(
     )
 
 
+# Regex propios para parsear el bloque `aliases:` del frontmatter.
+# scan_mentions_ledger.ALIASES_BLOCK_RE solo matchea flow syntax (`[...]`),
+# pero las wikis usan block syntax (`-` list). Soportamos AMBAS y preservamos
+# el estilo original al reescribir.
+_ALIASES_FLOW_RE = re.compile(
+    r"^aliases:[ \t]*\[(?P<body>[^\]]*)\][ \t]*\n",
+    re.MULTILINE,
+)
+_ALIASES_BLOCK_RE_LOCAL = re.compile(
+    r"^aliases:[ \t]*\n(?P<body>(?:[ \t]*-[ \t]+[^\n]+\n)+)",
+    re.MULTILINE,
+)
+
+
+def _parse_aliases_block(fm: str) -> tuple[str, int, int, list[str]] | None:
+    """Detecta el bloque aliases existente. Devuelve (style, start, end, items)
+    o None si no hay bloque. style ∈ {'flow', 'block'}."""
+    m = _ALIASES_BLOCK_RE_LOCAL.search(fm)
+    if m:
+        items: list[str] = []
+        for line in m.group("body").splitlines():
+            cleaned = line.strip().lstrip("-").strip().strip('"').strip("'").strip()
+            if cleaned:
+                items.append(cleaned)
+        return ("block", m.start(), m.end(), items)
+    m = _ALIASES_FLOW_RE.search(fm)
+    if m:
+        body = m.group("body")
+        items = [s.strip().strip('"').strip("'") for s in body.split(",") if s.strip()]
+        return ("flow", m.start(), m.end(), items)
+    return None
+
+
+def _render_aliases(items: list[str], style: str) -> str:
+    """Renderiza el bloque preservando el estilo original."""
+    if style == "flow":
+        body = ", ".join(items)
+        return f"aliases: [{body}]\n"
+    return "aliases:\n" + "\n".join(f"- {a}" for a in items) + "\n"
+
+
 def _add_alias_to_page(page_path: Path, new_alias: str) -> bool:
-    """Añade new_alias al frontmatter.aliases si no duplica (case+diacritics insensitive).
+    """Añade new_alias al frontmatter.aliases si no duplica (case+diacritics
+    insensitive). Soporta block y flow syntax y preserva el estilo existente.
 
     Returns True si se modificó el archivo, False si ya existía o no se pudo añadir.
     """
@@ -422,36 +463,34 @@ def _add_alias_to_page(page_path: Path, new_alias: str) -> bool:
     m = FRONTMATTER_RE.match(text)
     if not m:
         return False
-    fm = m.group(1)
+    fm = m.group(1) + "\n"  # añade newline trailing para que los regex multiline matcheen el último bloque
 
-    am = ALIASES_BLOCK_RE.search(fm)
-    existing: list[str] = []
-    if am:
-        raw = am.group(1)
-        for line in raw.splitlines():
-            cleaned = line.strip().lstrip("-").strip().strip('"').strip("'").strip()
-            if cleaned:
-                existing.append(cleaned)
+    parsed = _parse_aliases_block(fm)
+    if parsed is not None:
+        style, start, end, existing = parsed
+    else:
+        style, start, end, existing = "block", -1, -1, []
 
     new_norm = _normalize_for_match(new_alias)
     if any(_normalize_for_match(e) == new_norm for e in existing):
         return False
 
-    new_aliases = existing + [new_alias]
-    new_block = "aliases:\n" + "\n".join(f"- {a}" for a in new_aliases) + "\n"
+    new_items = existing + [new_alias]
+    new_block = _render_aliases(new_items, style)
 
-    if am:
-        # Replace existing aliases block (incluye newline final)
-        new_fm = fm[:am.start()] + new_block.rstrip("\n") + "\n" + fm[am.end():]
+    if parsed is not None:
+        new_fm = fm[:start] + new_block + fm[end:]
     else:
-        # Insertar tras canonical_name si existe; sino al final del fm
-        cn_m = re.search(r"^canonical_name:\s*[^\n]+\n", fm, re.MULTILINE)
+        # No hay bloque: insertar tras canonical_name si existe, sino al final.
+        cn_m = re.search(r"^canonical_name:[^\n]*\n", fm, re.MULTILINE)
         if cn_m:
             insert_at = cn_m.end()
             new_fm = fm[:insert_at] + new_block + fm[insert_at:]
         else:
-            new_fm = fm.rstrip() + "\n" + new_block
+            new_fm = fm.rstrip("\n") + "\n" + new_block
 
+    # quita el newline trailing extra que añadimos para el match
+    new_fm = new_fm.rstrip("\n")
     new_text = text.replace(m.group(0), f"---\n{new_fm}\n---\n", 1)
     page_path.write_text(new_text, encoding="utf-8")
     return True
