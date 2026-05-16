@@ -1292,3 +1292,647 @@ Notas:
 - `data/ariadna.db` no se commitea jamás. Si vuelves a empezar la migración desde cero, simplemente borra el archivo local y re-ejecuta init + migrate.
 
 ---
+
+## Chunk 3: Filesystem refactor
+
+> Refactor estructural del filesystem para mover el corpus Proxy a `projects/proxy/`, dejando `wiki/_meta/` como home de los recursos globales (defaults editables + `relation_types_core.json`). Casi todo son `git mv`: poco código nuevo, mucha cirugía de paths. NO modifica `scripts/extract_video_themes.py` ni ningún path hardcoded en Python (eso es Chunk 4); aquí solo se mueven archivos y se crean placeholders.
+>
+> **Pre-condición:** Chunk 2 completado (`data/ariadna.db` existe con el contenido migrado). El refactor de filesystem no toca SQLite ni Qdrant.
+>
+> **Por qué no es TDD:** la mayoría de las tasks son `git mv` cuyo "test" es la verificación post-hoc del filesystem. Para esas tasks se usa el patrón "ejecutar comando → verificar resultado con check explícito → commit". La task 3.5 (extracción de prompts a markdown) SÍ tiene test: byte-equality con el constante Python original.
+
+### Task 3.1: Mover el contenido wiki Proxy a `projects/proxy/wiki/`
+
+**Files:**
+- Move: `wiki/concepts/`     → `projects/proxy/wiki/concepts/`
+- Move: `wiki/authors/`      → `projects/proxy/wiki/authors/`
+- Move: `wiki/entities/`     → `projects/proxy/wiki/entities/`
+- Move: `wiki/synthesis/`    → `projects/proxy/wiki/synthesis/`
+- Move: `wiki/README.md`     → `projects/proxy/wiki/README.md`
+
+- [ ] **Step 1: Crear el directorio destino**
+
+```bash
+mkdir -p projects/proxy/wiki
+ls -la projects/proxy/wiki/
+# Expected: empty dir
+```
+
+- [ ] **Step 2: Mover los 4 subdirs y el README**
+
+```bash
+git mv wiki/concepts  projects/proxy/wiki/concepts
+git mv wiki/authors   projects/proxy/wiki/authors
+git mv wiki/entities  projects/proxy/wiki/entities
+git mv wiki/synthesis projects/proxy/wiki/synthesis
+git mv wiki/README.md projects/proxy/wiki/README.md
+```
+
+- [ ] **Step 3: Verificar resultado**
+
+```bash
+# Nuevo layout: 4 subdirs + README en projects/proxy/wiki/
+ls projects/proxy/wiki/
+# Expected: README.md authors concepts entities synthesis
+
+# Old paths gone:
+[ ! -d wiki/concepts ] && [ ! -d wiki/authors ] && [ ! -d wiki/entities ] && [ ! -d wiki/synthesis ] \
+    && echo "ok: old paths gone" || echo "FAIL: old paths still exist"
+
+# Conteo de páginas conservado:
+find projects/proxy/wiki -name '*.md' | wc -l
+# Expected: igual a `find wiki/{concepts,authors,entities,synthesis} -name '*.md' | wc -l` antes
+# Para Proxy: ~183-220 archivos.
+
+# Git ve los movimientos como renames (no como delete+add):
+git status --short | head -20
+# Expected: lines starting with "R " (renames). Si aparece "D " seguido de "??" es que git
+# no detectó el rename — re-ejecutar con git mv explícito archivo a archivo.
+```
+
+- [ ] **Step 4: Notas sobre artefactos no contemplados**
+
+- `wiki/Sin nombre/`: directorio vacío untracked (residuo Obsidian). NO mover; opcionalmente `rmdir 'wiki/Sin nombre'` si vacío para limpieza, pero no bloqueante.
+- Cualquier otro archivo suelto en `wiki/` raíz (excepto `wiki/_meta/`) que aparezca en `git status`: revisar caso por caso. Esperado: ninguno tras el `git mv`.
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add -A projects/proxy/wiki/
+git status --short  # last check antes de commit
+git commit -m "refactor(projects): mover contenido wiki Proxy a projects/proxy/wiki/
+
+git mv de concepts/ authors/ entities/ synthesis/ + README.md.
+Los .md son la fuente de verdad; SQLite se reconstruye con build_wiki_db.py
+(Chunk 4 aplicará el flag --project para hacerlo project-aware).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 3.2: Mover los `_meta/` editoriales de Proxy a `projects/proxy/_meta/`
+
+> Mueve los archivos editoriales específicos de Proxy a su nuevo home. **Deja en `wiki/_meta/` solo** `relation_types.json` (que se renombra en Task 3.3) y los `*_default.*` que se crean en Task 3.4.
+
+**Files:**
+- Move: `wiki/_meta/scope.md`                 → `projects/proxy/_meta/scope.md`
+- Move: `wiki/_meta/topic_filters.json`       → `projects/proxy/_meta/topic_filters.json`
+- Move: `wiki/_meta/canonical_whitelist.json` → `projects/proxy/_meta/canonical_whitelist.json`
+- Move: `wiki/_meta/extraction_runs/`         → `projects/proxy/_meta/extraction_runs/`
+- Move: `wiki/_meta/INDEX.md`                 → `projects/proxy/_meta/INDEX.md`
+- Move: `wiki/_meta/legacy/`                  → `projects/proxy/_meta/legacy/`
+
+- [ ] **Step 1: Crear el directorio destino**
+
+```bash
+mkdir -p projects/proxy/_meta
+```
+
+- [ ] **Step 2: Mover archivos editoriales y carpetas históricas Proxy**
+
+```bash
+git mv wiki/_meta/scope.md                 projects/proxy/_meta/scope.md
+git mv wiki/_meta/topic_filters.json       projects/proxy/_meta/topic_filters.json
+git mv wiki/_meta/canonical_whitelist.json projects/proxy/_meta/canonical_whitelist.json
+git mv wiki/_meta/INDEX.md                 projects/proxy/_meta/INDEX.md
+git mv wiki/_meta/extraction_runs          projects/proxy/_meta/extraction_runs
+git mv wiki/_meta/legacy                   projects/proxy/_meta/legacy
+```
+
+Nota: `extraction_runs/` puede pesar > 100 MB (cientos de JSONs per-video). `git mv` lo mueve como renames; el commit resultante es metadata, no se duplica el contenido. Si git detecta esos archivos como delete+add y el repo se hace grande, abortar y verificar `.gitignore` (algunos runs antiguos podrían ya estar gitignorados — en cuyo caso `git mv` solo mueve los tracked).
+
+- [ ] **Step 3: Verificar resultado**
+
+```bash
+ls projects/proxy/_meta/
+# Expected: INDEX.md canonical_whitelist.json extraction_runs legacy scope.md topic_filters.json
+
+# wiki/_meta/ ahora debería contener únicamente relation_types.json (se renombra en Task 3.3):
+ls wiki/_meta/
+# Expected: relation_types.json   ← y nada más
+# (después de Task 3.4 también estarán los *_default.*)
+
+git status --short | grep '_meta' | head -20
+# Expected: renames "R " desde wiki/_meta/* hacia projects/proxy/_meta/*
+```
+
+- [ ] **Step 4: Commit**
+
+```bash
+git add -A projects/proxy/_meta/ wiki/_meta/
+git commit -m "refactor(projects): mover _meta editoriales Proxy a projects/proxy/_meta/
+
+scope.md, topic_filters.json, canonical_whitelist.json, INDEX.md,
+extraction_runs/ y legacy/ son específicos de Proxy y viven bajo el proyecto.
+wiki/_meta/ pasa a contener solo recursos globales (relation_types_core.json
++ defaults editables).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 3.3: Promover `relation_types.json` a `relation_types_core.json`
+
+> El archivo actual `wiki/_meta/relation_types.json` contiene los 30 tipos de relación canónicos universales. Tras la migración, esos tipos pasan a ser el **core global** (no específico de Proxy). Se renombra para clarificar su rol.
+
+**Files:**
+- Rename: `wiki/_meta/relation_types.json` → `wiki/_meta/relation_types_core.json`
+
+- [ ] **Step 1: Verificar el contenido actual**
+
+```bash
+.venv/bin/python -c "
+import json
+d = json.load(open('wiki/_meta/relation_types.json'))
+print('types count:', len(d['types']))
+print('top-level keys:', list(d.keys()))
+"
+# Expected: types count: 30, keys: ['version', 'schema_version', 'last_updated', 'description', 'types', 'fields_per_relation', 'policy_notes']
+```
+
+- [ ] **Step 2: Rename via git**
+
+```bash
+git mv wiki/_meta/relation_types.json wiki/_meta/relation_types_core.json
+```
+
+- [ ] **Step 3: Verificar que el JSON sigue siendo válido**
+
+```bash
+.venv/bin/python -c "
+import json
+d = json.load(open('wiki/_meta/relation_types_core.json'))
+assert len(d['types']) == 30, f'expected 30 types, got {len(d[\"types\"])}'
+print('ok: 30 types preserved')
+"
+```
+
+- [ ] **Step 4: Commit**
+
+```bash
+git add wiki/_meta/relation_types_core.json
+git commit -m "refactor(projects): rename relation_types.json → relation_types_core.json
+
+Los 30 tipos son el core global (no Proxy-específicos). El nuevo nombre lo
+hace explícito; cada proyecto podrá añadir extensions en
+projects/<slug>/_meta/relation_types_ext.json (placeholder se crea en Task 3.6).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 3.4: Crear `wiki/_meta/*_default.*` placeholders
+
+> Los archivos `*_default.*` son los recursos editoriales globales por defecto que aplican a cualquier proyecto sin override (spec sección 5.1). Contenido inicial: plantillas genéricas, **NO** copia del estado Proxy actual (porque Proxy ya tiene sus propios overrides en `projects/proxy/_meta/`, así que el default debe ser un punto de partida genuinamente genérico).
+
+**Files:**
+- Create: `wiki/_meta/scope_default.md`
+- Create: `wiki/_meta/topic_filters_default.json`
+- Create: `wiki/_meta/canonical_whitelist_default.json`
+- Create: `wiki/_meta/subagent_prompt_default.md`
+
+- [ ] **Step 1: Crear `wiki/_meta/scope_default.md`** (plantilla genérica editable)
+
+```markdown
+<!-- wiki/_meta/scope_default.md -->
+# Scope editorial — plantilla por defecto
+
+> **Plantilla genérica para proyectos nuevos.** Cuando crees un proyecto con
+> `create_project(seed_from_templates=True)`, una copia de este archivo aparece
+> en `projects/<slug>/_meta/scope.md` lista para editar y divergir.
+
+## 1. Qué entra como conocimiento
+
+(Define aquí los criterios editoriales: dominio del proyecto, tipo de contenido
+que SÍ merece página wiki, granularidad de los conceptos.)
+
+## 2. Qué se descarta como ruido
+
+(Criterios de exclusión: temas off-topic, formatos sin estructura,
+contenido efímero, etc.)
+
+## 3. Vocabulario canónico
+
+(Lista de términos del dominio con su forma preferida y aliases conocidos.
+Ejemplo:
+- **arquetipo** (preferido) — alias: archetype, archetipo
+- **individuación** (preferido, con tilde)
+)
+
+## 4. Página vs no-página
+
+(Bullets sobre qué tipo de menciones merecen página propia vs solo cita.)
+
+## 5. Tipos de página activos
+
+(Lista de page_type aceptados en este proyecto: concept | author | entity_work
+| entity_institution | synthesis | ...)
+```
+
+- [ ] **Step 2: Crear `wiki/_meta/topic_filters_default.json`** (regex universal de descarte)
+
+```json
+{
+  "version": "1.0",
+  "description": "Filtros de descarte universales aplicables a cualquier proyecto. Override per-proyecto en projects/<slug>/_meta/topic_filters.json.",
+  "drop_patterns": [
+    {"regex": "^\\s*$", "reason": "empty content"},
+    {"regex": "(?i)spam|publicidad|promo code", "reason": "promotional noise"}
+  ],
+  "keep_patterns": []
+}
+```
+
+- [ ] **Step 3: Crear `wiki/_meta/canonical_whitelist_default.json`** (vacío)
+
+```json
+{
+  "version": "1.0",
+  "description": "Whitelist de términos canónicos. Override per-proyecto en projects/<slug>/_meta/canonical_whitelist.json.",
+  "terms": []
+}
+```
+
+- [ ] **Step 4: Crear `wiki/_meta/subagent_prompt_default.md`** (prompt base genérico)
+
+```markdown
+---
+kind: concept_author_entity_work
+applies_to: any project without override
+---
+
+# Sub-agent system prompt — plantilla por defecto
+
+Eres un constructor focalizado de páginas wiki.
+
+CONTEXTO: Trabajas para un proyecto multi-tenant; el scope editorial específico
+del proyecto vive en `projects/<slug>/_meta/scope.md`. La plantilla aquí
+captura los invariantes globales válidos para cualquier dominio.
+
+TU ÚNICA TAREA: dado UN candidato aprobado (entidad + metadata + cita evidence)
++ un fragmento del summary de la fuente donde aparece, devuelves la página
+markdown completa (frontmatter YAML + body markdown) lista para insertar en el wiki.
+
+NO tomas decisiones de scope. NO descartas. NO sugieres otras páginas.
+NO juzgas si merece ser página — alguien ya lo decidió. Tú solo CONSTRUYES.
+
+Conforme al schema y vocabulario del proyecto, produces un JSON estricto con
+dos campos: `frontmatter` (object) y `body_markdown` (string). Sin preámbulo,
+sin epílogo, sin code fences. Primer carácter '{', último '}'.
+
+Reglas duras:
+1. `frontmatter.relations[]` con AL MENOS 2 entradas tipadas (usa los tipos en
+   `wiki/_meta/relation_types_core.json` + extensiones del proyecto en
+   `projects/<slug>/_meta/relation_types_ext.json`).
+2. `frontmatter.aliases[]` con variantes razonables del surface_form.
+3. `body_markdown` empieza con `# {canonical_name}`, contiene ≥3 secciones H2,
+   citas en formato literal con enlace a la fuente, wikilinks `[[page-id]]` a
+   otras páginas existentes.
+4. Sección `## Lagunas` al final con bullets de gaps declarados o `(sin lagunas
+   declaradas todavía)`.
+5. Citas LITERALES del summary recibido (substring exacto). Sin paráfrasis.
+6. Respeta el vocabulario canónico del proyecto — ver `scope.md` §3.
+```
+
+- [ ] **Step 5: Verificar que los 4 archivos existen y son válidos**
+
+```bash
+ls wiki/_meta/
+# Expected: 4 archivos *_default.* + relation_types_core.json
+# = canonical_whitelist_default.json relation_types_core.json scope_default.md
+#   subagent_prompt_default.md topic_filters_default.json
+
+# Validar JSON syntax:
+.venv/bin/python -c "
+import json
+for f in ['topic_filters_default.json', 'canonical_whitelist_default.json']:
+    json.load(open(f'wiki/_meta/{f}'))
+    print(f'ok: wiki/_meta/{f}')
+"
+```
+
+- [ ] **Step 6: Commit**
+
+```bash
+git add wiki/_meta/scope_default.md wiki/_meta/topic_filters_default.json \
+        wiki/_meta/canonical_whitelist_default.json wiki/_meta/subagent_prompt_default.md
+git commit -m "feat(projects): plantillas globales editables wiki/_meta/*_default.*
+
+4 archivos default editables (scope, topic_filters, canonical_whitelist,
+subagent_prompt) usados por proyectos sin override propio. Editar el default
+propaga a todos los proyectos no-overriding.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 3.5: Extraer prompts del sub-agente a `projects/proxy/_meta/subagent_prompt.md`
+
+> Los prompts `SUBAGENT_SYSTEM_PROMPT` y `SUBAGENT_SYNTHESIS_SYSTEM_PROMPT` viven hoy hard-coded como constantes en `scripts/extract_video_themes.py`. Esta task los **copia** a un archivo markdown que se convierte en la fuente de verdad. El refactor de `scripts/extract_video_themes.py` para leer del archivo en vez de las constantes inline vive en Chunk 4 Task 4.3 (path updates). En este chunk, las constantes Python quedan intactas — el archivo markdown se crea como espejo byte-equivalente, listo para que Chunk 4 elimine las constantes.
+>
+> **Por qué no se hace todo en un chunk:** mantener cada chunk al menos parcialmente reversible. Si chunk 4 falla, las constantes Python siguen siendo la fuente y el archivo markdown se queda como artefacto inocuo.
+
+**Files:**
+- Create: `projects/proxy/_meta/subagent_prompt.md`
+- Test: `scripts/test_subagent_prompt_extraction.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# scripts/test_subagent_prompt_extraction.py
+"""Verifica que projects/proxy/_meta/subagent_prompt.md contiene literalmente
+el texto de las constantes SUBAGENT_SYSTEM_PROMPT y SUBAGENT_SYNTHESIS_SYSTEM_PROMPT
+declaradas en scripts/extract_video_themes.py.
+
+Anti-drift: durante Chunk 3 el archivo md espeja las constantes. En Chunk 4 las
+constantes serán reemplazadas por lecturas del md; este test asegura que la
+fuente de verdad del refactor está intacta.
+"""
+from pathlib import Path
+import re
+import sys
+
+
+def _load_constant(src: str, name: str) -> str:
+    """Extrae el contenido entre triple-quotes de una constante TOP-LEVEL del archivo.
+    Espera el patrón `NAME = \"\"\"...\"\"\"` (multilinea)."""
+    pattern = rf"^{re.escape(name)}\s*=\s*\"\"\"(.*?)\"\"\""
+    m = re.search(pattern, src, re.MULTILINE | re.DOTALL)
+    assert m, f"constante {name} no encontrada en el source"
+    return m.group(1)
+
+
+def test_subagent_prompts_md_mirrors_python_constants():
+    py_src = Path("scripts/extract_video_themes.py").read_text()
+    base_prompt = _load_constant(py_src, "SUBAGENT_SYSTEM_PROMPT")
+    synth_prompt = _load_constant(py_src, "SUBAGENT_SYNTHESIS_SYSTEM_PROMPT")
+
+    md_path = Path("projects/proxy/_meta/subagent_prompt.md")
+    assert md_path.exists(), f"missing: {md_path}"
+    md_text = md_path.read_text()
+
+    # El md debe tener dos secciones, una con kind concept/author/entity_work
+    # y otra con kind synthesis. Cada sección encierra el prompt entre marcadores
+    # explícitos para que un parser pueda dividirlas sin ambigüedad.
+    assert "<!-- BEGIN PROMPT concept_author_entity_work -->" in md_text
+    assert "<!-- END PROMPT concept_author_entity_work -->" in md_text
+    assert "<!-- BEGIN PROMPT synthesis -->" in md_text
+    assert "<!-- END PROMPT synthesis -->" in md_text
+
+    def _between(text: str, kind: str) -> str:
+        start_marker = f"<!-- BEGIN PROMPT {kind} -->\n"
+        end_marker = f"\n<!-- END PROMPT {kind} -->"
+        i = text.index(start_marker) + len(start_marker)
+        j = text.index(end_marker, i)
+        return text[i:j]
+
+    md_base = _between(md_text, "concept_author_entity_work")
+    md_synth = _between(md_text, "synthesis")
+
+    # Equality byte-a-byte (tras strip de whitespace exterior — los markdown markers
+    # no permiten exactitud absoluta pero el contenido interno sí debe coincidir).
+    assert md_base.strip() == base_prompt.strip(), \
+        f"concept_author_entity_work prompt drift"
+    assert md_synth.strip() == synth_prompt.strip(), \
+        f"synthesis prompt drift"
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest scripts/test_subagent_prompt_extraction.py -v
+# Expected: FAIL — missing projects/proxy/_meta/subagent_prompt.md
+```
+
+- [ ] **Step 3: Crear `projects/proxy/_meta/subagent_prompt.md`** con ambos prompts
+
+> Copia literal de las constantes desde `scripts/extract_video_themes.py:953-976` (SUBAGENT_SYSTEM_PROMPT) y `:1226-1257` (SUBAGENT_SYNTHESIS_SYSTEM_PROMPT). Los markers `<!-- BEGIN/END PROMPT <kind> -->` permiten al parser de Chunk 4 separarlos. **Texto entre markers debe coincidir byte-a-byte con la constante Python tras `.strip()`** (el test lo verifica).
+>
+> **Método recomendado (primary): el script Python al final de este Step.** Lee directamente las constantes con regex y serializa al markdown sin riesgo de drift por escape/whitespace. El método heredoc que aparece debajo es **referencia visual del shape** del archivo, no se ejecuta — el test del Step 4 fallará si lo intentas y hay drift de un solo carácter.
+
+```bash
+# ━━━━━━━━ Referencia visual del shape — NO EJECUTAR (usar Python copier abajo) ━━━━━━━━
+
+cat > projects/proxy/_meta/subagent_prompt.md <<'EOF'
+---
+project: proxy
+source_of_truth: this file (Chunk 4 elimina las constantes inline en extract_video_themes.py)
+kinds:
+  - concept_author_entity_work
+  - synthesis
+---
+
+# Sub-agent system prompts — Proxy
+
+Override per-proyecto del prompt del sub-agente que construye páginas wiki.
+Dos kinds: `concept_author_entity_work` (default para concepts/authors/entities)
+y `synthesis` (para tesis monográficas auto-promovidas).
+
+<!-- BEGIN PROMPT concept_author_entity_work -->
+Eres un constructor focalizado de páginas wiki para Ariadna.
+
+CONTEXTO: Ariadna es un wiki markdown sobre el corpus YouTube del canal Proxy
+(análisis arquetípico, mitología comparada, psicología junguiana, crítica cultural).
+
+TU ÚNICA TAREA: dado UN candidato aprobado (entidad + metadata + cita evidence) + un
+fragmento del summary del vídeo donde aparece, devuelves la página markdown completa
+(frontmatter YAML + body markdown) lista para insertar en el wiki.
+
+NO tomas decisiones de scope. NO descartas. NO sugieres otras páginas.
+NO juzgas si merece ser página — alguien ya lo decidió. Tú solo CONSTRUYES.
+
+Conforme al schema y vocabulario que se te entregan, produces un JSON estricto con
+dos campos: `frontmatter` (object) y `body_markdown` (string). Sin preámbulo,
+sin epílogo, sin code fences. Primer carácter '{', último '}'.
+
+Reglas duras:
+1. `frontmatter.relations[]` con AL MENOS 2 entradas tipadas (usa relation_types.json).
+2. `frontmatter.aliases[]` con variantes razonables del surface_form (con/sin diacríticos, abreviadas, etc.) — al menos 1 entrada si hay variación.
+3. `body_markdown` empieza con `# {canonical_name}`, contiene ≥3 secciones H2, citas en formato `> "texto literal del summary"\n→ [Título (mm:ss)](https://youtu.be/ID?t=SECS)`, wikilinks `[[page-id]]` para referenciar otras páginas existentes o de este batch.
+4. Sección `## Lagunas` al final con bullets de gaps declarados o `(sin lagunas declaradas todavía)`.
+5. Citas LITERALES del summary recibido (substring exacto). Sin paráfrasis ni traducción.
+6. Respeta vocabulario del canal (égersis, mito polar, mitología propia/impropia, etc.) — ver scope.md §5.
+<!-- END PROMPT concept_author_entity_work -->
+
+<!-- BEGIN PROMPT synthesis -->
+Eres un constructor focalizado de páginas synthesis para Ariadna.
+
+CONTEXTO: Ariadna documenta el canal Proxy. Las páginas `synthesis` con
+`synthesis_subtype: author_thesis` capturan TESIS ORIGINALES articuladas por el speaker
+en vídeos monográficos sostenidos. NO son explicaciones de conceptos académicos
+estándar (eso son `concept`); son el marco PROPIO del canal.
+
+TU ÚNICA TAREA: dado UN thesis_candidate auto-promovido (cumple gate de scope.md §2.4.1)
++ contexto del summary del vídeo monográfico, devuelves la página markdown completa
+(frontmatter YAML + body markdown) que articula la tesis con sus piezas internas.
+
+NO tomas decisiones de scope. La promoción ya pasó el gate automático.
+NO descartas piezas. Cada elemento de framework_internal_structure es contenido valioso.
+
+Conforme al schema, produces JSON estricto con `frontmatter` y `body_markdown`.
+Sin preámbulo, sin code fences. Primer carácter '{', último '}'.
+
+Reglas duras:
+1. `frontmatter.page_type: "synthesis"` y `frontmatter.synthesis_subtype: "author_thesis"`.
+2. `frontmatter.auto_promoted_synthesis: true` (marca de auditoría — esta página se promovió sin firma humana porque el gate cumplió).
+3. `frontmatter.relations[]` con AL MENOS 2 entradas tipadas hacia páginas existentes que la tesis toca o critica.
+4. `frontmatter.aliases[]` con variantes razonables del thesis_title.
+5. `body_markdown` empieza con `# {thesis_title}` y contiene:
+   - `## Tesis nuclear` (1-2 párrafos articulando lo que el speaker propone)
+   - `## Estructura del marco` con sub-bullets para CADA pieza de framework_internal_structure (no omitas piezas)
+   - `## Citas del vídeo` con los speaker_authorship_marks como `> "literal"\n→ [Título (mm:ss)](URL)`
+   - `## Páginas conectadas` con wikilinks `[[page-id]]` a `related_existing_pages`
+   - `## Lagunas` al final
+   - `## Status auto-promoción` con disclaimer: "Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minutes_sustained, signal_marks, framework pieces). Queda abierta a revisión humana — campo `auto_promoted_synthesis: true` en frontmatter es la marca de auditoría."
+6. Citas LITERALES del summary recibido (substring exacto).
+7. Respeta vocabulario del canal (égersis, mito polar, mitología propia/impropia, diagrama de Proxy, etc.) — ver scope.md §5.
+<!-- END PROMPT synthesis -->
+EOF
+```
+
+**Método primario (a ejecutar): Python copia las constantes sin tocar el texto.** Usa este script — el test del Step 4 lo verifica:
+
+```bash
+.venv/bin/python <<'PYEOF'
+import re
+from pathlib import Path
+
+src = Path("scripts/extract_video_themes.py").read_text()
+
+def grab(name):
+    m = re.search(rf'^{name}\s*=\s*"""(.*?)"""', src, re.MULTILINE | re.DOTALL)
+    assert m, name
+    return m.group(1).strip()
+
+base = grab("SUBAGENT_SYSTEM_PROMPT")
+synth = grab("SUBAGENT_SYNTHESIS_SYSTEM_PROMPT")
+
+header = """---
+project: proxy
+source_of_truth: this file (Chunk 4 elimina las constantes inline en extract_video_themes.py)
+kinds:
+  - concept_author_entity_work
+  - synthesis
+---
+
+# Sub-agent system prompts — Proxy
+
+Override per-proyecto del prompt del sub-agente que construye páginas wiki.
+Dos kinds: `concept_author_entity_work` (default para concepts/authors/entities)
+y `synthesis` (para tesis monográficas auto-promovidas).
+
+<!-- BEGIN PROMPT concept_author_entity_work -->
+"""
+
+out = (
+    header
+    + base
+    + "\n<!-- END PROMPT concept_author_entity_work -->\n\n"
+    + "<!-- BEGIN PROMPT synthesis -->\n"
+    + synth
+    + "\n<!-- END PROMPT synthesis -->\n"
+)
+
+Path("projects/proxy/_meta/subagent_prompt.md").write_text(out)
+print("written:", len(out), "chars")
+PYEOF
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest scripts/test_subagent_prompt_extraction.py -v
+# Expected: PASS
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add projects/proxy/_meta/subagent_prompt.md scripts/test_subagent_prompt_extraction.py
+git commit -m "feat(projects): extraer subagent prompts a projects/proxy/_meta/subagent_prompt.md
+
+Espeja byte-a-byte las constantes SUBAGENT_SYSTEM_PROMPT y
+SUBAGENT_SYNTHESIS_SYSTEM_PROMPT de scripts/extract_video_themes.py.
+Chunk 4 eliminará las constantes Python y leerá del md. Test de drift
+incluido (scripts/test_subagent_prompt_extraction.py).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 3.6: Crear placeholders en `projects/proxy/_meta/`
+
+> Crea los dos placeholders mínimos que un proyecto debe tener: `relation_types_ext.json` (vacío, sin extensiones) y `INDEX.md` (referencia básica al proyecto, ya existe pero falta confirmar).
+>
+> Nota: `INDEX.md` ya se movió en Task 3.2 desde `wiki/_meta/INDEX.md`. Esta task solo añade `relation_types_ext.json` y verifica que `INDEX.md` está presente.
+
+**Files:**
+- Create: `projects/proxy/_meta/relation_types_ext.json`
+
+- [ ] **Step 1: Crear `projects/proxy/_meta/relation_types_ext.json`** vacío
+
+```bash
+cat > projects/proxy/_meta/relation_types_ext.json <<'EOF'
+{
+  "version": "1.0",
+  "schema_version": "1.0.0",
+  "description": "Extensiones de relation_types específicas de Proxy. Cualquier tipo aquí extiende relation_types_core.json. Colisión con un tipo core es error: el server falla en startup.",
+  "types": []
+}
+EOF
+```
+
+- [ ] **Step 2: Validar JSON y verificar INDEX.md presente**
+
+```bash
+.venv/bin/python -c "
+import json
+d = json.load(open('projects/proxy/_meta/relation_types_ext.json'))
+assert d['types'] == []
+print('ok: relation_types_ext.json válido (sin extensiones)')
+"
+
+[ -f projects/proxy/_meta/INDEX.md ] && echo "ok: INDEX.md presente" || echo "FAIL: INDEX.md ausente"
+```
+
+- [ ] **Step 3: Verificar layout final del proyecto Proxy**
+
+```bash
+find projects/proxy -maxdepth 3 -type d
+# Expected:
+# projects/proxy
+# projects/proxy/_meta
+# projects/proxy/_meta/extraction_runs
+# projects/proxy/_meta/legacy
+# projects/proxy/wiki
+# projects/proxy/wiki/authors
+# projects/proxy/wiki/concepts
+# projects/proxy/wiki/entities
+# projects/proxy/wiki/synthesis
+
+ls projects/proxy/_meta/
+# Expected: INDEX.md canonical_whitelist.json extraction_runs legacy
+#           relation_types_ext.json scope.md subagent_prompt.md topic_filters.json
+```
+
+- [ ] **Step 4: Verificar layout final de `wiki/_meta/`**
+
+```bash
+ls wiki/_meta/
+# Expected (después de chunks 3.2-3.4):
+#   canonical_whitelist_default.json
+#   relation_types_core.json
+#   scope_default.md
+#   subagent_prompt_default.md
+#   topic_filters_default.json
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add projects/proxy/_meta/relation_types_ext.json
+git commit -m "feat(projects): proxy relation_types_ext.json placeholder (sin extensiones)
+
+Proxy no necesita extensions por ahora — los 30 tipos core cubren su grafo.
+El archivo existe para que ProjectConfig (Chunk 4) lo encuentre y reload
+relation_types lo procese (vacío = no-op).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+---
