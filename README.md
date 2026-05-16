@@ -54,6 +54,8 @@ Estado vivo en [docs/NEXT_SESSION.md](docs/NEXT_SESSION.md).
 
 Ariadna nació mono-corpus (canal Proxy YouTube). La siguiente fase la convierte en plataforma multi-proyecto, donde cada proyecto (tesis, gadgets, investigación de sueños, etc.) tiene su scope + wiki + cola de ingesta propios, compartiendo infraestructura.
 
+![Multi-tenant: 3 proyectos compartimentados, infraestructura común y 3 ejemplos de búsqueda cruzada](docs/images/multi-tenant-compartimentation.png)
+
 **Decisiones cerradas durante brainstorming (2026-05-16):**
 
 - Single Qdrant collection + `project_id` en payload (no collection-per-project)
@@ -63,6 +65,16 @@ Ariadna nació mono-corpus (canal Proxy YouTube). La siguiente fase la convierte
 - MCP gana tools write: `create_project`, `add_to_research_queue`, `cancel_request`
 - Workers que procesan la cola = scope futuro, desacoplados del MCP
 - Cross-project wikilinks/relations NO en MVP
+
+**Búsqueda cruzada por defecto**, filtro opt-in:
+
+```python
+search_corpus("hieros gamos", project_id="proxy")            # solo proxy
+search_corpus("alostasis", project_id=["proxy", "tesis"])    # unión específica
+search_corpus("realismo cognitivo")                          # cross-all (default)
+```
+
+Específico cuando interesa el alcance de un dominio; cross-all cuando un concepto cruza dominios.
 
 Specs:
 - [docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md](docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md) (858 líneas)
