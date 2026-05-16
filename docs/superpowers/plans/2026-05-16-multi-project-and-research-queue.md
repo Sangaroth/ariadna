@@ -3045,3 +3045,348 @@ Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 ```
 
 ---
+
+## Chunk 5: Qdrant backfill `project_id`
+
+> Hasta ahora `data/qdrant/` tiene ~6442 puntos con payload SIN `project_id`. Esta task escribe un script idempotente (`scripts/migrate_qdrant_project_id.py`) que recorre la colección **seleccionando** puntos sin la key (filtro `must=[IsEmpty(project_id)]`) y les añade `project_id: 'proxy'` vía `client.set_payload`. Resume-safe por construcción: una vez taggeado un punto, el mismo filtro lo excluye en la siguiente iteración del scroll, así que re-ejecutar el script continúa donde se cortó. La **verificación** al final usa el dual: count con `must=[IsEmpty(project_id)]` debe ser 0 (equivalente a `must_not=[IsEmpty]` cubriendo el universo, ver spec sección 10 riesgo 6).
+>
+> Solo se invoca `set_payload`; no se tocan IDs ni vectores. Los `chunk_id_int` del baseline (Chunk 1) siguen siendo válidos para la verificación funcional post-migración (spec sección 8.1 paso 12 nota "Estabilidad de Qdrant IDs").
+>
+> **Pre-condición:** Chunks 2-4 completados. **Importante**: durante este chunk el MCP server y cualquier worker que escriba a Qdrant deben estar parados (pre-flight check 1 ya cubre esto a nivel de plan; en este chunk se reverifica explícitamente).
+>
+> **Scope:** solo el backfill del payload. La verificación end-to-end del Phase 1 (count post-backfill, igualdad funcional con baseline) vive en Chunk 9.
+
+### Task 5.1: `scripts/migrate_qdrant_project_id.py` — backfill batched + resume-safe
+
+**Files:**
+- Create: `scripts/migrate_qdrant_project_id.py`
+- Test: `scripts/test_migrate_qdrant_project_id.py`
+
+- [ ] **Step 1: Write the failing test** (mock client, sin Qdrant real)
+
+```python
+# scripts/test_migrate_qdrant_project_id.py
+"""Verifica la lógica de paginación + set_payload sobre un cliente Qdrant fake.
+NO levanta Qdrant real (eso vive en el smoke al final del chunk)."""
+from unittest.mock import MagicMock, call
+
+import pytest
+
+
+def _make_fake_client(initial_pts_without_pid, ids_per_batch=2):
+    """Cliente fake que devuelve `initial_pts_without_pid` puntos sin project_id
+    en batches de `ids_per_batch`, y se 'vacía' una vez set_payload ha sido
+    invocado sobre todos ellos."""
+    client = MagicMock()
+    state = {"pending": list(initial_pts_without_pid)}
+
+    def fake_scroll(collection_name, scroll_filter, limit, **kw):
+        batch = state["pending"][:limit]
+        next_offset = state["pending"][limit] if len(state["pending"]) > limit else None
+        # devolvemos (points, offset) — points son objetos con .id
+        pts = [MagicMock(id=pid) for pid in batch]
+        return pts, next_offset
+
+    def fake_set_payload(collection_name, payload, points, **kw):
+        # remueve los ids tageados de pending
+        ids_set = set(points)
+        state["pending"] = [p for p in state["pending"] if p not in ids_set]
+
+    def fake_count(collection_name, count_filter=None, exact=True):
+        # Si filtro must_not IsEmpty(project_id), devuelve los pending
+        # (suficiente para el test del verify-only mode):
+        r = MagicMock()
+        r.count = len(state["pending"]) if count_filter else len(initial_pts_without_pid)
+        return r
+
+    client.scroll = fake_scroll
+    client.set_payload = fake_set_payload
+    client.count = fake_count
+    return client, state
+
+
+def test_backfill_tags_all_points_idempotent(monkeypatch):
+    from scripts import migrate_qdrant_project_id as m
+
+    client, state = _make_fake_client([1001, 1002, 1003, 1004, 1005])
+    # primera pasada
+    n1 = m.backfill(client, collection="ariadna_corpus", project_id="proxy",
+                    batch_size=2)
+    assert n1 == 5
+    assert state["pending"] == []
+    # segunda pasada (idempotente: pending vacío → 0)
+    n2 = m.backfill(client, collection="ariadna_corpus", project_id="proxy",
+                    batch_size=2)
+    assert n2 == 0
+
+
+def test_count_pending_uses_isempty_filter():
+    """count_pending debe invocar client.count con un Filter must=IsEmpty(project_id)."""
+    from scripts import migrate_qdrant_project_id as m
+
+    client = MagicMock()
+    client.count.return_value = MagicMock(count=42)
+    n = m.count_pending(client, collection="ariadna_corpus")
+    assert n == 42
+    # El call_args[1]['count_filter'] debe ser un Filter con must=[IsEmptyCondition(...)]
+    call_kwargs = client.count.call_args.kwargs
+    assert call_kwargs["exact"] is True
+    flt = call_kwargs["count_filter"]
+    assert flt.must is not None and len(flt.must) == 1
+    # IsEmptyCondition tiene un attr `is_empty.key`
+    cond = flt.must[0]
+    assert getattr(cond.is_empty, "key", None) == "project_id"
+
+
+def test_backfill_resumes_on_partial(monkeypatch):
+    """Simula que el primer call de scroll devuelve menos del total
+    (e.g. proceso killeado a mitad). La siguiente invocación recoge el resto."""
+    from scripts import migrate_qdrant_project_id as m
+
+    client, state = _make_fake_client([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    # batch_size 3 — los primeros 3 se tagean, simulamos kill después de set_payload
+    # → segunda invocación de backfill ve 7 pending y termina:
+    n1 = m.backfill(client, collection="ariadna_corpus", project_id="proxy",
+                    batch_size=3, max_batches=1)
+    assert n1 == 3
+    assert len(state["pending"]) == 7
+
+    n2 = m.backfill(client, collection="ariadna_corpus", project_id="proxy",
+                    batch_size=3)
+    assert n2 == 7
+    assert state["pending"] == []
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest scripts/test_migrate_qdrant_project_id.py -v
+# Expected: ModuleNotFoundError (scripts.migrate_qdrant_project_id no existe)
+```
+
+- [ ] **Step 3: Implement `scripts/migrate_qdrant_project_id.py`**
+
+```python
+#!/usr/bin/env python3
+"""Backfill de `project_id` en payload Qdrant.
+
+Itera sobre todos los puntos de la colección filtrando los que NO tienen
+`project_id` (vía IsEmptyCondition) y los taggea con el slug pasado por
+`--project-id` (default 'proxy'). Resume-safe: re-ejecutar continúa donde
+se cortó. Idempotente: una segunda corrida sobre colección ya taggeada es
+no-op (0 puntos procesados).
+
+Uso:
+    python scripts/migrate_qdrant_project_id.py
+    python scripts/migrate_qdrant_project_id.py --project-id proxy --batch-size 500
+    python scripts/migrate_qdrant_project_id.py --verify-only     # solo conteo, no escribe
+"""
+from __future__ import annotations
+
+import argparse
+import sys
+import time
+from typing import Any
+
+from qdrant_client import QdrantClient
+from qdrant_client.http.models import (
+    Filter,
+    IsEmptyCondition,
+    PayloadField,
+)
+
+from ariadna.config import QDRANT_PATH, COLLECTION_NAME  # ajustar a los nombres reales en ariadna/config.py
+
+
+def _without_project_filter() -> Filter:
+    """Filter para puntos cuyo payload NO tiene la key 'project_id'."""
+    return Filter(
+        must=[IsEmptyCondition(is_empty=PayloadField(key="project_id"))],
+    )
+
+
+def count_pending(client: Any, collection: str) -> int:
+    """Cuenta cuántos puntos quedan sin project_id."""
+    return client.count(
+        collection_name=collection,
+        count_filter=_without_project_filter(),
+        exact=True,
+    ).count
+
+
+def backfill(
+    client: Any,
+    collection: str,
+    project_id: str,
+    batch_size: int = 500,
+    max_batches: int | None = None,
+) -> int:
+    """Recorre la colección en batches y taggea cada batch con set_payload.
+
+    Devuelve el número total de puntos taggeados en esta invocación.
+    `max_batches=N` corta tras N batches (útil para tests/limit en runs grandes).
+    """
+    total = 0
+    batch_idx = 0
+    while True:
+        if max_batches is not None and batch_idx >= max_batches:
+            return total
+        pts, _next = client.scroll(
+            collection_name=collection,
+            scroll_filter=_without_project_filter(),
+            limit=batch_size,
+            with_payload=False,
+            with_vectors=False,
+        )
+        if not pts:
+            return total
+        ids = [p.id for p in pts]
+        client.set_payload(
+            collection_name=collection,
+            payload={"project_id": project_id},
+            points=ids,
+        )
+        total += len(ids)
+        batch_idx += 1
+        # log progresivo cada N batches
+        if batch_idx % 10 == 0:
+            print(f"  batch {batch_idx}: total taggeados = {total}", flush=True)
+    # unreachable, ruff: el while True termina vía return arriba
+
+
+def main() -> int:
+    p = argparse.ArgumentParser(description=__doc__)
+    p.add_argument("--project-id", default="proxy")
+    p.add_argument("--collection", default=COLLECTION_NAME)
+    p.add_argument("--batch-size", type=int, default=500)
+    p.add_argument("--verify-only", action="store_true",
+                   help="Solo cuenta puntos sin project_id; no escribe.")
+    p.add_argument("--max-batches", type=int, default=None,
+                   help="Corta tras N batches (test/resume).")
+    args = p.parse_args()
+
+    client = QdrantClient(path=str(QDRANT_PATH))
+
+    pending = count_pending(client, args.collection)
+    print(f"pending (sin project_id): {pending}")
+    if args.verify_only:
+        return 0 if pending == 0 else 1
+
+    if pending == 0:
+        print("ok: nothing to backfill")
+        return 0
+
+    print(f"backfilling {pending} points to project_id={args.project_id!r}...")
+    t0 = time.time()
+    n = backfill(client, args.collection, args.project_id,
+                 batch_size=args.batch_size, max_batches=args.max_batches)
+    elapsed = time.time() - t0
+    print(f"done: tagged {n} points in {elapsed:.1f}s")
+
+    # Verificación final
+    final = count_pending(client, args.collection)
+    if final == 0:
+        print("ok: 0 points without project_id")
+        return 0
+    print(f"WARN: {final} points still without project_id; re-run to continue", file=sys.stderr)
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
+```
+
+> Verificar al implementar: `ariadna/config.py` exporta los nombres usados (`QDRANT_PATH`, `COLLECTION_NAME`). Si los nombres difieren, ajustar el import (el patrón es local a este script — no introducir nuevas exports en `config.py`).
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest scripts/test_migrate_qdrant_project_id.py -v
+# Expected: 3 passed
+```
+
+- [ ] **Step 5: Commit (todavía sin ejecutar contra Qdrant real)**
+
+```bash
+git add scripts/migrate_qdrant_project_id.py scripts/test_migrate_qdrant_project_id.py
+git commit -m "feat(migration): script backfill Qdrant project_id idempotente
+
+Recorre la colección filtrando IsEmpty(project_id) y aplica set_payload
+batched. Resume-safe por construcción: re-ejecutar continúa por los
+puntos pendientes. --verify-only sin escritura. Test con cliente fake.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 5.2: Ejecutar el backfill contra Qdrant real
+
+> Pre-flight: el MCP server y extract_video_themes deben estar parados (la pre-flight check del plan los cubre, pero re-verificamos aquí). Tras la ejecución, count de puntos sin `project_id` debe ser 0.
+
+- [ ] **Step 1: Verificar pre-condiciones**
+
+```bash
+pgrep -af "ariadna.mcp_server" && echo "STOP: server activo" || echo "ok: server parado"
+pgrep -af "scripts/extract_video_themes" && echo "STOP: run activo" || echo "ok: sin run"
+# Ambos deben dar "ok"
+```
+
+- [ ] **Step 2: Snapshot pre-backfill**
+
+```bash
+.venv/bin/python scripts/migrate_qdrant_project_id.py --verify-only
+# Expected: "pending (sin project_id): ~6442" (puntos totales pre-migración).
+```
+
+- [ ] **Step 3: Ejecutar el backfill**
+
+```bash
+.venv/bin/python scripts/migrate_qdrant_project_id.py --project-id proxy
+# Expected: "pending (sin project_id): 6442" → "tagged 6442 points in <Xs>" → "ok: 0 points without project_id"
+# Tiempo estimado: ~minuto-y-pico (batches de 500 sobre embedded Qdrant local).
+```
+
+- [ ] **Step 4: Verificación post-backfill**
+
+```bash
+# count total no cambia (no se añaden ni quitan puntos):
+.venv/bin/python -c "
+from qdrant_client import QdrantClient
+from ariadna.config import QDRANT_PATH, COLLECTION_NAME
+c = QdrantClient(path=str(QDRANT_PATH))
+print('total points:', c.count(collection_name=COLLECTION_NAME).count)
+"
+# Expected: igual al baseline (typ ~6442).
+
+# Y todos tienen project_id:
+.venv/bin/python scripts/migrate_qdrant_project_id.py --verify-only
+# Expected: "pending (sin project_id): 0"; exit 0.
+
+# Spot-check: scrolling con must={project_id=proxy} debe devolver todos los puntos:
+.venv/bin/python -c "
+from qdrant_client import QdrantClient
+from qdrant_client.http.models import Filter, FieldCondition, MatchValue
+from ariadna.config import QDRANT_PATH, COLLECTION_NAME
+c = QdrantClient(path=str(QDRANT_PATH))
+n = c.count(collection_name=COLLECTION_NAME,
+            count_filter=Filter(must=[FieldCondition(key='project_id', match=MatchValue(value='proxy'))])).count
+print('proxy points:', n)
+"
+# Expected: igual al total (typ ~6442).
+```
+
+- [ ] **Step 5: Commit** (registro del estado de la ejecución; el backfill no produce archivos versionables, solo cambia el estado interno de `data/qdrant/` que está gitignorado, así que el commit es un marker simbólico — opcional)
+
+```bash
+# Solo si quieres dejar una marca git del paso de migración ejecutado:
+git commit --allow-empty -m "chore(migration): backfill Qdrant project_id ejecutado
+
+~6442 puntos taggeados con project_id='proxy'. Idempotente: re-ejecutar
+no cambia nada. data/qdrant/ es gitignorado; este commit es marker
+simbólico de la ejecución.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+Si decides no marcar el step en git, sigue al siguiente chunk; el smoke de verificación final está en Chunk 9.
+
+---
