@@ -586,7 +586,7 @@ def run_semantic_recovery(
             continue
         finding = {
             "video_id": d.video_id,
-            "video_title": v.video_title,
+            "video_title": v.title,
             "surface_form": d.surface_form,
             "timestamp_seconds": d.timestamp_seconds,
             "quote_evidence": d.quote_evidence,
