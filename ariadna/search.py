@@ -126,12 +126,16 @@ class Searcher:
         category: str | None = None,
         playlist: str | None = None,
         video_id: str | None = None,
+        include_filtered: bool = False,
     ) -> list[SearchResult]:
         """Busqueda semantica sobre chunks raw con reranker cross-encoder.
 
         Pipeline: dense top-N (N=RERANKER_PREFETCH_N, ~20) -> rerank -> top_k.
         El rerank_score sustituye a 'score' en el output (es lo que ordena).
         Mantiene contrato anterior para compatibilidad con CLI ariadna-search.
+
+        include_filtered: si False (default), excluye chunks marcados con
+        policy_filter (bloques descartados por topic_filters.json del pipeline).
         """
         query_vec = self.embedder.embed_query(query)
         filters = {
@@ -145,6 +149,7 @@ class Searcher:
             top_k=prefetch_k,
             filters=filters,
             must_not_filters={"source_type": "wiki_page"},
+            exclude_field_present=None if include_filtered else ["policy_filter"],
         )
         reranked = self.reranker.rerank(query, raw, top_k=top_k)
         for r in reranked:
@@ -159,6 +164,7 @@ class Searcher:
         top_k_wiki: int = 2,
         category: str | None = None,
         playlist: str | None = None,
+        include_filtered: bool = False,
     ) -> dict:
         """Búsqueda híbrida raw + wiki en una sola query.
 
@@ -185,11 +191,13 @@ class Searcher:
         raw_filters = {"category": category, "playlist": playlist}
         # Prefetch ampliado para que el reranker tenga material que reordenar.
         prefetch_k = max(RERANKER_PREFETCH_N, top_k_raw)
+        exclude_pf = None if include_filtered else ["policy_filter"]
         raw_results_dense = self.store.search(
             query_vec,
             top_k=prefetch_k,
             filters=raw_filters,
             must_not_filters={"source_type": "wiki_page"},
+            exclude_field_present=exclude_pf,
         )
         # Guardamos el top cosine ANTES de rerankear: lo usa mode_recommended para
         # comparar con wiki_top (también cosine). El rerank_score no es comparable.
@@ -223,6 +231,7 @@ class Searcher:
                 top_k=top_k_raw,
                 filters={},
                 must_not_filters={"source_type": "wiki_page"},
+                exclude_field_present=exclude_pf,
             )
         else:
             citation_seed = raw_results

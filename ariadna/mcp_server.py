@@ -96,8 +96,13 @@ def search_corpus(
     top_k_wiki: int = 2,
     category: str | None = None,
     playlist: str | None = None,
+    include_filtered: bool = False,
 ) -> dict[str, Any]:
-    """Búsqueda híbrida raw + wiki sobre el corpus."""
+    """Búsqueda híbrida raw + wiki sobre el corpus.
+
+    include_filtered: si True, incluye chunks que el pipeline marcó como
+    politiqueo/promocional/casual via topic_filters.json. Por defecto se excluyen.
+    """
     searcher = get_searcher()
     return searcher.search_hybrid(
         query,
@@ -105,6 +110,7 @@ def search_corpus(
         top_k_wiki=top_k_wiki,
         category=category,
         playlist=playlist,
+        include_filtered=include_filtered,
     )
 
 

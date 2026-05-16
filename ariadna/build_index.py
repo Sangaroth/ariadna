@@ -19,7 +19,10 @@ from pathlib import Path
 from ariadna.config import DEFAULT_CORPUS_PATH
 from ariadna.embeddings import DenseEmbedder
 from ariadna.parsers import Chunk, iter_corpus, parse_summary_file
+from ariadna.policy_filters import build_policy_filter_map
 from ariadna.storage import CorpusStore
+
+DEFAULT_EXTRACTION_RUNS = Path(__file__).resolve().parent.parent / "wiki" / "_meta" / "extraction_runs"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -39,6 +42,7 @@ def build(
     recreate: bool = False,
     batch_size: int = 64,
     dry_run: bool = False,
+    extraction_runs_dir: Path = DEFAULT_EXTRACTION_RUNS,
 ) -> None:
     """Parsea corpus + embeddings + upsert a Qdrant."""
     log.info("Corpus: %s", corpus_path)
@@ -54,12 +58,17 @@ def build(
 
     log.info("Parseados %d videos → %d chunks totales", video_count, len(all_chunks))
 
+    policy_map = build_policy_filter_map(extraction_runs_dir)
+    log.info("Policy filters cargados: %d (video, ts) tagged", len(policy_map))
+
     if dry_run:
         log.info("Dry-run: no se indexa. Breakdown por categoria:")
         from collections import Counter
         cats = Counter(c.category for c in all_chunks)
         for cat, count in sorted(cats.items(), key=lambda x: -x[1]):
             log.info("  %-25s %d", cat, count)
+        tagged = sum(1 for c in all_chunks if (c.video_id, c.timestamp_seconds) in policy_map)
+        log.info("Chunks que recibirán policy_filter: %d", tagged)
         return
 
     if not all_chunks:
@@ -94,7 +103,13 @@ def build(
         batch_chunks = all_chunks[i : i + batch_size]
         batch_vectors = vectors[i : i + batch_size]
         ids = [chunk_id_int(c) for c in batch_chunks]
-        payloads = [c.to_payload() for c in batch_chunks]
+        payloads = []
+        for c in batch_chunks:
+            payload = c.to_payload()
+            pf = policy_map.get((c.video_id, c.timestamp_seconds))
+            if pf is not None:
+                payload["policy_filter"] = pf
+            payloads.append(payload)
         store.upsert_batch(ids, batch_vectors, payloads)
         if (i // batch_size) % 10 == 0:
             log.info("  progreso: %d/%d", min(i + batch_size, n), n)

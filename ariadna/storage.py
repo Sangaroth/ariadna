@@ -17,7 +17,9 @@ from qdrant_client.models import (
     Distance,
     FieldCondition,
     Filter,
+    IsEmptyCondition,
     MatchValue,
+    PayloadField,
     PointStruct,
     VectorParams,
 )
@@ -113,6 +115,7 @@ class CorpusStore:
         top_k: int = 10,
         filters: dict[str, Any] | None = None,
         must_not_filters: dict[str, Any] | None = None,
+        exclude_field_present: list[str] | None = None,
     ) -> list[dict[str, Any]]:
         """Busqueda por similaridad vectorial con filtros opcionales por metadata.
 
@@ -120,8 +123,11 @@ class CorpusStore:
                  Matching exact por valor (must).
         must_not_filters: dict con campos que NO deben matchear (must_not).
                  Util para excluir wiki_page del search raw, por ejemplo.
+        exclude_field_present: lista de claves del payload que, si están presentes,
+                 descartan el punto (must IsEmpty). Útil para excluir chunks marcados
+                 con policy_filter sin asumir un valor concreto.
         """
-        must_conditions: list[FieldCondition] = []
+        must_conditions: list[Any] = []
         must_not_conditions: list[FieldCondition] = []
 
         if filters:
@@ -140,6 +146,11 @@ class CorpusStore:
                 for key, value in must_not_filters.items()
                 if value is not None
             ]
+        if exclude_field_present:
+            must_conditions.extend(
+                IsEmptyCondition(is_empty=PayloadField(key=key))
+                for key in exclude_field_present
+            )
 
         qdrant_filter: Filter | None = None
         if must_conditions or must_not_conditions:
