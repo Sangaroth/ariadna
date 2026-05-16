@@ -6,14 +6,20 @@ aliases declarados, este módulo hace **semantic match** vía embeddings
 declarada como alias.
 
 Pipeline:
-    1. Cargar discarded entries con reason_code recoverable (filtro estricto)
-    2. Cargar pages del wiki (solo canonical_name + page_id)
-    3. Embedding BGE-M3 sobre strings cortos (in-memory, no Qdrant)
+    1. Cargar discarded entries con reason_code recoverable (filtro previo laxo)
+    2. Cargar pages del wiki (canonical_name + aliases + page_id)
+    3. Embedding BGE-M3 sobre canonicals (in-memory, no Qdrant)
     4. Top-K por cosine
-    5. Cache lookup; LLM judge para misses
-    6. Apply matches high-confidence: citation + alias enrichment
-       (autoaprendizaje: cada match añade el surface_form como alias,
-        reduciendo el universo de pasada 2 en runs siguientes)
+    5. Cache lookup; LLM judge para misses. El judge devuelve:
+       - match_page_id + confidence + rationale (decisión semántica)
+       - alias_candidate (subcadena LITERAL del surface_form que funciona
+         como nombre canónico; null si no se puede extraer)
+       - alias_exists (si el candidato ya está en aliases/canonical)
+    6. Apply matches high-confidence:
+       - citation: siempre (corpus valioso, decisión semántica del LLM)
+       - alias: SOLO si alias_candidate != null, alias_exists==false,
+         pasa validación numérica (≤60 chars, ≤7 palabras) y es subcadena
+         del surface_form (no hallucination del LLM)
 
 Diseño deliberadamente simple por simplicidad/coste:
     - Embed solo el string del concepto, no focal/headers/aliases
@@ -33,9 +39,8 @@ import json
 import re
 import subprocess
 import sys
-import unicodedata
 from collections import defaultdict
-from dataclasses import asdict, dataclass, field
+from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
@@ -100,80 +105,32 @@ class DiscardedEntry:
         return hashlib.sha1(f"{norm}|{self.reason_code}".encode()).hexdigest()[:16]
 
 
-# Heurístico para distinguir "concepto nombrable" de "desarrollo/frase explicativa".
-# Solo los conceptos limpios entran al pipeline — el alias enrichment de un
-# desarrollo contamina la wiki (e.g., alias "endofobia (herida narcisista del
-# progresista)" arrastra glosa que no debería ser parte del nombre canónico).
-_DEVELOPMENT_MARKERS = (
-    # Conectores explicativos genéricos (X como Y, X que Y) — un concepto puro
-    # rara vez los contiene en su nombre canónico.
-    " como ",
-    " que ",
-    " para entender ",
-    " porque ",
-    " donde se ",
-    " cuando se ",
-    " si se ",
-    " en tanto ",
-    " al menos ",
-    " respecto a ",
-    " respecto al ",
-    " en relación con ",
-    # Comparativos
-    " vs ",
-    " contra el ",
-    " contra la ",
-    " contra los ",
-    " contra las ",
-    " frente al ",
-    " frente a la ",
-    # Posesivos y verbos conjugados explícitos (frase, no nombre)
-    " es una ",
-    " es el ",
-    " es un ",
-    " prohíbe ",
-    " propone ",
-    " critica ",
-    " demuestra ",
-)
-
-# Conectores con caracteres especiales: "X / Y", "X + Y", "X — Y" — son
-# composiciones, no nombres canónicos.
-_DEVELOPMENT_CHARS = re.compile(r"\s[+/—–]\s")
+# Filtro minimalista para alias enrichment. La decisión semántica
+# (¿qué parte del surface_form es el nombre canónico?) la toma el LLM judge
+# devolviendo `alias_candidate`. Aquí solo validamos sanidad numérica del
+# candidate para evitar hallucinations groseras o glosas largas.
+ALIAS_MAX_CHARS = 60
+ALIAS_MAX_WORDS = 7
 
 
-def _is_concept_like(surface_form: str) -> bool:
-    """True si el surface_form parece un concepto nombrable (no un desarrollo).
+def _is_concept_like(s: str) -> bool:
+    """True si el string tiene longitud razonable de nombre canónico.
+    No mira contenido — la decisión semántica vive en el LLM judge."""
+    s = s.strip()
+    if not s:
+        return False
+    return len(s) <= ALIAS_MAX_CHARS and len(s.split()) <= ALIAS_MAX_WORDS
 
-    Heurísticos (conservadores → preferimos descartar dudosos):
-      - longitud ≤ 60 chars
-      - ≤ 7 palabras
-      - si tiene paréntesis: contenido ≤ 3 palabras (disambiguador OK, glosa NO)
-      - sin conectores de cláusula explicativa ("invocado como X", "vs", "contra")
 
-    Ejemplos:
-      "mito del sol"                                        → True
-      "Pinocho (Disney 1940)"                               → True (disambiguador)
-      "endofobia (herida narcisista del progresista)"       → False (glosa 4 words)
-      "Realismo cognitivo invocado como tesis filosófica"   → False ("invocado como")
-      "mito propio vs mito impropio (democracia como caso)" → False ("vs" + glosa)
-    """
-    sf = surface_form.strip()
-    if not sf:
+def _alias_in_surface_form(alias_candidate: str, surface_form: str) -> bool:
+    """True si alias_candidate aparece literalmente en surface_form con word
+    boundaries (anti-hallucination del LLM). Insensible a case y diacríticos."""
+    norm_alias = _normalize_for_match(alias_candidate)
+    norm_sf = _normalize_for_match(surface_form)
+    if not norm_alias:
         return False
-    if len(sf) > 60:
-        return False
-    if len(sf.split()) > 7:
-        return False
-    m = re.search(r"\(([^)]+)\)", sf)
-    if m and len(m.group(1).split()) > 3:
-        return False
-    sf_padded = f" {sf.lower()} "
-    if any(marker in sf_padded for marker in _DEVELOPMENT_MARKERS):
-        return False
-    if _DEVELOPMENT_CHARS.search(sf):
-        return False
-    return True
+    # word boundary match: re.escape + \b
+    return bool(re.search(rf"\b{re.escape(norm_alias)}\b", norm_sf))
 
 
 @dataclass
@@ -183,6 +140,12 @@ class JudgeDecision:
     rationale: str
     analyzed_at: str
     candidates_signature: str
+    # Alias candidate (extraído por el LLM del surface_form, limpio) y si ya
+    # existe en canonical_name/aliases de la matched page. Persistidos en
+    # cache para que el alias enrichment en runs futuros funcione vía cache
+    # hit sin tener que reinvocar al LLM.
+    alias_candidate: Optional[str] = None
+    alias_exists: bool = False
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -218,8 +181,11 @@ def _collect_eligible_discarded(extraction_runs: Path = EXTRACTION_RUNS) -> list
             sf = (entry.get("surface_form") or "").strip()
             if not sf:
                 continue
-            if not _is_concept_like(sf):
-                continue  # surface_form es desarrollo/frase, no concepto nombrable
+            # Filtro previo MUY laxo: solo descarta lo claramente inviable.
+            # El gate estricto concept-like se aplica más tarde, solo al cristalizar
+            # el alias — la citation se materializa siempre que haya match high.
+            if len(sf) > 120 or len(sf.split()) > 15:
+                continue
             de = DiscardedEntry(
                 video_id=vid,
                 surface_form=sf,
@@ -277,7 +243,7 @@ def _save_cache(cache: dict) -> None:
     )
 
 
-_JUDGE_PROMPT_TEMPLATE = """Eres un evaluador semántico. Recibes una MENCIÓN DESCARTADA del corpus YouTube de Proxy y 5 PÁGINAS WIKI CANDIDATAS. Determina si la mención se refiere semánticamente a alguna de ellas.
+_JUDGE_PROMPT_TEMPLATE = """Eres un evaluador semántico. Recibes una MENCIÓN DESCARTADA del corpus YouTube de Proxy y 5 PÁGINAS WIKI CANDIDATAS (con sus aliases ya declarados). Determina si la mención se refiere semánticamente a alguna de ellas y extrae el concepto limpio si aplica.
 
 ## Mención descartada
 
@@ -292,27 +258,43 @@ quote_evidence: {quote!r}
 
 ## Tu tarea
 
-Decide si la mención `surface_form` se refiere semánticamente a alguna de las páginas candidatas. Considera:
-- Sinónimos lingüísticos ("mito del sol" ≈ "mito solar")
-- Variantes morfológicas / hispanohablantes
-- Equivalencias en distintos registros (técnico vs vulgar)
-- Diferencias menores en orden de palabras
+**1) Decide match.** ¿La mención `surface_form` se refiere semánticamente a alguna candidata?
+- Sinónimos ("mito del sol" ≈ "mito solar"), variantes morfológicas, registros distintos: SÍ matchea
+- Co-ocurrencia temática sola NO matchea ("psicología" NO matchea jung-carl-gustav)
 
-NO confundir con simple co-ocurrencia temática. "Jung" sí matchea jung-carl-gustav, pero "psicología" NO matchea jung-carl-gustav.
+**2) Extrae alias_candidate.** Si hay match, identifica EL CONCEPTO LIMPIO dentro del surface_form. **DEBE SER UNA SUBCADENA LITERAL DEL surface_form** (puedes elegir mayúsculas/minúsculas pero no cambiar palabras ni morfología). El corpus es la fuente — no normalices ni reformules.
+
+Ejemplos:
+- surface_form="Narrativas políticas y sofisma estético" → alias_candidate="sofisma estético" ✓ (subcadena)
+- surface_form="mito solar" → alias_candidate="mito solar" ✓
+- surface_form="endofobia (herida narcisista del progresista)" → alias_candidate="endofobia" ✓
+- surface_form="Realismo cognitivo invocado como tesis filosófica" → alias_candidate="Realismo cognitivo" ✓
+- surface_form="mitos solares" → alias_candidate="mitos solares" ✓ (NO "mito solar" — eso es reformulación, prohibido)
+- surface_form="autismo como bioanomalía" → alias_candidate=null (ninguna subcadena limpia funciona como nombre)
+
+Reglas para alias_candidate:
+- Subcadena LITERAL del surface_form (case insensitive permitido, morfología NO)
+- Concepto puro: sin verbos conjugados, sin glosas, sin conectores explicativos
+- Máximo 60 caracteres y 7 palabras
+- Si no hay match, o no se puede extraer subcadena que funcione como nombre canónico, devuelve null
+
+**3) Decide alias_exists.** ¿El alias_candidate ya está declarado en la page matched (como canonical_name o en aliases)? Compara case-insensitive y tolerando diacríticos.
 
 ## Output (JSON ÚNICO sin texto adicional)
 
 {{
-  "match_page_id": "<page_id de la candidata que matchea, o null>",
+  "match_page_id": "<page_id o null>",
   "confidence": "high" | "medium" | "low",
-  "rationale": "<una frase explicando la decisión>"
+  "rationale": "<una frase>",
+  "alias_candidate": "<concepto limpio o null>",
+  "alias_exists": true | false
 }}
 
 Reglas de confidence:
-- "high" + match: equivalencia semántica clara, sin ambigüedad. Esto materializa citation + añade alias estructural a la page.
-- "medium" + match: probable match pero hay alguna ambigüedad contextual. Solo se reporta, NO se aplica.
-- "low" + match: match débil, probablemente ruido. NO se aplica.
-- match_page_id=null: ninguna candidata matchea. Descarte real.
+- "high" + match: equivalencia semántica clara, sin ambigüedad
+- "medium" + match: probable pero con ambigüedad contextual
+- "low" + match: match débil, probablemente ruido
+- match_page_id=null: ninguna candidata matchea
 """
 
 
@@ -331,7 +313,7 @@ def _llm_judge(
     """
     candidates_block = "\n".join(
         f"  {i + 1}. page_id={c['page_id']}, canonical_name={c['canonical_name']!r}, "
-        f"page_type={c['page_type']}"
+        f"page_type={c['page_type']}, aliases={c.get('aliases', [])!r}"
         for i, c in enumerate(candidates)
     )
     prompt = _JUDGE_PROMPT_TEMPLATE.format(
@@ -408,12 +390,20 @@ def _llm_judge(
     conf = parsed.get("confidence", "low")
     if conf not in ("high", "medium", "low"):
         conf = "low"
+    alias_cand = parsed.get("alias_candidate")
+    if alias_cand in ("null", "None", "", None):
+        alias_cand = None
+    elif isinstance(alias_cand, str):
+        alias_cand = alias_cand.strip() or None
+    alias_exists = bool(parsed.get("alias_exists", False))
     return JudgeDecision(
         match_page_id=match_pid,
         confidence=conf,
         rationale=parsed.get("rationale", ""),
         analyzed_at=now,
         candidates_signature=candidates_sig,
+        alias_candidate=alias_cand,
+        alias_exists=alias_exists,
     )
 
 
@@ -524,6 +514,7 @@ def run_semantic_recovery(
                 "page_id": pid,
                 "canonical_name": page_lexicon[pid]["canonical_name"],
                 "page_type": page_lexicon[pid]["page_type"],
+                "aliases": page_lexicon[pid].get("aliases", []),
             }
             for pid in candidate_ids
         ]
@@ -561,6 +552,7 @@ def run_semantic_recovery(
         "no_matches": len(no_matches),
         "citations_added": 0,
         "aliases_added": 0,
+        "aliases_skipped_non_concept": 0,
     }
 
     # Audit report sample (top matches high con rationale, para revisión humana)
@@ -578,7 +570,7 @@ def run_semantic_recovery(
 
     # Agrupar matches por page_id
     by_page: dict[str, list[dict]] = defaultdict(list)
-    surface_forms_by_page: dict[str, set[str]] = defaultdict(set)
+    alias_candidates_by_page: dict[str, set[str]] = defaultdict(set)
     for d, dec in matches_high:
         pid = dec.match_page_id
         if pid not in page_lexicon:
@@ -594,7 +586,20 @@ def run_semantic_recovery(
             "quote_evidence": d.quote_evidence,
         }
         by_page[pid].append(finding)
-        surface_forms_by_page[pid].add(d.surface_form)
+        # Recolectar alias_candidate sólo si:
+        #   - LLM lo extrajo (no null)
+        #   - LLM dice que no existe ya en la page
+        #   - pasa validación numérica (longitud/palabras)
+        #   - aparece literalmente como word-match en el surface_form
+        #     (anti-hallucination — el corpus es la fuente)
+        if dec.alias_candidate and not dec.alias_exists:
+            if (
+                _is_concept_like(dec.alias_candidate)
+                and _alias_in_surface_form(dec.alias_candidate, d.surface_form)
+            ):
+                alias_candidates_by_page[pid].add(dec.alias_candidate)
+            else:
+                stats["aliases_skipped_non_concept"] += 1
 
     for pid, findings in by_page.items():
         page_info = page_lexicon[pid]
@@ -602,10 +607,11 @@ def run_semantic_recovery(
         apply_stats = _apply_findings_as_citations(pid, page_info, enriched)
         stats["citations_added"] += apply_stats.get("added", 0)
 
-        for sf in surface_forms_by_page[pid]:
-            if _add_alias_to_page(page_info["path"], sf):
+        for alias in alias_candidates_by_page[pid]:
+            if _add_alias_to_page(page_info["path"], alias):
                 stats["aliases_added"] += 1
 
-    print(f"  citations added: {stats['citations_added']}", file=sys.stderr)
-    print(f"  aliases added:   {stats['aliases_added']}", file=sys.stderr)
+    print(f"  citations added:               {stats['citations_added']}", file=sys.stderr)
+    print(f"  aliases added:                 {stats['aliases_added']}", file=sys.stderr)
+    print(f"  aliases skipped (validation):  {stats['aliases_skipped_non_concept']}", file=sys.stderr)
     return stats
