@@ -7,6 +7,7 @@ aliases:
 - herida narcisistica
 - narcisismo herido
 - herida del narcisista
+- endofobia
 domain_primary: social.psychology
 primary_domains:
 - social.psychology
@@ -478,11 +479,13 @@ La modalidad heredada explica además el mecanismo intergeneracional que la pág
 
 
 
+
+
+
 - **La IA se sale de madre. Ética e IA parte 3** — chunks: [35:11](https://youtu.be/Xz-Ydn6hLOc?t=2111) · [39:18](https://youtu.be/Xz-Ydn6hLOc?t=2358) · [47:56](https://youtu.be/Xz-Ydn6hLOc?t=2876)
 - **Lunes sin política** — chunks: [1:08:12](https://youtu.be/r1SmCsNmLh0?t=4092)
 - **Me amenazan por teléfono: Todos los datos del caso.** — chunks: [6:37](https://youtu.be/1WEQmzUM41M?t=397)
 - **Proxy T4, 4x01: "Piloto"** — chunks: [52:50](https://youtu.be/ucOt-vQZ4Qw?t=3170)
-- **Psicoinfluencers** — chunks: [1:34:05](https://youtu.be/frbMVcThuRw?t=5645)
 - **Psicología 101: Ego, autoestima y TCAs** — chunks: [1:23:57](https://youtu.be/Sl4coB8bBs4?t=5037)
 - **Psicología 101: El perdón. Con @exitwithin** — chunks: [27:06](https://youtu.be/05MVbWwpiSs?t=1626)
 - **Tremendo martes** — chunks: [51:14](https://youtu.be/MJDukHo33Tc?t=3074)
@@ -506,4 +509,7 @@ La modalidad heredada explica además el mecanismo intergeneracional que la pág
 - **luna roja sobre el varón II: "lnceIs"** — chunks: [30:52](https://youtu.be/5uFhZcARjYQ?t=1852) · [49:39](https://youtu.be/5uFhZcARjYQ?t=2979) · [1:11:38](https://youtu.be/5uFhZcARjYQ?t=4298)
 - **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [1:36:41](https://youtu.be/-2u3CAw1xCs?t=5801) · [2:11:08](https://youtu.be/-2u3CAw1xCs?t=7868)
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [18:54](https://youtu.be/zLRhDHyq3gs?t=1134) · [22:29](https://youtu.be/zLRhDHyq3gs?t=1349) · [24:29](https://youtu.be/zLRhDHyq3gs?t=1469) · [26:33](https://youtu.be/zLRhDHyq3gs?t=1593) · [34:37](https://youtu.be/zLRhDHyq3gs?t=2077) · [38:39](https://youtu.be/zLRhDHyq3gs?t=2319) · [40:40](https://youtu.be/zLRhDHyq3gs?t=2440)
+- **Conspiración** — chunks: [18:42](https://youtu.be/K97ZzKXY0oI?t=1122)
+- **Psicoinfluencers** — chunks: [1:34:05](https://youtu.be/frbMVcThuRw?t=5645)
+- **Proxy, Effy, los TCAs y el ego, parte final** — chunks: [26:29](https://youtu.be/-NF9nrWTVEA?t=1589)
 

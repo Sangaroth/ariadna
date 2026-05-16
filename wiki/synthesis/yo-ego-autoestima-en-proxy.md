@@ -320,5 +320,6 @@ Consecuencia teleosemántica para el aparato del yo: las clases cognitivas son *
 ## Citations
 
 
-- **Psicología 101: Ego, autoestima y TCAs** — chunks: [10:54](https://youtu.be/Sl4coB8bBs4?t=654) · [24:27](https://youtu.be/Sl4coB8bBs4?t=1467) · [1:22:27](https://youtu.be/Sl4coB8bBs4?t=4947) · [1:23:57](https://youtu.be/Sl4coB8bBs4?t=5037)
+
+- **Psicología 101: Ego, autoestima y TCAs** — chunks: [10:54](https://youtu.be/Sl4coB8bBs4?t=654) · [24:27](https://youtu.be/Sl4coB8bBs4?t=1467) · [1:22:27](https://youtu.be/Sl4coB8bBs4?t=4947) · [1:23:57](https://youtu.be/Sl4coB8bBs4?t=5037) · [1:26:28](https://youtu.be/Sl4coB8bBs4?t=5188)
 

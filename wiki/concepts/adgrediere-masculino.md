@@ -486,6 +486,7 @@ La pieza enlaza también con la página [[woke-narrativa-postmoderna-moral|woke]
 
 
 
+
 - **BUT WHY?** — chunks: [32:36](https://youtu.be/4tAWgX7-yXk?t=1956) · [40:23](https://youtu.be/4tAWgX7-yXk?t=2423) · [1:21:30](https://youtu.be/4tAWgX7-yXk?t=4890)
 - **Cuento contigo** — chunks: [17:49](https://youtu.be/Eqoq3O9wVzA?t=1069)
 
@@ -494,4 +495,5 @@ La pieza enlaza también con la página [[woke-narrativa-postmoderna-moral|woke]
 
 - **Elisa y su CI** — chunks: [1:07:48](https://youtu.be/6tfSc45kjyo?t=4068) · [1:12:21](https://youtu.be/6tfSc45kjyo?t=4341)
 - **"But why?" ¿Porqué un pingüino?** — chunks: [19:22](https://youtu.be/By5DFt-iGUI?t=1162) · [25:02](https://youtu.be/By5DFt-iGUI?t=1502) · [55:47](https://youtu.be/By5DFt-iGUI?t=3347)
+- **En Busca de la Diosa Blanca** — chunks: [0:42](https://youtu.be/llS9fqsNVvY?t=42)
 

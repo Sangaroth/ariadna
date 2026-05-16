@@ -177,6 +177,12 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
+
+
+
+
 - **Por fin** — chunks: [53:01](https://youtu.be/7jT13kHNlBA?t=3181)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:14:58](https://youtu.be/UOk344kEeRM?t=4498) · [1:19:32](https://youtu.be/UOk344kEeRM?t=4772)
 - **Matrix II y III** — chunks: [3:36](https://youtu.be/tkVwAclFrsI?t=216)
@@ -190,7 +196,6 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **T5x02: No Love Land** — chunks: [25:14](https://youtu.be/EjAVFdSVtbU?t=1514) · [40:36](https://youtu.be/EjAVFdSVtbU?t=2436) · [56:09](https://youtu.be/EjAVFdSVtbU?t=3369)
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:03:18](https://youtu.be/NKFWUxt5VQ4?t=3798)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:35:38](https://youtu.be/xc8e2i_nREE?t=5738)
-- **T5x07: Soto Ivars y el Tabú** — chunks: [11:09](https://youtu.be/wixOLxnd68o?t=669)
 - **T5x09: El amor en realidad** — chunks: [37:55](https://youtu.be/1ldYmBO4N4I?t=2275) · [49:38](https://youtu.be/1ldYmBO4N4I?t=2978)
 - **Análisis arquetípico de Elemental** — chunks: [1:46:36](https://youtu.be/p8ZInoDuE50?t=6396)
 - **Análisis arquetípico de Eyes wide shut** — chunks: [30:52](https://youtu.be/olX_-KIziX0?t=1852) · [33:22](https://youtu.be/olX_-KIziX0?t=2002)
@@ -198,7 +203,6 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314)
 - **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [2:32:49](https://youtu.be/TmQiM16HIpU?t=9169)
 - **Cuento de Navidad y el espíritu Luterano** — chunks: [22:44](https://youtu.be/7LTa7-tZwv0?t=1364)
-- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [1:10:03](https://youtu.be/QSggWfjOkHk?t=4203)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [4:57](https://youtu.be/iPqOn-ynSlE?t=297)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:41:38](https://youtu.be/nw7fSEAJr-U?t=6098)
 - **Filosofía y ciencia del dolor** — chunks: [53:32](https://youtu.be/vgS1u1Kejkk?t=3212) · [1:16:43](https://youtu.be/vgS1u1Kejkk?t=4603)
@@ -208,9 +212,12 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 - **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [8:37](https://youtu.be/-2u3CAw1xCs?t=517)
 - **Teoría de la mente y opción política** — chunks: [5:40](https://youtu.be/pgIY-zfcO4I?t=340)
 - **Cómo desparasitar humanos** — chunks: [5:37](https://youtu.be/h3OjS4upnGY?t=337)
-- **En Busca de la Diosa Blanca** — chunks: [16:23](https://youtu.be/llS9fqsNVvY?t=983)
 - **Femenino (I)** — chunks: [29:26](https://youtu.be/VR3snBjNrsc?t=1766) · [34:28](https://youtu.be/VR3snBjNrsc?t=2068) · [51:06](https://youtu.be/VR3snBjNrsc?t=3066) · [56:10](https://youtu.be/VR3snBjNrsc?t=3370)
-- **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [0:00](https://youtu.be/966LWuiirwA?t=0) · [5:36](https://youtu.be/966LWuiirwA?t=336) · [11:39](https://youtu.be/966LWuiirwA?t=699) · [34:56](https://youtu.be/966LWuiirwA?t=2096)
-- **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [13:47](https://youtu.be/BOIcK1Rpdvo?t=827) · [1:53:16](https://youtu.be/BOIcK1Rpdvo?t=6796)
 - **(segunda) Entrevista a Unicornio Psicópata** — chunks: [35:14](https://youtu.be/EnyBTP9FKoI?t=2114)
+- **La IA se sale de madre. Ética e IA parte 1** — chunks: [1:51:13](https://youtu.be/PC5uw1s86eE?t=6673)
+- **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [13:47](https://youtu.be/BOIcK1Rpdvo?t=827) · [1:53:16](https://youtu.be/BOIcK1Rpdvo?t=6796)
+- **Paternidad, primado negativo, trauma inverso y otras cositas.** — chunks: [0:00](https://youtu.be/966LWuiirwA?t=0) · [5:36](https://youtu.be/966LWuiirwA?t=336) · [11:39](https://youtu.be/966LWuiirwA?t=699) · [34:56](https://youtu.be/966LWuiirwA?t=2096) · [37:26](https://youtu.be/966LWuiirwA?t=2246)
+- **T5x07: Soto Ivars y el Tabú** — chunks: [11:09](https://youtu.be/wixOLxnd68o?t=669)
+- **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [1:10:03](https://youtu.be/QSggWfjOkHk?t=4203)
+- **En Busca de la Diosa Blanca** — chunks: [16:23](https://youtu.be/llS9fqsNVvY?t=983)
 

@@ -157,6 +157,8 @@ Las cuatro formas del mal no son sólo categorías descriptivas: marcan **camino
 
 
 
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [1:43:23](https://youtu.be/K082yiudh-g?t=6203)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [36:30](https://youtu.be/L4ayDmaUO9Y?t=2190)
+- **Epstein y el Mal.** — chunks: [5:05](https://youtu.be/Tiu6cZFq6sE?t=305)
 

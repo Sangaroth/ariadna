@@ -93,14 +93,15 @@ Inmediatamente después de Campbell, el canal introduce a Mircea Eliade marcando
 
 
 
+
 - **Biblioteca de Babel II** — chunks: [4:21](https://youtu.be/IytpR6sGWXg?t=261) · [5:51](https://youtu.be/IytpR6sGWXg?t=351) · [23:35](https://youtu.be/IytpR6sGWXg?t=1415)
 - **Lunes sin política** — chunks: [45:02](https://youtu.be/r1SmCsNmLh0?t=2702)
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [5:30](https://youtu.be/Dtp1_RLb7S0?t=330)
 - **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [1:11:49](https://youtu.be/sTnxDjo1v3o?t=4309)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [30:00](https://youtu.be/yoWJWwYH_pE?t=1800) · [1:10:52](https://youtu.be/yoWJWwYH_pE?t=4252)
-- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [3:49](https://youtu.be/aWeuzWLrLtE?t=229) · [9:53](https://youtu.be/aWeuzWLrLtE?t=593)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [33:02](https://youtu.be/xc8e2i_nREE?t=1982) · [1:52:14](https://youtu.be/xc8e2i_nREE?t=6734)
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [12:42](https://youtu.be/aPbgBnidoJI?t=762)
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [25:03](https://youtu.be/QSggWfjOkHk?t=1503)
 - **Avisos parroquiales** — chunks: [8:18](https://youtu.be/F1isbFH_FeM?t=498)
+- **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [3:49](https://youtu.be/aWeuzWLrLtE?t=229) · [9:53](https://youtu.be/aWeuzWLrLtE?t=593)
 

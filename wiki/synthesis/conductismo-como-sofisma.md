@@ -157,5 +157,7 @@ La rehabilitación de Freud en este contexto no es una defensa del psicoanálisi
 ## Citations
 
 
+
 - **Psicología 101: Conductismo, sofisma y filosofía.** — chunks: [13:24](https://youtu.be/TVK5kpPC3Qs?t=804)
+- **Del Papa y del Problema del Mal** — chunks: [29:39](https://youtu.be/0KkMrcmw8Fw?t=1779)
 

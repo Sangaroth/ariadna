@@ -8,6 +8,7 @@ aliases:
 - mal informe
 - abominación informe
 - mal primario sin forma
+- Caos arquetípico
 domain_primary: humanities.philosophy
 primary_domains:
 - humanities.philosophy
@@ -145,6 +146,8 @@ La pieza añade un signo iconográfico canónico del encuentro con el mal sin fo
 
 
 
+
 - **Análisis arquetípico de Unicorn wars** — chunks: [15:18](https://youtu.be/fLfEbHPJNmU?t=918) · [20:20](https://youtu.be/fLfEbHPJNmU?t=1220)
 - **Event Horizon** — chunks: [1:34:36](https://youtu.be/cgO7JwvwOQg?t=5676)
+- **El Cónclave** — chunks: [22:53](https://youtu.be/faUVtOicasg?t=1373)
 

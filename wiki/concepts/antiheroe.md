@@ -151,6 +151,9 @@ La distinción central: el [[heroe-truncado]] tiene destino uranio pero lo aband
 
 
 
-- **Mitología 101: Héroes y antihéroes.** — chunks: [1:23:50](https://youtu.be/yLd7j3fcR1w?t=5030) · [1:32:41](https://youtu.be/yLd7j3fcR1w?t=5561) · [1:35:43](https://youtu.be/yLd7j3fcR1w?t=5743) · [1:42:31](https://youtu.be/yLd7j3fcR1w?t=6151)
+
+
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [1:32:58](https://youtu.be/dHDv_oZODYQ?t=5578)
+- **El Gran Lebowsky y el Tarot Invertido** — chunks: [2:16](https://youtu.be/yoWJWwYH_pE?t=136)
+- **Mitología 101: Héroes y antihéroes.** — chunks: [1:23:50](https://youtu.be/yLd7j3fcR1w?t=5030) · [1:32:41](https://youtu.be/yLd7j3fcR1w?t=5561) · [1:35:43](https://youtu.be/yLd7j3fcR1w?t=5743) · [1:42:31](https://youtu.be/yLd7j3fcR1w?t=6151)
 

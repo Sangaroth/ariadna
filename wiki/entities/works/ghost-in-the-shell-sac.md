@@ -166,4 +166,6 @@ El antagonista de la serie es leído por el canal como cristalización contempor
 
 ## Citations
 
-- video_id: `yp1gyKHdOJc` — Ghost in the Shell: Arquetipo cero y transhumanismo.
+
+- **Ghost in the Shell: Arquetipo cero y transhumanismo.** — chunks: [28:27](https://youtu.be/yp1gyKHdOJc?t=1707)
+

@@ -228,13 +228,18 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
+
+
+
+
+
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
 - **Psicología 101: El perdón. Con @exitwithin** — chunks: [59:23](https://youtu.be/05MVbWwpiSs?t=3563)
 - **Wokismo para Wokes.** — chunks: [1:26:55](https://youtu.be/Q83ieEVaF5I?t=5215)
-- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
-- **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **Primer stream del año** — chunks: [7:50](https://youtu.be/kEgjSN3uKy4?t=470)
 - **El país del fin del Mundo II. DANA.** — chunks: [1:29:13](https://youtu.be/DNHgjIgU_-c?t=5353) · [1:37:25](https://youtu.be/DNHgjIgU_-c?t=5845)
 - **La Mala Ciencia** — chunks: [1:09:44](https://youtu.be/hD6YeyjukGA?t=4184) · [1:33:16](https://youtu.be/hD6YeyjukGA?t=5596)
@@ -244,4 +249,9 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:19:14](https://youtu.be/6cSsI85qCp8?t=4754)
 - **Alcachofita y la Astrología** — chunks: [6:06](https://youtu.be/rezLBRh_Tbg?t=366)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:26:26](https://youtu.be/BOIcK1Rpdvo?t=5186)
+- **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
+- **¿Qué es un símbolo? (Parte 2)** — chunks: [0:35](https://youtu.be/ez2e9NTvljg?t=35)
+- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
+- **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [14:33](https://youtu.be/hqXmKZ77TEQ?t=873)
+- **T5x07: Soto Ivars y el Tabú** — chunks: [23:24](https://youtu.be/wixOLxnd68o?t=1404)
 

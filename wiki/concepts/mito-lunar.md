@@ -7,6 +7,7 @@ aliases:
 - mito de la diosa lunar
 - mito de la diosa femenina cíclica
 - ciclo lunar mítico
+- mito lunar
 domain_primary: humanities.religion
 primary_domains:
 - humanities.religion
@@ -270,11 +271,14 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 
 
 
+
+
+
+
 - video_id: `t8v5w3s0USA` — Directo doble Parte 1: La IA demuestra la semántica no explícita.
 - **Presentación del Libro: Polaris** — chunks: [1:18:35](https://youtu.be/rLeMS4-XFrA?t=4715) · [1:38:22](https://youtu.be/rLeMS4-XFrA?t=5902)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [7:22](https://youtu.be/aWeuzWLrLtE?t=442) · [1:08:11](https://youtu.be/aWeuzWLrLtE?t=4091) · [1:27:55](https://youtu.be/aWeuzWLrLtE?t=5275) · [1:35:30](https://youtu.be/aWeuzWLrLtE?t=5730)
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [37:18](https://youtu.be/Sszbs7CG0cQ?t=2238) · [39:50](https://youtu.be/Sszbs7CG0cQ?t=2390)
-- **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105) · [38:06](https://youtu.be/L7oSZTTK8Gg?t=2286)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614) · [1:01:28](https://youtu.be/C5q89bw1G9E?t=3688)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [32:18](https://youtu.be/yLd7j3fcR1w?t=1938) · [1:47:08](https://youtu.be/yLd7j3fcR1w?t=6428)
@@ -285,5 +289,7 @@ El [[mito-polar]] no es un tercer mito independiente sino la **superposición** 
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [2:03:53](https://youtu.be/nw7fSEAJr-U?t=7433)
 - **Lilith: La Iconotropía.** — chunks: [2:36](https://youtu.be/xKCD8PaexF0?t=156)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [24:20](https://youtu.be/O4OkDuc3uPQ?t=1460)
+- **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
+- **Tremendo lunes** — chunks: [11:13](https://youtu.be/0YABTLJ-lFY?t=673)
 - **En Busca de la Diosa Blanca** — chunks: [1:21:02](https://youtu.be/llS9fqsNVvY?t=4862)
 

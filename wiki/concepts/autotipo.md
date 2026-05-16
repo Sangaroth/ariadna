@@ -298,6 +298,7 @@ La cuádruple cadena (estereotipia/prototipia/arquetipia/autotipia) opera dentro
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [12:13](https://youtu.be/3Jo2T73pOEs?t=733)
 - **Autodidáctica** — chunks: [30:39](https://youtu.be/tgP5_AvAnD8?t=1839)
 - **Tremendo lunes** — chunks: [1:14:48](https://youtu.be/0YABTLJ-lFY?t=4488)
@@ -308,6 +309,6 @@ La cuádruple cadena (estereotipia/prototipia/arquetipia/autotipia) opera dentro
 - **Primer stream del año** — chunks: [47:42](https://youtu.be/kEgjSN3uKy4?t=2862)
 - **Directo casual** — chunks: [19:12](https://youtu.be/ECN5C9rsaZg?t=1152) · [48:28](https://youtu.be/ECN5C9rsaZg?t=2908)
 - **El síndrome de Wendy** — chunks: [2:00:03](https://youtu.be/L7oSZTTK8Gg?t=7203)
-- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [14:27](https://youtu.be/4P5hxaG7i6c?t=867)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:29:57](https://youtu.be/DNxx4qwb944?t=5397) · [1:31:27](https://youtu.be/DNxx4qwb944?t=5487) · [1:38:32](https://youtu.be/DNxx4qwb944?t=5912)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [14:27](https://youtu.be/4P5hxaG7i6c?t=867)
 

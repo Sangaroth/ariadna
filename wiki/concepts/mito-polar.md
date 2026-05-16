@@ -328,6 +328,8 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 
 
 
+
+
 - **el Génesis en Tolkien (Parte 1)** — chunks: [4:46](https://youtu.be/s6teBboDDJ4?t=286)
 - **Pecado original y Postmodernidad I** — chunks: [0:40](https://youtu.be/J45h7xet8gg?t=40) · [32:32](https://youtu.be/J45h7xet8gg?t=1952)
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30)
@@ -341,7 +343,6 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [34:46](https://youtu.be/Sszbs7CG0cQ?t=2086) · [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040) · [1:23:09](https://youtu.be/Sszbs7CG0cQ?t=4989)
 - **Directo casual** — chunks: [29:23](https://youtu.be/ECN5C9rsaZg?t=1763)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
-- **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [10:15](https://youtu.be/lw7XI2lQntM?t=615)
 - **Seguimos con Tolkien** — chunks: [1:00:29](https://youtu.be/OGah7BFoR3w?t=3629)
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [25:23](https://youtu.be/xK8_MpMMXzc?t=1523) · [32:57](https://youtu.be/xK8_MpMMXzc?t=1977)
@@ -352,4 +353,6 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 - **Mitología 101: Perséfone** — chunks: [9:06](https://youtu.be/VDOUrpcC4fU?t=546)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [51:19](https://youtu.be/O4OkDuc3uPQ?t=3079)
 - **El Amor cortés y el amor romántico** — chunks: [0:57](https://youtu.be/bDnPuA3aZSk?t=57)
+- **El Hate Bombing de la izquierda.** — chunks: [25:36](https://youtu.be/DTP3syEtxP4?t=1536)
+- **Femenino (I)** — chunks: [9:35](https://youtu.be/VR3snBjNrsc?t=575)
 

@@ -1,7 +1,257 @@
 {
   "version": "0.1.0",
   "run_id": "pilot_sonnet_20260509",
-  "generated_at": "2026-05-10T21:05:36+00:00",
+  "generated_at": "2026-05-16T07:47:42+00:00",
   "_doc": "Manuales/libros que el speaker recomienda como referencia bibliográfica del canal (scope.md §3.4). Agrupados por book_title con todas las occurrences. Insumo para futura página índice wiki/bibliografia-recomendada.md (renderizado post-process — esta es la fuente de verdad estructurada).",
-  "books": {}
+  "books": {
+    "Manual de neurociencia cognitiva": {
+      "book_title": "Manual de neurociencia cognitiva",
+      "authors": [
+        "Diego Redolar Ripoll"
+      ],
+      "domain": "neurociencia",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Manual de neurociencia cognitiva (Diego Redolar)",
+          "why_recommended": "Introducción a la dimensión biológica del estudio de la mente; el canal articula que las ciencias cognitivas se reducen a biología + sistemas formales, y este manual cubre la base biológica que sustenta esa articulación.",
+          "quote_evidence": "Manual de neurociencia cognitiva de Redolar (editorial Panamericana) como introducción biológica",
+          "timestamp_seconds": 222
+        }
+      ]
+    },
+    "Neuropsicología clínica y neurociencia": {
+      "book_title": "Neuropsicología clínica y neurociencia",
+      "authors": [],
+      "domain": "neurología clínica",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Neuropsicología clínica y neurociencia (Student Consult)",
+          "why_recommended": "Manual de consulta para la dimensión neurológica de la mente — complemento al manual de Redolar para cubrir el componente clínico-neurológico del marco bio-cognitivo del canal.",
+          "quote_evidence": "Neuropsicología clínica y neurociencia (Student Consult) para neurología",
+          "timestamp_seconds": 222
+        }
+      ]
+    },
+    "Introducción a la psicopatología y a la psiquiatría": {
+      "book_title": "Introducción a la psicopatología y a la psiquiatría",
+      "authors": [],
+      "domain": "psicopatología y psiquiatría clínica",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Introducción a la psicopatología y a la psiquiatría",
+          "why_recommended": "Manual de consulta para la dimensión psiquiátrica del marco clínico del canal; complementa los manuales de neurociencia (Redolar, Student Consult) con la perspectiva psicopatológica clásica.",
+          "quote_evidence": "\"Introducción a la psicopatología y a la psiquiatría\" como libro buenísimo para la cuestión psiquiátrica",
+          "timestamp_seconds": 346
+        }
+      ]
+    },
+    "Gödel, Escher, Bach: un eterno y grácil bucle": {
+      "book_title": "Gödel, Escher, Bach: un eterno y grácil bucle",
+      "authors": [
+        "Douglas Hofstadter"
+      ],
+      "domain": "lógica, ciencia cognitiva, filosofía de la mente",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Gödel, Escher, Bach: un eterno y grácil bucle (Douglas Hofstadter)",
+          "why_recommended": "Libro de referencia para toda la vida sobre lógica formal y auto-referencia. Los 'saltos fuera del sistema' hofstadterianos están importados al marco del canal como mecanismo nuclear de la metarrepresentación (ver inconsciente-en-proxy y tesis-once-celdas-en-proxy).",
+          "quote_evidence": "\"Gödel, Escher, Bach: un eterno y grácil bucle\" de Douglas Hofstadter como libro para toda la vida sobre lógica",
+          "timestamp_seconds": 376
+        }
+      ]
+    },
+    "Lenguaje matemático, conjuntos y números": {
+      "book_title": "Lenguaje matemático, conjuntos y números",
+      "authors": [],
+      "domain": "matemáticas — teoría de conjuntos",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Lenguaje matemático, conjuntos y números (manual UNED)",
+          "why_recommended": "Manual UNED 'brutal e infravalorado' sobre teoría de conjuntos — referencia para la dimensión formal-matemática del marco del canal (clases de equivalencia, cardinalidad de la matriz noética).",
+          "quote_evidence": "Manual de la UNED \"Lenguaje matemático, conjuntos y números\" como manual de teoría de conjuntos brutal e infravalorado",
+          "timestamp_seconds": 376
+        }
+      ]
+    },
+    "Logic for Mathematicians (Lógica para matemáticos)": {
+      "book_title": "Logic for Mathematicians (Lógica para matemáticos)",
+      "authors": [
+        "A. G. Hamilton"
+      ],
+      "domain": "lógica matemática fundamental",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Lógica para matemáticos (A. G. Hamilton)",
+          "why_recommended": "Manual paso-a-paso (difícil, en inglés) sobre lógica matemática fundamental — referencia rigurosa para el componente analítico del realismo cognitivo que el canal exige (la demanda 'la filosofía debe ser analítica' articulada en psiquiatria-y-teoria-de-la-mente).",
+          "quote_evidence": "\"Lógica para matemáticos\" de Hamilton como la madre del cordero de la matemática fundamental en lógica: difícil, en inglés, pero paso por paso",
+          "timestamp_seconds": 376
+        }
+      ]
+    },
+    "El héroe de las mil caras": {
+      "book_title": "El héroe de las mil caras",
+      "authors": [
+        "Joseph Campbell"
+      ],
+      "domain": "mitología comparada",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "El héroe de las mil caras (Joseph Campbell)",
+          "why_recommended": "Punto de entrada recomendado al corpus de Campbell — 'lo mejor que hay en mitología' según el canal. Articula el monomito del viaje del héroe que es marco operativo central del canal (ver [[viaje-heroe]]).",
+          "quote_evidence": "Campbell es lo mejor que hay en mitología: empezar por \"El héroe de las mil caras\" y seguir con \"Las máscaras de Dios\"",
+          "timestamp_seconds": 498
+        }
+      ]
+    },
+    "Las máscaras de Dios": {
+      "book_title": "Las máscaras de Dios",
+      "authors": [
+        "Joseph Campbell"
+      ],
+      "domain": "mitología comparada",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Las máscaras de Dios (Joseph Campbell, varios tomos)",
+          "why_recommended": "Tetralogía continuación de 'El héroe de las mil caras' — varios tomos independientes pero el canal recomienda leerlos todos. Mitología comparada sistemática como cimiento del marco del canal.",
+          "quote_evidence": "seguir con \"Las máscaras de Dios\" (varios tomos independientes pero hay que leerlos todos)",
+          "timestamp_seconds": 498
+        }
+      ]
+    },
+    "El mito de la diosa": {
+      "book_title": "El mito de la diosa",
+      "authors": [
+        "Anne Baring",
+        "Jules Cashford"
+      ],
+      "domain": "mitología comparada — arquetipo femenino",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "El mito de la diosa (Anne Baring & Jules Cashford)",
+          "why_recommended": "Estudio sistemático sobre el arquetipo de la diosa a través de las culturas; referencia para la dimensión femenina del marco mítico del canal (diosa-blanca, tipologia-femenina-arquetipica, mito-lunar).",
+          "quote_evidence": "Cashford y Baring: \"El mito de la diosa\" y \"La luna, símbolo de transformación\"",
+          "timestamp_seconds": 498
+        }
+      ]
+    },
+    "La luna, símbolo de transformación": {
+      "book_title": "La luna, símbolo de transformación",
+      "authors": [
+        "Jules Cashford",
+        "Anne Baring"
+      ],
+      "domain": "mitología comparada — simbología lunar",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "La luna, símbolo de transformación (Jules Cashford & Anne Baring)",
+          "why_recommended": "Estudio dedicado a la simbología lunar a lo largo de la historia; referencia para la articulación del mito-lunar como pieza del catálogo de mitos primarios del canal.",
+          "quote_evidence": "Cashford y Baring: \"El mito de la diosa\" y \"La luna, símbolo de transformación\"",
+          "timestamp_seconds": 498
+        }
+      ]
+    },
+    "El lenguaje de la diosa": {
+      "book_title": "El lenguaje de la diosa",
+      "authors": [
+        "Marija Gimbutas"
+      ],
+      "domain": "arqueología mítica — simbología neolítica europea",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "El lenguaje de la diosa (Marija Gimbutas)",
+          "why_recommended": "Estudio arqueológico-mítico sobre la simbología de la diosa en culturas neolíticas europeas; referencia para la genealogía pre-cristiana del arquetipo femenino articulado en el canal.",
+          "quote_evidence": "Marija Gimbutas: \"El lenguaje de la diosa\"",
+          "timestamp_seconds": 498
+        }
+      ]
+    },
+    "La diosa blanca": {
+      "book_title": "La diosa blanca",
+      "authors": [
+        "Robert Graves"
+      ],
+      "domain": "poética — entrenamiento del pensamiento poético",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "La diosa blanca (Robert Graves)",
+          "why_recommended": "Recomendado NO como tratado de mitología sino como entrenamiento del PENSAMIENTO POÉTICO. El canal declara explícitamente que sin este libro no habría escrito su propio Polaris — máxima carga genealógica personal del speaker sobre su producción intelectual. Foundational para [[pensamiento-poetico]] y para la articulación del arquetipo [[diosa-blanca]].",
+          "quote_evidence": "\"La diosa blanca\" de Robert Graves no es estrictamente mitología sino poética, entrena el pensamiento poético; sin ese libro Proxy no habría escrito Polaris",
+          "timestamp_seconds": 498
+        }
+      ]
+    },
+    "Biblia glosada (edición con anotaciones)": {
+      "book_title": "Biblia glosada (edición con anotaciones)",
+      "authors": [],
+      "domain": "fuente mitológica primaria",
+      "occurrences": [
+        {
+          "video_id": "F1isbFH_FeM",
+          "video_title": "Avisos parroquiales",
+          "surface_form": "Biblia glosada con anotaciones (recomendación de partida para mitología clásica)",
+          "why_recommended": "Punto de partida foundational para acceder al corpus mítico-bíblico que sustenta gran parte del análisis arquetípico del canal (génesis, apocalipsis, lucifer-satanás-serpiente, virgen-maría). El canal recomienda especialmente edición glosada con anotaciones para captar las capas exegéticas.",
+          "quote_evidence": "La Biblia es un punto de partida enorme, especialmente una Biblia glosada con anotaciones",
+          "timestamp_seconds": 709
+        }
+      ]
+    },
+    "Apocalipsis antiguos (compilación)": {
+      "book_title": "Apocalipsis antiguos (compilación)",
+      "authors": [
+        "Antonio Piñero"
+      ],
+      "domain": "humanities.religion",
+      "occurrences": [
+        {
+          "video_id": "lLRGemLUCtY",
+          "video_title": "Los Apocalipsis. (Parte I)",
+          "surface_form": "Antonio Piñero (editor de la compilación de Apocalipsis antiguos)",
+          "why_recommended": "Compilación editada de textos apocalípticos antiguos (Apocalipsis de las 10 semanas en Enoc 1, libro del curso de las luminarias en Enoc 72, Apocalipsis de Adán en Nag Hammadi, entre otros) que el canal utiliza como fuente primaria para articular el marco arquetípico del mitema apocalíptico. El libro proporciona también los puntos característicos del arquetipo apocalíptico que el canal cita explícitamente como base teórica",
+          "quote_evidence": "Se utilizará un libro recopilatorio de Apocalipsis antiguos editado por Antonio Piñero,",
+          "timestamp_seconds": 2417
+        }
+      ]
+    },
+    "El círculo de la sabiduría": {
+      "book_title": "El círculo de la sabiduría",
+      "authors": [
+        "Ignacio Gómez de Liaño"
+      ],
+      "domain": "humanities.religion",
+      "occurrences": [
+        {
+          "video_id": "lLRGemLUCtY",
+          "video_title": "Los Apocalipsis. (Parte I)",
+          "surface_form": "Ignacio Gómez de Liaño — El círculo de la sabiduría",
+          "why_recommended": "Recopilación de los elementos culturales, mitológicos y místicos que dieron lugar al gnosticismo. El canal lo recomienda como lectura muy completa pero densa que requiere interés en historia e historia del arte. Función bibliográfica de profundización del sustrato cultural gnóstico ya articulado en wiki",
+          "quote_evidence": "Recopilación de todos los elementos culturales, mitológicos y místicos que dieron lugar al gnosticismo,",
+          "timestamp_seconds": 7342
+        }
+      ]
+    }
+  }
 }
