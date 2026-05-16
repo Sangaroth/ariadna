@@ -1,0 +1,458 @@
+{
+  "video_id": "mWzi6Mjbjvk",
+  "video_title": "\"Hikikomori\" Luna roja sobre el varón. Parte I",
+  "playlist": "psicologia-101",
+  "category": "psicología",
+  "entities": [
+    {
+      "surface_form": "hikikomori",
+      "canonical_guess": "hikikomori-fenomeno",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 130,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El directo aborda el fenómeno hikikomori como problemática predominantemente masculina (70-75% de incidencia en varones),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Tres estereotipos: aislamiento social primario (burbuja), aislamiento fóbico (taxi suzuki gata), y sustitución por vida tecnológica (neto),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El fenómeno hikikomori, el fenómeno incel y el MGTOW comparten la misma raíz: fracaso cultural por apego evitativo,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Es un síndrome genuino pero no está en el CIE-10 ni en el DSM-5; es fundamentalmente secundario a una neurosis subyacente,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Monográfico de 130 min sobre el cuadro (Parte I; existe Parte II). La página actual es breve (3 secciones de contenido) y declara 4 lagunas explícitas, 3 de las cuales este vídeo refuta directamente: 'Especificidad cultural japonesa' (el vídeo articula Wa/Rey/Honne-Tatemae/Amae/Sekentei en ~30 min), 'Tratamiento clínico' (rehabilitación cultural, farmacología, intervención familiar, analogía con alcoholismo), 'Datos epidemiológicos' (70% varones, edad 36/51, duración 3-30 años, comorbilidades). Material genuinamente NUEVO al cuerpo leído: marco cultural japonés completo, mito luna roja sobre el varón, distinción operativa frente a depresión/esquizoide/fase prodrómica esquizofrenia, tecnología como iatrogenia (no causa), yatrogenia familiar/ocultamori, tres mensajes tóxicos generacionales, triada masculina hikikomori-incel-MGTOW, tipología parental → manifestaciones culturales (4×4), receta de recuperación.",
+      "quote_evidence": "El directo aborda el fenómeno hikikomori como problemática predominantemente masculina (70-75% de incidencia en varones),"
+    },
+    {
+      "surface_form": "síndrome del niño masculino",
+      "canonical_guess": "sindrome-del-nino-masculino",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology.jungian",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Padres hiperracionales sin afecto generan apego evitativo → desconexión afectiva masculina (incel, hikikomori, desocialización),"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Afecta predominantemente al varón porque la mujer suele conservar el vínculo materno como compensación,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la etiología doble del cuadro masculino (carencia materna → incapacidad de vincularse; carencia paterna → rechazo a relaciones) y ya conecta con sociedad del bienestar. Este vídeo aporta la dimensión cultural-generacional: la triada hikikomori-incel-MGTOW como manifestaciones contemporáneas del cuadro vía apego evitativo, los tres mensajes tóxicos generacionales y su correspondencia 1-a-1 con operaciones psíquicas. Material nuevo al cuerpo leído: conecta la articulación parental clásica de la página con la tipología cultural emergente. Update focalizado.",
+      "quote_evidence": "El fenómeno hikikomori, el fenómeno incel y el MGTOW comparten la misma raíz: fracaso cultural por apego evitativo,"
+    },
+    {
+      "surface_form": "consumismo y vínculo prefabricado",
+      "canonical_guess": "consumismo-critica",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "tertiary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La familia y el contexto cultural son parte de la neurosis: los mensajes que emiten forman el superyó disfuncional,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página ya cubre la dimensión consumista del cuadro de retiro y la sociedad del bienestar como contexto. El vídeo refuerza la articulación cultural pero no añade material genuinamente nuevo en este eje — los tres mensajes tóxicos quedan integrados en hikikomori-fenomeno y sindrome-del-nino-masculino. Cita-only para retrieval indirecto del hilo consumista-cultural en esta sesión.",
+      "quote_evidence": "La generación anterior transmitió tres mensajes tóxicos: \"el mundo es horrible\", \"es tu culpa\" y \"puedes ser todo lo que quieras si te esfuerzas\","
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "hikikomori-fenomeno",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza enlaza con el marco general del [[dominio-y-franja-de-incertidumbre]]: el hikikomori es caso donde la franja de incertidumbre socialmente accesible se ha aplanado completamente — no porque falte capacidad, sino porque las representaciones de éxito social han sido calibradas a un horizonte irreal por la sobrepromesa cultural.",
+      "content_proposed": "\n\n## El marco cultural japonés: Wa, Rey y la geometría social del honor\n\nEn el directo monográfico *\"Hikikomori\" Luna roja sobre el varón. Parte I* (jun 2023), en diálogo con Marta como especialista en cultura japonesa, el canal articula la armadura cultural sin la cual el cuadro no se entiende: el hikikomori no es patología que surge en cualquier contexto sino caso extremo de una sociedad colectivista cuya estructura está organizada en torno al honor y la armonía.\n\n### Wa: armonía social como principio sagrado\n\n> \"Wa significa armonía social y se usa como prefijo para sustituir la propia palabra Japón,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (09:36)](https://youtu.be/mWzi6Mjbjvk?t=576)\n\n> \"Implica evitar el conflicto a toda costa: es más importante poner paz que tener razón,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (09:36)](https://youtu.be/mWzi6Mjbjvk?t=576)\n\nDecir 'no' directamente es tajante y despectivo; la negación se evita sistemáticamente. La sociedad es colectivista y el grupo prima sobre el individuo. Esta es la matriz que hace operativo todo lo que sigue.\n\n### Rey: las tres esferas de la cortesía\n\n> \"Rey engloba las buenas maneras y la cortesía, comparable al concepto británico de \\\"manners\\\",\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (13:39)](https://youtu.be/mWzi6Mjbjvk?t=819)\n\n> \"Se compone de tres esferas de psicología cultural: tate-shakai (jerarquía), uchi-soto-tanin (esferas de relación) y honne-tatemae (yo verdadero vs. fachada social),\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (13:39)](https://youtu.be/mWzi6Mjbjvk?t=819)\n\n**Tate-shakai (jerarquía vertical absoluta)**: prácticamente imposible relación de igual a igual; la jerarquía opera en compañeros de clase, hermanos, parejas, trabajo. La obligación es bilateral — el inferior debe obediencia y el superior tiene responsabilidad de cuidar y enseñar. La gramática japonesa codifica la jerarquía (múltiples niveles formales según interlocutor, verbo al final que mantiene la intención en suspenso hasta el cierre).\n\n**Uchi-soto-tanin (tres esferas de relación)**: *uchi* (dentro: círculo íntimo donde puedes ser tú mismo), *soto* (fuera: conocidos, compañeros, requieren fachada social), *tanin* (otros: completos desconocidos sin convención social). El paso del apellido al nombre marca la entrada al uchi.\n\n**Honne y Tatemae (yo verdadero vs fachada)**:\n\n> \"Honne son las opiniones y sentimientos reales, que solo se muestran dentro del uchi,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (27:56)](https://youtu.be/mWzi6Mjbjvk?t=1676)\n\n> \"No existe forma educada de ser discordante en Japón: un empleado que ve un problema en un proyecto no lo dirá,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (27:56)](https://youtu.be/mWzi6Mjbjvk?t=1676)\n\nLas empresas japonesas son lentas para aplicar cambios porque nadie rompe el tatemae. El único espacio donde honne y tatemae se mezclan es el ritual de beber con el jefe (*nomikai*):\n\n> \"Funciona como un \\\"carnaval invertido\\\": en lugar de ocultarte siendo otro, te muestras siendo tú mismo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (31:29)](https://youtu.be/mWzi6Mjbjvk?t=1889)\n\n### Amae: dependencia pasiva como lubricante afectivo\n\n> \"Amae es la dependencia pasiva o permisiva: actuar como un bebé gigante para recibir confort,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (43:38)](https://youtu.be/mWzi6Mjbjvk?t=2618)\n\n> \"Funciona como dinámica transaccional bilateral: uno necesita cariño y el otro se realiza dándolo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (43:38)](https://youtu.be/mWzi6Mjbjvk?t=2618)\n\n> \"Es lo más parecido a una codependencia culturalmente aceptada y coordinada,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (43:38)](https://youtu.be/mWzi6Mjbjvk?t=2618)\n\n### Sekentei: la vergüenza social como ojo del otro\n\n> \"Sekentei es literalmente \\\"el ojo del otro en ti\\\", el miedo a la mirada ajena llevado al extremo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (49:43)](https://youtu.be/mWzi6Mjbjvk?t=2983)\n\n> \"La vergüenza no es solo pudor: es fracaso a nivel individual, familiar, grupal, escolar, cultural y político simultáneamente,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (49:43)](https://youtu.be/mWzi6Mjbjvk?t=2983)\n\nSolo el 1% de los divorcios japoneses van a juez — el resto se resuelve internamente. Buscar ayuda psicológica es llevar el conflicto fuera y reconocer el honne fuera del uchi, lo que multiplica la deshonra. Esta geometría del honor sostiene el suicidio japonés como ritual de limpieza:\n\n> \"Cuando fallas en el wa y en cohesionarte con la sociedad, es muy difícil volver del ostracismo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (37:36)](https://youtu.be/mWzi6Mjbjvk?t=2256)\n\n> \"La forma histórica de limpiar el honor en Japón siempre ha sido la muerte,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (37:36)](https://youtu.be/mWzi6Mjbjvk?t=2256)\n\n## Mito de la luna roja sobre el varón\n\nEl título del especial articula una transposición arquetípica. El ciclo lunar femenino tiene cuatro fases — creciente (Cazadora), llena (Afrodita/sexualidad), decreciente (ancianidad) y roja (eclipse/descenso a los infiernos). La luna roja es el momento en que se decide si la diosa será grandiosa o bruja: el eclipse donde la feminidad se confronta con la sombra y se juega su forma final. *Luna roja sobre el varón* traslada ese esquema al ocaso de la masculinidad moderna — el hikikomori (junto al incel y al MGTOW, ver más abajo) es manifestación cultural del eclipse masculino donde se está jugando si el varón occidental contemporáneo será figura adulta integrada o forma degradada.\n\n> \"\\\"Luna roja sobre el varón\\\" representa mitológicamente el ocaso de la masculinidad, equivalente al ocaso de la feminidad en el mito de la diosa,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (01:00)](https://youtu.be/mWzi6Mjbjvk?t=60)\n\nLa pieza enlaza con [[mito-lunar]] (cuatro fases del ciclo femenino), [[tipologia-femenina-arquetipica]] (gracia / consorte / madre y sus corrupciones) y [[diosa-blanca]] como referencia mítica original.\n\n## Caracterización clínica precisa y distinciones diagnósticas\n\nEtimología: *hikikimori* = *hikiki* (retroceder) + *komoru* (quedarse dentro). La conducta es **desocialización pasiva**: abandono voluntario del cumplimiento del contexto cultural sin infringirlo.\n\n> \"Es una desocialización pasiva: abandono voluntario del cumplimiento del contexto cultural sin infringirlo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (57:20)](https://youtu.be/mWzi6Mjbjvk?t=3440)\n\nTres estereotipos del cuadro: **aislamiento social primario** (burbuja completa), **aislamiento fóbico** (*taxi suzuki gata*: sale solo en taxi a horas vacías), **sustitución por vida tecnológica** (*neto*: vive online). Rasgos clínicos consolidados: uso tecnológico, abandono de higiene, rechazo activo al contacto, dependencia familiar, ruptura masiva de vínculos (ghosting masivo), inversión circadiana.\n\n### Datos epidemiológicos\n\n> \"70% varones, edad media 36 años en hombres y 51 en mujeres, duración de 3 a 30 años,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:02:52)](https://youtu.be/mWzi6Mjbjvk?t=3772)\n\nComorbilidades documentadas: depresión, ansiedad, agorafobia, psicosis y TOC. La asimetría de género (70% varones, 70-75% según la articulación del especial) es el dato que motiva la lectura masculina del cuadro y justifica el título *luna roja sobre el varón*.\n\n### Síndrome secundario sui generis (no DSM/CIE)\n\n> \"Es un síndrome genuino pero no está en el CIE-10 ni en el DSM-5; es fundamentalmente secundario a una neurosis subyacente,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:14:58)](https://youtu.be/mWzi6Mjbjvk?t=4498)\n\n> \"No debe confundirse con adicción al juego o a internet: la adicción es impulsiva, el hikikomori es más obsesivo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:14:58)](https://youtu.be/mWzi6Mjbjvk?t=4498)\n\n> \"Su conducta es casi indistinguible de la fase prodrómica de la esquizofrenia,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:14:58)](https://youtu.be/mWzi6Mjbjvk?t=4498)\n\nLa proximidad fenoménica a la fase prodrómica de la esquizofrenia es operativa: el cuadro debe vigilarse longitudinalmente porque puede ser pródromo de un trastorno más severo o estabilizarse como hikikomori puro. La distinción frente a las adicciones es categorial — el hikikomori es estructura obsesiva neurótica, no patología impulsiva.\n\n### Diferencia esencial: el hikikomori sí quiere salir\n\n> \"A diferencia de la depresión donde no hay motivación, el hikikomori tiene motivación pero certeza de incapacidad,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:07:54)](https://youtu.be/mWzi6Mjbjvk?t=4074)\n\n> \"Quiere participar en su cultura pero se ve absolutamente incapaz de cumplir con las normas integradas,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:07:54)](https://youtu.be/mWzi6Mjbjvk?t=4074)\n\nLa precisión refina la distinción operativa frente a depresión articulada en el directo del 15-ene-2025 (sección 'Distinción operativa frente a la depresión clínica' arriba): no es solo que las motivaciones sociales se hayan salido del rango — están presentes pero el sujeto tiene **certeza de incapacidad** para cumplirlas. La culpa monta un bucle: cuanto menos sale, más culpable se siente; cuanto más culpable, más ansiedad y menos capacidad de volver. La agresividad resultante es consecuencia de frustración, no de depresión.\n\n### Diferenciación con el perfil esquizoide\n\n> \"El esquizoide nunca tuvo capacidad de conexión afectiva; el hikikomori sí la tuvo y la perdió,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (2:04:14)](https://youtu.be/mWzi6Mjbjvk?t=7454)\n\n> \"El hikikomori no está cómodo dentro de su aislamiento, a diferencia del esquizoide en su cueva,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (2:04:14)](https://youtu.be/mWzi6Mjbjvk?t=7454)\n\nFrontera diagnóstica final: el esquizoide habita su retiro porque nunca tuvo el sustrato afectivo para la conexión; el hikikomori sufre su retiro porque tuvo el sustrato y lo perdió. El primero es estructura estable, el segundo es proceso patológico con motivación inversa.\n\n## Tecnología como iatrogenia, no como causa\n\nCorrección categorial del marco: la tecnología no es agente etiológico, es agente iatrogénico. El cuadro existe antes del refugio digital — el refugio agrava la dinámica preexistente.\n\n> \"La tecnología no causa el hikikomori sino que es iatrogénica: agrava el síndrome existente,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:19:34)](https://youtu.be/mWzi6Mjbjvk?t=4774)\n\n> \"Las relaciones virtuales en videojuegos carecen del sustrato esencial de la relación humana: preocuparse por el otro,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:19:34)](https://youtu.be/mWzi6Mjbjvk?t=4774)\n\n> \"El hikikomori no rechaza la realidad sino las relaciones que conllevan significado y obligación cultural,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:19:34)](https://youtu.be/mWzi6Mjbjvk?t=4774)\n\n> \"No sustituyen su vida por una digital porque también rechazan vínculos online con contenido afectivo real,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:19:34)](https://youtu.be/mWzi6Mjbjvk?t=4774)\n\nEl hikikomori no es adicto a la tecnología — usa la tecnología precisamente porque las relaciones virtuales sin sustrato afectivo no le exigen la respuesta que le angustia. Si lo virtual fuera afectivamente significativo, también lo rechazaría. Esto invierte la lectura popular del 'aislamiento digital' como causa: lo digital es síntoma y agente agravante, no etiología.\n\n### Teoría neuroeconómica del esfuerzo y la norma integrada\n\n> \"Para el cerebro es más fácil ver cosas que hacer cosas; las relaciones humanas siempre conllevan esfuerzo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:31:22)](https://youtu.be/mWzi6Mjbjvk?t=5482)\n\n> \"La norma cultural integrada no se puede deconstruir: el hikikomori no puede concebir relaciones sin jerarquía implícita,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:31:22)](https://youtu.be/mWzi6Mjbjvk?t=5482)\n\n> \"Por eso no se unen entre ellos ni sustituyen relaciones japonesas por relaciones con extranjeros,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:31:22)](https://youtu.be/mWzi6Mjbjvk?t=5482)\n\nLa norma integrada explica por qué los hikikomori no forman comunidades entre ellos ni eligen vínculos con extranjeros (donde la jerarquía cultural está suspendida): la matriz noética del individuo ha integrado tanto el protocolo que cualquier interacción humana activa la ansiedad del deber. No se puede salir del protocolo porque el protocolo ES la condición de toda interacción concebible — pieza que articula la imposibilidad estructural de la 'solución comunitaria' al cuadro.\n\n## Yatrogenia familiar: ocultamori\n\n> \"Que un hijo sea hikikomori es un fallo no solo del hijo sino de los padres como responsables jerárquicos,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (52:45)](https://youtu.be/mWzi6Mjbjvk?t=3165)\n\n> \"Las familias ocultan al hikikomori para evitar el sekentei, agravando el síndrome en vez de buscar ayuda,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (52:45)](https://youtu.be/mWzi6Mjbjvk?t=3165)\n\n> \"El fenómeno se denomina también \\\"ocultamori\\\": esconder al hijo como si fuera una vergüenza familiar,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (52:45)](https://youtu.be/mWzi6Mjbjvk?t=3165)\n\nLa estructura del honor japonesa convierte a la familia en agente iatrogénico: el sekentei aplicado a la familia exige ocultar al hijo, lo que profundiza el aislamiento y bloquea la búsqueda de ayuda. El cuadro se intensifica precisamente por el mecanismo que la cultura ha desarrollado para gestionar el fracaso individual. Esta pieza es estructuralmente análoga a la 'familia que oculta' en el cuadro occidental — donde la vergüenza no es sekentei pero opera con la misma función.\n\n## Apego evitativo y la triada masculina occidental: hikikomori, incel, MGTOW\n\nEl giro occidental del marco. La pieza nuclear es que el hikikomori no es exclusivamente japonés ni requiere la peculiaridad sociolaboral nipona: es manifestación de un cuadro más amplio cuyo motor es el **apego evitativo**, articulable también en contextos occidentales bajo otras formas culturales.\n\n### Teoría del apego como sustrato\n\n> \"Cuatro estilos de apego: seguro, desorganizado, ambivalente/ansioso y evitativo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:42:31)](https://youtu.be/mWzi6Mjbjvk?t=6151)\n\n> \"El apego se forma de 0 a 8 años; si no ocurren ciertas dinámicas con los padres, las carencias son permanentes (herida primaria),\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:42:31)](https://youtu.be/mWzi6Mjbjvk?t=6151)\n\n> \"Sin transmisión de firmeza, seguridad y autonomía se generan desidia y decepción,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:42:31)](https://youtu.be/mWzi6Mjbjvk?t=6151)\n\nLos tres componentes que el apego seguro transmite — **firmeza, seguridad, autonomía** — son los ausentes en la generación cuyo fracaso cultural ahora se manifiesta como triada masculina. Sin esos tres componentes el sujeto adulto opera en **desidia** (falta de iniciativa) y **decepción** (mundo no a la altura de la promesa interiorizada).\n\n### Los tres mensajes tóxicos generacionales\n\n> \"La generación anterior transmitió tres mensajes tóxicos: \\\"el mundo es horrible\\\", \\\"es tu culpa\\\" y \\\"puedes ser todo lo que quieras si te esfuerzas\\\",\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)\n\n> \"\\\"Es tu culpa\\\" genera desidia; \\\"puedes ser todo\\\" genera decepción cuando la realidad no lo permite; \\\"el mundo es horrible\\\" genera ansiedad,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)\n\nEtiología precisa por correspondencia 1-a-1 entre mensaje cultural y operación psíquica. Operativa diagnósticamente: ante un sujeto con cuadro de retiro masculino, el rastreo de cuál de los tres mensajes dominaba el entorno parental orienta el subtipo.\n\n### Hikikomori, incel y MGTOW como manifestaciones del mismo motor\n\n> \"El fenómeno hikikomori, el fenómeno incel y el MGTOW comparten la misma raíz: fracaso cultural por apego evitativo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)\n\nLas tres formas son culturalmente distintas pero estructuralmente idénticas: apego evitativo masculino sin firmeza/seguridad/autonomía interiorizadas. El hikikomori se retira del contacto presencial completo (caso japonés extremo, replicándose en occidente); el incel concentra el fracaso en la imposibilidad sexual y construye identidad sobre el resentimiento; el MGTOW articula el retiro como decisión ideológica y rechaza el vínculo heterosexual como elección.\n\n### Asimetría de género\n\n> \"Afecta predominantemente al varón porque la mujer suele conservar el vínculo materno como compensación,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:58:10)](https://youtu.be/mWzi6Mjbjvk?t=7090)\n\nEl 70% de casos masculinos no es contingente. La mujer, al conservar el vínculo materno como sustrato compensatorio, tiene una vía de mitigación que el varón no encuentra simétricamente. Esto enlaza con la precisión articulada en [[sindrome-del-nino-masculino]] sobre la asimetría de carencias parentales (materna → incapacidad de vincularse; paterna → rechazo a relaciones).\n\n## Tipología parental → cuatro manifestaciones culturales\n\nLa pieza más sistemática del directo articula un mapa 4×4 entre estilos parentales y cuadros culturales. El canal lo articula como tipología propia que extiende Bowlby aplicándolo al diagnóstico cultural contemporáneo.\n\n> \"Padres hiperracionales sin afecto generan apego evitativo → desconexión afectiva masculina (incel, hikikomori, desocialización),\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:50:06)](https://youtu.be/mWzi6Mjbjvk?t=6606)\n\n> \"Padres inseguros/helicóptero generan apego ansioso/ambivalente → guerra de sexos, feminismo radical, MGTOW, narcisismo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:50:06)](https://youtu.be/mWzi6Mjbjvk?t=6606)\n\n> \"Padres con desorden afectivo generan apego desorganizado → trastornos de personalidad, histrionismo, síndrome borderline,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:50:06)](https://youtu.be/mWzi6Mjbjvk?t=6606)\n\n> \"Ausencia total de padre genera el espectro disocial: sociópatas, delincuentes, las manifestaciones más destructivas,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:50:06)](https://youtu.be/mWzi6Mjbjvk?t=6606)\n\n| Estilo parental | Apego resultante | Manifestaciones culturales |\n|---|---|---|\n| Hiperracionales sin afecto | Evitativo | Hikikomori, incel, desocialización masculina |\n| Inseguros / helicóptero | Ansioso / ambivalente | Guerra de sexos, feminismo radical, MGTOW, narcisismo |\n| Con desorden afectivo | Desorganizado | Trastornos de personalidad, histrionismo, borderline |\n| Ausencia total del padre | (carencia estructural) | Espectro disocial: sociopatía, delincuencia |\n\nMGTOW aparece en dos casillas — manifestación de apego evitativo (junto a hikikomori e incel) y de apego ansioso (junto al feminismo radical). La duplicación no es contradicción sino marca de que MGTOW es etiqueta cultural heterogénea que puede albergar dos motores psíquicos opuestos: el varón evitativo que se retira sin combatir y el varón ansioso que combate desde la posición narcisista.\n\n### La familia como parte de la neurosis\n\n> \"La familia y el contexto cultural son parte de la neurosis: los mensajes que emiten forman el superyó disfuncional,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:58:10)](https://youtu.be/mWzi6Mjbjvk?t=7090)\n\nLa pieza cierra el cuadro: el superyó disfuncional que sostiene el retiro no es producción individual sino interiorización de los mensajes del entorno parental y cultural. Esto orienta directamente la fase de recuperación.\n\n## Recuperación: rehabilitación cultural, intervención familiar, independencia\n\n> \"La recuperación requiere rehabilitación cultural (actividades manuales, terapias de grupo), farmacología e intervención familiar,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (2:04:14)](https://youtu.be/mWzi6Mjbjvk?t=7454)\n\n> \"Es comparable al alcoholismo: la recuperación tarda de 1 a 5 años y el ambiente íntimo iatrogénico impide la curación,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (2:04:14)](https://youtu.be/mWzi6Mjbjvk?t=7454)\n\nTres ejes terapéuticos: **rehabilitación cultural** (actividades manuales, terapias de grupo que reintroducen lo presencial sin las exigencias jerárquicas máximas); **farmacología** (no curativa pero estabilizadora de la comorbilidad ansioso-depresiva); **intervención familiar** (la pieza decisiva, dado que el ambiente íntimo es iatrogénico). La analogía con el alcoholismo es operativa: igual que el alcohólico no se cura en su casa si el entorno bebe, el hikikomori no se cura en familia que oculta y agrava.\n\n> \"Muchas veces la curación requiere que el individuo se independice de la familia que es parte del problema,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (2:09:15)](https://youtu.be/mWzi6Mjbjvk?t=7755)\n\n> \"La familia casi siempre es parte de la neurosis; un individuo no puede curar a otro si padece lo mismo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (2:09:15)](https://youtu.be/mWzi6Mjbjvk?t=7755)\n\n### Señales de alerta para familias\n\nProtocolo diagnóstico operativo: rastrear en el entorno los tres mensajes tóxicos ('el mundo es horrible', 'es tu culpa', 'puedes ser todo si te esfuerzas') e identificar las carencias clave (desidia, decepción, ausencia de firmeza/seguridad/autonomía). La aparición conjunta es señal de superyó disfuncional ya instalado y de probabilidad alta de cuadro en evolución.\n\n",
+      "section_target": null,
+      "supersedes_laguna_text": "**Especificidad cultural japonesa**: el canal usa el término en su acepción originaria pero no aborda en qué medida el fenómeno se traduce a contextos occidentales (NEET, recluidos digitales) ni si requiere la peculiaridad sociolaboral japonesa",
+      "wikilinks_introduced": [
+        "mito-lunar",
+        "tipologia-femenina-arquetipica",
+        "diosa-blanca",
+        "sindrome-del-nino-masculino"
+      ],
+      "citations_added": [
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 60,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (01:00)](https://youtu.be/mWzi6Mjbjvk?t=60)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 576,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (09:36)](https://youtu.be/mWzi6Mjbjvk?t=576)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 819,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (13:39)](https://youtu.be/mWzi6Mjbjvk?t=819)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 1676,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (27:56)](https://youtu.be/mWzi6Mjbjvk?t=1676)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 1889,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (31:29)](https://youtu.be/mWzi6Mjbjvk?t=1889)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 2256,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (37:36)](https://youtu.be/mWzi6Mjbjvk?t=2256)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 2618,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (43:38)](https://youtu.be/mWzi6Mjbjvk?t=2618)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 2983,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (49:43)](https://youtu.be/mWzi6Mjbjvk?t=2983)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 3165,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (52:45)](https://youtu.be/mWzi6Mjbjvk?t=3165)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 3440,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (57:20)](https://youtu.be/mWzi6Mjbjvk?t=3440)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 3772,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:02:52)](https://youtu.be/mWzi6Mjbjvk?t=3772)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 4074,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:07:54)](https://youtu.be/mWzi6Mjbjvk?t=4074)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 4498,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:14:58)](https://youtu.be/mWzi6Mjbjvk?t=4498)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 4774,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:19:34)](https://youtu.be/mWzi6Mjbjvk?t=4774)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 5482,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:31:22)](https://youtu.be/mWzi6Mjbjvk?t=5482)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 6151,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:42:31)](https://youtu.be/mWzi6Mjbjvk?t=6151)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 6454,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 6606,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:50:06)](https://youtu.be/mWzi6Mjbjvk?t=6606)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 7090,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:58:10)](https://youtu.be/mWzi6Mjbjvk?t=7090)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 7454,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (2:04:14)](https://youtu.be/mWzi6Mjbjvk?t=7454)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 7755,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (2:09:15)](https://youtu.be/mWzi6Mjbjvk?t=7755)"
+        }
+      ],
+      "rationale": "Monográfico de 130 min sobre el cuadro central de la página. La página actual es breve (3 secciones de contenido) y declara 4 lagunas explícitas. Material genuinamente nuevo al cuerpo leído: (a) marco cultural japonés completo (Wa/Rey/Tate-shakai/Uchi-Soto-Tanin/Honne-Tatemae/Amae/Sekentei) — refuta laguna 'Especificidad cultural japonesa'; (b) mito luna roja sobre el varón como framing arquetípico; (c) datos epidemiológicos precisos (70% varones, edad 36/51, duración 3-30 años, comorbilidades) — refuta laguna 'Datos epidemiológicos'; (d) distinción operativa frente a depresión, esquizoide y fase prodrómica esquizofrenia; (e) tecnología como iatrogenia (no causa); (f) yatrogenia familiar / ocultamori; (g) tres mensajes tóxicos generacionales; (h) triada masculina hikikomori-incel-MGTOW por apego evitativo; (i) tipología parental 4×4 → manifestaciones culturales; (j) protocolo de recuperación (rehabilitación cultural / farmacología / intervención familiar) — refuta laguna 'Tratamiento clínico'. La frontera con ostracismo saludable queda refinada vía contraste con esquizoide. supersedes_laguna_text apunta a la principal (cultural japonesa) refutada; una replace_passage separada actualiza el bloque de lagunas completo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "hikikomori-fenomeno",
+      "update_type": "replace_passage",
+      "anchor_passage": "## Lagunas\n\n- **Especificidad cultural japonesa**: el canal usa el término en su acepción originaria pero no aborda en qué medida el fenómeno se traduce a contextos occidentales (NEET, recluidos digitales) ni si requiere la peculiaridad sociolaboral japonesa\n- **Tratamiento clínico**: el corpus describe el mecanismo cultural pero no detalla intervenciones psicológicas ni estrategias terapéuticas específicas\n- **Frontera con el ostracismo saludable**: el canal reconoce el ostracismo temporal como dominio mental humano legítimo, pero no precisa qué umbral lo convierte en patológico\n- **Datos epidemiológicos**: el corpus no aporta cifras de prevalencia ni evolución temporal del fenómeno en distintas culturas",
+      "content_proposed": "## Lagunas\n\n- **Frontera con el ostracismo saludable**: aunque el cuadro queda delimitado frente a esquizoide, depresión y fase prodrómica de esquizofrenia, el canal no precisa qué umbral cuantitativo (duración, intensidad del retiro) separa el ostracismo temporal sano del cuadro patológico en curso\n- **Hikikomori femenino**: la asimetría 70% varones es estable y el cuadro femenino aparece con edad media notablemente mayor (51 años), pero el marco se desarrolla en clave masculina (luna roja sobre el varón) y el caso femenino queda como dato sin teoría — qué factores específicos lo retrasan dos décadas respecto al masculino, qué mecanismos lo desencadenan tarde\n- **Articulación de MGTOW en doble cuadrante**: el directo sitúa MGTOW simultáneamente como manifestación de apego evitativo (junto a hikikomori-incel) y de apego ansioso (junto a feminismo radical, narcisismo). La duplicación no se justifica internamente — falta el criterio que separa qué subtipo de MGTOW va a cada cuadrante de la tipología parental\n- **Conexión con crisis demográfica**: el cuadro se inscribe en el contexto del eclipse masculino occidental y la triada apego-evitativo, pero su articulación con la natalidad colapsada y la masculinidad reproductiva queda implícita — falta material que conecte el retiro presencial con el colapso del relevo generacional\n- **Parte II del especial**: este directo es Parte I; la articulación de Parte II (presumiblemente con mayor desarrollo arquetípico del 'ocaso del varón' y del trayecto de recuperación) queda pendiente de extracción",
+      "section_target": null,
+      "supersedes_laguna_text": "**Tratamiento clínico**: el corpus describe el mecanismo cultural pero no detalla intervenciones psicológicas ni estrategias terapéuticas específicas",
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "El bloque de lagunas se reescribe completo. Se eliminan 3 lagunas refutadas por el cuerpo nuevo: 'Especificidad cultural japonesa' (Wa/Rey/Amae/Sekentei articulados), 'Tratamiento clínico' (rehabilitación cultural + farmacología + intervención familiar documentados), 'Datos epidemiológicos' (70% varones, edad 36/51, duración 3-30 años, comorbilidades). Se conserva refinada 'Frontera con el ostracismo saludable' (la distinción frente a esquizoide la afila pero no la cierra cuantitativamente). Se añaden 3 lagunas nuevas surgidas por el propio cuerpo nuevo: hikikomori femenino (asimetría con marco solo masculino), articulación dual de MGTOW (criterio que falta), conexión con crisis demográfica (implícita pero no desarrollada). Más una laguna referencial: Parte II pendiente de extracción.",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "sindrome-del-nino-masculino",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "El [[viaje-heroe|viaje del héroe]] es la operación arquetípica de constituir tardíamente la componente paterna (atravesar el mundo no-familiar y volver con dones); las elaboraciones afectivas más profundas (relación de pareja madura, paternidad real, vínculos con la propia sombra) operan sobre la componente materna.",
+      "content_proposed": "\n\n## La triada masculina contemporánea: hikikomori, incel, MGTOW como manifestaciones del apego evitativo\n\nEn el directo monográfico *\"Hikikomori\" Luna roja sobre el varón. Parte I* (jun 2023) el canal articula explícitamente la continuidad estructural entre el síndrome del niño y tres cuadros culturales masculinos contemporáneos que comparten raíz: hikikomori, incel y MGTOW.\n\n> \"El fenómeno hikikomori, el fenómeno incel y el MGTOW comparten la misma raíz: fracaso cultural por apego evitativo,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)\n\nLa pieza extiende la articulación de la página: el síndrome del niño con etiología materna (incapacidad de vincularse) tiene una vertiente cultural-generacional cuyo motor es la **carencia de los tres componentes** que el apego seguro transmite: **firmeza, seguridad y autonomía**. Sin esos tres componentes, la generación de varones adultos opera en **desidia** (falta de iniciativa) y **decepción** (mundo no a la altura de la promesa interiorizada), y se manifiesta culturalmente en una triada estructuralmente idéntica aunque culturalmente diversa:\n\n- **Hikikomori**: retirada completa del contacto presencial (versión japonesa extrema, replicándose en occidente).\n- **Incel**: fracaso masculino concentrado en lo sexual con identidad construida sobre el resentimiento.\n- **MGTOW** (Men Going Their Own Way): retiro del vínculo heterosexual articulado como decisión ideológica.\n\nLas tres figuras no son tres patologías distintas sino tres modulaciones culturales del mismo cuadro: varones con apego evitativo (origen: padres hiperracionales sin afecto) cuya carencia interior los inhabilita para el [[viaje-heroe]] que esta página articula como criterio diagnóstico negativo del síndrome.\n\n### Los tres mensajes tóxicos generacionales\n\n> \"La generación anterior transmitió tres mensajes tóxicos: \\\"el mundo es horrible\\\", \\\"es tu culpa\\\" y \\\"puedes ser todo lo que quieras si te esfuerzas\\\",\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)\n\n> \"\\\"Es tu culpa\\\" genera desidia; \\\"puedes ser todo\\\" genera decepción cuando la realidad no lo permite; \\\"el mundo es horrible\\\" genera ansiedad,\"\n→ [\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)\n\nLa etiología es operativa por correspondencia mensaje→operación psíquica: 'es tu culpa' instala desidia (cualquier intento se experimenta como exposición al juicio interno); 'puedes ser todo si te esfuerzas' instala decepción (la realidad no permite cumplir la promesa); 'el mundo es horrible' instala ansiedad permanente. Los tres mensajes combinados producen el sustrato evitativo del cuadro.\n\nLa articulación añade una dimensión cultural a la matriz parental documentada en las secciones anteriores. La página articula la asimetría parental — incapacidad de vinculación (origen materno) vs rechazo a las relaciones (origen paterno) — y el directo añade que la **transmisión generacional de mensajes** opera junto a la matriz materna/paterna y forma con ella el **superyó disfuncional** que sostiene el cuadro. Esto enlaza con la articulación del canal sobre la familia como parte estructural de la neurosis: la curación frecuentemente requiere independencia del entorno parental, no terapia dentro de él. Ver [[hikikomori-fenomeno]] para la articulación completa de la tipología parental → manifestaciones culturales (4×4) y la receta de recuperación.\n\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "hikikomori-fenomeno"
+      ],
+      "citations_added": [
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 6454,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo al cuerpo leído. La página articula el cuadro 'niño' como individuación masculina interrumpida con etiología materno-paterna doble, pero no conecta con la triada cultural masculina contemporánea (hikikomori-incel-MGTOW) que el directo articula como manifestaciones del mismo motor (apego evitativo + ausencia de firmeza/seguridad/autonomía). La sección añade el eje cultural-generacional al eje arquetípico-individual ya documentado y conecta la página con hikikomori-fenomeno donde la tipología 4×4 completa está articulada. No supersedes ninguna laguna específica de la página actual — refina por adición.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "consumismo-critica",
+      "update_type": "append_to_section",
+      "anchor_passage": null,
+      "section_target": "Citations",
+      "content_proposed": "- **\"Hikikomori\" Luna roja sobre el varón. Parte I** — chunks: [1:47:34](https://youtu.be/mWzi6Mjbjvk?t=6454) · [1:58:10](https://youtu.be/mWzi6Mjbjvk?t=7090)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 6454,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:47:34)](https://youtu.be/mWzi6Mjbjvk?t=6454)"
+        },
+        {
+          "video_id": "mWzi6Mjbjvk",
+          "timestamp_seconds": 7090,
+          "cite_markdown": "[\"Hikikomori\" Luna roja sobre el varón. Parte I (1:58:10)](https://youtu.be/mWzi6Mjbjvk?t=7090)"
+        }
+      ],
+      "rationale": "Cita-only. Los tres mensajes tóxicos generacionales ('el mundo es horrible' / 'es tu culpa' / 'puedes ser todo si te esfuerzas') refuerzan la articulación de la crítica al consumismo y la sociedad del bienestar como contexto cultural del cuadro de retiro masculino. La prosa queda en hikikomori-fenomeno (donde se articula sistemáticamente) y sindrome-del-nino-masculino (donde se conecta con el cuadro masculino). Citas añadidas al índice para retrieval indirecto.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Wa (armonía social japonesa)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Concepto cultural japonés integrado como pieza del marco en la sección 'El marco cultural japonés' del update a hikikomori-fenomeno. No merece página propia — funciona como herramienta para entender el cuadro hikikomori, no como concepto arquetípico autónomo. Pertenece a antropología cultural japonesa específica, fuera del scope nuclear del canal.",
+      "quote_evidence": "Wa significa armonía social y se usa como prefijo para sustituir la propia palabra Japón,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Rey / Tate-shakai / Uchi-Soto-Tanin / Honne-Tatemae",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Sistema de cortesía y jerarquía social japonesa con sus tres esferas. Articulado durante ~20 min como armadura cultural para entender el hikikomori. Integrado en la sección 'El marco cultural japonés' del update a hikikomori-fenomeno. No merecen páginas propias por el mismo criterio que Wa — antropología cultural específica, no arquetipo psicológico universal.",
+      "quote_evidence": "Se compone de tres esferas de psicología cultural: tate-shakai (jerarquía), uchi-soto-tanin (esferas de relación) y honne-tatemae (yo verdadero vs. fachada social),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Amae (dependencia transaccional japonesa)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Concepto psicológico-cultural japonés articulado como 'codependencia culturalmente aceptada y coordinada'. Integrado en sección 'El marco cultural japonés' del update a hikikomori-fenomeno. Concepto interesante pero su lugar es como pieza del marco cultural, no como concepto autónomo del wiki — el canal lo usa para entender el cuadro, no como objeto arquetípico universal.",
+      "quote_evidence": "Amae es la dependencia pasiva o permisiva: actuar como un bebé gigante para recibir confort,",
+      "review_priority": "medium",
+      "review_priority_reason": "Concepto con potencial transversal: la 'codependencia culturalmente aceptada' tiene aplicaciones en análisis de relaciones de pareja y dinámicas familiares occidentales. Si reaparece en otros vídeos del canal sin marco hikikomori, podría madurar como concept propio.",
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Sekentei (vergüenza social como ojo del otro)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Concepto cultural japonés que articula la vergüenza estructural multinivel. Integrado en sección 'El marco cultural japonés' del update a hikikomori-fenomeno. Mismo criterio que Wa/Amae — pieza del marco cultural específico, no concepto arquetípico universal.",
+      "quote_evidence": "Sekentei es literalmente \"el ojo del otro en ti\", el miedo a la mirada ajena llevado al extremo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ocultamori (yatrogenia familiar)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Variante terminológica japonesa para nombrar la práctica familiar de ocultar al hikikomori. Pieza del cuadro integrada en la sección 'Yatrogenia familiar: ocultamori' del update. No merece página propia — es marca lingüística de una operación que ya queda articulada (yatrogenia familiar como agravante estructural del cuadro).",
+      "quote_evidence": "El fenómeno se denomina también \"ocultamori\": esconder al hijo como si fuera una vergüenza familiar,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "incel (involuntary celibate)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como una de las tres manifestaciones culturales de la triada masculina por apego evitativo (junto a hikikomori y MGTOW). El canal lo articula brevemente como 'fracaso masculino concentrado en lo sexual con identidad construida sobre el resentimiento' pero no le dedica análisis monográfico aquí. Capturado como pieza estructural de la triada en la sección correspondiente del update a hikikomori-fenomeno. Si el canal le dedica directo monográfico en otra sesión, sería candidato a página propia.",
+      "quote_evidence": "El fenómeno hikikomori, el fenómeno incel y el MGTOW comparten la misma raíz: fracaso cultural por apego evitativo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Fenómeno cultural recurrente en discusiones de masculinidad contemporánea. Si aparece como objeto sustantivo en otros directos del canal, sería promote candidato a concept page o entry en mentions_index.",
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "MGTOW (Men Going Their Own Way)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado como tercera manifestación de la triada masculina, con la peculiaridad estructural de aparecer en dos cuadrantes de la tipología parental (apego evitativo y apego ansioso). Capturado como pieza articulada en hikikomori-fenomeno con su ambigüedad explícita marcada como laguna. Si recibe análisis monográfico en otro directo, sería candidato a página propia.",
+      "quote_evidence": "Padres inseguros/helicóptero generan apego ansioso/ambivalente → guerra de sexos, feminismo radical, MGTOW, narcisismo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Mismo criterio que incel — fenómeno cultural recurrente, posible objeto sustantivo en otros directos.",
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "teoría del apego (Bowlby) y los cuatro estilos",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Teoría del apego (seguro/desorganizado/ambivalente/evitativo) es concepto académico estándar de la psicología del desarrollo (Bowlby, Ainsworth). El canal lo usa como marco aplicado, no lo desarrolla como teoría autónoma. La aplicación específica del canal (tipología parental → manifestaciones culturales 4×4) sí es articulación propia y queda capturada en hikikomori-fenomeno. La teoría base no merece página propia (dominio condicionado §1.2 del scope.md — entra como marco aplicado, no como concept autónomo).",
+      "quote_evidence": "Cuatro estilos de apego: seguro, desorganizado, ambivalente/ansioso y evitativo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "fase prodrómica de la esquizofrenia",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categoría clínica estándar del DSM/CIE invocada para precisar el diagnóstico diferencial del hikikomori. No merece página propia — el canal la usa instrumentalmente para situar el hikikomori frente a otro cuadro psiquiátrico. Capturada como pieza del diagnóstico diferencial en hikikomori-fenomeno.",
+      "quote_evidence": "Su conducta es casi indistinguible de la fase prodrómica de la esquizofrenia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "personalidad esquizoide",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categoría clínica estándar (trastorno esquizoide de la personalidad, DSM-5) invocada para fijar la frontera diagnóstica del hikikomori. El criterio diferencial articulado por el canal (el esquizoide habita su retiro / el hikikomori sufre su retiro) sí es operativo y queda capturado en hikikomori-fenomeno. La categoría base no merece página propia.",
+      "quote_evidence": "El esquizoide nunca tuvo capacidad de conexión afectiva; el hikikomori sí la tuvo y la perdió,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "mito de la luna roja sobre el varón",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Framing arquetípico del título del especial. El canal lo articula como transposición del ciclo lunar femenino (cuatro fases: creciente/llena/decreciente/roja) al ocaso de la masculinidad contemporánea. Pieza de apertura del directo. Integrada como sección 'Mito de la luna roja sobre el varón' en el update a hikikomori-fenomeno con wikilinks a mito-lunar, tipologia-femenina-arquetipica y diosa-blanca. No merece página propia por ahora — es framing específico para este monográfico; si reaparece como categoría conceptual recurrente podría madurar.",
+      "quote_evidence": "Luna roja sobre el varón traslada ese esquema al ocaso de la masculinidad moderna,",
+      "review_priority": "medium",
+      "review_priority_reason": "Framing potencialmente fértil: la idea de 'ocaso del varón' como mito moderno engrana con consumismo-critica, sindrome-del-nino-masculino, crisis-del-amor-pareja-y-maternidad-en-proxy. Si reaparece sustantivamente, candidato a synthesis.",
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tres mensajes tóxicos generacionales",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Tipología canal-específica articulada en ~3 min con correspondencia 1-a-1 mensaje→operación psíquica. Capturada en hikikomori-fenomeno (sección 'Los tres mensajes tóxicos generacionales') y replicada en sindrome-del-nino-masculino. No merece página propia — pieza articulada dentro del marco hikikomori-incel-MGTOW. Si reaparece transversalmente en otros directos sería candidato a synthesis pequeña.",
+      "quote_evidence": "La generación anterior transmitió tres mensajes tóxicos: \"el mundo es horrible\", \"es tu culpa\" y \"puedes ser todo lo que quieras si te esfuerzas\",",
+      "review_priority": "medium",
+      "review_priority_reason": "Pieza diagnóstica operativa que puede ser invocada en muchos otros contextos del canal (educación, crisis demográfica, parenting, narcisismo). Vigilar reapariciones.",
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "tipología parental 4×4 (estilos parentales → manifestaciones culturales)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Articulación sistemática propia del canal: cuatro estilos parentales (hiperracionales/inseguros-helicóptero/desorden-afectivo/ausencia-de-padre) mapeados a cuatro manifestaciones culturales (apego evitativo/ansioso/desorganizado/disocial). Es la pieza más sintética del directo. Integrada como sección 'Tipología parental → cuatro manifestaciones culturales' en el update a hikikomori-fenomeno con tabla operativa. Cumple parcialmente el gate de synthesis pero su lugar es la página hikikomori-fenomeno donde se articula. Si el canal lo desarrolla como marco aplicable independiente del cuadro hikikomori, sería candidato a synthesis propia.",
+      "quote_evidence": "Padres hiperracionales sin afecto generan apego evitativo → desconexión afectiva masculina (incel, hikikomori, desocialización),",
+      "review_priority": "high",
+      "review_priority_reason": "Tipología propia con valor diagnóstico transversal. Vigilar si reaparece como marco aplicado a otros cuadros culturales (no solo hikikomori-incel-MGTOW) — sería entonces candidata a synthesis page autónoma con título tipo 'Tipología parental y manifestaciones culturales en Proxy'.",
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "carnaval invertido (nomikai)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Analogía operativa del speaker para describir el ritual de beber con el jefe en Japón. Pieza ilustrativa del marco cultural japonés. Capturada en sección 'Rey: las tres esferas de la cortesía' del update. No merece análisis propio — es figura retórica al servicio del marco.",
+      "quote_evidence": "Funciona como un \"carnaval invertido\": en lugar de ocultarte siendo otro, te muestras siendo tú mismo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "suicidio japonés y limpieza del honor",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización cultural-histórica del suicidio japonés como ritual de limpieza del honor familiar. Capturada en sección 'Sekentei' del update a hikikomori-fenomeno. No merece página propia — antropología cultural específica integrada como pieza del marco. La conexión con la lógica del wa explica por qué la familia oculta al hikikomori.",
+      "quote_evidence": "La forma histórica de limpiar el honor en Japón siempre ha sido la muerte,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "espectro disocial (sociópatas, delincuentes)",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categoría clínico-criminológica estándar (trastorno antisocial de la personalidad, DSM-5) invocada como cuarta casilla de la tipología parental: 'ausencia total de padre → espectro disocial'. Capturada en la tabla operativa del update. La categoría base no merece página propia; la conexión específica con la tipología parental queda articulada en hikikomori-fenomeno.",
+      "quote_evidence": "Ausencia total de padre genera el espectro disocial: sociópatas, delincuentes, las manifestaciones más destructivas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "hikikomori-fenomeno",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "borderline / histrionismo / trastornos de personalidad",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Categorías clínicas DSM invocadas como tercera casilla de la tipología parental: 'padres con desorden afectivo → apego desorganizado → borderline, histrionismo'. Capturadas en la tabla. La conexión específica con apego desorganizado queda articulada en hikikomori-fenomeno; las categorías base no merecen página propia (ya existe trastorno-limite-y-eutanasia-en-proxy para borderline en otro contexto).",
+      "quote_evidence": "Padres con desorden afectivo generan apego desorganizado → trastornos de personalidad, histrionismo, síndrome borderline,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "trastorno-limite-y-eutanasia-en-proxy",
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 3,
+    "promoted_new": 0,
+    "promoted_updates": 4,
+    "thesis_candidates_count": 0,
+    "discarded_count": 18,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP discarded[Marta (especialista invitada en cultura japonesa)] reason=meta_canal quote no literal"
+  ]
+}

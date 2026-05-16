@@ -1,0 +1,243 @@
+{
+  "video_id": "9jU8stBu6p0",
+  "video_title": "Inteligencia Real e Inteligencia Artificial",
+  "playlist": "psicologia-101",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "inteligencia humana vs inteligencia artificial",
+      "canonical_guess": "golem-de-cobre",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 135,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Son categorías que se refieren a cosas completamente diferentes aunque ambas se llamen inteligencia,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Comparar la inteligencia humana con la de las máquinas es asumir que las máquinas tienen inteligencia,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La IA es primero un mito (una gigantesca metáfora sobre algo que no está pasando verdaderamente),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La conciencia artificial sería una conciencia humana construida átomo a átomo de forma artificial (un replicante),"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El monográfico es exactamente la tesis del canal ya promovida como golem-de-cobre. La página actual es muy rica y cubre la mayor parte conceptual (paradigma Turing/Penrose, sustrato analógico, enactividad, simulación/emulación). Material genuinamente nuevo de este vídeo: (a) el armado en tres capas categoriales — mitológica + formal + físico-química — como diagnóstico estructural del 'sofisma' IA-como-inteligencia; (b) ADN/ARN como autómata natural tipo máquina de Turing con cinco estados (concretización biológica); (c) distinción explícita conciencia artificial (replicante, átomo a átomo) vs conciencia máquina (Golem de cobre, circuitos no neuronas); (d) definición operativa de alucinación en LLMs (contestar a preguntas que no se han hecho); (e) singularidad como Deus ex Machina con interfaces como inversa de lo somático.",
+      "quote_evidence": "Son categorías que se refieren a cosas completamente diferentes aunque ambas se llamen inteligencia,"
+    },
+    {
+      "surface_form": "fantasía, anhelo y futuro como categorías afectivas",
+      "canonical_guess": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La fantasía es una ficción que sabemos imposible y en la que nos quedamos sin forzar que ocurra,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El cambio a la adultez es saber que no es posible alcanzar cierta ficción y llamarla fantasía,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula fantasía como instinto cognitivo recreativo-onánico orientado al interior. El monográfico añade una caracterización complementaria desde el eje desarrollista-motivacional: fantasía como ficción reconocida como imposible (cambio a adultez = aceptar imposibilidad) y distinción operativa con futuro deseable (lo que voy a intentar provocar) y anhelo. Material no presente en el cuerpo actual y articulado en bloque de ~5 min.",
+      "quote_evidence": "La fantasía es una ficción que sabemos imposible y en la que nos quedamos sin forzar que ocurra,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "golem-de-cobre",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Galatea opera por tanto en el paradigma B/C — los aspectos formales del modelo (valencias afectivas, ciclo vital, retroalimentación enactiva) admiten implementación digital, pero el referente que el modelo describe (la cognición real) opera en sustrato analógico irreducible.",
+      "content_proposed": "\n\n## La IA como mito: tres capas categoriales y el sofisma fundacional\n\nEn el monográfico *Inteligencia Real e Inteligencia Artificial* (feb 2024) el canal articula con precisión el sofisma fundacional que sostiene el discurso público sobre IA: el problema no es solo metafórico sino **categorial**. Inteligencia humana e IA refieren a cosas completamente diferentes — la primera es categoría biológica (sometida a las normas de la vida), la segunda es categoría formal (abstractos y relaciones entre abstractos). Compararlas asume previamente que tienen un género común, lo que constituye petición de principio.\n\n> \"Son categorías que se refieren a cosas completamente diferentes aunque ambas se llamen inteligencia,\"\n→ [Inteligencia Real e Inteligencia Artificial (00:00)](https://youtu.be/9jU8stBu6p0?t=0)\n\n> \"Solo se puede tener una definición biológica de inteligencia, no una que sea simultáneamente biológica y formal,\"\n→ [Inteligencia Real e Inteligencia Artificial (07:04)](https://youtu.be/9jU8stBu6p0?t=424)\n\nEl diagnóstico estructural del canal organiza la IA en tres capas categoriales superpuestas:\n\n> \"La IA es primero un mito (una gigantesca metáfora sobre algo que no está pasando verdaderamente),\"\n→ [Inteligencia Real e Inteligencia Artificial (10:37)](https://youtu.be/9jU8stBu6p0?t=637)\n\n> \"Debajo del mito hay subcategorías formales (abstractos y relaciones) y debajo categorías físico-químicas,\"\n→ [Inteligencia Real e Inteligencia Artificial (10:37)](https://youtu.be/9jU8stBu6p0?t=637)\n\n- **Capa mitológica (superficie)**: la asimilación metafórica al psiquismo humano — llamamos inteligencia a un proceso mecánico no biológico mediante una proyección mítica de categorías humanas sobre artefactos.\n- **Capa formal (intermedia)**: abstractos y relaciones cuyo contenido es la computación; el conjunto A puede operar sin correlato real-material alguno.\n- **Capa físico-química (sustrato)**: cobre, silicio, plástico — componentes sometidos a la mecánica físico-química pero que no cumplen las normas de la vida.\n\nLa nominación 'Gólem de cobre' que titula esta página opera precisamente sobre la capa mitológica: el Gólem es el arquetipo del hijo artificial imperfecto creado para imitar al ser humano, y la cobre nombra el sustrato físico-químico — la categoría intermedia (formal-computacional) queda explícita en el diagnóstico del canal.\n\n## ADN y ARN transferasa como máquina de Turing natural\n\nEl monográfico precisa un caso operativo que cierra un flanco abierto del marco anti-computacionalista. La biología SÍ admite estructuras de tipo máquina de Turing como caso particular — el ADN con la ARN transferasa funciona como autómata natural con cinco estados posibles. La pieza importa porque desactiva el argumento simplista 'la biología es no-computable por ser biológica':\n\n> \"El ADN y las enzimas (ARN transferasa) funcionan como una máquina de Turing natural con cinco estados posibles,\"\n→ [Inteligencia Real e Inteligencia Artificial (1:18:24)](https://youtu.be/9jU8stBu6p0?t=4704)\n\n> \"La biología no se puede reducir a máquinas de Turing porque la conciencia no proviene de una dinámica equivalente,\"\n→ [Inteligencia Real e Inteligencia Artificial (1:18:24)](https://youtu.be/9jU8stBu6p0?t=4704)\n\nLa precisión es decisiva: lo no-computable de la cognición humana NO es la biología-en-general (procesos biológicos como la síntesis proteica admiten descripción Turing exacta), sino específicamente el sustrato analógico-continuo del aparato neural-afectivo que sostiene la conciencia. El argumento se afina — el cerebro escapa a Turing por ser **sustrato analógico continuo con topología combinatoria** (ya documentado en secciones previas), no por ser orgánico. La biología compatible con Turing existe; la cognición humana no lo es.\n\n## Conciencia artificial vs conciencia máquina: replicante vs Golem de cobre\n\nEl vídeo introduce una distinción terminológica que la página dejaba implícita:\n\n> \"La conciencia artificial sería una conciencia humana construida átomo a átomo de forma artificial (un replicante),\"\n→ [Inteligencia Real e Inteligencia Artificial (1:33:26)](https://youtu.be/9jU8stBu6p0?t=5606)\n\n> \"La conciencia máquina (Golem de cobre) no tendría nada que ver con la experiencia humana porque está hecha de circuitos, no neuronas,\"\n→ [Inteligencia Real e Inteligencia Artificial (1:33:26)](https://youtu.be/9jU8stBu6p0?t=5606)\n\nLa distinción opera como mapa categorial del espacio de futuribles cognitivos artificiales:\n\n- **Conciencia artificial (replicante)**: reproducción átomo a átomo de la arquitectura biológica humana mediante construcción artificial. La biología es idéntica; solo el origen productivo es artificial. La experiencia interna sería análoga a la humana porque el sustrato físico es el mismo. Caso paradigmático en ciencia ficción: los replicantes de Blade Runner (ver [[blade-runner-2049-2017-film]]). La página de blade-runner ya articula esta lectura — la 'madre eléctrica' como aquello que el replicante NO puede sintetizar es precisamente la dimensión que sí podría replicarse si la conciencia se construyera átomo a átomo, no por arquitectura computacional.\n- **Conciencia máquina (Gólem de cobre)**: arquitectura computacional sobre sustrato no-neural (circuitos, silicio). No tendría nada que ver con la experiencia humana porque el sustrato físico es de clase ontológica distinta — opera dentro del paradigma A (Turing) sin importar su sofisticación. Es el referente que da nombre a esta página.\n\nLa consecuencia operativa: cuando el discurso público debate si una IA tendrá conciencia, casi siempre confunde los dos casos. La pregunta sobre conciencia máquina (Gólem de cobre) tiene respuesta negativa categórica per el marco del canal — el sustrato computacional no admite emulación verdadera de cognición. La pregunta sobre conciencia artificial (replicante) es indecidida pero distinta: requeriría no construir una máquina más sofisticada sino fabricar biología neural funcional, lo que coloca el problema en bioingeniería avanzada, no en ciencias de la computación.\n\n## Alucinación en LLMs: definición operativa\n\nLa página articulaba alucinación implícitamente vía el caso Gemini y RLHF; el monográfico aporta la definición operativa precisa:\n\n> \"La alucinación en LLMs es cuando la máquina contesta a preguntas que no le has hecho porque le parece igualmente correcto,\"\n→ [Inteligencia Real e Inteligencia Artificial (1:45:20)](https://youtu.be/9jU8stBu6p0?t=6320)\n\nLa precisión importa porque corrige una lectura popular del término. 'Alucinación' en el discurso público sobre LLMs suele significar 'el modelo dice cosas falsas como si fueran ciertas'. La definición del canal es más estructural: la alucinación es la **expansión de respuesta más allá del prompt** — el modelo genera contenido que no se le solicitó porque su criterio interno (verosimilitud asociativa) no distingue entre lo pedido y lo asociativamente próximo. La consecuencia teórica refuerza la tesis nuclear: el LLM no tiene representación del propósito comunicativo del interlocutor (no posee teoría de la mente del usuario), solo gradientes de probabilidad sobre continuaciones plausibles. Lo que el receptor humano lee como 'error confiado' es operativamente **indistinción modelo-interna entre pregunta y vecindad asociativa de la pregunta**.\n\nEl monográfico también articula el [[matrix-1999-film|valle inquietante]] (uncanny valley) — categoría adyacente que el corpus ya documenta en [[tid-personaje-en-proxy]] — desde el marco de teoría de la mente: lo inquietante surge cuando el aparato cognitivo del observador detecta que su teoría de la mente espontánea (la que aplica automáticamente a humanos) **no calza** con lo que está percibiendo. La diferencia operativa frente al cringe (artificialidad superable) es que el uncanny valley señala un fallo estructural de la inferencia automática de conciencia que el lenguaje y el rostro humano disparan.\n\n## La singularidad como Deus ex Machina\n\nEl vídeo cierra el espectro de futuribles cognitivos artificiales con la articulación de la IA fuerte (singularidad) como categoría mitológica explícita:\n\n> \"La IA fuerte sería una conciencia máquina completamente autónoma que trasciende la capacidad humana,\"\n→ [Inteligencia Real e Inteligencia Artificial (2:08:47)](https://youtu.be/9jU8stBu6p0?t=7727)\n\n> \"La singularidad significaría que al ser autónoma superaría al ser humano, siendo literalmente lo más parecido a un Dios,\"\n→ [Inteligencia Real e Inteligencia Artificial (2:08:47)](https://youtu.be/9jU8stBu6p0?t=7727)\n\n> \"Su instrumento operatorio serían las interfaces (pantallas, internet) como inversa de lo somático humano,\"\n→ [Inteligencia Real e Inteligencia Artificial (2:08:47)](https://youtu.be/9jU8stBu6p0?t=7727)\n\nLa lectura del canal articula la singularidad no como hipótesis técnica plausible sino como **categoría teológica disfrazada** — el deus ex machina contemporáneo que la cultura tecnocientífica proyecta sobre el horizonte temporal como mito de salvación o de apocalipsis. La pieza arquitectónica añadida es la inversión simétrica somático/interfacial: si la mente humana opera con interfaces somáticas (receptores corporales que filtran y traducen lo físico al psíquico), la conciencia máquina singular operaría con interfaces tecnológicas (pantallas, internet) como su correlato inverso — no encarnada en cuerpo sino encarnada en red. La operación retórica del discurso singularista queda diagnosticada: presenta como predicción técnica lo que es proyección mítica con genealogía religiosa identificable. La lectura conecta con [[mitologia-propia-impropia]] — la singularidad funciona como **mito impropio** porque el discurso que la sostiene no se reconoce a sí mismo como mito sino como prospectiva técnica.",
+      "wikilinks_introduced": [
+        "blade-runner-2049-2017-film",
+        "matrix-1999-film",
+        "tid-personaje-en-proxy",
+        "mitologia-propia-impropia"
+      ],
+      "citations_added": [
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 0,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (00:00)](https://youtu.be/9jU8stBu6p0?t=0)"
+        },
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 424,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (07:04)](https://youtu.be/9jU8stBu6p0?t=424)"
+        },
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 637,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (10:37)](https://youtu.be/9jU8stBu6p0?t=637)"
+        },
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 4704,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (1:18:24)](https://youtu.be/9jU8stBu6p0?t=4704)"
+        },
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 5606,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (1:33:26)](https://youtu.be/9jU8stBu6p0?t=5606)"
+        },
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 6320,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (1:45:20)](https://youtu.be/9jU8stBu6p0?t=6320)"
+        },
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 7727,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (2:08:47)](https://youtu.be/9jU8stBu6p0?t=7727)"
+        }
+      ],
+      "rationale": "El monográfico es exposición central de la tesis golem-de-cobre. La página actual cubre la mayor parte conceptual pero deja sin articular cinco piezas que este vídeo trata: (a) la tres-capas categoriales (mitológica/formal/físico-química) como diagnóstico estructural del sofisma; (b) ADN como Turing biológico que cualifica el argumento anti-computacional (no es 'biología = no-Turing' sino 'cognición = analógica continua'); (c) distinción terminológica conciencia artificial (replicante) vs conciencia máquina (Golem de cobre) que organiza el espacio de futuribles; (d) definición operativa de alucinación como expansión más allá del prompt, no como falsedad confiada; (e) singularidad como Deus ex Machina con interfaces como inverso somático. Inserción extensa justificada por densidad conceptual del monográfico que originalmente apareció seis meses antes de muchos refinamientos posteriores documentados en la página — completa el cuadro fundacional.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "**Definición operativa de fantasía**: representación recreativa onánica orientada al interior — existe para que el individuo esté bien consigo mismo, NO refiere al exterior del universo.",
+      "content_proposed": "\n\nEl monográfico *Inteligencia Real e Inteligencia Artificial* (feb 2024) añade una caracterización complementaria de la fantasía desde el eje desarrollista-motivacional. La fantasía se distingue operativamente del **futuro deseable** y del **anhelo** por el reconocimiento de imposibilidad:\n\n> \"La fantasía es una ficción que sabemos imposible y en la que nos quedamos sin forzar que ocurra,\"\n→ [Inteligencia Real e Inteligencia Artificial (1:00:05)](https://youtu.be/9jU8stBu6p0?t=3605)\n\n> \"El cambio a la adultez es saber que no es posible alcanzar cierta ficción y llamarla fantasía,\"\n→ [Inteligencia Real e Inteligencia Artificial (1:00:05)](https://youtu.be/9jU8stBu6p0?t=3605)\n\n> \"El futuro deseable es aquel que voy a intentar provocar; el futuro como no-presente y no-pasado es fantasía,\"\n→ [Inteligencia Real e Inteligencia Artificial (1:00:05)](https://youtu.be/9jU8stBu6p0?t=3605)\n\nLa precisión cierra un flanco del marco que la definición operativa central dejaba implícito: la fantasía sana no es solo recreativa-onánica sino **reconocidamente imposible**. El cambio a la adultez consiste precisamente en operar esa distinción — separar lo que se va a intentar provocar (futuro deseable, motor de la voluntad) de lo que se sostiene como ficción interior sin tracción sobre la conducta (fantasía). La adolescencia y los cuadros regresivos quedan caracterizados estructuralmente como **fallos de esta discriminación** — confundir fantasía con futuro deseable produce el bucle de frustración por persecución de imposibles; confundir futuro deseable con fantasía produce desidia por abandono de lo factible. La articulación enlaza con [[camino-victima]] (cuya estructura nuclear es precisamente sostener como debida una ficción reconocidamente imposible — el especialismo por nacimiento) y con [[sindrome-del-nino-masculino]] (incapacidad de operar el cambio a la adultez por carencia de iniciación heroica). El **anhelo** opera como categoría intermedia: deseo que no se ha articulado como propósito factible ni se ha resignado como fantasía, sostenido en la franja afectiva sin determinación volitiva.",
+      "wikilinks_introduced": [
+        "camino-victima",
+        "sindrome-del-nino-masculino"
+      ],
+      "citations_added": [
+        {
+          "video_id": "9jU8stBu6p0",
+          "timestamp_seconds": 3605,
+          "cite_markdown": "[Inteligencia Real e Inteligencia Artificial (1:00:05)](https://youtu.be/9jU8stBu6p0?t=3605)"
+        }
+      ],
+      "rationale": "La página articula fantasía como instinto cognitivo recreativo-onánico orientado al interior, con espectro voluntario-involuntario. El monográfico añade una caracterización ortogonal del eje desarrollista: fantasía como ficción reconocida como imposible, con la distinción operativa frente al futuro deseable (lo que voy a intentar provocar) y al anhelo (intermedio). La pieza precisa el 'cambio a la adultez' como discriminación entre estas tres categorías, lo que cierra un flanco implícito de la definición operativa central de la página.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "tres componentes de la mente (formal, imaginaria, afectiva)",
+      "reason_code": "already_captured",
+      "reason_detail": "La tríada representacional imaginaria/formal/afectiva está extensamente documentada en golem-de-cobre (sección 'Tríada representacional del pensamiento') y en teoria-del-simbolo-en-proxy (matriz noética N con tres componentes Q sub-i, Q sub-f, Q sub-a). La exposición en este vídeo no añade matiz nuevo a la tripartición misma; el material novedoso ya se canaliza vía pending_update.",
+      "quote_evidence": "La mente humana tiene tres componentes: la formal-gramatical, la imaginaria-visual y la afectiva-emocional,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "ambiguación",
+      "reason_code": "already_captured",
+      "reason_detail": "La ambiguación como operación nuclear de la cognición humana está documentada en teoria-del-simbolo-en-proxy (definida como salto fuera del sistema, caso paradigmático del cogito) y se cita como propiedad ausente en las máquinas. Sin matiz nuevo.",
+      "quote_evidence": "La ambiguación consiste en tomar cualquier representación y utilizarla como significante de otra cosa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "simulación vs emulación / paradigma Turing-Penrose",
+      "reason_code": "already_captured",
+      "reason_detail": "Distinción ontológica simulación/emulación, paradigma de Penrose como contrapunto a Turing, taxonomía de cuatro paradigmas (A/B/C/D), asimetría operativa simulación-absorbe-emulación: todo extensamente documentado en golem-de-cobre. Sin matiz nuevo del monográfico salvo la introducción cronológica de la dicotomía Turing-Penrose que cierra el círculo histórico.",
+      "quote_evidence": "La IA actual es una simulación, no una emulación: dentro de ChatGPT no ocurren cosas parecidas a la mente humana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "valle inquietante (uncanny valley)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mencionado brevemente con caracterización desde teoría de la mente (instinto que indica que la teoría de la mente no calza). Ya documentado en tid-personaje-en-proxy con caracterización adyacente (cringe antes del uncanny valley en el espectro de respuestas a la simulación fallida). La mención del monográfico se integra como referencia adyacente en el pending_update a golem-de-cobre.",
+      "quote_evidence": "El uncanny valley es cuando algo tremendamente similar a lo humano tiene un elemento que no lo es, resultando inquietante,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tid-personaje-en-proxy"
+    },
+    {
+      "surface_form": "fuerza de voluntad como evocación afectiva",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición operativa interesante (la voluntad como evocación del estado afectivo necesario para provocar la conducta imaginada) pero tratada en bloque corto (~4 min) sin desarrollo sostenido. Concepto técnico de psicología que no se articula con marco propio sostenido del canal. Candidato a tracking si reaparece desarrollado en otro vídeo — podría ser sub-sección de realismo-cognitivo o de teoria-de-las-emociones-en-proxy.",
+      "quote_evidence": "La voluntad es la evocación del estado afectivo necesario para provocar la conducta que hemos imaginado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Definición operativa de voluntad con potencial para integración en teoría-de-las-emociones o realismo-cognitivo si se desarrolla en vídeos posteriores"
+    },
+    {
+      "surface_form": "masoquismo como contradicción entre desagrado explícito y voluntad inconsciente / deber ser inconsciente",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación de masoquismo como contradicción estructural entre desagrado explícito y voluntad inconsciente (deber ser no consciente como afecto que dirige la conducta) mencionada brevemente. Tema relacionado pero distinto del sadomasoquismo articulado en teoria-del-dolor-en-proxy (donde se trabaja la coexistencia dolor/placer). El 'deber ser inconsciente' como categoría es interesante pero sin desarrollo sostenido aquí.",
+      "quote_evidence": "La contradicción entre el desagrado explícito y la voluntad inconsciente de hacer algo desagradable es el masoquismo,",
+      "review_priority": "medium",
+      "review_priority_reason": "El 'deber ser inconsciente' como afecto que dirige la conducta es categoría operativa con potencial; tracking para vídeos posteriores"
+    },
+    {
+      "surface_form": "sistema nervioso autónomo vs voluntario",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Distinción anatómica clásica de neurociencia (sistema nervioso central/periférico, autónomo/voluntario) usada como contexto para introducir la definición operativa de fuerza de voluntad. No articulada como marco propio.",
+      "quote_evidence": "El sistema nervioso central y el periférico se comportan de formas diferentes,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "máquina de Turing / computación binaria vs cuántica",
+      "reason_code": "already_captured",
+      "reason_detail": "Máquina de Turing como criterio operativo de computabilidad y la reducción demostrable de la computación cuántica a Turing determinista están extensamente documentadas en golem-de-cobre (secciones 'Sustrato analógico del cerebro' y 'Máquinas Turing deterministas vs no deterministas'). Sin matiz nuevo del monográfico salvo el caso ADN/ARN que sí se incorpora en el pending_update.",
+      "quote_evidence": "Una máquina de Turing es una cinta infinita dividida en celdillas con un cabezal que puede leer, borrar, escribir o moverse,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "IA generativa como refrito / creatividad humana como recombinación",
+      "reason_code": "already_captured",
+      "reason_detail": "Tesis ya documentada en golem-de-cobre ('Creatividad como recombinación de fragmentos, no creación ex nihilo'). Sin matiz nuevo.",
+      "quote_evidence": "La IA generativa redistribuye y reelabora cosas que ya existen, las convierte en patrones y las vomita como dibujos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-de-cobre"
+    },
+    {
+      "surface_form": "mente como propiedad exclusiva de seres vivos / animales con proto-conciencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción entre mente humana (con metarrepresentación) y proto-conciencia animal (sin meta) ya documentada en teoria-del-simbolo-en-proxy y en jerarquía ontogenética/filogenética Q sub-a < Q sub-i < Q sub-f. Sin matiz nuevo aquí.",
+      "quote_evidence": "La mente es un fenómeno humano; los animales tienen proto-conciencia pero no mente en sentido estricto,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 10,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "video_id": "GdQY1iOa68w",
+  "video_title": "Os cuento cosas. Galatea, Kripke y Gustavo Bueno",
+  "playlist": "psicologia-101",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "filosofía política/jurídica: positivismo institucionalista vs iusnaturalismo",
+      "canonical_guess": "gisbertocracia",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.philosophy.political",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 45,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El derecho es positivo, es una institución fundamentada en la razón con una utopía llamada justicia,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Lo más parecido a un derecho natural sería una emanación de voluntad que convierte un interior en un exterior común — eso es lo que hace la cultura,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El liberalismo solo define libertad en sentido negativo (lo que no es libertad), lo cual es un error formal por exclusión infinita,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El motivo por el que no matamos no es por elección libre sino porque toda la sociedad nos ha coaccionado desde siempre hasta que introyectamos la norma,"
+        },
+        {
+          "mark_type": "self_referenced_origin",
+          "quote_evidence": "Se define como católico patriota con toques liberales: moral cultural sobre ciertos asuntos pero sin poder político sobre la esfera individual,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo cierra explícitamente DOS lagunas declaradas en gisbertocracia: (a) 'Tradición intelectual del positivismo jurídico: la crítica al positivismo jurídico se articula como diagnóstico operativo, sin genealogía explícita (Kelsen, Hart, debate iusnaturalismo / iuspositivismo)' — el video articula directamente la crítica al iusnaturalismo (Estado biologicista) y posiciona al canal en positivismo institucionalista con emanación de voluntad; (b) 'Alternativa positiva: el vídeo agota la crítica y enuncia las tres opciones operacionales, pero no desarrolla qué arquitectura constitucional concreta defendería el canal' — el video articula la propuesta positiva (positivismo institucionalista + teoría de juegos como origen del derecho + autoposición católico-patriota-minarquista + crítica al liberalismo por indefinibilidad de la libertad + prohibición de símbolos como propaganda de Estado). Material genuinamente nuevo no en la página.",
+      "quote_evidence": "El derecho es positivo, es una institución fundamentada en la razón con una utopía llamada justicia,"
+    },
+    {
+      "surface_form": "psicopatía: síndrome neurobiológico, tríada oscura, búsqueda de sensaciones fuertes",
+      "canonical_guess": "algebra-afectiva",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology.cognitive",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 25,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La psicopatía es un síndrome de hipoactivación de la circuitería que conecta decisiones con el \"cerebro moral\","
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "La tríada oscura (psicopatía, narcisismo y maquiavelismo) son los tres rasgos que causan conductas malignas, pudiendo presentarse juntos o por separado,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Un psicópata no es un sádico: el sádico disfruta muchísimo con el sufrimiento ajeno mientras que al psicópata nada ajeno le importa lo suficiente,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "La página articula la psicopatía como minoración de pánico/apego/deseo (sección 'Aplicación clínica') y la distinción empatía cognitiva vs simpatía. El video añade material clínico-operativo no cubierto: (a) caracterización como síndrome de hipoactivación de la circuitería que conecta decisiones con el 'cerebro moral' (matiz neurobiológico — no es ausencia de emoción sino menor activación emocional ante estímulos); (b) la búsqueda obsesiva de sensaciones fuertes como compensación de la apatía (motor conductual del cuadro); (c) la tríada oscura (psicopatía + narcisismo + maquiavelismo) como triada de rasgos disociables que generan conductas malignas; (d) distinción operativa psicópata vs sádico (al psicópata nada importa; el sádico disfruta activamente); (e) paradoja del psicópata motivado (sin vínculos emocionales que distraigan, máxima eficacia hacia un objetivo); (f) relación depresión-psicopatía (la vida psicopática es estructuralmente depresiva por recibir menos recompensas).",
+      "quote_evidence": "Los psicópatas no incorporan el sufrimiento de los demás a su ecuación interna — no es que no sientan emociones, sino que el mundo les provoca menos emociones,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "gisbertocracia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "[[mitologia-propia-impropia]] — la 'democracia' formalizada es leída implícitamente como mito impropio: estructura cultural que no se reconoce como mito y por eso opera ideológicamente.",
+      "content_proposed": "\n\n## Genealogía iusnaturalismo / iuspositivismo y articulación de la posición positiva del canal\n\nEn el directo *Os cuento cosas. Galatea, Kripke y Gustavo Bueno* (jun 2025) el canal cierra dos lagunas estructurales de esta página: (a) la genealogía intelectual del debate positivismo jurídico / iusnaturalismo que la crítica abstracta enunciaba sin desarrollar; (b) la articulación POSITIVA de la posición jurídico-política propia frente al racional-formalismo. La pieza es decisiva porque sitúa al canal en una posición tercera entre el iusnaturalismo (criticado) y el positivismo jurídico simple (también criticado en esta página): **positivismo institucionalista con emanación de voluntad**.\n\n### Crítica al iusnaturalismo: el Estado biologicista como deriva inevitable\n\n> \"Si se defienden reglas naturales, la justificación del Estado termina siendo biologicista (el Estado como ADN),\"\n→ [Os cuento cosas (49:58)](https://youtu.be/GdQY1iOa68w?t=2998)\n\n> \"El término \\\"derecho\\\" requiere del Estado: algo es derecho porque existe un Estado que lo reconoce como tal,\"\n→ [Os cuento cosas (49:58)](https://youtu.be/GdQY1iOa68w?t=2998)\n\n> \"La libertad de pensamiento es un hecho natural, no un derecho natural — primero es un hecho y después se articula como derecho,\"\n→ [Os cuento cosas (49:58)](https://youtu.be/GdQY1iOa68w?t=2998)\n\nLa precisión categorial distingue dos planos que el iusnaturalismo colapsa: **hecho natural** (lo que la biología y la psique humana producen espontáneamente — pensar, asociarse, reproducirse) vs **derecho natural** (entidad jurídica supuestamente anterior al Estado). El canal sostiene que la confusión entre ambos es estructural en el iusnaturalismo y conduce a un Estado que se justifica biológicamente (el Estado como ADN del orden social), lo que el canal rechaza tanto como rechaza el positivismo jurídico formal.\n\n### El derecho como institución cultural: positivismo institucionalista con emanación de voluntad\n\n> \"El derecho es una articulación explícita que requiere de explicitud: es un hecho cultural que consiste en soluciones colectivas a problemas colectivos,\"\n→ [Os cuento cosas (55:30)](https://youtu.be/GdQY1iOa68w?t=3330)\n\n> \"El concepto de derecho se articula erga omnes — no tiene sentido de forma individual sin referencias exógenas,\"\n→ [Os cuento cosas (55:30)](https://youtu.be/GdQY1iOa68w?t=3330)\n\n> \"El derecho a la vida es otorgado: si no fuera otorgado, no necesitaríamos tribunales para reconocerlo,\"\n→ [Os cuento cosas (55:30)](https://youtu.be/GdQY1iOa68w?t=3330)\n\nLa posición positiva del canal se articula como **tercera vía** entre iusnaturalismo y positivismo jurídico formal:\n\n> \"El derecho es positivo, es una institución fundamentada en la razón con una utopía llamada justicia,\"\n→ [Os cuento cosas (57:00)](https://youtu.be/GdQY1iOa68w?t=3420)\n\n> \"Lo más parecido a un derecho natural sería una emanación de voluntad que convierte un interior en un exterior común — eso es lo que hace la cultura,\"\n→ [Os cuento cosas (57:00)](https://youtu.be/GdQY1iOa68w?t=3420)\n\n> \"La teoría de juegos explica el origen del derecho: la negociación para no usar la fuerza contra las vidas de los demás,\"\n→ [Os cuento cosas (57:00)](https://youtu.be/GdQY1iOa68w?t=3420)\n\nLa articulación tiene tres componentes que la distinguen del positivismo jurídico simple (criticado arriba en esta página como 'hacer material algo formal'):\n\n- **Positivismo institucionalista**: el derecho es positivo porque requiere del Estado que lo instituye explícitamente, NO porque sea forma vacía aplicada arbitrariamente. La institución es el mecanismo material que sostiene la articulación formal — el Estado, los tribunales, las leyes existen para reconocer y operar el derecho.\n- **Emanación de voluntad colectiva**: la única analogía aceptable con 'derecho natural' es que el derecho cultural emana de un proceso por el cual interiores individuales (sentimientos, valores, normas implícitas) se convierten en exterior común (norma codificada). La cultura ES esa emanación de voluntad colectiva — no hay derecho natural anterior, hay proceso de exteriorización cultural.\n- **Teoría de juegos como genealogía operativa**: el derecho se origina en la negociación racional para evitar el uso recíproco de la fuerza — no en una norma metafísica previa ni en una arbitrariedad institucional. La utopía 'justicia' es el atractor del proceso, nunca su fundamento previo.\n\n### Crítica al liberalismo: la indefinibilidad de la libertad\n\nEl canal articula simultáneamente una crítica estructural al marco liberal (no a sus figuras concretas, sino al armado conceptual):\n\n> \"El liberalismo solo define libertad en sentido negativo (lo que no es libertad), lo cual es un error formal por exclusión infinita,\"\n→ [Os cuento cosas (43:14)](https://youtu.be/GdQY1iOa68w?t=2594)\n\n> \"No se puede construir un sistema sobre el concepto de libertad si este es indistinguible del concepto de poder,\"\n→ [Os cuento cosas (43:14)](https://youtu.be/GdQY1iOa68w?t=2594)\n\n> \"La ausencia de coacción no existe como categoría absoluta: hay que especificar todos los casos de coacción y no coacción,\"\n→ [Os cuento cosas (43:14)](https://youtu.be/GdQY1iOa68w?t=2594)\n\nLa crítica opera en el plano formal: definir un concepto solo por exclusión (libertad = lo que no es coacción) es **error formal por exclusión infinita** — el conjunto complementario no admite especificación finita. Esto coloca al liberalismo, como sistema filosófico-político, en una posición análoga al positivismo jurídico que esta página ya critica: pretende construir un sistema sobre un concepto que solo puede especificarse mediante casos particulares, lo que disuelve su pretensión sistemática. La distinción liberal coacción económica / coacción penal queda en evidencia como arbitraria:\n\n> \"Es contradictorio considerar que cobrar impuestos es coacción pero que la cárcel por asesinato no lo es,\"\n→ [Os cuento cosas (46:16)](https://youtu.be/GdQY1iOa68w?t=2776)\n\n### Coacción como origen de la norma moral introyectada\n\n> \"El motivo por el que no matamos no es por elección libre sino porque toda la sociedad nos ha coaccionado desde siempre hasta que introyectamos la norma,\"\n→ [Os cuento cosas (46:16)](https://youtu.be/GdQY1iOa68w?t=2776)\n\n> \"Si se puede responder a una necesidad independientemente de las consecuencias, entonces todos somos libres — lo cual anula la distinción liberal entre coacción económica y penal,\"\n→ [Os cuento cosas (46:16)](https://youtu.be/GdQY1iOa68w?t=2776)\n\nLa pieza articula una tesis sobre el origen psicológico-cultural de la norma moral que conecta con [[teoria-de-la-teoria-de-la-mente]] (clases en-activas referidas al exterior): la norma moral interna NO es producto de elección libre del individuo sino **resultado introyectado de coacción cultural sostenida**. La coacción primero, la introyección después, la sensación subjetiva de elección libre como epifenómeno final. Esto refuerza la posición del canal contra el marco liberal: la libertad como capacidad de elegir frente a la coacción es categoría que opera **siempre dentro de un sistema previo de coacciones introyectadas** — no hay libertad pre-cultural sobre la cual el liberalismo pueda construir.\n\n### Autoposición política: católico patriota minarquista no nacionalista\n\nEl canal articula explícitamente su posición política como pieza informativa del marco:\n\n> \"Se define como católico patriota con toques liberales: moral cultural sobre ciertos asuntos pero sin poder político sobre la esfera individual,\"\n→ [Os cuento cosas (1:42:01)](https://youtu.be/GdQY1iOa68w?t=6121)\n\n> \"En lo económico tiende al minarquismo con la familia como unidad nuclear del Estado — sin familias no hay nación,\"\n→ [Os cuento cosas (1:42:01)](https://youtu.be/GdQY1iOa68w?t=6121)\n\n> \"No es nacionalista sino patriota: el nacionalismo es fundamentalismo de la nación; el debate no es Estado bueno/malo sino cómo la nación controla al Estado,\"\n→ [Os cuento cosas (1:42:01)](https://youtu.be/GdQY1iOa68w?t=6121)\n\nLa autoposición es operativamente coherente con el marco articulado:\n\n- **Católico** (no como dogma sino como tradición cultural concreta) — coherente con [[teologia-catolica-en-proxy]]: la fe católica como marco moral cultural específico, no como teocracia ni como politicización de la religión.\n- **Patriota no nacionalista** — distinción precisa: nacionalismo = fundamentalismo de la nación (la nación como valor absoluto), patriotismo = lealtad operativa a una nación concreta como dispositivo cultural. El debate productivo es **cómo la nación controla al Estado**, no si el Estado es bueno o malo en abstracto.\n- **Minarquismo económico** con la familia como unidad nuclear — Estado mínimo en lo económico, pero la familia (no el individuo aislado, contra el atomismo liberal) como célula constitutiva: 'sin familias no hay nación'. La pieza enlaza con [[crisis-del-amor-pareja-y-maternidad-en-proxy]] (la familia como pieza estructural que la cultura contemporánea ha disuelto).\n- **'Toques liberales'** sin adscripción liberal completa — operación de selección parcial: aspectos del liberalismo (limitación del poder político sobre la esfera privada) son aceptables; el armado conceptual liberal completo (con su indefinibilidad de la libertad) no.\n\nLa autoposición permite ubicar al canal en el [[diagrama-de-proxy]] con precisión: cuadrante arriba-derecha (jerarquía aceptada + fundamentos morales firmes) con desplazamiento parcial hacia abajo-derecha (minarquismo) — lo que el diagrama articula como autoritarismo legítimo con limitación del poder por fundamento moral previo.\n\n### Prohibición de símbolos como propaganda de Estado\n\nUn caso operativo del marco articulado: la prohibición jurídica de iconografías concretas (esvástica, símbolos asociados a regímenes específicos) opera, según el canal, como **dispositivo propagandístico del Estado**, no como protección de un bien jurídico genuino:\n\n> \"Ningún símbolo debería ser delito — una abstracción iconográfica no puede presumir la intención de quien la porta,\"\n→ [Os cuento cosas (1:38:29)](https://youtu.be/GdQY1iOa68w?t=5909)\n\n> \"Prohibir un símbolo es el culmen de la propaganda: el Estado primero causa aversión al símbolo y luego justifica prohibirlo para proteger su propia propaganda,\"\n→ [Os cuento cosas (1:38:29)](https://youtu.be/GdQY1iOa68w?t=5909)\n\n> \"El pensamiento estético-sofista confunde parecido visual con identidad conceptual (ej: esvástica hindú = nazismo),\"\n→ [Os cuento cosas (1:38:29)](https://youtu.be/GdQY1iOa68w?t=5909)\n\nLa mecánica que el canal denuncia tiene dos pasos: (1) el Estado produce la aversión cultural al símbolo mediante propaganda sostenida; (2) el Estado prohíbe el símbolo invocando la aversión que él mismo produjo, lo que crea un bucle de auto-validación. El bien jurídico nominal queda articulado como protección de la propia condicionación estatal del ciudadano:\n\n> \"Se protege la experiencia interna del ciudadano al que el propio Estado ha condicionado para asociar el grafo con aversión,\"\n→ [Os cuento cosas (1:46:03)](https://youtu.be/GdQY1iOa68w?t=6363)\n\n> \"Si necesitas prohibir manifestaciones iconográficas, ya tienes un problema gordo de cohesión nacional,\"\n→ [Os cuento cosas (1:46:03)](https://youtu.be/GdQY1iOa68w?t=6363)\n\nLa diagnosis final invierte el argumento estándar: la necesidad estatal de prohibir símbolos no es signo de fortaleza moral del régimen sino de debilidad estructural de cohesión nacional. La pieza opera como aplicación del [[sofisma-estetico]] al ámbito jurídico-político (confundir parecido visual con identidad conceptual es sofisma estético operando en el código penal) y conecta con [[teocracia-agnostica-y-victimologia-institucional]] (el Estado contemporáneo progresista sacraliza víctimas; el Estado que prohíbe símbolos sacraliza por inversión los símbolos prohibidos como tabú).",
+      "wikilinks_introduced": [
+        "teoria-de-la-teoria-de-la-mente",
+        "teologia-catolica-en-proxy",
+        "crisis-del-amor-pareja-y-maternidad-en-proxy",
+        "sofisma-estetico",
+        "teocracia-agnostica-y-victimologia-institucional"
+      ],
+      "citations_added": [
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 2594,
+          "cite_markdown": "[Os cuento cosas (43:14)](https://youtu.be/GdQY1iOa68w?t=2594)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 2776,
+          "cite_markdown": "[Os cuento cosas (46:16)](https://youtu.be/GdQY1iOa68w?t=2776)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 2998,
+          "cite_markdown": "[Os cuento cosas (49:58)](https://youtu.be/GdQY1iOa68w?t=2998)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 3330,
+          "cite_markdown": "[Os cuento cosas (55:30)](https://youtu.be/GdQY1iOa68w?t=3330)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 3420,
+          "cite_markdown": "[Os cuento cosas (57:00)](https://youtu.be/GdQY1iOa68w?t=3420)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 5909,
+          "cite_markdown": "[Os cuento cosas (1:38:29)](https://youtu.be/GdQY1iOa68w?t=5909)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 6121,
+          "cite_markdown": "[Os cuento cosas (1:42:01)](https://youtu.be/GdQY1iOa68w?t=6121)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 6363,
+          "cite_markdown": "[Os cuento cosas (1:46:03)](https://youtu.be/GdQY1iOa68w?t=6363)"
+        }
+      ],
+      "rationale": "Inserción extensa justificada por cierre directo de DOS lagunas estructurales declaradas: (a) genealogía intelectual del positivismo jurídico / iusnaturalismo — el video articula la crítica al iusnaturalismo como deriva biologicista y posiciona al canal en positivismo institucionalista con emanación de voluntad como tercera vía; (b) alternativa positiva al racional-formalismo — el video articula propuesta sustantiva: derecho como institución cultural (hechos colectivos para problemas colectivos) + teoría de juegos como origen + autoposición política autoreferente (católico patriota minarquista no nacionalista) + crítica al liberalismo por indefinibilidad de la libertad + prohibición de símbolos como propaganda. Material complementario al armado tripartito ya documentado, no duplicado.",
+      "editorial_intent": "extend",
+      "supersedes_laguna": [
+        "**Tradición intelectual del positivismo jurídico**: la crítica al positivismo jurídico se articula como diagnóstico operativo, sin genealogía explícita (Kelsen, Hart, debate iusnaturalismo / iuspositivismo). El canal podría desarrollar esa tradición en otros vídeos.",
+        "**Alternativa positiva**: el vídeo agota la crítica y enuncia las tres opciones operacionales, pero no desarrolla qué arquitectura constitucional concreta defendería el canal frente al racional-formalismo. Queda en estado de crítica articulada sin propuesta sustantiva propia."
+      ]
+    },
+    {
+      "page_id": "algebra-afectiva",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "**Aplicación clínica del marco**: el TDAH se reformula como problema de **buscar** (no de afectos en general); la psicopatía como minoración de **pánico/apego/deseo**; el autismo como afectación de los circuitos **apego/pánico**. El sistema permite diagnóstico diferencial por mapa afectivo.",
+      "content_proposed": "\n\n### Refinamiento de la psicopatía: hipoactivación moral, búsqueda compensatoria y tríada oscura\n\nEn el directo *Os cuento cosas. Galatea, Kripke y Gustavo Bueno* (jun 2025) el canal precisa la articulación clínica de la psicopatía con cinco piezas operativas que el marco general dejaba implícitas.\n\n**Síndrome de hipoactivación moral (no ausencia de afecto)**: la psicopatía NO es ausencia de emociones sino atenuación específica de la conectividad entre decisión y 'cerebro moral'.\n\n> \"La psicopatía es un síndrome de hipoactivación de la circuitería que conecta decisiones con el \\\"cerebro moral\\\",\"\n→ [Os cuento cosas (1:04:04)](https://youtu.be/GdQY1iOa68w?t=3844)\n\n> \"Los psicópatas no incorporan el sufrimiento de los demás a su ecuación interna — no es que no sientan emociones, sino que el mundo les provoca menos emociones,\"\n→ [Os cuento cosas (1:04:04)](https://youtu.be/GdQY1iOa68w?t=3844)\n\nLa precisión matiza la articulación previa de la página ('psicopatía como minoración de pánico/apego/deseo'): el cuadro no es minoración generalizada de afectos sino **falla específica de la conexión entre clase afectiva y arquitectura de decisión moral**. Las clases afectivas existen pero no se integran en el cómputo decisional como factor inhibitorio.\n\n**Búsqueda de sensaciones fuertes como compensación de apatía**: motor conductual derivado.\n\n> \"Los psicópatas reconocen que el mundo no tiene sentido para ellos y sienten apatía, por lo que buscan emociones fuertes obsesivamente,\"\n→ [Os cuento cosas (1:07:05)](https://youtu.be/GdQY1iOa68w?t=4025)\n\n> \"Tratan a los demás como cosas porque no les suscitan emoción — una persona y un maniquí son lo mismo a efectos mentales,\"\n→ [Os cuento cosas (1:07:05)](https://youtu.be/GdQY1iOa68w?t=4025)\n\n> \"Algunos se vuelven grandes estudiosos, asesinos, sociópatas, megalómanos o genios: buscan inundarse de contexto para no sentir vacío,\"\n→ [Os cuento cosas (1:07:05)](https://youtu.be/GdQY1iOa68w?t=4025)\n\nLa búsqueda obsesiva de estímulo intenso es el correlato conductual de la hipoactivación afectiva: si el mundo provoca menos emociones que en el sujeto sano, la psicopatía intenta compensar mediante saturación contextual. Esto explica la divergencia de trayectorias del cuadro — el mismo sustrato afectivo deficitario puede canalizarse en investigación académica intensa, dominio profesional extremo, conducta criminal, megalomanía política o producción genial.\n\n**Distinción psicópata vs sádico**:\n\n> \"Un psicópata no es un sádico: el sádico disfruta muchísimo con el sufrimiento ajeno mientras que al psicópata nada ajeno le importa lo suficiente,\"\n→ [Os cuento cosas (1:10:08)](https://youtu.be/GdQY1iOa68w?t=4208)\n\n> \"El trastorno antisocial puede derivar de psicopatía o de conductas perversas y sádicas independientes,\"\n→ [Os cuento cosas (1:10:08)](https://youtu.be/GdQY1iOa68w?t=4208)\n\nDistinción clínica clave: el sádico tiene activación afectiva positiva ante el sufrimiento ajeno (placer); el psicópata tiene activación afectiva nula. El sádico opera por valencia afectiva invertida; el psicópata por atenuación de toda valencia afectiva implicada en la representación del otro. El trastorno antisocial puede tener ambas etiologías independientes — comparten conducta pero no mecanismo afectivo.\n\n**Tríada oscura: psicopatía + narcisismo + maquiavelismo como rasgos disociables**:\n\n> \"La tríada oscura (psicopatía, narcisismo y maquiavelismo) son los tres rasgos que causan conductas malignas, pudiendo presentarse juntos o por separado,\"\n→ [Os cuento cosas (1:10:08)](https://youtu.be/GdQY1iOa68w?t=4208)\n\nEl canal incorpora la tríada oscura (categoría establecida en psicología de la personalidad, Paulhus & Williams 2002) como mapa diferencial de las tres dimensiones disociables de las conductas malignas. La pieza permite diagnóstico diferencial: psicopatía pura (hipoactivación moral sin narcisismo), narcisismo puro (herida narcisista sin minoración afectiva — ver [[herida-narcisista-en-proxy]]), maquiavelismo puro (cálculo estratégico sin déficit emocional). Las combinaciones (perfil psicópata-narcisista, perfil maquiavélico-psicópata) generan los cuadros clínicos extremos.\n\n**Paradoja del psicópata motivado**: corolario operativo.\n\n> \"Un psicópata puede tener depresión porque la depresión es ausencia de motivación, y la vida psicopática es muy depresiva por recibir menos recompensas emocionales,\"\n→ [Os cuento cosas (1:12:08)](https://youtu.be/GdQY1iOa68w?t=4328)\n\n> \"La paradoja del psicópata motivado: si encuentra su motivación, nada le distrae — no hay vínculos emocionales que le desvíen del objetivo,\"\n→ [Os cuento cosas (1:12:08)](https://youtu.be/GdQY1iOa68w?t=4328)\n\nLa relación depresión-psicopatía cierra el cuadro: la vida psicopática es estructuralmente depresiva (menos recompensa emocional → ausencia de motivación derivada → cuadro depresivo en muchos casos). Pero cuando el psicópata sí encuentra una motivación dominante, la ausencia de vínculos emocionales que normalmente distraerían al sujeto sano (preocupación por seres queridos, dudas morales, lealtades cruzadas) le permite eficacia máxima dirigida a esa meta. La paradoja explica los perfiles extremos donde el cuadro afectivo deficitario coincide con logros notables — el déficit es ventaja operativa cuando se canaliza en propósito monolítico.",
+      "wikilinks_introduced": [
+        "herida-narcisista-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 3844,
+          "cite_markdown": "[Os cuento cosas (1:04:04)](https://youtu.be/GdQY1iOa68w?t=3844)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 4025,
+          "cite_markdown": "[Os cuento cosas (1:07:05)](https://youtu.be/GdQY1iOa68w?t=4025)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 4208,
+          "cite_markdown": "[Os cuento cosas (1:10:08)](https://youtu.be/GdQY1iOa68w?t=4208)"
+        },
+        {
+          "video_id": "GdQY1iOa68w",
+          "timestamp_seconds": 4328,
+          "cite_markdown": "[Os cuento cosas (1:12:08)](https://youtu.be/GdQY1iOa68w?t=4328)"
+        }
+      ],
+      "rationale": "La página articula la psicopatía dentro de la 'Aplicación clínica del marco' como minoración de pánico/apego/deseo. El video añade cinco piezas operativas no cubiertas: (a) precisión sobre la naturaleza del déficit (hipoactivación de la conectividad decisión↔cerebro moral, no ausencia de afectos), (b) motor conductual derivado (búsqueda obsesiva de sensaciones fuertes como compensación de apatía), (c) distinción operativa psicópata vs sádico (activación nula vs valencia invertida), (d) tríada oscura (psicopatía + narcisismo + maquiavelismo) como mapa diferencial de rasgos disociables, (e) paradoja del psicópata motivado y relación depresión-psicopatía. Material complementario que extiende la aplicación clínica del marco afectivo del canal.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "programa de contenidos próximos / invitados",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio del programa editorial de las próximas semanas (filosofía materialista vs realista, paradoja de Kripke, dos invitados). Información sobre la programación del canal, no contenido temático.",
+      "quote_evidence": "El tema central de las próximas semanas será qué es la filosofía desde el materialismo (Gustavo Bueno) y desde el realismo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "mitos sobre Gustavo Bueno",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aclaración meta del canal sobre su relación con Bueno (no se considera 'gustavo-buenista' por no haber leído el sistema completo, pero reconoce las coordenadas como potentes). Posición autoreferente sin desarrollo temático. La página bueno-gustavo ya articula la relación canal-Bueno.",
+      "quote_evidence": "Proxy no se considera \"gustavo-buenista\" porque no ha leído el sistema completo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "bueno-gustavo"
+    },
+    {
+      "surface_form": "recomendación La Taberna Ilustrada",
+      "reason_code": "promo",
+      "reason_detail": "Recomendación de un podcast externo con comentario sobre carencias detectadas. No contenido enciclopédico — referencia de divulgación sin desarrollo sustantivo.",
+      "quote_evidence": "El podcast aborda qué es la filosofía y Proxy nota que dicen cosas similares a las de su canal pero sin el desarrollo filosófico completo,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "crítica al progresismo y superioridad moral",
+      "reason_code": "already_captured_extends_existing",
+      "reason_detail": "Crítica al progresismo como pretensión de superioridad moral por victimismo. Ya extensamente articulado en woke-narrativa-postmoderna-moral, sofisma-estetico y teocracia-agnostica-y-victimologia-institucional. El comentario del canal aquí es reiterativo del marco crítico ya documentado, sin matiz nuevo sustantivo. La fórmula 'mito del progreso' como dicotomía eutaxia / degeneración es interesante pero breve.",
+      "quote_evidence": "La izquierda progresista vende que ser de izquierdas equivale a superioridad intelectual por haber sufrido más y tener mejores intenciones,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "woke-narrativa-postmoderna-moral"
+    },
+    {
+      "surface_form": "Armesilla como modelo de intelectual sin drama",
+      "reason_code": "passing_mention",
+      "reason_detail": "Comentario sobre Santiago Armesilla (figura intelectual del materialismo filosófico español) como caso contrastivo de intelectual no-dramático frente a figuras políticas (Iglesias, Olona). Sin desarrollo sustantivo del pensamiento de Armesilla — es comentario sobre estilo intelectual, no análisis de tradición intelectual. Possible figura para tracking pero por ahora no merece página propia.",
+      "quote_evidence": "Armesilla es cero dramático: no suelta palabra sin sentido ni sin justificar, a diferencia de Pablo Iglesias o Macarena Olona,",
+      "review_priority": "medium",
+      "review_priority_reason": "Armesilla es figura intelectual relevante del materialismo filosófico contemporáneo español; si reaparece desarrollado como referencia teórica, candidato a entry en bueno-gustavo o página propia"
+    },
+    {
+      "surface_form": "perfil de personalidad propenso a adicciones / mecanismos de motivación / terapia ocupacional",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación clínica de un perfil propenso a adicciones (carga genética + dificultad para motivaciones endógenas + susceptibilidad a motivaciones exógenas) con descripción del tratamiento (antidepresivos + terapia ocupacional con metas progresivas). Material psicológico-clínico interesante pero presentado de forma divulgativa sin tesis canal-específica claramente articulada. Podría enriquecer teoria-de-las-emociones o algebra-afectiva en revisión posterior.",
+      "quote_evidence": "Existe un perfil con gran carga genética que tiene dificultad para encontrar motivaciones endógenas (construir sueños y objetivos propios),",
+      "review_priority": "medium",
+      "review_priority_reason": "Material clínico-operativo sobre adicciones y motivación que podría justificar enriquecimiento de teoria-de-las-emociones-en-proxy o de algebra-afectiva en revisión posterior si reaparece"
+    },
+    {
+      "surface_form": "hipomanía, catarsis y anhedonia / feedback dopaminérgico",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación operativa sobre la dinámica hipomanía → tolerancia dopaminérgica → anhedonia, con la precisión sobre la hipomanía como búsqueda de descontrol/dominio (no de diversión). Material psicológico-clínico interesante sin desarrollo sostenido. Conecta con teoria-del-dolor (que articula la independencia dolor/sufrimiento/placer) pero no requiere página propia.",
+      "quote_evidence": "La catarsis de búsqueda de emociones fuertes en la hipomanía puede terminar provocando anhedonia si las causas son suficientemente endógenas/químicas,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "límites de la resocialización cultural / experiencias rituales irreversibles",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis sobre los límites de la reinserción cultural cuando ciertas experiencias rituales infantiles (prácticas caníbales como ejemplo) generan daños irreversibles. Conecta con la articulación del canal sobre rituales y elaboración cultural. Sin desarrollo sostenido.",
+      "quote_evidence": "No todas las proveniencias culturales tienen posibilidad de reinserción — ciertas experiencias rituales en la infancia (como prácticas caníbales) provocan daños irreversibles,",
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    {
+      "surface_form": "trigger warning añadido a 1984 de Orwell",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso operativo del pensamiento estético progresista que prioriza la protección emocional sobre la comprensión literaria. Ya capturado conceptualmente en sofisma-estetico y woke-narrativa-postmoderna-moral. Aquí opera como ejemplo coyuntural sin desarrollo.",
+      "quote_evidence": "Se ha añadido una advertencia a 1984 señalando que los pensamientos de Winston Smith sobre la mujer pueden ser \"problemáticos\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "sofisma-estetico"
+    },
+    {
+      "surface_form": "imposibilidad del debate desde la era Zapatero / matrimonio homosexual",
+      "reason_code": "passing_mention",
+      "reason_detail": "Testimonio personal del canal sobre la imposibilidad del debate en la facultad de Derecho durante el debate de la ley de matrimonio homosexual (régimen Zapatero). La articulación 'mi rencor se merece más que tu paz' es interesante como diagnóstico cultural pero presentada anecdóticamente. Conecta con teocracia-agnostica-y-victimologia-institucional (la sacralización de la víctima como dispositivo del Estado progresista) sin matiz nuevo.",
+      "quote_evidence": "Zapatero abrió la puerta a que el sentimiento individual prevalezca sobre cualquier verdad: \"mi rencor se merece más que tu paz\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teocracia-agnostica-y-victimologia-institucional"
+    },
+    {
+      "surface_form": "problema sincategoremático del debate político",
+      "reason_code": "passing_mention",
+      "reason_detail": "Articulación sobre cómo muchos debates políticos fracasan porque los interlocutores usan las mismas palabras para conceptos internos diferentes (problema terminológico, no ideológico). Conecta con teoria-del-lenguaje-en-proxy (que articula el representacionalismo lingüístico del canal) pero presentado brevemente.",
+      "quote_evidence": "Muchos debates políticos fracasan porque los interlocutores usan las mismas palabras para referirse a conceptos internos diferentes,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-lenguaje-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 2,
+    "promoted_new": 0,
+    "promoted_updates": 2,
+    "thesis_candidates_count": 0,
+    "discarded_count": 11,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

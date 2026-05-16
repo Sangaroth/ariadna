@@ -1,0 +1,448 @@
+{
+  "video_id": "zASckAZqmfM",
+  "video_title": "La teoría de la teoría de la mente",
+  "playlist": "psicologia-101",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "teoría de la mente (dos acepciones)",
+      "canonical_guess": "psiquiatria-y-teoria-de-la-mente",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.philosophy",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 65,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La primera acepción es filosofía de la mente: disciplina que elabora un modelo formal y riguroso de la psique humana, de corte realista y cognitivista (teleosemántica),"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Ambas acepciones no tienen nada que ver entre sí pese a compartir nombre,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Potencia se refiere al método con el que la disciplina filosófica crea filosofía,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La filosofía analítica fundamenta su elaboración en las reglas de la lógica formal; toda filosofía de la mente debe ser analítica,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Synthesis existente sobre psiquiatría y teoría de la mente (source 4LBXNkVAUCU, sept 2024). Este monográfico (may 2025) articula la armadura filosófica que la página presupone: distinción explícita entre dos acepciones del término (filosofía de la mente como disciplina + función cognitiva = empatía), filosofía analítica vs continental como marca operativa de la primera acepción, tres criterios filosóficos (potencia/extensión/coherencia), teleosemántica como marco específico del realismo cognitivo, y empatía/simpatía como corrección a la distinción divulgativa cognitiva/afectiva. Refuta parcialmente la laguna 'Articulación operacional del dualismo formal'.",
+      "quote_evidence": "La segunda acepción es una función cognitiva que nos hace percibir al otro como poseedor de mente,"
+    },
+    {
+      "surface_form": "yo como metarrepresentación / super-yo como ficciones proyectadas",
+      "canonical_guess": "yo-ego-autoestima-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 20,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El yo es una representación, y además una metarrepresentación: no solo tienes idea de ti mismo, sino que te concibes como sujeto diferente del entorno,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El yo contiene necesidades (afectos), una autoimagen (cuerpo como forma sobre fondo) y recuerdos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página actual articula la taxonomía clínica yo/self/ego/autoestima y las tres neurosis del ego. Este vídeo añade la armadura cognitivo-filosófica subyacente: yo como metarrepresentación construida por exclusión, componentes 3Q del yo (afecto-sujeto-espacio), identidad como síntesis episódica, super-yo como ficciones proyectadas (deber ser) y narcisismo patológico como colapso yo↔super-yo. Refina parcialmente la laguna 'Operatividad terapéutica' (la vía es necesariamente externa porque las clases cognitivas son en-activas).",
+      "quote_evidence": "El super-yo es una identidad proyectada: \"no soy así, pero quiero ser así\" (deber ser),"
+    },
+    {
+      "surface_form": "fantasía como función juego vs mecanismo de defensa",
+      "canonical_guess": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "page_type": "synthesis",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "secondary",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La fantasía es una ficción que se sabe falsa, por tanto es recreativa y pertenece a la función juego,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La proyección fantástica (recreativa) y la ficticia (confabulada como real) son procesos cualitativamente distintos,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Página actual articula taxonomía recreativa→patológica de la fantasía. Este vídeo añade tres piezas operativas nuevas: (a) inscripción de la fantasía en la función juego más amplia (hipotéticos disociados de actividad real); (b) criterio motivacional para distinguir juego sano de neurosis (recreación vs ansiedad anticipatoria); (c) proyección fantástica vs ficticia como distinción cualitativa que articula el cruce al espectro psicótico; (d) restricción teleosemántica: no se puede hacer fantasía sobre el interior porque las clases cognitivas son en-activas (orientadas al exterior).",
+      "quote_evidence": "Si los hipotéticos responden a una necesidad de predicción por ansiedad, ya no es juego sino un mecanismo de defensa,"
+    },
+    {
+      "surface_form": "Galatea actualización y pensamiento prelingüístico vía IA",
+      "canonical_guess": "galatea-modelo-protomente",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "tertiary",
+      "minutes_estimate": 4,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Se está utilizando inteligencia artificial para sistematizar la teoría de la mente en pseudocódigo,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Actualización breve sobre el estado del proyecto Galatea: uso de IA para sistematizar la teoría de la mente en pseudocódigo + un artículo reciente sobre clases prelingüísticas detectables vía IA. Pieza de ~4 min, cita-only update para retrieval indirecto.",
+      "quote_evidence": "El pensamiento no explícito (prelingüístico) empieza a poder concebirse mediante modelos de inteligencia artificial, lo cual es fundamental para la teoría,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "psiquiatria-y-teoria-de-la-mente",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "- [[golem-de-cobre]] — comparte el problema de la teoría de la mente formal: aquí en clínica psiquiátrica, allí en cognición humana frente a IA",
+      "content_proposed": "\n\n## Las dos acepciones de \"teoría de la mente\" y los criterios filosóficos\n\nEn el directo monográfico *La teoría de la teoría de la mente* (28 may 2025) el canal articula de manera explícita una distinción que esta página presupone sin nombrar: el término **\"teoría de la mente\" recubre dos acepciones que comparten nombre pero no contenido**.\n\n> \"La primera acepción es filosofía de la mente: disciplina que elabora un modelo formal y riguroso de la psique humana, de corte realista y cognitivista (teleosemántica),\"\n→ [La teoría de la teoría de la mente (48:06)](https://youtu.be/zASckAZqmfM?t=2886)\n\n> \"La segunda acepción es una función cognitiva que nos hace percibir al otro como poseedor de mente,\"\n→ [La teoría de la teoría de la mente (48:06)](https://youtu.be/zASckAZqmfM?t=2886)\n\n> \"Ambas acepciones no tienen nada que ver entre sí pese a compartir nombre,\"\n→ [La teoría de la teoría de la mente (48:06)](https://youtu.be/zASckAZqmfM?t=2886)\n\nLa página articula la primera acepción aplicada a clínica psiquiátrica. El monográfico desarrolla ambas en paralelo y precisa la armadura filosófica desde la que se construye la primera y la mecánica cognitiva desde la que opera la segunda.\n\n### Filosofía analítica vs filosofía continental\n\n> \"La filosofía analítica fundamenta su elaboración en las reglas de la lógica formal; toda filosofía de la mente debe ser analítica,\"\n→ [La teoría de la teoría de la mente (50:07)](https://youtu.be/zASckAZqmfM?t=3007)\n\n> \"La filosofía continental elabora sistemas discursivos coherentes internamente pero sin partir de la lógica formal, resultando en poética cuando no se refiere a la realidad,\"\n→ [La teoría de la teoría de la mente (50:07)](https://youtu.be/zASckAZqmfM?t=3007)\n\n> \"El materialismo filosófico es continental pero muy potente y extenso, aunque su mayor carencia es precisamente la teoría de la mente,\"\n→ [La teoría de la teoría de la mente (50:07)](https://youtu.be/zASckAZqmfM?t=3007)\n\nLa pieza precisa la demanda analítica al [[realismo-cognitivo]] que la Tesis nuclear articulaba: la exigencia no es arbitraria — es la marca diferencial entre filosofía de la mente válida (analítica, refiriéndose a la realidad por lógica formal) y poética disfrazada (continental sin referente, sistémicamente coherente pero no analizable). El [[materialismo-antiformalista|materialismo filosófico de Bueno]] queda situado como caso del segundo tipo: potente y extenso, pero estructuralmente incapaz de cumplir teoría de la mente porque le falta la pieza analítica.\n\n### Tres criterios filosóficos: potencia, extensión, coherencia\n\n> \"Potencia se refiere al método con el que la disciplina filosófica crea filosofía,\"\n→ [La teoría de la teoría de la mente (58:42)](https://youtu.be/zASckAZqmfM?t=3522)\n\n> \"Extensión se refiere a cuánta parte de la realidad es capaz de describir o alcanzar,\"\n→ [La teoría de la teoría de la mente (58:42)](https://youtu.be/zASckAZqmfM?t=3522)\n\n> \"Coherencia se refiere a cuánto de la filosofía no es contradictoria entre sí,\"\n→ [La teoría de la teoría de la mente (58:42)](https://youtu.be/zASckAZqmfM?t=3522)\n\nLos tres criterios operacionales que el canal usa para evaluar marcos filosóficos: **potencia** (método), **extensión** (alcance descriptivo), **coherencia** (no-contradicción interna). Quedan así articuladas las críticas dispersas que la página invocaba — Freud no cumple por coherencia errónea (metáforas no sabidas como metáforas), el conductismo no cumple por extensión limitada y autorreferencia circular, el materialismo filosófico cumple en extensión y potencia pero queda corto en teoría de la mente:\n\n> \"Freud utilizaba metáforas que no sabía que eran metáforas para describir procesos mentales que no podía observar empíricamente,\"\n→ [La teoría de la teoría de la mente (51:38)](https://youtu.be/zASckAZqmfM?t=3098)\n\n> \"El conductismo define conducta como aquello que estudia el conductismo, una circularidad irresoluble,\"\n→ [La teoría de la teoría de la mente (57:12)](https://youtu.be/zASckAZqmfM?t=3432)\n\n> \"Al no referirse a la realidad completa, el conductismo termina siendo poética, no filosofía válida,\"\n→ [La teoría de la teoría de la mente (57:12)](https://youtu.be/zASckAZqmfM?t=3432)\n\n### Teleosemántica: la mente como mecánica orientada al exterior\n\n> \"Todo lo que ocurre dentro de la mente está relacionado con el exterior porque está orientado a la acción exterior,\"\n→ [La teoría de la teoría de la mente (1:03:59)](https://youtu.be/zASckAZqmfM?t=3839)\n\n> \"La acción exterior requiere predicción, la predicción se hace mediante modelos, los modelos están formados por representaciones y las representaciones por clases,\"\n→ [La teoría de la teoría de la mente (1:03:59)](https://youtu.be/zASckAZqmfM?t=3839)\n\n> \"Todo proceso interno es en-activo porque lo es en origen: la maquinaria cognitiva está pensada para ser en-activa,\"\n→ [La teoría de la teoría de la mente (1:03:59)](https://youtu.be/zASckAZqmfM?t=3839)\n\nLa teleosemántica nombra el marco específico que el realismo cognitivo aplica: la mente NO se entiende por su contenido sino por su función — está orientada-a la acción exterior. Cada representación interna existe en última instancia para predecir, y la predicción existe para la acción. La cadena operativa: **clases → representaciones → modelos → predicción → acción exterior**. Esto enlaza directamente con la enactividad articulada en [[golem-de-cobre]] (la cognición humana opera con representaciones intrínsecamente orientadas a contrastarse con la realidad) y aporta la armadura filosófica subyacente.\n\n### Teoría de la mente como función cognitiva: empatía y simpatía\n\nLa segunda acepción es la función cognitiva que percibe al otro como poseedor de mente — operacionalmente, la **empatía**. La pieza articula una corrección terminológica a la divulgación contemporánea:\n\n> \"Los psicópatas tienen empatía cognitiva minorada porque la parte afectiva no les inhibe la conducta; saben cómo piensan los otros pero el sufrimiento ajeno no les afecta,\"\n→ [La teoría de la teoría de la mente (1:06:34)](https://youtu.be/zASckAZqmfM?t=3994)\n\n> \"La distinción divulgativa entre \\\"empatía cognitiva\\\" y \\\"empatía afectiva\\\" es innecesaria: la empatía es una sola función; lo que les falta a los psicópatas es simpatía,\"\n→ [La teoría de la teoría de la mente (1:06:34)](https://youtu.be/zASckAZqmfM?t=3994)\n\nLa empatía es una sola función — la capacidad de modelar la mente del otro. Lo que la divulgación llama 'empatía afectiva' es en realidad **simpatía**: la resonancia afectiva con el estado modelado. El psicópata conserva empatía (puede modelar al otro), carece de simpatía (el sufrimiento ajeno no le afecta y por tanto no le inhibe la conducta). La distinción es diagnósticamente operativa: la psicopatía no es defecto de teoría de la mente sino disociación entre función empática y motor simpático.\n\n### Teoría de la mente y ética: el otro como reflejo del yo\n\n> \"Cuando pensamos en el otro, siempre contamos con que el otro podríamos ser nosotros,\"\n→ [La teoría de la teoría de la mente (1:10:42)](https://youtu.be/zASckAZqmfM?t=4242)\n\n> \"Esa impresión causa inhibiciones de conducta que nos impiden actuar de cierta manera o nos compelen a actuar de cierta manera frente al otro,\"\n→ [La teoría de la teoría de la mente (1:10:42)](https://youtu.be/zASckAZqmfM?t=4242)\n\nLa función teoría de la mente queda articulada como sustrato del comportamiento ético: la inhibición/compulsión moral frente al otro no es regla externa interiorizada sino consecuencia de **reconocer al otro como instancia posible del yo**. La pieza enlaza con [[intimidad-y-confesion-en-proxy]] (donde el reconocimiento del otro opera como condición del vínculo) y con [[anatomia-del-tabu-en-proxy]] (donde el tabú opera como inhibición pre-moral).\n\n### Requisitos evolutivos: cooperación, afecto, representación del otro\n\n> \"La cooperación requiere primero una necesidad afectiva: necesitas ayuda y conviertes todo en intercambio,\"\n→ [La teoría de la teoría de la mente (1:12:44)](https://youtu.be/zASckAZqmfM?t=4364)\n\n> \"La comunicación no es fundamento de la cooperación: los lobos cooperan con jerarquías complejas sin comunicarse verbalmente; la cooperación está en los instintos,\"\n→ [La teoría de la teoría de la mente (1:12:44)](https://youtu.be/zASckAZqmfM?t=4364)\n\nLa pieza invierte la intuición popular: no es la comunicación lo que permite la cooperación sino los instintos. La cooperación está sostenida por necesidad afectiva (yo necesito al otro) y por capacidad de adelantar la conducta del otro (representación cognitiva del otro). El lenguaje refina pero no funda. Esta articulación es coherente con la teleosemántica: la teoría de la mente cognitiva evolucionó porque resolvía un problema de coordinación afectivo-conductual, no porque sirviera para la comunicación abstracta.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "intimidad-y-confesion-en-proxy",
+        "anatomia-del-tabu-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 2886,
+          "cite_markdown": "[La teoría de la teoría de la mente (48:06)](https://youtu.be/zASckAZqmfM?t=2886)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 3007,
+          "cite_markdown": "[La teoría de la teoría de la mente (50:07)](https://youtu.be/zASckAZqmfM?t=3007)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 3098,
+          "cite_markdown": "[La teoría de la teoría de la mente (51:38)](https://youtu.be/zASckAZqmfM?t=3098)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 3432,
+          "cite_markdown": "[La teoría de la teoría de la mente (57:12)](https://youtu.be/zASckAZqmfM?t=3432)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 3522,
+          "cite_markdown": "[La teoría de la teoría de la mente (58:42)](https://youtu.be/zASckAZqmfM?t=3522)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 3839,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:03:59)](https://youtu.be/zASckAZqmfM?t=3839)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 3994,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:06:34)](https://youtu.be/zASckAZqmfM?t=3994)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 4242,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:10:42)](https://youtu.be/zASckAZqmfM?t=4242)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 4364,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:12:44)](https://youtu.be/zASckAZqmfM?t=4364)"
+        }
+      ],
+      "rationale": "Monográfico (~65 min sustanciales) directamente temático sobre el objeto de la página. Material genuinamente nuevo al cuerpo leído: (a) distinción explícita de las dos acepciones del término 'teoría de la mente' que la página presupone sin nombrar; (b) armadura filosofía analítica vs continental como marca operativa de la primera acepción; (c) tres criterios filosóficos (potencia/extensión/coherencia) que la página invocaba dispersos; (d) teleosemántica como nombre específico del marco; (e) empatía/simpatía como corrección terminológica diagnósticamente operativa; (f) función teoría de la mente como sustrato ético; (g) requisitos evolutivos cooperación-afecto-representación. insert_after_passage tras Páginas conectadas posiciona el material antes de Lagunas como sección sustancial.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "psiquiatria-y-teoria-de-la-mente",
+      "update_type": "replace_passage",
+      "anchor_passage": "- **Articulación operacional del dualismo formal**: la tesis lo afirma como herramienta de trabajo imprescindible pero no detalla criterios formales para distinguir cuándo un fenómeno mental requiere descripción cognitiva irreducible y cuándo admite reducción conductual sin pérdida.",
+      "content_proposed": "- **Articulación operacional del dualismo formal**: el monográfico *La teoría de la teoría de la mente* (may 2025) precisa que la marca operativa es metodológica — filosofía analítica (lógica formal sobre problemas de verdad) vs continental (sistemas internamente coherentes sin referente formal) — y articula tres criterios filosóficos (potencia/extensión/coherencia). Queda abierto el criterio específico para distinguir, dentro de un cuadro clínico concreto, cuándo un fenómeno mental requiere descripción cognitiva irreducible y cuándo admite reducción conductual sin pérdida",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [],
+      "rationale": "Refinamiento del bullet de laguna. El monográfico aporta la marca operativa (analítica vs continental + tres criterios) que la página articulaba como pendiente, pero queda abierto el criterio fino dentro de cada cuadro clínico. Refinamiento por reescritura, no eliminación.",
+      "editorial_intent": "refine"
+    },
+    {
+      "page_id": "yo-ego-autoestima-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "La pieza acota además la vulnerabilidad del cuadro: daños frontales pueden disolver el self consciente sin afectar la referencia fenomenológica que sigue operando como organismo, lo que ilumina la frontera operativa entre estados disociativos (ego distócico, descrito arriba) y conservación somática del cuerpo. Y precisa parcialmente la laguna sobre el estatus del inconsciente dentro del yo: la referencia propioceptiva preconsciente es uno de los contenidos del polo inconsciente del yo, distinta de los arquetipos transpersonales del [[collective-unconscious]].",
+      "content_proposed": "\n\n## El yo como metarrepresentación: armadura cognitivo-filosófica del aparato\n\nEn el directo monográfico *La teoría de la teoría de la mente* (28 may 2025) el canal articula la armadura cognitivo-filosófica del yo que esta página presuponía: el yo es **metarrepresentación**, la identidad es **síntesis episódica**, y el super-yo es **conjunto de ficciones proyectadas**. Las tres piezas amplían la taxonomía clínica con su fundamentación cognitiva.\n\n### El yo como metarrepresentación construida por exclusión\n\n> \"El yo es una representación, y además una metarrepresentación: no solo tienes idea de ti mismo, sino que te concibes como sujeto diferente del entorno,\"\n→ [La teoría de la teoría de la mente (1:16:22)](https://youtu.be/zASckAZqmfM?t=4582)\n\n> \"Los perros tienen un proto-yo pero no metarrepresentan, por eso no desarrollan personalidad,\"\n→ [La teoría de la teoría de la mente (1:16:22)](https://youtu.be/zASckAZqmfM?t=4582)\n\n> \"El yo se construye por exclusión: \\\"esto no soy yo, esto es una cosa, esto es mi madre, esto es mi brazo pero no soy yo\\\",\"\n→ [La teoría de la teoría de la mente (1:16:22)](https://youtu.be/zASckAZqmfM?t=4582)\n\nLa distinción **representación / metarrepresentación** separa el proto-yo de los mamíferos (autoimagen no reflexiva en perros, gatos) del yo humano pleno (la idea del yo SOBRE el yo, capacidad de pensarse desde fuera). El procedimiento constructivo no es afirmativo sino **excluyente** — el yo emerge negando contenidos: esto no soy, esto no es mi madre, esto es mi brazo pero no soy yo. Consecuencia operativa: el yo no es núcleo positivo sino residuo de exclusiones.\n\n### Componentes 3Q del yo: afecto-sujeto-espacio\n\n> \"El yo contiene necesidades (afectos), una autoimagen (cuerpo como forma sobre fondo) y recuerdos,\"\n→ [La teoría de la teoría de la mente (1:18:25)](https://youtu.be/zASckAZqmfM?t=4705)\n\n> \"La memoria episódica está imbricada con el yo porque no es simplemente algo que ocurrió, sino algo que ocurrió estando nosotros en el centro de la acción,\"\n→ [La teoría de la teoría de la mente (1:18:25)](https://youtu.be/zASckAZqmfM?t=4705)\n\n> \"La memoria episódica se compone de emociones en un espacio con una forma: afecto-sujeto-espacio, las tres componentes de la psique humana,\"\n→ [La teoría de la teoría de la mente (1:18:25)](https://youtu.be/zASckAZqmfM?t=4705)\n\nLa pieza articula la tríada componencial del yo en términos de la tríada 3Q general (afectiva / imaginaria / formal-espacial). La memoria episódica no es contenedor neutro: es **emoción + sujeto + espacio**. La centralidad del yo en cada recuerdo es estructural — sin yo no hay memoria episódica, solo registro semántico de hechos.\n\n### Identidad como síntesis episódica\n\n> \"La identidad es la recapitulación en el yo de todas las experiencias vividas: un resumen de las vivencias,\"\n→ [La teoría de la teoría de la mente (1:23:05)](https://youtu.be/zASckAZqmfM?t=4985)\n\n> \"\\\"Mi pasado es bueno/malo/hábil/fracaso\\\" son significaciones que emergen de recapitular todas las memorias episódicas,\"\n→ [La teoría de la teoría de la mente (1:23:05)](https://youtu.be/zASckAZqmfM?t=4985)\n\n> \"El yo se proyecta hacia el futuro tomando la síntesis de la identidad y generando fantasías o ficciones sobre lo que vendrá,\"\n→ [La teoría de la teoría de la mente (1:23:05)](https://youtu.be/zASckAZqmfM?t=4985)\n\nLa identidad queda articulada como **operación de síntesis** sobre el conjunto de memorias episódicas: 'soy hábil' / 'soy fracaso' / 'soy buena persona' no son atributos sino significaciones que emergen del trabajo recapitulativo del yo sobre la totalidad del archivo episódico. Esta articulación enlaza con [[crisis-de-identidad-en-proxy]] — la crisis ocurre cuando la síntesis ya no integra el archivo o cuando aparecen contraevidencias episódicas que la síntesis no puede absorber.\n\n### El super-yo como conjunto de ficciones proyectadas\n\n> \"El super-yo es una identidad proyectada: \\\"no soy así, pero quiero ser así\\\" (deber ser),\"\n→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)\n\n> \"El narcisismo patológico es un super-yo donde el sujeto cree que es lo que en realidad es ficción,\"\n→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)\n\n> \"El narcisista sufre porque la realidad no le devuelve el feedback de lo que cree ser; la disonancia entre ficción y realidad causa sufrimiento,\"\n→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)\n\nLa pieza articula el super-yo no como instancia moral freudiana (heredada del padre) sino como **proyección identitaria futura** — el deber ser, la identidad proyectada que no soy todavía. El narcisismo patológico es operativamente el colapso de la distinción entre yo (lo que efectivamente soy según la síntesis episódica) y super-yo (lo que aspiro a ser): el narcisista trata su super-yo como yo, y la realidad no devuelve feedback porque el feedback es sobre lo que realmente es. La definición refina el cuadro 'narcisismo distócico desmedido' de la sección 'Trastorno narcisista': la distocia es precisamente la colusión yo↔super-yo, no exceso de merecimiento aislado.\n\n### Por qué la curación es necesariamente externa\n\n> \"La psique no se concibe a sí misma: para tener un yo hay que metarrepresentar, y la metarrepresentación usa clases externas,\"\n→ [La teoría de la teoría de la mente (1:32:20)](https://youtu.be/zASckAZqmfM?t=5540)\n\n> \"Todas las clases con las que construimos la autoimagen existen para representar el exterior, no el interior,\"\n→ [La teoría de la teoría de la mente (1:36:34)](https://youtu.be/zASckAZqmfM?t=5794)\n\nConsecuencia teleosemántica para el aparato del yo: las clases cognitivas son **en-activas** (orientadas al exterior por origen), por lo que el yo solo puede construirse usando esas mismas clases — desde fuera, reflexivamente. No hay autoaprehensión directa del interior. Toda fantasía sobre uno mismo opera sobre la autoimagen (yo como objeto visto desde fuera) y nunca sobre el yo qua interior puro. La consecuencia clínica: las distorsiones del yo no son distorsiones del interior sino de la operación reflexiva con que el yo se construye con clases externas — y por eso son corregibles por **feedback externo** (terapia, vínculos correctivos) en lugar de por introspección pura. Esto refina la laguna sobre operatividad terapéutica de las tres neurosis del ego: la vía es necesariamente externa, nunca puramente interior.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "crisis-de-identidad-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 4582,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:16:22)](https://youtu.be/zASckAZqmfM?t=4582)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 4705,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:18:25)](https://youtu.be/zASckAZqmfM?t=4705)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 4985,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:23:05)](https://youtu.be/zASckAZqmfM?t=4985)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5287,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5540,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:32:20)](https://youtu.be/zASckAZqmfM?t=5540)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5794,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:36:34)](https://youtu.be/zASckAZqmfM?t=5794)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto al cuerpo leído. La página articula taxonomía clínica yo/self/ego/autoestima + tres neurosis del ego + distocia→esquizoipia + sustrato neuroanatómico, pero no articula la armadura cognitivo-filosófica subyacente. Este vídeo añade: (a) yo como metarrepresentación construida por exclusión (vs proto-yo no reflexivo); (b) componentes 3Q del yo (afecto-sujeto-espacio); (c) identidad como síntesis episódica que enlaza con crisis-de-identidad-en-proxy; (d) super-yo como ficciones proyectadas (deber ser); (e) narcisismo patológico como colapso yo↔super-yo que refina la sección 'Trastorno narcisista'; (f) consecuencia teleosemántica: la curación es necesariamente externa porque las clases cognitivas son en-activas — refina parcialmente la laguna 'Operatividad terapéutica'.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "- [[magia-postmoderna-en-proxy]] — la mecánica de secreto vs complejidad y la custodia esotérica como instrumento de dominio sobre el curioso",
+      "content_proposed": "\n\n## Función juego, mecanismos de defensa y la asimetría fantasía/ficción\n\nEn el directo monográfico *La teoría de la teoría de la mente* (28 may 2025) el canal articula la inscripción de la fantasía dentro de la función juego y la frontera operativa que separa la fantasía recreativa de los mecanismos de defensa ansiosos. La pieza añade el criterio motivacional que separa fantasía sana de patología.\n\n### Fantasía como variante representacional de la función juego\n\n> \"La fantasía es una ficción que se sabe falsa, por tanto es recreativa y pertenece a la función juego,\"\n→ [La teoría de la teoría de la mente (1:25:06)](https://youtu.be/zASckAZqmfM?t=5106)\n\n> \"El juego es el conjunto de funciones cognitivas que elaboran procesos con hipotéticos independientemente de una inactividad real,\"\n→ [La teoría de la teoría de la mente (1:25:06)](https://youtu.be/zASckAZqmfM?t=5106)\n\nLa pieza inscribe la fantasía dentro de una **función cognitiva más amplia — el juego** — definida como elaboración de procesos con hipotéticos sin actividad real correspondiente. La fantasía es la variante representacional del juego (juego en la imaginación); el juego conductual (deportivo, lúdico) es la variante en la acción. Ambas comparten la marca foundational: hipotéticos disociados de actividad real con valor recreativo.\n\n### Criterio motivacional: cuando los hipotéticos responden a ansiedad ya no es juego\n\n> \"Si los hipotéticos responden a una necesidad de predicción por ansiedad, ya no es juego sino un mecanismo de defensa,\"\n→ [La teoría de la teoría de la mente (1:25:36)](https://youtu.be/zASckAZqmfM?t=5136)\n\n> \"Intentamos predecir el futuro para evitar daño: eso es neurosis, no juego, porque nace del terror y la ansiedad,\"\n→ [La teoría de la teoría de la mente (1:25:36)](https://youtu.be/zASckAZqmfM?t=5136)\n\nLa frontera operativa entre juego sano y patología no está en el contenido (fantasías catastróficas pueden ser puramente lúdicas) sino en la **motivación**: hipotéticos motivados por recreación = juego; hipotéticos motivados por ansiedad anticipatoria = mecanismo de defensa neurótico. La pieza añade el criterio causal-motivacional al criterio representacional ya documentado en la página (fantasía recreativa orientada al interior). Conecta con el espectro voluntaria → involuntaria del marco original: el cruce a la patología ocurre cuando la motivación pasa de recreación a ansiedad.\n\n### Proyección fantástica vs ficticia: distinción cualitativa\n\n> \"La proyección fantástica (recreativa) y la ficticia (confabulada como real) son procesos cualitativamente distintos,\"\n→ [La teoría de la teoría de la mente (1:25:36)](https://youtu.be/zASckAZqmfM?t=5136)\n\n> \"La ficción puede ser una fantasía confabulada que se ha asumido como real, con consecuencias afectivas de realidad (ejemplo: un psicótico que cree ser Superman),\"\n→ [La teoría de la teoría de la mente (1:25:06)](https://youtu.be/zASckAZqmfM?t=5106)\n\nLa distinción **proyección fantástica vs ficticia** opera como bisagra entre el espectro recreativo (fantasía consciente de su carácter ficcional) y el espectro psicótico (fantasía colapsada a ficción asumida como real). La transición no es cuantitativa (más fantasía → psicosis) sino cualitativa: lo que cambia es la **conciencia del estatuto ficcional** de la representación. Cuando esa conciencia se pierde, la fantasía deja de ser recreativa y pasa a operar como realidad afectiva — pieza que articula el cruce al extremo del espectro voluntaria → involuntaria.\n\n### El super-yo como ficciones proyectadas: narcisismo patológico\n\n> \"El super-yo es una identidad proyectada: \\\"no soy así, pero quiero ser así\\\" (deber ser),\"\n→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)\n\n> \"El narcisismo patológico es un super-yo donde el sujeto cree que es lo que en realidad es ficción,\"\n→ [La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)\n\nEl narcisismo queda articulado dentro del aparato como **caso de ficción tomada como real aplicada al super-yo**: el sujeto trata sus ficciones identitarias proyectadas (deber ser) como yo efectivo, y la disonancia con la realidad genera el sufrimiento narcisista. La pieza enlaza con [[yo-ego-autoestima-en-proxy]] (donde el super-yo y el narcisismo se articulan en taxonomía clínica) y completa el repertorio de patologías derivadas de la confusión fantasía/ficción que esta página describe.\n\n### Restricción teleosemántica: no se puede hacer fantasía sobre el interior\n\n> \"La psique no se concibe a sí misma: para tener un yo hay que metarrepresentar, y la metarrepresentación usa clases externas,\"\n→ [La teoría de la teoría de la mente (1:32:20)](https://youtu.be/zASckAZqmfM?t=5540)\n\n> \"El interior es el origen de la fantasía pero no puede ser su destino; puede haber ficciones implícitas sobre el interior, pero nunca fantasías explícitas,\"\n→ [La teoría de la teoría de la mente (1:32:20)](https://youtu.be/zASckAZqmfM?t=5540)\n\n> \"Todas las clases con las que construimos la autoimagen existen para representar el exterior, no el interior,\"\n→ [La teoría de la teoría de la mente (1:36:34)](https://youtu.be/zASckAZqmfM?t=5794)\n\nLa consecuencia teleosemántica para la página: las clases cognitivas son en-activas (orientadas al exterior por origen), lo que implica que el **interior no admite fantasía explícita** — solo ficciones implícitas. Toda fantasía 'sobre el yo' opera reflexivamente sobre la autoimagen (yo como objeto visto desde fuera), nunca sobre el yo qua interior. Esta restricción estructural explica por qué los espectros más graves del aparato (esquizofrenia, trastornos delirantes) no son 'fantasías sobre el interior' sino **ficciones sobre la autoimagen tomadas como reales** — el contenido patológico siempre se articula con clases externas (yo soy Superman; yo soy el Mesías; soy perseguido por agentes), nunca con vivencia puramente interior incomunicable.\n\n### Gradiente de explicitud: por qué la fantasía requiere clases externas\n\n> \"Todas las clases tienen un nivel de explicitud: las más externas son más explícitas, las más internas nunca serán explícitas,\"\n→ [La teoría de la teoría de la mente (1:50:00)](https://youtu.be/zASckAZqmfM?t=6600)\n\n> \"Estructuras super-meta como el yo únicamente pueden estar construidas con las clases más externas, obvias y explícitas,\"\n→ [La teoría de la teoría de la mente (1:50:00)](https://youtu.be/zASckAZqmfM?t=6600)\n\n> \"No se puede hacer fantasía sobre el interior porque sería imperceptible e invisible, no sería una vivencia,\"\n→ [La teoría de la teoría de la mente (1:50:00)](https://youtu.be/zASckAZqmfM?t=6600)\n\nLas clases cognitivas se ordenan en un **gradiente de explicitud** (de internas-implícitas a externas-explícitas), y las estructuras super-meta (yo, identidad, super-yo) solo se pueden construir con las clases más externas porque son las únicas suficientemente explícitas para sostener la operación metarrepresentacional. Una fantasía sobre el interior 'puro' carecería de soporte representacional explícito y por tanto no sería vivencia. Esta restricción es la fuente cognitiva del criterio operativo que la página articula como 'la fantasía siempre se refiere al interior del mundo' — la fantasía se refiere a un yo (interior del mundo del sujeto) pero usando exclusivamente clases externas (no al interior qua interior).\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "yo-ego-autoestima-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5106,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:25:06)](https://youtu.be/zASckAZqmfM?t=5106)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5136,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:25:36)](https://youtu.be/zASckAZqmfM?t=5136)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5287,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:28:07)](https://youtu.be/zASckAZqmfM?t=5287)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5540,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:32:20)](https://youtu.be/zASckAZqmfM?t=5540)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 5794,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:36:34)](https://youtu.be/zASckAZqmfM?t=5794)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 6600,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:50:00)](https://youtu.be/zASckAZqmfM?t=6600)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo al cuerpo leído. La página articula taxonomía recreativa→patológica de la fantasía pero no la inscribe en la función juego más amplia ni articula el criterio motivacional fantasía/mecanismo de defensa. Este vídeo añade: (a) fantasía como variante representacional del juego (vs juego conductual); (b) criterio motivacional recreación vs ansiedad como frontera juego/patología; (c) proyección fantástica vs ficticia como bisagra cualitativa al espectro psicótico; (d) narcisismo como caso de ficción tomada como real aplicada al super-yo (enlaza con yo-ego-autoestima); (e) restricción teleosemántica: el interior no admite fantasía explícita porque las clases son en-activas; (f) gradiente de explicitud como base cognitiva de la asimetría exterior/interior. Refuerza el corolario sobre la asimetría fantasía-interior que la página articulaba.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "galatea-modelo-protomente",
+      "update_type": "append_to_section",
+      "anchor_passage": null,
+      "section_target": "Citations",
+      "content_proposed": "- **La teoría de la teoría de la mente** — chunks: [1:46:27](https://youtu.be/zASckAZqmfM?t=6387) · [1:50:00](https://youtu.be/zASckAZqmfM?t=6600)",
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 6387,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:46:27)](https://youtu.be/zASckAZqmfM?t=6387)"
+        },
+        {
+          "video_id": "zASckAZqmfM",
+          "timestamp_seconds": 6600,
+          "cite_markdown": "[La teoría de la teoría de la mente (1:50:00)](https://youtu.be/zASckAZqmfM?t=6600)"
+        }
+      ],
+      "rationale": "Cita-only. El vídeo aporta una actualización breve sobre el estado del proyecto Galatea (uso de IA para sistematizar la teoría de la mente en pseudocódigo) y una pieza más amplia sobre clases prelingüísticas detectables vía modelos de IA, que enriquecen el campo de la página pero quedan articuladas en los updates mayores al cuerpo de psiquiatria-y-teoria-de-la-mente y yo-ego-autoestima. Citas añadidas al índice para retrieval indirecto.",
+      "editorial_intent": "enrich"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "tres componentes del pensamiento (imaginario/afectivo/formal) como evolutivas",
+      "reason_code": "already_captured",
+      "reason_detail": "La tríada 3Q y su jerarquía filogenética-ontogenética está extensamente documentada en teoria-del-simbolo-en-proxy ('Jerarquía ontogenética y filogenética de las tres componentes Q') y en algebra-afectiva. Este vídeo reafirma la articulación con vocabulario coherente — 'lo imaginario se perfeccionó mediante la percepción visual, los afectos mediante la experimentación somática, lo formal mediante el pensamiento abstracto' — sin añadir matiz nuevo.",
+      "quote_evidence": "Lo imaginario se perfeccionó mediante la percepción visual, los afectos mediante la experimentación somática de las emociones, y lo formal mediante el pensamiento puramente abstracto,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "ambiguación de clases cognitivas",
+      "reason_code": "already_captured",
+      "reason_detail": "La ambiguación como operación cognitiva nuclear que separa componentes 3Q fusionadas está documentada en teoria-del-simbolo-en-proxy. Este vídeo la menciona como pieza del marco sin desarrollo adicional.",
+      "quote_evidence": "Estas clases cognitivas que antes estaban fusionadas ahora se pueden separar gracias al proceso de ambiguación,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "Freud como filosofía analítica fallida (metáforas no sabidas)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Crítica a Freud como caso de coherencia errónea (metáforas que no se sabe metáforas, ficción que se desconoce como ficción). Capturada en la sección 'Tres criterios filosóficos' del update mayor a psiquiatria-y-teoria-de-la-mente como aplicación del criterio coherencia.",
+      "quote_evidence": "Freud utilizaba metáforas que no sabía que eran metáforas para describir procesos mentales que no podía observar empíricamente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "conductismo como filosofía autorreferente / circularidad",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Crítica al conductismo como circularidad irresoluble (conducta = aquello que estudia el conductismo) y poética disfrazada por extensión limitada. Capturada en la sección 'Tres criterios filosóficos' del update mayor a psiquiatria-y-teoria-de-la-mente como aplicación de los criterios extensión y coherencia.",
+      "quote_evidence": "El conductismo define conducta como aquello que estudia el conductismo, una circularidad irresoluble,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "empatía cognitiva vs afectiva (corrección terminológica)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Corrección terminológica del canal: la empatía es una sola función; lo que la divulgación llama empatía afectiva es simpatía. Capturada en la sección 'Teoría de la mente como función cognitiva' del update mayor a psiquiatria-y-teoria-de-la-mente. La distinción ya estaba en algebra-afectiva ('Empatía cognitiva vs simpatía como mecánicas proyectivas distintas') de manera más sumaria.",
+      "quote_evidence": "La distinción divulgativa entre \"empatía cognitiva\" y \"empatía afectiva\" es innecesaria: la empatía es una sola función; lo que les falta a los psicópatas es simpatía,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "psicopatía como minoración de empatía cognitiva (sin simpatía)",
+      "reason_code": "captured_in_promote_new",
+      "reason_detail": "Diagnóstico operativo de la psicopatía como disociación empatía/simpatía. Capturado en el update mayor a psiquiatria-y-teoria-de-la-mente. Conecta con la articulación de la psicopatía en algebra-afectiva (minoración de pánico/apego/deseo).",
+      "quote_evidence": "Los psicópatas tienen empatía cognitiva minorada porque la parte afectiva no les inhibe la conducta; saben cómo piensan los otros pero el sufrimiento ajeno no les afecta,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "cooperación lobos sin lenguaje verbal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Ejemplo etológico de cooperación animal compleja sin lenguaje verbal, invocado para refutar la tesis de que la comunicación funda la cooperación. Capturado en la sección 'Requisitos evolutivos' del update mayor. Pieza ilustrativa, no análisis sustantivo del comportamiento lobuno.",
+      "quote_evidence": "La comunicación no es fundamento de la cooperación: los lobos cooperan con jerarquías complejas sin comunicarse verbalmente; la cooperación está en los instintos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "psiquiatria-y-teoria-de-la-mente",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "proto-yo en perros (no metarrepresentan)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Ejemplo etológico para fundamentar la distinción yo / proto-yo: los perros tienen autoimagen no reflexiva pero no metarrepresentan. Capturado en sección 'El yo como metarrepresentación' del update a yo-ego-autoestima-en-proxy.",
+      "quote_evidence": "Los perros tienen un proto-yo pero no metarrepresentan, por eso no desarrollan personalidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "metáfora caja de herramientas / mesa",
+      "reason_code": "passing_mention",
+      "reason_detail": "Imagen pedagógica del speaker para articular que las clases cognitivas no pueden aplicarse sobre sí mismas. Capturada implícitamente en el principio de en-actividad en los updates a yo-ego-autoestima y anatomia-de-la-fantasia. Figura retórica, no concepto autónomo.",
+      "quote_evidence": "No puedes construir una mesa dentro de la caja de herramientas: las herramientas representacionales no pueden aplicarse sobre sí mismas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "qualia y afectos como intangibles del interior",
+      "reason_code": "already_captured",
+      "reason_detail": "La articulación qualia / afectos como elementos no-tangibles del interior está documentada extensamente en algebra-afectiva, teoria-del-simbolo-en-proxy y realismo-cognitivo. Este vídeo la invoca como pieza del marco para fundamentar la imposibilidad de fantasía explícita sobre el interior.",
+      "quote_evidence": "En la fantasía necesitas historia con forma-fondo; en el interno solo hay cosas intangibles como los qualia y los afectos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "teoria-del-simbolo-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "psicótico que cree ser Superman (ejemplo de ficción asumida)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Ejemplo ilustrativo de la transición fantasía → ficción asumida como real (cruce al espectro psicótico). Capturado en la sección 'Proyección fantástica vs ficticia' del update a anatomia-de-la-fantasia-y-sindrome-delirante.",
+      "quote_evidence": "La ficción puede ser una fantasía confabulada que se ha asumido como real, con consecuencias afectivas de realidad (ejemplo: un psicótico que cree ser Superman),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "anatomia-de-la-fantasia-y-sindrome-delirante",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "deber ser inconsciente / moral consciente",
+      "reason_code": "already_captured",
+      "reason_detail": "Distinción articulada en el vídeo 'Inteligencia Real e Inteligencia Artificial' (feb 2024) y capturada en golem-de-cobre (sección 'Masoquismo como contradicción del deber ser consciente e inconsciente'). Aquí el canal la invoca brevemente como pieza del marco super-yo / ficciones proyectadas, capturada en el update a yo-ego-autoestima.",
+      "quote_evidence": "El super-yo es una identidad proyectada: \"no soy así, pero quiero ser así\" (deber ser),",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "yo-ego-autoestima-en-proxy",
+      "recommended_reference_payload": null
+    },
+    {
+      "surface_form": "primeros 48 minutos del vídeo no incluidos en summary",
+      "reason_code": "meta_canal",
+      "reason_detail": "El summary comienza en 48:06 sin que se haya extraído el contenido de los primeros 48 minutos. No procede emitir entidades sobre material no presente en el summary. Si el procesamiento futuro genera summary completo del vídeo, se reabrirá esta extracción.",
+      "quote_evidence": "48:06 🧠 Teoría de la mente: dos acepciones distintas del mismo término",
+      "review_priority": "medium",
+      "review_priority_reason": "Vigilar: los primeros 48 min del vídeo pueden contener material adicional sobre teoría de la mente, filosofía analítica vs continental u otros temas que enriquecerían los updates. Si el summary se regenera completo, reabrir extracción para los segmentos 00:00-48:06.",
+      "enriches_concept": null,
+      "recommended_reference_payload": null
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 4,
+    "promoted_new": 0,
+    "promoted_updates": 5,
+    "thesis_candidates_count": 0,
+    "discarded_count": 13,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}
