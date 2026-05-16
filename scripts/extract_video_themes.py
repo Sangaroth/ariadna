@@ -3414,6 +3414,63 @@ def aggregate(run_id: str) -> None:
     print(json.dumps(stats, indent=2, ensure_ascii=False), file=sys.stderr)
     print(f"\nAggregation written to {run_dir}/", file=sys.stderr)
 
+    # Pasada 1 — Scan retroactivo automático: aplica menciones débiles
+    # recuperables de JSONs históricos a citations de pages existentes
+    # (passing_mention, out_of_scope_figure, etc. que matchean por SUB-STRING
+    # con aliases declarados). Rápido, free, alto recall en exact matches.
+    print("\nPasada 1: retroactive mentions scan (sub-string)...", file=sys.stderr)
+    try:
+        from scan_mentions_ledger import cmd_audit_all  # lazy import (ciclo)
+        cmd_audit_all(apply=True, corpus_root=DEFAULT_CORPUS, min_findings=1)
+    except Exception as e:
+        print(f"Pasada 1 failed (non-fatal): {e}", file=sys.stderr)
+
+    # Pasada 2 — Semantic recovery: embedding cosine + LLM judge sobre los
+    # discarded que la pasada 1 NO captura (variantes lingüísticas no
+    # declaradas como alias). Cache JSON evita re-evaluar pares ya juzgados.
+    # Auto-enrichment de aliases: cada match high-confidence se cristaliza
+    # como alias estructural → próximas pasada 1 lo capturan sin LLM.
+    print("\nPasada 2: semantic recovery (embedding + LLM judge)...", file=sys.stderr)
+    try:
+        from ariadna.semantic_recovery import run_semantic_recovery  # lazy
+        sr_stats = run_semantic_recovery(
+            corpus_root=DEFAULT_CORPUS,
+            apply=True,
+            top_k=5,
+            min_cosine=0.60,  # threshold conservador: precision > recall
+        )
+        print(f"  semantic recovery stats: {sr_stats}", file=sys.stderr)
+    except Exception as e:
+        print(f"Pasada 2 failed (non-fatal): {e}", file=sys.stderr)
+
+    # Commit final del run: aggregator outputs (tracked) + citations
+    # retroactivas aplicadas. Antes nadie commiteaba estos cambios al cierre,
+    # quedaban como deuda manual.
+    try:
+        subprocess.run(
+            ["git", "add", str(run_dir), "wiki/"],
+            cwd=REPO, check=True, capture_output=True,
+        )
+        diff_check = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"],
+            cwd=REPO, capture_output=True,
+        )
+        if diff_check.returncode != 0:
+            msg = (
+                f"chore(wiki): aggregate + retroactive scan for run {run_id}\n\n"
+                f"Aggregator outputs + citations retroactivas aplicadas desde\n"
+                f"JSONs históricos vía scan_mentions_ledger --audit-all.\n"
+            )
+            subprocess.run(
+                ["git", "commit", "-m", msg],
+                cwd=REPO, check=True, capture_output=True,
+            )
+            print("committed: aggregator outputs + retroactive citations", file=sys.stderr)
+        else:
+            print("no changes to commit (aggregator + scan idempotent)", file=sys.stderr)
+    except Exception as e:
+        print(f"final aggregate commit failed (non-fatal): {e}", file=sys.stderr)
+
 
 def compute_review_priority(entry: dict) -> tuple[str, Optional[str]]:
     """Disparadores de scope.md §6 + criterios definidos en discusión 2026-05-02."""
