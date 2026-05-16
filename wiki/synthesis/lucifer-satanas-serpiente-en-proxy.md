@@ -191,5 +191,7 @@ Esta tesis opera como fundamento canónico de varios análisis del canal:
 
 
 
+
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [11:49](https://youtu.be/dHDv_oZODYQ?t=709) · [1:32:58](https://youtu.be/dHDv_oZODYQ?t=5578)
+- **Rabia narcisista e iconotropías mitológicas: Lilith, Hermes, Lucifer.** — chunks: [41:38](https://youtu.be/4P5hxaG7i6c?t=2498)
 

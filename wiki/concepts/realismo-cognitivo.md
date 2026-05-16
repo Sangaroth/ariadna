@@ -7,6 +7,7 @@ aliases:
 - realismo-cognitivo
 - realismo cognitivo (canal Proxy)
 - cognitive realism
+- mentalismo puro
 domain_primary: interdisciplinary.cognitive_science
 primary_domains:
 - interdisciplinary.cognitive_science
@@ -1062,6 +1063,10 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 
 
 
+
+
+
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
@@ -1076,7 +1081,6 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 - **Psicología 101: Materialismo, pensamiento y Enric, de @AdictosalaFilosofía** — chunks: [29:23](https://youtu.be/cSj--O7RSPo?t=1763) · [48:06](https://youtu.be/cSj--O7RSPo?t=2886) · [1:52:28](https://youtu.be/cSj--O7RSPo?t=6748) · [2:06:28](https://youtu.be/cSj--O7RSPo?t=7588) · [2:12:32](https://youtu.be/cSj--O7RSPo?t=7952)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [13:52](https://youtu.be/-daRyQwnZy0?t=832) · [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
 - **Tremendo lunes** — chunks: [1:35:02](https://youtu.be/0YABTLJ-lFY?t=5702)
-- **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
 
 
 - **El papel de la psicología en la ciencia médica. Del psicoanálisis a la neurología.** — chunks: [49:41](https://youtu.be/cbdLR0HTE3w?t=2981) · [1:02:47](https://youtu.be/cbdLR0HTE3w?t=3767) · [2:01:28](https://youtu.be/cbdLR0HTE3w?t=7288) · [2:08:04](https://youtu.be/cbdLR0HTE3w?t=7684)
@@ -1091,12 +1095,14 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 - **Laboratorio de teoría de la mente en biología** — chunks: [20:22](https://youtu.be/i_mVTgnbwHA?t=1222) · [28:28](https://youtu.be/i_mVTgnbwHA?t=1708) · [1:14:19](https://youtu.be/i_mVTgnbwHA?t=4459)
 - **Las piezas que faltan** — chunks: [1:56:17](https://youtu.be/DAW1HiYxnVk?t=6977)
 - **Lo de la Gata, y qué es este canal.** — chunks: [1:06:21](https://youtu.be/aVhd0l1rpqY?t=3981)
-- **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
-- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [55:00](https://youtu.be/eQpPGGqodsU?t=3300) · [1:28:23](https://youtu.be/eQpPGGqodsU?t=5303)
 - **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [31:43](https://youtu.be/hqXmKZ77TEQ?t=1903) · [38:58](https://youtu.be/hqXmKZ77TEQ?t=2338) · [1:04:17](https://youtu.be/hqXmKZ77TEQ?t=3857)
 - **Magia, superstición y Religión** — chunks: [55:45](https://youtu.be/IbOb3peBSMs?t=3345)
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [7:44](https://youtu.be/O4OkDuc3uPQ?t=464)
 - **Cuento contigo (resub)** — chunks: [6:39](https://youtu.be/6oOGKh2TRHE?t=399) · [9:12](https://youtu.be/6oOGKh2TRHE?t=552)
 - **Filosofía contra la poética. ¿Qué es un símbolo? Parte I** — chunks: [0:00](https://youtu.be/K7MAqw1q3dk?t=0) · [7:33](https://youtu.be/K7MAqw1q3dk?t=453) · [10:50](https://youtu.be/K7MAqw1q3dk?t=650) · [21:14](https://youtu.be/K7MAqw1q3dk?t=1274) · [45:12](https://youtu.be/K7MAqw1q3dk?t=2712) · [47:15](https://youtu.be/K7MAqw1q3dk?t=2835)
+- **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
+- **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
+- **T4 Laboratorio de... filo, con Sofía** — chunks: [35:28](https://youtu.be/GizCbTycY4U?t=2128)
+- **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
 

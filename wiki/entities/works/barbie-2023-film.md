@@ -7,6 +7,7 @@ aliases:
 - Barbie Gerwig
 - Barbie película
 - Barbie film
+- Barbie
 year: 2023
 studio_or_publisher: Warner Bros. Pictures
 medium: film
@@ -249,6 +250,8 @@ Los pies planos, la leche agria y el monolito de *2001: A Space Odyssey* operan 
 
 
 
+
 - **Análisis La Llegada, (Parte uno, introducción)** — chunks: [12:42](https://youtu.be/aPbgBnidoJI?t=762)
 - **No entendiste Barbie. Análisis arquetípico de Barbie** — chunks: [2:33](https://youtu.be/CEa517aakr8?t=153) · [6:36](https://youtu.be/CEa517aakr8?t=396) · [12:39](https://youtu.be/CEa517aakr8?t=759) · [16:11](https://youtu.be/CEa517aakr8?t=971) · [18:43](https://youtu.be/CEa517aakr8?t=1123) · [23:16](https://youtu.be/CEa517aakr8?t=1396) · [50:02](https://youtu.be/CEa517aakr8?t=3002) · [54:04](https://youtu.be/CEa517aakr8?t=3244) · [1:17:47](https://youtu.be/CEa517aakr8?t=4667) · [1:22:21](https://youtu.be/CEa517aakr8?t=4941) · [1:24:52](https://youtu.be/CEa517aakr8?t=5092) · [1:45:06](https://youtu.be/CEa517aakr8?t=6306) · [2:03:52](https://youtu.be/CEa517aakr8?t=7432) · [2:11:24](https://youtu.be/CEa517aakr8?t=7884) · [2:18:29](https://youtu.be/CEa517aakr8?t=8309) · [2:25:15](https://youtu.be/CEa517aakr8?t=8715) · [2:26:17](https://youtu.be/CEa517aakr8?t=8777)
+- **Análisis arquetípico Scott Pilgrim** — chunks: [0:30](https://youtu.be/X2c2a3mQBOs?t=30)
 

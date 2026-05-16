@@ -8,6 +8,7 @@ aliases:
 - tarot arquetipico
 - arcanos del tarot
 - lectura arquetipica del tarot
+- Tarot Rider-Waite
 domain_primary: humanities.religion
 primary_domains:
 - humanities.religion
@@ -368,7 +369,8 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 
 
 
-- **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
+
+
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [4:33](https://youtu.be/UZPjezFUrA0?t=273)
 - **Autodidáctica** — chunks: [1:38:05](https://youtu.be/tgP5_AvAnD8?t=5885)
 - **Derecho internacional, Lilith, y travestismo en la transexualidad. El Caso de Búffalo Bill** — chunks: [1:45:47](https://youtu.be/_0BM2jMsWdc?t=6347)
@@ -383,7 +385,6 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **En el Tiempo de los Sueños: Análisis Arquetípico de La Sirenita** — chunks: [4:15](https://youtu.be/8l__TS3ATNY?t=255) · [49:26](https://youtu.be/8l__TS3ATNY?t=2966)
 - **Enredados: Análisis de la madre oscura en Disney.** — chunks: [48:00](https://youtu.be/OT2DW4zoKsE?t=2880) · [1:39:01](https://youtu.be/OT2DW4zoKsE?t=5941)
 - **Event Horizon** — chunks: [34:56](https://youtu.be/cgO7JwvwOQg?t=2096)
-- **Matrix y el camino del héroe.** — chunks: [25:52](https://youtu.be/kF5KHE_fF7g?t=1552) · [38:32](https://youtu.be/kF5KHE_fF7g?t=2312) · [44:11](https://youtu.be/kF5KHE_fF7g?t=2651) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [23:27](https://youtu.be/NjtK76xzV18?t=1407)
 - **Directo casual** — chunks: [44:46](https://youtu.be/ECN5C9rsaZg?t=2686)
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:34:59](https://youtu.be/t8v5w3s0USA?t=5699)
@@ -404,4 +405,6 @@ El mito del mago propiamente abarca el cuadrante activo mágico — el procedimi
 - **Mitología 101: Perséfone** — chunks: [8:05](https://youtu.be/VDOUrpcC4fU?t=485) · [27:47](https://youtu.be/VDOUrpcC4fU?t=1667) · [51:41](https://youtu.be/VDOUrpcC4fU?t=3101) · [1:09:27](https://youtu.be/VDOUrpcC4fU?t=4167)
 - **Orfeo y Eurídice** — chunks: [1:03:37](https://youtu.be/1D0u-tK4v8c?t=3817)
 - **De Platón A The Matrix** — chunks: [10:39](https://youtu.be/zr_ZKX60N54?t=639)
+- **Matrix y el camino del héroe.** — chunks: [25:52](https://youtu.be/kF5KHE_fF7g?t=1552) · [38:32](https://youtu.be/kF5KHE_fF7g?t=2312) · [44:11](https://youtu.be/kF5KHE_fF7g?t=2651) · [55:55](https://youtu.be/kF5KHE_fF7g?t=3355)
+- **Biblioteca de Babel II** — chunks: [15:30](https://youtu.be/IytpR6sGWXg?t=930) · [17:01](https://youtu.be/IytpR6sGWXg?t=1021) · [19:32](https://youtu.be/IytpR6sGWXg?t=1172)
 

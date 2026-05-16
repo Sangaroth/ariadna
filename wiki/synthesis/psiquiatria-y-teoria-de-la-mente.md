@@ -13,6 +13,7 @@ aliases:
 - critica al hombre de paja antipsiquiatrico
 - antipsiquiatria conductista en proxy
 - cerebrocentrismo psiquiatrico
+- medicalización del aburrimiento
 domain_primary: humanities.philosophy
 primary_domains:
 - humanities.philosophy
@@ -260,5 +261,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minut
 
 
 
+
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [1:36:27](https://youtu.be/4LBXNkVAUCU?t=5787)
+- **La enfermedad del aburrimiento.** — chunks: [53:29](https://youtu.be/ifKRYGlHwuk?t=3209)
 

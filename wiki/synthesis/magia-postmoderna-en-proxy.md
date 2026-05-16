@@ -695,10 +695,11 @@ La precisión opera en dos direcciones: define el ocultismo por su **objeto** (p
 
 
 
+
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [39:56](https://youtu.be/9U6CwqPMI3c?t=2396)
-- **What is a Charo?** — chunks: [2:36:43](https://youtu.be/qMfv4dX09Lg?t=9403)
 - **Psicología 101: Qué es un viaje astral.** — chunks: [22:14](https://youtu.be/fDr6XqABtQQ?t=1334)
 - **Directo casual** — chunks: [24:19](https://youtu.be/ECN5C9rsaZg?t=1459)
 - **Los Apocalipsis. (Parte I)** — chunks: [1:54:41](https://youtu.be/lLRGemLUCtY?t=6881)
 - **Magia, superstición y Religión** — chunks: [54:44](https://youtu.be/IbOb3peBSMs?t=3284)
+- **What is a Charo?** — chunks: [2:36:43](https://youtu.be/qMfv4dX09Lg?t=9403)
 

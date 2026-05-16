@@ -597,6 +597,7 @@ La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo 
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [3:31](https://youtu.be/3Jo2T73pOEs?t=211) · [8:41](https://youtu.be/3Jo2T73pOEs?t=521)
 - **Análisis arquetípico de Drácula, de Bram Stoker** — chunks: [32:35](https://youtu.be/JmCqIk6NDsM?t=1955) · [36:37](https://youtu.be/JmCqIk6NDsM?t=2197) · [3:00:58](https://youtu.be/JmCqIk6NDsM?t=10858)
 - **Fenomenología Trans** — chunks: [13:05](https://youtu.be/grs5EqRZBnQ?t=785)
@@ -605,7 +606,6 @@ La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo 
 
 - **Análisis arquetípico Frozen** — chunks: [2:13:35](https://youtu.be/NYZEm8mcPiQ?t=8015)
 - **Análisis arquetípico Scott Pilgrim** — chunks: [3:31](https://youtu.be/X2c2a3mQBOs?t=211) · [4:31](https://youtu.be/X2c2a3mQBOs?t=271) · [7:34](https://youtu.be/X2c2a3mQBOs?t=454)
-- **Consultorio EXIT INSIDE** — chunks: [46:38](https://youtu.be/IP9f-1gSJ1c?t=2798)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:28:36](https://youtu.be/UOk344kEeRM?t=5316)
 - **Análisis arquetípico de atrapado en el tiempo.** — chunks: [42:12](https://youtu.be/DwmV3c9-Xi0?t=2532)
 - **Análisis arquetípico de Inocencia interrumpida** — chunks: [30:42](https://youtu.be/imHdHmF1Afk?t=1842)
@@ -613,4 +613,5 @@ La distinción inocencia/ingenuidad es operativa: Cenicienta NO conoce el mundo 
 - **Caperucita Roja: ¿A quién tienes miedo?** — chunks: [1:00:51](https://youtu.be/fzEDQZIqKwg?t=3651)
 - **RESUB: Cenicienta, el Mito Lunar en Disney (I)** — chunks: [33:39](https://youtu.be/iPqOn-ynSlE?t=2019)
 - **Cerebros rosas y azules** — chunks: [1:54:26](https://youtu.be/x7A9nfoRfu0?t=6866)
+- **Consultorio EXIT INSIDE** — chunks: [46:38](https://youtu.be/IP9f-1gSJ1c?t=2798)
 

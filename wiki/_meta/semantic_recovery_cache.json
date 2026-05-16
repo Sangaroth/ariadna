@@ -1,1 +1,1424 @@
-{}
+{
+  "6c86d264b7d6022b:71c3d6394c0cad11": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Las candidatas cubren realismo cognitivo, IIT/conciencia, álgebra afectiva y entidades no relacionadas; 'penetrabilidad cognitiva' es un concepto técnico de filosofía de la percepción (Pylyshyn) que no equivale semánticamente a ninguna de ellas — la co-ocurrencia temática con 'conciencia' o 'cognitivo' no basta para match.",
+    "analyzed_at": "2026-05-16T06:17:04.590940+00:00",
+    "candidates_signature": "71c3d6394c0cad11",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "681b6a8b5dd3def1:046b93339112c268": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención nombra un marco terapéutico estándar externo (TCC) usado como ejemplo dentro de un paquete de tratamiento; ninguna candidata representa ese concepto ni lo integra como tema propio.",
+    "analyzed_at": "2026-05-16T06:17:11.318531+00:00",
+    "candidates_signature": "046b93339112c268",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "dbcc7d97384a52da:d3d76d5c879753ed": {
+    "match_page_id": "padre-oscuro-en-proxy",
+    "confidence": "medium",
+    "rationale": "'padre arquetípico' es el concepto junguiano genérico del que 'padre oscuro' es la variante elaborada por Proxy; hay solapamiento semántico real pero no equivalencia directa.",
+    "analyzed_at": "2026-05-16T06:17:17.916262+00:00",
+    "candidates_signature": "d3d76d5c879753ed",
+    "alias_candidate": "padre arquetípico",
+    "alias_exists": false
+  },
+  "3334a43b250d018e:fd3a49bb0064778e": {
+    "match_page_id": "madre-oscura-en-proxy",
+    "confidence": "medium",
+    "rationale": "'madre arquetípica' es la forma positiva/genérica del concepto cuya cara clínico-sombra es 'la madre oscura'; la página sintetiza esa tipología arquetípica femenina en el corpus Proxy, lo que la hace el match más próximo aunque no sean estrictamente sinónimos.",
+    "analyzed_at": "2026-05-16T06:17:24.424302+00:00",
+    "candidates_signature": "fd3a49bb0064778e",
+    "alias_candidate": "madre arquetípica",
+    "alias_exists": false
+  },
+  "5b2a272a4e4e9737:17262a421fb6a3ec": {
+    "match_page_id": "psicoinfluencers-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención critica la degradación terminológica psicológica en divulgación popular y la ausencia de rigor filosófico-conceptual, solapándose parcialmente con la crítica del canal a los psicoinfluencers y al conductismo divulgativo; el match no es pleno porque el foco de la mención es epistemológico-formativo, no específicamente sobre influencers.",
+    "analyzed_at": "2026-05-16T06:17:30.375872+00:00",
+    "candidates_signature": "17262a421fb6a3ec",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "9dc3589cccc76b5e:7616a5ea3708aa44": {
+    "match_page_id": "yo-ego-autoestima-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención desarrolla explícitamente conceptos de la taxonomía ego/autoestima aplicados al trastorno histriónico, y el reason_detail la etiqueta directamente como 'sub-pieza para yo-ego-autoestima-en-proxy'.",
+    "analyzed_at": "2026-05-16T06:17:38.229489+00:00",
+    "candidates_signature": "7616a5ea3708aa44",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "987199a408aff071:a53bd5af8a1c4328": {
+    "match_page_id": "mito-lunar",
+    "confidence": "medium",
+    "rationale": "La mención incluye 'números lunares' (7/9/12) como subcategoría, lo que apunta a 'mito lunar' como candidata más relevante; sin embargo, el surface_form es principalmente sobre simbolismo numérico general, no sobre el mito lunar como tal.",
+    "analyzed_at": "2026-05-16T06:17:45.203246+00:00",
+    "candidates_signature": "a53bd5af8a1c4328",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b9214d25cc598296:732f0ea708784a39": {
+    "match_page_id": "diagrama-de-proxy",
+    "confidence": "medium",
+    "rationale": "La mención tematiza directamente que la adherencia a ideas políticas es función de la personalidad (no la razón) y que desprenderse de esas estructuras es difícil — esto corresponde al sustrato genético/neuropsicológico de las convicciones que articula el Diagrama de Proxy, aunque el ángulo del superyó como filtro no es subcadena canónica extraíble.",
+    "analyzed_at": "2026-05-16T06:17:50.534828+00:00",
+    "candidates_signature": "732f0ea708784a39",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "a6e039e77cd423d0:d0c20d0734c0bfdf": {
+    "match_page_id": "mito-moderno-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención tematiza el 'mito del héroe' como necesidad existencial bloqueada por la cultura moderna, lo que solapa conceptualmente con la página sobre el mito moderno según el canal; sin embargo, el foco concreto (vacío existencial + identidad prefabricada por la PSOE) es más aplicado que la página síntesis general.",
+    "analyzed_at": "2026-05-16T06:17:57.268608+00:00",
+    "candidates_signature": "d0c20d0734c0bfdf",
+    "alias_candidate": "mito del héroe",
+    "alias_exists": false
+  },
+  "6eb242aa3dfa72dc:4cd0b66fc8148ab8": {
+    "match_page_id": "magia-postmoderna-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención trata explícitamente la magia New Age y psicomagia como fenómenos postmodernos analizados bajo la lente del canal Proxy, coincidencia directa con la página de síntesis.",
+    "analyzed_at": "2026-05-16T06:18:03.778429+00:00",
+    "candidates_signature": "4cd0b66fc8148ab8",
+    "alias_candidate": "magia postmoderna",
+    "alias_exists": false
+  },
+  "c5ecc106c87151e6:60570ffafbc76b0d": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención articula una tesis política sobre conflictos inter-imperiales mediados por decisión de gobernantes; ninguna de las cinco candidatas (demonología, lenguaje, memoria, tabú, símbolo/mente) cubre geopolítica o dialéctica de poder imperial — la co-ocurrencia temática con 'Proxy' es nominal, no semántica.",
+    "analyzed_at": "2026-05-16T06:18:13.072534+00:00",
+    "candidates_signature": "60570ffafbc76b0d",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "88db07cbdf9cf573:104eed77cc71d3e7": {
+    "match_page_id": "sofisma-estetico",
+    "confidence": "high",
+    "rationale": "La mención nombra directamente 'sofisma estético' como concepto, que es exactamente el canonical_name de la candidata.",
+    "analyzed_at": "2026-05-16T06:18:20.951446+00:00",
+    "candidates_signature": "104eed77cc71d3e7",
+    "alias_candidate": "sofisma estético",
+    "alias_exists": true
+  },
+  "e127db16b9a5d4bf:3e512f2325156c75": {
+    "match_page_id": "herida-narcisista-en-proxy",
+    "confidence": "high",
+    "rationale": "La surface_form define explícitamente 'endofobia' como 'herida narcisista', mapeando directamente al concepto central de esa página.",
+    "analyzed_at": "2026-05-16T06:18:25.446744+00:00",
+    "candidates_signature": "3e512f2325156c75",
+    "alias_candidate": "endofobia",
+    "alias_exists": false
+  },
+  "0f4c50e6c6cf8b2e:924461e5ae94e444": {
+    "match_page_id": "camino-victima",
+    "confidence": "medium",
+    "rationale": "La mención describe el mecanismo de arrogarse sufrimiento ajeno como fundamento reivindicativo, que es el núcleo conceptual del camino de la víctima, aunque el ángulo es su instrumentalización política colectiva más que el recorrido individual.",
+    "analyzed_at": "2026-05-16T06:18:30.250242+00:00",
+    "candidates_signature": "924461e5ae94e444",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "49bde1b9b9e85dd7:d6aef4d8139a6bad": {
+    "match_page_id": "herida-narcisista-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención tematiza explícitamente el uso político de la herida narcisista como instrumento de movilización, que es el concepto central de la página candidata #1.",
+    "analyzed_at": "2026-05-16T06:18:37.138410+00:00",
+    "candidates_signature": "d6aef4d8139a6bad",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "d4471090076825f5:d5eb6db6b767c2c8": {
+    "match_page_id": "golem-de-cobre",
+    "confidence": "high",
+    "rationale": "La mención tematiza las alucinaciones LLM como defecto sistémico ligado a la interpretación/razonamiento, argumento que encaja directamente en la crítica al estatuto cognitivo de la IA que documenta golem-de-cobre; el reason_detail lo confirma explícitamente.",
+    "analyzed_at": "2026-05-16T06:18:45.270029+00:00",
+    "candidates_signature": "d5eb6db6b767c2c8",
+    "alias_candidate": "alucinaciones LLM",
+    "alias_exists": false
+  },
+  "5869e534414a0022:9ce001f1b211dd29": {
+    "match_page_id": "alostasis-y-apagon-organico",
+    "confidence": "high",
+    "rationale": "La mención desarrolla directamente la tesis de que el cuerpo/yo se mueve por carencia (conflicto, sufrimiento) y que la desensibilización al bienestar produce depresión, lo cual es el núcleo conceptual de 'Alostasis y apagón orgánico'; el propio reason_detail lo vincula explícitamente.",
+    "analyzed_at": "2026-05-16T06:18:51.277132+00:00",
+    "candidates_signature": "9ce001f1b211dd29",
+    "alias_candidate": "alostasis",
+    "alias_exists": false
+  },
+  "5c895be3851023af:f6ca511d5c0bcf85": {
+    "match_page_id": "herida-narcisista-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención articula explícitamente la herida narcisista como motor mecanístico (necesita que el machismo sea aprendido para proyectar culpa externa), que es el concepto nuclear de la página candidata.",
+    "analyzed_at": "2026-05-16T06:18:58.004656+00:00",
+    "candidates_signature": "f6ca511d5c0bcf85",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "be78d9de95d44a8d:bc0f8b17268db221": {
+    "match_page_id": "sindrome-wendy",
+    "confidence": "high",
+    "rationale": "La mención aplica el síndrome de Wendy al contexto del ligue, usando su mecanismo central (confundir experiencias pasadas con preferencias actuales); es un uso del concepto, no una elevación nueva.",
+    "analyzed_at": "2026-05-16T06:19:07.252009+00:00",
+    "candidates_signature": "bc0f8b17268db221",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b7b048df1da6da88:364dc621e66ce36e": {
+    "match_page_id": "sofisma-estetico",
+    "confidence": "high",
+    "rationale": "La mención cita textualmente la definición del sofisma estético y lo aplica a narrativas políticas; el concepto nuclear es sofisma estético, que es exactamente el canonical_name de la página.",
+    "analyzed_at": "2026-05-16T06:19:12.815943+00:00",
+    "candidates_signature": "364dc621e66ce36e",
+    "alias_candidate": "sofisma estético",
+    "alias_exists": true
+  },
+  "0676a123832e163d:9b2e20d2ca4a0476": {
+    "match_page_id": "herida-narcisista-en-proxy",
+    "confidence": "high",
+    "rationale": "La surface_form nombra explícitamente 'herida narcisista' como concepto diferenciado del trastorno narcisista, referencia directa a la página candidata #1.",
+    "analyzed_at": "2026-05-16T06:19:20.689428+00:00",
+    "candidates_signature": "9b2e20d2ca4a0476",
+    "alias_candidate": "herida narcisista",
+    "alias_exists": false
+  },
+  "6afe3bda7bea0899:cb7bf2f71885b80b": {
+    "match_page_id": "inside-out-2015-film",
+    "confidence": "high",
+    "rationale": "La mención 'Inside Out (Pixar)' se refiere inequívocamente a la película Inside Out de 2015, no a la secuela de 2024; el surface_form incluye el nombre exacto sin indicación de secuela.",
+    "analyzed_at": "2026-05-16T06:19:25.719158+00:00",
+    "candidates_signature": "cb7bf2f71885b80b",
+    "alias_candidate": "Inside Out",
+    "alias_exists": false
+  },
+  "e0a3642099ffc814:c16fd0027db92b75": {
+    "match_page_id": "padre-oscuro-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención trata el arquetipo paterno (figura paterna, fuego, instinto, voluntad) que solapa con el concepto de 'Padre oscuro (arquetipo)', aunque la mención enfatiza la dimensión generativa/teleológica más que la sombra; el match es probable pero la página candidata puede cubrir solo la variante oscura.",
+    "analyzed_at": "2026-05-16T06:19:30.863908+00:00",
+    "candidates_signature": "c16fd0027db92b75",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "27776e62a641671a:a2c503d55f53fe6e": {
+    "match_page_id": "teoria-de-las-emociones-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención describe explícitamente el mecanismo de conversión afecto→emoción vía traducción somática, que es contenido central de la Teoría de las emociones en Proxy.",
+    "analyzed_at": "2026-05-16T06:19:38.012516+00:00",
+    "candidates_signature": "a2c503d55f53fe6e",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "aa857b900902ef86:2ea8ac0f9790171b": {
+    "match_page_id": "barbie-2023-film",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente 'Barbie (2023)' como obra cinematográfica analizada en el corpus, coincidiendo directamente con la candidata barbie-2023-film (Barbie, Greta Gerwig, 2023).",
+    "analyzed_at": "2026-05-16T06:19:44.079854+00:00",
+    "candidates_signature": "2ea8ac0f9790171b",
+    "alias_candidate": "Barbie",
+    "alias_exists": false
+  },
+  "3cc592804b459ec9:64f7765bc50a6eb0": {
+    "match_page_id": "ghost-in-the-shell-sac",
+    "confidence": "medium",
+    "rationale": "La mención refiere a 'Ghost in the Shell' genéricamente; la única candidata de esa franquicia es la serie SAC, que es una variante de la misma obra —match plausible pero no exacto al no especificar qué entrada de la franquicia.",
+    "analyzed_at": "2026-05-16T06:19:52.080465+00:00",
+    "candidates_signature": "64f7765bc50a6eb0",
+    "alias_candidate": "Ghost in the Shell",
+    "alias_exists": false
+  },
+  "a9dd472014754d2f:0411a16e419283f7": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe síntomas psiquiátricos mezclados de un personaje de ficción (lore narrativo) sin análisis clínico aplicado; ninguna candidata cubre psicopatología narrativa no analizada, y 'trastorno mental' como descriptor genérico no equivale semánticamente a TLP, excisión psicológica, trauma, herida narcisista ni camino de la víctima.",
+    "analyzed_at": "2026-05-16T06:19:58.339088+00:00",
+    "candidates_signature": "0411a16e419283f7",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "5e7862772cf569fc:9622e2cee91e7157": {
+    "match_page_id": "rapto-perseofne-mito",
+    "confidence": "low",
+    "rationale": "Hades aparece como figura mitológica griega y la candidata más cercana es el mito del Rapto de Perséfone (donde Hades es protagonista), pero la mención no se refiere a ese mito sino al rol funcional de Hades como arquetipo; la co-ocurrencia temática no constituye equivalencia semántica.",
+    "analyzed_at": "2026-05-16T06:20:04.467067+00:00",
+    "candidates_signature": "9622e2cee91e7157",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "a5cbd14bd3896158:5b312677527f7506": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Werner Herzog es un director de cine; ninguna de las cinco candidatas (Jung, Freud, Borges, Asimov, Clarke) guarda relación semántica con él más allá de la co-ocurrencia temática genérica de 'autor'.",
+    "analyzed_at": "2026-05-16T06:20:10.698759+00:00",
+    "candidates_signature": "5b312677527f7506",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "67dc1451630774c0:1b27e4b88044e13f": {
+    "match_page_id": "mito-del-mago",
+    "confidence": "high",
+    "rationale": "La surface_form nombra explícitamente 'mito del mago' como categoría de los mitos de transición, referencia directa a la página candidata.",
+    "analyzed_at": "2026-05-16T06:20:15.930472+00:00",
+    "candidates_signature": "1b27e4b88044e13f",
+    "alias_candidate": "mito del mago",
+    "alias_exists": true
+  },
+  "b6716a2ff7f858f7:e7b4a24b25dcce9b": {
+    "match_page_id": "amor-cortes-y-monogamia-civilizatoria",
+    "confidence": "high",
+    "rationale": "La mención trata exactamente la tesis central de esa página: por qué la monogamia civilizatoria triunfa sobre la poligamia en términos de éxito reproductivo masculino distribuido.",
+    "analyzed_at": "2026-05-16T06:20:24.794427+00:00",
+    "candidates_signature": "e7b4a24b25dcce9b",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "9a0d17ce2182380e:bf81b30a8a9cf33f": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención nombra el Síndrome de Peter Pan como concepto propio, pero ninguna candidata lo recoge: 'sindrome-wendy' es un síndrome distinto (co-ocurrencia temática, no equivalencia), 'peter-pan-1953-film' es la obra fílmica (entidad, no el síndrome psicológico), y las demás candidatas no guardan equivalencia semántica directa.",
+    "analyzed_at": "2026-05-16T06:20:30.246571+00:00",
+    "candidates_signature": "bf81b30a8a9cf33f",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "f7141debfcbdb460:0f859d7db4ab43b5": {
+    "match_page_id": "alien-saga",
+    "confidence": "high",
+    "rationale": "La mención nombra directamente la obra 'Alien' como referencia comparativa; el surface_form es literalmente el nombre canónico de la saga.",
+    "analyzed_at": "2026-05-16T06:20:36.839078+00:00",
+    "candidates_signature": "0f859d7db4ab43b5",
+    "alias_candidate": "Alien",
+    "alias_exists": false
+  },
+  "8e2e11745d9b0e3a:edf5836ca3d6e956": {
+    "match_page_id": "golem-arquetipo",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente al 'gólem' como figura mítica de la conjunción vida/muerte, lo que corresponde directamente al arquetipo del hijo imperfecto, no a la página de cognición/IA.",
+    "analyzed_at": "2026-05-16T06:20:41.537243+00:00",
+    "candidates_signature": "edf5836ca3d6e956",
+    "alias_candidate": "Gólem",
+    "alias_exists": false
+  },
+  "aecf4b3d376d248e:8079b00306f2136b": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Ninguna candidata (gnosticismo, feminidad fundamental, realismo cognitivo, materialismo antiformalista, satanismo) es semánticamente equivalente a 'fundamentalismo religioso'; la co-ocurrencia temática religiosa no constituye match.",
+    "analyzed_at": "2026-05-16T06:20:47.220785+00:00",
+    "candidates_signature": "8079b00306f2136b",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "a3b84ff762e46b48:0bcf43eca6fc5e62": {
+    "match_page_id": "woke-narrativa-postmoderna-moral",
+    "confidence": "medium",
+    "rationale": "La mención alude a la posmodernidad como marco ideológico crítico-destructivo, lo que coincide parcialmente con 'Woke (narrativa postmoderna moral)', que también trata la posmodernidad como narrativa ideológica; sin embargo, la mención la usa como categoría diagnóstica genérica, no específicamente como 'woke'.",
+    "analyzed_at": "2026-05-16T06:20:52.226678+00:00",
+    "candidates_signature": "0bcf43eca6fc5e62",
+    "alias_candidate": "posmodernidad",
+    "alias_exists": false
+  },
+  "a95869cbabe1e1e4:87e2f9605cf9a33e": {
+    "match_page_id": "crisis-de-identidad-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención es explícitamente etiquetada como 'Sub-pieza de crisis-de-identidad-en-proxy' y su contenido (reencuadre categorial de MBTI como test de identidad, no de personalidad) encaja directamente con esa página de síntesis del canal.",
+    "analyzed_at": "2026-05-16T06:21:00.153689+00:00",
+    "candidates_signature": "87e2f9605cf9a33e",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "f7803a3c7e4b68b6:d86529a4c68bcff6": {
+    "match_page_id": "crisis-de-identidad-en-proxy",
+    "confidence": "medium",
+    "rationale": "El reason_detail la declara explícitamente sub-pieza de crisis-de-identidad-en-proxy; el surface_form describe una metodología terapéutica articulada dentro de ese marco, no un concepto autónomo con nombre propio extraíble.",
+    "analyzed_at": "2026-05-16T06:21:10.773563+00:00",
+    "candidates_signature": "d86529a4c68bcff6",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "5c6e53c417ec28ee:968c8dcb3826f9b7": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe una condición etiológica clínica (padre patológico ausente / dad issues) que causa el patrón ninfotípico; el 'padre oscuro' candidato es un arquetipo diferente (figura activa antagonista), no la ausencia paterna como factor formativo. Co-ocurrencia temática insuficiente para match semántico.",
+    "analyzed_at": "2026-05-16T06:21:17.731947+00:00",
+    "candidates_signature": "968c8dcb3826f9b7",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "faae3b6c2bd284b1:5f257cbbbdd4098a": {
+    "match_page_id": "caperucita-roja-cuento",
+    "confidence": "high",
+    "rationale": "La descripción ('mujer de capa roja en el bosque', cabaña, niño perdido) es una alusión directa al cuento de Caperucita Roja, aunque sea como paralelo implícito sin desarrollo explícito de la obra.",
+    "analyzed_at": "2026-05-16T06:21:29.512619+00:00",
+    "candidates_signature": "5f257cbbbdd4098a",
+    "alias_candidate": "Caperucita Roja",
+    "alias_exists": false
+  },
+  "56b0cb823cafb5b7:dfa77f137e5a50d4": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención trata la masonería como sincretismo teosófico-ritualista del XVIII-XIX; ninguna candidata cubre ese concepto — 'liturgia-como-rito' es el más cercano pero se refiere a rito litúrgico cristiano, no a construcción simbólica masónica.",
+    "analyzed_at": "2026-05-16T06:21:34.615909+00:00",
+    "candidates_signature": "dfa77f137e5a50d4",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "c7a3968b227daddc:4e0f6903f4e9a368": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe una tipología propia del canal (los cinco mitos fundamentales como sistema cerrado) que no equivale semánticamente a ninguna candidata: las páginas disponibles son análisis de mitos concretos (Perséfone, Orfeo) o tipologías parciales (femenino, cuatro elementos, tarot), ninguna es la taxonomía global de cinco mitos fundamentales.",
+    "analyzed_at": "2026-05-16T06:21:41.388203+00:00",
+    "candidates_signature": "4e0f6903f4e9a368",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "cc85450046f9f030:f0ad4ffa52eed3c2": {
+    "match_page_id": "psicoinfluencers-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención describe una crítica concreta a una psicóloga conductista divulgativa que ataca a la psiquiatría, lo que encaja en el scope de 'Crítica del canal a los psicoinfluencers y al conductismo divulgativo', aunque el surface_form enfatiza el caso individual como disparador retórico más que el fenómeno general.",
+    "analyzed_at": "2026-05-16T06:21:48.568421+00:00",
+    "candidates_signature": "f0ad4ffa52eed3c2",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b275c83a63e00c50:f119f10aea01abcd": {
+    "match_page_id": "woke-narrativa-postmoderna-moral",
+    "confidence": "medium",
+    "rationale": "El 'feminismo posmoderno' es una manifestación del corpus postmoderno-woke que la página conceptualiza; el match es probable pero la mención es tangencial y la página no nombra explícitamente el feminismo posmoderno.",
+    "analyzed_at": "2026-05-16T06:21:55.083532+00:00",
+    "candidates_signature": "f119f10aea01abcd",
+    "alias_candidate": "feminismo posmoderno",
+    "alias_exists": false
+  },
+  "37e8bf9eaf4fc485:040a6446979fef5d": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención refiere a afantasía y una correlación observacional con capacidades matemáticas; ninguna candidata cubre afantasía ni habilidades matemáticas — las cinco páginas tratan fantasía/delirio, libre albedrío, escisión psicológica, realismo cognitivo o álgebra afectiva, todos conceptos temáticamente alejados.",
+    "analyzed_at": "2026-05-16T06:22:01.428395+00:00",
+    "candidates_signature": "040a6446979fef5d",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "2b2d7cda5637bbed:008679bb6cb57baf": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención trata la distinción empatía cognitiva/emocional como proyección y la crítica a la divulgación pop-psicológica; ninguna de las candidatas recoge ese concepto — las más cercanas (herida-narcisista, álgebra-afectiva) son adyacentes temáticamente pero no equivalentes semánticamente.",
+    "analyzed_at": "2026-05-16T06:22:07.769648+00:00",
+    "candidates_signature": "008679bb6cb57baf",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "35e5ab0457554c56:6c572234bd28e9da": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe un diagnóstico diferencial DSM estándar (TPH vs TLP, antisocial, narcisista) sobre un caso pedagógico inventado; ninguna candidata representa el trastorno histriónico ni su diferencial —las páginas más próximas (TLP, herida narcisista, TID) son conceptos del marco propio del canal, no sinónimos ni variantes del surface_form.",
+    "analyzed_at": "2026-05-16T06:22:13.906554+00:00",
+    "candidates_signature": "6c572234bd28e9da",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "f98388782211fe4b:7a2ef8160c6dc9a9": {
+    "match_page_id": "bueno-gustavo",
+    "confidence": "high",
+    "rationale": "La surface_form es una propuesta de canonicalización del propio autor Gustavo Bueno, cuya quote_evidence lo cita directamente por nombre; la candidata page_id=bueno-gustavo es exactamente esa entrada.",
+    "analyzed_at": "2026-05-16T06:22:20.716044+00:00",
+    "candidates_signature": "7a2ef8160c6dc9a9",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "00ff85d588750e69:2ede2663748f24ee": {
+    "match_page_id": "tipologia-femenina-arquetipica",
+    "confidence": "medium",
+    "rationale": "Los cuatro prototipos masculinos (tirano, infantil, monstruo, sátiro) se articulan como la contraparte proyectiva de la tipología femenina arquetípica ya documentada; el match es temáticamente sólido pero la mención describe la imagen del varón en el inconsciente femenino, no la tipología femenina en sí.",
+    "analyzed_at": "2026-05-16T06:22:26.045663+00:00",
+    "candidates_signature": "2ede2663748f24ee",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "08971292ff4220b1:c4dbaa4079c219cf": {
+    "match_page_id": "genesis-mitologico",
+    "confidence": "high",
+    "rationale": "La mención es explícitamente una categoría diagnóstica articulada dentro del análisis del Génesis mitológico (los dos árboles), ya capturada en esa página según el reason_detail.",
+    "analyzed_at": "2026-05-16T06:22:33.227720+00:00",
+    "candidates_signature": "c4dbaa4079c219cf",
+    "alias_candidate": "sobreintelectualización",
+    "alias_exists": false
+  },
+  "b32add521cf3e61c:ead8e40730a6f4d6": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "El Mito de Ícaro es un concepto mitológico específico sin página propia entre las candidatas; ninguna de las cinco se refiere a él ni como sinónimo ni como variante.",
+    "analyzed_at": "2026-05-16T06:22:38.312799+00:00",
+    "candidates_signature": "ead8e40730a6f4d6",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b58711ab27745b3b:364c96b8098d855a": {
+    "match_page_id": "mito-teseo-ariadna",
+    "confidence": "medium",
+    "rationale": "El laberinto es el locus central del mito de Teseo y Ariadna; 'Mito del laberinto' es una variante metonímica de ese mismo complejo mítico, aunque la tesis desarrollada (laberinto=conciencia) introduce una especificidad conceptual que la candidata no captura del todo.",
+    "analyzed_at": "2026-05-16T06:22:43.731918+00:00",
+    "candidates_signature": "364c96b8098d855a",
+    "alias_candidate": "Mito del laberinto",
+    "alias_exists": false
+  },
+  "05947388986644b5:755edd8bf4b1fe57": {
+    "match_page_id": "blancanieves-1937-film",
+    "confidence": "medium",
+    "rationale": "La mención refiere al cuento tradicional de Blancanieves, no a la adaptación Disney de 1937; la candidata más cercana es esa adaptación, que comparte el mismo personaje/título pero es una obra distinta (film vs. cuento). Match por proximidad nominal, no equivalencia exacta.",
+    "analyzed_at": "2026-05-16T06:22:51.397975+00:00",
+    "candidates_signature": "755edd8bf4b1fe57",
+    "alias_candidate": "Blancanieves",
+    "alias_exists": false
+  },
+  "1a4f46fc703213cc:8edd2ad6d487063c": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "Prometeo es un mito específico (titán griego del fuego) que no equivale semánticamente a ninguna candidata: Orfeo/Eurídice y Perséfone son mitos distintos; Génesis mitológico y Apocalipsis son categorías estructurales ajenas; Ex Oblivione es una obra lovecraftiana. Co-ocurrencia mítica no es identidad semántica.",
+    "analyzed_at": "2026-05-16T06:22:58.150066+00:00",
+    "candidates_signature": "8edd2ad6d487063c",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "6a74dcec2b6cc132:a142cbc0afd9ac0c": {
+    "match_page_id": "genesis-mitologico",
+    "confidence": "medium",
+    "rationale": "La mención alude a Eva del Génesis bíblico como figura mítica paralela a Pandora; la candidata 'Génesis (categoría mitológica)' agrupa precisamente mitos de origen, aunque la página parece de categoría genérica y no dedicada a Eva en sí.",
+    "analyzed_at": "2026-05-16T06:23:06.986153+00:00",
+    "candidates_signature": "a142cbc0afd9ac0c",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "8ee1c6cc58a22a05:c9fc12b347c4abaa": {
+    "match_page_id": "evangelion-anime",
+    "confidence": "high",
+    "rationale": "La mención 'Evangelion (anime)' es una referencia directa e inequívoca a Neon Genesis Evangelion (1995), obra idéntica bajo distinto nombre coloquial.",
+    "analyzed_at": "2026-05-16T06:23:12.645752+00:00",
+    "candidates_signature": "c9fc12b347c4abaa",
+    "alias_candidate": "Evangelion",
+    "alias_exists": false
+  },
+  "967e94bf6c22d3f4:0b9b17a175a5f07a": {
+    "match_page_id": "alien-saga",
+    "confidence": "high",
+    "rationale": "'Saga Alien' es referencia directa e inequívoca a 'Alien (saga)', y el surface_form no añade calificador canónico distinto.",
+    "analyzed_at": "2026-05-16T06:23:18.463143+00:00",
+    "candidates_signature": "0b9b17a175a5f07a",
+    "alias_candidate": "Saga Alien",
+    "alias_exists": false
+  },
+  "b92b940f46966711:b0b7577851dc4b8e": {
+    "match_page_id": "arquetipo-cero",
+    "confidence": "high",
+    "rationale": "La mención articula explícitamente 'el loco' del Tarot como polo de respuesta al trauma, que es exactamente el concepto de la página Arquetipo Cero (Arlequín / Loco del Tarot); el emparejamiento con 'el sabio' es el contexto operativo, no un concepto diferente.",
+    "analyzed_at": "2026-05-16T06:23:26.601104+00:00",
+    "candidates_signature": "b0b7577851dc4b8e",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "cb929721cd7efc5f:00caf091f52c801a": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "El 'Mito de la caverna platónica' es un concepto filosófico de Platón que no corresponde a ninguna de las candidatas, que son mitos narrativos distintos (mago, lunar, Teseo-Ariadna, Perséfone) o un mitema apocalíptico; la co-ocurrencia con 'mito' es puramente léxica, no semántica.",
+    "analyzed_at": "2026-05-16T06:23:38.862399+00:00",
+    "candidates_signature": "00caf091f52c801a",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "c0dbaa433bfb5a70:0f43c7170e23b745": {
+    "match_page_id": "campbell-joseph",
+    "confidence": "high",
+    "rationale": "La mención se refiere explícitamente a Joseph Campbell en su rol de autor del monomito; la candidata campbell-joseph es la entrada directa para esa persona.",
+    "analyzed_at": "2026-05-16T06:23:46.356245+00:00",
+    "candidates_signature": "0f43c7170e23b745",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "757e55c243c082ba:f591fe9c8c4d0dd8": {
+    "match_page_id": "alien-saga",
+    "confidence": "high",
+    "rationale": "Ripley es el personaje central de la saga Alien; la mención lo referencia directamente como 'Teniente Ripley (Alien)', identificando la obra entre paréntesis.",
+    "analyzed_at": "2026-05-16T06:23:51.679966+00:00",
+    "candidates_signature": "f591fe9c8c4d0dd8",
+    "alias_candidate": "Teniente Ripley",
+    "alias_exists": false
+  },
+  "f2ef35299da40f30:b34546146783d6e5": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Don Quijote es una obra/personaje de Cervantes sin página propia en las candidatas; ninguna de las cinco (Tolkien, Borges, Clarke, El Señor de los Anillos, Antihéroe) es su referente semántico directo — la co-ocurrencia temática con 'antihéroe' no constituye match.",
+    "analyzed_at": "2026-05-16T06:23:57.034519+00:00",
+    "candidates_signature": "b34546146783d6e5",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "f705b9a54ab73f41:ce600650e528aff3": {
+    "match_page_id": "cuento-de-navidad-muppets-1992-film",
+    "confidence": "medium",
+    "rationale": "La mención articula una comparación conceptual sobre 'Cuento de Navidad' de Dickens/Scrooge que el reason_detail ya señala como enriquecimiento potencial de esta página; la obra referenciada es la misma fuente narrativa que la adaptación Muppets.",
+    "analyzed_at": "2026-05-16T06:24:03.931854+00:00",
+    "candidates_signature": "ce600650e528aff3",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "6dbe0f5cf66c9d3f:70eb043598e94615": {
+    "match_page_id": "tipologia-femenina-arquetipica",
+    "confidence": "medium",
+    "rationale": "La mención postula que el borderline es una 'estructura femenina constitutiva', lo que se solapa con el contenido de una tipología arquetípica de lo femenino, aunque el ángulo clínico-patológico introduce ambigüedad.",
+    "analyzed_at": "2026-05-16T06:24:10.881713+00:00",
+    "candidates_signature": "70eb043598e94615",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b0e308bdec91c291:63bbd8ca2f53d83f": {
+    "match_page_id": "hieros-gamos",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente 'hieros gamos' y describe una variante del concepto; la page_id=hieros-gamos es la referencia directa.",
+    "analyzed_at": "2026-05-16T06:24:17.010975+00:00",
+    "candidates_signature": "63bbd8ca2f53d83f",
+    "alias_candidate": "Hieros gamos",
+    "alias_exists": true
+  },
+  "f48b4cb99ffe7ac4:7a212cf1982fa95e": {
+    "match_page_id": "arquetipo-cero",
+    "confidence": "high",
+    "rationale": "La mención 'cero del tarot' es sinónimo directo del Arquetipo Cero / Loco del Tarot; la aplicación a Flynn no invalida el match al concepto.",
+    "analyzed_at": "2026-05-16T06:24:22.265385+00:00",
+    "candidates_signature": "7a212cf1982fa95e",
+    "alias_candidate": "cero del tarot",
+    "alias_exists": false
+  },
+  "eb8a130eab31ff29:f938c5014ac06eb2": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Ninguna de las 5 candidatas corresponde a Westworld (serie HBO); las obras listadas son sagas y textos sin relación semántica directa.",
+    "analyzed_at": "2026-05-16T06:24:27.649936+00:00",
+    "candidates_signature": "f938c5014ac06eb2",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "00e8544f6de9efa5:4aeca9d1b1a3ab0b": {
+    "match_page_id": "harry-potter-saga",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente 'Harry Potter' como ejemplo de obra; la candidata 1 es exactamente esa saga.",
+    "analyzed_at": "2026-05-16T06:24:32.461930+00:00",
+    "candidates_signature": "4aeca9d1b1a3ab0b",
+    "alias_candidate": "Harry Potter",
+    "alias_exists": false
+  },
+  "4a8416202d733b3f:0e019ae13c624fe9": {
+    "match_page_id": "tarot-arquetipico",
+    "confidence": "high",
+    "rationale": "La mención describe el Tarot Rider-Waite y su genealogía esotérica, referencia directa al mismo corpus simbólico que tarot-arquetipico trata.",
+    "analyzed_at": "2026-05-16T06:24:37.338558+00:00",
+    "candidates_signature": "0e019ae13c624fe9",
+    "alias_candidate": "Tarot Rider-Waite",
+    "alias_exists": false
+  },
+  "59fb2eb769f157f7:6161c7f283f45b69": {
+    "match_page_id": "apocalipsis-mitema",
+    "confidence": "medium",
+    "rationale": "La mención refiere al libro bíblico del Apocalipsis como fuente textual (666/616, Jinetes), mientras la candidata es el 'Apocalipsis' como mitema; hay solapamiento semántico real pero la mención enfatiza el texto canónico, no la función mítica.",
+    "analyzed_at": "2026-05-16T06:24:42.525113+00:00",
+    "candidates_signature": "6161c7f283f45b69",
+    "alias_candidate": "Apocalipsis",
+    "alias_exists": false
+  },
+  "9a4b5562b9c4144d:53e227e89813e2ca": {
+    "match_page_id": "anticristo-2009-film",
+    "confidence": "low",
+    "rationale": "La mención se refiere al Anticristo como figura bíblica/teológica, no a la película de Lars von Trier; la coincidencia es léxica, no semántica.",
+    "analyzed_at": "2026-05-16T06:24:49.374015+00:00",
+    "candidates_signature": "53e227e89813e2ca",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "ca15941d1063e809:90229fd1335c2247": {
+    "match_page_id": "apocalipsis-mitema",
+    "confidence": "high",
+    "rationale": "Los Jinetes del Apocalipsis son figuras centrales del mitema apocalíptico; la tesis descartada los reinterpreta como materializaciones de influencias telúricas, pero el referente sigue siendo el Apocalipsis como mitema.",
+    "analyzed_at": "2026-05-16T06:24:56.036988+00:00",
+    "candidates_signature": "90229fd1335c2247",
+    "alias_candidate": "Jinetes del Apocalipsis",
+    "alias_exists": false
+  },
+  "7afecc24885cb0d4:a5646fe733d986dc": {
+    "match_page_id": "mal-sin-forma",
+    "confidence": "high",
+    "rationale": "El 'caos arquetípico' que no puede concebirse por falta de estructuras intelectuales es semánticamente equivalente a 'mal sin forma': aquello que no tiene estructura cognoscible y por tanto no puede ser enfrentado.",
+    "analyzed_at": "2026-05-16T06:25:02.276596+00:00",
+    "candidates_signature": "a5646fe733d986dc",
+    "alias_candidate": "caos arquetípico",
+    "alias_exists": false
+  },
+  "3bd56693003881fd:8b7e9c444d370fa5": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "Charles Dickens es un autor victoriano sin relación semántica con ninguna de las candidatas (Tolkien, Clarke, Lovecraft, Jung, Asimov); la similitud coseno refleja co-pertenencia a la categoría 'autor' pero no equivalencia referencial.",
+    "analyzed_at": "2026-05-16T06:25:07.549348+00:00",
+    "candidates_signature": "8b7e9c444d370fa5",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "ba4b75db26ba2195:166a804c719edfeb": {
+    "match_page_id": "teoria-de-las-emociones-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención define 'emotividad' como mecanismo de desbordamiento emocional, lo que encaja en una síntesis sobre la teoría de las emociones del canal; pero es una definición puntual/observacional, no una articulación teórica central.",
+    "analyzed_at": "2026-05-16T06:25:13.674777+00:00",
+    "candidates_signature": "166a804c719edfeb",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "70bfdd72de4c9a87:814254b9eb54c740": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención 'diagrama de Proxy' es un constructo visual/meta-referencial del propio canal, no un concepto teórico que pertenezca a ninguna de las cinco síntesis candidatas (memoria, demonología, símbolo, dolor, emociones); la similitud coseno con esas páginas es espuria.",
+    "analyzed_at": "2026-05-16T06:25:21.206217+00:00",
+    "candidates_signature": "814254b9eb54c740",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "e55c866b36f54cea:db03b013cc708fcd": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención articula un juicio moral específico sobre la usura (crueldad vs. lucro) que no encuentra equivalencia semántica en ninguna candidata: 'mal-sin-forma' trata la ontología del mal, no su dimensión moral aplicada; 'consumismo-critica' comparte el eje avaricia/egoísmo pero es temáticamente distinta; las restantes son irrelevantes.",
+    "analyzed_at": "2026-05-16T06:25:27.062312+00:00",
+    "candidates_signature": "db03b013cc708fcd",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "3d33e7b4cdaf925c:11d76c16c0803e00": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Adolf Hitler es una figura histórica usada como caso ilustrativo de un marco diagrama; ninguna de las candidatas (Freud, Jung, Borges, Eliade, Asimov) tiene relación semántica con él ni con el concepto estructural evocado.",
+    "analyzed_at": "2026-05-16T06:25:34.687561+00:00",
+    "candidates_signature": "11d76c16c0803e00",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "d410778f9374aa75:6bf0161c8e44153a": {
+    "match_page_id": "pensamiento-poetico",
+    "confidence": "high",
+    "rationale": "La surface_form es el nombre exacto del concepto candidato; la cita lo usa como denominación terminológica explícita.",
+    "analyzed_at": "2026-05-16T06:25:39.776888+00:00",
+    "candidates_signature": "6bf0161c8e44153a",
+    "alias_candidate": "pensamiento poético",
+    "alias_exists": true
+  },
+  "c767e208a691f752:c08512d10504443e": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "Umberto Eco es un autor específico no representado en ninguna de las cinco candidatas; la co-ocurrencia temática con semiótica o filosofía no constituye equivalencia semántica con Borges, Eliade, Freud, Jung ni Bueno.",
+    "analyzed_at": "2026-05-16T06:25:45.288529+00:00",
+    "candidates_signature": "c08512d10504443e",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "e5b208d02e92a809:5535253107fb38a5": {
+    "match_page_id": "frazer-james-george",
+    "confidence": "high",
+    "rationale": "El surface_form 'James George Frazer' es el nombre propio del autor, equivalencia directa con la candidata canonical_name='James George Frazer'.",
+    "analyzed_at": "2026-05-16T06:25:50.650806+00:00",
+    "candidates_signature": "5535253107fb38a5",
+    "alias_candidate": "James George Frazer",
+    "alias_exists": true
+  },
+  "05ca49dfa4ac08ef:dc40a0242e58055c": {
+    "match_page_id": "diosa-blanca",
+    "confidence": "high",
+    "rationale": "'La Diosa Blanca' es referencia directa a la página 'Diosa Blanca'; la mención nombra explícitamente el concepto arquetípico que esa página recoge.",
+    "analyzed_at": "2026-05-16T06:25:56.298854+00:00",
+    "candidates_signature": "dc40a0242e58055c",
+    "alias_candidate": "La Diosa Blanca",
+    "alias_exists": false
+  },
+  "4e4fef637364fe42:f8ba2b8fa9e49d95": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención se refiere a la obra 'El mito de la diosa' de Cashford y Baring, un libro sobre arquetipos femeninos y transición matriarcado/patriarcado; ninguna candidata cubre ese concepto —mito del mago, Teseo/Ariadna, mito lunar, mito moderno según Proxy, y cibernética/transhumanismo son semánticamente distantes.",
+    "analyzed_at": "2026-05-16T06:26:01.301353+00:00",
+    "candidates_signature": "f8ba2b8fa9e49d95",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "0986a4c74d47663e:50e1437d12c831f8": {
+    "match_page_id": "tarot-arquetipico",
+    "confidence": "high",
+    "rationale": "La mención refiere explícitamente al tarot como sistema arquetípico de proyección imaginaria, coincidencia directa con la página 'Tarot (lectura arquetípica)'.",
+    "analyzed_at": "2026-05-16T06:26:12.636844+00:00",
+    "candidates_signature": "50e1437d12c831f8",
+    "alias_candidate": "tarot",
+    "alias_exists": false
+  },
+  "4366e20380e879a5:8ea9795bc65cb361": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "El surface_form refiere a un libro físico de imaginería tarot (recurso bibliográfico), no a ningún concepto teórico como lectura arquetípica ni al arquetipo del Loco; la co-ocurrencia con tarot-arquetipico es temática, no semántica.",
+    "analyzed_at": "2026-05-16T06:26:18.307393+00:00",
+    "candidates_signature": "8ea9795bc65cb361",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "f310c21421c0aac4:30babfc91f3d51a5": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "La surface_form 'Jung y el tarot' refiere a un libro específico recomendado de pasada, no a Jung como autor ni al tarot arquetípico como concepto independiente; la co-ocurrencia temática doble no constituye match semántico con ninguna candidata.",
+    "analyzed_at": "2026-05-16T06:26:24.289491+00:00",
+    "candidates_signature": "30babfc91f3d51a5",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "2c1ed3c8b7f79c30:280780ad3fd07a54": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Lewis Carroll no es ninguna de las 5 candidatas; la similitud coseno los agrupa como autores pero Carroll no es Tolkien, Clarke, Jung, Lovecraft ni Asimov.",
+    "analyzed_at": "2026-05-16T06:26:37.094321+00:00",
+    "candidates_signature": "280780ad3fd07a54",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "30b68f96e503c797:0c83c5d6c4790b5c": {
+    "match_page_id": "golem-arquetipo",
+    "confidence": "high",
+    "rationale": "La mención trata el Gólem como mito arquetípico aplicado a la IA (criatura que sale mal), que es exactamente el dominio de 'Gólem (arquetipo del hijo imperfecto)'; golem-de-cobre es una instancia técnica específica del canal, no el arquetipo mítico genérico.",
+    "analyzed_at": "2026-05-16T06:26:44.019731+00:00",
+    "candidates_signature": "0c83c5d6c4790b5c",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "06fe42c747430f1b:acee2f4a085bd2ce": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Polaris es una obra bibliográfica específica de Proxy; ninguna de las cinco candidatas (síntesis temáticas sobre magia, perdón, memoria, amor o símbolo) corresponde semánticamente a una página dedicada a ese libro.",
+    "analyzed_at": "2026-05-16T06:26:54.517530+00:00",
+    "candidates_signature": "acee2f4a085bd2ce",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "7c3941f6eb1862fc:aa07c6133098bfa3": {
+    "match_page_id": "algebra-afectiva",
+    "confidence": "high",
+    "rationale": "La mención describe explícitamente un refinamiento del álgebra afectiva: la estructura circular/espectral de los afectos como rueda de color ('cromodinámica'), que es un desarrollo interno del concepto álgebra-afectiva, no un concepto independiente.",
+    "analyzed_at": "2026-05-16T06:27:00.237879+00:00",
+    "candidates_signature": "aa07c6133098bfa3",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "1c09e2eaf071251f:407006d47c6e234d": {
+    "match_page_id": "viaje-heroe",
+    "confidence": "medium",
+    "rationale": "La mención articula el viaje del héroe como metáfora cognitiva (iluminar la oscuridad interior), que es un ángulo complementario del monomito; hay referencia directa al concepto aunque el énfasis es aplicativo-psicológico.",
+    "analyzed_at": "2026-05-16T06:27:09.844626+00:00",
+    "candidates_signature": "407006d47c6e234d",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "d44e273d8d2e7396:be24a8cf43aa336b": {
+    "match_page_id": "teoria-del-simbolo-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención articula la tesis central del canal de que la mente no es computable porque incluye afectos no formalizables, lo cual encaja directamente con la teoría del símbolo y de la mente en Proxy (que aborda precisamente la distinción entre lo computable/simbólico y lo afectivo/no computable).",
+    "analyzed_at": "2026-05-16T06:27:15.651394+00:00",
+    "candidates_signature": "be24a8cf43aa336b",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "1552847a18cc508d:bf8c04b85249ca03": {
+    "match_page_id": "teoria-del-simbolo-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención contiene la definición canónica de 'símbolo' en el marco teórico del canal, que es exactamente el objeto central de la página síntesis sobre la teoría del símbolo en Proxy.",
+    "analyzed_at": "2026-05-16T06:27:22.341523+00:00",
+    "candidates_signature": "bf8c04b85249ca03",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "c7485f151ab935dc:6917808f132aa228": {
+    "match_page_id": "woke-narrativa-postmoderna-moral",
+    "confidence": "high",
+    "rationale": "La mención describe explícitamente una obra nueva de Star Trek como caso paradigmático de narrativa woke (lecciones de diversidad e inclusión presentadas como sabiduría), y el reason_detail confirma que el aparato 'woke-narrativa-postmoderna-moral' ya cubre teóricamente este caso.",
+    "analyzed_at": "2026-05-16T06:27:27.623270+00:00",
+    "candidates_signature": "6917808f132aa228",
+    "alias_candidate": "Star Trek",
+    "alias_exists": false
+  },
+  "87c76e82dd0d47a9:5c44a4cc22f0bb24": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Ninguna candidata es la obra 'Capitana Marvel' ni un concepto que cubra la mención; las candidatas son otras obras o el concepto 'antihéroe', que no captura el surface_form.",
+    "analyzed_at": "2026-05-16T06:27:34.514761+00:00",
+    "candidates_signature": "5c44a4cc22f0bb24",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "45980bb2c944bbc8:481a62553e70fd9c": {
+    "match_page_id": "pinocho-1940-film",
+    "confidence": "high",
+    "rationale": "La mención es explícitamente 'Pinocho' como referencia metafórica, que se corresponde directamente con la página del film Pinocho (Disney, 1940), entidad que da origen a dicha metáfora.",
+    "analyzed_at": "2026-05-16T06:27:39.306313+00:00",
+    "candidates_signature": "481a62553e70fd9c",
+    "alias_candidate": "Pinocho",
+    "alias_exists": false
+  },
+  "26b720d9c683e33c:31826404e1c2895a": {
+    "match_page_id": "mitologia-propia-impropia",
+    "confidence": "high",
+    "rationale": "La mención trata exactamente la distinción mito propio/impropio y la reason_detail confirma que ya existe wikilink a mitologia-propia-impropia.",
+    "analyzed_at": "2026-05-16T06:27:44.197609+00:00",
+    "candidates_signature": "31826404e1c2895a",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "86db5aa3bf5041c1:f41510daabaad4ee": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "La surface_form nombra directamente el concepto 'realismo cognitivo', que coincide con el canonical_name de la página candidata.",
+    "analyzed_at": "2026-05-16T06:27:49.363888+00:00",
+    "candidates_signature": "f41510daabaad4ee",
+    "alias_candidate": "realismo cognitivo",
+    "alias_exists": true
+  },
+  "19d510d786cd1403:a0f8f8e4f99601ad": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe una predicción sobre el auge de teorías homeostáticas/afectivas de la conciencia; ninguna candidata cubre 'conciencia como suma de afectos' — las más próximas (epistemología-psicología, trauma) son adyacentes temáticamente pero sin equivalencia semántica directa.",
+    "analyzed_at": "2026-05-16T06:27:55.573768+00:00",
+    "candidates_signature": "a0f8f8e4f99601ad",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "fdd12a44c7bc664d:6e2d63e6003044bf": {
+    "match_page_id": "conciencia-e-inteligencia-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención describe el posicionamiento de la teoría de Proxy en el landscape de teorías de la conciencia (metarrepresentacionalismo + enactividad somática, HOT), lo que es el tema central de la página sobre conciencia e inteligencia en Proxy con fisicalismo agregacionista y HOT.",
+    "analyzed_at": "2026-05-16T06:28:01.941472+00:00",
+    "candidates_signature": "6e2d63e6003044bf",
+    "alias_candidate": "metarrepresentacionalismo",
+    "alias_exists": false
+  },
+  "b6389501e36fe861:851efc844bd707f4": {
+    "match_page_id": "lucifer-satanas-serpiente-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención describe exactamente la distinción teológica Lucifer/Satanás que define esa página synthesis del canal.",
+    "analyzed_at": "2026-05-16T06:28:08.374807+00:00",
+    "candidates_signature": "851efc844bd707f4",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "79c3976fdabe733c:e9805d8ab2d6f88f": {
+    "match_page_id": "lovecraft-howard",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente a Poe como antecedente técnico de Lovecraft, dentro de la página lovecraft-howard donde ya está documentada esta laguna.",
+    "analyzed_at": "2026-05-16T06:28:12.651658+00:00",
+    "candidates_signature": "e9805d8ab2d6f88f",
+    "alias_candidate": "Edgar Allan Poe",
+    "alias_exists": false
+  },
+  "5f14782849b99fed:42192cc078b7399e": {
+    "match_page_id": "sofisma-estetico",
+    "confidence": "high",
+    "rationale": "La mención describe explícitamente la aplicación del sofisma estético al dominio IA, con cita directa del mecanismo (semejanza terminológica ≠ relación), que es la definición nuclear del concepto sofisma-estetico.",
+    "analyzed_at": "2026-05-16T06:28:17.459722+00:00",
+    "candidates_signature": "42192cc078b7399e",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b0353e9e2e3e82df:43e9d01e3a796f2c": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe una taxonomía de géneros literarios (cuento de hadas vs fábula según presencia de magia) que no tiene equivalente semántico en ninguna de las cinco candidatas, todas centradas en fenomenología trans, cognición IA, TID, epistemología psicológica o herida narcisista.",
+    "analyzed_at": "2026-05-16T06:28:23.179224+00:00",
+    "candidates_signature": "43e9d01e3a796f2c",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "f1666c5f587956e0:8fbc38aab25860b8": {
+    "match_page_id": "teoria-de-la-magia-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención es un proyecto editorial sobre magia del canal, no desarrollo teórico; pero el referente temático más cercano entre las candidatas es la página sobre teoría de la magia en Proxy.",
+    "analyzed_at": "2026-05-16T06:28:29.267854+00:00",
+    "candidates_signature": "8fbc38aab25860b8",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "382397c085838400:17b59d2ef2b02a2f": {
+    "match_page_id": "bueno-gustavo",
+    "confidence": "high",
+    "rationale": "La mención refiere explícitamente a 'mitos sobre Gustavo Bueno', donde el sujeto semántico es Gustavo Bueno (persona), y la page bueno-gustavo es exactamente esa entrada de autor.",
+    "analyzed_at": "2026-05-16T06:28:34.712197+00:00",
+    "candidates_signature": "17b59d2ef2b02a2f",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "d1aae1fe2f15622b:5c20a38d15738150": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La transferencia junguiana es un concepto clínico de la relación terapeuta-paciente; ninguna de las 5 candidatas (individuación, inconsciente colectivo, sombra, ánima/ánimus, psicología del sexo) la representa — co-ocurrencia temática junguiana no es equivalencia semántica.",
+    "analyzed_at": "2026-05-16T06:28:40.956967+00:00",
+    "candidates_signature": "5c20a38d15738150",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "c836ceab3ca7a97f:6818c0a948f06c20": {
+    "match_page_id": "teoria-del-dolor-en-proxy",
+    "confidence": "medium",
+    "rationale": "La distinción sufrimiento humano vs padecimiento animal es una articulación filosófica sobre el dolor que encaja en una teoría del dolor, aunque el ángulo es más antropológico-diferencial que monográfico del concepto.",
+    "analyzed_at": "2026-05-16T06:28:48.388484+00:00",
+    "candidates_signature": "6818c0a948f06c20",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "0476e6daa1b8c2b0:95fa2c285da53cdc": {
+    "match_page_id": "crisis-de-identidad-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención articula una distinción tripartita creencias/identidad/personalidad con foco en 'identidad' como autoimagen metarrepresentacional, lo que se solapa parcialmente con la tesis del canal sobre crisis de identidad; sin embargo la mención es más foundational/taxonómica que clínica, dejando ambigüedad.",
+    "analyzed_at": "2026-05-16T06:28:54.083617+00:00",
+    "candidates_signature": "95fa2c285da53cdc",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "2d0bb0bf85da40ac:00b4f2cae5cde1e9": {
+    "match_page_id": "warhammer-y-fantasia-masculina",
+    "confidence": "high",
+    "rationale": "La mención articula explícitamente Warhammer como fantasía épica masculina regresiva, que es el núcleo semántico de la página candidata; la referencia simétrica a novelas románticas femeninas es contexto comparativo, no un concepto independiente.",
+    "analyzed_at": "2026-05-16T06:29:00.733211+00:00",
+    "candidates_signature": "00b4f2cae5cde1e9",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "7f1abb5b766da15d:141e12514a535fed": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La distinción 'argumento vs Tema' es una categoría analítica canal-específica sobre poética narrativa/mítica; ninguna candidata cubre narratología, mito arquetípico o categorías de análisis cinematográfico — las cinco páginas tratan TID, epistemología psicológica, confesión, cognición IA y mal sin forma.",
+    "analyzed_at": "2026-05-16T06:29:07.153373+00:00",
+    "candidates_signature": "141e12514a535fed",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "1ebf7325a3943e25:aa6c97d5163b25c6": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Psicosis es un concepto clínico estándar usado como herramienta analítica para Gothika; ninguna candidata representa psicosis como concepto propio — las páginas de trauma, crisis de identidad y TLP son síntesis temáticas del canal que co-ocurren temáticamente pero no son sinónimos ni variantes de 'psicosis'.",
+    "analyzed_at": "2026-05-16T06:29:14.366080+00:00",
+    "candidates_signature": "aa6c97d5163b25c6",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "6b707f76ddc7ea71:39609d1077b8576f": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente 'realismo cognitivo' como marco filosófico para teoría de la mente, coincidencia directa con la página homónima.",
+    "analyzed_at": "2026-05-16T06:29:22.134616+00:00",
+    "candidates_signature": "39609d1077b8576f",
+    "alias_candidate": "Realismo cognitivo",
+    "alias_exists": true
+  },
+  "e84f7635578e28fb:4238c4d0c3f21309": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "El surface_form tematiza directamente el realismo cognitivo como concepto y su exigencia metodológica analítico-formal, lo cual es contenido nuclear de esa página.",
+    "analyzed_at": "2026-05-16T06:29:27.113319+00:00",
+    "candidates_signature": "4238c4d0c3f21309",
+    "alias_candidate": "realismo cognitivo",
+    "alias_exists": true
+  },
+  "318f55973d1cf0ed:e6db2001ed698746": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente 'realismo cognitivo' como concepto imprescindible para teoría de la mente, equivalencia directa con la página candidata.",
+    "analyzed_at": "2026-05-16T06:29:31.959570+00:00",
+    "candidates_signature": "e6db2001ed698746",
+    "alias_candidate": "realismo cognitivo",
+    "alias_exists": false
+  },
+  "203afc288a246315:bcfcfa464f4248b0": {
+    "match_page_id": "woke-narrativa-postmoderna-moral",
+    "confidence": "high",
+    "rationale": "La mención analiza cómo la progresía reemplaza locus externos tradicionales por otros propios, lo cual es una caracterización nuclear de la narrativa woke-postmoderna-moral en Proxy.",
+    "analyzed_at": "2026-05-16T06:29:36.360219+00:00",
+    "candidates_signature": "bcfcfa464f4248b0",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "00fcfbb3d170071c:5767ee1e75992436": {
+    "match_page_id": "teoria-del-lenguaje-en-proxy",
+    "confidence": "high",
+    "rationale": "El reason_detail menciona explícitamente que fue capturado en 'teoria-del-lenguaje-en-proxy'; la mecánica del tabú como alternativa al determinismo lingüístico es un sub-concepto de la teoría del lenguaje del canal.",
+    "analyzed_at": "2026-05-16T06:29:42.071029+00:00",
+    "candidates_signature": "5767ee1e75992436",
+    "alias_candidate": "mecánica del tabú",
+    "alias_exists": false
+  },
+  "bd8cc6fe0a523772:f615f0ada9e58345": {
+    "match_page_id": "tipologia-femenina-arquetipica",
+    "confidence": "medium",
+    "rationale": "La mención articula la disociación arquetipo/biología, que es el fundamento teórico de la tipología arquetípica de lo femenino; el match es parcial porque la mención abarca también lo masculino arquetípico, no cubierto por esa página sola.",
+    "analyzed_at": "2026-05-16T06:29:47.949998+00:00",
+    "candidates_signature": "f615f0ada9e58345",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "34c12cbf93b1a254:6fe3f0d8c5782feb": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "La mención articula una distinción tripartita (poética/estética/filosofía) que no coincide con ninguna candidata: 'pensamiento-poetico' es el uso creativo del pensamiento, no la categoría disciplinar; 'sofisma-estetico' trata el uso retórico de lo estético como engaño, no la delimitación semántica entre disciplinas; las demás candidatas son temáticamente ajenas.",
+    "analyzed_at": "2026-05-16T06:29:55.707478+00:00",
+    "candidates_signature": "6fe3f0d8c5782feb",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "96b312a27e33340f:224de47e7c8ed0ba": {
+    "match_page_id": "pensamiento-poetico",
+    "confidence": "medium",
+    "rationale": "La mención caracteriza Mitología 101 como 'poética' (no filosofía) y describe el uso del lenguaje como vehículo estético para crear afectos, lo que remite conceptualmente a pensamiento-poetico; pero es autopresentación de serie, no desarrollo del concepto.",
+    "analyzed_at": "2026-05-16T06:30:01.806693+00:00",
+    "candidates_signature": "224de47e7c8ed0ba",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "252d62f866efa637:323a856d160b2fbb": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "La mención critica el psicoanálisis por operar 'solo desde M2' (mentalismo puro / hipóstasis imaginaria) sin anclaje físico-cognitivo, lo que es precisamente la tesis del realismo cognitivo: la psicología requiere base material, no puede flotar como fantasía.",
+    "analyzed_at": "2026-05-16T06:30:08.955123+00:00",
+    "candidates_signature": "323a856d160b2fbb",
+    "alias_candidate": "mentalismo puro",
+    "alias_exists": false
+  },
+  "9e25ab1bb9fd7aa3:407e335d299d84e9": {
+    "match_page_id": "cuatro-formas-del-mal",
+    "confidence": "medium",
+    "rationale": "La distinción binaria 'provenir del mal / estar motivado por el mal' es una presentación didáctica del dominio temático que articula cuatro-formas-del-mal, pero no añade modalidad nueva — el reason_detail lo confirma explícitamente.",
+    "analyzed_at": "2026-05-16T06:30:14.287491+00:00",
+    "candidates_signature": "407e335d299d84e9",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "bd6bd1f916ee22a9:0d325928ab5a5260": {
+    "match_page_id": "epistemologia-de-la-psicologia-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención usa 'envidia de pene' como ejemplo ilustrativo de cómo las narrativas psicoanalíticas describen sensaciones con sustrato cerebral — argumento epistemológico sobre la psicología (narrativa vs correlato biológico) que encaja con la tesis del canal sobre epistemología de la psicología, aunque el concepto específico (envidia de pene) no es el tema central sino el vehículo del argumento.",
+    "analyzed_at": "2026-05-16T06:30:19.736645+00:00",
+    "candidates_signature": "0d325928ab5a5260",
+    "alias_candidate": "envidia de pene",
+    "alias_exists": false
+  },
+  "8e78065bd07c7a5a:1864ec746ddeefc8": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención usa 'psicopatía' como caso límite que queda fuera del modelo; ninguna candidata representa 'psicopatía' como concepto central — la más próxima (trastorno-limite) es distinta nosológicamente y trata TLP, no psicopatía.",
+    "analyzed_at": "2026-05-16T06:30:26.682123+00:00",
+    "candidates_signature": "1864ec746ddeefc8",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "ddde54268b514030:9060d0b2f7ccf292": {
+    "match_page_id": "algebra-afectiva",
+    "confidence": "medium",
+    "rationale": "La definición 'voluntad como evocación del estado afectivo necesario para provocar la conducta imaginada' opera sobre afectos como variables causales de la conducta, territorio propio del Álgebra afectiva; el match no es directo pero es el más cercano de las cinco candidatas.",
+    "analyzed_at": "2026-05-16T06:30:32.903307+00:00",
+    "candidates_signature": "9060d0b2f7ccf292",
+    "alias_candidate": "fuerza de voluntad",
+    "alias_exists": false
+  },
+  "b0a6941a1d88434e:ba14d1ce5a42355e": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención trata la asimetría perceptiva del sufrimiento masculino aplicada al humor, no la tipología arquetípica de lo femenino ni ningún otro concepto de las candidatas; la co-ocurrencia con 'tipologia-femenina-arquetipica' es temática pero no semántica.",
+    "analyzed_at": "2026-05-16T06:30:38.621385+00:00",
+    "candidates_signature": "ba14d1ce5a42355e",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "67e62fdd406f5db3:d500017df78ab9a5": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "medium",
+    "rationale": "El surface_form menciona 'representacionalismo de Peterson' como componente del marco del realismo cognitivo, lo que lo vincula semánticamente a esa página; pero la ambigüedad sobre qué Peterson (Jordan B., Don, otro) impide alta confianza.",
+    "analyzed_at": "2026-05-16T06:30:43.596881+00:00",
+    "candidates_signature": "d500017df78ab9a5",
+    "alias_candidate": "representacionalismo",
+    "alias_exists": false
+  },
+  "161de8122ec1978e:ab54b5cbd78ddc29": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Ninguna de las 5 candidatas corresponde a 'Encuentros en la Tercera Fase (Spielberg, 1977)'; la similitud coseno ha capturado coincidencias de año o género pero no hay equivalencia semántica con ninguna obra listada.",
+    "analyzed_at": "2026-05-16T06:30:49.640243+00:00",
+    "candidates_signature": "ab54b5cbd78ddc29",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "6514de0ff7079e4b:bb78e0f6ca99f8d8": {
+    "match_page_id": "trastorno-limite-y-eutanasia-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención invoca 'síndrome borderline' como categoría clínica, que es el mismo concepto central de la página, aunque en contextos distintos (aquí como consecuencia del apego desorganizado, allá vinculado a eutanasia); el solapamiento es real pero parcial.",
+    "analyzed_at": "2026-05-16T06:30:55.001141+00:00",
+    "candidates_signature": "bb78e0f6ca99f8d8",
+    "alias_candidate": "síndrome borderline",
+    "alias_exists": false
+  },
+  "285578ff434ec358:4ca9f5a9b15c62a8": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "El Show de Truman (1998) no aparece entre las candidatas; ninguna de las cinco películas es esa obra ni un sinónimo de ella.",
+    "analyzed_at": "2026-05-16T06:31:05.413605+00:00",
+    "candidates_signature": "4ca9f5a9b15c62a8",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b3d1b645ddca7405:206090dc59b56fba": {
+    "match_page_id": "diagrama-de-proxy",
+    "confidence": "high",
+    "rationale": "La mención articula directamente el Diagrama de Proxy como marco explicativo de la adherencia ideológica, citando explícitamente su aplicación al fenómeno de elección política; el reason_detail confirma que es pieza candidata para diagrama-de-proxy.md.",
+    "analyzed_at": "2026-05-16T06:31:10.026926+00:00",
+    "candidates_signature": "206090dc59b56fba",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "6e3d38828a527cb2:f6711d3036e8a0b6": {
+    "match_page_id": "anatomia-del-tabu-en-proxy",
+    "confidence": "high",
+    "rationale": "La mención describe explícitamente una reelaboración colectiva del concepto de tabú, que es el objeto central de esa página síntesis.",
+    "analyzed_at": "2026-05-16T06:31:15.535321+00:00",
+    "candidates_signature": "f6711d3036e8a0b6",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "5bbdee5aa95334c2:95693ee00dd00429": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención trata la posesión demoníaca como punto en un espectro psicológico-psicótico, no como anatomía delirante ni como horror cósmico; ninguna candidata captura el concepto específico de 'posesión demoníaca' como categoría.",
+    "analyzed_at": "2026-05-16T06:31:24.713972+00:00",
+    "candidates_signature": "95693ee00dd00429",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "47671ffb8f2a0aaf:705c4774362d9b78": {
+    "match_page_id": "kabbalah",
+    "confidence": "high",
+    "rationale": "La mención articula una tesis filosófica sobre la cábala (inversión ontológica arquetípica), que es exactamente el objeto de la página kabbalah/Cábala.",
+    "analyzed_at": "2026-05-16T06:31:30.435410+00:00",
+    "candidates_signature": "705c4774362d9b78",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "1d4d4c9c8b070e6e:9170eca24a51202a": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "Lars von Trier es un autor/director, no la obra Anticristo; la mención es biográfica y no constituye referencia a la página de la película ni a ninguna otra candidata como entidad semántica propia.",
+    "analyzed_at": "2026-05-16T06:31:35.360812+00:00",
+    "candidates_signature": "9170eca24a51202a",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "2c6467dc28e9e9cf:f593f3bf6ebb6f82": {
+    "match_page_id": "anatomia-de-la-fantasia-y-sindrome-delirante",
+    "confidence": "high",
+    "rationale": "La mención describe la fantasía como mecanismo compensatorio ante fallo de input externo, que es una articulación directa del rol funcional de la fantasía tratado en esta página; el reason_detail lo confirma explícitamente.",
+    "analyzed_at": "2026-05-16T06:31:45.882305+00:00",
+    "candidates_signature": "f593f3bf6ebb6f82",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "3b3d93450b2b141d:8f9f6282e342b710": {
+    "match_page_id": "psiquiatria-y-teoria-de-la-mente",
+    "confidence": "high",
+    "rationale": "La mención critica el DSM y la medicalización de malestares cotidianos, postura que el reason_detail vincula explícitamente a psiquiatria-y-teoria-de-la-mente como posición general del canal sobre clasificaciones diagnósticas.",
+    "analyzed_at": "2026-05-16T06:31:54.219686+00:00",
+    "candidates_signature": "8f9f6282e342b710",
+    "alias_candidate": "medicalización del aburrimiento",
+    "alias_exists": false
+  },
+  "7bff62cef96b6fb7:df0a34282c9fc14a": {
+    "match_page_id": "apocalipsis-mitema",
+    "confidence": "high",
+    "rationale": "'mito del Apocalipsis' es una variante morfológica directa de 'Apocalipsis (mitema)'; ambos refieren al mismo arquetipo mitológico.",
+    "analyzed_at": "2026-05-16T06:31:59.741926+00:00",
+    "candidates_signature": "df0a34282c9fc14a",
+    "alias_candidate": "mito del Apocalipsis",
+    "alias_exists": false
+  },
+  "b48305e6736235eb:7bfc87df4adc1c3b": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La 'Llave de Nabucodonosor' es un símbolo interno de Evangelion; las candidatas son obras y autores de Lovecraft más un concepto de victimología, ninguno semánticamente equivalente a este objeto de lore.",
+    "analyzed_at": "2026-05-16T06:32:04.898322+00:00",
+    "candidates_signature": "7bfc87df4adc1c3b",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "b3e18d1e4c8636fe:1a231e78bae6dcd3": {
+    "match_page_id": "mito-moderno-en-proxy",
+    "confidence": "medium",
+    "rationale": "La distinción leyenda/mito (local vs trascendental) es una definición operativa del concepto de mito tal como lo trabaja Proxy; encaja en la página de síntesis sobre el mito moderno, aunque la mención es tangencial y no desarrolla el marco completo.",
+    "analyzed_at": "2026-05-16T06:32:10.785449+00:00",
+    "candidates_signature": "1a231e78bae6dcd3",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "38245389180e27b6:36b7e42b77b5aab5": {
+    "match_page_id": "cuatro-formas-del-mal",
+    "confidence": "high",
+    "rationale": "La mención trata explícitamente la 'cuarta forma del mal' (posesión), que es una instancia directa del concepto 'Cuatro formas del mal'.",
+    "analyzed_at": "2026-05-16T06:32:17.223842+00:00",
+    "candidates_signature": "36b7e42b77b5aab5",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "8d2f0719338990ea:ea5ba9a59ff106c2": {
+    "match_page_id": "prometheus-2012-film",
+    "confidence": "high",
+    "rationale": "La mención cita explícitamente 'Prometheus' de Ridley Scott como obra de referencia, que es el canonical_name de la candidata 1.",
+    "analyzed_at": "2026-05-16T06:32:22.637262+00:00",
+    "candidates_signature": "ea5ba9a59ff106c2",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "5c5a3440cb629b15:32c4517daaa2e651": {
+    "match_page_id": "teoria-del-lenguaje-en-proxy",
+    "confidence": "medium",
+    "rationale": "La mención trata la tesis de Lakoff sobre el origen biológico de las categorías lingüísticas, lo que conecta semánticamente con una página de síntesis sobre teoría del lenguaje; el encaje no es directo (Lakoff es ejemplo dentro del corpus, no el núcleo de la página) pero es la candidata más próxima.",
+    "analyzed_at": "2026-05-16T06:32:30.874674+00:00",
+    "candidates_signature": "32c4517daaa2e651",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "de1fc9d8eb782076:c9dbf6d355d82649": {
+    "match_page_id": "el-aleph-borges",
+    "confidence": "high",
+    "rationale": "La surface_form nombra explícitamente 'El Aleph (Borges)' como unidad divina no representable, coincidiendo de forma directa e inequívoca con el canonical_name de la candidata 1.",
+    "analyzed_at": "2026-05-16T06:32:36.953485+00:00",
+    "candidates_signature": "c9dbf6d355d82649",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "860d2521d25f44a7:d59425a16dc965c4": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención articula la psicopatía como ausencia de sufrimiento psicológico (límite conceptual del aparato de trastorno), pero ninguna candidata recoge ese concepto: excision-psicologica trata otro mecanismo, trastorno-limite-y-eutanasia es sobre TLP/eutanasia, y las restantes (libre albedrío, trauma, fantasía-síndrome delirante) son temáticamente adyacentes sin equivalencia semántica directa.",
+    "analyzed_at": "2026-05-16T06:32:44.562485+00:00",
+    "candidates_signature": "d59425a16dc965c4",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "ac25a99b17ae0f93:fd861b77f783693e": {
+    "match_page_id": "galatea-modelo-protomente",
+    "confidence": "high",
+    "rationale": "La mención describe explícitamente la creación de un ser virtual con grupos de afectos del modelo PSEP, que es una articulación directa del Proyecto Galatea como modelo computacional de protomente.",
+    "analyzed_at": "2026-05-16T06:32:53.120813+00:00",
+    "candidates_signature": "fd861b77f783693e",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "20ab4f6a8c5ff8a2:606a9e87699bf35f": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "Las candidatas son obras lovecraftianas distintas a El modelo de Pickman; los gules son criaturas específicas de ese cuento, ya canalizadas a su página correcta, y ninguna candidata es esa obra ni un concepto que las contenga semánticamente.",
+    "analyzed_at": "2026-05-16T06:32:58.923552+00:00",
+    "candidates_signature": "606a9e87699bf35f",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "5180b0f9f9beb72b:0bd24e8fa7833f7a": {
+    "match_page_id": "horror-cosmico",
+    "confidence": "high",
+    "rationale": "La surface_form nombra directamente el concepto canónico 'Horror cósmico', que coincide con el canonical_name de la página horror-cosmico.",
+    "analyzed_at": "2026-05-16T06:33:04.124886+00:00",
+    "candidates_signature": "0bd24e8fa7833f7a",
+    "alias_candidate": "Horror cósmico",
+    "alias_exists": true
+  },
+  "35a9e00e8a803811:2b1580a077c5cb60": {
+    "match_page_id": "realismo-cognitivo",
+    "confidence": "high",
+    "rationale": "La surface_form nombra directamente 'Realismo cognitivo' como etiqueta epistemológica del canal, coincidencia exacta con el canonical_name de la página candidata.",
+    "analyzed_at": "2026-05-16T06:33:09.035740+00:00",
+    "candidates_signature": "2b1580a077c5cb60",
+    "alias_candidate": "Realismo cognitivo",
+    "alias_exists": true
+  },
+  "fda617b65b1d0afb:b774a6e27e62ff5c": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención es una obra/autor externo (Panksepp) citada como referencia bibliográfica, no como marco aplicado; ninguna candidata representa ese libro ni ese autor, y la co-ocurrencia temática con 'teoría-de-las-emociones' no basta para constituir equivalencia semántica.",
+    "analyzed_at": "2026-05-16T06:33:14.107974+00:00",
+    "candidates_signature": "b774a6e27e62ff5c",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "788ca544456f79b4:5e08fe86ad94d298": {
+    "match_page_id": "camino-victima",
+    "confidence": "medium",
+    "rationale": "La mención usa a Cenicienta como vehículo para articular el deseo de sentirse 'víctima del sistema', lo que apunta al concepto de camino/mentalidad de víctima, no a la obra Disney en sí.",
+    "analyzed_at": "2026-05-16T06:33:21.846492+00:00",
+    "candidates_signature": "5e08fe86ad94d298",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "ee459d413b1ba992:f5b977e7521a3f0f": {
+    "match_page_id": "sindrome-xocas",
+    "confidence": "high",
+    "rationale": "'El Xokas' es la persona cuyo comportamiento da nombre al 'Síndrome del Xocas'; la mención lo ubica en el diagrama de Proxy como referencia directa al fenómeno.",
+    "analyzed_at": "2026-05-16T06:33:28.112211+00:00",
+    "candidates_signature": "f5b977e7521a3f0f",
+    "alias_candidate": "El Xokas",
+    "alias_exists": false
+  },
+  "355688f9e4a7d369:79f0eb6acb0cca4b": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención es un libro físico de imaginería tarot recomendado como objeto de colección/semiótica, no como práctica de lectura arquetípica; ninguna candidata representa una obra bibliográfica de este tipo.",
+    "analyzed_at": "2026-05-16T06:33:33.196860+00:00",
+    "candidates_signature": "79f0eb6acb0cca4b",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "2796c13b0ec804fb:30babfc91f3d51a5": {
+    "match_page_id": "jung-carl-gustav",
+    "confidence": "high",
+    "rationale": "'Jung y el tarot' nombra directamente a Carl Gustav Jung como referencia bibliográfica en el contexto de comprensión junguiana del tarot; el tarot es solo el campo de aplicación, Jung es el sujeto principal del surface_form.",
+    "analyzed_at": "2026-05-16T06:33:38.647892+00:00",
+    "candidates_signature": "30babfc91f3d51a5",
+    "alias_candidate": "Jung",
+    "alias_exists": false
+  },
+  "188b2faad22a7f6e:32edfcab2dbb0818": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "'poética' se usa como contraste disciplinar para definir 'pensamiento poético', no como referencia autónoma a ninguna candidata; pensamiento-poetico es el concepto capturado, no 'poética' como disciplina.",
+    "analyzed_at": "2026-05-16T06:33:43.904344+00:00",
+    "candidates_signature": "32edfcab2dbb0818",
+    "alias_candidate": null,
+    "alias_exists": false
+  },
+  "ef2664eb01221e4f:6f4e5b7ad5904d5e": {
+    "match_page_id": "dracula-1992-film",
+    "confidence": "high",
+    "rationale": "Bram Stoker es el autor de la novela fuente de 'Drácula de Bram Stoker (Coppola, 1992)'; la mención ocurre exclusivamente en ese contexto comparativo novela-vs-film, sin tratamiento autoral independiente.",
+    "analyzed_at": "2026-05-16T06:33:51.876963+00:00",
+    "candidates_signature": "6f4e5b7ad5904d5e",
+    "alias_candidate": "Bram Stoker",
+    "alias_exists": false
+  },
+  "936c04b5293bb570:1eccef7716b28fee": {
+    "match_page_id": "kabbalah",
+    "confidence": "high",
+    "rationale": "La surface_form nombra explícitamente 'cábala' y 'sefirot', siendo 'sefirot' el término técnico central de la Cábala; la candidata page_id=kabbalah con canonical_name='Cábala' es equivalencia directa.",
+    "analyzed_at": "2026-05-16T06:33:57.220622+00:00",
+    "candidates_signature": "1eccef7716b28fee",
+    "alias_candidate": "sefirot",
+    "alias_exists": false
+  },
+  "fcdfac57c1d7a131:d3bd18060db91d49": {
+    "match_page_id": "apocalipsis-mitema",
+    "confidence": "high",
+    "rationale": "La mención refiere directamente al Apocalipsis como mito estructural (armazón cuádruple tolkieniano, Bestia/Dragón), equivalente semántico de 'Apocalipsis (mitema)'.",
+    "analyzed_at": "2026-05-16T06:34:02.693945+00:00",
+    "candidates_signature": "d3bd18060db91d49",
+    "alias_candidate": "Apocalipsis",
+    "alias_exists": false
+  }
+}

@@ -11,6 +11,7 @@ aliases:
 - representacionalismo lingüístico
 - psicolingüística del canal
 - determinismo lingüístico crítica
+- mecánica del tabú
 domain_primary: interdisciplinary.cognitive_science
 primary_domains:
 - interdisciplinary.cognitive_science
@@ -394,7 +395,8 @@ La generalización es operativa: el **arte** funciona como lenguaje no verbal �
 
 
 
-- video_id: `PWUUY7vVgUk` — El lenguaje no determina el pensamiento.
+
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [44:24](https://youtu.be/NjtK76xzV18?t=2664)
 - **Las piezas que faltan** — chunks: [1:06:47](https://youtu.be/DAW1HiYxnVk?t=4007)
+- **El lenguaje no determina el pensamiento.** — chunks: [14:09](https://youtu.be/PWUUY7vVgUk?t=849)
 

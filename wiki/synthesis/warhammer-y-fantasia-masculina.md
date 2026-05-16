@@ -218,4 +218,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
+
 - video_id: `xc8e2i_nREE` — T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.
+- **Análisis: Personalidad, Identidad e INSIDE OUT 2** — chunks: [2:37:24](https://youtu.be/TmQiM16HIpU?t=9444)
+

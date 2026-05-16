@@ -158,5 +158,7 @@ La pieza completa la doctrina del amor cortés desde el lado del fracaso: si el 
 ## Citations
 
 
+
 - **Fenomenología Trans** — chunks: [0:30](https://youtu.be/grs5EqRZBnQ?t=30) · [8:03](https://youtu.be/grs5EqRZBnQ?t=483) · [13:05](https://youtu.be/grs5EqRZBnQ?t=785)
+- **BUT WHY?** — chunks: [57:43](https://youtu.be/4tAWgX7-yXk?t=3463)
 

@@ -160,5 +160,7 @@ La tripulación original —el yo que habitaba la nave— fue absorbida por lo i
 ## Citations
 
 
+
 - **Event Horizon** — chunks: [2:43](https://youtu.be/cgO7JwvwOQg?t=163) · [23:11](https://youtu.be/cgO7JwvwOQg?t=1391) · [56:07](https://youtu.be/cgO7JwvwOQg?t=3367)
+- **Otoño de cuentos. Lovecraft** — chunks: [9:41](https://youtu.be/SwEqFdvBI9M?t=581)
 

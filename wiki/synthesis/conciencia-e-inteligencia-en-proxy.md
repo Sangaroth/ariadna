@@ -13,6 +13,7 @@ aliases:
 - conciencia artificial en Proxy
 - posicionamiento de Proxy en filosofía de la conciencia
 - sueña ChatGPT con ovejas eléctricas
+- metarrepresentacionalismo
 domain_primary: interdisciplinary.cognitive_science
 primary_domains:
 - interdisciplinary.cognitive_science
@@ -424,4 +425,7 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (minute
 
 ## Citations
 
+
 - video_id: `hqXmKZ77TEQ` — ¿Sueña ChatGPT con ovejas eléctricas?
+- **Sic transit gloria mundi** — chunks: [19:00](https://youtu.be/vDv77eZnMo4?t=1140)
+

@@ -263,9 +263,10 @@ En Alien: Covenant, David esparce la sustancia negra sobre los ingenieros y expe
 
 
 
+
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [29:33](https://youtu.be/NjtK76xzV18?t=1773) · [33:43](https://youtu.be/NjtK76xzV18?t=2023)
-- **Análisis La Llegada, (Parte uno, introducción)** — chunks: [21:16](https://youtu.be/aPbgBnidoJI?t=1276)
 - **Un Gólem llamado Prometeo.** — chunks: [0:39](https://youtu.be/Uykl0PLRRlo?t=39) · [21:12](https://youtu.be/Uykl0PLRRlo?t=1272) · [1:19:53](https://youtu.be/Uykl0PLRRlo?t=4793)
 - **Un Gólem llamado Prometeo** — chunks: [15:51](https://youtu.be/lk3DKsIagAE?t=951) · [26:32](https://youtu.be/lk3DKsIagAE?t=1592) · [59:32](https://youtu.be/lk3DKsIagAE?t=3572) · [1:04:08](https://youtu.be/lk3DKsIagAE?t=3848) · [1:24:34](https://youtu.be/lk3DKsIagAE?t=5074) · [1:31:39](https://youtu.be/lk3DKsIagAE?t=5499) · [1:34:41](https://youtu.be/lk3DKsIagAE?t=5681) · [1:45:12](https://youtu.be/lk3DKsIagAE?t=6312)
 - **Taxonomía de las criaturas malignas** — chunks: [35:06](https://youtu.be/rG_et1_G7Hs?t=2106)
+- **Análisis La Llegada, (Parte uno, introducción)** — chunks: [21:16](https://youtu.be/aPbgBnidoJI?t=1276)
 

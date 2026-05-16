@@ -3,11 +3,12 @@ page_id: lovecraft-howard
 page_type: author
 canonical_name: H. P. Lovecraft
 aliases:
-  - Lovecraft
-  - HP Lovecraft
-  - H.P. Lovecraft
-  - Howard Phillips Lovecraft
-  - lovecraftiano (adj.)
+- Lovecraft
+- HP Lovecraft
+- H.P. Lovecraft
+- Howard Phillips Lovecraft
+- lovecraftiano (adj.)
+- Edgar Allan Poe
 
 given_names: Howard Phillips
 family_name: Lovecraft
@@ -276,6 +277,7 @@ La filosofía lovecraftiana — un cosmos indiferente donde el sujeto humano es 
 - **Lectura junguiana directa de Lovecraft**: el canal usa marco junguiano para casi todo pero no articula un análisis explícito "Lovecraft según Jung"
 
 ## Citations
+
 
 
 
