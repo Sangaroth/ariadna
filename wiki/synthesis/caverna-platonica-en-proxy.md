@@ -233,5 +233,6 @@ El canal cierra el marco con una lectura del Génesis que conecta la epistemolog
 ## Citations
 
 
+
 - **De Platón A The Matrix** — chunks: [35:37](https://youtu.be/zr_ZKX60N54?t=2137)
 

@@ -110,6 +110,7 @@ La tibieza moral es, en este sentido, el sofisma estético aplicado al orden mor
 
 
 
+
 - **Eva, Lucifer, Satanás y la Serpiente.** — chunks: [1:06:43](https://youtu.be/dHDv_oZODYQ?t=4003) · [1:16:21](https://youtu.be/dHDv_oZODYQ?t=4581) · [1:20:22](https://youtu.be/dHDv_oZODYQ?t=4822) · [1:23:54](https://youtu.be/dHDv_oZODYQ?t=5034)
 - **MItología 101: El Gólem** — chunks: [48:50](https://youtu.be/IG3dkNBX9uU?t=2930)
 - **De Platón A The Matrix** — chunks: [1:10:17](https://youtu.be/zr_ZKX60N54?t=4217)

@@ -136,6 +136,7 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 
 
 
+
 - **Neon Genesis Evangelion. Psicoanálisis y gnosticismo** — chunks: [17:24](https://youtu.be/QSggWfjOkHk?t=1044) · [26:03](https://youtu.be/QSggWfjOkHk?t=1563) · [1:00:57](https://youtu.be/QSggWfjOkHk?t=3657) · [1:04:30](https://youtu.be/QSggWfjOkHk?t=3870) · [1:23:12](https://youtu.be/QSggWfjOkHk?t=4992) · [1:47:24](https://youtu.be/QSggWfjOkHk?t=6444)
 - **Suspiria: El Maligno y el Mito Lunar** — chunks: [1:20:23](https://youtu.be/nw7fSEAJr-U?t=4823)
 - **El mito de Dioniso** — chunks: [19:48](https://youtu.be/ttnUgH3jou8?t=1188) · [38:28](https://youtu.be/ttnUgH3jou8?t=2308)
