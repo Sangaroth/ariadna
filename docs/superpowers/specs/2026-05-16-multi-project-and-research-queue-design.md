@@ -339,7 +339,8 @@ projects/<slug>/
     ├── concepts/                   # subdirs creados también por create_project,
     ├── authors/                    # con .gitkeep dentro para versionarse.
     ├── entities/                   # Permite que git pueda registrar el proyecto
-    │   └── works/                  # sin pages compiladas todavía.
+    │   ├── works/                  # sin pages compiladas todavía.
+    │   └── institutions/
     └── synthesis/
 ```
 
@@ -563,6 +564,8 @@ def reload_relation_types(db: sqlite3.Connection):
 
 La transacción explícita previene que otros procesos (workers leyendo el grafo) vean tabla vacía durante el reload. Con WAL mode + transaction, los readers ven la tabla pre-DELETE hasta que el commit es atómico.
 
+**Manejo de JSON malformado**: si cualquier `relation_types_ext.json` es JSON inválido, `json.load()` lanza `JSONDecodeError` que se propaga fuera del `with db:` block. El rollback automático preserva el estado anterior de la tabla `relation_types_canonical` intacto. El startup del MCP server falla loudly con stacktrace claro indicando el archivo culpable — esto es **intencional**: un proyecto con ext malformado es deuda editorial que debe corregirse antes de levantar el server, no silenciarse con un try/except per-file que dejaría reload parcial.
+
 ### 7.4 `ariadna/policy_filters.py` actualizado
 
 Hoy el módulo escanea `wiki/_meta/extraction_runs/` global. Cambia a aceptar `project_id`:
@@ -678,11 +681,17 @@ Pasos:
     # set_payload por batch hasta agotar
     ```
     Idempotente por construcción. ~6442 puntos en minutos.
-14. **Actualizar paths hardcoded** en archivos Python (ver tabla 8.2)
-15. **Crear módulo `ariadna/project_config.py`** (sección 7.1)
-16. **Eliminar tools `get_video_summary` y `list_videos`** de `ariadna/mcp_server.py` + helper `CorpusStore.list_videos()` de `ariadna/storage.py`
-17. **Smoke test post-migración**: `python scripts/test_hybrid.py` + verificar `wiki/` vacío excepto `wiki/_meta/*_default.*` y `wiki/_meta/relation_types_core.json`
-18. **Commit unitario**: `refactor(projects): migrate to multi-project layout, proxy as first tenant`
+
+    **Estabilidad de Qdrant IDs**: el ID Qdrant (`chunk_id_int`) NO cambia durante
+    la migración — sigue siendo `hash(video_id + timestamp_seconds)` sin incluir
+    project_id. Solo el payload gana la nueva key. Esto garantiza que el baseline
+    capturado en `data/baseline_pre_migration.json` (que serializa chunk_ids)
+    siga siendo comparable post-migración.
+13. **Actualizar paths hardcoded** en archivos Python (ver tabla 8.2).
+14. **Crear módulo `ariadna/project_config.py`** (sección 7.1).
+15. **Eliminar tools `get_video_summary` y `list_videos`** de `ariadna/mcp_server.py` + helper `CorpusStore.list_videos()` de `ariadna/storage.py`.
+16. **Smoke test post-migración**: `python scripts/test_hybrid.py` + `python scripts/verify_phase1.py` + verificar `wiki/` vacío excepto `wiki/_meta/*_default.*` y `wiki/_meta/relation_types_core.json`.
+17. **Commit unitario**: `refactor(projects): migrate to multi-project layout, proxy as first tenant`.
 
 Cualquier estado intermedio rompe el sistema, por eso es un solo commit grande. Si algo falla a mitad, rollback es `git reset --hard HEAD`.
 
