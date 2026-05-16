@@ -1006,6 +1006,348 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 → [Del Papa y del Problema del Mal (29:39)](https://youtu.be/0KkMrcmw8Fw?t=1779)
 
 
+
+
+## Formación del mundo: codeterminación histórica, sujeto operatorio y unidad ética-moral-política
+
+T5x19 (may-2026) repite en directo la charla del seminario de Cuenca *Mito, psicología y ética como formación del mundo* — la grabación original quedó corrupta — y articula el realismo cognitivo como armazón unificador de tres dominios habitualmente tratados separados: psicología, mito y ética. La pieza opera como integración sintética del marco previamente disperso en las secciones anteriores y añade refinamientos categoriales nuevos.
+
+### Codeterminación histórica frente a constructivismo y esencialismo
+
+El marco se introduce mediante un tercer movimiento que rechaza tanto el constructivismo ingenuo (la tábula rasa que permite siempre culpar al exterior) como el esencialismo rígido (el bloque sin determinación externa):
+
+> "El constructivismo dice que el entorno nos define como sacapuntas al lápiz"
+→ [T5x19 Realismo y mitología (16:50)](https://youtu.be/GDQSqtdFjBs?t=1010)
+
+> "El esencialismo dice que somos un bloque rígido sin determinación externa"
+→ [T5x19 Realismo y mitología (16:50)](https://youtu.be/GDQSqtdFjBs?t=1010)
+
+> "Ni constructivismo, ni esencialismo, ni punto medio: codeterminación histórica"
+→ [T5x19 Realismo y mitología (18:51)](https://youtu.be/GDQSqtdFjBs?t=1131)
+
+La **codeterminación histórica** precisa el concepto de cocausación articulado en la sección 'Posicionamiento en el mapa filosófico' añadiendo el componente diacrónico: la naturaleza humana no es punto de equilibrio entre fuerzas sino sedimentación histórica de estructuras biológicas con función propia de las que el humano intenta desligarse sin conseguirlo.
+
+> "La naturaleza es un conjunto de estructuras biológicas con función propia"
+→ [T5x19 Realismo y mitología (18:51)](https://youtu.be/GDQSqtdFjBs?t=1131)
+
+> "Son estructuras de las que el humano intenta desligarse sin conseguirlo"
+→ [T5x19 Realismo y mitología (18:51)](https://youtu.be/GDQSqtdFjBs?t=1131)
+
+### Sujeto operatorio especialmente operante: el humano como ambiguante de sí
+
+El canal toma el término **sujeto operatorio** de [[bueno-gustavo]] como sinónimo filosófico de 'persona' y lo refina con una distinción específica: todos los seres vivos operan sobre el entorno como función vital, pero el humano se diferencia porque hace **operaciones reflexivas sobre sí mismo**.
+
+> "Un sujeto operatorio es el término filosófico para persona"
+→ [T5x19 Realismo y mitología (19:52)](https://youtu.be/GDQSqtdFjBs?t=1192)
+
+> "El humano se diferencia porque hace operaciones reflexivas sobre sí mismo"
+→ [T5x19 Realismo y mitología (19:52)](https://youtu.be/GDQSqtdFjBs?t=1192)
+
+Las operaciones reflexivas sobre emociones son el caso paradigmático: el humano puede apagar una emoción para ser mejor operante, provocarse una emoción para luchar contra algo, o alimentar rencor para destruir al enemigo más fácilmente. El león, en contraste, no puede operar reflexivamente sobre sus afectos — los afectos del león le indican directamente dónde hay comida, enemigo o huida.
+
+> "Puede apagar una emoción para ser mejor operante"
+→ [T5x19 Realismo y mitología (20:52)](https://youtu.be/GDQSqtdFjBs?t=1252)
+
+> "Puede alimentar rencor para destruir al enemigo más fácilmente"
+→ [T5x19 Realismo y mitología (20:52)](https://youtu.be/GDQSqtdFjBs?t=1252)
+
+> "Los afectos del león le indican dónde hay comida, enemigo o huida"
+→ [T5x19 Realismo y mitología (26:56)](https://youtu.be/GDQSqtdFjBs?t=1616)
+
+La pieza refina la articulación de **ambiguación** ya documentada en la sección 'Ambiguación representacional': la ambiguación entre los tres Q es operación específicamente humana. El cuervo no puede ambiguarse aunque use herramientas con el pico; el termitero es construcción natural porque las hormigas no saben qué hacen. La diferencia categorial entre naturaleza y cultura se asienta en esta operación reflexiva — la tablilla de arcilla es natural pero el texto escrito en ella ya es cultura; el lenguaje se hereda biológicamente, el idioma se aprende.
+
+> "El humano es a la vez sujeto y objeto de sí mismo porque puede ambiguarse"
+→ [T5x19 Realismo y mitología (23:25)](https://youtu.be/GDQSqtdFjBs?t=1405)
+
+> "El cuervo no puede ambiguarse aunque use herramientas con el pico"
+→ [T5x19 Realismo y mitología (23:25)](https://youtu.be/GDQSqtdFjBs?t=1405)
+
+> "La arcilla es natural pero el texto escrito en ella ya es cultura"
+→ [T5x19 Realismo y mitología (27:57)](https://youtu.be/GDQSqtdFjBs?t=1677)
+
+### Naturaleza como continuidad histórico-biológica con función propia
+
+La definición operativa de naturaleza que el canal articula es teleosemántica y diacrónica: la naturaleza es continuidad histórica de funciones propias biológicas. El corazón se define por su función de bombeo, no por ser músculo — un elemento tiene función propia X si proviene de ancestros que la realizaban con éxito. La cultura es por exclusión la no-naturaleza: el conjunto de operaciones no biológicas que modifican la naturaleza, incluyendo todo lo aprendido y lo heredado simbólicamente.
+
+> "La naturaleza es continuidad histórica de funciones propias biológicas"
+→ [T5x19 Realismo y mitología (29:57)](https://youtu.be/GDQSqtdFjBs?t=1797)
+
+> "El corazón se define por su función de bombeo, no por ser músculo"
+→ [T5x19 Realismo y mitología (29:57)](https://youtu.be/GDQSqtdFjBs?t=1797)
+
+> "Un elemento tiene función propia X si proviene de ancestros que la realizaban con éxito"
+→ [T5x19 Realismo y mitología (29:57)](https://youtu.be/GDQSqtdFjBs?t=1797)
+
+Esta definición prolonga el 'Primer axioma: toda clase tiene función propia de transitoriedad' aplicando el operador teleosemántico de Millikan al plano antropológico — la naturaleza humana es selección histórica acumulada, no esencia metafísica.
+
+### Mecanismos psíquicos como enactivos: orientación a la acción exterior
+
+El canal articula el sustrato operativo del marco con un término preciso: las herramientas mentales son **enactivas** — se crean en equilibrio continuo con el mundo y están pensadas para operar en él. NO existen mecanismos psíquicos puramente internos que no estén orientados a la acción exterior.
+
+> "Las herramientas mentales se crean en equilibrio continuo con el mundo"
+→ [T5x19 Realismo y mitología (31:28)](https://youtu.be/GDQSqtdFjBs?t=1888)
+
+> "No existen mecanismos psíquicos que no estén pensados para operar en el mundo"
+→ [T5x19 Realismo y mitología (31:28)](https://youtu.be/GDQSqtdFjBs?t=1888)
+
+La pieza prolonga el diálogo con la enactividad de Maturana y Varela articulado en sección homónima: el realismo cognitivo asume la operatividad situada del organismo pero conserva la representación como traducción fenomenológica. La función propia más importante de la mente, en este marco, es la creación de mapas del mundo — y esos mapas sirven para actuar en el ahora, no para el mañana. Las representaciones del futuro solo importan en tanto existen en una hora presente.
+
+> "La función propia más importante es la creación de mapas del mundo"
+→ [T5x19 Realismo y mitología (40:25)](https://youtu.be/GDQSqtdFjBs?t=2425)
+
+> "Esos mapas sirven para actuar en el ahora, no para el mañana"
+→ [T5x19 Realismo y mitología (40:25)](https://youtu.be/GDQSqtdFjBs?t=2425)
+
+### Definiciones operativas de psicología y ética como dominios del mismo aparato
+
+El cierre integrador del marco define los dos términos de la charla como operaciones del mismo sujeto operatorio:
+
+- **Psicología**: estudio de las operaciones conscientes y no conscientes; toda operación se define por su función propia. Los órganos mentales son clústeres de neuronas con función propia operatoria.
+- **Ética**: conjunto de proposiciones explícitas plasmadas en símbolos para ser comunicadas a otros. Una ética que empieza y acaba en mí mismo sería estéril; llevar armas pertenece al ámbito ético porque tiene consecuencias en el poder real.
+
+> "La psicología estudia las operaciones conscientes y no conscientes"
+→ [T5x19 Realismo y mitología (33:30)](https://youtu.be/GDQSqtdFjBs?t=2010)
+
+> "Los órganos mentales son clústeres de neuronas con función propia operatoria"
+→ [T5x19 Realismo y mitología (33:30)](https://youtu.be/GDQSqtdFjBs?t=2010)
+
+> "La ética se plasma en símbolos para poder ser comunicada a otros"
+→ [T5x19 Realismo y mitología (35:00)](https://youtu.be/GDQSqtdFjBs?t=2100)
+
+> "Una ética que empieza y acaba en mí mismo sería estéril"
+→ [T5x19 Realismo y mitología (35:00)](https://youtu.be/GDQSqtdFjBs?t=2100)
+
+### Fuerza y fe: los motores reales de las relaciones humanas
+
+El armazón ético-político del marco descansa en dos motores que operan por debajo de toda construcción cultural posterior: la fuerza (quien tiene más y sabe aplicarla gana) y la fe no religiosa (creencia que permite comprender que hay leyes; equilibrio de fuerzas donde uno cree que el otro no le pegará si él no le pega).
+
+> "Quien tiene más fuerza y sabe aplicarla es quien gana"
+→ [T5x19 Realismo y mitología (36:31)](https://youtu.be/GDQSqtdFjBs?t=2191)
+
+> "La fe no religiosa es la creencia que permite comprender que hay leyes"
+→ [T5x19 Realismo y mitología (36:31)](https://youtu.be/GDQSqtdFjBs?t=2191)
+
+> "La creencia de que el otro no me pegará si yo no le pego es equilibrio de fuerzas"
+→ [T5x19 Realismo y mitología (36:31)](https://youtu.be/GDQSqtdFjBs?t=2191)
+
+### Eutaxia y unidad ética-moral-política
+
+La pieza-cierre del armazón: ética, moral y política son prácticamente lo mismo en el realismo cognitivo. Usan las mismas funciones propias del sujeto operatorio (personalidad, hambre, necesidades, fuerza y fe). Las operaciones buenas son las que procuran **eutaxia** — del individuo y del conjunto.
+
+> "Las operaciones buenas son las que procuran eutaxia del individuo y el conjunto"
+→ [T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)
+
+> "Ética, moral y política son prácticamente lo mismo en el realismo cognitivo"
+→ [T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)
+
+> "Usan las mismas funciones propias: personalidad, hambre, necesidades, fuerza y fe"
+→ [T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)
+
+La fusión de los tres dominios en un único campo de análisis es consecuencia directa del marco unificador articulado en sección 'Convergencia disciplinar': si el realismo cognitivo absorbe filosofía analítica + teoría de la mente + psicología en una sola disciplina, la tríada ética/moral/política se reduce análogamente — los tres registros son aplicaciones del mismo aparato sujeto-operatorio sobre dominios distintos (yo individual / costumbres colectivas / poder real). El criterio operativo común es la eutaxia, término que el canal toma de [[bueno-gustavo]] reasignándolo al marco del realismo cognitivo. La conexión con [[mitologia-propia-impropia]] cierra el bucle: los mitos arquetípicos, al explicitarse vía construcción cultural, cristalizan en éticas construidas cuyo fin último es eutáxico.
+
+
+
+## Genealogía del a priori cognitivo: tour por los pensadores fundacionales (Psicología 101)
+
+T5x16 (may-2026) en formato Psicología 101 articula explícitamente la genealogía filosófico-científica del **a priori cognitivo** como armazón del marco. El canal sitúa el realismo cognitivo en diálogo con diez pensadores que aportan piezas estructurales: el contenido mental requiere estructuras previas que no se conforman desde cero, sino que están instaladas como funciones propias evolutivamente seleccionadas y codificadas en el ADN.
+
+> "El contenido mental requiere estructuras cognitivas que no se conforman desde cero"
+→ [T5x16 Psicología 101: Naturaleza a priori (14:22)](https://youtu.be/csNxQbeP3sk?t=862)
+
+> "Las categorías a priori son muy pequeñas y muy precisas; están en el ADN desde el inicio, son prenatales/congénitas"
+→ [T5x16 Psicología 101: Naturaleza a priori (1:09:21)](https://youtu.be/csNxQbeP3sk?t=4161)
+
+> "Los bebés muestran las mismas clases cognitivas que los adultos"
+→ [T5x16 Psicología 101: Naturaleza a priori (1:09:21)](https://youtu.be/csNxQbeP3sk?t=4161)
+
+La última afirmación es testable: si los bebés operan con las mismas clases cognitivas que los adultos, el a priori NO se construye en el desarrollo postnatal — está ya operando desde antes. La pieza articula uno de los fundamentos del research program documentado en [[tesis-once-celdas-en-proxy]] (sección 'Homología evolutiva').
+
+### Kant: la revolución copernicana del a priori
+
+El punto de partida del armazón. Frente a Hume, Kant invierte la dirección de la adaptación cognitiva: NO es el sujeto el que se adapta al objeto sino el objeto el que se percibe filtrado por la forma de conocer del sujeto. Los apriorismos kantianos son **herramientas instaladas de fábrica** que filtran la realidad.
+
+> "Frente a Hume, Kant invierte la dirección de la adaptación cognitiva"
+→ [T5x16 Psicología 101: Naturaleza a priori (20:57)](https://youtu.be/csNxQbeP3sk?t=1257)
+
+> "Los apriorismos kantianos son herramientas instaladas de fábrica"
+→ [T5x16 Psicología 101: Naturaleza a priori (22:27)](https://youtu.be/csNxQbeP3sk?t=1347)
+
+El ejemplo paradigmático es perceptivo: hay infinidad de longitudes de onda pero solo percibimos siete colores. La cualidad-color NO está en la realidad — está en nuestra capacidad de percepción filtrante. Sin categorías apriorísticas, todas las percepciones van a ciegas: categorizar es enmarcar el mundo en filtros previos.
+
+> "Hay infinidad de longitudes de onda pero solo percibimos siete colores"
+→ [T5x16 Psicología 101: Naturaleza a priori (22:27)](https://youtu.be/csNxQbeP3sk?t=1347)
+
+> "Sin categorías apriorísticas todas las percepciones van a ciegas"
+→ [T5x16 Psicología 101: Naturaleza a priori (23:27)](https://youtu.be/csNxQbeP3sk?t=1407)
+
+La metáfora canónica del canal: si nuestras estructuras son cuadradas, una esfera se percibirá como cuadrado. El a priori no es velo entre sujeto y realidad — ES la condición misma de que haya percepción de algo. La pieza pertenece a la cuestión de noseología/epistemología (ver sección 'Ontología, fenomenología y gnoseología'), no a la ontología.
+
+### Lakoff: cognición encarnada y metáforas en-activas
+
+La precisión decisiva sobre Kant. El canal recomienda explícitamente **Lakoff** como referencia investigativa para el marco: Kant acertó con las estructuras pero las redujo a lo lógico. Las unidades mínimas de conocimiento están en el **cuerpo**, no en la lógica pura.
+
+> "Recomienda quedarse con el nombre de Lakoff para investigar"
+→ [T5x16 Psicología 101: Naturaleza a priori (14:22)](https://youtu.be/csNxQbeP3sk?t=862)
+
+> "Kant acertó con las estructuras pero las redujo a lo lógico"
+→ [T5x16 Psicología 101: Naturaleza a priori (25:58)](https://youtu.be/csNxQbeP3sk?t=1558)
+
+> "Las unidades mínimas de conocimiento están en el cuerpo"
+→ [T5x16 Psicología 101: Naturaleza a priori (25:58)](https://youtu.be/csNxQbeP3sk?t=1558)
+
+Las **metáforas en-activas** son el mecanismo: explicamos una cosa en tanto interactuaríamos corporalmente con ella. El futuro se categoriza como aquello hacia donde caminamos (metáfora del camino), el contenedor se entiende porque el cuerpo tiene interior y exterior, 'desbordar' funciona porque aprendimos a movernos con volúmenes.
+
+> "El tiempo se categoriza con la metáfora del camino y los objetivos"
+→ [T5x16 Psicología 101: Naturaleza a priori (28:29)](https://youtu.be/csNxQbeP3sk?t=1709)
+
+> "La metáfora en-activa explica una cosa en tanto interactuaríamos con ella"
+→ [T5x16 Psicología 101: Naturaleza a priori (28:29)](https://youtu.be/csNxQbeP3sk?t=1709)
+
+> "El contenedor se entiende porque el cuerpo tiene interior y exterior"
+→ [T5x16 Psicología 101: Naturaleza a priori (28:29)](https://youtu.be/csNxQbeP3sk?t=1709)
+
+Lakoff aporta el dispositivo conceptual (cognición encarnada) que el realismo cognitivo necesita para anclar la representación en sustrato somático sin caer en el reduccionismo logicista de Kant. La conexión con la sección 'Argumento desde la transducción afectivo-somática' es directa: el cuerpo no es soporte mecánico de una mente lógica, es la fuente representacional primitiva de la mente misma.
+
+### Lévi-Strauss: oposiciones binarias como unidad de cognición
+
+Aporta un mecanismo operativo del a priori distinto del kantiano: la unidad de cognición no es la categoría aislada sino el **contraste entre opuestos** (forma/fondo, recta/curva, sujeto/objeto). Todas las culturas operan con estructuras inconscientes de oposición binaria.
+
+> "Todas las culturas operan con estructuras inconscientes"
+→ [T5x16 Psicología 101: Naturaleza a priori (33:10)](https://youtu.be/csNxQbeP3sk?t=1990)
+
+> "La unidad de cognición es el contraste entre opuestos: forma/fondo, recta/curva"
+→ [T5x16 Psicología 101: Naturaleza a priori (33:10)](https://youtu.be/csNxQbeP3sk?t=1990)
+
+> "La cognición elabora categorías a través de categorías que se delimitan entre sí"
+→ [T5x16 Psicología 101: Naturaleza a priori (33:10)](https://youtu.be/csNxQbeP3sk?t=1990)
+
+El refinamiento sobre Kant es funcional: para Kant las categorías servían para conocer objetos; para Lévi-Strauss, para crear **significado social**. Una categoría existe porque importa a otros que también la reconocen — adición del componente intersubjetivo al a priori cognitivo.
+
+> "Para Kant servían para conocer objetos; para Lévi-Strauss, para crear significado social"
+→ [T5x16 Psicología 101: Naturaleza a priori (35:11)](https://youtu.be/csNxQbeP3sk?t=2111)
+
+### Foucault: categorías como herramientas de control histórico
+
+Aporta el componente **histórico-político** al cuadro. Cada época tiene un código de red que define verdad, locura, salud, enfermedad. La categoría 'delincuente' no es a priori biológica sino construcción histórica con función de control. El software mental tiene fecha de caducidad y se renueva según la realidad.
+
+> "Cada época tiene un código de red que define verdad, locura, salud, enfermedad"
+→ [T5x16 Psicología 101: Naturaleza a priori (36:43)](https://youtu.be/csNxQbeP3sk?t=2203)
+
+> "La categoría 'delincuente' no es a priori biológica sino construcción histórica"
+→ [T5x16 Psicología 101: Naturaleza a priori (36:43)](https://youtu.be/csNxQbeP3sk?t=2203)
+
+> "El software mental tiene fecha de caducidad y se renueva según la realidad"
+→ [T5x16 Psicología 101: Naturaleza a priori (36:43)](https://youtu.be/csNxQbeP3sk?t=2203)
+
+La pieza aporta la distinción categórica entre **a priori biológico** (universal, codificado en ADN, irreducible) y **categorías culturales** (históricas, modificables, función política). El realismo cognitivo conserva ambas: el primer registro como armazón estructural permanente, el segundo como modulación cultural variable sobre ese armazón. La distinción cierra el flanco que la sección sobre constructivismo neurocultural divulgativo de [[teoria-del-lenguaje-en-proxy]] articula desde el ángulo lingüístico.
+
+### Chomsky y Pinker: el a priori biológico del lenguaje
+
+El sustrato más fuerte del cuadro. Los niños no aprenden el lenguaje desde cero sino con caja de herramientas innata. Las categorías de tiempo y espacio están grabadas en el ADN por evolución.
+
+> "Los niños no aprenden el lenguaje desde cero sino con caja de herramientas innata"
+→ [T5x16 Psicología 101: Naturaleza a priori (38:14)](https://youtu.be/csNxQbeP3sk?t=2294)
+
+> "Las categorías de tiempo y espacio están grabadas en el ADN por evolución"
+→ [T5x16 Psicología 101: Naturaleza a priori (38:14)](https://youtu.be/csNxQbeP3sk?t=2294)
+
+El canal sitúa el realismo cognitivo en línea con Chomsky-Pinker frente al constructivismo lingüístico. Ver [[teoria-del-lenguaje-en-proxy]] sección 'Lenguaje como función cognitiva innata vs idioma como código aprendido' para el desarrollo articulado.
+
+### Leibniz y Gestalt: unidades irreducibles y totalidad sintética
+
+**Leibniz** aporta el paralelismo estructural: si en cognición la cualia es la unidad mínima representacional, la **mónada** es la unidad mínima ontológica. Las mónadas no interactúan entre sí pero el todo parece mayor que sus partes.
+
+> "Las mónadas serían unidades irreducibles de alma, no de materia"
+→ [T5x16 Psicología 101: Naturaleza a priori (16:54)](https://youtu.be/csNxQbeP3sk?t=1014)
+
+> "Si en cognición la cualia es la unidad mínima, la mónada lo es de las cosas"
+→ [T5x16 Psicología 101: Naturaleza a priori (16:54)](https://youtu.be/csNxQbeP3sk?t=1014)
+
+**Gestalt** añade el componente sintético: lo que percibimos NO es agregación atomística de qualia sino reconstrucción que excede sus componentes. Un ordenador es también procedimientos, contexto, semántica y afectos — clases en-activas y afectivas integradas a la percepción imaginaria del objeto.
+
+> "Lo que percibimos son cosas más grandes que la suma de sus partes"
+→ [T5x16 Psicología 101: Naturaleza a priori (19:25)](https://youtu.be/csNxQbeP3sk?t=1165)
+
+> "Las cosas también son los afectos que les imprimimos por cognición"
+→ [T5x16 Psicología 101: Naturaleza a priori (19:25)](https://youtu.be/csNxQbeP3sk?t=1165)
+
+La pieza conecta con la sección 'Los tres Q': la representación opera sobre clases integradas multi-Q, no sobre átomos qualia aislados.
+
+### Millikan y Maturana-Varela: refuerzos concisos
+
+**Millikan** (función propia teleosemántica — ya cubierta en sección 'Primer axioma') recibe en T5x16 la formulación más concisa: una estructura existe porque su función fue útil evolutivamente. El rojo es función propia porque fue útil distinguirlo; el infrarrojo no se percibe porque no hubo presión evolutiva. El corazón es función (bombear sangre), no órgano físico; el pánico es la función de percibir pánico, no una sensación.
+
+> "Una estructura existe porque su función fue útil evolutivamente"
+→ [T5x16 Psicología 101: Naturaleza a priori (39:45)](https://youtu.be/csNxQbeP3sk?t=2385)
+
+> "Toda cognición es función propia: el corazón es función (bombear sangre), no órgano físico"
+→ [T5x16 Psicología 101: Naturaleza a priori (52:40)](https://youtu.be/csNxQbeP3sk?t=3160)
+
+> "El pánico es la función de percibir pánico, no una sensación"
+→ [T5x16 Psicología 101: Naturaleza a priori (52:40)](https://youtu.be/csNxQbeP3sk?t=3160)
+
+**Maturana y Varela** (ver sección 'Diálogo con la enactividad') reciben la formulación más concisa de la tesis en-activa:
+
+> "Toda la noesis existe en orden a comunicarse con el exterior"
+→ [T5x16 Psicología 101: Naturaleza a priori (50:33)](https://youtu.be/csNxQbeP3sk?t=3033)
+
+> "Sin reflejo de orientación, no hay nada en la mente sin función en-activa"
+→ [T5x16 Psicología 101: Naturaleza a priori (50:33)](https://youtu.be/csNxQbeP3sk?t=3033)
+
+## Top-down y bottom-up: predicción y error como motor cognitivo
+
+T5x16 articula el mecanismo operativo del a priori en términos de **predictive processing**: el pensamiento es síntesis entre **predicción del exterior** (top-down) y **evaluación del error** (bottom-up). Top-down absorbe la realidad; bottom-up proyecta realidad hacia afuera.
+
+> "El pensamiento es síntesis de predicción del exterior y evaluación del error"
+→ [T5x16 Psicología 101: Naturaleza a priori (42:18)](https://youtu.be/csNxQbeP3sk?t=2538)
+
+> "Top-down absorbe la realidad; bottom-up proyecta realidad hacia afuera"
+→ [T5x16 Psicología 101: Naturaleza a priori (42:18)](https://youtu.be/csNxQbeP3sk?t=2538)
+
+La pieza tiene consecuencia clínica precisa: cuando el bottom-up se desboca aparecen alucinaciones visuales y auditivas. El TOC opera como **bottom-up desinhibido** — genera noesis sin contrastarla con el exterior, por eso ese tipo de patología requiere antipsicóticos. Los sueños son alucinación descontrolada por ausencia de input real.
+
+> "El trastorno obsesivo compulsivo genera noesis sin contrastarla con el exterior"
+→ [T5x16 Psicología 101: Naturaleza a priori (44:20)](https://youtu.be/csNxQbeP3sk?t=2660)
+
+> "Los sueños son alucinación descontrolada por ausencia de input real"
+→ [T5x16 Psicología 101: Naturaleza a priori (44:20)](https://youtu.be/csNxQbeP3sk?t=2660)
+
+La consecuencia interpretativa cierra una confusión divulgativa frecuente — 'la realidad es una alucinación controlada' NO significa que la realidad sea alucinación; significa que sin input perceptivo la información saliente (bottom-up) llenaría la mente. El aislamiento sensorial provoca alucinaciones por falta de presión entrante, no porque la percepción normal ya sea alucinación.
+
+> "Sin input perceptivo la información saliente llenaría la mente"
+→ [T5x16 Psicología 101: Naturaleza a priori (45:53)](https://youtu.be/csNxQbeP3sk?t=2753)
+
+> "Aislamiento sensorial provoca alucinaciones por falta de presión entrante"
+→ [T5x16 Psicología 101: Naturaleza a priori (45:53)](https://youtu.be/csNxQbeP3sk?t=2753)
+
+Los **fosfenos** (manchas que se ven con los ojos cerrados) y el **picor** corroboran neurológicamente el mecanismo: las neuronas funcionan todo el rato, no solo con estímulo. Con ojos cerrados las neuronas siguen transmitiendo ruido que vemos; el picor son neuronas aferentes pidiendo confirmación de que sigue habiendo realidad.
+
+> "Las neuronas funcionan todo el rato, no solo con estímulo"
+→ [T5x16 Psicología 101: Naturaleza a priori (48:24)](https://youtu.be/csNxQbeP3sk?t=2904)
+
+> "El picor son neuronas aferentes pidiendo confirmación de que sigue habiendo realidad"
+→ [T5x16 Psicología 101: Naturaleza a priori (48:24)](https://youtu.be/csNxQbeP3sk?t=2904)
+
+## La filosofía de la mente debe ser analítica, no continental: el problema de las metametáforas
+
+El cierre meta-metodológico del vídeo articula una posición que el marco tenía implícita: la filosofía es la disciplina de **clasificación de las ideas**, y la filosofía de la mente debe operar analíticamente, no continental-metafóricamente. El argumento es estructural: si la cognición YA opera con metáforas corporales (Lakoff), describirla con metáforas crea **metametáforas** — capas adicionales de figura sobre figura que no preservan la clase representacional original.
+
+> "Los procesos mentales ya son metafóricos por estar encarnados"
+→ [T5x16 Psicología 101: Naturaleza a priori (1:15:32)](https://youtu.be/csNxQbeP3sk?t=4532)
+
+> "Describir la mente con metáforas crea metametáforas y problemas de autorreferencia"
+→ [T5x16 Psicología 101: Naturaleza a priori (1:15:32)](https://youtu.be/csNxQbeP3sk?t=4532)
+
+El ejemplo paradigmático que el canal usa es 'espacio noseológico' — llamar 'espacio' a algo que no es espacio reserva mal la clase y transmite categorías distintas a las pretendidas.
+
+> "Llamar 'espacio' a algo que no es espacio reserva mal la clase"
+→ [T5x16 Psicología 101: Naturaleza a priori (1:17:39)](https://youtu.be/csNxQbeP3sk?t=4659)
+
+> "Al cierto nivel de abstracción dejamos de describir lo que queremos describir"
+→ [T5x16 Psicología 101: Naturaleza a priori (1:17:39)](https://youtu.be/csNxQbeP3sk?t=4659)
+
+La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analítica es la única herramienta válida para desarrollar teoría de la mente porque preserva el régimen categorial al operar formalmente, mientras que la filosofía continental — que opera por metáforas literarias — produce metametáforas que rompen la identidad subjetivo/experiencia que el marco exige (ver sección 'Identidad de relato subjetivo y relato de experiencia subjetiva').
+
 ## Lagunas
 
 - El canal no detalla qué teoría positiva del **representacionalismo** sostiene — afirma que el problema de Gettier es "crucial para ciencias cognitivas y el representacionalismo" pero no articula su propia versión.
@@ -1015,6 +1357,8 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 - La distancia ontología / fenomenología se postula como medible, pero no hay propuesta operacional de cómo se mide en casos concretos fuera del ejemplo de longitud de onda vs. color.
 
 ## Citations
+
+
 
 
 
@@ -1115,4 +1459,6 @@ La auto-reflexión refina la oposición simple realismo-cognitivo vs psicoanáli
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
+- **T5x19: Realismo y mitología.** — chunks: [25:26](https://youtu.be/GDQSqtdFjBs?t=1526) · [37:32](https://youtu.be/GDQSqtdFjBs?t=2252)
+- **T5x16 Psicología 101: Naturaleza a priori.** — chunks: [14:22](https://youtu.be/csNxQbeP3sk?t=862)
 

@@ -1,0 +1,355 @@
+{
+  "video_id": "GDQSqtdFjBs",
+  "video_title": "T5x19: Realismo y mitología.",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "realismo cognitivo / codeterminación histórica / sujeto operatorio",
+      "canonical_guess": "realismo-cognitivo",
+      "page_type": "concept",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 45,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Ni constructivismo, ni esencialismo, ni punto medio: codeterminación histórica,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El humano se diferencia porque hace operaciones reflexivas sobre sí mismo,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Las operaciones buenas son las que procuran eutaxia del individuo y el conjunto,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "El tema nuclear es la relación antropológica entre mito, psicología y ética,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo replica la charla del seminario de Cuenca y articula el realismo cognitivo como armazón unificador del trío psicología-mito-ética. Material genuinamente nuevo respecto al cuerpo leído: (a) codeterminación histórica como TERCERA vía explícita frente a constructivismo y esencialismo (refinamiento del cocausacionismo ya documentado, añadiendo dimensión diacrónica); (b) sujeto operatorio + operaciones reflexivas sobre emociones (refinamiento del término buenista, ahora aplicado a la distinción categorial humano-vs-animal); (c) naturaleza/cultura por exclusión + continuidad histórico-biológica con función propia (corazón se define por bombeo no por ser músculo — aplicación teleosemántica al plano antropológico); (d) mecanismos psíquicos como enactivos orientados a la acción exterior (cierra el flanco que la sección Maturana dejaba abierta); (e) ambiguación humano-vs-cuervo + termitero/tablilla como criterio operativo de naturaleza/cultura; (f) definición canal-específica de psicología (estudio de operaciones conscientes y no conscientes; órganos mentales como clústeres de neuronas con función propia); (g) ética como proposiciones explícitas plasmadas en símbolos; (h) eutaxia como criterio unificador + ÉTICA = MORAL = POLÍTICA reducidas al mismo aparato sujeto-operatorio (consecuencia operativa directa de la convergencia disciplinar ya documentada); (i) fuerza y fe como motores reales de las relaciones humanas. Ninguno de estos elementos está sustantivamente en la prosa actual de la página (1118 líneas verificadas).",
+      "quote_evidence": "Ni constructivismo, ni esencialismo, ni punto medio: codeterminación histórica,"
+    },
+    {
+      "surface_form": "mito arquetípico / mito propio literario / trichotomía",
+      "canonical_guess": "mitologia-propia-impropia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "monographic",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Los mitos propios literarios aceptan su imposibilidad fantástica,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Los arquetípicos son estructuras naturales heredadas biológicamente,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "No existen arquetipos impropios, todos los arquetipos son propios,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento conceptual sustantivo: (a) la distinción binaria propio/impropio que la página articula se descompone explícitamente en TRICHOTOMÍA — impropio (idea difusa con sentido solo afectivo, p.ej. felicidad/democracia/ideologías) / propio literario (ficción consciente que acepta su imposibilidad) / arquetípico (estructura natural heredada biológicamente). La separación 'propio literario vs arquetípico' es nueva en el wiki — la página actual los lumps. (b) Consecuencia ontológica decisiva: NO EXISTEN ARQUETIPOS IMPROPIOS. Todos los arquetipos son propios. La impropiedad solo aplica a constructos culturales no reconocidos. (c) TAXONOMÍA COMPLETA articulada explícitamente: dios, diosa, héroe, mago, gólem, polar, génesis, apocalipsis (8 mitos arquetípicos primarios). Muchos ya tienen página propia en el wiki pero la taxonomía consolidada nunca se había documentado en mitologia-propia-impropia. (d) TRES CAPAS del mito arquetípico (poética literal preparando afectivamente / metafórica del yo y humanidad / gramatical de procesos cognitivos) — framework analítico canal-específico no presente en el cuerpo actual. (e) Lenguaje poético como idioma universal de afectos: 'los afectos no se pueden replicar, solo reconocer'. (f) Bisagra arquetipo→ética: cuando arquetipo y mito se explicitan se convierten en éticas construidas con fin eutáxico.",
+      "quote_evidence": "Dios, diosa, héroe, mago, gólem, polar, génesis y apocalipsis,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "realismo-cognitivo",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "content_proposed": "\n\n## Formación del mundo: codeterminación histórica, sujeto operatorio y unidad ética-moral-política\n\nT5x19 (may-2026) repite en directo la charla del seminario de Cuenca *Mito, psicología y ética como formación del mundo* — la grabación original quedó corrupta — y articula el realismo cognitivo como armazón unificador de tres dominios habitualmente tratados separados: psicología, mito y ética. La pieza opera como integración sintética del marco previamente disperso en las secciones anteriores y añade refinamientos categoriales nuevos.\n\n### Codeterminación histórica frente a constructivismo y esencialismo\n\nEl marco se introduce mediante un tercer movimiento que rechaza tanto el constructivismo ingenuo (la tábula rasa que permite siempre culpar al exterior) como el esencialismo rígido (el bloque sin determinación externa):\n\n> \"El constructivismo dice que el entorno nos define como sacapuntas al lápiz\"\n→ [T5x19 Realismo y mitología (16:50)](https://youtu.be/GDQSqtdFjBs?t=1010)\n\n> \"El esencialismo dice que somos un bloque rígido sin determinación externa\"\n→ [T5x19 Realismo y mitología (16:50)](https://youtu.be/GDQSqtdFjBs?t=1010)\n\n> \"Ni constructivismo, ni esencialismo, ni punto medio: codeterminación histórica\"\n→ [T5x19 Realismo y mitología (18:51)](https://youtu.be/GDQSqtdFjBs?t=1131)\n\nLa **codeterminación histórica** precisa el concepto de cocausación articulado en la sección 'Posicionamiento en el mapa filosófico' añadiendo el componente diacrónico: la naturaleza humana no es punto de equilibrio entre fuerzas sino sedimentación histórica de estructuras biológicas con función propia de las que el humano intenta desligarse sin conseguirlo.\n\n> \"La naturaleza es un conjunto de estructuras biológicas con función propia\"\n→ [T5x19 Realismo y mitología (18:51)](https://youtu.be/GDQSqtdFjBs?t=1131)\n\n> \"Son estructuras de las que el humano intenta desligarse sin conseguirlo\"\n→ [T5x19 Realismo y mitología (18:51)](https://youtu.be/GDQSqtdFjBs?t=1131)\n\n### Sujeto operatorio especialmente operante: el humano como ambiguante de sí\n\nEl canal toma el término **sujeto operatorio** de [[bueno-gustavo]] como sinónimo filosófico de 'persona' y lo refina con una distinción específica: todos los seres vivos operan sobre el entorno como función vital, pero el humano se diferencia porque hace **operaciones reflexivas sobre sí mismo**.\n\n> \"Un sujeto operatorio es el término filosófico para persona\"\n→ [T5x19 Realismo y mitología (19:52)](https://youtu.be/GDQSqtdFjBs?t=1192)\n\n> \"El humano se diferencia porque hace operaciones reflexivas sobre sí mismo\"\n→ [T5x19 Realismo y mitología (19:52)](https://youtu.be/GDQSqtdFjBs?t=1192)\n\nLas operaciones reflexivas sobre emociones son el caso paradigmático: el humano puede apagar una emoción para ser mejor operante, provocarse una emoción para luchar contra algo, o alimentar rencor para destruir al enemigo más fácilmente. El león, en contraste, no puede operar reflexivamente sobre sus afectos — los afectos del león le indican directamente dónde hay comida, enemigo o huida.\n\n> \"Puede apagar una emoción para ser mejor operante\"\n→ [T5x19 Realismo y mitología (20:52)](https://youtu.be/GDQSqtdFjBs?t=1252)\n\n> \"Puede alimentar rencor para destruir al enemigo más fácilmente\"\n→ [T5x19 Realismo y mitología (20:52)](https://youtu.be/GDQSqtdFjBs?t=1252)\n\n> \"Los afectos del león le indican dónde hay comida, enemigo o huida\"\n→ [T5x19 Realismo y mitología (26:56)](https://youtu.be/GDQSqtdFjBs?t=1616)\n\nLa pieza refina la articulación de **ambiguación** ya documentada en la sección 'Ambiguación representacional': la ambiguación entre los tres Q es operación específicamente humana. El cuervo no puede ambiguarse aunque use herramientas con el pico; el termitero es construcción natural porque las hormigas no saben qué hacen. La diferencia categorial entre naturaleza y cultura se asienta en esta operación reflexiva — la tablilla de arcilla es natural pero el texto escrito en ella ya es cultura; el lenguaje se hereda biológicamente, el idioma se aprende.\n\n> \"El humano es a la vez sujeto y objeto de sí mismo porque puede ambiguarse\"\n→ [T5x19 Realismo y mitología (23:25)](https://youtu.be/GDQSqtdFjBs?t=1405)\n\n> \"El cuervo no puede ambiguarse aunque use herramientas con el pico\"\n→ [T5x19 Realismo y mitología (23:25)](https://youtu.be/GDQSqtdFjBs?t=1405)\n\n> \"La arcilla es natural pero el texto escrito en ella ya es cultura\"\n→ [T5x19 Realismo y mitología (27:57)](https://youtu.be/GDQSqtdFjBs?t=1677)\n\n### Naturaleza como continuidad histórico-biológica con función propia\n\nLa definición operativa de naturaleza que el canal articula es teleosemántica y diacrónica: la naturaleza es continuidad histórica de funciones propias biológicas. El corazón se define por su función de bombeo, no por ser músculo — un elemento tiene función propia X si proviene de ancestros que la realizaban con éxito. La cultura es por exclusión la no-naturaleza: el conjunto de operaciones no biológicas que modifican la naturaleza, incluyendo todo lo aprendido y lo heredado simbólicamente.\n\n> \"La naturaleza es continuidad histórica de funciones propias biológicas\"\n→ [T5x19 Realismo y mitología (29:57)](https://youtu.be/GDQSqtdFjBs?t=1797)\n\n> \"El corazón se define por su función de bombeo, no por ser músculo\"\n→ [T5x19 Realismo y mitología (29:57)](https://youtu.be/GDQSqtdFjBs?t=1797)\n\n> \"Un elemento tiene función propia X si proviene de ancestros que la realizaban con éxito\"\n→ [T5x19 Realismo y mitología (29:57)](https://youtu.be/GDQSqtdFjBs?t=1797)\n\nEsta definición prolonga el 'Primer axioma: toda clase tiene función propia de transitoriedad' aplicando el operador teleosemántico de Millikan al plano antropológico — la naturaleza humana es selección histórica acumulada, no esencia metafísica.\n\n### Mecanismos psíquicos como enactivos: orientación a la acción exterior\n\nEl canal articula el sustrato operativo del marco con un término preciso: las herramientas mentales son **enactivas** — se crean en equilibrio continuo con el mundo y están pensadas para operar en él. NO existen mecanismos psíquicos puramente internos que no estén orientados a la acción exterior.\n\n> \"Las herramientas mentales se crean en equilibrio continuo con el mundo\"\n→ [T5x19 Realismo y mitología (31:28)](https://youtu.be/GDQSqtdFjBs?t=1888)\n\n> \"No existen mecanismos psíquicos que no estén pensados para operar en el mundo\"\n→ [T5x19 Realismo y mitología (31:28)](https://youtu.be/GDQSqtdFjBs?t=1888)\n\nLa pieza prolonga el diálogo con la enactividad de Maturana y Varela articulado en sección homónima: el realismo cognitivo asume la operatividad situada del organismo pero conserva la representación como traducción fenomenológica. La función propia más importante de la mente, en este marco, es la creación de mapas del mundo — y esos mapas sirven para actuar en el ahora, no para el mañana. Las representaciones del futuro solo importan en tanto existen en una hora presente.\n\n> \"La función propia más importante es la creación de mapas del mundo\"\n→ [T5x19 Realismo y mitología (40:25)](https://youtu.be/GDQSqtdFjBs?t=2425)\n\n> \"Esos mapas sirven para actuar en el ahora, no para el mañana\"\n→ [T5x19 Realismo y mitología (40:25)](https://youtu.be/GDQSqtdFjBs?t=2425)\n\n### Definiciones operativas de psicología y ética como dominios del mismo aparato\n\nEl cierre integrador del marco define los dos términos de la charla como operaciones del mismo sujeto operatorio:\n\n- **Psicología**: estudio de las operaciones conscientes y no conscientes; toda operación se define por su función propia. Los órganos mentales son clústeres de neuronas con función propia operatoria.\n- **Ética**: conjunto de proposiciones explícitas plasmadas en símbolos para ser comunicadas a otros. Una ética que empieza y acaba en mí mismo sería estéril; llevar armas pertenece al ámbito ético porque tiene consecuencias en el poder real.\n\n> \"La psicología estudia las operaciones conscientes y no conscientes\"\n→ [T5x19 Realismo y mitología (33:30)](https://youtu.be/GDQSqtdFjBs?t=2010)\n\n> \"Los órganos mentales son clústeres de neuronas con función propia operatoria\"\n→ [T5x19 Realismo y mitología (33:30)](https://youtu.be/GDQSqtdFjBs?t=2010)\n\n> \"La ética se plasma en símbolos para poder ser comunicada a otros\"\n→ [T5x19 Realismo y mitología (35:00)](https://youtu.be/GDQSqtdFjBs?t=2100)\n\n> \"Una ética que empieza y acaba en mí mismo sería estéril\"\n→ [T5x19 Realismo y mitología (35:00)](https://youtu.be/GDQSqtdFjBs?t=2100)\n\n### Fuerza y fe: los motores reales de las relaciones humanas\n\nEl armazón ético-político del marco descansa en dos motores que operan por debajo de toda construcción cultural posterior: la fuerza (quien tiene más y sabe aplicarla gana) y la fe no religiosa (creencia que permite comprender que hay leyes; equilibrio de fuerzas donde uno cree que el otro no le pegará si él no le pega).\n\n> \"Quien tiene más fuerza y sabe aplicarla es quien gana\"\n→ [T5x19 Realismo y mitología (36:31)](https://youtu.be/GDQSqtdFjBs?t=2191)\n\n> \"La fe no religiosa es la creencia que permite comprender que hay leyes\"\n→ [T5x19 Realismo y mitología (36:31)](https://youtu.be/GDQSqtdFjBs?t=2191)\n\n> \"La creencia de que el otro no me pegará si yo no le pego es equilibrio de fuerzas\"\n→ [T5x19 Realismo y mitología (36:31)](https://youtu.be/GDQSqtdFjBs?t=2191)\n\n### Eutaxia y unidad ética-moral-política\n\nLa pieza-cierre del armazón: ética, moral y política son prácticamente lo mismo en el realismo cognitivo. Usan las mismas funciones propias del sujeto operatorio (personalidad, hambre, necesidades, fuerza y fe). Las operaciones buenas son las que procuran **eutaxia** — del individuo y del conjunto.\n\n> \"Las operaciones buenas son las que procuran eutaxia del individuo y el conjunto\"\n→ [T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)\n\n> \"Ética, moral y política son prácticamente lo mismo en el realismo cognitivo\"\n→ [T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)\n\n> \"Usan las mismas funciones propias: personalidad, hambre, necesidades, fuerza y fe\"\n→ [T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)\n\nLa fusión de los tres dominios en un único campo de análisis es consecuencia directa del marco unificador articulado en sección 'Convergencia disciplinar': si el realismo cognitivo absorbe filosofía analítica + teoría de la mente + psicología en una sola disciplina, la tríada ética/moral/política se reduce análogamente — los tres registros son aplicaciones del mismo aparato sujeto-operatorio sobre dominios distintos (yo individual / costumbres colectivas / poder real). El criterio operativo común es la eutaxia, término que el canal toma de [[bueno-gustavo]] reasignándolo al marco del realismo cognitivo. La conexión con [[mitologia-propia-impropia]] cierra el bucle: los mitos arquetípicos, al explicitarse vía construcción cultural, cristalizan en éticas construidas cuyo fin último es eutáxico.\n\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1010,
+          "cite_markdown": "[T5x19 Realismo y mitología (16:50)](https://youtu.be/GDQSqtdFjBs?t=1010)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1131,
+          "cite_markdown": "[T5x19 Realismo y mitología (18:51)](https://youtu.be/GDQSqtdFjBs?t=1131)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1192,
+          "cite_markdown": "[T5x19 Realismo y mitología (19:52)](https://youtu.be/GDQSqtdFjBs?t=1192)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1252,
+          "cite_markdown": "[T5x19 Realismo y mitología (20:52)](https://youtu.be/GDQSqtdFjBs?t=1252)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1405,
+          "cite_markdown": "[T5x19 Realismo y mitología (23:25)](https://youtu.be/GDQSqtdFjBs?t=1405)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1616,
+          "cite_markdown": "[T5x19 Realismo y mitología (26:56)](https://youtu.be/GDQSqtdFjBs?t=1616)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1677,
+          "cite_markdown": "[T5x19 Realismo y mitología (27:57)](https://youtu.be/GDQSqtdFjBs?t=1677)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1797,
+          "cite_markdown": "[T5x19 Realismo y mitología (29:57)](https://youtu.be/GDQSqtdFjBs?t=1797)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 1888,
+          "cite_markdown": "[T5x19 Realismo y mitología (31:28)](https://youtu.be/GDQSqtdFjBs?t=1888)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2010,
+          "cite_markdown": "[T5x19 Realismo y mitología (33:30)](https://youtu.be/GDQSqtdFjBs?t=2010)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2100,
+          "cite_markdown": "[T5x19 Realismo y mitología (35:00)](https://youtu.be/GDQSqtdFjBs?t=2100)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2191,
+          "cite_markdown": "[T5x19 Realismo y mitología (36:31)](https://youtu.be/GDQSqtdFjBs?t=2191)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2252,
+          "cite_markdown": "[T5x19 Realismo y mitología (37:32)](https://youtu.be/GDQSqtdFjBs?t=2252)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2425,
+          "cite_markdown": "[T5x19 Realismo y mitología (40:25)](https://youtu.be/GDQSqtdFjBs?t=2425)"
+        }
+      ],
+      "rationale": "La sección 'Formación del mundo' integra el armazón Cuenca como módulo unificador del realismo cognitivo aplicado al trío psicología-mito-ética. Estructura en 7 sub-bloques: (1) codeterminación histórica como tercera vía explícita; (2) sujeto operatorio + operaciones reflexivas + distinción humano/animal vía ambiguación; (3) naturaleza como continuidad histórico-biológica con función propia (Millikan aplicado a antropología); (4) mecanismos psíquicos como enactivos; (5) definiciones canal-específicas de psicología y ética; (6) fuerza y fe como motores; (7) eutaxia + unidad ética-moral-política. Cross-referencia explícitamente las secciones existentes (Posicionamiento mapa filosófico, Ambiguación representacional, Primer axioma función propia, Diálogo con Maturana y Varela, Convergencia disciplinar) sin duplicar contenido. Anchor 'insert_before_passage' con '## Lagunas' (verificado único en línea 1009 vía grep) garantiza inserción al final del cuerpo prosa antes de la sección de lagunas — posición correcta porque la nueva sección es síntesis integradora que cierra el cuerpo articulado.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mitologia-propia-impropia",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "content_proposed": "\n\n## Refinamiento: la trichotomía propio literario / impropio / arquetípico\n\nT5x19 (may-2026) refina la distinción foundational de la página mediante una **trichotomía** que el canal articula explícitamente en la charla del seminario de Cuenca. La distinción binaria propio/impropio se descompone en tres categorías irreducibles según el régimen ontológico del mito:\n\n- **Mito impropio**: idea difusa o equivocada con sentido solo afectivo. Se toma como real sin reconocerse como construcción mítica. Casos típicos: la felicidad, la democracia, las ideologías políticas en su mayoría.\n- **Mito propio literario**: ficción consciente que acepta su imposibilidad fantástica. El autor (Lovecraft, Tolkien) y el lector reconocen la construcción como construcción.\n- **Mito arquetípico**: estructura natural heredada biológicamente, no construida culturalmente. Trocito de naturaleza humana y de pensamiento.\n\nLa pieza decisiva es que el régimen ontológico del arquetípico difiere categorialmente de las otras dos modalidades:\n\n> \"Los mitos propios literarios aceptan su imposibilidad fantástica\"\n→ [T5x19 Realismo y mitología (46:55)](https://youtu.be/GDQSqtdFjBs?t=2815)\n\n> \"Los arquetípicos son estructuras naturales heredadas biológicamente\"\n→ [T5x19 Realismo y mitología (46:55)](https://youtu.be/GDQSqtdFjBs?t=2815)\n\n> \"Los arquetipos son un trocito de naturaleza humana y de pensamiento\"\n→ [T5x19 Realismo y mitología (46:55)](https://youtu.be/GDQSqtdFjBs?t=2815)\n\nLa definición del mito impropio se precisa con un componente cognitivo nuevo: el mito impropio no solo no se reconoce como mito sino que opera con sentido **solo afectivo** (sin coherencia con la realidad física verificable):\n\n> \"Un mito impropio es idea difusa o equivocada con sentido solo afectivo\"\n→ [T5x19 Realismo y mitología (46:25)](https://youtu.be/GDQSqtdFjBs?t=2785)\n\n> \"La mayor parte de ideologías son mitos impropios\"\n→ [T5x19 Realismo y mitología (46:25)](https://youtu.be/GDQSqtdFjBs?t=2785)\n\nConsecuencia ontológica decisiva: **NO EXISTEN ARQUETIPOS IMPROPIOS**. Todos los arquetipos son propios. La impropiedad es categoría aplicable solo a constructos culturales no reconocidos como tales — los arquetipos, por estar inscritos en la herencia biológica, no pueden operar bajo régimen de opacidad cultural sobre su origen.\n\n> \"No existen arquetipos impropios, todos los arquetipos son propios\"\n→ [T5x19 Realismo y mitología (56:48)](https://youtu.be/GDQSqtdFjBs?t=3408)\n\n## Taxonomía canónica de los mitos arquetípicos\n\nLa taxonomía explícita que el canal articula en el seminario enumera **ocho mitos arquetípicos primarios**:\n\n| Arquetipo | Página wiki | Notas |\n|---|---|---|\n| Dios | (sin página propia todavía) | mito del dios masculino |\n| Diosa | [[diosa-blanca]] | mito de la diosa femenina |\n| Héroe | [[viaje-heroe]] | monomito campbelliano como vehículo arquetípico |\n| Mago | [[mito-del-mago]] | iniciado en el saber operativo |\n| Gólem | [[golem-arquetipo]] | creación imperfecta del creador |\n| Polar | [[mito-polar]] | cosmogonía masculino-femenino |\n| Génesis | [[genesis-mitologico]] | relato de origen del todo |\n| Apocalipsis | [[apocalipsis-mitema]] | revelación / fin |\n\n> \"Dios, diosa, héroe, mago, gólem, polar, génesis y apocalipsis\"\n→ [T5x19 Realismo y mitología (56:48)](https://youtu.be/GDQSqtdFjBs?t=3408)\n\nLos mitos arquetípicos parecen guías de acción cuando en realidad hablan de **aconteceres internos inevitables** — son fenomenología psíquica universal, no programa moral exterior:\n\n> \"Los mitos parecen guías de acción porque hablan de aconteceres internos inevitables\"\n→ [T5x19 Realismo y mitología (56:48)](https://youtu.be/GDQSqtdFjBs?t=3408)\n\n## Las tres capas del mito arquetípico\n\nEl canal articula tres niveles de lectura simultáneos de cualquier mito arquetípico, cada uno operando sobre una dimensión cognitiva distinta. Es la primera articulación explícita del framework analítico canal-canónico para leer mitos.\n\n### Capa 1 — Poética literal: preparación afectiva\n\nLa historia del héroe o de la diosa mueve emociones. El mito NO enseña qué hacer; **prepara afectivamente** al individuo, de modo que cuando llegue el momento estructuralmente análogo en su vida, reconozca la estructura como propia.\n\n> \"La historia del héroe o de la diosa mueve emociones\"\n→ [T5x19 Realismo y mitología (47:56)](https://youtu.be/GDQSqtdFjBs?t=2876)\n\n> \"El mito no enseña qué hacer, prepara afectivamente al individuo\"\n→ [T5x19 Realismo y mitología (47:56)](https://youtu.be/GDQSqtdFjBs?t=2876)\n\n> \"Cuando llegue el momento, el individuo reconocerá la estructura como propia\"\n→ [T5x19 Realismo y mitología (47:56)](https://youtu.be/GDQSqtdFjBs?t=2876)\n\n### Capa 2 — Metafórica: yo y humanidad\n\nLos personajes del mito apelan al yo y son parte de él. Toda historia heroica puede leerse como la historia de la humanidad entera. Hércules arrojado de los cielos es el mito de la infancia.\n\n> \"Hércules arrojado de los cielos es el mito de la infancia\"\n→ [T5x19 Realismo y mitología (49:27)](https://youtu.be/GDQSqtdFjBs?t=2967)\n\n> \"Todos los personajes del mito apelan al yo y son parte de él\"\n→ [T5x19 Realismo y mitología (49:27)](https://youtu.be/GDQSqtdFjBs?t=2967)\n\n> \"Toda historia heroica puede leerse como la historia de la humanidad entera\"\n→ [T5x19 Realismo y mitología (49:27)](https://youtu.be/GDQSqtdFjBs?t=2967)\n\n### Capa 3 — Gramatical: procesos cognitivos\n\nEl mito apela a procesos cognitivos básicos. El [[adgrediere-masculino|adgrediere]] del héroe es el verbo transitivo, el HACER. La naturaleza circular de lo femenino es el SER, el verbo intransitivo. La triada de procesos cognitivos básicos: amar, sentir, procedimiento.\n\n> \"El adgrediere del héroe es el verbo transitivo, el hacer\"\n→ [T5x19 Realismo y mitología (52:28)](https://youtu.be/GDQSqtdFjBs?t=3148)\n\n> \"La naturaleza circular de lo femenino es el ser, el verbo intransitivo\"\n→ [T5x19 Realismo y mitología (52:28)](https://youtu.be/GDQSqtdFjBs?t=3148)\n\n> \"El mito apela a procesos cognitivos básicos: amar, sentir, procedimiento\"\n→ [T5x19 Realismo y mitología (52:28)](https://youtu.be/GDQSqtdFjBs?t=3148)\n\n### El lenguaje poético como idioma universal de los afectos\n\nLa pieza-bisagra que organiza las tres capas: el lenguaje poético opera porque los afectos no se pueden replicar, solo reconocer. Nadie puede explicarle a otro lo que significa ser padre — tiene que vivirlo. El mito arquetípico opera bajo este régimen: no transmite información sino que **activa reconocimiento** de estructuras ya presentes en la matriz noética del individuo.\n\n> \"Los afectos no se pueden replicar, solo reconocer\"\n→ [T5x19 Realismo y mitología (53:59)](https://youtu.be/GDQSqtdFjBs?t=3239)\n\n> \"No puedes nombrar a alguien lo que significa ser padre, tiene que vivirlo\"\n→ [T5x19 Realismo y mitología (53:59)](https://youtu.be/GDQSqtdFjBs?t=3239)\n\n> \"La parte más importante de la poética es la gramatical y simbólica, no la literal\"\n→ [T5x19 Realismo y mitología (53:59)](https://youtu.be/GDQSqtdFjBs?t=3239)\n\nLa subordinación de la capa literal a las capas metafórica y gramatical es decisiva: la potencia del mito arquetípico no está en la peripecia narrativa (la 'fábula' del héroe) sino en la gramática cognitiva que la fábula activa por reconocimiento.\n\n## Arquetipos como base de ética construida\n\nEl cierre del bloque conecta la taxonomía arquetípica con el marco ético-normativo del canal articulado en [[realismo-cognitivo]]. La naturaleza apelada por el mito es psíquica, afectiva, experiencial — no normativa. Pero cuando arquetipo y mito **se explicitan**, se convierten en éticas construidas. El fin de la naturaleza arquetípica es **eutáxico**:\n\n> \"La naturaleza apelada por el mito es psíquica, afectiva, experiencial\"\n→ [T5x19 Realismo y mitología (57:49)](https://youtu.be/GDQSqtdFjBs?t=3469)\n\n> \"El fin de la naturaleza arquetípica es eutáxico\"\n→ [T5x19 Realismo y mitología (57:49)](https://youtu.be/GDQSqtdFjBs?t=3469)\n\n> \"Cuando arquetipo y mito se explicitan se convierten en éticas construidas\"\n→ [T5x19 Realismo y mitología (57:49)](https://youtu.be/GDQSqtdFjBs?t=3469)\n\nLa articulación cierra el bucle marco: el mito arquetípico NO es ética en sí mismo (no prescribe qué hacer); pero al explicitarse vía construcción cultural cristaliza en éticas operativas cuyo criterio último es eutáxico. La conexión con la unidad ética/moral/política articulada en [[realismo-cognitivo]] sección 'Formación del mundo' es directa: las éticas construidas a partir de arquetipos son aplicaciones del aparato sujeto-operatorio sobre el dominio normativo, y su evaluación es eutáxica.\n\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "diosa-blanca",
+        "viaje-heroe",
+        "mito-del-mago",
+        "golem-arquetipo",
+        "mito-polar",
+        "genesis-mitologico",
+        "apocalipsis-mitema",
+        "adgrediere-masculino",
+        "realismo-cognitivo"
+      ],
+      "citations_added": [
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2785,
+          "cite_markdown": "[T5x19 Realismo y mitología (46:25)](https://youtu.be/GDQSqtdFjBs?t=2785)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2815,
+          "cite_markdown": "[T5x19 Realismo y mitología (46:55)](https://youtu.be/GDQSqtdFjBs?t=2815)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2876,
+          "cite_markdown": "[T5x19 Realismo y mitología (47:56)](https://youtu.be/GDQSqtdFjBs?t=2876)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 2967,
+          "cite_markdown": "[T5x19 Realismo y mitología (49:27)](https://youtu.be/GDQSqtdFjBs?t=2967)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 3148,
+          "cite_markdown": "[T5x19 Realismo y mitología (52:28)](https://youtu.be/GDQSqtdFjBs?t=3148)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 3239,
+          "cite_markdown": "[T5x19 Realismo y mitología (53:59)](https://youtu.be/GDQSqtdFjBs?t=3239)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 3408,
+          "cite_markdown": "[T5x19 Realismo y mitología (56:48)](https://youtu.be/GDQSqtdFjBs?t=3408)"
+        },
+        {
+          "video_id": "GDQSqtdFjBs",
+          "timestamp_seconds": 3469,
+          "cite_markdown": "[T5x19 Realismo y mitología (57:49)](https://youtu.be/GDQSqtdFjBs?t=3469)"
+        }
+      ],
+      "rationale": "Refinamiento conceptual de alto valor: descompone la distinción binaria foundational propio/impropio en TRICHOTOMÍA (impropio / propio literario / arquetípico) que la página actual no articula. Añade además (a) la taxonomía explícita de 8 mitos arquetípicos primarios consolidando referencias dispersas en el grafo, (b) el framework analítico de las 3 capas del mito arquetípico (poética literal / metafórica / gramatical) que es canal-canónico y no estaba documentado, (c) el principio decisivo 'no existen arquetipos impropios', (d) la bisagra arquetipo→ética construida con criterio eutáxico que conecta esta página con realismo-cognitivo. Anchor 'insert_before_passage' con '## Lagunas' garantiza inserción al final del cuerpo. Los wikilinks introducidos consolidan el grafo: cada mito arquetípico de la taxonomía queda enlazado desde el hub conceptual mitologia-propia-impropia.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Formación del mundo: mito, psicología y ética en clave realismo cognitivo",
+      "proposed_page_id": "formacion-del-mundo-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "El tema nuclear es la relación antropológica entre mito, psicología y ética,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Ni constructivismo, ni esencialismo, ni punto medio: codeterminación histórica,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Ética, moral y política son prácticamente lo mismo en el realismo cognitivo,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "La filosofía consiste en conectar términos en coordenadas nuevas,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Codeterminación histórica como tercera vía entre constructivismo y esencialismo",
+        "Sujeto operatorio especialmente operante y operaciones reflexivas sobre emociones",
+        "Ambiguación humano-vs-animal como criterio de naturaleza/cultura",
+        "Naturaleza como continuidad histórico-biológica con función propia",
+        "Mecanismos psíquicos como enactivos orientados a la acción exterior",
+        "Psicología como estudio de operaciones (definición canal)",
+        "Ética como proposiciones explícitas plasmadas en símbolos",
+        "Fuerza y fe como motores reales de relaciones humanas",
+        "Eutaxia como criterio unificador de ética-moral-política",
+        "Trichotomía propio literario / impropio / arquetípico",
+        "Tres capas del mito arquetípico (poética / metafórica / gramatical)",
+        "Taxonomía de 8 mitos arquetípicos primarios",
+        "Arquetipos como base de ética construida eutáxica"
+      ],
+      "minutes_sustained": 50,
+      "domain_guess": "humanities.philosophy",
+      "related_existing_pages": [
+        "realismo-cognitivo",
+        "mitologia-propia-impropia",
+        "bueno-gustavo",
+        "teoria-del-simbolo-en-proxy",
+        "maturana-humberto",
+        "adgrediere-masculino",
+        "diosa-blanca",
+        "viaje-heroe",
+        "mito-polar",
+        "genesis-mitologico",
+        "apocalipsis-mitema",
+        "golem-arquetipo",
+        "mito-del-mago"
+      ],
+      "requires_human_validation": true,
+      "rationale": "El conjunto cumple holgadamente el gate §2.4.1 (minutes_sustained ≈ 50, signal_marks ≥ 4 con thesis_marker + internal_structure + pedagogic_register, framework_internal_structure con 13 piezas articuladas en cuatro bloques A-D). Es además una de las articulaciones unificadoras más limpias del canal — la charla del seminario de Cuenca está diseñada deliberadamente como integración del marco para audiencia académica. NO se auto-promueve aquí por decisión editorial: el material se ha incorporado en este extract como secciones nuevas en las dos páginas hub naturales (realismo-cognitivo recibe el armazón filosófico-epistemológico-ético; mitologia-propia-impropia recibe la trichotomía + 3 capas + taxonomía de arquetipos). Crear página separada produciría duplicación editorial sustancial sin ganar coherencia. La revisión humana debe decidir entre dos arquitecturas: (1) mantener todo en las dos páginas hub (status actual tras este extract — mejor para profundidad temática); (2) escindir una página synthesis 'formacion-del-mundo-en-proxy' que sea índice integrador citando las dos hub con prosa-bisagra propia (mejor para navegabilidad si el canal vuelve a usar esta articulación como marco). Recomendación implícita: opción (1) salvo que vídeos futuros usen explícitamente 'formación del mundo' como frame recurrente, en cuyo caso (2) gana mérito por hacer visible el frame metateórico del canal."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "anuncio del proyecto Pandora y nuevo setup",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio operativo sobre piezas para construir Pandora + reedición de Grimorio + carteles del nuevo setup. La sustancia sobre Pandora como caso técnico ya está capturada en cibernetica-biosintetica-y-transhumanismo-en-proxy vía update de T5x18. Esta mención es agenda de producción, no contenido temático.",
+      "quote_evidence": "Han llegado las piezas para empezar a construir Pandora este fin de semana,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "charla seminario de Cuenca (contexto)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Contexto meta-narrativo sobre la charla original (Tiago le invitó, se encontró con seguidores entre seminaristas, la grabación quedó corrupta, por eso repite en directo). La SUSTANCIA temática de la charla SÍ se procesa — está capturada en los dos pending_updates a realismo-cognitivo y mitologia-propia-impropia. Este bullet es solo el meta-relato del evento.",
+      "quote_evidence": "Tiago le invitó a dar una charla filosófica en el castillo de Cuenca,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "cronología del viaje y 40 horas sin dormir",
+      "reason_code": "personal_anecdote",
+      "reason_detail": "Detalle logístico del viaje del speaker (madrugada, trenes, blablacar, llegada a las 6:30). Anécdota personal sin valor enciclopédico.",
+      "quote_evidence": "Madrugó a las 4:30, tren a Madrid y autobús a Cuenca,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Travel Suit",
+      "reason_code": "promo",
+      "reason_detail": "Mención de marca de ropa que el speaker viste (traje resistente a manchas y arrugas). No es contenido temático ni patrocinio declarado sino comentario casual sobre el propio atuendo.",
+      "quote_evidence": "Habla con el Travel Suit, traje resistente a manchas y arrugas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "diseño físico de Pandora (forma y materiales)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Debate técnico sobre carcasa de Pandora (cubo/pirámide/esfera/teseracto, metal para evacuación de calor, diseño steampunk con tubos y engranajes). Pertenece a documentación técnica del proyecto, no al wiki enciclopédico. La sustancia conceptual sobre Pandora ya está capturada vía T5x18.",
+      "quote_evidence": "Debate sobre cubo, pirámide, esfera o teseracto como carcasa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "pensamiento como tren de 12 bits por segundo",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Reiteración del límite cognitivo de 12 bits por segundo ya documentado en realismo-cognitivo (sección Conciencia como simulación + motor SAL) y cibernetica-biosintetica-y-transhumanismo-en-proxy. Refuerza el argumento sobre representación noética del ahora pero no añade material nuevo.",
+      "quote_evidence": "Apenas representamos 12 bits por segundo en la mente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    },
+    {
+      "surface_form": "definición de mito como fragmento cultural reflexivo",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición técnica del mito como 'noésis que prescinde de coherencia con la realidad física, resultado de operación de síntesis no-noética, fantasía cultural'. Esta definición se integra en el pending_update a mitologia-propia-impropia como sustrato de la trichotomía pero no merece su propia entrada — es definición operativa, no tesis autónoma.",
+      "quote_evidence": "El mito es noésis que prescinde de coherencia con la realidad física,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "filosofía como conexión de términos en coordenadas nuevas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición meta-filosófica brevísima del speaker como apertura programática de la charla. Material relevante pero no merece entrada autónoma — es marco de presentación, no tesis sustantiva sobre qué es filosofía.",
+      "quote_evidence": "La filosofía consiste en conectar términos en coordenadas nuevas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "realismo-cognitivo"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "_validation_warnings": [
+    "DROP discarded[publicación de Polaris extendido en Amazon] reason=promo quote no literal"
+  ]
+}

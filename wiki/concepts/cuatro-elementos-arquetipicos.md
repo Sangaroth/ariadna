@@ -363,6 +363,7 @@ La pieza añade además un eje genealógico que las secciones anteriores tenían
 
 
 
+
 - **Excalibur, El Señor de los Anillos, y el mito Católico.** — chunks: [2:15:23](https://youtu.be/K082yiudh-g?t=8123)
 - **El papel de la mujer y la leyenda artúrica en el mito del héroe.** — chunks: [59:39](https://youtu.be/aWeuzWLrLtE?t=3579)
 - **Matrix y el camino del héroe.** — chunks: [1:12:37](https://youtu.be/kF5KHE_fF7g?t=4357)
@@ -372,4 +373,5 @@ La pieza añade además un eje genealógico que las secciones anteriores tenían
 - **Análisis Arquetípico: Lady Halcón. El mito Polar a través del Tarot.** — chunks: [1:11:54](https://youtu.be/xK8_MpMMXzc?t=4314)
 - **Arquetipo Cero** — chunks: [39:51](https://youtu.be/nern-nhePjE?t=2391)
 - **MItología 101: El Gólem** — chunks: [1:14:09](https://youtu.be/IG3dkNBX9uU?t=4449)
+- **T5x14: Conan** — chunks: [26:41](https://youtu.be/mR2X391fQu4?t=1601)
 

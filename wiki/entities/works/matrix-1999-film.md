@@ -230,6 +230,7 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 
 
 
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [22:37](https://youtu.be/Dtp1_RLb7S0?t=1357) · [57:28](https://youtu.be/Dtp1_RLb7S0?t=3448) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:38:03](https://youtu.be/Dtp1_RLb7S0?t=5883) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Psicología 101, Del libre albedrío a la computación artificial** — chunks: [55:46](https://youtu.be/hx9creRpdnY?t=3346)
 - **Psicología 101: Proyección, ideología y teoría de la mente** — chunks: [47:59](https://youtu.be/-daRyQwnZy0?t=2879)
@@ -248,4 +249,5 @@ Las referencias bibliográficas que el canal ofrece para sostener la lectura —
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [43:28](https://youtu.be/O4OkDuc3uPQ?t=2608)
 - **De Platón A The Matrix** — chunks: [59:05](https://youtu.be/zr_ZKX60N54?t=3545)
 - **Patreons y Conciencia Artificial** — chunks: [11:25](https://youtu.be/1BWyXULOoQQ?t=685)
+- **T5x19: Realismo y mitología.** — chunks: [41:56](https://youtu.be/GDQSqtdFjBs?t=2516)
 

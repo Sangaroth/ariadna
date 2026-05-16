@@ -293,6 +293,7 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 
 
 
+
 - **Experimento 25** — chunks: [29:13](https://youtu.be/Bn-I6p-AyXc?t=1753) · [35:51](https://youtu.be/Bn-I6p-AyXc?t=2151) · [38:22](https://youtu.be/Bn-I6p-AyXc?t=2302) · [57:28](https://youtu.be/Bn-I6p-AyXc?t=3448)
 - **Experimento 25** — chunks: [29:46](https://youtu.be/p-93qXOPrDk?t=1786) · [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [35:21](https://youtu.be/p-93qXOPrDk?t=2121) · [37:52](https://youtu.be/p-93qXOPrDk?t=2272) · [57:58](https://youtu.be/p-93qXOPrDk?t=3478) · [1:10:20](https://youtu.be/p-93qXOPrDk?t=4220)
 - **Filosofía para dummies. Porqué se llama Teoría de la Mente** — chunks: [13:05](https://youtu.be/JVEsIdv6emI?t=785)
@@ -348,4 +349,5 @@ La franja de incertidumbre, articulada con las redes de apego, ancla la voluntad
 - **Teoría de la información integrada y los LLMs** — chunks: [57:39](https://youtu.be/e5hvKJpRZMk?t=3459)
 - **Femenino (I)** — chunks: [35:58](https://youtu.be/VR3snBjNrsc?t=2158) · [1:16:29](https://youtu.be/VR3snBjNrsc?t=4589)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [2:16:20](https://youtu.be/BOIcK1Rpdvo?t=8180)
+- **T5x14: Conan** — chunks: [1:05:09](https://youtu.be/mR2X391fQu4?t=3909)
 

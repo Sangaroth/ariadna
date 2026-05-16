@@ -167,6 +167,35 @@ La tesis de las once celdas es la formalización académica de lo que [[teoria-d
 
 El brazo computacional del mismo proyecto es [[galatea-modelo-protomente]]: si esta tesis define qué son las once celdas y cómo validarlas, Galatea implementa el modelo que las simula. La celda 11 también ancla [[conciencia-e-inteligencia-en-proxy]], dándole definición técnica precisa desde el marco de la tesis.
 
+
+
+## Workflow metodológico: extracción de redes vía IA y Teseo
+
+T5x17 (may-2026) precisa el método operativo para poblar empíricamente las 11 celdas evitando el sesgo confirmatorio que la sección 'Marco teleosemántico' presupone como riesgo. La trampa metodológica es estructural: cualquier consulta por palabras clave directas a la literatura científica recupera el aparato categorial preexistente (memoria episódica vs procedural según taxonomías clásicas) que NO coincide celda-por-celda con el marco proxy.
+
+> "No se puede pedirle al LLM que busque por 'procedimental' con palabras clave preconcebidas, porque buscaría lo que nosotros creemos que es procedimental"
+→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (14:36)](https://youtu.be/L_zQUykelsA?t=876)
+
+> "La literatura existente usa una clasificación preproxi, así que llama a las funciones cognitivas por otros nombres"
+→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (14:36)](https://youtu.be/L_zQUykelsA?t=876)
+
+La estrategia inversa: darle a la IA artículos o mapas de neurociencia y pedirle extraer las redes cognitivas activadas en cada conducta documentada, en lugar de preguntar por celdas predefinidas del marco propio. El método es **bottom-up desde la literatura empírica**, no top-down desde el marco categorial proxi.
+
+> "La estrategia es darle a la IA artículos o mapas de neurociencia y pedirle que extraiga las redes cognitivas en lugar de preguntarle por celdas predefinidas"
+→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (22:13)](https://youtu.be/L_zQUykelsA?t=1333)
+
+> "Para demostrar que existen esas funciones hay que asimilar conductas mentales a redes que las manejan y verificar que son autónomas"
+→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (11:33)](https://youtu.be/L_zQUykelsA?t=693)
+
+El criterio de demostración cierra el bucle metodológico: una celda es real solo si las conductas mentales asociadas pueden asimilarse a redes neuronales identificables que operan de forma **autónoma** respecto a las demás. La autonomía funcional es la propiedad refutable — si dos redes putativamente distintas siempre coactivan, la separación celular colapsa.
+
+**Teseo** es la IA propia del canal que actúa como soporte operativo del research program: tiene guardada toda la información de los directos subidos y puede localizar referencias cruzadas — herramienta interna para sostener la trazabilidad del corpus acumulado mientras el marco se construye iterativamente.
+
+> "Teseo, la IA del canal, tiene guardada toda la información de los directos subidos y puede localizar referencias cruzadas"
+→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (22:13)](https://youtu.be/L_zQUykelsA?t=1333)
+
+La pieza completa la sección 'Marco teleosemántico': no solo el sustrato neurológico debe ser dedicado y la anticorrelación funcional revelar independencia — el método mismo de descubrimiento debe operar inversamente al sentido común consultivo, extrayendo redes desde la literatura empírica vía IA antes de cotejar con las celdas hipotetizadas. La precaución metodológica protege el research program de validar sus propias celdas por construcción.
+
 ## Lagunas
 
 - **Celdas 1–9 individualmente**: el fragmento recuperado detalla la lógica de la matriz y los ejes pero no desarrolla cada celda con su función propia específica, su precursor evolutivo concreto ni sus vías de validación individuales — más allá del imaginario en hormigas y la gramática en el ejemplo del vaso.

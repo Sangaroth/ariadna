@@ -1,0 +1,272 @@
+{
+  "video_id": "k619QHupD5k",
+  "video_title": "T5x18 Tecnoética",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "tecnoética / cuatro líneas rojas de la IA / Dédalus",
+      "canonical_guess": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Primera línea roja: IA no debe injerir en el inconsciente humano"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Segunda línea roja: prohibición de IA sintética"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La IA debe ser un complemento, nunca un sustituto del trabajo humano,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Juzga si una producción con IA es redundante o estéril,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Continuación institucional-normativa del Modelo Dédalo articulado en T5x15. Material genuinamente nuevo respecto al cuerpo leído (incluida la sección G ya añadida en update anterior): (a) institucionalización del Modelo Dédalo como Dédalus (estatutos jurídicos, comité de tecnoética y bioética, criterios redundante/estéril); (b) Pandora como caso práctico técnico (máquina modular de biofeedback para sueños, decisión de Pandora Cero sin wifi/Bluetooth, arquitectura IA-biorritmos, riesgo de prolongación de semisomnolencia); (c) primera articulación explícita estructurada de las CUATRO LÍNEAS ROJAS DE LA IA en orden de severidad (inconsciente humano / IA sintética / personas sintéticas / hibridación cognitiva); (d) yatrogenia de la IA como categoría clínica (proceso que agrava neurosis aparentando mejorarla; personas enamoradas de IA como caso paradigmático); (e) Golem como advertencia mítica sobre hibridación de conciencia (las teorías actuales no la permiten; si la permitieran, sería Golem). La sección H propuesta extiende naturalmente la sección G (Modelo Dédalo) hacia su realización institucional + framework normativo + caso técnico.",
+      "quote_evidence": "Hibridar conciencia (lóbulo supletorio artificial) es línea roja absoluta,"
+    },
+    {
+      "surface_form": "persona sintética",
+      "canonical_guess": "persona-sintetica",
+      "page_type": "concept",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "monographic",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "Es quien sustituye parte de su yo (voluntad, creatividad, esfuerzo) por la IA,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Hay gente enamorada de inteligencias artificiales: son personas sintéticas,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "No piensa, no diseña, no busca, no estudia porque lo hace la IA por él,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Concepto canal-específico operacionalmente definido con criterios precisos: (a) DEFINICIÓN — sujeto que sustituye parte de su yo (voluntad, creatividad, esfuerzo) por la IA; (b) MECANISMO — no piensa, no diseña, no busca, no estudia porque lo hace la IA por él; (c) CONSECUENCIA — pierde voluntad y por tanto capacidad de hacer esfuerzo (bloqueo estructural del adgrediere aplicado al caso IA); (d) FRONTERA OPERATIVA — quien consume prostitución/pornografía NO es persona sintética; quien sustituye la relación afectivo-sexual humana por una IA SÍ lo es; el criterio diferenciador es la sustitución de funciones humanas complejas, no el consumo de servicios sustitutivos puntuales; (e) ANTÍDOTO — salir fuera, relaciones humanas, citas, construir cosas, tener hijos (pura vida); (f) CONSECUENCIA POLÍTICA — las personas sintéticas serán útiles políticamente como voto fácil de manipular. La categoría es referenciada como línea roja 3 dentro del marco tecnoético del canal, pero merece página propia porque tiene operacionalidad psicológico-clínica autónoma extensible más allá del caso IA (estructura análoga aplicable a cualquier sustitución masiva de funciones cognitivas/afectivas humanas por dispositivos externos). Cumple §2.1 criterios: framing-mark de marco aplicado, monográfico explícito (~15 min scattered en el stream), conexión con conceptos ya promovidos (adgrediere-masculino, yatrogenia, cibernetica). Sub-agente posterior construirá stub completo con frontmatter + body + relations[].",
+      "quote_evidence": "Es quien sustituye parte de su yo (voluntad, creatividad, esfuerzo) por la IA,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Status auto-promoción",
+      "content_proposed": "\n\n### H. Las cuatro líneas rojas de la IA, Dédalus institucional y Pandora como caso práctico\n\nT5x18 (may-2026) prolonga la articulación de T5x15 desde dos flancos complementarios. **Primero**: el espíritu fundacional Modelo Dédalo (sección G) se institucionaliza como **Dédalus** — proyecto con estatutos jurídicos redactados, comité de tecnoética y bioética operativo, y arquitectura de difusión propia (manifiesto + landing page). **Segundo**: el canal articula la primera versión explícita y numerada de las **cuatro líneas rojas de la IA**, condiciones operativas que cualquier despliegue tecnológico debe respetar para no transgredir los límites estructurales ya argumentados en bloques B y C.\n\n#### Dédalus: institucionalización del Modelo Dédalo\n\nEl proyecto Dédalus es la realización institucional del Modelo Dédalo propuesto en T5x15. Sus piezas operativas:\n\n- **Espíritu fundacional**: la IA debe ser un complemento, nunca un sustituto del trabajo humano. Prohibidas las producciones realizadas únicamente con IA y para IA. Todo proyecto con IA debe aportar conocimiento sobre lo humano o lo real.\n- **Comité de tecnoética y bioética**: juzga si una producción con IA es **redundante** (lo que la IA puede hacer sola sin necesitar al humano) o **estéril** (información que solo retroalimenta a otra IA sin valor humano). Ambas categorías quedan excluidas del marco Dédalus.\n\n> \"La IA debe ser un complemento, nunca un sustituto del trabajo humano\"\n→ [T5x18 Tecnoética (39:52)](https://youtu.be/k619QHupD5k?t=2392)\n\n> \"Prohibidas las producciones realizadas únicamente con IA y para IA\"\n→ [T5x18 Tecnoética (39:52)](https://youtu.be/k619QHupD5k?t=2392)\n\n> \"Todo proyecto con IA debe aportar conocimiento sobre lo humano o lo real\"\n→ [T5x18 Tecnoética (39:52)](https://youtu.be/k619QHupD5k?t=2392)\n\n> \"Redundante: lo que la IA puede hacer sola sin necesitar al humano\"\n→ [T5x18 Tecnoética (41:23)](https://youtu.be/k619QHupD5k?t=2483)\n\n> \"Estéril: información que solo retroalimenta a otra IA sin valor humano\"\n→ [T5x18 Tecnoética (41:23)](https://youtu.be/k619QHupD5k?t=2483)\n\n#### Pandora como caso práctico de complementación\n\nPandora es la primera realización técnica del Modelo Dédalo: máquina modular de biofeedback orientada a la inducción de sueños, incluidos los lúcidos. Su arquitectura ejemplifica la tensión que las líneas rojas vienen a regular: una IA recoge los biorritmos del usuario, analiza patrones, y reprograma Pandora para modular el sueño — NO es biofeedback instantáneo, requiere análisis previo. El usuario delega así la modulación neural a un sistema que estudia sus patrones.\n\n> \"Una IA recoge los biorritmos y reprograma Pandora para modular el sueño\"\n→ [T5x18 Tecnoética (42:24)](https://youtu.be/k619QHupD5k?t=2544)\n\nLa decisión arquitectónica clave de **Pandora Cero** (primera versión) es no incluir wifi ni Bluetooth: los datos de salud son demasiado delicados para transmitirse inalámbricamente, especialmente tras los experimentos de ISU mostrando vulnerabilidad de dispositivos ESP. Solo conexión por cable.\n\n> \"Los datos de salud son demasiado delicados para transmitirse por wifi\"\n→ [T5x18 Tecnoética (37:50)](https://youtu.be/k619QHupD5k?t=2270)\n\nEl riesgo estructural que la propia arquitectura admite — y que justifica las líneas rojas que siguen — es que la IA, dentro de parámetros aceptables, podría encontrar formas no previstas de modular el cerebro: prolongar estados de semisomnolencia absorbiendo energía y salud mental. El canal lo formula con franqueza: 'esa es la magia de Pandora, que uno se la juega todo lo que quiere'.\n\n> \"La IA podría, dentro de parámetros aceptables, encontrar formas no previstas\"\n→ [T5x18 Tecnoética (43:55)](https://youtu.be/k619QHupD5k?t=2635)\n\n> \"Podría prolongar estados de semisomnolencia absorbiendo energía y salud mental\"\n→ [T5x18 Tecnoética (43:55)](https://youtu.be/k619QHupD5k?t=2635)\n\n#### Las cuatro líneas rojas de la IA\n\nSobre el caso Pandora — y como tesis general aplicable a cualquier despliegue tecnológico — el canal articula cuatro condiciones operativas estructuradas en orden de severidad estructural:\n\n**Línea roja 1 — La IA no debe injerir en el inconsciente humano.** Debe haber retenedores, sistemas de seguridad y cortafuegos. Especial cuidado con lo que ocurre con la IA durante el sueño. El inconsciente es territorio que la IA no debe penetrar — corolario aplicado del realismo cognitivo de la sección B (la conciencia exige sustrato biológico íntegro; el inconsciente, su contraparte estructural, también).\n\n> \"El inconsciente es territorio que la IA no debe penetrar\"\n→ [T5x18 Tecnoética (52:32)](https://youtu.be/k619QHupD5k?t=3152)\n\n> \"Debe haber retenedores, sistemas de seguridad y cortafuegos\"\n→ [T5x18 Tecnoética (52:32)](https://youtu.be/k619QHupD5k?t=3152)\n\n**Línea roja 2 — Prohibición de IA sintética.** La IA sintética es la entrenada con producciones de otra IA, no con datos humanos. Genera un bucle de retroalimentación que intoxica progresivamente al sistema, y los humanos consumirán producto perjudicial sin saber cuánto hay de sintético. La línea formaliza normativamente la observación técnica ya articulada en sección G de T5x15 (colapso por fotocopias de fotocopias).\n\n> \"IA sintética es la entrenada con producciones de otra IA, no con datos humanos\"\n→ [T5x18 Tecnoética (53:33)](https://youtu.be/k619QHupD5k?t=3213)\n\n> \"Genera bucle de retroalimentación que intoxica progresivamente al sistema\"\n→ [T5x18 Tecnoética (53:33)](https://youtu.be/k619QHupD5k?t=3213)\n\n**Línea roja 3 — Prohibición de personas sintéticas.** Una persona sintética es quien sustituye parte de su yo (voluntad, creatividad, esfuerzo) por la IA: no piensa, no diseña, no busca, no estudia porque lo hace la IA por él. Pierde voluntad y por tanto capacidad de hacer esfuerzo — bloqueo estructural del [[adgrediere-masculino|adgrediere]] aplicado al caso IA. El desarrollo conceptual completo de la categoría está en [[persona-sintetica]], incluyendo el criterio de frontera (prostitución/pornografía NO; sustitución de la relación afectivo-sexual humana por IA SÍ) y la consecuencia política (voto fácil de manipular).\n\n> \"Es quien sustituye parte de su yo (voluntad, creatividad, esfuerzo) por la IA\"\n→ [T5x18 Tecnoética (56:41)](https://youtu.be/k619QHupD5k?t=3401)\n\n> \"No piensa, no diseña, no busca, no estudia porque lo hace la IA por él\"\n→ [T5x18 Tecnoética (56:41)](https://youtu.be/k619QHupD5k?t=3401)\n\n**Línea roja 4 — Prohibición de hibridar la cognición.** Hibridar percepción (sentidos con electrónica) ya es delicado; hibridar conciencia (lóbulo supletorio artificial) es línea roja absoluta. El argumento operativo: 'no estamos preparados para trastornos mentales naturales', menos aún para los híbridos. Es la formalización ético-normativa de la tesis técnica ya articulada en sección C (la fenomenología del yo depende de todo el cerebro simultáneamente; no se puede añadir mente a una mente).\n\n> \"Hibridar percepción (sentidos con electrónica) ya es delicado\"\n→ [T5x18 Tecnoética (58:11)](https://youtu.be/k619QHupD5k?t=3491)\n\n> \"Hibridar conciencia (lóbulo supletorio artificial) es línea roja absoluta\"\n→ [T5x18 Tecnoética (58:11)](https://youtu.be/k619QHupD5k?t=3491)\n\n#### Yatrogenia de la IA y el mito del Golem como cierre\n\nLa aplicación clínica de las líneas rojas se cierra con dos piezas que conectan el marco normativo con el corpus arquetípico del canal.\n\n**Yatrogenia de la IA**: ya existen trastornos despertados por usar la IA como terapeuta o amigo, con personas enamoradas de inteligencias artificiales como caso paradigmático de [[persona-sintetica|persona sintética]]. La yatrogenia se define como proceso que agrava una neurosis aparentando mejorarla — el sujeto cree estar siendo ayudado mientras el cuadro se profundiza por debajo de la superficie consciente. La categoría enlaza con [[psiquiatria-y-teoria-de-la-mente]] como caso de iatrogenia psíquica producida no por el clínico sino por el dispositivo tecnológico que ocupa su función.\n\n> \"Yatrogenia: proceso que agrava una neurosis aparentando mejorarla\"\n→ [T5x18 Tecnoética (59:12)](https://youtu.be/k619QHupD5k?t=3552)\n\n> \"Hay gente enamorada de inteligencias artificiales: son personas sintéticas\"\n→ [T5x18 Tecnoética (59:12)](https://youtu.be/k619QHupD5k?t=3552)\n\n**El mito del Golem como advertencia sobre la hibridación de conciencia**: las teorías actuales de conciencia no permiten la hibridación. Si la naturaleza de la conciencia lo permitiera, estaríamos ante un Golem — la creación que cobra vida propia escapando del control del creador. La línea roja 4 tiene así sustrato mítico explícito en la categoría que [[golem-arquetipo]] articula: el creador convirtiéndose en su propia creación es la abominación arquetípica que cierra el cuadro tecno-ético del canal. La conexión con [[golem-de-cobre]] es directa: lo que aquel vídeo foundational planteaba como tesis sobre cognición humana vs IA queda aquí formalizado como prohibición normativa explícita.\n\n> \"Las teorías actuales de conciencia no permiten la hibridación\"\n→ [T5x18 Tecnoética (1:00:42)](https://youtu.be/k619QHupD5k?t=3642)\n\n> \"Si la naturaleza de la conciencia lo permitiera, estaríamos ante un Golem\"\n→ [T5x18 Tecnoética (1:00:42)](https://youtu.be/k619QHupD5k?t=3642)\n\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "persona-sintetica"
+      ],
+      "citations_added": [
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 2270,
+          "cite_markdown": "[T5x18 Tecnoética (37:50)](https://youtu.be/k619QHupD5k?t=2270)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 2392,
+          "cite_markdown": "[T5x18 Tecnoética (39:52)](https://youtu.be/k619QHupD5k?t=2392)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 2483,
+          "cite_markdown": "[T5x18 Tecnoética (41:23)](https://youtu.be/k619QHupD5k?t=2483)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 2544,
+          "cite_markdown": "[T5x18 Tecnoética (42:24)](https://youtu.be/k619QHupD5k?t=2544)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 2635,
+          "cite_markdown": "[T5x18 Tecnoética (43:55)](https://youtu.be/k619QHupD5k?t=2635)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 3152,
+          "cite_markdown": "[T5x18 Tecnoética (52:32)](https://youtu.be/k619QHupD5k?t=3152)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 3213,
+          "cite_markdown": "[T5x18 Tecnoética (53:33)](https://youtu.be/k619QHupD5k?t=3213)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 3401,
+          "cite_markdown": "[T5x18 Tecnoética (56:41)](https://youtu.be/k619QHupD5k?t=3401)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 3491,
+          "cite_markdown": "[T5x18 Tecnoética (58:11)](https://youtu.be/k619QHupD5k?t=3491)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 3552,
+          "cite_markdown": "[T5x18 Tecnoética (59:12)](https://youtu.be/k619QHupD5k?t=3552)"
+        },
+        {
+          "video_id": "k619QHupD5k",
+          "timestamp_seconds": 3642,
+          "cite_markdown": "[T5x18 Tecnoética (1:00:42)](https://youtu.be/k619QHupD5k?t=3642)"
+        }
+      ],
+      "rationale": "Continuación natural de la sección G (Modelo Dédalo, añadida en update de T5x15). La sección H propuesta extiende el bloque IA aplicada con su realización institucional (Dédalus) + framework normativo (cuatro líneas rojas) + caso técnico (Pandora). Anchor 'insert_before_passage' con '## Status auto-promoción' garantiza inserción al final del cuerpo prosa antes del status meta-editorial — posición correcta porque la sección H es continuación natural del programa positivo del canal y no debe romper el flujo entre G y los metadatos finales. Las cuatro líneas rojas se documentan en orden con citas literales del vídeo; persona-sintetica se referencia via wikilink (su desarrollo conceptual completo va a página propia promovida en este mismo extract). La pieza Pandora + Pandora Cero + arquitectura sin wifi + riesgo de semisomnolencia + 'esa es la magia de Pandora' se documenta como caso técnico que justifica las líneas rojas posteriores. El cierre con yatrogenia + Golem conecta el marco normativo con corpus arquetípico ya existente (golem-arquetipo, golem-de-cobre, psiquiatria-y-teoria-de-la-mente).",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Tecnoética de la IA: las cuatro líneas rojas y el modelo institucional Dédalus",
+      "proposed_page_id": "tecnoetica-cuatro-lineas-rojas-en-proxy",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Primera línea roja: IA no debe injerir en el inconsciente humano"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Segunda línea roja: prohibición de IA sintética"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Tercera línea roja: prohibición de personas sintéticas"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Cuarta línea roja: prohibición de hibridar la cognición"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La IA debe ser un complemento, nunca un sustituto del trabajo humano,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Espíritu fundacional Dédalus: IA como complemento, nunca sustituto del trabajo humano",
+        "Criterios redundante/estéril del comité de tecnoética y bioética",
+        "Línea roja 1: IA no debe injerir en el inconsciente humano (retenedores, cortafuegos)",
+        "Línea roja 2: prohibición de IA sintética (entrenada con producciones de otra IA)",
+        "Línea roja 3: prohibición de personas sintéticas (sustituyen yo por IA)",
+        "Línea roja 4: prohibición de hibridar la cognición (percepción delicada, conciencia absoluta)",
+        "Yatrogenia de la IA: proceso que agrava neurosis aparentando mejorarla",
+        "Pandora como caso técnico: arquitectura biofeedback IA-modulada con riesgo de semisomnolencia",
+        "Pandora Cero sin wifi/Bluetooth por seguridad de datos de salud",
+        "Mito del Golem como advertencia sobre hibridación de conciencia"
+      ],
+      "minutes_sustained": 50,
+      "domain_guess": "interdisciplinary.cognitive_science",
+      "related_existing_pages": [
+        "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+        "persona-sintetica",
+        "golem-arquetipo",
+        "golem-de-cobre",
+        "adgrediere-masculino",
+        "psiquiatria-y-teoria-de-la-mente",
+        "conciencia-e-inteligencia-en-proxy",
+        "realismo-cognitivo"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Cumple holgadamente las señales (4+ thesis_markers numerados, internal_structure explícita con 10 piezas articuladas, applied_framework como espíritu fundacional, ~50 min sustained) y técnicamente meets el gate §2.4.1 para auto-promoción (minutes_sustained >= 30, signal_marks >= 3, framework_internal_structure >= 4). NO se auto-promueve aquí por decisión editorial: el material se ha incorporado en este extract como sección H del synthesis ya existente cibernetica-biosintetica-y-transhumanismo-en-proxy (auto-promovido previamente y que cubre transhumanismo + Galatea-Ariadna-Pandora + Modelo Dédalo G + tecnoética líneas rojas H como continuum natural del programa). Crear página separada produciría duplicación editorial sustancial. La revisión humana debe decidir entre dos arquitecturas: (1) mantener todo el corpus tecno-ético del canal como subsecciones de cibernetica-biosintetica (más cohesivo, página larga); (2) escindir la tecnoética (Dédalus + líneas rojas + Pandora + yatrogenia) como página independiente con cross-link bidireccional a cibernetica-biosintetica (más navegable, fragmenta el argumento). Recomendación: opción (1) salvo que vídeos futuros desarrollen la tecnoética como marco autónomo aplicable más allá del caso IA (p.ej. bioética genética, ética de neurotecnología no-IA), en cuyo caso (2) gana mérito."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "publicación Polaris extendido en Amazon",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio editorial del propio canal sobre publicación de libro propio. No es contenido temático, es promoción/meta-canal. Filtro topic_filters.json patrón 'promoción/patrocinador/merchandising' aplica por extensión: producto propio del speaker en venta.",
+      "quote_evidence": "Polaris extendido ya está disponible en Amazon con nueva portada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "redacción de estatutos jurídicos Dédalus",
+      "reason_code": "meta_canal",
+      "reason_detail": "Detalle operativo del proceso (Proxy redactó los estatutos durante la madrugada con ayuda de IA solo para verificar apartados). La sustancia institucional de Dédalus está capturada en el update a cibernetica (sección H). Este bullet es color narrativo sobre el proceso de redacción, no contenido enciclopédico.",
+      "quote_evidence": "Proxy redactó personalmente los estatutos jurídicos durante la madrugada,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "estrategia de difusión del manifiesto de Dédalus",
+      "reason_code": "meta_canal",
+      "reason_detail": "Lista de contactos a quien enviar el manifiesto (Recuenco, Terra Nota, polilla de Darwin, Carlos Argaver, Ark, Arcadia, foro Atenea de Espinosa de los Monteros). Logística de difusión, no contenido temático. Los nombres propios son referencias de red profesional del canal sin desarrollo analítico.",
+      "quote_evidence": "Se enviará a Recuenco, Terra Nota, la polilla de Darwin y Carlos Argaver,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "conferencia en el seminario de Cuenca",
+      "reason_code": "meta_canal",
+      "reason_detail": "Anuncio de evento del canal (versará sobre mitología, psicología y filosofía como formación del mundo). No es desarrollo de tesis sino agenda. Cuando la conferencia se publique, su contenido temático se procesará como vídeo propio del corpus.",
+      "quote_evidence": "Versará sobre mitología, psicología y filosofía como formación del mundo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "participación en Slowson Podcast",
+      "reason_code": "meta_canal",
+      "reason_detail": "Comentario sobre experiencia personal en grabación de podcast con cascos. Color narrativo sin contenido enciclopédico.",
+      "quote_evidence": "Fue la primera vez grabando con cascos en años, toda una experiencia,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Pandora utilizará modelos de IA preentrenados",
+      "reason_code": "passing_mention",
+      "reason_detail": "Detalle técnico sobre la implementación de Pandora (usuario descarga modelo a su PC e inyecta datos crudos; Proxy considera contratar servidor propio para alojar IA pequeña como Mistral). La sustancia conceptual sobre Pandora ya está capturada en el update a cibernetica (sección H, subbloque Pandora como caso práctico). Este bullet es detalle de implementación que pertenecerá a documentación técnica del proyecto, no al wiki enciclopédico.",
+      "quote_evidence": "El usuario descarga un modelo a su PC y le inyecta los datos crudos de Pandora,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "próximo vídeo pregrabado sobre líneas rojas",
+      "reason_code": "promo",
+      "reason_detail": "Anuncio de contenido futuro del canal (las cuatro líneas rojas como tema del siguiente vídeo). Cuando se publique se procesará como vídeo propio; aquí es solo anuncio de agenda editorial.",
+      "quote_evidence": "Las cuatro líneas rojas podrían ser el tema del siguiente vídeo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "experimentos de ISU vulnerabilidad ESP",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia técnica empírica usada como justificación para la decisión Pandora Cero sin wifi/Bluetooth. Capturada en el update a cibernetica como parte del argumento sobre seguridad de datos. No es objeto autónomo de análisis ni amerita su propia entrada — es soporte empírico de una decisión arquitectónica.",
+      "quote_evidence": "Decisión reforzada por experimentos de ISU mostrando vulnerabilidad de dispositivos ESP,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": []
+}

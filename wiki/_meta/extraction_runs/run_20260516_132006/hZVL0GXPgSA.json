@@ -1,0 +1,301 @@
+{
+  "video_id": "hZVL0GXPgSA",
+  "video_title": "T5x15 A problemas de IA, remedios humanos",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "transhumanismo / IA aplicada",
+      "canonical_guess": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 70,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El modelo Dédalo: cada individuo con su asistente de IA personal,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "La bioética y la ciberética excluyen delegar decisiones que afecten a humanos,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La IA siempre necesitará a los humanos como referencia,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Hay que aportar criterio de humanidad a la inteligencia artificial,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo desplaza el eje del análisis desde transhumanismo cognitivo (vasijas tecnológicas, cibericosis, USB cerebral — ya cubierto en bloques A-F) hacia IA aplicada en su despliegue civilizatorio inminente. Aporta material genuinamente nuevo no presente en el cuerpo leído: (a) tesis bioética/ciberética sobre delegación de decisiones a IA, (b) Modelo Dédalo como propuesta positiva nombrada (cada individuo + asistente IA en lugar de consumo de productos hechos con IA), (c) metáfora-tesis 'los humanos somos el fuego de los dioses' como articulación de la asimetría estructural humano-IA, (d) argumento del colapso por autoalimentación (fotocopias) contra AGI, (e) predicciones operativas (nuevo ludismo + guerra por energía, cambio bottom-up vs top-down, barrera del robot en trabajos manuales, funcionariado como primer frente), (f) corrección del bulo Dawkins-consciencia-IA. La página actual cubre el transhumanismo como crítica filosófica + Galatea/Ariadna/Pandora como programa de investigación; este vídeo añade el flanco aplicado de IA como herramienta, complementario al flanco cognitivo ya cubierto.",
+      "quote_evidence": "El modelo Dédalo: cada individuo con su asistente de IA personal,"
+    },
+    {
+      "surface_form": "mito propio / iconotropía",
+      "canonical_guess": "mitologia-propia-impropia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "established_concept_recurring",
+      "minutes_estimate": 3,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Una iconotropía de mito propio sigue siendo mito propio, no impropio,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento conceptual nuevo no presente en el cuerpo leído: (a) precisión operativa de que una iconotropía cultural no transforma un mito propio en impropio (la condición se determina por la conciencia del autor/público en el origen, no por desplazamientos hermenéuticos posteriores), (b) ampliación del catálogo de mitos impropios contemporáneos añadiendo felicidad y amor romántico junto a democracia ya documentada. La iconotropía-nuance es decisiva para evitar deslizamientos clasificatorios (caso Lilith como ejemplo paradigmático: iconotropizada culturalmente pero sigue siendo mito propio si su origen es mitográfico consciente).",
+      "quote_evidence": "Mito impropio: idea que se toma como real (democracia, felicidad, amor romántico),"
+    },
+    {
+      "surface_form": "Dilema de los dos botones",
+      "canonical_guess": "dilema-dos-botones",
+      "page_type": "entity_work",
+      "domain_primary_guess": "social.psychology",
+      "depth_in_video": "monographic",
+      "minutes_estimate": 12,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Demostrar que no conoces a la mitad de la población,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El azul cuenta con la información que tiene y la que no tiene,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Análisis sustantivo (~12 min sostenidos, 16:10-27:47) de un experimento mental viralizado en redes (juego de los dos botones rojo/azul) con tesis autorial precisa del canal: (a) corrección del marco — NO es el dilema del prisionero, NO busca respuesta moral única; el objetivo psicológico real es revelar que no conoces a la mitad de la población, (b) tesis sobre racionalidad — votar azul es estrategia Minimax porque integra el desconocimiento del comportamiento ajeno; votar rojo solo funciona si todos hacen lo mismo, lo cual contradice la evidencia empírica, (c) diagnóstico psicológico — votar rojo es decisión emocional (me salvo yo) y narcisismo no patológico (asume que parte de la población morirá por imbécil), no decisión racional, (d) tesis moral — la respuesta moral es siempre votar azul porque extiende las acciones morales a la mayor cantidad de gente posible; votar azul es valiente, no irracional. Cumple §2.3 criterio de análisis dedicado por aplicación del marco propio (Minimax + altruismo + narcisismo psicológico). Precedente exacto: experimento-universo-25 está promovido como entity_work por análisis del canal sobre experimento etológico viralizado culturalmente — el dilema-dos-botones es análogo en formato (experimento mental + análisis sustantivo del canal). Sub-agente posterior construye stub completo con frontmatter rico y citas literales del vídeo.",
+      "quote_evidence": "Si más del 50% pulsa azul, todos sobreviven; si no, solo sobreviven los del rojo,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "**Tesis estructural de cierre**: los mitos, la cognición y los sistemas formales comparten una **gramática subyacente universal**. Estructuras mitológicas, formales y vivenciales son idénticas — corolario directo de Pandora, porque la mente recapitula su propia gramática en cualquier producto que fabrica.",
+      "content_proposed": "\n\n### G. IA aplicada vs IA sustitutiva: Modelo Dédalo, hibridación humano-IA y nuevo ludismo\n\nEl monográfico *T5x15: A problemas de IA, remedios humanos* (may-2026) desplaza el eje del análisis desde el transhumanismo cognitivo (vasijas tecnológicas, cibericosis) hacia la **IA aplicada en su despliegue civilizatorio inminente**. La crítica al mito de la sustitución se prolonga aquí como tesis afirmativa sobre cómo debe articularse el uso humano de la IA cuando ya está aquí — y qué consecuencias estructurales tiene dejarse llevar por la lógica de la sustitución que el transhumanismo idealiza.\n\n#### Bioética y ciberética: decisiones con responsabilidad humana no se delegan\n\nLa tesis nuclear es operativa: cualquier decisión con consecuencias sobre vidas humanas requiere supervisión humana obligatoria, no porque la IA sea técnicamente incapaz de procesarla, sino porque las decisiones de la IA serán siempre **ponderadas** (cálculo de utilidades) y nunca **éticas** (asunción de responsabilidad). Arquitectura, ingeniería, medicina, enfermería son los casos arquetípicos donde el canal sitúa el límite estructural.\n\n> \"Las decisiones de la IA siempre serán ponderadas, no éticas\"\n→ [T5x15 A problemas de IA, remedios humanos (42:31)](https://youtu.be/hZVL0GXPgSA?t=2551)\n\n> \"Hay que aportar criterio de humanidad a la inteligencia artificial\"\n→ [T5x15 A problemas de IA, remedios humanos (31:39)](https://youtu.be/hZVL0GXPgSA?t=1899)\n\n> \"La bioética y la ciberética excluyen delegar decisiones que afecten a humanos\"\n→ [T5x15 A problemas de IA, remedios humanos (31:39)](https://youtu.be/hZVL0GXPgSA?t=1899)\n\nLa consecuencia normativa cierra la tesis: un mundo **iácrata** —donde todo lo decida la IA— es indeseable porque los humanos son los que deben resolver sus propios problemas morales. La pieza prolonga el argumento ya articulado en la sección B (la cognición exige sustrato biológico íntegro) desde el flanco ético-normativo: lo mismo que la conciencia no es portable a silicio, la responsabilidad ética tampoco.\n\n#### Modelo Dédalo: cada individuo con su asistente IA, no consumo de productos hechos con IA\n\nEl canal articula su propuesta positiva sobre cómo organizar la IA aplicada en clave de **complementación** (no sustitución): cada individuo debe disponer de su propio asistente de IA, en lugar de consumir productos pre-fabricados por IA empresarial. El término propuesto es **Modelo Dédalo**.\n\n> \"El modelo Dédalo: cada individuo con su asistente de IA personal\"\n→ [T5x15 A problemas de IA, remedios humanos (49:06)](https://youtu.be/hZVL0GXPgSA?t=2946)\n\n> \"El paradigma será que cada individuo tenga su propio asistente de IA\"\n→ [T5x15 A problemas de IA, remedios humanos (40:30)](https://youtu.be/hZVL0GXPgSA?t=2430)\n\n> \"No tiene sentido consumir productos hechos con IA si tú tienes acceso a esa IA\"\n→ [T5x15 A problemas de IA, remedios humanos (51:07)](https://youtu.be/hZVL0GXPgSA?t=3067)\n\nLa pieza tiene dos componentes operativos. **Primero**: la arquitectura técnica del despliegue — modelos como Claude o ChatGPT estarán pronto disponibles para cualquiera con GPU y energía, lo difícil no es el modelo sino la arquitectura que lo hace funcionar; la liberalización es horizonte realista. **Segundo**: la receta ética complementaria — **prohibir el uso de IA para sustituir trabajos de grupos grandes de personas**, manteniendo el cauce empresarial pero condicionado al criterio Dédalo. El humano junto a la IA es más valioso que solo la IA.\n\n> \"El humano junto a la IA es más valioso que solo la IA\"\n→ [T5x15 A problemas de IA, remedios humanos (51:07)](https://youtu.be/hZVL0GXPgSA?t=3067)\n\n> \"Prohibir IA para sustituir trabajos de grupos grandes de personas\"\n→ [T5x15 A problemas de IA, remedios humanos (49:06)](https://youtu.be/hZVL0GXPgSA?t=2946)\n\nLa articulación tiene base fenomenológica en la tesis del [[adgrediere-masculino|adgrediere]]: el sentido vital no se obtiene resolviendo problemas sino **intentando resolverlos**. Una sociedad que delega masivamente la resolución de problemas a la IA priva a la mayor parte de su población del sustrato motivacional que produce salud mental. La conexión con [[experimento-universo-25|Universo 25]] es directa: cuando no hay problemas, los inventamos por aburrimiento, y la naturaleza humana detecta cuando los problemas no son reales (los videojuegos, la realidad virtual, generan demencia a largo plazo porque la salud mental viene de confrontar el mundo, no de problemas falsos).\n\n> \"El adgrediere genera salud mental al intentar resolver problemas, no al resolverlos\"\n→ [T5x15 A problemas de IA, remedios humanos (49:06)](https://youtu.be/hZVL0GXPgSA?t=2946)\n\n> \"El cerebro humano colapsa sin problemas: Universo 25\"\n→ [T5x15 A problemas de IA, remedios humanos (43:31)](https://youtu.be/hZVL0GXPgSA?t=2611)\n\n> \"La salud mental viene de confrontar el mundo, no de problemas falsos\"\n→ [T5x15 A problemas de IA, remedios humanos (48:06)](https://youtu.be/hZVL0GXPgSA?t=2886)\n\n#### \"Los humanos somos el fuego de los dioses\": asimetría estructural humano-IA\n\nLa metáfora-tesis del vídeo formula la asimetría irreducible entre humano e IA. Por mucho que avancen los modelos, la IA siempre necesitará a los humanos como referencia — porque sin **vivencia propia** (sustrato somático-afectivo articulado en la sección A), la IA no puede resolver problemas humanos mejor que los humanos.\n\n> \"La IA siempre necesitará a los humanos como referencia\"\n→ [T5x15 A problemas de IA, remedios humanos (55:38)](https://youtu.be/hZVL0GXPgSA?t=3338)\n\n> \"El sistema de complementación humano-IA promete porque el fuego somos nosotros\"\n→ [T5x15 A problemas de IA, remedios humanos (55:38)](https://youtu.be/hZVL0GXPgSA?t=3338)\n\n> \"La IA no será mejor resolviendo problemas humanos teniendo vivencia propia\"\n→ [T5x15 A problemas de IA, remedios humanos (55:38)](https://youtu.be/hZVL0GXPgSA?t=3338)\n\nEl argumento se refuerza con la observación técnica sobre el **colapso por autoalimentación**: el entrenamiento de IA sobre output de IA produce degradación progresiva — el principio operativo es el de las fotocopias de fotocopias. Una AGI con percepción del mundo real está lejos de ser posible; incluso una AGI hipotética necesitaría fijarse en humanos para complementarlos. La pieza añade un flanco técnico-empírico a la tesis filosófica ya articulada en la sección C (la fenomenología del yo depende de todo el cerebro simultáneamente).\n\n> \"Hacer fotocopias de fotocopias degrada el resultado\"\n→ [T5x15 A problemas de IA, remedios humanos (53:38)](https://youtu.be/hZVL0GXPgSA?t=3218)\n\n> \"Incluso una AGI necesitaría fijarse en humanos para complementarlos\"\n→ [T5x15 A problemas de IA, remedios humanos (53:38)](https://youtu.be/hZVL0GXPgSA?t=3218)\n\n> \"La alimentación sintética puede colapsar los modelos de IA\"\n→ [T5x15 A problemas de IA, remedios humanos (58:03)](https://youtu.be/hZVL0GXPgSA?t=3483)\n\n#### Predicciones estructurales: nuevo ludismo, guerra por la energía, cambio bottom-up\n\nLa tesis se cierra con un conjunto de predicciones operativas sobre cómo se desplegará la IA en el medio plazo:\n\n- **Nuevo ludismo y guerra por la energía**: la sustitución masiva producirá violencia anti-tecnológica (informáticos quemando centros de datos, atentados a centrales eléctricas) y la energía se encarecerá hasta hacer rentable volver a contratar humanos. La predicción no es moral sino económica.\n- **Cambio bottom-up, no top-down**: la burbuja de agentes potentes acabará consumiéndose a sí misma; el cambio real será gradual desde la actividad concreta hacia arriba, con asistentes específicos para cada profesión humana. La inversión empresarial top-down en agentes generalistas es leída como burbuja.\n- **Trabajos manuales y barrera del robot**: sustituir trabajadores manuales requiere robots, no solo IA. El humano gana al robot en **eficiencia energética** para tareas variadas — sostiene esa variabilidad durante décadas, los robots duran 10 años y quedan obsoletos.\n- **Funcionariado administrativo como primer frente**: los primeros puestos que se perderán serán los funcionariales administrativos; el funcionariado ya no valdrá para nada pero seguirá cobrando, planteando la cuestión política sobre qué hacer con la administración pública obsoleta.\n\n> \"Habrá informáticos quemando centros de datos y atentados a centrales eléctricas\"\n→ [T5x15 A problemas de IA, remedios humanos (58:03)](https://youtu.be/hZVL0GXPgSA?t=3483)\n\n> \"La energía se encarecerá hasta hacer rentable volver a contratar humanos\"\n→ [T5x15 A problemas de IA, remedios humanos (58:03)](https://youtu.be/hZVL0GXPgSA?t=3483)\n\n> \"El cambio será gradual desde la actividad real hacia arriba\"\n→ [T5x15 A problemas de IA, remedios humanos (1:00:40)](https://youtu.be/hZVL0GXPgSA?t=3640)\n\n> \"El humano gana al robot en eficiencia energética para tareas variadas\"\n→ [T5x15 A problemas de IA, remedios humanos (1:03:44)](https://youtu.be/hZVL0GXPgSA?t=3824)\n\n> \"Los primeros puestos que se perderán serán los funcionariales administrativos\"\n→ [T5x15 A problemas de IA, remedios humanos (1:29:22)](https://youtu.be/hZVL0GXPgSA?t=5362)\n\n#### Educación centrada en ser humano y el bulo Dawkins-consciencia-IA\n\nLa consecuencia pedagógica cierra el cuadro: la educación debe centrarse en **ser humano**, no en tecnología — la tecnología ya se va a usar a sí misma, fin de la excusa. Los pedagogos que dicen que el conocimiento es prescindible son justamente los primeros sustituibles por una IA. El conocimiento es útil en sí mismo porque genera sinapsis, no porque sea instrumental para una salida laboral.\n\n> \"El conocimiento es útil en sí mismo porque genera sinapsis\"\n→ [T5x15 A problemas de IA, remedios humanos (1:01:11)](https://youtu.be/hZVL0GXPgSA?t=3671)\n\n> \"Los pedagogos que dicen que el conocimiento es prescindible son sustituibles por una IA\"\n→ [T5x15 A problemas de IA, remedios humanos (1:01:11)](https://youtu.be/hZVL0GXPgSA?t=3671)\n\nCierra la sección con un correctivo sobre el bulo Dawkins-consciencia-IA: la afirmación atribuida a Dawkins de que ChatGPT sería consciente es bulo difundido por mala lectura. Lo que Dawkins dijo es que **no podía determinar** si la IA era consciente — afirmación negativa, no positiva. La pieza tiene función operativa: el salto cuántico hacia consciencia artificial está muy lejos o quizá es imposible, en línea con la tesis estructural ya articulada de que la conciencia exige sustrato biológico íntegro.\n\n> \"El rumor original es incorrecto y se ha difundido como bulo\"\n→ [T5x15 A problemas de IA, remedios humanos (1:14:25)](https://youtu.be/hZVL0GXPgSA?t=4465)\n\n> \"Dawkins en realidad dijo que no podía determinar si la IA era consciente\"\n→ [T5x15 A problemas de IA, remedios humanos (1:14:25)](https://youtu.be/hZVL0GXPgSA?t=4465)\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 1899,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (31:39)](https://youtu.be/hZVL0GXPgSA?t=1899)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 2430,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (40:30)](https://youtu.be/hZVL0GXPgSA?t=2430)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 2551,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (42:31)](https://youtu.be/hZVL0GXPgSA?t=2551)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 2611,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (43:31)](https://youtu.be/hZVL0GXPgSA?t=2611)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 2886,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (48:06)](https://youtu.be/hZVL0GXPgSA?t=2886)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 2946,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (49:06)](https://youtu.be/hZVL0GXPgSA?t=2946)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 3067,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (51:07)](https://youtu.be/hZVL0GXPgSA?t=3067)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 3218,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (53:38)](https://youtu.be/hZVL0GXPgSA?t=3218)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 3338,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (55:38)](https://youtu.be/hZVL0GXPgSA?t=3338)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 3483,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (58:03)](https://youtu.be/hZVL0GXPgSA?t=3483)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 3640,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (1:00:40)](https://youtu.be/hZVL0GXPgSA?t=3640)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 3671,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (1:01:11)](https://youtu.be/hZVL0GXPgSA?t=3671)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 3824,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (1:03:44)](https://youtu.be/hZVL0GXPgSA?t=3824)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 4465,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (1:14:25)](https://youtu.be/hZVL0GXPgSA?t=4465)"
+        },
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 5362,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (1:29:22)](https://youtu.be/hZVL0GXPgSA?t=5362)"
+        }
+      ],
+      "rationale": "Material genuinamente nuevo respecto a las seis secciones A-F del cuerpo leído. La página cubre transhumanismo cognitivo (cibericosis, USB cerebral, alquimia biónica, cíborg) + programa Galatea-Ariadna-Pandora; este vídeo añade un séptimo bloque G sobre IA aplicada práctica que es complementario, no redundante. La sección G articula: (1) tesis bioética-ciberética sobre delegación de decisiones, (2) Modelo Dédalo como nombre propio del canal para su propuesta positiva (asistente IA individual + prohibición de IA sustitutiva masiva), (3) metáfora del fuego de los dioses como asimetría estructural humano-IA, (4) argumento técnico del colapso por autoalimentación contra AGI, (5) cuatro predicciones operativas (nuevo ludismo + crisis energética, cambio bottom-up, barrera del robot, funcionariado primer frente), (6) consecuencia pedagógica + corrección del bulo Dawkins. Insert_after_passage con anchor único en la última frase del bloque F (Programa positivo) es la posición correcta: el nuevo bloque G prolonga el programa positivo desde el flanco de la IA aplicada, complementario al programa Galatea-Ariadna-Pandora cognitivo.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "mitologia-propia-impropia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta lectura conecta con la crítica del canal a los constructos modernos que ocupan el lugar del mito sin reclamar para sí esa categoría, hilo que también atraviesa [[mito-moderno-en-proxy]] y [[consumismo-critica]].",
+      "content_proposed": "\n\n## Refinamiento: iconotropía de mito propio sigue siendo mito propio\n\nEl canal añade en T5x15 (may-2026) una precisión operativa sobre el alcance de la distinción: una **iconotropía** —la torsión cultural por la que un símbolo se desplaza de su sentido original a uno distinto— **no transforma un mito propio en mito impropio**. La condición de propio/impropio se determina por la conciencia que el autor y el público tienen del carácter mítico de la construcción en su origen, no por los desplazamientos hermenéuticos posteriores que sufra. La pieza es decisiva para evitar deslizamientos clasificatorios: aunque Lilith haya sido iconotropizada culturalmente como figura feminista (caso documentado en [[lilit-mito]]), si su origen es mito propio (construcción mitográfica consciente), sigue siendo mito propio aunque su recepción contemporánea la lea como verdad histórica.\n\n> \"Una iconotropía de mito propio sigue siendo mito propio, no impropio\"\n→ [T5x15 A problemas de IA, remedios humanos (1:33:13)](https://youtu.be/hZVL0GXPgSA?t=5593)\n\nLa precisión amplía además el catálogo de **mitos impropios** que el canal articula. Junto a la democracia, el monográfico nombra explícitamente la **felicidad** y el **amor romántico** como casos contemporáneos paradigmáticos: ideas que se toman como reales —se persiguen, se evalúan vidas según su presencia o ausencia— sin que el lector las reconozca como construcciones míticas con función estructural específica.\n\n> \"Mito impropio: idea que se toma como real (democracia, felicidad, amor romántico)\"\n→ [T5x15 A problemas de IA, remedios humanos (1:33:13)](https://youtu.be/hZVL0GXPgSA?t=5593)\n\nEsto enlaza con [[amor-cortes-y-monogamia-civilizatoria]] como caso del amor romántico que el canal articula desde su forma mítica antropológica histórica — no como mito impropio sino como cristalización civilizatoria de un mito polar. La distinción importa: el amor romántico **contemporáneo** opera como mito impropio (idea idealizada asumida como criterio de éxito vital); el amor cortés **histórico-antropológico** opera como mito propio cristalizado en práctica civilizatoria. La felicidad como mito impropio queda pendiente de desarrollo por el canal en monográfico futuro, pero su nombramiento aquí completa la triada paradigmática de mitos impropios contemporáneos junto a democracia y amor romántico.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "lilit-mito",
+        "amor-cortes-y-monogamia-civilizatoria"
+      ],
+      "citations_added": [
+        {
+          "video_id": "hZVL0GXPgSA",
+          "timestamp_seconds": 5593,
+          "cite_markdown": "[T5x15 A problemas de IA, remedios humanos (1:33:13)](https://youtu.be/hZVL0GXPgSA?t=5593)"
+        }
+      ],
+      "rationale": "Refinamiento conceptual breve pero estructuralmente significativo: la cláusula de iconotropía estabiliza la categoría 'mito propio' frente a desplazamientos hermenéuticos culturales (importante para evitar reclasificaciones erróneas como considerar que Lilith iconotropizada se vuelve mito impropio). El insert también amplía el catálogo de mitos impropios contemporáneos (felicidad, amor romántico) que la página solo tenía documentado parcialmente (democracia). Update pequeño pero de alta densidad conceptual.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "experimento Universo 25 (re-uso)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Reuso breve del experimento como apoyo a la tesis 'sin problemas reales el cerebro colapsa / inventa problemas por aburrimiento'. La página experimento-universo-25 ya tiene articulación canónica del fenómeno (sobreabundancia, no sobrepoblación; drenaje conductual; los beautiful ones; análogos contemporáneos Instagram/hikikomori) y la página aburrimiento-en-proxy ya documenta el mecanismo. El reuso no añade material nuevo — se cita como apoyo al argumento Modelo Dédalo, ya capturado vía wikilink en el update a cibernetica.",
+      "quote_evidence": "El cerebro humano colapsa sin problemas: Universo 25,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "depresión transversal a clases sociales",
+      "reason_code": "passing_mention",
+      "reason_detail": "Afirmación clínica breve sin desarrollo: 'no hay diferencia significativa entre índices depresivos por nivel económico'. Apoyo al argumento Modelo Dédalo (la solución a la crisis vital no es material). No es tesis nueva sobre depresión — el canal ya articula en aburrimiento-en-proxy y adgrediere-masculino lecturas más sustantivas del cuadro depresivo. Brevedad (~1 min) impide promoción autónoma.",
+      "quote_evidence": "No hay diferencia significativa entre índices depresivos por nivel económico,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "núcleo de la depresión",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza clínica breve dentro del argumento Modelo Dédalo: 'El enfermo no ve que está enfermo, ve que la vida no merece la pena'. No es tesis nueva sobre depresión sino apoyo fenomenológico. Material relevante para una eventual página sobre depresión (no existe aún) o para enriquecer aburrimiento-en-proxy / yo-ego-autoestima-en-proxy, pero brevedad (~1 min) impide promoción autónoma en este vídeo.",
+      "quote_evidence": "El enfermo no ve que está enfermo, ve que la vida no merece la pena,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis fenomenológica precisa que podría merecer página propia si vídeos futuros la desarrollan; flag para reagregación si recurre.",
+      "enriches_concept": "aburrimiento-en-proxy"
+    },
+    {
+      "surface_form": "videojuegos generan demencia",
+      "reason_code": "passing_mention",
+      "reason_detail": "Afirmación clínica-cultural breve sobre realidad virtual como sustituto fallido de problemas reales. Capturada parcialmente en el update a cibernetica vía la cita 'La salud mental viene de confrontar el mundo, no de problemas falsos'. No merece página autónoma — es pieza del argumento Modelo Dédalo, no tesis independiente sobre videojuegos.",
+      "quote_evidence": "Los videojuegos generan demencia a largo plazo,",
+      "review_priority": "medium",
+      "review_priority_reason": "Afirmación clínica fuerte ('generan demencia a largo plazo') que merece verificación si el canal la articula con base bibliográfica en vídeos futuros.",
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "creatividad como mito",
+      "reason_code": "passing_mention",
+      "reason_detail": "Tesis breve pero distintiva: 'Nadie tiene ideas propias estrictamente: todo se basa en lo experimentado; la creatividad pura no existe'. Articulada (~1 min) como defensa contra la queja de los dibujantes sobre el aprendizaje por copia de la IA — los dibujantes acusan a la IA de copiar como aprendieron ellos copiando. La tesis encaja conceptualmente con pensamiento-poetico y teoria-del-simbolo-en-proxy (mente como recapitulación / ambiguación) pero brevedad y carácter polemic-contextual (defensa contra crítica anti-IA) impiden promoción autónoma en este vídeo. Material a recoger si futuros vídeos desarrollan tesis epistemológica completa sobre creatividad.",
+      "quote_evidence": "Nadie tiene ideas propias estrictamente: todo se basa en lo experimentado,",
+      "review_priority": "medium",
+      "review_priority_reason": "Tesis epistemológica que el canal podría desarrollar en futuro como pieza propia; flag para reagregación si recurre con desarrollo sustantivo.",
+      "enriches_concept": "teoria-del-simbolo-en-proxy"
+    },
+    {
+      "surface_form": "budismo como ascesis vs cristianismo como mística",
+      "reason_code": "passing_mention",
+      "reason_detail": "Distinción teológica breve (~1 min) introducida al final del stream: 'el budismo busca salvación a través de la ascesis (conducta); el cristianismo es relación: la ascesis prepara para la mística'. Material relevante para teologia-catolica-en-proxy como contraste pero brevedad y carácter contextual (apertura de tema sin desarrollo) impiden promoción autónoma o update sustantivo. Flag para reagregación si el canal dedica monográfico al contraste budismo/cristianismo.",
+      "quote_evidence": "El cristianismo es relación con otros, el budismo es conducta no orientada,",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción teológica precisa que merecería página o sección si desarrollada en futuro; el canal ya tiene teologia-catolica-en-proxy y magia-supersticion-religion-en-proxy donde encajaría como contraste estructural.",
+      "enriches_concept": "teologia-catolica-en-proxy"
+    },
+    {
+      "surface_form": "IA escribiendo ficción indistinguible",
+      "reason_code": "passing_mention",
+      "reason_detail": "Observación técnica breve dentro del bloque IA aplicada: los modelos ya escriben bien aunque no son específicamente literarios; cada vez más personas se expresan como si fueran IAs. No es tesis propia sino observación contextual. Capturada implícitamente en el argumento del colapso por autoalimentación (sección G del update a cibernetica).",
+      "quote_evidence": "Los modelos ya pueden escribir muy bien aunque no son específicamente literarios,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "categorías kantianas a priori (anuncio de tema futuro)",
+      "reason_code": "promo",
+      "reason_detail": "Mención de tema solicitado para futuro vídeo de Psicología 101 sobre cómo articular hoy las categorías kantianas (coherencia cognitiva, Dios y mundo como categorías a priori, conexión con la psicología arquetípica). No es contenido del vídeo presente sino anuncio de contenido futuro. Reason_code 'promo' aproxima — no es promoción comercial pero sí anuncio de programación.",
+      "quote_evidence": "Tema solicitado para Psicología 101: cómo articular hoy las categorías kantianas,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "funcionariado administrativo obsoleto",
+      "reason_code": "passing_mention",
+      "reason_detail": "Predicción operativa dentro del argumento de despliegue IA: los primeros puestos que se perderán serán los funcionariales administrativos. Capturada en el update a cibernetica como una de las cuatro predicciones estructurales (sección G). Conexión tangencial con teocracia-agnostica-y-victimologia-institucional (que articula crítica al Estado contemporáneo) pero el ángulo aquí es técnico-económico, no sacro-victimológico.",
+      "quote_evidence": "El funcionariado ya no valdrá para nada pero seguirá cobrando,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "estabilizar reactores de fusión",
+      "reason_code": "passing_mention",
+      "reason_detail": "Especulación técnica breve sobre aplicaciones positivas potenciales de la IA (resolución de problemas físicos como la escasez energética). Pieza retórica dentro del argumento Modelo Dédalo, no tesis sobre energía/fusión.",
+      "quote_evidence": "Estabilizar reactores de fusión solucionaría la crisis energética planetaria,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    },
+    {
+      "surface_form": "bulo Dawkins-consciencia-IA",
+      "reason_code": "passing_mention",
+      "reason_detail": "Correctivo factual sobre cita atribuida a Dawkins. Capturado en el update a cibernetica (sección G, subbloque Educación + bulo Dawkins). No merece página propia — es nota correctiva, no tesis del canal.",
+      "quote_evidence": "Dawkins en realidad dijo que no podía determinar si la IA era consciente,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "cibernetica-biosintetica-y-transhumanismo-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": []
+}

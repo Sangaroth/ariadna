@@ -1,0 +1,280 @@
+{
+  "video_id": "WNR-gfv48mg",
+  "video_title": "¿Democracia?",
+  "playlist": "_sin_playlist",
+  "category": "cultura y actualidad",
+  "entities": [
+    {
+      "surface_form": "mito impropio",
+      "canonical_guess": "mitologia-propia-impropia",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 15,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Se introduce el concepto de que esa definición es en realidad un mito,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La democracia es una idea utópica que esconde un absurdo: gobernarse a uno mismo,"
+        },
+        {
+          "mark_type": "foundational_invocation",
+          "quote_evidence": "Un mito no es solo Hércules o Superman, sino una idea que prescinde de la realidad,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": true,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "El vídeo es el desarrollo monográfico del ejemplo canónico (democracia) que la página ya nombra como caso prototípico de mito impropio pero no desarrolla. Cumple §2.1 (framing-mark de marco aplicado + recurrencia del concepto). Aporta material nuevo sustantivo no presente en el cuerpo leído: (a) definición operativa del mito impropio en clave cognitiva ('idea que prescinde de la realidad'), (b) desmontaje sistemático del dispositivo democrático (imposibilidad estructural, ficción mayoría, voto insuficiente, ciudadano sin defensa), (c) análisis de la mecánica constitucional (programática vs aplicable, bloque de constitucionalidad, contraste España/EE.UU.), (d) articulación del blindaje retórico-afectivo del mito impropio ('ha costado mucho conseguirla'). Ninguno de estos elementos está en la prosa actual.",
+      "quote_evidence": "Un mito no es solo Hércules o Superman, sino una idea que prescinde de la realidad,"
+    }
+  ],
+  "_doc_promote_new": "Para entities con decision=promote_new NO emites el cuerpo de la página: tu rol aquí es DECIDIR qué merece página. Un sub-agente posterior, con contexto focalizado, construirá el stub completo (frontmatter rico + body con secciones, citas y wikilinks). Tú aportas: page_id, page_type, domain_primary_guess, depth_in_video, decision_reason justificando el criterio scope.md, y quote_evidence con la cita más representativa. Eso basta.",
+  "pending_updates": [
+    {
+      "page_id": "mitologia-propia-impropia",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "Esta lectura conecta con la crítica del canal a los constructos modernos que ocupan el lugar del mito sin reclamar para sí esa categoría, hilo que también atraviesa [[mito-moderno-en-proxy]] y [[consumismo-critica]].",
+      "content_proposed": "\n\n## La democracia como caso desarrollado de mito impropio\n\nEl monográfico *¿Democracia?* funciona como desarrollo extenso del ejemplo de la democracia que el resto del corpus tematiza solo de pasada. El canal abre con una definición operativa del **mito impropio** en clave cognitiva: un mito no es solo Hércules o Superman sino una idea que prescinde de la realidad, cuya coherencia se sostiene únicamente en la cabeza y no al contrastarla con el mundo. La pieza está diseñada para habitar como idea, no para ser verificada.\n\n> \"Un mito no es solo Hércules o Superman, sino una idea que prescinde de la realidad\"\n→ [¿Democracia? (01:05)](https://youtu.be/WNR-gfv48mg?t=65)\n\n> \"El mito está diseñado para habitar como idea, no para ser verificado\"\n→ [¿Democracia? (01:05)](https://youtu.be/WNR-gfv48mg?t=65)\n\nSobre esa definición se construye el desmontaje sistemático del dispositivo democrático. La argumentación procede por imposibilidades concatenadas: el pueblo no puede gobernarse a sí mismo porque ni los individuos pueden hacerlo; la unanimidad es estructuralmente inalcanzable, lo que obliga a delegación permanente; la \"decisión del grupo\" es en realidad decisión de una mayoría que anula al resto como peaje aceptado; el voto no define democracia por sí solo (Corea del Norte y Venezuela también votan); y la apariencia de representación reemplaza al contenido sustantivo.\n\n> \"El pueblo no puede gobernarse a sí mismo porque ni los individuos pueden gobernarse a sí mismos\"\n→ [¿Democracia? (02:35)](https://youtu.be/WNR-gfv48mg?t=155)\n\n> \"Se hace pasar por decisión 'del grupo' lo que en realidad decide una mayoría\"\n→ [¿Democracia? (04:06)](https://youtu.be/WNR-gfv48mg?t=246)\n\n> \"El voto en sí mismo no define una democracia, sino la calidad y efecto del voto\"\n→ [¿Democracia? (05:37)](https://youtu.be/WNR-gfv48mg?t=337)\n\nLa cadena culmina en una tesis estructural sobre el sujeto: el ciudadano carece de mecanismos institucionales para defender sus derechos frente al Estado, y el sistema depende en última instancia de la buena voluntad del gobernante. Si el gobierno decide eliminar derechos fundamentales o suspender elecciones invocando una amenaza, no hay obstáculo institucional real — solo la posibilidad fáctica de revolución, cuyos actos coinciden con los necesarios para derrocar una dictadura. La apariencia democrática funciona, según la formulación del canal, como dictadura blanda.\n\n> \"El ciudadano carece de mecanismos reales para defender sus derechos frente al Estado\"\n→ [¿Democracia? (07:38)](https://youtu.be/WNR-gfv48mg?t=458)\n\n> \"Los actos necesarios para defender la democracia son idénticos a los necesarios para derrocar una dictadura\"\n→ [¿Democracia? (09:09)](https://youtu.be/WNR-gfv48mg?t=549)\n\n### Democracia constitucional: la mecánica del vacío institucional\n\nEl segundo bloque articula que el problema no se resuelve añadiendo \"constitucional\" al sustantivo. Una constitución no es un catálogo de derechos sino la ley fundamental del Estado; la española es **programática** —principios generales sin aplicación directa—, su cumplimiento depende del gobierno y no del ciudadano, y el Tribunal Constitucional es órgano cuyos miembros designan los partidos políticos. El contraste con EE.UU., donde un ciudadano puede acudir a un juez de primera instancia para defender derechos constitucionales, expone que la diferencia operativa entre \"democracia con constitución\" y dictadura blanda depende del **bloque de constitucionalidad** —Ley Orgánica del Poder Judicial, estatutos de autonomía— sin el cual la Constitución \"no sería nada\".\n\n> \"El cumplimiento depende del gobierno, no del Estado ni del ciudadano\"\n→ [¿Democracia? (10:40)](https://youtu.be/WNR-gfv48mg?t=640)\n\n> \"Sus miembros son elegidos por el gobierno o por partidos políticos que no representan a nadie\"\n→ [¿Democracia? (11:41)](https://youtu.be/WNR-gfv48mg?t=701)\n\n> \"Sin instituciones derivadas, no puedes acudir a ningún sitio a hacerla valer\"\n→ [¿Democracia? (13:42)](https://youtu.be/WNR-gfv48mg?t=822)\n\n### El blindaje del mito impropio: \"ha costado mucho conseguirla\"\n\nEl cierre del análisis identifica el dispositivo defensivo que sostiene al mito impropio cuando funciona a pleno rendimiento: la apelación al coste pasado de su conquista como argumento que prohíbe la crítica sin examinar si la cosa funciona. La analogía del canal —capturar un elefante con esfuerzo no obliga a mantenerlo en la ciudad— expone la falacia: el coste de obtención no determina el valor presente. Esto añade un componente articulado al concepto: el mito impropio no se mantiene solo por opacidad cognitiva (no reconocerse como mito), sino también por un **blindaje retórico-afectivo** que descalifica de antemano cualquier intento de superación.\n\n> \"La democracia es una idea utópica que esconde un absurdo: gobernarse a uno mismo\"\n→ [¿Democracia? (14:13)](https://youtu.be/WNR-gfv48mg?t=853)\n\n> \"Su nombre demasiado bueno blinda al sistema contra cualquier intento de superarlo\"\n→ [¿Democracia? (14:13)](https://youtu.be/WNR-gfv48mg?t=853)\n\nLa conexión con [[teocracia-agnostica-y-victimologia-institucional]] es estructural: ambos análisis describen el mismo aparato institucional desde ángulos complementarios. Allí el Estado contemporáneo sacraliza víctimas mediante personalidad jurídica y oráculo intermediario; aquí opera como mito impropio cuya apariencia de garantía institucional encubre la dependencia última de la voluntad del gobernante de turno.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "teocracia-agnostica-y-victimologia-institucional"
+      ],
+      "citations_added": [
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 65,
+          "cite_markdown": "[¿Democracia? (01:05)](https://youtu.be/WNR-gfv48mg?t=65)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 155,
+          "cite_markdown": "[¿Democracia? (02:35)](https://youtu.be/WNR-gfv48mg?t=155)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 246,
+          "cite_markdown": "[¿Democracia? (04:06)](https://youtu.be/WNR-gfv48mg?t=246)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 337,
+          "cite_markdown": "[¿Democracia? (05:37)](https://youtu.be/WNR-gfv48mg?t=337)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 458,
+          "cite_markdown": "[¿Democracia? (07:38)](https://youtu.be/WNR-gfv48mg?t=458)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 549,
+          "cite_markdown": "[¿Democracia? (09:09)](https://youtu.be/WNR-gfv48mg?t=549)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 640,
+          "cite_markdown": "[¿Democracia? (10:40)](https://youtu.be/WNR-gfv48mg?t=640)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 701,
+          "cite_markdown": "[¿Democracia? (11:41)](https://youtu.be/WNR-gfv48mg?t=701)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 822,
+          "cite_markdown": "[¿Democracia? (13:42)](https://youtu.be/WNR-gfv48mg?t=822)"
+        },
+        {
+          "video_id": "WNR-gfv48mg",
+          "timestamp_seconds": 853,
+          "cite_markdown": "[¿Democracia? (14:13)](https://youtu.be/WNR-gfv48mg?t=853)"
+        }
+      ],
+      "rationale": "La página actual nombra la democracia como ejemplo canónico de mito impropio en un único párrafo de alto nivel sin desarrollo. Este vídeo es el monográfico que articula sustantivamente ese ejemplo: definición operativa cognitiva del mito impropio, desmontaje del dispositivo democrático por imposibilidades concatenadas, análisis del aparato constitucional español frente al estadounidense, y articulación del blindaje retórico ('ha costado mucho conseguirla') como nueva pieza conceptual añadida al constructo de mito impropio. Material genuinamente nuevo respecto al cuerpo leído (verificado: la sección 'Mitología impropia: el mito que no se sabe mito' tiene 3 frases de alto nivel sin citas; el resto de la página desarrolla Lovecraft, conspiración y autorreferencialidad — ninguno aborda la mecánica institucional de la democracia). El insert_after_passage es el update_type correcto: el material es una nueva subsección que extiende la sección 'Mitología impropia: el mito que no se sabe mito' sin desplazar prosa existente.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [
+    {
+      "thesis_title_proposed": "Democracia como mito impropio: imposibilidad estructural y blindaje retórico",
+      "proposed_page_id": "democracia-como-mito-impropio",
+      "synthesis_subtype": "author_thesis",
+      "speaker_authorship_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Se introduce el concepto de que esa definición es en realidad un mito,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "El pueblo no puede gobernarse a sí mismo porque ni los individuos pueden gobernarse a sí mismos,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Un mito no es solo Hércules o Superman, sino una idea que prescinde de la realidad,"
+        }
+      ],
+      "framework_internal_structure": [
+        "Definición cognitiva del mito impropio: idea que prescinde de la realidad",
+        "Imposibilidad estructural del auto-gobierno: ni individuos ni colectivos pueden gobernarse",
+        "Ficción de la mayoría: decisión de un subconjunto presentada como decisión del todo",
+        "Voto como criterio insuficiente: Corea del Norte y Venezuela también votan",
+        "Tiranía de las mayorías como peaje aceptado del sistema",
+        "Ciudadano sin defensa institucional frente al Estado",
+        "Constitución programática vs constitución aplicable: el contraste España/EE.UU.",
+        "Bloque de constitucionalidad como dependencia institucional oculta",
+        "Tribunal Constitucional como instrumento partidista",
+        "Blindaje retórico del mito impropio: 'ha costado mucho conseguirla' como argumento que prohíbe la crítica"
+      ],
+      "minutes_sustained": 15,
+      "domain_guess": "humanities.philosophy.political",
+      "related_existing_pages": [
+        "mitologia-propia-impropia",
+        "teocracia-agnostica-y-victimologia-institucional",
+        "sofisma-estetico",
+        "diagrama-de-proxy"
+      ],
+      "requires_human_validation": true,
+      "rationale": "Tres señales de autoría detectadas (thesis_marker + internal_structure + pedagogic_register) y framework_internal_structure con ≥4 piezas explícitas. NO cumple gate de auto-promoción §2.4.1 porque minutes_sustained=15 < 30. El candidato queda pendiente de validación humana porque solapa significativamente con [[mitologia-propia-impropia]] (donde la democracia es ya el ejemplo canónico del concepto) — la decisión humana debe ser si el material merece página propia o si basta el pending_update que enriquece mitologia-propia-impropia. Recomendación implícita del extractor: bastaría con el enriquecimiento de mitologia-propia-impropia salvo que vídeos futuros desarrollen aún más la tesis."
+    }
+  ],
+  "discarded": [
+    {
+      "surface_form": "Pedro Sánchez",
+      "reason_code": "passing_mention",
+      "reason_detail": "Sánchez aparece como caso ilustrativo del mecanismo estructural (apariencia democrática como dictadura blanda dependiente de la voluntad del gobernante), no como comentario partidista coyuntural. Per scope.md §3.1 test discriminante: el speaker articula mecanismo psicológico-político (delegación + voluntad arbitraria) y usa la figura como ejemplo del marco, no para juzgar la persona. Pasa el test de la cápsula del tiempo: si se retira el nombre, la afirmación sobre la dependencia institucional de la buena voluntad del gobernante sobrevive como tesis estructural.",
+      "quote_evidence": "A Sánchez \"no le votó nadie\" y aun así está en el poder,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Pedro Sánchez (suspensión hipotética de elecciones)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo del argumento estructural: el gobierno puede suspender derechos invocando amenazas. Pasa el test §3.1 — el mecanismo (la apariencia democrática como dictadura blanda) sobrevive sin el nombre propio. La referencia a 'extrema derecha' aparece como ejemplo retórico del pretexto, no como comentario partidista.",
+      "quote_evidence": "Si decide suspender elecciones invocando a la \"extrema derecha\", podría hacerlo,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "lo que haga Pedro Sánchez (Tribunal Constitucional)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ilustrativo del argumento: la ley fundamental termina dependiendo de la voluntad del gobernante de turno por designación política del TC. Pieza del análisis institucional, no comentario partidista. Se captura en el pending_update a mitologia-propia-impropia como parte de la mecánica constitucional.",
+      "quote_evidence": "La ley fundamental termina siendo \"lo que haga Pedro Sánchez\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Hacienda",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención institucional como ejemplo de problema grave sin desarrollo. No es objeto de análisis propio en el vídeo.",
+      "quote_evidence": "Se menciona Hacienda como ejemplo de problema grave,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Tribunal Constitucional",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Institución española mencionada como pieza del análisis estructural sobre la mecánica constitucional. No procede página autónoma: el contenido relevante del canal sobre el TC ya queda capturado en el pending_update a mitologia-propia-impropia (sección 'Democracia constitucional').",
+      "quote_evidence": "Sus miembros son elegidos por el gobierno o por partidos políticos que no representan a nadie,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Constitución española",
+      "reason_code": "established_taxonomy",
+      "reason_detail": "Marco jurídico español usado como caso de análisis comparado España/EE.UU. El contenido analítico del canal sobre cómo opera la Constitución como instrumento dependiente del gobierno se captura en el pending_update a mitologia-propia-impropia. No procede página autónoma sobre el documento jurídico.",
+      "quote_evidence": "La Constitución española no es una ley, no se aprueba como ley ni es de aplicación directa,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "bloque de constitucionalidad",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto técnico del derecho constitucional español usado por el canal como pieza del argumento sobre el vacío institucional. No es tesis propia ni concepto canal-específico. Se integra en el pending_update a mitologia-propia-impropia como pieza del análisis del aparato constitucional.",
+      "quote_evidence": "La Ley Orgánica del Poder Judicial y los estatutos de autonomía conforman ese bloque,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "tiranía de las mayorías",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Concepto clásico de la filosofía política (Tocqueville, Mill) que el canal invoca como pieza del argumento sin articular tesis propia sobre él. No procede página autónoma — la disciplina académica donde es canónico no es la del canal en sentido fuerte. Se integra en el pending_update como pieza del desmontaje del dispositivo democrático.",
+      "quote_evidence": "Siempre hay un porcentaje cuya voluntad queda anulada por la mayoría,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "Corea del Norte / Venezuela (voto sin democracia)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Ejemplos contrastivos para argumentar que el voto no define democracia. Mención sin análisis ni biografía de los regímenes. Función retórica dentro del argumento estructural, no objeto de análisis propio.",
+      "quote_evidence": "En Corea del Norte y Venezuela también se vota, pero no son democracias reales,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "resistencia boomer al cuestionamiento",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caracterización generacional como dispositivo retórico para introducir el blindaje 'ha costado mucho conseguirla'. La pieza enciclopédica relevante (el blindaje retórico del mito impropio) sí se captura en el pending_update; la etiqueta generacional en sí es color narrativo sin desarrollo analítico.",
+      "quote_evidence": "Defienden la democracia diciendo que \"ha costado mucho conseguirla\",",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    },
+    {
+      "surface_form": "revolución como único freno real",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza del argumento estructural sobre la inexistencia de defensa institucional del ciudadano. La sustancia se captura en el pending_update a mitologia-propia-impropia. No procede página autónoma sobre 'revolución' como concepto del canal — el speaker no articula teoría revolucionaria.",
+      "quote_evidence": "Lo único que detendría abusos del gobierno sería una revolución,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "mitologia-propia-impropia"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [
+    {
+      "block_quote": "Si Pedro Sánchez dice que no se sale a la calle, no se sale (como ya ocurrió),",
+      "matched_pattern": "(?i)\\b(...|s[aá]nchez|...)\\b",
+      "reason": "Regex matched 'Sánchez' pero override per scope.md §3.1: el speaker articula mecanismo estructural (apariencia democrática como dictadura blanda dependiente de voluntad arbitraria del gobernante) y aplica su marco propio de mito impropio. Sánchez es caso ilustrativo, no comentario coyuntural. Pasa el test de la cápsula del tiempo. Logged aquí por transparencia auditable; el bloque SÍ se procesa y queda capturado en el pending_update a mitologia-propia-impropia."
+    },
+    {
+      "block_quote": "Si decide suspender elecciones invocando a la \"extrema derecha\", podría hacerlo,",
+      "matched_pattern": "(?i)\\b(...|elecciones|...)\\b",
+      "reason": "Regex matched 'elecciones' y 'extrema derecha' como construcciones retóricas del pretexto, no como comentario electoral coyuntural. Per scope.md §3.1, override a IN: el mecanismo (suspensión de derechos invocando amenaza como dispositivo institucional) es estructural. Logged por transparencia; el bloque se procesa."
+    },
+    {
+      "block_quote": "La ley fundamental termina siendo \"lo que haga Pedro Sánchez\",",
+      "matched_pattern": "(?i)\\b(...|s[aá]nchez|...)\\b",
+      "reason": "Regex matched 'Sánchez' pero override per scope.md §3.1: la pieza articula el mecanismo institucional (TC dependiente de designación partidista). Sánchez es figura nominal del argumento, no objeto de juicio. Logged; bloque procesado."
+    }
+  ],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 0,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 11,
+    "blocks_filtered_count": 3
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-05-16T13:20:06Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  }
+}

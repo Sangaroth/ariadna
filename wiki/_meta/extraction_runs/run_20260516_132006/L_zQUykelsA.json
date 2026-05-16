@@ -1,0 +1,235 @@
+{
+  "video_id": "L_zQUykelsA",
+  "video_title": "T5x17 Mitología 101: Babel, el Diluvio y Sodoma.",
+  "playlist": "mitologia-101",
+  "category": "mitología y religión",
+  "entities": [
+    {
+      "surface_form": "tesis once celdas / workflow IA + Teseo",
+      "canonical_guess": "tesis-once-celdas-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cognitive_science",
+      "depth_in_video": "established_concept_recurring",
+      "minutes_estimate": 10,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "Para demostrar que existen esas funciones hay que asimilar conductas mentales a redes que las manejan y verificar que son autónomas,"
+        },
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "La literatura existente usa una clasificación preproxi, así que llama a las funciones cognitivas por otros nombres,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Refinamiento metodológico del research program documentado en la página: (a) la trampa estructural de consultar literatura científica con palabras clave preconcebidas (recuperaría las taxonomías preproxi, no las celdas del marco); (b) estrategia inversa — darle a la IA artículos/mapas de neurociencia y pedirle extraer redes cognitivas en lugar de preguntar por celdas predefinidas; (c) criterio de demostración explícito (asimilar conductas mentales a redes neuronales que operan de forma autónoma); (d) Teseo como IA propia del canal con info acumulada de directos para localizar referencias cruzadas. Material genuinamente nuevo no presente en la sección 'Marco teleosemántico' del cuerpo leído — esa sección articula el criterio de sustrato neurológico dedicado pero no el método de descubrimiento bottom-up vía extracción IA-asistida que evita el sesgo confirmatorio. Update pequeño pero metodológicamente importante: protege el research program de la trampa de validar sus propias celdas por construcción.",
+      "quote_evidence": "La estrategia es darle a la IA artículos o mapas de neurociencia y pedirle que extraiga las redes cognitivas en lugar de preguntarle por celdas predefinidas,"
+    },
+    {
+      "surface_form": "Tetralogía escatológica del Génesis: Diluvio, Babel, Sodoma y Egipto",
+      "canonical_guess": "escatologia-genesis-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "monographic",
+      "minutes_estimate": 50,
+      "framing_marks": [
+        {
+          "mark_type": "declared_thesis",
+          "quote_evidence": "El diluvio, Babel y Sodoma forman una secuencia coherente de rupturas tras Adán y Eva y Caín y Abel,"
+        },
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El Génesis sostiene que la violencia no desaparece con la civilización: crece junto a ella,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Tras Noé, los descendientes forman las primeras ciudades-estado y se obsesionan con construir templos hacia arriba,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Aparece como el último gran modelo de ruptura tras diluvio, Babel y Sodoma,"
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "Lectura literal: Dios lanza una inundación avisando a los justos para que se salven,"
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis estructurada del canal articulada en Mitología 101 (formato monográfico-pedagógico) que cumple gate §2.4.1 de auto-promoción: minutes_sustained ≈ 50, signal_marks ≥ 5 (thesis_marker + 2 internal_structure + applied_framework + pedagogic_register), framework_internal_structure con ≥ 10 piezas articuladas: (1) tesis nuclear — el Génesis articula secuencia coherente de rupturas civilizatorias post-paradisaco donde la violencia crece junto a la civilización; (2) pre-tetralogía: Adán-Eva (yo vs naturaleza, querer ser como Dios) y Caín-Abel (yo vs prójimo, primera fratricidio); (3) Diluvio como primer fracaso COLECTIVO (no individual ni interpersonal) — colapso moral de comunidades enteras; (4) tres lecturas del Diluvio canónicas del canal (literal/cuento + moral/segregación + histórica/macroinundaciones mesopotámicas ~6000 a.C.); (5) Noé y el arca como reset civilizatorio + retorno al Génesis primordial via el agua; (6) Babel como segunda ruptura: ensimismamiento de ciudades-estado y nacimiento de dialectos por aislamiento (no por castigo divino); (7) corolario contemporáneo: idiomas hegemónicos sucesivos (latín, español imperial, inglés post-II GM, chino futuro) + compartimentación de disciplinas científicas como Babel del conocimiento; (8) Sodoma como tercera ruptura: corrupción de la ciudad rica/avanzada, narcisismo urbano + desprecio al extranjero — castigo localizado (no global como Diluvio o Babel); (9) Lot y mujer-estatua-de-sal como dispositivo psicológico del arrepentimiento congelado; (10) reinterpretación del pecado de Sodoma como violencia social/política (no sexual); (11) Egipto como cuarta ruptura: esclavización de los emitas (israelitas) — cierre de la serie de colapsos; (12) MAPEO POLÍTICO contemporáneo: Sodoma → hippies, Diluvio → anarcas, Egipto → totalitarismo de derechas, Babel → totalitarismo de izquierdas — aplicación del esquema bíblico al espectro político contemporáneo. La tesis es distinta de [[genesis-mitologico]] (que articula Génesis como categoría cosmogónica del origen) — esta synthesis articula el RECORRIDO post-paradisaco como matriz escatológica civilizatoria. Sub-agente posterior construye stub completo con frontmatter rico, body estructurado por fases, citas literales del vídeo, y wikilinks a páginas existentes (genesis-mitologico, apocalipsis-mitema, diagrama-de-proxy para el mapeo político). Caution flag para revisión humana: el mapeo político al final (especialmente la asignación Babel=totalitarismo de izquierdas / Egipto=totalitarismo de derechas) es claim provocativo que merece revisión editorial cuidadosa — puede mantenerse con framing matizado o reservarse para sección específica con caveats.",
+      "quote_evidence": "El diluvio, Babel y Sodoma forman una secuencia coherente de rupturas tras Adán y Eva y Caín y Abel,"
+    },
+    {
+      "surface_form": "Génesis como matriz escatológica civilizatoria",
+      "canonical_guess": "genesis-mitologico",
+      "page_type": "concept",
+      "domain_primary_guess": "humanities.religion",
+      "depth_in_video": "established_concept_recurring",
+      "minutes_estimate": 5,
+      "framing_marks": [
+        {
+          "mark_type": "applied_framework",
+          "quote_evidence": "El Génesis sostiene que la violencia no desaparece con la civilización: crece junto a ella,"
+        }
+      ],
+      "assumed_prior": true,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": true,
+      "decision": "update_existing",
+      "decision_reason": "Pequeño update de cross-referencia: la página actual cubre Génesis como categoría cosmogónica (relato de origen del todo, emanación desde Ilúvatar, hipóstasis metafísica, isomorfismo síntesis mental) más tres modalidades operativas (cosmogónica/Tolkien, disfuncional/Unicorn Wars, femenino-individual/Caperucita, neogénesis/Asimov). El vídeo T5x17 articula una QUINTA dimensión del marco: el Génesis como **matriz escatológica civilizatoria** — recorrido post-paradisaco con cuatro fases estructuradas de rupturas (Diluvio-Babel-Sodoma-Egipto). El desarrollo completo va a página derivada [[escatologia-genesis-en-proxy]]; aquí solo se añade sección breve que (a) nombra la quinta modalidad como ampliación del marco genésico, (b) precisa que el Génesis bíblico opera en doble registro (cosmogónico + escatológico-civilizatorio), (c) cross-link a la página derivada para el desarrollo articulado.",
+      "quote_evidence": "El diluvio, Babel y Sodoma forman una secuencia coherente de rupturas tras Adán y Eva y Caín y Abel,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "tesis-once-celdas-en-proxy",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "content_proposed": "\n\n## Workflow metodológico: extracción de redes vía IA y Teseo\n\nT5x17 (may-2026) precisa el método operativo para poblar empíricamente las 11 celdas evitando el sesgo confirmatorio que la sección 'Marco teleosemántico' presupone como riesgo. La trampa metodológica es estructural: cualquier consulta por palabras clave directas a la literatura científica recupera el aparato categorial preexistente (memoria episódica vs procedural según taxonomías clásicas) que NO coincide celda-por-celda con el marco proxy.\n\n> \"No se puede pedirle al LLM que busque por 'procedimental' con palabras clave preconcebidas, porque buscaría lo que nosotros creemos que es procedimental\"\n→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (14:36)](https://youtu.be/L_zQUykelsA?t=876)\n\n> \"La literatura existente usa una clasificación preproxi, así que llama a las funciones cognitivas por otros nombres\"\n→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (14:36)](https://youtu.be/L_zQUykelsA?t=876)\n\nLa estrategia inversa: darle a la IA artículos o mapas de neurociencia y pedirle extraer las redes cognitivas activadas en cada conducta documentada, en lugar de preguntar por celdas predefinidas del marco propio. El método es **bottom-up desde la literatura empírica**, no top-down desde el marco categorial proxi.\n\n> \"La estrategia es darle a la IA artículos o mapas de neurociencia y pedirle que extraiga las redes cognitivas en lugar de preguntarle por celdas predefinidas\"\n→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (22:13)](https://youtu.be/L_zQUykelsA?t=1333)\n\n> \"Para demostrar que existen esas funciones hay que asimilar conductas mentales a redes que las manejan y verificar que son autónomas\"\n→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (11:33)](https://youtu.be/L_zQUykelsA?t=693)\n\nEl criterio de demostración cierra el bucle metodológico: una celda es real solo si las conductas mentales asociadas pueden asimilarse a redes neuronales identificables que operan de forma **autónoma** respecto a las demás. La autonomía funcional es la propiedad refutable — si dos redes putativamente distintas siempre coactivan, la separación celular colapsa.\n\n**Teseo** es la IA propia del canal que actúa como soporte operativo del research program: tiene guardada toda la información de los directos subidos y puede localizar referencias cruzadas — herramienta interna para sostener la trazabilidad del corpus acumulado mientras el marco se construye iterativamente.\n\n> \"Teseo, la IA del canal, tiene guardada toda la información de los directos subidos y puede localizar referencias cruzadas\"\n→ [T5x17 Mitología 101: Babel, el Diluvio y Sodoma (22:13)](https://youtu.be/L_zQUykelsA?t=1333)\n\nLa pieza completa la sección 'Marco teleosemántico': no solo el sustrato neurológico debe ser dedicado y la anticorrelación funcional revelar independencia — el método mismo de descubrimiento debe operar inversamente al sentido común consultivo, extrayendo redes desde la literatura empírica vía IA antes de cotejar con las celdas hipotetizadas. La precaución metodológica protege el research program de validar sus propias celdas por construcción.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [],
+      "citations_added": [
+        {
+          "video_id": "L_zQUykelsA",
+          "timestamp_seconds": 693,
+          "cite_markdown": "[T5x17 Mitología 101: Babel, el Diluvio y Sodoma (11:33)](https://youtu.be/L_zQUykelsA?t=693)"
+        },
+        {
+          "video_id": "L_zQUykelsA",
+          "timestamp_seconds": 876,
+          "cite_markdown": "[T5x17 Mitología 101: Babel, el Diluvio y Sodoma (14:36)](https://youtu.be/L_zQUykelsA?t=876)"
+        },
+        {
+          "video_id": "L_zQUykelsA",
+          "timestamp_seconds": 1333,
+          "cite_markdown": "[T5x17 Mitología 101: Babel, el Diluvio y Sodoma (22:13)](https://youtu.be/L_zQUykelsA?t=1333)"
+        }
+      ],
+      "rationale": "Update pequeño pero metodológicamente importante. La página articulaba el QUÉ (11 celdas, marco teleosemántico, validación por sustrato neurológico, ordenación filogenética) pero no el CÓMO operativo del descubrimiento. T5x17 añade ese flanco: estrategia de extracción IA-asistida bottom-up + Teseo como herramienta interna del canal. Sin esta pieza, la página dejaba implícito un workflow que es justamente el riesgo metodológico del proyecto (validar las celdas hipotetizadas por consulta sesgada a la literatura). Anchor 'insert_before_passage' con '## Lagunas' (línea 170 verificada como única ocurrencia) ubica la sección al final del cuerpo prosa antes de las lagunas declaradas — posición correcta para sección metodológica complementaria.",
+      "editorial_intent": "extend"
+    },
+    {
+      "page_id": "genesis-mitologico",
+      "update_type": "insert_before_passage",
+      "anchor_passage": "## Lagunas",
+      "content_proposed": "\n\n## El Génesis como matriz escatológica civilizatoria\n\nT5x17 (may-2026) en formato Mitología 101 articula una QUINTA modalidad operativa del marco genésico que las cuatro ya documentadas (cosmogónica/Tolkien, disfuncional/Unicorn Wars, femenino-individual/Caperucita, neogénesis/Asimov) no cubren: el Génesis como **matriz escatológica civilizatoria** — recorrido post-paradisaco que articula una secuencia estructurada de rupturas civilizatorias coherentes entre sí.\n\n> \"El diluvio, Babel y Sodoma forman una secuencia coherente de rupturas tras Adán y Eva y Caín y Abel\"\n→ [T5x17 Mitología 101 (33:27)](https://youtu.be/L_zQUykelsA?t=2007)\n\n> \"El Génesis sostiene que la violencia no desaparece con la civilización: crece junto a ella\"\n→ [T5x17 Mitología 101 (33:27)](https://youtu.be/L_zQUykelsA?t=2007)\n\nLa secuencia completa que el canal articula como tetralogía estructurada (Diluvio → Babel → Sodoma → Egipto, precedida por Adán-Eva y Caín-Abel como pre-tetralogía individual e interpersonal), con sus tres lecturas canónicas para el Diluvio (literal/moral/histórico-geológica), la categorización de Sodoma como violencia social y no sexual, y el mapeo del esquema bíblico al espectro político contemporáneo, está desarrollada como pieza autónoma en [[escatologia-genesis-en-proxy]].\n\nLa consecuencia para esta página es que el Génesis bíblico opera en **doble registro**: como categoría cosmogónica (relato de origen del todo — articulada en las secciones anteriores) y como matriz escatológica civilizatoria (relato del recorrido civilizatorio hasta sus colapsos sucesivos — articulada en la página derivada). El Génesis como categoría incluye ambos registros: no solo el inicio sino también la trayectoria postoriginal, donde la 'escatología' opera en el sentido técnico del canal — literatura del fin del mundo, la salvación, el destino y la unión de cielo y tierra — aplicada al recorrido completo del Génesis hasta la salida del paraíso colectivo.\n",
+      "section_target": null,
+      "supersedes_laguna_text": null,
+      "wikilinks_introduced": [
+        "escatologia-genesis-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "L_zQUykelsA",
+          "timestamp_seconds": 2007,
+          "cite_markdown": "[T5x17 Mitología 101 (33:27)](https://youtu.be/L_zQUykelsA?t=2007)"
+        }
+      ],
+      "rationale": "Update pequeño de cross-referencia. La página actual cataloga cuatro modalidades operativas del Génesis (cosmogónico/Tolkien, disfuncional/Unicorn Wars, femenino-individual/Caperucita, neogénesis/Asimov) — todas referidas al GÉNESIS PROPIAMENTE DICHO (el inicio). T5x17 añade un quinto registro: el Génesis bíblico como recorrido escatológico-civilizatorio post-paradisaco (Diluvio + Babel + Sodoma + Egipto). El desarrollo articulado va a página derivada [[escatologia-genesis-en-proxy]] (promovida en este mismo extract); aquí solo se nombra la quinta modalidad y se cross-linkea para mantener la página actual como hub de modalidades operativas del marco genésico sin duplicar el desarrollo. Anchor 'insert_before_passage' con '## Lagunas' (línea 263 verificada como única ocurrencia).",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "sistema de visualización de redes neuronales (detalles operativos)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Detalle operativo sobre el sistema interno del canal para visualizar componentes y contribución de redes neuronales a una función cognitiva. Es herramienta de trabajo del research program, no contenido enciclopédico autónomo. La sustancia metodológica relevante ya queda capturada en el update a tesis-once-celdas-en-proxy (workflow IA + Teseo).",
+      "quote_evidence": "El sistema permite visualizar componentes y contribución de redes neuronales a una función cognitiva,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "tesis-once-celdas-en-proxy"
+    },
+    {
+      "surface_form": "esquema 6+2 alternativo de celdas",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve del esquema como 'imaginario, afectivo, gramatical, procedimental, semántico, episódico, más actividad somática y metarrepresentación'. Esta enumeración corresponde a los 6 ejes basicos (3 noéticos + 3 enactivos) más 2 supplementarios — es ALTERNATIVE COUNT del marco ya documentado en tesis-once-celdas-en-proxy como matriz 3x3=9 + metarrepresentación + inactividad somática = 11. No es schema nuevo sino enumeración de dimensiones primitivas vs combinaciones derivadas. No requiere update separado: la sección 'Las nueve clases representacionales' de la página ya articula los 6 ejes y la sección 'Celdas 10 y 11' las dos supplementarias.",
+      "quote_evidence": "El doctorado consiste en reclasificar las funciones cognitivas en 6+2 celdas (imaginario, afectivo, gramatical, procedimental, semántico, episódico, más actividad somática y metarrepresentación),",
+      "review_priority": "medium",
+      "review_priority_reason": "Si el canal en vídeos futuros estabiliza el conteo 6+2 (8 dimensiones primitivas) frente al conteo 11 (9 combinaciones + 2 supplementarias) como vocabulario preferido, podría ameritar nota aclaratoria en la página tesis-once-celdas-en-proxy sobre la doble forma de enumerar el mismo marco. Por ahora son cuentas equivalentes del mismo aparato.",
+      "enriches_concept": "tesis-once-celdas-en-proxy"
+    },
+    {
+      "surface_form": "conferencia en el seminario de Cuenca (referencia recurrente)",
+      "reason_code": "meta_canal",
+      "reason_detail": "Mención del evento del seminario de Cuenca (ya cubierto en T5x19 que repite la charla por grabación corrupta). Material logístico/meta-canal sin contenido temático autónomo. Las secciones temáticas del seminario están capturadas en updates a realismo-cognitivo y mitologia-propia-impropia desde T5x19.",
+      "quote_evidence": "Conferencia en el seminario de Cuenca sobre mitología, ética y conformación del mundo",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "definición de escatología",
+      "reason_code": "passing_mention",
+      "reason_detail": "Definición técnica del término escatología como 'literatura del fin del mundo, la salvación, el destino y la unión de cielo y tierra'. Pieza definitoria que se integra en el update a genesis-mitologico (sección sobre matriz escatológica civilizatoria) y será desarrollada en la página derivada escatologia-genesis-en-proxy. No merece entrada autónoma — es definición operativa, no tesis del canal.",
+      "quote_evidence": "Definición de escatología como literatura del fin del mundo, la salvación, el destino y la unión de cielo y tierra",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "genesis-mitologico"
+    },
+    {
+      "surface_form": "lectura geológica del Diluvio (Tigris/Éufrates/Nilo 6000 a.C.)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza específica de la lectura histórica del Diluvio: vestigios geológicos de macroinundaciones mesopotámicas hacia el 6000 a.C., civilizaciones que no aprendieron a predecir el tiempo y construir barcos quedaron borradas. Material que pertenece a la página derivada escatologia-genesis-en-proxy como sustento empírico de una de las tres lecturas del Diluvio. No merece entrada autónoma.",
+      "quote_evidence": "Hay vestigios geológicos de macroinundaciones hacia el 6000 a.C.,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "escatologia-genesis-en-proxy"
+    },
+    {
+      "surface_form": "idiomas hegemónicos sucesivos y compartimentación científica como Babel",
+      "reason_code": "passing_mention",
+      "reason_detail": "Corolario contemporáneo de la lectura de Babel: la sucesión de idiomas hegemónicos (latín antiguo Europa, español imperial, inglés post-II GM, chino futuro) + compartimentación de disciplinas científicas como Babel del conocimiento + don de lenguas a los apóstoles como atravesar las barreras de Babel. Material que pertenece a la página derivada como aplicación contemporánea de Babel. No requiere entrada autónoma.",
+      "quote_evidence": "La compartimentación de las disciplinas científicas funciona como una Babel del conocimiento,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "escatologia-genesis-en-proxy"
+    },
+    {
+      "surface_form": "Lot y la mujer convertida en estatua de sal",
+      "reason_code": "passing_mention",
+      "reason_detail": "Pieza del análisis de Sodoma: la estatua de sal como dispositivo psicológico — 'alguien congelado en el pasado, incapaz de disfrutar el sabor de las cosas, eternamente arrepentido'. Material que pertenece a la página derivada escatologia-genesis-en-proxy como interpretación psicológica del relato de Lot. No merece entrada autónoma.",
+      "quote_evidence": "La estatua de sal es alguien congelado en el pasado, incapaz de disfrutar el sabor de las cosas, eternamente arrepentido,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "escatologia-genesis-en-proxy"
+    },
+    {
+      "surface_form": "lluvia de fuego como autoconsumo del pecado",
+      "reason_code": "passing_mention",
+      "reason_detail": "Interpretación del castigo a Sodoma como 'consecuencias intrínsecas del pecado' (no castigo arbitrario divino) — 'napalm divino es la civilización quedándose ardida por su propio exceso'. Material para la página derivada escatologia-genesis-en-proxy como elaboración del mecanismo del castigo en Sodoma. No requiere entrada autónoma.",
+      "quote_evidence": "La lluvia de fuego es un castigo del destino: las consecuencias intrínsecas del pecado,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "escatologia-genesis-en-proxy"
+    },
+    {
+      "surface_form": "reinterpretación de Sodoma como violencia social (no sexual)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Corrección hermenéutica clave: 'la tradición posterior redujo Sodoma a sodomía y cuestiones sexuales, pero el texto bíblico habla de otra cosa — el pecado real era despreciar al extranjero, soberbia, humillación del débil, esclavitud, destrucción de la hospitalidad'. Material crucial para la página derivada como tesis hermenéutica del canal sobre Sodoma. No requiere entrada autónoma — es pieza central del bloque Sodoma que la nueva synthesis articula.",
+      "quote_evidence": "El pecado real era despreciar al extranjero, soberbia, humillación del débil, esclavitud, destrucción de la hospitalidad,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "escatologia-genesis-en-proxy"
+    },
+    {
+      "surface_form": "mapeo político del esquema bíblico (Sodoma=hippies, Babel=totalitarismo izquierda, etc.)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Aplicación contemporánea de la tetralogía al espectro político: Sodoma → hippies, Diluvio → anarcas, Egipto → totalitarismo de derechas, Babel → totalitarismo de izquierdas. Pieza provocativa que se integra en la página derivada escatologia-genesis-en-proxy con caution flag para revisión editorial (la asignación bíblico-política es claim fuerte que merece framing matizado). Conexión natural con [[diagrama-de-proxy]] como aplicación del marco político del canal. No merece entrada autónoma — pertenece a la synthesis derivada.",
+      "quote_evidence": "Egipto sería el totalitarismo de derechas y Babel el totalitarismo de izquierdas,",
+      "review_priority": "high",
+      "review_priority_reason": "Mapeo bíblico-político es claim fuerte y potencialmente controversial. La revisión humana del stub de escatologia-genesis-en-proxy debe decidir si la asignación se mantiene literalmente, se reformula con caveats, o se reserva para sección específica del esquema con contextualización editorial cuidadosa.",
+      "enriches_concept": "escatologia-genesis-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": []
+}

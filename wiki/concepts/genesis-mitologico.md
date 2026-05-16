@@ -260,6 +260,22 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 
 
 
+
+
+## El Génesis como matriz escatológica civilizatoria
+
+T5x17 (may-2026) en formato Mitología 101 articula una QUINTA modalidad operativa del marco genésico que las cuatro ya documentadas (cosmogónica/Tolkien, disfuncional/Unicorn Wars, femenino-individual/Caperucita, neogénesis/Asimov) no cubren: el Génesis como **matriz escatológica civilizatoria** — recorrido post-paradisaco que articula una secuencia estructurada de rupturas civilizatorias coherentes entre sí.
+
+> "El diluvio, Babel y Sodoma forman una secuencia coherente de rupturas tras Adán y Eva y Caín y Abel"
+→ [T5x17 Mitología 101 (33:27)](https://youtu.be/L_zQUykelsA?t=2007)
+
+> "El Génesis sostiene que la violencia no desaparece con la civilización: crece junto a ella"
+→ [T5x17 Mitología 101 (33:27)](https://youtu.be/L_zQUykelsA?t=2007)
+
+La secuencia completa que el canal articula como tetralogía estructurada (Diluvio → Babel → Sodoma → Egipto, precedida por Adán-Eva y Caín-Abel como pre-tetralogía individual e interpersonal), con sus tres lecturas canónicas para el Diluvio (literal/moral/histórico-geológica), la categorización de Sodoma como violencia social y no sexual, y el mapeo del esquema bíblico al espectro político contemporáneo, está desarrollada como pieza autónoma en [[escatologia-genesis-en-proxy]].
+
+La consecuencia para esta página es que el Génesis bíblico opera en **doble registro**: como categoría cosmogónica (relato de origen del todo — articulada en las secciones anteriores) y como matriz escatológica civilizatoria (relato del recorrido civilizatorio hasta sus colapsos sucesivos — articulada en la página derivada). El Génesis como categoría incluye ambos registros: no solo el inicio sino también la trayectoria postoriginal, donde la 'escatología' opera en el sentido técnico del canal — literatura del fin del mundo, la salvación, el destino y la unión de cielo y tierra — aplicada al recorrido completo del Génesis hasta la salida del paraíso colectivo.
+
 ## Lagunas
 
 - **Génesis no occidentales**: el corpus desarrolla casos bíblico, tolkieniano y referencias célticas/cabalísticas; ausentes tratamientos sustantivos de cosmogonías mesopotámicas (Enuma Elish), védicas (Rigveda X.129), egipcias (Heliópolis/Hermópolis) o mesoamericanas (Popol Vuh).
@@ -269,6 +285,9 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 - **Base evolutiva o cognitiva empírica**: el canal afirma el isomorfismo Génesis ↔ síntesis mental como tesis operativa; no desarrolla qué evidencia psicológica o neurocognitiva la sostendría más allá del argumento estructural.
 
 ## Citations
+
+
+
 
 
 
@@ -342,4 +361,7 @@ La equivalencia explícita Recuerdo perdido ≡ Génesis bíblico ≡ Neon Genes
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [16:07](https://youtu.be/O4OkDuc3uPQ?t=967) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642) · [53:52](https://youtu.be/O4OkDuc3uPQ?t=3232) · [1:08:25](https://youtu.be/O4OkDuc3uPQ?t=4105)
 - **Cuento contigo (resub)** — chunks: [26:01](https://youtu.be/6oOGKh2TRHE?t=1561) · [33:07](https://youtu.be/6oOGKh2TRHE?t=1987)
 - **Pecado original y Postmodernidad I** — chunks: [18:19](https://youtu.be/J45h7xet8gg?t=1099)
+- **T5x15 A problemas de IA, remedios humanos** — chunks: [1:33:13](https://youtu.be/hZVL0GXPgSA?t=5593)
+- **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
+- **T5x17 Mitología 101: Babel, el Diluvio y Sodoma.** — chunks: [33:27](https://youtu.be/L_zQUykelsA?t=2007) · [40:31](https://youtu.be/L_zQUykelsA?t=2431)
 

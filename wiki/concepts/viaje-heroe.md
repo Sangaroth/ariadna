@@ -644,6 +644,7 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 
 
 
+
 - **Harry Potter, el síndrome de Wendy y por qué es escoria fántastica** — chunks: [1:30](https://youtu.be/3Jo2T73pOEs?t=90) · [7:33](https://youtu.be/3Jo2T73pOEs?t=453) · [13:44](https://youtu.be/3Jo2T73pOEs?t=824)
 - **Análisis arquetípico de Tarzán** — chunks: [24:54](https://youtu.be/Tviv4PT0dv8?t=1494) · [1:27:52](https://youtu.be/Tviv4PT0dv8?t=5272) · [1:33:25](https://youtu.be/Tviv4PT0dv8?t=5605)
 - **Similitudes entre el Génesis en la Biblia, la mitología y el progresismo.** — chunks: [3:02](https://youtu.be/UZPjezFUrA0?t=182)
@@ -690,4 +691,5 @@ La pieza precisa la última fase campbelliana del monomito (regreso con el elixi
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [44:14](https://youtu.be/zLRhDHyq3gs?t=2654) · [45:45](https://youtu.be/zLRhDHyq3gs?t=2745)
 - **Directo Navidad y Entrevista a Unicornio** — chunks: [43:28](https://youtu.be/PTgRsC-KwSs?t=2608)
 - **En Busca de la Diosa Blanca** — chunks: [2:44](https://youtu.be/llS9fqsNVvY?t=164) · [4:14](https://youtu.be/llS9fqsNVvY?t=254) · [19:24](https://youtu.be/llS9fqsNVvY?t=1164)
+- **T5x14: Conan** — chunks: [25:10](https://youtu.be/mR2X391fQu4?t=1510)
 

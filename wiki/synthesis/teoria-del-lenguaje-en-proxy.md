@@ -380,6 +380,135 @@ La página articulaba la distinción categoría gramatical / categoría represen
 La generalización es operativa: el **arte** funciona como lenguaje no verbal — implementa la función lingüística (compresión + evocación de representaciones) usando código no gramatical. Una pintura, una pieza musical, una arquitectura ritual, comprimen contenido representacional complejo en un significante percibido y lo evocan en el receptor capacitado para decodificarlo. La metáfora opera en la frontera: usa gramática verbal pero ejecuta la función a través del registro poético (ver [[pensamiento-poetico]]) cuando la articulación formal se queda corta para representaciones afectivas. La pieza cierra una asimetría que la página dejaba implícita: la función lingüística no se identifica con el código verbal — el código verbal es solo una de sus implementaciones posibles, y existen culturas que codifican explícitamente representaciones (vía arte, gesto, ritual) que otras culturas no han comprimido en palabra.
 
 
+
+
+## Construcción de un lenguaje ideográfico paleolítico: el experimento del grimorio
+
+T5x20 (may-2026) presenta un experimento práctico que aplica el marco representacionalista de la página a la pregunta genealógico-cognitiva: ¿qué subconjunto del aparato conceptual humano cabe en un idioma con vocabulario mínimo? El speaker propone construir un lenguaje ideográfico con 22-23 símbolos primarios capaz de codificar casi cualquier palabra por composición — pieza que se integrará en el grimorio del canal en su reedición.
+
+> "Propone reducir a 22 (provisionalmente 23) los símbolos necesarios para escribir casi cualquier palabra"
+→ [T5x20 El Lenguaje de los Dioses (20:13)](https://youtu.be/Yc-GC3A-xV0?t=1213)
+
+> "Tiene que ser ideográfico porque con tan pocos símbolos lo fonético es inviable"
+→ [T5x20 El Lenguaje de los Dioses (20:13)](https://youtu.be/Yc-GC3A-xV0?t=1213)
+
+El núcleo simbólico se reaprovecha del repertorio alquímico-elemental (Mercurio para persona, sal para cosa, tierra para lugar, aire para tiempo, fuego para hacer, azufre para sentir, agua para espíritu) más una decena de glifos básicos para conceptos vehiculares (puente/camino, nudo/rueda, ojo/conocer, refugio/cueva, semilla/origen, recipiente, herramienta, marca/huella, sol/luz, luna/noche, V/Dios/infinito, cuadrado/frontera). La gramática emergente: el símbolo dominante se escribe más grande con los complementos al lado, agente o sujeto primero.
+
+### Regla operativa: pensar como en el paleolítico
+
+La restricción metodológica del experimento es lo que carga de contenido teórico el ejercicio. El idioma solo sirve para cosas explicables a gente del paleolítico — cualquier término moderno debe traducirse a **descripción funcional**, no conceptual.
+
+> "El idioma solo sirve para cosas explicables a gente del paleolítico"
+→ [T5x20 El Lenguaje de los Dioses (35:14)](https://youtu.be/Yc-GC3A-xV0?t=2114)
+
+> "Cualquier término moderno debe traducirse a una descripción funcional, no conceptual"
+→ [T5x20 El Lenguaje de los Dioses (35:14)](https://youtu.be/Yc-GC3A-xV0?t=2114)
+
+> "Rechaza propuestas como inteligencia artificial o eutaxia: no caben en un lenguaje arcaico"
+→ [T5x20 El Lenguaje de los Dioses (35:14)](https://youtu.be/Yc-GC3A-xV0?t=2114)
+
+La regla activa la tesis representacionalista de la página en sentido genealógico-cognitivo: los conceptos abstractos modernos no son universales del pensamiento humano sino sedimentaciones culturales relativamente tardías. Lo que el lenguaje paleolítico no puede comprimir no es solo lexicalmente ausente sino representacionalmente inaccesible en sentido directo — el sujeto paleolítico podía representar funciones concretas (defenderse, herir, dejar de ocurrir) pero no la abstracción conceptual que las integra (muerte como categoría, ética como sistema).
+
+### Composición vs lexicalización: la productividad combinatoria en acción
+
+El método del experimento es composicional: cualquier concepto se construye agregando significantes primarios. Ejemplos canónicos articulados por el canal:
+
+- **Roto** = 'menos herramienta' o 'sentir hacer' (necesidad de arreglar)
+- **Tecnología** = 'herramienta espíritu' o 'espíritu herramienta' (el motor invisible de un objeto)
+- **Antorcha** = 'herramienta fuego'
+- **Hoguera/olla con comida** = 'recipiente fuego'
+- **Mujer hembra** = 'persona recipiente vida'; **femenino mistérico** = 'persona luna'
+- **Hombre** = 'persona sol' o, en clave heroica, 'persona herramienta'
+- **Padre** = 'persona sol'; **madre** = 'persona luna'
+- **Enemigo** = 'sentir pared' (necesidad de defenderse); **extranjero** = 'persona frontera' (sin connotación hostil, distinto de enemigo)
+- **Música** = 'sentir espíritu'; **vista** = 'conocer luz'; **oído** = 'conocer aire' — los sentidos se forman con el verbo conocer
+- **Niño** = 'menos persona' (NO 'persona menos tiempo' — demasiado abstracto)
+- **Amor** = 'sentir persona' o 'sentir espíritu persona'; **amigo** = 'conocer persona' (sentir como impulso vs conocer como comprensión)
+- **Miedo** = 'sentir nudo'; **animal** = 'muchas huellas'; **pájaro** = 'animal aire'; **río** = 'camino agua'; **cazar** = 'pensar animal herramienta'; **arma** = 'herramienta persona'; **familia/tribu** = 'muchas personas'
+
+> "Tecnología es 'herramienta espíritu' o 'espíritu herramienta'"
+→ [T5x20 El Lenguaje de los Dioses (36:48)](https://youtu.be/Yc-GC3A-xV0?t=2208)
+
+> "El método consiste en someter a prueba combinaciones, no fijar un diccionario cerrado"
+→ [T5x20 El Lenguaje de los Dioses (33:04)](https://youtu.be/Yc-GC3A-xV0?t=1984)
+
+Las 22 unidades primarias funcionan como gramática mínima cuya combinación genera por composición el equivalente representacional de palabras complejas. La verificación funcional la articula el chat probando combinaciones — el experimento es deliberadamente abierto, no fija diccionario cerrado. La distinción **arma = 'herramienta persona'** (la herramienta que la persona siempre lleva) frente a la noción moderna de arma como instrumento de muerte es ilustrativa: la definición funcional captura el uso primitivo (extensión del cuerpo), no la categorización moral posterior (instrumento bélico).
+
+### Crítica metodológica: traducir palabras, no construcciones
+
+Una pieza-correctivo del experimento que el canal hace explícita: el ejercicio no consiste en generar palabras a partir de combinaciones arbitrarias sino en partir de **conceptos reales** y comprobar si caben en el repertorio composicional.
+
+> "Reprocha al chat estar generando palabras a partir de combinaciones, en vez de partir de conceptos reales"
+→ [T5x20 El Lenguaje de los Dioses (1:18:21)](https://youtu.be/Yc-GC3A-xV0?t=4701)
+
+> "'Cúbreme las espaldas' no es una palabra sino una perífrasis"
+→ [T5x20 El Lenguaje de los Dioses (1:18:21)](https://youtu.be/Yc-GC3A-xV0?t=4701)
+
+La precisión metodológica refuerza la tesis representacionalista: el idioma comprime conceptos, no perífrasis. Una perífrasis ya es composición lingüística en otro idioma; lo que el experimento testea es qué conceptos primitivos sobreviven a la compresión a 22 unidades, no qué frases complejas se pueden re-empaquetar en glifos.
+
+### Lo que NO cabe: muerte, vida, ética, paternidad
+
+El argumento más fuerte del experimento es lo que el lenguaje paleolítico **no admite** sin trampear su régimen funcional. Cuatro categorías paradigmáticas:
+
+**Muerte** — concepto demasiado abstracto. En lo primitivo no es un evento sino un **dejar de ocurrir**. Traducciones aproximadas: 'persona tierra', 'vaciar cueva', 'persona no huella'. El muerto se nombra como 'no persona' o 'persona cosa', evitando palabra propia para muerte.
+
+> "En lo primitivo la muerte no es un evento sino un dejar de ocurrir"
+→ [T5x20 El Lenguaje de los Dioses (1:13:17)](https://youtu.be/Yc-GC3A-xV0?t=4397)
+
+> "El muerto se nombra como 'no persona' o 'persona cosa', evitando una palabra propia para muerte"
+→ [T5x20 El Lenguaje de los Dioses (1:13:17)](https://youtu.be/Yc-GC3A-xV0?t=4397)
+
+**Vida** — tampoco existe como término abstracto. Solo lo concreto cuenta: animales, plantas y alimento son lo que se nombra 'vida' en sentido funcional. 'Persona origen' es embarazada; 'origen persona' es parir.
+
+> "Vida no figura en el alfabeto porque es demasiado abstracta"
+→ [T5x20 El Lenguaje de los Dioses (1:14:56)](https://youtu.be/Yc-GC3A-xV0?t=4496)
+
+> "Solo lo concreto cuenta: animales, plantas y alimento son lo que se nombra 'vida' en sentido funcional"
+→ [T5x20 El Lenguaje de los Dioses (1:14:56)](https://youtu.be/Yc-GC3A-xV0?t=4496)
+
+**Ética y moral** — no caben en este lenguaje. El poder en una tribu primitiva pertenece al más fuerte o al más brujo. Sin fe explícita no hay ética; las disputas se resuelven 'a leches como buenos neandertales'.
+
+> "Los conceptos éticos y morales no caben en este lenguaje"
+→ [T5x20 El Lenguaje de los Dioses (1:25:27)](https://youtu.be/Yc-GC3A-xV0?t=5127)
+
+> "El poder en una tribu primitiva pertenece al más fuerte o al más brujo"
+→ [T5x20 El Lenguaje de los Dioses (1:25:27)](https://youtu.be/Yc-GC3A-xV0?t=5127)
+
+> "Sin fe explícita no hay ética; las disputas se resuelven 'a leches como buenos neandertales'"
+→ [T5x20 El Lenguaje de los Dioses (1:25:27)](https://youtu.be/Yc-GC3A-xV0?t=5127)
+
+**Paternidad** — el canal sostiene que el concepto NO existía en el paleolítico. Muchas culturas solo identificaban a la madre; sin matrimonio explícito no hay legitimidad ni hijo ilegítimo.
+
+> "Sostiene que el concepto de paternidad no existía y muchas culturas solo identificaban a la madre"
+→ [T5x20 El Lenguaje de los Dioses (1:23:21)](https://youtu.be/Yc-GC3A-xV0?t=5001)
+
+> "Rechaza la idea de hijo ilegítimo: sin matrimonio no hay legitimidad"
+→ [T5x20 El Lenguaje de los Dioses (1:23:21)](https://youtu.be/Yc-GC3A-xV0?t=5001)
+
+La tesis estructural cierra el bucle: estas categorías ausentes no son lagunas del experimento — son **construcciones culturales tardías** que requieren la sedimentación histórica de instituciones (la persona ética, el matrimonio jurídico, la categoría 'vida' como universal) que el aparato representacional paleolítico no había generado todavía. La consecuencia para el marco anti-determinista de la página es directa: NO es que el idioma paleolítico bloquee el acceso representacional a esas categorías — es que esas categorías son construcciones culturales que postdatan el aparato representacional primitivo. El idioma comprime lo que ya existe representacionalmente; lo que no existe representacionalmente no tiene compresión que ofrecer. La conexión con [[realismo-cognitivo]] (sección 'Formación del mundo: codeterminación histórica') es directa: el aparato representacional sedimenta históricamente, y los conceptos abstractos modernos son piso superior de esa sedimentación.
+
+### Genealogía de lo divino y femenino-luna por ciclo menstrual
+
+Dos apuntes antropológicos que el ejercicio articula como composiciones canónicas:
+
+**Dios** se construye como 'padre sol' o 'madre sol' — el género del astro depende de cada cultura (el speaker reconoce culturas donde el sol es femenino y la tierra masculina, dando lugar a los cultivos como vida). Toda civilización necesita un signo para lo supremo e incomprensible, pero ese signo se forma por composición de los primarios.
+
+> "Toda civilización necesita un signo para lo supremo e incomprensible"
+→ [T5x20 El Lenguaje de los Dioses (39:31)](https://youtu.be/Yc-GC3A-xV0?t=2371)
+
+> "Dios se compone como 'padre sol' o 'madre sol'"
+→ [T5x20 El Lenguaje de los Dioses (39:31)](https://youtu.be/Yc-GC3A-xV0?t=2371)
+
+La asociación **femenino-luna** se explica naturalísticamente por el ciclo menstrual alineado con el lunar, no por razones fantásticas. La pieza enlaza con [[diosa-blanca]] y [[mito-lunar]] dando un sustrato biológico-temporal a la cristalización arquetípica que esas páginas articulan en clave mitológica.
+
+> "La asociación femenino-luna proviene del ciclo menstrual alineado con el lunar, no de razones fantásticas"
+→ [T5x20 El Lenguaje de los Dioses (1:19:38)](https://youtu.be/Yc-GC3A-xV0?t=4778)
+
+El cierre del bloque cita a [[bueno-gustavo]] y su obra *El animal divino* como apoyo a la idea del **origen animal de lo divino** — los númenes se conseguían 'haciendo tierra', y el bestiario primitivo es la materia bruta de la que emerge la categoría de lo sagrado.
+
+> "Cita a Gustavo Bueno y *El animal divino* como apoyo a la idea del origen animal de lo divino"
+→ [T5x20 El Lenguaje de los Dioses (1:27:41)](https://youtu.be/Yc-GC3A-xV0?t=5261)
+
 ## Lagunas
 
 - **Las cuatro acepciones de lenguaje** articuladas en el vídeo no están desarrolladas en el material disponible — el speaker las enumera explícitamente en el directo pero no hay cita directa en este stub

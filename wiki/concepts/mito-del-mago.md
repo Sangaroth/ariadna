@@ -113,6 +113,72 @@ Esta operación reproduce la estructura alquímica clásica: el mago intenta **c
 
 El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el héroe sale al mundo exterior y enfrenta el umbral de la muerte para renacer transformado, el mago se encierra en su laboratorio e intenta vencer la muerte desde dentro, sin transformarse. El mago no cruza ningún umbral — construye un muro frente a él.
 
+
+
+## La oposición operativa héroe vs mago en Conan el Bárbaro
+
+T5x14 (abr-2026) articula explícitamente la OPOSICIÓN OPERATIVA entre el héroe y el mago a partir del análisis arquetípico de [[conan-el-barbaro-1982-film]]. Donde la sección 'Estructura arquetípica' contrastaba al mago con el viaje del héroe en clave de inversión espacial (el héroe sale al mundo, el mago se encierra), Conan precisa la diferencia en clave **moral-operativa**: ambos manejan poder, pero el héroe lo dirige hacia el AUTODOMINIO mientras el mago lo dirige hacia el DOMINIO DE OTROS por consumo de sus pasiones.
+
+### El báculo del fuego contra la espada del aire
+
+La cartografía elemental que el canal aplica al análisis de Conan asigna a cada figura su vehículo arquetípico. La espada del héroe es **aire** — intelecto, virtud, capacidad de poner orden sin dañar. El báculo del mago es **fuego** — pasión, deseo, capacidad de encender lo emocional en el otro y dirigirlo.
+
+> "El báculo del mago porta fuego mágico: capacidad de encender pasiones"
+→ [T5x14: Conan (1:00:37)](https://youtu.be/mR2X391fQu4?t=3637)
+
+> "El mago no rige el mundo: lo domina para sí, consume a otros por sus pasiones"
+→ [T5x14: Conan (1:00:37)](https://youtu.be/mR2X391fQu4?t=3637)
+
+> "La serpiente devora desde dentro a quien hace trampa con lo arcano"
+→ [T5x14: Conan (1:00:37)](https://youtu.be/mR2X391fQu4?t=3637)
+
+Las dos modalidades operan sobre el mismo dominio (el poder de moldear el mundo) pero con direcciones inversas: el héroe corta-y-ordena, el mago enciende-y-consume. La asimetría operativa cierra el contraste — el mago necesita las pasiones ajenas como combustible; el héroe necesita las pasiones propias como territorio a ordenar.
+
+### 'El poder del acero no es nada, lo que importa es la carne': la doctrina invertida del mago
+
+La articulación canónica del polo mágico en Conan se enuncia como doctrina del mago Thulsa Doom dirigida al héroe capturado:
+
+> "El mago descubre a Conan: 'El poder del acero no es nada, lo que importa es la carne'"
+→ [T5x14: Conan (1:05:09)](https://youtu.be/mR2X391fQu4?t=3909)
+
+> "Con sus ojos azules ordena a una doncella lanzarse al vacío"
+→ [T5x14: Conan (1:05:09)](https://youtu.be/mR2X391fQu4?t=3909)
+
+La doctrina opera rechazando el acero (intelecto, virtud, civilización) y depositando el poder en la carne (deseo, pasión, control de la voluntad ajena). La eficacia es real — la doncella se lanza al vacío por orden del mago — pero el costo es estructural: la operación consume por dentro al que la ejerce. La pieza enlaza con la lectura ya documentada del gólem como recuerdo confabulado: el mago captura formas exteriores (la voluntad de la doncella, los 27 años de Yui) pero no la vida misma.
+
+### Obrar por deseo nos vuelve solo deseo: el mecanismo de autoconsumo
+
+La consecuencia ontológica del polo mágico se articula con precisión cuando el mago se transforma físicamente en serpiente al final del film:
+
+> "El mago se convierte en serpiente: obrar por deseo nos vuelve solo deseo"
+→ [T5x14: Conan (1:08:41)](https://youtu.be/mR2X391fQu4?t=4121)
+
+> "Las doncellas se sumergen en una bola de placeres carnales"
+→ [T5x14: Conan (1:08:41)](https://youtu.be/mR2X391fQu4?t=4121)
+
+El sujeto que opera por deseo se convierte estructuralmente en deseo. El mago transformado en serpiente cifra el destino del que ha hecho del consumo de otros su modo de operar — la imagen ctónica del [[dragon-arquetipo|dragón devorador]] es ahora su forma real, no metáfora. La conexión con la sección 'El golem como producto estructural del mago' añade un flanco: el gólem es lo que el mago PRODUCE (vida artificial bajo control); la serpiente es lo que el mago LLEGA A SER (encarnación de la pasión que ha estado manipulando en otros).
+
+### El autodominio como diferencia entre fuerte y más fuerte
+
+La precisión moral del héroe que distingue su modalidad de la del mago se enuncia como sentencia operativa:
+
+> "El autodominio es la diferencia entre el ser fuerte y el ser más fuerte que los demás"
+→ [T5x14: Conan (1:02:38)](https://youtu.be/mR2X391fQu4?t=3758)
+
+El héroe NO compite por ser más fuerte que los demás — operación que requeriría dominarlos vía la modalidad del mago (consumir su voluntad). El héroe busca ser fuerte EN SÍ — autodominio sobre sus propias pasiones. La pieza articula el polo positivo de la oposición: 'ser fuerte' (heroico) ≠ 'ser más fuerte que los demás' (mágico). El segundo requiere los otros como medida; el primero solo requiere uno mismo.
+
+### El verdadero secreto del acero: continuar el camino
+
+El cierre del bloque mago-vs-héroe en Conan articula la tesis afirmativa del polo heroico — el secreto del acero NO es la técnica civilizatoria que la película presenta como MacGuffin, sino el camino interior del autodominio sostenido:
+
+> "El secreto del acero es seguir intentándolo una y otra vez"
+→ [T5x14: Conan (1:11:43)](https://youtu.be/mR2X391fQu4?t=4303)
+
+> "Es buscar la virtud dentro de uno mismo, no en la espada exterior"
+→ [T5x14: Conan (1:11:43)](https://youtu.be/mR2X391fQu4?t=4303)
+
+La consecuencia editorial cierra la oposición operativa: donde el mago se condena al consumo de otros por dejar de buscar la virtud dentro, el héroe sostiene el camino del acero precisamente porque lo entiende como camino interior — el acero exterior es vehículo de la virtud interior, no la virtud misma. La conexión con [[adgrediere-masculino]] es directa: el adgrediere genuino del varón ('seguir intentándolo una y otra vez') es la modalidad heroica del avance contra resistencia, frente a la modalidad mágica del dominio sobre otros que no requiere avanzar — el mago se queda quieto manipulando, el héroe se mueve trabajándose.
+
 ## Lagunas
 
 - **Otros casos canónicos**: el padre Ikari es el único caso documentado en el material disponible. El canal probablemente aplica el mito del mago a otras figuras (Frankenstein, Pygmalion, alquimistas históricos), pero el corpus no está completamente indexado para este concepto.
@@ -121,6 +187,8 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 - **Resolución no-patológica**: el canal no desarrolla aquí qué sería una elaboración sana del impulso del mago — cómo el duelo genuino difiere de la obsesión alquímica, ni qué figura mítica representaría esa salida.
 
 ## Citations
+
+
 
 
 
@@ -182,4 +250,6 @@ El mito del mago contrasta estructuralmente con el [[viaje-heroe]]: donde el hé
 - **Fantasía Realizada** — chunks: [1:43](https://youtu.be/tt0hNPvCpjw?t=103)
 - **BUT WHY?** — chunks: [10:17](https://youtu.be/4tAWgX7-yXk?t=617)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:16:25](https://youtu.be/xc8e2i_nREE?t=4585)
+- **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
+- **T5x14: Conan** — chunks: [1:00:37](https://youtu.be/mR2X391fQu4?t=3637) · [1:05:09](https://youtu.be/mR2X391fQu4?t=3909) · [1:08:41](https://youtu.be/mR2X391fQu4?t=4121) · [1:10:43](https://youtu.be/mR2X391fQu4?t=4243) · [1:15:18](https://youtu.be/mR2X391fQu4?t=4518)
 
