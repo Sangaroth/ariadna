@@ -200,6 +200,7 @@ Esta duplicidad —Pandora que libera lo que no puede custodiar, Dios maligno qu
 
 
 
+
 - **Mitología 101: Alien y el mito Polar. (NO spoliers de Alien Romulus)** — chunks: [49:05](https://youtu.be/Sszbs7CG0cQ?t=2945) · [51:06](https://youtu.be/Sszbs7CG0cQ?t=3066) · [52:36](https://youtu.be/Sszbs7CG0cQ?t=3156) · [55:37](https://youtu.be/Sszbs7CG0cQ?t=3337) · [57:45](https://youtu.be/Sszbs7CG0cQ?t=3465) · [58:46](https://youtu.be/Sszbs7CG0cQ?t=3526) · [59:46](https://youtu.be/Sszbs7CG0cQ?t=3586) · [1:00:48](https://youtu.be/Sszbs7CG0cQ?t=3648) · [1:02:18](https://youtu.be/Sszbs7CG0cQ?t=3738) · [1:04:19](https://youtu.be/Sszbs7CG0cQ?t=3859) · [1:07:20](https://youtu.be/Sszbs7CG0cQ?t=4040)
 - **Consideraciones sobre Olaf, la conducta motivada, y la trazabilidad del pensamiento** — chunks: [26:32](https://youtu.be/NjtK76xzV18?t=1592) · [29:33](https://youtu.be/NjtK76xzV18?t=1773) · [33:43](https://youtu.be/NjtK76xzV18?t=2023)
 - **Elon Musk, Riverss, Alien y chill** — chunks: [39:40](https://youtu.be/SeXIQBrgaSA?t=2380)
@@ -211,4 +212,5 @@ Esta duplicidad —Pandora que libera lo que no puede custodiar, Dios maligno qu
 - **El mito del Gólem: Transhumanismo** — chunks: [11:03](https://youtu.be/hjc9L2_kkOo?t=663) · [25:29](https://youtu.be/hjc9L2_kkOo?t=1529) · [47:31](https://youtu.be/hjc9L2_kkOo?t=2851) · [1:09:03](https://youtu.be/hjc9L2_kkOo?t=4143)
 - **MItología 101: El Gólem** — chunks: [1:05:29](https://youtu.be/IG3dkNBX9uU?t=3929) · [1:26:19](https://youtu.be/IG3dkNBX9uU?t=5179) · [1:34:29](https://youtu.be/IG3dkNBX9uU?t=5669)
 - **Taxonomía de las criaturas malignas** — chunks: [35:06](https://youtu.be/rG_et1_G7Hs?t=2106) · [39:54](https://youtu.be/rG_et1_G7Hs?t=2394)
+- **Análisis arquetípico de Unicorn wars** — chunks: [20:20](https://youtu.be/fLfEbHPJNmU?t=1220)
 

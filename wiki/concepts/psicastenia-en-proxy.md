@@ -156,6 +156,8 @@ El concepto es carga-viva en [[sindrome-xocas]], donde el canal lo aplica explí
 
 
 
+
+
 - **Psicastenia** — chunks: [22:23](https://youtu.be/ht8B7BPY3AY?t=1343) · [24:56](https://youtu.be/ht8B7BPY3AY?t=1496) · [26:58](https://youtu.be/ht8B7BPY3AY?t=1618) · [39:16](https://youtu.be/ht8B7BPY3AY?t=2356) · [1:43:28](https://youtu.be/ht8B7BPY3AY?t=6208)
 - **Psicoanálisis de la orientación política: Dime a quién votas y te diré quién es tu madre.** — chunks: [21:16](https://youtu.be/-2u3CAw1xCs?t=1276) · [32:27](https://youtu.be/-2u3CAw1xCs?t=1947)
 - **TOC** — chunks: [18:49](https://youtu.be/2zAwfcLnlvU?t=1129) · [25:53](https://youtu.be/2zAwfcLnlvU?t=1553)

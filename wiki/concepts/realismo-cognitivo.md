@@ -1417,6 +1417,10 @@ La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analíti
 
 
 
+
+
+
+
 - **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [3:10](https://youtu.be/sVLpdolZZUE?t=190) · [17:09](https://youtu.be/sVLpdolZZUE?t=1029) · [19:10](https://youtu.be/sVLpdolZZUE?t=1150) · [1:13:48](https://youtu.be/sVLpdolZZUE?t=4428)
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [9:12](https://youtu.be/D3a0A-oZ09M?t=552) · [11:44](https://youtu.be/D3a0A-oZ09M?t=704) · [19:27](https://youtu.be/D3a0A-oZ09M?t=1167) · [1:21:10](https://youtu.be/D3a0A-oZ09M?t=4870) · [2:12:46](https://youtu.be/D3a0A-oZ09M?t=7966) · [2:23:15](https://youtu.be/D3a0A-oZ09M?t=8595) · [2:45:41](https://youtu.be/D3a0A-oZ09M?t=9941)
 - **De realismo cognitivo: Memoria, EMDR, y pensamiento poético.** — chunks: [31:43](https://youtu.be/KNiph0qq93U?t=1903)
@@ -1455,10 +1459,10 @@ La pieza refuerza la sección 'Convergencia disciplinar': la filosofía analíti
 - **T5x12: Estudiando con Proxy: Cómo se fabricó una tesis.** — chunks: [30:22](https://youtu.be/BU6vZJYMVxg?t=1822)
 - **Teoría de la mente y opción política** — chunks: [0:04](https://youtu.be/pgIY-zfcO4I?t=4)
 - **Effy y Proxy contra el mundo** — chunks: [25:25](https://youtu.be/svG7uT3Z8Rk?t=1525)
+- **T5x19: Realismo y mitología.** — chunks: [25:26](https://youtu.be/GDQSqtdFjBs?t=1526) · [37:32](https://youtu.be/GDQSqtdFjBs?t=2252)
+- **T5x16 Psicología 101: Naturaleza a priori.** — chunks: [14:22](https://youtu.be/csNxQbeP3sk?t=862)
 - **¿Qué es un símbolo? (Parte 2: sofisma y 100cia)** — chunks: [55:00](https://youtu.be/eQpPGGqodsU?t=3300) · [1:28:23](https://youtu.be/eQpPGGqodsU?t=5303)
 - **Psicología 101: Valencia y emoción. Álgebra afectiva** — chunks: [17:11](https://youtu.be/BdVsvhTWWew?t=1031)
 - **Psiquiatría, antipsiquiatría y teoría de la mente.** — chunks: [50:25](https://youtu.be/4LBXNkVAUCU?t=3025) · [1:16:54](https://youtu.be/4LBXNkVAUCU?t=4614) · [1:29:48](https://youtu.be/4LBXNkVAUCU?t=5388)
 - **4x02 Sistema limbicocortical. Hipocampo.** — chunks: [13:48](https://youtu.be/gB5NoYbdZWk?t=828)
-- **T5x19: Realismo y mitología.** — chunks: [25:26](https://youtu.be/GDQSqtdFjBs?t=1526) · [37:32](https://youtu.be/GDQSqtdFjBs?t=2252)
-- **T5x16 Psicología 101: Naturaleza a priori.** — chunks: [14:22](https://youtu.be/csNxQbeP3sk?t=862)
 

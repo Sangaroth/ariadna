@@ -228,6 +228,8 @@ La consecuencia editorial cierra la oposición operativa: donde el mago se conde
 
 
 
+
+
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582) · [1:34:59](https://youtu.be/t8v5w3s0USA?t=5699)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **La luna, La Virgen y la Diosa Blanca** — chunks: [43:34](https://youtu.be/C5q89bw1G9E?t=2614)
@@ -248,8 +250,8 @@ La consecuencia editorial cierra la oposición operativa: donde el mago se conde
 - **Ridley Scott, Pandora, Prometeo, El Gólem y el Mito Polar.** — chunks: [12:21](https://youtu.be/O4OkDuc3uPQ?t=741) · [27:22](https://youtu.be/O4OkDuc3uPQ?t=1642)
 - **De Platón A The Matrix** — chunks: [1:04:39](https://youtu.be/zr_ZKX60N54?t=3879)
 - **Fantasía Realizada** — chunks: [1:43](https://youtu.be/tt0hNPvCpjw?t=103)
-- **BUT WHY?** — chunks: [10:17](https://youtu.be/4tAWgX7-yXk?t=617)
-- **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:16:25](https://youtu.be/xc8e2i_nREE?t=4585)
 - **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
 - **T5x14: Conan** — chunks: [1:00:37](https://youtu.be/mR2X391fQu4?t=3637) · [1:05:09](https://youtu.be/mR2X391fQu4?t=3909) · [1:08:41](https://youtu.be/mR2X391fQu4?t=4121) · [1:10:43](https://youtu.be/mR2X391fQu4?t=4243) · [1:15:18](https://youtu.be/mR2X391fQu4?t=4518)
+- **BUT WHY?** — chunks: [10:17](https://youtu.be/4tAWgX7-yXk?t=617)
+- **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:16:25](https://youtu.be/xc8e2i_nREE?t=4585)
 

@@ -9,6 +9,7 @@ aliases:
 - literatura de revelación
 - apocalipsis arquetípico
 - apocalypse
+- Jinetes del Apocalipsis
 domain_primary: humanities.religion
 primary_domains:
 - humanities.religion
@@ -186,6 +187,7 @@ Esta lectura conecta el Apocalipsis con la dinámica de la [[individuation|indiv
 
 
 
+
 - **Directo doble Parte 1: La IA demuestra la semántica no explícita.** — chunks: [1:16:22](https://youtu.be/t8v5w3s0USA?t=4582)
 - **El síndrome de Wendy** — chunks: [35:05](https://youtu.be/L7oSZTTK8Gg?t=2105)
 - **¡Inside Proxy está emitiendo en directo!** — chunks: [24:55](https://youtu.be/wIhH72UFUPY?t=1495) · [47:41](https://youtu.be/wIhH72UFUPY?t=2861) · [51:43](https://youtu.be/wIhH72UFUPY?t=3103)
@@ -200,4 +202,5 @@ Esta lectura conecta el Apocalipsis con la dinámica de la [[individuation|indiv
 - **Taxonomía de las criaturas malignas** — chunks: [9:07](https://youtu.be/rG_et1_G7Hs?t=547)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [20:26](https://youtu.be/s6teBboDDJ4?t=1226)
 - **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
+- **Del origen del mal (III): La fe y los demonios.** — chunks: [1:51:01](https://youtu.be/L4ayDmaUO9Y?t=6661)
 

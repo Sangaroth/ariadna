@@ -1,0 +1,172 @@
+{
+  "version": "0.1.0",
+  "run_id": "run_20260516_132006",
+  "items": [
+    {
+      "from_video": "GDQSqtdFjBs",
+      "from_video_title": "T5x19: Realismo y mitología.",
+      "auto_promoted": false,
+      "thesis": {
+        "thesis_title_proposed": "Formación del mundo: mito, psicología y ética en clave realismo cognitivo",
+        "proposed_page_id": "formacion-del-mundo-en-proxy",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "El tema nuclear es la relación antropológica entre mito, psicología y ética,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Ni constructivismo, ni esencialismo, ni punto medio: codeterminación histórica,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Ética, moral y política son prácticamente lo mismo en el realismo cognitivo,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "La filosofía consiste en conectar términos en coordenadas nuevas,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Codeterminación histórica como tercera vía entre constructivismo y esencialismo",
+          "Sujeto operatorio especialmente operante y operaciones reflexivas sobre emociones",
+          "Ambiguación humano-vs-animal como criterio de naturaleza/cultura",
+          "Naturaleza como continuidad histórico-biológica con función propia",
+          "Mecanismos psíquicos como enactivos orientados a la acción exterior",
+          "Psicología como estudio de operaciones (definición canal)",
+          "Ética como proposiciones explícitas plasmadas en símbolos",
+          "Fuerza y fe como motores reales de relaciones humanas",
+          "Eutaxia como criterio unificador de ética-moral-política",
+          "Trichotomía propio literario / impropio / arquetípico",
+          "Tres capas del mito arquetípico (poética / metafórica / gramatical)",
+          "Taxonomía de 8 mitos arquetípicos primarios",
+          "Arquetipos como base de ética construida eutáxica"
+        ],
+        "minutes_sustained": 50,
+        "domain_guess": "humanities.philosophy",
+        "related_existing_pages": [
+          "realismo-cognitivo",
+          "mitologia-propia-impropia",
+          "bueno-gustavo",
+          "teoria-del-simbolo-en-proxy",
+          "maturana-humberto",
+          "adgrediere-masculino",
+          "diosa-blanca",
+          "viaje-heroe",
+          "mito-polar",
+          "genesis-mitologico",
+          "apocalipsis-mitema",
+          "golem-arquetipo",
+          "mito-del-mago"
+        ],
+        "requires_human_validation": true,
+        "rationale": "El conjunto cumple holgadamente el gate §2.4.1 (minutes_sustained ≈ 50, signal_marks ≥ 4 con thesis_marker + internal_structure + pedagogic_register, framework_internal_structure con 13 piezas articuladas en cuatro bloques A-D). Es además una de las articulaciones unificadoras más limpias del canal — la charla del seminario de Cuenca está diseñada deliberadamente como integración del marco para audiencia académica. NO se auto-promueve aquí por decisión editorial: el material se ha incorporado en este extract como secciones nuevas en las dos páginas hub naturales (realismo-cognitivo recibe el armazón filosófico-epistemológico-ético; mitologia-propia-impropia recibe la trichotomía + 3 capas + taxonomía de arquetipos). Crear página separada produciría duplicación editorial sustancial sin ganar coherencia. La revisión humana debe decidir entre dos arquitecturas: (1) mantener todo en las dos páginas hub (status actual tras este extract — mejor para profundidad temática); (2) escindir una página synthesis 'formacion-del-mundo-en-proxy' que sea índice integrador citando las dos hub con prosa-bisagra propia (mejor para navegabilidad si el canal vuelve a usar esta articulación como marco). Recomendación implícita: opción (1) salvo que vídeos futuros usen explícitamente 'formación del mundo' como frame recurrente, en cuyo caso (2) gana mérito por hacer visible el frame metateórico del canal."
+      }
+    },
+    {
+      "from_video": "WNR-gfv48mg",
+      "from_video_title": "¿Democracia?",
+      "auto_promoted": false,
+      "thesis": {
+        "thesis_title_proposed": "Democracia como mito impropio: imposibilidad estructural y blindaje retórico",
+        "proposed_page_id": "democracia-como-mito-impropio",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "Se introduce el concepto de que esa definición es en realidad un mito,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El pueblo no puede gobernarse a sí mismo porque ni los individuos pueden gobernarse a sí mismos,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Un mito no es solo Hércules o Superman, sino una idea que prescinde de la realidad,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Definición cognitiva del mito impropio: idea que prescinde de la realidad",
+          "Imposibilidad estructural del auto-gobierno: ni individuos ni colectivos pueden gobernarse",
+          "Ficción de la mayoría: decisión de un subconjunto presentada como decisión del todo",
+          "Voto como criterio insuficiente: Corea del Norte y Venezuela también votan",
+          "Tiranía de las mayorías como peaje aceptado del sistema",
+          "Ciudadano sin defensa institucional frente al Estado",
+          "Constitución programática vs constitución aplicable: el contraste España/EE.UU.",
+          "Bloque de constitucionalidad como dependencia institucional oculta",
+          "Tribunal Constitucional como instrumento partidista",
+          "Blindaje retórico del mito impropio: 'ha costado mucho conseguirla' como argumento que prohíbe la crítica"
+        ],
+        "minutes_sustained": 15,
+        "domain_guess": "humanities.philosophy.political",
+        "related_existing_pages": [
+          "mitologia-propia-impropia",
+          "teocracia-agnostica-y-victimologia-institucional",
+          "sofisma-estetico",
+          "diagrama-de-proxy"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Tres señales de autoría detectadas (thesis_marker + internal_structure + pedagogic_register) y framework_internal_structure con ≥4 piezas explícitas. NO cumple gate de auto-promoción §2.4.1 porque minutes_sustained=15 < 30. El candidato queda pendiente de validación humana porque solapa significativamente con [[mitologia-propia-impropia]] (donde la democracia es ya el ejemplo canónico del concepto) — la decisión humana debe ser si el material merece página propia o si basta el pending_update que enriquece mitologia-propia-impropia. Recomendación implícita del extractor: bastaría con el enriquecimiento de mitologia-propia-impropia salvo que vídeos futuros desarrollen aún más la tesis."
+      }
+    },
+    {
+      "from_video": "k619QHupD5k",
+      "from_video_title": "T5x18 Tecnoética",
+      "auto_promoted": false,
+      "thesis": {
+        "thesis_title_proposed": "Tecnoética de la IA: las cuatro líneas rojas y el modelo institucional Dédalus",
+        "proposed_page_id": "tecnoetica-cuatro-lineas-rojas-en-proxy",
+        "synthesis_subtype": "author_thesis",
+        "speaker_authorship_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "Primera línea roja: IA no debe injerir en el inconsciente humano"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Segunda línea roja: prohibición de IA sintética"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Tercera línea roja: prohibición de personas sintéticas"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Cuarta línea roja: prohibición de hibridar la cognición"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La IA debe ser un complemento, nunca un sustituto del trabajo humano,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Espíritu fundacional Dédalus: IA como complemento, nunca sustituto del trabajo humano",
+          "Criterios redundante/estéril del comité de tecnoética y bioética",
+          "Línea roja 1: IA no debe injerir en el inconsciente humano (retenedores, cortafuegos)",
+          "Línea roja 2: prohibición de IA sintética (entrenada con producciones de otra IA)",
+          "Línea roja 3: prohibición de personas sintéticas (sustituyen yo por IA)",
+          "Línea roja 4: prohibición de hibridar la cognición (percepción delicada, conciencia absoluta)",
+          "Yatrogenia de la IA: proceso que agrava neurosis aparentando mejorarla",
+          "Pandora como caso técnico: arquitectura biofeedback IA-modulada con riesgo de semisomnolencia",
+          "Pandora Cero sin wifi/Bluetooth por seguridad de datos de salud",
+          "Mito del Golem como advertencia sobre hibridación de conciencia"
+        ],
+        "minutes_sustained": 50,
+        "domain_guess": "interdisciplinary.cognitive_science",
+        "related_existing_pages": [
+          "cibernetica-biosintetica-y-transhumanismo-en-proxy",
+          "persona-sintetica",
+          "golem-arquetipo",
+          "golem-de-cobre",
+          "adgrediere-masculino",
+          "psiquiatria-y-teoria-de-la-mente",
+          "conciencia-e-inteligencia-en-proxy",
+          "realismo-cognitivo"
+        ],
+        "requires_human_validation": true,
+        "rationale": "Cumple holgadamente las señales (4+ thesis_markers numerados, internal_structure explícita con 10 piezas articuladas, applied_framework como espíritu fundacional, ~50 min sustained) y técnicamente meets el gate §2.4.1 para auto-promoción (minutes_sustained >= 30, signal_marks >= 3, framework_internal_structure >= 4). NO se auto-promueve aquí por decisión editorial: el material se ha incorporado en este extract como sección H del synthesis ya existente cibernetica-biosintetica-y-transhumanismo-en-proxy (auto-promovido previamente y que cubre transhumanismo + Galatea-Ariadna-Pandora + Modelo Dédalo G + tecnoética líneas rojas H como continuum natural del programa). Crear página separada produciría duplicación editorial sustancial. La revisión humana debe decidir entre dos arquitecturas: (1) mantener todo el corpus tecno-ético del canal como subsecciones de cibernetica-biosintetica (más cohesivo, página larga); (2) escindir la tecnoética (Dédalus + líneas rojas + Pandora + yatrogenia) como página independiente con cross-link bidireccional a cibernetica-biosintetica (más navegable, fragmenta el argumento). Recomendación: opción (1) salvo que vídeos futuros desarrollen la tecnoética como marco autónomo aplicable más allá del caso IA (p.ej. bioética genética, ética de neurotecnología no-IA), en cuyo caso (2) gana mérito."
+      }
+    }
+  ]
+}

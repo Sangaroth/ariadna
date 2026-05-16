@@ -158,6 +158,12 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 
 
 
+
+
+
+
+
+
 - **Matrix, Gnosticismo, Cábala y mitología comparada.** — chunks: [8:32](https://youtu.be/Dtp1_RLb7S0?t=512) · [1:08:32](https://youtu.be/Dtp1_RLb7S0?t=4112) · [1:27:57](https://youtu.be/Dtp1_RLb7S0?t=5277) · [1:29:28](https://youtu.be/Dtp1_RLb7S0?t=5368) · [1:41:37](https://youtu.be/Dtp1_RLb7S0?t=6097)
 - **Análisis de Blade Runner 2049: En busca de la Madre Eléctrica.** — chunks: [45:57](https://youtu.be/lOpCXo1pi2M?t=2757)
 - **Del origen del mal (III): La fe y los demonios.** — chunks: [1:48:28](https://youtu.be/L4ayDmaUO9Y?t=6508)
@@ -168,8 +174,8 @@ Esta distinción permite al canal usar la cábala como clave hermenéutica seria
 - **MItología 101: El Gólem** — chunks: [1:34:29](https://youtu.be/IG3dkNBX9uU?t=5669)
 - **¿Qué es la magia?** — chunks: [1:39:20](https://youtu.be/AMXVKxN0Ccw?t=5960)
 - **Lunes basado terminal** — chunks: [14:19](https://youtu.be/oHxXzr5WSbQ?t=859)
-- **Análisis: La Llegada (Parte dos)** — chunks: [1:16:25](https://youtu.be/tOn66qFS2-M?t=4585)
-- **Taxonomía y filosofía del satanismo** — chunks: [25:28](https://youtu.be/4JW8act2SdE?t=1528) · [1:42:06](https://youtu.be/4JW8act2SdE?t=6126)
-- **Matrix y el camino del héroe.** — chunks: [42:08](https://youtu.be/kF5KHE_fF7g?t=2528) · [46:46](https://youtu.be/kF5KHE_fF7g?t=2806) · [1:17:12](https://youtu.be/kF5KHE_fF7g?t=4632) · [1:25:48](https://youtu.be/kF5KHE_fF7g?t=5148)
 - **el Génesis en Tolkien (Parte 1)** — chunks: [41:11](https://youtu.be/s6teBboDDJ4?t=2471)
+- **Análisis: La Llegada (Parte dos)** — chunks: [1:16:25](https://youtu.be/tOn66qFS2-M?t=4585)
+- **Matrix y el camino del héroe.** — chunks: [42:08](https://youtu.be/kF5KHE_fF7g?t=2528) · [46:46](https://youtu.be/kF5KHE_fF7g?t=2806) · [1:17:12](https://youtu.be/kF5KHE_fF7g?t=4632) · [1:25:48](https://youtu.be/kF5KHE_fF7g?t=5148)
+- **Taxonomía y filosofía del satanismo** — chunks: [25:28](https://youtu.be/4JW8act2SdE?t=1528) · [1:42:06](https://youtu.be/4JW8act2SdE?t=6126)
 

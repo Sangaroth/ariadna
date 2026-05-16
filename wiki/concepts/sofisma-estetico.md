@@ -235,6 +235,10 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 
 
 
+
+
+
+
 - **Irrespirables redes sociales.** — chunks: [1:13:27](https://youtu.be/aaLhUV1rdE4?t=4407) · [1:17:59](https://youtu.be/aaLhUV1rdE4?t=4679)
 - **Magia y Poética** — chunks: [26:27](https://youtu.be/9U6CwqPMI3c?t=1587) · [53:00](https://youtu.be/9U6CwqPMI3c?t=3180)
 - **Psicoinfluencers** — chunks: [1:05:11](https://youtu.be/frbMVcThuRw?t=3911)
@@ -249,9 +253,9 @@ En el mismo bloque de directo el canal define woke como "narrativa postmoderna a
 - **¿Qué es un símbolo? (Parte 1: filosofía vs poética)** — chunks: [1:19:14](https://youtu.be/6cSsI85qCp8?t=4754)
 - **Alcachofita y la Astrología** — chunks: [6:06](https://youtu.be/rezLBRh_Tbg?t=366)
 - **Reflexiones de un Lunes Basado. Aquí se dijeron cosas.** — chunks: [1:26:26](https://youtu.be/BOIcK1Rpdvo?t=5186)
-- **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
 - **¿Qué es un símbolo? (Parte 2)** — chunks: [0:35](https://youtu.be/ez2e9NTvljg?t=35)
-- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
-- **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [14:33](https://youtu.be/hqXmKZ77TEQ?t=873)
 - **T5x07: Soto Ivars y el Tabú** — chunks: [23:24](https://youtu.be/wixOLxnd68o?t=1404)
+- **Vacacioff: De la Sartén a Venezuela (parte II)** — chunks: [2:08](https://youtu.be/sTnxDjo1v3o?t=128)
+- **Viernes: Aventuras Ignotas, el CNI y cómo me fui de refrigerios etílicos con Armesilla y Miss España** — chunks: [32:42](https://youtu.be/_S6kQYk9O98?t=1962)
+- **¿Sueña ChatGPT con ovejas eléctricas?** — chunks: [14:33](https://youtu.be/hqXmKZ77TEQ?t=873)
 

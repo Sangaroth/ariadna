@@ -138,6 +138,8 @@ La adyacencia con el [[mito-lunar]] es relevante: la figura redentora (niña-dio
 
 
 
+
+
 - **Arquetipo Cero** — chunks: [1:02:04](https://youtu.be/nern-nhePjE?t=3724) · [1:12:42](https://youtu.be/nern-nhePjE?t=4362)
 - **El Gran Lebowsky y el Tarot Invertido** — chunks: [1:12:54](https://youtu.be/yoWJWwYH_pE?t=4374)
 - **Mitología 101: Héroes y antihéroes.** — chunks: [1:14:46](https://youtu.be/yLd7j3fcR1w?t=4486) · [1:18:18](https://youtu.be/yLd7j3fcR1w?t=4698) · [1:23:50](https://youtu.be/yLd7j3fcR1w?t=5030) · [1:47:08](https://youtu.be/yLd7j3fcR1w?t=6428)

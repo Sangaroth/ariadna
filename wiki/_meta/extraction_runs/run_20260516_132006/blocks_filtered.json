@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "run_id": "run_20260516_132006",
+  "items": [
+    {
+      "from_video": "WNR-gfv48mg",
+      "block": {
+        "block_quote": "Si Pedro Sánchez dice que no se sale a la calle, no se sale (como ya ocurrió),",
+        "matched_pattern": "(?i)\\b(...|s[aá]nchez|...)\\b",
+        "reason": "Regex matched 'Sánchez' pero override per scope.md §3.1: el speaker articula mecanismo estructural (apariencia democrática como dictadura blanda dependiente de voluntad arbitraria del gobernante) y aplica su marco propio de mito impropio. Sánchez es caso ilustrativo, no comentario coyuntural. Pasa el test de la cápsula del tiempo. Logged aquí por transparencia auditable; el bloque SÍ se procesa y queda capturado en el pending_update a mitologia-propia-impropia."
+      }
+    },
+    {
+      "from_video": "WNR-gfv48mg",
+      "block": {
+        "block_quote": "Si decide suspender elecciones invocando a la \"extrema derecha\", podría hacerlo,",
+        "matched_pattern": "(?i)\\b(...|elecciones|...)\\b",
+        "reason": "Regex matched 'elecciones' y 'extrema derecha' como construcciones retóricas del pretexto, no como comentario electoral coyuntural. Per scope.md §3.1, override a IN: el mecanismo (suspensión de derechos invocando amenaza como dispositivo institucional) es estructural. Logged por transparencia; el bloque se procesa."
+      }
+    },
+    {
+      "from_video": "WNR-gfv48mg",
+      "block": {
+        "block_quote": "La ley fundamental termina siendo \"lo que haga Pedro Sánchez\",",
+        "matched_pattern": "(?i)\\b(...|s[aá]nchez|...)\\b",
+        "reason": "Regex matched 'Sánchez' pero override per scope.md §3.1: la pieza articula el mecanismo institucional (TC dependiente de designación partidista). Sánchez es figura nominal del argumento, no objeto de juicio. Logged; bloque procesado."
+      }
+    }
+  ]
+}

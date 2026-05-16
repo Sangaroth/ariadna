@@ -561,6 +561,10 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 
 
 
+
+
+
+
 - **4x04 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:27:18](https://youtu.be/D3a0A-oZ09M?t=8838) · [2:39:14](https://youtu.be/D3a0A-oZ09M?t=9554) · [2:42:09](https://youtu.be/D3a0A-oZ09M?t=9729)
 - **Experimento 25** — chunks: [1:26:27](https://youtu.be/Bn-I6p-AyXc?t=5187)
 - **Experimento 25** — chunks: [31:46](https://youtu.be/p-93qXOPrDk?t=1906) · [1:26:27](https://youtu.be/p-93qXOPrDk?t=5187)
@@ -601,9 +605,9 @@ La pieza precisa el límite operativo de la verdad científica y por qué la fil
 - **Psicología Incel (Luna roja sobre el varón III)** — chunks: [32:37](https://youtu.be/zLRhDHyq3gs?t=1957)
 - **T5x12: Estudiando con Proxy: Cómo se fabricó una tesis.** — chunks: [49:53](https://youtu.be/BU6vZJYMVxg?t=2993)
 - **TOC** — chunks: [1:17:20](https://youtu.be/2zAwfcLnlvU?t=4640)
-- **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
-- **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [19:51](https://youtu.be/GdQY1iOa68w?t=1191) · [20:51](https://youtu.be/GdQY1iOa68w?t=1251) · [1:42:01](https://youtu.be/GdQY1iOa68w?t=6121)
-- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:09:43](https://youtu.be/NKFWUxt5VQ4?t=4183)
 - **¿Democracia?** — chunks: [14:13](https://youtu.be/WNR-gfv48mg?t=853)
 - **T5x20: El Lenguaje de los Dioses** — chunks: [1:27:41](https://youtu.be/Yc-GC3A-xV0?t=5261)
+- **Os cuento cosas. Galatea, Kripke y Gustavo Bueno** — chunks: [19:51](https://youtu.be/GdQY1iOa68w?t=1191) · [20:51](https://youtu.be/GdQY1iOa68w?t=1251) · [1:42:01](https://youtu.be/GdQY1iOa68w?t=6121)
+- **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [1:09:43](https://youtu.be/NKFWUxt5VQ4?t=4183)
+- **4x03 Directo experimental. 8 horas de estudio. Pásate a saludar,** — chunks: [2:38:04](https://youtu.be/sVLpdolZZUE?t=9484) · [2:48:55](https://youtu.be/sVLpdolZZUE?t=10135) · [3:52:27](https://youtu.be/sVLpdolZZUE?t=13947)
 

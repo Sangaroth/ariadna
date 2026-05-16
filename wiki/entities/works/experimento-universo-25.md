@@ -185,6 +185,8 @@ La distinción es operativa: la densidad espacial humana puede ser muy alta sin 
 
 
 
+
+
 - **Experimento 25** — chunks: [8:20](https://youtu.be/Bn-I6p-AyXc?t=500) · [19:37](https://youtu.be/Bn-I6p-AyXc?t=1177) · [24:09](https://youtu.be/Bn-I6p-AyXc?t=1449) · [44:49](https://youtu.be/Bn-I6p-AyXc?t=2689)
 - **Experimento 25** — chunks: [7:50](https://youtu.be/p-93qXOPrDk?t=470) · [42:37](https://youtu.be/p-93qXOPrDk?t=2557)
 - **T5x15 A problemas de IA, remedios humanos** — chunks: [43:31](https://youtu.be/hZVL0GXPgSA?t=2611)

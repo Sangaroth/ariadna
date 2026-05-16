@@ -183,6 +183,12 @@ Este máximo de entrega es también el punto de mayor vulnerabilidad: si la conf
 
 
 
+
+
+
+
+
+
 - **Por fin** — chunks: [53:01](https://youtu.be/7jT13kHNlBA?t=3181)
 - **Psicología 101: Proyecto Galatea, Pantallas y aprendizaje, Porqué tener amigos** — chunks: [1:14:58](https://youtu.be/UOk344kEeRM?t=4498) · [1:19:32](https://youtu.be/UOk344kEeRM?t=4772)
 - **Matrix II y III** — chunks: [3:36](https://youtu.be/tkVwAclFrsI?t=216)

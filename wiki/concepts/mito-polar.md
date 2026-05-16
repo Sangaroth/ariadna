@@ -3,11 +3,12 @@ page_id: mito-polar
 page_type: concept
 canonical_name: Mito polar (cosmogonía masculino-femenino)
 aliases:
-  - mito polar
-  - cosmogonía polar
-  - mitología polar
-  - dipolo arquetípico
-  - matrimonio sagrado cosmogónico
+- mito polar
+- cosmogonía polar
+- mitología polar
+- dipolo arquetípico
+- matrimonio sagrado cosmogónico
+- Cosmogonía mítica
 
 domain:
   - humanities.religion
@@ -293,6 +294,8 @@ La pieza refuerza la articulación de la sección 'Lo masculino y lo femenino: e
 - **Distinción entre mito polar y matriarcado/patriarcado**: el polar implica equilibrio; ¿qué relación tiene con sociedades históricas donde un polo domina al otro? El canal toca el tema en otros vídeos pero no lo articula sistemáticamente con el modelo polar
 
 ## Citations
+
+
 
 
 

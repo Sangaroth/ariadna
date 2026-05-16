@@ -9,6 +9,7 @@ aliases:
 - el síndrome del Xocas
 - xocas (síndrome)
 - personalidad psicasténica obsesiva (caso Xocas)
+- El Xokas
 domain_primary: social.psychology
 primary_domains:
 - social.psychology
@@ -346,4 +347,7 @@ Y reconoce mejoría observable desde que el sujeto entró en proceso terapéutic
 
 
 
+
 - **El Xocas y la Personalidad** — chunks: [0:01](https://youtu.be/i1zxa2uxnPs?t=1) · [3:02](https://youtu.be/i1zxa2uxnPs?t=182) · [5:33](https://youtu.be/i1zxa2uxnPs?t=333) · [7:34](https://youtu.be/i1zxa2uxnPs?t=454) · [14:13](https://youtu.be/i1zxa2uxnPs?t=853) · [15:14](https://youtu.be/i1zxa2uxnPs?t=914) · [20:17](https://youtu.be/i1zxa2uxnPs?t=1217)
+- **Diagrama de Proxy. ¿Por qué somos de izquierdas o de derechas?** — chunks: [46:38](https://youtu.be/wxcSuqipA6s?t=2798)
+
