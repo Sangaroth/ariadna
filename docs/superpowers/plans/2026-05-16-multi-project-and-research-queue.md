@@ -4207,3 +4207,390 @@ Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 ```
 
 ---
+
+## Chunk 7: Tools MCP read nuevas
+
+> Implementa las dos tools read (spec sección 6.2): `list_projects` (conteos derivados en vivo, sin caching) y `list_research_queue` (filtros project/status/source_type/limit). Lógica en `ariadna/mcp_tools_read.py`, paralela al patrón de Chunk 6. Wiring `@mcp.tool` se difiere a Chunk 8.
+>
+> **Pre-condición:** Chunks 2-6 completados. SQLite tiene tabla `projects` poblada y `research_queue` lista para queries.
+
+### Task 7.1: `list_projects` — conteos derivados en vivo
+
+> Conteos `n_pages`, `n_chunks`, `n_queue_pending`. **`n_pages`** desde `SELECT COUNT(*) FROM pages WHERE project_id=?`. **`n_queue_pending`** desde `research_queue` con status='pending'. **`n_chunks`** desde Qdrant (`client.count(filter=project_id=X)`). El acceso a Qdrant se inyecta como callback para tests sin levantar Qdrant.
+
+**Files:**
+- Create: `ariadna/mcp_tools_read.py`
+- Test: `tests/test_list_projects.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_list_projects.py
+"""list_projects_impl: conteos derivados, include_archived filter."""
+import sqlite3
+import subprocess
+from pathlib import Path
+
+import pytest
+
+
+@pytest.fixture
+def db_with_two_projects(tmp_path):
+    db = tmp_path / "ariadna.db"
+    repo_root = Path(__file__).resolve().parent.parent
+    subprocess.run(
+        [str(repo_root / ".venv/bin/python"),
+         str(repo_root / "scripts/init_ariadna_db.py"),
+         "--db", str(db)],
+        check=True, capture_output=True, timeout=30,
+    )
+    conn = sqlite3.connect(str(db))
+    # 1 activo, 1 archivado
+    conn.execute("INSERT INTO projects(project_id, name, description, created_at) "
+                 "VALUES ('proxy', 'Proxy', 'desc', '2026-05-16T00:00:00+00:00')")
+    conn.execute("INSERT INTO projects(project_id, name, created_at, archived_at) "
+                 "VALUES ('old-proj', 'Old', '2025-01-01T00:00:00+00:00', '2026-05-01T00:00:00+00:00')")
+    # 2 pages en proxy, 1 en old-proj
+    for pid, page_id, name in [("proxy", "shadow", "Sombra"),
+                                ("proxy", "anima", "Anima"),
+                                ("old-proj", "x", "X")]:
+        conn.execute(
+            "INSERT INTO pages(project_id, page_id, page_type, canonical_name, "
+            "file_path, body_md, indexed_at) VALUES (?, ?, 'concept', ?, ?, '# x',"
+            "'2026-05-16T00:00:00+00:00')",
+            (pid, page_id, name, f"concepts/{page_id}.md"),
+        )
+    # 3 items pending en proxy, 1 done (no contado), 1 pending en old-proj
+    for rid, project, status in [
+        ("r1", "proxy", "pending"), ("r2", "proxy", "pending"), ("r3", "proxy", "pending"),
+        ("r4", "proxy", "done"),
+        ("r5", "old-proj", "pending"),
+    ]:
+        conn.execute(
+            "INSERT INTO research_queue(request_id, project_id, source_url, "
+            "source_type, status, created_at) VALUES (?, ?, ?, 'web', ?, '2026-05-16T00:00:00+00:00')",
+            (rid, project, f"https://x/{rid}", status),
+        )
+    conn.commit()
+    return conn
+
+
+def _fake_chunk_counter(counts_by_project):
+    """Devuelve una función count_chunks_fn(project_id) → int."""
+    def fn(project_id: str) -> int:
+        return counts_by_project.get(project_id, 0)
+    return fn
+
+
+def test_list_projects_default_excludes_archived(db_with_two_projects):
+    from ariadna.mcp_tools_read import list_projects_impl
+    out = list_projects_impl(
+        db_with_two_projects, include_archived=False,
+        count_chunks_fn=_fake_chunk_counter({"proxy": 6259, "old-proj": 0}),
+    )
+    assert "projects" in out
+    pids = [p["project_id"] for p in out["projects"]]
+    assert pids == ["proxy"]   # old-proj filtrado
+    proxy = out["projects"][0]
+    assert proxy["name"] == "Proxy"
+    assert proxy["description"] == "desc"
+    assert proxy["n_pages"] == 2
+    assert proxy["n_chunks"] == 6259
+    assert proxy["n_queue_pending"] == 3
+    assert proxy["archived_at"] is None
+
+
+def test_list_projects_include_archived(db_with_two_projects):
+    from ariadna.mcp_tools_read import list_projects_impl
+    out = list_projects_impl(
+        db_with_two_projects, include_archived=True,
+        count_chunks_fn=_fake_chunk_counter({"proxy": 6259, "old-proj": 100}),
+    )
+    pids = sorted(p["project_id"] for p in out["projects"])
+    assert pids == ["old-proj", "proxy"]
+    old = next(p for p in out["projects"] if p["project_id"] == "old-proj")
+    assert old["archived_at"] is not None
+    assert old["n_pages"] == 1
+    assert old["n_chunks"] == 100
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_list_projects.py -v
+# Expected: ModuleNotFoundError ariadna.mcp_tools_read
+```
+
+- [ ] **Step 3: Implement `ariadna/mcp_tools_read.py`**
+
+```python
+"""Tools MCP read: list_projects, list_research_queue.
+
+Funciones *_impl que reciben conexión SQLite + callbacks inyectables (e.g.
+contador de chunks Qdrant). El wiring `@mcp.tool` vive en mcp_server.py (Chunk 8).
+"""
+from __future__ import annotations
+
+import sqlite3
+from typing import Any, Callable
+
+
+def list_projects_impl(
+    conn: sqlite3.Connection,
+    include_archived: bool = False,
+    count_chunks_fn: Callable[[str], int] | None = None,
+) -> dict[str, Any]:
+    """Lista proyectos con conteos derivados en vivo.
+
+    `count_chunks_fn(project_id) -> int` es inyectado por el caller (mcp_server.py
+    pasa un wrapper sobre QdrantClient.count). En tests puedes pasar una lambda
+    o un fake.
+    """
+    if count_chunks_fn is None:
+        count_chunks_fn = lambda pid: 0  # noqa: E731 — fallback explícito
+
+    where = "" if include_archived else "WHERE archived_at IS NULL"
+    rows = conn.execute(
+        f"SELECT project_id, name, description, created_at, archived_at "
+        f"FROM projects {where} ORDER BY created_at ASC"
+    ).fetchall()
+
+    projects: list[dict[str, Any]] = []
+    for pid, name, description, created_at, archived_at in rows:
+        n_pages = conn.execute(
+            "SELECT COUNT(*) FROM pages WHERE project_id=?", (pid,)
+        ).fetchone()[0]
+        n_queue_pending = conn.execute(
+            "SELECT COUNT(*) FROM research_queue WHERE project_id=? AND status='pending'",
+            (pid,),
+        ).fetchone()[0]
+        n_chunks = count_chunks_fn(pid)
+        projects.append({
+            "project_id": pid,
+            "name": name,
+            "description": description,
+            "created_at": created_at,
+            "archived_at": archived_at,
+            "n_pages": n_pages,
+            "n_chunks": n_chunks,
+            "n_queue_pending": n_queue_pending,
+        })
+
+    return {"projects": projects, "include_archived": include_archived}
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_list_projects.py -v
+# Expected: 2 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_tools_read.py tests/test_list_projects.py
+git commit -m "feat(mcp): list_projects_impl con conteos derivados en vivo
+
+n_pages/n_queue_pending desde SQLite; n_chunks vía callback inyectable
+(mcp_server.py wrapperá QdrantClient.count en Chunk 8). include_archived
+filtra projects.archived_at IS NULL por default. Sin caching: conteos
+on-demand (queries baratas, archivos pequeños).
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+### Task 7.2: `list_research_queue` — filtros + límite
+
+> Filtros opcionales: `project`, `status` (acepta 'all' para no filtrar), `source_type`. `limit` controla el page. Devuelve además `total_matching` (conteo sin límite) y `filters_applied`.
+
+**Files:**
+- Modify: `ariadna/mcp_tools_read.py` (añadir `list_research_queue_impl`)
+- Test: `tests/test_list_research_queue.py`
+
+- [ ] **Step 1: Write the failing test**
+
+```python
+# tests/test_list_research_queue.py
+"""list_research_queue_impl: filtros project/status/source_type + limit."""
+import sqlite3
+import subprocess
+from pathlib import Path
+
+import pytest
+
+
+@pytest.fixture
+def db_with_queue(tmp_path):
+    db = tmp_path / "ariadna.db"
+    repo_root = Path(__file__).resolve().parent.parent
+    subprocess.run(
+        [str(repo_root / ".venv/bin/python"),
+         str(repo_root / "scripts/init_ariadna_db.py"),
+         "--db", str(db)],
+        check=True, capture_output=True, timeout=30,
+    )
+    conn = sqlite3.connect(str(db))
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('proxy', 'Proxy', '2026-05-16T00:00:00+00:00')")
+    conn.execute("INSERT INTO projects(project_id, name, created_at) "
+                 "VALUES ('tesis', 'Tesis', '2026-05-16T00:00:00+00:00')")
+    items = [
+        ("r1", "proxy", "https://yt/a", "youtube",  "pending"),
+        ("r2", "proxy", "https://yt/b", "youtube",  "pending"),
+        ("r3", "proxy", "https://x.com/p1.pdf", "pdf", "pending"),
+        ("r4", "proxy", "https://yt/c", "youtube",  "done"),
+        ("r5", "tesis", "https://arxiv/p", "paper", "pending"),
+        ("r6", "tesis", "https://arxiv/q", "paper", "cancelled"),
+    ]
+    for rid, project, url, stype, status in items:
+        conn.execute(
+            "INSERT INTO research_queue(request_id, project_id, source_url, "
+            "source_type, status, created_at) VALUES (?, ?, ?, ?, ?, '2026-05-16T00:00:00+00:00')",
+            (rid, project, url, stype, status),
+        )
+    conn.commit()
+    return conn
+
+
+def test_list_queue_filter_project_and_status(db_with_queue):
+    from ariadna.mcp_tools_read import list_research_queue_impl
+    out = list_research_queue_impl(db_with_queue, project="proxy", status="pending")
+    rids = sorted(item["request_id"] for item in out["items"])
+    assert rids == ["r1", "r2", "r3"]
+    assert out["total_matching"] == 3
+    assert out["filters_applied"] == {"project": "proxy", "status": "pending",
+                                       "source_type": None, "limit": 50}
+
+
+def test_list_queue_filter_source_type(db_with_queue):
+    from ariadna.mcp_tools_read import list_research_queue_impl
+    out = list_research_queue_impl(db_with_queue, project="proxy",
+                                    status="pending", source_type="youtube")
+    rids = sorted(item["request_id"] for item in out["items"])
+    assert rids == ["r1", "r2"]
+    assert out["total_matching"] == 2
+
+
+def test_list_queue_status_all_cross_all_projects(db_with_queue):
+    from ariadna.mcp_tools_read import list_research_queue_impl
+    out = list_research_queue_impl(db_with_queue, project=None, status="all")
+    assert out["total_matching"] == 6
+    assert len(out["items"]) == 6
+
+
+def test_list_queue_invalid_status_returns_error(db_with_queue):
+    from ariadna.mcp_tools_read import list_research_queue_impl
+    out = list_research_queue_impl(db_with_queue, status="weird")
+    assert out["code"] == "INVALID_STATUS"
+
+
+def test_list_queue_invalid_source_type_returns_error(db_with_queue):
+    from ariadna.mcp_tools_read import list_research_queue_impl
+    out = list_research_queue_impl(db_with_queue, source_type="exotic")
+    assert out["code"] == "INVALID_SOURCE_TYPE"
+
+
+def test_list_queue_limit_caps_items_but_not_total(db_with_queue):
+    from ariadna.mcp_tools_read import list_research_queue_impl
+    out = list_research_queue_impl(db_with_queue, status="all", limit=2)
+    assert len(out["items"]) == 2
+    assert out["total_matching"] == 6  # sin truncar
+```
+
+- [ ] **Step 2: Run test to verify it fails**
+
+```bash
+.venv/bin/python -m pytest tests/test_list_research_queue.py -v
+# Expected: AttributeError list_research_queue_impl
+```
+
+- [ ] **Step 3: Implement `list_research_queue_impl`**
+
+```python
+VALID_STATUSES_FOR_QUERY = {"pending", "processing", "done", "failed", "cancelled", "all"}
+VALID_SOURCE_TYPES_FOR_QUERY = {"youtube", "paper", "web", "pdf", "unknown"}
+
+QUEUE_COLUMNS = [
+    "request_id", "project_id", "source_url", "source_type", "status",
+    "priority", "created_at", "picked_up_at", "completed_at",
+    "assigned_worker", "retry_count", "error_msg", "notes",
+]
+
+
+def list_research_queue_impl(
+    conn: sqlite3.Connection,
+    project: str | None = None,
+    status: str = "pending",
+    source_type: str | None = None,
+    limit: int = 50,
+) -> dict[str, Any]:
+    if status not in VALID_STATUSES_FOR_QUERY:
+        return {
+            "error": f"status {status!r} not in {sorted(VALID_STATUSES_FOR_QUERY)}",
+            "code": "INVALID_STATUS",
+        }
+    if source_type is not None and source_type not in VALID_SOURCE_TYPES_FOR_QUERY:
+        return {
+            "error": f"source_type {source_type!r} not in {sorted(VALID_SOURCE_TYPES_FOR_QUERY)}",
+            "code": "INVALID_SOURCE_TYPE",
+        }
+    if limit <= 0:
+        return {"error": "limit must be positive", "code": "INVALID_LIMIT"}
+
+    clauses: list[str] = []
+    params: list[Any] = []
+    if project is not None:
+        clauses.append("project_id = ?")
+        params.append(project)
+    if status != "all":
+        clauses.append("status = ?")
+        params.append(status)
+    if source_type is not None:
+        clauses.append("source_type = ?")
+        params.append(source_type)
+    where = (" WHERE " + " AND ".join(clauses)) if clauses else ""
+
+    # total_matching ANTES de aplicar limit
+    total = conn.execute(
+        f"SELECT COUNT(*) FROM research_queue{where}", params
+    ).fetchone()[0]
+
+    rows = conn.execute(
+        f"SELECT {', '.join(QUEUE_COLUMNS)} FROM research_queue{where} "
+        f"ORDER BY priority DESC, created_at ASC LIMIT ?",
+        params + [limit],
+    ).fetchall()
+    items = [dict(zip(QUEUE_COLUMNS, row)) for row in rows]
+
+    return {
+        "items": items,
+        "total_matching": total,
+        "filters_applied": {
+            "project": project, "status": status,
+            "source_type": source_type, "limit": limit,
+        },
+    }
+```
+
+- [ ] **Step 4: Run test to verify it passes**
+
+```bash
+.venv/bin/python -m pytest tests/test_list_research_queue.py -v
+# Expected: 6 passed
+```
+
+- [ ] **Step 5: Commit**
+
+```bash
+git add ariadna/mcp_tools_read.py tests/test_list_research_queue.py
+git commit -m "feat(mcp): list_research_queue_impl con filtros + limit
+
+project/status/source_type opcionales. status='all' devuelve cualquier
+estado. total_matching pre-limit + filters_applied en respuesta para que
+el agente sepa el efecto de su llamada. Order priority DESC, created_at ASC.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
+```
+
+---
