@@ -150,13 +150,21 @@ class JudgeDecision:
     # hit sin tener que reinvocar al LLM.
     alias_candidate: Optional[str] = None
     alias_exists: bool = False
+    # Tracking de aplicación: si applied_at está set, la entry ya fue
+    # consumida en un --apply previo y NO debe re-procesarse. La idempotencia
+    # NO se basa en estado del wiki (que puede haber cambiado por edición
+    # humana) sino en este flag. Reset = borrar cache → todas vuelven a None.
+    applied_at: Optional[str] = None
+    apply_outcome: Optional[str] = None
 
     def to_dict(self) -> dict:
         return asdict(self)
 
     @classmethod
     def from_dict(cls, d: dict) -> "JudgeDecision":
-        return cls(**d)
+        # Filtrar keys desconocidos para tolerar evolución del schema
+        known = {f for f in cls.__dataclass_fields__}
+        return cls(**{k: v for k, v in d.items() if k in known})
 
 
 def _collect_eligible_discarded(extraction_runs: Path = EXTRACTION_RUNS) -> list[DiscardedEntry]:
@@ -552,7 +560,10 @@ def run_semantic_recovery(
     cache_hits = 0
     llm_calls = 0
     skipped_low_cosine = 0
-    decisions: list[tuple[DiscardedEntry, JudgeDecision]] = []
+    skipped_already_applied = 0
+    # decisions guarda (d, dec, cache_key) — cache_key permite escribir el
+    # applied_at de vuelta al cache después de cada apply intent.
+    decisions: list[tuple[DiscardedEntry, JudgeDecision, str]] = []
 
     for i, d in enumerate(discarded):
         candidate_idx = top_idx[i].tolist()
@@ -567,8 +578,15 @@ def run_semantic_recovery(
         cache_key = f"{d.cache_key}:{candidates_sig}"
 
         if cache_key in cache:
+            cached = JudgeDecision.from_dict(cache[cache_key])
+            # Si ya fue procesada en apply previo, no la incluimos en decisions
+            # → no se intenta re-apply. La idempotencia vive en este flag,
+            # no en estado del wiki.
+            if cached.applied_at is not None:
+                skipped_already_applied += 1
+                continue
             cache_hits += 1
-            decisions.append((d, JudgeDecision.from_dict(cache[cache_key])))
+            decisions.append((d, cached, cache_key))
             continue
 
         candidates = [
@@ -583,7 +601,7 @@ def run_semantic_recovery(
         decision = _llm_judge(d, candidates)
         cache[cache_key] = decision.to_dict()
         llm_calls += 1
-        decisions.append((d, decision))
+        decisions.append((d, decision, cache_key))
 
         if llm_calls % 10 == 0:
             _save_cache(cache)
@@ -591,12 +609,12 @@ def run_semantic_recovery(
 
     _save_cache(cache)
 
-    matches_high = [(d, dec) for d, dec in decisions if dec.match_page_id and dec.confidence == "high"]
-    matches_medium = [(d, dec) for d, dec in decisions if dec.match_page_id and dec.confidence == "medium"]
-    matches_low = [(d, dec) for d, dec in decisions if dec.match_page_id and dec.confidence == "low"]
-    no_matches = [(d, dec) for d, dec in decisions if not dec.match_page_id]
+    matches_high = [(d, dec, k) for d, dec, k in decisions if dec.match_page_id and dec.confidence == "high"]
+    matches_medium = [(d, dec, k) for d, dec, k in decisions if dec.match_page_id and dec.confidence == "medium"]
+    matches_low = [(d, dec, k) for d, dec, k in decisions if dec.match_page_id and dec.confidence == "low"]
+    no_matches = [(d, dec, k) for d, dec, k in decisions if not dec.match_page_id]
 
-    print(f"\n  Total decisions: {len(decisions)} (cache={cache_hits}, llm={llm_calls}, skipped_low_cosine={skipped_low_cosine})", file=sys.stderr)
+    print(f"\n  Total decisions: {len(decisions)} (cache={cache_hits}, llm={llm_calls}, skipped_low_cosine={skipped_low_cosine}, skipped_already_applied={skipped_already_applied})", file=sys.stderr)
     print(f"  matches high:    {len(matches_high)}", file=sys.stderr)
     print(f"  matches medium:  {len(matches_medium)}", file=sys.stderr)
     print(f"  matches low:     {len(matches_low)}", file=sys.stderr)
@@ -619,7 +637,7 @@ def run_semantic_recovery(
 
     # Audit report sample (top matches high con rationale, para revisión humana)
     print("\n  Sample matches high (top 5):", file=sys.stderr)
-    for d, dec in matches_high[:5]:
+    for d, dec, _ in matches_high[:5]:
         print(f"    [{dec.confidence}] {d.surface_form!r} → {dec.match_page_id}", file=sys.stderr)
         print(f"      rationale: {dec.rationale[:120]}", file=sys.stderr)
 
@@ -630,15 +648,19 @@ def run_semantic_recovery(
     print(f"\n  Aplicando {len(matches_high)} matches high...", file=sys.stderr)
     video_paths = _resolve_video_paths(corpus_root)
 
-    # Agrupar matches por page_id
+    # Agrupar matches por page_id. Mantenemos (dec, cache_key) por finding
+    # para poder marcar applied_at en el cache tras el apply intent.
     by_page: dict[str, list[dict]] = defaultdict(list)
+    decisions_to_mark: list[tuple[JudgeDecision, str, str]] = []  # (dec, cache_key, outcome_hint)
     alias_candidates_by_page: dict[str, set[str]] = defaultdict(set)
-    for d, dec in matches_high:
+    for d, dec, cache_key in matches_high:
         pid = dec.match_page_id
         if pid not in page_lexicon:
+            decisions_to_mark.append((dec, cache_key, "page_missing"))
             continue
         v = video_paths.get(d.video_id)
         if v is None:
+            decisions_to_mark.append((dec, cache_key, "video_missing"))
             continue
         finding = {
             "video_id": d.video_id,
@@ -648,20 +670,19 @@ def run_semantic_recovery(
             "quote_evidence": d.quote_evidence,
         }
         by_page[pid].append(finding)
-        # Recolectar alias_candidate sólo si:
-        #   - LLM lo extrajo (no null)
-        #   - LLM dice que no existe ya en la page
-        #   - pasa validación numérica (longitud/palabras)
-        #   - aparece literalmente como word-match en el surface_form
-        #     (anti-hallucination — el corpus es la fuente)
+        # Recolectar alias_candidate sólo si pasa validación + word-match
+        alias_to_add = None
         if dec.alias_candidate and not dec.alias_exists:
             if (
                 _is_concept_like(dec.alias_candidate)
                 and _alias_in_surface_form(dec.alias_candidate, d.surface_form)
             ):
                 alias_candidates_by_page[pid].add(dec.alias_candidate)
+                alias_to_add = dec.alias_candidate
             else:
                 stats["aliases_skipped_non_concept"] += 1
+        outcome = "applied_citation" + ("+alias" if alias_to_add else "")
+        decisions_to_mark.append((dec, cache_key, outcome))
 
     for pid, findings in by_page.items():
         page_info = page_lexicon[pid]
@@ -674,7 +695,17 @@ def run_semantic_recovery(
             if _add_alias_to_page(page_info["path"], alias):
                 stats["aliases_added"] += 1
 
+    # Marca applied_at en cache para todas las matches_high consumidas.
+    # Próximos runs detectan applied_at set y skipean (skipped_already_applied).
+    now_iso = datetime.now(timezone.utc).isoformat()
+    for dec, cache_key, outcome in decisions_to_mark:
+        dec.applied_at = now_iso
+        dec.apply_outcome = outcome
+        cache[cache_key] = dec.to_dict()
+    _save_cache(cache)
+
     print(f"  citations added:               {stats['citations_added']}", file=sys.stderr)
     print(f"  aliases added:                 {stats['aliases_added']}", file=sys.stderr)
     print(f"  aliases skipped (validation):  {stats['aliases_skipped_non_concept']}", file=sys.stderr)
+    print(f"  marked applied_at:             {len(decisions_to_mark)} matches high", file=sys.stderr)
     return stats
