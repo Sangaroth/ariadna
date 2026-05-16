@@ -29,7 +29,11 @@ class DenseEmbedder:
     ) -> None:
         log.info("Cargando modelo de embeddings %s en %s...", model_name, device)
         self.model = SentenceTransformer(model_name, device=device)
-        self.dim = self.model.get_sentence_embedding_dimension() or EMBED_DIM
+        # sentence-transformers renombró el método; usamos el nuevo si existe.
+        get_dim = getattr(
+            self.model, "get_embedding_dimension", None
+        ) or self.model.get_sentence_embedding_dimension
+        self.dim = get_dim() or EMBED_DIM
         log.info("Modelo cargado. Dimension: %d", self.dim)
 
     def embed(

@@ -36,6 +36,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 import subprocess
 import sys
@@ -44,6 +45,11 @@ from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
+
+# Silenciar progress bars de HuggingFace/sentence-transformers cuando se
+# ejecuta en modo no interactivo (log a fichero).
+os.environ.setdefault("HF_HUB_DISABLE_PROGRESS_BARS", "1")
+os.environ.setdefault("TRANSFORMERS_NO_ADVISORY_WARNINGS", "1")
 
 import numpy as np
 
@@ -203,7 +209,7 @@ def _embed_strings(strings: list[str]) -> np.ndarray:
     Devuelve (N, D)."""
     from ariadna.embeddings import DenseEmbedder
     embedder = DenseEmbedder()
-    return embedder.embed(strings, batch_size=64)
+    return embedder.embed(strings, batch_size=64, show_progress=False)
 
 
 def _compute_top_k(
