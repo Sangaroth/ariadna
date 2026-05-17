@@ -170,9 +170,30 @@ Usuario en Mattermost pregunta: _"¿Cómo conecta la alostasis con el wokismo?"_
         la alostasis... La activación permanente degenera en hiperreactividad
         moral... → [Wokismo para Wokes (1:25:25)](https://youtu.be/...)"
 
-Total: ~26K tokens input, ~$0.10 con gpt-5.4 (o ~$0.01 con mini).
 Trace completo de tool calls visible en el panel del plugin AI.
 ```
+
+**Coste medido (gpt-5.4-mini, mayo 2026 — $0.75/M input + $4.50/M output):**
+
+```
+~50-80K tokens input acumulado (suma de turns con reasoning intermedio)
+~1-2K tokens output (respuesta + tool_call args)
+~10-15K tokens reasoning interno (chain-of-thought del modelo)
+
+→ Coste real medido: $0.12 / query con 4 tool calls
+→ Coste real medido: $0.13 / query con 3 search + 1 get_wiki_page
+```
+
+Proyecciones realistas:
+- gpt-5.4-mini @ 100 queries/día: ~$4,400/año
+- gpt-5.4 flagship @ 100 queries/día: ~$15,000/año (5x más caro)
+- gpt-5.5 @ 100 queries/día: ~$45,000/año
+
+**Optimizaciones todavía viables** (no implementadas):
+- Reducir `top_k` default 5→3 (-20%)
+- Activar `cached_input` de OpenAI ($0.075/M para tokens repetidos): -15-20%
+- Comprimir system prompt del bot Mattermost (-10%)
+- Combinadas: realista bajar a ~$0.06/query.
 
 El `body_snippet` permite al LLM filtrar entre N páginas devueltas antes de invocar `get_wiki_page` solo en las 1-3 que realmente necesita profundizar. Para queries cross-conceptuales eso reduce ~95% de tokens vs servir bodies completos en `search_corpus`.
 
