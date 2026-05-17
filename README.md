@@ -175,25 +175,23 @@ Trace completo de tool calls visible en el panel del plugin AI.
 
 **Coste medido (gpt-5.4-mini, mayo 2026 — $0.75/M input + $4.50/M output):**
 
-```
-~50-80K tokens input acumulado (suma de turns con reasoning intermedio)
-~1-2K tokens output (respuesta + tool_call args)
-~10-15K tokens reasoning interno (chain-of-thought del modelo)
+| Config Mattermost AI plugin | Coste/query | Anual @ 100q/d |
+|---|---|---|
+| Reasoning Medium + Native Web Search ON | $0.12 | $4,400 |
+| **Reasoning Low + Web Search OFF (recomendado)** | **$0.01** | **$365** |
 
-→ Coste real medido: $0.12 / query con 4 tool calls
-→ Coste real medido: $0.13 / query con 3 search + 1 get_wiki_page
-```
+La diferencia es 12x. El reasoning Medium del modelo añade ~10-15K chain-of-thought tokens internos por query (cobrados como output a $4.50/M); bajándolo a Low se reducen a ~1-3K sin pérdida apreciable de calidad para tareas de RAG + síntesis con citas. Web Search nativa OFF además garantiza honestidad epistémica (el bot solo razona desde el corpus, no improvisa con datos externos).
 
-Proyecciones realistas:
-- gpt-5.4-mini @ 100 queries/día: ~$4,400/año
-- gpt-5.4 flagship @ 100 queries/día: ~$15,000/año (5x más caro)
-- gpt-5.5 @ 100 queries/día: ~$45,000/año
+Proyecciones realistas con config optimizada:
+- gpt-5.4-mini: ~$365/año @ 100q/d → **$30/mes para uso intensivo**
+- gpt-5.4 flagship: ~$1,500/año (~4x más caro, raro que aporte valor extra)
+- gpt-5.5: ~$4,500/año (overkill para RAG sobre corpus saneado)
 
-**Optimizaciones todavía viables** (no implementadas):
-- Reducir `top_k` default 5→3 (-20%)
-- Activar `cached_input` de OpenAI ($0.075/M para tokens repetidos): -15-20%
-- Comprimir system prompt del bot Mattermost (-10%)
-- Combinadas: realista bajar a ~$0.06/query.
+**Settings recomendados** en Mattermost AI plugin → Agents → tu bot:
+- Native OpenAI Tools → Web Search: **off**
+- Reasoning: **Low** (o Minimal si el bot tiene queries simples)
+- Input token limit: 150000 (safety cap, no real limit)
+- Streaming timeout: 120s
 
 El `body_snippet` permite al LLM filtrar entre N páginas devueltas antes de invocar `get_wiki_page` solo en las 1-3 que realmente necesita profundizar. Para queries cross-conceptuales eso reduce ~95% de tokens vs servir bodies completos en `search_corpus`.
 
