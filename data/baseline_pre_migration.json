@@ -1,0 +1,188 @@
+{
+  "captured_at": "2026-05-30T11:20:02.535534+00:00",
+  "captured_via": "mcp_http",
+  "source_url": "http://127.0.0.1:8080/mcp",
+  "total_chunks_qdrant": null,
+  "total_wiki_pages_qdrant": null,
+  "queries": [
+    {
+      "query": "sombra junguiana",
+      "raw_chunk_ids": [
+        "https://youtu.be/ClnayaScAjQ",
+        "https://youtu.be/L4zXftKhU6M?t=6369",
+        "https://youtu.be/L7oSZTTK8Gg?t=3973",
+        "https://youtu.be/JmCqIk6NDsM?t=4718",
+        "https://youtu.be/IytpR6sGWXg?t=1172"
+      ],
+      "wiki_page_ids": [
+        "shadow-archetype",
+        "anima-archetype"
+      ],
+      "raw_top_score": 0.4778,
+      "wiki_top_score": 0.624,
+      "mode_recommended": "balanced"
+    },
+    {
+      "query": "mito polar",
+      "raw_chunk_ids": [
+        "https://youtu.be/Sszbs7CG0cQ?t=2086",
+        "https://youtu.be/O4OkDuc3uPQ?t=3079",
+        "https://youtu.be/xK8_MpMMXzc?t=1523",
+        "https://youtu.be/yAIPr0HzQqE?t=477",
+        "https://youtu.be/J45h7xet8gg?t=40"
+      ],
+      "wiki_page_ids": [
+        "mito-polar",
+        "hieros-gamos",
+        "amor-cortes-y-monogamia-civilizatoria"
+      ],
+      "raw_top_score": 0.6028,
+      "wiki_top_score": 0.6506,
+      "mode_recommended": "wiki_dominant"
+    },
+    {
+      "query": "Tolkien",
+      "raw_chunk_ids": [
+        "https://youtu.be/O-kzVFngjAQ?t=4072",
+        "https://youtu.be/gDRkrg8dVCo?t=722",
+        "https://youtu.be/s6teBboDDJ4?t=286",
+        "https://youtu.be/s6teBboDDJ4?t=1649",
+        "https://youtu.be/wIhH72UFUPY?t=1495"
+      ],
+      "wiki_page_ids": [
+        "tolkien-jrr",
+        "genesis-mitologico",
+        "hieros-gamos",
+        "mito-polar",
+        "el-senor-de-los-anillos"
+      ],
+      "raw_top_score": 0.6145,
+      "wiki_top_score": 0.6333,
+      "mode_recommended": "balanced"
+    },
+    {
+      "query": "hieros gamos",
+      "raw_chunk_ids": [
+        "https://youtu.be/Tviv4PT0dv8?t=705",
+        "https://youtu.be/X2c2a3mQBOs?t=1676",
+        "https://youtu.be/OT2DW4zoKsE",
+        "https://youtu.be/NYZEm8mcPiQ?t=8015",
+        "https://youtu.be/Tviv4PT0dv8?t=30"
+      ],
+      "wiki_page_ids": [
+        "hieros-gamos",
+        "tarzan-1999-film"
+      ],
+      "raw_top_score": 0.569,
+      "wiki_top_score": 0.6146,
+      "mode_recommended": "balanced"
+    },
+    {
+      "query": "anima archetype",
+      "raw_chunk_ids": [
+        "https://youtu.be/Gx2740if0Ho?t=3118",
+        "https://youtu.be/ClnayaScAjQ?t=827",
+        "https://youtu.be/lk3DKsIagAE?t=4641",
+        "https://youtu.be/zLRhDHyq3gs?t=3851",
+        "https://youtu.be/aPbgBnidoJI?t=762"
+      ],
+      "wiki_page_ids": [
+        "dracula-1992-film",
+        "anima-archetype"
+      ],
+      "raw_top_score": 0.5049,
+      "wiki_top_score": 0.544,
+      "mode_recommended": "raw_with_warning"
+    },
+    {
+      "query": "consumismo crítica",
+      "raw_chunk_ids": [
+        "https://youtu.be/7O_f3spU184?t=802",
+        "https://youtu.be/L4zXftKhU6M?t=1385",
+        "https://youtu.be/_S6kQYk9O98?t=473",
+        "https://youtu.be/4LBXNkVAUCU?t=1358",
+        "https://youtu.be/e3Aj775Rlw4?t=4520"
+      ],
+      "wiki_page_ids": [
+        "consumismo-critica",
+        "fight-club-1999-film",
+        "psicoinfluencers-en-proxy"
+      ],
+      "raw_top_score": 0.6106,
+      "wiki_top_score": 0.6493,
+      "mode_recommended": "balanced"
+    },
+    {
+      "query": "individuation jung",
+      "raw_chunk_ids": [
+        "https://youtu.be/i72IYlpQWd0?t=1480",
+        "https://youtu.be/9wJQ9tm9Yuc?t=4224",
+        "https://youtu.be/zr_ZKX60N54?t=2811",
+        "https://youtu.be/ClnayaScAjQ",
+        "https://youtu.be/8l__TS3ATNY?t=376"
+      ],
+      "wiki_page_ids": [
+        "individuation",
+        "jung-carl-gustav"
+      ],
+      "raw_top_score": 0.5142,
+      "wiki_top_score": 0.6191,
+      "mode_recommended": "balanced"
+    },
+    {
+      "query": "Pinocho análisis arquetípico",
+      "raw_chunk_ids": [
+        "https://youtu.be/agh46Snf5YI?t=6020",
+        "https://youtu.be/kF5KHE_fF7g?t=417",
+        "https://youtu.be/DAW1HiYxnVk?t=870",
+        "https://youtu.be/IG3dkNBX9uU?t=6392",
+        "https://youtu.be/lLRGemLUCtY?t=3852"
+      ],
+      "wiki_page_ids": [
+        "pinocho-1940-film",
+        "psicologia-incel-en-proxy"
+      ],
+      "raw_top_score": 0.5299,
+      "wiki_top_score": 0.5725,
+      "mode_recommended": "balanced"
+    },
+    {
+      "query": "viaje del héroe",
+      "raw_chunk_ids": [
+        "https://youtu.be/llS9fqsNVvY?t=164",
+        "https://youtu.be/6oOGKh2TRHE?t=1713",
+        "https://youtu.be/p8ZInoDuE50?t=302",
+        "https://youtu.be/7O_f3spU184?t=317",
+        "https://youtu.be/Sszbs7CG0cQ?t=2178"
+      ],
+      "wiki_page_ids": [
+        "viaje-heroe",
+        "blancanieves-1937-film",
+        "individuation",
+        "heroe-truncado"
+      ],
+      "raw_top_score": 0.6008,
+      "wiki_top_score": 0.6446,
+      "mode_recommended": "balanced"
+    },
+    {
+      "query": "psicología cognitiva",
+      "raw_chunk_ids": [
+        "https://youtu.be/eQpPGGqodsU?t=3300",
+        "https://youtu.be/DytHSZw0_mo?t=5645",
+        "https://youtu.be/e3Aj775Rlw4?t=91",
+        "https://youtu.be/zASckAZqmfM?t=3994",
+        "https://youtu.be/ez2e9NTvljg?t=285"
+      ],
+      "wiki_page_ids": [
+        "realismo-cognitivo",
+        "mito-teseo-ariadna",
+        "galatea-modelo-protomente",
+        "psicoinfluencers-en-proxy"
+      ],
+      "raw_top_score": 0.5736,
+      "wiki_top_score": 0.5759,
+      "mode_recommended": "balanced"
+    }
+  ]
+}
