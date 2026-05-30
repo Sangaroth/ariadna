@@ -2,7 +2,34 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-16 tarde (sesión maratón cerrada: semantic_recovery v2 con applied_at flag + MCP trim citations + corpus 100% procesado). Doc maestro del refactor pendiente: [`docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md`](superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md).
+> **Última actualización:** 2026-05-30 (REFACTOR UNIVERSAL EN MARCHA — ver bloque abajo).
+
+---
+
+## 🚧 REFACTOR EN MARCHA: modelo de referencias universal + multi-tenancy (2026-05-30)
+
+**Branch:** `feat/multi-project-universal-model`. **Plan maestro:** `~/.claude/plans/ok-ha-llegado-de-virtual-sifakis.md` (leerlo primero). Specs: `docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md` + `docs/TAXONOMY_PROPOSAL.md` §3.
+
+**Objetivo:** generalizar Ariadna a sistema multi-proyecto con modelo de referencias universal (youtube/paper/pdf/web/blog…) y pipeline centralizado (cola → worker → sumarios → wiki → RAG). Primer proyecto nuevo de prueba: **atlas-teleosemantico** (papers vía DOI con MCP paper-search).
+
+**Decisiones fijadas:** TAXONOMY completo (sources/chunks split + position/position_url + Author entities + dominios OpenAlex); aislamiento TOTAL por proyecto (wiki/chunks/citations/authors con project_id; solo el archivo de fuentes es global); summarizer = módulo nuevo en ariadna; `project` polimórfico `str|list[str]|None` (cross-search a N proyectos, coste cero).
+
+**HECHO y verificado (Fases 0–3, commits b83b8cb→63908bf):**
+- **F0** `scripts/capture_baseline.py` + `data/baseline_pre_migration.json` (10 queries vía MCP HTTP) + `verify_phase{1,2}.py` (stubs).
+- **F1** `data/ariadna.db` (15 tablas, WAL) poblado: `scripts/{init_ariadna_db,populate_sources_from_proxysummaries,migrate_wiki_db_to_global,populate_authors_from_wiki}.py`. 329 sources, 222 pages, 4570 citations generalizadas (source_id+position JSON), 634 page_domains, 15 authors. Idempotente, reconstruible.
+- **F2** `scripts/migrate_raw_chunks_to_universal.py`: payload universal en Qdrant (6259 raw + 222 wiki) vía set_payload SIN re-embed. **Equivalencia funcional preservada (Δscore=0.00000)**. Reclasificación OpenAlex determinista (2049 chunks heredan dominio fino de wiki, cero LLM).
+- **F3** Filesystem → `projects/proxy/{wiki,_meta}`; `wiki/_meta/` = global (relation_types_core.json + *_default.* plantillas). `ariadna/project_config.py` (ProjectConfig). 12 ficheros repuntados. test_hybrid 8/8.
+
+**Estado runtime:** ariadna.db construido pero **search.py aún lee data/wiki.db** (no migrado a ariadna.db todavía). El server vivo funciona idéntico. `data/wiki.db` se conserva como red hasta validar F4.
+
+**PENDIENTE (Fases 4–8):**
+- **F4** Adaptadores de fuente (`ariadna/sources/{base,registry,youtube,paper}.py`) + generalizar `search.py` (leer ariadna.db project-scoped, filtro project_id str|list|None), `build_wiki_db`/`index_wiki_to_qdrant` con `--project`. Hito: regenerar Proxy con YoutubeAdapter = diff vacío. Rellenar `verify_phase1.py`.
+- **F5** Tools MCP: create_project, add_to_research_queue, cancel_request, list_projects, list_research_queue; `project` polimórfico en search_corpus/get_wiki_page; retirar get_video_summary/list_videos. Rellenar `verify_phase2.py`.
+- **F6** `ariadna/source_archive.py` (data/sources/<hash>) + `ariadna/summarize/` (PDF→summary.md p.NN, porta patrón ProxySummaries) + PaperAdapter.
+- **F7** `scripts/worker.py` (FSM research_queue, paper-search MCP vía `claude -p`, ventana batch Qdrant).
+- **F8** E2E atlas: create_project + descargar DOIs de `atlas_teleosemantico/data/bibliografia.csv` + encolar + worker + cross-search.
+
+**Quirks:** parar el server con `kill <PID>` (NO `pkill -f mcp_server` → auto-mata el comando). Reiniciar: `nohup .venv/bin/python -m ariadna.mcp_server > /tmp/ariadna.log 2>&1 &` (puerto 8080). Migración Qdrant requiere server parado (lock embedded).
 
 ---
 
