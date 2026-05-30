@@ -87,19 +87,20 @@ Argumentación completa en [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ## 5. Estado actual (2026-05-30)
 
-El refactor a multi-proyecto **ya está ejecutado y verificado** (Fases 0–6.4). El sistema opera por proyectos; queda el worker que vacía la cola (F7) y el primer proyecto-papers end-to-end (F8).
+El refactor a multi-proyecto **está ejecutado y verificado de punta a punta** (Fases 0–8). El sistema opera por proyectos, el worker vacía la cola (descarga→resumen→wiki→index) con FSM + lock optimista, y un segundo proyecto de papers (`atlas-teleosemantico`, vía DOI) corre end-to-end. Los *summaries* se persisten como **IdeaBlocks reutilizables** (re-indexar sin re-sumarizar) y los IdeaBlocks Layer 0 de paper ya son recuperables por búsqueda.
 
 | Componente | Estado |
 |---|---|
-| Layer 0 — RAG dense BGE-M3 + Qdrant + reranker cross-encoder | ✅ Operativo |
-| Layer 1 — Wiki estructurada (proyecto `proxy`) | ✅ **222 páginas** · ~6.259 IdeaBlocks · 329 fuentes |
+| Layer 0 — RAG dense BGE-M3 + Qdrant + reranker cross-encoder | ✅ Operativo · IdeaBlocks youtube **+ paper** |
+| Layer 1 — Wiki estructurada | ✅ `proxy` **222 págs** · ~6.259 IdeaBlocks · 329 fuentes · `atlas-teleosemantico` (papers) operativo |
 | Layer 2 — Grafo tipado (`relations[]`) | ✅ Operativo |
 | **Modelo universal de referencias** (youtube/paper/pdf/web/blog) | ✅ Adaptadores + `source_archive` + summarizer nativo |
 | **Multi-proyecto** (aislamiento por `project_id`, búsqueda cruzada) | ✅ **Operativo y verificado** |
 | **7 tools MCP** (incl. crear proyecto + cola de ingesta) | ✅ Operativo |
 | Integración Mattermost AI plugin | ✅ Validada (per-tool approval, ngrok) |
-| **Worker de ingesta** (vacía la cola: descarga→resumen→wiki→index) | 🟡 Pendiente (F7) |
-| Segundo proyecto E2E (`atlas-teleosemantico`, papers vía DOI) | 🟡 Pendiente (F8) |
+| **Worker de ingesta** (vacía la cola: descarga→resumen→wiki→index) | ✅ Operativo (FSM + lock optimista + retry backoff) |
+| **Persistencia de *summaries*** (IdeaBlocks reutilizables, `projects/<slug>/summaries/`) | ✅ Operativo |
+| Segundo proyecto E2E (`atlas-teleosemantico`, papers vía DOI) | ✅ Operativo (cross-search proxy+atlas verde) |
 | Despliegue producción (Hetzner, URL fija, observabilidad) | ⏳ Pendiente |
 
 Estado vivo y detallado en [docs/NEXT_SESSION.md](docs/NEXT_SESSION.md).
@@ -253,7 +254,9 @@ ariadna/
 
 **Limitaciones conocidas (estado prototipo):**
 
-- **Worker de ingesta pendiente (F7)**: la cola (`add_to_research_queue`) acepta peticiones, pero el proceso que las vacía (descarga→resumen→wiki→index) aún no está implementado.
+- **Adquisición autónoma de papers a medias**: el bypass *bring-your-own* (PDF por content-hash o summary inline) funciona y es seguro; el `ClaudePaperAcquirer` autónomo (descarga vía paper-search MCP) aún no está validado end-to-end (`run_claude` sin `--allowedTools`).
+- **`page_domains` de papers vacío**: el extractor lean emite `domain_primary` escalar pero no la lista `domain[]`, así que las páginas de paper no pueblan `page_domains` todavía.
+- **Indexado Qdrant en ventana batch**: el worker NO indexa inline (lock embebido con el server); `worker.py --index <project>` con el server parado.
 - **Orquestación manual**: arrancar MCP, ngrok, monitorizar runs — sin wrapper único.
 - **Sin observabilidad sistemática**: logs en `logs/`, métricas ad-hoc, sin dashboards.
 - **Coste extractor**: Claude Opus vía suscripción Max (incluido, sin gasto extra) — pero limita paralelismo.
