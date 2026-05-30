@@ -148,16 +148,19 @@ Usuario en Mattermost: _"¿Cómo conecta la alostasis con el wokismo?"_
 
 El `body_snippet` permite filtrar entre N páginas antes de invocar `get_wiki_page` solo en las 1-3 que de verdad necesita. Para queries cross-conceptuales, eso ahorra ~95% de tokens vs servir bodies completos.
 
-**Coste medido (gpt-5.4-mini, mayo 2026 — $0.75/M in + $4.50/M out):**
+**Coste (MiniMax-M2.7 vía suscripción, mayo 2026 — en pruebas):**
 
-| Config Mattermost AI plugin | Coste/query | Anual @ 100q/d |
+Plan Starter **$10/mes** → **1500 model requests / 5 h** (cuota semanal 10× = 15.000/semana), **token-agnóstico**, ~50 TPS (100 off-peak), 1 agente, con image understanding + web search MCP.
+
+| | Modelo anterior (gpt-5.4-mini, por token) | MiniMax-M2.7 (por request) |
 |---|---|---|
-| Reasoning Medium + Native Web Search ON | $0.12 | $4.400 |
-| **Reasoning Low + Web Search OFF (recomendado)** | **$0.01** | **$365** |
+| Unidad de cobro | tokens in/out | model requests (tokens irrelevantes) |
+| Coste | $365–$4.400/año @100 q/d | **$120/año plano** mientras quepas en cuota |
+| Razonamiento | convenía bajarlo a Low (cada token de CoT se paga) | **se deja ON** — no penaliza |
 
-12x de diferencia. El reasoning Medium añade ~10-15K tokens de chain-of-thought (cobrados como output); bajarlo a Low los reduce a ~1-3K sin pérdida apreciable para RAG + síntesis con citas. Web Search OFF garantiza honestidad epistémica (el bot solo razona desde el corpus).
+El cambio clave: como se cobra por *request* y no por tokens, **el razonamiento ya no tiene coste marginal** → se activa sin pensarlo (mejor síntesis + citas). Una query RAG en Mattermost consume ~2–4 model requests por turno (llamada con tool call → resultado → posible `get_wiki_page` → síntesis), así que 1500 requests/5 h dan de sobra (~400–700 queries de usuario por ventana) para un canal.
 
-**Settings recomendados** (Mattermost AI plugin → Agents → tu bot): Web Search **off**, Reasoning **Low**, input token limit 150000, streaming timeout 120s.
+**Settings recomendados** (Mattermost AI plugin → Agents → tu bot): Reasoning **ON** (ya no penaliza), input token limit alto (no es la restricción), streaming timeout 120s. Web Search según necesidad (con MiniMax va por MCP); déjala **off** si quieres honestidad epistémica estricta (el bot solo razona desde el corpus).
 
 ---
 
