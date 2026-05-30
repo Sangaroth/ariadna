@@ -270,8 +270,11 @@ def create_project(
     description=(
         "Encola una fuente (URL) para que el worker la procese e integre en el corpus "
         "del proyecto. source_type se auto-detecta (youtube/paper/web/pdf/unknown) si se "
-        "omite; el caller puede forzarlo. Idempotente sobre (project, url) pendiente. "
-        "Devuelve {request_id, detected_source_type, status, was_duplicate} o {error, code}."
+        "omite; el caller puede forzarlo. Idempotente sobre (project, url) pendiente.\n"
+        "BYPASS: si la fuente YA viene sumarizada (p.ej. un gestor de canal externo como "
+        "ProxySummaries), pasa el sumario en `summary` y los metadatos en `source_metadata` "
+        "(title, playlist, category…); el worker salta la sumarización e integra directo.\n"
+        "Devuelve {request_id, detected_source_type, status, was_duplicate, has_summary} o {error, code}."
     ),
 )
 def add_to_research_queue(
@@ -280,8 +283,11 @@ def add_to_research_queue(
     source_type: str | None = None,
     notes: str = "",
     priority: int = 0,
+    summary: str | None = None,
+    source_metadata: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
-    return queue_mod.add_request(project, source_url, source_type, notes, priority)
+    return queue_mod.add_request(project, source_url, source_type, notes, priority,
+                                 summary=summary, source_metadata=source_metadata)
 
 
 @mcp.tool(

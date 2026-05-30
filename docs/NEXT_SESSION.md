@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–6 HECHAS; ver bloque abajo).
+> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–7 HECHAS, F8 E2E pendiente; ver bloque abajo).
 
 ---
 
@@ -45,8 +45,15 @@
 
 **Estado runtime:** search.py lee ariadna.db; **7 tools MCP**. Server vivo en :8080. `data/wiki.db` fuera del runtime. **OJO Mattermost**: cambió el set de tools (Refresh Tools necesario).
 
-**PENDIENTE (Fases 7–8):**
-- **F6.4-resto / F7 worker** debe: encolar→`source_archive.store`(PDF)→`PaperAdapter.summarize` (si no hay bypass)→`extract_paper_to_pages`+`materialize_pages`→`build_wiki_db --project`→index (ventana batch). Implementar `add_to_research_queue` con `summary`/`source_metadata` opcionales (bypass) en F7.
+**F7 HECHO y verificado (Fase 7 — worker FSM + acquirer):**
+- **`ariadna/research_queue.py`**: FSM con lock optimista `claim_next` (`UPDATE…WHERE id=(SELECT…LIMIT 1) RETURNING *`, sin doble-claim), `mark_done`, `mark_failed` (retry backoff 60/300/900s vía `metadata.next_attempt_at`, max_retries=3 → failed permanente). `add_request` con `summary`/`source_metadata` (bypass).
+- **`ariadna/acquire.py`**: `PaperAcquirer` Protocol + `ClaudePaperAcquirer` (lanza `claude -p` con MCP paper-search: `download_paper`/`get_paper_by_doi`, parsea JSON) + `MockPaperAcquirer` (tests).
+- **`scripts/worker.py`**: `process_item` (núcleo testeable, inyectable acquirer/summarize/extract): bypass o acquire→`source_archive.store`→`summarize`→`register_source` (sources+source_projects)→`extract_paper_to_pages`+`materialize`→`build_wiki_db --project` (ariadna.db inline; **Qdrant NO** inline). `run_loop` (claim→process→done/failed). `--index <project>` = ventana batch Qdrant (server parado).
+- **mcp_server**: `add_to_research_queue` con `summary`/`source_metadata` (bypass).
+- **Verificación**: `scripts/test_worker.py` 3/3 (FSM/lock/retry, bypass, process_item E2E con mocks: fuente registrada, página wiki materializada, 0 citas huérfanas). La adquisición real (claude -p paper-search) + LLM se ejercitan en F8.
+
+**PENDIENTE (Fase 8):**
+- **F8 E2E atlas**: `bibliografia.csv` está en `/home/dae/PycharmProjects/atlas_teleosemantico/data/bibliografia.csv` (49 papers neurociencia del lenguaje, col `doi`/`titulo`/`autores`). Pasos: `create_project("atlas-teleosemantico", seed_from_templates=True)` + editar su scope.md + encolar 3-5 DOIs + `worker.py` (acquirer real) + ventana batch index + `search_corpus(project=["proxy","atlas-teleosemantico"])` cruza ambos. **Riesgo**: scihub/arxiv inestable, `claude -p` + paper-search MCP en subprocess (validar config), LLM real (minutos/paper). **Pendiente**: indexado de raw chunks de paper (Layer 0) — el MVP indexa la wiki (Layer 1 focal); cross-search funciona vía wiki.
 - **F6** `ariadna/source_archive.py` (data/sources/<hash>) + `ariadna/summarize/` (PDF→summary.md p.NN, porta patrón ProxySummaries) + PaperAdapter.
 - **F7** `scripts/worker.py` (FSM research_queue, paper-search MCP vía `claude -p`, ventana batch Qdrant).
 - **F8** E2E atlas: create_project + descargar DOIs de `atlas_teleosemantico/data/bibliografia.csv` + encolar + worker + cross-search.
