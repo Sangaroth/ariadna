@@ -255,6 +255,11 @@ CREATE TABLE IF NOT EXISTS relation_types_canonical (
     PRIMARY KEY (project_id, type)
 );
 CREATE INDEX IF NOT EXISTS idx_reltypes_type ON relation_types_canonical(type);
+-- La PK (project_id, type) NO deduplica las filas core porque project_id=NULL y
+-- en SQLite NULL != NULL en claves. Índice único parcial para que los core types
+-- (project_id IS NULL) sean únicos por `type` y INSERT OR REPLACE sea idempotente.
+CREATE UNIQUE INDEX IF NOT EXISTS idx_reltypes_core_unique
+    ON relation_types_canonical(type) WHERE project_id IS NULL;
 """
 
 # Tablas esperadas (para --check). Debe coincidir con los CREATE TABLE de arriba.
