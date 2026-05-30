@@ -76,6 +76,7 @@ def add_request(
     priority: int = 0,
     summary: str | None = None,
     source_metadata: dict | None = None,
+    source_file_hash: str | None = None,
     db_path: Path = ARIADNA_DB,
 ) -> dict:
     """Añade item a la cola. Idempotente sobre (project, url) en pending/processing.
@@ -123,9 +124,11 @@ def add_request(
         request_id = str(uuid.uuid4())
         conn.execute(
             """INSERT INTO research_queue
-               (request_id, project_id, source_url, source_type, status, priority, created_at, notes, metadata)
-               VALUES (?,?,?,?,'pending',?,?,?,?)""",
-            (request_id, project, source_url, detected, priority, _now(), notes or None, metadata_json),
+               (request_id, project_id, source_url, source_type, status, priority, created_at,
+                notes, metadata, source_file_hash)
+               VALUES (?,?,?,?,'pending',?,?,?,?,?)""",
+            (request_id, project, source_url, detected, priority, _now(), notes or None,
+             metadata_json, source_file_hash),
         )
         conn.commit()
         return {

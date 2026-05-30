@@ -12,6 +12,7 @@ El worker (F7) llama a `store()` tras descargar un PDF; guarda el hash en
 from __future__ import annotations
 
 import hashlib
+import re
 import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
@@ -19,6 +20,10 @@ from pathlib import Path
 from ariadna.config import ARIADNA_DB_PATH, DATA_DIR
 
 SOURCES_DIR = DATA_DIR / "sources"
+
+# sha256 hex: exactamente 64 hex. Validar ANTES de usar el hash en una ruta evita
+# path traversal (un "hash" como '../..' envenenaría path_for_hash).
+_SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
 
 
 def _now() -> str:
@@ -43,6 +48,37 @@ def exists(file_hash: str, db_path: Path = ARIADNA_DB_PATH) -> bool:
         ).fetchone() is not None
     finally:
         conn.close()
+
+
+def read_by_hash(
+    file_hash: str,
+    db_path: Path = ARIADNA_DB_PATH,
+    sources_dir: Path = SOURCES_DIR,
+) -> bytes:
+    """Lee un blob archivado por su content-hash. Seguro: la ruta se DERIVA del hash
+    (content-addressed), no se acepta del cliente. Valida formato sha256 (anti-traversal)
+    y que la ruta resuelta caiga dentro de SOURCES_DIR.
+
+    Lanza ValueError (hash inválido / fuera de SOURCES_DIR) o FileNotFoundError.
+    """
+    if not _SHA256_RE.match(file_hash or ""):
+        raise ValueError(f"source_file_hash inválido (no es sha256 hex): {file_hash!r}")
+    conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+    try:
+        row = conn.execute(
+            "SELECT ext FROM source_files WHERE source_file_hash=?", (file_hash,)
+        ).fetchone()
+    finally:
+        conn.close()
+    if row is None:
+        raise FileNotFoundError(f"hash no archivado en source_files: {file_hash}")
+    path = path_for_hash(file_hash, row[0], sources_dir).resolve()
+    base = sources_dir.resolve()
+    if not path.is_relative_to(base):
+        raise ValueError(f"ruta fuera de SOURCES_DIR: {path}")
+    if not path.exists():
+        raise FileNotFoundError(f"blob ausente en disco: {path}")
+    return path.read_bytes()
 
 
 def store(

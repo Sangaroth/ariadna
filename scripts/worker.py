@@ -88,6 +88,7 @@ def process_item(
     extract_fn=extract_paper_to_pages,
     db_path: Path = ARIADNA_DB_PATH,
     staging_dir: Path = STAGING_DIR,
+    sources_dir: Path = SA.SOURCES_DIR,
     scope_text: str = "",
 ) -> dict:
     """Procesa UN item ya reclamado (status=processing). Devuelve resumen.
@@ -113,16 +114,25 @@ def process_item(
         ingest_method = "external_summary"
         abstract = smeta.get("abstract")
     else:  # --- adquirir + sumarizar nativo ---
-        if acquirer is None:
-            acquirer = ClaudePaperAcquirer()
         if summarize_fn is None:
             summarize_fn = lambda blob, t: adapter.summarize(blob, t)  # noqa: E731
         doi = source_id.split(":", 1)[1] if ":" in source_id else source_id
-        acquired = acquirer.download(doi, staging_dir)
-        pdf_bytes = Path(acquired.path).read_bytes()
-        arch = SA.store(pdf_bytes, "pdf", url, db_path=db_path)
-        file_hash = arch["source_file_hash"]
-        pmeta = acquirer.metadata(doi)
+        # bring-your-own-PDF SEGURO: referencia por content-hash del source_archive
+        # (NUNCA un path crudo del cliente — sería lectura arbitraria de ficheros). El
+        # hash llega en la columna source_file_hash (no en el source_metadata expuesto por MCP).
+        pre_hash = item.get("source_file_hash")
+        if pre_hash:
+            pdf_bytes = SA.read_by_hash(pre_hash, db_path=db_path, sources_dir=sources_dir)
+            file_hash = pre_hash
+            pmeta = meta.get("source_metadata") or {}
+        else:
+            if acquirer is None:
+                acquirer = ClaudePaperAcquirer()
+            acquired = acquirer.download(doi, staging_dir)
+            pdf_bytes = Path(acquired.path).read_bytes()
+            arch = SA.store(pdf_bytes, "pdf", url, db_path=db_path, sources_dir=sources_dir)
+            file_hash = arch["source_file_hash"]
+            pmeta = acquirer.metadata(doi)
         title = pmeta.get("title") or source_id
         abstract = pmeta.get("abstract")
         ingest_method = "claude_summarizer"

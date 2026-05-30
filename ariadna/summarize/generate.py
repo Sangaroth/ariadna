@@ -58,8 +58,12 @@ def generate_paper_summary(
     if not pages:
         raise SummarizationError("PDF sin páginas extraíbles")
     source_input = pdf_to_summary_input(pages)
+    # min_topics escala con el nº de páginas: un documento corto (p.ej. solo abstract)
+    # no puede exigir 3 temas. 1pg→1, 2pg→2, 3+pg→3.
+    min_topics = max(1, min(3, len(pages)))
     return generate_summary(
         source_input, title, SUMMARY_PROMPT_PAPER_ES, n_units=len(pages),
         model=model, run_claude_fn=run_claude_fn,
+        min_topics=min_topics,
         max_ordinal=len(pages),  # ninguna página citada puede exceder el total
     )

@@ -29,14 +29,28 @@ def test_source_archive() -> None:
             "CREATE TABLE source_files (source_file_hash TEXT PRIMARY KEY, ext TEXT, "
             "byte_size INT, original_url TEXT, archived_at TEXT);")
         blob = b"%PDF-fake-123"
-        r1 = SA.store(blob, "pdf", "http://x/y.pdf", db_path=dbp, sources_dir=td / "sources")
-        r2 = SA.store(blob, "pdf", "http://x/y.pdf", db_path=dbp, sources_dir=td / "sources")
+        srcdir = td / "sources"
+        r1 = SA.store(blob, "pdf", "http://x/y.pdf", db_path=dbp, sources_dir=srcdir)
+        r2 = SA.store(blob, "pdf", "http://x/y.pdf", db_path=dbp, sources_dir=srcdir)
         assert r1["was_duplicate"] is False and r2["was_duplicate"] is True
         assert r1["source_file_hash"] == r2["source_file_hash"]
         assert Path(r1["path"]).exists()
         h = r1["source_file_hash"]
         assert r1["path"].endswith(f"{h[:2]}/{h}.pdf")
         assert sqlite3.connect(dbp).execute("SELECT COUNT(*) FROM source_files").fetchone()[0] == 1
+        # read_by_hash: roundtrip + rechazos de seguridad (anti-traversal / no archivado)
+        assert SA.read_by_hash(h, db_path=dbp, sources_dir=srcdir) == blob
+        for bad in ["../../etc/passwd", "not-hex", "", "a" * 63]:
+            try:
+                SA.read_by_hash(bad, db_path=dbp, sources_dir=srcdir)
+                raise AssertionError(f"hash inválido aceptado: {bad!r}")
+            except ValueError:
+                pass
+        try:
+            SA.read_by_hash("b" * 64, db_path=dbp, sources_dir=srcdir)
+            raise AssertionError("hash no archivado aceptado")
+        except FileNotFoundError:
+            pass
 
 
 def test_pdf_extract() -> None:

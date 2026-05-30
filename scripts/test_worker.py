@@ -119,7 +119,46 @@ def test_process_item_e2e_mocks() -> None:
             shutil.rmtree(REPO / "projects" / slug, ignore_errors=True)
 
 
-TESTS = [test_fsm_lock_and_retry, test_bypass_metadata, test_process_item_e2e_mocks]
+def test_process_item_byo_pdf_via_hash() -> None:
+    """Bypass SEGURO: PDF pre-archivado, referenciado por content-hash (no path crudo)."""
+    import fitz
+    from ariadna import source_archive as SA
+    import scripts.worker as W
+
+    slug = "wtest-hash"
+    doc = fitz.open()
+    for t in ["Pagina uno.", "Pagina dos."]:
+        doc.new_page().insert_text((72, 72), t)
+    pdf = doc.tobytes(); doc.close()
+
+    def mock_summarize(blob, title):
+        assert blob == pdf  # leyó EXACTAMENTE el blob archivado
+        return "- p.1 🧠 Teleo\n\n  - x,\n  - y,\n\n- p.2 🔬 F\n\n  - a,\n  - b,\n"
+
+    def mock_extract(summary, source_id, title, project, **kw):
+        return [{"page_id": "x-concept", "page_type": "concept", "canonical_name": "X",
+                 "domain_primary": "humanities.philosophy", "relations": [], "cited_pages": [1]}]
+
+    with tempfile.TemporaryDirectory() as td:
+        db = Path(td) / "a.db"; INIT.init_db(db)
+        assert "project_id" in P.create_project(slug, "Hash Test", db_path=db)
+        try:
+            arch = SA.store(pdf, "pdf", "http://x/y.pdf", db_path=db, sources_dir=Path(td) / "sources")
+            h = arch["source_file_hash"]
+            Q.add_request(slug, "https://doi.org/10.1/h", source_type="paper",
+                          source_metadata={"title": "Paper H"}, source_file_hash=h, db_path=db)
+            item = Q.claim_next("w1", project=slug, db_path=db)
+            assert item["source_file_hash"] == h
+            res = W.process_item(item, summarize_fn=mock_summarize, extract_fn=mock_extract,
+                                 db_path=db, staging_dir=Path(td) / "staging",
+                                 sources_dir=Path(td) / "sources")
+            assert res["source_file_hash"] == h and res["n_pages_written"] == 1
+        finally:
+            shutil.rmtree(REPO / "projects" / slug, ignore_errors=True)
+
+
+TESTS = [test_fsm_lock_and_retry, test_bypass_metadata, test_process_item_e2e_mocks,
+         test_process_item_byo_pdf_via_hash]
 
 
 def main() -> int:
