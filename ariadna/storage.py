@@ -216,6 +216,18 @@ class CorpusStore:
         except Exception:
             return 0
 
+    def count_by_project(self, project_id: str) -> int:
+        """Numero de puntos (raw + wiki) de un proyecto."""
+        try:
+            return self.client.count(
+                self.collection_name,
+                count_filter=Filter(must=[
+                    FieldCondition(key="project_id", match=MatchValue(value=project_id))
+                ]),
+            ).count
+        except Exception:
+            return 0
+
     def get_by_video(self, video_id: str) -> list[dict[str, Any]]:
         """Devuelve todos los chunks de un video, ordenados por timestamp."""
         results, _ = self.client.scroll(

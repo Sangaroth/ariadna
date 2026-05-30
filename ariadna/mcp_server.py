@@ -9,22 +9,19 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import sqlite3
 import sys
 from pathlib import Path
 from typing import Any
 
 from mcp.server.fastmcp import FastMCP
 
-from ariadna.config import DEFAULT_CORPUS_PATH, MCP_HOST, MCP_PORT, PROJECT_ROOT
-from ariadna.parsers import parse_summary_file
-from ariadna.project_config import ProjectConfig
+from ariadna.config import ARIADNA_DB_PATH, MCP_HOST, MCP_PORT, PROJECT_ROOT
+from ariadna import projects as projects_mod
+from ariadna import research_queue as queue_mod
+from ariadna.project_config import ProjectConfig, list_project_ids
 from ariadna.search import Searcher
-from ariadna.storage import CorpusStore
 from ariadna.wiki_utils import strip_citations_section as _strip_citations_section
-
-# get_wiki_page resuelve por page_id bajo el wiki del proyecto. Proxy por defecto;
-# Fase 5 añadirá el parámetro `project` a la tool.
-WIKI_DIR = ProjectConfig("proxy").wiki_root
 
 logging.basicConfig(
     level=logging.INFO,
@@ -46,6 +43,51 @@ def get_searcher() -> Searcher:
         log.info("Inicializando searcher (primera llamada)...")
         _searcher = Searcher()
     return _searcher
+
+
+def _db_project_ids() -> set[str]:
+    """Slugs en la tabla projects de ariadna.db."""
+    if not ARIADNA_DB_PATH.exists():
+        return set()
+    conn = sqlite3.connect(f"file:{ARIADNA_DB_PATH}?mode=ro", uri=True)
+    try:
+        return {r[0] for r in conn.execute("SELECT project_id FROM projects")}
+    except sqlite3.Error:
+        return set()
+    finally:
+        conn.close()
+
+
+def _resolve_wiki_page(page_id: str, project: str | None) -> list[tuple[str, str]]:
+    """Resuelve (project_id, file_path) de una page_id desde ariadna.db.pages.
+
+    Cross-all (project=None): todos los proyectos que tienen ese page_id, ordenados
+    por indexed_at ascendente (el más antiguo gana el desempate). Scoped: solo ese
+    proyecto. Fallback a filesystem si la página no está aún en el índice.
+    """
+    out: list[tuple[str, str]] = []
+    if ARIADNA_DB_PATH.exists():
+        conn = sqlite3.connect(f"file:{ARIADNA_DB_PATH}?mode=ro", uri=True)
+        try:
+            if project is not None:
+                rows = conn.execute(
+                    "SELECT project_id, file_path FROM pages WHERE page_id=? AND project_id=? "
+                    "ORDER BY indexed_at ASC", (page_id, project)).fetchall()
+            else:
+                rows = conn.execute(
+                    "SELECT project_id, file_path FROM pages WHERE page_id=? ORDER BY indexed_at ASC",
+                    (page_id,)).fetchall()
+            out = [(p, fp) for p, fp in rows]
+        finally:
+            conn.close()
+    if out:
+        return out
+    # Fallback filesystem (página en disco aún sin indexar).
+    scope = [project] if project else list_project_ids()
+    for slug in scope:
+        for md in ProjectConfig(slug).wiki_root.rglob(f"{page_id}.md"):
+            out.append((slug, str(md.relative_to(PROJECT_ROOT))))
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -157,87 +199,129 @@ def search_corpus(
         "pide ver de que video sale una afirmacion), pasa include_citations=true."
     ),
 )
-def get_wiki_page(page_id: str, include_citations: bool = False) -> dict[str, Any]:
-    """Lee una página wiki por page_id desde el filesystem (wiki/)."""
-    candidates = list(WIKI_DIR.rglob(f"{page_id}.md"))
+def get_wiki_page(
+    page_id: str,
+    project: str | None = None,
+    include_citations: bool = False,
+) -> dict[str, Any]:
+    """Lee una página wiki por page_id. project=None busca cross-all (desempata
+    por indexed_at ascendente y expone projects_with_this_id); project='proxy' solo
+    ese proyecto. Error WIKI_PAGE_NOT_FOUND si no existe."""
+    if project is not None and project not in set(list_project_ids()) | _db_project_ids():
+        return {"error": f"proyecto {project!r} no existe", "code": "PROJECT_NOT_FOUND"}
+
+    # Resolución cross-project vía ariadna.db (file_path + indexed_at por proyecto).
+    candidates = _resolve_wiki_page(page_id, project)
     if not candidates:
         return {
-            "error": f"No se encontró página wiki con page_id={page_id!r}",
-            "hint": "Usa search_corpus para descubrir page_ids existentes en wiki_pages",
+            "error": f"No se encontró página wiki con page_id={page_id!r}"
+                     + (f" en project={project!r}" if project else ""),
+            "code": "WIKI_PAGE_NOT_FOUND",
+            "hint": "Usa search_corpus para descubrir page_ids existentes",
         }
-    md_path = candidates[0]
+    chosen_project, file_path = candidates[0]
+    md_path = PROJECT_ROOT / file_path
+    if not md_path.exists():
+        return {"error": f"file_path no resuelve en disco: {file_path}", "code": "WIKI_PAGE_NOT_FOUND"}
+
     content = md_path.read_text(encoding="utf-8")
     chars_trimmed = 0
     if not include_citations:
         content, chars_trimmed = _strip_citations_section(content)
     return {
         "page_id": page_id,
-        "file_path": str(md_path.relative_to(PROJECT_ROOT)),
+        "project_id": chosen_project,
+        "file_path": file_path,
         "content": content,
         "citations_trimmed": chars_trimmed > 0,
         "citations_chars_omitted": chars_trimmed,
+        "projects_with_this_id": [p for p, _ in candidates],
     }
 
 
-@mcp.tool(
-    name="get_video_summary",
-    description=(
-        "Devuelve el summary completo y ordenado de un video concreto del canal "
-        "(todos sus chunks tematicos en orden cronologico). "
-        "Usa esta tool tras un search_corpus para profundizar en un video que "
-        "parece relevante, o cuando el usuario pide ver el contenido completo "
-        "de un video especifico. Requiere el video_id de YouTube."
-    ),
-)
-def get_video_summary(video_id: str) -> dict[str, Any]:
-    """Summary completo de un video por su video_id de YouTube."""
-    store = CorpusStore()
-    chunks = store.get_by_video(video_id)
-    if not chunks:
-        return {
-            "error": f"No se encontro video con id {video_id}",
-            "hint": "Usa search_corpus primero para localizar el video_id correcto",
-        }
-
-    first = chunks[0]
-    return {
-        "video_id": video_id,
-        "video_title": first["video_title"],
-        "category": first["category"],
-        "playlist": first["playlist"],
-        "upload_date": first["upload_date"],
-        "duration_seconds": first["duration"],
-        "youtube_url": f"https://youtu.be/{video_id}",
-        "num_chunks": len(chunks),
-        "chunks": [
-            {
-                "timestamp": c["timestamp"],
-                "theme": c["theme"],
-                "content": c["content"],
-                "youtube_url": c["youtube_url"],
-            }
-            for c in chunks
-        ],
-    }
+# ---------------------------------------------------------------------------
+# Tools write: gestión de proyectos y cola de ingesta (multi-proyecto)
+# ---------------------------------------------------------------------------
 
 
 @mcp.tool(
-    name="list_videos",
+    name="create_project",
     description=(
-        "Lista videos del corpus con filtros opcionales. "
-        "Usa para responder preguntas como 'que videos hay sobre X', "
-        "'listame los analisis arqueтipicos', 'que tienes en psicologia'. "
-        "Sin filtros devuelve todos los 288 videos (puede ser mucho, mejor filtra)."
+        "Crea un proyecto nuevo (corpus aislado con su propia wiki, cola y scope). "
+        "slug en kebab-case (^[a-z][a-z0-9-]{1,40}[a-z0-9]$). seed_from_templates=true "
+        "copia las plantillas editoriales por defecto como punto de partida; "
+        "inherit_from='<slug>' copia la config de otro proyecto (mutuamente excluyentes). "
+        "Devuelve {project_id, paths_created} o {error, code}."
     ),
 )
-def list_videos(
-    category: str | None = None,
-    playlist: str | None = None,
-) -> list[dict[str, Any]]:
-    """Lista videos filtrados por categoria y/o playlist."""
-    store = CorpusStore()
-    videos = store.list_videos(category=category, playlist=playlist)
-    return videos
+def create_project(
+    slug: str,
+    name: str,
+    description: str = "",
+    seed_from_templates: bool = False,
+    inherit_from: str | None = None,
+) -> dict[str, Any]:
+    return projects_mod.create_project(
+        slug, name, description, seed_from_templates, inherit_from)
+
+
+@mcp.tool(
+    name="add_to_research_queue",
+    description=(
+        "Encola una fuente (URL) para que el worker la procese e integre en el corpus "
+        "del proyecto. source_type se auto-detecta (youtube/paper/web/pdf/unknown) si se "
+        "omite; el caller puede forzarlo. Idempotente sobre (project, url) pendiente. "
+        "Devuelve {request_id, detected_source_type, status, was_duplicate} o {error, code}."
+    ),
+)
+def add_to_research_queue(
+    project: str,
+    source_url: str,
+    source_type: str | None = None,
+    notes: str = "",
+    priority: int = 0,
+) -> dict[str, Any]:
+    return queue_mod.add_request(project, source_url, source_type, notes, priority)
+
+
+@mcp.tool(
+    name="cancel_request",
+    description=(
+        "Cancela un request de la cola por su request_id. pending/failed → cancelled; "
+        "processing/done/cancelled → no-op (deja terminar al worker). "
+        "Devuelve {request_id, previous_status, current_status} o {error, code}."
+    ),
+)
+def cancel_request(request_id: str, reason: str = "") -> dict[str, Any]:
+    return queue_mod.cancel_request(request_id, reason)
+
+
+@mcp.tool(
+    name="list_projects",
+    description=(
+        "Lista los proyectos con sus contadores (n_pages, n_chunks, n_queue_pending). "
+        "include_archived=true incluye los archivados."
+    ),
+)
+def list_projects(include_archived: bool = False) -> dict[str, Any]:
+    return projects_mod.list_projects(include_archived=include_archived, store=get_searcher().store)
+
+
+@mcp.tool(
+    name="list_research_queue",
+    description=(
+        "Lista items de la cola de ingesta. project=None cruza todos; status='all' "
+        "devuelve todos los estados (default 'pending'). Filtros opcionales por "
+        "source_type. Devuelve {items, total_matching, filters_applied} o {error, code}."
+    ),
+)
+def list_research_queue(
+    project: str | None = None,
+    status: str = "pending",
+    source_type: str | None = None,
+    limit: int = 50,
+) -> dict[str, Any]:
+    return queue_mod.list_research_queue(project, status, source_type, limit)
 
 
 # ---------------------------------------------------------------------------

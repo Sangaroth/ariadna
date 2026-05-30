@@ -9,6 +9,8 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 QDRANT_PATH = DATA_DIR / "qdrant"
+# Capa de datos unificada (multi-tenant + modelo universal).
+ARIADNA_DB_PATH = DATA_DIR / "ariadna.db"
 
 # Corpus externo (ProxySummaries)
 DEFAULT_CORPUS_PATH = Path(

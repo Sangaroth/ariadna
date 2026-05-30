@@ -10,9 +10,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from ariadna.config import RERANKER_PREFETCH_N
+from ariadna.config import ARIADNA_DB_PATH, RERANKER_PREFETCH_N
 from ariadna.embeddings import DenseEmbedder
-from ariadna.project_config import DEFAULT_PROJECT
 from ariadna.sources.registry import adapter_for_source_id
 from ariadna.wiki_utils import (
     extract_body_snippet as _extract_body_snippet,
@@ -22,10 +21,6 @@ from ariadna.reranker import Reranker
 from ariadna.storage import CorpusStore
 
 log = logging.getLogger(__name__)
-
-# Fuente de verdad unificada (multi-tenant + modelo universal). El lookup indirecto
-# wiki vía citations y el fetch de páginas citation-only leen de aquí.
-ARIADNA_DB_PATH = Path(__file__).resolve().parent.parent / "data" / "ariadna.db"
 
 
 @dataclass
@@ -151,10 +146,14 @@ class Searcher:
         slugs = [project] if isinstance(project, str) else list(project)
         if not slugs:
             return None
-        if self._known_projects:
+        missing = [s for s in slugs if s not in self._known_projects]
+        if missing:
+            # Refresh lazy: un proyecto recién creado (create_project) aún no está en
+            # la caché cargada al arrancar. Releemos antes de fallar.
+            self._known_projects = self._load_known_projects()
             missing = [s for s in slugs if s not in self._known_projects]
-            if missing:
-                raise ValueError(f"PROJECT_NOT_FOUND: {', '.join(missing)}")
+        if missing and self._known_projects:
+            raise ValueError(f"PROJECT_NOT_FOUND: {', '.join(missing)}")
         return slugs
 
     @staticmethod
@@ -335,6 +334,10 @@ class Searcher:
                 "raw_top_score": round(raw_top, 4) if raw_top is not None else None,
                 "mode_recommended": mode,
                 "warning": warning,
+                "projects_seen": sorted(
+                    {c.get("project_id") for c in raw_results if c.get("project_id")}
+                    | {w.get("project_id") for w in wiki_pages_compact if w.get("project_id")}
+                ),
                 "wiki_pages_count": len(wiki_pages_compact),
                 "wiki_via_citation_count": sum(
                     1 for w in wiki_pages_compact if w.get("match_via") in {"citation", "citation_video", "both"}

@@ -31,7 +31,11 @@ from typing import Any, Callable
 
 DEFAULT_URL = "http://127.0.0.1:8765/mcp"
 
-EXPECTED_TOOLS = {"search_corpus", "get_video_summary", "list_videos", "get_wiki_page"}
+EXPECTED_TOOLS = {
+    "search_corpus", "get_wiki_page",
+    "create_project", "add_to_research_queue", "cancel_request",
+    "list_projects", "list_research_queue",
+}
 
 
 @dataclass

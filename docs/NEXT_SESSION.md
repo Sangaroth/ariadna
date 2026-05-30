@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–4 HECHAS; ver bloque abajo).
+> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–5 HECHAS; ver bloque abajo).
 
 ---
 
@@ -29,10 +29,15 @@
 - **`verify_phase1.py` relleno (16 checks, server PARADO)**: **16/16 ✓** (1 SKIP: extract_themes→F6). functional_equivalence 10 queries ±0.01, qdrant_all_tagged 6481, domains_assigned 6259, citations_generalized 4570 sin huérfanas, cross-project isolation, build_wiki_db parity, validator exit 0.
 - **`validate_wiki_relations.py --project`**. Arreglado el único stub con `relations: []` (inside-out-2-2024-film → compared_with inside-out-2015-film). test_hybrid 8/8.
 
-**Estado runtime:** **search.py lee ariadna.db** (wiki.db retirado del hot path; conservar como red hasta F5). Server vivo en :8080 funciona idéntico al baseline. `data/wiki.db` ya NO lo usa nadie del runtime.
+**F5 HECHO y verificado (Fase 5 — tools MCP multi-proyecto):**
+- **`ariadna/projects.py`** (create_project con SLUG_RE/seed_from_templates/inherit_from/.gitkeep + list_projects con n_chunks vía `CorpusStore.count_by_project`) y **`ariadna/research_queue.py`** (add_request idempotente + detect_source_type enum corto + cancel_request FSM pending|failed→cancelled + list_research_queue). Lógica aislada del server (reutilizable por el worker F7).
+- **mcp_server.py**: 5 tools nuevas (create_project, add_to_research_queue, cancel_request, list_projects, list_research_queue); `get_wiki_page(page_id, project=None)` cross-all (desempata por indexed_at, expone `projects_with_this_id`); `search_corpus` ya con `project`; **retiradas get_video_summary y list_videos**. `retrieval_metadata.projects_seen`.
+- **Fix**: `Searcher.resolve_projects` refresca `_known_projects` en miss (proyecto creado en caliente sin reiniciar).
+- **`verify_phase2.py` relleno (24 checks, server vivo, auto-limpieza vp2-*)**: **24/24 ✓** (slugs inválidos, INCOMPATIBLE_OPTIONS, seed/inherit idénticos, detección youtube/paper/pdf/web/unknown, idempotencia, cancel FSM, INVALID_STATUS, obsolete tools removed, cross-project). test_hybrid 8/8 (7 tools). `data/ariadna.db.projects` tiene fila `proxy`.
 
-**PENDIENTE (Fases 5–8):**
-- **F5** Tools MCP: create_project, add_to_research_queue, cancel_request, list_projects, list_research_queue; `project` polimórfico en get_wiki_page (search_corpus ya lo tiene); retirar get_video_summary/list_videos. Rellenar `verify_phase2.py`.
+**Estado runtime:** search.py lee ariadna.db; **7 tools MCP** (search_corpus, get_wiki_page + 5 de gestión). Server vivo en :8080. `data/wiki.db` fuera del runtime (retirable). **OJO Mattermost**: cambió el set de tools (Refresh Tools necesario; get_video_summary/list_videos ya no existen).
+
+**PENDIENTE (Fases 6–8):**
 - **F6** `ariadna/source_archive.py` (data/sources/<hash>) + `ariadna/summarize/` (PDF→summary.md p.NN, porta patrón ProxySummaries) + PaperAdapter.
 - **F7** `scripts/worker.py` (FSM research_queue, paper-search MCP vía `claude -p`, ventana batch Qdrant).
 - **F8** E2E atlas: create_project + descargar DOIs de `atlas_teleosemantico/data/bibliografia.csv` + encolar + worker + cross-search.
