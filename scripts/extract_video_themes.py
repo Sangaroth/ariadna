@@ -64,13 +64,14 @@ from typing import Optional
 # ---------------------------------------------------------------------------
 
 REPO = Path(__file__).resolve().parent.parent
-WIKI = REPO / "wiki"
-META = WIKI / "_meta"
+# Layout multi-proyecto: proxy bajo projects/proxy/. relation_types_core es GLOBAL.
+WIKI = REPO / "projects" / "proxy" / "wiki"
+META = REPO / "projects" / "proxy" / "_meta"
 RUNS_DIR = META / "extraction_runs"
 
 SCOPE_PATH = META / "scope.md"
 WHITELIST_PATH = META / "canonical_whitelist.json"
-RELATION_TYPES_PATH = META / "relation_types.json"
+RELATION_TYPES_PATH = REPO / "wiki" / "_meta" / "relation_types_core.json"
 TOPIC_FILTERS_PATH = META / "topic_filters.json"
 
 DEFAULT_CORPUS = Path(

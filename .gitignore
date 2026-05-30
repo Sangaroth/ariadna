@@ -45,22 +45,22 @@ build/
 #     son la memoria operativa del LLM. Permiten reconstruir wiki desde cero,
 #     activar síntesis débiles meses después sin re-llamada al LLM, y re-aplicar
 #     lógica nueva sobre extracciones antiguas. ~15KB/vídeo, ~4MB total corpus.
-wiki/_meta/extraction_runs/*
-!wiki/_meta/extraction_runs/*/
-wiki/_meta/extraction_runs/*/*
-!wiki/_meta/extraction_runs/*/discard_log.json
-!wiki/_meta/extraction_runs/*/pending_updates.json
-!wiki/_meta/extraction_runs/*/promote_queue.json
-!wiki/_meta/extraction_runs/*/thesis_candidates.json
-!wiki/_meta/extraction_runs/*/blocks_filtered.json
-!wiki/_meta/extraction_runs/*/aggregation_stats.json
-!wiki/_meta/extraction_runs/*/applied_log.json
+projects/*/_meta/extraction_runs/*
+!projects/*/_meta/extraction_runs/*/
+projects/*/_meta/extraction_runs/*/*
+!projects/*/_meta/extraction_runs/*/discard_log.json
+!projects/*/_meta/extraction_runs/*/pending_updates.json
+!projects/*/_meta/extraction_runs/*/promote_queue.json
+!projects/*/_meta/extraction_runs/*/thesis_candidates.json
+!projects/*/_meta/extraction_runs/*/blocks_filtered.json
+!projects/*/_meta/extraction_runs/*/aggregation_stats.json
+!projects/*/_meta/extraction_runs/*/applied_log.json
 # Per-video JSONs (memoria operativa del extractor)
-!wiki/_meta/extraction_runs/*/*.json
+!projects/*/_meta/extraction_runs/*/*.json
 # Pero state.json y otros control files SIGUEN gitignored:
-wiki/_meta/extraction_runs/*/state.json
-wiki/_meta/extraction_runs/*/heavy_context.snapshot.txt
-wiki/_meta/extraction_runs/*/system_prompt.short.snapshot.txt
-wiki/_meta/extraction_runs/*/heavy_context.session_*.snapshot.txt
-wiki/_meta/extraction_runs/*/applied_backup/
-wiki/_meta/extraction_runs/*/shadow_wiki/
+projects/*/_meta/extraction_runs/*/state.json
+projects/*/_meta/extraction_runs/*/heavy_context.snapshot.txt
+projects/*/_meta/extraction_runs/*/system_prompt.short.snapshot.txt
+projects/*/_meta/extraction_runs/*/heavy_context.session_*.snapshot.txt
+projects/*/_meta/extraction_runs/*/applied_backup/
+projects/*/_meta/extraction_runs/*/shadow_wiki/

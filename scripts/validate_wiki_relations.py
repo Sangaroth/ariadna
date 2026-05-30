@@ -31,9 +31,9 @@ from pathlib import Path
 from typing import Any
 
 REPO = Path(__file__).resolve().parent.parent
-WIKI = REPO / "wiki"
-META = WIKI / "_meta"
-RELATION_TYPES_FILE = META / "relation_types.json"
+WIKI = REPO / "projects" / "proxy" / "wiki"
+META = REPO / "projects" / "proxy" / "_meta"
+RELATION_TYPES_FILE = REPO / "wiki" / "_meta" / "relation_types_core.json"
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 WIKILINK_BODY_RE = re.compile(r"\[\[([a-z0-9][a-z0-9_-]*)(?:\|[^\]]+)?\]\]")

@@ -58,7 +58,7 @@ logging.basicConfig(
 )
 log = logging.getLogger("ariadna.wiki_index")
 
-WIKI_DIR_DEFAULT = REPO / "wiki"
+WIKI_DIR_DEFAULT = REPO / "projects" / "proxy" / "wiki"
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 WIKILINK_RE = re.compile(r"\[\[([a-z0-9][a-z0-9_-]*)(?:\|[^\]]+)?\]\]")

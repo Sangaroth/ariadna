@@ -240,11 +240,11 @@ def housekeeping_commit(message_prefix: str) -> int:
         path = line[3:].strip().strip('"')
         # Solo nos interesan los archivos del pipeline; ignoramos cosas como
         # cambios en código fuera del pipeline (que no debería haber)
-        if path.startswith("wiki/_meta/extraction_runs/"):
+        if path.startswith("projects/proxy/_meta/extraction_runs/"):
             paths_to_stage.append(path)
-        elif path == "wiki/_meta/processed_videos.json":
+        elif path == "projects/proxy/_meta/processed_videos.json":
             paths_to_stage.append(path)
-        elif path.startswith("wiki/") and path.endswith(".md"):
+        elif path.startswith("projects/proxy/wiki/") and path.endswith(".md"):
             paths_to_stage.append(path)
     if not paths_to_stage:
         return 0

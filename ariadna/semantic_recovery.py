@@ -66,9 +66,9 @@ from scan_mentions_ledger import (  # type: ignore  # noqa: E402
     FRONTMATTER_RE,
 )
 
-WIKI_ROOT = _REPO / "wiki"
-EXTRACTION_RUNS = WIKI_ROOT / "_meta" / "extraction_runs"
-CACHE_PATH = WIKI_ROOT / "_meta" / "semantic_recovery_cache.json"
+WIKI_ROOT = _REPO / "projects" / "proxy" / "wiki"
+EXTRACTION_RUNS = _REPO / "projects" / "proxy" / "_meta" / "extraction_runs"
+CACHE_PATH = _REPO / "projects" / "proxy" / "_meta" / "semantic_recovery_cache.json"
 
 # Reason codes que SÍ son candidatos a recovery (resto = scope-out o ya capturados)
 RECOVERABLE_REASONS = frozenset({

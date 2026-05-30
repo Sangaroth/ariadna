@@ -22,7 +22,7 @@ from ariadna.parsers import Chunk, iter_corpus, parse_summary_file
 from ariadna.policy_filters import build_policy_filter_map
 from ariadna.storage import CorpusStore
 
-DEFAULT_EXTRACTION_RUNS = Path(__file__).resolve().parent.parent / "wiki" / "_meta" / "extraction_runs"
+DEFAULT_EXTRACTION_RUNS = Path(__file__).resolve().parent.parent / "projects" / "proxy" / "_meta" / "extraction_runs"
 
 logging.basicConfig(
     level=logging.INFO,

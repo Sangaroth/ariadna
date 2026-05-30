@@ -68,8 +68,8 @@ from extract_video_themes import (  # noqa: E402
     load_summary,
 )
 
-WIKI = REPO / "wiki"
-META = WIKI / "_meta"
+WIKI = REPO / "projects" / "proxy" / "wiki"
+META = REPO / "projects" / "proxy" / "_meta"
 COMPILE_RUNS_DIR = META / "compile_runs"
 
 PAGE_TYPE_DIR = {

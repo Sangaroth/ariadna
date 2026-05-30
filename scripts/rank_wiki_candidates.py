@@ -25,8 +25,8 @@ from urllib.error import URLError
 from urllib.request import Request, urlopen
 
 REPO = Path(__file__).resolve().parent.parent
-WIKI = REPO / "wiki"
-META = WIKI / "_meta"
+WIKI = REPO / "projects" / "proxy" / "wiki"
+META = REPO / "projects" / "proxy" / "_meta"
 MCP_URL = "http://127.0.0.1:8765/mcp"
 
 WIKILINK_RE = re.compile(r"\[\[([a-z0-9][a-z0-9_-]*)(?:\|[^\]]+)?\]\]")

@@ -17,11 +17,14 @@ from mcp.server.fastmcp import FastMCP
 
 from ariadna.config import DEFAULT_CORPUS_PATH, MCP_HOST, MCP_PORT, PROJECT_ROOT
 from ariadna.parsers import parse_summary_file
+from ariadna.project_config import ProjectConfig
 from ariadna.search import Searcher
 from ariadna.storage import CorpusStore
 from ariadna.wiki_utils import strip_citations_section as _strip_citations_section
 
-WIKI_DIR = PROJECT_ROOT / "wiki"
+# get_wiki_page resuelve por page_id bajo el wiki del proyecto. Proxy por defecto;
+# Fase 5 añadirá el parámetro `project` a la tool.
+WIKI_DIR = ProjectConfig("proxy").wiki_root
 
 logging.basicConfig(
     level=logging.INFO,

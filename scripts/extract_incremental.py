@@ -47,7 +47,7 @@ from extract_video_themes import (  # noqa: E402
     run as extractor_run,
 )
 
-PROCESSED_PATH = REPO / "wiki" / "_meta" / "processed_videos.json"
+PROCESSED_PATH = REPO / "projects" / "proxy" / "_meta" / "processed_videos.json"
 
 # Files que el aggregator escribe en run_dir — NO son outputs por-vídeo
 AGG_FILES = {

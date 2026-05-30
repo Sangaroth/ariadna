@@ -44,9 +44,9 @@ from typing import Any
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO))
 
-WIKI_DIR = REPO / "wiki"
+WIKI_DIR = REPO / "projects" / "proxy" / "wiki"
 DB_PATH = REPO / "data" / "wiki.db"
-RELATION_TYPES_PATH = WIKI_DIR / "_meta" / "relation_types.json"
+RELATION_TYPES_PATH = REPO / "wiki" / "_meta" / "relation_types_core.json"
 
 logging.basicConfig(
     level=logging.INFO,

@@ -55,8 +55,8 @@ from pathlib import Path
 from typing import Optional
 
 REPO = Path(__file__).resolve().parent.parent
-WIKI = REPO / "wiki"
-META = WIKI / "_meta"
+WIKI = REPO / "projects" / "proxy" / "wiki"
+META = REPO / "projects" / "proxy" / "_meta"
 RUNS_DIR = META / "extraction_runs"
 
 SUPPORTED_TYPES = {
