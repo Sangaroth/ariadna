@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–7 HECHAS, F8 E2E pendiente; ver bloque abajo).
+> **Última actualización:** 2026-05-30 noche (REFACTOR UNIVERSAL — Fases 0–8 COMPLETAS; cross-search proxy+atlas verde. Ver bloque abajo).
 
 ---
 
@@ -52,8 +52,20 @@
 - **mcp_server**: `add_to_research_queue` con `summary`/`source_metadata` (bypass).
 - **Verificación**: `scripts/test_worker.py` 3/3 (FSM/lock/retry, bypass, process_item E2E con mocks: fuente registrada, página wiki materializada, 0 citas huérfanas). La adquisición real (claude -p paper-search) + LLM se ejercitan en F8.
 
-**PENDIENTE (Fase 8):**
-- **F8 E2E atlas**: `bibliografia.csv` está en `/home/dae/PycharmProjects/atlas_teleosemantico/data/bibliografia.csv` (49 papers neurociencia del lenguaje, col `doi`/`titulo`/`autores`). Pasos: `create_project("atlas-teleosemantico", seed_from_templates=True)` + editar su scope.md + encolar 3-5 DOIs + `worker.py` (acquirer real) + ventana batch index + `search_corpus(project=["proxy","atlas-teleosemantico"])` cruza ambos. **Riesgo**: scihub/arxiv inestable, `claude -p` + paper-search MCP en subprocess (validar config), LLM real (minutos/paper). **Pendiente**: indexado de raw chunks de paper (Layer 0) — el MVP indexa la wiki (Layer 1 focal); cross-search funciona vía wiki.
+**F8 HECHO y verificado (Fase 8 — E2E atlas, cross-search proxy+atlas):**
+- **Proyecto `atlas-teleosemantico`** creado (seed_from_templates) + `scope.md` propio: **teoría de la mente bajo paradigma teleosemántico** (el lenguaje es UN pilar, no el centro; pilares: teleosemántica/contenido, ToM/metarrepresentación, sustrato neural, jerarquía transdominio, evolución, afecto/percepción).
+- **Pipeline real ejecutado**: `claude -p` (summarize + extract) sobre un paper **full-text real** ("How to measure metacognition", Fleming & Lau 2014, Frontiers, 9 pp / 60K chars, open-access bajado directo de Frontiers) vía el **worker** con **bypass seguro por content-hash** → **17 páginas atlas** (concepts: meta-d′, AUROC2, Brier, SDT tipo-2, sensibilidad/sesgo/eficiencia metacognitiva; authors: Lau/Nelson/Brier; synthesis: "metacognición como índice de conciencia"). 32 citas paper, 43 relaciones.
+- **Cross-search verde**: `search_corpus(project=["proxy","atlas-teleosemantico"])` devuelve hits de **ambos** corpus intercalados con `project_id` de procedencia (`projects_seen=['atlas-teleosemantico','proxy']`); `project="proxy"` **aísla** (cero fuga de atlas).
+
+**Quirks de adquisición (F8)**: descarga de PDF real inestable — `download_paper` scihub no resuelve estos DOIs de revista (scraper), `semantic` 403, `wiley` exige `WILEY_TDM_TOKEN`. **Funcionó**: bajar open-access directo (Frontiers/PLOS/eLife/PNAS) con `curl` y archivar por hash → `add_request(source_file_hash=...)` (bypass seguro). El `ClaudePaperAcquirer` autónomo (claude -p + paper-search MCP) queda sin validar end-to-end (run_claude no pasa `--allowedTools`).
+
+**REFACTOR COMPLETO. Backlog / siguientes (no del refactor):**
+- **IdeaBlock**: el chunk = unidad-idea sintetizada (theme + afirmaciones), NO chunk crudo — ya es así vía summarizer. Q&A contextualizada DESCARTADA (Q genérica homogeneiza embeddings; revisitar solo tras un eval que demuestre ganancia).
+- **Layer 0 papers**: el worker indexa wiki (Layer 1 focal); falta indexar raw chunks de paper (PaperAdapter.parse_summary_to_chunks → Qdrant) para retrieval fino.
+- **page_domains de papers**: el extractor lean emite `domain_primary` escalar pero no lista `domain[]` → `page_domains` vacío para atlas (añadir `domain[]` al output del extractor).
+- **ClaudePaperAcquirer**: ampliar `run_claude` con `--allowedTools`/`--permission-mode` para adquisición autónoma; o integrar librería directa.
+- **Bypass ProxySummaries (youtube)**: el canal de entrada legacy (summary inline) está implementado en cola+worker; falta el hook en ProxySummaries que llame a `add_to_research_queue`.
+- **F4 pendiente menor**: generalización profunda de `extract_video_themes` (diferida; papers usan extractor lean).
 - **F6** `ariadna/source_archive.py` (data/sources/<hash>) + `ariadna/summarize/` (PDF→summary.md p.NN, porta patrón ProxySummaries) + PaperAdapter.
 - **F7** `scripts/worker.py` (FSM research_queue, paper-search MCP vía `claude -p`, ventana batch Qdrant).
 - **F8** E2E atlas: create_project + descargar DOIs de `atlas_teleosemantico/data/bibliografia.csv` + encolar + worker + cross-search.

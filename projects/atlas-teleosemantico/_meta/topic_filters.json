@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "description": "Plantilla por defecto. Filtros declarativos que descartan bloques temáticos antes del extractor. Copiar a projects/<slug>/_meta/topic_filters.json y editar.",
+  "include_domains": [],
+  "exclude_domains": [],
+  "exclude_blocks": []
+}
