@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–5 HECHAS; ver bloque abajo).
+> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–6 HECHAS; ver bloque abajo).
 
 ---
 
@@ -35,9 +35,18 @@
 - **Fix**: `Searcher.resolve_projects` refresca `_known_projects` en miss (proyecto creado en caliente sin reiniciar).
 - **`verify_phase2.py` relleno (24 checks, server vivo, auto-limpieza vp2-*)**: **24/24 ✓** (slugs inválidos, INCOMPATIBLE_OPTIONS, seed/inherit idénticos, detección youtube/paper/pdf/web/unknown, idempotencia, cancel FSM, INVALID_STATUS, obsolete tools removed, cross-project). test_hybrid 8/8 (7 tools). `data/ariadna.db.projects` tiene fila `proxy`.
 
-**Estado runtime:** search.py lee ariadna.db; **7 tools MCP** (search_corpus, get_wiki_page + 5 de gestión). Server vivo en :8080. `data/wiki.db` fuera del runtime (retirable). **OJO Mattermost**: cambió el set de tools (Refresh Tools necesario; get_video_summary/list_videos ya no existen).
+**F6 HECHO y verificado (Fase 6 — source archive + summarizer nativo + extractor paper lean):**
+- **`ariadna/source_archive.py`**: content-addressable `data/sources/<hash[:2]>/<hash>.<ext>` + tabla `source_files`. `store()` idempotente por sha256.
+- **`ariadna/summarize/`**: summarizer nativo (patrón ProxySummaries portado). `run_claude.py` (`claude -p` agnóstico), `prompts.py` (`SUMMARY_PROMPT_PAPER_ES` markers [p.NN] + `validate_summary` generalizada), `pdf_extract.py` (pymupdf → [p.NN]), `generate.py` (PDF→summary.md). Dep nueva **pymupdf**.
+- **`ariadna/sources/paper.py`**: `parse_summary_to_chunks` (- p.NN 🎭 → GenericChunk) + `summarize()` nativo; fix `citation_link_re` (DOI corta en `#`). `YoutubeAdapter.summarize` = seam diferido (proxy va por bypass).
+- **DECISIÓN F6.4 (acordada)**: NO unificar el motor de YouTube (3991 líneas, riesgo parity). `extract_video_themes.py` queda **intacto**. Papers usan un extractor **LEAN nuevo**: `ariadna/extract/paper.py` (1 llamada LLM/paper → páginas JSON → materialización determinista a .md con citas `[title, p.N](doi#page=N)`). Ambos viven tras la interfaz del adapter.
+- **ARQUITECTURA (acordada con el usuario)**: Ariadna es **universal con summarizer nativo por fuente**; el paso `summarize` del worker es **SALTABLE** vía bypass *bring-your-own-summary* (ProxySummaries como gestor del canal encola vídeos ya sumarizados con `summary` inline → skip). YouTube-nativo = seam diferido (sin consumidor inmediato).
+- **Verificación**: `scripts/test_summarize.py` 4/4 + `scripts/test_extract_paper.py` 4/4 (deterministas, sin red/LLM). La llamada LLM real (summarize + extract) se ejercita en F8.
 
-**PENDIENTE (Fases 6–8):**
+**Estado runtime:** search.py lee ariadna.db; **7 tools MCP**. Server vivo en :8080. `data/wiki.db` fuera del runtime. **OJO Mattermost**: cambió el set de tools (Refresh Tools necesario).
+
+**PENDIENTE (Fases 7–8):**
+- **F6.4-resto / F7 worker** debe: encolar→`source_archive.store`(PDF)→`PaperAdapter.summarize` (si no hay bypass)→`extract_paper_to_pages`+`materialize_pages`→`build_wiki_db --project`→index (ventana batch). Implementar `add_to_research_queue` con `summary`/`source_metadata` opcionales (bypass) en F7.
 - **F6** `ariadna/source_archive.py` (data/sources/<hash>) + `ariadna/summarize/` (PDF→summary.md p.NN, porta patrón ProxySummaries) + PaperAdapter.
 - **F7** `scripts/worker.py` (FSM research_queue, paper-search MCP vía `claude -p`, ventana batch Qdrant).
 - **F8** E2E atlas: create_project + descargar DOIs de `atlas_teleosemantico/data/bibliografia.csv` + encolar + worker + cross-search.
