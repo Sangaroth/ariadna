@@ -64,6 +64,6 @@ def generate_paper_summary(
     return generate_summary(
         source_input, title, SUMMARY_PROMPT_PAPER_ES, n_units=len(pages),
         model=model, run_claude_fn=run_claude_fn,
-        min_topics=min_topics,
+        min_topics=min_topics, min_bullets=1,  # tolerante: un IdeaBlock con 1 afirmación vale
         max_ordinal=len(pages),  # ninguna página citada puede exceder el total
     )

@@ -80,6 +80,7 @@ def validate_summary(
     min_topics: int = 3,
     max_topics: int = 80,
     max_ordinal: int | None = None,
+    min_bullets: int = 2,
 ) -> list[str]:
     """Valida un sumario generado. Devuelve lista de problemas (vacía = válido).
 
@@ -113,8 +114,8 @@ def validate_summary(
         start = m.end()
         end = matches[i].start() if i < len(matches) else len(summary)
         bullets = re.findall(r"^\s+- .+", summary[start:end], re.MULTILINE)
-        if len(bullets) < 2:
-            issues.append(f"Tema {i} tiene {len(bullets)} detalle(s) (mínimo 2)")
+        if len(bullets) < min_bullets:
+            issues.append(f"Tema {i} tiene {len(bullets)} detalle(s) (mínimo {min_bullets})")
 
     lower = summary.lower()
     for pat in _ARTIFACT_PATTERNS:
