@@ -14,13 +14,18 @@ from typing import Any
 
 from ariadna.sources.base import CitationRef, GenericChunk, Position
 
-# Cita de paper en la prosa: '[Título, p.7](https://doi.org/10.x)' (sección opcional).
+# Cita de paper en la prosa: '[Título, p.7](https://doi.org/10.x#page=7)'. El DOI no
+# contiene '#', así que se corta en el fragmento (la página ya va en el grupo p.NN).
 _PAPER_CITATION_RE = re.compile(
-    r"\[([^\]]+?),\s*p\.(\d+)(?:s([\w.]+))?\]\(https?://(?:dx\.)?doi\.org/([^)\s]+)\)"
+    r"\[([^\]]+?),\s*p\.(\d+)(?:s([\w.]+))?\]\(https?://(?:dx\.)?doi\.org/([^)#\s]+)"
+    r"(?:#[^)\s]*)?\)"
 )
 
 # Marker de página en el summary del paper: '- p.7 🎭 Título' (análogo a '- MM:SS …').
 _PAGE_MARKER_RE = re.compile(r"^- p\.(\d+)(?:s([\w.]+))?\s+(?P<theme>\S.*?)$", re.MULTILINE)
+
+# Bullets dentro de un tema: línea indentada con 2+ espacios + '- ' (igual que youtube).
+_BULLET_RE = re.compile(r"^\s{2,}- (.+?)[,.]?$", re.MULTILINE)
 
 # DOI / arXiv en una URL o identificador crudo.
 _DOI_RE = re.compile(r"(10\.\d{4,9}/[-._;()/:a-zA-Z0-9]+)")
@@ -105,9 +110,57 @@ class PaperAdapter:
     def summary_marker_re(self) -> re.Pattern[str]:
         return _PAGE_MARKER_RE
 
-    # --- adquisición / parsing (F6/F7) ------------------------------------- #
-    def parse_summary_to_chunks(self, *args: Any, **kwargs: Any) -> list[GenericChunk]:
-        raise NotImplementedError("PaperAdapter.parse_summary_to_chunks llega en F6")
+    # --- parsing de sumarios a chunks -------------------------------------- #
+    def parse_summary_to_chunks(
+        self,
+        summary_md: str,
+        source_id: str,
+        title: str,
+    ) -> list[GenericChunk]:
+        """Parsea un summary.md de paper ('- p.NN 🎭 Título' + bullets) a GenericChunk.
+
+        Paralelo a YoutubeAdapter.parse_summary_to_chunks: a diferencia del youtube
+        (que saca video_id/title de meta.json), aquí el caller pasa el source_id
+        canónico ('doi:...') y el título del paper.
+        """
+        headers = list(_PAGE_MARKER_RE.finditer(summary_md))
+        out: list[GenericChunk] = []
+        for i, m in enumerate(headers):
+            page = int(m.group(1))
+            section = m.group(2)
+            theme = m.group("theme").strip()
+            body_start = m.end()
+            body_end = headers[i + 1].start() if i + 1 < len(headers) else len(summary_md)
+            bullets = [b.group(1).strip() for b in _BULLET_RE.finditer(summary_md[body_start:body_end])]
+            if not bullets:
+                continue
+            content = "\n".join(f"- {b}" for b in bullets)
+            pos_data: dict[str, Any] = {"page": page}
+            if section:
+                pos_data["section"] = section
+            position = Position(pos_data, key=self.position_key(pos_data))
+            url = self.format_position_url(source_id, pos_data)
+            out.append(
+                GenericChunk(
+                    source_id=source_id,
+                    source_type=self.source_type,
+                    title=title,
+                    position=position,
+                    position_url=url,
+                    cite_markdown=self.cite_markdown(title, pos_data, url),
+                    theme=theme,
+                    content=content,
+                    full_text=f"{theme}\n\n{content}",
+                    extra={"page": page, "section": section},
+                )
+            )
+        return out
+
+    # --- adquisición / sumarización (F6/F7) -------------------------------- #
+    def summarize(self, blob: bytes, title: str, *, model: str | None = None) -> str:
+        """PDF → summary.md (markers [p.NN]) vía el summarizer nativo de Ariadna."""
+        from ariadna.summarize import generate_paper_summary
+        return generate_paper_summary(blob, title=title, model=model)
 
     def fetch_metadata(self, url: str) -> Any:
         raise NotImplementedError("PaperAdapter.fetch_metadata (paper-search) llega en F6")

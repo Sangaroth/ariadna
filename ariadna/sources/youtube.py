@@ -110,6 +110,16 @@ class YoutubeAdapter:
             title=title_clean,
         )
 
+    # --- sumarización nativa (seam diferido) ------------------------------- #
+    def summarize(self, blob: bytes, title: str, *, model: str | None = None) -> str:
+        """Transcripción → summary.md [MM:SS]. Diferido: el canal proxy entra por
+        bypass (ProxySummaries ya provee el sumario). Se implementará cuando aterrice
+        un proyecto youtube-nativo (requiere bajar transcripción + dep/red)."""
+        raise NotImplementedError(
+            "YoutubeAdapter.summarize diferido — usa el bypass bring-your-own-summary "
+            "para fuentes ya sumarizadas (ProxySummaries)"
+        )
+
     # --- parsing de sumarios a chunks -------------------------------------- #
     def parse_summary_to_chunks(
         self,
