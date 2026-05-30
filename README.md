@@ -2,291 +2,276 @@
 
 > Hilo que guía por el laberinto del conocimiento acumulado.
 
-**⚠ Prototipo en desarrollo activo.** Servidor MCP de RAG sobre un corpus YouTube saneado, integrado con Mattermost AI plugin. Pipeline operativo end-to-end; refactor multi-proyecto en plan (no ejecutado todavía).
+**⚠ Prototipo en desarrollo activo.** Servidor MCP que da memoria de largo plazo a cualquier LLM, sobre corpus de conocimiento saneado y organizado por proyectos. Integrado con el plugin Agents de Mattermost.
 
-El usuario interactúa con cualquier LLM (GPT, Claude, Grok, Gemini, local) en Mattermost; al fondo, el MCP server resuelve consultas semánticas sobre la wiki estructurada y los chunks RAG del corpus.
+---
+
+## 1. La idea, en cristiano
+
+Imagina que cualquier LLM (GPT, Claude, Grok, Gemini, uno local…) pudiera consultar **una biblioteca de conocimiento curado** en lugar de improvisar desde lo que recuerda de su entrenamiento. Ariadna es esa biblioteca, expuesta a través de un protocolo estándar (MCP) que el LLM entiende.
+
+Cuatro ideas bastan para entenderlo:
+
+**1. Es conocimiento para un LLM genérico, no un chatbot.**
+Ariadna no responde a nadie directamente. Es un *servidor* al que el LLM le pregunta. El LLM sigue siendo quien razona y redacta; Ariadna solo le pasa material fiable y trazable. Cambia de LLM cuando quieras: el conocimiento se queda.
+
+**2. El conocimiento son dos cosas, agrupadas por proyecto.**
+- **IdeaBlocks** — unidades pequeñas que capturan *una idea clara*, ancladas a su cita exacta (timestamp de vídeo, página de PDF). Es lo que el LLM recupera por búsqueda semántica: el RAG. Concepto inspirado en [Blockify](https://blockify.ai): optimizar texto desordenado en bloques atómicos y trazables.
+- **Wiki** — páginas estructuradas que destilan, deduplican y conectan esos IdeaBlocks (conceptos, autores, obras, síntesis), entrelazadas en un grafo. Es la capa donde la compresión y la limpieza se hacen explícitas.
+
+Y todo eso vive dentro de un **proyecto**: una tesis, un canal de YouTube, una investigación sobre sueños, un atlas de papers… Cada proyecto tiene su propio corpus, su wiki y su alcance editorial, compartimentados.
+
+**3. El proyecto lo decide el contexto de trabajo del LLM.**
+Según en qué esté trabajando el LLM, consulta sobre un proyecto concreto. Pero puede **cruzar la búsqueda entre varios proyectos a la vez**, o lanzarla **contra todos** cuando un concepto atraviesa dominios. Coste cero: es un filtro, no copias de datos.
+
+```
+buscar("hieros gamos",  proyecto="proxy")              # solo un proyecto
+buscar("alostasis",     proyecto=["proxy", "tesis"])   # unión de varios
+buscar("realismo cognitivo")                           # todos (por defecto)
+```
+
+**4. Se le pide que incorpore material nuevo, y va a una cola.**
+Mediante comandos, el LLM (o tú) puede pedir **integrar un recurso nuevo** — un vídeo, un PDF, un paper por DOI, un blog… El recurso queda **en cola**, y un proceso de fondo lo descarga, lo resume, lo convierte en IdeaBlocks + wiki, y lo indexa. La consulta es instantánea (camino *hot*); la ingesta es asíncrona (camino *cold*).
+
+> **Arquitectura en una frase:** *el corpus es el activo, MCP es el contrato, el LLM es reemplazable.*
+
+---
+
+## 2. Los tres sustantivos clave
+
+| Concepto | Qué es | Dónde vive |
+|---|---|---|
+| **Proyecto** | Unidad de compartimentación: corpus + wiki + alcance editorial propios. Comparten infraestructura, pero los datos están aislados (`project_id`). | `projects/<slug>/` |
+| **IdeaBlock** | Unidad pequeña de *una idea clara*, anclada a su cita (timestamp/página) e indexada vectorialmente (BGE-M3 + Qdrant). Concepto tomado de [Blockify](https://blockify.ai). En Ariadna nacen ya semi-destilados (provienen de *summaries* temáticos, no de transcripción cruda). Internamente: `GenericChunk`. | Qdrant + `data/ariadna.db` |
+| **Wiki** | La capa donde la destilación se completa: páginas markdown que dedup­lican y conectan los IdeaBlocks por entidad/concepto/autor/obra, con `relations[]` tipadas que forman un grafo navegable. | `projects/<slug>/wiki/` |
+
+Búsqueda **específica** cuando importa el alcance de un dominio; **cross-all** cuando una idea cruza dominios.
+
+---
+
+## 3. Las capas de conocimiento (modelo "LLM Wiki" de Karpathy)
+
+```
+LAYER 0  —  IdeaBlocks crudos (Qdrant + BGE-M3): fuente de verdad indexada
+LAYER 1  —  Wiki estructurada en markdown: páginas por entidad/concepto/autor/obra
+LAYER 2  —  Grafo emergente: el conjunto de wikilinks + relations[] tipadas ES el grafo
+LAYER 3  —  scope.md: contrato editorial entre corpus crudo y wiki (qué entra y por qué)
+```
+
+Cada capa se añade encima sin romper las anteriores, y se accede vía el mismo cliente MCP. El extractor LLM (sub-agente in-loop con `scope.md` como guía) construye y mantiene la wiki sin firma humana en el camino feliz. Roadmap por capas en [docs/PHASES.md](docs/PHASES.md).
+
+---
+
+## 4. Arquitectura técnica
 
 ![Arquitectura: HOT path (query realtime) + COLD path (workers) + Multi-tenant (proyectos compartimentados con búsqueda cruzada)](docs/images/architecture-multi-tenant.png)
 
-> Diagrama anterior (mono-corpus, sin multi-tenant): [docs/images/architecture.png](docs/images/architecture.png)
+Dos flujos desacoplados:
 
-## Qué es y qué no es
+- **HOT (consulta, <500 ms)** — el LLM llama a `search_corpus`; el MCP recupera IdeaBlocks + páginas wiki candidatas (con `body_snippet`), rerankea y devuelve material trazable. El LLM filtra y profundiza solo en lo que necesita vía `get_wiki_page`.
+- **COLD (ingesta, asíncrona)** — recursos encolados → descarga → resumen → extracción de IdeaBlocks y wiki → indexado. Hoy: adaptadores `youtube` y `paper`, summarizer nativo, y bypass *bring-your-own-summary* (un gestor de canal puede encolar material ya resumido).
 
-- ✅ **Es:** un servidor MCP read-only que expone un corpus saneado a cualquier LLM compatible
-- ✅ **Es:** una arquitectura de dos flujos — consulta hot (RAG) y generación cold (extractor LLM offline)
-- ✅ **Es:** **prototipo** funcional sobre un corpus específico (YouTube de Proxy), con plan de generalización multi-proyecto
-- ❌ **No es:** un wrapper alrededor de un LLM concreto — el LLM es intercambiable
-- ❌ **No es:** una solución end-to-end — necesitas un cliente MCP (ej. Mattermost AI plugin v2.0.0-rc1+)
-- ❌ **No es:** producción — orquestación todavía manual, sin CI, sin observabilidad sistemática
+**Decisiones de diseño cerradas:**
 
-## Arquitectura en una frase
+- Un solo Qdrant collection + `project_id` en el payload (no collection-per-project).
+- Un solo SQLite `data/ariadna.db` (15 tablas, WAL) con todo el estado relacional.
+- Aislamiento **total** por proyecto (wiki/chunks/citations/authors llevan `project_id`); **solo el archivo de fuentes es global**.
+- Defaults editoriales en `wiki/_meta/*_default.*`; overrides en `projects/<slug>/_meta/`.
+- Filtro `project` polimórfico `str | list[str] | None` → cross-search a N proyectos, coste cero.
 
-**El corpus es el activo, MCP es el contrato, el LLM es reemplazable.** Detalle en [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+> Diagrama mono-corpus anterior (histórico): [docs/images/architecture.png](docs/images/architecture.png) · Compartimentación multi-proyecto: [docs/images/multi-tenant-compartimentation.png](docs/images/multi-tenant-compartimentation.png)
 
-## Capas de evolución (Karpathy "LLM Wiki")
+Argumentación completa en [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
-```
-LAYER 0  —  Raw chunks (Qdrant + BGE-M3): fuente de verdad indexada
-LAYER 1  —  Wiki estructurada en markdown (wiki/): páginas por entidad/concepto/autor/obra
-LAYER 2  —  Grafo emergente: el conjunto de wikilinks + relations[] tipadas ES el grafo
-LAYER 3  —  Scope.md: contrato editorial entre corpus crudo y wiki (qué entra y por qué)
-```
+---
 
-Cada capa se añade encima sin romper las anteriores, y se accede vía el mismo cliente MCP. El extractor LLM (sub-agente in-loop con scope.md como guía) construye y mantiene la wiki sin firma humana en el camino feliz. Roadmap completo en [docs/PHASES.md](docs/PHASES.md).
+## 5. Estado actual (2026-05-30)
 
-## Estado actual (2026-05-16)
+El refactor a multi-proyecto **ya está ejecutado y verificado** (Fases 0–6.4). El sistema opera por proyectos; queda el worker que vacía la cola (F7) y el primer proyecto-papers end-to-end (F8).
 
 | Componente | Estado |
 |---|---|
-| Layer 0 — RAG dense BGE-M3 + Qdrant + MCP server | ✅ Operativo |
-| Reranker cross-encoder + retrieval indirecto via citations | ✅ Operativo |
-| Layer 1 — Wiki estructurada | ✅ **223 páginas** (78 conceptos, 15 autores, 73 obras, 56 syntheses) |
-| Pipeline push-based extractor LLM (Karpathy) | ✅ **296 / 296 vídeos procesados** (100% del corpus) |
-| Semantic recovery (LLM judge sobre discarded) | ✅ Cache idempotente con `applied_at` flag, 119 high matches aplicados |
-| Integración Mattermost AI plugin | ✅ Validada (per-tool approval, ngrok tunnel) |
-| **Refactor multi-tenant** (Project + research queue) | 🟡 Spec aprobada + plan 9 chunks, **ejecución pendiente** |
-| Cold path con voluntarios + ingesta multi-formato (PDF, HTML, papers) | ⏳ Spec separada futura |
+| Layer 0 — RAG dense BGE-M3 + Qdrant + reranker cross-encoder | ✅ Operativo |
+| Layer 1 — Wiki estructurada (proyecto `proxy`) | ✅ **222 páginas** · ~6.259 IdeaBlocks · 329 fuentes |
+| Layer 2 — Grafo tipado (`relations[]`) | ✅ Operativo |
+| **Modelo universal de referencias** (youtube/paper/pdf/web/blog) | ✅ Adaptadores + `source_archive` + summarizer nativo |
+| **Multi-proyecto** (aislamiento por `project_id`, búsqueda cruzada) | ✅ **Operativo y verificado** |
+| **7 tools MCP** (incl. crear proyecto + cola de ingesta) | ✅ Operativo |
+| Integración Mattermost AI plugin | ✅ Validada (per-tool approval, ngrok) |
+| **Worker de ingesta** (vacía la cola: descarga→resumen→wiki→index) | 🟡 Pendiente (F7) |
+| Segundo proyecto E2E (`atlas-teleosemantico`, papers vía DOI) | 🟡 Pendiente (F8) |
 | Despliegue producción (Hetzner, URL fija, observabilidad) | ⏳ Pendiente |
 
-Estado vivo en [docs/NEXT_SESSION.md](docs/NEXT_SESSION.md).
+Estado vivo y detallado en [docs/NEXT_SESSION.md](docs/NEXT_SESSION.md).
 
-## Roadmap próxima fase: multi-tenant
+---
 
-Ariadna nació mono-corpus (canal Proxy YouTube). La siguiente fase la convierte en plataforma multi-proyecto, donde cada proyecto (tesis, gadgets, investigación de sueños, etc.) tiene su scope + wiki + cola de ingesta propios, compartiendo infraestructura.
+## 6. Tools MCP expuestas
 
-![Multi-tenant: 3 proyectos compartimentados, infraestructura común y 3 ejemplos de búsqueda cruzada](docs/images/multi-tenant-compartimentation.png)
+**Consulta (read):**
 
-**Decisiones cerradas durante brainstorming (2026-05-16):**
+- **`search_corpus(query, top_k=5, top_k_wiki=2, project=None, category=None, playlist=None)`** — búsqueda híbrida con reranker + retrieval indirecto vía wiki citations. `project` acepta `str | list | None` (None = todos los proyectos). Devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended` y `projects_seen`. Las `wiki_pages` traen `body_snippet` (~800 chars: H1 + primer H2 + tesis central) + `relations[]` tipadas. Schema: [docs/RESPONSE_FLOW.md §10](docs/RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30).
+- **`get_wiki_page(page_id, project=None, include_citations=False)`** — página wiki completa. Por defecto trima la sección `## Citations` (provenance que puede ser KB enteros); `include_citations=True` para recuperarla. Cross-all: desempata por `indexed_at` y expone `projects_with_this_id`.
 
-- Single Qdrant collection + `project_id` en payload (no collection-per-project)
-- Single SQLite `data/ariadna.db` con todo el estado relacional
-- Defaults editoriales en `wiki/_meta/*_default.*`, overrides en `projects/<slug>/_meta/*.*`
-- Relation types: core globales + extensions per-proyecto
-- MCP gana tools write: `create_project`, `add_to_research_queue`, `cancel_request`
-- Workers que procesan la cola = scope futuro, desacoplados del MCP
-- Cross-project wikilinks/relations NO en MVP
+**Gestión de proyectos y cola (write):**
 
-**Búsqueda cruzada por defecto**, filtro opt-in:
+- **`create_project(slug, ...)`** — crea un proyecto nuevo (seed desde plantillas o herencia de otro).
+- **`list_projects(include_archived=False)`** — lista proyectos con su nº de IdeaBlocks.
+- **`add_to_research_queue(...)`** — encola un recurso nuevo (vídeo/pdf/paper/web…). Idempotente; autodetecta el tipo de fuente.
+- **`list_research_queue(...)`** — estado de la cola de ingesta.
+- **`cancel_request(request_id, reason="")`** — cancela una petición (FSM `pending|failed → cancelled`).
 
-```python
-search_corpus("hieros gamos", project_id="proxy")            # solo proxy
-search_corpus("alostasis", project_id=["proxy", "tesis"])    # unión específica
-search_corpus("realismo cognitivo")                          # cross-all (default)
+> Nota: las tools `get_video_summary` y `list_videos` (mono-corpus) fueron **retiradas** en el refactor universal. Si actualizas un cliente Mattermost ya conectado, haz **Refresh Tools**.
+
+---
+
+## 7. Ejemplo de flujo (request real)
+
+Usuario en Mattermost: _"¿Cómo conecta la alostasis con el wokismo?"_
+
+```
+1. El plugin dispara: search_corpus(query="alostasis wokismo")
+   → MCP responde en <500ms con:
+       - wiki_pages[]: candidatas con body_snippet (~800 chars c/u)
+       - raw_chunks[] (IdeaBlocks): con cite_markdown
+       - retrieval_metadata.mode_recommended: "balanced"
+
+2. El LLM lee snippets + relations[] tipadas, identifica las 2 pages clave:
+       - get_wiki_page("alostasis-y-apagon-organico")        → body completo
+       - get_wiki_page("woke-narrativa-postmoderna-moral")   → body completo
+
+3. El LLM cruza ambas pages y cita IdeaBlocks con timestamps clicables:
+       "El wokismo no sería la alostasis, sino una mala gestión psíquica de
+        la alostasis... → [Wokismo para Wokes (1:25:25)](https://youtu.be/...)"
 ```
 
-Específico cuando interesa el alcance de un dominio; cross-all cuando un concepto cruza dominios.
+El `body_snippet` permite filtrar entre N páginas antes de invocar `get_wiki_page` solo en las 1-3 que de verdad necesita. Para queries cross-conceptuales, eso ahorra ~95% de tokens vs servir bodies completos.
 
-Specs:
-- [docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md](docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md) (858 líneas)
-- [docs/superpowers/plans/2026-05-16-multi-project-and-research-queue.md](docs/superpowers/plans/2026-05-16-multi-project-and-research-queue.md) (9 chunks, ≈6400 líneas)
-- [docs/AGENT_HANDOFF_2026-05-16.md](docs/AGENT_HANDOFF_2026-05-16.md) — handoff a sesión ejecutora
+**Coste medido (gpt-5.4-mini, mayo 2026 — $0.75/M in + $4.50/M out):**
 
-## Requisitos
+| Config Mattermost AI plugin | Coste/query | Anual @ 100q/d |
+|---|---|---|
+| Reasoning Medium + Native Web Search ON | $0.12 | $4.400 |
+| **Reasoning Low + Web Search OFF (recomendado)** | **$0.01** | **$365** |
 
-- Python 3.13+
-- GPU con CUDA recomendable para indexado rápido (BGE-M3 funciona en CPU pero más lento)
-- Qdrant embebido en disco via `qdrant-client` (no requiere servidor separado)
-- Claude Code CLI (`claude`) autenticado con Anthropic Max — para extractor LLM offline
-- Corpus fuente generado por proyecto separado [ProxySummaries](https://github.com/Sangaroth/ProxySummaries) con estructura `<categoría>/<vídeo>/{summary.md, meta.json}`
+12x de diferencia. El reasoning Medium añade ~10-15K tokens de chain-of-thought (cobrados como output); bajarlo a Low los reduce a ~1-3K sin pérdida apreciable para RAG + síntesis con citas. Web Search OFF garantiza honestidad epistémica (el bot solo razona desde el corpus).
 
-## Instalación
+**Settings recomendados** (Mattermost AI plugin → Agents → tu bot): Web Search **off**, Reasoning **Low**, input token limit 150000, streaming timeout 120s.
+
+---
+
+## 8. Instalación y uso (camino corto)
+
+**Requisitos:** Python 3.13+ · GPU CUDA recomendable (BGE-M3 va en CPU, más lento) · Qdrant embebido en disco (sin servidor separado) · Claude Code CLI autenticado para el extractor LLM offline.
 
 ```bash
 git clone https://github.com/Sangaroth/ariadna.git
 cd ariadna
-uv venv
-source .venv/bin/activate
+uv venv && source .venv/bin/activate
 uv pip install -e ".[dev]"
 ```
 
-## Uso (camino corto)
-
-### 1. Indexar el corpus
-
 ```bash
-.venv/bin/python scripts/index_wiki_to_qdrant.py
-```
+# 1. Indexar la wiki de un proyecto en Qdrant (server PARADO: lock embedded)
+.venv/bin/python scripts/index_wiki_to_qdrant.py --project proxy
 
-Genera embeddings BGE-M3 de las wikis y los persiste en `data/qdrant/` (gitignored).
-
-### 2. Levantar el MCP server
-
-```bash
-.venv/bin/python -m ariadna.mcp_server
+# 2. Levantar el MCP server (--warm precarga el searcher)
+.venv/bin/python -m ariadna.mcp_server --warm
 # Escucha en http://0.0.0.0:8080/mcp (ARIADNA_MCP_HOST / ARIADNA_MCP_PORT)
-```
 
-### 3. Exponer al exterior (desarrollo)
-
-```bash
+# 3. Exponer al exterior (desarrollo)
 ngrok http 8080
-# https://abc123.ngrok-free.app/mcp → http://localhost:8080/mcp
-```
 
-### 4. Integrar con Mattermost
-
-Guía paso a paso en [docs/INTEGRACION_MATTERMOST.md](docs/INTEGRACION_MATTERMOST.md):
-
-- Plugin **Agents v2.0.0-rc1+** (per-tool approval policy es bloqueante para UX)
-- System Console → Agents → MCP Servers → Server URL: `https://<your-tunnel>/mcp`
-- Tools tab → política `Auto Run (DM)` en las tools que uses
-
-### 5. Consultar desde CLI (sin Mattermost)
-
-```bash
+# 4. Consultar desde CLI (sin Mattermost)
 curl -s -X POST http://127.0.0.1:8080/mcp \
   -H "Content-Type: application/json" \
   -H "Accept: application/json, text/event-stream" \
   -d '{"jsonrpc":"2.0","id":1,"method":"tools/call","params":{"name":"search_corpus","arguments":{"query":"sombra junguiana","top_k":3}}}'
 ```
 
-## Tools MCP expuestas
+**Integrar con Mattermost** (guía: [docs/INTEGRACION_MATTERMOST.md](docs/INTEGRACION_MATTERMOST.md)): plugin **Agents v2.0.0-rc1+** (per-tool approval es bloqueante para UX) → System Console → Agents → MCP Servers → Server URL `https://<tu-tunnel>/mcp` → Tools tab → política `Auto Run (DM)`.
 
-- **`search_corpus(query, top_k=5, top_k_wiki=2, category=None, playlist=None)`** — búsqueda híbrida con reranker cross-encoder + retrieval indirecto vía wiki citations. Devuelve `{wiki_pages, raw_chunks, retrieval_metadata}` con `mode_recommended`. Las `wiki_pages` traen `body_snippet` (~800 chars: H1 + primer H2 + tesis central) + metadata estructural completa (`relations[]` con grafo tipado). Para el body completo de una página, usa `get_wiki_page`. Schema: [docs/RESPONSE_FLOW.md §10](docs/RESPONSE_FLOW.md#10-schema-autoritativo-vigente-desde-2026-04-30)
-- **`get_wiki_page(page_id, include_citations=False)`** — página wiki completa (markdown body). Por defecto trima la sección "## Citations" al pie (provenance que puede ser KB enteros). Pasa `include_citations=True` si necesitas la provenance explícita.
-- **`get_video_summary(video_id)`** — chunks completos de un vídeo en orden cronológico
-- **`list_videos(category=None, playlist=None)`** — listado filtrado de vídeos del corpus
+---
 
-## Ejemplo de flow (request real)
-
-Usuario en Mattermost pregunta: _"¿Cómo conecta la alostasis con el wokismo?"_
-
-```
-1. Plugin AI dispara: search_corpus(query="alostasis wokismo")
-   → MCP responde en <500ms con:
-       - wiki_pages[]: 6 candidatas con body_snippet (~500 chars cada una)
-         incluyendo alostasis-y-apagon-organico, woke-narrativa-postmoderna-moral,
-         camino-victima, herida-narcisista-en-proxy
-       - raw_chunks[]: 5 con cite_markdown
-       - retrieval_metadata.mode_recommended: "balanced"
-
-2. LLM lee snippets + relations[] tipadas, identifica las 2 pages clave:
-       - get_wiki_page("alostasis-y-apagon-organico")  → body completo ~15KB
-       - get_wiki_page("woke-narrativa-postmoderna-moral") → body completo ~12KB
-
-3. LLM construye respuesta cruzando ambas pages + citando chunks raw con
-   timestamps YouTube clicables:
-       "El wokismo no sería la alostasis, sino una mala gestión psíquica de
-        la alostasis... La activación permanente degenera en hiperreactividad
-        moral... → [Wokismo para Wokes (1:25:25)](https://youtu.be/...)"
-
-Trace completo de tool calls visible en el panel del plugin AI.
-```
-
-**Coste medido (gpt-5.4-mini, mayo 2026 — $0.75/M input + $4.50/M output):**
-
-| Config Mattermost AI plugin | Coste/query | Anual @ 100q/d |
-|---|---|---|
-| Reasoning Medium + Native Web Search ON | $0.12 | $4,400 |
-| **Reasoning Low + Web Search OFF (recomendado)** | **$0.01** | **$365** |
-
-La diferencia es 12x. El reasoning Medium del modelo añade ~10-15K chain-of-thought tokens internos por query (cobrados como output a $4.50/M); bajándolo a Low se reducen a ~1-3K sin pérdida apreciable de calidad para tareas de RAG + síntesis con citas. Web Search nativa OFF además garantiza honestidad epistémica (el bot solo razona desde el corpus, no improvisa con datos externos).
-
-Proyecciones realistas con config optimizada:
-- gpt-5.4-mini: ~$365/año @ 100q/d → **$30/mes para uso intensivo**
-- gpt-5.4 flagship: ~$1,500/año (~4x más caro, raro que aporte valor extra)
-- gpt-5.5: ~$4,500/año (overkill para RAG sobre corpus saneado)
-
-**Settings recomendados** en Mattermost AI plugin → Agents → tu bot:
-- Native OpenAI Tools → Web Search: **off**
-- Reasoning: **Low** (o Minimal si el bot tiene queries simples)
-- Input token limit: 150000 (safety cap, no real limit)
-- Streaming timeout: 120s
-
-El `body_snippet` permite al LLM filtrar entre N páginas devueltas antes de invocar `get_wiki_page` solo en las 1-3 que realmente necesita profundizar. Para queries cross-conceptuales eso reduce ~95% de tokens vs servir bodies completos en `search_corpus`.
-
-## Pipeline cold (generación de wiki)
+## 9. Pipeline cold (generación de wiki)
 
 ```bash
-# Procesar batch de vídeos del corpus
+# Reconstruir las tablas wiki de un proyecto en ariadna.db (puede correr con el server vivo)
+.venv/bin/python scripts/build_wiki_db.py --project proxy
+
+# Extractor LLM (YouTube, motor heredado — intacto por decisión de parity)
 .venv/bin/python scripts/extract_video_themes.py --run-id batch_X --limit 20
+.venv/bin/python scripts/extract_video_themes.py --resume batch_X      # reanudar
+.venv/bin/python scripts/semantic_recovery.py --apply --min-cosine 0.60 # recovery
 
-# Reanudar un run interrumpido
-.venv/bin/python scripts/extract_video_themes.py --resume batch_X
-
-# Aggregator manual sobre un run existente (sin re-llamar LLM)
-.venv/bin/python scripts/extract_video_themes.py --aggregate batch_X
-
-# Semantic recovery sobre discarded históricos (LLM judge sobre top-K cosine)
-.venv/bin/python scripts/semantic_recovery.py --apply --min-cosine 0.60
+# Validar el grafo de relaciones de un proyecto
+.venv/bin/python scripts/validate_wiki_relations.py --project proxy
 ```
 
-El extractor invoca Claude Opus 4.7 (vía suscripción Max) y emite JSON estructurado por vídeo (entities, pending_updates, thesis_candidates, discarded). Aggregator fusiona en colas de revisión. Schema-tolerant: ignora keys nuevos sin romper. Detalle en [docs/EXTRACTION_PIPELINE.md](docs/EXTRACTION_PIPELINE.md) y [docs/PIPELINE_REFACTOR_2026_05_02.md](docs/PIPELINE_REFACTOR_2026_05_02.md).
+Dos motores tras la misma interfaz de adaptador: **YouTube** (heredado, `extract_video_themes.py`, sub-agente in-loop) y **papers** (extractor LEAN nuevo, `ariadna/extract/paper.py`: 1 llamada LLM/paper → páginas JSON → materialización determinista con citas `[title, p.N](doi#page=N)`). Detalle en [docs/EXTRACTION_PIPELINE.md](docs/EXTRACTION_PIPELINE.md) y [docs/PIPELINE_REFACTOR_2026_05_02.md](docs/PIPELINE_REFACTOR_2026_05_02.md).
 
-## Estructura del repositorio
+---
+
+## 10. Estructura del repositorio
 
 ```
 ariadna/
-├── README.md
-├── pyproject.toml
 ├── ariadna/                          — código fuente
-│   ├── config.py                     — paths, modelo, Qdrant, MCP_HOST/PORT
-│   ├── parsers.py                    — markdown → Chunk dataclass
-│   ├── embeddings.py                 — wrapper BGE-M3
-│   ├── storage.py                    — wrapper Qdrant embedded
-│   ├── reranker.py                   — cross-encoder rerank
-│   ├── search.py                     — Searcher con retrieval indirecto + 2-pass citations
+│   ├── config.py · project_config.py — paths, modelo, Qdrant, ProjectConfig
+│   ├── sources/                      — modelo universal de fuentes
+│   │   ├── base.py · registry.py     — SourceAdapter Protocol + detección de tipo
+│   │   ├── youtube.py · paper.py     — adaptadores por tipo de fuente
+│   ├── summarize/                    — summarizer nativo (PDF→summary.md p.NN)
+│   ├── extract/paper.py              — extractor LEAN de papers (1 LLM call)
+│   ├── source_archive.py             — almacén content-addressable de fuentes
+│   ├── projects.py · research_queue.py — gestión de proyectos + cola de ingesta
+│   ├── parsers.py · embeddings.py · storage.py · reranker.py · search.py
 │   ├── semantic_recovery.py          — LLM judge sobre discarded + cache idempotente
-│   └── mcp_server.py                 — FastMCP server (4 tools)
-├── scripts/
-│   ├── extract_video_themes.py       — extractor LLM con sub-agente in-loop (Karpathy)
-│   ├── apply_pending_updates.py      — aplica diff-style ops con anchor literal único
-│   ├── compile_wiki_pages.py         — sync shadow_wiki → wiki real
-│   ├── build_wiki_db.py              — genera data/wiki.db (citations table)
-│   ├── index_wiki_to_qdrant.py       — indexa páginas wiki en Qdrant
-│   ├── scan_mentions_ledger.py       — pasada 1 recovery (sub-string match)
-│   └── semantic_recovery.py          — pasada 2 recovery (CLI thin wrapper)
-├── wiki/                             — base de conocimiento (223 pages)
-│   ├── concepts/                     — 78 conceptos
-│   ├── authors/                      — 15 autores canónicos
-│   ├── entities/works/               — 73 obras
-│   ├── synthesis/                    — 56 páginas síntesis (cross-cuts)
-│   └── _meta/
-│       ├── scope.md                  — contrato editorial v0.3
-│       ├── canonical_whitelist.json  — figuras canónicas con auto_promote
-│       ├── relation_types.json       — tipos relations[] permitidos
-│       ├── semantic_recovery_cache.json  — cache LLM judge (236 entries, applied_at)
-│       └── extraction_runs/          — JSONs commiteados (memoria operativa LLM)
-├── docs/
-│   ├── ARCHITECTURE.md               — argumentación de diseño
-│   ├── PHASES.md                     — roadmap por capas
-│   ├── EXTRACTION_PIPELINE.md        — pipeline push-based
-│   ├── PIPELINE_REFACTOR_2026_05_02.md — refactor v0.3 (16 secciones)
-│   ├── RESPONSE_FLOW.md              — schema autoritativo MCP
-│   ├── INTEGRACION_MATTERMOST.md     — guía cliente
-│   ├── NEXT_SESSION.md               — estado vivo del proyecto
-│   ├── AGENT_HANDOFF_2026-05-16.md   — handoff multi-tenant
-│   └── superpowers/
-│       ├── specs/2026-05-16-multi-project-and-research-queue-design.md
-│       └── plans/2026-05-16-multi-project-and-research-queue.md
-├── tests/
-├── data/qdrant/                      — vector DB persistente (gitignored)
-└── data/wiki.db                      — SQLite citations table (gitignored, regenerable)
+│   └── mcp_server.py                 — FastMCP server (7 tools)
+├── scripts/                          — index/build/migrate/verify/extract
+├── projects/<slug>/                  — datos por proyecto (aislados)
+│   ├── wiki/                         — concepts · authors · entities/works · synthesis
+│   └── _meta/                        — scope.md · whitelist · relation_types_ext · runs
+├── wiki/_meta/                       — defaults globales (relation_types_core + plantillas)
+├── data/
+│   ├── ariadna.db                    — SQLite, 15 tablas, estado relacional (gitignored)
+│   ├── qdrant/                       — vector DB persistente (gitignored)
+│   └── sources/                      — archivo content-addressable de fuentes
+└── docs/                             — ARCHITECTURE · PHASES · RESPONSE_FLOW · …
 ```
 
-## Limitaciones conocidas (estado prototipo)
+---
 
-- **Mono-corpus**: hoy todo el código asume el canal Proxy. Refactor a multi-tenant planificado.
-- **Orquestación manual**: arrancar MCP, ngrok, monitorizar run del extractor — sin script wrapper único.
-- **Sin observabilidad sistemática**: logs en `logs/`, métricas ad-hoc, no dashboards.
-- **Coste extractor**: Claude Opus 4.7 vía suscripción Max (incluido, sin gasto extra) — pero limita paralelismo.
-- **Cold path manual**: nuevos vídeos requieren `ProxySummaries` corriendo en otro proyecto + lanzamiento manual de `extract_video_themes.py`. La cola de investigación con workers desacoplados es spec futura.
-- **Idempotencia con caveats**: el cache `semantic_recovery_cache.json` usa `applied_at` flag; reset = borrar cache (decisión deliberada para no auditar estado del wiki tras edición humana).
-- **Citations sección al pie**: 5-7 KB por wiki hub. El MCP las trima por defecto en `get_wiki_page` (opt-in via `include_citations=True`).
+## 11. Qué es y qué no es
 
-## Documentación clave
+- ✅ **Es** un servidor MCP read-mostly que expone corpus saneado a cualquier LLM compatible.
+- ✅ **Es** una arquitectura de dos flujos: consulta *hot* (RAG) e ingesta/generación *cold*.
+- ✅ **Es** multi-proyecto: corpus compartimentados con búsqueda cruzada opt-in.
+- ❌ **No es** un wrapper de un LLM concreto — el LLM es intercambiable.
+- ❌ **No es** una solución end-to-end — necesitas un cliente MCP (ej. Mattermost AI plugin v2.0.0-rc1+).
+- ❌ **No es** producción — orquestación manual, sin CI, sin observabilidad sistemática.
 
-- **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** — argumentación de diseño: por qué desacoplar MCP del LLM, por qué dos flujos
+**Limitaciones conocidas (estado prototipo):**
+
+- **Worker de ingesta pendiente (F7)**: la cola (`add_to_research_queue`) acepta peticiones, pero el proceso que las vacía (descarga→resumen→wiki→index) aún no está implementado.
+- **Orquestación manual**: arrancar MCP, ngrok, monitorizar runs — sin wrapper único.
+- **Sin observabilidad sistemática**: logs en `logs/`, métricas ad-hoc, sin dashboards.
+- **Coste extractor**: Claude Opus vía suscripción Max (incluido, sin gasto extra) — pero limita paralelismo.
+- **Idempotencia con caveats**: `semantic_recovery_cache.json` usa flag `applied_at`; reset = borrar cache.
+
+---
+
+## 12. Documentación clave
+
+- **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** — por qué desacoplar MCP del LLM, por qué dos flujos
 - **[docs/PHASES.md](docs/PHASES.md)** — roadmap por fases con criterios de salto
-- **[docs/NEXT_SESSION.md](docs/NEXT_SESSION.md)** — estado vivo, decisiones, bugs conocidos, comandos útiles
-- **[docs/RESPONSE_FLOW.md](docs/RESPONSE_FLOW.md)** — schema autoritativo MCP con ejemplos JSON completos
+- **[docs/NEXT_SESSION.md](docs/NEXT_SESSION.md)** — estado vivo, decisiones, quirks, comandos útiles
+- **[docs/RESPONSE_FLOW.md](docs/RESPONSE_FLOW.md)** — schema autoritativo MCP con ejemplos JSON
 - **[docs/INTEGRACION_MATTERMOST.md](docs/INTEGRACION_MATTERMOST.md)** — guía paso a paso del cliente
-- **[docs/EXTRACTION_PIPELINE.md](docs/EXTRACTION_PIPELINE.md)** — pipeline push-based base
-- **[docs/PIPELINE_REFACTOR_2026_05_02.md](docs/PIPELINE_REFACTOR_2026_05_02.md)** — refactor v0.3 completo
-- **[docs/WIKI_GENERATION.md](docs/WIKI_GENERATION.md)** — pipeline de wiki estructurada con KG emergente
-- **[docs/TAXONOMY_PROPOSAL.md](docs/TAXONOMY_PROPOSAL.md)** — schema multi-fuente futuro (papers, libros, podcasts)
-- **[docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md](docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md)** — spec multi-tenant aprobada
-- **[wiki/README.md](wiki/README.md)** — base de conocimiento navegable
+- **[docs/EXTRACTION_PIPELINE.md](docs/EXTRACTION_PIPELINE.md)** · **[docs/PIPELINE_REFACTOR_2026_05_02.md](docs/PIPELINE_REFACTOR_2026_05_02.md)** — pipelines
+- **[docs/WIKI_GENERATION.md](docs/WIKI_GENERATION.md)** — wiki estructurada con grafo emergente
+- **[docs/TAXONOMY_PROPOSAL.md](docs/TAXONOMY_PROPOSAL.md)** — modelo multi-fuente (papers, libros, podcasts)
+- **[docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md](docs/superpowers/specs/2026-05-16-multi-project-and-research-queue-design.md)** — spec multi-proyecto
 
 ## Licencia
 
