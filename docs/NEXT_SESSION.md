@@ -59,9 +59,17 @@
 
 **Quirks de adquisición (F8)**: descarga de PDF real inestable — `download_paper` scihub no resuelve estos DOIs de revista (scraper), `semantic` 403, `wiley` exige `WILEY_TDM_TOKEN`. **Funcionó**: bajar open-access directo (Frontiers/PLOS/eLife/PNAS) con `curl` y archivar por hash → `add_request(source_file_hash=...)` (bypass seguro). El `ClaudePaperAcquirer` autónomo (claude -p + paper-search MCP) queda sin validar end-to-end (run_claude no pasa `--allowedTools`).
 
-**REFACTOR COMPLETO. Backlog / siguientes (no del refactor):**
-- **IdeaBlock**: el chunk = unidad-idea sintetizada (theme + afirmaciones), NO chunk crudo — ya es así vía summarizer. Q&A contextualizada DESCARTADA (Q genérica homogeneiza embeddings; revisitar solo tras un eval que demuestre ganancia).
-- **Layer 0 papers**: el worker indexa wiki (Layer 1 focal); falta indexar raw chunks de paper (PaperAdapter.parse_summary_to_chunks → Qdrant) para retrieval fino.
+**REFACTOR COMPLETO (F4–F8). Backlog / siguientes (no del refactor):**
+
+- **⭐ PRÓXIMA TAREA — IdeaBlock first-class (persistir sumario + indexar chunks Layer 0).** Diseño ACORDADO con el usuario (empezar aquí en sesión nueva):
+  - **Concepto**: un IdeaBlock = un tema de sumario (theme + afirmaciones sintetizadas), NO un chunk crudo. El sumario es el paso CARO/no-determinista (LLM). **Persistirlo permite re-ejecutar la lógica downstream (extract/index) sin re-sumarizar** — esa es la motivación del usuario. Q&A contextualizada **DESCARTADA** (Q genérica homogeneiza embeddings; revisitar solo tras un eval).
+  - **Estado HOY**: youtube → IdeaBlocks en `ProxySummaries/.../summary.md` + Qdrant (~6259 pts `source_type=youtube_video`). Papers → el worker genera el sumario en memoria y lo **descarta**; los chunks de paper **NO** se indexan (solo los 17 focales de wiki). `ariadna.db` no tiene tabla de chunks (viven en Qdrant).
+  - **Persistir** (`ariadna/project_config.py`): añadir `self.summaries_dir = self.root / "summaries"`. Guardar `projects/<slug>/summaries/<sanitize(source_id)>.md` con frontmatter (`source_id, source_type, title, generated_at`) + cuerpo (el índice de IdeaBlocks).
+  - **Reusar** (`scripts/worker.py:process_item`): si existe el summary persistido → reusarlo y **saltar acquire+summarize** (cero LLM, cero descarga); si no → bypass/generar → persistir. Helper nuevo `ariadna/ideablocks.py`: `summary_path/write_summary/read_summary`.
+  - **Indexar Layer 0** (`ariadna/ideablocks.py:index_project_chunks(project)`): lee `summaries/*.md` → `adapter.parse_summary_to_chunks(body, source_id, title)` → embed (DenseEmbedder) → Qdrant upsert con payload universal + `embedding_role="chunk"`; idempotencia `delete_by_filter({project_id, embedding_role:"chunk"})`. Llamar desde `worker.index_batch` (ventana batch, server parado). ID entero = `sha256("chunk:"+chunk_id)`.
+  - **search.py**: `SearchResult.from_payload` debe ser **TOLERANTE** — los chunks de paper no tienen `video_id/video_title/timestamp/youtube_url/category/playlist`; usar `.get()` con fallback a `source_id/title/position_url`. (Mejor a futuro: universalizar `SearchResult`.)
+  - **Verificar**: tras `--index atlas-teleosemantico`, `search_corpus(project=["atlas-teleosemantico"], query="meta-d prime")` devuelve **raw_chunks** del paper (no solo el focal de wiki).
+- **page_domains de papers**: `extract/paper.py` emite `domain_primary` escalar pero no lista `domain[]` → `page_domains` vacío para atlas (añadir `domain[]` al output del extractor + al render).
 - **page_domains de papers**: el extractor lean emite `domain_primary` escalar pero no lista `domain[]` → `page_domains` vacío para atlas (añadir `domain[]` al output del extractor).
 - **ClaudePaperAcquirer**: ampliar `run_claude` con `--allowedTools`/`--permission-mode` para adquisición autónoma; o integrar librería directa.
 - **Bypass ProxySummaries (youtube)**: el canal de entrada legacy (summary inline) está implementado en cola+worker; falta el hook en ProxySummaries que llame a `add_to_research_queue`.
