@@ -57,7 +57,8 @@ enciclopedia del corpus — NO un resumen del paper.
     "page_id": "kebab-case-id",
     "page_type": "concept|author|entity_work|entity_institution|synthesis",
     "canonical_name": "Nombre canónico",
-    "domain_primary": "dominio OpenAlex (p.ej. humanities.philosophy.mind)",
+    "domain_primary": "dominio OpenAlex principal (p.ej. humanities.philosophy.mind)",
+    "primary_domains": ["dominio principal primero", "1-3 dominios OpenAlex (incluye el primario)"],
     "aliases": ["alias1", "alias2"],
     "relations": [{{"type": "developed_by", "to": "otra-page-id", "weight": "canonical"}}],
     "body_markdown": "# {{canonical_name}}\\n\\n## Definición\\n\\nProsa enciclopédica con citas inline al paper en formato [{title}, p.N](https://doi.org/DOI#page=N). Usa [[page-id]] para enlazar otras páginas.",
@@ -145,6 +146,16 @@ def render_page_markdown(
     fm.append(f"canonical_name: {_yaml_scalar(cname)}")
     if page.get("domain_primary"):
         fm.append(f"domain_primary: {page['domain_primary']}")
+    # primary_domains[]: lista OpenAlex (primario primero) — la lee build_wiki_db
+    # para poblar page_domains. Sin ella el filtro por dominio queda vacío en atlas.
+    domains = list(page.get("primary_domains") or page.get("domains") or [])
+    if page.get("domain_primary"):
+        domains = [page["domain_primary"], *domains]
+    domains = list(dict.fromkeys(d for d in domains if d))  # dedupe, preserva orden
+    if domains:
+        fm.append("primary_domains:")
+        for d in domains:
+            fm.append(f"- {d}")
     fm.append("aliases: " + ("[]" if not aliases else ""))
     for a in aliases:
         fm.append(f"- {_yaml_scalar(a)}")

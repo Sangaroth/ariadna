@@ -3,6 +3,8 @@ page_id: meta-d-prime
 page_type: concept
 canonical_name: meta-d′ (meta-d prime)
 domain_primary: social-sciences.psychology.psychophysics
+primary_domains:
+- social-sciences.psychology.psychophysics
 aliases: 
 - meta-d′
 - meta-d prime

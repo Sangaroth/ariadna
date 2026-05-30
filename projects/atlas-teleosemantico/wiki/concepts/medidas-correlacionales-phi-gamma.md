@@ -3,6 +3,8 @@ page_id: medidas-correlacionales-phi-gamma
 page_type: concept
 canonical_name: Correlaciones phi y gamma en metacognición
 domain_primary: social-sciences.psychology.psychometrics
+primary_domains:
+- social-sciences.psychology.psychometrics
 aliases: 
 - phi
 - gamma

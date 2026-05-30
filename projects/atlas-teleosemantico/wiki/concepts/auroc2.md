@@ -3,6 +3,8 @@ page_id: auroc2
 page_type: concept
 canonical_name: AUROC2 (área bajo la ROC de tipo 2)
 domain_primary: social-sciences.psychology.psychophysics
+primary_domains:
+- social-sciences.psychology.psychophysics
 aliases: 
 - AUROC2
 - area under the type 2 ROC

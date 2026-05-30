@@ -3,6 +3,8 @@ page_id: efecto-dunning-kruger
 page_type: concept
 canonical_name: Efecto Dunning-Kruger
 domain_primary: social-sciences.psychology.social-psychology
+primary_domains:
+- social-sciences.psychology.social-psychology
 aliases: 
 - Dunning-Kruger effect
 - Kruger y Dunning 1999

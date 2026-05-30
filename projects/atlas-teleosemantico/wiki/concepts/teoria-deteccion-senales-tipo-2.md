@@ -3,6 +3,8 @@ page_id: teoria-deteccion-senales-tipo-2
 page_type: concept
 canonical_name: Teoría de detección de señales de tipo 2
 domain_primary: social-sciences.psychology.psychophysics
+primary_domains:
+- social-sciences.psychology.psychophysics
 aliases: 
 - type 2 signal detection theory
 - type 2 SDT

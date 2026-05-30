@@ -3,6 +3,8 @@ page_id: hakwan-lau
 page_type: author
 canonical_name: Hakwan Lau
 domain_primary: social-sciences.psychology.cognitive-neuroscience
+primary_domains:
+- social-sciences.psychology.cognitive-neuroscience
 aliases: 
 - Hakwan Lau
 - H. Lau

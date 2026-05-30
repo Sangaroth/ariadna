@@ -3,6 +3,8 @@ page_id: eficiencia-metacognitiva
 page_type: concept
 canonical_name: Eficiencia metacognitiva
 domain_primary: social-sciences.psychology.cognitive-psychology
+primary_domains:
+- social-sciences.psychology.cognitive-psychology
 aliases: 
 - metacognitive efficiency
 - meta-d′/d′

@@ -3,6 +3,8 @@ page_id: d-prime-tipo-2
 page_type: concept
 canonical_name: d′ de tipo 2 (Type 2 d′)
 domain_primary: social-sciences.psychology.psychophysics
+primary_domains:
+- social-sciences.psychology.psychophysics
 aliases: 
 - Type 2 d-prime
 - "d' de tipo 2"

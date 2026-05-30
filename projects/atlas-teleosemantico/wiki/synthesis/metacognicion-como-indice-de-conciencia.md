@@ -3,6 +3,8 @@ page_id: metacognicion-como-indice-de-conciencia
 page_type: synthesis
 canonical_name: La metacognición como índice de conciencia
 domain_primary: humanities.philosophy.mind
+primary_domains:
+- humanities.philosophy.mind
 aliases: 
 - metacognition and consciousness
 - metacognición y conciencia

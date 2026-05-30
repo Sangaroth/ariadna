@@ -3,6 +3,8 @@ page_id: blindsight-tipo-2
 page_type: concept
 canonical_name: Blindsight de tipo 2
 domain_primary: natural-sciences.neuroscience.consciousness
+primary_domains:
+- natural-sciences.neuroscience.consciousness
 aliases: 
 - Type 2 blindsight
 - blindsight tipo 2

@@ -3,6 +3,8 @@ page_id: calibracion-de-la-confianza
 page_type: concept
 canonical_name: Calibración de la confianza (juicio probabilístico)
 domain_primary: social-sciences.psychology.judgment-decision-making
+primary_domains:
+- social-sciences.psychology.judgment-decision-making
 aliases: 
 - calibración
 - confidence calibration

@@ -2,21 +2,24 @@
 page_id: cross-species-white-matter-hierarchy
 page_type: concept
 canonical_name: Comparación interespecie de la sustancia blanca en redes de jerarquía
-domain_primary: natural-sciences.biology.neuroscience
+domain_primary: life-sciences.neuroscience.neuroanatomy
+primary_domains:
+- life-sciences.neuroscience.neuroanatomy
+- life-sciences.biology.evolutionary-biology
 aliases: 
-- diferencias humano/no-humano en materia blanca
+- diferencias humano/no-humano en sustancia blanca
 - comparative white matter connectivity
 - homología de vías de fibras
 relations:
 - type: related_to
-  to: dorsal-pathway-temporal-cortex
+  to: tracto-dorsal-slf-af
   weight: canonical
 - type: evidence_for
-  to: hierarchy-processing-human-neurobiology
+  to: domain-selective-vs-general-hierarchy-synthesis
   weight: supporting
-- type: related_to
-  to: domain-selectivity-hierarchy
-  weight: supporting
+- type: discussed_in
+  to: rstb-2018-0391-hierarchy-ba44
+  weight: canonical
 sources_count: 1
 review_status: stub_in_session
 schema_version: 1.0.0
@@ -27,17 +30,19 @@ status: stub_in_session
 
 ## Definición
 
-Concepto que designa el uso de **comparaciones de materia blanca entre especies** —humanos y primates no humanos— para localizar la diferencia neurobiológica responsable de la capacidad humana de procesar jerarquías estructurales. La evidencia indica que no es el inventario global de áreas, sino conexiones particulares dentro de las redes, lo que marca la diferencia crucial entre primates humanos y no humanos ([doi:10.1098/rstb.2018.0391, p.2](https://doi.org/10.1098/rstb.2018.0391#page=2)).
+La comparación de la conectividad de sustancia blanca entre humanos y primates no humanos es la estrategia que usa el artículo para acotar lo humano-específico en el procesamiento de jerarquía. La pregunta "¿qué nos hace humanos?" requiere bases empíricas conductuales y cerebrales, no la mera observación de presencia/ausencia de una capacidad [Hierarchy processing in human neurobiology: how specific is it?, p.1](https://doi.org/10.1098/rstb.2018.0391#page=1).
 
-## Localización del cambio evolutivo
+## El tracto dorsal como diferencia clave
 
-El candidato central es la conexión dorsal de fibras que une la parte posterior del área de Broca ([[ba-44-hierarchy-construction]]) con el córtex temporal —la [[dorsal-pathway-temporal-cortex]]—, cuya fuerza correlaciona con el procesamiento de oraciones sintácticamente complejas ([doi:10.1098/rstb.2018.0391, p.1](https://doi.org/10.1098/rstb.2018.0391#page=1)). Bajo este enfoque, la singularidad humana en [[hierarchical-structure-processing]] se entiende como una reorganización de la conectividad, no como la aparición de un órgano nuevo.
+La [[tracto-dorsal-slf-af|vía dorsal SLF/AF]] que conecta BA 44 con el córtex temporal aparece como un sistema filogenéticamente joven, posiblemente único de humanos: la vía ventral al FOP, bien desarrollada en primates no humanos e infantes prelingüísticos, basta para [[gramatica-estructura-sintagmatica-vs-estado-finito|gramáticas de estado finito]], pero la jerarquía lingüística requiere la conexión dorsal a BA 44 [Hierarchy processing in human neurobiology: how specific is it?, p.4](https://doi.org/10.1098/rstb.2018.0391#page=4). En matemáticas, los monos muestran fuertes conexiones fronto-parietales vía SLF pero una conexión temporal poco desarrollada [Hierarchy processing in human neurobiology: how specific is it?, p.5](https://doi.org/10.1098/rstb.2018.0391#page=5).
 
-## Encaje teleosemántico
+## Cuestión abierta
 
-Para el Atlas, este concepto articula el pilar de **evolución y homologías** con el de **sustrato neural**: trata las vías de fibras como rasgos con historia filogenética y, por tanto, como candidatas a portar función biológica en sentido teleosemántico. Situar la diferencia humana en conexiones específicas permite preguntar por la *función propia* (en el sentido de la teleosemántica) que la selección habría fijado en esas vías, en lugar de postular una capacidad computacional dominio-general ([doi:10.1098/rstb.2018.0391, p.2](https://doi.org/10.1098/rstb.2018.0391#page=2)).
+Queda por determinar en qué medida las diferencias de sustancia blanca entre especies explican las diferencias funcionales en dominios no lingüísticos [Hierarchy processing in human neurobiology: how specific is it?, p.6](https://doi.org/10.1098/rstb.2018.0391#page=6). Esta agenda conecta con el pilar de evolución y homologías del atlas.
 
 ## Citations
 
-- [doi:10.1098/rstb.2018.0391, p.1](https://doi.org/10.1098/rstb.2018.0391#page=1)
-- [doi:10.1098/rstb.2018.0391, p.2](https://doi.org/10.1098/rstb.2018.0391#page=2)
+- [Hierarchy processing in human neurobiology: how specific is it?, p.1](https://doi.org/10.1098/rstb.2018.0391#page=1)
+- [Hierarchy processing in human neurobiology: how specific is it?, p.4](https://doi.org/10.1098/rstb.2018.0391#page=4)
+- [Hierarchy processing in human neurobiology: how specific is it?, p.5](https://doi.org/10.1098/rstb.2018.0391#page=5)
+- [Hierarchy processing in human neurobiology: how specific is it?, p.6](https://doi.org/10.1098/rstb.2018.0391#page=6)

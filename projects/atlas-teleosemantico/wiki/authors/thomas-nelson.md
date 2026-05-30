@@ -3,6 +3,8 @@ page_id: thomas-nelson
 page_type: author
 canonical_name: Thomas O. Nelson
 domain_primary: social-sciences.psychology.cognitive-psychology
+primary_domains:
+- social-sciences.psychology.cognitive-psychology
 aliases: 
 - Thomas Nelson
 - T. O. Nelson

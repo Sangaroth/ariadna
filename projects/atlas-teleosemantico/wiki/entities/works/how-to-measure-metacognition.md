@@ -3,6 +3,8 @@ page_id: how-to-measure-metacognition
 page_type: entity_work
 canonical_name: How to measure metacognition
 domain_primary: social-sciences.psychology.cognitive-psychology
+primary_domains:
+- social-sciences.psychology.cognitive-psychology
 aliases: 
 - Fleming & Lau 2014
 - How to measure metacognition (Fleming & Lau)

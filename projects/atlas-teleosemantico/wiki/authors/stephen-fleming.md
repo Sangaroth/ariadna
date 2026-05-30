@@ -3,6 +3,8 @@ page_id: stephen-fleming
 page_type: author
 canonical_name: Stephen M. Fleming
 domain_primary: natural-sciences.neuroscience
+primary_domains:
+- natural-sciences.neuroscience
 aliases: 
 - Stephen Fleming
 - Steve Fleming

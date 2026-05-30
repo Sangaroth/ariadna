@@ -3,6 +3,8 @@ page_id: glenn-brier
 page_type: author
 canonical_name: Glenn W. Brier
 domain_primary: social-sciences.psychology.psychometrics
+primary_domains:
+- social-sciences.psychology.psychometrics
 aliases: 
 - Glenn Brier
 - G. W. Brier

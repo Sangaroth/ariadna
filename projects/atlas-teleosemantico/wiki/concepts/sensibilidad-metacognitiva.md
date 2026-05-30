@@ -3,6 +3,8 @@ page_id: sensibilidad-metacognitiva
 page_type: concept
 canonical_name: Sensibilidad metacognitiva
 domain_primary: social-sciences.psychology.cognitive-psychology
+primary_domains:
+- social-sciences.psychology.cognitive-psychology
 aliases: 
 - metacognitive sensitivity
 - acierto de tipo 2

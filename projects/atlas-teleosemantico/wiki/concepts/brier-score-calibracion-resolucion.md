@@ -3,6 +3,8 @@ page_id: brier-score-calibracion-resolucion
 page_type: concept
 canonical_name: Brier score, calibración y resolución
 domain_primary: social-sciences.psychology.psychometrics
+primary_domains:
+- social-sciences.psychology.psychometrics
 aliases: 
 - Brier score
 - probability score

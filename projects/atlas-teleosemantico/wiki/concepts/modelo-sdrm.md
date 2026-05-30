@@ -3,6 +3,8 @@ page_id: modelo-sdrm
 page_type: concept
 canonical_name: Modelo SDRM (Stochastic Detection and Retrieval Model)
 domain_primary: social-sciences.psychology.mathematical-psychology
+primary_domains:
+- social-sciences.psychology.mathematical-psychology
 aliases: 
 - SDRM
 - Stochastic Detection and Retrieval Model

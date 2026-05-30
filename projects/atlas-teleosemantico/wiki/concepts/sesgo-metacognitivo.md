@@ -3,6 +3,8 @@ page_id: sesgo-metacognitivo
 page_type: concept
 canonical_name: Sesgo metacognitivo
 domain_primary: social-sciences.psychology.cognitive-psychology
+primary_domains:
+- social-sciences.psychology.cognitive-psychology
 aliases: 
 - metacognitive bias
 - sobreconfianza
