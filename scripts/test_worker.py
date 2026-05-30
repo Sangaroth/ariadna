@@ -157,8 +157,55 @@ def test_process_item_byo_pdf_via_hash() -> None:
             shutil.rmtree(REPO / "projects" / slug, ignore_errors=True)
 
 
+def test_process_item_persists_and_reuses_summary() -> None:
+    """El sumario se persiste tras generarlo; un segundo pase lo REUSA (cero LLM)."""
+    import fitz
+    from ariadna import ideablocks as IB
+    from ariadna.acquire import MockPaperAcquirer
+    import scripts.worker as W
+
+    slug = "wtest-reuse"
+    doc = fitz.open(); doc.new_page().insert_text((72, 72), "Pagina uno."); pdf = doc.tobytes(); doc.close()
+    calls = {"summarize": 0}
+
+    def mock_summarize(blob, title):
+        calls["summarize"] += 1
+        return "- p.1 🧠 Teleo\n\n  - x,\n  - y,\n"
+
+    def mock_extract(summary, source_id, title, project, **kw):
+        return [{"page_id": "teleosemantica", "page_type": "concept", "canonical_name": "T",
+                 "domain_primary": "humanities.philosophy", "relations": [], "cited_pages": [1]}]
+
+    with tempfile.TemporaryDirectory() as td:
+        db = Path(td) / "a.db"; INIT.init_db(db)
+        P.create_project(slug, "Reuse Test", db_path=db)
+        try:
+            Q.add_request(slug, "https://doi.org/10.1/reuse", source_type="paper", db_path=db)
+            it1 = Q.claim_next("w1", project=slug, db_path=db)
+            res1 = W.process_item(it1, acquirer=MockPaperAcquirer(pdf, {"title": "P"}),
+                                  summarize_fn=mock_summarize, extract_fn=mock_extract,
+                                  db_path=db, staging_dir=Path(td) / "st")
+            assert calls["summarize"] == 1 and res1["reused_summary"] is False
+            assert IB.read_summary(slug, res1["source_id"]) is not None  # persistido
+            Q.mark_done(it1["request_id"], db_path=db)  # libera el dedup pending/processing
+
+            # Segundo pase: mismo source_id. summarize_fn que EXPLOTA si se llama.
+            Q.add_request(slug, "https://doi.org/10.1/reuse", source_type="paper", db_path=db)
+            it2 = Q.claim_next("w2", project=slug, db_path=db)
+
+            def boom(*a, **k):  # noqa: ANN002
+                raise AssertionError("no debe re-sumarizar al reusar")
+
+            res2 = W.process_item(it2, summarize_fn=boom, extract_fn=mock_extract,
+                                  db_path=db, staging_dir=Path(td) / "st")
+            assert calls["summarize"] == 1  # NO se volvió a llamar
+            assert res2["reused_summary"] is True and res2["source_id"] == res1["source_id"]
+        finally:
+            shutil.rmtree(REPO / "projects" / slug, ignore_errors=True)
+
+
 TESTS = [test_fsm_lock_and_retry, test_bypass_metadata, test_process_item_e2e_mocks,
-         test_process_item_byo_pdf_via_hash]
+         test_process_item_byo_pdf_via_hash, test_process_item_persists_and_reuses_summary]
 
 
 def main() -> int:

@@ -98,6 +98,8 @@ def process_item(
     """
     import scripts.build_wiki_db as build_wiki_db
 
+    from ariadna import ideablocks
+
     project = item["project_id"]
     url = item["source_url"]
     qtype = item["source_type"]
@@ -106,7 +108,16 @@ def process_item(
     source_id = adapter.normalize_source_id(url)
     canonical_type = _CANONICAL_SOURCE_TYPE.get(qtype, "note")
 
-    if meta.get("summary"):  # --- BYPASS bring-your-own-summary ---
+    persisted = ideablocks.read_summary(project, source_id)
+    if persisted is not None:  # --- REUSE sumario persistido (cero LLM, cero descarga) ---
+        # El sumario es el paso caro/no-determinista. Si ya existe, re-ejecutamos solo
+        # la lógica downstream (extract → wiki, build_wiki_db) sin re-sumarizar.
+        title = persisted["title"]
+        summary = persisted["body"]
+        file_hash = item.get("source_file_hash")
+        ingest_method = "reused_summary"
+        abstract = None
+    elif meta.get("summary"):  # --- BYPASS bring-your-own-summary ---
         smeta = meta.get("source_metadata") or {}
         title = smeta.get("title") or source_id
         summary = meta["summary"]
@@ -138,6 +149,11 @@ def process_item(
         ingest_method = "claude_summarizer"
         summary = summarize_fn(pdf_bytes, title)
 
+    # Persistir el sumario (índice de IdeaBlocks) para reusarlo sin re-sumarizar.
+    if persisted is None:
+        ideablocks.write_summary(project, source_id, summary,
+                                 source_type=canonical_type, title=title)
+
     register_source(db_path, source_id, canonical_type, title, file_hash, project,
                     ingest_method=ingest_method, abstract=abstract)
 
@@ -152,6 +168,8 @@ def process_item(
         "source_id": source_id, "title": title, "source_file_hash": file_hash,
         "pages_written": [str(p.relative_to(REPO)) for p in written],
         "n_pages_written": len(written), "wiki_counts": counts, "indexed": False,
+        "reused_summary": persisted is not None,
+        "summary_path": str(ideablocks.summary_path(project, source_id).relative_to(REPO)),
     }
 
 
@@ -193,12 +211,23 @@ def run_loop(project: str | None, worker_id: str, max_items: int, db_path: Path)
 
 
 def index_batch(project: str) -> int:
-    """Ventana batch: indexa la wiki del proyecto en Qdrant (server DEBE estar parado)."""
+    """Ventana batch: indexa wiki (Layer 1) + chunks Layer 0 del proyecto en Qdrant.
+
+    El server DEBE estar parado (lock Qdrant embebido). El indexado wiki corre en
+    subproceso y, al terminar, indexamos los chunks Layer 0 en proceso (secuencial
+    → sin conflicto de lock)."""
     import subprocess
+
+    from ariadna import ideablocks
+
     log.info("ventana batch: index_wiki_to_qdrant --project %s (server debe estar parado)", project)
     r = subprocess.run([sys.executable, "scripts/index_wiki_to_qdrant.py", "--project", project],
                        cwd=REPO)
-    return r.returncode
+    if r.returncode != 0:
+        return r.returncode
+    n = ideablocks.index_project_chunks(project)
+    log.info("ventana batch: %d chunks Layer 0 indexados (project=%s)", n, project)
+    return 0
 
 
 def main() -> int:

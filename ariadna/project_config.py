@@ -41,6 +41,9 @@ class ProjectConfig:
         self.wiki_root = self.root / "wiki"
         self.meta_dir = self.root / "_meta"
         self.extraction_runs = self.meta_dir / "extraction_runs"
+        # Sumarios persistidos (IdeaBlocks): el paso CARO/no-determinista del pipeline.
+        # Persistirlos permite re-ejecutar extract/index sin re-sumarizar. Ver ideablocks.py.
+        self.summaries_dir = self.root / "summaries"
 
     # --- resolución override→default ---------------------------------------
     def _resolve(self, name: str) -> Path:

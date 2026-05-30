@@ -40,17 +40,22 @@ class SearchResult:
 
     @classmethod
     def from_payload(cls, payload: dict[str, Any]) -> SearchResult:
+        """TOLERANTE a fuentes no-youtube (papers, web…): los chunks Layer 0 de
+        paper no traen video_id/video_title/timestamp/youtube_url/category/playlist.
+        Cae a los campos universales (source_id/title/position_url). El
+        cite_markdown correcto lo aporta `_raw_chunk_to_compact` desde el payload.
+        """
         return cls(
             score=payload["score"],
-            video_id=payload["video_id"],
-            video_title=payload["video_title"],
-            timestamp=payload["timestamp"],
-            timestamp_seconds=payload["timestamp_seconds"],
-            theme=payload["theme"],
-            content=payload["content"],
-            category=payload["category"],
-            playlist=payload["playlist"],
-            youtube_url=payload["youtube_url"],
+            video_id=payload.get("video_id") or payload.get("source_id", ""),
+            video_title=payload.get("video_title") or payload.get("title", ""),
+            timestamp=payload.get("timestamp", ""),
+            timestamp_seconds=payload.get("timestamp_seconds") or 0,
+            theme=payload.get("theme", ""),
+            content=payload.get("content", ""),
+            category=payload.get("category", ""),
+            playlist=payload.get("playlist", ""),
+            youtube_url=payload.get("youtube_url") or payload.get("position_url", ""),
         )
 
     def to_compact_dict(self) -> dict[str, Any]:
