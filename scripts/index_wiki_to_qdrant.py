@@ -49,6 +49,7 @@ sys.path.insert(0, str(REPO))
 
 from ariadna.config import COLLECTION_NAME  # noqa: E402
 from ariadna.embeddings import DenseEmbedder  # noqa: E402
+from ariadna.project_config import DEFAULT_PROJECT, ProjectConfig  # noqa: E402
 from ariadna.storage import CorpusStore  # noqa: E402
 
 logging.basicConfig(
@@ -82,6 +83,7 @@ class WikiPage:
     file_path: str = ""
     body: str = ""
     first_section_text: str = ""
+    project_id: str = DEFAULT_PROJECT
 
     def embed_text(self) -> str:
         """Texto focal que se vectoriza. Captura la identidad del concepto sin diluir."""
@@ -102,6 +104,7 @@ class WikiPage:
         return {
             "source_type": "wiki_page",
             "embedding_role": "concept",
+            "project_id": self.project_id,
             "page_id": self.page_id,
             "page_type": self.page_type,
             "canonical_name": self.canonical_name,
@@ -195,7 +198,7 @@ def _extract_first_section(body: str) -> str:
     return text
 
 
-def parse_wiki_file(md_path: Path, repo_root: Path) -> WikiPage | None:
+def parse_wiki_file(md_path: Path, repo_root: Path, project_id: str) -> WikiPage | None:
     text = md_path.read_text(encoding="utf-8")
     fm = FRONTMATTER_RE.match(text)
     if not fm:
@@ -222,21 +225,23 @@ def parse_wiki_file(md_path: Path, repo_root: Path) -> WikiPage | None:
         file_path=str(md_path.relative_to(repo_root)),
         body=body.strip(),
         first_section_text=_extract_first_section(body),
+        project_id=project_id,
     )
 
 
-def page_id_int(page_id: str) -> int:
-    """ID entero estable a partir del page_id. Distinto del namespace de chunks raw
-    (chunks raw usan video_id+timestamp). Prefijamos 'wiki:' para asegurar unicidad."""
-    return int(hashlib.sha256(f"wiki:{page_id}".encode()).hexdigest()[:15], 16)
+def page_id_int(project_id: str, page_id: str) -> int:
+    """ID entero estable y namespaced por proyecto. Distinto del namespace de chunks
+    raw (video_id+timestamp). Prefijo 'wiki:<project>:' evita colisión entre proyectos
+    homónimos (el 'shadow-archetype' de proxy ≠ el de otro proyecto)."""
+    return int(hashlib.sha256(f"wiki:{project_id}:{page_id}".encode()).hexdigest()[:15], 16)
 
 
-def collect_pages(wiki_dir: Path, repo_root: Path) -> list[WikiPage]:
+def collect_pages(wiki_dir: Path, repo_root: Path, project_id: str) -> list[WikiPage]:
     pages: list[WikiPage] = []
     for md in sorted(wiki_dir.rglob("*.md")):
         if md.name == "README.md":
             continue
-        page = parse_wiki_file(md, repo_root)
+        page = parse_wiki_file(md, repo_root, project_id)
         if page:
             pages.append(page)
     return pages
@@ -245,10 +250,11 @@ def collect_pages(wiki_dir: Path, repo_root: Path) -> list[WikiPage]:
 def index_wiki(
     wiki_dir: Path,
     repo_root: Path,
+    project_id: str,
     dry_run: bool = False,
 ) -> None:
-    log.info("Wiki dir: %s", wiki_dir)
-    pages = collect_pages(wiki_dir, repo_root)
+    log.info("Wiki dir: %s (project=%s)", wiki_dir, project_id)
+    pages = collect_pages(wiki_dir, repo_root, project_id)
     log.info("Páginas encontradas: %d", len(pages))
     if not pages:
         log.warning("Nada que indexar.")
@@ -279,14 +285,17 @@ def index_wiki(
     store = CorpusStore(vector_dim=vectors.shape[1])
     store.ensure_collection(recreate=False)
 
-    n_deleted = store.delete_by_filter({"source_type": "wiki_page"})
+    # Idempotencia PROJECT-SCOPED: solo borra los wiki_pages de ESTE proyecto
+    # (reindexar proxy no debe tocar los de otro proyecto).
+    n_deleted = store.delete_by_filter({"source_type": "wiki_page", "project_id": project_id})
     if n_deleted > 0:
-        log.info("Borrados %d wiki_pages antiguos (idempotencia)", n_deleted)
+        log.info("Borrados %d wiki_pages antiguos de %s (idempotencia)", n_deleted, project_id)
 
-    ids = [page_id_int(p.page_id) for p in pages]
+    ids = [page_id_int(p.project_id, p.page_id) for p in pages]
     payloads = [p.to_payload() for p in pages]
     store.upsert_batch(ids, vectors, payloads)
-    log.info("Insertados %d wiki_pages. Total en colección: %d", len(pages), store.count())
+    log.info("Insertados %d wiki_pages (project=%s). Total en colección: %d",
+             len(pages), project_id, store.count())
 
 
 def main() -> int:
@@ -294,10 +303,15 @@ def main() -> int:
         description="Indexa páginas wiki en Qdrant (1 vector focal por página)."
     )
     parser.add_argument(
+        "--project",
+        default=DEFAULT_PROJECT,
+        help=f"slug del proyecto (default: {DEFAULT_PROJECT})",
+    )
+    parser.add_argument(
         "--wiki-dir",
         type=Path,
-        default=WIKI_DIR_DEFAULT,
-        help=f"Ruta a wiki/ (default: {WIKI_DIR_DEFAULT})",
+        default=None,
+        help="Ruta a wiki/ (default: projects/<project>/wiki)",
     )
     parser.add_argument(
         "--dry-run",
@@ -306,11 +320,12 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    if not args.wiki_dir.exists():
-        log.error("Wiki dir no existe: %s", args.wiki_dir)
+    wiki_dir = args.wiki_dir or ProjectConfig(args.project).wiki_root
+    if not wiki_dir.exists():
+        log.error("Wiki dir no existe: %s", wiki_dir)
         return 1
 
-    index_wiki(wiki_dir=args.wiki_dir, repo_root=REPO, dry_run=args.dry_run)
+    index_wiki(wiki_dir=wiki_dir, repo_root=REPO, project_id=args.project, dry_run=args.dry_run)
     return 0
 
 

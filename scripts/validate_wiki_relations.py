@@ -31,9 +31,9 @@ from pathlib import Path
 from typing import Any
 
 REPO = Path(__file__).resolve().parent.parent
-WIKI = REPO / "projects" / "proxy" / "wiki"
-META = REPO / "projects" / "proxy" / "_meta"
-RELATION_TYPES_FILE = REPO / "wiki" / "_meta" / "relation_types_core.json"
+sys.path.insert(0, str(REPO))
+
+from ariadna.project_config import DEFAULT_PROJECT, ProjectConfig  # noqa: E402
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 WIKILINK_BODY_RE = re.compile(r"\[\[([a-z0-9][a-z0-9_-]*)(?:\|[^\]]+)?\]\]")
@@ -83,10 +83,10 @@ def get_scalar(fm_text: str, key: str) -> str | None:
     return None
 
 
-def collect_page_index() -> dict[str, dict[str, Any]]:
+def collect_page_index(wiki_dir: Path) -> dict[str, dict[str, Any]]:
     """page_id → {page_type, file_path, body, fm_text}."""
     index: dict[str, dict[str, Any]] = {}
-    for md in sorted(WIKI.rglob("*.md")):
+    for md in sorted(wiki_dir.rglob("*.md")):
         if md.name == "README.md":
             continue
         text = md.read_text(encoding="utf-8")
@@ -123,19 +123,23 @@ def check_type_compatibility(
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Valida coherencia del grafo wiki.")
+    parser.add_argument("--project", default=DEFAULT_PROJECT, help="slug del proyecto")
     parser.add_argument("--strict", action="store_true", help="warnings también devuelven exit 1")
     args = parser.parse_args()
 
-    if not RELATION_TYPES_FILE.exists():
-        print(f"ERROR: {RELATION_TYPES_FILE} no existe", file=sys.stderr)
+    cfg = ProjectConfig(args.project)
+    wiki_dir = cfg.wiki_root
+    relation_types_file = cfg.relation_types_core
+    if not relation_types_file.exists():
+        print(f"ERROR: {relation_types_file} no existe", file=sys.stderr)
         return 1
 
-    rt_data = json.loads(RELATION_TYPES_FILE.read_text(encoding="utf-8"))
+    rt_data = json.loads(relation_types_file.read_text(encoding="utf-8"))
     relation_types: dict[str, Any] = rt_data.get("types", {})
     valid_types = set(relation_types.keys())
 
     report = ValidationReport()
-    pages = collect_page_index()
+    pages = collect_page_index(wiki_dir)
     report.pages_checked = len(pages)
 
     if not pages:

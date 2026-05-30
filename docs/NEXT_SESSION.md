@@ -2,7 +2,7 @@
 
 > **Cómo usar este archivo:** copia la sección "Prompt para pegar al iniciar nueva sesión" tal cual al asistente al abrir nueva conversación de Claude Code en este repo. El asistente leerá los docs referenciados y arrancará alineado con el estado actual.
 >
-> **Última actualización:** 2026-05-30 (REFACTOR UNIVERSAL EN MARCHA — ver bloque abajo).
+> **Última actualización:** 2026-05-30 tarde (REFACTOR UNIVERSAL — Fases 0–4 HECHAS; ver bloque abajo).
 
 ---
 
@@ -20,16 +20,24 @@
 - **F2** `scripts/migrate_raw_chunks_to_universal.py`: payload universal en Qdrant (6259 raw + 222 wiki) vía set_payload SIN re-embed. **Equivalencia funcional preservada (Δscore=0.00000)**. Reclasificación OpenAlex determinista (2049 chunks heredan dominio fino de wiki, cero LLM).
 - **F3** Filesystem → `projects/proxy/{wiki,_meta}`; `wiki/_meta/` = global (relation_types_core.json + *_default.* plantillas). `ariadna/project_config.py` (ProjectConfig). 12 ficheros repuntados. test_hybrid 8/8.
 
-**Estado runtime:** ariadna.db construido pero **search.py aún lee data/wiki.db** (no migrado a ariadna.db todavía). El server vivo funciona idéntico. `data/wiki.db` se conserva como red hasta validar F4.
+**F4 HECHO y verificado (Fase 4 — adaptadores + search generalizado):**
+- **`ariadna/sources/{base,registry,youtube,paper}.py`** — `SourceAdapter` Protocol + `Position`/`SourceRecord`/`GenericChunk`/`CitationRef`; `YoutubeAdapter` envuelve parsers.py verbatim; `PaperAdapter` (localización DOI/página completa, adquisición→NotImplementedError F6); `registry.get_adapter(type|scheme|source_id)` + `detect_source_type(url)`.
+- **`scripts/verify_adapter_parity.py`**: diff chunk-a-chunk YoutubeAdapter ↔ parsers = **vacío** (304 vídeos, 6483 chunks) + round-trip de citas.
+- **`search.py` migrado a ariadna.db**: citation lookup por `(source_id, position_key)` project-scoped (ya NO lee wiki.db); filtro `project_id` polimórfico **str|list|None** (None=todos, valida slugs → `PROJECT_NOT_FOUND`); cada hit (raw+wiki) expone `project_id`; `cite_markdown` universal del payload. `storage.search` soporta filtros lista (MatchAny/OR). Tool MCP `search_corpus` acepta `project`.
+- **`build_wiki_db.py --project`**: reconstruye las 9 tablas wiki PER-PROJECT de ariadna.db vía adaptadores (citas universales, JSON compacto idéntico a SQLite) + puebla page_domains/authors desde frontmatter. **Parity: regenerar Proxy = diff vacío** vs migración (pages/aliases/relations/body_wikilinks/page_domains/citations/authors/author_aliases/author_sources, todas idénticas).
+- **`index_wiki_to_qdrant.py --project`**: payload universal (`project_id`), id namespaced por proyecto, delete project-scoped. Reindexado en vivo (222 wiki, total 6481).
+- **`verify_phase1.py` relleno (16 checks, server PARADO)**: **16/16 ✓** (1 SKIP: extract_themes→F6). functional_equivalence 10 queries ±0.01, qdrant_all_tagged 6481, domains_assigned 6259, citations_generalized 4570 sin huérfanas, cross-project isolation, build_wiki_db parity, validator exit 0.
+- **`validate_wiki_relations.py --project`**. Arreglado el único stub con `relations: []` (inside-out-2-2024-film → compared_with inside-out-2015-film). test_hybrid 8/8.
 
-**PENDIENTE (Fases 4–8):**
-- **F4** Adaptadores de fuente (`ariadna/sources/{base,registry,youtube,paper}.py`) + generalizar `search.py` (leer ariadna.db project-scoped, filtro project_id str|list|None), `build_wiki_db`/`index_wiki_to_qdrant` con `--project`. Hito: regenerar Proxy con YoutubeAdapter = diff vacío. Rellenar `verify_phase1.py`.
-- **F5** Tools MCP: create_project, add_to_research_queue, cancel_request, list_projects, list_research_queue; `project` polimórfico en search_corpus/get_wiki_page; retirar get_video_summary/list_videos. Rellenar `verify_phase2.py`.
+**Estado runtime:** **search.py lee ariadna.db** (wiki.db retirado del hot path; conservar como red hasta F5). Server vivo en :8080 funciona idéntico al baseline. `data/wiki.db` ya NO lo usa nadie del runtime.
+
+**PENDIENTE (Fases 5–8):**
+- **F5** Tools MCP: create_project, add_to_research_queue, cancel_request, list_projects, list_research_queue; `project` polimórfico en get_wiki_page (search_corpus ya lo tiene); retirar get_video_summary/list_videos. Rellenar `verify_phase2.py`.
 - **F6** `ariadna/source_archive.py` (data/sources/<hash>) + `ariadna/summarize/` (PDF→summary.md p.NN, porta patrón ProxySummaries) + PaperAdapter.
 - **F7** `scripts/worker.py` (FSM research_queue, paper-search MCP vía `claude -p`, ventana batch Qdrant).
 - **F8** E2E atlas: create_project + descargar DOIs de `atlas_teleosemantico/data/bibliografia.csv` + encolar + worker + cross-search.
 
-**Quirks:** parar el server con `kill <PID>` (NO `pkill -f mcp_server` → auto-mata el comando). Reiniciar: `nohup .venv/bin/python -m ariadna.mcp_server > /tmp/ariadna.log 2>&1 &` (puerto 8080). Migración Qdrant requiere server parado (lock embedded).
+**Quirks:** parar el server con `kill <PID-exacto>` (NO `pkill -f mcp_server` → auto-mata el comando; tampoco `pgrep | head` a ciegas — puede matar un PID transitorio equivocado). Reiniciar: `nohup .venv/bin/python -m ariadna.mcp_server --warm > /tmp/ariadna.log 2>&1 &` (puerto 8080; `--warm` precarga el searcher). Reindex Qdrant y `verify_phase1.py` requieren server PARADO (lock embedded). `build_wiki_db.py --project` SÍ puede correr con el server vivo (ariadna.db en WAL, lectores+1 escritor). `verify_adapter_parity.py` no toca Qdrant. Comandos F4: `python scripts/{verify_adapter_parity,verify_phase1}.py` · `python scripts/build_wiki_db.py --project proxy [--check|--query ...]` · `python scripts/index_wiki_to_qdrant.py --project proxy` · `python scripts/validate_wiki_relations.py --project proxy`.
 
 ---
 

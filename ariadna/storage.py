@@ -18,6 +18,7 @@ from qdrant_client.models import (
     FieldCondition,
     Filter,
     IsEmptyCondition,
+    MatchAny,
     MatchValue,
     PayloadField,
     PointStruct,
@@ -119,8 +120,9 @@ class CorpusStore:
     ) -> list[dict[str, Any]]:
         """Busqueda por similaridad vectorial con filtros opcionales por metadata.
 
-        filters: dict con claves permitidas (category, playlist, video_id, source_type, ...).
-                 Matching exact por valor (must).
+        filters: dict con claves permitidas (category, playlist, video_id, source_type,
+                 project_id, ...). Valor escalar → match exacto (must). Valor lista →
+                 MatchAny (OR sobre los valores), p.ej. project_id=['proxy','atlas'].
         must_not_filters: dict con campos que NO deben matchear (must_not).
                  Util para excluir wiki_page del search raw, por ejemplo.
         exclude_field_present: lista de claves del payload que, si están presentes,
@@ -136,10 +138,15 @@ class CorpusStore:
                 for key, value in filters.items()
                 if value is not None
             }
-            must_conditions = [
-                FieldCondition(key=key, match=MatchValue(value=value))
-                for key, value in normalized.items()
-            ]
+            for key, value in normalized.items():
+                if isinstance(value, (list, tuple, set)):
+                    must_conditions.append(
+                        FieldCondition(key=key, match=MatchAny(any=list(value)))
+                    )
+                else:
+                    must_conditions.append(
+                        FieldCondition(key=key, match=MatchValue(value=value))
+                    )
         if must_not_filters:
             must_not_conditions = [
                 FieldCondition(key=key, match=MatchValue(value=value))

@@ -4,7 +4,12 @@ page_type: entity_work
 canonical_name: "Inside Out 2 (Pixar/Disney, 2024)"
 domain_primary: arts.cinema
 aliases: []
-relations: []
+relations:
+- type: compared_with
+  to: inside-out-2015-film
+  weight: strong
+  note: secuela directa de Inside Out (2015); el canal analiza la formación de la
+    personalidad y la identidad de Riley en continuidad con la primera película
 status: stub_in_session
 ---
 

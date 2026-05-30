@@ -12,6 +12,8 @@ from typing import Any
 
 from ariadna.config import RERANKER_PREFETCH_N
 from ariadna.embeddings import DenseEmbedder
+from ariadna.project_config import DEFAULT_PROJECT
+from ariadna.sources.registry import adapter_for_source_id
 from ariadna.wiki_utils import (
     extract_body_snippet as _extract_body_snippet,
     strip_citations_section as _strip_citations_section,
@@ -21,7 +23,9 @@ from ariadna.storage import CorpusStore
 
 log = logging.getLogger(__name__)
 
-WIKI_DB_PATH = Path(__file__).resolve().parent.parent / "data" / "wiki.db"
+# Fuente de verdad unificada (multi-tenant + modelo universal). El lookup indirecto
+# wiki vía citations y el fetch de páginas citation-only leen de aquí.
+ARIADNA_DB_PATH = Path(__file__).resolve().parent.parent / "data" / "ariadna.db"
 
 
 @dataclass
@@ -103,25 +107,63 @@ class Searcher:
         embedder: DenseEmbedder | None = None,
         store: CorpusStore | None = None,
         reranker: Reranker | None = None,
-        wiki_db_path: Path | None = None,
+        ariadna_db_path: Path | None = None,
     ) -> None:
         self.embedder = embedder or DenseEmbedder()
         self.store = store or CorpusStore()
         self.reranker = reranker or Reranker()
-        self.wiki_db_path = wiki_db_path or WIKI_DB_PATH
-        if not self.wiki_db_path.exists():
+        self.ariadna_db_path = ariadna_db_path or ARIADNA_DB_PATH
+        if not self.ariadna_db_path.exists():
             log.warning(
-                "wiki.db no existe en %s — lookup indirecto vía citations desactivado. "
-                "Ejecuta `python scripts/build_wiki_db.py` para activarlo.",
-                self.wiki_db_path,
+                "ariadna.db no existe en %s — lookup indirecto vía citations desactivado. "
+                "Ejecuta `python scripts/build_wiki_db.py --project proxy` para activarlo.",
+                self.ariadna_db_path,
             )
+        self._known_projects = self._load_known_projects()
 
-    def _open_wiki_db(self) -> sqlite3.Connection | None:
-        """Abre conexión read-only a wiki.db. None si no existe."""
-        if not self.wiki_db_path.exists():
+    def _load_known_projects(self) -> set[str]:
+        conn = self._open_db()
+        if conn is None:
+            return set()
+        try:
+            return {r[0] for r in conn.execute("SELECT project_id FROM projects")}
+        except sqlite3.Error:
+            return set()
+        finally:
+            conn.close()
+
+    def _open_db(self) -> sqlite3.Connection | None:
+        """Abre conexión read-only a ariadna.db. None si no existe."""
+        if not self.ariadna_db_path.exists():
             return None
         # Read-only previene escrituras accidentales desde el server.
-        return sqlite3.connect(f"file:{self.wiki_db_path}?mode=ro", uri=True)
+        return sqlite3.connect(f"file:{self.ariadna_db_path}?mode=ro", uri=True)
+
+    def resolve_projects(self, project: str | list[str] | None) -> list[str] | None:
+        """Normaliza el parámetro `project` polimórfico a una lista de slugs o None.
+
+        `None` → todos los proyectos (sin filtro). `str` → un proyecto. `list` → N.
+        Valida cada slug contra la tabla `projects`; ValueError('PROJECT_NOT_FOUND: …')
+        si alguno no existe. Si la tabla aún no se cargó (db ausente), no valida.
+        """
+        if project is None:
+            return None
+        slugs = [project] if isinstance(project, str) else list(project)
+        if not slugs:
+            return None
+        if self._known_projects:
+            missing = [s for s in slugs if s not in self._known_projects]
+            if missing:
+                raise ValueError(f"PROJECT_NOT_FOUND: {', '.join(missing)}")
+        return slugs
+
+    @staticmethod
+    def _project_clause(projects: list[str] | None) -> tuple[str, list[str]]:
+        """Fragmento SQL `AND project_id IN (...)` + params. ('', []) si projects es None."""
+        if not projects:
+            return "", []
+        placeholders = ",".join("?" * len(projects))
+        return f" AND project_id IN ({placeholders})", list(projects)
 
     def search(
         self,
@@ -169,6 +211,7 @@ class Searcher:
         category: str | None = None,
         playlist: str | None = None,
         include_filtered: bool = False,
+        project: str | list[str] | None = None,
     ) -> dict:
         """Búsqueda híbrida raw + wiki en una sola query.
 
@@ -189,10 +232,16 @@ class Searcher:
           - "both"      → ambos
         Y cuando aplica, `matched_via_chunks[]` lista los chunks que dispararon
         la entrada vía citation (para que el LLM sepa por qué la página entró).
+
+        `project` (str | list[str] | None): aislamiento por proyecto. None = todos
+        (sin filtro); str = un proyecto; list = N (filtro OR sobre project_id). Se
+        valida contra la tabla `projects` (ValueError PROJECT_NOT_FOUND). Cada hit
+        (raw o wiki) expone su `project_id` de procedencia.
         """
+        projects = self.resolve_projects(project)
         query_vec = self.embedder.embed_query(query)
 
-        raw_filters = {"category": category, "playlist": playlist}
+        raw_filters = {"category": category, "playlist": playlist, "project_id": projects}
         # Prefetch ampliado para que el reranker tenga material que reordenar.
         prefetch_k = max(RERANKER_PREFETCH_N, top_k_raw)
         exclude_pf = None if include_filtered else ["policy_filter"]
@@ -219,7 +268,7 @@ class Searcher:
         wiki_results = self.store.search(
             query_vec,
             top_k=top_k_wiki,
-            filters={"source_type": "wiki_page"},
+            filters={"source_type": "wiki_page", "project_id": projects},
         )
 
         # Lookup indirecto vía citations: page_id -> [triggering_chunk_summary, ...].
@@ -233,24 +282,24 @@ class Searcher:
             citation_seed = self.store.search(
                 query_vec,
                 top_k=top_k_raw,
-                filters={},
+                filters={"project_id": projects},
                 must_not_filters={"source_type": "wiki_page"},
                 exclude_field_present=exclude_pf,
             )
         else:
             citation_seed = raw_results
-        citation_hits = self._lookup_wiki_via_citations(citation_seed)
+        citation_hits = self._lookup_wiki_via_citations(citation_seed, projects)
 
         # Marca in_wiki_sources en los chunks raw que sí devolvemos al LLM (los filtrados).
         # Esto sí respeta el filtro: el campo es metadata sobre los chunks que el LLM ve.
-        chunks_to_wiki = self._build_chunk_to_wiki_index(raw_results)
+        chunks_to_wiki = self._build_chunk_to_wiki_index(raw_results, projects)
         for r in raw_results:
-            key = (r.get("video_id"), r.get("timestamp_seconds"))
-            r["in_wiki_sources"] = chunks_to_wiki.get(key, [])
+            r["in_wiki_sources"] = chunks_to_wiki.get(self._chunk_locator(r), [])
 
         wiki_pages_compact = self._merge_wiki_lanes(
             semantic=wiki_results,
             citation_hits=citation_hits,
+            projects=projects,
         )
 
         wiki_top_semantic = wiki_results[0]["score"] if wiki_results else None
@@ -280,10 +329,7 @@ class Searcher:
 
         return {
             "wiki_pages": wiki_pages_compact,
-            "raw_chunks": [
-                SearchResult.from_payload(r).to_compact_dict() | {"in_wiki_sources": r.get("in_wiki_sources")}
-                for r in raw_results
-            ],
+            "raw_chunks": [self._raw_chunk_to_compact(r) for r in raw_results],
             "retrieval_metadata": {
                 "wiki_top_score": round(wiki_top_semantic, 4) if wiki_top_semantic is not None else None,
                 "raw_top_score": round(raw_top, 4) if raw_top is not None else None,
@@ -303,92 +349,125 @@ class Searcher:
             },
         }
 
+    # --- helpers de localización universal -------------------------------
+
+    @staticmethod
+    def _chunk_locator(r: dict) -> tuple[str, str]:
+        """(source_id, position_key) de un raw_chunk, source-agnostic vía adapter.
+
+        Usa el `source_id`/`position` del payload universal; cae a youtube:<video_id>
+        + timestamp_seconds para chunks legacy aún sin migrar (robustez).
+        """
+        source_id = r.get("source_id") or f"youtube:{r.get('video_id')}"
+        adapter = adapter_for_source_id(source_id)
+        position = r.get("position") or {"timestamp_seconds": r.get("timestamp_seconds") or 0}
+        return source_id, adapter.position_key(position)
+
+    def _raw_chunk_to_compact(self, r: dict) -> dict[str, Any]:
+        """Compacta un raw_chunk para el output MCP, con campos universales.
+
+        Prefiere el `cite_markdown` precomputado del payload (universal); cae al
+        de SearchResult (youtube) si falta. Expone `project_id`/`source_id` para que
+        el LLM sepa el corpus de procedencia al citar (cross-search).
+        """
+        compact = SearchResult.from_payload(r).to_compact_dict()
+        if r.get("cite_markdown"):
+            compact["cite_markdown"] = r["cite_markdown"]
+        compact["project_id"] = r.get("project_id")
+        compact["source_id"] = r.get("source_id")
+        compact["in_wiki_sources"] = r.get("in_wiki_sources")
+        return compact
+
     # --- helpers para retrieval indirecto vía citations -----------------
 
     def _lookup_wiki_via_citations(
         self,
         raw_results: list[dict],
-    ) -> dict[str, list[dict]]:
+        projects: list[str] | None = None,
+    ) -> dict[tuple[str, str], list[dict]]:
         """Para los raw_chunks con score >= CITATION_LOOKUP_MIN_SCORE, busca en
-        data/wiki.db:citations qué wiki pages los citan.
+        data/ariadna.db:citations qué wiki pages los citan (source-agnostic).
 
         Dos passes:
-          1. **Exact match** (video_id, timestamp_seconds): el chunk está citado
+          1. **Exact match** (source_id, position_key): el chunk está citado
              literalmente en la wiki page. match_strength='exact'.
-          2. **Same-video fallback**: chunks que no hallaron exact match (con
+          2. **Same-source fallback**: chunks que no hallaron exact match (con
              score más estricto: CITATION_LOOKUP_VIDEO_FALLBACK_MIN_SCORE)
-             buscan páginas citadas POR EL MISMO VÍDEO (cualquier timestamp).
+             buscan páginas citadas POR LA MISMA FUENTE (cualquier position).
              match_strength='video_only', score efectivo penalizado por
              CITATION_VIDEO_FALLBACK_SCORE_MULTIPLIER (0.3 por defecto).
              Razón: un vídeo de 2h sobre Tolkien que cita mito-polar en t=300
              arrastra mito-polar para chunks vecinos (t=600, t=900) que el
              extractor no citó explícitamente — recall mejorado con penalty.
 
-        Devuelve un dict {page_id: [chunk_summary, ...]} donde chunk_summary
-        contiene info del chunk disparador (video_id, timestamp_seconds,
-        video_title, chunk_score, match_strength, effective_score).
+        Devuelve {(project_id, page_id): [chunk_summary, ...]}. chunk_summary
+        lleva info del chunk disparador (source_id, video_id, timestamp_seconds,
+        video_title, chunk_score, match_strength, effective_score). project_id va
+        en la clave para no colapsar páginas homónimas de distintos proyectos.
 
-        Si wiki.db no existe, devuelve {}.
+        `projects` acota la búsqueda al scope; None = todos. Si ariadna.db no
+        existe, devuelve {}.
         """
-        conn = self._open_wiki_db()
+        conn = self._open_db()
         if conn is None:
             return {}
+        proj_sql, proj_params = self._project_clause(projects)
         try:
-            hits: dict[str, list[dict]] = {}
+            hits: dict[tuple[str, str], list[dict]] = {}
             # Track chunks que no hallaron exact match para pass 2
             chunks_for_fallback: list[dict] = []
 
-            # --- Pass 1: exact match (video_id, timestamp_seconds) ---
+            # --- Pass 1: exact match (source_id, position_key) ---
             for r in raw_results:
                 dense_score = float(r.get("dense_score", r.get("score", 0.0)))
                 if dense_score < self.CITATION_LOOKUP_MIN_SCORE:
                     continue
-                video_id = r.get("video_id")
-                ts = r.get("timestamp_seconds")
-                if not video_id:
+                source_id, pos_key = self._chunk_locator(r)
+                if not source_id:
                     continue
                 rows = conn.execute(
-                    """SELECT page_id FROM citations
-                       WHERE video_id = ? AND timestamp_seconds = ?""",
-                    (video_id, int(ts or 0)),
+                    f"""SELECT project_id, page_id FROM citations
+                        WHERE source_id = ? AND position_key = ?{proj_sql}""",
+                    (source_id, pos_key, *proj_params),
                 ).fetchall()
                 if rows:
                     chunk_summary = {
-                        "video_id": video_id,
-                        "timestamp_seconds": int(ts or 0),
-                        "video_title": r.get("video_title"),
+                        "source_id": source_id,
+                        "video_id": r.get("video_id"),
+                        "timestamp_seconds": int(r.get("timestamp_seconds") or 0),
+                        "video_title": r.get("video_title") or r.get("title"),
                         "chunk_score": round(dense_score, 4),
                         "match_strength": "exact",
                         "effective_score": round(dense_score, 4),
                     }
-                    for (page_id,) in rows:
-                        hits.setdefault(page_id, []).append(chunk_summary)
+                    for proj, page_id in rows:
+                        hits.setdefault((proj, page_id), []).append(chunk_summary)
                 else:
                     # No exact match → candidato para pass 2 si pasa threshold estricto
                     if dense_score >= self.CITATION_LOOKUP_VIDEO_FALLBACK_MIN_SCORE:
                         chunks_for_fallback.append({
-                            "video_id": video_id,
-                            "timestamp_seconds": int(ts or 0),
-                            "video_title": r.get("video_title"),
+                            "source_id": source_id,
+                            "video_id": r.get("video_id"),
+                            "timestamp_seconds": int(r.get("timestamp_seconds") or 0),
+                            "video_title": r.get("video_title") or r.get("title"),
                             "chunk_score": round(dense_score, 4),
                         })
 
-            # --- Pass 2: same-video fallback ---
-            # Pages que ya entraron por exact match para este (video, *): no
-            # las contamos otra vez con video-only (sería ruido). Si una page
-            # tiene match exact para algún chunk del vídeo, el chunk vecino
-            # video-only no aporta info adicional a esa page.
-            videos_with_exact_match_per_page: dict[str, set[str]] = {}
-            for pid, chunks in hits.items():
-                videos_with_exact_match_per_page[pid] = {
-                    c["video_id"] for c in chunks if c.get("match_strength") == "exact"
+            # --- Pass 2: same-source fallback ---
+            # Pages que ya entraron por exact match para esta (fuente, *): no las
+            # contamos otra vez con video-only (sería ruido).
+            source_with_exact_per_page: dict[tuple[str, str], set[str]] = {}
+            for key, chunks in hits.items():
+                source_with_exact_per_page[key] = {
+                    c["source_id"] for c in chunks if c.get("match_strength") == "exact"
                 }
 
             for chunk in chunks_for_fallback:
-                video_id = chunk["video_id"]
+                source_id = chunk["source_id"]
                 rows = conn.execute(
-                    """SELECT DISTINCT page_id FROM citations WHERE video_id = ?""",
-                    (video_id,),
+                    f"""SELECT DISTINCT project_id, page_id FROM citations
+                        WHERE source_id = ?{proj_sql}""",
+                    (source_id, *proj_params),
                 ).fetchall()
                 if not rows:
                     continue
@@ -396,20 +475,18 @@ class Searcher:
                     chunk["chunk_score"] * self.CITATION_VIDEO_FALLBACK_SCORE_MULTIPLIER, 4
                 )
                 chunk_summary = {
-                    "video_id": video_id,
+                    "source_id": source_id,
+                    "video_id": chunk["video_id"],
                     "timestamp_seconds": chunk["timestamp_seconds"],
                     "video_title": chunk["video_title"],
                     "chunk_score": chunk["chunk_score"],
                     "match_strength": "video_only",
                     "effective_score": effective,
                 }
-                for (page_id,) in rows:
-                    # Si la page ya tiene exact match para este vídeo, skip
-                    # (no añade info: el chunk video-only es huérfano dentro
-                    # del vídeo, pero la page ya está cubierta por otro chunk).
-                    if video_id in videos_with_exact_match_per_page.get(page_id, set()):
+                for proj, page_id in rows:
+                    if source_id in source_with_exact_per_page.get((proj, page_id), set()):
                         continue
-                    hits.setdefault(page_id, []).append(chunk_summary)
+                    hits.setdefault((proj, page_id), []).append(chunk_summary)
             return hits
         finally:
             conn.close()
@@ -417,7 +494,8 @@ class Searcher:
     def _build_chunk_to_wiki_index(
         self,
         raw_results: list[dict],
-    ) -> dict[tuple[str, int], list[str]]:
+        projects: list[str] | None = None,
+    ) -> dict[tuple[str, str], list[str]]:
         """Inversa de _lookup_wiki_via_citations: para cada chunk (sin filtro de score),
         qué wiki pages lo citan. Pobla raw_chunks[].in_wiki_sources.
 
@@ -425,87 +503,86 @@ class Searcher:
           - No filtra por score (todos los chunks devueltos quieren saber si están
             cubiertos en wiki — es metadata de navegación, no ranking).
           - Devuelve solo page_ids, no objetos enriquecidos.
+
+        Clave = (source_id, position_key), igual que _chunk_locator.
         """
-        conn = self._open_wiki_db()
+        conn = self._open_db()
         if conn is None:
             return {}
+        proj_sql, proj_params = self._project_clause(projects)
         try:
-            out: dict[tuple[str, int], list[str]] = {}
+            out: dict[tuple[str, str], list[str]] = {}
             for r in raw_results:
-                video_id = r.get("video_id")
-                ts = int(r.get("timestamp_seconds") or 0)
-                if not video_id:
+                source_id, pos_key = self._chunk_locator(r)
+                if not source_id:
                     continue
                 rows = conn.execute(
-                    """SELECT page_id FROM citations
-                       WHERE video_id = ? AND timestamp_seconds = ?""",
-                    (video_id, ts),
+                    f"""SELECT page_id FROM citations
+                        WHERE source_id = ? AND position_key = ?{proj_sql}""",
+                    (source_id, pos_key, *proj_params),
                 ).fetchall()
                 if rows:
-                    out[(video_id, ts)] = [pid for (pid,) in rows]
+                    out[(source_id, pos_key)] = [pid for (pid,) in rows]
             return out
         finally:
             conn.close()
 
-    def _fetch_wiki_pages_from_db(self, page_ids: list[str]) -> dict[str, dict]:
-        """Construye dicts compactos de wiki_pages desde wiki.db (paralelo a
+    def _fetch_wiki_pages_from_db(
+        self, keys: list[tuple[str, str]]
+    ) -> dict[tuple[str, str], dict]:
+        """Construye dicts compactos de wiki_pages desde ariadna.db (paralelo a
         _wiki_payload_to_compact que lo hace desde Qdrant). Usado para entradas
         que entraron solo vía citation y por tanto no tienen vector focal en
         los resultados Qdrant.
 
-        Devuelve {page_id: compact_dict_sin_score}. El caller decide el score
-        (típicamente derivado del chunk citante).
+        `keys` son tuplas (project_id, page_id). Devuelve {(project_id, page_id):
+        compact_dict_sin_score}. El caller decide el score.
         """
-        if not page_ids:
+        if not keys:
             return {}
-        conn = self._open_wiki_db()
+        conn = self._open_db()
         if conn is None:
             return {}
         try:
-            placeholders = ",".join("?" * len(page_ids))
-            pages = conn.execute(
-                f"""SELECT page_id, page_type, canonical_name, domain_primary, file_path, body_md
-                    FROM pages WHERE page_id IN ({placeholders})""",
-                page_ids,
-            ).fetchall()
-            aliases = conn.execute(
-                f"SELECT page_id, alias FROM aliases WHERE page_id IN ({placeholders})",
-                page_ids,
-            ).fetchall()
-            relations = conn.execute(
-                f"""SELECT from_page_id, type, to_page_id, note, weight
-                    FROM relations WHERE from_page_id IN ({placeholders})""",
-                page_ids,
-            ).fetchall()
-
-            aliases_by_pid: dict[str, list[str]] = {}
-            for pid, a in aliases:
-                aliases_by_pid.setdefault(pid, []).append(a)
-
-            relations_by_pid: dict[str, list[dict]] = {}
-            for from_pid, rtype, to_pid, note, weight in relations:
-                rel: dict[str, Any] = {"type": rtype, "to": to_pid}
-                if note:
-                    rel["note"] = note
-                if weight:
-                    rel["weight"] = weight
-                relations_by_pid.setdefault(from_pid, []).append(rel)
-
-            out: dict[str, dict] = {}
-            for pid, ptype, cname, dprim, fpath, body in pages:
-                rels = relations_by_pid.get(pid, [])
+            out: dict[tuple[str, str], dict] = {}
+            for project_id, pid in keys:
+                row = conn.execute(
+                    """SELECT page_type, canonical_name, domain_primary, file_path, body_md
+                       FROM pages WHERE project_id = ? AND page_id = ?""",
+                    (project_id, pid),
+                ).fetchone()
+                if row is None:
+                    continue
+                ptype, cname, dprim, fpath, body = row
+                aliases = [
+                    a for (a,) in conn.execute(
+                        "SELECT alias FROM aliases WHERE project_id = ? AND page_id = ?",
+                        (project_id, pid),
+                    )
+                ]
+                rels: list[dict[str, Any]] = []
+                for rtype, to_pid, note, weight in conn.execute(
+                    """SELECT type, to_page_id, note, weight FROM relations
+                       WHERE project_id = ? AND from_page_id = ?""",
+                    (project_id, pid),
+                ):
+                    rel: dict[str, Any] = {"type": rtype, "to": to_pid}
+                    if note:
+                        rel["note"] = note
+                    if weight:
+                        rel["weight"] = weight
+                    rels.append(rel)
                 # Trim Citations + extraer snippet (H1 + primer H2 + primer
-                # párrafo, ~800 chars). El LLM ve el snippet para decidir
-                # relevancia; pide get_wiki_page si quiere el body completo.
-                # Reduce ~95% tokens por wiki_page en el response.
+                # párrafo, ~800 chars). Reduce ~95% tokens por wiki_page.
                 body_trimmed, _ = _strip_citations_section(body or "")
                 body_snippet = _extract_body_snippet(body_trimmed)
-                out[pid] = {
+                out[(project_id, pid)] = {
+                    "project_id": project_id,
                     "page_id": pid,
                     "page_type": ptype,
                     "canonical_name": cname,
                     "domain_primary": dprim,
-                    "aliases": sorted(aliases_by_pid.get(pid, [])),
+                    "aliases": sorted(aliases),
                     "relations": rels,
                     "relation_targets": sorted({r["to"] for r in rels if r.get("to")}),
                     "relation_types_present": sorted({r["type"] for r in rels if r.get("type")}),
@@ -519,7 +596,8 @@ class Searcher:
     def _merge_wiki_lanes(
         self,
         semantic: list[dict],
-        citation_hits: dict[str, list[dict]],
+        citation_hits: dict[tuple[str, str], list[dict]],
+        projects: list[str] | None = None,
     ) -> list[dict]:
         """Une la wiki lane semántica con la lane indirecta vía citations.
 
@@ -528,17 +606,18 @@ class Searcher:
             comparable con thresholds). matched_via_chunks listadas.
           - Solo semántica → match_via="semantic".
           - Solo citation → match_via="citation", score = max(chunk_score) de los
-            chunks citantes. Página fetched desde wiki.db (no estaba en Qdrant top).
+            chunks citantes. Página fetched desde ariadna.db (no estaba en Qdrant top).
 
-        Resultado ordenado por score desc.
+        La identidad de página es (project_id, page_id): páginas homónimas de
+        proyectos distintos NO se funden. Resultado ordenado por score desc.
         """
         sem_compact = [_wiki_payload_to_compact(w) for w in semantic]
-        sem_pids = {w["page_id"] for w in sem_compact}
+        sem_keys = {(w.get("project_id"), w["page_id"]) for w in sem_compact}
 
         # 1. Anota match_via en las semánticas y attach matched_via_chunks si aplica.
         for w in sem_compact:
-            pid = w["page_id"]
-            triggering = citation_hits.get(pid)
+            key = (w.get("project_id"), w["page_id"])
+            triggering = citation_hits.get(key)
             if triggering:
                 # match_via 'both' aplica aunque las citas sean video-only:
                 # la page ya entró semánticamente, las citas son enrichment.
@@ -547,14 +626,14 @@ class Searcher:
             else:
                 w["match_via"] = "semantic"
 
-        # 2. Para page_ids que están solo en citation_hits, fetch desde wiki.db.
-        citation_only_pids = [pid for pid in citation_hits if pid not in sem_pids]
-        fetched = self._fetch_wiki_pages_from_db(citation_only_pids)
+        # 2. Para (project, page_id) que están solo en citation_hits, fetch desde ariadna.db.
+        citation_only_keys = [k for k in citation_hits if k not in sem_keys]
+        fetched = self._fetch_wiki_pages_from_db(citation_only_keys)
 
-        for pid, chunks in citation_hits.items():
-            if pid in sem_pids:
+        for key, chunks in citation_hits.items():
+            if key in sem_keys:
                 continue
-            page_dict = fetched.get(pid)
+            page_dict = fetched.get(key)
             if page_dict is None:
                 # Citation huérfana — el JOIN devolvió un page_id que no existe en pages.
                 # Posible si el DB está stale respecto a wiki/. Skip silencioso.
@@ -594,6 +673,7 @@ def _wiki_payload_to_compact(payload: dict) -> dict:
     body_snippet = _extract_body_snippet(body_trimmed)
     return {
         "score": round(float(payload["score"]), 4),
+        "project_id": payload.get("project_id"),
         "page_id": payload.get("page_id"),
         "page_type": payload.get("page_type"),
         "canonical_name": payload.get("canonical_name"),

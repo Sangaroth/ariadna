@@ -101,7 +101,12 @@ mcp = FastMCP(
         "\n"
         "Permite filtrar por categoria ('analisis de obra', 'mitologia y religion', "
         "'psicologia', 'filosofia y teoria', 'cultura y actualidad') o playlist; "
-        "los filtros aplican solo a raw_chunks (la wiki tiene su propia taxonomia)."
+        "los filtros aplican solo a raw_chunks (la wiki tiene su propia taxonomia).\n"
+        "\n"
+        "MULTI-PROYECTO: el parametro 'project' acota el corpus. Omitelo (None) para "
+        "buscar en TODOS los proyectos; pasa un slug ('proxy') para uno; pasa una lista "
+        "(['proxy','atlas-teleosemantico']) para cruzar varios. Cada resultado lleva su "
+        "'project_id' de procedencia para que cites indicando el corpus."
     ),
 )
 def search_corpus(
@@ -111,21 +116,30 @@ def search_corpus(
     category: str | None = None,
     playlist: str | None = None,
     include_filtered: bool = False,
+    project: str | list[str] | None = None,
 ) -> dict[str, Any]:
     """Búsqueda híbrida raw + wiki sobre el corpus.
 
     include_filtered: si True, incluye chunks que el pipeline marcó como
     politiqueo/promocional/casual via topic_filters.json. Por defecto se excluyen.
+
+    project: aislamiento por proyecto (str | list[str] | None). None = todos.
     """
     searcher = get_searcher()
-    return searcher.search_hybrid(
-        query,
-        top_k_raw=top_k,
-        top_k_wiki=top_k_wiki,
-        category=category,
-        playlist=playlist,
-        include_filtered=include_filtered,
-    )
+    try:
+        return searcher.search_hybrid(
+            query,
+            top_k_raw=top_k,
+            top_k_wiki=top_k_wiki,
+            category=category,
+            playlist=playlist,
+            include_filtered=include_filtered,
+            project=project,
+        )
+    except ValueError as e:
+        if str(e).startswith("PROJECT_NOT_FOUND"):
+            return {"error": str(e), "hint": "Usa list_projects para ver los slugs disponibles"}
+        raise
 
 
 @mcp.tool(
