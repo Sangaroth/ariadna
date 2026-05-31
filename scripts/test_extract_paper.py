@@ -58,11 +58,13 @@ def test_materialize_pages() -> None:
         paths = materialize_pages([
             PAGE,
             {"page_id": "millikan-ruth", "page_type": "author", "canonical_name": "Ruth Millikan", "cited_pages": [1]},
-            {"page_id": "BAD ID", "page_type": "concept", "canonical_name": "x"},  # inválido → skip
+            {"page_id": "Señal de Error", "page_type": "concept", "canonical_name": "z"},  # acentos → saneado a 'senal-de-error'
+            {"page_id": "!!!", "page_type": "concept", "canonical_name": "x"},   # sanea a vacío → skip
             {"page_id": "ok", "page_type": "tipo-raro", "canonical_name": "y"},     # type desconocido → skip
         ], "doi:10.1/x", "Un Paper", "atlas-test", wiki_root=wroot)
         names = sorted(p.relative_to(wroot).as_posix() for p in paths)
-        assert names == ["authors/millikan-ruth.md", "concepts/teleosemantica.md"], names
+        assert names == ["authors/millikan-ruth.md", "concepts/senal-de-error.md",
+                         "concepts/teleosemantica.md"], names
 
 
 TESTS = [test_extract_json, test_render_page_markdown,

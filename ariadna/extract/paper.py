@@ -14,6 +14,7 @@ from __future__ import annotations
 import json
 import logging
 import re
+import unicodedata
 from pathlib import Path
 from typing import Any
 
@@ -120,6 +121,16 @@ def extract_paper_to_pages(
 _PAGE_ID_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
 
 
+def _sanitize_page_id(raw: str) -> str:
+    """Normaliza a kebab ASCII: acentos→base (ñ→n, á→a), minúsculas, no-[a-z0-9]→'-'.
+
+    El LLM a veces emite page_ids en español con ñ/acentos (p.ej.
+    'señal-de-error-de-la-fibra-trepadora'); sanear evita descartar la página.
+    """
+    s = unicodedata.normalize("NFKD", raw).encode("ascii", "ignore").decode("ascii")
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+
+
 def _yaml_scalar(v: str) -> str:
     """Cita el escalar si contiene caracteres YAML problemáticos."""
     if v and re.search(r"[:#\[\]{}\"']", v):
@@ -205,11 +216,12 @@ def materialize_pages(
     root = wiki_root or ProjectConfig(project).wiki_root
     written: list[Path] = []
     for page in pages:
-        pid = page.get("page_id", "")
+        pid = _sanitize_page_id(page.get("page_id", ""))
         ptype = page.get("page_type", "")
         if not _PAGE_ID_RE.match(pid):
-            log.warning("page_id inválido, salto: %r", pid)
+            log.warning("page_id inválido, salto: %r", page.get("page_id", ""))
             continue
+        page = {**page, "page_id": pid}  # frontmatter/filename usan el id saneado
         subdir = _SUBDIR_BY_TYPE.get(ptype)
         if subdir is None:
             log.warning("page_type desconocido %r en %s, salto", ptype, pid)
