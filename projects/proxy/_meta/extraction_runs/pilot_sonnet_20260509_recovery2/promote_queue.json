@@ -1,0 +1,552 @@
+{
+  "version": "0.1.0",
+  "run_id": "pilot_sonnet_20260509_recovery2",
+  "items": [
+    {
+      "canonical_guess": "demonios-en-proxy",
+      "from_video": "L4ayDmaUO9Y",
+      "entity": {
+        "surface_form": "Demonología en Proxy / los demonios como fenómeno (mitológico-psicológico-teológico)",
+        "canonical_guess": "demonios-en-proxy",
+        "page_type": "synthesis",
+        "synthesis_subtype": "author_thesis",
+        "auto_promoted_synthesis": true,
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 110,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Un demonio tiene una acepción mitológica (poética cultural), una psicológica (biológica) y una teológica (filosófica),"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Las cuatro formas del mal en la tradición semítico-cristiana"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Cuatro formas de influencia demoníaca: obsesión, infestación, vejación y subyugación"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Los cinco indicios patognomónicos de posesión demoníaca"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Cuatro personificaciones del mal en la Biblia: anticristo, bestia, dragón y leviatán"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "La teología es filosofía que se elabora a partir de la premisa de que Dios existe,"
+          },
+          {
+            "mark_type": "genealogical_self_reference",
+            "quote_evidence": "Del origen del mal (III): La fe y los demonios"
+          }
+        ],
+        "framework_internal_structure": [
+          "Tres acepciones del demonio: mitológica, psicológica, teológica",
+          "Cuatro formas canónicas del mal: primario u originario, padecimiento, corrupción, posesión",
+          "Cuatro formas de influencia demoníaca: obsesión, infestación, vejación, subyugación",
+          "Cinco indicios patognomónicos de posesión: aversión a lo sagrado, conocimientos ocultos, don de lenguas, fuerza física sobrenatural, actividad demoníaca",
+          "Seis puertas de vulnerabilidad al ataque demoníaco",
+          "Cuatro personificaciones del mal en la Biblia: anticristo, bestia, dragón, leviatán",
+          "Siete demonios capitales: Lucifer (soberbia), Mammón (avaricia), Asmodeo (lujuria), Belcebú (gula), Belfegor (pereza), Satanás (ira), Leviatán (envidia)"
+        ],
+        "minutes_sustained": 110,
+        "signal_marks_count": 7,
+        "gate_auto_promote_passed": true,
+        "gate_evaluation": "minutes_sustained=110 >= 30 ✓; signal_marks=7 >= 3 ✓ (declared_thesis + 4 internal_structure + pedagogic_register + genealogical_self_reference); framework_internal_structure=7 >= 4 ✓. Pasa gate de auto-promoción synthesis sin firma humana per scope.md §2.4.1.",
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Vídeo monográfico de 122 min (parte III de la serie 'Del origen del mal') articula sostenidamente una demonología completa con siete subestructuras internas (3 acepciones, 4 formas canónicas del mal, 4 influencias demoníacas, 5 indicios patognomónicos, 6 puertas de vulnerabilidad, 4 personificaciones bíblicas, 7 demonios capitales). Cumple los tres criterios del gate de auto-promoción synthesis. La articulación es ortogonal a las páginas existentes: cuatro-formas-del-mal está mapeada al SdA, demonios-en-proxy expone la formulación canónica completa con todas sus tipologías; del-origen-del-mal-libro describe la estructura general del libro (6 mitos primarios), demonios-en-proxy desarrolla un capítulo demonológico autónomo. Justifica página synthesis propia.",
+        "quote_evidence": "La mejor forma de imaginar un demonio es como un campo, un atractor, una fuerza o una presión,"
+      }
+    },
+    {
+      "canonical_guess": "enredados-2010-film",
+      "from_video": "OT2DW4zoKsE",
+      "entity": {
+        "surface_form": "Enredados (Tangled)",
+        "canonical_guess": "enredados-2010-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 116,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La película es un viaje del héroe masculino contado a través de lo femenino, lo que la convierte en un hieros gamos,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Madre Gothel como cordón umbilical que nunca se corta, alimentándose de la belleza de la hija para mantenerse joven,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El proceso de la película es exactamente lo que se hace en terapias de trastorno de personalidad: volver a los orígenes,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Como el colgado del tarot, se sacrifica dándolo todo únicamente para salvar a Rapunzel, renunciando por completo a su vida,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 116 min dedicado íntegramente al análisis arquetípico de Enredados (Disney, 2010). Aplica sostenidamente el aparato del canal: hieros gamos como viaje del héroe masculino contado a través de lo femenino, los tres dones de la diosa (gracia/belleza/esperanza) extraídos del elixir-flor a Rapunzel, Madre Gothel como caso paradigmático de la madre oscura, los farolillos como tributo a los dioses masculinos, Flynn como cero del tarot que conquista el autodominio (el colgado), la sartén como herencia útil de la madre ansiosa, el corte del pelo como renuncia masculina a la belleza externa, la lágrima como elixir verdadero (esperanza interior), la reelaboración episódica como terapia. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'. Lectura paralela y complementaria a la-bella-durmiente-1959-film y la-sirenita-1989-film promovidas en este mismo batch.",
+        "quote_evidence": "La película es un viaje del héroe masculino contado a través de lo femenino, lo que la convierte en un hieros gamos,"
+      }
+    },
+    {
+      "canonical_guess": "madre-oscura-en-proxy",
+      "from_video": "OT2DW4zoKsE",
+      "entity": {
+        "surface_form": "La madre oscura (tipología clínico-arquetípica del canal)",
+        "canonical_guess": "madre-oscura-en-proxy",
+        "page_type": "synthesis",
+        "synthesis_subtype": "author_thesis",
+        "auto_promoted_synthesis": true,
+        "domain_primary_guess": "social.psychology",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 60,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La madre oscura hace exactamente lo opuesto a la madre nutricia: utiliza tu vida para nutrirse ella,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Toda madre tiene una parte oscura que involuntariamente transmite ponzoña junto con la buena intención de riego,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La crianza hiperracional y superexigente (exceso de padre, ausencia de madre) causa apego evitativo y desconexión afectiva,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La madre neurótica con depresión o desorden afectivo grave causa apego desorganizado, base de lo histriónico y borderline,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El trastorno borderline pertenece a la estructura femenina de la psique: inestabilidad afectiva que todas las madres provocan en cierta medida,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La sartén es la única cosa útil que la madre neurótica le ha transmitido: la impulsividad de responder fieramente a las amenazas,"
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "Madre Gothel como cordón umbilical que nunca se corta, alimentándose de la belleza de la hija para mantenerse joven,"
+          }
+        ],
+        "framework_internal_structure": [
+          "Definición operativa: madre oscura como inversión de la madre nutricia (consume en lugar de nutrir)",
+          "Tres dones de la diosa que la madre oscura niega: gracia, belleza-genuina, esperanza (sustituida por ansiedad)",
+          "Mecanismo de cohabitación del superyó: la madre oscura ocupa el aparato cognitivo de la hija e impone qué es bueno/malo",
+          "Tipología clínica por estilo de apego: evitativo (exceso padre/ausencia madre) → desconexión afectiva; desorganizado (madre depresiva/desordenada) → base histriónico-borderline; combinación (Gothel padre+madre) → identidad/represión/vínculos autodestructivos",
+          "Genealogía recursiva: la madre oscura cristaliza por su propia herida (alguien se aprovechó de su belleza, le dejó sin esperanza)",
+          "Mecanismo del miedo heredado: 'el miedo a ser ordinaria' como ansiedad transmitida de madre a hija",
+          "La sartén como herencia útil: capacidad de respuesta abrupta, fuerza de la mujer dentro del hogar transmitida por la madre ansiosa",
+          "Trastorno borderline como estructura femenina constitutiva (no patología absoluta sino gradación)",
+          "Cristalizaciones cinematográficas: Madre Gothel (Tangled) + Maléfica (Bella Durmiente) + madrastra de Blancanieves",
+          "Mecanismo terapéutico: reelaboración episódica (volver al origen, cambiar retroactivamente, regresar al presente sanado)"
+        ],
+        "minutes_sustained": 60,
+        "signal_marks_count": 7,
+        "gate_auto_promote_passed": true,
+        "gate_evaluation": "minutes_sustained=60 >= 30 ✓; signal_marks=7 >= 3 ✓ (declared_thesis + 3 internal_structure + 2 applied_framework + pedagogic_register); framework_internal_structure=10 >= 4 ✓. Pasa gate de auto-promoción synthesis sin firma humana per scope.md §2.4.1. Justificación adicional: el thesis_candidate de La Bella Durmiente (este mismo batch) ya marcaba la madrastra/Mother Gothel como predictor antisocial con minutes_sustained insuficiente (12 min); este vídeo añade 60+ min sostenidos sobre el mismo arquetipo, completando el material para promoción autónoma.",
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Vídeo monográfico de 116 min cuyo título mismo declara el tema ('Análisis de la madre oscura en Disney'). Articula sostenidamente la tipología clínico-arquetípica de la figura: definición operativa (inversión de la madre nutricia), mecanismo de cohabitación del superyó, tipología por estilo de apego (evitativo/desorganizado/borderline), genealogía recursiva (la madre oscura como cristalización de su propia herida), cristalizaciones cinematográficas (Gothel/Maléfica/madrastra de Blancanieves), mecanismo terapéutico (reelaboración episódica). El thesis_candidate previo de La Bella Durmiente (12 min) sobre 'madrastra como predictor de conducta antisocial' encuentra aquí su articulación sostenida (60+ min) que completa el material para promoción autónoma. Justifica synthesis page propia separada de tipologia-femenina-arquetipica (que articula la tipología SANA gracia/consorte/madre + 5 corruptivas Wendy/ninfa/lámia/Medea/bruja) y separada del entity_work de Tangled (que documenta la lectura específica del film).",
+        "quote_evidence": "La madre oscura hace exactamente lo opuesto a la madre nutricia: utiliza tu vida para nutrirse ella,"
+      }
+    },
+    {
+      "canonical_guess": "la-bella-durmiente-1959-film",
+      "from_video": "Ot3Z1VYTUgY",
+      "entity": {
+        "surface_form": "La Bella Durmiente",
+        "canonical_guess": "la-bella-durmiente-1959-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 121,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El reino representa el Yo, el dominio interior donde verdaderamente tenemos control,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Todo Yo está dividido en dos partes: lo masculino y lo femenino, representados por el rey y la reina,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Toda la película trata sobre la adolescencia en sí misma: el cuidado, la inevitabilidad de la herida y la imposibilidad de sobreproteger contra el destino,"
+          },
+          {
+            "mark_type": "interpretive_correction",
+            "quote_evidence": "La película Maléfica pone como protagonista a la envidia y propone que la solución es que la envidia perdone a la doncella,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El beso en la más alta torre del Yo es la reunificación: lo masculino y lo femenino se integran,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 121 min dedicado íntegramente al análisis arquetípico de La Bella Durmiente (Disney, 1959). Aplica sostenidamente el aparato del canal: cuento como estructura mitológica universal, reino-Yo / castillo-persona, rey-reina como masculino/femenino del Yo, hadas madrinas como dones divinos (belleza/palabra/esperanza ≈ oro/incienso/mirra), tres formas geométricas como reinos del inconsciente, Maléfica como sacerdotisa del vicio (Emperatriz+Hierofante+Diablo del tarot), rueca como rueda del destino, menarquía como umbral, dragón como monstruo de la psique, beso como integración del Yo. Articula además crítica explícita a Maléfica (2014) como inversión estructural. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'.",
+        "quote_evidence": "Toda la película trata sobre la adolescencia en sí misma: el cuidado, la inevitabilidad de la herida y la imposibilidad de sobreproteger contra el destino,"
+      }
+    },
+    {
+      "canonical_guess": "alien-saga",
+      "from_video": "Sszbs7CG0cQ",
+      "entity": {
+        "surface_form": "Alien (saga)",
+        "canonical_guess": "alien-saga",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 60,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Alien toma el mito del gólem y le da una versión masculina y femenina mezclada con el mito polar,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Existe siempre: una gran madre (naturaleza), una hija (diosa-protagonista), una corporación (naturaleza artificial), un gólem (hijo de la corporación) y los varones (soldados),"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La estructura de Alien es: tomemos el mito polar y digamos qué pasaría si todo fuera al revés, si los dioses fueran malignos y devoradores,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Alien (saga) está en canonical_whitelist.json:works_canonical con auto_promote: true. Este vídeo (Mitología 101 didáctico) dedica ~60 min al análisis arquetípico estructural de la saga completa, articulando: (a) Alien como inversión del mito polar — 'tomemos el mito polar y digamos qué pasaría si todo fuera al revés, si los dioses fueran malignos'; (b) la cadena fractal de creación (Titanes/Arquitectos → humanos → corporación Weyland → androides → aliens, cada uno devorando las entrañas del anterior); (c) Weyland como Pandora corporativa Y Dios maligno simultáneamente; (d) la nave 'Mother' como canastilla de Moisés y la diosa-protagonista (Ripley/Lambert/Daniels) como variante del mito de Inanna; (e) los aliens como gólems-ángeles oscuros con evolución máquina-biológica; (f) la estructura idéntica del final de todas las películas; (g) la abominación como composición aberrante (cada personaje es una mezcla prohibida). Cumple el criterio de canonical_whitelist auto_promote (mención sustantiva ≥3 min), y supera ampliamente el umbral con tratamiento sostenido. La entrada saga unificada se justifica porque el análisis es estructural sobre las películas como conjunto, no sobre una entrega específica.",
+        "quote_evidence": "Alien toma el mito del gólem y le da una versión masculina y femenina mezclada con el mito polar,"
+      }
+    },
+    {
+      "canonical_guess": "golem-arquetipo",
+      "from_video": "Sszbs7CG0cQ",
+      "entity": {
+        "surface_form": "Mito del gólem (arquetipo del hijo imperfecto creado a imagen y semejanza)",
+        "canonical_guess": "golem-arquetipo",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.religion",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 20,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El gólem es el hijo creado a imagen y semejanza que siempre resulta imperfecto e irreversiblemente defectuoso,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "La estructura es fractal: Dios crea al hombre, el hombre crea al gólem, y cada creación replica el fallo de intentar replicar lo divino,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El ser más perfecto es también el más falible porque es el más autónomo: cuanto más libre, más se aleja de los planes iniciales,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Frankenstein se llama \"Frankenstein o el moderno Prometeo\": Mary Shelley hace referencia directa al mito de Prometeo,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1 monográfico (~20 min sostenidos articulación del concepto como tesis central) + framing-mark explícito ('el gólem es...'). Concepto canal-articulado con estructura interna definida (definición, mecanismo de imperfección, paradoja autonomía-falibilidad, recursividad fractal) y casos paradigmáticos identificados (Alien, Frankenstein, Matrix-anomalía-sistémica). Distinto y complementario a [[golem-de-cobre]] (synthesis sobre cognición humana vs IA) — esta página articula el ARQUETIPO MITOLÓGICO del gólem como hijo imperfecto creado a imagen y semejanza, mientras que golem-de-cobre articula el modelo cognitivo del canal sobre la mente humana frente a la máquina. Ambas pueden coexistir como concept-page (arquetipo) y synthesis-page (aplicación cognitiva del arquetipo).",
+        "quote_evidence": "El gólem es el hijo creado a imagen y semejanza que siempre resulta imperfecto e irreversiblemente defectuoso,"
+      }
+    },
+    {
+      "canonical_guess": "pinocho-1940-film",
+      "from_video": "agh46Snf5YI",
+      "entity": {
+        "surface_form": "Pinocho",
+        "canonical_guess": "pinocho-1940-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 148,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El mito principal es el del golem: el alquimista creando un ser que se vuelve animado, el mismo mito de Frankenstein de Mary Shelley,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Esta no es una historia del paso a la adultez sino de la integración de la infancia: cuando se integran los monstruos, los sueños y la realidad,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Jonás huye de su responsabilidad de ir a Nínive; lo contrario al orden se apodera de él y lo devora — la ballena es la ira del caos interior,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 148 min dedicado íntegramente al análisis arquetípico de la película (Disney, 1940). Aplica simultáneamente múltiples marcos del canal (mito del golem, Ícaro, laberinto-conciencia, Jonás-Nínive, padre-creador, hada como diosa, conciencia que viene de fuera, integración de la infancia). Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'.",
+        "quote_evidence": "Esta no es una historia del paso a la adultez sino de la integración de la infancia: cuando se integran los monstruos, los sueños y la realidad,"
+      }
+    },
+    {
+      "canonical_guess": "event-horizon-1997-film",
+      "from_video": "cgO7JwvwOQg",
+      "entity": {
+        "surface_form": "Event Horizon",
+        "canonical_guess": "event-horizon-1997-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 105,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "2001 es un viaje del héroe prometeico; Event Horizon es la caja de Pandora,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La Event Horizon tiene cabeza, cola y un frágil cuerpo intermedio: es la arquitectura de la psique,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Cada tripulante representa una forma de afrontar el trauma: el capitán-sabio, el piloto-hierofante religioso, la sacerdotisa-Freya intuitiva,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Lo que hay más allá del agujero negro no tiene forma; al manifestarse en nuestro plano, debe personificarse,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Si no tratamos nuestro mal interior y dejamos que crezca, nos convertimos en instrumentos de ese mal y en un problema para los demás,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 105 min dedicado íntegramente al análisis arquetípico de Event Horizon (Anderson, 1997). Aplica sostenidamente el aparato del canal: Pandora vs Prometeo como dos arquetipos de la ciencia ficción, horizonte de sucesos como metáfora del límite interior, agujero negro del alma como sufrimiento inefable, la nave como arquitectura de la psique (cabeza/cuerpo/cola), los ocho tripulantes mapeados a cartas del Tarot, Neptuno como inconsciente marino, mecánica del horror cósmico (mal sin forma que se personifica al manifestarse). Articula además la tesis terminal sobre el trauma como compañero perpetuo y la advertencia: 'si no tratamos nuestro mal interior, nos convertimos en instrumentos de ese mal'. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'.",
+        "quote_evidence": "Event Horizon es la caja de Pandora,"
+      }
+    },
+    {
+      "canonical_guess": "horror-cosmico",
+      "from_video": "cgO7JwvwOQg",
+      "entity": {
+        "surface_form": "Horror cósmico",
+        "canonical_guess": "horror-cosmico",
+        "page_type": "concept",
+        "domain_primary_guess": "humanities.literature",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 50,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El horror cósmico es percibir algo que escapa por completo a lo que la mente puede concebir,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "2001 es un viaje del héroe prometeico; Event Horizon es la caja de Pandora,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La ciencia ficción lleva el mito más allá gracias a la técnica: permite hablar de lo que el mito no sabía que podía nombrar,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Pocas estructuras mitológicas hablan del terror sin forma porque el mito se limita a lo narrable,"
+          }
+        ],
+        "assumed_prior": true,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Concepto canal-específico en canonical_whitelist.json:channel_specific_concepts con auto_promote: true. La whitelist lo describe como 'Categoría central en lecturas de Lovecraft. Inversión del mito clásico de teofanía. Recurrente'. Este vídeo articula sostenidamente la categoría a lo largo de ~50 min (definición, mecanismo, genealogía literatura→cine, casos comparativos Hellraiser/Alien/2001, conexión con mal-sin-forma) cumpliendo el criterio de 'mención sustantiva ≥3 min' que la whitelist requiere para promoción automática. La categoría es ortogonal a las páginas existentes (lovecraft-howard como autor, mal-sin-forma como filosofía moral) — articula el concepto literario-cinematográfico específico que conecta ambos.",
+        "quote_evidence": "El horror cósmico es percibir algo que escapa por completo a lo que la mente puede concebir,"
+      }
+    },
+    {
+      "canonical_guess": "el-conclave-2024-film",
+      "from_video": "faUVtOicasg",
+      "entity": {
+        "surface_form": "El Cónclave",
+        "canonical_guess": "el-conclave-2024-film",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 104,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La proxiana: es una película antiprogresista sobre cómo la falta de prudencia puede destrozarlo todo de forma irreversible sin que nos demos cuenta,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El progresismo carece por completo de prudencia y todo el desastre narrado es consecuencia de la falta de ejercicio de esta virtud,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "En caso de certeza se acude a la lógica; en caso de fe se acude a la estructura; en caso de duda se acude a la prudencia,"
+          },
+          {
+            "mark_type": "interpretive_correction",
+            "quote_evidence": "Hay una interpretación buena (la que se va a exponer), dos malas (la del sofisma progresista y la del católico que la ve como anticatólica) y una cuarta legítima de simplemente no haberla entendido,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 104 min dedicado íntegramente al análisis arquetípico de la película Conclave (Berger, 2024). Aplica sostenidamente el aparato del canal: virtudes cardinales (prudencia como eje), crítica al progresismo, sofisma progresista, distinción tibieza/error/pecado, concatenación de errores por omisión, metáfora arquetípica del caos como lo no-concebible sin estructuras. Articula tres interpretaciones explícitas (progresista, anticatólica, proxiana) y la propia como única operativa. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'.",
+        "quote_evidence": "La proxiana: es una película antiprogresista sobre cómo la falta de prudencia puede destrozarlo todo de forma irreversible sin que nos demos cuenta,"
+      }
+    },
+    {
+      "canonical_guess": "matrix-secuelas-2003",
+      "from_video": "tkVwAclFrsI",
+      "entity": {
+        "surface_form": "Matrix Reloaded y Matrix Revolutions",
+        "canonical_guess": "matrix-secuelas-2003",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 131,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Dos grandes formas de representar el mundo: determinista (un solo futuro posible) y no determinista (las decisiones cambian el futuro),"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Matrix 1 iba sobre la fe, Matrix 2 y 3 van sobre el amor en diferentes sentidos,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Los arquetipos aparecen entremezclados y simultáneos, no secuenciales como en la primera película,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Los humanos funcionan con fe: primero actúo, luego comprendo (comprensión a posteriori),"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "La única libertad humana es la libertad de conciencia: cuanto más capaz eres de tener fe a priori, mejor comprendes a posteriori,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 131 min dedicado íntegramente al análisis arquetípico de Matrix Reloaded y Matrix Revolutions (Wachowski, 2003). Lectura paralela y complementaria a la página existente [[matrix-1999-film]] (que cubre solo la primera entrega) — el canal articula explícitamente la transición temática Matrix 1=fe / Matrix 2-3=amor, la articulación de la dualidad determinismo vs no-determinismo como tema central, mapeo extenso del Tarot a personajes (Loco/Mago/Emperador/Hierofante/Fuerza/Amantes/Ermitaño/Justicia con casos duales y simultáneos), Smith como anti-Neo (fagocitar vs aprender), las tres versiones de Matrix (utopía/historia/libre albedrío), la paradoja del arquitecto, esperanza como quintaesencia del engaño humano, y la tesis terminal sobre fe humana (comprensión a posteriori) vs predicción mecánica (a priori). Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'. Justifica entity_work separada de matrix-1999-film porque las secuelas trabajan tema distinto (amor + dualidad determinista) sostenido en clave narrativa propia.",
+        "quote_evidence": "Matrix 2 y 3 tratan sobre cómo representamos el mundo,"
+      }
+    },
+    {
+      "canonical_guess": "ghost-in-the-shell-sac",
+      "from_video": "yp1gyKHdOJc",
+      "entity": {
+        "surface_form": "Ghost in the Shell: Stand Alone Complex",
+        "canonical_guess": "ghost-in-the-shell-sac",
+        "page_type": "entity_work",
+        "domain_primary_guess": "arts.cinema",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 118,
+        "framing_marks": [
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El dualismo sostiene que mente y cuerpo coexisten pero nunca son la misma cosa, oponiéndose al monismo,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Existen cuatro niveles: IA blanda (bots que parecen inteligentes), individualidad (IA con personalidad propia), fantasma (conciencia trasladable entre máquinas) y espíritu (autenticidad humana plena),"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Shell es un sistema de interfaz en informática que permite comunicar al humano con el sistema operativo,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "El Hombre que Ríe deja mensajes con citas de Salinger, cuya novela trata la dificultad del varón joven para individualizarse,"
+          },
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "Las políticas identitarias funcionan como meme de rebeldía para fantasmas que han perdido su sentimiento de espíritu,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.3: vídeo monográfico de 118 min dedicado íntegramente al análisis arquetípico de Ghost in the Shell: Stand Alone Complex (Production I.G, 2002). Aplica sostenidamente el aparato del canal: dualismo mente-cuerpo articulado a través del título triple (Shell = interfaz/cáscara/cuerpo prostético), las cuatro capas de conciencia (IA blanda / individualidad / fantasma / espíritu), test de Turing y distinción auténtico/imitado, Mayor Kusanagi como caso de la angustia 'no poder demostrar origen biológico', el Hombre que Ríe como cristalización contemporánea del arquetipo cero (lineage Salinger → Gwynplaine de Hugo → Joker), el laberinto de libros físicos como metáfora de la psique, complejo de autosuficiencia como copias sin original, crítica a las políticas identitarias como 'meme de rebeldía para fantasmas que han perdido su sentimiento de espíritu'. Cumple criterio 'análisis dedicado: ≥1 vídeo monográfico (≥30 min) sobre la obra'.",
+        "quote_evidence": "El paradigma de Turing dice que una inteligencia es todo aquello indistinguible de una inteligencia humana,"
+      }
+    },
+    {
+      "canonical_guess": "complejo-de-autosuficiencia",
+      "from_video": "yp1gyKHdOJc",
+      "entity": {
+        "surface_form": "Complejo de autosuficiencia (Stand Alone Complex)",
+        "canonical_guess": "complejo-de-autosuficiencia",
+        "page_type": "concept",
+        "domain_primary_guess": "interdisciplinary.cultural_studies",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 15,
+        "framing_marks": [
+          {
+            "mark_type": "declared_thesis",
+            "quote_evidence": "El complejo de autosuficiencia es un fenómeno de ideas que son copias sin original, donde el individuo cree falsamente que su acto es genuino,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "El fenómeno se convierte en un meme: unidad mínima de información cultural que se propaga como un virus de mente en mente,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "En una cultura donde todos están desesperados por mostrar originalidad, paradójicamente todos terminan haciendo lo mismo,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "La falsa ilusión de autosuficiencia: cuanto más intentas demostrar que eres original, más vacío te sientes,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "scope.md §2.1: cumple criterio 'monográfico' — ~15 min sostenidos (49:11-1:05:00) como tesis articulada con marcador explícito ('el complejo de autosuficiencia es un fenómeno de...'). Categoría canal-específica precisa que no se reduce a páginas existentes: nombra el mecanismo cultural por el cual la búsqueda desesperada de originalidad produce homogeneidad masiva (copias sin original), conectándolo con la teoría de los memes como unidad mínima de información cultural y con la crítica de las políticas identitarias como meme de rebeldía. La articulación tiene rendimiento operativo claro (predice por qué la cultura hiperconectada genera homogeneidad pese a su retórica de individualidad). Conecta con woke-narrativa-postmoderna-moral, autotipo, y consumismo-critica pero no es reducible a ninguna — articula el mecanismo memético específico por el que el sujeto cree falsamente que su acto es genuino.",
+        "quote_evidence": "El complejo de autosuficiencia es un fenómeno de ideas que son copias sin original, donde el individuo cree falsamente que su acto es genuino,"
+      }
+    }
+  ]
+}
