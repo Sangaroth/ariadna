@@ -1,0 +1,203 @@
+{
+  "video_id": "E8VJDu4Fupc",
+  "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+  "playlist": "_streams",
+  "category": "filosofía y teoría",
+  "entities": [
+    {
+      "surface_form": "taxonomía de la fantasía",
+      "canonical_guess": "taxonomia-fantasia-en-proxy",
+      "page_type": "synthesis",
+      "domain_primary_guess": "interdisciplinary.cultural_studies",
+      "depth_in_video": "central_thesis",
+      "minutes_estimate": 35,
+      "framing_marks": [
+        {
+          "mark_type": "thesis_marker",
+          "quote_evidence": "Lo presenta como Mitología 101 con la \"pizarra de proxy\","
+        },
+        {
+          "mark_type": "pedagogic_register",
+          "quote_evidence": "De ahí surge la pregunta por la diferencia taxonómica entre los subproductos del cine de fantasía,"
+        },
+        {
+          "mark_type": "internal_structure",
+          "quote_evidence": "Los mitemas transitivos (golem, mago, dios, diosa, mito polar) dan el tema,"
+        },
+        {
+          "mark_type": "genealogical_self_reference",
+          "quote_evidence": "Lo presenta como Mitología 101 con la \"pizarra de proxy\","
+        }
+      ],
+      "assumed_prior": false,
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "exists_in_wiki": false,
+      "decision": "promote_new",
+      "decision_reason": "Tesis del canal articulada con estructura cruzada (5 mitemas transitivos × 4 géneros de transmisión + aventura residual) durante ~33 min sostenidos. Cumple gate de auto-promoción §2.4.1: minutes_sustained ≥30, signal_marks ≥3, framework_internal_structure ≥4. Ver thesis_candidates[] para detalle del gate y synthesis_subtype=author_thesis con auto_promoted_synthesis=true.",
+      "quote_evidence": "Los mitemas transitivos (golem, mago, dios, diosa, mito polar) dan el tema,"
+    }
+  ],
+  "pending_updates": [
+    {
+      "page_id": "apocalipsis-mitema",
+      "update_type": "insert_after_passage",
+      "anchor_passage": "el canal activa esta conexión al tratar los textos henóquicos.",
+      "section_target": null,
+      "content_proposed": "## Distinción soteriológica: Apocalipsis con promesa de salvación vs Ragnarok\n\nEn el directo *T5x23: Project Hail Mary y taxonomía de la fantasía* (may-2026) el canal añade una distinción intra-genérica que las cinco dimensiones de Polaris no fijaban: la dipartición soteriológica.\n\n> \"El Apocalipsis es el fin de todas las cosas tal como se conocen, no solo el bíblico,\"\n→ [Project Hail Mary y taxonomía de la fantasía (48:23)](https://youtu.be/E8VJDu4Fupc?t=2903)\n\n> \"Apocalipsis significa revelación, la gran profecía final,\"\n→ [Project Hail Mary y taxonomía de la fantasía (48:23)](https://youtu.be/E8VJDu4Fupc?t=2903)\n\n> \"Hay apocalipsis soteriológicos con promesa de salvación y otros como el Ragnarok, sin ella,\"\n→ [Project Hail Mary y taxonomía de la fantasía (48:23)](https://youtu.be/E8VJDu4Fupc?t=2903)\n\nLa distinción desdobla el mitema en dos modalidades estructurales: el Apocalipsis canónico abrahámico (de Juan, de Enoc) es **soteriológico** — el fin del mundo viejo trae consigo la promesa de la edad-futura perfecta, el dipolo edad-presente/edad-futura cumple su función dramática redentora. El Ragnarok nórdico, en cambio, es el caso límite del Apocalipsis **sin soteriología**: el fin acontece sin promesa de salvación, el dipolo se quiebra hacia el lado del derrumbe puro. La pieza cierra parcialmente la laguna sobre escatologías no abrahámicas (Ragnarok queda integrado como caso) y refina la cláusula del dipolo edad-presente/edad-futura: la promesa de la edad-futura no es ingrediente necesario del mitema apocalíptico — es modalidad soteriológica del mismo, no condición de pertenencia al género.\n\n## El Apocalipsis dentro de la taxonomía de la fantasía: mito no transitivo\n\nEl mismo directo sitúa el Apocalipsis dentro de una taxonomía cruzada (ver [[taxonomia-fantasia-en-proxy]]) donde se distingue de los mitemas transitivos por una propiedad estructural:\n\n> \"Los no transitivos son Génesis y Apocalipsis; no tienen protagonista ni transición,\"\n→ [Project Hail Mary y taxonomía de la fantasía (21:45)](https://youtu.be/E8VJDu4Fupc?t=1305)\n\n> \"En ellos no hay transformación de un objeto protagónico,\"\n→ [Project Hail Mary y taxonomía de la fantasía (22:46)](https://youtu.be/E8VJDu4Fupc?t=1366)\n\n> \"El protagonista del Génesis y el Apocalipsis es \\\"el todo\\\",\"\n→ [Project Hail Mary y taxonomía de la fantasía (22:46)](https://youtu.be/E8VJDu4Fupc?t=1366)\n\nLa pieza precisa una propiedad que la sección 'Dipolo con genesis-mitologico' implicaba sin nombrarla: el Apocalipsis comparte con el [[genesis-mitologico|Génesis]] la **no transitividad** narrativa. Los mitemas transitivos del corpus ([[golem-arquetipo]], [[mito-del-mago]], [[mito-solar]], [[mito-lunar]], [[mito-polar]]) tienen protagonista que sufre transformación entre un hecho inicial y un desenlace distinto; el Apocalipsis carece de esa estructura porque su 'protagonista' es la totalidad cósmica. Esta propiedad es lo que impide que el Apocalipsis se convierta directamente en aventura cinematográfica con personaje arquetípico — su transposición narrativa requiere insertar un héroe transitivo (mago, dios, polar) dentro del marco no transitivo del fin del mundo.",
+      "supersedes_laguna_text": "el Ragnarök nórdico",
+      "wikilinks_introduced": [
+        "taxonomia-fantasia-en-proxy"
+      ],
+      "citations_added": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "timestamp_seconds": 1305,
+          "cite_markdown": "[Project Hail Mary y taxonomía de la fantasía (21:45)](https://youtu.be/E8VJDu4Fupc?t=1305)"
+        },
+        {
+          "video_id": "E8VJDu4Fupc",
+          "timestamp_seconds": 1366,
+          "cite_markdown": "[Project Hail Mary y taxonomía de la fantasía (22:46)](https://youtu.be/E8VJDu4Fupc?t=1366)"
+        },
+        {
+          "video_id": "E8VJDu4Fupc",
+          "timestamp_seconds": 2903,
+          "cite_markdown": "[Project Hail Mary y taxonomía de la fantasía (48:23)](https://youtu.be/E8VJDu4Fupc?t=2903)"
+        }
+      ],
+      "rationale": "Verifiqué con Read del cuerpo completo de apocalipsis-mitema que (a) la distinción soteriológica explícita (Apocalipsis con/sin promesa de salvación) NO aparece — las cinco dimensiones de Polaris incluyen 'dipolo edad-presente/edad-futura' pero no nombran el caso del dipolo sin promesa de salvación; (b) Ragnarok aparece en la laguna 'Escatologías no abrahámicas' como ausencia diagnosticada — el nuevo material lo integra parcialmente, justificando supersedes_laguna_text en esa porción; (c) la propiedad no transitiva del Génesis+Apocalipsis no estaba articulada con esa categoría — la sección 'Posición en la tipología' decía 'dipolo temporal' pero no 'no transitividad' como propiedad estructural. La segunda subsección enlaza con la nueva page taxonomia-fantasia-en-proxy que se promueve en este mismo extracto.",
+      "editorial_intent": "extend"
+    }
+  ],
+  "thesis_candidates": [],
+  "discarded": [
+    {
+      "surface_form": "Project Hail Mary (película)",
+      "reason_code": "passing_mention",
+      "reason_detail": "La película funciona como caso anti-paradigmático que dispara la reflexión taxonómica (el speaker esperaba ciencia ficción estricta y le pareció 'fantasía futurista normal' tipo 'Guardianes de la Galaxia volumen 9'). Tratamiento ~3-4 min discontinuo, no análisis arquetípico sostenido. Material integrado en thesis_candidate como ejemplo del cruce ciencia ficción/cuento de hadas con paradigma decepcionante. NO procede entity_work autónomo: no se analiza la obra en sí sino su clasificación genérica.",
+      "quote_evidence": "Esperaba ciencia ficción estricta que desarrollara una premisa técnica,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-fantasia-en-proxy"
+    },
+    {
+      "surface_form": "The Martian (película)",
+      "reason_code": "passing_mention",
+      "reason_detail": "Referencia de contraste con Project Hail Mary como caso de ciencia ficción estricta. ~1 min de mención. No analizada arquetípicamente. Material integrado en thesis_candidate como ejemplo paradigmático de ciencia ficción blanda con resolución técnica de problemas.",
+      "quote_evidence": "The Martian es ciencia ficción estricta y al autor le pareció un peliculón,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-fantasia-en-proxy"
+    },
+    {
+      "surface_form": "Andy Weir (autor)",
+      "reason_code": "cannot_identify",
+      "reason_detail": "El speaker se refiere al 'mismo autor que The Martian' sin nombrarlo explícitamente. La identidad (Andy Weir) es extrapolación, no asertada en el corpus. Sin nombre explícito en summary, no procede promote_new para autor.",
+      "quote_evidence": "The Martian nació del blog de un ingeniero que escribía sobre cómo sobreviviría un astronauta atrapado en Marte,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Warhammer",
+      "reason_code": "passing_mention",
+      "reason_detail": "Caso ejemplar de ciencia ficción dura con premisa que cambia todo el paradigma. Mención breve aquí (~2 min) como caso ilustrativo de la taxonomía. La saga ya está cubierta por warhammer-y-fantasia-masculina (synthesis existente). Material refuerza la lectura existente como mezcla de géneros (ciencia ficción + cuento de hadas + terror + drama).",
+      "quote_evidence": "La dura tiene premisas locas que cambian todo el paradigma, como Warhammer o El juego de Ender,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "warhammer-y-fantasia-masculina"
+    },
+    {
+      "surface_form": "El juego de Ender",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención breve como ejemplo de ciencia ficción dura con premisa que cambia el paradigma. Sin análisis arquetípico sustantivo en este vídeo.",
+      "quote_evidence": "La dura tiene premisas locas que cambian todo el paradigma, como Warhammer o El juego de Ender,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "Rick and Morty",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención lateral como caso de obra que contiene todos los tipos de fantasía con persecución humorística (no terror). Sin análisis arquetípico.",
+      "quote_evidence": "Rick and Morty contiene todos los tipos, aunque su persecución es humorística, no terror,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": null
+    },
+    {
+      "surface_form": "The Boys",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención como ejemplo de cuento de hadas pese a no aparecer hadas — los superhéroes son personajes mágicos y eso basta para la clasificación. Sin análisis arquetípico sostenido.",
+      "quote_evidence": "The Boys es cuento de hadas aunque no aparezcan hadas, porque hay personajes mágicos,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-fantasia-en-proxy"
+    },
+    {
+      "surface_form": "Batman",
+      "reason_code": "passing_mention",
+      "reason_detail": "Mención como ejemplo de ciencia ficción blanda (sin magia, a diferencia de Superman). Sin análisis arquetípico sostenido.",
+      "quote_evidence": "Batman no tiene magia, por eso es ciencia ficción, a diferencia de Superman,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-fantasia-en-proxy"
+    },
+    {
+      "surface_form": "género zombie",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mención breve como caso del mito del gólem transformado en terror (cruce golem × terror en la taxonomía). Material integrado en thesis_candidate como celda paradigmática de la tabla cruzada mitema × modo.",
+      "quote_evidence": "El género zombie es el mito del golem transformado en terror,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "golem-arquetipo"
+    },
+    {
+      "surface_form": "tercera ley de Clarke",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Ley clásica de Arthur C. Clarke ('toda tecnología suficientemente avanzada es indistinguible de la magia') invocada como criterio de frontera fina entre cuento de hadas y ciencia ficción en la taxonomía. Material integrado en thesis_candidate y enriquece clarke-arthur-c.",
+      "quote_evidence": "La tercera ley de Clarke (tecnología avanzada indistinguible de magia) marca la frontera fina con la ciencia ficción,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "clarke-arthur-c"
+    },
+    {
+      "surface_form": "Miquella (Elden Ring)",
+      "reason_code": "passing_mention",
+      "reason_detail": "En el bloque 'Otros temas notables' al 1:12:15 el speaker menciona Miquella como figura crística truncada / diosa blanca sacrificada que se quiebra (no se corrompe). Mención breve fuera del bloque taxonómico, pero conceptualmente densa: introduce la distinción 'quiebra' vs 'corrupción' aplicada a una figura femenina arquetípica. Sin análisis sostenido de Elden Ring. Flag medium por el potencial conceptual: la distinción quiebra/corrupción podría enriquecer diosa-blanca o tipologia-femenina-arquetipica si reaparece en otros vídeos.",
+      "quote_evidence": "Sobre Elden Ring: Miquella como figura crística truncada, una diosa blanca sacrificada que luego se quiebra (más que corromperse).",
+      "review_priority": "medium",
+      "review_priority_reason": "Distinción quiebra vs corrupción aplicada a diosa blanca sacrificada: pieza conceptual potencialmente útil para diosa-blanca y/o tipologia-femenina-arquetipica si reaparece en otros vídeos. El propietario puede valorar añadir Elden Ring al canonical_whitelist soft.",
+      "enriches_concept": "diosa-blanca"
+    },
+    {
+      "surface_form": "confabulación y alucinación",
+      "reason_code": "established_concept_used_as_example",
+      "reason_detail": "Mención técnica clínica usada como contraste de la fantasía deliberada: hay ficciones no fantásticas porque las crea la psique sin deliberación. Conceptos técnicos de psicopatología estándar, no objeto enciclopédico del canal. Material refuerza la distinción ficción/fantasía del thesis_candidate.",
+      "quote_evidence": "Hay ficciones no fantásticas: la confabulación o la alucinación las crea la psique,",
+      "review_priority": "low",
+      "review_priority_reason": null,
+      "enriches_concept": "taxonomia-fantasia-en-proxy"
+    }
+  ],
+  "blocks_filtered_by_topic_filters": [],
+  "summary_stats": {
+    "entities_total": 1,
+    "promoted_new": 1,
+    "promoted_updates": 1,
+    "thesis_candidates_count": 1,
+    "discarded_count": 12,
+    "blocks_filtered_count": 0
+  },
+  "extraction_metadata": {
+    "extracted_at": "2026-06-07T00:00:00Z",
+    "extractor_version": "0.1.0",
+    "scope_md_version": "0.3.0",
+    "whitelist_version": "0.1.0"
+  },
+  "_validation_warnings": [
+    "DROP thesis[?]: 0 marks válidos restantes",
+    "WARN promote_new[taxonomía de la fantasía] depth=central_thesis: sin stub_proposed; stub minimal generado solo desde quote_evidence"
+  ]
+}

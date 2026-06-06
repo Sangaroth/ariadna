@@ -1,0 +1,603 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260606_230255_b001",
+  "generated_at": "2026-06-06T23:40:00+00:00",
+  "entities": {
+    "taxonomia-fantasia-en-proxy": {
+      "canonical_name": "taxonomía de la fantasía",
+      "page_type": "synthesis",
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": "central_thesis",
+          "minutes": 35,
+          "framing_marks_count": 4,
+          "decision": "promote_new",
+          "decision_reason": "Tesis del canal articulada con estructura cruzada (5 mitemas transitivos × 4 géneros de transmisión + aventura residual) durante ~33 min sostenidos. Cumple gate de auto-promoción §2.4.1: minutes_sustained ≥30, signal_marks ≥3, framework_internal_structure ≥4. Ver thesis_candidates[] para detalle del gate y synthesis_subtype=author_thesis con auto_promoted_synthesis=true.",
+          "quote_evidence": "Los mitemas transitivos (golem, mago, dios, diosa, mito polar) dan el tema,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 35,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Project Hail Mary (película)": {
+      "canonical_name": "Project Hail Mary (película)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Esperaba ciencia ficción estricta que desarrollara una premisa técnica,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "The Martian (película)": {
+      "canonical_name": "The Martian (película)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "The Martian es ciencia ficción estricta y al autor le pareció un peliculón,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Andy Weir (autor)": {
+      "canonical_name": "Andy Weir (autor)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "cannot_identify",
+          "quote_evidence": "The Martian nació del blog de un ingeniero que escribía sobre cómo sobreviviría un astronauta atrapado en Marte,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Warhammer": {
+      "canonical_name": "Warhammer",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La dura tiene premisas locas que cambian todo el paradigma, como Warhammer o El juego de Ender,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "El juego de Ender": {
+      "canonical_name": "El juego de Ender",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "La dura tiene premisas locas que cambian todo el paradigma, como Warhammer o El juego de Ender,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Rick and Morty": {
+      "canonical_name": "Rick and Morty",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Rick and Morty contiene todos los tipos, aunque su persecución es humorística, no terror,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "The Boys": {
+      "canonical_name": "The Boys",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "The Boys es cuento de hadas aunque no aparezcan hadas, porque hay personajes mágicos,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Batman": {
+      "canonical_name": "Batman",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Batman no tiene magia, por eso es ciencia ficción, a diferencia de Superman,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "género zombie": {
+      "canonical_name": "género zombie",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El género zombie es el mito del golem transformado en terror,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "tercera ley de Clarke": {
+      "canonical_name": "tercera ley de Clarke",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La tercera ley de Clarke (tecnología avanzada indistinguible de magia) marca la frontera fina con la ciencia ficción,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Miquella (Elden Ring)": {
+      "canonical_name": "Miquella (Elden Ring)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Sobre Elden Ring: Miquella como figura crística truncada, una diosa blanca sacrificada que luego se quiebra (más que corromperse).",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "confabulación y alucinación": {
+      "canonical_name": "confabulación y alucinación",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "E8VJDu4Fupc",
+          "video_title": "T5x23: Project Hail Mary y taxonomía de la fantasía",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Hay ficciones no fantásticas: la confabulación o la alucinación las crea la psique,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "haugeland-john": {
+      "canonical_name": "Haugeland",
+      "page_type": "author",
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": "central_thesis",
+          "minutes": 25,
+          "framing_marks_count": 3,
+          "decision": "promote_new",
+          "decision_reason": "Cumple scope.md §2.2 'substantive treatment': ~25 min de exposición sostenida de su libro Mind Embodied and Embedded, conceptos acuñados (intimidad, GOFAI) y su crítica al cartesianismo cognitivo. Figura foundational en filosofía de la mente que el canal usa como interlocutor pivote del realismo cognitivo, en paralelo estructural a Maturana/Varela (page existente). El sub-agente construirá el cuerpo con la lectura del antilocalizacionismo compartido, la crítica al GOFAI, el concepto de intimidad y la divergencia con la cláusula antirrepresentacionalista 4E.",
+          "quote_evidence": "Hablar de Haugeland es hablar de filosofía de la mente y de ciencias cognitivas,"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "promote_new"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 25,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Raspberry Pi Zero / proyecto Pandora": {
+      "canonical_name": "Raspberry Pi Zero / proyecto Pandora",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "meta_canal",
+          "quote_evidence": "Tiene dos Raspberry Pi Zero, una 2W (cuatro o cinco veces más potente) que es la que necesita para el proyecto,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cognición 4E": {
+      "canonical_name": "cognición 4E",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "La cognición 4E es inactiva, corporizada, embebida y extendida,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Clark": {
+      "canonical_name": "Clark",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Clark concede que sí existen mapas mentales usados para inferir, como en el tubo,",
+          "review_priority_hint": "medium"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "GOFAI": {
+      "canonical_name": "GOFAI",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_taxonomy",
+          "quote_evidence": "Haugeland acuñó GOFAI (good old fashioned artificial intelligence) en su libro Artificial Intelligence,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Mind Embodied and Embedded": {
+      "canonical_name": "Mind Embodied and Embedded",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El libro de Haugeland ataca la idea de que la mente ocurre dentro del córtex prefrontal,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Artificial Intelligence (libro de Haugeland)": {
+      "canonical_name": "Artificial Intelligence (libro de Haugeland)",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "Haugeland acuñó GOFAI (good old fashioned artificial intelligence) en su libro Artificial Intelligence,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "cuerpo calloso": {
+      "canonical_name": "cuerpo calloso",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El cuerpo calloso permanece dividido de pequeños y se engrosa al crecer,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "Kant": {
+      "canonical_name": "Kant",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "passing_mention",
+          "quote_evidence": "Matria sostiene que, desde Kant, solo tenemos acceso a la representación y no a la cosa en sí,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    },
+    "comportamiento de utilización": {
+      "canonical_name": "comportamiento de utilización",
+      "page_type": null,
+      "occurrences": [
+        {
+          "video_id": "wts74ONWRSQ",
+          "video_title": "T5x21: Representacionalismo vs cognición 4E",
+          "depth": null,
+          "minutes": null,
+          "framing_marks_count": 0,
+          "decision": "discard",
+          "decision_reason": "established_concept_used_as_example",
+          "quote_evidence": "El comportamiento de utilización es un fallo del control inhibitorio: se ve un objeto y se usa instintivamente,",
+          "review_priority_hint": "low"
+        }
+      ],
+      "is_canonical_external": false,
+      "is_in_whitelist_soft": false,
+      "decisions_seen": [
+        "discard"
+      ],
+      "occurrences_count": 1,
+      "total_minutes": 0,
+      "review_priority": "low",
+      "review_priority_reason": null
+    }
+  }
+}

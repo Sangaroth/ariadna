@@ -1,0 +1,76 @@
+{
+  "version": "0.1.0",
+  "run_id": "overnight_20260606_230255_b001",
+  "items": [
+    {
+      "canonical_guess": "taxonomia-fantasia-en-proxy",
+      "from_video": "E8VJDu4Fupc",
+      "entity": {
+        "surface_form": "taxonomía de la fantasía",
+        "canonical_guess": "taxonomia-fantasia-en-proxy",
+        "page_type": "synthesis",
+        "domain_primary_guess": "interdisciplinary.cultural_studies",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 35,
+        "framing_marks": [
+          {
+            "mark_type": "thesis_marker",
+            "quote_evidence": "Lo presenta como Mitología 101 con la \"pizarra de proxy\","
+          },
+          {
+            "mark_type": "pedagogic_register",
+            "quote_evidence": "De ahí surge la pregunta por la diferencia taxonómica entre los subproductos del cine de fantasía,"
+          },
+          {
+            "mark_type": "internal_structure",
+            "quote_evidence": "Los mitemas transitivos (golem, mago, dios, diosa, mito polar) dan el tema,"
+          },
+          {
+            "mark_type": "genealogical_self_reference",
+            "quote_evidence": "Lo presenta como Mitología 101 con la \"pizarra de proxy\","
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Tesis del canal articulada con estructura cruzada (5 mitemas transitivos × 4 géneros de transmisión + aventura residual) durante ~33 min sostenidos. Cumple gate de auto-promoción §2.4.1: minutes_sustained ≥30, signal_marks ≥3, framework_internal_structure ≥4. Ver thesis_candidates[] para detalle del gate y synthesis_subtype=author_thesis con auto_promoted_synthesis=true.",
+        "quote_evidence": "Los mitemas transitivos (golem, mago, dios, diosa, mito polar) dan el tema,"
+      }
+    },
+    {
+      "canonical_guess": "haugeland-john",
+      "from_video": "wts74ONWRSQ",
+      "entity": {
+        "surface_form": "Haugeland",
+        "canonical_guess": "haugeland-john",
+        "page_type": "author",
+        "domain_primary_guess": "humanities.philosophy",
+        "depth_in_video": "central_thesis",
+        "minutes_estimate": 25,
+        "framing_marks": [
+          {
+            "mark_type": "foundational_invocation",
+            "quote_evidence": "Hablar de Haugeland es hablar de filosofía de la mente y de ciencias cognitivas,"
+          },
+          {
+            "mark_type": "applied_framework",
+            "quote_evidence": "Haugeland y los realistas niegan que el prefrontal sea el centro del gran procesamiento,"
+          },
+          {
+            "mark_type": "self_referenced_origin",
+            "quote_evidence": "Haugeland acuñó el término intimidad para la relación entre sistema nervioso y mundo exterior,"
+          }
+        ],
+        "assumed_prior": false,
+        "is_canonical_external": false,
+        "is_in_whitelist_soft": false,
+        "exists_in_wiki": false,
+        "decision": "promote_new",
+        "decision_reason": "Cumple scope.md §2.2 'substantive treatment': ~25 min de exposición sostenida de su libro Mind Embodied and Embedded, conceptos acuñados (intimidad, GOFAI) y su crítica al cartesianismo cognitivo. Figura foundational en filosofía de la mente que el canal usa como interlocutor pivote del realismo cognitivo, en paralelo estructural a Maturana/Varela (page existente). El sub-agente construirá el cuerpo con la lectura del antilocalizacionismo compartido, la crítica al GOFAI, el concepto de intimidad y la divergencia con la cláusula antirrepresentacionalista 4E.",
+        "quote_evidence": "Hablar de Haugeland es hablar de filosofía de la mente y de ciencias cognitivas,"
+      }
+    }
+  ]
+}
