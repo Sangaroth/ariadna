@@ -291,7 +291,7 @@ def compile_batch(run_id: str) -> bool:
 def rebuild_wiki_db() -> bool:
     log("rebuild data/wiki.db")
     rc, out, err = run_subprocess(
-        [sys.executable, "scripts/build_wiki_db.py"],
+        [sys.executable, "scripts/build_wiki_db.py", "--project", "proxy"],
         "build_wiki_db",
         timeout=120,
     )
@@ -307,7 +307,7 @@ def reindex_qdrant() -> bool:
     subprocess.run(["pkill", "-f", "ariadna.mcp_server"], cwd=REPO)
     time.sleep(2)
     rc, out, err = run_subprocess(
-        [sys.executable, "scripts/index_wiki_to_qdrant.py"],
+        [sys.executable, "scripts/index_wiki_to_qdrant.py", "--project", "proxy"],
         "index_wiki_to_qdrant",
         timeout=300,
     )
