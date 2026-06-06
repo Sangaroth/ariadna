@@ -191,3 +191,4 @@ Esta duplicidad —Pandora que libera lo que no puede custodiar, Dios maligno qu
 - **MItología 101: El Gólem** — chunks: [1:05:29](https://youtu.be/IG3dkNBX9uU?t=3929) · [1:26:19](https://youtu.be/IG3dkNBX9uU?t=5179) · [1:34:29](https://youtu.be/IG3dkNBX9uU?t=5669)
 - **Taxonomía de las criaturas malignas** — chunks: [35:06](https://youtu.be/rG_et1_G7Hs?t=2106) · [39:54](https://youtu.be/rG_et1_G7Hs?t=2394)
 - **Análisis arquetípico de Unicorn wars** — chunks: [20:20](https://youtu.be/fLfEbHPJNmU?t=1220)
+- **Event Horizon** — chunks: [0:39](https://youtu.be/cgO7JwvwOQg?t=39)

@@ -126,5 +126,5 @@ Esta lectura sincrética sitúa la obra de [[tolkien-jrr]] como continuación li
 - **La IA se sale de madre. Ética e IA parte 2 2026-02-17 22:58** — chunks: [38:20](https://youtu.be/i72IYlpQWd0?t=2300)
 - **Presentación del Libro: Polaris** — chunks: [15:47](https://youtu.be/rLeMS4-XFrA?t=947)
 - **Mitología 101: Blancanieves y los enanitos, Star Wars y el Señor de los Anillos.** — chunks: [1:25:25](https://youtu.be/DNxx4qwb944?t=5125) · [1:26:56](https://youtu.be/DNxx4qwb944?t=5216)
-- **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [2:08:05](https://youtu.be/xaFCTcXXI2o?t=7685)
 - **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [52:02](https://youtu.be/E8VJDu4Fupc?t=3122)
+- **Lunes Asertivo, Sobre el Papa y la IA** — chunks: [2:08:05](https://youtu.be/xaFCTcXXI2o?t=7685)

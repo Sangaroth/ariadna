@@ -242,3 +242,4 @@ Esta página se ha auto-promovido al cumplir el gate de scope.md §2.4.1 (`minut
 ## Citations
 
 - **T5x05: El Síndrome Delirante y Proyecto Teseus.** — chunks: [37:39](https://youtu.be/NKFWUxt5VQ4?t=2259)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [54:35](https://youtu.be/E8VJDu4Fupc?t=3275)

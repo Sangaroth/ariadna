@@ -2558,5 +2558,71 @@
     "alias_exists": false,
     "applied_at": null,
     "apply_outcome": null
+  },
+  "967e94bf6c22d3f4:ffb02ba9de5fe7bc": {
+    "match_page_id": "alien-saga",
+    "confidence": "high",
+    "rationale": "'Saga Alien' es referencia directa a 'Alien (saga)' — misma obra, variante morfológica menor (orden adjetivo-sustantivo vs sustantivo solo).",
+    "analyzed_at": "2026-06-06T23:40:27.021801+00:00",
+    "candidates_signature": "ffb02ba9de5fe7bc",
+    "alias_candidate": "Saga Alien",
+    "alias_exists": false,
+    "applied_at": "2026-06-06T23:41:12.773113+00:00",
+    "apply_outcome": "applied_citation+alias"
+  },
+  "00e8544f6de9efa5:007feeaca72a3423": {
+    "match_page_id": "harry-potter-saga",
+    "confidence": "high",
+    "rationale": "La mención nombra explícitamente 'Harry Potter' y el reason_detail confirma que ya tiene página propia; el surface_form es una referencia directa a esa obra.",
+    "analyzed_at": "2026-06-06T23:40:34.674668+00:00",
+    "candidates_signature": "007feeaca72a3423",
+    "alias_candidate": "Harry Potter",
+    "alias_exists": false,
+    "applied_at": "2026-06-06T23:41:12.773113+00:00",
+    "apply_outcome": "applied_citation+alias"
+  },
+  "687d9fc66cbd315d:a26f68c2fc11cdd2": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "La mención refiere a Andy Clark (filósofo del 4E cognition), no a Arthur C. Clarke (autor de ciencia ficción); ninguna candidata corresponde.",
+    "analyzed_at": "2026-06-06T23:40:41.732098+00:00",
+    "candidates_signature": "a26f68c2fc11cdd2",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "4d980f597479c407:41b7385e131e005d": {
+    "match_page_id": null,
+    "confidence": "high",
+    "rationale": "The Martian es una obra específica no representada en ninguna candidata; las 5 páginas son obras distintas sin relación semántica directa con esta película.",
+    "analyzed_at": "2026-06-06T23:40:49.264137+00:00",
+    "candidates_signature": "41b7385e131e005d",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
+  },
+  "3f0bdaf8749c32ac:b059686d35c237e3": {
+    "match_page_id": "anatomia-de-la-fantasia-y-sindrome-delirante",
+    "confidence": "high",
+    "rationale": "La mención usa confabulación y alucinación como casos de ficción no deliberada para contrastar con la fantasía consciente, tema central de la página sobre anatomía de la fantasía y síndrome delirante.",
+    "analyzed_at": "2026-06-06T23:40:56.617352+00:00",
+    "candidates_signature": "b059686d35c237e3",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": "2026-06-06T23:41:12.773113+00:00",
+    "apply_outcome": "applied_citation"
+  },
+  "cb74f2c9bdb2970e:6d42ea6f12255ef8": {
+    "match_page_id": null,
+    "confidence": "low",
+    "rationale": "La mención describe el marco taxonómico 6+2 de clases representacionales de la tesis de Proxy (página tesis-once-celdas-en-proxy, no incluida entre candidatas); ninguna de las cinco candidatas cubre ese núcleo — teoría de memoria, fobia, emociones, fantasía y lenguaje son dominios parcialmente relacionados pero ninguno es la página que centraliza la taxonomía representacional mínima.",
+    "analyzed_at": "2026-06-06T23:41:04.440006+00:00",
+    "candidates_signature": "6d42ea6f12255ef8",
+    "alias_candidate": null,
+    "alias_exists": false,
+    "applied_at": null,
+    "apply_outcome": null
   }
 }

@@ -208,6 +208,6 @@ La consecuencia editorial cierra la oposición operativa: donde el mago se conde
 - **Fantasía Realizada** — chunks: [1:43](https://youtu.be/tt0hNPvCpjw?t=103)
 - **T5x19: Realismo y mitología.** — chunks: [56:48](https://youtu.be/GDQSqtdFjBs?t=3408)
 - **T5x14: Conan** — chunks: [1:00:37](https://youtu.be/mR2X391fQu4?t=3637) · [1:05:09](https://youtu.be/mR2X391fQu4?t=3909) · [1:08:41](https://youtu.be/mR2X391fQu4?t=4121) · [1:10:43](https://youtu.be/mR2X391fQu4?t=4243) · [1:15:18](https://youtu.be/mR2X391fQu4?t=4518)
+- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [46:20](https://youtu.be/E8VJDu4Fupc?t=2780)
 - **BUT WHY?** — chunks: [10:17](https://youtu.be/4tAWgX7-yXk?t=617)
 - **T5x06: De niños a hombres. Anime, Warhammer, y fantasía universal. Con Recuenco y Torres.** — chunks: [1:16:25](https://youtu.be/xc8e2i_nREE?t=4585)
-- **T5x23: Project Hail Mary y taxonomía de la fantasía.** — chunks: [21:45](https://youtu.be/E8VJDu4Fupc?t=1305) · [46:20](https://youtu.be/E8VJDu4Fupc?t=2780)
